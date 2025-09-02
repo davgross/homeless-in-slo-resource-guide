@@ -2,8 +2,11 @@
 
 ## Project Overview
 
-The file "Resource guide possible outline.md" contains the outline of a to-be-written comprehensive resource guide titled "Surviving Homelessness in San Luis Obispo."
+The file @"Resource guide possible outline.md" contains the outline of a to-be-written comprehensive resource guide titled "Surviving Homelessness in San Luis Obispo."
 This file is too large for you to read in completely, given your token limit (so use methods to read it in smaller chunks).
+
+The @Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide outline.
+This can be used as a single source of truth for those data, and can be cross-referenced as such from the resource guide outline.
 
 ### About The Target Audience of the Guide
 Most of the text in this outline is intended for the researchers and editors of this guide.
