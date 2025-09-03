@@ -31,7 +31,7 @@
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
 ### <a id="Access-Central-Coast">Access Central Coast</a>
-*See also [**Central Coast Aging & Disability Resource Center**](#CCADRC)*
+> *See also [**Central Coast Aging & Disability Resource Center**](#CCADRC)*
 - [accesscentralcoast.org](http://accesscentralcoast.org/)
 - Phone: 805-462-1162 (videophone: 805-464-3203)
 - Location: 51 Zaca Ln. #140, SLO
@@ -50,8 +50,7 @@
 ### <a id="Adventist-Health-Sierra-Vista">Adventist Health Sierra Vista</a>
 - Location: 1010 Murray Ave., SLO
 - Phone: 805-546-7600
-
-Note: hosts “Liberty Tattoo Removal Program ([**CAPSLO**](#CAPSLO))”
+- Note: hosts “Liberty Tattoo Removal Program ([**CAPSLO**](#CAPSLO))”
 
 ### <a id="Aegis-Treatment-Centers">Aegis Treatment Centers</a>
 - [pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/)
@@ -59,10 +58,10 @@ Note: hosts “Liberty Tattoo Removal Program ([**CAPSLO**](#CAPSLO))”
 - Phone: 805-461-5212
 
 ### Aging & Disability Resource Center (ADRC)
-*See [**Central Coast Aging & Disability Resource Center**](#CCADRC)*
+> *See [**Central Coast Aging & Disability Resource Center**](#CCADRC)*
 
 ### AIDS Support Network
-*See [**Access Support Network**](#ASN)*
+> *See [**Access Support Network**](#ASN)*
 
 ### <a id="AA">Alcoholics Anonymous</a>
 - [sloaa.org](http://sloaa.org/)
@@ -82,7 +81,7 @@ Note: hosts “Liberty Tattoo Removal Program ([**CAPSLO**](#CAPSLO))”
    - Tu. 1pm–5pm (SLO)
 
 ### American Academy of Opthamology
-*See [**EyeCare America**](#EyeCare-America)*
+> *See [**EyeCare America**](#EyeCare-America)*
 
 ### <a id="American-Cancer-Society">American Cancer Society</a>
 - Patient Lodging Programs: [cancer.org/support-programs-and-services/patient-lodging.html](https://www.cancer.org/support-programs-and-services/patient-lodging.html)
@@ -90,30 +89,29 @@ Note: hosts “Liberty Tattoo Removal Program ([**CAPSLO**](#CAPSLO))”
 - Phone: 800-227-2345
 
 ### Area Agency on Aging
-*See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
+> *See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
 
 ### <a id="Arroyo-Grande-Community-Hospital">Arroyo Grande Community Hospital</a>
-*See also [**Dignity Health**](#Dignity-Health)*
+> *See also [**Dignity Health**](#Dignity-Health)*
 - Location: 345 S. Halcyon Rd., Arroyo Grande
 - Phone: 805-473-7626 (ER) or 805-489-4261 (front desk)
 
 ### Balay Ko on Barka
-*See [**5Cities Homeless Coalition**](#5CHC)*
+> *See [**5Cities Homeless Coalition**](#5CHC)*
 
 ### <a id="BHBH">Behavioral Health Bridge Housing (BHBH) Program</a>
-*See **Transitions Mental Health Association (TMHA)***
+> *See [**Transitions Mental Health Association (TMHA)**](#TMHA)*
 - [www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing)
-- Contact: Mark Lamore, Director of Homeless Services at TMHA, 805-540-6500 (Clinical questions: Samantha Parker, Access and Crisis Services Division Manager)
+- Contact: Mark Lamore, Director of Homeless Services at [**TMHA**](#TMHA), 805-540-6500 (Clinical questions: Samantha Parker, Access and Crisis Services Division Manager)
 
-### Boyd Bristol Medical Equipment Program
+### <a id="Boyd-Bristol-Medical-Equipment-Program">Boyd Bristol Medical Equipment Program</a>
 - [post66slo.org/serving-veterans](https://post66slo.org/serving-veterans/)
 - Phone: 805-543-6445
 - Location: 1161 Mill St., SLO
-
-Note: Only for veterans and veterans’ dependents. By appointment only; call to make an appointment.
+- Note: Only for veterans and veterans’ dependents. By appointment only; call to make an appointment.
 
 ### Cabins for Change
-*See [**5Cities Homeless Coalition**](#5CHC)*
+> *See [**5Cities Homeless Coalition**](#5CHC)*
 
 ### <a id="California-Connect">California Connect</a>
 - [caconnect.org](https://caconnect.org/)
@@ -137,27 +135,28 @@ Note: Only for veterans and veterans’ dependents. By appointment only; call to
       - 916-558-5673 (TTY)
       - Source: [dor.ca.gov](https://www.dor.ca.gov/Home/ContactUs)
 - Location: 3320 S. Higuera #102, SLO
-- Access: No walk-ins. Call them, or fill out a form on their website.
+- How to access: No walk-ins. Call them, or fill out a form on their website.
 
 ### California Telephone Access Program (CTAP)
-*See **California Connect***
+> *See [**California Connect**](#California-Connect)*
 
-### Cal Poly Community Counseling Service
+### <a id="Cal-Poly-Community-Counseling-Service">Cal Poly Community Counseling Service</a>
+> *See also [**Community Counseling Center**](#Community-Counseling-Center)*
 - [psycd.calpoly.edu/community-programs/counseling-clinic](https://psycd.calpoly.edu/community-programs/counseling-clinic)
 - Phone: 805-756-1532
 - Cotchett Education Bldg. 2, Room 125, Cal Poly SLO
 - No walk-ins: Call to make an appointment.
 
 ### CAPSLO
-*See **Community Action Partnership San Luis Obispo (CAPSLO)***
+> *See [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
-### Captive Hearts
+### <a id="Captive-Hearts">Captive Hearts</a>
 - [captivehearts.org](http://captivehearts.org/)
 - Location: Grover Beach
 - Phone: 805-481-4500 (before 3pm)
 - Email: [info@captivehearts.org](info@captivehearts.org)
 
-### Casa Solana
+### <a id="Casa-Solana">Casa Solana</a>
 - [casasolanainc.org](http://casasolanainc.org/)
 - Phone: 805-481-8555 (9am–4pm)
 
@@ -172,12 +171,14 @@ Note: Only for veterans and veterans’ dependents. By appointment only; call to
    - 3592 Broad St. #104, SLO
    - Note: Multiple locations listed; unable to verify which specific services are offered at each location from available sources. Contact Catholic Charities directly at 805-541-9110 for location-specific services.
 
-### CenCal
-*See also **Medi-Cal***
+### <a id="CenCal">CenCal</a>
+> *See also [**Medi-Cal**](#Medi-Cal)*
 - [Cencalhealth.org](http://cencalhealth.org/)
 - Phone: 877-814-1861 (M–F, 8am–5pm)
-- CenCal Shuttle
-   - Phone: 855-659-4600
+- CenCal Shuttle: *See [Ride-On Transportation](#Ride-On-Transportation)*
+
+### CenCal Health Transportation
+> *See [Ride-On Transportation](#Ride-On-Transportation)*
 
 ### <a id="CSF">Center for Family Strengthening (CSF)</a>
 - [cfsslo.org](https://cfsslo.org/)
@@ -185,13 +186,12 @@ Note: Only for veterans and veterans’ dependents. By appointment only; call to
 - Phone: 805-439-1994
    - make referrals via Adult Protective Services, 805-781-1790 (M–F 8am–5pm) or 844-729-8011 (24/7)
 - Email: [info@cfsslo.org](mailto:info@cfsslo.org)
+- Notes:
+   - operates [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
+   - operates “Parent Connection of SLO County”
+   - partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
 
-Notes:
-- operates “Medically Fragile Homeless Program”
-- operates “Parent Connection of SLO County”
-- partner in “SLO County UndocuSupport”
-
-### The Center for Health & Prevention
+### <a id="The-Center">The Center for Health & Prevention</a>
 - [capslo.org/the-center](https://capslo.org/the-center/)
 - Phone:
    - 805-489-4026 (Arroyo Grande)
@@ -202,9 +202,8 @@ Notes:
    - 705 Grand Ave. (SLO)
 - Hours: M–F 8:30am–5:30pm
    - (Teen clinic Tuesday 3–6pm, Friday 3–5:30pm in Arroyo Grande)
-- Access: Walk-ins OK, but appointments recommended.
-
-Note: operated by “Community Action Partnership San Luis Obispo (CAPSLO)”
+- How to access: Walk-ins OK, but appointments recommended.
+- Note: operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
 
 ### <a id="CCADRC">Central Coast Aging & Disability Resource Center (CCADRC)</a>
 - [centralcoastseniors.org/aging-and-disability-resource-center](https://centralcoastseniors.org/aging-and-disability-resource-center/)
@@ -213,12 +212,11 @@ Note: operated by “Community Action Partnership San Luis Obispo (CAPSLO)”
 - Location: 528 S. Broadway, Santa Maria
 - Hours: M–F 8am–5pm (closed Noon–1pm)
 - Walk-ins OK.
+- Notes:
+   - partner in [**Access Central Coast**](#Access-Central-Coast)
+   - operated by [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)
 
-Note:
-- partner in [**Access Central Coast**](#Access-Central-Coast)
-- operated by [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)
-
-### Central Coast Assistive Technology Center
+### <a id="CCATC">Central Coast Assistive Technology Center</a>
 - [ccatc.org](https://ccatc.org/)
 - Phone: 805-549-7420 (TTY: 805-549-7424)
 - Location: 11491 Los Osos Valley Rd., SLO
@@ -229,70 +227,70 @@ Note:
 - Phone: 800-434-0222 / 805-925-9554
 - Email: [info@centralcoastseniors.org](info@centralcoastseniors.org)
 - Hours: M–F 8am–5pm
+- Notes:
+   - the local “Area Agency on Aging”
+   - operates [**Senior Connection**](#Senior-Connection)
+   - operates [**HiCAP**](#HiCAP)
+   - operates [**Central Coast Aging & Disability Resource Center**](#CCADRC)
 
-Notes:
-- the local “Area Agency on Aging”
-- operates “Senior Connection”
-- operates “HiCAP”
-- operates [**Central Coast Aging & Disability Resource Center**](#CCADRC)
-
-### Central Coast Dental Society
+### <a id="CCDS">Central Coast Dental Society</a>
 - Phone: 805-544-1113
 - Email: [ccds@charter.net](ccds@charter.net)
 - Location: 1356 Marsh St., SLO
 
-### Central Coast Recovery
+### <a id="Central-Coast-Recovery">Central Coast Recovery</a>
 - Location: Grover Beach
 - Phone: 805-709-4077
 
 ### CHC
-*See [**Community Health Centers of the Central Coast**](#CHC)*
+> *See [**Community Health Centers of the Central Coast**](#CHC)*
 
 ### Commission for Senior Citizens
-*See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
+> *See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
 
-### Coastal Dunes RV Park & Campground / Oceano Campground
+### <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a> / <a id="Oceano-Campground">Oceano Campground</a>
 - [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
 - Phone: 805-781-4900 M–Th 8am–4:30pm; F–Su 8am–6pm, 805-781-5930 (reservations)
 
-### Community Action Partnership San Luis Obispo (CAPSLO)
+### <a id="CAPSLO">Community Action Partnership San Luis Obispo (CAPSLO)</a>
 - [capslo.org](https://capslo.org/)
 - Phone: 805-706-8663 (Hotline) / 805-544-4355 (Admin) / 805-544-4004 (40 Prado)
 - Email: [hotline@capslo.org](mailto:hotline@capslo.org)
 - Location: 40 Prado Rd., SLO
 - Hours: M–F 9am–5pm
+- Notes:
+   - operates [**40 Prado Homeless Services Center**](#40-Prado)
+   - operates [**The Center for Health & Prevention**](#The-Center)
+   - operates “Child Care Resource Connection (CCRC)”
+   - operates [**Coordinated Entry System (CES)**](#CES)
+   - operates “Head Start”
+   - operates “Liberty Tattoo Removal Program”
+   - operates “Low Income Home Energy Assistance Program (LIHEAP)”
+   - operates [**Outreach &amp; Engagement Services**](#Outreach-and-Engagement-Services)
+   - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
+   - operates “Senior Health Screening”
+   - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
+   - operates “Teen Wellness”
+   - partner in [**SLO Hub**](#SLO-Hub)
+   - partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
+   - entry-point for the [**Coordinated Entry System (CES)**](#CES)
+   - entry-point for the [**Enhanced Care Management**](#Enhanced-Care-Management)
+   - on board of “Emergency Food and Shelter Program”
 
-Notes:
-- operates “40 Prado Homeless Services Center”
-- operates “The Center for Health & Prevention”
-- operates “Child Care Resource Connection (CCRC)”
-- operates [**Coordinated Entry System (CES)**](#CES)
-- operates “Head Start”
-- operates “Liberty Tattoo Removal Program”
-- operates “Low Income Home Energy Assistance Program (LIHEAP)”
-- operates “Outreach &amp; Engagement Services”
-- operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
-- operates “Senior Health Screening”
-- operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
-- operates “Teen Wellness”
-- partner in [**SLO Hub**](#SLO-Hub)
-- partner in “SLO County UndocuSupport”
-- entry-point for the [**Coordinated Entry System (CES)**](#CES)
-- entry-point for the “Enhanced Care Management”
-- on board of “Emergency Food and Shelter Program”
-
-### Community Counseling Center
+### <a id="Community-Counseling-Center">Community Counseling Center</a>
+> *See also [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
 - [cccslo.org/what-we-do.php](https://www.cccslo.org/what-we-do.php)
 - Phone: 805-543-7969
 - Location: 676 Pismo St., SLO
 - Hours: M–F 9am–6pm
-- Access: Call to make an appointment
+- How to access: Call to make an appointment
 
 ### Community Counseling Service
-*See **Cal Poly Community Counseling Service***
+> *See [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
 
 ### Community Foundation of SLO County
-Note: partner in “SLO County UndocuSupport”
+To-do
+- Note: partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
 
 ### <a id="CHC">Community Health Centers of the Central Coast</a>
 - [communityhealthcenters.org](http://www.communityhealthcenters.org/)
@@ -307,23 +305,20 @@ Note: partner in “SLO County UndocuSupport”
    - 40 Prado, SLO, 805-269-1500 ([**Healthcare for the Homeless Program**](#HCHP))
 - “CHC Transportation Services” is a door-to-door ride service to appointments
    - Phone: 877-743-3242
-
-Notes:
-- also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
+- Note: also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
 
 ### Community Safe Parking Program
-*See [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)*
+> *See [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)*
 
 ### <a id="CES">Coordinated Entry System (CES)</a>
-*See **Community Action Partnership San Luis Obispo (CAPSLO)***
+> *See [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 - Contact:
    - South County: Contact 5Cities Homeless Coalition at [info@5chc.org](mailto:info@5chc.org) or 805-574-1638
-   - County-wide: Contact SLO County Social Services at 805-781-1600
-   - Or initiate contact via participating agencies like CAPSLO, 5Cities Homeless Coalition, Transitions-Mental Health Association, Good Samaritan Shelter, County Social Services, County Health Agency
-
-Notes:
-- Point of entry for “Housing Now”, (at least some of) “People’s Self-Help Housing”, “Welcome Home Village”
-- Overseen by “Homeless Services Oversight Council (HSOC)”
+   - County-wide: Contact [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) at 805-781-1600
+   - Or initiate contact via participating agencies like [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), 5Cities Homeless Coalition, Transitions-Mental Health Association, [**Good Samaritan Shelter**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services), County Health Agency
+- Notes:
+   - Point of entry for “Housing Now”, (at least some of) “People’s Self-Help Housing”, [**Welcome Home Village**](#Welcome-Home-Village)
+   - Overseen by “Homeless Services Oversight Council (HSOC)”
 
 ### <a id="Cottage-Urgent-Care">Cottage Urgent Care</a>
 - [cottagehealth.org/urgent-care](https://www.cottagehealth.org/urgent-care/)
@@ -336,68 +331,67 @@ Notes:
    - Phone: 805-762-4348
    - Hours: Every day 8am–8pm
 
-### CSF Medical Non Profit Foundation
+### <a id="CSF-Medical-Non-Profit-Foundation">CSF Medical Non Profit Foundation</a>
 - [csffoundation.org](https://csffoundation.org/)
 - Phone: 661-404-4748
 - Email: [info@csffoundation.org](mailto:info@csffoundation.org)
 - Hours: M–F 9am–5:30pm
 
 ### Deaf and Disabled Telecommunication Program (DDTP)
-*See **California Connect***
+> *See [**California Connect**](#California-Connect)*
 
 ### Denti-Cal Dental Care Dentist Referral
-*See **Central Coast Dental Society***
+> *See [**Central Coast Dental Society**](#CCDS)*
 
 ### Department of Social Services
-*See **SLO County Department of Social Services***
+> *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 
 ### <a id="Dignity-Health">Dignity Health</a>
 - Operates [**Arroyo Grande Community Hospital**](#Arroyo-Grande-Community-Hospital), [**French Hospital Medical Center**](#French-Hospital-Medical-Center), and [**Dignity Health Urgent Care**](#Dignity-Health-Urgent-Care)
 - Operates the “Substance Use Navigator” program
 
-### <a id="Dignity-Health">Dignity Health Urgent Care</a>
-*See also [**Dignity Health**](#Dignity-Health)*
+### <a id="Dignity-Health-Urgent-Care">Dignity Health Urgent Care</a>
+> *See also [**Dignity Health**](#Dignity-Health)*
 - [locations.dignityhealth.org/dignity-health-urgent-care-pismo-beach](https://locations.dignityhealth.org/dignity-health-urgent-care-pismo-beach)
 - Location: 877 Oak Park Blvd, Pismo Beach
 - Phone: 805-474-8450
 - Hours: M–F 8am–6pm, Sa. 8am–4pm
 
-### Disability Rights California
+### <a id="Disability-Rights-California">Disability Rights California</a>
 - [www.disabilityrightsca.org/get-help](http://www.disabilityrightsca.org/get-help)
 - Phone: 800-776-5746
 
-### Discipleship Home
+### <a id="Discipleship-Home">Discipleship Home</a>
 - [thediscipleshiphome.com](http://thediscipleshiphome.com/)
 - Location: Oceano
 - Phone: 805-668-9185
 
 ### Drug and Alcohol Services
-*See **SLO County Drug and Alcohol Services***
+> *See [**SLO County Drug and Alcohol Services**](#SLO-County-Drug-and-Alcohol-Services)*
 
-### El Chorro Regional Park Campground
+### <a id="El-Chorro-Regional-Park-Campground">El Chorro Regional Park Campground</a>
 - [slocountyparks.com/camp/el-chorro](https://slocountyparks.com/camp/el-chorro/)
 - Location: State Hwy 1 @ Dairy Creek (4 miles NW of SLO)
 - Phone: 805-781-5930 x4 (Monday–Friday 8:30am–4:30pm)
 - Email: [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
 
-### Elks Lodge #2504
+### <a id="Elks-Lodge-2504">Elks Lodge #2504</a>
 - Phone: 805-489-2504 x2
 - Email: [Elks2504@gmail.com](Elks2504@gmail.com)
 - Location: 410 Air Park Drive, Oceano
 - Hours: M–Th 9am–4pm
-- Access: Walk-ins OK, but it’s better to call ahead
+- How to access: Walk-ins OK, but it’s better to call ahead
 
-### Enhanced Care Management
+### <a id="Enhanced-Care-Management">Enhanced Care Management</a>
 - Email: [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us)
 - Phone: 805-781-4687
-
-Note: “Community Action Partnership San Luis Obispo (CAPSLO)” is the entrypoint for this program (including its “Outreach and Engagement Services” center)
+- Note: [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entrypoint for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
 
 ### <a id="EyeCare-America">EyeCare America</a>
 - [aao.org/eyecare-america](http://aao.org/eyecare-america)
 - Phone: 877-887-6327 (M–F 8am–2pm)
 - Email: [eyecareamerica@aao.org](mailto:eyecareamerica@aao.org)
-- Access: To begin, fill out a questionnaire on their website
+- How to access: To begin, fill out a questionnaire on their website
 
 ### <a id="Family-and-Industrial-Medical-Center">Family and Industrial Medical Center</a>
 - [fimcslo.com](https://fimcslo.com/)
@@ -406,35 +400,34 @@ Note: “Community Action Partnership San Luis Obispo (CAPSLO)” is the entrypo
 - Hours: M–F 8am–7pm, Sa. 9am–4pm
 
 ### FamilyPACT
-*See **Planned Parenthood***
+> *See [**Planned Parenthood**](#Planned-Parenthood)*
 
 ### First Presbyterian Church
-*See **Green Pastures***
+> *See [**Green Pastures**](#Green-Pastures)*
 
 ### <a id="French-Hospital-Medical-Center">French Hospital Medical Center</a>
-*See also [**Dignity Health**](#Dignity-Health)*
+> *See also [**Dignity Health**](#Dignity-Health)*
 - Location: 1911 Johnson Ave., SLO
 - Phone: 805-542-6621 (ER) or 805-543-5353 (front desk)
 
 ### GLAD
-*See **Tri-County GLAD***
+> *See [**Tri-County GLAD**](#Tri-County-GLAD)*
 
-### Good Samaritan Shelter
+### <a id="Good-Samaritan-Shelter">Good Samaritan Shelter</a>
 - [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)
-- Location: 401 W. Morrison Ave., Santa Maria [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/santa-maria-programs/emergency-shelter/)]
-- Phone: 805-347-3338 x101 [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/santa-maria-programs/emergency-shelter/)]
+- Location: 401 W. Morrison Ave., Santa Maria
+- Phone: 805-347-3338 x101
 - Program Manager: Layne Harlow ([lharlow@goodsamaritanshelter.org](mailto:lharlow@goodsamaritanshelter.org))
+- Notes:
+   - operates [**Welcome Home Village**](#Welcome-Home-Village)
+   - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
-Notes:
-- operates “Welcome Home Village”
-- entry-point for the [**Coordinated Entry System (CES)**](#CES)
-
-### Green Pastures
+### <a id="Green-Pastures">Green Pastures</a>
 - Location: 981 March St., SLO (First Presbyterian Church)
 - Hours: first and third Wednesday of the month @ 1pm
-- Access: visit; though only some visitors can be accommodated
+- How to access: visit; though only some visitors can be accommodated
 
-### Gryphon Society
+### <a id="Gryphon-Society">Gryphon Society</a>
 - [gryphonsociety.weebly.com](http://gryphonsociety.weebly.com/)
 - Locations: Grover Beach and SLO
 - Phone:
@@ -442,21 +435,20 @@ Notes:
    - 805-748-6204 (SLO)
 
 ### Health Department
-*See **SLO County Health Department***
+> *See **SLO County Health Department***
 
 ### <a id="HCHP">Healthcare for the Homeless Program</a>
 - Location: 40 Prado Rd., SLO
 - Phone: 805-473-4712
+- Notes:
+  - operated by “[Community Health Centers of the Central Coast](#CHC)”
+  - hosted by “[40 Prado Homeless Services Center](#40-Prado)”
 
-Notes:
-- operated by “[Community Health Centers of the Central Coast](#CHC)”
-- hosted by “[40 Prado Homeless Services Center](#40-Prado)”
-
-### Help Hope Live
+### <a id="Help-Hope-Live">Help Hope Live</a>
 - [helphopelive.org](https://helphopelive.org/)
 - Phone: 800-642-8399 (M–Th 9am–6pm; F 9am–3pm Eastern Time)
 
-### HiCAP (Health Insurance Counseling & Advocacy Program)
+### <a id="HiCAP">HiCAP (Health Insurance Counseling & Advocacy Program)</a>
 - [centralcoastseniors.org/hicap](https://centralcoastseniors.org/hicap/)
 - Phone: 805-928-5663 / 800-434-0222
 - Email: [hicap@centralcoastseniors.org](mailto:hicap@centralcoastseniors.org)
@@ -464,51 +456,52 @@ Notes:
    - (with regional offices throughout SLO County)
    - Note: Specific regional office addresses not available from public sources. Contact main office for local office locations.
 - Hours: M–F 8am–5pm
-- Access: Make an appointment by phone or by visiting the website.
+- How to access: Make an appointment by phone or by visiting the website.
 
-### Homeless Outreach Full Service Partnership
+### <a id="Homeless-Outreach-Full-Service-Partnership">Homeless Outreach Full Service Partnership</a>
 - Phone: 800-838-1361 / 805-540-6500
 - Email: [info@t-mha.org](mailto:info@t-mha.org)
 
-### Hospital Presumptive Eligibility (HPE)
-Hospital Presumptive Eligibility allows qualified hospitals to provide immediate temporary Medi-Cal coverage to eligible individuals while they apply for ongoing Medi-Cal benefits. This program helps ensure uninsured patients can access necessary medical care without delay.
-
-Source: [dhcs.ca.gov](https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx)
+### <a id="HPE">Hospital Presumptive Eligibility (HPE)</a>
+Hospital Presumptive Eligibility allows qualified hospitals to provide immediate temporary [**Medi-Cal**](#Medi-Cal) coverage to eligible individuals while they apply for ongoing Medi-Cal benefits. This program helps ensure uninsured patients can access necessary medical care without delay. Source: [dhcs.ca.gov](https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx)
 
 ### Independent Living Resource Center
-*See [**Access Central Coast**](#Access-Central-Coast)
+> *See [**Access Central Coast**](#Access-Central-Coast)*
 
-### Lifesigns
+### Liberty Tattoo Removal Program
+> *See [**Community Action Partnership San Luis Obispo**](#CAPSLO)*
+
+### <a id="Lifesigns">Lifesigns</a>
 - [lifesignsinc.org](https://lifesignsinc.org/)
 - Phone: 888-930-7776 x1
    - For after-hours emergency interpreting: 800-633-8883
 - Email: Lifesigns@lifesignsinc.org
 
-### Life Steps Foundation
+### <a id="Life-Steps-Foundation">Life Steps Foundation</a>
 - [lifestepsfoundation.org](https://www.lifestepsfoundation.org/)
 - Location: 218 W. Carmen Lane #108, Santa Maria
 - Phone: 805-762-4500
 - Email: [info@lifestepsfoundation.org](mailto:info@lifestepsfoundation.org)
 
-### Lopez Lake Recreation Area
+### <a id="Lopez-Lake-Recreation-Area">Lopez Lake Recreation Area</a>
 - [slocountyparks.com/camp/lopez-lake/](https://slocountyparks.com/camp/lopez-lake/)
 - Phone: 805-788-2381 M–Th 8am–5pm; 805-781-5930 (reservations)
 - Email: [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
 
-### Lumina Alliance
+### <a id="Lumina-Alliance">Lumina Alliance</a>
 - [luminaalliance.org](https://luminaalliance.org/)
 - Phone: 24-hour free & confidential crisis line: 805-545-8888; Business line: 805-781-6400
 - Locations:
    - 555 S. 13th St. #B, Grover Beach
    - 102 S. Vine St. #C, Paso Robles
    - 51 Zaca Ln. #150, SLO
+- Note: RISE merged with Stand Strong in 2021 to form Lumina Alliance
 
-Note: RISE merged with Stand Strong in 2021 to form Lumina Alliance
-
-### Marijuana Anonymous
+### <a id="Marijuana-Anonymous">Marijuana Anonymous</a>
 - [marijuana-anonymous.org](https://marijuana-anonymous.org/)
 
-### Medi-Cal
+### <a id="Medi-Cal">Medi-Cal</a>
+> *See also: [**CenCal**](#CenCal)*
 - Locations:
    - 1086 E. Grand Ave., Arroyo Grande
    - 3433 S. Higuera St., SLO
@@ -518,18 +511,18 @@ Note: RISE merged with Stand Strong in 2021 to form Lumina Alliance
 - Medi-Cal Rx:
    - [medi-calrx.dhcs.ca.gov](http://medi-calrx.dhcs.ca.gov/)
    - Phone: 800-977-2273
-- Medi-Cal Shuttle
-   - Phone: 855-659-4600
+- Medi-Cal Shuttle: *See [Ride-On Transportation](#Ride-On-Transportation)*
+- Notes:
+  - [**CenCal**](#CenCal) is the local Medi-Cal administrator
+  - Apply at [www.coveredca.com](http://www.coveredca.com/) or [BenefitsCal.com](http://benefitscal.com/)
 
-Notes:
-- **CenCal** is the local Medi-Cal administrator
-- Apply at [www.coveredca.com](http://www.coveredca.com/) or [BenefitsCal.com](http://benefitscal.com/)
-
-### Medically Fragile Homeless Program
-*See **Center for Family Strengthening (CSF)***
+### <a id="Medically-Fragile-Homeless-Program">Medically Fragile Homeless Program</a>
 - [cfsslo.org/#mfh](https://cfsslo.org/#mfh)
+- Notes:
+   - Access through [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
+   - Operated by [**Center for Family Strengthening (CSF)**](#CSF)
 
-### Medically Indigent Services Program (MISP)
+### <a id="MISP">Medically Indigent Services Program (MISP)</a>
 - Phone: 805-781-5500
 - Location: 2180 Johnson Ave., SLO
 - Hours: M–F 8am–5pm (closed Noon–1pm)
@@ -540,53 +533,56 @@ Notes:
 - Phone: 805-549-8880
 - Hours: M–F 8am–7pm, Sa.–Su. 8am–4pm
 
-### Mental Health Evaluation Team / Mobile Crisis Team
+### <a id="MHET">Mental Health Evaluation Team</a> / <a id="Mobile-Crisis-Team">Mobile Crisis Team</a>
 - Phone: 800-783-0607 / 800-838-1381
 - Location: county-wide
 
 ### Mental Health Services
-*See **SLO County Mental Health Services***
+> *See [**SLO County Mental Health Services**](#SLO-County-Mental-Health-Services)*
 
-### Middlehouse
+### <a id="Middlehouse">Middlehouse</a>
 - [middlehouse.org](http://middlehouse.org/)
 - Location: SLO
 - Phone: 805-544-8328
 
-### Minister’s Discretionary Fund
+### <a id="Ministers-Discretionary-Fund">Minister’s Discretionary Fund</a>
 - [uuslo.org/ministers-discretionary-fund](https://uuslo.org/ministers-discretionary-fund)
 - Email: minister.uuslo@gmail.com
 - Location: 2201 Lawton Ave., SLO (Unitarian Universalists)
-- Access: email first
+- How to access: email first
 
-### Mobile Crisis Unit
+### Mobile Crisis Team
+> *See [**Mental Health Evaluation Team** / **Mobile Crisis Team**](#Mobile-Crisis-Team)*
+
+### <a id="Mobile-Crisis-Unit">Mobile Crisis Unit</a>
 - Phone: 800-781-7312
 - Location: SLO city only
 - Hours: M–Th 8am–5:30pm; every other Friday 8am–5:30pm
 
 ### My Home for Hope
-*See [**5Cities Homeless Coalition**](#5CHC)*
+> *See [**5Cities Homeless Coalition**](#5CHC)*
 
-### Narcotics Anonymous
+### <a id="Narcotics-Anonymous">Narcotics Anonymous</a>
 - [centralcoastna.org](http://centralcoastna.org/)
 - Phone: 805-549-7730
 
-### NeedyMeds
+### <a id="NeedyMeds">NeedyMeds</a>
 - [needymeds.org](http://needymeds.org/)
 - Phone: 800.503.6897
 - Email: [info@needymeds.org](mailto:info@needymeds.org)
 - Hours: M–F 9am–5pm Eastern Time
 
 ### Noor Foundation
-*See **SLO Noor Foundation***
+> *See [**SLO Noor Foundation**](#SLO-Noor-Foundation)*
 
-### Outreach and Engagement Services
-*See also **Community Action Partnership San Luis Obispo (CAPSLO)***
+### <a id="Outreach-and-Engagement-Services">Outreach and Engagement Services</a>
+> *See also [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 - Phone: 805-544-4004
 - Location: 1320 Nipomo St., SLO
 - Hours: M–F 10am–3pm
-- Access: Walk-ins OK
+- How to access: Walk-ins OK
 
-### PathPoint
+### <a id="PathPoint">PathPoint</a>
 - [pathpoint.org/locations/san-luis-obispo](http://pathpoint.org/locations/san-luis-obispo)
 - Phone:
    - 805-473-9582 (Grover Beach)
@@ -600,25 +596,24 @@ Notes:
 - Location: 946 Rockaway Ave., Grover Beach
 
 ### <a id="Peoples-Kitchen-SLO">People’s Kitchen (SLO)</a>
-*See also **40 Prado Homeless Services Center***
+> *See also **40 Prado Homeless Services Center***
 - Location: 40 Prado Road, SLO
 
-### Planned Parenthood
+### <a id="Planned-Parenthood">Planned Parenthood</a>
 - [plannedparenthood.org/planned-parenthood-california-central-coast](http://plannedparenthood.org/planned-parenthood-california-central-coast)
 - Phone: 888-898-3806
 - Location: 743 Pismo St., SLO
 - Hours: M 9am–6pm, Tu–Sa 8am–5pm (closed some holidays)
+- Notes: entry-point for “FamilyPACT”
 
-Notes: entry-point for “FamilyPACT”
-
-### Pregnancy & Parenting Support
+### <a id="Pregnancy-Parenting-Support">Pregnancy & Parenting Support</a>
 - [ppsslo.org](http://ppsslo.org/)
 - Phone: 805-541-3367 (call or text)
 - Email: [info@ppsslo.org](mailto:info@ppsslo.org)
 - Location: 3480 S. Higuera #110, SLO
 - Hours: M–F 10am–2:30pm
 
-### Recovery Dharma
+### <a id="Recovery-Dharma">Recovery Dharma</a>
 - [recoverydharma.org](https://recoverydharma.org/)
 - Location: 865 Aerovista Pl. #130, SLO (Aspire Counseling Center)
 - Email: [tedrossini@gmail.com](mailto:tedrossini@gmail.com)
@@ -630,22 +625,25 @@ Notes: entry-point for “FamilyPACT”
 - Email: [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org)
 - Location: 40 Prado, SLO
 
-### RideOn
-Note: Unable to locate specific contact information or service details for RideOn transportation service in publicly available sources. This may be a local transportation provider - contact SLO County transit services for referral information.
+### <a id="Ride-On-Transportation">Ride-On Transportation</a>
+- [**Medi-Cal**](#Medi-Cal) Shuttle a.k.a. [CenCal Health Transportation](https://www.cencalhealth.org/members/transportation/)
+   - Phone: 855-659-4600 (Ventura Transit System)
+- Veterans Express Shuttle
+   - Phone: 805-541-8747
 
 ### RISE
-*See **Lumina Alliance***
+> *See [**Lumina Alliance**](#Lumina-Alliance)*
 
 ### <a id="Rotating-Overnight-Safe-Parking-Program">Rotating Overnight Safe Parking Program
-*See **40 Prado Homeless Services Center***
+> *See **40 Prado Homeless Services Center***
 - Contact: 805-544-4004 (40 Prado intake)
 
-### Santa Margarita Lake Recreation Area
+### <a id="Santa-Margarita-Lake-Recreation-Area">Santa Margarita Lake Recreation Area</a>
 - [slocountyparks.com/camp/santa-margarita-lake/](https://slocountyparks.com/camp/santa-margarita-lake/)
 - Phone: 805-781-5930
 - Email: [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
 
-### Senior Connection
+### <a id="Senior-Connection">Senior Connection</a>
 - [centralcoastseniors.org/senior-connection](https://centralcoastseniors.org/senior-connection/)
 - Phone: 805-928-2552 / 800-510-2020 / 805-928-9554
 - Email: [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
@@ -654,55 +652,54 @@ Note: Unable to locate specific contact information or service details for RideO
 - Walk-ins OK.
 
 ### Sierra Vista Hospital
-*See **Adventist Health Sierra Vista***
+> *See **Adventist Health Sierra Vista***
 
-### SLO Bangers
+### <a id="SLO-Bangers">SLO Bangers</a>
 - [slobangers.com](http://slobangers.com/)
 - Phone: 805-458-0123
 - Email: [slobangers07@gmail.com](mailto:slobangers07@gmail.com)
 - Location: 2191 Johnson Ave., SLO
 
 ### SLO Counseling Service
-*See **Cal Poly Community Counseling Service***
+> *See **Cal Poly Community Counseling Service***
 
 ### <a id="SLO-County-Behavioral-Health">SLO County Behavioral Health</a>
 To-do
 
-### SLO County Department of Social Services
+### <a id="SLO-County-Department-of-Social-Services">SLO County Department of Social Services</a>
 - [slocounty.ca.gov/departments/social-services](http://slocounty.ca.gov/departments/social-services)
 - Locations:
    - 1086 E. Grand Ave., Arroyo Grande / 805-474-2000
    - 3433 S. Higuera, SLO / 805-781-1600
 - Hours: M–F 8am–5pm
+- Notes:
+   - operates “CalWORKS Homeless Assistance Program”
+   - operates “General Assistance Disabled Program”
+   - operates “General Relief / General Assistance”
+   - operates “Temporary Assistance for Needy Families (TANF)”
+   - entry-point for “CalFresh / EBT (Food Stamps)”
+   - entry-point for the [**Coordinated Entry System (CES)**](#CES)
+   - entry-point for the “Housing Support Program (HSP)”
+   - entry-point for the [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
 
-Notes:
-- operates “CalWORKS Homeless Assistance Program”
-- operates “General Assistance Disabled Program”
-- operates “General Relief / General Assistance”
-- operates “Temporary Assistance for Needy Families (TANF)”
-- entry-point for “CalFresh / EBT (Food Stamps)”
-- entry-point for the [**Coordinated Entry System (CES)**](#CES)
-- entry-point for the “Housing Support Program (HSP)”
-- entry-point for the “Medically Fragile Homeless Program”
-
-### SLO County Drug and Alcohol Services
+### <a id="SLO-County-Drug-and-Alcohol-Services">SLO County Drug and Alcohol Services</a>
 - SLO:
    - Phone: 800-838-1381 (to make an appointment)
    - Locations:
       - 2180 Johnson Ave. (SLO) — for adults
       - 277 South St. #T (SLO) — for youth
-   - Access: Walk-ins OK at the SLO adult center Tu.–W 8am–5pm or Th. 2:30–5:30pm
+   - How to access: Walk-ins OK at the SLO adult center Tu.–W 8am–5pm or Th. 2:30–5:30pm
 - Grover Beach:
    - Phone: 805-473-7081 or 805-473-7080
    - Location: 1523 Longbranch Ave.
-   - Access: Walk-ins OK at the Grover Beach youth center any time, and at the Grover Beach adult center M&F 8–11am or Tu. 2:30–5:30pm
+   - How to access: Walk-ins OK at the Grover Beach youth center any time, and at the Grover Beach adult center M&F 8–11am or Tu. 2:30–5:30pm
 
-### SLO County Health Department
-*See also **SLO County Public Health Department***
+### <a id="SLO-County-Health-Department">SLO County Health Department</a>
+> *See also [**SLO County Public Health Department**](#SLO-County-Public-Health-Department)*
 
-Note: entry-point for the [**Coordinated Entry System (CES)**](#CES)
+- Note: entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
-### SLO County Mental Health Services
+### <a id="SLO-County-Mental-Health-Services">SLO County Mental Health Services</a>
 - [slocounty.ca.gov/departments/health-agency/behavioral-health](http://slocounty.ca.gov/departments/health-agency/behavioral-health)
 - Phone: 800-838-1381 (24hr) / 805-540-6500
 - Email: [info@t-mha.org](mailto:info@t-mha.org)
@@ -720,11 +717,10 @@ Note: entry-point for the [**Coordinated Entry System (CES)**](#CES)
    - Youths, SLO:
       - 805-781-4179
       - 1989 Vicente Dr.
+- Note: central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
 
-Note: central access point for all Medi-Cal mental health services
-
-### SLO County Public Health Department
-*See also **SLO County Health Department***
+### <a id="SLO-County-Public-Health-Department">SLO County Public Health Department</a>
+> *See also [**SLO County Health Department**](#SLO-County-Health-Department)*
 - [slocounty.ca.gov/departments/health-agency/public-health](http://slocounty.ca.gov/departments/health-agency/public-health)
 - Phone:
    - 805-788-2903 (24-hour info line)
@@ -732,16 +728,19 @@ Note: central access point for all Medi-Cal mental health services
 - Location: 2180 and 2191 Johnson Ave, SLO
 - Hours: M–F 8am–5pm (closed Noon–1pm)
 
+### <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
+To-do
+
 ### <a id="SLO-Hub">SLO Hub</a>
-*See also: **40 Prado Homeless Services Center***
+> *See also: [**40 Prado Homeless Services Center**](#40-Prado)*
 - [capslo.org/slo-hub](https://capslo.org/slo-hub/)
 - Location: 40 Prado Rd., SLO
 - Phone: 805-441-6589
 - Email: [sreyes@capslo.org](mailto:sreyes@capslo.org)
 - Hours: M–F 9am–5pm
-- Access: By appointment only
+- How to access: By appointment only
 
-### SLO Noor Foundation
+### <a id="SLO-Noor-Foundation">SLO Noor Foundation</a>
 - [slonoorfoundation.org](http://slonoorfoundation.org/)
 - **Primary & vision clinic**
    - Location: 1428 Philips Lane #203, SLO
@@ -755,50 +754,50 @@ Note: central access point for all Medi-Cal mental health services
 - **Women's mobile health unit**
    - Phone: 805-756-5089
    - Email: [ccmacedo@calpoly.edu](mailto:ccmacedo@calpoly.edu)
-- Access: By appointment only
+- How to access: By appointment only
 
-### SLO Sobering Center
+### <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 - Phone: 820-280-0415
 - Location: 2180 Johnson Ave., SLO
 - Hours: 24/7
 
-### SLO Vet Center
+### <a id="SLO-Vet-Center">SLO Vet Center</a>
 - [va.gov/san-luis-obispo-vet-center](http://va.gov/san-luis-obispo-vet-center)
 - Phone: 805-782-9101
 - Location: 1070 Southwood Dr., SLO
 - Hours: M–F 8am–4:30pm
 
-### Social Security Administration
+### <a id="Social-Security-Administration">Social Security Administration</a>
 - [ssa.gov](https://www.ssa.gov/)
 - Location: 3240 S. Higuera St., SLO
 - Phone: 855-207-4865
-- Access: Call to schedule an appointment
+- How to access: Call to schedule an appointment
 
 ### Social Services
-*See **SLO County Department of Social Services***
+> *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 
-### Society of Saint Vincent de Paul
+### <a id="Society-of-St-Vincent-de-Paul">Society of Saint Vincent de Paul</a>
 - Phone: 805-544-7041
-- Access: call to schedule an appointment
+- How to access: call to schedule an appointment
 
-### South Bay Seniors People Helping People
+### <a id="South-Bay-Seniors-People-Helping-People">South Bay Seniors People Helping People</a>
 - [southbayseniorspeoplehelpingpeople.com](https://southbayseniorspeoplehelpingpeople.com/)
 - Phone: 805-528-2626
 - Location: 2180 Palisades Ave., Los Osos
 - Hours: M/W/F 9am–1pm
 
 ### Stand Strong
-*See **Lumina Alliance***
+> *See [**Lumina Alliance**](#Lumina-Alliance)*
 
-### Sunny Acres
+### <a id="Sunny-Acres">Sunny Acres</a>
 “Sunny Acres” may refer to two different locations in the city of SLO:
-1. a former orphanage in the hills above Johnson Avenue that is now “Bishop Street Studios” operated by “Transitions Mental Health Association (TMHA)”
+1. a former orphanage in the hills above Johnson Avenue that is now “Bishop Street Studios” operated by [**Transitions Mental Health Association (TMHA)**](#TMHA)
 1. a former sober living compound near Laguna Lake that is now the “Healing and Restoration Campus” operated by “Restorative Partners”
 
 ### Sunshine House
-*See **Casa Solana***
+> *See [**Casa Solana**](#Casa-Solana)*
 
-### Sun Street Centers
+### <a id="Sun-Street-Centers">Sun Street Centers</a>
 - [sunstreetcenters](http://sunstreetcenters.org/)
 - Location: SLO
 - Phone: 805-457-3331 / 805-457-5150
@@ -811,22 +810,20 @@ Note: central access point for all Medi-Cal mental health services
    - 265 South St. #H, SLO
 - 5 Cities:
    - [5chc.org/programs/ssvf-supportive-services-for-veteran-families](https://5chc.org/programs/ssvf-supportive-services-for-veteran-families)
-
-Note: operated by <a id="#CAPSLO">**Community Action Partnership San Luis Obispo**</a> and <a id="5CHC">**5Cities Homeless Coalition**</a>
+- Note: operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) and [**5Cities Homeless Coalition**](#5CHC)
 
 ### Surgery Without Medical Insurance
-*See **CSF Medical Non Profit Foundation***
+> *See [**CSF Medical Non Profit Foundation**](#CSF-Medical-Non-Profit-Foundation)*
 
-### Teen Wellness
+### <a id="Teen-Wellness">Teen Wellness</a>
 - Phone: 805-602-2883
 - Email: [teenwellness@capslo.org](mailto:teenwellness@capslo.org)
-
-Note: A program of “Community Action Partnership San Luis Obispo (CAPSLO)”
+- Note: A program of [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
 
 ### T-MHA
-*See **Transitions Mental Health Association***
+> *See [**Transitions Mental Health Association**](#TMHA)*
 
-### Transitions Mental Health Association (TMHA)
+### <a id="TMHA">Transitions Mental Health Association (TMHA)</a>
 - [www.t-mha.org](https://www.t-mha.org)
 - Location: 784 High Street, SLO
 - Email: [info@t-mha.org](mailto:info@t-mha.org)
@@ -835,24 +832,22 @@ Note: A program of “Community Action Partnership San Luis Obispo (CAPSLO)”
    - 805-540-0057 (library outreach team)
    - 805-540-6576 (behavioral health care system navigation help)
 - Hours: M–F 8am–5pm
-
-Also runs “Wellness Centers” with a variety of programs.
-See [t-mha.org/wellness-calendars.php](http://t-mha.org/wellness-calendars.php) for a schedule:
 - SLO: 1306 Nipomo St. / 805-541-6813 / 805-801-3536
 - Arroyo Grande: 203 Bridge St. / 805-305-3724
+- Notes:
+   - Also runs “Wellness Centers” with a variety of programs
+      - See [t-mha.org/wellness-calendars.php](http://t-mha.org/wellness-calendars.php) for a schedule:
+   - operates [**Behavioral Health Bridge Housing (BHBH) Program**](#BHBH)
+   - operates “Bishop Street Studios”
+   - operates “T-MHA Community Residential Housing”
+   - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
-Notes:
-- operates “Behavioral Health Bridge Housing (BHBH) Program”
-- operates “Bishop Street Studios”
-- operates “T-MHA Community Residential Housing”
-- entry-point for the [**Coordinated Entry System (CES)**](#CES)
-
-### Tri Counties Regional Center
+### <a id="Tri-Counties-Regional-Center">Tri Counties Regional Center</a>
 - [tri-counties.org](http://tri-counties.org/)
 - Phone: 805-543-2833
-- Access: Apply here: [tri-counties.org/our-services/apply/](http://tri-counties.org/our-services/apply/)
+- How to access: Apply here: [tri-counties.org/our-services/apply/](http://tri-counties.org/our-services/apply/)
 
-### Tri-County GLAD
+### <a id="Tri-County-GLAD">Tri-County GLAD</a>
 - [tcglad.org](https://tcglad.org/)
 - Phone:
    - 805-256-1053 (videophone)
@@ -862,7 +857,7 @@ Notes:
 - Location: 702 County Square Dr. #101, Ventura
 - Hours: M–F 8:30am–5pm (closed Noon–1pm)
 
-### United Way
+### <a id="United-Way">United Way</a>
 - [unitedwayslo.org](https://unitedwayslo.org/)
 - Phone: 805-541-1234
 - Email: [info@unitedwayslo.org](mailto:info@unitedwayslo.org)
@@ -882,43 +877,46 @@ There are several urgent care options, including:
 - Phone: 805-295-6594
 - Hours: M–Sa. 7am–6:30pm, Su. 8am–3:30pm
 
-### Veterans Administration Outpatient Clinic
+### <a id="Veterans-Administration-Outpatient-Clinic">Veterans Administration Outpatient Clinic</a>
 - Phone:
    - 805-543-1233 / 877-252-4866 (VA health connect)
    - 877-251-7295 (24/7 appointment line)
 - Location: 1288 Morro St. #200, SLO
 - Hours: M–F 8am–4:30pm
 
-### Veterans Services (SLO County)
+### Veterans Express Shuttle
+> *See [Ride-On Transportation](#Ride-On-Transportation)*
+
+### <a id="Veterans-Services">Veterans Services (SLO County)</a>
 - [slocounty.ca.gov/Departments/Veterans-Services](http://slocounty.ca.gov/Departments/Veterans-Services)
 - Hours: 805-781-5766
 - Location: 801 Grand Ave., SLO
-- Access: By appointment only
+- How to access: By appointment only
 
-### Veterans Transportation Service
+### <a id="Veterans-Transportation-Service">Veterans Transportation Service</a>
 - [vetride.va.gov](https://www.vetride.va.gov/)
 - Phone: 805-543-1233
 
-### Veterans Volunteer Services
+### <a id="Veterans-Volunteer-Services">Veterans Volunteer Services</a>
 - Phone: 805-481-2622
 - Location: Arroyo Grande
-- Access: No walk-ins; call to make an appointment
+- How to access: No walk-ins; call to make an appointment
 
-### Vituity Cares Mobile Clinic
+### <a id="Vituity-Cares-Mobile-Clinic">Vituity Cares Mobile Clinic</a>
 - [vituitycares.org](http://vituitycares.org/)
 - Phone: 480-828-4319
 - Location: 995 Palm St., SLO
 - Hours: 2nd Sunday of the month, 12:30–3:30 pm
 
-### Welcome Home Village
-*See **Good Samaritan Shelter***
+### <a id="Welcome-Home-Village">Welcome Home Village</a>
 - Location: Health Agency Campus in San Luis Obispo (walking distance to medical centers and services)
-  - Note: Specific street address not available from public sources. Contact Good Samaritan Shelter for exact location details.
+- Note: Operated by [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
+- How to access: Through the [**Coordinated Entry System (CES)**](#CES)
 
 ### Wellness Centers
-*See **Transitions Mental Health Association (TMHA)***
+> *See [**Transitions Mental Health Association (TMHA)**](#TMHA)*
 
-### Women, Infants, and Children (WIC)
+### <a id="WIC">Women, Infants, and Children (WIC)</a>
 - Phone: 888-417-6180
 - Hours: M–Th 8am–5pm; Fri. 8am–4:30pm
 - Locations:

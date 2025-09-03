@@ -2347,7 +2347,7 @@
 1. <a id="free-and-low-cost-phone-services">**Phones and phone service**</a>
    1. **California LifeLine Program**
       - **What's available**: Discounted home phone and cell phone services; up to $9.25 monthly discount ($34.25 on Tribal lands)
-      - **Eligibility**: Low-income households participating in WIC, Medicaid/Medi-Cal, SSI, National School Lunch Program, LIHEAP, CalFresh/SNAP, Federal Public Housing/Section 8, and other qualifying programs
+      - **Eligibility**: Low-income households participating in [WIC](Directory.md#WIC), Medicaid/[Medi-Cal](Directory.md#Medi-Cal), SSI, National School Lunch Program, LIHEAP, CalFresh/SNAP, Federal Public Housing/Section 8, and other qualifying programs
       - **Limitations**: Only one California LifeLine discounted phone per household (except TTY users and DDTP participants)
       - **How to apply**: Call a participating phone company or visit [californialifeline.com](https://www.californialifeline.com/)
       - **Provider search**: Available at [californialifeline.com](https://www.californialifeline.com/) for approved providers in your area
