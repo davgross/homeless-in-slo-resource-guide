@@ -96,7 +96,6 @@
       1. **877-435-7443**—Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–9pm EST) [Source: [help4hep.org](http://www.help4hep.org/)]
       1. **800-232-4636**—CDC-INFO: for questions about HIV, viral hepatitis, STDs, or tuberculosis (M–F 8am–8pm ET) [Source: [cdc.gov](https://www.cdc.gov/nchhstp/index.html)] (Note: CDC is no longer a reliable source of health information)
    1. **Behavioral Health Support**
-      - Note: The specific navigator and peer support numbers previously listed here could not be verified on the current SLO County Behavioral Health website. For current behavioral health navigation and peer support services, contact the main access line below.
       1. **800-838-1381**—SLO County Behavioral Health Access Line: Main number for scheduling appointments and getting information about all behavioral health services including navigation and peer support (Note: Unable to verify specific separate numbers for navigator services, youth services, peer support, and recovery support network in current available sources; this main access line should be used for all these services) [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)]
       1. **855-600-9276**—California Peer Run Warm Line (also available as a web-based text chat [here](https://www.mentalhealthsf.org/warm-line) for people with “a wide range of challenges, including anxiety, depression, and substance use”
    1. **Information and Referral Services**
@@ -194,12 +193,12 @@
          - **Safe parking**: Currently offers 12 safe parking spots for people living in vehicles; also serves as intake location for new Rotating Overnight Safe Parking program (see below)
          - **Source**: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/get-help); [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311748942.html)
          - **Eligibility**: 290s screened out; must be county resident (how is that determined?)
-            - Note: Unable to find specific documentation of eligibility criteria in public sources. For current eligibility requirements (including details about "290s screened out" and county residency verification), contact 40 Prado directly at 805-544-4004
+            - Note: Unable to find specific documentation of eligibility criteria in public sources. For current eligibility requirements (including details about "290s screened out" and county residency verification), contact 40 Prado directly
       1. **Rotating Overnight Safe Parking Program**
          - **What's available**: Rotating overnight safe parking sites for people living in vehicles; 12 vehicle spaces per location with basic amenities (water, trash, restrooms)
          - **How it works**: Monthly rotation between 6 locations across SLO city; participants get 90-day enrollment with possible 30-day extension
          - **Hours**: 7:00pm–7:00am overnight parking only; must vacate neighborhood by at least half mile during daytime
-         - **Intake process**: Must first complete intake at 40 Prado Homeless Services Center (see above), then referred to rotating program on case-by-case basis
+         - **Intake process**: Must first complete intake at [**40 Prado Homeless Services Center**](Directory.md#40-Prado) (see above), then referred to rotating program on case-by-case basis
          - **Eligibility**: Homeless individuals living in vehicles; background check required (no 290s/sex offenders); SLO County residents get preference; only vehicles that can fit into a stanard parking space are allowed
          - **Requirements**: No illegal drugs, alcohol, weapons, or fires; follow Good Neighbor Policy; participate in case management
          - **Services**: CAPSLO case management, coordinated entry assessments, 2-hour overnight security checks, occasional police patrols
@@ -209,9 +208,7 @@
          - **What's available:** 90-day, 90-bed emergency homeless shelter serving individuals and families from the Santa Maria Valley
          - **Eligibility:** Homeless individuals and families in Santa Maria area
          - **Access:** Contact during regular working hours 8:30am–5:00pm to set up an intake appointment
-         - **Location:** 401 W. Morrison Ave., Santa Maria, CA 93458 [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/santa-maria-programs/emergency-shelter/)]
-         - **Phone:** 805-347-3338 x101 [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/santa-maria-programs/emergency-shelter/)]
-         - **Hours:** Opens at 4:30pm each day; intake appointments available 8:30am–5:00pm [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/santa-maria-programs/emergency-shelter/)]
+         - **Location/Phone/Email/Hours:** See [Good Samaritan Shelter](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
          - **Services include:** Overnight shelter, case management, laundry facilities, hot meals, substance use treatment, and mental health services
          - **Program Manager:** Layne Harlow ([lharlow@goodsamaritanshelter.org](mailto:lharlow@goodsamaritanshelter.org))
       1. [SLO County Parks](https://slocountyparks.com/camp/) for short-term camping
@@ -286,8 +283,7 @@
       1. [**Habitat for Humanity SLO County**](https://habitatslo.org/ourwork/)
          - **What's available**: Homeownership program for first-time buyers (17 affordable homes built since 2003), home preservation assistance for low-income homeowners (minor repairs, landscaping, painting), neighborhood revitalization projects
          - **Eligibility**: Low-income individuals and families, regardless of race, religion, gender, age, or politics; specific income requirements apply
-         - **Contact**: 805-782-0687, [info@habitatslo.org](mailto:info@habitatslo.org)
-         - **Location**: 844 9th St, Paso Robles
+         - **Location/Email/Phone**: See [**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) in the [Directory](Directory.md)
          - **How to apply**: Visit [habitatslo.org](https://habitatslo.org/) and use their Apply section
          - **Note**: Primary focus is homeownership and home preservation rather than emergency housing services
          - Source: [habitatslo.org](https://habitatslo.org/ourwork/)
@@ -295,8 +291,7 @@
          - **What's available:** Non-congregate temporary emergency housing in individual cabins with 24/7 support, case management, connections to food services, recovery and housing stabilization guidance
          - **Eligibility:** Must get on waiting list (currently over 300 people waiting)
          - **Access:** Apply through waiting list: [5CHC Waiting List Application](https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform) Source: [5chc.org](https://5chc.org/programs/temporary-emergency-housing-in-grover-beach)
-         - **Contact**: 805-305-3031 / [shelter@5chc.org](mailto:shelter@5chc.org)
-         - **Location:** Two locations in Grover Beach — Cabins for Change (20 units at 16th Street and Long Branch Avenue) and Balay Ko on Barca (30 units at end of Barca Street)
+         - **Locations/Email/Phone**: See [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) and [**Cabins for Change**](Directory.md#Cabins-for-Change) in the [Directory](Directory.md)
          - **Hours:** 24/7 support provided
          - **Duration:** 90–180 days intended transitional period
          - **Special features:** Accepts pets, has laundry, showers, and onsite host
@@ -304,30 +299,23 @@
          - **What's available:** Housing assistance, case management, and financial assistance for low-income veterans; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, utilities; outreach, legal assistance, employment counseling, housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, VA benefits assistance, landlord-tenant mediation, future housing stability planning
          - **Special features:** Follows Housing First model with up to 24 months of assistance; includes "Shallow Subsidy" services providing up to 50% of rent for up to 24 months for eligible veterans
          - **Eligibility:** Low-income veterans who are homeless or at risk of homelessness (DD214 with discharge other than dishonorable required)
-         - **Access:** Call 805-237-0352
-         - **Location:** Multiple offices throughout SLO County
+         - **Location/Phone:** See [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families) in the [Directory](Directory.md)
       1. [Department of Social Services **CalWORKS Homeless Assistance Program**](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance)
          - **What's available:** Temporary and permanent shelter for families; Security deposit and/or last month's rental and/or utility deposit payments (one-time for same period of homelessness)
          - **Eligibility:** Families who are homeless or have a "Pay Rent or Quit" notice; must have apparent eligibility to CalWORKs and have less than $100 in liquid assets
          - **Access:** Contact SLO County Department of Social Services
-         - **Location:** 3433 S. Higuera, SLO; also 1086 E. Grand Ave., Arroyo Grande (M–F 8am–5pm) [Source: [countyoffice.org](https://www.countyoffice.org/san-luis-obispo-county-social-service-department-arroyo-grande-ca-153/)]
-         - **Phone:** 805-781-1600
+         - **Locations/Hours/Phone:** See [**CalWORKS Homeless Assistance Program**](Directory.md#CalWORKS) in the [Directory](Directory.md)
       1. [**Family Care Network**](https://fcni.org/) **Housing Support Program** (HSP)
          - **What's available:** Case management and life skills development for families experiencing or at risk of homelessness; financial assistance for housing deposits and rent; life skills workshops (budgeting, credit repair, communication); weekly meetings with case manager; bus passes, gas cards, paperwork assistance, short-term rent assistance
          - **Eligibility:** Homeless or at-risk families in SLO County
-         - **Access:** Referrals through Department of Social Services ERS Worker
-         - **Location:** 1255 Kendall Rd., SLO
-         - **Phone:** 805-781-3535
-         - **Hours:** Monday–Friday 8:30am–5:00pm
+         - **Access:** Referrals through Department of Social Services Employment Resource Specialist Worker
+         - **Location/Phone/Hours:** See [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) in the [Directory](Directory.md)
+         - See also [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
       1. [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) (north county)
          - **What's available:** Two shelter locations with 130 total beds (60 in Atascadero, 70 in Paso Robles); 90-day residential shelter program only (night-by-night shelter beds eliminated as of September 2025); Case management, job search assistance, life skills training, daily community dinner, shower program, 10-bed warming center (opens as needed during winter months) Source: [echoshelter.org](https://www.echoshelter.org/)
          - **Eligibility:** Individuals and families experiencing homelessness; serving North SLO County
-            - *Note*: Specific residency establishment requirements and sex offender (PC 290) screening policies could not be verified in available online sources; contact ECHO directly at 805-462-3663 for eligibility details
-         - **Access:** Contact at 805-462-3663 or [asolheim@echoshelter.org](mailto:asolheim@echoshelter.org)
-         - **Location:** Atascadero facility: 6370 Atascadero Avenue; Paso Robles facility: 1134 Black Oak Dr.
-         - **Hours:**
-            - Atascadero: M–F 10:00am–6:00pm, dinner daily 5:00–6:00pm, showers M–F 3:30–5:00pm
-            - Paso Robles: M–F 10:00am–6:00pm, dinner daily 4:30–5:30pm, showers M,W,F 3:30–5:00pm
+            - *Note*: Specific residency establishment requirements and sex offender (PC 290) screening policies could not be verified in available online sources; contact ECHO for eligibility details
+         - **Phone/Email/Locations/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
          - **Services for residents only:** Case management, residential program (6 months with job search and life skills training)
          - **Services open to community:** Daily meals (up to 150 meals served daily), shower program (3 times per week), toiletries, clothing, shoes, blankets, sleeping bags, school supplies for children
          - **Important note:** As of September 2025, there are no walk-in, night-by-night shelter beds available in North County. Individuals seeking shelter will be offered 90-day program applications. There's a roughly 300-person waiting list.
@@ -336,29 +324,25 @@
          - **What's available:** Project-Based Voucher (PBV) units for rental assistance; Currently accepting applications for 4-bedroom PBV units at SLO Villages, Madonna Road Apartments, and Oak Park 1 & 2 (Paso Robles); Senior housing applications for 2-bedroom units at Willow Walk Senior Apartments in Nipomo
          - **Eligibility:** Generally restricted to households earning less than 30% of Area Median Income (AMI); Preferences for SLO County residents and veterans; Senior housing requires all household members 62+ years of age
          - **Access:** Paper applications only for all waiting lists (4-bedroom PBV units and senior housing); no online applications currently available Source: [haslo.org](https://www.haslo.org/)
-         - **Location:** 487 Leff Street, SLO
-         - **Phone:** 805-543-4478
+         - **Location/Phone:** See [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) in the [Directory](Directory.md)
       1. [**Peoples’ Self-Help Housing**](https://www.pshhc.org/)
          - **What's available:** "Sweat equity" homeownership program where families help build their own homes; Affordable rental housing development; Supportive housing programs; Property management services
          - **Eligibility:** Low-income families, farmworkers, seniors, veterans, people with disabilities, formerly homeless individuals
          - **Access:** Contact main office
-         - **Location:** 1060 Kendall Road, SLO
-         - **Hours:** Monday–Friday 8:00am–5:00pm
-         - **Phone:** 805-781-3088
          - **Success record:** Since 1970, built 1,200 "sweat equity" homes and over 1,600 affordable rental units; serves over 5,000 individuals currently
+         - **Phone/Location/Hours:** See [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) in the [Directory](Directory.md)
       1. [**T-MHA Community Residential Housing**](https://www.t-mha.org/program-details.php?id=6)
          - **What's available:** Supportive housing for adults living with mental illness; [multiple locations](https://www.t-mha.org/housing.php); Housing services for over 300 clients annually spanning more than five cities in SLO County
          - **Eligibility:** Adults with mental illness needing supportive housing
-         - **Access:** Contact main office at 805-540-6500 or [info@t-mha.org](mailto:info@t-mha.org) Source: [t-mha.org](https://www.t-mha.org/)
+         - **Access:** Contact TMHA main office
             - One source says "Residents are referred by SLO County Behavioral Health Services"; another says "Contact Housing Department at TMHA"
-         - **Location:** 784 High Street, SLO
-         - **Phone:** 805-540-6500
-         - **Hours:** Monday–Friday 8:00am–5:00pm
+         - **Location/Phone/Hours/Email:** See [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) in the [Directory](Directory.md)
          - **Special features:** Bishop Street Studios opened in Fall 2019 in renovated former Sunny Acres building; provides trauma-informed housing services
       1. [**HomeShare SLO**](https://www.smartsharehousingsolutions.org/homeshare-slo)
-         - **What's available:** Facilitated housemate-matching program; Reduced Rent Task Exchange program (8 hours/week work for $400–500/month rent or 15 hours/week for $150/month); ADU consulting for property owners; Co-living development projects including Waterman Village
+         - **What's available:** Facilitated housemate-matching program; Reduced Rent Task Exchange program (8 hours/week work for $400–500/month rent or 15 hours/week for $150/month); ADU consulting for property owners
          - **Eligibility:** Primarily serves lower-income individuals, especially seniors; Reduced Rent program eliminates credit scores, income minimums, and application fees
-         - **Access:** Call 805-215-5474 for home visit and application
+         - **Phone:** See [**HomeShare SLO**](Directory.md#HomeShare SLO) in the [Directory](Directory.md)
+         - **Access:** Call for home visit and application
          - **Location:** Serves all of SLO County
          - **Services include:** Background screening, reference checks, interview facilitation, trial matches, ongoing support
          - **Special features:** Since 2017, facilitated 63 matches providing housing for 120 clients; not effective for emergency housing
@@ -366,16 +350,15 @@
          - **What's available:** Planned 20-unit affordable tiny home community around historic Rosa Butron Adobe; Co-living development with communal spaces
          - **Eligibility:** Low- to very low-income residents; primarily designed for single seniors, especially "elder orphans" without family support
          - **Access:** Project under development; contact Smart Share Housing Solutions
-         - **Location:** 466 Dana Street, near SLO Children's Museum (Rosa Butron Adobe site)
-         - **Phone:** Smart Share: 805-215-5474
+         - **Location/Phone:** See [**Waterman Village**](Directory.md#Waterman-Village) in the [Directory](Directory.md)
          - **Current status:** City Planning Commission approved December 2024; awaiting full city council approval; construction could begin early 2026 if approved
          - **Planned features:** 220–264 square foot tiny homes, four ADA-compliant units with access ramps, restored adobe building as communal space, off-grid systems (solar power, waterless toilets), preservation of mature trees
       1. [**Hope’s Village**](https://hopesvillageofslo.com/)
          - **What's available:** Planning a sustainable community village of permanent tiny houses for chronically unhoused veterans, women, and elderly; Currently operates RVs for Veterans program (see below)
+         - **Location:** Currently seeking 2+ acres of land in or near SLO
+         - **Phone/Mailing address:** See [**Hope’s Village**](Directory.md#Hopes-Village) in the [Directory](Directory.md)
          - **Eligibility:** Chronically unhoused individuals, with priority for veterans, women, and elderly with little or no income
          - **Access:** Still a work-in-progress; no housing yet available
-         - **Contact:** 805-234-5478; PO Box 1991, Templeton, CA 93465 Source: [hopesvillageofslo.com](https://hopesvillageofslo.com/)
-         - **Location:** Currently seeking 2+ acres of land in or near SLO
          - **Special note:** Still in planning phase, actively seeking suitable land; has been working on project for 10+ years. Probably shouldn't add this to the guide until they're really up and running.
       1. **[RVs for Veterans](https://hopesvillageofslo.com/programs)** (Hope's Village of SLO)
          - **What's available:** Free RVs (motorhomes, travel trailers, fifth wheels) donated to homeless veterans
@@ -386,16 +369,16 @@
              - Veterans who don't qualify for VA assistance
              - Veterans needing to live alone due to PTSD
              - When no veteran in need, may serve other homeless individuals (with donor approval)
-         - **Contact:** Becky Jorgeson, President—805-234-5478
+         - **Phone:** See [**RVs for Veterans**](Directory.md#RVs-for-Veterans) in the [Directory](Directory.md)
          - **Process:** Simple direct connection between donors and veterans; donor and veteran go to DMV together to transfer title, veteran obtains insurance
          - **RV requirements:** Must be registered, in good condition, no leaks, runs well (they don't repair damaged RVs)
-         - **Organization:** (see Hope's Village above)
+         - **Organization:** [**Hope’s Village**](Directory.md#Hopes-Village)
          - **Waitlist:** More veterans currently on waitlist than available RVs
       1. [**Healing and Restoration Campus**](https://www.sloharc.org/) (formerly “Sunny Acres”)
          - **What's available:** Planned transformation to "healing and restoration campus" with education, vocational training, and social enterprises; Currently houses 30 people in recovery program
          - **Eligibility:** Details pending completion of transformation project
          - **Access:** Project under development; contact information not yet available for new program
-         - **Location:** Los Osos Valley Road near Laguna Lake (former DeVaul Ranch / Sunny Acres property)
+         - **Location:** See [**Healing and Restoration Campus**](Directory.md#Healing and Restoration Campus) in the [Directory](Directory.md)
          - **Current status:** Undergoing renovations
          - **Planned features:** 34 private bedrooms in renovated horseshoe building, shared facilities, focus on community integration and self-sufficiency
          - Source: [newtimesslo.com](https://www.newtimesslo.com/news/slos-sunny-acres-could-become-a-health-campus-by-restorative-partners-and-homekey-funds-16578959)
@@ -408,7 +391,7 @@
             - **LyonHeart Place** (San Luis Obispo): Men's State Parolee Reentry Housing Program with Joseph House and Francis House providing clinically structured and supportive environment
          - **Eligibility**: Individuals in recovery from addiction, those transitioning from incarceration, women with children
          - **Application**: Waitlist application available online at [a105342.socialsolutionsportal.com](https://a105342.socialsolutionsportal.com/apricot-intake/950f7ff1-498e-4ef7-97f1-a66068a347d3)
-         - **Contact**: 805-242-1272, 3196 South Higuera Street, Suite D, San Luis Obispo, CA 93401
+         - **Location/Phone/Email/Hours:** See [**Restorative Partners**](Directory.md#Restorative-Partners) in the [Directory](Directory.md)
          - **Source**: [restorativepartners.org](https://restorativepartners.org/housing/)
       1. [**Salvation Army**](https://www.salvationarmyusa.org/usa-western-territory/)
          - **What's available**: Financial assistance, bill pay assistance, employment assistance, case management/referral services, permanent supportive housing, rapid rehousing, eviction prevention assistance, food pantry, utility assistance, street-level outreach (4x/week with food, supplies, hygiene kits)
@@ -457,8 +440,7 @@
             - Private retirement community starting at $3,100/month with no subsidies or financial assistance programs for low-income residents.
          1. [**Parkwood Apartments**](https://www.haslo.org/)
             - **Management:** Housing Authority of SLO (HASLO)
-            - **Phone:** 805-543-4478
-            - **Address:** 487 Leff Street, SLO
+            - **Phone:** See [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) in the [Directory](Directory.md)
             - **Eligibility:** Low-income seniors, income limits at or below 30–50% Area Median Income
             - **Application:** Contact HASLO for current availability and waiting list status
          1. [**Judson Terrace**](https://www.humangood.org/)
@@ -476,7 +458,7 @@
             - **Details:** 106-unit development with 56 units specifically for senior households
             - **Developer:** Housing Authority of SLO (HASLO)
             - **Status:** Under construction now (8/2025)
-            - **Contact:** HASLO at 805-543-4478 for updates on availability
+            - **Phone:** See [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) in the [Directory](Directory.md)
             - Source: [calcoastnews.com](https://calcoastnews.com/2022/11/slo-planning-commission-supports-five-story-affordable-housing-project/)
          1. [**Broad Street Place**](https://www.pshhc.org/property/broad-street-place/)
             - **Address:** 3722 Broad Street, SLO
@@ -485,14 +467,15 @@
             - **Special populations:** Formerly homeless individuals, veterans, disabled individuals
             - **Status:** Currently at full capacity with waitlist available
             - **Management:** People's Self-Help Housing
+               - See [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) in the [Directory](Directory.md)
          1. [**People's Self-Help Housing**](https://www.pshhc.org/)
-            - **SLO Office:** 1060 Kendall Road, SLO — 805-781-3088
+            - **Location/Phone/Hours:** See [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) in the [Directory](Directory.md)
             - **Properties include:** Tiburon Place (68 units, 34 for Coordinated Entry referrals), Sea Breeze Apartments (Los Osos), Villas at Higuera
             - **Serves:** Low-income families, seniors, special needs populations
          1. [**HASLO Section 8 and Project-Based Vouchers**](https://www.haslo.org/)
             - **Willow Walk Senior Apartments:** 2-bedroom PBV units in Nipomo for 62+ years
             - **General eligibility:** 30% or 50% Area Median Income limits
-            - **Contact:** 805-543-4478 for current voucher availability
+            - **Phone:** See [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) in the [Directory](Directory.md)
       1. RV Parks
          1. [**Le Sage Riviera RV Park**](https://lesageriviera.com) (Grover Beach)
              - **Contact:** 805-489-5506, [info@lesageriviera.com](mailto:info@lesageriviera.com)
@@ -1023,15 +1006,13 @@
       - **How to find events**: Check event calendar at [laundrylove.org](https://laundrylove.org/) for locations and schedules
       - The *Resource Guide Estero Bay* says they operate the last Wednesday of the month, 11am–1pm (seniors only) and 4–6pm (anyone), at 2179 10th St. in Los Osos
    1. **ECHO (El Camino Homeless Organization)**—North County
-      - **Location**: 6370 Atascadero Avenue, Atascadero
-      - **Phone**: 805-462-3663
+      - **Phone/Email/Locations/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
       - **Services**: Dinner, showers, clothing, laundry facilities for clients
       - **Confirmed services**: Free laundry facilities available for clients; also provides showers 5x/week with new clothing, dinner program
-      - *Note*: Specific client requirements for laundry access and service hours/days could not be verified in available sources; contact ECHO directly at 805-462-3663 for details about who qualifies as a "client" for laundry services
+      - *Note*: Specific client requirements for laundry access and service hours/days could not be verified in available sources; contact ECHO for details about who qualifies as a "client" for laundry services
       - **Additional**: 50-bed transitional shelter with case management to help find permanent housing within 3 months [Source: [echoshelter.org](https://www.echoshelter.org/)]
    1. **Good Samaritan Shelter** in Santa Maria
-      - **Location**: 400 West Park, Santa Maria, CA 93458
-      - **Phone**: 805-347-3338 x101
+      - **Location/Phone/Email/Hours:** See [Good Samaritan Shelter](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
       - **Confirmed services**: Laundry facilities available for residents; also provides overnight shelter, case management, hot meals, substance use treatment, mental health services
       - **Program**: 90-day, 90-bed emergency shelter for individuals and families; intake appointments 8:30am–5:00pm [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)]
 
@@ -1049,33 +1030,33 @@
          - **Note**: Call for current shower access requirements and availability [Source: [capslo.org/40-prado](https://capslo.org/40-prado/)]
       1. [**805 Street Outreach**](https://805streetoutreach.org/) (Morro Bay)
          - **Services**: Mobile shower trailer with 2 stalls (showers, sinks, toilets), food, clothing distribution
-         - **Schedule**: Every Monday, 12pm–3pm, Morro Bay Public Library parking lot
-         - **Contact**: [izzy@805streetoutreach.org](mailto:izzy@805streetoutreach.org)
+         - **Email/Hours/Location:** See [**805 Street Outreach**](Directory.md#805-Street-Outreach) in the [Directory](Directory.md)
          - **Target**: Homeless individuals in SLO County
       1. [**ECHO (El Camino Homeless Organization)**](https://www.echoshelter.org/) — North County services
          - **What's available**: Showers, also: dinner, clothing
-         - **Location**: 6370 Atascadero Avenue, Atascadero
-         - **Shower hours**: Monday–Friday 4:00pm–5:30pm (updated hours)
+         - **Phone/Email/Locations/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
          - **Access**: Walk-in guests welcome; towels, toiletries, and change of clothing provided
             - *Shower and meal access*: Walk-in shower program continues M–F 3:30–5:00pm, daily community dinner 5:00–6:00pm open to anyone, despite transition to 90-day residential program [Source: [newtimesslo.com](https://www.newtimesslo.com/news/paso-robles-echo-transitions-to-90-day-stays-17105511)]
-         - **Updated address**: 7600 El Camino Real Ste 12, Atascadero (primary address)
-         - **Phone**: 805-462-3663
          - **Additional services**: Emergency shelter, case management, job assistance, life skills training
    1. **Alternative Options with Financial Assistance**
       1. [**SLO County YMCA**](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
          - **Policy**: "No one is denied membership because of inability to pay"
          - **What's available**: Fitness center with shower facilities, financial assistance program, payment plans
-         - **Location**: 1020 Southwood Drive, SLO
-         - **Phone**: 805-543-8235 [Source: [ciymca.org](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)]
+         - **Location/Phone:** See [**SLO County YMCA**](Directory.md#SLO-County-YMCA) in the [Directory](Directory.md)
          - **Services**: Fitness center, basketball court, group classes, youth sports
          - **Note**: Contact for financial assistance options to access shower facilities through membership
       1. No Five Cities YMCA Locations; closest alternative is "Santa Maria Valley YMCA" (3400 Skyway Dr., Santa Maria)
    1. **County Park Shower Facilities** (Coin-operated)
-      1. **El Chorro Regional Park Campground**: Coin-operated showers available to day-use visitors; 805-781-5930 x4 Source: [slocountyparks.com](https://slocountyparks.com/camp/el-chorro/)
-      1. **Lopez Lake Recreation Area**: Hot shower facilities (coin-operated); reservations: 805-788-2381 Source: [slocountyparks.com](https://slocountyparks.com/recreation/lopez-lake/)
-      1. **Santa Margarita Lake Recreation Area**: Coin-operated showers available to day-use visitors Source: [slocountyparks.com](https://slocountyparks.com/recreation/santa-margarita-lake/)
-      1. **Coastal Dunes RV Park & Campground**: 22 campsites with shower access; 805-781-4900 Source: [slocountyparks.com](https://slocountyparks.com/camp/coastal-dunes/)
-      1. **Oceano Campground**: 24 campsites with coin-operated showers; 805-781-4900; 494 Air Park Drive, Oceano Source: [slocountyparks.com](https://slocountyparks.com/camp/oceano/)
+      1. **El Chorro Regional Park Campground**: Coin-operated showers available to day-use visitors
+         - See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
+      1. **Lopez Lake Recreation Area**: Hot shower facilities (coin-operated)
+         - See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
+      1. **Santa Margarita Lake Recreation Area**: Coin-operated showers available to day-use visitors
+         - See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
+      1. **Coastal Dunes RV Park & Campground**: 22 campsites with shower access
+         - See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
+      1. **Oceano Campground**: 24 campsites with coin-operated showers
+         - See [**Oceano Campground**](Directory.md#Oceano-Campground) in the [Directory](Directory.md)
    1. **Port San Luis Harbor - Coastal Gateway Multi-Purpose Room**: Coin-operated showers ($2); 3900 Avila Beach Dr.; 805-595-5400; Contact for current hours Source: [portsanluis.com](https://www.portsanluis.com/2164/Coastal-Gateway-Multi-Purpose-Room)
    1. **Pismo Beach Athletic Club**: Day pass ($15) provides access to all facilities including showers; Hours: Mon–Fri 5:30am–9:00pm, Sat–Sun 7:00am–4:00pm; 1751 Price St, Pismo Beach; 805-773-3011 Source: [pbac.com](https://pbac.com/guest-rates/)
 
@@ -1184,6 +1165,7 @@
       1. [Health and Medical Care Resources in SLO and the Five Cities Area](https://showerthepeopleslo.org/wp-content/uploads/2025/08/Health-and-Medical-Care-Resources.pdf)
       1. **Free and low-cost options**: [rehabs.org/centers/california/san-luis-obispo](https://rehabs.org/centers/california/san-luis-obispo/) for budget-friendly treatment centers
       1. Good Samaritan Shelter in Santa Maria has a detox program and apparently accepts referrals from 5CHC in SLO County
+         - **Location/Phone/Email/Hours:** See [Good Samaritan Shelter](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
    1. Add AA, NA, Marijuana Anonymous; but refer readers to their directories for details about individual meetings
 
 1. <a id="tattoo-removal">**Tattoo removal**</a>
@@ -1433,22 +1415,18 @@
 1. <a id="legal-help--mediation-crime-victim-protection">**Legal help & mediation, crime victim protection**</a>
    1. **Help for defendants, convicts, parolees, probationers, 290s**
       1. **[Restorative Partners](https://restorativepartners.org/)**
-          - **What's available:** Reentry resources, in-custody programs, system navigation, housing assistance, treatment, workforce development, clean and sober living homes for men and women
-          - **Target population:** Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
-          - **Contact:** 805-242-1272, [info@restorativepartners.org](mailto:info@restorativepartners.org)
-          - **Address:** 3196 South Higuera Street #D, San Luis Obispo, CA 93401
-          - **Hours:** Monday–Friday 9am–5pm
-          - **How to initiate services:** Call main number or email; attend Community Workshop for volunteers
-          - **Specialized contact:** [housing@restorativepartners.org](mailto:housing@restorativepartners.org), [volunteer@restorativepartners.org](mailto:volunteer@restorativepartners.org) (805-234-9074)
-          - **Special program:** The Bridge Cafe—social enterprise offering job training and certification for justice-involved individuals through Cuesta College partnership
-          - **Philosophy:** Restorative justice focusing on healing harm, involving wrongdoers, victims, and community
+         - **What's available:** Reentry resources, in-custody programs, system navigation, housing assistance, treatment, workforce development, clean and sober living homes for men and women
+         - **Target population:** Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
+         - **Location/Phone/Email/Hours:** See [**Restorative Partners**](Directory.md#Restorative-Partners) in the [Directory](Directory.md)
+         - **How to initiate services:** Call main number or email; attend Community Workshop for volunteers
+         - **Special programs:** The Bridge Cafe—social enterprise offering job training and certification for justice-involved individuals through Cuesta College partnership; housing program
+         - **Philosophy:** Restorative justice focusing on healing harm, involving wrongdoers, victims, and community
       1. **[SLO Public Defenders](https://slodefend.com/)**
-          - **What's available:** Free legal representation for individuals charged with crimes who cannot afford private attorneys
-          - **Eligibility:** Must be unable to afford a private attorney; applies to state court cases, juveniles, and conservatorship cases
-          - **Contact:** 805-541-5715, 991 Osos Street #A, SLO
-          - **Hours:** Monday–Thursday 8:30am–12:00pm & 1:00pm–5:00pm; Friday 8:30am–12:00pm & 1:00pm–4:00pm
-          - **Access:** Appear at first court hearing and ask judge to appoint attorney; meetings by appointment only
-          - **Cost:** Users may be responsible for portion of costs based on ability to pay
+         - **What's available:** Free legal representation for individuals charged with crimes who cannot afford private attorneys
+         - **Eligibility:** Must be unable to afford a private attorney; applies to state court cases, juveniles, and conservatorship cases
+         - **Location/Phone/Hours:** See [**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) in the [Directory](Directory.md)
+         - **Access:** Appear at first court hearing and ask judge to appoint attorney; meetings by appointment only
+         - **Cost:** Users may be responsible for portion of costs based on ability to pay
    1. **Legal help regarding housing (discrimination, landlord disputes, etc.)**
       1. **[California Civil Rights Department](https://calcivilrights.ca.gov)**: [Housing Discrimination](https://calcivilrights.ca.gov/housing/)
           - **What's available:** Protection from unlawful discrimination in housing, employment, businesses, state-funded programs; hate violence reporting
@@ -1754,7 +1732,8 @@
                - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
             - **5Cities Homeless Coalition**: Offers "identification and documentation assistance" as part of client resource center services
                - **Website/Location/Email/Phone**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
-            - **ECHO Atascadero/Paso Robles**: Contact 805-462-3663 to ask about secure document storage for clients
+            - **ECHO Atascadero/Paso Robles**: Contact to ask about secure document storage for clients
+               - **Phone/Email/Locations/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
             - **Note**: Services may be limited to active participants; call each center to verify current availability [Source: [5chc.org](https://5chc.org/), [capslo.org](https://capslo.org/)]
          - **Consider a safety deposit box** if you have any income ($20–40/year typically)
          - **Scan or photograph documents** and store digitally if you have access to email or cloud storage
@@ -2049,6 +2028,8 @@
          - **Contact**: City Utility Billing 805-781-7133, [ub@slocity.org](mailto:ub@slocity.org)
          - **How to apply**: Contact utility billing department for customer assistance program applications and eligibility requirements
          - **Website**: [www.slocity.org/government/department-directory/utilities-department](https://www.slocity.org/government/department-directory/utilities-department) for complete program details
+      1. [Low Income Household Water Assistance Program (LIHWAP)](https://www.csd.ca.gov/lihwap)
+         - Appears to have ended in 2024
    1. **Additional Resources**
       1. **HelpSLO**: Community assistance network [localwiki.org/slo/HelpSLO](https://localwiki.org/slo/HelpSLO)
       - *See also*: [Banking and money management](#banking-and-money-management) section for Financial Literacy / Credit Counseling resources
@@ -2187,7 +2168,7 @@
          - **Source**: [assistanceleague.org](https://www.assistanceleague.org/san-luis-obispo-county/)
       1. **[Restorative Partners](https://restorativepartners.org/)**
          - **Target population:** Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
-         - **Contact:** 805-242-1272, [info@restorativepartners.org](mailto:info@restorativepartners.org), 3196 South Higuera Street #D, SLO
+         - **Location/Phone/Email/Hours:** See [**Restorative Partners**](Directory.md#Restorative-Partners) in the [Directory](Directory.md)
          - **Special program:** The Bridge Cafe—social enterprise offering paid culinary job training and certification in partnership with Cuesta College's Culinary Arts Foundation
          - **How to apply for Bridge Cafe training:** Contact Restorative Partners to inquire about participating in the culinary arts certificate program
          - **Program outcomes:** Upon completion, Restorative Partners assists participants with finding culinary employment
@@ -2336,7 +2317,7 @@
       1. **[Family Care Network](https://fcni.org/)**
          - **Educational services**: Tutoring and academic support, Career & Education Support Services for current and former foster youth
          - **Target population**: Primarily serves youth and families impacted by trauma
-         - **Contact**: 805-781-3535, 1255 Kendall Road, San Luis Obispo
+         - **Location/Phone**: See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
          - **Note**: Limited direct educational services for general adult homeless population—contact directly for eligibility and current programs
          - **Source**: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31638)
    1. **Important Notes**
@@ -2466,8 +2447,8 @@
       1. Refer people out to the veterans’ resource guide
       1. See also pp. 112+ of the Senior guide
       1. Supportive Services for Veteran Families ([5CHC](https://5chc.org/programs/ssvf-supportive-services-for-veteran-families)) ([CAPSLO](https://capslo.org/ssvf/))
+         - **Location/Phone:** See [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families) in the [Directory](Directory.md)
          - housing stability resources for veterans
-         - 805-534-1698 / 265 South St. #H, SLO
       1. Veteran’s Service Office
       1. Veterans Outpatient Clinics
       1. Vet Center counseling (for war vets)
@@ -2548,7 +2529,7 @@
       1. **[Family Care Network](https://fcni.org/)**
          - **Services**: Foster care, mental health treatment, housing support, career/education support for children and families
             - Note: make sure this is cross-referenced in the "health: mental health" section, with additional details about those specific programs.
-         - **Contact**: 805-781-3535, 1255 Kendall Road, SLO
+         - **Location/Phone**: See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
          - **Housing**: 9 apartment complexes (36 units), houses 130+ homeless families annually
          - **Impact**: Serves 1,500+ children, youth, families annually; 25,000+ served since 1987
          - **Target**: Children/families experiencing trauma, homelessness, foster care needs [Source: https://fcni.org/]
@@ -2688,6 +2669,7 @@
          - **The Center Yoga Studio** (805-598-7100): Contact to verify current community class offerings and affordable options. (Currently doing a 1-hour community yoga class at 5:30pm on Mondays)
             - "This class is inclusive and intended to be accessible to all. Please bring a yoga mat. Mats available to rent at the studio for $2. For non-members, a sliding scale donation of $5-$25 is requested.… If the minimum donation is not in your budget or you'd prefer to make a cash donation at the studio, please send an email to hello@thecenterslo.com and we'll get you signed up." Source: [thecenterslo.com](https://thecenterslo.com/)
    1. [YMCA](https://www.sloymca.org/)
+      - **Location/Phone:** See [**SLO County YMCA**](Directory.md#SLO-County-YMCA) in the [Directory](Directory.md)
    1. [Concerts in the Plaza](https://downtownslo.com/events/concerts)
    1. [Disc golf courses](https://slothrowers.com/)
    1. [Bike happenings](https://localwiki.org/slo/Free_Events)
@@ -3069,8 +3051,7 @@
          - Source: [studiostitch.com](https://studiostitch.com/)
 
 1. <a id="other-guides-web-pages-information-sources">**Other guides, web pages, information sources**</a>
-   1. [Available at 5CHC office](https://5chc.org/programs/information-and-referral-coordinated-entry)
-      - **Location**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+   1. [**Community Support Services**](https://5chc.org/community-services) (5CHC)
    1. **[Central Coast Senior Resource Guide](https://centralcoastseniors.org/)**: 122-page comprehensive guide covering services for seniors in San Luis Obispo and Santa Barbara Counties; available online and in print through Central Coast Commission for Senior Citizens. Available as a searchable on-line directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
    1. **[Paso Robles Senior Resource Guide](https://www.prcity.com/departments/recreationservices)**: 2025–26 North SLO County Senior Resource Guide available in English/Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, healthcare
    1. **SLO County Veterans Resources**: Comprehensive veteran services available through SLO County Veterans Services Office (Note: Unable to verify 805-781-5766 in available sources; contact SLO County directly for current contact information) and San Luis Obispo Veterans Service Collaborative at [slovsc.org/veterans_resources/](https://slovsc.org/veterans_resources/)
@@ -3083,6 +3064,7 @@
    1. [**SLO County Behavioral Health Resource Center**](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
    1. [**Resource Guide Estero Bay**](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf)
    1. [**Sharing SLO wiki**](https://localwiki.org/slo/Sharing_SLO)
+   1. [**Immigrant Services Guide**](https://www.sloundocusupport.org/immigrantservicesguide)
 
 1. <a id="miscellaneous-tips">**Miscellaneous tips**</a>
    1. Ideally contributed by local homeless people: would make for good sidebars to break up listings; may want to get legal waiver of copyright from them, though
