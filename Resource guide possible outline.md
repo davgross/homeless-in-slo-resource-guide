@@ -4,9 +4,9 @@
 
 1. [Introduction](#introduction)
 1. [Hotlines and emergency contacts](#hotlines-and-emergency-contacts)
-1. [Tips on self-advocacy and for communicating with service providers](#tips-on-self-advocacy-and-for-communicating-with-service-providers)
+1. [Self-advocacy and for communicating with service providers](#tips-on-self-advocacy-and-for-communicating-with-service-providers)
 1. [Shelter / housing](#where-to-find-shelter--housing)
-1. [Property storage options (short-term & long-term)](#property-storage-options-short-term-day-lockers--long-term-storage-rental)
+1. [Property storage](#property-storage-options-short-term-day-lockers--long-term-storage-rental)
 1. [Food](#where-to-get-food)
 1. [Where to refill a water bottle](#where-to-refill-a-water-bottle)
 1. [Transportation](#transportation)
@@ -19,27 +19,27 @@
 1. [End-of-life care, advance directives, hospice](#end-of-life-care-advance-directives-hospice)
 1. [Personal safety, deescalation, self-defense](#personal-safety-deescalation-self-defense)
 1. [Legal help & mediation, crime victim protection](#legal-help--mediation-crime-victim-protection)
-1. [IDs and other documents (how to obtain, replace, secure)](#ids-and-other-documents-how-to-obtain-replace-secure)
+1. [IDs and other documents](#ids-and-other-documents-how-to-obtain-replace-secure)
 1. [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc)
 1. [Banking and money management](#banking-and-money-management)
 1. [Tax preparation](#tax-preparation)
 1. [Acute financial needs](#acute-financial-needs)
-1. [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
+1. [Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
 1. [Employment, job boards, etc.](#employment-job-boards-etc)
 1. [Education, job skills training, certification, tutoring, literacy](#education-job-skills-training-certification-tutoring-literacy)
 1. [Phones and phone service](#free-and-low-cost-phone-services)
-1. [Internet access / email / digital access assistance](#internet-access--email--digital-access-assistance)
+1. [Internet access / email / digital access](#internet-access--email--digital-access-assistance)
 1. [Charging stations for devices](#charging-stations-for-devices)
-1. [Resources specific to particular subgroups](#resources-specific-to-particular-subgroups)
+1. [Resources for particular subgroups](#resources-specific-to-particular-subgroups)
 1. [Peer support groups](#peer-support-groups)
-1. [Recreation, fitness, socializing, connection, religion, community integration, volunteering](#recreation-fitness-socializing-connection-religion-community-integration-volunteering)
+1. [Recreation, fitness, connection, religion](#recreation-fitness-socializing-connection-religion-community-integration-volunteering)
 1. [Pet care and pet supplies](#pet-care-and-pet-supplies)
 1. [Disaster planning/prep](#disaster-planningprep-earthquakes-fires-floods)
 1. [Advocacy & lobbying for homeless issues](#advocacy--lobbying-for-homeless-issues)
 1. [Miscellaneous free items](#miscellaneous-free-items-eg-household-goods)
 1. [Other guides, web pages, information sources](#other-guides-web-pages-information-sources)
 1. [Miscellaneous tips](#miscellaneous-tips)
-1. [Directory](#directory)
+1. [Directory](Directory.md)
 
 ---
 
@@ -182,15 +182,13 @@
    1. Immediate shelter needs
       1. **[40 Prado Homeless Services Center](https://capslo.org/40-prado/)**
          - **What's available**: Emergency shelter (up to 100 beds), including 10–40 walk-in beds available nightly depending on capacity; meals, showers, laundry, mail/phone services, case management, integrated medical clinic (primary and urgent care 5 days a week with on-site pharmacy), recuperative care beds, animal kennels
-         - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-Prado) in the [Directory](Directory.md)
+         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
          - **Intake**: Emergency shelter intake daily 8:00am–2:00pm — *Intake is a one-time registration process where you provide personal information, complete paperwork, and get added to the shelter system*
          - **Check-in**: Daily 4:30pm–6:00pm for emergency shelter (must complete intake first) — *Check-in is done each day you want a bed; you must arrive during check-in hours to secure a spot for that night*
          - **Meals**: Lunch daily 12:00pm–12:30pm, dinner daily 5:00pm–5:30pm
             - *Meal access*: Lunch is open to anyone; breakfast and dinner are for enrolled clients/residents in good standing with valid photo ID required [Source: [volunteermatch.org](https://www.volunteermatch.org/search/opp2926420.jsp)]
          - **Services**: 365 days per year facility helping individuals and families improve health and stability and move towards self-sufficiency
          - **Important**: As of 2025, this is pretty much the only game in SLO County for walk-in, nightly shelter beds (some people per night are still turned away due to lack of capacity)
-         - **Hospital/emergency referrals**: Walk-in beds are also allocated for people being discharged from hospitals or jail systems
-         - **Safe parking**: Currently offers 12 safe parking spots for people living in vehicles; also serves as intake location for new Rotating Overnight Safe Parking program (see below)
          - **Source**: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/get-help); [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311748942.html)
          - **Eligibility**: 290s screened out; must be county resident (how is that determined?)
             - Note: Unable to find specific documentation of eligibility criteria in public sources. For current eligibility requirements (including details about "290s screened out" and county residency verification), contact 40 Prado directly
@@ -202,33 +200,36 @@
          - **Eligibility**: Homeless individuals living in vehicles; background check required (no 290s/sex offenders); SLO County residents get preference; only vehicles that can fit into a stanard parking space are allowed
          - **Requirements**: No illegal drugs, alcohol, weapons, or fires; follow Good Neighbor Policy; participate in case management
          - **Services**: CAPSLO case management, coordinated entry assessments, 2-hour overnight security checks, occasional police patrols
-         - **Contact**: 805-544-4004 (40 Prado intake)
+         - **Email**: See [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program) in the [Directory](Directory.md)
          - **Source**: [SLO County Board of Supervisors](https://agenda.slocounty.ca.gov/iip/sanluisobispo/file/getfile/171737) (January 2025); [newtimesslo.com](https://www.newtimesslo.com/news/slo-county-taps-into-hhap-funds-rotating-safe-parking-program-17105509)
       1. **[Good Samaritan Shelter](https://goodsamaritanshelter.org/)**, Santa Maria?
          - **What's available:** 90-day, 90-bed emergency homeless shelter serving individuals and families from the Santa Maria Valley
          - **Eligibility:** Homeless individuals and families in Santa Maria area
          - **Access:** Contact during regular working hours 8:30am–5:00pm to set up an intake appointment
-         - **Location/Phone/Email/Hours:** See [Good Samaritan Shelter](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
+         - **Location/Phone/Email/Hours:** See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
          - **Services include:** Overnight shelter, case management, laundry facilities, hot meals, substance use treatment, and mental health services
          - **Program Manager:** Layne Harlow ([lharlow@goodsamaritanshelter.org](mailto:lharlow@goodsamaritanshelter.org))
       1. [SLO County Parks](https://slocountyparks.com/camp/) for short-term camping
          1. [**El Chorro Regional Park Campground**](https://slocountyparks.com/camp/el-chorro/)
+            - **Location/Phone/Email:** See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
             - 18 tent-camping sites (also has RV hook-up sites)
             - $25/night; $13/night for extra vehicles
             - Can make reservations online 2 days in advance, or same-day reservations on-site if available
-            - Phone: 805-781-5930 x4 (Monday–Friday 8:30am–4:30pm) [Source: [slocountyparks.com](https://slocountyparks.com/camp/el-chorro/)]
             - Amenities: Coin-operated showers, restrooms, picnic tables, fire rings
          1. [**Lopez Lake Recreation Area**](https://slocountyparks.com/camp/lopez-lake/)
+            - **Phone/Email:" See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
             - 350+ campsites in several areas
-            - Can make reservations online 2 days in advance, or more immediately by phone 805-788-2381 M–Th 8am–5pm.
+            - Can make reservations online 2 days in advance, or more immediately by phone
             - Amenities: Hot shower facilities (coin-operated), restrooms
          1. [**Santa Margarita Lake Recreation Area**](https://slocountyparks.com/camp/santa-margarita-lake/)
+            - **Phone/Email:** See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
             - 60 campsites in 4 campgrounds
             - $33–41/night; $10 reservation fee
             - Can make reservations online 2 days in advance, or same-day reservations on-site if available
             - Amenities: Coin-operated showers, restrooms, swimming pool (seasonal)
          1. **Coastal Dunes RV Park & Campground \+ Oceano Campground**
-            - Online reservations must be made two days prior to arrival date; One-day prior or same-day by phone 805-781-4900 M–Th 8am–4:30pm; F–Su 8am–6pm
+            - **Location/Phone:** See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) and [**Oceano Campground**](Directory.md#Oceano-Campground) in the [Directory](Directory.md)
+            - Online reservations must be made two days prior to arrival date; One-day prior or same-day by phone
             - 22 campsites; showers available
          1. [General rules & limitations](https://reservations.slocountyparks.com/)
             - **Stay limits:** 15 consecutive days maximum in any 30-day period (Apr. 1–Sept. 30); 30 days maximum in any 60-day period (Oct. 1–Mar. 31); maximum 60 days in any 12-month period
@@ -258,7 +259,7 @@
          - **Services:** Prevention and diversion assistance for those at risk of homelessness, permanent supportive housing for people with the highest housing barriers, standardized intake assessment and referral
          - **How to get registered:**
            - **South County:** Contact 5Cities Homeless Coalition to arrange a confidential coordinated entry meeting
-              - **Website/Location/Email/Phone**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+              - **Website/Location/Email/Phone**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
            - **County-wide:** Contact SLO County Social Services at 805-781-1600
            - **HMIS-participating service providers** can also make referrals into the system
          - **Key participating agencies:** CAPSLO, 5Cities Homeless Coalition, Transitions-Mental Health Association, Good Samaritan Shelter, County Social Services, County Health Agency
@@ -277,7 +278,7 @@
       1. **[5CHC](https://5chc.org/programs/housing-assistance)**
          - **What's available:** Case management and financial assistance for rent, deposit, and immediate needs; housing assistance through various funding grants
          - **Eligibility:** For move-in assistance (deposit and rent): must be currently homeless, no income threshold; For rental assistance to prevent homelessness: income is a factor
-         - **Location/Email/Phone**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+         - **Location/Email/Phone**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
          - **Access:** Contact 5CHC to arrange a confidential coordinated entry meeting
          - **Hours:** Contact for appointment
       1. [**Habitat for Humanity SLO County**](https://habitatslo.org/ourwork/)
@@ -487,7 +488,7 @@
              - **Amenities:** Close to beaches, golf course, boardwalks, newly remodeled bathrooms, on-site laundry
              - **Office hours:** Mon–Sat 9am–4:30pm, Sun 9am–3pm
          1. [**Coastal Dunes RV Park & Campground**](https://slocountyparks.com/camp/coastal-dunes/) (Grover Beach)
-             - **Contact:** 805-781-4900 (Mon–Fri 8am–4:30pm), 805-781-5930 (reservations)
+             - **Location/Phone:** See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
              - **Operator:** SLO County Parks
              - **Location:** Walking distance to Pismo Beach, next to Grover Beach Amtrak Station
              - **Features:** Grassy RV pads, trees for shade, pool, full hookups
@@ -500,30 +501,26 @@
              - **Features:** Seaside campsites, spacious RV sites, beach cottages (25 campsites total)
              - **Amenities:** Cornhole, bocce ball, bath facilities, espresso coffee, accommodates wide variety of RVs
          1. [**El Chorro Regional Park**](https://slocountyparks.com/camp/el-chorro/) (SLO County)
-             - **Contact:** 805-781-5930 ext. 4, [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
-             - **Address:** State Hwy 1 @ Dairy Creek, SLO (4 miles NW of SLO)
+             - **Location/Phone/Email:** See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
              - **Rates:** Primitive sites $30-$41/night, Hookup sites $47-$55/night (2024 pricing)
              - **Sites:** 61 campsites (43 full hook-up, 18 primitive), max 40-foot trailers
              - **Features:** Multiple playgrounds, nearby golf course, nature trails, restrooms, coin-operated showers
              - **Reservations:** 2 days to 6 months in advance online or by phone
          1. [**Lopez Lake Recreation Area**](https://slocountyparks.com/camp/lopez-lake/)
-             - **Contact:** 805-788-2381, 805-781-5930 (general reservations)
-             - **Website:** reservations.slocountyparks.com
+             - **Phone/Email:" See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
              - **Operator:** SLO County Parks
              - **Sites:** Over 350 campsites (primitive, electrical, and full hook-up)
              - **Activities:** Hiking, mountain biking, zip lining, boating, fishing
              - **Note:** No dump stations at campgrounds - use Oceano Dunes station if needed (805-473-7220)
              - **Hours:** 6am to sunset daily
          1. [**Port San Luis Harbor District RV Camping**](https://www.portsanluis.com/2163/RV-Camping) (Avila Beach)
-             - **Contact:** 805-595-5400 (main), 805-305-4796 (camp host)
-             - **Address:** 3950 Avila Beach Dr., Avila Beach, CA 93424
-             - **Email:** [reservations@portsanluis.com](mailto:reservations@portsanluis.com), [campingrefunds@portsanluis.com](mailto:campingrefunds@portsanluis.com)
-             - **Sites:** 8 full hook-up coastal gateway campsites
-             - **Requirements:** Fully self-contained units only (installed and operable black & grey water tanks required)
-             - **Reservation:** Online reservation only (DO NOT call for reservations)
-             - **Rules:** 14-day maximum stay, one vehicle per campsite (extra vehicle $5/night), quiet hours 10pm–7am
-             - **Cancellation:** $18 fee per transaction; 72+ hours: 100% refund minus fees; 48+ hours: 50% refund; <48 hours: no refund
-             - **Special requirements:** Must be physically occupied minimum 1 hour per 24-hour period
+            - **Phone/Email/Location:** See [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) in the [Directory](Directory.md)
+            - **Sites:** 8 full hook-up coastal gateway campsites
+            - **Requirements:** Fully self-contained units only (installed and operable black & grey water tanks required)
+            - **Reservation:** Online reservation only (DO NOT call for reservations)
+            - **Rules:** 14-day maximum stay, one vehicle per campsite (extra vehicle $5/night), quiet hours 10pm–7am
+            - **Cancellation:** $18 fee per transaction; 72+ hours: 100% refund minus fees; 48+ hours: 50% refund; <48 hours: no refund
+            - **Special requirements:** Must be physically occupied minimum 1 hour per 24-hour period
          1. [**SLO Elks Lodge #322**](https://rv.elks322.org)
              - **Eligibility:** Available to Elks members in good standing only (must be Elks member) — probably not useful for this guide, then; Elks members will already be aware of this sort of perk probably
              - **Contact:** 805-543-0322
@@ -541,7 +538,7 @@
       1. **40 Prado Homeless Services Center**
          - **What's available**: Storage lockers for participants
          - **Eligibility**: Open to individuals and families experiencing homelessness who have completed intake for day services; not restricted to shelter residents
-         - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
          - **Other Services**: Day services include showers, meals, laundry, phone access, and case management
          - **Note**: Details about storage locker size, duration policies, and document storage services not available in online sources—contact 40 Prado directly at 805-544-4004 for specific storage policies and availability
          - **Source**: [capslo.org/40-prado](https://capslo.org/40-prado/)
@@ -734,9 +731,13 @@
    1. **County Parks with Water Access**
       1. [**SLO County Parks**](https://slocountyparks.com/): Most county parks have water fountains or spigots available to visitors
          1. **El Chorro Regional Park**: Water fountains available
+            - **Location/Phone/Email:** See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
          1. **Lopez Lake Recreation Area**: Water fountains and spigots available
+            - **Phone/Email:" See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
          1. **Santa Margarita Lake Recreation Area**: Water fountains available
+            - **Phone/Email:** See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
          1. **Coastal Dunes RV Park & Campground**: Water access available
+            - **Location/Phone:** See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
    1. **Five Cities Area** (Arroyo Grande, Grover Beach, Oceano, Pismo Beach, Shell Beach)
       1. **City Parks**: Most municipal parks in the five cities area have water fountains
       1. **Beach Access**: Public restroom facilities at beaches typically include water fountains
@@ -857,7 +858,7 @@
          - [**California Bureau of Automotive Repair (CAP)**](https://www.bar.ca.gov/cap): Consumer Assistance Program includes repair assistance in SLO County
          - **Salvation Army:** The Salvation Army San Luis Obispo Corps (815 Islay Street, 805-544-2401) provides various assistance programs including some transportation support like bus cards and gas money. While general automotive repair assistance programs exist at some Salvation Army locations nationwide, specific car repair voucher programs were not confirmed at the San Luis Obispo location. Contact them directly to inquire about current automotive assistance availability and eligibility requirements. Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
          - **Catholic Charities:** Catholic Charities of the Diocese of Monterey serves Monterey, San Benito, San Luis Obispo, and Santa Cruz counties with various services including Financial Stability programs. However, no specific automotive repair assistance programs were found on their website. Contact them directly to inquire about transportation assistance: see their website for regional contact numbers. Source: [catholiccharitiesdom.org](https://catholiccharitiesdom.org)
-            - **Website/Phone/Hours/Location**: See [Catholic Charities](Directory.md#CatholicCharities) in the [Directory](Directory.md).
+            - **Website/Phone/Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
          - **Community Action Agencies:** CAPSLO (Community Action Partnership of San Luis Obispo County, 805-544-4355) offers comprehensive services to address poverty but does not specifically advertise automotive repair assistance programs. Some CAPSLO programs like SSVF (Supportive Services for Veteran Families) include transportation services and referrals. Contact CAPSLO directly to inquire about transportation assistance or referrals to automotive repair resources. Source: [capslo.org](https://capslo.org/)
          - **TANF (Temporary Assistance for Needy Families/CalWORKs):** CalWORKs in California may provide transportation assistance including car repair through diversion payments (one-time payments up to $2,000 for special circumstances like car repairs to avoid needing ongoing assistance). CalWORKs also provides payments for transportation and ancillary supports for program participants. Contact your local county social services office to apply and determine eligibility. In SLO County, contact County Social Services. Source: [cdss.ca.gov/calworks](https://www.cdss.ca.gov/calworks)
             - Dept. of Social Services, 1086 Grand Ave., Arroyo Grande / 805-474-2000
@@ -866,7 +867,7 @@
             - **San Luis Obispo United Methodist Church**: Contact directly to inquire about current assistance programs. Phone/address available through [sloumc.com](https://www.sloumc.com/)
             - **United Methodist churches generally**: National network offers financial assistance for emergency needs including car repairs through local congregations. General inquiries: 888-862-3242
             - **Catholic Charities**: Previously noted - contact regional office for transportation assistance inquiries
-               - **Website/Phone/Hours/Location**: See [Catholic Charities](Directory.md#CatholicCharities) in the [Directory](Directory.md).
+               - **Website/Phone/Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
             - **Lutheran Services**: May provide car repair assistance and referrals. National contact: 202-499-5836, [lutheranservices.org](https://lutheranservices.org/)
             - **Note**: Many programs prioritize low-income individuals and may require income documentation. Some churches require membership for assistance. Contact individual churches directly to verify current programs.
             - Source: [churchesthathelpus.com](https://churchesthathelpus.com/emergency-car-repair-assistance/)
@@ -879,7 +880,7 @@
    1. **Free Clothing and Homeless Assistance**
       1. **Prado Day Center (40 Prado)**
          - **What's available**: Free clothing for homeless individuals
-         - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
          - **Additional services**: Showers, meals, laundry, case management [Source: [friendsof40prado.org](https://friendsof40prado.org/mission/)]
       1. **Outreach & Engagement Center**
          - **What's available**: Free clothing available
@@ -993,7 +994,7 @@
 1. <a id="laundry">**Laundry**</a>
    1. **40 Prado Homeless Services Center**
       - **What's available**: Free laundry facilities for clients
-      - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+      - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
       - **Additional services**: Showers, meals, case management, integrated medical clinic with on-site pharmacy, warming center (seasonal)
       - **Recommendation**: Call ahead to confirm availability and hours
       - **Eligibility**: Available to all participants; part of day services for homeless individuals and families
@@ -1006,13 +1007,13 @@
       - **How to find events**: Check event calendar at [laundrylove.org](https://laundrylove.org/) for locations and schedules
       - The *Resource Guide Estero Bay* says they operate the last Wednesday of the month, 11am–1pm (seniors only) and 4–6pm (anyone), at 2179 10th St. in Los Osos
    1. **ECHO (El Camino Homeless Organization)**—North County
-      - **Phone/Email/Locations/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
+      - **Locations/Phone/Email/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
       - **Services**: Dinner, showers, clothing, laundry facilities for clients
       - **Confirmed services**: Free laundry facilities available for clients; also provides showers 5x/week with new clothing, dinner program
       - *Note*: Specific client requirements for laundry access and service hours/days could not be verified in available sources; contact ECHO for details about who qualifies as a "client" for laundry services
       - **Additional**: 50-bed transitional shelter with case management to help find permanent housing within 3 months [Source: [echoshelter.org](https://www.echoshelter.org/)]
    1. **Good Samaritan Shelter** in Santa Maria
-      - **Location/Phone/Email/Hours:** See [Good Samaritan Shelter](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
+      - **Location/Phone/Email/Hours:** See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
       - **Confirmed services**: Laundry facilities available for residents; also provides overnight shelter, case management, hot meals, substance use treatment, mental health services
       - **Program**: 90-day, 90-bed emergency shelter for individuals and families; intake appointments 8:30am–5:00pm [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)]
 
@@ -1020,21 +1021,20 @@
    1. **Free Shower Services**
       1. **Shower the People**—Mobile shower trailer serving SLO County
          - **What's available**: Three private bathrooms with sink, toilet, and shower; biodegradable soap/shampoo dispensers; clean towels, washcloths, toiletries, socks, T-shirts, and underwear provided
-         - **Locations**: SLO and Grover Beach (mobile service)
-         - **Schedule**: Five days a week (check [showerthepeopleslo.org](https://showerthepeopleslo.org/) for current schedule)
+         - **Locations/Hours/Email**: See [**Shower the People**](Directory.md#Shower-the-People) in the [Directory](Directory.md)
       1. **40 Prado Homeless Services Center**
          - **What's available**: Showers, laundry, also: phone access, case management, meals, overnight shelter (up to 100 beds), integrated medical clinic with on-site pharmacy
-         - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
          - **Eligibility**: Individuals and families experiencing homelessness; part of day services (don't have to be a resident there)
          - **Access**: Must complete intake before using services; adults need valid CA ID; operates 365 days per year
          - **Note**: Call for current shower access requirements and availability [Source: [capslo.org/40-prado](https://capslo.org/40-prado/)]
       1. [**805 Street Outreach**](https://805streetoutreach.org/) (Morro Bay)
          - **Services**: Mobile shower trailer with 2 stalls (showers, sinks, toilets), food, clothing distribution
-         - **Email/Hours/Location:** See [**805 Street Outreach**](Directory.md#805-Street-Outreach) in the [Directory](Directory.md)
+         - **Location/Email/Hours:** See [**805 Street Outreach**](Directory.md#805-Street-Outreach) in the [Directory](Directory.md)
          - **Target**: Homeless individuals in SLO County
       1. [**ECHO (El Camino Homeless Organization)**](https://www.echoshelter.org/) — North County services
          - **What's available**: Showers, also: dinner, clothing
-         - **Phone/Email/Locations/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
+         - **Locations/Phone/Email/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
          - **Access**: Walk-in guests welcome; towels, toiletries, and change of clothing provided
             - *Shower and meal access*: Walk-in shower program continues M–F 3:30–5:00pm, daily community dinner 5:00–6:00pm open to anyone, despite transition to 90-day residential program [Source: [newtimesslo.com](https://www.newtimesslo.com/news/paso-robles-echo-transitions-to-90-day-stays-17105511)]
          - **Additional services**: Emergency shelter, case management, job assistance, life skills training
@@ -1048,17 +1048,19 @@
       1. No Five Cities YMCA Locations; closest alternative is "Santa Maria Valley YMCA" (3400 Skyway Dr., Santa Maria)
    1. **County Park Shower Facilities** (Coin-operated)
       1. **El Chorro Regional Park Campground**: Coin-operated showers available to day-use visitors
-         - See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
+         - **Location/Phone/Email:** See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
       1. **Lopez Lake Recreation Area**: Hot shower facilities (coin-operated)
-         - See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
+         - **Phone/Email:** See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
       1. **Santa Margarita Lake Recreation Area**: Coin-operated showers available to day-use visitors
-         - See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
+         - **Phone/Email:** See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
       1. **Coastal Dunes RV Park & Campground**: 22 campsites with shower access
-         - See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
+         - **Location/Phone:** See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
       1. **Oceano Campground**: 24 campsites with coin-operated showers
-         - See [**Oceano Campground**](Directory.md#Oceano-Campground) in the [Directory](Directory.md)
-   1. **Port San Luis Harbor - Coastal Gateway Multi-Purpose Room**: Coin-operated showers ($2); 3900 Avila Beach Dr.; 805-595-5400; Contact for current hours Source: [portsanluis.com](https://www.portsanluis.com/2164/Coastal-Gateway-Multi-Purpose-Room)
-   1. **Pismo Beach Athletic Club**: Day pass ($15) provides access to all facilities including showers; Hours: Mon–Fri 5:30am–9:00pm, Sat–Sun 7:00am–4:00pm; 1751 Price St, Pismo Beach; 805-773-3011 Source: [pbac.com](https://pbac.com/guest-rates/)
+         - **Location/Phone:** See [**Oceano Campground**](Directory.md#Oceano-Campground) in the [Directory](Directory.md)
+   1. **Port San Luis Harbor - Coastal Gateway Multi-Purpose Room**: Coin-operated showers ($2); Contact for current hours; Source: [portsanluis.com](https://www.portsanluis.com/2164/Coastal-Gateway-Multi-Purpose-Room)
+      - **Phone/Email/Location:** See [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) in the [Directory](Directory.md)
+   1. **Pismo Beach Athletic Club**: Day pass ($15) provides access to all facilities including showers
+      - **Location/Phone/Hours:** See [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) in the [Directory](Directory.md)
 
 1. <a id="health-medical-care">**Health, medical care**</a>
    1. All the stuff in [our current health resources booklet](https://showerthepeopleslo.org/health-and-medical-care-resources/), plus maybe:
@@ -1165,7 +1167,7 @@
       1. [Health and Medical Care Resources in SLO and the Five Cities Area](https://showerthepeopleslo.org/wp-content/uploads/2025/08/Health-and-Medical-Care-Resources.pdf)
       1. **Free and low-cost options**: [rehabs.org/centers/california/san-luis-obispo](https://rehabs.org/centers/california/san-luis-obispo/) for budget-friendly treatment centers
       1. Good Samaritan Shelter in Santa Maria has a detox program and apparently accepts referrals from 5CHC in SLO County
-         - **Location/Phone/Email/Hours:** See [Good Samaritan Shelter](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
+         - **Location/Phone/Email/Hours:** See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
    1. Add AA, NA, Marijuana Anonymous; but refer readers to their directories for details about individual meetings
 
 1. <a id="tattoo-removal">**Tattoo removal**</a>
@@ -1186,7 +1188,7 @@
          - **Application process**: Call 831-316-9121 for appointment; bring community service completion letter, photo ID; minors must be accompanied by parent/guardian
          - **Treatment schedule**: Multiple treatments required, scheduled two months apart
          - **Service area**: Serves multiple counties including areas near SLO County
-         - **Hours/Location**: See [Catholic Charities](Directory.md#CatholicCharities) in the [Directory](Directory.md).
+         - **Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
       1. [**Removery INK-nitiative Program**](https://removery.com/services/ink-nitiative)
          - **What's available**: Free tattoo removal for people with difficult backgrounds
          - **Eligibility**: Must be formerly incarcerated, former gang members, survivors of domestic abuse, or survivors of human trafficking
@@ -1578,7 +1580,7 @@
        - **Special program**: Tenant's Rights Workshop—2nd & 4th Tuesday of each month, 9:00am–12:00pm
    1. **Immigration Law Services**
        1. **Catholic Charities of the Diocese of Monterey** (Legal Aid Services)
-          - **Website/Phone/Hours/Location**: See [Catholic Charities](Directory.md#CatholicCharities) in the [Directory](Directory.md).
+          - **Website/Phone/Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
           - **Services**: Immigration and housing legal assistance
           - **Cost**: Sliding scale based on income
           - **Eligibility**: Available to all regardless of faith background; focus on low-income individuals
@@ -1603,7 +1605,7 @@
          - Source: [lawhelpca.org](https://www.lawhelpca.org/organization/senior-legal-services-project)
    1. [**5Cities Homeless Coalition Legal Services**](https://5chc.org/community-services/legal-services)
       - **What's available**: Free legal services regardless of citizenship status
-      - **Website/Location/Email**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+      - **Website/Location/Email**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
       - **Access**: Call or email for appointment: 805-543-5140
    1. [**SLO Court Self-Help Services**](https://www.slo.courts.ca.gov/self-help)
       - **What's available**: Free resources to help find legal information and learn self-representation
@@ -1719,7 +1721,7 @@
    1. **California ID for People Experiencing Homelessness**: 40 Prado Homeless Services Center provides fee waivers and assistance with obtaining California birth certificates and ID forms. Visit Monday–Friday 8am–4pm for assistance, then complete regular DMV process. Source: SLO City pocket guide; integrate this information into this outline: "How to get a California I.D. card: Individuals experiencing homelessness can now secure a free copy of their California birth certificate and/or free California photo identification form. Visit 40 Prado Homeless Services Center during their access center hours to receive assistance and/or necessary forms. Once obtained, the person will go through the regular process with the California Department of Motor Vehicles (DMV) to obtain a photo ID and will need to meet all the usual requirements for documentation. Use the flow chart below to understand the process. Get A Fee Waiver from 40 Prado Homeless Services Center anytime Mon — Fri from 8 am — 4 pm."
       - **Process**: Visit 40 Prado during access hours to receive fee waiver assistance and necessary forms, then complete the regular DMV process (all usual documentation requirements apply)
       - Note: Redundant text in main description should be streamlined
-         - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
    1. **Additional important information for people experiencing homelessness**:
       1. **Address alternatives for applications**:
          - Use homeless service centers for mail delivery (see [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc))
@@ -1729,9 +1731,9 @@
          - **Keep copies separate from originals** when possible
          - **Use document storage services** at homeless service centers:
             - **40 Prado Homeless Services Center**: Call 805-544-4004 to inquire about document storage options for participants
-               - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+               - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
             - **5Cities Homeless Coalition**: Offers "identification and documentation assistance" as part of client resource center services
-               - **Website/Location/Email/Phone**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+               - **Website/Location/Email/Phone**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
             - **ECHO Atascadero/Paso Robles**: Contact to ask about secure document storage for clients
                - **Phone/Email/Locations/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
             - **Note**: Services may be limited to active participants; call each center to verify current availability [Source: [5chc.org](https://5chc.org/), [capslo.org](https://capslo.org/)]
@@ -1739,7 +1741,7 @@
          - **Scan or photograph documents** and store digitally if you have access to email or cloud storage
       1. **Financial assistance for document fees**:
          - **40 Prado Homeless Services Center**: 805-544-4004; case management may include assistance navigating document replacement process
-            - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+            - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
          - **5Cities Homeless Coalition**: 805-574-1638; offers "identification and documentation assistance" as part of client resource center services
          - **SLO County Department of Social Services**: 805-781-1600; CalWORKs and other programs may assist with ID-related costs
          - **San Luis Obispo Legal Assistance Foundation**: 805-543-5140; free legal assistance for document-related issues
@@ -1766,10 +1768,10 @@
       1. **5Cities Homeless Coalition Office**
          - **What's available**: Mail services for clients
          - **Services**: Information and referral, coordinated entry services
-         - **Website/Location/Email/Phone**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+         - **Website/Location/Email/Phone**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
       1. **40 Prado Homeless Services Center**
          - **What's available**: Mail and phone services for all participants
-         - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
          - **Eligibility**: Individuals and families using center services
          - **Benefits**: Secure mail handling for people without permanent addresses
    1. **Commercial Mail Services**
@@ -1800,7 +1802,7 @@
    1. **Faith-Based and Community Mail Services**
       - **Specific Organizations to Contact**:
         - **Catholic Charities Diocese of Monterey**: (call to inquire about mail assistance)
-           - **Website/Phone/Hours/Location**: See [Catholic Charities](Directory.md#CatholicCharities) in the [Directory](Directory.md).
+           - **Website/Phone/Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
          - **The Salvation Army SLO Corps**: 815 Islay Street, San Luis Obispo, CA 93401, 805-544-2401 (offers case management/referral services; ask about mail support)
       - **Note**: Call organizations directly to verify current mail service availability; services may be limited to active participants [Sources: [catholiccharitiesdom.org](https://catholiccharitiesdom.org/), [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)]
    1. **Tips for Mail Management**
@@ -1940,7 +1942,7 @@
       1. **5Cities Homeless Coalition (5CHC)**
          - **What's available**: Case management and financial assistance for rent, deposit, and immediate needs based on variety of funding grants
          - **Eligibility**: Residents throughout SLO County who are currently homeless or at-risk of losing housing
-         - **Location/Email/Phone**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+         - **Location/Email/Phone**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
          - **Access**: Email or call to arrange confidential coordinated entry meeting
          - **Website**: [5chc.org/community-services/financial-assistance](https://5chc.org/community-services/financial-assistance)
       1. [**Jewish Family Services**](https://www.jccslo.com/jewish-family-services.html)
@@ -1972,7 +1974,7 @@
          - **Phone**: 805-543-5451
          - **Hotline**: 805-549-8989
       1. [**Catholic Charities**](https://catholiccharitiesdom.org/emergency-rental-assistance-available-in-san-luis-obispo-county/)
-         - **Phone**: See [Catholic Charities](Directory.md#CatholicCharities) in the [Directory](Directory.md).
+         - **Phone**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
          - **Location**: 3592 Broad St. #104, SLO (previous location was 941 Chorro Street) [Source: [rentassistance.org](https://rentassistance.org/program/catholic_charities_diocese_of_monterey_san_luis_obispo_county_san_luis_obispo_ca.html)]
          - **Hours**: Tuesday–Friday only
          - **Access**: call first
@@ -2139,11 +2141,11 @@
          - **Services**: Job matching, skills assessment, on-the-job support, job retention services
          - **Special programs**: First Project SEARCH program in the county (since 2017) [Source: [pathpoint.org](https://www.pathpoint.org/locations/san-luis-obispo/)]
       1. [**California Department of Rehabilitation**](https://www.dor.ca.gov/Home/SanLuisObispo)
-      - **Website/Phone/Location**: See [California Department of Rehabilitation](Directory.md#California-Department-of-Rehabilitation) in the [Directory](Directory.md).
+      - **Website/Phone/Location**: See [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) in the [Directory](Directory.md).
          - **What's available**: Vocational rehabilitation services for people with disabilities
          - **Services**: Job training, placement assistance, assistive technology, education support
          - **How to start**: Call main number to schedule intake appointment [Source: [dor.ca.gov](https://www.dor.ca.gov/Home/SanLuisObispo)]
-         - **Website/Phone/Location**: See [California Department of Rehabilitation](Directory.md#California-Department-of-Rehabilitation) in the [Directory](Directory.md).
+         - **Website/Phone/Location**: See [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) in the [Directory](Directory.md).
    1. **State Employment Services**
       1. [**Employment Development Department (EDD)**](https://edd.ca.gov/)
          - **Services**: Unemployment benefits, disability insurance, job training programs, hiring incentives for employers
@@ -2328,7 +2330,7 @@
 1. <a id="free-and-low-cost-phone-services">**Phones and phone service**</a>
    1. **California LifeLine Program**
       - **What's available**: Discounted home phone and cell phone services; up to $9.25 monthly discount ($34.25 on Tribal lands)
-      - **Eligibility**: Low-income households participating in [WIC](Directory.md#WIC), Medicaid/[Medi-Cal](Directory.md#Medi-Cal), SSI, National School Lunch Program, LIHEAP, CalFresh/SNAP, Federal Public Housing/Section 8, and other qualifying programs
+      - **Eligibility**: Low-income households participating in [WIC](Directory.md#WIC), Medicaid/[**Medi-Cal**](Directory.md#Medi-Cal), SSI, National School Lunch Program, LIHEAP, CalFresh/SNAP, Federal Public Housing/Section 8, and other qualifying programs
       - **Limitations**: Only one California LifeLine discounted phone per household (except TTY users and DDTP participants)
       - **How to apply**: Call a participating phone company or visit [californialifeline.com](https://www.californialifeline.com/)
       - **Provider search**: Available at [californialifeline.com](https://www.californialifeline.com/) for approved providers in your area
@@ -2363,7 +2365,7 @@
          - **What's available**: Specialized telecommunications equipment and services for people with disabilities including hearing, seeing, moving, speaking, learning, or remembering difficulties
          - **Eligibility**: California residents with disabilities; no age or income requirements but must submit medical certification of disability
          - **How to apply**: Complete application at DDTP Service Center locations or contact program directly; medical professional must sign Section 2 of form
-         - **Website/Phone/Email/Location/Hours**: See [California Connect](Directory.md#California-Connect) in the [Directory](Directory.md)
+         - **Website/Phone/Email/Location/Hours**: See [**California Connect**](Directory.md#California-Connect) in the [Directory](Directory.md)
          - **Cost**: Free specialized products and services, subsidized by State of California
       1. **[Deaf and Disabled Telecommunications Program (DDTP)](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp)**
          - **Services**: 1) Distributes specialized telecommunications equipment, 2) Provides California Relay Service (dual-party relay), 3) Supplies assistance for speech generating devices
@@ -2400,12 +2402,12 @@
       1. **5Cities Homeless Coalition Office**
          - **What's available**: Computer and internet access for clients
          - **Services**: Information and referral, coordinated entry services
-         - **Location/Email/Phone**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+         - **Location/Email/Phone**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
          - **Website**: [5chc.org/programs/information-and-referral-coordinated-entry](https://5chc.org/programs/information-and-referral-coordinated-entry)
       1. **40 Prado Homeless Services Center**
          - **What's available**: Computer and phone access for clients
          - **Hours**: call for current computer/phone access hours
-         - **Location/Phone**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+         - **Location/Phone**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
    1. **Email and Communication Services**
       1. **Organizations Providing Digital Communication Assistance**:
          - **SLO County Public Libraries**: Free email setup, online application assistance; visit any of 15 branch locations or call main library 805-781-5989
@@ -2416,14 +2418,13 @@
    1. **Homeless Service Centers with Charging Access**
       1. **5Cities Homeless Coalition Office**
          - **What's available**: Device charging stations for clients
-         - **Website/Location/Email/Phone**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+         - **Website/Location/Email/Phone**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
       1. **Shower the People (STP) Mobile Trailer**
          - **What's available**: Device charging capabilities at mobile shower locations
-         - **Service area**: SLO and Grover Beach (mobile service)
-         - **Website**: [showerthepeopleslo.org](https://showerthepeopleslo.org/) for current locations and times
+         - **Locations/Hours/Email**: See [**Shower the People**](Directory.md#Shower-the-People) in the [Directory](Directory.md)
       1. **40 Prado Homeless Services Center**
          - **What's available**: Phone access for participants; call to inquire about device charging availability
-         - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
    1. **Public Libraries—Free Charging Access**
       1. [**SLO County Public Libraries**](https://slolibrary.org/)
          - **What's available**: Public computer stations with USB charging ports; electrical outlets available near seating areas
@@ -2491,7 +2492,7 @@
          Source: [sloforhome.org](https://www.sloforhome.org/)
       1. **[Catholic Charities Diocese of Monterey](https://catholiccharitiesdom.org/)**
          - **Immigration Services**: Legal representation for refugees and asylum seekers, immigration guidance
-         - **Website/Phone/Hours/Location**: See [Catholic Charities](Directory.md#CatholicCharities) in the [Directory](Directory.md).
+         - **Website/Phone/Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
          - **Coverage**: Monterey, San Benito, San Luis Obispo, and Santa Cruz counties
          - **Target**: 30,000+ people served annually including refugees, asylum seekers, and immigrants
          - **Additional**: Emergency assistance, rent/utility help [Source: https://catholiccharitiesdom.org/]
@@ -2510,13 +2511,13 @@
          - **Target**: Unaccompanied youth aged 16-24
          - **Services**: Case management, one-on-one support for immediate needs, housing assistance, individualized Action Plans
          - **Goals**: Independent living, steady employment, continued education
-         - **Email/Phone**: See [5Cities Homeless Coalition](Directory.md#5CHC) in the [Directory](Directory.md)
+         - **Email/Phone**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
    1. Children, or people with children
       1. **[Parent Connection of SLO County](https://sloparents.org/)**
          - **Services**: Parenting support resources and referrals, free workshops on child development and parenting strategies, individual caregiver support, navigation assistance for specialized services
          - **Target**: Parents and caregivers in SLO County, professionals working with families
          - **Contact**: 805-543-3700, info@sloparents.org
-         - **Location**: See [Center for Family Strengthening](Directory.md#CSF) in the [Directory](Directory.md).
+         - **Location**: See [**Center for Family Strengthening**](Directory.md#CSF) in the [Directory](Directory.md).
          - **Cost**: Free workshops and resources
          - **Additional**: Comprehensive resource directory, newsletters, social media presence (Facebook: ParentConnectionSLO, Instagram: @parentconnectionslo)
          - **Note**: Contact directly for specific eligibility requirements and service details [Source: [sloparents.org](https://sloparents.org/)]
@@ -2678,6 +2679,7 @@
       - **City of SLO Facilities**: 23 parks (106 acres) with lighted basketball/pickleball courts, tennis courts, swimming pools, volleyball courts, skate parks, soccer/softball fields, playgrounds, trails, putting greens
       - **Key Locations**: 995 Palm Street SLO (capacity 100+, conference rooms, kitchen), 680 Industrial Way
       - **County Parks**: Lopez Lake (boating, fishing, camping, biking), various trails, golf courses, campgrounds, pools, picnic sites
+         - **Phone/Email:" See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
       - **Contact**: Parks & Recreation 805-781-7300, SLO Swim Center [www.sloswimcenter.org](https://www.sloswimcenter.org), rainy day closures 805-781-7301
       - **Registration**: Online at [apm.activecommunities.com/sloparksandrec](https://apm.activecommunities.com/sloparksandrec) [Source: https://www.slocity.org/, https://slocountyparks.com/]
       - **SLO Senior Center**: 1445 Santa Rosa St., SLO, 805-781-7306, Monday–Friday 9:00am–4:00pm
@@ -2749,7 +2751,7 @@
       - **Cost**: No charge to pet owner, but any payment toward invoice at time of visit is appreciated
       - **Note**: No new emergency calls after hours or weekends; case managers may call back from private numbers
    1. 40 Prado has pet kennel for guests (including warming center / cooling center guests); but pets must have rabies vaccinations. Call for specific documentation requirements and acceptable proof of vaccination.
-      - **Location/Phone/Hours**: See [40 Prado Homeless Services Center](Directory.md#40-prado) in the [Directory](Directory.md)
+      - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
    1. **Cal Poly "Doggy Days" Veterinary Clinics**—Cal Poly animal science students provide free veterinary care to pets of homeless and low-income individuals through the Veterinary Community Service Enterprise program. Clinics happen 3–4 times per quarter at various locations around SLO County, often coordinating with other community outreach programs like Shower the People.
       - **Services**: Free vaccinations (rabies, parvo prevention), physical exams, nail trims for dogs and cats
       - **Program details**: 12–18 students per quarter, supervised by licensed veterinarian Dr. Backus
