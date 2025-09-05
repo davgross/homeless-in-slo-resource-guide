@@ -54,7 +54,7 @@ The outline contains several major sections; the opening table of contents lists
 ### File Structure
 - **Total length**: over 3000 lines
 - **Format**: Markdown with HTML anchors for major sections
-- **Main file**: `Resource guide possible outline.md`
+- **Main files**: `Resource guide possible outline.md`, `Directory.md`
 
 ### Major Sections (37 total)
 1. Introduction
@@ -150,7 +150,7 @@ When working on the outline, these search patterns are frequently useful:
 
 ### Geographic Boundaries
 The main regions to be covered by the guide this outline describes are the following:
-- **SLO city**: San Luis Obispo city proper (plus Cal Poly, San Luis Obispo)
+- **SLO city**: San Luis Obispo city proper (plus California Polytechnic State University San Luis Obispo a.k.a. Cal Poly)
 - **Five Cities**: Pismo Beach, Arroyo Grande, Oceano, Grover Beach, Shell Beach
 
 Other county regions include:

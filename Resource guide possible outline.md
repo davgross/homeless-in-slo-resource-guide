@@ -241,8 +241,8 @@
          - **What's available:** Safe, confidential emergency shelter for individuals and families escaping dangerous domestic violence or sexual assault situations
          - **Services include:** Emergency housing, trained advocacy, accompaniment to medical/legal appointments, case management, therapy for survivors and children
          - **Eligibility:** Survivors of sexual assault/abuse and intimate partner violence, and their family members
-         - **Access:** 24-hour free & confidential crisis line: 805-545-8888; Business line: 805-781-6400
-         - **Location:** Confidential safe houses in Atascadero and Paso Robles; SLO County-wide services
+         - **Locations/Phone:** See [**Lumina Alliance**](Directory.md#Lumina-Alliance) in the [Directory](Directory.md)
+         - Operates Confidential safe houses in Atascadero and Paso Robles; SLO County-wide services
          - **Hours:** 24/7 crisis line available; business hours for other services
          - **Eligibility:** Open to all genders, ages, and backgrounds; "Everyone is welcome here"; services available in English and Spanish with interpreters for other languages
          - **Note:** RISE merged with Stand Strong in 2021 to form Lumina Alliance, which now provides these services
@@ -260,7 +260,8 @@
          - **How to get registered:**
            - **South County:** Contact 5Cities Homeless Coalition to arrange a confidential coordinated entry meeting
               - **Website/Location/Email/Phone**: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-           - **County-wide:** Contact SLO County Social Services at 805-781-1600
+           - **County-wide:** Contact SLO County Social Services
+              - **Website/Location/Email/Phone**: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
            - **HMIS-participating service providers** can also make referrals into the system
          - **Key participating agencies:** CAPSLO, 5Cities Homeless Coalition, Transitions-Mental Health Association, Good Samaritan Shelter, County Social Services, County Health Agency
          - **Integration:** Uses Homeless Management Information System (HMIS) for data management; HMIS questions: Kari Howell at [khowell@capslo.org](mailto:khowell@capslo.org)
@@ -270,8 +271,7 @@
          - **What's available:** 54 total units (14 interim supportive housing units, 40 permanent supportive housing units with 25% ADA-accessible)
          - **Services:** Individualized case management, basic medical care access, mental health assessments, substance abuse treatment, wellness activities, job readiness training, social-emotional skill building, transportation to external appointments
          - **Eligibility:** Priority placement for people currently living in the Bob Jones Bike Trail Encampment Corridor and individuals transitioning from unsheltered homelessness
-         - **Access:** All program referrals are done by local homeless service providers through the Coordinated Entry System—no walk-ins permitted
-         - **Location:** Health Agency Campus in San Luis Obispo (walking distance to medical centers and services)
+         - **Location/Access:** See [**Welcome Home Village**](Directory.md#Welcome-Home-Village) in the [Directory](Directory.md)
          - **Management:** Operated by Good Samaritan Shelter, designed by DignityMoves
          - **Status:** Project approved May 2024, construction expected to begin in 2025
          - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village)
@@ -316,7 +316,7 @@
          - **What's available:** Two shelter locations with 130 total beds (60 in Atascadero, 70 in Paso Robles); 90-day residential shelter program only (night-by-night shelter beds eliminated as of September 2025); Case management, job search assistance, life skills training, daily community dinner, shower program, 10-bed warming center (opens as needed during winter months) Source: [echoshelter.org](https://www.echoshelter.org/)
          - **Eligibility:** Individuals and families experiencing homelessness; serving North SLO County
             - *Note*: Specific residency establishment requirements and sex offender (PC 290) screening policies could not be verified in available online sources; contact ECHO for eligibility details
-         - **Phone/Email/Locations/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
+         - **Locations/Phone/Email/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
          - **Services for residents only:** Case management, residential program (6 months with job search and life skills training)
          - **Services open to community:** Daily meals (up to 150 meals served daily), shower program (3 times per week), toiletries, clothing, shoes, blankets, sleeping bags, school supplies for children
          - **Important note:** As of September 2025, there are no walk-in, night-by-night shelter beds available in North County. Individuals seeking shelter will be offered 90-day program applications. There's a roughly 300-person waiting list.
@@ -331,13 +331,13 @@
          - **Eligibility:** Low-income families, farmworkers, seniors, veterans, people with disabilities, formerly homeless individuals
          - **Access:** Contact main office
          - **Success record:** Since 1970, built 1,200 "sweat equity" homes and over 1,600 affordable rental units; serves over 5,000 individuals currently
-         - **Phone/Location/Hours:** See [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) in the [Directory](Directory.md)
+         - **Location/Phone/Hours:** See [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) in the [Directory](Directory.md)
       1. [**T-MHA Community Residential Housing**](https://www.t-mha.org/program-details.php?id=6)
          - **What's available:** Supportive housing for adults living with mental illness; [multiple locations](https://www.t-mha.org/housing.php); Housing services for over 300 clients annually spanning more than five cities in SLO County
          - **Eligibility:** Adults with mental illness needing supportive housing
          - **Access:** Contact TMHA main office
             - One source says "Residents are referred by SLO County Behavioral Health Services"; another says "Contact Housing Department at TMHA"
-         - **Location/Phone/Hours/Email:** See [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) in the [Directory](Directory.md)
+         - **Location/Phone/Email/Hours:** See [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) in the [Directory](Directory.md)
          - **Special features:** Bishop Street Studios opened in Fall 2019 in renovated former Sunny Acres building; provides trauma-informed housing services
       1. [**HomeShare SLO**](https://www.smartsharehousingsolutions.org/homeshare-slo)
          - **What's available:** Facilitated housemate-matching program; Reduced Rent Task Exchange program (8 hours/week work for $400–500/month rent or 15 hours/week for $150/month); ADU consulting for property owners
@@ -401,24 +401,20 @@
          - **Eligibility**: People in need throughout SLO County; no discrimination
          - **Access**: Financial assistance by appointment only Monday–Friday 10am–2pm; contact nearest location
          - **RRH Contact**: 805-544-2401 (SLO Corps) for Rapid Rehousing program inquiries and assessment
-         - **Locations**: Five offices countywide:
-             1. SLO Corps: 815 Islay Street, SLO—805-544-2401
-             1. Arroyo Grande Service Extension: 1550 W Branch Street, Arroyo Grande—805-481-0278
-             1. Morro Bay Service Extension: 540 Quintana Rd, Morro Bay—805-772-7062
-             1. Atascadero Service Extension: 8420 El Camino Real—805-466-7201
-             1. Paso Robles Service Extension: 711 Paso Robles Street, Paso Robles—805-238-9591
+         - **Locations/Phone**: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
          - **Hours**: Monday–Friday 8:00am–5:00pm (most locations)
          - **Note:** Does not operate overnight emergency shelter with beds; provides housing assistance and supportive services instead
          - Source: [caringmagazine.org](https://caringmagazine.org/how-the-salvation-army-in-san-luis-obispo-is-reaching-unhoused-people-street-level-program/)
       1. [**HouseKeys**](https://www.housekeys19.com)
          - **What's available:** Program administrator for City of San Luis Obispo affordable housing programs; both home buyer and rental opportunities at various locations
+         - **Phone/Email:** See [**HouseKeys**](Directory.md#HouseKeys) in the [Directory](Directory.md)
          - **Eligibility:** Income-eligible households (typically 30-50% Area Median Income)
          - **How to apply:** Create account at MyHouseKeys to enter drawings and receive notifications about available units
-         - **Contact:** 877-460-5397, [customerservice@housekeys.org](mailto:customerservice@housekeys.org)
          - **Average home price:** $295,836 (as of recent listings)
          - probably out of reach for the typical homeless person
       1. **Lumina Alliance** [transitional housing program](https://luminaalliance.org/transitional-housing/)
          - **What's available:** 6- to 24-month transitional housing program for individuals/families fleeing domestic violence, dating violence, sexual assault, and/or stalking
+         - **Locations/Phone:** See [**Lumina Alliance**](Directory.md#Lumina-Alliance) in the [Directory](Directory.md)
          - **Eligibility:** Homeless or in need of housing due to fleeing abusive situation; low or very low income per HUD guidelines; willing to participate in program and create individualized safety plan
          - **Access:** Requires referral from another Lumina Alliance program or project partners; call 24-hour crisis line for partner referrals
          - **Location:** Transitional housing units in SLO County (specific locations confidential)
@@ -444,7 +440,7 @@
             - **Phone:** See [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) in the [Directory](Directory.md)
             - **Eligibility:** Low-income seniors, income limits at or below 30–50% Area Median Income
             - **Application:** Contact HASLO for current availability and waiting list status
-         1. [**Judson Terrace**](https://www.humangood.org/)
+         1. **Judson Terrace**
             - **Judson Terrace Homes:** 3000 Augusta St, SLO—805-544-1600
                - Age requirement: 55 and older
                - 107 low-income affordable apartments
@@ -452,7 +448,6 @@
                - Age requirement: 62 and older
                - 31 low-income affordable apartments
             - **Eligibility:** Low-income seniors, HUD residents typically pay 30% of gross income for rent
-            - **Management:** HumanGood organization
             - **Applications:** Available only when waiting list is open; contact directly for current status
          1. **Balay-Ko on Monterey** (HASLO Monterey Street project, under construction)
             - **Location:** Monterey Street between California Boulevard and Pepper Street, SLO
@@ -663,8 +658,8 @@
          - **Source**: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/calfresh)
       - **How to apply**:
          - **Online**: [BenefitsCal.com](https://benefitscal.com/) (preferred method)
-         - **In person**: SLO County Social Services offices, Monday–Friday 8:00am–5:00pm
-            - **Location:** 3433 S. Higuera, SLO; also 1086 E. Grand Ave., Arroyo Grande [Source: [countyoffice.org](https://www.countyoffice.org/san-luis-obispo-county-social-service-department-arroyo-grande-ca-153/)]
+         - **In person**: SLO County Social Services offices
+            - **Website/Location/Email/Phone**: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
          - **By mail/fax**: Download application from county website
       - **Alternative Application Assistance**
          1. [**GetCalFresh.org**](https://www.getcalfresh.org/): Simplified online application process
@@ -856,13 +851,13 @@
          - Source: [insurance.ca.gov](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/01-auto/lca/)
       1. **Car repair assistance programs**
          - [**California Bureau of Automotive Repair (CAP)**](https://www.bar.ca.gov/cap): Consumer Assistance Program includes repair assistance in SLO County
-         - **Salvation Army:** The Salvation Army San Luis Obispo Corps (815 Islay Street, 805-544-2401) provides various assistance programs including some transportation support like bus cards and gas money. While general automotive repair assistance programs exist at some Salvation Army locations nationwide, specific car repair voucher programs were not confirmed at the San Luis Obispo location. Contact them directly to inquire about current automotive assistance availability and eligibility requirements. Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
+         - **Salvation Army:** The Salvation Army San Luis Obispo Corps provides various assistance programs including some transportation support like bus cards and gas money. While general automotive repair assistance programs exist at some Salvation Army locations nationwide, specific car repair voucher programs were not confirmed at the San Luis Obispo location. Contact them directly to inquire about current automotive assistance availability and eligibility requirements. Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
+            - **Locations**: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
          - **Catholic Charities:** Catholic Charities of the Diocese of Monterey serves Monterey, San Benito, San Luis Obispo, and Santa Cruz counties with various services including Financial Stability programs. However, no specific automotive repair assistance programs were found on their website. Contact them directly to inquire about transportation assistance: see their website for regional contact numbers. Source: [catholiccharitiesdom.org](https://catholiccharitiesdom.org)
             - **Website/Phone/Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
          - **Community Action Agencies:** CAPSLO (Community Action Partnership of San Luis Obispo County, 805-544-4355) offers comprehensive services to address poverty but does not specifically advertise automotive repair assistance programs. Some CAPSLO programs like SSVF (Supportive Services for Veteran Families) include transportation services and referrals. Contact CAPSLO directly to inquire about transportation assistance or referrals to automotive repair resources. Source: [capslo.org](https://capslo.org/)
          - **TANF (Temporary Assistance for Needy Families/CalWORKs):** CalWORKs in California may provide transportation assistance including car repair through diversion payments (one-time payments up to $2,000 for special circumstances like car repairs to avoid needing ongoing assistance). CalWORKs also provides payments for transportation and ancillary supports for program participants. Contact your local county social services office to apply and determine eligibility. In SLO County, contact County Social Services. Source: [cdss.ca.gov/calworks](https://www.cdss.ca.gov/calworks)
-            - Dept. of Social Services, 1086 Grand Ave., Arroyo Grande / 805-474-2000
-            - Dept. of Social Services, 3433 S. Higuera, SLO / 805-781-1600
+            - **Website/Location/Email/Phone**: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
          - **Local churches:** Several church denominations may provide automotive repair assistance, though programs vary by location and availability:
             - **San Luis Obispo United Methodist Church**: Contact directly to inquire about current assistance programs. Phone/address available through [sloumc.com](https://www.sloumc.com/)
             - **United Methodist churches generally**: National network offers financial assistance for emergency needs including car repairs through local congregations. General inquiries: 888-862-3242
@@ -966,8 +961,7 @@
    1. **Additional Emergency Assistance**
       1. [**The Salvation Army**](https://sanluisobispo.salvationarmy.org/)
          - **Services**: Emergency clothing assistance and financial assistance (by appointment only)
-         - **Appointments**: Call 805-481-0278 to schedule appointment [Source: [arroyogrande.salvationarmy.org](https://arroyogrande.salvationarmy.org/)]
-         - **Service area**: SLO, Arroyo Grande, and Morro Bay
+            - **Locations**: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
       1. **Los Osos Cares Resource Center** (Voucher Program?)
          - **Location**: Sunnyside School (800 Manzanita Dr.) Room 18, Los Osos
          - **Phone**: 805-592-2701
@@ -1002,10 +996,10 @@
    1. **Laundry Love Program**
       - **What's available**: Free laundry events at local laundromats; provides quarters, dryer sheets, and soap
       - **Capacity**: 2 loads per individual, 5 loads per family; unlimited bedding (not counted in load limits)
-      - **Duration**: 3.5-hour events at partnering laundromats
-      - **Service area**: SLO County
-      - **How to find events**: Check event calendar at [laundrylove.org](https://laundrylove.org/) for locations and schedules
-      - The *Resource Guide Estero Bay* says they operate the last Wednesday of the month, 11am–1pm (seniors only) and 4–6pm (anyone), at 2179 10th St. in Los Osos
+      - **Location/Phone/Email/Hours**: See [**Laundry Love**](Directory.md#Laundry-Love) in the [Directory](Directory.md)
+      - Sources:
+         - Check event calendar at [laundrylove.org](https://laundrylove.org/) for locations and schedules
+         - The *Resource Guide Estero Bay* says they operate the last Wednesday of the month, 11am–1pm (seniors only) and 4–6pm (anyone)
    1. **ECHO (El Camino Homeless Organization)**—North County
       - **Locations/Phone/Email/Hours**: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
       - **Services**: Dinner, showers, clothing, laundry facilities for clients
@@ -1068,36 +1062,26 @@
       1. Weight loss?
       1. Health education (e.g. CPR training, overdose prevention training)?
          - **American Red Cross**: Offers CPR training in California with 2-year certification meeting OSHA requirements; in-person, blended learning, and online options
-         - **Cuesta College Community Education**: American Red Cross Adult and Pediatric CPR/AED and First Aid classes; 2-year certificate; locations at main campus (SLO), North County (Paso Robles), South County (Arroyo Grande)
+         - **Cuesta College Community Education**: American Red Cross Adult and Pediatric CPR/AED and First Aid classes; 2-year certificate
+            - **Locations/Phone/Email**: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
          - **Local providers**: Star CPR, Central Coast CPR, LifeGuard CPR and Aquatics
          - **Dignity Health**: [Educational events and programs](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/educational-events)
-         - **Cost**: Varies by provider; contact directly for current pricing and registration
-         - **Duration**: Typically 2–4 hours depending on course components
          - Sources: [redcross.org](https://www.redcross.org/local/california/take-a-class/cpr), [cuesta.edu](https://www.cuesta.edu/communityprograms/community-education/special_interest/CPR.html)
       1. How to identify, avoid, treat poison oak
       1. Tips for avoiding / treating sunburn
-      1. Note: Unable to access [thERApy](https://therapyera.com/) website due to security restrictions, so cannot verify services or relevance for homeless population. Contact directly for information. (A manual look through the website found a mention of "sliding scale" fees but otherwise nothing indicating that they're especially accommodating to people of limited means.)
+      1. [thERApy](https://therapyera.com/) website has a mention of "sliding scale" fees but otherwise nothing indicating that they're especially accommodating to people of limited means; seems to specialize in various "marginalized" populations, though.
       1. **[Genoa Pharmacy](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)**—On-site pharmacy for SLO County Behavioral Health
          - **What's available**: Medication pickup for behavioral health clients and general public, free mail delivery of prescriptions, pharmacist consultation, services in Spanish, medication packaging options
-         - **Location**: 2178 Johnson Avenue #P1, San Luis Obispo, CA 93401
-         - **Hours**: Monday–Friday 8:30am–5:00pm (closed for lunch 12:30pm–1:00pm)
-         - **Phone**: 805-242-4051 (for prescription transfers)
+         - **Location/Phone/Hours**: See [**Genoa Pharmacy**](Directory.md#Genoa-Pharmacy) in the [Directory](Directory.md)
          - **Eligibility**: Open to behavioral health clients, employees, and general public; no special documents required
          - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)
 
 1. <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">**Recovery, harm reduction, and other substance-related issues**</a>
    1. [**SLO County Drug & Alcohol Services**](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services)
       - **What's available**: Public walk-in clinics, outpatient treatment, court-mandated programs, sliding fee schedules, services available in Spanish
-      - **Access line**: 800-838-1381 for information or to schedule appointments
+      - **Locations/Phone/Hours**: See [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) in the [Directory](Directory.md)
       - **Policy**: No clients denied services due to inability to pay; discounted fees based on family size and income
       - **Philosophy**: Promotes safe, healthy, responsible, and informed choices concerning alcohol and other drugs
-      - **Locations**:
-         - 2180 Johnson Ave., SLO / 805-781-4275
-         - 1523 Longbranch Ave., Grover Beach / 805-473-7080
-         - 805 4th Street, Paso Robles (now handling walk-ins for North County) / 805-226-3200
-      - **2025 Important Service Changes**
-         1. **Atascadero Clinic**: Closed as of July 1, 2025 (was located at 3556 El Camino Real)
-         1. **Walk-in services**: As of May 20, 2025, all walk-in services redirected (from Atascadero) to Paso Robles clinic
    1. **Private Treatment Options**
       - **Treatment center availability**: 15+ drug & alcohol detox, outpatient, and inpatient rehabs in SLO
       - **Financial assistance**: Many offer sliding scale payment and financial aid
@@ -1107,52 +1091,39 @@
          - **What's available**: Methadone and Suboxone® for opioid addiction recovery, withdrawal management, co-occurring mental health support
          - **Insurance accepted**: Medi-Cal, Medicare, Medicare Advantage, TRICARE, most commercial insurance, self-pay
          - **Programs**: Outpatient programs, medication-assisted treatment, comprehensive addiction recovery services
-         - **Address**: 1551 Bishop St. #520, San Luis Obispo, CA 93401
-         - **Phone**: 805-461-5212
-         Source: [pinnacletreatment.com](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/)
+         - **Location/Phone**: See [**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) in the [Directory](Directory.md)
+         - Source: [pinnacletreatment.com](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/)
       1. **[Aspire Counseling Service](https://aspirecounselingservice.com/san-luis-obispo/)**
          - **What's available**: Substance Use Disorder treatment with Partial Hospitalization Program (PHP) and Intensive Outpatient Program (IOP); individual, couples, family, and group counseling for men, women, and adolescents (ages 12–17); addiction recovery groups, drug & alcohol testing, aftercare
             - Hosts "Recovery Dharma" peer-led recovery group (specific addiction agnostic) leaning on Buddhist tradition
          - **Special programs**: Mindfulness practices, art therapy, certified pet therapy, trauma-conscious yoga, nutrition, HealthRHYTHMS drumming
-         - **Location**: 865 Aerovista Pl Ste 130, San Luis Obispo, CA 93401
-         - **Hours**: Monday–Friday 9:00am–9:00pm, Saturday 9:00am–1:00pm, Sunday closed
-         - **Phone**: 805-329-5595 (main), 888-585-7373 (24/7 call/text line)
-         - **Email**: [info@aspirecounselingservice.com](mailto:info@aspirecounselingservice.com)
+         - **Location/Phone/Email/Hours**: See [**Aspire Counseling Service**](Directory.md#Aspire-Counseling-Service) in the [Directory](Directory.md)
          - **Cost**: Accepts most forms of insurance; free initial assessment
          - **DHCS Certification**: #400019AP (expires 07/31/2026)
          - Source: [aspirecounselingservice.com](https://aspirecounselingservice.com/san-luis-obispo/)
    1. **Harm Reduction and Naloxone Services**
       1. [**SLO Bangers**](https://slobangers.com)
          - **What's available**: Syringe exchange, naloxone (Narcan), overdose prevention training
-         - **Location**: 2191 Johnson Avenue, SLO
-         - **Hours**: Wednesday 5:30pm–8:15pm
-         - **Phone**: 805-458-0123
+         - **Location/Phone/Hours**: See [**SLO Bangers**](Directory.md#SLO-Bangers) in the [Directory](Directory.md)
       1. **Healthcare for the Homeless**
          - **What's available**: Substance abuse treatment, needle exchange, comprehensive healthcare
-         - **Location**: 40 Prado Road, SLO
-         - **Phone**: 805-473-4712
-         - **Hours**: Monday/Tuesday/Thursday 8:00am–5:00pm, Wednesday 9:00am–6:00pm
+         - **Location/Phone/Hours**: See [**Healthcare for the Homeless Program**](Directory.md#HCHP) in the [Directory](Directory.md)
       1. **NaloxBoxes** (24/7 Narcan access locations) [See resource card or county website for locations]
          - See: [www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county)
    1. **Specialized Recovery Support**
       1. **SLO Hub**
          - **What's available**: Recovery/therapeutic services for homeless individuals with co-occurring behavioral health and substance abuse challenges
-         - **Location**: 40 Prado Road, SLO
-         - **Contact**: [sreyes@capslo.org](mailto:sreyes@capslo.org), 805-441-6589
+         - **Location/Phone/Email/Hours**: See [**SLO Hub**](Directory.md#SLO-Hub) in the [Directory](Directory.md)
          - **Partnership**: Collaboration between CAPSLO and Community Partners [Source: Drug use resource card]
       1. [**Sun Street Centers**](https://sunstreetcenters.org)
          - **What's available**: Residential detox (male), recovery services
-         - **Location**: 34 Prado Road, SLO
-         - **Contact**: [atorrente@sunstreet.org](mailto:atorrente@sunstreet.org), 805-457-3331 / -5150
+         - **Location/Phone/Email**: See [**Sun Street Centers**](Directory.md#Sun-Street-Centers) in the [Directory](Directory.md)
       1. [**Alano Club**](https://sloalanoclub.org)
          - **What's available**: AA/NA meetings several times daily
-         - **Location**: 3075 Broad Street, SLO
-         - **Phone**: 805-543-9817
+         - **Location/Phone**: See [**Alano Club**](Directory.md#Alano-Club) in the [Directory](Directory.md)
       1. [**Transitions Mental Health Association**](https://www.t-mha.org)
          - **What's available**: Mental health and substance abuse support services
-         - **Location**: 784 High Street, SLO
-         - **Contact**: [info@t-mha.org](mailto:info@t-mha.org), 805-540-6500
-         - **Crisis line**: 800-783-0607 (24-hour)
+         - **Location/Phone/Email/Hours**: See [**Transitions Mental Health Association**](Directory.md#TMHA) in the [Directory](Directory.md)
       1. **Dignity Health Substance Use Navigator (SUN) Program**
          - **What's available**: Comprehensive opioid addiction treatment through emergency departments including medical evaluation, clinical assessment, and community service coordination; free Narcan kit distribution
          - **Locations**: Emergency departments at Marian Regional Medical Center, Arroyo Grande Community Hospital, and French Hospital Medical Center
@@ -1178,7 +1149,7 @@
          - **Requirements**: 4 hours of community service before each treatment OR equivalent donation
          - **Additional requirements**: Must remain clean and sober throughout program; agree not to get new tattoos while in program
          - **Locations**: San Luis Obispo and Arroyo Grande (serves Five Cities area)
-         - **Contact**: 805-544-2484, ext. 2; Program Coordinator Janet Allenspach ([jallenspach@capslo.org](mailto:jallenspach@capslo.org))
+         - **Phone/Email**: See [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) in the [Directory](Directory.md)
          - **Partner**: Sierra Vista Regional Medical Center provides space and supplies; community physicians donate time
       1. [**Catholic Charities Diocese of Monterey Tattoo Removal Program**](https://catholiccharitiesdom.org/tattoo-removal-program)
          - **What's available**: Low-cost tattoo removal with sliding scale fees
@@ -1316,9 +1287,7 @@
          - **Source**: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
       1. **Community Health Centers - Prado Healthcare for the Homeless Program**
          - **Services**: Integrated health clinic providing primary and urgent care specifically for homeless clients; wrap-around services with co-located organizations; on-site pharmacy for immediate medication dispensing; in-house lab testing for pregnancy, strep throat, flu, COVID-19, and urine analysis; case management for medication management and appointment scheduling
-         - **Location**: 40 Prado Rd, SLO
-         - **Contact**: 805-473-4712
-         - **Hours**: Monday–Friday, 8:00am–5:00pm (expanded from 1 day per week during COVID to full 5-day service)
+         - **Location/Phone/Hours**: See [**Healthcare for the Homeless Program**](Directory.md#HCHP) in the [Directory](Directory.md)
          - **Insurance**: CenCal accepted (most common insurance among homeless clients)
          - **Integration**: Works closely with 40 Prado's recuperative care beds for clients needing recovery time after medical treatment
          - **Access**: Must complete intake at 40 Prado first; serves 10–20 homeless individuals daily
@@ -1350,21 +1319,17 @@
          - **Content**: Self-defense mindset, managing unknown persons, striking and combative skills
          - **Instructor**: Qualified martial arts instructor
          - **Financial aid**: Scholarships and family discounts available
-         - **Contact**: Check current Cuesta College community programs for scheduling
+         - **Locations/Phone/Email**: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
          - **Source**: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/womens-self-defense.html)
       1. **RISE Center**
          - **Program**: Women's self-defense courses occasionally hosted
          - **Organization**: RISE (Respect Inspire Support Empower) center
          - **Update**: RISE merged with Stand Strong in July 2021 to form Lumina Alliance
-         - **Website**: [luminaalliance.org](https://luminaalliance.org/)
-         - **Crisis line**: 805-781-6400 (24/7)
-         - **Locations**: Offices in San Luis Obispo, Paso Robles, and Grover Beach
+         - **Locations/Phone:** See [**Lumina Alliance**](Directory.md#Lumina-Alliance) in the [Directory](Directory.md)
          - **Contact**: Check with Lumina Alliance for current self-defense and safety program offerings [Source: [luminaalliance.org](https://luminaalliance.org/)]
    1. **General Self-Defense and Martial Arts Classes**
       1. **Cuesta College Krav Maga Workshop**
-         - **Schedule**: 1 Saturday, 12:00–2:00pm
-         - **Cost**: $20
-         - **Location**: SLO Campus Room 1105
+         - **Locations/Phone/Email**: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
          - **Focus**: Reality-based self-defense, instinctive movements, practical techniques
          - **Goal**: Build confidence and strength in shortest training time
          - **Source**: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/self-defense.html)
@@ -1432,24 +1397,21 @@
    1. **Legal help regarding housing (discrimination, landlord disputes, etc.)**
       1. **[California Civil Rights Department](https://calcivilrights.ca.gov)**: [Housing Discrimination](https://calcivilrights.ca.gov/housing/)
           - **What's available:** Protection from unlawful discrimination in housing, employment, businesses, state-funded programs; hate violence reporting
-          - **Contact:** 800-884-1684 (voice), 800-700-2320 (TTY), [contact.center@calcivilrights.ca.gov](mailto:contact.center@calcivilrights.ca.gov)
-          - **Address:** 651 Bannon Street #200, Sacramento, CA 95811
+          - **Location/Phone/Email:** See [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) in the [Directory](Directory.md)
           - **How to file complaints:** Online through CCRS (California Civil Rights System), check complaint status online
           - **Additional services:** Mediation services
    1. **Help with benefits, wrangling with health insurers, etc.**
       1. **HiCAP (Health Insurance Counseling and Advocacy Program)**
           - **What's available:** Free Medicare counseling, explanation of benefits and plan options, cost-saving assistance, appeals help
           - **Eligibility:** People 65+ eligible for Medicare, under 65 with disability eligible for Medicare, those soon to be eligible
-          - **Contact:** 805-928-5663 for appointments
-          - **Location:** 1445 Santa Rosa St., SLO
+          - **Location/Phone/Email/Hours:** See [**HiCAP (Health Insurance Counseling & Advocacy Program)**](Directory.md#HiCAP) in the [Directory](Directory.md)
           - **Services:** Medicare fraud referrals, long-term care assistance, community education including "Roadmap to Medicare" classes
           - **Coverage:** Administered by Central Coast Commission for Senior Citizens for both SLO and Santa Barbara counties
    1. **Realistic know-your-rights information**
       1. **[ACLU of Southern California](https://www.aclusocal.org/)**
           - **What's available:** Free legal assistance for civil liberties and civil rights cases; "Know Your Rights" guides
           - **Coverage:** Serves SLO County and other Southern California counties
-          - **Contact:** 213-977-9500 (main), 213-977-5253 (legal intake)
-          - **Hours:** Monday–Friday 10:00am–7:00pm
+          - **Phone/Hours:** See [**ACLU of Southern California**](Directory.md#ACLU) in the [Directory](Directory.md)
           - **Note:** Limited resources focused on systemic change cases; does not accept walk-ins; seek help online first
       1. **Central Coast Coalition for Undocumented Student Success**
           - **Services:** Legal support (DACA/asylum/citizenship), mental health counseling, financial aid guidance
@@ -1489,14 +1451,10 @@
           - **Address:** 1700 G St. NW, Washington, DC 20552
    1. **Victims of crime, abuse**
       1. **[Lumina Alliance](https://luminaalliance.org/)**
-          - **What's available:** Comprehensive support for survivors of sexual assault and intimate partner violence; 24-hour crisis line; emergency shelters; advocacy and legal accompaniment; trauma-informed therapy; transitional housing; prevention education programs
-          - **Lumina hotline:** 805-545-8888 (24-hour Crisis & Information Line)
-          - **Locations:**
-             - 555 S. 13th St. #B, Grover Beach
-             - 102 S. Vine St. #C, Paso Robles
-             - 51 Zaca Ln. #150, SLO
-          - **Languages:** Services available in English and Spanish, with interpreters for other languages
-          - **Inclusivity:** Accepts and celebrates all genders, ethnicities, cultures, religions, ages, abilities, sexual orientations, and countries of origin
+         - **What's available:** Comprehensive support for survivors of sexual assault and intimate partner violence; 24-hour crisis line; emergency shelters; advocacy and legal accompaniment; trauma-informed therapy; transitional housing; prevention education programs
+         - **Locations/Phone:** See [**Lumina Alliance**](Directory.md#Lumina-Alliance) in the [Directory](Directory.md)
+         - **Languages:** Services available in English and Spanish, with interpreters for other languages
+         - **Inclusivity:** Accepts and celebrates all genders, ethnicities, cultures, religions, ages, abilities, sexual orientations, and countries of origin
       1. **[Adult Protective Services](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-\(aps\))**
           - **What's available:** Emergency intervention for dependent adults and seniors; abuse investigation; community resource connections
           - **Contact:** 805-781-1790 (business hours Monday–Friday 8:00am–5:00pm); 844-729-8011 (after hours); 9-1-1 (emergency)
@@ -1743,7 +1701,8 @@
          - **40 Prado Homeless Services Center**: 805-544-4004; case management may include assistance navigating document replacement process
             - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
          - **5Cities Homeless Coalition**: 805-574-1638; offers "identification and documentation assistance" as part of client resource center services
-         - **SLO County Department of Social Services**: 805-781-1600; CalWORKs and other programs may assist with ID-related costs
+         - **SLO County Department of Social Services**: CalWORKs and other programs may assist with ID-related costs
+            - **Website/Location/Email/Phone**: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
          - **San Luis Obispo Legal Assistance Foundation**: 805-543-5140; free legal assistance for document-related issues
          - **Note**: Federal homeless assistance programs allow use of funds to help individuals obtain ID; call centers directly for current availability [Sources: [gao.gov](https://www.gao.gov/products/gao-24-105435), [5chc.org](https://5chc.org/)]
       1. **If you have no documents at all**:
@@ -1803,7 +1762,8 @@
       - **Specific Organizations to Contact**:
         - **Catholic Charities Diocese of Monterey**: (call to inquire about mail assistance)
            - **Website/Phone/Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
-         - **The Salvation Army SLO Corps**: 815 Islay Street, San Luis Obispo, CA 93401, 805-544-2401 (offers case management/referral services; ask about mail support)
+         - **The Salvation Army SLO Corps**: (offers case management/referral services; ask about mail support)
+            - **Locations/Phone**: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
       - **Note**: Call organizations directly to verify current mail service availability; services may be limited to active participants [Sources: [catholiccharitiesdom.org](https://catholiccharitiesdom.org/), [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)]
    1. **Tips for Mail Management**
       - **Important documents**: Keep copies of critical mail and scan/photograph documents when possible
@@ -1980,9 +1940,8 @@
          - **Access**: call first
          - **Services**: Emergency rental assistance, basic needs support
       1. **The Salvation Army**
-         - **Location**: 815 Islay Street, SLO
+         - **Locations/Phone**: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
          - **Hours**: 10:00am–12:00pm, 1:00pm–2:30pm
-         - **Phone**: 805-544-2401
          - **Services**: Emergency financial assistance, utility help, basic needs support
       1. **S.A.F.E. Family Resource Centers**
          - **What's available**: Housing assistance, emergency rent help, utilities assistance, referrals to immediate funds for families, youth, single parents, disabled, and vulnerable populations
@@ -2002,8 +1961,7 @@
          - **Services**: Short-term cash aid for basic needs for people not eligible for other programs
          - **Contact**: SLO County Department of Social Services, 805-781-1655
          - **How to apply**: Contact county social services office for application and eligibility assessment
-         - **Location:** 3433 S. Higuera, SLO; also 1086 E. Grand Ave., Arroyo Grande [Source: [countyoffice.org](https://www.countyoffice.org/san-luis-obispo-county-social-service-department-arroyo-grande-ca-153/)]
-         - **Website**: [slocounty.ca.gov/departments/social-services](https://www.slocounty.ca.gov/departments/social-services)
+         - **Website/Location/Email/Phone**: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
       1. [**Emergency Food and Shelter Program**](https://unitedwayslo.org/emergency-food-and-shelter-program/)
          - **Coordination**: Local board including United Way, American Red Cross, Catholic Charities, CAPSLO, SLO County DSS, SLO Ministerial Association, Salvation Army
          - **Access**: Call 211 for immediate assistance or visit [unitedwayslo.org/211slo](https://www.unitedwayslo.org/211slo)
@@ -2019,7 +1977,7 @@
          - **Contact**: Contact your natural gas utility provider directly
          - Source: [cpuc.ca.gov](https://www.cpuc.ca.gov/)
       1. **[CAPSLO Home Energy Assistance](https://capslo.org/utility-assistance/)** & [LIHEAP (Low Income Home Energy Assistance Program)](https://capslo.org/energy-services/)
-            - To-do: clarify — are these two separate programs or one program?
+            - To-do: clarify here whether these two separate programs or one program sometimes referred to by different names
          - **Services**: Payment assistance for gas, propane, or electric utility bills for low-income households
          - **Contact**: 805-541-4122 ext. 25 (confirmed as correct extension) [Source: [energyassistance.us](https://www.energyassistance.us/li/community-action-partnership-of-san-luis-obispo-county)]
          - **Location**: 3970 Short St. #110
@@ -2089,8 +2047,8 @@
    1. Special Considerations
        - **Interim assistance**: SLO County provides General Assistance Disabled Program for those with disabilities awaiting Social Security approval
           - **GA Disabled Program**: Monthly cash assistance while waiting for SSI/SSDI; participants must apply for federal benefits with benefit advocate assistance
-          - **Application**: SLO County Social Services offices Monday–Friday 8:00am–5:00pm; $355 monthly income limit, $500 property limit
-          - **Location:** 3433 S. Higuera, SLO; also 1086 E. Grand Ave., Arroyo Grande [Source: [countyoffice.org](https://www.countyoffice.org/san-luis-obispo-county-social-service-department-arroyo-grande-ca-153/)]
+          - **Application**: SLO County Social Services offices; $355 monthly income limit, $500 property limit
+          - **Website/Location/Email/Phone**: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
           - Source: [slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
        - **Back pay**: If approved, you may receive back pay from application date
        - **Medicare eligibility**: SSDI recipients become eligible for Medicare 24 months after disability determination
@@ -2105,9 +2063,7 @@
       1. [**SLO Cal Careers Center**](https://SLOCalCareers.org) (America's Job Center of California) (formerly Business and Career One Stop)
          - **Services**: Comprehensive no-cost employment and training services including resume building, interview workshops, career guidance, job placement assistance, skill development, On-the-Job-Training (OJT) programs, CalJOBS access, employer connections, labor market information; specialized services for youth, veterans, and individuals with disabilities
          - **How to access**: Call to schedule appointment or visit website [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/job-center)]
-         - **Locations**: 3563 Empleo Street, SLO; 3450 S. Broad St., SLO
-         - **Hours**: Monday–Friday 9am–4pm
-         - **Contact**: 805-439-2557 / [SLOCal@eckerd.org](mailto:SLOCal@eckerd.org), [info@slocalcareers.org](mailto:info@slocalcareers.org)
+         - **Locations/Phone/Email/Hours**: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
          - [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board)]
       1. [**Eckerd Connects Workforce Development**](https://eckerd.org/jobs-training/slo/)
          - **What's available**: WIOA-funded training programs, employment services for youth and adults 18+, industry certifications, job placement assistance
@@ -2128,6 +2084,7 @@
    1. **College-Based Career Services**
       1. [**Cuesta College Career Services**](https://www.cuesta.edu/student/resources/careerconnections/index.html)
          - **What's available**: Career counseling, resume assistance, job search support, interview preparation, Handshake job board platform
+         - **Locations/Phone/Email**: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
          - **Location**: SLO Campus, 5300 Building, Room 5310
          - **Hours**: Monday–Friday by appointment only, 9:00am–4:30pm
          - **Services**: Student job placement, internships, local and national opportunities, workforce & economic development
@@ -2207,7 +2164,7 @@
          - **Services**: Adult education programs, high school diploma courses, career preparation
       1. [**Cuesta College Continuing Education**](https://www.cuesta.edu/academics/continuinged/index.html)
          - **What's available**: *Free* California High School Equivalency Certificate (GED) test preparation classes in English and Spanish
-         - **Location**: Highway 1, SLO
+         - **Locations/Phone/Email**: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
          - **Services**: Computer-based test preparation, technology training, test-taking skills practice
          - **Special features**: Variety of programs throughout SLO County campuses and locations
       1. [**Lucia Mar Adult Education**](https://adulted.luciamarschools.org/)
@@ -2225,6 +2182,7 @@
          - **Eligibility**: Career services appear primarily for enrolled students; community member access unclear
          - **Contact**: [CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu), 805-546-3252, Building 5300 Room 5310 to inquire about non-student access
          - **Community Programs**: Fee-based, not-for-credit classes available to anyone with no admission requirements
+         - **Locations/Phone/Email**: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
       1. [**A.T. Still University of Health Sciences**](https://www.atsu.edu/)
          - **Status**: Moving Central Coast Physician Assistant program from Santa Maria to San Luis Obispo in Summer 2026
          - **New campus**: 65,000-square-foot building (formerly Mindbody headquarters)
@@ -2262,9 +2220,8 @@
    1. **ESL (English as a Second Language)**
       1. **Cuesta College ESL Programs**
          - **Cost**: Free classes with free childcare available
-         - **Locations**: Main campus (SLO), South County Center (Arroyo Grande), North County Center (Paso Robles), plus community sites
+         - **Locations/Phone/Email**: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
          - **Requirements**: ESL assessment for level placement, orientation, CASAS testing
-         - **Contact**: 805-592-9463 or 805-591-6273, Monday–Thursday 10am–7pm
       1. **The Literacy Connection** (SLO County Library)
          - **Services**: Free volunteer-based ESL tutoring for adults
          - **Cost**: Always free and confidential, no ID required
@@ -3044,6 +3001,7 @@
       1. **Community Art/Craft Studios**
          - **Anam Cre Pottery Studio**: 1243 Monterey St #100, San Luis Obispo—ceramics classes and workshops
          - **Cuesta College Community Education**: Arts and crafts classes open to public
+            - **Locations/Phone/Email**: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
          - **The Pottery (Grover Beach & Atascadero)**: Community ceramics studios with classes, workshops, open studios, memberships
          - **Art Central**: Art supplies and classes in San Luis Obispo area
       1. [**Studio Stitch**](https://studiostitch.com/)
