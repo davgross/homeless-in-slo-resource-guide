@@ -1062,6 +1062,7 @@
       1. Weight loss?
       1. Health education (e.g. CPR training, overdose prevention training)?
          - **American Red Cross**: Offers CPR training in California with 2-year certification meeting OSHA requirements; in-person, blended learning, and online options
+            - **Location/Phone/Hours:** See [**Red Cross**](Directory.md#Red-Cross) in the [Directory](Directory.md)
          - **Cuesta College Community Education**: American Red Cross Adult and Pediatric CPR/AED and First Aid classes; 2-year certificate
             - **Locations/Phone/Email**: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
          - **Local providers**: Star CPR, Central Coast CPR, LifeGuard CPR and Aquatics
@@ -2662,18 +2663,13 @@
 
 1. <a id="pet-care-and-pet-supplies">**Pet care and pet supplies**</a>
    1. [**Central Coast Partnership for Animal Welfare (CCPAW)**](https://store10491224.company.site)—Mission: "To provide resources to the companion animals of the underserved on California's Central Coast." Specifically serves pets of people experiencing financial hardship or homelessness.
-      - **"Feeding Pets of the Homeless" program**: Pet food distribution Wednesdays 1pm–2pm at Oceano Worship Center parking lot, 1710 Ocean St, Oceano
-      - **Additional Location**: Pet food also available at Five Cities Christian Women Food Pantry, 946 Rockaway Ave, Grover Beach, Monday–Friday 2pm–3:30pm
-      - **Contact**: 805-574-0563 (delivery services available upon request & approval)
-      - **Emergency Pet Care**: 775-841-7463 (case manager conducts interview for Emergency Vet Care Program qualification and vet referrals)
-      - **Email**: [mamagack@hotmail.com](mailto:mamagack@hotmail.com)
+      - Pet food distribution and emergency pet care
+      - **Locations/Phone/Email/Hours/How to access**: See [**Central Coast Partnership for Animal Welfare**](#CCPAW) in the [Directory](Directory.md)
       - **Facebook**: [facebook.com/centralcoastpaw](https://facebook.com/centralcoastpaw)
    1. [**C.A.R.E.4Paws**](https://care4paws.org/)—Mobile pet wellness clinics serving SLO County including Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano. Provides vaccines, spay/neuter, health exams, medical care, and pet food assistance, with focus on marginalized communities. Mostly in S.B. county but also in southern SLO county.
-      - **Contact**: 805-968-2273, [info@care4paws.org](mailto:info@care4paws.org)
-      - **Mailing Address**: P.O. Box 60524, Santa Barbara, CA 93160
+      - **Location/Phone/Email/Hours**: See [**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws) in the [Directory](Directory.md)
       - **Services**: Mobile clinics 3× monthly, free services in Oceano
-         - Operates a “Pet Resource Center” with the 5Cities Homeless Coalition at 100 S. 4th St. in Grover Beach: M–Th 9am–5pm and F 11am–5pm (Source: [care4paws.org/help-for-unhoused-families](https://care4paws.org/help-for-unhoused-families/))
-      - **Schedule**: [care4paws.org/clinics](https://care4paws.org/clinics)
+      - Operates a “Pet Resource Center” with the 5Cities Homeless Coalition (Source: [care4paws.org/help-for-unhoused-families](https://care4paws.org/help-for-unhoused-families/))
       - **Specialized Services for Unhoused Pet Families**: Companion Pet Assistance Program, free baths and nail trims, medical grooming for dogs, distribution of pet food/water/supplies, mobile spay/neuter/vaccine/microchip services through partnership with Street Dog Coalition. Collaborates with 5Cities Homeless Coalition and CAPSLO. Outreach email: [outreach@care4paws.org](mailto:outreach@care4paws.org)
       - Sources: [care4paws.org](https://care4paws.org/locations/), [care4paws.org/help-for-unhoused-families](https://care4paws.org/help-for-unhoused-families/)
    1. [**The Street Dog Coalition**](https://www.thestreetdogcoalition.org/)—National nonprofit providing free veterinary care to pets of people experiencing homelessness. Uses a "One Health" approach to street medicine, caring for both pets and their owners.
@@ -2686,22 +2682,19 @@
       - Source: [thestreetdogcoalition.org](https://www.thestreetdogcoalition.org/)
    1. [**Woods Humane Society**](https://woodshumanesociety.org/)—Independent nonprofit dedicated to humane care of homeless dogs and cats in SLO County since 1955. Offers Pet Pantry for pet owners facing challenges, financial assistance for spay/neuter procedures, pet-friendly housing guide, lost pet help, and rehoming assistance (*rehoming* means helping to find new homes for pets when owners can no longer care for them).
          - [Woods Pet Pantry Program](https://woodshumanesociety.org/pet-pantry/) web page doesn't give an address or hours, but a list of “distribution partners.” It says “if you are in need of pet food assistance please don’t hesitate to reach out. Contact Robin Coleman, Community Engagement Manager [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) or call 805-543-9316 x31.”
-      - **Address**: 875 Oklahoma Ave, SLO
-      - **Contact**: 805-543-9316
-      - **Hours**: Tuesday–Sunday 11:00am–5:00pm, closed Mondays
-         - Note: some services by appointment only
+      - **Location/Phone/Hours**: See [**Woods Humane Society**](Directory.md#Woods-Humane-Society) in the [Directory](Directory.md)
+      - Note: some services by appointment only
    1. [**Feline Network of the Central Coast**](https://felinenetwork.org/)
       - TNR; rescues abandoned & stray cats; has cats for adoption. Does not appear to offer services directly to our target audience.
    1. [**SLO County Animal Services**](https://www.slocounty.ca.gov/departments/health-agency/animal-services)—Operates the only open-intake animal shelter in SLO County. Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs.
          - [On-line registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray)
          - [Report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405)
-      - **Address**: 885 Oklahoma Ave, San Luis Obispo, CA 93405
-      - **Contact**: Main Office 805-781-4400, Found Animal Recording 805-781-4407
-      - **Hours**: Monday–Friday 10:00am–4:30pm, Saturday 10:00am–4:00pm, closed Sundays
+      - **Location/Phone/Hours**: See [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) in the [Directory](Directory.md)
       - **Note**: All services require appointment scheduling
    1. [**North County Paws Cause**](https://www.northcounty-pawscause.org/)
       - Description: All-volunteer 501(c)(3) serving north SLO County cats and kittens. While primarily focused on TNR (Trap-Neuter-Return) programs and adoptions, they may provide guidance for pet owners facing housing challenges. Not much in the way of services to our target audience, though.
-      - Contact them directly for assistance if you need help caring for your cat while homeless or transitioning to housing. Phone: 805-674-8664 (General), 805-221-5100. [northcountypawscause@gmail.com](mailto:northcountypawscause@gmail.com)
+      - Contact them directly for assistance if you need help caring for your cat while homeless or transitioning to housing.
+      - **Location/Phone/Email**: See [**North County Paws Cause**](Directory.md#North-County-Paws-Cause) in the [Directory](Directory.md)
    1. [**Pets of the Homeless**](https://petsofthehomeless.org/)—First national organization focused exclusively on feeding and providing veterinary care to pets of people experiencing homelessness. They provide pet food and basic veterinary care to pets of homeless individuals and veterans.
       - **Emergency Veterinary Care Program**: Call 775-841-7463, case managers available Monday–Friday 9:00am–3:00pm PST for new cases
       - **How it works**: Case manager conducts interview to determine eligibility, approves exam and helps make appointment at local hospital/clinic
@@ -2721,7 +2714,7 @@
       - **Mission**: "No pet owner lacks resources when providing for their pets"
       - **Services**: Dog and cat food supply, pet supplies, veterinary bill assistance for pet owners with limited funds
       - **Location**: Morro Bay, California (serves Central Coast area)
-      - **Contact**: 805-889-9808
+      - **Phone**: See [**Kritter Care**](Directory.md#Kritter-Care) in the [Directory](Directory.md)
       - **Status**: Currently forming as nonprofit organization (as of 2023)
    1. **Additional Financial Assistance for Veterinary Care**
       1. [**The Pet Fund**](https://www.thepetfund.com/)—National 501(c)(3) providing financial assistance to pet owners who need veterinary care but lack sufficient funds
@@ -2736,13 +2729,13 @@
          - Source: [birchbarkfoundation.org/petaid-program](https://www.birchbarkfoundation.org/petaid-program)
       1. [**Voice for the Animals Helping Friends Program**](https://www.vftafoundation.org/helping_friends)—Assists seniors, people with disabilities, terminal illnesses, and individuals on fixed incomes
          - **Services**: Medical treatments for pets of qualifying owners
-         - **Contact**: 310-392-5153, [info@vtfafoundation.org](mailto:info@vtfafoundation.org)
+         - **Phone/Email**: See [**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) in the [Directory](Directory.md)
          - **Note**: Provides extra support for people whose pets are often their only companions
       1. [**Red Rover Relief**](https://redrover.org/relief/urgent-care-grants/)—Provides urgent care grants for pet medical emergencies
          - **Services**: Financial assistance for life-threatening injuries or illness requiring urgent treatment (average grant ~$250)
          - **Eligibility**: Income under $60,000/year, both applicant and pet must live in US, must make fundraising effort first, need current veterinary diagnosis and treatment plan
          - **Cannot help with**: Office exams/testing, treatments over $1,000, completed treatments, repeat grants to same household
-         - **Business hours**: Monday–Friday 8:30am–4:30pm Pacific time
+         - **Mailing address/Phone/Email/Hours**: See [**Red Rover Relief**](Directory.md#Red-Rover-Relief) in the [Directory](Directory.md)
          - **Response time**: Applications reviewed in order received, reply takes 1–2 business days
          - **Application process**: Complete pre-application first, then full application if qualified
          - **Coverage**: All 50 states plus Washington DC
@@ -2750,12 +2743,9 @@
 
 1. <a id="disaster-planningprep-earthquakes-fires-floods">**Disaster planning/prep**</a>
    1. **[Red Cross Central California](https://www.redcross.org/local/california/central-california.html)**
-       - **SLO Office:** 225 Prado Road, SLO
        - **Services for homeless individuals:** Emergency shelter during disasters (cots, basic needs), disaster relief assistance, safety information for people without secure housing during emergencies (fires, floods, earthquakes)
        - **Coverage:** Serves 11 counties across Central California including SLO County
-       - **Phone**: 805-543-0696 (SLO office)
-       - **Emergency Hotline**: 800-733-2767 (24/7)
-       - **Hours**: Monday–Friday 9:00am–4:00pm
+       - **Location/Phone/Hours:** See [**Red Cross**](Directory.md#Red-Cross) in the [Directory](Directory.md)
        - **When to contact:** During declared emergencies, after disasters, or to learn about evacuation plans and emergency supplies needed for people living outdoors or in vehicles
        - **Source:** [redcross.org](https://www.redcross.org/local/california/central-california.html)
    1. **Emergency Alert Systems for SLO County**
@@ -2781,6 +2771,7 @@
    1. **Emergency Shelter During Disasters**
        - See [SLO County Current Emergency Information: Shelters](https://www.emergencyslo.org/en/shelters.aspx)
        - **Red Cross emergency shelters:** Activated during major disasters, pet-friendly options available
+          - **Location/Phone/Hours:** See [**Red Cross**](Directory.md#Red-Cross) in the [Directory](Directory.md)
        - **County shelter crisis declaration:** Extended through December 2025 to provide emergency shelter options
        - **Warming/cooling centers:** Activated during extreme weather events
          - Note, frequently-encountered advice to text "SLOCountyWarm" to 211211 doesn't actually work in practice, as they do not keep that information current.

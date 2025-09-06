@@ -42,7 +42,7 @@
    - operates [**Cabins for Change**](#Cabins-for-Change) and “Balay Ko on Barca” a.k.a. “My Home for Hope”
    - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
    - operates “Homeless Youth Outreach”
-   - hosts the “Pet Resource Center” of “C.A.R.E.4Paws”
+   - hosts the “Pet Resource Center” of [**C.A.R.E.4Paws**](#C.A.R.E.4Paws)
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
 ## <a id="Access-Central-Coast">Access Central Coast</a>
@@ -233,6 +233,20 @@
 - Phone: 805-481-4500 (before 3pm)
 - Email: [info@captivehearts.org](info@captivehearts.org)
 
+## <a id="C.A.R.E.4Paws">C.A.R.E.4Paws</a>
+- [care4paws.org](https://care5paws.org/)
+- Location: mobile clinics
+   - Pet Resource Center: 100 S. 4th St., Grover Beach
+   - Mailing address: P.O. Box 60524, Santa Barbara, CA 93160
+- Phone: 805-968-2273
+- Email: [info@care4paws.org](mailto:info@care4paws.org)
+- Hours:
+   - [Mobile Clinics Schedule](https://care4paws.org/clinics)
+   - Pet Resource Center: M–Th 9am–5pm, F 11am–5pm
+- Notes:
+   - Partners with “The Street Dog Coalition”
+   - Operates the “Pet Resource Center” with [**5Cities Homeless Coalition**](#5CHC)
+
 ## <a id="Casa-Solana">Casa Solana</a>
 - [casasolanainc.org](http://casasolanainc.org/)
 - Phone: 805-481-8555 (9am–4pm)
@@ -314,6 +328,21 @@
 - Location: 1356 Marsh St., SLO
 - Phone: 805-544-1113
 - Email: [ccds@charter.net](ccds@charter.net)
+
+## <a id="CCPAW">Central Coast Partnership for Animal Welfare</a>
+- [store10491224.company.site](https://store10491224.company.site)
+- Locations: (pet food distribution)
+   - 946 Rockaway Ave., Grover Beach
+   - parking lot at 1710 Ocean St., Oceano
+- Phone: 805-574-0563
+   - Emergency Pet Care: 775-841-7463
+- Email: [mamagack@hotmail.com](mailto:mamagack@hotmail.com)
+- Hours:
+   - Grover Beach: M–F, 2–3:30pm
+   - Oceano: W 1–2pm
+- How to access:
+   - For pet food distributions, come to locations during operating hours, or call for delivery options
+   - For emergency pet care, call, then a case manager conducts interview for Emergency Vet Care Program qualification and vet referrals
 
 ## <a id="Central-Coast-Recovery">Central Coast Recovery</a>
 - Location: Grover Beach
@@ -593,6 +622,9 @@
 - [helphopelive.org](https://helphopelive.org/)
 - Phone: 800-642-8399 (M–Th 9am–6pm; F 9am–3pm Eastern Time)
 
+## Helping Friends Program
+> *See [**Voice for the Animals Helping Friends Program**](#Helping-Friends-Program)*
+
 ## <a id="HiCAP">HiCAP (Health Insurance Counseling & Advocacy Program)</a>
 - [centralcoastseniors.org/hicap](https://centralcoastseniors.org/hicap/)
 - Location:
@@ -652,6 +684,11 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Notes:
    - Run by [**Family Care Network**](#Family-Care-Network)
    - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
+
+## <a id="Kritter-Care">Kritter Care</a>
+- [krittercare.org](https://krittercare.org/)
+- Location: Morro Bay
+- Phone: 805-889-9808
 
 ## <a id="Laundry-Love">Laundry Love</a>
 - [laundrylove.org](https://laundrylove.org/)
@@ -780,6 +817,12 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## Noor Foundation
 > *See [**SLO Noor Foundation**](#SLO-Noor-Foundation)*
 
+## <a id="North-County-Paws-Cause">North County Paws Cause</a>
+- [northcounty-pawscause.org](https://www.northcounty-pawscause.org/)
+- Location: Paso Robles
+- Phone: 805-674-8664
+- Email: [northcountypawscause@gmail.com](mailto:northcountypawscause@gmail.com)
+
 ## <a id="Outreach-and-Engagement-Services">Outreach and Engagement Services</a>
 > *See also [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 - Location: 1320 Nipomo St., SLO
@@ -861,6 +904,21 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Location: [**40 Prado**](#40-Prado), SLO
 - Phone: 805-458-2895
 - Email: [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org)
+
+## <a id="Red-Cross">Red Cross</a>
+- [redcross.org/local/california/central-california.html](https://www.redcross.org/local/california/central-california.html)
+- Location: 225 Prado Rd. #A
+- Phone:
+   - Local office: 805-543-0696
+   - 24/7 national line: 800-733-2767
+- Hours: M–F 9am–4pm
+
+## <a id="Red-Rover-Relief">Red Rover Relief</a>
+- [redrover.org/relief](https://redrover.org/relief/)
+- Mailing address: P.O. Box 188890, Sacramento, CA 95818
+- Phone: 916-429-2457
+- Email: [info@redrover.org](mailto:info@redrover.org)
+- Hours: M–F 8:30am–4:30pm
 
 ## <a id="Restorative-Partners">Restorative Partners</a>
 - Location: 3196 South Higuera St. #D, SLO
@@ -974,6 +1032,15 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 ## SLO Counseling Service
 > *See [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
+
+## <a id="SLO-County-Animal-Services">SLO County Animal Services</a>
+- [slocounty.ca.gov/departments/health-agency/animal-services](https://www.slocounty.ca.gov/departments/health-agency/animal-services)
+- Location: 885 Oklahoma Ave., SLO
+- Phone:
+   - 805-781-4400 (main office)
+   - 805-781-4407 (found animal recording)
+- Hours: M–F 10am–4:30pm, Sa 10am–4pm
+- How to access: call to make an appointment
 
 ## <a id="SLO-County-Behavioral-Health">SLO County Behavioral Health</a>
 - [slocounty.ca.gov/departments/health-agency/behavioral-health](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)
@@ -1262,6 +1329,11 @@ There are several urgent care options, including:
 - Phone: 480-828-4319
 - Hours: 2nd Sunday of the month, 12:30–3:30 pm
 
+## <a id="Helping-Friends-Program">Voice for the Animals Helping Friends Program</a>
+- [www.vftafoundation.org/helping_friends](https://www.vftafoundation.org/helping_friends)
+- Phone: 310-392-5153
+- Email: [info@vftafoundation.org](mailto:info@vftafoundation.org)
+
 ## <a id="Waterman-Village">Waterman Village</a>
 - [smartsharehousingsolutions.org/co-living-collaborative](https://www.smartsharehousingsolutions.org/co-living-collaborative)
 - Location: 466 Dana St.
@@ -1282,3 +1354,13 @@ There are several urgent care options, including:
    - SLO: 2191 Johnson Ave. — 805-781-5570
 - Phone: 888-417-6180
 - Hours: M–Th 8am–5pm; Fri. 8am–4:30pm
+
+## <a id="Woods-Humane-Society">Woods Humane Society</a>
+- [woodshumanesociety.org](https://woodshumanesociety.org/)
+- Location: 875 Oklahoma Ave, SLO
+- Phone: 805-543-9316
+- Hours: Tu–Su 11am–5pm
+- Notes: Operates “Pet Pantry”
+
+## Pet Pantry
+> *See [**Woods Humane Society**](#Woods-Humane-Society)*
