@@ -125,7 +125,7 @@
       - **Know your rights**
          - **Fair treatment**: Many service providers have non-discrimination policies and strive for respectful treatment, though policies vary between agencies; some services may have specific eligibility restrictions (veterans-only, income limits, etc.)
          - **Privacy**: Privacy policies vary by agency; government agencies often share information through HMIS (Homeless Management Information System); you'll receive privacy notices before data entry and can ask to review them later; some data may be required for services while other information can be withheld—ask about Release of Information (ROI) forms and their implications before signing
-         - **Appeal processes**: Many programs have procedures for appealing decisions or filing complaints—ask program staff or search online to find the specific process; legal aid organizations can help with appeals (see [Legal assistance](#legal-assistance) section)
+         - **Appeal processes**: Many programs have procedures for appealing decisions or filing complaints—ask program staff or search online to find the specific process; legal aid organizations can help with appeals (see [Legal assistance](#legal-help--mediation-crime-victim-protection) section)
       - **Document everything**
          - **Keep copies**: Keep copies of important documents and applications
          - **Protect against theft/loss**: Store documents in waterproof bags, use your backpack as a pillow when sleeping, keep most important items in body pockets (money in bra/tight coin pocket), consider safety deposit box if you have income
@@ -803,7 +803,7 @@
    1. **Five Cities Senior Transportation**: [Senior Go!](https://www.sloseniorgo.org/) service for ages 65+, 805-473-3333
       - **Service area**: Throughout SLO County (not limited to Five Cities area)
       - **Cost**: $5.00 (0–20 miles) or $10.00 (20+ miles) each way
-         - **Note**: Unable to find specific low-income subsidies for this service; contact 805-473-3333 or slocog@slocog.org to inquire about financial assistance
+         - **Note**: Unable to find specific low-income subsidies for this service; contact 805-473-3333 or <slocog@slocog.org> to inquire about financial assistance
       - **Schedule**: Monday–Friday 7am–5pm, Saturday 10am–3pm (closed major holidays)
       - **Reservations**: Up to 4 round trips per month; call 805-473-3333 to book
       - **Uses**: Medical appointments, grocery stores, personal visits within county boundaries
@@ -911,7 +911,7 @@
          - **Coverage**: San Luis Obispo and Santa Barbara Counties
          - **Contact**: Available through Children's Resource Network programs
          - Note: Contact Children's Resource Network directly for access details (specific times and locations not available in public sources)
-         - **Cross-reference**: Also listed in [Special populations - Unaccompanied minors](#special-populations-those-who-have-special-additional-needs)
+         - **Cross-reference**: Also listed in [Special populations - Unaccompanied minors](#resources-specific-to-particular-subgroups)
          - **Additional programs**:
            - **Traveling Children's Closet**: Mobile service partnering with other nonprofits to provide clothing, diapers, school supplies
            - **Outreach Apparel**: Free clothing store at Pacific Beach High School (SLO), operated by students including homeless youth
@@ -1436,7 +1436,7 @@
           - **Services:** Legal support (DACA/asylum/citizenship), mental health counseling, financial aid guidance
           - **Coverage:** Northern Santa Barbara and San Luis Obispo Counties
           - **Contact:** Cal Poly DREAM Center, Cuesta Monarch DREAM Center (805-546-3109), Allan Hancock (805-922-6966 ext.3177)
-          - **Cross-reference:** Also listed in [Special populations - Undocumented immigrants](#special-populations-those-who-have-special-additional-needs)
+          - **Cross-reference:** Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
    1. **Injury liability / workers' compensation**
       - Note: Local injury liability and workers' compensation attorneys not extensively researched in this guide as of August 2025. For current resources, contact SLO County Bar Association referral service or search for contingency fee attorneys who handle cases without upfront costs.
    1. **Consumer protection**
@@ -1567,7 +1567,7 @@
           - **Contact**: 805-242-6691, 5708 Hollister Ave, Ste. A #1033, Goleta, CA 93117
           - **Eligibility**: Santa Barbara and San Luis Obispo County residents; free consultation available
           - **Note**: 501(c)(3) nonprofit providing lower-cost legal representation
-      1. **Unitarian Universalist Refugee and Immigrant Services Education (UURISE)**
+       1. **Unitarian Universalist Refugee and Immigrant Services Education (UURISE)**
          - **Services**: general immigration legal consultation, DACA renewal, naturalization (citizenship), green card renewal or replacement, FOIA, emergency safety planning, referrals to local partner agencies
          - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
          - **Hours**: 1st & 3rd Sunday each month, 12:30–2:30pm; No appointment necessary
@@ -1779,9 +1779,9 @@
    1. **Faith-Based and Community Mail Services**
       - **Specific Organizations to Contact**:
         - **Catholic Charities Diocese of Monterey**: (call to inquire about mail assistance)
-           - **Website/Phone/Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
-         - **The Salvation Army SLO Corps**: (offers case management/referral services; ask about mail support)
-            - **Locations/Phone**: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
+          - **Website/Phone/Hours/Location**: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
+        - **The Salvation Army SLO Corps**: (offers case management/referral services; ask about mail support)
+          - **Locations/Phone**: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
       - **Note**: Call organizations directly to verify current mail service availability; services may be limited to active participants [Sources: [catholiccharitiesdom.org](https://catholiccharitiesdom.org/), [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)]
    1. **Tips for Mail Management**
       - **Important documents**: Keep copies of critical mail and scan/photograph documents when possible
@@ -1827,7 +1827,7 @@
    1. Address Requirements Solutions
       - refer back to the [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc) section
    1. Required Documentation
-        - *See also*: [IDs and other documents](#ids-and-other-documents-how-to-obtain-replace-secure) section for information on obtaining required documentation
+      - *See also*: [IDs and other documents](#ids-and-other-documents-how-to-obtain-replace-secure) section for information on obtaining required documentation
       - **Primary ID**: Driver's license, state ID, passport, or other government-issued photo ID
       - **Alternative ID options**: Some banks may accept expired ID with additional documentation
       - **ITIN acceptance**: Several local credit unions accept Individual Taxpayer Identification Numbers
@@ -1948,7 +1948,7 @@
       1. **SLO County UndocuSupport**
          - **Services**: Bill payments, gift cards, direct funding for undocumented immigrant families experiencing loss of housing, job, or income
          - **Eligibility**: SLO County undocumented immigrants and mixed-status families
-         - **Cross-reference**: Also listed in [Special populations - Undocumented immigrants](#special-populations-those-who-have-special-additional-needs)
+         - **Cross-reference**: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
          - **Location**: 981 Marsh Street, SLO
          - **Hours**: Wednesdays 1:00pm–4:15pm (only sees 12 clients per day)
          - **Phone**: 805-543-5451
@@ -1997,7 +1997,7 @@
          - **Contact**: Contact your natural gas utility provider directly
          - Source: [cpuc.ca.gov](https://www.cpuc.ca.gov/)
       1. **[CAPSLO Home Energy Assistance](https://capslo.org/utility-assistance/)** & [LIHEAP (Low Income Home Energy Assistance Program)](https://capslo.org/energy-services/)
-            - To-do: clarify here whether these two separate programs or one program sometimes referred to by different names
+         - To-do: clarify here whether these two separate programs or one program sometimes referred to by different names
          - **Services**: Payment assistance for gas, propane, or electric utility bills for low-income households
          - **Contact**: 805-541-4122 ext. 25 (confirmed as correct extension) [Source: [energyassistance.us](https://www.energyassistance.us/li/community-action-partnership-of-san-luis-obispo-county)]
          - **Location**: 3970 Short St. #110
@@ -2462,10 +2462,10 @@
          - **Impact**: Helped over 100 local families [Source: https://www.sloundocusupport.org/]
       1. **[SLO4Home](https://www.slo4home.org/)** (Refugee Resettlement)
          - **Services**: Refugee resettlement, one-year support program for self-sufficiency, partnership with Church World Services
-         - **Contact**: info@slo4home.org, P.O. Box 3901, San Luis Obispo, CA 93403
+         - **Contact**: <info@slo4home.org>, P.O. Box 3901, San Luis Obispo, CA 93403
          - **Target**: Afghan refugees and other refugee families establishing new lives on Central Coast
          - **Mission**: Coalition of religious organizations, veterans, and community activists [Source: https://www.slo4home.org/]
-         - **Eligibility**: Serves "legally immigrated families" and refugees on the Central Coast. Contact info@sloforhome.org for specific eligibility requirements and application process. Provides ongoing assistance and advocacy for refugee families in housing, transportation, job search, language support, and education.
+         - **Eligibility**: Serves "legally immigrated families" and refugees on the Central Coast. Contact <info@sloforhome.org> for specific eligibility requirements and application process. Provides ongoing assistance and advocacy for refugee families in housing, transportation, job search, language support, and education.
          Source: [sloforhome.org](https://www.sloforhome.org/)
       1. **[Catholic Charities Diocese of Monterey](https://catholiccharitiesdom.org/)**
          - **Immigration Services**: Legal representation for refugees and asylum seekers, immigration guidance
@@ -2491,7 +2491,7 @@
       1. **[Parent Connection of SLO County](https://sloparents.org/)**
          - **Services**: Parenting support resources and referrals, free workshops on child development and parenting strategies, individual caregiver support, navigation assistance for specialized services
          - **Target**: Parents and caregivers in SLO County, professionals working with families
-         - **Contact**: 805-543-3700, info@sloparents.org
+         - **Contact**: 805-543-3700, <info@sloparents.org>
          - **Location**: See [**Center for Family Strengthening**](Directory.md#CSF) in the [Directory](Directory.md).
          - **Cost**: Free workshops and resources
          - **Additional**: Comprehensive resource directory, newsletters, social media presence (Facebook: ParentConnectionSLO, Instagram: @parentconnectionslo)
@@ -2559,8 +2559,8 @@
          - **District Liaisons**: Every SLO County school district has homeless/foster youth liaison:
             - **Atascadero USD**: E.J. Rossi, 805-462-4200
             - **Cayucos**: Liz Villalobos, 805-995-3694
-            - **San Luis Coastal USD (SLCUSD)**: Chris Dowler, 805-549-1218 x01283, cdowler@slcusd.org
-            - **County Office**: Jessica Thomas, 805-782-7268, jthomas@slocoe.org
+            - **San Luis Coastal USD (SLCUSD)**: Chris Dowler, 805-549-1218 x01283, <cdowler@slcusd.org>
+            - **County Office**: Jessica Thomas, 805-782-7268, <jthomas@slocoe.org>
             Source: [slocoe.org](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
          - **SAFE System of Care**: Comprehensive behavioral health services for children/youth ages 0–21 and families. Provides wraparound services, care coordination, family advocacy, crisis intervention, and support to keep kids in their homes and schools.
             - **How to Access**: Contact school counselors/homeless liaisons, SLO County Behavioral Health at 805-781-4700, or dial 211 for 24/7 resource information. Services are family-driven and youth-guided with individualized treatment plans.
@@ -2643,7 +2643,7 @@
       - **Contact**: City Parks & Recreation 805-781-7300 for current schedules [Source: https://www.slocity.org/, https://downtownslo.com/]
       - **Community Yoga Classes**: yoga studios sometimes offer affordable options and community-focused classes:
          - **The Center Yoga Studio** (805-598-7100): Contact to verify current community class offerings and affordable options. (Currently doing a 1-hour community yoga class at 5:30pm on Mondays)
-            - "This class is inclusive and intended to be accessible to all. Please bring a yoga mat. Mats available to rent at the studio for $2. For non-members, a sliding scale donation of $5-$25 is requested.… If the minimum donation is not in your budget or you'd prefer to make a cash donation at the studio, please send an email to hello@thecenterslo.com and we'll get you signed up." Source: [thecenterslo.com](https://thecenterslo.com/)
+            - "This class is inclusive and intended to be accessible to all. Please bring a yoga mat. Mats available to rent at the studio for $2. For non-members, a sliding scale donation of $5-$25 is requested.… If the minimum donation is not in your budget or you'd prefer to make a cash donation at the studio, please send an email to <hello@thecenterslo.com> and we'll get you signed up." Source: [thecenterslo.com](https://thecenterslo.com/)
    1. [YMCA](https://www.sloymca.org/)
       - **Location/Phone:** See [**SLO County YMCA**](Directory.md#SLO-County-YMCA) in the [Directory](Directory.md)
    1. [Concerts in the Plaza](https://downtownslo.com/events/concerts)
@@ -2676,12 +2676,12 @@
       1. City of SLO Parks and Recreation
          - 805-781-7120, 805-781-7292
          - 1341 Nipomo St., SLO
-         - Greg Avakian (gavakian@slocity.org) director
+         - Greg Avakian (<gavakian@slocity.org>) director
 
 1. <a id="pet-care-and-pet-supplies">**Pet care and pet supplies**</a>
    1. [**Central Coast Partnership for Animal Welfare (CCPAW)**](https://store10491224.company.site)—Mission: "To provide resources to the companion animals of the underserved on California's Central Coast." Specifically serves pets of people experiencing financial hardship or homelessness.
       - Pet food distribution and emergency pet care
-      - **Locations/Phone/Email/Hours/How to access**: See [**Central Coast Partnership for Animal Welfare**](#CCPAW) in the [Directory](Directory.md)
+      - **Locations/Phone/Email/Hours/How to access**: See [**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) in the [Directory](Directory.md)
       - **Facebook**: [facebook.com/centralcoastpaw](https://facebook.com/centralcoastpaw)
    1. [**C.A.R.E.4Paws**](https://care4paws.org/)—Mobile pet wellness clinics serving SLO County including Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano. Provides vaccines, spay/neuter, health exams, medical care, and pet food assistance, with focus on marginalized communities. Mostly in S.B. county but also in southern SLO county.
       - **Location/Phone/Email/Hours**: See [**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws) in the [Directory](Directory.md)
@@ -2698,14 +2698,14 @@
          - They partner with C.A.R.E.4Paws (so C4P should probably be the main listing) at their clinics and during riverbed outreach
       - Source: [thestreetdogcoalition.org](https://www.thestreetdogcoalition.org/)
    1. [**Woods Humane Society**](https://woodshumanesociety.org/)—Independent nonprofit dedicated to humane care of homeless dogs and cats in SLO County since 1955. Offers Pet Pantry for pet owners facing challenges, financial assistance for spay/neuter procedures, pet-friendly housing guide, lost pet help, and rehoming assistance (*rehoming* means helping to find new homes for pets when owners can no longer care for them).
-         - [Woods Pet Pantry Program](https://woodshumanesociety.org/pet-pantry/) web page doesn't give an address or hours, but a list of “distribution partners.” It says “if you are in need of pet food assistance please don’t hesitate to reach out. Contact Robin Coleman, Community Engagement Manager [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) or call 805-543-9316 x31.”
+      - [Woods Pet Pantry Program](https://woodshumanesociety.org/pet-pantry/) web page doesn't give an address or hours, but a list of “distribution partners.” It says “if you are in need of pet food assistance please don’t hesitate to reach out. Contact Robin Coleman, Community Engagement Manager [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) or call 805-543-9316 x31.”
       - **Location/Phone/Hours**: See [**Woods Humane Society**](Directory.md#Woods-Humane-Society) in the [Directory](Directory.md)
       - Note: some services by appointment only
    1. [**Feline Network of the Central Coast**](https://felinenetwork.org/)
       - TNR; rescues abandoned & stray cats; has cats for adoption. Does not appear to offer services directly to our target audience.
    1. [**SLO County Animal Services**](https://www.slocounty.ca.gov/departments/health-agency/animal-services)—Operates the only open-intake animal shelter in SLO County. Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs.
-         - [On-line registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray)
-         - [Report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405)
+      - [On-line registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray)
+      - [Report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405)
       - **Location/Phone/Hours**: See [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) in the [Directory](Directory.md)
       - **Note**: All services require appointment scheduling
    1. [**North County Paws Cause**](https://www.northcounty-pawscause.org/)
@@ -3057,4 +3057,3 @@
       - **Planning Advice**: Save resources for December–February cold/wet season and July–August extreme heat periods; contact 40 Prado at 805-544-4004 for warming center status (Note: Unable to verify 805-781-3660 in available sources; use main 40 Prado number)
       - Sources: [emergencyslo.org](https://www.emergencyslo.org/), [slocounty.ca.gov](https://www.slocounty.ca.gov/), [weatherspark.com](https://weatherspark.com/y/1286/Average-Weather-in-San-Luis-Obispo-California-United-States-Year-Round)
       - "If you would like to receive ongoing notifications for when adverse weather centers are activated in San Luis Obispo County, please complete the below survey." [link](https://forms.office.com/Pages/ResponsePage.aspx?id=dMfDhN9_4kClkCey5w-BJrAX9MGGh2RPqugDWPijLAdUMjJZSDkzOEs4WlJISFdSSlE0WVcyT1NRQS4u&origin=QRCode)
-
