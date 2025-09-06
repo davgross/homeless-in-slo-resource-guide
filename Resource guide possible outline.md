@@ -605,41 +605,59 @@
 1. <a id="where-to-get-food">**Food**</a>
    1. **Additional Food Sources** (from [Where can I get a bite to eat?](https://docs.google.com/document/d/e/2PACX-1vSY1XYp6W_cMtOb7Y6BC-GwQuBle1SkhbFG85rVlcAPL1_9MxR6IhRAriWAvba9ICe34ZOdtEqnKDHW/pub))
       1. **San Luis Obispo Area**
-         1. **Food Not Bombs**: Free meals Fridays 3:00pm at Meadow Park, Sundays 1:00pm–3:00pm at Mitchell Park [Source: [instagram.com/foodnotbombs_slo](https://www.instagram.com/foodnotbombs_slo/)]
-         1. **Blessed to Serve**: Free meals at 12150 Los Osos Valley Road (Mondays 4:30pm), 1251 Calle Joaquin (Thursdays 4:30pm) [Source: Google Doc referenced above]
-         1. **People's Kitchen**: Free lunch daily 12:00pm at 40 Prado Road [Source: Google Doc referenced above]
-         1. **Outreach & Engagement Center**: Food pantry (Associated with CAPSLO), 1320 Nipomo St., SLO, M–F 10am–3pm
-         1. **Salvation Army Food Pantry**: 815 Islay Street, San Luis Obispo; Wednesdays 10:00am–12:00pm, Thursdays 2:00pm–4:00pm, Fridays 10:00am–12:00pm [Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/san_luis_obispo_corps/food-pantry---the-salvation-army-san-luis-obispo/)]
-         1. **God's Storehouse**: Food pantry at Grace Central Coast, 1350 Osos Street; Saturdays 8:00am–10:00am; farmers-market-style produce distribution [Source: [gracecentralcoast.org](https://gracecentralcoast.org/gods-storehouse-care)]
-         1. **Agape Church**: Food pantry at 950 Laureate Lane; Tuesdays 10:00am–10:30am, Sundays 12:00pm–12:30pm; also serves meals at Meadow Park Thursdays 11:00am [Source: Google Doc referenced above]
-         1. **Renovate Church**: Food pantry at 2075 Johnson Avenue; Mondays 4:00pm–6:00pm [Source: Google Doc referenced above]
-         1. **U.U. We Care Food Share**: Food pantry at Unitarian Universalist Fellowship, 2201 Lawton Avenue; Wednesdays 3:00pm–4:30pm [Source: [uuslo.org](https://uuslo.org/) - contact 805-439-0188]
-         1. **Arise Central Coast**: Food pantry, 1775 Calle Joaquin, SLO; Mondays 2:30–4:30pm
-         1. **Zion Lutheran Church**: Food pantry, 1010 Foothill Blvd., SLO; Wednesdays 9:30–11:30am
+         1. **Food Not Bombs**: Free meals
+            - Location/Hours: See [**Food Not Bombs**](Directory.md#Food-Not-Bombs) in the [Directory](Directory.md)
+         1. **Blessed to Serve**: Free meals
+            - Location/Hours: See [**Blessed to Serve**](Directory.md#Blessed-to-Serve) in the [Directory](Directory.md)
+         1. **People's Kitchen**: Free meals
+            - Location/Hours: See [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO) in the [Directory](Directory.md)
+         1. **Outreach & Engagement Center**: Food pantry
+            - Location/Phone/Hours: See [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) in the [Directory](Directory.md)
+         1. **Salvation Army Food Pantry**: (SLO Corps location) [Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/san_luis_obispo_corps/food-pantry---the-salvation-army-san-luis-obispo/)]
+            - Location/Phone/Hours: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
+         1. **God's Storehouse**: Food pantry; farmers-market-style produce distribution [Source: [gracecentralcoast.org](https://gracecentralcoast.org/gods-storehouse-care)]
+            - Location/Hours: See [**Grace Central Coast**](Directory.md#Grace-Central-Coast) in the [Directory](Directory.md)
+         1. **Agape Church**: Food pantry; also serves meals at Meadow Park Thursdays 11:00am [Source: Google Doc referenced above]
+            - Location/Hours: See [**Agape Church**](Directory.md#Agape-Church) in the [Directory](Directory.md)
+         1. **Renovate Church**: Food pantry [Source: Google Doc referenced above]
+            - Location/Hours: See [**Renovate Church**](Directory.md#Renovate-Church) in the [Directory](Directory.md)
+         1. **U.U. We Care Food Share**: Food pantry
+            - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
+         1. **Arise Central Coast**: Food pantry
+            - Location/Hours: See [**Arise Central Coast**](Directory.md#Arise-Central-Coast) in the [Directory](Directory.md)
+         1. **Zion Lutheran Church**: Food pantry
+            - Location/Hours: See [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church) in the [Directory](Directory.md)
       1. **Cal Poly Campus**
-         1. **Cal Poly Food Pantry**: Monday–Friday 8:30am–6:00pm; packaged/canned foods, fresh produce, frozen meals, hygiene items
+         1. **Cal Poly Food Pantry**: packaged/canned foods, fresh produce, frozen meals, hygiene items
+            - Location/Phone/Hours: See [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) in the [Directory](Directory.md)
             - **Eligibility**: No eligibility criteria; serves all Cal Poly students and employees experiencing food insecurity. Also does a monthly food bank distribution via the Food Bank that is open to all SLO community members
             - **Source**: [basicneeds.calpoly.edu/foodpantry](https://basicneeds.calpoly.edu/foodpantry)
       1. **Five Cities/South County**
-         1. **St. Patrick's Church**: Food pantry, 501 Fair Oaks Dr., Arroyo Grande; Tu/We/Th 4–5pm
-         1. **Salvation Army Food Pantry**: 1550 W. Branch Street, Oak Park Plaza Shopping Center, Arroyo Grande; Monday, Wednesday, Friday 10:00am–2:00pm [Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/san_luis_obispo_corps/food-pantry---the-salvation-army-san-luis-obispo/)]
+         1. **St. Patrick's Church**: Food pantry
+            - Location/Hours: See [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church) in the [Directory](Directory.md)
+         1. **Salvation Army Food Pantry**: (Arroyo Grande Servce Extension) [Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/san_luis_obispo_corps/food-pantry---the-salvation-army-san-luis-obispo/)]
+            - Location/Phone/Hours: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
          1. **Nipomo Community Presbyterian**: Food pantry, 1235 N. Thompson Rd, Arroyo Grande; Fridays 12:45–1:30pm
+            - Location/Hours: See [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian) in the [Directory](Directory.md)
          1. **New Life U-Pick Pantry**: 941 N. Oak Park Blvd., Pismo Beach; Tu 6–7:30pm, We 10am–noon, Th 1:30–3:30pm
-         1. **People's Kitchen**: Daily lunch service 12:00pm–12:30pm; 946 Rockaway Avenue, Grover Beach (current location at LifePoint Church); operated by coalition of 18 churches serving approximately 40 people daily; additional services include gas cards, bus passes, clothing, and toiletries (Sources: [newtimesslo.com](https://www.newtimesslo.com/news/peoples-kitchen-in-grover-beach-may-be-homeless-come-november-2944858), [ksby.com](https://www.ksby.com/community/peoples-kitchen-served-holiday-meals-on-christmas-eve))
-         1. [**Five Cities Christian Women Food Pantry**](https://fivecitieschristianwomenfoodpantry.org/): 946 Rockaway Ave., Grover Beach (at LifePoint Church); Monday–Friday 2:00pm–3:30pm; provides 3 bags of food per family, walker, or biker; serves anyone in need; Phone: 805-473-3368
+            - Location/Hours: See [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) in the [Directory](Directory.md)
+         1. **People's Kitchen**: (current location at LifePoint Church); operated by coalition of 18 churches serving approximately 40 people daily; additional services include gas cards, bus passes, clothing, and toiletries (Sources: [newtimesslo.com](https://www.newtimesslo.com/news/peoples-kitchen-in-grover-beach-may-be-homeless-come-november-2944858), [ksby.com](https://www.ksby.com/community/peoples-kitchen-served-holiday-meals-on-christmas-eve))
+            - Location/Hours: See [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB) in the [Directory](Directory.md)
+         1. [**Five Cities Christian Women Food Pantry**](https://fivecitieschristianwomenfoodpantry.org/): provides 3 bags of food per family, walker, or biker; serves anyone in need
+            - Location/Phone/Hours: See [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) in the [Directory](Directory.md)
       1. **North County**
-         1. **Loaves & Fishes**: 2650 Spring Street, Paso Robles; Monday–Thursday 12:00pm–2:00pm, every 3rd Thursday 5:30pm–7:00pm; Call 805-238-4742 [Source: [pasoroblesdailynews.com/food-banks-and-pantries-in-paso-robles-and-north-county](https://pasoroblesdailynews.com/food-banks-and-pantries-in-paso-robles-and-north-county)]
-         1. **Paso Cares**: Free dinners Monday–Friday 5:00pm–6:00pm, Sunday 4:00pm–5:00pm (Riverside & 24th Street parking lot); Saturday lunch 12:00pm–1:00pm at St. James Episcopal Church (1335 Oak Street, Paso Robles)
+         1. **Loaves & Fishes**: [Source: [pasoroblesdailynews.com/food-banks-and-pantries-in-paso-robles-and-north-county](https://pasoroblesdailynews.com/food-banks-and-pantries-in-paso-robles-and-north-county)]
+            - Locations/Phone/Hours: See [**Loaves & Fishes**](Directory.md#Loaves-and-Fishes) in the [Directory](Directory.md)
+         1. **Paso Cares**: Free meals
             - **Source**: [saintjamespr.org](https://saintjamespr.org/)
-         1. **Loaves & Fishes Atascadero**: 5411 El Camino Real, Atascadero; Monday–Friday 1:00pm
+            - Locations/Hours: See [**Paso Cares**](Directory.md#Paso-Cares) in the [Directory](Directory.md)
       1. Plus various food bank distribution sites throughout county; see Food Bank's website for locations & schedule
    1. **Primary Food Distribution Hub**
       1. **SLO Food Bank**—Main coordination center for county food assistance
-         - **Address**: 1180 Kendall Road, San Luis Obispo, CA 93401
-         - **Phone**: 805-238-4664
+         - Location/Phone/Hours: See [**SLO Food Bank**](Directory.md#SLO-Food-Bank) in the [Directory](Directory.md)
          - **Food Locator**: Visit [slofoodbank.org/food-locator](https://www.slofoodbank.org/food-locator/) for complete list of 50+ Neighborhood Food Distributions across SLO County
-         - **Hours** (April 2025): Monday, Wednesday, Friday 12:00pm–5:00pm (parking lot location)
-         - **No-Cook Bags**: Call 805-238-4664 for pre-prepared meals requiring no cooking
+            - Also has a food pantry at their main office location
+         - **No-Cook Bags**: Call for pre-prepared meals requiring no cooking
          - **No requirements**: Proof of income, residency, or ID never required; no limits on number of distributions attended
          - **Source**: [slofoodbank.org](https://www.slofoodbank.org/contact/)
    1. **Senior Meal Programs**
@@ -1551,9 +1569,8 @@
           - **Note**: 501(c)(3) nonprofit providing lower-cost legal representation
       1. **Unitarian Universalist Refugee and Immigrant Services Education (UURISE)**
          - **Services**: general immigration legal consultation, DACA renewal, naturalization (citizenship), green card renewal or replacement, FOIA, emergency safety planning, referrals to local partner agencies
-         - **Location**: 2201 Lawton Ave.
+         - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
          - **Hours**: 1st & 3rd Sunday each month, 12:30–2:30pm; No appointment necessary
-         - **Contact**: 805-439-0188 x4
    1. **Senior Legal Services**
       1. **Senior Legal Services Project**
          - **Eligibility**: Seniors aged 60 and older in SLO County
@@ -1918,6 +1935,8 @@
          - **Phone**: 805-544-7041
          - **Hours**: Tuesdays at Prado Center (43 Prado) 2:00pm–3:00pm; Thursdays at Mission San Luis Obispo (751 Palm) by appointment only
          - **Services**: Rent and utility assistance, emergency financial aid (Note: Unable to verify current details in available sources; contact directly to confirm services and hours)
+      1. **Minister's Discretionary Fund**
+         - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
       1. [**Green Pastures**](https://fpcslo.org/greenpastures) (First Presbyterian Church)
          - **Phone**: 805-543-5451
          - **Address**: 981 Marsh Street, SLO
@@ -2456,9 +2475,7 @@
          - **Additional**: Emergency assistance, rent/utility help [Source: https://catholiccharitiesdom.org/]
       1. **Unitarian Universalist Refugee and Immigrant Services Education (UURISE)**
          - **Services**: general immigration legal consultation, DACA renewal, naturalization (citizenship), green card renewal or replacement, FOIA, emergency safety planning, referrals to local partner agencies
-         - **Location**: 2201 Lawton Ave.
-         - **Hours**: 1st & 3rd Sunday each month, 12:30–2:30pm; No appointment necessary
-         - **Contact**: 805-439-0188 x4
+         - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
    1. Unaccompanied minors
       1. **The Teen's Closet** (Children's Resource Network)
          - **Services**: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents

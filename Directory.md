@@ -80,6 +80,11 @@
 - Location: 1551 Bishop St. #520, SLO
 - Phone: 805-461-5212
 
+## <a id="Agape-Church">Agape Church</a>
+- Location: 950 Laureate Lane, SLO
+- Hours (food pantry): Tu 10–10:30am, Su Noon–12:30pm
+- Note: “Men of Agape” serve a free meal at Meadow Park, SLO, Thursdays at 11am
+
 ## Aging & Disability Resource Center (ADRC)
 > *See [**Central Coast Aging & Disability Resource Center**](#CCADRC)*
 
@@ -125,6 +130,10 @@
 ## Area Agency on Aging
 > *See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
 
+## <a id="Arise-Central-Coast">Arise Central Coast</a>
+- Location: 1775 Calle Joaquin, SLO
+- Hours (food pantry): M 2:30–4:30pm
+
 ## <a id="Arroyo-Grande-Community-Hospital">Arroyo Grande Community Hospital</a>
 > *See also [**Dignity Health**](#Dignity-Health)*
 - Location: 345 S. Halcyon Rd., Arroyo Grande
@@ -152,6 +161,14 @@
 - [www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing)
 - Phone: 805-540-6500 (Mark Lamore, Director of Homeless Services at [**TMHA**](#TMHA))
 - How to access: must be referred by another agency
+
+## <a id="Blessed-to-Serve">Blessed to Serve</a>
+- Locations:
+   - 12150 Los Osos Valley Road, SLO
+   - 1251 Calle Joaquin, SLO
+- Hours:
+   - M 5pm (L.O.V.R.)
+   - Th 5pm (Calle Joaquin)
 
 ## The Bridge Cafe
 > * See [**Restorative Partners**](#Restorative-Partners)*
@@ -214,6 +231,15 @@
 - Location: Cotchett Education Bldg. 2, Room 125, Cal Poly SLO
 - Phone: 805-756-1532
 - How to access: No walk-ins; Call to make an appointment.
+
+## <a id="Cal-Poly-Food-Pantry">Cal Poly Food Pantry</a>
+- Location: Cal Poly campus, building 27, room 10
+- Phone: 805-756-7818
+- Hours:
+   - M–F 8:30am–6pm (Cal Poly students)
+   - F 8:30am–6pm (Cal Poly employees)
+- How to access: all Cal Poly students welcome; no additional eligibility requirements
+- Notes: A project of Cal Poly’s “Basic Needs Initiative”
 
 ## <a id="CalWORKS">CalWORKS Homeless Assistance Program</a>
 - [slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance)
@@ -332,7 +358,7 @@
 ## <a id="CCPAW">Central Coast Partnership for Animal Welfare</a>
 - [store10491224.company.site](https://store10491224.company.site)
 - Locations: (pet food distribution)
-   - 946 Rockaway Ave., Grover Beach
+   - 946 Rockaway Ave., Grover Beach ([**Lifepoint Church**](#Lifepoint-Church))
    - parking lot at 1710 Ocean St., Oceano
 - Phone: 805-574-0563
    - Emergency Pet Care: 775-841-7463
@@ -466,7 +492,7 @@
 - Notes:
    - [Community Education](https://www.cuesta.edu/community/index.html) programs open to otherwise unenrolled people
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) has vocational / lifetime-learning programs, and ESL
-   - Partners with “Bridge Cafe” for its Culinary Arts program
+   - Partners with [**The Bridge Cafe**](#Restorative-Partners) for its Culinary Arts program
    - Partners with “Lucia Mar Adult Education” for ESL classes
 
 ## Deaf and Disabled Telecommunication Program (DDTP)
@@ -554,6 +580,17 @@
 ## First Presbyterian Church
 > *See [**Green Pastures**](#Green-Pastures)*
 
+## <a id="Five-Cities-Christian-Women-Food-Pantry">Five Cities Christian Women Food Pantry</a>
+- [fivecitieschristianwomenfoodpantry.org](https://fivecitieschristianwomenfoodpantry.org/)
+- Location: 946 Rockaway Ave., Grover Beach
+- Phone: 805-473-3368
+- Hours: M–F 2–3:30pm
+- Hosted by [**Lifepoint Church**](#Lifepoint-Church)
+
+## <a id="Food-Not-Bombs">Food Not Bombs</a>
+- Location: Mitchell Park, SLO
+- Hours: Su 1–3pm
+
 ## <a id="French-Hospital-Medical-Center">French Hospital Medical Center</a>
 > *See also [**Dignity Health**](#Dignity-Health)*
 - Location: 1911 Johnson Ave., SLO
@@ -569,6 +606,9 @@
 ## GLAD
 > *See [**Tri-County GLAD**](#Tri-County-GLAD)*
 
+## God’s Storehouse
+> *See [**Grace Central Coast**](#Grace-Central-Coast)*
+
 ## <a id="Good-Samaritan-Shelter">Good Samaritan Shelter</a>
 - [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)
 - Location: 401 W. Morrison Ave., Santa Maria
@@ -582,6 +622,11 @@
 - Notes:
    - operates [**Welcome Home Village**](#Welcome-Home-Village)
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
+
+## <a id="Grace-Central-Coast">Grace Central Coast</a>
+- Location: 1350 Osos Street, SLO
+- Hours: Sa. 8–10am (God’s Storehouse food pantry)
+- Notes: Operates “God’s Storehouse”
 
 ## <a id="Green-Pastures">Green Pastures</a>
 - Location: 981 March St., SLO (First Presbyterian Church)
@@ -707,6 +752,14 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO)
    - Hosted by [**Adventist Health Sierra Vista**](#Adventist-Health-Sierra-Vista)
 
+## <a id="Lifepoint-Church">Lifepoint Church</a>
+- Location: 946 Rockaway Ave., Grover Beach
+- Notes:
+   - Hosts [**Central Coast Partnership for Animal Welfare**](#CCPAW)
+   - Hosts [**Five Cities Christian Women Food Pantry**](#Five-Cities-Christian-Women-Food-Pantry)
+   - Hosts [**People’s Kitchen (Grover Beach)**](#Peoples-Kitchen-GB)
+   - Hosts [**Shower the People**](#Shower-the-People)
+
 ## <a id="Lifesigns">Lifesigns</a>
 - [lifesignsinc.org](https://lifesignsinc.org/)
 - Phone: 888-930-7776 x1
@@ -718,6 +771,15 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Location: 218 W. Carmen Lane #108, Santa Maria
 - Phone: 805-762-4500
 - Email: [info@lifestepsfoundation.org](mailto:info@lifestepsfoundation.org)
+
+## <a id="Loaves-and-Fishes">Loaves & Fishes</a>
+- Locations:
+   - 5411 El Camino Real, Atascadero
+   - 2650 Spring St., Paso Robles
+- Phone: 805-238-4742
+- Hours:
+   - Atascadero: M–F 1pm
+   - Paso Robles: M–Th Noon–2pm, every 3rd Th 5:30–7pm
 
 ## <a id="Lopez-Lake-Recreation-Area">Lopez Lake Recreation Area</a>
 - [slocountyparks.com/camp/lopez-lake/](https://slocountyparks.com/camp/lopez-lake/)
@@ -787,11 +849,8 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Location: SLO
 - Phone: 805-544-8328
 
-## <a id="Ministers-Discretionary-Fund">Minister’s Discretionary Fund</a>
-- [uuslo.org/ministers-discretionary-fund](https://uuslo.org/ministers-discretionary-fund)
-- Location: 2201 Lawton Ave., SLO (Unitarian Universalists)
-- Email: minister.uuslo@gmail.com
-- How to access: email first
+## Minister’s Discretionary Fund
+> *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
 
 ## Mobile Crisis Team
 > *See [**Mental Health Evaluation Team** / **Mobile Crisis Team**](#Mobile-Crisis-Team)*
@@ -814,6 +873,14 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Email: [info@needymeds.org](mailto:info@needymeds.org)
 - Hours: M–F 9am–5pm Eastern Time
 
+## <a id="New-Life-U-Pick-Pantry">New Life U-Pick Pantry</a>
+- Location: 941 N. Oak Park Blvd., Pismo Beach
+- Hours: Tu 6–7:30pm, W 10am–noon, Th 1:30–3:30pm
+
+## <a id="Nipomo-Community-Presbyterian">Nipomo Community Presbyterian</a>
+- Location: 1235 N. Thompson Rd, Arroyo Grande
+- Hours (food pantry) F 12:45–1:30pm
+
 ## Noor Foundation
 > *See [**SLO Noor Foundation**](#SLO-Noor-Foundation)*
 
@@ -830,6 +897,14 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hours: M–F 10am–3pm
 - How to access: Walk-ins OK
 
+## <a id="Paso-Cares">Paso Cares</a>
+- Locations:
+   - Riverside & 24th St. parking lot, Paso Robles
+   - 1335 Oak St., Paso Robles
+- Hours:
+   - M–F 5–6pm, Su 4–5pm (Riverside & 24th)
+   - Sa. Noon–1pm (1335 Oak)
+
 ## <a id="PathPoint">PathPoint</a>
 - [pathpoint.org/locations/san-luis-obispo](http://pathpoint.org/locations/san-luis-obispo)
 - Locations:
@@ -842,10 +917,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 ## <a id="Peoples-Kitchen-GB">People’s Kitchen (Grover Beach)</a>
 - Location: 946 Rockaway Ave., Grover Beach
+- Hours: Daily at noon
+- Hosted by [**Lifepoint Church**]
 
 ## <a id="Peoples-Kitchen-SLO">People’s Kitchen (SLO)</a>
 > *See also [**40 Prado Homeless Services Center**](#40-Prado)*
 - Location: 40 Prado Road, SLO
+- Hours: Daily at noon
 
 ## <a id="Peoples-Self-Help-Housing">Peoples’ Self-Help Housing</a>
 - [pshhc.org](https://www.pshhc.org/)
@@ -857,6 +935,9 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Operates “Sea Breeze Apartments”
    - Operates “Tiburon Place”
    - Operates “Villas at Higuera”
+
+## Pet Pantry
+> *See [**Woods Humane Society**](#Woods-Humane-Society)*
 
 ## <a id="Pismo-Beach-Athletic-Club">Pismo Beach Athletic Club</a>
 - [pbac.com](https://pbac.com/)
@@ -920,6 +1001,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Email: [info@redrover.org](mailto:info@redrover.org)
 - Hours: M–F 8:30am–4:30pm
 
+## Refugee and Immigrant Services Education
+> *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
+
+## <a id="Renovate-Church">Renovate Church</a>
+- Location: 2075 Johnson Ave., SLO
+- Hours (food pantry): M 4–6pm
+
 ## <a id="Restorative-Partners">Restorative Partners</a>
 - Location: 3196 South Higuera St. #D, SLO
 - Phone: 805-242-1272
@@ -956,6 +1044,10 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## <a id="RVs-for-Veterans">RVs for Veterans</a>
 - Phone: 805-234-5478
 
+## <a id="St-Patricks-Church">Saint Patrick’s Church</a>
+- Location: 501 Fair Oaks Dr., Arroyo Grande
+- Hours (food pantry): Tu/W/Th 4–5pm
+
 ## <a id="Salvation-Army">Salvation Army</a>
 - [salvationarmyusa.org/usa-western-territory](https://www.salvationarmyusa.org/usa-western-territory/)
 - Locations: Five offices countywide:
@@ -963,17 +1055,19 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
       - [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
       - Location: 815 Islay Street, SLO
       - Phone: 805-544-2401
+      - Hours (food pantry): W/F 10am–Noon, Th. 2–4pm
       - Note: Operates a “Rapid Rehousing Program”
    1. Arroyo Grande Service Extension
       - Location: 1550 W Branch Street, Arroyo Grande
       - Phone: 805-481-0278
+      - Hours (food pantry): M/W/F 10am–2pm
+   1. Atascadero Service Extension
+      - Location: 8420 El Camino Real
+      - Phone: 805-466-7201
    1. Morro Bay Service Extension
       - Location: 540 Quintana Rd, Morro Bay
       - Phone: 805-772-7062
       - Note: Eva says it's closed (9/4/25)
-   1. Atascadero Service Extension
-      - Location: 8420 El Camino Real
-      - Phone: 805-466-7201
    1. Paso Robles Service Extension
       - Location: 711 Paso Robles Street, Paso Robles
       - Phone: 805-238-9591
@@ -997,6 +1091,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Locations: various, see [Shower the People: Locations — Days — Hours of Operation](https://showerthepeopleslo.org/#locationsection)
 - Hours: various, see [Shower the People: Locations — Days — Hours of Operation](https://showerthepeopleslo.org/#locationsection)
 - Email: [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com)
+- Hosted by [**Lifepoint Church**](#Lifepoint-Church) and [**Unitarian Universalists San Luis Obispo**](#UUSLO)
 
 ## Sierra Vista Hospital
 > *See [**Adventist Health Sierra Vista**](#Adventist-Health-Sierra-Vista)*
@@ -1144,6 +1239,14 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Location: 1020 Southwood Dr., SLO
 - Phone: 805-543-8235
 
+## <a id="SLO-Food-Bank">SLO Food Bank</a>
+- [slofoodbank.org](https://www.slofoodbank.org/)
+- Location: 1180 Kendall Rd., SLO
+   - Also has many food distribution sites around SLO County
+- Phone: 805-238-4664
+- Hours: M–F 9:30am–4pm
+   - Food pantry: M/W/F Noon–5pm
+
 ## <a id="SLO-Hub">SLO Hub</a>
 > *See also: [**40 Prado Homeless Services Center**](#40-Prado)*
 - [capslo.org/slo-hub](https://capslo.org/slo-hub/)
@@ -1278,6 +1381,22 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Email: [info@tcglad.org](mailto:info@tcglad.org)
 - Hours: M–F 8:30am–5pm (closed Noon–1pm)
 
+## <a id="UUSLO">Unitarian Universalists San Luis Obispo</a>
+- [uuslo.org](https://uuslo.org/)
+- Location: 2201 Lawton Avenue
+- Phone: 805-439-0188
+- Email: [minister.uuslo@gmail.com](mailto:minister.uuslo@gmail.com)
+- Hours:
+   - we care foodshare food pantry: W 3–4:30pm
+   - refugee and immigrant services: 1st & 3rd Sunday each month, 12:30–2:30pm
+- How to access:
+   - we care foodshare food pantry: show up during hours of operation
+   - minister's discretionary fund: email with a specific request
+   - refugee and immigrant services education: show up during hours of operation (no appointment necessary)
+- Notes:
+   - operates the “Minister’s Discretionary Fund,” “Refugee and Immigrant Services Education,” and “We Care Foodshare”
+   - hosts [**Shower the People**](#Shower-the-People) on Tuesdays and Thursdays
+
 ## <a id="United-Way">United Way</a>
 - [unitedwayslo.org](https://unitedwayslo.org/)
 - Location: 1288 Morro St. #10, SLO
@@ -1340,6 +1459,9 @@ There are several urgent care options, including:
 - Phone: 805-215-5474
 - Notes: A project of “Smart Share Housing Solutions”
 
+## We Care Foodshare
+> *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
+
 ## <a id="Welcome-Home-Village">Welcome Home Village</a>
 - Location: Health Agency Campus in San Luis Obispo (walking distance to medical centers and services)
 - Note: Operated by [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
@@ -1362,5 +1484,6 @@ There are several urgent care options, including:
 - Hours: Tu–Su 11am–5pm
 - Notes: Operates “Pet Pantry”
 
-## Pet Pantry
-> *See [**Woods Humane Society**](#Woods-Humane-Society)*
+## <a id="Zion-Lutheran-Church">Zion Lutheran Church</a>
+- Location: 1010 Foothill Blvd., SLO
+- Hours (food pantry): W 9:30–11:30am
