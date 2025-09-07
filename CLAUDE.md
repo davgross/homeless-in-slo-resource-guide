@@ -156,7 +156,7 @@ The main regions to be covered by the guide this outline describes are the follo
 Other county regions include:
 - **SLO County**: All of San Luis Obispo County
 - **Avila Beach**: between SLO and Five Cities
-- **North County**: Atascadero, Paso Robles, Templeton, Santa Margarita, Shandon, Creston, etc. area
+- **North County**: Atascadero, Paso Robles, Templeton, Santa Margarita, Shandon, Creston, San Miguel, etc. area
 - **North Coast**: Cambria, Cayucos, Harmony, San Simeon
 - **Estero Bay**: Morro Bay, Los Osos, Baywood Park
 - **South County**: Los Berros, Nipomo, Woodlands, Callender
@@ -170,6 +170,7 @@ Santa Maria, Orcutt, Guadalupe, and Betteravia are just across the county's sout
 - Day ranges: `Monday–Friday` (en-dash)
 - Emphasis: `*italicized*` not ALL CAPS
 - Source: `Source: [domain.com](https://domain.com/including/pagename.html)`
+- You can use the `markdownlint` tool to check that markdown has been formatted correctly
 
 ### Sections Often Needing Attention
 Based on common patterns, these sections frequently need verification:

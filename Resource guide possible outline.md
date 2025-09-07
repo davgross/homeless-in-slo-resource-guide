@@ -711,19 +711,7 @@
    1. **Little Free Pantries**
       - **What's available:** Free food, feminine hygiene products, pet food, essentials, and sometimes art supplies
       - **How it works:** Community-stocked outdoor boxes; take what you need, leave what you can
-      - **Locations in SLO County:**
-        - **Arroyo Grande:** 268 Summit Station Road
-        - **Atascadero:** 9557 Curbaril Avenue, 9333 Santa Barbara Road
-        - **Grover Beach:** 925 Newport Avenue, 393 N. 16th Street
-        - **Los Osos:** 490 Los Osos Valley Road, 1559 10th Street, 1500 block of 5th Street
-        - **Morro Bay:** 397 San Joaquin Street, 3000 Hemlock Avenue
-        - **Nipomo:** 267 W Tefft Street, 181 W Tefft Street
-        - **Oceano:** 1501 24th Street, 615 Pier Avenue
-        - **Paso Robles:** 1003 Pioneer Trail Road
-        - **Pismo Beach:** 206 Margo Way
-        - **Santa Margarita:** 22210 El Camino Real, 22495 K Street
-        - **San Luis Obispo:** 1306 Nipomo St., 3320 Bullock Lane, 11245 Los Osos Valley Road, 193 San Jose Court, 335 High Street, Corner of San Carlos and Bushnell, 226 Ferrini Rd., 2075 Johnson Avenue, 474 Marsh Street
-        - **Templeton:** 806 Old Country Road
+      - Locations: See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Directory](Directory.md)
       - **More info:** HelpSLO Facebook page or [mapping.littlefreepantry.org](https://mapping.littlefreepantry.org/) [Source: [localwiki.org/slo/Little_Free_Pantries](https://localwiki.org/slo/Little_Free_Pantries)]
 
 1. <a id="where-to-refill-a-water-bottle">**Where to refill a water bottle**</a>
@@ -738,19 +726,19 @@
    1. **Public Buildings with Water Access**
       1. **SLO County Public Libraries**: All library branches provide public water fountain access
          1. **SLO Library**: Has filling station
-         1. **Branch Libraries**: Arroyo Grande, Atascadero, Cambria, Cayucos, Grover Beach, Los Osos, Morro Bay, Nipomo, Oceano, Paso Robles, Pismo Beach, San Miguel, Shandon, Templeton [Source: [slolibrary.org](https://www.slolibrary.org/)]
+         - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
       1. **Community Centers**: Contact individual centers for water fountain availability
       1. **SLO Swim Center**: Public facility with water fountain access
    1. **County Parks with Water Access**
       1. [**SLO County Parks**](https://slocountyparks.com/): Most county parks have water fountains or spigots available to visitors
          1. **El Chorro Regional Park**: Water fountains available
-            - **Location/Phone/Email:** See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
+            - Location/Phone/Email: See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
          1. **Lopez Lake Recreation Area**: Water fountains and spigots available
-            - **Phone/Email:" See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
+            - Phone/Email: See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
          1. **Santa Margarita Lake Recreation Area**: Water fountains available
-            - **Phone/Email:** See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
+            - Phone/Email: See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
          1. **Coastal Dunes RV Park & Campground**: Water access available
-            - **Location/Phone:** See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
+            - Location/Phone: See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
    1. **Five Cities Area** (Arroyo Grande, Grover Beach, Oceano, Pismo Beach, Shell Beach)
       1. **City Parks**: Most municipal parks in the five cities area have water fountains
       1. **Beach Access**: Public restroom facilities at beaches typically include water fountains
@@ -2214,13 +2202,13 @@
    1. **Library Resources and Literacy Programs**
       1. **SLO County Public Libraries**: [catalog.slolibrary.org](https://catalog.slolibrary.org/)
          - **Services**: Computer access, digital literacy classes, educational programs
-         - **Locations**: 15 branches throughout the county
+         - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
       1. **Cal Poly Library**: [Robert E. Kennedy Library](https://localwiki.org/slo/Robert_E._Kennedy_Library)—public access available
          - **Status**: Undergoing reconstruction; projected to reopen Fall Quarter 2025 (ahead of schedule)
          - **Note**: During closure, limited public access; check Cal Poly website for current status
          - Source: [mustangnews.net](https://mustangnews.net/kennedy-library-projected-to-open-fall-quarter-2025/)
       1. **Little Free Libraries**: Community book sharing locations for "Take a Book, Share a Book"
-         - See complete list with locations in [Miscellaneous free items](#miscellaneous-free-items-eg-household-goods) section below
+         - **Locations:** See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the [Directory](Directory.md)
    1. **Literacy and Tutoring Services**
       1. [**Literacy For Life**](https://www.literacyforlifeslo.org/)
          - **Services**: Adult literacy tutoring, reading skills development, English language communication skills
@@ -2366,7 +2354,7 @@
    1. [**SLO County Public Libraries**](https://slolibrary.org/)
       - **What's available**: Free public internet access via desktop PCs, WiFi, and Chromebooks; Full Office Suite on desktop computers; printing services (for a fee)
       - **Digital services**: CloudLibrary eBooks/audiobooks, Libby, Kanopy, and Hoopla digital apps; Brainfuse free online tutoring (K-12); Ask a Librarian online service
-      - **Locations**: 15 branch libraries throughout SLO County
+      - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
       - **Eligibility**: Anyone can use internet and printing services
       - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/library/services/public-internet-access)
    1. **Free WiFi Locations**
@@ -2388,6 +2376,7 @@
    1. **Email and Communication Services**
       1. **Organizations Providing Digital Communication Assistance**:
          - **SLO County Public Libraries**: Free email setup, online application assistance; visit any of 15 branch locations or call main library 805-781-5989
+            - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
          - **5Cities Homeless Coalition**: Computer access and assistance with online applications; 805-574-1638
          - **SLOCal Careers Center**: Help with CalJOBS registration, online job applications; 805-286-8530
 
@@ -2405,7 +2394,7 @@
    1. **Public Libraries—Free Charging Access**
       1. [**SLO County Public Libraries**](https://slolibrary.org/)
          - **What's available**: Public computer stations with USB charging ports; electrical outlets available near seating areas
-         - **Locations**: 15 branch libraries throughout SLO County
+         - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
          - **Access**: Open to all members of the public during library hours
          - **Additional**: WiFi access for personal devices
    1. **Community Centers and Public Buildings**
@@ -2886,111 +2875,13 @@
       - **What's available:** Free books available 24/7 in small outdoor cabinets; take a book, leave a book
       - **Eligibility:** Open to everyone, no restrictions
       - **How it works:** No checking-out/checking-in process; simply take books you want to read and return or leave others when finished
-      - **Locations in Arroyo Grande:** [Source: [littlefreelibrary.org](https://app.littlefreelibrary.org/ourmap)]
-         1. 330 Alder St.
-         1. 121 Allen St.
-         1. Amarillo Dr.
-         1. 2510 Appaloosa Way
-         1. Corner of Cedar & Boysenberry
-         1. 529 E. Cherry Ave.
-         1. 615 E. Cherry Ave.
-         1. 2385 Clarkie Way
-         1. Cypress Ridge Pkwy. near Cypress Ridge golf course entrance
-         1. 485 Dorothy Ln.
-         1. 303 N. Elm St.
-         1. 512 S. Elm St.
-         1. 282 Gait Way
-         1. 1146 Maple St.
-         1. Maple St. @ Walnut St.
-         1. 127 S. Mason St.
-         1. 328 Orchard St.
-         1. 1270 Poplar St.
-         1. 1260 Sage St.
-         1. 1414 Sierra Dr.
-         1. 494 Stagecoach Rd.
-         1. 958 Sycamore Dr.
-         1. 250 Wesley St.
-      - **Locations in Avila Beach:** [Source: [littlefreelibrary.org](https://app.littlefreelibrary.org/ourmap)]
-         1. 1401 San Luis Bay Dr.
-         1. 191 San Miguel St.
-         1. 259 Squire Canyon Rd.
-      - **Locations in Grover Beach:** [Source: [littlefreelibrary.org](https://app.littlefreelibrary.org/ourmap)]
-         1. 338 N. 3rd St.
-         1. 251 S. 4th St.
-         1. 266 N. 5rd St.
-         1. 240 Anita Ave.
-         1. 1230 Trouville Ave.
-         1. 1624 Trouville Ave.
-      - **Locations in Oceano:** [Source: [littlefreelibrary.org](https://app.littlefreelibrary.org/ourmap)]
-         1. 1341 18th St.
-         1. 1501 24th St.
-      - **Locations in Pismo Beach:** [Source: [littlefreelibrary.org](https://app.littlefreelibrary.org/ourmap)]
-         1. 28 El Viento
-         1. 224 Irish Way
-         1. 990 Price St.
-         1. 2411 Price St.
-         1. 2555 Price St.
-         1. 995 Skyline Dr.
-      - **Locations in Shell Beach:** [Source: [littlefreelibrary.org](https://app.littlefreelibrary.org/ourmap)]
-         1. 302 Cuyama
-         1. 262 Esparto Ave.
-      - **Locations in SLO:** [Sources: [localwiki.org/slo/Little_Free_Libraries](https://localwiki.org/slo/Little_Free_Libraries), [littlefreelibrary.org](https://app.littlefreelibrary.org/ourmap)]
-         1. 1330 Alder St.
-         1. 1378 Avalon St. (@ Oceanaire Dr.)
-         1. 79 Benton Way
-         1. Bluerock Drive near Stoneridge Park
-         1. 1410 Broad St. @ Pacific
-         1. Center St. by Nazarene church
-         1. Center St. between Chorro and Lincoln
-         1. 171 Cerro Romauldo Ave.
-         1. 3450 Dairy Creek Rd. (SLO Botanical Garden)
-         1. 2378 Boulevard Del Campo
-         1. 1295 Descanso St.
-         1. 107 Earthwood Ln.
-         1. 1595 Eto Circle
-         1. 1383 Fairway Dr.
-         1. 157 Fel Mar Dr.
-         1. 1348 Fernwood Dr.
-         1. 1011 George St.
-         1. 1 Grand Ave.
-         1. 3440 Gregory Ct.
-         1. 1415 Higuera St.
-         1. On utility pole where Bicycle Boulevard crosses Islay St.
-         1. 1121 Islay St.
-         1. 1215 Joyce Ct.
-         1. 3962 Kilbern Way
-         1. 10 La Entrada Ave.
-         1. 286 Lawrence Dr.
-         1. 655 Lawrence Dr.
-         1. 1148 Leff St.
-         1. United Church of Christ (11245 Los Osos Valley Road)
-         1. 1708 Lynn (mobile home park off Prefumo)
-         1. Corner of Mill & Toro
-         1. Monday Club, 1815 Monterey at Grand
-         1. 1430 Noveno Ave.
-         1. 1552 Oceanaire Dr. (near Atascadero St.)
-         1. 1906 Oceanaire Dr. (near Pinecove Dr.)
-         1. Pacific between Johnson & Pepper
-         1. 1768 Pereira Dr.
-         1. 1358 Purple Sage Ln.
-         1. 333 Sage St.
-         1. 373 Sage St.
-         1. 1401 San Luis Bay Dr.
-         1. 1739 San Luis Dr.
-         1. 1391 San Marcos Ct.
-         1. In front of The Establishment, 1703 Santa Barbara Ave.
-         1. By the Montessori school at South Higuera & Los Osos Valley Road
-         1. 3960 S. Higuera St. #34
-         1. Nazarene church on 3396 Southwood Dr.
-         1. 1767 Southwood Dr.
-         1. 4475 Wavertree St.
-         1. 637 Woodbridge
-      - **Find more locations:** Use Little Free Library app or website map at [littlefreelibrary.org](https://littlefreelibrary.org/)
+      - **Locations:** See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the [Directory](Directory.md)
+         - Find more locations: Use Little Free Library app or website map at [littlefreelibrary.org](https://littlefreelibrary.org/)
    1. **Little Free Pantries**
       - **What's available:** Free food, feminine hygiene products, pet food, essentials, and sometimes art supplies
       - **Eligibility:** Open to anyone in need, no restrictions
       - **How it works:** Community-stocked outdoor boxes; take what you need, leave what you can
-      - **Locations:** See complete list with 22+ addresses in [Food section](#where-to-get-food) above, including locations in Arroyo Grande, Atascadero, Grover Beach, Los Osos, Morro Bay, Nipomo, Oceano, Paso Robles, Pismo Beach, Santa Margarita, San Luis Obispo, and Templeton
+      - **Locations:** See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Directory](Directory.md)
       - Source: [localwiki.org/slo/Little_Free_Pantries](https://localwiki.org/slo/Little_Free_Pantries)
    1. **MakerSpace and Tool Access**
       1. **San Luis Obispo City Library MakerSpace**
@@ -3041,11 +2932,13 @@
       - Drop in, or make an appointment by calling/texting 805-540-0057
       - Can help you find primary care, recovery, clothing, food, SSDI, shelter, mental health, showers, health insurance
       - (Project of T-MHA / County of SLO Public Libraries)
-      1. SLO Library, Tues. 10–11:30am, 2:30–4pm
-      1. Arroyo Grande Library, Thurs. 9:30–11am
-      1. Atascadero Library, Weds. 10:30am–noon
-      1. Morro Bay Library, Thurs. 12:30–2pm
-      1. Los Osos Library, Fri. 1–2:30pm
+      - Locations: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
+         1. SLO Library, Tues. 10–11:30am, 2:30–4pm
+         1. Arroyo Grande Library, Thurs. 9:30–11am (temporarily closed)
+            - Oceano Library, Weds. 11am–12:30pm (until A.G. Library reopens)
+         1. Atascadero Library, Weds. 10:30am–noon
+         1. Morro Bay Library, Thurs. 12:30–2pm
+         1. Los Osos Library, Fri. 1–2:30pm
    1. **Weather Patterns and Safety Planning for Unsheltered Individuals**
       - **Dangerous Cold Conditions**: December–February; overnight temperatures can fall below 40°F (warming centers open at 38°F or below)
       - **Dangerous Heat Conditions**: July–August remain the primary extreme heat period; daytime temperatures reach 80–89°F with occasional extremes above 90°F requiring heat emergency response. September can also experience high temperatures (average 77–82°F) with potential extremes—September 2020 saw record temperatures of 113–117°F. October temperatures typically moderate (average highs 74–77°F) but can still reach concerning levels for unsheltered individuals.

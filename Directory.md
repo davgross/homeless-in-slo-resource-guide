@@ -1,5 +1,7 @@
 # <a id="directory">Directory</a>
 
+To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/Geo_URI_scheme) if this might help users more quickly find addresses in their mapping application of choice. [Claude says](https://claude.ai/chat/fa6ec69b-cd5a-44fe-b4f1-b327a3270a42) geo URIs are not well-supported, and suggests proprietary links (Google Maps, Apple Maps) instead, except on Android which does support geo:.
+
 ## <a id="40-Prado">40 Prado Homeless Services Center</a>
 
 - [capslo.org/40-prado](https://capslo.org/40-prado/)
@@ -539,6 +541,10 @@
    - Phone: 805-762-4348
    - Hours: Every day 8am–8pm
 
+## County of San Luis Obispo Public Libraries
+
+> *See [**SLO County Public Libraries**](#SLO-County-Public-Libraries)*
+
 ## <a id="CSF-Medical-Non-Profit-Foundation">CSF Medical Non Profit Foundation</a>
 
 - [csffoundation.org](https://csffoundation.org/)
@@ -897,6 +903,151 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Location: 218 W. Carmen Lane #108, Santa Maria
 - Phone: 805-762-4500
 - Email: [info@lifestepsfoundation.org](mailto:info@lifestepsfoundation.org)
+
+## <a id="Little-Free-Libraries">Little Free Libraries</a>
+
+- [littlefreelibrary.org](https://littlefreelibrary.org/)
+- Locations:
+   - Arroyo Grande:
+      - 330 Alder St.
+      - 121 Allen St.
+      - Amarillo Dr.
+      - 2510 Appaloosa Way
+      - Corner of Cedar & Boysenberry
+      - 529 E. Cherry Ave.
+      - 615 E. Cherry Ave.
+      - 2385 Clarkie Way
+      - Cypress Ridge Pkwy. near Cypress Ridge golf course entrance
+      - 485 Dorothy Ln.
+      - 303 N. Elm St.
+      - 512 S. Elm St.
+      - 282 Gait Way
+      - 1146 Maple St.
+      - Maple St. @ Walnut St.
+      - 127 S. Mason St.
+      - 328 Orchard St.
+      - 1270 Poplar St.
+      - 1260 Sage St.
+      - 1414 Sierra Dr.
+      - 494 Stagecoach Rd.
+      - 958 Sycamore Dr.
+      - 250 Wesley St.
+   - Avila Beach:
+      - 1401 San Luis Bay Dr.
+      - 191 San Miguel St.
+      - 259 Squire Canyon Rd.
+   - Grover Beach:
+      - 338 N. 3rd St.
+      - 251 S. 4th St.
+      - 266 N. 5rd St.
+      - 240 Anita Ave.
+      - 1230 Trouville Ave.
+      - 1624 Trouville Ave.
+   - Oceano
+      - 1341 18th St.
+      - 1501 24th St.
+   - Pismo Beach
+      - 28 El Viento
+      - 224 Irish Way
+      - 990 Price St.
+      - 2411 Price St.
+      - 2555 Price St.
+      - 995 Skyline Dr.
+   - Shell Beach
+      - 302 Cuyama
+      - 262 Esparto Ave.
+   - SLO
+      - 1330 Alder St.
+      - 1378 Avalon St. (@ Oceanaire Dr.)
+      - 79 Benton Way
+      - Bluerock Drive near Stoneridge Park
+      - 1410 Broad St. @ Pacific
+      - Center St. by Nazarene church
+      - Center St. between Chorro and Lincoln
+      - 171 Cerro Romauldo Ave.
+      - 3450 Dairy Creek Rd. (SLO Botanical Garden)
+      - 2378 Boulevard Del Campo
+      - 1295 Descanso St.
+      - 107 Earthwood Ln.
+      - 1595 Eto Circle
+      - 1383 Fairway Dr.
+      - 157 Fel Mar Dr.
+      - 1348 Fernwood Dr.
+      - 1011 George St.
+      - 1 Grand Ave.
+      - 3440 Gregory Ct.
+      - 1415 Higuera St.
+      - On utility pole where Bicycle Boulevard crosses Islay St.
+      - 1121 Islay St.
+      - 1215 Joyce Ct.
+      - 3962 Kilbern Way
+      - 10 La Entrada Ave.
+      - 286 Lawrence Dr.
+      - 655 Lawrence Dr.
+      - 1148 Leff St.
+      - United Church of Christ (11245 Los Osos Valley Road)
+      - 1708 Lynn (mobile home park off Prefumo)
+      - Corner of Mill & Toro
+      - Monday Club, 1815 Monterey at Grand
+      - 1430 Noveno Ave.
+      - 1552 Oceanaire Dr. (near Atascadero St.)
+      - 1906 Oceanaire Dr. (near Pinecove Dr.)
+      - Pacific between Johnson & Pepper
+      - 1768 Pereira Dr.
+      - 1358 Purple Sage Ln.
+      - 333 Sage St.
+      - 373 Sage St.
+      - 1401 San Luis Bay Dr.
+      - 1739 San Luis Dr.
+      - 1391 San Marcos Ct.
+      - In front of The Establishment, 1703 Santa Barbara Ave.
+      - By the Montessori school at South Higuera & Los Osos Valley Road
+      - 3960 S. Higuera St. #34
+      - Nazarene church on 3396 Southwood Dr.
+      - 1767 Southwood Dr.
+      - 4475 Wavertree St.
+      - 637 Woodbridge
+
+## <a id="Little-Free-Pantries">Little Free Pantries</a>
+
+- [littlefreepantry.org](https://www.littlefreepantry.org/)
+- Locations:
+   - Arroyo Grande: 268 Summit Station Rd.
+   - Atascadero:
+      - 9557 Curbaril Ave.
+      - 9333 Santa Barbara Rd.
+   - Grover Beach:
+      - 393 N. 16th St.
+      - 925 Newport Ave.
+   - Los Osos:
+      - 1500 block of 5th St.
+      - 1559 10th St.
+      - 490 Los Osos Valley Rd.
+   - Morro Bay:
+      - 3000 Hemlock Ave.
+      - 397 San Joaquin St.
+   - Nipomo:
+      - 181 W Tefft St.
+      - 267 W Tefft St.
+   - Oceano:
+      - 1501 24th St.
+      - 615 Pier Ave.
+   - Paso Robles: 1003 Pioneer Trail Rd.
+   - Pismo Beach: 206 Margo Way
+   - Santa Margarita:
+      - 22210 El Camino Real
+      - 22495 K St.
+   - SLO:
+      - 3320 Bullock Ln.
+      - 226 Ferrini Rd.
+      - 335 High St.
+      - 2075 Johnson Ave.
+      - 11245 Los Osos Valley Rd.
+      - 474 Marsh St.
+      - 1306 Nipomo St.
+      - corner of San Carlos and Bushnell
+      - 193 San Jose Court
+   - Templeton: 806 Old Country Rd.
 
 ## <a id="Loaves-and-Fishes">Loaves & Fishes</a>
 
@@ -1416,6 +1567,26 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - 805-788-2903 (24-hour info line)
    - 805-781-5506 (to make an appointment)
 - Hours: M–F 8am–5pm (closed Noon–1pm)
+
+## <a id="SLO-County-Public-Libraries">SLO County Public Libraries</a>
+
+- [slolibrary.org](https://slolibrary.org/)
+- Locations:
+   - Arroyo Grande: 800 W. Branch St. (temporary as main building is being renovated; unclear when this will be completed)
+creston, san miguel, shandon
+   - Oceano: 1511 19th St.
+   - SLO: 995 Palm St.
+   - Shell Beach: 230 Leeward Ave
+- Phone:
+   - Arroyo Grande: 805-473-7161
+   - Oceano: 805-474-7478
+   - SLO: 805-781-5991
+   - Shell Beach: 805-773-2263
+- Hours:
+   - Arroyo Grande: Tu/W 1–6pm, F/Sa 1–5pm
+   - Oceano: Tu/W/Th 9am–1pm and 2–5pm
+   - SLO: Tu/W 10am–6pm, Th/Sa 9am–5pm, F 1–5pm
+   - Shell Beach: Tu/W 10am–1pm and 2–6pm, Sa 9am–5pm
 
 ## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
 
