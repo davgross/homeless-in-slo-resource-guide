@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-The file @"Resource guide possible outline.md" contains the outline of a to-be-written comprehensive resource guide titled "Surviving Homelessness in San Luis Obispo."
+The file @"Resource guide possible outline.md" contains the outline of a to-be-written comprehensive resource guide tenatively titled "Surviving Homelessness in San Luis Obispo."
 This file is too large for you to read in completely, given your token limit (so use methods to read it in smaller chunks).
 
 The @Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide outline.
-This can be used as a single source of truth for those data, and can be cross-referenced as such from the resource guide outline.
+Use this as the single source of truth for those data; cross-reference Directory entries from the resource guide outline rather than reproducing those data in the outline.
 
 ### About The Target Audience of the Guide
 Most of the text in this outline is intended for the researchers and editors of this guide.
@@ -14,11 +14,11 @@ Most of the text in this outline is intended for the researchers and editors of 
 The target audience for the guide this outline describes is people who are homeless or at risk of homelessness in San Luis Obispo city and the SLO County's five cities area.
 
 These people are typically financially poor, so this guide prioritizes resources that are free or very low-cost to access.
-They often do not have a home of their own, so this guide prioritizes resources that do not require a fixed address that is not a shelter.
-Some are sheltered in homes not their own; others are unsheltered and live out of vehicles or out in the open.
+They often do not have a home of their own, so this guide prioritizes resources that do not require a fixed address.
+Some are sheltered in homes not their own; others live in institutional settings (e.g. homeless shelters, transitional housing); others are unsheltered and live out of vehicles or out in the open.
 Some have vehicles, some don't.
 Many of them have cognitive disabilities, mental illnesses, chronic diseases, and addictions.
-Some speak English as a second language, or have very little English fluency.
+Some speak English as a second language, or have little English fluency. Some are functionally illiterate.
 They have a variety of levels of digital literacy and of comfort with digital information access.
 They are unlikely to have their own FAX machines, personal computers, scanners, or other such large devices.
 
@@ -46,17 +46,20 @@ Other tasks include:
 5. **Cross-reference listings**: For example, if an agency mentioned in the "Housing" section notes that it offers mail drop service, make sure there is also a reference to that agency in the "Mail drops" section.
 6. **Use simple English in draft text**: If add text that is meant as draft text to be inserted into the guide (rather than as notes for the researchers and editors), take care to write that text in simple English that is easy to understand by the target audience — for example: use linear sentences without tangled clauses, simple verbs rather than progressive-tense verbs when possible, active voice, literal rather than idiomatic language, and basic vocabulary.
 7. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
+8. **Divide information correctly between outline and directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Outline. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Outline.
 
 ## Current State
 
 The outline contains several major sections; the opening table of contents lists these.
 
 ### File Structure
-- **Total length**: over 3000 lines
+
+- **Total length**: Almost 3000 lines (Outline), almost 2000 lines (Directory)
 - **Format**: Markdown with HTML anchors for major sections
 - **Main files**: `Resource guide possible outline.md`, `Directory.md`
 
-### Major Sections (37 total)
+### Major Outline Sections (37 total)
+
 1. Introduction
 2. Hotlines and emergency contacts
 3. Tips on self-advocacy and for communicating with service providers
@@ -96,6 +99,7 @@ The outline contains several major sections; the opening table of contents lists
 37. Miscellaneous tips
 
 ### Section Development Status
+
 If you see a bullet-point marked "To-do", this represents a task that you might be able to accomplish to improve this outline.
 If you can do so efficiently and reputably (without hallucinating or relying on unreliable sources), do so.
 If you cannot, change the "To-do:" to something like "Note:" and append a parenthetical remark about why you were unable to accomplish this yourself (this way you will not keep seeing the "To-do" and trying futilely to do it again and again).

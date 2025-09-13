@@ -24,11 +24,11 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - [**Recuperative Care Program**](#Recuperative-Care-Program) takes place at 40 Prado
 
 ## 50 Now
->
+
 > *See [**Housing Now**](#Housing-Now)*
 
 ## 70 Now
->
+
 > *See [**Housing Now**](#Housing-Now)*
 
 ## <a id="805-Street-Outreach">805 Street Outreach</a>
@@ -53,7 +53,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
 ## <a id="Access-Central-Coast">Access Central Coast</a>
->
+
 > *See also [**Central Coast Aging & Disability Resource Center**](#CCADRC)*
 
 - [accesscentralcoast.org](http://accesscentralcoast.org/)
@@ -100,11 +100,11 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Note: “Men of Agape” serve a free meal at Meadow Park, SLO, Thursdays at 11am
 
 ## Aging & Disability Resource Center (ADRC)
->
+
 > *See [**Central Coast Aging & Disability Resource Center**](#CCADRC)*
 
 ## AIDS Support Network
->
+
 > *See [**Access Support Network**](#ASN)*
 
 ## <a id="Alano-Club">Alano Club</a>
@@ -133,11 +133,11 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - Tu. 1pm–5pm (SLO)
 
 ## America’s Job Center of California
->
+
 > *See [**SLO Cal Careers Center**](#SLO-Cal-Careers-Center)*
 
 ## American Academy of Opthamology
->
+
 > *See [**EyeCare America**](#EyeCare-America)*
 
 ## <a id="American-Cancer-Society">American Cancer Society</a>
@@ -147,11 +147,11 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Phone: 800-227-2345
 
 ## Anna’s Home
->
+
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
 ## Area Agency on Aging
->
+
 > *See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
 
 ## <a id="Arise-Central-Coast">Arise Central Coast</a>
@@ -160,7 +160,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Hours (food pantry): M 2:30–4:30pm
 
 ## <a id="Arroyo-Grande-Community-Hospital">Arroyo Grande Community Hospital</a>
->
+
 > *See also [**Dignity Health**](#Dignity-Health)*
 
 - Location: 345 S. Halcyon Rd., Arroyo Grande
@@ -178,7 +178,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Notes: Hosts [**Recovery Dharma**](#Recovery-Dharma)
 
 ## <a id="Balay-Ko-on-Barka">Balay Ko on Barka</a>
->
+
 > *a.k.a. “My Home for Hope”*
 
 - Location: Barca St. in Grover Beach
@@ -187,12 +187,19 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - How to access: Apply through [**5Cities Homeless Coalition**](#5CHC) to get on waiting list
 
 ## <a id="BHBH">Behavioral Health Bridge Housing (BHBH) Program</a>
->
+
 > *See [**Transitions Mental Health Association (TMHA)**](#TMHA)*
 
 - [www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing)
 - Phone: 805-540-6500 (Mark Lamore, Director of Homeless Services at [**TMHA**](#TMHA))
 - How to access: must be referred by another agency
+
+## <a id="Bike-Kitchen">Bike Kitchen</a>
+
+- [bikeslocounty.org/programs/kitchen](https://bikeslocounty.org/programs/kitchen/)
+- Location: 860 Pacific St. #105, SLO
+- Phone: 805-547-2055
+- Hours: Th–Su 12–5pm (DIY repair), Tu–W 12–5pm (shopping only), M closed
 
 ## <a id="Blessed-to-Serve">Blessed to Serve</a>
 
@@ -204,7 +211,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - Th 5pm (Calle Joaquin)
 
 ## The Bridge Cafe
->
+
 > - See [**Restorative Partners**](#Restorative-Partners)*
 
 ## <a id="Boyd-Bristol-Medical-Equipment-Program">Boyd Bristol Medical Equipment Program</a>
@@ -215,7 +222,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - How to access: Only for veterans and veterans’ dependents. By appointment only; call to make an appointment.
 
 ## Business and Career One Stop
->
+
 > *See [**SLO Cal Careers Center**](#SLO-Cal-Careers-Center)*
 
 ## <a id="Cabins-for-Change">Cabins for Change</a>
@@ -263,11 +270,11 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - How to access: No walk-ins. Call them, or fill out a form on their website.
 
 ## California Telephone Access Program (CTAP)
->
+
 > *See [**California Connect**](#California-Connect)*
 
 ## <a id="Cal-Poly-Community-Counseling-Service">Cal Poly Community Counseling Service</a>
->
+
 > *See also [**Community Counseling Center**](#Community-Counseling-Center)*
 
 - [psycd.calpoly.edu/community-programs/counseling-clinic](https://psycd.calpoly.edu/community-programs/counseling-clinic)
@@ -296,7 +303,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - How to access: Contact [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
 
 ## CAPSLO
->
+
 > *See [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
 ## <a id="Captive-Hearts">Captive Hearts</a>
@@ -339,7 +346,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Hours: M–F 9am–5pm
 
 ## <a id="CenCal">CenCal</a>
->
+
 > *See also [**Medi-Cal**](#Medi-Cal)*
 
 - [Cencalhealth.org](http://cencalhealth.org/)
@@ -347,7 +354,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Note: for CenCal Shuttle, *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 
 ## CenCal Health Transportation
->
+
 > *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 
 ## <a id="CSF">Center for Family Strengthening (CSF)</a>
@@ -359,7 +366,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Email: [info@cfsslo.org](mailto:info@cfsslo.org)
 - Notes:
    - operates [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
-   - operates “Parent Connection of SLO County”
+   - operates [**Parent Connection of SLO County**](#Parent-Connection-of-SLO-County)
    - partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
 
 ## <a id="The-Center">The Center for Health & Prevention</a>
@@ -436,11 +443,29 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Phone: 805-709-4077
 
 ## CHC
->
+
 > *See [**Community Health Centers of the Central Coast**](#CHC)*
 
+## <a id="Child-Development-Resource-Center">Child Development Resource Center</a>
+
+- [childrensresource.org](https://www.childrensresource.org/)
+- Location: 1720 Bishop St., SLO
+- Phone: 805-544-0801
+- Email: [See their Contact page](https://www.childrensresource.org/contact)
+
+## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
+
+- [childrensresourcenetwork.org](http://www.childrensresourcenetwork.org)
+   - Note: website seems to be down
+- Mailing Address: P.O. Box 454, Pismo Beach, CA 93448-0454
+- Phone: 805-709-8673
+- Email: [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org)
+- Notes: Operates “Outreach Apparel” and “The Teen’s Closet”
+
+To-do: Verify that this agency still exists (website being down makes it sus)
+
 ## Commission for Senior Citizens
->
+
 > *See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
 
 ## <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a> / <a id="Oceano-Campground">Oceano Campground</a>
@@ -464,7 +489,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - operates “Head Start”
    - operates [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - operates “Low Income Home Energy Assistance Program (LIHEAP)”
-   - operates [**Outreach &amp; Engagement Services**](#Outreach-and-Engagement-Services)
+   - operates [**Outreach & Engagement Services**](#Outreach-and-Engagement-Services)
    - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
    - operates “Senior Health Screening”
    - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
@@ -476,7 +501,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - on board of “Emergency Food and Shelter Program”
 
 ## <a id="Community-Counseling-Center">Community Counseling Center</a>
->
+
 > *See also [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
 
 - [cccslo.org/what-we-do.php](https://www.cccslo.org/what-we-do.php)
@@ -486,7 +511,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - How to access: Call to make an appointment
 
 ## Community Counseling Service
->
+
 > *See [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
 
 ## Community Foundation of SLO County
@@ -514,11 +539,11 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Note: also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
 
 ## Community Safe Parking Program
->
+
 > *See [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)*
 
 ## <a id="CES">Coordinated Entry System (CES)</a>
->
+
 > *See [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
 - How to access:
@@ -576,15 +601,15 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - Partners with “Lucia Mar Adult Education” for ESL classes
 
 ## Deaf and Disabled Telecommunication Program (DDTP)
->
+
 > *See [**California Connect**](#California-Connect)*
 
 ## Denti-Cal Dental Care Dentist Referral
->
+
 > *See [**Central Coast Dental Society**](#CCDS)*
 
 ## Department of Social Services
->
+
 > *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 
 ## <a id="Dignity-Health">Dignity Health</a>
@@ -593,7 +618,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Operates the “Substance Use Navigator” program
 
 ## <a id="Dignity-Health-Urgent-Care">Dignity Health Urgent Care</a>
->
+
 > *See also [**Dignity Health**](#Dignity-Health)*
 
 - [locations.dignityhealth.org/dignity-health-urgent-care-pismo-beach](https://locations.dignityhealth.org/dignity-health-urgent-care-pismo-beach)
@@ -613,7 +638,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Phone: 805-668-9185
 
 ## Drug and Alcohol Services
->
+
 > *See [**SLO County Drug and Alcohol Services**](#SLO-County-Drug-and-Alcohol-Services)*
 
 ## <a id="ECHO">El Camino Homeless Organization (ECHO)</a>
@@ -671,11 +696,11 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Notes: Operates [**Housing Support Program (HSP)**](#Housing-Support-Program)
 
 ## FamilyPACT
->
+
 > *See [**Planned Parenthood**](#Planned-Parenthood)*
 
 ## First Presbyterian Church
->
+
 > *See [**Green Pastures**](#Green-Pastures)*
 
 ## <a id="Five-Cities-Christian-Women-Food-Pantry">Five Cities Christian Women Food Pantry</a>
@@ -692,11 +717,20 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Hours: Su 1–3pm
 
 ## <a id="French-Hospital-Medical-Center">French Hospital Medical Center</a>
->
+
 > *See also [**Dignity Health**](#Dignity-Health)*
 
 - Location: 1911 Johnson Ave., SLO
 - Phone: 805-542-6621 (ER) or 805-543-5353 (front desk)
+
+## <a id="Front-Porch">Front Porch</a>
+
+- [https://www.frontporchslo.org/](https://www.frontporchslo.org/)
+- Location: 1468 E. Foothill, SLO
+- Phone: 818-731-4984
+- Email: [director@frontporchslo.org](mailto:director@frontporchslo.org)
+- How to access: oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here.”
+- To-do: need hours of operation (oddly, not on their website)
 
 ## <a id="Genoa-Pharmacy">Genoa Pharmacy</a>
 
@@ -707,11 +741,11 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Notes: The on-site pharmacy for [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health)
 
 ## GLAD
->
+
 > *See [**Tri-County GLAD**](#Tri-County-GLAD)*
 
 ## God’s Storehouse
->
+
 > *See [**Grace Central Coast**](#Grace-Central-Coast)*
 
 ## <a id="Good-Samaritan-Shelter">Good Samaritan Shelter</a>
@@ -764,7 +798,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Notes: A project of [**Restorative Partners**](#Restorative-Partners)
 
 ## Health Department
->
+
 > *See [**SLO County Health Department**](#SLO-County-Health-Department)*
 
 ## <a id="HCHP">Healthcare for the Homeless Program</a>
@@ -782,7 +816,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Phone: 800-642-8399 (M–Th 9am–6pm; F 9am–3pm Eastern Time)
 
 ## Helping Friends Program
->
+
 > *See [**Voice for the Animals Helping Friends Program**](#Helping-Friends-Program)*
 
 ## <a id="HiCAP">HiCAP (Health Insurance Counseling & Advocacy Program)</a>
@@ -809,7 +843,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Notes: A project of “Smart Share Housing Solutions”
 
 ## Hope House
->
+
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
 ## <a id="Hopes-Village">Hope’s Village</a>
@@ -870,7 +904,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hours: last Weds. of the month, 11am–1pm (seniors only) & 4–6pm (anyone)
 
 ## Independent Living Resource Center
->
+
 > *See [**Access Central Coast**](#Access-Central-Coast)*
 
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
@@ -903,6 +937,15 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Location: 218 W. Carmen Lane #108, Santa Maria
 - Phone: 805-762-4500
 - Email: [info@lifestepsfoundation.org](mailto:info@lifestepsfoundation.org)
+
+## <a id="Link-Family-Resource-Center">The Link Family Resource Center</a>
+
+- [https://linkslo.org/](https://linkslo.org/)
+- Location: 4507 Del Rio Ave Bldg. #1, Atascadero
+- Phone: 805-466-5404
+   - Bilingual: 805-794-0217
+- Hours: M–F 9am–5pm
+- How to access: accepts self-referrals, school referrals, community agency referrals
 
 ## <a id="Little-Free-Libraries">Little Free Libraries</a>
 
@@ -1079,7 +1122,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Note: RISE merged with Stand Strong in 2021 to form Lumina Alliance
 
 ## LyonHeart Place
->
+
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
 ## <a id="Marijuana-Anonymous">Marijuana Anonymous</a>
@@ -1087,7 +1130,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - [marijuana-anonymous.org](https://marijuana-anonymous.org/)
 
 ## <a id="Medi-Cal">Medi-Cal</a>
->
+
 > *See also: [**CenCal**](#CenCal)*
 
 - Locations:
@@ -1130,7 +1173,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: 800-783-0607 / 800-838-1381
 
 ## Mental Health Services
->
+
 > *See [**SLO County Mental Health Services**](#SLO-County-Mental-Health-Services)*
 
 ## <a id="Middlehouse">Middlehouse</a>
@@ -1140,11 +1183,11 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: 805-544-8328
 
 ## Minister’s Discretionary Fund
->
+
 > *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
 
 ## Mobile Crisis Team
->
+
 > *See [**Mental Health Evaluation Team** / **Mobile Crisis Team**](#Mobile-Crisis-Team)*
 
 ## <a id="Mobile-Crisis-Unit">Mobile Crisis Unit</a>
@@ -1154,7 +1197,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hours: M–Th 8am–5:30pm; every other Friday 8am–5:30pm
 
 ## My Home for Hope
->
+
 > *See [**Balay Ko on Barka**](#Balay-Ko-on-Barka)*
 
 ## <a id="Narcotics-Anonymous">Narcotics Anonymous</a>
@@ -1180,7 +1223,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hours (food pantry) F 12:45–1:30pm
 
 ## Noor Foundation
->
+
 > *See [**SLO Noor Foundation**](#SLO-Noor-Foundation)*
 
 ## <a id="North-County-Paws-Cause">North County Paws Cause</a>
@@ -1190,14 +1233,36 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: 805-674-8664
 - Email: [northcountypawscause@gmail.com](mailto:northcountypawscause@gmail.com)
 
+## Outreach Apparel
+
+> *See [**Children’s Resource Network of the Central Coast**](#Childrens-Resource-Network-of-the-Central-Coast)*
+
 ## <a id="Outreach-and-Engagement-Services">Outreach and Engagement Services</a>
->
+
 > *See also [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
 - Location: 1320 Nipomo St., SLO
 - Phone: 805-544-4004
 - Hours: M–F 10am–3pm
 - How to access: Walk-ins OK
+
+## <a id="Parent-Connection-of-SLO-County">Parent Connection of SLO County</a>
+
+- Phone: 805-543-3700
+- Email: [info@sloparents.org](mailto:info@sloparents.org)
+- Note: operated by [**Center for Family Strengthening (CSF)**](#CSF)
+
+## <a id="Parents-Helping-Parents">Parents Helping Parents of SLO County</a>
+
+- [phpslo.org](https://www.phpslo.org/)
+- Locations:
+   - 7305 Morro Rd. #104a, Atascadero
+   - 1146 Farmhouse Lane, SLO
+- Phone: 805-543-3277
+- Email: [php@ucp-slo.org](mailto:php@ucp-slo.org)
+- Hours:
+   - Atascadero: W 10am–1pm (by appointment)
+   - SLO: M–F 8am–4:30pm
 
 ## <a id="Paso-Cares">Paso Cares</a>
 
@@ -1226,7 +1291,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hosted by [**Lifepoint Church**]
 
 ## <a id="Peoples-Kitchen-SLO">People’s Kitchen (SLO)</a>
->
+
 > *See also [**40 Prado Homeless Services Center**](#40-Prado)*
 
 - Location: 40 Prado Road, SLO
@@ -1245,7 +1310,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Operates “Villas at Higuera”
 
 ## Pet Pantry
->
+
 > *See [**Woods Humane Society**](#Woods-Humane-Society)*
 
 ## <a id="Pismo-Beach-Athletic-Club">Pismo Beach Athletic Club</a>
@@ -1285,7 +1350,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hours: M–F 10am–2:30pm
 
 ## Rapha House
->
+
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
 ## <a id="Recovery-Dharma">Recovery Dharma</a>
@@ -1320,8 +1385,12 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hours: M–F 8:30am–4:30pm
 
 ## Refugee and Immigrant Services Education
->
+
 > *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
+
+## Regional Transit Authority (RTA)
+
+> *See [**SLO Regional Transit Authority**](#SLO-RTA)*
 
 ## <a id="Renovate-Church">Renovate Church</a>
 
@@ -1356,15 +1425,19 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Phone: 805-541-8747
 
 ## RISE
->
+
 > *See [**Lumina Alliance**](#Lumina-Alliance)*
 
 ## <a id="Rotating-Overnight-Safe-Parking-Program">Rotating Overnight Safe Parking Program</a>
->
+
 > *See [**40 Prado Homeless Services Center**](#40-Prado)*
 
 - Phone: 805-544-4004
 - How to access: Must first complete intake at [**40 Prado Homeless Services Center**](#40-Prado), then you will be referred to rotating program on case-by-case basis
+
+## Runabout Paratransit
+
+> *See [**SLO Regional Transit Authority**](#SLO-RTA)*
 
 ## <a id="RVs-for-Veterans">RVs for Veterans</a>
 
@@ -1425,7 +1498,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hosted by [**Lifepoint Church**](#Lifepoint-Church) and [**Unitarian Universalists San Luis Obispo**](#UUSLO)
 
 ## Sierra Vista Hospital
->
+
 > *See [**Adventist Health Sierra Vista**](#Adventist-Health-Sierra-Vista)*
 
 ## <a id="SLO-Bangers">SLO Bangers</a>
@@ -1460,7 +1533,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - formerly “Business and Career One Stop”
 
 ## SLO Counseling Service
->
+
 > *See [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
 
 ## <a id="SLO-County-Animal-Services">SLO County Animal Services</a>
@@ -1532,7 +1605,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Atascadero clinic closed as of July 1, 2025 (use Paso Robles clinic instead)
 
 ## <a id="SLO-County-Health-Department">SLO County Health Department</a>
->
+
 > *See also [**SLO County Public Health Department**](#SLO-County-Public-Health-Department)*
 
 - Note: entry-point for the [**Coordinated Entry System (CES)**](#CES)
@@ -1558,7 +1631,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Note: central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
 
 ## <a id="SLO-County-Public-Health-Department">SLO County Public Health Department</a>
->
+
 > *See also [**SLO County Health Department**](#SLO-County-Health-Department)*
 
 - [slocounty.ca.gov/departments/health-agency/public-health](http://slocounty.ca.gov/departments/health-agency/public-health)
@@ -1613,8 +1686,14 @@ creston, san miguel, shandon
 - Hours: M–F 9:30am–4pm
    - Food pantry: M/W/F Noon–5pm
 
+## <a id="SLO-Grassroots">SLO Grassroots</a>
+
+- [slograssroots.org](https://slograssroots.org/)
+- Phone: 805-540-1455
+- Email: [info@slograssroots.com](mailto:info@slograssroots.com)
+
 ## <a id="SLO-Hub">SLO Hub</a>
->
+
 > *See also: [**40 Prado Homeless Services Center**](#40-Prado)*
 
 - [capslo.org/slo-hub](https://capslo.org/slo-hub/)
@@ -1649,11 +1728,30 @@ creston, san miguel, shandon
 - Hours: M–Th 8:30am–Noon & 1pm–5pm; F 8:30am–Noon & 1pm–4pm
 - How to access: Appear at first court hearing and ask judge to appoint attorney; meetings by appointment only
 
+## <a id="SLO-RTA">SLO Regional Transit Authority</a>
+
+- [slorta.org](https://www.slorta.org/)
+- Location: 253 Elks Lane, SLO (offices)
+- Phone: 805-781-4472
+   - Runabout Paratransit: 805-781-4833
+- Email: [info@slorta.org](mailto:info@slorta.org)
+- Hours (office): M–Th 8am–4pm; Friday by appointment only
+- Notes: Also operates “Runabout Paratransit,” “Senior Go! Shuttle,” and “Dial-A-Ride”
+
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
 - Location: 2180 Johnson Ave., SLO
 - Phone: 820-280-0415
 - Hours: 24/7
+
+## <a id="SLO-Transit">SLO Transit</a>
+
+- [slocity.org/government/department-directory/public-works/slo-transit-bus](https://www.slocity.org/government/department-directory/public-works/slo-transit-bus)
+- Location (office): 1260 Chorro St. #B, San Luis Obispo
+- Phone:
+   - 805-594-8090 (main office)
+   - 805-541-2877 (dispatch)
+- Email: [slotransit@slocity.org](mailto:slotransit@slocity.org)
 
 ## <a id="SLO-Vet-Center">SLO Vet Center</a>
 
@@ -1670,7 +1768,7 @@ creston, san miguel, shandon
 - How to access: Call to schedule an appointment
 
 ## Social Services
->
+
 > *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 
 ## <a id="Society-of-St-Vincent-de-Paul">Society of Saint Vincent de Paul</a>
@@ -1686,7 +1784,7 @@ creston, san miguel, shandon
 - Hours: M/W/F 9am–1pm
 
 ## Stand Strong
->
+
 > *See [**Lumina Alliance**](#Lumina-Alliance)*
 
 ## <a id="Sunny-Acres">Sunny Acres</a>
@@ -1697,7 +1795,7 @@ creston, san miguel, shandon
 1. a former sober living compound near Laguna Lake that is now the [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus) operated by [**Restorative Partners**](#Restorative-Partners)
 
 ## Sunshine House
->
+
 > *See [**Casa Solana**](#Casa-Solana)*
 
 ## <a id="Sun-Street-Centers">Sun Street Centers</a>
@@ -1718,8 +1816,12 @@ creston, san miguel, shandon
 - Note: operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) and [**5Cities Homeless Coalition**](#5CHC)
 
 ## Surgery Without Medical Insurance
->
+
 > *See [**CSF Medical Non Profit Foundation**](#CSF-Medical-Non-Profit-Foundation)*
+
+## The Teen’s Closet
+
+> *See [**Children’s Resource Network of the Central Coast**](#Childrens-Resource-Network-of-the-Central-Coast)
 
 ## <a id="Teen-Wellness">Teen Wellness</a>
 
@@ -1728,7 +1830,7 @@ creston, san miguel, shandon
 - Note: A program of [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
 
 ## T-MHA
->
+
 > *See [**Transitions Mental Health Association**](#TMHA)*
 
 ## <a id="TMHA">Transitions Mental Health Association (TMHA)</a>
@@ -1819,7 +1921,7 @@ There are several urgent care options, including:
 - Hours: M–F 8am–4:30pm
 
 ## Veterans Express Shuttle
->
+
 > *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 
 ## <a id="Veterans-Services">Veterans Services (SLO County)</a>
@@ -1861,7 +1963,7 @@ There are several urgent care options, including:
 - Notes: A project of “Smart Share Housing Solutions”
 
 ## We Care Foodshare
->
+
 > *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
 
 ## <a id="Welcome-Home-Village">Welcome Home Village</a>
@@ -1871,7 +1973,7 @@ There are several urgent care options, including:
 - How to access: Through the [**Coordinated Entry System (CES)**](#CES)
 
 ## Wellness Centers
->
+
 > *See [**Transitions Mental Health Association (TMHA)**](#TMHA)*
 
 ## <a id="WIC">Women, Infants, and Children (WIC)</a>

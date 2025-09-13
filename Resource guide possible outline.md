@@ -627,6 +627,8 @@
             - Location/Hours: See [**Arise Central Coast**](Directory.md#Arise-Central-Coast) in the [Directory](Directory.md)
          1. **Zion Lutheran Church**: Food pantry
             - Location/Hours: See [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church) in the [Directory](Directory.md)
+         1. **SLO Grassroots**: Food pantry
+            - By appointment only. See [**SLO Grassroots**](Directory.md#SLO-Grassroots) in the [Directory](Directory.md)
       1. **Cal Poly Campus**
          1. **Cal Poly Food Pantry**: packaged/canned foods, fresh produce, frozen meals, hygiene items
             - Location/Phone/Hours: See [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) in the [Directory](Directory.md)
@@ -754,7 +756,7 @@
          - **Service area**: Six bus routes connecting cities throughout SLO County and Northern Santa Barbara County
          - **Fares**: Cash fares vary by route/distance; exact fare required; fare system changes coming Fall 2025
             - ADA-eligible passengers ride RTA fixed routes free if they have a Certificate of Eligibility (apply with RTA)
-         - **Contact**: 805-781-4472, [info@slorta.org](mailto:info@slorta.org), 253 Elks Lane, SLO
+         - Location (offices)/Phone/Email: See [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) in the [Directory](Directory.md)
          - **Route maps:** Available at [www.slorta.org/schedules-fares/](https://www.slorta.org/schedules-fares/) for individual routes
       1. [**Runabout Paratransit**](https://www.slorta.org/services/runabout-paratransit/)
          - **Service**: County-wide ADA complementary paratransit for people unable to use fixed-route buses due to disability
@@ -769,8 +771,7 @@
       1. [**SLO Transit**](https://www.slocity.org/government/department-directory/public-works/slo-transit-bus)—City of SLO
          - **Service area**: 10 bus routes within SLO city limits and Cal Poly, 162 bus stops total
          - **Special service**: Old SLO Trolley downtown and upper Monterey (Thursday–Sunday, seasonal)
-         - **Contact**: 805-594-8090 (main office), 805-541-2877 (dispatch), [slotransit@slocity.org](mailto:slotransit@slocity.org)
-         - **Office**: 1260 Chorro St. #B, San Luis Obispo
+         - Location (office)/Phone/Email: See [**SLO Transit**](Directory.md#SLO-Transit) in the [Directory](Directory.md)
          - Source: [slocity.org](https://www.slocity.org/government/department-directory/public-works/slo-transit)
          - Note: schedule adjusts to academic calendar; probably best not to try to reproduce schedule/maps but refer readers to authoritative source
       1. [**SLO Regional RideShare**](https://rideshare.org/) for carpooling and door-to-door services
@@ -827,9 +828,7 @@
          - **Website:** [moovitapp.com](https://moovitapp.com/)
    1. **Bicycle Services and Repair**
       1. [**Bike Kitchen**](https://bikeslocounty.org/programs/kitchen/): Community bike repair and education
-         - **Location:** 860 Pacific St. #105, San Luis Obispo, CA 93401
-         - **Contact:** 805-547-2055
-         - **Hours:** Thu–Sun 12–5pm (DIY repair), Tue–Wed 12–5pm (shopping only), Mon closed
+         - Location/Phone/Hours: See [**Bike Kitchen**](Directory.md#Bike-Kitchen) in the [Directory](Directory.md)
          - **Cost:** $5 drop-in fee for DIY repair services; SLO County Bicycle Coalition members get 4 free visits
          - **Eligibility:** Open to everyone; committed to creating safe space for all
          - **Services:** Tools, parts, and knowledge for bike repair; volunteer-run; accepts bike donations; sells inexpensive second-hand bikes
@@ -881,29 +880,30 @@
    1. **Free Clothing and Homeless Assistance**
       1. **Prado Day Center (40 Prado)**
          - **What's available**: Free clothing for homeless individuals
-         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
+         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
          - **Additional services**: Showers, meals, laundry, case management [Source: [friendsof40prado.org](https://friendsof40prado.org/mission/)]
       1. **Outreach & Engagement Center**
          - **What's available**: Free clothing available
-         - **Location**: 1320 Nipomo Street, SLO
-         - **Hours**: Monday–Friday 10:00am–3:00pm
+         - Location/Phone/Hours: See [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) in the [Directory](Directory.md)
+      1. **SLO Grassroots**:
+         - By appointment only. See [**SLO Grassroots**](Directory.md#SLO-Grassroots) in the [Directory](Directory.md)
    1. **Mostly for Kids**
       1. **Children's Resource Network of the Central Coast**
          - **What's available**: Free clothing, school supplies, books, diapers, and basic resources for children ages newborn to eighteen
-         - **Phone**: 805-709-8673 [Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)]
+         - Website/Mailing address/Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
          - **Access**: Call hotline numbers, use "Place A Request" form on website home page, or visit during walk-in hours (contact for current walk-in schedule)
-         - **Website**: [childrensresourcenetwork.org](http://www.childrensresourcenetwork.org) *(Note: Website appears to be down as of August 2025)*
-         - Note: Website verified operational as of August 2025. Services confirmed including free clothing, school supplies, books, diapers for children newborn to eighteen through multiple program locations including The Teens Closet in Arroyo Grande and Outreach Apparel in San Luis Obispo. Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
-      1. **The Teen's Closet** (Children's Resource Network)
-         - **What's available**: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents
-         - **Coverage**: San Luis Obispo and Santa Barbara Counties
-         - **Contact**: Available through Children's Resource Network programs
-         - Note: Contact Children's Resource Network directly for access details (specific times and locations not available in public sources)
-         - **Cross-reference**: Also listed in [Special populations - Unaccompanied minors](#resources-specific-to-particular-subgroups)
+         - *(Note: Website appears to be down as of August 2025)*
+         - Note: through multiple program locations including The Teens Closet in Arroyo Grande and Outreach Apparel in San Luis Obispo. Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
          - **Additional programs**:
            - **Traveling Children's Closet**: Mobile service partnering with other nonprofits to provide clothing, diapers, school supplies
            - **Outreach Apparel**: Free clothing store at Pacific Beach High School (SLO), operated by students including homeless youth
-         - **Source**: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
+           - **The Teen's Closet**:
+              - **What's available**: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents
+              - **Coverage**: San Luis Obispo and Santa Barbara Counties
+              - **Contact**: Available through Children's Resource Network programs
+              - Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
+              - **Cross-reference**: Also listed in [Special populations - Unaccompanied minors](#resources-specific-to-particular-subgroups)
+              - **Source**: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
       1. [**Assistance League of SLO County**](https://www.assistanceleague.org/san-luis-obispo-county/)
          - **What's available**: Free new school clothes shopping with retail partners for school-age children in need
          - **Eligibility**: Students referred by their educators
@@ -2071,7 +2071,7 @@
       1. [**SLO Cal Careers Center**](https://SLOCalCareers.org) (America's Job Center of California) (formerly Business and Career One Stop)
          - **Services**: Comprehensive no-cost employment and training services including resume building, interview workshops, career guidance, job placement assistance, skill development, On-the-Job-Training (OJT) programs, CalJOBS access, employer connections, labor market information; specialized services for youth, veterans, and individuals with disabilities
          - **How to access**: Call to schedule appointment or visit website [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/job-center)]
-         - **Locations/Phone/Email/Hours**: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
+         - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
          - [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board)]
       1. [**Eckerd Connects Workforce Development**](https://eckerd.org/jobs-training/slo/)
          - **What's available**: WIOA-funded training programs, employment services for youth and adults 18+, industry certifications, job placement assistance
@@ -2121,6 +2121,7 @@
    1. **Veterans Employment Services**
       1. **Vocational Rehabilitation & Employment Program**: Specialized employment services for veterans through VA
       1. **Veterans services**: Available through SLOCal Careers Center.
+         - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
    1. **Additional Employment Resources**
       1. **[Goodwill Central Coast](https://www.ccgoodwill.org/)**: Free employment services, job training and placement
          - **Services**: Career counseling, skills training, résumé preparation, job placement assistance, interview prep
@@ -2379,6 +2380,7 @@
             - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
          - **5Cities Homeless Coalition**: Computer access and assistance with online applications; 805-574-1638
          - **SLOCal Careers Center**: Help with CalJOBS registration, online job applications; 805-286-8530
+            - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
 
 1. <a id="charging-stations-for-devices">**Charging stations for devices**</a>
    1. **Homeless Service Centers with Charging Access**
@@ -2400,7 +2402,7 @@
    1. **Community Centers and Public Buildings**
       1. **Workforce Development Centers**
          - **SLOCal Careers Center**: Computer stations with charging access during business hours
-         - **Location**: 3563 Empleo Street, SLO; 805-439-2557
+            - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
       1. **County Government Buildings**
          - **What's available**: Public seating areas with electrical outlets in most county buildings
          - **Access**: During regular business hours; public areas only
@@ -2469,6 +2471,7 @@
       1. **The Teen's Closet** (Children's Resource Network)
          - **Services**: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents
             - **Cross-reference**: Also listed in [Where to find free or thrift-store clothing](#where-to-find-free-or-thrift-store-clothing)
+         - Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
          - **Coverage**: San Luis Obispo and Santa Barbara Counties
          - **Website**: childrensresourcenetwork.org/the-teens-closet.htm [Source: https://localwiki.org/slo/]
       1. **[5CHC Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach)**
@@ -2480,8 +2483,7 @@
       1. **[Parent Connection of SLO County](https://sloparents.org/)**
          - **Services**: Parenting support resources and referrals, free workshops on child development and parenting strategies, individual caregiver support, navigation assistance for specialized services
          - **Target**: Parents and caregivers in SLO County, professionals working with families
-         - **Contact**: 805-543-3700, <info@sloparents.org>
-         - **Location**: See [**Center for Family Strengthening**](Directory.md#CSF) in the [Directory](Directory.md).
+         - Phone/Email: See [**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) in the [Directory](Directory.md).
          - **Cost**: Free workshops and resources
          - **Additional**: Comprehensive resource directory, newsletters, social media presence (Facebook: ParentConnectionSLO, Instagram: @parentconnectionslo)
          - **Note**: Contact directly for specific eligibility requirements and service details [Source: [sloparents.org](https://sloparents.org/)]
@@ -2490,6 +2492,7 @@
          - **Services**: Therapeutic early childhood education, mental health programs, school readiness curriculum, child nutrition (80% daily needs)
          - **Programs**: Four classrooms (toddler, preschool, pre-kindergarten), assessments every six months
          - **Mission**: Heal, support, and strengthen families for child abuse prevention and treatment [Source: https://www.childrensresource.org/]
+         - Website/location/phone/email: See [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) in the [Directory](Directory.md)
          - **Note**: Contact information for service initiation was not available in publicly accessible sources (unable to determine if direct contact is possible or if referral is required)
       1. **[Family Care Network](https://fcni.org/)**
          - **Services**: Foster care, mental health treatment, housing support, career/education support for children and families
@@ -2509,10 +2512,7 @@
          - **Mission**: Provide free clothing, school supplies and other basic resources to children in need on Central/Southern California coasts
          - **Services**: Free clothing, blankets, books, backpacks, school supplies, diapers, toiletries for disadvantaged children and at-risk youth
          - **Programs**: The Traveling Children's Closet (mobile store), Teen's Closet, Outreach Apparel (at Pacific Beach High School)
-         - **Phone**: 805-709-8673
-         - **Email**: [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org)
-         - **Address**: P.O. Box 454, Pismo Beach, CA 93448-0454
-         - **Website**: [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org)
+         - Website/Mailing address/Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
          - **Additional**: All programs free of charge, no documents required, no referral necessary
          - **Target**: Homeless children and other children in need in SLO and Santa Barbara Counties
          - **Impact**: Served over 3,000 children since 2012 [Source: https://www.guidestar.org/profile/27-1473791]
@@ -2578,27 +2578,23 @@
          - Source: [senecafoa.org](https://senecafoa.org/)
       1. **[Parents Helping Parents of San Luis Obispo County](https://www.phpslo.org/)**
          - **Services**: Family Resource and Empowerment Center for families with special needs children; lending libraries, support groups, Special Education information, IEP support
-         - **Contact**: 805-543-3277 (primary), 805-543-2039 (UCP general)
-         - **Locations**: 1146 Farmhouse Lane, SLO (Mon–Fri 8:00am–4:30pm); 7305 Morro Road 104A, Atascadero (Wed 10:00am–1:00pm by appointment)
+         - Locations/Phone/Email/Hours: See [**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents) in the [Directory](Directory.md)
          - **Target**: Families with children with special needs throughout SLO County; Early Start families (birth to 3)
          - **Additional**: Bilingual services, toys/games, free support services; operated under UCP of San Luis Obispo County since 1990
       1. **[The Link Family Resource Center](https://linkslo.org/)**
          - **Services**: Serves at-risk children, youth and families; direct services, referrals, information distribution, work experience, parent education, family advocacy
          - **Mission**: Link children, youth, families to resources for unique needs; keep children safe, healthy, at home, in school, out of trouble
-         - **Contact**: 805-466-5404
-         - **Location**: Del Rio Continuation High School, 4507 Del Rio Ave Bldg. #1, Atascadero
-         - **Hours**: Monday–Friday 9:00am–5:00pm (accepts self-referrals, school referrals, community agency referrals)
+         - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
          - **Coverage**: Throughout San Luis Obispo County with bilingual staff and multiple regional family advocates
    1. College Students (e.g. Cuesta, Cal Poly)
       1. **[Front Porch](https://www.frontporchslo.org/)**
          - **Services**: Community space for Cal Poly and Cuesta students; free coffee, tea, snacks; home-cooked meal on Wednesday nights
-         - **Location**: Behind Recreation Center at Cal Poly (behind Health Center)
+         - Location/Phone/Email: See [**Front Porch**](Directory.md#Front-Porch) in the [Directory](Directory.md)
          - **Mission**: Create environment for students to build genuine relationships; welcoming to all students without obligation
          - **Resources**: Student resources page with food insecurity information, CalFresh links, Cal Poly Food Pantry information
-         - **Growth**: Serves 400+ faculty, coaches, students daily; Wednesday nights draw 200+ students
+         - Serves 400+ faculty, coaches, students daily; Wednesday nights draw 200+ students
          - **Accessibility**: Inclusive space for all belief systems; addresses food security for college students
          - **Eligibility**: Open to "students from all walks of life without obligation" - no explicit requirement to be enrolled at Cal Poly or Cuesta, welcomes all who want to study, get coffee, or meet people.
-         - Source: [frontporchslo.org](https://www.frontporchslo.org/)
    1. People with specific (e.g. developmental, TBI, diabetes, blindness) disabilities
       1. E.g. ASL translation for the deaf
       1. ILRC, LifeSteps, PathPoint, Tri-Counties Regional Center
@@ -2924,6 +2920,7 @@
    1. [**Resource Guide Estero Bay**](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf)
    1. [**Sharing SLO wiki**](https://localwiki.org/slo/Sharing_SLO)
    1. [**Immigrant Services Guide**](https://www.sloundocusupport.org/immigrantservicesguide)
+   1. [**NavSLO**](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
 
 1. <a id="miscellaneous-tips">**Miscellaneous tips**</a>
    1. Ideally contributed by local homeless people: would make for good sidebars to break up listings; may want to get legal waiver of copyright from them, though
