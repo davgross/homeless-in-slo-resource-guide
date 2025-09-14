@@ -81,6 +81,16 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - 213-977-5253 (legal intake)
 - Hours: M–F 10am–7pm
 
+## <a id="Adult-Protective-Services">Adult Protective Services</a>
+
+- [https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps)](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29)
+- Location: Offices in Arroyo Grande, Atascadero, Morro Bay, Nipomo, Paso Robles, and SLO
+   - To-do: specify those
+- Phone: 805-781-1790 (M–F 8am–5pm); 844-729-8011 (after hours); 911 (emergency)
+- Notes:
+   - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
+   - Can make referrals to [**Center for Family Strengthening (CSF)**](#CSF)
+
 ## <a id="Adventist-Health-Sierra-Vista">Adventist Health Sierra Vista</a>
 
 - Location: 1010 Murray Ave., SLO
@@ -362,9 +372,9 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - [cfsslo.org](https://cfsslo.org/)
 - Location: 1428 Phillips Lane #203, SLO
 - Phone: 805-439-1994
-   - make referrals via Adult Protective Services, 805-781-1790 (M–F 8am–5pm) or 844-729-8011 (24/7)
 - Email: [info@cfsslo.org](mailto:info@cfsslo.org)
 - Notes:
+   - make referrals via [**Adult Protective Services**](#Adult-Protective-Services)
    - operates [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
    - operates [**Parent Connection of SLO County**](#Parent-Connection-of-SLO-County)
    - partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
@@ -1151,7 +1161,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 - [cfsslo.org/#mfh](https://cfsslo.org/#mfh)
 - Notes:
-   - Access through [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) or [**Housing Support Program (HSP)**](#Housing-Support-Program) or “Adult Protective Services” or [**CalWORKS**](#CalWORKS)
+   - Access through [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) or [**Housing Support Program (HSP)**](#Housing-Support-Program) or [**Adult Protective Services**](#Adult-Protective-Services) or [**CalWORKS**](#CalWORKS)
    - Operated by [**Center for Family Strengthening (CSF)**](#CSF)
 
 ## <a id="MISP">Medically Indigent Services Program (MISP)</a>
@@ -1629,6 +1639,18 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: 800-838-1381 (24hr) / 805-540-6500
 - Hours: M–F 8am–5pm
 - Note: central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
+
+## <a id="SLO-County-Parks">SLO County Parks</a>
+
+- [slocountyparks.com](https://slocountyparks.com/)
+- Phone: 805-781-5930
+- Email: [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
+- See also:
+   - [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes)
+   - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground)
+   - [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area)
+   - [**Oceano Campground**](Directory.md#Oceano-Campground)
+   - [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area)
 
 ## <a id="SLO-County-Public-Health-Department">SLO County Public Health Department</a>
 
