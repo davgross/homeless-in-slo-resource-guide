@@ -73,6 +73,19 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Phone: 805-781-3660
 - Hours: M–Th 9am–5pm; F 9am–3pm
 
+## <a id="Achievement-House-Thrift-Store">Achievement House Thrift Store</a>
+
+- Locations:
+   - 1446 E. Grand Ave., Arroyo Grande
+   - 3003 Cuesta College Rd., SLO
+   - 730 Morro Bay Blvd., Morro Bay
+- Phone:
+   - 805-202-3068 (Arroyo Grande)
+   - 805-543-9383 (SLO)
+   - 805-772-6744 (Morro Bay)
+- Hours:
+   - Arroyo Grande: Daily 9:30am–5pm
+
 ## <a id="ACLU">ACLU of Southern California</a>
 
 - [aclusocal.org](https://www.aclusocal.org/)
@@ -156,7 +169,13 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Road to Recovery (transportation to medical appointments): [cancer.org/support-programs-and-services/road-to-recovery.html](https://www.cancer.org/support-programs-and-services/road-to-recovery.html)
 - Phone: 800-227-2345
 
-## Anna’s Home
+## <a id="American-Legion-Post-66">American Legion Post 66</a>
+
+- [post66slo.org](https://post66slo.org/)
+- Location: 1661 Mill St., SLO
+- Phone: 805-543-6445
+
+## Anna's Home
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
@@ -187,14 +206,27 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Hours: M–F 9am–9pm, Sa. 9am–1pm
 - Notes: Hosts [**Recovery Dharma**](#Recovery-Dharma)
 
+## <a id="Assistance-League-Thrift-Store">Assistance League Thrift Store</a>
+
+- [assistanceleague.org/san-luis-obispo-county/thrift-shop](https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/)
+- Location: 667a Marsh St., SLO
+- Phone: 805-782-0824
+- Hours: Tu–Sa 11am–4pm
+
 ## <a id="Balay-Ko-on-Barka">Balay Ko on Barka</a>
 
-> *a.k.a. “My Home for Hope”*
+> *a.k.a. "My Home for Hope"*
 
 - Location: Barca St. in Grover Beach
 - Phone: 805-305-3031
 - Email: [shelter@5chc.org](mailto:shelter@5chc.org)
 - How to access: Apply through [**5Cities Homeless Coalition**](#5CHC) to get on waiting list
+
+## <a id="Bargain-Boutique">Bargain Boutique</a>
+
+- Location: 553 Higuera St., SLO
+- Phone: 805-543-0412
+- Hours: M–F 9:30am–5pm
 
 ## <a id="BHBH">Behavioral Health Bridge Housing (BHBH) Program</a>
 
@@ -242,6 +274,19 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Email: [shelter@5chc.org](mailto:shelter@5chc.org)
 - How to access: Apply through [**5Cities Homeless Coalition**](#5CHC) to get on waiting list
 
+## <a id="California-Cool-Thrift-Store">California Cool Thrift Store</a>
+
+- Location: 737 W. Grand Ave., Grover Beach
+- Phone: 805-481-3071
+- Hours: Daily 10am–5pm
+
+## <a id="California-DMV">California DMV</a>
+
+- [dmv.ca.gov](https://www.dmv.ca.gov/)
+- Location: 3190 S. Higuera St., SLO
+- Phone: 800-777-0133 (for appointments)
+- Hours: M/Tu/Th/F/Sa 8am–5pm, W 9am–5pm
+
 ## <a id="California-Civil-Rights-Department">California Civil Rights Department</a>
 
 - [calcivilrights.ca.gov](https://calcivilrights.ca.gov)
@@ -262,6 +307,13 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - [info@caconnect.org](mailto:info@caconnect.org)
    - [ddtp@cpuc.ca.gov](mailto:ddtp@cpuc.ca.gov)
 - Hours: M–F 8am–5pm
+
+## <a id="California-Rural-Legal-Assistance">California Rural Legal Assistance (CRLA)</a>
+
+- [crla.org](https://www.crla.org/)
+- Location: 1880 Santa Barbara Ave. #240, SLO
+- Phone: 805-544-7997
+- Hours: M–Th 9am–12pm & 1pm–5pm, F 1pm–5pm
 
 ## <a id="California-Department-of-Rehabilitation">California Department of Rehabilitation</a>
 
@@ -301,6 +353,11 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - F 8:30am–6pm (Cal Poly employees)
 - How to access: all Cal Poly students welcome; no additional eligibility requirements
 - Notes: A project of Cal Poly’s “Basic Needs Initiative”
+
+## <a id="CalJOBS">CalJOBS</a>
+
+- [caljobs.ca.gov](https://www.caljobs.ca.gov/)
+- Phone: 800-758-0398
 
 ## <a id="CalWORKS">CalWORKS Homeless Assistance Program</a>
 
@@ -366,6 +423,20 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 ## CenCal Health Transportation
 
 > *See [**Ride-On Transportation**](#Ride-On-Transportation)*
+
+## <a id="CARD">Center for Autism & Related Disorders</a>
+
+- [centerforautism.com](https://centerforautism.com/locations/san-luis-obispo-california/)
+- Location: 1212 Marsh St. #1, SLO
+- Phone: 805-703-2120
+- Email: [Info@centerforautism.com](mailto:Info@centerforautism.com)
+- Hours: M–F 8am–7pm (weekend hours vary)
+- How to access:
+  - Enroll at [this web page](https://admissions.centerforautism.com/)
+  - or call 877-448-4747 x2
+  - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com)
+- Notes:
+   - Accepts “major insurance carriers”
 
 ## <a id="CSF">Center for Family Strengthening (CSF)</a>
 
@@ -456,12 +527,29 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 
 > *See [**Community Health Centers of the Central Coast**](#CHC)*
 
+## <a id="Child-Care-Resource-Connection">Child Care Resource Connection</a>
+
+- [capslo.org/child-care-resource-connection](https://capslo.org/child-care-resource-connection/)
+- Location: 805A Fiero Ln., SLO
+- Phone:
+   - 888-727-2272
+   - 805-541-2272 (SLO)
+   - 805-474-2062 (South County)
+   - 805-226-3249 (North County)
+- Hours: M–F, 8am–5pm
+- How to access: walk-ins OK
+   - waiting list for some services
+   - toy lending library by appointment only
+- Notes: operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO)
+
 ## <a id="Child-Development-Resource-Center">Child Development Resource Center</a>
 
 - [childrensresource.org](https://www.childrensresource.org/)
 - Location: 1720 Bishop St., SLO
-- Phone: 805-544-0801
-- Email: [See their Contact page](https://www.childrensresource.org/contact)
+- Phone:
+   - 805-544-0801
+- Email:
+   - [See their Contact page](https://www.childrensresource.org/contact)
 
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
 
@@ -531,6 +619,12 @@ To-do: Verify that this agency still exists (website being down makes it sus)
 - Phone: 805-543-2323
 - Email: [info@cfsloco.org](mailto:info@cfsloco.org)
 - Note: partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
+
+## <a id="SLO-Legal-Assistance-Foundation">SLO Legal Assistance Foundation (SLOLAF)</a>
+
+- [slolaf.org](https://www.slolaf.org/)
+- Location: 3232 S. Higuera St. #101D, SLO
+- Phone: 805-543-5140
 
 ## <a id="CHC">Community Health Centers of the Central Coast</a>
 
@@ -733,13 +827,19 @@ To-do: Verify that this agency still exists (website being down makes it sus)
 - Location: 1911 Johnson Ave., SLO
 - Phone: 805-542-6621 (ER) or 805-543-5353 (front desk)
 
+## <a id="Fred-and-Bettys">Fred & Betty's Thrift Store</a>
+
+- Location: 532 Higuera St., SLO
+- Phone: 805-593-0255
+- Hours: M–Sa 10am–5pm
+
 ## <a id="Front-Porch">Front Porch</a>
 
 - [https://www.frontporchslo.org/](https://www.frontporchslo.org/)
 - Location: 1468 E. Foothill, SLO
 - Phone: 818-731-4984
 - Email: [director@frontporchslo.org](mailto:director@frontporchslo.org)
-- How to access: oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here.”
+- How to access: oriented toward students from Cuesta College or Cal Poly, but "Whoever you are, you are welcome here."
 - To-do: need hours of operation (oddly, not on their website)
 
 ## <a id="Genoa-Pharmacy">Genoa Pharmacy</a>
@@ -772,6 +872,20 @@ To-do: Verify that this agency still exists (website being down makes it sus)
 - Notes:
    - operates [**Welcome Home Village**](#Welcome-Home-Village)
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
+
+## <a id="Goodwill">Goodwill Stores</a>
+
+- [ccgoodwill.org](https://www.ccgoodwill.org/)
+- Locations:
+   - 15 S. Higuera St., SLO
+   - 880 Industrial Way, SLO (Outlet)
+   - 1628 W. Grand Ave., Grover Beach
+- Phone: 800-894-8440
+- Hours:
+   - SLO Store: Daily 9am–6pm
+   - SLO Outlet: Daily 7am–4pm
+   - Grover Beach: Daily 9am–7pm
+- Notes: Also offers free employment services, career counseling, skills training, résumé preparation
 
 ## <a id="Grace-Central-Coast">Grace Central Coast</a>
 
@@ -956,6 +1070,8 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Bilingual: 805-794-0217
 - Hours: M–F 9am–5pm
 - How to access: accepts self-referrals, school referrals, community agency referrals
+   - Though [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims “Must be referred”
+   - To-do: get the correct answer
 
 ## <a id="Little-Free-Libraries">Little Free Libraries</a>
 
@@ -1119,6 +1235,12 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hours: 6am–sunset daily
 - Email: [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
 
+## <a id="Los-Osos-Cares">Los Osos Cares Resource Center</a>
+
+- Location: Sunnyside School, 800 Manzanita Dr., Room 18, Los Osos
+- Phone: 805-592-2701
+- Hours: Tu/W/Th 1–3pm
+
 ## <a id="Lumina-Alliance">Lumina Alliance</a>
 
 - [luminaalliance.org](https://luminaalliance.org/)
@@ -1192,9 +1314,15 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Location: SLO
 - Phone: 805-544-8328
 
-## Minister’s Discretionary Fund
+## Minister's Discretionary Fund
 
 > *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
+
+## <a id="Mission-Thrift">Mission Thrift</a>
+
+- Location: 2958 S. Higuera St., SLO
+- Phone: 805-548-2660
+- Hours: M–Sa 12pm–5pm
 
 ## Mobile Crisis Team
 
@@ -1235,6 +1363,11 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## Noor Foundation
 
 > *See [**SLO Noor Foundation**](#SLO-Noor-Foundation)*
+
+## <a id="North-County-Christian-Thrift-Shop">North County Christian Thrift Shop</a>
+
+- Location: 9330 El Camino Real, Atascadero
+- Phone: 805-466-1679
 
 ## <a id="North-County-Paws-Cause">North County Paws Cause</a>
 
@@ -1319,6 +1452,12 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Operates “Tiburon Place”
    - Operates “Villas at Higuera”
 
+## <a id="Peoples-Justice-Project">People's Justice Project</a>
+
+- [peoplesjusticeproject.org](https://peoplesjusticeproject.org/)
+- Location: 5708 Hollister Ave., Ste. A #1033, Goleta
+- Phone: 805-242-6691
+
 ## Pet Pantry
 
 > *See [**Woods Humane Society**](#Woods-Humane-Society)*
@@ -1358,6 +1497,8 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: 805-541-3367 (call or text)
 - Email: [info@ppsslo.org](mailto:info@ppsslo.org)
 - Hours: M–F 10am–2:30pm
+- How to access: by appointment only
+   - To-do: according to [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) anyway; verify
 
 ## Rapha House
 
@@ -1444,6 +1585,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 - Phone: 805-544-4004
 - How to access: Must first complete intake at [**40 Prado Homeless Services Center**](#40-Prado), then you will be referred to rotating program on case-by-case basis
+- Hours: 7pm–7am overnight only
 
 ## Runabout Paratransit
 
@@ -1453,10 +1595,39 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 - Phone: 805-234-5478
 
-## <a id="St-Patricks-Church">Saint Patrick’s Church</a>
+## <a id="Second-Chances-Thrift-Store">Second Chances Thrift Store</a>
+
+- [captivehearts.org/second-chances-store.html](https://www.captivehearts.org/second-chances-store.html)
+- Location: 892 W. Grand Ave., Grover Beach
+- Phone: 805-202-8800
+- Hours: M–Sa 10am–4:30pm
+
+## <a id="St-Barnabas-Thrift-Shop">St. Barnabas Thrift Shop</a>
+
+- [saintbarnabas-ag.org/get-involved/thrift-shop](https://saintbarnabas-ag.org/get-involved/thrift-shop/)
+- Location: 1328 Grand Ave. #F, Grover Beach
+- Phone: 805-270-4023
+- Hours: Tu–F 10am–4pm, Sa Noon–4pm
+
+## <a id="St-Patricks-Church">Saint Patrick's Church</a>
 
 - Location: 501 Fair Oaks Dr., Arroyo Grande
 - Hours (food pantry): Tu/W/Th 4–5pm
+
+## <a id="St-Patricks-Shamrock-Thrift">St. Patrick's Shamrock Thrift</a>
+
+- Location: 924 W. Grand Ave., Grover Beach
+- Phone: 805-481-0612
+- Hours: Tu–Sa 10am–4pm
+
+## <a id="SAFE-Family-Resource-Centers">SAFE Family Resource Centers</a>
+
+- [capslo.org/s-a-f-e-family-resource-centers](https://capslo.org/s-a-f-e-family-resource-centers/)
+- Locations:
+   - Oceano Family Resource Center: 1511 19th St., Oceano; 805-474-3690
+   - Arroyo Grande Resource Center: 1086 Grand Ave., Arroyo Grande; 805-474-2105
+   - Nipomo Family Resource Center: 920 W. Tefft St., Nipomo; 805-474-3000
+- Note: Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
 
 ## <a id="Salvation-Army">Salvation Army</a>
 
@@ -1498,6 +1669,11 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Email: [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
 - Hours: M–F 8am–5pm (closed Noon–1pm)
 - How to access: Walk-ins OK.
+
+## <a id="Senior-Legal-Services-Project">Senior Legal Services Project</a>
+
+- Location: 3232 S. Higuera St. #101D, SLO
+- Phone: 805-543-5140
 
 ## <a id="Shower-the-People">Shower the People</a>
 
@@ -1555,6 +1731,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - 805-781-4407 (found animal recording)
 - Hours: M–F 10am–4:30pm, Sa 10am–4pm
 - How to access: call to make an appointment
+
+## <a id="SLO-County-Clerk-Recorder">SLO County Clerk-Recorder</a>
+
+- [slocounty.ca.gov/departments/clerk-recorder](https://www.slocounty.ca.gov/departments/clerk-recorder)
+- Location: 1055 Monterey St. #D120, SLO
+- Phone: 805-781-5080
+- Hours: M/Tu/Th/F 8am–5pm, W 8am–4pm (transactions end 30 minutes before closing)
 
 ## <a id="SLO-County-Behavioral-Health">SLO County Behavioral Health</a>
 
@@ -1760,11 +1943,24 @@ creston, san miguel, shandon
 - Hours (office): M–Th 8am–4pm; Friday by appointment only
 - Notes: Also operates “Runabout Paratransit,” “Senior Go! Shuttle,” and “Dial-A-Ride”
 
+## <a id="SLO-Self-Storage">SLO Self Storage</a>
+
+- [slostorage.com](https://www.slostorage.com/)
+- Location: 154 Suburban Road, SLO
+- Phone: 805-546-9788
+- Hours: Office 8am–5pm (closed 12pm–1pm), Gate access 7am–6:50pm daily
+
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
 - Location: 2180 Johnson Ave., SLO
 - Phone: 820-280-0415
 - Hours: 24/7
+
+## <a id="SLO-Superior-Court">SLO Superior Court</a>
+
+- [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)
+- Location: Multiple courthouses in SLO County
+- Phone: 805-706-3600 (Civil & Family Law Branch and Criminal Branch)
 
 ## <a id="SLO-Transit">SLO Transit</a>
 
@@ -1879,7 +2075,9 @@ creston, san miguel, shandon
 ## <a id="Tri-Counties-Regional-Center">Tri Counties Regional Center</a>
 
 - [tri-counties.org](http://tri-counties.org/)
+- Location: (main office) 520 E. Montecito St., Santa Barbara
 - Phone: 805-543-2833
+   - Administrative office: 805-962-7881
 - How to access: Apply here: [tri-counties.org/our-services/apply/](http://tri-counties.org/our-services/apply/)
 
 ## <a id="Tri-County-GLAD">Tri-County GLAD</a>
@@ -1909,6 +2107,12 @@ creston, san miguel, shandon
 - Notes:
    - operates the “Minister’s Discretionary Fund,” “Refugee and Immigrant Services Education,” and “We Care Foodshare”
    - hosts [**Shower the People**](#Shower-the-People) on Tuesdays and Thursdays
+
+## <a id="United-Voluntary-Services-Thrift">United Voluntary Services Thrift</a>
+
+- Location: 474 Marsh St., SLO
+- Phone: 805-543-1545
+- Hours: M–F 10am–4pm
 
 ## <a id="United-Way">United Way</a>
 
@@ -2000,11 +2204,20 @@ There are several urgent care options, including:
 
 ## <a id="WIC">Women, Infants, and Children (WIC)</a>
 
+- [Slocountygov/wic](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29)
 - Locations:
+   - Atascadero: 5575 Hospital Dr. — 805-237-3065 / 805-781-5570
    - Grover Beach: 286 S. 16th St. #B — 805-473-7130
    - SLO: 2191 Johnson Ave. — 805-781-5570
-- Phone: 888-417-6180
-- Hours: M–Th 8am–5pm; Fri. 8am–4:30pm
+- Phone:
+   - 805-781-5570
+   - 805-781-5571
+   - Text: 888-417-6180
+- Hours: M–Th 8am–5pm; Fri. 8am–4:30pm (closed on the last Wednesday of the month)
+- How to access: by appointment only (call or text to make an appointment)
+- Who is eligible: This program is restricted to people for whom both of the following requiremts are true:
+   - They are pregnant, breastfeeding, gave birth or had a pregnancy loss in the past six months, or they care for a child under the age of five
+   - And they live in California and have income below a certain threshhold, or receive Medi-Cal, CalWORKs, or CalFresh benefits.
 
 ## <a id="Woods-Humane-Society">Woods Humane Society</a>
 
