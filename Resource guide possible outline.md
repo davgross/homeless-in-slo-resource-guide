@@ -470,28 +470,22 @@
             - General eligibility: 30% or 50% Area Median Income limits
             - Phone: See [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) in the [Directory](Directory.md)
       1. RV Parks
-         1. [**Le Sage Riviera RV Park**](https://lesageriviera.com) (Grover Beach)
-             - Contact: 805-489-5506, [info@lesageriviera.com](mailto:info@lesageriviera.com)
-             - Address: 319 N Highway 1, Grover Beach, CA 93433
-             - Rates: $750/month May 1st-Labor Day; $600/month rest of year
+         1. **Le Sage Riviera RV Park** (Grover Beach)
+             - Location/Phone/Email/Hours: See [**Le Sage Riviera RV Park**](Directory.md#Le-Sage-Riviera-RV-Park) in the [Directory](Directory.md)
+             - Rates: $750/month May 1st–Labor Day; $600/month rest of year
              - RV size limit: Up to 29 feet
-             - Hookups: Full hookups available
-             - Location: Near Pismo Beach, close to coastline
-             - Amenities: Close to beaches, golf course, boardwalks, newly remodeled bathrooms, on-site laundry
-             - Office hours: Mon–Sat 9am–4:30pm, Sun 9am–3pm
+             - Website: [lesageriviera.com](https://lesageriviera.com)
          1. [**Coastal Dunes RV Park & Campground**](https://slocountyparks.com/camp/coastal-dunes/) (Grover Beach)
              - Location/Phone: See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
              - Operator: SLO County Parks
              - Location: Walking distance to Pismo Beach, next to Grover Beach Amtrak Station
              - Features: Grassy RV pads, trees for shade, pool, full hookups
              - Special note: 3 miles from Arroyo Grande
-         1. [**Flying Flags Avila Beach**](https://www.flyingflagsavilabeach.com)
-             - Contact: 805-888-0158
-             - Address: 6450 Babe Lane, Avila Beach, CA 93424
-             - Hours: Mon–Sun 8am–6pm
-             - Location: Overlooking Pacific Ocean at Avila Beach
+         1. **Flying Flags Avila Beach**
+             - Location/Phone/Hours: See [**Flying Flags Avila Beach**](Directory.md#Flying-Flags-Avila-Beach) in the [Directory](Directory.md)
              - Features: Seaside campsites, spacious RV sites, beach cottages (25 campsites total)
              - Amenities: Cornhole, bocce ball, bath facilities, espresso coffee, accommodates wide variety of RVs
+             - Website: [flyingflagsavilabeach.com](https://www.flyingflagsavilabeach.com)
          1. [**El Chorro Regional Park**](https://slocountyparks.com/camp/el-chorro/) (SLO County)
              - Location/Phone/Email: See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
              - Rates: Primitive sites $30-$41/night, Hookup sites $47-$55/night (2024 pricing)
@@ -526,11 +520,11 @@
              - Office hours: Mon–Fri 10am–4pm
    1. **Goodwill Central Coast**
       - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they "Can provide assistance with... housing" but I was unable to find more about this on Goodwill's own website.
-        - To-do: investigate this further
+        - Note: Unable to verify housing assistance claim through Goodwill Central Coast's website (as of September 2025); contact Goodwill directly to inquire about housing-related services
    1. **[The Link Family Resource Center](https://linkslo.org/)**
       - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
-      - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they have "Free family support services, including... housing"
-        - To-do: find out the details about this
+      - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education; helps families navigate the social services system and provides linkages to community partners for homeless services
+      - Source: [linkslo.org](https://linkslo.org/)
 
 1. <a id="property-storage-options-short-term-day-lockers--long-term-storage-rental">**Property storage options**</a> (short-term & long-term)
    1. **Homeless Service Centers with Storage/Lockers**
@@ -667,17 +661,18 @@
       - Source: [slofoodbank.org](https://www.slofoodbank.org/contact/)
    1. **Goodwill Central Coast**
       - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they "Can provide assistance with food..." but I was unable to find more about this on Goodwill's own website.
-          - To-do: find out if this is true, and the details if so
+          - Note: Unable to verify food assistance claim through Goodwill Central Coast's website (as of September 2025); contact Goodwill directly to inquire about food-related services
    1. **[The Link Family Resource Center](https://linkslo.org/)**
       - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
-      - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they have "Free family support services, including food..."
-          - To-do: find out the details about this
+      - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
+      - Source: [linkslo.org](https://linkslo.org/)
    1. **Senior Meal Programs**
       1. **Meals that Connect**
          - Phone/Hours: See [**Meals that Connect**](Directory.md#Meals-that-Connect) in the [Directory](Directory.md)
          - What's Available: Free meals for ages 60+
          - Website: [mealsthatconnect.org](https://mealsthatconnect.org/en/)
-      1. **5Cities Meals on Wheels**: Contact [www.5citiesmow.com](https://www.5citiesmow.com/) for eligibility and delivery options
+      1. [**5Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels)
+         - Contact: See [**5Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) in the [Directory](Directory.md)
          - Fixed address limitation: Both meal delivery programs typically require a fixed home address for delivery; may not be suitable for unsheltered individuals
          - Alternative for homeless seniors: Contact programs directly to inquire about delivery to shelters or alternative arrangements; homeless shelters can often provide mailing addresses for service coordination
       1. **Seniors Farmers' Market Nutrition Program**: $20–$50 per year in benefits on electronic Farmers' Market Card
@@ -1071,8 +1066,8 @@
          - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)
    1. **[The Link Family Resource Center](https://linkslo.org/)**
       - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
-      - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they have "Free family support services, including... healthcare"
-        - To-do: find out the details about this
+      - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
+      - Source: [linkslo.org](https://linkslo.org/)
    1. **California Children's Services**
       - Location/Phone/Email/Hours: See [**California Children's Services**](Directory.md#California-Childrens-Services) in the [Directory](Directory.md)
       - What's Available: Arranges, directs, and pays for medical care, equipment, and rehabilitation for children and youth with certain medical conditions who are unable to pay
@@ -1149,7 +1144,7 @@
          - Treatment approach: Three-fold care including physician evaluation, social worker clinical assessment, and community health worker follow-up coordination
          - Impact: 29 providers helping remove addiction stigma and connect patients to community resources
          - Source: [newtimesslo.com](https://www.newtimesslo.com/news/dignity-health-central-coast-tackles-opioid-addiction-through-sun-program-16133592)
-      1. **Recovery Support Network**: 805-457-5777—Helps people seeking addiction recovery get support, care, and resources
+      1. **Recovery Support Network**: 805-457-5777—Helps people seeking addiction recovery get support, care, and resources (Note: Unable to verify this organization or phone number through online sources as of September 2025)
       1. **Court-mandated programs**: Available through county drug & alcohol services
    1. **Additional Resources**
       1. Current drug use resource card: [Document reference](https://docs.google.com/document/d/e/2PACX-1vT2koI1AMLwAVcmOg_LGCgvUrFTH27EjOINZ_kGV6q8lO5so7eX70wv0FRWSLjCId6jfVeu5y-iu-uW/pub) for comprehensive local listings
@@ -1216,12 +1211,10 @@
          - Coverage Area: San Luis Obispo and Santa Barbara counties
          - Insurance: Accepts Medicare; contact 855-240-2530 to verify Medi-Cal acceptance and discuss financial assistance options
          - Website: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/)
-      1. [**Dignity Health French Hospital Medical Center Home Health and Hospice**](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/home-health-hospice-and-infusion-services)
+      1. **Dignity Health French Hospital Medical Center Home Health and Hospice**
          - Services: Team-oriented medical care, symptom and pain management, emotional and spiritual support tailored to patient needs
-         - Contact: 800-549-9609
-         - Location: 1911 Johnson Ave, San Luis Obispo, CA 93401
-         - Insurance: Accepts Medicare and Medi-Cal/CenCal Health
-         - Financial Assistance: Free care for families up to 250% of Federal Poverty Level; discounted care for 250%-400% of FPL; call 888-488-7667 or financial counselor 805-542-6321
+         - Contact/Location/Insurance/Financial Assistance: See [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) in the [Directory](Directory.md)
+         - Website: [dignityhealth.org](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/home-health-hospice-and-infusion-services)
       1. [**Medically Fragile Homeless Program**](https://cfsslo.org/#mfh)
          - Services: shelter for terminally ill persons who have need of housing to allow the person to die in the dignity and stability of housing with the care of hospice
          - Eligibility: homeless people in SLO County
@@ -1273,13 +1266,11 @@
          - Cost: No charge
          - Website: [slocll.org/self-help-2/legal-help](https://www.slocll.org/self-help-2/legal-help/)
          - Contact: 805-548-8884 (telephone consultations by appointment only)
-      1. [**California Rural Legal Assistance (CRLA) - SLO Office**](https://crla.org/locations/san-luis-obispo)
+      1. **California Rural Legal Assistance (CRLA) - SLO Office**
          - Services: Free legal assistance for low-income residents including advance directives
-         - Location: 1880 Santa Barbara Ave #240, SLO
-         - Phone: 805-544-7994 (California Rural Legal Assistance)
-         - Hours: Monday–Thursday 9am–12pm & 1pm–5pm, Friday 1pm–5pm
+         - Location/Phone/Hours: See [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) in the [Directory](Directory.md)
          - Alternative: Senior Legal Services Project: 805-543-5140 (serves seniors 60+)
-         Source: [crla.org](https://crla.org/locations/san-luis-obispo)
+         - Website: [crla.org](https://crla.org/locations/san-luis-obispo)
       1. **Free Online Advance Directive Resources**
          1. **[PREPARE for Your Care](https://prepareforyourcare.org/)**: Interactive online program available in English and Spanish (funded by National Institute on Aging)
             - Features: Video stories, easy-to-read language, helps explore personal values and preferences; includes advance directives for all 50 states
@@ -1706,7 +1697,8 @@
          - **5Cities Homeless Coalition**: 805-574-1638; offers "identification and documentation assistance" as part of client resource center services
          - **SLO County Department of Social Services**: CalWORKs and other programs may assist with ID-related costs
             - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
-         - **San Luis Obispo Legal Assistance Foundation**: 805-543-5140; free legal assistance for document-related issues
+         - **San Luis Obispo Legal Assistance Foundation**: Free legal assistance for document-related issues
+            - Location/Phone: See [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) in the [Directory](Directory.md)
          - Note: Federal homeless assistance programs allow use of funds to help individuals obtain ID; call centers directly for current availability [Sources: [gao.gov](https://www.gao.gov/products/gao-24-105435), [5chc.org](https://5chc.org/)]
       1. **If you have no documents at all**:
          - Start with Social Security Administration—they can try to verify identity through their records
@@ -1972,7 +1964,7 @@
          - Contact: Contact your natural gas utility provider directly
          - Source: [cpuc.ca.gov](https://www.cpuc.ca.gov/)
       1. **[CAPSLO Home Energy Assistance](https://capslo.org/utility-assistance/)** & [LIHEAP (Low Income Home Energy Assistance Program)](https://capslo.org/energy-services/)
-         - To-do: clarify here whether these two separate programs or one program sometimes referred to by different names
+         - Note: Unable to verify from CAPSLO's website whether these are two separate programs or one program with different names (as of January 2025); contact CAPSLO directly for clarification
          - Services: Payment assistance for gas, propane, or electric utility bills for low-income households
          - Contact: 805-541-4122 ext. 25 (confirmed as correct extension) [Source: [energyassistance.us](https://www.energyassistance.us/li/community-action-partnership-of-san-luis-obispo-county)]
          - Location: 3970 Short St. #110
@@ -2250,9 +2242,9 @@
          - **Life Community Toastmasters**: Wednesdays 6:30–8:30pm, Life Community Church, 3770 Ruth Way, Templeton. Contact 805-712-0671
          - Note: All clubs welcome guests and offer online attendance options; Division E covers Arroyo Grande, Grover Beach, SLO, Templeton, Paso Robles
          - Source: [toastmasters.org](https://www.toastmasters.org/find-a-club)
-      1. **[U.C. Cooperative Extension](https://cesanluisobispo.ucanr.edu/)**: Research-based educational programs and workshops
+      1. [**U.C. Cooperative Extension - SLO County**](Directory.md#UC-Cooperative-Extension)
+         - Contact: See [**U.C. Cooperative Extension - SLO County**](Directory.md#UC-Cooperative-Extension) in the [Directory](Directory.md)
          - Programs: Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, horticulture
-         - Contact: 805-781-5940
          - Cost: Varies by program (e.g., Forest Stewardship Workshop $60); many programs free or low-cost
          - Registration: Visit [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/) or call for specific program registration
    1. **Specialized Educational Support**
@@ -2682,9 +2674,7 @@
          - Use: Competitive soccer/rugby play, tournaments; managed by Parks & Recreation
       - **Five Cities Recreation Centers**:
          - [**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services)
-           - Location/Phone: See [**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) in the [Directory](Directory.md)
-           - Hours: M–Th 9am–5pm, F 9am–1pm (walk-in registration available)
-           - Email: [agrec@arroyogrande.org](mailto:agrec@arroyogrande.org)
+           - Location/Phone/Email/Hours: See [**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) in the [Directory](Directory.md)
          - [**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services)
            - Location/Phone: See [**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services) in the [Directory](Directory.md)
            - Hours: 9am–4pm (call ahead for walk-in services)
@@ -2789,8 +2779,8 @@
           - [ReadySLO.org](https://readyslo.org/)—prepare, respond, recover information
           - [EmergencySLO.org](https://emergencyslo.org/)—current emergency information
           - [PrepareSLO.org](https://prepareslo.org/)—evacuation zones and planning
-       - **Emergency contact:** County Office of Emergency Services 805-781-5678, [oes@co.slo.ca.us](mailto:oes@co.slo.ca.us) [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/administrative-office/office-of-emergency-services/contact-us)]
-       - **Evacuation assistance:** If you need help evacuating, call 805-543-2444 (Note: Unable to verify this specific number in available sources; contact County OES at 805-781-5678 to confirm current evacuation assistance procedures)
+       - **Emergency contact:** [**SLO County Office of Emergency Services**](Directory.md#SLO-County-Office-of-Emergency-Services)—See [Directory](Directory.md) for contact information [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/administrative-office/office-of-emergency-services/contact-us)]
+       - **Evacuation assistance:** If you need help evacuating, call 805-543-2444 (Note: Unable to verify this specific number in available sources; contact [**SLO County Office of Emergency Services**](Directory.md#SLO-County-Office-of-Emergency-Services) to confirm current evacuation assistance procedures)
        - **Emergency alerts:**
          - **How to sign up for customized alerts:** Visit [AlertSLO.org](https://alertslo.org) to register for specific types of notifications
          - **AlertSLO**: Current system for emergency notifications (signup at [PrepareSLO.org](https://www.prepareslo.org/))

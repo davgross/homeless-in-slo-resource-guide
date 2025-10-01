@@ -1,6 +1,6 @@
 # <a id="directory">Directory</a>
 
-To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/Geo_URI_scheme) if this might help users more quickly find addresses in their mapping application of choice. [Claude says](https://claude.ai/chat/fa6ec69b-cd5a-44fe-b4f1-b327a3270a42) geo URIs are not well-supported, and suggests proprietary links (Google Maps, Apple Maps) instead, except on Android which does support geo:.
+Possible future work: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/Geo_URI_scheme) if this might help users more quickly find addresses in their mapping application of choice. [Claude says](https://claude.ai/chat/fa6ec69b-cd5a-44fe-b4f1-b327a3270a42) geo URIs are not well-supported, and suggests proprietary links (Google Maps, Apple Maps) instead, except on Android which does support `geo:`.
 
 ## <a id="40-Prado">40 Prado Homeless Services Center</a>
 
@@ -44,12 +44,20 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 
 > *See [**Housing Now**](#Housing-Now)*
 
+## <a id="5Cities-Meals-on-Wheels">5Cities Meals on Wheels</a>
+
+- [5citiesmow.com](https://www.5citiesmow.com/)
+- Location: 780 Bello Street, Pismo Beach
+- Phone: 805-773-2053
+- Email: [info@5citiesmow.com](mailto:info@5citiesmow.com)
+- Notes: Serves homebound neighbors in Arroyo Grande, Grover Beach, Oceano, Pismo Beach, and Shell Beach
+
 ## <a id="805-Street-Outreach">805 Street Outreach</a>
 
 - [805streetoutreach.org](https://805streetoutreach.org/)
 - Email: [izzy@805streetoutreach.org](mailto:izzy@805streetoutreach.org)
 - Shower program:
-   - Location: Morro Bay Public Library parking lot
+   - Location: Morro Bay Public Library parking lot, 625 Harbor St., Morro Bay
    - Hours: Every Monday, 12pm–3pm
 
 ## <a id="AARP-Tax-Aide">AARP Tax-Aide Program (Central Coast Tax-Aide)</a>
@@ -92,6 +100,8 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - 805-772-6744 (Morro Bay)
 - Hours:
    - Arroyo Grande: Daily 9:30am–5pm
+   - SLO: M–F 8am–3:45pm, Sa 9am–3:30pm
+   - Morro Bay: M–F 8:30am–4:30pm, Sa 9am–4:30pm
 
 ## <a id="ACLU">ACLU of Southern California</a>
 
@@ -104,9 +114,15 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 ## <a id="Adult-Protective-Services">Adult Protective Services</a>
 
 - [https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps)](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29)
-- Location: Offices in Arroyo Grande, Atascadero, Morro Bay, Nipomo, Paso Robles, and SLO
-   - To-do: specify those
+- Locations:
+   - Arroyo Grande: 1086 E. Grand Ave., 805-474-2000
+   - Atascadero: 9630 El Camino Real, 805-461-6000
+   - Morro Bay: 600 Quintana Rd., 805-772-6405
+   - Nipomo: 681 W. Tefft St. #1, 805-931-1800
+   - Paso Robles: 406 Spring St., 805-237-3110
+   - SLO: 3433 S. Higuera St., 805-781-1600
 - Phone: 805-781-1790 (M–F 8am–5pm); 844-729-8011 (after hours); 911 (emergency)
+- Hours: M–F 8am–4pm (appointments 4–5pm)
 - Notes:
    - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
    - Can make referrals to [**Center for Family Strengthening (CSF)**](#CSF)
@@ -217,6 +233,8 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 
 - Location: 1221 Ash St., Arroyo Grande
 - Phone: 805-473-4536
+- Email: [agrec@arroyogrande.org](mailto:agrec@arroyogrande.org)
+- Hours: M–Th 9am–5pm, F 9am–1pm (walk-in registration available)
 
 ## <a id="Aspire-Counseling-Service">Aspire Counseling Service</a>
 
@@ -296,7 +314,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 
 ## The Bridge Cafe
 
-> - See [**Restorative Partners**](#Restorative-Partners)*
+> *See [**Restorative Partners**](#Restorative-Partners)*
 
 ## Business and Career One Stop
 
@@ -371,7 +389,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 
 - [crla.org](https://www.crla.org/)
 - Location: 1880 Santa Barbara Ave. #240, SLO
-- Phone: 805-544-7997
+- Phone: 805-544-7994
 - Hours: M–Th 9am–12pm & 1pm–5pm, F 1pm–5pm
 
 ## California Telephone Access Program (CTAP)
@@ -550,12 +568,15 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 ## <a id="Central-Coast-Autism-Spectrum-Center">Central Coast Autism Spectrum Center</a>
 
 - [sloautism.org](https://sloautism.org/)
+- Location: P.O. Box 3417, SLO (mailing address; physical location not publicly listed as of September 2025)
 - Phone: 805-763-1100
 - Email: [contact@sloautism.org](mailto:contact@sloautism.org)
 
 ## <a id="Central-Coast-Coalition-for-Undocumented-Student-Success">Central Coast Coalition for Undocumented Student Success</a>
 
 - [ccc-uss.org](https://www.ccc-uss.org/)
+- Location: P.O. Box 15759, SLO
+- Email: [ccc-uss@googlegroups.com](mailto:ccc-uss@googlegroups.com)
 - Notes:
    - Cal Poly DREAM Center contact: Vania Agama Ramirez
    - Cuesta Monarch DREAM Center: 805-546-3109
@@ -603,20 +624,17 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
    - For pet food distributions, come to locations during operating hours, or call for delivery options
    - For emergency pet care, call, then a case manager conducts interview for Emergency Vet Care Program qualification and vet referrals
 
-## <a id="Central-Coast-Recovery">Central Coast Recovery</a>
-
-- Location: Grover Beach
-- Phone: 805-709-4077
-
 ## <a id="Central-Coast-Veterans-Helping-Veterans">Central Coast Veterans Helping Veterans</a>
 
 - Phone: 805-242-5575
-- Contact: Bill Crewe
+- Contact: Bill Crewe (President)
+- Note: Limited information available online (as of September 2025); contact directly for details about services and location
 
 ## <a id="Central-Coast-Veterans-Services-Collaborative">Central Coast Veterans Services Collaborative</a>
 
 - Phone: 805-270-2988
 - Contact: Paul Worsham
+- Note: Unable to verify this organization through online sources (as of September 2025); contact directly for details about services and location
 
 ## CHC
 
@@ -660,9 +678,7 @@ To-do: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/
 - Mailing Address: P.O. Box 454, Pismo Beach, CA 93448-0454
 - Phone: 805-709-8673
 - Email: [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org)
-- Notes: Operates “Outreach Apparel” and “The Teen’s Closet”
-
-To-do: Verify that this agency still exists (website being down makes it sus)
+- Notes: Operates "Outreach Apparel" and "The Teen's Closet"; organization exists but website is down (as of September 2025); appears on nonprofit databases including Charity Navigator and GuideStar; contact by phone or email to verify current services and status
 
 ## <a id="City-of-SLO-Parks-and-Recreation">City of SLO Parks and Recreation</a>
 
@@ -853,8 +869,10 @@ To-do: Verify that this agency still exists (website being down makes it sus)
 ## <a id="Discipleship-Home">Discipleship Home</a>
 
 - [thediscipleshiphome.com](http://thediscipleshiphome.com/)
-- Location: Oceano
+- Location: Oceano (specific address not publicly listed as of September 2025)
 - Phone: 805-668-9185
+- Email: [thediscipleshiphome15@gmail.com](mailto:thediscipleshiphome15@gmail.com)
+- Notes: Faith-based recovery and mentorship program for men
 
 ## Drug and Alcohol Services
 
@@ -940,6 +958,14 @@ To-do: Verify that this agency still exists (website being down makes it sus)
 - Hours: M–F 2–3:30pm
 - Hosted by [**Lifepoint Church**](#Lifepoint-Church)
 
+## <a id="Flying-Flags-Avila-Beach">Flying Flags Avila Beach</a>
+
+- [flyingflagsavilabeach.com](https://www.flyingflagsavilabeach.com)
+- Location: 6450 Babe Lane, Avila Beach
+- Phone: 805-888-0158
+- Hours: Every day 8am–6pm
+- Notes: RV park with seaside campsites, spacious RV sites, beach cottages (25 campsites total)
+
 ## <a id="Food-Not-Bombs">Food Not Bombs</a>
 
 - Location: Mitchell Park, SLO
@@ -957,6 +983,8 @@ To-do: Verify that this agency still exists (website being down makes it sus)
 
 - Location: 1911 Johnson Ave., SLO
 - Phone: 805-542-6621 (ER) or 805-543-5353 (front desk)
+- Notes:
+   - Home Health and Hospice service: 800-549-9609; accepts Medicare and Medi-Cal/CenCal Health; financial assistance available for families up to 250% of Federal Poverty Level (free care) and 250%-400% of FPL (discounted care); call 888-488-7667 or financial counselor 805-542-6321
 
 ## <a id="Front-Porch">Front Porch</a>
 
@@ -965,7 +993,7 @@ To-do: Verify that this agency still exists (website being down makes it sus)
 - Phone: 818-731-4984
 - Email: [director@frontporchslo.org](mailto:director@frontporchslo.org)
 - How to access: oriented toward students from Cuesta College or Cal Poly, but "Whoever you are, you are welcome here."
-- To-do: need hours of operation (oddly, not on their website)
+- Note: Hours of operation not available on their website (as of September 2025); contact them directly for current hours
 
 ## <a id="Genoa-Pharmacy">Genoa Pharmacy</a>
 
@@ -1199,6 +1227,15 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Email: [naseema6@sbcglobal.net](mailto:naseema6@sbcglobal.net)
 - Hours: last Weds. of the month, 11am–1pm (seniors only) & 4–6pm (anyone)
 
+## <a id="Le-Sage-Riviera-RV-Park">Le Sage Riviera RV Park</a>
+
+- [lesageriviera.com](https://lesageriviera.com)
+- Location: 319 N Highway 1, Grover Beach
+- Phone: 805-489-5506
+- Email: [info@lesageriviera.com](mailto:info@lesageriviera.com)
+- Hours: M–Sa 9am–4:30pm, Su 9am–3pm
+- Notes: RV park with rates of $750/month May 1st–Labor Day, $600/month rest of year; RV size limit up to 29 feet; full hookups available; close to beaches, golf course, boardwalks; newly remodeled bathrooms; on-site laundry
+
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
 
 - Phone: 805-544-2484 x2
@@ -1237,9 +1274,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: 805-466-5404
    - Bilingual: 805-794-0217
 - Hours: M–F 9am–5pm
-- How to access: accepts self-referrals, school referrals, community agency referrals
-   - Though [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims “Must be referred”
-   - To-do: get the correct answer
+- How to access: accepts self-referrals, school referrals, and community agency referrals (verified from website September 2025)
 
 ## <a id="Literacy-For-Life">Literacy For Life</a>
 
@@ -1626,12 +1661,14 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 ## <a id="Paso-Cares">Paso Cares</a>
 
+- [pasocares.org](https://www.pasocares.org/)
 - Locations:
    - Riverside & 24th St. parking lot, Paso Robles
    - 1335 Oak St., Paso Robles
 - Hours:
    - M–F 5–6pm, Su 4–5pm (Riverside & 24th)
    - Sa. Noon–1pm (1335 Oak)
+- Note: Phone/email contact information not available on website (as of September 2025)
 
 ## <a id="PathPoint">PathPoint</a>
 
@@ -1720,8 +1757,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: 805-541-3367 (call or text)
 - Email: [info@ppsslo.org](mailto:info@ppsslo.org)
 - Hours: M–F 10am–2:30pm
-- How to access: by appointment only
-   - To-do: according to [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) anyway; verify
+- How to access: Unable to verify from website whether appointments are required; contact them directly to confirm (as of September 2025)
 
 ## Rapha House
 
@@ -2098,6 +2134,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hours: M–F 8am–5pm
 - Note: central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
 
+## <a id="SLO-County-Office-of-Emergency-Services">SLO County Office of Emergency Services</a>
+
+- [slocounty.ca.gov/departments/administrative-office/office-of-emergency-services](https://www.slocounty.ca.gov/departments/administrative-office/office-of-emergency-services/contact-us)
+- Phone: 805-781-5678
+- Email: [oes@co.slo.ca.us](mailto:oes@co.slo.ca.us)
+- Notes: For emergency alert signup, visit [AlertSLO.org](https://alertslo.org) or [PrepareSLO.org](https://www.prepareslo.org/)
+
 ## <a id="SLO-County-Parks">SLO County Parks</a>
 
 - [slocountyparks.com](https://slocountyparks.com/)
@@ -2268,8 +2311,13 @@ creston, san miguel, shandon
 ## <a id="SLO-Superior-Court">SLO Superior Court</a>
 
 - [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)
-- Location: Multiple courthouses in SLO County
-  - To-do: specify them and give their addresses
+- Locations:
+   - Civil & Family Law Branch: 1050 Monterey St. Rm 220, SLO
+   - Criminal Branch: 1050 Monterey St. Rm 220, SLO
+   - Grover Beach Branch: 214 S. 16th St., Grover Beach
+   - Juvenile Services Center: 1050 Monterey St., SLO
+   - Paso Robles Branch: 901 Park St., Paso Robles
+   - Veteran's Memorial Branch: 801 Grand Ave., SLO
 - Phone: 805-706-3600 (Civil & Family Law Branch and Criminal Branch)
 
 ## <a id="SLO-Transit">SLO Transit</a>
@@ -2411,6 +2459,12 @@ creston, san miguel, shandon
    - 805-644-6322 (voice)
 - Email: [info@tcglad.org](mailto:info@tcglad.org)
 - Hours: M–F 8:30am–5pm (closed Noon–1pm)
+
+## <a id="UC-Cooperative-Extension">U.C. Cooperative Extension - SLO County</a>
+
+- [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/)
+- Phone: 805-781-5940
+- Notes: Research-based educational programs including Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, and horticulture; cost varies by program
 
 ## <a id="UUSLO">Unitarian Universalists San Luis Obispo</a>
 
