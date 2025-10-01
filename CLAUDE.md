@@ -47,6 +47,7 @@ Other tasks include:
 6. **Use simple English in draft text**: If add text that is meant as draft text to be inserted into the guide (rather than as notes for the researchers and editors), take care to write that text in simple English that is easy to understand by the target audience — for example: use linear sentences without tangled clauses, simple verbs rather than progressive-tense verbs when possible, active voice, literal rather than idiomatic language, and basic vocabulary.
 7. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
 8. **Divide information correctly between outline and directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Outline. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Outline.
+9. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
 
 ## Current State
 
@@ -145,6 +146,37 @@ When working on the outline, these search patterns are frequently useful:
 - `grep -n "To-do"` - Find remaining To-do items
 - `grep -n "<a id="` - Find major section headings
 - `grep -n "Source:"` - Find existing source annotations
+
+### Finding Agencies Needing Directory Entries
+When systematically moving agencies from the outline to the Directory, these patterns help identify candidates:
+- `grep -n "Contact:" "Resource guide possible outline.md"` - Find agencies with explicit Contact fields
+- `grep -n "805-[0-9]" "Resource guide possible outline.md" | grep -v "See \["` - Find phone numbers not yet cross-referenced
+- `grep -n "http" "Resource guide possible outline.md" | grep -v "Source:"` - Find hyperlinks (potential agencies)
+- Look for patterns like "Location:", "Phone:", "Email:", "Hours:" that indicate contact information
+
+### Alphabetical Insertion in Directory.md
+When adding new entries to Directory.md:
+- Use `grep -n "^## <a id=" Directory.md` to see all agency anchors with line numbers
+- Identify the correct alphabetical position by finding the entries immediately before and after
+- Read a range of lines around the insertion point to verify exact placement: `sed -n '100,150p' Directory.md`
+- Remember that entries starting with "The" are alphabetized by the word after "The" (e.g., "The Center" goes under C, not T)
+
+### Unicode Character Pitfalls
+When editing files with the Edit tool:
+- Em-dashes (—), en-dashes (–), and hyphens (-) are different characters and won't match each other
+- Curly quotes (" " ' ') vs. straight quotes (" ') won't match
+- If you get "String to replace not found" errors, read the exact text with the Read tool and copy it character-for-character
+- When in doubt, use smaller, simpler replacement strings that avoid special characters
+- The `cat -A` command can reveal hidden unicode characters if troubleshooting is needed
+
+### Agency vs. Program Distinction
+Not everything needs a separate Directory entry:
+- **Separate entries**: Independent agencies, organizations with their own governance
+- **Program notes**: Programs operated by larger organizations (e.g., "Head Start" is a CAPSLO program, not separate)
+- **Cross-reference patterns**:
+  - If it's a program: mention it in the parent organization's Notes field
+  - If it's an independent agency: create a separate Directory entry
+  - Commercial businesses mentioned in passing (storage facilities, gyms) don't need Directory entries unless they have specific programs for homeless individuals
 
 ### Key Local Agencies (Frequently Referenced)
 - **CAPSLO** (Community Action Partnership SLO): [capslo.org](https://capslo.org/) - 805-544-4355
