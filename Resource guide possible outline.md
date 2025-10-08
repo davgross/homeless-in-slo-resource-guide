@@ -82,15 +82,20 @@
    1. **Specialized Crisis Lines**
       1. **866-488-7386** or text **START to 678678**—Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth [Source: [thetrevorproject.org](https://www.thetrevorproject.org/get-help/)]
       1. **877-565-8860**—Trans Lifeline: Crisis hotline for transgender people [Source: [translifeline.org](https://translifeline.org/)]
-      1. **838255** (text)—Veterans Crisis Text Line [Source: [va.gov](https://www.va.gov/southeast-louisiana-health-care/news-releases/veterans-crisis-line-dial-988-then-press-1/)]
+      1. **838255** (text)—Veterans Crisis Text Line [Source: [veteranscrisisline.net](https://www.veteranscrisisline.net/)]
       1. **800-799-7233**—National Domestic Violence Hotline [Source: [thehotline.org](https://www.thehotline.org/)]
       1. **800-RUNAWAY** (800-786-2929)—National Runaway Safeline: 24/7 confidential support for runaway and homeless youth [Source: [1800runaway.org](https://www.1800runaway.org/)]
       1. **800-541-3211**—Alcoholics Anonymous 24/7 helpline
       1. **800-549-7730**—Narcotics Anonymous 24/7 helpline
       1. **833-317-4673** (español: **833-642-7696**)—The Warm Line: free, confidental emotional support
-      1. **805-781-1790**—Adult Protective Services
-      1. **805-781-5437**—Child Welfare Services
+      1. **805-781-1790** (M–F, 8am–5pm), or **805-729-8011** other times—Adult Protective Services;
+      1. **805-781-5437** or **805-781-1700**—Child Welfare Services emergency suspected child abuse reporting line
       1. **805-870-8855**—Immigrant Rapid Response Hotline
+      1. **800-843-5200**—Youth Crisis Line, for people in California ages 12–24; call or text
+      1. **888-373-7888**—National Human Trafficking Hotline (or text 233-733) [HumanTraffickingHotline.org](https://humantraffickinghotline.org/)
+      1. **833-852-6262**—National Maternal Mental Health Hotline (call or text) [mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline](https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline)
+      1. **800-985-5990**—Disaster Distress Helpline (in case of emotional distress due to natural or manmade disaster) [samhsa.gov/find-help/helplines/disaster-distress-helpline](https://www.samhsa.gov/find-help/helplines/disaster-distress-helpline)
+      1. **888-431-2229**—Fussy Baby Network Warmline [Fussybabynetwork.org](https://www.erikson.edu/fussy-baby-network/), [fussybaby@erikson.edu](mailto:fussybaby@erikson.edu)
    1. **Health Information Lines**
       1. **800-222-1222**—Poison Control: Treatment advice from experts in poisoning care [Source: [calpoison.org](https://www.calpoison.org)]
       1. **877-435-7443**—Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–9pm EST) [Source: [help4hep.org](http://www.help4hep.org/)]
@@ -98,8 +103,9 @@
    1. **Behavioral Health Support**
       1. **800-838-1381**—SLO County Behavioral Health Access Line: Main number for scheduling appointments and getting information about all behavioral health services including navigation and peer support (Note: Unable to verify specific separate numbers for navigator services, youth services, peer support, and recovery support network in current available sources; this main access line should be used for all these services) [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)]
       1. **855-600-9276**—California Peer Run Warm Line (also available as a web-based text chat [here](https://www.mentalhealthsf.org/warm-line) for people with “a wide range of challenges, including anxiety, depression, and substance use”
+      1. **800-300-8086**—Kick It California, smoking cessation help [Kickitca.org](https://kickitca.org/)
    1. **Information and Referral Services**
-      1. **211**—Connects you to expert, caring, confidential help of all sorts [Source: [211ca.org](https://211ca.org/) and [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division)]
+      1. **211**—Connects you to expert, caring, confidential help of all sorts [Source: [211SLO.org](https://211slo.org/)
    1. **Legal Aid and Consumer Protection**
       1. **800-834-5001**—Community Legal Aid SoCal Hotline for housing discrimination, tenant rights, and consumer protection [Source: [communitylegalsocal.org](https://www.communitylegalsocal.org/)]
       1. **800-399-4529**—Legal Aid Foundation of Los Angeles (LAFLA) for legal assistance [Source: [lafla.org](https://lafla.org/)]
@@ -588,8 +594,7 @@
       1. Budget Options in Five Cities
          - Starting prices: From $25/month for smallest units
          - Grover Beach area: Units starting at $70/month
-         - **Beach Area Storage**: Serves Grover Beach area—phone 805-489-9272
-         - Source: [beachareastorage.com](https://beachareastorage.com/)
+         - Location/Phone/Email: See [**Beach Area Storage**](Directory.md#Beach-Area-Storage) in the [Directory](Directory.md)
       1. Important Notes for People Experiencing Homelessness
          - Month-to-month options: Most facilities offer flexible monthly rentals without long-term contracts
          - Smallest units: 5x5 units are most affordable option for essential belongings
@@ -1310,8 +1315,7 @@
       1. **Additional Crisis Resources**
          - Psychiatric Crisis Emergency: 800-838-1381
          - Crisis Text Line: Text "HOME" to 741741
-         - NAMI SLO County: [namisanluisobispo@gmail.com](mailto:namisanluisobispo@gmail.com)
-         - Source: [well-beingmentalhealth.com](https://well-beingmentalhealth.com/crisis-resources/)
+         - Email: See [**NAMI SLO County**](Directory.md#NAMI-SLO-County) in the [Directory](Directory.md)
    1. **Women's Self-Defense Programs**
       1. **Model Mugging of SLO**
          - Program type: Full-contact, scenario-based training designed specifically for women
@@ -1515,10 +1519,8 @@
         - What's Available: Free information and assistance for small claims court cases (plaintiff or defendant)
         - Note: Some sources say hours are Monday–Wednesday only rather than Monday–Friday
    1. **Long Term Care Ombudsman**
-        - What’s Available: Advocacy for nursing home/care facility residents, complaint investigation, facility monitoring
-        - Contact: 805-785-0132 (office), 800-231-4024 (24-hour emergency), 3232 S. Higuera Street, #101B, SLO
-        - Email: [info@ombudsmanslo.org](mailto:info@ombudsmanslo.org)
-        - Hours: Monday–Friday 8am–5pm
+        - Location/Phone/Email/Hours: See [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) in the [Directory](Directory.md)
+        - What's Available: Advocacy for nursing home/care facility residents, complaint investigation, facility monitoring
         - Services: Help with finding residential care, complaints about facilities, advanced directive witnessing
         - Coverage: All cities in SLO County
    1. **Child Support Services**
@@ -2639,7 +2641,7 @@
    1. [Cancer support groups](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/cancer-support-groups) ([and](https://cscslo.org/))
    1. [Stroke support groups](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups)
    1. [Debtors Anonymous](https://debtorsanonymous.org/)
-   1. [NAMI](https://www.namislo.org/nami-support-groups)
+   1. [**NAMI SLO County**](Directory.md#NAMI-SLO-County) ([support groups](https://www.namislo.org/nami-support-groups))
    1. [Parkinson support groups](https://www.myccpa.org/support-groups)
    1. See [Where to get help with recovery, harm reduction, and other substance-related issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues) for Alcoholics Anonymous, Narcotics Anonymous, Marijuana Anonymous
 
@@ -2720,11 +2722,11 @@
       - Description: All-volunteer 501(c)(3) serving north SLO County cats and kittens. While primarily focused on TNR (Trap-Neuter-Return) programs and adoptions, they may provide guidance for pet owners facing housing challenges. Not much in the way of services to our target audience, though.
       - Contact them directly for assistance if you need help caring for your cat while homeless or transitioning to housing.
       - Location/Phone/Email: See [**North County Paws Cause**](Directory.md#North-County-Paws-Cause) in the [Directory](Directory.md)
-   1. [**Pets of the Homeless**](https://petsofthehomeless.org/)—First national organization focused exclusively on feeding and providing veterinary care to pets of people experiencing homelessness. They provide pet food and basic veterinary care to pets of homeless individuals and veterans.
-      - Emergency Veterinary Care Program: Call 775-841-7463, case managers available Monday–Friday 9am–3pm PST for new cases
-      - How it works: Case manager conducts interview to determine eligibility, approves exam and helps make appointment at local hospital/clinic
+   1. [**Pets of the Homeless**](https://petsofthehomeless.org/)—First national organization focused exclusively on feeding and providing veterinary care to pets of people experiencing homelessness.
+      - Phone/Email: See [**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) in the [Directory](Directory.md)
+      - Services: Pet food and basic veterinary care to pets of homeless individuals and veterans
+      - Emergency Veterinary Care Program: Case manager conducts interview to determine eligibility, approves exam and helps make appointment at local hospital/clinic
       - Cost: No charge to pet owner, but any payment toward invoice at time of visit is appreciated
-      - Note: No new emergency calls after hours or weekends; case managers may call back from private numbers
    1. 40 Prado has pet kennel for guests (including warming center / cooling center guests); but pets must have rabies vaccinations. Call for specific documentation requirements and acceptable proof of vaccination.
       - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
    1. [**Cal Poly "Doggy Days" Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days)

@@ -113,7 +113,7 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 
 ## <a id="Adult-Protective-Services">Adult Protective Services</a>
 
-- [https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps)](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29)
+- [Slocounty.ca.gov/APS](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29)
 - Locations:
    - Arroyo Grande: 1086 E. Grand Ave., 805-474-2000
    - Atascadero: 9630 El Camino Real, 805-461-6000
@@ -280,6 +280,15 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 - Location: 553 Higuera St., SLO
 - Phone: 805-543-0412
 - Hours: M–F 9:30am–5pm
+
+## <a id="Beach-Area-Storage">Beach Area Storage</a>
+
+- [beachareastorage.com](https://beachareastorage.com/)
+- Location: 464 Leoni Dr., Grover Beach
+- Phone: 805-489-9272
+- Email: [BeachAreaStorage@gmail.com](mailto:BeachAreaStorage@gmail.com)
+- Hours: Contact for hours
+- Notes: Month-to-month rentals; storage units from 5x6 to 12x30; outside vehicle storage for cars, boats, and RVs up to 30 feet; free lock included with new rentals
 
 ## <a id="BHBH">Behavioral Health Bridge Housing (BHBH) Program</a>
 
@@ -1581,6 +1590,16 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 > *See [**Balay Ko on Barka**](#Balay-Ko-on-Barka)*
 
+## <a id="NAMI-SLO-County">NAMI SLO County</a>
+
+- [namislo.org](https://www.namislo.org/)
+- Mailing address: P.O. Box 3158, SLO
+- Email: [namisanluisobispo@gmail.com](mailto:namisanluisobispo@gmail.com)
+- Notes:
+   - Local chapter of National Alliance on Mental Illness
+   - Offers support groups, education, and advocacy for individuals and families affected by mental illness
+   - For immediate crisis support: NAMI national helpline 800-950-6264 (M–F 7am–3pm PT), or call/text 988
+
 ## <a id="Narcotics-Anonymous">Narcotics Anonymous</a>
 
 - [centralcoastna.org](http://centralcoastna.org/)
@@ -1715,6 +1734,21 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## Pet Pantry
 
 > *See [**Woods Humane Society**](#Woods-Humane-Society)*
+
+## <a id="Pets-of-the-Homeless">Pets of the Homeless</a>
+
+- [petsofthehomeless.org](https://petsofthehomeless.org/)
+- Mailing addresses:
+   - P.O. Box 905, Frederick, MD 21705-0905
+   - 710 W. Washington St., Carson City, NV 89703
+- Phone: 775-841-7463 (Emergency Veterinary Care Program; case managers M–F 9am–3pm PT for new cases)
+- Email: [info@petsofthehomeless.org](mailto:info@petsofthehomeless.org)
+- Notes:
+   - First national organization focused exclusively on feeding and providing veterinary care to pets of people experiencing homelessness
+   - Emergency Veterinary Care Program: Case manager conducts interview to determine eligibility, approves exam and helps make appointment at local hospital/clinic
+   - No charge to pet owner; any payment toward invoice at time of visit is appreciated
+   - No new emergency calls after hours or weekends; case managers may call back from private numbers
+   - Has partner locations in SLO including Animal Care Clinic, Mission Animal Hospital, and Woods Humane Society
 
 ## <a id="Pismo-Beach-Athletic-Club">Pismo Beach Athletic Club</a>
 
