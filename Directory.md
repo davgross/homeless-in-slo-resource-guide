@@ -842,7 +842,7 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
    - [Community Education](https://www.cuesta.edu/community/index.html) programs open to otherwise unenrolled people
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) has vocational / lifetime-learning programs, and ESL
    - Partners with [**The Bridge Cafe**](#Restorative-Partners) for its Culinary Arts program
-   - Partners with “Lucia Mar Adult Education” for ESL classes
+   - Partners with [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes
 
 ## Deaf and Disabled Telecommunication Program (DDTP)
 
@@ -1477,6 +1477,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Nipomo Learning Center: 190 E. Price St., Nipomo
    - Oceano Community Center: 1551 17th St., Oceano
 - Phone: 805-474-3000 x5811 (general), x1224 (Nipomo), x1225 (Oceano)
+- Email: [brienne.phillips@lmusd.org](mailto:brienne.phillips@lmusd.org)
 - Notes: Partners with Cuesta College for ESL classes
 
 ## <a id="Lumina-Alliance">Lumina Alliance</a>
@@ -1959,6 +1960,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 - [ae.slcusd.org](https://ae.slcusd.org/)
 - Location: 1500 Lizzie St., SLO
+- Phone: 805-549-1222
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
@@ -2032,7 +2034,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - [SLOCalCareers.org](https://SLOCalCareers.org)
 - Locations:
    - 3563 Empleo Street, SLO
-   - 3450 S. Broad St., SLO
+   - 3450 Broad St. #103a, SLO
 - Phone: 805-439-2557
 - Email:
    - [SLOCal@eckerd.org](mailto:SLOCal@eckerd.org)
@@ -2303,6 +2305,13 @@ creston, san miguel, shandon
    - Phone: 805-756-5089
    - Email: [ccmacedo@calpoly.edu](mailto:ccmacedo@calpoly.edu)
 - How to access: By appointment only
+
+## <a id="SLO-Partners">SLO Partners</a>
+
+- [slopartners.org](https://slopartners.org/)
+- Location: 3350 Education Dr. SLO
+- Phone: 805-782-7372
+- Email: [info@slopartners.org](mailto:info@slopartners.org)
 
 ## <a id="SLO-Public-Defenders">SLO Public Defenders</a>
 
