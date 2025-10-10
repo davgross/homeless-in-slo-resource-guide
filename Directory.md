@@ -493,6 +493,7 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 ## <a id="Catholic-Charities">Catholic Charities</a>
 
 - [catholiccharitiesdom.org](http://catholiccharitiesdom.org/)
+  - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
 - Locations:
    - 751 Palm St., SLO
    - 3220 S. Higuera St. #225, SLO
@@ -500,6 +501,7 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
    - 3592 Broad St. #104, SLO
    - Note: need to verify which locations are accurate, which specific services are offered at each location
 - Phone: 805-541-9110
+   - Immigration Services: 831-722-2675
 - Hours: M–F 9am–5pm
 
 ## <a id="CenCal">CenCal</a>
@@ -1690,6 +1692,15 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Sa. Noon–1pm (1335 Oak)
 - Note: Phone/email contact information not available on website (as of September 2025)
 
+## <a id="Paso-Robles-Housing-Authority">Paso Robles Housing Authority</a>
+
+- [pasoroblesha.org](https://pasoroblesha.org/)
+- Location: 901 30th Street, Paso Robles
+- Phone: 805-238-4015
+- Email: [info@pasoroblesha.org](mailto:info@pasoroblesha.org)
+- Hours: M–F 9am–4:30pm (closed Noon–1pm)
+- Notes: Operates affordable housing properties including Oak Park 1–4 and Sunrise Villas; offers community services including Youth Works program
+
 ## <a id="PathPoint">PathPoint</a>
 
 - [pathpoint.org/locations/san-luis-obispo](http://pathpoint.org/locations/san-luis-obispo)
@@ -2610,6 +2621,16 @@ There are several urgent care options, including:
 - [www.vftafoundation.org/helping_friends](https://www.vftafoundation.org/helping_friends)
 - Phone: 310-392-5153
 - Email: [info@vftafoundation.org](mailto:info@vftafoundation.org)
+
+## <a id="Womenade-SLO">Womenade SLO</a>
+
+- [womenadeslo.org](https://www.womenadeslo.org/)
+- Phone: 805-674-9450
+- Notes:
+   - Part of regional network:
+      - GIVEslo (county-wide): [info@giveslo.org](mailto:info@giveslo.org)
+      - North County Womenade: 7343 El Camino Real Box #217, Atascadero, CA 93422
+      - South County Womenade: 1793 Farroll Road, Grover Beach, CA 93433
 
 ## <a id="Waterman-Village">Waterman Village</a>
 
