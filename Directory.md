@@ -2108,7 +2108,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - operates “Temporary Assistance for Needy Families (TANF)”
    - entry-point for “CalFresh / EBT (Food Stamps)”
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
-   - entry-point for the “Housing Support Program (HSP)”
+   - entry-point for the [**Housing Support Program (HSP)**](#Housing-Support-Program)
    - entry-point for the [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
 
 ## <a id="SLO-County-Drug-and-Alcohol-Services">SLO County Drug and Alcohol Services</a>

@@ -4,13 +4,12 @@
 
 The file @"Resource guide possible outline.md" contains the outline of a to-be-written comprehensive resource guide tenatively titled "Surviving Homelessness in San Luis Obispo."
 This file is too large for you to read in completely, given your token limit (so use methods to read it in smaller chunks).
+It was originally written as a long nested list, but will eventually transition to headings and prose paragraphs.
 
 The @Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide outline.
 Use this as the single source of truth for those data; cross-reference Directory entries from the resource guide outline rather than reproducing those data in the outline.
 
 ### About The Target Audience of the Guide
-Most of the text in this outline is intended for the researchers and editors of this guide.
-
 The target audience for the guide this outline describes is people who are homeless or at risk of homelessness in San Luis Obispo city and the SLO County's five cities area.
 
 These people are typically financially poor, so this guide prioritizes resources that are free or very low-cost to access.
@@ -23,7 +22,6 @@ They have a variety of levels of digital literacy and of comfort with digital in
 They are unlikely to have their own FAX machines, personal computers, scanners, or other such large devices.
 
 ## Task Instructions
-
 The primary task is to flesh out the existing outline with more complete and detailed information. Key requirements:
 
 1. **Use reputable and recent sources**: All information must come from reliable, up-to-date sources
@@ -48,6 +46,7 @@ Other tasks include:
 7. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
 8. **Divide information correctly between outline and directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Outline. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Outline.
 9. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
+10. **Transition to prose**: In @"Resource guide possible outline.md", once we have collected enough information, rewrite that information as easy-to-read and well-organized paragraphs, containing the information most useful and relevant to our target audience.
 
 ## Current State
 
@@ -55,7 +54,6 @@ The outline contains several major sections; the opening table of contents lists
 
 ### File Structure
 
-- **Total length**: Almost 3000 lines (Outline), almost 2000 lines (Directory)
 - **Format**: Markdown with HTML anchors for major sections
 - **Main files**: `Resource guide possible outline.md`, `Directory.md`
 
@@ -200,7 +198,7 @@ Other county regions include:
 Santa Maria, Orcutt, Guadalupe, and Betteravia are just across the county's southern border in Santa Barbara county, and there is often some overlap between services offered there and in SLO's South County.
 
 ### Formatting Quick Reference
-- Phone: `805-123-4567` (kebab format, no +1 or 1-)
+- Phone: `805-123-4567` (kebab format, no +1 or 1-); append e.g. `&nbsp;x5` to indicate "extension 5"
 - Time rangess: `8am–5pm` (en-dash, not hyphen)
 - Price ranges: `$5–10` (en-dash)
 - Day ranges: `Monday–Friday` (en-dash)
