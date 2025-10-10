@@ -1143,7 +1143,7 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 
 - [smartsharehousingsolutions.org/homeshare-slo](https://www.smartsharehousingsolutions.org/homeshare-slo)
 - Phone: 805-215-5474
-- Notes: A project of “Smart Share Housing Solutions”
+- Notes: A project of [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions)
 
 ## Hope House
 
@@ -1179,11 +1179,31 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - [haslo.org](https://www.haslo.org/)
 - Location: 487 Leff St., SLO
 - Phone: 805-543-4478
+- Email: [info@haslo.org](mailto:info@haslo.org)
+- Hours: M–Th 8am–5pm (also open every other Friday)
 - How to access: submit a paper application to get on the waiting list
 - Notes:
-   - Operates “Balay-Ko on Monterey”
+   - Operates “Halcyon Collective” (Arroyo Grande)
+   - Operates “Macadero Gardens” (Atascadero)
+   - Operates “Cleaver & Clark Commons” (Grover Beach)
+   - Operates “Rockview at Sunset” (Morro Bay)
+   - Operates “Willow Walk Senior Apartments” (Nipomo)
+   - Operates “Oak Park 1 & 2” (Paso Robles)
+   - Operates “Paso Homekey” (Paso Robles)
+   - Operates “Sunset Terrace” (Shell Beach)
+   - Operates “860 on the Wye” (SLO)
+   - Operates “The Anderson Apartments” (SLO)
+   - Operates “Apartments at Toscano” (SLO)
+   - Operates “Balay-Ko on Monterey” (SLO)
+   - Operates “Bishop Street Studios” (SLO)
+   - Operates “Courtyard at the Meadows” (SLO)
+   - Operates “Iron Works Apartments” (SLO)
+   - Operates “Madonna Road Apartments” (SLO)
+   - Operates “Marvin Gardens” (SLO)
+   - Operates “Moylan Terrace Homeownership” (SLO)
+   - Operates “SLO Villages” (SLO)
+   - Operates “South Hills Crossing” (SLO)
    - Operates “Parkwood Apartments”
-   - Operates “Willow Walk Senior Apartments”
 
 ## <a id="Housing-Now">Housing Now</a>
 
@@ -2390,6 +2410,12 @@ creston, san miguel, shandon
 - Phone: 805-782-9101
 - Hours: M–F 8am–4:30pm
 
+## <a id="SmartShare-Housing-Solutions">SmartShare Housing Solutions</a>
+
+- [smartsharehousingsolutions.org](https://www.smartsharehousingsolutions.org/)
+- Mailing address: PO Box 15034, SLO, CA 93406
+- Phone: 805-215-5474
+
 ## <a id="Social-Security-Administration">Social Security Administration</a>
 
 - [ssa.gov](https://www.ssa.gov/)
@@ -2637,7 +2663,7 @@ There are several urgent care options, including:
 - [smartsharehousingsolutions.org/co-living-collaborative](https://www.smartsharehousingsolutions.org/co-living-collaborative)
 - Location: 466 Dana St.
 - Phone: 805-215-5474
-- Notes: A project of “Smart Share Housing Solutions”
+- Notes: A project of [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions)
 
 ## We Care Foodshare
 
