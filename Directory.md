@@ -678,9 +678,10 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 ## <a id="Child-Support-Services">Child Support Services</a>
 
 - [slocounty.ca.gov/departments/child-support-services](https://www.slocounty.ca.gov/departments/child-support-services)
-- Location: 3433 S. Higuera St., SLO
+- Location: 1200 Monterey St., SLO
 - Phone: 866-901-3212
-- Hours: M-F 8am-5pm
+- Hours: M-F 8am–4:30pm
+- Email: [css@co.slo.ca.us](mailto:css@co.slo.ca.us)
 
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children's Resource Network of the Central Coast</a>
 
@@ -1685,7 +1686,8 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 ## <a id="Parent-Connection-of-SLO-County">Parent Connection of SLO County</a>
 
-- Phone: 805-543-3700
+- [sloparents.org](https://sloparents.org/)
+- Phone: 805-543-3700 (Espa&ntilde;ol: 805-540-1223)
 - Email: [info@sloparents.org](mailto:info@sloparents.org)
 - Note: operated by [**Center for Family Strengthening (CSF)**](#CSF)
 
@@ -1732,11 +1734,12 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - 805-782-8890 (SLO)
 - Email: [info@pathpoint.org](mailto:info@pathpoint.org)
 
-## <a id="Peoples-Justice-Project">People's Justice Project</a>
+## <a id="Peoples-Justice-Project">People’s Justice Project</a>
 
 - [peoplesjusticeproject.org](https://peoplesjusticeproject.org/)
 - Location: 5708 Hollister Ave., Ste. A #1033, Goleta
 - Phone: 805-242-6691
+- Email: [legal@peoplesjusticeproject.org](mailto:legal@peoplesjusticeproject.org)
 
 ## <a id="Peoples-Kitchen-GB">People’s Kitchen (Grover Beach)</a>
 
@@ -2177,9 +2180,10 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## <a id="SLO-County-Law-Library">SLO County Law Library</a>
 
 - [slocll.org](https://www.slocll.org/)
-- Location: 1050 Monterey St., Room 408, SLO
+- Location: 1050 Monterey St., Room 125, SLO
 - Phone: 805-781-5855
-- Hours: M–F 8am–5pm
+- Hours: M–W 9am–4pm, Th.–F 8:30am–1:30pm
+- Email: [info@slocll.org](mailto:info@slocll.org)
 
 ## <a id="SLO-County-Mental-Health-Services">SLO County Mental Health Services</a>
 
@@ -2319,6 +2323,7 @@ creston, san miguel, shandon
 - [slolaf.org](https://www.slolaf.org/)
 - Location: 3232 S. Higuera St. #101D, SLO
 - Phone: 805-543-5140
+- Email: [info@slolaf.org](mailto:info@slolaf.org)
 
 ## <a id="SLO-Noor-Foundation">SLO Noor Foundation</a>
 
@@ -2378,6 +2383,7 @@ creston, san miguel, shandon
 
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
+- Website: [slocounty.gov/soberingcenter](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center)
 - Location: 2180 Johnson Ave., SLO
 - Phone: 820-280-0415
 - Hours: 24/7
@@ -2632,7 +2638,7 @@ There are several urgent care options, including:
 ## <a id="Victim-Witness-Assistance-Program">Victim Witness Assistance Program</a>
 
 - [slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center](https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center)
-- Location: Courthouse Annex Room 384, SLO
+- Location: 1050 Monterey St. (Courthouse Annex Room 384), SLO
 - Phone: 805-781-5821 (toll-free: 866-781-5821)
 
 ## <a id="Vituity-Cares-Mobile-Clinic">Vituity Cares Mobile Clinic</a>

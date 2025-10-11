@@ -91,6 +91,7 @@
       1. **866-488-7386** or text **START to 678678**—Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth [Source: [thetrevorproject.org](https://www.thetrevorproject.org/get-help/)]
       1. **877-565-8860**—Trans Lifeline: Crisis hotline for transgender people [Source: [translifeline.org](https://translifeline.org/)]
       1. **838255** (text)—Veterans Crisis Text Line [Source: [veteranscrisisline.net](https://www.veteranscrisisline.net/)]
+      1. **805-545-8888**—Local sexual assault, sexual abuse, and intimate partner violence crisis line
       1. **800-799-7233**—National Domestic Violence Hotline [Source: [thehotline.org](https://www.thehotline.org/)]
       1. **800-RUNAWAY** (800-786-2929)—National Runaway Safeline: 24/7 confidential support for runaway and homeless youth [Source: [1800runaway.org](https://www.1800runaway.org/)]
       1. **805-781-1790** (M–F, 8am–5pm), or **805-729-8011** other times—Adult Protective Services;
@@ -537,6 +538,8 @@ As of October 2025 the project is still under construction and is not admitting 
 
 ## <a id="where-to-get-food">**Food**</a>
    1. **Additional Food Sources** (from [Where can I get a bite to eat?](https://docs.google.com/document/d/e/2PACX-1vSY1XYp6W_cMtOb7Y6BC-GwQuBle1SkhbFG85rVlcAPL1_9MxR6IhRAriWAvba9ICe34ZOdtEqnKDHW/pub))
+      1. **Calif. Dept. of Education Summer Meal Sites**
+         - [https://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2025&countyname=San_Luis_Obispo](https://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2025&countyname=San_Luis_Obispo)
       1. **San Luis Obispo Area**
          1. **Food Not Bombs**: Free meals
             - Location/Hours: See [**Food Not Bombs**](Directory.md#Food-Not-Bombs) in the [Directory](Directory.md)
@@ -704,6 +707,7 @@ As of October 2025 the project is still under construction and is not admitting 
    1. **Public Transit Systems**
       1. [**SLO Regional Transit Authority (RTA)**](https://www.slorta.org/)
          - Service area: Six bus routes connecting cities throughout SLO County and Northern Santa Barbara County
+         - Also several regional dial-a-ride services
          - Fares: Cash fares vary by route/distance; exact fare required; fare system changes coming Fall 2025
             - ADA-eligible passengers ride RTA fixed routes free if they have a Certificate of Eligibility (apply with RTA)
          - Location (offices)/Phone/Email: See [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) in the [Directory](Directory.md)
@@ -739,6 +743,23 @@ As of October 2025 the project is still under construction and is not admitting 
          - Programs: Commuter Club, Safe Routes to School, Mobility Management, Youth Ride Free, Rideshare Week
          - Contact: Visit SLO Regional Rideshare website at [rideshare.org](https://rideshare.org/) for current programs
          - Source: [slocog.org](https://www.slocog.org/programs/public-transportation/transit)
+      - Morro Bay [**Fixed Route**](https://www.slorta.org/schedules-fares/morro-bay-transit/), [**Call-A-Ride**](https://www.slorta.org/services/dial-a-ride/), and [**Trolley**](https://www.slorta.org/schedules-fares/morro-bay-trolley/)
+         - Phone: 805-541-2228
+      - Atascadero dial-a-ride
+         - curb-to-curb service in Atascadero city limits; wheelchair lift; bike racks.
+         - Hours: M–F 7:30am–3:30pm
+         - Phone: 805-466-7433
+         - Cost: $2.50–$8 depending on various factors
+      - Cambria Community Bus
+         - free service for seniors and people with disabilities in the Cambria/San Simeon area
+         - call one day in advance to make a reservation
+         - Phone: 805-927-4173 (Español: 805-975-5724)
+         - Hours: M–F 8am–4:30pm
+      - [Cayucos Seniors Club van](https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf)
+         - For residents of Cayucos; prioritizes transportation to medical appts. but can also sometimes handle other needs
+         - Hours: M–F 9am–4pm
+         - Make appointments 48 hours ahead of time
+         - Phone: 805-995-3543
    1. **Five Cities Senior Transportation**: [Senior Go!](https://www.sloseniorgo.org/) service for ages 65+, 805-473-3333
       - Service area: Throughout SLO County (not limited to Five Cities area)
       - Cost: $5.00 (0–20 miles) or $10.00 (20+ miles) each way
@@ -1034,6 +1055,10 @@ As of October 2025 the project is still under construction and is not admitting 
         - patient must have a U.S. Social Security Number (not a TIN)
         - patient must have commercial health insurance coverage
         - need must be documented by a physician
+   1. [**Resilient Ones**](https://www.resilientsouls.org/)
+      - Website is a little vague about what they offer, to whom, and on what terms. But it appears to be some sort of counseling and aid ("peer support groups, healing programs, and trauma-informed training") for "victims of trauma, abuse, and exploitation" in particular for victims of "human trafficking."
+      - Phone: 805-674-5056
+      - Email: info@resilientsouls.org
 
 ## <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">**Recovery, harm reduction, and other substance-related issues**</a>
    1. [**SLO County Drug & Alcohol Services**](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services)
@@ -1421,8 +1446,6 @@ As of October 2025 the project is still under construction and is not admitting 
       1. **Victim Witness Assistance Program**
           - Location/Phone: See [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) in the [Directory](Directory.md)
           - What's Available: Reduce trauma and frustration for crime victims, witnesses, and family members; inform victims of legal rights; crisis and support services; witness assistance with court appearances; link to local and state services
-          - Fax: 805-781-5828
-          - Website: [slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center](https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center)
    1. **CASA (Court Appointed Special Advocates)**
        - Location: See [**CASA**](Directory.md#CASA) in the [Directory](Directory.md)
        - What's Available: Volunteer advocates for abused and neglected children in court system
@@ -1448,12 +1471,14 @@ As of October 2025 the project is still under construction and is not admitting 
         - Additional services: Fax service, inter-library loans ($10 fee), reference assistance
    1. **SLO County Bar Association Legal Services**
         - Location/Phone/Hours: See [**SLO County Bar Association Legal Services**](Directory.md#SLO-County-Bar-Association) in the [Directory](Directory.md)
-        - **Attorney Referral Service:**
+        - [**Attorney Referral Service:**](https://slobar.org/Information-and-referral-service/)
           - What's Available: Attorney referrals matched to specific legal needs, initial 30-minute consultation included
-          - Cost: $50 administrative fee (waived for Personal Injury, Worker's Compensation, Criminal Law cases)
+          - Cost: $50 administrative fee (waived for personal injury, worker's compensation, and criminal law cases)
           - Process: Confidential phone interview → assessment → attorney referral
           - Quality assurance: All attorneys in good standing, carry malpractice insurance, meet experience requirements
           - Access: Phone interview or online request form at slobarlris.org
+          - Phone: 805-541-5502, M–Th 9am–1pm
+          - Email: LRIS@slobar.org
         - **SLO Law Line: 805-548-8884:**
           - What's Available: Free legal advice and counsel for those who cannot afford an attorney
           - Contact: 805-548-8884; telephone consultations by appointment only
@@ -1470,7 +1495,7 @@ As of October 2025 the project is still under construction and is not admitting 
         - What's Available: Advocacy for nursing home/care facility residents, complaint investigation, facility monitoring
         - Services: Help with finding residential care, complaints about facilities, advanced directive witnessing
         - Coverage: All cities in SLO County
-   1. **Child Support Services**
+   1. **Child Support Services** (SLO County program)
         - Location/Phone/Hours: See [**Child Support Services**](Directory.md#Child-Support-Services) in the [Directory](Directory.md)
         - What's Available: Locate parents, establish parentage, obtain support/health insurance orders, enforce orders, collect payments
         - Access: Online application available in English and Spanish, online payment and modification options
@@ -1500,9 +1525,9 @@ As of October 2025 the project is still under construction and is not admitting 
           - Eligibility: Available to all regardless of faith background; focus on low-income individuals
           - Source: [slocll.org/self-help-2/legal-help](https://www.slocll.org/self-help-2/legal-help/)
           - We
-       1. **[People's Justice Project](https://peoplesjusticeproject.org/)**
+       1. **[People’s Justice Project](https://peoplesjusticeproject.org/)**
           - Services: Immigration legal services, citizenship eligibility screening, U.S. citizenship applications, criminal defense, civil legal services
-          - Location/Phone: See [**People's Justice Project**](Directory.md#Peoples-Justice-Project) in the [Directory](Directory.md)
+          - Location/Phone: See [**People’s Justice Project**](Directory.md#Peoples-Justice-Project) in the [Directory](Directory.md)
           - Eligibility: Santa Barbara and San Luis Obispo County residents; free consultation available
           - Note: 501(c)(3) nonprofit providing lower-cost legal representation
        1. **Unitarian Universalist Refugee and Immigrant Services Education (UURISE)**
@@ -1530,12 +1555,17 @@ As of October 2025 the project is still under construction and is not admitting 
          - Hours: M–Th 10am–noon & 1–5pm
        1. **SLO College of Law Immigration Clinic**
          - Services: DACA renewal, U-Visa, T-Visa, VAWA-Visa, citizenship, naturalization, green card application
-         - Note: This clinic appears to be operated by Monterey College of Law; contact them to confirm services available to SLO County residents
          - Website: [montereylaw.edu/clinics/immigrationclinic.html](https://montereylaw.edu/clinics/immigrationclinic.html)
+         - Email: [mclworkshops@montereylaw.edu](mailto:mclworkshops@montereylaw.edu)
+         - Phone: 831-582-3600
          - Hours: Mondays 4–6pm by telephone or Zoom
          - Cost: $15
          - How to access: Reserve a spot [here](https://montereylaw.edu/clinics/immigrationclinic.html) or by calling 831-582-3600
          - Source: [montereylaw.edu/clinics/immigrationclinic.html](https://montereylaw.edu/clinics/immigrationclinic.html)
+   1. **Clean Slate Clinic**
+      - Joint project of People’s Justice Project, California Rural Legal Assistance, and SLO College of Law
+      - Helps people purge old criminal records to make it easier for them to get employment and housing
+      - Call 805-902-2752 or 805-242-6691 to schedule an appointment
    1. **Senior Legal Services**
       1. **Senior Legal Services Project**
          - Eligibility: Seniors aged 60 and older in SLO County
@@ -1572,6 +1602,13 @@ As of October 2025 the project is still under construction and is not admitting 
       - Eligibility: "central valley residents and seniors age 60 and over"; income below 125% (for some services 200%) of the federal poverty level (no income eligibility requirements for central valley seniors or for those seeking assistance for certain health-related matters); helps with civil cases, not criminal ones
       - Note: Central California Legal Services primarily serves Fresno, Tulare, Kings, Merced, Tuolumne, and Mariposa Counties. *Limited* services are available in SLO County through their Health Consumer Alliance partnership, specifically for healthcare access concerns only, not general civil legal services. SLO County residents should contact other legal aid organizations listed in this guide for most civil legal needs.
          - Source: [centralcallegal.org](https://centralcallegal.org/about-us/)
+   1. [**Low Income Taxpayer Clinic**](https://orfalea.calpoly.edu/low-income-taxpayer-clinic)
+      - Cal Poly students represent low-income clients, for free, in tax controversies before the IRS and U.S. Tax Court
+      - Services available in English and Spanish
+      - Location: Cal Poly SLO, building 3, room 107
+      - Hours: M–Th 9am–5pm, F 9am–1pm
+      - Phone: 877-318-6772 (Español: 805-756-5725)
+      - Email: litc@calpoly.edu
 
 ## <a id="ids-and-other-documents-how-to-obtain-replace-secure">**IDs and other documents**</a> (how to obtain, replace, secure)
    1. **Social Security Administration**
@@ -1595,9 +1632,10 @@ As of October 2025 the project is still under construction and is not admitting 
          - Cost: $32.00 per certificate
          - Who can request: Registrant, parents/legal guardians, child, grandparents, grandchildren, siblings, spouse, domestic partner, certain legal representatives, attorneys
          - How to request: In-person, online via Self-Service Portal (pickup required), by mail/fax/email (notarized for authorized copies), or through VitalChek
+         - Must have been born in SLO County
          - Processing time: 24–48 hours for mail/email/fax requests
          - ID required: Government-issued photo ID
-      - Death certificates: Similar process and costs as birth certificates
+      - Death certificates, marriage licenses: Similar process and costs as birth certificates
       - Important: Only authorized individuals receive certified copies; others get "Informational" copies that cannot establish identity
       - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates)
    1. **SLO Superior Court** (case records, background checks, divorce/adoption records, probate/wills, fines)
@@ -2163,7 +2201,7 @@ As of October 2025 the project is still under construction and is not admitting 
    1. **Adult Education and GED Programs**
       1. **San Luis Coastal Adult School**
          - Location: See [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) in the [Directory](Directory.md)
-         - Services: Adult education programs, high school diploma courses, career preparation
+         - Services: Adult education programs, high school diploma courses, career preparation, [ESL classes](https://ae.slcusd.org/hsd-esl/english-as-a-second-language)
          - Website: [ae.slcusd.org](https://ae.slcusd.org/)
       1. [**Cuesta College Continuing Education**](https://www.cuesta.edu/academics/continuinged/index.html)
          - What’s Available: *Free* California High School Equivalency Certificate (GED) test preparation classes in English and Spanish
@@ -2500,11 +2538,12 @@ As of October 2025 the project is still under construction and is not admitting 
          - Coverage: San Luis Obispo and Santa Barbara Counties
          - Website: childrensresourcenetwork.org/the-teens-closet.htm [Source: https://localwiki.org/slo/]
       1. **[5CHC Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach)**
-         - Target: Unaccompanied youth aged 16-24
+         - Target: Unaccompanied youth aged 16–24
          - Services: Case management, one-on-one support for immediate needs, housing assistance, individualized Action Plans
          - Goals: Independent living, steady employment, continued education
          - Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
    1. Children, or people with children
+      - See also [variety of pregnancy/postpartum resources here](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/pregnancy-postpartum-related-services)
       1. **[Parent Connection of SLO County](https://sloparents.org/)**
          - Services: Parenting support resources and referrals, free workshops on child development and parenting strategies, individual caregiver support, navigation assistance for specialized services
          - Target: Parents and caregivers in SLO County, professionals working with families
@@ -2512,6 +2551,8 @@ As of October 2025 the project is still under construction and is not admitting 
          - Cost: Free workshops and resources
          - Additional: Comprehensive resource directory, newsletters, social media presence (Facebook: ParentConnectionSLO, Instagram: @parentconnectionslo)
          - Note: Contact directly for specific eligibility requirements and service details [Source: [sloparents.org](https://sloparents.org/)]
+      1. **[Adventist Health](https://www.adventisthealth.org/central-coast/events)**
+         - Variety of maternity classes (e.g. breastfeeding, baby care, childbirth prep)
       1. **[Child Development Resource Center](https://www.childrensresource.org/)**
          - Target: Children ages 2–5 from traumatic circumstances including poverty, homelessness, foster care, domestic violence, child abuse
          - Services: Therapeutic early childhood education, mental health programs, school readiness curriculum, child nutrition (80% daily needs)
@@ -2558,18 +2599,38 @@ As of October 2025 the project is still under construction and is not admitting 
             - 920 West Tefft St., Nipomo; 805-474-3000 x5147
             - 1511 19th St., Oceano; 805-474-3690
          - Email: [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org)
+         - Email: [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com)
          - "Appointments are preferred; walk-ins are welcome"
          - Target: All individuals including birth/adoptive/resource families, kin-care providers, transitional aged youth, special needs population
          - History: Serving southern SLO County since 1995 [Source: https://5chc.org/]
       1. **Assistance League of San Luis Obispo County**
          - Location/Phone/Email: See [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) in the [Directory](Directory.md)
          - Mission: Transforming lives and strengthening community by addressing essential needs of children and families
-         - **Operation School Bell**: Provides new school clothing to students in need to enhance educational experience and inspire hope for brighter future
+         - [**Operation School Bell**](https://www.assistanceleague.org/San-Luis-Obispo-County/Operation-School-Bell/): Provides new school clothing to students in need to enhance educational experience and inspire hope for brighter future (get referral from school counselor or administrator?)
          - **Access to Career Education (ACE)**: Educational and career opportunities support program for students
          - Impact: Clothed 2,121 students in 2024-2025, returned over $409,000 to community through volunteer efforts
          - Philosophy: "When essential needs are met in the community, families will flourish"
          - Target: Students and families with essential needs
          - Source: [assistanceleague.org/san-luis-obispo-county](https://www.assistanceleague.org/san-luis-obispo-county/)
+      1. [**Coats for Kids of SLO County**](https://www.coatsforkidsslocounty.org/)
+         - once-a-year distribution of cold-weather clothes in Paso Robles "to qualified North County families"
+         - Phone: 805-703-1762 (Barbie Butz)
+         - Email: [coatsforkidsslocounty.org/contact](https://www.coatsforkidsslocounty.org/contact)
+      1. [**Toy Bank of Greater Paso Robles**](https://www.prtoybank.org/)
+         - Email: [info@prtoybank.org](mailto:info@prtoybank.org)
+         - [Register](https://www.prtoybank.org/registration) to get toys and clothing for children in November
+      1. **Toys for Tots**
+         - [**Atascadero/Templeton/Santa Margarita and points east**](https://Atascadero-Ca.toysfortots.org/)
+            - Email: [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org)
+            - Phone: 805-391-4430
+            - [Request a toy](https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx)
+         - [**Cambria**](https://cambria-ca.toysfortots.org/)
+            - Email: [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org)
+            - Phone: 805-927-1876
+      1. [**Christmas Bicycle Giveaway**](https://safslo.org/Childrens-bike-giveaway/)
+         - bicycles refurbished by SLO County Jail prisoners
+         - distributed by Sheriff’s Advisory Foundation to children under age 15
+         - apply for a bike by contacting the resource officer at the child’s elementary or middle school
       1. **Educational Continuity for Homeless Students (McKinney-Vento Act)**
          - Rights: School of origin attendance (remain at same school during homelessness), immediate enrollment without documents, free transportation, comparable services
          - SLO County Coordinator: Jessica Thomas, 805-782-7268, SLO County Office of Education, 3350 Education Drive, SLO
@@ -2643,6 +2704,10 @@ As of October 2025 the project is still under construction and is not admitting 
          - Cost: free for people with Medi-Cal/CenCal coverage; sliding scale otherwise
          - Refer via [this form](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/forms-documents/client-applications,-intake-forms-and-handbooks/mental-health-specific-forms/mp-referral-form) ([español](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/forms-documents/client-applications,-intake-forms-and-handbooks/mental-health-specific-forms/remision-de-martha%E2%80%99s-place))
          - Website: [slocounty.ca.gov/MarthasPlace](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center)
+      1. [**Parent Participation classes**](https://ae.slcusd.org/parent-part) (San Luis Coastal Unified School District)
+         - classes on parenting skills for people with children from birth to 5 years old.
+         - classes cost $155–225, but scholarships are available for people with low incomes or special circumstances
+         - Location/Phone: See [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) in the [Directory](Directory.md)
    1. College Students (e.g. Cuesta, Cal Poly)
       1. **[Front Porch](https://www.frontporchslo.org/)**
          - Services: Community space for Cal Poly and Cuesta students; free coffee, tea, snacks; home-cooked meal on Wednesday nights
@@ -2674,19 +2739,20 @@ As of October 2025 the project is still under construction and is not admitting 
       1. [TranzCentralCoast](https://www.tranzcentralcoast.org/)
 
 ## <a id="peer-support-groups">**Peer support groups**</a>
-   1. Al-Anon / [Nar-Anon](https://www.naranoncentralca.org/)
    1. [Caregiver Support Groups](https://stmlcottagehealthncus001.blob.core.windows.net/public/CCRC_Support_Groups_flyer_march2025.pdf)
    1. [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups)
+   1. [Parkinson support groups](https://www.myccpa.org/support-groups)
    1. [Trans Support Group](https://galacc.org/resources/#support)
    1. [LGBT Senior Social](https://galacc.org/resources/#support)
+   1. Al-Anon / [Nar-Anon](https://www.naranoncentralca.org/)
+   1. See [Where to get help with recovery, harm reduction, and other substance-related issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues) for Alcoholics Anonymous, Narcotics Anonymous, Marijuana Anonymous
    1. [Eating Disorder Support Group](https://galacc.org/resources/#support)
+   1. [Debtors Anonymous](https://debtorsanonymous.org/)
    1. [Diabetes Support Group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes)
    1. [Cancer support groups](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/cancer-support-groups) ([and](https://cscslo.org/))
    1. [Stroke support groups](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups)
-   1. [Debtors Anonymous](https://debtorsanonymous.org/)
    1. [**NAMI SLO County**](Directory.md#NAMI-SLO-County) ([support groups](https://www.namislo.org/nami-support-groups))
-   1. [Parkinson support groups](https://www.myccpa.org/support-groups)
-   1. See [Where to get help with recovery, harm reduction, and other substance-related issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues) for Alcoholics Anonymous, Narcotics Anonymous, Marijuana Anonymous
+   1. [**TMHA**](Directory.md#TMHA) ([family support groups](https://www.t-mha.org/family-support-groups.php))
 
 ## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">**Recreation, fitness, socializing, connection, religion, community integration, volunteering**</a>
    1. [Fitness Court](https://localwiki.org/slo/Fitness_Court) (free, outdoors)
