@@ -6,6 +6,12 @@
 1. [Hotlines and emergency contacts](#hotlines-and-emergency-contacts)
 1. [Self-advocacy and for communicating with service providers](#tips-on-self-advocacy-and-for-communicating-with-service-providers)
 1. [Shelter / housing](#where-to-find-shelter--housing)
+   1. [Eviction Prevention](#eviction-protection)
+   1. [Warming/Cooling Centers](#warming-cooling-centers)
+   1. [Overnight Shelter](#overnight-shelter)
+   1. [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks)
+   1. [Transitional and Long-Term Housing](#transitional-and-long-term-housing)
+   1. [Sober Living Homes](#sober-living-homes)
 1. [Property storage](#property-storage-options-short-term-day-lockers--long-term-storage-rental)
 1. [Food](#where-to-get-food)
 1. [Where to refill a water bottle](#where-to-refill-a-water-bottle)
@@ -181,7 +187,7 @@
 
 ## <a id="where-to-find-shelter--housing">**Shelter and housing**</a>
 
-### Eviction Prevention
+### <a id="eviction-protection">Eviction Prevention</a>
 If you are about to be evicted because you are unable to pay rent, or if you’ve had to move your family into a hotel, you can get immediate financial help from the [**CalWORKS Homeless Assistance Program**](Directory.md#CalWORKS) or the [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program).
 For either of these options, you must first get a referral from the [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services).
 
@@ -192,7 +198,7 @@ Contact 5CHC to arrange a confidential coordinated entry interview.
 
 > See the [Acute Financial Needs](#acute-financial-needs) section for more possible ways to get short-term financial help in a crisis.
 
-### Warming/Cooling Centers
+### <a id="warming-cooling-centers">Warming/Cooling Centers</a>
 
 Warming centers open only during unusually cold or rainy weather. They offer overnight shelter beds.
 Cooling centers open only during the day when the weather is unusually hot. They offer you an air-conditioned place where you can get out of the sun.
@@ -213,7 +219,7 @@ Pets are OK if you have proof of license/vaccinations.
 Call 805-295-1501 to verify the center is open and to learn about free transportation options to the center.
 The warming center offers a free hot meal.
 
-### Overnight Shelter
+### <a id="overnight-shelter">Overnight Shelter</a>
 If you are unsheltered and need a place to sleep tonight, these are some options:
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a hundred overnight shelter beds.
@@ -240,7 +246,7 @@ They will help you with immediate housing, supportive services and coordinated c
 You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](#Housing-Support-Program), or [**CalWORKS**](#CalWORKS).
 If you are being treated by a hospital or other medical professionals, consider telling them that you are homeless and asking them to help you with this process.
 
-### Legal Camping, Safe Parking, and RV Parks
+### <a id="camping-parking-rv-parks">Legal Camping, Safe Parking, and RV Parks</a>
 
 If you sleep in your vehicle, there are some free, legal “safe parking” spots available at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
 To register for one of these spots, first complete the intake process at the 40 Prado offices any day from 8am to 2pm.
@@ -274,7 +280,7 @@ Contact them at 805-543-0322 (M–F, 10am–4pm).
 
 Some sites have RV size limits and other restrictions.
 
-### Transitional and Long-Term Housing
+### <a id="transitional-and-long-term-housing">Transitional and Long-Term Housing</a>
 This section discusses more long-term housing options including *transitional housing* (a temporary home while you find more long-term housing) and *affordable housing* or *subsidized housing* (a long-term home).
 
 The [**Coordinated Entry System (CES)**](Directory.md#CES) is SLO county’s system for matching people in need with transitional or long-term housing that is appropriate for them.
@@ -315,28 +321,30 @@ Preference is given to SLO County residents and to veterans. Some housing is res
 You need to provide proof of income and your prior rental history.
 Most of these housing units have wait lists, and only some of them accept new applications at any time.
 
+[**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) operates several affordable housing properties in Paso Robles designed for people around the low-middle of the area income range.
+You can fill out an application on their website. If your application is accepted, you will be put on the waiting list.
+You must include copies of the latest three months’ paycheck stubs, proof of other sources of income, and a copy of your last two years’ federal income tax returns.
+You may be rejected if you have recently been evicted, have defaulted on debts, or have certain criminal convictions.
+
 [**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) operates a home ownership program for first-time low-income home buyers and home preservation assistance (minor repairs, landscaping, painting) for low-income homeowners.
 Apply via their website.
 
+[**Lumina Alliance**](Directory.md#Lumina-Alliance) operates a six- to 24-month [transitional housing program](https://luminaalliance.org/transitional-housing/) for individuals and families who are fleeing domestic violence, dating violence, sexual assault, and/or stalking.
+People housed through this program also get access to advocacy services, employment assistance, counseling, legal help, children’s services, life skills development, and help obtaining permanent housing.
+If you are homeless or in need of housing due to fleeing abusive situation, have low or very low income, and are willing to participate in Lumina’s program and to cooperate with them in following a safety plan, you may qualify for transitional housing through this program.
+
+#### For U.S. Military Veterans
 U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
 This help includes housing assistance, case management, and financial assistance; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, and utilities; legal assistance, employment counseling, housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, VA benefits assistance, landlord-tenant mediation, and future housing stability planning.
 You must have a DD214 with discharge other than dishonorable.
 
-1. **Lumina Alliance** [transitional housing program](https://luminaalliance.org/transitional-housing/)
-   - What’s Available: 6- to 24-month transitional housing program for individuals/families fleeing domestic violence, dating violence, sexual assault, and/or stalking
-   - Locations/Phone: See [**Lumina Alliance**](Directory.md#Lumina-Alliance) in the [Directory](Directory.md)
-   - Eligibility: Homeless or in need of housing due to fleeing abusive situation; low or very low income per HUD guidelines; willing to participate in program and create individualized safety plan
-   - Access: Requires referral from another Lumina Alliance program or project partners; call 24-hour crisis line for partner referrals
-   - Location: Transitional housing units in SLO County (specific locations confidential)
-   - Services include: Advocacy services, employment assistance, counseling, legal services, children's services, life skill groups, assistance obtaining permanent housing
-   - Duration: 6–24 months with minimum 3 months follow-up services after program completion
-   - Special features: Client empowerment model focused on emotional health, safe lifestyles, and economic self-sufficiency
-   - Eligibility: Open to all genders - "Everyone is welcome here" and they "accept and celebrate all genders, ethnicities, cultures, religions, ages, abilities, sexual orientations, and countries of origin" [Source: [luminaalliance.org](https://luminaalliance.org/)]
-1. [**Paso Robles Housing Authority**](https://pasoroblesha.org/)
-   - What's Available: Affordable housing properties (Oak Park 1–4, Sunrise Villas); community services including Youth Works program
-   - Access: Contact the housing authority directly for eligibility and application details
-   - Location/Phone/Email/Hours: See [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) in the [Directory](Directory.md)
-   - Source: [pasoroblesha.org](https://pasoroblesha.org/)
+The [**RVs for Veterans**](Directory.md#RVs-for-Veterans) program can get you a free RV (e.g. motorhome, travel trailer, or fifth wheel).
+These are donated by other members of the community, and are available as they are donated.
+Contact them to be put on a waiting list for the next RV.
+Priority is given to homeless veterans, veterans who receive insufficient benefits to pay rent, veterans who do not qualify for VA assistance, veterans who need to live alone because of PTSD.
+Sometimes the program also has RVs available for people who are experiencing homelessness who are not veterans.
+The RVs will be in working condition, with no leaks; you must obtain insurance.
+
 1. [**T-MHA Community Residential Housing**](https://www.t-mha.org/program-details.php?id=6)
    - What’s Available: Supportive housing for adults living with mental illness; [multiple locations](https://www.t-mha.org/housing.php); Housing services for over 300 clients annually spanning more than five cities in SLO County
    - Eligibility: Adults with mental illness needing supportive housing
@@ -352,20 +360,6 @@ You must have a DD214 with discharge other than dishonorable.
    - Location: Serves all of SLO County
    - Services include: Background screening, reference checks, interview facilitation, trial matches, ongoing support
    - Special features: Since 2017, facilitated 63 matches providing housing for 120 clients; not effective for emergency housing
-1. **[RVs for Veterans](https://hopesvillageofslo.com/programs)** (Hope's Village of SLO)
-   - What’s Available: Free RVs (motorhomes, travel trailers, fifth wheels) donated to homeless veterans
-   - Program results: 143+ RVs donated to date (80+ to local homeless veterans)
-   - Eligibility:
-       - Homeless veterans (primary focus)
-       - Veterans receiving insufficient benefits to pay rent
-       - Veterans who don't qualify for VA assistance
-       - Veterans needing to live alone due to PTSD
-       - When no veteran in need, may serve other homeless individuals (with donor approval)
-   - Phone: See [**RVs for Veterans**](Directory.md#RVs-for-Veterans) in the [Directory](Directory.md)
-   - Process: Simple direct connection between donors and veterans; donor and veteran go to DMV together to transfer title, veteran obtains insurance
-   - RV requirements: Must be registered, in good condition, no leaks, runs well (they don't repair damaged RVs)
-   - Organization: [**Hope’s Village**](Directory.md#Hopes-Village)
-   - Waitlist: More veterans currently on waitlist than available RVs
 1. [**Healing and Restoration Campus**](https://www.sloharc.org/) (formerly “Sunny Acres”)
    - What’s Available: Planned transformation to "healing and restoration campus" with education, vocational training, and social enterprises; Currently houses 30 people in recovery program
    - Eligibility: Details pending completion of transformation project
@@ -454,7 +448,7 @@ As of October 2025 the project is still under construction and is not admitting 
 [**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units and transitional housing units that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city.
 As of October 2025 the project is still under construction and is not admitting residents.
 
-### Sober Living Homes
+### <a id="sober-living-homes">Sober Living Homes</a>
 1. [**Captive Hearts**](https://www.captivehearts.org/)
    - "Christ-Centered 12 Step Ministry that provides a safe, structured living environment for women as they break free from compulsive/destructive behaviors caused by trauma, various addictions, human trafficking, and domestic violence"
    - Mailing address: PO Box 1272, Grover Beach, CA 93483
