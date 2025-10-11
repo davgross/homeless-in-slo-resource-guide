@@ -282,12 +282,15 @@ Contact them at 805-543-0322 (M–F, 10am–4pm).
 Some sites have RV size limits and other restrictions.
 
 ### <a id="transitional-and-long-term-housing">Transitional and Long-Term Housing</a>
-This section discusses more long-term housing options including *transitional housing* (a temporary home while you find more long-term housing) and *affordable housing* or *subsidized housing* (a long-term home).
+This section discusses more long-term housing options including *transitional housing* (a temporary home while you search for more long-term housing) and *affordable housing* or *subsidized housing* (a long-term home).
 
 The [**Coordinated Entry System (CES)**](Directory.md#CES) is SLO county’s system for matching people in need with transitional or long-term housing that is appropriate for them.
 If you want to get such housing, you should try to enter this system.
 This can be more effective than trying to contact the many individual transitional or long-term housing programs one at a time.
 To enter this system, contact one of the many participating agencies, such as [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter), or [**SLO County Health Department**](Directory.md#SLO-County-Health-Department).
+
+A program called [**Housing Now**](Directory.md#Housing-Now) finds homes for the most vulnerable chronically homeless people from SLO County.
+You cannot apply directly to participate in this program, but if you enter the Coordinated Entry System (see above), that system may eventually place you in this program so that you can quickly get a home.
 
 The [**Behavioral Health Bridge Housing (BHBH)**](Directory.md#BHBH) has some quality, affordable short-term (less than 90 days) and medium term (90 days to two years) housing for people in SLO county who have severe behavioral health issues who are homeless or at risk of homelessness.
 For information on the application process, how to demonstrate eligibility, and bed availability call Mark Lamore, Director of Homeless Services at [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA), at 805-540-6500.
@@ -322,17 +325,52 @@ Preference is given to SLO County residents and to veterans. Some housing is res
 You need to provide proof of income and your prior rental history.
 Most of these housing units have wait lists, and only some of them accept new applications at any time.
 
-[**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) operates several affordable housing properties in Paso Robles designed for people around the low-middle of the area income range.
+[**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) operates several affordable housing properties in Paso Robles designed for people who have around 30–60% of the area median income.
 You can fill out an application on their website. If your application is accepted, you will be put on the waiting list.
 You must include copies of the latest three months’ paycheck stubs, proof of other sources of income, and a copy of your last two years’ federal income tax returns.
 You may be rejected if you have recently been evicted, have defaulted on debts, or have certain criminal convictions.
 
-[**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) operates a home ownership program for first-time low-income home buyers and home preservation assistance (minor repairs, landscaping, painting) for low-income homeowners.
-Apply via their website.
-
 [**Lumina Alliance**](Directory.md#Lumina-Alliance) operates a six- to 24-month [transitional housing program](https://luminaalliance.org/transitional-housing/) for individuals and families who are fleeing domestic violence, dating violence, sexual assault, and/or stalking.
 People housed through this program also get access to advocacy services, employment assistance, counseling, legal help, children’s services, life skills development, and help obtaining permanent housing.
 If you are homeless or in need of housing due to fleeing abusive situation, have low or very low income, and are willing to participate in Lumina’s program and to cooperate with them in following a safety plan, you may qualify for transitional housing through this program.
+
+Adults in SLO County who live with mental illness may qualify for supportive housing in multiple county locations through the [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) [residential housing program](https://www.t-mha.org/program-details.php?id=6).
+
+The [**HomeShare SLO**](Directory.md#HomeShare-SLO) program matches property owners who have an extra room with people who need a place to live.
+They have a “reduced rent task exchange” program with which you can do 8–15 hours of work per week to get a rent reduction.
+
+[**Restorative Partners**](Directory.md#Restorative-Partners) runs a [housing program](https://restorativepartners.org/housing/) with multiple transitional housing programs for men, women, and families in various SLO County locations.
+These programs are for people in recovery from addiction and people transitioning from incarceration.
+Some are specific to women with children.
+Along with housing, residents get help with employment support, financial literacy, life skills, addiction recovery, and help finding permanent housing.
+There is a wait list.
+
+[**Salvation Army**](Directory.md#Salvation-Army) has a “Rapid Rehousing Program” that helps people find and qualify for long-term housing.
+
+The [**HouseKeys**](Directory.md#HouseKeys) program is the city of SLO’s affordable home-ownership program.
+It serves households who bring in about 30–50% of the area median income.
+Their idea of “affordable” may not be yours.
+If you want to apply for housing through this program, begin the [application process](https://www.housekeys.org/applicationprocess) described on their website.
+
+[**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) operates a home ownership program for first-time low-income home buyers and home preservation assistance (minor repairs, landscaping, painting) for low-income homeowners.
+Apply via their website.
+
+[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates a “sweat equity” homeownership program in which families help to build their own homes.
+They also operate affordable rental housing developments and supportive housing programs.
+They serve low-income families, farmworkers, seniors, veterans, people with disabilities, and formerly-homeless people.
+Contact them directly to access the program.
+
+#### For Seniors
+There are some subsidized and affordable housing options especially for seniors. These include:
+
+Parkwood Apartments, managed by [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), serves low-income (30–50% of the area media income) seniors.
+
+[**Judson Terrace**](Directory.md#Judson-Terrace), has 107 low-income affordable apartments for people aged 55 and up, and 31 low-income affordable apartments for people aged 62 and up.
+They only accept applications when the waiting list is open.
+
+[Las Brisas Retirement Community](https://www.sunshineretirementliving.com/las-brisas-independent-senior-living-san-luis-obispo-ca/) in SLO accepts Section 8 housing vouchers.
+
+You can find additional [senior housing listings](https://centralcoastseniors.org/senior-independent-housing-options/) at the [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) website.
 
 #### For U.S. Military Veterans
 U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
@@ -346,108 +384,21 @@ Priority is given to homeless veterans, veterans who receive insufficient benefi
 Sometimes the program also has RVs available for people who are experiencing homelessness who are not veterans.
 The RVs will be in working condition, with no leaks; you must obtain insurance.
 
-1. [**T-MHA Community Residential Housing**](https://www.t-mha.org/program-details.php?id=6)
-   - What’s Available: Supportive housing for adults living with mental illness; [multiple locations](https://www.t-mha.org/housing.php); Housing services for over 300 clients annually spanning more than five cities in SLO County
-   - Eligibility: Adults with mental illness needing supportive housing
-   - Access: Contact TMHA main office
-      - One source says "Residents are referred by SLO County Behavioral Health Services"; another says "Contact Housing Department at TMHA"
-   - Location/Phone/Email/Hours: See [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) in the [Directory](Directory.md)
-   - Special features: Bishop Street Studios opened in Fall 2019 in renovated former Sunny Acres building; provides trauma-informed housing services
-1. [**HomeShare SLO**](https://www.smartsharehousingsolutions.org/homeshare-slo)
-   - What’s Available: Facilitated housemate-matching program; Reduced Rent Task Exchange program (8 hours/week work for $400–500/month rent or 15 hours/week for $150/month); ADU consulting for property owners
-   - Eligibility: Primarily serves lower-income individuals, especially seniors; Reduced Rent program eliminates credit scores, income minimums, and application fees
-   - Phone: See [**HomeShare SLO**](Directory.md#HomeShare-SLO) in the [Directory](Directory.md)
-   - Access: Call for home visit and application
-   - Location: Serves all of SLO County
-   - Services include: Background screening, reference checks, interview facilitation, trial matches, ongoing support
-   - Special features: Since 2017, facilitated 63 matches providing housing for 120 clients; not effective for emergency housing
-1. [**Healing and Restoration Campus**](https://www.sloharc.org/) (formerly “Sunny Acres”)
-   - What’s Available: Planned transformation to "healing and restoration campus" with education, vocational training, and social enterprises; Currently houses 30 people in recovery program
-   - Eligibility: Details pending completion of transformation project
-   - Access: Project under development; contact information not yet available for new program
-   - Location: See [**Healing and Restoration Campus**](Directory.md#Healing-and-Restoration-Campus) in the [Directory](Directory.md)
-   - Current status: Undergoing renovations
-   - Planned features: 34 private bedrooms in renovated horseshoe building, shared facilities, focus on community integration and self-sufficiency
-   - Source: [newtimesslo.com](https://www.newtimesslo.com/news/slos-sunny-acres-could-become-a-health-campus-by-restorative-partners-and-homekey-funds-16578959)
-1. [**Restorative Partners housing program**](https://restorativepartners.org/housing/)
-   - What’s Available: Multiple transitional housing programs for men and women, including those with children, focusing on recovery and reentry support
-   - Programs:
-      - **Anna's Home** (Paso Robles): Supports 5 women and their children with employment support, job management, financial literacy, life skills, and permanent housing goals
-      - **Hope House** (Los Osos): For returning women, offers 24/7 supervision, transportation, 12-step meetings, life skills training, mentorship, outpatient treatment
-      - **Rapha House** (Los Osos): 8-bed home for men focusing on recovery from addiction, restorative justice practices, clean and sober lifestyle
-      - **LyonHeart Place** (San Luis Obispo): Men's State Parolee Reentry Housing Program with Joseph House and Francis House providing clinically structured and supportive environment
-   - Eligibility: Individuals in recovery from addiction, those transitioning from incarceration, women with children
-   - Application: Waitlist application available online at [a105342.socialsolutionsportal.com](https://a105342.socialsolutionsportal.com/apricot-intake/950f7ff1-498e-4ef7-97f1-a66068a347d3)
-   - Location/Phone/Email/Hours: See [**Restorative Partners**](Directory.md#Restorative-Partners) in the [Directory](Directory.md)
-   - Source: [restorativepartners.org](https://restorativepartners.org/housing/)
-1. [**Salvation Army**](https://www.salvationarmyusa.org/usa-western-territory/)
-   - What’s Available: Financial assistance, bill pay assistance, employment assistance, case management/referral services, permanent supportive housing, rapid rehousing, eviction prevention assistance, food pantry, utility assistance, street-level outreach (4x/week with food, supplies, hygiene kits)
-   - Rapid Rehousing Program: Supports clients through steps needed to secure permanent housing; individualized case management to work through specific issues and navigate local resources; assistance with employment applications including resume building and practice interviewing; works with 22 local landlords; helped 25+ individuals find permanent housing in 2022
-   - Rapid Rehousing Application Process: Outreach assessment with checklist to ensure readiness (obtaining birth certificates, social security cards, ID, work authorization); once documentation complete, enrollment in program begins
-   - Eligibility: People in need throughout SLO County; no discrimination
-   - Access: Financial assistance by appointment only Monday–Friday 10am–2pm; contact nearest location
-   - RRH Contact: 805-544-2401 (SLO Corps) for Rapid Rehousing program inquiries and assessment
-   - Locations/Phone: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
-   - Hours: Monday–Friday 8am–5pm (most locations)
-   - Note: Does not operate overnight emergency shelter with beds; provides housing assistance and supportive services instead
-   - Source: [caringmagazine.org](https://caringmagazine.org/how-the-salvation-army-in-san-luis-obispo-is-reaching-unhoused-people-street-level-program/)
-1. [**HouseKeys**](https://www.housekeys19.com)
-   - What’s Available: Program administrator for City of San Luis Obispo affordable housing programs; both home buyer and rental opportunities at various locations
-   - Phone/Email: See [**HouseKeys**](Directory.md#HouseKeys) in the [Directory](Directory.md)
-   - Eligibility: Income-eligible households (typically 30-50% Area Median Income)
-   - How to apply: Create account at MyHouseKeys to enter drawings and receive notifications about available units
-   - Average home price: $295,836 (as of recent listings)
-   - probably out of reach for the typical homeless person
-1. **[Housing Now](https://localwiki.org/slo/70_Now)** (Housing First Program)
-   - What’s Available: Housing and crucial services for chronically homeless people
-   - Program type: Housing First model for the most vulnerable homeless individuals
-   - Background: Previously known as "50Now" and "70 Now", focused on housing SLO County's 50 (70) most vulnerable chronically homeless individuals
-   - Target population: Chronically homeless individuals
-   - Coverage area: SLO County
-   - Qualification criteria: Must be chronically homeless, diagnosed with a disability, and have SLO County connection for at least 1 year
-   - How to qualify: Cannot apply directly - must be referred via the Coordinated Entry System (see above)
-   - Assessment process: Providers use VI-SPDAT 3.0 assessment to prioritize most vulnerable clients (highest scores first)
-   - Entry point: Contact homeless service providers to enter the Coordinated Entry System, which serves as gateway to housing assistance [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/latest-news/2025/county-of-san-luis-obispo-renews-housing-now-program-to-serve-the-community%E2%80%99s-most-vulnerable)]
-1. [**People's Self-Help Housing**](https://www.pshhc.org/)
-   - What’s Available: "Sweat equity" homeownership program where families help build their own homes; Affordable rental housing development; Supportive housing programs; Property management services
-   - Eligibility: Low-income families, farmworkers, seniors, veterans, people with disabilities, formerly homeless individuals
-   - Access: Contact main office
-   - Success record: Since 1970, built 1,200 "sweat equity" homes and over 1,600 affordable rental units; serves over 5,000 individuals currently
-   - Location/Phone/Hours: See [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) in the [Directory](Directory.md)
-   - Properties include: Tiburon Place (68 units, 34 for Coordinated Entry referrals), Sea Breeze Apartments (Los Osos), Villas at Higuera
-   1. [**Broad Street Place**](https://www.pshhc.org/property/broad-street-place/)
-      - Address: 3722 Broad Street, SLO
-      - Phone: 805-548-0932 or email [bsp@pshhc.org](mailto:bsp@pshhc.org)
-      - Units: 40 residential units (studios, 1, 2, and 3 bedrooms)
-      - Special populations: Formerly homeless individuals, veterans, disabled individuals
-      - Status: Currently at full capacity with waitlist available
-      - Management: People's Self-Help Housing
-         - See [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) in the [Directory](Directory.md)
-1. [Senior housing listings](https://centralcoastseniors.org/senior-independent-housing-options/)
-   1. **Las Brisas** (nope)
-      - Private retirement community starting at $3,100/month with no subsidies or financial assistance programs for low-income residents.
-   1. [**Parkwood Apartments**](https://www.haslo.org/)
-      - Management: Housing Authority of SLO (HASLO)
-      - Phone: See [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) in the [Directory](Directory.md)
-      - Eligibility: Low-income seniors, income limits at or below 30–50% Area Median Income
-      - Application: Contact HASLO for current availability and waiting list status
-   1. [**Judson Terrace**](Directory.md#Judson-Terrace)
-      - Location/Phone: See [**Judson Terrace**](Directory.md#Judson-Terrace) in the [Directory](Directory.md)
-      - What's Available:
-         - **Judson Terrace Homes**: 107 low-income affordable apartments for ages 55+
-         - **Judson Terrace Lodge**: 31 low-income affordable apartments for ages 62+
-      - Eligibility: Low-income seniors; HUD residents typically pay 30% of gross income for rent
-      - How to Access: Applications available only when waiting list is open; contact directly for current status
-
 #### Future Possibilities
-[**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for chronically homeless people, prioritizing for veterans, women, and elderly with little or no income.
-As of October 2025 the project is still looking for a suitable location and has been for over a decade; they are not admitting residents.
+The projects in this subsection are not yet housing people but hope to do so soon.
 
 [**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarly single seniors.
 As of October 2025 the project is still under construction and is not admitting residents.
 
 [**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units and transitional housing units that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city.
 As of October 2025 the project is still under construction and is not admitting residents.
+
+Restorative Partners is creating a [**Healing and Restoration Campus**](Directory.md#Healing-and-Restoration-Campus) near Laguna Lake in SLO, which is meant to have 34 private bedrooms and shared communal facilities.
+It will also offer job training and support.
+It is designed specifically for people reentering society from incarceration.
+
+[**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for chronically homeless people, prioritizing for veterans, women, and elderly with little or no income.
+As of October 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
 
 ### <a id="sober-living-homes">Sober Living Homes</a>
 1. [**Captive Hearts**](https://www.captivehearts.org/)
