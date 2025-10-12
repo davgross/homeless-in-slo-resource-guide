@@ -11,8 +11,9 @@
    1. [Overnight Shelter](#overnight-shelter)
    1. [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks)
    1. [Transitional and Long-Term Housing](#transitional-and-long-term-housing)
+   1. [For U.S. Military Veterans](#housing-veterans)
    1. [Sober Living Homes](#sober-living-homes)
-1. [Property storage](#property-storage-options-short-term-day-lockers--long-term-storage-rental)
+1. [Property storage](#property-storage-options)
 1. [Food](#where-to-get-food)
 1. [Where to refill a water bottle](#where-to-refill-a-water-bottle)
 1. [Transportation](#transportation)
@@ -361,28 +362,47 @@ They serve low-income families, farmworkers, seniors, veterans, people with disa
 Contact them directly to access the program.
 
 #### For Seniors
-There are some subsidized and affordable housing options especially for seniors. These include:
+There are some subsidized and affordable housing options especially for seniors (sometimes defined as age 55 and above, or as 62 and above). These include:
 
-Parkwood Apartments, managed by [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), serves low-income (30–50% of the area media income) seniors.
+* [Cortina d’Arroyo Grande Senior Apartments](https://cortinadarroyograndeseniorapts.com/) (241 N. Courtland Ave., Arroyo Grande) — 805-489-6888
+* Parkview Manor (365 South Elm St., Arroyo Grande) — 805-489-5101
+* [**Judson Terrace**](Directory.md#Judson-Terrace), has 107 low-income affordable apartments for people aged 55 and up, and 31 low-income affordable apartments for people aged 62 and up. They only accept applications when the waiting list is open.
 
-[**Judson Terrace**](Directory.md#Judson-Terrace), has 107 low-income affordable apartments for people aged 55 and up, and 31 low-income affordable apartments for people aged 62 and up.
-They only accept applications when the waiting list is open.
+[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) operates the following affordable senior housing rental properties:
 
-[Las Brisas Retirement Community](https://www.sunshineretirementliving.com/las-brisas-independent-senior-living-san-luis-obispo-ca/) in SLO accepts Section 8 housing vouchers.
+* Atascadero Senior Apartments (9705 El Camino Real, Atascadero)
+* Willow Walk Apartments (167 Mary St., Nipomo)
+* Anderson Hotel (995 Monterey St., SLO)
+* Carmel Street Apartments (1312 Carmel, SLO)
+* Del Rio Terrace (1345 Ella St., SLO)
+
+[**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) operates the following affordable senior housing rental properties:
+
+* Chet Dotter (801 28th St., Paso Robles)
+
+[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates the following affordable senior housing rental properties:
+
+* Cawelti Court (351 South Elm St., Arroyo Grande) — 805-474-9034
+* Ocean View Manor (456 Elena St., Morro Bay) — 805-772-1921
+* Oceanside Gardens (2612 Elm St., Morro Bay) — 805-772-3387
+* Creekside Garden Apartments (401 Oak Hill Rd., Paso Robles) — 805-237-1509
+* Los Robles Terrace (2940 Spring St., Paso Robles) — 805-239-1081
+* Templeton Place (1009 & 1035 Petersen Ranch Rd., Templeton) — 805-434-2953
+
+Additional affordable housing options for seniors with Section 8 vouchers include:
+
+* Morro del Mar Senior Apartments (555 Main St., Morro Bay) — 805-225-1837
+* Villa Paseo Palms (2800 Ramada Dr., Paso Robles) — 805-227-4588
+* [Las Brisas Retirement Community](https://www.sunshineretirementliving.com/las-brisas-independent-senior-living-san-luis-obispo-ca/) (SLO)
+
+Additional affordable housing options for disabled / handicapped seniors can be found at:
+
+* California Manor (10165 El Camino Real, Atascadero) — 805-466-0759
+* Hacienda Del Norte (529 10th St., Paso Robles) — 805-238-5793
+* Brizzolara St. Apartments (611 Brizzolara, SLO)
+* Marvin Garden (1106 Laurel Lane, SLO)
 
 You can find additional [senior housing listings](https://centralcoastseniors.org/senior-independent-housing-options/) at the [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) website.
-
-#### For U.S. Military Veterans
-U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
-This help includes housing assistance, case management, and financial assistance; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, and utilities; legal assistance, employment counseling, housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, VA benefits assistance, landlord-tenant mediation, and future housing stability planning.
-You must have a DD214 with discharge other than dishonorable.
-
-The [**RVs for Veterans**](Directory.md#RVs-for-Veterans) program can get you a free RV (e.g. motorhome, travel trailer, or fifth wheel).
-These are donated by other members of the community, and are available as they are donated.
-Contact them to be put on a waiting list for the next RV.
-Priority is given to homeless veterans, veterans who receive insufficient benefits to pay rent, veterans who do not qualify for VA assistance, veterans who need to live alone because of PTSD.
-Sometimes the program also has RVs available for people who are experiencing homelessness who are not veterans.
-The RVs will be in working condition, with no leaks; you must obtain insurance.
 
 #### Future Possibilities
 The projects in this subsection are not yet housing people but hope to do so soon.
@@ -400,14 +420,34 @@ It is designed specifically for people reentering society from incarceration.
 [**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for chronically homeless people, prioritizing for veterans, women, and elderly with little or no income.
 As of October 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
 
+### <a id="housing-veterans">For U.S. Military Veterans</a>
+U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
+This help includes housing assistance, case management, and financial assistance; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, and utilities; legal assistance, employment counseling, housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, VA benefits assistance, landlord-tenant mediation, and future housing stability planning.
+You must have a DD214 with discharge other than dishonorable.
+
+The [**RVs for Veterans**](Directory.md#RVs-for-Veterans) program can get you a free RV (e.g. motorhome, travel trailer, or fifth wheel).
+These are donated by other members of the community, and are available as they are donated.
+Contact them to be put on a waiting list for the next RV.
+Priority is given to homeless veterans, veterans who receive insufficient benefits to pay rent, veterans who do not qualify for VA assistance, veterans who need to live alone because of PTSD.
+Sometimes the program also has RVs available for people who are experiencing homelessness who are not veterans.
+The RVs will be in working condition, with no leaks; you must obtain insurance.
+
 ### <a id="sober-living-homes">Sober Living Homes</a>
-1. [**Captive Hearts**](https://www.captivehearts.org/)
-   - "Christ-Centered 12 Step Ministry that provides a safe, structured living environment for women as they break free from compulsive/destructive behaviors caused by trauma, various addictions, human trafficking, and domestic violence"
-   - Mailing address: PO Box 1272, Grover Beach, CA 93483
-   - Phone: 805-481-4500
-   - Email: info@captivehearts.org
+[**SLO Hub**](Directory.md#SLO-Hub) helps you find a residential (live-in) recovery program that’s right for you, and can pay the deposit and rent for the opening months of your residency if you cannot afford it or if your insurance does not cover it.
+Here are some residential treatment options in our area:
+
+* [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only.
+* [**Casa Solana**](Directory.md#Captive-Hearts) (Grover Beach) for women only. (Also known as “Sunshine House.”)
+* [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only.
+* [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) for men only.
+* [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) for women only.
+* [**Middlehouse**](Directory.md#Middlehouse) (SLO) for men only.
+* [**Sun Street Centers**](Directory.md#Middlehouse) (SLO) for men only.
 
 ### Other/Uncategorized
+
+[This](https://static1.squarespace.com/static/538622a1e4b0eca47fbe761f/t/67942a70fe553b6a69db2ec3/1737763441403/Affordable+Housing+by+City_SLOCounty.1.24.25.pdf) sheet lists affordable housing units in SLO county. Some belong in the sections above (they accept section 8 vouchers and/or cap rent based on income; some are for seniors only).
+
 1. **Goodwill Central Coast**
    - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they "Can provide assistance with... housing" but I was unable to find more about this on Goodwill's own website.
      - Note: Unable to verify housing assistance claim through Goodwill Central Coast's website (as of September 2025); contact Goodwill directly to inquire about housing-related services
@@ -416,76 +456,31 @@ As of October 2025 the project is still looking for a suitable location (and has
    - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education; helps families navigate the social services system and provides linkages to community partners for homeless services
    - Source: [linkslo.org](https://linkslo.org/)
 
-## <a id="property-storage-options-short-term-day-lockers--long-term-storage-rental">**Property storage options**</a> (short-term & long-term)
-   1. **Homeless Service Centers with Storage/Lockers**
-      1. **40 Prado Homeless Services Center**
-         - What’s Available: Storage lockers for participants
-         - Eligibility: Open to individuals and families experiencing homelessness who have completed intake for day services; not restricted to shelter residents
-         - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-         - Other Services: Day services include showers, meals, laundry, phone access, and case management
-         - Note: Details about storage locker size, duration policies, and document storage services not available in online sources—contact 40 Prado for specific storage policies and availability
-         - Source: [capslo.org/40-prado](https://capslo.org/40-prado/)
-   1. **Short-term Daily Storage/Luggage Services**
-      1. **Bounce Luggage Storage**
-         - What’s Available: Short-term luggage storage at various locations
-         - Cost: From $6.90/day (flat rate for 24 hours) [Source: [bounce.com](https://bounce.com/)]
-         - What can be stored: Luggage, backpacks, gym bags, personal belongings
-         - Benefits: Multiple locations throughout SLO
-         - I used their search feature and found 3 locations in SLO, one in Pismo, one in A.G.; they seem to all be "UPS Stores"
-            - These locations also offer monthly storage for $20–80 per month, depending on the weight and size.
-            - *Note*: These are Bounce storage services located at UPS Store locations, not UPS Store-operated storage. For UPS Store mailbox services (not storage units), contact locations at 793 E Foothill Blvd (805-541-9333), 1241 Johnson Ave (805-541-1334), or 3940 Broad St (805-549-0200) [Source: [locations.theupsstore.com](https://locations.theupsstore.com/ca/san-luis-obispo)]
-   1. **Bike Storage Lockers (Personal Items Only with Bike)**
-      - Note: Unable to locate other BikeLink or similar secure bike locker systems in Five Cities area; for bike storage in these areas, consider general self-storage facilities like Beach Area Storage or Monarch Mega Storage
-      1. **City of SLO BikeLink Lockers**
-         - Locations: Morro Street in Downtown SLO, Curbaril Park'n'Ride, Cal Poly campus
-         - Cost: $0.05 per hour
-         - Rental period: Up to 7 consecutive days maximum
-         - Access: BikeLink App required for access
-         - App requirements: Smartphone with BikeLink app (iOS/Android), valid credit/debit card for payment, account setup with email and phone verification
-         - Security: Camera monitored
-         - Limitation: For bicycles only
-         - Source: [rideshare.org](https://rideshare.org/bike-lockers/), [bikelink.org](https://www.bikelink.org/help/faq)
-   1. **Long-term Self Storage**
-      - Note: maybe just give tips for web-searches and some general discussion of typical prices, policies, etc. rather than trying to be the yellow pages here.
-      1. **SLO Self Storage**
-         - Location/Phone/Hours: See [**SLO Self Storage**](Directory.md#SLO-Self-Storage) in the [Directory](Directory.md)
-         - Services: 1,000 units, month-to-month rentals, drive-up and indoor units
-         - Security: 24-hour video monitoring, secure access gates
-         - Source: [slostorage.com](https://www.slostorage.com/)
-      1. Affordable Storage Options in SLO
-         - Price range: Units starting from $19–25/month for smallest sizes
-         - Average pricing: $151.57 average for SLO area
-         - Small units: 5x5 units available from $73–95/month
-         - Budget facilities: **Derrel's Mini Storage** (3650 Broad St)—units from $73
-         - **Mission Storage Centers**: 5x5 units for $95, 10x10 units for $150
-         - Sources: [sparefoot.com](https://www.sparefoot.com/San-Luis-Obispo-CA-self-storage.html), [selfstorage.com](https://www.selfstorage.com/self-storage/california/san-luis-obispo/)
-      1. **Mr. Storage (Two Locations)**
-         - Oceano location: 1530 Railroad Street, Oceano
-         - Grover Beach location: 190 N 2nd Street, Grover Beach
-         - Unit sizes: 50-200 square feet available
-         - Cost: Starting from $78/month in Grover Beach
-         - Amenities: Drive-up access, first floor access, gated premises, on-site manager, security cameras
-         - Source: [mrstoragefivecities.com](https://www.mrstoragefivecities.com/)
-      1. **Pismo Beach Self Storage**
-         - Location: 100 Five Cities Drive, Pismo Beach
-         - Service area: Serves all Five Cities plus SLO
-         - Convenience: 0.5 miles from Pismo Beach, near Highway 101
-         - Source: [getepicstorage.com](https://www.getepicstorage.com/100-five-cities-dr-pismo-beach-ca-93449)
-      1. **Five Cities Storage**
-         - Location: 1425 South 4th Street, Oceano
-         - Service area: Oceano and surrounding Five Cities area
-         - Source: [rentcafe.com](https://www.rentcafe.com/storage/ca/oceano/five-cities-storage-1425-south-4th-street/default.aspx)
-      1. Budget Options in Five Cities
-         - Starting prices: From $25/month for smallest units
-         - Grover Beach area: Units starting at $70/month
-         - Location/Phone/Email: See [**Beach Area Storage**](Directory.md#Beach-Area-Storage) in the [Directory](Directory.md)
-      1. Important Notes for People Experiencing Homelessness
-         - Month-to-month options: Most facilities offer flexible monthly rentals without long-term contracts
-         - Smallest units: 5x5 units are most affordable option for essential belongings
-         - Budget planning: Expect $70–100/month for smallest storage units in the area
-         - Access considerations: Most facilities have gate hours (typically 7am–7pm range)
-         - Required documentation: Valid ID typically required for rental agreements
-         - Payment options: Contact facilities directly about payment methods and assistance programs
+## <a id="property-storage-options">**Property storage options**</a>
+
+### Short-Term
+
+If you need to securely store a small amount of property for a few hours or overnight, you have a few options:
+
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available for people who have completed intake for day services there.
+<!-- To-do: need more details about who can use these lockers, under what conditions, and what size the lockers are; do they also offer document storage? -->
+
+The commercial service [Bounce](https://bounce.com/) partners with multiple locations (in SLO County, these are typically UPS Stores) to offer short-term luggage storage that typically runs about $7 per day or $20–80 per month (depending on weight and size).
+You can find the specific locations, terms and conditions, and costs at their website.
+
+In a few locations in SLO County (Morro St. in SLO, at Cal Poly, and at the Curbaril Park-n-Ride in Atascadero) you can find [on-demand bike lockers](https://rideshare.org/bike-lockers/).
+These cost 5¢ per hour and can be rented for up to seven consecutive days.
+Use the [BikeLink](https://www.bikelink.org/) app to access and pay for these lockers.
+They are for bicycles only (you cannot use them to store other personal belongings like carts or suitcases), but you can probably get away with storing pannier bags along with your bicycle.
+
+### Long-Term
+
+There are several commercial long-term storage options in SLO County.
+You can find these by doing a web search for terms like “self storage” or “mini storage”.
+They typically rent spaces by the month, and have different-sized units available at different prices.
+5′×5′, 5′×10′, and 10′×10′ units are typical.
+You can expect to pay about $60–75 per month for the least-expensive and smallest sizes, up to $150 for larger sizes.
+Most storage facilities have daytime hours of operation when you can access the storage units to add or remove property, and are closed to everyone at night.
 
 ## <a id="where-to-get-food">**Food**</a>
    1. **Additional Food Sources** (from [Where can I get a bite to eat?](https://docs.google.com/document/d/e/2PACX-1vSY1XYp6W_cMtOb7Y6BC-GwQuBle1SkhbFG85rVlcAPL1_9MxR6IhRAriWAvba9ICe34ZOdtEqnKDHW/pub))

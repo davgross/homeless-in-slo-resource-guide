@@ -488,7 +488,9 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 ## <a id="Casa-Solana">Casa Solana</a>
 
 - [casasolanainc.org](http://casasolanainc.org/)
+- Location: Grover Beach
 - Phone: 805-481-8555 (9am–4pm)
+- Notes: also known as “Sunshine House”
 
 ## <a id="Catholic-Charities">Catholic Charities</a>
 
@@ -1687,7 +1689,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## <a id="Parent-Connection-of-SLO-County">Parent Connection of SLO County</a>
 
 - [sloparents.org](https://sloparents.org/)
-- Phone: 805-543-3700 (Espa&ntilde;ol: 805-540-1223)
+- Phone: 805-543-3700 (Español: 805-540-1223)
 - Email: [info@sloparents.org](mailto:info@sloparents.org)
 - Note: operated by [**Center for Family Strengthening (CSF)**](#CSF)
 
@@ -2366,13 +2368,6 @@ creston, san miguel, shandon
 - Email: [info@slorta.org](mailto:info@slorta.org)
 - Hours (office): M–Th 8am–4pm; Friday by appointment only
 - Notes: Also operates “Runabout Paratransit,” “Senior Go! Shuttle,” and “Dial-A-Ride”
-
-## <a id="SLO-Self-Storage">SLO Self Storage</a>
-
-- [slostorage.com](https://www.slostorage.com/)
-- Location: 154 Suburban Road, SLO
-- Phone: 805-546-9788
-- Hours: Office 8am–5pm (closed 12pm–1pm), Gate access 7am–6:50pm daily
 
 ## <a id="SLO-Senior-Center">SLO Senior Center</a>
 
