@@ -1463,10 +1463,15 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 ## <a id="Loaves-and-Fishes">Loaves & Fishes</a>
 
+- [loavesandfishespaso.org](https://loavesandfishespaso.org) (Paso Robles)
+- [alffoodpantry.org](https://alffoodpantry.org/) (Atascadero)
 - Locations:
    - 5411 El Camino Real, Atascadero
    - 2650 Spring St., Paso Robles
-- Phone: 805-238-4742
+- Phone:
+   - 805-461-1504 (Atascadero)
+   - 805-238-4742 (Paso Robles)
+- Email: [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org) (Atascadero)
 - Hours:
    - Atascadero: M–F 1pm
    - Paso Robles: M–Th Noon–2pm, every 3rd Th 5:30–7pm

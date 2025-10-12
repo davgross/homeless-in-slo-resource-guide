@@ -1,11 +1,44 @@
 # Surviving Homelessness in SLO
 
+This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
+It is specific to San Luis Obispo County.
+
+The guide is organized into pages by topics like “Shelter and housing” or “Food”.
+Each page briefly describes resources available in San Luis Obispo County.
+Many of these resources contain boldface links to our [Directory](Directory.md).
+This Directory page lists resources in alphabetical order, along with information like the website, phone number, email address, location, and operating hours of the resource.
+If you find a resource in the guide that seems it will be useful to you, click the boldface link to go to the directory and find out how to access that resource.
+
+San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
+Nearly one in four homeless people in the United States lives in California.
+California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people.
+(In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, meaning that the county has the third highest percentage of unsheltered homelessness in the U.S.)
+The city of San Luis Obispo is one of top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have in order to afford to buy a home.
+10% of schoolchildren in SLO County are homeless.
+
+Why are things especially difficult here?
+There are many reasons, but the most important ones can be summed up by “too few homes for the number of people who need them.”
+The reasons why that is a problem are complicated, but include government policies that discourage homebuilding and make it more expensive, and resource constraints.
+
+Fortunately, there is a lot of help available to people experiencing or threatened with homelessnes in SLO County.
+Unfortunately, it can be difficult to discover this help or to understand how to access it.
+We hope this guide will make it easier.
+
+This guide was developed by volunteers from the [**Shower the People**](Directory.md#Shower-the-People).
+If you would like to make corrections or suggestions for improvement, or if you would like to join our development team, reach out to us at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
+
+<!-- Special thanks to Laurel Woodson & Mark Grayson for initial funding - (Assuming we rely on those funds) -->
+
+| **External links** |
+| ------------------ |
+| <ul><li>[San Luis Obispo County Community Report 2024](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport): A summary of the results of the 2024 “Point-in-Time Count” census of homeless people in SLO County.</li><li>[Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard): The SLO County Department of Social Services’s summary of the ongoingwork of homeless management agencies.</li><li>[The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness): As adopted by the county Board of Supervisors</li><li>[Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California)</li></ul> |
+
+
 ## Table of Contents
 
-1. [Introduction](#introduction)
 1. [Hotlines and emergency contacts](#hotlines-and-emergency-contacts)
-1. [Self-advocacy and for communicating with service providers](#tips-on-self-advocacy-and-for-communicating-with-service-providers)
-1. [Shelter / housing](#where-to-find-shelter--housing)
+1. [Self-advocacy and communicating with service providers](#tips-on-self-advocacy-and-for-communicating-with-service-providers)
+1. [Shelter and housing](#where-to-find-shelter--housing)
    1. [Eviction Prevention](#eviction-protection)
    1. [Warming/Cooling Centers](#warming-cooling-centers)
    1. [Overnight Shelter](#overnight-shelter)
@@ -14,21 +47,68 @@
    1. [For U.S. Military Veterans](#housing-veterans)
    1. [Sober Living Homes](#sober-living-homes)
 1. [Property storage](#property-storage-options)
+   1. Short-Term
+   1. Long-Term
 1. [Food](#where-to-get-food)
 1. [Where to refill a water bottle](#where-to-refill-a-water-bottle)
 1. [Transportation](#transportation)
+   1. Public Transit
+   1. For Seniors
+   1. Transportation to Medical Appointments
+   1. Bicycles
+   1. Automobile Insurance and Repair
 1. [Clothing](#where-to-find-free-or-thrift-store-clothing)
+   1. Free Clothing
+   1. Free Clothing for Kids
+   1. Thrift Stores
 1. [Laundry](#laundry)
 1. [Showers and hygiene](#showers-and-hygiene)
+   1. Free Shower Programs
+   1. Coin-Operated or Gym Membership Options
 1. [Health, medical care](#health-medical-care)
+   1. Emergency Care
+   1. Urgent Care
+   1. Health Insurance
+   1. Transportation to Medical Appointments
+   1. Medical and Assistive Devices
+   1. Prescription Medicines
+   1. Dental Care
+   1. Vision Care and Eyeglasses
+   1. Mental Health
+   1. Reproductive Health, Pregnancy, Childbirth, Lactation
+   1. Chiropractic Treatment
+   1. Resources for Specific Populations
 1. [Recovery, harm reduction, and other substance-related issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
+   1. Naloxone / Narcan
+   1. Tobacco / Nicotine
+   1. 12-Step and Similar Recovery Programs
+   1. Sober Living Homes and Residential Treatment Options
 1. [Tattoo removal](#tattoo-removal)
 1. [End-of-life care, advance directives, hospice](#end-of-life-care-advance-directives-hospice)
+   1. Hospice and Palliative Care
+   1. Advanced Care Directives and Legal Planning
 1. [Personal safety, deescalation, self-defense](#personal-safety-deescalation-self-defense)
 1. [Legal help & mediation, crime victim protection](#legal-help--mediation-crime-victim-protection)
+   1. Help for Convicts, Parolees, Probationers, P.C. 290 Registrants, Etc.
+   1. Housing Discrimination, Illegal Eviction, Etc.
+   1. Help with Benefits, Negotiating with Insurers, Etc.
+   1. Reliable “Know Your Rights” Information
+   1. Injury Liability, Worker’s Compensation
+   1. Consumer Protection
+   1. Help for Victims of Crime
+   1. Mediation
+   1. Legal Self-Help / Law Libraries
+   1. Legal Consultation
+   1. Family Law, Child Support
+   1. Immigration Law
+   1. Tax Disputes
+   1. Miscellany
 1. [IDs and other documents](#ids-and-other-documents-how-to-obtain-replace-secure)
 1. [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc)
 1. [Banking and money management](#banking-and-money-management)
+   1. Banks, Credit Unions, Etc.
+   1. Financial Literacy and Money Management
+   1. Debt Consolidation
 1. [Tax preparation](#tax-preparation)
 1. [Acute financial needs](#acute-financial-needs)
 1. [Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
@@ -38,6 +118,13 @@
 1. [Internet access / email / digital access](#internet-access--email--digital-access-assistance)
 1. [Charging stations for devices](#charging-stations-for-devices)
 1. [Resources for particular subgroups](#resources-specific-to-particular-subgroups)
+   1. Veterans
+   1. Children and People with Children
+   1. College Students
+   1. Immigrants
+   1. Seniors
+   1. Prople with Specific Disabilities and Conditions
+   1. GLBTQ
 1. [Peer support groups](#peer-support-groups)
 1. [Recreation, fitness, connection, religion](#recreation-fitness-socializing-connection-religion-community-integration-volunteering)
 1. [Pet care and pet supplies](#pet-care-and-pet-supplies)
@@ -47,36 +134,6 @@
 1. [Other guides, web pages, information sources](#other-guides-web-pages-information-sources)
 1. [Miscellaneous tips](#miscellaneous-tips)
 1. [Directory](Directory.md)
-
----
-
-## <a id="introduction">**Introduction**</a>
-   1. Being homeless in SLO; why it’s so challenging to get a place
-      - Sources and additional details for homelessness statistics: [wikipedia.org](https://en.wikipedia.org/wiki/Homelessness_in_California), [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311793858.html), [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division) for local statistics and context
-      1. homelessness is especially widespread in California
-         - there are many reasons for this, but the most important ones can be summed up by "too few houses for the number of people"
-         - the reasons why *that* is a problem are complicated; many are policy decisions that prioritize other things over affordable housing, others have to do with resource scarcity
-         - policymakers are flailing and are more interested in making non-homeless stakeholders happy than in helping homeless people, so don't expect much help from them
-      1. housing is crazy-expensive and in short supply
-         - there's a statewide housing shortage
-         - housing is particularly expensive in the SLO area
-         - SLO & Santa Maria are in the top ten cities in the U.S. for how much income (relative to the median income) you must have to afford to buy a home
-         - In SLO County, a single adult living alone needs to earn at least $55,234 a year in order to cover the cost of basic living expenses. [Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311793858.html)]
-         - 10% of schoolchildren in SLO County are homeless, more than 3,000 children. [sanluisobispo.com](https://www.sanluisobispo.com/news/local/education/article311681975.html)
-      1. more homeless people in SLO are unsheltered than in most places
-         - there are enough shelter beds for about 20–30% of those who are known to be homeless in SLO County
-         - SLO "county has the third highest percentage of unsheltered homelessness in the United States"
-      - See [en.wikipedia.org/wiki/Homelessness_in_California](https://en.wikipedia.org/wiki/Homelessness_in_California) for some of these stats
-   1. But there’s lots of help available (from individuals, informal organizations, nonprofits, government contractors, government agencies) — though it can be hard to get a good view of the helping landscape (this guide helps)
-   1. How to use this guide
-   1. What regions this guide covers / doesn’t cover
-      - Covers SLO & Five-Cities area (Pismo Beach, Arroyo Grande, Oceano, Grover Beach, and Shell Beach)
-      - Note: if the county or county agencies decide to sponsor this guide, we might expand coverage to the whole county
-   1. How to make suggestions or corrections for future editions
-   1. How your agency can order bulk copies
-   1. Where to find a PDF on-line
-   1. Special thanks to Laurel Woodson & Mark Grayson for initial funding
-      - (Assuming we rely on those funds for our initial print run)
 
 ## <a id="hotlines-and-emergency-contacts">**Hotlines and emergency contacts**</a>
    1. **Emergency and Crisis Lines**
@@ -650,267 +707,274 @@ Most storage facilities have daytime hours of operation when you can access the 
    1. Note: There's a lot of speculation here. It would be better to verify precise locations. We can give general advice that public parks often have water fountains, I suppose.
 
 ## <a id="transportation">**Transportation**</a>
-   1. **Public Transit Systems**
-      1. [**SLO Regional Transit Authority (RTA)**](https://www.slorta.org/)
-         - Service area: Six bus routes connecting cities throughout SLO County and Northern Santa Barbara County
-         - Also several regional dial-a-ride services
-         - Fares: Cash fares vary by route/distance; exact fare required; fare system changes coming Fall 2025
-            - ADA-eligible passengers ride RTA fixed routes free if they have a Certificate of Eligibility (apply with RTA)
-         - Location (offices)/Phone/Email: See [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) in the [Directory](Directory.md)
-         - Route maps: Available at [www.slorta.org/schedules-fares/](https://www.slorta.org/schedules-fares/) for individual routes
-      1. [**Runabout Paratransit**](https://www.slorta.org/services/runabout-paratransit/)
-         - Service: County-wide ADA complementary paratransit for people unable to use fixed-route buses due to disability
-         - Eligibility: Requires completed application and in-person interview; decision within 21 days
-         - Service area: Within ¾ mile of RTA fixed routes during same days/hours
-         - RTA fixed routes: Routes 9 (SLO-San Miguel), 10 (SLO-Santa Maria), 12 (Los Osos/Morro Bay-SLO), 15 (Morro Bay-San Simeon), plus South County Routes 21, 24, 27, 28 and local Paso Robles/Morro Bay loops
-         - Source: [slorta.org](https://www.slorta.org/services/fixed-route-buses/)
-         - Booking: Advanced reservations up to 7 days prior (by 5pm previous day)
-         - Cost: ADA-eligible passengers ride RTA fixed routes free with Certificate of Eligibility; Runabout paratransit fares $2.50–$11 each way (double fixed-route fare)
-         - Companions: One free personal care attendant; additional companions pay full fare
-         - Application: Call 805-781-4833 or visit 253 Elks Lane, SLO (Mon–Thu 8am–4pm, Fri by appt)
-      1. [**SLO Transit**](https://www.slocity.org/government/department-directory/public-works/slo-transit-bus)—City of SLO
-         - Service area: 10 bus routes within SLO city limits and Cal Poly, 162 bus stops total
-         - Special service: Old SLO Trolley downtown and upper Monterey (Thursday–Sunday, seasonal)
-         - Location (office)/Phone/Email: See [**SLO Transit**](Directory.md#SLO-Transit) in the [Directory](Directory.md)
-         - Source: [slocity.org](https://www.slocity.org/government/department-directory/public-works/slo-transit)
-         - Note: schedule adjusts to academic calendar; probably best not to try to reproduce schedule/maps but refer readers to authoritative source
-      1. [**SLO Regional RideShare**](https://rideshare.org/) for carpooling and door-to-door services
-         - What’s Available: Free online ridematching system (iRideshare), emergency ride home ($4 for registered users), carpool coordination, vanpooling
-         - Ridematching: System matches commuters based on proximity, destination, travel route, schedules, and preferences to find carpools, vanpools, transit, bike or walking options
-         - Registration: Create free account at [iRideshare.org](https://irideshare.org/); benefits include emergency ride home service, rewards/prizes for trip logging, enhanced matching
-         - Source: [rideshare.org](https://rideshare.org/ridematching/)
-         - Contact: 805-781-4462, San Luis Obispo
-         - Coverage: SLO County-wide transportation alternatives
-      - **SLO County Council of Governments (SLOCOG) Transportation Programs**
-         - VIP Pass for Seniors 80+: Free pass allowing rides on all fixed route bus systems in SLO County; requires one-page application and photo
-         - Regional Day Pass: Allows riding SLO Transit, RTA, SCT, Paso Express and North County Shuttle routes with one pass
-         - Free Transit Programs: SLOCOG occasionally organizes "No Fare, Anywhere" initiatives during Regional Rideshare Week to allow residents to try transit for free
-         - Discounted Rail Program: Partnership with LOSSAN offering 75% discount on 10-ride and monthly Amtrak Pacific Surfliner passes between SLO city, Grover Beach, and Guadalupe (as of May 2025)
-         - Programs: Commuter Club, Safe Routes to School, Mobility Management, Youth Ride Free, Rideshare Week
-         - Contact: Visit SLO Regional Rideshare website at [rideshare.org](https://rideshare.org/) for current programs
-         - Source: [slocog.org](https://www.slocog.org/programs/public-transportation/transit)
-      - Morro Bay [**Fixed Route**](https://www.slorta.org/schedules-fares/morro-bay-transit/), [**Call-A-Ride**](https://www.slorta.org/services/dial-a-ride/), and [**Trolley**](https://www.slorta.org/schedules-fares/morro-bay-trolley/)
-         - Phone: 805-541-2228
-      - Atascadero dial-a-ride
-         - curb-to-curb service in Atascadero city limits; wheelchair lift; bike racks.
-         - Hours: M–F 7:30am–3:30pm
-         - Phone: 805-466-7433
-         - Cost: $2.50–$8 depending on various factors
-      - Cambria Community Bus
-         - free service for seniors and people with disabilities in the Cambria/San Simeon area
-         - call one day in advance to make a reservation
-         - Phone: 805-927-4173 (Español: 805-975-5724)
-         - Hours: M–F 8am–4:30pm
-      - [Cayucos Seniors Club van](https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf)
-         - For residents of Cayucos; prioritizes transportation to medical appts. but can also sometimes handle other needs
-         - Hours: M–F 9am–4pm
-         - Make appointments 48 hours ahead of time
-         - Phone: 805-995-3543
-   1. **Five Cities Senior Transportation**: [Senior Go!](https://www.sloseniorgo.org/) service for ages 65+, 805-473-3333
-      - Service area: Throughout SLO County (not limited to Five Cities area)
-      - Cost: $5.00 (0–20 miles) or $10.00 (20+ miles) each way
-         - Note: Unable to find specific low-income subsidies for this service; contact 805-473-3333 or [**SLOCOG**](Directory.md#SLOCOG) to inquire about financial assistance
-      - Schedule: Monday–Friday 7am–5pm, Saturday 10am–3pm (closed major holidays)
-      - Reservations: Up to 4 round trips per month; call 805-473-3333 to book
-      - Uses: Medical appointments, grocery stores, personal visits within county boundaries
-   1. [**Dial-A-Ride & Senior Go! Shuttle**](https://www.slorta.org/services/dial-a-ride/)
-      - Service: Origin-to-destination transportation within local communities; no set timetables; curb-to-curb service
-      - Coverage areas: Paso Robles & Shandon, Templeton, Atascadero, Nipomo
-      - Cost: $1.75–$8.00 each way depending on qualifications; $5–$10 based on distance (0–20 miles = $5, 20+ miles = $10)
-      - Schedule: Monday–Friday 7am–5pm, Saturday 10am–3pm
-      - Reservations: Book 2–3 business days in advance, up to 2 weeks ahead; seniors may book up to 4 roundtrips per month
-      - Contact for reservations: Atascadero: 805-541-2228, Nipomo: 805-929-2881, Paso Robles: 805-239-8747, Shandon/Paso: 805-541-2544 [Source: [slorta.org](https://www.slorta.org/services/dial-a-ride/)]
-   1. **Medical Transportation Services**
-      1. [**CenCal Health Transportation**](https://www.cencalhealth.org/members/transportation/)
-         - Service: Free transportation for CenCal Health/Medi-Cal members to covered medical appointments
-         - Eligibility: CenCal/Medi-Cal members with no other transportation access
-         - Booking: Call Ventura Transit System at 855-659-4600; reserve 3 days in advance
-         - Coverage: Statewide service through partnership with Ventura Transit
-      1. [**Ride-On Transportation**](https://www.ride-on.org/)
-         1. CenCal/Medi-Cal rides: Free for approved riders to medical appointments; reserve 3 days in advance
-         1. **Veterans Express Shuttle**: Door-to-door service to SLO or Santa Maria VA clinics; $3 each way (subsidized rate); limited to once monthly; Call 805-541-8747 for reservations 2–3 days prior
-      1. [**VA Clinic Shuttle**](https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/)
-         - Service: Free shuttle transportation for veterans with scheduled VA appointments
-         - Routes: Santa Maria and SLO clinics
-         - Contact: Larry Jones, Voluntary Service Specialist (Santa Maria location)
-         - Extended service: Veterans' Express Shuttle provides door-to-door service to SLO VA Clinic or Santa Maria VA Clinic, with connections to VA Bus for Southern California clinics including Los Angeles
-         - How to access: Contact clinic for Veterans' Express Shuttle arrangements or connection to LA-area VA facilities
-         - Source: [va.gov](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
-   1. **Transportation Information and Planning**
-      1. **511**: [slo511.org](https://www.slo511.org/) for traffic and transit information
-      1. **Apps and Resources**: Moovit app for SLO bus schedules, routes & updates
-         - Coverage: Multiple transit systems including SLO Transit, SLO RTA, Santa Maria Regional Transit, and other county operators
-         - Features: Real-time arrival times, service alerts, step-by-step navigation
-         - Platforms: Free app available on Android and iPhone (App Store/Google Play)
-         - Website: [moovitapp.com](https://moovitapp.com/)
-   1. **Bicycle Services and Repair**
-      1. [**Bike Kitchen**](https://bikeslocounty.org/programs/kitchen/): Community bike repair and education
-         - Location/Phone/Hours: See [**Bike Kitchen**](Directory.md#Bike-Kitchen) in the [Directory](Directory.md)
-         - Cost: $5 drop-in fee for DIY repair services; SLO County Bicycle Coalition members get 4 free visits
-         - Eligibility: Open to everyone; committed to creating safe space for all
-         - Services: Tools, parts, and knowledge for bike repair; volunteer-run; accepts bike donations; sells inexpensive second-hand bikes
-         - Special program: Ridewell program provides free bicycles, helmets, locks, lights and education to SLO County residents
-      1. **Bike theft prevention**
-         - **Urban camping/street security tips:**
-           - Lock bikes together when camping with multiple people
-           - Use corkscrew dog stakes as anchor points when no fixed objects available
-           - Set up noise alarms: cheap alarm locks or metal pots/mugs on guy-lines to wake you
-           - Position bike near tent and thread guy line through wheel
-           - Make bike less appealing: remove expensive accessories, personalize with stickers
-         - **Lock types for homeless/camping use:**
-           - Use multiple locks: U-lock + cable combination is most effective
-           - Avoid solely using cable locks (90% of stolen bikes use only cable locks)
-           - Heavy-duty chains (square-link) are hardest to cut
-           - Chain + padlock through frame and wheel, secured to any available anchor
-           - Multiple cheap alarm locks make noise when tampered with
-   1. **Automotive Services**
-      1. **California Low Cost Auto Insurance Program**
-         - What’s Available: State-sponsored low-cost liability insurance for income-eligible residents
-         - Cost: Annual premiums $244–$966 depending on county and driving record
-         - Eligibility: Income-eligible California residents regardless of immigration status
-         - Contact: 866-602-8861 (official program number), [www.mylowcostauto.com](https://www.mylowcostauto.com)
-         - Note: Phone number 805-547-1000 not verified as official program contact
-         - Source: [insurance.ca.gov](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/01-auto/lca/)
-      1. **Car repair assistance programs**
-         - [**California Bureau of Automotive Repair (CAP)**](https://www.bar.ca.gov/cap): Consumer Assistance Program includes repair assistance in SLO County
-         - **Salvation Army:** The Salvation Army San Luis Obispo Corps provides various assistance programs including some transportation support like bus cards and gas money. While general automotive repair assistance programs exist at some Salvation Army locations nationwide, specific car repair voucher programs were not confirmed at the San Luis Obispo location. Contact them directly to inquire about current automotive assistance availability and eligibility requirements. Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
-            - Locations: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
-         - **Catholic Charities:** Catholic Charities of the Diocese of Monterey serves Monterey, San Benito, San Luis Obispo, and Santa Cruz counties with various services including Financial Stability programs. However, no specific automotive repair assistance programs were found on their website. Contact them directly to inquire about transportation assistance: see their website for regional contact numbers. Source: [catholiccharitiesdom.org](https://catholiccharitiesdom.org)
-            - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#Catholic-Charities) in the [Directory](Directory.md).
-         - **Community Action Agencies:** CAPSLO (Community Action Partnership of San Luis Obispo County, 805-544-4355) offers comprehensive services to address poverty but does not specifically advertise automotive repair assistance programs. Some CAPSLO programs like SSVF (Supportive Services for Veteran Families) include transportation services and referrals. Contact CAPSLO directly to inquire about transportation assistance or referrals to automotive repair resources. Source: [capslo.org](https://capslo.org/)
-         - **TANF (Temporary Assistance for Needy Families/CalWORKs):** CalWORKs in California may provide transportation assistance including car repair through diversion payments (one-time payments up to $2,000 for special circumstances like car repairs to avoid needing ongoing assistance). CalWORKs also provides payments for transportation and ancillary supports for program participants. Contact your local county social services office to apply and determine eligibility. In SLO County, contact County Social Services. Source: [cdss.ca.gov/calworks](https://www.cdss.ca.gov/calworks)
-            - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
-         - **Local churches:** Several church denominations may provide automotive repair assistance, though programs vary by location and availability:
-            - **San Luis Obispo United Methodist Church**: Contact directly to inquire about current assistance programs. Phone/address available through [sloumc.com](https://www.sloumc.com/)
-            - **United Methodist churches generally**: National network offers financial assistance for emergency needs including car repairs through local congregations. General inquiries: 888-862-3242
-            - **Catholic Charities**: Previously noted - contact regional office for transportation assistance inquiries
-               - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#Catholic-Charities) in the [Directory](Directory.md).
-            - **Lutheran Services**: May provide car repair assistance and referrals. National contact: 202-499-5836, [lutheranservices.org](https://lutheranservices.org/)
-            - Note: Many programs prioritize low-income individuals and may require income documentation. Some churches require membership for assistance. Contact individual churches directly to verify current programs.
-            - Source: [churchesthathelpus.com](https://churchesthathelpus.com/emergency-car-repair-assistance/)
-         - Call CAPSLO at 805-541-4122 for information about local assistance programs
-      1. **Safe parking for people living in vehicles**
-         - See [Where to find shelter / housing](#where-to-find-shelter--housing) section for information about the 40 Prado & Rotating Overnight Safe Parking Programs
-         - Contact 805-544-4004 (40 Prado) for intake and enrollment
-   1. [**Family Care Network**](https://fcni.org/)
-      - What’s Available: bus passes, gas cards
-      - Eligibility: Homeless or at-risk families in SLO County
-      - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
-      - See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
+
+### Public Transit
+
+1. [**SLO Regional Transit Authority (RTA)**](https://www.slorta.org/)
+   - Service area: Six bus routes connecting cities throughout SLO County and Northern Santa Barbara County
+   - Also several regional dial-a-ride services
+   - Fares: Cash fares vary by route/distance; exact fare required; fare system changes coming Fall 2025
+      - ADA-eligible passengers ride RTA fixed routes free if they have a Certificate of Eligibility (apply with RTA)
+   - Location (offices)/Phone/Email: See [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) in the [Directory](Directory.md)
+   - Route maps: Available at [www.slorta.org/schedules-fares/](https://www.slorta.org/schedules-fares/) for individual routes
+1. [**Runabout Paratransit**](https://www.slorta.org/services/runabout-paratransit/)
+   - Service: County-wide ADA complementary paratransit for people unable to use fixed-route buses due to disability
+   - Eligibility: Requires completed application and in-person interview; decision within 21 days
+   - Service area: Within ¾ mile of RTA fixed routes during same days/hours
+   - RTA fixed routes: Routes 9 (SLO-San Miguel), 10 (SLO-Santa Maria), 12 (Los Osos/Morro Bay-SLO), 15 (Morro Bay-San Simeon), plus South County Routes 21, 24, 27, 28 and local Paso Robles/Morro Bay loops
+   - Source: [slorta.org](https://www.slorta.org/services/fixed-route-buses/)
+   - Booking: Advanced reservations up to 7 days prior (by 5pm previous day)
+   - Cost: ADA-eligible passengers ride RTA fixed routes free with Certificate of Eligibility; Runabout paratransit fares $2.50–$11 each way (double fixed-route fare)
+   - Companions: One free personal care attendant; additional companions pay full fare
+   - Application: Call 805-781-4833 or visit 253 Elks Lane, SLO (Mon–Thu 8am–4pm, Fri by appt)
+1. [**SLO Transit**](https://www.slocity.org/government/department-directory/public-works/slo-transit-bus)—City of SLO
+   - Service area: 10 bus routes within SLO city limits and Cal Poly, 162 bus stops total
+   - Special service: Old SLO Trolley downtown and upper Monterey (Thursday–Sunday, seasonal)
+   - Location (office)/Phone/Email: See [**SLO Transit**](Directory.md#SLO-Transit) in the [Directory](Directory.md)
+   - Source: [slocity.org](https://www.slocity.org/government/department-directory/public-works/slo-transit)
+   - Note: schedule adjusts to academic calendar; probably best not to try to reproduce schedule/maps but refer readers to authoritative source
+1. [**SLO Regional RideShare**](https://rideshare.org/) for carpooling and door-to-door services
+   - What’s Available: Free online ridematching system (iRideshare), emergency ride home ($4 for registered users), carpool coordination, vanpooling
+   - Ridematching: System matches commuters based on proximity, destination, travel route, schedules, and preferences to find carpools, vanpools, transit, bike or walking options
+   - Registration: Create free account at [iRideshare.org](https://irideshare.org/); benefits include emergency ride home service, rewards/prizes for trip logging, enhanced matching
+   - Source: [rideshare.org](https://rideshare.org/ridematching/)
+   - Contact: 805-781-4462, San Luis Obispo
+   - Coverage: SLO County-wide transportation alternatives
+1. **SLO County Council of Governments (SLOCOG) Transportation Programs**
+   - VIP Pass for Seniors 80+: Free pass allowing rides on all fixed route bus systems in SLO County; requires one-page application and photo
+   - Regional Day Pass: Allows riding SLO Transit, RTA, SCT, Paso Express and North County Shuttle routes with one pass
+   - Free Transit Programs: SLOCOG occasionally organizes "No Fare, Anywhere" initiatives during Regional Rideshare Week to allow residents to try transit for free
+   - Discounted Rail Program: Partnership with LOSSAN offering 75% discount on 10-ride and monthly Amtrak Pacific Surfliner passes between SLO city, Grover Beach, and Guadalupe (as of May 2025)
+   - Programs: Commuter Club, Safe Routes to School, Mobility Management, Youth Ride Free, Rideshare Week
+   - Contact: Visit SLO Regional Rideshare website at [rideshare.org](https://rideshare.org/) for current programs
+   - Source: [slocog.org](https://www.slocog.org/programs/public-transportation/transit)
+1. Morro Bay [**Fixed Route**](https://www.slorta.org/schedules-fares/morro-bay-transit/), [**Call-A-Ride**](https://www.slorta.org/services/dial-a-ride/), and [**Trolley**](https://www.slorta.org/schedules-fares/morro-bay-trolley/)
+   - Phone: 805-541-2228
+1. Atascadero dial-a-ride
+   - curb-to-curb service in Atascadero city limits; wheelchair lift; bike racks.
+   - Hours: M–F 7:30am–3:30pm
+   - Phone: 805-466-7433
+   - Cost: $2.50–$8 depending on various factors
+1. **511**: [slo511.org](https://www.slo511.org/) for traffic and transit information
+1. **Apps and Resources**: Moovit app for SLO bus schedules, routes & updates
+   - Coverage: Multiple transit systems including SLO Transit, SLO RTA, Santa Maria Regional Transit, and other county operators
+   - Features: Real-time arrival times, service alerts, step-by-step navigation
+   - Platforms: Free app available on Android and iPhone (App Store/Google Play)
+   - Website: [moovitapp.com](https://moovitapp.com/)
+1. [**Family Care Network**](https://fcni.org/)
+   - What’s Available: bus passes, gas cards
+   - Eligibility: Homeless or at-risk families in SLO County
+   - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
+   - See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
+
+### For Seniors
+
+1. **Five Cities Senior Transportation**: [Senior Go!](https://www.sloseniorgo.org/) service for ages 65+, 805-473-3333
+   - Service area: Throughout SLO County (not limited to Five Cities area)
+   - Cost: $5.00 (0–20 miles) or $10.00 (20+ miles) each way
+      - Note: Unable to find specific low-income subsidies for this service; contact 805-473-3333 or [**SLOCOG**](Directory.md#SLOCOG) to inquire about financial assistance
+   - Schedule: Monday–Friday 7am–5pm, Saturday 10am–3pm (closed major holidays)
+   - Reservations: Up to 4 round trips per month; call 805-473-3333 to book
+   - Uses: Medical appointments, grocery stores, personal visits within county boundaries
+1. [**Dial-A-Ride & Senior Go! Shuttle**](https://www.slorta.org/services/dial-a-ride/)
+   - Service: Origin-to-destination transportation within local communities; no set timetables; curb-to-curb service
+   - Coverage areas: Paso Robles & Shandon, Templeton, Atascadero, Nipomo
+   - Cost: $1.75–$8.00 each way depending on qualifications; $5–$10 based on distance (0–20 miles = $5, 20+ miles = $10)
+   - Schedule: Monday–Friday 7am–5pm, Saturday 10am–3pm
+   - Reservations: Book 2–3 business days in advance, up to 2 weeks ahead; seniors may book up to 4 roundtrips per month
+   - Contact for reservations: Atascadero: 805-541-2228, Nipomo: 805-929-2881, Paso Robles: 805-239-8747, Shandon/Paso: 805-541-2544 [Source: [slorta.org](https://www.slorta.org/services/dial-a-ride/)]
+1. Cambria Community Bus
+   - free service for seniors and people with disabilities in the Cambria/San Simeon area
+   - call one day in advance to make a reservation
+   - Phone: 805-927-4173 (Español: 805-975-5724)
+   - Hours: M–F 8am–4:30pm
+1. [Cayucos Seniors Club van](https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf)
+   - For residents of Cayucos; prioritizes transportation to medical appts. but can also sometimes handle other needs
+   - Hours: M–F 9am–4pm
+   - Make appointments 48 hours ahead of time
+   - Phone: 805-995-3543
+
+### Transportation to Medical Appointments
+
+1. **Medical Transportation Services**
+   1. [**CenCal Health Transportation**](https://www.cencalhealth.org/members/transportation/)
+      - Service: Free transportation for CenCal Health/Medi-Cal members to covered medical appointments
+      - Eligibility: CenCal/Medi-Cal members with no other transportation access
+      - Booking: Call Ventura Transit System at 855-659-4600; reserve 3 days in advance
+      - Coverage: Statewide service through partnership with Ventura Transit
+   1. [**Ride-On Transportation**](https://www.ride-on.org/)
+      1. CenCal/Medi-Cal rides: Free for approved riders to medical appointments; reserve 3 days in advance
+      1. **Veterans Express Shuttle**: Door-to-door service to SLO or Santa Maria VA clinics; $3 each way (subsidized rate); limited to once monthly; Call 805-541-8747 for reservations 2–3 days prior
+   1. [**VA Clinic Shuttle**](https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/)
+      - Service: Free shuttle transportation for veterans with scheduled VA appointments
+      - Routes: Santa Maria and SLO clinics
+      - Contact: Larry Jones, Voluntary Service Specialist (Santa Maria location)
+      - Extended service: Veterans' Express Shuttle provides door-to-door service to SLO VA Clinic or Santa Maria VA Clinic, with connections to VA Bus for Southern California clinics including Los Angeles
+      - How to access: Contact clinic for Veterans' Express Shuttle arrangements or connection to LA-area VA facilities
+      - Source: [va.gov](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
+
+### Bicycles
+
+1. [**Bike Kitchen**](https://bikeslocounty.org/programs/kitchen/): Community bike repair and education
+   - Location/Phone/Hours: See [**Bike Kitchen**](Directory.md#Bike-Kitchen) in the [Directory](Directory.md)
+   - Cost: $5 drop-in fee for DIY repair services; SLO County Bicycle Coalition members get 4 free visits
+   - Eligibility: Open to everyone; committed to creating safe space for all
+   - Services: Tools, parts, and knowledge for bike repair; volunteer-run; accepts bike donations; sells inexpensive second-hand bikes
+   - Special program: Ridewell program provides free bicycles, helmets, locks, lights and education to SLO County residents
+1. **Bike theft prevention**
+   - **Urban camping/street security tips:**
+     - Lock bikes together when camping with multiple people
+     - Use corkscrew dog stakes as anchor points when no fixed objects available
+     - Set up noise alarms: cheap alarm locks or metal pots/mugs on guy-lines to wake you
+     - Position bike near tent and thread guy line through wheel
+     - Make bike less appealing: remove expensive accessories, personalize with stickers
+   - **Lock types for homeless/camping use:**
+     - Use multiple locks: U-lock + cable combination is most effective
+     - Avoid solely using cable locks (90% of stolen bikes use only cable locks)
+     - Heavy-duty chains (square-link) are hardest to cut
+     - Chain + padlock through frame and wheel, secured to any available anchor
+     - Multiple cheap alarm locks make noise when tampered with
+
+### Automobile Insurance and Repair
+
+1. **California Low Cost Auto Insurance Program**
+   - What’s Available: State-sponsored low-cost liability insurance for income-eligible residents
+   - Cost: Annual premiums $244–$966 depending on county and driving record
+   - Eligibility: Income-eligible California residents regardless of immigration status
+   - Contact: 866-602-8861 (official program number), [www.mylowcostauto.com](https://www.mylowcostauto.com)
+   - Note: Phone number 805-547-1000 not verified as official program contact
+   - Source: [insurance.ca.gov](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/01-auto/lca/)
+1. **Car repair assistance programs**
+   - [**California Bureau of Automotive Repair (CAP)**](https://www.bar.ca.gov/cap): Consumer Assistance Program includes repair assistance in SLO County
+   - **Salvation Army:** The Salvation Army San Luis Obispo Corps provides various assistance programs including some transportation support like bus cards and gas money. While general automotive repair assistance programs exist at some Salvation Army locations nationwide, specific car repair voucher programs were not confirmed at the San Luis Obispo location. Contact them directly to inquire about current automotive assistance availability and eligibility requirements. Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
+      - Locations: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
+   - **Catholic Charities:** Catholic Charities of the Diocese of Monterey serves Monterey, San Benito, San Luis Obispo, and Santa Cruz counties with various services including Financial Stability programs. However, no specific automotive repair assistance programs were found on their website. Contact them directly to inquire about transportation assistance: see their website for regional contact numbers. Source: [catholiccharitiesdom.org](https://catholiccharitiesdom.org)
+      - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#Catholic-Charities) in the [Directory](Directory.md).
+   - **Community Action Agencies:** CAPSLO (Community Action Partnership of San Luis Obispo County, 805-544-4355) offers comprehensive services to address poverty but does not specifically advertise automotive repair assistance programs. Some CAPSLO programs like SSVF (Supportive Services for Veteran Families) include transportation services and referrals. Contact CAPSLO directly to inquire about transportation assistance or referrals to automotive repair resources. Source: [capslo.org](https://capslo.org/)
+   - **TANF (Temporary Assistance for Needy Families/CalWORKs):** CalWORKs in California may provide transportation assistance including car repair through diversion payments (one-time payments up to $2,000 for special circumstances like car repairs to avoid needing ongoing assistance). CalWORKs also provides payments for transportation and ancillary supports for program participants. Contact your local county social services office to apply and determine eligibility. In SLO County, contact County Social Services. Source: [cdss.ca.gov/calworks](https://www.cdss.ca.gov/calworks)
+      - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
+   - **Local churches:** Several church denominations may provide automotive repair assistance, though programs vary by location and availability:
+      - **San Luis Obispo United Methodist Church**: Contact directly to inquire about current assistance programs. Phone/address available through [sloumc.com](https://www.sloumc.com/)
+      - **United Methodist churches generally**: National network offers financial assistance for emergency needs including car repairs through local congregations. General inquiries: 888-862-3242
+      - **Catholic Charities**: Previously noted - contact regional office for transportation assistance inquiries
+         - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#Catholic-Charities) in the [Directory](Directory.md).
+      - **Lutheran Services**: May provide car repair assistance and referrals. National contact: 202-499-5836, [lutheranservices.org](https://lutheranservices.org/)
+      - Note: Many programs prioritize low-income individuals and may require income documentation. Some churches require membership for assistance. Contact individual churches directly to verify current programs.
+      - Source: [churchesthathelpus.com](https://churchesthathelpus.com/emergency-car-repair-assistance/)
+   - Call CAPSLO at 805-541-4122 for information about local assistance programs
+1. **Safe parking for people living in vehicles**
+   - See [Where to find shelter / housing](#where-to-find-shelter--housing) section for information about the 40 Prado & Rotating Overnight Safe Parking Programs
+   - Contact 805-544-4004 (40 Prado) for intake and enrollment
+1. [**Family Care Network**](https://fcni.org/)
+   - What’s Available: gas cards
+   - Eligibility: Homeless or at-risk families in SLO County
+   - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
+   - See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
 
 ## <a id="where-to-find-free-or-thrift-store-clothing">**Clothing**</a>
-   1. **Free Clothing and Homeless Assistance**
-      1. **Prado Day Center (40 Prado)**
-         - What’s Available: Free clothing for homeless individuals
-         - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-         - Additional services: Showers, meals, laundry, case management [Source: [friendsof40prado.org](https://friendsof40prado.org/mission/)]
-      1. **Outreach & Engagement Center**
-         - What’s Available: Free clothing available
-         - Location/Phone/Hours: See [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) in the [Directory](Directory.md)
-      1. **SLO Grassroots**:
-         - By appointment only. See [**SLO Grassroots**](Directory.md#SLO-Grassroots) in the [Directory](Directory.md)
-      1. [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) (north county)
-         - **Services open to community:** clothing, shoes, blankets, sleeping bags, school supplies for children
-   1. **Mostly for Kids**
-      1. **Children's Resource Network of the Central Coast**
-         - What’s Available: Free clothing, school supplies, books, diapers, and basic resources for children ages newborn to eighteen
-         - Website/Mailing address/Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
-         - Access: Call hotline numbers, use "Place A Request" form on website home page, or visit during walk-in hours (contact for current walk-in schedule)
-         - *(Note: Website appears to be down as of August 2025)*
-         - Note: through multiple program locations including The Teens Closet in Arroyo Grande and Outreach Apparel in San Luis Obispo. Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
-         - Additional programs:
-           - **Traveling Children's Closet**: Mobile service partnering with other nonprofits to provide clothing, diapers, school supplies
-           - **Outreach Apparel**: Free clothing store at Pacific Beach High School (SLO), operated by students including homeless youth
-           - **The Teen's Closet**:
-              - What’s Available: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents
-              - Coverage: San Luis Obispo and Santa Barbara Counties
-              - Contact: Available through Children's Resource Network programs
-              - Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
-              - Cross-reference: Also listed in [Special populations - Unaccompanied minors](#resources-specific-to-particular-subgroups)
-              - Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
-      1. [**Assistance League of SLO County**](https://www.assistanceleague.org/san-luis-obispo-county/)
-         - What’s Available: Free new school clothes shopping with retail partners for school-age children in need
-         - Eligibility: Students referred by their educators
-         - Impact: Clothed 2,388 students in 2023
-         - **Operation School Bell**: Provides new school clothing to students in need to enhance educational experience and inspire hope for brighter future
-   1. **Thrift Stores**
-      1. [**Assistance League Thrift Store**](https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/)
-         - Location/Phone/Hours: See [**Assistance League Thrift Store**](Directory.md#Assistance-League-Thrift-Store) in the [Directory](Directory.md)
-      1. [**Goodwill Stores**](https://www.ccgoodwill.org/)
-         - Locations/Phone/Hours: See [**Goodwill Stores**](Directory.md#Goodwill) in the [Directory](Directory.md)
-         - Services: Free employment services, career counseling, skills training, résumé preparation
-      1. **United Voluntary Services Thrift**
-         - Location/Phone/Hours: See [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift) in the [Directory](Directory.md)
-         - Source: [iwma.com](https://www.iwma.com/donation-locations)
-      1. **Bargain Boutique**
-         - Location/Phone/Hours: See [**Bargain Boutique**](Directory.md#Bargain-Boutique) in the [Directory](Directory.md)
-      1. **Fred & Betty's Thrift Store**
-         - Location/Phone/Hours: See [**Fred & Betty's Thrift Store**](Directory.md#Fred-and-Bettys) in the [Directory](Directory.md)
-      1. [**Salvation Army Family Store**](https://arroyogrande.salvationarmy.org/)
-         - Location/Phone/Hours: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md) (Arroyo Grande Service Extension location)
-      1. **Mission Thrift**
-         - Location/Phone/Hours: See [**Mission Thrift**](Directory.md#Mission-Thrift) in the [Directory](Directory.md)
-      1. **Achievement House Thrift Store**
-         - Locations/Phone/Hours: See [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store) in the [Directory](Directory.md)
-      1. **North County Christian Thrift Shop**
-         - Location/Phone: See [**North County Christian Thrift Shop**](Directory.md#North-County-Christian-Thrift-Shop) in the [Directory](Directory.md)
-      1. **California Cool Thrift Store**
-         - Location/Phone/Hours: See [**California Cool Thrift Store**](Directory.md#California-Cool-Thrift-Store) in the [Directory](Directory.md)
-      1. [**Second Chances Thrift Store**](https://www.captivehearts.org/second-chances-store.html)
-         - Location/Phone/Hours: See [**Second Chances Thrift Store**](Directory.md#Second-Chances-Thrift-Store) in the [Directory](Directory.md)
-      1. **St. Patrick's Shamrock Thrift**
-         - Location/Phone/Hours: See [**St. Patrick's Shamrock Thrift**](Directory.md#St-Patricks-Shamrock-Thrift) in the [Directory](Directory.md)
-      1. [**St. Barnabas Thrift Shop**](https://saintbarnabas-ag.org/get-involved/thrift-shop/)
-         - Location/Phone/Hours: See [**St. Barnabas Thrift Shop**](Directory.md#St-Barnabas-Thrift-Shop) in the [Directory](Directory.md)
-      1. new Lumina Alliance thrift store in SLO City
-         Note: add name, location (somewhere around 545 Higuera I think), hours, contact info when these become available
-   1. **Additional Emergency Assistance**
-      1. [**The Salvation Army**](https://sanluisobispo.salvationarmy.org/)
-         - Services: Emergency clothing assistance and financial assistance (by appointment only)
-            - Locations: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
-      1. **Los Osos Cares Resource Center** (Voucher Program?)
-         - Location/Phone/Hours: See [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) in the [Directory](Directory.md)
-         - Services: Clothing vouchers for eligible individuals
-   1. **Regional Food and Clothing Programs**
-      1. **Paso Robles Loaves and Fishes**
-         - Location/Phone/Hours: See [**Loaves & Fishes**](Directory.md#Loaves-and-Fishes) in the [Directory](Directory.md)
-         - Services: Food, toiletries for homeless and low-income individuals; connections to other services
-         - Note: Clothing services not confirmed at this location; primarily focuses on food assistance [Source: [loavesandfishespaso.org](https://loavesandfishespaso.org/)]
-      1. [**People Helping People**](https://southbayseniorspeoplehelpingpeople.com/) (South Bay Seniors)
-         - Location/Phone: See [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) in the [Directory](Directory.md)
-         - Clothing services: Winter clothes for seniors
-         - Additional services: Medical equipment loans, fresh produce, groceries, transportation assistance, referrals
-         - Eligibility: Seniors over age 60, single mothers, working poor
-         - Distribution: Wednesdays at South Bay Community Center
-   1. **Additional Reference Sources**
-      1. **Current clothing resource card**: [Document reference](https://docs.google.com/document/d/e/2PACX-1vTDFtKJ-CBthaJYbEDrg_V6jqPfbNIgZlO6bxXUCa7VrENN5Hq1edL_jD7kAL9oBS2sg48WQoCnHigV/pub) for comprehensive local listings
-         - Note: Key information from this document has been integrated into the above clothing resource listings including additional thrift stores in Grover Beach and Arroyo Grande areas
+
+### Free Clothing
+1. **Prado Day Center (40 Prado)**
+   - What’s Available: Free clothing for homeless people
+   - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
+   - Additional services: Showers, meals, laundry, case management [Source: [friendsof40prado.org](https://friendsof40prado.org/mission/)]
+1. **Outreach & Engagement Center**
+   - What’s Available: Free clothing available
+   - Location/Phone/Hours: See [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) in the [Directory](Directory.md)
+1. **SLO Grassroots**:
+   - By appointment only. See [**SLO Grassroots**](Directory.md#SLO-Grassroots) in the [Directory](Directory.md)
+1. [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) (north county)
+   - **Services open to community:** clothing, shoes, blankets, sleeping bags, school supplies for children
+1. [**The Salvation Army**](https://sanluisobispo.salvationarmy.org/)
+   - Services: Emergency clothing assistance and financial assistance (by appointment only)
+      - Locations: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
+1. **Los Osos Cares Resource Center** (Voucher Program?)
+   - Location/Phone/Hours: See [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) in the [Directory](Directory.md)
+   - Services: Clothing vouchers for eligible individuals
+1. [**People Helping People**](https://southbayseniorspeoplehelpingpeople.com/) (South Bay Seniors)
+   - Location/Phone: See [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) in the [Directory](Directory.md)
+   - Clothing services: Winter clothes for seniors
+
+### Free Clothing for Kids
+1. **Children's Resource Network of the Central Coast**
+   - What’s Available: Free clothing, school supplies, books, diapers, and basic resources for children ages newborn to eighteen
+   - Website/Mailing address/Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
+   - Access: Call hotline numbers, use "Place A Request" form on website home page, or visit during walk-in hours (contact for current walk-in schedule)
+   - *(Note: Website appears to be down as of August 2025)*
+   - Note: through multiple program locations including The Teens Closet in Arroyo Grande and Outreach Apparel in San Luis Obispo. Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
+   - Additional programs:
+     - **Traveling Children's Closet**: Mobile service partnering with other nonprofits to provide clothing, diapers, school supplies
+     - **Outreach Apparel**: Free clothing store at Pacific Beach High School (SLO), operated by students including homeless youth
+     - **The Teen's Closet**:
+        - What’s Available: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents
+        - Coverage: San Luis Obispo and Santa Barbara Counties
+        - Contact: Available through Children's Resource Network programs
+        - Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
+        - Cross-reference: Also listed in [Special populations - Unaccompanied minors](#resources-specific-to-particular-subgroups)
+        - Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
+1. [**Assistance League of SLO County**](https://www.assistanceleague.org/san-luis-obispo-county/)
+   - What’s Available: Free new school clothes shopping with retail partners for school-age children in need
+   - Eligibility: Students referred by their educators
+   - Impact: Clothed 2,388 students in 2023
+   - **Operation School Bell**: Provides new school clothing to students in need to enhance educational experience and inspire hope for brighter future
+
+### Thrift Stores
+
+Thrift stores sell second-hand (used) clothing at low prices.
+
+Arroyo Grande:
+* [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store)
+* [**Salvation Army**](Directory.md#Salvation-Army) Family Store
+
+Atascadero:
+* [**North County Christian Thrift Shop**](Directory.md#North-County-Christian-Thrift-Shop)
+
+Grover Beach:
+* [**California Cool Thrift Store**](Directory.md#California-Cool-Thrift-Store)
+* [**Goodwill Store**](Directory.md#Goodwill)
+* [**Second Chances Thrift Store**](Directory.md#Second-Chances-Thrift-Store)
+* [**St. Patrick's Shamrock Thrift**](Directory.md#St-Patricks-Shamrock-Thrift)
+* [**St. Barnabas Thrift Shop**](Directory.md#St-Barnabas-Thrift-Shop)
+
+Morro Bay:
+* [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store)
+
+San Luis Obispo:
+* [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store)
+* [**Assistance League Thrift Store**](Directory.md#Assistance-League-Thrift-Store)
+* [**Bargain Boutique**](Directory.md#Bargain-Boutique)
+* [**Fred & Betty's Thrift Store**](Directory.md#Fred-and-Bettys)
+* [**Goodwill Outlet**](Directory.md#Goodwill) and [**Goodwill Store**](Directory.md#Goodwill)
+* Lumina Alliance thrift store <!-- To-do: add details when available -->
+* [**Mission Thrift**](Directory.md#Mission-Thrift)
+* [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
 
 ## <a id="laundry">**Laundry**</a>
-   1. **40 Prado Homeless Services Center**
-      - What’s Available: Free laundry facilities for clients
-      - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
-      - Additional services: Showers, meals, case management, integrated medical clinic with on-site pharmacy, warming center (seasonal)
-      - Recommendation: Call ahead to confirm availability and hours
-      - Eligibility: Available to all participants; part of day services for homeless individuals and families
-      - Access: Open to SLO County residents; no requirement to be shelter resident or enrolled in case management
-   1. **Laundry Love Program**
-      - What’s Available: Free laundry events at local laundromats; provides quarters, dryer sheets, and soap
-      - Capacity: 2 loads per individual, 5 loads per family; unlimited bedding (not counted in load limits)
-      - Location/Phone/Email/Hours: See [**Laundry Love**](Directory.md#Laundry-Love) in the [Directory](Directory.md)
-      - Sources:
-         - Check event calendar at [laundrylove.org](https://laundrylove.org/) for locations and schedules
-         - The *Resource Guide Estero Bay* says they operate the last Wednesday of the month, 11am–1pm (seniors only) and 4–6pm (anyone)
-   1. **ECHO (El Camino Homeless Organization)**—North County
-      - Locations/Phone/Email/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
-      - Services: Dinner, showers, clothing, laundry facilities for clients
-      - Confirmed services: Free laundry facilities available for clients; also provides showers 5x/week with new clothing, dinner program
-      - Note: Specific client requirements for laundry access and service hours/days could not be verified in available sources; contact ECHO for details about who qualifies as a "client" for laundry services
-      - Additional: 50-bed transitional shelter with case management to help find permanent housing within 3 months [Source: [echoshelter.org](https://www.echoshelter.org/)]
-   1. **Good Samaritan Shelter** in Santa Maria
-      - Location/Phone/Email/Hours: See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
-      - Confirmed services: Laundry facilities available for residents; also provides overnight shelter, case management, hot meals, substance use treatment, mental health services
-      - Program: 90-day, 90-bed emergency shelter for individuals and families; intake appointments 8:30am–5pm [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)]
+
+1. **40 Prado Homeless Services Center**
+   - What’s Available: Free laundry facilities for clients
+   - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
+   - Additional services: Showers, meals, case management, integrated medical clinic with on-site pharmacy, warming center (seasonal)
+   - Recommendation: Call ahead to confirm availability and hours
+   - Eligibility: Available to all participants; part of day services for homeless individuals and families
+   - Access: Open to SLO County residents; no requirement to be shelter resident or enrolled in case management
+1. **Laundry Love Program**
+   - What’s Available: Free laundry events at local laundromats; provides quarters, dryer sheets, and soap
+   - Capacity: 2 loads per individual, 5 loads per family; unlimited bedding (not counted in load limits)
+   - Location/Phone/Email/Hours: See [**Laundry Love**](Directory.md#Laundry-Love) in the [Directory](Directory.md)
+   - Sources:
+      - Check event calendar at [laundrylove.org](https://laundrylove.org/) for locations and schedules
+      - The *Resource Guide Estero Bay* says they operate the last Wednesday of the month, 11am–1pm (seniors only) and 4–6pm (anyone)
+1. **ECHO (El Camino Homeless Organization)**—North County
+   - Locations/Phone/Email/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
+   - Services: Dinner, showers, clothing, laundry facilities for clients
+   - Confirmed services: Free laundry facilities available for clients; also provides showers 5x/week with new clothing, dinner program
+   - Note: Specific client requirements for laundry access and service hours/days could not be verified in available sources; contact ECHO for details about who qualifies as a "client" for laundry services
+   - Additional: 50-bed transitional shelter with case management to help find permanent housing within 3 months [Source: [echoshelter.org](https://www.echoshelter.org/)]
+1. **Good Samaritan Shelter** in Santa Maria
+   - Location/Phone/Email/Hours: See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
+   - Confirmed services: Laundry facilities available for residents; also provides overnight shelter, case management, hot meals, substance use treatment, mental health services
+   - Program: 90-day, 90-bed emergency shelter for individuals and families; intake appointments 8:30am–5pm [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)]
 
 ## <a id="showers-and-hygiene">**Showers and hygiene**</a>
    1. **Free Shower Services**
