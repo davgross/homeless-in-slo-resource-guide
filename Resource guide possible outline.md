@@ -501,6 +501,7 @@ Here are some residential treatment options in our area:
 * [**Middlehouse**](Directory.md#Middlehouse) (SLO) for men only.
 * [**Sun Street Centers**](Directory.md#Middlehouse) (SLO) for men only.
 
+<!--
 ### Other/Uncategorized
 
 [This](https://static1.squarespace.com/static/538622a1e4b0eca47fbe761f/t/67942a70fe553b6a69db2ec3/1737763441403/Affordable+Housing+by+City_SLOCounty.1.24.25.pdf) sheet lists affordable housing units in SLO county. Some belong in the sections above (they accept section 8 vouchers and/or cap rent based on income; some are for seniors only).
@@ -512,6 +513,7 @@ Here are some residential treatment options in our area:
    - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
    - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education; helps families navigate the social services system and provides linkages to community partners for homeless services
    - Source: [linkslo.org](https://linkslo.org/)
+-->
 
 ## <a id="property-storage-options">**Property storage options**</a>
 
@@ -951,20 +953,14 @@ San Luis Obispo:
 
 ## <a id="laundry">**Laundry**</a>
 
-1. **40 Prado Homeless Services Center**
-   - What’s Available: Free laundry facilities for clients
-   - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
-   - Additional services: Showers, meals, case management, integrated medical clinic with on-site pharmacy, warming center (seasonal)
-   - Recommendation: Call ahead to confirm availability and hours
-   - Eligibility: Available to all participants; part of day services for homeless individuals and families
-   - Access: Open to SLO County residents; no requirement to be shelter resident or enrolled in case management
-1. **Laundry Love Program**
-   - What’s Available: Free laundry events at local laundromats; provides quarters, dryer sheets, and soap
-   - Capacity: 2 loads per individual, 5 loads per family; unlimited bedding (not counted in load limits)
-   - Location/Phone/Email/Hours: See [**Laundry Love**](Directory.md#Laundry-Love) in the [Directory](Directory.md)
-   - Sources:
-      - Check event calendar at [laundrylove.org](https://laundrylove.org/) for locations and schedules
-      - The *Resource Guide Estero Bay* says they operate the last Wednesday of the month, 11am–1pm (seniors only) and 4–6pm (anyone)
+The [**40 Prado Homeless Services Center**](Directory.md#40-prado) offers free laundry facilities every day from 8am to 4pm.
+You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first.
+
+[**Laundry Love**](Directory.md#Laundry-Love) operates at a Los Osos commercial laundry one day per month (check their website for the latest schedule).
+They allow anyone to do two free loads of laundry (five loads for a family), plus bedding.
+They provide the coins to feed the machines and the laundry detergent and dryer sheets.
+
+<!-- Needs more research:
 1. **ECHO (El Camino Homeless Organization)**—North County
    - Locations/Phone/Email/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
    - Services: Dinner, showers, clothing, laundry facilities for clients
@@ -975,51 +971,54 @@ San Luis Obispo:
    - Location/Phone/Email/Hours: See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
    - Confirmed services: Laundry facilities available for residents; also provides overnight shelter, case management, hot meals, substance use treatment, mental health services
    - Program: 90-day, 90-bed emergency shelter for individuals and families; intake appointments 8:30am–5pm [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)]
+-->
 
 ## <a id="showers-and-hygiene">**Showers and hygiene**</a>
-   1. **Free Shower Services**
-      1. **Shower the People**—Mobile shower trailer serving SLO County
-         - What’s Available: Three private bathrooms with sink, toilet, and shower; biodegradable soap/shampoo dispensers; clean towels, washcloths, toiletries, socks, T-shirts, and underwear provided
-         - Location/Hours/Email: See [**Shower the People**](Directory.md#Shower-the-People) in the [Directory](Directory.md)
-      1. **40 Prado Homeless Services Center**
-         - What’s Available: Showers, laundry, also: phone access, case management, meals, overnight shelter (up to 100 beds), integrated medical clinic with on-site pharmacy
-         - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-         - Eligibility: Individuals and families experiencing homelessness; part of day services (don't have to be a resident there)
-         - Access: Must complete intake before using services; adults need valid CA ID; operates 365 days per year
-         - Note: Call for current shower access requirements and availability [Source: [capslo.org/40-prado](https://capslo.org/40-prado/)]
-      1. [**805 Street Outreach**](https://805streetoutreach.org/) (Morro Bay)
-         - Services: Mobile shower trailer with 2 stalls (showers, sinks, toilets), food, clothing distribution
-         - Location/Email/Hours: See [**805 Street Outreach**](Directory.md#805-Street-Outreach) in the [Directory](Directory.md)
-         - Target: Homeless individuals in SLO County
-      1. [**ECHO (El Camino Homeless Organization)**](https://www.echoshelter.org/) — North County services
-         - What’s Available: Showers, also: dinner, clothing
-         - Location/Phone/Email/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
-         - Access: Walk-in guests welcome; towels, toiletries, and change of clothing provided
-            - Shower and meal access: Walk-in shower program continues M–F 3:30–5pm, daily community dinner 5–6pm open to anyone, despite transition to 90-day residential program [Source: [newtimesslo.com](https://www.newtimesslo.com/news/paso-robles-echo-transitions-to-90-day-stays-17105511)]
-         - Additional services: Emergency shelter, case management, job assistance, life skills training
-   1. **Alternative Options with Financial Assistance**
-      1. [**SLO County YMCA**](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
-         - Policy: "No one is denied membership because of inability to pay"
-         - What’s Available: Fitness center with shower facilities, financial assistance program, payment plans
-         - Location/Phone: See [**SLO County YMCA**](Directory.md#SLO-County-YMCA) in the [Directory](Directory.md)
-         - Services: Fitness center, basketball court, group classes, youth sports
-         - Note: Contact for financial assistance options to access shower facilities through membership
-      1. No Five Cities YMCA Locations; closest alternative is "Santa Maria Valley YMCA" (3400 Skyway Dr., Santa Maria)
-   1. **County Park Shower Facilities** (Coin-operated)
-      1. **El Chorro Regional Park Campground**: Coin-operated showers available to day-use visitors
-         - Location/Phone/Email: See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
-      1. **Lopez Lake Recreation Area**: Hot shower facilities (coin-operated)
-         - Phone/Email: See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
-      1. **Santa Margarita Lake Recreation Area**: Coin-operated showers available to day-use visitors
-         - Phone/Email: See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
-      1. **Coastal Dunes RV Park & Campground**: 22 campsites with shower access
-         - Location/Phone: See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
-      1. **Oceano Campground**: 24 campsites with coin-operated showers
-         - Location/Phone: See [**Oceano Campground**](Directory.md#Oceano-Campground) in the [Directory](Directory.md)
-   1. **Port San Luis Harbor - Coastal Gateway Multi-Purpose Room**: Coin-operated showers ($2); Contact for current hours; Source: [portsanluis.com](https://www.portsanluis.com/2164/Coastal-Gateway-Multi-Purpose-Room)
-      - Phone/Email/Location: See [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) in the [Directory](Directory.md)
-   1. **Pismo Beach Athletic Club**: Day pass ($15) provides access to all facilities including showers
-      - Location/Phone/Hours: See [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) in the [Directory](Directory.md)
+
+### Free Shower Services
+1. **Shower the People**—Mobile shower trailer serving SLO County
+   - What’s Available: Three private bathrooms with sink, toilet, and shower; biodegradable soap/shampoo dispensers; clean towels, washcloths, toiletries, socks, T-shirts, and underwear provided
+   - Location/Hours/Email: See [**Shower the People**](Directory.md#Shower-the-People) in the [Directory](Directory.md)
+1. **40 Prado Homeless Services Center**
+   - What’s Available: Showers, laundry, also: phone access, case management, meals, overnight shelter (up to 100 beds), integrated medical clinic with on-site pharmacy
+   - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
+   - Eligibility: Individuals and families experiencing homelessness; part of day services (don't have to be a resident there)
+   - Access: Must complete intake before using services; adults need valid CA ID; operates 365 days per year
+   - Note: Call for current shower access requirements and availability [Source: [capslo.org/40-prado](https://capslo.org/40-prado/)]
+1. [**805 Street Outreach**](https://805streetoutreach.org/) (Morro Bay)
+   - Services: Mobile shower trailer with 2 stalls (showers, sinks, toilets), food, clothing distribution
+   - Location/Email/Hours: See [**805 Street Outreach**](Directory.md#805-Street-Outreach) in the [Directory](Directory.md)
+   - Target: Homeless individuals in SLO County
+1. [**ECHO (El Camino Homeless Organization)**](https://www.echoshelter.org/) — North County services
+   - What’s Available: Showers, also: dinner, clothing
+   - Location/Phone/Email/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
+   - Access: Walk-in guests welcome; towels, toiletries, and change of clothing provided
+      - Shower and meal access: Walk-in shower program continues M–F 3:30–5pm, daily community dinner 5–6pm open to anyone, despite transition to 90-day residential program [Source: [newtimesslo.com](https://www.newtimesslo.com/news/paso-robles-echo-transitions-to-90-day-stays-17105511)]
+   - Additional services: Emergency shelter, case management, job assistance, life skills training
+
+### Coin-Operated or Gym Membership Options
+1. [**SLO County YMCA**](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
+   - Policy: "No one is denied membership because of inability to pay"
+   - What’s Available: Fitness center with shower facilities, financial assistance program, payment plans
+   - Location/Phone: See [**SLO County YMCA**](Directory.md#SLO-County-YMCA) in the [Directory](Directory.md)
+   - Services: Fitness center, basketball court, group classes, youth sports
+   - Note: Contact for financial assistance options to access shower facilities through membership
+1. No Five Cities YMCA Locations; closest alternative is "Santa Maria Valley YMCA" (3400 Skyway Dr., Santa Maria)
+1. **County Park Shower Facilities** (Coin-operated)
+   1. **El Chorro Regional Park Campground**: Coin-operated showers available to day-use visitors
+      - Location/Phone/Email: See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
+   1. **Lopez Lake Recreation Area**: Hot shower facilities (coin-operated)
+      - Phone/Email: See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
+   1. **Santa Margarita Lake Recreation Area**: Coin-operated showers available to day-use visitors
+      - Phone/Email: See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
+   1. **Coastal Dunes RV Park & Campground**: 22 campsites with shower access
+      - Location/Phone: See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
+   1. **Oceano Campground**: 24 campsites with coin-operated showers
+      - Location/Phone: See [**Oceano Campground**](Directory.md#Oceano-Campground) in the [Directory](Directory.md)
+1. **Port San Luis Harbor - Coastal Gateway Multi-Purpose Room**: Coin-operated showers ($2); Contact for current hours; Source: [portsanluis.com](https://www.portsanluis.com/2164/Coastal-Gateway-Multi-Purpose-Room)
+   - Phone/Email/Location: See [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) in the [Directory](Directory.md)
+1. **Pismo Beach Athletic Club**: Day pass ($15) provides access to all facilities including showers
+   - Location/Phone/Hours: See [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) in the [Directory](Directory.md)
 
 ## <a id="health-medical-care">**Health, medical care**</a>
    1. All the stuff in [our current health resources booklet](https://showerthepeopleslo.org/health-and-medical-care-resources/), plus maybe:
@@ -1136,149 +1135,136 @@ San Luis Obispo:
    1. Add AA, NA, Marijuana Anonymous; but refer readers to their directories for details about individual meetings
 
 ## <a id="tattoo-removal">**Tattoo removal**</a>
-   1. **Free/Low-Cost Programs**
-      1. [**Liberty Tattoo Removal Program (CAPSLO)**](https://capslo.org/liberty-tattoo-removal)
-         - What’s Available: No-cost laser tattoo removal for gang-related, anti-social, and/or economically limiting tattoos
-         - Eligibility: SLO County residents with tattoos that create employment barriers or interfere with life goals
-         - Requirements: 4 hours of community service before each treatment OR equivalent donation
-         - Additional requirements: Must remain clean and sober throughout program; agree not to get new tattoos while in program
-         - Locations: San Luis Obispo and Arroyo Grande (serves Five Cities area)
-         - Phone/Email: See [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) in the [Directory](Directory.md)
-         - Partner: Sierra Vista Regional Medical Center provides space and supplies; community physicians donate time
-      1. [**Catholic Charities Diocese of Monterey Tattoo Removal Program**](https://catholiccharitiesdom.org/tattoo-removal-program)
-         - What’s Available: Low-cost tattoo removal with sliding scale fees
-         - Cost: $20–90 per session based on ability to pay
-         - Requirements: Complete 20 hours of community service; attend face-to-face intake interview
-         - Eligibility: No age limit; prioritizes offensive or gang-related tattoos; treats visible and non-visible tattoos (non-visible refers to tattoos typically covered by clothing but may still create barriers to employment)
-         - Application process: Call 831-316-9121 for appointment; bring community service completion letter, photo ID; minors must be accompanied by parent/guardian
-         - Treatment schedule: Multiple treatments required, scheduled two months apart
-         - Service area: Serves multiple counties including areas near SLO County
-         - Hours/Location: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
-      1. [**Removery INK-nitiative Program**](https://removery.com/services/ink-nitiative)
-         - What’s Available: Free tattoo removal for people with difficult backgrounds
-         - Eligibility: Must be formerly incarcerated, former gang members, survivors of domestic abuse, or survivors of human trafficking
-         - Tattoo requirements: Must be in visible areas (hands, neck, face) and/or depict gang or hate group imagery
-         - How to apply: Contact Removery locations or check their website for application process
-   1. What to Expect from Laser Tattoo Removal
-      - Process: Laser breaks down ink particles so immune system can remove them; treatment takes 1–5 minutes depending on tattoo size
-      - Number of sessions: Most tattoos require 10–12 visits for complete removal; some need 5–8 sessions
-      - Session spacing: Treatments must be 6–8 weeks apart to allow healing
-      - Immediate effects: Skin turns white ("frosting") immediately after treatment; area becomes red and swollen
-      - Healing timeline: Initial healing 4–8 weeks; complete healing process 6–8 weeks per session
-   1. Aftercare and Healing
-      - First 24–48 hours: Apply ice compress (max 3 minutes at a time) for first hour; keep area clean and dry for 3 days
-      - Daily care: Clean twice daily with mild soap and water; apply hydrocortisone cream or antibiotic ointment
-      - Critical restrictions: Do not pick at blisters or scabs; avoid sun exposure; no swimming or soaking
-      - Supporting healing: Stay hydrated, avoid alcohol, don't smoke (smoking slows healing and requires more treatments)
-      - Expected side effects: Blistering and scabbing within 12–24 hours lasting up to 2 weeks is normal
-   1. Employment and Life Benefits
-      - Job opportunities: Removing visible tattoos can eliminate employment barriers, especially for jobs with appearance policies
-      - Social integration: Helps remove barriers to community participation and social acceptance
-      - Fresh start: Provides opportunity to move past previous life experiences reflected in tattoo imagery
-   1. **Additional Resources**
-      1. [**Jails to Jobs**](https://jailstojobs.org/resources/tattoo-removal-programs): Maintains directory of 300+ free and low-cost tattoo removal programs nationwide
+
+There are programs available that will erase your tattoos.
+This can help you if you have tattoos that interfere with your ability to get a job or that are suggestive of gang or hate group affiliation.
+Tattoo removal can help you get a fresh start, unburdened by regretful decisions from your past.
+
+The process of laser tattoo removal takes time.
+Typically you undergo between five and twelve visits, each one lasting about five minutes, over several months.
+In each visit a laser breaks down ink particles in your tattoo so that your immune system can remove them.
+The tattooed area will become red and swollen soon after treatment, but this eventually settles down.
+Sometimes there is some blistering and scabbing.
+You will need to take some care to keep the area of the tattoo clean, and to apply some ointments that assist healing.
+
+The [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) offers laser tattoo removal of gang-related, anti-social, or economically limiting tattoos.
+You are required to do four hours of community service (or an equivalent financial donation) before each treatment, but there is otherwise no cost.
+You must agree to remain clean and sober, and to get no more tattoos, during the treatment.
+This service is offered locally, in SLO County.
+
+[**Catholic Charities**](Directory.md#CatholicCharities) has a low-cost tattoo removal program ($20–90 per session, on a sliding scale based on ability to pay).
+You must also complete 20 hours of community service before beginning treatment.
+They prioritize the removal of offensive or gang-related tattoos, and will remove both visible-and-obvious tattoos (e.g. the face, the back of the hands) and more discreet ones.
+Call them to begin the process.
+
+The [Removery INK-nitiative Program](https://removery.com/services/ink-nitiative) offers free removal of tattoos, if those tattoos are in visible areas (face, hands, arms) or suggest gang or hate group affiliation, to people who have ben incarcerated, are former gang members, or are survivors of domestic abuse or human trafficking.
+Apply on their website.
+
+The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) website lists hundreds of other free or low-cost tattoo removal programs throughout the country.
 
 ## <a id="end-of-life-care-advance-directives-hospice">**End-of-life care, advance directives, hospice**</a>
-   1. **Hospice Services**
-      1. **Hospice of San Luis Obispo County**
-         - Location/Phone/Hours: See [**Hospice SLO**](Directory.md#Hospice-SLO) in the [Directory](Directory.md)
-         - Services: Non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, end-of-life companion support, community grief response
-         - Cost: All services provided at *no charge* — does not bill insurance, relies entirely on community donations
-         - Eligibility: San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life
-         - Website: [hospiceslo.org](https://hospiceslo.org/)
-      1. **Central Coast Home Health and Hospice**
-         - Location/Phone: See [**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) in the [Directory](Directory.md)
-         - Services: 24/7 hospice nurse availability, nursing services, spiritual care, dietitian services, social work services, bereavement services, home health aides, trained volunteers, support groups, musicians
-         - Coverage Area: San Luis Obispo and Santa Barbara counties
-         - Insurance: Accepts Medicare; contact 855-240-2530 to verify Medi-Cal acceptance and discuss financial assistance options
-         - Website: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/)
-      1. **Dignity Health French Hospital Medical Center Home Health and Hospice**
-         - Services: Team-oriented medical care, symptom and pain management, emotional and spiritual support tailored to patient needs
-         - Contact/Location/Insurance/Financial Assistance: See [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) in the [Directory](Directory.md)
-         - Website: [dignityhealth.org](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/home-health-hospice-and-infusion-services)
-      1. [**Medically Fragile Homeless Program**](https://cfsslo.org/#mfh)
-         - Services: shelter for terminally ill persons who have need of housing to allow the person to die in the dignity and stability of housing with the care of hospice
-         - Eligibility: homeless people in SLO County
-         - Access: via [**Adult Protective Services**](Directory.md#Adult-Protective-Services); or via a referral from CalWORKs (another source says "through Social Services or APS")
-         - Program Status: Program is currently active as of 2025; referrals processed through [**Adult Protective Services**](Directory.md#Adult-Protective-Services) and CalWORKs families through HSP Case Managers [Source: [cfsslo.org](https://cfsslo.org)]
-   1. **Palliative Care Services**
-      1. [**CenCal Health Palliative Care Program**](https://www.cencalhealth.org/)
-         - Eligibility: Medi-Cal beneficiaries (not Medicare/Medi-Cal dual-eligible) without age restrictions
-         - Services: Patient and family-centered care focused on quality of life, symptom management, addressing physical, emotional, social, and spiritual needs
-         - Contact: 877-814-1861 for CenCal Health member services
-         - Alternative URL: Member handbook available at [cencalhealth.org/members/member-handbook/](https://www.cencalhealth.org/members/member-handbook/) with more details
-      1. [**San Luis Obispo VA Clinic**](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
-         - Services: Palliative care for pain reduction and symptom control (nausea, etc.)
-         - Eligibility: Veterans enrolled in VA healthcare
-         - Contact: San Luis Obispo VA Clinic, 805-543-1001; palliative care available through VA Greater Los Angeles Healthcare System
-         - Note: Contact clinic directly for specific palliative care referrals and services
-   1. **Advance Directives and Legal Planning**
-      1. **What Are Advance Directives?**
-         - Definition: Legal documents that let you communicate your healthcare wishes in advance, in case you become unable to speak for yourself
-         - Purpose: Ensure your medical care preferences are known and followed when you cannot communicate them
-         - Types of advance directives:
-            - Living Will: Written document specifying what medical treatments you would or would not want if terminally ill or in persistent vegetative state
-            - Healthcare Power of Attorney: Designates a trusted person to make medical decisions for you when you cannot
-            - Do Not Resuscitate (DNR) Orders: Written document expressing desire to refuse resuscitation efforts
-         - Why they're important:
-            - Control: Keeps healthcare decisions in the hands of people you trust
-            - Clarity: Family members guess end-of-life preferences incorrectly about one-third of the time
-            - Reduces burden: Helps loved ones make difficult decisions and may reduce their guilt and depression
-            - Peace of mind: Provides assurance that your wishes will be respected
-         - When to create them: The best time is *before* you need them, while you can still make clear decisions
-         - Source: [nia.nih.gov](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care) and [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/living-wills/art-20046303)
-      1. [**San Luis Obispo Legal Assistance Foundation (SLOLAF)**](https://www.slolaf.org/)
-         - Services: Assistance with durable powers of attorney for finances, advance health care directives, simple wills
-         - Eligibility: Age 60+ residents of San Luis Obispo County, also serves low-income individuals, veterans, people with disabilities
-         - Cost: Free services (donations appreciated)
-         - Contact: 805-543-5140, 3232 South Higuera #101D, San Luis Obispo, CA 93401
-         - Response Time: Returns calls within three business days
-         - Immigration Status: No documentation required
-      1. **San Luis Obispo College of Law Legal Clinic**
-         - Location/Phone/Hours: See [**San Luis Obispo College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic) in the [Directory](Directory.md)
-         - Services: Legal information for advance directives and estate planning under attorney supervision (for age 60+ residents); free services with $15 fee for paperwork
-         - Eligibility: Unable to afford attorney; age/income requirements for advance directives
-         - Website: [montereylaw.edu/clinics/indexslocl.html](https://montereylaw.edu/clinics/indexslocl.html)
-      1. **Long Term Care Ombudsman**
-         - Location/Phone/Email/Hours: See [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) in the [Directory](Directory.md)
-         - Services: Advanced directive witnessing (also advocacy for nursing home residents, complaint investigation)
-         - Coverage: All cities in SLO County
-         - Eligibility: Individuals unable to afford an attorney
-         - Cost: No charge
-         - Website: [slocll.org/self-help-2/legal-help](https://www.slocll.org/self-help-2/legal-help/)
-         - Contact: 805-548-8884 (telephone consultations by appointment only)
-      1. **California Rural Legal Assistance (CRLA) - SLO Office**
-         - Services: Free legal assistance for low-income residents including advance directives
-         - Location/Phone/Hours: See [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) in the [Directory](Directory.md)
-         - Alternative: Senior Legal Services Project: 805-543-5140 (serves seniors 60+)
-         - Website: [crla.org](https://crla.org/locations/san-luis-obispo)
-      1. **Free Online Advance Directive Resources**
-         1. **[PREPARE for Your Care](https://prepareforyourcare.org/)**: Interactive online program available in English and Spanish (funded by National Institute on Aging)
-            - Features: Video stories, easy-to-read language, helps explore personal values and preferences; includes advance directives for all 50 states
-            - Contact: [info@prepareforyourcare.org](mailto:info@prepareforyourcare.org); developed by UCSF PREPARE lab team
-         1. **[The Conversation Project](https://theconversationproject.org/)**: Online conversation guides and advance care documents in English, Spanish, and Chinese
-            - Resources: Conversation Starter Guide, Health Care Proxy guides, What Matters to Me Workbook, caregiver guides for dementia
-            - Access: Free downloads available at [theconversationproject.org/get-started](https://theconversationproject.org/get-started)
-   1. **Special Considerations for Homeless Individuals**
-      1. **Enhanced Care Management through CenCal Health**
-         - Services: Dedicated care team support for members with complex health and social needs, including homeless individuals
-         - Benefits: Assistance with medical care coordination and temporary housing placement following hospitalization
-         - Contact: 800-421-2560 for CenCal Health member services
-      1. **Recuperative Care Beds**
-         - Services: Stable, clean place for homeless individuals to receive medical care coordination following hospitalization or illness; case management for medication management and medical appointment scheduling; closely integrated with 40 Prado's medical clinic for seamless care
-         - Location: 40 Prado Homeless Services Center
-         - Contact: Healthcare Navigation Center at 805-361-8400 for referrals to appropriate clinics
-         - Funding: CenCal insurance covers the recuperative care program
-         - Utilization: 32 individuals housed in 2024, 56 individuals served in 2025 as of August
-         - Access: Clients can be referred directly from the integrated medical clinic when they need recovery time but don't have a safe place to heal
-         - Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
-      1. **Community Health Centers - Prado Healthcare for the Homeless Program**
-         - Services: Integrated health clinic providing primary and urgent care specifically for homeless clients; wrap-around services with co-located organizations; on-site pharmacy for immediate medication dispensing; in-house lab testing for pregnancy, strep throat, flu, COVID-19, and urine analysis; case management for medication management and appointment scheduling
-         - Location/Phone/Hours: See [**Healthcare for the Homeless Program**](Directory.md#HCHP) in the [Directory](Directory.md)
-         - Insurance: CenCal accepted (most common insurance among homeless clients)
-         - Integration: Works closely with 40 Prado's recuperative care beds for clients needing recovery time after medical treatment
-         - Access: Must complete intake at 40 Prado first; serves 10–20 homeless individuals daily
-         - Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
+
+### Hospice and Palliative Care Services
+1. **Hospice of San Luis Obispo County**
+   - Location/Phone/Hours: See [**Hospice SLO**](Directory.md#Hospice-SLO) in the [Directory](Directory.md)
+   - Services: Non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, end-of-life companion support, community grief response
+   - Cost: All services provided at *no charge* — does not bill insurance, relies entirely on community donations
+   - Eligibility: San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life
+   - Website: [hospiceslo.org](https://hospiceslo.org/)
+1. **Central Coast Home Health and Hospice**
+   - Location/Phone: See [**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) in the [Directory](Directory.md)
+   - Services: 24/7 hospice nurse availability, nursing services, spiritual care, dietitian services, social work services, bereavement services, home health aides, trained volunteers, support groups, musicians
+   - Coverage Area: San Luis Obispo and Santa Barbara counties
+   - Insurance: Accepts Medicare; contact 855-240-2530 to verify Medi-Cal acceptance and discuss financial assistance options
+   - Website: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/)
+1. **Dignity Health French Hospital Medical Center Home Health and Hospice**
+   - Services: Team-oriented medical care, symptom and pain management, emotional and spiritual support tailored to patient needs
+   - Contact/Location/Insurance/Financial Assistance: See [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) in the [Directory](Directory.md)
+   - Website: [dignityhealth.org](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/home-health-hospice-and-infusion-services)
+1. [**Medically Fragile Homeless Program**](https://cfsslo.org/#mfh)
+   - Services: shelter for terminally ill persons who have need of housing to allow the person to die in the dignity and stability of housing with the care of hospice
+   - Eligibility: homeless people in SLO County
+   - Access: via [**Adult Protective Services**](Directory.md#Adult-Protective-Services); or via a referral from CalWORKs (another source says "through Social Services or APS")
+   - Program Status: Program is currently active as of 2025; referrals processed through [**Adult Protective Services**](Directory.md#Adult-Protective-Services) and CalWORKs families through HSP Case Managers [Source: [cfsslo.org](https://cfsslo.org)]
+1. [**CenCal Health Palliative Care Program**](https://www.cencalhealth.org/)
+   - Eligibility: Medi-Cal beneficiaries (not Medicare/Medi-Cal dual-eligible) without age restrictions
+   - Services: Patient and family-centered care focused on quality of life, symptom management, addressing physical, emotional, social, and spiritual needs
+   - Contact: 877-814-1861 for CenCal Health member services
+   - Alternative URL: Member handbook available at [cencalhealth.org/members/member-handbook/](https://www.cencalhealth.org/members/member-handbook/) with more details
+1. [**San Luis Obispo VA Clinic**](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
+   - Services: Palliative care for pain reduction and symptom control (nausea, etc.)
+   - Eligibility: Veterans enrolled in VA healthcare
+   - Contact: San Luis Obispo VA Clinic, 805-543-1001; palliative care available through VA Greater Los Angeles Healthcare System
+   - Note: Contact clinic directly for specific palliative care referrals and services
+
+### Advance Directives and Legal Planning
+1. **What Are Advance Directives?**
+   - Definition: Legal documents that let you communicate your healthcare wishes in advance, in case you become unable to speak for yourself
+   - Purpose: Ensure your medical care preferences are known and followed when you cannot communicate them
+   - Types of advance directives:
+      - Living Will: Written document specifying what medical treatments you would or would not want if terminally ill or in persistent vegetative state
+      - Healthcare Power of Attorney: Designates a trusted person to make medical decisions for you when you cannot
+      - Do Not Resuscitate (DNR) Orders: Written document expressing desire to refuse resuscitation efforts
+   - Why they're important:
+      - Control: Keeps healthcare decisions in the hands of people you trust
+      - Clarity: Family members guess end-of-life preferences incorrectly about one-third of the time
+      - Reduces burden: Helps loved ones make difficult decisions and may reduce their guilt and depression
+      - Peace of mind: Provides assurance that your wishes will be respected
+   - When to create them: The best time is *before* you need them, while you can still make clear decisions
+   - Source: [nia.nih.gov](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care) and [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/living-wills/art-20046303)
+1. [**San Luis Obispo Legal Assistance Foundation (SLOLAF)**](https://www.slolaf.org/)
+   - Services: Assistance with durable powers of attorney for finances, advance health care directives, simple wills
+   - Eligibility: Age 60+ residents of San Luis Obispo County, also serves low-income individuals, veterans, people with disabilities
+   - Cost: Free services (donations appreciated)
+   - Contact: 805-543-5140, 3232 South Higuera #101D, San Luis Obispo, CA 93401
+   - Response Time: Returns calls within three business days
+   - Immigration Status: No documentation required
+1. **San Luis Obispo College of Law Legal Clinic**
+   - Location/Phone/Hours: See [**San Luis Obispo College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic) in the [Directory](Directory.md)
+   - Services: Legal information for advance directives and estate planning under attorney supervision (for age 60+ residents); free services with $15 fee for paperwork
+   - Eligibility: Unable to afford attorney; age/income requirements for advance directives
+   - Website: [montereylaw.edu/clinics/indexslocl.html](https://montereylaw.edu/clinics/indexslocl.html)
+1. **Long Term Care Ombudsman**
+   - Location/Phone/Email/Hours: See [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) in the [Directory](Directory.md)
+   - Services: Advanced directive witnessing (also advocacy for nursing home residents, complaint investigation)
+   - Coverage: All cities in SLO County
+   - Eligibility: Individuals unable to afford an attorney
+   - Cost: No charge
+   - Website: [slocll.org/self-help-2/legal-help](https://www.slocll.org/self-help-2/legal-help/)
+   - Contact: 805-548-8884 (telephone consultations by appointment only)
+1. **California Rural Legal Assistance (CRLA) - SLO Office**
+   - Services: Free legal assistance for low-income residents including advance directives
+   - Location/Phone/Hours: See [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) in the [Directory](Directory.md)
+   - Alternative: Senior Legal Services Project: 805-543-5140 (serves seniors 60+)
+   - Website: [crla.org](https://crla.org/locations/san-luis-obispo)
+1. **Free Online Advance Directive Resources**
+   1. **[PREPARE for Your Care](https://prepareforyourcare.org/)**: Interactive online program available in English and Spanish (funded by National Institute on Aging)
+      - Features: Video stories, easy-to-read language, helps explore personal values and preferences; includes advance directives for all 50 states
+      - Contact: [info@prepareforyourcare.org](mailto:info@prepareforyourcare.org); developed by UCSF PREPARE lab team
+   1. **[The Conversation Project](https://theconversationproject.org/)**: Online conversation guides and advance care documents in English, Spanish, and Chinese
+      - Resources: Conversation Starter Guide, Health Care Proxy guides, What Matters to Me Workbook, caregiver guides for dementia
+      - Access: Free downloads available at [theconversationproject.org/get-started](https://theconversationproject.org/get-started)
+
+### Other/Uncategorized
+1. **Enhanced Care Management through CenCal Health**
+   - Services: Dedicated care team support for members with complex health and social needs, including homeless individuals
+   - Benefits: Assistance with medical care coordination and temporary housing placement following hospitalization
+   - Contact: 800-421-2560 for CenCal Health member services
+1. **Recuperative Care Beds**
+   - Services: Stable, clean place for homeless individuals to receive medical care coordination following hospitalization or illness; case management for medication management and medical appointment scheduling; closely integrated with 40 Prado's medical clinic for seamless care
+   - Location: 40 Prado Homeless Services Center
+   - Contact: Healthcare Navigation Center at 805-361-8400 for referrals to appropriate clinics
+   - Funding: CenCal insurance covers the recuperative care program
+   - Utilization: 32 individuals housed in 2024, 56 individuals served in 2025 as of August
+   - Access: Clients can be referred directly from the integrated medical clinic when they need recovery time but don't have a safe place to heal
+   - Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
+1. **Community Health Centers - Prado Healthcare for the Homeless Program**
+   - Services: Integrated health clinic providing primary and urgent care specifically for homeless clients; wrap-around services with co-located organizations; on-site pharmacy for immediate medication dispensing; in-house lab testing for pregnancy, strep throat, flu, COVID-19, and urine analysis; case management for medication management and appointment scheduling
+   - Location/Phone/Hours: See [**Healthcare for the Homeless Program**](Directory.md#HCHP) in the [Directory](Directory.md)
+   - Insurance: CenCal accepted (most common insurance among homeless clients)
+   - Integration: Works closely with 40 Prado's recuperative care beds for clients needing recovery time after medical treatment
+   - Access: Must complete intake at 40 Prado first; serves 10–20 homeless individuals daily
+   - Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
 
 ## <a id="personal-safety-deescalation-self-defense">**Personal safety, deescalation, self-defense**</a>
    1. **Outside Crisis Intervention and Deescalation Resources**
@@ -1743,41 +1729,46 @@ San Luis Obispo:
          - Hospital records of birth may sometimes be used as supporting evidence
 
 ## <a id="mail-drops-post-office-boxes-etc">**Mail drops, post office boxes, etc.**</a>
-   1. **Homeless Service Centers with Mail Services**
-      1. **5Cities Homeless Coalition Office**
-         - What’s Available: Mail services for clients
-         - Services: Information and referral, coordinated entry services
-         - Website/Location/Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-      1. **40 Prado Homeless Services Center**
-         - What’s Available: Mail and phone services for all participants
-         - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-         - Eligibility: Individuals and families using center services
-         - Benefits: Secure mail handling for people without permanent addresses
-   1. **Commercial Mail Services**
-      1. **The UPS Store—SLO**
-         - What’s Available: Private mailbox with real street address (1241 Johnson Ave), secure package acceptance, mail receipt notifications, mail holding and forwarding
-         - Location: 1241 Johnson Avenue, SLO
-         - Benefits: Professional street address, package acceptance from all carriers
-         - Cost: Monthly fees apply; contact for current pricing
-      1. **US Postal Service PO Boxes**
-         - Locations: Multiple post offices throughout SLO County
-         - Cost: Most affordable commercial option; varies by size and location
-         - Limitations: PO Box address (not street address) may not be accepted by all services
-   1. **General Delivery Service**
-      1. **USPS General Delivery**
-         - What’s Available: Temporary mail holding service at any post office
-         - How it works: Mail addressed to "*Your Name*, General Delivery, City, State, ZIP"
-         - **SLO County General Delivery addresses:**
-            - **San Luis Obispo:** General Delivery, San Luis Obispo, CA 93401-9999 (Main Post Office: 1655 Dalidio Dr, 805-543-2605)
-            - **Other cities:** Use format "General Delivery, [City Name], CA [ZIP Code]-9999" - confirm General Delivery availability by calling local post office
-            - **ZIP codes for major SLO County cities:** Arroyo Grande (93420), Atascadero (93422), Grover Beach (93433), Los Osos (93402), Morro Bay (93442), Nipomo (93444), Oceano (93445), Paso Robles (93446), Pismo Beach (93449), Santa Margarita (93453), Templeton (93465) [Source: [ca.postcodebase.com](https://ca.postcodebase.com/zipcode/93401-9999)]
-         - Pickup requirements: Valid photo ID required; mail held for 30 days
-         - Cost: Free service
-         - Limitations: Temporary solution only; not suitable for long-term use
-            - Why not long-term: Designed for travelers/temporary situations; post offices may restrict or decline mail after extended use; intended for temporary relocation, not permanent residence
-            - Time restrictions: Individual post offices set their own limits; some may restrict after several months of continuous use; varies by location
-            - Additional barriers: Some locations require advance registration, impose handling fees, or have other restrictions
-            - Sources: [escapeesmailservice.com](https://escapeesmailservice.com/), [govfacts.org](https://govfacts.org/)
+
+If you are homeless, you may be at a loss when asked for your mailing address.
+There are various ways to establish a reliable mailing address even if you do not have a stable living address.
+
+The [**5Cities Homeless Coalition**](Directory.md#5CHC) and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you.
+Ask them for details.
+
+You can rent mail boxes from UPS Stores and from the U.S. Postal Service.
+The Postal Service option is the most affordable of the two.
+But sometimes, a “P.O. Box” address (which is what you get from the Postal Service) is not adequate for your needs, and one advantage of the UPS Store option is that it appears as a regular street address (e.g. “1241 Johnson Avenue, San Luis Obispo”).
+
+Another option is to ask people to send you mail addressed to [“General Delivery”](https://faq.usps.com/s/article/What-is-General-Delivery):
+> *Your Name*<br />
+> General Delivery<br />
+> *City Name*, CA *ZIP-Code*‒9999
+
+Here are some General Delivery zip codes for our area:
+
+| Post Office     | ZIP Code   |
+| --------------- | ---------- |
+| Arroyo Grande   | 93420‒9999 |
+| Atascadero      | 93422‒9999 |
+| Grover Beach    | 93433‒9999 |
+| Los Osos        | 93402‒9999 |
+| Morro Bay       | 93442‒9999 |
+| Nipomo          | 93444‒9999 |
+| Oceano          | 93445‒9999 |
+| Paso Robles     | 93446‒9999 |
+| Pismo Beach     | 93449‒9999 |
+| Santa Margarita | 93453‒9999 |
+| Templeton       | 93465‒9999 |
+
+You should speak with the postmaster at the post office where you want to receive general delivery mail beforehand.
+The post office will hold general delivery mail for you for 30 days.
+You must have a valid photo ID to pick up your mail at the post office.
+This service is free.
+However, this is not a long-term solution; it is meant for temporary use (for instance by travellers passing through town).
+The post office may stop accepting general delivery mail for you if you try to use this method for a long time or if you get too much mail.
+
+<!-- Other options to investigate:
    1. **Faith-Based and Community Mail Services**
       - Specific Organizations to Contact:
         - **Catholic Charities Diocese of Monterey**: (call to inquire about mail assistance)
@@ -1785,11 +1776,7 @@ San Luis Obispo:
         - **The Salvation Army SLO Corps**: (offers case management/referral services; ask about mail support)
           - Locations/Phone: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
       - Note: Call organizations directly to verify current mail service availability; services may be limited to active participants [Sources: [catholiccharitiesdom.org](https://catholiccharitiesdom.org/), [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)]
-   1. Tips for Mail Management
-      - Important documents: Keep copies of critical mail and scan/photograph documents when possible
-      - Service coordination: Choose mail location near other services you use regularly
-      - Notification systems: Set up mail notifications when available to avoid missing important deliveries
-      - Address verification: Confirm that chosen address will be accepted by government agencies, banks, and employers
+-->
 
 ## <a id="banking-and-money-management">**Banking and money management**</a>
    1. **Local Credit Unions** (Often more flexible for homeless individuals)
