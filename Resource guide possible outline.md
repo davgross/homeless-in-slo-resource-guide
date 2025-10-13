@@ -141,52 +141,52 @@ If you would like to suggests corrections or improvements, or if you would like 
   <tr><th>Phone Number</th><th>Description</th></tr>
  </thead><tbody>
   <tr><th colspan="2" style="text-align:left;">Emergency and Crisis Lines:</th></tr>
-   <tr><td><a href="tel:911">911</a></td><td>Medical and safety emergencies</td></tr>
-   <tr><td><a href="tel:988">988</a> or <a href="tel:800-273-8255">800-273-8255</a></td><td>National Suicide Prevention Lifeline (<a href="tel:800-799-4889">800-799-4889</a> if you are deaf or hard of hearing)</td></tr>
-   <tr><td><a href="tel:800-783-0607">800-783-0607</a> or <a href="tel:805-783-0607">805-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr>
+   <tr><td><a href="tel:+1-911">911</a></td><td>Medical and safety emergencies</td></tr>
+   <tr><td><a href="tel:+1-988">988</a> or <a href="tel:800-273-8255">800-273-8255</a></td><td>National Suicide Prevention Lifeline (<a href="tel:800-799-4889">800-799-4889</a> if you are deaf or hard of hearing)</td></tr>
+   <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a> or <a href="tel:+1-805-783-0607">805-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr>
    <tr><td>Text HOME to <a href="sms:741741">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> on-line</td></tr>
-   <tr><td><a href="tel:833-317-4673">833-317-4673</a> (español: <a href="tel:833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidental emotional support</td></tr>
-   <tr><td><a href="tel:800-838-1381">800-838-1381</a></td><td>Mental Health Evaluation Team (MHET) and Mobile Crisis Team: 24/7 psychiatric emergency response throughout SLO County; responds to psychiatric emergency calls and provides assessments for adults or children</td></tr>
+   <tr><td><a href="tel:+1-833-317-4673">833-317-4673</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidental emotional support</td></tr>
+   <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Mental Health Evaluation Team (MHET) and Mobile Crisis Team: 24/7 psychiatric emergency response throughout SLO County; responds to psychiatric emergency calls and provides assessments for adults or children</td></tr>
   <tr><th colspan="2" style="text-align:left;">For Young People:</th></tr>
-   <tr><td><a href="tel:800-843-5200">800-843-5200</a></td><td>Youth Crisis Line, for people in California ages 12–24; call or text</td></tr>
-   <tr><td><a href="tel:800-786-2929">800-786-2929</a></td><td>National Runaway Safeline: 24/7 confidential support for runaway and homeless </td></tr>
-   <tr><td><a href="tel:866-331-9474">866-331-9474</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr>
+   <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Youth Crisis Line, for people in California ages 12–24; call or text</td></tr>
+   <tr><td><a href="tel:+1-800-786-2929">800-786-2929</a></td><td>National Runaway Safeline: 24/7 confidential support for runaway and homeless </td></tr>
+   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr>
   <tr><th colspan="2" style="text-align:left;">For LGBTQ People:</th></tr>
-   <tr><td><a href="tel:866-488-7386">866-488-7386</a> or text &ldquo;START&rdquo; to <a href="sms:678678">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr>
-   <tr><td><a href="tel:877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr>
+   <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text &ldquo;START&rdquo; to <a href="sms:678678">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr>
+   <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr>
    <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
   <tr><th colspan="2" style="text-align:left;">For Victims of Sexual Assault and Intimate Partner Violence:</th></tr>
-   <tr><td><a href="tel:805-545-8888">805-545-8888</a></td><td>Local sexual assault, sexual abuse, and intimate partner violence crisis line</td></tr>
-   <tr><td><a href="tel:800-799-7233">800-799-7233</a></td><td>National Domestic Violence Hotline</td></tr>
+   <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Local sexual assault, sexual abuse, and intimate partner violence crisis line</td></tr>
+   <tr><td><a href="tel:+1-800-799-7233">800-799-7233</a></td><td>National Domestic Violence Hotline</td></tr>
   <tr><th colspan="2" style="text-align:left;">For Parents:</th></tr>
-   <tr><td><a href="tel:833-852-6262">833-852-6262</a></td><td>National Maternal Mental Health Hotline (call or text)</td></tr>
-   <tr><td><a href="tel:888-431-2229">888-431-2229</a></td><td>Fussy Baby Network Warmline</td></tr>
-   <tr><td><a href="tel:877-222-9723">877-222-9723</a></td><td>Safe Surrender Site locations in California (where to confidentially surrender a newborn you cannot take care of)</td></tr>
+   <tr><td><a href="tel:+1-833-852-6262">833-852-6262</a></td><td>National Maternal Mental Health Hotline (call or text)</td></tr>
+   <tr><td><a href="tel:+1-888-431-2229">888-431-2229</a></td><td>Fussy Baby Network Warmline</td></tr>
+   <tr><td><a href="tel:+1-877-222-9723">877-222-9723</a></td><td>Safe Surrender Site locations in California (where to confidentially surrender a newborn you cannot take care of)</td></tr>
   <tr><th colspan="2" style="text-align:left;">Other Specialized Crisis Lines:</th></tr>
-   <tr><td><a href="tel:805-781-1790">805-781-1790</a> (M–F, 8am–5pm), or <a href="tel:805-729-8011">805-729-8011</a></td><td>Adult Protective Services</td></tr>
-   <tr><td><a href="tel:805-781-5437">805-781-5437</a> or <a href="tel:805-781-1700">805-781-1700</a></td><td>Child Welfare Services emergency suspected child abuse reporting line</td></tr>
-   <tr><td><a href="tel:800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or manmade disaster)</td></tr>
+   <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (M–F, 8am–5pm), or <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Adult Protective Services</td></tr>
+   <tr><td><a href="tel:+1-805-781-5437">805-781-5437</a> or <a href="tel:+1-805-781-1700">805-781-1700</a></td><td>Child Welfare Services emergency suspected child abuse reporting line</td></tr>
+   <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or manmade disaster)</td></tr>
   <tr><th colspan="2" style="text-align:left;">Health and Behavioral Health Information:</th></tr>
-   <tr><td><a href="tel:800-222-1222">800-222-1222</a></td><td>Poison Control: Treatment advice from experts in poisoning care</td></tr>
-   <tr><td><a href="tel:877-435-7443">877-435-7443</a></td><td>Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–9pm EST)</td></tr>
-   <tr><td><a href="tel:800-232-4636">800-232-4636</a></td><td>CDC-INFO: for questions about HIV, viral hepatitis, STDs, or tuberculosis (M–F 8am–8pm ET)</td></tr>
-   <tr><td><a href="tel:800-838-1381">800-838-1381</a></td><td>SLO County Behavioral Health Access Line: Main number for scheduling appointments and getting information about all behavioral health services including navigation and peer support</td></tr>
-   <tr><td><a href="tel:855-600-9276">855-600-9276</a></td><td>California Peer Run Warm Line (also available as a web-based text chat <a href="https://www.mentalhealthsf.org/warm-line">here</a> for people with "a wide range of challenges, including anxiety, depression, and substance use"</td></tr>
-   <tr><td><a href="tel:800-300-8086">800-300-8086</a></td><td>Kick It California, smoking cessation help</td></tr>
-   <tr><td><a href="tel:800-662-4357">800-662-4357</a></td><td>Substance Abuse and Mental Health Service Administration (SAMHSA) national helpline (free, confidential, 24/7 substance abuse treatment referral and info)</td></tr>
-   <tr><td><a href="tel:800-541-3211">800-541-3211</a></td><td>Alcoholics Anonymous 24/7 helpline</td></tr>
-   <tr><td><a href="tel:800-549-7730">800-549-7730</a></td><td>Narcotics Anonymous 24/7 helpline</td></tr>
+   <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Poison Control: Treatment advice from experts in poisoning care</td></tr>
+   <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–9pm EST)</td></tr>
+   <tr><td><a href="tel:+1-800-232-4636">800-232-4636</a></td><td>CDC-INFO: for questions about HIV, viral hepatitis, STDs, or tuberculosis (M–F 8am–8pm ET)</td></tr>
+   <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>SLO County Behavioral Health Access Line: Main number for scheduling appointments and getting information about all behavioral health services including navigation and peer support</td></tr>
+   <tr><td><a href="tel:+1-855-600-9276">855-600-9276</a></td><td>California Peer Run Warm Line (also available as a web-based text chat <a href="https://www.mentalhealthsf.org/warm-line">here</a> for people with "a wide range of challenges, including anxiety, depression, and substance use"</td></tr>
+   <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a></td><td>Kick It California, smoking cessation help</td></tr>
+   <tr><td><a href="tel:+1-800-662-4357">800-662-4357</a></td><td>Substance Abuse and Mental Health Service Administration (SAMHSA) national helpline (free, confidential, 24/7 substance abuse treatment referral and info)</td></tr>
+   <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Alcoholics Anonymous 24/7 helpline</td></tr>
+   <tr><td><a href="tel:+1-800-549-7730">800-549-7730</a></td><td>Narcotics Anonymous 24/7 helpline</td></tr>
   <tr><th colspan="2" style="text-align:left;">Finding Help:</th></tr>
-   <tr><td><a href="tel:211">211</a></td><td>Connects you to expert, caring, confidential help of all sorts</td></tr>
+   <tr><td><a href="tel:+1-211">211</a></td><td>Connects you to expert, caring, confidential help of all sorts</td></tr>
   <tr><th colspan="2" style="text-align:left;">Legal Aid and Consumer Protection:</th></tr>
-   <tr><td><a href="tel:800-834-5001">800-834-5001</a></td><td>Community Legal Aid SoCal Hotline for housing discrimination, tenant rights, and consumer protection</td></tr>
-   <tr><td><a href="tel:800-399-4529">800-399-4529</a></td><td>Legal Aid Foundation of Los Angeles (LAFLA) for legal assistance</td></tr>
+   <tr><td><a href="tel:+1-800-834-5001">800-834-5001</a></td><td>Community Legal Aid SoCal Hotline for housing discrimination, tenant rights, and consumer protection</td></tr>
+   <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Legal Aid Foundation of Los Angeles (LAFLA) for legal assistance</td></tr>
   <tr><th colspan="2" style="text-align:left;">Housing and Homeless Services:</th></tr>
-   <tr><td><a href="tel:805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr>
-   <tr><td><a href="tel:805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr>
+   <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr>
+   <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr>
   <tr><th colspan="2" style="text-align:left;">Immigration:</th></tr>
-   <tr><td><a href="tel:805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline</td></tr><!-- To-do: under what circumstances should you call this number? -->
-   <tr><td><a href="tel:888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr>
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline</td></tr><!-- To-do: under what circumstances should you call this number? -->
+   <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr>
  </tbody>
 </table>
 
