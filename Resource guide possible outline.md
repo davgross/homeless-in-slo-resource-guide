@@ -46,9 +46,17 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [For U.S. Military Veterans](#housing-veterans)
    1. [Sober Living Homes](#sober-living-homes)
 1. [Property storage](#property-storage-options)
-   1. Short-Term
-   1. Long-Term
+   1. [Short-Term](#short-term-property-storage)
+   1. [Long-Term](#long-term-property-storage)
 1. [Food](#where-to-get-food)
+   1. [Free Meals](#free-meals)
+   1. [Free Food Pantries](#free-food-pantries)
+   1. [Little Free Pantries](#little-free-pantries)
+   1. [Food Box Distributions](#food-box-distributions)
+   1. [Summer Meal Sites (for Children)](#summer-meal-sites)
+   1. [Senior Meal Programs](#senior-meal-programs)
+   1. [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic)
+   1. [Edible wild plants](#edible-wild-plants)
 1. [Where to refill a water bottle](#where-to-refill-a-water-bottle)
 1. [Transportation](#transportation)
    1. Public Transit
@@ -57,13 +65,13 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. Bicycles
    1. Automobile Insurance and Repair
 1. [Clothing](#where-to-find-free-or-thrift-store-clothing)
-   1. Free Clothing
-   1. Free Clothing for Kids
-   1. Thrift Stores
+   1. [Free Clothes](#free-clothes)
+   1. [Free Clothes for Kids](#free-clothes-for-kids)
+   1. [Thrift Stores](#thrift-stores)
 1. [Laundry](#laundry)
 1. [Showers and hygiene](#showers-and-hygiene)
-   1. Free Shower Programs
-   1. Coin-Operated or Gym Membership Options
+   1. [Free Shower Programs](#free-showers)
+   1. [Coin-Operated or Gym Membership Options](#pay-showers)
 1. [Health, medical care](#health-medical-care)
    1. Emergency Care
    1. Urgent Care
@@ -152,7 +160,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    <tr><td><a href="tel:+1-800-786-2929">800-786-2929</a></td><td>National Runaway Safeline: 24/7 confidential support for runaway and homeless </td></tr>
    <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr>
   <tr><th colspan="2" style="text-align:left;">For LGBTQ People:</th></tr>
-   <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text &ldquo;START&rdquo; to <a href="sms:678678">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr>
+   <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text “START” to <a href="sms:678678">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr>
    <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr>
    <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
   <tr><th colspan="2" style="text-align:left;">For Victims of Sexual Assault and Intimate Partner Violence:</th></tr>
@@ -530,7 +538,7 @@ Here are some residential treatment options in our area:
 
 ## <a id="property-storage-options">**Property storage options**</a>
 
-### Short-Term
+### <a id="short-term-property-storage">Short-Term</a>
 
 If you need to securely store a small amount of property for a few hours or overnight, you have a few options:
 
@@ -545,7 +553,7 @@ These cost 5¢ per hour and can be rented for up to seven consecutive days.
 Use the [BikeLink](https://www.bikelink.org/) app to access and pay for these lockers.
 They are for bicycles only (you cannot use them to store other personal belongings like carts or suitcases), but you can probably get away with storing pannier bags along with your bicycle.
 
-### Long-Term
+### <a id="long-term-property-storage">Long-Term</a>
 
 There are several commercial long-term storage options in SLO County.
 You can find these by doing a web search for terms like “self storage” or “mini storage”.
@@ -556,7 +564,7 @@ Most storage facilities have daytime hours of operation when you can access the 
 
 ## <a id="where-to-get-food">**Food**</a>
 
-### Free Meals
+### <a id="free-meals">Free Meals</a>
 
 | Location     | Meal Provider                                                              | When |
 | ------------ | -------------------------------------------------------------------------- | ---- |
@@ -568,7 +576,7 @@ Most storage facilities have daytime hours of operation when you can access the 
 | SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | Thursday lunch |
 | SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | daily lunch |
 
-### Free Food Pantries
+### <a id="free-food-pantries">Free Food Pantries</a>
 
 Food pantries give away unprepared food (such as fresh produce, canned goods, and packaged food).
 Some pantries have special no-cook/no-refrigeration options for people who do not have access to kitchens.
@@ -596,7 +604,7 @@ Some will give you a pre-prepared box or bag of food, others will allow you to s
 | SLO           | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) “We Care Food Share”              | Wednesdays |
 | SLO           | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                       | Wednesdays |
 
-### Little Free Pantries
+### <a id="little-free-pantries">Little Free Pantries</a>
 
 Little free pantries are small boxes erected in neighborhoods and maintained by the people who live nearby.
 They are self-serve and open 24/7.
@@ -605,18 +613,18 @@ You never know quite what you will find there, but there is usually some canned 
 
 See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Directory](Directory.md) for a list of locations.
 
-### Food Box Distributions
+### <a id="food-box-distributions">Food Box Distributions</a>
 
 The [**SLO Food Bank**](Directory.md#SLO-Food-Bank) gives away food boxes on a regular schedule at a variety of locations in SLO County.
 Visit [slofoodbank.org/food-locator](https://www.slofoodbank.org/food-locator/) for a complete list and schedule of these “Neighborhood Food Distributions.”
 
-### Summer Meal Sites (for Children)
+### <a id="summer-meal-sites">Summer Meal Sites (for Children)</a>
 
 The California Department of Education has a “Summer Food Service Program” to help children during the Summer school break who usually get meals at school.
 This program is open to all children in the community.
 You can find a list of [Summer Meal Sites in San Luis Obispo County](https://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2025&countyname=San_Luis_Obispo) at the California Department of Education website.
 
-### Senior Meal Programs
+### <a id="senior-meal-programs">Senior Meal Programs</a>
 
 [**Meals that Connect**](Directory.md#Meals-that-Connect) has several sites in SLO County where they serve communal lunches every weeekday.
 The program is for people aged 60 and above.
@@ -630,7 +638,7 @@ Low-income seniors (aged 60 and above) can get $20–50 in credit to use at part
 There is limited availability, so if the program runs out of credits you may have to wait until their next budget to apply.
 Learn more about the program and apply to join it at [their website](https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/).
 
-### CalFresh / EBT (Food Stamps) and WIC
+### <a id="calfresh-ebt-wic">CalFresh / EBT (Food Stamps) and WIC</a>
 
 The CalFresh program is California’s version of the federal nutrition program known as “SNAP” or “food stamps.”
 If you have a low income, California will give you an “EBT card” which you can use like a debit card at grocery stores and farmers markets to buy healthy foods.
@@ -653,6 +661,28 @@ See [slocountyfarmers.org](https://www.slocountyfarmers.org/snap) for details.
 
 The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also provides E-WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries.
 
+### <a id="edible-wild-plants">Edible wild plants</a>
+
+There are many edible wild plants available in SLO County.
+When they are in season, they can add nutrition to your diet.
+
+**Warning:** Some wild plants are poisonous.
+You should only forage for wild plants if you know what you are doing.
+
+Some common edible plants in SLO County are:
+
+| Plant | Season |
+| ----- | ------ |
+| [Blackberries](https://ediblewild.info/plants/brambleberries) | Summer, when they turn completely dark |
+| [Nasturtium](https://foragerchef.com/nasturtium-leaves-and-flowers-2/) | Spring and Summer |
+| [Prickly Pear](https://en.wikipedia.org/wiki/Opuntia) | Summer |
+| [Wild Mustard](https://ediblewild.info/plants/mustard) | Spring |
+
+Sometimes you will also see edible fruit trees like plums or cherries on sidewalks, in parks, or in other public places.
+
+Sometimes also people plant fruit trees on their own property but then neglect to harvest the fruit, perhaps because there is more than they need.
+In such a case you can ask the property owner for permission to harvest from their trees.
+
 ### Miscellaneous/Uncategorized/Needs Research
 
 1. **SLO Food Bank**—Main coordination center for county food assistance
@@ -667,58 +697,15 @@ The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also prov
    - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
    - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
    - Source: [linkslo.org](https://linkslo.org/)
-1. **Natural Food Sources**
-   1. **Public Fruit Trees**: [localwiki.org/slo/Public_Fruit_Trees](https://localwiki.org/slo/Public_Fruit_Trees)—locations of publicly accessible fruit trees
-      - Common local fruits: Citrus (winter), apples (fall), figs (late summer), pomegranates (fall)
-      - Harvesting tips: Only pick fully ripe fruit; check if trees are on public property vs. need permission; respect "Do Not Pick" signs
-   1. **Public Berry Bushes**: [localwiki.org/slo/Public_Berry_Bushes](https://localwiki.org/slo/Public_Berry_Bushes)—locations of publicly accessible berry bushes
-      - Blackberries: Common along creeks and roadsides; ripen summer when fully black (not red); best in morning
-      - Other berries: Check LocalWiki for seasonal availability and specific locations
-      - Safety: Only harvest from areas away from roads/pollution; wash thoroughly before eating
-   1. **Edible wild plants guide for SLO County:**
-     - Resource book: "Hiker's guide to wild edible plants of San Luis Obispo County" by Gary Romano
-     - Common edible plants found locally:
-       - Wild mustard (flowers are edible as-is, leaves for chimichurri or cooked as greens)
-       - Wild fennel and plantain roots (warning: poison hemlock can be mistaken for fennel)
-       - Prickly pear cactus fruits (*tunas*) - high in vitamin C (however: they're annoying to eat as they're covered with painful spines)
-       - Wild radishes, dandelion, plantain (higher ground areas)
-     - **SAFETY WARNING:** Some wild plants are poisonous; only forage if you know what you're doing. [Source: [ediblesanluisobispo.com/wild-spirits](https://ediblesanluisobispo.com/wild-spirits/)]
-       - Note: the usefulness/liability ratio is lower for this subsection than I'd like, so maybe omit it entirely
 
 ## <a id="where-to-refill-a-water-bottle">**Where to refill a water bottle**</a>
 
-1. **SLO City—Public Water Bottle Filling Stations**
-   - **City Water Bottle Filling Station Network**: 18 public water bottle filling stations throughout the city, with more being added regularly as part of the city's initiative to reduce single-use plastic
-   - Locations Finder: Visit the city's hydration stations webpage for current locations of all 18 stations [Source: [slocity.org](https://www.slocity.org/government/department-directory/city-administration/office-of-sustainability-and-natural-resources/climate-action/hydration-stations)]
-   - Information: Parks & Recreation Department: 805-781-7301
-   - Current STP water refill resource card: [Document reference](https://docs.google.com/document/d/1bLyDqjh5aSdh_D8yAsby49fUGnzGMDCsW7wUMwVrJ78/edit?tab=t.0) has map of SLO-city listings
-1. **City Parks with Water Access** (SLO)
-   1. **Major Parks** (likely to have water fountains/filling stations): Sinsheimer Park, Emerson Park, Laguna Lake Park, Mitchell Park, French Park, Meadow Park, Santa Rosa Park, Islay Hill Park
-   1. Source: [www.slocity.org](https://www.slocity.org/living/parks-and-recreation/parks)
-1. **Public Buildings with Water Access**
-   1. **SLO County Public Libraries**: All library branches provide public water fountain access
-      1. **SLO Library**: Has filling station
-      - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
-   1. **Community Centers**: Contact individual centers for water fountain availability
-   1. **SLO Swim Center**: Public facility with water fountain access
-1. **County Parks with Water Access**
-   1. [**SLO County Parks**](https://slocountyparks.com/): Most county parks have water fountains or spigots available to visitors
-      1. **El Chorro Regional Park**: Water fountains available
-         - Location/Phone/Email: See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
-      1. **Lopez Lake Recreation Area**: Water fountains and spigots available
-         - Phone/Email: See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
-      1. **Santa Margarita Lake Recreation Area**: Water fountains available
-         - Phone/Email: See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
-      1. **Coastal Dunes RV Park & Campground**: Water access available
-         - Location/Phone: See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
-1. **Five Cities Area** (Arroyo Grande, Grover Beach, Oceano, Pismo Beach, Shell Beach)
-   1. **City Parks**: Most municipal parks in the five cities area have water fountains
-   1. **Beach Access**: Public restroom facilities at beaches typically include water fountains
-   1. **Community Centers**: Contact local parks & recreation departments for specific locations
-1. **North County** (Paso Robles, Atascadero, Templeton)
-   1. **City Parks**: Municipal parks typically include water fountain access
-   1. **Community Centers**: Contact local facilities for water fountain availability
-1. Note: There's a lot of speculation here. It would be better to verify precise locations. We can give general advice that public parks often have water fountains, I suppose.
+Most major parks and recreation facilities have water fountains and/or water bottle refill stations, as do some public libraries.
+
+The city of SLO also has a water bottle filling station network.
+Some of these stations are inside buildings and are only accessible when the building is open for business.
+Others are outside and are available 24/7.
+You can find a map of these hydration stations [at this link](https://storymaps.arcgis.com/stories/ac825840143c4d718e06397d5306fa89) or at [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ojOfK6l3mkAh6JIfFJZwA5ej5Qj232No&ll=35.27079109833796%2C-120.65453885&z=15).
 
 ## <a id="transportation">**Transportation**</a>
 
@@ -882,54 +869,32 @@ Here are some tips for keeping your bike safe if you are camping:
 
 ## <a id="where-to-find-free-or-thrift-store-clothing">**Clothing**</a>
 
-### Free Clothing
+### <a id="free-clothes">Free Clothes</a>
 
-1. **Prado Day Center (40 Prado)**
-   - What’s Available: Free clothing for homeless people
-   - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-   - Additional services: Showers, meals, laundry, case management [Source: [friendsof40prado.org](https://friendsof40prado.org/mission/)]
-1. **Outreach & Engagement Center**
-   - What’s Available: Free clothing available
-   - Location/Phone/Hours: See [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) in the [Directory](Directory.md)
-1. **SLO Grassroots**:
-   - By appointment only. See [**SLO Grassroots**](Directory.md#SLO-Grassroots) in the [Directory](Directory.md)
-1. [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) (north county)
-   - **Services open to community:** clothing, shoes, blankets, sleeping bags, school supplies for children
-1. [**The Salvation Army**](https://sanluisobispo.salvationarmy.org/)
-   - Services: Emergency clothing assistance and financial assistance (by appointment only)
-      - Locations: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
-1. **Los Osos Cares Resource Center** (Voucher Program?)
-   - Location/Phone/Hours: See [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) in the [Directory](Directory.md)
-   - Services: Clothing vouchers for eligible individuals
-1. [**People Helping People**](https://southbayseniorspeoplehelpingpeople.com/) (South Bay Seniors)
-   - Location/Phone: See [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) in the [Directory](Directory.md)
-   - Clothing services: Winter clothes for seniors
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has some free clothing available, as does the associated [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services).
 
-### Free Clothing for Kids
+The [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) can give eligible people vouchers to purchase clothing with.
 
-1. **Children's Resource Network of the Central Coast**
-   - What’s Available: Free clothing, school supplies, books, diapers, and basic resources for children ages newborn to eighteen
-   - Website/Mailing address/Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
-   - Access: Call hotline numbers, use "Place A Request" form on website home page, or visit during walk-in hours (contact for current walk-in schedule)
-   - *(Note: Website appears to be down as of August 2025)*
-   - Note: through multiple program locations including The Teens Closet in Arroyo Grande and Outreach Apparel in San Luis Obispo. Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
-   - Additional programs:
-     - **Traveling Children's Closet**: Mobile service partnering with other nonprofits to provide clothing, diapers, school supplies
-     - **Outreach Apparel**: Free clothing store at Pacific Beach High School (SLO), operated by students including homeless youth
-     - **The Teen's Closet**:
-        - What’s Available: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents
-        - Coverage: San Luis Obispo and Santa Barbara Counties
-        - Contact: Available through Children's Resource Network programs
-        - Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
-        - Cross-reference: Also listed in [Special populations - Unaccompanied minors](#resources-specific-to-particular-subgroups)
-        - Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31613)
-1. [**Assistance League of SLO County**](https://www.assistanceleague.org/san-luis-obispo-county/)
-   - What’s Available: Free new school clothes shopping with retail partners for school-age children in need
-   - Eligibility: Students referred by their educators
-   - Impact: Clothed 2,388 students in 2023
-   - **Operation School Bell**: Provides new school clothing to students in need to enhance educational experience and inspire hope for brighter future
+<!-- verify
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) has clothing, shoes, blankets, and sleeping bags.
 
-### Thrift Stores
+Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can get free clothing from them and to make an appointment.
+-->
+
+[**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of October 2025) is still looking for an office to operate from.
+
+[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) has a program that gives free winter clothes to area seniors.
+
+### <a id="free-clothes-for-kids">Free Clothes for Kids</a>
+
+The [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) has free clothing (and school supplies, books, diapers, and other basic resources) for children from birth to age 18.
+Call their hotline, use the “Place a Request” form on their website, or visit during walk-in hours.
+They also operate the “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel” at which schoolchildren can get clothes and other supplies they need.
+
+[**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) operates the “Operation School Bell” program, which gives needy students credits with which they can shop for new retail school clothes.
+Ask authorities at the child’s school to refer them to the program.
+
+### <a id="thrift-stores">Thrift Stores</a>
 
 Thrift stores sell second-hand (used) clothing at low prices.
 
@@ -940,6 +905,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 
 **Atascadero:**
 
+- [**Goodwill Store**](Directory.md#Goodwill)
 - [**North County Christian Thrift Shop**](Directory.md#North-County-Christian-Thrift-Shop)
 
 **Grover Beach:**
@@ -953,6 +919,9 @@ Thrift stores sell second-hand (used) clothing at low prices.
 **Morro Bay:**
 
 - [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store)
+
+**Paso Robles:**
+- [**Goodwill Store**](Directory.md#Goodwill)
 
 **San Luis Obispo:**
 
@@ -989,7 +958,7 @@ They provide the coins to feed the machines and the laundry detergent and dryer 
 
 ## <a id="showers-and-hygiene">**Showers and hygiene**</a>
 
-### Free Shower Services
+### <a id="free-showers">Free Shower Services</a>
 
 [**Shower the People**](Directory.md#Shower-the-People) offers free showers from its mobile shower trailer several times a week in several locations in SLO city and in Grover Beach.
 They provide towels and soap.
@@ -1006,7 +975,7 @@ You do not have to be a resident there to use the showers, but you do have to un
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) offers hot showers five evenings a week (M–F 4–5:30pm) to anyone in need at both their Atascadero and their Paso Robles locations.
 They will give you toiletries, and they also have clothing, shoes, blankets, and sleeping bags.
 
-### Coin-Operated or Gym Membership Options
+### <a id="pay-showers">Coin-Operated or Gym Membership Options</a>
 
 The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has shower facilities at their Southwood Ave. gym in SLO city.
 These are available to gym members.
@@ -1972,6 +1941,7 @@ The post office may stop accepting general delivery mail for you if you try to u
       - Services: Emergency rental assistance, basic needs support
    1. **The Salvation Army**
       - Locations/Phone: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
+      - Call 805-544-2401 to make an appointment for financial assistance
       - Hours: 10am–12pm, 1pm–2:30pm
       - Services: Emergency financial assistance, utility help, basic needs support
          - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) says "Provides emergency financial assistance for housing, food, utility bills, transportation, and more; Financial assistance by appointment only"

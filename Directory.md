@@ -1053,14 +1053,18 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 
 - [ccgoodwill.org](https://www.ccgoodwill.org/)
 - Locations:
+   - 8310 El Camino Real #A, Atascadero
+   - 1628 W. Grand Ave., Grover Beach
+   - 1020 Park St., Paso Robles
    - 15 S. Higuera St., SLO
    - 880 Industrial Way, SLO (Outlet)
-   - 1628 W. Grand Ave., Grover Beach
 - Phone: [800-894-8440](tel:+1-800-894-8440)
 - Hours:
+   - Atascadero Daily 9am–6pm
+   - Grover Beach: Daily 9am–7pm
+   - Paso Robles: Su–Th 9am–7pm, Fr–Sa 9am–8pm
    - SLO Store: Daily 9am–6pm
    - SLO Outlet: Daily 7am–4pm
-   - Grover Beach: Daily 9am–7pm
 - Notes: Also offers free employment services, career counseling, skills training, résumé preparation
 
 ## <a id="Grace-Central-Coast">Grace Central Coast</a>
@@ -1497,8 +1501,10 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 ## <a id="Los-Osos-Cares">Los Osos Cares Resource Center</a>
 
+- [losososcares.com](https://www.losososcares.com/)
 - Location: Sunnyside School, 800 Manzanita Dr., Room 18, Los Osos
 - Phone: [805-592-2701](tel:+1-805-592-2701)
+- Email: [wecareinlososos@gmail.com](mailto:wecareinlososos@gmail.com)
 - Hours: Tu/W/Th 1–3pm
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
