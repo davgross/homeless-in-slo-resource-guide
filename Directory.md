@@ -487,8 +487,8 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 ## <a id="Catholic-Charities">Catholic Charities</a>
 
 - [catholiccharitiesdom.org](http://catholiccharitiesdom.org/)
-  - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
-  - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
+   - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
+   - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
 - Locations:
    - 751 Palm St., SLO
    - 3220 S. Higuera St. #225, SLO
@@ -520,9 +520,9 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 - Email: [Info@centerforautism.com](mailto:Info@centerforautism.com)
 - Hours: M–F 8am–7pm (weekend hours vary)
 - How to access:
-  - Enroll at [this web page](https://admissions.centerforautism.com/)
-  - or call 877-448-4747 x2
-  - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com)
+   - Enroll at [this web page](https://admissions.centerforautism.com/)
+   - or call 877-448-4747 x2
+   - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com)
 - Notes:
    - Accepts “major insurance carriers”
 
