@@ -44,14 +44,6 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 
 > *See [**Housing Now**](#Housing-Now)*
 
-## <a id="5Cities-Meals-on-Wheels">5Cities Meals on Wheels</a>
-
-- [5citiesmow.com](https://www.5citiesmow.com/)
-- Location: 780 Bello Street, Pismo Beach
-- Phone: 805-773-2053
-- Email: [info@5citiesmow.com](mailto:info@5citiesmow.com)
-- Notes: Serves homebound neighbors in Arroyo Grande, Grover Beach, Oceano, Pismo Beach, and Shell Beach
-
 ## <a id="805-Street-Outreach">805 Street Outreach</a>
 
 - [805streetoutreach.org](https://805streetoutreach.org/)
@@ -424,13 +416,13 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 
 ## <a id="Cal-Poly-Food-Pantry">Cal Poly Food Pantry</a>
 
+- [basicneeds.calpoly.edu/foodpantry](https://basicneeds.calpoly.edu/foodpantry)
 - Location: Cal Poly campus, building 27, room 10
 - Phone: 805-756-7818
 - Hours:
    - M–F 8:30am–6pm (Cal Poly students)
    - F 8:30am–6pm (Cal Poly employees)
-- How to access: all Cal Poly students welcome; no additional eligibility requirements
-- Notes: A project of Cal Poly’s “Basic Needs Initiative”
+- How to access: all Cal Poly students and employees welcome; no additional eligibility requirements
 
 ## <a id="CalJOBS">CalJOBS</a>
 
@@ -496,6 +488,7 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 
 - [catholiccharitiesdom.org](http://catholiccharitiesdom.org/)
   - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
+  - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
 - Locations:
    - 751 Palm St., SLO
    - 3220 S. Higuera St. #225, SLO
@@ -504,6 +497,7 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
    - Note: need to verify which locations are accurate, which specific services are offered at each location
 - Phone: 805-541-9110
    - Immigration Services: 831-722-2675
+   - Tattoo Removal: 831-316-9121
 - Hours: M–F 9am–5pm
 
 ## <a id="CenCal">CenCal</a>
@@ -971,6 +965,14 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 - Phone: 805-473-3368
 - Hours: M–F 2–3:30pm
 - Hosted by [**Lifepoint Church**](#Lifepoint-Church)
+
+## <a id="5Cities-Meals-on-Wheels">Five Cities Meals on Wheels</a>
+
+- [5citiesmow.com](https://www.5citiesmow.com/)
+- Location: 780 Bello Street, Pismo Beach
+- Phone: 805-773-2053
+- Email: [info@5citiesmow.com](mailto:info@5citiesmow.com)
+- Notes: Serves homebound neighbors in Arroyo Grande, Grover Beach, Oceano, Pismo Beach, and Shell Beach
 
 ## <a id="Flying-Flags-Avila-Beach">Flying Flags Avila Beach</a>
 

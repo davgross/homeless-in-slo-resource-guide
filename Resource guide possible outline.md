@@ -24,14 +24,14 @@ Fortunately, there is a lot of help available to people experiencing or threaten
 Unfortunately, it can be difficult to discover this help or to understand how to access it.
 We hope this guide will make it easier.
 
-This guide was developed by volunteers from the [**Shower the People**](Directory.md#Shower-the-People).
-If you would like to make corrections or suggestions for improvement, or if you would like to join our development team, reach out to us at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
+This guide was developed by volunteers from [**Shower the People**](Directory.md#Shower-the-People).
+If you would like to suggests corrections or improvements, or if you would like to join our development team, reach out to us at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
 
 <!-- Special thanks to Laurel Woodson & Mark Grayson for initial funding - (Assuming we rely on those funds) -->
 
 | **External links** |
 | ------------------ |
-| <ul><li>[San Luis Obispo County Community Report 2024](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport): A summary of the results of the 2024 “Point-in-Time Count” census of homeless people in SLO County.</li><li>[Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard): The SLO County Department of Social Services’s summary of the ongoingwork of homeless management agencies.</li><li>[The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness): As adopted by the county Board of Supervisors</li><li>[Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California)</li></ul> |
+| <ul><li>[San Luis Obispo County Community Report 2024](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport): A summary of the results of the 2024 “Point-in-Time Count” census of homeless people in SLO County.</li><li>[Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard): The SLO County Department of Social Services’s summary of the ongoing work of homeless management agencies.</li><li>[The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness): As adopted by the county Board of Supervisors</li><li>[Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California)</li></ul> |
 
 
 ## Table of Contents
@@ -423,7 +423,7 @@ There are some subsidized and affordable housing options especially for seniors 
 
 * [Cortina d’Arroyo Grande Senior Apartments](https://cortinadarroyograndeseniorapts.com/) (241 N. Courtland Ave., Arroyo Grande) — 805-489-6888
 * Parkview Manor (365 South Elm St., Arroyo Grande) — 805-489-5101
-* [**Judson Terrace**](Directory.md#Judson-Terrace), has 107 low-income affordable apartments for people aged 55 and up, and 31 low-income affordable apartments for people aged 62 and up. They only accept applications when the waiting list is open.
+* [**Judson Terrace**](Directory.md#Judson-Terrace) (SLO), has 107 low-income affordable apartments for people aged 55 and up, and 31 low-income affordable apartments for people aged 62 and up. They only accept applications when the waiting list is open.
 
 [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) operates the following affordable senior housing rental properties:
 
@@ -542,137 +542,133 @@ You can expect to pay about $60–75 per month for the least-expensive and small
 Most storage facilities have daytime hours of operation when you can access the storage units to add or remove property, and are closed to everyone at night.
 
 ## <a id="where-to-get-food">**Food**</a>
-   1. **Additional Food Sources** (from [Where can I get a bite to eat?](https://docs.google.com/document/d/e/2PACX-1vSY1XYp6W_cMtOb7Y6BC-GwQuBle1SkhbFG85rVlcAPL1_9MxR6IhRAriWAvba9ICe34ZOdtEqnKDHW/pub))
-      1. **Calif. Dept. of Education Summer Meal Sites**
-         - [https://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2025&countyname=San_Luis_Obispo](https://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2025&countyname=San_Luis_Obispo)
-      1. **San Luis Obispo Area**
-         1. **Food Not Bombs**: Free meals
-            - Location/Hours: See [**Food Not Bombs**](Directory.md#Food-Not-Bombs) in the [Directory](Directory.md)
-         1. **Blessed to Serve**: Free meals
-            - Location/Hours: See [**Blessed to Serve**](Directory.md#Blessed-to-Serve) in the [Directory](Directory.md)
-         1. **People's Kitchen**: Free meals
-            - Location/Hours: See [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO) in the [Directory](Directory.md)
-         1. **Outreach & Engagement Center**: Food pantry
-            - Location/Phone/Hours: See [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) in the [Directory](Directory.md)
-         1. **Salvation Army Food Pantry**: (SLO Corps location) [Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/san_luis_obispo_corps/food-pantry---the-salvation-army-san-luis-obispo/)]
-            - Location/Phone/Hours: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
-         1. **God's Storehouse**: Food pantry; farmers-market-style produce distribution [Source: [gracecentralcoast.org](https://gracecentralcoast.org/gods-storehouse-care)]
-            - Location/Hours: See [**Grace Central Coast**](Directory.md#Grace-Central-Coast) in the [Directory](Directory.md)
-         1. **Agape Church**: Food pantry; also serves meals at Meadow Park Thursdays 11am [Source: Google Doc referenced above]
-            - Location/Hours: See [**Agape Church**](Directory.md#Agape-Church) in the [Directory](Directory.md)
-         1. **Renovate Church**: Food pantry [Source: Google Doc referenced above]
-            - Location/Hours: See [**Renovate Church**](Directory.md#Renovate-Church) in the [Directory](Directory.md)
-         1. **U.U. We Care Food Share**: Food pantry
-            - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
-         1. **Arise Central Coast**: Food pantry
-            - Location/Hours: See [**Arise Central Coast**](Directory.md#Arise-Central-Coast) in the [Directory](Directory.md)
-         1. **Zion Lutheran Church**: Food pantry
-            - Location/Hours: See [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church) in the [Directory](Directory.md)
-         1. **SLO Grassroots**: Food pantry
-            - By appointment only. See [**SLO Grassroots**](Directory.md#SLO-Grassroots) in the [Directory](Directory.md)
-         1. **40 Prado**: three meals a day for those who shelter there
-            - See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-      1. **Cal Poly Campus**
-         1. **Cal Poly Food Pantry**: packaged/canned foods, fresh produce, frozen meals, hygiene items
-            - Location/Phone/Hours: See [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) in the [Directory](Directory.md)
-            - Eligibility: No eligibility criteria; serves all Cal Poly students and employees experiencing food insecurity. Also does a monthly food bank distribution via the Food Bank that is open to all SLO community members
-            - Source: [basicneeds.calpoly.edu/foodpantry](https://basicneeds.calpoly.edu/foodpantry)
-      1. **Five Cities/South County**
-         1. **St. Patrick's Church**: Food pantry
-            - Location/Hours: See [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church) in the [Directory](Directory.md)
-         1. **Salvation Army Food Pantry**: (Arroyo Grande Servce Extension) [Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/san_luis_obispo_corps/food-pantry---the-salvation-army-san-luis-obispo/)]
-            - Location/Phone/Hours: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
-         1. **Nipomo Community Presbyterian**: Food pantry, 1235 N. Thompson Rd, Arroyo Grande; Fridays 12:45–1:30pm
-            - Location/Hours: See [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian) in the [Directory](Directory.md)
-         1. **New Life U-Pick Pantry**: 941 N. Oak Park Blvd., Pismo Beach; Tu 6–7:30pm, We 10am–noon, Th 1:30–3:30pm
-            - Location/Hours: See [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) in the [Directory](Directory.md)
-         1. **People's Kitchen**: (current location at LifePoint Church); operated by coalition of 18 churches serving approximately 40 people daily; additional services include gas cards, bus passes, clothing, and toiletries (Sources: [newtimesslo.com](https://www.newtimesslo.com/news/peoples-kitchen-in-grover-beach-may-be-homeless-come-november-2944858), [ksby.com](https://www.ksby.com/community/peoples-kitchen-served-holiday-meals-on-christmas-eve))
-            - Location/Hours: See [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB) in the [Directory](Directory.md)
-         1. [**Five Cities Christian Women Food Pantry**](https://fivecitieschristianwomenfoodpantry.org/): provides 3 bags of food per family, walker, or biker; serves anyone in need
-            - Location/Phone/Hours: See [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) in the [Directory](Directory.md)
-      1. **North County**
-         1. **Loaves & Fishes**: [Source: [pasoroblesdailynews.com/food-banks-and-pantries-in-paso-robles-and-north-county](https://pasoroblesdailynews.com/food-banks-and-pantries-in-paso-robles-and-north-county)]
-            - Locations/Phone/Hours: See [**Loaves & Fishes**](Directory.md#Loaves-and-Fishes) in the [Directory](Directory.md)
-         1. **Paso Cares**: Free meals
-            - Source: [saintjamespr.org](https://saintjamespr.org/)
-            - Locations/Hours: See [**Paso Cares**](Directory.md#Paso-Cares) in the [Directory](Directory.md)
-         1. [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) (north county)
-            - **Services open to community:** Daily meals (up to 150 meals served daily)
-      1. Plus various food bank distribution sites throughout county; see Food Bank's website for locations & schedule
-   1. **SLO Food Bank**—Main coordination center for county food assistance
-      - Location/Phone/Hours: See [**SLO Food Bank**](Directory.md#SLO-Food-Bank) in the [Directory](Directory.md)
-      - Food Locator: Visit [slofoodbank.org/food-locator](https://www.slofoodbank.org/food-locator/) for complete list of 50+ Neighborhood Food Distributions across SLO County
-         - Also has a food pantry at their main office location
-      - No-Cook Bags: Call for pre-prepared meals requiring no cooking
-      - No requirements: Proof of income, residency, or ID never required; no limits on number of distributions attended
-      - Source: [slofoodbank.org](https://www.slofoodbank.org/contact/)
-   1. **Goodwill Central Coast**
-      - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they "Can provide assistance with food..." but I was unable to find more about this on Goodwill's own website.
-          - Note: Unable to verify food assistance claim through Goodwill Central Coast's website (as of September 2025); contact Goodwill directly to inquire about food-related services
-   1. **[The Link Family Resource Center](https://linkslo.org/)**
-      - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
-      - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
-      - Source: [linkslo.org](https://linkslo.org/)
-   1. **Senior Meal Programs**
-      1. **Meals that Connect**
-         - Phone/Hours: See [**Meals that Connect**](Directory.md#Meals-that-Connect) in the [Directory](Directory.md)
-         - What's Available: Free meals for ages 60+
-         - Website: [mealsthatconnect.org](https://mealsthatconnect.org/en/)
-      1. [**5Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels)
-         - Contact: See [**5Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) in the [Directory](Directory.md)
-         - Fixed address limitation: Both meal delivery programs typically require a fixed home address for delivery; may not be suitable for unsheltered individuals
-         - Alternative for homeless seniors: Contact programs directly to inquire about delivery to shelters or alternative arrangements; homeless shelters can often provide mailing addresses for service coordination
-      1. **Seniors Farmers' Market Nutrition Program**: $20–$50 per year in benefits on electronic Farmers' Market Card
-         - Eligibility: Ages 60+, low-income (185% of federal poverty level or participation in SNAP/other means-tested programs)
-         - How to apply: Complete online questionnaire at [cdfa.ca.gov](https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/); local Area Agency on Aging will contact you
-         - Uses: Fresh produce, cut herbs, raw honey at authorized farmers' markets only
-         - Distribution: First-come, first-served basis; limited availability
-         - Source: [cdfa.ca.gov](https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/)
-   1. **CalFresh / EBT (Food Stamps) Application**
-      - What it provides: Monthly nutrition benefits (amount varies by household size and income) via EBT card for groceries and seeds
-         - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/calfresh)
-      - How to apply:
-         - Online:
-           - [BenefitsCal.com](https://benefitscal.com/) (preferred method)
-           - [GetCalFresh.org](https://www.getcalfresh.org/): Simplified online application process
-         - In person: SLO County Social Services offices
-            - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
-         - By mail/fax: Download application from county website
-      - Alternative Application Assistance
-         - [**Cal Poly CalFresh Program**](https://www.calfreshcalpoly.org/): for Cal Poly student-specific assistance
-      - Application timeline: Interview within 2 business days; decision within 30 days; EBT card within 10 days if approved
-      - Eligibility: Income and asset tests; many working people, students, and recipients of other benefits qualify
-      - No age requirement: Unaccompanied youth under 18 may apply
-      - Required documents: ID from any country, proof of income, immigration status (non-citizens), student status (college students)
-      - Proof of income options: Pay stubs from last 30 days, employer letter on company letterhead, tax forms (1040, W-2, 1099), self-employment profit/loss statement or ledger, or signed written statement if documents unavailable
-         - Source: [calfresh.guide](https://calfresh.guide/verifications-the-calfresh-office-requires/), [aggiecompass.ucdavis.edu](https://aggiecompass.ucdavis.edu/calfresh/documents/proof-income)
-      - Where to use: Most supermarkets, grocery stores, farmers' markets
-         - **Market Match program**: Doubles up to $15 in CalFresh benefits at participating farmers' markets—Saturday San Luis Obispo, Wednesday Arroyo Grande, Thursday Morro Bay, plus North County markets (Paso Robles, Atascadero, Templeton, Los Osos)
-         - Source: [slocountyfarmers.org](https://www.slocountyfarmers.org/snap)
-   1. [**WIC**](Directory.md#WIC)
-      - Food assistance using E-WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries
-   1. **Natural Food Sources**
-      1. **Public Fruit Trees**: [localwiki.org/slo/Public_Fruit_Trees](https://localwiki.org/slo/Public_Fruit_Trees)—locations of publicly accessible fruit trees
-         - Common local fruits: Citrus (winter), apples (fall), figs (late summer), pomegranates (fall)
-         - Harvesting tips: Only pick fully ripe fruit; check if trees are on public property vs. need permission; respect "Do Not Pick" signs
-      1. **Public Berry Bushes**: [localwiki.org/slo/Public_Berry_Bushes](https://localwiki.org/slo/Public_Berry_Bushes)—locations of publicly accessible berry bushes
-         - Blackberries: Common along creeks and roadsides; ripen summer when fully black (not red); best in morning
-         - Other berries: Check LocalWiki for seasonal availability and specific locations
-         - Safety: Only harvest from areas away from roads/pollution; wash thoroughly before eating
-      1. **Edible wild plants guide for SLO County:**
-        - Resource book: "Hiker's guide to wild edible plants of San Luis Obispo County" by Gary Romano
-        - Common edible plants found locally:
-          - Wild mustard (flowers are edible as-is, leaves for chimichurri or cooked as greens)
-          - Wild fennel and plantain roots (warning: poison hemlock can be mistaken for fennel)
-          - Prickly pear cactus fruits (*tunas*) - high in vitamin C (however: they're annoying to eat as they're covered with painful spines)
-          - Wild radishes, dandelion, plantain (higher ground areas)
-        - **SAFETY WARNING:** Some wild plants are poisonous; only forage if you know what you're doing. [Source: [ediblesanluisobispo.com/wild-spirits](https://ediblesanluisobispo.com/wild-spirits/)]
-          - Note: the usefulness/liability ratio is lower for this subsection than I'd like, so maybe omit it entirely
-   1. **Little Free Pantries**
-      - What’s Available: Free food, feminine hygiene products, pet food, essentials, and sometimes art supplies
-      - How it works: Community-stocked outdoor boxes; take what you need, leave what you can
-      - Locations: See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Directory](Directory.md)
-      - More info: HelpSLO Facebook page or [mapping.littlefreepantry.org](https://mapping.littlefreepantry.org/) [Source: [localwiki.org/slo/Little_Free_Pantries](https://localwiki.org/slo/Little_Free_Pantries)]
+
+### Free Meals
+
+| Location     | Meal Provider                                                              | When |
+| ------------ | -------------------------------------------------------------------------- | ---- |
+| Atascadero   | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | daily dinner |
+| Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | daily lunch |
+| Paso Robles  | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | daily dinner |
+| SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | Thursday lunch |
+| SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | Monday & Thursday dinner |
+| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | Thursday lunch |
+| SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | daily lunch |
+
+### Free Food Pantries
+
+Food pantries give away unprepared food (such as fresh produce, canned goods, and packaged food).
+Some pantries have special no-cook/no-refrigeration options for people who do not have access to kitchens.
+Some will give you a pre-prepared box or bag of food, others will allow you to select particular items you want.
+
+| Location      | Pantry                                                                                              | Days |
+| ------------- | --------------------------------------------------------------------------------------------------- | ---- |
+| Arroyo Grande | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                     | Fridays |
+| Arroyo Grande | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church)                                       | Tuesday–Thursday |
+| Arroyo Grande | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Mondays, Wednesdays, Fridays |
+| Atascadero    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes)                                             | Monday–Friday |
+| Cal Poly      | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry)                                       | Monday–Friday |
+| Grover Beach  | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) | Monday–Friday |
+| Paso Robles   | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes)                                             | Monday–Thursday |
+| Pismo Beach   | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry)                                   | Tuesday–Thursday |
+| SLO           | [**Agape Church**](Directory.md#Agape-Church)                                                       | Tuesdays & Sundays |
+| SLO           | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                         | Mondays |
+| SLO           | Breakthrough Ministry, 4251 South Higuera #200                                                      | Tuesdays |
+| SLO           | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                      | Saturdays |
+| SLO           | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)               | Monday–Friday |
+| SLO           | [**Renovate Church**](Directory.md#Renovate-Church)                                                 | Mondays |
+| SLO           | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Wednesday–Friday |
+| SLO           | [**SLO Food Bank**](Directory.md#SLO-Food-Bank)                                                     | Mondays, Wednesdays, Fridays |
+| SLO           | [**SLO Grassroots**](Directory.md#SLO-Grassroots)                                                   | by appointment only |
+| SLO           | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) “We Care Food Share”              | Wednesdays |
+| SLO           | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                       | Wednesdays |
+
+### Little Free Pantries
+
+Little free pantries are small boxes erected in neighborhoods and maintained by the people who live nearby.
+They are self-serve and open 24/7.
+They are stocked by people who have extra things to give away.
+You never know quite what you will find there, but there is usually some canned and packaged non-perishable food, and sometimes toiletries and other small essentials.
+
+See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Directory](Directory.md) for a list of locations.
+
+### Food Box Distributions
+
+The [**SLO Food Bank**](Directory.md#SLO-Food-Bank) gives away food boxes on a regular schedule at a variety of locations in SLO County.
+Visit [slofoodbank.org/food-locator](https://www.slofoodbank.org/food-locator/) for a complete list and schedule of these “Neighborhood Food Distributions.”
+
+### Summer Meal Sites (for Children)
+
+The California Department of Education has a “Summer Food Service Program” to help children during the Summer school break who usually get meals at school.
+This program is open to all children in the community.
+You can find a list of [Summer Meal Sites in San Luis Obispo County](https://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2025&countyname=San_Luis_Obispo) at the California Department of Education website.
+
+### Senior Meal Programs
+
+[**Meals that Connect**](Directory.md#Meals-that-Connect) has several sites in SLO County where they serve communal lunches every weeekday.
+The program is for people aged 60 and above.
+You must fill out an application to join the program, and you must reserve your meals two days in advance.
+They also can deliver meals to your home if you are homebound.
+
+[**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) is a similar program specific to the Five Cities area that provides daily meals, delivered to the homes of people who cannot prepare nutritious meals for themselves and do not have caretakers who can do so.
+They serve seniors and people with temporary or permanent disabilities.
+
+Low-income seniors (aged 60 and above) can get $20–50 in credit to use at participating farmers markets from the California Department of Food and Agriculture.
+There is limited availability, so if the program runs out of credits you may have to wait until their next budget to apply.
+Learn more about the program and apply to join it at [their website](https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/).
+
+### CalFresh / EBT (Food Stamps) and WIC
+
+The CalFresh program is California’s version of the federal nutrition program known as “SNAP” or “food stamps.”
+If you have a low income, California will give you an “EBT card” which you can use like a debit card at grocery stores and farmers markets to buy healthy foods.
+
+You can apply for CalFresh on-line at either of the following sites:
+- [BenefitsCal.com](https://benefitscal.com/)
+- [GetCalFresh.org](https://www.getcalfresh.org/)
+
+You can also apply in person at the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
+
+If you are a Cal Poly student, you can get assistance from the [**Cal Poly CalFresh Program**](https://www.calfreshcalpoly.org/).
+
+You will need some identification document, proof of income, and (for students) indication of student status, and (for non-citizens) immigration status.
+Suitable proof of income includes pay stubs from last 30 days, an employer letter on company letterhead, tax forms (1040, W-2, 1099), self-employment profit/loss statement or ledger, or a signed written statement if you do not have those documents.
+See [calfresh.guide](https://calfresh.guide/verifications-the-calfresh-office-requires/) for more details.
+
+Some local farmers markets will double up to $15 in CalFresh benefits that you spend at the market, so you can get twice as much food for your money.
+See [slocountyfarmers.org](https://www.slocountyfarmers.org/snap) for details.
+
+The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also provides E-WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries.
+
+### Miscellaneous/Uncategorized/Needs Research
+1. **SLO Food Bank**—Main coordination center for county food assistance
+   - Location/Phone/Hours: See [**SLO Food Bank**](Directory.md#SLO-Food-Bank) in the [Directory](Directory.md)
+   - No-Cook Bags: Call for pre-prepared meals requiring no cooking
+   - No requirements: Proof of income, residency, or ID never required; no limits on number of distributions attended
+   - Source: [slofoodbank.org](https://www.slofoodbank.org/contact/)
+1. **Goodwill Central Coast**
+   - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they "Can provide assistance with food..." but I was unable to find more about this on Goodwill's own website.
+       - Note: Unable to verify food assistance claim through Goodwill Central Coast's website (as of September 2025); contact Goodwill directly to inquire about food-related services
+1. **[The Link Family Resource Center](https://linkslo.org/)**
+   - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
+   - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
+   - Source: [linkslo.org](https://linkslo.org/)
+1. **Natural Food Sources**
+   1. **Public Fruit Trees**: [localwiki.org/slo/Public_Fruit_Trees](https://localwiki.org/slo/Public_Fruit_Trees)—locations of publicly accessible fruit trees
+      - Common local fruits: Citrus (winter), apples (fall), figs (late summer), pomegranates (fall)
+      - Harvesting tips: Only pick fully ripe fruit; check if trees are on public property vs. need permission; respect "Do Not Pick" signs
+   1. **Public Berry Bushes**: [localwiki.org/slo/Public_Berry_Bushes](https://localwiki.org/slo/Public_Berry_Bushes)—locations of publicly accessible berry bushes
+      - Blackberries: Common along creeks and roadsides; ripen summer when fully black (not red); best in morning
+      - Other berries: Check LocalWiki for seasonal availability and specific locations
+      - Safety: Only harvest from areas away from roads/pollution; wash thoroughly before eating
+   1. **Edible wild plants guide for SLO County:**
+     - Resource book: "Hiker's guide to wild edible plants of San Luis Obispo County" by Gary Romano
+     - Common edible plants found locally:
+       - Wild mustard (flowers are edible as-is, leaves for chimichurri or cooked as greens)
+       - Wild fennel and plantain roots (warning: poison hemlock can be mistaken for fennel)
+       - Prickly pear cactus fruits (*tunas*) - high in vitamin C (however: they're annoying to eat as they're covered with painful spines)
+       - Wild radishes, dandelion, plantain (higher ground areas)
+     - **SAFETY WARNING:** Some wild plants are poisonous; only forage if you know what you're doing. [Source: [ediblesanluisobispo.com/wild-spirits](https://ediblesanluisobispo.com/wild-spirits/)]
+       - Note: the usefulness/liability ratio is lower for this subsection than I'd like, so maybe omit it entirely
 
 ## <a id="where-to-refill-a-water-bottle">**Where to refill a water bottle**</a>
    1. **SLO City—Public Water Bottle Filling Stations**
@@ -796,46 +792,41 @@ Most storage facilities have daytime hours of operation when you can access the 
    - Make appointments 48 hours ahead of time
    - Phone: 805-995-3543
 
-### Transportation to Medical Appointments
+### <a id="transportation-to-medical-appointments">Transportation to Medical Appointments</a>
 
-1. **Medical Transportation Services**
-   1. [**CenCal Health Transportation**](https://www.cencalhealth.org/members/transportation/)
-      - Service: Free transportation for CenCal Health/Medi-Cal members to covered medical appointments
-      - Eligibility: CenCal/Medi-Cal members with no other transportation access
-      - Booking: Call Ventura Transit System at 855-659-4600; reserve 3 days in advance
-      - Coverage: Statewide service through partnership with Ventura Transit
-   1. [**Ride-On Transportation**](https://www.ride-on.org/)
-      1. CenCal/Medi-Cal rides: Free for approved riders to medical appointments; reserve 3 days in advance
-      1. **Veterans Express Shuttle**: Door-to-door service to SLO or Santa Maria VA clinics; $3 each way (subsidized rate); limited to once monthly; Call 805-541-8747 for reservations 2–3 days prior
-   1. [**VA Clinic Shuttle**](https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/)
-      - Service: Free shuttle transportation for veterans with scheduled VA appointments
-      - Routes: Santa Maria and SLO clinics
-      - Contact: Larry Jones, Voluntary Service Specialist (Santa Maria location)
-      - Extended service: Veterans' Express Shuttle provides door-to-door service to SLO VA Clinic or Santa Maria VA Clinic, with connections to VA Bus for Southern California clinics including Los Angeles
-      - How to access: Contact clinic for Veterans' Express Shuttle arrangements or connection to LA-area VA facilities
-      - Source: [va.gov](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
+The [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) offers free, door-to-door transportation to medical appointments for people who are enrolled in Medi-Cal and who can­not use public transportation to get to their appointments.
+If you expect you will need to stop at a pharmacy after your appointment, say so when you make your shuttle reservation.
+Make a shuttle reservation at least three days before your medical appointment by calling 855-659-4600.
+
+If you are a [**Community Health Centers of the Central Coast (CHC)**](Directory.md#CHC) patient, and you need a ride to your CHC appointment, you can get shuttle service.
+The CHC Shuttle picks you up at your location and drops you off at the clinic, then returns you after your appointment.
+To use the shuttle, you should have a CHC appointment and live in the area of the CHC clinic.
+CHC may also give you an RTA bus pass to help you get to your appointment.
+Make a reservation at least 48 hours before your appointment by calling 877-743-3242.
+They will call you back within 24 hours to confirm your reservation.
+
+Veterans who travel to VA health care facilities for VA-authorized appointments can get free curb-to-curb shuttle service through [**Veterans Transportation Service (VTS)**](Directory.md#Veterans-Transportation-Service).
+Another option is the “Veterans Express Shuttle” operated by [**Ride-On Transportation**](Directory.md#Ride-On-Transportation) (call 805-541-8747 two to three days before your appointment).
+There is also regularly-scheduled bus service between the SLO Veteran’s Memorial Building (801 Grand Ave.) and the West Los Angeles VA Medical Center (WLA).
+This bus is free to anyone with an appointment at the VA.
+Schedule a bus reservation through VTS.
+It leaves SLO at 6am, arrives at WLA at 11:15am, leaves WLA at 3:25pm and returns to SLO at 8:30pm.
+
+The [**American Cancer Society**](Directory.md#American-Cancer-Society)’s “Road to Recovery” program offers free rides to and from cancer-related medical appointments.
 
 ### Bicycles
 
-1. [**Bike Kitchen**](https://bikeslocounty.org/programs/kitchen/): Community bike repair and education
-   - Location/Phone/Hours: See [**Bike Kitchen**](Directory.md#Bike-Kitchen) in the [Directory](Directory.md)
-   - Cost: $5 drop-in fee for DIY repair services; SLO County Bicycle Coalition members get 4 free visits
-   - Eligibility: Open to everyone; committed to creating safe space for all
-   - Services: Tools, parts, and knowledge for bike repair; volunteer-run; accepts bike donations; sells inexpensive second-hand bikes
-   - Special program: Ridewell program provides free bicycles, helmets, locks, lights and education to SLO County residents
-1. **Bike theft prevention**
-   - **Urban camping/street security tips:**
-     - Lock bikes together when camping with multiple people
-     - Use corkscrew dog stakes as anchor points when no fixed objects available
-     - Set up noise alarms: cheap alarm locks or metal pots/mugs on guy-lines to wake you
-     - Position bike near tent and thread guy line through wheel
-     - Make bike less appealing: remove expensive accessories, personalize with stickers
-   - **Lock types for homeless/camping use:**
-     - Use multiple locks: U-lock + cable combination is most effective
-     - Avoid solely using cable locks (90% of stolen bikes use only cable locks)
-     - Heavy-duty chains (square-link) are hardest to cut
-     - Chain + padlock through frame and wheel, secured to any available anchor
-     - Multiple cheap alarm locks make noise when tampered with
+The [**Bike Kitchen**](Directory.md#Bike-Kitchen) in SLO city can help you learn how to do maintenance and repairs on your bicycle, and can give you access to the tools and supplies you need.
+They also sell refurbished bicycles at low prices.
+Visit their website to see their current schedule.
+They charge a small fee ($5) to use their repair/maintenance services.
+
+Here are some tips for keeping your bike safe if you are camping:
+
+* Lock bikes together when you camp with multiple people.
+* Position your bike near your tent and thread one of the tent’s guy-lines through the wheel, so your tent will shake if someone moves the bike.
+* Use multiple locks (for example, a U-lock and a cable). Avoid using cable locks only, as they are relatively easy to break.
+* Consider using a lock that makes an audible alarm when it is tampered with.
 
 ### Automobile Insurance and Repair
 
@@ -976,49 +967,34 @@ They provide the coins to feed the machines and the laundry detergent and dryer 
 ## <a id="showers-and-hygiene">**Showers and hygiene**</a>
 
 ### Free Shower Services
-1. **Shower the People**—Mobile shower trailer serving SLO County
-   - What’s Available: Three private bathrooms with sink, toilet, and shower; biodegradable soap/shampoo dispensers; clean towels, washcloths, toiletries, socks, T-shirts, and underwear provided
-   - Location/Hours/Email: See [**Shower the People**](Directory.md#Shower-the-People) in the [Directory](Directory.md)
-1. **40 Prado Homeless Services Center**
-   - What’s Available: Showers, laundry, also: phone access, case management, meals, overnight shelter (up to 100 beds), integrated medical clinic with on-site pharmacy
-   - **Location/Phone/Hours**: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-   - Eligibility: Individuals and families experiencing homelessness; part of day services (don't have to be a resident there)
-   - Access: Must complete intake before using services; adults need valid CA ID; operates 365 days per year
-   - Note: Call for current shower access requirements and availability [Source: [capslo.org/40-prado](https://capslo.org/40-prado/)]
-1. [**805 Street Outreach**](https://805streetoutreach.org/) (Morro Bay)
-   - Services: Mobile shower trailer with 2 stalls (showers, sinks, toilets), food, clothing distribution
-   - Location/Email/Hours: See [**805 Street Outreach**](Directory.md#805-Street-Outreach) in the [Directory](Directory.md)
-   - Target: Homeless individuals in SLO County
-1. [**ECHO (El Camino Homeless Organization)**](https://www.echoshelter.org/) — North County services
-   - What’s Available: Showers, also: dinner, clothing
-   - Location/Phone/Email/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
-   - Access: Walk-in guests welcome; towels, toiletries, and change of clothing provided
-      - Shower and meal access: Walk-in shower program continues M–F 3:30–5pm, daily community dinner 5–6pm open to anyone, despite transition to 90-day residential program [Source: [newtimesslo.com](https://www.newtimesslo.com/news/paso-robles-echo-transitions-to-90-day-stays-17105511)]
-   - Additional services: Emergency shelter, case management, job assistance, life skills training
+
+[**Shower the People**](Directory.md#Shower-the-People) offers free showers from its mobile shower trailer several times a week in several locations in SLO city and in Grover Beach.
+They provide towels and soap.
+Guests also receive free toiletries, and new socks, underwear, and t-shirts.
+They operate rain-or-shine all year long including holidays.
+Check their website for the current schedule.
+
+[**805 Street Outreach**](Directory.md#805-Street-Outreach) is a similar program that operates weekly in Morro Bay.
+They also have clothing and food for guests.
+
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in SLO city has shower facilities that it makes available to both its overnight and its day guests.
+You do not have to be a resident there to use the showers, but you do have to undergo their intake process.
+
+The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) offers hot showers five evenings a week (M–F 4–5:30pm) to anyone in need at both their Atascadero and their Paso Robles locations.
+They will give you toiletries, and they also have clothing, shoes, blankets, and sleeping bags.
 
 ### Coin-Operated or Gym Membership Options
-1. [**SLO County YMCA**](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
-   - Policy: "No one is denied membership because of inability to pay"
-   - What’s Available: Fitness center with shower facilities, financial assistance program, payment plans
-   - Location/Phone: See [**SLO County YMCA**](Directory.md#SLO-County-YMCA) in the [Directory](Directory.md)
-   - Services: Fitness center, basketball court, group classes, youth sports
-   - Note: Contact for financial assistance options to access shower facilities through membership
-1. No Five Cities YMCA Locations; closest alternative is "Santa Maria Valley YMCA" (3400 Skyway Dr., Santa Maria)
-1. **County Park Shower Facilities** (Coin-operated)
-   1. **El Chorro Regional Park Campground**: Coin-operated showers available to day-use visitors
-      - Location/Phone/Email: See [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) in the [Directory](Directory.md)
-   1. **Lopez Lake Recreation Area**: Hot shower facilities (coin-operated)
-      - Phone/Email: See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
-   1. **Santa Margarita Lake Recreation Area**: Coin-operated showers available to day-use visitors
-      - Phone/Email: See [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) in the [Directory](Directory.md)
-   1. **Coastal Dunes RV Park & Campground**: 22 campsites with shower access
-      - Location/Phone: See [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) in the [Directory](Directory.md)
-   1. **Oceano Campground**: 24 campsites with coin-operated showers
-      - Location/Phone: See [**Oceano Campground**](Directory.md#Oceano-Campground) in the [Directory](Directory.md)
-1. **Port San Luis Harbor - Coastal Gateway Multi-Purpose Room**: Coin-operated showers ($2); Contact for current hours; Source: [portsanluis.com](https://www.portsanluis.com/2164/Coastal-Gateway-Multi-Purpose-Room)
-   - Phone/Email/Location: See [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) in the [Directory](Directory.md)
-1. **Pismo Beach Athletic Club**: Day pass ($15) provides access to all facilities including showers
-   - Location/Phone/Hours: See [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) in the [Directory](Directory.md)
+
+The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has shower facilities at their Southwood Ave. gym in SLO city.
+These are available to gym members.
+Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
+Ask them about options for people with low incomes.
+
+Some SLO County parks have coin-operated shower facilities, including [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), [**Oceano Campground**](Directory.md#Oceano-Campground), and [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area)
+
+The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has coin-operated showers.
+
+A $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers.
 
 ## <a id="health-medical-care">**Health, medical care**</a>
    1. All the stuff in [our current health resources booklet](https://showerthepeopleslo.org/health-and-medical-care-resources/), plus maybe:
@@ -1068,6 +1044,10 @@ They provide the coins to feed the machines and the laundry detergent and dryer 
       - Website is a little vague about what they offer, to whom, and on what terms. But it appears to be some sort of counseling and aid ("peer support groups, healing programs, and trauma-informed training") for "victims of trauma, abuse, and exploitation" in particular for victims of "human trafficking."
       - Phone: 805-674-5056
       - Email: info@resilientsouls.org
+
+### Transportation to medical appointments
+
+> See [Transportation to medical appointments](#transportation-to-medical-appointments) in the [Transportation](#transportation) section
 
 ## <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">**Recovery, harm reduction, and other substance-related issues**</a>
    1. [**SLO County Drug & Alcohol Services**](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services)
