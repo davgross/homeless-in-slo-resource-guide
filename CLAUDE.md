@@ -2,15 +2,16 @@
 
 ## Project Overview
 
-The file @"Resource guide possible outline.md" contains the outline of a to-be-written comprehensive resource guide tenatively titled "Surviving Homelessness in San Luis Obispo."
+The file @"Resource guide possible outline.md" contains the outline of a comprehensive resource guide tenatively titled "Surviving Homelessness in San Luis Obispo."
 This file is too large for you to read in completely, given your token limit (so use methods to read it in smaller chunks).
-It was originally written as a long nested list, but will eventually transition to headings and prose paragraphs.
+It was originally written as a long nested list, but is transitioning to headings and prose paragraphs.
 
 The @Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide outline.
-Use this as the single source of truth for those data; cross-reference Directory entries from the resource guide outline rather than reproducing those data in the outline.
+Use this as the single source of truth for those data; cross-reference Directory entries from the Resource Guide rather than reproducing those data in the Resource Guide.
 
 ### About The Target Audience of the Guide
-The target audience for the guide this outline describes is people who are homeless or at risk of homelessness in San Luis Obispo city and the SLO County's five cities area.
+
+The target audience for the guide this outline describes is people who are homeless or at risk of homelessness in San Luis Obispo (SLO) County.
 
 These people are typically financially poor, so this guide prioritizes resources that are free or very low-cost to access.
 They often do not have a home of their own, so this guide prioritizes resources that do not require a fixed address.
@@ -22,16 +23,17 @@ They have a variety of levels of digital literacy and of comfort with digital in
 They are unlikely to have their own FAX machines, personal computers, scanners, or other such large devices.
 
 ## Task Instructions
+
 The primary task is to flesh out the existing outline with more complete and detailed information. Key requirements:
 
 1. **Use reputable and recent sources**: All information must come from reliable, up-to-date sources
    - The best source for information about an agency is usually that agency's own website
    - The further you get from that, the more important it is that you double-check the information, and annotate where you found the information
 2. **Source annotation**: Annotate information with the URL of the source where the information can be found, to enable later verification
-   - Use a format like this: `Source: [domain.com](https://www.domain.com/full/url/to/source-of-truth.html)`
+   - Use a format like this: `<!-- Source: https://www.domain.com/full/url/to/source-of-truth.html -->`
    - These annotation links should target the precise page on which the information was found, not just the homepage of the website or the domain name
-3. **Geographic focus**: San Luis Obispo city and SLO County's five cities area
-   - But we may also mention state-wide, county-wide, or country-wide resources that are available to people in the target region
+3. **Geographic focus**: San Luis Obispo County
+   - But we may also mention state-wide or country-wide resources that are available to people in the target region
 4. **Target audience**: Prioritize resources of use to the target audience, and provide information they will need in a format they can use
 
 Other tasks include:
@@ -44,18 +46,18 @@ Other tasks include:
 5. **Cross-reference listings**: For example, if an agency mentioned in the "Housing" section notes that it offers mail drop service, make sure there is also a reference to that agency in the "Mail drops" section.
 6. **Use simple English in draft text**: If add text that is meant as draft text to be inserted into the guide (rather than as notes for the researchers and editors), take care to write that text in simple English that is easy to understand by the target audience — for example: use linear sentences without tangled clauses, simple verbs rather than progressive-tense verbs when possible, active voice, literal rather than idiomatic language, and basic vocabulary.
 7. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
-8. **Divide information correctly between outline and directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Outline. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Outline.
+8. **Divide information correctly between outline and directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Outline. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Resource Guide.
 9. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
 10. **Transition to prose**: In @"Resource guide possible outline.md", once we have collected enough information, rewrite that information as easy-to-read and well-organized paragraphs, containing the information most useful and relevant to our target audience.
 
 ## Current State
 
-The outline contains several major sections; the opening table of contents lists these.
+The outline contains several major sections; the table of contents lists these.
 
 ### File Structure
 
 - **Format**: Markdown with HTML anchors for major sections
-- **Main files**: `Resource guide possible outline.md`, `Directory.md`
+- **Main files**: `@Resource guide possible outline.md`, `@Directory.md`
 
 ### Major Outline Sections (37 total)
 
@@ -99,7 +101,7 @@ The outline contains several major sections; the opening table of contents lists
 
 ### Section Development Status
 
-If you see a bullet-point marked "To-do", this represents a task that you might be able to accomplish to improve this outline.
+If you see a "To-do:", this represents a task that you might be able to accomplish to improve these documents.
 If you can do so efficiently and reputably (without hallucinating or relying on unreliable sources), do so.
 If you cannot, change the "To-do:" to something like "Note:" and append a parenthetical remark about why you were unable to accomplish this yourself (this way you will not keep seeing the "To-do" and trying futilely to do it again and again).
 
@@ -113,7 +115,7 @@ There are guides produced by other agencies that do a good job of describing a v
 
 - Focus on practical, actionable information of use to the target audience
 
-- Always hyperlink URLs and email addresses using appropriate markdown syntax
+- Always hyperlink URLs, email addresses, and telephone numbers using appropriate markdown syntax and valid URLs
 
 - Update any outdated information found in the existing content
 
@@ -121,7 +123,7 @@ There are guides produced by other agencies that do a good job of describing a v
 
 - Annotate your information changes or additions with the URL of the source where you found the new information, to enable later verification
 
-- Use this kebab format for phone numbers: 123-456-7890; convert phone numbers that use different formats, like those that put the area code in parentheses, to the kebab format. Omit the initial "1-" or "+1-" from U.S. numbers.
+- Use this kebab format for phone numbers: 123-456-7890; convert phone numbers that use different formats, like those that put the area code in parentheses, to the kebab format. Omit the initial "1-" or "+1-" from U.S. numbers (but not from the URL).
 
 - Use en-dashes for ranges, like $5–10, Monday–Friday, or 8am–5pm
 
@@ -140,56 +142,67 @@ There are guides produced by other agencies that do a good job of describing a v
 ## Efficiency Helpers
 
 ### Common Search Patterns
+
 When working on the outline, these search patterns are frequently useful:
+
 - `grep -n "To-do"` - Find remaining To-do items
 - `grep -n "<a id="` - Find major section headings
 - `grep -n "Source:"` - Find existing source annotations
 
 ### Finding Agencies Needing Directory Entries
+
 When systematically moving agencies from the outline to the Directory, these patterns help identify candidates:
+
 - `grep -n "Contact:" "Resource guide possible outline.md"` - Find agencies with explicit Contact fields
 - `grep -n "805-[0-9]" "Resource guide possible outline.md" | grep -v "See \["` - Find phone numbers not yet cross-referenced
 - `grep -n "http" "Resource guide possible outline.md" | grep -v "Source:"` - Find hyperlinks (potential agencies)
 - Look for patterns like "Location:", "Phone:", "Email:", "Hours:" that indicate contact information
 
 ### Alphabetical Insertion in Directory.md
+
 When adding new entries to Directory.md:
+
 - Use `grep -n "^## <a id=" Directory.md` to see all agency anchors with line numbers
 - Identify the correct alphabetical position by finding the entries immediately before and after
 - Read a range of lines around the insertion point to verify exact placement: `sed -n '100,150p' Directory.md`
 - Remember that entries starting with "The" are alphabetized by the word after "The" (e.g., "The Center" goes under C, not T)
 
 ### Unicode Character Pitfalls
+
 When editing files with the Edit tool:
+
 - Em-dashes (—), en-dashes (–), and hyphens (-) are different characters and won't match each other
-- Curly quotes (" " ' ') vs. straight quotes (" ') won't match
+- Curly quotes (“ ” ‘ ’) vs. straight quotes (" ') won't match
 - If you get "String to replace not found" errors, read the exact text with the Read tool and copy it character-for-character
 - When in doubt, use smaller, simpler replacement strings that avoid special characters
 - The `cat -A` command can reveal hidden unicode characters if troubleshooting is needed
 
 ### Agency vs. Program Distinction
+
 Not everything needs a separate Directory entry:
+
 - **Separate entries**: Independent agencies, organizations with their own governance
 - **Program notes**: Programs operated by larger organizations (e.g., "Head Start" is a CAPSLO program, not separate)
 - **Cross-reference patterns**:
-  - If it's a program: mention it in the parent organization's Notes field
-  - If it's an independent agency: create a separate Directory entry
-  - Commercial businesses mentioned in passing (storage facilities, gyms) don't need Directory entries unless they have specific programs for homeless individuals
+   - If it's a program: mention it in the parent organization's Notes field
+   - If it's an independent agency: create a separate Directory entry
+   - Commercial businesses mentioned in passing (storage facilities, gyms) don't need Directory entries unless they have specific programs for homeless individuals
 
 ### Key Local Agencies (Frequently Referenced)
+
 - **CAPSLO** (Community Action Partnership SLO): [capslo.org](https://capslo.org/) - 805-544-4355
 - **ECHO** (El Camino Homeless Organization): [echoshelter.org](https://www.echoshelter.org/) - 805-462-3663
 - **5Cities Homeless Coalition**: [5chc.org](https://5chc.org/)
 - **40 Prado Homeless Services Center**: CAPSLO-operated, SLO city
 
 ### Geographic Boundaries
+
 The main regions to be covered by the guide this outline describes are the following:
+
 - **SLO city**: San Luis Obispo city proper (plus California Polytechnic State University San Luis Obispo a.k.a. Cal Poly)
 - **Five Cities**: Pismo Beach, Arroyo Grande, Oceano, Grover Beach, Shell Beach
-
-Other county regions include:
-- **SLO County**: All of San Luis Obispo County
-- **Avila Beach**: between SLO and Five Cities
+- **Avila Beach**: a town between SLO and Five Cities
+- **SLO County**: All of San Luis Obispo County, including rural unincorporated areas
 - **North County**: Atascadero, Paso Robles, Templeton, Santa Margarita, Shandon, Creston, San Miguel, etc. area
 - **North Coast**: Cambria, Cayucos, Harmony, San Simeon
 - **Estero Bay**: Morro Bay, Los Osos, Baywood Park
@@ -198,16 +211,19 @@ Other county regions include:
 Santa Maria, Orcutt, Guadalupe, and Betteravia are just across the county's southern border in Santa Barbara county, and there is often some overlap between services offered there and in SLO's South County.
 
 ### Formatting Quick Reference
+
 - Phone: `805-123-4567` (kebab format, no +1 or 1-); append e.g. `&nbsp;x5` to indicate "extension 5"
-- Time rangess: `8am–5pm` (en-dash, not hyphen)
+- Time ranges: `8am–5pm` (en-dash, not hyphen)
 - Price ranges: `$5–10` (en-dash)
 - Day ranges: `Monday–Friday` (en-dash)
 - Emphasis: `*italicized*` not ALL CAPS
-- Source: `Source: [domain.com](https://domain.com/including/pagename.html)`
-- You can use the `markdownlint` tool to check that markdown has been formatted correctly
+- Source: `<!-- Source: https://domain.com/including/pagename.html -->`
+- You can use the `markdownlint` tool to check that the markdown is formatted correctly
 
 ### Sections Often Needing Attention
+
 Based on common patterns, these sections frequently need verification:
+
 - **Contact information** - Phone numbers and/or email addresses and/or web forms
 - **Eligibility requirements** - Is the program restricted to people of a certain region, age group, income level? to people with/without health insurance? does it screen out people with PC290 legal status? How can people demonstrate their eligibility (e.g. do they need certain documentation)?
 - **Access** - Can people access the service directly, or do they need to be referred from another agency?
@@ -217,9 +233,11 @@ Based on common patterns, these sections frequently need verification:
 - **URLs** - Websites reorganize, creating broken links
 
 ### Quick Tasks to Check Periodically
+
 1. Verify all phone numbers are in kebab format (123-456-7890)
 2. Ensure all URLs use https when the site supports it
 3. Check that source annotations point to specific pages, not homepages (unless the home page is where the information is found)
 4. Convert ALL CAPS text, when used for emphasis, to *italicized* text
 5. Replace hyphens with en-dashes in ranges (8am–5pm, $5–10)
 6. Verify internal cross-references use section names, not numbers (as the outline organization may change)
+7. Ensure that all email addresses and telephone numbers are hyperlinked appropriately
