@@ -60,9 +60,9 @@ If you would like to suggests corrections or improvements, or if you would like 
 1. [Where to refill a water bottle](#where-to-refill-a-water-bottle)
 1. [Transportation](#transportation)
    1. Public Transit
-   1. For Seniors
-   1. Transportation to Medical Appointments
-   1. Bicycles
+   1. [Transportation Resources for Seniors](#transportation-for-seniors)
+   1. [Transportation to Medical Appointments](#transportation-to-medical-appointments)
+   1. [Bicycles](#bicycles)
    1. Automobile Insurance and Repair
 1. [Clothing](#where-to-find-free-or-thrift-store-clothing)
    1. [Free Clothes](#free-clothes)
@@ -76,7 +76,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. Emergency Care
    1. Urgent Care
    1. Health Insurance
-   1. Transportation to Medical Appointments
+   1. [Transportation to Medical Appointments](#transportation-to-medical-appointments)
    1. Medical and Assistive Devices
    1. Prescription Medicines
    1. Dental Care
@@ -96,9 +96,9 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. Advanced Care Directives and Legal Planning
 1. [Personal safety, deescalation, self-defense](#personal-safety-deescalation-self-defense)
 1. [Legal help & mediation, crime victim protection](#legal-help--mediation-crime-victim-protection)
-   1. Help for Convicts, Parolees, Probationers, P.C. 290 Registrants, Etc.
-   1. Housing Discrimination, Illegal Eviction, Etc.
-   1. Help with Benefits, Negotiating with Insurers, Etc.
+   1. Help for Convicts, Parolees, Probationers, P.C. 290 Registrants, etc.
+   1. Housing Discrimination, Illegal Eviction, etc.
+   1. Help with Benefits, Negotiating with Insurers, etc.
    1. Reliable “Know Your Rights” Information
    1. Injury Liability, Worker’s Compensation
    1. Consumer Protection
@@ -113,7 +113,7 @@ If you would like to suggests corrections or improvements, or if you would like 
 1. [IDs and other documents](#ids-and-other-documents-how-to-obtain-replace-secure)
 1. [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc)
 1. [Banking and money management](#banking-and-money-management)
-   1. Banks, Credit Unions, Etc.
+   1. Banks, Credit Unions, etc.
    1. Financial Literacy and Money Management
    1. Debt Consolidation
 1. [Tax preparation](#tax-preparation)
@@ -711,89 +711,99 @@ You can find a map of these hydration stations [at this link](https://storymaps.
 
 ### Public Transit
 
-1. [**SLO Regional Transit Authority (RTA)**](https://www.slorta.org/)
-   - Service area: Six bus routes connecting cities throughout SLO County and Northern Santa Barbara County
-   - Also several regional dial-a-ride services
-   - Fares: Cash fares vary by route/distance; exact fare required; fare system changes coming Fall 2025
-      - ADA-eligible passengers ride RTA fixed routes free if they have a Certificate of Eligibility (apply with RTA)
-   - Location (offices)/Phone/Email: See [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) in the [Directory](Directory.md)
-   - Route maps: Available at [www.slorta.org/schedules-fares/](https://www.slorta.org/schedules-fares/) for individual routes
-1. [**Runabout Paratransit**](https://www.slorta.org/services/runabout-paratransit/)
-   - Service: County-wide ADA complementary paratransit for people unable to use fixed-route buses due to disability
-   - Eligibility: Requires completed application and in-person interview; decision within 21 days
-   - Service area: Within ¾ mile of RTA fixed routes during same days/hours
-   - RTA fixed routes: Routes 9 (SLO-San Miguel), 10 (SLO-Santa Maria), 12 (Los Osos/Morro Bay-SLO), 15 (Morro Bay-San Simeon), plus South County Routes 21, 24, 27, 28 and local Paso Robles/Morro Bay loops
-   - Source: [slorta.org](https://www.slorta.org/services/fixed-route-buses/)
-   - Booking: Advanced reservations up to 7 days prior (by 5pm previous day)
-   - Cost: ADA-eligible passengers ride RTA fixed routes free with Certificate of Eligibility; Runabout paratransit fares $2.50–$11 each way (double fixed-route fare)
-   - Companions: One free personal care attendant; additional companions pay full fare
-   - Application: Call 805-781-4833 or visit 253 Elks Lane, SLO (Mon–Thu 8am–4pm, Fri by appt)
-1. [**SLO Transit**](https://www.slocity.org/government/department-directory/public-works/slo-transit-bus)—City of SLO
-   - Service area: 10 bus routes within SLO city limits and Cal Poly, 162 bus stops total
-   - Special service: Old SLO Trolley downtown and upper Monterey (Thursday–Sunday, seasonal)
-   - Location (office)/Phone/Email: See [**SLO Transit**](Directory.md#SLO-Transit) in the [Directory](Directory.md)
-   - Source: [slocity.org](https://www.slocity.org/government/department-directory/public-works/slo-transit)
-   - Note: schedule adjusts to academic calendar; probably best not to try to reproduce schedule/maps but refer readers to authoritative source
-1. [**SLO Regional RideShare**](https://rideshare.org/) for carpooling and door-to-door services
-   - What’s Available: Free online ridematching system (iRideshare), emergency ride home ($4 for registered users), carpool coordination, vanpooling
-   - Ridematching: System matches commuters based on proximity, destination, travel route, schedules, and preferences to find carpools, vanpools, transit, bike or walking options
-   - Registration: Create free account at [iRideshare.org](https://irideshare.org/); benefits include emergency ride home service, rewards/prizes for trip logging, enhanced matching
-   - Source: [rideshare.org](https://rideshare.org/ridematching/)
-   - Contact: 805-781-4462, San Luis Obispo
-   - Coverage: SLO County-wide transportation alternatives
-1. **SLO County Council of Governments (SLOCOG) Transportation Programs**
-   - VIP Pass for Seniors 80+: Free pass allowing rides on all fixed route bus systems in SLO County; requires one-page application and photo
-   - Regional Day Pass: Allows riding SLO Transit, RTA, SCT, Paso Express and North County Shuttle routes with one pass
-   - Free Transit Programs: SLOCOG occasionally organizes "No Fare, Anywhere" initiatives during Regional Rideshare Week to allow residents to try transit for free
-   - Discounted Rail Program: Partnership with LOSSAN offering 75% discount on 10-ride and monthly Amtrak Pacific Surfliner passes between SLO city, Grover Beach, and Guadalupe (as of May 2025)
-   - Programs: Commuter Club, Safe Routes to School, Mobility Management, Youth Ride Free, Rideshare Week
-   - Contact: Visit SLO Regional Rideshare website at [rideshare.org](https://rideshare.org/) for current programs
-   - Source: [slocog.org](https://www.slocog.org/programs/public-transportation/transit)
-1. Morro Bay [**Fixed Route**](https://www.slorta.org/schedules-fares/morro-bay-transit/), [**Call-A-Ride**](https://www.slorta.org/services/dial-a-ride/), and [**Trolley**](https://www.slorta.org/schedules-fares/morro-bay-trolley/)
-   - Phone: 805-541-2228
-1. Atascadero dial-a-ride
-   - curb-to-curb service in Atascadero city limits; wheelchair lift; bike racks.
-   - Hours: M–F 7:30am–3:30pm
-   - Phone: 805-466-7433
-   - Cost: $2.50–$8 depending on various factors
-1. **511**: [slo511.org](https://www.slo511.org/) for traffic and transit information
-1. **Apps and Resources**: Moovit app for SLO bus schedules, routes & updates
-   - Coverage: Multiple transit systems including SLO Transit, SLO RTA, Santa Maria Regional Transit, and other county operators
-   - Features: Real-time arrival times, service alerts, step-by-step navigation
-   - Platforms: Free app available on Android and iPhone (App Store/Google Play)
-   - Website: [moovitapp.com](https://moovitapp.com/)
+There are many public transit options in SLO County.
+The [Rideshare](https://rideshare.org/) website and the [511](tel:+1-511) phone service can give you an overview of most of them and can help you plan your trips.
+
+The [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) system includes six bus routes that connect cities in SLO County.
+They also govern the within-city bus routes in Morro Bay and Paso Robles, and the dial-a-ride and Runabout Paratransit services.
+You can buy bus passes on the bus or by using the [Token Transit](https://tokentransit.com/riders/download) app.
+There are discounts for seniors, medicare card holders, and people with disabilities.
+
+| RTA Line | Destinations |
+| -------- | ------------ |
+| 9        | San Miguel, Paso Robles, Templeton, Atascadero, Santa Margarita, SLO |
+| 10       | Santa Maria, Nipomo, Arroyo Grande, Pismo Beach, SLO |
+| 12       | Los Osos, Morro Bay, SLO |
+| 15       | San Simeon, Cambria, Cayucos, Morro Bay |
+| 21       | Pismo Beach, Arroyo Grande, Grover Beach |
+| 24       | Pismo Beach, Grover Beach |
+| 27 & 28  | Grover Beach, Arroyo Grande, Oceano |
+
+[Runabout Paratransit](https://www.slorta.org/services/runabout-paratransit/) is a county-wide transit service for people who cannot always use the fixed-route SLO RTA buses because of disability.
+This service will take you door-to-door within ¾-mile of the RTA fixed routes during the same hours RTA operates.
+One personal care attendent can accompany you free-of-charge.
+You have to apply and have an in-person interview to be eligible for this service (call 805-781-4833 or visit 253 Elks Lane, SLO, M–Th 8am–4pm, or Fri. by appointment).
+After you register, make ride reservations 1–7 days in advance by calling 805-541-2544.
+Rides are not free; they cost about twice as much as ordinary RTA rides.
+However people who qualify to use Runabout Paratransit can also ride the ordinary RTA service for free.
+
+[**SLO Transit**](Directory.md#SLO-Transit) is the within-city San Luis Obispo bus system.
+You can use the [SLO Transit RiderPortal](https://slo.rider.peaktransit.com/) website or phone app ([iPhone](https://itunes.apple.com/us/app/slo-transit/id458554556?mt=8), [Android](https://play.google.com/store/apps/details?id=edu.calpoly.android.SloBusMapper&hl=en)) to view routes and to see when the next bus is due to arrive.
+You can buy bus passes on the bus or by using the [Token Transit](https://tokentransit.com/riders/download) app.
+(Another option for viewing bus arrival times and for planning travel is the [moovit](https://moovitapp.com/index/en/public_transit-San_Luis_Obispo_CA-4003) app.)
+There are discounts for seniors and disabled people (you may need to [apply for a special card](https://forms.slocity.org/Forms/SDPassApp)), and for children.
+If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit buses.
+
+You can find carpool options locally by using the [iRideshare](https://irideshare.org/#/) web application, a free program for SLO County commuters.
+The application matches commuters based on their locations, routes, destinations, and schedules to try to match them into compatible carpools.
+
+If you register for iRideshare and you commute to work by walking, biking, taking the bus, or in a carpool or vanpool, and you need to get home from work in some other way (for example, because the carpool is leaving at the wrong time, or because your bike broke down), the [Guaranteed Ride Home](https://rideshare.org/program/guaranteed-ride-home/) will pay for your taxi, Uber, or Lyft ride home.
+(You need to save the receipt, and you can only get a limited number of guaranteed rides home.)
+
+[Greyhound](https://www.greyhound.com/) and [Trailways](https://trailways.com/) operate between-cities bus routes.
+[Amtrak](https://www.amtrak.com/) has rail lines and buses that run all over the U.S.
+Although they are best-known for their trains, their bus service can often outcompete Trailways and Greyhound on price, speed, and convenience.
+You can catch these trains and buses from the following locations in SLO County:
+
+| Location                                                     | Greyhound | Trailways | Amtrak train | Amtrak bus |
+| ------------------------------------------------------------ | --------- | --------- | ------------ | ---------- |
+| Atascadero Amtrak Bus Stop, 6000 Capistrano Ave., Atascadero | ✓         |           |              | ✓          |
+| Grover Beach Amtrak Station, 180 W. Grand Ave., Grover Beach | ✓         |           | ✓            | ✓          |
+| Paso Robles Train Station, 800 Pine St., Paso Robles         | ✓         |           | ✓            | ✓          |
+| Cal Poly, 1 Grand Ave., SLO                                  | ✓         |           |              | ✓          |
+| Railroad Museum, 1940 Santa Barbara Ave., SLO                | ✓         | ✓         |              |            |
+| Train Station, 1011 Railroad Ave., SLO                       | ✓         |           | ✓            | ✓          |
+
+<!-- needs research:
 1. [**Family Care Network**](https://fcni.org/)
    - What’s Available: bus passes, gas cards
    - Eligibility: Homeless or at-risk families in SLO County
    - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
    - See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
+-->
 
-### Transportation Resources for Seniors
+There are [Dial-A-Ride](https://www.slorta.org/services/dial-a-ride/) services in Atascadero, Morro Bay, Nipomo, Paso Robles, Shandon, and Templeton.
+They typically offer curb-to-curb service and charge $2.25–8.00 each way (sometimes less for seniors, disabled people, and children):
 
-1. **Five Cities Senior Transportation**: [Senior Go!](https://www.sloseniorgo.org/) service for ages 65+, 805-473-3333
-   - Service area: Throughout SLO County (not limited to Five Cities area)
-   - Cost: $5.00 (0–20 miles) or $10.00 (20+ miles) each way
-      - Note: Unable to find specific low-income subsidies for this service; contact 805-473-3333 or [**SLOCOG**](Directory.md#SLOCOG) to inquire about financial assistance
-   - Schedule: Monday–Friday 7am–5pm, Saturday 10am–3pm (closed major holidays)
-   - Reservations: Up to 4 round trips per month; call 805-473-3333 to book
-   - Uses: Medical appointments, grocery stores, personal visits within county boundaries
-1. [**Dial-A-Ride & Senior Go! Shuttle**](https://www.slorta.org/services/dial-a-ride/)
-   - Service: Origin-to-destination transportation within local communities; no set timetables; curb-to-curb service
-   - Coverage areas: Paso Robles & Shandon, Templeton, Atascadero, Nipomo
-   - Cost: $1.75–$8.00 each way depending on qualifications; $5–$10 based on distance (0–20 miles = $5, 20+ miles = $10)
-   - Schedule: Monday–Friday 7am–5pm, Saturday 10am–3pm
-   - Reservations: Book 2–3 business days in advance, up to 2 weeks ahead; seniors may book up to 4 roundtrips per month
-   - Contact for reservations: Atascadero: 805-541-2228, Nipomo: 805-929-2881, Paso Robles: 805-239-8747, Shandon/Paso: 805-541-2544 [Source: [slorta.org](https://www.slorta.org/services/dial-a-ride/)]
-1. Cambria Community Bus
-   - free service for seniors and people with disabilities in the Cambria/San Simeon area
-   - call one day in advance to make a reservation
-   - Phone: 805-927-4173 (Español: 805-975-5724)
-   - Hours: M–F 8am–4:30pm
-1. [Cayucos Seniors Club van](https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf)
-   - For residents of Cayucos; prioritizes transportation to medical appts. but can also sometimes handle other needs
-   - Hours: M–F 9am–4pm
-   - Make appointments 48 hours ahead of time
-   - Phone: 805-995-3543
+| Dial-a-Ride Service | Phone Number | Notes |
+| ------------------- | ------------ | ----- |
+| Atascadero          | 805-466-7433 | Operates M–F 7:30am–3:30pm. |
+| Morro Bay           | 805-541-2228&#xA0;x3 | Must be within ¾-mile of a transit bus route. Call M–F 8am–10pm to request a ride. |
+| Nipomo              | 805-929-2881 | Reserve a ride at least two hours ahead of time. Operates M–F 7am–6:30pm. |
+| Paso Robles         | 805-239-8747 | Reserve a ride at least two hours ahead of time. Operates M–F 7am–1pm. |
+| Shandon             | 805-541-2544 | Reserve a ride by noon the day ahead of time. Operates M,W,F 8am–5pm. |
+| Templeton           | 805-541-2544 | Reserve a ride the day ahead of time. Operates Tu,Th 8am–5pm. |
+
+### <a id="transportation-for-seniors">Transportation Resources for Seniors</a>
+
+Many transit services have reduced fares for seniors.
+People aged 80 and older ride for free on all SLO RTA and SLO Transit routes.
+In addition, there are some transit options specificially for seniors.
+
+For example, the [**Senior Go!**](Directory.md#Senior-Go) service serves people aged 65 and up.
+It serves all of SLO County, and all trips must be within SLO County.
+Call to book a curb-to-curb ride two to three days in advance. You can reserve up to four round-trips per month.
+The cost is $5 for short trips (0–20 miles) or $10 for longer trips.
+
+The [Cambria Community Bus](https://www.cambriacommunitycouncil.org/community-bus) is a free service for seniors (aged 60 and up) and disabled people in the Cambria/San Simeon area.
+Call 805-927-4173 (español 805-975-5724) M–F 9–11am at least one day in advance to make a reservation for a ride.
+Rides are door-to-door service and can include multiple stops.
+The bus only operates on weekdays 8am–4:30pm, and in the local area (except for Tuesdays, when the bus can also do trips to SLO city).
+
+The [Cayucos Senior Van](https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf) is a similar program for residents of Cayucos.
+It prioritizes transportation to medical appointments, but can also sometimes handle other needs.
+It operates M–F 9am–4pm.
+Call 805-995-3543 to make an appointment at least 48 hours ahead of time.
 
 ### <a id="transportation-to-medical-appointments">Transportation to Medical Appointments</a>
 
@@ -817,7 +827,7 @@ It leaves SLO at 6am, arrives at WLA at 11:15am, leaves WLA at 3:25pm and return
 
 The [**American Cancer Society**](Directory.md#American-Cancer-Society)’s “Road to Recovery” program offers free rides to and from cancer-related medical appointments.
 
-### Bicycles
+### <a id="bicycles">Bicycles</a>
 
 The [**Bike Kitchen**](Directory.md#Bike-Kitchen) in SLO city can help you learn how to do maintenance and repairs on your bicycle, and can give you access to the tools and supplies you need.
 They also sell refurbished bicycles at low prices.
@@ -858,14 +868,15 @@ Here are some tips for keeping your bike safe if you are camping:
       - Note: Many programs prioritize low-income individuals and may require income documentation. Some churches require membership for assistance. Contact individual churches directly to verify current programs.
       - Source: [churchesthathelpus.com](https://churchesthathelpus.com/emergency-car-repair-assistance/)
    - Call CAPSLO at 805-541-4122 for information about local assistance programs
-1. **Safe parking for people living in vehicles**
-   - See [Where to find shelter / housing](#where-to-find-shelter--housing) section for information about the 40 Prado & Rotating Overnight Safe Parking Programs
-   - Contact 805-544-4004 (40 Prado) for intake and enrollment
 1. [**Family Care Network**](https://fcni.org/)
    - What’s Available: gas cards
    - Eligibility: Homeless or at-risk families in SLO County
    - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
    - See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
+
+### Safe parking for people living in vehicles
+
+See [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks) to learn about options for places to park safely and legally if you live in your vehicle.
 
 ## <a id="where-to-find-free-or-thrift-store-clothing">**Clothing**</a>
 
@@ -1160,7 +1171,7 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
    - Services: shelter for terminally ill persons who have need of housing to allow the person to die in the dignity and stability of housing with the care of hospice
    - Eligibility: homeless people in SLO County
    - Access: via [**Adult Protective Services**](Directory.md#Adult-Protective-Services); or via a referral from CalWORKs (another source says "through Social Services or APS")
-   - Program Status: Program is currently active as of 2025; referrals processed through [**Adult Protective Services**](Directory.md#Adult-Protective-Services) and CalWORKs families through HSP Case Managers [Source: [cfsslo.org](https://cfsslo.org)]
+   - Program Status: Program is currently active as of 2025; referrals processed through [**Adult Protective Services**](Directory.md#Adult-Protective-Services) and CalWORKs families through HSP Case Managers
 1. [**CenCal Health Palliative Care Program**](https://www.cencalhealth.org/)
    - Eligibility: Medi-Cal beneficiaries (not Medicare/Medi-Cal dual-eligible) without age restrictions
    - Services: Patient and family-centered care focused on quality of life, symptom management, addressing physical, emotional, social, and spiritual needs
@@ -1172,54 +1183,22 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
    - Contact: San Luis Obispo VA Clinic, 805-543-1001; palliative care available through VA Greater Los Angeles Healthcare System
    - Note: Contact clinic directly for specific palliative care referrals and services
 
-### Advance Directives and Legal Planning
+### Advance Directives
 
-1. **What Are Advance Directives?**
-   - Definition: Legal documents that let you communicate your healthcare wishes in advance, in case you become unable to speak for yourself
-   - Purpose: Ensure your medical care preferences are known and followed when you cannot communicate them
-   - Types of advance directives:
-      - Living Will: Written document specifying what medical treatments you would or would not want if terminally ill or in persistent vegetative state
-      - Healthcare Power of Attorney: Designates a trusted person to make medical decisions for you when you cannot
-      - Do Not Resuscitate (DNR) Orders: Written document expressing desire to refuse resuscitation efforts
-   - Why they're important:
-      - Control: Keeps healthcare decisions in the hands of people you trust
-      - Clarity: Family members guess end-of-life preferences incorrectly about one-third of the time
-      - Reduces burden: Helps loved ones make difficult decisions and may reduce their guilt and depression
-      - Peace of mind: Provides assurance that your wishes will be respected
-   - When to create them: The best time is *before* you need them, while you can still make clear decisions
-   - Source: [nia.nih.gov](https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care) and [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/living-wills/art-20046303)
-1. [**San Luis Obispo Legal Assistance Foundation (SLOLAF)**](https://www.slolaf.org/)
-   - Services: Assistance with durable powers of attorney for finances, advance health care directives, simple wills
-   - Eligibility: Age 60+ residents of San Luis Obispo County, also serves low-income individuals, veterans, people with disabilities
-   - Cost: Free services (donations appreciated)
-   - Contact: 805-543-5140, 3232 South Higuera #101D, San Luis Obispo, CA 93401
-   - Response Time: Returns calls within three business days
-   - Immigration Status: No documentation required
-1. **San Luis Obispo College of Law Legal Clinic**
-   - Location/Phone/Hours: See [**San Luis Obispo College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic) in the [Directory](Directory.md)
-   - Services: Legal information for advance directives and estate planning under attorney supervision (for age 60+ residents); free services with $15 fee for paperwork
-   - Eligibility: Unable to afford attorney; age/income requirements for advance directives
-   - Website: [montereylaw.edu/clinics/indexslocl.html](https://montereylaw.edu/clinics/indexslocl.html)
-1. **Long Term Care Ombudsman**
-   - Location/Phone/Email/Hours: See [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) in the [Directory](Directory.md)
-   - Services: Advanced directive witnessing (also advocacy for nursing home residents, complaint investigation)
-   - Coverage: All cities in SLO County
-   - Eligibility: Individuals unable to afford an attorney
-   - Cost: No charge
-   - Website: [slocll.org/self-help-2/legal-help](https://www.slocll.org/self-help-2/legal-help/)
-   - Contact: 805-548-8884 (telephone consultations by appointment only)
-1. **California Rural Legal Assistance (CRLA) - SLO Office**
-   - Services: Free legal assistance for low-income residents including advance directives
-   - Location/Phone/Hours: See [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) in the [Directory](Directory.md)
-   - Alternative: Senior Legal Services Project: 805-543-5140 (serves seniors 60+)
-   - Website: [crla.org](https://crla.org/locations/san-luis-obispo)
-1. **Free Online Advance Directive Resources**
-   1. **[PREPARE for Your Care](https://prepareforyourcare.org/)**: Interactive online program available in English and Spanish (funded by National Institute on Aging)
-      - Features: Video stories, easy-to-read language, helps explore personal values and preferences; includes advance directives for all 50 states
-      - Contact: [info@prepareforyourcare.org](mailto:info@prepareforyourcare.org); developed by UCSF PREPARE lab team
-   1. **[The Conversation Project](https://theconversationproject.org/)**: Online conversation guides and advance care documents in English, Spanish, and Chinese
-      - Resources: Conversation Starter Guide, Health Care Proxy guides, What Matters to Me Workbook, caregiver guides for dementia
-      - Access: Free downloads available at [theconversationproject.org/get-started](https://theconversationproject.org/get-started)
+Advance Directives are legal documents that let you communicate your healthcare wishes in advance, in case you become unable to speak for yourself.
+These documents include:
+
+- **Living Will:** Specifies which medical treatments you would or would not want if you become terminally ill or are in a persistent vegetative state
+- **Healthcare Power of Attorney:** Designates a trusted person to make medical decisions for you when you cannot
+- **Do Not Resuscitate (DNR) Orders:** Expresses your desire to refuse resuscitation efforts
+
+These documents help to ensure that your healthcare wishes are respected even if you are incapacitated and cannot express them yourself.
+It is a good idea to create such documents *before* you need them, as when you need them you will be preoccupied or unable.
+Give these documents to your healthcare providers so they know to respect your specific preferences.
+
+The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [The Conversation Project](https://theconversationproject.org/) can help you create advance directive documents that match your needs and preferences.
+
+[**Senior Legal Services Project**](#Senior-Legal-Services-Project), [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) can give you free help to make your advance directive documents clear and legally binding.
 
 ### Other/Uncategorized
 
@@ -1465,6 +1444,8 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
      - Location/Phone/Hours: See [**SLO County Small Claims Advisor**](Directory.md#SLO-County-Small-Claims-Advisor) in the [Directory](Directory.md)
      - What's Available: Free information and assistance for small claims court cases (plaintiff or defendant)
      - Note: Some sources say hours are Monday–Wednesday only rather than Monday–Friday
+1. Help with advance care directives, wills
+   - See medical section above, but also add stuff about wills in particular
 1. **Long Term Care Ombudsman**
      - Location/Phone/Email/Hours: See [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) in the [Directory](Directory.md)
      - What's Available: Advocacy for nursing home/care facility residents, complaint investigation, facility monitoring
@@ -2934,6 +2915,7 @@ The post office may stop accepting general delivery mail for you if you try to u
 
 ## <a id="advocacy--lobbying-for-homeless-issues">**Advocacy & lobbying for homeless issues**</a>
 
+1. [National Coalition for the Homeless](https://nationalhomeless.org/)
 1. **SeeClickFix (Paso Robles)**—Digital platform for reporting non-emergency community issues to city government, including homeless-related concerns. Available at [seeclickfix.com](https://seeclickfix.com/web_portal/mWPmZTZqbheqdCAtKircrZNq/issues/map) or via mobile app. Used by residents to report issues like infrastructure problems, maintenance needs, and community concerns that require city attention. For homeless-specific questions in Paso Robles, contact [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
 1. **[Ask SLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request)**—SLO's centralized resident engagement platform (available online and as mobile app) providing 24/7 access to city services. Report homelessness issues on city public property via Ask SLO, or private property issues to Code Enforcement through the platform. Platform is managed by Community Services departments including Public Works, Code Enforcement, Parks & Recreation, and Utilities. Contact: Brendan Pringle at [bpringle@slocity.org](mailto:bpringle@slocity.org) for platform questions.
 1. **[Arroyo Grande Citizen RequestTracker](https://www.arroyogrande.org/RequestTracker.aspx)**

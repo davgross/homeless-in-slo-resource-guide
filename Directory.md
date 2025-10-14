@@ -1484,7 +1484,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 ## <a id="Long-Term-Care-Ombudsman">Long Term Care Ombudsman</a>
 
-- [slocll.org/self-help-2/legal-help](https://www.slocll.org/self-help-2/legal-help/)
+- [ombudsmanslo.org](https://ombudsmanslo.org/)
 - Location: 3232 S. Higuera St. #101B, SLO
 - Phone:
    - [805-785-0132](tel:+1-805-785-0132) (office)
@@ -2033,6 +2033,14 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Hours: M–F 8am–5pm (closed Noon–1pm)
 - How to access: Walk-ins OK.
 
+## <a id="Senior-Go">Senior Go!</a>
+
+- [sloseniorgo.org](https://www.sloseniorgo.org/)
+- Locations: Throughout SLO County
+- Phone: [805-473-3333](tel:+1-805-473-3333)
+- Hours: M–F 7am–5pm, Sa 10am–3pm (closed major holidays)
+
+
 ## <a id="Senior-Legal-Services-Project">Senior Legal Services Project</a>
 
 - Location: 3232 S. Higuera St. #101D, SLO
@@ -2380,7 +2388,7 @@ creston, san miguel, shandon
    - Runabout Paratransit: [805-781-4833](tel:+1-805-781-4833)
 - Email: [info@slorta.org](mailto:info@slorta.org)
 - Hours (office): M–Th 8am–4pm; Friday by appointment only
-- Notes: Also operates “Runabout Paratransit,” “Senior Go! Shuttle,” and “Dial-A-Ride”
+- Notes: Also operates “Runabout Paratransit,” [**Senior Go! Shuttle**](#Senior-Go), and “Dial-A-Ride”
 
 ## <a id="SLO-Senior-Center">SLO Senior Center</a>
 
