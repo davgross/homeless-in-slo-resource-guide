@@ -59,7 +59,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [Edible wild plants](#edible-wild-plants)
 1. [Where to refill a water bottle](#where-to-refill-a-water-bottle)
 1. [Transportation](#transportation)
-   1. Public Transit
+   1. [Public Transit](#public-transit)
    1. [Transportation Resources for Seniors](#transportation-for-seniors)
    1. [Transportation to Medical Appointments](#transportation-to-medical-appointments)
    1. [Bicycles](#bicycles)
@@ -709,7 +709,7 @@ You can find a map of these hydration stations [at this link](https://storymaps.
 
 ## <a id="transportation">**Transportation**</a>
 
-### Public Transit
+### <a id="public-transit">Public Transit</a>
 
 There are many public transit options in SLO County.
 The [Rideshare](https://rideshare.org/) website and the [511](tel:+1-511) phone service can give you an overview of most of them and can help you plan your trips.
@@ -843,13 +843,16 @@ Here are some tips for keeping your bike safe if you are camping:
 
 ### Automobile Insurance and Repair
 
-1. **California Low Cost Auto Insurance Program**
-   - What’s Available: State-sponsored low-cost liability insurance for income-eligible residents
-   - Cost: Annual premiums $244–$966 depending on county and driving record
-   - Eligibility: Income-eligible California residents regardless of immigration status
-   - Contact: 866-602-8861 (official program number), [www.mylowcostauto.com](https://www.mylowcostauto.com)
-   - Note: Phone number 805-547-1000 not verified as official program contact
-   - Source: [insurance.ca.gov](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/01-auto/lca/)
+A car must be insured to be legally driven in California.
+California has a state-sponsored, low-cost auto insurance program.
+To qualify, you must have a valid California driver’s license, a low income (for a single person, under $39,125 per year), a vehicle that is worth no more than $25,000, and have:
+
+- no more than one at-fault, property-damage-only accident or no more than one point for a moving violation within the past three years,
+- no at-fault accidents involving bodily injury or death on a driving record within the previous three years, and
+- no felony or misdemeanor convictions for a violation of the Vehicle Code on your motor vehicle driving record.
+
+You can apply for this insurance on-line at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling 866-602-8861.
+
 1. **Car repair assistance programs**
    - [**California Bureau of Automotive Repair (CAP)**](https://www.bar.ca.gov/cap): Consumer Assistance Program includes repair assistance in SLO County
    - **Salvation Army:** The Salvation Army San Luis Obispo Corps provides various assistance programs including some transportation support like bus cards and gas money. While general automotive repair assistance programs exist at some Salvation Army locations nationwide, specific car repair voucher programs were not confirmed at the San Luis Obispo location. Contact them directly to inquire about current automotive assistance availability and eligibility requirements. Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
@@ -1828,53 +1831,38 @@ The post office may stop accepting general delivery mail for you if you try to u
 
 ## <a id="tax-preparation">**Tax preparation**</a>
 
-1. **Free Services for Low-Income Individuals (Under $67,000-$84,000 AGI)**
-   1. **VITA (Volunteer Income Tax Assistance) Program**
-      - Eligibility: Adjusted gross income up to $67,000; U.S. citizenship *not* required
-      - Services: Free federal and state tax return preparation by IRS-certified volunteers; helps identify tax credits like EITC, Child Tax Credit
-      - Source: [unitedwayslo.org](https://unitedwayslo.org/family-financial-stability/taxes/)
-      - Recommend that people check website for locations/hours around tax season (February–mid-April)
-   1. [**AARP Tax-Aide Program (Central Coast Tax-Aide)**](Directory.md#AARP-Tax-Aide)
-      - Phone/Email: See [**AARP Tax-Aide Program**](Directory.md#AARP-Tax-Aide) in the [Directory](Directory.md)
-      - What's Available: Free federal and state income tax preparation
-      - Eligibility: Especially for taxpayers over 50 and low- to moderate-income earners; not for complicated returns
-      - Locations: 10 locations across SLO County
-      - Website: [ccfreetax.org](https://www.ccfreetax.org/)
-      - Note: Sites may be closed during off-season; check website for current availability
-   1. **United Way of San Luis Obispo County**
-      - Services: Coordinates free tax assistance through partner organizations (AARP, Cal Poly, Northern County Santa Barbara United Way)
-      - Contact: 805-541-1234, [taxes@unitedwayslo.org](mailto:taxes@unitedwayslo.org)
-      - Website: [unitedwayslo.org/family-financial-stability/taxes](https://unitedwayslo.org/family-financial-stability/taxes/)
-1. **Online Free Filing Options**
-   1. [**IRS Free File Program**](https://www.irs.gov/filing/irs-free-file-do-your-taxes-for-free)
-      - Eligibility: Adjusted gross income up to $84,000 (2024 tax year)
-      - Services: Free online tax preparation software and electronic filing; available in English and Spanish
-      - Special provision for homeless: Can use address of friend, relative, or trusted service provider (shelter, drop-in center, transitional housing) on tax return
-      - Access: Requires computer and internet access (available at libraries and homeless service centers)
-      - Note: current administration is hostile to this program so it may be discontinued
-   1. **IRS Free File Fillable Forms**
-      - Eligibility: No income limit
-      - Services: Electronic version of paper tax forms for those comfortable preparing their own taxes
-      - Note: Requires more tax knowledge than guided software
-      - Access: [irs.gov/freefile](https://www.irs.gov/freefile) or [irs.gov/e-file-providers/free-file-fillable-forms](https://www.irs.gov/e-file-providers/free-file-fillable-forms)
-      - Printer requirements: No printer required for e-filing; printing only needed if mailing physical documents
-      - **Important**: Access deadline mid-October; does not support state tax returns
-   1. [**MyFreeTaxes.org**](https://www.myfreetaxes.org/)
-      - Eligibility: No income restrictions
-      - Services: Free online tax preparation for everyone
-      - Access: Requires computer literacy and internet access
-      - Legitimacy: Operated by United Way in partnership with IRS VITA program; uses TaxSlayer software with industry-standard security; completely free with no hidden fees
-      - Quality: IRS-certified volunteers provide assistance; good for taxpayers earning $84,000 or less; helps discover available tax credits
-1. Important Information for Homeless and Vulnerable Populations
-   - Address Requirements: Homeless individuals can use the address of a shelter, drop-in center, transitional housing program, or trusted friend/relative
-   - Can be Advantageous to File Even If You Don’t Have To: Even those with very low income should consider filing to claim refundable tax credits (EITC, Child Tax Credit, Premium Tax Credit)
-   - Required Documents: Most services require photo ID, Social Security card/number, and any income documents (W-2, 1099 forms); contact services if missing documents
-   - Timing: Tax assistance generally available February 1 — April 15; some locations require appointments
-   - 211 Resource: Call 211 for current information on tax assistance locations and availability
-   - What to Avoid
-      - Refund Anticipation Loans: High-interest loans against expected refunds; unnecessary with free e-filing and direct deposit
-      - High-Cost Commercial Preparers: H&R Block, Jackson Hewitt, and similar services charge fees that can consume significant portions of refunds for low-income filers
-      - Tax Preparation Mills: Storefront operations that may charge excessive fees or provide poor service quality
+There are several programs that can give you free assistance in filling out and filing your annual tax returns.
+Free tax assistance programs are usually available in the February-through-April period.
+
+Even if you do not think you owe any taxes because your income is very low, it can be to your advantage to file a tax return.
+This is for a few reasons:
+
+1. You may qualify for certain refundable tax credits that can put money in your pocket, even if you did not pay taxes all year.
+1. Some programs for low-income people require those people to show their most recent tax return to prove that they qualify.
+1. Filing a tax return, even if it is of little effect, can be a gesture of compliance with the law that can be helpful, for example if you are engaged in the U.S. immigration process.
+
+Avoid using commercial tax preparers that charge high fees, or that offer “refund anticipation loans.”
+Some of these give poor-quality tax advice, and most of them are bad bargains compared to the free services.
+
+If you are due a tax refund, you will get that refund more quickly if you have a bank account that accepts direct deposit.
+The U.S. Internal Revenue Service stopped issuing paper tax refund checks in 2025.
+
+> See the [Banking and money management](#banking-and-money-management) section of this guide for help in establishing a bank account.
+
+The national Volunteer Income Tax Assistance (VITA) program allows low- and moderate-income people to get free help in preparing and filing their federal and state tax returns.
+[**United Way of SLO County**](Directory.md#United-Way) coordinates the local VITA program through various partner organizations, including Cal Poly and [**AARP**](Directory.md#AARP-Tax-Aide).
+The AARP Tax-Aide Program is especially for people over age 50.
+The United Way also has [an on-line program](https://www.myfreetaxes.org/file-with-virtual-help/) with which you can upload your tax documents and get free help from tax preparation volunteers over the internet.
+
+There are also free options that allow you to file your federal income taxes yourself by using guided tax preparation software or by filling in on-line forms and filing them electronically.
+See [irs.gov/freefile](https://www.irs.gov/freefile) for details.
+Note that the current presidential administration is hostile to this free filing program and so it may be discontinued.
+
+> See the [Internet access / email / digital acess assistance](#internet-access--email--digital-access-assistance) section of this guide for ways to get access to a computer and the internet.
+
+Homeless people can use the address of a friend, relative, or trusted service provider as their filing address.
+
+> See the [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc) section of this guide for more options for establishing a mailing address.
 
 ## <a id="acute-financial-needs">**Acute financial needs**</a>
 

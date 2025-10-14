@@ -57,7 +57,6 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 - [ccfreetax.org](https://www.ccfreetax.org/)
 - Phone: [805-931-6308](tel:+1-805-931-6308)
 - Email: [info@ccfreetax.org](mailto:info@ccfreetax.org)
-- Notes: 10 locations across SLO County; free federal and state income tax preparation; especially for taxpayers over 50 and low- to moderate-income earners; sites may be closed during off-season (check website for current availability)
 
 ## <a id="Access-Central-Coast">Access Central Coast</a>
 
@@ -2600,9 +2599,11 @@ creston, san miguel, shandon
 ## <a id="United-Way">United Way</a>
 
 - [unitedwayslo.org](https://unitedwayslo.org/)
+   - [tax return assistance program](https://unitedwayslo.org/family-financial-stability/taxes/)
 - Location: 1288 Morro St. #10, SLO
 - Phone: [805-541-1234](tel:+1-805-541-1234)
 - Email: [info@unitedwayslo.org](mailto:info@unitedwayslo.org)
+   - tax return assistance program: [taxes@unitedwayslo.org](mailto:taxes@unitedwayslo.org)
 
 ## <a id="Urgent-Care">Urgent Care</a>
 
