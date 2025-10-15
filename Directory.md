@@ -1,6 +1,6 @@
 # <a id="directory">Directory</a>
 
-Possible future work: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/Geo_URI_scheme) if this might help users more quickly find addresses in their mapping application of choice. [Claude says](https://claude.ai/chat/fa6ec69b-cd5a-44fe-b4f1-b327a3270a42) geo URIs are not well-supported, and suggests proprietary links (Google Maps, Apple Maps) instead, except on Android which does support `geo:`.
+<!-- Possible future work: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/Geo_URI_scheme) if this might help users more quickly find addresses in their mapping application of choice. [Claude says](https://claude.ai/chat/fa6ec69b-cd5a-44fe-b4f1-b327a3270a42) geo URIs are not well-supported, and suggests proprietary links (Google Maps, Apple Maps) instead, except on Android which does support `geo:`. -->
 
 ## <a id="40-Prado">40 Prado Homeless Services Center</a>
 
@@ -463,7 +463,9 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
    - Pet Resource Center: 100 S. 4th St., Grover Beach
    - Mailing address: P.O. Box 60524, Santa Barbara, CA 93160
 - Phone: [805-968-2273](tel:+1-805-968-2273)
-- Email: [info@care4paws.org](mailto:info@care4paws.org)
+- Email:
+   - [info@care4paws.org](mailto:info@care4paws.org)
+   - [outreach@care4paws.org](mailto:outreach@care4paws.org)
 - Hours:
    - [Mobile Clinics Schedule](https://care4paws.org/clinics)
    - Pet Resource Center: M–Th 9am–5pm, F 11am–5pm
@@ -2039,7 +2041,6 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: [805-473-3333](tel:+1-805-473-3333)
 - Hours: M–F 7am–5pm, Sa 10am–3pm (closed major holidays)
 
-
 ## <a id="Senior-Legal-Services-Project">Senior Legal Services Project</a>
 
 - Location: 3232 S. Higuera St. #101D, SLO
@@ -2723,10 +2724,11 @@ There are several urgent care options, including:
 ## <a id="Woods-Humane-Society">Woods Humane Society</a>
 
 - [woodshumanesociety.org](https://woodshumanesociety.org/)
+   - [Pet Pantry](https://woodshumanesociety.org/pet-pantry/)
 - Location: 875 Oklahoma Ave, SLO
 - Phone: [805-543-9316](tel:+1-805-543-9316)
+- Email: [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) (Robin Coleman, Community Engagement Manager)
 - Hours: Tu–Su 11am–5pm
-- Notes: Operates “Pet Pantry”
 
 ## <a id="Zion-Lutheran-Church">Zion Lutheran Church</a>
 

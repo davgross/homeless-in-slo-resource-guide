@@ -1,5 +1,7 @@
 # Surviving Homelessness in SLO
 
+To-do: heading capitalization needs to be standardized
+
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
 
@@ -165,7 +167,6 @@ If you would like to suggests corrections or improvements, or if you would like 
   <tr><th colspan="2" style="text-align:left;">For LGBTQ People:</th></tr>
    <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text “START” to <a href="sms:678678">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr>
    <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr>
-   <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
   <tr><th colspan="2" style="text-align:left;">For Victims of Sexual Assault and Intimate Partner Violence:</th></tr>
    <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Local sexual assault, sexual abuse, and intimate partner violence crisis line</td></tr>
    <tr><td><a href="tel:+1-800-799-7233">800-799-7233</a></td><td>National Domestic Violence Hotline</td></tr>
@@ -176,6 +177,7 @@ If you would like to suggests corrections or improvements, or if you would like 
   <tr><th colspan="2" style="text-align:left;">Other Specialized Crisis Lines:</th></tr>
    <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (M–F, 8am–5pm), or <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Adult Protective Services</td></tr>
    <tr><td><a href="tel:+1-805-781-5437">805-781-5437</a> or <a href="tel:+1-805-781-1700">805-781-1700</a></td><td>Child Welfare Services emergency suspected child abuse reporting line</td></tr>
+   <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
    <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or manmade disaster)</td></tr>
   <tr><th colspan="2" style="text-align:left;">Health and Behavioral Health Information:</th></tr>
    <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Poison Control: Treatment advice from experts in poisoning care</td></tr>
@@ -614,6 +616,8 @@ They are self-serve and open 24/7.
 They are stocked by people who have extra things to give away.
 You never know quite what you will find there, but there is usually some canned and packaged non-perishable food, and sometimes toiletries and other small essentials.
 
+Sometimes people put perishible food in little free pantries, but you should beware of eating such food as it may have been there for a while and may no longer be safe to eat.
+
 See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Directory](Directory.md) for a list of locations.
 
 ### <a id="food-box-distributions">Food Box Distributions</a>
@@ -750,22 +754,8 @@ If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit
 You can find carpool options locally by using the [iRideshare](https://irideshare.org/#/) web application, a free program for SLO County commuters.
 The application matches commuters based on their locations, routes, destinations, and schedules to try to match them into compatible carpools.
 
-If you register for iRideshare and you commute to work by walking, biking, taking the bus, or in a carpool or vanpool, and you need to get home from work in some other way (for example, because the carpool is leaving at the wrong time, or because your bike broke down), the [Guaranteed Ride Home](https://rideshare.org/program/guaranteed-ride-home/) will pay for your taxi, Uber, or Lyft ride home.
+If you register for iRideshare and you commute to work by walking, biking, taking the bus, or in a carpool or vanpool, and you need to get home from work in some other way (for example, because the carpool is leaving at the wrong time, or because your bike broke down), the [Guaranteed Ride Home](https://rideshare.org/program/guaranteed-ride-home/) program will pay for your taxi, Uber, or Lyft ride home.
 (You need to save the receipt, and you can only get a limited number of guaranteed rides home.)
-
-[Greyhound](https://www.greyhound.com/) and [Trailways](https://trailways.com/) operate between-cities bus routes.
-[Amtrak](https://www.amtrak.com/) has rail lines and buses that run all over the U.S.
-Although they are best-known for their trains, their bus service can often outcompete Trailways and Greyhound on price, speed, and convenience.
-You can catch these trains and buses from the following locations in SLO County:
-
-| Location                                                     | Greyhound | Trailways | Amtrak train | Amtrak bus |
-| ------------------------------------------------------------ | --------- | --------- | ------------ | ---------- |
-| Atascadero Amtrak Bus Stop, 6000 Capistrano Ave., Atascadero | ✓         |           |              | ✓          |
-| Grover Beach Amtrak Station, 180 W. Grand Ave., Grover Beach | ✓         |           | ✓            | ✓          |
-| Paso Robles Train Station, 800 Pine St., Paso Robles         | ✓         |           | ✓            | ✓          |
-| Cal Poly, 1 Grand Ave., SLO                                  | ✓         |           |              | ✓          |
-| Railroad Museum, 1940 Santa Barbara Ave., SLO                | ✓         | ✓         |              |            |
-| Train Station, 1011 Railroad Ave., SLO                       | ✓         |           | ✓            | ✓          |
 
 <!-- needs research:
 1. [**Family Care Network**](https://fcni.org/)
@@ -786,6 +776,20 @@ They typically offer curb-to-curb service and charge $2.25–8.00 each way (some
 | Paso Robles         | 805-239-8747 | Reserve a ride at least two hours ahead of time. Operates M–F 7am–1pm. |
 | Shandon             | 805-541-2544 | Reserve a ride by noon the day ahead of time. Operates M,W,F 8am–5pm. |
 | Templeton           | 805-541-2544 | Reserve a ride the day ahead of time. Operates Tu,Th 8am–5pm. |
+
+[Greyhound](https://www.greyhound.com/) and [Trailways](https://trailways.com/) operate between-cities bus routes.
+[Amtrak](https://www.amtrak.com/) has rail lines and buses that run all over the U.S.
+Although they are best-known for their trains, their bus service can often outcompete Trailways and Greyhound on price, speed, and convenience.
+You can catch these trains and buses from the following locations in SLO County:
+
+| Location                                                     | Greyhound | Trailways | Amtrak train | Amtrak bus |
+| ------------------------------------------------------------ | --------- | --------- | ------------ | ---------- |
+| Atascadero Amtrak Bus Stop, 6000 Capistrano Ave., Atascadero | ✓         |           |              | ✓          |
+| Grover Beach Amtrak Station, 180 W. Grand Ave., Grover Beach | ✓         |           | ✓            | ✓          |
+| Paso Robles Train Station, 800 Pine St., Paso Robles         | ✓         |           | ✓            | ✓          |
+| Cal Poly, 1 Grand Ave., SLO                                  | ✓         |           |              | ✓          |
+| Railroad Museum, 1940 Santa Barbara Ave., SLO                | ✓         | ✓         |              |            |
+| Train Station, 1011 Railroad Ave., SLO                       | ✓         |           | ✓            | ✓          |
 
 ### <a id="transportation-for-seniors">Transportation Resources for Seniors</a>
 
@@ -918,7 +922,6 @@ Thrift stores sell second-hand (used) clothing at low prices.
 **Arroyo Grande:**
 
 - [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store)
-- [**Salvation Army**](Directory.md#Salvation-Army) Family Store
 
 **Atascadero:**
 
@@ -938,6 +941,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store)
 
 **Paso Robles:**
+
 - [**Goodwill Store**](Directory.md#Goodwill)
 
 **San Luis Obispo:**
@@ -1003,7 +1007,11 @@ Some SLO County parks have coin-operated shower facilities, including [**Coastal
 
 The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has coin-operated showers.
 
-A $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers.
+The [SLO Swim Center](https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center), which costs $4.75 to enter, has showers.
+
+Some commercial gyms have showers.
+For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers.
+Some Medicare supplement plans have a “Silver Sneakers” program with which you can get free gym memberships.
 
 ## <a id="health-medical-care">**Health, medical care**</a>
 
@@ -1204,7 +1212,7 @@ Give these documents to your healthcare providers so they know to respect your s
 
 The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [The Conversation Project](https://theconversationproject.org/) can help you create advance directive documents that match your needs and preferences.
 
-[**Senior Legal Services Project**](#Senior-Legal-Services-Project), [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) can give you free help to make your advance directive documents clear and legally binding.
+[**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) can give you free help to make your advance directive documents clear and legally binding.
 
 ### Other/Uncategorized
 
@@ -1663,6 +1671,7 @@ The VitalChek website can often also get you these records from other areas.
 To-Do
 
 ### Tips
+
 1. **Document storage and security**:
    - Keep copies separate from originals when possible
    - Use document storage services at homeless service centers:
@@ -1975,6 +1984,8 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    - *See also*: [Banking and money management](#banking-and-money-management) section for Financial Literacy / Credit Counseling resources
 
 ## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">**Navigating Social Security / SSDI / SSI / Survivors Benefits**</a>
+
+> See [Social Security Numbers or Cards](#social-security-numbers-or-cards) for information about how to get a Social Security number or to get or replace a Social Security card.
 
 1. Important 2025 Updates
    - SS has stopped issuing paper checks in favor of direct deposit to bank accounts or the "Direct Express" prepaid debit card
@@ -2759,84 +2770,47 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 
 ## <a id="pet-care-and-pet-supplies">**Pet care and pet supplies**</a>
 
-1. [**Central Coast Partnership for Animal Welfare (CCPAW)**](https://store10491224.company.site)—Mission: "To provide resources to the companion animals of the underserved on California's Central Coast." Specifically serves pets of people experiencing financial hardship or homelessness.
-   - Pet food distribution and emergency pet care
-   - Locations/Phone/Email/Hours/How to access: See [**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) in the [Directory](Directory.md)
-   - Facebook: [facebook.com/centralcoastpaw](https://facebook.com/centralcoastpaw)
-1. [**C.A.R.E.4Paws**](https://care4paws.org/)—Mobile pet wellness clinics serving SLO County including Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano. Provides vaccines, spay/neuter, health exams, medical care, and pet food assistance, with focus on marginalized communities. Mostly in S.B. county but also in southern SLO county.
-   - Location/Phone/Email/Hours: See [**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws) in the [Directory](Directory.md)
-   - Services: Mobile clinics 3× monthly, free services in Oceano
-   - Operates a “Pet Resource Center” with the 5Cities Homeless Coalition (Source: [care4paws.org/help-for-unhoused-families](https://care4paws.org/help-for-unhoused-families/))
-   - **Specialized Services for Unhoused Pet Families**: Companion Pet Assistance Program, free baths and nail trims, medical grooming for dogs, distribution of pet food/water/supplies, mobile spay/neuter/vaccine/microchip services through partnership with Street Dog Coalition. Collaborates with 5Cities Homeless Coalition and CAPSLO. Outreach email: [outreach@care4paws.org](mailto:outreach@care4paws.org)
-   - Sources: [care4paws.org](https://care4paws.org/locations/), [care4paws.org/help-for-unhoused-families](https://care4paws.org/help-for-unhoused-families/)
-1. [**The Street Dog Coalition**](https://www.thestreetdogcoalition.org/)—National nonprofit providing free veterinary care to pets of people experiencing homelessness. Uses a "One Health" approach to street medicine, caring for both pets and their owners.
-   - Mission: "We believe in the transformative bond between humans and animals and aim to support both through equitable, compassionate, and community-driven programs."
-   - Services: Free veterinary care, vaccinations, basic medical treatment for pets of homeless individuals
-   - Note: Personal communication from Alex Gomes of SDC (8/28/25):
-      - SDC offers free preventative care (vaccines, flea/tick prevention) for pets of the unhoused.
-      - They don't offer services to housed low-income families.
-      - They partner with C.A.R.E.4Paws (so C4P should probably be the main listing) at their clinics and during riverbed outreach
-   - Source: [thestreetdogcoalition.org](https://www.thestreetdogcoalition.org/)
-1. [**Woods Humane Society**](https://woodshumanesociety.org/)—Independent nonprofit dedicated to humane care of homeless dogs and cats in SLO County since 1955. Offers Pet Pantry for pet owners facing challenges, financial assistance for spay/neuter procedures, pet-friendly housing guide, lost pet help, and rehoming assistance (*rehoming* means helping to find new homes for pets when owners can no longer care for them).
-   - [Woods Pet Pantry Program](https://woodshumanesociety.org/pet-pantry/) web page doesn't give an address or hours, but a list of “distribution partners.” It says “if you are in need of pet food assistance please don’t hesitate to reach out. Contact Robin Coleman, Community Engagement Manager [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) or call 805-543-9316 x31.”
-   - Location/Phone/Hours: See [**Woods Humane Society**](Directory.md#Woods-Humane-Society) in the [Directory](Directory.md)
-   - Note: some services by appointment only
-1. [**Feline Network of the Central Coast**](https://felinenetwork.org/)
-   - TNR; rescues abandoned & stray cats; has cats for adoption. Does not appear to offer services directly to our target audience.
-1. [**SLO County Animal Services**](https://www.slocounty.ca.gov/departments/health-agency/animal-services)—Operates the only open-intake animal shelter in SLO County. Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs.
-   - [On-line registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray)
-   - [Report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405)
-   - Location/Phone/Hours: See [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) in the [Directory](Directory.md)
-   - Note: All services require appointment scheduling
-1. [**North County Paws Cause**](https://www.northcounty-pawscause.org/)
-   - Description: All-volunteer 501(c)(3) serving north SLO County cats and kittens. While primarily focused on TNR (Trap-Neuter-Return) programs and adoptions, they may provide guidance for pet owners facing housing challenges. Not much in the way of services to our target audience, though.
-   - Contact them directly for assistance if you need help caring for your cat while homeless or transitioning to housing.
-   - Location/Phone/Email: See [**North County Paws Cause**](Directory.md#North-County-Paws-Cause) in the [Directory](Directory.md)
-1. [**Pets of the Homeless**](https://petsofthehomeless.org/)—First national organization focused exclusively on feeding and providing veterinary care to pets of people experiencing homelessness.
-   - Phone/Email: See [**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) in the [Directory](Directory.md)
-   - Services: Pet food and basic veterinary care to pets of homeless individuals and veterans
-   - Emergency Veterinary Care Program: Case manager conducts interview to determine eligibility, approves exam and helps make appointment at local hospital/clinic
-   - Cost: No charge to pet owner, but any payment toward invoice at time of visit is appreciated
-1. 40 Prado has pet kennel for guests (including warming center / cooling center guests); but pets must have rabies vaccinations. Call for specific documentation requirements and acceptable proof of vaccination.
-   - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
-1. [**Cal Poly "Doggy Days" Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days)
-   - Contact: See [**Cal Poly "Doggy Days" Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) in the [Directory](Directory.md)
-   - What's Available: Cal Poly animal science students provide free veterinary care to pets of homeless and low-income individuals through the Veterinary Community Service Enterprise program
-   - Services: Free vaccinations (rabies, parvo prevention), physical exams, nail trims for dogs and cats
-   - Schedule: Clinics happen 3–4 times per quarter at various locations around SLO County, often coordinating with other community outreach programs like Shower the People
-   - Program details: 12–18 students per quarter, supervised by licensed veterinarian Dr. Backus
-   - Recent impact: Recent clinic treated 29 dogs and 3 cats; program has operated since 2014
-   - Recognition: Received 35th annual Cal Poly Community Service Award for Outstanding Campus-Community Collaboration
-   - Sources: [New Times SLO](https://www.newtimesslo.com/news/cal-poly-animal-science-students-provide-veterinary-care-to-pets-of-homeless-individuals-15920062), [KCBX](https://www.kcbx.org/pets-animals/2018-02-05/cal-poly-veterinarian-student-clinic-offers-free-healthcare-for-pets)
-1. [**Kritter Care**](https://krittercare.org/)
-   - Mission: "No pet owner lacks resources when providing for their pets"
-   - Services: Dog and cat food supply, pet supplies, veterinary bill assistance for pet owners with limited funds
-   - Location: Morro Bay, California (serves Central Coast area)
-   - Phone: See [**Kritter Care**](Directory.md#Kritter-Care) in the [Directory](Directory.md)
-   - Status: Currently forming as nonprofit organization (as of 2023)
-1. **Additional Financial Assistance for Veterinary Care**
-   1. [**The Pet Fund**](https://www.thepetfund.com/)—National 501(c)(3) providing financial assistance to pet owners who need veterinary care but lack sufficient funds
-      - Services: Helps with veterinary bills for non-basic, non-emergency care
-      - How to apply: Complete application at [thepetfund.com/for-pet-owners/the-pet-fund-application](https://www.thepetfund.com/for-pet-owners/the-pet-fund-application)
-      - Requirements: Must demonstrate financial need and provide veterinary estimates
-   1. [**Birch Bark Foundation**](https://www.birchbarkfoundation.org/)—Serves Monterey, Santa Cruz, and San Benito Counties (does not serve SLO County)
-      - Services: Emergency treatment assistance for financially qualified pet owners
-         - Works with veterinarians who discount services by 25% for grantees
-      - Contact: 831-471-7912, [info@birchbarkfoundation.org](mailto:info@birchbarkfoundation.org)
-      - Service area: Limited to residents of Monterey, Santa Cruz, and San Benito County only
-      - Source: [birchbarkfoundation.org/petaid-program](https://www.birchbarkfoundation.org/petaid-program)
-   1. [**Voice for the Animals Helping Friends Program**](https://www.vftafoundation.org/helping_friends)—Assists seniors, people with disabilities, terminal illnesses, and individuals on fixed incomes
-      - Services: Medical treatments for pets of qualifying owners; Provides extra support for people whose pets are often their only companions
-      - Phone/Email: See [**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) in the [Directory](Directory.md)
-   1. [**Red Rover Relief**](https://redrover.org/relief/urgent-care-grants/)—Provides urgent care grants for pet medical emergencies
-      - Services: Financial assistance for life-threatening injuries or illness requiring urgent treatment (average grant ~$250)
-      - Eligibility: Income under $60,000/year, both applicant and pet must live in US, must make fundraising effort first, need current veterinary diagnosis and treatment plan
-      - Cannot help with: Office exams/testing, treatments over $1,000, completed treatments, repeat grants to same household
-      - Mailing address/Phone/Email/Hours: See [**Red Rover Relief**](Directory.md#Red-Rover-Relief) in the [Directory](Directory.md)
-      - Response time: Applications reviewed in order received, reply takes 1–2 business days
-      - Application process: Complete pre-application first, then full application if qualified
-      - Coverage: All 50 states plus Washington DC
-      - Source: [redrover.org/relief/urgent-care-grants](https://redrover.org/relief/urgent-care-grants/)
+[**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) operates the only open-intake animal shelter in SLO County.
+Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs.
+They have an [on-line registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray) and you can use a web interface to [report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405).
+You can call 805-781-4407 to listen to a found animal recording that describes recently-found animals that are being held at the pound.
+
+[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) conducts regular free pet food distributions in Grover Beach and Oceano.
+You can also call their emergency pet care phone line to arrange for emergency veterinary treatment.
+
+[**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws), in partnership with “The Street Dog Coalition,” operates mobile pet wellness clinics in Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano, as well as several sites in Santa Barbara County.
+These provide vaccines, spay/neuter service, health exams, medical care, and pet food assistance.
+They specialize in care for pets of homeless people.
+
+[**Woods Humane Society**](Directory.md#Woods-Humane-Society) has a [Pet Pantry](https://woodshumanesociety.org/pet-pantry/) for pet owners facing challenges and offers financial assistance for spay/neuter procedures.
+They can also help you find lost pets and can find new homes for pets when their owners can no longer take care of them.
+Some services are by-appointment only.
+
+[**North County Paws Cause**](Directory.md#North-County-Paws-Cause) can help people in northern SLO County who need help caring for their cats while they are homeless or transitioning into new housing.
+
+[**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) is a national organization that focuses on feeding and providing veterinary care to pets of people experiencing homelessness.
+If your pet needs veterinary care, call them to set up an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic.
+There is no charge to the pet owner, but donations are appreciated.
+
+The [**40 Prado Homeless Services Center**](Directory.md#40-prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests).
+Pets must have documented rabies vaccinations.
+
+[**Cal Poly "Doggy Days" Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
+They happen 3–4 times per quarter at various locations around SLO County, often coordinating with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People)
+
+THe [**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have limited funds.
+
+[**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) helps seniors, people with disabilities, terminal illnesses, and individuals on fixed incomes to pay for medical treatments for their pets.
+
+[The Pet Fund](https://www.thepetfund.com/) is a national organization that provides financial assistance to pet owners who need non-emergency veterinary care but lack sufficient funds.
+Fill out an [application](https://www.thepetfund.com/for-pet-owners/the-pet-fund-application) at their website.
+You must document your financial need and provide veterinary care estimates.
+
+[Red Rover Relief](https://redrover.org/relief/urgent-care-grants/) provides one-time urgent care grants of up to $1,000 to pay for pet medical emergencies.
+This is only for people in the U.S. with income under $60,000 per year.
+You must make a fundraising effort first before reaching out to Red Rover Relief.
+You must supply a current veterinary diagnosis and treatment plan.
+Grants do not cover exams or testing.
 
 ## <a id="disaster-planningprep-earthquakes-fires-floods">**Disaster planning/prep**</a>
 
