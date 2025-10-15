@@ -906,7 +906,7 @@ Possible future work: Consider tagging addresses with [geo URIs](https://en.wiki
 - Hours:
    - Atascadero: M–F 10–6pm, dinner daily 5–6pm, showers M–F 3:30–5pm
    - Paso Robles: M–F 10–6pm, dinner daily 4:30–5:30pm, showers M,W,F 3:30–5pm
-- How to access: For transitional housing, contact ECHO to get on a waiting list
+- How to access: For transitional housing, contact ECHO to get on a waiting list; for dinner or showers, just show up on time
 
 ## <a id="El-Chorro-Regional-Park-Campground">El Chorro Regional Park Campground</a>
 
@@ -2442,6 +2442,7 @@ creston, san miguel, shandon
 - [ssa.gov](https://www.ssa.gov/)
 - Location: 3240 S. Higuera St., SLO
 - Phone: [855-207-4865](tel:+1-855-207-4865)
+- Hours: M–F 9am–4pm
 - How to access: Call to schedule an appointment
 
 ## Social Services

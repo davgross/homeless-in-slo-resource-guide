@@ -63,7 +63,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [Transportation Resources for Seniors](#transportation-for-seniors)
    1. [Transportation to Medical Appointments](#transportation-to-medical-appointments)
    1. [Bicycles](#bicycles)
-   1. Automobile Insurance and Repair
+   1. [Automobile Insurance and Repair](#auto-insurance-and-repair)
 1. [Clothing](#where-to-find-free-or-thrift-store-clothing)
    1. [Free Clothes](#free-clothes)
    1. [Free Clothes for Kids](#free-clothes-for-kids)
@@ -110,7 +110,10 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. Immigration Law
    1. Tax Disputes
    1. Miscellany
-1. [IDs and other documents](#ids-and-other-documents-how-to-obtain-replace-secure)
+1. [IDs and other documents](#ids-and-other-documents)
+   1. [Social Security Numbers or Cards](#social-security-numbers-or-cards)
+   1. [ID cards and driver’s licenses](#id-cards-drivers-licenses)
+   1. [Birth, Death, and Marriage Certificates](#birth-death-marriage-certificates)
 1. [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc)
 1. [Banking and money management](#banking-and-money-management)
    1. Banks, Credit Unions, etc.
@@ -841,7 +844,7 @@ Here are some tips for keeping your bike safe if you are camping:
 - Use multiple locks (for example, a U-lock and a cable). Avoid using cable locks only, as they are relatively easy to break.
 - Consider using a lock that makes an audible alarm when it is tampered with.
 
-### Automobile Insurance and Repair
+### <a id="auto-insurance-and-repair">Automobile Insurance and Repair</a>
 
 A car must be insured to be legally driven in California.
 California has a state-sponsored, low-cost auto insurance program.
@@ -1569,35 +1572,79 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Phone: 877-318-6772 (Español: 805-756-5725)
    - Email: [litc@calpoly.edu](mailto:litc@calpoly.edu)
 
-## <a id="ids-and-other-documents-how-to-obtain-replace-secure">**IDs and other documents**</a> (how to obtain, replace, secure)
+## <a id="ids-and-other-documents">**IDs and other documents**</a> (how to obtain, replace, secure)
 
-1. **Social Security Administration**
-   - Location/Phone: See [**Social Security Administration**](Directory.md#Social-Security-Administration) in the [Directory](Directory.md)
-   - Hours: Monday–Friday 9am–4pm (appointment required as of January 6, 2025)
-   - Services: Social Security card replacement, number verification, benefit applications
-   - What you need for replacement Social Security card:
-      - Primary ID documents: U.S. driver's license or U.S. passport (preferred)
-      - Alternative documents: Military ID, employee ID, school ID, health insurance card (not Medicare)
-      - Must be original or certified copies**—no photocopies accepted
-      - Free service—no fee for replacement cards
-      - Processing time: 7–10 days by mail
-      - Online option available if you have a my Social Security account and meet eligibility requirements
-         - Create account: Visit [ssa.gov/myaccount](https://www.ssa.gov/myaccount) and sign up using Login.gov or ID.me (required as of June 2025)
-         - Requirements: Must be 18+, have SSN, and verify identity through Login.gov or ID.me
-         - Benefits: Request replacement Social Security cards, check application status, estimate benefits, manage current benefits
-   - Source: [ssa.gov/number-card/replace-card](https://www.ssa.gov/number-card/replace-card)
-1. **SLO County Clerk-Recorder** (vital records—birth, death, marriage certificates)
-   - Location/Phone/Hours: See [**SLO County Clerk-Recorder**](Directory.md#SLO-County-Clerk-Recorder) in the [Directory](Directory.md)
-   - Birth certificates:
-      - Cost: $32.00 per certificate
-      - Who can request: Registrant, parents/legal guardians, child, grandparents, grandchildren, siblings, spouse, domestic partner, certain legal representatives, attorneys
-      - How to request: In-person, online via Self-Service Portal (pickup required), by mail/fax/email (notarized for authorized copies), or through VitalChek
-      - Must have been born in SLO County
-      - Processing time: 24–48 hours for mail/email/fax requests
-      - ID required: Government-issued photo ID
-   - Death certificates, marriage licenses: Similar process and costs as birth certificates
-   - Important: Only authorized individuals receive certified copies; others get "Informational" copies that cannot establish identity
-   - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates)
+Often, agencies and programs will ask you to produce certain documents, like a government identification card (such as a driver’s license), a social security card, a birth certificate, and so forth.
+If you have lost such documents, or have never obtained them, this can be an obstacle to working with those agencies and programs.
+
+This subsection of the guide shows you how to obtain or replace documents like these.
+
+### <a id="social-security-numbers-or-cards">Social Security Numbers or Cards</a>
+
+You do not often need your social security card, but you do often need your social security number.
+The [**Social Security Administration**](Directory.md#Social-Security-Administration) can help you get a new Social Security card.
+
+If you have an account or are able to create an on-line account at [ssa.gov/myaccount](https://www.ssa.gov/myaccount), you can request a Social Security card on-line and it will be mailed to you.
+You can get help with this process by calling 800-772-1213 (TTY: 800-325-0778).
+
+> See [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc) for ways to get mail if you do not have a stable mailing address.
+
+If you are unable to complete this on-line process, you can visit the local Social Security Administration office to get a new card.
+It will go more smoothly if you can bring some alternative form of identification like a driver’s license or passport.
+In the absence of those, a military ID, employee ID, school ID, or health insurance card might be helpful.
+
+### <a id="id-cards-drivers-licenses">ID cards and driver’s licenses</a>
+
+A state-issued “Real ID,” or a California driver’s license which is also a Real ID, is a useful form of government-issued photo identification card that is widely accepted by a variety of programs, businesses, and service providers.
+You get such an identification card from the [**California DMV**](Directory.md#California-DMV).
+You must visit the California DMV office to have your photo taken and to submit your paperwork.
+
+You typically first need to already have another identification document (such as a certified birth certificate, a passport, a permanent resident card, a certificate of naturalization or citizenship, or a permanent resident card) as well as documents that demonstrate your California residency (such as a utility bill, tax return, bank statement, or rental agreement that contains your name and address).
+There are also fees you typically must pay to obtain either a Real ID or a driver’s license that operates as a Real ID.
+
+However, if you are homeless, you may be able to get a waiver for fees (a “no-fee ID card”), and you may be able to use the address of a homeless shelter or other homeless services agency as your California residency address.
+This is true even if you are only temporarily homeless because you are fleeing domestic violence or a similar dangerous situation.
+You can only get a simple Real ID (“California Identification Card”) with the no-fee method, not a driver’s license.
+Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process.
+
+If you have previously received a Real ID or California driver’s license, but you have lost the card and need to replace it, you can begin this process by visiting [www.edl.dmv.ca.gov/apply](https://www.dmv.ca.gov/wasapp/oddl/oddlApplication.do) or the California DMV office.
+
+### <a id="birth-death-marriage-certificates">Birth, Death, and Marriage Certificates</a>
+
+If you were born in SLO County, you can obtain a copy of your birth certificate from the [**SLO County Clerk-Recorder**](Directory.md#SLO-County-Clerk-Recorder).
+You will need to show valid identification (typically, a government-issued photo ID like a driver’s license or passport).
+
+There is also a $32 fee.
+However, if you are homeless, you can request an “Affidavit of Homeless Status for Fee Exempt Certified Copy of Birth Certificate.”
+You need to sign this and you also need to get a signature from a “homeless services provider.”
+This exempts you from having to pay the $32 fee.
+Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process.
+
+You can obtain a “certified copy” of a birth certificate for yourself or your child or other close relative.
+A certified copy allows you to establish your identity.
+Otherwise you can obtain an “informational” copy, which is not valid for establishing identity.
+You should understand ahead of time whether or not you need a certified copy, and, if so, you should be sure to ask for one specifically when you order your copy.
+
+You can also use the [VitalChek](https://www.vitalchek.com/v/vital-records/california/san-luis-obispo-county-recorder) website to order an *informational* copy of your birth certificate on-line without visiting the SLO County Clerk-Recorder office.
+(You may need to provide a notarized, sworn statement if you want to order a “certified copy” this way, in which case it is probably just as easy to visit the SLO County Clerk-Recorder office.)
+That may cost a bit more.
+
+Death records for deaths that occurred in SLO County can also be obtained from the SLO County Clerk-Recorder ($24) or from VitalChek.
+Again, there is a difference between “certified” and “informational” copies of death certificates, and you should check which one you need before you order it.
+You can typically only get a “certified” copy for a close relative, and you may have to provide additional documentation.
+
+You can also get a copy of a marriage certificate that was issued in SLO County from the SLO County Clerk-Recorder office ($17) or from VitalChek.
+Again, there is a difference between “certified” and “informational” copies, and you should check which one you need before you order it.
+You can typically only get a “certified” copy for a close relative, and you may have to provide additional documentation.
+
+There is no homeless fee exemption program for death and marriage certificates the way there is for birth certificates.
+
+If you need a birth, death, or marriage certificate from another county in California, try the [California Department of Public Health’s “Vital Records”](https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records.aspx) web page.
+If you need such records from elsewhere in the U.S. outside California, visit the [National Center for Health Statistics](https://www.cdc.gov/nchs/w2w/index.htm) web page.
+The VitalChek website can often also get you these records from other areas.
+
+### Court case summaries, divorce and adoption records
+
 1. **SLO Superior Court** (case records, background checks, divorce/adoption records, probate/wills, fines)
    - Location/Phone: See [**SLO Superior Court**](Directory.md#SLO-Superior-Court) in the [Directory](Directory.md)
    - Services available:
@@ -1610,87 +1657,39 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
       - In person: Contact appropriate branch directly
       - By request: Contact court for specific document requests
    - Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov)
-1. **California DMV** (Real ID and state ID cards)
-   - Location/Phone/Hours: See [**California DMV**](Directory.md#California-DMV) in the [Directory](Directory.md)
-   - Real ID requirements:
-      - Proof of identity: Valid U.S. passport, original birth certificate, permanent resident card, foreign passport with U.S. visa, certificate of naturalization
-      - Proof of California residency (2 different documents): Utility bill, bank records, insurance documents, tax returns, rental agreement
-      - Special provisions for homeless individuals: Letter from homeless shelter, documents from faith-based organizations, court documents listing California residence
-   - Costs:
-      - Real ID driver's license: $45
-      - Real ID identification card: $39
-      - Senior citizen ID card (62+): No fee
-      - Reduced-fee ID card: $11 (for qualifying low-income individuals)
-   - Processing: Receive card by mail within 3–4 weeks
-   - Important deadline: May 7, 2025—Real ID required for domestic flights and federal facilities
-   - Online application process:
-      - Step 1: Complete online REAL ID application at [realid.dmv.ca.gov](https://realid.dmv.ca.gov)
-      - Step 2: Upload required documents (identity and residency proof) during online application
-      - Step 3: Schedule appointment at [dmv.ca.gov/wasapp/foa](https://www.dmv.ca.gov/wasapp/foa) or visit office same-day with confirmation code
-      - Office visit: Bring original documents and confirmation code; process takes about 15 minutes
-      - Note: Online application saves significant time—you can often get appointment within 7 days
-   - Source: [dmv.ca.gov](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/)
-1. **How to get your birth certificate from another state**
-   - General process: Contact the vital records office in the state where you were born
-   - What you'll need:
-      - Information: Full name, date of birth, gender, city and county of birth
-      - Identification: Valid government-issued photo ID
-      - Relationship proof: If requesting for someone else
-   - How to order:
-      - Online: Many states use VitalChek as authorized vendor
-      - By mail: Complete application form, include ID copies and payment
-      - In person: Visit state vital records office or local registrar
-   - Processing times: Vary significantly by state (8–16 weeks typical)
-      - Costs: Typically $20–$30 per certificate, plus expedited fees if needed
-   - Key resource: CDC's "Where to Write for Vital Records" directory at [www.cdc.gov/nchs/w2w/index.htm](https://www.cdc.gov/nchs/w2w/index.htm) provides contact information for all state vital records offices
-   - No national standard for birth certificates—each state has different requirements and procedures
-   - Source: [www.usa.gov/birth-certificate](https://www.usa.gov/birth-certificate)
-1. **California ID for People Experiencing Homelessness**: 40 Prado Homeless Services Center provides fee waivers and assistance with obtaining California birth certificates and ID forms. Visit Monday–Friday 8am–4pm for assistance, then complete regular DMV process. Source: SLO City pocket guide; integrate this information into this outline: "How to get a California I.D. card: Individuals experiencing homelessness can now secure a free copy of their California birth certificate and/or free California photo identification form. Visit 40 Prado Homeless Services Center during their access center hours to receive assistance and/or necessary forms. Once obtained, the person will go through the regular process with the California Department of Motor Vehicles (DMV) to obtain a photo ID and will need to meet all the usual requirements for documentation. Use the flow chart below to understand the process. Get A Fee Waiver from 40 Prado Homeless Services Center anytime Mon — Fri from 8 am — 4 pm."
-   - Process: Visit 40 Prado during access hours to receive fee waiver assistance and necessary forms, then complete the regular DMV process (all usual documentation requirements apply)
-   - Note: Redundant text in main description should be streamlined
-      - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-1. **Additional important information for people experiencing homelessness**:
-   1. **Address alternatives for applications**:
-      - Use homeless service centers for mail delivery (see [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc))
-      - General delivery at post office: "*Your Name*, General Delivery, San Luis Obispo, CA 93401"
-      - Use address of trusted friend or family member with permission
-   1. **Document storage and security**:
-      - Keep copies separate from originals when possible
-      - Use document storage services at homeless service centers:
-         - **40 Prado Homeless Services Center**: Call 805-544-4004 to inquire about document storage options for participants
-            - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-         - **5Cities Homeless Coalition**: Offers "identification and documentation assistance" as part of client resource center services
-            - Website/Location/Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-         - **ECHO Atascadero/Paso Robles**: Contact to ask about secure document storage for clients
-            - Phone/Email/Locations/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
-         - Note: Services may be limited to active participants; call each center to verify current availability [Source: [5chc.org](https://5chc.org/), [capslo.org](https://capslo.org/)]
-      - Consider a safety deposit box if you have any income ($20–40/year typically)
-      - Scan or photograph documents and store digitally if you have access to email or cloud storage
-   1. **Financial assistance for document fees**:
-      - **40 Prado Homeless Services Center**: 805-544-4004; case management may include assistance navigating document replacement process
+
+### Passports
+
+To-Do
+
+### Tips
+1. **Document storage and security**:
+   - Keep copies separate from originals when possible
+   - Use document storage services at homeless service centers:
+      - **40 Prado Homeless Services Center**: Call 805-544-4004 to inquire about document storage options for participants
          - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-      - **5Cities Homeless Coalition**: 805-574-1638; offers "identification and documentation assistance" as part of client resource center services
-      - **SLO County Department of Social Services**: CalWORKs and other programs may assist with ID-related costs
-         - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
-      - **San Luis Obispo Legal Assistance Foundation**: Free legal assistance for document-related issues
-         - Location/Phone: See [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) in the [Directory](Directory.md)
-      - Note: Federal homeless assistance programs allow use of funds to help individuals obtain ID; call centers directly for current availability [Sources: [gao.gov](https://www.gao.gov/products/gao-24-105435), [5chc.org](https://5chc.org/)]
-   1. **If you have no documents at all**:
-      - Start with Social Security Administration—they can try to verify identity through their records
-      - Contact local legal aid for assistance navigating the process
-      - California affidavit processes for people with no documents:
-         - What it is: Legal process where qualified service providers can verify your identity and housing status through signed affidavits when you lack traditional documents
-         - How it works as alternative to documents:
-            - Free birth certificates: Homeless services provider signs affidavit verifying your homeless status; allows you to get free birth certificate from CA Dept of Public Health (Health & Safety Code Section 103577)
-            - Free CA ID cards: Service providers complete "No Fee Identification Card Eligibility Verification" form (DL 933) from DMV; provides free California photo ID
-            - Who can verify: School counselors, homeless shelter staff, lawyers, health/mental health/substance use providers, public assistance workers, employment services staff
-            - Benefits: Breaks the cycle where you need ID to get housing but need housing to get ID
-         - How to access: Contact local emergency shelter, County human services office, or homeless services provider to start the fee waiver process
-         - California Process: File forms FL-110, FL-100, FL-160s, FL-311, FL-105, FL-150 at SLO Superior Court (1035 Palm St. Rm 385 or Paso Robles 901 Park St.)
-         - Cost: $435 filing fee; fee waiver available for low-income individuals
-         - Assistance: Self-Help Center 805-706-3617, online help at calendly.com/self-help-center/, free Q&A webinars via Zoom
-         - Requirements: 6-month CA residency, 3-month SLO County residency [Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)]
-      - Hospital records of birth may sometimes be used as supporting evidence
+      - **5Cities Homeless Coalition**: Offers "identification and documentation assistance" as part of client resource center services
+         - Website/Location/Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
+      - **ECHO Atascadero/Paso Robles**: Contact to ask about secure document storage for clients
+         - Phone/Email/Locations/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
+      - Note: Services may be limited to active participants; call each center to verify current availability [Source: [5chc.org](https://5chc.org/), [capslo.org](https://capslo.org/)]
+   - Consider a safety deposit box if you have any income ($20–40/year typically)
+   - Scan or photograph documents and store digitally if you have access to email or cloud storage
+1. **If you have no documents at all**:
+   - Start with Social Security Administration—they can try to verify identity through their records
+   - Contact local legal aid for assistance navigating the process
+   - California affidavit processes for people with no documents:
+      - What it is: Legal process where qualified service providers can verify your identity and housing status through signed affidavits when you lack traditional documents
+      - How it works as alternative to documents:
+         - Free CA ID cards: Service providers complete "No Fee Identification Card Eligibility Verification" form (DL 933) from DMV; provides free California photo ID
+         - Who can verify: School counselors, homeless shelter staff, lawyers, health/mental health/substance use providers, public assistance workers, employment services staff
+         - Benefits: Breaks the cycle where you need ID to get housing but need housing to get ID
+      - How to access: Contact local emergency shelter, County human services office, or homeless services provider to start the fee waiver process
+      - California Process: File forms FL-110, FL-100, FL-160s, FL-311, FL-105, FL-150 at SLO Superior Court (1035 Palm St. Rm 385 or Paso Robles 901 Park St.)
+      - Cost: $435 filing fee; fee waiver available for low-income individuals
+      - Assistance: Self-Help Center 805-706-3617, online help at calendly.com/self-help-center/, free Q&A webinars via Zoom
+      - Requirements: 6-month CA residency, 3-month SLO County residency [Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)]
+   - Hospital records of birth may sometimes be used as supporting evidence
 
 ## <a id="mail-drops-post-office-boxes-etc">**Mail drops, post office boxes, etc.**</a>
 
@@ -1709,6 +1708,7 @@ Another option is to ask people to send you mail addressed to [“General Delive
 > General Delivery<br />
 > *City Name*, CA *ZIP-Code*‒9999
 
+You can pick up mail that is sent to you via General Delivery from the post office.
 Here are some General Delivery zip codes for our area:
 
 | Post Office     | ZIP Code   |
@@ -1839,7 +1839,7 @@ This is for a few reasons:
 
 1. You may qualify for certain refundable tax credits that can put money in your pocket, even if you did not pay taxes all year.
 1. Some programs for low-income people require those people to show their most recent tax return to prove that they qualify.
-1. Filing a tax return, even if it is of little effect, can be a gesture of compliance with the law that can be helpful, for example if you are engaged in the U.S. immigration process.
+1. Filing a tax return, even if it is of no practical effect, can be a gesture of compliance with the law that can be helpful, for example if you are engaged in the U.S. immigration process.
 
 Avoid using commercial tax preparers that charge high fees, or that offer “refund anticipation loans.”
 Some of these give poor-quality tax advice, and most of them are bad bargains compared to the free services.
@@ -1976,7 +1976,8 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 
 ## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">**Navigating Social Security / SSDI / SSI / Survivors Benefits**</a>
 
-1. Important 2025 Updates—Streamlined Application Process
+1. Important 2025 Updates
+   - SS has stopped issuing paper checks in favor of direct deposit to bank accounts or the "Direct Express" prepaid debit card
    - New phone application option: Starting April 14, 2025, individuals applying for SSDI, Medicare, or SSI who cannot use personal my Social Security accounts can complete applications entirely over the telephone without office visits
    - Reduced in-person requirements: In-person identity proofing only required for Retirement, Survivors, or Auxiliary benefits (spouse or child benefits)
    - Exception policy: SSA will not enforce strict requirements in extreme dire-need situations (terminal cases, prisoner pre-release scenarios)
