@@ -1,7 +1,5 @@
 # Surviving Homelessness in SLO
 
-To-do: heading capitalization needs to be standardized
-
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
 
@@ -37,9 +35,9 @@ If you would like to suggests corrections or improvements, or if you would like 
 
 ## Table of Contents
 
-1. [Hotlines and emergency contacts](#hotlines-and-emergency-contacts)
-1. [Self-advocacy and communicating with service providers](#tips-on-self-advocacy-and-for-communicating-with-service-providers)
-1. [Shelter and housing](#where-to-find-shelter--housing)
+1. [Hotlines and Emergency Contacts](#hotlines-and-emergency-contacts)
+1. [Tips on Self-Advocacy and for Communicating with Service Providers](#tips-on-self-advocacy-and-for-communicating-with-service-providers)
+1. [Shelter and Housing](#where-to-find-shelter--housing)
    1. [Eviction Prevention](#eviction-protection)
    1. [Warming/Cooling Centers](#warming-cooling-centers)
    1. [Overnight Shelter](#overnight-shelter)
@@ -47,7 +45,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [Transitional and Long-Term Housing](#transitional-and-long-term-housing)
    1. [For U.S. Military Veterans](#housing-veterans)
    1. [Sober Living Homes](#sober-living-homes)
-1. [Property storage](#property-storage-options)
+1. [Property Storage Options](#property-storage-options)
    1. [Short-Term](#short-term-property-storage)
    1. [Long-Term](#long-term-property-storage)
 1. [Food](#where-to-get-food)
@@ -58,8 +56,8 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [Summer Meal Sites (for Children)](#summer-meal-sites)
    1. [Senior Meal Programs](#senior-meal-programs)
    1. [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic)
-   1. [Edible wild plants](#edible-wild-plants)
-1. [Where to refill a water bottle](#where-to-refill-a-water-bottle)
+   1. [Edible Wild Plants](#edible-wild-plants)
+1. [Where to Refill a Water Bottle](#where-to-refill-a-water-bottle)
 1. [Transportation](#transportation)
    1. [Public Transit](#public-transit)
    1. [Transportation Resources for Seniors](#transportation-for-seniors)
@@ -71,10 +69,10 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [Free Clothes for Kids](#free-clothes-for-kids)
    1. [Thrift Stores](#thrift-stores)
 1. [Laundry](#laundry)
-1. [Showers and hygiene](#showers-and-hygiene)
+1. [Showers and Hygiene](#showers-and-hygiene)
    1. [Free Shower Programs](#free-showers)
    1. [Coin-Operated or Gym Membership Options](#pay-showers)
-1. [Health, medical care](#health-medical-care)
+1. [Health, Medical Care](#health-medical-care)
    1. Emergency Care
    1. Urgent Care
    1. Health Insurance
@@ -87,17 +85,17 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. Reproductive Health, Pregnancy, Childbirth, Lactation
    1. Chiropractic Treatment
    1. Resources for Specific Populations
-1. [Recovery, harm reduction, and other substance-related issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
+1. [Recovery, Harm Reduction, and Other Substance-Related Issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
    1. Naloxone / Narcan
    1. Tobacco / Nicotine
    1. 12-Step and Similar Recovery Programs
    1. Sober Living Homes and Residential Treatment Options
-1. [Tattoo removal](#tattoo-removal)
-1. [End-of-life care, advance directives, hospice](#end-of-life-care-advance-directives-hospice)
+1. [Tattoo Removal](#tattoo-removal)
+1. [End-of-Life Care, Advance Directives, Hospice](#end-of-life-care-advance-directives-hospice)
    1. Hospice and Palliative Care
    1. Advanced Care Directives and Legal Planning
-1. [Personal safety, deescalation, self-defense](#personal-safety-deescalation-self-defense)
-1. [Legal help & mediation, crime victim protection](#legal-help--mediation-crime-victim-protection)
+1. [Personal Safety, Deescalation, Self-Defense](#personal-safety-deescalation-self-defense)
+1. [Legal Help & Mediation, Crime Victim Protection](#legal-help--mediation-crime-victim-protection)
    1. Help for Convicts, Parolees, Probationers, P.C. 290 Registrants, etc.
    1. Housing Discrimination, Illegal Eviction, etc.
    1. Help with Benefits, Negotiating with Insurers, etc.
@@ -112,24 +110,24 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. Immigration Law
    1. Tax Disputes
    1. Miscellany
-1. [IDs and other documents](#ids-and-other-documents)
+1. [IDs and Other Documents](#ids-and-other-documents)
    1. [Social Security Numbers or Cards](#social-security-numbers-or-cards)
-   1. [ID cards and driver’s licenses](#id-cards-drivers-licenses)
+   1. [ID Cards and Driver's Licenses](#id-cards-drivers-licenses)
    1. [Birth, Death, and Marriage Certificates](#birth-death-marriage-certificates)
-1. [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc)
-1. [Banking and money management](#banking-and-money-management)
+1. [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc)
+1. [Banking and Money Management](#banking-and-money-management)
    1. Banks, Credit Unions, etc.
    1. Financial Literacy and Money Management
    1. Debt Consolidation
-1. [Tax preparation](#tax-preparation)
-1. [Acute financial needs](#acute-financial-needs)
+1. [Tax Preparation](#tax-preparation)
+1. [Acute Financial Needs](#acute-financial-needs)
 1. [Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
-1. [Employment, job boards, etc.](#employment-job-boards-etc)
-1. [Education, job skills training, certification, tutoring, literacy](#education-job-skills-training-certification-tutoring-literacy)
-1. [Phones and phone service](#free-and-low-cost-phone-services)
-1. [Internet access / email / digital access](#internet-access--email--digital-access-assistance)
-1. [Charging stations for devices](#charging-stations-for-devices)
-1. [Resources for particular subgroups](#resources-specific-to-particular-subgroups)
+1. [Employment, Job Boards, Etc.](#employment-job-boards-etc)
+1. [Education, Job Skills Training, Certification, Tutoring, Literacy](#education-job-skills-training-certification-tutoring-literacy)
+1. [Phones and Phone Service](#free-and-low-cost-phone-services)
+1. [Internet Access / Email / Digital Access](#internet-access--email--digital-access-assistance)
+1. [Charging Stations for Devices](#charging-stations-for-devices)
+1. [Resources for Particular Subgroups](#resources-specific-to-particular-subgroups)
    1. Veterans
    1. Children and People with Children
    1. College Students
@@ -137,17 +135,17 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. Seniors
    1. Prople with Specific Disabilities and Conditions
    1. GLBTQ
-1. [Peer support groups](#peer-support-groups)
-1. [Recreation, fitness, connection, religion](#recreation-fitness-socializing-connection-religion-community-integration-volunteering)
-1. [Pet care and pet supplies](#pet-care-and-pet-supplies)
-1. [Disaster planning/prep](#disaster-planningprep-earthquakes-fires-floods)
-1. [Advocacy & lobbying for homeless issues](#advocacy--lobbying-for-homeless-issues)
-1. [Miscellaneous free items](#miscellaneous-free-items-eg-household-goods)
-1. [Other guides, web pages, information sources](#other-guides-web-pages-information-sources)
-1. [Miscellaneous tips](#miscellaneous-tips)
+1. [Peer Support Groups](#peer-support-groups)
+1. [Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering](#recreation-fitness-socializing-connection-religion-community-integration-volunteering)
+1. [Pet Care and Pet Supplies](#pet-care-and-pet-supplies)
+1. [Disaster Planning/Prep (Earthquakes, Fires, Floods)](#disaster-planningprep-earthquakes-fires-floods)
+1. [Advocacy & Lobbying for Homeless Issues](#advocacy--lobbying-for-homeless-issues)
+1. [Miscellaneous Free Items (e.g. Household Goods)](#miscellaneous-free-items-eg-household-goods)
+1. [Other Guides, Web Pages, Information Sources](#other-guides-web-pages-information-sources)
+1. [Miscellaneous Tips](#miscellaneous-tips)
 1. [Directory](Directory.md)
 
-## <a id="hotlines-and-emergency-contacts">**Hotlines and emergency contacts**</a>
+## <a id="hotlines-and-emergency-contacts">Hotlines and Emergency Contacts</a>
 
 <table>
  <thead>
@@ -198,12 +196,12 @@ If you would like to suggests corrections or improvements, or if you would like 
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr>
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr>
   <tr><th colspan="2" style="text-align:left;">Immigration:</th></tr>
-   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline</td></tr><!-- To-do: under what circumstances should you call this number? -->
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (to report ICE activity, connect with legal support, receive Know Your Rights information, or register for text alerts; serves Santa Barbara, Ventura, and SLO Counties)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr>
  </tbody>
 </table>
 
-## <a id="tips-on-self-advocacy-and-for-communicating-with-service-providers">**Tips on self-advocacy and for communicating with service providers**</a>
+## <a id="tips-on-self-advocacy-and-for-communicating-with-service-providers">Tips on Self-Advocacy and for Communicating with Service Providers</a>
 
 1. **Building Effective Relationships with Case Managers and Service Providers**
    - **Be prepared for appointments**
@@ -262,7 +260,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    - **Prepare for wait times**: Bring something to do and expect some delays in busy service settings
    - **Reschedule when necessary**: Call ahead if you need to change appointments rather than simply not showing up
 
-## <a id="where-to-find-shelter--housing">**Shelter and housing**</a>
+## <a id="where-to-find-shelter--housing">Shelter and Housing</a>
 
 ### <a id="eviction-protection">Eviction Prevention</a>
 
@@ -541,14 +539,15 @@ Here are some residential treatment options in our area:
    - Source: [linkslo.org](https://linkslo.org/)
 -->
 
-## <a id="property-storage-options">**Property storage options**</a>
+## <a id="property-storage-options">Property Storage Options</a>
 
 ### <a id="short-term-property-storage">Short-Term</a>
 
 If you need to securely store a small amount of property for a few hours or overnight, you have a few options:
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available for people who have completed intake for day services there.
-<!-- To-do: need more details about who can use these lockers, under what conditions, and what size the lockers are; do they also offer document storage? -->
+<!-- Source: https://friendsof40prado.org/mission/ -->
+<!-- Note: Unable to determine specific locker sizes, conditions of use, or whether document storage is available from publicly available sources (as of October 2025); contact 40 Prado directly at 805-544-4004 for details -->
 
 The commercial service [Bounce](https://bounce.com/) partners with multiple locations (in SLO County, these are typically UPS Stores) to offer short-term luggage storage that typically runs about $7 per day or $20–80 per month (depending on weight and size).
 You can find the specific locations, terms and conditions, and costs at their website.
@@ -567,7 +566,7 @@ They typically rent spaces by the month, and have different-sized units availabl
 You can expect to pay about $60–75 per month for the least-expensive and smallest sizes, up to $150 for larger sizes.
 Most storage facilities have daytime hours of operation when you can access the storage units to add or remove property, and are closed to everyone at night.
 
-## <a id="where-to-get-food">**Food**</a>
+## <a id="where-to-get-food">Food</a>
 
 ### <a id="free-meals">Free Meals</a>
 
@@ -668,7 +667,7 @@ See [slocountyfarmers.org](https://www.slocountyfarmers.org/snap) for details.
 
 The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also provides E-WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries.
 
-### <a id="edible-wild-plants">Edible wild plants</a>
+### <a id="edible-wild-plants">Edible Wild Plants</a>
 
 There are many edible wild plants available in SLO County.
 When they are in season, they can add nutrition to your diet.
@@ -705,7 +704,7 @@ In such a case you can ask the property owner for permission to harvest from the
    - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
    - Source: [linkslo.org](https://linkslo.org/)
 
-## <a id="where-to-refill-a-water-bottle">**Where to refill a water bottle**</a>
+## <a id="where-to-refill-a-water-bottle">Where to Refill a Water Bottle</a>
 
 Most major parks and recreation facilities have water fountains and/or water bottle refill stations, as do some public libraries.
 
@@ -714,7 +713,7 @@ Some of these stations are inside buildings and are only accessible when the bui
 Others are outside and are available 24/7.
 You can find a map of these hydration stations [at this link](https://storymaps.arcgis.com/stories/ac825840143c4d718e06397d5306fa89) or at [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ojOfK6l3mkAh6JIfFJZwA5ej5Qj232No&ll=35.27079109833796%2C-120.65453885&z=15).
 
-## <a id="transportation">**Transportation**</a>
+## <a id="transportation">Transportation</a>
 
 ### <a id="public-transit">Public Transit</a>
 
@@ -884,11 +883,11 @@ You can apply for this insurance on-line at [mylowcostauto.com](https://www.mylo
    - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
    - See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
 
-### Safe parking for people living in vehicles
+### Safe Parking for People Living in Vehicles
 
 See [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks) to learn about options for places to park safely and legally if you live in your vehicle.
 
-## <a id="where-to-find-free-or-thrift-store-clothing">**Clothing**</a>
+## <a id="where-to-find-free-or-thrift-store-clothing">Clothing</a>
 
 ### <a id="free-clothes">Free Clothes</a>
 
@@ -951,11 +950,11 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**Bargain Boutique**](Directory.md#Bargain-Boutique)
 - [**Fred & Betty's Thrift Store**](Directory.md#Fred-and-Bettys)
 - [**Goodwill Outlet**](Directory.md#Goodwill) and [**Goodwill Store**](Directory.md#Goodwill)
-- Lumina Alliance thrift store <!-- To-do: add details when available -->
+- Lumina Alliance thrift store (opening late October 2025) <!-- To-do: add location, phone number, hours, and other details once the store opens and information becomes available -->
 - [**Mission Thrift**](Directory.md#Mission-Thrift)
 - [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
 
-## <a id="laundry">**Laundry**</a>
+## <a id="laundry">Laundry</a>
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-prado) offers free laundry facilities every day from 8am to 4pm.
 You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first.
@@ -977,7 +976,7 @@ They provide the coins to feed the machines and the laundry detergent and dryer 
    - Program: 90-day, 90-bed emergency shelter for individuals and families; intake appointments 8:30am–5pm [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)]
 -->
 
-## <a id="showers-and-hygiene">**Showers and hygiene**</a>
+## <a id="showers-and-hygiene">Showers and Hygiene</a>
 
 ### <a id="free-showers">Free Shower Services</a>
 
@@ -1013,7 +1012,7 @@ Some commercial gyms have showers.
 For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers.
 Some Medicare supplement plans have a “Silver Sneakers” program with which you can get free gym memberships.
 
-## <a id="health-medical-care">**Health, medical care**</a>
+## <a id="health-medical-care">Health, Medical Care</a>
 
 1. All the stuff in [our current health resources booklet](https://showerthepeopleslo.org/health-and-medical-care-resources/), plus maybe:
    1. First aid tips, tips for extreme hot/cold/wet weather?
@@ -1063,11 +1062,11 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
    - Phone: 805-674-5056
    - Email: [info@resilientsouls.org](mailto:info@resilientsouls.org)
 
-### Transportation to medical appointments
+### Transportation to Medical Appointments
 
-> See [Transportation to medical appointments](#transportation-to-medical-appointments) in the [Transportation](#transportation) section
+> See [Transportation to Medical Appointments](#transportation-to-medical-appointments) in the [Transportation](#transportation) section
 
-## <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">**Recovery, harm reduction, and other substance-related issues**</a>
+## <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">Recovery, Harm Reduction, and Other Substance-Related Issues</a>
 
 1. [**SLO County Drug & Alcohol Services**](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services)
    - What’s Available: Public walk-in clinics, outpatient treatment, court-mandated programs, sliding fee schedules, services available in Spanish
@@ -1133,7 +1132,7 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
       - Location/Phone/Email/Hours: See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
 1. Add AA, NA, Marijuana Anonymous; but refer readers to their directories for details about individual meetings
 
-## <a id="tattoo-removal">**Tattoo removal**</a>
+## <a id="tattoo-removal">Tattoo Removal</a>
 
 There are programs available that will erase your tattoos.
 This can help you if you have tattoos that interfere with your ability to get a job or that are suggestive of gang or hate group affiliation.
@@ -1161,7 +1160,7 @@ Apply on their website.
 
 The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) website lists hundreds of other free or low-cost tattoo removal programs throughout the country.
 
-## <a id="end-of-life-care-advance-directives-hospice">**End-of-life care, advance directives, hospice**</a>
+## <a id="end-of-life-care-advance-directives-hospice">End-of-Life Care, Advance Directives, Hospice</a>
 
 ### Hospice and Palliative Care Services
 
@@ -1236,7 +1235,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Access: Must complete intake at 40 Prado first; serves 10–20 homeless individuals daily
    - Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
 
-## <a id="personal-safety-deescalation-self-defense">**Personal safety, deescalation, self-defense**</a>
+## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
 
 1. **Outside Crisis Intervention and Deescalation Resources**
    1. **Central Coast Hotline (24/7 Crisis Support)**
@@ -1322,7 +1321,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
       - **Simple techniques**: Learn basic moves to make an attacker reconsider and give you time to escape
       - **Training recommendation**: Take formal self-defense classes when possible for proper instruction
 
-## <a id="legal-help--mediation-crime-victim-protection">**Legal help & mediation, crime victim protection**</a>
+## <a id="legal-help--mediation-crime-victim-protection">Legal Help & Mediation, Crime Victim Protection</a>
 
 1. **Help for defendants, convicts, parolees, probationers, 290s**
    1. **[Restorative Partners](https://restorativepartners.org/)**
@@ -1580,7 +1579,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Phone: 877-318-6772 (Español: 805-756-5725)
    - Email: [litc@calpoly.edu](mailto:litc@calpoly.edu)
 
-## <a id="ids-and-other-documents">**IDs and other documents**</a> (how to obtain, replace, secure)
+## <a id="ids-and-other-documents">IDs and Other Documents</a> (How to Obtain, Replace, Secure)
 
 Often, agencies and programs will ask you to produce certain documents, like a government identification card (such as a driver’s license), a social security card, a birth certificate, and so forth.
 If you have lost such documents, or have never obtained them, this can be an obstacle to working with those agencies and programs.
@@ -1595,13 +1594,13 @@ The [**Social Security Administration**](Directory.md#Social-Security-Administra
 If you have an account or are able to create an on-line account at [ssa.gov/myaccount](https://www.ssa.gov/myaccount), you can request a Social Security card on-line and it will be mailed to you.
 You can get help with this process by calling 800-772-1213 (TTY: 800-325-0778).
 
-> See [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc) for ways to get mail if you do not have a stable mailing address.
+> See [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) for ways to get mail if you do not have a stable mailing address.
 
 If you are unable to complete this on-line process, you can visit the local Social Security Administration office to get a new card.
 It will go more smoothly if you can bring some alternative form of identification like a driver’s license or passport.
 In the absence of those, a military ID, employee ID, school ID, or health insurance card might be helpful.
 
-### <a id="id-cards-drivers-licenses">ID cards and driver’s licenses</a>
+### <a id="id-cards-drivers-licenses">ID Cards and Driver's Licenses</a>
 
 A state-issued “Real ID,” or a California driver’s license which is also a Real ID, is a useful form of government-issued photo identification card that is widely accepted by a variety of programs, businesses, and service providers.
 You get such an identification card from the [**California DMV**](Directory.md#California-DMV).
@@ -1651,7 +1650,7 @@ If you need a birth, death, or marriage certificate from another county in Calif
 If you need such records from elsewhere in the U.S. outside California, visit the [National Center for Health Statistics](https://www.cdc.gov/nchs/w2w/index.htm) web page.
 The VitalChek website can often also get you these records from other areas.
 
-### Court case summaries, divorce and adoption records
+### Court Case Summaries, Divorce and Adoption Records
 
 1. **SLO Superior Court** (case records, background checks, divorce/adoption records, probate/wills, fines)
    - Location/Phone: See [**SLO Superior Court**](Directory.md#SLO-Superior-Court) in the [Directory](Directory.md)
@@ -1700,7 +1699,7 @@ To-Do
       - Requirements: 6-month CA residency, 3-month SLO County residency [Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)]
    - Hospital records of birth may sometimes be used as supporting evidence
 
-## <a id="mail-drops-post-office-boxes-etc">**Mail drops, post office boxes, etc.**</a>
+## <a id="mail-drops-post-office-boxes-etc">Mail Drops, Post Office Boxes, Etc.</a>
 
 If you are homeless, you may be at a loss when asked for your mailing address.
 There are various ways to establish a reliable mailing address even if you do not have a stable living address.
@@ -1751,7 +1750,7 @@ The post office may stop accepting general delivery mail for you if you try to u
       - Note: Call organizations directly to verify current mail service availability; services may be limited to active participants [Sources: [catholiccharitiesdom.org](https://catholiccharitiesdom.org/), [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)]
 -->
 
-## <a id="banking-and-money-management">**Banking and money management**</a>
+## <a id="banking-and-money-management">Banking and Money Management</a>
 
 - **Local Credit Unions** (Often more flexible for homeless individuals)
    1. [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union)
@@ -1838,7 +1837,7 @@ The post office may stop accepting general delivery mail for you if you try to u
    1. [**ClearPoint Credit Counseling Solutions**](https://www.moneymanagement.org/)
       - Note: ClearPoint has rebranded as Money Management International
 
-## <a id="tax-preparation">**Tax preparation**</a>
+## <a id="tax-preparation">Tax Preparation</a>
 
 There are several programs that can give you free assistance in filling out and filing your annual tax returns.
 Free tax assistance programs are usually available in the February-through-April period.
@@ -1856,7 +1855,7 @@ Some of these give poor-quality tax advice, and most of them are bad bargains co
 If you are due a tax refund, you will get that refund more quickly if you have a bank account that accepts direct deposit.
 The U.S. Internal Revenue Service stopped issuing paper tax refund checks in 2025.
 
-> See the [Banking and money management](#banking-and-money-management) section of this guide for help in establishing a bank account.
+> See the [Banking and Money Management](#banking-and-money-management) section of this guide for help in establishing a bank account.
 
 The national Volunteer Income Tax Assistance (VITA) program allows low- and moderate-income people to get free help in preparing and filing their federal and state tax returns.
 [**United Way of SLO County**](Directory.md#United-Way) coordinates the local VITA program through various partner organizations, including Cal Poly and [**AARP**](Directory.md#AARP-Tax-Aide).
@@ -1867,13 +1866,13 @@ There are also free options that allow you to file your federal income taxes you
 See [irs.gov/freefile](https://www.irs.gov/freefile) for details.
 Note that the current presidential administration is hostile to this free filing program and so it may be discontinued.
 
-> See the [Internet access / email / digital acess assistance](#internet-access--email--digital-access-assistance) section of this guide for ways to get access to a computer and the internet.
+> See the [Internet Access / Email / Digital Access Assistance](#internet-access--email--digital-access-assistance) section of this guide for ways to get access to a computer and the internet.
 
 Homeless people can use the address of a friend, relative, or trusted service provider as their filing address.
 
-> See the [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc) section of this guide for more options for establishing a mailing address.
+> See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) section of this guide for more options for establishing a mailing address.
 
-## <a id="acute-financial-needs">**Acute financial needs**</a>
+## <a id="acute-financial-needs">Acute Financial Needs</a>
 
 1. **Primary Emergency Assistance Organizations**
    1. **Womenade SLO**
@@ -1983,7 +1982,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. [**Christian Fund for the Disabled**](https://joniandfriends.org/support/christian-fund-for-the-disabled/) a.k.a. **Joni & Friends**
    - *See also*: [Banking and money management](#banking-and-money-management) section for Financial Literacy / Credit Counseling resources
 
-## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">**Navigating Social Security / SSDI / SSI / Survivors Benefits**</a>
+## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">Navigating Social Security / SSDI / SSI / Survivors Benefits</a>
 
 > See [Social Security Numbers or Cards](#social-security-numbers-or-cards) for information about how to get a Social Security number or to get or replace a Social Security card.
 
@@ -2051,7 +2050,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
        - Getting started: Call 866-968-7842 (TTY 866-833-2967) to verify eligibility and learn about services [Source: [choosework.ssa.gov](https://choosework.ssa.gov/)]
        - Cross-reference: Also listed in [Education, job skills training section](#education-job-skills-training-certification-tutoring-literacy)
 
-## <a id="employment-job-boards-etc">**Employment, job boards, etc.**</a>
+## <a id="employment-job-boards-etc">Employment, Job Boards, Etc.</a>
 
 1. **Workforce Development Centers**
    1. [**SLO Cal Careers Center**](https://SLOCalCareers.org) (America's Job Center of California) (formerly Business and Career One Stop)
@@ -2157,7 +2156,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Sources: [beermoney.co](https://www.beermoney.co/), [coinbai.com](https://coinbai.com/blog/reddit-beermoney-tips-2025)
    1. [**FlexJobs**](https://www.flexjobs.com/) — find remote jobs with flexible hours
 
-## <a id="education-job-skills-training-certification-tutoring-literacy">**Education, job skills training, certification, tutoring, literacy**</a>
+## <a id="education-job-skills-training-certification-tutoring-literacy">Education, Job Skills Training, Certification, Tutoring, Literacy</a>
 
 1. **Job Training and Career Development**
    1. Ticket to Work Program: Free voluntary program for ages 18–64 receiving SSDI/SSI; provides career counseling, job training, placement services. Maintains medical benefits while working. Call 866-968-7842 to verify eligibility.
@@ -2302,7 +2301,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 1. **Online Options**
    - [Alison.com](https://alison.com)—“free online courses with certificates & diplomas” (seems to be funded by advertising? accredited courses seem UK-based)
 
-## <a id="free-and-low-cost-phone-services">**Phones and phone service**</a>
+## <a id="free-and-low-cost-phone-services">Phones and Phone Service</a>
 
 1. **California LifeLine Program**
    - What’s Available: Discounted home phone and cell phone services; up to $9.25 monthly discount ($34.25 on Tribal lands)
@@ -2355,7 +2354,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    - **Affordable Connectivity Program (ACP)**: Concluded in June 2024 due to lack of government funding
    - Federal Support: Up to $9.25 monthly discount continues for eligible subscribers [Source: [www.fcc.gov/lifeline-consumers](https://www.fcc.gov/lifeline-consumers)]
 
-## <a id="internet-access--email--digital-access-assistance">**Internet access / email / digital access assistance**</a>
+## <a id="internet-access--email--digital-access-assistance">Internet Access / Email / Digital Access Assistance</a>
 
 1. [**SLO Cal Careers**](https://slocalcareers.org/)
    - What’s Available: Career counseling, training, job-search resources, computer access for individuals with limited access
@@ -2394,7 +2393,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - **SLOCal Careers Center**: Help with CalJOBS registration, online job applications; 805-286-8530
          - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
 
-## <a id="charging-stations-for-devices">**Charging stations for devices**</a>
+## <a id="charging-stations-for-devices">Charging Stations for Devices</a>
 
 1. **Homeless Service Centers with Charging Access**
    1. **5Cities Homeless Coalition Office**
@@ -2424,7 +2423,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    - **Starbucks Locations**: Downtown (17 Chorro St), Madonna Road (253 Madonna Rd); note some Starbucks locations have covered outlets to prevent device charging
    - Note: Call ahead to confirm outlet availability; policies vary by location [Source: https://downtownslo.com/]
 
-## <a id="resources-specific-to-particular-subgroups">**Resources specific to particular subgroups:**</a>
+## <a id="resources-specific-to-particular-subgroups">Resources Specific to Particular Subgroups:</a>
 
 1. Veterans
    1. Refer people out to the veterans’ resource guide
@@ -2707,7 +2706,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. [GALA](https://www.galacc.org/)
    1. [TranzCentralCoast](https://www.tranzcentralcoast.org/)
 
-## <a id="peer-support-groups">**Peer support groups**</a>
+## <a id="peer-support-groups">Peer Support Groups</a>
 
 1. [Caregiver Support Groups](https://stmlcottagehealthncus001.blob.core.windows.net/public/CCRC_Support_Groups_flyer_march2025.pdf)
 1. [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups)
@@ -2715,7 +2714,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 1. [Trans Support Group](https://galacc.org/resources/#support)
 1. [LGBT Senior Social](https://galacc.org/resources/#support)
 1. Al-Anon / [Nar-Anon](https://www.naranoncentralca.org/)
-1. See [Where to get help with recovery, harm reduction, and other substance-related issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues) for Alcoholics Anonymous, Narcotics Anonymous, Marijuana Anonymous
+1. See [Recovery, Harm Reduction, and Other Substance-Related Issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues) for Alcoholics Anonymous, Narcotics Anonymous, Marijuana Anonymous
 1. [Eating Disorder Support Group](https://galacc.org/resources/#support)
 1. [Debtors Anonymous](https://debtorsanonymous.org/)
 1. [Diabetes Support Group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes)
@@ -2724,7 +2723,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 1. [**NAMI SLO County**](Directory.md#NAMI-SLO-County) ([support groups](https://www.namislo.org/nami-support-groups))
 1. [**TMHA**](Directory.md#TMHA) ([family support groups](https://www.t-mha.org/family-support-groups.php))
 
-## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">**Recreation, fitness, socializing, connection, religion, community integration, volunteering**</a>
+## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering</a>
 
 1. [Fitness Court](https://localwiki.org/slo/Fitness_Court) (free, outdoors)
 1. [Vita Fitness Course](https://localwiki.org/slo/Vita_Fitness_Course)
@@ -2768,7 +2767,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. [**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation)
       - Location/Phone/Email: See [**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) in the [Directory](Directory.md)
 
-## <a id="pet-care-and-pet-supplies">**Pet care and pet supplies**</a>
+## <a id="pet-care-and-pet-supplies">Pet Care and Pet Supplies</a>
 
 [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) operates the only open-intake animal shelter in SLO County.
 Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs.
@@ -2812,7 +2811,7 @@ You must make a fundraising effort first before reaching out to Red Rover Relief
 You must supply a current veterinary diagnosis and treatment plan.
 Grants do not cover exams or testing.
 
-## <a id="disaster-planningprep-earthquakes-fires-floods">**Disaster planning/prep**</a>
+## <a id="disaster-planningprep-earthquakes-fires-floods">Disaster Planning/Prep (Earthquakes, Fires, Floods)</a>
 
 1. **[Red Cross Central California](https://www.redcross.org/local/california/central-california.html)**
     - Services for homeless individuals: Emergency shelter during disasters (cots, basic needs), disaster relief assistance, safety information for people without secure housing during emergencies (fires, floods, earthquakes)
@@ -2876,7 +2875,7 @@ Grants do not cover exams or testing.
    - **Alternatives:** Consider portable camping stoves for cooking to reduce fire risk
      - Source: [usfa.fema.gov/prevention/outdoor-fires](https://www.usfa.fema.gov/prevention/outdoor-fires/)
 
-## <a id="advocacy--lobbying-for-homeless-issues">**Advocacy & lobbying for homeless issues**</a>
+## <a id="advocacy--lobbying-for-homeless-issues">Advocacy & Lobbying for Homeless Issues</a>
 
 1. [National Coalition for the Homeless](https://nationalhomeless.org/)
 1. **SeeClickFix (Paso Robles)**—Digital platform for reporting non-emergency community issues to city government, including homeless-related concerns. Available at [seeclickfix.com](https://seeclickfix.com/web_portal/mWPmZTZqbheqdCAtKircrZNq/issues/map) or via mobile app. Used by residents to report issues like infrastructure problems, maintenance needs, and community concerns that require city attention. For homeless-specific questions in Paso Robles, contact [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
@@ -2920,7 +2919,7 @@ Grants do not cover exams or testing.
    - **How to get involved**: Contact through Sacramento Homeless Union (parent organization): [homelessunionsac@gmail.com](mailto:homelessunionsac@gmail.com)
    - **Statewide activities**: Planning first-ever statewide convention of homeless people; organizing drives across California; focus on becoming a political factor for homeless and poor people statewide [Source: [thestreetspirit.org](https://thestreetspirit.org/2023/05/16/in-dialogue-with-anthony-prince-founding-member-of-the-national-union-of-the-homeless/)]
 
-## <a id="miscellaneous-free-items-eg-household-goods">**Miscellaneous free items**</a>
+## <a id="miscellaneous-free-items-eg-household-goods">Miscellaneous Free Items (e.g. Household Goods)</a>
 
 1. **Community Exchange Networks**
    1. **[Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA)**
@@ -2978,7 +2977,7 @@ Grants do not cover exams or testing.
       - Note: Pricing not listed on website; contact directly to inquire about costs or potential financial assistance
       - Source: [studiostitch.com](https://studiostitch.com/)
 
-## <a id="other-guides-web-pages-information-sources">**Other guides, web pages, information sources**</a>
+## <a id="other-guides-web-pages-information-sources">Other Guides, Web Pages, Information Sources</a>
 
 1. [**Community Support Services**](https://5chc.org/community-services) (5CHC)
 1. **[Central Coast Senior Resource Guide](https://centralcoastseniors.org/)**: 122-page comprehensive guide covering services for seniors in San Luis Obispo and Santa Barbara Counties; available online and in print through Central Coast Commission for Senior Citizens. Available as a searchable on-line directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
@@ -2996,7 +2995,7 @@ Grants do not cover exams or testing.
 1. [**Immigrant Services Guide**](https://www.sloundocusupport.org/immigrantservicesguide)
 1. [**NavSLO**](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
 
-## <a id="miscellaneous-tips">**Miscellaneous tips**</a>
+## <a id="miscellaneous-tips">Miscellaneous Tips</a>
 
 1. Ideally contributed by local homeless people: would make for good sidebars to break up listings; may want to get legal waiver of copyright from them, though
    - Use waterproof plastic bags to store important documents and electronics

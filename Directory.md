@@ -62,7 +62,7 @@
 
 > *See also [**Central Coast Aging & Disability Resource Center**](#CCADRC)*
 
-- [accesscentralcoast.org](http://accesscentralcoast.org/)
+- [accesscentralcoast.org](https://accesscentralcoast.org/)
 - Location: 51 Zaca Ln. #140, SLO
 - Phone: [805-462-1162](tel:+1-805-462-1162) (videophone: [805-464-3203](tel:+1-805-464-3203))
 - Hours: M–F: 9am–noon & 1–5pm (but closed every other Friday)
@@ -163,7 +163,7 @@
 
 ## <a id="AA">Alcoholics Anonymous</a>
 
-- [sloaa.org](http://sloaa.org/)
+- [sloaa.org](https://sloaa.org/)
 - Phone: [805-541-3211](tel:+1-805-541-3211)
 - Email: [info@sloaa.org](mailto:info@sloaa.org)
 
@@ -451,7 +451,7 @@
 
 ## <a id="Captive-Hearts">Captive Hearts</a>
 
-- [captivehearts.org](http://captivehearts.org/)
+- [captivehearts.org](https://captivehearts.org/)
 - Location: Grover Beach
 - Phone: [805-481-4500](tel:+1-805-481-4500) (before 3pm)
 - Email: [info@captivehearts.org](info@captivehearts.org)
@@ -480,14 +480,14 @@
 
 ## <a id="Casa-Solana">Casa Solana</a>
 
-- [casasolanainc.org](http://casasolanainc.org/)
+- [casasolanainc.org](https://casasolanainc.org/)
 - Location: Grover Beach
 - Phone: [805-481-8555](tel:+1-805-481-8555) (9am–4pm)
 - Notes: also known as “Sunshine House”
 
 ## <a id="Catholic-Charities">Catholic Charities</a>
 
-- [catholiccharitiesdom.org](http://catholiccharitiesdom.org/)
+- [catholiccharitiesdom.org](https://catholiccharitiesdom.org/)
    - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
    - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
 - Locations:
@@ -505,7 +505,7 @@
 
 > *See also [**Medi-Cal**](#Medi-Cal)*
 
-- [Cencalhealth.org](http://cencalhealth.org/)
+- [Cencalhealth.org](https://cencalhealth.org/)
 - Phone: [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm)
 - Note: for CenCal Shuttle, *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 
@@ -592,7 +592,7 @@
 
 ## <a id="Central-Coast-Commission-for-Senior-Citizens">Central Coast Commission for Senior Citizens</a>
 
-- [centralcoastseniors.org](http://www.centralcoastseniors.org/)
+- [centralcoastseniors.org](https://www.centralcoastseniors.org/)
 - Phone: [800-434-0222](tel:+1-800-434-0222) / [805-925-9554](tel:+1-805-925-9554)
 - Email: [info@centralcoastseniors.org](info@centralcoastseniors.org)
 - Hours: M–F 8am–5pm
@@ -682,7 +682,7 @@
 
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children's Resource Network of the Central Coast</a>
 
-- [childrensresourcenetwork.org](http://www.childrensresourcenetwork.org)
+- [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org)
    - Note: website seems to be down
 - Mailing Address: P.O. Box 454, Pismo Beach, CA 93448-0454
 - Phone: [805-709-8673](tel:+1-805-709-8673)
@@ -762,7 +762,7 @@
 
 ## <a id="CHC">Community Health Centers of the Central Coast</a>
 
-- [communityhealthcenters.org](http://www.communityhealthcenters.org/)
+- [communityhealthcenters.org](https://www.communityhealthcenters.org/)
 - Locations:
    - 260 Station Way, Arroyo Grande, [805-573-6201](tel:+1-805-573-6201)
    - 1057 E. Grand Ave., Arroyo Grande, [805-270-1700](tel:+1-805-270-1700)
@@ -872,7 +872,7 @@
 
 ## <a id="Disability-Rights-California">Disability Rights California</a>
 
-- [www.disabilityrightsca.org/get-help](http://www.disabilityrightsca.org/get-help)
+- [www.disabilityrightsca.org/get-help](https://www.disabilityrightsca.org/get-help)
 - Phone: [800-776-5746](tel:+1-800-776-5746)
 
 ## <a id="Discipleship-Home">Discipleship Home</a>
