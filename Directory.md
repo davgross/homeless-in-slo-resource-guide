@@ -342,7 +342,7 @@
 - Location: 2925 McMillan Ave. #108, SLO
 - Phone: [805-781-5527](tel:+1-805-781-5527)
 - Email: [PublicHealth.CMS@co.slo.ca.us](mailto:PublicHealth.CMS@co.slo.ca.us)
-- Hours: M-F 8am-5pm by appointment only
+- Hours: M–F 8am–5pm by appointment only
 
 ## <a id="California-Civil-Rights-Department">California Civil Rights Department</a>
 
@@ -769,7 +769,7 @@
 - Locations:
    - 260 Station Way, Arroyo Grande, [805-573-6201](tel:+1-805-573-6201)
    - 1057 E. Grand Ave., Arroyo Grande, [805-270-1700](tel:+1-805-270-1700)
-   - 1205 E. Grand Ave. #H, Arroyo Grande, [805-994-2300](tel:+1-805-994-2300) (walk-ins OK)
+   - 1205 E. Grand Ave. #H, Arroyo Grande, [805-994-2300](tel:+1-805-994-2300) (“urgent care”; walk-ins OK)
    - 2120 Cienaga St., Oceano, [805-994-2100](tel:+1-805-994-2100)
    - 1551 Bishop St., SLO, [805-549-0402](tel:+1-805-549-0402)
    - 77 Casa St., SLO, [805-269-1500](tel:+1-805-269-1500)

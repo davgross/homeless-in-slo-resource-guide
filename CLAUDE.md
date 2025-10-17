@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The file @"Resource guide possible outline.md" contains the outline of a comprehensive resource guide tenatively titled "Surviving Homelessness in San Luis Obispo."
+The file @"Resource guide.md" contains the outline of a comprehensive resource guide tenatively titled "Surviving Homelessness in San Luis Obispo."
 This file is too large for you to read in completely, given your token limit (so use methods to read it in smaller chunks).
 It was originally written as a long nested list, but is transitioning to headings and prose paragraphs.
 
@@ -48,7 +48,7 @@ Other tasks include:
 7. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
 8. **Divide information correctly between outline and directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Outline. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Resource Guide.
 9. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
-10. **Transition to prose**: In @"Resource guide possible outline.md", once we have collected enough information, rewrite that information as easy-to-read and well-organized paragraphs, containing the information most useful and relevant to our target audience.
+10. **Transition to prose**: In @"Resource guide.md", once we have collected enough information, rewrite that information as easy-to-read and well-organized paragraphs, containing the information most useful and relevant to our target audience.
 
 ## Current State
 
@@ -57,7 +57,7 @@ The outline contains several major sections; the table of contents lists these.
 ### File Structure
 
 - **Format**: Markdown with HTML anchors for major sections
-- **Main files**: `@Resource guide possible outline.md`, `@Directory.md`
+- **Main files**: `@Resource guide.md`, `@Directory.md`
 
 ### Major Outline Sections (37 total)
 
@@ -153,9 +153,9 @@ When working on the outline, these search patterns are frequently useful:
 
 When systematically moving agencies from the outline to the Directory, these patterns help identify candidates:
 
-- `grep -n "Contact:" "Resource guide possible outline.md"` - Find agencies with explicit Contact fields
-- `grep -n "805-[0-9]" "Resource guide possible outline.md" | grep -v "See \["` - Find phone numbers not yet cross-referenced
-- `grep -n "http" "Resource guide possible outline.md" | grep -v "Source:"` - Find hyperlinks (potential agencies)
+- `grep -n "Contact:" "Resource guide.md"` - Find agencies with explicit Contact fields
+- `grep -n "805-[0-9]" "Resource guide.md" | grep -v "See \["` - Find phone numbers not yet cross-referenced
+- `grep -n "http" "Resource guide.md" | grep -v "Source:"` - Find hyperlinks (potential agencies)
 - Look for patterns like "Location:", "Phone:", "Email:", "Hours:" that indicate contact information
 
 ### Alphabetical Insertion in Directory.md

@@ -1,4 +1,4 @@
-# Surviving Homelessness in SLO
+# Avoiding, Surviving, and Escaping Homelessness in SLO
 
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
@@ -178,6 +178,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
    <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or manmade disaster)</td></tr>
   <tr><th colspan="2" style="text-align:left;">Health and Behavioral Health Information:</th></tr>
+   <tr><td><a href="tel:+1-805-540-6576">800-540-6576</a> (ages 25+), <a href="tel:+1-805-503-2316">805-503-2316</a> (ages 16–25), <a href="tel:+1-805-540-5552">805-540-5552</a> (peer support)</td><td>Behavioral Health Navigator: Get help finding the help you need and understanding the local behavioral health system</td></tr>
    <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Poison Control: Treatment advice from experts in poisoning care</td></tr>
    <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–9pm EST)</td></tr>
    <tr><td><a href="tel:+1-800-232-4636">800-232-4636</a></td><td>CDC-INFO: for questions about HIV, viral hepatitis, STDs, or tuberculosis (M–F 8am–8pm ET)</td></tr>
@@ -1018,6 +1019,252 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
 
 ## <a id="health-medical-care">Health, Medical Care</a>
 
+### <a id="emergency-care">Emergency Care</a>
+
+#### 911
+
+Call 911 immediately when someone needs emergency medical care that can­not wait.
+This includes when a person:
+
+- Cannot breathe or struggles severely to breathe
+- Has no pulse or appears unconscious and unresponsive
+- Bleeds heavily and cannot stop the bleeding
+- Shows signs of stroke (sudden face drooping, arm weakness, or speech difficulty)
+- Experiences chest pain that might indicate a heart attack
+- Has a severe allergic reaction with swelling or breathing problems
+- Suffers a serious injury
+- Takes a dangerous overdose of a drug or poison
+- Has a seizure (especially if it lasts longer than five minutes or if the person has never had a seizure before)
+- Has a severe mental health crisis in which they are an immediate danger to themselves or others
+-calm and speak clearly to the 911 dispatcher. The dispatcher will guide you through the process, and may ask you for:
+- Your exact location — Give the full address, including apartment number, floor, or any access instructions. If you’re unsure of the address, describe nearby landmarks or cross streets.
+- The nature of the emergency — Briefly describe what happened and the person’s current condition.
+- The patient’s condition — Report whether the person is conscious, breathing, and responsive. Describe visible injuries or symptoms.
+- Your relationship to the patient — State whether you are family, a friend, or a bystander.
+- Your contact information — Provide a phone number where re­sponders can reach you.
+
+Do not hang up until the dispatcher tells you to.
+The dispatcher may tell you how to provide care while you wait for help to arrive.
+If the situation changes while you wait, call 911 again immediately to update them.
+
+Stay with the patient until help arrives, if it is safe for you to do so.
+Choose someone to watch for the ambulance and to guide responders to the location.
+
+#### Emergency Rooms
+
+There are three emergency rooms in our area:
+
+1. [**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista)
+1. [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital)
+1. [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center)
+
+These emergency rooms are open all day, every day.
+
+Do not worry if your Medi-Cal paperwork is not yet in order.
+Under the “Hospital Presumptive Eligibility” program, in an emergency, hospitals will treat you as though you have Medi-Cal for up to two months while they work with you to figure out your eligibility, if the following conditions hold:
+
+- You are uninsured and not receiving Medicare.
+- You have a low monthly income.
+- You live in California.
+- You have not used the “Hospital Presumptive Eligibility” program more than once in the past 12 months (more than twice for children).
+
+U.S. Citizenship is not required.
+All three emergency rooms participate in the “Hospital Presumptive Eligibility” program.
+
+#### Urgent Care Options
+
+Visit an urgent care center when you have a medical problem that needs prompt attention but is not life-threatening.
+Urgent care centers treat conditions that are too serious to wait for a doctor’s appointment but that do not require emergency room services.
+The wait is usually shorter than emergency rooms, and the cost is typically lower for non-emergency conditions.
+Most urgent care centers accept walk-ins, and some also allow appointments.
+Bring your insurance card, identification, and a list of medications you take.
+
+| Urgent Care Location                                                                                | Medicare | Medi-Cal |
+| --------------------------------------------------------------------------------------------------- | -------- | -------- |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | ✓        | ✓        |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | ✓        | ✓        |
+| [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | ✓        |          |
+| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | ✓        | ✓        |
+| [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | ✓        |          |
+| [**MedStop**](Directory.md#MedStop) (SLO)                                                           | ✓        |          |
+
+### Health Insurance
+
+#### Medi-Cal (Medicaid)
+
+[**Medi-Cal**](Directory.md#Medi-Cal), California’s Medicaid program, is a health insurance program for low-income people who meet certain eligibility requirements.
+
+[**CenCal**](Directory.md#CenCal) administers Medi-Cal in SLO County.
+They help recipients with:
+
+- Finding doctors, pharmacies and health education programs
+- Care coordination
+- Referrals to specialists
+- 24-hour nurse advice telephone services
+
+You can search a list of local CenCal health care providers at [cencalhealth.org/members/provider-directory-for-members/](https://cencalhealth.org/members/provider-directory-for-members/).
+
+Homeless SLO County residents who are enrolled in CenCal Health qualify for [**Enhanced Care Management**](Directory.md#Enhanced-Care-Management).
+This helps you coordinate the care you need across multiple healthcare providers.
+Contact them if you want to apply or you want more details.
+You can also apply in-person (walk-ins OK) at CAPSLO’s [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) center.
+
+##### How to Apply for Medi-Cal
+
+You can apply for Medi-Cal at [www.coveredca.com](http://www.coveredca.com/) or [BenefitsCal.com](http://benefitscal.com/).
+
+You can get help applying from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) or [**Catholic Charities**](Directory.md#Catholic-Charities).
+To get help in indigenous Mexican languages, call [805-483-1166](tel:+1-805-483-1166), or visit [mixteco.org/outreach-access/](http://mixteco.org/outreach-access/).
+
+##### Prescription Medication
+
+For information about obtaining prescription medicine through Medi-Cal, contact [**Medi-Cal Rx**](Directory.md#Medi-Cal).
+To find a Medi-Cal Rx pharmacy, visit [medi-calrx.dhcs.ca.gov/home/find-a-pharmacy](http://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy).
+
+##### <a id="medi-cal-dentists">Dentists</a>
+
+Dentists are not provided through CenCal but through [**Medi-Cal Dental**](Directory.md#Medi-Cal).
+For information about dental benefits, contact Med-Cal Dental.
+To find a Medi-Cal Dental provider, see one of these resources:
+
+- [Denti-Cal Dental Care Dentist Referral](http://www.denti-cal.ca.gov/) ([800-322-6384](tel:+1-800-322-6384))
+- [“Find A Dentist” at Smile California](https://smilecalifornia.org/find-a-dentist/)
+
+#### Medicare and HiCAP
+
+Medicare is a government-provided health insurance program for people over age 65 and for people with long-term disabilities.
+
+Find out if you qualify for Medicare by asking the [**Social Security Administration**](Directory.md#Social-Security-Administration).
+See [ssa.gov/prepare/check-eligibility-for-benefits](https://www.ssa.gov/prepare/check-eligibility-for-benefits) or visit in person.
+
+Medicare’s many options can be confusing.
+[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options.
+HiCAP can help you:
+
+- find the best prescription drug plan
+- find and use prescription drug discount programs
+- file Medicare denial appeals
+- understand long-term care insurance options
+
+To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties.
+The HiCAP program is free.
+
+You can also submit questions to them via a web form and get answers by email: [centralcoastseniors.org/ask-a-medicare-question](https://centralcoastseniors.org/ask-a-medicare-question/)
+
+#### Covered California / Obamacare
+
+Covered California is a free service that helps you to apply for affordable medical insurance in California.
+This includes Medi-Cal but also a variety of other brand-name health insurance plans, which may be available to you for free or at a very low cost depending on your income and circumstances.
+
+Visit [coveredca.com](https://www.coveredca.com/) or call [800-300-1506](tel:+1-800-300-1506) to learn more.
+
+#### VA Health Care
+
+Military veterans may qualify for VA health care.
+To learn if you qualify, how to apply, and details about your medical benefits package:
+
+- call [877-222-8387](tel:+1-877-222-8387), or
+- visit [va.gov/health-care/about-va-health-benefits](http://va.gov/health-care/about-va-health-benefits/)
+
+See also [**SLO Vet Center**](Directory.md#SLO-Vet-Center), [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic), and [**Veterans Services (SLO County)**](Directory.md#Veterans-Services).
+
+#### Crowdfunding Medical Expenses
+
+If you expect to have high medical expenses that you cannot afford, you might try to raise the money through donations from others.
+The [**Help Hope Live**](Directory.md#Help-Hope-Live) program can help you establish a “crowdfunding” campaign to raise money this way.
+
+#### Emergency Funding
+
+If you need immediate funds to pay for a specific medical expense, consider the [**Medically Indigent Services Program**](Directory.md#MISP).
+
+> See also the [Acute Financial Needs](#acute-financial-needs) section of this guide.
+
+### Transportation to Medical Appointments
+
+> See [Transportation to Medical Appointments](#transportation-to-medical-appointments) in the [Transportation](#transportation) section
+
+### Medical and Assistive Devices
+
+[**Access Central Coast**](Directory.md#Access-Central-Coast) helps you find and afford assistive devices like wheelchairs, canes, walkers, scooters, modified telephones, and speech-generating devices.
+
+[**Alliance for Pharmaceutical Access**](Directory.md#APA) helps you get low-cost diabetic supplies (glucose test strips and meters, insulin syringes, etc.).
+
+The [**Boyd Bristol Medical Equipment Program**](Directory.md#Boyd-Bristol-Medical-Equipment-Program) helps veterans and their family members get free loans of medical equipment like walkers, canes, scooters, and crutches.
+They can also deliver these devices to you.
+
+[**California Connect**](Directory.md#California-Connect) can loan you, for free, assistive telecommunications equipment that helps if you have functional limitations of hearing, vision, mobility, speech, and/or interpretation of information.
+
+The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) runs a “for sale, free, or needed” on-line assistive technology exchange.
+They can also get you a free speech-generating device if you have difficulty speaking.
+
+The [**Central Coast Assistive Technology Center**](Directory.md#CCATC) allows you to try out, and helps you learn to use, assistive technologies including vision/hearing technologies and ergonomics.
+They also help you access a no-cost lending library of assistive technology devices ([myatprogram.org](https://myatprogram.org/)).
+
+[**Elks Lodge #2504**](Directory.md#Elks-Lodge-2504) has a lending library of wheelchairs, crutches, and walkers.
+
+[**PathPoint**](Directory.md#PathPoint) has a lending library of assistive technology devices for people with developmental disabilities.
+
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps uninsured people get low-cost diabetes monitoring and treatment supplies.
+
+[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) can loan you assistive technology like walkers and wheelchairs.
+
+[**Veterans Volunteer Services**](Directory.md#Veterans-Volunteer-Services) can loan veterans (or family members of veterans) assistive technology like canes, walkers, wheelchairs, bedside commodes, shower chairs, and crutches.
+
+### Prescription Medicines
+
+Drug discount plans allow you to get prescriptions at reduced prices.
+You can get help finding the best discount plans for you from [**Alliance for Pharmaceutical Access**](Directory.md#APA), [**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP), [**NeedyMeds**](Directory.md#NeedyMeds), or [**United Way**](Directory.md#United-Way).
+
+For answers about Medi-Cal/CenCal prescription benefits, contact [**Medi-Cal Rx**](Directory.md#Medi-Cal).
+To find a Medi-Cal Rx pharmacy, visit [medi-calrx.dhcs.ca.gov/home/find-a-pharmacy](http://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy).
+
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some medications directly, without having to go through a pharmacy.
+
+### Dental Care
+
+[**Central Coast Dental Society**](Directory.md#CCDS) maintains [a list of dentists who offer reduced rates for people in financial hardship](http://centralcoastdentalsociety.org/public-resources/reduced-fee-dental).
+
+[**Community Health Centers**](Directory.md#CHC) offers dental care at its offices in Oceano and at 40 Prado in SLO.
+
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a dental clinic.
+
+> See [Medi-Cal: Dentists](#medi-cal-dentists) above to learn how to find a Medi-Cal dental provider.
+
+### Vision
+
+The [**Community Health Centers**](Directory.md#CHC) office at 260 Station Way in Arroyo Grande specializes in optometry.
+
+[**EyeCare America**](Directory.md#EyeCare-America) offers a free eye exam and follow-up ophthalmology treatment to uninsured and underinsured adults.
+
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a vision care clinic.
+
+#### Eyeglasses
+
+The American Academy of Opthamology maintains [a list of sources of free and low-cost eyeglasses](http://aao.org/eyecare-america/resources/eye-glasses).
+
+You can find a list of Medi-Cal opticians at [provdir.cencalhealth.org](https://provdir.cencalhealth.org/).
+
+#### Mental Health
+
+You can get 24-hour mental health support from SLO Hotline ([805-783-0607](tel:+1-805-783-0607), or text [741741](sms:741741)).
+
+> For mental health emergencies, see [Emergency Care](#emergency-care) and [Hotlines and Emergency Contacts](#hotlines-and-emergency-contacts).
+
+The [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) and [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) respond to acute mental health needs.
+
+[**Cal Poly Community Counseling Service**](Directory.md#Cal-Poly-Community-Counseling-Service) and [**Community Counseling Center**](Directory.md#Community-Counseling-Center) offer low- or no-cost mental health counseling.
+
+Adult Mental Health Outpatient Treatment (via [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) and [**Transitions Mental Health Association**](Directory.md#TMHA) and its [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) offer mental health evaluation & treatment, with programs specifically for homeless people.
+
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) at [**CAPSLO**](Directory.md#CAPSLO)’s [**40 Prado Homeless Services Center**](Directory.md#40-Prado) includes mental health counseling and treatment.
+[**SLO Hub**](Directory.md#SLO-Hub) offers weekly mental health therapy sessions to its clients.
+
+[**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) and [**PathPoint**](Directory.md#PathPoint) have some services for people with mental health disorders and/or developmental disabilities.
+
+[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) offers some mental health services to people who are deaf or hard of hearing.
+
+The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers mental health care to qualifying U.S. military veterans.
+
 1. All the stuff in [our current health resources booklet](https://showerthepeopleslo.org/health-and-medical-care-resources/), plus maybe:
    1. First aid tips, tips for extreme hot/cold/wet weather?
    1. Weight loss?
@@ -1066,28 +1313,188 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
    - Phone: [805-674-5056](tel:+1-805-674-5056)
    - Email: [info@resilientsouls.org](mailto:info@resilientsouls.org)
 
-### Transportation to Medical Appointments
-
-> See [Transportation to Medical Appointments](#transportation-to-medical-appointments) in the [Transportation](#transportation) section
-
 ## <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">Recovery, Harm Reduction, and Other Substance-Related Issues</a>
 
-1. [**SLO County Drug & Alcohol Services**](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services)
-   - What’s Available: Public walk-in clinics, outpatient treatment, court-mandated programs, sliding fee schedules, services available in Spanish
-   - Locations/Phone/Hours: See [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) in the [Directory](Directory.md)
-   - Policy: No clients denied services due to inability to pay; discounted fees based on family size and income
-   - Philosophy: Promotes safe, healthy, responsible, and informed choices concerning alcohol and other drugs
+> Note: The somewhat confusing term “behavioral health” often describes pro­grams for people who use addictive or harmful drugs and want help.
+
+Substance Abuse and Mental Health Services Administration (SAMHSA) has a free phone service ([800-662-4357](tel:+1-800-662-4357)) that can help you find substance abuse treatment that matches your needs.
+
+[**Access Support Network**](Directory.md#ASN) offers suboxone (buprenorphine) treatment and opiate overdose prevention training.
+
+[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) offers methadone and suboxone treatment, withdrawal management, and mental health support.
+They accept MediCal, Medicare, and most other insurance.
+
+The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Oceano, and at 77 Casa St. in SLO specialize in behavioral health.
+Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers substance abuse treatment and needle exchange.
+
+[**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services) include drug & alcohol walk-in clinics, detox (medically-assisted treatment), and referral to residential treatment options.
+
+[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) offers medically-assisted treatment, recovery services, and outpatient care.
+Some of their services are availble on a walk-in basis.
+They charge a sliding fee depending on ability to pay.
+They operate the [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) for sobering up, detox, and medically-assisted drug withdrawal.
+
+[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) offer walk-in suboxone treatment at their emergency rooms.
+
+[**Transitions Mental Health Association**](Directory.md#TMHA) has substance use support groups for people who also have other mental health needs.
+
+The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers substance abuse treatment to qualifying U.S. military veterans.
+
+### Naloxone / Narcan
+
+Naloxone is an easy-to-administer medication that can save the life of some­one who is experiencing an overdose of an opiate such as fentanyl or heroin.
+
+You can get naloxone from [**Access Support Network**](Directory.md#ASN), [**SLO Bangers**](Directory.md#SLO-Bangers), [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), and [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) emergency rooms.
+You can also get free naloxone any time from these “NaloxBoxes”:
+
+- Lopez Lake Campground: 6800 Lopez Dr., Arroyo Grande
+- Grover Beach Public Health: 286 S. 16th St. Bldg A, Grover Beach
+- Behavioral Health: 277 South St. #T, SLO
+- Cuesta Canyon Park: 2400 Loomis St., SLO
+- El Chorro Regional Park: State Hwy 1 @, Dairy Creek Rd., SLO
+- SLO Dept. of Social Services: 3433 S. Higuera St., SLO
+- SLO Health Campus: 2180 Johnson Ave, SLO
+- SLO Library: 995 Palm St., SLO
+- Coastal Dunes RV Park: 1001 Pacific Blvd., Oceano
+- Oceano County Campground: 494 Air Park Dr., Oceano
+- Oceano Library: 1511 19th St., Oceano
+
+### Tobacco / Nicotine
+
+The “Kick It California” program can help you stop smoking ([kickitca.org](http://kickitca.org/) at [800-300-8086](tel:+1-800-300-8086) or [smokefree.gov](http://smokefree.gov/) at [800-784-8669](tel:+1-800-784-8669)).
+
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) and the [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) also offer tobacco cessation help.
+
+### 12-Step and Similar Recovery Programs
+
+[**Alcoholics Anonymous**](Directory.md#AA) is a peer-led sobriety and recovery program.
+[**Recovery Dharma**](Directory.md#Recovery-Dharma), hosted by [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service), is a similar, Buddhist-oriented program.
+
+[**Narcotics Anonymous**](Directory.md#Narcotics-Anonymous) is similar and helps you stop using other addictive drugs.
+[**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) is for marijuana specifically.
+
+AA & NA meet in many locations throughout the county, every day of the week.
+The [**Alano Club**](Directory.md#Alano-Club), for example, hosts AA and NA meetings several times a day.
+
+### Sober Living Homes and Residential Treatment Options
+
+> See [Shelter & Housing: Sober Living Homes](#sober-living-homes)
+
+### Reproductive Health
+
+[**The Center for Health and Prevention**](Directory.md#The-Center) offers contraception, STD testing and treatment, UTI/yeast infection testing and treatment, genital exams, Pap smears, and menopausal services.
+
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers contraceptives, HIV screening and education, OB/GYN services, and STD testing.
+
+[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers abortion, birth control, emergency contraception, HIV/STD testing and treatment, HPV vaccines, help with various sexual and reproductive concerns, and no-cost family planning services.
+
+The [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) offers STD testing and birth control.
+
+### Pregnancy, Childbirth, Lactation
+
+[**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista) ([805-546-7939](tel:+1-805-546-7939)) and [**French Hospital**](Directory.md#French-Hospital-Medical-Center) ([805-541-2229](tel:+1-805-541-2229)) each offer free breastfeeding support by phone.
+
+[**The Center for Health and Prevention**](Directory.md#The-Center) offers pregnancy testing and counseling.
+
+[**Community Health Centers of the Central Coast**](Directory.md#CHC)’s 1551 Bishop St. (SLO) location offers the Wellness Pregnancy Program / Comprehensive Perinatal Services Program.
+
+[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers pregnancy testing and planning, and prenatal and postpartum services.
+
+[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) offers maternity clothes, nursing supplies, diapers, formula, and referrals.
+
+The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program offers breastfeeding support.
+
+### Chiropractic Treatment
+
+The [**Community Health Centers of the Central Coast**](Directory.md#CHC) offices in Oceano and at 77 Casa St. in SLO offer chiropractic treatment.
+
+### Surgery
+
+The [**CSF Medical Non Profit Foundation**](Directory.md#CSF-Medical-Non-Profit-Foundation) helps medically uninsured people obtain life-saving surgical procedures.
+
+The [**Recuperative Care Program**](Directory.md#Recuperative-Care-Program) gives you a place to recover from surgery if your health would be compromised by an unstable living situation.
+Ask your doctor to refer you to that program.
+
+### Medical Resources for Specific Populations
+
+#### Children
+
+[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it.
+
+The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Oceano, and 77 Casa St. in SLO offer pediatric services.
+
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers pediatric care and well child check-ups.
+
+[InfantSEE](https://www.infantsee.org/) helps you get a free eye/vision test for infants.
+
+[Tolosa Children’s Dental Center](https://tolosachildrensdental.org/) ([805-592-2445](tel:+1-805-592-2445)) accepts Medi-Cal or sliding-scale cash payments.
+
+[**UnitedHealthcare Children’s Foundation**](Directory.md#UnitedHealthcare-Childrens-Foundation) helps pay for medical expenses that are not covered by a child’s family’s commercial health insurance.
+The child must be 16 or younger, with a U.S. social security number.
+The need must be documented by a physician, and the child must be covered by commercial health insurance.
+
+The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program gives financial assistance to low-income women who have recently given birth.
+
+#### People with Diabetes
+
+[**Alliance for Pharmaceutical Access**](Directory.md#APA) and [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) can help you get low-cost diabetes supplies.
+
+[**Dignity Health**](Directory.md#Dignity-Health) leads a free diabetes support group on Zoom (internet video conferencing) and in-person every three months.
+Call [805-597-6780](tel:+1-805-597-6780) or email [Angela.Fissell@commonspirit.org](mailto:Angela.Fissell@commonspirit.org) for details.
+
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers diabetes testing and care.
+
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) offers nutrition education & lifestyle coaching for uninsured people with diabetes or prediabetes.
+
+#### People with Disabilities
+
+[**California Connect**](Directory.md#California-Connect) has telecommunications equipment and services for people who have limitations of hearing, vision, mobility, speech and/or interpretation of information.
+
+The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) helps people with disabilities find or keep employment and live independently.
+They can help you navigate disability and benefits programs, obtain assistive technologies, and get help with childcare and transportation.
+
+[**Disability Rights California**](Directory.md#Disability-Rights-California) helps you understand and defend your legal rights as a disabled person.
+
+The [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) has resources for people with cerebral palsy, mild intellectual disability, mental health disorders, traumatic brain injury, Down syndrome, and spectrum disorders.
+[**PathPoint**](Directory.md#PathPoint) also has services for people with developmental disabilities.
+
+If you use American Sign Language, [**Lifesigns**](Directory.md#Lifesigns) or [**Tri-County GLAD**](Directory.md#Tri-County-GLAD) can provide an interpreter to accompany you at your medical appointments. Tri-County GLAD can also help with telephone call interpreting.
+
+#### People with HIV or Hepatitis-C
+
+The [**Access Support Network**](Directory.md#ASN) has a variety of services for people impacted by HIV and Hep-C.
+These include testing, treatment, benefits counsel­ing, help with insurance, harm reduction (including Narcan and suboxone), infection prevention, and wound care.
+
+[**The Center for Health & Prevention**](Directory.md#The-Center) offers HIV/Hep-C testing.
+
+#### Seniors
+
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
+
+The [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) offers a variety of ser­vices for seniors, including [**Senior Connection**](Directory.md#Senior-Connection), the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
+They can help you with nutrition and meal services, transportation, and care management.
+
+#### Teens and Youth
+
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Teen Wellness” program includes health coaching, strength classes, mindfulness workshops, and reproductive health education.
+
+#### Women
+
+[**The Center for Health & Prevention**](Directory.md#The-Center) offers breast exams, referrals for free mammograms, Pap smears, and menopausal services.
+
+The [**Community Health Centers**](Directory.md#CHC) office at 1057 E. Grand Ave. in Arroyo Grande specializes in women’s health.
+
+[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers cervical- and breast-cancer screening and menopause treatment.
+
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a women’s mobile health unit.
+
+### Uncategorized
+
 1. **Private Treatment Options**
    - Treatment center availability: 15+ drug & alcohol detox, outpatient, and inpatient rehabs in SLO
    - Financial assistance: Many offer sliding scale payment and financial aid
    - Insurance options: Centers accepting Medicare, Medicaid, and TRICARE available
    - Local information resources: [addictions.com](https://www.addictions.com/rehabs/california/san-luis-obispo/) and [recovery.com](https://recovery.com/san-luis-obispo/)
-   1. [**Aegis Treatment Centers—SLO**](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/)
-      - What’s Available: Methadone and Suboxone® for opioid addiction recovery, withdrawal management, co-occurring mental health support
-      - Insurance accepted: Medi-Cal, Medicare, Medicare Advantage, TRICARE, most commercial insurance, self-pay
-      - Programs: Outpatient programs, medication-assisted treatment, comprehensive addiction recovery services
-      - Location/Phone: See [**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) in the [Directory](Directory.md)
-      - Source: [pinnacletreatment.com](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/)
    1. **[Aspire Counseling Service](https://aspirecounselingservice.com/san-luis-obispo/)**
       - What’s Available: Substance Use Disorder treatment with Partial Hospitalization Program (PHP) and Intensive Outpatient Program (IOP); individual, couples, family, and group counseling for men, women, and adolescents (ages 12–17); addiction recovery groups, drug & alcohol testing, aftercare
          - Hosts "Recovery Dharma" peer-led recovery group (specific addiction agnostic) leaning on Buddhist tradition
@@ -1100,11 +1507,6 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
    1. [**SLO Bangers**](https://slobangers.com)
       - What’s Available: Syringe exchange, naloxone (Narcan), overdose prevention training
       - Location/Phone/Hours: See [**SLO Bangers**](Directory.md#SLO-Bangers) in the [Directory](Directory.md)
-   1. **Healthcare for the Homeless**
-      - What’s Available: Substance abuse treatment, needle exchange, comprehensive healthcare
-      - Location/Phone/Hours: See [**Healthcare for the Homeless Program**](Directory.md#HCHP) in the [Directory](Directory.md)
-   1. **NaloxBoxes** (24/7 Narcan access locations) [See resource card or county website for locations]
-      - See: [www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county)
 1. **Specialized Recovery Support**
    1. **SLO Hub**
       - What’s Available: Recovery/therapeutic services for homeless individuals with co-occurring behavioral health and substance abuse challenges
@@ -1113,12 +1515,6 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
    1. [**Sun Street Centers**](https://sunstreetcenters.org)
       - What’s Available: Residential detox (male), recovery services
       - Location/Phone/Email: See [**Sun Street Centers**](Directory.md#Sun-Street-Centers) in the [Directory](Directory.md)
-   1. [**Alano Club**](https://sloalanoclub.org)
-      - What’s Available: AA/NA meetings several times daily
-      - Location/Phone: See [**Alano Club**](Directory.md#Alano-Club) in the [Directory](Directory.md)
-   1. [**Transitions Mental Health Association**](https://www.t-mha.org)
-      - What’s Available: Mental health and substance abuse support services
-      - Location/Phone/Email/Hours: See [**Transitions Mental Health Association**](Directory.md#TMHA) in the [Directory](Directory.md)
    1. **Dignity Health Substance Use Navigator (SUN) Program**
       - What’s Available: Comprehensive opioid addiction treatment through emergency departments including medical evaluation, clinical assessment, and community service coordination; free Narcan kit distribution
       - Locations: Emergency departments at Marian Regional Medical Center, Arroyo Grande Community Hospital, and French Hospital Medical Center
@@ -1126,7 +1522,6 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
       - Treatment approach: Three-fold care including physician evaluation, social worker clinical assessment, and community health worker follow-up coordination
       - Impact: 29 providers helping remove addiction stigma and connect patients to community resources
       - Source: [newtimesslo.com](https://www.newtimesslo.com/news/dignity-health-central-coast-tackles-opioid-addiction-through-sun-program-16133592)
-   1. **Recovery Support Network**: [805-457-5777](tel:+1-805-457-5777)—Helps people seeking addiction recovery get support, care, and resources (Note: Unable to verify this organization or phone number through online sources as of September 2025)
    1. **Court-mandated programs**: Available through county drug & alcohol services
 1. **Additional Resources**
    1. Current drug use resource card: [Document reference](https://docs.google.com/document/d/e/2PACX-1vT2koI1AMLwAVcmOg_LGCgvUrFTH27EjOINZ_kGV6q8lO5so7eX70wv0FRWSLjCId6jfVeu5y-iu-uW/pub) for comprehensive local listings
@@ -1134,7 +1529,6 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
    1. Free and low-cost options: [rehabs.org/centers/california/san-luis-obispo](https://rehabs.org/centers/california/san-luis-obispo/) for budget-friendly treatment centers
    1. Good Samaritan Shelter in Santa Maria has a detox program and apparently accepts referrals from 5CHC in SLO County
       - Location/Phone/Email/Hours: See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
-1. Add AA, NA, Marijuana Anonymous; but refer readers to their directories for details about individual meetings
 
 ## <a id="tattoo-removal">Tattoo Removal</a>
 
