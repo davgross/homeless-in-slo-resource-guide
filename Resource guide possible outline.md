@@ -5,7 +5,7 @@ It is specific to San Luis Obispo County.
 
 The guide is organized into pages by topics like “Shelter and housing” or “Food”.
 Each page briefly describes resources available in San Luis Obispo County.
-Many of these resources contain boldface links to our [Directory](Directory.md).
+Many of these resources contain boldface links to our [**Directory**](Directory.md).
 This Directory page lists resources in alphabetical order, along with information like the website, phone number, email address, location, and operating hours of the resource.
 If you find a resource in the guide that seems it will be useful to you, click the boldface link to go to the directory and find out how to access that resource.
 
@@ -92,8 +92,8 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. Sober Living Homes and Residential Treatment Options
 1. [Tattoo Removal](#tattoo-removal)
 1. [End-of-Life Care, Advance Directives, Hospice](#end-of-life-care-advance-directives-hospice)
-   1. Hospice and Palliative Care
-   1. Advanced Care Directives and Legal Planning
+   1. [Hospice and Palliative Care](#hospice-and-palliative-care)
+   1. [Advanced Care Directives and Legal Planning](#advance-directives)
 1. [Personal Safety, Deescalation, Self-Defense](#personal-safety-deescalation-self-defense)
 1. [Legal Help & Mediation, Crime Victim Protection](#legal-help--mediation-crime-victim-protection)
    1. Help for Convicts, Parolees, Probationers, P.C. 290 Registrants, etc.
@@ -196,7 +196,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr>
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr>
   <tr><th colspan="2" style="text-align:left;">Immigration:</th></tr>
-   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (to report ICE activity, connect with legal support, receive Know Your Rights information, or register for text alerts; serves Santa Barbara, Ventura, and SLO Counties)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity, connect with legal support, or register for text alerts)</td></tr>
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr>
  </tbody>
 </table>
@@ -510,9 +510,11 @@ You must have a DD214 with discharge other than dishonorable.
 The [**RVs for Veterans**](Directory.md#RVs-for-Veterans) program can get you a free RV (e.g. motorhome, travel trailer, or fifth wheel).
 These are donated by other members of the community, and are available as they are donated.
 Contact them to be put on a waiting list for the next RV.
-Priority is given to homeless veterans, veterans who receive insufficient benefits to pay rent, veterans who do not qualify for VA assistance, veterans who need to live alone because of PTSD.
+Priority is given to homeless veterans, veterans who receive insufficient benefits to pay rent, veterans who do not qualify for VA assistance, and veterans who need to live alone because of PTSD.
 Sometimes the program also has RVs available for people who are experiencing homelessness who are not veterans.
-The RVs will be in working condition, with no leaks; you must obtain insurance.
+The RVs are in working condition, with no leaks; you must obtain insurance.
+
+> See [Automobile Insurance and Repair](#auto-insurance-and-repair) for tips on how to obtain low-cost auto insurance.
 
 ### <a id="sober-living-homes">Sober Living Homes</a>
 
@@ -548,7 +550,7 @@ Here are some residential treatment options in our area:
 If you need to securely store a small amount of property for a few hours or overnight, you have a few options:
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available for people who have completed intake for day services there.
-<!-- Source: https://friendsof40prado.org/mission/ -->
+You must provide your own padlock.
 <!-- Note: Unable to determine specific locker sizes, conditions of use, or whether document storage is available from publicly available sources (as of October 2025); contact 40 Prado directly at [805-544-4004](tel:+1-805-544-4004) for details -->
 
 The commercial service [Bounce](https://bounce.com/) partners with multiple locations (in SLO County, these are typically UPS Stores) to offer short-term luggage storage that typically runs about $7 per day or $20–80 per month (depending on weight and size).
@@ -585,8 +587,8 @@ Most storage facilities have daytime hours of operation when you can access the 
 ### <a id="free-food-pantries">Free Food Pantries</a>
 
 Food pantries give away unprepared food (such as fresh produce, canned goods, and packaged food).
-Some pantries have special no-cook/no-refrigeration options for people who do not have access to kitchens.
-Some will give you a pre-prepared box or bag of food, others will allow you to select particular items you want.
+Some pantries have special no-cook, no-refrigeration, ready-to-eat options for people who do not have access to kitchens.
+Some give you a pre-prepared box or bag of food, others allow you to select particular items you want.
 
 | Location      | Pantry                                                                                              | Days |
 | ------------- | --------------------------------------------------------------------------------------------------- | ---- |
@@ -634,7 +636,7 @@ You can find a list of [Summer Meal Sites in San Luis Obispo County](https://www
 
 ### <a id="senior-meal-programs">Senior Meal Programs</a>
 
-[**Meals that Connect**](Directory.md#Meals-that-Connect) has several sites in SLO County where they serve communal lunches every weeekday.
+[**Meals that Connect**](Directory.md#Meals-that-Connect) has several sites in SLO County where they serve communal lunches every weekday.
 The program is for people aged 60 and above.
 You must fill out an application to join the program, and you must reserve your meals two days in advance.
 They also can deliver meals to your home if you are homebound.
@@ -739,7 +741,7 @@ There are discounts for seniors, medicare card holders, and people with disabili
 
 [Runabout Paratransit](https://www.slorta.org/services/runabout-paratransit/) is a county-wide transit service for people who cannot always use the fixed-route SLO RTA buses because of disability.
 This service will take you door-to-door within ¾-mile of the RTA fixed routes during the same hours RTA operates.
-One personal care attendent can accompany you free-of-charge.
+One personal care attendant can accompany you free-of-charge.
 You have to apply and have an in-person interview to be eligible for this service (call [805-781-4833](tel:+1-805-781-4833) or visit 253 Elks Lane, SLO, M–Th 8am–4pm, or Fri. by appointment).
 After you register, make ride reservations 1–7 days in advance by calling [805-541-2544](tel:+1-805-541-2544).
 Rides are not free; they cost about twice as much as ordinary RTA rides.
@@ -1164,7 +1166,7 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
 
 ## <a id="end-of-life-care-advance-directives-hospice">End-of-Life Care, Advance Directives, Hospice</a>
 
-### Hospice and Palliative Care Services
+### <a id="hospice-and-palliative-care">Hospice and Palliative Care Services</a>
 
 1. **Hospice of San Luis Obispo County**
    - Location/Phone/Hours: See [**Hospice SLO**](Directory.md#Hospice-SLO) in the [Directory](Directory.md)
@@ -1198,7 +1200,7 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
    - Contact: San Luis Obispo VA Clinic, [805-543-1001](tel:+1-805-543-1001); palliative care available through VA Greater Los Angeles Healthcare System
    - Note: Contact clinic directly for specific palliative care referrals and services
 
-### Advance Directives
+### <a id="advance-directives">Advance Directives</a>
 
 Advance Directives are legal documents that let you communicate your healthcare wishes in advance, in case you become unable to speak for yourself.
 These documents include:
@@ -2305,56 +2307,14 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 
 ## <a id="free-and-low-cost-phone-services">Phones and Phone Service</a>
 
-1. **California LifeLine Program**
-   - What’s Available: Discounted home phone and cell phone services; up to $9.25 monthly discount ($34.25 on Tribal lands)
-   - Eligibility: Low-income households participating in [**WIC**](Directory.md#WIC), Medicaid/[**Medi-Cal**](Directory.md#Medi-Cal), SSI, National School Lunch Program, LIHEAP, CalFresh/SNAP, Federal Public Housing/Section 8, and other qualifying programs
-   - Limitations: Only one California LifeLine discounted phone per household (except TTY users and DDTP participants)
-   - How to apply: Call a participating phone company or visit [californialifeline.com](https://www.californialifeline.com/)
-   - Provider search: Available at [californialifeline.com](https://www.californialifeline.com/) for approved providers in your area
-   - Call center: [1-866-272-0349](tel:+1-866-272-0349)
-1. **Free Smartphone Programs**
-   1. [**TruConnect**](https://www.truconnect.com/states/california)
-      - What’s Available: free Android smartphone, 6 GB of 4G/LTE data with Wi-Fi hotspot, unlimited voice and text, unlimited international calling to Mexico, Canada, China, South Korea, and Vietnam
-      - Eligibility: Must participate in California LifeLine program (income at/below 150% Federal Poverty Guidelines OR enrolled in programs like Medicaid/Medi-Cal, CalFresh/SNAP, SSI, Federal Public Housing)
-      - How to apply: Visit TruConnect application page, enter ZIP code and email address; eligibility verification usually within minutes
-      - Contact: Customer service and renewals: [877-858-7463](tel:+1-877-858-7463)
-      - Documentation: May require proof of eligibility and signed program application
-   1. [**enTouch Wireless**](https://entouchwireless.com/states/california-lifeline-free-phone-service/)
-      - What’s Available: free smartphone, unlimited talk and text, 6GB of data, no contract, no hidden fees
-      - Eligibility: CalFresh/SNAP, Medi-Cal/Medicaid, SSI participants OR meet federal poverty income guidelines ($24,200 for single-person household)
-      - How to apply: Apply online at apply4lifeline.entouchwireless.com; gather program benefit letters, income statements, government ID
-      - Contact: [1-866-488-8719](tel:+1-866-488-8719), customer support dial 611 from Lifeline phone
-      - Website: [entouchwireless.com](https://entouchwireless.com/)
-   1. [**Assurance Wireless**](https://www.assurancewireless.com/)
-      - What’s Available: Federal Lifeline Assistance program with free wireless service on T-Mobile network including data, talk, and text
-      - Eligibility: Participation in government assistance programs (Medicaid, SSI, SNAP, Housing Assistance, Veterans Benefits) OR meet income guidelines
-      - How to apply: Application redirected to National Verifier website for eligibility verification, then sent to California PUC for final approval
-      - Contact: [888-898-4888](tel:+1-888-898-4888) (CA LifeLine applications), [1-888-321-5880](tel:+1-888-321-5880) (customer service)
-      - Requirements: Proof of address, identity, and eligibility; annual renewal required; must use service every 30 days
-   1. [**Life Wireless**](https://lifewireless.com/plans/california-lifeline-free-phone-service)
-      - What’s Available: California Lifeline Plan with free phone service
-      - Eligibility: Program-based (enrolled in Medicaid/Medi-Cal, CalFresh, SSI, etc.) OR income-based (household income ≤ 150% Federal Poverty Guidelines)
-      - How to apply: Contact Life Wireless at [1-888-543-3620](tel:+1-888-543-3620) to review eligibility and start application process through California LifeLine Administrator
-      - Contact: [1-888-543-3620](tel:+1-888-543-3620) (Life Wireless), [1-877-858-7463](tel:+1-877-858-7463) (CA LifeLine Administrator, 7am–7pm PT, Mon–Fri)
-      - Requirements: Documentation proof of eligibility, annual renewal, 30-day waiting period between enrollment requests
-1. **Phone Services for People with Disabilities**
-   1. [**California Connect**](https://caconnect.org/)
-      - What’s Available: Specialized telecommunications equipment and services for people with disabilities including hearing, seeing, moving, speaking, learning, or remembering difficulties
-      - Eligibility: California residents with disabilities; no age or income requirements but must submit medical certification of disability
-      - How to apply: Complete application at DDTP Service Center locations or contact program directly; medical professional must sign Section 2 of form
-      - Website/Phone/Email/Location/Hours: See [**California Connect**](Directory.md#California-Connect) in the [Directory](Directory.md)
-      - Cost: Free specialized products and services, subsidized by State of California
-   1. **[Deaf and Disabled Telecommunications Program (DDTP)](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp)**
-      - Services: 1) Distributes specialized telecommunications equipment, 2) Provides California Relay Service (dual-party relay), 3) Supplies assistance for speech generating devices
-      - Eligibility: California residents with hearing, seeing, moving, speaking, learning, or remembering difficulties; no age/income requirements; medical certification of disability required
-      - Special benefit: May have multiple California LifeLine phones if participating in DDTP
-      - How to apply: Complete DDTP application package at Service Center locations; medical professional must certify disability
-      - Contact: [ddtp@cpuc.ca.gov](mailto:ddtp@cpuc.ca.gov), Monday–Friday 8am–6pm (excluding holidays)
-      - Website: [caconnect.org](https://caconnect.org)
-      - Cost: Free, subsidized by California Public Utilities Commission [Source: https://www.cpuc.ca.gov/ddtp]
-1. Important 2025 Program Updates
-   - **Affordable Connectivity Program (ACP)**: Concluded in June 2024 due to lack of government funding
-   - Federal Support: Up to $9.25 monthly discount continues for eligible subscribers [Source: [www.fcc.gov/lifeline-consumers](https://www.fcc.gov/lifeline-consumers)]
+The [California LifeLine Program](https://www.californialifeline.com/) ([866-272-0357](tel:+1-866-272-0357)) gives low-income households discounts on home phone or cell phone service.
+In many cases the discounts are enough to make the service free.
+You apply for this program through a commercial phone service provider that supports the program.
+Some providers also give you a free phone when you sign up for California LifeLine through their service, for example [AirTalk Wireless](https://airtalkwireless.com/lifeline-application), [enTouch Wireless](https://entouchwireless.com/states/california-lifeline-free-phone-service/), or [Gen Mobile](https://www.genmobile.com/pages/lifeline-program).
+
+The [**California Connect**](Directory.md#California-Connect) program can loan you, for free, assistive telecommunications equipment that helps if you have medically-documented functional limitations of hearing, vision, mobility, speech, and/or interpretation of information.
+The [Deaf and Disabled Telecommunications Program (DDTP)](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp) can give you specialized telephone equipment, accessories, and services such as amplified phones for the hard-of-hearing, big-button phones for those with low-vision, and cordless phones for people with mobility disabilities.
+This program is for California residents with medically-certified limitations of hearing, vision, mobility, speech, learning, or memory.
 
 ## <a id="internet-access--email--digital-access-assistance">Internet Access / Email / Digital Access Assistance</a>
 
