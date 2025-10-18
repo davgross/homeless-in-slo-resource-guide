@@ -311,7 +311,7 @@ They also offer meals (breakfast, lunch, and dinner), showers, laundry, mail/pho
 To use the shelter, you must be a county resident with ID, you must not be a P.C. 290 registered sex offender, and you must participate in case management.
 
 The 40 Prado center is the only walk-in, overnight homeless shelter in SLO County.
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) used to operate a shelter in the north county, but now only offers 90-day transitional housing there (see below).
+The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) used to operate a shelter in the north county, but now only offers 90-day transitional housing there ([see below](#transitional-and-long-term-housing)).
 
 There is a shelter in Santa Maria, the [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter).
 They offer 90-day emergency homeless shelter to people from the Santa Maria Valley area.
@@ -891,7 +891,7 @@ You can apply for this insurance on-line at [mylowcostauto.com](https://www.mylo
 
 ### Safe Parking for People Living in Vehicles
 
-See [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks) to learn about options for places to park safely and legally if you live in your vehicle.
+> See [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks) to learn about options for places to park safely and legally if you live in your vehicle.
 
 ## <a id="where-to-find-free-or-thrift-store-clothing">Clothing</a>
 
@@ -956,7 +956,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**Bargain Boutique**](Directory.md#Bargain-Boutique)
 - [**Fred & Betty's Thrift Store**](Directory.md#Fred-and-Bettys)
 - [**Goodwill Outlet**](Directory.md#Goodwill) and [**Goodwill Store**](Directory.md#Goodwill)
-- Lumina Alliance thrift store (opening late October 2025) <!-- To-do: add location, phone number, hours, and other details once the store opens and information becomes available -->
+- [**Lumina Thrift**](Directory.md#Lumina-Thrift)
 - [**Mission Thrift**](Directory.md#Mission-Thrift)
 - [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
 
@@ -1037,12 +1037,15 @@ This includes when a person:
 - Takes a dangerous overdose of a drug or poison
 - Has a seizure (especially if it lasts longer than five minutes or if the person has never had a seizure before)
 - Has a severe mental health crisis in which they are an immediate danger to themselves or others
--calm and speak clearly to the 911 dispatcher. The dispatcher will guide you through the process, and may ask you for:
-- Your exact location — Give the full address, including apartment number, floor, or any access instructions. If you’re unsure of the address, describe nearby landmarks or cross streets.
-- The nature of the emergency — Briefly describe what happened and the person’s current condition.
-- The patient’s condition — Report whether the person is conscious, breathing, and responsive. Describe visible injuries or symptoms.
-- Your relationship to the patient — State whether you are family, a friend, or a bystander.
-- Your contact information — Provide a phone number where re­sponders can reach you.
+
+Stay calm and speak clearly to the 911 dispatcher.
+The dispatcher will guide you through the process, and may ask you for:
+
+- **Your exact location** — Give the full address, including apartment number, floor, or any access instructions. If you’re unsure of the address, describe nearby landmarks or cross streets.
+- **The nature of the emergency** — Briefly describe what happened and the person’s current condition.
+- **The patient’s condition** — Report whether the person is conscious, breathing, and responsive. Describe visible injuries or symptoms.
+- **Your relationship to the patient** — State whether you are family, a friend, or a bystander.
+- **Your contact information** — Provide a phone number where re­sponders can reach you.
 
 Do not hang up until the dispatcher tells you to.
 The dispatcher may tell you how to provide care while you wait for help to arrive.
@@ -1374,49 +1377,30 @@ The [**Community Health Centers**](Directory.md#CHC) office at 1057 E. Grand Ave
 
 [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a women’s mobile health unit.
 
-1. All the stuff in [our current health resources booklet](https://showerthepeopleslo.org/health-and-medical-care-resources/), plus maybe:
-   1. First aid tips, tips for extreme hot/cold/wet weather?
-   1. Weight loss?
-   1. Health education (e.g. CPR training, overdose prevention training)?
-      - **American Red Cross**: Offers CPR training in California with 2-year certification meeting OSHA requirements; in-person, blended learning, and online options
-         - Location/Phone/Hours: See [**Red Cross**](Directory.md#Red-Cross) in the [Directory](Directory.md)
-      - **Cuesta College Community Education**: American Red Cross Adult and Pediatric CPR/AED and First Aid classes; 2-year certificate
-         - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - Local providers: Star CPR, Central Coast CPR, LifeGuard CPR and Aquatics
-      - **Dignity Health**: [Educational events and programs](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/educational-events)
-      - Sources: [redcross.org](https://www.redcross.org/local/california/take-a-class/cpr), [cuesta.edu](https://www.cuesta.edu/communityprograms/community-education/special_interest/CPR.html)
-   1. How to identify, avoid, treat poison oak
-   1. Tips for avoiding / treating sunburn
-   1. [thERApy](https://therapyera.com/) website has a mention of "sliding scale" fees but otherwise nothing indicating that they're especially accommodating to people of limited means; seems to specialize in various "marginalized" populations, though.
-   1. **[Genoa Pharmacy](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)**—On-site pharmacy for SLO County Behavioral Health
-      - What’s Available: Medication pickup for behavioral health clients and general public, free mail delivery of prescriptions, pharmacist consultation, services in Spanish, medication packaging options
-      - Location/Phone/Hours: See [**Genoa Pharmacy**](Directory.md#Genoa-Pharmacy) in the [Directory](Directory.md)
-      - Eligibility: Open to behavioral health clients, employees, and general public; no special documents required
-      - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)
+### Uncategorized
+
+1. First aid tips, tips for extreme hot/cold/wet weather?
+1. Weight loss?
+1. Health education (e.g. CPR training, overdose prevention training)?
+   - **American Red Cross**: Offers CPR training in California with 2-year certification meeting OSHA requirements; in-person, blended learning, and online options
+      - Location/Phone/Hours: See [**Red Cross**](Directory.md#Red-Cross) in the [Directory](Directory.md)
+   - **Cuesta College Community Education**: American Red Cross Adult and Pediatric CPR/AED and First Aid classes; 2-year certificate
+      - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
+   - Local providers: Star CPR, Central Coast CPR, LifeGuard CPR and Aquatics
+   - **Dignity Health**: [Educational events and programs](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/educational-events)
+   - Sources: [redcross.org](https://www.redcross.org/local/california/take-a-class/cpr), [cuesta.edu](https://www.cuesta.edu/communityprograms/community-education/special_interest/CPR.html)
+1. How to identify, avoid, treat poison oak
+1. Tips for avoiding / treating sunburn
+1. [thERApy](https://therapyera.com/) website has a mention of "sliding scale" fees but otherwise nothing indicating that they're especially accommodating to people of limited means; seems to specialize in various "marginalized" populations, though.
+1. **[Genoa Pharmacy](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)**—On-site pharmacy for SLO County Behavioral Health
+   - What’s Available: Medication pickup for behavioral health clients and general public, free mail delivery of prescriptions, pharmacist consultation, services in Spanish, medication packaging options
+   - Location/Phone/Hours: See [**Genoa Pharmacy**](Directory.md#Genoa-Pharmacy) in the [Directory](Directory.md)
+   - Eligibility: Open to behavioral health clients, employees, and general public; no special documents required
+   - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)
 1. **[The Link Family Resource Center](https://linkslo.org/)**
    - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
    - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
    - Source: [linkslo.org](https://linkslo.org/)
-1. **California Children's Services**
-   - Location/Phone/Email/Hours: See [**California Children's Services**](Directory.md#California-Childrens-Services) in the [Directory](Directory.md)
-   - What's Available: Arranges, directs, and pays for medical care, equipment, and rehabilitation for children and youth with certain medical conditions who are unable to pay
-   - How to access: Parents apply by submitting an application at the local CCS office
-   - Website: [dhcs.ca.gov/services/ccs](https://dhcs.ca.gov/services/ccs)
-1. **Infant SEE**
-   - [infantsee.org](https://www.infantsee.org/)
-   - Can search for optometry providers offering "No-cost Infant Assessments" at [their "Find a Doctor" page](https://www.infantsee.org/find-a-doctor)
-     - But when I searched, the closest one was in Santa Maria
-1. **UnitedHealthcare Children's Foundation**
-   - Phone/Email: See [**UnitedHealthcare Children's Foundation**](Directory.md#UnitedHealthcare-Childrens-Foundation) in the [Directory](Directory.md)
-   - What's Available: Helps with medical expenses not covered, or not fully covered, by a child's family's commercial health insurance
-   - How to access: Apply at [uhccf.org/apply-for-a-grant](https://www.uhccf.org/apply-for-a-grant/)
-   - Website: [uhccf.org](https://www.uhccf.org/)
-   - Qualifications:
-     - patient is 16 years old or younger
-     - family is low income (AGI)
-     - patient must have a U.S. Social Security Number (not a TIN)
-     - patient must have commercial health insurance coverage
-     - need must be documented by a physician
 1. [**Resilient Ones**](https://www.resilientsouls.org/)
    - Website is a little vague about what they offer, to whom, and on what terms. But it appears to be some sort of counseling and aid ("peer support groups, healing programs, and trauma-informed training") for "victims of trauma, abuse, and exploitation" in particular for victims of "human trafficking."
    - Phone: [805-674-5056](tel:+1-805-674-5056)

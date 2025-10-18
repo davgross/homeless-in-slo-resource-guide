@@ -1534,6 +1534,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - [805-781-6400](tel:+1-805-781-6400) (Business line)
 - Note: RISE merged with Stand Strong in 2021 to form Lumina Alliance
 
+## <a id="Lumina-Thrift">Lumina Thrift</a>
+
+- [luminaalliance.org/thriftstore](https://luminaalliance.org/thriftstore/)
+- Location: 545 Higuera St., SLO
+- Phone: 805-592-3596
+- Hours: M–Sa 10am–5pm
+
 ## LyonHeart Place
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
