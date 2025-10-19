@@ -44,7 +44,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks)
    1. [Transitional and Long-Term Housing](#transitional-and-long-term-housing)
    1. [For U.S. Military Veterans](#housing-veterans)
-   1. [Sober Living Homes](#sober-living-homes)
+   1. [Sober Living Homes and Residential Treatment Options](#sober-living-homes)
 1. [Property Storage Options](#property-storage-options)
    1. [Short-Term](#short-term-property-storage)
    1. [Long-Term](#long-term-property-storage)
@@ -90,7 +90,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [Naloxone / Narcan](#naloxone-narcan)
    1. [Tobacco / Nicotine](#tobacco-nicotine)
    1. [12-Step and Similar Recovery Programs](#twelve-step)
-   1. Sober Living Homes and Residential Treatment Options
+   1. [Sober Living Homes and Residential Treatment Options](#sober-living-homes) <!-- Subsection actually in Housing/Shelter section -->
 1. [Tattoo Removal](#tattoo-removal)
 1. [End-of-Life Care, Advance Directives, Hospice](#end-of-life-care-advance-directives-hospice)
    1. [Hospice and Palliative Care](#hospice-and-palliative-care)
@@ -113,7 +113,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. Miscellany
 1. [IDs and Other Documents](#ids-and-other-documents)
    1. [Social Security Numbers or Cards](#social-security-numbers-or-cards)
-   1. [ID Cards and Driver's Licenses](#id-cards-drivers-licenses)
+   1. [ID Cards and Driver’s Licenses](#id-cards-drivers-licenses)
    1. [Birth, Death, and Marriage Certificates](#birth-death-marriage-certificates)
 1. [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc)
 1. [Banking and Money Management](#banking-and-money-management)
@@ -142,6 +142,7 @@ If you would like to suggests corrections or improvements, or if you would like 
 1. [Disaster Planning/Prep (Earthquakes, Fires, Floods)](#disaster-planningprep-earthquakes-fires-floods)
 1. [Advocacy & Lobbying for Homeless Issues](#advocacy--lobbying-for-homeless-issues)
 1. [Miscellaneous Free Items (e.g. Household Goods)](#miscellaneous-free-items-eg-household-goods)
+   1. [Thrift Stores](#thrift-stores) <!-- subsection actually in "Clothing" section -->
 1. [Other Guides, Web Pages, Information Sources](#other-guides-web-pages-information-sources)
 1. [Miscellaneous Tips](#miscellaneous-tips)
 1. [Directory](Directory.md)
@@ -184,7 +185,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–9pm EST)</td></tr>
    <tr><td><a href="tel:+1-800-232-4636">800-232-4636</a></td><td>CDC-INFO: for questions about HIV, viral hepatitis, STDs, or tuberculosis (M–F 8am–8pm ET)</td></tr>
    <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>SLO County Behavioral Health Access Line: Main number for scheduling appointments and getting information about all behavioral health services including navigation and peer support</td></tr>
-   <tr><td><a href="tel:+1-855-600-9276">855-600-9276</a></td><td>California Peer Run Warm Line (also available as a web-based text chat <a href="https://www.mentalhealthsf.org/warm-line">here</a> for people with "a wide range of challenges, including anxiety, depression, and substance use"</td></tr>
+   <tr><td><a href="tel:+1-855-600-9276">855-600-9276</a></td><td>California Peer Run Warm Line (also available as a web-based text chat <a href="https://www.mentalhealthsf.org/warm-line">here</a> for people with “a wide range of challenges, including anxiety, depression, and substance use”</td></tr>
    <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a></td><td>Kick It California, smoking cessation help</td></tr>
    <tr><td><a href="tel:+1-800-662-4357">800-662-4357</a></td><td>Substance Abuse and Mental Health Service Administration (SAMHSA) national helpline (free, confidential, 24/7 substance abuse treatment referral and info)</td></tr>
    <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Alcoholics Anonymous 24/7 helpline</td></tr>
@@ -518,7 +519,7 @@ The RVs are in working condition, with no leaks; you must obtain insurance.
 
 > See [Automobile Insurance and Repair](#auto-insurance-and-repair) for tips on how to obtain low-cost auto insurance.
 
-### <a id="sober-living-homes">Sober Living Homes</a>
+### <a id="sober-living-homes">Sober Living Homes and Residential Treatment Options</a>
 
 [**SLO Hub**](Directory.md#SLO-Hub) helps you find a residential (live-in) recovery program that’s right for you, and can pay the deposit and rent for the opening months of your residency if you cannot afford it or if your insurance does not cover it.
 Here are some residential treatment options in our area:
@@ -938,7 +939,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**California Cool Thrift Store**](Directory.md#California-Cool-Thrift-Store)
 - [**Goodwill Store**](Directory.md#Goodwill)
 - [**Second Chances Thrift Store**](Directory.md#Second-Chances-Thrift-Store)
-- [**St. Patrick's Shamrock Thrift**](Directory.md#St-Patricks-Shamrock-Thrift)
+- [**St. Patrick’s Shamrock Thrift**](Directory.md#St-Patricks-Shamrock-Thrift)
 - [**St. Barnabas Thrift Shop**](Directory.md#St-Barnabas-Thrift-Shop)
 
 **Morro Bay:**
@@ -954,7 +955,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store)
 - [**Assistance League Thrift Store**](Directory.md#Assistance-League-Thrift-Store)
 - [**Bargain Boutique**](Directory.md#Bargain-Boutique)
-- [**Fred & Betty's Thrift Store**](Directory.md#Fred-and-Bettys)
+- [**Fred & Betty’s Thrift Store**](Directory.md#Fred-and-Bettys)
 - [**Goodwill Outlet**](Directory.md#Goodwill) and [**Goodwill Store**](Directory.md#Goodwill)
 - [**Lumina Thrift**](Directory.md#Lumina-Thrift)
 - [**Mission Thrift**](Directory.md#Mission-Thrift)
@@ -1983,7 +1984,7 @@ If you are unable to complete this on-line process, you can visit the local Soci
 It will go more smoothly if you can bring some alternative form of identification like a driver’s license or passport.
 In the absence of those, a military ID, employee ID, school ID, or health insurance card might be helpful.
 
-### <a id="id-cards-drivers-licenses">ID Cards and Driver's Licenses</a>
+### <a id="id-cards-drivers-licenses">ID Cards and Driver’s Licenses</a>
 
 A state-issued “Real ID,” or a California driver’s license which is also a Real ID, is a useful form of government-issued photo identification card that is widely accepted by a variety of programs, businesses, and service providers.
 You get such an identification card from the [**California DMV**](Directory.md#California-DMV).
@@ -3135,7 +3136,7 @@ There is no charge to the pet owner, but donations are appreciated.
 The [**40 Prado Homeless Services Center**](Directory.md#40-prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests).
 Pets must have documented rabies vaccinations.
 
-[**Cal Poly "Doggy Days" Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
+[**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
 They happen 3–4 times per quarter at various locations around SLO County, often coordinating with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People)
 
 THe [**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have limited funds.

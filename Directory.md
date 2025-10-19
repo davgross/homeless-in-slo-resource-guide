@@ -203,7 +203,7 @@
 
 > *See [**SLO Cal Careers Center**](#SLO-Cal-Careers-Center)*
 
-## Anna's Home
+## Anna’s Home
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
@@ -250,8 +250,8 @@
 - Mailing: P.O. Box 14260, SLO, CA 93406
 - Notes:
    - Operates [**Assistance League Thrift Store**](#Assistance-League-Thrift-Store)
-   - Operates "Operation School Bell"
-   - Operates "Access to Career Education (ACE)"
+   - Operates “Operation School Bell”
+   - Operates “Access to Career Education (ACE)”
 
 ## <a id="Assistance-League-Thrift-Store">Assistance League Thrift Store</a>
 
@@ -262,7 +262,7 @@
 
 ## <a id="Balay-Ko-on-Barka">Balay Ko on Barka</a>
 
-> *a.k.a. "My Home for Hope"*
+> *a.k.a. “My Home for Hope”*
 
 - Location: Barca St. in Grover Beach
 - Phone: [805-305-3031](tel:+1-805-305-3031)
@@ -336,7 +336,7 @@
 - Phone: [805-481-3071](tel:+1-805-481-3071)
 - Hours: Daily 10am–5pm
 
-## <a id="California-Childrens-Services">California Children's Services</a>
+## <a id="California-Childrens-Services">California Children’s Services</a>
 
 - [dhcs.ca.gov/services/ccs](https://dhcs.ca.gov/services/ccs)
 - Location: 2925 McMillan Ave. #108, SLO
@@ -408,7 +408,7 @@
 - Phone: [805-756-1532](tel:+1-805-756-1532)
 - How to access: No walk-ins; Call to make an appointment.
 
-## <a id="Cal-Poly-Doggy-Days">Cal Poly "Doggy Days" Veterinary Clinics</a>
+## <a id="Cal-Poly-Doggy-Days">Cal Poly “Doggy Days” Veterinary Clinics</a>
 
 - Social media:
    - Facebook: [facebook.com/calpolydoggydays](https://www.facebook.com/calpolydoggydays/)
@@ -683,14 +683,14 @@
 - Hours: M-F 8am–4:30pm
 - Email: [css@co.slo.ca.us](mailto:css@co.slo.ca.us)
 
-## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children's Resource Network of the Central Coast</a>
+## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
 
 - [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org)
    - Note: website seems to be down
 - Mailing Address: P.O. Box 454, Pismo Beach, CA 93448-0454
 - Phone: [805-709-8673](tel:+1-805-709-8673)
 - Email: [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org)
-- Notes: Operates "Outreach Apparel" and "The Teen's Closet"; organization exists but website is down (as of September 2025); appears on nonprofit databases including Charity Navigator and GuideStar; contact by phone or email to verify current services and status
+- Notes: Operates “Outreach Apparel” and “The Teen’s Closet”; organization exists but website is down (as of September 2025); appears on nonprofit databases including Charity Navigator and GuideStar; contact by phone or email to verify current services and status
 
 ## <a id="City-of-SLO-Parks-and-Recreation">City of SLO Parks and Recreation</a>
 
@@ -707,9 +707,14 @@
 ## <a id="CoastHills-Credit-Union">CoastHills Credit Union</a>
 
 - [coasthills.coop](https://coasthills.coop/)
-- Location: 751 Marsh St., SLO
+- Locations:
+   - 1360 E. Grand Ave., Arroyo Grande
+   - 8900 Pueblo Ave., Atascadero
+   - 671 W. Tefft St. #6, Nipomo
+   - 1402 Spring St., Paso Robles
+   - 751 Marsh St., SLO
 - Phone: [805-733-7600](tel:+1-805-733-7600) / [800-262-4488](tel:+1-800-262-4488)
-- Hours: M-Th 9am-5pm, F 9am-6pm
+- Hours: M–Th 9am–5pm, F 9am–6pm, (also Sa. 10am–1pm at Arroyo Grande and Paso Robles branches only)
 
 ## Commission for Senior Citizens
 
@@ -991,7 +996,7 @@
 - Location: Mitchell Park, SLO
 - Hours: Su 1–3pm
 
-## <a id="Fred-and-Bettys">Fred & Betty's Thrift Store</a>
+## <a id="Fred-and-Bettys">Fred & Betty’s Thrift Store</a>
 
 - Location: 532 Higuera St., SLO
 - Phone: [805-593-0255](tel:+1-805-593-0255)
@@ -1012,7 +1017,7 @@
 - Location: 1468 E. Foothill, SLO
 - Phone: [818-731-4984](tel:+1-818-731-4984)
 - Email: [director@frontporchslo.org](mailto:director@frontporchslo.org)
-- How to access: oriented toward students from Cuesta College or Cal Poly, but "Whoever you are, you are welcome here."
+- How to access: oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here.”
 - Note: Hours of operation not available on their website (as of September 2025); contact them directly for current hours
 
 ## <a id="Genoa-Pharmacy">Genoa Pharmacy</a>
@@ -1027,16 +1032,19 @@
 
 > *See [**Tri-County GLAD**](#Tri-County-GLAD)*
 
-## God's Storehouse
+## God’s Storehouse
 
 > *See [**Grace Central Coast**](#Grace-Central-Coast)*
 
 ## <a id="Golden-1-Credit-Union">Golden 1 Credit Union</a>
 
 - [golden1.com](https://www.golden1.com)
-- Location: 852 E. Foothill Blvd., SLO
+- Locations:
+   - 8727 El Camino Real, Atascadero
+   - 128 Niblick Rd., Paso Robles
+   - 852 E. Foothill Blvd., SLO
 - Phone: [877-465-3361](tel:+1-877-465-3361)
-- Hours: M-F 10am-5pm, Sa 10am-2pm
+- Hours: M–F 10am–5pm, Sa 10am–2pm
 
 ## <a id="Good-Samaritan-Shelter">Good Samaritan Shelter</a>
 
@@ -1162,7 +1170,7 @@
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
-## <a id="Hopes-Village">Hope's Village</a>
+## <a id="Hopes-Village">Hope’s Village</a>
 
 - [hopesvillageofslo.com](https://hopesvillageofslo.com/)
 - Mailing address: PO Box 1991, Templeton, CA 93465
@@ -1173,7 +1181,7 @@
 - [hospiceslo.org](https://hospiceslo.org/)
 - Location: Dorothy D. Rupe Center, 1304 Pacific St., SLO
 - Phone: [805-544-2266](tel:+1-805-544-2266)
-- Hours: M-F 10am-4pm
+- Hours: M–F 10am–4pm
 - Notes: All services provided at no charge; does not bill insurance
 
 ## <a id="HPE">Hospital Presumptive Eligibility (HPE)</a>
@@ -1549,7 +1557,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 - [marijuana-anonymous.org](https://marijuana-anonymous.org/)
 
-## <a id="Marthas-Place-Childrens-Center">Martha's Place Children's Center</a>
+## <a id="Marthas-Place-Childrens-Center">Martha’s Place Children’s Center</a>
 
 - [slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/marthas-place-childrens-center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center)
 - Location: 2925 McMillan Ave. #108, SLO
@@ -1561,7 +1569,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 - [mealsthatconnect.org](https://mealsthatconnect.org/en/)
 - Phone: [805-541-3312](tel:+1-805-541-3312)
-- Hours: M-F 12pm-1pm (for ages 60+)
+- Hours: M–F 12pm–1pm (for ages 60+)
 
 ## <a id="Medi-Cal">Medi-Cal</a>
 
@@ -1616,7 +1624,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Location: SLO
 - Phone: [805-544-8328](tel:+1-805-544-8328)
 
-## Minister's Discretionary Fund
+## Minister’s Discretionary Fund
 
 > *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
 
@@ -1979,12 +1987,12 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: [805-270-4023](tel:+1-805-270-4023)
 - Hours: Tu–F 10am–4pm, Sa Noon–4pm
 
-## <a id="St-Patricks-Church">Saint Patrick's Church</a>
+## <a id="St-Patricks-Church">Saint Patrick’s Church</a>
 
 - Location: 501 Fair Oaks Dr., Arroyo Grande
 - Hours (food pantry): Tu/W/Th 4–5pm
 
-## <a id="St-Patricks-Shamrock-Thrift">St. Patrick's Shamrock Thrift</a>
+## <a id="St-Patricks-Shamrock-Thrift">St. Patrick’s Shamrock Thrift</a>
 
 - Location: 924 W. Grand Ave., Grover Beach
 - Phone: [805-481-0612](tel:+1-805-481-0612)
@@ -2010,11 +2018,11 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    1. Morro Bay Service Extension
       - Location: 540 Quintana Rd, Morro Bay
       - Phone: [805-772-7062](tel:+1-805-772-7062)
-      - Note: Eva says it's closed (9/4/25)
+      - Note: Eva says it’s closed (9/4/25)
    1. Paso Robles Service Extension
       - Location: 711 Paso Robles Street, Paso Robles
       - Phone: [805-238-9591](tel:+1-805-238-9591)
-      - Note: Eva says it's closed (9/4/25)
+      - Note: Eva says it’s closed (9/4/25)
 
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
@@ -2059,8 +2067,14 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## <a id="SESLOC-Credit-Union">SESLOC Credit Union</a>
 
 - [sesloc.org](https://www.sesloc.org/)
+- Locations:
+   - 1399 Grand Ave., Arroyo Grande
+   - 8380 El Camino Real, Atascadero
+   - 1 Grand Ave. Bldg. 65, Cal Poly (closed during academic break periods)
+   - 705 Golden Hill Rd., Paso Robles
+   - 3807 Broad St., SLO
 - Phone: [805-543-1816](tel:+1-805-543-1816)
-- Notes: Multiple Central Coast locations; accepts ITINs; generally more accommodating for people with alternative address arrangements
+- Hours: M–F 9am–5pm
 
 ## <a id="Shower-the-People">Shower the People</a>
 
@@ -2292,8 +2306,8 @@ creston, san miguel, shandon
 
 - Location: County Government Center Room 223, SLO
 - Phone: [805-781-5856](tel:+1-805-781-5856)
-- Hours: M-F 9am-12pm
-- Note: Provided by District Attorney's Economic Crime Unit; advisor is not an attorney; no appointment necessary
+- Hours: M–F 9am–12pm
+- Note: Provided by District Attorney’s Economic Crime Unit; advisor is not an attorney; no appointment necessary
 
 ## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
 
@@ -2317,13 +2331,14 @@ creston, san miguel, shandon
 - Location: 1050 Monterey St., Room 220, SLO
 - Phone: [805-706-3617](tel:+1-805-706-3617)
 - Hours: M–F 8:30am–4:30pm
-- Notes: Includes "Family Law Facilitator" and "Self-Help Center"
+- Notes: Includes “Family Law Facilitator” and “Self-Help Center”
 
 ## <a id="SLO-Credit-Union">SLO Credit Union</a>
 
 - [slocu.com](https://slocu.com/)
 - Location: 1220 Osos St., SLO
 - Phone: [805-543-5839](tel:+1-805-543-5839)
+- Hours: M–F 9am–4:30pm (lobby closed noon–2pm)
 
 ## <a id="SLO-Food-Bank">SLO Food Bank</a>
 
@@ -2423,7 +2438,7 @@ creston, san miguel, shandon
    - Grover Beach Branch: 214 S. 16th St., Grover Beach
    - Juvenile Services Center: 1050 Monterey St., SLO
    - Paso Robles Branch: 901 Park St., Paso Robles
-   - Veteran's Memorial Branch: 801 Grand Ave., SLO
+   - Veteran’s Memorial Branch: 801 Grand Ave., SLO
 - Phone: [805-706-3600](tel:+1-805-706-3600) (Civil & Family Law Branch and Criminal Branch)
 
 ## <a id="SLO-Transit">SLO Transit</a>
@@ -2480,7 +2495,7 @@ creston, san miguel, shandon
 
 > *See [**Lumina Alliance**](#Lumina-Alliance)*
 
-## <a id="Steves-Recycling">Steve's Recycling - Los Osos</a>
+## <a id="Steves-Recycling">Steve’s Recycling - Los Osos</a>
 
 - Location: 1130 Los Osos Valley Rd., Los Osos
 - Phone: [805-801-1627](tel:+1-805-801-1627)
@@ -2590,13 +2605,13 @@ creston, san miguel, shandon
    - refugee and immigrant services: 1st & 3rd Sunday each month, 12:30–2:30pm
 - How to access:
    - we care foodshare food pantry: show up during hours of operation
-   - minister's discretionary fund: email with a specific request
+   - minister’s discretionary fund: email with a specific request
    - refugee and immigrant services education: show up during hours of operation (no appointment necessary)
 - Notes:
    - operates the “Minister’s Discretionary Fund,” “Refugee and Immigrant Services Education,” and “We Care Foodshare”
    - hosts [**Shower the People**](#Shower-the-People) on Tuesdays and Thursdays
 
-## <a id="UnitedHealthcare-Childrens-Foundation">UnitedHealthcare Children's Foundation</a>
+## <a id="UnitedHealthcare-Childrens-Foundation">UnitedHealthcare Children’s Foundation</a>
 
 - [uhccf.org](https://www.uhccf.org/)
 - Phone: [855-698-4223](tel:+1-855-698-4223)

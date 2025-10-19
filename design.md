@@ -1,3 +1,5 @@
+# SLO County Homeless Resource Guide
+
 The app has three sections:
 
 1. **Resources:** Category-specific pages with descriptive paragraphs explaining available resources, with links to relevant Directory entries
@@ -15,7 +17,7 @@ Resource descriptions contain links to **Directory** entries that open in a visu
 **Directory** links either show specific entries or display the full directory with the relevant item highlighted and on-screen.
 We might consider split-screen layout (**Resource** + **Directory**) when screen space permits.
 
-## User Experience Priorities:
+## User Experience Priorities
 
 - Mobile-first design (phones, tablets, desktops); assume most users access via phones
 - Accessibility-aware (color blindness, cognitive challenges, limited literacy)
@@ -29,21 +31,20 @@ We might consider split-screen layout (**Resource** + **Directory**) when screen
 - Map integration: Addresses open user's preferred map app with location centered
 - Search feature of some sort?
 
-## Content Structure:
+## Content Structure
 
 - Structured **Directory** entries mostly have standardized information (website/phone/email/location/hours/etc.)
 - **Resources** mostly in paragraph form, maybe with occasional tables and lists
 - Integrated internal comments system for things like verification dates and methods, agency contacts, and data quality notes, visible to us but not to the end user
 
-## Development Features:
+## Development Features
 
 - Easy data editing interface for quick onboarding of editors and fact-checkers
 - Automated validation: Pre-build checks for broken internal links and data syntax
 - Easy deployment: Simple rebuild/redeploy process for frequent data updates
 
-## Hosting:
+## Hosting
 
 - Standalone deployment with dedicated, memorable URL.
 - Independent of existing WordPress site.
 - Optimized for frequent content updates.
-
