@@ -292,6 +292,12 @@
 - Phone: [805-540-6500](tel:+1-805-540-6500) (Mark Lamore, Director of Homeless Services at [**TMHA**](#TMHA))
 - How to access: must be referred by another agency
 
+## <a id="Bella-Vista-by-the-Sea">Bella Vista by the Sea</a>
+
+- [bellavistabythesea.com](https://www.bellavistabythesea.com/)
+- Location: 350 N. Ocean Ave., Cayucos
+- Phone: [805-995-3644](tel:+1-805-995-3644)
+
 ## <a id="Bike-Kitchen">Bike Kitchen</a>
 
 - [bikeslocounty.org/programs/kitchen](https://bikeslocounty.org/programs/kitchen/)
@@ -1479,20 +1485,22 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
       - 193 San Jose Court
    - Templeton: 806 Old Country Rd.
 
-## <a id="Loaves-and-Fishes">Loaves & Fishes</a>
+## <a id="Loaves-and-Fishes-Atascadero">Loaves & Fishes (Atascadero)</a>
 
-- [loavesandfishespaso.org](https://loavesandfishespaso.org) (Paso Robles)
-- [alffoodpantry.org](https://alffoodpantry.org/) (Atascadero)
-- Locations:
-   - 5411 El Camino Real, Atascadero
-   - 2650 Spring St., Paso Robles
-- Phone:
-   - [805-461-1504](tel:+1-805-461-1504) (Atascadero)
-   - [805-238-4742](tel:+1-805-238-4742) (Paso Robles)
-- Email: [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org) (Atascadero)
-- Hours:
-   - Atascadero: M–F 1pm
-   - Paso Robles: M–Th Noon–2pm, every 3rd Th 5:30–7pm
+- [alffoodpantry.org](https://alffoodpantry.org/)
+- Location: 5411 El Camino Real, Atascadero
+- Phone: [805-461-1504](tel:+1-805-461-1504)
+- Email: [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org)
+- Hours: M–F 1pm
+- Notes: Not affiliated with [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
+
+## <a id="Loaves-and-Fishes-Paso-Robles">Loaves & Fishes (Paso Robles)</a>
+
+- [loavesandfishespaso.org](https://loavesandfishespaso.org)
+- Location: 2650 Spring St., Paso Robles
+- Phone: [805-238-4742](tel:+1-805-238-4742)
+- Hours: M–Th Noon–2pm, every 3rd Th 5:30–7pm
+- Notes: Not affiliated with [**Loaves & Fishes (Atascadero)**](#Loaves-and-Fishes-Atascadero)
 
 ## <a id="Long-Term-Care-Ombudsman">Long Term Care Ombudsman</a>
 
@@ -2037,6 +2045,12 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: [805-548-8884](tel:+1-805-548-8884)
 - Hours: M–Th 9am–3pm (scheduling); consultations Tu 4:30–6:30pm
 
+## <a id="Santa-Margarita-KOA-Holiday">Santa Margarita KOA Holiday</a>
+
+- [koa.com/campgrounds/santa-margarita](https://koa.com/campgrounds/santa-margarita/)
+- Location: 4765 Santa Margarita Lake Rd., Santa Margarita
+- Phone: [805-438-5618](tel:+1-805-438-5618)
+
 ## <a id="Santa-Margarita-Lake-Recreation-Area">Santa Margarita Lake Recreation Area</a>
 
 - [slocountyparks.com/camp/santa-margarita-lake/](https://slocountyparks.com/camp/santa-margarita-lake/)
@@ -2087,6 +2101,12 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## Sierra Vista Hospital
 
 > *See [**Adventist Health Sierra Vista**](#Adventist-Health-Sierra-Vista)*
+
+## <a id="Silver-City-Resort">Silver City Resort</a>
+
+- [silvercitymorrobay.com](https://www.silvercitymorrobay.com/)
+- Location: 500 Atascadero Rd., Morro Bay
+- Phone: [805-772-7478](tel:+1-805-772-7478)
 
 ## <a id="SLO4Home">SLO4Home</a>
 
