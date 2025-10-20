@@ -9,6 +9,8 @@ It was originally written as a long nested list, but is transitioning to heading
 The @Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide outline.
 Use this as the single source of truth for those data; cross-reference Directory entries from the Resource Guide rather than reproducing those data in the Resource Guide.
 
+The @design.md file gives some high-level direction about the web app that will present this data to the user.
+
 ### About The Target Audience of the Guide
 
 The target audience for the guide this outline describes is people who are homeless or at risk of homelessness in San Luis Obispo (SLO) County.

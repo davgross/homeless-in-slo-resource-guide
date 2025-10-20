@@ -23,6 +23,7 @@ We might consider split-screen layout (**Resource** + **Directory**) when screen
 - Accessibility-aware (color blindness, cognitive challenges, limited literacy)
 - Simple, intuitive interface with clear visual section distinctions
 - Fast loading with few or no server requests during operation
+   - Possibly a cached Progressive Web App
 - Cross-browser compatible
 - State persistence: Return users to their previous location within each section
 - Clear hierarchy navigation: Home/back/forward controls for **Resource** and **Directory** sections

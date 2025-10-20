@@ -206,62 +206,120 @@ If you would like to suggests corrections or improvements, or if you would like 
 
 ## <a id="tips-on-self-advocacy-and-for-communicating-with-service-providers">Tips on Self-Advocacy and for Communicating with Service Providers</a>
 
-1. **Building Effective Relationships with Case Managers and Service Providers**
-   - **Be prepared for appointments**
-      - **Bring documentation**: ID, any paperwork related to your situation, and a list of questions or needs
-      - **Be on time**: Arrive early when possible; call if you'll be late
-      - **Keep records**: Maintain a simple notebook or phone notes of appointments, contacts, and commitments made
-   - **Communication strategies**
-      - **Be honest and direct**: Clearly explain your situation, needs, and any barriers you're facing
-      - **Ask questions**: Don't hesitate to ask for clarification about programs, requirements, or next steps
-      - **Express appreciation**: Acknowledge when providers are helpful—positive relationships benefit everyone
-      - **Follow up**: Check back on promised actions or referrals if you don't hear back within reasonable time
-1. **Self-Advocacy Fundamentals**
-   - **Know your rights**
-      - **Fair treatment**: Many service providers have non-discrimination policies and strive for respectful treatment, though policies vary between agencies; some services may have specific eligibility restrictions (veterans-only, income limits, etc.)
-      - **Privacy**: Privacy policies vary by agency; government agencies often share information through HMIS (Homeless Management Information System); you'll receive privacy notices before data entry and can ask to review them later; some data may be required for services while other information can be withheld—ask about Release of Information (ROI) forms and their implications before signing
-      - **Appeal processes**: Many programs have procedures for appealing decisions or filing complaints—ask program staff or search online to find the specific process; legal aid organizations can help with appeals (see [Legal assistance](#legal-help--mediation-crime-victim-protection) section)
-   - **Document everything**
-      - **Keep copies**: Keep copies of important documents and applications
-      - **Protect against theft/loss**: Store documents in waterproof bags, use your backpack as a pillow when sleeping, keep most important items in body pockets (money in bra/tight coin pocket), consider safety deposit box if you have income
-      - **Take photos**: Use your phone to photograph important paperwork; enable automatic cloud backup (iCloud for iPhone, Google Photos for Android) so photos survive if phone is lost/stolen
-      - **Cloud storage notes**: iPhones come with 5GB free iCloud storage, Android phones get 15GB free Google storage; turn on automatic backup in Settings to protect document photos
-      - **Record interactions**: Note dates, names, and outcomes of important conversations
-      - **Reference numbers**: Keep case numbers, application numbers, and confirmation numbers
-1. **Strengths-Based Self-Advocacy**
-   - **Focus on your goals**: Clearly communicate what you're working toward (housing, employment, healthcare, etc.)
-   - **Highlight relevant assets**: Share skills, experience, education, and personal strengths when relevant to services sought (e.g., work experience for employment services, but not necessarily for basic needs like clothing or food)
-   - **Be imaginative and solution-oriented**: Come to meetings with ideas about what might work for your situation
-   - **Take initiative**: Follow through on commitments and take active steps toward your goals
-1. **Navigating System Barriers**
-   - **Understand program requirements**: Learn eligibility criteria, deadlines, and required steps for programs
-   - **Ask about alternatives**: If you don't qualify for one program, ask about other options
-   - **Request accommodations**: If you have disabilities or special needs, ask about available accommodations
-   - **Escalate when necessary**: If you're not getting help, ask to speak with supervisors, use formal complaint procedures and appeal processes, or find someone who knows the system well to help you navigate it more effectively (e.g. case manager, behavioral health navigator, legal aid, peer advocates)
-1. **Working with Multiple Service Providers**
-   - **Coordinate communications**: Let each provider know about other services you're receiving when relevant (e.g., tell housing programs about your income sources, but casual services like showers don't need to know about each other)
-   - **Avoid application duplication**: If an agency plans to apply for a service in your name, tell them if you've already applied independently to prevent duplicate applications; keep track of which applications you've made or have been made on your behalf to avoid wasting time re-doing what's already been done
-   - **Share information strategically**: Share information that's directly relevant to the services you're seeking (e.g., income for benefits applications, medical history for healthcare) while keeping unrelated personal details private
-   - **Keep a contact list**: Maintain current contact information for all your service providers; ask for direct phone numbers or business cards from people familiar with your case to avoid navigating phone trees
-1. **Motivational Interviewing and Goal Setting**
-   - **Set SMART goals**: Make your goals Specific, Measurable, Achievable, Relevant, and Time-bound
-   - **Break down big goals**: Divide major objectives (like housing) into smaller, manageable steps
-   - **Celebrate progress**: Acknowledge your achievements, even small ones
-   - **Adjust as needed**: Be flexible and willing to modify goals as circumstances change
-1. **When Things Go Wrong**
-   - **Stay calm and professional**: Even when frustrated, maintain respectful communication—this approach typically gets better results and faster resolution than confrontational approaches, though this may feel counterintuitive if you've learned to be assertive to protect yourself
-   - **Document problems**: Record details about issues, including dates, names, and specific problems
-   - **Don't give up too soon**: Persistence often pays off in navigating complex systems
-1. **Resource Navigation Tips**
-   - **Use 211**: Call 2-1-1 for comprehensive information about available services
-   - **Network with peers**: Other people in similar situations often have valuable information and tips
-   - **Stay informed**: Keep up with changes in programs, funding, and eligibility requirements; note that this guide reflects information available at publication time, which may change—always contact service providers directly to verify current information before traveling to locations
-   - **Build relationships**: Maintain connections with especially helpful providers even when not actively using their services
-1. **Managing Appointments and Commitments**
-   - **Use reminders**: Set phone alarms or ask for reminder calls when available
-   - **Plan transportation**: Ensure you have reliable transportation to appointments (see [Transportation](#transportation) section)
-   - **Prepare for wait times**: Bring something to do and expect some delays in busy service settings
-   - **Reschedule when necessary**: Call ahead if you need to change appointments rather than simply not showing up
+### Build Good Relationships with Case Managers and Service Providers
+
+When you meet with case managers and service providers, you can get better results by being prepared.
+Bring your ID, any paperwork about your situation, and a list of questions or needs.
+Arrive early if you can.
+If you will be late, call ahead.
+Keep a simple notebook or use your phone to write down appointments, contacts, and any promises people make to you.
+
+Be honest and direct when you explain your situation, your needs, and any problems you face.
+Ask questions if you need help understanding programs, requirements, or next steps.
+When providers help you, tell them you appreciate it.
+Good relationships help everyone.
+If someone promises to do something for you but you don't hear back in a reasonable time, check back with them.
+
+### Know Your Rights
+
+Many service providers have non-discrimination policies and try to treat people with respect, though policies vary between agencies.
+Some services have specific rules about who can use them (like veterans-only programs, or programs with income limits).
+
+Privacy policies vary by agency.
+Government agencies often share information through HMIS (Homeless Management Information System).
+You will receive privacy notices before they enter your data, and you can ask to review these notices later.
+Some data may be required to get services, but you can withhold other information.
+Ask about Release of Information (ROI) forms and what they mean before you sign them.
+
+Many programs have procedures for appealing decisions or filing complaints.
+Ask program staff or search online to find the specific process.
+Legal aid organizations can help with appeals (see the [Legal assistance](#legal-help--mediation-crime-victim-protection) section).
+
+### Document Everything
+
+Keep copies of important documents and applications.
+Store documents in waterproof bags.
+Use your backpack as a pillow when you sleep.
+Keep your most important items in clothes pockets.
+If you have income, consider getting a safety deposit box.
+
+Use your phone to take photos of important paperwork.
+Turn on automatic cloud backup (iCloud for iPhone, Google Photos for Android) so your photos survive if your phone is lost or stolen.
+Phones (iPhones & Androids) typically come with some amount of free cloud storage, so you can keep access to your photos even if you lose your phone.
+
+Write down the dates, names, and outcomes of important conversations.
+Keep case numbers, application numbers, and confirmation numbers.
+
+### Focus on Your Goals and Strengths
+
+Tell people clearly what you are working toward (housing, employment, healthcare, etc.).
+Share your skills, experience, education, and personal strengths when they matter for the services you want.
+For example, tell employment services about your work experience, but you don't need to tell basic needs programs (like clothing or food) about these things.
+
+Come to meetings with ideas about what might work for your situation.
+Follow through on promises you make and take active steps toward your goals.
+
+### Navigate System Barriers
+
+Learn the rules for programs: who can use them, when applications are due, and what steps you need to take.
+If you don't qualify for one program, ask about other options.
+If you have disabilities or special needs, ask about help they can provide.
+
+If you're not getting help, ask to speak with supervisors.
+Use formal complaint procedures and appeal processes.
+Or find someone who knows the system well to help you (like a case manager, behavioral health navigator, legal aid worker, or peer advocate).
+
+### Work with Multiple Service Providers
+
+Let each provider know about other services you get when it matters.
+For example, tell housing programs about your income sources.
+But casual services like showers don't need to know about each other.
+
+If an agency plans to apply for a service in your name, tell them if you already applied on your own.
+This prevents duplicate applications.
+Keep track of which applications you made or that others made for you.
+This helps you avoid wasting time doing the same thing twice.
+
+Share information that relates directly to the services you want.
+For example, share your income for benefits applications or your medical history for healthcare.
+Keep other personal details private.
+
+Keep a list of contact information for all your service providers.
+Ask for direct phone numbers or business cards from people who know your case.
+This helps you avoid phone trees.
+
+### Set Goals and Track Progress
+
+Make your goals “S.M.A.R.T.” (Specific, Measurable, Achievable, Relevant, and Time-bound).
+Divide big goals (like getting housing) into smaller steps you can manage.
+Notice and celebrate your achievements, even small ones.
+Be flexible and willing to change your goals as your situation changes.
+
+### When Things Go Wrong
+
+Even when you feel frustrated, stay calm and speak respectfully.
+This approach usually gets better results and faster solutions than arguing, though this may feel strange if you learned to be assertive to protect yourself.
+Write down details about problems, including dates, names, and what went wrong.
+Don't give up too soon.
+Sticking with it often pays off when you work with complex systems.
+
+### Find and Use Resources
+
+Use this guide or call [211](tel:+1-211) to get information about available services.
+Talk with other people in similar situations—they often have valuable information and tips.
+
+Remember that this guide shows information that was available when we published it.
+Things may change.
+Contact service providers directly to check current information before you travel to their locations.
+
+Stay in touch with providers who are especially helpful, even when you're not actively using their services.
+
+### Manage Appointments and Commitments
+
+Set phone alarms or ask for reminder calls when they are available.
+Make sure you have a way to get to appointments (see the [Transportation](#transportation) section).
+Bring something to do and expect some delays in busy service settings.
+If you need to change an appointment, call ahead rather than simply not showing up.
 
 ## <a id="where-to-find-shelter--housing">Shelter and Housing</a>
 
