@@ -454,6 +454,27 @@
 - Hours: Tu–Sa 10am–4pm
 - Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
 
+## <a id="Cambria-Vineyard-Church">Cambria Vineyard Church</a>
+
+<!-- Source: https://www.cambriavineyard.org/foodministry.html -->
+- [cambriavineyardchurch.org](https://cambriavineyardchurch.org/)
+- Location: 1617 Main St., Cambria
+- Phone: [805-927-5550](tel:+1-805-927-5550)
+- Email: [info@cambriavineyard.org](mailto:info@cambriavineyard.org)
+- Hours (food pantry): 2nd & 4th Thursdays, Noon–2pm
+- Notes: Offers bags of food to anyone in need; delivery available for those who are signed up and cannot pick up at the church
+
+## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
+
+<!-- Source: https://www.cayucoschurch.org/ministries/ -->
+- [cayucoschurch.org](https://www.cayucoschurch.org/)
+- Location: 60 S. 3rd St., Cayucos
+- Phone: [805-995-3821](tel:+1-805-995-3821)
+- Hours:
+   - Office: Tu–Th 10am–2pm (closed Fridays and holidays)
+   - Food pantry ("Harvest Bag"): 1st, 3rd, 4th, & 5th Wednesdays at 10:30am
+- Notes: Partners with SLO County Food Bank for weekly food distribution; also operates "Got Your Back" weekend food distribution for kids in need; hosts AA and Al-Anon support groups
+
 ## CAPSLO
 
 > *See [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
@@ -952,6 +973,14 @@
 - Email: [eyecareamerica@aao.org](mailto:eyecareamerica@aao.org)
 - How to access: To begin, fill out a questionnaire on their website
 
+## <a id="Fabulous-Finds-Quality-Thrifting">Fabulous Finds Quality Thrifting</a>
+
+<!-- Source: https://www.iwma.com/donation-locations -->
+- Location: 480 Morro Bay Blvd., Morro Bay
+- Phone: [805-772-2840](tel:+1-805-772-2840)
+- Hours: M 11am–5pm, W–Sa 11am–5pm (closed Tu & Su)
+- Notes: Staffed by volunteers; accepts furniture, small appliances, clothing, books, tools, and home goods
+
 ## <a id="Family-and-Industrial-Medical-Center">Family and Industrial Medical Center</a>
 
 - [fimcslo.com](https://fimcslo.com/)
@@ -997,6 +1026,13 @@
 - Hours: Every day 8am–6pm
 - Notes: RV park with seaside campsites, spacious RV sites, beach cottages (25 campsites total)
 
+## <a id="Foxys-Thrift-Shop">Foxy's Thrift Shop</a>
+
+<!-- Source: https://www.yelp.com/biz/foxys-thrift-store-morro-bay -->
+- Location: 655 Morro Bay Blvd., Morro Bay
+- Phone: [805-772-8800](tel:+1-805-772-8800)
+- Hours: Daily 10am–5pm
+
 ## <a id="Food-Not-Bombs">Food Not Bombs</a>
 
 - Location: Mitchell Park, SLO
@@ -1023,8 +1059,8 @@
 - Location: 1468 E. Foothill, SLO
 - Phone: [818-731-4984](tel:+1-818-731-4984)
 - Email: [director@frontporchslo.org](mailto:director@frontporchslo.org)
+- Hours: M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks)
 - How to access: oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here.”
-- Note: Hours of operation not available on their website (as of September 2025); contact them directly for current hours
 
 ## <a id="Genoa-Pharmacy">Genoa Pharmacy</a>
 
@@ -1271,6 +1307,14 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - Low-income seniors; HUD residents typically pay 30% of gross income for rent
    - Applications available only when waiting list is open; contact directly for current status
 
+## <a id="Kings-Cupboard">King's Cupboard at El Morro Church</a>
+
+<!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
+- Location: El Morro Church of the Nazarene, 1480 Santa Ysabel, Bldg. A, Los Osos
+- Phone: [805-528-0391](tel:+1-805-528-0391)
+- Hours: First four Tuesdays of each month, 9–11am
+- Notes: Provides groceries to supplement residents of Los Osos, Morro Bay, and Cayucos who are in need; not a USDA Commodities program and open to anyone who needs extra help
+
 ## <a id="Kritter-Care">Kritter Care</a>
 
 - [krittercare.org](https://krittercare.org/)
@@ -1293,6 +1337,16 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Email: [info@lesageriviera.com](mailto:info@lesageriviera.com)
 - Hours: M–Sa 9am–4:30pm, Su 9am–3pm
 - Notes: RV park with rates of $750/month May 1st–Labor Day, $600/month rest of year; RV size limit up to 29 feet; full hookups available; close to beaches, golf course, boardwalks; newly remodeled bathrooms; on-site laundry
+
+## <a id="Legacy-Church-Pantry">Legacy Church Pantry</a>
+
+<!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31568 -->
+- [ourlegacy.church](https://www.ourlegacy.church/)
+- Location: 6030 Del Rio Rd., Atascadero
+- Phone: [805-466-8385](tel:+1-805-466-8385)
+- Hours (food pantry): Th 1–2pm
+- Contact: Alvin Scamara
+- Notes: Weekly food pantry open to anyone in need
 
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
 
@@ -1554,7 +1608,7 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 - [luminaalliance.org/thriftstore](https://luminaalliance.org/thriftstore/)
 - Location: 545 Higuera St., SLO
-- Phone: 805-592-3596
+- Phone: [805-592-3596](tel:+1-805-592-3596)
 - Hours: M–Sa 10am–5pm
 
 ## LyonHeart Place
@@ -1652,6 +1706,17 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: [800-781-7312](tel:+1-800-781-7312)
 - Hours: M–Th 8am–5:30pm; every other Friday 8am–5:30pm
 
+## <a id="Morro-Bay-Lions-Foundation">Morro Bay Lions Foundation</a>
+
+<!-- Source: https://morrobayseniors.org/resources/ -->
+- [morrobaylions.com](http://www.morrobaylions.com)
+- Location: Morro Bay Vets Memorial Building, 209 Surf St., Morro Bay
+- Phone: [805-772-4421](tel:+1-805-772-4421) (for home deliveries/reservations)
+- Hours:
+   - Mondays: 4:30pm (doors open for pantry shopping, free clothes, towels, toiletries)
+   - Dinner service: 5–5:45pm
+- Notes: Provides hot meals, coffee, juices, water; food pantry with canned goods, pasta, bread, vegetables, fruit, desserts (varies by donations); also serves Wednesday meals at South Bay Community Center in Los Osos
+
 ## My Home for Hope
 
 > *See [**Balay Ko on Barka**](#Balay-Ko-on-Barka)*
@@ -1688,6 +1753,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Location: 1235 N. Thompson Rd, Arroyo Grande
 - Hours (food pantry) F 12:45–1:30pm
 
+## <a id="Nipomo-Food-Basket">Nipomo Food Basket</a>
+
+<!-- Source: https://networks.whyhunger.org/organisation/29193 -->
+- Location: 197 W. Tefft St., Nipomo
+- Phone: [805-619-7681](tel:+1-805-619-7681)
+- Hours: M/Tu/Th 10am–1pm
+
 ## Noor Foundation
 
 > *See [**SLO Noor Foundation**](#SLO-Noor-Foundation)*
@@ -1706,7 +1778,15 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 ## Outreach Apparel
 
-> *See [**Children’s Resource Network of the Central Coast**](#Childrens-Resource-Network-of-the-Central-Coast)*
+> *See [**Children's Resource Network of the Central Coast**](#Childrens-Resource-Network-of-the-Central-Coast)*
+
+## <a id="Open-Arms-Pantry">Open Arms Pantry at Rock Harbor</a>
+
+<!-- Source: https://food-banks.org/detail/rock_harbor_christian_fellowship_open_arms_pantry_morro_bay_ca.html -->
+- Location: Rock Harbor Christian Fellowship, 1475 Quintana Rd., Morro Bay
+- Phone: [805-772-7365](tel:+1-805-772-7365)
+- Hours: Sa 10am–Noon; also available throughout the week on a walk-in basis
+- Notes: Works with the county Food Bank; provides food and personal care items to those in need; serves well over 100 local families weekly
 
 ## <a id="Outreach-and-Engagement-Services">Outreach and Engagement Services</a>
 
@@ -1764,6 +1844,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Email: [info@pasoroblesha.org](mailto:info@pasoroblesha.org)
 - Hours: M–F 9am–4:30pm (closed Noon–1pm)
 - Notes: Operates affordable housing properties including Oak Park 1–4 and Sunrise Villas; offers community services including Youth Works program
+
+## <a id="Paso-Robles-Senior-Center">Paso Robles Senior Center</a>
+
+- [prcity.com/293/Senior-Services](https://www.prcity.com/293/Senior-Services)
+- Location: 270 Scott St., Paso Robles
+- Phone: [805-237-3880](tel:+1-805-237-3880), [805-238-4664](tel:+1-805-238-4664)
+- Hours (food pantry): 2nd and 4th Tuesdays of the month at 10am
 
 ## <a id="PathPoint">PathPoint</a>
 
@@ -1920,10 +2007,30 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 > *See [**SLO Regional Transit Authority**](#SLO-RTA)*
 
+## <a id="Refuge-Church-Atascadero">Refuge Church</a>
+
+<!-- Source: https://www.findhelp.org/refuge-church--atascadero-ca--refuge-rescue-mission-ministry/5842198058237952?postal=93401 -->
+- [refugechurch.info](https://refugechurch.info/)
+- Location: 6955 Portola Rd., Atascadero
+- Phone: [805-466-3554](tel:+1-805-466-3554)
+- Email: [office@refugechurch.info](mailto:office@refugechurch.info)
+- Hours:
+   - Food pantry: Tu/W evenings, or by appointment
+   - Free meals: Tu/W dinner
+   - Office: M–F 8am–5pm
+- Notes: "Refuge Rescue Mission Ministry" provides free hot meals and groceries through their food pantry; serves homeless, indigent, and those affected by economic crisis
+
 ## <a id="Renovate-Church">Renovate Church</a>
 
 - Location: 2075 Johnson Ave., SLO
+- Phone: [805-543-0945](tel:+1-805-543-0945)
 - Hours (food pantry): M 4–6pm
+
+## <a id="Restoration-Church">Restoration Church</a>
+
+- Location: 9333 Santa Barbara Rd., Atascadero
+- Phone: [805-538-0449](tel:+1-805-538-0449)
+- Hours (food pantry): first Saturday of the month, 1pm–3pm
 
 ## <a id="Restorative-Partners">Restorative Partners</a>
 
@@ -1995,6 +2102,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Phone: [805-270-4023](tel:+1-805-270-4023)
 - Hours: Tu–F 10am–4pm, Sa Noon–4pm
 
+## <a id="St-Jospehs-Church">Saint Joseph’s Church</a>
+
+- [stjosephcayucos.org](https://stjosephcayucos.org/)
+- Location: 360 Park Ave., Cayucos
+- Phone: [805-995-3243](tel:+1-805-995-3243)
+- Hours (food pantry): Fridays 10am–Noon, or Thursdays by appointment
+
 ## <a id="St-Patricks-Church">Saint Patrick’s Church</a>
 
 - Location: 501 Fair Oaks Dr., Arroyo Grande
@@ -2056,6 +2170,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - [slocountyparks.com/camp/santa-margarita-lake/](https://slocountyparks.com/camp/santa-margarita-lake/)
 - Phone: [805-781-5930](tel:+1-805-781-5930)
 - Email: [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
+
+## <a id="Santa-Maria-Valley-Hispanic-Church">Santa Maria Valley Hispanic SDA Church</a>
+
+- [santamariavalleyhispanicca.adventistchurch.org](https://santamariavalleyhispanicca.adventistchurch.org/)
+- Location: 1575 Orchard Rd., Nipomo
+- Phone: [805-929-5694](tel:+1-805-929-5694)
+- Hours (food pantry): Sa 11am–12:30pm
 
 ## <a id="Senior-Connection">Senior Connection</a>
 
@@ -2305,21 +2426,50 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## <a id="SLO-County-Public-Libraries">SLO County Public Libraries</a>
 
 - [slolibrary.org](https://slolibrary.org/)
-- Locations:
+- Locations (14 branches):
    - Arroyo Grande: 800 W. Branch St. (temporary as main building is being renovated; unclear when this will be completed)
-creston, san miguel, shandon
+   - Atascadero: 6555 Capistrano Ave.
+   - Cambria: 1043 Main St.
+   - Cayucos: 310 B St.
+   - Creston: 6290 Adams St.
+   - Los Osos: 2075 Palisades Ave.
+   - Morro Bay: 625 Harbor St.
+   - Nipomo: 918 W. Tefft St.
    - Oceano: 1511 19th St.
-   - SLO: 995 Palm St.
-   - Shell Beach: 230 Leeward Ave
+   - San Luis Obispo: 995 Palm St.
+   - San Miguel: 254 13th St.
+   - Santa Margarita: 9630 Murphy Ave.
+   - Shandon: 195 N. 2nd St.
+   - Shell Beach: 230 Leeward Ave.
 - Phone:
    - Arroyo Grande: [805-473-7161](tel:+1-805-473-7161)
+   - Atascadero: [805-461-6161](tel:+1-805-461-6161)
+   - Cambria: [805-927-4336](tel:+1-805-927-4336)
+   - Cayucos: [805-995-3312](tel:+1-805-995-3312)
+   - Creston: [805-237-3010](tel:+1-805-237-3010)
+   - Los Osos: [805-528-1862](tel:+1-805-528-1862)
+   - Morro Bay: [805-772-6394](tel:+1-805-772-6394)
+   - Nipomo: [805-929-3994](tel:+1-805-929-3994)
    - Oceano: [805-474-7478](tel:+1-805-474-7478)
    - SLO: [805-781-5991](tel:+1-805-781-5991)
+   - San Miguel: [805-467-3224](tel:+1-805-467-3224)
+   - Santa Margarita: [805-438-5622](tel:+1-805-438-5622)
+   - Shandon: [805-237-3009](tel:+1-805-237-3009)
    - Shell Beach: [805-773-2263](tel:+1-805-773-2263)
 - Hours:
    - Arroyo Grande: Tu/W 1–6pm, F/Sa 1–5pm
+   - Atascadero: Tu/W 10am–6pm, Th/Sa 9am–5pm, F 1–5pm
+   - Cambria: Tu/W 10am–6pm, Th 9am–5pm, F 1–5pm, Sa 9am–1pm
+   - Cayucos: Tu/W 9am–5pm (closed Noon–1pm)
+   - Creston: Tu 1–6pm, W/Th Noon–5pm
+   - Los Osos: Tu/W 10am–6pm, Th 9am–5pm, F/Sa 1–5pm
+   - Morro Bay: Tu/W 10am–6pm, Th 9am–5pm, F 1–5pm, Sa 9am–1pm
+   - Nipomo: Tu/W/Th 10am–6pm, F/Sa 10am–5pm
    - Oceano: Tu/W/Th 9am–1pm and 2–5pm
    - SLO: Tu/W 10am–6pm, Th/Sa 9am–5pm, F 1–5pm
+   - San Miguel: W 11am–6pm (closed 12:30–1pm), Th 10am–5pm (closed 12:30–1pm), F 1–5pm, Sa 10am–5pm (closed 12:30–1pm)
+   - Santa Margarita: Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm)
+   - Shandon: Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm)
    - Shell Beach: Tu/W 10am–1pm and 2–6pm, Sa 9am–5pm
 
 ## <a id="SLO-County-Small-Claims-Advisor">SLO County Small Claims Advisor</a>
@@ -2597,6 +2747,15 @@ creston, san miguel, shandon
    - Administrative office: [805-962-7881](tel:+1-805-962-7881)
 - How to access: Apply here: [tri-counties.org/our-services/apply/](http://tri-counties.org/our-services/apply/)
 
+## <a id="Trinity-United-Methodist-Church">Trinity United Methodist Church (Los Osos)</a>
+
+<!-- Source: https://slofoodbank.org/wp-content/uploads/2025/09/ENG_October_DistributionResourceList.pdf -->
+- [trinitylososos.org](https://trinitylososos.org/)
+- Location: 490 Los Osos Valley Rd., Los Osos
+- Phone: [805-528-1649](tel:+1-805-528-1649)
+- Email: [church@trinitylososos.org](mailto:church@trinitylososos.org)
+- Hours (food pantry): Tu/F 10am–Noon
+
 ## <a id="Tri-County-GLAD">Tri-County GLAD</a>
 
 - [tcglad.org](https://tcglad.org/)
@@ -2704,6 +2863,14 @@ There are several urgent care options, including:
 - [slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center](https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center)
 - Location: 1050 Monterey St. (Courthouse Annex Room 384), SLO
 - Phone: [805-781-5821](tel:+1-805-781-5821) (toll-free: [866-781-5821](tel:+1-866-781-5821))
+
+## <a id="Village-Thrift">Village Thrift</a>
+
+<!-- Source: https://www.yellowpages.com/atascadero-ca/mip/village-thrift-store-19439025 -->
+- [nciaffiliates.org/thrift-stores](https://nciaffiliates.org/thrift-stores/)
+- Location: 8681 El Camino Real, Atascadero (The Oaks Shopping Center)
+- Phone: [805-462-0500](tel:+1-805-462-0500)
+- Notes: Operated by NCI Affiliates; training location for vocational services
 
 ## <a id="Vituity-Cares-Mobile-Clinic">Vituity Cares Mobile Clinic</a>
 

@@ -389,7 +389,7 @@ They operate throughout SLO County, and are open to people of all genders, ages,
 
 If you are homeless and have a medically verified need for 24/7 temporary housing because you are seriously ill, recovering from surgery or injury or high-risk pregnancy, or something of that nature, you may qualify for the [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program).
 They will help you with immediate housing, supportive services and coordinated case management to ensure physical recovery, access to income sources, connection to services, and a more permanent housing alternative when you exit the program.
-You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program), or [**CalWORKS**](Directory.md#CalWORKS).
+You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program), [**Center for Family Strengthening (CSF)**](Directory.md#CSF), or [**CalWORKS**](Directory.md#CalWORKS).
 If you are being treated by a hospital or other medical professionals, consider telling them that you are homeless and asking them to help you with this process.
 
 ### <a id="camping-parking-rv-parks">Legal Camping, Safe Parking, and RV Parks</a>
@@ -683,12 +683,14 @@ Most storage facilities have daytime hours of operation when you can access the 
 | Location     | Meal Provider                                                              | When |
 | ------------ | -------------------------------------------------------------------------- | ---- |
 | Atascadero   | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | daily dinner |
-| Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | daily lunch |
+| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)   | Tuesday & Wednesday dinner |
+| Grover Beach | [**People's Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | daily lunch |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation) | Monday late lunch (3:45pm) |
 | Paso Robles  | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | daily dinner |
 | SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | Thursday lunch |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | Monday & Thursday dinner |
 | SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | Thursday lunch |
-| SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | daily lunch |
+| SLO          | [**People's Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | daily lunch |
 
 ### <a id="free-food-pantries">Free Food Pantries</a>
 
@@ -701,14 +703,29 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Arroyo Grande | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                     | Fridays |
 | Arroyo Grande | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church)                                       | Tuesday–Thursday |
 | Arroyo Grande | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Mondays, Wednesdays, Fridays |
+| Atascadero    | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                       | Thursdays |
 | Atascadero    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero)                                  | Monday–Friday |
+| Atascadero    | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                             | Tuesday & Wednesday eves. or by appt. |
+| Atascadero    | [**Restoration Church**](Directory.md#Restoration-Church)                                           | first Saturday of the month |
 | Cal Poly      | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry)                                       | Monday–Friday |
+| Cambria       | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                 | 2nd & 4th Thursday |
+| Cayucos       | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                               | Wednesdays |
+| Cayucos       | [**St. Joseph’s Catholic Church**](Directory.md#St-Jospehs-Church)                                  | Fridays (Thursdays by appt.) |
 | Grover Beach  | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) | Monday–Friday |
+| Los Osos      | [**King's Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                               | Tuesdays |
+| Los Osos      | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) | Wednesdays |
+| Los Osos      | [**Trinity United Methodist Church (Los Osos)**](Directory.md#Trinity-United-Methodist-Church)      | Tuesdays & Fridays |
+| Morro Bay     | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                | Saturdays |
+| Nipomo        | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket)                                           | M/Tu/Th/F |
+| Nipomo        | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)           | Saturdays |
 | Paso Robles   | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                 | Monday–Thursday |
+| Paso Robles   | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center)                             | 2nd & 4th Tuesday |
+| Paso Robles   | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Tuesdays |
 | Pismo Beach   | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry)                                   | Tuesday–Thursday |
+| San Miguel    | Children and the Country Life, 795 Monterey Rd. (Mission), 805-467-3256                             | 1st, 3rd, & 5th Wednesday |
 | SLO           | [**Agape Church**](Directory.md#Agape-Church)                                                       | Tuesdays & Sundays |
 | SLO           | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                         | Mondays |
-| SLO           | Breakthrough Ministry, 4251 South Higuera #200                                                      | Tuesdays |
+| SLO           | Breakthrough Ministry, 4251 South Higuera #200, 805-234-7441                                        | Tuesdays, or by appt. |
 | SLO           | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                      | Saturdays |
 | SLO           | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)               | Monday–Friday |
 | SLO           | [**Renovate Church**](Directory.md#Renovate-Church)                                                 | Mondays |
@@ -880,7 +897,7 @@ They typically offer curb-to-curb service and charge $2.25–8.00 each way (some
 | Dial-a-Ride Service | Phone Number | Notes |
 | ------------------- | ------------ | ----- |
 | Atascadero          | [805-466-7433](tel:+1-805-466-7433) | Operates M–F 7:30am–3:30pm. |
-| Morro Bay           | [805-541-2228](tel:+1-805-541-2228;ext=3)&#xA0;x3 | Must be within ¾-mile of a transit bus route. Call M–F 8am–10pm to request a ride. |
+| Morro Bay           | [805-541-2228&#xA0;x3](tel:+1-805-541-2228;ext=3) | Must be within ¾-mile of a transit bus route. Call M–F 8am–10pm to request a ride. |
 | Nipomo              | [805-929-2881](tel:+1-805-929-2881) | Reserve a ride at least two hours ahead of time. Operates M–F 7am–6:30pm. |
 | Paso Robles         | [805-239-8747](tel:+1-805-239-8747) | Reserve a ride at least two hours ahead of time. Operates M–F 7am–1pm. |
 | Shandon             | [805-541-2544](tel:+1-805-541-2544) | Reserve a ride by noon the day ahead of time. Operates M,W,F 8am–5pm. |
@@ -896,7 +913,7 @@ You can catch these trains and buses from the following locations in SLO County:
 | Atascadero Amtrak Bus Stop, 6000 Capistrano Ave., Atascadero | ✓         |           |              | ✓          |
 | Grover Beach Amtrak Station, 180 W. Grand Ave., Grover Beach | ✓         |           | ✓            | ✓          |
 | Paso Robles Train Station, 800 Pine St., Paso Robles         | ✓         |           | ✓            | ✓          |
-| Cal Poly, 1 Grand Ave., SLO                                  | ✓         |           |              | ✓          |
+| Cal Poly, 1 Grand Ave. (near Vista Grande food court), SLO   | ✓         |           |              | ✓          |
 | Railroad Museum, 1940 Santa Barbara Ave., SLO                | ✓         | ✓         |              |            |
 | Train Station, 1011 Railroad Ave., SLO                       | ✓         |           | ✓            | ✓          |
 
@@ -1036,6 +1053,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 
 - [**Goodwill Store**](Directory.md#Goodwill)
 - [**North County Christian Thrift Shop**](Directory.md#North-County-Christian-Thrift-Shop)
+- [**Village Thrift**](Directory.md#Village-Thrift)
 
 **Grover Beach:**
 
@@ -1045,9 +1063,15 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**St. Patrick’s Shamrock Thrift**](Directory.md#St-Patricks-Shamrock-Thrift)
 - [**St. Barnabas Thrift Shop**](Directory.md#St-Barnabas-Thrift-Shop)
 
+**Los Osos:**
+
+- To-do: Add "Abundance Shop"
+
 **Morro Bay:**
 
 - [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store)
+- [**Fabulous Finds Quality Thrifting**](Directory.md#Fabulous-Finds-Quality-Thrifting)
+- [**Foxy's Thrift Shop**](Directory.md#Foxys-Thrift-Shop)
 
 **Paso Robles:**
 
@@ -1223,6 +1247,7 @@ You can apply for Medi-Cal at [www.coveredca.com](http://www.coveredca.com/) or 
 
 You can get help applying from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) or [**Catholic Charities**](Directory.md#Catholic-Charities).
 To get help in indigenous Mexican languages, call [805-483-1166](tel:+1-805-483-1166), or visit [mixteco.org/outreach-access/](http://mixteco.org/outreach-access/).
+If you are a patient of Adventist Health, you can get help from them by calling [844-827-5047](tel:+1-844-827-5047).
 
 ##### Prescription Medication
 
@@ -1284,6 +1309,9 @@ The [**Help Hope Live**](Directory.md#Help-Hope-Live) program can help you estab
 #### Emergency Funding
 
 If you need immediate funds to pay for a specific medical expense, consider the [**Medically Indigent Services Program**](Directory.md#MISP).
+
+If you are a patient of [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista), you may qualify for their [“Charity Care/Financial Assistance”](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/) program.
+Ask them in person for an application or contact them at [844-827-5047](tel:+1-844-827-5047) or [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
 
 > See also the [Acute Financial Needs](#acute-financial-needs) section of this guide.
 
@@ -3230,11 +3258,10 @@ This program is for California residents with medically-certified limitations of
 1. College Students (e.g. Cuesta, Cal Poly)
    1. **[Front Porch](https://www.frontporchslo.org/)**
       - Services: Community space for Cal Poly and Cuesta students; free coffee, tea, snacks; home-cooked meal on Wednesday nights
+      - Also has outlets for charging phones & other devices
       - Location/Phone/Email: See [**Front Porch**](Directory.md#Front-Porch) in the [Directory](Directory.md)
       - Mission: Create environment for students to build genuine relationships; welcoming to all students without obligation
-      - Resources: Student resources page with food insecurity information, CalFresh links, Cal Poly Food Pantry information
       - Serves 400+ faculty, coaches, students daily; Wednesday nights draw 200+ students
-      - Accessibility: Inclusive space for all belief systems; addresses food security for college students
       - Eligibility: Open to "students from all walks of life without obligation" - no explicit requirement to be enrolled at Cal Poly or Cuesta, welcomes all who want to study, get coffee, or meet people.
 1. People with specific (e.g. developmental, TBI, diabetes, blindness) disabilities
    1. E.g. ASL translation for the deaf
@@ -3559,7 +3586,7 @@ Grants do not cover exams or testing.
       - How it works: Public access to professional-grade fabrication tools; staff assistance available for learning new skills
       - Website: [slomakerspace.com](https://www.slomakerspace.com/)
    1. **Shandon Tool Library**: County library branch offers tools for checkout
-      - Location: Shandon Library, 205 Center Street, Shandon
+      - Location: Shandon Library, 195 N. 2nd St., Shandon
       - Tools available: Power tools (drills, saws, sanders, router), outdoor tools (blower, hedge trimmer, pole saw), manual tools (ladders, levels, dollies, workbench)
       - Hours: Tuesday–Wednesday 10am–6pm, Saturday 9am–5pm
       - Access: Complete forms and liability waiver; reserve through library catalog using "Shandon Tool Library"
