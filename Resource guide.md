@@ -199,7 +199,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr>
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr>
   <tr><th colspan="2" style="text-align:left;">Immigration:</th></tr>
-   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity, connect with legal support, or register for text alerts)</td></tr>
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity or connect with legal support); register for text alerts by texting “ALERT” to this number)</td></tr>
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr>
  </tbody>
 </table>
@@ -390,7 +390,7 @@ They operate throughout SLO County, and are open to people of all genders, ages,
 If you are homeless and have a medically verified need for 24/7 temporary housing because you are seriously ill, recovering from surgery or injury or high-risk pregnancy, or something of that nature, you may qualify for the [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program).
 They will help you with immediate housing, supportive services and coordinated case management to ensure physical recovery, access to income sources, connection to services, and a more permanent housing alternative when you exit the program.
 You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program), [**Center for Family Strengthening (CSF)**](Directory.md#CSF), or [**CalWORKS**](Directory.md#CalWORKS).
-If you are being treated by a hospital or other medical professionals, consider telling them that you are homeless and asking them to help you with this process.
+If you are being treated by a hospital or other medical professionals, consider telling them that you are homeless and asking them if they can help you with this process.
 
 ### <a id="camping-parking-rv-parks">Legal Camping, Safe Parking, and RV Parks</a>
 
@@ -510,37 +510,10 @@ They also operate affordable rental housing developments and supportive housing 
 They serve low-income families, farmworkers, seniors, veterans, people with disabilities, and formerly-homeless people.
 Contact them directly to access the program.
 
-**Additional Affordable Housing Developments County-Wide (pending human review):**
+Some other potential low-income options include:
 
-- **North County (operated by People's Self-Help Housing):**
-   - Atascadero Gardens (Atascadero): 18-unit apartment complex, one- and two-bedroom units, within walking distance to services. Phone: [805-781-3088](tel:+1-805-781-3088). Source: [pshhc.org/property/atascadero-gardens](https://www.pshhc.org/property/atascadero-gardens/)
-   - Creekside Gardens (Paso Robles): 29 one-bedroom garden-style apartments in nine single-story buildings for seniors. Phone: [805-781-3088](tel:+1-805-781-3088)
-   - Canyon Creek Apartments (Central Paso Robles): 68 affordable apartments with two- and three-bedroom floorplans for low-income families. Phone: [805-781-3088](tel:+1-805-781-3088)
-   - Los Robles Terrace (Near Paso Robles city center): 40 Spanish-style apartments in three-story complex for low-income households. Phone: [805-781-3088](tel:+1-805-781-3088)
-   - Templeton Place II (Templeton): 36-unit affordable housing community for seniors (62+) and formerly-homeless veterans (10 units set aside for veterans); studios, one-bedroom, two-bedroom; variable rent based on income, all utilities included. Phone: [805-781-3088](tel:+1-805-781-3088). Source: [pshhc.org/property/templetonplaceii](https://www.pshhc.org/property/templetonplaceii/)
-
-- **North County (operated by Paso Robles Housing Authority):**
-   - Oak Park 1, 2, 3, & 4 (901 30th Street, Paso Robles): 341 affordable apartments with one-, two-, three-, and four-bedroom units for families making 30%-60% of county area median income; amenities include common areas, BBQ grills, picnic tables, play structures, basketball court, soccer field. Phone: [805-238-4015](tel:+1-805-238-4015). Source: [pasoroblesha.org](https://pasoroblesha.org/)
-   - Sunrise Villas (Paso Robles): 69 occupied units, rent $600 (1-bedroom) to $1,700 (3-bedroom); waitlist of 1,000 people. Contact Paso Robles Housing Authority for waiting list. Phone: [805-238-4015](tel:+1-805-238-4015)
-   - River Walk Terrace (Paso Robles): 79 units for low-income seniors (55+); completed Spring 2025, 100% occupied. Contact Paso Robles Housing Authority for waiting list. Phone: [805-238-4015](tel:+1-805-238-4015). Source: [pasoroblesha.org](https://pasoroblesha.org/)
-
-- **North County (operated by HASLO):**
-   - Macadero Gardens (Atascadero): Affordable housing with current 2- and 3-bedroom availability. Phone: [805-543-4478](tel:+1-805-543-4478). Source: [haslo.org](https://www.haslo.org/)
-   - Project Homekey - Black Oak Drive (1134 Black Oak Dr., Paso Robles): 60-bed emergency shelter + 60 permanent affordable housing units (all units filled as of October 2023) for extremely low-income individuals and families, formerly homeless. Managed by HASLO; contact for waiting list. Phone: [805-462-3663](tel:+1-805-462-3663) (ECHO). Source: [news.yahoo.com](https://news.yahoo.com/motel-6-affordable-housing-60-003017303.html)
-
-- **North Coast:**
-   - Schoolhouse Lane Apartments (2835 Schoolhouse Lane, Cambria): 24-unit affordable housing development for low-income families (first in SLO County's north coastal area, completed 1997); managed by People's Self-Help Housing; waiting list with 200+ families. Phone: [805-781-3088](tel:+1-805-781-3088). Adjacent development "Cambria Pines" (33 units) planned for those making ≤60% area median income. Source: [ksby.com](https://www.ksby.com/cambria/new-affordable-housing-project-in-the-works-in-cambria)
-   - Ocean View Manor (456 Elena St., Morro Bay): 39 renovated garden-style single-story cottages with accessible studios and one-bedrooms for seniors, low-income, HUD-subsidized; rent typically 30% of gross income. Phone: [805-772-1921](tel:+1-805-772-1921). Source: [publichousing.com](https://www.publichousing.com/details/ocean_view_manor)
-   - Rockview at Sunset (Atascadero Road, Morro Bay): 35 units (9 three-bedroom, 9 two-bedroom, 17 one-bedroom apartments), completed, all units filled; managed by HASLO. Contact HASLO to get on waiting list. Phone: [805-543-4478](tel:+1-805-543-4478). Source: [esterobaynews.com](https://esterobaynews.com/news/low-income-apartments-full-still-taking-applications/)
-   - Sequoia Apartments (Morro Bay): 12 two- and three-bedroom townhomes for low-income families (completed 2000). Source: [publichousing.com](https://www.publichousing.com/city/ca-morro_bay)
-   - Sea Breeze Apartments (Los Osos): 29 one-bedroom units in garden setting; managed by People's Self-Help Housing. Phone: [805-781-3088](tel:+1-805-781-3088). Source: [publichousing.com](https://www.publichousing.com/city/ca-los_osos)
-
-- **South County (Nipomo):**
-   - Roosevelt Family Apartments: 52 units (3 and 4-bedroom) income-based affordable housing. Source: [affordablehousingonline.com](https://affordablehousingonline.com/)
-   - San Luis Bay Apartments: 120 units (2, 3, and 4-bedroom) income-based affordable housing. Source: [affordablehousingonline.com](https://affordablehousingonline.com/)
-   - Cider Village Family Apartments: 40 total (20 two-bedroom, 20 three-bedroom), operational since 2007. Source: [affordablehousingonline.com](https://affordablehousingonline.com/)
-   - Willow Walk Senior Apartments: 2-bedroom PBV units for seniors, operated by HASLO. Phone: [805-543-4478](tel:+1-805-543-4478). Source: [haslo.org](https://www.haslo.org/)
-   - New Development on Magenta Lane: Approved, construction timeline unclear; 72 affordable multi-family units on 2.57 acres (8 units at 30% AMI, 8 units at 50% AMI, remaining at 80% AMI).
+- [Roosevelt Family Apartmments](https://www.rooseveltfamilyapts.com/) in Nipomo.
+- [San Luis Bay Apartmments](https://www.gsfpi.com/) in Nipomo.
 
 #### For Seniors
 
@@ -633,22 +606,6 @@ Here are some residential treatment options in our area:
 - [**Middlehouse**](Directory.md#Middlehouse) (SLO) for men only.
 - [**Sun Street Centers**](Directory.md#Middlehouse) (SLO) for men only.
 
-<!--
-### Other/Uncategorized
-
-[This](https://static1.squarespace.com/static/538622a1e4b0eca47fbe761f/t/67942a70fe553b6a69db2ec3/1737763441403/Affordable+Housing+by+City_SLOCounty.1.24.25.pdf) sheet lists affordable housing units in SLO county. Some belong in the sections above (they accept section 8 vouchers and/or cap rent based on income; some are for seniors only).
-
-1. **Paso Robles City Homeless Services**: First-ever dedicated Homeless Services Manager position (hired 2025), coordination with ECHO and other providers. Email: [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com). Source: https://www.prcity.com/956/Homeless-Services
-1. **Goodwill Central Coast**
-   - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they "Can provide assistance with... housing" but I was unable to find more about this on Goodwill's own website.
-     - Note: Unable to verify housing assistance claim through Goodwill Central Coast's website (as of September 2025); contact Goodwill directly to inquire about housing-related services
-1. **[The Link Family Resource Center](https://linkslo.org/)**
-   - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
-   - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education; helps families navigate the social services system and provides linkages to community partners for homeless services
-   - Source: [linkslo.org](https://linkslo.org/)
-   - (4507 Del Rio Ave Bldg. #1, Atascadero): Serves North County including Atascadero, Cambria, Shandon, San Miguel, Creston, Cayucos, Santa Margarita, San Simeon, Paso Robles, Los Osos, Morro Bay, and Templeton. Free family support services including assistance accessing housing, food, clothing, health care; helps families navigate social services system and provides linkages to homeless services. Hours: M–F 9am–5pm. Phone: [805-466-5404](tel:+1-805-466-5404) (main), [805-794-0217](tel:+1-805-794-0217) (bilingual). Walk-ins OK; also accepts self-referrals, school referrals, and community agency referrals.
--->
-
 ## <a id="property-storage-options">Property Storage Options</a>
 
 ### <a id="short-term-property-storage">Short-Term</a>
@@ -683,9 +640,10 @@ Most storage facilities have daytime hours of operation when you can access the 
 | Location     | Meal Provider                                                              | When |
 | ------------ | -------------------------------------------------------------------------- | ---- |
 | Atascadero   | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | daily dinner |
-| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)   | Tuesday & Wednesday dinner |
+| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | Tuesday & Wednesday dinner |
 | Grover Beach | [**People's Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | daily lunch |
-| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation) | Monday late lunch (3:45pm) |
+| Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | Wednesdays |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | Monday late lunch (3:45pm) |
 | Paso Robles  | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | daily dinner |
 | SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | Thursday lunch |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | Monday & Thursday dinner |
@@ -816,21 +774,6 @@ Sometimes you will also see edible fruit trees like plums or cherries on sidewal
 Sometimes also people plant fruit trees on their own property but then neglect to harvest the fruit, perhaps because there is more than they need.
 In such a case you can ask the property owner for permission to harvest from their trees.
 
-### Miscellaneous/Uncategorized/Needs Research
-
-1. **SLO Food Bank**—Main coordination center for county food assistance
-   - Location/Phone/Hours: See [**SLO Food Bank**](Directory.md#SLO-Food-Bank) in the [Directory](Directory.md)
-   - No-Cook Bags: Call for pre-prepared meals requiring no cooking
-   - No requirements: Proof of income, residency, or ID never required; no limits on number of distributions attended
-   - Source: [slofoodbank.org](https://www.slofoodbank.org/contact/)
-1. **Goodwill Central Coast**
-   - [this source](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/basic-needs-food,-clothing,-and-nutrition) claims that they "Can provide assistance with food..." but I was unable to find more about this on Goodwill's own website.
-       - Note: Unable to verify food assistance claim through Goodwill Central Coast's website (as of September 2025); contact Goodwill directly to inquire about food-related services
-1. **[The Link Family Resource Center](https://linkslo.org/)**
-   - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
-   - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
-   - Source: [linkslo.org](https://linkslo.org/)
-
 ## <a id="where-to-refill-a-water-bottle">Where to Refill a Water Bottle</a>
 
 Most major parks and recreation facilities have water fountains and/or water bottle refill stations, as do some public libraries.
@@ -847,20 +790,22 @@ You can find a map of these hydration stations [at this link](https://storymaps.
 There are many public transit options in SLO County.
 The [Rideshare](https://rideshare.org/) website and the [511](tel:+1-511) phone service can give you an overview of most of them and can help you plan your trips.
 
-The [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) system includes six bus routes that connect cities in SLO County.
+The [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) system includes several bus routes that connect cities in SLO County.
 They also govern the within-city bus routes in Morro Bay and Paso Robles, and the dial-a-ride and Runabout Paratransit services.
 You can buy bus passes on the bus or by using the [Token Transit](https://tokentransit.com/riders/download) app.
 There are discounts for seniors, medicare card holders, and people with disabilities.
 
-| RTA Line | Destinations |
-| -------- | ------------ |
-| 9        | San Miguel, Paso Robles, Templeton, Atascadero, Santa Margarita, SLO |
-| 10       | Santa Maria, Nipomo, Arroyo Grande, Pismo Beach, SLO |
-| 12       | Los Osos, Morro Bay, SLO |
-| 15       | San Simeon, Cambria, Cayucos, Morro Bay |
-| 21       | Pismo Beach, Arroyo Grande, Grover Beach |
-| 24       | Pismo Beach, Grover Beach |
-| 27 & 28  | Grover Beach, Arroyo Grande, Oceano |
+| RTA Line                                                                           | Destinations |
+| ---------------------------------------------------------------------------------- | ------------ |
+| [9](https://www.slorta.org/schedules-fares/route-9/)                               | San Miguel, Paso Robles, Templeton, Atascadero, Santa Margarita, SLO |
+| [10](https://www.slorta.org/schedules-fares/route-10/)                             | Santa Maria, Nipomo, Arroyo Grande, Pismo Beach, SLO |
+| [12](https://www.slorta.org/schedules-fares/route-12-2/)                           | Los Osos, Morro Bay, SLO |
+| [15](https://www.slorta.org/schedules-fares/route-15/)                             | San Simeon, Cambria, Cayucos, Morro Bay |
+| [21](https://www.slorta.org/schedules-fares/route-21/)                             | Pismo Beach, Arroyo Grande, Grover Beach |
+| [24](https://www.slorta.org/schedules-fares/route-24/)                             | Pismo Beach, Grover Beach |
+| [27](https://www.slorta.org/schedules-fares/route-27/) & [28](https://www.slorta.org/schedules-fares/route-28/) | Grover Beach, Arroyo Grande, Oceano |
+| [A&B](https://www.slorta.org/schedules-fares/paso-express/)                        | within Paso Robles |
+| [Avila-Pismo Beach Trolley](https://www.slorta.org/schedules-fares/avila-trolley/) | Port San Luis, Avila Beach, Pismo Beach |
 
 [Runabout Paratransit](https://www.slorta.org/services/runabout-paratransit/) is a county-wide transit service for people who cannot always use the fixed-route SLO RTA buses because of disability.
 This service will take you door-to-door within ¾-mile of the RTA fixed routes during the same hours RTA operates.
@@ -883,13 +828,8 @@ The application matches commuters based on their locations, routes, destinations
 If you register for iRideshare and you commute to work by walking, biking, taking the bus, or in a carpool or vanpool, and you need to get home from work in some other way (for example, because the carpool is leaving at the wrong time, or because your bike broke down), the [Guaranteed Ride Home](https://rideshare.org/program/guaranteed-ride-home/) program will pay for your taxi, Uber, or Lyft ride home.
 (You need to save the receipt, and you can only get a limited number of guaranteed rides home.)
 
-<!-- needs research:
-1. [**Family Care Network**](https://fcni.org/)
-   - What’s Available: bus passes, gas cards
-   - Eligibility: Homeless or at-risk families in SLO County
-   - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
-   - See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
--->
+The [**Family Care Network**](Directory.md#Family-Care-Network) can help you get a bus pass if you cannot afford one on your own.
+You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist.
 
 There are [Dial-A-Ride](https://www.slorta.org/services/dial-a-ride/) services in Atascadero, Morro Bay, Nipomo, Paso Robles, Shandon, and Templeton.
 They typically offer curb-to-curb service and charge $2.25–8.00 each way (sometimes less for seniors, disabled people, and children):
@@ -986,29 +926,25 @@ To qualify, you must have a valid California driver’s license, a low income (f
 
 You can apply for this insurance on-line at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling [866-602-8861](tel:+1-866-602-8861).
 
-1. **Car repair assistance programs**
-   - [**California Bureau of Automotive Repair (CAP)**](https://www.bar.ca.gov/cap): Consumer Assistance Program includes repair assistance in SLO County
-   - **Salvation Army:** The Salvation Army San Luis Obispo Corps provides various assistance programs including some transportation support like bus cards and gas money. While general automotive repair assistance programs exist at some Salvation Army locations nationwide, specific car repair voucher programs were not confirmed at the San Luis Obispo location. Contact them directly to inquire about current automotive assistance availability and eligibility requirements. Source: [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
-      - Locations: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
-   - **Catholic Charities:** Catholic Charities of the Diocese of Monterey serves Monterey, San Benito, San Luis Obispo, and Santa Cruz counties with various services including Financial Stability programs. However, no specific automotive repair assistance programs were found on their website. Contact them directly to inquire about transportation assistance: see their website for regional contact numbers. Source: [catholiccharitiesdom.org](https://catholiccharitiesdom.org)
-      - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#Catholic-Charities) in the [Directory](Directory.md).
-   - **Community Action Agencies:** CAPSLO (Community Action Partnership of San Luis Obispo County, [805-544-4355](tel:+1-805-544-4355)) offers comprehensive services to address poverty but does not specifically advertise automotive repair assistance programs. Some CAPSLO programs like SSVF (Supportive Services for Veteran Families) include transportation services and referrals. Contact CAPSLO directly to inquire about transportation assistance or referrals to automotive repair resources. Source: [capslo.org](https://capslo.org/)
-   - **TANF (Temporary Assistance for Needy Families/CalWORKs):** CalWORKs in California may provide transportation assistance including car repair through diversion payments (one-time payments up to $2,000 for special circumstances like car repairs to avoid needing ongoing assistance). CalWORKs also provides payments for transportation and ancillary supports for program participants. Contact your local county social services office to apply and determine eligibility. In SLO County, contact County Social Services. Source: [cdss.ca.gov/calworks](https://www.cdss.ca.gov/calworks)
-      - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
-   - **Local churches:** Several church denominations may provide automotive repair assistance, though programs vary by location and availability:
-      - **San Luis Obispo United Methodist Church**: Contact directly to inquire about current assistance programs. Phone/address available through [sloumc.com](https://www.sloumc.com/)
-      - **United Methodist churches generally**: National network offers financial assistance for emergency needs including car repairs through local congregations. General inquiries: [888-862-3242](tel:+1-888-862-3242)
-      - **Catholic Charities**: Previously noted - contact regional office for transportation assistance inquiries
-         - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#Catholic-Charities) in the [Directory](Directory.md).
-      - **Lutheran Services**: May provide car repair assistance and referrals. National contact: [202-499-5836](tel:+1-202-499-5836), [lutheranservices.org](https://lutheranservices.org/)
-      - Note: Many programs prioritize low-income individuals and may require income documentation. Some churches require membership for assistance. Contact individual churches directly to verify current programs.
-      - Source: [churchesthathelpus.com](https://churchesthathelpus.com/emergency-car-repair-assistance/)
-   - Call CAPSLO at [805-541-4122](tel:+1-805-541-4122) for information about local assistance programs
-1. [**Family Care Network**](https://fcni.org/)
-   - What’s Available: gas cards
-   - Eligibility: Homeless or at-risk families in SLO County
-   - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
-   - See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
+> See [Acute Financial Needs](#acute-financial-needs) for programs that can give you financial assistance to pay for emergency expenses like car repairs.
+
+The [**Family Care Network**](Directory.md#Family-Care-Network) can help you pay for car repairs, payments, and gas if you’re broke.
+You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist.
+
+#### Uncategorized / needs research
+
+- **[California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap)**: Consumer Assistance Program provides financial assistance for emissions-related repairs if your vehicle fails its biennial smog check inspection.
+   - Up to $1,200 for model year 1996 or newer vehicles; up to $900 for 1976–1995 vehicles
+   - Must meet income requirement: household income not exceeding 225% of federal poverty guidelines
+   - Vehicle must have failed smog check (Fail, Gross Polluter, or Not Ready status)
+   - Must apply within 365 days of registration sticker expiration date
+   - Repairs must be done at a STAR test-and-repair station
+   - Participation depends on funding availability each fiscal year (July 1–June 30)
+   - Phone: [866-272-9642](tel:+1-866-272-9642) (M–F 8:30am–5pm)
+   - Apply online at [bar.ca.gov](https://www.bar.ca.gov/cap)
+   - Source: [bar.ca.gov/cap](https://www.bar.ca.gov/cap), [bar.ca.gov/cap/repair](https://www.bar.ca.gov/cap/repair)
+- TANF (Temporary Assistance for Needy Families/CalWORKs): CalWORKs in California may provide transportation assistance including car repair through diversion payments (one-time payments up to $2,000 for special circumstances like car repairs to avoid needing ongoing assistance). CalWORKs also provides payments for transportation and ancillary supports for program participants. Contact your local county social services office to apply and determine eligibility. In SLO County, contact County Social Services. Source: [cdss.ca.gov/calworks](https://www.cdss.ca.gov/calworks)
+   - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
 
 ### Safe Parking for People Living in Vehicles
 
@@ -1022,9 +958,9 @@ The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has some free
 
 The [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) can give eligible people vouchers to purchase clothing with.
 
-<!-- verify
-[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) has clothing, shoes, blankets, and sleeping bags.
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) has clothing, shoes, blankets, and sleeping bags for people who come to its shower program (M–F 4–5:30pm at their Atascadero and Paso Robles locations).
 
+<!-- verify
 Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can get free clothing from them and to make an appointment.
 -->
 
@@ -1065,7 +1001,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 
 **Los Osos:**
 
-- To-do: Add "Abundance Shop"
+- [**Abundance Shop**](Directory.md#Abundance-Shop)
 
 **Morro Bay:**
 
@@ -1093,22 +1029,11 @@ Thrift stores sell second-hand (used) clothing at low prices.
 The [**40 Prado Homeless Services Center**](Directory.md#40-prado) offers free laundry facilities every day from 8am to 4pm.
 You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first.
 
+The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the laundry facility at its Paso Robles location every Wednesday from 10am–6pm, at which you can do a single load of laundry for free (they provide detergent).
+
 [**Laundry Love**](Directory.md#Laundry-Love) operates at a Los Osos commercial laundry one day per month (check their website for the latest schedule).
 They allow anyone to do two free loads of laundry (five loads for a family), plus bedding.
 They provide the coins to feed the machines and the laundry detergent and dryer sheets.
-
-<!-- Needs more research:
-1. **ECHO (El Camino Homeless Organization)**—North County
-   - Locations/Phone/Email/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
-   - Services: Dinner, showers, clothing, laundry facilities for clients
-   - Confirmed services: Free laundry facilities available for clients; also provides showers 5x/week with new clothing, dinner program
-   - Note: Specific client requirements for laundry access and service hours/days could not be verified in available sources; contact ECHO for details about who qualifies as a "client" for laundry services
-   - Additional: 50-bed transitional shelter with case management to help find permanent housing within 3 months [Source: [echoshelter.org](https://www.echoshelter.org/)]
-1. **Good Samaritan Shelter** in Santa Maria
-   - Location/Phone/Email/Hours: See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
-   - Confirmed services: Laundry facilities available for residents; also provides overnight shelter, case management, hot meals, substance use treatment, mental health services
-   - Program: 90-day, 90-bed emergency shelter for individuals and families; intake appointments 8:30am–5pm [Source: [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)]
--->
 
 ## <a id="showers-and-hygiene">Showers and Hygiene</a>
 
@@ -1552,6 +1477,8 @@ They accept MediCal, Medicare, and most other insurance.
 The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Oceano, and at 77 Casa St. in SLO specialize in behavioral health.
 Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers substance abuse treatment and needle exchange.
 
+[**SLO Bangers**](Directory.md#SLO-Bangers) runs a needle exchange program, can give you overdose prevention training, and distributes Narcan.
+
 [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services) include drug & alcohol walk-in clinics, detox (medically-assisted treatment), and referral to residential treatment options.
 
 [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) offers medically-assisted treatment, recovery services, and outpatient care.
@@ -1605,13 +1532,14 @@ The [**Alano Club**](Directory.md#Alano-Club), for example, hosts AA and NA meet
 
 > See [Shelter & Housing: Sober Living Homes](#sober-living-homes)
 
-### Uncategorized
+### Uncategorized / Needs Research
 
 1. **Private Treatment Options**
    - Treatment center availability: 15+ drug & alcohol detox, outpatient, and inpatient rehabs in SLO
    - Financial assistance: Many offer sliding scale payment and financial aid
    - Insurance options: Centers accepting Medicare, Medicaid, and TRICARE available
    - Local information resources: [addictions.com](https://www.addictions.com/rehabs/california/san-luis-obispo/) and [recovery.com](https://recovery.com/san-luis-obispo/)
+   - Free and low-cost options: [rehabs.org/centers/california/san-luis-obispo](https://rehabs.org/centers/california/san-luis-obispo/) for budget-friendly treatment centers
    1. **[Aspire Counseling Service](https://aspirecounselingservice.com/san-luis-obispo/)**
       - What’s Available: Substance Use Disorder treatment with Partial Hospitalization Program (PHP) and Intensive Outpatient Program (IOP); individual, couples, family, and group counseling for men, women, and adolescents (ages 12–17); addiction recovery groups, drug & alcohol testing, aftercare
          - Hosts "Recovery Dharma" peer-led recovery group (specific addiction agnostic) leaning on Buddhist tradition
@@ -1620,15 +1548,7 @@ The [**Alano Club**](Directory.md#Alano-Club), for example, hosts AA and NA meet
       - Cost: Accepts most forms of insurance; free initial assessment
       - DHCS Certification: #400019AP (expires 07/31/2026)
       - Source: [aspirecounselingservice.com](https://aspirecounselingservice.com/san-luis-obispo/)
-1. **Harm Reduction and Naloxone Services**
-   1. [**SLO Bangers**](https://slobangers.com)
-      - What’s Available: Syringe exchange, naloxone (Narcan), overdose prevention training
-      - Location/Phone/Hours: See [**SLO Bangers**](Directory.md#SLO-Bangers) in the [Directory](Directory.md)
 1. **Specialized Recovery Support**
-   1. **SLO Hub**
-      - What’s Available: Recovery/therapeutic services for homeless individuals with co-occurring behavioral health and substance abuse challenges
-      - Location/Phone/Email/Hours: See [**SLO Hub**](Directory.md#SLO-Hub) in the [Directory](Directory.md)
-      - Partnership: Collaboration between CAPSLO and Community Partners [Source: Drug use resource card]
    1. [**Sun Street Centers**](https://sunstreetcenters.org)
       - What’s Available: Residential detox (male), recovery services
       - Location/Phone/Email: See [**Sun Street Centers**](Directory.md#Sun-Street-Centers) in the [Directory](Directory.md)
@@ -1639,11 +1559,8 @@ The [**Alano Club**](Directory.md#Alano-Club), for example, hosts AA and NA meet
       - Treatment approach: Three-fold care including physician evaluation, social worker clinical assessment, and community health worker follow-up coordination
       - Impact: 29 providers helping remove addiction stigma and connect patients to community resources
       - Source: [newtimesslo.com](https://www.newtimesslo.com/news/dignity-health-central-coast-tackles-opioid-addiction-through-sun-program-16133592)
-   1. **Court-mandated programs**: Available through county drug & alcohol services
 1. **Additional Resources**
    1. Current drug use resource card: [Document reference](https://docs.google.com/document/d/e/2PACX-1vT2koI1AMLwAVcmOg_LGCgvUrFTH27EjOINZ_kGV6q8lO5so7eX70wv0FRWSLjCId6jfVeu5y-iu-uW/pub) for comprehensive local listings
-   1. [Health and Medical Care Resources in SLO and the Five Cities Area](https://showerthepeopleslo.org/wp-content/uploads/2025/08/Health-and-Medical-Care-Resources.pdf)
-   1. Free and low-cost options: [rehabs.org/centers/california/san-luis-obispo](https://rehabs.org/centers/california/san-luis-obispo/) for budget-friendly treatment centers
    1. Good Samaritan Shelter in Santa Maria has a detox program and apparently accepts referrals from 5CHC in SLO County
       - Location/Phone/Email/Hours: See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
 
@@ -2462,6 +2379,19 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 ## <a id="acute-financial-needs">Acute Financial Needs</a>
 
 1. **Primary Emergency Assistance Organizations**
+   1. **North County NeighborAid**
+      - What's Available: Emergency assistance for vulnerable families in North SLO County including gas cards for parents traveling to distant children's hospitals, groceries following crises, rental assistance, baby supplies, summer camp access, and utility payment support
+      - Eligibility: Vulnerable families in North SLO County; operates through professional referrals from social workers and educators
+      - Service Area: North San Luis Obispo County
+      - Location/Phone/Email/Hours: See [**North County NeighborAid**](Directory.md#North-County-NeighborAid) in the [Directory](Directory.md)
+      - Notes: Managed by [**Center for Family Strengthening**](Directory.md#CSF); funding fluctuations may create occasional waitlists
+      - Source: [cfsslo.org/north-county-neighboraid](https://cfsslo.org/north-county-neighboraid/)
+   1. **Auntie Isabell Foundation**
+      - What's Available: Low-interest microloans to promote equality and diversity in business for entrepreneurs starting or expanding ventures; grants for education, housing, transportation, job training, handling life's challenges, or child care
+      - Eligibility: Underrepresented groups in Paso Robles and SLO County
+      - Service Area: Paso Robles and SLO County
+      - Email: See [**Auntie Isabell Foundation**](Directory.md#Auntie-Isabell-Foundation) in the [Directory](Directory.md)
+      - Source: [auntieisabellfoundation.org](https://www.auntieisabellfoundation.org/)
    1. **Womenade SLO**
       - What's Available: One-time essential financial help for SLO city residents; emergency assistance for dental and medical care, diapers, furniture, rent, gas, groceries, and other essential needs; 100% of donations go directly to support those in need
       - Eligibility: SLO city residents in crisis; referrals from schools, medical professionals, and local social services
@@ -2470,10 +2400,12 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Source: [womenadeslo.org](https://www.womenadeslo.org/)
    1. **5Cities Homeless Coalition (5CHC)**
       - What’s Available: Case management and financial assistance for rent, deposit, and immediate needs based on variety of funding grants
+         - "Examples of assistance include support with utilities, transportation, auto repairs, clothing, and employment readiness. These funds can be used to pay for bills, or for goods or services; however no funds are given directly to the individual."
       - Eligibility: Residents throughout SLO County who are currently homeless or at-risk of losing housing
       - Location/Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
       - Access: Email or call to arrange confidential coordinated entry meeting
       - Website: [5chc.org/community-services/financial-assistance](https://5chc.org/community-services/financial-assistance)
+      - Website: [5chc.org/programs/immediate-needs](https://5chc.org/programs/immediate-needs)
    1. **Jewish Family Services**
       - Location/Phone: See [**Jewish Family Services**](Directory.md#Jewish-Family-Services) in the [Directory](Directory.md)
       - What's Available: Essential and emergency needs assistance including food, housing, transportation through gas cards, direct aid, and micro-grants
@@ -2541,6 +2473,17 @@ Homeless people can use the address of a friend, relative, or trusted service pr
          - Services: Small grants for immediate needs (typically limited to $200 per year per person/family, but larger amounts available for extreme needs); immediate needs assistance and referrals to area agencies
          - Collaboration: Works with EBAC, Social Services, Senior Housing, Mobile Home Ombudsman, Womenade, Senior Aid, Veterans Administration, Yes We Can Peacebuilders, County Food Bank, Hope's Village, Morro Bay Police Department, and Morro Bay City Council for monetary, mental health, and housing aid
          - Source: [losososcares.com](https://www.losososcares.com/)
+   1. **[Modest Needs](https://www.modestneeds.org/)**
+      - National nonprofit providing small emergency grants to low-income workers at risk of slipping into poverty
+      - Average grant: $750–$1,250
+      - Eligibility requirements:
+         - Must be working (acceptable income: employment, child support, Veteran's Benefits, or retirement income including Social Security)
+         - Total household income must be at least equal to monthly rent/mortgage plus $250 (the "self-sufficiency standard")
+         - Must not be undergoing change of ownership for property
+      - How to apply: Register online (takes under 5 minutes) and complete online grant application; need email account and most recent tax return or bank statements for all household adults
+      - Maximum grant varies by household income; determined during application process
+      - Available nationwide including California
+      - Source: [modestneeds.org](https://www.modestneeds.org/)
 1. **Veterans Emergency Assistance**
    1. [**American Legion Post 66**](https://post66slo.org/)
       - Location/Phone: See [**American Legion Post 66**](Directory.md#American-Legion-Post-66) in the [Directory](Directory.md)
@@ -2859,6 +2802,12 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. **San Luis Coastal Adult School**
       - Location: Morro Bay High School
       - Registration: [Pre-registration form available online](https://docs.google.com/forms/d/e/1FAIpQLScGDDpJ7J-WwHxph6QGMpsYUURdvkCWOkI9J-aGDGknXK928Q/viewform?usp=sf_link) [Source: ae.slcusd.org]
+   1. **The Literacy Connection** (SLO County Library Technology Learning Center)
+      - Services: Free volunteer-based tutoring for adult literacy, ESL, family learning; virtual conversation groups on Thursdays (mornings 10:30am–12pm and evenings 5–6:30pm via Zoom)
+      - Cost: Always free and confidential, no ID required
+      - Contact/Email: See [**The Literacy Connection**](Directory.md#Literacy-Connection) in the [Directory](Directory.md)
+      - Schedule: Flexible one-on-one or small group sessions
+      - Source: [slolibrary.org/index.php/adults/tlc](https://www.slolibrary.org/index.php/adults/tlc)
 1. **Specialized Skills Training and Certification**
    1. **Digital Literacy Classes**: Computer skills training available through multiple organizations
       - **The Literacy Connection** (SLO County Library): Free computer literacy tutoring as part of literacy goals; call [805-781-5077](tel:+1-805-781-5077) or complete [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
@@ -3030,6 +2979,23 @@ This program is for California residents with medically-certified limitations of
    1. Central Coast Commission for Senior Citizens
    1. Refer people out to the seniors’ resource guide
 1. People in immigration/resident alien/naturalization process
+   1. **Immigrant Legal Defense (ILD)** at Cal Poly DREAM Center
+      - Services: Free, confidential immigration legal services including deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications
+      - Cost: Free
+      - Eligibility: No specific restrictions stated; services available to all
+      - Location/Access: See [**Immigrant Legal Defense (ILD)**](Directory.md#Immigrant-Legal-Defense) in the [Directory](Directory.md)
+      - How to access: Schedule appointments via Calendly link on Dream Center website
+      - Source: [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
+   1. **805 Immigrant**
+      - Website: [sites.google.com/causenow.org/ccirc/home](https://sites.google.com/causenow.org/ccirc/home?authuser=0)
+      - Mission: A coalition in San Luis Obispo, Santa Barbara, and Ventura counties that protects and advocates the rights of immigrant communities in the Central Coast
+      - Services:
+         - Rapid response network for immigrants
+         - Know Your Rights (KYR) videos (available in Spanish, Mixteco, and English)
+         - Resource map for immigrants across the tri-county area
+         - Emergency support guidance for detained individuals
+      - Alert/Emergency Number: [805-870-8855](tel:+1-805-870-8855)
+      - Source: [sites.google.com/causenow.org/ccirc/home](https://sites.google.com/causenow.org/ccirc/home?authuser=0)
    1. **Central Coast Coalition for Undocumented Student Success**
       - Contact: See [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) in the [Directory](Directory.md)
       - Coverage: Northern Santa Barbara and San Luis Obispo Counties
@@ -3281,8 +3247,25 @@ This program is for California residents with medically-certified limitations of
       - Has a [list of ways people can pay for services](https://centerforautism.com/services/parent-resources/additional-funding/)
    1. Alzheimer's Association / Family Caregiver Support Groups
 1. GLBTQ
-   1. [GALA](https://www.galacc.org/)
-   1. [TranzCentralCoast](https://www.tranzcentralcoast.org/)
+   1. **GALA Pride & Diversity Center**
+      - Contact: See [**GALA Pride & Diversity Center**](Directory.md#GALA) in the [Directory](Directory.md)
+      - Website: [galacc.org](https://www.galacc.org/)
+      - Mission: Supports and empowers people of all sexual orientations, gender identities, and expressions to strengthen and unite the Central Coast community
+      - Services:
+         - Support groups: Trans/Genderqueer Support Group, Stand Out (Parents/Families of LGBTQ+ youth), Trans Youth Support Group (ages 11–18), Senior Social, LGBTQ+ Alcoholics Anonymous
+         - LGBTQ-affirming therapy services (bilingual therapist available)
+         - SLO ACCEPTance Project: trains mental health professionals to provide queer and trans-affirming services
+         - Annual Pridefest celebration (May–June)
+      - Hours: M–F 8am–5pm
+      - Phone: [805-541-4252](tel:+1-805-541-4252)
+      - Source: [galacc.org](https://www.galacc.org/)
+   1. **TranzCentralCoast**
+      - Contact: See [**TranzCentralCoast**](Directory.md#TranzCentralCoast) in the [Directory](Directory.md)
+      - Website: [tranzcentralcoast.org](https://www.tranzcentralcoast.org/)
+      - Mission: Uses outreach and advocacy to help transgender and gender-diverse people live authentic, productive, and happy lives in a safe and affirming community
+      - Services: Trans* Youth Support Group (meets 2nd and 4th Tuesday of every month)
+      - Phone: [805-242-3821](tel:+1-805-242-3821)
+      - Source: [tranzcentralcoast.org](https://www.tranzcentralcoast.org/)
 
 ## <a id="peer-support-groups">Peer Support Groups</a>
 

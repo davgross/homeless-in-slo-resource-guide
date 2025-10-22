@@ -55,6 +55,13 @@
    - Location: Morro Bay Public Library parking lot, 625 Harbor St., Morro Bay
    - Hours: Every Monday, 12pm–3pm
 
+## <a id="Abundance-Shop">Abundance Shop</a>
+
+<!-- Source: https://www.thriftstores.net/store/1467/abundance-shop/ -->
+- Location: 2190 9th St. Suite C, Los Osos
+- Phone: [805-528-1370](tel:+1-805-528-1370)
+- Notes: Thrift store offering furniture, clothing, antiques, and other household items
+
 ## <a id="AARP-Tax-Aide">AARP Tax-Aide Program (Central Coast Tax-Aide)</a>
 
 - [ccfreetax.org](https://www.ccfreetax.org/)
@@ -129,9 +136,22 @@
 
 ## <a id="Aegis-Treatment-Centers">Aegis Treatment Centers</a>
 
-- [pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/)
-- Location: 1551 Bishop St. #520, SLO
-- Phone: [805-461-5212](tel:+1-805-461-5212)
+- Locations:
+   - Atascadero: 6500 Morro Rd. Suites C & D, Atascadero
+   - SLO: 1551 Bishop St. #520, SLO
+- Phone: [805-461-5212](tel:+1-805-461-5212) (both locations)
+- Hours:
+   - Medication services:
+      - M–Th: 6am–10am, 11am–3:30pm
+      - F: 6am–10am, 11am–1:30pm
+      - Sa/Su/Holidays: 7am–11am
+   - Administrative:
+      - M–Th: 6am–4pm
+      - F: 6am–2:30pm
+      - Sa/Su/Holidays: 7am–11am
+- How to access: Walk-ins welcome; same-day admissions available
+- Notes: Opioid Treatment Program (OTP) offering Medication-Assisted Treatment (MAT/MOUD) with methadone and Suboxone®; specialized services for pregnant women; relapse prevention; accepts Medi-Cal, Medicare, TRICARE, most commercial insurance, and self-pay; CARF accredited Licensed Narcotic Treatment Program
+- Website: [pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero](https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/) (Atascadero) / [pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/) (SLO)
 
 ## <a id="Agape-Church">Agape Church</a>
 
@@ -240,6 +260,14 @@
 - Email: [info@aspirecounselingservice.com](mailto:info@aspirecounselingservice.com)
 - Hours: M–F 9am–9pm, Sa. 9am–1pm
 - Notes: Hosts [**Recovery Dharma**](#Recovery-Dharma)
+
+## <a id="Auntie-Isabell-Foundation">Auntie Isabell Foundation</a>
+
+<!-- Source: https://www.auntieisabellfoundation.org/ -->
+- [auntieisabellfoundation.org](https://www.auntieisabellfoundation.org/)
+- Email: [info@auntieisabellfoundation.org](mailto:info@auntieisabellfoundation.org)
+- Service Area: Paso Robles and SLO County
+- Notes: Offers low-interest microloans to promote equality and diversity in business; provides grants for education, housing, transportation, job training, handling life's challenges, or child care; specifically targets underrepresented groups
 
 ## <a id="Assistance-League-of-SLO-County">Assistance League of SLO County</a>
 
@@ -664,15 +692,22 @@
 
 ## <a id="Central-Coast-Veterans-Helping-Veterans">Central Coast Veterans Helping Veterans</a>
 
-- Phone: [805-242-5575](tel:+1-805-242-5575)
+<!-- Source: https://www.ccvhv.org/ -->
+- [ccvhv.org](https://www.ccvhv.org/)
+- Mailing address: P.O. Box 12725, SLO, CA 93406
+- Phone: [805-285-5526](tel:+1-805-285-5526)
+- Email: [contact@ccvhv.org](mailto:contact@ccvhv.org)
 - Contact: Bill Crewe (President)
-- Note: Limited information available online (as of September 2025); contact directly for details about services and location
+- Notes: Provides support for approximately 14,000 veterans in SLO County including Veterans Treatment Court judicial support, mentorship programs ("battle buddy" advocates), home health care for homebound veterans, and general support for transitioning from military to civilian life; motto: "No One Left Behind"
 
 ## <a id="Central-Coast-Veterans-Services-Collaborative">Central Coast Veterans Services Collaborative</a>
 
+<!-- Source: https://slovsc.org/ -->
+- [slovsc.org](https://slovsc.org/)
 - Phone: [805-270-2988](tel:+1-805-270-2988)
-- Contact: Paul Worsham
-- Note: Unable to verify this organization through online sources (as of September 2025); contact directly for details about services and location
+- Email: [info@slovsc.org](mailto:info@slovsc.org)
+- Contact: Paul Worsham (Chairman of the Board)
+- Notes: Works to organize, coordinate, communicate, and connect many services available to local veterans through three main task groups: Health Task Group (develops personal and family health opportunities), Employment Task Group (increases employer commitment to hiring veterans and connects them to education/training programs), and Housing Task Group (works to increase affordable housing for homeless and working veterans with vouchers)
 
 ## CHC
 
@@ -1060,7 +1095,26 @@
 - Phone: [818-731-4984](tel:+1-818-731-4984)
 - Email: [director@frontporchslo.org](mailto:director@frontporchslo.org)
 - Hours: M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks)
-- How to access: oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here.”
+- How to access: oriented toward students from Cuesta College or Cal Poly, but "Whoever you are, you are welcome here."
+
+## <a id="GALA">GALA Pride & Diversity Center</a>
+
+- [galacc.org](https://galacc.org/)
+- Location: 1060 Palm St., SLO
+- Phone: [805-541-4252](tel:+1-805-541-4252)
+- Email: [info@galacc.org](mailto:info@galacc.org)
+- Hours: M–F 8am–5pm
+- Notes:
+   - Supports and empowers people of all sexual orientations, gender identities, and expressions
+   - Support groups include:
+      - Trans/Genderqueer Support Group
+      - Stand Out (Parents/Families of LGBTQ+ youth)
+      - Trans Youth Support Group (ages 11–18)
+      - Senior Social
+      - LGBTQ+ Alcoholics Anonymous
+   - Offers LGBTQ-affirming therapy services (bilingual therapist Rocio Anaya)
+   - SLO ACCEPTance Project trains mental health professionals to provide queer and trans-affirming services
+   - Annual Pridefest celebration (May–June)
 
 ## <a id="Genoa-Pharmacy">Genoa Pharmacy</a>
 
@@ -1237,6 +1291,13 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - Email: [customerservice@housekeys.org](mailto:customerservice@housekeys.org)
 - How to access: Create account at MyHouseKeys to enter drawings and receive notifications about available units
 
+## <a id="Immigrant-Legal-Defense">Immigrant Legal Defense (ILD)</a>
+
+<!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
+- Location: Cal Poly Dream Center, Cal Poly SLO campus
+- How to access: Schedule appointments via Calendly link on Dream Center website at [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
+- Notes: Nonprofit providing free, confidential immigration legal services including deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications; operates through partnership with Cal Poly's Dream Center
+
 ## <a id="HASLO">Housing Authority of SLO (HASLO)</a>
 
 - [haslo.org](https://www.haslo.org/)
@@ -1393,6 +1454,14 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 - [literacyforlifeslo.org](https://www.literacyforlifeslo.org/)
 - Location: 992 Monterey St. #C, SLO
 - Phone: [805-541-4219](tel:+1-805-541-4219)
+
+## <a id="Literacy-Connection">The Literacy Connection</a>
+
+<!-- Source: https://www.slolibrary.org/index.php/adults/tlc -->
+- [slolibrary.org/index.php/adults/tlc](https://www.slolibrary.org/index.php/adults/tlc)
+- Phone: [805-781-5077](tel:+1-805-781-5077)
+- Email: [TLCinfo@slolibrary.org](mailto:TLCinfo@slolibrary.org)
+- Notes: Program of [**SLO County Public Libraries**](#SLO-County-Public-Libraries) offering free, confidential tutoring (no ID required) for adult literacy, ESL, family learning, and virtual conversation groups; one-on-one and small group formats available; volunteer tutors provide flexible scheduling
 
 ## <a id="Little-Free-Libraries">Little Free Libraries</a>
 
@@ -1577,9 +1646,11 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 
 - [losososcares.com](https://www.losososcares.com/)
 - Location: Sunnyside School, 800 Manzanita Dr., Room 18, Los Osos
+   - Community Dinners: 2180 Palisades Ave., Los Osos
 - Phone: [805-592-2701](tel:+1-805-592-2701)
 - Email: [wecareinlososos@gmail.com](mailto:wecareinlososos@gmail.com)
 - Hours: Tu/W/Th 1–3pm
+   - Community Dinners: Wednesdays 5–6pm
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
 
@@ -1763,6 +1834,16 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
 ## Noor Foundation
 
 > *See [**SLO Noor Foundation**](#SLO-Noor-Foundation)*
+
+## <a id="North-County-NeighborAid">North County NeighborAid</a>
+
+<!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
+- Mailing: 7343 El Camino Real #346, Atascadero
+- Office: 1428 Phillips Lane #203, SLO
+- Phone: [805-466-5404](tel:+1-805-466-5404)
+- Email: [info@NoCoNeighborAid.org](mailto:info@NoCoNeighborAid.org)
+- Hours: By appointment
+- Notes: Grassroots initiative managed by [**Center for Family Strengthening**](#CSF); provides emergency assistance to vulnerable families in North SLO County including gas cards for hospital travel, groceries following crises, rental assistance, baby supplies, summer camp access, and utility payment support; operates through professional referrals from social workers and educators; funding fluctuations may create occasional waitlists
 
 ## <a id="North-County-Christian-Thrift-Shop">North County Christian Thrift Shop</a>
 
@@ -2766,6 +2847,16 @@ Hospital Presumptive Eligibility allows qualified hospitals to provide immediate
    - [805-644-6322](tel:+1-805-644-6322) (voice)
 - Email: [info@tcglad.org](mailto:info@tcglad.org)
 - Hours: M–F 8:30am–5pm (closed Noon–1pm)
+
+## <a id="TranzCentralCoast">TranzCentralCoast</a>
+
+- [tranzcentralcoast.org](https://www.tranzcentralcoast.org/)
+- Location: 1060 Palm St., SLO
+- Phone: [805-242-3821](tel:+1-805-242-3821)
+- Email: [TranzCentralCoast@gmail.com](mailto:TranzCentralCoast@gmail.com)
+- Notes:
+   - Uses outreach and advocacy to help transgender and gender-diverse people live authentic, productive, and happy lives in a safe and affirming community
+   - Offers Trans* Youth Support Group (meets 2nd and 4th Tuesday of every month)
 
 ## <a id="UC-Cooperative-Extension">U.C. Cooperative Extension - SLO County</a>
 

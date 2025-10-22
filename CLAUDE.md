@@ -50,7 +50,7 @@ Other tasks include:
 7. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
 8. **Divide information correctly between outline and directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Outline. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Resource Guide.
 9. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
-10. **Transition to prose**: In @"Resource guide.md", once we have collected enough information, rewrite that information as easy-to-read and well-organized paragraphs, containing the information most useful and relevant to our target audience.
+10. **Transition to prose**: In @"Resource guide.md", once we have collected enough information, rewrite that information as easy-to-read and well-organized paragraphs, containing the information most useful and relevant to our target audience. Our site style for prose sections is to have one complete sentence per line of markdown, so a paragraph of four sentences will consist of four consecutive lines of markdown.
 
 ## Current State
 
@@ -149,7 +149,6 @@ When working on the outline, these search patterns are frequently useful:
 
 - `grep -n "To-do"` - Find remaining To-do items
 - `grep -n "<a id="` - Find major section headings
-- `grep -n "Source:"` - Find existing source annotations
 
 ### Finding Agencies Needing Directory Entries
 
@@ -160,6 +159,11 @@ When systematically moving agencies from the outline to the Directory, these pat
 - `grep -n "http" "Resource guide.md" | grep -v "Source:"` - Find hyperlinks (potential agencies)
 - Look for patterns like "Location:", "Phone:", "Email:", "Hours:" that indicate contact information
 
+### Current Date
+
+Claude is sometimes confused about the current date (basing this perhaps on its build date or training date, perhaps).
+Claude can use the linux `date` command to determine the actual current date.
+
 ### Alphabetical Insertion in Directory.md
 
 When adding new entries to Directory.md:
@@ -168,13 +172,15 @@ When adding new entries to Directory.md:
 - Identify the correct alphabetical position by finding the entries immediately before and after
 - Read a range of lines around the insertion point to verify exact placement: `sed -n '100,150p' Directory.md`
 - Remember that entries starting with "The" are alphabetized by the word after "The" (e.g., "The Center" goes under C, not T)
+- The abbreviation "St." is alphabetized as though it were the word "Saint"
 
 ### Unicode Character Pitfalls
 
 When editing files with the Edit tool:
 
 - Em-dashes (—), en-dashes (–), and hyphens (-) are different characters and won't match each other
-- Curly quotes (“ ” ‘ ’) vs. straight quotes (" ') won't match
+- Curly quotes and apostrophes (“ ” ‘ ’) vs. straight quotes and apostrophes (" ') won't match
+- Try not to replace curly quotes and apostrophes with their straight quote/apostrophe equivalents when you manipulate text.
 - If you get "String to replace not found" errors, read the exact text with the Read tool and copy it character-for-character
 - When in doubt, use smaller, simpler replacement strings that avoid special characters
 - The `cat -A` command can reveal hidden unicode characters if troubleshooting is needed
@@ -183,7 +189,7 @@ When editing files with the Edit tool:
 
 Not everything needs a separate Directory entry:
 
-- **Separate entries**: Independent agencies, organizations with their own governance
+- **Separate entries**: Independent agencies, organizations with their own governance, programs that are separable (have their own location, phone number, hours of operation, etc. distinct from their parent agency)
 - **Program notes**: Programs operated by larger organizations (e.g., "Head Start" is a CAPSLO program, not separate)
 - **Cross-reference patterns**:
    - If it's a program: mention it in the parent organization's Notes field
