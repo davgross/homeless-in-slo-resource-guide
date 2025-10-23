@@ -429,6 +429,7 @@ If you are an Elks Lodge member, [SLO Elks Lodge #322](https://rv.elks322.org) a
 Contact them at [805-543-0322](tel:+1-805-543-0322) (M–F, 10am–4pm).
 
 Some sites have RV size limits and other restrictions.
+See the Directory entries for specific information about rates, size limits, available hookups, and amenities at each location.
 
 ### <a id="transitional-and-long-term-housing">Transitional and Long-Term Housing</a>
 
@@ -566,7 +567,8 @@ The projects in this subsection are not yet housing people but hope to do so soo
 [**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarly single seniors.
 As of October 2025 the project is still under construction and is not admitting residents.
 
-[**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units and transitional housing units that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city.
+[**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city on county-owned land.
+Priority is given to Bob Jones Bike Trail encampment residents.
 As of October 2025 the project is still under construction and is not admitting residents.
 
 Restorative Partners is creating a [**Healing and Restoration Campus**](Directory.md#Healing-and-Restoration-Campus) near Laguna Lake in SLO, which is meant to have 34 private bedrooms and shared communal facilities.
@@ -600,9 +602,9 @@ Here are some residential treatment options in our area:
 
 - [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only.
 - [**Casa Solana**](Directory.md#Captive-Hearts) (Grover Beach) for women only. (Also known as “Sunshine House.”)
-- [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only.
+- [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only; (division of nonprofit Gate Help Inc.).
 - [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) for men only.
-- [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) for women only.
+- [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) for women only; (division of nonprofit Gate Help Inc.).
 - [**Middlehouse**](Directory.md#Middlehouse) (SLO) for men only.
 - [**Sun Street Centers**](Directory.md#Middlehouse) (SLO) for men only.
 
@@ -723,6 +725,7 @@ You must fill out an application to join the program, and you must reserve your 
 They also can deliver meals to your home if you are homebound.
 
 [**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) is a similar program specific to the Five Cities area that provides daily meals, delivered to the homes of people who cannot prepare nutritious meals for themselves and do not have caretakers who can do so.
+They serve homebound neighbors in Arroyo Grande, Grover Beach, Oceano, Pismo Beach, and Shell Beach.
 They serve seniors and people with temporary or permanent disabilities.
 
 Low-income seniors (aged 60 and above) can get $20–50 in credit to use at participating farmers markets from the California Department of Food and Agriculture.
@@ -1471,8 +1474,11 @@ Substance Abuse and Mental Health Services Administration (SAMHSA) has a free ph
 
 [**Access Support Network**](Directory.md#ASN) offers suboxone (buprenorphine) treatment and opiate overdose prevention training.
 
-[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) offers methadone and suboxone treatment, withdrawal management, and mental health support.
-They accept MediCal, Medicare, and most other insurance.
+[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) is an Opioid Treatment Program (OTP) offering Medication-Assisted Treatment (MAT/MOUD) with methadone and Suboxone®.
+They provide specialized services for pregnant women and relapse prevention.
+Walk-ins are welcome and same-day admissions are available.
+They accept Medi-Cal, Medicare, TRICARE, most commercial insurance, and self-pay.
+They are a CARF accredited Licensed Narcotic Treatment Program.
 
 The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Oceano, and at 77 Casa St. in SLO specialize in behavioral health.
 Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers substance abuse treatment and needle exchange.
@@ -1610,7 +1616,9 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
    - Website: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/)
 1. **Dignity Health French Hospital Medical Center Home Health and Hospice**
    - Services: Team-oriented medical care, symptom and pain management, emotional and spiritual support tailored to patient needs
-   - Contact/Location/Insurance/Financial Assistance: See [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) in the [Directory](Directory.md)
+   - Contact/Location: See [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) in the [Directory](Directory.md); Phone: [800-549-9609](tel:+1-800-549-9609)
+   - Insurance: Accepts Medicare and Medi-Cal/CenCal Health
+   - Financial Assistance: Financial assistance available for families up to 250% of Federal Poverty Level (free care) and 250–400% of FPL (discounted care); call [888-488-7667](tel:+1-888-488-7667) or financial counselor [805-542-6321](tel:+1-805-542-6321)
    - Website: [dignityhealth.org](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/home-health-hospice-and-infusion-services)
 
 **Additional County-Wide Hospice and Palliative Care Resources (pending human review):**

@@ -153,8 +153,6 @@
       - F: 6am–2:30pm
       - Sa/Su/Holidays: 7am–11am
 - How to access: Walk-ins welcome; same-day admissions available
-- Notes: Opioid Treatment Program (OTP) offering Medication-Assisted Treatment (MAT/MOUD) with methadone and Suboxone®; specialized services for pregnant women; relapse prevention; accepts Medi-Cal, Medicare, TRICARE, most commercial insurance, and self-pay; CARF accredited Licensed Narcotic Treatment Program
-<!-- To-do: move these notes to an appropriate place in the Resource Guide -->
 
 ## <a id="Agape-Church">Agape Church</a>
 
@@ -181,8 +179,6 @@
 - Hours:
    - Arroyo Grande: M–Sa 9am–5pm (closed Noon–12:30pm)
    - Morro Bay: Tu–Sa 9am–5pm (closed Noon–12:30pm)
-- Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
-<!-- To-do: move Notes information to appropriate place in Resource Guide -->
 
 ## AIDS Support Network
 
@@ -291,8 +287,6 @@
 - [auntieisabellfoundation.org](https://www.auntieisabellfoundation.org/)
 - Email: [info@auntieisabellfoundation.org](mailto:info@auntieisabellfoundation.org)
 - Service Area: Paso Robles and SLO County
-- Notes: Offers low-interest microloans to promote equality and diversity in business; provides grants for education, housing, transportation, job training, handling life's challenges, or child care; specifically targets underrepresented groups
-<!-- To-do: move Notes data to appropriate place in Resource Guide -->
 
 ## <a id="Assistance-League-of-SLO-County">Assistance League of SLO County</a>
 
@@ -342,8 +336,6 @@
    - Office: M–F 9am–5pm (closed Noon–1pm), Sa 10am–5pm (closed Noon–1pm), Su Noon–5pm (closed 1:30–2pm)
    - Storage access: Daily 7am–7pm (Daylight Saving Time) or 7am–6pm (standard time)
    - Closed major holidays
-- Notes: Month-to-month rentals; storage units from 5x6 to 12x30; outside vehicle storage for cars, boats, and RVs up to 30 feet; free lock included with new rentals
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
 
 ## <a id="BHBH">Behavioral Health Bridge Housing (BHBH) Program</a>
 
@@ -483,8 +475,6 @@
    - Facebook: [facebook.com/calpolydoggydays](https://www.facebook.com/calpolydoggydays/)
    - Instagram: [@cpdoggydays](https://instagram.com/cpdoggydays)
 - Phone: [805-756-2419](tel:+1-805-756-2419) (Cal Poly Animal Science Department)
-- Notes: Free veterinary clinics (vaccinations, exams, nail trims) for pets of homeless and low-income individuals; clinics held 3–4 times per quarter at various SLO County locations
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
 
 ## <a id="Cal-Poly-Food-Pantry">Cal Poly Food Pantry</a>
 
@@ -516,8 +506,6 @@
 - Location: 1275 Tamson Dr., Cambria
 - Phone: [805-550-5489](tel:+1-805-550-5489)
 - Hours: Tu–Sa 10am–4pm
-- Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
 
 ## <a id="Cambria-Vineyard-Church">Cambria Vineyard Church</a>
 
@@ -527,8 +515,6 @@
 - Phone: [805-927-5550](tel:+1-805-927-5550)
 - Email: [info@cambriavineyard.org](mailto:info@cambriavineyard.org)
 - Hours (food pantry): 2nd & 4th Thursdays, Noon–2pm
-- Notes: Offers bags of food to anyone in need; delivery available for those who are signed up and cannot pick up at the church
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
 
@@ -539,8 +525,6 @@
 - Hours:
    - Office: Tu–Th 10am–2pm (closed Fridays and holidays)
    - Food pantry ("Harvest Bag"): 1st, 3rd, 4th, & 5th Wednesdays at 10:30am
-- Notes: Partners with SLO County Food Bank for weekly food distribution; also operates "Got Your Back" weekend food distribution for kids in need; hosts AA and Al-Anon support groups
-<!-- To-do: move Notes to appropriate places in Resource Guide -->
 
 ## CAPSLO
 
@@ -588,18 +572,17 @@
 
 ## <a id="Catholic-Charities">Catholic Charities</a>
 
-<!-- Source: https://catholiccharitiesdom.org/ and https://rentassistance.org/program/catholic_charities_diocese_of_monterey_san_luis_obispo_county_san_luis_obispo_ca.html -->
+<!-- Source: https://catholiccharitiesdom.org/contact-us/ verified October 2025 -->
 - [catholiccharitiesdom.org](https://catholiccharitiesdom.org/)
    - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
    - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
-- Locations:
-   - 3592 Broad St. #104, SLO (confirmed)
-   - 3220 S. Higuera St. #100, SLO (confirmed)
+- Location: 3250 S. Higuera St. #D, SLO
 - Phone: [805-541-9110](tel:+1-805-541-9110)
    - Immigration Services: [831-722-2675](tel:+1-831-722-2675)
-   - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121)
+   - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Note: Tattoo removal office is in Santa Cruz, not SLO)
 - Hours: M–F 9am–5pm
-<!-- Note: Verified two SLO addresses (Broad St. and S. Higuera St.); unable to confirm 751 Palm St. or 3220 S. Higuera St. #225 or #D locations through online research (as of October 2025). Services offered include Financial Stability/Pathway to Stability, Nutrition Education and Food Access, Immigration Services, Disaster Relief, and Tattoo Removal Program -->
+- Services: Supportive Services, Legal Immigration & Citizenship
+<!-- Note: Verified via catholiccharitiesdom.org/contact-us/ October 2025. The organization also has a location in Paso Robles at St. Rose of Lima Church, 642 Trigo Lane -->
 
 ## <a id="CenCal">CenCal</a>
 
@@ -757,8 +740,6 @@
 - Phone: [805-285-5526](tel:+1-805-285-5526)
 - Email: [contact@ccvhv.org](mailto:contact@ccvhv.org)
 <!-- Note: Organization uses P.O. Box; no physical office address or public operating hours found (as of October 2025). Contact via phone or email for services -->
-- Notes: Provides support for approximately 14,000 veterans in SLO County including Veterans Treatment Court judicial support, mentorship programs ("battle buddy" advocates), home health care for homebound veterans, and general support for transitioning from military to civilian life; motto: "No One Left Behind"
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Central-Coast-Veterans-Services-Collaborative">Central Coast Veterans Services Collaborative</a>
 
@@ -767,8 +748,6 @@
 - Phone: [805-270-2988](tel:+1-805-270-2988)
 - Email: [info@slovsc.org](mailto:info@slovsc.org)
 <!-- Note: Physical office address and hours of operation not publicly listed (as of October 2025); contact via phone or email -->
-- Notes: Works to organize, coordinate, communicate, and connect many services available to local veterans through three main task groups: Health Task Group (develops personal and family health opportunities), Employment Task Group (increases employer commitment to hiring veterans and connects them to education/training programs), and Housing Task Group (works to increase affordable housing for homeless and working veterans with vouchers)
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## CHC
 
@@ -1023,8 +1002,17 @@
 - Location: 1359 21st Court, Oceano
 - Phone: [805-668-9185](tel:+1-805-668-9185)
 - Email: [thediscipleshiphome15@gmail.com](mailto:thediscipleshiphome15@gmail.com)
-- Notes: Faith-based recovery and mentorship program for men
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
+
+## <a id="Dove-Creek-Church">Dove Creek Church of the Nazarene</a>
+
+<!-- Source: Web search verified October 2025 -->
+- [dovecreekchurch.org](https://dovecreekchurch.org/)
+- Location: 9333 Santa Barbara Rd., Atascadero
+- Phone: [805-466-9505](tel:+1-805-466-9505)
+- Email: [office@dovecreekchurch.org](mailto:office@dovecreekchurch.org)
+- Notes: Operates a food pantry; also known as Atascadero Dove Creek Church of the Nazarene
+<!-- Note: See also [**Restoration Church**](#Restoration-Church) which may be a ministry at this same address -->
+<!-- Note: Unable to determine food pantry hours from reputable online sources (researched October 2025). Call 805-466-9505 or email office@dovecreekchurch.org to verify hours. -->
 
 ## Drug and Alcohol Services
 
@@ -1088,8 +1076,6 @@
 - Location: 480 Morro Bay Blvd., Morro Bay
 - Phone: [805-772-2840](tel:+1-805-772-2840)
 - Hours: M 11am–5pm, W–Sa 11am–5pm (closed Tu & Su)
-- Notes: Operated by St. Timothy's Catholic Church; staffed by volunteers; accepts furniture, small appliances, clothing, books, tools, and home goods
-<!-- To-do: move Notes to appropriate section(s) of the Resource Guide -->
 
 ## <a id="Family-and-Industrial-Medical-Center">Family and Industrial Medical Center</a>
 
@@ -1130,8 +1116,6 @@
 - Location: 780 Bello Street, Pismo Beach
 - Phone: [805-773-2053](tel:+1-805-773-2053)
 - Email: [info@5citiesmow.com](mailto:info@5citiesmow.com)
-- Notes: Serves homebound neighbors in Arroyo Grande, Grover Beach, Oceano, Pismo Beach, and Shell Beach
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
 
 ## <a id="Flying-Flags-Avila-Beach">Flying Flags Avila Beach</a>
 
@@ -1139,8 +1123,6 @@
 - Location: 6450 Babe Lane, Avila Beach
 - Phone: [805-888-0158](tel:+1-805-888-0158)
 - Hours: Every day 8am–6pm
-- Notes: RV park with seaside campsites, spacious RV sites, beach cottages (25 campsites total)
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Foxys-Thrift-Shop">Foxy's Thrift Shop</a>
 
@@ -1176,9 +1158,6 @@
 - [dignityhealth.org/central-coast/locations/frenchhospital](https://www.dignityhealth.org/central-coast/locations/frenchhospital)
 - Location: 1911 Johnson Ave., SLO
 - Phone: [805-542-6621](tel:+1-805-542-6621) (ER) or [805-543-5353](tel:+1-805-543-5353) (front desk)
-- Notes:
-   - Home Health and Hospice service: [800-549-9609](tel:+1-800-549-9609); accepts Medicare and Medi-Cal/CenCal Health; financial assistance available for families up to 250% of Federal Poverty Level (free care) and 250–400% of FPL (discounted care); call [888-488-7667](tel:+1-888-488-7667) or financial counselor [805-542-6321](tel:+1-805-542-6321)
-<!-- To-do: move details about financial assistance to appropriate section of Resource Guide -->
 
 ## <a id="Front-Porch">Front Porch</a>
 
@@ -1207,7 +1186,6 @@
    - Offers LGBTQ-affirming therapy services (bilingual therapist Rocio Anaya)
    - SLO ACCEPTance Project trains mental health professionals to provide queer and trans-affirming services
    - Annual Pridefest celebration (May–June)
-<!-- To-do: move Notes to appropriate section of Resource Guide -->
 
 ## <a id="Genoa-Pharmacy">Genoa Pharmacy</a>
 
@@ -1266,8 +1244,6 @@
    - Paso Robles: Su–Th 9am–7pm, Fr–Sa 9am–8pm
    - SLO Store: Daily 9am–6pm
    - SLO Outlet: Daily 7am–4pm
-- Notes: Also offers free employment services, career counseling, skills training, résumé preparation
-<!-- To-do: move Notes to appropriate section of Resource Guide (may require additional research) -->
 
 ## <a id="Grace-Central-Coast">Grace Central Coast</a> "God's Storehouse"
 
@@ -1309,8 +1285,6 @@
    - [805-748-6204](tel:+1-805-748-6204)
    - [805-748-8491](tel:+1-805-748-8491)
 - Email: [info@gryphonsociety.weebly.com](mailto:info@gryphonsociety.weebly.com)
-- Notes: Division of nonprofit Gate Help Inc.; operates sober living homes for people in recovery
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
 
 ## <a id="Habitat-for-Humanity">Habitat for Humanity SLO County</a>
 
@@ -1422,8 +1396,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Location: Cal Poly Dream Center, Cal Poly SLO campus
 - How to access: Schedule appointments via Calendly at [calendly.com/csulegalservices/ild](https://calendly.com/csulegalservices/ild?month=2025-02) or through Dream Center website at [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
 <!-- Note: No standalone phone number, email, or physical address publicly listed (as of October 2025); contact via online appointment system only -->
-- Notes: Nonprofit providing free, confidential immigration legal services including deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications; operates through partnership with Cal Poly's Dream Center
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="HASLO">Housing Authority of SLO (HASLO)</a>
 
@@ -1498,7 +1470,6 @@ This program helps ensure uninsured patients can access necessary medical care w
    - Judson Terrace Lodge: 62+ age requirement, 31 low-income affordable apartments
    - Low-income seniors; HUD residents typically pay 30% of gross income for rent
    - Applications available only when waiting list is open; contact directly for current status
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Kings-Cupboard">King's Cupboard at El Morro Church</a>
 
@@ -1507,8 +1478,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-528-0391](tel:+1-805-528-0391)
 - Hours: First four Tuesdays of each month, 9–11am
 <!-- Note: No website found (as of October 2025) -->
-- Notes: Provides groceries to supplement residents of Los Osos, Morro Bay, and Cayucos who are in need; not a USDA Commodities program and open to anyone who needs extra help
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Kritter-Care">Kritter Care</a>
 
@@ -1532,7 +1501,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Email: [info@lesageriviera.com](mailto:info@lesageriviera.com)
 - Hours: M–Sa 9am–4:30pm, Su 9am–3pm
 - Notes: RV park with rates of $750/month May 1st–Labor Day, $600/month rest of year; RV size limit up to 29 feet; full hookups available; close to beaches, golf course, boardwalks; newly remodeled bathrooms; on-site laundry
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Legacy-Church-Pantry">Legacy Church Pantry</a>
 
@@ -1541,8 +1509,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Location: 6030 Del Rio Rd., Atascadero
 - Phone: [805-466-8385](tel:+1-805-466-8385)
 - Hours (food pantry): Th 1–2pm
-- Notes: Weekly food pantry open to anyone in need
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
 
@@ -1607,8 +1573,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-781-5077](tel:+1-805-781-5077)
 - Email: [TLCinfo@slolibrary.org](mailto:TLCinfo@slolibrary.org)
 - Notes: Program of [**SLO County Public Libraries**](#SLO-County-Public-Libraries)
-- Notes: offering free, confidential tutoring (no ID required) for adult literacy, ESL, family learning, and virtual conversation groups; one-on-one and small group formats available; volunteer tutors provide flexible scheduling
-<!-- To-do: move this second line of the Notes to the appropriate section(s) of the Resource Guide -->
 
 ## <a id="Little-Free-Libraries">Little Free Libraries</a>
 
@@ -1846,7 +1810,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-781-4948](tel:+1-805-781-4948)
 - Hours: M–F 8am–5pm
 - Notes: For children ages 0–5 with behavioral or mental health issues
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
 
 ## <a id="Meals-that-Connect">Meals that Connect</a>
 
@@ -1940,8 +1903,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Hours:
    - Mondays: 4:30pm (doors open for pantry shopping, free clothes, towels, toiletries)
    - Dinner service: 5–5:45pm
-- Notes: Provides hot meals, coffee, juices, water; food pantry with canned goods, pasta, bread, vegetables, fruit, desserts (varies by donations); also serves Wednesday meals at South Bay Community Center in Los Osos
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## My Home for Hope
 
@@ -1953,10 +1914,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Mailing address: P.O. Box 3158, SLO
 - Phone (immediate crisis support): NAMI national helpline [800-950-6264](tel:+1-800-950-6264) (M–F 7am–3pm PT), or call/text 988
 - Email: [namisanluisobispo@gmail.com](mailto:namisanluisobispo@gmail.com)
-- Notes:
-   - Local chapter of National Alliance on Mental Illness
-   - Offers support groups, education, and advocacy for individuals and families affected by mental illness
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Narcotics-Anonymous">Narcotics Anonymous</a>
 
@@ -2005,9 +1962,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Email: [info@NoCoNeighborAid.org](mailto:info@NoCoNeighborAid.org)
 - Hours: By appointment
 - Notes: Grassroots initiative managed by [**Center for Family Strengthening**](#CSF)
-- Notes: provides emergency assistance to vulnerable families in North SLO County including gas cards for hospital travel, groceries following crises, rental assistance, baby supplies, summer camp access, and utility payment support; operates through professional referrals from social workers and educators; funding fluctuations may create occasional waitlists
 <!-- Note: No dedicated website found; information available on CSF website (as of October 2025) -->
-<!-- To-do: move 2nd line of Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="North-County-Christian-Thrift-Shop">North County Christian Thrift Shop</a>
 
@@ -2033,9 +1988,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Location: Rock Harbor Christian Fellowship, 1475 Quintana Rd., Morro Bay
 - Phone: [805-772-7365](tel:+1-805-772-7365)
 - Hours: Sa 10am–Noon; also available throughout the week on a walk-in basis
-- Notes: Works with the county Food Bank; provides food and personal care items to those in need; serves well over 100 local families weekly
 <!-- Note: No dedicated website found (as of October 2025); part of Rock Harbor Christian Fellowship -->
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Outreach-and-Engagement-Services">Outreach and Engagement Services</a>
 
@@ -2054,8 +2007,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-541-9900](tel:+1-805-541-9900)
 - Email: [info@outsidenow.org](mailto:info@outsidenow.org)
 - Hours: M–F 9am–3pm
-- Notes: Multi-generational learning community offering nature-based programs, seasonal celebrations, rites of passage, and wilderness adventures
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Parent-Connection-of-SLO-County">Parent Connection of SLO County</a>
 
@@ -2097,7 +2048,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Email: [info@pasoroblesha.org](mailto:info@pasoroblesha.org)
 - Hours: M–F 9am–4:30pm (closed Noon–1pm)
 - Notes: Operates affordable housing properties including Oak Park 1–4 and Sunrise Villas; offers community services including Youth Works program
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Paso-Robles-Senior-Center">Paso Robles Senior Center</a>
 
@@ -2167,11 +2117,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Email: [info@petsofthehomeless.org](mailto:info@petsofthehomeless.org)
 - Notes:
    - First national organization focused exclusively on feeding and providing veterinary care to pets of people experiencing homelessness
-   - Emergency Veterinary Care Program: Case manager conducts interview to determine eligibility, approves exam and helps make appointment at local hospital/clinic
-   - No charge to pet owner; any payment toward invoice at time of visit is appreciated
-   - No new emergency calls after hours or weekends; case managers may call back from private numbers
    - Has partner locations in SLO including Animal Care Clinic, Mission Animal Hospital, and Woods Humane Society
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Pismo-Beach-Athletic-Club">Pismo Beach Athletic Club</a>
 
@@ -2243,8 +2189,6 @@ This program helps ensure uninsured patients can access necessary medical care w
    - [805-503-2984](tel:+1-805-503-2984) (Amy Nielson, inquiries)
 - Email: [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org)
 - Hours: 24/7
-- Notes: 6–10 beds for individuals recovering from illness or injury; includes round-the-clock staffing, case management, nursing coordination by RN, follow-up care planning and discharge coordination
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
 
 ## <a id="Recycle-101">Recycle 101 - Oceano</a>
 
@@ -2253,7 +2197,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Hours: M–F 9am–4pm (closed Noon–12:30pm), Sa 9am–Noon
 - Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
 <!-- Note: No website found (as of October 2025) -->
-<!-- To-do: move Notes to appropriate section of Resource Guide -->
 
 ## <a id="Red-Cross">Red Cross</a>
 
@@ -2291,8 +2234,6 @@ This program helps ensure uninsured patients can access necessary medical care w
    - Food pantry: Tu/W evenings, or by appointment
    - Free meals: Tu/W dinner
    - Office: M–F 8am–5pm
-- Notes: "Refuge Rescue Mission Ministry" provides free hot meals and groceries through their food pantry; serves homeless, indigent, and those affected by economic crisis
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Renovate-Church">Renovate Church</a>
 
@@ -2305,10 +2246,14 @@ This program helps ensure uninsured patients can access necessary medical care w
 
 ## <a id="Restoration-Church">Restoration Church</a>
 
+<!-- Note: VERIFICATION NEEDED - This address (9333 Santa Barbara Rd., Atascadero) is confirmed as Dove Creek Church of the Nazarene (dovecreekchurch.org, 805-466-9505). The name "Restoration Church" and phone 805-538-0449 could not be verified through online research (October 2025). This may be:
+- A different ministry operating from the same location
+- An outdated or incorrect listing
+- A former name for Dove Creek Church
+Human verification by calling both numbers or visiting the location is recommended. For now, see [**Dove Creek Church**] for the verified information at this address. -->
 - Location: 9333 Santa Barbara Rd., Atascadero
-- Phone: [805-538-0449](tel:+1-805-538-0449)
-- Hours (food pantry): first Saturday of the month, 1pm–3pm
-<!-- Note: The address 9333 Santa Barbara Rd., Atascadero is also listed as Dove Creek Church (dovecreekchurch.org, 805-466-9505). Unable to verify if "Restoration Church" is correct or if this should be "Dove Creek Church" (as of October 2025). Human verification needed. -->
+- Phone: [805-538-0449](tel:+1-805-538-0449) (unverified)
+- Hours (food pantry): first Saturday of the month, 1pm–3pm (unverified)
 
 ## <a id="Restorative-Partners">Restorative Partners</a>
 
@@ -2353,8 +2298,6 @@ This program helps ensure uninsured patients can access necessary medical care w
    - [805-440-6168](tel:+1-805-440-6168) (Cecil Hale, Safe Parking inquiries)
 - How to access: Must first complete intake at [**40 Prado Homeless Services Center**](#40-Prado), then you will be referred to rotating program on case-by-case basis
 - Hours: 7pm–7am overnight only
-- Notes: Offers individuals living in their cars a safe place to park overnight; includes access to showers, meals, behavioral and physical health services, and housing case management
-<!-- To-do: move Notes to appropriate place in Resource Guide -->
 
 ## Runabout Paratransit
 
@@ -2781,8 +2724,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-781-5856](tel:+1-805-781-5856)
 - Hours: M–F 9am–12pm
 - How to access: no appointment necessary
-- Note: Provided by District Attorney’s Economic Crime Unit; advisor is not an attorney
-<!-- To-do: move Note to appropriate section(s) of Resource Guide -->
+- Note: Provided by District Attorney's Economic Crime Unit; advisor is not an attorney
 
 ## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
 
@@ -2916,9 +2858,9 @@ This program helps ensure uninsured patients can access necessary medical care w
    - Grover Beach Branch: 214 S. 16th St., Grover Beach
    - Juvenile Services Center: 1050 Monterey St., SLO
    - Paso Robles Branch: 901 Park St., Paso Robles
-   - Veteran’s Memorial Branch: 801 Grand Ave., SLO
+   - Veteran's Memorial Branch: 801 Grand Ave., SLO
 - Phone: [805-706-3600](tel:+1-805-706-3600) (Civil & Family Law Branch and Criminal Branch)
-<!-- To-do: see if there are other locations in the County that aren't on this list yet -->
+<!-- Note: All court locations verified via slo.courts.ca.gov (October 2025) -->
 
 ## <a id="SLO-Transit">SLO Transit</a>
 
@@ -2982,7 +2924,6 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Hours: Sa 9am–11am
 - Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
 <!-- Note: No website found (as of October 2025) -->
-<!-- To-do: move Notes to appropriate section of Resource Guide -->
 
 ## <a id="Sunny-Acres">Sunny Acres</a>
 
@@ -3095,17 +3036,12 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Location: 1060 Palm St., SLO
 - Phone: [805-242-3821](tel:+1-805-242-3821)
 - Email: [TranzCentralCoast@gmail.com](mailto:TranzCentralCoast@gmail.com)
-- Notes:
-   - Uses outreach and advocacy to help transgender and gender-diverse people live authentic, productive, and happy lives in a safe and affirming community
-   - Offers Trans Youth Support Group (meets 2nd and 4th Tuesday of every month)
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="UC-Cooperative-Extension">U.C. Cooperative Extension - SLO County</a>
 
 - [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/)
 - Phone: [805-781-5940](tel:+1-805-781-5940)
 - Notes: Research-based educational programs including Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, and horticulture; cost varies by program
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="UUSLO">Unitarian Universalists San Luis Obispo</a>
 
@@ -3215,7 +3151,6 @@ There are several urgent care options, including:
 - Phone: [805-462-0500](tel:+1-805-462-0500)
 - Notes: Operated by NCI Affiliates; training location for vocational services
 <!-- Note: Hours of operation not available online (as of October 2025); call to verify -->
-<!-- To-do: move Notes to appropriate section(s) of Resource Guide -->
 
 ## <a id="Vituity-Cares-Mobile-Clinic">Vituity Cares Mobile Clinic</a>
 
@@ -3253,11 +3188,15 @@ There are several urgent care options, including:
 
 ## <a id="Welcome-Home-Village">Welcome Home Village</a>
 
-- Location: Health Agency Campus in SLO
+<!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division,-draft/what-we-are-doing/projects/welcome-home-village verified October 2025 -->
+- [slocounty.ca.gov/welcomehomevillage](https://www.slocounty.ca.gov/welcomehomevillage.aspx)
+- Location: Health Agency Campus, intersection of Johnson Ave. & Bishop St., SLO
+- Phone: [805-591-4544](tel:+1-805-591-4544) (Margaret Shepard-Moore, Program Manager)
+- Email: [mshepard-moore@co.slo.ca.us](mailto:mshepard-moore@co.slo.ca.us)
+- How to access: Through the [**Coordinated Entry System (CES)**](#CES) or contact City of SLO Homelessness Response Team for outreach
 - Notes:
-   - Operated by [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
-   - How to access: Through the [**Coordinated Entry System (CES)**](#CES)
-<!-- Note: Unable to locate street address, website, or direct contact info through online research (as of October 2025); contact via Good Samaritan Shelter or CES -->
+   - Operated by [**Good Samaritan Shelter**](#Good-Samaritan-Shelter); county-owned land leased to Good Samaritan
+   - Good Samaritan provides supportive services including case management
 
 ## Wellness Centers
 
