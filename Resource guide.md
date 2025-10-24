@@ -1140,20 +1140,22 @@ The wait is usually shorter than emergency rooms, and the cost is typically lowe
 Most urgent care centers accept walk-ins, and some also allow appointments.
 Bring your insurance card, identification, and a list of medications you take.
 
-| Urgent Care Location                                                                                       | Medicare | Medi-Cal |
-| ---------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)                      | ✓        | ✓        |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)                     | ✓        | ✓        |
-| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)            | ✓        |          |
-| [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                                    | ✓        | ✓        |
-| [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                                      | ✓        | ✓        |
-| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)          | ✓        |          |
-| [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)             | ?        | ?        |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)                    | ✓        | ✓        |
-| [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                        | ✓        |          |
-| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                          | ✓        | ✓        |
-| [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO)        | ✓        |          |
-| [**MedStop**](Directory.md#MedStop) (SLO)                                                                  | ✓        |          |
+| Urgent Care Location                                                                                | Medicare | Medi-Cal |
+| --------------------------------------------------------------------------------------------------- | -------- | -------- |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | ✓        | ✓        |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | ✓        | ✓        |
+| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)     | ✓        |          |
+| [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | ✓        | ✓        |
+| [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | ✓        | ✓        |
+| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | ✓        |          |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | ✓        | ✓        |
+| [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | ?        | ?        |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | ✓        | ✓        |
+| [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | ✓        |          |
+| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | ✓        | ✓        |
+| [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | ✓        |          |
+| [**MedStop**](Directory.md#MedStop) (SLO)                                                           | ✓        |          |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | ✓        | ✓        |
 
 ### <a id="health-insurance">Health Insurance</a>
 
@@ -1295,7 +1297,7 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some 
 
 [**Central Coast Dental Society**](Directory.md#CCDS) maintains [a list of dentists who offer reduced rates for people in financial hardship](http://centralcoastdentalsociety.org/public-resources/reduced-fee-dental).
 
-[**Community Health Centers**](Directory.md#CHC) offers dental care at its offices in Oceano and at 40 Prado in SLO.
+[**Community Health Centers**](Directory.md#CHC) offers dental care at its offices in Nipomo, Oceano, Templeton (Las Tablas), and at 40 Prado in SLO.
 
 [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a dental clinic.
 
@@ -1303,7 +1305,7 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some 
 
 ### <a id="vision-care">Vision Care</a>
 
-The [**Community Health Centers**](Directory.md#CHC) office at 260 Station Way in Arroyo Grande specializes in optometry.
+The [**Community Health Centers**](Directory.md#CHC) offices in Paso Robles and at 260 Station Way in Arroyo Grande specialize in optometry.
 
 [**EyeCare America**](Directory.md#EyeCare-America) offers a free eye exam and follow-up ophthalmology treatment to uninsured and underinsured adults.
 
@@ -1352,7 +1354,7 @@ The [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Hea
 
 [**The Center for Health and Prevention**](Directory.md#The-Center) offers pregnancy testing and counseling.
 
-[**Community Health Centers of the Central Coast**](Directory.md#CHC)’s 1551 Bishop St. (SLO) location offers the Wellness Pregnancy Program / Comprehensive Perinatal Services Program.
+[**Community Health Centers of the Central Coast**](Directory.md#CHC)’s 1551 Bishop St. (SLO) and 292 Posad Ln. (Templeton) locations offer the Wellness Pregnancy Program / Comprehensive Perinatal Services Program.
 
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) offers pregnancy testing and planning, and prenatal and postpartum services.
 
@@ -1362,7 +1364,7 @@ The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program offers br
 
 ### <a id="chiropractic-treatment">Chiropractic Treatment</a>
 
-The [**Community Health Centers of the Central Coast**](Directory.md#CHC) offices in Oceano and at 77 Casa St. in SLO offer chiropractic treatment.
+The [**Community Health Centers of the Central Coast**](Directory.md#CHC) offices in Atascadero, Cambria, Nipomo, Oceano, Paso Robles, San Miguel, Templeton (Las Tablas), and at 77 Casa St. in SLO offer chiropractic treatment.
 
 ### Surgery
 
@@ -1377,7 +1379,7 @@ Ask your doctor to refer you to that program.
 
 [**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it.
 
-The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Oceano, and 77 Casa St. in SLO offer pediatric services.
+The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Nipomo, in Oceano, in Paso Robles, Templeton (Las Tablas), and 77 Casa St. in SLO offer pediatric services.
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers pediatric care and well child check-ups.
 
@@ -1438,7 +1440,7 @@ They can help you with nutrition and meal services, transportation, and care man
 
 [**The Center for Health & Prevention**](Directory.md#The-Center) offers breast exams, referrals for free mammograms, Pap smears, and menopausal services.
 
-The [**Community Health Centers**](Directory.md#CHC) office at 1057 E. Grand Ave. in Arroyo Grande specializes in women’s health.
+The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Ave. in Arroyo Grande, in Nipomo, and at 292 Posada Ln. in Templeton specialize in women’s health.
 
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) offers cervical- and breast-cancer screening and menopause treatment.
 
@@ -1490,7 +1492,7 @@ They are a CARF accredited Licensed Narcotic Treatment Program.
 [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) runs inpatient (partial hospitalization) and intensive outpatient treatment programs for people trying to beat addiction.
 They accept Medicare and most private insurance plans.
 
-The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Oceano, and at 77 Casa St. in SLO specialize in behavioral health.
+The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Atascadero, Cambria, Nipomo, Oceano, Paso Robles, Templeton (Las Tablas), and at 77 Casa St. in SLO specialize in behavioral health.
 Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers substance abuse treatment and needle exchange.
 
 [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in Santa Maria has a detox program and apparently accepts referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County.
@@ -1523,7 +1525,7 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 - Grover Beach Public Health: 286 S. 16th St. Bldg A, Grover Beach
 - Behavioral Health: 277 South St. #T, SLO
 - Cuesta Canyon Park: 2400 Loomis St., SLO
-- El Chorro Regional Park: State Hwy 1 @, Dairy Creek Rd., SLO
+- El Chorro Regional Park: State Hwy 1 @ Dairy Creek Rd., SLO
 - SLO Dept. of Social Services: 3433 S. Higuera St., SLO
 - SLO Health Campus: 2180 Johnson Ave, SLO
 - SLO Library: 995 Palm St., SLO
