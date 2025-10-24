@@ -883,7 +883,7 @@ Call [805-995-3543](tel:+1-805-995-3543) to make an appointment at least 48 hour
 
 ### <a id="transportation-to-medical-appointments">Transportation to Medical Appointments</a>
 
-The [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) offers free, door-to-door transportation to medical appointments for people who are enrolled in Medi-Cal and who can­not use public transportation to get to their appointments.
+The [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) offers free, door-to-door transportation to medical appointments for people who are enrolled in Medi-Cal and who cannot use public transportation to get to their appointments.
 If you expect you will need to stop at a pharmacy after your appointment, say so when you make your shuttle reservation.
 Make a shuttle reservation at least three days before your medical appointment by calling [855-659-4600](tel:+1-855-659-4600).
 
@@ -1080,7 +1080,7 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
 
 #### 911
 
-Call 911 immediately when someone needs emergency medical care that can­not wait.
+Call 911 immediately when someone needs emergency medical care that cannot wait.
 This includes when a person:
 
 - Cannot breathe or struggles severely to breathe
@@ -1101,7 +1101,7 @@ The dispatcher will guide you through the process, and may ask you for:
 - **The nature of the emergency** — Briefly describe what happened and the person’s current condition.
 - **The patient’s condition** — Report whether the person is conscious, breathing, and responsive. Describe visible injuries or symptoms.
 - **Your relationship to the patient** — State whether you are family, a friend, or a bystander.
-- **Your contact information** — Provide a phone number where re­sponders can reach you.
+- **Your contact information** — Provide a phone number where responders can reach you.
 
 Do not hang up until the dispatcher tells you to.
 The dispatcher may tell you how to provide care while you wait for help to arrive.
@@ -1112,11 +1112,12 @@ Choose someone to watch for the ambulance and to guide responders to the locatio
 
 #### Emergency Rooms
 
-There are three emergency rooms in our area:
+There are four emergency rooms in our area:
 
-1. [**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista)
-1. [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital)
-1. [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center)
+1. [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) (Arroyo Grande)
+1. [**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) (SLO)
+1. [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) (SLO)
+1. [**Adventist Health Twin Cities**](Directory.md#Adventist-Health-Twin-Cities) (Templeton)
 
 These emergency rooms are open all day, every day.
 
@@ -1139,14 +1140,20 @@ The wait is usually shorter than emergency rooms, and the cost is typically lowe
 Most urgent care centers accept walk-ins, and some also allow appointments.
 Bring your insurance card, identification, and a list of medications you take.
 
-| Urgent Care Location                                                                                | Medicare | Medi-Cal |
-| --------------------------------------------------------------------------------------------------- | -------- | -------- |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | ✓        | ✓        |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | ✓        | ✓        |
-| [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | ✓        |          |
-| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | ✓        | ✓        |
-| [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | ✓        |          |
-| [**MedStop**](Directory.md#MedStop) (SLO)                                                           | ✓        |          |
+| Urgent Care Location                                                                                       | Medicare | Medi-Cal |
+| ---------------------------------------------------------------------------------------------------------- | -------- | -------- |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)                      | ✓        | ✓        |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)                     | ✓        | ✓        |
+| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)            | ✓        |          |
+| [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                                    | ✓        | ✓        |
+| [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                                      | ✓        | ✓        |
+| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)          | ✓        |          |
+| [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)             | ?        | ?        |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)                    | ✓        | ✓        |
+| [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                        | ✓        |          |
+| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                          | ✓        | ✓        |
+| [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO)        | ✓        |          |
+| [**MedStop**](Directory.md#MedStop) (SLO)                                                                  | ✓        |          |
 
 ### <a id="health-insurance">Health Insurance</a>
 
@@ -1412,7 +1419,7 @@ If you use American Sign Language, [**Lifesigns**](Directory.md#Lifesigns) or [*
 #### People with HIV or Hepatitis-C
 
 The [**Access Support Network**](Directory.md#ASN) has a variety of services for people impacted by HIV and Hep-C.
-These include testing, treatment, benefits counsel­ing, help with insurance, harm reduction (including Narcan and suboxone), infection prevention, and wound care.
+These include testing, treatment, benefits counseling, help with insurance, harm reduction (including Narcan and suboxone), infection prevention, and wound care.
 
 [**The Center for Health & Prevention**](Directory.md#The-Center) offers HIV/Hep-C testing.
 
@@ -1420,7 +1427,7 @@ These include testing, treatment, benefits counsel­ing, help with insurance, ha
 
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
 
-The [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) offers a variety of ser­vices for seniors, including [**Senior Connection**](Directory.md#Senior-Connection), the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
+The [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) offers a variety of services for seniors, including [**Senior Connection**](Directory.md#Senior-Connection), the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
 They can help you with nutrition and meal services, transportation, and care management.
 
 #### Teens and Youth
@@ -1468,7 +1475,7 @@ The [**Community Health Centers**](Directory.md#CHC) office at 1057 E. Grand Ave
 
 ## <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">Recovery, Harm Reduction, and Other Substance-Related Issues</a>
 
-> Note: The somewhat confusing term “behavioral health” often describes pro­grams for people who use addictive or harmful drugs and want help.
+> Note: The somewhat confusing term “behavioral health” often describes programs for people who use addictive or harmful drugs and want help.
 
 Substance Abuse and Mental Health Services Administration (SAMHSA) has a free phone service ([800-662-4357](tel:+1-800-662-4357)) that can help you find substance abuse treatment that matches your needs.
 
@@ -1480,8 +1487,13 @@ Walk-ins are welcome and same-day admissions are available.
 They accept Medi-Cal, Medicare, TRICARE, most commercial insurance, and self-pay.
 They are a CARF accredited Licensed Narcotic Treatment Program.
 
+[**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) runs inpatient (partial hospitalization) and intensive outpatient treatment programs for people trying to beat addiction.
+They accept Medicare and most private insurance plans.
+
 The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Oceano, and at 77 Casa St. in SLO specialize in behavioral health.
 Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers substance abuse treatment and needle exchange.
+
+[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in Santa Maria has a detox program and apparently accepts referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County.
 
 [**SLO Bangers**](Directory.md#SLO-Bangers) runs a needle exchange program, can give you overdose prevention training, and distributes Narcan.
 
@@ -1498,9 +1510,11 @@ They operate the [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) for
 
 The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers substance abuse treatment to qualifying U.S. military veterans.
 
+You can search for other rehab / addiction / detox programs in SLO County at websites like [addictions.com](https://www.addictions.com/rehabs/california/san-luis-obispo/), [recovery.com](https://recovery.com/san-luis-obispo/), or [rehabs.org](https://rehabs.org/centers/california/san-luis-obispo/).
+
 ### <a id="naloxone-narcan">Naloxone / Narcan</a>
 
-Naloxone is an easy-to-administer medication that can save the life of some­one who is experiencing an overdose of an opiate such as fentanyl or heroin.
+Naloxone is an easy-to-administer medication that can save the life of someone who is experiencing an overdose of an opiate such as fentanyl or heroin.
 
 You can get naloxone from [**Access Support Network**](Directory.md#ASN), [**SLO Bangers**](Directory.md#SLO-Bangers), [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), and [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) emergency rooms.
 You can also get free naloxone any time from these “NaloxBoxes”:
@@ -1538,38 +1552,6 @@ The [**Alano Club**](Directory.md#Alano-Club), for example, hosts AA and NA meet
 
 > See [Shelter & Housing: Sober Living Homes](#sober-living-homes)
 
-### Uncategorized / Needs Research
-
-1. **Private Treatment Options**
-   - Treatment center availability: 15+ drug & alcohol detox, outpatient, and inpatient rehabs in SLO
-   - Financial assistance: Many offer sliding scale payment and financial aid
-   - Insurance options: Centers accepting Medicare, Medicaid, and TRICARE available
-   - Local information resources: [addictions.com](https://www.addictions.com/rehabs/california/san-luis-obispo/) and [recovery.com](https://recovery.com/san-luis-obispo/)
-   - Free and low-cost options: [rehabs.org/centers/california/san-luis-obispo](https://rehabs.org/centers/california/san-luis-obispo/) for budget-friendly treatment centers
-   1. **[Aspire Counseling Service](https://aspirecounselingservice.com/san-luis-obispo/)**
-      - What’s Available: Substance Use Disorder treatment with Partial Hospitalization Program (PHP) and Intensive Outpatient Program (IOP); individual, couples, family, and group counseling for men, women, and adolescents (ages 12–17); addiction recovery groups, drug & alcohol testing, aftercare
-         - Hosts "Recovery Dharma" peer-led recovery group (specific addiction agnostic) leaning on Buddhist tradition
-      - Special programs: Mindfulness practices, art therapy, certified pet therapy, trauma-conscious yoga, nutrition, HealthRHYTHMS drumming
-      - Location/Phone/Email/Hours: See [**Aspire Counseling Service**](Directory.md#Aspire-Counseling-Service) in the [Directory](Directory.md)
-      - Cost: Accepts most forms of insurance; free initial assessment
-      - DHCS Certification: #400019AP (expires 07/31/2026)
-      - Source: [aspirecounselingservice.com](https://aspirecounselingservice.com/san-luis-obispo/)
-1. **Specialized Recovery Support**
-   1. [**Sun Street Centers**](https://sunstreetcenters.org)
-      - What’s Available: Residential detox (male), recovery services
-      - Location/Phone/Email: See [**Sun Street Centers**](Directory.md#Sun-Street-Centers) in the [Directory](Directory.md)
-   1. **Dignity Health Substance Use Navigator (SUN) Program**
-      - What’s Available: Comprehensive opioid addiction treatment through emergency departments including medical evaluation, clinical assessment, and community service coordination; free Narcan kit distribution
-      - Locations: Emergency departments at Marian Regional Medical Center, Arroyo Grande Community Hospital, and French Hospital Medical Center
-      - Access: Check into any Dignity Health emergency room for treatment services; community members can request free Narcan kits directly
-      - Treatment approach: Three-fold care including physician evaluation, social worker clinical assessment, and community health worker follow-up coordination
-      - Impact: 29 providers helping remove addiction stigma and connect patients to community resources
-      - Source: [newtimesslo.com](https://www.newtimesslo.com/news/dignity-health-central-coast-tackles-opioid-addiction-through-sun-program-16133592)
-1. **Additional Resources**
-   1. Current drug use resource card: [Document reference](https://docs.google.com/document/d/e/2PACX-1vT2koI1AMLwAVcmOg_LGCgvUrFTH27EjOINZ_kGV6q8lO5so7eX70wv0FRWSLjCId6jfVeu5y-iu-uW/pub) for comprehensive local listings
-   1. Good Samaritan Shelter in Santa Maria has a detox program and apparently accepts referrals from 5CHC in SLO County
-      - Location/Phone/Email/Hours: See [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in the [Directory](Directory.md)
-
 ## <a id="tattoo-removal">Tattoo Removal</a>
 
 There are programs available that will erase your tattoos.
@@ -1602,36 +1584,31 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
 
 ### <a id="hospice-and-palliative-care">Hospice and Palliative Care Services</a>
 
-1. **Hospice of San Luis Obispo County**
-   - Location/Phone/Hours: See [**Hospice SLO**](Directory.md#Hospice-SLO) in the [Directory](Directory.md)
-   - Services: Non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, end-of-life companion support, community grief response
-   - Cost: All services provided at *no charge* — does not bill insurance, relies entirely on community donations
-   - Eligibility: San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life
-   - Website: [hospiceslo.org](https://hospiceslo.org/)
-1. **Central Coast Home Health and Hospice**
-   - Location/Phone: See [**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) in the [Directory](Directory.md)
-   - Services: 24/7 hospice nurse availability, nursing services, spiritual care, dietitian services, social work services, bereavement services, home health aides, trained volunteers, support groups, musicians
-   - Coverage Area: San Luis Obispo and Santa Barbara counties
-   - Insurance: Accepts Medicare; contact [855-240-2530](tel:+1-855-240-2530) to verify Medi-Cal acceptance and discuss financial assistance options
-   - Website: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/)
-1. **Dignity Health French Hospital Medical Center Home Health and Hospice**
-   - Services: Team-oriented medical care, symptom and pain management, emotional and spiritual support tailored to patient needs
-   - Contact/Location: See [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) in the [Directory](Directory.md); Phone: [800-549-9609](tel:+1-800-549-9609)
-   - Insurance: Accepts Medicare and Medi-Cal/CenCal Health
-   - Financial Assistance: Financial assistance available for families up to 250% of Federal Poverty Level (free care) and 250–400% of FPL (discounted care); call [888-488-7667](tel:+1-888-488-7667) or financial counselor [805-542-6321](tel:+1-805-542-6321)
-   - Website: [dignityhealth.org](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/home-health-hospice-and-infusion-services)
+[**Hospice SLO**](Directory.md#Hospice-SLO) includes non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, and end-of-life companion support.
+All services are provided at no charge (they rely entirely on community donations).
+These services are open to San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life.
 
-**Additional County-Wide Hospice and Palliative Care Resources (pending human review):**
+[**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) includes hospice nurse availability, nursing services, spiritual care, dietitian services, social work services, bereavement services, home health aides, trained volunteers, support groups, and musicians.
+They accept Medicare; contact them directly to ask about whether Medi-Cal will cover their services.
 
-- **Dignity Health Home Health and Hospice - Atascadero**: Skilled nursing, hospice care, palliative care. Accepts Medicare and Medi-Cal; financial assistance available for families up to 250% of Federal Poverty Level (free care) and 250%-400% of FPL (discounted care). Location: 4555 El Camino Real Ste A, Atascadero. Phone: [805-434-1427](tel:+1-805-434-1427) / [800-549-9609](tel:+1-800-549-9609). Hours: M–F 8am–5pm. Source: [locations.dignityhealth.org](https://locations.dignityhealth.org/dignity-health-home-health-care-atascadero-ca)
-- **Twin Cities Community Hospital (Adventist Health)**: Palliative care services available; 122-bed acute care hospital serving North County. Accepts Medicare, Medi-Cal, and most insurance. Location: 1100 Las Tablas Rd., Templeton. Phone: [805-434-3500](tel:+1-805-434-3500) (24/7). Source: [vituity.com](https://www.vituity.com/locations/twin-cities-community-hospital/)
-- **VA Hospice Benefits**: 100% covered for all enrolled veterans at no cost; does NOT require service-connected disability; care can be provided in any setting, not just VA facilities. Contact SLO VA Clinic at [805-543-1001](tel:+1-805-543-1001) or VA general line at [800-827-1000](tel:+1-800-827-1000). Source: [va.gov](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
-- **Medi-Cal Hospice Benefit**: Comprehensive hospice coverage for terminally ill Medi-Cal beneficiaries (life expectancy 6 months or less); typically free for eligible patients. Apply for Medi-Cal at [coveredca.com](https://www.coveredca.com/) or [benefitscal.com](https://benefitscal.com/). Source: [dhcs.ca.gov](https://www.dhcs.ca.gov/services/medi-cal/Pages/Hospice-Information.aspx)
-- **Grief Support Groups - North County**:
+[**Dignity Health French Hospital Medical Center Home Health and Hospice**](Directory.md#French-Hospital-Medical-Center) includes team-oriented medical care, symptom and pain management, and emotional and spiritual support tailored to patient needs.
+They accept Medicare and Medi-Cal.
+They also have financial assistance programs that make hospice treatment free for people below 250% of the federal poverty level, and discounted for people below 400% of the federal poverty level (call [888-488-7667](tel:+1-888-488-7667) or [805-542-6321](tel:+1-805-542-6321) for details).
+
+[**Dignity Health**](Directory.md#Dignity-Health) also has a Home Health and Hospice program in Atascadero that includes skilled nursing, hospice care, and palliative care.
+They accept Medicare and Medi-Cal.
+They also have financial assistance programs that make hospice treatment free for people below 250% of the federal poverty level, and discounted for people below 400% of the federal poverty level (call [888-488-7667](tel:+1-888-488-7667) or [805-542-6321](tel:+1-805-542-6321) for details).
+They are located at 4555 El Camino Real #A, are open M–F 8am–5pm, and can be reached by phone at [805-434-1427](tel:+1-805-434-1427) or [800-549-9609](tel:+1-800-549-9609).
+
+### Uncategorized / Needs Research
+
+1. **Twin Cities Community Hospital (Adventist Health)**: Palliative care services available; 122-bed acute care hospital serving North County. Accepts Medicare, Medi-Cal, and most insurance. Location: 1100 Las Tablas Rd., Templeton. Phone: [805-434-3500](tel:+1-805-434-3500) (24/7). Source: [vituity.com](https://www.vituity.com/locations/twin-cities-community-hospital/)
+1. **VA Hospice Benefits**: 100% covered for all enrolled veterans at no cost; does NOT require service-connected disability; care can be provided in any setting, not just VA facilities. Contact SLO VA Clinic at [805-543-1001](tel:+1-805-543-1001) or VA general line at [800-827-1000](tel:+1-800-827-1000). Source: [va.gov](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
+1. **Medi-Cal Hospice Benefit**: Comprehensive hospice coverage for terminally ill Medi-Cal beneficiaries (life expectancy 6 months or less); typically free for eligible patients. Apply for Medi-Cal at [coveredca.com](https://www.coveredca.com/) or [benefitscal.com](https://benefitscal.com/). Source: [dhcs.ca.gov](https://www.dhcs.ca.gov/services/medi-cal/Pages/Hospice-Information.aspx)
+1. **Grief Support Groups - North County**:
    - Hospice SLO County groups in Paso Robles (free 6-week sessions; contact [805-544-2266](tel:+1-805-544-2266)). Source: [hospiceslo.org](https://hospiceslo.org/support-groups/paso-robles)
    - Central Coast Home Health grief groups at Paso Senior Center, 270 Scott Street, Paso Robles (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
    - GriefShare at First Baptist Church Paso Robles (13-week biblical support group; contact Sandy Garman at [805-423-0476](tel:+1-805-423-0476)). Source: [griefshare.org](https://www.griefshare.org/)
-
 1. [**Medically Fragile Homeless Program**](https://cfsslo.org/#mfh)
    - Services: shelter for terminally ill persons who have need of housing to allow the person to die in the dignity and stability of housing with the care of hospice
    - Eligibility: homeless people in SLO County
@@ -1665,17 +1642,14 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) can give you free help to make your advance directive documents clear and legally binding.
 
-**Additional Advance Directive Resources (pending human review):**
+### Uncategorized / Needs Research
 
-- **California POLST Program**: For people with serious illness, POLST (Physician Orders for Life-Sustaining Treatment) is a medical order form signed by your healthcare provider that documents specific treatment wishes. Free forms downloadable in 13 languages at [capolst.org](https://capolst.org/). For assistance completing POLST forms, contact Hospice SLO at [805-544-2266](tel:+1-805-544-2266) or your healthcare provider. Must be printed on bright pink paper to be valid. Source: [capolst.org](https://capolst.org/)
-- **California Attorney General Advance Directive Form**: Official state-approved form combining medical power of attorney and living will; free download at [oag.ca.gov/consumers/general/adv_hc_dir](https://oag.ca.gov/consumers/general/adv_hc_dir). Source: [eforms.com](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/)
-- **AARP Advance Directive Forms**: Free California-specific advance directive forms at [aarp.org/caregiving/financial-legal/free-printable-advance-directives/](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/). Source: [aarp.org](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/)
-- **Witness/Notary Requirements**: California advance directives must be signed by TWO WITNESSES *or* ONE NOTARY PUBLIC (either/or, not both). Witnesses cannot be your healthcare agent, related to you, entitled to your estate, or your healthcare provider. Most banks/credit unions offer free notary services to members; legal aid organizations may provide free notary. Source: [nolo.com](https://www.nolo.com/legal-encyclopedia/finalizing-advance-directive-health-care-california.html)
-- **Hospice SLO Advance Directive Assistance**: Free help with understanding and preparing advance directives and POLST forms; phone/Zoom consultations available for those unable to travel to SLO office. Call [805-544-2266](tel:+1-805-544-2266) M–F 10am–4pm. Source: [hospiceslo.org](https://hospiceslo.org/services/advance-health-care-directive-support)
-- **Telehealth Hospice Options**: Many California hospice agencies now offer virtual consultations and 24/7 telehealth access, reducing travel burden for patients in rural areas. Ask your hospice provider about telehealth services. Source: [capc.org](https://www.capc.org/toolkits/telehealth-and-palliative-care/)
-
-### Other/Uncategorized
-
+1. **California POLST Program**: For people with serious illness, POLST (Physician Orders for Life-Sustaining Treatment) is a medical order form signed by your healthcare provider that documents specific treatment wishes. Free forms downloadable in 13 languages at [capolst.org](https://capolst.org/). For assistance completing POLST forms, contact Hospice SLO at [805-544-2266](tel:+1-805-544-2266) or your healthcare provider. Must be printed on bright pink paper to be valid. Source: [capolst.org](https://capolst.org/)
+1. **California Attorney General Advance Directive Form**: Official state-approved form combining medical power of attorney and living will; free download at [oag.ca.gov/consumers/general/adv_hc_dir](https://oag.ca.gov/consumers/general/adv_hc_dir). Source: [eforms.com](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/)
+1. **AARP Advance Directive Forms**: Free California-specific advance directive forms at [aarp.org/caregiving/financial-legal/free-printable-advance-directives/](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/). Source: [aarp.org](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/)
+1. **Witness/Notary Requirements**: California advance directives must be signed by TWO WITNESSES *or* ONE NOTARY PUBLIC (either/or, not both). Witnesses cannot be your healthcare agent, related to you, entitled to your estate, or your healthcare provider. Most banks/credit unions offer free notary services to members; legal aid organizations may provide free notary. Source: [nolo.com](https://www.nolo.com/legal-encyclopedia/finalizing-advance-directive-health-care-california.html)
+1. **Hospice SLO Advance Directive Assistance**: Free help with understanding and preparing advance directives and POLST forms; phone/Zoom consultations available for those unable to travel to SLO office. Call [805-544-2266](tel:+1-805-544-2266) M–F 10am–4pm. Source: [hospiceslo.org](https://hospiceslo.org/services/advance-health-care-directive-support)
+1. **Telehealth Hospice Options**: Many California hospice agencies now offer virtual consultations and 24/7 telehealth access, reducing travel burden for patients in rural areas. Ask your hospice provider about telehealth services. Source: [capc.org](https://www.capc.org/toolkits/telehealth-and-palliative-care/)
 1. **Enhanced Care Management through CenCal Health**
    - Services: Dedicated care team support for members with complex health and social needs, including homeless individuals
    - Benefits: Assistance with medical care coordination and temporary housing placement following hospitalization

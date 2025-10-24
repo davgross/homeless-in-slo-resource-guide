@@ -136,9 +136,14 @@
 - Phone: [805-546-7600](tel:+1-805-546-7600)
 - Note: hosts [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
 
+## <a id="Adventist-Health-Twin-Cities">Adventist Health Twin Cities</a>
+
+- Location: 1100 Las Tablas Rd., Templeton
+- Phone: [805-434-3500](tel:+1-805-434-3500)
+
 ## <a id="Aegis-Treatment-Centers">Aegis Treatment Centers</a>
 
-- [pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero](https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/) (Atascadero) / [pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/) (SLO)
+- [pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero](https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/) (Atascadero)<br />[pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/) (SLO)
 - Locations:
    - Atascadero: 6500 Morro Rd. Suites C & D, Atascadero
    - SLO: 1551 Bishop St. #520, SLO
@@ -164,7 +169,7 @@
 - Hours:
    - Office: M–Th 9am–4pm
    - Food pantry: Tu 10–10:30am, Su Noon–12:30pm
-- Note: "Men of Agape" serve a free meal at Meadow Park, SLO, Thursdays at 11am
+- Note: “Men of Agape” serve a free meal at Meadow Park, SLO, Thursdays at 11am
 
 ## Aging & Disability Resource Center (ADRC)
 
@@ -553,7 +558,25 @@
    - Pet Resource Center: M–Th 9am–5pm, F 11am–5pm
 - Notes:
    - Partners with “The Street Dog Coalition”
-   - Operates the “Pet Resource Center” with [**5Cities Homeless Coalition**](#5CHC)
+   - Operates the "Pet Resource Center" with [**5Cities Homeless Coalition**](#5CHC)
+
+## <a id="Carbon-Health-Urgent-Care-Atascadero">Carbon Health Urgent Care (Atascadero)</a>
+
+<!-- Source: https://carbonhealth.com/en/locations/atascadero-ca verified October 2025 -->
+- [carbonhealth.com/en/locations/atascadero-ca](https://carbonhealth.com/en/locations/atascadero-ca)
+- Location: 7330 El Camino Real, Atascadero
+- Phone: [831-621-1184](tel:+1-831-621-1184)
+- Hours: Every day 8am–6pm
+- Notes: Accepts Medicare but not Medi-Cal; walk-ins welcome, same-day appointments available
+
+## <a id="Carbon-Health-Urgent-Care-Paso-Robles">Carbon Health Urgent Care (Paso Robles)</a>
+
+<!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca verified October 2025 -->
+- [carbonhealth.com/en/locations/paso-robles-ca](https://carbonhealth.com/en/locations/paso-robles-ca)
+- Location: 500 1st St., Paso Robles
+- Phone: [831-621-1449](tel:+1-831-621-1449)
+- Hours: Every day 8am–6pm
+- Notes: Accepts Medicare but not Medi-Cal; walk-ins welcome, same-day appointments available
 
 ## <a id="CASA">CASA (Court Appointed Special Advocates)</a>
 
@@ -568,7 +591,7 @@
 - [casasolanainc.org](https://casasolanainc.org/)
 - Location: 383 S. 13th St., Grover Beach
 - Phone: [805-481-8555](tel:+1-805-481-8555) (9am–4pm)
-- Notes: also known as "Sunshine House"
+- Notes: also known as “Sunshine House”
 
 ## <a id="Catholic-Charities">Catholic Charities</a>
 
@@ -785,14 +808,14 @@
 - Email: [css@co.slo.ca.us](mailto:css@co.slo.ca.us)
 - Hours: M-F 8am–4:30pm
 
-## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children's Resource Network of the Central Coast</a>
+## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
 
 <!-- Source: https://www.guidestar.org/profile/27-1473791 and https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 - [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org)
 - Mailing Address: P.O. Box 454, Pismo Beach, CA 93448-0454
 - Phone: [805-709-8673](tel:+1-805-709-8673)
 - Email: [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org)
-- Notes: Operates "Outreach Apparel" and "The Teen's Closet"
+- Notes: Operates “Outreach Apparel” and “The Teen’s Closet”
 <!-- Note: Organization uses P.O. Box; no physical street address or public operating hours found (as of October 2025). Website down or unavailable via VPN; organization verified through nonprofit databases including Charity Navigator and GuideStar -->
 
 ## <a id="City-of-SLO-Parks-and-Recreation">City of SLO Parks and Recreation</a>
@@ -889,10 +912,10 @@
    - 77 Casa St., SLO, [805-269-1500](tel:+1-805-269-1500)
    - 40 Prado, SLO, [805-269-1500](tel:+1-805-269-1500) ([**Healthcare for the Homeless Program**](#HCHP))
 - Main Phone: [805-361-8400](tel:+1-805-361-8400) (M–F 8am–6pm) / [866-614-4636](tel:+1-866-614-4636) (after-hours care)
-- "CHC Transportation Services" is a door-to-door ride service to appointments
+- “CHC Transportation Services” is a door-to-door ride service to appointments
    - Phone: [877-743-3242](tel:+1-877-743-3242)
 - Note: also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
-<!-- Note: Hours listed for urgent care location; other locations' hours may vary - call individual locations for specific hours -->
+<!-- Note: Hours listed for urgent care location; other locations’ hours may vary - call individual locations for specific hours -->
 
 ## Community Safe Parking Program
 
@@ -907,8 +930,8 @@
    - County-wide: Contact [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
    - Or initiate contact via other participating agencies like [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), [**Transitions Mental Health Association (TMHA)**](#TMHA), [**Good Samaritan Shelter**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services), [**SLO County Health Department**](#SLO-County-Health-Department)
 - Notes:
-   - Point of entry for [**Housing Now**](#Housing-Now), (at least some of) [**Peoples' Self-Help Housing**](#Peoples-Self-Help-Housing), [**Welcome Home Village**](#Welcome-Home-Village)
-   - Overseen by "Homeless Services Oversight Council (HSOC)"
+   - Point of entry for [**Housing Now**](#Housing-Now), (at least some of) [**Peoples’ Self-Help Housing**](#Peoples-Self-Help-Housing), [**Welcome Home Village**](#Welcome-Home-Village)
+   - Overseen by “Homeless Services Oversight Council (HSOC)”
 
 ## <a id="Cottage-Urgent-Care">Cottage Urgent Care</a>
 
@@ -985,10 +1008,14 @@
 
 > *See also [**Dignity Health**](#Dignity-Health)*
 
-- [locations.dignityhealth.org/dignity-health-urgent-care-pismo-beach](https://locations.dignityhealth.org/dignity-health-urgent-care-pismo-beach)
-- Location: 877 Oak Park Blvd, Pismo Beach
-- Phone: [805-474-8450](tel:+1-805-474-8450)
-- Hours: M–F 8am–6pm, Sa. 8am–4pm
+- Locations:
+   - Atascadero: 5920 W Mall, Atascadero — [805-461-2131](tel:+1-805-461-2131)
+   - Pismo Beach: 877 Oak Park Blvd, Pismo Beach — [805-474-8450](tel:+1-805-474-8450)
+- Hours:
+   - Atascadero: M–F 8am–6pm, Sa 9am–3pm, Su closed
+   - Pismo Beach: M–F 8am–6pm, Sa 8am–4pm
+- Notes: Accepts Medicare and Medi-Cal; walk-ins welcome, no appointment necessary; lab and X-ray services on site
+<!-- Source: Atascadero location info verified October 2025 via web search -->
 
 ## <a id="Disability-Rights-California">Disability Rights California</a>
 
@@ -1124,7 +1151,7 @@
 - Phone: [805-888-0158](tel:+1-805-888-0158)
 - Hours: Every day 8am–6pm
 
-## <a id="Foxys-Thrift-Shop">Foxy's Thrift Shop</a>
+## <a id="Foxys-Thrift-Shop">Foxy’s Thrift Shop</a>
 
 <!-- Source: https://www.morrobay.org/directory/foxys-thrift-shop/ -->
 - [foxys-thrift-shop.hub.biz](https://foxys-thrift-shop.hub.biz/)
@@ -1142,7 +1169,7 @@
 - Location: Mitchell Park, SLO
 - Hours: Su 1–3pm
 
-## <a id="Fred-and-Bettys">Fred & Betty's Thrift Store</a>
+## <a id="Fred-and-Bettys">Fred & Betty’s Thrift Store</a>
 
 <!-- Source: https://visitslo.com/things-to-do/attractions/san-luis-obispo-shopping/fred-bettys-thrift-store/ -->
 - [fredandbettys.org](http://www.fredandbettys.org)
@@ -1166,7 +1193,7 @@
 - Phone: [818-731-4984](tel:+1-818-731-4984)
 - Email: [director@frontporchslo.org](mailto:director@frontporchslo.org)
 - Hours: M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks)
-- How to access: oriented toward students from Cuesta College or Cal Poly, but "Whoever you are, you are welcome here."
+- How to access: oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here.”
 
 ## <a id="GALA">GALA Pride & Diversity Center</a>
 
@@ -1245,13 +1272,13 @@
    - SLO Store: Daily 9am–6pm
    - SLO Outlet: Daily 7am–4pm
 
-## <a id="Grace-Central-Coast">Grace Central Coast</a> "God's Storehouse"
+## <a id="Grace-Central-Coast">Grace Central Coast</a> “God’s Storehouse”
 
 <!-- Source: https://gracecentralcoast.org/ -->
 - [gracecentralcoast.org](https://gracecentralcoast.org/)
 - Location: 1350 Osos Street, SLO
 - Phone: [805-543-2358](tel:+1-805-543-2358)
-- Hours (God's Storehouse food distribution): Sa. 8–10am
+- Hours (God’s Storehouse food distribution): Sa. 8–10am
 
 ## <a id="Green-Pastures">Green Pastures</a>
 
@@ -1278,8 +1305,8 @@
 - Locations:
    - Mailing: P.O. Box 2217, Atascadero, CA 93423
    - 1825 San Ramon Rd., Atascadero
-   - Two men's homes in Grover Beach
-   - One men's and one women's home in SLO
+   - Two men’s homes in Grover Beach
+   - One men’s and one women’s home in SLO
 - Phone:
    - [805-550-8140](tel:+1-805-550-8140)
    - [805-748-6204](tel:+1-805-748-6204)
@@ -1307,7 +1334,7 @@
 <!-- Source: https://www.sloharc.org/ and https://www.newtimesslo.com/news/slos-sunny-acres-could-become-a-health-campus-by-restorative-partners-and-homekey-funds-16578959 -->
 - [sloharc.org](https://www.sloharc.org/)
 - Location: Los Osos Valley Road near Laguna Lake (former DeVaul Ranch / Sunny Acres property)
-<!-- Note: Precise address and contact info not publicly available (as of October 2025). Property transitioned from Dan DeVaul's Sunny Acres to Restorative Partners in December 2024 for development as healing and restoration campus using Homekey+ funding -->
+<!-- Note: Precise address and contact info not publicly available (as of October 2025). Property transitioned from Dan DeVaul’s Sunny Acres to Restorative Partners in December 2024 for development as healing and restoration campus using Homekey+ funding -->
 - Notes: A project of [**Restorative Partners**](#Restorative-Partners)
 
 ## Health Department
@@ -1471,7 +1498,7 @@ This program helps ensure uninsured patients can access necessary medical care w
    - Low-income seniors; HUD residents typically pay 30% of gross income for rent
    - Applications available only when waiting list is open; contact directly for current status
 
-## <a id="Kings-Cupboard">King's Cupboard at El Morro Church</a>
+## <a id="Kings-Cupboard">King’s Cupboard at El Morro Church</a>
 
 <!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
 - Location: El Morro Church of the Nazarene, 1480 Santa Ysabel, Bldg. A, Los Osos
@@ -1530,7 +1557,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Notes:
    - Hosts [**Central Coast Partnership for Animal Welfare**](#CCPAW)
    - Hosts [**Five Cities Christian Women Food Pantry**](#Five-Cities-Christian-Women-Food-Pantry)
-   - Hosts [**People's Kitchen (Grover Beach)**](#Peoples-Kitchen-GB)
+   - Hosts [**People’s Kitchen (Grover Beach)**](#Peoples-Kitchen-GB)
    - Hosts [**Shower the People**](#Shower-the-People)
 
 ## <a id="Lifesigns">Lifesigns</a>
@@ -1978,9 +2005,17 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Email: [northcountypawscause@gmail.com](mailto:northcountypawscause@gmail.com)
 <!-- Note: Precise street address and hours not available on website (as of October 2025); call or email for details -->
 
+## <a id="North-County-Care">North County Care Minor Emergency Services</a>
+
+<!-- Source: Web search verified October 2025 -->
+- Location: 636 Spring St., Paso Robles
+- Phone: [805-238-2422](tel:+1-805-238-2422)
+- Hours: M–F 10am–5pm
+<!-- Note: Unable to verify insurance acceptance including Medicare/Medi-Cal through online research (October 2025) -->
+
 ## Outreach Apparel
 
-> *See [**Children's Resource Network of the Central Coast**](#Childrens-Resource-Network-of-the-Central-Coast)*
+> *See [**Children’s Resource Network of the Central Coast**](#Childrens-Resource-Network-of-the-Central-Coast)*
 
 ## <a id="Open-Arms-Pantry">Open Arms Pantry at Rock Harbor</a>
 
@@ -2076,14 +2111,14 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-242-6691](tel:+1-805-242-6691)
 - Email: [legal@peoplesjusticeproject.org](mailto:legal@peoplesjusticeproject.org)
 
-## <a id="Peoples-Kitchen-GB">People's Kitchen (Grover Beach)</a>
+## <a id="Peoples-Kitchen-GB">People’s Kitchen (Grover Beach)</a>
 
 - Location: 946 Rockaway Ave., Grover Beach
 - Hours: Daily at noon
 - Notes: Hosted by [**Lifepoint Church**](#Lifepoint-Church)
 <!-- Note: No dedicated website or contact info found (as of October 2025); contact via Lifepoint Church -->
 
-## <a id="Peoples-Kitchen-SLO">People's Kitchen (SLO)</a>
+## <a id="Peoples-Kitchen-SLO">People’s Kitchen (SLO)</a>
 
 > *See also [**40 Prado Homeless Services Center**](#40-Prado)*
 
@@ -2182,21 +2217,21 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="Recuperative-Care-Program">Recuperative Care Program</a>
 
 <!-- Source: https://capslo.org/40-prado -->
-- [capslo.org/40-prado](https://capslo.org/40-prado/) (see "Explore RCP" link)
+- [capslo.org/rcp](https://capslo.org/rcp/)
 - Location: [**40 Prado**](#40-Prado), SLO
 - Phone:
-   - [805-458-2895](tel:+1-805-458-2895)
+   - [805-458-2895](tel:+1-805-458-2895) (Ariana Long)
    - [805-503-2984](tel:+1-805-503-2984) (Amy Nielson, inquiries)
 - Email: [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org)
 - Hours: 24/7
 
-## <a id="Recycle-101">Recycle 101 - Oceano</a>
+## <a id="Recycle-101">Recycle 101 — Oceano</a>
 
+<!-- Note: No website found (as of October 2025) -->
 - Location: 1909 Front St., Oceano
 - Phone: [805-363-1034](tel:+1-805-363-1034)
-- Hours: M–F 9am–4pm (closed Noon–12:30pm), Sa 9am–Noon
+- Hours: M–F 9am–12:30pm, Sa 9am–Noon
 - Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
-<!-- Note: No website found (as of October 2025) -->
 
 ## <a id="Red-Cross">Red Cross</a>
 
@@ -2246,7 +2281,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 
 ## <a id="Restoration-Church">Restoration Church</a>
 
-<!-- Note: VERIFICATION NEEDED - This address (9333 Santa Barbara Rd., Atascadero) is confirmed as Dove Creek Church of the Nazarene (dovecreekchurch.org, 805-466-9505). The name "Restoration Church" and phone 805-538-0449 could not be verified through online research (October 2025). This may be:
+<!-- Note: VERIFICATION NEEDED - This address (9333 Santa Barbara Rd., Atascadero) is confirmed as Dove Creek Church of the Nazarene (dovecreekchurch.org, 805-466-9505). The name “Restoration Church” and phone 805-538-0449 could not be verified through online research (October 2025). This may be:
 - A different ministry operating from the same location
 - An outdated or incorrect listing
 - A former name for Dove Creek Church
@@ -2290,7 +2325,6 @@ Human verification by calling both numbers or visiting the location is recommend
 
 > *See [**40 Prado Homeless Services Center**](#40-Prado)*
 
-<!-- Source: https://capslo.org/safe-parking/ -->
 - [capslo.org/safe-parking](https://capslo.org/safe-parking/)
 - Location: 40 Prado Rd., SLO
 - Phone:
@@ -2337,9 +2371,8 @@ Human verification by calling both numbers or visiting the location is recommend
 - Phone: [805-995-3243](tel:+1-805-995-3243)
 - Hours (food pantry): Fridays 10am–Noon, or Thursdays by appointment
 
-## <a id="St-Patricks-Church">Saint Patrick's Church</a>
+## <a id="St-Patricks-Church">Saint Patrick’s Church</a>
 
-<!-- Source: https://www.stpatsag.org/ -->
 - [stpatsag.org](https://www.stpatsag.org/)
 - Location: 501 Fair Oaks Ave., Arroyo Grande
 - Phone: [805-489-2680](tel:+1-805-489-2680)
@@ -2348,7 +2381,7 @@ Human verification by calling both numbers or visiting the location is recommend
    - Office: M–Th 9am–5pm (closed Noon–1:30pm)
    - Food pantry: Tu/W/Th 4–5pm
 
-## <a id="St-Patricks-Shamrock-Thrift">St. Patrick's Shamrock Thrift</a>
+## <a id="St-Patricks-Shamrock-Thrift">St. Patrick’s Shamrock Thrift</a>
 
 <!-- Source: https://www.yelp.com/biz/st-patricks-school-shamrock-thrift-shop-grover-beach -->
 - Social media: [facebook.com/shamrockthrift](https://www.facebook.com/shamrockthrift/)
@@ -2537,7 +2570,7 @@ Human verification by calling both numbers or visiting the location is recommend
 - [slocounty.ca.gov/departments/health-agency/behavioral-health](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)
 - Locations:
    - Main Office: 2180 Johnson Ave., SLO
-   - Arroyo Grande: 1350 Grand Ave. — [805-474-2154](tel:+1-805-474-2154)
+   - Arroyo Grande: 1350 Grand Ave. — [805-474-2154](tel:+1-805-474-2154)
    - Atascadero Health Campus: 5575 Hospital Dr.
    - Grover Beach: (multiple locations for youth and adult services)
    - Paso Robles Health Campus: 805 4th St.
@@ -2545,9 +2578,9 @@ Human verification by calling both numbers or visiting the location is recommend
 - Phone:
    - Behavioral Health Access Line: [800-838-1381](tel:+1-800-838-1381)
    - Local mental health crisis hotline: [800-783-0607](tel:+1-800-783-0607)
-   - Patient's rights advocate: [805-781-4738](tel:+1-805-781-4738)
+   - Patient’s rights advocate: [805-781-4738](tel:+1-805-781-4738)
 - Hours: M–F 8am–5pm (closed Noon–1pm for lunch)
-- Cost: "No clients are denied access to services due to inability to pay. Discounted fees and sliding fee schedules are available based on family size and income."
+- Cost: “No clients are denied access to services due to inability to pay. Discounted fees and sliding fee schedules are available based on family size and income.”
 - Notes:
    - Operates [**SLO County Drug and Alcohol Services**](#SLO-County-Drug-and-Alcohol-Services)
    - [**Genoa Pharmacy**](#Genoa-Pharmacy) is the on-site pharmacy for SLO County Behavioral Health
@@ -2724,7 +2757,7 @@ Human verification by calling both numbers or visiting the location is recommend
 - Phone: [805-781-5856](tel:+1-805-781-5856)
 - Hours: M–F 9am–12pm
 - How to access: no appointment necessary
-- Note: Provided by District Attorney's Economic Crime Unit; advisor is not an attorney
+- Note: Provided by District Attorney’s Economic Crime Unit; advisor is not an attorney
 
 ## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
 
@@ -2738,7 +2771,6 @@ Human verification by calling both numbers or visiting the location is recommend
 
 ## <a id="SLO-County-YMCA">SLO County YMCA</a>
 
-<!-- Source: https://www.ciymca.org/locations/san-luis-obispo-county-ymca -->
 - [ciymca.org/locations/san-luis-obispo-county-ymca](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
 - Location: 1020 Southwood Dr., SLO
 - Phone: [805-543-8235](tel:+1-805-543-8235)
@@ -2836,11 +2868,11 @@ Human verification by calling both numbers or visiting the location is recommend
 
 ## <a id="SLO-Senior-Center">SLO Senior Center</a>
 
+<!-- Note: Unable to locate dedicated web page (as of October 2025); may be part of slocity.org -->
 - Location: 1445 Santa Rosa St., SLO
 - Phone: [805-781-7306](tel:+1-805-781-7306)
 - Hours: M–F 9am–4pm
 - Notes: Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
-<!-- Note: Unable to locate dedicated web page (as of October 2025); may be part of slocity.org -->
 
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
@@ -2858,9 +2890,9 @@ Human verification by calling both numbers or visiting the location is recommend
    - Grover Beach Branch: 214 S. 16th St., Grover Beach
    - Juvenile Services Center: 1050 Monterey St., SLO
    - Paso Robles Branch: 901 Park St., Paso Robles
-   - Veteran's Memorial Branch: 801 Grand Ave., SLO
-- Phone: [805-706-3600](tel:+1-805-706-3600) (Civil & Family Law Branch and Criminal Branch)
+   - Veteran’s Memorial Branch: 801 Grand Ave., SLO
 <!-- Note: All court locations verified via slo.courts.ca.gov (October 2025) -->
+- Phone: [805-706-3600](tel:+1-805-706-3600) (Civil & Family Law Branch and Criminal Branch)
 
 ## <a id="SLO-Transit">SLO Transit</a>
 
@@ -2917,13 +2949,13 @@ Human verification by calling both numbers or visiting the location is recommend
 
 > *See [**Lumina Alliance**](#Lumina-Alliance)*
 
-## <a id="Steves-Recycling">Steve's Recycling - Los Osos</a>
+## <a id="Steves-Recycling">Steve’s Recycling — Los Osos</a>
 
+<!-- Note: No website found (as of October 2025) -->
 - Location: 1130 Los Osos Valley Rd., Los Osos
 - Phone: [805-801-1627](tel:+1-805-801-1627)
 - Hours: Sa 9am–11am
 - Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
-<!-- Note: No website found (as of October 2025) -->
 
 ## <a id="Sunny-Acres">Sunny Acres</a>
 
@@ -2938,7 +2970,6 @@ Human verification by calling both numbers or visiting the location is recommend
 
 ## <a id="Sun-Street-Centers">Sun Street Centers</a>
 
-<!-- Source: http://sunstreetcenters.org/ -->
 - [sunstreetcenters.org](http://sunstreetcenters.org/)
 - Location: 34 Prado Rd., SLO
 - Phone: [805-457-3331](tel:+1-805-457-3331) / [805-457-5150](tel:+1-805-457-5150)
@@ -3000,7 +3031,6 @@ Human verification by calling both numbers or visiting the location is recommend
 
 ## <a id="Tri-Counties-Regional-Center">Tri Counties Regional Center</a>
 
-<!-- Source: http://tri-counties.org/ -->
 - [tri-counties.org](http://tri-counties.org/)
 - Location: (main office) 520 E. Montecito St., Santa Barbara
 - Phone:
@@ -3037,7 +3067,7 @@ Human verification by calling both numbers or visiting the location is recommend
 - Phone: [805-242-3821](tel:+1-805-242-3821)
 - Email: [TranzCentralCoast@gmail.com](mailto:TranzCentralCoast@gmail.com)
 
-## <a id="UC-Cooperative-Extension">U.C. Cooperative Extension - SLO County</a>
+## <a id="UC-Cooperative-Extension">U.C. Cooperative Extension — SLO County</a>
 
 - [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/)
 - Phone: [805-781-5940](tel:+1-805-781-5940)
@@ -3069,7 +3099,6 @@ Human verification by calling both numbers or visiting the location is recommend
 ## <a id="United-Voluntary-Services-Thrift">United Voluntary Services Thrift</a>
 
 <!-- Source: https://www.thriftstores.net/store/1713/united-voluntary-services-thrift-store/ -->
-- [unitedwayslo.org](https://www.unitedwayslo.org)
 - Location: 474 Marsh St., SLO
 - Phone: [805-543-1545](tel:+1-805-543-1545)
 - Hours: M–F 10am–4pm, Sa 11am–2pm
@@ -3087,12 +3116,34 @@ Human verification by calling both numbers or visiting the location is recommend
 
 There are several urgent care options, including:
 
+- [**Carbon Health Urgent Care**](#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)
+- [**Carbon Health Urgent Care**](#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)
 - [**Community Health Center**](#CHC) (1205 E. Grand Ave, Arroyo Grande location)
-- [**Cottage Urgent Care**](#Cottage-Urgent-Care)
-- [**Dignity Health Urgent Care**](#Dignity-Health-Urgent-Care)
-- [**Family and Industrial Medical Center**](#Family-and-Industrial-Medical-Center)
-- [**MedStop**](#MedStop)
+- [**Cottage Urgent Care**](#Cottage-Urgent-Care) (SLO)
+- [**Dignity Health Urgent Care**](#Dignity-Health-Urgent-Care) (Atascadero, Pismo Beach)
+- [**Family and Industrial Medical Center**](#Family-and-Industrial-Medical-Center) (SLO)
+- [**MedStop**](#MedStop) (SLO)
+- [**North County Care Minor Emergency Services**](#North-County-Care) (Paso Robles)
+- [**Urgent Care of Atascadero**](#Urgent-Care-of-Atascadero)
+- [**Urgent Care of Morro Bay**](#Urgent-Care-of-Morro-Bay)
 - [**Urgent Care Pismo Beach**](#Urgent-Care-Pismo-Beach)
+
+## <a id="Urgent-Care-of-Atascadero">Urgent Care of Atascadero</a>
+
+<!-- Source: Web search verified October 2025 -->
+- Location: 9700 El Camino Real #100, Atascadero
+- Phone: [805-466-1330](tel:+1-805-466-1330)
+- Hours: Every day 7am–6:30pm
+- How to access: Walk-ins accepted until 30 minutes before closing
+- Notes: Accepts Medicare and Medi-Cal; most insurances accepted — call to verify coverage
+
+## <a id="Urgent-Care-of-Morro-Bay">Urgent Care of Morro Bay</a>
+
+<!-- Source: Web search verified October 2025 -->
+- Location: 783 Quintana Rd. #1, Morro Bay
+- Phone: [805-771-0108](tel:+1-805-771-0108)
+- Hours: M–Sa 7am–6:30pm, Su 8am–3:30pm
+- Notes: Accepts Medicare and Medi-Cal
 
 ## <a id="Urgent-Care-Pismo-Beach">Urgent Care Pismo Beach</a>
 
