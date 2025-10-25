@@ -12,7 +12,7 @@ If you find a resource in the guide that seems it will be useful to you, click t
 San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
 Nearly one in four homeless people in the United States lives in California.
 California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people.
-(In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, meaning that the county has the third highest percentage of unsheltered homelessness in the U.S.)
+(In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of unsheltered homelessness in the U.S.)
 The city of San Luis Obispo is one of top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have in order to afford to buy a home.
 10% of schoolchildren in SLO County are homeless.
 
@@ -518,40 +518,22 @@ Some other potential low-income options include:
 
 #### For Seniors
 
-There are some subsidized and affordable housing options especially for seniors (sometimes defined as age 55 and above, or as 62 and above). These include:
+[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority), and [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates several affordable senior housing rental properties.
+
+There are some additional subsidized and affordable housing options especially for seniors (sometimes defined as age 55 and above, or as 62 and above).
+These include:
 
 - [Cortina d’Arroyo Grande Senior Apartments](https://cortinadarroyograndeseniorapts.com/) (241 N. Courtland Ave., Arroyo Grande) — [805-489-6888](tel:+1-805-489-6888)
 - Parkview Manor (365 South Elm St., Arroyo Grande) — [805-489-5101](tel:+1-805-489-5101)
 - [**Judson Terrace**](Directory.md#Judson-Terrace) (SLO), has 107 low-income affordable apartments for people aged 55 and up, and 31 low-income affordable apartments for people aged 62 and up. They only accept applications when the waiting list is open.
 
-[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) operates the following affordable senior housing rental properties:
-
-- Atascadero Senior Apartments (9705 El Camino Real, Atascadero)
-- Willow Walk Apartments (167 Mary St., Nipomo)
-- Anderson Hotel (995 Monterey St., SLO)
-- Carmel Street Apartments (1312 Carmel, SLO)
-- Del Rio Terrace (1345 Ella St., SLO)
-
-[**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) operates the following affordable senior housing rental properties:
-
-- Chet Dotter (801 28th St., Paso Robles)
-
-[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates the following affordable senior housing rental properties:
-
-- Cawelti Court (351 South Elm St., Arroyo Grande) — [805-474-9034](tel:+1-805-474-9034)
-- Ocean View Manor (456 Elena St., Morro Bay) — [805-772-1921](tel:+1-805-772-1921)
-- Oceanside Gardens (2612 Elm St., Morro Bay) — [805-772-3387](tel:+1-805-772-3387)
-- Creekside Garden Apartments (401 Oak Hill Rd., Paso Robles) — [805-237-1509](tel:+1-805-237-1509)
-- Los Robles Terrace (2940 Spring St., Paso Robles) — [805-239-1081](tel:+1-805-239-1081)
-- Templeton Place (1009 & 1035 Petersen Ranch Rd., Templeton) — [805-434-2953](tel:+1-805-434-2953)
-
-Additional affordable housing options for seniors with Section 8 vouchers include:
+Affordable housing options for seniors with Section 8 vouchers include:
 
 - Morro del Mar Senior Apartments (555 Main St., Morro Bay) — [805-225-1837](tel:+1-805-225-1837)
 - Villa Paseo Palms (2800 Ramada Dr., Paso Robles) — [805-227-4588](tel:+1-805-227-4588)
 - [Las Brisas Retirement Community](https://www.sunshineretirementliving.com/las-brisas-independent-senior-living-san-luis-obispo-ca/) (SLO)
 
-Additional affordable housing options for disabled / handicapped seniors can be found at:
+Affordable housing options for disabled / handicapped seniors can be found at:
 
 - California Manor (10165 El Camino Real, Atascadero) — [805-466-0759](tel:+1-805-466-0759)
 - Hacienda Del Norte (529 10th St., Paso Robles) — [805-238-5793](tel:+1-805-238-5793)
@@ -639,18 +621,18 @@ Most storage facilities have daytime hours of operation when you can access the 
 
 ### <a id="free-meals">Free Meals</a>
 
-| Location     | Meal Provider                                                              | When |
-| ------------ | -------------------------------------------------------------------------- | ---- |
-| Atascadero   | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | daily dinner |
-| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | Tuesday & Wednesday dinner |
-| Grover Beach | [**People's Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | daily lunch |
-| Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | Wednesdays |
-| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | Monday late lunch (3:45pm) |
-| Paso Robles  | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | daily dinner |
-| SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | Thursday lunch |
-| SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | Monday & Thursday dinner |
-| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | Thursday lunch |
-| SLO          | [**People's Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | daily lunch |
+| Location     | Meal Provider                                                              | When                     |
+| ------------ | -------------------------------------------------------------------------- | ------------------------ |
+| Atascadero   | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | 5pm daily                |
+| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 6pm Tuesday & Wednesday  |
+| Grover Beach | [**People's Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily         |
+| Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesday            |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 5pm Monday               |
+| Paso Robles  | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | 4:30pm daily             |
+| SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am Thursday            |
+| SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 4:30pm Monday & Thursday |
+| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm Thursday             |
+| SLO          | [**People's Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | noon lunch daily         |
 
 ### <a id="free-food-pantries">Free Food Pantries</a>
 
@@ -929,25 +911,15 @@ To qualify, you must have a valid California driver’s license, a low income (f
 
 You can apply for this insurance on-line at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling [866-602-8861](tel:+1-866-602-8861).
 
-> See [Acute Financial Needs](#acute-financial-needs) for programs that can give you financial assistance to pay for emergency expenses like car repairs.
-
 The [**Family Care Network**](Directory.md#Family-Care-Network) can help you pay for car repairs, payments, and gas if you’re broke.
 You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist.
 
-#### Uncategorized / needs research
+The [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap)’s “Consumer Assistance Program” can help you fix your car so that it satisfies California emissions standards.
+This program will pay for up to $1,200 in necessary repairs at a STAR test-and-repair center for model year 1996 or newer vehicles, or up to $900 for 1976–1995 vehicles.
+To qualify, you must have a household income below 225% of the federally-set poverty level, and your vehicle must have failed its biennial smog check.
+You can apply online at their website or by calling [866-272-9642](tel:+1-866-272-9642) (M–F 8:30am–5pm).
 
-- **[California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap)**: Consumer Assistance Program provides financial assistance for emissions-related repairs if your vehicle fails its biennial smog check inspection.
-   - Up to $1,200 for model year 1996 or newer vehicles; up to $900 for 1976–1995 vehicles
-   - Must meet income requirement: household income not exceeding 225% of federal poverty guidelines
-   - Vehicle must have failed smog check (Fail, Gross Polluter, or Not Ready status)
-   - Must apply within 365 days of registration sticker expiration date
-   - Repairs must be done at a STAR test-and-repair station
-   - Participation depends on funding availability each fiscal year (July 1–June 30)
-   - Phone: [866-272-9642](tel:+1-866-272-9642) (M–F 8:30am–5pm)
-   - Apply online at [bar.ca.gov](https://www.bar.ca.gov/cap)
-   - Source: [bar.ca.gov/cap](https://www.bar.ca.gov/cap), [bar.ca.gov/cap/repair](https://www.bar.ca.gov/cap/repair)
-- TANF (Temporary Assistance for Needy Families/CalWORKs): CalWORKs in California may provide transportation assistance including car repair through diversion payments (one-time payments up to $2,000 for special circumstances like car repairs to avoid needing ongoing assistance). CalWORKs also provides payments for transportation and ancillary supports for program participants. Contact your local county social services office to apply and determine eligibility. In SLO County, contact County Social Services. Source: [cdss.ca.gov/calworks](https://www.cdss.ca.gov/calworks)
-   - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
+> See [Acute Financial Needs](#acute-financial-needs) for programs that can give you financial assistance to pay for emergency expenses like car repairs.
 
 ### Safe Parking for People Living in Vehicles
 
@@ -1446,9 +1418,22 @@ The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Av
 
 [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a women’s mobile health unit.
 
-### Uncategorized
+### Fitness
 
-1. First aid tips, tips for extreme hot/cold/wet weather?
+There are free, outdoor fitness courts with exercise equipment at Emerson Park in SLO (Pismo St. & Nipomo St.), and behind French Hospital in SLO (along the bike path between Breck St. and the French Hospital parking lot).
+The “Vita Fitness Courses” in Meadow Park (between Corrida Drive and South Street in SLO) and around Laguna Lake in SLO have some stations with rudimentary equipment that are designed for fitness exercises.
+<!-- I couldn't find anything like this outside of SLO city limits -->
+
+The [DAREBEE](https://darebee.com/workouts/) website has more than 2,500 free, illustrated workout guides, most of which do not require any special equipment.
+
+<!--
+### Uncategorized / Needs Research
+
+1. Self-help tips
+   1. First aid, wound care
+   1. Tips for extreme hot/cold/wet weather
+   1. How to identify, avoid, treat poison oak
+   1. Tips for avoiding / treating sunburn
 1. Weight loss?
 1. Health education (e.g. CPR training, overdose prevention training)?
    - **American Red Cross**: Offers CPR training in California with 2-year certification meeting OSHA requirements; in-person, blended learning, and online options
@@ -1458,8 +1443,6 @@ The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Av
    - Local providers: Star CPR, Central Coast CPR, LifeGuard CPR and Aquatics
    - **Dignity Health**: [Educational events and programs](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/educational-events)
    - Sources: [redcross.org](https://www.redcross.org/local/california/take-a-class/cpr), [cuesta.edu](https://www.cuesta.edu/communityprograms/community-education/special_interest/CPR.html)
-1. How to identify, avoid, treat poison oak
-1. Tips for avoiding / treating sunburn
 1. [thERApy](https://therapyera.com/) website has a mention of "sliding scale" fees but otherwise nothing indicating that they're especially accommodating to people of limited means; seems to specialize in various "marginalized" populations, though.
 1. **[Genoa Pharmacy](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)**—On-site pharmacy for SLO County Behavioral Health
    - What’s Available: Medication pickup for behavioral health clients and general public, free mail delivery of prescriptions, pharmacist consultation, services in Spanish, medication packaging options
@@ -1474,6 +1457,7 @@ The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Av
    - Website is a little vague about what they offer, to whom, and on what terms. But it appears to be some sort of counseling and aid ("peer support groups, healing programs, and trauma-informed training") for "victims of trauma, abuse, and exploitation" in particular for victims of "human trafficking."
    - Phone: [805-674-5056](tel:+1-805-674-5056)
    - Email: [info@resilientsouls.org](mailto:info@resilientsouls.org)
+-->
 
 ## <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">Recovery, Harm Reduction, and Other Substance-Related Issues</a>
 
@@ -2104,7 +2088,7 @@ You can typically only get a “certified” copy for a close relative, and you 
 
 You can also get a copy of a marriage certificate that was issued in SLO County from the SLO County Clerk-Recorder office ($17) or from VitalChek.
 Again, there is a difference between “certified” and “informational” copies, and you should check which one you need before you order it.
-You can typically only get a “certified” copy for a close relative, and you may have to provide additional documentation.
+You can typically only get a “certified” copy for yourself or a close relative, and you may have to provide additional documentation.
 
 There is no homeless fee exemption program for death and marriage certificates the way there is for birth certificates.
 
@@ -2169,20 +2153,22 @@ There are various ways to establish a reliable mailing address even if you do no
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you.
 Ask them for details.
 
-**North County Mail Drop Services** (pending human review): For people in North County areas (Paso Robles, Atascadero, Templeton), contact [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) at [805-462-3663](tel:+1-805-462-3663) to inquire about mail drop services at their Paso Robles (1134 Black Oak Dr.) or Atascadero (7600 El Camino Real #12) locations. Additionally, [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has locations in Arroyo Grande (203 Bridge St.) that may offer mail services for clients; call [805-540-6500](tel:+1-805-540-6500) to inquire. These organizations may allow clients to use their addresses for receiving mail.
+* North County Mail Drop Services (*needs verification*): For people in North County areas (Paso Robles, Atascadero, Templeton), contact [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) at [805-462-3663](tel:+1-805-462-3663) to inquire about mail drop services at their Paso Robles (1134 Black Oak Dr.) or Atascadero (7600 El Camino Real #12) locations. Additionally, [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has locations in Arroyo Grande (203 Bridge St.) that may offer mail services for clients; call [805-540-6500](tel:+1-805-540-6500) to inquire. These organizations may allow clients to use their addresses for receiving mail.
 
 You can rent mail boxes from UPS Stores and from the U.S. Postal Service.
 The Postal Service option is the most affordable of the two.
-But sometimes, a "P.O. Box" address (which is what you get from the Postal Service) is not adequate for your needs, and one advantage of the UPS Store option is that it appears as a regular street address (e.g. "1241 Johnson Avenue, San Luis Obispo").
+But sometimes, a "P.O. Box" address (which is what you get from the Postal Service) is not adequate for your needs, and one advantage of the UPS Store option is that it appears as a regular street address (e.g. "1241 Johnson Avenue #1234, San Luis Obispo").
+UPS Store locations with mailbox rental services are available throughout SLO County including:
 
-**UPS Store Locations County-wide** (pending human review): UPS Stores with mailbox rental services are available throughout SLO County including:
-
-- SLO: 793 Foothill Blvd., 1241 Johnson Ave., 3940 Broad St.
-- Paso Robles: Two locations (contact [locations.theupsstore.com](https://locations.theupsstore.com/) for addresses)
-- Atascadero: 7343 El Camino Real
-- Morro Bay: 630 Quintana Rd.
-
-All locations offer mailbox services with street addresses, printing, shipping, and notary services. Source: [locations.theupsstore.com](https://locations.theupsstore.com/)
+- Arroyo Grande: 1375 E. Grand Ave. #103, [805-904-6480](tel:+1-805-904-6480)
+- Atascadero: 7343 El Camino Real, [805-466-9015](tel:+1-805-466-9015)
+- Morro Bay: 630 Quintana Rd., [805-772-9284](tel:+1-805-772-9284)
+- Nipomo, 110 South Mary Ave. #2, [805-929-0055](tel:+1-805-929-0055)
+- Paso Robles: 179 Niblick Rd., [805-237-8727](tel:+1-805-237-8727)
+- Pismo Beach: 567 Five Cities Dr., [805-295-6581](tel:+1-805-295-6581)
+- SLO: 3940 Broad St., [805-549-0200](tel:+1-805-549-0200)
+- SLO: 793 Foothill Blvd., [805-541-9333](tel:+1-805-541-9333)
+- SLO: 1241 Johnson Ave., [805-541-1334](tel:+1-805-541-1334)
 
 Another option is to ask people to send you mail addressed to [“General Delivery”](https://faq.usps.com/s/article/What-is-General-Delivery):
 > *Your Name*<br />
@@ -2192,7 +2178,7 @@ Another option is to ask people to send you mail addressed to [“General Delive
 You can pick up mail that is sent to you via General Delivery from the post office.
 Here are some General Delivery zip codes for our area:
 
-| Post Office       | Address                       | ZIP Code   |
+| Post Office       | Pick-up address               | ZIP Code   |
 | ----------------- | ----------------------------- | ---------- |
 | Arroyo Grande     | 160 Station Way               | 93420‒9999 |
 | Atascadero        | 9800 El Camino Real           | 93422‒9999 |
@@ -2210,7 +2196,9 @@ Here are some General Delivery zip codes for our area:
 | Santa Margarita   | 22360 El Camino Real          | 93453‒9999 |
 | Templeton         | 101 N. Main St.               | 93465‒9999 |
 
-**Note**: In cities with multiple post office locations, General Delivery is typically handled at only one facility (usually the main post office). For example, San Luis Obispo has two post offices (1655 Dalidio Dr. and 893 Marsh St.), but General Delivery is handled at the main location on Dalidio Dr. To confirm which location handles General Delivery in your area, call [1-800-275-8777](tel:+1-800-275-8777) and request "Customer Service," or use the [USPS ZIP Code lookup tool](https://tools.usps.com/zip-code-lookup.htm) by entering "General Delivery" as the address line. Source: [faq.usps.com](https://faq.usps.com/s/article/What-is-General-Delivery)
+**Note**: In cities with multiple post office locations, General Delivery is typically handled at only one facility (usually the main post office). For example, San Luis Obispo has two post offices (1655 Dalidio Dr. and 893 Marsh St.), but General Delivery is handled at the main location on Dalidio Dr.
+To confirm which location handles General Delivery in your area, call [800-275-8777](tel:+1-800-275-8777) and request “Customer Service,” or use the [USPS ZIP Code lookup tool](https://tools.usps.com/zip-code-lookup.htm) by entering “General Delivery” as the address line.
+<!-- Source: [faq.usps.com](https://faq.usps.com/s/article/What-is-General-Delivery) -->
 
 You should speak with the postmaster at the post office where you want to receive general delivery mail beforehand.
 The post office will hold general delivery mail for you for 30 days.
@@ -2680,11 +2668,11 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Source: [thebridgecafe.org](https://www.thebridgecafe.org/)
 1. **Recycling**
    1. **CRV Recycling Centers**: Limited locations in county for recycling cans and bottles for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
-      - [**AGS Recycling**](Directory.md#AGS-Recycling): See [Directory](Directory.md) for locations in Arroyo Grande and Morro Bay
-      - [**Cambria Recycling Center**](Directory.md#Cambria-Recycling-Center): See [Directory](Directory.md)
-      - [**Recycle 101 - Oceano**](Directory.md#Recycle-101): See [Directory](Directory.md)
-      - [**Steve's Recycling - Los Osos**](Directory.md#Steves-Recycling): See [Directory](Directory.md)
-   1. **Grocery Store CRV Buyback**: Approximately 60 grocery stores county-wide accept CRV containers; retailers legally required to buy back if no nearby recycling center
+      - [**AGS Recycling**](Directory.md#AGS-Recycling) (Arroyo Grande and Morro Bay)
+      - [**Cambria Recycling Center**](Directory.md#Cambria-Recycling-Center) (Cambria)
+      - [**Steve’s Recycling**](Directory.md#Steves-Recycling) (Los Osos)
+      - [**Recycle 101**](Directory.md#Recycle-101) (Oceano)
+   1. **Grocery Store CRV Buyback**: Approximately 60 grocery stores county-wide accept CRV containers; retailers are legally required to buy them back if there is no nearby recycling center
       - Limit: Up to 50 containers each of aluminum, glass, plastic, and bi-metal per visit
       - Find locations: Visit [www2.calrecycle.ca.gov/BevContainer/InStoreRedemption](https://www2.calrecycle.ca.gov/BevContainer/InStoreRedemption) for participating retailers
       - Note: Call ahead to confirm participation before visiting [Source: https://www.iwma.com/, https://www.ksby.com/]
@@ -3270,8 +3258,6 @@ This program is for California residents with medically-certified limitations of
 
 ## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering</a>
 
-1. [Fitness Court](https://localwiki.org/slo/Fitness_Court) (free, outdoors)
-1. [Vita Fitness Course](https://localwiki.org/slo/Vita_Fitness_Course)
 1. [Community yoga classes](https://localwiki.org/slo/Low-Cost_Yoga) (typically free or pay-what-you-can)
    - Free Options: City of SLO Parks & Recreation offers morning yoga (first class free), downtown community yoga classes (donation-based supporting monthly charities)
    - Low-Cost: Cambria classes at $10 drop-in (yoga, pilates, tai chi)

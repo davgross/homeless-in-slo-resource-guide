@@ -1931,9 +1931,8 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="Morro-Bay-Lions-Foundation">Morro Bay Lions Foundation</a>
 
 <!-- Source: https://morrobayseniors.org/resources/ -->
-- [morrobaylions.com](http://www.morrobaylions.com)
 - Location: Morro Bay Vets Memorial Building, 209 Surf St., Morro Bay
-- Phone: [805-772-4421](tel:+1-805-772-4421) (for home deliveries/reservations)
+- Phone: [805-772-4421](tel:+1-805-772-4421)
 - Hours:
    - Mondays: 4:30pm (doors open for pantry shopping, free clothes, towels, toiletries)
    - Dinner service: 5–5:45pm
