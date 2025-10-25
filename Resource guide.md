@@ -744,15 +744,30 @@ When they are in season, they can add nutrition to your diet.
 
 **Warning:** Some wild plants are poisonous.
 You should only forage for wild plants if you know what you are doing.
+Also: beware of foraging plants in agricultural or well-tended areas, as they may have been treated with pesticides.
+Don’t forage plants from waste sites, stagnant water areas, or areas subject to agricultural or industrial run-off, as the plants may take up toxins or parasites from the soil or water.
 
 Some common edible plants in SLO County are:
 
-| Plant | Season |
-| ----- | ------ |
-| [Blackberries](https://ediblewild.info/plants/brambleberries) | Summer, when they turn completely dark |
-| [Nasturtium](https://foragerchef.com/nasturtium-leaves-and-flowers-2/) | Spring and Summer |
-| [Prickly Pear](https://en.wikipedia.org/wiki/Opuntia) | Summer |
-| [Wild Mustard](https://ediblewild.info/plants/mustard) | Spring |
+| Plant                                                                              | Season        | Edible Part |
+| ---------------------------------------------------------------------------------- | ------------- | ----------- |
+| [Beach Strawberry](https://pfaf.org/user/Plant.aspx?LatinName=Fragaria+chiloensis) | Spring–Summer | Berries |
+| [Blackberries](https://ediblewild.info/plants/brambleberries)                      | Summer        | Berries |
+| [Bulrush](https://plants.usda.gov/plant-profile/SCMI2)                             | All year      | Most parts, but should be cooked |
+| [Cattail](https://plants.usda.gov/plant-profile/TYLA)                              | All year      | Most parts, but should be cooked |
+| [Chaparral Currant](https://plants.usda.gov/plant-profile/RIMA)                    | Spring        | Berries |
+| [Chia](https://plants.usda.gov/plant-profile/SACO6)                                | Fall          | Seeds |
+| [Chinquapin](https://plants.usda.gov/plant-profile/CHCHC4)                         | Fall          | Nuts |
+| [Chufa/Nutgrass](https://pfaf.org/user/plant.aspx?LatinName=Cyperus+esculentus)    | Fall          | Tubers |
+| [Dandelion](https://pfaf.org/user/plant.aspx?LatinName=Taraxacum+officinale)       | Spring–Fall   | All parts |
+| [Gooseberry](https://plants.usda.gov/plant-profile/RISP)                           | Spring        | Berries |
+| [Hollyleaf Cherry](https://plants.usda.gov/plant-profile/PRIL)                     | Summer–Fall   | Berries |
+| [Miner’s Lettuce](https://pfaf.org/user/Plant.aspx?LatinName=Claytonia+perfoliata) | All year      | All parts |
+| [Nasturtium](https://foragerchef.com/nasturtium-leaves-and-flowers-2/)             | Spring–Summer | Flowers and leaves |
+| [Prickly Pear](https://en.wikipedia.org/wiki/Opuntia)                              | Summer–Fall   | Fruit (but covered in annoying spines) |
+| [Thimbleberry](https://plants.usda.gov/plant-profile/RUPAV)                        | Summer        | Berries |
+| [Watercress](https://plants.usda.gov/plant-profile/NAOF)                           | Spring–Summer | Leaves |
+| [Wild Mustard](https://ediblewild.info/plants/mustard)                             | Spring        | Flowers and leaves |
 
 Sometimes you will also see edible fruit trees like plums or cherries on sidewalks, in parks, or in other public places.
 
@@ -2153,7 +2168,9 @@ There are various ways to establish a reliable mailing address even if you do no
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you.
 Ask them for details.
 
-* North County Mail Drop Services (*needs verification*): For people in North County areas (Paso Robles, Atascadero, Templeton), contact [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) at [805-462-3663](tel:+1-805-462-3663) to inquire about mail drop services at their Paso Robles (1134 Black Oak Dr.) or Atascadero (7600 El Camino Real #12) locations. Additionally, [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has locations in Arroyo Grande (203 Bridge St.) that may offer mail services for clients; call [805-540-6500](tel:+1-805-540-6500) to inquire. These organizations may allow clients to use their addresses for receiving mail.
+<!-- NEEDS VERIFICATION
+ North County Mail Drop Services (*needs verification*): For people in North County areas (Paso Robles, Atascadero, Templeton), contact [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) at [805-462-3663](tel:+1-805-462-3663) to inquire about mail drop services at their Paso Robles (1134 Black Oak Dr.) or Atascadero (7600 El Camino Real #12) locations. Additionally, [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has locations in Arroyo Grande (203 Bridge St.) that may offer mail services for clients; call [805-540-6500](tel:+1-805-540-6500) to inquire. These organizations may allow clients to use their addresses for receiving mail.
+-->
 
 You can rent mail boxes from UPS Stores and from the U.S. Postal Service.
 The Postal Service option is the most affordable of the two.
