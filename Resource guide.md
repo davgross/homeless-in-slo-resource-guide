@@ -118,8 +118,8 @@ If you would like to suggests corrections or improvements, or if you would like 
 1. [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc)
 1. [Banking and Money Management](#banking-and-money-management)
    1. Banks, Credit Unions, etc.
-   1. Financial Literacy and Money Management
-   1. Debt Consolidation
+   1. [Financial Literacy and Money Management](#financial-literacy)
+   1. [Debt Consolidation](#debt-consolidation)
 1. [Tax Preparation](#tax-preparation)
 1. [Acute Financial Needs](#acute-financial-needs)
 1. [Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
@@ -793,7 +793,9 @@ The [Rideshare](https://rideshare.org/) website and the [511](tel:+1-511) phone 
 The [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) system includes several bus routes that connect cities in SLO County.
 They also govern the within-city bus routes in Morro Bay and Paso Robles, and the dial-a-ride and Runabout Paratransit services.
 You can buy bus passes on the bus or by using the [Token Transit](https://tokentransit.com/riders/download) app.
+
 There are discounts for seniors, medicare card holders, and people with disabilities.
+People over the age of 80 and people with an ADA-certified disability ride free.
 
 | RTA Line                                                                           | Destinations |
 | ---------------------------------------------------------------------------------- | ------------ |
@@ -804,8 +806,9 @@ There are discounts for seniors, medicare card holders, and people with disabili
 | [21](https://www.slorta.org/schedules-fares/route-21/)                             | Pismo Beach, Arroyo Grande, Grover Beach |
 | [24](https://www.slorta.org/schedules-fares/route-24/)                             | Pismo Beach, Grover Beach |
 | [27](https://www.slorta.org/schedules-fares/route-27/) & [28](https://www.slorta.org/schedules-fares/route-28/) | Grover Beach, Arroyo Grande, Oceano |
-| [A&B](https://www.slorta.org/schedules-fares/paso-express/)                        | within Paso Robles |
+| [A & B](https://www.slorta.org/schedules-fares/paso-express/)                      | within Paso Robles |
 | [Avila-Pismo Beach Trolley](https://www.slorta.org/schedules-fares/avila-trolley/) | Port San Luis, Avila Beach, Pismo Beach |
+| [Morro Bay Transit](https://www.slorta.org/schedules-fares/morro-bay-transit/)     | within Morro Bay |
 
 [Runabout Paratransit](https://www.slorta.org/services/runabout-paratransit/) is a county-wide transit service for people who cannot always use the fixed-route SLO RTA buses because of disability.
 This service will take you door-to-door within ¾-mile of the RTA fixed routes during the same hours RTA operates.
@@ -1051,11 +1054,11 @@ These are available to gym members.
 Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
 Ask them about options for people with low incomes.
 
+The [SLO Swim Center](https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center), which costs $4.75 to enter (but is free to YMCA members during public swim session times), has showers.
+
 Some SLO County parks have coin-operated shower facilities, including [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), [**Oceano Campground**](Directory.md#Oceano-Campground), and [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area)
 
 The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has coin-operated showers.
-
-The [SLO Swim Center](https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center), which costs $4.75 to enter, has showers.
 
 Some commercial gyms have showers.
 For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers.
@@ -1440,6 +1443,10 @@ The “Vita Fitness Courses” in Meadow Park (between Corrida Drive and South S
 <!-- I couldn't find anything like this outside of SLO city limits -->
 
 The [DAREBEE](https://darebee.com/workouts/) website has more than 2,500 free, illustrated workout guides, most of which do not require any special equipment.
+
+The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (on-line and in person), aqua fitness classes, etc.
+Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
+Ask them about options for people with low incomes.
 
 <!--
 ### Uncategorized / Needs Research
@@ -2292,34 +2299,16 @@ The post office may stop accepting general delivery mail for you if you try to u
    - Ask about special programs: Specifically inquire about programs for people without permanent addresses
    - Consider credit unions first: Often more flexible and community-focused than large banks
    - Use service organization support: Have case workers or service providers help advocate and provide verification if needed
-- **Financial Literacy Classes and 1-on-1 Assistance**:
-   1. **CAPSLO Financial Services**
-      - Note: Unable to verify specific "Financial Empowerment Program" in current sources (as of 2025); contact CAPSLO directly for information about current economic stability and financial counseling services
-      - 1030 Southwood Dr., SLO; [805-544-4355](tel:+1-805-544-4355)
-      - [Source: [capslo.org](https://capslo.org)]
-   1. **United Way of San Luis Obispo County**: Offers "Money Talks" financial education program and tax assistance services. Provides resources for families to improve financial stability through education and support.
-      - Contact: [unitedwayslo.org](https://unitedwayslo.org) / [info@unitedwayslo.org](mailto:info@unitedwayslo.org)
-      - 1288 Morro St. #10
-   1. **SESLOC Credit Union**: Community-focused credit union offering financial education and budget counseling. Partners with GreenPath Financial Counseling for comprehensive financial services.
-      - Free GreenPath Financial Counseling, webinars, articles, calculators; call [805-543-1816](tel:+1-805-543-1816) or visit branches
-      - Multiple locations including San Luis Obispo, Paso Robles, Atascadero, and Arroyo Grande
-      - Contact: [sesloc.org](https://www.sesloc.org/)
-   1. **SLO Credit Union**: Over 70 years serving the central coast; contact directly for financial literacy program availability.
-      - Financial literacy workshops, SLO Elevated Relationship Program for financial empowerment; call [805-543-5839](tel:+1-805-543-5839)
-      - Contact: [slocu.com](https://slocu.com/)
-   1. **Credit Counseling Services**: Available through various nonprofit agencies
-      - **National Foundation for Credit Counseling (NFCC)**: [800-388-2227](tel:+1-800-388-2227) or [nfcc.org](https://www.nfcc.org/) - helps connect you with certified nonprofit credit counselors; many services available by phone/internet
-      - US Trustee-approved agencies serving California include Abacus Credit Counseling ([800-516-3834](tel:+1-800-516-3834), [abacuscc.org](https://www.abacuscc.org/)) and Access Counseling ([800-205-9297](tel:+1-800-205-9297), [accesscounseling.com](https://www.accesscounseling.com/)) - both offer services in English and Spanish via phone/internet [Source: [justice.gov](https://www.justice.gov/ust/list-credit-counseling-agencies-approved-pursuant-11-usc-111)]
-      - Contact **211** for local referrals to credit counseling services in SLO County
-   1. [**Family Care Network**](https://fcni.org/) **Housing Support Program** (HSP)
-      - What’s Available: Case management and life skills development for families experiencing or at risk of homelessness; financial assistance for housing deposits and rent; life skills workshops (budgeting, credit repair, communication); weekly meetings with case manager; bus passes, gas cards, paperwork assistance, short-term rent assistance
-      - Eligibility: Homeless or at-risk families in SLO County
-      - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
-      - Location/Phone/Hours: See [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) in the [Directory](Directory.md)
-      - See also [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
-- **Debt consolidation**
-   1. [**ClearPoint Credit Counseling Solutions**](https://www.moneymanagement.org/)
-      - Note: ClearPoint has rebranded as Money Management International
+
+### <a id="financial-literacy">Financial Literacy Classes and 1-on-1 Assistance</a>
+
+[**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union) offers [online webinars](https://www.sesloc.org/why-sesloc/financial-education/seminars-and-webinars/) on topics like debt management and the psychology of spending.
+These webinars are free to the public.
+They also offer free [one-on-one, professional financial counseling](https://www.sesloc.org/why-sesloc/financial-education/greenpath-financial-counseling/) to SESLOC members.
+
+### <a id="debt-consolidation">Debt Consolidation</a>
+
+[Money Management International](https://www.moneymanagement.org/) ([866-889-9347](tel:+1-866-889-9347)) and [National Foundation for Credit Counseling](https://www.nfcc.org/) ([800-388-2227](tel:+1-800-388-2227)) are nonprofit groups that can help you manage credit card or other debt.
 
 ## <a id="tax-preparation">Tax Preparation</a>
 
@@ -2521,7 +2510,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 1. **Additional Resources**
    1. **HelpSLO**: Community assistance network [localwiki.org/slo/HelpSLO](https://localwiki.org/slo/HelpSLO)
    1. [**Christian Fund for the Disabled**](https://joniandfriends.org/support/christian-fund-for-the-disabled/) a.k.a. **Joni & Friends**
-   - *See also*: [Banking and money management](#banking-and-money-management) section for Financial Literacy / Credit Counseling resources
+   - *See also*: [Banking and money management](#financial-literacy) section for Financial Literacy / Credit Counseling resources
 
 ## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">Navigating Social Security / SSDI / SSI / Survivors Benefits</a>
 

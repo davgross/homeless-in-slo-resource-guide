@@ -2773,13 +2773,15 @@ Human verification by calling both numbers or visiting the location is recommend
    - [805-543-5451](tel:+1-805-543-5451)
    - [805-549-8989](tel:+1-805-549-8989) (hotline)
 - Email: [UndocuSupport@cfsloco.org](mailto:UndocuSupport@cfsloco.org)
-- Hours: Wednesdays, 1pm–4:15pm
+- Hours: W 1–4:15pm
 
 ## <a id="SLO-County-YMCA">SLO County YMCA</a>
 
 - [ciymca.org/locations/san-luis-obispo-county-ymca](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
+   - [Open Doors Scholarship application](https://www.ciymca.org/open-doors-scholarship-application) for people with low incomes
 - Location: 1020 Southwood Dr., SLO
 - Phone: [805-543-8235](tel:+1-805-543-8235)
+- Email: [slo.info@ciymca.org](mailto:slo.info@ciymca.org)
 - Hours: M–Th 5:30am–9pm, F 5:30am–7pm, Sa 7am–5pm, Su closed
 
 ## <a id="SLO-Court-Self-Help-Services">SLO Court Self-Help Services</a>
@@ -2867,6 +2869,7 @@ Human verification by calling both numbers or visiting the location is recommend
 - [slorta.org](https://www.slorta.org/)
 - Location: 253 Elks Lane, SLO (offices)
 - Phone: [805-781-4472](tel:+1-805-781-4472)
+   - Access program (reduced fares for people with low incomes): [805-541-8797](tel:+1-805-541-8797)
    - Runabout Paratransit: [805-781-4833](tel:+1-805-781-4833)
 - Email: [info@slorta.org](mailto:info@slorta.org)
 - Hours (office): M–Th 8am–4pm; Friday by appointment only
