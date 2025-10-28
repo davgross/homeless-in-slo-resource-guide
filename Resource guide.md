@@ -645,6 +645,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Arroyo Grande | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                     | Fridays |
 | Arroyo Grande | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church)                                       | Tuesday–Thursday |
 | Arroyo Grande | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Mondays, Wednesdays, Fridays |
+| Atascadero    | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/)                          | any time |
 | Atascadero    | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                       | Thursdays |
 | Atascadero    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero)                                  | Monday–Friday |
 | Atascadero    | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                             | Tuesday & Wednesday eves. or by appt. |
@@ -660,6 +661,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Morro Bay     | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                | Saturdays |
 | Nipomo        | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket)                                           | M/Tu/Th/F |
 | Nipomo        | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)           | Saturdays |
+| Paso Robles   | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/)                          | any time |
 | Paso Robles   | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                 | Monday–Thursday |
 | Paso Robles   | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center)                             | 2nd & 4th Tuesday |
 | Paso Robles   | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Tuesdays |
@@ -1489,11 +1491,10 @@ Substance Abuse and Mental Health Services Administration (SAMHSA) has a free ph
 
 [**Access Support Network**](Directory.md#ASN) offers suboxone (buprenorphine) treatment and opiate overdose prevention training.
 
-[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) is an Opioid Treatment Program (OTP) offering Medication-Assisted Treatment (MAT/MOUD) with methadone and Suboxone®.
+[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) is an Opioid Treatment Program (OTP) offering Medication-Assisted Treatment (MAT/MOUD) with methadone and Suboxone.
 They provide specialized services for pregnant women and relapse prevention.
 Walk-ins are welcome and same-day admissions are available.
 They accept Medi-Cal, Medicare, TRICARE, most commercial insurance, and self-pay.
-They are a CARF accredited Licensed Narcotic Treatment Program.
 
 [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) runs inpatient (partial hospitalization) and intensive outpatient treatment programs for people trying to beat addiction.
 They accept Medicare and most private insurance plans.
@@ -1525,19 +1526,51 @@ You can search for other rehab / addiction / detox programs in SLO County at web
 Naloxone is an easy-to-administer medication that can save the life of someone who is experiencing an overdose of an opiate such as fentanyl or heroin.
 
 You can get naloxone from [**Access Support Network**](Directory.md#ASN), [**SLO Bangers**](Directory.md#SLO-Bangers), [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), and [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) emergency rooms.
-You can also get free naloxone any time from these “NaloxBoxes”:
+You can also get free naloxone any time from these "NaloxBoxes":
+<!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county -->
 
-- Lopez Lake Campground: 6800 Lopez Dr., Arroyo Grande
-- Grover Beach Public Health: 286 S. 16th St. Bldg A, Grover Beach
-- Behavioral Health: 277 South St. #T, SLO
-- Cuesta Canyon Park: 2400 Loomis St., SLO
-- El Chorro Regional Park: State Hwy 1 @ Dairy Creek Rd., SLO
-- SLO Dept. of Social Services: 3433 S. Higuera St., SLO
-- SLO Health Campus: 2180 Johnson Ave, SLO
-- SLO Library: 995 Palm St., SLO
-- Coastal Dunes RV Park: 1001 Pacific Blvd., Oceano
-- Oceano County Campground: 494 Air Park Dr., Oceano
-- Oceano Library: 1511 19th St., Oceano
+**North Coast:**
+
+- Baywood-Los Osos: Community Park, 2180 Palisades Ave.
+- Cambria: Shamel Park, 5455 Windsor Blvd.
+- Cambria: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Cambria branch), 1043 Main St.
+- Cayucos: Paul Andrew Park, N. 3rd St.
+- Morro Bay: Public Health facility, 760 Morro Bay Blvd.
+
+**North County:**
+
+- Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), 9630 El Camino Real
+- Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Atascadero branch), 6555 Capistrano Ave.
+- Paso Robles: [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), 805 4th St.
+- Paso Robles: City Library, 1000 Spring St.
+- Paso Robles: [**ECHO**](Directory.md#ECHO) (Paso Home Key), 1134 Black Oak Dr.
+- San Miguel: Park, 1325 K St.
+- Santa Margarita: Community Park, 2210 H St.
+- Shandon: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Shandon branch), 195 N. 2nd St.
+
+**SLO city:**
+
+- [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), 885 Oklahoma Ave.
+- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, 277 South St. #T
+- [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), 705 Grand Ave.
+- Cuesta Canyon Park, 2400 Loomis St.
+- [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), State Hwy 1 @ Dairy Creek Rd.
+- Maxine Lewis Grove, 732 Orcutt Rd.
+- [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), 3433 S. Higuera St.
+- [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) (Health Campus), 2180 Johnson Ave.
+- [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (SLO branch), 995 Palm St.
+- [**Sun Street Centers**](Directory.md#Sun-Street-Centers), 34 Prado Rd.
+- The Anderson, 995 Monterey St.
+
+**South County:**
+
+- Arroyo Grande: [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), 6800 Lopez Dr.
+- Arroyo Grande: [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), 1152 E. Grand Ave.
+- Grover Beach: Public Health, 286 S. 16th St. Bldg A
+- Nipomo: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Nipomo branch), 918 W. Tefft St.
+- Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), 1001 Pacific Blvd.
+- Oceano: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Oceano branch), 1511 19th St.
+- Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) (County Campground), 494 Air Park Dr.
 
 ### <a id="tobacco-nicotine">Tobacco / Nicotine</a>
 
@@ -3200,6 +3233,7 @@ You can also call their emergency pet care phone line to arrange for emergency v
 [**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws), in partnership with “The Street Dog Coalition,” operates mobile pet wellness clinics in Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano, as well as several sites in Santa Barbara County.
 These provide vaccines, spay/neuter service, health exams, medical care, and pet food assistance.
 They specialize in care for pets of homeless people.
+They also operate the “Pet Refuge” program, which can temporarily board pets for people whose housing situation has become unstable or who are temporarily unable to care for their pets. <!-- This is new: https://www.newtimesslo.com/c-a-r-e-4paws-will-offer-boarding-for-pets-living-with-struggling-families/ -->
 
 [**Woods Humane Society**](Directory.md#Woods-Humane-Society) has a [Pet Pantry](https://woodshumanesociety.org/pet-pantry/) for pet owners facing challenges and offers financial assistance for spay/neuter procedures.
 They can also help you find lost pets and can find new homes for pets when their owners can no longer take care of them.

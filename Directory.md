@@ -521,16 +521,6 @@
 - Email: [info@cambriavineyard.org](mailto:info@cambriavineyard.org)
 - Hours (food pantry): 2nd & 4th Thursdays, Noon–2pm
 
-## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
-
-<!-- Source: https://www.cayucoschurch.org/ministries/ -->
-- [cayucoschurch.org](https://www.cayucoschurch.org/)
-- Location: 60 S. 3rd St., Cayucos
-- Phone: [805-995-3821](tel:+1-805-995-3821)
-- Hours:
-   - Office: Tu–Th 10am–2pm (closed Fridays and holidays)
-   - Food pantry ("Harvest Bag"): 1st, 3rd, 4th, & 5th Wednesdays at 10:30am
-
 ## CAPSLO
 
 > *See [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
@@ -606,6 +596,16 @@
 - Hours: M–F 9am–5pm
 - Services: Supportive Services, Legal Immigration & Citizenship
 <!-- Note: Verified via catholiccharitiesdom.org/contact-us/ October 2025. The organization also has a location in Paso Robles at St. Rose of Lima Church, 642 Trigo Lane -->
+
+## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
+
+<!-- Source: https://www.cayucoschurch.org/ministries/ -->
+- [cayucoschurch.org](https://www.cayucoschurch.org/)
+- Location: 60 S. 3rd St., Cayucos
+- Phone: [805-995-3821](tel:+1-805-995-3821)
+- Hours:
+   - Office: Tu–Th 10am–2pm (closed Fridays and holidays)
+   - Food pantry ("Harvest Bag"): 1st, 3rd, 4th, & 5th Wednesdays at 10:30am
 
 ## <a id="CenCal">CenCal</a>
 
@@ -1598,7 +1598,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 - [literacyforlifeslo.org](https://www.literacyforlifeslo.org/)
 - Location: 992 Monterey St. #C, SLO
 - Phone: [805-541-4219](tel:+1-805-541-4219)
-<!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
+- Hours: M–Th 9am–5pm
 
 ## <a id="Literacy-Connection">The Literacy Connection</a>
 
@@ -2762,8 +2762,8 @@ Human verification by calling both numbers or visiting the location is recommend
 - Location: County Government Center Room 223, SLO
 - Phone: [805-781-5856](tel:+1-805-781-5856)
 - Hours: M–F 9am–12pm
+   - Note: Some sources say hours are Monday–Wednesday only rather than Monday–Friday
 - How to access: no appointment necessary
-- Note: Provided by District Attorney’s Economic Crime Unit; advisor is not an attorney
 
 ## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
 
