@@ -1778,250 +1778,191 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ## <a id="legal-help--mediation-crime-victim-protection">Legal Help & Mediation, Crime Victim Protection</a>
 
-1. **Help for defendants, convicts, parolees, probationers, 290s**
-   1. **[Restorative Partners](https://restorativepartners.org/)**
-      - What’s Available: Reentry resources, in-custody programs, system navigation, housing assistance, treatment, workforce development, clean and sober living homes for men and women
-      - Target population: Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
-      - Location/Phone/Email/Hours: See [**Restorative Partners**](Directory.md#Restorative-Partners) in the [Directory](Directory.md)
-      - How to initiate services: Call main number or email; attend Community Workshop for volunteers
-      - Special programs: The Bridge Cafe—social enterprise offering job training and certification for justice-involved individuals through Cuesta College partnership; housing program
-      - Philosophy: Restorative justice focusing on healing harm, involving wrongdoers, victims, and community
-   1. **[SLO Public Defenders](https://slodefend.com/)**
-      - What’s Available: Free legal representation for individuals charged with crimes who cannot afford private attorneys
-      - Eligibility: Must be unable to afford a private attorney; applies to state court cases, juveniles, and conservatorship cases
-      - Location/Phone/Hours: See [**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) in the [Directory](Directory.md)
-      - Access: Appear at first court hearing and ask judge to appoint attorney; meetings by appointment only
-      - Cost: Users may be responsible for portion of costs based on ability to pay
-1. **Legal help regarding housing (discrimination, landlord disputes, etc.)**
-   1. **[California Civil Rights Department](https://calcivilrights.ca.gov)**: [Housing Discrimination](https://calcivilrights.ca.gov/housing/)
-       - What’s Available: Protection from unlawful discrimination in housing, employment, businesses, state-funded programs; hate violence reporting
-       - Location/Phone/Email: See [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) in the [Directory](Directory.md)
-       - How to file complaints: Online through CCRS (California Civil Rights System), check complaint status online
-       - Additional services: Mediation services
-   1. [**Tenants Together**](https://tenantstogether.org/)
-      - What's Available: Statewide organization defending and advancing tenants' rights to safe, decent, affordable housing; resources include Tenant Defense Toolkit, sample letters, local resource directory, tenants' rights hotline, rent control information, guidance on forming tenant unions
-      - Services: #CancelRent campaign support, rent control advocacy, California Tenant Bill of Rights information, Tenant Lawyer Network
-      - Email: [info@tenantstogether.org](mailto:info@tenantstogether.org)
-      - Source: [tenantstogether.org](https://tenantstogether.org/)
-   1. *California Tenants' Guide* ([English](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) [Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf))
-1. **Help with benefits, wrangling with health insurers, etc.**
-   1. **HiCAP (Health Insurance Counseling and Advocacy Program)**
-       - What’s Available: Free Medicare counseling, explanation of benefits and plan options, cost-saving assistance, appeals help
-       - Eligibility: People 65+ eligible for Medicare, under 65 with disability eligible for Medicare, those soon to be eligible
-       - Location/Phone/Email/Hours: See [**HiCAP (Health Insurance Counseling & Advocacy Program)**](Directory.md#HiCAP) in the [Directory](Directory.md)
-       - Services: Medicare fraud referrals, long-term care assistance, community education including "Roadmap to Medicare" classes
-       - Coverage: Administered by Central Coast Commission for Senior Citizens for both SLO and Santa Barbara counties
-1. **Realistic know-your-rights information**
-   1. **[ACLU of Southern California](https://www.aclusocal.org/)**
-       - What’s Available: Free legal assistance for civil liberties and civil rights cases; "Know Your Rights" guides
-       - Coverage: Serves SLO County and other Southern California counties
-       - Phone/Hours: See [**ACLU of Southern California**](Directory.md#ACLU) in the [Directory](Directory.md)
-       - Note: Limited resources focused on systemic change cases; does not accept walk-ins; seek help online first
-   1. **Central Coast Coalition for Undocumented Student Success**
-       - Services: Legal support (DACA/asylum/citizenship), mental health counseling, financial aid guidance
-       - Coverage: Northern Santa Barbara and San Luis Obispo Counties
-       - Contact: Cal Poly DREAM Center, Cuesta Monarch DREAM Center ([805-546-3109](tel:+1-805-546-3109)), Allan Hancock ([805-922-6966&#xA0;x3177](tel:+1-805-922-6966;ext=3177))
-       - Cross-reference: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
-1. **Injury liability / workers' compensation**
-   - Note: Local injury liability and workers' compensation attorneys not extensively researched in this guide as of August 2025. For current resources, contact SLO County Bar Association referral service or search for contingency fee attorneys who handle cases without upfront costs.
-1. **Consumer protection**
-   1. **[Identity theft hotline](https://www.usa.gov/identity-theft)**
-      - What’s Available: Federal Trade Commission (FTC) identity theft reporting and recovery assistance; step-by-step recovery guidance; help contacting credit reporting agencies; fraud alert and credit freeze resources
-      - Contact: [877-438-4338](tel:+1-877-438-4338) (hotline), [IdentityTheft.gov](https://www.identitytheft.gov/) (online portal)
-      - How to access: Call hotline or visit [IdentityTheft.gov](https://www.identitytheft.gov/) online for step-by-step recovery guidance
-      - Services: Report identity theft, receive personalized recovery plan, get guidance on credit freezes and fraud alerts [Source: [usa.gov](https://www.usa.gov/identity-theft)]
-   1. **[Bureau of Automotive Repairs](https://bar.ca.gov/)**
-      - What’s Available: Mediates and investigates complaints between auto shops and consumers; licenses auto repair facilities; consumer education
-      - Contact: [800-952-5210](tel:+1-800-952-5210) (general complaint line, 24/7 for automated services), [BARenforcement@dca.ca.gov](mailto:BARenforcement@dca.ca.gov) (enforcement), 10949 North Mather Boulevard, Rancho Cordova, CA 95670
-      - Hours: Monday–Friday 8am–5pm (complaint line staffed 8am–4:50pm)
-      - How to access: File complaints online at bar.ca.gov, call complaint line, or submit written complaint; search for licensed auto shops online
-      - Services: Automotive repair complaint mediation, shop licensing verification, consumer protection against unlicensed operators
-   1. **DMV investigation bureau**
-      - What’s Available: Investigates consumer protection issues involving vehicle purchases, identity theft, unlicensed dealers ("curbstoners"), odometer fraud, disabled parking placard abuse, document fraud
-      - Contact: [626-275-6344](tel:+1-626-275-6344) (criminal complaints, car dealer complaints, identity theft victims), multiple regional offices with dedicated numbers
-      - How to access: File complaints online at [dmvinvestigations.my.site.com/INVCMS](https://dmvinvestigations.my.site.com/INVCMS) or call investigation office numbers for specific issues
-      - Services: Investigation of automotive fraud, unlicensed dealer activity, identity theft related to vehicles, consumer protection from fraudulent vehicle transactions [Source: https://www.dmv.ca.gov/]
-   1. [**California Department of Consumer Affairs**](https://www.dca.ca.gov/)
-      - What’s Available: Licenses/certifies professionals in 255+ professions; handles consumer complaints against licensed professionals; consumer education and protection
-      - Contact: [800-952-5210](tel:+1-800-952-5210) (consumer information center), [dca@dca.ca.gov](mailto:dca@dca.ca.gov), 1625 North Market Blvd. #N-112, Sacramento, CA 95834
-      - TTY/Hearing impaired: 711 or [800-735-2929](tel:+1-800-735-2929)
-      - How to access: File complaints online at dca.ca.gov, call hotline for complaint forms, license lookup available online
-      - Services: Professional licensing oversight, complaint resolution, consumer guides, fraud protection, license verification
-   1. **[Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/)**
-       - What’s Available: Submit complaints about financial services, banks, lenders, debt collectors, credit reporting agencies
-       - Contact: [855-411-2372](tel:+1-855-411-2372) (toll-free), 8am–8pm ET, Monday–Friday (180+ languages available)
-       - How to file: Online at consumerfinance.gov/complaint (fastest), by phone, or email
-       - Process: Submit complaint → forwarded to company → company responds in 15 days → follow up online or by phone
-       - Address: 1700 G St. NW, Washington, DC 20552
-1. **Victims of crime, abuse**
-   1. **[Lumina Alliance](https://luminaalliance.org/)**
-      - What’s Available: Comprehensive support for survivors of sexual assault and intimate partner violence; 24-hour crisis line; emergency shelters; advocacy and legal accompaniment; trauma-informed therapy; transitional housing; prevention education programs
-      - Locations/Phone: See [**Lumina Alliance**](Directory.md#Lumina-Alliance) in the [Directory](Directory.md)
-      - Languages: Services available in English and Spanish, with interpreters for other languages
-      - Inclusivity: Accepts and celebrates all genders, ethnicities, cultures, religions, ages, abilities, sexual orientations, and countries of origin
-   1. **[Adult Protective Services](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-\(aps\))**
-       - What’s Available: Emergency intervention for dependent adults and seniors; abuse investigation; community resource connections
-       - Location/Phone: See [**Adult Protective Services**](Directory.md#Adult-Protective-Services) in the [Directory](Directory.md)
-       - Eligibility: Elders 60+ years old; Dependent Adults ages 18–59 with physical/mental disabilities
-       - Reporting: Anyone can make confidential report; complete SOC 341 form by phone, [online (mandated reporters only)](https://slo.leapsportal.net/LeapsIntake/NewPublicIntakeReport.aspx), or fax to [805-788-2834](tel:+1-805-788-2834). *Emergency reports must be made by phone only.* [Source: [reporttoaps.org](https://www.reporttoaps.org/)]
-       - Services: Voluntary services to help vulnerable adults "live their lives free from the threat or reality of abuse"
-   1. **Victim Witness Assistance Program**
-       - Location/Phone: See [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) in the [Directory](Directory.md)
-       - What's Available: Reduce trauma and frustration for crime victims, witnesses, and family members; inform victims of legal rights; crisis and support services; witness assistance with court appearances; link to local and state services
-       - County-wide Services: Services available to all SLO County residents regardless of location; includes victim notification services, assistance with victim impact statements, restitution assistance, court accompaniment, and referrals to community resources. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center)
-   1. **California Victim Compensation Board (CalVCB)**
-       - What's Available: Financial assistance to victims of violent crime for crime-related expenses including medical/dental treatment, mental health counseling, income loss, funeral/burial expenses, home/vehicle modifications for crime-related disability, relocation expenses
-       - Eligibility: California residents who are victims of violent crime; also covers non-residents victimized in California and California residents victimized in states without victim compensation programs
-       - How to apply: Online at [victims.ca.gov](https://victims.ca.gov/), by phone at [800-777-9229](tel:+1-800-777-9229), or through victim assistance centers
-       - Time limits: Generally must apply within 3 years of crime date (some exceptions apply)
-       - Coverage: Available to all SLO County residents county-wide
-       - Source: [victims.ca.gov](https://victims.ca.gov/)
-1. **CASA (Court Appointed Special Advocates)**
-    - Location: See [**CASA**](Directory.md#CASA) in the [Directory](Directory.md)
+### Help for defendants, convicts, parolees, probationers, people with PC 290 convictions
+
+1. [**Restorative Partners**](Directory.md#Restorative-Partners)
+   - What’s Available: Reentry resources, in-custody programs, system navigation, housing assistance, treatment, workforce development, clean and sober living homes for men and women
+   - Target population: Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
+   - How to initiate services: Call main number or email; attend Community Workshop for volunteers
+   - Special programs: The Bridge Cafe—social enterprise offering job training and certification for justice-involved individuals through Cuesta College partnership; housing program
+   - Philosophy: Restorative justice focusing on healing harm, involving wrongdoers, victims, and community
+1. [**SLO Public Defenders**](Directory.md#SLO-Public-Defenders)
+   - What’s Available: Free legal representation for individuals charged with crimes who cannot afford private attorneys
+   - Eligibility: Must be unable to afford a private attorney; applies to state court cases, juveniles, and conservatorship cases
+   - Access: Appear at first court hearing and ask judge to appoint attorney; meetings by appointment only
+   - Cost: Users may be responsible for portion of costs based on ability to pay
+1. Clean Slate Clinic
+   - Joint project of People’s Justice Project, California Rural Legal Assistance, and SLO College of Law
+   - Helps people purge old criminal records to make it easier for them to get employment and housing
+   - Call [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805-242-6691) to schedule an appointment
+
+### Legal help regarding housing (discrimination, landlord disputes, etc.)
+
+1. [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department): [Housing Discrimination](https://calcivilrights.ca.gov/housing/)
+    - What’s Available: Protection from unlawful discrimination in housing, employment, businesses, state-funded programs; hate violence reporting
+    - How to file complaints: Online through CCRS (California Civil Rights System), check complaint status online
+    - Additional services: Mediation services
+1. [Tenants Together](https://tenantstogether.org/)
+   - What's Available: Statewide organization defending and advancing tenants' rights to safe, decent, affordable housing; resources include Tenant Defense Toolkit, sample letters, local resource directory, tenants' rights hotline, rent control information, guidance on forming tenant unions
+   - Services: #CancelRent campaign support, rent control advocacy, California Tenant Bill of Rights information, Tenant Lawyer Network
+   - Email: [info@tenantstogether.org](mailto:info@tenantstogether.org)
+1. *California Tenants' Guide* ([English](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) [Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf))
+
+### Help with benefits, wrangling with health insurers, et cetera
+
+1. [**HiCAP (Health Insurance Counseling & Advocacy Program)**](Directory.md#HiCAP)
+    - What’s Available: Free Medicare counseling, explanation of benefits and plan options, cost-saving assistance, appeals help
+    - Eligibility: People 65+ eligible for Medicare, under 65 with disability eligible for Medicare, those soon to be eligible
+    - Services: Medicare fraud referrals, long-term care assistance, community education including "Roadmap to Medicare" classes
+    - Coverage: Administered by Central Coast Commission for Senior Citizens for both SLO and Santa Barbara counties
+
+### Realistic know-your-rights information
+
+1. [**ACLU of Southern California**](Directory.md#ACLU)
+    - What’s Available: Free legal assistance for civil liberties and civil rights cases; "Know Your Rights" guides
+    - Coverage: Serves SLO County and other Southern California counties
+    - Note: Limited resources focused on systemic change cases; does not accept walk-ins; seek help online first
+1. [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success)
+    - Services: Legal support (DACA/asylum/citizenship), mental health counseling, financial aid guidance
+    - Coverage: Northern Santa Barbara and San Luis Obispo Counties
+    - Contact: Cal Poly DREAM Center, Cuesta Monarch DREAM Center ([805-546-3109](tel:+1-805-546-3109)), Allan Hancock ([805-922-6966&#xA0;x3177](tel:+1-805-922-6966;ext=3177))
+    - Cross-reference: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
+
+### Injury liability / workers' compensation
+
+- Note: Local injury liability and workers' compensation attorneys not extensively researched in this guide as of August 2025. For current resources, contact SLO County Bar Association referral service or search for contingency fee attorneys who handle cases without upfront costs.
+
+### Consumer protection
+
+1. [Identity theft hotline](https://www.usa.gov/identity-theft)
+   - What’s Available: Federal Trade Commission (FTC) identity theft reporting and recovery assistance; step-by-step recovery guidance; help contacting credit reporting agencies; fraud alert and credit freeze resources
+   - Contact: [877-438-4338](tel:+1-877-438-4338) (hotline), [IdentityTheft.gov](https://www.identitytheft.gov/) (online portal)
+   - How to access: Call hotline or visit [IdentityTheft.gov](https://www.identitytheft.gov/) online for step-by-step recovery guidance
+   - Services: Report identity theft, receive personalized recovery plan, get guidance on credit freezes and fraud alerts
+1. [Bureau of Automotive Repairs](https://bar.ca.gov/)
+   - What’s Available: Mediates and investigates complaints between auto shops and consumers; licenses auto repair facilities; consumer education
+   - Contact: [800-952-5210](tel:+1-800-952-5210) (general complaint line, 24/7 for automated services), [BARenforcement@dca.ca.gov](mailto:BARenforcement@dca.ca.gov) (enforcement), 10949 North Mather Boulevard, Rancho Cordova, CA 95670
+   - Hours: Monday–Friday 8am–5pm (complaint line staffed 8am–4:50pm)
+   - How to access: File complaints online at bar.ca.gov, call complaint line, or submit written complaint; search for licensed auto shops online
+   - Services: Automotive repair complaint mediation, shop licensing verification, consumer protection against unlicensed operators
+1. DMV investigation bureau
+   - What’s Available: Investigates consumer protection issues involving vehicle purchases, identity theft, unlicensed dealers ("curbstoners"), odometer fraud, disabled parking placard abuse, document fraud
+   - Contact: [626-275-6344](tel:+1-626-275-6344) (criminal complaints, car dealer complaints, identity theft victims), multiple regional offices with dedicated numbers
+   - How to access: File complaints online at [dmvinvestigations.my.site.com/INVCMS](https://dmvinvestigations.my.site.com/INVCMS) or call investigation office numbers for specific issues
+   - Services: Investigation of automotive fraud, unlicensed dealer activity, identity theft related to vehicles, consumer protection from fraudulent vehicle transactions [Source: https://www.dmv.ca.gov/]
+1. [California Department of Consumer Affairs](https://www.dca.ca.gov/)
+   - What’s Available: Licenses/certifies professionals in 255+ professions; handles consumer complaints against licensed professionals; consumer education and protection
+   - Contact: [800-952-5210](tel:+1-800-952-5210) (consumer information center), [dca@dca.ca.gov](mailto:dca@dca.ca.gov), 1625 North Market Blvd. #N-112, Sacramento, CA 95834
+   - TTY/Hearing impaired: 711 or [800-735-2929](tel:+1-800-735-2929)
+   - How to access: File complaints online at dca.ca.gov, call hotline for complaint forms, license lookup available online
+   - Services: Professional licensing oversight, complaint resolution, consumer guides, fraud protection, license verification
+1. [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/)
+    - What’s Available: Submit complaints about financial services, banks, lenders, debt collectors, credit reporting agencies
+    - Contact: [855-411-2372](tel:+1-855-411-2372) (toll-free), 8am–8pm ET, Monday–Friday (180+ languages available)
+    - How to file: Online at consumerfinance.gov/complaint (fastest), by phone, or email
+    - Process: Submit complaint → forwarded to company → company responds in 15 days → follow up online or by phone
+    - Address: 1700 G St. NW, Washington, DC 20552
+
+### Victims of crime, abuse
+
+1. [**Lumina Alliance**](Directory.md#Lumina-Alliance)
+   - What’s Available: Comprehensive support for survivors of sexual assault and intimate partner violence; 24-hour crisis line; emergency shelters; advocacy and legal accompaniment; trauma-informed therapy; transitional housing; prevention education programs
+   - Languages: Services available in English and Spanish, with interpreters for other languages
+   - Inclusivity: Accepts and celebrates all genders, ethnicities, cultures, religions, ages, abilities, sexual orientations, and countries of origin
+1. [**Adult Protective Services**](Directory.md#Adult-Protective-Services)
+    - What’s Available: Emergency intervention for dependent adults and seniors; abuse investigation; community resource connections
+    - Eligibility: Elders 60+ years old; Dependent Adults ages 18–59 with physical/mental disabilities
+    - Reporting: Anyone can make confidential report; complete SOC 341 form by phone, [online (mandated reporters only)](https://slo.leapsportal.net/LeapsIntake/NewPublicIntakeReport.aspx), or fax to [805-788-2834](tel:+1-805-788-2834). *Emergency reports must be made by phone only.* <!-- Source: [reporttoaps.org](https://www.reporttoaps.org/) -->
+    - Services: Voluntary services to help vulnerable adults "live their lives free from the threat or reality of abuse"
+1. [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program)
+    - What's Available: Reduce trauma and frustration for crime victims, witnesses, and family members; inform victims of legal rights; crisis and support services; witness assistance with court appearances; link to local and state services
+    - County-wide Services: Services available to all SLO County residents regardless of location; includes victim notification services, assistance with victim impact statements, restitution assistance, court accompaniment, and referrals to community resources. <!-- Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center) -->
+1. California Victim Compensation Board (CalVCB)
+    - What's Available: Financial assistance to victims of violent crime for crime-related expenses including medical/dental treatment, mental health counseling, income loss, funeral/burial expenses, home/vehicle modifications for crime-related disability, relocation expenses
+    - Eligibility: California residents who are victims of violent crime; also covers non-residents victimized in California and California residents victimized in states without victim compensation programs
+    - How to apply: Online at [victims.ca.gov](https://victims.ca.gov/), by phone at [800-777-9229](tel:+1-800-777-9229), or through victim assistance centers
+    - Time limits: Generally must apply within 3 years of crime date (some exceptions apply)
+    - Coverage: Available to all SLO County residents county-wide
+    - Source: [victims.ca.gov](https://victims.ca.gov/)
+1. [**CASA (Court Appointed Special Advocates)**](Directory.md#CASA)
     - What's Available: Volunteer advocates for abused and neglected children in court system
     - Services: Educational advocacy, Infant-Toddler Program, CASA Mentors for youth aging out of foster care
     - Volunteer opportunities: Information sessions 4th Wednesday monthly at noon; training provided
     - Impact: Children with CASA spend less time in foster care, more likely to graduate, less likely involved in criminal justice
     - Self-Help Court Center: For court-related self-help, contact Superior Court Self-Help Center at [805-706-3617](tel:+1-805-706-3617) (Mon–Fri 8:30am–4:30pm) or visit calendly.com/self-help-center/
     - Note: CASA advocates are court-appointed for specific cases involving abused/neglected children; families cannot directly request CASA services but can access general court self-help resources
-    - Website: [slocasa.org](https://slocasa.org/)
-1. **Creative Mediation**
-     - Location/Phone: See [**Creative Mediation**](Directory.md#Creative-Mediation) in the [Directory](Directory.md)
-     - What's Available: Non-profit dispute resolution service offering low-cost mediation for non-criminal cases; free services for SLO County residents
-     - Services: Family disputes, business/commercial conflicts, landlord/tenant issues, neighbor conflicts
-     - Process: Voluntary mediation requiring both parties' agreement; cases typically scheduled within two weeks; trained neutral mediators facilitate constructive dialog
-     - Philosophy: Does not take sides or decide who is right; helps people work out their own solutions
-     - **SLO Solutions Program** (pending human review): Free mediation services county-wide for SLO County residents; available throughout North County, South County, and rural areas; same services as main Creative Mediation office. Source: [slobar.org](https://slobar.org/legal-resources/listing/creative-mediation/)
-     - Website: [slobar.org/legal-resources/listing/creative-mediation](https://slobar.org/legal-resources/listing/creative-mediation/)
-1. **SLO County Law Library**
-     - Location/Phone/Hours: See [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) in the [Directory](Directory.md)
-     - What's Available: Legal research resources, self-help materials, internet access for legal research
-     - Website: [slocll.org](https://www.slocll.org/)
-     - Collection: 14,000+ hardbound volumes, legal periodicals, handbooks, Nolo Press publications
-     - Technology: Free Westlaw Online (1 hour daily), internet access (1 hour daily), electronic Shepardizing (legal research tool to verify if a case is still valid law by checking if it has been overruled, reversed, or superseded)
-     - Additional services: Fax service, inter-library loans ($10 fee), reference assistance
-1. **SLO County Bar Association Legal Services**
-     - Location/Phone/Hours: See [**SLO County Bar Association Legal Services**](Directory.md#SLO-County-Bar-Association) in the [Directory](Directory.md)
-     - [**Attorney Referral Service:**](https://slobar.org/Information-and-referral-service/)
-       - What's Available: Attorney referrals matched to specific legal needs, initial 30-minute consultation included
-       - Cost: $50 administrative fee (waived for personal injury, worker's compensation, and criminal law cases)
-       - Process: Confidential phone interview → assessment → attorney referral
-       - Quality assurance: All attorneys in good standing, carry malpractice insurance, meet experience requirements
-       - Access: Phone interview or online request form at slobarlris.org
-       - Phone: [805-541-5502](tel:+1-805-541-5502), M–Th 9am–1pm
-       - Email: [LRIS@slobar.org](mailto:LRIS@slobar.org)
-     - **SLO Law Line: [805-548-8884](tel:+1-805-548-8884):**
-       - What's Available: Free legal advice and counsel for those who cannot afford an attorney
-       - Contact: [805-548-8884](tel:+1-805-548-8884); telephone consultations by appointment only
-       - Hours: Five days a week 8:30am–4pm; scheduling Monday–Thursday 9am–3pm; consultation hours Tuesday 4:30pm–6:30pm
-       - Staffing: SLO College of Law interns under attorney supervision; SLO County Pro Bono Program volunteers
-       - Services: Legal information, referrals to legal assistance programs in SLO County
-     - Website: [slobarlris.org](https://slobarlris.org/)
-1. **SLO County Small Claims Advisor**
-     - Location/Phone/Hours: See [**SLO County Small Claims Advisor**](Directory.md#SLO-County-Small-Claims-Advisor) in the [Directory](Directory.md)
-     - What's Available: Free information and assistance for small claims court cases (plaintiff or defendant)
-     - County-wide Availability: Available to all SLO County residents regardless of location; services provided at County Government Center in SLO. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/)
-     - Note: Some sources say hours are Monday–Wednesday only rather than Monday–Friday
+
+### Uncategorized
+
+1. [**Creative Mediation**](Directory.md#Creative-Mediation)
+   - What's Available: Non-profit dispute resolution service offering low-cost mediation for non-criminal cases; free services for SLO County residents
+   - Services: Family disputes, business/commercial conflicts, landlord/tenant issues, neighbor conflicts
+   - Process: Voluntary mediation requiring both parties' agreement; cases typically scheduled within two weeks; trained neutral mediators facilitate constructive dialog
+   - Philosophy: Does not take sides or decide who is right; helps people work out their own solutions
+1. SLO Solutions Program (pending review): Free mediation services county-wide for SLO County residents; available throughout North County, South County, and rural areas; same services as main Creative Mediation office. Source: [slobar.org](https://slobar.org/legal-resources/listing/creative-mediation/)
+   - Website: [slobar.org/legal-resources/listing/creative-mediation](https://slobar.org/legal-resources/listing/creative-mediation/)
+1. [**SLO County Law Library**](Directory.md#SLO-County-Law-Library)
+   - What's Available: Legal research resources, self-help materials, internet access for legal research
+   - Collection: 14,000+ hardbound volumes, legal periodicals, handbooks, Nolo Press publications
+   - Technology: Free Westlaw Online (1 hour daily), internet access (1 hour daily), electronic Shepardizing (legal research tool to verify if a case is still valid law by checking if it has been overruled, reversed, or superseded)
+   - Additional services: Fax service, inter-library loans ($10 fee), reference assistance
+1. [**SLO County Bar Association Legal Services**](Directory.md#SLO-County-Bar-Association)
+   - [Attorney Referral Service](https://slobar.org/Information-and-referral-service/):
+      - What's Available: Attorney referrals matched to specific legal needs, initial 30-minute consultation included
+      - Cost: $50 administrative fee (waived for personal injury, worker's compensation, and criminal law cases)
+      - Process: Confidential phone interview → assessment → attorney referral
+      - Quality assurance: All attorneys in good standing, carry malpractice insurance, meet experience requirements
+      - Access: Phone interview or online request form at slobarlris.org
+      - Phone: [805-541-5502](tel:+1-805-541-5502), M–Th 9am–1pm
+      - Email: [LRIS@slobar.org](mailto:LRIS@slobar.org)
+   - SLO Law Line: [805-548-8884](tel:+1-805-548-8884):
+      - What's Available: Free legal advice and counsel for those who cannot afford an attorney
+      - Contact: [805-548-8884](tel:+1-805-548-8884); telephone consultations by appointment only
+      - Hours: Five days a week 8:30am–4pm; scheduling Monday–Thursday 9am–3pm; consultation hours Tuesday 4:30pm–6:30pm
+      - Staffing: SLO College of Law interns under attorney supervision; SLO County Pro Bono Program volunteers
+      - Services: Legal information, referrals to legal assistance programs in SLO County
+1. [**SLO County Small Claims Advisor**](Directory.md#SLO-County-Small-Claims-Advisor)
+   - What's Available: Free information and assistance for small claims court cases (plaintiff or defendant)
+   - County-wide Availability: Available to all SLO County residents regardless of location; services provided at County Government Center in SLO.
+   - Note: Provided by District Attorney’s Economic Crime Unit; advisor is not an attorney
 1. Help with advance care directives, wills
    - See medical section above, but also add stuff about wills in particular
-1. **Long Term Care Ombudsman**
-     - Location/Phone/Email/Hours: See [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) in the [Directory](Directory.md)
-     - What's Available: Advocacy for nursing home/care facility residents, complaint investigation, facility monitoring
-     - Services: Help with finding residential care, complaints about facilities, advanced directive witnessing
-     - Coverage: All cities in SLO County
-1. **Child Support Services** (SLO County program)
-     - Location/Phone/Hours: See [**Child Support Services**](Directory.md#Child-Support-Services) in the [Directory](Directory.md)
-     - What's Available: Locate parents, establish parentage, obtain support/health insurance orders, enforce orders, collect payments
-     - Access: Online application available in English and Spanish, online payment and modification options
-     - Website: [slocounty.ca.gov/departments/child-support-services](https://www.slocounty.ca.gov/departments/child-support-services)
-1. **[ADA](https://www.ada.gov/) (Americans with Disabilities Act)**
-     - What’s Available: Information about disability rights, complaint filing for discrimination, legal resources
-     - Contact: ADA Information Line [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264))
-     - Hours: M, Tu, W, F: 9:30am–12pm & 3pm–5:30pm ET; Th: 2:30pm–5:30pm ET
-     - How to file complaints: Online at ADA.gov, paper form, or letter to Department of Justice Civil Rights Division
-     - Address: U.S. Department of Justice Civil Rights Division, 950 Pennsylvania Avenue, NW, Washington, DC 20530
-     - Services: Complaint review, mediation program, enforcement activities
-1. **[SLO Legal Assistance Foundation](https://www.slolaf.org/) (SLOLAF)**
-    - What's Available: Free legal assistance for civil and family law matters; housing (landlord/tenant, evictions, fair housing discrimination, habitability, accessibility, foreclosure prevention)
-    - Eligibility: Low-income residents of SLO County, including seniors (60+), veterans, people with disabilities; no immigration status/documentation required
-    - Location/Phone: See [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) in the [Directory](Directory.md)
-1. **[California Rural Legal Assistance](https://www.crla.org/) (CRLA)**
-    - What's Available: Civil law cases including housing, labor and employment, education, and civil rights
-    - Specializes in: Individuals with disabilities, immigrant populations, school children, LGBTQ+ individuals, seniors, and people with limited English proficiency
-    - Location/Phone/Hours: See [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) in the [Directory](Directory.md)
-    - Special programs:
-       - Tenant's Rights Workshop—2nd & 4th Tuesday of each month, 9am–12pm (SLO office)
-       - Drop-in Legal Clinics at Paso Robles City Library: Bi-monthly legal clinics, 2nd & 4th Thursday of each month; location: 1000 Spring St., Paso Robles; provides free civil legal advice for low-income North County residents. Source: [crla.org](https://www.crla.org/)
-    - Source: [crla.org/locations/san-luis-obispo](https://crla.org/locations/san-luis-obispo)
-1. **Immigration Law Services**
-    1. **Catholic Charities of the Diocese of Monterey** (Legal Aid Services)
-       - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
-       - Services: Immigration and housing legal assistance
-       - Cost: Sliding scale based on income
-       - Eligibility: Available to all regardless of faith background; focus on low-income individuals
-       - Source: [slocll.org/self-help-2/legal-help](https://www.slocll.org/self-help-2/legal-help/)
-       - We
-    1. **[People’s Justice Project](https://peoplesjusticeproject.org/)**
-       - Services: Immigration legal services, citizenship eligibility screening, U.S. citizenship applications, criminal defense, civil legal services
-       - Location/Phone: See [**People’s Justice Project**](Directory.md#Peoples-Justice-Project) in the [Directory](Directory.md)
-       - Eligibility: Santa Barbara and San Luis Obispo County residents; free consultation available
-       - Note: 501(c)(3) nonprofit providing lower-cost legal representation
-    1. **Unitarian Universalist Refugee and Immigrant Services Education (UURISE)**
-      - Services: general immigration legal consultation, DACA renewal, naturalization (citizenship), green card renewal or replacement, FOIA, emergency safety planning, referrals to local partner agencies
-      - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
-      - Hours: 1st & 3rd Sunday each month, 12:30–2:30pm; Appointments required (call [805-439-0188](tel:+1-805-439-0188) x4)
-      - Website: [uuslo.org/Immigration-Legal-Services](https://uuslo.org/Immigration-Legal-Services)
-    1. **California Farmworker Foundation**
-      - Services: Education (Nueva Generación Scholarship program), health & wellness, civil assistance including immigration support
-      - Note: Primarily serves farmworkers in Fresno, Kern, Kings, Madera, and Tulare Counties; contact them to confirm services available to SLO County residents
-      - Website: [californiafarmworkers.org](https://californiafarmworkers.org/)
-      - Email: [info@californiafarmworkers.org](mailto:info@californiafarmworkers.org)
-      - Source: [californiafarmworkers.org](https://californiafarmworkers.org/)
-    1. **Immigrant Hope Arroyo Grande**
-      - Services: Immigration legal advice
-      - Note: Unable to verify specific services from their website (as of October 2025); contact them directly for details about programs and eligibility
-      - Website: [immigranthopeag.org](https://immigranthopeag.org/)
-      - Location: 995 E. Grand Ave., Arroyo Grande
-      - Phone: [805-221-4319](tel:+1-805-221-4319)
-    1. **IMPORTA**
-      - Note: Unable to verify specific services from their website (as of October 2025); contact them directly for details about programs and eligibility
-      - Website: [www.importasb.org](https://www.importasb.org/)
-      - Location: 327 E. Plaza Dr., Santa Maria
-      - Phone: [805-619-0644](tel:+1-805-619-0644)
-      - Hours: M–Th 10am–noon & 1–5pm
-    1. **SLO College of Law Immigration Clinic**
-      - Services: DACA renewal, U-Visa, T-Visa, VAWA-Visa, citizenship, naturalization, green card application
-      - Website: [montereylaw.edu/clinics/immigrationclinic.html](https://montereylaw.edu/clinics/immigrationclinic.html)
-      - Email: [mclworkshops@montereylaw.edu](mailto:mclworkshops@montereylaw.edu)
-      - Phone: [831-582-3600](tel:+1-831-582-3600)
-      - Hours: Mondays 4–6pm by telephone or Zoom
-      - Cost: $15
-      - How to access: Reserve a spot [here](https://montereylaw.edu/clinics/immigrationclinic.html) or by calling [831-582-3600](tel:+1-831-582-3600)
-      - Source: [montereylaw.edu/clinics/immigrationclinic.html](https://montereylaw.edu/clinics/immigrationclinic.html)
-1. **Clean Slate Clinic**
-   - Joint project of People’s Justice Project, California Rural Legal Assistance, and SLO College of Law
-   - Helps people purge old criminal records to make it easier for them to get employment and housing
-   - Call [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805-242-6691) to schedule an appointment
-1. **Senior Legal Services**
-   1. **Senior Legal Services Project**
-      - Eligibility: Seniors aged 60 and older in SLO County
-      - Services: Housing needs (landlord-tenant, evictions, nursing homes, board and care), protection from elder abuse
-      - Focus: Those most in need receive priority assistance
-      - Location/Phone: See [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) in the [Directory](Directory.md)
-      - Source: [lawhelpca.org](https://www.lawhelpca.org/organization/senior-legal-services-project)
-1. [**5Cities Homeless Coalition Legal Services**](https://5chc.org/community-services/legal-services)
+1. [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman)
+   - What's Available: Advocacy for nursing home/care facility residents, complaint investigation, facility monitoring
+   - Services: Help with finding residential care, complaints about facilities, advanced directive witnessing
+   - Coverage: All cities in SLO County
+1. [**Child Support Services**](Directory.md#Child-Support-Services)
+   - What's Available: Locate parents, establish parentage, obtain support/health insurance orders, enforce orders, collect payments
+   - Access: Online application available in English and Spanish, online payment and modification options
+1. [ADA](https://www.ada.gov/) (Americans with Disabilities Act)
+   - What’s Available: Information about disability rights, complaint filing for discrimination, legal resources
+   - Contact: ADA Information Line [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264))
+   - Hours: M, Tu, W, F: 9:30am–12pm & 3pm–5:30pm ET; Th: 2:30pm–5:30pm ET
+   - How to file complaints: Online at ADA.gov, paper form, or letter to Department of Justice Civil Rights Division
+   - Address: U.S. Department of Justice Civil Rights Division, 950 Pennsylvania Avenue, NW, Washington, DC 20530
+   - Services: Complaint review, mediation program, enforcement activities
+1. [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation)
+   - What's Available: Free legal assistance for civil and family law matters; housing (landlord/tenant, evictions, fair housing discrimination, habitability, accessibility, foreclosure prevention)
+   - Eligibility: Low-income residents of SLO County, including seniors (60+), veterans, people with disabilities; no immigration status/documentation required
+1. [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance)
+   - What's Available: Civil law cases including housing, labor and employment, education, and civil rights
+   - Specializes in: Individuals with disabilities, immigrant populations, school children, LGBTQ+ individuals, seniors, and people with limited English proficiency
+   - Special programs:
+      - Tenant's Rights Workshop—2nd & 4th Tuesday of each month, 9am–12pm (SLO office)
+      - Drop-in Legal Clinics at Paso Robles City Library: Bi-monthly legal clinics, 2nd & 4th Thursday of each month; location: 1000 Spring St., Paso Robles; provides free civil legal advice for low-income North County residents. Source: [crla.org](https://www.crla.org/)
+   - Source: [crla.org/locations/san-luis-obispo](https://crla.org/locations/san-luis-obispo)
+1. [5Cities Homeless Coalition Legal Services](https://5chc.org/community-services/legal-services)
    - What’s Available: Free legal services regardless of citizenship status
    - Website/Location/Email: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
    - Access: Call or email for appointment: [805-543-5140](tel:+1-805-543-5140)
-1. **SLO Court Self-Help Services** / **Family Law Facilitator** / **Self-Help Center**
-   - Location/Phone/Hours: See [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) in the [Directory](Directory.md)
+1. [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) / Family Law Facilitator / Self-Help Center
    - What's Available: Free resources to help find legal information and learn self-representation; free assistance to self-represented parties on family law matters including divorce, child custody and support, domestic violence restraining orders, establishing parent-child relationships, spousal support
    - Additional contact: [805-788-3418](tel:+1-805-788-3418); online scheduling at calendly.com/self-help-center/
    - Services: Form preparation help, general information, free weekly online Q&A webinars about family law cases
    - County-wide Court Access: SLO Superior Court operates branches in multiple locations including Paso Robles (901 Park St.) and Grover Beach (214 S. 16th St.) in addition to SLO locations. See [**SLO Superior Court**](Directory.md#SLO-Superior-Court) for all branch locations. Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)
    - Important: Cannot provide legal representation or personalized legal advice; serves both parties in a case; communications are not confidential
    - Website: [slo.courts.ca.gov/self-help](https://www.slo.courts.ca.gov/self-help) and [slo.courts.ca.gov/self-help/family-law](https://www.slo.courts.ca.gov/self-help/family-law)
-1. [**StateSideLegal**](https://www.statesidelegal.org/) (for veterans)
+1. [StateSideLegal](https://www.statesidelegal.org/) (for veterans)
    - What’s Available: Free legal resources for veterans, service members, and their families across multiple legal areas
    - Civil Rights & Immigration: Civil rights protection, immigration assistance, citizenship guidance, voting rights information
    - Health & Safety: Health insurance guidance, medical care/leave information, filing claims for Military Sexual Trauma (MST), PTSD, Traumatic Brain Injury (TBI)
@@ -2032,20 +1973,72 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Target: Military-connected individuals nationwide seeking legal guidance
    - Access: Visit [statesidelegal.org](https://www.statesidelegal.org/) to use Navigator tool, find legal help, ask questions, or access self-help tools
    - Online resources: Free legal guidance available through website's interactive tools and legal help map
-1. [**Central California Legal Services**](https://centralcallegal.org/)
+1. [Central California Legal Services](https://centralcallegal.org/)
    - "Central California Legal Services is a private, not-for-profit, public interest law firm established for the purpose of providing free civil legal assistance to low-income individuals, families, organizations and communities."
    - [559-570-1200](tel:+1-559-570-1200) / [800-675-8001](tel:+1-800-675-8001) for legal advice & referral (M–F 9am–12pm & 1–2:30pm)
    - Has some physical offices, but none in SLO County
    - Eligibility: "central valley residents and seniors age 60 and over"; income below 125% (for some services 200%) of the federal poverty level (no income eligibility requirements for central valley seniors or for those seeking assistance for certain health-related matters); helps with civil cases, not criminal ones
    - Note: Central California Legal Services primarily serves Fresno, Tulare, Kings, Merced, Tuolumne, and Mariposa Counties. *Limited* services are available in SLO County through their Health Consumer Alliance partnership, specifically for healthcare access concerns only, not general civil legal services. SLO County residents should contact other legal aid organizations listed in this guide for most civil legal needs.
       - Source: [centralcallegal.org](https://centralcallegal.org/about-us/)
-1. [**Low Income Taxpayer Clinic**](https://orfalea.calpoly.edu/low-income-taxpayer-clinic)
+1. [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic)
    - Cal Poly students represent low-income clients, for free, in tax controversies before the IRS and U.S. Tax Court
    - Services available in English and Spanish
    - Location: Cal Poly SLO, building 3, room 107
    - Hours: M–Th 9am–5pm, F 9am–1pm
    - Phone: [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725))
    - Email: [litc@calpoly.edu](mailto:litc@calpoly.edu)
+
+### Immigration Law Services
+
+1. [**Catholic Charities**](Directory.md#CatholicCharities) (Legal Aid Services)
+   - Services: Immigration and housing legal assistance
+   - Cost: Sliding scale based on income
+   - Eligibility: Available to all regardless of faith background; focus on low-income individuals
+   - Source: [slocll.org/self-help-2/legal-help](https://www.slocll.org/self-help-2/legal-help/)
+1. [**People’s Justice Project**](Directory.md#Peoples-Justice-Project)
+   - Services: Immigration legal services, citizenship eligibility screening, U.S. citizenship applications, criminal defense, civil legal services
+   - Eligibility: Santa Barbara and San Luis Obispo County residents; free consultation available
+   - Note: 501(c)(3) nonprofit providing lower-cost legal representation
+1. Unitarian Universalist Refugee and Immigrant Services Education (UURISE)
+   - Services: general immigration legal consultation, DACA renewal, naturalization (citizenship), green card renewal or replacement, FOIA, emergency safety planning, referrals to local partner agencies
+   - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
+   - Hours: 1st & 3rd Sunday each month, 12:30–2:30pm; Appointments required (call [805-439-0188](tel:+1-805-439-0188) x4)
+   - Website: [uuslo.org/Immigration-Legal-Services](https://uuslo.org/Immigration-Legal-Services)
+1. California Farmworker Foundation
+   - Services: Education (Nueva Generación Scholarship program), health & wellness, civil assistance including immigration support
+   - Note: Primarily serves farmworkers in Fresno, Kern, Kings, Madera, and Tulare Counties; contact them to confirm services available to SLO County residents
+   - Website: [californiafarmworkers.org](https://californiafarmworkers.org/)
+   - Email: [info@californiafarmworkers.org](mailto:info@californiafarmworkers.org)
+   - Source: [californiafarmworkers.org](https://californiafarmworkers.org/)
+1. Immigrant Hope Arroyo Grande
+   - Services: Immigration legal advice
+   - Note: Unable to verify specific services from their website (as of October 2025); contact them directly for details about programs and eligibility
+   - Website: [immigranthopeag.org](https://immigranthopeag.org/)
+   - Location: 995 E. Grand Ave., Arroyo Grande
+   - Phone: [805-221-4319](tel:+1-805-221-4319)
+1. IMPORTA
+   - Note: Unable to verify specific services from their website (as of October 2025); contact them directly for details about programs and eligibility
+   - Website: [www.importasb.org](https://www.importasb.org/)
+   - Location: 327 E. Plaza Dr., Santa Maria
+   - Phone: [805-619-0644](tel:+1-805-619-0644)
+   - Hours: M–Th 10am–noon & 1–5pm
+1. SLO College of Law Immigration Clinic
+   - Services: DACA renewal, U-Visa, T-Visa, VAWA-Visa, citizenship, naturalization, green card application
+   - Website: [montereylaw.edu/clinics/immigrationclinic.html](https://montereylaw.edu/clinics/immigrationclinic.html)
+   - Email: [mclworkshops@montereylaw.edu](mailto:mclworkshops@montereylaw.edu)
+   - Phone: [831-582-3600](tel:+1-831-582-3600)
+   - Hours: Mondays 4–6pm by telephone or Zoom
+   - Cost: $15
+   - How to access: Reserve a spot [here](https://montereylaw.edu/clinics/immigrationclinic.html) or by calling [831-582-3600](tel:+1-831-582-3600)
+   - Source: [montereylaw.edu/clinics/immigrationclinic.html](https://montereylaw.edu/clinics/immigrationclinic.html)
+
+### Senior Legal Services
+
+1. [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project)
+   - Eligibility: Seniors aged 60 and older in SLO County
+   - Services: Housing needs (landlord-tenant, evictions, nursing homes, board and care), protection from elder abuse
+   - Focus: Those most in need receive priority assistance
+   - Source: [lawhelpca.org](https://www.lawhelpca.org/organization/senior-legal-services-project)
 
 ## <a id="ids-and-other-documents">IDs and Other Documents</a> (How to Obtain, Replace, Secure)
 
@@ -2139,33 +2132,32 @@ To-Do
 
 ### Tips
 
-1. **Document storage and security**:
-   - Keep copies separate from originals when possible
-   - Use document storage services at homeless service centers:
-      - **40 Prado Homeless Services Center**: Call [805-544-4004](tel:+1-805-544-4004) to inquire about document storage options for participants
-         - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-      - **5Cities Homeless Coalition**: Offers "identification and documentation assistance" as part of client resource center services
-         - Website/Location/Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-      - **ECHO Atascadero/Paso Robles**: Contact to ask about secure document storage for clients
-         - Phone/Email/Locations/Hours: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
-      - Note: Services may be limited to active participants; call each center to verify current availability [Source: [5chc.org](https://5chc.org/), [capslo.org](https://capslo.org/)]
-   - Consider a safety deposit box if you have any income ($20–40/year typically)
-   - Scan or photograph documents and store digitally if you have access to email or cloud storage
-1. **If you have no documents at all**:
-   - Start with Social Security Administration—they can try to verify identity through their records
-   - Contact local legal aid for assistance navigating the process
-   - California affidavit processes for people with no documents:
-      - What it is: Legal process where qualified service providers can verify your identity and housing status through signed affidavits when you lack traditional documents
-      - How it works as alternative to documents:
-         - Free CA ID cards: Service providers complete "No Fee Identification Card Eligibility Verification" form (DL 933) from DMV; provides free California photo ID
-         - Who can verify: School counselors, homeless shelter staff, lawyers, health/mental health/substance use providers, public assistance workers, employment services staff
-         - Benefits: Breaks the cycle where you need ID to get housing but need housing to get ID
-      - How to access: Contact local emergency shelter, County human services office, or homeless services provider to start the fee waiver process
-      - California Process: File forms FL-110, FL-100, FL-160s, FL-311, FL-105, FL-150 at SLO Superior Court (1035 Palm St. Rm 385 or Paso Robles 901 Park St.)
-      - Cost: $435 filing fee; fee waiver available for low-income individuals
-      - Assistance: Self-Help Center [805-706-3617](tel:+1-805-706-3617), online help at calendly.com/self-help-center/, free Q&A webinars via Zoom
-      - Requirements: 6-month CA residency, 3-month SLO County residency [Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)]
-   - Hospital records of birth may sometimes be used as supporting evidence
+#### Document storage and security
+
+- Keep copies separate from originals when possible
+- Use document storage services at homeless service centers:
+   - [**40 Prado Homeless Services Center**](Directory.md#40-Prado): Call [805-544-4004](tel:+1-805-544-4004) to inquire about document storage options for participants
+   - [**5Cities Homeless Coalition**](Directory.md#5CHC): Offers "identification and documentation assistance" as part of client resource center services
+   - Note: Services may be limited to active participants; call each center to verify current availability <!-- Source: [5chc.org](https://5chc.org/), [capslo.org](https://capslo.org/) -->
+- Consider a safety deposit box if you have any income ($20–40/year typically)
+- Scan or photograph documents and store digitally if you have access to email or cloud storage
+
+#### If you have no documents at all
+
+- Start with Social Security Administration—they can try to verify identity through their records
+- Contact local legal aid for assistance navigating the process
+- California affidavit processes for people with no documents:
+   - What it is: Legal process where qualified service providers can verify your identity and housing status through signed affidavits when you lack traditional documents
+   - How it works as alternative to documents:
+      - Free CA ID cards: Service providers complete "No Fee Identification Card Eligibility Verification" form (DL 933) from DMV; provides free California photo ID
+      - Who can verify: School counselors, homeless shelter staff, lawyers, health/mental health/substance use providers, public assistance workers, employment services staff
+      - Benefits: Breaks the cycle where you need ID to get housing but need housing to get ID
+   - How to access: Contact local emergency shelter, County human services office, or homeless services provider to start the fee waiver process
+   - California Process: File forms FL-110, FL-100, FL-160s, FL-311, FL-105, FL-150 at SLO Superior Court (1035 Palm St. Rm 385 or Paso Robles 901 Park St.)
+   - Cost: $435 filing fee; fee waiver available for low-income individuals
+   - Assistance: Self-Help Center [805-706-3617](tel:+1-805-706-3617), online help at calendly.com/self-help-center/, free Q&A webinars via Zoom
+   - Requirements: 6-month CA residency, 3-month SLO County residency <!-- Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov/) -->
+- Hospital records of birth may sometimes be used as supporting evidence
 
 ## <a id="mail-drops-post-office-boxes-etc">Mail Drops, Post Office Boxes, Etc.</a>
 
@@ -2243,9 +2235,10 @@ The post office may stop accepting general delivery mail for you if you try to u
 
 ## <a id="banking-and-money-management">Banking and Money Management</a>
 
+### Banks, Credit Unions, et Cetera
+
 - **Local Credit Unions** (Often more flexible for homeless individuals)
    1. [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union)
-      - Phone: See [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union) in the [Directory](Directory.md)
       - What's Available: Free checking accounts (HomeFREE Checking), affordable loans, business services, financial education; accepts ITINs
       - Membership: $5 deposit to Primary Share Savings account plus one-time $5 membership fee; no recurring membership fee
       - Benefits: Generally more accommodating for people with alternative address arrangements; 30,000+ surcharge-free ATMs nationwide; mobile banking app
@@ -2255,44 +2248,37 @@ The post office may stop accepting general delivery mail for you if you try to u
       - What's Available: Community-focused banking services
       - Requirements: Driver's license/ID, proof of eligibility (payroll stub/employee ID), $5 minimum deposit
       - Website: [slocu.com](https://slocu.com/)
-   1. **The Golden 1 Credit Union**
-      - Location/Phone/Hours: See [**Golden 1 Credit Union**](Directory.md#Golden-1-Credit-Union) in the [Directory](Directory.md)
+   1. [**Golden 1 Credit Union**](Directory.md#Golden-1-Credit-Union)
       - Services: Banking services, auto loans, mobile/online banking, ATM access
       - Established: 1933, serves California members through 65 branch locations statewide
       - Website: [golden1.com](https://www.golden1.com)
-   1. **CoastHills Credit Union**
-      - Location/Phone/Hours: See [**CoastHills Credit Union**](Directory.md#CoastHills-Credit-Union) in the [Directory](Directory.md)
+   1. [**CoastHills Credit Union**](Directory.md#CoastHills-Credit-Union)
       - Services: Full-service banking including checking accounts, savings, loans, credit cards, online/mobile banking, financial planning
       - Special features: Free online banking, low-rate loans, better deposit earnings, 24-hour call center service
       - Established: 1958, serving 72,000+ members with $1.6 billion in assets
       - Coverage: 11 Central Coast locations throughout Santa Barbara and SLO counties
       - Website: [coasthills.coop](https://coasthills.coop/)
 - **No Minimum Balance Banking Options**
-   1. [**Wells Fargo Clear Access Banking**](https://www.wellsfargo.com/checking/clear-access-banking/)
-      - What’s Available: Meets Bank On National Account Standards for safe and affordable banking; no overdraft fees, no minimum balance requirements
-      - Opening deposit: Typically $15–100 required
-      - Benefits: Designed for low-income customers and those without traditional banking history
-   1. **Major Bank Special Programs**
-      - **Wells Fargo**: Way2Save Savings ($5 monthly fee waived if under 25 or $300 minimum balance); Advantage SafeBalance Banking (various fee waiver options)
-      - **Bank of America**: Advantage SafeBalance Banking ($4.95 monthly fee waived under 25 or $500 balance); Client Assistance Program for individual relief
-      - **Chase**: Contact directly for current low-income banking options and fee waiver programs
-      - How to access: Call banks directly, ask about assistance programs for homeless/government assistance recipients; may require documentation of situation
-- Address Requirements Solutions
-   - refer back to the [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc) section
-- Required Documentation
-   - *See also*: [IDs and other documents](#ids-and-other-documents-how-to-obtain-replace-secure) section for information on obtaining required documentation
-   - Primary ID: Driver's license, state ID, passport, or other government-issued photo ID
-   - Alternative ID options: Some banks may accept expired ID with additional documentation
-   - ITIN acceptance: Several local credit unions accept Individual Taxpayer Identification Numbers
-   - Proof of address: Can be challenging but shelters and service organizations may provide verification letters
-      - Some banks partner with local homeless organizations to verify identity and address
-- **Special Programs for Homeless Individuals**
-   - **Bank On Certified Accounts**: Accounts meeting National Account Standards for safety and affordability
+   - Bank On Certified Accounts: Accounts meeting National Account Standards for safety and affordability
       - Why preferred: Low-cost, no overdraft fees, robust transaction capabilities; designed for currently unbanked populations including homeless individuals
       - Availability: Over 500 certified accounts at 45,200+ branches nationwide; free certification program
       - Special accommodations: Many homeless shelters provide mailing addresses that banks can accept for account setup
       - Examples: Wells Fargo Clear Access Banking and other Bank On certified accounts at major banks/credit unions
       - How to find: Visit joinbankon.org or ask banks/credit unions about Bank On certified accounts [Sources: [cfefund.org](https://cfefund.org/), [joinbankon.org](https://joinbankon.org/)]
+   1. [Wells Fargo Clear Access Banking](https://www.wellsfargo.com/checking/clear-access-banking/)
+      - What’s Available: Meets Bank On National Account Standards for safe and affordable banking; no overdraft fees, no minimum balance requirements
+      - Opening deposit: Typically $15–100 required
+      - Benefits: Designed for low-income customers and those without traditional banking history
+   1. Major Bank Special Programs
+      - Wells Fargo: Way2Save Savings ($5 monthly fee waived if under 25 or $300 minimum balance); Advantage SafeBalance Banking (various fee waiver options)
+      - Bank of America: Advantage SafeBalance Banking ($4.95 monthly fee waived under 25 or $500 balance); Client Assistance Program for individual relief
+      - Chase: Contact directly for current low-income banking options and fee waiver programs
+      - How to access: Call banks directly, ask about assistance programs for homeless/government assistance recipients; may require documentation of situation
+
+> See [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc) for some tips on what to do if you need to provide a residency address but you are currently homeless.
+
+> See [IDs and other documents](#ids-and-other-documents-how-to-obtain-replace-secure) section for information on how to obtain required identification and other documentation.
+
 - Tips for Success
    - Call ahead: Contact banks before visiting to understand their specific requirements and available programs
    - Bring multiple documents: Have as much identification and address verification as possible
@@ -2356,102 +2342,82 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 
 ## <a id="acute-financial-needs">Acute Financial Needs</a>
 
-1. **Primary Emergency Assistance Organizations**
-   1. **North County NeighborAid**
+1. Primary Emergency Assistance Organizations
+   1. [**North County NeighborAid**](Directory.md#North-County-NeighborAid)
       - What's Available: Emergency assistance for vulnerable families in North SLO County including gas cards for parents traveling to distant children's hospitals, groceries following crises, rental assistance, baby supplies, summer camp access, and utility payment support
       - Eligibility: Vulnerable families in North SLO County; operates through professional referrals from social workers and educators
       - Service Area: North San Luis Obispo County
-      - Location/Phone/Email/Hours: See [**North County NeighborAid**](Directory.md#North-County-NeighborAid) in the [Directory](Directory.md)
       - Notes: Managed by [**Center for Family Strengthening**](Directory.md#CSF); funding fluctuations may create occasional waitlists
       - Source: [cfsslo.org/north-county-neighboraid](https://cfsslo.org/north-county-neighboraid/)
-   1. **Auntie Isabell Foundation**
+   1. [**Auntie Isabell Foundation**](Directory.md#Auntie-Isabell-Foundation)
       - What's Available: Low-interest microloans to promote equality and diversity in business for entrepreneurs starting or expanding ventures; grants for education, housing, transportation, job training, handling life's challenges, or child care
       - Eligibility: Underrepresented groups in Paso Robles and SLO County
       - Service Area: Paso Robles and SLO County
-      - Email: See [**Auntie Isabell Foundation**](Directory.md#Auntie-Isabell-Foundation) in the [Directory](Directory.md)
-      - Source: [auntieisabellfoundation.org](https://www.auntieisabellfoundation.org/)
-   1. **Womenade SLO**
+   1. [**Womenade SLO**](Directory.md#Womenade-SLO)
       - What's Available: One-time essential financial help for SLO city residents; emergency assistance for dental and medical care, diapers, furniture, rent, gas, groceries, and other essential needs; 100% of donations go directly to support those in need
       - Eligibility: SLO city residents in crisis; referrals from schools, medical professionals, and local social services
-      - Phone: See [**Womenade SLO**](Directory.md#Womenade-SLO) in the [Directory](Directory.md)
       - Note: Part of a regional network; for county-wide assistance see GIVEslo ([info@giveslo.org](mailto:info@giveslo.org)); for North County see North County Womenade (7343 El Camino Real Box #217, Atascadero, CA 93422); for South County see South County Womenade (1793 Farroll Road, Grover Beach, CA 93433)
-      - Source: [womenadeslo.org](https://www.womenadeslo.org/)
-   1. **5Cities Homeless Coalition (5CHC)**
+   1. [**5Cities Homeless Coalition**](Directory.md#5CHC)
       - What’s Available: Case management and financial assistance for rent, deposit, and immediate needs based on variety of funding grants
          - "Examples of assistance include support with utilities, transportation, auto repairs, clothing, and employment readiness. These funds can be used to pay for bills, or for goods or services; however no funds are given directly to the individual."
       - Eligibility: Residents throughout SLO County who are currently homeless or at-risk of losing housing
-      - Location/Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
       - Access: Email or call to arrange confidential coordinated entry meeting
       - Website: [5chc.org/community-services/financial-assistance](https://5chc.org/community-services/financial-assistance)
       - Website: [5chc.org/programs/immediate-needs](https://5chc.org/programs/immediate-needs)
-   1. **Jewish Family Services**
-      - Location/Phone: See [**Jewish Family Services**](Directory.md#Jewish-Family-Services) in the [Directory](Directory.md)
+   1. [**Jewish Family Services**](Directory.md#Jewish-Family-Services)
       - What's Available: Essential and emergency needs assistance including food, housing, transportation through gas cards, direct aid, and micro-grants
       - Service area: SLO County and Northern Santa Barbara County (San Miguel to Lompoc)
       - Philosophy: "Agency of last resort"—applicants should exhaust other resources first
       - Status: Open on limited basis as of May 2025, partnering closely with local case workers
       - Website: [jccslo.com/jewish-family-services.html](https://www.jccslo.com/jewish-family-services.html)
-   1. **St. Vincent de Paul Society**
-      - Location/Phone/Hours: See [**Society of Saint Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) in the [Directory](Directory.md)
+   1. [**Society of Saint Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul)
       - Services: Rent and utility assistance, emergency financial aid (Note: Unable to verify current details in available sources; contact directly to confirm services and hours)
-   1. **Minister's Discretionary Fund**
+   1. Minister's Discretionary Fund
       - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
-   1. **Green Pastures** (First Presbyterian Church)
-      - Location/Phone/Email/Hours: See [**Green Pastures**](Directory.md#Green-Pastures) in the [Directory](Directory.md)
+   1. [**Green Pastures**](Directory.md#Green-Pastures) (First Presbyterian Church)
       - Services: "Micro Grants" for financial needs, utility bill assistance, medical bill support, gas/transportation assistance, guidance to community resources (does not consider requests for rent, storage, fines, or court costs)
       - Eligibility: Open to community members; must bring relevant documentation for requested assistance (e.g., utility bills, car registration)
       - Source: [fpcslo.org/greenpastures](https://fpcslo.org/greenpastures)
-   1. **SLO County UndocuSupport**
-      - Location/Phone/Email/Hours: See [**SLO County UndocuSupport**](Directory.md#SLO-County-UndocuSupport) in the [Directory](Directory.md)
+   1. [**SLO County UndocuSupport**](Directory.md#SLO-County-UndocuSupport)
       - Services: Bill payments, gift cards, direct funding for undocumented immigrant families experiencing loss of housing, job, or income
       - Eligibility: SLO County undocumented immigrants and mixed-status families
       - Note: Only sees 12 clients per day
       - Cross-reference: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
-   1. [**Catholic Charities**](https://catholiccharitiesdom.org/emergency-rental-assistance-available-in-san-luis-obispo-county/)
-      - Phone: See [**Catholic Charities**](Directory.md#Catholic-Charities) in the [Directory](Directory.md).
-      - Location: 3592 Broad St. #104, SLO (previous location was 941 Chorro Street) [Source: [rentassistance.org](https://rentassistance.org/program/catholic_charities_diocese_of_monterey_san_luis_obispo_county_san_luis_obispo_ca.html)]
+   1. [**Catholic Charities**](Directory.md#Catholic-Charities)
+      - [program](https://catholiccharitiesdom.org/emergency-rental-assistance-available-in-san-luis-obispo-county/)
+      - Location: 3592 Broad St. #104, SLO (previous location was 941 Chorro Street) <!-- Source: [rentassistance.org](https://rentassistance.org/program/catholic_charities_diocese_of_monterey_san_luis_obispo_county_san_luis_obispo_ca.html) -->
       - Hours: M–F 9am–5pm
       - Access: Call [805-541-9110](tel:+1-805-541-9110) for appointment
       - Services: Emergency rental assistance, utility assistance, eviction prevention for poor, working poor, homeless, and elderly facing emergency situations; Family Supportive Services Program provides direct financial aid with rental, move-in, and utility assistance
-      - Source: [catholiccharitiesdom.org](https://catholiccharitiesdom.org/)
-   1. **The Salvation Army**
-      - Locations/Phone/Hours: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
+   1. [**Salvation Army**](Directory.md#Salvation-Army)
       - Services: Emergency financial assistance for housing, food, utility bills, transportation; rental and utility assistance by appointment; eviction prevention assistance; case management and referrals
       - Important notes: Rent assistance only available through SLO site; does not pay deposits of any kind
       - Source: [salvationarmyusa.org](https://www.salvationarmyusa.org/) and [needhelppayingbills.com](https://www.needhelppayingbills.com/html/san_luis_obispo_salvation_army.html)
-   1. **S.A.F.E. Family Resource Centers**
+   1. [**SAFE Family Resource Centers**](Directory.md#SAFE-Family-Resource-Centers)
       - What's Available: Housing assistance, emergency rent help, utilities assistance, referrals to immediate funds for families, youth, single parents, disabled, and vulnerable populations
-      - Locations/Phone: See [**SAFE Family Resource Centers**](Directory.md#SAFE-Family-Resource-Centers) in the [Directory](Directory.md)
       - Services: Focus on immediate community needs with emergency financial assistance and referrals [Source: [capslo.org](https://capslo.org/s-a-f-e-family-resource-centers/)]
-   1. [**Family Care Network**](https://fcni.org/) **Housing Support Program** (HSP)
+   1. [**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program)
       - What's Available: financial assistance for housing deposits and rent; bus passes, gas cards, short-term rent assistance
       - Eligibility: Homeless or at-risk families in SLO County
       - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
-      - Location/Phone/Hours: See [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) in the [Directory](Directory.md)
-      - See also [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
-   1. **North County Emergency Assistance** (pending human review)
-      1. **El Camino Homeless Organization (ECHO)**
+   1. North County Emergency Assistance (pending review)
+      1. [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)
          - What's Available: Shelter services, case management, financial literacy programs; contact directly to inquire about emergency financial assistance for rent and utilities
          - Service Area: Paso Robles and Atascadero
-         - Locations/Phone/Email: See [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) in the [Directory](Directory.md)
-         - Source: [echoshelter.org](https://www.echoshelter.org/)
-      1. **Loaves & Fishes Food Pantries**
+      1. Loaves & Fishes Food Pantries
          - Locations/Phone/Hours: See [**Loaves & Fishes (Atascadero)**](Directory.md#Loaves-and-Fishes-Atascadero) and [**Loaves & Fishes (Paso Robles)**](Directory.md#Loaves-and-Fishes-Paso-Robles) in the [Directory](Directory.md)
          - Services: Emergency food assistance; serves families including working poor, elderly on fixed income, young parents; Paso Robles location also operates as referral clearinghouse for emergency needs
          - Notes: These are two separate, unaffiliated organizations
          - Source: [loavesandfishespaso.org](https://loavesandfishespaso.org/) and [alffoodpantry.org](https://alffoodpantry.org/)
-      1. **The Link Family Resource Center**
-         - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
+      1. [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center)
          - Services: Family advocates connect families with community resources including financial services, food services, housing services, job services, legal services, medical services; provides in-home support and navigation assistance
          - Source: [linkslo.org](https://linkslo.org/)
-   1. **North Coast / Estero Bay Emergency Assistance** (pending human review)
-      1. **Los Osos Cares Resource Center**
+   1. North Coast / Estero Bay Emergency Assistance (pending review)
+      1. [**Los Osos Cares**](Directory.md#Los-Osos-Cares)
          - Service Area: Los Osos, Morro Bay, Cayucos, and Cambria
-         - Location/Phone/Email/Hours: See [**Los Osos Cares**](Directory.md#Los-Osos-Cares) in the [Directory](Directory.md)
          - Services: Small grants for immediate needs (typically limited to $200 per year per person/family, but larger amounts available for extreme needs); immediate needs assistance and referrals to area agencies
          - Collaboration: Works with EBAC, Social Services, Senior Housing, Mobile Home Ombudsman, Womenade, Senior Aid, Veterans Administration, Yes We Can Peacebuilders, County Food Bank, Hope's Village, Morro Bay Police Department, and Morro Bay City Council for monetary, mental health, and housing aid
-         - Source: [losososcares.com](https://www.losososcares.com/)
-   1. **[Modest Needs](https://www.modestneeds.org/)**
+   1. [Modest Needs](https://www.modestneeds.org/)
       - National nonprofit providing small emergency grants to low-income workers at risk of slipping into poverty
       - Average grant: $750–$1,250
       - Eligibility requirements:
@@ -2461,56 +2427,55 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - How to apply: Register online (takes under 5 minutes) and complete online grant application; need email account and most recent tax return or bank statements for all household adults
       - Maximum grant varies by household income; determined during application process
       - Available nationwide including California
-      - Source: [modestneeds.org](https://www.modestneeds.org/)
-1. **Veterans Emergency Assistance**
-   1. [**American Legion Post 66**](https://post66slo.org/)
-      - Location/Phone: See [**American Legion Post 66**](Directory.md#American-Legion-Post-66) in the [Directory](Directory.md)
+1. Veterans Emergency Assistance
+   1. [**American Legion Post 66**](Directory.md#American-Legion-Post-66)
       - Services: Emergency financial assistance for veterans, post service officer (PSO) for benefit issues, buddy checks for veteran wellness
-1. **Government Assistance Programs**
-   1. [**General Relief/General Assistance**](https://www.slocounty.ca.gov/Departments/Social-Services/Cash-Assistance-Programs/Services/General-Assistance-Cash-Aid.aspx)
+1. Government Assistance Programs
+   1. [General Relief/General Assistance](https://www.slocounty.ca.gov/Departments/Social-Services/Cash-Assistance-Programs/Services/General-Assistance-Cash-Aid.aspx)
       - Provider: SLO County Department of Social Services (county funded)
       - Services: Short-term cash aid for basic needs for people not eligible for other programs
       - Contact: SLO County Department of Social Services, [805-781-1655](tel:+1-805-781-1655)
       - How to apply: Contact county social services office for application and eligibility assessment
       - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
-   1. [**CalWORKs Cash Aid**](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid)
+   1. [CalWORKs Cash Aid](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid)
       - State-funded monthly cash aid (This is California's version of the Temporary Assistance to Needy Families (TANF) federal program)
       - Apply at DSS or online at [BenefitsCal](https://benefitscal.com/)
       - Eligibility: must have a "qualifying child" at least one parent of whom is "deceased, absent from the home, disabled, or unemployed" and must be below certain maximum income/asset limits, must participate in a face-to-face interview and may need to provide documents to verify eligibility
       - Must participate in the "Welfare-to-Work Program" to participate.
-   1. [**Emergency Food and Shelter Program**](https://unitedwayslo.org/emergency-food-and-shelter-program/)
+   1. [Emergency Food and Shelter Program](https://unitedwayslo.org/emergency-food-and-shelter-program/)
       - Coordination: Local board including United Way, American Red Cross, Catholic Charities, CAPSLO, SLO County DSS, SLO Ministerial Association, Salvation Army
       - Access: Call 211 for immediate assistance or visit [unitedwayslo.org/211slo](https://www.unitedwayslo.org/211slo)
-   1. [**Unemployment benefits**](https://edd.ca.gov/en/unemployment)
-1. **Utility Assistance Programs**
+   1. [Unemployment benefits](https://edd.ca.gov/en/unemployment)
+1. Utility Assistance Programs
    - Note: of limited use if we plan to restrict the scope of our guide to currently-homeless people, but helpful if we expand the scope to people at risk of homelessness
-   1. **[PG&E CARE Program](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html)**: Minimum 20% discount on gas and electric rates
+   1. [PG&E CARE Program](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html): Minimum 20% discount on gas and electric rates
       - Eligibility: Enrolled in public assistance programs (Medi-Cal, SNAP, SSI, etc.) *or* meet income guidelines
       - How to apply: Online at [energyinsight.pge.com/carefera](https://energyinsight.pge.com/carefera?care_lang=english) (takes few minutes); CARE and FERA (Family Electric Rate Assistance - 18% electric discount) share one application
       - Contact: Call PG&E for assistance with application
-   1. **Gas Company CARE Program**: Reduced natural gas rates for low-income customers
+   1. Gas Company CARE Program: Reduced natural gas rates for low-income customers
       - Note: Natural gas providers in SLO County include PG&E; CARE program applies to both electric and gas services
       - Application: Same as PG&E CARE program above; single application covers both services
       - Contact: Contact your natural gas utility provider directly
       - Source: [cpuc.ca.gov](https://www.cpuc.ca.gov/)
-   1. **[CAPSLO Home Energy Assistance](https://capslo.org/utility-assistance/)** & [LIHEAP (Low Income Home Energy Assistance Program)](https://capslo.org/energy-services/)
+   1. [CAPSLO Home Energy Assistance](https://capslo.org/utility-assistance/) & [LIHEAP (Low Income Home Energy Assistance Program)](https://capslo.org/energy-services/)
       - Note: Unable to verify from CAPSLO's website whether these are two separate programs or one program with different names (as of January 2025); contact CAPSLO directly for clarification
       - Services: Payment assistance for gas, propane, or electric utility bills for low-income households
       - Contact: [805-541-4122](tel:+1-805-541-4122) ext. 25 (confirmed as correct extension) [Source: [energyassistance.us](https://www.energyassistance.us/li/community-action-partnership-of-san-luis-obispo-county)]
       - Location: 3970 Short St. #110
-      - How to apply: Contact CAPSLO directly for HEAP assistance application
+      - How to apply: Contact [**CAPSLO**](Directory.md#CAPSLO) directly for HEAP assistance application
       - Eligibility: [based on income](https://capslo.org/eligibility-tables-for-energy-services/)
       - Additional: PG&E REACH program provides up to $300 energy credit; apply at Dollar Energy Fund [1-888-282-6816](tel:+1-888-282-6816)
-   1. [**City of SLO Customer Assistance Programs**](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs)
+   1. [City of SLO Customer Assistance Programs](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs)
       - Contact: City Utility Billing [805-781-7133](tel:+1-805-781-7133), [ub@slocity.org](mailto:ub@slocity.org)
       - How to apply: Contact utility billing department for customer assistance program applications and eligibility requirements
       - Website: [www.slocity.org/government/department-directory/utilities-department](https://www.slocity.org/government/department-directory/utilities-department) for complete program details
    1. [Low Income Household Water Assistance Program (LIHWAP)](https://www.csd.ca.gov/lihwap)
       - Appears to have ended in 2024
-1. **Additional Resources**
-   1. **HelpSLO**: Community assistance network [localwiki.org/slo/HelpSLO](https://localwiki.org/slo/HelpSLO)
-   1. [**Christian Fund for the Disabled**](https://joniandfriends.org/support/christian-fund-for-the-disabled/) a.k.a. **Joni & Friends**
-   - *See also*: [Banking and money management](#financial-literacy) section for Financial Literacy / Credit Counseling resources
+1. Additional Resources
+   1. HelpSLO: Community assistance network [localwiki.org/slo/HelpSLO](https://localwiki.org/slo/HelpSLO)
+   1. [Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) a.k.a. “Joni & Friends”
+
+*See also*: [Banking and money management](#financial-literacy) section for Financial Literacy / Credit Counseling resources
 
 ## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">Navigating Social Security / SSDI / SSI / Survivors Benefits</a>
 
@@ -2542,14 +2507,14 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    - Application method: Cannot apply online; must call Social Security at [800-772-1213](tel:+1-800-772-1213) (TTY 800-325-0778) to request appointment
    - Eligibility: For surviving spouses, surviving divorced spouses, and dependent children
    - Timing: Should contact Social Security immediately after death occurs
-1. [**SOAR Program—Specialized Support for Homeless Individuals**](https://www.samhsa.gov/communities/homelessness-programs-resources/grants/soar)
+1. [SOAR Program—Specialized Support for Homeless Individuals](https://www.samhsa.gov/communities/homelessness-programs-resources/grants/soar)
    - What it is: SSI/SSDI Outreach, Access, and Recovery program specifically designed for homeless individuals
    - Services provided: faster benefit decisions; knowledgeable support
    - Eligibility: For individuals experiencing or at risk of homelessness with serious mental illness, medical impairment, and/or substance use disorder
    - Availability: Services available in all 50 states
    - Provider: SAMHSA (Substance Abuse and Mental Health Services Administration)
-   - **Local SOAR contacts**:
-      - Contact **CAPSLO** (40 Prado Homeless Services Center): [805-544-4004](tel:+1-805-544-4004) - may have SOAR-trained staff for SSI/SSDI application assistance
+   - Local SOAR contacts:
+      - Contact [**CAPSLO**](Directory.md#CAPSLO) (40 Prado Homeless Services Center): [805-544-4004](tel:+1-805-544-4004) - may have SOAR-trained staff for SSI/SSDI application assistance
       - Contact Daisy Wiberg, SLO City Homelessness Response Manager: [805-781-7025](tel:+1-805-781-7025) or [dwiberg@slocity.org](mailto:dwiberg@slocity.org) for referrals to SOAR services [Source: [slocity.org](https://www.slocity.org/living/neighborhood/homelessness)]
       - **North County SOAR Services** (pending human review): [**TMHA (Transitions-Mental Health Association)**](Directory.md#TMHA) operates the Homeless Outreach Team (HOT) which works with homeless individuals struggling with mental health issues to link them to services including SSI/SSDI application assistance; TMHA has an Atascadero location (Life House) at 5850 West Mall, Atascadero; contact main office at [805-540-6500](tel:+1-805-540-6500). [**ECHO**](Directory.md#ECHO) shelters in Paso Robles and Atascadero offer comprehensive services including case management and connections to TMHA and other service providers who can assist with SSI/SSDI applications. Source: [t-mha.org](https://www.t-mha.org/) and [echoshelter.org](https://www.echoshelter.org/)
       - **211** can also provide referrals to local SOAR-trained providers
@@ -2567,33 +2532,31 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 1. Contact Information and Resources
    - National Social Security number: [800-772-1213](tel:+1-800-772-1213) (TTY 800-325-0778)
    - Online resources: [ssa.gov/homelessness](https://www.ssa.gov/homelessness/) for homeless-specific information
-   - **Local Social Security Office** (pending human review): The federal [**Social Security Administration**](Directory.md#Social-Security-Administration) office at 3240 S. Higuera St., SLO, serves all of SLO County including North County, North Coast, and South County; hours M–F 9am–4pm; call [855-207-4865](tel:+1-855-207-4865) to schedule appointment [Source: [ssa.gov](https://www.ssa.gov/)]
+   - Local Social Security Office (pending human review): The federal [**Social Security Administration**](Directory.md#Social-Security-Administration) office at 3240 S. Higuera St., SLO, serves all of SLO County including North County, North Coast, and South County; hours M–F 9am–4pm; call [855-207-4865](tel:+1-855-207-4865) to schedule appointment.
    - Local application assistance: Contact 40 Prado, 5CHC, ECHO (North County), TMHA, or other case management services for application support
 1. Special Considerations
-    - Interim assistance: SLO County provides General Assistance Disabled Program for those with disabilities awaiting Social Security approval
-       - **GA Disabled Program**: Monthly cash assistance while waiting for SSI/SSDI; participants must apply for federal benefits with benefit advocate assistance; benefit advocates available at county offices to assist with SSI/SSDI application process
-       - Application: SLO County Social Services offices; $355 monthly income limit, $500 property limit
-       - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
-       - **County-wide access** (pending human review): Social Services offices located throughout the county including Arroyo Grande, Atascadero, Morro Bay, Nipomo, Paso Robles, and SLO; all offices accept General Assistance applications M–F 8am–5pm (appointments 4–5pm) [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services)]
-       - Source: [slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
-    - Back pay: If approved, you may receive back pay from application date
-    - Medicare eligibility: SSDI recipients become eligible for Medicare 24 months after disability determination
-    - Work incentives: Various programs allow work while maintaining benefits—ask about Ticket to Work program
-       - **Ticket to Work Program**: Free voluntary program for ages 18–64 receiving SSDI/SSI; provides career counseling, job training, placement services through Employment Networks or State VR agencies
-       - Protections: Maintains medical benefits while working; protection from medical reviews while using ticket; can return to benefits if work stops
-       - Getting started: Call [866-968-7842](tel:+1-866-968-7842) (TTY [866-833-2967](tel:+1-866-833-2967)) to verify eligibility and learn about services [Source: [choosework.ssa.gov](https://choosework.ssa.gov/)]
-       - Cross-reference: Also listed in [Education, job skills training section](#education-job-skills-training-certification-tutoring-literacy)
+   - Interim assistance: SLO County provides General Assistance Disabled Program for those with disabilities awaiting Social Security approval
+      - GA Disabled Program: Monthly cash assistance while waiting for SSI/SSDI; participants must apply for federal benefits with benefit advocate assistance; benefit advocates available at county offices to assist with SSI/SSDI application process
+      - Application: SLO County Social Services offices; $355 monthly income limit, $500 property limit
+      - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
+      - County-wide access (pending review): Social Services offices located throughout the county including Arroyo Grande, Atascadero, Morro Bay, Nipomo, Paso Robles, and SLO; all offices accept General Assistance applications M–F 8am–5pm (appointments 4–5pm) [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services)]
+      - Source: [slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
+   - Back pay: If approved, you may receive back pay from application date
+   - Medicare eligibility: SSDI recipients become eligible for Medicare 24 months after disability determination
+   - Work incentives: Various programs allow work while maintaining benefits—ask about Ticket to Work program
+      - **Ticket to Work Program**: Free voluntary program for ages 18–64 receiving SSDI/SSI; provides career counseling, job training, placement services through Employment Networks or State VR agencies
+      - Protections: Maintains medical benefits while working; protection from medical reviews while using ticket; can return to benefits if work stops
+      - Getting started: Call [866-968-7842](tel:+1-866-968-7842) (TTY [866-833-2967](tel:+1-866-833-2967)) to verify eligibility and learn about services [Source: [choosework.ssa.gov](https://choosework.ssa.gov/)]
+      - Cross-reference: Also listed in [Education, job skills training section](#education-job-skills-training-certification-tutoring-literacy)
 
 ## <a id="employment-job-boards-etc">Employment, Job Boards, Etc.</a>
 
-1. **Workforce Development Centers**
-   1. [**SLO Cal Careers Center**](https://SLOCalCareers.org) (America's Job Center of California) (formerly Business and Career One Stop)
+1. Workforce Development Centers
+   1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) (America's Job Center of California) (formerly Business and Career One Stop)
       - Services: Comprehensive no-cost employment and training services including resume building, interview workshops, career guidance, job placement assistance, skill development, On-the-Job-Training (OJT) programs, CalJOBS access, employer connections, labor market information; specialized services for youth, veterans, and individuals with disabilities
       - How to access: Call to schedule appointment or visit website [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/job-center)]
-      - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
       - [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board)]
    1. [**Eckerd Connects Workforce Development**](Directory.md#Eckerd-Connects-Workforce-Development)
-      - Locations/Contact: See [**Eckerd Connects Workforce Development**](Directory.md#Eckerd-Connects-Workforce-Development) in the [Directory](Directory.md)
       - **County-wide service** (pending human review): Locations in SLO (3450 Broad St. #103A) and Paso Robles (534 Spring St.) serving North County, South County, and SLO city
       - What's Available: WIOA-funded training programs, employment services for youth and adults 18+, industry certifications, job placement assistance
       - Eligibility: Young adults, adults, and dislocated workers; those with significant barriers to employment
@@ -2601,88 +2564,83 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Special focus: Workforce Innovation and Opportunity Act (WIOA) services
       - How to start: Attend an information session or apply online at their website; walk-ins OK but reservations encouraged
       - Source: [eckerd.org](https://eckerd.org/jobs-training/slo/)
-1. **Online Job Search and Registration**
-   1. [**CalJOBS**](https://www.caljobs.ca.gov/)
+1. Online Job Search and Registration
+   1. [**CalJOBS**](Directory.md#CalJOBS)
       - Services: Job search, resume creation, employer research, job alerts, training opportunities
-      - Phone: See [**CalJOBS**](Directory.md#CalJOBS) in the [Directory](Directory.md)
       - Required: Mandatory for unemployment benefit recipients
       - Features: Unlimited job listings, resume posting, employer screening tools [Source: [edd.ca.gov](https://edd.ca.gov/en/jobs_and_training/Caljobs/)]
-1. **College-Based Career Services**
-   1. [**Cuesta College Career Services**](https://www.cuesta.edu/student/resources/careerconnections/index.html)
+1. College-Based Career Services
+   1. [Cuesta College Career Services](https://www.cuesta.edu/student/resources/careerconnections/index.html)
       - What's Available: Career counseling, resume assistance, job search support, interview preparation, Handshake job board platform
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - **County-wide access** (pending human review): Cuesta operates three campuses (SLO, North County Campus in Paso Robles, South County Campus in Arroyo Grande); Career Services office is on SLO Campus (5300 Building, Room 5310)
+      - County-wide access (pending review): Cuesta operates three campuses (SLO, North County Campus in Paso Robles, South County Campus in Arroyo Grande); Career Services office is on SLO Campus (5300 Building, Room 5310)
       - Hours: Monday–Friday by appointment only, 9am–4:30pm
       - Services: Student job placement, internships, local and national opportunities, workforce & economic development
       - Eligibility: Primarily for Cuesta College students; community members should call [805-546-3252](tel:+1-805-546-3252) or email [CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu) to inquire about availability of services to non-students [Source: [cuesta.edu](https://www.cuesta.edu/student/resources/careerconnections/index.html)]
-1. **Specialized Employment Services**
-   1. **PathPoint**—Services for people with disabilities
+1. Specialized Employment Services
+   1. [**PathPoint**](Directory.md#PathPoint)
+      - Services for people with disabilities
       - What's Available: Individual Supported Employment (ISE), Job Placement Services (JPS), Project SEARCH transition-to-work program
       - Eligibility: Individuals with developmental disabilities, low-income individuals needing employment support
-      - Location/Phone: See [**PathPoint**](Directory.md#PathPoint) in the [Directory](Directory.md)
       - Services: Job matching, skills assessment, on-the-job support, job retention services
       - Special programs: First Project SEARCH program in the county (since 2017) [Source: [pathpoint.org](https://www.pathpoint.org/locations/san-luis-obispo/)]
-   1. [**TMHA Work Programs**](https://www.t-mha.org/work-programs.php)
+   1. [TMHA Work Programs](https://www.t-mha.org/work-programs.php)
       - helps individuals with mental illness find and maintain meaningful employment in our communities
       - operates "Growing Grounds" farm, nursery, and SLO retail outlet for vocational training
-      - also helps with job-seeking and ongoing job-support for adults with mental illness (via [**Supported Employment Program**](https://www.t-mha.org/program-details.php?id=16))
+      - also helps with job-seeking and ongoing job-support for adults with mental illness (via [Supported Employment Program](https://www.t-mha.org/program-details.php?id=16))
          - [805-540-6551](tel:+1-805-540-6551) / [mmurchison@t-mha.org](mailto:mmurchison@t-mha.org) (Megan Murchison)
       - must??? be referred via SLO County Mental Health, Santa Barbara County Dept. of Behavioral Wellness, SLO County Behavioral Health Service, or Dept. of Rehabilitation
-   1. [**California Department of Rehabilitation**](https://www.dor.ca.gov/Home/SanLuisObispo)
+   1. [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation)
       - What’s Available: Vocational rehabilitation services for people with disabilities
       - Services: Job training, placement assistance, assistive technology, education support
       - How to start: Call main number to schedule intake appointment [Source: [dor.ca.gov](https://www.dor.ca.gov/Home/SanLuisObispo)]
-      - Website/Phone/Location: See [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) in the [Directory](Directory.md).
-   1. **The Bridge Cafe**
-      - project of Restorative Partners
-      - job development for people tangled in the criminal justice system
-      - 1074 Higuera St., SLO
-      - [805-459-1689](tel:+1-805-459-1689)
-      - [info@thebridgecafe.org](mailto:info@thebridgecafe.org)
-1. **State Employment Services**
-   1. [**Employment Development Department (EDD)**](https://edd.ca.gov/)
+1. State Employment Services
+   1. [Employment Development Department (EDD)](https://edd.ca.gov/)
       - Services: Unemployment benefits, disability insurance, job training programs, hiring incentives for employers
       - Programs: Job fairs, workshops, training services, eligible training provider lists
       - Local Office: 3450 Broad St. #103A, San Luis Obispo, CA 93401, [805-439-2557](tel:+1-805-439-2557)
       - Customer Service: [800-300-5616](tel:+1-800-300-5616) (English/Spanish), multilingual support available
       - Hours: 8am–5pm Monday–Friday (avoid Monday before 10am for best service)
-1. **Veterans Employment Services**
-   1. **Vocational Rehabilitation & Employment Program**: Specialized employment services for veterans through VA
-   1. **Veterans services**: Available through SLOCal Careers Center.
-      - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
-1. **Additional Employment Resources**
-   1. **[Goodwill Central Coast](https://www.ccgoodwill.org/)**: Free employment services, job training and placement
-      - Locations: See [**Goodwill Stores**](Directory.md#Goodwill) in the [Directory](Directory.md)
-      - **County-wide service** (pending human review): Retail locations in Atascadero (8310 El Camino Real #A), Grover Beach (1628 W. Grand Ave.), Paso Robles (1020 Park St.), and SLO (15 S. Higuera St. and 880 Industrial Way outlet) serving all of SLO County
+1. Veterans Employment Services
+   1. Vocational Rehabilitation & Employment Program: Specialized employment services for veterans through VA
+   1. Veterans services: Available through [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center)
+1. Additional Employment Resources
+   1. [**Goodwill Stores**](Directory.md#Goodwill)
+      - Free employment services, job training and placement
       - Services: Career counseling, skills training, résumé preparation, job placement assistance, interview prep
       - Access: Visit any retail location or contact county workforce development
       - Contact: SLO County Workforce Development Board, 3563 Empleo Street, SLO, [805-439-2557](tel:+1-805-439-2557)
       - Cost: Free employment services available to all job seekers
-   1. **[Assistance League of San Luis Obispo County](https://www.assistanceleague.org/san-luis-obispo-county/)**
-      - **Access to Career Education (ACE)**: Educational program for students (specific details not readily available)
+   1. [**Assistance League of San Luis Obispo County**](Directory.md#Assistance-League-of-SLO-County)
+      - Access to Career Education (ACE): Educational program for students (specific details not readily available)
       - Primary program: Operation School Bell—provides new school clothes to students in need
       - Target: Students living below Federal Poverty Level (45% of SLO County student population)
       - Note: Unable to find detailed information about ACE program specifics in available sources; contact organization directly for current program details
       - Source: [assistanceleague.org](https://www.assistanceleague.org/san-luis-obispo-county/)
-   1. **[Restorative Partners](https://restorativepartners.org/)**
+   1. [**Restorative Partners**](Directory.md#Restorative-Partners)
       - Target population: Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
-      - Location/Phone/Email/Hours: See [**Restorative Partners**](Directory.md#Restorative-Partners) in the [Directory](Directory.md)
       - Special program: The Bridge Cafe—social enterprise offering paid culinary job training and certification in partnership with Cuesta College's Culinary Arts Foundation
       - How to apply for Bridge Cafe training: Contact Restorative Partners to inquire about participating in the culinary arts certificate program
       - Program outcomes: Upon completion, Restorative Partners assists participants with finding culinary employment
       - Bridge Cafe location: 1074 Higuera Street, downtown SLO, Monday–Friday 7am–3pm
       - Source: [thebridgecafe.org](https://www.thebridgecafe.org/)
-1. **Recycling**
-   1. **CRV Recycling Centers**: Limited locations in county for recycling cans and bottles for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
+   1. The Bridge Cafe
+      - project of [**Restorative Partners**](Directory.md#restorative-partners)
+      - job development for people tangled in the criminal justice system
+      - 1074 Higuera St., SLO
+      - [805-459-1689](tel:+1-805-459-1689)
+      - [info@thebridgecafe.org](mailto:info@thebridgecafe.org)
+1. Recycling
+   1. CRV Recycling Centers: Limited locations in county for recycling cans and bottles for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
       - [**AGS Recycling**](Directory.md#AGS-Recycling) (Arroyo Grande and Morro Bay)
       - [**Cambria Recycling Center**](Directory.md#Cambria-Recycling-Center) (Cambria)
       - [**Steve’s Recycling**](Directory.md#Steves-Recycling) (Los Osos)
       - [**Recycle 101**](Directory.md#Recycle-101) (Oceano)
-   1. **Grocery Store CRV Buyback**: Approximately 60 grocery stores county-wide accept CRV containers; retailers are legally required to buy them back if there is no nearby recycling center
+   1. Grocery Store CRV Buyback: Approximately 60 grocery stores county-wide accept CRV containers; retailers are legally required to buy them back if there is no nearby recycling center
       - Limit: Up to 50 containers each of aluminum, glass, plastic, and bi-metal per visit
       - Find locations: Visit [www2.calrecycle.ca.gov/BevContainer/InStoreRedemption](https://www2.calrecycle.ca.gov/BevContainer/InStoreRedemption) for participating retailers
       - Note: Call ahead to confirm participation before visiting [Source: https://www.iwma.com/, https://www.ksby.com/]
-1. **Gig Economy**
+1. Gig Economy
    1. "Beer Money Sites" / "Get Paid to…" on-line gigs
       - Reddit has an ostensibly curated list of beermoney opportunities [here](https://www.reddit.com/r/beermoney/comments/ab0dyv/most_common_beer_money_sites_do_not_create/) and a community to discuss options at [r/beermoney](https://www.reddit.com/r/beermoney/)
       - What beermoney programs are: Online platforms that pay small amounts of money for simple tasks like taking surveys, watching videos, testing apps, or completing offers. The term "beermoney" comes from earning enough for small extras like buying a beer, not full-time income.
@@ -2691,44 +2649,38 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - How this helps people facing homelessness: Can provide small but steady income without needing a fixed address, formal employment, or special skills. Requires internet access and a device (smartphone, tablet, or computer). Good for people who have irregular schedules or cannot commit to traditional work hours.
       - Getting started: Need reliable internet access, email address, and valid ID for most platforms. Start with highly-rated sites from the Reddit community rather than random online ads.
       - Sources: [beermoney.co](https://www.beermoney.co/), [coinbai.com](https://coinbai.com/blog/reddit-beermoney-tips-2025)
-   1. [**FlexJobs**](https://www.flexjobs.com/) — find remote jobs with flexible hours
+   1. [FlexJobs](https://www.flexjobs.com/) — find remote jobs with flexible hours
 
 ## <a id="education-job-skills-training-certification-tutoring-literacy">Education, Job Skills Training, Certification, Tutoring, Literacy</a>
 
-1. **Job Training and Career Development**
+1. Job Training and Career Development
    1. Ticket to Work Program: Free voluntary program for ages 18–64 receiving SSDI/SSI; provides career counseling, job training, placement services. Maintains medical benefits while working. Call [866-968-7842](tel:+1-866-968-7842) to verify eligibility.
-   1. [**SLO Partners**](https://slopartners.org/programs/) bootcamps to learn in-demand skills like dental assistant, hospitality, manufacturing. Website is cagey about how much it costs but says there is a financial assistance program for tuition.
-      - Location/Phone/Email: See [**SLO Partners**](Directory.md#SLO-Partners) in the [Directory](Directory.md)
-1. **Adult Education and GED Programs**
-   1. **San Luis Coastal Adult School**
-      - Location: See [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) in the [Directory](Directory.md)
+   1. [**SLO Partners**](Directory.md#SLO-Partners) [programs](https://slopartners.org/programs/) include bootcamps to learn in-demand skills like dental assistant, hospitality, manufacturing. Website is cagey about how much it costs but says there is a financial assistance program for tuition.
+1. Adult Education and GED Programs
+   1. [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School)
       - Services: Adult education programs, high school diploma courses, career preparation, [ESL classes](https://ae.slcusd.org/hsd-esl/english-as-a-second-language)
-      - Website: [ae.slcusd.org](https://ae.slcusd.org/)
-   1. [**Cuesta College Continuing Education**](https://www.cuesta.edu/academics/continuinged/index.html)
+   1. [Cuesta College Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html)
       - What's Available: *Free* California High School Equivalency Certificate (GED) test preparation classes in English and Spanish
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - **County-wide access** (pending human review): Programs available at three campuses—SLO Campus (Highway 1), North County Campus (2800 Buena Vista Dr., Paso Robles), and South County Campus (Corner of Orchard St. & W. Cherry Ave., Arroyo Grande)
+      - County-wide access (pending review): Programs available at three campuses—SLO Campus (Highway 1), North County Campus (2800 Buena Vista Dr., Paso Robles), and South County Campus (Corner of Orchard St. & W. Cherry Ave., Arroyo Grande)
       - Services: Computer-based test preparation, technology training, test-taking skills practice
       - Special features: Variety of programs throughout SLO County campuses and locations
-   1. **Lucia Mar Adult Education**
-      - Location: See [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) in the [Directory](Directory.md)
+   1. [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education)
       - What's Available: Free education for students 18+; High School Diploma courses; GED and US Citizenship test preparation; cosmetology school; ESL classes (partnership with Cuesta College)
       - Additional locations: Nipomo Learning Center, Oceano Learning Center
       - Special programs: US Citizenship Classes still accepting new students
-      - Website: [adulted.luciamarschools.org](https://adulted.luciamarschools.org/)
-1. **Higher Education and Professional Development**
-   1. [**Cal Poly Extended Learning (EPaCE)**](https://extended.calpoly.edu/)
+1. Higher Education and Professional Development
+   1. [Cal Poly Extended Learning (EPaCE)](https://extended.calpoly.edu/)
       - Services: Professional development certificates, non-credit courses, youth programs, international education
       - Note: Contact [805-756-2053](tel:+1-805-756-2053) or [extended@calpoly.edu](mailto:extended@calpoly.edu) to inquire about financial assistance or reduced-cost options for low-income individuals (specific scholarship/assistance information not available on website)
-   1. [**Cuesta College**](https://www.cuesta.edu/)
-      - **Monarch Dream Center**: Support services for undocumented students
+   1. [**Cuesta College**](Directory.md#Cuesta-College)
+      - Monarch Dream Center: Support services for undocumented students
       - Career services: Available through Career Connections office for students and potentially alumni
       - Eligibility: Career services appear primarily for enrolled students; community member access unclear
       - Contact: [CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu), [805-546-3252](tel:+1-805-546-3252), Building 5300 Room 5310 to inquire about non-student access
       - Community Programs: Fee-based, not-for-credit classes available to anyone with no admission requirements
-      - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - [**Career Training Programs**](https://careertraining.cuesta.edu/) (online) [855-520-6806](tel:+1-855-520-6806): expensive, but there seem to be [financial assistance options](https://careertraining.cuesta.edu/financial-assistance/) and e.g. deals for veterans and other government programs
-   1. [**A.T. Still University of Health Sciences**](https://www.atsu.edu/)
+      - [Career Training Programs](https://careertraining.cuesta.edu/) (online) [855-520-6806](tel:+1-855-520-6806): expensive, but there seem to be [financial assistance options](https://careertraining.cuesta.edu/financial-assistance/) and e.g. deals for veterans and other government programs
+   1. [A.T. Still University of Health Sciences](https://www.atsu.edu/)
       - Status: Moving Central Coast Physician Assistant program from Santa Maria to San Luis Obispo in Summer 2026
       - New campus: 65,000-square-foot building (formerly Mindbody headquarters)
       - Programs: 24-month master's Physician Assistant program focused on primary care for underserved communities
@@ -2736,114 +2688,96 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Target audience relevance: Limited direct services for homeless population; focus on training healthcare providers who may serve this population
       - Future potential: May expand health professions offerings and community health services after 2026 move
       - Sources: [noozhawk.com](https://www.noozhawk.com/a-t-still-university-to-move-central-coast-campus-from-santa-maria/)
-1. **Library Resources and Literacy Programs**
-   1. **SLO County Public Libraries**: [catalog.slolibrary.org](https://catalog.slolibrary.org/)
+1. Library Resources and Literacy Programs
+   1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
       - Services: Computer access, digital literacy classes, educational programs
-      - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
-      - **County-wide access** (pending human review): Branch libraries throughout SLO County including Arroyo Grande (temporary location during renovation), Atascadero, Cambria, Cayucos, Los Osos, Morro Bay, Nipomo, Oceano, Paso Robles, San Miguel, San Simeon, Santa Margarita, Shell Beach, and SLO
-   1. **Cal Poly Library**: [Robert E. Kennedy Library](https://localwiki.org/slo/Robert_E._Kennedy_Library)—public access available
-   1. **Little Free Libraries**: Community book sharing locations for "Take a Book, Share a Book"
-      - Locations: See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the [Directory](Directory.md)
-1. **Literacy and Tutoring Services**
-   1. **Literacy For Life**
-      - Location/Phone: See [**Literacy For Life**](Directory.md#Literacy-For-Life) in the [Directory](Directory.md)
+   1. Cal Poly Library: [Robert E. Kennedy Library](https://localwiki.org/slo/Robert_E._Kennedy_Library)—public access available
+   1. [**Little Free Libraries**](Directory.md#Little-Free-Libraries): Community book sharing locations for "Take a Book, Share a Book"
+1. Literacy and Tutoring Services
+   1. [**Literacy For Life**](Directory.md#Literacy-For-Life)
       - Services: Adult literacy tutoring, reading skills development, English language communication skills
       - Format: In-person one-on-one tutoring at Learning Centers
       - Mission: Empowering individuals by removing barriers to success through literacy
-      - Website: [literacyforlifeslo.org](https://www.literacyforlifeslo.org/)
-      - Hours: Monday–Thursday 9am–5pm
-      - How to apply: Call [805-541-4219](tel:+1-805-541-4219) or use [contact form](https://www.literacyforlifeslo.org/contact.php) to inquire about tutoring services
       - Location: Learning Centers (specific locations determined during intake) [Source: [literacyforlifeslo.org](https://www.literacyforlifeslo.org/contact.php)]
-   1. [**Lifelong Learners of the Central Coast**](https://www.lifelearnerscc.org/)
+   1. [Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/)
       - Services: Educational, personal growth, and cultural programs for retired and mature adults
       - Cost: $25 annual membership dues; $5 per session for members, $10 for non-members
       - How to register: Visit [lifelearnerscc.org/courses](https://www.lifelearnerscc.org/courses) for tickets and class registration
       - Target: Independent thinkers in volunteer community; "Where Curious Minds Gather"
       - Note: Low-cost volunteer-based model; specific scholarship information not available; contact organization directly for financial assistance options
-1. **ESL (English as a Second Language)**
-   1. **Cuesta College ESL Programs**
+1. ESL (English as a Second Language)
+   1. Cuesta College ESL Programs
       - Cost: Free classes with free childcare available
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
       - **County-wide access** (pending human review): ESL programs available at multiple campuses—contact SLO Campus ([805-592-9463](tel:+1-805-592-9463)) and North County Campus ([805-591-6273](tel:+1-805-591-6273)) for program availability; call M–Th 10am–7pm
       - Requirements: ESL assessment for level placement, orientation, CASAS testing
-   1. **The Literacy Connection** (SLO County Library)
-      - Services: Free volunteer-based ESL tutoring for adults
+   1. [**The Literacy Connection**](Directory.md#Literacy-Connection)
+      - Services: Free volunteer-based tutoring for adult literacy, ESL, family learning; virtual conversation groups on Thursdays (mornings 10:30am–12pm and evenings 5–6:30pm via Zoom)
       - Cost: Always free and confidential, no ID required
       - Contact: [805-781-5077](tel:+1-805-781-5077) or complete [online learner form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
       - Schedule: Flexible one-on-one or small group sessions; [virtual conversation group](https://forms.office.com/r/VwERjE3Qmj) also available
-   1. **Lucia Mar Adult Education**
+      - Source: [slolibrary.org/index.php/adults/tlc](https://www.slolibrary.org/index.php/adults/tlc)
+   1. Lucia Mar Adult Education
       - Cost: Free ESL classes for beginners
       - Locations: Nipomo Learning Center (190 E. Price St., Nipomo) & Oceano Community Center (1551 17th St., Oceano)
       - Partnership: With Cuesta College
       - Contact: [805-474-3000](tel:+1-805-474-3000) ext. 5811 or ext. 1224 (Nipomo) / ext. 1225 (Oceano)
       - Additional: US Citizenship preparation classes also available
-   1. **San Luis Coastal Adult School**
+   1. San Luis Coastal Adult School
       - Location: Morro Bay High School
       - Registration: [Pre-registration form available online](https://docs.google.com/forms/d/e/1FAIpQLScGDDpJ7J-WwHxph6QGMpsYUURdvkCWOkI9J-aGDGknXK928Q/viewform?usp=sf_link) [Source: ae.slcusd.org]
-   1. **The Literacy Connection** (SLO County Library Technology Learning Center)
-      - Services: Free volunteer-based tutoring for adult literacy, ESL, family learning; virtual conversation groups on Thursdays (mornings 10:30am–12pm and evenings 5–6:30pm via Zoom)
-      - Cost: Always free and confidential, no ID required
-      - Contact/Email: See [**The Literacy Connection**](Directory.md#Literacy-Connection) in the [Directory](Directory.md)
-      - Schedule: Flexible one-on-one or small group sessions
-      - Source: [slolibrary.org/index.php/adults/tlc](https://www.slolibrary.org/index.php/adults/tlc)
-1. **Specialized Skills Training and Certification**
-   1. **Digital Literacy Classes**: Computer skills training available through multiple organizations
-      - **The Literacy Connection** (SLO County Library): Free computer literacy tutoring as part of literacy goals; call [805-781-5077](tel:+1-805-781-5077) or complete [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
-      - **Lucia Mar Adult Education**: Free access to education for ages 18+; individualized instruction
-      - **San Luis Obispo Adult School**: Ongoing support, individualized instruction; register at any time
+1. Specialized Skills Training and Certification
+   1. Digital Literacy Classes: Computer skills training available through multiple organizations
+      - [**The Literacy Connection**](Directory.md#Literacy-Connection): Free computer literacy tutoring as part of literacy goals; call [805-781-5077](tel:+1-805-781-5077) or complete [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
+      - Lucia Mar Adult Education: Free access to education for ages 18+; individualized instruction
+      - San Luis Obispo Adult School: Ongoing support, individualized instruction; register at any time
       - Access: All programs offer free/low-cost options; contact organizations directly for current computer literacy class schedules
       - Source: [slolibrary.org](https://www.slolibrary.org/)
-   1. **Cosmetology Certification**: Full-service school through Lucia Mar Adult Education
+   1. Cosmetology Certification: Full-service school through Lucia Mar Adult Education
       - Cost: Free for all students ages 18+
       - Location: 1425 19th Street, Oceano, CA 93445
       - Contact: [805-474-3756](tel:+1-805-474-3756), [adulted.luciamarschools.org](https://adulted.luciamarschools.org/apps/pages/index.jsp?uREC_ID=768188&type=d&pREC_ID=2637431)
       - Additional services: High School Diploma courses, GED test prep, US Citizenship test prep, ESL classes (partnership with Cuesta College)
       - Note: Largest school district in SLO County; additional county scholarships may be available for related education [Source: https://adulted.luciamarschools.org/]
-1. **Community Education and Personal Development**
-   1. **SLO Parks & Recreation Classes**: [Activity guides and courses](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide)
-   1. **Toastmasters**: Public speaking and leadership development clubs in San Luis Obispo County:
-      - **SLO Toastmasters Club 83**: Meets Thursdays 6:30am (hybrid in-person and Zoom), 872 Higuera St, San Luis Obispo. Contact via [slotoastmasters.toastmastersclubs.org](https://slotoastmasters.toastmastersclubs.org/)
-      - **SLO Noontime Toastmasters Club (5204)**: Meets Tuesdays 12–1pm (hybrid), Mt. Carmel Lutheran Church, 1701 Fredericks St, San Luis Obispo. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204-)
-      - **SLO Motion Toastmasters Club**: Meets Mondays 12–1pm (alternating hybrid/Zoom), SLO City/County Library, 995 Palm St, San Luis Obispo. Contact via [slomotion.toastmastersclubs.org](https://slomotion.toastmastersclubs.org/)
-      - **Speakeasy Toastmasters Club**: SLO County Sheriff's Office, 356 N. Main St, Templeton. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00009797-00009797) (may have professional prerequisites)
-      - **Life Community Toastmasters**: Wednesdays 6:30–8:30pm, Life Community Church, 3770 Ruth Way, Templeton. Contact [805-712-0671](tel:+1-805-712-0671)
+1. Community Education and Personal Development
+   1. SLO Parks & Recreation Classes: [Activity guides and courses](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide)
+   1. Toastmasters: Public speaking and leadership development clubs in San Luis Obispo County:
+      - SLO Toastmasters Club 83: Meets Thursdays 6:30am (hybrid in-person and Zoom), 872 Higuera St, San Luis Obispo. Contact via [slotoastmasters.toastmastersclubs.org](https://slotoastmasters.toastmastersclubs.org/)
+      - SLO Noontime Toastmasters Club (5204): Meets Tuesdays 12–1pm (hybrid), Mt. Carmel Lutheran Church, 1701 Fredericks St, San Luis Obispo. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204-)
+      - SLO Motion Toastmasters Club: Meets Mondays 12–1pm (alternating hybrid/Zoom), SLO City/County Library, 995 Palm St, San Luis Obispo. Contact via [slomotion.toastmastersclubs.org](https://slomotion.toastmastersclubs.org/)
+      - Speakeasy Toastmasters Club: SLO County Sheriff's Office, 356 N. Main St, Templeton. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00009797-00009797) (may have professional prerequisites)
+      - Life Community Toastmasters: Wednesdays 6:30–8:30pm, Life Community Church, 3770 Ruth Way, Templeton. Contact [805-712-0671](tel:+1-805-712-0671)
       - Note: All clubs welcome guests and offer online attendance options; Division E covers Arroyo Grande, Grover Beach, SLO, Templeton, Paso Robles
       - Source: [toastmasters.org](https://www.toastmasters.org/find-a-club)
    1. [**U.C. Cooperative Extension - SLO County**](Directory.md#UC-Cooperative-Extension)
-      - Contact: See [**U.C. Cooperative Extension - SLO County**](Directory.md#UC-Cooperative-Extension) in the [Directory](Directory.md)
       - Programs: Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, horticulture
       - Cost: Varies by program (e.g., Forest Stewardship Workshop $60); many programs free or low-cost
       - Registration: Visit [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/) or call for specific program registration
-1. **Specialized Educational Support**
-   1. **Goodwill Central Coast**:
+1. Specialized Educational Support
+   1. [**Goodwill Stores**](Directory.md#Goodwill)
       - Services: Free, one-on-one, personalized financial coaching / financial literacy services; Digital Literacy Classes
-      - Locations: See [**Goodwill Stores**](Directory.md#Goodwill) in the [Directory](Directory.md)
-      - **County-wide service** (pending human review): Services available at retail locations in Atascadero, Grover Beach, Paso Robles, and SLO
+      - County-wide service (pending review): Services available at retail locations in Atascadero, Grover Beach, Paso Robles, and SLO
       - Financial Coaching Contact: Jaclyn Jauregui [jjauregui@ccgoodwill.org](mailto:jjauregui@ccgoodwill.org), [805-316-1811](tel:+1-805-316-1811)
       - Digital Literacy: [ccgoodwill.org/digital-literacy-classes](https://www.ccgoodwill.org/digital-literacy-classes/) or [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwill.org)
       - Note: Contact directly for information about attending digital literacy classes
    1. [**Outside Now**](Directory.md#Outside-Now)
-      - Location/Phone/Email/Hours: See [**Outside Now**](Directory.md#Outside-Now) in the [Directory](Directory.md)
       - What's Available: Multi-generational learning community offering nature-based programs, seasonal celebrations, rites of passage, and wilderness adventures; alternative education for at-risk youth and adults
-      - Website: [outsidenow.org](https://www.outsidenow.org/)
       - Cost: Contact organization directly for program costs and financial assistance options
-      - Source: [outsidenow.org](https://www.outsidenow.org/)
-   1. **CREEC Network**: [creec.org](https://www.creec.org/)—Educational resources
+   1. CREEC Network: [creec.org](https://www.creec.org/)—Educational resources
       - Resources: Educational networking and resource coordination
       - Access: Visit website for current educational resource connections
       - Target relevance: May provide connections to educational opportunities for adults
-   1. **[Family Care Network](https://fcni.org/)**
+   1. [**Family Care Network**](Directory.md#Family-Care-Network)
       - Educational services: Tutoring and academic support, Career & Education Support Services for current and former foster youth
       - Target population: Primarily serves youth and families impacted by trauma
-      - Location/Phone: See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
       - Note: Limited direct educational services for general adult homeless population—contact directly for eligibility and current programs
       - Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31638)
-   1. **[Cal Learn](https://cdss.ca.gov/cal-learn)** — for pregnant or parenting teens to help them finish high school or get an equivalant certificate
-1. **Important Notes**
+   1. [Cal Learn](https://cdss.ca.gov/cal-learn) — for pregnant or parenting teens to help them finish high school or get an equivalant certificate
+1. Important Notes
    - GED Testing: California uses both GED and [HiSET](https://hiset.org/california/) exams for high school equivalency; both available online and in-person
    - Free Programs: Most adult basic education and GED preparation programs are offered at no cost
    - Multilingual Support: Spanish-language GED classes and ESL programs available at multiple locations
-1. **Online Options**
+1. Online Options
    - [Alison.com](https://alison.com)—“free online courses with certificates & diplomas” (seems to be funded by advertising? accredited courses seem UK-based)
 
 ## <a id="free-and-low-cost-phone-services">Phones and Phone Service</a>
@@ -2859,74 +2793,58 @@ This program is for California residents with medically-certified limitations of
 
 ## <a id="internet-access--email--digital-access-assistance">Internet Access / Email / Digital Access Assistance</a>
 
-1. [**SLO Cal Careers**](https://slocalcareers.org/)
+1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center)
    - What's Available: Career counseling, training, job-search resources, computer access for individuals with limited access
-   - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
-   - **County-wide access** (pending human review): Locations in SLO (3450 Broad St. #103A and 3563 Empleo Street) and Paso Robles (534 Spring St.) for computer and internet access
+   - County-wide access (pending review): Locations in SLO (3450 Broad St. #103A and 3563 Empleo Street) and Paso Robles (534 Spring St.) for computer and internet access
    - Services: Workforce development, coding bootcamp scholarships ($13,495 value for income-eligible SLO County residents)
    - Eligibility: Available to all jobseekers; some programs have income requirements (CalWORKs, CalFRESH recipients prioritized for scholarships)
    - Note: Coding bootcamp information appropriately listed here under Internet/Digital Access; also cross-referenced in [Education section](#education-job-skills-training-certification-tutoring-literacy) under workforce development
-1. [**SLO County Public Libraries**](https://slolibrary.org/)
+1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
    - What's Available: Free public internet access via desktop PCs, WiFi, and Chromebooks; Full Office Suite on desktop computers; printing services (for a fee)
    - Digital services: CloudLibrary eBooks/audiobooks, Libby, Kanopy, and Hoopla digital apps; Brainfuse free online tutoring (K-12); Ask a Librarian online service
-   - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
-   - **County-wide access** (pending human review): Branch libraries throughout SLO County including Arroyo Grande, Atascadero, Cambria, Cayucos, Los Osos, Morro Bay, Nipomo, Oceano, Paso Robles, San Miguel, San Simeon, Santa Margarita, Shell Beach, and SLO
    - Eligibility: Anyone can use internet and printing services
-   - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/library/services/public-internet-access)
-1. **Free WiFi Locations**
-   - **County Government Buildings** (pending human review): Free Wi-Fi access available in all SLO County government buildings throughout the county including locations in Arroyo Grande, Atascadero, Morro Bay, Nipomo, Paso Robles, and SLO [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi)]
-   - **City of SLO**: Various public locations with WiFi access; check city's broadband plan for current hotspots [Source: [slocity.org](https://www.slocity.org/living/neighborhood/broadband)]
+1. Free WiFi Locations
+   - County Government Buildings (pending review): Free Wi-Fi access available in all SLO County government buildings throughout the county including locations in Arroyo Grande, Atascadero, Morro Bay, Nipomo, Paso Robles, and SLO <!-- Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi) -->
+   - City of SLO: Various public locations with WiFi access; check city's broadband plan for current hotspots <!-- Source: [slocity.org](https://www.slocity.org/living/neighborhood/broadband) -->
       - Best locations: Coffee shops (Starbucks, BlackHorse Espresso), restaurants (Firestone Grill), hotels, SLO County Regional Airport (terminal-wide free WiFi)
       - Network names: Vary by business (SLO-INN, Urbane Cafe Guest, IHOP Guest, San Luis Inn WiFi); passwords typically provided on-site
-      - WiFi finder: SLO Chamber of Commerce online WiFi map shows locations and access details; WiFi Map app lists 126+ hotspots in area [Source: https://www.wifimap.io/]
-1. **Community Organizations with Computer/Internet Access**
-   1. **5Cities Homeless Coalition Office**
+      - WiFi finder: SLO Chamber of Commerce online WiFi map shows locations and access details; WiFi Map app lists 126+ hotspots in area <!-- Source: https://www.wifimap.io/ -->
+1. Community Organizations with Computer/Internet Access
+   1. [**5Cities Homeless Coalition**](Directory.md#5CHC) office
       - What’s Available: Computer and internet access for clients
       - Services: Information and referral, coordinated entry services
-      - Location/Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
       - Website: [5chc.org/programs/information-and-referral-coordinated-entry](https://5chc.org/programs/information-and-referral-coordinated-entry)
-   1. **40 Prado Homeless Services Center**
+   1. [**40 Prado Homeless Services Center**](Directory.md#40-prado)
       - What’s Available: Computer and phone access for clients
       - Hours: call for current computer/phone access hours
-      - Location/Phone: See [**40 Prado Homeless Services Center**](Directory.md#40-prado) in the [Directory](Directory.md)
-1. **Email and Communication Services**
-   1. **Organizations Providing Digital Communication Assistance**:
-      - **SLO County Public Libraries**: Free email setup, online application assistance; visit any branch location county-wide or call main library [805-781-5989](tel:+1-805-781-5989)
-         - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
-         - **County-wide access** (pending human review): Available at all branch libraries throughout the county
-      - **5Cities Homeless Coalition**: Computer access and assistance with online applications; [805-574-1638](tel:+1-805-574-1638)
-      - **SLOCal Careers Center**: Help with CalJOBS registration, online job applications; [805-286-8530](tel:+1-805-286-8530)
-         - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
+1. Email and Communication Services, Organizations Providing Digital Communication Assistance:
+   1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries): Free email setup, online application assistance; visit any branch location county-wide or call main library [805-781-5989](tel:+1-805-781-5989)
+   1. [**5Cities Homeless Coalition**](Directory.md#5CHC): Computer access and assistance with online applications; [805-574-1638](tel:+1-805-574-1638)
+   1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center): Help with CalJOBS registration, online job applications; [805-286-8530](tel:+1-805-286-8530)
 
 ## <a id="charging-stations-for-devices">Charging Stations for Devices</a>
 
-1. **Homeless Service Centers with Charging Access**
-   1. **5Cities Homeless Coalition Office**
+- Homeless Service Centers with Charging Access
+   1. [**5Cities Homeless Coalition**](Directory.md#5CHC) office
       - What’s Available: Device charging stations for clients
       - Website/Location/Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-   1. **Shower the People (STP) Mobile Trailer**
+   1. [**Shower the People**](Directory.md#Shower-the-People)
       - What’s Available: Device charging capabilities at mobile shower locations
-      - Location/Hours/Email: See [**Shower the People**](Directory.md#Shower-the-People) in the [Directory](Directory.md)
-   1. **40 Prado Homeless Services Center**
+   1. [**40 Prado Homeless Services Center**](Directory.md#40-Prado)
       - What’s Available: Phone access for participants; call to inquire about device charging availability
-      - Location/Phone/Hours: See [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in the [Directory](Directory.md)
-1. **Public Libraries—Free Charging Access**
-   1. [**SLO County Public Libraries**](https://slolibrary.org/)
+- Public Libraries—Free Charging Access
+   1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
       - What's Available: Public computer stations with USB charging ports; electrical outlets available near seating areas
-      - Locations/Phone/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
-      - **County-wide access** (pending human review): Available at all branch libraries throughout SLO County
       - Access: Open to all members of the public during library hours
       - Additional: WiFi access for personal devices
-1. **Community Centers and Public Buildings**
-   1. **Workforce Development Centers**
-      - **SLOCal Careers Center**: Computer stations with charging access during business hours
-         - Locations/Phone/Email/Hours: See [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) in the [Directory](Directory.md)
-   1. **County Government Buildings**
+- Community Centers and Public Buildings
+   1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center): Computer stations with charging access during business hours
+   1. County Government Buildings
       - What’s Available: Public seating areas with electrical outlets in most county buildings
       - Access: During regular business hours; public areas only
-1. **Alternative Charging Options**
-   - **Verified Coffee Shops with WiFi/Charging**: Scout Coffee Co. (1130 Garden St), Kreuzberg Coffee Company (685 Higuera St), BlackHorse Espresso & Bakery (3590 Broad St Ste 150)
-   - **Starbucks Locations**: Downtown (17 Chorro St), Madonna Road (253 Madonna Rd); note some Starbucks locations have covered outlets to prevent device charging
+- Alternative Charging Options
+   - Verified Coffee Shops with WiFi/Charging: Scout Coffee Co. (1130 Garden St), Kreuzberg Coffee Company (685 Higuera St), BlackHorse Espresso & Bakery (3590 Broad St Ste 150)
+   - Starbucks Locations: Downtown (17 Chorro St), Madonna Road (253 Madonna Rd); note some Starbucks locations have covered outlets to prevent device charging
    - Note: Call ahead to confirm outlet availability; policies vary by location [Source: https://downtownslo.com/]
 
 ## <a id="resources-specific-to-particular-subgroups">Resources Specific to Particular Subgroups:</a>
@@ -2947,24 +2865,21 @@ This program is for California residents with medically-certified limitations of
    1. [Veterans Connect](https://slolibrary.org/index.php/vets)
    1. American Legion
       - [805-543-6445](tel:+1-805-543-6445) / 1661 Mill St., SLO
-   1. **Central Coast Veterans Helping Veterans**
-      - Phone/Contact: See [**Central Coast Veterans Helping Veterans**](Directory.md#Central-Coast-Veterans-Helping-Veterans) in the [Directory](Directory.md)
-   1. **Central Coast Veterans Services Collaborative**
-      - Phone/Contact: See [**Central Coast Veterans Services Collaborative**](Directory.md#Central-Coast-Veterans-Services-Collaborative) in the [Directory](Directory.md)
+   1. [**Central Coast Veterans Helping Veterans**](Directory.md#Central-Coast-Veterans-Helping-Veterans)
+   1. [**Central Coast Veterans Services Collaborative**](Directory.md#Central-Coast-Veterans-Services-Collaborative)
    1. Department of Veterans Affairs / HUD-VASH program
       - 1288 Morro St. #200, SLO
 1. Seniors
    1. Central Coast Commission for Senior Citizens
    1. Refer people out to the seniors’ resource guide
 1. People in immigration/resident alien/naturalization process
-   1. **Immigrant Legal Defense (ILD)** at Cal Poly DREAM Center
+   1. [**Immigrant Legal Defense (ILD)**](Directory.md#Immigrant-Legal-Defense)
       - Services: Free, confidential immigration legal services including deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications
       - Cost: Free
       - Eligibility: No specific restrictions stated; services available to all
-      - Location/Access: See [**Immigrant Legal Defense (ILD)**](Directory.md#Immigrant-Legal-Defense) in the [Directory](Directory.md)
       - How to access: Schedule appointments via Calendly link on Dream Center website
       - Source: [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
-   1. **805 Immigrant**
+   1. 805 Immigrant
       - Website: [sites.google.com/causenow.org/ccirc/home](https://sites.google.com/causenow.org/ccirc/home?authuser=0)
       - Mission: A coalition in San Luis Obispo, Santa Barbara, and Ventura counties that protects and advocates the rights of immigrant communities in the Central Coast
       - Services:
@@ -2974,14 +2889,13 @@ This program is for California residents with medically-certified limitations of
          - Emergency support guidance for detained individuals
       - Alert/Emergency Number: [805-870-8855](tel:+1-805-870-8855)
       - Source: [sites.google.com/causenow.org/ccirc/home](https://sites.google.com/causenow.org/ccirc/home?authuser=0)
-   1. **Central Coast Coalition for Undocumented Student Success**
-      - Contact: See [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) in the [Directory](Directory.md)
+   1. [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success)
       - Coverage: Northern Santa Barbara and San Luis Obispo Counties
       - Services: DREAM Centers (safe spaces), legal support (DACA/asylum/citizenship), financial aid guidance, mental health counseling
       - Cost: Free legal services and counseling
       - Cross-reference: Also listed in [Legal help & mediation section](#legal-help--mediation-crime-victim-protection)
       - Website: [ccc-uss.org](https://www.ccc-uss.org/)
-   1. **[SLO County UndocuSupport](https://www.sloundocusupport.org/)**
+   1. [SLO County UndocuSupport](https://www.sloundocusupport.org/)
       - Mission: Financial support for undocumented immigrant families during crises
       - Eligibility: SLO County undocumented immigrants and mixed-status families experiencing loss of housing, job, or income
       - Services: Bill payments, gift cards, direct funding based on individual family needs
@@ -2990,30 +2904,28 @@ This program is for California residents with medically-certified limitations of
       - Impact: Helped over 100 local families [Source: https://www.sloundocusupport.org/]
       - Phone: [805-543-2323](tel:+1-805-543-2323)
       - Email: [undocusupport@cfsloco.org](mailto:undocusupport@cfsloco.org)
-   1. **SLO4Home** (Refugee Resettlement)
-      - Email: See [**SLO4Home**](Directory.md#SLO4Home) in the [Directory](Directory.md)
+   1. [**SLO4Home**](Directory.md#SLO4Home) (Refugee Resettlement)
       - Services: Refugee resettlement, one-year support program for self-sufficiency, partnership with Church World Services
       - Target: Afghan refugees and other refugee families establishing new lives on Central Coast
       - Mission: Coalition of religious organizations, veterans, and community activists
       - Eligibility: Serves legally immigrated families and refugees on the Central Coast. Provides ongoing assistance and advocacy for refugee families in housing, transportation, job search, language support, and education.
       - Website: [slo4home.org](https://www.slo4home.org/)
-   1. **[Catholic Charities Diocese of Monterey](https://catholiccharitiesdom.org/)**
+   1. [**Catholic Charities**](Directory.md#CatholicCharities)
       - Immigration Services: Legal representation for refugees and asylum seekers, immigration guidance
-      - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
       - Coverage: Monterey, San Benito, San Luis Obispo, and Santa Cruz counties
       - Target: 30,000+ people served annually including refugees, asylum seekers, and immigrants
       - Additional: Emergency assistance, rent/utility help [Source: https://catholiccharitiesdom.org/]
-   1. **Unitarian Universalist Refugee and Immigrant Services Education (UURISE)**
+   1. Unitarian Universalist Refugee and Immigrant Services Education (UURISE)
       - Services: general immigration legal consultation, DACA renewal, naturalization (citizenship), green card renewal or replacement, FOIA, emergency safety planning, referrals to local partner agencies
       - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
-   1. **California Farmworker Foundation**
+   1. California Farmworker Foundation
       - Services: Education (Nueva Generación Scholarship program), health & wellness, civil assistance including immigration support
       - Note: Primarily serves farmworkers in Fresno, Kern, Kings, Madera, and Tulare Counties; contact them to confirm services available to SLO County residents
       - Phone: [661-778-0015](tel:+1-661-778-0015)
       - Email: [info@californiafarmworkers.org](mailto:info@californiafarmworkers.org)
       - Website: [californiafarmworkers.org](https://californiafarmworkers.org/)
       - Source: [californiafarmworkers.org](https://californiafarmworkers.org/)
-   1. **Mixteco Indigena Community Organizing Project (MICOP)**
+   1. Mixteco Indigena Community Organizing Project (MICOP)
       - Services: Immigration legal services (free to very low-cost immigration legal advice through MILA program), case management, referrals, language interpretation, parenting classes, support for indigenous survivors of domestic violence, traditional Indigenous wellness and healing practices, labor justice, health advocacy, literacy and adult education, reproductive health education
       - Target: Indigenous migrant communities, particularly Mixteco and other indigenous persons, as well as low-income persons
       - Coverage: Ventura, Santa Barbara, and San Luis Obispo Counties
@@ -3022,65 +2934,61 @@ This program is for California residents with medically-certified limitations of
       - Website: [mixteco.org](https://mixteco.org/)
       - Source: [mixteco.org](https://mixteco.org/), [immigrationadvocates.org](https://www.immigrationadvocates.org/nonprofit/legaldirectory/organization.720274-Mixteco_Indigena_Community_Organizing_Project_MICOP)
 1. Unaccompanied minors
-   1. **The Teen's Closet** (Children's Resource Network)
+   1. The Teen's Closet (Children's Resource Network)
       - Services: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents
          - Cross-reference: Also listed in [Where to find free or thrift-store clothing](#where-to-find-free-or-thrift-store-clothing)
       - Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
       - Coverage: San Luis Obispo and Santa Barbara Counties
-   - Website: childrensresourcenetwork.org/the-teens-closet.htm [Source: https://localwiki.org/slo/]
-   1. **[5CHC Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach)**
+      - Website: childrensresourcenetwork.org/the-teens-closet.htm [Source: https://localwiki.org/slo/]
+   1. [5CHC Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach)
       - Target: Unaccompanied youth aged 16–24
       - Services: Case management, one-on-one support for immediate needs, housing assistance, individualized Action Plans
       - Goals: Independent living, steady employment, continued education
       - Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
 1. Children, or people with children
    - See also [variety of pregnancy/postpartum resources here](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/pregnancy-postpartum-related-services)
-   1. **[Parent Connection of SLO County](https://sloparents.org/)**
+   1. [**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County)
       - Services: Parenting support resources and referrals, free workshops on child development and parenting strategies, individual caregiver support, navigation assistance for specialized services
       - Target: Parents and caregivers in SLO County, professionals working with families
-      - Phone/Email: See [**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) in the [Directory](Directory.md).
       - Cost: Free workshops and resources
       - Additional: Comprehensive resource directory, newsletters, social media presence (Facebook: ParentConnectionSLO, Instagram: @parentconnectionslo)
       - Note: Contact directly for specific eligibility requirements and service details [Source: [sloparents.org](https://sloparents.org/)]
-   1. **[Adventist Health](https://www.adventisthealth.org/central-coast/events)**
+   1. [Adventist Health](https://www.adventisthealth.org/central-coast/events)
       - Variety of maternity classes (e.g. breastfeeding, baby care, childbirth prep)
-   1. **[Child Development Resource Center](https://www.childrensresource.org/)**
+   1. [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center)
       - Target: Children ages 2–5 from traumatic circumstances including poverty, homelessness, foster care, domestic violence, child abuse
       - Services: Therapeutic early childhood education, mental health programs, school readiness curriculum, child nutrition (80% daily needs)
       - Programs: Four classrooms (toddler, preschool, pre-kindergarten), assessments every six months
       - Mission: Heal, support, and strengthen families for child abuse prevention and treatment [Source: https://www.childrensresource.org/]
-      - Website/location/phone/email: See [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) in the [Directory](Directory.md)
       - How to access: See [Enrollment Info](https://www.childrensresource.org/regristration) page.
-   1. **[Family Care Network](https://fcni.org/)**
+   1. [**Family Care Network**](Directory.md#Family-Care-Network)
       - Services: Foster care, mental health treatment, housing support, career/education support for children and families
          - Note: make sure this is cross-referenced in the "health: mental health" section, with additional details about those specific programs.
-      - Location/Phone: See [**Family Care Network**](Directory.md#Family-Care-Network) in the [Directory](Directory.md)
       - Housing: 9 apartment complexes (36 units), houses 130+ homeless families annually
       - Impact: Serves 1,500+ children, youth, families annually; 25,000+ served since 1987
       - Target: Children/families experiencing trauma, homelessness, foster care needs [Source: https://fcni.org/]
-   1. **[SLO Children's Museum](https://www.slocm.org/)**
+   1. [SLO Children's Museum](https://www.slocm.org/)
       - Services: Interactive educational exhibits for children ages 2–10, sensory-friendly events for autism spectrum families
       - Accessibility Programs: Museums for All (SNAP/EBT families get 4 admissions for $3 each), monthly free Moonlight Hours (3rd Thursday 5–7pm), free admission with SLO County library card
       - Contact: 1010 Nipomo Street, SLO
       - Target: Families with young children; special accommodation for sensory needs
       - Additional: Children 2 and under always free, senior/military discounts available [Source: https://www.slocm.org/]
       - Location: Downtown San Luis Obispo [Source: https://downtownslo.com/]
-   1. **[Children's Resource Network of the Central Coast](https://www.childrensresourcenetwork.org/)**
+   1. [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast)
       - Mission: Provide free clothing, school supplies and other basic resources to children in need on Central/Southern California coasts
       - Services: Free clothing, blankets, books, backpacks, school supplies, diapers, toiletries for disadvantaged children and at-risk youth
       - Programs: The Traveling Children's Closet (mobile store), Teen's Closet, Outreach Apparel (at Pacific Beach High School)
-      - Website/Mailing address/Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
       - Additional: All programs free of charge, no documents required, no referral necessary
       - Target: Homeless children and other children in need in SLO and Santa Barbara Counties
       - Impact: Served over 3,000 children since 2012 [Source: https://www.guidestar.org/profile/27-1473791]
-   1. **[Lucia Mar Unified School District Families in Transition](https://www.luciamarschools.org/)**
+   1. [Lucia Mar Unified School District Families in Transition](https://www.luciamarschools.org/)
       - Program: McKinney-Vento Homeless Assistance Act compliance for educational stability
       - Services: Immediate enrollment, school transportation, food program eligibility, educational stability for homeless children and youth
       - Target: Students who lack fixed, regular, adequate nighttime residence; serves approximately 1,800 homeless youth
       - Contact: Wendy Bruse, McKinney-Vento Liaison — [805-474-3000](tel:+1-805-474-3000;ext=1221) x1221, [wendy.bruse@lmusd.org](mailto:wendy.bruse@lmusd.org)
       - District Office: 602 Orchard Street, Arroyo Grande, [805-474-3000](tel:+1-805-474-3000)
       - Coverage: Largest school district in SLO County, serves nearly 10,000 students [Source: https://www.luciamarschools.org/]
-   1. **[S.A.F.E. South County Youth Coalition](https://scyouthcoalition.com/)**
+   1. [S.A.F.E. South County Youth Coalition](https://scyouthcoalition.com/)
       - Full Name: Services Affirming Family Empowerment - one-stop Family Resource Center
       - Mission: Community-based, school-linked, family-centered services to keep children safe, healthy, at home, in school, and out of trouble
       - Services: Basic needs (clothing, food), counseling, medical/dental assistance, school advocacy, parenting classes, support groups, case management
@@ -3094,52 +3002,50 @@ This program is for California residents with medically-certified limitations of
       - "Appointments are preferred; walk-ins are welcome"
       - Target: All individuals including birth/adoptive/resource families, kin-care providers, transitional aged youth, special needs population
       - History: Serving southern SLO County since 1995 [Source: https://5chc.org/]
-   1. **Assistance League of San Luis Obispo County**
-      - Location/Phone/Email: See [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) in the [Directory](Directory.md)
+   1. [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County)
       - Mission: Transforming lives and strengthening community by addressing essential needs of children and families
-      - [**Operation School Bell**](https://www.assistanceleague.org/San-Luis-Obispo-County/Operation-School-Bell/): Provides new school clothing to students in need to enhance educational experience and inspire hope for brighter future (get referral from school counselor or administrator?)
-      - **Access to Career Education (ACE)**: Educational and career opportunities support program for students
+      - [Operation School Bell](https://www.assistanceleague.org/San-Luis-Obispo-County/Operation-School-Bell/): Provides new school clothing to students in need to enhance educational experience and inspire hope for brighter future (get referral from school counselor or administrator?)
+      - Access to Career Education (ACE): Educational and career opportunities support program for students
       - Impact: Clothed 2,121 students in 2024-2025, returned over $409,000 to community through volunteer efforts
       - Philosophy: "When essential needs are met in the community, families will flourish"
       - Target: Students and families with essential needs
       - Source: [assistanceleague.org/san-luis-obispo-county](https://www.assistanceleague.org/san-luis-obispo-county/)
-   1. [**Coats for Kids of SLO County**](https://www.coatsforkidsslocounty.org/)
+   1. [Coats for Kids of SLO County](https://www.coatsforkidsslocounty.org/)
       - once-a-year distribution of cold-weather clothes in Paso Robles "to qualified North County families"
       - Phone: [805-703-1762](tel:+1-805-703-1762) (Barbie Butz)
       - Email: [coatsforkidsslocounty.org/contact](https://www.coatsforkidsslocounty.org/contact)
-   1. [**Toy Bank of Greater Paso Robles**](https://www.prtoybank.org/)
+   1. [Toy Bank of Greater Paso Robles](https://www.prtoybank.org/)
       - Email: [info@prtoybank.org](mailto:info@prtoybank.org)
       - [Register](https://www.prtoybank.org/registration) to get toys and clothing for children in November
-   1. **Toys for Tots**
-      - [**Atascadero/Templeton/Santa Margarita and points east**](https://Atascadero-Ca.toysfortots.org/)
+   1. Toys for Tots
+      - [Atascadero/Templeton/Santa Margarita and points east](https://Atascadero-Ca.toysfortots.org/)
          - Email: [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org)
          - Phone: [805-391-4430](tel:+1-805-391-4430)
          - [Request a toy](https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx)
-      - [**Cambria**](https://cambria-ca.toysfortots.org/)
+      - [Cambria](https://cambria-ca.toysfortots.org/)
          - Email: [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org)
          - Phone: [805-927-1876](tel:+1-805-927-1876)
-   1. [**Christmas Bicycle Giveaway**](https://safslo.org/Childrens-bike-giveaway/)
+   1. [Christmas Bicycle Giveaway](https://safslo.org/Childrens-bike-giveaway/)
       - bicycles refurbished by SLO County Jail prisoners
       - distributed by Sheriff’s Advisory Foundation to children under age 15
       - apply for a bike by contacting the resource officer at the child’s elementary or middle school
-   1. **Educational Continuity for Homeless Students (McKinney-Vento Act)**
+   1. Educational Continuity for Homeless Students (McKinney-Vento Act)
       - Rights: School of origin attendance (remain at same school during homelessness), immediate enrollment without documents, free transportation, comparable services
       - SLO County Coordinator: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), SLO County Office of Education, 3350 Education Drive, SLO
       - District Liaisons: Every SLO County school district has homeless/foster youth liaison:
-         - **Atascadero USD**: E.J. Rossi, [805-462-4200](tel:+1-805-462-4200)
-         - **Cayucos**: Liz Villalobos, [805-995-3694](tel:+1-805-995-3694)
-         - **San Luis Coastal USD (SLCUSD)**: Chris Dowler, [805-549-1218](tel:+1-805-549-1218;ext=01283) x01283, [cdowler@slcusd.org](mailto:cdowler@slcusd.org)
-         - **County Office**: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
+         - Atascadero USD: E.J. Rossi, [805-462-4200](tel:+1-805-462-4200)
+         - Cayucos: Liz Villalobos, [805-995-3694](tel:+1-805-995-3694)
+         - San Luis Coastal USD (SLCUSD): Chris Dowler, [805-549-1218](tel:+1-805-549-1218;ext=01283) x01283, [cdowler@slcusd.org](mailto:cdowler@slcusd.org)
+         - County Office: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
          Source: [slocoe.org](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
-      - **SAFE System of Care**: Comprehensive behavioral health services for children/youth ages 0–21 and families. Provides wraparound services, care coordination, family advocacy, crisis intervention, and support to keep kids in their homes and schools.
+      - SAFE System of Care: Comprehensive behavioral health services for children/youth ages 0–21 and families. Provides wraparound services, care coordination, family advocacy, crisis intervention, and support to keep kids in their homes and schools.
          - How to Access: Contact school counselors/homeless liaisons, SLO County Behavioral Health at [805-781-4700](tel:+1-805-781-4700), or dial 211 for 24/7 resource information. Services are family-driven and youth-guided with individualized treatment plans.
          - (See also "S.A.F.E. South County Youth Coalition" above for more details)
       - Services: Free school meals, special education, gifted programs; removes enrollment barriers and application deadlines [Source: https://www.slocoe.org/]
-   1. **[Child Care Resource Connection (CCRC)](https://capslo.org/child-care-resource-connection/)**
+   1. [**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection)
       - Services: Connects families with child care centers, family child care homes, after-school programs; child care payment assistance/subsidies for income-eligible families; toy lending library
       - Additional: child care provider training, within-child care food program, bilingual services (English/Spanish)
-      - Location/Phone/Hours/How to access: See [**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) in the [Directory](Directory.md)
-   1. **[CAPSLO Head Start](https://capslo.org/head-start-and-early-head-start/)**
+   1. [CAPSLO Head Start](https://capslo.org/head-start-and-early-head-start/)
       - Services: Comprehensive child development for ages 0-5; education, health, nutrition, behavioral health, social services, parent involvement
       - Target: Low-income families and children with special needs; school readiness curriculum
       - Locations: Multiple sites including Sunnyside (880 Manzanita Dr, Los Osos), High Street (480 High Street, SLO), Santa Rosa St (864 Santa Rosa St, SLO)
@@ -3150,7 +3056,7 @@ This program is for California residents with medically-certified limitations of
       - [childcare@capslo.org](mailto:childcare@capslo.org)
         - [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) for Migrant and Seasonal Head Start
       - Additional: [Migrant and Seasonal Head Start](https://capslo.org/migrant-and-seasonal-head-start/) also available; federally funded program [Source: https://capslo.org/]
-   1. **[Seneca Central Coast](https://senecafoa.org/senecacentralcoast/)** (formerly Kinship Center)
+   1. [Seneca Central Coast](https://senecafoa.org/senecacentralcoast/) (formerly Kinship Center)
       - Services: Foster care, adoption, mental health support, education; Resource Family Program for foster children and families
       - Mission: Help children and families through difficult times regardless of challenges or circumstances
       - Programs: Recruit, train, certify resource families; family reunification support; adoption finalization; ongoing post-placement support
@@ -3158,52 +3064,47 @@ This program is for California residents with medically-certified limitations of
       - Impact: Works with 110+ children annually to build family connections; operating since 1984 [Source: https://senecafoa.org/]
       - Services for Target Population: While primarily focused on foster care/adoption, offers culturally-responsive, trauma-informed mental health services for youth and families with complex needs, including "Todo Por Mi Familia" free confidential mental health service for families experiencing challenges like housing instability or migration stress.
       - Source: [senecafoa.org](https://senecafoa.org/)
-   1. **[Parents Helping Parents of San Luis Obispo County](https://www.phpslo.org/)**
+   1. [**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents)
       - Services: Family Resource and Empowerment Center for families with special needs children; lending libraries, support groups, Special Education information, IEP support
-      - Locations/Phone/Email/Hours: See [**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents) in the [Directory](Directory.md)
       - Target: Families with children with special needs throughout SLO County; Early Start families (birth to 3)
       - Additional: Bilingual services, toys/games, free support services; operated under UCP of San Luis Obispo County since 1990
-   1. **[The Link Family Resource Center](https://linkslo.org/)**
-      - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
+   1. [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center)
       - Services: Serves at-risk children, youth and families; direct services, referrals, information distribution, work experience, parent education, family advocacy
       - Mission: Link children, youth, families to resources for unique needs; keep children safe, healthy, at home, in school, out of trouble
       - Coverage: Throughout San Luis Obispo County with bilingual staff and multiple regional family advocates
-   1. **[Bright Futures](https://www.luciamarschools.org/apps/pages/index.jsp?uREC_ID=888752&type=d&pREC_ID=2540975)**
+   1. [Bright Futures](https://www.luciamarschools.org/apps/pages/index.jsp?uREC_ID=888752&type=d&pREC_ID=2540975)
       - Free before- and after-school daycare + supper for elementary/middle-school children in Lucia Mar Unified School District
       - Enrolls priority students first (Foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services), then it is first-come, first-served. Sometimes there are wait lists, even for priority students. Submit one application per child.
       - Applications available on website (different application per school)
-   1. **[Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/)**
+   1. [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/)
       - Covers 5-cities area
       - Locations/email/phone: See [Our Club Sites](https://www.bgcslo.org/our-clubs.html)
       - "Free, out-of-school enrichment programs for children ages 5 to 18 at schools in South SLO County" says [this page](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/childcare-parenting)
       - Seems to have a financial assistance program, and to partner with CAPSLO, but I couldn't find details on their website or in their parent handbook
-   1. **[SLO YMCA]**
+   1. [**SLO County YMCA**](Directory.md#SLO-County-YMCA)
       - Operates "school's out care" programs on school holidays and winter/spring breaks; and "day camps" during the summer
       - Also offers after-school daycare with "homework support, healthy snacks, physical activity such as games and sports, as well as arts, science and plenty of opportunities to try new things and make great friends."
-      - Location/Phone: See [**SLO County YMCA**](Directory.md#SLO-County-YMCA) in the [Directory](Directory.md)
-   1. **California Children's Services**
+   1. California Children's Services
       - [dhcs.ca.gov/services/ccs](https://dhcs.ca.gov/services/ccs)
       - [805-781-5527](tel:+1-805-781-5527)
       - [PublicHealth.CMS@co.slo.ca.us](mailto:PublicHealth.CMS@co.slo.ca.us)
       - 2925 McMillan Ave., #108, SLO
       - M–F 8am–5pm by appointment only
       - Arranges, directs, and pays for medical care, equipment, and rehabilitation for children and youth with certain medical conditions who are unable to pay. Parents apply by submitting an application at the local CCS office.
-   1. **Martha's Place Children's Center**
-      - Location/Phone/Hours: See [**Martha's Place Children's Center**](Directory.md#Marthas-Place-Childrens-Center) in the [Directory](Directory.md)
+   1. [**Martha's Place Children's Center**](Directory.md#Marthas-Place-Childrens-Center)
       - For children ages 0–5 with behavioral or mental health issues
       - Provides screening, assessment, referral, and treatment
       - Cost: free for people with Medi-Cal/CenCal coverage; sliding scale otherwise
       - Refer via [this form](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/forms-documents/client-applications,-intake-forms-and-handbooks/mental-health-specific-forms/mp-referral-form) ([español](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/forms-documents/client-applications,-intake-forms-and-handbooks/mental-health-specific-forms/remision-de-martha%E2%80%99s-place))
       - Website: [slocounty.ca.gov/MarthasPlace](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center)
-   1. [**Parent Participation classes**](https://ae.slcusd.org/parent-part) (San Luis Coastal Unified School District)
+   1. [Parent Participation classes](https://ae.slcusd.org/parent-part) (San Luis Coastal Unified School District)
       - classes on parenting skills for people with children from birth to 5 years old.
       - classes cost $155–225, but scholarships are available for people with low incomes or special circumstances
       - Location/Phone: See [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) in the [Directory](Directory.md)
 1. College Students (e.g. Cuesta, Cal Poly)
-   1. **[Front Porch](https://www.frontporchslo.org/)**
+   1. [**Front Porch**](Directory.md#Front-Porch)
       - Services: Community space for Cal Poly and Cuesta students; free coffee, tea, snacks; home-cooked meal on Wednesday nights
       - Also has outlets for charging phones & other devices
-      - Location/Phone/Email: See [**Front Porch**](Directory.md#Front-Porch) in the [Directory](Directory.md)
       - Mission: Create environment for students to build genuine relationships; welcoming to all students without obligation
       - Serves 400+ faculty, coaches, students daily; Wednesday nights draw 200+ students
       - Eligibility: Open to "students from all walks of life without obligation" - no explicit requirement to be enrolled at Cal Poly or Cuesta, welcomes all who want to study, get coffee, or meet people.
@@ -3214,9 +3115,7 @@ This program is for California residents with medically-certified limitations of
       - Serves people with epilepsy, intellectual disability, autism, cerebral palsy
       - "Provides free assessment and diagnosis for children believed to have a developmental disability"
       - Lots of programs
-   1. **Central Coast Autism Spectrum Center**
-      - Phone/Email: See [**Central Coast Autism Spectrum Center**](Directory.md#Central-Coast-Autism-Spectrum-Center) in the [Directory](Directory.md)
-      - Website: [sloautism.org](https://sloautism.org/)
+   1. [**Central Coast Autism Spectrum Center**](Directory.md#Central-Coast-Autism-Spectrum-Center)
    1. Center for Autism & Related Disorders
       - Location/phone/email/hours/etc.: See [**Center for Autism & Related Disorders**](Directory.md#CARD) in the [Directory](Directory.md)
       - Offers treatment to children and adolescents who have been diagnosed with autism and related disorders.
@@ -3225,25 +3124,13 @@ This program is for California residents with medically-certified limitations of
       - Has a [list of ways people can pay for services](https://centerforautism.com/services/parent-resources/additional-funding/)
    1. Alzheimer's Association / Family Caregiver Support Groups
 1. GLBTQ
-   1. **GALA Pride & Diversity Center**
-      - Contact: See [**GALA Pride & Diversity Center**](Directory.md#GALA) in the [Directory](Directory.md)
-      - Website: [galacc.org](https://www.galacc.org/)
+   1. [**GALA Pride & Diversity Center**](Directory.md#GALA)
       - Mission: Supports and empowers people of all sexual orientations, gender identities, and expressions to strengthen and unite the Central Coast community
-      - Services:
-         - Support groups: Trans/Genderqueer Support Group, Stand Out (Parents/Families of LGBTQ+ youth), Trans Youth Support Group (ages 11–18), Senior Social, LGBTQ+ Alcoholics Anonymous
-         - LGBTQ-affirming therapy services (bilingual therapist available)
-         - SLO ACCEPTance Project: trains mental health professionals to provide queer and trans-affirming services
-         - Annual Pridefest celebration (May–June)
-      - Hours: M–F 8am–5pm
-      - Phone: [805-541-4252](tel:+1-805-541-4252)
-      - Source: [galacc.org](https://www.galacc.org/)
-   1. **TranzCentralCoast**
-      - Contact: See [**TranzCentralCoast**](Directory.md#TranzCentralCoast) in the [Directory](Directory.md)
-      - Website: [tranzcentralcoast.org](https://www.tranzcentralcoast.org/)
+      - Support groups: Trans/Genderqueer Support Group, Stand Out (Parents/Families of LGBTQ+ youth), Trans Youth Support Group (ages 11–18), Senior Social, LGBTQ+ Alcoholics Anonymous
+      - LGBTQ-affirming therapy services (bilingual therapist available)
+   1. [**TranzCentralCoast**](Directory.md#TranzCentralCoast)
       - Mission: Uses outreach and advocacy to help transgender and gender-diverse people live authentic, productive, and happy lives in a safe and affirming community
       - Services: Trans* Youth Support Group (meets 2nd and 4th Tuesday of every month)
-      - Phone: [805-242-3821](tel:+1-805-242-3821)
-      - Source: [tranzcentralcoast.org](https://www.tranzcentralcoast.org/)
 
 ## <a id="peer-support-groups">Peer Support Groups</a>
 
@@ -3269,8 +3156,8 @@ This program is for California residents with medically-certified limitations of
    - Low-Cost: Cambria classes at $10 drop-in (yoga, pilates, tai chi)
    - Equipment: Most studios have mats, water bottles, towels available for purchase/rent
    - Contact: City Parks & Recreation [805-781-7300](tel:+1-805-781-7300) for current schedules [Source: https://www.slocity.org/, https://downtownslo.com/]
-   - **Community Yoga Classes**: yoga studios sometimes offer affordable options and community-focused classes:
-      - **The Center Yoga Studio** ([805-598-7100](tel:+1-805-598-7100)): Contact to verify current community class offerings and affordable options. (Currently doing a 1-hour community yoga class at 5:30pm on Mondays)
+   - Community Yoga Classes: yoga studios sometimes offer affordable options and community-focused classes:
+      - The Center Yoga Studio ([805-598-7100](tel:+1-805-598-7100)): Contact to verify current community class offerings and affordable options. (Currently doing a 1-hour community yoga class at 5:30pm on Mondays)
          - "This class is inclusive and intended to be accessible to all. Please bring a yoga mat. Mats available to rent at the studio for $2. For non-members, a sliding scale donation of $5-$25 is requested.… If the minimum donation is not in your budget or you'd prefer to make a cash donation at the studio, please send an email to <hello@thecenterslo.com> and we'll get you signed up." Source: [thecenterslo.com](https://thecenterslo.com/)
 1. [YMCA](https://www.sloymca.org/)
    - Location/Phone: See [**SLO County YMCA**](Directory.md#SLO-County-YMCA) in the [Directory](Directory.md)
@@ -3279,30 +3166,26 @@ This program is for California residents with medically-certified limitations of
 1. [Bike happenings](https://localwiki.org/slo/Free_Events)
 1. [SLO Skate Park](https://sloskatepark.wordpress.com/)
 1. Rec centers and Senior centers and Community centers
-   - **City of SLO Facilities**: 23 parks (106 acres) with lighted basketball/pickleball courts, tennis courts, swimming pools, volleyball courts, skate parks, soccer/softball fields, playgrounds, trails, putting greens
+   - City of SLO Facilities: 23 parks (106 acres) with lighted basketball/pickleball courts, tennis courts, swimming pools, volleyball courts, skate parks, soccer/softball fields, playgrounds, trails, putting greens
    - Key Locations: 995 Palm Street SLO (capacity 100+, conference rooms, kitchen), 680 Industrial Way
    - County Parks: Lopez Lake (boating, fishing, camping, biking), various trails, golf courses, campgrounds, pools, picnic sites
       - Phone/Email: See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
    - Contact: Parks & Recreation [805-781-7300](tel:+1-805-781-7300), SLO Swim Center [www.sloswimcenter.org](https://www.sloswimcenter.org), rainy day closures [805-781-7301](tel:+1-805-781-7301)
    - Registration: Online at [apm.activecommunities.com/sloparksandrec](https://apm.activecommunities.com/sloparksandrec) [Source: https://www.slocity.org/, https://slocountyparks.com/]
-   - [**SLO Senior Center**](Directory.md#SLO-Senior-Center): See [**SLO Senior Center**](Directory.md#SLO-Senior-Center) in the [Directory](Directory.md)
-   - **Damon-Garcia Sports Complex**: 680 Industrial Way, SLO, [805-781-7222](tel:+1-805-781-7222)
+   - [**SLO Senior Center**](Directory.md#SLO-Senior-Center)
+   - Damon-Garcia Sports Complex: 680 Industrial Way, SLO, [805-781-7222](tel:+1-805-781-7222)
       - Facilities: 4 full-size soccer fields (can be reconfigured into 7 smaller fields), rugby fields, concession stand, restrooms
       - Hours: Daily 8am–10pm (reservations required, no unpermitted play allowed)
       - Use: Competitive soccer/rugby play, tournaments; managed by Parks & Recreation
-   - **Five Cities Recreation Centers**:
+   - Five Cities Recreation Centers:
       - [**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services)
-        - Location/Phone/Email/Hours: See [**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) in the [Directory](Directory.md)
       - [**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services)
-        - Location/Phone: See [**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services) in the [Directory](Directory.md)
         - Hours: 9am–4pm (call ahead for walk-in services)
       - [**Pismo Beach Recreation Division**](Directory.md#Pismo-Beach-Recreation-Division)
-        - Location/Phone/Email: See [**Pismo Beach Recreation Division**](Directory.md#Pismo-Beach-Recreation-Division) in the [Directory](Directory.md)
         - Programs: Activity guides available, Junior Lifeguard program
       - Sources: [arroyogrande.org](https://www.arroyogrande.org/168/Recreation-Services), [grover.org](https://www.grover.org/141/Community-Services), [pismobeach.org](https://www.pismobeach.org/73/Recreation)
 1. Parks & Rec departments
    1. [**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation)
-      - Location/Phone/Email: See [**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) in the [Directory](Directory.md)
 
 ## <a id="pet-care-and-pet-supplies">Pet Care and Pet Supplies</a>
 
