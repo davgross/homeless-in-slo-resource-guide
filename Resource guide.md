@@ -1450,14 +1450,50 @@ The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city wi
 Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
 Ask them about options for people with low incomes.
 
+### Poison Oak
+
+<!-- To-do: add some characteristic photographs showing the variety of leaf shapes/colors. These must be licensed (e.g. creative commons) with usage conditions respected -->
+
+Poison oak is a common plant in SLO County and grows everywhere from shaded wet creekbeds to dry sunny hillsides.
+It is a shrub or vine and sometimes also climbs trees and so can appear to be tree branches.
+Its leaves appear in groups of three, but they can have a variety of shapes and colors (dark to pale green, pale orange, bright red).
+The plants sometimes also display clusters of small green, pale, or red berries.
+
+The plant exudes an oil that causes a skin rash in people who touch it.
+You do not have to touch the plant to be affected: you just need to touch the oil, which can rub off onto clothing, pet fur, or other items.
+If you have been near a fire in which poison oak plants were burned, you may be exposed to the oil through the smoke.
+You can prevent the rash by washing your skin thoroughly soon after exposure and by washing any clothing or other items that may be carrying the oil.
+Rubbing alcohol or detergent soaps can be helpful in removing oils.
+
+The rash appears several hours or even a few days after exposure.
+It is typically very itchy, and sometimes blisters.
+You can treat the rash with over-the-counter steroid (such as hydrocortisone) creams, or calamine lotion.
+
+If you have trouble breathing or swallowing, you may have inhaled some oils (for example from smoke) and you may be experiencing internal swelling.
+In such a case you should seek medical attention.
+
+### Sunburn
+
+Sunburn is painful.
+It also can make you fatigued and more susceptible to infection.
+In the long run it can put you at higher risk of developing skin cancer.
+
+Homeless people are more prone to sunburn because they have fewer options to escape the mid-day sun.
+You can reduce your risk of sunburn by finding shady places to rest during the day, by wearing more thoroughly-covering clothing like long-sleeved shirts and broad-brimmed hats, and by applying sunscreen.
+Ask homeless service providers if they have any sunscreen they can give you. Sometimes they do.
+
+> See the [Clothing](#where-to-find-free-or-thrift-store-clothing) section of this guide for some tips on where to find free or low-cost clothing.
+
+If you develop a sunburn, you can get some relief with over-the-counter salves and creams, or just by keeping the area moist (perhaps with a dampened cloth).
+If you have blisters that break, keep the area clean and covered with a bandage.
+If you notice increasing redness that spreads beyond the area of the burn, or pus, or if you develop a fever, seek medical care as this may indicate an infection.
+
 <!--
 ### Uncategorized / Needs Research
 
 1. Self-help tips
    1. First aid, wound care
    1. Tips for extreme hot/cold/wet weather
-   1. How to identify, avoid, treat poison oak
-   1. Tips for avoiding / treating sunburn
 1. Weight loss?
 1. Health education (e.g. CPR training, overdose prevention training)?
    - **American Red Cross**: Offers CPR training in California with 2-year certification meeting OSHA requirements; in-person, blended learning, and online options
