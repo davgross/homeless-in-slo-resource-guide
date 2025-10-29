@@ -76,7 +76,7 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [Emergency Care](#emergency-care)
    1. [Urgent Care Options](#urgent-care)
    1. [Health Insurance](#health-insurance)
-   1. [Transportation to Medical Appointments](#transportation-to-medical-appointments)
+   1. [Transportation to Medical Appointments](#transportation-to-medical-appointments) <!-- Subsection actually in Transportation section -->
    1. [Medical and Assistive Devices](#medical-and-assistive-devices)
    1. [Prescription Medicines](#prescription-medicines)
    1. [Dental Care](#dental-care)
@@ -86,6 +86,9 @@ If you would like to suggests corrections or improvements, or if you would like 
    1. [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation)
    1. [Chiropractic Treatment](#chiropractic-treatment)
    1. [Resources for Specific Populations](#medical-resources-specific-populations)
+   1. [Fitness](#fitness)
+   1. [Poison Oak](#poison-oak)
+   1. [Sunburn](#sunburn)
 1. [Recovery, Harm Reduction, and Other Substance-Related Issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
    1. [Naloxone / Narcan](#naloxone-narcan)
    1. [Tobacco / Nicotine](#tobacco-nicotine)
@@ -1438,7 +1441,7 @@ The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Av
 
 [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a women’s mobile health unit.
 
-### Fitness
+### <a id="fitness">Fitness</a>
 
 There are free, outdoor fitness courts with exercise equipment at Emerson Park in SLO (Pismo St. & Nipomo St.), and behind French Hospital in SLO (along the bike path between Breck St. and the French Hospital parking lot).
 The “Vita Fitness Courses” in Meadow Park (between Corrida Drive and South Street in SLO) and around Laguna Lake in SLO have some stations with rudimentary equipment that are designed for fitness exercises.
@@ -1450,7 +1453,7 @@ The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city wi
 Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
 Ask them about options for people with low incomes.
 
-### Poison Oak
+### <a id="poison-oak">Poison Oak</a>
 
 <!-- To-do: add some characteristic photographs showing the variety of leaf shapes/colors. These must be licensed (e.g. creative commons) with usage conditions respected -->
 
@@ -1472,7 +1475,7 @@ You can treat the rash with over-the-counter steroid (such as hydrocortisone) cr
 If you have trouble breathing or swallowing, you may have inhaled some oils (for example from smoke) and you may be experiencing internal swelling.
 In such a case you should seek medical attention.
 
-### Sunburn
+### <a id="sunburn">Sunburn</a>
 
 Sunburn is painful.
 It also can make you fatigued and more susceptible to infection.
@@ -1661,6 +1664,11 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
 
 ### <a id="hospice-and-palliative-care">Hospice and Palliative Care Services</a>
 
+Palliative care is medical treatment that aims to relieve pain and suffering, perhaps alongside medical treatment that hopes to cure or treat some health problem.
+
+Hospice care is meant to make the process of dying less uncomfortable, and is meant for people who do not have realistic hopes of being cured and living long.
+Typically this means they are in their last six months of life.
+
 [**Hospice SLO**](Directory.md#Hospice-SLO) includes non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, and end-of-life companion support.
 All services are provided at no charge (they rely entirely on community donations).
 These services are open to San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life.
@@ -1677,30 +1685,23 @@ They accept Medicare and Medi-Cal.
 They also have financial assistance programs that make hospice treatment free for people below 250% of the federal poverty level, and discounted for people below 400% of the federal poverty level (call [888-488-7667](tel:+1-888-488-7667) or [805-542-6321](tel:+1-805-542-6321) for details).
 They are located at 4555 El Camino Real #A, are open M–F 8am–5pm, and can be reached by phone at [805-434-1427](tel:+1-805-434-1427) or [800-549-9609](tel:+1-800-549-9609).
 
+[**Medi-Cal**](Directory.md#Medi-Cal) ([**CenCal**](Directory.md#CenCal)) recipients who have a life expectancy of six months or less can choose to receive Medi-Cal covered hospice care in lieu of ordinary medical coverage.
+Medi-Cal (CenCal) also covers palliative care as part of its ordinary medical coverage.
+
+The [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program) provides shelter to terminally ill people who have need of housing so that they can die in the dignity and stability of housing with the care of hospice.
+
+Hospice care is part of the Veterans Health Administration (VHA)’s standard medical benefits package.
+If you are a veteran who is enrolled with the VHA, and you have a clinical need for end-of-life hospice care, you can get this without a copay through the VHA.
+Contact the local [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) or call the national department of Veterans Affairs at [800-827-1000](tel:+1-800-827-1000).
+
+<!--
 ### Uncategorized / Needs Research
 
-1. **Twin Cities Community Hospital (Adventist Health)**: Palliative care services available; 122-bed acute care hospital serving North County. Accepts Medicare, Medi-Cal, and most insurance. Location: 1100 Las Tablas Rd., Templeton. Phone: [805-434-3500](tel:+1-805-434-3500) (24/7). Source: [vituity.com](https://www.vituity.com/locations/twin-cities-community-hospital/)
-1. **VA Hospice Benefits**: 100% covered for all enrolled veterans at no cost; does NOT require service-connected disability; care can be provided in any setting, not just VA facilities. Contact SLO VA Clinic at [805-543-1001](tel:+1-805-543-1001) or VA general line at [800-827-1000](tel:+1-800-827-1000). Source: [va.gov](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
-1. **Medi-Cal Hospice Benefit**: Comprehensive hospice coverage for terminally ill Medi-Cal beneficiaries (life expectancy 6 months or less); typically free for eligible patients. Apply for Medi-Cal at [coveredca.com](https://www.coveredca.com/) or [benefitscal.com](https://benefitscal.com/). Source: [dhcs.ca.gov](https://www.dhcs.ca.gov/services/medi-cal/Pages/Hospice-Information.aspx)
 1. **Grief Support Groups - North County**:
    - Hospice SLO County groups in Paso Robles (free 6-week sessions; contact [805-544-2266](tel:+1-805-544-2266)). Source: [hospiceslo.org](https://hospiceslo.org/support-groups/paso-robles)
    - Central Coast Home Health grief groups at Paso Senior Center, 270 Scott Street, Paso Robles (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
    - GriefShare at First Baptist Church Paso Robles (13-week biblical support group; contact Sandy Garman at [805-423-0476](tel:+1-805-423-0476)). Source: [griefshare.org](https://www.griefshare.org/)
-1. [**Medically Fragile Homeless Program**](https://cfsslo.org/#mfh)
-   - Services: shelter for terminally ill persons who have need of housing to allow the person to die in the dignity and stability of housing with the care of hospice
-   - Eligibility: homeless people in SLO County
-   - Access: via [**Adult Protective Services**](Directory.md#Adult-Protective-Services); or via a referral from CalWORKs (another source says "through Social Services or APS")
-   - Program Status: Program is currently active as of 2025; referrals processed through [**Adult Protective Services**](Directory.md#Adult-Protective-Services) and CalWORKs families through HSP Case Managers
-1. [**CenCal Health Palliative Care Program**](https://www.cencalhealth.org/)
-   - Eligibility: Medi-Cal beneficiaries (not Medicare/Medi-Cal dual-eligible) without age restrictions
-   - Services: Patient and family-centered care focused on quality of life, symptom management, addressing physical, emotional, social, and spiritual needs
-   - Contact: [877-814-1861](tel:+1-877-814-1861) for CenCal Health member services
-   - Alternative URL: Member handbook available at [cencalhealth.org/members/member-handbook/](https://www.cencalhealth.org/members/member-handbook/) with more details
-1. [**San Luis Obispo VA Clinic**](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
-   - Services: Palliative care for pain reduction and symptom control (nausea, etc.)
-   - Eligibility: Veterans enrolled in VA healthcare
-   - Contact: San Luis Obispo VA Clinic, [805-543-1001](tel:+1-805-543-1001); palliative care available through VA Greater Los Angeles Healthcare System
-   - Note: Contact clinic directly for specific palliative care referrals and services
+-->
 
 ### <a id="advance-directives">Advance Directives</a>
 
@@ -1721,17 +1722,17 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ### Uncategorized / Needs Research
 
-1. **California POLST Program**: For people with serious illness, POLST (Physician Orders for Life-Sustaining Treatment) is a medical order form signed by your healthcare provider that documents specific treatment wishes. Free forms downloadable in 13 languages at [capolst.org](https://capolst.org/). For assistance completing POLST forms, contact Hospice SLO at [805-544-2266](tel:+1-805-544-2266) or your healthcare provider. Must be printed on bright pink paper to be valid. Source: [capolst.org](https://capolst.org/)
-1. **California Attorney General Advance Directive Form**: Official state-approved form combining medical power of attorney and living will; free download at [oag.ca.gov/consumers/general/adv_hc_dir](https://oag.ca.gov/consumers/general/adv_hc_dir). Source: [eforms.com](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/)
-1. **AARP Advance Directive Forms**: Free California-specific advance directive forms at [aarp.org/caregiving/financial-legal/free-printable-advance-directives/](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/). Source: [aarp.org](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/)
-1. **Witness/Notary Requirements**: California advance directives must be signed by TWO WITNESSES *or* ONE NOTARY PUBLIC (either/or, not both). Witnesses cannot be your healthcare agent, related to you, entitled to your estate, or your healthcare provider. Most banks/credit unions offer free notary services to members; legal aid organizations may provide free notary. Source: [nolo.com](https://www.nolo.com/legal-encyclopedia/finalizing-advance-directive-health-care-california.html)
-1. **Hospice SLO Advance Directive Assistance**: Free help with understanding and preparing advance directives and POLST forms; phone/Zoom consultations available for those unable to travel to SLO office. Call [805-544-2266](tel:+1-805-544-2266) M–F 10am–4pm. Source: [hospiceslo.org](https://hospiceslo.org/services/advance-health-care-directive-support)
-1. **Telehealth Hospice Options**: Many California hospice agencies now offer virtual consultations and 24/7 telehealth access, reducing travel burden for patients in rural areas. Ask your hospice provider about telehealth services. Source: [capc.org](https://www.capc.org/toolkits/telehealth-and-palliative-care/)
-1. **Enhanced Care Management through CenCal Health**
+1. California POLST Program: For people with serious illness, POLST (Physician Orders for Life-Sustaining Treatment) is a medical order form signed by your healthcare provider that documents specific treatment wishes. Free forms downloadable in 13 languages at [capolst.org](https://capolst.org/). For assistance completing POLST forms, contact Hospice SLO at [805-544-2266](tel:+1-805-544-2266) or your healthcare provider. Must be printed on bright pink paper to be valid. Source: [capolst.org](https://capolst.org/)
+1. California Attorney General Advance Directive Form: Official state-approved form combining medical power of attorney and living will; free download at [oag.ca.gov/consumers/general/adv_hc_dir](https://oag.ca.gov/consumers/general/adv_hc_dir). Source: [eforms.com](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/)
+1. AARP Advance Directive Forms: Free California-specific advance directive forms at [aarp.org/caregiving/financial-legal/free-printable-advance-directives/](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/). Source: [aarp.org](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/)
+1. Witness/Notary Requirements: California advance directives must be signed by TWO WITNESSES *or* ONE NOTARY PUBLIC (either/or, not both). Witnesses cannot be your healthcare agent, related to you, entitled to your estate, or your healthcare provider. Most banks/credit unions offer free notary services to members; legal aid organizations may provide free notary. Source: [nolo.com](https://www.nolo.com/legal-encyclopedia/finalizing-advance-directive-health-care-california.html)
+1. Hospice SLO Advance Directive Assistance: Free help with understanding and preparing advance directives and POLST forms; phone/Zoom consultations available for those unable to travel to SLO office. Call [805-544-2266](tel:+1-805-544-2266) M–F 10am–4pm. Source: [hospiceslo.org](https://hospiceslo.org/services/advance-health-care-directive-support)
+1. Telehealth Hospice Options: Many California hospice agencies now offer virtual consultations and 24/7 telehealth access, reducing travel burden for patients in rural areas. Ask your hospice provider about telehealth services. Source: [capc.org](https://www.capc.org/toolkits/telehealth-and-palliative-care/)
+1. Enhanced Care Management through CenCal Health
    - Services: Dedicated care team support for members with complex health and social needs, including homeless individuals
    - Benefits: Assistance with medical care coordination and temporary housing placement following hospitalization
    - Contact: [800-421-2560](tel:+1-800-421-2560) for CenCal Health member services
-1. **Recuperative Care Beds**
+1. Recuperative Care Beds
    - Services: Stable, clean place for homeless individuals to receive medical care coordination following hospitalization or illness; case management for medication management and medical appointment scheduling; closely integrated with 40 Prado's medical clinic for seamless care
    - Location: 40 Prado Homeless Services Center
    - Contact: Healthcare Navigation Center at [805-361-8400](tel:+1-805-361-8400) for referrals to appropriate clinics
@@ -1739,9 +1740,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Utilization: 32 individuals housed in 2024, 56 individuals served in 2025 as of August
    - Access: Clients can be referred directly from the integrated medical clinic when they need recovery time but don't have a safe place to heal
    - Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
-1. **Community Health Centers - Prado Healthcare for the Homeless Program**
+1. [**Healthcare for the Homeless Program**](Directory.md#HCHP)
    - Services: Integrated health clinic providing primary and urgent care specifically for homeless clients; wrap-around services with co-located organizations; on-site pharmacy for immediate medication dispensing; in-house lab testing for pregnancy, strep throat, flu, COVID-19, and urine analysis; case management for medication management and appointment scheduling
-   - Location/Phone/Hours: See [**Healthcare for the Homeless Program**](Directory.md#HCHP) in the [Directory](Directory.md)
    - Insurance: CenCal accepted (most common insurance among homeless clients)
    - Integration: Works closely with 40 Prado's recuperative care beds for clients needing recovery time after medical treatment
    - Access: Must complete intake at 40 Prado first; serves 10–20 homeless individuals daily
@@ -1749,54 +1749,51 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
 
-1. **Outside Crisis Intervention and Deescalation Resources**
-   1. **Central Coast Hotline (24/7 Crisis Support)**
+1. Outside Crisis Intervention and Deescalation Resources
+   1. Central Coast Hotline (24/7 Crisis Support)
       - Phone: Call or text [1-800-783-0607](tel:+1-800-783-0607)
       - Services: Mental health crisis support, Mobile Crisis Team, suicide prevention
       - What they do: Teams of behavioral health experts trained to de-escalate crises related to alcohol, drugs, or mental health conditions
       - When to call: Mental health emergencies that don't involve weapons or known threats of violence
       - Coverage: Available countywide (including North County) to people of all ages
       - Source: [t-mha.org](https://www.t-mha.org/central-coast-hotline.php)
-   1. **Additional Crisis Resources**
+   1. Additional Crisis Resources
       - Psychiatric Crisis Emergency: [800-838-1381](tel:+1-800-838-1381)
       - Crisis Text Line: Text "HOME" to 741741
       - Email: See [**NAMI SLO County**](Directory.md#NAMI-SLO-County) in the [Directory](Directory.md)
-
-**Additional County-Wide Crisis and Safety Resources (pending human review):**
-
-- **Mobile Crisis Team (MCT)**: 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [1-800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
-- **Behavioral Health Community Action Team (BHCAT)**: Partnership with Sheriff's Office, Paso Robles Police Department, and Atascadero Police Department serving North County communities. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct))
-- **SLO County Sheriff Non-Emergency**: [805-781-4540](tel:+1-805-781-4540). Location: 1585 Kansas Avenue, SLO. Serves unincorporated areas of SLO County including North County. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/contact-the-sheriff-s-office)
-- **Lumina Alliance - North County Services**: Emergency shelters in Paso Robles and Atascadero; transitional housing in Paso Robles; 24-hour crisis line [805-545-8888](tel:+1-805-545-8888) for sexual assault and intimate partner violence. All services free of charge in English & Spanish (interpreters available for other languages). Source: [luminaalliance.org](https://luminaalliance.org/)
-
-1. **Women's Self-Defense Programs**
-   1. **Model Mugging of SLO**
+1. Additional County-Wide Crisis and Safety Resources (pending review):
+   - Mobile Crisis Team (MCT): 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [1-800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
+   - Behavioral Health Community Action Team (BHCAT): Partnership with Sheriff's Office, Paso Robles Police Department, and Atascadero Police Department serving North County communities. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct))
+   - SLO County Sheriff Non-Emergency: [805-781-4540](tel:+1-805-781-4540). Location: 1585 Kansas Avenue, SLO. Serves unincorporated areas of SLO County including North County. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/contact-the-sheriff-s-office)
+   - Lumina Alliance - North County Services: Emergency shelters in Paso Robles and Atascadero; transitional housing in Paso Robles; 24-hour crisis line [805-545-8888](tel:+1-805-545-8888) for sexual assault and intimate partner violence. All services free of charge in English & Spanish (interpreters available for other languages). Source: [luminaalliance.org](https://luminaalliance.org/)
+1. Women's Self-Defense Programs
+   1. Model Mugging of SLO
       - Program type: Full-contact, scenario-based training designed specifically for women
       - Training method: Realistic attack simulations with fully padded instructor in controlled environment
       - Skills taught: Verbal de-escalation, boundary setting, reading situations, physical countermeasures
       - Current status: Classes not currently being held; add name to interest list for future classes
       - Contact: Check Facebook page "Model Mugging SLO" for updates
       - Source: [modelmugging.org](https://modelmugging.org/self-defense-workshops-classes/category/california/san-luis-obispo-womens-self-defense/)
-   1. **Cuesta College Women's Self Defense Workshop**
+   1. Cuesta College Women's Self Defense Workshop
       - Format: Hands-on, comprehensive workshop in safe, supportive environment
       - Content: Self-defense mindset, managing unknown persons, striking and combative skills
       - Instructor: Qualified martial arts instructor
       - Financial aid: Scholarships and family discounts available
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
       - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/womens-self-defense.html)
-   1. **RISE Center**
+   1. RISE Center
       - Program: Women's self-defense courses occasionally hosted
       - Organization: RISE (Respect Inspire Support Empower) center
       - Update: RISE merged with Stand Strong in July 2021 to form Lumina Alliance
       - Locations/Phone: See [**Lumina Alliance**](Directory.md#Lumina-Alliance) in the [Directory](Directory.md)
       - Contact: Check with Lumina Alliance for current self-defense and safety program offerings [Source: [luminaalliance.org](https://luminaalliance.org/)]
-1. **General Self-Defense and Martial Arts Classes**
-   1. **Cuesta College Krav Maga Workshop**
+1. General Self-Defense and Martial Arts Classes
+   1. Cuesta College Krav Maga Workshop
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
       - Focus: Reality-based self-defense, instinctive movements, practical techniques
       - Goal: Build confidence and strength in shortest training time
       - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/self-defense.html)
-   1. **Paragon Brazilian Jiu Jitsu SLO**
+   1. Paragon Brazilian Jiu Jitsu SLO
       - Location: 235 Tank Farm Rd, Unit J, SLO
       - Programs: Brazilian Jiu-Jitsu, submission wrestling, self-defense, Muay Thai kickboxing
       - Ages: 4 and up
@@ -1807,7 +1804,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
       - Website: [paragonbjjslo.com](http://www.paragonbjjslo.com/)
       - Note: No publicly advertised sliding scale programs; contact directly to inquire about financial assistance
       - Source: [paragonbjjslo.com](http://www.paragonbjjslo.com/)
-   1. **US Academy of Martial Arts Inc.**
+   1. US Academy of Martial Arts Inc.
       - Philosophy: Martial arts beneficial to everyone regardless of age, gender, physical stature
       - Focus: Self-defense rather than competition
       - Curriculum: Combination of Jiu-Jitsu, Karate, Aikido, Judo
@@ -1815,35 +1812,35 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
       - Contact: 1160 Laurel Ln. #100, SLO; contact directly to inquire about potential financial assistance programs
       - Philosophy: Inclusive training for all; "training designed for tournament competition tend to eliminate those who need martial arts the most"
       - Note: No publicly advertised free/low-cost programs found; may offer accommodations on case-by-case basis given inclusive philosophy
-1. **Personal Safety Tips for Homeless and Vulnerable Individuals**
-   1. **Situational Awareness**
-      - **Stay alert**: Don't be distracted by phone or headphones when walking alone
-      - **Trust your instincts**: If a situation feels unsafe, remove yourself immediately
-      - **Walk with confidence**: Chin up, eyes forward, steady pace
-      - **Develop street smarts**: Learn to differentiate trustworthy from untrustworthy people
-         - **Be cautious with new relationships**: Be guarded and hesitant to develop relationships until you can identify reliable people—many have been victimized by those claiming to help
-         - **Trust your instincts**: If someone feels unsafe or pushes too hard for your trust, avoid them
-         - **Build peer networks**: Connect with similarly situated people who understand your situation
-         - **Watch for red flags**: Avoid people who try to exploit vulnerabilities, offer "too good to be true" deals, or pressure you into uncomfortable situations
+1. Personal Safety Tips for Homeless and Vulnerable Individuals
+   1. Situational Awareness
+      - Stay alert: Don't be distracted by phone or headphones when walking alone
+      - Trust your instincts: If a situation feels unsafe, remove yourself immediately
+      - Walk with confidence: Chin up, eyes forward, steady pace
+      - Develop street smarts: Learn to differentiate trustworthy from untrustworthy people
+         - Be cautious with new relationships: Be guarded and hesitant to develop relationships until you can identify reliable people—many have been victimized by those claiming to help
+         - Trust your instincts: If someone feels unsafe or pushes too hard for your trust, avoid them
+         - Build peer networks: Connect with similarly situated people who understand your situation
+         - Watch for red flags: Avoid people who try to exploit vulnerabilities, offer "too good to be true" deals, or pressure you into uncomfortable situations
          - Note: Developing these skills takes time and street experience—don't expect to master this immediately
       - Source: [instructables.com](https://www.instructables.com/Basic-Street-Safety-for-Women/)
-   1. **Building Safe Relationships**
-      - **Be guarded initially**: Hesitate to develop relationships until you can identify reliable people
-      - **Avoid exploitive adults**: Learn to recognize and avoid people who may take advantage
-      - **Find trusted friends**: Connection provides safety and security
-      - **Never go alone**: When possible, travel with trusted companions
+   1. Building Safe Relationships
+      - Be guarded initially: Hesitate to develop relationships until you can identify reliable people
+      - Avoid exploitive adults: Learn to recognize and avoid people who may take advantage
+      - Find trusted friends: Connection provides safety and security
+      - Never go alone: When possible, travel with trusted companions
       - Source: [NCBI research on homeless youth survival](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776751/)
-   1. **Shelter Safety Considerations**
-      - **Personal security**: Address security concerns before settling into shelter environment
-      - **Know your options**: Some individuals choose streets over shelters due to security concerns
-      - **Location choices**: Balance risk of arrest in open spaces vs. risk of assault in secluded areas
-      - **Stay vigilant**: Maintain awareness even in supposedly safe environments
+   1. Shelter Safety Considerations
+      - Personal security: Address security concerns before settling into shelter environment
+      - Know your options: Some individuals choose streets over shelters due to security concerns
+      - Location choices: Balance risk of arrest in open spaces vs. risk of assault in secluded areas
+      - Stay vigilant: Maintain awareness even in supposedly safe environments
       - Source: [Bautista Project shelter safety guide](https://www.thebautistaprojectinc.org/post/personal-security-homeless-shelter)
-   1. **Self-Defense Principles**
-      - **Primary goal**: Escape the attack and get help, rather than engaging in fighting
-      - **Prevention focus**: Avoid physical incidents through awareness and de-escalation
-      - **Simple techniques**: Learn basic moves to make an attacker reconsider and give you time to escape
-      - **Training recommendation**: Take formal self-defense classes when possible for proper instruction
+   1. Self-Defense Principles
+      - Primary goal: Escape the attack and get help, rather than engaging in fighting
+      - Prevention focus: Avoid physical incidents through awareness and de-escalation
+      - Simple techniques: Learn basic moves to make an attacker reconsider and give you time to escape
+      - Training recommendation: Take formal self-defense classes when possible for proper instruction
 
 ## <a id="legal-help--mediation-crime-victim-protection">Legal Help & Mediation, Crime Victim Protection</a>
 
@@ -1960,8 +1957,12 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
     - Impact: Children with CASA spend less time in foster care, more likely to graduate, less likely involved in criminal justice
     - Self-Help Court Center: For court-related self-help, contact Superior Court Self-Help Center at [805-706-3617](tel:+1-805-706-3617) (Mon–Fri 8:30am–4:30pm) or visit calendly.com/self-help-center/
     - Note: CASA advocates are court-appointed for specific cases involving abused/neglected children; families cannot directly request CASA services but can access general court self-help resources
+1. [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman)
+   - What's Available: Advocacy for nursing home/care facility residents, complaint investigation, facility monitoring
+   - Services: Help with finding residential care, complaints about facilities, advanced directive witnessing
+   - Coverage: All cities in SLO County
 
-### Uncategorized
+### Mediation
 
 1. [**Creative Mediation**](Directory.md#Creative-Mediation)
    - What's Available: Non-profit dispute resolution service offering low-cost mediation for non-criminal cases; free services for SLO County residents
@@ -1970,60 +1971,18 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Philosophy: Does not take sides or decide who is right; helps people work out their own solutions
 1. SLO Solutions Program (pending review): Free mediation services county-wide for SLO County residents; available throughout North County, South County, and rural areas; same services as main Creative Mediation office. Source: [slobar.org](https://slobar.org/legal-resources/listing/creative-mediation/)
    - Website: [slobar.org/legal-resources/listing/creative-mediation](https://slobar.org/legal-resources/listing/creative-mediation/)
+
+### Legal Self-Help / Law Libraries
+
 1. [**SLO County Law Library**](Directory.md#SLO-County-Law-Library)
    - What's Available: Legal research resources, self-help materials, internet access for legal research
    - Collection: 14,000+ hardbound volumes, legal periodicals, handbooks, Nolo Press publications
    - Technology: Free Westlaw Online (1 hour daily), internet access (1 hour daily), electronic Shepardizing (legal research tool to verify if a case is still valid law by checking if it has been overruled, reversed, or superseded)
    - Additional services: Fax service, inter-library loans ($10 fee), reference assistance
-1. [**SLO County Bar Association Legal Services**](Directory.md#SLO-County-Bar-Association)
-   - [Attorney Referral Service](https://slobar.org/Information-and-referral-service/):
-      - What's Available: Attorney referrals matched to specific legal needs, initial 30-minute consultation included
-      - Cost: $50 administrative fee (waived for personal injury, worker's compensation, and criminal law cases)
-      - Process: Confidential phone interview → assessment → attorney referral
-      - Quality assurance: All attorneys in good standing, carry malpractice insurance, meet experience requirements
-      - Access: Phone interview or online request form at slobarlris.org
-      - Phone: [805-541-5502](tel:+1-805-541-5502), M–Th 9am–1pm
-      - Email: [LRIS@slobar.org](mailto:LRIS@slobar.org)
-   - SLO Law Line: [805-548-8884](tel:+1-805-548-8884):
-      - What's Available: Free legal advice and counsel for those who cannot afford an attorney
-      - Contact: [805-548-8884](tel:+1-805-548-8884); telephone consultations by appointment only
-      - Hours: Five days a week 8:30am–4pm; scheduling Monday–Thursday 9am–3pm; consultation hours Tuesday 4:30pm–6:30pm
-      - Staffing: SLO College of Law interns under attorney supervision; SLO County Pro Bono Program volunteers
-      - Services: Legal information, referrals to legal assistance programs in SLO County
 1. [**SLO County Small Claims Advisor**](Directory.md#SLO-County-Small-Claims-Advisor)
    - What's Available: Free information and assistance for small claims court cases (plaintiff or defendant)
    - County-wide Availability: Available to all SLO County residents regardless of location; services provided at County Government Center in SLO.
    - Note: Provided by District Attorney’s Economic Crime Unit; advisor is not an attorney
-1. Help with advance care directives, wills
-   - See medical section above, but also add stuff about wills in particular
-1. [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman)
-   - What's Available: Advocacy for nursing home/care facility residents, complaint investigation, facility monitoring
-   - Services: Help with finding residential care, complaints about facilities, advanced directive witnessing
-   - Coverage: All cities in SLO County
-1. [**Child Support Services**](Directory.md#Child-Support-Services)
-   - What's Available: Locate parents, establish parentage, obtain support/health insurance orders, enforce orders, collect payments
-   - Access: Online application available in English and Spanish, online payment and modification options
-1. [ADA](https://www.ada.gov/) (Americans with Disabilities Act)
-   - What’s Available: Information about disability rights, complaint filing for discrimination, legal resources
-   - Contact: ADA Information Line [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264))
-   - Hours: M, Tu, W, F: 9:30am–12pm & 3pm–5:30pm ET; Th: 2:30pm–5:30pm ET
-   - How to file complaints: Online at ADA.gov, paper form, or letter to Department of Justice Civil Rights Division
-   - Address: U.S. Department of Justice Civil Rights Division, 950 Pennsylvania Avenue, NW, Washington, DC 20530
-   - Services: Complaint review, mediation program, enforcement activities
-1. [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation)
-   - What's Available: Free legal assistance for civil and family law matters; housing (landlord/tenant, evictions, fair housing discrimination, habitability, accessibility, foreclosure prevention)
-   - Eligibility: Low-income residents of SLO County, including seniors (60+), veterans, people with disabilities; no immigration status/documentation required
-1. [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance)
-   - What's Available: Civil law cases including housing, labor and employment, education, and civil rights
-   - Specializes in: Individuals with disabilities, immigrant populations, school children, LGBTQ+ individuals, seniors, and people with limited English proficiency
-   - Special programs:
-      - Tenant's Rights Workshop—2nd & 4th Tuesday of each month, 9am–12pm (SLO office)
-      - Drop-in Legal Clinics at Paso Robles City Library: Bi-monthly legal clinics, 2nd & 4th Thursday of each month; location: 1000 Spring St., Paso Robles; provides free civil legal advice for low-income North County residents. Source: [crla.org](https://www.crla.org/)
-   - Source: [crla.org/locations/san-luis-obispo](https://crla.org/locations/san-luis-obispo)
-1. [5Cities Homeless Coalition Legal Services](https://5chc.org/community-services/legal-services)
-   - What’s Available: Free legal services regardless of citizenship status
-   - Website/Location/Email: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-   - Access: Call or email for appointment: [805-543-5140](tel:+1-805-543-5140)
 1. [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) / Family Law Facilitator / Self-Help Center
    - What's Available: Free resources to help find legal information and learn self-representation; free assistance to self-represented parties on family law matters including divorce, child custody and support, domestic violence restraining orders, establishing parent-child relationships, spousal support
    - Additional contact: [805-788-3418](tel:+1-805-788-3418); online scheduling at calendly.com/self-help-center/
@@ -2042,6 +2001,38 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Target: Military-connected individuals nationwide seeking legal guidance
    - Access: Visit [statesidelegal.org](https://www.statesidelegal.org/) to use Navigator tool, find legal help, ask questions, or access self-help tools
    - Online resources: Free legal guidance available through website's interactive tools and legal help map
+
+### Legal Consultation
+
+1. [**SLO County Bar Association Legal Services**](Directory.md#SLO-County-Bar-Association)
+   - [Attorney Referral Service](https://slobar.org/Information-and-referral-service/):
+      - What's Available: Attorney referrals matched to specific legal needs, initial 30-minute consultation included
+      - Cost: $50 administrative fee (waived for personal injury, worker's compensation, and criminal law cases)
+      - Process: Confidential phone interview → assessment → attorney referral
+      - Quality assurance: All attorneys in good standing, carry malpractice insurance, meet experience requirements
+      - Access: Phone interview or online request form at slobarlris.org
+      - Phone: [805-541-5502](tel:+1-805-541-5502), M–Th 9am–1pm
+      - Email: [LRIS@slobar.org](mailto:LRIS@slobar.org)
+   - SLO Law Line: [805-548-8884](tel:+1-805-548-8884):
+      - What's Available: Free legal advice and counsel for those who cannot afford an attorney
+      - Contact: [805-548-8884](tel:+1-805-548-8884); telephone consultations by appointment only
+      - Hours: Five days a week 8:30am–4pm; scheduling Monday–Thursday 9am–3pm; consultation hours Tuesday 4:30pm–6:30pm
+      - Staffing: SLO College of Law interns under attorney supervision; SLO County Pro Bono Program volunteers
+      - Services: Legal information, referrals to legal assistance programs in SLO County
+1. [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation)
+   - What's Available: Free legal assistance for civil and family law matters; housing (landlord/tenant, evictions, fair housing discrimination, habitability, accessibility, foreclosure prevention)
+   - Eligibility: Low-income residents of SLO County, including seniors (60+), veterans, people with disabilities; no immigration status/documentation required
+1. [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance)
+   - What's Available: Civil law cases including housing, labor and employment, education, and civil rights
+   - Specializes in: Individuals with disabilities, immigrant populations, school children, LGBTQ+ individuals, seniors, and people with limited English proficiency
+   - Special programs:
+      - Tenant's Rights Workshop—2nd & 4th Tuesday of each month, 9am–12pm (SLO office)
+      - Drop-in Legal Clinics at Paso Robles City Library: Bi-monthly legal clinics, 2nd & 4th Thursday of each month; location: 1000 Spring St., Paso Robles; provides free civil legal advice for low-income North County residents. Source: [crla.org](https://www.crla.org/)
+   - Source: [crla.org/locations/san-luis-obispo](https://crla.org/locations/san-luis-obispo)
+1. [5Cities Homeless Coalition Legal Services](https://5chc.org/community-services/legal-services)
+   - What’s Available: Free legal services regardless of citizenship status
+   - Website/Location/Email: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
+   - Access: Call or email for appointment: [805-543-5140](tel:+1-805-543-5140)
 1. [Central California Legal Services](https://centralcallegal.org/)
    - "Central California Legal Services is a private, not-for-profit, public interest law firm established for the purpose of providing free civil legal assistance to low-income individuals, families, organizations and communities."
    - [559-570-1200](tel:+1-559-570-1200) / [800-675-8001](tel:+1-800-675-8001) for legal advice & referral (M–F 9am–12pm & 1–2:30pm)
@@ -2049,15 +2040,14 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Eligibility: "central valley residents and seniors age 60 and over"; income below 125% (for some services 200%) of the federal poverty level (no income eligibility requirements for central valley seniors or for those seeking assistance for certain health-related matters); helps with civil cases, not criminal ones
    - Note: Central California Legal Services primarily serves Fresno, Tulare, Kings, Merced, Tuolumne, and Mariposa Counties. *Limited* services are available in SLO County through their Health Consumer Alliance partnership, specifically for healthcare access concerns only, not general civil legal services. SLO County residents should contact other legal aid organizations listed in this guide for most civil legal needs.
       - Source: [centralcallegal.org](https://centralcallegal.org/about-us/)
-1. [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic)
-   - Cal Poly students represent low-income clients, for free, in tax controversies before the IRS and U.S. Tax Court
-   - Services available in English and Spanish
-   - Location: Cal Poly SLO, building 3, room 107
-   - Hours: M–Th 9am–5pm, F 9am–1pm
-   - Phone: [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725))
-   - Email: [litc@calpoly.edu](mailto:litc@calpoly.edu)
 
-### Immigration Law Services
+### Family Law / Child Support
+
+1. [**Child Support Services**](Directory.md#Child-Support-Services)
+   - What's Available: Locate parents, establish parentage, obtain support/health insurance orders, enforce orders, collect payments
+   - Access: Online application available in English and Spanish, online payment and modification options
+
+### Immigration Law
 
 1. [**Catholic Charities**](Directory.md#CatholicCharities) (Legal Aid Services)
    - Services: Immigration and housing legal assistance
@@ -2108,6 +2098,28 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Services: Housing needs (landlord-tenant, evictions, nursing homes, board and care), protection from elder abuse
    - Focus: Those most in need receive priority assistance
    - Source: [lawhelpca.org](https://www.lawhelpca.org/organization/senior-legal-services-project)
+
+### Tax Disputes
+
+1. [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic)
+   - Cal Poly students represent low-income clients, for free, in tax controversies before the IRS and U.S. Tax Court
+   - Services available in English and Spanish
+   - Location: Cal Poly SLO, building 3, room 107
+   - Hours: M–Th 9am–5pm, F 9am–1pm
+   - Phone: [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725))
+   - Email: [litc@calpoly.edu](mailto:litc@calpoly.edu)
+
+### Miscellany
+
+1. Help with advance care directives, wills
+   - See medical section above, but also add stuff about wills in particular
+1. [ADA](https://www.ada.gov/) (Americans with Disabilities Act)
+   - What’s Available: Information about disability rights, complaint filing for discrimination, legal resources
+   - Contact: ADA Information Line [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264))
+   - Hours: M, Tu, W, F: 9:30am–12pm & 3pm–5:30pm ET; Th: 2:30pm–5:30pm ET
+   - How to file complaints: Online at ADA.gov, paper form, or letter to Department of Justice Civil Rights Division
+   - Address: U.S. Department of Justice Civil Rights Division, 950 Pennsylvania Avenue, NW, Washington, DC 20530
+   - Services: Complaint review, mediation program, enforcement activities
 
 ## <a id="ids-and-other-documents">IDs and Other Documents</a> (How to Obtain, Replace, Secure)
 
@@ -2197,7 +2209,7 @@ The VitalChek website can often also get you these records from other areas.
 
 ### Passports
 
-To-Do
+To-Do: Add section on how to obtain, renew, or reissue a lost U.S. passport. Maybe also general advice about passports from other countries.
 
 ### Tips
 
