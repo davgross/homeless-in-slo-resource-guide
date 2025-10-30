@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Comprehensive resource guide for people experiencing homelessness in San Luis Obispo County">
+  <meta name="theme-color" content="#2c5282">
+  <title>SLO County Homeless Resource Guide</title>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/manifest.json">
+</head>
+<body>
+  <div id="app">
+    <header class="app-header">
+      <nav class="app-nav">
+        <button class="nav-btn" data-section="resources">Resources</button>
+        <button class="nav-btn" data-section="directory">Directory</button>
+        <button class="nav-btn" data-section="about">About</button>
+      </nav>
+      <div class="search-container">
+        <input type="search" id="search-input" placeholder="Search..." aria-label="Search resources and directory">
+        <div id="search-results" class="search-results" hidden></div>
+      </div>
+    </header>
+
+    <main class="app-main">
+      <section id="resources-section" class="content-section">
+        <div class="loading">Loading resources...</div>
+      </section>
+
+      <section id="directory-section" class="content-section" hidden>
+        <div class="loading">Loading directory...</div>
+      </section>
+
+      <section id="about-section" class="content-section" hidden>
+        <h1>About This Guide</h1>
+        <p>This resource guide helps people experiencing homelessness in San Luis Obispo County find services and support.</p>
+
+        <h2>How to Report Errors or Suggest Improvements</h2>
+        <p>If you find outdated information or want to suggest improvements, please contact us.</p>
+
+        <h2>Disclaimer</h2>
+        <p>This guide is provided for informational purposes only. While we strive to keep information current and accurate, services, hours, and eligibility requirements may change. Please contact organizations directly to verify details before visiting.</p>
+
+        <p class="last-updated">Last updated: <span id="last-update-date"></span></p>
+      </section>
+    </main>
+
+    <div id="directory-overlay" class="directory-overlay" hidden>
+      <div class="directory-modal">
+        <button class="close-btn" aria-label="Close directory entry">&times;</button>
+        <div class="directory-content"></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

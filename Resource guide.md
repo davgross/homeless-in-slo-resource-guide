@@ -626,12 +626,12 @@ Most storage facilities have daytime hours of operation when you can access the 
 
 | Location     | Meal Provider                                                              | When                     |
 | ------------ | -------------------------------------------------------------------------- | ------------------------ |
-| Atascadero   | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | 5pm daily                |
+| Atascadero   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm daily                |
 | Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 6pm Tuesday & Wednesday  |
 | Grover Beach | [**People's Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily         |
 | Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesday            |
 | Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 5pm Monday               |
-| Paso Robles  | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/) | 4:30pm daily             |
+| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm daily             |
 | SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am Thursday            |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 4:30pm Monday & Thursday |
 | SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm Thursday             |
@@ -648,7 +648,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Arroyo Grande | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                     | Fridays |
 | Arroyo Grande | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church)                                       | Tuesday–Thursday |
 | Arroyo Grande | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Mondays, Wednesdays, Fridays |
-| Atascadero    | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/)                          | any time |
+| Atascadero    | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)                                     | any time |
 | Atascadero    | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                       | Thursdays |
 | Atascadero    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero)                                  | Monday–Friday |
 | Atascadero    | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                             | Tuesday & Wednesday eves. or by appt. |
@@ -664,7 +664,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Morro Bay     | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                | Saturdays |
 | Nipomo        | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket)                                           | M/Tu/Th/F |
 | Nipomo        | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)           | Saturdays |
-| Paso Robles   | [**El Camino Homeless Organization** (ECHO)](https://www.echoshelter.org/)                          | any time |
+| Paso Robles   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)                                     | any time |
 | Paso Robles   | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                 | Monday–Thursday |
 | Paso Robles   | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center)                             | 2nd & 4th Tuesday |
 | Paso Robles   | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Tuesdays |
@@ -1024,7 +1024,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 
 ## <a id="laundry">Laundry</a>
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-prado) offers free laundry facilities every day from 8am to 4pm.
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers free laundry facilities every day from 8am to 4pm.
 You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first.
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the laundry facility at its Paso Robles location every Wednesday from 10am–6pm, at which you can do a single load of laundry for free (they provide detergent).
@@ -2323,22 +2323,17 @@ The post office may stop accepting general delivery mail for you if you try to u
       - What's Available: Free checking accounts (HomeFREE Checking), affordable loans, business services, financial education; accepts ITINs
       - Membership: $5 deposit to Primary Share Savings account plus one-time $5 membership fee; no recurring membership fee
       - Benefits: Generally more accommodating for people with alternative address arrangements; 30,000+ surcharge-free ATMs nationwide; mobile banking app
-      - Website: [sesloc.org](https://www.sesloc.org/)
    1. [**SLO Credit Union**](Directory.md#SLO-Credit-Union)
-      - Location/Phone: See [**SLO Credit Union**](Directory.md#SLO-Credit-Union) in the [Directory](Directory.md)
       - What's Available: Community-focused banking services
       - Requirements: Driver's license/ID, proof of eligibility (payroll stub/employee ID), $5 minimum deposit
-      - Website: [slocu.com](https://slocu.com/)
    1. [**Golden 1 Credit Union**](Directory.md#Golden-1-Credit-Union)
       - Services: Banking services, auto loans, mobile/online banking, ATM access
       - Established: 1933, serves California members through 65 branch locations statewide
-      - Website: [golden1.com](https://www.golden1.com)
    1. [**CoastHills Credit Union**](Directory.md#CoastHills-Credit-Union)
       - Services: Full-service banking including checking accounts, savings, loans, credit cards, online/mobile banking, financial planning
       - Special features: Free online banking, low-rate loans, better deposit earnings, 24-hour call center service
       - Established: 1958, serving 72,000+ members with $1.6 billion in assets
       - Coverage: 11 Central Coast locations throughout Santa Barbara and SLO counties
-      - Website: [coasthills.coop](https://coasthills.coop/)
 - **No Minimum Balance Banking Options**
    - Bank On Certified Accounts: Accounts meeting National Account Standards for safety and affordability
       - Why preferred: Low-cost, no overdraft fees, robust transaction capabilities; designed for currently unbanked populations including homeless individuals
@@ -3299,7 +3294,7 @@ Pets must have documented rabies vaccinations.
 [**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
 They happen 3–4 times per quarter at various locations around SLO County, often coordinating with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People)
 
-THe [**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have limited funds.
+[**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have limited funds.
 
 [**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) helps seniors, people with disabilities, terminal illnesses, and individuals on fixed incomes to pay for medical treatments for their pets.
 

@@ -31,6 +31,8 @@ We might consider split-screen layout (**Resource** + **Directory**) when screen
 - Smart hyperlinks: Phone numbers, emails, URLs, and physical addresses all clickable
 - Map integration: Addresses open user's preferred map app with location centered
 - Search feature of some sort?
+- Easy for users to give useful feedback to developers (about e.g. outdated information)
+   - Ideally, developers could see something like a screenshot of what the user was looking at when they decided they wanted to leave feedback
 
 ## Content Structure
 
@@ -49,3 +51,10 @@ We might consider split-screen layout (**Resource** + **Directory**) when screen
 - Standalone deployment with dedicated, memorable URL.
 - Independent of existing WordPress site.
 - Optimized for frequent content updates.
+
+## Branding
+
+- This is a project of the "Shower the People" nonprofit.
+- This nonprofit uses Monserrat Alternates Bold as its brand font
+- Its brand colors are white (#ffffff), blue (#3877ff), and orange (#e75e13)
+- It would be nice if the colors used in this project harmonize with the Shower the People brand colors, but prioritize legibility and accessibility (to e.g. the colorblind) even if this means disregarding brand colors
