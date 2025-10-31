@@ -38,7 +38,16 @@
         <p>This resource guide helps people experiencing homelessness in San Luis Obispo County find services and support.</p>
 
         <h2>How to Report Errors or Suggest Improvements</h2>
-        <p>If you find outdated information or want to suggest improvements, please contact us.</p>
+        <p>We want this guide to be as accurate and helpful as possible. If you find outdated information, errors, or want to suggest improvements:</p>
+        <ul>
+          <li>Click the feedback button (💬) in the bottom-right corner of the screen</li>
+          <li>Fill out the feedback form with details about the issue or suggestion</li>
+          <li>Send the email that opens with your default email app</li>
+        </ul>
+        <p>Your feedback helps keep this resource current and useful for everyone in our community.</p>
+
+        <h2>About This Project</h2>
+        <p>This guide is a project of <a href="https://showerthepeopleslo.org/" target="_blank">Shower the People</a>, a nonprofit organization serving people experiencing homelessness in San Luis Obispo County.</p>
 
         <h2>Disclaimer</h2>
         <p>This guide is provided for informational purposes only. While we strive to keep information current and accurate, services, hours, and eligibility requirements may change. Please contact organizations directly to verify details before visiting.</p>
@@ -49,7 +58,14 @@
 
     <div id="directory-overlay" class="directory-overlay" hidden>
       <div class="directory-modal">
-        <button class="close-btn" aria-label="Close directory entry">&times;</button>
+        <button class="close-btn" aria-label="Close directory entry">
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M18 6L6 18M6 6l12 12" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        <button class="directory-feedback-btn" aria-label="Send feedback about this directory entry" title="Send feedback">
+          💬
+        </button>
         <div class="directory-content"></div>
       </div>
     </div>

@@ -3,6 +3,7 @@ import { marked } from 'marked';
 import DOMPurify from 'dompurify';
 import { enhanceLinks } from './linkEnhancer.js';
 import { parseMarkdown, extractDirectoryEntries } from './markdownParser.js';
+import { initFeedback } from './feedback.js';
 
 // Import markdown files directly as raw text
 import resourcesMarkdown from '../../Resource guide.md?raw';
@@ -15,14 +16,21 @@ const state = {
   resourcesContent: '',
   directoryContent: '',
   directoryEntries: new Map(),
-  searchIndex: []
+  searchIndex: [],
+  currentDirectoryEntry: null
 };
+
+// Make state accessible globally for feedback system
+window.appState = state;
 
 // Initialize the app
 async function init() {
   setupNavigation();
   setupSearch();
   setupDirectoryOverlay();
+
+  // Initialize feedback system
+  initFeedback();
 
   // Load content
   await loadMarkdownContent();
@@ -205,9 +213,19 @@ function setupDirectoryLinks(container) {
 function setupDirectoryOverlay() {
   const overlay = document.getElementById('directory-overlay');
   const closeBtn = overlay.querySelector('.close-btn');
+  const feedbackBtn = overlay.querySelector('.directory-feedback-btn');
 
   // Close on button click
   closeBtn.addEventListener('click', hideDirectoryOverlay);
+
+  // Feedback button click
+  feedbackBtn.addEventListener('click', () => {
+    // Trigger feedback modal (the feedback system will handle opening it)
+    const feedbackButton = document.getElementById('feedback-button');
+    if (feedbackButton) {
+      feedbackButton.click();
+    }
+  });
 
   // Close on overlay click (outside modal)
   overlay.addEventListener('click', (e) => {
@@ -236,6 +254,12 @@ function showDirectoryEntry(entryId) {
   }
 
   console.log('Found entry:', entry.title);
+
+  // Store current directory entry for feedback context
+  state.currentDirectoryEntry = {
+    id: entryId,
+    title: entry.title
+  };
 
   const overlay = document.getElementById('directory-overlay');
   const content = overlay.querySelector('.directory-content');
@@ -268,6 +292,9 @@ function showDirectoryEntry(entryId) {
 function hideDirectoryOverlay() {
   const overlay = document.getElementById('directory-overlay');
   overlay.hidden = true;
+
+  // Clear current directory entry from state
+  state.currentDirectoryEntry = null;
 }
 
 // Trap focus within modal for accessibility
@@ -690,7 +717,7 @@ function navigateToResourceSection(anchorId) {
         // Get the anchor's position
         const rect = anchor.getBoundingClientRect();
         const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        const targetY = rect.top + scrollTop - 120; // Adjust for header (120px)
+        const targetY = rect.top + scrollTop - 90; // Adjust for header (80px + buffer)
 
         console.log('Scrolling to position:', targetY);
 
