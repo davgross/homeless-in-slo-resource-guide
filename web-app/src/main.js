@@ -84,6 +84,14 @@ function navigateToSection(section) {
   saveState();
 }
 
+// Announce message to screen readers
+function announce(message) {
+  const announcer = document.getElementById('announcer');
+  if (announcer) {
+    announcer.textContent = message;
+  }
+}
+
 // Show a specific section
 function showSection(section, updateHistory = true) {
   // Hide all sections
@@ -106,8 +114,24 @@ function showSection(section, updateHistory = true) {
 
   // Update navigation buttons
   document.querySelectorAll('.nav-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.section === section);
+    const isActive = btn.dataset.section === section;
+    btn.classList.toggle('active', isActive);
+
+    // Update aria-current for screen readers
+    if (isActive) {
+      btn.setAttribute('aria-current', 'page');
+    } else {
+      btn.removeAttribute('aria-current');
+    }
   });
+
+  // Announce section change to screen readers
+  const sectionNames = {
+    'resources': 'Resources section',
+    'directory': 'Directory section',
+    'about': 'About section'
+  };
+  announce(`${sectionNames[section] || section} loaded`);
 
   // Update state
   state.currentSection = section;
@@ -442,6 +466,8 @@ const STOP_WORDS = new Set([
 
 // Perform search
 function performSearch(query) {
+  const searchInput = document.getElementById('search-input');
+
   if (!query || query.length < 2) {
     clearSearchResults();
     return;
@@ -501,7 +527,20 @@ function performSearch(query) {
     .filter(result => result !== null)
     .sort((a, b) => b.score - a.score);
 
+  // Update aria-expanded before displaying results
+  if (searchInput) {
+    searchInput.setAttribute('aria-expanded', 'true');
+  }
+
   displaySearchResults(results, query);
+
+  // Announce results to screen readers
+  const resultCount = results.length;
+  if (resultCount === 0) {
+    announce(`No results found for ${query}`);
+  } else {
+    announce(`${resultCount} result${resultCount === 1 ? '' : 's'} found for ${query}`);
+  }
 }
 
 // Clean markdown syntax from text for display
@@ -654,7 +693,7 @@ function displaySearchResults(results, query) {
     const highlightedSnippet = highlightMatches(result.snippet, query);
 
     html += `
-      <div class="search-result-item" data-result-type="${result.type}" data-result-id="${result.id}">
+      <div class="search-result-item" role="option" data-result-type="${result.type}" data-result-id="${result.id}">
         <div class="search-result-title">${result.title}</div>
         <div class="search-result-type">${typeLabel}</div>
         <div class="search-result-snippet">${highlightedSnippet}</div>
@@ -738,8 +777,15 @@ function navigateToResourceSection(anchorId) {
 // Clear search results
 function clearSearchResults() {
   const searchResultsEl = document.getElementById('search-results');
+  const searchInput = document.getElementById('search-input');
+
   searchResultsEl.hidden = true;
   searchResultsEl.innerHTML = '';
+
+  // Reset aria-expanded on search input
+  if (searchInput) {
+    searchInput.setAttribute('aria-expanded', 'false');
+  }
 }
 
 // Show no results message

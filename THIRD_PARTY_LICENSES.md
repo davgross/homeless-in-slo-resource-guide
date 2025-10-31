@@ -16,11 +16,11 @@ This document contains the full license texts for all third-party open-source li
 
 ## Marked
 
-**Homepage:** https://marked.js.org
-**Repository:** https://github.com/markedjs/marked
+**Homepage:** [https://marked.js.org](https://marked.js.org)
+**Repository:** [https://github.com/markedjs/marked](https://github.com/markedjs/marked)
 **License:** MIT
 
-```
+```plaintext
 Marked
 Copyright (c) 2018+, MarkedJS (https://github.com/markedjs/)
 Copyright (c) 2011-2018, Christopher Jeffrey (https://github.com/chjj/)
@@ -48,11 +48,11 @@ THE SOFTWARE.
 
 ## DOMPurify
 
-**Homepage:** https://cure53.de/purify
-**Repository:** https://github.com/cure53/DOMPurify
+**Homepage:** [https://cure53.de/purify](https://cure53.de/purify)
+**Repository:** [https://github.com/cure53/DOMPurify](https://github.com/cure53/DOMPurify)
 **License:** Apache 2.0 OR MPL 2.0 (dual-licensed)
 
-```
+```plaintext
 DOMPurify
 Copyright 2025 Dr.-Ing. Mario Heiderich, Cure53
 
@@ -65,21 +65,21 @@ b) the Mozilla Public License Version 2.0
 
 ### Apache License Version 2.0
 
-Full text available at: http://www.apache.org/licenses/LICENSE-2.0
+Full text available at: [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ### Mozilla Public License Version 2.0
 
-Full text available at: https://www.mozilla.org/en-US/MPL/2.0/
+Full text available at: [https://www.mozilla.org/en-US/MPL/2.0/](https://www.mozilla.org/en-US/MPL/2.0/)
 
 ---
 
 ## Vite
 
-**Homepage:** https://vitejs.dev
-**Repository:** https://github.com/vitejs/vite
+**Homepage:** [https://vitejs.dev](https://vitejs.dev)
+**Repository:** [https://github.com/vitejs/vite](https://github.com/vitejs/vite)
 **License:** MIT
 
-```
+```plaintext
 MIT License
 
 Copyright (c) 2019-present, Yuxi (Evan) You and Vite contributors
@@ -107,11 +107,11 @@ SOFTWARE.
 
 ## vite-plugin-pwa
 
-**Homepage:** https://vite-pwa-org.netlify.app
-**Repository:** https://github.com/vite-pwa/vite-plugin-pwa
+**Homepage:** [https://vite-pwa-org.netlify.app](https://vite-pwa-org.netlify.app)
+**Repository:** [https://github.com/vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa)
 **License:** MIT
 
-```
+```plaintext
 MIT License
 
 Copyright (c) 2021-present Anthony Fu <https://github.com/antfu>
@@ -139,11 +139,11 @@ SOFTWARE.
 
 ## Montserrat Alternates Font
 
-**Homepage:** https://fonts.google.com/specimen/Montserrat+Alternates
+**Homepage:** [https://fonts.google.com/specimen/Montserrat+Alternates](https://fonts.google.com/specimen/Montserrat+Alternates)
 **Designer:** Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly
 **License:** SIL Open Font License 1.1
 
-```
+```plaintext
 Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -244,12 +244,14 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 ## Additional Notes
 
 All licenses listed above are permissive open-source licenses that allow:
+
 - ✅ Free use in any type of project (personal, commercial, nonprofit)
 - ✅ Modification and derivative works
 - ✅ Redistribution
 - ✅ Private use
 
 **Attribution Requirements:**
+
 - Marked, Vite, vite-plugin-pwa: Include copyright notice and license text
 - DOMPurify: Include copyright notice and choose either Apache 2.0 or MPL 2.0 license text
 - Montserrat Alternates: Optional attribution (recommended but not required)

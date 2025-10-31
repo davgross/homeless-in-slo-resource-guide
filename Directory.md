@@ -2920,6 +2920,13 @@ Human verification by calling both numbers or visiting the location is recommend
    - Santa Margarita: Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm)
    - Shandon: Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm)
    - Shell Beach: Tu/W 10am–1pm and 2–6pm, Sa 9am–5pm
+- Note: [Transitions Mental Health Association (TMHA)](#TMHA) has a “Library Outreach Team” that connects library patrons who are experiencing homelessness with a social worker and case manager to help them overcome barriers to accessing crucial social services. You can meet the Library Outreach Team at the following library branches (this schedule is subject to change; contact [mvargas@t-mha.org](mailto:mvargas@t-mha.org) for the most up-to-date schedule):
+   - SLO: Tu 10–11:30am
+   - Atascadero: W 10–11:30am
+   - Arroyo Grande: Th 9–11am
+   - Los Osos: 1st & 3rd Th 1–3pm
+   - Morro Bay: 2nd & 4th Th. 1–3pm
+   You can also make an appointment to meet with the team by calling [805-540-0057](tel:+1-805-540-0057)
 
 ## <a id="SLO-County-Small-Claims-Advisor">SLO County Small Claims Advisor</a>
 
@@ -3222,6 +3229,7 @@ Human verification by calling both numbers or visiting the location is recommend
       - See [t-mha.org/wellness-calendars.php](http://t-mha.org/wellness-calendars.php) for a schedule:
    - operates [**Behavioral Health Bridge Housing (BHBH) Program**](#BHBH)
    - operates “Bishop Street Studios”
+   - operates “Library Outreach Team” (see [**SLO County Public Libraries**](#SLO-County-Public-Libraries))
    - operates “T-MHA Community Residential Housing”
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 

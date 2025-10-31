@@ -3,6 +3,7 @@
 This document provides a comprehensive audit of all third-party assets, libraries, and code used in this project to ensure compliance with copyright and licensing requirements.
 
 **Audit Date:** October 31, 2025
+
 **Audited By:** Claude Code (AI Assistant)
 
 ---
@@ -16,42 +17,47 @@ This document provides a comprehensive audit of all third-party assets, librarie
 ## NPM Dependencies
 
 ### 1. marked (v14.1.4)
+
 - **License:** MIT
 - **Copyright:** MarkedJS (2018+), Christopher Jeffrey (2011-2018)
 - **Usage:** Markdown-to-HTML parsing
 - **Compliance:** ✅ MIT license allows free use, modification, and distribution
-- **Attribution Required:** Yes (included in node_modules/marked/LICENSE.md)
-- **Source:** https://github.com/markedjs/marked
+- **Attribution Required:** Yes (included in `node_modules/marked/LICENSE.md`)
+- **Source:** [https://github.com/markedjs/marked](https://github.com/markedjs/marked)
 
 ### 2. DOMPurify (v3.3.0)
+
 - **License:** Apache 2.0 OR MPL 2.0 (dual-licensed)
 - **Copyright:** Dr.-Ing. Mario Heiderich, Cure53 (2025)
 - **Usage:** HTML sanitization to prevent XSS attacks
 - **Compliance:** ✅ Both licenses allow free use, modification, and distribution
-- **Attribution Required:** Yes (included in node_modules/dompurify/LICENSE)
-- **Source:** https://github.com/cure53/DOMPurify
+- **Attribution Required:** Yes (included in `node_modules/dompurify/LICENSE`)
+- **Source:** [https://github.com/cure53/DOMPurify](https://github.com/cure53/DOMPurify)
 
 ### 3. Vite (v6.4.1)
+
 - **License:** MIT
 - **Copyright:** Evan You and Vite contributors
 - **Usage:** Build tool and development server
 - **Compliance:** ✅ MIT license allows free use
-- **Attribution Required:** Yes (included in node_modules/vite/LICENSE)
-- **Source:** https://github.com/vitejs/vite
+- **Attribution Required:** Yes (included in `node_modules/vite/LICENSE`)
+- **Source:** [https://github.com/vitejs/vite](https://github.com/vitejs/vite)
 
 ### 4. vite-plugin-pwa (v0.21.2)
+
 - **License:** MIT
 - **Copyright:** Anthony Fu
 - **Usage:** Progressive Web App functionality (service worker, offline support)
 - **Compliance:** ✅ MIT license allows free use
-- **Attribution Required:** Yes (included in node_modules/vite-plugin-pwa/LICENSE)
-- **Source:** https://github.com/vite-pwa/vite-plugin-pwa
+- **Attribution Required:** Yes (included in `node_modules/vite-plugin-pwa/LICENSE`)
+- **Source:** [https://github.com/vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa)
 
 ---
 
 ## Source Code
 
 ### Custom Code (Fully Original)
+
 All JavaScript, CSS, and HTML files in `/web-app/src/` and `/web-app/index.html` are original work created for this project:
 
 - `main.js` - Application core logic
@@ -62,7 +68,9 @@ All JavaScript, CSS, and HTML files in `/web-app/src/` and `/web-app/index.html`
 - `index.html` - HTML structure
 
 **License Status:** ✅ No third-party code copied or adapted
+
 **Ownership:** Proprietary - Copyright (c) 2025 Shower the People
+
 **Note:** Currently proprietary/all-rights-reserved with option to open-source later
 
 ---
@@ -94,6 +102,7 @@ All JavaScript, CSS, and HTML files in `/web-app/src/` and `/web-app/index.html`
 ## Fonts
 
 ### Montserrat Alternates
+
 - **Usage:** Brand font (mentioned in design.md)
 - **License:** SIL Open Font License (OFL) 1.1
 - **Source:** Google Fonts
@@ -102,6 +111,7 @@ All JavaScript, CSS, and HTML files in `/web-app/src/` and `/web-app/index.html`
 - **Current Status:** ⚠️ **NOT YET IMPLEMENTED** - Font is mentioned in design specs but not yet loaded in the app
 
 **Action Required:** When implementing Montserrat Alternates, either:
+
 1. Load from Google Fonts (recommended): `https://fonts.google.com/specimen/Montserrat+Alternates`
 2. Self-host with proper OFL attribution in a LICENSE or CREDITS file
 
@@ -110,12 +120,14 @@ All JavaScript, CSS, and HTML files in `/web-app/src/` and `/web-app/index.html`
 ## Content
 
 ### Markdown Content Files
+
 - `Resource guide.md`
 - `Directory.md`
 
 **License Status:** These files contain factual information about community resources (agency names, addresses, phone numbers, hours, services). Facts are not copyrightable, but creative expression in the description/organization may be.
 
 **Recommendations:**
+
 1. ✅ Factual data (addresses, phone numbers, hours) - Public information, not subject to copyright
 2. ⚠️ Descriptive text - Ensure all content is either:
    - Original writing by project contributors
@@ -129,6 +141,7 @@ All JavaScript, CSS, and HTML files in `/web-app/src/` and `/web-app/index.html`
 ## External Links and References
 
 The app includes links to external websites (agency sites, Google Maps, Apple Maps, etc.). These are:
+
 - ✅ Factual references - Not subject to copyright
 - ✅ Standard web practice - No permission needed for linking
 - ✅ Properly attributed with `rel="noopener noreferrer"` for security
@@ -138,6 +151,7 @@ The app includes links to external websites (agency sites, Google Maps, Apple Ma
 ## Third-Party Services
 
 ### Google Maps / Apple Maps
+
 - **Usage:** Address links open in user's preferred map application
 - **License:** Links to these services are permitted under their terms of service
 - **Compliance:** ✅ No API keys or embedded content used, only deep links
@@ -168,8 +182,9 @@ When distributing this project, include:
 
 ### Sample Attribution Text
 
-```
+```plaintext
 This application uses the following open-source libraries:
+
 - Marked (MIT License) - https://github.com/markedjs/marked
 - DOMPurify (Apache 2.0 / MPL 2.0) - https://github.com/cure53/DOMPurify
 - Vite (MIT License) - https://vitejs.dev
@@ -185,17 +200,20 @@ Full license texts available in THIRD_PARTY_LICENSES.md
 ## Action Items
 
 ### High Priority
+
 - [ ] **Implement Montserrat Alternates font** with proper OFL compliance when ready
 - [ ] **Verify icon designs** don't inadvertently copy existing icons/logos
 - [ ] **Create LICENSE file** for the project (recommend MIT for consistency)
 
 ### Medium Priority
-- [ ] **Create THIRD_PARTY_LICENSES.md** with full license texts for all dependencies
+
+- [ ] **Create `THIRD_PARTY_LICENSES.md`** with full license texts for all dependencies
 - [ ] **Add "About" section** to app with attribution information
 - [ ] **Review markdown content** to ensure all descriptive text is original or properly attributed
 
 ### Low Priority
-- [ ] **Add package.json license field**: `"license": "MIT"` (or chosen license)
+
+- [ ] **Add `package.json` license field**: `"license": "MIT"` (or chosen license)
 - [ ] **Consider adding COPYRIGHT file** with project copyright notice
 
 ---
@@ -207,6 +225,7 @@ Full license texts available in THIRD_PARTY_LICENSES.md
 The project currently uses only permissive open-source licenses (MIT, Apache 2.0, MPL 2.0) that are compatible with each other and allow free use, modification, and distribution. No proprietary code or restrictive licenses detected.
 
 **Key Points:**
+
 1. All npm dependencies have permissive licenses
 2. Custom code is original work
 3. Icons appear to be original/generic
@@ -219,11 +238,11 @@ The project currently uses only permissive open-source licenses (MIT, Apache 2.0
 
 ## License Compatibility Matrix
 
-| License | Compatible with MIT? | Allows Commercial Use? | Requires Attribution? |
-|---------|---------------------|------------------------|----------------------|
-| MIT (marked, vite, vite-plugin-pwa) | ✅ Yes | ✅ Yes | ✅ Yes |
-| Apache 2.0 (DOMPurify option) | ✅ Yes | ✅ Yes | ✅ Yes |
-| MPL 2.0 (DOMPurify option) | ✅ Yes | ✅ Yes | ✅ Yes |
-| OFL 1.1 (Montserrat font) | ✅ Yes | ✅ Yes | Optional |
+| License                             | Compatible with MIT? | Allows Commercial Use? | Requires Attribution? |
+| ----------------------------------- | -------------------- | ---------------------- | --------------------- |
+| MIT (marked, vite, vite-plugin-pwa) | ✅ Yes               | ✅ Yes                 | ✅ Yes |
+| Apache 2.0 (DOMPurify option)       | ✅ Yes               | ✅ Yes                 | ✅ Yes |
+| MPL 2.0 (DOMPurify option)          | ✅ Yes               | ✅ Yes                 | ✅ Yes |
+| OFL 1.1 (Montserrat font)           | ✅ Yes               | ✅ Yes                 | Optional |
 
 All licenses are compatible and allow free use in any type of project.

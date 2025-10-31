@@ -6,14 +6,20 @@
 }
 
 :root {
-  --primary-color: #2c5282;
-  --secondary-color: #4a90e2;
+  /* Shower the People brand colors */
+  --brand-blue: #3877ff;
+  --brand-orange: #e75e13;
+  --brand-white: #ffffff;
+
+  /* Application colors */
+  --primary-color: #3877ff;
+  --secondary-color: #5a93ff;
   --background-color: #ffffff;
   --text-color: #333333;
   --border-color: #e0e0e0;
-  --link-color: #2563eb;
-  --visited-link-color: #7c3aed;
-  --external-link-color: #059669;
+  --link-color: #3877ff;
+  --visited-link-color: #2557cc;
+  --external-link-color: #e75e13;
   --header-height: 80px;
   --spacing-sm: 0.5rem;
   --spacing-md: 1rem;
@@ -45,6 +51,22 @@ button:focus,
 input:focus {
   outline: 3px solid var(--secondary-color);
   outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--primary-color);
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  z-index: 1001;
+  font-weight: 600;
+}
+
+.skip-link:focus {
+  top: 0;
 }
 
 .visually-hidden {
@@ -83,9 +105,11 @@ input:focus {
 
 .nav-btn {
   flex: 1;
-  padding: 0.5rem 0.75rem;
+  padding: 0.5rem 0.25rem;
   font-size: 1rem;
-  font-weight: 600;
+  font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 700;
+  text-align: center;
   border: 2px solid transparent;
   background-color: transparent;
   color: white;
@@ -142,7 +166,8 @@ input:focus {
   padding: var(--spacing-md);
   background-color: #f0f9ff;
   border-bottom: 1px solid #e0e0e0;
-  font-weight: 600;
+  font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 700;
   color: var(--primary-color);
 }
 
@@ -162,7 +187,8 @@ input:focus {
 }
 
 .search-result-title {
-  font-weight: 600;
+  font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 700;
   color: var(--primary-color);
   margin-bottom: 0.25rem;
 }
@@ -243,6 +269,11 @@ input:focus {
 }
 
 /* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 700;
+}
+
 h1 {
   font-size: var(--font-size-h1);
   margin-bottom: var(--spacing-lg);
@@ -586,7 +617,7 @@ tbody tr:hover {
   }
 
   .nav-btn {
-    padding: 0.625rem 1rem;
+    padding: 0.625rem 0.5rem;
   }
 
   .app-main {
@@ -611,7 +642,7 @@ tbody tr:hover {
   }
 
   .nav-btn {
-    min-width: 120px;
+    /* min-width removed - was causing text centering issues with Montserrat font */
   }
 
   .search-container {
@@ -801,7 +832,8 @@ tbody tr:hover {
 
 .feedback-form-group label {
   display: block;
-  font-weight: 600;
+  font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 700;
   margin-bottom: var(--spacing-sm);
   color: var(--text-color);
 }
@@ -899,7 +931,8 @@ tbody tr:hover {
 .feedback-btn {
   padding: 0.625rem 1.25rem;
   font-size: 1rem;
-  font-weight: 600;
+  font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 700;
   border: none;
   border-radius: 6px;
   cursor: pointer;

@@ -4,33 +4,38 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Comprehensive resource guide for people experiencing homelessness in San Luis Obispo County">
-  <meta name="theme-color" content="#2c5282">
+  <meta name="theme-color" content="#3877ff">
   <title>SLO County Homeless Resource Guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@700&display=swap" rel="stylesheet">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="manifest" href="/manifest.json">
 </head>
 <body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  <div id="announcer" class="visually-hidden" aria-live="polite" aria-atomic="true"></div>
   <div id="app">
     <header class="app-header">
-      <nav class="app-nav">
+      <nav class="app-nav" aria-label="Main navigation">
         <button class="nav-btn" data-section="resources">Resources</button>
         <button class="nav-btn" data-section="directory">Directory</button>
         <button class="nav-btn" data-section="about">About</button>
       </nav>
       <div class="search-container">
-        <input type="search" id="search-input" placeholder="Search..." aria-label="Search resources and directory">
-        <div id="search-results" class="search-results" hidden></div>
+        <input type="search" id="search-input" placeholder="Search..." aria-label="Search resources and directory" aria-controls="search-results" aria-expanded="false" aria-autocomplete="list">
+        <div id="search-results" class="search-results" role="listbox" aria-label="Search results" hidden></div>
       </div>
     </header>
 
-    <main class="app-main">
+    <main class="app-main" id="main-content">
       <section id="resources-section" class="content-section">
-        <div class="loading">Loading resources...</div>
+        <div class="loading" role="status" aria-live="polite">Loading resources...</div>
       </section>
 
       <section id="directory-section" class="content-section" hidden>
-        <div class="loading">Loading directory...</div>
+        <div class="loading" role="status" aria-live="polite">Loading directory...</div>
       </section>
 
       <section id="about-section" class="content-section" hidden>
@@ -52,13 +57,14 @@
         <h2>Disclaimer</h2>
         <p>This guide is provided for informational purposes only. While we strive to keep information current and accurate, services, hours, and eligibility requirements may change. Please contact organizations directly to verify details before visiting.</p>
 
-        <h2>Open-Source Libraries</h2>
-        <p>This application uses the following open-source libraries:</p>
+        <h2>Open-Source Libraries and Fonts</h2>
+        <p>This application uses the following open-source libraries and fonts:</p>
         <ul>
           <li><a href="https://github.com/markedjs/marked" target="_blank" rel="noopener noreferrer">Marked</a> (MIT License) - Markdown parser</li>
           <li><a href="https://github.com/cure53/DOMPurify" target="_blank" rel="noopener noreferrer">DOMPurify</a> (Apache 2.0 / MPL 2.0) - HTML sanitizer</li>
           <li><a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">Vite</a> (MIT License) - Build tool</li>
           <li><a href="https://vite-pwa-org.netlify.app" target="_blank" rel="noopener noreferrer">vite-plugin-pwa</a> (MIT License) - Progressive Web App functionality</li>
+          <li><a href="https://fonts.google.com/specimen/Montserrat+Alternates" target="_blank" rel="noopener noreferrer">Montserrat Alternates</a> (SIL Open Font License 1.1) - Display font</li>
         </ul>
         <p>Full license texts available in <a href="https://github.com/showerthepeopleslo/resource-guide/blob/main/THIRD_PARTY_LICENSES.md" target="_blank" rel="noopener noreferrer">THIRD_PARTY_LICENSES.md</a>.</p>
 
@@ -72,7 +78,7 @@
     <div id="directory-overlay" class="directory-overlay" hidden>
       <div class="directory-modal">
         <button class="close-btn" aria-label="Close directory entry">
-          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
             <path d="M18 6L6 18M6 6l12 12" stroke-linecap="round" stroke-linejoin="round"/>
           </svg>
         </button>

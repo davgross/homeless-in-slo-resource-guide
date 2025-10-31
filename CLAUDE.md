@@ -28,7 +28,9 @@ They are unlikely to have their own FAX machines, personal computers, scanners, 
 
 ## Task Instructions
 
-The primary task is to flesh out the existing outline with more complete and detailed information. Key requirements:
+### Improve Resource Data
+
+Flesh out the existing guide with more complete, detailed, and accurate information. Key requirements:
 
 1. **Use reputable and recent sources**: All information must come from reliable, up-to-date sources
    - The best source for information about an agency is usually that agency's own website
@@ -42,17 +44,18 @@ The primary task is to flesh out the existing outline with more complete and det
 
 Other tasks include:
 
-1. **Organize the material well** and remove redundancies
-2. **Where source annotations are missing, provide and hyperlink to authoritative sources**
+1. **Organize the material well**
+2. **Where source annotations are missing, provide authoritative sources**
 3. **Prune out inappropriate material**: things that are not relevant to our target audience
+   - this includes things that are only available to people outside SLO County
    - for things that are not yet (or are no longer) available, it is better to note this in the listing than to remove the listing entirely, so that we don't go through the anti-pattern of finding information on the web, adding a listing for it, removing it for being inappropriate upon further research, then adding it again when we discover it again
 4. **Standardize formatting**: Use consistent markup for hyperlinks, phone numbers, date and time ranges, addresses, etc.
 5. **Cross-reference listings**: For example, if an agency mentioned in the "Housing" section notes that it offers mail drop service, make sure there is also a reference to that agency in the "Mail drops" section.
-6. **Use simple English in draft text**: If add text that is meant as draft text to be inserted into the guide (rather than as notes for the researchers and editors), take care to write that text in simple English that is easy to understand by the target audience — for example: use linear sentences without tangled clauses, simple verbs rather than progressive-tense verbs when possible, active voice, literal rather than idiomatic language, and basic vocabulary.
-7. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
-8. **Divide information correctly between outline and directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Outline. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Resource Guide.
-9. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
-10. **Transition to prose**: In @"Resource guide.md", once we have collected enough information, rewrite that information as easy-to-read and well-organized paragraphs, containing the information most useful and relevant to our target audience. Our site style for prose sections is to have one complete sentence per line of markdown, so a paragraph of four sentences will consist of four consecutive lines of markdown.
+6. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
+7. **Divide information correctly between the resource guide and the directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Resource Guide. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Resource Guide.
+8. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
+9. **Use simple English in draft text**: If you add text that is meant as to be inserted as-is into the guide (rather than as notes for the researchers and editors), take care to write that text in simple English that is easy to understand by the target audience — for example: use linear sentences without tangled clauses, simple verbs rather than progressive-tense verbs or compound verbs when possible, active voice, literal rather than idiomatic language, and basic vocabulary.
+10. **Transition to prose**: In @"Resource guide.md", once we have collected enough raw notes, rewrite that information as easy-to-read and well-organized paragraphs, containing the information most useful and relevant to our target audience. Our site style for prose sections is to have one complete sentence per line of markdown, so a paragraph of four sentences will consist of four consecutive lines of markdown.
 
 ## Current State
 
@@ -60,8 +63,9 @@ The outline contains several major sections; the table of contents lists these.
 
 ### File Structure
 
-- **Format**: Markdown with HTML anchors for major sections
-- **Main files**: `@Resource guide.md`, `@Directory.md`
+- **Data format**: Markdown with HTML anchors for major sections
+- **Main data files**: `@Resource guide.md`, `@Directory.md`
+- **Implementation**: See "Project Structure" in `@web-app/README.md`
 
 ### Major Outline Sections (37 total)
 
@@ -109,10 +113,6 @@ If you see a "To-do:", this represents a task that you might be able to accompli
 If you can do so efficiently and reputably (without hallucinating or relying on unreliable sources), do so.
 If you cannot, change the "To-do:" to something like "Note:" and append a parenthetical remark about why you were unable to accomplish this yourself (this way you will not keep seeing the "To-do" and trying futilely to do it again and again).
 
-There is a separate health care / medical guide that is already well-researched and -maintained, so this outline will mostly just defer to that one for those topics, except for a few possible supplementary subsections which are listed in the outline.
-
-There are guides produced by other agencies that do a good job of describing a variety of services for veterans and for seniors, so we don't have to pursue those resources in as much detail; we can just defer to those other guides.
-
 ## Working Guidelines
 
 - Prioritize accuracy and up-to-dateness of information
@@ -127,15 +127,15 @@ There are guides produced by other agencies that do a good job of describing a v
 
 - Annotate your information changes or additions with the URL of the source where you found the new information, to enable later verification
 
-- Use this kebab format for phone numbers: 123-456-7890; convert phone numbers that use different formats, like those that put the area code in parentheses, to the kebab format. Omit the initial "1-" or "+1-" from U.S. numbers (but not from the URL).
+- Use this kebab format for phone numbers: 123-456-7890; convert phone numbers that use different formats, like those that put the area code in parentheses, to the kebab format. Omit the initial "1-" or "+1-" from U.S. numbers (but not from the tel URL).
 
 - Use en-dashes for ranges, like $5–10, Monday–Friday, or 8am–5pm
 
 - Prefer `*italicized*` markdown rather than all-caps for emphasis
 
-- If you need to retrieve a resource from the web, just do it; don't ask first. For example, you have permission to use your web fetch API to retrieve documents from the web by using your own judgment; you do not have to ask permission before fetching a resource from the web. Do not ask permission if you can help it, but just execute the fetch.
+- If you need to retrieve a page from the web, just do it; don't ask first. You have permission to use your web fetch API to retrieve documents from the web by using your own judgment.
 
-- Note that this outline is subject to future reorganization. For this reason, do not cross-reference sections by number (e.g. "See section 12") because those numbers may change; use the name of the section instead in such references. If the reference is to a top-level section, also hyperlink the reference using the anchor for that section.
+- The Resource Guide outline is subject to future reorganization. For this reason, do not cross-reference sections by number (e.g. "See section 12") because those numbers may change; use the name of the section instead in such references. If the reference is to a section heading, also hyperlink the reference by using the anchor for that section heading (or add an anchor if one does not exist).
 
 - If you do not know a particular piece of information, and cannot find it on the web or elsewhere, do not just make something up that sounds plausible and do not fill in the gap with "it is probably X" or "it may be Y". Instead, note that you were unable to determine the information in reputable sources. This way human researchers can fill in those gaps with off-line investigation.
 
@@ -151,15 +151,6 @@ When working on the outline, these search patterns are frequently useful:
 
 - `grep -n "To-do"` - Find remaining To-do items
 - `grep -n "<a id="` - Find major section headings
-
-### Finding Agencies Needing Directory Entries
-
-When systematically moving agencies from the outline to the Directory, these patterns help identify candidates:
-
-- `grep -n "Contact:" "Resource guide.md"` - Find agencies with explicit Contact fields
-- `grep -n "805-[0-9]" "Resource guide.md" | grep -v "See \["` - Find phone numbers not yet cross-referenced
-- `grep -n "http" "Resource guide.md" | grep -v "Source:"` - Find hyperlinks (potential agencies)
-- Look for patterns like "Location:", "Phone:", "Email:", "Hours:" that indicate contact information
 
 ### Current Date
 
@@ -184,15 +175,15 @@ When editing files with the Edit tool:
 - Curly quotes and apostrophes (“ ” ‘ ’) vs. straight quotes and apostrophes (" ') won't match
 - Try not to replace curly quotes and apostrophes with their straight quote/apostrophe equivalents when you manipulate text.
 - If you get "String to replace not found" errors, read the exact text with the Read tool and copy it character-for-character
-- When in doubt, use smaller, simpler replacement strings that avoid special characters
+- When in doubt, use smaller, simpler replacement strings that avoid special characters, or use wildcards in place of apostrophes and quotation marks when doing searches
 - The `cat -A` command can reveal hidden unicode characters if troubleshooting is needed
 
 ### Agency vs. Program Distinction
 
 Not everything needs a separate Directory entry:
 
-- **Separate entries**: Independent agencies, organizations with their own governance, programs that are separable (have their own location, phone number, hours of operation, etc. distinct from their parent agency)
-- **Program notes**: Programs operated by larger organizations (e.g., "Head Start" is a CAPSLO program, not separate)
+- **Needs Directory entries**: Independent agencies, organizations with their own governance, programs that are separable (have their own location, phone number, hours of operation, etc. distinct from their parent agency)
+- **Program notes under existing entries**: Programs operated by larger organizations (e.g., "Head Start" is a CAPSLO program, not separate)
 - **Cross-reference patterns**:
    - If it's a program: mention it in the parent organization's Notes field
    - If it's an independent agency: create a separate Directory entry
@@ -200,10 +191,10 @@ Not everything needs a separate Directory entry:
 
 ### Key Local Agencies (Frequently Referenced)
 
-- **CAPSLO** (Community Action Partnership SLO): [capslo.org](https://capslo.org/) - 805-544-4355
-- **ECHO** (El Camino Homeless Organization): [echoshelter.org](https://www.echoshelter.org/) - 805-462-3663
+- **CAPSLO** (Community Action Partnership SLO): [capslo.org](https://capslo.org/)
+   - **40 Prado Homeless Services Center**: CAPSLO-operated, SLO city
+- **ECHO** (El Camino Homeless Organization): [echoshelter.org](https://www.echoshelter.org/)
 - **5Cities Homeless Coalition**: [5chc.org](https://5chc.org/)
-- **40 Prado Homeless Services Center**: CAPSLO-operated, SLO city
 
 ### Geographic Boundaries
 
@@ -218,7 +209,7 @@ The main regions to be covered by the guide this outline describes are the follo
 - **Estero Bay**: Morro Bay, Los Osos, Baywood Park
 - **South County**: Los Berros, Nipomo, Woodlands, Callender
 
-Santa Maria, Orcutt, Guadalupe, and Betteravia are just across the county's southern border in Santa Barbara county, and there is often some overlap between services offered there and in SLO's South County.
+Santa Maria, Orcutt, Guadalupe, and Betteravia are just across the county's southern border in Santa Barbara county, and there is often some overlap between services offered there and in SLO's South County area.
 
 ### Formatting Quick Reference
 
@@ -240,14 +231,4 @@ Based on common patterns, these sections frequently need verification:
 - **Pricing/costs** - Fees and assistance amounts change
 - **Location** - Where people can access the service
 - **Hours** - Days and hours of operation
-- **URLs** - Websites reorganize, creating broken links
-
-### Quick Tasks to Check Periodically
-
-1. Verify all phone numbers are in kebab format (123-456-7890)
-2. Ensure all URLs use https when the site supports it
-3. Check that source annotations point to specific pages, not homepages (unless the home page is where the information is found)
-4. Convert ALL CAPS text, when used for emphasis, to *italicized* text
-5. Replace hyphens with en-dashes in ranges (8am–5pm, $5–10)
-6. Verify internal cross-references use section names, not numbers (as the outline organization may change)
-7. Ensure that all email addresses and telephone numbers are hyperlinked appropriately
+- **URLs** - Websites reorganize, creating broken links (URLs should use https when the site supports it)
