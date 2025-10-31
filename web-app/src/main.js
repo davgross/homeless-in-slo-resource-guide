@@ -4,6 +4,7 @@ import DOMPurify from 'dompurify';
 import { enhanceLinks } from './linkEnhancer.js';
 import { parseMarkdown, extractDirectoryEntries } from './markdownParser.js';
 import { initFeedback } from './feedback.js';
+import { initShareButton } from './shareButton.js';
 
 // Import markdown files directly as raw text
 import resourcesMarkdown from '../../Resource guide.md?raw';
@@ -31,6 +32,9 @@ async function init() {
 
   // Initialize feedback system
   initFeedback();
+
+  // Initialize share button
+  initShareButton();
 
   // Load content
   await loadMarkdownContent();

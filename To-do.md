@@ -14,7 +14,8 @@
    1. We should whenever possible open the map using the app that the user prefers (if there is a way of knowing this). Google Maps and Apple Maps are probably reasonable fallbacks for Androids & iPhones respectively. Investigate non-commercial alternatives like OpenStreetMap as possible fallback options.
    1. If the browser/device supports "geo:" tags, those might be a good choice; but we probably need a fallback for browsers/devices that do not.
 
-1. Currently, anchors in the markdown source are set via HTML `<a id="foo" />` tags. If our markdown renderer allows for a more graceful markdown-native way to do this, let's switch to that.
+1. ~~Currently, anchors in the markdown source are set via HTML `<a id="foo" />` tags. If our markdown renderer allows for a more graceful markdown-native way to do this, let's switch to that.~~ ✓ (Investigated: Marked.js supports auto-generating IDs from headers, but explicit HTML anchors are preferable for this project because: (1) IDs are visible to human editors making linking easier, (2) IDs remain stable if header text changes, (3) supports custom short IDs like `40-Prado`, (4) supports multiple IDs per entry for aliases. Current approach is actually best practice for this use case.)
+   1. I think I've seen some species of markdown that have an anchor-insertion mechanism (e.g. "`{anchor}`" or something like that). Is that an option for our current rendering engine?
 
 1. There are still some notes in @Directory.md that really belong in "@Resource Guide.md" -- fix that.
 
@@ -22,23 +23,26 @@
 
 1. ~~Flag any broken internal links (e.g. links to anchors that do not exist).~~ ✓ (Created `check-links.js` script and fixed 8 broken links: corrected anchor case for Catholic Charities, Restorative Partners, 40 Prado, and IDs section.)
 
-1. Come up with a snappy name for the app that is brief, evocative, and inviting.
-
-1. Ensure that icon designs have not been inadvertently copied without permission.
-
 1. Carefully fact check everything and add source code comments indicating the date of the fact check and the source of the verified information.
 
 1. Consider which open-source license to use for the project.
 
-1. Consider adding a "share" button:
-   - Maybe one for the site as a whole
-   - Maybe also some sort of share feature for individual sections/subsections of the Resource Guide and Directory
-   - With a variety of share options (email, but maybe also various social media sites if this isn't too difficult to implement)
+1. ~~Consider adding a "share" button:~~ ✓ (Implemented share button with:
+   - Fixed floating action button (bottom-left, orange, using Web Share API on mobile)
+   - Fallback to copy-to-clipboard for browsers without Web Share API
+   - Toast notification to confirm action
+   - Accessible with proper ARIA labels and keyboard support)
 
-1. Replace "--" dashes, ' and " straight-quotes, and ' apostrophes with better unicode characters. (Claude struggles with such characters, so this may be a task for a human.)
+1. Enhance the "share" feature by adding section-specific share buttons and share buttons within the Directory modal that link to specific Directory entries. (Can add these with the `createSectionShareButton()` function?)
 
-1. Isolate the UI text in a way that makes it easier to swap in alternative languages (e.g. a Spanish-language version of the site).
+1. Isolate the UI text in a way that makes it easier to swap-in alternative languages (e.g. a Spanish-language version of the site).
 
 1. Consider ways to make pages, sections, subsections, and directory entries available for printing in a graceful way.
 
-1. Restyle nested ordered lists so that they do not all use arabic-numeral style (e.g. so they use 1.a.i as opposed to 1.1.1).
+1. Replace "--" dashes, ' and " straight-quotes, and ' apostrophes with better unicode characters. (Claude struggles with such characters, so this may be a task for a human.)
+
+1. Come up with a snappy name for the app that is brief, evocative, and inviting.
+
+1. Ensure that icon designs have not been inadvertently copied without permission.
+
+1. ~~Restyle nested ordered lists so that they do not all use arabic-numeral style (e.g. so they use 1.a.i as opposed to 1.1.1).~~ ✓ (Added CSS to style nested ordered lists: level 1 = decimal (1, 2, 3), level 2 = lower-alpha (a, b, c), level 3 = lower-roman (i, ii, iii), then repeating.)
