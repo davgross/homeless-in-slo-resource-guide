@@ -1660,7 +1660,7 @@ You are required to do four hours of community service (or an equivalent financi
 You must agree to remain clean and sober, and to get no more tattoos, during the treatment.
 This service is offered locally, in SLO County.
 
-[**Catholic Charities**](Directory.md#CatholicCharities) has a low-cost tattoo removal program ($20–90 per session, on a sliding scale based on ability to pay).
+[**Catholic Charities**](Directory.md#Catholic-Charities) has a low-cost tattoo removal program ($20–90 per session, on a sliding scale based on ability to pay).
 You must also complete 20 hours of community service before beginning treatment.
 They prioritize the removal of offensive or gang-related tattoos, and will remove both visible-and-obvious tattoos (e.g. the face, the back of the hands) and more discreet ones.
 Call them to begin the process.
@@ -2059,7 +2059,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ### Immigration Law
 
-1. [**Catholic Charities**](Directory.md#CatholicCharities) (Legal Aid Services)
+1. [**Catholic Charities**](Directory.md#Catholic-Charities) (Legal Aid Services)
    - Services: Immigration and housing legal assistance
    - Cost: Sliding scale based on income
    - Eligibility: Available to all regardless of faith background; focus on low-income individuals
@@ -2318,7 +2318,7 @@ The post office may stop accepting general delivery mail for you if you try to u
    1. **Faith-Based and Community Mail Services**
       - Specific Organizations to Contact:
         - **Catholic Charities Diocese of Monterey**: (call to inquire about mail assistance)
-          - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#CatholicCharities) in the [Directory](Directory.md).
+          - Website/Phone/Hours/Location: See [**Catholic Charities**](Directory.md#Catholic-Charities) in the [Directory](Directory.md).
         - **The Salvation Army SLO Corps**: (offers case management/referral services; ask about mail support)
           - Locations/Phone: See [**Salvation Army**](Directory.md#Salvation-Army) in the [Directory](Directory.md)
       - Note: Call organizations directly to verify current mail service availability; services may be limited to active participants [Sources: [catholiccharitiesdom.org](https://catholiccharitiesdom.org/), [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)]
@@ -2363,7 +2363,7 @@ The post office may stop accepting general delivery mail for you if you try to u
 
 > See [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc) for some tips on what to do if you need to provide a residency address but you are currently homeless.
 
-> See [IDs and other documents](#ids-and-other-documents-how-to-obtain-replace-secure) section for information on how to obtain required identification and other documentation.
+> See [IDs and other documents](#ids-and-other-documents) section for information on how to obtain required identification and other documentation.
 
 - Tips for Success
    - Call ahead: Contact banks before visiting to understand their specific requirements and available programs
@@ -2711,7 +2711,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Bridge Cafe location: 1074 Higuera Street, downtown SLO, Monday–Friday 7am–3pm
       - Source: [thebridgecafe.org](https://www.thebridgecafe.org/)
    1. The Bridge Cafe
-      - project of [**Restorative Partners**](Directory.md#restorative-partners)
+      - project of [**Restorative Partners**](Directory.md#Restorative-Partners)
       - job development for people tangled in the criminal justice system
       - 1074 Higuera St., SLO
       - [805-459-1689](tel:+1-805-459-1689)
@@ -2900,7 +2900,7 @@ This program is for California residents with medically-certified limitations of
       - What’s Available: Computer and internet access for clients
       - Services: Information and referral, coordinated entry services
       - Website: [5chc.org/programs/information-and-referral-coordinated-entry](https://5chc.org/programs/information-and-referral-coordinated-entry)
-   1. [**40 Prado Homeless Services Center**](Directory.md#40-prado)
+   1. [**40 Prado Homeless Services Center**](Directory.md#40-Prado)
       - What’s Available: Computer and phone access for clients
       - Hours: call for current computer/phone access hours
 1. Email and Communication Services, Organizations Providing Digital Communication Assistance:
@@ -2996,7 +2996,7 @@ This program is for California residents with medically-certified limitations of
       - Mission: Coalition of religious organizations, veterans, and community activists
       - Eligibility: Serves legally immigrated families and refugees on the Central Coast. Provides ongoing assistance and advocacy for refugee families in housing, transportation, job search, language support, and education.
       - Website: [slo4home.org](https://www.slo4home.org/)
-   1. [**Catholic Charities**](Directory.md#CatholicCharities)
+   1. [**Catholic Charities**](Directory.md#Catholic-Charities)
       - Immigration Services: Legal representation for refugees and asylum seekers, immigration guidance
       - Coverage: Monterey, San Benito, San Luis Obispo, and Santa Cruz counties
       - Target: 30,000+ people served annually including refugees, asylum seekers, and immigrants
@@ -3315,7 +3315,7 @@ Some services are by-appointment only.
 If your pet needs veterinary care, call them to set up an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic.
 There is no charge to the pet owner, but donations are appreciated.
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests).
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests).
 Pets must have documented rabies vaccinations.
 
 [**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.

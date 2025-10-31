@@ -111,7 +111,7 @@ function enhanceExternalLinks(container) {
     const url = new URL(link.href);
     if (url.hostname !== window.location.hostname) {
       link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener noreferrer');
+      link.setAttribute('rel', 'noopener');
 
       // Add aria-label
       const currentLabel = link.getAttribute('aria-label');
@@ -163,7 +163,7 @@ function enhanceAddressLinks(container) {
 
         link.textContent = address.trim();
         link.setAttribute('target', '_blank');
-        link.setAttribute('rel', 'noopener noreferrer');
+        link.setAttribute('rel', 'noopener');
         link.setAttribute('aria-label', `Open ${address.trim()} in maps`);
         link.classList.add('address-link');
         fragment.appendChild(link);
