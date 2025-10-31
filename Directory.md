@@ -312,6 +312,40 @@
 - Phone: [805-782-0824](tel:+1-805-782-0824)
 - Hours: Tu–Sa 11am–4pm
 
+## <a id="Atascadero-Senior-Center">Atascadero Senior Center</a>
+
+<!-- Source: https://atascaderoseniorcenter.org/ verified October 2025 -->
+- [atascaderoseniorcenter.org](https://atascaderoseniorcenter.org/)
+- Location: 5905 East Mall, Atascadero
+- Phone: [805-466-4674](tel:+1-805-466-4674)
+- Hours: M–F (hours vary by activity; call for details)
+- Services:
+   - Free lunch M–F at 11:30am ([**Meals that Connect**](#Meals-that-Connect); reservation required)
+   - Free WiFi and computer access
+   - Lending library (books, DVDs, puzzles, games)
+   - Medical equipment loans (wheelchairs, walkers, etc.)
+   - Games: Bunco (M, $4), Mahjong, card games, board games, dominoes
+   - Fitness: Tai Chi (3x/week), chair yoga, walking groups (M & Th, free)
+   - Arts and crafts classes
+   - Movies with refreshments
+   - Discussion groups
+- Notes: Most activities free for members ($2 for guests); membership open to people 50+
+
+## <a id="Atascadero-Parks-and-Recreation">Atascadero Parks & Recreation</a>
+
+<!-- Source: https://www.atascadero.org/recreation verified October 2025 -->
+- [atascadero.org/recreation](https://www.atascadero.org/recreation)
+- Location: Colony Park Community Center, 5599 Traffic Way, Atascadero
+- Phone: [805-470-3360](tel:+1-805-470-3360)
+- Email: [recreation@atascadero.org](mailto:recreation@atascadero.org)
+- Hours: M–F 9am–5pm
+- Services:
+   - Senior programs: 55+ yoga, card games, badminton, Senior Chair Wellness Class, Pickleball
+   - Adult sports: basketball leagues, kickball, Drop-in Basketball (M/W/F 12–2pm)
+   - Youth programs: aquatics, basketball, T-ball, volleyball, pickleball, Start Smart Sports
+   - Teen Center: $20/year membership
+   - Facility: 18,000 sq. ft. Colony Park Community Center for classes, meetings, and events
+
 ## <a id="Balay-Ko-on-Barka">Balay Ko on Barka</a>
 
 > *a.k.a. “My Home for Hope”*
@@ -521,6 +555,19 @@
 - Email: [info@cambriavineyard.org](mailto:info@cambriavineyard.org)
 - Hours (food pantry): 2nd & 4th Thursdays, Noon–2pm
 
+## <a id="Cambrias-Anonymous-Neighbors">Cambria's Anonymous Neighbors (CAN)</a>
+
+<!-- Source: https://www.joslynrec.org/CAN/index.html and https://www.cambriasanonymousneighbors.org/other-community-services.html -->
+- [joslynrec.org/CAN](https://www.joslynrec.org/CAN/index.html)
+- Phone: [805-927-5673](tel:+1-805-927-5673)
+- Services:
+   - Monthly food distribution
+   - Loans of medical equipment (wheelchairs, walkers, canes, grab bars, Life Alert devices, etc.)
+   - Transportation for medical appointments within SLO County
+   - Minor home repairs (e.g., installing grab bars)
+- Service area: Cambria and North Coast
+- Notes: Donations of medical equipment in good condition accepted; some items cannot be accepted due to regulations and limited storage (e.g., hospital beds, adult diapers)
+
 ## CAPSLO
 
 > *See [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
@@ -589,7 +636,7 @@
 - [catholiccharitiesdom.org](https://catholiccharitiesdom.org/)
    - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
    - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
-- Location: 3250 S. Higuera St. #D, SLO
+- Location: 3250 S. Higuera St. #D, SLO <!-- Note: another source says 3592 Broad St. #104 -->
 - Phone: [805-541-9110](tel:+1-805-541-9110)
    - Immigration Services: [831-722-2675](tel:+1-831-722-2675)
    - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Note: Tattoo removal office is in Santa Cruz, not SLO)
@@ -755,6 +802,18 @@
    - For pet food distributions, come to locations during operating hours, or call for delivery options
    - For emergency pet care, call, then a case manager conducts interview for Emergency Vet Care Program qualification and vet referrals
 
+## <a id="Central-Coast-Senior-Center">Central Coast Senior Center (Oceano)</a>
+
+<!-- Source: Web search October 2025; limited detailed information available online -->
+- Location: 1580 Railroad St., Oceano
+- Phone: [805-489-5149](tel:+1-805-489-5149)
+- Services:
+   - Lunch served M–F
+   - Monthly luncheon
+   - Activities: Bingo, Bunco, Tai Chi, art classes
+   - Senior nutrition site
+- Notes: Open to seniors 50+; for more information call [**Senior Connection**](#Senior-Connection) at 805-928-2552
+
 ## <a id="Central-Coast-Veterans-Helping-Veterans">Central Coast Veterans Helping Veterans</a>
 
 <!-- Source: https://www.ccvhv.org/ -->
@@ -812,11 +871,11 @@
 
 <!-- Source: https://www.guidestar.org/profile/27-1473791 and https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 - [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org)
+- Location: 1212 Farroll Ave., Arroyo Grande <!-- Location found at https://5chc.org/community-services/clothing -->
 - Mailing Address: P.O. Box 454, Pismo Beach, CA 93448-0454
 - Phone: [805-709-8673](tel:+1-805-709-8673)
 - Email: [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org)
 - Notes: Operates “Outreach Apparel” and “The Teen’s Closet”
-<!-- Note: Organization uses P.O. Box; no physical street address or public operating hours found (as of October 2025). Website down or unavailable via VPN; organization verified through nonprofit databases including Charity Navigator and GuideStar -->
 
 ## <a id="City-of-SLO-Parks-and-Recreation">City of SLO Parks and Recreation</a>
 
@@ -916,7 +975,7 @@
    - 1551 Bishop St., SLO, [805-549-0402](tel:+1-805-549-0402)
    - 77 Casa St., SLO, [805-269-1500](tel:+1-805-269-1500)
    - 40 Prado, SLO, [805-269-1500](tel:+1-805-269-1500) ([**Healthcare for the Homeless Program**](#HCHP))
-   - 1330 Las Tablas Rd., Templeton, [805-542-6700](tel:+1-805-542-6700) ("immediate care"; walk-ins OK; M&ndash;Th 8am&ndash;6pm)
+   - 1330 Las Tablas Rd., Templeton, [805-542-6700](tel:+1-805-542-6700) ("immediate care"; walk-ins OK; M–Th 8am–6pm)
    - 292 Posada Ln. #A, Templeton, [805-542-6701](tel:+1-805-542-6701)
 - Main Phone: [805-361-8400](tel:+1-805-361-8400) (M–F 8am–6pm) / [866-614-4636](tel:+1-866-614-4636) (after-hours care)
 - “CHC Transportation Services” is a door-to-door ride service to appointments
@@ -1066,7 +1125,7 @@
 
 - [www.echoshelter.org](https://www.echoshelter.org/)
 - Locations:
-   - 7600 El Camino Real #12, Atascadero
+   - 7600 El Camino Real #12, Atascadero <!-- Another source says 6370 Atascadero Ave., Atascadero -->
    - 1134 Black Oak Dr., Paso Robles
 - Phone: [805-462-3663](tel:+1-805-462-3663)
 - Email: [asolheim@echoshelter.org](mailto:asolheim@echoshelter.org)
@@ -1312,12 +1371,13 @@
 - Locations:
    - Mailing: P.O. Box 2217, Atascadero, CA 93423
    - 1825 San Ramon Rd., Atascadero
+   - 444 N. 4th St., Grover Beach
    - Two men’s homes in Grover Beach
    - One men’s and one women’s home in SLO
 - Phone:
-   - [805-550-8140](tel:+1-805-550-8140)
+   - [805-550-8140](tel:+1-805-550-8140) (men)
+   - [805-748-8491](tel:+1-805-748-8491) (women)
    - [805-748-6204](tel:+1-805-748-6204)
-   - [805-748-8491](tel:+1-805-748-8491)
 - Email: [info@gryphonsociety.weebly.com](mailto:info@gryphonsociety.weebly.com)
 
 ## <a id="Habitat-for-Humanity">Habitat for Humanity SLO County</a>
@@ -1472,14 +1532,14 @@ This program helps ensure uninsured patients can access necessary medical care w
 <!-- Source: https://fcni.org -->
 - [fcni.org](https://fcni.org)
 - Location: 1255 Kendall Rd., SLO
-- Phone: [805-781-3535](tel:+1-805-781-3535)
+- Phone: [805-781-3535](tel:+1-805-781-3535)  <!-- Another source says 805-474-2000 -->
 - Hours: M–F 8:30am–5pm
 - How to access: Get a referral from a [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) Employment Resource Specialist
 - Notes:
    - Run by [**Family Care Network**](#Family-Care-Network)
    - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
 
-## Independent Living Resource Center
+## Independent Living Resource Center (ILRC)
 
 > *See [**Access Central Coast**](#Access-Central-Coast)*
 
@@ -1937,6 +1997,38 @@ This program helps ensure uninsured patients can access necessary medical care w
    - Mondays: 4:30pm (doors open for pantry shopping, free clothes, towels, toiletries)
    - Dinner service: 5–5:45pm
 
+## <a id="Morro-Bay-Senior-Center">Morro Bay Senior Center (Morro Bay Active Adults...55+)</a>
+
+<!-- Source: https://morrobayseniors.org/ verified October 2025 -->
+- [morrobayseniors.org](https://morrobayseniors.org/)
+- Location: 1001 Kennedy Way, Morro Bay
+- Phone: [805-772-4421](tel:+1-805-772-4421)
+- Hours: M–F 9am–4pm
+- Membership: $15/year individual, $25/year household (90+ free); open to people 55+
+- Services:
+   - Medical equipment loans (wheelchairs, crutches, walkers, shower chairs, canes)
+   - Games: Bingo, Bridge Club, Chess Club, Dominoes, Hand & Foot cards, Mahjong, Ping-Pong, Darts, Pinochle, Poker, Pool/Billiards
+   - Fitness: ACES Senior Exercise, Bocce Ball, P.A.C.E. (People with Arthritis Can Exercise), Pickleball, Tai Chi, Walking Group
+   - Support groups
+- Notes: In 2016 began operating as "Morro Bay Active Adults...55+"; originally formed in 1974 as Morro Bay Senior Citizens, Inc.
+
+## <a id="Morro-Bay-Parks-and-Recreation">Morro Bay Parks & Recreation</a>
+
+<!-- Source: https://www.morrobayca.gov/292/Recreation-Services verified October 2025 -->
+- [morrobayca.gov/292/Recreation-Services](https://www.morrobayca.gov/292/Recreation-Services)
+- Location: Morro Bay Community Center, 1001 Kennedy Way, Morro Bay
+- Phone: [805-772-6278](tel:+1-805-772-6278)
+- Hours: M–F 8:30am–5pm (registration)
+- Services:
+   - Youth programs: Kids' Club before/after school care, Kids' Camp, sports leagues
+   - Aquatics: swimming programs, Junior Lifeguard Program
+   - Senior activities
+   - Adult sports leagues
+   - Project Surf Camp
+   - Fitness classes: Freestyle Fitness, Zumba
+   - Scholarship applications available
+   - Facility rentals
+
 ## My Home for Hope
 
 > *See [**Balay Ko on Barka**](#Balay-Ko-on-Barka)*
@@ -1962,9 +2054,13 @@ This program helps ensure uninsured patients can access necessary medical care w
 
 ## <a id="New-Life-U-Pick-Pantry">New Life U-Pick Pantry</a>
 
-- Location: 941 N. Oak Park Blvd., Pismo Beach
+<!-- Source: https://www.newlifepismo.com verified October 2025 -->
+- [newlifepismo.com](https://www.newlifepismo.com/)
+- Location: 990 James Way, Pismo Beach
+- Phone: [805-489-3254](tel:+1-805-489-3254)
+- Email: [info@newlifepismo.com](mailto:info@newlifepismo.com)
 - Hours: Tu 6–7:30pm, W 10am–noon, Th 1:30–3:30pm
-<!-- Note: Unable to find website or contact information through online research (as of October 2025) -->
+- Notes: Part of New Life Community Center; also includes New Life Counseling Center
 
 ## <a id="Nipomo-Community-Presbyterian">Nipomo Community Presbyterian</a>
 
@@ -1981,6 +2077,23 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-619-7681](tel:+1-805-619-7681)
 - Hours: M/Tu/Th 10am–1pm
 <!-- Note: No dedicated website found (as of October 2025) -->
+
+## <a id="Nipomo-Senior-Center">Nipomo Senior Center</a>
+
+<!-- Source: https://nipomoseniorcenter.org/ verified October 2025 -->
+- [nipomoseniorcenter.org](https://nipomoseniorcenter.org/)
+- Location: 200 E. Dana St., Nipomo
+- Phone: [805-929-1615](tel:+1-805-929-1615)
+- Hours: M–F 9am–1pm
+- Membership: $20/year (includes access to all activities and programs)
+- Services:
+   - Lunch via [**Meals that Connect**](#Meals-that-Connect) program (facility & home delivery)
+   - Equipment loans (wheelchairs, shower chairs, etc., when available, free)
+   - Monday: Exercise class (low impact chair) 10–11am, Bingo 11am–Noon
+   - Games: Hand & Foot Canasta, Rummikub, jigsaw puzzles
+   - Free WiFi, computer with internet access
+   - Free coffee and pastries (while supplies last)
+   - Monthly potluck lunches and general membership meetings with speakers/entertainment
 
 ## Noor Foundation
 
@@ -2092,10 +2205,37 @@ This program helps ensure uninsured patients can access necessary medical care w
 
 ## <a id="Paso-Robles-Senior-Center">Paso Robles Senior Center</a>
 
+<!-- Source: https://www.prcity.com/293/Senior-Services verified October 2025 -->
 - [prcity.com/293/Senior-Services](https://www.prcity.com/293/Senior-Services)
 - Location: 270 Scott St., Paso Robles
 - Phone: [805-237-3880](tel:+1-805-237-3880), [805-238-4664](tel:+1-805-238-4664)
-- Hours (food pantry): 2nd and 4th Tuesdays of the month at 10am
+- Hours: M–F 8am–5pm
+- Services:
+   - Food pantry: 2nd and 4th Tuesdays of the month at 10am
+   - Daily hot lunch: 11:30am (suggested $3 donation)
+   - Free computer access and tutoring
+   - Free lending library
+   - Medicare counseling (HICAP): 1st and 2nd Tuesdays
+   - Free legal aide (monthly): housing, elder abuse, consumer issues
+   - Volunteer opportunities (AmeriCorps Seniors/RSVP)
+   - Senior Farmers' Market
+   - PREPARE program (medical decision-making guidance)
+   - Assistance with broadband access for low-income households
+
+## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Parks & Recreation</a>
+
+<!-- Source: https://www.prcity.com/268/Recreation-Services verified October 2025 -->
+- [prcity.com/268/Recreation-Services](https://www.prcity.com/268/Recreation-Services)
+- Location: Centennial Park, 600 Nickerson Dr., Paso Robles
+- Phone: [805-237-3988](tel:+1-805-237-3988)
+- Email: [recservices@prcity.com](mailto:recservices@prcity.com)
+- Hours: M–Th 12pm–5pm (registration desk)
+- Services:
+   - Free Teen Center and Open Gym programs
+   - Recreation Scholarship Program (launched 2024, expanded to all ages)
+   - Over 200 recreation options: camps, classes, lessons, leagues, events
+   - Programs for all ages (youth through adults)
+   - Quarterly Recreation Guide mailed to residents
 
 ## <a id="PathPoint">PathPoint</a>
 
@@ -2120,6 +2260,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="Peoples-Kitchen-GB">People’s Kitchen (Grover Beach)</a>
 
 - Location: 946 Rockaway Ave., Grover Beach
+- Phone: [805-266-1838](tel:+1-805-266-1838)
 - Hours: Daily at noon
 - Notes: Hosted by [**Lifepoint Church**](#Lifepoint-Church)
 <!-- Note: No dedicated website or contact info found (as of October 2025); contact via Lifepoint Church -->
@@ -2167,13 +2308,22 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-773-3011](tel:+1-805-773-3011)
 - Hours: M–F 5:30am–9pm, Sa–Su 7am–4pm
 
-## <a id="Pismo-Beach-Recreation-Division">Pismo-Beach Recreation Division</a>
+## <a id="Pismo-Beach-Recreation-Division">Pismo Beach Recreation Division</a>
 
-<!-- Source: Phone and email from City of Pismo Beach directory -->
+<!-- Source: https://www.pismobeach.org/73/Recreation verified October 2025 -->
+- [pismobeach.org/73/Recreation](https://www.pismobeach.org/73/Recreation)
 - Location: 760 Mattie Rd., Pismo Beach
 - Phone: [805-773-7063](tel:+1-805-773-7063)
 - Email: [recreation@pismobeach.org](mailto:recreation@pismobeach.org)
-<!-- Note: Unable to locate dedicated web page or hours of operation (as of October 2025); call to verify hours -->
+- Services:
+   - Active Adult Socials
+   - Adult classes
+   - Excursions and trips
+   - Special events
+   - Sports programs
+   - Youth programs
+   - Public art projects
+<!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
 
 ## <a id="Planned-Parenthood">Planned Parenthood</a>
 
@@ -2369,6 +2519,7 @@ Human verification by calling both numbers or visiting the location is recommend
 - Location: 1328 Grand Ave. #F, Grover Beach
 - Phone: [805-270-4023](tel:+1-805-270-4023)
 - Hours: Tu–F 10am–4pm, Sa Noon–4pm
+   - “Bag Day” sale on the last Friday of the month
 
 ## <a id="St-Jospehs-Church">Saint Joseph’s Church</a>
 
@@ -2445,6 +2596,19 @@ Human verification by calling both numbers or visiting the location is recommend
 - [slocountyparks.com/camp/santa-margarita-lake/](https://slocountyparks.com/camp/santa-margarita-lake/)
 - Phone: [805-781-5930](tel:+1-805-781-5930)
 - Email: [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
+
+## <a id="Santa-Margarita-Senior-Center">Santa Margarita Senior Center</a>
+
+<!-- Source: Web search October 2025; limited detailed information available online -->
+- Location: 2201 "H" St., Santa Margarita
+- Phone: [805-438-5854](tel:+1-805-438-5854)
+- Services:
+   - Lunch program
+   - Activities (specific activities not listed in available sources)
+   - HiCAP (Health Insurance Counseling & Advocacy Program)
+   - AARP Mature Driver courses
+   - Health screenings
+- Notes: Contact center directly for current activity schedule and hours
 
 ## <a id="Santa-Maria-Valley-Hispanic-Church">Santa Maria Valley Hispanic SDA Church</a>
 
@@ -2877,10 +3041,17 @@ Human verification by calling both numbers or visiting the location is recommend
 
 ## <a id="SLO-Senior-Center">SLO Senior Center</a>
 
-<!-- Note: Unable to locate dedicated web page (as of October 2025); may be part of slocity.org -->
+<!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs verified October 2025 -->
+- [slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs)
 - Location: 1445 Santa Rosa St., SLO
 - Phone: [805-781-7306](tel:+1-805-781-7306)
 - Hours: M–F 9am–4pm
+- Membership: Open to SLO city residents 55+; includes monthly newsletter, center access, free coffee
+- Services:
+   - Fitness: Weekly wellness classes (F 10:30am), Chair Exercise, Strength & Balance, SLO Walkers (Tu, summer)
+   - Educational: "Use It or Lose It!" (W 1–3pm, discussions/TED Talks), Roundtable Readers, Writing Your Memories
+   - Games: Bingo, Bridge (Duplicate & Party), Chinese Mahjong, Filipino Mahjong (Th 1–3pm), Mexican Train Dominoes, Pinochle
+   - Clubs: SLO Philatelic Society (1st & 3rd Tu), Gem and Mineral Club
 - Notes: Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
 
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
@@ -2947,6 +3118,21 @@ Human verification by calling both numbers or visiting the location is recommend
 - How to access: call to schedule an appointment
 <!-- Note: No dedicated website found for local chapter (as of October 2025) -->
 
+## <a id="South-Bay-Community-Center">South Bay Community Center</a>
+
+<!-- Source: https://southbaycommunitycenter.com/ -->
+- [southbaycommunitycenter.com](https://southbaycommunitycenter.com/)
+- Location: 2180 Palisades Ave., Los Osos
+- Phone: [805-528-4169](tel:+1-805-528-4169)
+- Email: [sbcc@sbcommunitycenter.net](mailto:sbcc@sbcommunitycenter.net)
+- Hours: M/Tu/F 1–4pm (office)
+- Notes:
+   - Multi-use community center serving all ages
+   - Hosts Early Risers A.A. meetings
+   - Hosts [**Meals that Connect**](#Meals-that-Connect) senior nutrition program
+   - Hosts [**Los Osos Cares**](#Los-Osos-Cares) Community Dinner
+   - [**South Bay Seniors People Helping People**](#South-Bay-Seniors-People-Helping-People) operates their food bank and medical equipment loan program from this facility (M/W/F 9am–1pm)
+
 ## <a id="South-Bay-Seniors-People-Helping-People">South Bay Seniors People Helping People</a>
 
 - [southbayseniorspeoplehelpingpeople.com](https://southbayseniorspeoplehelpingpeople.com/)
@@ -2993,6 +3179,7 @@ Human verification by calling both numbers or visiting the location is recommend
    - Phone: [805-237-0352](tel:+1-805-237-0352), [805-534-1698](tel:+1-805-534-1698)
 - 5 Cities:
    - [5chc.org/programs/ssvf-supportive-services-for-veteran-families](https://5chc.org/programs/ssvf-supportive-services-for-veteran-families)
+   - [805-202-3056](tel:+1-805-202-3056)
 - Note: operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) and [**5Cities Homeless Coalition**](#5CHC)
 
 ## Surgery Without Medical Insurance
@@ -3042,6 +3229,8 @@ Human verification by calling both numbers or visiting the location is recommend
 
 - [tri-counties.org](http://tri-counties.org/)
 - Location: (main office) 520 E. Montecito St., Santa Barbara
+   - 7305 Morro Rd. #101, Atascadero
+   - 1146 Farmhouse Ln., SLO
 - Phone:
    - SLO: [805-543-2833](tel:+1-805-543-2833)
    - Atascadero: [805-461-7402](tel:+1-805-461-7402)

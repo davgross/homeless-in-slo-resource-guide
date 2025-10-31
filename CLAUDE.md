@@ -11,6 +11,8 @@ Use this as the single source of truth for those data; cross-reference Directory
 
 The @design.md file gives some high-level direction about the web app that will present this data to the user.
 
+The @web-app directory is your attempt to create such an app.
+
 ### About The Target Audience of the Guide
 
 The target audience for the guide this outline describes is people who are homeless or at risk of homelessness in San Luis Obispo (SLO) County.

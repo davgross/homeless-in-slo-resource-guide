@@ -622,6 +622,13 @@ Most storage facilities have daytime hours of operation when you can access the 
 
 ## <a id="where-to-get-food">Food</a>
 
+<!--
+Note: Investigated "Coast Baptist Church" (October 2025) — likely refers to Central Coast Baptist Church at 153 S 9th St, Grover Beach, 805-489-2150. Five Cities Christian Women Food Pantry is already documented in Directory at its current location (946 Rockaway Ave., hosted by Lifepoint Church).
+Note: Investigated "Lifesteps Foundation Wisdom Center" or "Wisdom Center" (October 2025) — no evidence found of a Wisdom Center or meal program operated by Life Steps Foundation at lifestepsfoundation.org
+Note: Hospital cafeterias are generally open to the public but are typically not free and not specifically designed to serve people experiencing homelessness. Not pursuing this further as other free meal options are better suited to the target audience.
+Note: Investigated "Westside Neighborhood Center" (805-897-2560) (October 2025) — this is located in Santa Barbara (Santa Barbara County), not SLO County. Not relevant to this SLO County guide.
+-->
+
 ### <a id="free-meals">Free Meals</a>
 
 | Location     | Meal Provider                                                              | When                     |
@@ -1259,6 +1266,9 @@ Ask them in person for an application or contact them at [844-827-5047](tel:+1-8
 
 The [**Boyd Bristol Medical Equipment Program**](Directory.md#Boyd-Bristol-Medical-Equipment-Program) helps veterans and their family members get free loans of medical equipment like walkers, canes, scooters, and crutches.
 They can also deliver these devices to you.
+
+[**Cambria's Anonymous Neighbors (CAN)**](Directory.md#Cambrias-Anonymous-Neighbors) provides loans of medical equipment including wheelchairs, walkers, canes, grab bars, and Life Alert devices to people on the North Coast.
+<!-- Source: https://www.joslynrec.org/CAN/index.html -->
 
 [**California Connect**](Directory.md#California-Connect) can loan you, for free, assistive telecommunications equipment that helps if you have functional limitations of hearing, vision, mobility, speech, and/or interpretation of information.
 
@@ -3226,6 +3236,23 @@ This program is for California residents with medically-certified limitations of
 1. [**TMHA**](Directory.md#TMHA) ([family support groups](https://www.t-mha.org/family-support-groups.php))
 
 ## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering</a>
+
+<!--
+Note: Added Atascadero Senior Center to Directory (October 2025) — offers free lunch M–F, fitness classes (Tai Chi, chair yoga, walking groups), games, arts/crafts, computer access, medical equipment loans
+Note: Added Central Coast Senior Center (Oceano) to Directory (October 2025) — offers lunch M–F, monthly luncheon, Bingo, Bunco, Tai Chi, art classes
+Note: Added Morro Bay Senior Center to Directory (October 2025) — offers medical equipment loans, games (Bingo, cards, etc.), fitness classes (Tai Chi, Pickleball, exercise programs), support groups
+Note: Added Nipomo Senior Center to Directory (October 2025) — offers lunch program, equipment loans, exercise classes, Bingo, games, WiFi, monthly potlucks
+Note: Updated Paso Robles Senior Center (October 2025) — see Directory entry for full list of services including daily hot lunch, computer access, lending library, Medicare counseling, legal aide, and volunteer opportunities
+Note: Added Santa Margarita Senior Center to Directory (October 2025) — offers lunch, HiCAP counseling, AARP Mature Driver courses, health screenings (detailed activity info not available online)
+Note: Enhanced SLO Senior Center entry in Directory (October 2025) — offers fitness classes, educational programs (discussions/TED Talks), games (Bingo, Bridge, Mahjong, Dominoes), clubs (Philatelic Society, Gem and Mineral)
+Note: Added South Bay Community Center to Directory (October 2025) — multi-use community center hosting Early Risers A.A., Meals that Connect senior nutrition program, Los Osos Cares Community Dinner, and South Bay Seniors People Helping People food bank/medical equipment loan program
+Note: Researched Arroyo Grande Recreation Services (October 2025) — standard recreation department offerings (youth/adult sports, classes ranging from preschool to senior fitness, special events, facility rentals); no specific programs identified for target audience beyond basic recreation services; existing Directory entry adequate
+Note: Added Atascadero Parks & Recreation to Directory (October 2025) — offers senior programs (55+ yoga, card games, badminton, Senior Chair Wellness, Pickleball), adult sports, youth programs, Teen Center ($20/yr); standard recreation department services
+Note: Researched Grover Beach Community Services (October 2025) — standard recreation department offerings (recreation programs and classes for all ages, special events, summer concerts, park/facility rentals); no specific programs identified for target audience beyond basic recreation services; existing Directory entry adequate
+Note: Added Morro Bay Parks & Recreation to Directory (October 2025) — offers youth programs, aquatics, senior activities, adult sports, fitness classes (Freestyle Fitness, Zumba), scholarship applications available; standard recreation department services
+Note: Added Paso Robles Parks & Recreation to Directory (October 2025) — offers free Teen Center and Open Gym programs, Recreation Scholarship Program (all ages), 200+ recreation options including camps/classes/lessons/leagues/events; standard recreation department services
+Note: Enhanced Pismo Beach Recreation Division entry in Directory (October 2025) — offers Active Adult Socials, adult classes, excursions/trips, special events, sports programs, youth programs, public art projects; standard recreation department services
+-->
 
 1. [Community yoga classes](https://localwiki.org/slo/Low-Cost_Yoga) (typically free or pay-what-you-can)
    - Free Options: City of SLO Parks & Recreation offers morning yoga (first class free), downtown community yoga classes (donation-based supporting monthly charities)

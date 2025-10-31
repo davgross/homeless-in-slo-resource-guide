@@ -2,6 +2,7 @@
   "name": "slo-homeless-resource-guide",
   "version": "1.0.0",
   "description": "SLO County Homeless Resource Guide - Progressive Web App",
+  "license": "UNLICENSED",
   "type": "module",
   "scripts": {
     "dev": "vite",
