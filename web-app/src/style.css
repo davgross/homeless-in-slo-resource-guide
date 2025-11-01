@@ -788,6 +788,41 @@ tbody tr:hover {
   transform: scale(0.95);
 }
 
+/* Table of Contents navigation button */
+#toc-btn {
+  position: fixed;
+  top: 90px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: var(--brand-blue);
+  color: white;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 999;
+  transition: all 0.3s ease;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+#toc-btn:hover {
+  background-color: #2a5dd4;
+  transform: scale(1.1);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+#toc-btn:active {
+  transform: scale(0.95);
+}
+
+#toc-btn.visible {
+  display: flex;
+}
+
 .share-notification {
   position: fixed;
   bottom: 90px;
@@ -1118,6 +1153,14 @@ tbody tr:hover {
     font-size: 20px;
     bottom: 15px;
     left: 15px;
+  }
+
+  #toc-btn {
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+    top: 85px;
+    right: 15px;
   }
 
   .feedback-fab {

@@ -87,6 +87,9 @@ async function init() {
   // Initialize share button
   initShareButton();
 
+  // Initialize TOC navigation button
+  initTOCButton();
+
   // Load content
   await loadMarkdownContent();
 
@@ -117,6 +120,35 @@ function setupNavigation() {
       showSection(e.state.section, false);
     }
   });
+}
+
+// Initialize TOC navigation button
+function initTOCButton() {
+  const tocBtn = document.getElementById('toc-btn');
+  if (!tocBtn) return;
+
+  // Click handler - scroll to Table of Contents
+  tocBtn.addEventListener('click', () => {
+    // Find the TOC heading in the resources section
+    const tocHeading = document.querySelector('#resources-section a[id="table-of-contents"]');
+    if (tocHeading) {
+      tocHeading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+
+  // Show/hide button based on current section
+  function updateTOCButtonVisibility() {
+    if (state.currentSection === 'resources') {
+      tocBtn.classList.add('visible');
+    } else {
+      tocBtn.classList.remove('visible');
+    }
+  }
+
+  // Update visibility when section changes
+  // Call immediately and then check periodically for section changes
+  updateTOCButtonVisibility();
+  setInterval(updateTOCButtonVisibility, 500);
 }
 
 // Navigate to a section
@@ -234,7 +266,7 @@ function renderResources() {
 
   // Sanitize HTML - configure DOMPurify to keep data attributes
   html = DOMPurify.sanitize(html, {
-    ADD_ATTR: ['data-directory-link']
+    ADD_ATTR: ['data-directory-link', 'data-lat', 'data-lon', 'data-zoom', 'data-label', 'data-bounds']
   });
 
   console.log('After DOMPurify, checking for data-directory-link...');
@@ -249,6 +281,9 @@ function renderResources() {
 
   // Setup directory link handlers
   setupDirectoryLinks(section);
+
+  // Setup map link handlers
+  setupMapLinks(section);
 
   // Add share buttons to section headings
   addSectionShareButtons(section);
@@ -269,6 +304,9 @@ function renderDirectory() {
   // Enhance all links
   enhanceLinks(section);
 
+  // Setup map link handlers
+  setupMapLinks(section);
+
   // Add share buttons to directory section headings
   addSectionShareButtons(section, 'directory');
 }
@@ -288,6 +326,54 @@ function setupDirectoryLinks(container) {
       showDirectoryEntry(entryId);
     });
   });
+}
+
+// Setup map link click handlers
+function setupMapLinks(container) {
+  const mapLinks = container.querySelectorAll('.map-link[data-lat][data-lon]');
+
+  console.log(`Setting up ${mapLinks.length} map links`);
+
+  mapLinks.forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+
+      const lat = parseFloat(link.dataset.lat);
+      const lon = parseFloat(link.dataset.lon);
+      const zoom = parseInt(link.dataset.zoom) || 15;
+      const label = link.dataset.label || 'Location';
+
+      openMap(lat, lon, zoom, label);
+    });
+  });
+}
+
+// Open location in map application
+function openMap(lat, lon, zoom, label) {
+  // Try geo: URI first (works on many mobile devices)
+  const geoUri = `geo:${lat},${lon}?z=${zoom}&q=${encodeURIComponent(label)}`;
+
+  // Detect platform
+  const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+  const isAndroid = /Android/.test(navigator.userAgent);
+
+  // For mobile devices, try geo: URI
+  if (isIOS || isAndroid) {
+    // Try to open with geo: URI
+    window.location.href = geoUri;
+
+    // Fallback after short delay (in case geo: isn't supported)
+    setTimeout(() => {
+      // If still on same page, open OpenStreetMap as fallback
+      const osmUrl = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=${zoom}/${lat}/${lon}`;
+      window.open(osmUrl, '_blank');
+    }, 1000);
+  } else {
+    // For desktop, open OpenStreetMap directly
+    const osmUrl = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=${zoom}/${lat}/${lon}`;
+    window.open(osmUrl, '_blank');
+  }
 }
 
 // Add share buttons to section headings
@@ -385,7 +471,7 @@ function showDirectoryEntry(entryId) {
 
   // Sanitize HTML - preserve data attributes
   html = DOMPurify.sanitize(html, {
-    ADD_ATTR: ['data-directory-link']
+    ADD_ATTR: ['data-directory-link', 'data-lat', 'data-lon', 'data-zoom', 'data-label', 'data-bounds']
   });
 
   content.innerHTML = `<div class="directory-entry">${html}</div>`;
@@ -435,6 +521,9 @@ function showDirectoryEntry(entryId) {
 
   // Setup directory link handlers within the modal
   setupDirectoryLinks(content);
+
+  // Setup map link handlers within the modal
+  setupMapLinks(content);
 
   // Show overlay
   overlay.hidden = false;

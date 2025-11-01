@@ -1,5 +1,7 @@
 # To-do list
 
+1. Make the space between a link icon (an icon that suggests a tel:, mailto:, or external link) and the link text, a non-breaking space, so that the icon and the link text always appear on the same line.
+
 1. ~~Fine-tune the styling of the web app to more closely match the Shower the People style (e.g. font). That font might not be appropriate to use everywhere (for readability reasons) but it can probably safely be used for headings and/or UI elements. See the "Branding" section of @design.md . If you do use the font in the app; adjust the licensing documentation appropriately.~~ ✓
 
 1. ~~Audit the app for accessibility issues and make recommendations for how to make the app and its content better conform to accessibility best practices. There is a tentative Accessibility review in @web-app/README.md but I'm not sure I trust it.~~ ✓ (See @ACCESSIBILITY_AUDIT.md)
@@ -15,7 +17,6 @@
    1. If the browser/device supports "geo:" tags, those might be a good choice; but we probably need a fallback for browsers/devices that do not.
 
 1. ~~Currently, anchors in the markdown source are set via HTML `<a id="foo" />` tags. If our markdown renderer allows for a more graceful markdown-native way to do this, let's switch to that.~~ ✓ (Investigated: Marked.js supports auto-generating IDs from headers, but explicit HTML anchors are preferable for this project because: (1) IDs are visible to human editors making linking easier, (2) IDs remain stable if header text changes, (3) supports custom short IDs like `40-Prado`, (4) supports multiple IDs per entry for aliases. Current approach is actually best practice for this use case.)
-   1. I think I've seen some species of markdown that have an anchor-insertion mechanism (e.g. "`{anchor}`" or something like that). Is that an option for our current rendering engine?
 
 1. There are still some notes in @Directory.md that really belong in "@Resource Guide.md" -- fix that.
 
@@ -47,4 +48,4 @@
 
 1. ~~Restyle nested ordered lists so that they do not all use arabic-numeral style (e.g. so they use 1.a.i as opposed to 1.1.1).~~ ✓ (Added CSS to style nested ordered lists: level 1 = decimal (1, 2, 3), level 2 = lower-alpha (a, b, c), level 3 = lower-roman (i, ii, iii), then repeating.)
 
-1. Implement a way to navigate the Resources page more easily, for example a way of quickly navigating to the table of contents or of making a top-level table of contents appear so that one can more easily jump to another section.
+1. ~~Implement a way to navigate the Resources page more easily, for example a way of quickly navigating to the table of contents or of making a top-level table of contents appear so that one can more easily jump to another section.~~ ✓ (Added floating TOC button in top-right that appears when in Resources section and scrolled away from TOC. Button smoothly scrolls back to Table of Contents when clicked.)

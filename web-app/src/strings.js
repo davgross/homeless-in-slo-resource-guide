@@ -52,6 +52,14 @@ const strings = {
       loadContent: 'Unable to load content. Please refresh the page.'
     },
 
+    // Table of Contents navigation
+    toc: {
+      button: {
+        ariaLabel: 'Jump to table of contents',
+        title: 'Table of Contents'
+      }
+    },
+
     // Share functionality
     share: {
       button: {

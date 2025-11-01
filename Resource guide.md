@@ -33,7 +33,7 @@ If you would like to suggests corrections or improvements, or if you would like 
 | ------------------ |
 | <ul><li>[San Luis Obispo County Community Report 2024](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport): A summary of the results of the 2024 “Point-in-Time Count” census of homeless people in SLO County.</li><li>[Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard): The SLO County Department of Social Services’s summary of the ongoing work of homeless management agencies.</li><li>[The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness): As adopted by the county Board of Supervisors</li><li>[Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California)</li></ul> |
 
-## Table of Contents
+## <a id="table-of-contents">Table of Contents</a>
 
 1. [Hotlines and Emergency Contacts](#hotlines-and-emergency-contacts)
 1. [Tips on Self-Advocacy and for Communicating with Service Providers](#tips-on-self-advocacy-and-for-communicating-with-service-providers)
