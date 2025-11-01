@@ -3,6 +3,11 @@
  * Uses Web Share API where available, with fallback to copy link
  */
 
+import { getStrings } from './strings.js';
+
+// UI Strings
+const strings = getStrings();
+
 /**
  * Initialize share button functionality
  */
@@ -18,8 +23,8 @@ export function initShareButton() {
  */
 async function handleShare() {
   const shareData = {
-    title: 'SLO County Homeless Resource Guide',
-    text: 'Comprehensive resource guide for people experiencing homelessness in San Luis Obispo County',
+    title: strings.share.main.title,
+    text: strings.share.main.text,
     url: window.location.href
   };
 
@@ -51,11 +56,11 @@ function fallbackCopyLink() {
   if (navigator.clipboard && navigator.clipboard.writeText) {
     navigator.clipboard.writeText(url)
       .then(() => {
-        showNotification('Link copied to clipboard!');
+        showNotification(strings.share.notifications.linkCopied);
       })
       .catch(err => {
         console.error('Clipboard write failed:', err);
-        showNotification('Unable to copy link. Please copy manually from address bar.');
+        showNotification(strings.share.notifications.copyFailed);
       });
   } else {
     // Very old fallback: create temporary textarea
@@ -68,10 +73,10 @@ function fallbackCopyLink() {
 
     try {
       document.execCommand('copy');
-      showNotification('Link copied to clipboard!');
+      showNotification(strings.share.notifications.linkCopied);
     } catch (err) {
       console.error('Copy failed:', err);
-      showNotification('Unable to copy link. Please copy manually from address bar.');
+      showNotification(strings.share.notifications.copyFailed);
     }
 
     document.body.removeChild(textarea);
@@ -119,16 +124,16 @@ export function createSectionShareButton(sectionTitle, sectionUrl) {
   const button = document.createElement('button');
   button.className = 'section-share-btn';
   button.innerHTML = '🔗';
-  button.setAttribute('aria-label', `Share ${sectionTitle}`);
-  button.setAttribute('title', 'Share this section');
+  button.setAttribute('aria-label', strings.share.section.buttonAriaLabel(sectionTitle));
+  button.setAttribute('title', strings.share.section.buttonTitle);
 
   button.addEventListener('click', async (e) => {
     e.preventDefault();
     e.stopPropagation();
 
     const shareData = {
-      title: `${sectionTitle} - SLO County Homeless Resource Guide`,
-      text: `Check out this resource: ${sectionTitle}`,
+      title: strings.share.section.title(sectionTitle),
+      text: strings.share.section.text(sectionTitle),
       url: sectionUrl || `${window.location.origin}${window.location.pathname}#${sectionTitle.toLowerCase().replace(/\s+/g, '-')}`
     };
 
@@ -147,10 +152,10 @@ export function createSectionShareButton(sectionTitle, sectionUrl) {
       if (navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(url)
           .then(() => {
-            showNotification('Section link copied to clipboard!');
+            showNotification(strings.share.notifications.sectionLinkCopied);
           })
           .catch(() => {
-            showNotification('Unable to copy link.');
+            showNotification(strings.share.notifications.copyFailedShort);
           });
       }
     }
@@ -158,3 +163,53 @@ export function createSectionShareButton(sectionTitle, sectionUrl) {
 
   return button;
 }
+
+/**
+ * Create and return a share button for a specific directory entry
+ */
+export function createDirectoryShareButton(entryTitle, entryId) {
+  const button = document.createElement('button');
+  button.className = 'directory-share-btn';
+  button.innerHTML = '🔗';
+  button.setAttribute('aria-label', strings.share.directoryEntry.buttonAriaLabel(entryTitle));
+  button.setAttribute('title', strings.share.directoryEntry.buttonTitle);
+
+  button.addEventListener('click', async (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+
+    // Create URL with section=directory and anchor to the entry
+    const url = `${window.location.origin}${window.location.pathname}?section=directory#${entryId}`;
+
+    const shareData = {
+      title: strings.share.directoryEntry.title(entryTitle),
+      text: strings.share.directoryEntry.text(entryTitle),
+      url: url
+    };
+
+    if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
+      try {
+        await navigator.share(shareData);
+      } catch (err) {
+        if (err.name !== 'AbortError') {
+          console.error('Share failed:', err);
+          fallbackCopyLink();
+        }
+      }
+    } else {
+      // Copy directory entry link
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url)
+          .then(() => {
+            showNotification(strings.share.notifications.entryLinkCopied);
+          })
+          .catch(() => {
+            showNotification(strings.share.notifications.copyFailedShort);
+          });
+      }
+    }
+  });
+
+  return button;
+}
+

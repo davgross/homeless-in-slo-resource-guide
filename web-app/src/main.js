@@ -4,11 +4,62 @@ import DOMPurify from 'dompurify';
 import { enhanceLinks } from './linkEnhancer.js';
 import { parseMarkdown, extractDirectoryEntries } from './markdownParser.js';
 import { initFeedback } from './feedback.js';
-import { initShareButton } from './shareButton.js';
+import { initShareButton, createSectionShareButton, createDirectoryShareButton } from './shareButton.js';
+import { getStrings } from './strings.js';
 
 // Import markdown files directly as raw text
 import resourcesMarkdown from '../../Resource guide.md?raw';
 import directoryMarkdown from '../../Directory.md?raw';
+
+// UI Strings
+const strings = getStrings();
+
+// Helper function for copying to clipboard
+function copyToClipboard(text, successMessage) {
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text)
+      .then(() => {
+        showNotification(successMessage || strings.share.notifications.linkCopied);
+      })
+      .catch(() => {
+        showNotification(strings.share.notifications.copyFailedShort);
+      });
+  } else {
+    showNotification(strings.share.notifications.copyFailedShort);
+  }
+}
+
+// Helper function to show notifications
+function showNotification(message) {
+  // Remove any existing notification
+  const existing = document.getElementById('share-notification');
+  if (existing) {
+    existing.remove();
+  }
+
+  // Create notification element
+  const notification = document.createElement('div');
+  notification.id = 'share-notification';
+  notification.className = 'share-notification';
+  notification.textContent = message;
+  notification.setAttribute('role', 'status');
+  notification.setAttribute('aria-live', 'polite');
+
+  document.body.appendChild(notification);
+
+  // Trigger animation
+  setTimeout(() => {
+    notification.classList.add('show');
+  }, 10);
+
+  // Remove after 3 seconds
+  setTimeout(() => {
+    notification.classList.remove('show');
+    setTimeout(() => {
+      notification.remove();
+    }, 300);
+  }, 3000);
+}
 
 // App State
 const state = {
@@ -130,12 +181,8 @@ function showSection(section, updateHistory = true) {
   });
 
   // Announce section change to screen readers
-  const sectionNames = {
-    'resources': 'Resources section',
-    'directory': 'Directory section',
-    'about': 'About section'
-  };
-  announce(`${sectionNames[section] || section} loaded`);
+  const sectionName = strings.sections[section] || section;
+  announce(`${sectionName} ${strings.sections.loaded}`);
 
   // Update state
   state.currentSection = section;
@@ -166,7 +213,7 @@ async function loadMarkdownContent() {
 
   } catch (error) {
     console.error('Error loading content:', error);
-    showError('Unable to load content. Please refresh the page.');
+    showError(strings.errors.loadContent);
   }
 }
 
@@ -202,6 +249,9 @@ function renderResources() {
 
   // Setup directory link handlers
   setupDirectoryLinks(section);
+
+  // Add share buttons to section headings
+  addSectionShareButtons(section);
 }
 
 // Render directory section
@@ -218,6 +268,9 @@ function renderDirectory() {
 
   // Enhance all links
   enhanceLinks(section);
+
+  // Add share buttons to directory section headings
+  addSectionShareButtons(section, 'directory');
 }
 
 // Setup directory link click handlers
@@ -234,6 +287,41 @@ function setupDirectoryLinks(container) {
       console.log('Directory link clicked:', entryId);
       showDirectoryEntry(entryId);
     });
+  });
+}
+
+// Add share buttons to section headings
+function addSectionShareButtons(container, sectionName = 'resources') {
+  // Find all h2 and h3 headings with anchor IDs
+  const headings = container.querySelectorAll('h2, h3');
+
+  headings.forEach(heading => {
+    // Look for anchor element inside heading
+    const anchor = heading.querySelector('a[id]');
+    if (!anchor) return;
+
+    const anchorId = anchor.getAttribute('id');
+    const sectionTitle = anchor.textContent.trim();
+
+    // Create URL for this section
+    const sectionUrl = `${window.location.origin}${window.location.pathname}?section=${sectionName}#${anchorId}`;
+
+    // Create and add share button
+    const shareBtn = createSectionShareButton(sectionTitle, sectionUrl);
+
+    // Add the button before the heading text
+    heading.style.position = 'relative';
+    heading.style.display = 'flex';
+    heading.style.alignItems = 'baseline';
+    heading.style.gap = '0.5rem';
+
+    // Make the anchor flexible so its text can wrap
+    if (anchor) {
+      anchor.style.flex = '1';
+      anchor.style.minWidth = '0';
+    }
+
+    heading.insertBefore(shareBtn, heading.firstChild);
   });
 }
 
@@ -301,6 +389,46 @@ function showDirectoryEntry(entryId) {
   });
 
   content.innerHTML = `<div class="directory-entry">${html}</div>`;
+
+  // Setup the share button in the header
+  const shareBtn = overlay.querySelector('.directory-share-btn');
+  if (shareBtn) {
+    // Remove any existing click handlers
+    const newShareBtn = shareBtn.cloneNode(true);
+    shareBtn.parentNode.replaceChild(newShareBtn, shareBtn);
+
+    // Add new click handler
+    newShareBtn.addEventListener('click', async (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+
+      // Create URL with section=directory and anchor to the entry
+      const url = `${window.location.origin}${window.location.pathname}?section=directory#${entryId}`;
+
+      const shareData = {
+        title: strings.share.directoryEntry.title(entry.title),
+        text: strings.share.directoryEntry.text(entry.title),
+        url: url
+      };
+
+      if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
+        try {
+          await navigator.share(shareData);
+        } catch (err) {
+          if (err.name !== 'AbortError') {
+            console.error('Share failed:', err);
+            copyToClipboard(url, strings.share.notifications.entryLinkCopied);
+          }
+        }
+      } else {
+        // Copy directory entry link
+        copyToClipboard(url, strings.share.notifications.entryLinkCopied);
+      }
+    });
+
+    // Update aria-label with entry title
+    newShareBtn.setAttribute('aria-label', strings.share.directoryEntry.buttonAriaLabel(entry.title));
+  }
 
   // Enhance links in the modal (phone, email, external)
   enhanceLinks(content);
@@ -541,9 +669,9 @@ function performSearch(query) {
   // Announce results to screen readers
   const resultCount = results.length;
   if (resultCount === 0) {
-    announce(`No results found for ${query}`);
+    announce(`${strings.search.noResults} ${query}`);
   } else {
-    announce(`${resultCount} result${resultCount === 1 ? '' : 's'} found for ${query}`);
+    announce(`${strings.search.resultCount(resultCount)} ${strings.search.resultsFor(query)}`);
   }
 }
 
@@ -674,24 +802,24 @@ function displaySearchResults(results, query) {
   }
 
   // Build results HTML
-  let html = `<div class="search-results-header">Found ${results.length} result${results.length === 1 ? '' : 's'}</div>`;
+  let html = `<div class="search-results-header">${strings.search.found(results.length)}</div>`;
 
   results.forEach(result => {
     let typeLabel;
     if (result.type === 'directory') {
-      typeLabel = 'Directory Entry';
+      typeLabel = strings.search.directoryEntry;
     } else if (result.type === 'resource-section') {
       if (result.level === 1) {
-        typeLabel = 'Resource Guide';
+        typeLabel = strings.search.resourceGuide;
       } else if (result.level === 2) {
-        typeLabel = 'Resource Guide › Section';
+        typeLabel = strings.search.resourceSection;
       } else if (result.level === 3) {
-        typeLabel = 'Resource Guide › Subsection';
+        typeLabel = strings.search.resourceSubsection;
       } else {
-        typeLabel = 'Resource Guide';
+        typeLabel = strings.search.resourceGuide;
       }
     } else {
-      typeLabel = 'Resource Guide';
+      typeLabel = strings.search.resourceGuide;
     }
 
     const highlightedSnippet = highlightMatches(result.snippet, query);
@@ -797,7 +925,7 @@ function showNoResults(query) {
   const searchResultsEl = document.getElementById('search-results');
   searchResultsEl.innerHTML = `
     <div class="search-no-results">
-      No results found for "<strong>${query}</strong>"
+      ${strings.search.noResults} "<strong>${query}</strong>"
     </div>
   `;
   searchResultsEl.hidden = false;

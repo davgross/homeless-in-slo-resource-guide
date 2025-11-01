@@ -37,6 +37,16 @@ If you would like to suggests corrections or improvements, or if you would like 
 
 1. [Hotlines and Emergency Contacts](#hotlines-and-emergency-contacts)
 1. [Tips on Self-Advocacy and for Communicating with Service Providers](#tips-on-self-advocacy-and-for-communicating-with-service-providers)
+   1. [Build Good Relationships with Case Managers and Service Providers](#build-good-relationships)
+   1. [Know Your Rights](#know-your-rights)
+   1. [Document Everything](#document-everything)
+   1. [Focus on Your Goals and Strengths](#focus-on-goals)
+   1. [Navigate System Barriers](#navigate-system-barriers)
+   1. [Work with Multiple Service Providers](#work-with-multiple-providers)
+   1. [Set Goals and Track Progress](#set-goals-and-track-progress)
+   1. [When Things Go Wrong](#when-things-go-wrong)
+   1. [Find and Use Resources](#find-and-use-resources)
+   1. [Manage Appointments and Commitments](#manage-appointments)
 1. [Shelter and Housing](#where-to-find-shelter--housing)
    1. [Eviction Prevention](#eviction-protection)
    1. [Warming/Cooling Centers](#warming-cooling-centers)
@@ -209,7 +219,7 @@ If you would like to suggests corrections or improvements, or if you would like 
 
 ## <a id="tips-on-self-advocacy-and-for-communicating-with-service-providers">Tips on Self-Advocacy and for Communicating with Service Providers</a>
 
-### Build Good Relationships with Case Managers and Service Providers
+### <a id="build-good-relationships">Build Good Relationships with Case Managers and Service Providers</a>
 
 When you meet with case managers and service providers, you can get better results by being prepared.
 Bring your ID, any paperwork about your situation, and a list of questions or needs.
@@ -223,7 +233,7 @@ When providers help you, tell them you appreciate it.
 Good relationships help everyone.
 If someone promises to do something for you but you don't hear back in a reasonable time, check back with them.
 
-### Know Your Rights
+### <a id="know-your-rights">Know Your Rights</a>
 
 Many service providers have non-discrimination policies and try to treat people with respect, though policies vary between agencies.
 Some services have specific rules about who can use them (like veterans-only programs, or programs with income limits).
@@ -238,7 +248,7 @@ Many programs have procedures for appealing decisions or filing complaints.
 Ask program staff or search online to find the specific process.
 Legal aid organizations can help with appeals (see the [Legal assistance](#legal-help--mediation-crime-victim-protection) section).
 
-### Document Everything
+### <a id="document-everything">Document Everything</a>
 
 Keep copies of important documents and applications.
 Store documents in waterproof bags.
@@ -253,7 +263,7 @@ Phones (iPhones & Androids) typically come with some amount of free cloud storag
 Write down the dates, names, and outcomes of important conversations.
 Keep case numbers, application numbers, and confirmation numbers.
 
-### Focus on Your Goals and Strengths
+### <a id="focus-on-goals">Focus on Your Goals and Strengths</a>
 
 Tell people clearly what you are working toward (housing, employment, healthcare, etc.).
 Share your skills, experience, education, and personal strengths when they matter for the services you want.
@@ -262,7 +272,7 @@ For example, tell employment services about your work experience, but you don't 
 Come to meetings with ideas about what might work for your situation.
 Follow through on promises you make and take active steps toward your goals.
 
-### Navigate System Barriers
+### <a id="navigate-system-barriers">Navigate System Barriers</a>
 
 Learn the rules for programs: who can use them, when applications are due, and what steps you need to take.
 If you don't qualify for one program, ask about other options.
@@ -272,7 +282,7 @@ If you're not getting help, ask to speak with supervisors.
 Use formal complaint procedures and appeal processes.
 Or find someone who knows the system well to help you (like a case manager, behavioral health navigator, legal aid worker, or peer advocate).
 
-### Work with Multiple Service Providers
+### <a id="work-with-multiple-providers">Work with Multiple Service Providers</a>
 
 Let each provider know about other services you get when it matters.
 For example, tell housing programs about your income sources.
@@ -291,14 +301,14 @@ Keep a list of contact information for all your service providers.
 Ask for direct phone numbers or business cards from people who know your case.
 This helps you avoid phone trees.
 
-### Set Goals and Track Progress
+### <a id="set-goals-and-track-progress">Set Goals and Track Progress</a>
 
-Make your goals “S.M.A.R.T.” (Specific, Measurable, Achievable, Relevant, and Time-bound).
+Make your goals "S.M.A.R.T." (Specific, Measurable, Achievable, Relevant, and Time-bound).
 Divide big goals (like getting housing) into smaller steps you can manage.
 Notice and celebrate your achievements, even small ones.
 Be flexible and willing to change your goals as your situation changes.
 
-### When Things Go Wrong
+### <a id="when-things-go-wrong">When Things Go Wrong</a>
 
 Even when you feel frustrated, stay calm and speak respectfully.
 This approach usually gets better results and faster solutions than arguing, though this may feel strange if you learned to be assertive to protect yourself.
@@ -306,7 +316,7 @@ Write down details about problems, including dates, names, and what went wrong.
 Don't give up too soon.
 Sticking with it often pays off when you work with complex systems.
 
-### Find and Use Resources
+### <a id="find-and-use-resources">Find and Use Resources</a>
 
 Use this guide or call [211](tel:+1-211) to get information about available services.
 Talk with other people in similar situations—they often have valuable information and tips.
@@ -317,7 +327,7 @@ Contact service providers directly to check current information before you trave
 
 Stay in touch with providers who are especially helpful, even when you're not actively using their services.
 
-### Manage Appointments and Commitments
+### <a id="manage-appointments">Manage Appointments and Commitments</a>
 
 Set phone alarms or ask for reminder calls when they are available.
 Make sure you have a way to get to appointments (see the [Transportation](#transportation) section).

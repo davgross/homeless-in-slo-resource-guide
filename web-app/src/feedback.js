@@ -205,10 +205,16 @@ export class FeedbackSystem {
     const directoryItem = document.getElementById('context-directory-item');
     const directorySpan = document.getElementById('context-directory');
 
+    let contextUrl = window.location.href;
+
     if (viewingDirectory && window.appState && window.appState.currentDirectoryEntry) {
       contextSection = 'directory (modal open)';
       directoryItem.style.display = 'list-item';
       directorySpan.textContent = window.appState.currentDirectoryEntry.title;
+
+      // Use the directory entry URL instead of the current page URL
+      const entryId = window.appState.currentDirectoryEntry.id;
+      contextUrl = `${window.location.origin}${window.location.pathname}?section=directory#${entryId}`;
     } else {
       directoryItem.style.display = 'none';
       directorySpan.textContent = '';
@@ -216,7 +222,7 @@ export class FeedbackSystem {
 
     // Update context display
     document.getElementById('context-section').textContent = contextSection;
-    document.getElementById('context-url').textContent = window.location.href;
+    document.getElementById('context-url').textContent = contextUrl;
     document.getElementById('context-timestamp').textContent = new Date().toLocaleString();
   }
 

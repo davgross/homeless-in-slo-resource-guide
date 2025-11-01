@@ -33,9 +33,9 @@
    - Toast notification to confirm action
    - Accessible with proper ARIA labels and keyboard support)
 
-1. Enhance the "share" feature by adding section-specific share buttons and share buttons within the Directory modal that link to specific Directory entries. (Can add these with the `createSectionShareButton()` function?)
+1. ~~Enhance the "share" feature by adding section-specific share buttons and share buttons within the Directory modal that link to specific Directory entries.~~ ✓ (Implemented share buttons for: resource sections (h2/h3 headings with anchors), directory entries in modal. Share buttons use Web Share API on mobile with fallback to copy-to-clipboard. Notifications confirm successful sharing/copying.)
 
-1. Isolate the UI text in a way that makes it easier to swap-in alternative languages (e.g. a Spanish-language version of the site).
+1. ~~Isolate the UI text in a way that makes it easier to swap-in alternative languages (e.g. a Spanish-language version of the site).~~ ✓ (Created `strings.js` module that centralizes all UI text. Module supports multiple languages with structure for future Spanish translation. Main text strings moved from hardcoded values in `main.js`, `shareButton.js` to centralized location. HTML static content remains in `index.html` for now.)
 
 1. Consider ways to make pages, sections, subsections, and directory entries available for printing in a graceful way.
 
@@ -46,3 +46,5 @@
 1. Ensure that icon designs have not been inadvertently copied without permission.
 
 1. ~~Restyle nested ordered lists so that they do not all use arabic-numeral style (e.g. so they use 1.a.i as opposed to 1.1.1).~~ ✓ (Added CSS to style nested ordered lists: level 1 = decimal (1, 2, 3), level 2 = lower-alpha (a, b, c), level 3 = lower-roman (i, ii, iii), then repeating.)
+
+1. Implement a way to navigate the Resources page more easily, for example a way of quickly navigating to the table of contents or of making a top-level table of contents appear so that one can more easily jump to another section.

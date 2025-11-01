@@ -36,6 +36,8 @@
 html {
   font-size: var(--font-size-base);
   -webkit-text-size-adjust: 100%;
+  /* Offset scroll position to account for fixed header */
+  scroll-padding-top: calc(var(--header-height) + var(--spacing-md));
 }
 
 body {
@@ -487,6 +489,14 @@ tbody tr:hover {
   animation: slideUp 0.3s ease;
 }
 
+.directory-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--spacing-md) var(--spacing-xl);
+  gap: var(--spacing-sm);
+}
+
 @keyframes slideUp {
   from {
     transform: translateY(20px);
@@ -499,14 +509,10 @@ tbody tr:hover {
 }
 
 .close-btn {
-  position: absolute;
-  top: calc(var(--spacing-md) + 8px);
-  right: calc(var(--spacing-xl) + 8px);
   background: rgba(255, 255, 255, 0.95);
   border: 2px solid #fbbf24;
   cursor: pointer;
   padding: 8px;
-  z-index: 10;
   border-radius: 50%;
   width: 36px;
   height: 36px;
@@ -514,6 +520,7 @@ tbody tr:hover {
   align-items: center;
   justify-content: center;
   transition: all 0.2s ease;
+  flex-shrink: 0;
 }
 
 .close-btn:hover {
@@ -540,14 +547,10 @@ tbody tr:hover {
 }
 
 .directory-feedback-btn {
-  position: absolute;
-  top: calc(var(--spacing-md) + 8px);
-  left: calc(var(--spacing-xl) + 8px);
   background: rgba(255, 255, 255, 0.95);
   border: 2px solid #fbbf24;
   cursor: pointer;
   padding: 0;
-  z-index: 10;
   border-radius: 50%;
   width: 36px;
   height: 36px;
@@ -556,6 +559,7 @@ tbody tr:hover {
   justify-content: center;
   font-size: 18px;
   transition: all 0.2s ease;
+  flex-shrink: 0;
 }
 
 .directory-feedback-btn:hover {
@@ -568,9 +572,35 @@ tbody tr:hover {
   outline: none;
 }
 
+/* Directory modal share button */
+.directory-modal .directory-share-btn {
+  background: rgba(255, 255, 255, 0.95);
+  border: 2px solid #fbbf24;
+  cursor: pointer;
+  padding: 0;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.directory-modal .directory-share-btn:hover {
+  background-color: #ffffff;
+  border-color: var(--brand-orange);
+  transform: scale(1.1);
+}
+
+.directory-modal .directory-share-btn:focus {
+  outline: none;
+}
+
 .directory-content {
-  padding: var(--spacing-xl);
-  padding-top: var(--spacing-md);
+  padding: 0 var(--spacing-xl) var(--spacing-xl) var(--spacing-xl);
 }
 
 .directory-entry {
@@ -787,20 +817,24 @@ tbody tr:hover {
   justify-content: center;
   width: 28px;
   height: 28px;
+  min-width: 28px;
+  min-height: 28px;
   padding: 0;
-  margin-left: 0.5rem;
+  margin-right: 0.5rem;
   background-color: rgba(231, 94, 19, 0.1);
   border: 1px solid var(--brand-orange);
   border-radius: 50%;
   font-size: 14px;
   cursor: pointer;
   transition: all 0.2s ease;
-  vertical-align: middle;
+  flex-shrink: 0;
+  /* Shift up slightly from baseline to align better with cap height */
+  transform: translateY(-0.35em);
 }
 
 .section-share-btn:hover {
   background-color: var(--brand-orange);
-  transform: scale(1.1);
+  transform: translateY(-0.35em) scale(1.1);
 }
 
 /* Feedback System Styles */
