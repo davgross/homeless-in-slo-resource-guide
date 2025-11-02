@@ -387,6 +387,10 @@ a.map-link {
   vertical-align: baseline;
 }
 
+a.map-link::before {
+  content: "📍\00a0";
+}
+
 a.map-link:hover {
   background-color: #fde68a;
   border-bottom-color: #d97706;
