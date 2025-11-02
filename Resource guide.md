@@ -31,7 +31,12 @@ Special thanks to Laurel Woodson & Mark Grayson for the funding that kickstarted
 
 | **External links** |
 | ------------------ |
-| <ul><li>[San Luis Obispo County Community Report 2024](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport): A summary of the results of the 2024 “Point-in-Time Count” census of homeless people in SLO County.</li><li>[Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard): The SLO County Department of Social Services’s summary of the ongoing work of homeless management agencies.</li><li>[The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness): As adopted by the county Board of Supervisors</li><li>[Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California)</li></ul> |
+| [San Luis Obispo County Community Report 2024](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport): A summary of the results of the 2024 “Point-in-Time Count” census of homeless people in SLO County. |
+| [Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard): The SLO County Department of Social Services’s summary of the ongoing work of homeless management agencies. |
+| [The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness): As adopted by the county Board of Supervisors |
+| [Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California) |
+
+-----
 
 ## <a id="table-of-contents">Table of Contents</a>
 
@@ -1471,7 +1476,7 @@ Ask them about options for people with low incomes.
 
 ### <a id="poison-oak">Poison Oak</a>
 
-<!-- To-do: add some characteristic photographs showing the variety of leaf shapes/colors. These must be licensed (e.g. creative commons) with usage conditions respected -->
+<!-- To-do: add some characteristic photographs showing the variety of leaf shapes/colors. These must be public domain or licensed (e.g. creative commons) with usage conditions respected -->
 
 Poison oak is a common plant in SLO County and grows everywhere from shaded wet creekbeds to dry sunny hillsides.
 It is a shrub or vine and sometimes also climbs trees and so can appear to be tree branches.
@@ -1507,7 +1512,7 @@ If you develop a sunburn, you can get some relief with over-the-counter salves a
 If you have blisters that break, keep the area clean and covered with a bandage.
 If you notice increasing redness that spreads beyond the area of the burn, or pus, or if you develop a fever, seek medical care as this may indicate an infection.
 
-<!-- To-do: integrate this section
+<!-- To-do: integrate items from this section into the sections above (or new subsections if necessary)
 ### Uncategorized / Needs Research
 
 1. Self-help tips
@@ -1710,15 +1715,6 @@ Hospice care is part of the Veterans Health Administration (VHA)’s standard me
 If you are a veteran who is enrolled with the VHA, and you have a clinical need for end-of-life hospice care, you can get this without a copay through the VHA.
 Contact the local [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) or call the national department of Veterans Affairs at [800-827-1000](tel:+1-800-827-1000).
 
-<!--
-### Uncategorized / Needs Research
-
-1. **Grief Support Groups - North County**:
-   - Hospice SLO County groups in Paso Robles (free 6-week sessions; contact [805-544-2266](tel:+1-805-544-2266)). Source: [hospiceslo.org](https://hospiceslo.org/support-groups/paso-robles)
-   - Central Coast Home Health grief groups at Paso Senior Center, <a href="#" class="map-link" data-lat="35.608386" data-lon="-120.655574" data-zoom="17" data-label="Paso Senior Center">270 Scott Street, Paso Robles</a> (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
-   - GriefShare at First Baptist Church Paso Robles (13-week biblical support group; contact Sandy Garman at [805-423-0476](tel:+1-805-423-0476)). Source: [griefshare.org](https://www.griefshare.org/)
--->
-
 ### <a id="advance-directives">Advance Directives</a>
 
 Advance Directives are legal documents that let you communicate your healthcare wishes in advance, in case you become unable to speak for yourself.
@@ -1737,6 +1733,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) can give you free help to make your advance directive documents clear and legally binding.
 
 ### Uncategorized / Needs Research
+
+<!-- To-do: integrate the items from this list into the above sections, then remove the Uncategorized/Needs Research subsection -->
 
 1. California POLST Program: For people with serious illness, POLST (Physician Orders for Life-Sustaining Treatment) is a medical order form signed by your healthcare provider that documents specific treatment wishes. Free forms downloadable in 13 languages at [capolst.org](https://capolst.org/). For assistance completing POLST forms, contact Hospice SLO at [805-544-2266](tel:+1-805-544-2266) or your healthcare provider. Must be printed on bright pink paper to be valid. Source: [capolst.org](https://capolst.org/)
 1. California Attorney General Advance Directive Form: Official state-approved form combining medical power of attorney and living will; free download at [oag.ca.gov/consumers/general/adv_hc_dir](https://oag.ca.gov/consumers/general/adv_hc_dir). Source: [eforms.com](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/)
@@ -1764,6 +1762,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
 
 ## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
+
+<!-- To-do: prosify this list -->
 
 1. Outside Crisis Intervention and Deescalation Resources
    1. Central Coast Hotline (24/7 Crisis Support)
@@ -1860,7 +1860,11 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ## <a id="legal-help--mediation-crime-victim-protection">Legal Help & Mediation, Crime Victim Protection</a>
 
+<!-- To-do: maybe add a subsection TOC with links to this long section? -->
+
 ### Help for defendants, convicts, parolees, probationers, people with PC 290 convictions
+
+<!-- To-do: prosify this list -->
 
 1. [**Restorative Partners**](Directory.md#Restorative-Partners)
    - What’s Available: Reentry resources, in-custody programs, system navigation, housing assistance, treatment, workforce development, clean and sober living homes for men and women
@@ -1880,6 +1884,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ### Legal help regarding housing (discrimination, landlord disputes, etc.)
 
+<!-- To-do: prosify this list -->
+
 1. [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department): [Housing Discrimination](https://calcivilrights.ca.gov/housing/)
     - What’s Available: Protection from unlawful discrimination in housing, employment, businesses, state-funded programs; hate violence reporting
     - How to file complaints: Online through CCRS (California Civil Rights System), check complaint status online
@@ -1892,13 +1898,19 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ### Help with benefits, wrangling with health insurers, et cetera
 
-1. [**HiCAP (Health Insurance Counseling & Advocacy Program)**](Directory.md#HiCAP)
-    - What’s Available: Free Medicare counseling, explanation of benefits and plan options, cost-saving assistance, appeals help
-    - Eligibility: People 65+ eligible for Medicare, under 65 with disability eligible for Medicare, those soon to be eligible
-    - Services: Medicare fraud referrals, long-term care assistance, community education including "Roadmap to Medicare" classes
-    - Coverage: Administered by Central Coast Commission for Senior Citizens for both SLO and Santa Barbara counties
+[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options.
+HiCAP can also help you file Medicare denial appeals or make Medicare fraud referrals.
+To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties.
+HiCAP is free.
+
+<!--
+To-do: cross reference e.g. social security section?
+To-do: add more stuff about e.g. ombudsmen who can help you with health insurance denial or other denials of benefits.
+-->
 
 ### Realistic know-your-rights information
+
+<!-- To-do: prosify this list -->
 
 1. [**ACLU of Southern California**](Directory.md#ACLU)
     - What’s Available: Free legal assistance for civil liberties and civil rights cases; "Know Your Rights" guides
@@ -1910,11 +1922,15 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
     - Contact: Cal Poly DREAM Center, Cuesta Monarch DREAM Center ([805-546-3109](tel:+1-805-546-3109)), Allan Hancock ([805-922-6966&#xA0;x3177](tel:+1-805-922-6966;ext=3177))
     - Cross-reference: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
 
+<!-- To-do:
 ### Injury liability / workers' compensation
 
 - Note: Local injury liability and workers' compensation attorneys not extensively researched in this guide as of August 2025. For current resources, contact SLO County Bar Association referral service or search for contingency fee attorneys who handle cases without upfront costs.
+-->
 
 ### Consumer protection
+
+<!-- To-do: prosify this list -->
 
 1. [Identity theft hotline](https://www.usa.gov/identity-theft)
    - What’s Available: Federal Trade Commission (FTC) identity theft reporting and recovery assistance; step-by-step recovery guidance; help contacting credit reporting agencies; fraud alert and credit freeze resources
@@ -1946,6 +1962,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
     - Address: 1700 G St. NW, Washington, DC 20552
 
 ### Victims of crime, abuse
+
+<!-- To-do: prosify this list -->
 
 1. [**Lumina Alliance**](Directory.md#Lumina-Alliance)
    - What’s Available: Comprehensive support for survivors of sexual assault and intimate partner violence; 24-hour crisis line; emergency shelters; advocacy and legal accompaniment; trauma-informed therapy; transitional housing; prevention education programs
@@ -1980,6 +1998,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ### Mediation
 
+<!-- To-do: prosify this list -->
+
 1. [**Creative Mediation**](Directory.md#Creative-Mediation)
    - What's Available: Non-profit dispute resolution service offering low-cost mediation for non-criminal cases; free services for SLO County residents
    - Services: Family disputes, business/commercial conflicts, landlord/tenant issues, neighbor conflicts
@@ -1989,6 +2009,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Website: [slobar.org/legal-resources/listing/creative-mediation](https://slobar.org/legal-resources/listing/creative-mediation/)
 
 ### Legal Self-Help / Law Libraries
+
+<!-- To-do: prosify this list -->
 
 1. [**SLO County Law Library**](Directory.md#SLO-County-Law-Library)
    - What's Available: Legal research resources, self-help materials, internet access for legal research
@@ -2019,6 +2041,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Online resources: Free legal guidance available through website's interactive tools and legal help map
 
 ### Legal Consultation
+
+<!-- To-do: prosify this list -->
 
 1. [**SLO County Bar Association Legal Services**](Directory.md#SLO-County-Bar-Association)
    - [Attorney Referral Service](https://slobar.org/Information-and-referral-service/):
@@ -2059,11 +2083,11 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ### Family Law / Child Support
 
-1. [**Child Support Services**](Directory.md#Child-Support-Services)
-   - What's Available: Locate parents, establish parentage, obtain support/health insurance orders, enforce orders, collect payments
-   - Access: Online application available in English and Spanish, online payment and modification options
+[**Child Support Services**](Directory.md#Child-Support-Services) can help you locate parents who may owe child support, establish parentage, obtain and enforce support orders, and collect payments.
 
 ### Immigration Law
+
+<!-- To-do: prosify this list -->
 
 1. [**Catholic Charities**](Directory.md#Catholic-Charities) (Legal Aid Services)
    - Services: Immigration and housing legal assistance
@@ -2109,6 +2133,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 
 ### Senior Legal Services
 
+<!-- To-do: prosify this list -->
+
 1. [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project)
    - Eligibility: Seniors aged 60 and older in SLO County
    - Services: Housing needs (landlord-tenant, evictions, nursing homes, board and care), protection from elder abuse
@@ -2116,6 +2142,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Source: [lawhelpca.org](https://www.lawhelpca.org/organization/senior-legal-services-project)
 
 ### Tax Disputes
+
+<!-- To-do: prosify this list -->
 
 1. [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic)
    - Cal Poly students represent low-income clients, for free, in tax controversies before the IRS and U.S. Tax Court
@@ -2126,6 +2154,8 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Email: [litc@calpoly.edu](mailto:litc@calpoly.edu)
 
 ### Miscellany
+
+<!-- To-do: prosify this list -->
 
 1. Help with advance care directives, wills
    - See medical section above, but also add stuff about wills in particular
@@ -2210,6 +2240,8 @@ The VitalChek website can often also get you these records from other areas.
 
 ### Court Case Summaries, Divorce and Adoption Records
 
+<!-- To-do: prosify this list -->
+
 1. **SLO Superior Court** (case records, background checks, divorce/adoption records, probate/wills, fines)
    - Location/Phone: See [**SLO Superior Court**](Directory.md#SLO-Superior-Court) in the [Directory](Directory.md)
    - Services available:
@@ -2223,13 +2255,17 @@ The VitalChek website can often also get you these records from other areas.
       - By request: Contact court for specific document requests
    - Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov)
 
+<!--
 ### Passports
 
-To-Do: Add section on how to obtain, renew, or reissue a lost U.S. passport. Maybe also general advice about passports from other countries.
+To-do: Add section on how to obtain, renew, or reissue a lost U.S. passport. Maybe also general advice about passports from other countries.
+-->
 
 ### Tips
 
 #### Document storage and security
+
+<!-- To-do: prosify this list -->
 
 - Keep copies separate from originals when possible
 - Use document storage services at homeless service centers:
@@ -2240,6 +2276,8 @@ To-Do: Add section on how to obtain, renew, or reissue a lost U.S. passport. May
 - Scan or photograph documents and store digitally if you have access to email or cloud storage
 
 #### If you have no documents at all
+
+<!-- To-do: prosify this list -->
 
 - Start with Social Security Administration—they can try to verify identity through their records
 - Contact local legal aid for assistance navigating the process
@@ -2264,7 +2302,7 @@ There are various ways to establish a reliable mailing address even if you do no
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you.
 Ask them for details.
 
-<!-- NEEDS VERIFICATION
+<!-- To-do: NEEDS VERIFICATION
  North County Mail Drop Services (*needs verification*): For people in North County areas (Paso Robles, Atascadero, Templeton), contact [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) at [805-462-3663](tel:+1-805-462-3663) to inquire about mail drop services at their Paso Robles (1134 Black Oak Dr.) or Atascadero (7600 El Camino Real #12) locations. Additionally, [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has locations in Arroyo Grande (203 Bridge St.) that may offer mail services for clients; call [805-540-6500](tel:+1-805-540-6500) to inquire. These organizations may allow clients to use their addresses for receiving mail.
 -->
 
@@ -2273,15 +2311,17 @@ The Postal Service option is the most affordable of the two.
 But sometimes, a "P.O. Box" address (which is what you get from the Postal Service) is not adequate for your needs, and one advantage of the UPS Store option is that it appears as a regular street address (e.g. "1241 Johnson Avenue #1234, San Luis Obispo").
 UPS Store locations with mailbox rental services are available throughout SLO County including:
 
-- Arroyo Grande: <a href="#" class="map-link" data-lat="35.119852" data-lon="-120.605397" data-zoom="17" data-label="UPS Store">1375 E. Grand Ave. #103</a>, [805-904-6480](tel:+1-805-904-6480)
-- Atascadero: <a href="#" class="map-link" data-lat="35.483837" data-lon="-120.660562" data-zoom="17" data-label="UPS Store">7343 El Camino Real</a>, [805-466-9015](tel:+1-805-466-9015)
-- Morro Bay: <a href="#" class="map-link" data-lat="35.368768" data-lon="-120.844887" data-zoom="17" data-label="UPS Store">630 Quintana Rd.</a>, [805-772-9284](tel:+1-805-772-9284)
-- Nipomo, <a href="#" class="map-link" data-lat="35.038131" data-lon="-120.489689" data-zoom="17" data-label="UPS Store">110 South Mary Ave. #2</a>, [805-929-0055](tel:+1-805-929-0055)
-- Paso Robles: <a href="#" class="map-link" data-lat="35.616733" data-lon="-120.682645" data-zoom="17" data-label="UPS Store">179 Niblick Rd.</a>, [805-237-8727](tel:+1-805-237-8727)
-- Pismo Beach: <a href="#" class="map-link" data-lat="35.136200" data-lon="-120.624797" data-zoom="17" data-label="UPS Store">567 Five Cities Dr.</a>, [805-295-6581](tel:+1-805-295-6581)
-- SLO: <a href="#" class="map-link" data-lat="35.249339" data-lon="-120.642032" data-zoom="17" data-label="UPS Store">3940 Broad St.</a>, [805-549-0200](tel:+1-805-549-0200)
-- SLO: <a href="#" class="map-link" data-lat="35.293776" data-lon="-120.671971" data-zoom="17" data-label="UPS Store">793 Foothill Blvd.</a>, [805-541-9333](tel:+1-805-541-9333)
-- SLO: <a href="#" class="map-link" data-lat="35.282248" data-lon="-120.656089" data-zoom="17" data-label="UPS Store">1241 Johnson Ave.</a>, [805-541-1334](tel:+1-805-541-1334)
+| UPS Store Location | Phone |
+| ------------------ | ----- |
+| Arroyo Grande: <a href="#" class="map-link" data-lat="35.119852" data-lon="-120.605397" data-zoom="17" data-label="UPS Store">1375 E. Grand Ave. #103</a> | [805-904-6480](tel:+1-805-904-6480) |
+| Atascadero: <a href="#" class="map-link" data-lat="35.483837" data-lon="-120.660562" data-zoom="17" data-label="UPS Store">7343 El Camino Real</a> | [805-466-9015](tel:+1-805-466-9015) |
+| Morro Bay: <a href="#" class="map-link" data-lat="35.368768" data-lon="-120.844887" data-zoom="17" data-label="UPS Store">630 Quintana Rd.</a> | [805-772-9284](tel:+1-805-772-9284) |
+| Nipomo, <a href="#" class="map-link" data-lat="35.038131" data-lon="-120.489689" data-zoom="17" data-label="UPS Store">110 South Mary Ave. #2</a> | [805-929-0055](tel:+1-805-929-0055) |
+| Paso Robles: <a href="#" class="map-link" data-lat="35.616733" data-lon="-120.682645" data-zoom="17" data-label="UPS Store">179 Niblick Rd.</a> | [805-237-8727](tel:+1-805-237-8727) |
+| Pismo Beach: <a href="#" class="map-link" data-lat="35.136200" data-lon="-120.624797" data-zoom="17" data-label="UPS Store">567 Five Cities Dr.</a> | [805-295-6581](tel:+1-805-295-6581) |
+| SLO: <a href="#" class="map-link" data-lat="35.249339" data-lon="-120.642032" data-zoom="17" data-label="UPS Store">3940 Broad St.</a> | [805-549-0200](tel:+1-805-549-0200) |
+| SLO: <a href="#" class="map-link" data-lat="35.293776" data-lon="-120.671971" data-zoom="17" data-label="UPS Store">793 Foothill Blvd.</a> | [805-541-9333](tel:+1-805-541-9333) |
+| SLO: <a href="#" class="map-link" data-lat="35.282248" data-lon="-120.656089" data-zoom="17" data-label="UPS Store">1241 Johnson Ave.</a> | [805-541-1334](tel:+1-805-541-1334) |
 
 Another option is to ask people to send you mail addressed to [“General Delivery”](https://faq.usps.com/s/article/What-is-General-Delivery):
 > *Your Name*<br />
@@ -2291,25 +2331,25 @@ Another option is to ask people to send you mail addressed to [“General Delive
 You can pick up mail that is sent to you via General Delivery from the post office.
 Here are some General Delivery zip codes for our area:
 
-| Post Office       | Pick-up address               | ZIP Code   |
-| ----------------- | ----------------------------- | ---------- |
-| Arroyo Grande     | <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a> | 93420‒9999 |
-| Atascadero        | <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> | 93422‒9999 |
-| Cambria           | <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a> | 93428‒9999 |
-| Cayucos           | <a href="#" class="map-link" data-lat="35.449483" data-lon="-120.903533" data-zoom="17" data-label="Post Office">97 Ash Ave.</a> | 93430‒9999 |
-| Grover Beach      | <a href="#" class="map-link" data-lat="35.121670" data-lon="-120.619893" data-zoom="17" data-label="Post Office">917 W. Grand Ave.</a> | 93433‒9999 |
-| Los Osos          | <a href="#" class="map-link" data-lat="35.310118" data-lon="-120.828820" data-zoom="17" data-label="Post Office">1189 Los Osos Valley Rd.</a> | 93402‒9999 |
-| Morro Bay         | <a href="#" class="map-link" data-lat="35.366647" data-lon="-120.847324" data-zoom="17" data-label="Post Office">898 Napa Ave.</a> | 93442‒9999 |
-| Nipomo            | <a href="#" class="map-link" data-lat="35.035132" data-lon="-120.488569" data-zoom="17" data-label="Post Office">630 W. Tefft St.</a> | 93444‒9999 |
-| Oceano            | <a href="#" class="map-link" data-lat="35.098991" data-lon="-120.611433" data-zoom="17" data-label="Post Office">1800 Beach St.</a> | 93445‒9999 |
-| Paso Robles       | <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a> | 93446‒9999 |
-| Pismo Beach       | <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a> | 93449‒9999 |
-| San Luis Obispo   | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> (main) | 93401‒9999 |
-| San Simeon        | <a href="#" class="map-link" data-lat="35.612276" data-lon="-121.145205" data-zoom="17" data-label="Post Office">250 San Simeon Ave. Ste 7</a> | 93452‒9999 |
-| Santa Margarita   | <a href="#" class="map-link" data-lat="35.391744" data-lon="-120.608109" data-zoom="17" data-label="Post Office">22360 El Camino Real</a> | 93453‒9999 |
-| Templeton         | <a href="#" class="map-link" data-lat="35.557484" data-lon="-120.700688" data-zoom="17" data-label="Post Office">101 N. Main St.</a> | 93465‒9999 |
+| Post Office     | Pick-up address               | ZIP Code   |
+| --------------- | ----------------------------- | ---------- |
+| Arroyo Grande   | <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a> | 93420‒9999 |
+| Atascadero      | <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> | 93422‒9999 |
+| Cambria         | <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a> | 93428‒9999 |
+| Cayucos         | <a href="#" class="map-link" data-lat="35.449483" data-lon="-120.903533" data-zoom="17" data-label="Post Office">97 Ash Ave.</a> | 93430‒9999 |
+| Grover Beach    | <a href="#" class="map-link" data-lat="35.121670" data-lon="-120.619893" data-zoom="17" data-label="Post Office">917 W. Grand Ave.</a> | 93433‒9999 |
+| Los Osos        | <a href="#" class="map-link" data-lat="35.310118" data-lon="-120.828820" data-zoom="17" data-label="Post Office">1189 Los Osos Valley Rd.</a> | 93402‒9999 |
+| Morro Bay       | <a href="#" class="map-link" data-lat="35.366647" data-lon="-120.847324" data-zoom="17" data-label="Post Office">898 Napa Ave.</a> | 93442‒9999 |
+| Nipomo          | <a href="#" class="map-link" data-lat="35.035132" data-lon="-120.488569" data-zoom="17" data-label="Post Office">630 W. Tefft St.</a> | 93444‒9999 |
+| Oceano          | <a href="#" class="map-link" data-lat="35.098991" data-lon="-120.611433" data-zoom="17" data-label="Post Office">1800 Beach St.</a> | 93445‒9999 |
+| Paso Robles     | <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a> | 93446‒9999 |
+| Pismo Beach     | <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a> | 93449‒9999 |
+| San Luis Obispo | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> (main) | 93401‒9999 |
+| San Simeon      | <a href="#" class="map-link" data-lat="35.612276" data-lon="-121.145205" data-zoom="17" data-label="Post Office">250 San Simeon Ave. Ste 7</a> | 93452‒9999 |
+| Santa Margarita | <a href="#" class="map-link" data-lat="35.391744" data-lon="-120.608109" data-zoom="17" data-label="Post Office">22360 El Camino Real</a> | 93453‒9999 |
+| Templeton       | <a href="#" class="map-link" data-lat="35.557484" data-lon="-120.700688" data-zoom="17" data-label="Post Office">101 N. Main St.</a> | 93465‒9999 |
 
-**Note**: In cities with multiple post office locations, General Delivery is typically handled at only one facility (usually the main post office). For example, San Luis Obispo has two post offices (1655 Dalidio Dr. and 893 Marsh St.), but General Delivery is handled at the main location on Dalidio Dr.
+**Note**: In cities with multiple post office locations, General Delivery is typically handled at only one facility (usually the main post office). For example, San Luis Obispo has two post offices, but General Delivery is handled at the main location on Dalidio Dr.
 To confirm which location handles General Delivery in your area, call [800-275-8777](tel:+1-800-275-8777) and request “Customer Service,” or use the [USPS ZIP Code lookup tool](https://tools.usps.com/zip-code-lookup.htm) by entering “General Delivery” as the address line.
 <!-- Source: [faq.usps.com](https://faq.usps.com/s/article/What-is-General-Delivery) -->
 
@@ -2333,6 +2373,8 @@ The post office may stop accepting general delivery mail for you if you try to u
 ## <a id="banking-and-money-management">Banking and Money Management</a>
 
 ### Banks, Credit Unions, et Cetera
+
+<!-- To-do: prosify this list -->
 
 - **Local Credit Unions** (Often more flexible for homeless individuals)
    1. [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union)
@@ -2433,6 +2475,8 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 > See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) section of this guide for more options for establishing a mailing address.
 
 ## <a id="acute-financial-needs">Acute Financial Needs</a>
+
+<!-- To-do: prosify this list -->
 
 1. Primary Emergency Assistance Organizations
    1. [**North County NeighborAid**](Directory.md#North-County-NeighborAid)
@@ -2573,6 +2617,8 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 
 > See [Social Security Numbers or Cards](#social-security-numbers-or-cards) for information about how to get a Social Security number or to get or replace a Social Security card.
 
+<!-- To-do: prosify this list -->
+
 1. Important 2025 Updates
    - SS has stopped issuing paper checks in favor of direct deposit to bank accounts or the "Direct Express" prepaid debit card
    - New phone application option: Starting April 14, 2025, individuals applying for SSDI, Medicare, or SSI who cannot use personal my Social Security accounts can complete applications entirely over the telephone without office visits
@@ -2642,6 +2688,8 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Cross-reference: Also listed in [Education, job skills training section](#education-job-skills-training-certification-tutoring-literacy)
 
 ## <a id="employment-job-boards-etc">Employment, Job Boards, Etc.</a>
+
+<!-- To-do: prosify this list -->
 
 1. Workforce Development Centers
    1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) (America's Job Center of California) (formerly Business and Career One Stop)
@@ -2744,6 +2792,8 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. [FlexJobs](https://www.flexjobs.com/) — find remote jobs with flexible hours
 
 ## <a id="education-job-skills-training-certification-tutoring-literacy">Education, Job Skills Training, Certification, Tutoring, Literacy</a>
+
+<!-- To-do: prosify this list -->
 
 1. Job Training and Career Development
    1. Ticket to Work Program: Free voluntary program for ages 18–64 receiving SSDI/SSI; provides career counseling, job training, placement services. Maintains medical benefits while working. Call [866-968-7842](tel:+1-866-968-7842) to verify eligibility.
@@ -2885,6 +2935,8 @@ This program is for California residents with medically-certified limitations of
 
 ## <a id="internet-access--email--digital-access-assistance">Internet Access / Email / Digital Access Assistance</a>
 
+<!-- To-do: prosify this list -->
+
 1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center)
    - What's Available: Career counseling, training, job-search resources, computer access for individuals with limited access
    - County-wide access (pending review): Locations in SLO (3450 Broad St. #103A and 3563 Empleo Street) and Paso Robles (534 Spring St.) for computer and internet access
@@ -2916,6 +2968,8 @@ This program is for California residents with medically-certified limitations of
 
 ## <a id="charging-stations-for-devices">Charging Stations for Devices</a>
 
+<!-- To-do: prosify this list -->
+
 - Homeless Service Centers with Charging Access
    1. [**5Cities Homeless Coalition**](Directory.md#5CHC) office
       - What’s Available: Device charging stations for clients
@@ -2940,6 +2994,8 @@ This program is for California residents with medically-certified limitations of
    - Note: Call ahead to confirm outlet availability; policies vary by location <!-- Source: https://downtownslo.com/ -->
 
 ## <a id="resources-specific-to-particular-subgroups">Resources Specific to Particular Subgroups:</a>
+
+<!-- To-do: prosify these lists -->
 
 1. Veterans
    1. Refer people out to the veterans’ resource guide
@@ -3226,6 +3282,8 @@ This program is for California residents with medically-certified limitations of
 
 ## <a id="peer-support-groups">Peer Support Groups</a>
 
+<!-- To-do: add introductory paragraph -->
+
 1. [Caregiver Support Groups](https://stmlcottagehealthncus001.blob.core.windows.net/public/CCRC_Support_Groups_flyer_march2025.pdf)
 1. [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups)
 1. [Parkinson support groups](https://www.myccpa.org/support-groups)
@@ -3241,9 +3299,18 @@ This program is for California residents with medically-certified limitations of
 1. [**NAMI SLO County**](Directory.md#NAMI-SLO-County) ([support groups](https://www.namislo.org/nami-support-groups))
 1. [**TMHA**](Directory.md#TMHA) ([family support groups](https://www.t-mha.org/family-support-groups.php))
 
+<!--
+To-do: Integrate these into the list above
+
+1. **Grief Support Groups - North County**:
+   - Hospice SLO County groups in Paso Robles (free 6-week sessions; contact [805-544-2266](tel:+1-805-544-2266)). Source: [hospiceslo.org](https://hospiceslo.org/support-groups/paso-robles)
+   - Central Coast Home Health grief groups at Paso Senior Center, <a href="#" class="map-link" data-lat="35.608386" data-lon="-120.655574" data-zoom="17" data-label="Paso Senior Center">270 Scott Street, Paso Robles</a> (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
+   - GriefShare at First Baptist Church Paso Robles (13-week biblical support group; contact Sandy Garman at [805-423-0476](tel:+1-805-423-0476)). Source: [griefshare.org](https://www.griefshare.org/)
+-->
+
 ## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering</a>
 
-<!--
+<!-- To-do: prosify this list, add info on the following:
 Note: Added Atascadero Senior Center to Directory (October 2025) — offers free lunch M–F, fitness classes (Tai Chi, chair yoga, walking groups), games, arts/crafts, computer access, medical equipment loans
 Note: Added Central Coast Senior Center (Oceano) to Directory (October 2025) — offers lunch M–F, monthly luncheon, Bingo, Bunco, Tai Chi, art classes
 Note: Added Morro Bay Senior Center to Directory (October 2025) — offers medical equipment loans, games (Bingo, cards, etc.), fitness classes (Tai Chi, Pickleball, exercise programs), support groups
@@ -3343,6 +3410,8 @@ Grants do not cover exams or testing.
 
 ## <a id="disaster-planningprep-earthquakes-fires-floods">Disaster Planning/Prep (Earthquakes, Fires, Floods)</a>
 
+<!-- To-do: prosify this list -->
+
 1. **[Red Cross Central California](https://www.redcross.org/local/california/central-california.html)**
     - Services for homeless individuals: Emergency shelter during disasters (cots, basic needs), disaster relief assistance, safety information for people without secure housing during emergencies (fires, floods, earthquakes)
     - Coverage: Serves 11 counties across Central California including SLO County
@@ -3407,6 +3476,8 @@ Grants do not cover exams or testing.
 
 ## <a id="advocacy--lobbying-for-homeless-issues">Advocacy & Lobbying for Homeless Issues</a>
 
+<!-- To-do: prosify this list -->
+
 1. [National Coalition for the Homeless](https://nationalhomeless.org/)
 1. **SeeClickFix (Paso Robles)**—Digital platform for reporting non-emergency community issues to city government, including homeless-related concerns. Available at [seeclickfix.com](https://seeclickfix.com/web_portal/mWPmZTZqbheqdCAtKircrZNq/issues/map) or via mobile app. Used by residents to report issues like infrastructure problems, maintenance needs, and community concerns that require city attention. For homeless-specific questions in Paso Robles, contact [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
 1. **[Ask SLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request)**—SLO's centralized resident engagement platform (available online and as mobile app) providing 24/7 access to city services. Report homelessness issues on city public property via Ask SLO, or private property issues to Code Enforcement through the platform. Platform is managed by Community Services departments including Public Works, Code Enforcement, Parks & Recreation, and Utilities. Contact: Brendan Pringle at [bpringle@slocity.org](mailto:bpringle@slocity.org) for platform questions.
@@ -3469,6 +3540,8 @@ Grants do not cover exams or testing.
    - **Statewide activities**: Planning first-ever statewide convention of homeless people; organizing drives across California; focus on becoming a political factor for homeless and poor people statewide <!-- Source: [thestreetspirit.org](https://thestreetspirit.org/2023/05/16/in-dialogue-with-anthony-prince-founding-member-of-the-national-union-of-the-homeless/) -->
 
 ## <a id="miscellaneous-free-items-eg-household-goods">Miscellaneous Free Items (e.g. Household Goods)</a>
+
+<!-- To-do: prosify this list -->
 
 1. **Community Exchange Networks**
    1. **[Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA)**
@@ -3547,23 +3620,27 @@ Grants do not cover exams or testing.
 
 ## <a id="other-guides-web-pages-information-sources">Other Guides, Web Pages, Information Sources</a>
 
-1. [**Community Support Services**](https://5chc.org/community-services) (5CHC)
-1. **[Central Coast Senior Resource Guide](https://centralcoastseniors.org/)**: 122-page comprehensive guide covering services for seniors in San Luis Obispo and Santa Barbara Counties; available online and in print through Central Coast Commission for Senior Citizens. Available as a searchable on-line directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
-1. **[Paso Robles Senior Resource Guide](https://www.prcity.com/departments/recreationservices)**: 2025–26 North SLO County Senior Resource Guide available in English/Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, healthcare
-1. **SLO County Veterans Resources**: Comprehensive veteran services available through SLO County Veterans Services Office (Note: Unable to verify [805-781-5766](tel:+1-805-781-5766) in available sources; contact SLO County directly for current contact information) and San Luis Obispo Veterans Service Collaborative at [slovsc.org/veterans_resources/](https://slovsc.org/veterans_resources/)
-1. **Emergency SLO County Resources**: General emergency preparedness and resource information at [www.emergencyslo.org](https://www.emergencyslo.org/en/index.aspx)
-1. [**HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County**](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
-1. [**2024 Financial Aid/Assistance Resources - San Luis Obispo, CA**](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic)
-1. [**Assistance Programs in SLO County**](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html)
-1. [**(TMHA) Helpful Links**](https://www.t-mha.org/helpful-links.php)
-1. [**The Homeless Veteran’s Resource Guide**](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
-1. [**SLO County Behavioral Health Resource Center**](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
-1. [**Resource Guide Estero Bay**](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf)
-1. [**Sharing SLO wiki**](https://localwiki.org/slo/Sharing_SLO)
-1. [**Immigrant Services Guide**](https://www.sloundocusupport.org/immigrantservicesguide)
-1. [**NavSLO**](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
+<!-- To-do: add an introductory paragraph -->
+
+1. [Community Support Services](https://5chc.org/community-services) (5CHC)
+1. [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/): 122-page comprehensive guide covering services for seniors in San Luis Obispo and Santa Barbara Counties; available online and in print through Central Coast Commission for Senior Citizens. Available as a searchable on-line directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
+1. [*Paso Robles Senior Resource Guide*](https://www.prcity.com/departments/recreationservices): 2025–26 North SLO County Senior Resource Guide available in English/Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, healthcare
+1. SLO County Veterans Resources: Comprehensive veteran services available through SLO County Veterans Services Office (Note: Unable to verify [805-781-5766](tel:+1-805-781-5766) in available sources; contact SLO County directly for current contact information) and San Luis Obispo Veterans Service Collaborative at [slovsc.org/veterans_resources/](https://slovsc.org/veterans_resources/)
+1. Emergency SLO County Resources: General emergency preparedness and resource information at [www.emergencyslo.org](https://www.emergencyslo.org/en/index.aspx)
+1. [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
+1. [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic)
+1. [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html)
+1. [(TMHA) Helpful Links](https://www.t-mha.org/helpful-links.php)
+1. [The Homeless Veteran’s Resource Guide](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
+1. [SLO County Behavioral Health Resource Center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
+1. [Resource Guide Estero Bay](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf)
+1. [Sharing SLO wiki](https://localwiki.org/slo/Sharing_SLO)
+1. [Immigrant Services Guide](https://www.sloundocusupport.org/immigrantservicesguide)
+1. [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
 
 ## <a id="miscellaneous-tips">Miscellaneous Tips</a>
+
+<!-- To-do: prosify this list -->
 
 1. Ideally contributed by local homeless people: would make for good sidebars to break up listings; may want to get legal waiver of copyright from them, though
    - Use waterproof plastic bags to store important documents and electronics
