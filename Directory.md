@@ -93,18 +93,11 @@
 
 ## <a id="Achievement-House-Thrift-Store">Achievement House Thrift Store</a>
 
-- Locations:
-   - 1446 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.1208561" data-lon="-120.6056542" data-zoom="17" data-label="Achievement House Thrift Store (Arroyo Grande)">📍 Map</a>
-   - 3003 Cuesta College Rd., SLO <a href="#" class="map-link" data-lat="35.3243286" data-lon="-120.7449265" data-zoom="17" data-label="Achievement House Thrift Store (SLO)">📍 Map</a>
-   - 730 Morro Bay Blvd., Morro Bay <a href="#" class="map-link" data-lat="35.3657373" data-lon="-120.8447987" data-zoom="17" data-label="Achievement House Thrift Store (Morro Bay)">📍 Map</a>
-- Phone:
-   - [805-202-3068](tel:+1-805-202-3068) (Arroyo Grande)
-   - [805-543-9383](tel:+1-805-543-9383) (SLO)
-   - [805-772-6744](tel:+1-805-772-6744) (Morro Bay)
-- Hours:
-   - Arroyo Grande: Daily 9:30am–5pm
-   - SLO: M–F 8am–3:45pm, Sa 9am–3:30pm
-   - Morro Bay: M–F 8:30am–4:30pm, Sa 9am–4:30pm
+| Location | Phone | Hours |
+| -------- | ----- | ----- |
+| 1446 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.1208561" data-lon="-120.6056542" data-zoom="17" data-label="Achievement House Thrift Store (Arroyo Grande)">📍 Map</a> | [805-202-3068](tel:+1-805-202-3068) | Daily 9:30am–5pm |
+| 3003 Cuesta College Rd., SLO <a href="#" class="map-link" data-lat="35.3243286" data-lon="-120.7449265" data-zoom="17" data-label="Achievement House Thrift Store (SLO)">📍 Map</a> | [805-543-9383](tel:+1-805-543-9383) | M–F 8am–3:45pm, Sa 9am–3:30pm |
+| 730 Morro Bay Blvd., Morro Bay <a href="#" class="map-link" data-lat="35.3657373" data-lon="-120.8447987" data-zoom="17" data-label="Achievement House Thrift Store (Morro Bay)">📍 Map</a> | [805-772-6744](tel:+1-805-772-6744) | M–F 8:30am–4:30pm, Sa 9am–4:30pm |
 
 ## <a id="ACLU">ACLU of Southern California</a>
 
@@ -117,14 +110,17 @@
 ## <a id="Adult-Protective-Services">Adult Protective Services</a>
 
 - [Slocounty.ca.gov/APS](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29)
-- Locations:
-   - Arroyo Grande: 1086 E. Grand Ave. <a href="#" class="map-link" data-lat="35.1197593" data-lon="-120.5956380" data-zoom="17" data-label="Adult Protective Services (Arroyo Grande)">📍 Map</a>, [805-474-2000](tel:+1-805-474-2000)
-   - Atascadero: 9630 El Camino Real <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="Adult Protective Services (Atascadero)">📍 Map</a>, [805-461-6000](tel:+1-805-461-6000)
-   - Morro Bay: 600 Quintana Rd. <a href="#" class="map-link" data-lat="35.3692734" data-lon="-120.8447261" data-zoom="17" data-label="Adult Protective Services (Morro Bay)">📍 Map</a>, [805-772-6405](tel:+1-805-772-6405)
-   - Nipomo: 681 W. Tefft St. #1 <a href="#" class="map-link" data-lat="35.0336188" data-lon="-120.4879843" data-zoom="17" data-label="Adult Protective Services (Nipomo)">📍 Map</a>, [805-931-1800](tel:+1-805-931-1800)
-   - Paso Robles: 406 Spring St. <a href="#" class="map-link" data-lat="35.6185648" data-lon="-120.6903449" data-zoom="17" data-label="Adult Protective Services (Paso Robles)">📍 Map</a>, [805-237-3110](tel:+1-805-237-3110)
-   - SLO: 3433 S. Higuera St. <a href="#" class="map-link" data-lat="35.2536551" data-lon="-120.6687249" data-zoom="17" data-label="Adult Protective Services (SLO)">📍 Map</a>, [805-781-1600](tel:+1-805-781-1600)
-- Phone: [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm); [844-729-8011](tel:+1-844-729-8011) (after hours); 911 (emergency)
+
+| Location | Phone |
+| -------- | ----- |
+| Arroyo Grande: 1086 E. Grand Ave. <a href="#" class="map-link" data-lat="35.1197593" data-lon="-120.5956380" data-zoom="17" data-label="Adult Protective Services (Arroyo Grande)">📍 Map</a> | [805-474-2000](tel:+1-805-474-2000) |
+| Atascadero: 9630 El Camino Real <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="Adult Protective Services (Atascadero)">📍 Map</a> | [805-461-6000](tel:+1-805-461-6000) |
+| Morro Bay: 600 Quintana Rd. <a href="#" class="map-link" data-lat="35.3692734" data-lon="-120.8447261" data-zoom="17" data-label="Adult Protective Services (Morro Bay)">📍 Map</a> | [805-772-6405](tel:+1-805-772-6405) |
+| Nipomo: 681 W. Tefft St. #1 <a href="#" class="map-link" data-lat="35.0336188" data-lon="-120.4879843" data-zoom="17" data-label="Adult Protective Services (Nipomo)">📍 Map</a> | [805-931-1800](tel:+1-805-931-1800) |
+| Paso Robles: 406 Spring St. <a href="#" class="map-link" data-lat="35.6185648" data-lon="-120.6903449" data-zoom="17" data-label="Adult Protective Services (Paso Robles)">📍 Map</a> | [805-237-3110](tel:+1-805-237-3110) |
+| SLO: 3433 S. Higuera St. <a href="#" class="map-link" data-lat="35.2536551" data-lon="-120.6687249" data-zoom="17" data-label="Adult Protective Services (SLO)">📍 Map</a> | [805-781-1600](tel:+1-805-781-1600) |
+
+- Phone: [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm); [844-729-8011](tel:+1-844-729-8011) (after hours); [911](tel:+1-911) (emergency)
 - Hours: M–F 8am–4pm (appointments 4–5pm)
 - Notes:
    - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
@@ -207,15 +203,11 @@
 ## <a id="APA">Alliance for Pharmaceutical Access</a>
 
 - [apameds.org/for-clients](https://apameds.org/for-clients/)
-- Location:
-   - 345 S. Halcyon Rd. (Arroyo Grande) <a class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Alliance for Pharmaceutical Access">📍 Map</a>
-   - 1428 Phillips Lane #B4 (SLO, inside Noor Clinic) <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alliance for Pharmaceutical Access">📍 Map</a>
-- Phone:
-   - [805-489-4261 x4267](tel:+1-805-489-4261;ext=4267) (Arroyo Grande)
-   - [805-548-0894](tel:+1-805-548-0894) (SLO)
-- Hours:
-   - Mo. 1pm–7pm (Arroyo Grande)
-   - Tu. 1pm–5pm (SLO)
+
+| Location | Phone | Hours |
+| -------- | ----- | ----- |
+| 345 S. Halcyon Rd. (Arroyo Grande) <a class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Alliance for Pharmaceutical Access">📍 Map</a> | [805-489-4261 x4267](tel:+1-805-489-4261;ext=4267) | Mo. 1pm–7pm |
+| 1428 Phillips Lane #B4 (SLO, inside Noor Clinic) <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alliance for Pharmaceutical Access">📍 Map</a> | [805-548-0894](tel:+1-805-548-0894) | Tu. 1pm–5pm |
 
 ## American Academy of Opthamology
 
@@ -393,12 +385,10 @@
 
 ## <a id="Blessed-to-Serve">Blessed to Serve</a>
 
-- Locations:
-   - 12150 Los Osos Valley Road, SLO <a href="#" class="map-link" data-lat="35.250659" data-lon="-120.684721" data-zoom="17" data-label="Blessed to Serve">📍 Map</a>
-   - 1251 Calle Joaquin, SLO <a href="#" class="map-link" data-lat="35.251051" data-lon="-120.679879" data-zoom="17" data-label="Blessed to Serve">📍 Map</a>
-- Hours:
-   - M 5pm (L.O.V.R.)
-   - Th 5pm (Calle Joaquin)
+| Location | Hours |
+| -------- | ----- |
+| 12150 Los Osos Valley Road, SLO <a href="#" class="map-link" data-lat="35.250659" data-lon="-120.684721" data-zoom="17" data-label="Blessed to Serve">📍 Map</a> (car dealership) | M 5pm |
+| 1251 Calle Joaquin, SLO <a href="#" class="map-link" data-lat="35.251051" data-lon="-120.679879" data-zoom="17" data-label="Blessed to Serve">📍 Map</a> (car dealership) | Th 5pm |
 
 ## <a id="Boyd-Bristol-Medical-Equipment-Program">Boyd Bristol Medical Equipment Program</a>
 
@@ -682,7 +672,7 @@
 - Phone: [805-439-1994](tel:+1-805-439-1994)
 - Email: [info@cfsslo.org](mailto:info@cfsslo.org)
 - Hours: By appointment (call or email to schedule)
-   - Family Resource Centers in Atascadero and Paso Robles: M–F 9am–4pm
+   - Family Resource Centers in Atascadero and Paso Robles: M–F 9am–4pm <!-- To-do: add, and link to, Directory entries for these Family Resource Centers -->
 - Notes:
    - make referrals via [**Adult Protective Services**](#Adult-Protective-Services)
    - operates [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
@@ -692,17 +682,17 @@
 ## <a id="The-Center">The Center for Health & Prevention</a>
 
 - [capslo.org/the-center](https://capslo.org/the-center/)
-- Locations:
-   - 1152 E. Grand Ave. (Arroyo Grande) <a href="#" class="map-link" data-lat="35.120865" data-lon="-120.597299" data-zoom="17" data-label="The Center">📍 Map</a>
-   - 705 Grand Ave. (SLO) <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">📍 Map</a>
-- Phone:
-   - [805-489-4026](tel:+1-805-489-4026) (Arroyo Grande)
-   - [805-544-2498 x211](tel:+1-805-544-2498;ext=211) (SLO)
-   - [805-422-2498 x121](tel:+1-805-422-2498;ext=121) (info line)
-- Hours: M–F 8:30am–5:30pm
-   - (Teen clinic Tuesday 3–6pm, Friday 3–5:30pm in Arroyo Grande)
+
+| Location | Phone | Hours |
+| -------- | ----- | ----- |
+| 1152 E. Grand Ave. (Arroyo Grande) <a href="#" class="map-link" data-lat="35.120865" data-lon="-120.597299" data-zoom="17" data-label="The Center">📍 Map</a> | [805-489-4026](tel:+1-805-489-4026) (Arroyo Grande) | M–F 9am–5pm |
+| 705 Grand Ave. (SLO) <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">📍 Map</a> | [805-544-2498 x211](tel:+1-805-544-2498;ext=211) (SLO) | M–F 9am–5pm |
+
+- Phone: [805-422-2498 x121](tel:+1-805-422-2498;ext=121) (info line)
 - How to access: Walk-ins OK, but appointments recommended.
-- Note: operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
+- Note:
+   - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
+   - Teen clinic Tuesday 3–6pm, Friday 3–5:30pm in Arroyo Grande
 
 ## <a id="CCADRC">Central Coast Aging & Disability Resource Center (CCADRC)</a>
 
@@ -880,25 +870,25 @@
 - Email: [recreation@slocity.org](mailto:recreation@slocity.org)
 - Hours: M–F 8am–4pm
 
-## <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a> / <a id="Oceano-Campground">Oceano Campground</a>
+## <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a>
 
 - [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
-- Locations:
-   - 494 Air Park Dr., Oceano <a class="map-link" data-lat="35.104656" data-lon="-120.625624" data-zoom="17" data-label="Oceano Campground">📍 Map</a>
-   - 1001 Pacific Blvd. <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes RV Park">📍 Map</a>
+- Location: 1001 Pacific Blvd. <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes RV Park">📍 Map</a>
 - Phone: [805-781-4900](tel:+1-805-781-4900) M–Th 8am–4:30pm; F–Su 8am–6pm, [805-781-5930](tel:+1-805-781-5930) (reservations)
 
 ## <a id="CoastHills-Credit-Union">CoastHills Credit Union</a>
 
 - [coasthills.coop](https://coasthills.coop/)
-- Locations:
-   - 1360 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.121113" data-lon="-120.604811" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a>
-   - 8900 Pueblo Ave., Atascadero <a href="#" class="map-link" data-lat="35.479914" data-lon="-120.658349" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a>
-   - 671 W. Tefft St. #6, Nipomo <a href="#" class="map-link" data-lat="35.036884" data-lon="-120.487468" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a>
-   - 1402 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.629040" data-lon="-120.691354" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a>
-   - 751 Marsh St., SLO <a href="#" class="map-link" data-lat="35.278378" data-lon="-120.662853" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a>
+
+| Location | Hours |
+| -------- | ----- |
+| 1360 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.121113" data-lon="-120.604811" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a> | M–Th 9am–5pm, F 9am–6pm, Sa. 10am–1pm |
+| 8900 Pueblo Ave., Atascadero <a href="#" class="map-link" data-lat="35.479914" data-lon="-120.658349" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a> | M–Th 9am–5pm, F 9am–6pm |
+| 671 W. Tefft St. #6, Nipomo <a href="#" class="map-link" data-lat="35.036884" data-lon="-120.487468" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a> | M–Th 9am–5pm, F 9am–6pm |
+| 1402 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.629040" data-lon="-120.691354" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a> | M–Th 9am–5pm, F 9am–6pm, Sa. 10am–1pm |
+| 751 Marsh St., SLO <a href="#" class="map-link" data-lat="35.278378" data-lon="-120.662853" data-zoom="17" data-label="CoastHills Credit Union">📍 Map</a> | M–Th 9am–5pm, F 9am–6pm |
+
 - Phone: [805-733-7600](tel:+1-805-733-7600) / [800-262-4488](tel:+1-800-262-4488)
-- Hours: M–Th 9am–5pm, F 9am–6pm, (also Sa. 10am–1pm at Arroyo Grande and Paso Robles branches only)
 
 ## Commission for Senior Citizens
 
@@ -999,14 +989,11 @@
 ## <a id="Cottage-Urgent-Care">Cottage Urgent Care</a>
 
 - [cottagehealth.org/urgent-care](https://www.cottagehealth.org/urgent-care/)
-- Marigold Center
-   - Location: 3970 Broad Street Suite 2, SLO <a href="#" class="map-link" data-lat="35.249334" data-lon="-120.643117" data-zoom="17" data-label="Cottage Urgent Care">📍 Map</a>
-   - Phone: [805-762-4996](tel:+1-805-762-4996)
-   - Hours: Every day: 8am–8pm
-- Foothill Plaza
-   - Location: 777 E. Foothill Blvd., SLO
-   - Phone: [805-762-4348](tel:+1-805-762-4348)
-   - Hours: Every day 8am–8pm
+
+| Location | Phone | Hours |
+| -------- | ----- | ----- |
+| Marigold Center: 3970 Broad Street Suite 2, SLO <a href="#" class="map-link" data-lat="35.249334" data-lon="-120.643117" data-zoom="17" data-label="Cottage Urgent Care">📍 Map</a> | [805-762-4996](tel:+1-805-762-4996) | Every day: 8am–8pm |
+| Foothill Plaza: 777 E. Foothill Blvd., SLO <a href="#" class="map-link" data-lat="35.292930" data-lon="-120.671889" data-zoom="17" data-label="PLACEHOLDER">📍 Map</a> | [805-762-4348](tel:+1-805-762-4348) | Every day 8am–8pm |
 
 ## County of San Luis Obispo Public Libraries
 
@@ -1072,12 +1059,11 @@
 
 > *See also [**Dignity Health**](#Dignity-Health)*
 
-- Locations:
-   - Atascadero: 5920 W Mall, Atascadero <a href="#" class="map-link" data-lat="35.489540" data-lon="-120.668170" data-zoom="17" data-label="Dignity Health Urgent Care">📍 Map</a> — [805-461-2131](tel:+1-805-461-2131)
-   - Pismo Beach: 877 Oak Park Blvd, Pismo Beach <a href="#" class="map-link" data-lat="35.132062" data-lon="-120.606526" data-zoom="17" data-label="Dignity Health Urgent Care">📍 Map</a> — [805-474-8450](tel:+1-805-474-8450)
-- Hours:
-   - Atascadero: M–F 8am–6pm, Sa 9am–3pm, Su closed
-   - Pismo Beach: M–F 8am–6pm, Sa 8am–4pm
+| Location | Hours |
+| -------- | ----- |
+| Atascadero: 5920 W Mall, Atascadero <a href="#" class="map-link" data-lat="35.489540" data-lon="-120.668170" data-zoom="17" data-label="Dignity Health Urgent Care">📍 Map</a> — [805-461-2131](tel:+1-805-461-2131) | M–F 8am–6pm, Sa 9am–3pm, Su closed |
+| Pismo Beach: 877 Oak Park Blvd, Pismo Beach <a href="#" class="map-link" data-lat="35.132062" data-lon="-120.606526" data-zoom="17" data-label="Dignity Health Urgent Care">📍 Map</a> — [805-474-8450](tel:+1-805-474-8450) | M–F 8am–6pm, Sa 8am–4pm, Su closed |
+
 - Notes: Accepts Medicare and Medi-Cal; walk-ins welcome, no appointment necessary; lab and X-ray services on site
 <!-- Source: Atascadero location info verified October 2025 via web search -->
 
@@ -1122,15 +1108,14 @@
 ## <a id="ECHO">El Camino Homeless Organization (ECHO)</a>
 
 - [www.echoshelter.org](https://www.echoshelter.org/)
-- Locations:
-   - 6370 Atascadero Ave., Atascadero <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">📍 Map</a>
-   <!-- Another source says 7600 El Camino Real #12, Atascadero -->
-   - 1134 Black Oak Dr., Paso Robles <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">📍 Map</a>
+
+| Shelter Location | Hours | Dinner | Showers |
+| ---------------- | ----- | ------ | ------- |
+| 6370 Atascadero Ave., Atascadero <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">📍 Map</a> <!-- Another source says 7600 El Camino Real #12, Atascadero --> | M–F 10–6pm | daily 5–6pm | M–F 3:30–5pm |
+| 1134 Black Oak Dr., Paso Robles <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">📍 Map</a> | M–F 10–6pm | daily 4:30–5:30pm | showers M,W,F 3:30–5pm |
+
 - Phone: [805-462-3663](tel:+1-805-462-3663)
 - Email: [asolheim@echoshelter.org](mailto:asolheim@echoshelter.org)
-- Hours:
-   - Atascadero: M–F 10–6pm, dinner daily 5–6pm, showers M–F 3:30–5pm
-   - Paso Robles: M–F 10–6pm, dinner daily 4:30–5:30pm, showers M,W,F 3:30–5pm
 - How to access: For transitional housing, contact ECHO to get on a waiting list; for dinner or showers, just show up on time
 
 ## <a id="El-Chorro-Regional-Park-Campground">El Chorro Regional Park Campground</a>
@@ -1323,19 +1308,16 @@
 ## <a id="Goodwill">Goodwill Stores</a>
 
 - [ccgoodwill.org](https://www.ccgoodwill.org/)
-- Locations:
-   - 8310 El Camino Real #A, Atascadero <a href="#" class="map-link" data-lat="35.474441" data-lon="-120.656410" data-zoom="17" data-label="Goodwill Store">📍 Map</a>
-   - 1628 W. Grand Ave., Grover Beach <a href="#" class="map-link" data-lat="35.120113" data-lon="-120.611025" data-zoom="17" data-label="Goodwill Store">📍 Map</a>
-   - 1020 Park St., Paso Robles <a href="#" class="map-link" data-lat="35.625127" data-lon="-120.689607" data-zoom="17" data-label="Goodwill Store">📍 Map</a>
-   - 15 S. Higuera St., SLO <a href="#" class="map-link" data-lat="35.265971" data-lon="-120.670164" data-zoom="17" data-label="Goodwill Store">📍 Map</a>
-   - 880 Industrial Way, SLO <a href="#" class="map-link" data-lat="35.252988" data-lon="-120.640955" data-zoom="17" data-label="Goodwill Outlet">📍 Map</a> (Outlet)
+
+| Location | Hours |
+| -------- | ----- |
+| 8310 El Camino Real #A, Atascadero <a href="#" class="map-link" data-lat="35.474441" data-lon="-120.656410" data-zoom="17" data-label="Goodwill Store">📍 Map</a> | Daily 9am–6pm |
+| 1628 W. Grand Ave., Grover Beach <a href="#" class="map-link" data-lat="35.120113" data-lon="-120.611025" data-zoom="17" data-label="Goodwill Store">📍 Map</a> | Daily 9am–7pm |
+| 1020 Park St., Paso Robles <a href="#" class="map-link" data-lat="35.625127" data-lon="-120.689607" data-zoom="17" data-label="Goodwill Store">📍 Map</a> | Su–Th 9am–7pm, Fr–Sa 9am–8pm |
+| 15 S. Higuera St., SLO <a href="#" class="map-link" data-lat="35.265971" data-lon="-120.670164" data-zoom="17" data-label="Goodwill Store">📍 Map</a> | Daily 9am–6pm |
+| 880 Industrial Way, SLO <a href="#" class="map-link" data-lat="35.252988" data-lon="-120.640955" data-zoom="17" data-label="Goodwill Outlet">📍 Map</a> (Outlet) | Daily 7am–4pm |
+
 - Phone: [800-894-8440](tel:+1-800-894-8440)
-- Hours:
-   - Atascadero Daily 9am–6pm
-   - Grover Beach: Daily 9am–7pm
-   - Paso Robles: Su–Th 9am–7pm, Fr–Sa 9am–8pm
-   - SLO Store: Daily 9am–6pm
-   - SLO Outlet: Daily 7am–4pm
 
 ## <a id="Grace-Central-Coast">Grace Central Coast</a> “God’s Storehouse”
 
@@ -1384,14 +1366,16 @@
 - Location: 844 9th St, Paso Robles <a href="#" class="map-link" data-lat="35.623410" data-lon="-120.688886" data-zoom="17" data-label="Habitat for Humanity">📍 Map</a>
 - Phone: [805-782-0687](tel:+1-805-782-0687)
 - Email: [info@habitatslo.org](mailto:info@habitatslo.org)
-- **ReStore** (recycled construction and home renovation materials):
-   - [habitatslo.org/restores](https://habitatslo.org/restores/)
-   - Location: 2790 Broad St., SLO <a href="#" class="map-link" data-lat="35.264447" data-lon="-120.651866" data-zoom="17" data-label="Habitat for Humanity ReStore">📍 Map</a>
-   - Phone: [805-546-8699](tel:+1-805-546-8699)
-   - Email: [restoreslo@habitatslo.org](mailto:restoreslo@habitatslo.org)
-   - Hours:
-      - Store: Tu–Sa 10am–5pm
-      - Walk-in donations: Tu/W/F/Sa 11am–4pm (no donations on Thursdays)
+
+**ReStore** (recycled construction and home renovation materials):
+
+- [habitatslo.org/restores](https://habitatslo.org/restores/)
+- Location: 2790 Broad St., SLO <a href="#" class="map-link" data-lat="35.264447" data-lon="-120.651866" data-zoom="17" data-label="Habitat for Humanity ReStore">📍 Map</a>
+- Phone: [805-546-8699](tel:+1-805-546-8699)
+- Email: [restoreslo@habitatslo.org](mailto:restoreslo@habitatslo.org)
+- Hours:
+   - Store: Tu–Sa 10am–5pm
+   - Walk-in donations: Tu/W/F/Sa 11am–4pm (no donations on Thursdays)
 
 ## <a id="Healing-and-Restoration-Campus">Healing and Restoration Campus</a>
 
@@ -1467,12 +1451,6 @@
 - Phone: [805-544-2266](tel:+1-805-544-2266)
 - Hours: M–F 10am–4pm
 - Notes: All services provided at no charge; does not bill insurance
-
-## <a id="HPE">Hospital Presumptive Eligibility (HPE)</a>
-
-Hospital Presumptive Eligibility allows qualified hospitals to provide immediate temporary [**Medi-Cal**](#Medi-Cal) coverage to eligible individuals while they apply for ongoing Medi-Cal benefits.
-This program helps ensure uninsured patients can access necessary medical care without delay.
-<!-- Source: [dhcs.ca.gov](https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx) -->
 
 ## <a id="HouseKeys">HouseKeys</a>
 
@@ -1551,15 +1529,12 @@ This program helps ensure uninsured patients can access necessary medical care w
 
 ## <a id="Judson-Terrace">Judson Terrace</a>
 
-- Judson Terrace Homes:
-   - Location: 3000 Augusta St., SLO <a class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="40 Prado Homeless Services Center">📍 Map</a>
-   - Phone: [805-544-1600](tel:+1-805-544-1600)
-- Judson Terrace Lodge:
-   - Location: 3042 Augusta St., SLO
-   - Phone: [805-541-4567](tel:+1-805-541-4567)
+| Name | Location | Phone | Ages |
+| ---- | -------- | ----- | ---- |
+| Judson Terrace Homes | 3000 Augusta St., SLO <a class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="40 Prado Homeless Services Center">📍 Map</a> | [805-544-1600](tel:+1-805-544-1600) | 55+ |
+| Judson Terrace Lodge | 3042 Augusta St., SLO | [805-541-4567](tel:+1-805-541-4567) | 62+ |
+
 - Notes:
-   - Judson Terrace Homes: 55+ age requirement, 107 low-income affordable apartments
-   - Judson Terrace Lodge: 62+ age requirement, 31 low-income affordable apartments
    - Low-income seniors; HUD residents typically pay 30% of gross income for rent
    - Applications available only when waiting list is open; contact directly for current status
 
@@ -1860,11 +1835,14 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
 
 - [adulted.luciamarschools.org](https://adulted.luciamarschools.org/)
-- Locations:
-   - Main office: 1055 Mesa View Dr., Arroyo Grande <a href="#" class="map-link" data-lat="35.066043" data-lon="-120.595132" data-zoom="17" data-label="Lucia Mar Adult Education">📍 Map</a>
-   - Nipomo Learning Center: 190 E. Price St., Nipomo <a href="#" class="map-link" data-lat="35.042848" data-lon="-120.471869" data-zoom="17" data-label="Lucia Mar Adult Education">📍 Map</a>
-   - Oceano Community Center: 1551 17th St., Oceano <a href="#" class="map-link" data-lat="35.103145" data-lon="-120.612309" data-zoom="17" data-label="Lucia Mar Adult Education">📍 Map</a>
-- Phone: [805-474-3000 x5811](tel:+1-805-474-3000;ext=5811) (general), [x1224](tel:+1-805-474-3000;ext=1224) (Nipomo), [x1225](tel:+1-805-474-3000;ext=1225) (Oceano)
+
+| Name | Location | Phone |
+| ---- | -------- | ----- |
+| Main office | 1055 Mesa View Dr., Arroyo Grande <a href="#" class="map-link" data-lat="35.066043" data-lon="-120.595132" data-zoom="17" data-label="Lucia Mar Adult Education">📍 Map</a> | [805-474-3000 x5811](tel:+1-805-474-3000;ext=5811) |
+| Nipomo Learning Center | 190 E. Price St., Nipomo <a href="#" class="map-link" data-lat="35.042848" data-lon="-120.471869" data-zoom="17" data-label="Lucia Mar Adult Education">📍 Map</a> | [805-474-3000 x1224](tel:+1-805-474-3000;ext=1224) |
+| Oceano Community Center | 1551 17th St., Oceano <a href="#" class="map-link" data-lat="35.103145" data-lon="-120.612309" data-zoom="17" data-label="Lucia Mar Adult Education">📍 Map</a> | [805-474-3000 x1225](tel:+1-805-474-3000;ext=1225) |
+
+- Phone: [805-474-3000 x5811](tel:+1-805-474-3000;ext=5811) (general)
 - Email: [brienne.phillips@lmusd.org](mailto:brienne.phillips@lmusd.org)
 - Notes: Partners with [**Cuesta College**](#Cuesta-College) for ESL classes
 
@@ -2130,9 +2108,11 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Hours: M–F 10am–5pm
 <!-- Note: Unable to verify insurance acceptance including Medicare/Medi-Cal through online research (October 2025) -->
 
-## Outreach Apparel
+## <a id="Oceano-Campground">Oceano Campground</a>
 
-> *See [**Children’s Resource Network of the Central Coast**](#Childrens-Resource-Network-of-the-Central-Coast)*
+- [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
+- Location: 494 Air Park Dr., Oceano <a class="map-link" data-lat="35.104656" data-lon="-120.625624" data-zoom="17" data-label="Oceano Campground">📍 Map</a>
+- Phone: [805-781-4900](tel:+1-805-781-4900) M–Th 8am–4:30pm; F–Su 8am–6pm, [805-781-5930](tel:+1-805-781-5930) (reservations)
 
 ## <a id="Open-Arms-Pantry">Open Arms Pantry at Rock Harbor</a>
 
@@ -2141,6 +2121,10 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-772-7365](tel:+1-805-772-7365)
 - Hours: Sa 10am–Noon; also available throughout the week on a walk-in basis
 <!-- Note: No dedicated website found (as of October 2025); part of Rock Harbor Christian Fellowship -->
+
+## Outreach Apparel
+
+> *See [**Children’s Resource Network of the Central Coast**](#Childrens-Resource-Network-of-the-Central-Coast)*
 
 ## <a id="Outreach-and-Engagement-Services">Outreach and Engagement Services</a>
 
@@ -2170,27 +2154,28 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="Parents-Helping-Parents">Parents Helping Parents of SLO County</a>
 
 - [phpslo.org](https://www.phpslo.org/)
-- Locations:
-   - 7305 Morro Rd. #104a, Atascadero <a href="#" class="map-link" data-lat="35.478644" data-lon="-120.666592" data-zoom="17" data-label="Parents Helping Parents">📍 Map</a>
-   - 1146 Farmhouse Lane, SLO <a href="#" class="map-link" data-lat="35.239987" data-lon="-120.634147" data-zoom="17" data-label="Parents Helping Parents">📍 Map</a>
+
+| Location | Hours |
+| -------- | ----- |
+| 7305 Morro Rd. #104a, Atascadero <a href="#" class="map-link" data-lat="35.478644" data-lon="-120.666592" data-zoom="17" data-label="Parents Helping Parents">📍 Map</a> | W 10am–1pm (by appointment) |
+| 1146 Farmhouse Lane, SLO <a href="#" class="map-link" data-lat="35.239987" data-lon="-120.634147" data-zoom="17" data-label="Parents Helping Parents">📍 Map</a> | M–F 8am–4:30pm |
+
 - Phone: [805-543-3277](tel:+1-805-543-3277)
 - Email: [php@ucp-slo.org](mailto:php@ucp-slo.org)
-- Hours:
-   - Atascadero: W 10am–1pm (by appointment)
-   - SLO: M–F 8am–4:30pm
 
 ## <a id="Paso-Cares">Paso Cares</a>
 
 <!-- Source: https://www.findhelp.org/paso-cares--paso-robles-ca--feeding-the-homeless/5153804446597120 -->
 - [pasocares.org](https://www.pasocares.org/)
-- Locations:
-   - Riverside & 24th St. parking lot, Paso Robles <a href="#" class="map-link" data-lat="35.637837" data-lon="-120.688419" data-zoom="16" data-label="Paso Cares">📍 Map</a>
-   - 1335 Oak St., Paso Robles <a href="#" class="map-link" data-lat="35.628242" data-lon="-120.693108" data-zoom="17" data-label="Paso Cares">📍 Map</a>
+
+| Location | Hours |
+| -------- | ----- |
+| Riverside & 24th St. parking lot, Paso Robles <a href="#" class="map-link" data-lat="35.637837" data-lon="-120.688419" data-zoom="16" data-label="Paso Cares">📍 Map</a> | M–F 5–6pm, Su 4–5pm |
+| 1335 Oak St., Paso Robles <a href="#" class="map-link" data-lat="35.628242" data-lon="-120.693108" data-zoom="17" data-label="Paso Cares">📍 Map</a> | Sa. Noon–1pm |
+
 - Phone: [805-571-0078](tel:+1-805-571-0078)
 - Email: [pasocares@gmail.com](mailto:pasocares@gmail.com)
 - Hours:
-   - M–F 5–6pm, Su 4–5pm (Riverside & 24th)
-   - Sa. Noon–1pm (1335 Oak)
 
 ## <a id="Paso-Robles-Housing-Authority">Paso Robles Housing Authority</a>
 
@@ -2208,7 +2193,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Location: 270 Scott St., Paso Robles <a href="#" class="map-link" data-lat="35.608089" data-lon="-120.655487" data-zoom="17" data-label="Paso Robles Senior Center">📍 Map</a>
 - Phone: [805-237-3880](tel:+1-805-237-3880), [805-238-4664](tel:+1-805-238-4664)
 - Hours: M–F 8am–5pm
-- Services:
+- Services: <!-- To-do: much of this should be moved to Resource Guide -->
    - Food pantry: 2nd and 4th Tuesdays of the month at 10am
    - Daily hot lunch: 11:30am (suggested $3 donation)
    - Free computer access and tutoring
@@ -2228,7 +2213,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-237-3988](tel:+1-805-237-3988)
 - Email: [recservices@prcity.com](mailto:recservices@prcity.com)
 - Hours: M–Th 12pm–5pm (registration desk)
-- Services:
+- Services: <!-- To-do: much of this should be moved to Resource Guide -->
    - Free Teen Center and Open Gym programs
    - Recreation Scholarship Program (launched 2024, expanded to all ages)
    - Over 200 recreation options: camps, classes, lessons, leagues, events
@@ -2239,12 +2224,12 @@ This program helps ensure uninsured patients can access necessary medical care w
 
 <!-- Source: https://pathpoint.org/locations/san-luis-obispo -->
 - [pathpoint.org/locations/san-luis-obispo](http://pathpoint.org/locations/san-luis-obispo)
-- Locations:
-   - 775 W. Grand (Grover Beach) <a href="#" class="map-link" data-lat="35.121994" data-lon="-120.621843" data-zoom="17" data-label="PathPoint">📍 Map</a>
-   - 11491 Los Osos Valley Rd. (SLO) <a href="#" class="map-link" data-lat="35.258145" data-lon="-120.692577" data-zoom="17" data-label="PathPoint">📍 Map</a>
-- Phone:
-   - [805-473-9582](tel:+1-805-473-9582) (Grover Beach)
-   - [805-782-8890](tel:+1-805-782-8890) (SLO)
+
+| Location | Phone |
+| -------- | ----- |
+| 775 W. Grand (Grover Beach) <a href="#" class="map-link" data-lat="35.121994" data-lon="-120.621843" data-zoom="17" data-label="PathPoint">📍 Map</a> | [805-473-9582](tel:+1-805-473-9582) |
+| 11491 Los Osos Valley Rd. (SLO) <a href="#" class="map-link" data-lat="35.258145" data-lon="-120.692577" data-zoom="17" data-label="PathPoint">📍 Map</a> | [805-782-8890](tel:+1-805-782-8890) |
+
 - Email: [info@pathpoint.org](mailto:info@pathpoint.org)
 <!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
 
@@ -2475,7 +2460,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 > *See [**40 Prado Homeless Services Center**](#40-Prado)*
 
 - [capslo.org/safe-parking](https://capslo.org/safe-parking/)
-- Location: 40 Prado Rd., SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">📍 Map</a>
+- Location: (various; apply at 40 Prado Rd., SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">📍 Map</a>)
 - Phone:
    - [805-544-4004](tel:+1-805-544-4004) (main 40 Prado)
    - [805-440-6168](tel:+1-805-440-6168) (Cecil Hale, Safe Parking inquiries)
@@ -2500,10 +2485,13 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="SAFE-Family-Resource-Centers">SAFE Family Resource Centers</a>
 
 - [capslo.org/s-a-f-e-family-resource-centers](https://capslo.org/s-a-f-e-family-resource-centers/)
-- Locations:
-   - Oceano Family Resource Center: 1425 19th St., Oceano <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">📍 Map</a>; [805-474-3690](tel:+1-805-474-3690)
-   - Arroyo Grande Resource Center: 1086 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">📍 Map</a>; [805-474-2105](tel:+1-805-474-2105)
-   - Nipomo Family Resource Center: 920 W. Tefft St., Nipomo <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">📍 Map</a>; [805-474-3000](tel:+1-805-474-3000)
+
+| Location | Phone |
+| -------- | ----- |
+| 1425 19th St., Oceano <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">📍 Map</a> | [805-474-3690](tel:+1-805-474-3690) |
+| 1086 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">📍 Map</a> | [805-474-2105](tel:+1-805-474-2105) |
+| 920 W. Tefft St., Nipomo <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">📍 Map</a> | [805-474-3000](tel:+1-805-474-3000) |
+
 - Note: Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
 
 ## <a id="St-Barnabas-Thrift-Shop">St. Barnabas Thrift Shop</a>
@@ -2542,28 +2530,15 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="Salvation-Army">Salvation Army</a>
 
 - [salvationarmyusa.org/usa-western-territory](https://www.salvationarmyusa.org/usa-western-territory/)
-- Locations:
-   1. SLO Corps
-      - [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
-      - Location: 815 Islay Street, SLO <a class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="40 Prado Homeless Services Center">📍 Map</a>
-      - Phone: [805-544-2401](tel:+1-805-544-2401)
-      - Hours (food pantry): W/F 10am–Noon, Th. 2–4pm
-      - Note: Operates a “Rapid Rehousing Program”
-   1. Arroyo Grande Service Extension
-      - Location: 1550 W Branch Street, Arroyo Grande <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">📍 Map</a>
-      - Phone: [805-481-0278](tel:+1-805-481-0278)
-      - Hours (food pantry): M/W/F 10am–2pm
-   1. Atascadero Service Extension
-      - Location: 8420 El Camino Real <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">📍 Map</a>
-      - Phone: [805-466-7201](tel:+1-805-466-7201)
-   1. Morro Bay Service Extension
-      - Location: 540 Quintana Rd, Morro Bay <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">📍 Map</a>
-      - Phone: [805-772-7062](tel:+1-805-772-7062)
-      <!-- Note: Eva says it’s closed (9/4/25) -->
-   1. Paso Robles Service Extension
-      - Location: 711 Paso Robles Street, Paso Robles <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">📍 Map</a>
-      - Phone: [805-238-9591](tel:+1-805-238-9591)
-      <!-- Note: Eva says it’s closed (9/4/25) -->
+- [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
+
+| Location | Phone | Food Pantry | Notes |
+| -------- | ----- | ----------- | ----- |
+| 815 Islay Street, SLO <a class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="40 Prado Homeless Services Center">📍 Map</a> | [805-544-2401](tel:+1-805-544-2401) | W/F 10am–Noon, Th. 2–4pm | Operates a “Rapid Rehousing Program” |
+| 1550 W Branch Street, Arroyo Grande <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">📍 Map</a> | [805-481-0278](tel:+1-805-481-0278) | M/W/F 10am–2pm | |
+| 8420 El Camino Real <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">📍 Map</a> | [805-466-7201](tel:+1-805-466-7201) | | |
+| 540 Quintana Rd, Morro Bay <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">📍 Map</a> | [805-772-7062](tel:+1-805-772-7062) | | <!-- Note: Eva says it’s closed (9/4/25) --> |
+| 711 Paso Robles Street, Paso Robles <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">📍 Map</a> | [805-238-9591](tel:+1-805-238-9591) | | <!-- Note: Eva says it’s closed (9/4/25) --> |
 
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
@@ -2595,7 +2570,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 <!-- Source: Web search October 2025; limited detailed information available online -->
 - Location: 2201 "H" St., Santa Margarita <a class="map-link" data-lat="35.391676" data-lon="-120.604947" data-zoom="17" data-label="Santa Margarita Senior Center">📍 Map</a>
 - Phone: [805-438-5854](tel:+1-805-438-5854)
-- Services:
+- Services: <!-- To-do: much of this should move to Resource Guide and/or Notes -->
    - Lunch program
    - Activities (specific activities not listed in available sources)
    - HiCAP (Health Insurance Counseling & Advocacy Program)
@@ -2650,10 +2625,10 @@ This program helps ensure uninsured patients can access necessary medical care w
 
 | Location                        | Hours |
 | ------------------------------- | ----- |
-| 946 Rockaway Ave., Grover Beach | Wednesdays, 10am–1pm |
-| 2201 Lawton Ave., SLO           | Tuesdays & Thursdays, 10am–1pm |
-| 11245 Los Osos Valley Rd., SLO  | Saturdays, 10am–1pm |
-| 995 Palm St., SLO               | Sundays, 12:30–3:30pm |
+| 946 Rockaway Ave., Grover Beach | W 10am–1pm |
+| 2201 Lawton Ave., SLO           | Tu & Th 10am–1pm |
+| 11245 Los Osos Valley Rd., SLO  | Sa 10am–1pm |
+| 995 Palm St., SLO               | Su 12:30–3:30pm |
 
 - Email: [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com)
 - Hosted by [**Lifepoint Church**](#Lifepoint-Church) and [**Unitarian Universalists San Luis Obispo**](#UUSLO) among others
@@ -2677,18 +2652,16 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="SLO-Bangers">SLO Bangers</a>
 
 - [slobangers.com](http://slobangers.com/)
-- Locations:
-   - 63037 Atascadero Ave., Atascadero <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="SLO Bangers">📍 Map</a>
-   - 760 Morro Bay Blvd., Morro Bay <a href="#" class="map-link" data-lat="35.365706" data-lon="-120.844141" data-zoom="17" data-label="SLO Bangers">📍 Map</a>
-   - 1134 Black Oak Dr., Paso Robles <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="SLO Bangers">📍 Map</a>
-   - 2191 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274319" data-lon="-120.646781" data-zoom="17" data-label="SLO Bangers">📍 Map</a>
+
+| Location | Hours |
+| -------- | ----- |
+| 63037 Atascadero Ave., Atascadero <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="SLO Bangers">📍 Map</a> | Su 4–6pm |
+| 760 Morro Bay Blvd., Morro Bay <a href="#" class="map-link" data-lat="35.365706" data-lon="-120.844141" data-zoom="17" data-label="SLO Bangers">📍 Map</a> | M 2–4pm |
+| 1134 Black Oak Dr., Paso Robles <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="SLO Bangers">📍 Map</a> | Tu 4:30–5:30pm |
+| 2191 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274319" data-lon="-120.646781" data-zoom="17" data-label="SLO Bangers">📍 Map</a> | W 5:30–8:15pm |
+
 - Phone: [805-458-0123](tel:+1-805-458-0123)
 - Email: [slobangers07@gmail.com](mailto:slobangers07@gmail.com)
-- Hours:
-   - Su 4–6pm (Atascadero)
-   - M 2–4pm (Morro Bay)
-   - Tu 4:30–5:30pm (Paso Robles)
-   - W 5:30–8:15pm (SLO)
 
 ## <a id="SLO-Cal-Careers-Center">SLO Cal Careers Center</a>
 
@@ -2773,12 +2746,12 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="SLO-County-Department-of-Social-Services">SLO County Department of Social Services</a>
 
 - [slocounty.ca.gov/departments/social-services](http://slocounty.ca.gov/departments/social-services)
-- Locations:
-   - 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SLO County Department of Social Services">📍 Map</a>
-   - 3433 S. Higuera, SLO <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="SLO County Department of Social Services">📍 Map</a>
-- Phone:
-   - [805-474-2000](tel:+1-805-474-2000) (Arroyo Grande)
-   - [805-781-1600](tel:+1-805-781-1600) (SLO)
+
+| Location | Phone |
+| -------- | ----- |
+| 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SLO County Department of Social Services">📍 Map</a> | [805-474-2000](tel:+1-805-474-2000) |
+| 3433 S. Higuera, SLO <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="SLO County Department of Social Services">📍 Map</a> | [805-781-1600](tel:+1-805-781-1600) |
+
 - Hours: M–F 8am–5pm
 - Notes:
    - operates [**CalWORKS Homeless Assistance Program**](#CalWORKS)
@@ -2793,24 +2766,16 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="SLO-County-Drug-and-Alcohol-Services">SLO County Drug and Alcohol Services</a>
 
 - [slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services)
-- Locations:
-   - 1523 Longbranch Ave., Grover Beach <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a>
-   - 2180 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> — for adults
-   - 277 South St. #T, SLO <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> — for youth
-   - 805 4th Street, Paso Robles <a href="#" class="map-link" data-lat="35.618678" data-lon="-120.689326" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a>
-- Phone:
-   - [800-838-1381](tel:+1-800-838-1381) (main access line)
-   - [805-473-7080](tel:+1-805-473-7080) or [805-473-7081](tel:+1-805-473-7081) (Grover Beach)
-   - [805-781-4275](tel:+1-805-781-4275) (SLO, adults)
-   - [805-781-4754](tel:+1-805-781-4754) (SLO, youth)
-   - [805-226-3200](tel:+1-805-226-3200) (Paso Robles)
-- Hours
-   - M–F 8am–5pm
-   - Walk-in hours:
-      - Grover Beach: Mo,Fr 8am–11am; Tu 2:30–5:30pm
-      - SLO, adults: Tu,We 8am–11am; Th 2:30–5:30pm
-      - SLO, youth: M–F 8am–5pm
-      - Paso Robles: Mo,Th 8am–11am; Tu 2:30–5:30pm
+
+| Location | Phone | Walk-in Hours |
+| -------- | ----- | ------------- |
+| 1523 Longbranch Ave., Grover Beach <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> | [805-473-7080](tel:+1-805-473-7080) or [805-473-7081](tel:+1-805-473-7081) | Mo,Fr 8am–11am; Tu 2:30–5:30pm |
+| 2180 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> — for adults | [805-781-4275](tel:+1-805-781-4275) | Tu,We 8am–11am; Th 2:30–5:30pm |
+| 277 South St. #T, SLO <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> — for youth | [805-781-4754](tel:+1-805-781-4754) | M–F 8am–5pm |
+| 805 4th Street, Paso Robles <a href="#" class="map-link" data-lat="35.618678" data-lon="-120.689326" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> | [805-226-3200](tel:+1-805-226-3200) | Mo,Th 8am–11am; Tu 2:30–5:30pm |
+
+- Phone: [800-838-1381](tel:+1-800-838-1381) (main access line)
+- Hours: M–F 8am–5pm
 - How to access: walk-ins OK (see Hours above), or call the main access line to make an appointment
 - Notes:
    - Operated by [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health)
@@ -2833,19 +2798,14 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="SLO-County-Mental-Health-Services">SLO County Mental Health Services</a>
 
 - [slocounty.ca.gov/departments/health-agency/behavioral-health](http://slocounty.ca.gov/departments/health-agency/behavioral-health)
-- Locations:
-   - Adults, Arroyo Grande:
-      - 1350 E. Grand Ave. <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a>
-      - [805-474-2154](tel:+1-805-474-2154)
-   - Youths, Arroyo Grande:
-      - 354 S. Halcyon Rd. <a href="#" class="map-link" data-lat="35.113647" data-lon="-120.592282" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a>
-      - [805-473-7060](tel:+1-805-473-7060)
-   - Adults, SLO:
-      - 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a>
-      - [805-781-4700](tel:+1-805-781-4700)
-   - Youths, SLO:
-      - 1989 Vicente Dr. <a href="#" class="map-link" data-lat="35.253829" data-lon="-120.685962" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a>
-      - [805-781-4179](tel:+1-805-781-4179)
+
+| Serves | Location | Phone |
+| ------ | -------- | ----- |
+| Adults | 1350 E. Grand Ave. <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> | [805-474-2154](tel:+1-805-474-2154) |
+| Youths | 354 S. Halcyon Rd. <a href="#" class="map-link" data-lat="35.113647" data-lon="-120.592282" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> | [805-473-7060](tel:+1-805-473-7060) |
+| Adults | 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> | [805-781-4700](tel:+1-805-781-4700) |
+| Youths | 1989 Vicente Dr. <a href="#" class="map-link" data-lat="35.253829" data-lon="-120.685962" data-zoom="17" data-label="SLO County Drug and Alcohol Services">📍 Map</a> | [805-781-4179](tel:+1-805-781-4179) |
+
 - Phone: [800-838-1381](tel:+1-800-838-1381) (24hr) / [805-540-6500](tel:+1-805-540-6500)
 - Hours: M–F 8am–5pm
 - Note: central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
@@ -2883,58 +2843,32 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="SLO-County-Public-Libraries">SLO County Public Libraries</a>
 
 - [slolibrary.org](https://slolibrary.org/)
-- Locations (14 branches):
-   - Arroyo Grande: 800 W. Branch St. <a href="#" class="map-link" data-lat="35.124445" data-lon="-120.589730" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> (temporary as main building is being renovated; unclear when this will be completed)
-   - Atascadero: 6555 Capistrano Ave. <a href="#" class="map-link" data-lat="35.489127" data-lon="-120.663909" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Cambria: 1043 Main St. <a href="#" class="map-link" data-lat="35.564950" data-lon="-121.096263" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Cayucos: 310 B St. <a href="#" class="map-link" data-lat="35.452277" data-lon="-120.905580" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Creston: 6290 Adams St. <a href="#" class="map-link" data-lat="35.518522" data-lon="-120.523509" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Los Osos: 2075 Palisades Ave. <a href="#" class="map-link" data-lat="35.313232" data-lon="-120.837558" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Morro Bay: 625 Harbor St. <a href="#" class="map-link" data-lat="35.367165" data-lon="-120.846235" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Nipomo: 918 W. Tefft St. <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Oceano: 1511 19th St. <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - San Luis Obispo: 995 Palm St. <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - San Miguel: 254 13th St. <a href="#" class="map-link" data-lat="35.751188" data-lon="-120.698263" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Santa Margarita: 9630 Murphy Ave. <a href="#" class="map-link" data-lat="35.388044" data-lon="-120.608302" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Shandon: 195 N. 2nd St. <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-   - Shell Beach: 230 Leeward Ave. <a href="#" class="map-link" data-lat="35.154648" data-lon="-120.669678" data-zoom="17" data-label="SLO County Public Library">📍 Map</a>
-- Phone:
-   - Arroyo Grande: [805-473-7161](tel:+1-805-473-7161)
-   - Atascadero: [805-461-6161](tel:+1-805-461-6161)
-   - Cambria: [805-927-4336](tel:+1-805-927-4336)
-   - Cayucos: [805-995-3312](tel:+1-805-995-3312)
-   - Creston: [805-237-3010](tel:+1-805-237-3010)
-   - Los Osos: [805-528-1862](tel:+1-805-528-1862)
-   - Morro Bay: [805-772-6394](tel:+1-805-772-6394)
-   - Nipomo: [805-929-3994](tel:+1-805-929-3994)
-   - Oceano: [805-474-7478](tel:+1-805-474-7478)
-   - SLO: [805-781-5991](tel:+1-805-781-5991)
-   - San Miguel: [805-467-3224](tel:+1-805-467-3224)
-   - Santa Margarita: [805-438-5622](tel:+1-805-438-5622)
-   - Shandon: [805-237-3009](tel:+1-805-237-3009)
-   - Shell Beach: [805-773-2263](tel:+1-805-773-2263)
-- Hours:
-   - Arroyo Grande: Tu/W 1–6pm, F/Sa 1–5pm
-   - Atascadero: Tu/W 10am–6pm, Th/Sa 9am–5pm, F 1–5pm
-   - Cambria: Tu/W 10am–6pm, Th 9am–5pm, F 1–5pm, Sa 9am–1pm
-   - Cayucos: Tu/W 9am–5pm (closed Noon–1pm)
-   - Creston: Tu 1–6pm, W/Th Noon–5pm
-   - Los Osos: Tu/W 10am–6pm, Th 9am–5pm, F/Sa 1–5pm
-   - Morro Bay: Tu/W 10am–6pm, Th 9am–5pm, F 1–5pm, Sa 9am–1pm
-   - Nipomo: Tu/W/Th 10am–6pm, F/Sa 10am–5pm
-   - Oceano: Tu/W/Th 9am–1pm and 2–5pm
-   - SLO: Tu/W 10am–6pm, Th/Sa 9am–5pm, F 1–5pm
-   - San Miguel: W 11am–6pm (closed 12:30–1pm), Th 10am–5pm (closed 12:30–1pm), F 1–5pm, Sa 10am–5pm (closed 12:30–1pm)
-   - Santa Margarita: Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm)
-   - Shandon: Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm)
-   - Shell Beach: Tu/W 10am–1pm and 2–6pm, Sa 9am–5pm
+
+| Location | Phone | Hours |
+| -------- | ----- | ----- |
+| Arroyo Grande: 800 W. Branch St. <a href="#" class="map-link" data-lat="35.124445" data-lon="-120.589730" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> <!-- temporary as main building is being renovated; unclear when this will be completed --> | [805-473-7161](tel:+1-805-473-7161) | Tu/W 1–6pm, F/Sa 1–5pm |
+| Atascadero: 6555 Capistrano Ave. <a href="#" class="map-link" data-lat="35.489127" data-lon="-120.663909" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-461-6161](tel:+1-805-461-6161) | Tu/W 10am–6pm, Th/Sa 9am–5pm, F 1–5pm |
+| Cambria: 1043 Main St. <a href="#" class="map-link" data-lat="35.564950" data-lon="-121.096263" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-927-4336](tel:+1-805-927-4336) | Tu/W 10am–6pm, Th 9am–5pm, F 1–5pm, Sa 9am–1pm |
+| Cayucos: 310 B St. <a href="#" class="map-link" data-lat="35.452277" data-lon="-120.905580" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-995-3312](tel:+1-805-995-3312) | Tu/W 9am–5pm (closed Noon–1pm) |
+| Creston: 6290 Adams St. <a href="#" class="map-link" data-lat="35.518522" data-lon="-120.523509" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-237-3010](tel:+1-805-237-3010) | Tu 1–6pm, W/Th Noon–5pm |
+| Los Osos: 2075 Palisades Ave. <a href="#" class="map-link" data-lat="35.313232" data-lon="-120.837558" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-528-1862](tel:+1-805-528-1862) | Tu/W 10am–6pm, Th 9am–5pm, F/Sa 1–5pm |
+| Morro Bay: 625 Harbor St. <a href="#" class="map-link" data-lat="35.367165" data-lon="-120.846235" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-772-6394](tel:+1-805-772-6394) | Tu/W 10am–6pm, Th 9am–5pm, F 1–5pm, Sa 9am–1pm |
+| Nipomo: 918 W. Tefft St. <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-929-3994](tel:+1-805-929-3994) | Tu/W/Th 10am–6pm, F/Sa 10am–5pm |
+| Oceano: 1511 19th St. <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-474-7478](tel:+1-805-474-7478) | Tu/W/Th 9am–1pm and 2–5pm |
+| SLO: 995 Palm St. <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-781-5991](tel:+1-805-781-5991) | Tu/W 10am–6pm, Th/Sa 9am–5pm, F 1–5pm |
+| San Miguel: 254 13th St. <a href="#" class="map-link" data-lat="35.751188" data-lon="-120.698263" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-467-3224](tel:+1-805-467-3224) | W 11am–6pm (closed 12:30–1pm), Th 10am–5pm (closed 12:30–1pm), F 1–5pm, Sa 10am–5pm (closed 12:30–1pm) |
+| Santa Margarita: 9630 Murphy Ave. <a href="#" class="map-link" data-lat="35.388044" data-lon="-120.608302" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-438-5622](tel:+1-805-438-5622) | Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm) |
+| Shandon: 195 N. 2nd St. <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-237-3009](tel:+1-805-237-3009) | Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm) |
+| Shell Beach: 230 Leeward Ave. <a href="#" class="map-link" data-lat="35.154648" data-lon="-120.669678" data-zoom="17" data-label="SLO County Public Library">📍 Map</a> | [805-773-2263](tel:+1-805-773-2263) | Tu/W 10am–1pm and 2–6pm, Sa 9am–5pm |
+
 - Note: [Transitions Mental Health Association (TMHA)](#TMHA) has a “Library Outreach Team” that connects library patrons who are experiencing homelessness with a social worker and case manager to help them overcome barriers to accessing crucial social services. You can meet the Library Outreach Team at the following library branches (this schedule is subject to change; contact [mvargas@t-mha.org](mailto:mvargas@t-mha.org) for the most up-to-date schedule):
    - SLO: Tu 10–11:30am
    - Atascadero: W 10–11:30am
    - Arroyo Grande: Th 9–11am
    - Los Osos: 1st & 3rd Th 1–3pm
    - Morro Bay: 2nd & 4th Th. 1–3pm
-   You can also make an appointment to meet with the team by calling [805-540-0057](tel:+1-805-540-0057)
+
+  You can also make an appointment to meet with the team by calling [805-540-0057](tel:+1-805-540-0057)
 
 ## <a id="SLO-County-Small-Claims-Advisor">SLO County Small Claims Advisor</a>
 
@@ -3014,6 +2948,7 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="SLO-Noor-Foundation">SLO Noor Foundation</a>
 
 - [slonoorfoundation.org](http://slonoorfoundation.org/)
+
 - **Primary & vision clinic**
    - Location: 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">📍 Map</a>
    - Phone: [805-439-1797](tel:+1-805-439-1797)
@@ -3222,10 +3157,13 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="TMHA">Transitions Mental Health Association (TMHA)</a>
 
 - [www.t-mha.org](https://www.t-mha.org)
-- Location:
-   - Main office: 784 High Street, SLO <a href="#" class="map-link" data-lat="35.272462" data-lon="-120.656466" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">📍 Map</a> / [805-540-6500](tel:+1-805-540-6500)
-   - SLO: 1306 Nipomo St. <a href="#" class="map-link" data-lat="35.276666" data-lon="-120.663904" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">📍 Map</a> / [805-541-6813](tel:+1-805-541-6813) / [805-801-3536](tel:+1-805-801-3536)
-   - Arroyo Grande: 203 Bridge St. <a href="#" class="map-link" data-lat="35.121565" data-lon="-120.577572" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">📍 Map</a> / [805-305-3724](tel:+1-805-305-3724)
+
+| Office | Location | Phone |
+| ------ | -------- | ----- |
+| Main   | 784 High Street, SLO <a href="#" class="map-link" data-lat="35.272462" data-lon="-120.656466" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">📍 Map</a> | [805-540-6500](tel:+1-805-540-6500) |
+| SLO    | 1306 Nipomo St. <a href="#" class="map-link" data-lat="35.276666" data-lon="-120.663904" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">📍 Map</a> | [805-541-6813](tel:+1-805-541-6813) / [805-801-3536](tel:+1-805-801-3536) |
+| Arroyo Grande | 203 Bridge St. <a href="#" class="map-link" data-lat="35.121565" data-lon="-120.577572" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">📍 Map</a> | [805-305-3724](tel:+1-805-305-3724) |
+
 - Phone: [805-540-6500](tel:+1-805-540-6500)
    - [800-783-0607](tel:+1-800-783-0607) (24/7 crisis line)
    - [805-540-0057](tel:+1-805-540-0057) (library outreach team)
@@ -3244,13 +3182,13 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="Tri-Counties-Regional-Center">Tri Counties Regional Center</a>
 
 - [tri-counties.org](http://tri-counties.org/)
-- Location: (main office) 520 E. Montecito St., Santa Barbara <a href="#" class="map-link" data-lat="34.420363" data-lon="-119.686756" data-zoom="17" data-label="Tri Counties Regional Center">📍 Map</a>
-   - 7305 Morro Rd. #101, Atascadero <a href="#" class="map-link" data-lat="35.478709" data-lon="-120.666798" data-zoom="17" data-label="Tri Counties Regional Center">📍 Map</a>
-   - 1146 Farmhouse Ln., SLO <a href="#" class="map-link" data-lat="35.239987" data-lon="-120.634147" data-zoom="17" data-label="Tri Counties Regional Center">📍 Map</a>
-- Phone:
-   - SLO: [805-543-2833](tel:+1-805-543-2833)
-   - Atascadero: [805-461-7402](tel:+1-805-461-7402)
-   - Santa Barbara (administrative): [805-962-7881](tel:+1-805-962-7881)
+
+| Location | Phone |
+| -------- | ----- |
+| (main office) 520 E. Montecito St., Santa Barbara <a href="#" class="map-link" data-lat="34.420363" data-lon="-119.686756" data-zoom="17" data-label="Tri Counties Regional Center">📍 Map</a> | [805-962-7881](tel:+1-805-962-7881) |
+| 7305 Morro Rd. #101, Atascadero <a href="#" class="map-link" data-lat="35.478709" data-lon="-120.666798" data-zoom="17" data-label="Tri Counties Regional Center">📍 Map</a> | [805-461-7402](tel:+1-805-461-7402) |
+| 1146 Farmhouse Ln., SLO <a href="#" class="map-link" data-lat="35.239987" data-lon="-120.634147" data-zoom="17" data-label="Tri Counties Regional Center">📍 Map</a> | [805-543-2833](tel:+1-805-543-2833) |
+
 - How to access: Apply at [tri-counties.org/our-services/apply/](http://tri-counties.org/our-services/apply/)
 <!-- Note: Hours of operation not listed on website (as of October 2025); call local office to verify -->
 
@@ -3294,12 +3232,12 @@ This program helps ensure uninsured patients can access necessary medical care w
 - Phone: [805-439-0188](tel:+1-805-439-0188)
 - Email: [minister.uuslo@gmail.com](mailto:minister.uuslo@gmail.com)
 - Hours:
-   - we care foodshare food pantry: W 3–4:30pm
-   - refugee and immigrant services: 1st & 3rd Sunday each month, 12:30–2:30pm
+   - We Care Foodshare food pantry: W 3–4:30pm
+   - Refugee and Immigrant Services Education: 1st & 3rd Sunday each month, 12:30–2:30pm
 - How to access:
-   - we care foodshare food pantry: show up during hours of operation
-   - minister’s discretionary fund: email with a specific request
-   - refugee and immigrant services education: show up during hours of operation (no appointment necessary)
+   - We Care Foodshare food pantry: show up during hours of operation
+   - Minister’s Discretionary Fund: email with a specific request
+   - Refugee and Immigrant Services Education: show up during hours of operation (no appointment necessary)
 - Notes:
    - operates the “Minister’s Discretionary Fund,” “Refugee and Immigrant Services Education,” and “We Care Foodshare”
    - hosts [**Shower the People**](#Shower-the-People) on Tuesdays and Thursdays
@@ -3330,17 +3268,20 @@ This program helps ensure uninsured patients can access necessary medical care w
 
 There are several urgent care options, including:
 
+- [**Community Health Center**](#CHC) (Arroyo Grande)
 - [**Carbon Health Urgent Care**](#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)
-- [**Carbon Health Urgent Care**](#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)
-- [**Community Health Center**](#CHC) (1205 E. Grand Ave, Arroyo Grande; 2800 Riverside Ave., Paso Robles; 1330 Las Tablas Rd., Templeton)
-- [**Cottage Urgent Care**](#Cottage-Urgent-Care) (SLO)
-- [**Dignity Health Urgent Care**](#Dignity-Health-Urgent-Care) (Atascadero, Pismo Beach)
-- [**Family and Industrial Medical Center**](#Family-and-Industrial-Medical-Center) (SLO)
-- [**MedStop**](#MedStop) (SLO)
-- [**North County Care Minor Emergency Services**](#North-County-Care) (Paso Robles)
+- [**Dignity Health Urgent Care**](#Dignity-Health-Urgent-Care) (Atascadero)
 - [**Urgent Care of Atascadero**](#Urgent-Care-of-Atascadero)
 - [**Urgent Care of Morro Bay**](#Urgent-Care-of-Morro-Bay)
+- [**Carbon Health Urgent Care**](#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)
+- [**Community Health Center**](#CHC) (Paso Robles)
+- [**North County Care Minor Emergency Services**](#North-County-Care) (Paso Robles)
+- [**Dignity Health Urgent Care**](#Dignity-Health-Urgent-Care) (Pismo Beach)
 - [**Urgent Care Pismo Beach**](#Urgent-Care-Pismo-Beach)
+- [**Cottage Urgent Care**](#Cottage-Urgent-Care) (SLO)
+- [**Family and Industrial Medical Center**](#Family-and-Industrial-Medical-Center) (SLO)
+- [**MedStop**](#MedStop) (SLO)
+- [**Community Health Center**](#CHC) (Templeton)
 
 ## <a id="Urgent-Care-of-Atascadero">Urgent Care of Atascadero</a>
 
@@ -3471,10 +3412,13 @@ There are several urgent care options, including:
 ## <a id="WIC">Women, Infants, and Children (WIC)</a>
 
 - [Slocountygov/wic](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29)
-- Locations:
-   - Atascadero: 5575 Hospital Dr. <a href="#" class="map-link" data-lat="35.492648" data-lon="-120.662938" data-zoom="17" data-label="Women, Infants, and Children (WIC)">📍 Map</a> — [805-237-3065](tel:+1-805-237-3065)
-   - Grover Beach: 286 S. 16th St. #B <a href="#" class="map-link" data-lat="35.119277" data-lon="-120.611998" data-zoom="17" data-label="Women, Infants, and Children (WIC)">📍 Map</a> — [805-473-7130](tel:+1-805-473-7130)
-   - SLO: 2191 Johnson Ave. <a href="#" class="map-link" data-lat="35.274391" data-lon="-120.646730" data-zoom="17" data-label="Women, Infants, and Children (WIC)">📍 Map</a> — [805-781-5570](tel:+1-805-781-5570)
+
+| Location | Phone |
+| -------- | ----- |
+| Atascadero: 5575 Hospital Dr. <a href="#" class="map-link" data-lat="35.492648" data-lon="-120.662938" data-zoom="17" data-label="Women, Infants, and Children (WIC)">📍 Map</a> | [805-237-3065](tel:+1-805-237-3065) |
+| Grover Beach: 286 S. 16th St. #B <a href="#" class="map-link" data-lat="35.119277" data-lon="-120.611998" data-zoom="17" data-label="Women, Infants, and Children (WIC)">📍 Map</a> | [805-473-7130](tel:+1-805-473-7130) |
+| SLO: 2191 Johnson Ave. <a href="#" class="map-link" data-lat="35.274391" data-lon="-120.646730" data-zoom="17" data-label="Women, Infants, and Children (WIC)">📍 Map</a> | [805-781-5570](tel:+1-805-781-5570) |
+
 - Phone:
    - [805-781-5570](tel:+1-805-781-5570)
    - [805-781-5571](tel:+1-805-781-5571)
@@ -3482,8 +3426,8 @@ There are several urgent care options, including:
 - Hours: M–Th 8am–5pm; Fri. 8am–4:30pm (closed on the last Wednesday of the month)
 - How to access: by appointment only (call or text to make an appointment)
 - Who is eligible: This program is restricted to people for whom both of the following requiremts are true:
-   - They are pregnant, breastfeeding, gave birth or had a pregnancy loss in the past six months, or they care for a child under the age of five
-   - And they live in California and have income below a certain threshhold, or receive Medi-Cal, CalWORKs, or CalFresh benefits.
+   - You are pregnant, breastfeeding, gave birth or had a pregnancy loss in the past six months, or you care for a child under the age of five
+   - And you live in California and have income below a certain threshhold, or receive Medi-Cal, CalWORKs, or CalFresh benefits.
 
 ## <a id="Woods-Humane-Society">Woods Humane Society</a>
 
