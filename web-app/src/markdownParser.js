@@ -6,6 +6,22 @@ import { marked } from 'marked';
 import { createDirectoryLink } from './linkEnhancer.js';
 
 /**
+ * Configure marked with custom renderer to fix heading anchor issues
+ */
+const renderer = {
+  heading({ tokens, depth }) {
+    // Convert all tokens to HTML
+    const text = this.parser.parseInline(tokens);
+
+    // Wrap the entire content in a span to prevent flex/alignment issues
+    // This ensures that anchor tags and text after them stay together
+    return `<h${depth}><span>${text}</span></h${depth}>\n`;
+  }
+};
+
+marked.use({ renderer });
+
+/**
  * Extract directory entries from Directory.md content
  * Returns a Map of id -> { title, content, aliases }
  */
