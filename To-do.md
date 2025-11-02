@@ -49,3 +49,7 @@
 1. ~~Restyle nested ordered lists so that they do not all use arabic-numeral style (e.g. so they use 1.a.i as opposed to 1.1.1).~~ ✓ (Added CSS to style nested ordered lists: level 1 = decimal (1, 2, 3), level 2 = lower-alpha (a, b, c), level 3 = lower-roman (i, ii, iii), then repeating.)
 
 1. ~~Implement a way to navigate the Resources page more easily, for example a way of quickly navigating to the table of contents or of making a top-level table of contents appear so that one can more easily jump to another section.~~ ✓ (Added floating TOC button in top-right that appears when in Resources section and scrolled away from TOC. Button smoothly scrolls back to Table of Contents when clicked.)
+
+1. Reduce the size of or change the location of the phone icon so that it is not intersected by the link underlining.
+
+1. Consider not underlining links at all, but just using color to indicate clickable things. Check the accessibility ramifications of this first. It might necessitate changing other aspects of our color scheme (e.g. headings are currently blue but are not clickable, so that would probably need to change).

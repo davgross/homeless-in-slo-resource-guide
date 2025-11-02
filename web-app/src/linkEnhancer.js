@@ -13,7 +13,7 @@ export function enhanceLinks(container) {
   enhancePhoneLinks(container);
   enhanceEmailLinks(container);
   enhanceExternalLinks(container);
-  enhanceAddressLinks(container);
+  // enhanceAddressLinks(container); // Removed - now using explicit map links instead
 }
 
 /**

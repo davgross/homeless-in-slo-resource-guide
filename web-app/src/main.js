@@ -335,45 +335,29 @@ function setupMapLinks(container) {
   console.log(`Setting up ${mapLinks.length} map links`);
 
   mapLinks.forEach(link => {
-    link.addEventListener('click', (e) => {
-      e.preventDefault();
-      e.stopPropagation();
+    const lat = parseFloat(link.dataset.lat);
+    const lon = parseFloat(link.dataset.lon);
+    const zoom = parseInt(link.dataset.zoom) || 15;
 
-      const lat = parseFloat(link.dataset.lat);
-      const lon = parseFloat(link.dataset.lon);
-      const zoom = parseInt(link.dataset.zoom) || 15;
-      const label = link.dataset.label || 'Location';
-
-      openMap(lat, lon, zoom, label);
-    });
-  });
-}
-
-// Open location in map application
-function openMap(lat, lon, zoom, label) {
-  // Try geo: URI first (works on many mobile devices)
-  const geoUri = `geo:${lat},${lon}?z=${zoom}&q=${encodeURIComponent(label)}`;
-
-  // Detect platform
-  const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
-  const isAndroid = /Android/.test(navigator.userAgent);
-
-  // For mobile devices, try geo: URI
-  if (isIOS || isAndroid) {
-    // Try to open with geo: URI
-    window.location.href = geoUri;
-
-    // Fallback after short delay (in case geo: isn't supported)
-    setTimeout(() => {
-      // If still on same page, open OpenStreetMap as fallback
-      const osmUrl = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=${zoom}/${lat}/${lon}`;
-      window.open(osmUrl, '_blank');
-    }, 1000);
-  } else {
-    // For desktop, open OpenStreetMap directly
+    // Set default href to OpenStreetMap
     const osmUrl = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=${zoom}/${lat}/${lon}`;
-    window.open(osmUrl, '_blank');
-  }
+    link.href = osmUrl;
+
+    // Add onclick handler for platform-specific behavior
+    link.onclick = function() {
+      // iOS: Use Apple Maps
+      if (/iPhone|iPad|iPod/.test(navigator.userAgent)) {
+        this.href = `http://maps.apple.com/?ll=${lat},${lon}&z=${zoom}`;
+      }
+      // Android: Use Google Maps
+      else if (/Android/.test(navigator.userAgent)) {
+        this.href = `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
+      }
+      // Otherwise use OpenStreetMap (already set as href)
+
+      return true; // Allow the link to be followed
+    };
+  });
 }
 
 // Add share buttons to section headings
