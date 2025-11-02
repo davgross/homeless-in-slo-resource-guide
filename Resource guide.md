@@ -364,7 +364,7 @@ Pets with rabies vaccinations are allowed in their kennel.
 People with P.C. 290 convictions are screened out.
 The warming center offers a free hot meal.
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) warming center at 1023 E. Grand Ave. in Arroyo Grande operates between 5:30pm and 7am.
+The [**5Cities Homeless Coalition**](Directory.md#5CHC) warming center at <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. in Arroyo Grande</a> operates between 5:30pm and 7am.
 You must check in before 8pm.
 Pets are OK if you have proof of license/vaccinations.
 You must have a valid ID.
@@ -374,8 +374,8 @@ The warming center offers a free hot meal.
 Text “Add Me” to 805-295-1501 to receive text updates to your phone when the Warming Center opens, or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center in the north county.
-<!-- says https://pasoroblespress.com/news/government/city-of-paso-robles/city-council-approves-111k-for-echo-adopts-shelter-program-shift/ -->
 Contact them for location and details.
+<!-- says https://pasoroblespress.com/news/government/city-of-paso-robles/city-council-approves-111k-for-echo-adopts-shelter-program-shift/ -->
 
 ### <a id="overnight-shelter">Overnight Shelter</a>
 
@@ -438,7 +438,7 @@ There are several RV parks in SLO County, including short-term campsites (rangin
 - [**Santa Margarita KOA Holiday**](Directory.md#Santa-Margarita-KOA-Holiday)
 - [**Silver City Resort**](Directory.md#Silver-City-Resort) (Morro Bay)
 
-If you are an Elks Lodge member, [SLO Elks Lodge #322](https://rv.elks322.org) at 222 Elks Lane in SLO also has several $30/night RV spots and a free dump station.
+If you are an Elks Lodge member, [SLO Elks Lodge #322](https://rv.elks322.org) at <a href="#" class="map-link" data-lat="35.263006" data-lon="-120.671993" data-zoom="18" data-label="Elks Lodge #322">222 Elks Lane in SLO</a> also has several $30/night RV spots and a free dump station.
 Contact them at [805-543-0322](tel:+1-805-543-0322) (M–F, 10am–4pm).
 
 Some sites have RV size limits and other restrictions.
@@ -536,22 +536,22 @@ Some other potential low-income options include:
 There are some additional subsidized and affordable housing options especially for seniors (sometimes defined as age 55 and above, or as 62 and above).
 These include:
 
-- [Cortina d’Arroyo Grande Senior Apartments](https://cortinadarroyograndeseniorapts.com/) (241 N. Courtland Ave., Arroyo Grande) — [805-489-6888](tel:+1-805-489-6888)
-- Parkview Manor (365 South Elm St., Arroyo Grande) — [805-489-5101](tel:+1-805-489-5101)
+- [Cortina d’Arroyo Grande Senior Apartments](https://cortinadarroyograndeseniorapts.com/) (<a href="#" class="map-link" data-lat="35.122208" data-lon="-120.607207" data-zoom="17" data-label="Cortina d’Arroyo Grande Senior Apartments">241 N. Courtland Ave., Arroyo Grande</a>) — [805-489-6888](tel:+1-805-489-6888)
+- Parkview Manor (<a href="#" class="map-link" data-lat="35.113380" data-lon="-120.600175" data-zoom="17" data-label="Parkview Manor">365 South Elm St., Arroyo Grande</a>) — [805-489-5101](tel:+1-805-489-5101)
 - [**Judson Terrace**](Directory.md#Judson-Terrace) (SLO), has 107 low-income affordable apartments for people aged 55 and up, and 31 low-income affordable apartments for people aged 62 and up. They only accept applications when the waiting list is open.
 
 Affordable housing options for seniors with Section 8 vouchers include:
 
-- Morro del Mar Senior Apartments (555 Main St., Morro Bay) — [805-225-1837](tel:+1-805-225-1837)
-- Villa Paseo Palms (2800 Ramada Dr., Paso Robles) — [805-227-4588](tel:+1-805-227-4588)
+- Morro del Mar Senior Apartments (<a href="#" class="map-link" data-lat="35.363321" data-lon="-120.849837" data-zoom="17" data-label="Morro del Mar Senior Apartments">555 Main St., Morro Bay</a>) — [805-225-1837](tel:+1-805-225-1837)
+- Villa Paseo Palms (<a href="#" class="map-link" data-lat="35.578160" data-lon="-120.696694" data-zoom="17" data-label="Villa Paseo Palms">2800 Ramada Dr., Paso Robles</a>) — [805-227-4588](tel:+1-805-227-4588)
 - [Las Brisas Retirement Community](https://www.sunshineretirementliving.com/las-brisas-independent-senior-living-san-luis-obispo-ca/) (SLO)
 
 Affordable housing options for disabled / handicapped seniors can be found at:
 
-- California Manor (10165 El Camino Real, Atascadero) — [805-466-0759](tel:+1-805-466-0759)
-- Hacienda Del Norte (529 10th St., Paso Robles) — [805-238-5793](tel:+1-805-238-5793)
-- Brizzolara St. Apartments (611 Brizzolara, SLO)
-- Marvin Garden (1106 Laurel Lane, SLO)
+- California Manor (<a href="#" class="map-link" data-lat="35.462401" data-lon="-120.645271" data-zoom="17" data-label="California Manor">10165 El Camino Real, Atascadero</a>) — [805-466-0759](tel:+1-805-466-0759)
+- Hacienda Del Norte (<a href="#" class="map-link" data-lat="35.624894" data-lon="-120.693013" data-zoom="17" data-label="Hacienda Del Norte">529 10th St., Paso Robles</a>) — [805-238-5793](tel:+1-805-238-5793)
+- Brizzolara St. Apartments (<a href="#" class="map-link" data-lat="35.280660" data-lon="-120.668432" data-zoom="17" data-label="Brizzolara Street Apartments">611 Brizzolara, SLO</a>)
+- Marvin Gardens (<a href="#" class="map-link" data-lat="35.262116" data-lon="-120.642638" data-zoom="17" data-label="Marvin Gardens">1105 Laurel Lane, SLO</a>)
 
 You can find additional [senior housing listings](https://centralcoastseniors.org/senior-independent-housing-options/) at the [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) website.
 
@@ -633,10 +633,10 @@ Most storage facilities have daytime hours of operation when you can access the 
 ## <a id="where-to-get-food">Food</a>
 
 <!--
-Note: Investigated "Coast Baptist Church" (October 2025) — likely refers to Central Coast Baptist Church at 153 S 9th St, Grover Beach, 805-489-2150. Five Cities Christian Women Food Pantry is already documented in Directory at its current location (946 Rockaway Ave., hosted by Lifepoint Church).
-Note: Investigated "Lifesteps Foundation Wisdom Center" or "Wisdom Center" (October 2025) — no evidence found of a Wisdom Center or meal program operated by Life Steps Foundation at lifestepsfoundation.org
+Note: Investigated "Coast Baptist Church" (October 2025) — likely refers to Central Coast Baptist Church at 153 S 9th St, Grover Beach, 805-489-2150. Five Cities Christian Women Food Pantry is already documented in Directory at its current location (946 Rockaway Ave., hosted by Lifepoint Church).
+Note: Investigated "Lifesteps Foundation Wisdom Center" or "Wisdom Center" (October 2025) — no evidence found of a Wisdom Center or meal program operated by Life Steps Foundation at lifestepsfoundation.org
 Note: Hospital cafeterias are generally open to the public but are typically not free and not specifically designed to serve people experiencing homelessness. Not pursuing this further as other free meal options are better suited to the target audience.
-Note: Investigated "Westside Neighborhood Center" (805-897-2560) (October 2025) — this is located in Santa Barbara (Santa Barbara County), not SLO County. Not relevant to this SLO County guide.
+Note: Investigated "Westside Neighborhood Center" (805-897-2560) (October 2025) — this is located in Santa Barbara (Santa Barbara County), not SLO County. Not relevant to this SLO County guide.
 -->
 
 ### <a id="free-meals">Free Meals</a>
@@ -686,10 +686,10 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Paso Robles   | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center)                             | 2nd & 4th Tuesday |
 | Paso Robles   | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Tuesdays |
 | Pismo Beach   | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry)                                   | Tuesday–Thursday |
-| San Miguel    | Children and the Country Life, 795 Monterey Rd. (Mission), 805-467-3256                             | 1st, 3rd, & 5th Wednesday |
+| San Miguel    | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-3256](tel:+1-805-467-3256) | 1st, 3rd, & 5th Wednesday |
 | SLO           | [**Agape Church**](Directory.md#Agape-Church)                                                       | Tuesdays & Sundays |
 | SLO           | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                         | Mondays |
-| SLO           | Breakthrough Ministry, 4251 South Higuera #200, 805-234-7441                                        | Tuesdays, or by appt. |
+| SLO           | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | Tuesdays, or by appt. |
 | SLO           | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                      | Saturdays |
 | SLO           | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)               | Monday–Friday |
 | SLO           | [**Renovate Church**](Directory.md#Renovate-Church)                                                 | Mondays |
@@ -835,7 +835,7 @@ People over the age of 80 and people with an ADA-certified disability ride free.
 [Runabout Paratransit](https://www.slorta.org/services/runabout-paratransit/) is a county-wide transit service for people who cannot always use the fixed-route SLO RTA buses because of disability.
 This service will take you door-to-door within ¾-mile of the RTA fixed routes during the same hours RTA operates.
 One personal care attendant can accompany you free-of-charge.
-You have to apply and have an in-person interview to be eligible for this service (call [805-781-4833](tel:+1-805-781-4833) or visit 253 Elks Lane, SLO, M–Th 8am–4pm, or Fri. by appointment).
+You have to apply and have an in-person interview to be eligible for this service (call [805-781-4833](tel:+1-805-781-4833) or visit <a href="#" class="map-link" data-lat="35.256974" data-lon="-120.672616" data-zoom="17" data-label="SLO RTA">253 Elks Lane, SLO</a>, M–Th 8am–4pm, or Fri. by appointment).
 After you register, make ride reservations 1–7 days in advance by calling [805-541-2544](tel:+1-805-541-2544).
 Rides are not free; they cost about twice as much as ordinary RTA rides.
 However people who qualify to use Runabout Paratransit can also ride the ordinary RTA service for free.
@@ -875,12 +875,12 @@ You can catch these trains and buses from the following locations in SLO County:
 
 | Location                                                     | Greyhound | Trailways | Amtrak train | Amtrak bus |
 | ------------------------------------------------------------ | --------- | --------- | ------------ | ---------- |
-| Atascadero Amtrak Bus Stop, 6000 Capistrano Ave., Atascadero | ✓         |           |              | ✓          |
-| Grover Beach Amtrak Station, 180 W. Grand Ave., Grover Beach | ✓         |           | ✓            | ✓          |
-| Paso Robles Train Station, 800 Pine St., Paso Robles         | ✓         |           | ✓            | ✓          |
-| Cal Poly, 1 Grand Ave. (near Vista Grande food court), SLO   | ✓         |           |              | ✓          |
-| Railroad Museum, 1940 Santa Barbara Ave., SLO                | ✓         | ✓         |              |            |
-| Train Station, 1011 Railroad Ave., SLO                       | ✓         |           | ✓            | ✓          |
+| Atascadero Amtrak Bus Stop, <a href="#" class="map-link" data-lat="35.488920" data-lon="-120.664716" data-zoom="17" data-label="Amtrak Bus Stop">6000 Capistrano Ave., Atascadero</a> | ✓         |           |              | ✓          |
+| Grover Beach Amtrak Station, <a href="#" class="map-link" data-lat="35.120481" data-lon="-120.629016" data-zoom="17" data-label="Amtrak Station">180 W. Grand Ave., Grover Beach</a> | ✓         |           | ✓            | ✓          |
+| Paso Robles Train Station, <a href="#" class="map-link" data-lat="35.622688" data-lon="-120.687770" data-zoom="17" data-label="Train Station">800 Pine St., Paso Robles</a> | ✓         |           | ✓            | ✓          |
+| Cal Poly, <a href="#" class="map-link" data-lat="35.298858" data-lon="-120.655675" data-zoom="17" data-label="Bus Stop">1 Grand Ave., SLO</a> | ✓         |           |              | ✓          |
+| Railroad Museum, <a href="#" class="map-link" data-lat="35.273127" data-lon="-120.655653" data-zoom="17" data-label="Railroad Museum">1940 Santa Barbara Ave., SLO</a> | ✓         | ✓         |              |            |
+| Train Station, <a href="#" class="map-link" data-lat="35.275632" data-lon="-120.655133" data-zoom="17" data-label="Train Station">1011 Railroad Ave., SLO </a> | ✓         |           | ✓            | ✓          |
 
 ### <a id="transportation-for-seniors">Transportation Resources for Seniors</a>
 
@@ -918,7 +918,7 @@ They will call you back within 24 hours to confirm your reservation.
 
 Veterans who travel to VA health care facilities for VA-authorized appointments can get free curb-to-curb shuttle service through [**Veterans Transportation Service (VTS)**](Directory.md#Veterans-Transportation-Service).
 Another option is the “Veterans Express Shuttle” operated by [**Ride-On Transportation**](Directory.md#Ride-On-Transportation) (call [805-541-8747](tel:+1-805-541-8747) two to three days before your appointment).
-There is also regularly-scheduled bus service between the SLO Veteran’s Memorial Building (801 Grand Ave.) and the West Los Angeles VA Medical Center (WLA).
+There is also regularly-scheduled bus service between the SLO Veteran’s Memorial Building (<a href="#" class="map-link" data-lat="35.289321" data-lon="-120.652800" data-zoom="17" data-label="Veterans Memorial Building">801 Grand Ave.</a>) and the West Los Angeles VA Medical Center (WLA).
 This bus is free to anyone with an appointment at the VA.
 Schedule a bus reservation through VTS.
 It leaves SLO at 6am, arrives at WLA at 11:15am, leaves WLA at 3:25pm and returns to SLO at 8:30pm.
@@ -1369,7 +1369,7 @@ The [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Hea
 
 [**The Center for Health and Prevention**](Directory.md#The-Center) offers pregnancy testing and counseling.
 
-[**Community Health Centers of the Central Coast**](Directory.md#CHC)’s 1551 Bishop St. (SLO) and 292 Posad Ln. (Templeton) locations offer the Wellness Pregnancy Program / Comprehensive Perinatal Services Program.
+[**Community Health Centers of the Central Coast**](Directory.md#CHC)’s 1551 Bishop St. (SLO) and 292 Posada Ln. (Templeton) locations offer the Wellness Pregnancy Program / Comprehensive Perinatal Services Program.
 
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) offers pregnancy testing and planning, and prenatal and postpartum services.
 
@@ -1463,8 +1463,8 @@ The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Av
 
 ### <a id="fitness">Fitness</a>
 
-There are free, outdoor fitness courts with exercise equipment at Emerson Park in SLO (Pismo St. & Nipomo St.), and behind French Hospital in SLO (along the bike path between Breck St. and the French Hospital parking lot).
-The “Vita Fitness Courses” in Meadow Park (between Corrida Drive and South Street in SLO) and around Laguna Lake in SLO have some stations with rudimentary equipment that are designed for fitness exercises.
+There are free, outdoor fitness courts with exercise equipment at Emerson Park in SLO (<a href="#" class="map-link" data-lat="35.275738" data-lon="-120.664269" data-zoom="17" data-label="Fitness Court">Pismo St. & Nipomo St.</a>), and behind French Hospital in SLO (<a href="#" class="map-link" data-lat="35.278313" data-lon="-120.652977" data-zoom="17" data-label="Fitness Court">along the bike path between Breck St. and the French Hospital parking lot</a>).
+The “Vita Fitness Courses” in Meadow Park (<a href="#" class="map-link" data-lat="35.267591" data-lon="-120.662198" data-zoom="16" data-label="Vita Fitness Course">between Corrida Drive and South Street in SLO</a>) and around <a href="#" class="map-link" data-lat="35.265279" data-lon="-120.682712" data-zoom="14" data-label="Laguna Lake Park">Laguna Lake Park</a> in SLO have some stations with rudimentary equipment that are designed for fitness exercises.
 <!-- I couldn't find anything like this outside of SLO city limits -->
 
 The [DAREBEE](https://darebee.com/workouts/) website has more than 2,500 free, illustrated workout guides, most of which do not require any special equipment.
@@ -1590,46 +1590,46 @@ You can also get free naloxone any time from these "NaloxBoxes":
 
 **North Coast:**
 
-- Baywood-Los Osos: Community Park, 2180 Palisades Ave.
-- Cambria: Shamel Park, 5455 Windsor Blvd.
-- Cambria: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Cambria branch), 1043 Main St.
-- Cayucos: Paul Andrew Park, N. 3rd St.
-- Morro Bay: Public Health facility, 760 Morro Bay Blvd.
+- Baywood-Los Osos: Community Park, <a href="#" class="map-link" data-lat="35.312984" data-lon="-120.836284" data-zoom="17" data-label="Community Park">2180 Palisades Ave.</a>
+- Cambria: Shamel Park, <a href="#" class="map-link" data-lat="35.565991" data-lon="-121.108126" data-zoom="16" data-label="Shamel Park">5455 Windsor Blvd.</a>
+- Cambria: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Cambria branch), <a href="#" class="map-link" data-lat="35.564950" data-lon="-121.096263" data-zoom="17" data-label="Cambria Library">1043 Main St.</a>
+- Cayucos: Paul Andrew Park, <a href="#" class="map-link" data-lat="35.445481" data-lon="-120.898994" data-zoom="16" data-label="Paul Andrew Park">N. 3rd St.</a>
+- Morro Bay: Public Health facility, <a href="#" class="map-link" data-lat="35.365706" data-lon="-120.844141" data-zoom="17" data-label="Public Health">760 Morro Bay Blvd.</a>
 
 **North County:**
 
-- Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), 9630 El Camino Real
-- Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Atascadero branch), 6555 Capistrano Ave.
-- Paso Robles: [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), 805 4th St.
-- Paso Robles: City Library, 1000 Spring St.
-- Paso Robles: [**ECHO**](Directory.md#ECHO) (Paso Home Key), 1134 Black Oak Dr.
-- San Miguel: Park, 1325 K St.
-- Santa Margarita: Community Park, 2210 H St.
-- Shandon: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Shandon branch), 195 N. 2nd St.
+- Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.465791" data-lon="-120.648782" data-zoom="17" data-label="Department of Social Services">9630 El Camino Real</a>
+- Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Atascadero branch), <a href="#" class="map-link" data-lat="35.489118" data-lon="-120.663909" data-zoom="17" data-label="Public Library">6555 Capistrano Ave.</a>
+- Paso Robles: [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="Behavioral Health">805 4th St.</a>
+- Paso Robles: City Library, <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="City Library">1000 Spring St.</a>
+- Paso Robles: [**ECHO**](Directory.md#ECHO) (Paso Home Key), <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="ECHO Shelter">1134 Black Oak Dr.</a>
+- San Miguel: Community Park, <a href="#" class="map-link" data-lat="35.751293" data-lon="-120.699068" data-zoom="17" data-label="Community Park">1325 K St.</a>
+- Santa Margarita: Community Park, <a href="#" class="map-link" data-lat="35.392470" data-lon="-120.604482" data-zoom="17" data-label="Community Park">2210 H St.</a>
+- Shandon: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Shandon branch), <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="Public Library">195 N. 2nd St.</a>
 
 **SLO city:**
 
-- [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), 885 Oklahoma Ave.
-- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, 277 South St. #T
-- [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), 705 Grand Ave.
-- Cuesta Canyon Park, 2400 Loomis St.
-- [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), State Hwy 1 @ Dairy Creek Rd.
-- Maxine Lewis Grove, 732 Orcutt Rd.
-- [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), 3433 S. Higuera St.
-- [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) (Health Campus), 2180 Johnson Ave.
-- [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (SLO branch), 995 Palm St.
-- [**Sun Street Centers**](Directory.md#Sun-Street-Centers), 34 Prado Rd.
-- The Anderson, 995 Monterey St.
+- [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), <a href="#" class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">885 Oklahoma Ave.</a>
+- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a>
+- [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave.</a>
+- Cuesta Canyon Park, <a href="#" class="map-link" data-lat="35.294471" data-lon="-120.642822" data-zoom="16" data-label="Cuesta Park">2400 Loomis St.</a>
+- [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
+- Maxine Lewis Grove, <a href="#" class="map-link" data-lat="35.261503" data-lon="-120.648658" data-zoom="17" data-label="Maxine Lewis Grove">732 Orcutt Rd.</a>
+- [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="Department of Social Services">3433 S. Higuera St.</a>
+- [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) (Health Campus), <a href="#" class="map-link" data-lat="35.274827" data-lon="-120.646298" data-zoom="16" data-label="Health Campus">2180 Johnson Ave.</a>
+- [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (SLO branch), <a href="#" class="map-link" data-lat="35.282385" data-lon="-120.662284" data-zoom="17" data-label="Public Library">995 Palm St.</a>
+- [**Sun Street Centers**](Directory.md#Sun-Street-Centers), <a href="#" class="map-link" data-lat="35.256680" data-lon="-120.671937" data-zoom="17" data-label="Sun Street Centers">34 Prado Rd.</a>
+- The Anderson, <a href="#" class="map-link" data-lat="35.281304" data-lon="-120.661857" data-zoom="17" data-label="Anderson Hotel">965 Monterey St.</a>
 
 **South County:**
 
-- Arroyo Grande: [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), 6800 Lopez Dr.
-- Arroyo Grande: [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), 1152 E. Grand Ave.
-- Grover Beach: Public Health, 286 S. 16th St. Bldg A
-- Nipomo: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Nipomo branch), 918 W. Tefft St.
-- Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), 1001 Pacific Blvd.
-- Oceano: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Oceano branch), 1511 19th St.
-- Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) (County Campground), 494 Air Park Dr.
+- Arroyo Grande: [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), <a href="#" class="map-link" data-lat="35.192994" data-lon="-120.457449" data-zoom="15" data-label="Lopez Lake Recreation Area">6800 Lopez Dr.</a>
+- Arroyo Grande: [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.120654" data-lon="-120.597809" data-zoom="18" data-label="The Center">1152 E. Grand Ave.</a>
+- Grover Beach: Public Health, <a href="#" class="map-link" data-lat="35.119294" data-lon="-120.611992" data-zoom="17" data-label="Public Health">286 S. 16th St. Bldg A</a>
+- Nipomo: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Nipomo branch), <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="Nipomo Library">918 W. Tefft St.</a>
+- Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes">1001 Pacific Blvd.</a>
+- Oceano: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Oceano branch), <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="Oceano Library">1511 19th St.</a>
+- Oceano: [**Oceano Campground**](Directory.md#Coastal-Dunes) (County Campground), <a href="#" class="map-link" data-lat="35.104656" data-lon="-120.625624" data-zoom="17" data-label="Oceano Campground">494 Air Park Dr.</a>
 
 ### <a id="tobacco-nicotine">Tobacco / Nicotine</a>
 
@@ -1703,7 +1703,7 @@ They also have financial assistance programs that make hospice treatment free fo
 [**Dignity Health**](Directory.md#Dignity-Health) also has a Home Health and Hospice program in Atascadero that includes skilled nursing, hospice care, and palliative care.
 They accept Medicare and Medi-Cal.
 They also have financial assistance programs that make hospice treatment free for people below 250% of the federal poverty level, and discounted for people below 400% of the federal poverty level (call [888-488-7667](tel:+1-888-488-7667) or [805-542-6321](tel:+1-805-542-6321) for details).
-They are located at 4555 El Camino Real #A, are open M–F 8am–5pm, and can be reached by phone at [805-434-1427](tel:+1-805-434-1427) or [800-549-9609](tel:+1-800-549-9609).
+They are located at <a href="#" class="map-link" data-lat="35.497588" data-lon="-120.680838" data-zoom="17" data-label="Home Health and Hospice">4555 El Camino Real #A</a>, are open M–F 8am–5pm, and can be reached by phone at [805-434-1427](tel:+1-805-434-1427) or [800-549-9609](tel:+1-800-549-9609).
 
 [**Medi-Cal**](Directory.md#Medi-Cal) ([**CenCal**](Directory.md#CenCal)) recipients who have a life expectancy of six months or less can choose to receive Medi-Cal covered hospice care in lieu of ordinary medical coverage.
 Medi-Cal (CenCal) also covers palliative care as part of its ordinary medical coverage.
@@ -1719,7 +1719,7 @@ Contact the local [**Veterans Administration Outpatient Clinic**](Directory.md#V
 
 1. **Grief Support Groups - North County**:
    - Hospice SLO County groups in Paso Robles (free 6-week sessions; contact [805-544-2266](tel:+1-805-544-2266)). Source: [hospiceslo.org](https://hospiceslo.org/support-groups/paso-robles)
-   - Central Coast Home Health grief groups at Paso Senior Center, 270 Scott Street, Paso Robles (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
+   - Central Coast Home Health grief groups at Paso Senior Center, <a href="#" class="map-link" data-lat="35.608386" data-lon="-120.655574" data-zoom="17" data-label="Paso Senior Center">270 Scott Street, Paso Robles</a> (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
    - GriefShare at First Baptist Church Paso Robles (13-week biblical support group; contact Sandy Garman at [805-423-0476](tel:+1-805-423-0476)). Source: [griefshare.org](https://www.griefshare.org/)
 -->
 
@@ -1784,7 +1784,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 1. Additional County-Wide Crisis and Safety Resources (pending review):
    - Mobile Crisis Team (MCT): 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [1-800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
    - Behavioral Health Community Action Team (BHCAT): Partnership with Sheriff's Office, Paso Robles Police Department, and Atascadero Police Department serving North County communities. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct))
-   - SLO County Sheriff Non-Emergency: [805-781-4540](tel:+1-805-781-4540). Location: 1585 Kansas Avenue, SLO. Serves unincorporated areas of SLO County including North County. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/contact-the-sheriff-s-office)
+   - SLO County Sheriff Non-Emergency: [805-781-4540](tel:+1-805-781-4540). Location: <a href="#" class="map-link" data-lat="35.320605" data-lon="-120.726162" data-zoom="17" data-label="Sheriff">1585 Kansas Avenue, SLO</a>. Serves unincorporated areas of SLO County including North County. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/contact-the-sheriff-s-office)
    - Lumina Alliance - North County Services: Emergency shelters in Paso Robles and Atascadero; transitional housing in Paso Robles; 24-hour crisis line [805-545-8888](tel:+1-805-545-8888) for sexual assault and intimate partner violence. All services free of charge in English & Spanish (interpreters available for other languages). Source: [luminaalliance.org](https://luminaalliance.org/)
 1. Women's Self-Defense Programs
    1. Model Mugging of SLO
@@ -1814,7 +1814,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
       - Goal: Build confidence and strength in shortest training time
       - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/self-defense.html)
    1. Paragon Brazilian Jiu Jitsu SLO
-      - Location: 235 Tank Farm Rd, Unit J, SLO
+      - Location: 2<a href="#" class="map-link" data-lat="35.246301" data-lon="-120.666138" data-zoom="17" data-label="Paragon">35 Tank Farm Rd, Unit J, SLO</a>
       - Programs: Brazilian Jiu-Jitsu, submission wrestling, self-defense, Muay Thai kickboxing
       - Ages: 4 and up
       - Hours: Mon–Thu 4pm–8pm, Fri 4:30pm–6:30pm, Sat 12pm–1:30pm, Sun 11am–1pm
@@ -1829,7 +1829,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
       - Focus: Self-defense rather than competition
       - Curriculum: Combination of Jiu-Jitsu, Karate, Aikido, Judo
       - Source: [us-ama.com](https://us-ama.com/)
-      - Contact: 1160 Laurel Ln. #100, SLO; contact directly to inquire about potential financial assistance programs
+      - Contact: <a href="#" class="map-link" data-lat="35.263974" data-lon="-120.643420" data-zoom="17" data-label="Academy of Martial Arts">1160 Laurel Ln. #100, SLO</a>; contact directly to inquire about potential financial assistance programs
       - Philosophy: Inclusive training for all; "training designed for tournament competition tend to eliminate those who need martial arts the most"
       - Note: No publicly advertised free/low-cost programs found; may offer accommodations on case-by-case basis given inclusive philosophy
 1. Personal Safety Tips for Homeless and Vulnerable Individuals
@@ -2047,7 +2047,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Specializes in: Individuals with disabilities, immigrant populations, school children, LGBTQ+ individuals, seniors, and people with limited English proficiency
    - Special programs:
       - Tenant's Rights Workshop—2nd & 4th Tuesday of each month, 9am–12pm (SLO office)
-      - Drop-in Legal Clinics at Paso Robles City Library: Bi-monthly legal clinics, 2nd & 4th Thursday of each month; location: 1000 Spring St., Paso Robles; provides free civil legal advice for low-income North County residents. Source: [crla.org](https://www.crla.org/)
+      - Drop-in Legal Clinics at Paso Robles City Library: Bi-monthly legal clinics, 2nd & 4th Thursday of each month; location: <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="Paso Robles City Library">1000 Spring St., Paso Robles</a>; provides free civil legal advice for low-income North County residents. Source: [crla.org](https://www.crla.org/)
    - Source: [crla.org/locations/san-luis-obispo](https://crla.org/locations/san-luis-obispo)
 1. [5Cities Homeless Coalition Legal Services](https://5chc.org/community-services/legal-services)
    - What’s Available: Free legal services regardless of citizenship status
@@ -2093,12 +2093,12 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
    - Services: Immigration legal advice
    - Note: Unable to verify specific services from their website (as of October 2025); contact them directly for details about programs and eligibility
    - Website: [immigranthopeag.org](https://immigranthopeag.org/)
-   - Location: 995 E. Grand Ave., Arroyo Grande
+   - Location: 9<a href="#" class="map-link" data-lat="35.118437" data-lon="-120.592866" data-zoom="17" data-label="Immigrant Hope">95 E. Grand Ave., Arroyo Grande</a>
    - Phone: [805-221-4319](tel:+1-805-221-4319)
 1. IMPORTA
    - Note: Unable to verify specific services from their website (as of October 2025); contact them directly for details about programs and eligibility
    - Website: [www.importasb.org](https://www.importasb.org/)
-   - Location: 327 E. Plaza Dr., Santa Maria
+   - Location: <a href="#" class="map-link" data-lat="34.937584" data-lon="-120.432413" data-zoom="17" data-label="IMPORTA">327 E. Plaza Dr., Santa Maria</a>
    - Phone: [805-619-0644](tel:+1-805-619-0644)
    - Hours: M–Th 10am–noon & 1–5pm
 1. SLO College of Law Immigration Clinic
@@ -2124,7 +2124,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 1. [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic)
    - Cal Poly students represent low-income clients, for free, in tax controversies before the IRS and U.S. Tax Court
    - Services available in English and Spanish
-   - Location: Cal Poly SLO, building 3, room 107
+   - Location: <a href="#" class="map-link" data-lat="35.299891" data-lon="-120.664977" data-zoom="17" data-label="Business Building">Cal Poly SLO, building 3, room 107</a>
    - Hours: M–Th 9am–5pm, F 9am–1pm
    - Phone: [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725))
    - Email: [litc@calpoly.edu](mailto:litc@calpoly.edu)
@@ -2277,15 +2277,15 @@ The Postal Service option is the most affordable of the two.
 But sometimes, a "P.O. Box" address (which is what you get from the Postal Service) is not adequate for your needs, and one advantage of the UPS Store option is that it appears as a regular street address (e.g. "1241 Johnson Avenue #1234, San Luis Obispo").
 UPS Store locations with mailbox rental services are available throughout SLO County including:
 
-- Arroyo Grande: 1375 E. Grand Ave. #103, [805-904-6480](tel:+1-805-904-6480)
-- Atascadero: 7343 El Camino Real, [805-466-9015](tel:+1-805-466-9015)
-- Morro Bay: 630 Quintana Rd., [805-772-9284](tel:+1-805-772-9284)
-- Nipomo, 110 South Mary Ave. #2, [805-929-0055](tel:+1-805-929-0055)
-- Paso Robles: 179 Niblick Rd., [805-237-8727](tel:+1-805-237-8727)
-- Pismo Beach: 567 Five Cities Dr., [805-295-6581](tel:+1-805-295-6581)
-- SLO: 3940 Broad St., [805-549-0200](tel:+1-805-549-0200)
-- SLO: 793 Foothill Blvd., [805-541-9333](tel:+1-805-541-9333)
-- SLO: 1241 Johnson Ave., [805-541-1334](tel:+1-805-541-1334)
+- Arroyo Grande: <a href="#" class="map-link" data-lat="35.119852" data-lon="-120.605397" data-zoom="17" data-label="UPS Store">1375 E. Grand Ave. #103</a>, [805-904-6480](tel:+1-805-904-6480)
+- Atascadero: <a href="#" class="map-link" data-lat="35.483837" data-lon="-120.660562" data-zoom="17" data-label="UPS Store">7343 El Camino Real</a>, [805-466-9015](tel:+1-805-466-9015)
+- Morro Bay: <a href="#" class="map-link" data-lat="35.368768" data-lon="-120.844887" data-zoom="17" data-label="UPS Store">630 Quintana Rd.</a>, [805-772-9284](tel:+1-805-772-9284)
+- Nipomo, <a href="#" class="map-link" data-lat="35.038131" data-lon="-120.489689" data-zoom="17" data-label="UPS Store">110 South Mary Ave. #2</a>, [805-929-0055](tel:+1-805-929-0055)
+- Paso Robles: <a href="#" class="map-link" data-lat="35.616733" data-lon="-120.682645" data-zoom="17" data-label="UPS Store">179 Niblick Rd.</a>, [805-237-8727](tel:+1-805-237-8727)
+- Pismo Beach: <a href="#" class="map-link" data-lat="35.136200" data-lon="-120.624797" data-zoom="17" data-label="UPS Store">567 Five Cities Dr.</a>, [805-295-6581](tel:+1-805-295-6581)
+- SLO: <a href="#" class="map-link" data-lat="35.249339" data-lon="-120.642032" data-zoom="17" data-label="UPS Store">3940 Broad St.</a>, [805-549-0200](tel:+1-805-549-0200)
+- SLO: <a href="#" class="map-link" data-lat="35.293776" data-lon="-120.671971" data-zoom="17" data-label="UPS Store">793 Foothill Blvd.</a>, [805-541-9333](tel:+1-805-541-9333)
+- SLO: <a href="#" class="map-link" data-lat="35.282248" data-lon="-120.656089" data-zoom="17" data-label="UPS Store">1241 Johnson Ave.</a>, [805-541-1334](tel:+1-805-541-1334)
 
 Another option is to ask people to send you mail addressed to [“General Delivery”](https://faq.usps.com/s/article/What-is-General-Delivery):
 > *Your Name*<br />
@@ -2297,21 +2297,21 @@ Here are some General Delivery zip codes for our area:
 
 | Post Office       | Pick-up address               | ZIP Code   |
 | ----------------- | ----------------------------- | ---------- |
-| Arroyo Grande     | 160 Station Way               | 93420‒9999 |
-| Atascadero        | 9800 El Camino Real           | 93422‒9999 |
-| Cambria           | 4100 Bridge St.               | 93428‒9999 |
-| Cayucos           | 97 Ash Ave.                   | 93430‒9999 |
-| Grover Beach      | 917 W. Grand Ave.             | 93433‒9999 |
-| Los Osos          | 1189 Los Osos Valley Rd.      | 93402‒9999 |
-| Morro Bay         | 898 Napa Ave.                 | 93442‒9999 |
-| Nipomo            | 630 W. Tefft St.              | 93444‒9999 |
-| Oceano            | 1800 Beach St.                | 93445‒9999 |
-| Paso Robles       | 800 6th St.                   | 93446‒9999 |
-| Pismo Beach       | 100 Crest Dr.                 | 93449‒9999 |
-| San Luis Obispo   | 1655 Dalidio Dr. (main)       | 93401‒9999 |
-| San Simeon        | 250 San Simeon Ave. Ste 7     | 93452‒9999 |
-| Santa Margarita   | 22360 El Camino Real          | 93453‒9999 |
-| Templeton         | 101 N. Main St.               | 93465‒9999 |
+| Arroyo Grande     | <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a> | 93420‒9999 |
+| Atascadero        | <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> | 93422‒9999 |
+| Cambria           | <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a> | 93428‒9999 |
+| Cayucos           | <a href="#" class="map-link" data-lat="35.449483" data-lon="-120.903533" data-zoom="17" data-label="Post Office">97 Ash Ave.</a> | 93430‒9999 |
+| Grover Beach      | <a href="#" class="map-link" data-lat="35.121670" data-lon="-120.619893" data-zoom="17" data-label="Post Office">917 W. Grand Ave.</a> | 93433‒9999 |
+| Los Osos          | <a href="#" class="map-link" data-lat="35.310118" data-lon="-120.828820" data-zoom="17" data-label="Post Office">1189 Los Osos Valley Rd.</a> | 93402‒9999 |
+| Morro Bay         | <a href="#" class="map-link" data-lat="35.366647" data-lon="-120.847324" data-zoom="17" data-label="Post Office">898 Napa Ave.</a> | 93442‒9999 |
+| Nipomo            | <a href="#" class="map-link" data-lat="35.035132" data-lon="-120.488569" data-zoom="17" data-label="Post Office">630 W. Tefft St.</a> | 93444‒9999 |
+| Oceano            | <a href="#" class="map-link" data-lat="35.098991" data-lon="-120.611433" data-zoom="17" data-label="Post Office">1800 Beach St.</a> | 93445‒9999 |
+| Paso Robles       | <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a> | 93446‒9999 |
+| Pismo Beach       | <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a> | 93449‒9999 |
+| San Luis Obispo   | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> (main) | 93401‒9999 |
+| San Simeon        | <a href="#" class="map-link" data-lat="35.612276" data-lon="-121.145205" data-zoom="17" data-label="Post Office">250 San Simeon Ave. Ste 7</a> | 93452‒9999 |
+| Santa Margarita   | <a href="#" class="map-link" data-lat="35.391744" data-lon="-120.608109" data-zoom="17" data-label="Post Office">22360 El Camino Real</a> | 93453‒9999 |
+| Templeton         | <a href="#" class="map-link" data-lat="35.557484" data-lon="-120.700688" data-zoom="17" data-label="Post Office">101 N. Main St.</a> | 93465‒9999 |
 
 **Note**: In cities with multiple post office locations, General Delivery is typically handled at only one facility (usually the main post office). For example, San Luis Obispo has two post offices (1655 Dalidio Dr. and 893 Marsh St.), but General Delivery is handled at the main location on Dalidio Dr.
 To confirm which location handles General Delivery in your area, call [800-275-8777](tel:+1-800-275-8777) and request “Customer Service,” or use the [USPS ZIP Code lookup tool](https://tools.usps.com/zip-code-lookup.htm) by entering “General Delivery” as the address line.
@@ -2422,7 +2422,7 @@ The United Way also has [an on-line program](https://www.myfreetaxes.org/file-wi
 Free tax preparation is available throughout SLO County during tax season (typically February through mid-April). Services are offered at nine locations including Atascadero, Arroyo Grande, Grover Beach, Los Osos, Morro Bay, Nipomo, Paso Robles, San Luis Obispo, and Templeton. Both VITA (through United Way) and AARP Tax-Aide programs operate by appointment, though some VITA locations accept walk-ins.
 
 - **AARP Tax-Aide**: Nine locations county-wide; appointments available starting late January at [ccfreetax.org](https://www.ccfreetax.org/) or by calling [805-931-6308](tel:+1-805-931-6308); no age requirement or AARP membership needed
-- **VITA Program**: Locations include Paso Robles Library (1000 Spring St., Saturdays 9am–3pm, Spanish assistance available select dates) and St. William's Catholic Church in Atascadero (6410 Santa Lucia Rd., Mondays/Fridays 9am–4pm); contact [taxes@unitedwayslo.org](mailto:taxes@unitedwayslo.org) or [805-541-1234](tel:+1-805-541-1234)
+- **VITA Program**: Locations include Paso Robles Library (<a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="Paso Robles Library">1000 Spring St.</a>, Saturdays 9am–3pm, Spanish assistance available select dates) and St. William's Catholic Church in Atascadero (<a href="#" class="map-link" data-lat="35.487767" data-lon="-120.671531" data-zoom="17" data-label="St. William’s Catholic Church">6410 Santa Lucia Rd.</a>, Mondays/Fridays 9am–4pm); contact [taxes@unitedwayslo.org](mailto:taxes@unitedwayslo.org) or [805-541-1234](tel:+1-805-541-1234)
 
 Sources: [unitedwayslo.org](https://www.unitedwayslo.org/taxes), [ccfreetax.org](https://www.ccfreetax.org/)
 
@@ -2452,7 +2452,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. [**Womenade SLO**](Directory.md#Womenade-SLO)
       - What's Available: One-time essential financial help for SLO city residents; emergency assistance for dental and medical care, diapers, furniture, rent, gas, groceries, and other essential needs; 100% of donations go directly to support those in need
       - Eligibility: SLO city residents in crisis; referrals from schools, medical professionals, and local social services
-      - Note: Part of a regional network; for county-wide assistance see GIVEslo ([info@giveslo.org](mailto:info@giveslo.org)); for North County see North County Womenade (7343 El Camino Real Box #217, Atascadero, CA 93422); for South County see South County Womenade (1793 Farroll Road, Grover Beach, CA 93433)
+      - Note: Part of a regional network; for county-wide assistance see GIVEslo ([info@giveslo.org](mailto:info@giveslo.org)); for North County see North County Womenade (7343 El Camino Real Box #217, Atascadero, CA 93422); for South County see South County Womenade (<a href="#" class="map-link" data-lat="35.112441" data-lon="-120.609956" data-zoom="17" data-label="South County Womenade">1793 Farroll Road, Grover Beach</a>, CA 93433)
    1. [**5Cities Homeless Coalition**](Directory.md#5CHC)
       - What’s Available: Case management and financial assistance for rent, deposit, and immediate needs based on variety of funding grants
          - "Examples of assistance include support with utilities, transportation, auto repairs, clothing, and employment readiness. These funds can be used to pay for bills, or for goods or services; however no funds are given directly to the individual."
@@ -2694,7 +2694,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. [Employment Development Department (EDD)](https://edd.ca.gov/)
       - Services: Unemployment benefits, disability insurance, job training programs, hiring incentives for employers
       - Programs: Job fairs, workshops, training services, eligible training provider lists
-      - Local Office: 3450 Broad St. #103A, San Luis Obispo, CA 93401, [805-439-2557](tel:+1-805-439-2557)
+      - Local Office: <a href="#" class="map-link" data-lat="35.257956" data-lon="-120.646557" data-zoom="17" data-label="EDD">3450 Broad St. #103A, SLO</a>, [805-439-2557](tel:+1-805-439-2557)
       - Customer Service: [800-300-5616](tel:+1-800-300-5616) (English/Spanish), multilingual support available
       - Hours: 8am–5pm Monday–Friday (avoid Monday before 10am for best service)
 1. Veterans Employment Services
@@ -2705,7 +2705,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Free employment services, job training and placement
       - Services: Career counseling, skills training, résumé preparation, job placement assistance, interview prep
       - Access: Visit any retail location or contact county workforce development
-      - Contact: SLO County Workforce Development Board, 3563 Empleo Street, SLO, [805-439-2557](tel:+1-805-439-2557)
+      - Contact: SLO County Workforce Development Board, <a href="#" class="map-link" data-lat="35.251393" data-lon="-120.668265" data-zoom="17" data-label="SLO County Workforce Development Board">3563 Empleo Street, SLO</a>, [805-439-2557](tel:+1-805-439-2557)
       - Cost: Free employment services available to all job seekers
    1. [**Assistance League of San Luis Obispo County**](Directory.md#Assistance-League-of-SLO-County)
       - Access to Career Education (ACE): Educational program for students (specific details not readily available)
@@ -2718,12 +2718,12 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Special program: The Bridge Cafe—social enterprise offering paid culinary job training and certification in partnership with Cuesta College's Culinary Arts Foundation
       - How to apply for Bridge Cafe training: Contact Restorative Partners to inquire about participating in the culinary arts certificate program
       - Program outcomes: Upon completion, Restorative Partners assists participants with finding culinary employment
-      - Bridge Cafe location: 1074 Higuera Street, downtown SLO, Monday–Friday 7am–3pm
+      - Bridge Cafe location: <a href="#" class="map-link" data-lat="35.281728" data-lon="-120.660117" data-zoom="18" data-label="Bridge Cafe">1074 Higuera Street, downtown SLO</a>, Monday–Friday 7am–3pm
       - Source: [thebridgecafe.org](https://www.thebridgecafe.org/)
    1. The Bridge Cafe
       - project of [**Restorative Partners**](Directory.md#Restorative-Partners)
       - job development for people tangled in the criminal justice system
-      - 1074 Higuera St., SLO
+      - <a href="#" class="map-link" data-lat="35.281728" data-lon="-120.660117" data-zoom="18" data-label="Bridge Cafe">1074 Higuera St., SLO</a>
       - [805-459-1689](tel:+1-805-459-1689)
       - [info@thebridgecafe.org](mailto:info@thebridgecafe.org)
 1. Recycling
@@ -2758,7 +2758,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. [Cuesta College Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html)
       - What's Available: *Free* California High School Equivalency Certificate (GED) test preparation classes in English and Spanish
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - County-wide access (pending review): Programs available at three campuses—SLO Campus (Highway 1), North County Campus (2800 Buena Vista Dr., Paso Robles), and South County Campus (Corner of Orchard St. & W. Cherry Ave., Arroyo Grande)
+      - County-wide access (pending review): Programs available at three campuses—SLO Campus (Highway 1), North County Campus (<a href="#" class="map-link" data-lat="35.650499" data-lon="-120.670746" data-zoom="17" data-label="Cuesta College">2800 Buena Vista Dr., Paso Robles</a>), and South County Campus (<a href="#" class="map-link" data-lat="35.117021" data-lon="-120.577601" data-zoom="15" data-label="Cuesta College">Corner of Orchard St. & W. Cherry Ave., Arroyo Grande</a>)
       - Services: Computer-based test preparation, technology training, test-taking skills practice
       - Special features: Variety of programs throughout SLO County campuses and locations
    1. [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education)
@@ -2815,7 +2815,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Source: [slolibrary.org/index.php/adults/tlc](https://www.slolibrary.org/index.php/adults/tlc)
    1. Lucia Mar Adult Education
       - Cost: Free ESL classes for beginners
-      - Locations: Nipomo Learning Center (190 E. Price St., Nipomo) & Oceano Community Center (1551 17th St., Oceano)
+      - Locations: Nipomo Learning Center (<a href="#" class="map-link" data-lat="35.042699" data-lon="-120.472062" data-zoom="17" data-label="Nipomo Learning Center">190 E. Price St., Nipomo</a>) & Oceano Community Center (<a href="#" class="map-link" data-lat="35.103145" data-lon="-120.612330" data-zoom="17" data-label="Oceano Community Center">1551 17th St., Oceano</a>)
       - Partnership: With Cuesta College
       - Contact: [805-474-3000](tel:+1-805-474-3000) ext. 5811 or ext. 1224 (Nipomo) / ext. 1225 (Oceano)
       - Additional: US Citizenship preparation classes also available
@@ -2831,18 +2831,18 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Source: [slolibrary.org](https://www.slolibrary.org/)
    1. Cosmetology Certification: Full-service school through Lucia Mar Adult Education
       - Cost: Free for all students ages 18+
-      - Location: 1425 19th Street, Oceano, CA 93445
+      - Location: <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="Lucia Mar Adult Education">1425 19th Street, Oceano</a>
       - Contact: [805-474-3756](tel:+1-805-474-3756), [adulted.luciamarschools.org](https://adulted.luciamarschools.org/apps/pages/index.jsp?uREC_ID=768188&type=d&pREC_ID=2637431)
       - Additional services: High School Diploma courses, GED test prep, US Citizenship test prep, ESL classes (partnership with Cuesta College)
       - Note: Largest school district in SLO County; additional county scholarships may be available for related education [Source: https://adulted.luciamarschools.org/]
 1. Community Education and Personal Development
    1. SLO Parks & Recreation Classes: [Activity guides and courses](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide)
    1. Toastmasters: Public speaking and leadership development clubs in San Luis Obispo County:
-      - SLO Toastmasters Club 83: Meets Thursdays 6:30am (hybrid in-person and Zoom), 872 Higuera St, San Luis Obispo. Contact via [slotoastmasters.toastmastersclubs.org](https://slotoastmasters.toastmastersclubs.org/)
-      - SLO Noontime Toastmasters Club (5204): Meets Tuesdays 12–1pm (hybrid), Mt. Carmel Lutheran Church, 1701 Fredericks St, San Luis Obispo. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204-)
-      - SLO Motion Toastmasters Club: Meets Mondays 12–1pm (alternating hybrid/Zoom), SLO City/County Library, 995 Palm St, San Luis Obispo. Contact via [slomotion.toastmastersclubs.org](https://slomotion.toastmastersclubs.org/)
-      - Speakeasy Toastmasters Club: SLO County Sheriff's Office, 356 N. Main St, Templeton. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00009797-00009797) (may have professional prerequisites)
-      - Life Community Toastmasters: Wednesdays 6:30–8:30pm, Life Community Church, 3770 Ruth Way, Templeton. Contact [805-712-0671](tel:+1-805-712-0671)
+      - SLO Toastmasters Club 83: Meets Thursdays 6:30am (hybrid in-person and Zoom), <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a>. Contact via [slotoastmasters.toastmastersclubs.org](https://slotoastmasters.toastmastersclubs.org/)
+      - SLO Noontime Toastmasters Club (5204): Meets Tuesdays 12–1pm (hybrid), Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a>. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204-)
+      - SLO Motion Toastmasters Club: Meets Mondays 12–1pm (alternating hybrid/Zoom), SLO City/County Library, <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO Library">995 Palm St., SLO</a>. Contact via [slomotion.toastmastersclubs.org](https://slomotion.toastmastersclubs.org/)
+      - Speakeasy Toastmasters Club: SLO County Sheriff's Office, <a href="#" class="map-link" data-lat="35.563896" data-lon="-120.702286" data-zoom="17" data-label="County Sheriff">356 N. Main St., Templeton</a>. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00009797-00009797) (may have professional prerequisites)
+      - Life Community Toastmasters: Wednesdays 6:30–8:30pm, Life Community Church, <a href="#" class="map-link" data-lat="35.571064" data-lon="-120.694784" data-zoom="17" data-label="Life Community Church">3770 Ruth Way, Templeton</a>. Contact [805-712-0671](tel:+1-805-712-0671)
       - Note: All clubs welcome guests and offer online attendance options; Division E covers Arroyo Grande, Grover Beach, SLO, Templeton, Paso Robles
       - Source: [toastmasters.org](https://www.toastmasters.org/find-a-club)
    1. [**U.C. Cooperative Extension - SLO County**](Directory.md#UC-Cooperative-Extension)
@@ -2960,11 +2960,11 @@ This program is for California residents with medically-certified limitations of
    1. SLO Veterans Support Program
    1. [Veterans Connect](https://slolibrary.org/index.php/vets)
    1. American Legion
-      - [805-543-6445](tel:+1-805-543-6445) / 1661 Mill St., SLO
+      - [805-543-6445](tel:+1-805-543-6445) / <a href="#" class="map-link" data-lat="35.288680" data-lon="-120.653533" data-zoom="17" data-label="American Legion">1661 Mill St., SLO</a>
    1. [**Central Coast Veterans Helping Veterans**](Directory.md#Central-Coast-Veterans-Helping-Veterans)
    1. [**Central Coast Veterans Services Collaborative**](Directory.md#Central-Coast-Veterans-Services-Collaborative)
    1. Department of Veterans Affairs / HUD-VASH program
-      - 1288 Morro St. #200, SLO
+      - <a href="#" class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="Dept. of Veterans Affairs">1288 Morro St. #200, SLO</a>
 1. Seniors
    1. Central Coast Commission for Senior Citizens
    1. Refer people out to the seniors’ resource guide
@@ -3026,7 +3026,7 @@ This program is for California residents with medically-certified limitations of
       - Target: Indigenous migrant communities, particularly Mixteco and other indigenous persons, as well as low-income persons
       - Coverage: Ventura, Santa Barbara, and San Luis Obispo Counties
       - Phone: [805-296-3386](tel:+1-805-296-3386)
-      - Location: 1502 15th St. #B, Paso Robles
+      - Location: <a href="#" class="map-link" data-lat="35.630007" data-lon="-120.691139" data-zoom="17" data-label="MICOP">1502 15th St. #B, Paso Robles</a>
       - Website: [mixteco.org](https://mixteco.org/)
       - Source: [mixteco.org](https://mixteco.org/), [immigrationadvocates.org](https://www.immigrationadvocates.org/nonprofit/legaldirectory/organization.720274-Mixteco_Indigena_Community_Organizing_Project_MICOP)
 1. Unaccompanied minors
@@ -3066,7 +3066,7 @@ This program is for California residents with medically-certified limitations of
    1. [SLO Children's Museum](https://www.slocm.org/)
       - Services: Interactive educational exhibits for children ages 2–10, sensory-friendly events for autism spectrum families
       - Accessibility Programs: Museums for All (SNAP/EBT families get 4 admissions for $3 each), monthly free Moonlight Hours (3rd Thursday 5–7pm), free admission with SLO County library card
-      - Contact: 1010 Nipomo Street, SLO
+      - Contact: <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="Children’s Museum">1010 Nipomo Street, SLO</a>
       - Target: Families with young children; special accommodation for sensory needs
       - Additional: Children 2 and under always free, senior/military discounts available [Source: https://www.slocm.org/]
       - Location: Downtown San Luis Obispo [Source: https://downtownslo.com/]
@@ -3082,7 +3082,7 @@ This program is for California residents with medically-certified limitations of
       - Services: Immediate enrollment, school transportation, food program eligibility, educational stability for homeless children and youth
       - Target: Students who lack fixed, regular, adequate nighttime residence; serves approximately 1,800 homeless youth
       - Contact: Wendy Bruse, McKinney-Vento Liaison — [805-474-3000](tel:+1-805-474-3000;ext=1221) x1221, [wendy.bruse@lmusd.org](mailto:wendy.bruse@lmusd.org)
-      - District Office: 602 Orchard Street, Arroyo Grande, [805-474-3000](tel:+1-805-474-3000)
+      - District Office: <a href="#" class="map-link" data-lat="35.115301" data-lon="-120.576263" data-zoom="17" data-label="Lucia Mar School District">602 Orchard Street, Arroyo Grande</a>, [805-474-3000](tel:+1-805-474-3000)
       - Coverage: Largest school district in SLO County, serves nearly 10,000 students [Source: https://www.luciamarschools.org/]
    1. [S.A.F.E. South County Youth Coalition](https://scyouthcoalition.com/)
       - Full Name: Services Affirming Family Empowerment - one-stop Family Resource Center
@@ -3090,9 +3090,9 @@ This program is for California residents with medically-certified limitations of
       - Services: Basic needs (clothing, food), counseling, medical/dental assistance, school advocacy, parenting classes, support groups, case management
       - Additional: Need-based grants for sports, AP test fees, field trips, camps, music lessons; urgent assistance with transportation and toiletries
       - Locations:
-         - 1086 Grand Avenue, Arroyo Grande; [805-474-2025](tel:+1-805-474-2025)
-         - 920 West Tefft St., Nipomo; [805-474-3000](tel:+1-805-474-3000;ext=5147) x5147
-         - 1511 19th St., Oceano; [805-474-3690](tel:+1-805-474-3690)
+         - <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1086 Grand Avenue, Arroyo Grande</a>; [805-474-2025](tel:+1-805-474-2025)
+         - <a href="#" class="map-link" data-lat="35.028129" data-lon="-120.498271" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">920 West Tefft St., Nipomo</a>; [805-474-3000](tel:+1-805-474-3000;ext=5147) x5147
+         - <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1511 19th St., Oceano</a>; [805-474-3690](tel:+1-805-474-3690)
       - Email: [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org)
       - Email: [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com)
       - "Appointments are preferred; walk-ins are welcome"
@@ -3127,7 +3127,7 @@ This program is for California residents with medically-certified limitations of
       - apply for a bike by contacting the resource officer at the child’s elementary or middle school
    1. Educational Continuity for Homeless Students (McKinney-Vento Act)
       - Rights: School of origin attendance (remain at same school during homelessness), immediate enrollment without documents, free transportation, comparable services
-      - SLO County Coordinator: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), SLO County Office of Education, 3350 Education Drive, SLO
+      - SLO County Coordinator: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), SLO County Office of Education, <a href="#" class="map-link" data-lat="35.334344" data-lon="-120.742872" data-zoom="16" data-label="SLO County Office of Education">3350 Education Drive, SLO</a>
       - District Liaisons: Every SLO County school district has homeless/foster youth liaison:
          - Atascadero USD: E.J. Rossi, [805-462-4200](tel:+1-805-462-4200)
          - Cayucos: Liz Villalobos, [805-995-3694](tel:+1-805-995-3694)
@@ -3144,7 +3144,7 @@ This program is for California residents with medically-certified limitations of
    1. [CAPSLO Head Start](https://capslo.org/head-start-and-early-head-start/)
       - Services: Comprehensive child development for ages 0-5; education, health, nutrition, behavioral health, social services, parent involvement
       - Target: Low-income families and children with special needs; school readiness curriculum
-      - Locations: Multiple sites including Sunnyside (880 Manzanita Dr, Los Osos), High Street (480 High Street, SLO), Santa Rosa St (864 Santa Rosa St, SLO)
+      - Locations: Multiple sites including Sunnyside (<a href="#" class="map-link" data-lat="35.309953" data-lon="-120.835914" data-zoom="17" data-label="Head Start">880 Manzanita Dr., Los Osos</a>), High Street (<a href="#" class="map-link" data-lat="35.272264" data-lon="-120.661496" data-zoom="17" data-label="Head Start">480 High Street, SLO</a>), Santa Rosa St. (<a href="#" class="map-link" data-lat="35.284113" data-lon="-120.661123" data-zoom="17" data-label="Head Start">864 Santa Rosa St., SLO</a>)
         - See [capslo.org/eecc](https://capslo.org/eecc/)
       - Contact: [805-544-4355](tel:+1-805-544-4355) ext. 222
         - Or maybe: [888-315-6741](tel:+1-888-315-6741)
@@ -3184,7 +3184,7 @@ This program is for California residents with medically-certified limitations of
       - [dhcs.ca.gov/services/ccs](https://dhcs.ca.gov/services/ccs)
       - [805-781-5527](tel:+1-805-781-5527)
       - [PublicHealth.CMS@co.slo.ca.us](mailto:PublicHealth.CMS@co.slo.ca.us)
-      - 2925 McMillan Ave., #108, SLO
+      - <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="California Children’s Services">2925 McMillan Ave., #108, SLO</a>
       - M–F 8am–5pm by appointment only
       - Arranges, directs, and pays for medical care, equipment, and rehabilitation for children and youth with certain medical conditions who are unable to pay. Parents apply by submitting an application at the local CCS office.
    1. [**Martha's Place Children's Center**](Directory.md#Marthas-Place-Childrens-Center)
@@ -3248,20 +3248,20 @@ This program is for California residents with medically-certified limitations of
 ## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering</a>
 
 <!--
-Note: Added Atascadero Senior Center to Directory (October 2025) — offers free lunch M–F, fitness classes (Tai Chi, chair yoga, walking groups), games, arts/crafts, computer access, medical equipment loans
-Note: Added Central Coast Senior Center (Oceano) to Directory (October 2025) — offers lunch M–F, monthly luncheon, Bingo, Bunco, Tai Chi, art classes
-Note: Added Morro Bay Senior Center to Directory (October 2025) — offers medical equipment loans, games (Bingo, cards, etc.), fitness classes (Tai Chi, Pickleball, exercise programs), support groups
-Note: Added Nipomo Senior Center to Directory (October 2025) — offers lunch program, equipment loans, exercise classes, Bingo, games, WiFi, monthly potlucks
-Note: Updated Paso Robles Senior Center (October 2025) — see Directory entry for full list of services including daily hot lunch, computer access, lending library, Medicare counseling, legal aide, and volunteer opportunities
-Note: Added Santa Margarita Senior Center to Directory (October 2025) — offers lunch, HiCAP counseling, AARP Mature Driver courses, health screenings (detailed activity info not available online)
-Note: Enhanced SLO Senior Center entry in Directory (October 2025) — offers fitness classes, educational programs (discussions/TED Talks), games (Bingo, Bridge, Mahjong, Dominoes), clubs (Philatelic Society, Gem and Mineral)
-Note: Added South Bay Community Center to Directory (October 2025) — multi-use community center hosting Early Risers A.A., Meals that Connect senior nutrition program, Los Osos Cares Community Dinner, and South Bay Seniors People Helping People food bank/medical equipment loan program
-Note: Researched Arroyo Grande Recreation Services (October 2025) — standard recreation department offerings (youth/adult sports, classes ranging from preschool to senior fitness, special events, facility rentals); no specific programs identified for target audience beyond basic recreation services; existing Directory entry adequate
-Note: Added Atascadero Parks & Recreation to Directory (October 2025) — offers senior programs (55+ yoga, card games, badminton, Senior Chair Wellness, Pickleball), adult sports, youth programs, Teen Center ($20/yr); standard recreation department services
-Note: Researched Grover Beach Community Services (October 2025) — standard recreation department offerings (recreation programs and classes for all ages, special events, summer concerts, park/facility rentals); no specific programs identified for target audience beyond basic recreation services; existing Directory entry adequate
-Note: Added Morro Bay Parks & Recreation to Directory (October 2025) — offers youth programs, aquatics, senior activities, adult sports, fitness classes (Freestyle Fitness, Zumba), scholarship applications available; standard recreation department services
-Note: Added Paso Robles Parks & Recreation to Directory (October 2025) — offers free Teen Center and Open Gym programs, Recreation Scholarship Program (all ages), 200+ recreation options including camps/classes/lessons/leagues/events; standard recreation department services
-Note: Enhanced Pismo Beach Recreation Division entry in Directory (October 2025) — offers Active Adult Socials, adult classes, excursions/trips, special events, sports programs, youth programs, public art projects; standard recreation department services
+Note: Added Atascadero Senior Center to Directory (October 2025) — offers free lunch M–F, fitness classes (Tai Chi, chair yoga, walking groups), games, arts/crafts, computer access, medical equipment loans
+Note: Added Central Coast Senior Center (Oceano) to Directory (October 2025) — offers lunch M–F, monthly luncheon, Bingo, Bunco, Tai Chi, art classes
+Note: Added Morro Bay Senior Center to Directory (October 2025) — offers medical equipment loans, games (Bingo, cards, etc.), fitness classes (Tai Chi, Pickleball, exercise programs), support groups
+Note: Added Nipomo Senior Center to Directory (October 2025) — offers lunch program, equipment loans, exercise classes, Bingo, games, WiFi, monthly potlucks
+Note: Updated Paso Robles Senior Center (October 2025) — see Directory entry for full list of services including daily hot lunch, computer access, lending library, Medicare counseling, legal aide, and volunteer opportunities
+Note: Added Santa Margarita Senior Center to Directory (October 2025) — offers lunch, HiCAP counseling, AARP Mature Driver courses, health screenings (detailed activity info not available online)
+Note: Enhanced SLO Senior Center entry in Directory (October 2025) — offers fitness classes, educational programs (discussions/TED Talks), games (Bingo, Bridge, Mahjong, Dominoes), clubs (Philatelic Society, Gem and Mineral)
+Note: Added South Bay Community Center to Directory (October 2025) — multi-use community center hosting Early Risers A.A., Meals that Connect senior nutrition program, Los Osos Cares Community Dinner, and South Bay Seniors People Helping People food bank/medical equipment loan program
+Note: Researched Arroyo Grande Recreation Services (October 2025) — standard recreation department offerings (youth/adult sports, classes ranging from preschool to senior fitness, special events, facility rentals); no specific programs identified for target audience beyond basic recreation services; existing Directory entry adequate
+Note: Added Atascadero Parks & Recreation to Directory (October 2025) — offers senior programs (55+ yoga, card games, badminton, Senior Chair Wellness, Pickleball), adult sports, youth programs, Teen Center ($20/yr); standard recreation department services
+Note: Researched Grover Beach Community Services (October 2025) — standard recreation department offerings (recreation programs and classes for all ages, special events, summer concerts, park/facility rentals); no specific programs identified for target audience beyond basic recreation services; existing Directory entry adequate
+Note: Added Morro Bay Parks & Recreation to Directory (October 2025) — offers youth programs, aquatics, senior activities, adult sports, fitness classes (Freestyle Fitness, Zumba), scholarship applications available; standard recreation department services
+Note: Added Paso Robles Parks & Recreation to Directory (October 2025) — offers free Teen Center and Open Gym programs, Recreation Scholarship Program (all ages), 200+ recreation options including camps/classes/lessons/leagues/events; standard recreation department services
+Note: Enhanced Pismo Beach Recreation Division entry in Directory (October 2025) — offers Active Adult Socials, adult classes, excursions/trips, special events, sports programs, youth programs, public art projects; standard recreation department services
 -->
 
 1. [Community yoga classes](https://localwiki.org/slo/Low-Cost_Yoga) (typically free or pay-what-you-can)
@@ -3280,13 +3280,13 @@ Note: Enhanced Pismo Beach Recreation Division entry in Directory (October 2025)
 1. [SLO Skate Park](https://sloskatepark.wordpress.com/)
 1. Rec centers and Senior centers and Community centers
    - City of SLO Facilities: 23 parks (106 acres) with lighted basketball/pickleball courts, tennis courts, swimming pools, volleyball courts, skate parks, soccer/softball fields, playgrounds, trails, putting greens
-   - Key Locations: 995 Palm Street SLO (capacity 100+, conference rooms, kitchen), 680 Industrial Way
+   - Key Locations: <a href="#" class="map-link" data-lat="35.284113" data-lon="-120.661123" data-zoom="17" data-label="Ludwick Community Center">864 Santa Rosa Street SLO</a>, <a href="#" class="map-link" data-lat="35.251822" data-lon="-120.646727" data-zoom="16" data-label="Damon-Garcia Sports Fields">680 Industrial Way</a>
    - County Parks: Lopez Lake (boating, fishing, camping, biking), various trails, golf courses, campgrounds, pools, picnic sites
       - Phone/Email: See [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area) in the [Directory](Directory.md)
    - Contact: Parks & Recreation [805-781-7300](tel:+1-805-781-7300), SLO Swim Center [www.sloswimcenter.org](https://www.sloswimcenter.org), rainy day closures [805-781-7301](tel:+1-805-781-7301)
    - Registration: Online at [apm.activecommunities.com/sloparksandrec](https://apm.activecommunities.com/sloparksandrec) [Source: https://www.slocity.org/, https://slocountyparks.com/]
    - [**SLO Senior Center**](Directory.md#SLO-Senior-Center)
-   - Damon-Garcia Sports Complex: 680 Industrial Way, SLO, [805-781-7222](tel:+1-805-781-7222)
+   - Damon-Garcia Sports Complex: <a href="#" class="map-link" data-lat="35.251822" data-lon="-120.646727" data-zoom="16" data-label="Damon-Garcia Sports Fields">680 Industrial Way, SLO</a>, [805-781-7222](tel:+1-805-781-7222)
       - Facilities: 4 full-size soccer fields (can be reconfigured into 7 smaller fields), rugby fields, concession stand, restrooms
       - Hours: Daily 8am–10pm (reservations required, no unpermitted play allowed)
       - Use: Competitive soccer/rugby play, tournaments; managed by Parks & Recreation
@@ -3417,9 +3417,9 @@ Grants do not cover exams or testing.
 1. **[Arroyo Grande Citizen RequestTracker](https://www.arroyogrande.org/RequestTracker.aspx)**
    - What’s Available: Online reporting system for community issues including animals, graffiti, parks/playgrounds, police matters, street lights/traffic signals, street signs, streets/sidewalks, trees, and water/wastewater issues
    - How to use: Select category and form online, submit concerns, and track progress of existing requests
-   - Access: Available 24/7 online at city website [Source: [arroyogrande.org](https://www.arroyogrande.org/RequestTracker.aspx)]
+   - Access: Available 24/7 online at city website <!-- Source: [arroyogrande.org](https://www.arroyogrande.org/RequestTracker.aspx) -->
 1. **Additional Regional Reporting Systems** (pending human review)
-   - **[SLO County Sheriff Online Reporting](https://www.slocounty.ca.gov/departments/sheriff-coroner/public-information/services/make-a-report)**: For incidents in unincorporated areas of SLO County; non-emergency dispatch: [805-781-7312](tel:+1-805-781-7312) [Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/public-information/services/make-a-report)]
+   - **[SLO County Sheriff Online Reporting](https://www.slocounty.ca.gov/departments/sheriff-coroner/public-information/services/make-a-report)**: For incidents in unincorporated areas of SLO County; non-emergency dispatch: [805-781-7312](tel:+1-805-781-7312) <!-- Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/public-information/services/make-a-report) -->
    - **[Pismo Beach Police Online Reporting](https://report.citizenserviceportal.com/Home/Agency?AgencyCode=PBPD)**: For non-emergency police reports; also has [Citizenserve Online Portal](https://www5.citizenserve.com/Portal/?installationid=103) for general city requests
    - **North County Cities**: Atascadero, Paso Robles, Templeton, and other North County jurisdictions may have separate reporting systems; contact individual city offices directly for their current online reporting options
    - **North Coast Cities**: Morro Bay, Los Osos, Cambria, Cayucos and other coastal communities may have separate reporting systems; contact individual city offices directly
@@ -3432,35 +3432,35 @@ Grants do not cover exams or testing.
 1. **[(County) Homeless Services Division](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division)**—Implements countywide plan to address homelessness. Offers "Get Involved" opportunities, quarterly Homelessness Dashboard, and public meeting participation. Both entities encourage community stakeholder engagement and public advocacy input.
    - **HSOC Meetings**: Open to public, held every other month (Jan/Mar/May/Jul/Sep/Nov) at 1pm; in-person attendance, Zoom video call, or phone dial-in; visit [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) for current schedules
    - **[Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard)** summarizes information collected in the Homeless Management Information System (HMIS).
-1. **County Board of Supervisors**: Meetings most Tuesdays 9am at 1055 Monterey Street; submit written comments to [clerkoftheboard@co.slo.ca.us](mailto:clerkoftheboard@co.slo.ca.us) (indicate agenda item #); agendas posted 6 days prior
-1. **SLO City Council**: Meetings at 990 Palm Street; complete Speaker Card for 3-minute comment or call [805-781-7164](tel:+1-805-781-7164) (voicemail), email [emailcouncil@slocity.org](mailto:emailcouncil@slocity.org), or video comments (mp4); submit 3+ hours before meeting
+1. **County Board of Supervisors**: Meetings most Tuesdays 9am at <a href="#" class="map-link" data-lat="35.282079" data-lon="-120.660193" data-zoom="17" data-label="County Board of Supervisors">1055 Monterey Street, SLO</a>; submit written comments to [clerkoftheboard@co.slo.ca.us](mailto:clerkoftheboard@co.slo.ca.us) (indicate agenda item #); agendas posted 6 days prior
+1. **SLO City Council**: Meetings at <a href="#" class="map-link" data-lat="35.282771" data-lon="-120.662627" data-zoom="17" data-label="SLO City Hall">990 Palm Street</a>; complete Speaker Card for 3-minute comment or call [805-781-7164](tel:+1-805-781-7164) (voicemail), email [emailcouncil@slocity.org](mailto:emailcouncil@slocity.org), or video comments (mp4); submit 3+ hours before meeting
    - Free Parking: City Council attendees get 1-hour validation at 919 Palm Street or 871 Marsh Street garages [Source: https://www.slocounty.ca.gov/, https://www.slocity.org/]
-1. **Pismo Beach City Council**: 1st and 3rd Tuesdays 5:30pm, Council Chamber, 760 Mattie Road. Hybrid format (in-person/virtual). Contact info at [pismobeach.org](https://www.pismobeach.org/60/City-Council)
-1. **Grover Beach City Council**: 2nd and 4th Mondays 6pm (Closed Session 5pm), 154 S. Eighth Street. Agenda available by 5pm Thursday before meeting. Contact info at [grover.org](https://www.grover.org/71/City-Council)
+1. **Pismo Beach City Council**: 1st and 3rd Tuesdays 5:30pm, Council Chamber, <a href="#" class="map-link" data-lat="35.157591" data-lon="-120.668458" data-zoom="17" data-label="Pismo Beach City Hall">760 Mattie Road</a>. Hybrid format (in-person/virtual). Contact info at [pismobeach.org](https://www.pismobeach.org/60/City-Council)
+1. **Grover Beach City Council**: 2nd and 4th Mondays 6pm (Closed Session 5pm), <a href="#" class="map-link" data-lat="35.120909" data-lon="-120.621852" data-zoom="17" data-label="Grover Beach City Hall">154 S. Eighth Street</a>. Agenda available by 5pm Thursday before meeting. Contact info at [grover.org](https://www.grover.org/71/City-Council)
 1. **Arroyo Grande City Council**: Meetings televised live on government access channel 20, rebroadcast daily at 9am, 6pm, 1am. Contact info at [arroyogrande.org](https://www.arroyogrande.org/201/City-Council)
-1. **Oceano Community Services District**: 2nd Wednesday monthly 6pm (Closed Session 5:30pm when scheduled), 1655 Front Street, Oceano. Contact info at [oceanocsd.org](https://www.oceanocsd.org/)
+1. **Oceano Community Services District**: 2nd Wednesday monthly 6pm (Closed Session 5:30pm when scheduled), <a href="#" class="map-link" data-lat="35.102534" data-lon="-120.616860" data-zoom="17" data-label="Oceano Community Services District">1655 Front Street, Oceano</a>. Contact info at [oceanocsd.org](https://www.oceanocsd.org/)
 1. **North County City Councils** (pending human review)
-   - **Atascadero City Council**: 2nd and 4th Tuesdays 6pm (Closed Session 5pm when scheduled), City Hall Council Chambers, 6500 Palma Ave., Atascadero. Agendas available on city website. Contact info at [atascadero.org](https://www.atascadero.org/); phone [805-470-3400](tel:+1-805-470-3400). Public comments can be made in person or submitted in writing. [Source: [atascadero.org](https://www.atascadero.org/)]
-   - **Paso Robles City Council**: 1st and 3rd Tuesdays 6:30pm, City Council Chamber, Library/Conference Center, 1000 Spring St., Paso Robles. Public comment available in person; agendas posted on city website. Contact info at [prcity.com](https://www.prcity.com/); phone [805-237-3960](tel:+1-805-237-3960); homeless-specific questions: [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com). [Source: [prcity.com](https://www.prcity.com/)]
-   - **Templeton Community Services District**: 3rd Wednesday monthly 7pm, CSD Conference Room, 420 Crocker St., Templeton. Contact info at [templetoncsd.org](https://www.templetoncsd.org/); phone [805-434-4900](tel:+1-805-434-4900). [Source: [templetoncsd.org](https://www.templetoncsd.org/)]
+   - **Atascadero City Council**: 2nd and 4th Tuesdays 6pm (Closed Session 5pm when scheduled), City Hall Council Chambers, <a href="#" class="map-link" data-lat="35.489850" data-lon="-120.667175" data-zoom="17" data-label="Atascadero City Council">6500 Palma Ave., Atascadero</a>. Agendas available on city website. Contact info at [atascadero.org](https://www.atascadero.org/); phone [805-470-3400](tel:+1-805-470-3400). Public comments can be made in person or submitted in writing. <!-- Source: [atascadero.org](https://www.atascadero.org/) -->
+   - **Paso Robles City Council**: 1st and 3rd Tuesdays 6:30pm, City Council Chamber, Library/Conference Center, <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="Paso Robles Library">1000 Spring St., Paso Robles</a>. Public comment available in person; agendas posted on city website. Contact info at [prcity.com](https://www.prcity.com/); phone [805-237-3960](tel:+1-805-237-3960); homeless-specific questions: [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com). <!-- Source: [prcity.com](https://www.prcity.com/) -->
+   - **Templeton Community Services District**: 3rd Wednesday monthly 7pm, CSD Conference Room, <a href="#" class="map-link" data-lat="35.549923" data-lon="-120.706755" data-zoom="17" data-label="Templeton Community Services District">420 Crocker St., Templeton</a>. Contact info at [templetoncsd.org](https://www.templetoncsd.org/); phone [805-434-4900](tel:+1-805-434-4900). <!-- Source: [templetoncsd.org](https://www.templetoncsd.org/) -->
 1. **North Coast / Estero Bay City Councils and Districts** (pending human review)
-   - **Morro Bay City Council**: 2nd and 4th Tuesdays 6pm (Closed Session 5pm when scheduled), Council Chambers, 595 Harbor St., Morro Bay. Hybrid format (in-person and remote participation). Contact info at [morro-bay.ca.us](https://www.morro-bay.ca.us/); phone [805-772-6200](tel:+1-805-772-6200). [Source: [morro-bay.ca.us](https://www.morro-bay.ca.us/)]
-   - **Los Osos Community Services District**: 2nd Thursday monthly 6pm, District Office, 2122 9th St., Los Osos. Contact info at [losososcsd.org](https://www.losososcsd.org/); phone [805-528-9370](tel:+1-805-528-9370). [Source: [losososcsd.org](https://www.losososcsd.org/)]
-   - **Cambria Community Services District**: 2nd and 4th Thursdays 3pm, CCSD Meeting Room, 1316 Tamsen St., Cambria. Contact info at [cambriacsd.org](https://www.cambriacsd.org/); phone [805-927-6223](tel:+1-805-927-6223). [Source: [cambriacsd.org](https://www.cambriacsd.org/)]
+   - **Morro Bay City Council**: 2nd and 4th Tuesdays 6pm (Closed Session 5pm when scheduled), Council Chambers, <a href="#" class="map-link" data-lat="35.367137" data-lon="-120.846749" data-zoom="17" data-label="Morro Bay City Council">595 Harbor St., Morro Bay</a>. Hybrid format (in-person and remote participation). Contact info at [morro-bay.ca.us](https://www.morro-bay.ca.us/); phone [805-772-6200](tel:+1-805-772-6200). <!-- Source: [morro-bay.ca.us](https://www.morro-bay.ca.us/) -->
+   - **Los Osos Community Services District**: 2nd Thursday monthly 6pm, District Office, <a href="#" class="map-link" data-lat="35.312625" data-lon="-120.832927" data-zoom="17" data-label="Los Osos CSD">2122 9th St., Los Osos</a>. Contact info at [losososcsd.org](https://www.losososcsd.org/); phone [805-528-9370](tel:+1-805-528-9370). <!-- Source: [losososcsd.org](https://www.losososcsd.org/) -->
+   - **Cambria Community Services District**: 2nd and 4th Thursdays 3pm, CCSD Meeting Room, <a href="#" class="map-link" data-lat="35.562923" data-lon="-121.090281" data-zoom="17" data-label="CCSD Meeting Room">1316 Tamsen St., Cambria</a>. Contact info at [cambriacsd.org](https://www.cambriacsd.org/); phone [805-927-6223](tel:+1-805-927-6223). <!-- Source: [cambriacsd.org](https://www.cambriacsd.org/) -->
    - **Cayucos Sanitary District**: (No regular city council; unincorporated area under County jurisdiction; contact County Board of Supervisors)
 1. **Reporting Issues and Misconduct Complaints:**
-    - **Police misconduct (SLO City)**: File complaints at [Citizen Complaints & Commendations](https://www.slocity.org/government/department-directory/police-department/citizen-complaints-commendations) or contact Police Business Line [805-781-7317](tel:+1-805-781-7317). Address: 1042 Walnut Street, SLO [Source: [slocity.org](https://www.slocity.org/government/department-directory/police-department/citizen-complaints-commendations)]
+    - **Police misconduct (SLO City)**: File complaints at [Citizen Complaints & Commendations](https://www.slocity.org/government/department-directory/police-department/citizen-complaints-commendations) or contact Police Business Line [805-781-7317](tel:+1-805-781-7317). Address: 1042 Walnut Street, SLO <!-- Source: [slocity.org](https://www.slocity.org/government/department-directory/police-department/citizen-complaints-commendations) -->
     - **Police misconduct (North County)** (pending human review):
-       - **Atascadero Police Department**: Contact at 5505 El Camino Real, Atascadero; phone [805-461-5051](tel:+1-805-461-5051). File complaints in person, by phone, or in writing. [Source: [atascadero.org](https://www.atascadero.org/)]
-       - **Paso Robles Police Department**: Contact at 900 Park St., Paso Robles; phone [805-237-6464](tel:+1-805-237-6464). Complaint forms available at police department or city website. [Source: [prcity.com](https://www.prcity.com/)]
+       - **Atascadero Police Department**: Contact at <a href="#" class="map-link" data-lat="35.491037" data-lon="-120.672477" data-zoom="17" data-label="Atascadero Police Department">5505 El Camino Real, Atascadero</a>; phone [805-461-5051](tel:+1-805-461-5051). File complaints in person, by phone, or in writing. <!-- Source: [atascadero.org](https://www.atascadero.org/) -->
+       - **Paso Robles Police Department**: Contact at <a href="#" class="map-link" data-lat="35.623923" data-lon="-120.689345" data-zoom="17" data-label="Paso Robles Police Department">900 Park St., Paso Robles</a>; phone [805-237-6464](tel:+1-805-237-6464). Complaint forms available at police department or city website. <!-- Source: [prcity.com](https://www.prcity.com/) -->
     - **Police misconduct (North Coast / Five Cities)** (pending human review):
-       - **Morro Bay Police Department**: Contact at 850 Morro Bay Blvd., Morro Bay; phone [805-772-6225](tel:+1-805-772-6225). [Source: [morro-bay.ca.us](https://www.morro-bay.ca.us/)]
-       - **Grover Beach Police Department**: Contact at 154 S. 8th St., Grover Beach; phone [805-473-4511](tel:+1-805-473-4511). [Source: [grover.org](https://www.grover.org/)]
-       - **Pismo Beach Police Department**: Contact at 1000 Bello St., Pismo Beach; phone [805-773-2208](tel:+1-805-773-2208). [Source: [pismobeach.org](https://www.pismobeach.org/)]
-       - **Arroyo Grande Police Department**: Contact at 200 N. Halcyon Rd., Arroyo Grande; phone [805-473-5100](tel:+1-805-473-5100). [Source: [arroyogrande.org](https://www.arroyogrande.org/)]
+       - **Morro Bay Police Department**: Contact at <a href="#" class="map-link" data-lat="35.365808" data-lon="-120.842788" data-zoom="17" data-label="Morro Bay Police Department">850 Morro Bay Blvd., Morro Bay</a>; phone [805-772-6225](tel:+1-805-772-6225). <!-- Source: [morro-bay.ca.us](https://www.morro-bay.ca.us/) -->
+       - **Grover Beach Police Department**: Contact at <a href="#" class="map-link" data-lat="35.120716" data-lon="-120.622174" data-zoom="17" data-label="Grover Beach Police Department">154 S. 8th St., Grover Beach</a>; phone [805-473-4511](tel:+1-805-473-4511). <!-- Source: [grover.org](https://www.grover.org/) -->
+       - **Pismo Beach Police Department**: Contact at <a href="#" class="map-link" data-lat="35.144568" data-lon="-120.640828" data-zoom="17" data-label="Pismo Beach Police Department">1000 Bello St., Pismo Beach</a>; phone [805-773-2208](tel:+1-805-773-2208). <!-- Source: [pismobeach.org](https://www.pismobeach.org/) -->
+       - **Arroyo Grande Police Department**: Contact at <a href="#" class="map-link" data-lat="35.120029" data-lon="-120.591207" data-zoom="17" data-label="Arroyo Grande Police Department">200 N. Halcyon Rd., Arroyo Grande</a>; phone [805-473-5100](tel:+1-805-473-5100). <!-- Source: [arroyogrande.org](https://www.arroyogrande.org/) -->
     - **County employee/department issues**: First contact the specific department directly. If unsatisfied, file complaint with Administrative Office at [Citizen Complaint Investigations](https://www.slocounty.ca.gov/departments/administrative-office/services/citizen-complaint-investigations). Address: 1055 Monterey Street, D430, San Luis Obispo CA 93408, Phone: [805-781-5011](tel:+1-805-781-5011).
-    - **Sheriff's Office**: Contact at 1585 Kansas Avenue, SLO, [805-781-4550](tel:+1-805-781-4550) (main office). Unresolved complaints can be escalated to County Administrative Office [Source: [slosheriff.org](https://www.slosheriff.org/)]
-       - Alternatives to in-person: Call [805-781-4550](tel:+1-805-781-4550) to request complaint form; mail complaint to 1585 Kansas Avenue, San Luis Obispo, CA 93405; use general County complaint process online at the Citizen Complaint Investigations URL above or mail to 1055 Monterey Street, D430, San Luis Obispo CA 93408
+    - **Sheriff's Office**: Contact at <a href="#" class="map-link" data-lat="35.320605" data-lon="-120.726162" data-zoom="17" data-label="Sheriff">1585 Kansas Avenue, SLO</a>, [805-781-4550](tel:+1-805-781-4550) (main office). Unresolved complaints can be escalated to County Administrative Office <!-- Source: [slosheriff.org](https://www.slosheriff.org/) -->
+       - Alternatives to in-person: Call [805-781-4550](tel:+1-805-781-4550) to request complaint form; mail complaint to <a href="#" class="map-link" data-lat="35.320605" data-lon="-120.726162" data-zoom="17" data-label="Sheriff">1585 Kansas Avenue, San Luis Obispo</a>, CA 93405; use general County complaint process online at the Citizen Complaint Investigations URL above or mail to 1055 Monterey Street, D430, San Luis Obispo CA 93408
        - Non-Emergency: [805-781-4550](tel:+1-805-781-4550;ext=3) x3 for non-emergency reporting [Source: https://www.slocounty.ca.gov/, https://www.slosheriff.org/]
     - **County Behavioral Health Patients’ Rights Advocate**: [805-781-4738](tel:+1-805-781-4738) [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/quality-support-services/patients-rights-advocate)
 1. **Voter Registration**—People experiencing homelessness can register to vote in [SLO County](https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/elections-and-voting/voter-registration) by describing where they spend most of their time (cross streets, routes, shelter address, or general location like a park). Requirements: U.S. citizen, 18+ on Election Day, not in prison for felony conviction. Register online at CA Secretary of State website or in-person at Clerk-Recorder office (1055 Monterey Street #D120, SLO, [805-781-5080](tel:+1-805-781-5080)). Must register 15+ days before election. ID not required if lacking California ID or SSN.
@@ -3542,7 +3542,7 @@ Grants do not cover exams or testing.
       - How it works: Public access to professional-grade fabrication tools; staff assistance available for learning new skills
       - Website: [slomakerspace.com](https://www.slomakerspace.com/)
    1. **Shandon Tool Library**: County library branch offers tools for checkout
-      - Location: Shandon Library, 195 N. 2nd St., Shandon
+      - Location: Shandon Library, <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="Shandon Tool Library">195 N. 2nd St., Shandon</a>
       - Tools available: Power tools (drills, saws, sanders, router), outdoor tools (blower, hedge trimmer, pole saw), manual tools (ladders, levels, dollies, workbench)
       - Hours: Tuesday–Wednesday 10am–6pm, Saturday 9am–5pm
       - Access: Complete forms and liability waiver; reserve through library catalog using "Shandon Tool Library"
@@ -3560,7 +3560,7 @@ Grants do not cover exams or testing.
          - Location/Phone/Hours: See [**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) in the [Directory](Directory.md)
          - Source: [habitatslo.org](https://habitatslo.org/)
    1. **Community Art/Craft Studios**
-      - **Anam Cre Pottery Studio**: 1243 Monterey St #100, San Luis Obispo—ceramics classes and workshops
+      - **Anam Cre Pottery Studio**: <a href="#" class="map-link" data-lat="35.283775" data-lon="-120.657610" data-zoom="17" data-label="Anam Cre Pottery Studio">1243 Monterey St #100, SLO</a>—ceramics classes and workshops
       - **Cuesta College Community Education**: Arts and crafts classes open to public; **county-wide access** at three campuses (SLO, North County/Paso Robles, South County/Arroyo Grande)
          - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
       - **The Pottery (Grover Beach & Atascadero)**: Community ceramics studios with classes, workshops, open studios, memberships; **county-wide locations** serving Five Cities and North County

@@ -1,6 +1,6 @@
 # To-do list
 
-1. Make the space between a link icon (an icon that suggests a tel:, mailto:, or external link) and the link text, a non-breaking space, so that the icon and the link text always appear on the same line.
+1. ~~Make the space between a link icon (an icon that suggests a tel:, mailto:, or external link) and the link text, a non-breaking space, so that the icon and the link text always appear on the same line.~~ ✓
 
 1. ~~Fine-tune the styling of the web app to more closely match the Shower the People style (e.g. font). That font might not be appropriate to use everywhere (for readability reasons) but it can probably safely be used for headings and/or UI elements. See the "Branding" section of @design.md . If you do use the font in the app; adjust the licensing documentation appropriately.~~ ✓
 

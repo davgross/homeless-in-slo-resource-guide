@@ -883,7 +883,9 @@
 ## <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a> / <a id="Oceano-Campground">Oceano Campground</a>
 
 - [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
-- Location: 494 Air Park Dr., Oceano <a class="map-link" data-lat="35.104656" data-lon="-120.625624" data-zoom="17" data-label="Coastal Dunes RV Park & Campground">📍 Map</a>
+- Locations:
+   - 494 Air Park Dr., Oceano <a class="map-link" data-lat="35.104656" data-lon="-120.625624" data-zoom="17" data-label="Oceano Campground">📍 Map</a>
+   - 1001 Pacific Blvd. <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes RV Park">📍 Map</a>
 - Phone: [805-781-4900](tel:+1-805-781-4900) M–Th 8am–4:30pm; F–Su 8am–6pm, [805-781-5930](tel:+1-805-781-5930) (reservations)
 
 ## <a id="CoastHills-Credit-Union">CoastHills Credit Union</a>
@@ -1368,7 +1370,7 @@
 - Locations:
    - 1825 San Ramon Rd., Atascadero <a href="#" class="map-link" data-lat="35.513633" data-lon="-120.702720" data-zoom="17" data-label="Gryphon Society">📍 Map</a>
    - 444 N. 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.126139" data-lon="-120.625919" data-zoom="17" data-label="Gryphon Society">📍 Map</a>
-   <!-- To-do: some notes here suggested two men’s homes in Grover Beach? One men’s and one women’s home in SLO? If so, we should mention this both here and in the resource guide, but we should carefully verify this first. -->
+   <!-- Note: Website confirms they operate "gender specific sober living homes" but does not publicly list which addresses are for men vs. women. Separate phone numbers listed below suggest gender-specific contact points. (verified October 2025) -->
 - Phone:
    - [805-550-8140](tel:+1-805-550-8140) (men)
    - [805-748-8491](tel:+1-805-748-8491) (women)
@@ -1482,8 +1484,8 @@ This program helps ensure uninsured patients can access necessary medical care w
 ## <a id="Immigrant-Legal-Defense">Immigrant Legal Defense (ILD)</a>
 
 <!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
-- Location: Cal Poly Dream Center, Cal Poly SLO campus
-<!-- To-do: is that even a location? I can't locate any building with that name on campus -->
+- Location: Cal Poly Dream Center, Science Building (Building 52), Room E-11, Cal Poly SLO campus <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Dream Center">📍 Map</a>
+- Phone: [805-756-6362](tel:+1-805-756-6362)
 - How to access: Schedule appointments via Calendly at [calendly.com/csulegalservices/ild](https://calendly.com/csulegalservices/ild) or through Dream Center website at [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
 <!-- Note: No standalone phone number, email, or physical address publicly listed (as of October 2025); contact via online appointment system only -->
 
@@ -2726,10 +2728,12 @@ This program helps ensure uninsured patients can access necessary medical care w
 
 ## <a id="SLO-County-Bar-Association">SLO County Bar Association Legal Services</a>
 
+<!-- Source: https://slobarlris.org/contact/ -->
 - [slobarlris.org](https://slobarlris.org/)
-<!-- To-do: add correct location -->
-- Phone: [805-541-5505](tel:+1-805-541-5505)
-- Hours: Clinic appointments Tu/Th 5-6pm
+- Mailing address: P.O. Box 585, SLO, CA 93406
+- Phone: [805-541-5502](tel:+1-805-541-5502)
+- Email: [lris@slobar.org](mailto:lris@slobar.org)
+<!-- Note: No physical walk-in location; operates via phone interviews and online request forms only (verified October 2025) -->
 
 ## <a id="SLO-County-Behavioral-Health">SLO County Behavioral Health</a>
 
@@ -2739,9 +2743,16 @@ This program helps ensure uninsured patients can access necessary medical care w
    - Main Office: 2180 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274722" data-lon="-120.646040" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a>
    - Arroyo Grande: 1350 Grand Ave. <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a> — [805-474-2154](tel:+1-805-474-2154)
    - Atascadero Health Campus: 5575 Hospital Dr. <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a>
-   - Grover Beach: (multiple locations for youth and adult services) <!-- To-do: list those locations here -->
+   - Grover Beach:
+      - Youth & Adult Drug and Alcohol Services: 1523 Longbranch Ave. <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a> — [805-473-7080](tel:+1-805-473-7080)
+      - Youth Mental Health Services: 1666 Ramona Ave. <a href="#" class="map-link" data-lat="35.119877" data-lon="-120.612731" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a> — [805-473-7060](tel:+1-805-473-7060)
    - Paso Robles Health Campus: 805 4th St. <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a>
-   - SLO: (multiple facilities for adult mental health, drug and alcohol services, youth services, and psychiatric health facility) <!-- To-do: list those locations here -->
+   - SLO:
+      - Adult Drug and Alcohol Services: 2180 Johnson Ave. <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a> — [805-781-4275](tel:+1-805-781-4275)
+      - Adult Mental Health Services: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a> — [805-781-4700](tel:+1-805-781-4700)
+      - Youth Mental Health Services: 2975 McMillan Suite 160 <a href="#" class="map-link" data-lat="35.263533" data-lon="-120.648100" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a> — [805-781-4179](tel:+1-805-781-4179)
+      - Psychiatric Health Facility: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a> — [800-838-1381](tel:+1-800-838-1381)
+      - Martha's Place Children's Center (Ages 0-5): 2925 McMillan Ave. Suite 108 <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Behavioral Health">📍 Map</a> — [805-781-4948](tel:+1-805-781-4948)
 - Phone:
    - Behavioral Health Access Line: [800-838-1381](tel:+1-800-838-1381)
    - Local mental health crisis hotline: [800-783-0607](tel:+1-800-783-0607)
@@ -3399,8 +3410,8 @@ There are several urgent care options, including:
 
 ## <a id="Village-Thrift">Village Thrift</a>
 
-<!-- To-do: Verify that this actually exists; documentation is minimal. -->
 <!-- Source: https://www.yellowpages.com/atascadero-ca/mip/village-thrift-store-19439025 -->
+<!-- Note: Confirmed operational with customer reviews from 2025; NCI Affiliates may operate multiple thrift store locations in the area (verified October 2025) -->
 - [nciaffiliates.org/thrift-stores](https://nciaffiliates.org/thrift-stores/)
 - Location: 8681 El Camino Real, Atascadero (The Oaks Shopping Center)
 - Phone: [805-462-0500](tel:+1-805-462-0500)
