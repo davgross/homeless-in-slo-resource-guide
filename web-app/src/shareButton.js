@@ -20,12 +20,16 @@ export function initShareButton() {
 
 /**
  * Handle share button click
+ * Always shares the home page URL (since we have section-specific share buttons)
  */
 async function handleShare() {
+  // Always share the home page URL
+  const homeUrl = `${window.location.origin}${window.location.pathname}`;
+
   const shareData = {
     title: strings.share.main.title,
     text: strings.share.main.text,
-    url: window.location.href
+    url: homeUrl
   };
 
   // Try Web Share API first (mobile-friendly)
@@ -37,24 +41,25 @@ async function handleShare() {
       // User cancelled or error occurred
       if (err.name !== 'AbortError') {
         console.error('Share failed:', err);
-        fallbackCopyLink();
+        fallbackCopyLink(homeUrl);
       }
     }
   } else {
     // Fallback: copy link to clipboard
-    fallbackCopyLink();
+    fallbackCopyLink(homeUrl);
   }
 }
 
 /**
  * Fallback: Copy link to clipboard and show notification
  */
-function fallbackCopyLink() {
-  const url = window.location.href;
+function fallbackCopyLink(url) {
+  // Use provided URL or fall back to current page URL
+  const urlToCopy = url || window.location.href;
 
   // Try modern clipboard API first
   if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(url)
+    navigator.clipboard.writeText(urlToCopy)
       .then(() => {
         showNotification(strings.share.notifications.linkCopied);
       })
@@ -65,7 +70,7 @@ function fallbackCopyLink() {
   } else {
     // Very old fallback: create temporary textarea
     const textarea = document.createElement('textarea');
-    textarea.value = url;
+    textarea.value = urlToCopy;
     textarea.style.position = 'fixed';
     textarea.style.opacity = '0';
     document.body.appendChild(textarea);

@@ -191,6 +191,47 @@ export class FeedbackSystem {
     this.screenshot = null;
   }
 
+  // Find the nearest anchor in or above the viewport
+  findNearestAnchor(sectionElement) {
+    // Find all anchors with IDs in the current section
+    const anchors = Array.from(sectionElement.querySelectorAll('a[id]'));
+    if (anchors.length === 0) return null;
+
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    const viewportHeight = window.innerHeight;
+    const headerHeight = 80; // Account for fixed header
+
+    let nearestAnchor = null;
+    let nearestDistance = Infinity;
+
+    for (const anchor of anchors) {
+      const rect = anchor.getBoundingClientRect();
+      const anchorTop = rect.top + scrollTop;
+
+      // Distance from the top of the viewport (accounting for header)
+      const distanceFromViewportTop = rect.top - headerHeight;
+
+      // Prefer anchors in the viewport
+      if (rect.top >= headerHeight && rect.top <= viewportHeight) {
+        // In viewport - prefer the one closest to the top
+        if (distanceFromViewportTop < nearestDistance) {
+          nearestDistance = distanceFromViewportTop;
+          nearestAnchor = anchor;
+        }
+      } else if (rect.top < headerHeight) {
+        // Above viewport - find the closest one above
+        const distanceAbove = Math.abs(distanceFromViewportTop);
+        if (!nearestAnchor || rect.top > (nearestAnchor.getBoundingClientRect().top)) {
+          // This is below our current best (or we have no best yet)
+          nearestAnchor = anchor;
+          nearestDistance = distanceAbove;
+        }
+      }
+    }
+
+    return nearestAnchor;
+  }
+
   // Capture current context
   captureContext() {
     // Get current section from URL or state
@@ -205,7 +246,7 @@ export class FeedbackSystem {
     const directoryItem = document.getElementById('context-directory-item');
     const directorySpan = document.getElementById('context-directory');
 
-    let contextUrl = window.location.href;
+    let contextUrl;
 
     if (viewingDirectory && window.appState && window.appState.currentDirectoryEntry) {
       contextSection = 'directory (modal open)';
@@ -218,6 +259,19 @@ export class FeedbackSystem {
     } else {
       directoryItem.style.display = 'none';
       directorySpan.textContent = '';
+
+      // Find the nearest visible anchor to determine actual location
+      const sectionElement = document.getElementById(`${section}-section`);
+      const nearestAnchor = sectionElement ? this.findNearestAnchor(sectionElement) : null;
+
+      if (nearestAnchor && nearestAnchor.id) {
+        const anchorId = nearestAnchor.id;
+        const anchorText = nearestAnchor.textContent.trim();
+        contextUrl = `${window.location.origin}${window.location.pathname}?section=${section}#${anchorId}`;
+        contextSection = `${section} (viewing: ${anchorText})`;
+      } else {
+        contextUrl = `${window.location.origin}${window.location.pathname}?section=${section}`;
+      }
     }
 
     // Update context display
