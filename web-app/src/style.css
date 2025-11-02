@@ -332,6 +332,10 @@ a[target="_blank"]::after {
 }
 
 /* Phone links */
+a[href^="tel:"] {
+  white-space: nowrap;
+}
+
 a[href^="tel:"]::before {
   content: "📞\00a0";
 }
