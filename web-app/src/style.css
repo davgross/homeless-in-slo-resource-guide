@@ -1045,13 +1045,13 @@ tbody tr:hover {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   background-color: var(--secondary-color);
   color: white;
   border: none;
-  font-size: 28px;
+  font-size: 24px;
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   z-index: 999;
@@ -1330,9 +1330,9 @@ tbody tr:hover {
   }
 
   .feedback-fab {
-    width: 50px;
-    height: 50px;
-    font-size: 24px;
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
     bottom: 15px;
     right: 15px;
   }
