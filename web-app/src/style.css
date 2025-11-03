@@ -443,7 +443,7 @@ a[href^="sms:"] {
 }
 
 a[href^="sms:"]::before {
-  content: "💬\00a0";
+  content: "📱\00a0";
 }
 
 a[href^="sms:"]:hover {
@@ -957,7 +957,7 @@ tbody tr:hover {
 /* Table of Contents navigation button */
 #toc-btn {
   position: fixed;
-  top: 90px;
+  top: 90px; /* Fallback value; dynamically adjusted by JavaScript based on header height */
   right: 20px;
   width: 50px;
   height: 50px;
@@ -1538,4 +1538,40 @@ tbody tr:hover {
   margin-top: calc(var(--spacing-md) * -1);
   margin-bottom: var(--spacing-lg);
   padding-left: var(--spacing-xl);
+}
+
+/* ===================================
+   Poison Oak Images
+   =================================== */
+
+.poison-oak-images {
+  margin: var(--spacing-lg) 0;
+}
+
+.poison-oak-images p {
+  display: grid;
+  gap: var(--spacing-md);
+  /* Default: 3 columns side-by-side */
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0;
+}
+
+.poison-oak-images img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.poison-oak-images img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Very small screens: stack vertically */
+@media (max-width: 480px) {
+  .poison-oak-images p {
+    grid-template-columns: 1fr;
+  }
 }

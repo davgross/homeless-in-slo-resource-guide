@@ -1478,9 +1478,13 @@ It is a shrub or vine and sometimes also climbs trees and so can appear to be tr
 Its leaves appear in groups of three, but they can have a variety of shapes and colors (dark to pale green, pale orange, bright red).
 The plants sometimes also display clusters of small green, pale, or red berries.
 
-![poison oak: flat green leaves with simple borders](./Images/poison-oak-1.png)
-![poison oak: flat red leaves with undulating borders](./Images/poison-oak-2.png)
-![poison oak: glossy red and green leaves](./Images/poison-oak-3.png)
+<div class="poison-oak-images">
+
+![poison oak: flat green leaves with simple borders](/poison-oak-1.png)
+![poison oak: flat red leaves with undulating borders](/poison-oak-2.png)
+![poison oak: glossy red and green leaves](/poison-oak-3.png)
+
+</div>
 
 The plant exudes an oil that causes a skin rash in people who touch it.
 You do not have to touch the plant to be affected: you just need to touch the oil, which can rub off onto clothing, pet fur, or other items.

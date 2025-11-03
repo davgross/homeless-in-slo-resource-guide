@@ -1369,7 +1369,7 @@
 - Phone: [805-782-0687](tel:+1-805-782-0687)
 - Email: [info@habitatslo.org](mailto:info@habitatslo.org)
 
-**ReStore** (recycled construction and home renovation materials):
+**ReStore** (recycled construction and home renovation materials): <!-- To-do: Are there other ReStore locations in SLO County? -->
 
 - [habitatslo.org/restores](https://habitatslo.org/restores/)
 - Location: 2790 Broad St., SLO <a href="#" class="map-link" data-lat="35.264447" data-lon="-120.651866" data-zoom="17" data-label="Habitat for Humanity ReStore">Map</a>

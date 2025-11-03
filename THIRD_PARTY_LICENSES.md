@@ -11,6 +11,7 @@ This document contains the full license texts for all third-party open-source li
 3. [Vite](#vite) - MIT License
 4. [vite-plugin-pwa](#vite-plugin-pwa) - MIT License
 5. [Montserrat Alternates Font](#montserrat-alternates-font) - SIL Open Font License 1.1
+6. [Poison Oak Images](#poison-oak-images) - CC BY 2.0, CC BY-SA 4.0, CC0 1.0
 
 ---
 
@@ -238,6 +239,46 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 ```
+
+---
+
+## Poison Oak Images
+
+### poison-oak-1.png
+
+**Source:** Wikimedia Commons
+**Original Author:** r.mcminds
+**Original URL:** https://flickr.com/photos/131967103@N02/26747244781
+**Wikimedia URL:** https://commons.wikimedia.org/wiki/File:Poison_Oak.jpg
+**License:** Creative Commons Attribution 2.0 Generic (CC BY 2.0)
+**Modifications:** Cropped and resized from original
+
+**Attribution:** "Poison Oak" by r.mcminds is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/
+
+### poison-oak-2.png
+
+**Source:** Wikimedia Commons
+**Author:** Frank Schulenburg
+**Wikimedia URL:** https://commons.wikimedia.org/wiki/File:Toxicodendron_diversilobum_foliage_at_Samuel_P._Taylor_State_Park.jpg
+**License:** Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0)
+**Modifications:** Cropped and resized from original
+
+**Attribution:** "Toxicodendron diversilobum foliage at Samuel P. Taylor State Park" by Frank Schulenburg is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+
+**Note:** CC BY-SA 4.0 requires that derivative works be licensed under the same or compatible license terms.
+
+### poison-oak-3.png
+
+**Source:** Wikimedia Commons
+**Original Author:** Alan Schmierer
+**Original URL:** https://flickr.com/photos/8101022@N05/2391067502
+**Wikimedia URL:** https://commons.wikimedia.org/wiki/File:POISON_OAK_(toxicodendron_diversilobum)_(4-5-08)_canet_-1_(2391067502).jpg
+**License:** Creative Commons Zero 1.0 (CC0 1.0 - Public Domain Dedication)
+**Modifications:** Cropped and resized from original
+
+**Attribution:** Released into the public domain by Alan Schmierer under CC0 1.0. No attribution required, but recommended as a courtesy.
+
+To view the CC0 license, visit https://creativecommons.org/publicdomain/zero/1.0/
 
 ---
 

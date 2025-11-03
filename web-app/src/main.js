@@ -136,6 +136,16 @@ function initTOCButton() {
   const tocBtn = document.getElementById('toc-btn');
   if (!tocBtn) return;
 
+  // Dynamically position button based on header height
+  function updateTOCButtonPosition() {
+    const header = document.querySelector('.app-header');
+    if (header) {
+      const headerHeight = header.getBoundingClientRect().height;
+      // Position button 10px below the header
+      tocBtn.style.top = `${headerHeight + 10}px`;
+    }
+  }
+
   // Click handler - scroll to Table of Contents
   tocBtn.addEventListener('click', () => {
     // Find the TOC heading in the resources section
@@ -153,6 +163,15 @@ function initTOCButton() {
       tocBtn.classList.remove('visible');
     }
   }
+
+  // Update position on initialization
+  updateTOCButtonPosition();
+
+  // Update position on window resize (handles search bar wrapping)
+  window.addEventListener('resize', updateTOCButtonPosition);
+
+  // Also update position after a short delay to ensure header is fully rendered
+  setTimeout(updateTOCButtonPosition, 100);
 
   // Update visibility when section changes
   // Call immediately and then check periodically for section changes
@@ -321,7 +340,7 @@ function transformTOCToLozenges(container) {
   // Can be replaced with custom SVGs later
   const iconMap = {
     'Emergency Contacts': '📞',
-    'Self-Advocacy': '💬',
+    'Self-Advocacy': '🗣️',
     'Shelter & Housing': '🏠',
     'Property Storage': '📦',
     'Food': '🍴',

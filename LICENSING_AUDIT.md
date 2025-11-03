@@ -97,6 +97,37 @@ All JavaScript, CSS, and HTML files in `/web-app/src/` and `/web-app/index.html`
 
 **Note:** All icons appear to be simple, programmatically-generated placeholder images. Verify they don't inadvertently copy any existing design.
 
+### Poison Oak Images
+
+5. **poison-oak-1.png**
+   - **License:** Creative Commons Attribution 2.0 Generic (CC BY 2.0)
+   - **Copyright:** r.mcminds
+   - **Source:** https://commons.wikimedia.org/wiki/File:Poison_Oak.jpg
+   - **Original:** https://flickr.com/photos/131967103@N02/26747244781
+   - **Modifications:** Cropped and resized from original
+   - **Compliance:** ✅ CC BY 2.0 allows use with attribution
+   - **Attribution Required:** Yes
+   - **Attribution:** "Poison Oak" by r.mcminds is licensed under CC BY 2.0
+
+6. **poison-oak-2.png**
+   - **License:** Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0)
+   - **Copyright:** Frank Schulenburg
+   - **Source:** https://commons.wikimedia.org/wiki/File:Toxicodendron_diversilobum_foliage_at_Samuel_P._Taylor_State_Park.jpg
+   - **Modifications:** Cropped and resized from original
+   - **Compliance:** ✅ CC BY-SA 4.0 allows use with attribution and share-alike requirement
+   - **Attribution Required:** Yes
+   - **Attribution:** "Toxicodendron diversilobum foliage at Samuel P. Taylor State Park" by Frank Schulenburg is licensed under CC BY-SA 4.0
+   - **Share-Alike Note:** Derivative works must be licensed under compatible terms
+
+7. **poison-oak-3.png**
+   - **License:** Creative Commons Zero 1.0 (CC0 1.0 - Public Domain Dedication)
+   - **Copyright:** Released into public domain by Alan Schmierer
+   - **Source:** https://commons.wikimedia.org/wiki/File:POISON_OAK_(toxicodendron_diversilobum)_(4-5-08)_canet_-1_(2391067502).jpg
+   - **Original:** https://flickr.com/photos/8101022@N05/2391067502
+   - **Modifications:** Cropped and resized from original
+   - **Compliance:** ✅ CC0 allows free use without attribution (public domain)
+   - **Attribution Required:** No (but courtesy attribution recommended)
+
 ---
 
 ## Fonts
