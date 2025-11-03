@@ -66,117 +66,41 @@ This guide uses different colors and icons to help you quickly identify what kin
 
 ## <a id="table-of-contents">Table of Contents</a>
 
-1. [Hotlines and Emergency Contacts](#hotlines-and-emergency-contacts)
-1. [Standing Up for Yourself and Communicating with Service Providers](#self-advocacy-and-communicating-with-service-providers)
-1. [Shelter and Housing](#where-to-find-shelter--housing)
-   1. [Eviction Prevention](#eviction-protection)
-   1. [Warming/Cooling Centers](#warming-cooling-centers)
-   1. [Overnight Shelter](#overnight-shelter)
-   1. [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks)
-   1. [Transitional and Long-Term Housing](#transitional-and-long-term-housing)
-   1. [For U.S. Military Veterans](#housing-veterans)
-   1. [Sober Living Homes and Residential Treatment Options](#sober-living-homes)
-1. [Property Storage Options](#property-storage-options)
-   1. [Short-Term](#short-term-property-storage)
-   1. [Long-Term](#long-term-property-storage)
+1. [Emergency Contacts](#hotlines-and-emergency-contacts)
+1. [Self-Advocacy & Communication](#self-advocacy-and-communicating-with-service-providers)
+1. [Shelter & Housing](#where-to-find-shelter--housing)
+1. [Property Storage](#property-storage-options)
 1. [Food](#where-to-get-food)
-   1. [Free Meals](#free-meals)
-   1. [Free Food Pantries](#free-food-pantries)
-   1. [Little Free Pantries](#little-free-pantries)
-   1. [Food Box Distributions](#food-box-distributions)
-   1. [Summer Meal Sites (for Children)](#summer-meal-sites)
-   1. [Senior Meal Programs](#senior-meal-programs)
-   1. [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic)
-   1. [Edible Wild Plants](#edible-wild-plants)
-1. [Where to Refill a Water Bottle](#where-to-refill-a-water-bottle)
+1. [Water Refill](#where-to-refill-a-water-bottle)
 1. [Transportation](#transportation)
-   1. [Public Transit](#public-transit)
-   1. [Transportation Resources for Seniors](#transportation-for-seniors)
-   1. [Transportation to Medical Appointments](#transportation-to-medical-appointments)
-   1. [Bicycles](#bicycles)
-   1. [Automobile Insurance and Repair](#auto-insurance-and-repair)
 1. [Clothing](#where-to-find-free-or-thrift-store-clothing)
-   1. [Free Clothes](#free-clothes)
-   1. [Thrift Stores](#thrift-stores)
 1. [Laundry](#laundry)
-1. [Showers and Hygiene](#showers-and-hygiene)
-   1. [Free Shower Programs](#free-showers)
-   1. [Coin-Operated or Gym Membership Options](#pay-showers)
-1. [Health, Medical Care](#health-medical-care)
-   1. [Emergency Care](#emergency-care)
-   1. [Urgent Care Options](#urgent-care)
-   1. [Health Insurance](#health-insurance)
-   1. [Transportation to Medical Appointments](#transportation-to-medical-appointments) <!-- Subsection actually in Transportation section -->
-   1. [Medical and Assistive Devices](#medical-and-assistive-devices)
-   1. [Prescription Medicines](#prescription-medicines)
-   1. [Dental Care](#dental-care)
-   1. [Vision Care and Eyeglasses](#vision-care)
-   1. [Mental Health](#mental-health)
-   1. [Reproductive Health](#reproductive-health)
-   1. [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation)
-   1. [Chiropractic Treatment](#chiropractic-treatment)
-   1. [Resources for Specific Populations](#medical-resources-specific-populations)
-   1. [Fitness](#fitness)
-   1. [Poison Oak](#poison-oak)
-   1. [Sunburn](#sunburn)
-1. [Recovery, Harm Reduction, and Other Substance-Related Issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
-   1. [Naloxone / Narcan](#naloxone-narcan)
-   1. [Tobacco / Nicotine](#tobacco-nicotine)
-   1. [12-Step and Similar Recovery Programs](#twelve-step)
-   1. [Sober Living Homes and Residential Treatment Options](#sober-living-homes) <!-- Subsection actually in Housing/Shelter section -->
+1. [Showers & Hygiene](#showers-and-hygiene)
+1. [Health & Medical Care](#health-medical-care)
+1. [Substance Use & Recovery](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
 1. [Tattoo Removal](#tattoo-removal)
-1. [End-of-Life Care, Advance Directives, Hospice](#end-of-life-care-advance-directives-hospice)
-   1. [Hospice and Palliative Care](#hospice-and-palliative-care)
-   1. [Advanced Care Directives and Legal Planning](#advance-directives)
-1. [Personal Safety, Deescalation, Self-Defense](#personal-safety-deescalation-self-defense)
-1. [Legal Help & Mediation, Crime Victim Protection](#legal-help--mediation-crime-victim-protection)
-   1. Help for Convicts, Parolees, Probationers, P.C. 290 Registrants, etc.
-   1. Housing Discrimination, Illegal Eviction, etc.
-   1. Help with Benefits, Negotiating with Insurers, etc.
-   1. Reliable “Know Your Rights” Information
-   1. Injury Liability, Worker’s Compensation
-   1. Consumer Protection
-   1. Help for Victims of Crime
-   1. Mediation
-   1. Legal Self-Help / Law Libraries
-   1. Legal Consultation
-   1. Family Law, Child Support
-   1. Immigration Law
-   1. Tax Disputes
-   1. Miscellany
-1. [IDs and Other Documents](#ids-and-other-documents)
-   1. [Social Security Numbers or Cards](#social-security-numbers-or-cards)
-   1. [ID Cards and Driver’s Licenses](#id-cards-drivers-licenses)
-   1. [Birth, Death, and Marriage Certificates](#birth-death-marriage-certificates)
-1. [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc)
-1. [Banking and Money Management](#banking-and-money-management)
-   1. Banks, Credit Unions, etc.
-   1. [Financial Literacy and Money Management](#financial-literacy)
-   1. [Debt Consolidation](#debt-consolidation)
+1. [End-of-Life Planning](#end-of-life-care-advance-directives-hospice)
+1. [Personal Safety](#personal-safety-deescalation-self-defense)
+1. [Legal Help & Victim Services](#legal-help--mediation-crime-victim-protection)
+1. [IDs & Documents](#ids-and-other-documents)
+1. [Mail & PO Boxes](#mail-drops-post-office-boxes-etc)
+1. [Banking & Money](#banking-and-money-management)
 1. [Tax Preparation](#tax-preparation)
-1. [Acute Financial Needs](#acute-financial-needs)
-1. [Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
-1. [Employment, Job Boards, Etc.](#employment-job-boards-etc)
-1. [Education, Job Skills Training, Certification, Tutoring, Literacy](#education-job-skills-training-certification-tutoring-literacy)
-1. [Phones and Phone Service](#free-and-low-cost-phone-services)
-1. [Internet Access / Email / Digital Access](#internet-access--email--digital-access-assistance)
-1. [Charging Stations for Devices](#charging-stations-for-devices)
-1. [Resources for Particular Subgroups](#resources-specific-to-particular-subgroups)
-   1. Veterans
-   1. Children and People with Children
-   1. College Students
-   1. Immigrants
-   1. Seniors
-   1. Prople with Specific Disabilities and Conditions
-   1. GLBTQ
-1. [Peer Support Groups](#peer-support-groups)
-1. [Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering](#recreation-fitness-socializing-connection-religion-community-integration-volunteering)
-1. [Pet Care and Pet Supplies](#pet-care-and-pet-supplies)
-1. [Disaster Planning/Prep (Earthquakes, Fires, Floods)](#disaster-planningprep-earthquakes-fires-floods)
-1. [Advocacy & Lobbying for Homeless Issues](#advocacy--lobbying-for-homeless-issues)
-1. [Miscellaneous Free Items (e.g. Household Goods)](#miscellaneous-free-items-eg-household-goods)
-   1. [Thrift Stores](#thrift-stores) <!-- subsection actually in "Clothing" section -->
-1. [Other Guides, Web Pages, Information Sources](#other-guides-web-pages-information-sources)
+1. [Emergency Financial Help](#acute-financial-needs)
+1. [Social Security & Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
+1. [Employment & Job Boards](#employment-job-boards-etc)
+1. [Education & Job Training](#education-job-skills-training-certification-tutoring-literacy)
+1. [Phones & Phone Service](#free-and-low-cost-phone-services)
+1. [Internet & Email](#internet-access--email--digital-access-assistance)
+1. [Device Charging](#charging-stations-for-devices)
+1. [Resources by Group](#resources-specific-to-particular-subgroups)
+1. [Peer Support](#peer-support-groups)
+1. [Recreation & Community](#recreation-fitness-socializing-connection-religion-community-integration-volunteering)
+1. [Pet Care & Supplies](#pet-care-and-pet-supplies)
+1. [Disaster Preparedness](#disaster-planningprep-earthquakes-fires-floods)
+1. [Advocacy & Organizing](#advocacy--lobbying-for-homeless-issues)
+1. [Free Household Items](#miscellaneous-free-items-eg-household-goods)
+1. [Other Resources](#other-guides-web-pages-information-sources)
 1. [Miscellaneous Tips](#miscellaneous-tips)
 1. [Directory](Directory.md)
 
@@ -354,7 +278,16 @@ Make sure you have a way to get to appointments (see the [Transportation](#trans
 Bring something to do and expect some delays in busy service settings.
 If you need to change an appointment, call ahead rather than simply not showing up.
 
-## <a id="where-to-find-shelter--housing">Shelter and Housing</a>
+## <a id="where-to-find-shelter--housing">Shelter & Housing</a>
+
+**In this section:**
+- [Eviction Prevention](#eviction-protection)
+- [Warming/Cooling Centers](#warming-cooling-centers)
+- [Overnight Shelter](#overnight-shelter)
+- [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks)
+- [Transitional and Long-Term Housing](#transitional-and-long-term-housing)
+- [For U.S. Military Veterans](#housing-veterans)
+- [Sober Living Homes and Residential Treatment Options](#sober-living-homes)
 
 ### <a id="eviction-protection">Eviction Prevention</a>
 
@@ -652,6 +585,16 @@ You can expect to pay about $60–75 per month for the least-expensive and small
 Most storage facilities have daytime hours of operation when you can access the storage units to add or remove property, and are closed to everyone at night.
 
 ## <a id="where-to-get-food">Food</a>
+
+**In this section:**
+- [Free Meals](#free-meals)
+- [Free Food Pantries](#free-food-pantries)
+- [Little Free Pantries](#little-free-pantries)
+- [Food Box Distributions](#food-box-distributions)
+- [Summer Meal Sites (for Children)](#summer-meal-sites)
+- [Senior Meal Programs](#senior-meal-programs)
+- [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic)
+- [Edible Wild Plants](#edible-wild-plants)
 
 <!--
 Note: Investigated "Coast Baptist Church" (October 2025) — likely refers to Central Coast Baptist Church at 153 S 9th St, Grover Beach, 805-489-2150. Five Cities Christian Women Food Pantry is already documented in Directory at its current location (946 Rockaway Ave., hosted by Lifepoint Church).
@@ -1114,7 +1057,24 @@ Some commercial gyms have showers.
 For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers.
 Some Medicare supplement plans have a “Silver Sneakers” program with which you can get free gym memberships.
 
-## <a id="health-medical-care">Health, Medical Care</a>
+## <a id="health-medical-care">Health & Medical Care</a>
+
+**In this section:**
+- [Emergency Care](#emergency-care)
+- [Urgent Care Options](#urgent-care)
+- [Health Insurance](#health-insurance)
+- [Medical and Assistive Devices](#medical-and-assistive-devices)
+- [Prescription Medicines](#prescription-medicines)
+- [Dental Care](#dental-care)
+- [Vision Care and Eyeglasses](#vision-care)
+- [Mental Health](#mental-health)
+- [Reproductive Health](#reproductive-health)
+- [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation)
+- [Chiropractic Treatment](#chiropractic-treatment)
+- [Resources for Specific Populations](#medical-resources-specific-populations)
+- [Fitness](#fitness)
+- [Poison Oak](#poison-oak)
+- [Sunburn](#sunburn)
 
 ### <a id="emergency-care">Emergency Care</a>
 

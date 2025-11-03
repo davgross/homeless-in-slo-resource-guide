@@ -296,6 +296,127 @@ function renderResources() {
 
   // Add share buttons to section headings
   addSectionShareButtons(section);
+
+  // Transform TOC into icon lozenges
+  transformTOCToLozenges(section);
+}
+
+// Transform Table of Contents into icon lozenges
+function transformTOCToLozenges(container) {
+  // Find the TOC section
+  const tocAnchor = container.querySelector('a[id="table-of-contents"]');
+  if (!tocAnchor) return;
+
+  const tocHeading = tocAnchor.closest('h2');
+  if (!tocHeading) return;
+
+  // Find the ordered list that follows the TOC heading
+  let tocList = tocHeading.nextElementSibling;
+  while (tocList && tocList.tagName !== 'OL') {
+    tocList = tocList.nextElementSibling;
+  }
+  if (!tocList) return;
+
+  // Icon mapping - using Unicode emojis as placeholders
+  // Can be replaced with custom SVGs later
+  const iconMap = {
+    'Emergency Contacts': '📞',
+    'Self-Advocacy & Communication': '💬',
+    'Shelter & Housing': '🏠',
+    'Property Storage': '📦',
+    'Food': '🍴',
+    'Water Refill': '💧',
+    'Transportation': '🚌',
+    'Clothing': '👕',
+    'Laundry': '🧺',
+    'Showers & Hygiene': '🚿',
+    'Health & Medical Care': '⚕️',
+    'Substance Use & Recovery': '🔄',
+    'Tattoo Removal': '✨',
+    'End-of-Life Planning': '🕊️',
+    'Personal Safety': '🛡️',
+    'Legal Help & Victim Services': '⚖️',
+    'IDs & Documents': '🪪',
+    'Mail & PO Boxes': '📬',
+    'Banking & Money': '💰',
+    'Tax Preparation': '📊',
+    'Emergency Financial Help': '💵',
+    'Social Security & Benefits': '🏛️',
+    'Employment & Job Boards': '💼',
+    'Education & Job Training': '📚',
+    'Phones & Phone Service': '📱',
+    'Internet & Email': '💻',
+    'Device Charging': '🔌',
+    'Resources by Group': '👥',
+    'Peer Support': '🤝',
+    'Recreation & Community': '🎉',
+    'Pet Care & Supplies': '🐾',
+    'Disaster Preparedness': '🚨',
+    'Advocacy & Organizing': '📢',
+    'Free Household Items': '🏺',
+    'Other Resources': '📖',
+    'Miscellaneous Tips': '💡',
+    'Directory': '📇'
+  };
+
+  // Generic fallback icon for entries without specific icons
+  const genericIcon = '📄';
+
+  // Extract all list items
+  const listItems = Array.from(tocList.querySelectorAll('li'));
+  const sections = listItems.map(li => {
+    const link = li.querySelector('a');
+    if (!link) return null;
+
+    const text = link.textContent.trim();
+    const href = link.getAttribute('href');
+    const icon = iconMap[text] || genericIcon;
+
+    return { text, href, icon };
+  }).filter(item => item !== null);
+
+  // Create lozenge grid container
+  const lozengeGrid = document.createElement('div');
+  lozengeGrid.className = 'toc-lozenge-grid';
+  lozengeGrid.setAttribute('role', 'navigation');
+  lozengeGrid.setAttribute('aria-label', 'Table of Contents');
+
+  // Create lozenge for each section
+  sections.forEach(section => {
+    const lozenge = document.createElement('a');
+    lozenge.className = 'toc-lozenge';
+    lozenge.href = section.href;
+    lozenge.setAttribute('aria-label', section.text);
+
+    // Icon span
+    const iconSpan = document.createElement('span');
+    iconSpan.className = 'toc-lozenge-icon';
+    iconSpan.setAttribute('aria-hidden', 'true');
+    iconSpan.textContent = section.icon;
+
+    // Text span
+    const textSpan = document.createElement('span');
+    textSpan.className = 'toc-lozenge-text';
+    textSpan.textContent = section.text;
+
+    lozenge.appendChild(iconSpan);
+    lozenge.appendChild(textSpan);
+    lozengeGrid.appendChild(lozenge);
+  });
+
+  // Create wrapper to contain both heading and grid with distinct background
+  const wrapper = document.createElement('div');
+  wrapper.className = 'toc-section-wrapper';
+
+  // Insert wrapper before the heading
+  tocHeading.parentNode.insertBefore(wrapper, tocHeading);
+
+  // Move heading and grid into wrapper
+  wrapper.appendChild(tocHeading);
+  wrapper.appendChild(lozengeGrid);
+
+  // Remove the original list
+  tocList.remove();
 }
 
 // Render directory section
