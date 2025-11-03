@@ -66,8 +66,8 @@ This guide uses different colors and icons to help you quickly identify what kin
 
 ## <a id="table-of-contents">Table of Contents</a>
 
-1. [Emergency Contacts](#hotlines-and-emergency-contacts)
-1. [Self-Advocacy & Communication](#self-advocacy-and-communicating-with-service-providers)
+1. [Emergency Contacts](#emergency-contacts)
+1. [Self-Advocacy](#self-advocacy-and-communicating-with-service-providers)
 1. [Shelter & Housing](#where-to-find-shelter--housing)
 1. [Property Storage](#property-storage-options)
 1. [Food](#where-to-get-food)
@@ -79,16 +79,16 @@ This guide uses different colors and icons to help you quickly identify what kin
 1. [Health & Medical Care](#health-medical-care)
 1. [Substance Use & Recovery](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
 1. [Tattoo Removal](#tattoo-removal)
-1. [End-of-Life Planning](#end-of-life-care-advance-directives-hospice)
+1. [End-of-Life Help](#end-of-life-care-advance-directives-hospice)
 1. [Personal Safety](#personal-safety-deescalation-self-defense)
-1. [Legal Help & Victim Services](#legal-help--mediation-crime-victim-protection)
+1. [Legal Help](#legal-help--mediation-crime-victim-protection)
 1. [IDs & Documents](#ids-and-other-documents)
 1. [Mail & PO Boxes](#mail-drops-post-office-boxes-etc)
 1. [Banking & Money](#banking-and-money-management)
 1. [Tax Preparation](#tax-preparation)
 1. [Emergency Financial Help](#acute-financial-needs)
 1. [Social Security & Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
-1. [Employment & Job Boards](#employment-job-boards-etc)
+1. [Obtaining Employment](#employment-job-boards-etc)
 1. [Education & Job Training](#education-job-skills-training-certification-tutoring-literacy)
 1. [Phones & Phone Service](#free-and-low-cost-phone-services)
 1. [Internet & Email](#internet-access--email--digital-access-assistance)
@@ -96,47 +96,47 @@ This guide uses different colors and icons to help you quickly identify what kin
 1. [Resources by Group](#resources-specific-to-particular-subgroups)
 1. [Peer Support](#peer-support-groups)
 1. [Recreation & Community](#recreation-fitness-socializing-connection-religion-community-integration-volunteering)
-1. [Pet Care & Supplies](#pet-care-and-pet-supplies)
+1. [Pet Care](#pet-care-and-pet-supplies)
 1. [Disaster Preparedness](#disaster-planningprep-earthquakes-fires-floods)
 1. [Advocacy & Organizing](#advocacy--lobbying-for-homeless-issues)
-1. [Free Household Items](#miscellaneous-free-items-eg-household-goods)
-1. [Other Resources](#other-guides-web-pages-information-sources)
+1. [Free Stuff](#miscellaneous-free-items)
+1. [Other Guides](#other-guides-web-pages-information-sources)
 1. [Miscellaneous Tips](#miscellaneous-tips)
 1. [Directory](Directory.md)
 
-## <a id="hotlines-and-emergency-contacts">Hotlines and Emergency Contacts</a>
+## <a id="emergency-contacts">Hotlines and Emergency Contacts</a>
 
 <table>
  <thead>
   <tr><th>Phone Number</th><th>Description</th></tr>
  </thead><tbody>
-  <tr><th colspan="2" style="text-align:left;">Emergency and Crisis Lines:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Emergency and Crisis Lines:</th></tr>
    <tr><td><a href="tel:+1-911">911</a></td><td>Medical and safety emergencies</td></tr>
    <tr><td><a href="tel:+1-988">988</a> or <a href="tel:+1-800-273-8255">800-273-8255</a></td><td>National Suicide Prevention Lifeline (<a href="tel:+1-800-799-4889">800-799-4889</a> if you are deaf or hard of hearing)</td></tr>
    <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a> or <a href="tel:+1-805-783-0607">805-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr>
    <tr><td>Text HOME to <a href="sms:741741">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> on-line</td></tr>
    <tr><td><a href="tel:+1-833-317-4673">833-317-4673</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidental emotional support</td></tr>
    <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Mental Health Evaluation Team (MHET) and Mobile Crisis Team: 24/7 psychiatric emergency response throughout SLO County; responds to psychiatric emergency calls and provides assessments for adults or children</td></tr>
-  <tr><th colspan="2" style="text-align:left;">For Young People:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ For Young People:</th></tr>
    <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Youth Crisis Line, for people in California ages 12–24; call or text</td></tr>
    <tr><td><a href="tel:+1-800-786-2929">800-786-2929</a></td><td>National Runaway Safeline: 24/7 confidential support for runaway and homeless </td></tr>
    <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr>
-  <tr><th colspan="2" style="text-align:left;">For LGBTQ People:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ For LGBTQ People:</th></tr>
    <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text “START” to <a href="sms:678678">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr>
    <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr>
-  <tr><th colspan="2" style="text-align:left;">For Victims of Sexual Assault and Intimate Partner Violence:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ For Victims of Sexual Assault and Intimate Partner Violence:</th></tr>
    <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Local sexual assault, sexual abuse, and intimate partner violence crisis line</td></tr>
    <tr><td><a href="tel:+1-800-799-7233">800-799-7233</a></td><td>National Domestic Violence Hotline</td></tr>
-  <tr><th colspan="2" style="text-align:left;">For Parents:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ For Parents:</th></tr>
    <tr><td><a href="tel:+1-833-852-6262">833-852-6262</a></td><td>National Maternal Mental Health Hotline (call or text)</td></tr>
    <tr><td><a href="tel:+1-888-431-2229">888-431-2229</a></td><td>Fussy Baby Network Warmline</td></tr>
    <tr><td><a href="tel:+1-877-222-9723">877-222-9723</a></td><td>Safe Surrender Site locations in California (where to confidentially surrender a newborn you cannot take care of)</td></tr>
-  <tr><th colspan="2" style="text-align:left;">Other Specialized Crisis Lines:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Other Specialized Crisis Lines:</th></tr>
    <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (M–F, 8am–5pm), or <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Adult Protective Services</td></tr>
    <tr><td><a href="tel:+1-805-781-5437">805-781-5437</a> or <a href="tel:+1-805-781-1700">805-781-1700</a></td><td>Child Welfare Services emergency suspected child abuse reporting line</td></tr>
    <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
    <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or manmade disaster)</td></tr>
-  <tr><th colspan="2" style="text-align:left;">Health and Behavioral Health Information:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Health and Behavioral Health Information:</th></tr>
    <tr><td><a href="tel:+1-805-540-6576">800-540-6576</a> (ages 25+), <a href="tel:+1-805-503-2316">805-503-2316</a> (ages 16–25), <a href="tel:+1-805-540-5552">805-540-5552</a> (peer support)</td><td>Behavioral Health Navigator: Get help finding the help you need and understanding the local behavioral health system</td></tr>
    <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Poison Control: Treatment advice from experts in poisoning care</td></tr>
    <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–9pm EST)</td></tr>
@@ -147,15 +147,15 @@ This guide uses different colors and icons to help you quickly identify what kin
    <tr><td><a href="tel:+1-800-662-4357">800-662-4357</a></td><td>Substance Abuse and Mental Health Service Administration (SAMHSA) national helpline (free, confidential, 24/7 substance abuse treatment referral and info)</td></tr>
    <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Alcoholics Anonymous 24/7 helpline</td></tr>
    <tr><td><a href="tel:+1-800-549-7730">800-549-7730</a></td><td>Narcotics Anonymous 24/7 helpline</td></tr>
-  <tr><th colspan="2" style="text-align:left;">Finding Help:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Finding Help:</th></tr>
    <tr><td><a href="tel:+1-211">211</a></td><td>Connects you to expert, caring, confidential help of all sorts</td></tr>
-  <tr><th colspan="2" style="text-align:left;">Legal Aid and Consumer Protection:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Legal Aid and Consumer Protection:</th></tr>
    <tr><td><a href="tel:+1-800-834-5001">800-834-5001</a></td><td>Community Legal Aid SoCal Hotline for housing discrimination, tenant rights, and consumer protection</td></tr>
    <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Legal Aid Foundation of Los Angeles (LAFLA) for legal assistance</td></tr>
-  <tr><th colspan="2" style="text-align:left;">Housing and Homeless Services:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Housing and Homeless Services:</th></tr>
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr>
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr>
-  <tr><th colspan="2" style="text-align:left;">Immigration:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Immigration:</th></tr>
    <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity or connect with legal support); register for text alerts by texting “ALERT” to this number)</td></tr>
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr>
  </tbody>
@@ -281,6 +281,7 @@ If you need to change an appointment, call ahead rather than simply not showing 
 ## <a id="where-to-find-shelter--housing">Shelter & Housing</a>
 
 **In this section:**
+
 - [Eviction Prevention](#eviction-protection)
 - [Warming/Cooling Centers](#warming-cooling-centers)
 - [Overnight Shelter](#overnight-shelter)
@@ -548,6 +549,10 @@ The RVs are in working condition, with no leaks; you must obtain insurance.
 [**SLO Hub**](Directory.md#SLO-Hub) helps you find a residential (live-in) recovery program that’s right for you, and can pay the deposit and rent for the opening months of your residency if you cannot afford it or if your insurance does not cover it.
 Here are some residential treatment options in our area:
 <!-- To-do: investigate other options outside of the SLO-City/Five-Cities area that we might have overlooked -->
+<!-- To-do: investigate Tivka Treatment, 944 Via Solana, Arroyo Grande; looks like they do detox, buprenorphine therapy, etc. so belong in the substance use section too; they accept "private insurance" -->
+<!-- Note: "Sober Living West" is sometimes advertised as a SLO option, but it's in Playa Del Rey, and besides does not accept insurance apparently -->
+<!-- Note: "Haven" in Grover Beach is a sober living home, but doesn't seem like an option designed for our audience -->
+<!-- Note: Restorative Partners runs some sober living homes in the area, but these are specifically designed for people reentering society from jail/prison custody -->
 
 - [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only.
 - [**Casa Solana**](Directory.md#Captive-Hearts) (Grover Beach) for women only. (Also known as “Sunshine House.”)
@@ -587,6 +592,7 @@ Most storage facilities have daytime hours of operation when you can access the 
 ## <a id="where-to-get-food">Food</a>
 
 **In this section:**
+
 - [Free Meals](#free-meals)
 - [Free Food Pantries](#free-food-pantries)
 - [Little Free Pantries](#little-free-pantries)
@@ -1060,6 +1066,7 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
 ## <a id="health-medical-care">Health & Medical Care</a>
 
 **In this section:**
+
 - [Emergency Care](#emergency-care)
 - [Urgent Care Options](#urgent-care)
 - [Health Insurance](#health-insurance)
@@ -1325,7 +1332,7 @@ You can find a list of Medi-Cal opticians at [provdir.cencalhealth.org](https://
 
 You can get 24-hour mental health support from SLO Hotline ([805-783-0607](tel:+1-805-783-0607), or text [741741](sms:741741)).
 
-> For mental health emergencies, see [Emergency Care](#emergency-care) and [Hotlines and Emergency Contacts](#hotlines-and-emergency-contacts).
+> For mental health emergencies, see [Emergency Care](#emergency-care) and [Emergency Contacts](#emergency-contacts).
 
 The [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) and [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) respond to acute mental health needs.
 
@@ -1466,12 +1473,14 @@ Ask them about options for people with low incomes.
 
 ### <a id="poison-oak">Poison Oak</a>
 
-<!-- To-do: add some characteristic photographs showing the variety of leaf shapes/colors. These must be public domain or licensed (e.g. creative commons) with usage conditions respected -->
-
 Poison oak is a common plant in SLO County and grows everywhere from shaded wet creekbeds to dry sunny hillsides.
 It is a shrub or vine and sometimes also climbs trees and so can appear to be tree branches.
 Its leaves appear in groups of three, but they can have a variety of shapes and colors (dark to pale green, pale orange, bright red).
 The plants sometimes also display clusters of small green, pale, or red berries.
+
+![poison oak: flat green leaves with simple borders](./Images/poison-oak-1.png)
+![poison oak: flat red leaves with undulating borders](./Images/poison-oak-2.png)
+![poison oak: glossy red and green leaves](./Images/poison-oak-3.png)
 
 The plant exudes an oil that causes a skin rash in people who touch it.
 You do not have to touch the plant to be affected: you just need to touch the oil, which can rub off onto clothing, pet fur, or other items.
@@ -1707,49 +1716,34 @@ Contact the local [**Veterans Administration Outpatient Clinic**](Directory.md#V
 
 ### <a id="advance-directives">Advance Directives</a>
 
-Advance Directives are legal documents that let you communicate your healthcare wishes in advance, in case you become unable to speak for yourself.
+<!-- To-do: This section needs review from a professional who knows about this stuff, specifically as it applies in California -->
+
+Advance Healthcare Directives are legal documents that let you communicate your healthcare wishes in advance, in case you become unable to speak for yourself.
 These documents include:
 
-- **Living Will:** Specifies which medical treatments you would or would not want if you become terminally ill or are in a persistent vegetative state
+- **Living Will:** Specifies which medical treatments you would or would not want if you become terminally ill or are in a persistent vegetative state <!-- To-do: is this a term that applies in California? -->
 - **Healthcare Power of Attorney:** Designates a trusted person to make medical decisions for you when you cannot
-- **Do Not Resuscitate (DNR) Orders:** Expresses your desire to refuse resuscitation efforts
+- **Physician Orders for Life-Sustaining Treatment:** You can use this to tell physicians how much they should intervene to try to extend your life
+- **Do Not Resuscitate (DNR) Orders:** Expresses your desire to refuse resuscitation efforts in particular
+- **Organ Donation Authorization:** You give or withhold permission for your organs, tissues, or body parts to be donated when you die, or put conditions on how they can be used
 
 These documents help to ensure that your healthcare wishes are respected even if you are incapacitated and cannot express them yourself.
+They usually must be signed by you and by certain witnesses in order to be effective.
 It is a good idea to create such documents *before* you need them, as when you need them you will be preoccupied or unable.
 Give these documents to your healthcare providers so they know to respect your specific preferences.
 
 The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [The Conversation Project](https://theconversationproject.org/) can help you create advance directive documents that match your needs and preferences.
+The [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/) website has several varieties of advance directive forms in PDF format that you can review or print.
 
 [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) can give you free help to make your advance directive documents clear and legally binding.
 
-### Uncategorized / Needs Research
+[**Hospice SLO**](Directory.md#Hospice-SLO) offers advanced directive assistance either in-person at its offices, or by phone or internet conferencing.
 
-<!-- To-do: integrate the items from this list into the above sections, then remove the Uncategorized/Needs Research subsection -->
-
-1. California POLST Program: For people with serious illness, POLST (Physician Orders for Life-Sustaining Treatment) is a medical order form signed by your healthcare provider that documents specific treatment wishes. Free forms downloadable in 13 languages at [capolst.org](https://capolst.org/). For assistance completing POLST forms, contact Hospice SLO at [805-544-2266](tel:+1-805-544-2266) or your healthcare provider. Must be printed on bright pink paper to be valid. Source: [capolst.org](https://capolst.org/)
-1. California Attorney General Advance Directive Form: Official state-approved form combining medical power of attorney and living will; free download at [oag.ca.gov/consumers/general/adv_hc_dir](https://oag.ca.gov/consumers/general/adv_hc_dir). Source: [eforms.com](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/)
-1. AARP Advance Directive Forms: Free California-specific advance directive forms at [aarp.org/caregiving/financial-legal/free-printable-advance-directives/](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/). Source: [aarp.org](https://www.aarp.org/caregiving/financial-legal/free-printable-advance-directives/)
-1. Witness/Notary Requirements: California advance directives must be signed by TWO WITNESSES *or* ONE NOTARY PUBLIC (either/or, not both). Witnesses cannot be your healthcare agent, related to you, entitled to your estate, or your healthcare provider. Most banks/credit unions offer free notary services to members; legal aid organizations may provide free notary. Source: [nolo.com](https://www.nolo.com/legal-encyclopedia/finalizing-advance-directive-health-care-california.html)
-1. Hospice SLO Advance Directive Assistance: Free help with understanding and preparing advance directives and POLST forms; phone/Zoom consultations available for those unable to travel to SLO office. Call [805-544-2266](tel:+1-805-544-2266) M–F 10am–4pm. Source: [hospiceslo.org](https://hospiceslo.org/services/advance-health-care-directive-support)
-1. Telehealth Hospice Options: Many California hospice agencies now offer virtual consultations and 24/7 telehealth access, reducing travel burden for patients in rural areas. Ask your hospice provider about telehealth services. Source: [capc.org](https://www.capc.org/toolkits/telehealth-and-palliative-care/)
-1. Enhanced Care Management through CenCal Health
-   - Services: Dedicated care team support for members with complex health and social needs, including homeless individuals
-   - Benefits: Assistance with medical care coordination and temporary housing placement following hospitalization
-   - Contact: [800-421-2560](tel:+1-800-421-2560) for CenCal Health member services
-1. Recuperative Care Beds
-   - Services: Stable, clean place for homeless individuals to receive medical care coordination following hospitalization or illness; case management for medication management and medical appointment scheduling; closely integrated with 40 Prado's medical clinic for seamless care
-   - Location: 40 Prado Homeless Services Center
-   - Contact: Healthcare Navigation Center at [805-361-8400](tel:+1-805-361-8400) for referrals to appropriate clinics
-   - Funding: CenCal insurance covers the recuperative care program
-   - Utilization: 32 individuals housed in 2024, 56 individuals served in 2025 as of August
-   - Access: Clients can be referred directly from the integrated medical clinic when they need recovery time but don't have a safe place to heal
-   - Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
-1. [**Healthcare for the Homeless Program**](Directory.md#HCHP)
-   - Services: Integrated health clinic providing primary and urgent care specifically for homeless clients; wrap-around services with co-located organizations; on-site pharmacy for immediate medication dispensing; in-house lab testing for pregnancy, strep throat, flu, COVID-19, and urine analysis; case management for medication management and appointment scheduling
-   - Insurance: CenCal accepted (most common insurance among homeless clients)
-   - Integration: Works closely with 40 Prado's recuperative care beds for clients needing recovery time after medical treatment
-   - Access: Must complete intake at 40 Prado first; serves 10–20 homeless individuals daily
-   - Source: [sanluisobispo.com](https://www.sanluisobispo.com/news/local/article311641433.html)
+Your healthcare provider or hospice can help you fill out a Physician Orders for Life-Sustaining Treatment (POLST) form.
+It instructs medical care providers whether they should try to extend your life however they can, or whether they should avoid certain types of burdensome treatments like CPR, feeding tubes, or a mechanical breathing apparatus.
+A POLST form only works if you or your legally-recognized decisionmaker signs it *and* your physician, nurse practitioner, or physician assistant also signs it.
+You can change your mind after you fill out such a form and can change it or discontinue it.
+You can learn more about the form and review one online, in several languages, at [capolst.org](https://capolst.org/).
 
 ## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
 
@@ -1767,11 +1761,10 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
       - Psychiatric Crisis Emergency: [800-838-1381](tel:+1-800-838-1381)
       - Crisis Text Line: Text "HOME" to [741741](sms:741741)
       - Email: See [**NAMI SLO County**](Directory.md#NAMI-SLO-County) in the [Directory](Directory.md)
-1. Additional County-Wide Crisis and Safety Resources (pending review):
-   - Mobile Crisis Team (MCT): 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [1-800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
-   - Behavioral Health Community Action Team (BHCAT): Partnership with Sheriff's Office, Paso Robles Police Department, and Atascadero Police Department serving North County communities. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct))
-   - SLO County Sheriff Non-Emergency: [805-781-4540](tel:+1-805-781-4540). Location: <a href="#" class="map-link" data-lat="35.320605" data-lon="-120.726162" data-zoom="17" data-label="Sheriff">1585 Kansas Avenue, SLO</a>. Serves unincorporated areas of SLO County including North County. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/contact-the-sheriff-s-office)
-   - Lumina Alliance - North County Services: Emergency shelters in Paso Robles and Atascadero; transitional housing in Paso Robles; 24-hour crisis line [805-545-8888](tel:+1-805-545-8888) for sexual assault and intimate partner violence. All services free of charge in English & Spanish (interpreters available for other languages). Source: [luminaalliance.org](https://luminaalliance.org/)
+   1. Mobile Crisis Team (MCT): 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [1-800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
+   1. Behavioral Health Community Action Team (BHCAT): Partnership with Sheriff's Office, Paso Robles Police Department, and Atascadero Police Department serving North County communities. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct))
+   1. SLO County Sheriff Non-Emergency: [805-781-4540](tel:+1-805-781-4540). Location: <a href="#" class="map-link" data-lat="35.320605" data-lon="-120.726162" data-zoom="17" data-label="Sheriff">1585 Kansas Avenue, SLO</a>. Serves unincorporated areas of SLO County including North County. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/contact-the-sheriff-s-office)
+   1. Lumina Alliance - North County Services: Emergency shelters in Paso Robles and Atascadero; transitional housing in Paso Robles; 24-hour crisis line [805-545-8888](tel:+1-805-545-8888) for sexual assault and intimate partner violence. All services free of charge in English & Spanish (interpreters available for other languages). Source: [luminaalliance.org](https://luminaalliance.org/)
 1. Women's Self-Defense Programs
    1. Model Mugging of SLO
       - Program type: Full-contact, scenario-based training designed specifically for women
@@ -3273,6 +3266,7 @@ This program is for California residents with medically-certified limitations of
 ## <a id="peer-support-groups">Peer Support Groups</a>
 
 <!-- To-do: add introductory paragraph -->
+<!-- To-do: there are probably many more groups than these. this would require a lot of research. worth it for this guide? -->
 
 1. [Caregiver Support Groups](https://stmlcottagehealthncus001.blob.core.windows.net/public/CCRC_Support_Groups_flyer_march2025.pdf)
 1. [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups)
@@ -3529,111 +3523,70 @@ Grants do not cover exams or testing.
    - **How to get involved**: Contact through Sacramento Homeless Union (parent organization): [homelessunionsac@gmail.com](mailto:homelessunionsac@gmail.com)
    - **Statewide activities**: Planning first-ever statewide convention of homeless people; organizing drives across California; focus on becoming a political factor for homeless and poor people statewide <!-- Source: [thestreetspirit.org](https://thestreetspirit.org/2023/05/16/in-dialogue-with-anthony-prince-founding-member-of-the-national-union-of-the-homeless/) -->
 
-## <a id="miscellaneous-free-items-eg-household-goods">Miscellaneous Free Items (e.g. Household Goods)</a>
+## <a id="miscellaneous-free-items">(Mostly) Free Stuff</a>
 
-<!-- To-do: prosify this list -->
+### Totally Free
 
-1. **Community Exchange Networks**
-   1. **[Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA)**
-      - What’s Available: Furniture, household items, electronics, clothing, and other goods shared by community members
-      - Eligibility: Free membership; must create account to participate
-      - Access: Online platform where members post "Offer" and "Wanted" listings
-      - How it works: Members give away items they no longer need and can request items they're looking for; no money exchanges hands
-      - Membership: 1,921+ local members in the San Luis Obispo group
-      - Coverage area: San Luis Obispo and surrounding areas; related groups in Atascadero, Paso Robles, Santa Maria, Lompoc, and Santa Ynez
-   1. **Buy Nothing Groups**
-      - **Buy Nothing San Luis Obispo** (Facebook group): [facebook.com/groups/1599870253598376](https://www.facebook.com/groups/1599870253598376/)
-      - **Buy Nothing San Luis Obispo (East)**: [findyourgroup.com/group/4652](https://findyourgroup.com/group/4652)
-      - What's Available: Hyperlocal giving, asking, and expressing gratitude for goods and services within small geographic communities
-      - Eligibility: Free to join; focused on specific neighborhoods
-      - Access: Find your local group at [buynothingproject.org/find-a-group](https://buynothingproject.org/find-a-group)
-      - How it works: Members post items to give away, make requests, and build community connections without monetary exchange
-      - **Additional County Groups** (pending human review):
-         - **North County**: Buy Nothing Paso Robles, Buy Nothing Atascadero (Facebook groups)
-         - **North Coast / Estero Bay**: Buy Nothing Morro Bay, Buy Nothing Los Osos, Buy Nothing Cambria (Facebook groups)
-         - **Five Cities**: Buy Nothing Arroyo Grande, Buy Nothing Grover Beach/Oceano, Buy Nothing Pismo Beach (Facebook groups)
-      - How to find more: Use buynothingproject.org/find-a-group tool to locate specific neighborhood groups; search Facebook for "Buy Nothing" + your town name
-      - Joining: Must be 21+ and provide local cross streets for verification <!-- Source: https://buynothingproject.org/ -->
-1. **Thrift Stores** (pending human review)
-   - What's Available: Inexpensive clothing, household goods, furniture, and other items; many stores offer very low prices or occasional free items
-   - Eligibility: Open to the public; some stores may offer additional assistance to those in need
-   - How it works: Purchase items at significantly reduced prices compared to retail; some stores accept vouchers from social service agencies
-   - **County-wide Locations**: Defer to the table of thrift stores in the Clothing section
-1. **Little Free Libraries**
-   - What's Available: Free books available 24/7 in small outdoor cabinets; take a book, leave a book
-   - Eligibility: Open to everyone, no restrictions
-   - How it works: No checking-out/checking-in process; simply take books you want to read and return or leave others when finished
-   - Locations: See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the [Directory](Directory.md)
-      - Find more locations: Use Little Free Library app or website map at [littlefreelibrary.org](https://littlefreelibrary.org/)
-1. **Little Free Pantries**
-   - What’s Available: Free food, feminine hygiene products, pet food, essentials, and sometimes art supplies
-   - Eligibility: Open to anyone in need, no restrictions
-   - How it works: Community-stocked outdoor boxes; take what you need, leave what you can
-   - Locations: See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Directory](Directory.md)
-   - Source: [localwiki.org/slo/Little_Free_Pantries](https://localwiki.org/slo/Little_Free_Pantries)
-1. **MakerSpace and Tool Access**
-   1. **San Luis Obispo City Library MakerSpace**
-      - What's Available: 3D printers, laser cutters, sewing machines, digital fabrication tools
-      - Eligibility: Library cardholders and community members
-      - Access: Schedule time through library system; workshops available for skill development
-      - How it works: Public access to professional-grade fabrication tools; staff assistance available for learning new skills
-      - Website: [slomakerspace.com](https://www.slomakerspace.com/)
-   1. **Shandon Tool Library**: County library branch offers tools for checkout
-      - Location: Shandon Library, <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="Shandon Tool Library">195 N. 2nd St., Shandon</a>
-      - Tools available: Power tools (drills, saws, sanders, router), outdoor tools (blower, hedge trimmer, pole saw), manual tools (ladders, levels, dollies, workbench)
-      - Hours: Tuesday–Wednesday 10am–6pm, Saturday 9am–5pm
-      - Access: Complete forms and liability waiver; reserve through library catalog using "Shandon Tool Library"
-      - Eligibility: Library cardholders and community members
-      - Source: [slolibrary.org](https://www.slolibrary.org/index.php/adults/shandon-tool-library)
-   1. **Other County Library Branches** (pending human review)
-      - Other SLO County library branches may offer maker spaces, tool lending, or community workspace; check with individual branches
-      - Locations/Hours: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
-      - Note: The Shandon Tool Library is the only confirmed tool lending program as of September 2025; contact other branches to inquire about tool access or maker space availability
-   1. **Building Materials and Home Improvement**
-      - [**Habitat for Humanity ReStore**](Directory.md#Habitat-for-Humanity) (Paso Robles)
-         - What's Available: Recycled construction materials, building supplies, furniture, appliances, home décor at heavily discounted prices
-         - Eligibility: Open to the public
-         - How it works: Purchase items at fraction of retail cost; all proceeds support Habitat for Humanity housing programs
-         - Location/Phone/Hours: See [**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) in the [Directory](Directory.md)
-         - Source: [habitatslo.org](https://habitatslo.org/)
-   1. **Community Art/Craft Studios**
-      - **Anam Cre Pottery Studio**: <a href="#" class="map-link" data-lat="35.283775" data-lon="-120.657610" data-zoom="17" data-label="Anam Cre Pottery Studio">1243 Monterey St #100, SLO</a>—ceramics classes and workshops
-      - **Cuesta College Community Education**: Arts and crafts classes open to public; **county-wide access** at three campuses (SLO, North County/Paso Robles, South County/Arroyo Grande)
-         - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - **The Pottery (Grover Beach & Atascadero)**: Community ceramics studios with classes, workshops, open studios, memberships; **county-wide locations** serving Five Cities and North County
-      - **Art Central**: Art supplies and classes in San Luis Obispo area
-   1. [**Studio Stitch**](https://studiostitch.com/)
-      - What's Available: Youth sewing classes (ages 7–16), adult sewing courses for beginners, summer camps, private lessons
-      - Services: Provides sewing machines and basic supplies for classes, teaches machine skills and pattern reading
-      - Note: Pricing not listed on website; contact directly to inquire about costs or potential financial assistance
-      - Source: [studiostitch.com](https://studiostitch.com/)
+The [Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA) network is free to join (you must create an on-line account to participate).
+People in the network can announce when they have things that they no longer want and would like to give away, or can request items they are looking for.
+All items are cost-free.
+There are also “Buy Nothing” groups in the area that have a similar focus.
+The [Buy Nothing Project](https://buynothingproject.org/find-a-group) has an app you can use to connect with people nearby who have things to give away.
+You may have better luck searching Facebook for “Buy Nothing” plus the name of the town you are in.
+
+“Little Free Libraries” are boxes in public areas (for example adjacent to sidewalks) where people leave books they are giving away.
+Anyone is free to take books for their own use from Little Free Libraries.
+There is no check-out/check-in procedure. Just take what you want to read, or leave what you’re finished reading.
+They are typically open 24-hours a day, every day.
+See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Directory for a list of dozens of them in SLO County.
+
+“Little Free Pantries” are similar, but rather than holding books, they specialize in non-perishable food, feminine hygiene products, pet food, and miscellaneous other items.
+See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the Directory for a list of several in SLO County.
+
+The Shandon branch of [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has a tool-lending library.
+People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leafblower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench.
+You must complete some extra forms and a liability waiver to use the tool lending library.
+
+### Low-Cost
+
+> See [Clothing: Thrift Stores](#thrift-stores) for a list of low-cost thrift stores in our area. Many sell a variety of goods other than clothing.
+
+[**Habitat for Humanity ReStore**](Directory.md#Habitat-for-Humanity) sells recycled construction materials, building supplies, furniture, appliances, and home décor at low prices.
+
+[SLO MakerSpace](https://www.slomakerspace.com/) can give you access to a variety of tools–everything from basic hand tools to laser cutters and 3D printers.
+You can get a free “partner pass” membership through [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries).
+This allows you to access some of the tools during some of the operating hours.
+To access their full set of tools at all times, you may need to pay for a full membership.
+You will also need to attend a general orientation.
+Some advanced tools also require that you take tool-specific orientation classes before you can use them, and some of those cost money.
 
 ## <a id="other-guides-web-pages-information-sources">Other Guides, Web Pages, Information Sources</a>
 
-<!-- To-do: add an introductory paragraph -->
+Some other groups have assembled resource guides like this one.
+Some have a different focus (for instance, they highlight resources for seniors or for veterans) or cover a different region.
+Here are some of these local guides:
 
-1. [Community Support Services](https://5chc.org/community-services) (5CHC)
-1. [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/): 122-page comprehensive guide covering services for seniors in San Luis Obispo and Santa Barbara Counties; available online and in print through Central Coast Commission for Senior Citizens. Available as a searchable on-line directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
-1. [*Paso Robles Senior Resource Guide*](https://www.prcity.com/departments/recreationservices): 2025–26 North SLO County Senior Resource Guide available in English/Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, healthcare
-1. SLO County Veterans Resources: Comprehensive veteran services available through SLO County Veterans Services Office (Note: Unable to verify [805-781-5766](tel:+1-805-781-5766) in available sources; contact SLO County directly for current contact information) and San Luis Obispo Veterans Service Collaborative at [slovsc.org/veterans_resources/](https://slovsc.org/veterans_resources/)
-1. Emergency SLO County Resources: General emergency preparedness and resource information at [www.emergencyslo.org](https://www.emergencyslo.org/en/index.aspx)
-1. [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
-1. [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic)
-1. [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html)
-1. [(TMHA) Helpful Links](https://www.t-mha.org/helpful-links.php)
-1. [The Homeless Veteran’s Resource Guide](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
-1. [SLO County Behavioral Health Resource Center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
-1. [Resource Guide Estero Bay](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf)
-1. [Sharing SLO wiki](https://localwiki.org/slo/Sharing_SLO)
-1. [Immigrant Services Guide](https://www.sloundocusupport.org/immigrantservicesguide)
-1. [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
+- [Community Support Services](https://5chc.org/community-services) (from 5Cities Homeless Coalition)
+- [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): a comprehensive guide covering services for seniors in San Luis Obispo and Santa Barbara Counties. Also exists as a searchable on-line directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
+- [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services): 2025–26 North SLO County Senior Resource Guide available in English/Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, healthcare
+- [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
+- [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic)
+- [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html)
+- [(TMHA) Helpful Links](https://www.t-mha.org/helpful-links.php)
+- [SLO County Behavioral Health Resource Center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
+- [Resource Guide Estero Bay](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf)
+- [Sharing SLO wiki](https://localwiki.org/slo/Sharing_SLO)
+- [Immigrant Services Guide](https://www.sloundocusupport.org/immigrantservicesguide)
+- [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
+- [SLO County Veterans Local Resources](https://slovsc.org/veterans_resources/local-resources/)
+- [The Homeless Veteran’s Resource Guide](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
 
 ## <a id="miscellaneous-tips">Miscellaneous Tips</a>
 
-<!-- To-do: prosify this list -->
-
-1. Ideally contributed by local homeless people: would make for good sidebars to break up listings; may want to get legal waiver of copyright from them, though
-   - Use waterproof plastic bags to store important documents and electronics
+<!-- To-do: prosify this list
+Add ideas contributed by local homeless people: would make for good sidebars to break up listings; may want to get legal waiver of copyright from them, though
+   - e.g. Use waterproof plastic bags to store important documents and electronics
+-->
 1. Get assistance at the library:
    - Drop in, or make an appointment by calling/texting [805-540-0057](tel:+1-805-540-0057)
    - Can help you find primary care, recovery, clothing, food, SSDI, shelter, mental health, showers, health insurance
