@@ -1532,7 +1532,7 @@
 | Name | Location | Phone | Ages |
 | ---- | -------- | ----- | ---- |
 | Judson Terrace Homes | 3000 Augusta St., SLO <a class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a> | [805-544-1600](tel:+1-805-544-1600) | 55+ |
-| Judson Terrace Lodge | 3042 Augusta St., SLO | [805-541-4567](tel:+1-805-541-4567) | 62+ |
+| Judson Terrace Lodge | 3042 Augusta St., SLO <a href="#" class="map-link" data-lat="35.268078" data-lon="-120.639555" data-zoom="17" data-label="PLACEHOLDER">📍 Map</a> | [805-541-4567](tel:+1-805-541-4567) | 62+ |
 
 - Notes:
    - Low-income seniors; HUD residents typically pay 30% of gross income for rent

@@ -38,6 +38,32 @@ Special thanks to Laurel Woodson & Mark Grayson for the funding that kickstarted
 
 -----
 
+### Legend: Understanding Links and Buttons
+
+This guide uses different colors and icons to help you quickly identify what kind of link or button you're looking at:
+
+#### Link Types
+
+| Link Type | What It Looks Like | What It Does |
+| --------- | ------------------ | ------------ |
+| **Directory Link** | <a href="#" data-directory-link="example">Agency Name</a> | Opens detailed information about an agency in a popup window (blue background) |
+| **Map Link** | <a href="#" class="map-link">123 Main St.</a> | Opens the location in your map app (yellow background with 📍 pin icon) |
+| **Phone Link** | [805-123-4567](tel:+1-805-123-4567) | Calls the phone number (green background with 📞 phone icon) |
+| **Email Link** | [contact@example.org](mailto:contact@example.org) | Opens your email to send a message (pink background with ✉️ envelope icon) |
+| **SMS/Text Link** | [805-123-4567](sms:+1-805-123-4567) | Opens your text messaging app (purple background with 💬 speech bubble icon) |
+| **External Link** | [Example Website](https://example.com) | Opens a website in a new tab (blue with ↗ arrow) |
+
+#### Buttons and Features
+
+| Button | What It Looks Like | What It Does |
+| ------ | ------------------ | ------------ |
+| **Navigation** (top of page) | **Resources / Directory / About** | Switch between the main sections of this guide |
+| **Search** (top of page) | **🔍 Search** | Search for specific topics, agencies, or services |
+| **Table of Contents** (floating button, right side) | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#3877ff;color:white;font-size:24px;">📑</span> | Return to the Table of Contents when browsing the Resource Guide |
+| **Feedback** (floating button, bottom right) | <span style="display:inline-flex;align-items:center;justify-content:center;width:60px;height:60px;border-radius:50%;background-color:#5a93ff;color:white;font-size:28px;">💬</span> | Send feedback about errors or suggestions for improvement |
+| **Share** (floating button, bottom left) | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#e75e13;color:white;font-size:24px;">🔗</span> | Share a link to the page or section you're viewing |
+| **Section Share** (next to headings) | <span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background-color:rgba(231,94,19,0.1);border:1px solid #e75e13;font-size:14px;">🔗</span> | Click to share a direct link to a specific section or subsection |
+
 ## <a id="table-of-contents">Table of Contents</a>
 
 1. [Hotlines and Emergency Contacts](#hotlines-and-emergency-contacts)
