@@ -621,11 +621,13 @@
    - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
 - Location: 3250 S. Higuera St. #D, SLO <a href="#" class="map-link" data-lat="35.255397" data-lon="-120.669515" data-zoom="17" data-label="Catholic Charities">Map</a>
 <!-- Note: another source says 3592 Broad St. #104 -->
+<!-- Note: see also the "behind the [SLO] Mission" note below... CC may have multiple locations for multiple things? -->
 - Phone: [805-541-9110](tel:+1-805-541-9110)
    - Immigration Services: [831-722-2675](tel:+1-831-722-2675)
    - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Note: Tattoo removal office is in Santa Cruz, not SLO)
 - Hours: M–F 9am–5pm
-- Services: Supportive Services, Legal Immigration & Citizenship
+   <!-- To-do: there's some special time on Thursdays where people can come by "behind the Mission" in SLO to get individualized help -->
+- Services: Supportive Services, Legal Immigration & Citizenship <!-- move this to Resource Guide. Also: what are "supportive services" - needs more precision -->
 <!-- Note: Verified via catholiccharitiesdom.org/contact-us/ October 2025. The organization also has a location in Paso Robles at St. Rose of Lima Church, 642 Trigo Lane -->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>

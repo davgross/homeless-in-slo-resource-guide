@@ -391,7 +391,7 @@ You must have a valid ID.
 People with P.C. 290 convictions are screened out.
 Call [805-295-1501](tel:+1-805-295-1501) to verify the center is open and to learn about free transportation options to the center.
 The warming center offers a free hot meal.
-Text “Add Me” to 805-295-1501 to receive text updates to your phone when the Warming Center opens, or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
+Text “Add Me” to [805-295-1501](sms:+1-805-295-1501) to receive text updates to your phone when the Warming Center opens, or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center in the north county.
 Contact them for location and details.
@@ -867,6 +867,10 @@ You can buy bus passes on the bus or by using the [Token Transit](https://tokent
 (Another option for viewing bus arrival times and for planning travel is the [moovit](https://moovitapp.com/index/en/public_transit-San_Luis_Obispo_CA-4003) app.)
 There are discounts for seniors and disabled people (you may need to [apply for a special card](https://forms.slocity.org/Forms/SDPassApp)), and for children.
 If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit buses.
+
+Some service providers can give you a bus pass if you cannot afford to buy one.
+For example, [**Catholic Charities**](Directory.md#Catholic-Charities) often has bus passes available to people who need them.
+Clients of [**Tri-Counties Regional Center**](Directory.md#Tri-Counties-Regional-Center) can get bus passes from them.
 
 You can find carpool options locally by using the [iRideshare](https://irideshare.org/#/) web application, a free program for SLO County commuters.
 The application matches commuters based on their locations, routes, destinations, and schedules to try to match them into compatible carpools.
@@ -1801,7 +1805,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
       - Source: [t-mha.org](https://www.t-mha.org/central-coast-hotline.php)
    1. Additional Crisis Resources
       - Psychiatric Crisis Emergency: [800-838-1381](tel:+1-800-838-1381)
-      - Crisis Text Line: Text "HOME" to 741741
+      - Crisis Text Line: Text "HOME" to [741741](sms:741741)
       - Email: See [**NAMI SLO County**](Directory.md#NAMI-SLO-County) in the [Directory](Directory.md)
 1. Additional County-Wide Crisis and Safety Resources (pending review):
    - Mobile Crisis Team (MCT): 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [1-800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
