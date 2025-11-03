@@ -1,7 +1,5 @@
 # To-do list
 
-1. The Feedback button, go-to-TOC button, and global Share button have different radii. Adjust them so that they are all the same size.
-
 1. There are still some notes in @Directory.md that really belong in @"Resource Guide.md" -- fix that.
 
 1. A lot of @"Resource Guide.md" is still in the form of lists of raw notes; these need to be prosified for the end user.
