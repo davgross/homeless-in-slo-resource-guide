@@ -18,10 +18,4 @@
 
 1. Ensure that icon designs have not been inadvertently copied without permission.
 
-1. Reduce the size of or change the location of the phone icon so that it is not intersected by the link underlining.
-
-1. Consider not underlining links at all, but just using color to indicate clickable things. Check the accessibility ramifications of this first. It might necessitate changing other aspects of our color scheme (e.g. headings are currently blue but are not clickable, so that would probably need to change).
-
 1. Consider redesigning the Resource Guide so that rather than being a TOC followed by sections, it uses an accordion structure where when the user selects a section title, it expands to show the content. What would be the ramifications of this for e.g. maintainability, accessibility, compatibility with existing tools, ability of the user to share or bookmark things inside of accordion folds, etc.?
-
-1. Add a legend-table to the introductory section of the Resource Guide that explains the different link icons / styles and what they indicate will happen when you click on them (Directory links, mailto / sms / tel links, map links). Also a legend table that explains the TOC / feedback / share icons. Or maybe use a single legend-table for both of these.
