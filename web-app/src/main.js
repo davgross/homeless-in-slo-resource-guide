@@ -114,6 +114,15 @@ function setupNavigation() {
     });
   });
 
+  // Setup logo click to navigate to home (resources)
+  const headerLogo = document.querySelector('.header-logo');
+  if (headerLogo) {
+    headerLogo.addEventListener('click', (e) => {
+      e.preventDefault();
+      navigateToSection('resources');
+    });
+  }
+
   // Handle browser back/forward
   window.addEventListener('popstate', (e) => {
     if (e.state && e.state.section) {

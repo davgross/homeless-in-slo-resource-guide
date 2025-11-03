@@ -18,11 +18,16 @@
   <div id="announcer" class="visually-hidden" aria-live="polite" aria-atomic="true"></div>
   <div id="app">
     <header class="app-header">
-      <nav class="app-nav" aria-label="Main navigation">
-        <button class="nav-btn" data-section="resources">Resources</button>
-        <button class="nav-btn" data-section="directory">Directory</button>
-        <button class="nav-btn" data-section="about">About</button>
-      </nav>
+      <div class="header-content">
+        <a href="#" class="header-logo" aria-label="Return to home">
+          <img src="/icon-192.png" alt="SLO County Resource Guide Logo" />
+        </a>
+        <nav class="app-nav" aria-label="Main navigation">
+          <button class="nav-btn" data-section="resources">Resources</button>
+          <button class="nav-btn" data-section="directory">Directory</button>
+          <button class="nav-btn" data-section="about">About</button>
+        </nav>
+      </div>
       <div class="search-container">
         <input type="search" id="search-input" placeholder="Search..." aria-label="Search resources and directory" aria-controls="search-results" aria-expanded="false" aria-autocomplete="list">
         <div id="search-results" class="search-results" role="listbox" aria-label="Search results" hidden></div>
