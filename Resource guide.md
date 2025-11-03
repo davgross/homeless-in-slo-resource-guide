@@ -38,31 +38,31 @@ Special thanks to Laurel Woodson & Mark Grayson for the funding that kickstarted
 
 -----
 
-### Legend: Understanding Links and Buttons
+## Legend: Understanding Links and Buttons
 
 This guide uses different colors and icons to help you quickly identify what kind of link or button you're looking at:
 
-#### Link Types
+### Link Types
 
-| Link Type | What It Looks Like | What It Does |
-| --------- | ------------------ | ------------ |
-| **Directory Link** | <a href="#" data-directory-link="example">Agency Name</a> | Opens detailed information about an agency in a popup window (blue background) |
-| **Map Link** | <a href="#" class="map-link">123 Main St.</a> | Opens the location in your map app (yellow background with 📍 pin icon) |
-| **Phone Link** | [805-123-4567](tel:+1-805-123-4567) | Calls the phone number (green background with 📞 phone icon) |
-| **Email Link** | [contact@example.org](mailto:contact@example.org) | Opens your email to send a message (pink background with ✉️ envelope icon) |
-| **SMS/Text Link** | [805-123-4567](sms:+1-805-123-4567) | Opens your text messaging app (purple background with 💬 speech bubble icon) |
-| **External Link** | [Example Website](https://example.com) | Opens a website in a new tab (blue with ↗ arrow) |
+| Link Type          | What It Looks Like                                        | What It Does When You Click |
+| ------------------ | --------------------------------------------------------- | --------------------------- |
+| **Directory Link** | <a href="#" data-directory-link="example">Agency Name</a> | Opens detailed information about an agency in a popup window |
+| **Map Link**       | <a href="#" class="map-link">123 Main St.</a>             | Opens the location in your map app |
+| **Phone Link**     | [805-555-0123](tel:+1-805-555-0123)                       | Calls the phone number |
+| **Email Link**     | [contact@example.org](mailto:contact@example.org)         | Opens your email to send a message |
+| **SMS/Text Link**  | [805-555-0123](sms:+1-805-555-0123)                       | Opens your text messaging app |
+| **External Link**  | [Example Website](https://example.com)                    | Opens a website in a new tab |
 
-#### Buttons and Features
+### Buttons and Features
 
-| Button | What It Looks Like | What It Does |
-| ------ | ------------------ | ------------ |
-| **Navigation** (top of page) | **Resources / Directory / About** | Switch between the main sections of this guide |
-| **Search** (top of page) | **🔍 Search** | Search for specific topics, agencies, or services |
-| **Table of Contents** (floating button, right side) | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#3877ff;color:white;font-size:24px;">📑</span> | Return to the Table of Contents when browsing the Resource Guide |
-| **Feedback** (floating button, bottom right) | <span style="display:inline-flex;align-items:center;justify-content:center;width:60px;height:60px;border-radius:50%;background-color:#5a93ff;color:white;font-size:28px;">💬</span> | Send feedback about errors or suggestions for improvement |
-| **Share** (floating button, bottom left) | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#e75e13;color:white;font-size:24px;">🔗</span> | Share a link to the page or section you're viewing |
-| **Section Share** (next to headings) | <span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background-color:rgba(231,94,19,0.1);border:1px solid #e75e13;font-size:14px;">🔗</span> | Click to share a direct link to a specific section or subsection |
+| Button                               | What It Looks Like                        | What It Does When You Click |
+| ------------------------------------ | ----------------------------------------- | --------------------------- |
+| **Navigation** (top of page)         | <span style="font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;"><span style="color: var(--primary-color);">**Resources**</span> / <span style="color: var(--primary-color);">**Directory**</span> / <span style="color: var(--primary-color);">**About**</span></span> | Switches between the main sections of this guide |
+| **Search** (top of page)             | <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif; border: 1px solid var(--primary-color); border-radius: 5px; padding: 0.25rem;">Search…   </span> | Searches for specific topics, agencies, or services |
+| **Table of Contents** (top right)    | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#3877ff;color:white;font-size:24px;">📑</span> | Returns to the Table of Contents when browsing the Resource Guide |
+| **Feedback** (bottom right)          | <span style="display:inline-flex;align-items:center;justify-content:center;width:60px;height:60px;border-radius:50%;background-color:#5a93ff;color:white;font-size:28px;">💬</span> | Sends feedback about errors or suggestions for improvement |
+| **Share** (bottom left)              | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#e75e13;color:white;font-size:24px;">🔗</span> | Shares a link to this resource guide |
+| **Section Share** (next to headings) | <span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background-color:rgba(231,94,19,0.1);border:1px solid #e75e13;font-size:14px;">🔗</span> | Shares a link to a specific section or subsection |
 
 ## <a id="table-of-contents">Table of Contents</a>
 
@@ -1836,7 +1836,7 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
       - Goal: Build confidence and strength in shortest training time
       - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/self-defense.html)
    1. Paragon Brazilian Jiu Jitsu SLO
-      - Location: 2<a href="#" class="map-link" data-lat="35.246301" data-lon="-120.666138" data-zoom="17" data-label="Paragon">35 Tank Farm Rd, Unit J, SLO</a>
+      - Location: <a href="#" class="map-link" data-lat="35.246301" data-lon="-120.666138" data-zoom="17" data-label="Paragon">235 Tank Farm Rd, Unit J, SLO</a>
       - Programs: Brazilian Jiu-Jitsu, submission wrestling, self-defense, Muay Thai kickboxing
       - Ages: 4 and up
       - Hours: Mon–Thu 4pm–8pm, Fri 4:30pm–6:30pm, Sat 12pm–1:30pm, Sun 11am–1pm
