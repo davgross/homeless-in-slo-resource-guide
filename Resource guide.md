@@ -163,20 +163,31 @@ This guide uses different colors and icons to help you quickly identify what kin
 
 ## <a id="self-advocacy-and-communicating-with-service-providers">Standing Up for Yourself and Communicating with Service Providers</a>
 
-<!-- To-do: Add introductory paragraph explaining why the information in this section is useful to the reader -->
+When you meet with case managers and service providers, there are things you can do to make it more likely that they will be able to help you.
+This section of the guide gives some good general tips.
 
 ### <a id="build-good-relationships">Build Good Relationships with Case Managers and Service Providers</a>
 
-When you meet with case managers and service providers, you can get better results by being prepared.
+You can get better results by being prepared.
 Bring your ID, any paperwork about your situation, and a list of questions or needs.
-Arrive early if you can.
-If you will be late, call ahead.
-Keep a simple notebook or use your phone to write down appointments, contacts, and any promises people make to you.
 
 Be honest and direct when you explain your situation, your needs, and any problems you face.
 Ask questions if you need help understanding programs, requirements, or next steps.
 When providers help you, tell them you appreciate it.
 Good relationships help everyone.
+
+Stay in touch with providers who are especially helpful, even when you're not actively using their services.
+
+### <a id="manage-appointments">Manage Appointments and Commitments</a>
+
+Set phone alarms or ask for reminder calls when they are available.
+Make sure you have a way to get to appointments (see the [Transportation](#transportation) section).
+Bring something to do and expect some delays in busy service settings.
+If you need to change an appointment, call ahead rather than just not showing up.
+
+Arrive early to appointments if you can.
+If you will be late, call ahead.
+Keep a simple notebook or use your phone to write down appointments, contacts, and any promises people make to you.
 If someone promises to do something for you but you don't hear back in a reasonable time, check back with them.
 
 ### <a id="know-your-rights">Know Your Rights</a>
@@ -185,9 +196,9 @@ Many service providers have non-discrimination policies and try to treat people 
 Some services have specific rules about who can use them (like veterans-only programs, or programs with income limits).
 
 Privacy policies vary by agency.
-Government agencies often share information through HMIS (Homeless Management Information System).
+Government agencies (and agencies that get government grants and contracts) often share information through the HMIS (Homeless Management Information System).
 You will receive privacy notices before they enter your data, and you can ask to review these notices later.
-Some data may be required to get services, but you can withhold other information.
+You may be required to provide some data in order to get services, but you can withhold other information.
 Ask about Release of Information (ROI) forms and what they mean before you sign them.
 
 Many programs have procedures for appealing decisions or filing complaints.
@@ -200,7 +211,7 @@ Keep copies of important documents and applications.
 Store documents in waterproof bags.
 Use your backpack as a pillow when you sleep.
 Keep your most important items in clothes pockets.
-If you have income, consider getting a safety deposit box.
+If you have enough income, consider getting a safety deposit box for the most important or hard-to-replace documents.
 
 Use your phone to take photos of important paperwork.
 Turn on automatic cloud backup (iCloud for iPhone, Google Photos for Android) so your photos survive if your phone is lost or stolen.
@@ -213,7 +224,7 @@ Keep case numbers, application numbers, and confirmation numbers.
 
 Tell people clearly what you are working toward (housing, employment, healthcare, etc.).
 Share your skills, experience, education, and personal strengths when they matter for the services you want.
-For example, tell employment services about your work experience, but you don't need to tell basic needs programs (like clothing or food) about these things.
+For example, tell employment services about your work experience.
 
 Come to meetings with ideas about what might work for your situation.
 Follow through on promises you make and take active steps toward your goals.
@@ -222,30 +233,30 @@ Follow through on promises you make and take active steps toward your goals.
 
 Learn the rules for programs: who can use them, when applications are due, and what steps you need to take.
 If you don't qualify for one program, ask about other options.
-If you have disabilities or special needs, ask about help they can provide.
+If you have disabilities or special needs that make it difficult to access a program, ask about help they can provide.
 
-If you're not getting help, ask to speak with supervisors.
+If you're not getting the help you think you should be getting, ask to speak with supervisors.
 Use formal complaint procedures and appeal processes.
 Or find someone who knows the system well to help you (like a case manager, behavioral health navigator, legal aid worker, or peer advocate).
 
 ### <a id="work-with-multiple-providers">Work with Multiple Service Providers</a>
 
-Let each provider know about other services you get when it matters.
+Tell each provider about other services you get, when it matters.
 For example, tell housing programs about your income sources.
 But casual services like showers don't need to know about each other.
 
 If an agency plans to apply for a service in your name, tell them if you already applied on your own.
-This prevents duplicate applications.
+This prevents duplicate applications and wasted time.
 Keep track of which applications you made or that others made for you.
-This helps you avoid wasting time doing the same thing twice.
+This helps you avoid doing the same thing twice.
 
-Share information that relates directly to the services you want.
+Share information with service providers that relates directly to the services you want.
 For example, share your income for benefits applications or your medical history for healthcare.
-Keep other personal details private.
+Keep other personal details private if you don't feel like sharing them.
 
 Keep a list of contact information for all your service providers.
-Ask for direct phone numbers or business cards from people who know your case.
-This helps you avoid phone trees.
+Ask for direct phone numbers or business cards from people who work with you.
+This helps you avoid phone trees if you need to call back.
 
 ### <a id="set-goals-and-track-progress">Set Goals and Track Progress</a>
 
@@ -257,7 +268,7 @@ Be flexible and willing to change your goals as your situation changes.
 ### <a id="when-things-go-wrong">When Things Go Wrong</a>
 
 Even when you feel frustrated, stay calm and speak respectfully.
-This approach usually gets better results and faster solutions than arguing, though this may feel strange if you learned to be assertive to protect yourself.
+This approach usually gets better results and faster solutions than arguing.
 Write down details about problems, including dates, names, and what went wrong.
 Don't give up too soon.
 Sticking with it often pays off when you work with complex systems.
@@ -267,18 +278,11 @@ Sticking with it often pays off when you work with complex systems.
 Use this guide or call [211](tel:+1-211) to get information about available services.
 Talk with other people in similar situations—they often have valuable information and tips.
 
-Remember that this guide shows information that was available when we published it.
-Things may change.
-Contact service providers directly to check current information before you travel to their locations.
+The [Other Guides](#other-guides-web-pages-information-sources) section of this guide lists some other resource guides that may have information we missed.
 
-Stay in touch with providers who are especially helpful, even when you're not actively using their services.
-
-### <a id="manage-appointments">Manage Appointments and Commitments</a>
-
-Set phone alarms or ask for reminder calls when they are available.
-Make sure you have a way to get to appointments (see the [Transportation](#transportation) section).
-Bring something to do and expect some delays in busy service settings.
-If you need to change an appointment, call ahead rather than simply not showing up.
+This resource guide shows information that was available when we wrote it.
+Things change.
+Contact service providers directly to check for the most current information before you travel to their locations.
 
 ## <a id="where-to-find-shelter--housing">Shelter & Housing</a>
 
@@ -329,9 +333,8 @@ Call [805-295-1501](tel:+1-805-295-1501) to verify the center is open and to lea
 The warming center offers a free hot meal.
 Text “Add Me” to [805-295-1501](sms:+1-805-295-1501) to receive text updates to your phone when the Warming Center opens, or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
 
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center in the north county.
+The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center in the north county. <!-- says https://pasoroblespress.com/news/government/city-of-paso-robles/city-council-approves-111k-for-echo-adopts-shelter-program-shift/ -->
 Contact them for location and details.
-<!-- says https://pasoroblespress.com/news/government/city-of-paso-robles/city-council-approves-111k-for-echo-adopts-shelter-program-shift/ -->
 
 ### <a id="overnight-shelter">Overnight Shelter</a>
 
@@ -558,7 +561,7 @@ Here are some residential treatment options in our area:
 <!-- Note: "Sober Living West" is sometimes advertised as a SLO option, but it's in Playa Del Rey, and besides does not accept insurance apparently -->
 <!-- Note: Restorative Partners runs some sober living homes in the area, but these are specifically designed for people reentering society from jail/prison custody -->
 
-- [**Tikva Treatment**](Directory.md#Tikva-Treatment) (Arroyo Grande) — also known as "The Haven at Pismo" or "Mesa House"; accepts private insurance and self-pay
+- [**Tikva Treatment**](Directory.md#Tikva-Treatment) (Arroyo Grande) — also known as "The Haven at Pismo" or "Mesa House"; accepts private insurance and self-pay
 - [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only.
 - [**Casa Solana**](Directory.md#Captive-Hearts) (Grover Beach) for women only. (Also known as "Sunshine House.")
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only; (division of nonprofit Gate Help Inc.).
@@ -1026,8 +1029,8 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**Goodwill Outlet**](Directory.md#Goodwill) and [**Goodwill Store**](Directory.md#Goodwill)
 - [**Lumina Thrift**](Directory.md#Lumina-Thrift)
 - [**Mission Thrift**](Directory.md#Mission-Thrift)
+- [**SLO Thrift**](Directory.md#SLO-Thrift)
 - [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
-<!-- To-do: new thrift store coming in soon where the Wilshire Hope Chest used to operate (this is distinct from Lumina Thrift, which is at a new location) -->
 
 ## <a id="laundry">Laundry</a>
 
@@ -1743,17 +1746,18 @@ Contact the local [**Veterans Administration Outpatient Clinic**](Directory.md#V
 
 <!-- To-do: This section needs review from a professional who knows about this stuff, specifically as it applies in California -->
 
-Advance Healthcare Directives are legal documents that let you communicate your healthcare wishes in advance, in case you become unable to speak for yourself.
+Advance Health Care Directives are legal documents that let you communicate your health care wishes in advance, in case you become unable to speak for yourself.
+Sometimes people call these “Living Wills.”
 These documents include:
 
-- **Living Will:** Specifies which medical treatments you would or would not want if you become terminally ill or are in a persistent vegetative state <!-- To-do: is this a term that applies in California? -->
+- **Advance Health Care Directives:** Specifies which medical treatments you would or would not want if you become terminally ill or are in a persistent vegetative state
 - **Healthcare Power of Attorney:** Designates a trusted person to make medical decisions for you when you cannot
 - **Physician Orders for Life-Sustaining Treatment:** You can use this to tell physicians how much they should intervene to try to extend your life
 - **Do Not Resuscitate (DNR) Orders:** Expresses your desire to refuse resuscitation efforts in particular
 - **Organ Donation Authorization:** You give or withhold permission for your organs, tissues, or body parts to be donated when you die, or put conditions on how they can be used
 
 These documents help to ensure that your healthcare wishes are respected even if you are incapacitated and cannot express them yourself.
-They usually must be signed by you and by certain witnesses in order to be effective.
+They usually must be signed by you *and* by certain witnesses in order to be effective.
 It is a good idea to create such documents *before* you need them, as when you need them you will be preoccupied or unable.
 Give these documents to your healthcare providers so they know to respect your specific preferences.
 
@@ -1776,7 +1780,7 @@ You can learn more about the form and review one online, in several languages, a
 
 1. Outside Crisis Intervention and Deescalation Resources
    1. Central Coast Hotline (24/7 Crisis Support)
-      - Phone: Call or text [1-800-783-0607](tel:+1-800-783-0607)
+      - Phone: Call or text [800-783-0607](tel:+1-800-783-0607)
       - Services: Mental health crisis support, Mobile Crisis Team, suicide prevention
       - What they do: Teams of behavioral health experts trained to de-escalate crises related to alcohol, drugs, or mental health conditions
       - When to call: Mental health emergencies that don't involve weapons or known threats of violence
@@ -1786,18 +1790,24 @@ You can learn more about the form and review one online, in several languages, a
       - Psychiatric Crisis Emergency: [800-838-1381](tel:+1-800-838-1381)
       - Crisis Text Line: Text "HOME" to [741741](sms:741741)
       - Email: See [**NAMI SLO County**](Directory.md#NAMI-SLO-County) in the [Directory](Directory.md)
-   1. Mobile Crisis Team (MCT): 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [1-800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
+   1. Mobile Crisis Team (MCT): 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
    1. Behavioral Health Community Action Team (BHCAT): Partnership with Sheriff's Office, Paso Robles Police Department, and Atascadero Police Department serving North County communities. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct))
    1. SLO County Sheriff Non-Emergency: [805-781-4540](tel:+1-805-781-4540). Location: <a href="#" class="map-link" data-lat="35.320605" data-lon="-120.726162" data-zoom="17" data-label="Sheriff">1585 Kansas Avenue, SLO</a>. Serves unincorporated areas of SLO County including North County. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/contact-the-sheriff-s-office)
-   1. Lumina Alliance - North County Services: Emergency shelters in Paso Robles and Atascadero; transitional housing in Paso Robles; 24-hour crisis line [805-545-8888](tel:+1-805-545-8888) for sexual assault and intimate partner violence. All services free of charge in English & Spanish (interpreters available for other languages). Source: [luminaalliance.org](https://luminaalliance.org/)
 1. Women's Self-Defense Programs
    1. Model Mugging of SLO
       - Program type: Full-contact, scenario-based training designed specifically for women
       - Training method: Realistic attack simulations with fully padded instructor in controlled environment
       - Skills taught: Verbal de-escalation, boundary setting, reading situations, physical countermeasures
       - Current status: Classes not currently being held; add name to interest list for future classes
-      - Contact: Check Facebook page "Model Mugging SLO" for updates
       - Source: [modelmugging.org](https://modelmugging.org/self-defense-workshops-classes/category/california/san-luis-obispo-womens-self-defense/)
+         - Note: website might not load if you're on a VPN
+         - The page says it's about MM classes in SLO, but if you try to register it redirects you to "Los Angeles / Orange County" classes
+      - Contact: Check Facebook page "Model Mugging SLO" for updates
+         - Their facebook account's most recent post is from 2021 and says "classes are not being held at this time"
+      - Available evidence suggests this is defunct or on ice
+   1. Akido of SLO
+      - Has a Women's Self Defense page on their website: [https://aikidosanluisobispo.com/?page_id=1109](https://aikidosanluisobispo.com/?page_id=1109)
+      - But it says "Upcoming Classes TBA" and may be the same as the Model Mugging classes that were last offered some time around or before 2021
    1. Cuesta College Women's Self Defense Workshop
       - Format: Hands-on, comprehensive workshop in safe, supportive environment
       - Content: Self-defense mindset, managing unknown persons, striking and combative skills
@@ -1805,13 +1815,9 @@ You can learn more about the form and review one online, in several languages, a
       - Financial aid: Scholarships and family discounts available
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
       - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/womens-self-defense.html)
-   1. RISE Center
-      - Program: Women's self-defense courses occasionally hosted
-      - Organization: RISE (Respect Inspire Support Empower) center
-      - Update: RISE merged with Stand Strong in July 2021 to form Lumina Alliance
-      - Locations/Phone: See [**Lumina Alliance**](Directory.md#Lumina-Alliance) in the [Directory](Directory.md)
-      - Contact: Check with Lumina Alliance for current self-defense and safety program offerings <!-- Source: [luminaalliance.org](https://luminaalliance.org/) -->
-1. General Self-Defense and Martial Arts Classes
+         - 404. Try [https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html)
+   1. Lumina Alliance: no indication from their website that they offer self-defense training
+1. General Self-Defense and Martial Arts Classes <!-- To-do: add Akido of San Luis Obispo https://aikidosanluisobispo.com/ -->
    1. Cuesta College Krav Maga Workshop
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
       - Focus: Reality-based self-defense, instinctive movements, practical techniques
@@ -1870,23 +1876,23 @@ You can learn more about the form and review one online, in several languages, a
 
 **In this section:**
 
-- Help for defendants, convicts, parolees, probationers, people with PC 290 convictions
-- Legal help regarding housing (discrimination, landlord disputes, etc.)
-- Help with benefits, wrangling with health insurers, et cetera
-- Realistic know-your-rights information
-- Injury liability / workers' compensation
-- Consumer protection
-- Victims of crime, abuse
-- Mediation
-- Legal Self-Help / Law Libraries
-- Legal Consultation
-- Family Law / Child Support
-- Immigration Law
-- Senior Legal Services
-- Tax Disputes
-- Miscellany
+- [Help for defendants, convicts, parolees, probationers, people with PC 290 convictions](#defendants-and-convicts)
+- [Legal help regarding housing (discrimination, landlord disputes, etc.)](#housing-legal)
+- [Help with benefits, wrangling with health insurers, et cetera](#benefits-legal)
+- [Realistic know-your-rights information](#know-your-rights)
+<!-- - [Injury liability / workers' compensation](#liability-law) -->
+- [Consumer protection](#consumer-protection)
+- [Victims of crime, abuse](#crime-victims)
+- [Mediation](#mediation)
+- [Legal Self-Help / Law Libraries](#legal-self-help)
+- [Legal Consultation](#legal-consultation)
+- [Family Law / Child Support](#family-law)
+- [Immigration Law](#immigration-law)
+- [Senior Legal Services](#senior-legal-services)
+- [Tax Disputes](#tax-disputes)
+- [Miscellany](#legal-miscellany)
 
-### Help for defendants, convicts, parolees, probationers, people with PC 290 convictions
+### <a id="defendants-and-convicts">Help for defendants, convicts, parolees, probationers, people with PC 290 convictions</a>
 
 <!-- To-do: prosify this list -->
 
@@ -1906,7 +1912,7 @@ You can learn more about the form and review one online, in several languages, a
    - Helps people purge old criminal records to make it easier for them to get employment and housing
    - Call [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805-242-6691) to schedule an appointment
 
-### Legal help regarding housing (discrimination, landlord disputes, etc.)
+### <a id="housing-legal">Legal help regarding housing (discrimination, landlord disputes, etc.)</a>
 
 <!-- To-do: prosify this list -->
 
@@ -1920,7 +1926,7 @@ You can learn more about the form and review one online, in several languages, a
    - Email: [info@tenantstogether.org](mailto:info@tenantstogether.org)
 1. *California Tenants' Guide* ([English](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) [Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf))
 
-### Help with benefits, wrangling with health insurers, et cetera
+### <a id="benefits-legal">Help with benefits, wrangling with health insurers, et cetera</a>
 
 [**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options.
 HiCAP can also help you file Medicare denial appeals or make Medicare fraud referrals.
@@ -1932,7 +1938,7 @@ To-do: cross reference e.g. social security section?
 To-do: add more stuff about e.g. ombudsmen who can help you with health insurance denial or other denials of benefits.
 -->
 
-### Realistic know-your-rights information
+### <a id="know-your-rights">Realistic know-your-rights information</a>
 
 <!-- To-do: prosify this list -->
 
@@ -1947,12 +1953,12 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
     - Cross-reference: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
 
 <!-- To-do:
-### Injury liability / workers' compensation
+### <a id="liability-law">Injury liability / workers' compensation</a>
 
 - Note: Local injury liability and workers' compensation attorneys not extensively researched in this guide as of August 2025. For current resources, contact SLO County Bar Association referral service or search for contingency fee attorneys who handle cases without upfront costs.
 -->
 
-### Consumer protection
+### <a id="consumer-protection">Consumer protection</a>
 
 <!-- To-do: prosify this list -->
 
@@ -1985,7 +1991,7 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
     - Process: Submit complaint → forwarded to company → company responds in 15 days → follow up online or by phone
     - Address: 1700 G St. NW, Washington, DC 20552
 
-### Victims of crime, abuse
+### <a id="crime-victims">Victims of crime, abuse</a>
 
 <!-- To-do: prosify this list -->
 
@@ -2020,7 +2026,7 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
    - Services: Help with finding residential care, complaints about facilities, advanced directive witnessing
    - Coverage: All cities in SLO County
 
-### Mediation
+### <a id="mediation">Mediation</a>
 
 <!-- To-do: prosify this list -->
 
@@ -2032,7 +2038,7 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
 1. SLO Solutions Program (pending review): Free mediation services county-wide for SLO County residents; available throughout North County, South County, and rural areas; same services as main Creative Mediation office. Source: [slobar.org](https://slobar.org/legal-resources/listing/creative-mediation/)
    - Website: [slobar.org/legal-resources/listing/creative-mediation](https://slobar.org/legal-resources/listing/creative-mediation/)
 
-### Legal Self-Help / Law Libraries
+### <a id="legal-self-help">Legal Self-Help / Law Libraries</a>
 
 <!-- To-do: prosify this list -->
 
@@ -2064,7 +2070,7 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
    - Access: Visit [statesidelegal.org](https://www.statesidelegal.org/) to use Navigator tool, find legal help, ask questions, or access self-help tools
    - Online resources: Free legal guidance available through website's interactive tools and legal help map
 
-### Legal Consultation
+### <a id="legal-consultation">Legal Consultation</a>
 
 <!-- To-do: prosify this list -->
 
@@ -2105,11 +2111,11 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
    - Note: Central California Legal Services primarily serves Fresno, Tulare, Kings, Merced, Tuolumne, and Mariposa Counties. *Limited* services are available in SLO County through their Health Consumer Alliance partnership, specifically for healthcare access concerns only, not general civil legal services. SLO County residents should contact other legal aid organizations listed in this guide for most civil legal needs.
       - Source: [centralcallegal.org](https://centralcallegal.org/about-us/)
 
-### Family Law / Child Support
+### <a id="family-law">Family Law / Child Support</a>
 
 [**Child Support Services**](Directory.md#Child-Support-Services) can help you locate parents who may owe child support, establish parentage, obtain and enforce support orders, and collect payments.
 
-### Immigration Law
+### <a id="immigration-law">mmigration Law</a>
 
 <!-- To-do: prosify this list -->
 
@@ -2155,7 +2161,7 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
    - How to access: Reserve a spot [here](https://montereylaw.edu/clinics/immigrationclinic.html) or by calling [831-582-3600](tel:+1-831-582-3600)
    - Source: [montereylaw.edu/clinics/immigrationclinic.html](https://montereylaw.edu/clinics/immigrationclinic.html)
 
-### Senior Legal Services
+### <a id="senior-legal-services">Senior Legal Services</a>
 
 <!-- To-do: prosify this list -->
 
@@ -2165,7 +2171,7 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
    - Focus: Those most in need receive priority assistance
    - Source: [lawhelpca.org](https://www.lawhelpca.org/organization/senior-legal-services-project)
 
-### Tax Disputes
+### <a id="tax-disputes">Tax Disputes</a>
 
 <!-- To-do: prosify this list -->
 
@@ -2177,7 +2183,7 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
    - Phone: [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725))
    - Email: [litc@calpoly.edu](mailto:litc@calpoly.edu)
 
-### Miscellany
+### <a id="legal-miscellany">Miscellany</a>
 
 <!-- To-do: prosify this list -->
 
@@ -2639,7 +2645,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Location: 3970 Short St. #110
       - How to apply: Contact [**CAPSLO**](Directory.md#CAPSLO) directly for HEAP assistance application
       - Eligibility: [based on income](https://capslo.org/eligibility-tables-for-energy-services/)
-      - Additional: PG&E REACH program provides up to $300 energy credit; apply at Dollar Energy Fund [1-888-282-6816](tel:+1-888-282-6816)
+      - Additional: PG&E REACH program provides up to $300 energy credit; apply at Dollar Energy Fund [888-282-6816](tel:+1-888-282-6816)
    1. [City of SLO Customer Assistance Programs](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs)
       - Contact: City Utility Billing [805-781-7133](tel:+1-805-781-7133), [ub@slocity.org](mailto:ub@slocity.org)
       - How to apply: Contact utility billing department for customer assistance program applications and eligibility requirements

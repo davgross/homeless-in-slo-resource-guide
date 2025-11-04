@@ -2125,6 +2125,7 @@
 - Location: 636 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.621268" data-lon="-120.690517" data-zoom="17" data-label="North County Care Minor Emergency Services">Map</a>
 - Phone: [805-238-2422](tel:+1-805-238-2422)
 - Hours: M–F 10am–5pm
+<!-- Dr. Boyce C. Kiger, NPI 1518003227; not listed in CenCal provider directory -->
 <!-- Note: Unable to verify insurance acceptance including Medicare/Medi-Cal through online research (October 2025) -->
 
 ## <a id="Oceano-Campground">Oceano Campground</a>
@@ -3043,10 +3044,17 @@
 <!-- Note: All court locations verified via slo.courts.ca.gov (October 2025) -->
 - Phone: [805-706-3600](tel:+1-805-706-3600) (Civil & Family Law Branch and Criminal Branch)
 
+## <a id="SLO-Thrift">SLO Thrift</a>
+
+- [slothrift.com](https://slothrift.com/)
+- Location: 445 Higuera St., SLO <a href="#" class="map-link" data-lat="35.275984" data-lon="-120.668482" data-zoom="17" data-label="SLO Thrift">📍 Map</a>
+- Phone: [805 439-4434](tel:+1-805 439-4434)
+- Note: Not yet open as of November 2025 (being remodeled)
+
 ## <a id="SLO-Transit">SLO Transit</a>
 
 - [slocity.org/government/department-directory/public-works/slo-transit-bus](https://www.slocity.org/government/department-directory/public-works/slo-transit-bus)
-- Location (office): 1260 Chorro St. #B, San Luis Obispo
+- Location (office): 1260 Chorro St. #B, SLO <a href="#" class="map-link" data-lat="35.278607" data-lon="-120.661582" data-zoom="17" data-label="SLO Transit">📍 Map</a>
 - Phone:
    - [805-594-8090](tel:+1-805-594-8090) (main office)
    - [805-541-2877](tel:+1-805-541-2877) (dispatch)
@@ -3082,8 +3090,8 @@
 - Location: 751 Palm St., SLO <a class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
 - Phone: [805-544-7041](tel:+1-805-544-7041)
 - Hours:
-   - Tuesdays at Prado Center (43 Prado): 2–3pm
-   - Thursdays at Mission San Luis Obispo (751 Palm): by appointment only
+   - Tuesdays at Prado Center (43 Prado <a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">📍 Map</a>): 2–3pm
+   - Thursdays at Mission San Luis Obispo (751 Palm <a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">📍 Map</a>): by appointment only
 - How to access: call to schedule an appointment
 <!-- Note: No dedicated website found for local chapter (as of October 2025) -->
 
