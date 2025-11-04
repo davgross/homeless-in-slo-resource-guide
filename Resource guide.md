@@ -2218,7 +2218,7 @@ This section of the guide shows you how to obtain or replace documents like thes
 - [ID Cards and Driver's Licenses](#id-cards-drivers-licenses)
 - [Birth, Death, and Marriage Certificates](#birth-death-marriage-certificates)
 - Court Case Summaries, Divorce and Adoption Records
-- Passports
+- [Passports](#passports)
 - Tips
 
 ### <a id="social-security-numbers-or-cards">Social Security Numbers or Cards</a>
@@ -2336,22 +2336,22 @@ Additional options include expedited service (add $60) and 1–2 day delivery af
 **Where to apply in SLO County:**
 
 - **SLO County Libraries** (by appointment only; for new applicants and those with passports expired more than 5 years):
-  - [**Arroyo Grande Library**](Directory.md#SLO-County-Public-Libraries): Wednesday, Friday, Saturday
-  - [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries): Tuesday–Saturday, 10am–4pm
-  - [**SLO City/County Library**](Directory.md#SLO-County-Public-Libraries): Thursday, Friday, Saturday
-  - Library execution fee: $35
-  - Call your preferred library to schedule an appointment
-- **Post Offices** (call ahead for appointment):
-  - San Luis Obispo: 1655 Dalidio Dr., [805-543-2605](tel:+1-805-543-2605)
-  - Arroyo Grande: 160 Station Way
-  - Atascadero: 9800 El Camino Real
-  - Paso Robles: [805-237-8342](tel:+1-805-237-8342)
-  - Pismo Beach: 100 Crest Dr., [805-481-5971](tel:+1-805-481-5971)
-  - Cambria: 4100 Bridge St.
-  - Morro Bay
+   - [**Arroyo Grande Library**](Directory.md#SLO-County-Public-Libraries): Wednesday, Friday, Saturday
+   - [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries): Tuesday–Saturday, 10am–4pm
+   - [**SLO City/County Library**](Directory.md#SLO-County-Public-Libraries): Thursday, Friday, Saturday
+   - Library execution fee: $35
+   - Call your preferred library to schedule an appointment
+- **Post Offices** (call ahead for appointment): <!-- To-do: import address and map pin link from the table of post offices found elsewhere in the guide -->
+   - San Luis Obispo: 1655 Dalidio Dr., [805-543-2605](tel:+1-805-543-2605)
+   - Arroyo Grande: 160 Station Way
+   - Atascadero: 9800 El Camino Real
+   - Paso Robles: [805-237-8342](tel:+1-805-237-8342)
+   - Pismo Beach: 100 Crest Dr., [805-481-5971](tel:+1-805-481-5971)
+   - Cambria: 4100 Bridge St.
+   - Morro Bay
 
 **Important note about addresses:** You must provide an address where you can receive your passport by mail.
-If you do not have a stable address, consider using a mail drop service (see the [Mail drops section](#mail-drops) of this guide).
+If you do not have a stable address, consider using a mail drop service (see the [Mail drops section](#mail-drops-post-office-boxes-etc) of this guide).
 
 **Processing time:** Standard processing takes several weeks; expedited service is available for an additional fee.
 Check current processing times at [travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html).
@@ -2359,6 +2359,7 @@ Check current processing times at [travel.state.gov](https://travel.state.gov/co
 #### Renewing your passport
 
 You can renew your passport by mail if all of the following are true:
+
 - You have your most recent passport with you
 - Your passport is not damaged or mutilated
 - Your passport was issued when you were age 16 or older
@@ -2370,7 +2371,7 @@ You can also renew online at [travel.state.gov](https://travel.state.gov/content
 
 **Cost for renewal:** $130 for adults (plus optional expedited service fees)
 
-If you cannot renew by mail (for example, if your passport is lost, stolen, damaged, or expired more than 5 years), you must apply in person using the same process as for a first-time passport.
+If you cannot renew by mail (for example, if your passport is lost, stolen, damaged, or expired more than five years), you must apply in person using the same process as for a first-time passport.
 
 #### Replacing a lost or stolen passport
 
