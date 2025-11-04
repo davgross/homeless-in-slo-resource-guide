@@ -1176,7 +1176,7 @@ Bring your insurance card, identification, and a list of medications you take.
 | [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | ✓        |          |
 | [**MedStop**](Directory.md#MedStop) (SLO)                                                           | ✓        |          |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | ✓        | ✓        |
-<!-- To-do: determine whether or not North County Care accepts Medicare and/or Medi-Cal -->
+<!-- Note: Unable to determine whether North County Care accepts Medicare and/or Medi-Cal through online research (facility has no website; directory pages block automated access; January 2025). Direct phone contact at 805-238-2422 would be needed to verify insurance acceptance. -->
 
 ### <a id="health-insurance">Health Insurance</a>
 
