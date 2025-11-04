@@ -163,6 +163,8 @@ This guide uses different colors and icons to help you quickly identify what kin
 
 ## <a id="self-advocacy-and-communicating-with-service-providers">Standing Up for Yourself and Communicating with Service Providers</a>
 
+<!-- To-do: Add introductory paragraph explaining why the information in this section is useful to the reader -->
+
 ### <a id="build-good-relationships">Build Good Relationships with Case Managers and Service Providers</a>
 
 When you meet with case managers and service providers, you can get better results by being prepared.
@@ -546,16 +548,19 @@ The RVs are in working condition, with no leaks; you must obtain insurance.
 
 ### <a id="sober-living-homes">Sober Living Homes and Residential Treatment Options</a>
 
-[**SLO Hub**](Directory.md#SLO-Hub) helps you find a residential (live-in) recovery program that’s right for you, and can pay the deposit and rent for the opening months of your residency if you cannot afford it or if your insurance does not cover it.
+[**SLO Hub**](Directory.md#SLO-Hub) helps you find a residential (live-in) recovery program that's right for you, and can pay the deposit and rent for the opening months of your residency if you cannot afford it or if your insurance does not cover it.
+
+[**SLO County Behavioral Health Department**](Directory.md#SLO-County-Behavioral-Health) contracts with sober living environments throughout SLO County (from Oceano to Paso Robles) at rates of $35–55 per day.
+These facilities accept Medi-Cal and offer sliding scale fees based on ability to pay.
+Contact their access line at [800-838-1381](tel:+1-800-838-1381) for referrals.
+
 Here are some residential treatment options in our area:
-<!-- To-do: investigate other options outside of the SLO-City/Five-Cities area that we might have overlooked -->
-<!-- To-do: investigate Tivka Treatment, 944 Via Solana, Arroyo Grande; looks like they do detox, buprenorphine therapy, etc. so belong in the substance use section too; they accept "private insurance" -->
 <!-- Note: "Sober Living West" is sometimes advertised as a SLO option, but it's in Playa Del Rey, and besides does not accept insurance apparently -->
-<!-- Note: "Haven" in Grover Beach is a sober living home, but doesn't seem like an option designed for our audience -->
 <!-- Note: Restorative Partners runs some sober living homes in the area, but these are specifically designed for people reentering society from jail/prison custody -->
 
+- [**Tikva Treatment**](Directory.md#Tikva-Treatment) (Arroyo Grande) — also known as "The Haven at Pismo" or "Mesa House"; accepts private insurance and self-pay
 - [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only.
-- [**Casa Solana**](Directory.md#Captive-Hearts) (Grover Beach) for women only. (Also known as “Sunshine House.”)
+- [**Casa Solana**](Directory.md#Captive-Hearts) (Grover Beach) for women only. (Also known as "Sunshine House.")
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only; (division of nonprofit Gate Help Inc.).
 - [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) for men only.
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) for women only; (division of nonprofit Gate Help Inc.).
@@ -776,6 +781,14 @@ Others are outside and are available 24/7.
 You can find a map of these hydration stations [at this link](https://storymaps.arcgis.com/stories/ac825840143c4d718e06397d5306fa89) or at [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ojOfK6l3mkAh6JIfFJZwA5ej5Qj232No&ll=35.27079109833796%2C-120.65453885&z=15).
 
 ## <a id="transportation">Transportation</a>
+
+**In this section:**
+
+- [Public Transit](#public-transit)
+- [Transportation Resources for Seniors](#transportation-for-seniors)
+- [Transportation to Medical Appointments](#transportation-to-medical-appointments)
+- [Bicycles](#bicycles)
+- [Automobile Insurance and Repair](#auto-insurance-and-repair)
 
 ### <a id="public-transit">Public Transit</a>
 
@@ -1576,6 +1589,9 @@ Some of their services are availble on a walk-in basis.
 They charge a sliding fee depending on ability to pay.
 They operate the [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) for sobering up, detox, and medically-assisted drug withdrawal.
 
+[**Tikva Treatment**](Directory.md#Tikva-Treatment) in Arroyo Grande (also known as "The Haven at Pismo" or "Mesa House") offers residential substance abuse treatment, detox services (inpatient opioid, benzodiazepines, cocaine), and buprenorphine/Suboxone treatment.
+They accept private health insurance and self-payment.
+
 [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) offer walk-in suboxone treatment at their emergency rooms.
 
 [**Transitions Mental Health Association**](Directory.md#TMHA) has substance use support groups for people who also have other mental health needs.
@@ -1685,6 +1701,11 @@ Apply on their website.
 The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) website lists hundreds of other free or low-cost tattoo removal programs throughout the country.
 
 ## <a id="end-of-life-care-advance-directives-hospice">End-of-Life Care, Advance Directives, Hospice</a>
+
+**In this section:**
+
+- [Hospice and Palliative Care Services](#hospice-and-palliative-care)
+- [Advance Directives](#advance-directives)
 
 ### <a id="hospice-and-palliative-care">Hospice and Palliative Care Services</a>
 
@@ -1847,7 +1868,23 @@ You can learn more about the form and review one online, in several languages, a
 
 ## <a id="legal-help--mediation-crime-victim-protection">Legal Help & Mediation, Crime Victim Protection</a>
 
-<!-- To-do: maybe add a subsection TOC with links to this long section? -->
+**In this section:**
+
+- Help for defendants, convicts, parolees, probationers, people with PC 290 convictions
+- Legal help regarding housing (discrimination, landlord disputes, etc.)
+- Help with benefits, wrangling with health insurers, et cetera
+- Realistic know-your-rights information
+- Injury liability / workers' compensation
+- Consumer protection
+- Victims of crime, abuse
+- Mediation
+- Legal Self-Help / Law Libraries
+- Legal Consultation
+- Family Law / Child Support
+- Immigration Law
+- Senior Legal Services
+- Tax Disputes
+- Miscellany
 
 ### Help for defendants, convicts, parolees, probationers, people with PC 290 convictions
 
@@ -2159,7 +2196,16 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
 Often, agencies and programs will ask you to produce certain documents, like a government identification card (such as a driver’s license), a social security card, a birth certificate, and so forth.
 If you have lost such documents, or have never obtained them, this can be an obstacle to working with those agencies and programs.
 
-This subsection of the guide shows you how to obtain or replace documents like these.
+This section of the guide shows you how to obtain or replace documents like these.
+
+**In this section:**
+
+- [Social Security Numbers or Cards](#social-security-numbers-or-cards)
+- [ID Cards and Driver's Licenses](#id-cards-drivers-licenses)
+- [Birth, Death, and Marriage Certificates](#birth-death-marriage-certificates)
+- Court Case Summaries, Divorce and Adoption Records
+- Passports
+- Tips
 
 ### <a id="social-security-numbers-or-cards">Social Security Numbers or Cards</a>
 
@@ -2358,6 +2404,12 @@ The post office may stop accepting general delivery mail for you if you try to u
 -->
 
 ## <a id="banking-and-money-management">Banking and Money Management</a>
+
+**In this section:**
+
+- Banks, Credit Unions, et Cetera
+- [Financial Literacy Classes and 1-on-1 Assistance](#financial-literacy)
+- [Debt Consolidation](#debt-consolidation)
 
 ### Banks, Credit Unions, et Cetera
 

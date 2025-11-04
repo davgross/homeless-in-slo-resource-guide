@@ -613,22 +613,30 @@
 - Phone: [805-481-8555](tel:+1-805-481-8555) (9am–4pm)
 - Notes: also known as “Sunshine House”
 
-## <a id="Catholic-Charities">Catholic Charities</a>
+## <a id="Catholic-Charities">Catholic Charities (Diocese of Monterey)</a>
 
-<!-- Source: https://catholiccharitiesdom.org/contact-us/ verified October 2025 -->
+<!-- Source: https://catholiccharitiesdom.org/contact-us/ verified October 2025, re-verified January 2025 -->
 - [catholiccharitiesdom.org](https://catholiccharitiesdom.org/)
    - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
    - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
-- Location: 3250 S. Higuera St. #D, SLO <a href="#" class="map-link" data-lat="35.255397" data-lon="-120.669515" data-zoom="17" data-label="Catholic Charities">Map</a>
-<!-- Note: another source says 3592 Broad St. #104 -->
-<!-- Note: see also the "behind the [SLO] Mission" note below... CC may have multiple locations for multiple things? -->
-- Phone: [805-541-9110](tel:+1-805-541-9110)
+- Locations:
+   - Main office: 3250 S. Higuera St. #D, SLO <a href="#" class="map-link" data-lat="35.255397" data-lon="-120.669515" data-zoom="17" data-label="Catholic Charities (SLO - Higuera)">Map</a>
+   - Behind the Mission: 715 Palm St., SLO <a href="#" class="map-link" data-lat="35.280845" data-lon="-120.665176" data-zoom="17" data-label="Catholic Charities (SLO - Palm)">Map</a>
+   - Paso Robles satellite: St. Rose of Lima Church, 642 Trigo Ln., Paso Robles <a href="#" class="map-link" data-lat="35.622914" data-lon="-120.690742" data-zoom="17" data-label="Catholic Charities (Paso Robles)">Map</a>
+- Phone:
+   - Main: [805-541-9110](tel:+1-805-541-9110)
+   - Paso Robles: [805-541-9120](tel:+1-805-541-9120) (to schedule appointments)
    - Immigration Services: [831-722-2675](tel:+1-831-722-2675)
    - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Note: Tattoo removal office is in Santa Cruz, not SLO)
-- Hours: M–F 9am–5pm
-   <!-- To-do: there's some special time on Thursdays where people can come by "behind the Mission" in SLO to get individualized help -->
-- Services: Supportive Services, Legal Immigration & Citizenship <!-- move this to Resource Guide. Also: what are "supportive services" - needs more precision -->
-<!-- Note: Verified via catholiccharitiesdom.org/contact-us/ October 2025. The organization also has a location in Paso Robles at St. Rose of Lima Church, 642 Trigo Lane -->
+- Hours:
+   - SLO offices: M–F 8am–5pm (call to confirm hours for specific location)
+   - Paso Robles: 2nd Wednesday of every month, 1–5pm
+- Services: Supportive Services, Legal Immigration & Citizenship
+- Notes:
+   - Catholic Charities Diocese of Monterey serves 4 counties: Monterey, Santa Cruz, San Benito, and San Luis Obispo
+   - Administrative headquarters in Seaside, CA
+   - Call ahead to confirm which location provides the specific service you need
+<!-- Note: Multiple addresses found in online sources including 3592 Broad St. #104, 3220 S. Higuera St. #303, and 941 Chorro St.; relationship between these addresses unclear (January 2025) -->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
 
@@ -674,11 +682,11 @@
 - Phone: [805-439-1994](tel:+1-805-439-1994)
 - Email: [info@cfsslo.org](mailto:info@cfsslo.org)
 - Hours: By appointment (call or email to schedule)
-   - Family Resource Centers in Atascadero and Paso Robles: M–F 9am–4pm <!-- To-do: add, and link to, Directory entries for these Family Resource Centers -->
 - Notes:
    - make referrals via [**Adult Protective Services**](#Adult-Protective-Services)
    - operates [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
    - operates [**Parent Connection of SLO County**](#Parent-Connection-of-SLO-County)
+   - operates [**The Link Family Resource Center**](#Link-Family-Resource-Center) (Atascadero and Paso Robles locations)
    - partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
 
 ## <a id="The-Center">The Center for Health & Prevention</a>
@@ -1363,21 +1371,26 @@
 
 ## <a id="Habitat-for-Humanity">Habitat for Humanity SLO County</a>
 
-<!-- Source: https://habitatslo.org/ and https://habitatslo.org/restores/ -->
+<!-- Source: https://habitatslo.org/ and https://habitatslo.org/restores/ verified January 2025 -->
 - [habitatslo.org](https://habitatslo.org/)
 - Location: 844 9th St, Paso Robles <a href="#" class="map-link" data-lat="35.623410" data-lon="-120.688886" data-zoom="17" data-label="Habitat for Humanity">Map</a>
 - Phone: [805-782-0687](tel:+1-805-782-0687)
 - Email: [info@habitatslo.org](mailto:info@habitatslo.org)
 
-**ReStore** (recycled construction and home renovation materials): <!-- To-do: Are there other ReStore locations in SLO County? -->
+**ReStore** (recycled construction and home renovation materials):
 
 - [habitatslo.org/restores](https://habitatslo.org/restores/)
-- Location: 2790 Broad St., SLO <a href="#" class="map-link" data-lat="35.264447" data-lon="-120.651866" data-zoom="17" data-label="Habitat for Humanity ReStore">Map</a>
-- Phone: [805-546-8699](tel:+1-805-546-8699)
-- Email: [restoreslo@habitatslo.org](mailto:restoreslo@habitatslo.org)
-- Hours:
-   - Store: Tu–Sa 10am–5pm
-   - Walk-in donations: Tu/W/F/Sa 11am–4pm (no donations on Thursdays)
+- Locations:
+   - Paso Robles: 844 9th St., Paso Robles <a href="#" class="map-link" data-lat="35.623410" data-lon="-120.688886" data-zoom="17" data-label="Habitat for Humanity ReStore (Paso Robles)">Map</a>
+      - Phone: [805-434-0486](tel:+1-805-434-0486)
+      - Email: [restorepaso@habitatslo.org](mailto:restorepaso@habitatslo.org)
+      - Hours: Tu–Sa 10am–5pm
+   - SLO: 2790 Broad St., SLO <a href="#" class="map-link" data-lat="35.264447" data-lon="-120.651866" data-zoom="17" data-label="Habitat for Humanity ReStore (SLO)">Map</a>
+      - Phone: [805-546-8699](tel:+1-805-546-8699)
+      - Email: [restoreslo@habitatslo.org](mailto:restoreslo@habitatslo.org)
+      - Hours:
+         - Store: Tu–Sa 10am–5pm
+         - Walk-in donations: Tu/W/F/Sa 11am–4pm (no donations on Thursdays)
 
 ## <a id="Healing-and-Restoration-Campus">Healing and Restoration Campus</a>
 
@@ -1620,12 +1633,16 @@
 
 ## <a id="Link-Family-Resource-Center">The Link Family Resource Center</a>
 
-- [https://linkslo.org/](https://linkslo.org/)
-- Location: 4507 Del Rio Ave Bldg. #1, Atascadero <a href="#" class="map-link" data-lat="35.513562" data-lon="-120.686928" data-zoom="17" data-label="The Link Family Resource Center">Map</a>
+<!-- Source: https://linkslo.org/ and https://cfsslo.org verified January 2025 -->
+- [linkslo.org](https://linkslo.org/)
+- Locations:
+   - Atascadero: 4507 Del Rio Ave Bldg. #1, Atascadero <a href="#" class="map-link" data-lat="35.513562" data-lon="-120.686928" data-zoom="17" data-label="The Link Family Resource Center (Atascadero)">Map</a>
+   - Paso Robles: 1802 Chestnut St., Paso Robles <a href="#" class="map-link" data-lat="35.628326" data-lon="-120.691147" data-zoom="17" data-label="The Link Family Resource Center (Paso Robles)">Map</a>
 - Phone: [805-466-5404](tel:+1-805-466-5404)
-   - Bilingual: [805-794-0217](tel:+1-805-794-0217)
-- Hours: M–F 9am–5pm
+   - Family Advocate Services: [805-794-0217](tel:+1-805-794-0217)
+- Hours: M–F 9am–4pm
 - How to access: accepts self-referrals, school referrals, and community agency referrals
+- Notes: Operated by [**Center for Family Strengthening (CSF)**](#CSF)
 
 ## <a id="Literacy-For-Life">Literacy For Life</a>
 
@@ -3151,6 +3168,17 @@
    - A program of [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Focus on enhancing youth mental health in SLO and Northern Santa Barbara Counties
 <!-- Note: No dedicated website, specific physical address, or hours listed (as of October 2025); contact via phone/email or through CAPSLO main office -->
+
+## <a id="Tikva-Treatment">Tikva Treatment (The Haven at Pismo)</a>
+
+<!-- Source: NPI Registry https://www.hipaaspace.com/medical_billing/coding/national_provider_identifier/codes/npi_1760934574.aspx verified January 2025 -->
+<!-- To-do: add their website if they've got one -->
+- Location: 944 Via Solana, Suite 102, Arroyo Grande <a href="#" class="map-link" data-lat="35.112815" data-lon="-120.593483" data-zoom="17" data-label="Tikva Treatment">Map</a>
+- Phone: [805-689-8024](tel:+1-805-689-8024) (local); [954-560-5238](tel:+1-954-560-5238) (main office)
+- Services: Residential substance abuse treatment, detox (inpatient opioid, benzodiazepines, cocaine), buprenorphine/Suboxone treatment, 30-60 day inpatient programs, transitional housing
+- Insurance: Accepts private health insurance and self-payment/cash <!-- Source: https://www.inpatient-rehab.org/listings/tikva-treatment-llc-the-haven-at-pismo-arroyo-grande-ca.html and https://recovered.org/rehabs/tikva-treatment-llc-haven-pismo verified January 2025; call to verify Medi-Cal/Medicare acceptance -->
+- How to access: Call for intake assessment
+- Notes: Private for-profit facility; also known as "The Haven at Pismo"; operates multiple residential houses (Mesa House, [**Casa Solana**](#Casa-Solana))
 
 ## T-MHA
 
