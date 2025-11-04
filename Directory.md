@@ -3180,7 +3180,7 @@
 ## <a id="Tikva-Treatment">Tikva Treatment (The Haven at Pismo)</a>
 
 <!-- Source: NPI Registry https://www.hipaaspace.com/medical_billing/coding/national_provider_identifier/codes/npi_1760934574.aspx verified January 2025 -->
-<!-- To-do: add their website if they've got one -->
+<!-- Note: No official website found through web search of reputable sources as of November 2025; multiple directory listings exist but no direct facility website -->
 - Location: 944 Via Solana, Suite 102, Arroyo Grande <a href="#" class="map-link" data-lat="35.112815" data-lon="-120.593483" data-zoom="17" data-label="Tikva Treatment">Map</a>
 - Phone: [805-689-8024](tel:+1-805-689-8024) (local); [954-560-5238](tel:+1-954-560-5238) (main office)
 - Services: Residential substance abuse treatment, detox (inpatient opioid, benzodiazepines, cocaine), buprenorphine/Suboxone treatment, 30-60 day inpatient programs, transitional housing

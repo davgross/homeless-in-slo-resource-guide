@@ -1179,7 +1179,7 @@ Bring your insurance card, identification, and a list of medications you take.
 | [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | ✓        |          |
 | [**MedStop**](Directory.md#MedStop) (SLO)                                                           | ✓        |          |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | ✓        | ✓        |
-<!-- To-do: determine whether or not North County Care accepts Medicare and/or Medi-Cal -->
+<!-- Note: Unable to verify whether North County Care Minor Emergency Services accepts Medicare/Medi-Cal through reputable online sources (researched November 2025); call 805-238-2422 to verify -->
 
 ### <a id="health-insurance">Health Insurance</a>
 
@@ -1817,7 +1817,15 @@ You can learn more about the form and review one online, in several languages, a
       - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/womens-self-defense.html)
          - 404. Try [https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html)
    1. Lumina Alliance: no indication from their website that they offer self-defense training
-1. General Self-Defense and Martial Arts Classes <!-- To-do: add Akido of San Luis Obispo https://aikidosanluisobispo.com/ -->
+1. General Self-Defense and Martial Arts Classes
+   1. Aikido of San Luis Obispo
+      - Website: [aikidosanluisobispo.com](https://aikidosanluisobispo.com/)
+      - Phone: [805-544-8866](tel:+1-805-544-8866)
+      - Email: [aikidoslo@mac.com](mailto:aikidoslo@mac.com)
+      - Programs: Adult Aikido classes, Youth Classes
+      - Note: Adult aikido enrollment available through [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School)
+      - Contact directly for location, hours, and pricing information
+      - Source: [aikidosanluisobispo.com](https://aikidosanluisobispo.com/) verified November 2025
    1. Cuesta College Krav Maga Workshop
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
       - Focus: Reality-based self-defense, instinctive movements, practical techniques
@@ -2294,11 +2302,103 @@ The VitalChek website can often also get you these records from other areas.
       - By request: Contact court for specific document requests
    - Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov)
 
-<!--
-### Passports
+### <a id="passports">Passports</a>
 
-To-do: Add section on how to obtain, renew, or reissue a lost U.S. passport. Maybe also general advice about passports from other countries.
--->
+A U.S. passport is required for international travel to most countries outside the United States.
+You need a passport to travel by air, land, or sea to most international destinations.
+
+#### Getting a passport for the first time
+
+To apply for your first U.S. passport, you must apply in person at an authorized passport acceptance facility.
+You cannot apply by mail for a first-time passport.
+
+**Required documents:**
+
+1. Proof of U.S. citizenship (original document required):
+   - Certified U.S. birth certificate with official seal, or
+   - Certificate of Naturalization, or
+   - Certificate of Citizenship, or
+   - Consular Report of Birth Abroad, or
+   - Previous U.S. passport
+   - Note: Digital or mobile birth certificates are not accepted; you must submit a physical document
+2. Photo identification with your picture (original required):
+   - Valid driver's license or enhanced driver's license with photo (most common), or
+   - Government employee ID, or
+   - U.S. military ID, or
+   - Certificate of Naturalization or Citizenship
+   - You must also submit photocopies of the front and back of your ID
+3. Recent passport photo that meets official requirements
+4. Completed Form DS-11 (do not sign until instructed by the passport agent)
+
+**Cost:** $165 total for an adult passport book ($130 application fee + $35 execution fee)
+Additional options include expedited service (add $60) and 1–2 day delivery after mailing (add $22.05).
+
+**Where to apply in SLO County:**
+
+- **SLO County Libraries** (by appointment only; for new applicants and those with passports expired more than 5 years):
+  - [**Arroyo Grande Library**](Directory.md#SLO-County-Public-Libraries): Wednesday, Friday, Saturday
+  - [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries): Tuesday–Saturday, 10am–4pm
+  - [**SLO City/County Library**](Directory.md#SLO-County-Public-Libraries): Thursday, Friday, Saturday
+  - Library execution fee: $35
+  - Call your preferred library to schedule an appointment
+- **Post Offices** (call ahead for appointment):
+  - San Luis Obispo: 1655 Dalidio Dr., [805-543-2605](tel:+1-805-543-2605)
+  - Arroyo Grande: 160 Station Way
+  - Atascadero: 9800 El Camino Real
+  - Paso Robles: [805-237-8342](tel:+1-805-237-8342)
+  - Pismo Beach: 100 Crest Dr., [805-481-5971](tel:+1-805-481-5971)
+  - Cambria: 4100 Bridge St.
+  - Morro Bay
+
+**Important note about addresses:** You must provide an address where you can receive your passport by mail.
+If you do not have a stable address, consider using a mail drop service (see the [Mail drops section](#mail-drops) of this guide).
+
+**Processing time:** Standard processing takes several weeks; expedited service is available for an additional fee.
+Check current processing times at [travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html).
+
+#### Renewing your passport
+
+You can renew your passport by mail if all of the following are true:
+- You have your most recent passport with you
+- Your passport is not damaged or mutilated
+- Your passport was issued when you were age 16 or older
+- Your passport was issued within the last 15 years
+- Your passport is in your current name (or you can document a legal name change)
+
+If you meet these requirements, you can renew by mail using Form DS-82.
+You can also renew online at [travel.state.gov](https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html) if you meet additional eligibility requirements.
+
+**Cost for renewal:** $130 for adults (plus optional expedited service fees)
+
+If you cannot renew by mail (for example, if your passport is lost, stolen, damaged, or expired more than 5 years), you must apply in person using the same process as for a first-time passport.
+
+#### Replacing a lost or stolen passport
+
+**Step 1: Report it immediately**
+Report your passport lost or stolen as soon as possible to protect yourself from identity theft.
+You can report online using Form DS-64, by calling [877-487-2778](tel:+1-877-487-2778) (TTY [888-874-7793](tel:+1-888-874-7793)), or in person when you apply for a replacement.
+
+**Important:** Once you report your passport lost or stolen, you cannot use it for travel even if you find it later.
+
+**Step 2: Apply for a replacement**
+To replace a lost or stolen passport, you must apply in person using Form DS-11 at an authorized passport acceptance facility.
+The process and requirements are the same as for a first-time passport application.
+Reporting your passport lost or stolen does not replace it; you must apply separately for a new passport.
+
+**Cost:** $165 total ($130 application fee + $35 execution fee)
+
+#### Resources
+
+- Official U.S. Department of State passport information: [travel.state.gov/passports](https://travel.state.gov/content/travel/en/passports.html)
+- General passport information: [usa.gov/passport](https://www.usa.gov/passport)
+- SLO County library passport services: [slocounty.ca.gov/departments/library/services/passport-application-acceptance](https://www.slocounty.ca.gov/departments/library/services/passport-application-acceptance)
+- Source: [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html), [usa.gov](https://www.usa.gov/passport), [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/library/services/passport-application-acceptance) verified November 2025
+
+#### Passports from other countries
+
+If you are a citizen of another country and need to obtain or renew a passport from your home country, contact your country's embassy or consulate.
+The nearest consulates for many countries are located in Los Angeles or San Francisco.
+You can find contact information for embassies and consulates at [embassy.goabroad.com](https://embassy.goabroad.com/) or by searching online for your country's embassy or consulate in the United States.
 
 ### Tips
 
