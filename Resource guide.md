@@ -80,7 +80,6 @@ This guide uses different colors and icons to help you quickly identify what kin
 1. [Substance Use & Recovery](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
 1. [Tattoo Removal](#tattoo-removal)
 1. [End-of-Life Help](#end-of-life-care-advance-directives-hospice)
-1. [Personal Safety](#personal-safety-deescalation-self-defense)
 1. [Legal Help](#legal-help--mediation-crime-victim-protection)
 1. [IDs & Documents](#ids-and-other-documents)
 1. [Mail & PO Boxes](#mail-drops-post-office-boxes-etc)
@@ -103,6 +102,7 @@ This guide uses different colors and icons to help you quickly identify what kin
 1. [Other Guides](#other-guides-web-pages-information-sources)
 1. [Miscellaneous Tips](#miscellaneous-tips)
 1. [Directory](Directory.md)
+<!-- 1. [Personal Safety](#personal-safety-deescalation-self-defense) -->
 
 ## <a id="emergency-contacts">Hotlines and Emergency Contacts</a>
 
@@ -1774,9 +1774,9 @@ A POLST form only works if you or your legally-recognized decisionmaker signs it
 You can change your mind after you fill out such a form and can change it or discontinue it.
 You can learn more about the form and review one online, in several languages, at [capolst.org](https://capolst.org/).
 
-## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
+<!-- Wasn't able to find much for this section
 
-<!-- To-do: prosify this list -->
+## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
 
 1. Outside Crisis Intervention and Deescalation Resources
    1. Central Coast Hotline (24/7 Crisis Support)
@@ -1792,7 +1792,6 @@ You can learn more about the form and review one online, in several languages, a
       - Email: See [**NAMI SLO County**](Directory.md#NAMI-SLO-County) in the [Directory](Directory.md)
    1. Mobile Crisis Team (MCT): 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
    1. Behavioral Health Community Action Team (BHCAT): Partnership with Sheriff's Office, Paso Robles Police Department, and Atascadero Police Department serving North County communities. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct))
-   1. SLO County Sheriff Non-Emergency: [805-781-4540](tel:+1-805-781-4540). Location: <a href="#" class="map-link" data-lat="35.320605" data-lon="-120.726162" data-zoom="17" data-label="Sheriff">1585 Kansas Avenue, SLO</a>. Serves unincorporated areas of SLO County including North County. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/sheriff-coroner/contact-the-sheriff-s-office)
 1. Women's Self-Defense Programs
    1. Model Mugging of SLO
       - Program type: Full-contact, scenario-based training designed specifically for women
@@ -1880,6 +1879,8 @@ You can learn more about the form and review one online, in several languages, a
       - Simple techniques: Learn basic moves to make an attacker reconsider and give you time to escape
       - Training recommendation: Take formal self-defense classes when possible for proper instruction
 
+-->
+
 ## <a id="legal-help--mediation-crime-victim-protection">Legal Help & Mediation, Crime Victim Protection</a>
 
 **In this section:**
@@ -1904,21 +1905,19 @@ You can learn more about the form and review one online, in several languages, a
 
 <!-- To-do: prosify this list -->
 
-1. [**Restorative Partners**](Directory.md#Restorative-Partners)
-   - What’s Available: Reentry resources, in-custody programs, system navigation, housing assistance, treatment, workforce development, clean and sober living homes for men and women
-   - Target population: Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
-   - How to initiate services: Call main number or email; attend Community Workshop for volunteers
-   - Special programs: The Bridge Cafe—social enterprise offering job training and certification for justice-involved individuals through Cuesta College partnership; housing program
-   - Philosophy: Restorative justice focusing on healing harm, involving wrongdoers, victims, and community
-1. [**SLO Public Defenders**](Directory.md#SLO-Public-Defenders)
-   - What’s Available: Free legal representation for individuals charged with crimes who cannot afford private attorneys
-   - Eligibility: Must be unable to afford a private attorney; applies to state court cases, juveniles, and conservatorship cases
-   - Access: Appear at first court hearing and ask judge to appoint attorney; meetings by appointment only
-   - Cost: Users may be responsible for portion of costs based on ability to pay
-1. Clean Slate Clinic
-   - Joint project of People’s Justice Project, California Rural Legal Assistance, and SLO College of Law
-   - Helps people purge old criminal records to make it easier for them to get employment and housing
-   - Call [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805-242-6691) to schedule an appointment
+If you are being taken to court and accused of a serious crime by the government, you have the right to have a lawyer who is trained in the law who can help defend you against the charges.
+You have a right to a lawyer even if you do not have enough money to pay one.
+If you cannot affort to hire a lawyer, tell the judge so when you first appear in court.
+[**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) is the primary public defenders’s office in SLO County.
+You must wait until the judge assigns a particular public defender to you before you can discuss your case with them.
+
+If you have been in jail or prison and are reentering the community after having done your time or being released on parole, [**Restorative Partners**](Directory.md#Restorative-Partners) may be able to help make your reentry successful.
+They can give you housing assistance including clean & sober living homes, and help returning to the workforce.
+Call or email them to learn more.
+
+If you have a criminal record that makes it difficult for you to find employment or housing, you may be able to clean that record.
+The &ldquo;Clean Slate Clinic&rdquo; is a joint project of [**People's Justice Project**](Directory.md#Peoples-Justice-Project), [**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance), and [**SLO College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic).
+Contact them at [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805-242-6691) to schedule an appointment.
 
 ### <a id="housing-legal">Legal help regarding housing (discrimination, landlord disputes, etc.)</a>
 
@@ -1933,6 +1932,8 @@ You can learn more about the form and review one online, in several languages, a
    - Services: #CancelRent campaign support, rent control advocacy, California Tenant Bill of Rights information, Tenant Lawyer Network
    - Email: [info@tenantstogether.org](mailto:info@tenantstogether.org)
 1. *California Tenants' Guide* ([English](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) [Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf))
+
+<!-- To-do: is there a SLO tenant's union or something along those lines? -->
 
 ### <a id="benefits-legal">Help with benefits, wrangling with health insurers, et cetera</a>
 
@@ -2043,8 +2044,6 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
    - Services: Family disputes, business/commercial conflicts, landlord/tenant issues, neighbor conflicts
    - Process: Voluntary mediation requiring both parties' agreement; cases typically scheduled within two weeks; trained neutral mediators facilitate constructive dialog
    - Philosophy: Does not take sides or decide who is right; helps people work out their own solutions
-1. SLO Solutions Program (pending review): Free mediation services county-wide for SLO County residents; available throughout North County, South County, and rural areas; same services as main Creative Mediation office. Source: [slobar.org](https://slobar.org/legal-resources/listing/creative-mediation/)
-   - Website: [slobar.org/legal-resources/listing/creative-mediation](https://slobar.org/legal-resources/listing/creative-mediation/)
 
 ### <a id="legal-self-help">Legal Self-Help / Law Libraries</a>
 
@@ -2341,14 +2340,14 @@ Additional options include expedited service (add $60) and 1–2 day delivery af
    - [**SLO City/County Library**](Directory.md#SLO-County-Public-Libraries): Thursday, Friday, Saturday
    - Library execution fee: $35
    - Call your preferred library to schedule an appointment
-- **Post Offices** (call ahead for appointment): <!-- To-do: import address and map pin link from the table of post offices found elsewhere in the guide -->
-   - San Luis Obispo: 1655 Dalidio Dr., [805-543-2605](tel:+1-805-543-2605)
-   - Arroyo Grande: 160 Station Way
-   - Atascadero: 9800 El Camino Real
-   - Paso Robles: [805-237-8342](tel:+1-805-237-8342)
-   - Pismo Beach: 100 Crest Dr., [805-481-5971](tel:+1-805-481-5971)
-   - Cambria: 4100 Bridge St.
-   - Morro Bay
+- **Post Offices** (call ahead for appointment):
+   - Arroyo Grande, <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a> <!-- To-do: add phone number -->
+   - Atascadero, <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> <!-- To-do: add phone number -->
+   - Cambria, <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a> <!-- To-do: add phone number -->
+   - Morro Bay, <a href="#" class="map-link" data-lat="35.366647" data-lon="-120.847324" data-zoom="17" data-label="Post Office">898 Napa Ave.</a> <!-- To-do: add phone number -->
+   - Paso Robles, <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a>, [805-237-8342](tel:+1-805-237-8342)
+   - Pismo Beach, <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a>, [805-481-5971](tel:+1-805-481-5971)
+   - San Luis Obispo, <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a>, [805-543-2605](tel:+1-805-543-2605)
 
 **Important note about addresses:** You must provide an address where you can receive your passport by mail.
 If you do not have a stable address, consider using a mail drop service (see the [Mail drops section](#mail-drops-post-office-boxes-etc) of this guide).
@@ -2377,7 +2376,7 @@ If you cannot renew by mail (for example, if your passport is lost, stolen, dama
 
 **Step 1: Report it immediately**
 Report your passport lost or stolen as soon as possible to protect yourself from identity theft.
-You can report online using Form DS-64, by calling [877-487-2778](tel:+1-877-487-2778) (TTY [888-874-7793](tel:+1-888-874-7793)), or in person when you apply for a replacement.
+You can report [online using Form DS-64](https://pptform.state.gov/), by calling [877-487-2778](tel:+1-877-487-2778) (TTY [888-874-7793](tel:+1-888-874-7793)), or in person when you apply for a replacement.
 
 **Important:** Once you report your passport lost or stolen, you cannot use it for travel even if you find it later.
 
@@ -2393,7 +2392,7 @@ Reporting your passport lost or stolen does not replace it; you must apply separ
 - Official U.S. Department of State passport information: [travel.state.gov/passports](https://travel.state.gov/content/travel/en/passports.html)
 - General passport information: [usa.gov/passport](https://www.usa.gov/passport)
 - SLO County library passport services: [slocounty.ca.gov/departments/library/services/passport-application-acceptance](https://www.slocounty.ca.gov/departments/library/services/passport-application-acceptance)
-- Source: [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html), [usa.gov](https://www.usa.gov/passport), [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/library/services/passport-application-acceptance) verified November 2025
+<!-- Source: [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html), [usa.gov](https://www.usa.gov/passport), [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/library/services/passport-application-acceptance) verified November 2025 -->
 
 #### Passports from other countries
 
@@ -2612,7 +2611,8 @@ Sources: [unitedwayslo.org](https://www.unitedwayslo.org/taxes), [ccfreetax.org]
 
 There are also free options that allow you to file your federal income taxes yourself by using guided tax preparation software or by filling in on-line forms and filing them electronically.
 See [irs.gov/freefile](https://www.irs.gov/freefile) for details.
-Note that the current presidential administration is hostile to this free filing program and so it may be discontinued.
+
+<!-- Note: IRS "Direct File" is kaput as of tax year 2025 -->
 
 > See the [Internet Access / Email / Digital Access Assistance](#internet-access--email--digital-access-assistance) section of this guide for ways to get access to a computer and the internet.
 
