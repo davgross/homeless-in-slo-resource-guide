@@ -80,6 +80,7 @@ This guide uses different colors and icons to help you quickly identify what kin
 1. [Substance Use & Recovery](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
 1. [Tattoo Removal](#tattoo-removal)
 1. [End-of-Life Help](#end-of-life-care-advance-directives-hospice)
+1. [Personal Safety](#personal-safety-deescalation-self-defense)
 1. [Legal Help](#legal-help--mediation-crime-victim-protection)
 1. [IDs & Documents](#ids-and-other-documents)
 1. [Mail & PO Boxes](#mail-drops-post-office-boxes-etc)
@@ -102,7 +103,6 @@ This guide uses different colors and icons to help you quickly identify what kin
 1. [Other Guides](#other-guides-web-pages-information-sources)
 1. [Miscellaneous Tips](#miscellaneous-tips)
 1. [Directory](Directory.md)
-<!-- 1. [Personal Safety](#personal-safety-deescalation-self-defense) -->
 
 ## <a id="emergency-contacts">Hotlines and Emergency Contacts</a>
 
@@ -367,6 +367,17 @@ If you are being treated by a hospital or other medical professionals, consider 
 If you need shelter because you have a medical condition that requires you to have some medical supervision, you may be able to get a referral to a rehabilitative care or skilled nursing or assistive living facility.
 You can get such a referral from your primary care physician.
 You may also be able to get some help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services). <!-- Source: Amelia Grove's "Aging and Levels of Care" presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
+
+#### A Note About “In-Home” Supportive Services
+<!-- Note: not sure where this section belongs. I could see a case for it being in the "Medical/Health" section, or maybe in the section on services for particular groups (e.g. elderly/disabled/blind). People who are looking for this information seem unlikely to search for it by going to the the "Housing" section. -->
+
+The [**In-Home Supportive Services (IHSS)**](Directory.md#In-Home-Supportive-Services) Program helps pay for services provided to senior, blind, or disabled people who have difficulty caring for themselves and cannot live at home safely without in-home care.
+Despite the “in-home” name, this program is potentially also available to people who shelter at homeless shelters or safe-parking sites.<!-- according to the long-term care ombudsman at the Collaborative Outreach Meeting on 5 Nov 2025 -->
+Among the services that this program can help pay for are meal preparation, laundry, grocery shopping, personal care services (such as bowel and bladder care, bathing, grooming and paramedical services, help getting dressed, help getting into and out of a wheelchair), and accompaniment to medical appointments.
+
+To qualify for IHSS, you must be disabled, blind, or age 65 or older.
+You must also be unable to live safely in your current home or shelter environment without assistance, and you must be financially needy.
+The process of applying for IHSS is difficult, so it is a good idea for you to get some help from a case manager or other social worker.
 
 ### <a id="camping-parking-rv-parks">Legal Camping, Safe Parking, and RV Parks</a>
 
@@ -1095,8 +1106,6 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
 
 ## <a id="health-medical-care">Health & Medical Care</a>
 
-<!-- To-do: Add information about 'In-Home Supportive Services' which apparently is an option for homeless people who live in shelters or safe-parking -->
-
 **In this section:**
 
 - [Emergency Care](#emergency-care)
@@ -1547,7 +1556,7 @@ If you develop a sunburn, you can get some relief with over-the-counter salves a
 If you have blisters that break, keep the area clean and covered with a bandage.
 If you notice increasing redness that spreads beyond the area of the burn, or pus, or if you develop a fever, seek medical care as this may indicate an infection.
 
-<!-- To-do: integrate items from this section into the sections above (or new subsections if necessary)
+<!--
 ### Uncategorized / Needs Research
 
 1. Self-help tips
@@ -1728,8 +1737,6 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
 
 ### <a id="hospice-and-palliative-care">Hospice and Palliative Care Services</a>
 
-<!-- To-do: investigate Aevum Hospice, and add it to this section if appropriate. https://aevumhospice.com/ -->
-
 Palliative care is medical treatment that aims to relieve pain and suffering, perhaps alongside medical treatment that hopes to cure or treat some health problem.
 
 Hospice care is meant to make the process of dying less uncomfortable, and is meant for people who do not have realistic hopes of being cured and living long.
@@ -1738,6 +1745,10 @@ Typically this means they are in their last six months of life.
 [**Hospice SLO**](Directory.md#Hospice-SLO) includes non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, and end-of-life companion support.
 All services are provided at no charge (they rely entirely on community donations).
 These services are open to San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life.
+
+The [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program) provides shelter to terminally ill people who have need of housing so that they can die in the dignity and stability of housing with the care of hospice.
+
+[**Aevum Home Health**](Directory.md#Aevum) offers palliative care, and accepts Medicare and Medi-Cal. They also have a hospice program.<!-- unclear if the hospice program also accepts Medicare and Medi-Cal -->
 
 [**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) includes hospice nurse availability, nursing services, spiritual care, dietitian services, social work services, bereavement services, home health aides, trained volunteers, support groups, and musicians.
 They accept Medicare; contact them directly to ask about whether Medi-Cal will cover their services.
@@ -1753,8 +1764,6 @@ They are located at <a href="#" class="map-link" data-lat="35.497588" data-lon="
 
 [**Medi-Cal**](Directory.md#Medi-Cal) ([**CenCal**](Directory.md#CenCal)) recipients who have a life expectancy of six months or less can choose to receive Medi-Cal covered hospice care in lieu of ordinary medical coverage.
 Medi-Cal (CenCal) also covers palliative care as part of its ordinary medical coverage.
-
-The [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program) provides shelter to terminally ill people who have need of housing so that they can die in the dignity and stability of housing with the care of hospice.
 
 Hospice care is part of the Veterans Health Administration (VHA)’s standard medical benefits package.
 If you are a veteran who is enrolled with the VHA, and you have a clinical need for end-of-life hospice care, you can get this without a copay through the VHA.
@@ -1792,62 +1801,44 @@ A POLST form only works if you or your legally-recognized decisionmaker signs it
 You can change your mind after you fill out such a form and can change it or discontinue it.
 You can learn more about the form and review one online, in several languages, at [capolst.org](https://capolst.org/).
 
-<!-- Wasn't able to find much for this section
-
 ## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
 
-1. Outside Crisis Intervention and Deescalation Resources
-   1. Central Coast Hotline (24/7 Crisis Support)
-      - Phone: Call or text [800-783-0607](tel:+1-800-783-0607)
-      - Services: Mental health crisis support, Mobile Crisis Team, suicide prevention
-      - What they do: Teams of behavioral health experts trained to de-escalate crises related to alcohol, drugs, or mental health conditions
-      - When to call: Mental health emergencies that don't involve weapons or known threats of violence
-      - Coverage: Available countywide (including North County) to people of all ages
-      - Source: [t-mha.org](https://www.t-mha.org/central-coast-hotline.php)
-   1. Additional Crisis Resources
-      - Psychiatric Crisis Emergency: [800-838-1381](tel:+1-800-838-1381)
-      - Crisis Text Line: Text "HOME" to [741741](sms:741741)
-      - Email: See [**NAMI SLO County**](Directory.md#NAMI-SLO-County) in the [Directory](Directory.md)
-   1. Mobile Crisis Team (MCT): 24/7/365 mobile support for people experiencing mental health or substance use crisis. Teams of behavioral health experts respond in the community to de-escalate crises that don't involve medical emergencies, weapons, or known threats of violence. Available countywide to all ages. To access, call Central Coast Hotline at [800-783-0607](tel:+1-800-783-0607) and request mobile crisis services. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-services)
-   1. Behavioral Health Community Action Team (BHCAT): Partnership with Sheriff's Office, Paso Robles Police Department, and Atascadero Police Department serving North County communities. Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct))
-1. Women's Self-Defense Programs
-   1. Model Mugging of SLO
-      - Program type: Full-contact, scenario-based training designed specifically for women
-      - Training method: Realistic attack simulations with fully padded instructor in controlled environment
-      - Skills taught: Verbal de-escalation, boundary setting, reading situations, physical countermeasures
-      - Current status: Classes not currently being held; add name to interest list for future classes
-      - Source: [modelmugging.org](https://modelmugging.org/self-defense-workshops-classes/category/california/san-luis-obispo-womens-self-defense/)
-         - Note: website might not load if you're on a VPN
-         - The page says it's about MM classes in SLO, but if you try to register it redirects you to "Los Angeles / Orange County" classes
-      - Contact: Check Facebook page "Model Mugging SLO" for updates
-         - Their facebook account's most recent post is from 2021 and says "classes are not being held at this time"
-      - Available evidence suggests this is defunct or on ice
-   1. Akido of SLO
-      - Has a Women's Self Defense page on their website: [https://aikidosanluisobispo.com/?page_id=1109](https://aikidosanluisobispo.com/?page_id=1109)
-      - But it says "Upcoming Classes TBA" and may be the same as the Model Mugging classes that were last offered some time around or before 2021
-   1. Cuesta College Women's Self Defense Workshop
-      - Format: Hands-on, comprehensive workshop in safe, supportive environment
-      - Content: Self-defense mindset, managing unknown persons, striking and combative skills
-      - Instructor: Qualified martial arts instructor
-      - Financial aid: Scholarships and family discounts available
-      - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/womens-self-defense.html)
-         - 404. Try [https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html)
-   1. Lumina Alliance: no indication from their website that they offer self-defense training
-1. General Self-Defense and Martial Arts Classes
+## Self-Defense Classes and Martial Arts
+
+Sometimes relatively inexpensive self-defense or martial arts classes are offered through the “Community Programs” offered at [**Cuesta College**](Directory.md#Cuesta-College) (see the [“Martial Arts&rdquo](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) section of their website) or [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (see the [“Community Programs”](https://ae.slcusd.org/community-programs) section of their website).
+
+<!-- All seem to be defunct at the moment
+### Women's Self-Defense Programs
+
+1. Model Mugging of SLO
+   - Available evidence suggests this is defunct or on ice
+      - Their facebook account's most recent post is from 2021 and says "classes are not being held at this time"
+   - Source: [modelmugging.org](https://modelmugging.org/self-defense-workshops-classes/category/california/san-luis-obispo-womens-self-defense/)
+      - Note: website might not load if you're on a VPN
+      - The page says it's about MM classes in SLO, but if you try to register it redirects you to "Los Angeles / Orange County" classes
+1. Akido of SLO
+   - Has a Women's Self Defense page on their website: [https://aikidosanluisobispo.com/?page_id=1109](https://aikidosanluisobispo.com/?page_id=1109)
+   - But it says "Upcoming Classes TBA" and may be the same as the Model Mugging classes that were last offered some time around or before 2021
+1. Cuesta College Women's Self Defense Workshop
+   - Format: Hands-on, comprehensive workshop in safe, supportive environment
+   - Content: Self-defense mindset, managing unknown persons, striking and combative skills
+   - Instructor: Qualified martial arts instructor
+   - Financial aid: Scholarships and family discounts available
+   - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
+   - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/womens-self-defense.html)
+      - 404. Try [https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html)
+1. Lumina Alliance: no indication from their website that they offer self-defense training
+-->
+<!-- None of these seem to advertise sliding-scale, free, or low-cost programs
+### General Self-Defense and Martial Arts Classes
+
    1. Aikido of San Luis Obispo
       - Website: [aikidosanluisobispo.com](https://aikidosanluisobispo.com/)
       - Phone: [805-544-8866](tel:+1-805-544-8866)
       - Email: [aikidoslo@mac.com](mailto:aikidoslo@mac.com)
       - Programs: Adult Aikido classes, Youth Classes
-      - Note: Adult aikido enrollment available through [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School)
       - Contact directly for location, hours, and pricing information
       - Source: [aikidosanluisobispo.com](https://aikidosanluisobispo.com/) verified November 2025
-   1. Cuesta College Krav Maga Workshop
-      - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - Focus: Reality-based self-defense, instinctive movements, practical techniques
-      - Goal: Build confidence and strength in shortest training time
-      - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/self-defense.html)
    1. Paragon Brazilian Jiu Jitsu SLO
       - Location: <a href="#" class="map-link" data-lat="35.246301" data-lon="-120.666138" data-zoom="17" data-label="Paragon">235 Tank Farm Rd, Unit J, SLO</a>
       - Programs: Brazilian Jiu-Jitsu, submission wrestling, self-defense, Muay Thai kickboxing
@@ -1867,37 +1858,43 @@ You can learn more about the form and review one online, in several languages, a
       - Contact: <a href="#" class="map-link" data-lat="35.263974" data-lon="-120.643420" data-zoom="17" data-label="Academy of Martial Arts">1160 Laurel Ln. #100, SLO</a>; contact directly to inquire about potential financial assistance programs
       - Philosophy: Inclusive training for all; "training designed for tournament competition tend to eliminate those who need martial arts the most"
       - Note: No publicly advertised free/low-cost programs found; may offer accommodations on case-by-case basis given inclusive philosophy
-1. Personal Safety Tips for Homeless and Vulnerable Individuals
-   1. Situational Awareness
-      - Stay alert: Don't be distracted by phone or headphones when walking alone
-      - Trust your instincts: If a situation feels unsafe, remove yourself immediately
-      - Walk with confidence: Chin up, eyes forward, steady pace
-      - Develop street smarts: Learn to differentiate trustworthy from untrustworthy people
-         - Be cautious with new relationships: Be guarded and hesitant to develop relationships until you can identify reliable people—many have been victimized by those claiming to help
-         - Trust your instincts: If someone feels unsafe or pushes too hard for your trust, avoid them
-         - Build peer networks: Connect with similarly situated people who understand your situation
-         - Watch for red flags: Avoid people who try to exploit vulnerabilities, offer "too good to be true" deals, or pressure you into uncomfortable situations
-         - Note: Developing these skills takes time and street experience—don't expect to master this immediately
-      - Source: [instructables.com](https://www.instructables.com/Basic-Street-Safety-for-Women/)
-   1. Building Safe Relationships
-      - Be guarded initially: Hesitate to develop relationships until you can identify reliable people
-      - Avoid exploitive adults: Learn to recognize and avoid people who may take advantage
-      - Find trusted friends: Connection provides safety and security
-      - Never go alone: When possible, travel with trusted companions
-      - Source: [NCBI research on homeless youth survival](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776751/)
-   1. Shelter Safety Considerations
-      - Personal security: Address security concerns before settling into shelter environment
-      - Know your options: Some individuals choose streets over shelters due to security concerns
-      - Location choices: Balance risk of arrest in open spaces vs. risk of assault in secluded areas
-      - Stay vigilant: Maintain awareness even in supposedly safe environments
-      - Source: [Bautista Project shelter safety guide](https://www.thebautistaprojectinc.org/post/personal-security-homeless-shelter)
-   1. Self-Defense Principles
-      - Primary goal: Escape the attack and get help, rather than engaging in fighting
-      - Prevention focus: Avoid physical incidents through awareness and de-escalation
-      - Simple techniques: Learn basic moves to make an attacker reconsider and give you time to escape
-      - Training recommendation: Take formal self-defense classes when possible for proper instruction
-
 -->
+
+### Personal Safety Tips
+
+To stay safe on the streets, stay aware of your surroundings.
+Be alert when you walk alone, and avoid distractions like phones or headphones.
+Trust your instincts—if a situation feels unsafe, go somewhere safer.
+Walk with confidence: keep your chin up, eyes forward, and maintain a steady pace.
+These simple behaviors can make you less vulnerable to potential threats.
+
+Learning to identify trustworthy people is one of the most important street skills you can develop, though it takes time and experience.
+Be cautious when forming new relationships—sometimes people experiencing homelessness are victimized by people who say they want to help.
+Watch for “red flags” like people who try to exploit your vulnerabilities, who offer deals that seem too good to be true, or who pressure you into uncomfortable or vulnerable situations.
+Connect with peers who understand your situation, as these relationships often provide both safety and emotional support.
+Remember that developing good judgment about people is a gradual process, not something you can master immediately.
+
+Whenever possible, travel with trusted companions rather than going places alone.
+Having someone you trust with you provides both practical safety and moral support.
+Build a network of friends who look out for each other.
+Such connections improve your physical safety and also your overall well-being and security.
+
+If you use emergency shelters, address your security concerns with the staff before you settle in.
+(For example, if you see someone at the shelter who has been threatening to you in the past, or if you are not sure your possessions will be secure where you have been told to leave them.)
+Some people choose to sleep on the streets rather than in shelters because of safety concerns.
+If you do stay outside, you need to balance the risks of harassment in public places against the risk of assault in more secluded areas.
+Stay vigilant even in places that are supposed to be safe.
+
+If you find yourself in a dangerous situation, your primary goal should be to escape and get help rather than to fight.
+The best approach to self-defense is to avoid physical violence through awareness and de-escalation.
+If you do need to defend yourself, learn a few simple techniques that can make an attacker reconsider and give you time to get away.
+When possible, take formal self-defense classes to learn proper techniques from trained instructors.
+
+**Sources:**
+
+- [“Basic Street Safety for Women”](https://www.instructables.com/Basic-Street-Safety-for-Women/)
+- [“Capacity for Survival: Exploring Strengths of Homeless Street Youth”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776751/)
+- [“Personal Security & Safety When Living In A Homeless Shelter”](https://www.thebautistaprojectinc.org/post/personal-security-homeless-shelter)
 
 ## <a id="legal-help--mediation-crime-victim-protection">Legal Help & Mediation, Crime Victim Protection</a>
 
@@ -1934,7 +1931,7 @@ They can give you housing assistance including clean & sober living homes, and h
 Call or email them to learn more.
 
 If you have a criminal record that makes it difficult for you to find employment or housing, you may be able to clean that record.
-The &ldquo;Clean Slate Clinic&rdquo; is a joint project of [**People's Justice Project**](Directory.md#Peoples-Justice-Project), [**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance), and [**SLO College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic).
+The “Clean Slate Clinic” is a joint project of [**People's Justice Project**](Directory.md#Peoples-Justice-Project), [**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance), and [**SLO College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic).
 Contact them at [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805-242-6691) to schedule an appointment.
 
 ### <a id="housing-legal">Legal help regarding housing (discrimination, landlord disputes, etc.)</a>

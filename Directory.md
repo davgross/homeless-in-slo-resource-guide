@@ -155,6 +155,19 @@
       - Sa/Su/Holidays: 7am–11am
 - How to access: Walk-ins welcome; same-day admissions available
 
+## <a id="Aevum">Aevum Home Health and Aevum Hospice Care</a>
+
+- Websites:
+   - Home Health: [aevumhomehealth.com](https://www.aevumhomehealth.com/)
+   - Hospice Care: [aevumhospice.com](https://aevumhospice.com/)
+- Location: 1302 Marsh St., SLO <a href="#" class="map-link" data-lat="35.283249" data-lon="-120.655908" data-zoom="17" data-label="Aevum Home Health">📍 Map</a>
+- Phone:
+   - Home Health: [805-586-2033](tel:+1-805-586-2033)
+   - Hospice Care: [805-465-2492](tel:+1-805-465-2492)
+- Email:
+   - Home Health: [info@aevumhomehealth.com](mailto:info@aevumhomehealth.com)
+   - Hospice Care: [info@aevumhospice.com](mailto:info@aevumhospice.com)
+
 ## <a id="Agape-Church">Agape Church</a>
 
 <!-- Source: https://agapeslo.church/contact -->
@@ -1545,6 +1558,18 @@
 ## Independent Living Resource Center (ILRC)
 
 > *See [**Access Central Coast**](#Access-Central-Coast)*
+
+## <a id="In-Home-Supportive-Services">In-Home Supportive Services (IHSS)</a>
+
+- [slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-(ihss)-program](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program)
+- Location:
+   - 9630 El Camino Real, Atascadero <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="In-Home Supportive Services">Map</a>
+   - 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="In-Home Supportive Services">Map</a>
+- Phone:
+   - Atascadero: [805-461-6110](tel:+1-805-461-6110)
+   - Arroyo Grande: [805-474-2103](tel:+1-805-474-2103)
+- Hours: M–F 8am–5pm
+- How to access: By phone, or by filling out an [online application form](https://www.slocounty.ca.gov/Departments/Social-Services/Forms-Documents/Adult-Services/IHSS-Forms/Online-IHSS-Application-Form.aspx), or by visiting any [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) office (no appointment necessary)
 
 ## <a id="Jewish-Family-Services">Jewish Family Services</a>
 
