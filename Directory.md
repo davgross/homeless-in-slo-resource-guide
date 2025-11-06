@@ -239,6 +239,8 @@
 
 > *See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
 
+<!-- Note: Area Agency on Aging may be being defunded by California -->
+
 ## <a id="Arise-Central-Coast">Arise Central Coast</a>
 
 <!-- Source: https://arisevineyard.com/ -->
@@ -753,7 +755,7 @@
 - Email: [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
 - Hours: M–F 8am–5pm
 - Notes:
-   - the local “Area Agency on Aging”
+   - the local “Area Agency on Aging” <!-- Note: Area Agency on Aging may be being defunded by California -->
    - operates [**Senior Connection**](#Senior-Connection)
    - operates [**HiCAP**](#HiCAP)
    - operates [**Central Coast Aging & Disability Resource Center**](#CCADRC)
@@ -979,6 +981,16 @@
    - Phone: [877-743-3242](tel:+1-877-743-3242)
 - Note: also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
 <!-- Note: Hours listed for urgent care location; other locations’ hours may vary - call individual locations for specific hours -->
+
+## <a id="Community-Partners-in-Caring">Community Partners in Caring</a>
+
+- [partnersincaring.org](https://partnersincaring.org/)
+- Location: 120 E. Jones St. #130, Santa Maria <a href="#" class="map-link" data-lat="34.945579" data-lon="-120.434639" data-zoom="17" data-label="Community Partners in Caring">📍 Map</a>
+- Phone: [805-925-8000](tel:+1-805-925-8000)
+- Email: [info@partnersincaring.org](mailto:info@partnersincaring.org)
+- Hours: M–F 8:30am–5pm
+- How to access: Fill out the client onboarding forms (which can be done via their website) to access the services.
+- Notes: operates in Nipomo and the Five Cities area, in addition to Santa Barbara County
 
 ## Community Safe Parking Program
 
@@ -2737,15 +2749,15 @@
    - Arroyo Grande: 1350 Grand Ave. <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-474-2154](tel:+1-805-474-2154)
    - Atascadero Health Campus: 5575 Hospital Dr. <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLO County Behavioral Health">Map</a>
    - Grover Beach:
-      - Youth & Adult Drug and Alcohol Services: 1523 Longbranch Ave. <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-473-7080](tel:+1-805-473-7080)
-      - Youth Mental Health Services: 1666 Ramona Ave. <a href="#" class="map-link" data-lat="35.119877" data-lon="-120.612731" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-473-7060](tel:+1-805-473-7060)
+      - Youth & Adult Drug and Alcohol Services: 1523 Longbranch Ave. <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-473-7080](tel:+1-805-473-7080)
+      - Youth Mental Health Services: 1666 Ramona Ave. <a href="#" class="map-link" data-lat="35.119877" data-lon="-120.612731" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-473-7060](tel:+1-805-473-7060)
    - Paso Robles Health Campus: 805 4th St. <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Behavioral Health">Map</a>
    - SLO:
-      - Adult Drug and Alcohol Services: 2180 Johnson Ave. <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4275](tel:+1-805-781-4275)
-      - Adult Mental Health Services: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4700](tel:+1-805-781-4700)
-      - Youth Mental Health Services: 2975 McMillan Suite 160 <a href="#" class="map-link" data-lat="35.263533" data-lon="-120.648100" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4179](tel:+1-805-781-4179)
-      - Psychiatric Health Facility: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [800-838-1381](tel:+1-800-838-1381)
-      - Martha's Place Children's Center (Ages 0-5): 2925 McMillan Ave. Suite 108 <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4948](tel:+1-805-781-4948)
+      - Adult Drug and Alcohol Services: 2180 Johnson Ave. <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4275](tel:+1-805-781-4275)
+      - Adult Mental Health Services: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4700](tel:+1-805-781-4700)
+      - Youth Mental Health Services: 2975 McMillan Suite 160 <a href="#" class="map-link" data-lat="35.263533" data-lon="-120.648100" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4179](tel:+1-805-781-4179)
+      - Psychiatric Health Facility: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [800-838-1381](tel:+1-800-838-1381)
+      - Martha's Place Children's Center (Ages 0-5): 2925 McMillan Ave. Suite 108 <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4948](tel:+1-805-781-4948)
 - Phone:
    - Behavioral Health Access Line: [800-838-1381](tel:+1-800-838-1381)
    - Local mental health crisis hotline: [800-783-0607](tel:+1-800-783-0607)
@@ -3209,12 +3221,13 @@
 - Email: [info@t-mha.org](mailto:info@t-mha.org)
 - Hours: M–F 8am–5pm
 - Notes:
-   - Also runs “Wellness Centers” with a variety of programs
+   - also runs “Wellness Centers” with a variety of programs
       - See [t-mha.org/wellness-calendars.php](http://t-mha.org/wellness-calendars.php) for a schedule:
    - operates [**Behavioral Health Bridge Housing (BHBH) Program**](#BHBH)
    - operates “Bishop Street Studios”
    - operates “Library Outreach Team” (see [**SLO County Public Libraries**](#SLO-County-Public-Libraries))
    - operates “T-MHA Community Residential Housing”
+   - operates “VetWell”
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
 ## <a id="Tri-Counties-Regional-Center">Tri Counties Regional Center</a>

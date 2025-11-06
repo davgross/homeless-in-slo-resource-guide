@@ -364,6 +364,10 @@ They will help you with immediate housing, supportive services and coordinated c
 You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program), [**Center for Family Strengthening (CSF)**](Directory.md#CSF), or [**CalWORKS**](Directory.md#CalWORKS).
 If you are being treated by a hospital or other medical professionals, consider telling them that you are homeless and asking them if they can help you with this process.
 
+If you need shelter because you have a medical condition that requires you to have some medical supervision, you may be able to get a referral to a rehabilitative care or skilled nursing or assistive living facility.
+You can get such a referral from your primary care physician.
+You may also be able to get some help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services). <!-- Source: Amelia Grove's "Aging and Levels of Care" presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
+
 ### <a id="camping-parking-rv-parks">Legal Camping, Safe Parking, and RV Parks</a>
 
 If you sleep in your vehicle, there are some free, legal “safe parking” spots available at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
@@ -490,6 +494,8 @@ Some other low-income options include:
 
 #### For Seniors
 
+<!-- Note: the "Assisted Living Waiver" program is not available in SLO yet. There are no Assisted Living / Residential Care For the Elderly (RCFE) facilities in SLO County that accept Medi-Cal. If you need a Medi-Cal facility of that type, you'll have to go out of the area. Source: Amelia Grover's presentation at the 5 Nov. 2025 Collaborative Outreach meeting -->
+
 [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority), and [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates several affordable senior housing rental properties.
 
 There are some additional subsidized and affordable housing options especially for seniors (sometimes defined as age 55 and above, or as 62 and above).
@@ -513,6 +519,11 @@ Affordable housing options for disabled / handicapped seniors can be found at:
 - Marvin Gardens (<a href="#" class="map-link" data-lat="35.262116" data-lon="-120.642638" data-zoom="17" data-label="Marvin Gardens">1105 Laurel Lane, SLO</a>)
 
 You can find additional [senior housing listings](https://centralcoastseniors.org/senior-independent-housing-options/) at the [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) website.
+
+If you need Assistive Living or Residential Care for the Elderly (RCFE) housing, there are some options in SLO County, but none of them accept Medi-Cal.
+If you need such housing and Medi-Cal is your only health insurance, you can get on a waiting list for a facility outside of SLO County.
+This is a lengthy process, so if you think you might need such a living situation in the future (even as long as a year or more from now), you should try to start this process now.
+Discuss this with your case maanger if you have one, or with the [**Long-Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman).
 
 #### Future Possibilities
 
@@ -893,6 +904,9 @@ It prioritizes transportation to medical appointments, but can also sometimes ha
 It operates M–F 9am–4pm.
 Call [805-995-3543](tel:+1-805-995-3543) to make an appointment at least 48 hours ahead of time.
 
+[**Community Partners in Caring**](Directory.md#Community-Partners-in-Caring) has volunteers who can give seniors free rides to and from medical appointments, food banks and meal sites, or other services.
+They operate in Nipomo and the Five-Cities area, as well as Santa Barbara County.
+
 ### <a id="transportation-to-medical-appointments">Transportation to Medical Appointments</a>
 
 The [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) offers free, door-to-door transportation to medical appointments for people who are enrolled in Medi-Cal and who cannot use public transportation to get to their appointments.
@@ -1080,6 +1094,8 @@ For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#
 Some Medicare supplement plans have a “Silver Sneakers” program with which you can get free gym memberships.
 
 ## <a id="health-medical-care">Health & Medical Care</a>
+
+<!-- To-do: Add information about 'In-Home Supportive Services' which apparently is an option for homeless people who live in shelters or safe-parking -->
 
 **In this section:**
 
@@ -1354,7 +1370,7 @@ The [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) 
 
 [**Cal Poly Community Counseling Service**](Directory.md#Cal-Poly-Community-Counseling-Service) and [**Community Counseling Center**](Directory.md#Community-Counseling-Center) offer low- or no-cost mental health counseling.
 
-A [**Community Health Centers**](Directory.md#CHC) primary care physician can refer you to CHC-provided mental health counseling or psychiatry.
+A [**Community Health Centers**](Directory.md#CHC) primary care physician can refer you to CHC-provided mental health counseling or psychiatry, which takes place over the phone or through internet videoconferencing.
 
 Adult Mental Health Outpatient Treatment (via [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) and [**Transitions Mental Health Association**](Directory.md#TMHA) and its [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) offer mental health evaluation & treatment, with programs specifically for homeless people.
 
@@ -1711,6 +1727,8 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
 - [Advance Directives](#advance-directives)
 
 ### <a id="hospice-and-palliative-care">Hospice and Palliative Care Services</a>
+
+<!-- To-do: investigate Aevum Hospice, and add it to this section if appropriate. https://aevumhospice.com/ -->
 
 Palliative care is medical treatment that aims to relieve pain and suffering, perhaps alongside medical treatment that hopes to cure or treat some health problem.
 
