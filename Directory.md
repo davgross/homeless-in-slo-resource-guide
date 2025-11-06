@@ -973,22 +973,24 @@
 
 <!-- Source: https://www.communityhealthcenters.org/ and https://www.solvhealth.com/community-health-centers-of-the-central-coast-arroyo-grande-ca-0Vey6g -->
 - [communityhealthcenters.org](https://www.communityhealthcenters.org/)
+
 | Location | Phone | Notes |
 | -------- | ----- | ----- |
-| 260 Station Way, Arroyo Grande <a href="#" class="map-link" data-lat="35.119769" data-lon="-120.578564" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-573-6201](tel:+1-805-573-6201) |
-| 1057 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118759" data-lon="-120.595400" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-270-1700](tel:+1-805-270-1700) |
+| 260 Station Way, Arroyo Grande <a href="#" class="map-link" data-lat="35.119769" data-lon="-120.578564" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-573-6201](tel:+1-805-573-6201) | |
+| 1057 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118759" data-lon="-120.595400" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-270-1700](tel:+1-805-270-1700) | |
 | 1205 E. Grand Ave. #H, Arroyo Grande <a href="#" class="map-link" data-lat="35.120369" data-lon="-120.600572" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-994-2300](tel:+1-805-994-2300) | ("urgent care"; walk-ins OK; M–F 8am–8pm, Sa/Su 9am–5pm) |
-| 7512 Morro Rd., Atascadero <a href="#" class="map-link" data-lat="35.477246" data-lon="-120.667898" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-792-1400](tel:+1-805-792-1400) |
-| 1276 Tamsen Dr., Cambria <a href="#" class="map-link" data-lat="35.565935" data-lon="-121.079680" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-927-5292](tel:+1-805-927-5292) |
-| 150 Tejas Place, Nipomo <a href="#" class="map-link" data-lat="35.027106" data-lon="-120.499120" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-929-3211](tel:+1-805-929-3211) |
-| 2120 Cienaga St., Oceano <a href="#" class="map-link" data-lat="35.097852" data-lon="-120.608650" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-994-2100](tel:+1-805-994-2100) |
+| 7512 Morro Rd., Atascadero <a href="#" class="map-link" data-lat="35.477246" data-lon="-120.667898" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-792-1400](tel:+1-805-792-1400) | |
+| 1276 Tamsen Dr., Cambria <a href="#" class="map-link" data-lat="35.565935" data-lon="-121.079680" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-927-5292](tel:+1-805-927-5292) | |
+| 150 Tejas Place, Nipomo <a href="#" class="map-link" data-lat="35.027106" data-lon="-120.499120" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-929-3211](tel:+1-805-929-3211) | |
+| 2120 Cienaga St., Oceano <a href="#" class="map-link" data-lat="35.097852" data-lon="-120.608650" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-994-2100](tel:+1-805-994-2100) | |
 | 2800 Riverside Ave. #101, Paso Robles <a href="#" class="map-link" data-lat="35.643630" data-lon="-120.688162" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-238-7250](tel:+1-805-238-7250) | ("immediate care"; walk-ins OK; M–Sa 8am–Noon & 1pm–5pm) |
-| 1385 Mission St., San Miguel <a href="#" class="map-link" data-lat="35.752573" data-lon="-120.696391" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-467-2344](tel:+1-805-467-2344) |
-| 1551 Bishop St., SLO <a href="#" class="map-link" data-lat="35.273443" data-lon="-120.644957" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-549-0402](tel:+1-805-549-0402) |
-| 77 Casa St., SLO <a href="#" class="map-link" data-lat="35.292914" data-lon="-120.665307" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-269-1500](tel:+1-805-269-1500) |
+| 1385 Mission St., San Miguel <a href="#" class="map-link" data-lat="35.752573" data-lon="-120.696391" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-467-2344](tel:+1-805-467-2344) | |
+| 1551 Bishop St., SLO <a href="#" class="map-link" data-lat="35.273443" data-lon="-120.644957" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-549-0402](tel:+1-805-549-0402) | |
+| 77 Casa St., SLO <a href="#" class="map-link" data-lat="35.292914" data-lon="-120.665307" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-269-1500](tel:+1-805-269-1500) | |
 | 40 Prado, SLO <a href="#" class="map-link" data-lat="35.256495" data-lon="-120.672000" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-269-1500](tel:+1-805-269-1500) | ([**Healthcare for the Homeless Program**](#HCHP)) |
 | 1330 Las Tablas Rd., Templeton <a href="#" class="map-link" data-lat="35.554714" data-lon="-120.723803" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-542-6700](tel:+1-805-542-6700) | ("immediate care"; walk-ins OK; M–Th 8am–6pm) |
-| 292 Posada Ln. #A, Templeton <a href="#" class="map-link" data-lat="35.553046" data-lon="-120.721773" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-542-6701](tel:+1-805-542-6701) |
+| 292 Posada Ln. #A, Templeton <a href="#" class="map-link" data-lat="35.553046" data-lon="-120.721773" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-542-6701](tel:+1-805-542-6701) | |
+
 - Main Phone: [805-361-8400](tel:+1-805-361-8400) (M–F 8am–6pm) / [866-614-4636](tel:+1-866-614-4636) (after-hours care)
 - “CHC Transportation Services” is a door-to-door ride service to appointments
    - Phone: [877-743-3242](tel:+1-877-743-3242)
@@ -1034,14 +1036,14 @@
 
 > *See [**SLO County Public Libraries**](#SLO-County-Public-Libraries)*
 
+<!-- NOTE: Apparently Creative Mediation was a project of Wilshire, which went bankrupt in 2025
 ## <a id="Creative-Mediation">Creative Mediation</a>
 
-<!-- Source: https://slobar.org/legal-resources/listing/creative-mediation/ and https://www.santabarbarayp.com/biz/46749/creative-mediation-services -->
 - [slobar.org/legal-resources/listing/creative-mediation](https://slobar.org/legal-resources/listing/creative-mediation/)
 - Location: 285 South St. #P, SLO <a href="#" class="map-link" data-lat="35.269138" data-lon="-120.666145" data-zoom="17" data-label="Creative Mediation">Map</a>
-<!-- Note: another source says #J rather than #P -->
 - Phone: [805-549-0442](tel:+1-805-549-0442)
 - Hours: M/W/Th/F 9am–5pm, Tu 8am–5pm
+-->
 
 ## <a id="CSF-Medical-Non-Profit-Foundation">CSF Medical Non Profit Foundation</a>
 
@@ -2594,8 +2596,8 @@
 | 815 Islay Street, SLO <a class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a> | [805-544-2401](tel:+1-805-544-2401) | W/F 10am–Noon, Th. 2–4pm | Operates a “Rapid Rehousing Program” |
 | 1550 W Branch Street, Arroyo Grande <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">Map</a> | [805-481-0278](tel:+1-805-481-0278) | M/W/F 10am–2pm | |
 | 8420 El Camino Real <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">Map</a> | [805-466-7201](tel:+1-805-466-7201) | | |
-| 540 Quintana Rd, Morro Bay <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">Map</a> | [805-772-7062](tel:+1-805-772-7062) | | <!-- Note: Eva says it’s closed (9/4/25) --> |
-| 711 Paso Robles Street, Paso Robles <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">Map</a> | [805-238-9591](tel:+1-805-238-9591) | | <!-- Note: Eva says it’s closed (9/4/25) --> |
+| 540 Quintana Rd, Morro Bay <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">Map</a> | [805-772-7062](tel:+1-805-772-7062) | | (was temporarily closed as of September 2025) <!-- says Eva --> |
+| 711 Paso Robles Street, Paso Robles <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">Map</a> | [805-238-9591](tel:+1-805-238-9591) | | (was temporarily closed as of September 2025) <!-- says Eva --> |
 
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 

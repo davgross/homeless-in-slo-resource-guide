@@ -66,7 +66,7 @@ This guide uses different colors and icons to help you quickly identify what kin
 
 ## <a id="table-of-contents">Table of Contents</a>
 
-1. [Emergency Contacts](#emergency-contacts)
+1. [Hotlines and Emergencies](#emergency-contacts)
 1. [Self-Advocacy](#self-advocacy-and-communicating-with-service-providers)
 1. [Shelter & Housing](#where-to-find-shelter--housing)
 1. [Property Storage](#property-storage-options)
@@ -81,7 +81,7 @@ This guide uses different colors and icons to help you quickly identify what kin
 1. [Tattoo Removal](#tattoo-removal)
 1. [End-of-Life Help](#end-of-life-care-advance-directives-hospice)
 1. [Personal Safety](#personal-safety-deescalation-self-defense)
-1. [Legal Help](#legal-help--mediation-crime-victim-protection)
+1. [Legal Help](#legal-help--crime-victim-protection)
 1. [IDs & Documents](#ids-and-other-documents)
 1. [Mail & PO Boxes](#mail-drops-post-office-boxes-etc)
 1. [Banking & Money](#banking-and-money-management)
@@ -203,7 +203,7 @@ Ask about Release of Information (ROI) forms and what they mean before you sign 
 
 Many programs have procedures for appealing decisions or filing complaints.
 Ask program staff or search online to find the specific process.
-Legal aid organizations can help with appeals (see the [Legal assistance](#legal-help--mediation-crime-victim-protection) section).
+Legal aid organizations can help with appeals (see the [Legal assistance](#legal-help--crime-victim-protection) section).
 
 ### <a id="document-everything">Document Everything</a>
 
@@ -304,7 +304,7 @@ For either of these options, you must first get a referral from the [**SLO Count
 [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers financial assistance for rent for people in danger of becoming homeless.
 Contact 5CHC to arrange a confidential coordinated entry interview.
 
-> See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help--mediation-crime-victim-protection) section for options about preventing illegal evictions.
+> See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help--crime-victim-protection) section for options about preventing illegal evictions.
 
 > See the [Acute Financial Needs](#acute-financial-needs) section for more possible ways to get short-term financial help in a crisis.
 
@@ -1803,9 +1803,9 @@ You can learn more about the form and review one online, in several languages, a
 
 ## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
 
-## Self-Defense Classes and Martial Arts
+### Self-Defense Classes and Martial Arts
 
-Sometimes relatively inexpensive self-defense or martial arts classes are offered through the “Community Programs” offered at [**Cuesta College**](Directory.md#Cuesta-College) (see the [“Martial Arts&rdquo](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) section of their website) or [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (see the [“Community Programs”](https://ae.slcusd.org/community-programs) section of their website).
+Sometimes relatively inexpensive self-defense or martial arts classes are offered through the “Community Programs” at [**Cuesta College**](Directory.md#Cuesta-College) (see the [“Martial Arts”](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) section of their website) or [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (see the [“Community Programs”](https://ae.slcusd.org/community-programs) section of their website).
 
 <!-- All seem to be defunct at the moment
 ### Women's Self-Defense Programs
@@ -1896,18 +1896,16 @@ When possible, take formal self-defense classes to learn proper techniques from 
 - [“Capacity for Survival: Exploring Strengths of Homeless Street Youth”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776751/)
 - [“Personal Security & Safety When Living In A Homeless Shelter”](https://www.thebautistaprojectinc.org/post/personal-security-homeless-shelter)
 
-## <a id="legal-help--mediation-crime-victim-protection">Legal Help & Mediation, Crime Victim Protection</a>
+## <a id="legal-help--crime-victim-protection">Legal Help & Crime Victim Protection</a>
 
 **In this section:**
 
 - [Help for defendants, convicts, parolees, probationers, people with PC 290 convictions](#defendants-and-convicts)
 - [Legal help regarding housing (discrimination, landlord disputes, etc.)](#housing-legal)
 - [Help with benefits, wrangling with health insurers, et cetera](#benefits-legal)
-- [Realistic know-your-rights information](#know-your-rights)
-<!-- - [Injury liability / workers' compensation](#liability-law) -->
+- [Realistic know-your-rights information](#know-your-rights) <!-- - [Injury liability / workers' compensation](#liability-law) -->
 - [Consumer protection](#consumer-protection)
 - [Victims of crime, abuse](#crime-victims)
-- [Mediation](#mediation)
 - [Legal Self-Help / Law Libraries](#legal-self-help)
 - [Legal Consultation](#legal-consultation)
 - [Family Law / Child Support](#family-law)
@@ -1917,8 +1915,6 @@ When possible, take formal self-defense classes to learn proper techniques from 
 - [Miscellany](#legal-miscellany)
 
 ### <a id="defendants-and-convicts">Help for defendants, convicts, parolees, probationers, people with PC 290 convictions</a>
-
-<!-- To-do: prosify this list -->
 
 If you are being taken to court and accused of a serious crime by the government, you have the right to have a lawyer who is trained in the law who can help defend you against the charges.
 You have a right to a lawyer even if you do not have enough money to pay one.
@@ -1946,9 +1942,12 @@ Contact them at [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805
    - What's Available: Statewide organization defending and advancing tenants' rights to safe, decent, affordable housing; resources include Tenant Defense Toolkit, sample letters, local resource directory, tenants' rights hotline, rent control information, guidance on forming tenant unions
    - Services: #CancelRent campaign support, rent control advocacy, California Tenant Bill of Rights information, Tenant Lawyer Network
    - Email: [info@tenantstogether.org](mailto:info@tenantstogether.org)
+1. CRLA
+   - [https://crla.org/get-help/housing](https://crla.org/get-help/housing)
+1. DSA-SLO
+   - [https://slocialism.org/housing-justice/](https://slocialism.org/housing-justice/)
 1. *California Tenants' Guide* ([English](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) [Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf))
-
-<!-- To-do: is there a SLO tenant's union or something along those lines? -->
+1. [SLO Tenants Union](https://linktr.ee/slorentcoalition) [city]
 
 ### <a id="benefits-legal">Help with benefits, wrangling with health insurers, et cetera</a>
 
@@ -1964,17 +1963,12 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
 
 ### <a id="know-your-rights">Realistic know-your-rights information</a>
 
-<!-- To-do: prosify this list -->
+<!-- To-do: prosify this list; also: is ACLU really "realistic" or more like "aspirational"? -->
 
 1. [**ACLU of Southern California**](Directory.md#ACLU)
     - What’s Available: Free legal assistance for civil liberties and civil rights cases; "Know Your Rights" guides
     - Coverage: Serves SLO County and other Southern California counties
     - Note: Limited resources focused on systemic change cases; does not accept walk-ins; seek help online first
-1. [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success)
-    - Services: Legal support (DACA/asylum/citizenship), mental health counseling, financial aid guidance
-    - Coverage: Northern Santa Barbara and San Luis Obispo Counties
-    - Contact: Cal Poly DREAM Center, Cuesta Monarch DREAM Center ([805-546-3109](tel:+1-805-546-3109)), Allan Hancock ([805-922-6966&#xA0;x3177](tel:+1-805-922-6966;ext=3177))
-    - Cross-reference: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
 
 <!-- To-do:
 ### <a id="liability-law">Injury liability / workers' compensation</a>
@@ -2050,15 +2044,22 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
    - Services: Help with finding residential care, complaints about facilities, advanced directive witnessing
    - Coverage: All cities in SLO County
 
+<!-- NOTE: Creative Mediation was apparently a project of Wilshire, which went under
 ### <a id="mediation">Mediation</a>
 
-<!-- To-do: prosify this list -->
+If you have a dispute with someone else, mediation is a way to resolve that dispute without having to go to court.
+This doesn’t always work, but when it does it can be much less costly and cumbersome than filing a lawsuit.
 
-1. [**Creative Mediation**](Directory.md#Creative-Mediation)
-   - What's Available: Non-profit dispute resolution service offering low-cost mediation for non-criminal cases; free services for SLO County residents
-   - Services: Family disputes, business/commercial conflicts, landlord/tenant issues, neighbor conflicts
-   - Process: Voluntary mediation requiring both parties' agreement; cases typically scheduled within two weeks; trained neutral mediators facilitate constructive dialog
-   - Philosophy: Does not take sides or decide who is right; helps people work out their own solutions
+Mediators are professionals who help people in conflict to resolve their dispute.
+You can use mediation for many types of conflicts, including those that have to do with family, employment, housing, neighbors, relationship, contracting, or consumer disputes.
+
+[**Creative Mediation**](Directory.md#Creative-Mediation) is a non-profit mediation service that offers free services to SLO County residents.
+
+When Creative Mediation receives your request for their mediation assistance, they will contact you for more information.
+Then they will contact the person you are having a dispute with.
+If that person agrees to handle your dispute by means of mediation, a mediation session will be scheduled at a time that works for you.
+A neutral mediator will be assigned to your case to help you resolve it.
+-->
 
 ### <a id="legal-self-help">Legal Self-Help / Law Libraries</a>
 
@@ -2137,10 +2138,15 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
 
 [**Child Support Services**](Directory.md#Child-Support-Services) can help you locate parents who may owe child support, establish parentage, obtain and enforce support orders, and collect payments.
 
-### <a id="immigration-law">mmigration Law</a>
+### <a id="immigration-law">Immigration Law</a>
 
 <!-- To-do: prosify this list -->
 
+1. [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success)
+    - Services: Legal support (DACA/asylum/citizenship), mental health counseling, financial aid guidance
+    - Coverage: Northern Santa Barbara and San Luis Obispo Counties
+    - Contact: Cal Poly DREAM Center, Cuesta Monarch DREAM Center ([805-546-3109](tel:+1-805-546-3109)), Allan Hancock ([805-922-6966&#xA0;x3177](tel:+1-805-922-6966;ext=3177))
+    - Cross-reference: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
 1. [**Catholic Charities**](Directory.md#Catholic-Charities) (Legal Aid Services)
    - Services: Immigration and housing legal assistance
    - Cost: Sliding scale based on income
@@ -3202,7 +3208,7 @@ This program is for California residents with medically-certified limitations of
       - Coverage: Northern Santa Barbara and San Luis Obispo Counties
       - Services: DREAM Centers (safe spaces), legal support (DACA/asylum/citizenship), financial aid guidance, mental health counseling
       - Cost: Free legal services and counseling
-      - Cross-reference: Also listed in [Legal help & mediation section](#legal-help--mediation-crime-victim-protection)
+      - Cross-reference: Also listed in [Legal help & mediation section](#legal-help--crime-victim-protection)
       - Website: [ccc-uss.org](https://www.ccc-uss.org/)
    1. [SLO County UndocuSupport](https://www.sloundocusupport.org/)
       - Mission: Financial support for undocumented immigrant families during crises
@@ -3638,6 +3644,7 @@ Grants do not cover exams or testing.
 
 ## <a id="advocacy--lobbying-for-homeless-issues">Advocacy & Lobbying for Homeless Issues</a>
 
+<!-- To-do: add SLO YIMBY https://www.slocoyimby.org/ -->
 <!-- To-do: prosify this list -->
 
 1. [National Coalition for the Homeless](https://nationalhomeless.org/)
