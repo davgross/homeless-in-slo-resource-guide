@@ -114,7 +114,7 @@ This guide uses different colors and icons to help you quickly identify what kin
    <tr><td><a href="tel:+1-911">911</a></td><td>Medical and safety emergencies</td></tr>
    <tr><td><a href="tel:+1-988">988</a> or <a href="tel:+1-800-273-8255">800-273-8255</a></td><td>National Suicide Prevention Lifeline (<a href="tel:+1-800-799-4889">800-799-4889</a> if you are deaf or hard of hearing)</td></tr>
    <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a> or <a href="tel:+1-805-783-0607">805-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr>
-   <tr><td>Text HOME to <a href="sms:741741">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> on-line</td></tr>
+   <tr><td>Text HOME to <a href="sms:741741?&body=HOME">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> on-line</td></tr>
    <tr><td><a href="tel:+1-833-317-4673">833-317-4673</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidental emotional support</td></tr>
    <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Mental Health Evaluation Team (MHET) and Mobile Crisis Team: 24/7 psychiatric emergency response throughout SLO County; responds to psychiatric emergency calls and provides assessments for adults or children</td></tr>
   <tr><th colspan="2" style="text-align:left;">⇨ For Young People:</th></tr>
@@ -122,7 +122,7 @@ This guide uses different colors and icons to help you quickly identify what kin
    <tr><td><a href="tel:+1-800-786-2929">800-786-2929</a></td><td>National Runaway Safeline: 24/7 confidential support for runaway and homeless </td></tr>
    <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr>
   <tr><th colspan="2" style="text-align:left;">⇨ For LGBTQ People:</th></tr>
-   <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text “START” to <a href="sms:678678">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr>
+   <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text “START” to <a href="sms:678678?&body=START">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr>
    <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr>
   <tr><th colspan="2" style="text-align:left;">⇨ For Victims of Sexual Assault and Intimate Partner Violence:</th></tr>
    <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Local sexual assault, sexual abuse, and intimate partner violence crisis line</td></tr>
@@ -331,7 +331,7 @@ You must have a valid ID.
 People with P.C. 290 convictions are screened out.
 Call [805-295-1501](tel:+1-805-295-1501) to verify the center is open and to learn about free transportation options to the center.
 The warming center offers a free hot meal.
-Text “Add Me” to [805-295-1501](sms:+1-805-295-1501) to receive text updates to your phone when the Warming Center opens, or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
+Text “Add Me” to [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) to receive text updates to your phone when the Warming Center opens, or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center in the north county. <!-- says https://pasoroblespress.com/news/government/city-of-paso-robles/city-council-approves-111k-for-echo-adopts-shelter-program-shift/ -->
 Contact them for location and details.
@@ -1932,22 +1932,23 @@ Contact them at [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805
 
 ### <a id="housing-legal">Legal help regarding housing (discrimination, landlord disputes, etc.)</a>
 
-<!-- To-do: prosify this list -->
+[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) provides free civil legal assistance to low-income people.
+This includes cases concerning foreclosures, evictions & lockouts, Section 8 and public housing, and housing discrimination.
 
-1. [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department): [Housing Discrimination](https://calcivilrights.ca.gov/housing/)
-    - What’s Available: Protection from unlawful discrimination in housing, employment, businesses, state-funded programs; hate violence reporting
-    - How to file complaints: Online through CCRS (California Civil Rights System), check complaint status online
-    - Additional services: Mediation services
-1. [Tenants Together](https://tenantstogether.org/)
-   - What's Available: Statewide organization defending and advancing tenants' rights to safe, decent, affordable housing; resources include Tenant Defense Toolkit, sample letters, local resource directory, tenants' rights hotline, rent control information, guidance on forming tenant unions
-   - Services: #CancelRent campaign support, rent control advocacy, California Tenant Bill of Rights information, Tenant Lawyer Network
-   - Email: [info@tenantstogether.org](mailto:info@tenantstogether.org)
-1. CRLA
-   - [https://crla.org/get-help/housing](https://crla.org/get-help/housing)
-1. DSA-SLO
-   - [https://slocialism.org/housing-justice/](https://slocialism.org/housing-justice/)
-1. *California Tenants' Guide* ([English](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) [Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf))
-1. [SLO Tenants Union](https://linktr.ee/slorentcoalition) [city]
+[**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) helps low-income people in SLO County with legal support.
+Among the issues they help with are eviction defense for tenants, landlord/tenant conflicts, habitability/repair issues, accessibility for people with disabilities, Fair housing and discrimination, Section 8 housing, unlawful rent increases, and mobile home law.
+
+The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) can help you understand your rights to be protected from illegal [housing discrimination](https://calcivilrights.ca.gov/housing/) and can also help you to investigate and file formal discrimination complaints.
+
+The California advocacy organization [Tenants Together](https://tenantstogether.org/) ([info@tenantstogether.org](mailto:info@tenantstogether.org)) has a tenants’ rights hotline at [888-495-8020](tel:+1-888-495-8020) (text [650-600-7821](sms:+1-650-600-7821?&body=HELPLINE)).
+They also have an on-line self-help [Tenant Defense Toolkit](https://www.tenantstogether.org/covid-19-tenant-defense) to help you understand your rights as a renter and how to enforce those rights.
+
+The California Department of Real Estate published a [*California Tenants' Guide*](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) ([Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf)) which gives a detailed explanation of California law concerning tenants of rental properties.
+
+SLO city has a [Tenants Union](https://linktr.ee/slorentcoalition) ([805-779-1639](tel:+1-805-779-1639)).
+
+The SLO branch of Democratic Socialists of America have a [Housing Justice](https://slocialism.org/housing-justice/) guide for tenants in San Luis Obispo.
+It tries to explain how you can best assert and defend your legal rights as a renter.
 
 ### <a id="benefits-legal">Help with benefits, wrangling with health insurers, et cetera</a>
 
@@ -2215,6 +2216,10 @@ A neutral mediator will be assigned to your case to help you resolve it.
 
 <!-- To-do: prosify this list -->
 
+1. [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department)
+    - What’s Available: Protection from unlawful discrimination in housing, employment, businesses, state-funded programs; hate violence reporting
+    - How to file complaints: Online through CCRS (California Civil Rights System), check complaint status online
+    - Additional services: Mediation services
 1. Help with advance care directives, wills
    - See medical section above, but also add stuff about wills in particular
 1. [ADA](https://www.ada.gov/) (Americans with Disabilities Act)
@@ -2362,10 +2367,10 @@ Additional options include expedited service (add $60) and 1–2 day delivery af
    - Library execution fee: $35
    - Call your preferred library to schedule an appointment
 - **Post Offices** (call ahead for appointment):
-   - Arroyo Grande, <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a> <!-- To-do: add phone number -->
-   - Atascadero, <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> <!-- To-do: add phone number -->
-   - Cambria, <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a> <!-- To-do: add phone number -->
-   - Morro Bay, <a href="#" class="map-link" data-lat="35.366647" data-lon="-120.847324" data-zoom="17" data-label="Post Office">898 Napa Ave.</a> <!-- To-do: add phone number -->
+   - Arroyo Grande, <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a> <!-- Note: Unable to verify direct phone number from reputable online sources; contact via general USPS line 800-275-8777 or visit location -->
+   - Atascadero, <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> <!-- Note: Unable to verify direct phone number from reputable online sources; contact via general USPS line 800-275-8777 or visit location -->
+   - Cambria, <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a> <!-- Note: Unable to verify direct phone number from reputable online sources; contact via general USPS line 800-275-8777 or visit location -->
+   - Morro Bay, <a href="#" class="map-link" data-lat="35.366647" data-lon="-120.847324" data-zoom="17" data-label="Post Office">898 Napa Ave.</a> <!-- Note: Unable to verify direct phone number from reputable online sources; contact via general USPS line 800-275-8777 or visit location -->
    - Paso Robles, <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a>, [805-237-8342](tel:+1-805-237-8342)
    - Pismo Beach, <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a>, [805-481-5971](tel:+1-805-481-5971)
    - San Luis Obispo, <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a>, [805-543-2605](tel:+1-805-543-2605)
@@ -3644,10 +3649,10 @@ Grants do not cover exams or testing.
 
 ## <a id="advocacy--lobbying-for-homeless-issues">Advocacy & Lobbying for Homeless Issues</a>
 
-<!-- To-do: add SLO YIMBY https://www.slocoyimby.org/ -->
 <!-- To-do: prosify this list -->
 
 1. [National Coalition for the Homeless](https://nationalhomeless.org/)
+1. **[SLOCo YIMBY](https://www.slocoyimby.org/)**—Local housing advocacy organization promoting solutions to SLO County's housing shortage and affordability crisis. Advocates for policy changes including legalizing multifamily housing, streamlining permitting, increasing affordable housing funding, and strengthening renter protections. Community members can participate through advocacy actions, attending events, and supporting housing proposals. Contact: [hello@slocoyimby.org](mailto:hello@slocoyimby.org); social media: Facebook, Instagram, Twitter (@SlocoYimby). <!-- Source: [slocoyimby.org](https://www.slocoyimby.org/) -->
 1. **SeeClickFix (Paso Robles)**—Digital platform for reporting non-emergency community issues to city government, including homeless-related concerns. Available at [seeclickfix.com](https://seeclickfix.com/web_portal/mWPmZTZqbheqdCAtKircrZNq/issues/map) or via mobile app. Used by residents to report issues like infrastructure problems, maintenance needs, and community concerns that require city attention. For homeless-specific questions in Paso Robles, contact [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
 1. **[Ask SLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request)**—SLO's centralized resident engagement platform (available online and as mobile app) providing 24/7 access to city services. Report homelessness issues on city public property via Ask SLO, or private property issues to Code Enforcement through the platform. Platform is managed by Community Services departments including Public Works, Code Enforcement, Parks & Recreation, and Utilities. Contact: Brendan Pringle at [bpringle@slocity.org](mailto:bpringle@slocity.org) for platform questions.
 1. **[Arroyo Grande Citizen RequestTracker](https://www.arroyogrande.org/RequestTracker.aspx)**
