@@ -1,7 +1,5 @@
 # <a id="directory">Directory</a>
 
-<!-- Possible future work: Consider tagging addresses with [geo URIs](https://en.wikipedia.org/wiki/Geo_URI_scheme) if this might help users more quickly find addresses in their mapping application of choice. [Claude says](https://claude.ai/chat/fa6ec69b-cd5a-44fe-b4f1-b327a3270a42) geo URIs are not well-supported, and suggests proprietary links (Google Maps, Apple Maps) instead, except on Android which does support `geo:`. -->
-
 ## <a id="40-Prado">40 Prado Homeless Services Center</a>
 
 - [capslo.org/40-prado](https://capslo.org/40-prado/)
@@ -467,7 +465,7 @@
 ## <a id="California-Department-of-Rehabilitation">California Department of Rehabilitation</a>
 
 - [dor.ca.gov](https://www.dor.ca.gov/)
-- Location: 3320 S. Higuera #102, SLO <a href="#" class="map-link" data-lat="35.255033" data-lon="-120.668947" data-zoom="17" data-label="California Department of Rehabilitation">Map</a> <a class="map-link" data-lat="35.281363" data-lon="-120.659771" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 3320 S. Higuera #102, SLO <a href="#" class="map-link" data-lat="35.255033" data-lon="-120.668947" data-zoom="17" data-label="California Department of Rehabilitation">Map</a>
 - Phone:
    - Local office:
       - [805-594-6100](tel:+1-805-594-6100)
@@ -763,7 +761,7 @@
 
 <!-- Source: https://www.yelp.com/biz/central-coast-commission-for-senior-citizens-santa-maria -->
 - [centralcoastseniors.org](https://www.centralcoastseniors.org/)
-- Location: 528 S. Broadway, Santa Maria <a href="#" class="map-link" data-lat="34.948009" data-lon="-120.436107" data-zoom="17" data-label="Central Coast Commission for Senior CitizenCentral Coast Commission for Senior Citizenss">Map</a>
+- Location: 528 S. Broadway, Santa Maria <a href="#" class="map-link" data-lat="34.948009" data-lon="-120.436107" data-zoom="17" data-label="Central Coast Commission for Senior Citizens">Map</a>
 - Phone: [800-434-0222](tel:+1-800-434-0222) / [805-925-9554](tel:+1-805-925-9554)
 - Email: [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
 - Hours: M–F 8am–5pm
@@ -816,12 +814,12 @@
 <!-- Source: Web search October 2025; limited detailed information available online -->
 - Location: 1580 Railroad St., Oceano <a class="map-link" data-lat="35.101131" data-lon="-120.617666" data-zoom="17" data-label="Central Coast Senior Center (Oceano)">Map</a>
 - Phone: [805-489-5149](tel:+1-805-489-5149)
-- Services:
+- Services:<!-- To-do: move to Resource Guide -->
    - Lunch served M–F
    - Monthly luncheon
    - Activities: Bingo, Bunco, Tai Chi, art classes
    - Senior nutrition site
-- Notes: Open to seniors 50+; for more information call [**Senior Connection**](#Senior-Connection) at 805-928-2552
+- Notes: Open to seniors 50+; for more information call [**Senior Connection**](#Senior-Connection)
 
 ## <a id="Central-Coast-Veterans-Helping-Veterans">Central Coast Veterans Helping Veterans</a>
 
@@ -1030,7 +1028,7 @@
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | Marigold Center: 3970 Broad Street Suite 2, SLO <a href="#" class="map-link" data-lat="35.249334" data-lon="-120.643117" data-zoom="17" data-label="Cottage Urgent Care">Map</a> | [805-762-4996](tel:+1-805-762-4996) | Every day: 8am–8pm |
-| Foothill Plaza: 777 E. Foothill Blvd., SLO <a href="#" class="map-link" data-lat="35.292930" data-lon="-120.671889" data-zoom="17" data-label="PLACEHOLDER">Map</a> | [805-762-4348](tel:+1-805-762-4348) | Every day 8am–8pm |
+| Foothill Plaza: 777 E. Foothill Blvd., SLO <a href="#" class="map-link" data-lat="35.292930" data-lon="-120.671889" data-zoom="17" data-label="Cottage Urgent Care">Map</a> | [805-762-4348](tel:+1-805-762-4348) | Every day 8am–8pm |
 
 ## County of San Luis Obispo Public Libraries
 
@@ -1549,7 +1547,7 @@
 
 <!-- Source: https://fcni.org -->
 - [fcni.org](https://fcni.org)
-- Location: 1255 Kendall Rd., SLO <a class="map-link" data-lat="35.237660" data-lon="-120.630188" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1255 Kendall Rd., SLO <a class="map-link" data-lat="35.237660" data-lon="-120.630188" data-zoom="17" data-label="Housing Support Program">Map</a>
 - Phone: [805-781-3535](tel:+1-805-781-3535)  <!-- Another source says 805-474-2000 -->
 - Hours: M–F 8:30am–5pm
 - How to access: Get a referral from a [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) Employment Resource Specialist
@@ -1577,7 +1575,7 @@
 
 <!-- Source: https://www.jccslo.com/jewish-family-services.html -->
 - [jccslo.com/jewish-family-services.html](https://www.jccslo.com/jewish-family-services.html)
-- Location: 578 Marsh St., SLO <a class="map-link" data-lat="35.277234" data-lon="-120.665549" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 578 Marsh St., SLO <a class="map-link" data-lat="35.277234" data-lon="-120.665549" data-zoom="17" data-label="Jewish Family Services">Map</a>
 - Phone: [805-426-5465](tel:+1-805-426-5465)
 <!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
 
@@ -1585,8 +1583,8 @@
 
 | Name | Location | Phone | Ages |
 | ---- | -------- | ----- | ---- |
-| Judson Terrace Homes | 3000 Augusta St., SLO <a class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a> | [805-544-1600](tel:+1-805-544-1600) | 55+ |
-| Judson Terrace Lodge | 3042 Augusta St., SLO <a href="#" class="map-link" data-lat="35.268078" data-lon="-120.639555" data-zoom="17" data-label="PLACEHOLDER">📍 Map</a> | [805-541-4567](tel:+1-805-541-4567) | 62+ |
+| Judson Terrace Homes | 3000 Augusta St., SLO <a class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="Judson Terrace Homes">Map</a> | [805-544-1600](tel:+1-805-544-1600) | 55+ |
+| Judson Terrace Lodge | 3042 Augusta St., SLO <a href="#" class="map-link" data-lat="35.268078" data-lon="-120.639555" data-zoom="17" data-label="Judson Terrace Lodge">📍 Map</a> | [805-541-4567](tel:+1-805-541-4567) | 62+ |
 
 - Notes:
    - Low-income seniors; HUD residents typically pay 30% of gross income for rent
@@ -1627,8 +1625,9 @@
 
 <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31568 -->
 - [ourlegacy.church](https://www.ourlegacy.church/)
-- Location: 6030 Del Rio Rd., Atascadero <a class="map-link" data-lat="35.512659" data-lon="-120.702113" data-zoom="17" data-label="Legacy Church Pantry">Map</a>
-- Phone: [805-466-8385](tel:+1-805-466-8385)
+- Location: 5545 Ardilla Ave., Atascadero <a href="#" class="map-link" data-lat="35.489669" data-lon="-120.674958" data-zoom="17" data-label="Legacy Church">Map</a>
+- Phone: [805-610-0817](tel:+1-805-610-0817)
+- Email: [info@ourlegacy.church](mailto:info@ourlegacy.church)
 - Hours (food pantry): Th 1–2pm
 
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
@@ -1687,7 +1686,7 @@
 
 <!-- Source: https://www.literacyforlifeslo.org/ -->
 - [literacyforlifeslo.org](https://www.literacyforlifeslo.org/)
-- Location: 992 Monterey St. #C, SLO <a href="#" class="map-link" data-lat="35.281755" data-lon="-120.661662" data-zoom="17" data-label="Literacy For LifeLiteracy For Life">Map</a>
+- Location: 992 Monterey St. #C, SLO <a href="#" class="map-link" data-lat="35.281755" data-lon="-120.661662" data-zoom="17" data-label="Literacy For Life">Map</a>
 - Phone: [805-541-4219](tel:+1-805-541-4219)
 - Hours: M–Th 9am–5pm
 
@@ -1852,13 +1851,13 @@
 - Location: 5411 El Camino Real, Atascadero <a class="map-link" data-lat="35.492964" data-lon="-120.676511" data-zoom="17" data-label="Loaves & Fishes (Atascadero)">Map</a>
 - Phone: [805-461-1504](tel:+1-805-461-1504)
 - Email: [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org)
-- Hours: M–F 1pm
+- Hours (food pantry): M–F 1–3pm
 - Notes: Not affiliated with [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
 
 ## <a id="Loaves-and-Fishes-Paso-Robles">Loaves & Fishes (Paso Robles)</a>
 
 - [loavesandfishespaso.org](https://loavesandfishespaso.org)
-- Location: 2650 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.642136" data-lon="-120.692363" data-zoom="17" data-label="Loaves and Fishes">Map</a>
+- Location: 2650 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.642136" data-lon="-120.692363" data-zoom="17" data-label="Loaves and Fishes (Paso Robles)">Map</a>
 - Phone: [805-238-4742](tel:+1-805-238-4742)
 - Hours: M–Th Noon–2pm, every 3rd Th 5:30–7pm
 - Notes: Not affiliated with [**Loaves & Fishes (Atascadero)**](#Loaves-and-Fishes-Atascadero)
@@ -1866,7 +1865,7 @@
 ## <a id="Long-Term-Care-Ombudsman">Long Term Care Ombudsman</a>
 
 - [ombudsmanslo.org](https://ombudsmanslo.org/)
-- Location: 3232 S. Higuera St. #101B, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 3232 S. Higuera St. #101B, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Long Term Care Ombudsman">Map</a>
 - Phone:
    - [805-785-0132](tel:+1-805-785-0132) (office)
    - [800-231-4024](tel:+1-800-231-4024) (24-hour emergency)
@@ -1883,7 +1882,7 @@
 ## <a id="Los-Osos-Cares">Los Osos Cares Resource Center</a>
 
 - [losososcares.com](https://www.losososcares.com/)
-- Location: Sunnyside School, 800 Manzanita Dr., Room 18, Los Osos <a class="map-link" data-lat="35.309785" data-lon="-120.835047" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: Sunnyside School, 800 Manzanita Dr., Room 18, Los Osos <a class="map-link" data-lat="35.309785" data-lon="-120.835047" data-zoom="17" data-label="Los Osos Cares Resource Center">Map</a>
    - Community Dinners: 2180 Palisades Ave., Los Osos
 - Phone: [805-592-2701](tel:+1-805-592-2701)
 - Email: [wecareinlososos@gmail.com](mailto:wecareinlososos@gmail.com)
@@ -1919,7 +1918,7 @@
 ## <a id="Lumina-Thrift">Lumina Thrift</a>
 
 - [luminaalliance.org/thriftstore](https://luminaalliance.org/thriftstore/)
-- Location: 545 Higuera St., SLO <a class="map-link" data-lat="35.277002" data-lon="-120.667160" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 545 Higuera St., SLO <a class="map-link" data-lat="35.277002" data-lon="-120.667160" data-zoom="17" data-label="Lumina Thrift">Map</a>
 - Phone: [805-592-3596](tel:+1-805-592-3596)
 - Hours: M–Sa 10am–5pm
 
@@ -1934,7 +1933,7 @@
 ## <a id="Marthas-Place-Childrens-Center">Martha’s Place Children’s Center</a>
 
 - [slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/marthas-place-childrens-center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center)
-- Location: 2925 McMillan Ave. #108, SLO <a class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 2925 McMillan Ave. #108, SLO <a class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="Martha's Place Children's Center">Map</a>
 - Phone: [805-781-4948](tel:+1-805-781-4948)
 - Hours: M–F 8am–5pm
 - Notes: For children ages 0–5 with behavioral or mental health issues
@@ -1972,7 +1971,7 @@
 
 ## <a id="MISP">Medically Indigent Services Program (MISP)</a>
 
-- Location: 2180 Johnson Ave., SLO <a class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 2180 Johnson Ave., SLO <a class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="Medically Indigent Services Program">Map</a>
 - Phone: [805-781-5500](tel:+1-805-781-5500)
 - Hours: M–F 8am–5pm (closed Noon–1pm)
 <!-- Note: Unable to locate dedicated web page through online research (as of October 2025); may be part of SLO County Public Health Department -->
@@ -1997,7 +1996,7 @@
 
 <!-- Source: http://middlehouse.org/ -->
 - [middlehouse.org](http://middlehouse.org/)
-- Location: 2939 Augusta St., SLO <a class="map-link" data-lat="35.267094" data-lon="-120.641232" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 2939 Augusta St., SLO <a class="map-link" data-lat="35.267094" data-lon="-120.641232" data-zoom="17" data-label="Middlehouse">Map</a>
 - Phone: [805-544-8328](tel:+1-805-544-8328)
 
 ## Minister’s Discretionary Fund
@@ -2008,7 +2007,7 @@
 
 <!-- Source: https://www.omsslo.org/parents/mission-thrift-store -->
 - [omsslo.org/parents/mission-thrift-store](https://www.omsslo.org/parents/mission-thrift-store)
-- Location: 2958 S. Higuera St., SLO <a class="map-link" data-lat="35.259753" data-lon="-120.668913" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 2958 S. Higuera St., SLO <a class="map-link" data-lat="35.259753" data-lon="-120.668913" data-zoom="17" data-label="Mission Thrift">Map</a>
 - Phone: [805-548-2660](tel:+1-805-548-2660)
 - Hours: M–Sa 12pm–5pm
 
@@ -2106,11 +2105,10 @@
 
 ## <a id="Nipomo-Food-Basket">Nipomo Food Basket</a>
 
-<!-- Source: https://networks.whyhunger.org/organisation/29193 -->
+<!-- Note: No dedicated website found (as of October 2025) -->
 - Location: 197 W. Tefft St., Nipomo <a class="map-link" data-lat="35.042387" data-lon="-120.476916" data-zoom="17" data-label="Nipomo Food Basket">Map</a>
 - Phone: [805-619-7681](tel:+1-805-619-7681)
-- Hours: M/Tu/Th 10am–1pm
-<!-- Note: No dedicated website found (as of October 2025) -->
+- Hours: M–F 10am–1pm
 
 ## <a id="Nipomo-Senior-Center">Nipomo Senior Center</a>
 
@@ -2189,7 +2187,7 @@
 
 > *See also [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
-- Location: 1320 Nipomo St., SLO <a class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1320 Nipomo St., SLO <a class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">Map</a>
 - Phone: [805-544-4004](tel:+1-805-544-4004)
 - Hours: M–F 10am–3pm
 - How to access: Walk-ins OK
@@ -2302,7 +2300,7 @@
 ## <a id="Peoples-Kitchen-GB">People’s Kitchen (Grover Beach)</a>
 
 - Location: 946 Rockaway Ave., Grover Beach <a class="map-link" data-lat="35.120091" data-lon="-120.619796" data-zoom="17" data-label="People’s Kitchen (Grover Beach)">Map</a>
-- Phone: [805-266-1838](tel:+1-805-266-1838)
+- Phone: [805-266-1838](tel:+1-805-266-1838) <!-- Note: another source says 805-458-1992 -->
 - Hours: Daily at noon
 - Notes: Hosted by [**Lifepoint Church**](#Lifepoint-Church)
 <!-- Note: No dedicated website or contact info found (as of October 2025); contact via Lifepoint Church -->
@@ -2311,14 +2309,14 @@
 
 > *See also [**40 Prado Homeless Services Center**](#40-Prado)*
 
-- Location: 40 Prado Road, SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 40 Prado Road, SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="People's Kitchen">Map</a>
 - Hours: Daily at noon
 <!-- Note: No dedicated website or contact info found (as of October 2025); meal program at 40 Prado -->
 
 ## <a id="Peoples-Self-Help-Housing">Peoples’ Self-Help Housing</a>
 
 - [pshhc.org](https://www.pshhc.org/)
-- Location: 1060 Kendall Road, SLO <a class="map-link" data-lat="35.236784" data-lon="-120.633302" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1060 Kendall Road, SLO <a class="map-link" data-lat="35.236784" data-lon="-120.633302" data-zoom="17" data-label="People's Self-Help Housing">Map</a>
 - Phone: [805-781-3088](tel:+1-805-781-3088)
 - Hours: M–F 8am–5pm
 - Notes:
@@ -2370,7 +2368,7 @@
 ## <a id="Planned-Parenthood">Planned Parenthood</a>
 
 - [plannedparenthood.org/planned-parenthood-california-central-coast](http://plannedparenthood.org/planned-parenthood-california-central-coast)
-- Location: 743 Pismo St., SLO <a class="map-link" data-lat="35.276498" data-lon="-120.661688" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 743 Pismo St., SLO <a class="map-link" data-lat="35.276498" data-lon="-120.661688" data-zoom="17" data-label="Planned Parenthood">Map</a>
 - Phone: [888-898-3806](tel:+1-888-898-3806)
 - Hours: M 9am–6pm, Tu–Sa 8am–5pm (closed some holidays)
 - Notes: entry-point for “FamilyPACT”
@@ -2394,7 +2392,7 @@
 ## <a id="Pregnancy-Parenting-Support">Pregnancy & Parenting Support</a>
 
 - [ppsslo.org](http://ppsslo.org/)
-- Location: 3480 S. Higuera #110, SLO <a class="map-link" data-lat="35.245008" data-lon="-120.673657" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 3480 S. Higuera #110, SLO <a class="map-link" data-lat="35.245008" data-lon="-120.673657" data-zoom="17" data-label="Pregnancy &amp; Parenting Support">Map</a>
 - Phone: [805-541-3367](tel:+1-805-541-3367) (call or text)
 - Email: [info@ppsslo.org](mailto:info@ppsslo.org)
 - Hours: M–F 10am–2:30pm
@@ -2448,14 +2446,6 @@
 - Email: [info@redrover.org](mailto:info@redrover.org)
 - Hours: M–F 8:30am–4:30pm
 
-## Refugee and Immigrant Services Education
-
-> *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
-
-## Regional Transit Authority (RTA)
-
-> *See [**SLO Regional Transit Authority**](#SLO-RTA)*
-
 ## <a id="Refuge-Church-Atascadero">Refuge Church</a>
 
 <!-- Source: https://www.findhelp.org/refuge-church--atascadero-ca--refuge-rescue-mission-ministry/5842198058237952?postal=93401 -->
@@ -2464,24 +2454,33 @@
 - Phone: [805-466-3554](tel:+1-805-466-3554)
 - Email: [office@refugechurch.info](mailto:office@refugechurch.info)
 - Hours:
-   - Food pantry: Tu/W evenings, or by appointment
+   - Food pantry: Tu 5–6pm, W 6–6:30pm, or by appointment
    - Free meals: Tu/W dinner
    - Office: M–F 8am–5pm
+
+## Refugee and Immigrant Services Education
+
+> *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
+
+## Regional Transit Authority (RTA)
+
+> *See [**SLO Regional Transit Authority**](#SLO-RTA)*
 
 ## <a id="Renovate-Church">Renovate Church</a>
 
 <!-- Source: https://www.yelp.com/biz/renovate-church-san-luis-obispo-2 -->
 - [renovateslo.com](https://renovateslo.com/)
-- Location: 2075 Johnson Ave., SLO <a class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 2075 Johnson Ave., SLO <a class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Renovate Church">Map</a>
 - Phone: [805-543-0945](tel:+1-805-543-0945)
 - Email: [office@renovateslo.com](mailto:office@renovateslo.com)
 - Hours (food pantry): M 4–6pm
 
 ## <a id="Restoration-Church">Restoration Church</a>
 
+<!-- To-do: add webpage, email contact if available -->
 - Location: 9333 Santa Barbara Rd., Atascadero <a class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Restoration Church">Map</a>
 - Phone: [805-538-0449](tel:+1-805-538-0449) (unverified)
-- Hours (food pantry): first Saturday of the month, 1pm–3pm (unverified)
+- Hours (food pantry): first Saturday of the month, 1–1:30pm
 
 ## <a id="Restorative-Partners">Restorative Partners</a>
 
@@ -2572,7 +2571,7 @@
 
 - [stpatsag.org](https://www.stpatsag.org/)
 - Location: 501 Fair Oaks Ave., Arroyo Grande <a class="map-link" data-lat="35.114145" data-lon="-120.583486" data-zoom="17" data-label="Saint Patrick’s Church">Map</a>
-- Phone: [805-489-2680](tel:+1-805-489-2680)
+- Phone: [805-489-2680](tel:+1-805-489-2680) <!-- Note: another source says 805-441-1094 (for food pantry specifically?) -->
 - Email: [info@stpatsag.org](mailto:info@stpatsag.org)
 - Hours:
    - Office: M–Th 9am–5pm (closed Noon–1:30pm)
@@ -2593,7 +2592,7 @@
 
 | Location | Phone | Food Pantry | Notes |
 | -------- | ----- | ----------- | ----- |
-| 815 Islay Street, SLO <a class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a> | [805-544-2401](tel:+1-805-544-2401) | W/F 10am–Noon, Th. 2–4pm | Operates a “Rapid Rehousing Program” |
+| 815 Islay Street, SLO <a class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">Map</a> | [805-544-2401](tel:+1-805-544-2401) | W/F 10am–Noon, Th. 2–4pm | Operates a “Rapid Rehousing Program” |
 | 1550 W Branch Street, Arroyo Grande <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">Map</a> | [805-481-0278](tel:+1-805-481-0278) | M/W/F 10am–2pm | |
 | 8420 El Camino Real <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">Map</a> | [805-466-7201](tel:+1-805-466-7201) | | |
 | 540 Quintana Rd, Morro Bay <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">Map</a> | [805-772-7062](tel:+1-805-772-7062) | | (was temporarily closed as of September 2025) <!-- says Eva --> |
@@ -2602,13 +2601,13 @@
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
 - [ae.slcusd.org](https://ae.slcusd.org/)
-- Location: 1500 Lizzie St., SLO <a class="map-link" data-lat="35.281251" data-lon="-120.649489" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1500 Lizzie St., SLO <a class="map-link" data-lat="35.281251" data-lon="-120.649489" data-zoom="17" data-label="San Luis Coastal Adult School">Map</a>
 - Phone: [805-549-1222](tel:+1-805-549-1222)
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
 - [montereylaw.edu/clinics/indexslocl.html](https://montereylaw.edu/clinics/indexslocl.html)
-- Location: 4119 Broad St. #200, SLO <a class="map-link" data-lat="35.245787" data-lon="-120.642691" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 4119 Broad St. #200, SLO <a class="map-link" data-lat="35.245787" data-lon="-120.642691" data-zoom="17" data-label="SLO College of Law Legal Clinic">Map</a>
 - Phone: [805-548-8884](tel:+1-805-548-8884)
 - Hours: M–Th 9am–3pm (scheduling); consultations Tu 4:30–6:30pm
 
@@ -2662,7 +2661,7 @@
 
 ## <a id="Senior-Legal-Services-Project">Senior Legal Services Project</a>
 
-- Location: 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">Map</a>
 - Phone: [805-543-5140](tel:+1-805-543-5140)
 <!-- Note: Unable to locate dedicated web page or hours of operation through online research (as of October 2025); call to verify; may be affiliated with SLO Legal Assistance Foundation at same address -->
 
@@ -2740,7 +2739,7 @@
 ## <a id="SLOCOG">SLO Council of Governments (SLOCOG)</a>
 
 - [slocog.org](https://www.slocog.org/)
-- Location: 1114 Marsh Street, SLO <a class="map-link" data-lat="35.281490" data-lon="-120.658717" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1114 Marsh Street, SLO <a class="map-link" data-lat="35.281490" data-lon="-120.658717" data-zoom="17" data-label="SLO Council of Governments">Map</a>
 - Phone: [805-781-4219](tel:+1-805-781-4219)
 - Email: [slocog@slocog.org](mailto:slocog@slocog.org)
 
@@ -2751,7 +2750,7 @@
 ## <a id="SLO-County-Animal-Services">SLO County Animal Services</a>
 
 - [slocounty.ca.gov/departments/health-agency/animal-services](https://www.slocounty.ca.gov/departments/health-agency/animal-services)
-- Location: 885 Oklahoma Ave., SLO <a class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 885 Oklahoma Ave., SLO <a class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">Map</a>
 - Phone:
    - [805-781-4400](tel:+1-805-781-4400) (main office)
    - [805-781-4407](tel:+1-805-781-4407) (found animal recording)
@@ -2798,7 +2797,7 @@
 ## <a id="SLO-County-Clerk-Recorder">SLO County Clerk-Recorder</a>
 
 - [slocounty.ca.gov/departments/clerk-recorder](https://www.slocounty.ca.gov/departments/clerk-recorder)
-- Location: 1055 Monterey St. #D120, SLO <a class="map-link" data-lat="35.282079" data-lon="-120.660193" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1055 Monterey St. #D120, SLO <a class="map-link" data-lat="35.282079" data-lon="-120.660193" data-zoom="17" data-label="SLO County Clerk-Recorder">Map</a>
 - Phone: [805-781-5080](tel:+1-805-781-5080)
 - Hours: M/Tu/Th/F 8am–5pm, W 8am–4pm (transactions end 30 minutes before closing)
 
@@ -2849,7 +2848,7 @@
 ## <a id="SLO-County-Law-Library">SLO County Law Library</a>
 
 - [slocll.org](https://www.slocll.org/)
-- Location: 1050 Monterey St., Room 125, SLO <a class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1050 Monterey St., Room 125, SLO <a class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO County Law Library">Map</a>
 - Phone: [805-781-5855](tel:+1-805-781-5855)
 - Email: [info@slocll.org](mailto:info@slocll.org)
 - Hours: M–W 9am–4pm, Th.–F 8:30am–1:30pm
@@ -2860,10 +2859,10 @@
 
 | Serves | Location | Phone |
 | ------ | -------- | ----- |
-| Adults | 1350 E. Grand Ave. <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-474-2154](tel:+1-805-474-2154) |
-| Youths | 354 S. Halcyon Rd. <a href="#" class="map-link" data-lat="35.113647" data-lon="-120.592282" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-473-7060](tel:+1-805-473-7060) |
-| Adults | 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-781-4700](tel:+1-805-781-4700) |
-| Youths | 1989 Vicente Dr. <a href="#" class="map-link" data-lat="35.253829" data-lon="-120.685962" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-781-4179](tel:+1-805-781-4179) |
+| Adults | 1350 E. Grand Ave. <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-474-2154](tel:+1-805-474-2154) |
+| Youths | 354 S. Halcyon Rd. <a href="#" class="map-link" data-lat="35.113647" data-lon="-120.592282" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-473-7060](tel:+1-805-473-7060) |
+| Adults | 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-781-4700](tel:+1-805-781-4700) |
+| Youths | 1989 Vicente Dr. <a href="#" class="map-link" data-lat="35.253829" data-lon="-120.685962" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-781-4179](tel:+1-805-781-4179) |
 
 - Phone: [800-838-1381](tel:+1-800-838-1381) (24hr) / [805-540-6500](tel:+1-805-540-6500)
 - Hours: M–F 8am–5pm
@@ -2931,7 +2930,7 @@
 
 ## <a id="SLO-County-Small-Claims-Advisor">SLO County Small Claims Advisor</a>
 
-- Location: County Government Center Room 223, SLO <a class="map-link" data-lat="35.282192" data-lon="-120.660230" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: County Government Center Room 223, SLO <a class="map-link" data-lat="35.282192" data-lon="-120.660230" data-zoom="17" data-label="SLO County Small Claims Advisor">Map</a>
 - Phone: [805-781-5856](tel:+1-805-781-5856)
 - Hours: M–F 9am–12pm
    - Note: Some sources say hours are Monday–Wednesday only rather than Monday–Friday
@@ -2940,7 +2939,7 @@
 ## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
 
 - [sloundocusupport.org](https://www.sloundocusupport.org/)
-- Location: 981 Marsh St., SLO <a class="map-link" data-lat="35.279892" data-lon="-120.660341" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 981 Marsh St., SLO <a class="map-link" data-lat="35.279892" data-lon="-120.660341" data-zoom="17" data-label="SLO County Undocusupport">Map</a>
 - Phone:
    - [805-543-5451](tel:+1-805-543-5451)
    - [805-549-8989](tel:+1-805-549-8989) (hotline)
@@ -2951,7 +2950,7 @@
 
 - [ciymca.org/locations/san-luis-obispo-county-ymca](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
    - [Open Doors Scholarship application](https://www.ciymca.org/open-doors-scholarship-application) for people with low incomes
-- Location: 1020 Southwood Dr., SLO <a class="map-link" data-lat="35.266421" data-lon="-120.643242" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1020 Southwood Dr., SLO <a class="map-link" data-lat="35.266421" data-lon="-120.643242" data-zoom="17" data-label="SLO County YMCA">Map</a>
 - Phone: [805-543-8235](tel:+1-805-543-8235)
 - Email: [slo.info@ciymca.org](mailto:slo.info@ciymca.org)
 - Hours: M–Th 5:30am–9pm, F 5:30am–7pm, Sa 7am–5pm, Su closed
@@ -2959,7 +2958,7 @@
 ## <a id="SLO-Court-Self-Help-Services">SLO Court Self-Help Services</a>
 
 - [slo.courts.ca.gov/self-help](https://www.slo.courts.ca.gov/self-help)
-- Location: 1050 Monterey St., Room 220, SLO <a class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1050 Monterey St., Room 220, SLO <a class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Court Self-Help Services">Map</a>
 - Phone: [805-706-3617](tel:+1-805-706-3617)
 - Hours: M–F 8:30am–4:30pm
 - Notes: Includes “Family Law Facilitator” and “Self-Help Center”
@@ -2967,14 +2966,14 @@
 ## <a id="SLO-Credit-Union">SLO Credit Union</a>
 
 - [slocu.com](https://slocu.com/)
-- Location: 1220 Osos St., SLO <a class="map-link" data-lat="35.280049" data-lon="-120.659510" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1220 Osos St., SLO <a class="map-link" data-lat="35.280049" data-lon="-120.659510" data-zoom="17" data-label="SLO Credit Union">Map</a>
 - Phone: [805-543-5839](tel:+1-805-543-5839)
 - Hours: M–F 9am–4:30pm (lobby closed noon–2pm)
 
 ## <a id="SLO-Food-Bank">SLO Food Bank</a>
 
 - [slofoodbank.org](https://www.slofoodbank.org/)
-- Location: 1180 Kendall Rd., SLO <a class="map-link" data-lat="35.237752" data-lon="-120.630593" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1180 Kendall Rd., SLO <a class="map-link" data-lat="35.237752" data-lon="-120.630593" data-zoom="17" data-label="SLO Food Bank">Map</a>
    - Also has many food distribution sites around SLO County
 - Phone: [805-238-4664](tel:+1-805-238-4664)
 - Hours: M–F 9:30am–4pm
@@ -2991,7 +2990,7 @@
 > *See also: [**40 Prado Homeless Services Center**](#40-Prado)*
 
 - [capslo.org/slo-hub](https://capslo.org/slo-hub/)
-- Location: 40 Prado Rd., SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 40 Prado Rd., SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="SLO Hub">Map</a>
 - Phone: [805-441-6589](tel:+1-805-441-6589)
 - Email: [sreyes@capslo.org](mailto:sreyes@capslo.org)
 - Hours: M–F 9am–5pm
@@ -3000,7 +2999,7 @@
 ## <a id="SLO-Legal-Assistance-Foundation">SLO Legal Assistance Foundation (SLOLAF)</a>
 
 - [slolaf.org](https://www.slolaf.org/)
-- Location: 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="SLO Legal Assistance Foundation">Map</a>
 - Phone: [805-543-5140](tel:+1-805-543-5140)
 - Email: [info@slolaf.org](mailto:info@slolaf.org)
 
@@ -3025,14 +3024,14 @@
 ## <a id="SLO-Partners">SLO Partners</a>
 
 - [slopartners.org](https://slopartners.org/)
-- Location: 3350 Education Dr. SLO <a class="map-link" data-lat="35.334344" data-lon="-120.742872" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 3350 Education Dr. SLO <a class="map-link" data-lat="35.334344" data-lon="-120.742872" data-zoom="17" data-label="SLO Partners">Map</a>
 - Phone: [805-782-7372](tel:+1-805-782-7372)
 - Email: [info@slopartners.org](mailto:info@slopartners.org)
 
 ## <a id="SLO-Public-Defenders">SLO Public Defenders</a>
 
 - [slodefend.com](https://slodefend.com/)
-- Location: 991 Osos Street #A, SLO <a class="map-link" data-lat="35.281851" data-lon="-120.661598" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 991 Osos Street #A, SLO <a class="map-link" data-lat="35.281851" data-lon="-120.661598" data-zoom="17" data-label="SLO Public Defenders">Map</a>
 - Phone: [805-541-5715](tel:+1-805-541-5715)
 - Hours: M–Th 8:30am–Noon & 1pm–5pm; F 8:30am–Noon & 1pm–4pm
 - How to access: Appear at first court hearing and ask judge to appoint attorney; meetings by appointment only
@@ -3052,7 +3051,7 @@
 
 <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs verified October 2025 -->
 - [slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs)
-- Location: 1445 Santa Rosa St., SLO <a class="map-link" data-lat="35.278951" data-lon="-120.657079" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1445 Santa Rosa St., SLO <a class="map-link" data-lat="35.278951" data-lon="-120.657079" data-zoom="17" data-label="SLO Senior Center">Map</a>
 - Phone: [805-781-7306](tel:+1-805-781-7306)
 - Hours: M–F 9am–4pm
 - Membership: Open to SLO city residents 55+; includes monthly newsletter, center access, free coffee
@@ -3066,7 +3065,7 @@
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
 - Website: [slocounty.gov/soberingcenter](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center)
-- Location: 2180 Johnson Ave., SLO <a class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 2180 Johnson Ave., SLO <a class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="SLO Sobering Center">Map</a>
 - Phone: [820-280-0415](tel:+1-820-280-0415)
 - Hours: 24/7
 
@@ -3087,7 +3086,7 @@
 
 - [slothrift.com](https://slothrift.com/)
 - Location: 445 Higuera St., SLO <a href="#" class="map-link" data-lat="35.275984" data-lon="-120.668482" data-zoom="17" data-label="SLO Thrift">📍 Map</a>
-- Phone: [805 439-4434](tel:+1-805 439-4434)
+- Phone: [805-439-4434](tel:+1-805-439-4434)
 - Note: Not yet open as of November 2025 (being remodeled)
 
 ## <a id="SLO-Transit">SLO Transit</a>
@@ -3102,7 +3101,7 @@
 ## <a id="SLO-Vet-Center">SLO Vet Center</a>
 
 - [va.gov/san-luis-obispo-vet-center](http://va.gov/san-luis-obispo-vet-center)
-- Location: 1070 Southwood Dr., SLO <a class="map-link" data-lat="35.265278" data-lon="-120.640912" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1070 Southwood Dr., SLO <a class="map-link" data-lat="35.265278" data-lon="-120.640912" data-zoom="17" data-label="SLO Vet Center">Map</a>
 - Phone: [805-782-9101](tel:+1-805-782-9101)
 - Hours: M–F 8am–4:30pm
 
@@ -3115,7 +3114,7 @@
 ## <a id="Social-Security-Administration">Social Security Administration</a>
 
 - [ssa.gov](https://www.ssa.gov/)
-- Location: 3240 S. Higuera St., SLO <a class="map-link" data-lat="35.256200" data-lon="-120.668801" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 3240 S. Higuera St., SLO <a class="map-link" data-lat="35.256200" data-lon="-120.668801" data-zoom="17" data-label="Social Security Administration">Map</a>
 - Phone: [855-207-4865](tel:+1-855-207-4865)
 - Hours: M–F 9am–4pm
 - How to access: Call to schedule an appointment
@@ -3126,7 +3125,7 @@
 
 ## <a id="Society-of-St-Vincent-de-Paul">Society of Saint Vincent de Paul</a>
 
-- Location: 751 Palm St., SLO <a class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 751 Palm St., SLO <a class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">Map</a>
 - Phone: [805-544-7041](tel:+1-805-544-7041)
 - Hours:
    - Tuesdays at Prado Center (43 Prado <a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">📍 Map</a>): 2–3pm
@@ -3182,7 +3181,7 @@
 ## <a id="Sun-Street-Centers">Sun Street Centers</a>
 
 - [sunstreetcenters.org](http://sunstreetcenters.org/)
-- Location: 34 Prado Rd., SLO <a class="map-link" data-lat="35.256247" data-lon="-120.672862" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 34 Prado Rd., SLO <a class="map-link" data-lat="35.256247" data-lon="-120.672862" data-zoom="17" data-label="Sun Street Centers">Map</a>
 - Phone: [805-457-3331](tel:+1-805-457-3331) / [805-457-5150](tel:+1-805-457-5150)
 - Email: [atorrente@sunstreet.org](mailto:atorrente@sunstreet.org)
 <!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
@@ -3293,7 +3292,7 @@
 ## <a id="TranzCentralCoast">TranzCentralCoast</a>
 
 - [tranzcentralcoast.org](https://www.tranzcentralcoast.org/)
-- Location: 1060 Palm St., SLO <a class="map-link" data-lat="35.283421" data-lon="-120.661309" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1060 Palm St., SLO <a class="map-link" data-lat="35.283421" data-lon="-120.661309" data-zoom="17" data-label="TranzCentralCoast">Map</a>
 - Phone: [805-242-3821](tel:+1-805-242-3821)
 - Email: [TranzCentralCoast@gmail.com](mailto:TranzCentralCoast@gmail.com)
 
@@ -3329,7 +3328,7 @@
 ## <a id="United-Voluntary-Services-Thrift">United Voluntary Services Thrift</a>
 
 <!-- Source: https://www.thriftstores.net/store/1713/united-voluntary-services-thrift-store/ -->
-- Location: 474 Marsh St., SLO <a class="map-link" data-lat="35.276489" data-lon="-120.667039" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 474 Marsh St., SLO <a class="map-link" data-lat="35.276489" data-lon="-120.667039" data-zoom="17" data-label="United Voluntary Services Thrift">Map</a>
 - Phone: [805-543-1545](tel:+1-805-543-1545)
 - Hours: M–F 10am–4pm, Sa 11am–2pm
 
@@ -3337,7 +3336,7 @@
 
 - [unitedwayslo.org](https://unitedwayslo.org/)
    - [tax return assistance program](https://unitedwayslo.org/family-financial-stability/taxes/)
-- Location: 1288 Morro St. #10, SLO <a class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1288 Morro St. #10, SLO <a class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="United Way">Map</a>
 - Phone: [805-541-1234](tel:+1-805-541-1234)
 - Email: [info@unitedwayslo.org](mailto:info@unitedwayslo.org)
    - tax return assistance program: [taxes@unitedwayslo.org](mailto:taxes@unitedwayslo.org)
@@ -3373,7 +3372,7 @@ There are several urgent care options, including:
 ## <a id="Urgent-Care-of-Morro-Bay">Urgent Care of Morro Bay</a>
 
 <!-- Source: Web search verified October 2025 -->
-- Location: 783 Quintana Rd. #1, Morro Bay <a class="map-link" data-lat="35.367708" data-lon="-120.842253" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 783 Quintana Rd. #1, Morro Bay <a class="map-link" data-lat="35.367708" data-lon="-120.842253" data-zoom="17" data-label="Urgent Care of Morro Bay">Map</a>
 - Phone: [805-771-0108](tel:+1-805-771-0108)
 - Hours: M–Sa 7am–6:30pm, Su 8am–3:30pm
 - Notes: Accepts Medicare and Medi-Cal
@@ -3387,7 +3386,7 @@ There are several urgent care options, including:
 
 ## <a id="Veterans-Administration-Outpatient-Clinic">Veterans Administration Outpatient Clinic</a>
 
-- Location: 1288 Morro St. #200, SLO <a class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1288 Morro St. #200, SLO <a class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="Veterans Administration Outpatient Clinic">Map</a>
 - Phone:
    - [805-543-1233](tel:+1-805-543-1233) / [877-252-4866](tel:+1-877-252-4866) (VA health connect)
    - [877-251-7295](tel:+1-877-251-7295) (24/7 appointment line)
@@ -3402,7 +3401,7 @@ There are several urgent care options, including:
 
 <!-- Source: http://slocounty.ca.gov/Departments/Veterans-Services -->
 - [slocounty.ca.gov/Departments/Veterans-Services](http://slocounty.ca.gov/Departments/Veterans-Services)
-- Location: 801 Grand Ave., SLO <a class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 801 Grand Ave., SLO <a class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services">Map</a>
 - Phone: [805-781-5766](tel:+1-805-781-5766)
 - How to access: In-person and phone appointments only; no walk-ins; book appointments online or by phone
 <!-- Note: Specific hours of operation not listed on website (as of October 2025); call to verify -->
@@ -3440,7 +3439,7 @@ There are several urgent care options, including:
 ## <a id="Vituity-Cares-Mobile-Clinic">Vituity Cares Mobile Clinic</a>
 
 - [vituitycares.org](http://vituitycares.org/)
-- Location: 995 Palm St., SLO <a class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 995 Palm St., SLO <a class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="Vituity Cares Mobile Clinic">Map</a>
 - Phone: [480-828-4319](tel:+1-480-828-4319)
 - Hours: 2nd Sunday of the month, 12:30–3:30 pm
 
@@ -3463,7 +3462,7 @@ There are several urgent care options, including:
 ## <a id="Waterman-Village">Waterman Village</a>
 
 - [smartsharehousingsolutions.org/co-living-collaborative](https://www.smartsharehousingsolutions.org/co-living-collaborative)
-- Location: 466 Dana St., SLO <a class="map-link" data-lat="35.278012" data-lon="-120.669144" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 466 Dana St., SLO <a class="map-link" data-lat="35.278012" data-lon="-120.669144" data-zoom="17" data-label="Waterman Village">Map</a>
 - Phone: [805-215-5474](tel:+1-805-215-5474)
 - Notes: A project of [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions)
 
@@ -3511,7 +3510,7 @@ There are several urgent care options, including:
 
 - [woodshumanesociety.org](https://woodshumanesociety.org/)
    - [Pet Pantry](https://woodshumanesociety.org/pet-pantry/)
-- Location: 875 Oklahoma Ave, SLO <a class="map-link" data-lat="35.318418" data-lon="-120.715209" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 875 Oklahoma Ave, SLO <a class="map-link" data-lat="35.318418" data-lon="-120.715209" data-zoom="17" data-label="Woods Human Society">Map</a>
 - Phone: [805-543-9316](tel:+1-805-543-9316)
 - Email: [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) (Robin Coleman, Community Engagement Manager)
 - Hours: Tu–Su 11am–5pm
@@ -3520,7 +3519,7 @@ There are several urgent care options, including:
 
 <!-- Source: https://www.zionslo.com/ -->
 - [zionslo.com](https://www.zionslo.com/)
-- Location: 1010 Foothill Blvd., SLO <a class="map-link" data-lat="35.294563" data-lon="-120.667386" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- Location: 1010 Foothill Blvd., SLO <a class="map-link" data-lat="35.294563" data-lon="-120.667386" data-zoom="17" data-label="Zion Lutheran Church">Map</a>
 - Phone: [805-543-8327](tel:+1-805-543-8327)
 - Email: [zion@zionslo.com](mailto:zion@zionslo.com)
 - Hours (food pantry): W 9:30–11:30am
