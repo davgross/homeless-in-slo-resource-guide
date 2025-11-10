@@ -1068,7 +1068,8 @@
 - Email:
    - [scchelp@cuesta.edu](scchelp@cuesta.edu) (South County Campus)
 - Notes:
-   - [Community Education](https://www.cuesta.edu/community/index.html) programs open to otherwise unenrolled people
+   - The Paso Robles campus hosts a food pantry in room N1005, M/Th/F 8am–5pm, Tu/W 9am–6pm; [805-592-9366](tel:+1-805-592-9366)
+   - [Community Education](https://www.cuesta.edu/community/index.html) programs are open to otherwise unenrolled people
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) has vocational / lifetime-learning programs, and ESL
    - Partners with [**The Bridge Cafe**](#Restorative-Partners) for its Culinary Arts program
    - Partners with [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes

@@ -647,7 +647,7 @@ Note: Investigated "Westside Neighborhood Center" (805-897-2560) (October 2025)�
 | Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 6pm Tuesday & Wednesday  |
 | Grover Beach | [**People's Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily         |
 | Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesday            |
-| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 5pm Monday               |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 3:45pm Monday            |
 | Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm daily             |
 | SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am Thursday            |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 4:30pm Monday & Thursday |
@@ -681,15 +681,17 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Morro Bay     | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                | Saturdays |
 | Nipomo        | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket)                                           | M/Tu/Th/F |
 | Nipomo        | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)           | Saturdays |
+| Paso Robles   | [**Cuesta College**](Directory.md#Cuesta-College)                                                   | Monday–Friday |
 | Paso Robles   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)                                     | any time |
 | Paso Robles   | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                 | Monday–Thursday |
 | Paso Robles   | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center)                             | 2nd & 4th Tuesday |
 | Paso Robles   | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Tuesdays |
+| Paso Robles   | The Link, <a href="#" class="map-link" data-lat="35.639659" data-lon="-120.692709" data-zoom="17" data-label="The Link">626 26th St.</a> admin building #1, [805-503-9638](tel:+1-805-503-9638) | M–Th 9am–3pm; F 9am–1pm |
 | Pismo Beach   | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry)                                   | Tuesday–Thursday |
-| San Miguel    | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-3256](tel:+1-805-467-3256) | 1st, 3rd, & 5th Wednesday |
+| San Miguel    | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-2131&#xA0;x115](tel:+1-805-467-2131;ext=115) | 1st, 3rd, & 5th Wednesday, 5–6pm |
 | SLO           | [**Agape Church**](Directory.md#Agape-Church)                                                       | Tuesdays & Sundays |
 | SLO           | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                         | Mondays |
-| SLO           | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | Tuesdays, or by appt. |
+| SLO           | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | Tuesdays 2pm, or by appt. |
 | SLO           | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                      | Saturdays |
 | SLO           | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)               | Monday–Friday |
 | SLO           | [**Renovate Church**](Directory.md#Renovate-Church)                                                 | Mondays |
@@ -713,7 +715,7 @@ See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Direct
 ### <a id="food-box-distributions">Food Box Distributions</a>
 
 The [**SLO Food Bank**](Directory.md#SLO-Food-Bank) gives away food boxes on a regular schedule at a variety of locations in SLO County.
-Visit [slofoodbank.org/food-locator](https://www.slofoodbank.org/food-locator/) for a complete list and schedule of these “Neighborhood Food Distributions.”
+Visit [findfoodslo.org](https://findfoodslo.org/) for a complete list and schedule of these “Neighborhood Food Distributions.”
 
 ### <a id="summer-meal-sites">Summer Meal Sites (for Children)</a>
 
