@@ -318,17 +318,9 @@
 - Location: 5905 East Mall, Atascadero <a class="map-link" data-lat="35.488783" data-lon="-120.667081" data-zoom="17" data-label="Atascadero Senior Center">Map</a>
 - Phone: [805-466-4674](tel:+1-805-466-4674)
 - Hours: M–F (hours vary by activity; call for details)
-- Services:
-   - Free lunch M–F at 11:30am ([**Meals that Connect**](#Meals-that-Connect); reservation required)
-   - Free WiFi and computer access
-   - Lending library (books, DVDs, puzzles, games)
-   - Medical equipment loans (wheelchairs, walkers, etc.)
-   - Games: Bunco (M, $4), Mahjong, card games, board games, dominoes
-   - Fitness: Tai Chi (3x/week), chair yoga, walking groups (M & Th, free)
-   - Arts and crafts classes
-   - Movies with refreshments
-   - Discussion groups
-- Notes: Most activities free for members ($2 for guests); membership open to people 50+
+- How to access: Most activities free for members ($2 for guests); membership open to people 50+
+- Notes:
+   - A lunch site for [**Meals that Connect**](#Meals-that-Connect)
 
 ## <a id="Atascadero-Parks-and-Recreation">Atascadero Parks & Recreation</a>
 
@@ -338,12 +330,6 @@
 - Phone: [805-470-3360](tel:+1-805-470-3360)
 - Email: [recreation@atascadero.org](mailto:recreation@atascadero.org)
 - Hours: M–F 9am–5pm
-- Services:
-   - Senior programs: 55+ yoga, card games, badminton, Senior Chair Wellness Class, Pickleball
-   - Adult sports: basketball leagues, kickball, Drop-in Basketball (M/W/F 12–2pm)
-   - Youth programs: aquatics, basketball, T-ball, volleyball, pickleball, Start Smart Sports
-   - Teen Center: $20/year membership
-   - Facility: 18,000 sq. ft. Colony Park Community Center for classes, meetings, and events
 
 ## <a id="Balay-Ko-on-Barka">Balay Ko on Barka</a>
 
@@ -557,13 +543,6 @@
 <!-- Source: https://www.joslynrec.org/CAN/index.html and https://www.cambriasanonymousneighbors.org/other-community-services.html -->
 - [joslynrec.org/CAN](https://www.joslynrec.org/CAN/index.html)
 - Phone: [805-927-5673](tel:+1-805-927-5673)
-- Services:
-   - Monthly food distribution
-   - Loans of medical equipment (wheelchairs, walkers, canes, grab bars, Life Alert devices, etc.)
-   - Transportation for medical appointments within SLO County
-   - Minor home repairs (e.g., installing grab bars)
-- Service area: Cambria and North Coast
-- Notes: Donations of medical equipment in good condition accepted; some items cannot be accepted due to regulations and limited storage (e.g., hospital beds, adult diapers)
 
 ## CAPSLO
 
@@ -644,11 +623,6 @@
 - Hours:
    - SLO offices: M–F 8am–5pm (call to confirm hours for specific location)
    - Paso Robles: 2nd Wednesday of every month, 1–5pm
-- Services: Supportive Services, Legal Immigration & Citizenship
-- Notes:
-   - Catholic Charities Diocese of Monterey serves 4 counties: Monterey, Santa Cruz, San Benito, and San Luis Obispo
-   - Administrative headquarters in Seaside, CA
-   - Call ahead to confirm which location provides the specific service you need
 <!-- Note: Multiple addresses found in online sources including 3592 Broad St. #104, 3220 S. Higuera St. #303, and 941 Chorro St.; relationship between these addresses unclear (January 2025) -->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
@@ -2041,16 +2015,13 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 <!-- Source: https://morrobayseniors.org/ verified October 2025 -->
 - [morrobayseniors.org](https://morrobayseniors.org/)
-- Location: 1001 Kennedy Way, Morro Bay <a class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Senior Center (Morro Bay Active Adults...55+)">Map</a>
+- Location: 1001 Kennedy Way, Morro Bay <a class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Senior Center">Map</a>
 - Phone: [805-772-4421](tel:+1-805-772-4421)
 - Hours: M–F 9am–4pm
 - Membership: $15/year individual, $25/year household (90+ free); open to people 55+
-- Services:
-   - Medical equipment loans (wheelchairs, crutches, walkers, shower chairs, canes)
-   - Games: Bingo, Bridge Club, Chess Club, Dominoes, Hand & Foot cards, Mahjong, Ping-Pong, Darts, Pinochle, Poker, Pool/Billiards
-   - Fitness: ACES Senior Exercise, Bocce Ball, P.A.C.E. (People with Arthritis Can Exercise), Pickleball, Tai Chi, Walking Group
-   - Support groups
-- Notes: In 2016 began operating as "Morro Bay Active Adults...55+"; originally formed in 1974 as Morro Bay Senior Citizens, Inc.
+- Notes:
+   - Hosts [**HiCAP**](#HiCAP)
+   - Hosts [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
 
 ## <a id="Morro-Bay-Parks-and-Recreation">Morro Bay Parks & Recreation</a>
 
@@ -2058,16 +2029,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - [morrobayca.gov/292/Recreation-Services](https://www.morrobayca.gov/292/Recreation-Services)
 - Location: Morro Bay Community Center, 1001 Kennedy Way, Morro Bay <a href="#" class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Parks and Recreation">Map</a>
 - Phone: [805-772-6278](tel:+1-805-772-6278)
+- Email: [kcarmichael@morrobayca.gov](mailto:kcarmichael@morrobayca.gov)
 - Hours: M–F 8:30am–5pm (registration)
-- Services:
-   - Youth programs: Kids' Club before/after school care, Kids' Camp, sports leagues
-   - Aquatics: swimming programs, Junior Lifeguard Program
-   - Senior activities
-   - Adult sports leagues
-   - Project Surf Camp
-   - Fitness classes: Freestyle Fitness, Zumba
-   - Scholarship applications available
-   - Facility rentals
 
 ## My Home for Hope
 
@@ -2123,16 +2086,11 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - [nipomoseniorcenter.org](https://nipomoseniorcenter.org/)
 - Location: 200 E. Dana St., Nipomo <a class="map-link" data-lat="35.044026" data-lon="-120.471889" data-zoom="17" data-label="Nipomo Senior Center">Map</a>
 - Phone: [805-929-1615](tel:+1-805-929-1615)
+- Email: [contact@nipomoseniorcenter](mailto:contact@nipomoseniorcenter)
 - Hours: M–F 9am–1pm
 - Membership: $20/year (includes access to all activities and programs)
-- Services:
-   - Lunch via [**Meals that Connect**](#Meals-that-Connect) program (facility & home delivery)
-   - Equipment loans (wheelchairs, shower chairs, etc., when available, free)
-   - Monday: Exercise class (low impact chair) 10–11am, Bingo 11am–Noon
-   - Games: Hand & Foot Canasta, Rummikub, jigsaw puzzles
-   - Free WiFi, computer with internet access
-   - Free coffee and pastries (while supplies last)
-   - Monthly potluck lunches and general membership meetings with speakers/entertainment
+- Notes:
+   - Hosts [**Meals that Connect**](#Meals-that-Connect) lunches
 
 ## Noor Foundation
 
@@ -2260,7 +2218,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - Food pantry: 2nd and 4th Tuesdays of the month at 10am
 - Notes:
    - A lunch service site for [**Meals that Connect**](#Meals-that-Connect)
-   - A [SLO Food Bank](#SLO-Food-Bank) pantry & food box distribution site
+   - A [**SLO Food Bank**](#SLO-Food-Bank) pantry & food box distribution site
    - Hosts [**HiCAP**](#HiCAP)
    - Hosts [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
 
@@ -2272,12 +2230,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Phone: [805-237-3988](tel:+1-805-237-3988)
 - Email: [recservices@prcity.com](mailto:recservices@prcity.com)
 - Hours: M–Th 12pm–5pm (registration desk)
-- Services: <!-- To-do: much of this should be moved to Resource Guide -->
-   - Free Teen Center and Open Gym programs
-   - Recreation Scholarship Program (launched 2024, expanded to all ages)
-   - Over 200 recreation options: camps, classes, lessons, leagues, events
-   - Programs for all ages (youth through adults)
-   - Quarterly Recreation Guide mailed to residents
+- Note: offers scholarships to cover fees for its recreation activities; apply in person at the registration desk
 
 ## <a id="PathPoint">PathPoint</a>
 
@@ -2357,14 +2310,6 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Location: 760 Mattie Rd., Pismo Beach <a class="map-link" data-lat="35.165712" data-lon="-120.688289" data-zoom="17" data-label="Pismo Beach Recreation Division">Map</a>
 - Phone: [805-773-7063](tel:+1-805-773-7063)
 - Email: [recreation@pismobeach.org](mailto:recreation@pismobeach.org)
-- Services:
-   - Active Adult Socials
-   - Adult classes
-   - Excursions and trips
-   - Special events
-   - Sports programs
-   - Youth programs
-   - Public art projects
 <!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
 
 ## <a id="Planned-Parenthood">Planned Parenthood</a>
@@ -2479,10 +2424,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Restoration-Church">Restoration Church</a>
 
-<!-- To-do: add webpage, email contact if available -->
 - Location: 9333 Santa Barbara Rd., Atascadero <a class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Restoration Church">Map</a>
-- Phone: [805-538-0449](tel:+1-805-538-0449) (unverified)
-- Hours (food pantry): first Saturday of the month, 1–1:30pm
+- Phone: [805-538-0449](tel:+1-805-538-0449)
+- Hours (food pantry): first Saturday of the month, 1–3pm
 
 ## <a id="Restorative-Partners">Restorative Partners</a>
 
@@ -2627,16 +2571,11 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Santa-Margarita-Senior-Center">Santa Margarita Senior Center</a>
 
-<!-- Source: Web search October 2025; limited detailed information available online -->
-- Location: 2201 "H" St., Santa Margarita <a class="map-link" data-lat="35.391676" data-lon="-120.604947" data-zoom="17" data-label="Santa Margarita Senior Center">Map</a>
+- Location: 22202 (2201) "H" St., Santa Margarita <a href="#" class="map-link" data-lat="35.392015" data-lon="-120.605121" data-zoom="17" data-label="PLACEHOLDER">Map</a> <!-- Notes: they use 22202 in current outreach materials, but some older indices and maps show the address as 2201 -->
 - Phone: [805-438-5854](tel:+1-805-438-5854)
-- Services: <!-- To-do: much of this should move to Resource Guide and/or Notes -->
-   - Lunch program
-   - Activities (specific activities not listed in available sources)
-   - HiCAP (Health Insurance Counseling & Advocacy Program)
-   - AARP Mature Driver courses
-   - Health screenings
-- Notes: Contact center directly for current activity schedule and hours
+- Notes:
+   - A lunch service site for [**Meals that Connect**](#Meals-that-Connect)
+   - A [**SLO Food Bank**](#SLO-Food-Bank) neighborhood food distribution site
 
 ## <a id="Santa-Maria-Valley-Hispanic-Church">Santa Maria Valley Hispanic SDA Church</a>
 
@@ -2664,6 +2603,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Senior-Legal-Services-Project">Senior Legal Services Project</a>
 
 - Location: 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">Map</a>
+   - Also operates clinics at various Senior Centers and similar sites
 - Phone: [805-543-5140](tel:+1-805-543-5140)
 <!-- Note: Unable to locate dedicated web page or hours of operation through online research (as of October 2025); call to verify; may be affiliated with SLO Legal Assistance Foundation at same address -->
 
@@ -2934,8 +2874,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - Location: County Government Center Room 223, SLO <a class="map-link" data-lat="35.282192" data-lon="-120.660230" data-zoom="17" data-label="SLO County Small Claims Advisor">Map</a>
 - Phone: [805-781-5856](tel:+1-805-781-5856)
-- Hours: M–F 9am–12pm
-   - Note: Some sources say hours are Monday–Wednesday only rather than Monday–Friday
+- Hours: M–F 9am–12pm <!-- Note: Some sources say hours are Monday–Wednesday only rather than Monday–Friday -->
 - How to access: no appointment necessary
 
 ## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
@@ -3008,7 +2947,6 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="SLO-Noor-Foundation">SLO Noor Foundation</a>
 
 - [slonoorfoundation.org](http://slonoorfoundation.org/)
-
 - **Primary & vision clinic**
    - Location: 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">Map</a>
    - Phone: [805-439-1797](tel:+1-805-439-1797)
@@ -3057,12 +2995,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Phone: [805-781-7306](tel:+1-805-781-7306)
 - Hours: M–F 9am–4pm
 - Membership: Open to SLO city residents 55+; includes monthly newsletter, center access, free coffee
-- Services:
-   - Fitness: Weekly wellness classes (F 10:30am), Chair Exercise, Strength & Balance, SLO Walkers (Tu, summer)
-   - Educational: "Use It or Lose It!" (W 1–3pm, discussions/TED Talks), Roundtable Readers, Writing Your Memories
-   - Games: Bingo, Bridge (Duplicate & Party), Chinese Mahjong, Filipino Mahjong (Th 1–3pm), Mexican Train Dominoes, Pinochle
-   - Clubs: SLO Philatelic Society (1st & 3rd Tu), Gem and Mineral Club
-- Notes: Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
+- Notes:
+   - Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
+   - Hosts [**HiCAP**](#HiCAP)
 
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
@@ -3144,7 +3079,6 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Email: [sbcc@sbcommunitycenter.net](mailto:sbcc@sbcommunitycenter.net)
 - Hours: M/Tu/F 1–4pm (office)
 - Notes:
-   - Multi-use community center serving all ages
    - Hosts Early Risers A.A. meetings
    - Hosts [**Meals that Connect**](#Meals-that-Connect) senior nutrition program
    - Hosts [**Los Osos Cares**](#Los-Osos-Cares) Community Dinner
@@ -3458,11 +3392,10 @@ There are several urgent care options, including:
 
 - [womenadeslo.org](https://www.womenadeslo.org/)
 - Phone: [805-674-9450](tel:+1-805-674-9450)
-- Notes:
-   - Part of regional network:
-      - GIVEslo (county-wide): [info@giveslo.org](mailto:info@giveslo.org)
-      - North County Womenade: 7343 El Camino Real Box #217, Atascadero, CA 93422
-      - South County Womenade: 1793 Farroll Road, Grover Beach, CA 93433
+- Note, part of regional network:
+   - GIVEslo (county-wide): [info@giveslo.org](mailto:info@giveslo.org)
+   - North County Womenade: 7343 El Camino Real Box #217, Atascadero, CA 93422
+   - South County Womenade: 1793 Farroll Road, Grover Beach, CA 93433
 
 ## <a id="Waterman-Village">Waterman Village</a>
 
@@ -3484,8 +3417,7 @@ There are several urgent care options, including:
 - Email: [mshepard-moore@co.slo.ca.us](mailto:mshepard-moore@co.slo.ca.us)
 - How to access: Through the [**Coordinated Entry System (CES)**](#CES) or contact City of SLO Homelessness Response Team for outreach
 - Notes:
-   - Operated by [**Good Samaritan Shelter**](#Good-Samaritan-Shelter); county-owned land leased to Good Samaritan
-   - Good Samaritan provides supportive services including case management
+   - Operated by [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
 
 ## Wellness Centers
 

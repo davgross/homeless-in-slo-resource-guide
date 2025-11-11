@@ -336,6 +336,9 @@ Text “Add Me” to [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) to recei
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center in the north county. <!-- says https://pasoroblespress.com/news/government/city-of-paso-robles/city-council-approves-111k-for-echo-adopts-shelter-program-shift/ -->
 Contact them for location and details.
 
+[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) operates an air-conditioned cooling center any time the temperature is above 90°F outside.
+You do not have to be a senior center member to shelter there when the cooling center is open.
+
 ### <a id="overnight-shelter">Overnight Shelter</a>
 
 If you are unsheltered and need a place to sleep tonight, these are some options:
@@ -647,7 +650,7 @@ Note: Investigated "Westside Neighborhood Center" (805-897-2560) (October 2025)�
 | Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 6pm Tuesday & Wednesday  |
 | Grover Beach | [**People's Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily         |
 | Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesday            |
-| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 3:45pm Monday            |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 4:30pm Monday            |
 | Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm daily             |
 | SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am Thursday            |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 4:30pm Monday & Thursday |
@@ -1316,6 +1319,8 @@ Ask them in person for an application or contact them at [844-827-5047](tel:+1-8
 
 [**Alliance for Pharmaceutical Access**](Directory.md#APA) helps you get low-cost diabetic supplies (glucose test strips and meters, insulin syringes, etc.).
 
+[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center), [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), and [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) have free lending libraries of mobility aids and some other medical equipment.
+
 The [**Boyd Bristol Medical Equipment Program**](Directory.md#Boyd-Bristol-Medical-Equipment-Program) helps veterans and their family members get free loans of medical equipment like walkers, canes, scooters, and crutches.
 They can also deliver these devices to you.
 
@@ -1516,6 +1521,11 @@ The [DAREBEE](https://darebee.com/workouts/) website has more than 2,500 free, i
 The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (on-line and in person), aqua fitness classes, etc.
 Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
 Ask them about options for people with low incomes.
+
+[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) offers many fitness classes.
+They typically cost money, but there is a scholarship program for people with low incomes.
+
+[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) and [**SLO Senior Center**](Directory.md#SLO-Senior-Center) offer fitness classes.
 
 ### <a id="poison-oak">Poison Oak</a>
 
@@ -3054,6 +3064,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Access: All programs offer free/low-cost options; contact organizations directly for current computer literacy class schedules
       - Source: [slolibrary.org](https://www.slolibrary.org/)
       - [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) "free computer assistance is offered on the Senior Center computers... one-on-one tutoring sessions"
+      - [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers free tech help and tutoring
    1. Cosmetology Certification: Full-service school through Lucia Mar Adult Education
       - Cost: Free for all students ages 18+
       - Location: <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="Lucia Mar Adult Education">1425 19th Street, Oceano</a>
@@ -3145,6 +3156,7 @@ This program is for California residents with medically-certified limitations of
    1. [**5Cities Homeless Coalition**](Directory.md#5CHC): Computer access and assistance with online applications; [805-574-1638](tel:+1-805-574-1638)
    1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center): Help with CalJOBS registration, online job applications; [805-286-8530](tel:+1-805-286-8530)
    1. [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) "free computer assistance is offered on the Senior Center computers... one-on-one tutoring sessions... two beautiful computers that are available for members to use daily"
+   1. [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) has a computer with internet access (first come, first serve)
 
 ## <a id="charging-stations-for-devices">Charging Stations for Devices</a>
 
