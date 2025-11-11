@@ -866,15 +866,13 @@ If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit
 Some service providers can give you a bus pass if you cannot afford to buy one.
 For example, [**Catholic Charities**](Directory.md#Catholic-Charities) often has bus passes available to people who need them.
 Clients of [**Tri-Counties Regional Center**](Directory.md#Tri-Counties-Regional-Center) can get bus passes from them.
+The [**Family Care Network**](Directory.md#Family-Care-Network) can help you get a bus pass if you cannot afford one on your own (you may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist).
 
 You can find carpool options locally by using the [iRideshare](https://irideshare.org/#/) web application, a free program for SLO County commuters.
 The application matches commuters based on their locations, routes, destinations, and schedules to try to match them into compatible carpools.
 
 If you register for iRideshare and you commute to work by walking, biking, taking the bus, or in a carpool or vanpool, and you need to get home from work in some other way (for example, because the carpool is leaving at the wrong time, or because your bike broke down), the [Guaranteed Ride Home](https://rideshare.org/program/guaranteed-ride-home/) program will pay for your taxi, Uber, or Lyft ride home.
 (You need to save the receipt, and you can only get a limited number of guaranteed rides home.)
-
-The [**Family Care Network**](Directory.md#Family-Care-Network) can help you get a bus pass if you cannot afford one on your own.
-You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist.
 
 There are [Dial-A-Ride](https://www.slorta.org/services/dial-a-ride/) services in Atascadero, Morro Bay, Nipomo, Paso Robles, Shandon, and Templeton.
 They typically offer curb-to-curb service and charge $2.25–8.00 each way (sometimes less for seniors, disabled people, and children):
@@ -1379,7 +1377,7 @@ The American Academy of Opthamology maintains [a list of sources of free and low
 
 You can find a list of Medi-Cal opticians at [provdir.cencalhealth.org](https://provdir.cencalhealth.org/).
 
-#### <a id="mental-health">Mental Health</a>
+### <a id="mental-health">Mental Health</a>
 
 You can get 24-hour mental health support from SLO Hotline ([805-783-0607](tel:+1-805-783-0607), or text [741741](sms:741741)).
 
@@ -1918,7 +1916,6 @@ When possible, take formal self-defense classes to learn proper techniques from 
 - [Help for defendants, convicts, parolees, probationers, people with PC 290 convictions](#defendants-and-convicts)
 - [Legal help regarding housing (discrimination, landlord disputes, etc.)](#housing-legal)
 - [Help with benefits, wrangling with health insurers, et cetera](#benefits-legal)
-- [Realistic know-your-rights information](#know-your-rights) <!-- - [Injury liability / workers' compensation](#liability-law) -->
 - [Consumer protection](#consumer-protection)
 - [Victims of crime, abuse](#crime-victims)
 - [Legal Self-Help / Law Libraries](#legal-self-help)
@@ -1976,15 +1973,6 @@ HiCAP is free.
 To-do: cross reference e.g. social security section?
 To-do: add more stuff about e.g. ombudsmen who can help you with health insurance denial or other denials of benefits.
 -->
-
-### <a id="know-your-rights">Realistic know-your-rights information</a>
-
-<!-- To-do: prosify this list; also: is ACLU really "realistic" or more like "aspirational"? -->
-
-1. [**ACLU of Southern California**](Directory.md#ACLU)
-    - What’s Available: Free legal assistance for civil liberties and civil rights cases; "Know Your Rights" guides
-    - Coverage: Serves SLO County and other Southern California counties
-    - Note: Limited resources focused on systemic change cases; does not accept walk-ins; seek help online first
 
 <!-- To-do:
 ### <a id="liability-law">Injury liability / workers' compensation</a>
@@ -2149,6 +2137,10 @@ A neutral mediator will be assigned to your case to help you resolve it.
    - Eligibility: "central valley residents and seniors age 60 and over"; income below 125% (for some services 200%) of the federal poverty level (no income eligibility requirements for central valley seniors or for those seeking assistance for certain health-related matters); helps with civil cases, not criminal ones
    - Note: Central California Legal Services primarily serves Fresno, Tulare, Kings, Merced, Tuolumne, and Mariposa Counties. *Limited* services are available in SLO County through their Health Consumer Alliance partnership, specifically for healthcare access concerns only, not general civil legal services. SLO County residents should contact other legal aid organizations listed in this guide for most civil legal needs.
       - Source: [centralcallegal.org](https://centralcallegal.org/about-us/)
+1. [**ACLU of Southern California**](Directory.md#ACLU)
+    - What’s Available: Free legal assistance for civil liberties and civil rights cases; "Know Your Rights" guides
+    - Coverage: Serves SLO County and other Southern California counties
+    - Note: Limited resources focused on systemic change cases; does not accept walk-ins; seek help online first
 
 ### <a id="family-law">Family Law / Child Support</a>
 
@@ -2207,25 +2199,20 @@ A neutral mediator will be assigned to your case to help you resolve it.
 
 ### <a id="senior-legal-services">Senior Legal Services</a>
 
-<!-- To-do: prosify this list -->
-
-1. [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project)
-   - Eligibility: Seniors aged 60 and older in SLO County
-   - Services: Housing needs (landlord-tenant, evictions, nursing homes, board and care), protection from elder abuse
-   - Focus: Those most in need receive priority assistance
-   - Source: [lawhelpca.org](https://www.lawhelpca.org/organization/senior-legal-services-project)
+The [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) offers free legal help for people in SLO County who are age 60 and up.
+They can help you navigate the legal issues around benefits rights assistance, consumer protection, housing discrimination and eviction prevention, advance medical directives and durable power of attorney, will preparation, and protective/restraining orders.
+They often hold by-appointment clinics at local Senior Centers, or you can contact their office directly via the [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation).
 
 ### <a id="tax-disputes">Tax Disputes</a>
 
-<!-- To-do: prosify this list -->
+The Orfalea College of Business at Cal Poly operates a [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic) at <a href="#" class="map-link" data-lat="35.299891" data-lon="-120.664977" data-zoom="17" data-label="Business Building">Cal Poly’s SLO campus, building 3, room 107</a>, M–Th 9am–5pm and F 9am–1pm.
 
-1. [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic)
-   - Cal Poly students represent low-income clients, for free, in tax controversies before the IRS and U.S. Tax Court
-   - Services available in English and Spanish
-   - Location: <a href="#" class="map-link" data-lat="35.299891" data-lon="-120.664977" data-zoom="17" data-label="Business Building">Cal Poly SLO, building 3, room 107</a>
-   - Hours: M–Th 9am–5pm, F 9am–1pm
-   - Phone: [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725))
-   - Email: [litc@calpoly.edu](mailto:litc@calpoly.edu)
+They represent low-income clients for free in tax controversies before the I.R.S. and the U.S. Tax Court.
+Their help is available in English and Spanish.
+This service is only available to you if the amount the IRS says you owe is $50,000 per tax year or less, and your household’s total income does not exceed 250 percent of the federal poverty guidelines.
+
+To use this service, fill out [an intake form](https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients) which is available on their website, or call them at [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725))
+You can also ask for more information by email at [litc@calpoly.edu](mailto:litc@calpoly.edu).
 
 ### <a id="legal-miscellany">Miscellany</a>
 

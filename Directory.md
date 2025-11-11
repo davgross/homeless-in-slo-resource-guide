@@ -7,6 +7,7 @@
 - Phone:
    - [805-544-4004 x2](tel:+1-805-544-4004;ext=2) (general services)
    - [805-544-4004 x100](tel:+1-805-544-4004;ext=100) (more information)
+   - [805-459-1073](tel:+1-805-459-1073) (questions about on-site safe parking)
 - Hours: every day, 8am–2:30pm and 4:30pm–7am (closed 2:30pm–4:30pm and 7–8am)
    - Overnight shelter intake: daily, 8am–2pm (Intake is a one-time registration process where you provide personal information, complete paperwork, and get added to the shelter system)
    - Laundry services: 8am–2:30pm
@@ -28,12 +29,15 @@
 ## <a id="5CHC">5Cities Homeless Coalition (5CHC)</a>
 
 - [5chc.org](https://5chc.org/)
-- Location: 100 South 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.1212032" data-lon="-120.6267386" data-zoom="17" data-label="5Cities Homeless Coalition">Map</a>
+- Location: 100 South 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.1212032" data-lon="-120.6267386" data-zoom="17" data-label="5Cities Homeless Coalition">Map</a> <!-- Source: https://5chc.org/contact-us -->
+   - Warming Center: 1023 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="PLACEHOLDER">Map</a> <!-- Source: https://5chc.org/sites/default/files/2024-02/New%20Warming%20Center%20Talking%20Points.pdf -->
 - Phone:
-   - [805-574-1638](tel:+1-805-574-1638)
-   - [805-295-1501](tel:+1-805-295-1501) (warming center)
-- Email: [info@5chc.org](mailto:info@5chc.org)
-   - [shelter@5chc.org](mailto:shelter@5chc.org) (warming center)
+   - [805-574-1638](tel:+1-805-574-1638) <!-- Source: https://5chc.org/contact-us -->
+   - [805-202-3615](tel:+1-805-202-3615) (warming center hotline) <!-- Source: https://5chc.org/programs/warming-center -->
+   - [805-295-1501](tel:+1-805-295-1501) (warming center) <!-- Source: https://5chc.org/sites/default/files/2024-02/New%20Warming%20Center%20Talking%20Points.pdf -->
+   - [805-295-1501](sms:+1-805-295-1501?&amp;Add%20Me) (warming center automatic text updates) <!-- Source: https://5chc.org/programs/warming-center -->
+- Email: [info@5chc.org](mailto:info@5chc.org) <!-- Source: https://5chc.org/contact-us -->
+   - [shelter@5chc.org](mailto:shelter@5chc.org) (warming center) <!-- Source: https://5chc.org/sites/default/files/2024-02/New%20Warming%20Center%20Talking%20Points.pdf -->
 - Notes:
    - operates [**Cabins for Change**](#Cabins-for-Change) and “Balay Ko on Barka” a.k.a. “My Home for Hope”
    - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
@@ -682,10 +686,12 @@
 
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
-| 1152 E. Grand Ave. (Arroyo Grande) <a href="#" class="map-link" data-lat="35.120865" data-lon="-120.597299" data-zoom="17" data-label="The Center">Map</a> | [805-489-4026](tel:+1-805-489-4026) (Arroyo Grande) | M–F 9am–5pm |
-| 705 Grand Ave. (SLO) <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">Map</a> | [805-544-2498 x211](tel:+1-805-544-2498;ext=211) (SLO) | M–F 9am–5pm |
+| 1152 E. Grand Ave. (Arroyo Grande) <a href="#" class="map-link" data-lat="35.120865" data-lon="-120.597299" data-zoom="17" data-label="The Center">Map</a> | [805-489-4026](tel:+1-805-489-4026) (Arroyo Grande) | M–F 8:30am–5:30m <!-- Source: https://capslo.org/the-center/ --> |
+| 705 Grand Ave. (SLO) <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">Map</a> | [805-544-2498 x211](tel:+1-805-544-2498;ext=211) (SLO) | M–F 8:30am–5:30pm <!-- Source: https://capslo.org/the-center/ --> |
 
-- Phone: [805-422-2498 x121](tel:+1-805-422-2498;ext=121) (info line)
+- Phone:
+   - [805-422-2498&nbsp;x121](tel:+1-805-422-2498;ext=121) (info line)
+   - [805-544-2409&nbsp;x111](tel:+1-805-544-2409;ext=111) (mobile reproductive health clinic info)
 - How to access: Walk-ins OK, but appointments recommended.
 - Note:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
@@ -1596,8 +1602,8 @@
 
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
 
-- Phone: [805-544-2484 x2](tel:+1-805-544-2484;ext=2)
-- Email: [jallenspach@capslo.org](mailto:jallenspach@capslo.org) (Janet Allenspach)
+- Phone: [805-540-8353](tel:+1-805-540-8353) <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+- Email: [floydbland@capslo.org](mailto:floydbland@capslo.org) <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 - Notes:
    - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO)
    - Hosted by [**Adventist Health Sierra Vista**](#Adventist-Health-Sierra-Vista)
@@ -2363,10 +2369,11 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - [capslo.org/rcp](https://capslo.org/rcp/)
 - Location: [**40 Prado**](#40-Prado), SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
 - Phone:
-   - [805-458-2895](tel:+1-805-458-2895) (Ariana Long)
-   - [805-503-2984](tel:+1-805-503-2984) (Amy Nielson, inquiries)
-- Email: [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org)
+   - [805-458-2895](tel:+1-805-458-2895) (Ariana Long) <!-- Source: https://capslo.org/rcp/ -->
+   - [805-503-2984](tel:+1-805-503-2984) (Amy Nielson, inquiries) <!-- Source: https://capslo.org/40-prado/ -->
+- Email: [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org) <!-- Source: https://capslo.org/rcp/ -->
 - Hours: 24/7
+- How to access: Must be referred by a medical professional
 
 ## <a id="Recycle-101">Recycle 101 — Oceano</a>
 
@@ -2492,9 +2499,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 | Location | Phone |
 | -------- | ----- |
-| 1425 19th St., Oceano <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> | [805-474-3690](tel:+1-805-474-3690) |
-| 1086 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> | [805-474-2105](tel:+1-805-474-2105) |
-| 920 W. Tefft St., Nipomo <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">Map</a> | [805-474-3000](tel:+1-805-474-3000) |
+| 1511 19th St., Oceano <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> Center">Map</a> | [805-474-3690](tel:+1-805-474-3690) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
+| 1086 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> | [805-474-2105](tel:+1-805-474-2105) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
+| 920 W. Tefft St., Nipomo <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">Map</a> | [805-474-3000&nbsp;x5147](tel:+1-805-474-3000;ext=5147) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
 
 - Note: Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
 
@@ -2605,7 +2612,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Location: 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">Map</a>
    - Also operates clinics at various Senior Centers and similar sites
 - Phone: [805-543-5140](tel:+1-805-543-5140)
-<!-- Note: Unable to locate dedicated web page or hours of operation through online research (as of October 2025); call to verify; may be affiliated with SLO Legal Assistance Foundation at same address -->
+- Hours: M–F 8:30am–5pm
+- Note: a project of [**SLO Legal Assistance Foundation (SLOLAF)**](#SLO-Legal-Assistance-Foundation)
 
 ## <a id="SESLOC-Credit-Union">SESLOC Credit Union</a>
 
@@ -2932,8 +2940,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - [capslo.org/slo-hub](https://capslo.org/slo-hub/)
 - Location: 40 Prado Rd., SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="SLO Hub">Map</a>
-- Phone: [805-441-6589](tel:+1-805-441-6589)
-- Email: [sreyes@capslo.org](mailto:sreyes@capslo.org)
+- Phone: [805-441-6589](tel:+1-805-441-6589) <!-- Source: https://capslo.org/slo-hub/ -->
+- Email: [sreyes@capslo.org](mailto:sreyes@capslo.org) <!-- Source: https://capslo.org/slo-hub/ -->
 - Hours: M–F 9am–5pm
 - How to access: By appointment only
 
@@ -2943,6 +2951,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Location: 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="SLO Legal Assistance Foundation">Map</a>
 - Phone: [805-543-5140](tel:+1-805-543-5140)
 - Email: [info@slolaf.org](mailto:info@slolaf.org)
+- Notes:
+   - Operates [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
 
 ## <a id="SLO-Noor-Foundation">SLO Noor Foundation</a>
 
@@ -3124,13 +3134,16 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Supportive-Services-for-Veteran-Families">Supportive Services for Veteran Families</a>
 
-- SLO:
-   - [capslo.org/ssvf](https://capslo.org/ssvf/)
-   - 265 South St. #H, SLO
-   - Phone: [805-237-0352](tel:+1-805-237-0352), [805-534-1698](tel:+1-805-534-1698)
 - 5 Cities:
    - [5chc.org/programs/ssvf-supportive-services-for-veteran-families](https://5chc.org/programs/ssvf-supportive-services-for-veteran-families)
-   - [805-202-3056](tel:+1-805-202-3056)
+   - Phone: [805-574-1638](tel:+1-805-574-1638) <!-- Source: https://capslo.org/ssvf/ -->
+- North County:
+   - 935 Riverside Ave. #6, Paso Robles <a href="#" class="map-link" data-lat="35.624229" data-lon="-120.687359" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a> <!-- Source: https://capslo.org/ssvf/ -->
+   - Phone: [805-237-0352](tel:+1-805-237-0352) <!-- Source: https://capslo.org/ssvf/ -->
+- SLO:
+   - [capslo.org/ssvf](https://capslo.org/ssvf/)
+   - 265 South St. #H, SLO <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a> <!-- Source: https://capslo.org/ssvf/ -->
+   - Phone: [805-534-1698](tel:+1-805-534-1698) <!-- Source: https://capslo.org/ssvf/ -->
 - Note: operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) and [**5Cities Homeless Coalition**](#5CHC)
 
 ## Surgery Without Medical Insurance
