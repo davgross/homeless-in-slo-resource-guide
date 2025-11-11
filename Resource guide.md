@@ -679,6 +679,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Los Osos      | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) | Wednesdays |
 | Los Osos      | [**Trinity United Methodist Church (Los Osos)**](Directory.md#Trinity-United-Methodist-Church)      | Tuesdays & Fridays |
 | Morro Bay     | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                | Saturdays |
+| Morro Bay     | Perfect Union, <a href="#" class="map-link" data-lat="35.365926" data-lon="-120.836902" data-zoom="17" data-label="Little Free Pantry">1000 Quintana Rd.</a> *must be age 18+*; tell security you’re here for food | daily, 8am–9pm |
 | Nipomo        | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket)                                           | M/Tu/Th/F |
 | Nipomo        | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)           | Saturdays |
 | Paso Robles   | [**Cuesta College**](Directory.md#Cuesta-College)                                                   | Monday–Friday |
@@ -692,6 +693,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | SLO           | [**Agape Church**](Directory.md#Agape-Church)                                                       | Tuesdays & Sundays |
 | SLO           | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                         | Mondays |
 | SLO           | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | Tuesdays 2pm, or by appt. |
+| SLO           | [**GALA Pride & Diversity Center**](Directory.md#GALA)                                              | Monday–Friday |
 | SLO           | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                      | Saturdays |
 | SLO           | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)               | Monday–Friday |
 | SLO           | [**Renovate Church**](Directory.md#Renovate-Church)                                                 | Mondays |
@@ -699,6 +701,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | SLO           | [**SLO Food Bank**](Directory.md#SLO-Food-Bank)                                                     | Mondays, Wednesdays, Fridays |
 | SLO           | [**SLO Grassroots**](Directory.md#SLO-Grassroots)                                                   | by appointment only |
 | SLO           | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) “We Care Food Share”              | Wednesdays |
+| SLO           | [**Veterans Services**](Directory.md#Veterans-Services) (for veterans only)                         | daily 8am–5pm |
 | SLO           | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                       | Wednesdays |
 
 ### <a id="little-free-pantries">Little Free Pantries</a>
@@ -708,7 +711,7 @@ They are self-serve and open 24/7.
 They are stocked by people who have extra things to give away.
 You never know quite what you will find there, but there is usually some canned and packaged non-perishable food, and sometimes toiletries and other small essentials.
 
-Sometimes people put perishible food in little free pantries, but you should beware of eating such food as it may have been there for a while and may no longer be safe to eat.
+Sometimes people put perishable food in little free pantries, but you should beware of eating such food as it may have been there for a while and may no longer be safe to eat.
 
 See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Directory](Directory.md) for a list of locations.
 
@@ -725,7 +728,7 @@ You can find a list of [Summer Meal Sites in San Luis Obispo County](https://www
 
 ### <a id="senior-meal-programs">Senior Meal Programs</a>
 
-[**Meals that Connect**](Directory.md#Meals-that-Connect) has several sites in SLO County where they serve communal lunches every weekday.
+[**Meals that Connect**](Directory.md#Meals-that-Connect) has several sites in SLO County where they serve free, hot communal lunches every weekday.
 The program is for people aged 60 and above.
 You must fill out an application to join the program, and you must reserve your meals two days in advance.
 They also can deliver meals to your home if you are homebound.
@@ -1790,7 +1793,7 @@ They usually must be signed by you *and* by certain witnesses in order to be eff
 It is a good idea to create such documents *before* you need them, as when you need them you will be preoccupied or unable.
 Give these documents to your healthcare providers so they know to respect your specific preferences.
 
-The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [The Conversation Project](https://theconversationproject.org/) can help you create advance directive documents that match your needs and preferences.
+The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [The Conversation Project](https://theconversationproject.org/) can help you create advance directive documents that match your needs and your preferences.
 The [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/) website has several varieties of advance directive forms in PDF format that you can review or print.
 
 [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) can give you free help to make your advance directive documents clear and legally binding.
@@ -3009,6 +3012,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Services: Computer access, digital literacy classes, educational programs
    1. Cal Poly Library: [Robert E. Kennedy Library](https://localwiki.org/slo/Robert_E._Kennedy_Library)—public access available
    1. [**Little Free Libraries**](Directory.md#Little-Free-Libraries): Community book sharing locations for "Take a Book, Share a Book"
+   1. [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center): lending library open M-F 8am-5pm
 1. Literacy and Tutoring Services
    1. [**Literacy For Life**](Directory.md#Literacy-For-Life)
       - Services: Adult literacy tutoring, reading skills development, English language communication skills
@@ -3049,6 +3053,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - San Luis Obispo Adult School: Ongoing support, individualized instruction; register at any time
       - Access: All programs offer free/low-cost options; contact organizations directly for current computer literacy class schedules
       - Source: [slolibrary.org](https://www.slolibrary.org/)
+      - [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) "free computer assistance is offered on the Senior Center computers... one-on-one tutoring sessions"
    1. Cosmetology Certification: Full-service school through Lucia Mar Adult Education
       - Cost: Free for all students ages 18+
       - Location: <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="Lucia Mar Adult Education">1425 19th Street, Oceano</a>
@@ -3139,6 +3144,7 @@ This program is for California residents with medically-certified limitations of
    1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries): Free email setup, online application assistance; visit any branch location county-wide or call main library [805-781-5989](tel:+1-805-781-5989)
    1. [**5Cities Homeless Coalition**](Directory.md#5CHC): Computer access and assistance with online applications; [805-574-1638](tel:+1-805-574-1638)
    1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center): Help with CalJOBS registration, online job applications; [805-286-8530](tel:+1-805-286-8530)
+   1. [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) "free computer assistance is offered on the Senior Center computers... one-on-one tutoring sessions... two beautiful computers that are available for members to use daily"
 
 ## <a id="charging-stations-for-devices">Charging Stations for Devices</a>
 
@@ -3449,7 +3455,7 @@ This program is for California residents with medically-certified limitations of
    1. [**GALA Pride & Diversity Center**](Directory.md#GALA)
       - Mission: Supports and empowers people of all sexual orientations, gender identities, and expressions to strengthen and unite the Central Coast community
       - Support groups: Trans/Genderqueer Support Group, Stand Out (Parents/Families of LGBTQ+ youth), Trans Youth Support Group (ages 11–18), Senior Social, LGBTQ+ Alcoholics Anonymous
-      - LGBTQ-affirming therapy services (bilingual therapist available)
+      - Offers LGBTQ-affirming therapy services (bilingual therapist Rocio Anaya)
    1. [**TranzCentralCoast**](Directory.md#TranzCentralCoast)
       - Mission: Uses outreach and advocacy to help transgender and gender-diverse people live authentic, productive, and happy lives in a safe and affirming community
       - Services: Trans* Youth Support Group (meets 2nd and 4th Tuesday of every month)

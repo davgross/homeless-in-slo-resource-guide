@@ -813,13 +813,12 @@
 
 <!-- Source: Web search October 2025; limited detailed information available online -->
 - Location: 1580 Railroad St., Oceano <a class="map-link" data-lat="35.101131" data-lon="-120.617666" data-zoom="17" data-label="Central Coast Senior Center (Oceano)">Map</a>
-- Phone: [805-489-5149](tel:+1-805-489-5149)
-- Services:<!-- To-do: move to Resource Guide -->
-   - Lunch served M–F
-   - Monthly luncheon
-   - Activities: Bingo, Bunco, Tai Chi, art classes
-   - Senior nutrition site
-- Notes: Open to seniors 50+; for more information call [**Senior Connection**](#Senior-Connection)
+- Phone: [805-481-7886](tel:+1-805-481-7886)
+- Hours: M–F, 10am–3pm
+- Notes:
+   - Open to seniors 50+; for more information call [**Senior Connection**](#Senior-Connection)
+   - Activities cost $2 for members, $3 for non-members
+   - A lunch site for meals offered through [**Meals that Connect**](#Meals-that-Connect)
 
 ## <a id="Central-Coast-Veterans-Helping-Veterans">Central Coast Veterans Helping Veterans</a>
 
@@ -1288,17 +1287,7 @@
 - Phone: [805-541-4252](tel:+1-805-541-4252)
 - Email: [info@galacc.org](mailto:info@galacc.org)
 - Hours: M–F 8am–5pm
-- Notes:
-   - Supports and empowers people of all sexual orientations, gender identities, and expressions
-   - Support groups include:
-      - Trans/Genderqueer Support Group
-      - Stand Out (Parents/Families of LGBTQ+ youth)
-      - Trans Youth Support Group (ages 11–18)
-      - Senior Social
-      - LGBTQ+ Alcoholics Anonymous
-   - Offers LGBTQ-affirming therapy services (bilingual therapist Rocio Anaya)
-   - SLO ACCEPTance Project trains mental health professionals to provide queer and trans-affirming services
-   - Annual Pridefest celebration (May–June)
+   - Food pantry M–F 10am–3pm
 
 ## <a id="Genoa-Pharmacy">Genoa Pharmacy</a>
 
@@ -1806,13 +1795,18 @@
 
 ## <a id="Little-Free-Pantries">Little Free Pantries</a>
 
+Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, or removed. If you see one listed here that is no longer in service, please use the feedback button to tell us about it so we can remove it from the list.
+
 - [littlefreepantry.org](https://www.littlefreepantry.org/)
 - Locations:
-   - Arroyo Grande: 268 Summit Station Rd.
+   - Arroyo Grande:
+      - 132 South Halcyon Rd. <a href="#" class="map-link" data-lat="35.117680" data-lon="-120.591688" data-zoom="17" data-label="Little Free Pantry">Map</a>`
+      - 268 Summit Station Rd. <a href="#" class="map-link" data-lat="35.064428" data-lon="-120.517080" data-zoom="17" data-label="Little Free Pantry">Map</a>
    - Atascadero:
       - 9557 Curbaril Ave. <a href="#" class="map-link" data-lat="35.491538" data-lon="-120.647313" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 9333 Santa Barbara Rd. <a href="#" class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Little Free Pantry">Map</a>
    - Grover Beach:
+      - 202 S. 8th St. / 770 Rockaway Ave. <a href="#" class="map-link" data-lat="35.120336" data-lon="-120.621656" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 393 N. 16th St. <a href="#" class="map-link" data-lat="35.124713" data-lon="-120.611462" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 925 Newport Ave. <a href="#" class="map-link" data-lat="35.125591" data-lon="-120.619581" data-zoom="17" data-label="Little Free Pantry">Map</a>
    - Los Osos:
@@ -1826,23 +1820,30 @@
       - 181 W Tefft St. <a href="#" class="map-link" data-lat="35.041418" data-lon="-120.477533" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 267 W Tefft St. <a href="#" class="map-link" data-lat="35.039950" data-lon="-120.479340" data-zoom="17" data-label="Little Free Pantry">Map</a>
    - Oceano:
+      - 1322 24th St. <a href="#" class="map-link" data-lat="35.105814" data-lon="-120.604037" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 1501 24th St. <a href="#" class="map-link" data-lat="35.102703" data-lon="-120.603613" data-zoom="17" data-label="Little Free Pantry">Map</a>
+      - 1930 Ocean St. <a href="#" class="map-link" data-lat="35.099906" data-lon="-120.610517" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 615 Pier Ave. <a href="#" class="map-link" data-lat="35.107217" data-lon="-120.624337" data-zoom="17" data-label="Little Free Pantry">Map</a>
-   - Paso Robles: 1003 Pioneer Trail Rd. <a href="#" class="map-link" data-lat="35.606196" data-lon="-120.643111" data-zoom="17" data-label="Little Free Pantry">Map</a>
+   - Paso Robles:
+      - 8th St. and Olive St. <a href="#" class="map-link" data-lat="35.622280" data-lon="-120.694835" data-zoom="17" data-label="Little Free Pantry">Map</a>
+      - 3301 Oak St. <a href="#" class="map-link" data-lat="35.648648" data-lon="-120.694685" data-zoom="17" data-label="Little Free Pantry">Map</a>
+      - 1003 Pioneer Trail Rd. <a href="#" class="map-link" data-lat="35.606196" data-lon="-120.643111" data-zoom="17" data-label="Little Free Pantry">Map</a>
    - Pismo Beach: 206 Margo Way <a href="#" class="map-link" data-lat="35.135993" data-lon="-120.610013" data-zoom="17" data-label="Little Free Pantry">Map</a>
    - Santa Margarita:
       - 22210 El Camino Real <a href="#" class="map-link" data-lat="35.392602" data-lon="-120.606745" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 22495 K St. <a href="#" class="map-link" data-lat="35.386645" data-lon="-120.606553" data-zoom="17" data-label="Little Free Pantry">Map</a>
    - SLO:
       - 3320 Bullock Ln. <a href="#" class="map-link" data-lat="35.260531" data-lon="-120.643519" data-zoom="17" data-label="Little Free Pantry">Map</a>
+      - 2021 Broad St. <a href="#" class="map-link" data-lat="35.271279" data-lon="-120.657976" data-zoom="18" data-label="Little Free Pantry">Map</a>
       - 226 Ferrini Rd. <a href="#" class="map-link" data-lat="35.295416" data-lon="-120.673839" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 335 High St. <a href="#" class="map-link" data-lat="35.272050" data-lon="-120.665095" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 2075 Johnson Ave. <a href="#" class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 11245 Los Osos Valley Rd. <a href="#" class="map-link" data-lat="35.260575" data-lon="-120.695157" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 474 Marsh St. <a href="#" class="map-link" data-lat="35.276460" data-lon="-120.667080" data-zoom="18" data-label="Little Free Pantry">Map</a>
       - 1306 Nipomo St. <a href="#" class="map-link" data-lat="35.276676" data-lon="-120.664180" data-zoom="17" data-label="Little Free Pantry">Map</a>
+      - 695 Pismo St. <a href="#" class="map-link" data-lat="35.276376" data-lon="-120.662522" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - corner of San Carlos and Bushnell <a href="#" class="map-link" data-lat="35.269527" data-lon="-120.652344" data-zoom="17" data-label="Little Free Pantry">Map</a>
-      - 193 San Jose Court <a href="#" class="map-link" data-lat="35.291537" data-lon="-120.683366" data-zoom="17" data-label="Little Free Pantry">Map</a>
+      - 193 San Jose Ct. <a href="#" class="map-link" data-lat="35.291537" data-lon="-120.683366" data-zoom="17" data-label="Little Free Pantry">Map</a>
    - Templeton: 806 Old Country Rd. <a href="#" class="map-link" data-lat="35.547338" data-lon="-120.710440" data-zoom="17" data-label="Little Free Pantry">Map</a>
 - Hours: Daily, 24/7
 
@@ -1942,8 +1943,13 @@
 ## <a id="Meals-that-Connect">Meals that Connect</a>
 
 - [mealsthatconnect.org](https://mealsthatconnect.org/en/)
+- Location: 265 South St. #B, SLO <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Meals that Connect">Map</a> (office)
+   - Serves meals in Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
+   - Also does some home delivery
 - Phone: [805-541-3312](tel:+1-805-541-3312)
-- Hours: M–F 12pm–1pm (for ages 60+)
+- Email: [officeadmin@mealsthatconnect.org](mailto:officeadmin@mealsthatconnect.org)
+- Hours: (varies by site)
+- How to access: open to people aged 60 and above; complete an application
 
 ## <a id="Medi-Cal">Medi-Cal</a>
 
@@ -2251,17 +2257,12 @@
 - Location: 270 Scott St., Paso Robles <a href="#" class="map-link" data-lat="35.608089" data-lon="-120.655487" data-zoom="17" data-label="Paso Robles Senior Center">Map</a>
 - Phone: [805-237-3880](tel:+1-805-237-3880), [805-238-4664](tel:+1-805-238-4664)
 - Hours: M–F 8am–5pm
-- Services: <!-- To-do: much of this should be moved to Resource Guide -->
    - Food pantry: 2nd and 4th Tuesdays of the month at 10am
-   - Daily hot lunch: 11:30am (suggested $3 donation)
-   - Free computer access and tutoring
-   - Free lending library
-   - Medicare counseling (HICAP): 1st and 2nd Tuesdays
-   - Free legal aide (monthly): housing, elder abuse, consumer issues
-   - Volunteer opportunities (AmeriCorps Seniors/RSVP)
-   - Senior Farmers' Market
-   - PREPARE program (medical decision-making guidance)
-   - Assistance with broadband access for low-income households
+- Notes:
+   - A lunch service site for [**Meals that Connect**](#Meals-that-Connect)
+   - A [SLO Food Bank](#SLO-Food-Bank) pantry & food box distribution site
+   - Hosts [**HiCAP**](#HiCAP)
+   - Hosts [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
 
 ## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Parks & Recreation</a>
 
@@ -3401,11 +3402,14 @@ There are several urgent care options, including:
 ## <a id="Veterans-Services">Veterans Services (SLO County)</a>
 
 <!-- Source: http://slocounty.ca.gov/Departments/Veterans-Services -->
-- [slocounty.ca.gov/Departments/Veterans-Services](http://slocounty.ca.gov/Departments/Veterans-Services)
-- Location: 801 Grand Ave., SLO <a class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services">Map</a>
+- [slocounty.ca.gov/Departments/Veterans-Services](http://slocounty.ca.gov/Departments/Veterans-Services)j
+- Locations:
+   - 800 West Branch St., Arroyo Grande <a href="#" class="map-link" data-lat="35.124547" data-lon="-120.589385" data-zoom="17" data-label="Veterans Services">Map</a> (Tu/Th 8am–5pm)
+   - 240 Scott St., Paso Robles <a href="#" class="map-link" data-lat="35.608124" data-lon="-120.655868" data-zoom="17" data-label="Veterans Services">Map</a> (Tu–Th 8am–5pm)
+   - 801 Grand Ave., SLO <a class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services">Map</a> (daily 8am–5pm)
 - Phone: [805-781-5766](tel:+1-805-781-5766)
 - How to access: In-person and phone appointments only; no walk-ins; book appointments online or by phone
-<!-- Note: Specific hours of operation not listed on website (as of October 2025); call to verify -->
+- Notes: SLO office has a small food pantry
 
 ## <a id="Veterans-Transportation-Service">Veterans Transportation Service</a>
 
