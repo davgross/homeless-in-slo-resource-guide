@@ -1982,71 +1982,43 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
 
 ### <a id="consumer-protection">Consumer protection</a>
 
-<!-- To-do: prosify this list -->
+Identity theft is when someone else pretends to be you—for example by using your name, identification, or credit card number—to commit fraud or to put the blame on you for something they have done.
+You can report identity theft with the Federal Trade Commission at [IdentityTheft.gov](https://www.identitytheft.gov/) or [877-438-4338](tel:+1-877-438-4338) and they can help you take steps to protect yourself.
 
-1. [Identity theft hotline](https://www.usa.gov/identity-theft)
-   - What’s Available: Federal Trade Commission (FTC) identity theft reporting and recovery assistance; step-by-step recovery guidance; help contacting credit reporting agencies; fraud alert and credit freeze resources
-   - Contact: [877-438-4338](tel:+1-877-438-4338) (hotline), [IdentityTheft.gov](https://www.identitytheft.gov/) (online portal)
-   - How to access: Call hotline or visit [IdentityTheft.gov](https://www.identitytheft.gov/) online for step-by-step recovery guidance
-   - Services: Report identity theft, receive personalized recovery plan, get guidance on credit freezes and fraud alerts
-1. [Bureau of Automotive Repairs](https://bar.ca.gov/)
-   - What’s Available: Mediates and investigates complaints between auto shops and consumers; licenses auto repair facilities; consumer education
-   - Contact: [800-952-5210](tel:+1-800-952-5210) (general complaint line, 24/7 for automated services), [BARenforcement@dca.ca.gov](mailto:BARenforcement@dca.ca.gov) (enforcement), 10949 North Mather Boulevard, Rancho Cordova, CA 95670
-   - Hours: Monday–Friday 8am–5pm (complaint line staffed 8am–4:50pm)
-   - How to access: File complaints online at bar.ca.gov, call complaint line, or submit written complaint; search for licensed auto shops online
-   - Services: Automotive repair complaint mediation, shop licensing verification, consumer protection against unlicensed operators
-1. DMV investigation bureau
-   - What’s Available: Investigates consumer protection issues involving vehicle purchases, identity theft, unlicensed dealers ("curbstoners"), odometer fraud, disabled parking placard abuse, document fraud
-   - Contact: [626-275-6344](tel:+1-626-275-6344) (criminal complaints, car dealer complaints, identity theft victims), multiple regional offices with dedicated numbers
-   - How to access: File complaints online at [dmvinvestigations.my.site.com/INVCMS](https://dmvinvestigations.my.site.com/INVCMS) or call investigation office numbers for specific issues
-   - Services: Investigation of automotive fraud, unlicensed dealer activity, identity theft related to vehicles, consumer protection from fraudulent vehicle transactions <!-- Source: https://www.dmv.ca.gov/ -->
+If you believe you have been defrauded by an automotive repair shop, you can get help from the [Bureau of Automotive Repairs](https://bar.ca.gov/) ([800-952-5210](tel:+1-800-952-5210) or [BARenforcement@dca.ca.gov](mailto:BARenforcement@dca.ca.gov)).
+
+The [**California Department of Motor Vehicles**](Directory.md#California-DMV) has an investigations division that enforces laws relating to new and used vehicle dealers.
+If you are the victim of fraud or other illegal action by a vehicle dealer, you can [file a complaint online](https://dmvinvestigations.my.site.com/INVCMS/s/).
+
+If you are the victim of fraud or other illegal action concerning a bank account, credit card, debt collector, money transfer, payday loan, or something like that, you may be able to get help from the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/) ([855-411-2372](tel:+1-855-411-2372)).
+
+The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being mistreated by or improperly evicted from a long term care facility.
+
+<!-- To-do: prosify the next item (website was down on 12 Nov 2025) -->
+
 1. [California Department of Consumer Affairs](https://www.dca.ca.gov/)
+   - The [California Department of Consumer Affairs](https://www.dca.ca.gov/) ([800-952-5210](tel:+1-800-952-5210)/TTY:[800-735-2929](tel:+1-800-735-2929), [dca@dca.ca.gov](mailto:dca@dca.ca.gov)) handles consumer complaints against licensed professional service providers.
    - What’s Available: Licenses/certifies professionals in 255+ professions; handles consumer complaints against licensed professionals; consumer education and protection
-   - Contact: [800-952-5210](tel:+1-800-952-5210) (consumer information center), [dca@dca.ca.gov](mailto:dca@dca.ca.gov), 1625 North Market Blvd. #N-112, Sacramento, CA 95834
-   - TTY/Hearing impaired: 711 or [800-735-2929](tel:+1-800-735-2929)
    - How to access: File complaints online at dca.ca.gov, call hotline for complaint forms, license lookup available online
    - Services: Professional licensing oversight, complaint resolution, consumer guides, fraud protection, license verification
-1. [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/)
-    - What’s Available: Submit complaints about financial services, banks, lenders, debt collectors, credit reporting agencies
-    - Contact: [855-411-2372](tel:+1-855-411-2372) (toll-free), 8am–8pm ET, Monday–Friday (180+ languages available)
-    - How to file: Online at consumerfinance.gov/complaint (fastest), by phone, or email
-    - Process: Submit complaint → forwarded to company → company responds in 15 days → follow up online or by phone
-    - Address: 1700 G St. NW, Washington, DC 20552
 
 ### <a id="crime-victims">Victims of crime, abuse</a>
 
-<!-- To-do: prosify this list -->
+Victims of crime have certain legal rights, and they may be called upon to participate in crime investigations or to testify in criminal cases.
+The [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) helps crime victims who are navigating this process.
+It can help you understand your rights, obtain support services, get help with court appearances, apply for restitution, and get notifications about important updates concerning the criminal case against your victimizer(s).
 
-1. [**Lumina Alliance**](Directory.md#Lumina-Alliance)
-   - What’s Available: Comprehensive support for survivors of sexual assault and intimate partner violence; 24-hour crisis line; emergency shelters; advocacy and legal accompaniment; trauma-informed therapy; transitional housing; prevention education programs
-   - Languages: Services available in English and Spanish, with interpreters for other languages
-   - Inclusivity: Accepts and celebrates all genders, ethnicities, cultures, religions, ages, abilities, sexual orientations, and countries of origin
-1. [**Adult Protective Services**](Directory.md#Adult-Protective-Services)
-    - What’s Available: Emergency intervention for dependent adults and seniors; abuse investigation; community resource connections
-    - Eligibility: Elders 60+ years old; Dependent Adults ages 18–59 with physical/mental disabilities
-    - Reporting: Anyone can make confidential report; complete SOC 341 form by phone, [online (mandated reporters only)](https://slo.leapsportal.net/LeapsIntake/NewPublicIntakeReport.aspx), or fax to [805-788-2834](tel:+1-805-788-2834). *Emergency reports must be made by phone only.* <!-- Source: [reporttoaps.org](https://www.reporttoaps.org/) -->
-    - Services: Voluntary services to help vulnerable adults "live their lives free from the threat or reality of abuse"
-1. [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program)
-    - What's Available: Reduce trauma and frustration for crime victims, witnesses, and family members; inform victims of legal rights; crisis and support services; witness assistance with court appearances; link to local and state services
-    - County-wide Services: Services available to all SLO County residents regardless of location; includes victim notification services, assistance with victim impact statements, restitution assistance, court accompaniment, and referrals to community resources. <!-- Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center) -->
-1. California Victim Compensation Board (CalVCB)
-    - What's Available: Financial assistance to victims of violent crime for crime-related expenses including medical/dental treatment, mental health counseling, income loss, funeral/burial expenses, home/vehicle modifications for crime-related disability, relocation expenses
-    - Eligibility: California residents who are victims of violent crime; also covers non-residents victimized in California and California residents victimized in states without victim compensation programs
-    - How to apply: Online at [victims.ca.gov](https://victims.ca.gov/), by phone at [800-777-9229](tel:+1-800-777-9229), or through victim assistance centers
-    - Time limits: Generally must apply within 3 years of crime date (some exceptions apply)
-    - Coverage: Available to all SLO County residents county-wide
-    - Source: [victims.ca.gov](https://victims.ca.gov/)
-1. [**CASA (Court Appointed Special Advocates)**](Directory.md#CASA)
-    - What's Available: Volunteer advocates for abused and neglected children in court system
-    - Services: Educational advocacy, Infant-Toddler Program, CASA Mentors for youth aging out of foster care
-    - Volunteer opportunities: Information sessions 4th Wednesday monthly at noon; training provided
-    - Impact: Children with CASA spend less time in foster care, more likely to graduate, less likely involved in criminal justice
-    - Self-Help Court Center: For court-related self-help, contact Superior Court Self-Help Center at [805-706-3617](tel:+1-805-706-3617) (Mon–Fri 8:30am–4:30pm) or visit calendly.com/self-help-center/
-    - Note: CASA advocates are court-appointed for specific cases involving abused/neglected children; families cannot directly request CASA services but can access general court self-help resources
-1. [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman)
-   - What's Available: Advocacy for nursing home/care facility residents, complaint investigation, facility monitoring
-   - Services: Help with finding residential care, complaints about facilities, advanced directive witnessing
-   - Coverage: All cities in SLO County
+If you have been the victim of a violent crime, the [California Victim Compensation Board](https://victims.ca.gov/) ([800-777-9229](tel:+1-800-777-9229)) can help you get financial restitution, medical treatment, mental health counseling, and other help.
+
+If you are the victim of sexual assault or intimate partner violence, [**Lumina Alliance**](Directory.md#Lumina-Alliance) can help you advocate for your rights and can accompany you through the legal process.
+
+[**CASA (Court Appointed Special Advocates)**](Directory.md#CASA) helps to advocate on behalf of abused or neglected children in the court system.
+CASA advocates are court-appointed; you cannot request their services directly.
+
+<!-- This isn't "legal help" exactly: move it somewhere else
+If you are an adult who is dependent on others, and you are subjected to abuse or neglect—or if you know of another adult in such a situation—you can get help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services).
+Make emergency calls to [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm) or [844-729-8011](tel:+1-844-729-8011) (all other hours).
+-->
 
 <!-- NOTE: Creative Mediation was apparently a project of Wilshire, which went under
 ### <a id="mediation">Mediation</a>
