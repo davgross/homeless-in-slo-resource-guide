@@ -35,7 +35,7 @@
    - [805-574-1638](tel:+1-805-574-1638) <!-- Source: https://5chc.org/contact-us -->
    - [805-202-3615](tel:+1-805-202-3615) (warming center hotline) <!-- Source: https://5chc.org/programs/warming-center -->
    - [805-295-1501](tel:+1-805-295-1501) (warming center) <!-- Source: https://5chc.org/sites/default/files/2024-02/New%20Warming%20Center%20Talking%20Points.pdf -->
-   - [805-295-1501](sms:+1-805-295-1501?&amp;Add%20Me) (warming center automatic text updates) <!-- Source: https://5chc.org/programs/warming-center -->
+   - [805-295-1501](sms:+1-805-295-1501?&amp;body=Add%20Me) (warming center automatic text updates) <!-- Source: https://5chc.org/programs/warming-center -->
 - Email: [info@5chc.org](mailto:info@5chc.org) <!-- Source: https://5chc.org/contact-us -->
    - [shelter@5chc.org](mailto:shelter@5chc.org) (warming center) <!-- Source: https://5chc.org/sites/default/files/2024-02/New%20Warming%20Center%20Talking%20Points.pdf -->
 - Notes:
@@ -690,8 +690,8 @@
 | 705 Grand Ave. (SLO) <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">Map</a> | [805-544-2498 x211](tel:+1-805-544-2498;ext=211) (SLO) | M–F 8:30am–5:30pm <!-- Source: https://capslo.org/the-center/ --> |
 
 - Phone:
-   - [805-422-2498&nbsp;x121](tel:+1-805-422-2498;ext=121) (info line)
-   - [805-544-2409&nbsp;x111](tel:+1-805-544-2409;ext=111) (mobile reproductive health clinic info)
+   - [805-422-2498&#xA0;x121](tel:+1-805-422-2498;ext=121) (info line)
+   - [805-544-2409&#xA0;x111](tel:+1-805-544-2409;ext=111) (mobile reproductive health clinic info)
 - How to access: Walk-ins OK, but appointments recommended.
 - Note:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
@@ -2501,7 +2501,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 | -------- | ----- |
 | 1511 19th St., Oceano <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> Center">Map</a> | [805-474-3690](tel:+1-805-474-3690) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
 | 1086 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> | [805-474-2105](tel:+1-805-474-2105) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
-| 920 W. Tefft St., Nipomo <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">Map</a> | [805-474-3000&nbsp;x5147](tel:+1-805-474-3000;ext=5147) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
+| 920 W. Tefft St., Nipomo <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">Map</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
 
 - Note: Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
 

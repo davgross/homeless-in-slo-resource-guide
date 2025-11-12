@@ -3,9 +3,9 @@
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
 
-The guide is organized into pages by topics like “Shelter and housing” or “Food”.
-Each page briefly describes resources available in San Luis Obispo County.
-Many of these resources contain boldface links to our [**Directory**](Directory.md).
+The guide is organized into topics like “Shelter and housing” or “Food”.
+Each section briefly describes resources available in San Luis Obispo County.
+Many of these descriptions contain blue-highlighted, boldface links to the [**Directory**](Directory.md).
 This Directory page lists resources in alphabetical order, along with information like the website, phone number, email address, location, and operating hours of the resource.
 If you find a resource in the guide that seems it will be useful to you, click the boldface link to go to the directory and find out how to access that resource.
 
@@ -17,17 +17,17 @@ The city of San Luis Obispo is one of top ten most expensive cities in the U.S. 
 10% of schoolchildren in SLO County are homeless.
 
 Why are things especially difficult here?
-There are many reasons, but the most important ones can be summed up by “too few homes for the number of people who need them.”
+There are many reasons, but the most important one is “too few homes for the number of people who need them.”
 The reasons why that is a problem are complicated, but include government policies that discourage homebuilding and make it more expensive, and resource constraints.
 
 Fortunately, there is a lot of help available to people experiencing or threatened with homelessness in SLO County.
 Unfortunately, it can be difficult to discover this help or to understand how to access it.
-We hope this guide will make it easier.
+This guide makes it easier.
 
-This guide was developed by volunteers from [**Shower the People**](Directory.md#Shower-the-People).
-If you would like to suggests corrections or improvements, or if you would like to join our development team, reach out to us at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
+This guide was created by volunteers from [**Shower the People**](Directory.md#Shower-the-People).
+If you want to suggest corrections or improvements, or to join our development team, contact us at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
 
-Special thanks to Laurel Woodson & Mark Grayson for the funding that kickstarted this project.
+*Special thanks to Laurel Woodson & Mark Grayson for the funding that kickstarted this project.*
 
 | **External links** |
 | ------------------ |
@@ -40,7 +40,7 @@ Special thanks to Laurel Woodson & Mark Grayson for the funding that kickstarted
 
 ## Legend: Understanding Links and Buttons
 
-This guide uses different colors and icons to help you quickly identify what kind of link or button you're looking at:
+This guide uses colors and icons to help you quickly identify what kind of link or button you're looking at:
 
 ### Link Types
 
@@ -156,7 +156,7 @@ This guide uses different colors and icons to help you quickly identify what kin
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr>
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr>
   <tr><th colspan="2" style="text-align:left;">⇨ Immigration:</th></tr>
-   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity or connect with legal support); register for text alerts by texting “ALERT” to this number)</td></tr>
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity or connect with legal support); register for text alerts by <a href="sms:+1-805-870-8855?&amp;body=ALERT">texting “ALERT” to this number</a>)</td></tr>
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr>
  </tbody>
 </table>
@@ -2244,7 +2244,7 @@ This section of the guide shows you how to obtain or replace documents like thes
 - [Social Security Numbers or Cards](#social-security-numbers-or-cards)
 - [ID Cards and Driver's Licenses](#id-cards-drivers-licenses)
 - [Birth, Death, and Marriage Certificates](#birth-death-marriage-certificates)
-- Court Case Summaries, Divorce and Adoption Records
+- [Civil Case Documents](#civil-case-documents)
 - [Passports](#passports)
 - Tips
 
@@ -2312,22 +2312,19 @@ If you need a birth, death, or marriage certificate from another county in Calif
 If you need such records from elsewhere in the U.S. outside California, visit the [National Center for Health Statistics](https://www.cdc.gov/nchs/w2w/index.htm) web page.
 The VitalChek website can often also get you these records from other areas.
 
-### Court Case Summaries, Divorce and Adoption Records
+### <a id="civil-case-documents">Civil Case Documents</a>
 
-<!-- To-do: prosify this list -->
+To get copies of [SLO Superior Court](Directory.md#SLO-Superior-Court) documents in civil cases to which you are a party, first go to the court offices in San Luis Obispo or in Paso Robles.
+Those offices have a publicly-accessible computer at which you can find your case number.
+Court staff can help you with this process.
+Then review the documents associated with that case, choose which documents you want, and request them.
+You must pay 50¢ per page to get printouts of these documents.
 
-1. **SLO Superior Court** (case records, background checks, divorce/adoption records, probate/wills, fines)
-   - Location/Phone: See [**SLO Superior Court**](Directory.md#SLO-Superior-Court) in the [Directory](Directory.md)
-   - Services available:
-      - Online case lookup via re:SearchCA platform at [slo.courts.ca.gov](https://www.slo.courts.ca.gov) (case search and court records access)
-      - Criminal case information requests
-      - Getting copies of civil court files
-      - Self-help resources for divorce, name changes, restraining orders, small claims, probate
-   - How to access:
-      - Online: Register or sign in with eFileCalifornia account at [efilecalifornia.courts.ca.gov](https://efilecalifornia.courts.ca.gov) (free registration required for accessing court documents and filing)
-      - In person: Contact appropriate branch directly
-      - By request: Contact court for specific document requests
-   - Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov)
+If you cannot go to the court offices, you can follow the procedure described on [this web page](https://www.slo.courts.ca.gov/self-help/civil-appeals/getting-copies-court-files) to order documents by mail.
+
+If you have a lawyer, that lawyer may be able to search for these documents on-line themselves.
+
+> See the [Legal Help & Crime Victim Protection](#legal-help--crime-victim-protection) section for some tips on getting help from a lawyer.
 
 ### <a id="passports">Passports</a>
 
@@ -2432,15 +2429,15 @@ You can find contact information for embassies and consulates at [embassy.goabro
 
 #### Document storage and security
 
-<!-- To-do: prosify this list -->
+Here are some tips for handling important documents:
 
-- Keep copies separate from originals when possible
-- Use document storage services at homeless service centers:
-   - [**40 Prado Homeless Services Center**](Directory.md#40-Prado): Call [805-544-4004](tel:+1-805-544-4004) to inquire about document storage options for participants
-   - [**5Cities Homeless Coalition**](Directory.md#5CHC): Offers "identification and documentation assistance" as part of client resource center services
-   - Note: Services may be limited to active participants; call each center to verify current availability <!-- Source: [5chc.org](https://5chc.org/), [capslo.org](https://capslo.org/) -->
-- Consider a safety deposit box if you have any income ($20–40/year typically)
-- Scan or photograph documents and store digitally if you have access to email or cloud storage
+- Use your phone camera to take photos of important documents, and save those photos “in the cloud” (iCloud for iPhone, Google Photos for Android) so still have access to your photos if your phone is lost or stolen.
+- Make copies of important documents, and store the copies separately from the originals.
+  That way if you lose one set, you are less likely to lose all of them.
+- Some homeless services centers offer document storage for their clients.
+  Ask your case worker if they are able to store your important documents in your file at those agencies.
+- If you have enough money, consider storing especially important or difficult-to-replace documents in a safety deposit box at a bank.
+  These can be rented for $30–50 per year.
 
 #### If you have no documents at all
 
