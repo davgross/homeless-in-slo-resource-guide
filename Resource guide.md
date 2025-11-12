@@ -321,14 +321,14 @@ When it operates as a warming center, check in is between 7pm and 9pm, and you m
 When it operates as a cooling center, you must leave by 6pm.
 Meals are provided.
 Pets with rabies vaccinations are allowed in their kennel.
-People with P.C. 290 convictions are screened out.
+People with P.C. 290 convictions are not allowed in the center.
 The warming center offers a free hot meal.
 
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) warming center at <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. in Arroyo Grande</a> operates between 5:30pm and 7am.
 You must check in before 8pm.
 Pets are OK if you have proof of license/vaccinations.
 You must have a valid ID.
-People with P.C. 290 convictions are screened out.
+People with P.C. 290 convictions are not allowed in the center.
 Call [805-295-1501](tel:+1-805-295-1501) to verify the center is open and to learn about free transportation options to the center.
 The warming center offers a free hot meal.
 Text “Add Me” to [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) to receive text updates to your phone when the Warming Center opens, or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
@@ -1913,7 +1913,7 @@ When possible, take formal self-defense classes to learn proper techniques from 
 
 **In this section:**
 
-- [Help for defendants, convicts, parolees, probationers, people with PC 290 convictions](#defendants-and-convicts)
+- [Help for defendants, convicts, parolees, probationers](#defendants-and-convicts)
 - [Legal help regarding housing (discrimination, landlord disputes, etc.)](#housing-legal)
 - [Help with benefits, wrangling with health insurers, et cetera](#benefits-legal)
 - [Consumer protection](#consumer-protection)
@@ -1926,15 +1926,15 @@ When possible, take formal self-defense classes to learn proper techniques from 
 - [Tax Disputes](#tax-disputes)
 - [Miscellany](#legal-miscellany)
 
-### <a id="defendants-and-convicts">Help for defendants, convicts, parolees, probationers, people with PC 290 convictions</a>
+### <a id="defendants-and-convicts">Help for defendants, convicts, parolees, probationers</a>
 
-If you are being taken to court and accused of a serious crime by the government, you have the right to have a lawyer who is trained in the law who can help defend you against the charges.
+If you are being taken to court and accused of a serious crime by the government, you have the right to have a lawyer who is trained in the law to help defend you against the charges.
 You have a right to a lawyer even if you do not have enough money to pay one.
-If you cannot affort to hire a lawyer, tell the judge so when you first appear in court.
-[**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) is the primary public defenders’s office in SLO County.
+If you cannot affort to hire a lawyer, tell the judge so when you first appear in court, and the judge will assign a public defender to you.
+[**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) is the primary public defenders’ office in SLO County.
 You must wait until the judge assigns a particular public defender to you before you can discuss your case with them.
 
-If you have been in jail or prison and are reentering the community after having done your time or being released on parole, [**Restorative Partners**](Directory.md#Restorative-Partners) may be able to help make your reentry successful.
+If you have been in jail or prison and are reentering the community after doing your time or being released on parole, [**Restorative Partners**](Directory.md#Restorative-Partners) can help make your reentry successful.
 They can give you housing assistance including clean & sober living homes, and help returning to the workforce.
 Call or email them to learn more.
 
@@ -1962,6 +1962,8 @@ SLO city has a [Tenants Union](https://linktr.ee/slorentcoalition) ([805-779-163
 The SLO branch of Democratic Socialists of America have a [Housing Justice](https://slocialism.org/housing-justice/) guide for tenants in San Luis Obispo.
 It tries to explain how you can best assert and defend your legal rights as a renter.
 
+The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being improperly evicted from a long term care facility.
+
 ### <a id="benefits-legal">Help with benefits, wrangling with health insurers, et cetera</a>
 
 [**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options.
@@ -1981,6 +1983,8 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
 -->
 
 ### <a id="consumer-protection">Consumer protection</a>
+
+To report a consumer complaint directly to the SLO District Attorney, you can use [the consumer complaint form](https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions/consumer-protection) on their website.
 
 Identity theft is when someone else pretends to be you—for example by using your name, identification, or credit card number—to commit fraud or to put the blame on you for something they have done.
 You can report identity theft with the Federal Trade Commission at [IdentityTheft.gov](https://www.identitytheft.gov/) or [877-438-4338](tel:+1-877-438-4338) and they can help you take steps to protect yourself.
@@ -2020,7 +2024,7 @@ If you are an adult who is dependent on others, and you are subjected to abuse o
 Make emergency calls to [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm) or [844-729-8011](tel:+1-844-729-8011) (all other hours).
 -->
 
-<!-- NOTE: Creative Mediation was apparently a project of Wilshire, which went under
+<!-- NOTE: Creative Mediation was apparently a project of Wilshire, which went bankrupt
 ### <a id="mediation">Mediation</a>
 
 If you have a dispute with someone else, mediation is a way to resolve that dispute without having to go to court.
@@ -2039,17 +2043,14 @@ A neutral mediator will be assigned to your case to help you resolve it.
 
 ### <a id="legal-self-help">Legal Self-Help / Law Libraries</a>
 
+<!-- Note: SLO County Small Claims Advisor has been discontinued -->
+
+If you need to research the law, legal precedents, and legal processes, you can visit the [**SLO County Law Library**](Directory.md#SLO-County-Law-Library), a free research library.
+The library has thousands of print volumes and also has publicly-accessible computers at which you can access WestLaw, CEB OnLaw, NOLO Guides, Bell’s Compendium, and other electronic legal databases.
+It also has tools with which you can create documents that conform to the standards of local courts.
+
 <!-- To-do: prosify this list -->
 
-1. [**SLO County Law Library**](Directory.md#SLO-County-Law-Library)
-   - What's Available: Legal research resources, self-help materials, internet access for legal research
-   - Collection: 14,000+ hardbound volumes, legal periodicals, handbooks, Nolo Press publications
-   - Technology: Free Westlaw Online (1 hour daily), internet access (1 hour daily), electronic Shepardizing (legal research tool to verify if a case is still valid law by checking if it has been overruled, reversed, or superseded)
-   - Additional services: Fax service, inter-library loans ($10 fee), reference assistance
-1. [**SLO County Small Claims Advisor**](Directory.md#SLO-County-Small-Claims-Advisor)
-   - What's Available: Free information and assistance for small claims court cases (plaintiff or defendant)
-   - County-wide Availability: Available to all SLO County residents regardless of location; services provided at County Government Center in SLO.
-   - Note: Provided by District Attorney’s Economic Crime Unit; advisor is not an attorney
 1. [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) / Family Law Facilitator / Self-Help Center
    - What's Available: Free resources to help find legal information and learn self-representation; free assistance to self-represented parties on family law matters including divorce, child custody and support, domestic violence restraining orders, establishing parent-child relationships, spousal support
    - Additional contact: [805-788-3418](tel:+1-805-788-3418); online scheduling at calendly.com/self-help-center/

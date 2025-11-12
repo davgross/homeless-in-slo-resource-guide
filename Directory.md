@@ -2798,10 +2798,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="SLO-County-Law-Library">SLO County Law Library</a>
 
 - [slocll.org](https://www.slocll.org/)
-- Location: 1050 Monterey St., Room 125, SLO <a class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO County Law Library">Map</a>
-- Phone: [805-781-5855](tel:+1-805-781-5855)
-- Email: [info@slocll.org](mailto:info@slocll.org)
-- Hours: M–W 9am–4pm, Th.–F 8:30am–1:30pm
+- Location: 1050 Monterey St., Room 125, SLO <a class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO County Law Library">Map</a> <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
+- Phone: [805-781-5855](tel:+1-805-781-5855) <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
+- Email: [info@slocll.org](mailto:info@slocll.org) <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
+- Hours: M–W 9am–4pm, Th.–F 8:30am–1:30pm <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
 
 ## <a id="SLO-County-Mental-Health-Services">SLO County Mental Health Services</a>
 
@@ -2878,12 +2878,14 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
   You can also make an appointment to meet with the team by calling [805-540-0057](tel:+1-805-540-0057)
 
+<!-- Small Claims Advisor is closed according to https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions
 ## <a id="SLO-County-Small-Claims-Advisor">SLO County Small Claims Advisor</a>
 
 - Location: County Government Center Room 223, SLO <a class="map-link" data-lat="35.282192" data-lon="-120.660230" data-zoom="17" data-label="SLO County Small Claims Advisor">Map</a>
 - Phone: [805-781-5856](tel:+1-805-781-5856)
-- Hours: M–F 9am–12pm <!-- Note: Some sources say hours are Monday–Wednesday only rather than Monday–Friday -->
+- Hours: M–F 9am–12pm 
 - How to access: no appointment necessary
+-->
 
 ## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
 
