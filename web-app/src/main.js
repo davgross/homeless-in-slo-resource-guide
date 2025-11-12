@@ -90,6 +90,15 @@ async function init() {
   // Initialize TOC navigation button
   initTOCButton();
 
+  // Initialize scroll padding adjustment
+  updateScrollPadding();
+
+  // Update scroll padding on window resize (handles search bar wrapping)
+  window.addEventListener('resize', updateScrollPadding);
+
+  // Also update after a short delay to ensure header is fully rendered
+  setTimeout(updateScrollPadding, 100);
+
   // Load content
   await loadMarkdownContent();
 
@@ -129,6 +138,17 @@ function setupNavigation() {
       showSection(e.state.section, false);
     }
   });
+}
+
+// Update scroll padding to account for dynamic header height
+function updateScrollPadding() {
+  const header = document.querySelector('.app-header');
+  if (header) {
+    const headerHeight = header.getBoundingClientRect().height;
+    // Add a small buffer (16px) for better spacing
+    const scrollPadding = headerHeight + 16;
+    document.documentElement.style.scrollPaddingTop = `${scrollPadding}px`;
+  }
 }
 
 // Initialize TOC navigation button
@@ -339,7 +359,7 @@ function transformTOCToLozenges(container) {
   // Icon mapping - using Unicode emojis as placeholders
   // Can be replaced with custom SVGs later
   const iconMap = {
-    'Emergency Contacts': '📞',
+    'Hotlines and Emergencies': '📞',
     'Self-Advocacy': '🗣️',
     'Shelter & Housing': '🏠',
     'Property Storage': '📦',
@@ -1107,18 +1127,9 @@ function navigateToResourceSection(anchorId) {
       console.log('Looking for anchor:', anchorId, 'Found:', anchor);
 
       if (anchor) {
-        // Get the anchor's position
-        const rect = anchor.getBoundingClientRect();
-        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        const targetY = rect.top + scrollTop - 90; // Adjust for header (80px + buffer)
-
-        console.log('Scrolling to position:', targetY);
-
-        // Smooth scroll to position
-        window.scrollTo({
-          top: targetY,
-          behavior: 'smooth'
-        });
+        // Use browser's native scroll with scroll-padding-top
+        // This automatically accounts for the dynamic header height
+        anchor.scrollIntoView({ behavior: 'smooth', block: 'start' });
       } else {
         console.warn('Anchor not found:', anchorId);
         // Fallback: try to scroll to top of resources

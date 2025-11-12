@@ -159,7 +159,7 @@ Claude can use the linux `date` command to determine the actual current date.
 
 ### Alphabetical Insertion in Directory.md
 
-When adding new entries to Directory.md:
+When adding new entries to @Directory.md:
 
 - Use `grep -n "^## <a id=" Directory.md` to see all agency anchors with line numbers
 - Identify the correct alphabetical position by finding the entries immediately before and after
