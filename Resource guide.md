@@ -1998,13 +1998,8 @@ If you are the victim of fraud or other illegal action concerning a bank account
 
 The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being mistreated by or improperly evicted from a long term care facility.
 
-<!-- To-do: prosify the next item (website was down on 12 Nov 2025) -->
-
-1. [California Department of Consumer Affairs](https://www.dca.ca.gov/)
-   - The [California Department of Consumer Affairs](https://www.dca.ca.gov/) ([800-952-5210](tel:+1-800-952-5210)/TTY:[800-735-2929](tel:+1-800-735-2929), [dca@dca.ca.gov](mailto:dca@dca.ca.gov)) handles consumer complaints against licensed professional service providers.
-   - What’s Available: Licenses/certifies professionals in 255+ professions; handles consumer complaints against licensed professionals; consumer education and protection
-   - How to access: File complaints online at dca.ca.gov, call hotline for complaint forms, license lookup available online
-   - Services: Professional licensing oversight, complaint resolution, consumer guides, fraud protection, license verification
+Many service providers are licensed by the State of California (for example, health care providers, accountants, security guards, social workers, etc.).
+If you believe you have been treated unfairly or improperly by a licensed service provider, you can file a complaint with the [California Department of Consumer Affairs](https://www.dca.ca.gov/) ([800-952-5210](tel:+1-800-952-5210)/TTY:[800-735-2929](tel:+1-800-735-2929), [dca@dca.ca.gov](mailto:dca@dca.ca.gov)).
 
 ### <a id="crime-victims">Victims of crime, abuse</a>
 
@@ -2049,26 +2044,21 @@ If you need to research the law, legal precedents, and legal processes, you can 
 The library has thousands of print volumes and also has publicly-accessible computers at which you can access WestLaw, CEB OnLaw, NOLO Guides, Bell’s Compendium, and other electronic legal databases.
 It also has tools with which you can create documents that conform to the standards of local courts.
 
-<!-- To-do: prosify this list -->
+If you are filing a small claims case (a civil dispute involvking less than $10,000, in which the parties are not represented in court by lawyers), a family law case (for example divorce, child support, child custody), a request for a restraining order, or certain other matters you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services).
 
-1. [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) / Family Law Facilitator / Self-Help Center
-   - What's Available: Free resources to help find legal information and learn self-representation; free assistance to self-represented parties on family law matters including divorce, child custody and support, domestic violence restraining orders, establishing parent-child relationships, spousal support
-   - Additional contact: [805-788-3418](tel:+1-805-788-3418); online scheduling at calendly.com/self-help-center/
-   - Services: Form preparation help, general information, free weekly online Q&A webinars about family law cases
-   - County-wide Court Access: SLO Superior Court operates branches in multiple locations including Paso Robles (901 Park St.) and Grover Beach (214 S. 16th St.) in addition to SLO locations. See [**SLO Superior Court**](Directory.md#SLO-Superior-Court) for all branch locations. Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)
-   - Important: Cannot provide legal representation or personalized legal advice; serves both parties in a case; communications are not confidential
-   - Website: [slo.courts.ca.gov/self-help](https://www.slo.courts.ca.gov/self-help) and [slo.courts.ca.gov/self-help/family-law](https://www.slo.courts.ca.gov/self-help/family-law)
-1. [StateSideLegal](https://www.statesidelegal.org/) (for veterans)
-   - What’s Available: Free legal resources for veterans, service members, and their families across multiple legal areas
-   - Civil Rights & Immigration: Civil rights protection, immigration assistance, citizenship guidance, voting rights information
-   - Health & Safety: Health insurance guidance, medical care/leave information, filing claims for Military Sexual Trauma (MST), PTSD, Traumatic Brain Injury (TBI)
-   - Housing & Real Estate: Homeownership resources, landlord/tenant rights, subsidized housing information
-   - Education & Employment: Education benefits/GI Bill guidance, post-military training resources, employment rights and protections
-   - Family Matters: Divorce assistance, child support, adoption guidance, custody issues, domestic violence resources, estate planning
-   - Special features: Self-help tools, Navigator tool for finding legal assistance, nationwide legal help map, VA claim appeals assistance
-   - Target: Military-connected individuals nationwide seeking legal guidance
-   - Access: Visit [statesidelegal.org](https://www.statesidelegal.org/) to use Navigator tool, find legal help, ask questions, or access self-help tools
-   - Online resources: Free legal guidance available through website's interactive tools and legal help map
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some guides on:
+
+- [immigration resources](https://selfhelp.courts.ca.gov/immigration)
+- how to obtain [gun violence](https://www.slo.courts.ca.gov/self-help/gun-violence-restraining-orders), [civil harassment](https://www.slo.courts.ca.gov/self-help/civil-harassment-restraining-order), and [domestic violence](https://www.slo.courts.ca.gov/self-help/family-law/domestic-violence) restraining orders
+- the process of going to court for child custody and support, [divorce, legal separation, and annulment](https://www.slo.courts.ca.gov/self-help/family-law/divorce), and other [family law](https://www.slo.courts.ca.gov/self-help/family-law) matters
+- the processes of [legal name changes](https://www.slo.courts.ca.gov/self-help/name-change) and [gender changes](https://www.slo.courts.ca.gov/self-help/gender-change)
+
+The state of California’s [Small claims in California](https://selfhelp.courts.ca.gov/small-claims-california) web page is also a good introduction to the small claims process.
+
+The SLO Law Line ([805-548-8884](tel:+1-805-548-8884)) gives free basic legal advice to people who cannot afford an attorney, and can help you find additional legal assistance.
+Call to make an appointment for a telephone consultation.
+
+U.S. military veterans can get help from the [StateSideLegal](https://www.statesidelegal.org/) website, which has information about how to file benefits claims and denial appeals, how to defend civil rights claims, and other legal matters.
 
 ### <a id="legal-consultation">Legal Consultation</a>
 
@@ -2083,12 +2073,6 @@ It also has tools with which you can create documents that conform to the standa
       - Access: Phone interview or online request form at slobarlris.org
       - Phone: [805-541-5502](tel:+1-805-541-5502), M–Th 9am–1pm
       - Email: [LRIS@slobar.org](mailto:LRIS@slobar.org)
-   - SLO Law Line: [805-548-8884](tel:+1-805-548-8884):
-      - What's Available: Free legal advice and counsel for those who cannot afford an attorney
-      - Contact: [805-548-8884](tel:+1-805-548-8884); telephone consultations by appointment only
-      - Hours: Five days a week 8:30am–4pm; scheduling Monday–Thursday 9am–3pm; consultation hours Tuesday 4:30pm–6:30pm
-      - Staffing: SLO College of Law interns under attorney supervision; SLO County Pro Bono Program volunteers
-      - Services: Legal information, referrals to legal assistance programs in SLO County
 1. [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation)
    - What's Available: Free legal assistance for civil and family law matters; housing (landlord/tenant, evictions, fair housing discrimination, habitability, accessibility, foreclosure prevention)
    - Eligibility: Low-income residents of SLO County, including seniors (60+), veterans, people with disabilities; no immigration status/documentation required
@@ -2115,9 +2099,15 @@ It also has tools with which you can create documents that conform to the standa
     - Coverage: Serves SLO County and other Southern California counties
     - Note: Limited resources focused on systemic change cases; does not accept walk-ins; seek help online first
 
+U.S. military veterans can use the [StateSideLegal](https://www.statesidelegal.org/) website’s [Veterans Legal Help Navigator](https://www.statesidelegal.org/helpnavigate?clear=true) to find legal representatives that best match the needs of your case.
+
 ### <a id="family-law">Family Law / Child Support</a>
 
 [**Child Support Services**](Directory.md#Child-Support-Services) can help you locate parents who may owe child support, establish parentage, obtain and enforce support orders, and collect payments.
+
+If you are filing a family law case, you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services).
+
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) has some guides on the process of going to court for child custody and support, [divorce, legal separation, and annulment](https://www.slo.courts.ca.gov/self-help/family-law/divorce), and other [family law](https://www.slo.courts.ca.gov/self-help/family-law) matters.
 
 ### <a id="immigration-law">Immigration Law</a>
 
@@ -2147,7 +2137,6 @@ It also has tools with which you can create documents that conform to the standa
    - Note: Primarily serves farmworkers in Fresno, Kern, Kings, Madera, and Tulare Counties; contact them to confirm services available to SLO County residents
    - Website: [californiafarmworkers.org](https://californiafarmworkers.org/)
    - Email: [info@californiafarmworkers.org](mailto:info@californiafarmworkers.org)
-   - Source: [californiafarmworkers.org](https://californiafarmworkers.org/)
 1. Immigrant Hope Arroyo Grande
    - Services: Immigration legal advice
    - Note: Unable to verify specific services from their website (as of October 2025); contact them directly for details about programs and eligibility
@@ -2168,7 +2157,8 @@ It also has tools with which you can create documents that conform to the standa
    - Hours: Mondays 4–6pm by telephone or Zoom
    - Cost: $15
    - How to access: Reserve a spot [here](https://montereylaw.edu/clinics/immigrationclinic.html) or by calling [831-582-3600](tel:+1-831-582-3600)
-   - Source: [montereylaw.edu/clinics/immigrationclinic.html](https://montereylaw.edu/clinics/immigrationclinic.html)
+
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some free [immigration resources](https://selfhelp.courts.ca.gov/immigration).
 
 ### <a id="senior-legal-services">Senior Legal Services</a>
 
@@ -2412,24 +2402,15 @@ Here are some tips for handling important documents:
 - If you have enough money, consider storing especially important or difficult-to-replace documents in a safety deposit box at a bank.
   These can be rented for $30–50 per year.
 
-#### If you have no documents at all
+#### If you have no identification documents
 
-<!-- To-do: prosify this list -->
+If you are completely without identifying documentation, you may need help establishing your identity so that you can access programs and services that require identifying documentation.
 
-- Start with Social Security Administration—they can try to verify identity through their records
-- Contact local legal aid for assistance navigating the process
-- California affidavit processes for people with no documents:
-   - What it is: Legal process where qualified service providers can verify your identity and housing status through signed affidavits when you lack traditional documents
-   - How it works as alternative to documents:
-      - Free CA ID cards: Service providers complete "No Fee Identification Card Eligibility Verification" form (DL 933) from DMV; provides free California photo ID
-      - Who can verify: School counselors, homeless shelter staff, lawyers, health/mental health/substance use providers, public assistance workers, employment services staff
-      - Benefits: Breaks the cycle where you need ID to get housing but need housing to get ID
-   - How to access: Contact local emergency shelter, County human services office, or homeless services provider to start the fee waiver process
-   - California Process: File forms FL-110, FL-100, FL-160s, FL-311, FL-105, FL-150 at SLO Superior Court (1035 Palm St. Rm 385 or Paso Robles 901 Park St.)
-   - Cost: $435 filing fee; fee waiver available for low-income individuals
-   - Assistance: Self-Help Center [805-706-3617](tel:+1-805-706-3617), online help at calendly.com/self-help-center/, free Q&A webinars via Zoom
-   - Requirements: 6-month CA residency, 3-month SLO County residency <!-- Source: [slo.courts.ca.gov](https://www.slo.courts.ca.gov/) -->
-- Hospital records of birth may sometimes be used as supporting evidence
+You may want to begin by contacting the [**Social Security Administration**](Directory.md#Social-Security-Administration) who can assist you in verifying your identity through their records.
+
+[**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) can help you through California’s affidavit processes, with which you can establish your identity when you lack identity documentation.
+This way you can get a California photo ID card, which helps you get access to many programs and services.
+There is an expensive filing fee for this process, but ask about a fee waiver that is available to people with low incomes.
 
 ## <a id="mail-drops-post-office-boxes-etc">Mail Drops, Post Office Boxes, Etc.</a>
 
@@ -2511,57 +2492,36 @@ The post office may stop accepting general delivery mail for you if you try to u
 
 **In this section:**
 
-- Banks, Credit Unions, et Cetera
+- [Banks and Credit Unions](#banks-and-credit-unions)
 - [Financial Literacy Classes and 1-on-1 Assistance](#financial-literacy)
 - [Debt Consolidation](#debt-consolidation)
 
-### Banks, Credit Unions, et Cetera
+### <a id="banks-and-credit-unions">Banks and Credit Unions</a>
 
-<!-- To-do: prosify this list -->
+Credit unions are like banks, but are nonprofit organizations that tend to be locally-focused.
+They can often be more accommodating than banks to people with low incomes and to homeless people.
 
-- **Local Credit Unions** (Often more flexible for homeless individuals)
-   1. [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union)
-      - What's Available: Free checking accounts (HomeFREE Checking), affordable loans, business services, financial education; accepts ITINs
-      - Membership: $5 deposit to Primary Share Savings account plus one-time $5 membership fee; no recurring membership fee
-      - Benefits: Generally more accommodating for people with alternative address arrangements; 30,000+ surcharge-free ATMs nationwide; mobile banking app
-   1. [**SLO Credit Union**](Directory.md#SLO-Credit-Union)
-      - What's Available: Community-focused banking services
-      - Requirements: Driver's license/ID, proof of eligibility (payroll stub/employee ID), $5 minimum deposit
-   1. [**Golden 1 Credit Union**](Directory.md#Golden-1-Credit-Union)
-      - Services: Banking services, auto loans, mobile/online banking, ATM access
-      - Established: 1933, serves California members through 65 branch locations statewide
-   1. [**CoastHills Credit Union**](Directory.md#CoastHills-Credit-Union)
-      - Services: Full-service banking including checking accounts, savings, loans, credit cards, online/mobile banking, financial planning
-      - Special features: Free online banking, low-rate loans, better deposit earnings, 24-hour call center service
-      - Established: 1958, serving 72,000+ members with $1.6 billion in assets
-      - Coverage: 11 Central Coast locations throughout Santa Barbara and SLO counties
-- **No Minimum Balance Banking Options**
-   - Bank On Certified Accounts: Accounts meeting National Account Standards for safety and affordability
-      - Why preferred: Low-cost, no overdraft fees, robust transaction capabilities; designed for currently unbanked populations including homeless individuals
-      - Availability: Over 500 certified accounts at 45,200+ branches nationwide; free certification program
-      - Special accommodations: Many homeless shelters provide mailing addresses that banks can accept for account setup
-      - Examples: Wells Fargo Clear Access Banking and other Bank On certified accounts at major banks/credit unions
-      - How to find: Visit joinbankon.org or ask banks/credit unions about Bank On certified accounts <!-- Sources: [cfefund.org](https://cfefund.org/), [joinbankon.org](https://joinbankon.org/) -->
-   1. [Wells Fargo Clear Access Banking](https://www.wellsfargo.com/checking/clear-access-banking/)
-      - What’s Available: Meets Bank On National Account Standards for safe and affordable banking; no overdraft fees, no minimum balance requirements
-      - Opening deposit: Typically $15–100 required
-      - Benefits: Designed for low-income customers and those without traditional banking history
-   1. Major Bank Special Programs
-      - Wells Fargo: Way2Save Savings ($5 monthly fee waived if under 25 or $300 minimum balance); Advantage SafeBalance Banking (various fee waiver options)
-      - Bank of America: Advantage SafeBalance Banking ($4.95 monthly fee waived under 25 or $500 balance); Client Assistance Program for individual relief
-      - Chase: Contact directly for current low-income banking options and fee waiver programs
-      - How to access: Call banks directly, ask about assistance programs for homeless/government assistance recipients; may require documentation of situation
+Credit unions in SLO County include:
 
-> See [Mail drops, post office boxes, etc.](#mail-drops-post-office-boxes-etc) for some tips on what to do if you need to provide a residency address but you are currently homeless.
+- [**CoastHills Credit Union**](Directory.md#CoastHills-Credit-Union)
+- [**Golden 1 Credit Union**](Directory.md#Golden-1-Credit-Union)
+- [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union)
+- [**SLO Credit Union**](Directory.md#SLO-Credit-Union)
+
+Some ordinary banks offer “Bank On Certified Accounts” which are savings or checking accounts that are more affordable, have small minimum balances, and have no overdraft fees.
+You can search for banks that offer such accounts at [joinbankon.org](https://joinbankon.org/accounts/).
+
+> See [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) if you do not have a stable address and you need an address you can use while establishing a bank account.
 
 > See [IDs and other documents](#ids-and-other-documents) section for information on how to obtain required identification and other documentation.
 
-- Tips for Success
-   - Call ahead: Contact banks before visiting to understand their specific requirements and available programs
-   - Bring multiple documents: Have as much identification and address verification as possible
-   - Ask about special programs: Specifically inquire about programs for people without permanent addresses
-   - Consider credit unions first: Often more flexible and community-focused than large banks
-   - Use service organization support: Have case workers or service providers help advocate and provide verification if needed
+**Tips for how to succeed in establishing a bank account:**
+
+- Call ahead: Contact banks before you visit and ask about their specific requirements
+- Bring multiple documents: Have as much identification and address verification as possible
+- Ask about special programs: Specifically inquire about programs for people without permanent addresses
+- Consider credit unions first: They are often more flexible and community-focused than large banks
+- Use service organization support: Have case workers or service providers help advocate and provide verification if needed
 
 ### <a id="financial-literacy">Financial Literacy Classes and 1-on-1 Assistance</a>
 
@@ -2598,18 +2558,8 @@ The national Volunteer Income Tax Assistance (VITA) program allows low- and mode
 The AARP Tax-Aide Program is especially for people over age 50.
 The United Way also has [an on-line program](https://www.myfreetaxes.org/file-with-virtual-help/) with which you can upload your tax documents and get free help from tax preparation volunteers over the internet.
 
-**County-wide Free Tax Preparation Services** (pending human review):
-
-Free tax preparation is available throughout SLO County during tax season (typically February through mid-April). Services are offered at nine locations including Atascadero, Arroyo Grande, Grover Beach, Los Osos, Morro Bay, Nipomo, Paso Robles, San Luis Obispo, and Templeton. Both VITA (through United Way) and AARP Tax-Aide programs operate by appointment, though some VITA locations accept walk-ins.
-
-- **AARP Tax-Aide**: Nine locations county-wide; appointments available starting late January at [ccfreetax.org](https://www.ccfreetax.org/) or by calling [805-931-6308](tel:+1-805-931-6308); no age requirement or AARP membership needed
-- **VITA Program**: Locations include Paso Robles Library (<a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="Paso Robles Library">1000 Spring St.</a>, Saturdays 9am–3pm, Spanish assistance available select dates) and St. William's Catholic Church in Atascadero (<a href="#" class="map-link" data-lat="35.487767" data-lon="-120.671531" data-zoom="17" data-label="St. William’s Catholic Church">6410 Santa Lucia Rd.</a>, Mondays/Fridays 9am–4pm); contact [taxes@unitedwayslo.org](mailto:taxes@unitedwayslo.org) or [805-541-1234](tel:+1-805-541-1234)
-
-Sources: [unitedwayslo.org](https://www.unitedwayslo.org/taxes), [ccfreetax.org](https://www.ccfreetax.org/)
-
 There are also free options that allow you to file your federal income taxes yourself by using guided tax preparation software or by filling in on-line forms and filing them electronically.
 See [irs.gov/freefile](https://www.irs.gov/freefile) for details.
-
 <!-- Note: IRS "Direct File" is kaput as of tax year 2025 -->
 
 > See the [Internet Access / Email / Digital Access Assistance](#internet-access--email--digital-access-assistance) section of this guide for ways to get access to a computer and the internet.
@@ -2636,7 +2586,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. [**Womenade SLO**](Directory.md#Womenade-SLO)
       - What's Available: One-time essential financial help for SLO city residents; emergency assistance for dental and medical care, diapers, furniture, rent, gas, groceries, and other essential needs; 100% of donations go directly to support those in need
       - Eligibility: SLO city residents in crisis; referrals from schools, medical professionals, and local social services
-      - Note: Part of a regional network; for county-wide assistance see GIVEslo ([info@giveslo.org](mailto:info@giveslo.org)); for North County see North County Womenade (7343 El Camino Real Box #217, Atascadero, CA 93422); for South County see South County Womenade (<a href="#" class="map-link" data-lat="35.112441" data-lon="-120.609956" data-zoom="17" data-label="South County Womenade">1793 Farroll Road, Grover Beach</a>, CA 93433)
+      - Note: Part of a regional network; for county-wide assistance see GIVEslo ([info@giveslo.org](mailto:info@giveslo.org)); for North County see North County Womenade (7343 El Camino Real Box #217, Atascadero, CA 93422); for South County see South County Womenade (1793 Farroll Road, Grover Beach, CA 93433)
    1. [**5Cities Homeless Coalition**](Directory.md#5CHC)
       - What’s Available: Case management and financial assistance for rent, deposit, and immediate needs based on variety of funding grants
          - "Examples of assistance include support with utilities, transportation, auto repairs, clothing, and employment readiness. These funds can be used to pay for bills, or for goods or services; however no funds are given directly to the individual."

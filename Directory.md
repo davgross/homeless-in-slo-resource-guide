@@ -2912,6 +2912,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Location: 1050 Monterey St., Room 220, SLO <a class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Court Self-Help Services">Map</a>
 - Phone: [805-706-3617](tel:+1-805-706-3617)
 - Hours: M–F 8:30am–4:30pm
+- How to access: Phone, or make an appointment at [calendly.com/self-help-center](https://calendly.com/self-help-center/)
 - Notes: Includes “Family Law Facilitator” and “Self-Help Center”
 
 ## <a id="SLO-Credit-Union">SLO Credit Union</a>
