@@ -513,6 +513,33 @@ a.map-link:focus {
   outline-offset: 1px;
 }
 
+/* Blockquotes - Callouts/Asides */
+blockquote {
+  margin: var(--spacing-lg) 0;
+  padding: var(--spacing-md) var(--spacing-lg);
+  padding-left: calc(var(--spacing-lg) + 8px);
+  border-left: 4px solid var(--secondary-color);
+  background-color: #f0f9ff; /* Light blue background */
+  border-radius: 4px;
+  font-style: normal;
+  color: #1e3a8a; /* Darker blue text for better contrast */
+}
+
+blockquote p {
+  margin-bottom: var(--spacing-sm);
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Nested blockquotes */
+blockquote blockquote {
+  margin: var(--spacing-sm) 0;
+  border-left-color: #fbbf24; /* Orange for nested */
+  background-color: #fffbeb; /* Light yellow background */
+}
+
 /* Lists */
 ul, ol {
   margin-left: var(--spacing-lg);

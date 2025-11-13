@@ -2322,7 +2322,7 @@ Additional options include expedited service (add $60) and 1–2 day delivery af
 
 **Where to apply in SLO County:**
 
-- **SLO County Libraries** (by appointment only; for new applicants and those with passports expired more than 5 years):
+- **SLO County Libraries** (by appointment only; for new applicants, those with passports that expired more than five years ago, or those whose passport has been lost):
    - [**Arroyo Grande Library**](Directory.md#SLO-County-Public-Libraries): Wednesday, Friday, Saturday
    - [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries): Tuesday–Saturday, 10am–4pm
    - [**SLO City/County Library**](Directory.md#SLO-County-Public-Libraries): Thursday, Friday, Saturday
@@ -2511,9 +2511,9 @@ Credit unions in SLO County include:
 Some ordinary banks offer “Bank On Certified Accounts” which are savings or checking accounts that are more affordable, have small minimum balances, and have no overdraft fees.
 You can search for banks that offer such accounts at [joinbankon.org](https://joinbankon.org/accounts/).
 
-> See [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) if you do not have a stable address and you need an address you can use while establishing a bank account.
+> See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) section of this guide if you do not have a stable address and you need an address you can use while establishing a bank account.
 
-> See [IDs and other documents](#ids-and-other-documents) section for information on how to obtain required identification and other documentation.
+> See the [IDs and other documents](#ids-and-other-documents) section of this guide for information on how to obtain required identification and other documentation.
 
 **Tips for how to succeed in establishing a bank account:**
 
@@ -2709,49 +2709,46 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 
 ## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">Navigating Social Security / SSDI / SSI / Survivors Benefits</a>
 
-> See [Social Security Numbers or Cards](#social-security-numbers-or-cards) for information about how to get a Social Security number or to get or replace a Social Security card.
+> See the [Social Security Numbers or Cards](#social-security-numbers-or-cards) section of this guide to learn how to get a Social Security number or to get or replace a Social Security card.
 
-<!-- To-do: prosify this list -->
+Note: in 2025, Social Security stopped issuing paper checks.
+Now they use direct deposit to bank accounts or issue a “Direct Express” prepaid debit card.
 
-1. Important 2025 Updates
-   - SS has stopped issuing paper checks in favor of direct deposit to bank accounts or the "Direct Express" prepaid debit card
-   - New phone application option: Starting April 14, 2025, individuals applying for SSDI, Medicare, or SSI who cannot use personal my Social Security accounts can complete applications entirely over the telephone without office visits
-   - Reduced in-person requirements: In-person identity proofing only required for Retirement, Survivors, or Auxiliary benefits (spouse or child benefits)
-   - Exception policy: SSA will not enforce strict requirements in extreme dire-need situations (terminal cases, prisoner pre-release scenarios)
-1. Rights for Homeless Individuals
-   - Equal access: Homeless individuals have the same rights and privileges in applying for SSI benefits as housed individuals
-   - Mail drop arrangements: You may use any address as a mail drop where you can pick up mail from Social Security
-   - No residency requirements: Lack of permanent address cannot be used to deny benefits
-1. SSI (Supplemental Security Income)—2025 Information
-   - Eligibility requirements
-      - Income limits: In 2025, eligible if total income is less than $987 per month (includes other Social Security benefits plus $20 allowance)
-      - Disability/age requirements: Must be 65 or older, blind, or disabled
-      - Housing situations: Eligible even if living in emergency shelter or transitional housing
-   - Institutional exclusions: Not eligible for SSI if in government-run institution for full month (exceptions include public emergency shelters and community residences)
-1. SSDI (Social Security Disability Insurance)—2025 Information
-   - Work history requirements: Must have worked and paid Social Security taxes for required quarters
-      - Specific requirements: Generally need 20 credits (5 years of work) in the 10 years before disability onset (20/40 rule); younger workers have reduced requirements
-      - Age-based variations: Before age 24 need 6 credits in 3 years; ages 24–31 need credits for half the years since age 21; ages 31+ need minimum 20 credits
-      - How to check: Call Social Security at [800-772-1213](tel:+1-800-772-1213) or create account at ssa.gov/myaccount to view your work credit history
-   - Substantial gainful activity limits: In 2025, earning more than $1,620/month ($2,700 if blind) generally disqualifies disability determination
-   - Application process: Can be completed entirely by phone as of April 14, 2025
-1. Survivors Benefits
-   - Application method: Cannot apply online; must call Social Security at [800-772-1213](tel:+1-800-772-1213) (TTY 800-325-0778) to request appointment
-   - Eligibility: For surviving spouses, surviving divorced spouses, and dependent children
-   - Timing: Should contact Social Security immediately after death occurs
+> See the [Banks and Credit Unions](#banks-and-credit-unions) section of this guide for information on how to establish a bank account.
+
+There are a number of programs operated by the Social Security Administration, including:
+
+- **Social Security** — monthly payments from the government to people who have reached retirement age, and who paid into the social security system while they were working
+- **Social Security Disability Insurance** (SSDI) — monthly payments from the government to people who cannot work because they are disabled, and who paid into the social security system while they were working
+- **Supplemental Security Income** (SSI) — monthly payments from the government to disabled people and to seniors who have limited means
+
+Homeless people have the same rights as anyone else to apply for these payments.
+You do not have to have a permanent address to receive benefits.
+
+You may be entitled to certain benefits even if you did not pay into the social security system, if your spouse or ex-spouse did.
+You may need to appear at the Social Security Administration office in person to apply for such spousal or survivors benefits.
+
+> See the [Mail drops](#mail-drops-post-office-boxes-etc) section of this guide for information on establishing a mailing address.
+
+You can apply for these benefits through the local [**Social Security Administration**](Directory.md#Social-Security-Administration) office either in person or by phone.
+You can also [apply on-line](https://www.ssa.gov/apply) at the Social Security Administration’s website.
+If you have a case worker, ask them if they can help you through the process or refer you to someone who can.
+
+If you have a disability and are applying for Social Security Disability Insurance, you may be able to get some immediate financial help from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services)’ “General Assistance Disabled Program” while you wait for your application to be processed.
+They may also be able to assign you a “Benefits Arch Advocate” who can help you apply for SSI and SSDI.
+
+<!-- SOAR was apparently a victim of the Trump administration
 1. [SOAR Program—Specialized Support for Homeless Individuals](https://www.samhsa.gov/communities/homelessness-programs-resources/grants/soar)
    - What it is: SSI/SSDI Outreach, Access, and Recovery program specifically designed for homeless individuals
-   - Services provided: faster benefit decisions; knowledgeable support
    - Eligibility: For individuals experiencing or at risk of homelessness with serious mental illness, medical impairment, and/or substance use disorder
-   - Availability: Services available in all 50 states
    - Provider: SAMHSA (Substance Abuse and Mental Health Services Administration)
    - Local SOAR contacts:
       - Contact [**CAPSLO**](Directory.md#CAPSLO) (40 Prado Homeless Services Center): [805-544-4004](tel:+1-805-544-4004) - may have SOAR-trained staff for SSI/SSDI application assistance
-      - Contact Daisy Wiberg, SLO City Homelessness Response Manager: [805-781-7025](tel:+1-805-781-7025) or [dwiberg@slocity.org](mailto:dwiberg@slocity.org) for referrals to SOAR services <!-- Source: [slocity.org](https://www.slocity.org/living/neighborhood/homelessness) -->
+      - Contact Daisy Wiberg, SLO City Homelessness Response Manager: [805-781-7025](tel:+1-805-781-7025) or [dwiberg@slocity.org](mailto:dwiberg@slocity.org) for referrals to SOAR services
       - **North County SOAR Services** (pending human review): [**TMHA (Transitions-Mental Health Association)**](Directory.md#TMHA) operates the Homeless Outreach Team (HOT) which works with homeless individuals struggling with mental health issues to link them to services including SSI/SSDI application assistance; TMHA has an Atascadero location (Life House) at 5850 West Mall, Atascadero; contact main office at [805-540-6500](tel:+1-805-540-6500). [**ECHO**](Directory.md#ECHO) shelters in Paso Robles and Atascadero offer comprehensive services including case management and connections to TMHA and other service providers who can assist with SSI/SSDI applications. Source: [t-mha.org](https://www.t-mha.org/) and [echoshelter.org](https://www.echoshelter.org/)
       - **211** can also provide referrals to local SOAR-trained providers
-      - For SOAR training information: visit [soarworks.samhsa.gov](https://soarworks.samhsa.gov/)
-      - Note: Federal support for the SOAR TA Center ended in 2025 <!-- Source: [samhsa.gov](https://www.samhsa.gov/communities/homelessness-programs-resources/grants/soar) -->
+-->
+<!-- To-do: prosify this stuff: -->
 1. Application Process Tips
    - Gather documentation: Collect medical records, work history, and identification before applying
       - Identity verification: Digital identity proofing online or in-person verification required
@@ -2761,20 +2758,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    - Use support services: Work with case managers, SOAR-trained providers, or disability advocates
    - Apply early: Process can take months; apply as soon as you become disabled or reach eligibility age
    - Don't give up: Initial denials are common; appeals process is available and often successful
-1. Contact Information and Resources
-   - National Social Security number: [800-772-1213](tel:+1-800-772-1213) (TTY 800-325-0778)
-   - Online resources: [ssa.gov/homelessness](https://www.ssa.gov/homelessness/) for homeless-specific information
-   - Local Social Security Office (pending human review): The federal [**Social Security Administration**](Directory.md#Social-Security-Administration) office at 3240 S. Higuera St., SLO, serves all of SLO County including North County, North Coast, and South County; hours M–F 9am–4pm; call [855-207-4865](tel:+1-855-207-4865) to schedule appointment.
-   - Local application assistance: Contact 40 Prado, 5CHC, ECHO (North County), TMHA, or other case management services for application support
 1. Special Considerations
-   - Interim assistance: SLO County provides General Assistance Disabled Program for those with disabilities awaiting Social Security approval
-      - GA Disabled Program: Monthly cash assistance while waiting for SSI/SSDI; participants must apply for federal benefits with benefit advocate assistance; benefit advocates available at county offices to assist with SSI/SSDI application process
-      - Application: SLO County Social Services offices; $355 monthly income limit, $500 property limit
-      - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
-      - County-wide access (pending review): Social Services offices located throughout the county including Arroyo Grande, Atascadero, Morro Bay, Nipomo, Paso Robles, and SLO; all offices accept General Assistance applications M–F 8am–5pm (appointments 4–5pm) <!-- Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services) -->
-      - Source: [slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
-   - Back pay: If approved, you may receive back pay from application date
-   - Medicare eligibility: SSDI recipients become eligible for Medicare 24 months after disability determination
    - Work incentives: Various programs allow work while maintaining benefits—ask about Ticket to Work program
       - **Ticket to Work Program**: Free voluntary program for ages 18–64 receiving SSDI/SSI; provides career counseling, job training, placement services through Employment Networks or State VR agencies
       - Protections: Maintains medical benefits while working; protection from medical reviews while using ticket; can return to benefits if work stops
@@ -2924,6 +2908,8 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Target audience relevance: Limited direct services for homeless population; focus on training healthcare providers who may serve this population
       - Future potential: May expand health professions offerings and community health services after 2026 move
       - Sources: [noozhawk.com](https://www.noozhawk.com/a-t-still-university-to-move-central-coast-campus-from-santa-maria/)
+   1. [LearningExpress](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome?authtoken=4DE278CD-C0CB-4ED5-84D4-2DFC47FF903D)
+      - Offered via SLO Library; career and college prep. Some classes in Spanish.
 1. Library Resources and Literacy Programs
    1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
       - Services: Computer access, digital literacy classes, educational programs
@@ -2953,7 +2939,6 @@ Homeless people can use the address of a friend, relative, or trusted service pr
       - Cost: Always free and confidential, no ID required
       - Contact: [805-781-5077](tel:+1-805-781-5077) or complete [online learner form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
       - Schedule: Flexible one-on-one or small group sessions; [virtual conversation group](https://forms.office.com/r/VwERjE3Qmj) also available
-      - Source: [slolibrary.org/index.php/adults/tlc](https://www.slolibrary.org/index.php/adults/tlc)
    1. Lucia Mar Adult Education
       - Cost: Free ESL classes for beginners
       - Locations: Nipomo Learning Center (<a href="#" class="map-link" data-lat="35.042699" data-lon="-120.472062" data-zoom="17" data-label="Nipomo Learning Center">190 E. Price St., Nipomo</a>) & Oceano Community Center (<a href="#" class="map-link" data-lat="35.103145" data-lon="-120.612330" data-zoom="17" data-label="Oceano Community Center">1551 17th St., Oceano</a>)

@@ -1662,10 +1662,10 @@
 
 ## <a id="Literacy-Connection">The Literacy Connection</a>
 
-<!-- Source: https://www.slolibrary.org/index.php/adults/tlc -->
-- [slolibrary.org/index.php/adults/tlc](https://www.slolibrary.org/index.php/adults/tlc)
+- [catalog.slolibrary.org/tlc](https://catalog.slolibrary.org/tlc)
 - Phone: [805-781-5077](tel:+1-805-781-5077)
 - Email: [TLCinfo@slolibrary.org](mailto:TLCinfo@slolibrary.org)
+- How to access: Fill out a form on [the library website](https://catalog.slolibrary.org/tlc)
 - Notes: Program of [**SLO County Public Libraries**](#SLO-County-Public-Libraries)
 
 ## <a id="Little-Free-Libraries">Little Free Libraries</a>
@@ -2763,8 +2763,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Hours: M–F 8am–5pm
 - Notes:
    - operates [**CalWORKS Homeless Assistance Program**](#CalWORKS)
-   - operates “General Assistance Disabled Program”
-   - operates “General Relief / General Assistance”
+   - operates [“General Assistance Disabled Program”](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
+   - operates [“General Relief / General Assistance”](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
    - operates “Temporary Assistance for Needy Families (TANF)”
    - entry-point for “CalFresh / EBT (Food Stamps)”
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
