@@ -10,6 +10,7 @@ import { getStrings } from './strings.js';
 // Import markdown files directly as raw text
 import resourcesMarkdown from '../../Resource guide.md?raw';
 import directoryMarkdown from '../../Directory.md?raw';
+import aboutMarkdown from '../../About.md?raw';
 
 // UI Strings
 const strings = getStrings();
@@ -67,6 +68,7 @@ const state = {
   scrollPositions: {},
   resourcesContent: '',
   directoryContent: '',
+  aboutContent: '',
   directoryEntries: new Map(),
   searchIndex: [],
   currentDirectoryEntry: null
@@ -280,6 +282,7 @@ async function loadMarkdownContent() {
     // Use imported markdown content
     state.resourcesContent = resourcesMarkdown;
     state.directoryContent = directoryMarkdown;
+    state.aboutContent = aboutMarkdown;
 
     // Parse and extract directory entries
     state.directoryEntries = extractDirectoryEntries(directoryMarkdown);
@@ -287,6 +290,7 @@ async function loadMarkdownContent() {
     // Render content
     renderResources();
     renderDirectory();
+    renderAbout();
 
     // Build search index
     buildSearchIndex();
@@ -478,6 +482,22 @@ function renderDirectory() {
 
   // Add share buttons to directory section headings
   addSectionShareButtons(section, 'directory');
+}
+
+// Render about section
+function renderAbout() {
+  const section = document.getElementById('about-section');
+
+  // Parse markdown
+  let html = marked.parse(state.aboutContent);
+
+  // Sanitize HTML
+  html = DOMPurify.sanitize(html);
+
+  section.innerHTML = html;
+
+  // Enhance all links
+  enhanceLinks(section);
 }
 
 // Setup directory link click handlers
