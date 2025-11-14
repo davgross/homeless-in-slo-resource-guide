@@ -4,7 +4,8 @@ This resource guide helps people experiencing homelessness in San Luis Obispo Co
 
 ## How to Report Errors or Suggest Improvements
 
-We want this guide to be as accurate and helpful as possible. If you find outdated information, errors, or want to suggest improvements:
+We want this guide to be as accurate and helpful as possible.
+If you find outdated information, errors, or want to suggest improvements:
 
 - Click the feedback button (💬) in the bottom-right corner of the screen
 - Fill out the feedback form with details about the issue or suggestion
@@ -18,7 +19,9 @@ This guide is a project of [Shower the People](https://showerthepeopleslo.org/),
 
 ## Disclaimer
 
-This guide is provided for informational purposes only. While we strive to keep information current and accurate, services, hours, and eligibility requirements may change. Please contact organizations directly to verify details before visiting.
+This guide is provided for informational purposes only.
+While we strive to keep information current and accurate, services, hours, eligibility requirements, and other details may change.
+Please contact organizations directly to verify details before visiting.
 
 ## Open-Source Libraries and Fonts
 

@@ -478,8 +478,8 @@
 ## <a id="California-Rural-Legal-Assistance">California Rural Legal Assistance (CRLA)</a>
 
 - [crla.org](https://www.crla.org/)
-- Location: 1880 Santa Barbara Ave. #240, SLO <a href="#" class="map-link" data-lat="35.275127" data-lon="-120.656168" data-zoom="17" data-label="California Rural Legal Assistance">Map</a>
-- Phone: [805-544-7994](tel:+1-805-544-7994)
+- Location: 1880 Santa Barbara Ave. #240, SLO <a href="#" class="map-link" data-lat="35.275127" data-lon="-120.656168" data-zoom="17" data-label="California Rural Legal Assistance">Map</a> <!-- Source: https://crla.org/locations -->
+- Phone: [805-544-7994](tel:+1-805-544-7994) <!-- Source: https://crla.org/locations -->
 - Hours: M–Th 9am–12pm & 1pm–5pm, F 1pm–5pm
 
 ## California Telephone Access Program (CTAP)
@@ -622,7 +622,7 @@
 - Phone:
    - Main: [805-541-9110](tel:+1-805-541-9110)
    - Paso Robles: [805-541-9120](tel:+1-805-541-9120) (to schedule appointments)
-   - Immigration Services: [831-722-2675](tel:+1-831-722-2675)
+   - Immigration and Citizenship Program: [831-722-2675](tel:+1-831-722-2675)
    - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Note: Tattoo removal office is in Santa Cruz, not SLO)
 - Hours:
    - SLO offices: M–F 8am–5pm (call to confirm hours for specific location)
@@ -2561,7 +2561,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - [montereylaw.edu/clinics/indexslocl.html](https://montereylaw.edu/clinics/indexslocl.html)
 - Location: 4119 Broad St. #200, SLO <a class="map-link" data-lat="35.245787" data-lon="-120.642691" data-zoom="17" data-label="SLO College of Law Legal Clinic">Map</a>
-- Phone: [805-548-8884](tel:+1-805-548-8884)
+- Phone: [805-902-2752](tel:+1-805-902-2752)
+- Email: [mclworkshops@montereylaw.edu](mailto:mclworkshops@montereylaw.edu)
 - Hours: M–Th 9am–3pm (scheduling); consultations Tu 4:30–6:30pm
 
 ## <a id="Santa-Margarita-KOA-Holiday">Santa Margarita KOA Holiday</a>

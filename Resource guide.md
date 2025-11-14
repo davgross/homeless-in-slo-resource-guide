@@ -1966,20 +1966,23 @@ The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can he
 
 ### <a id="benefits-legal">Help with benefits, wrangling with health insurers, et cetera</a>
 
+> See the [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits) section for advice specific to those programs.
+
 [**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options.
 HiCAP can also help you file Medicare denial appeals or make Medicare fraud referrals.
 To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties.
 HiCAP is free.
 
+Central California Legal Services’s Health Consumer Center program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment.
+
 <!--
-To-do: cross reference e.g. social security section?
 To-do: add more stuff about e.g. ombudsmen who can help you with health insurance denial or other denials of benefits.
 -->
 
 <!-- To-do:
 ### <a id="liability-law">Injury liability / workers' compensation</a>
 
-- Note: Local injury liability and workers' compensation attorneys not extensively researched in this guide as of August 2025. For current resources, contact SLO County Bar Association referral service or search for contingency fee attorneys who handle cases without upfront costs.
+- Note: Local injury liability and workers' compensation attorneys not yet researched. For current resources, contact SLO County Bar Association referral service or search for contingency fee attorneys who handle cases without upfront costs.
 -->
 
 ### <a id="consumer-protection">Consumer protection</a>
@@ -2014,7 +2017,7 @@ If you are the victim of sexual assault or intimate partner violence, [**Lumina 
 [**CASA (Court Appointed Special Advocates)**](Directory.md#CASA) helps to advocate on behalf of abused or neglected children in the court system.
 CASA advocates are court-appointed; you cannot request their services directly.
 
-<!-- This isn't "legal help" exactly: move it somewhere else
+<!-- To-do: This isn't "legal help" exactly: move it somewhere else
 If you are an adult who is dependent on others, and you are subjected to abuse or neglect—or if you know of another adult in such a situation—you can get help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services).
 Make emergency calls to [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm) or [844-729-8011](tel:+1-844-729-8011) (all other hours).
 -->
@@ -2060,46 +2063,25 @@ Call to make an appointment for a telephone consultation.
 
 U.S. military veterans can get help from the [StateSideLegal](https://www.statesidelegal.org/) website, which has information about how to file benefits claims and denial appeals, how to defend civil rights claims, and other legal matters.
 
-### <a id="legal-consultation">Legal Consultation</a>
+### <a id="legal-consultation">Legal Consultation in General</a>
 
-<!-- To-do: prosify this list -->
+If you need to confer with a lawyer or other legal consultant, you have several options.
 
-1. [**SLO County Bar Association Legal Services**](Directory.md#SLO-County-Bar-Association)
-   - [Attorney Referral Service](https://slobar.org/Information-and-referral-service/):
-      - What's Available: Attorney referrals matched to specific legal needs, initial 30-minute consultation included
-      - Cost: $50 administrative fee (waived for personal injury, worker's compensation, and criminal law cases)
-      - Process: Confidential phone interview → assessment → attorney referral
-      - Quality assurance: All attorneys in good standing, carry malpractice insurance, meet experience requirements
-      - Access: Phone interview or online request form at slobarlris.org
-      - Phone: [805-541-5502](tel:+1-805-541-5502), M–Th 9am–1pm
-      - Email: [LRIS@slobar.org](mailto:LRIS@slobar.org)
-1. [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation)
-   - What's Available: Free legal assistance for civil and family law matters; housing (landlord/tenant, evictions, fair housing discrimination, habitability, accessibility, foreclosure prevention)
-   - Eligibility: Low-income residents of SLO County, including seniors (60+), veterans, people with disabilities; no immigration status/documentation required
-1. [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance)
-   - What's Available: Civil law cases including housing, labor and employment, education, and civil rights
-   - Specializes in: Individuals with disabilities, immigrant populations, school children, LGBTQ+ individuals, seniors, and people with limited English proficiency
-   - Special programs:
-      - Tenant's Rights Workshop—2nd & 4th Tuesday of each month, 9am–12pm (SLO office)
-      - Drop-in Legal Clinics at Paso Robles City Library: Bi-monthly legal clinics, 2nd & 4th Thursday of each month; location: <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="Paso Robles City Library">1000 Spring St., Paso Robles</a>; provides free civil legal advice for low-income North County residents. Source: [crla.org](https://www.crla.org/)
-   - Source: [crla.org/locations/san-luis-obispo](https://crla.org/locations/san-luis-obispo)
-1. [5Cities Homeless Coalition Legal Services](https://5chc.org/community-services/legal-services)
-   - What’s Available: Free legal services regardless of citizenship status
-   - Website/Location/Email: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-   - Access: Call or email for appointment: [805-543-5140](tel:+1-805-543-5140)
-1. [Central California Legal Services](https://centralcallegal.org/)
-   - "Central California Legal Services is a private, not-for-profit, public interest law firm established for the purpose of providing free civil legal assistance to low-income individuals, families, organizations and communities."
-   - [559-570-1200](tel:+1-559-570-1200) / [800-675-8001](tel:+1-800-675-8001) for legal advice & referral (M–F 9am–12pm & 1–2:30pm)
-   - Has some physical offices, but none in SLO County
-   - Eligibility: "central valley residents and seniors age 60 and over"; income below 125% (for some services 200%) of the federal poverty level (no income eligibility requirements for central valley seniors or for those seeking assistance for certain health-related matters); helps with civil cases, not criminal ones
-   - Note: Central California Legal Services primarily serves Fresno, Tulare, Kings, Merced, Tuolumne, and Mariposa Counties. *Limited* services are available in SLO County through their Health Consumer Alliance partnership, specifically for healthcare access concerns only, not general civil legal services. SLO County residents should contact other legal aid organizations listed in this guide for most civil legal needs.
-      - Source: [centralcallegal.org](https://centralcallegal.org/about-us/)
-1. [**ACLU of Southern California**](Directory.md#ACLU)
-    - What’s Available: Free legal assistance for civil liberties and civil rights cases; "Know Your Rights" guides
-    - Coverage: Serves SLO County and other Southern California counties
-    - Note: Limited resources focused on systemic change cases; does not accept walk-ins; seek help online first
+The [**SLO County Bar Association**](Directory.md#SLO-County-Bar-Association)’s [Attorney Referral Service](https://slobar.org/Information-and-referral-service/) can help you find a lawyer who is most appropriate to your case.
+This service is free for personal injury, worker’s compensation, and criminal law cases, but costs $50 otherwise.
+
+The [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) provides free legal assistance on civil law and family law (not criminal law) matters to low-income people in SLO County.
+
+[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) provides free civil law (not criminal law) services to low-income people in SLO County.
+
+[**People’s Justice Project**](Directory.md#Peoples-Justice-Project) is a non-profit law firm that can provide affordable legal representation to people with low- or moderate-income in criminal law or civil rights cases.
 
 U.S. military veterans can use the [StateSideLegal](https://www.statesidelegal.org/) website’s [Veterans Legal Help Navigator](https://www.statesidelegal.org/helpnavigate?clear=true) to find legal representatives that best match the needs of your case.
+
+[**ACLU of Southern California**](Directory.md#ACLU) can provide limited legal advice in civil liberties and civil rights cases.
+It has limited resources and typically focuses on specific cases which it hopes to leverage to prompt systemic changes.
+It does not accept walk-ins.
+It offers several free [Know Your Rights](https://www.aclusocal.org/en/know-your-rights) guides, but note that these can be more reflective of what the ACLU believes your legal rights are on paper than what the law enforcement system actually respects.
 
 ### <a id="family-law">Family Law / Child Support</a>
 
@@ -2111,52 +2093,20 @@ If you are filing a family law case, you can get free help from [**SLO Court Sel
 
 ### <a id="immigration-law">Immigration Law</a>
 
-<!-- To-do: prosify this list -->
+[**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) operates Dream (or Monarch) Centers at local colleges (Cal Poly, Cuesta, and Allan Hancock).
+These centers help students with (among other things) DACA application assistance and other legal help.
 
-1. [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success)
-    - Services: Legal support (DACA/asylum/citizenship), mental health counseling, financial aid guidance
-    - Coverage: Northern Santa Barbara and San Luis Obispo Counties
-    - Contact: Cal Poly DREAM Center, Cuesta Monarch DREAM Center ([805-546-3109](tel:+1-805-546-3109)), Allan Hancock ([805-922-6966&#xA0;x3177](tel:+1-805-922-6966;ext=3177))
-    - Cross-reference: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
-1. [**Catholic Charities**](Directory.md#Catholic-Charities) (Legal Aid Services)
-   - Services: Immigration and housing legal assistance
-   - Cost: Sliding scale based on income
-   - Eligibility: Available to all regardless of faith background; focus on low-income individuals
-   - Source: [slocll.org/self-help-2/legal-help](https://www.slocll.org/self-help-2/legal-help/)
-1. [**People’s Justice Project**](Directory.md#Peoples-Justice-Project)
-   - Services: Immigration legal services, citizenship eligibility screening, U.S. citizenship applications, criminal defense, civil legal services
-   - Eligibility: Santa Barbara and San Luis Obispo County residents; free consultation available
-   - Note: 501(c)(3) nonprofit providing lower-cost legal representation
-1. Unitarian Universalist Refugee and Immigrant Services Education (UURISE)
-   - Services: general immigration legal consultation, DACA renewal, naturalization (citizenship), green card renewal or replacement, FOIA, emergency safety planning, referrals to local partner agencies
-   - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
-   - Hours: 1st & 3rd Sunday each month, 12:30–2:30pm; Appointments required (call [805-439-0188](tel:+1-805-439-0188) x4)
-   - Website: [uuslo.org/Immigration-Legal-Services](https://uuslo.org/Immigration-Legal-Services)
-1. California Farmworker Foundation
-   - Services: Education (Nueva Generación Scholarship program), health & wellness, civil assistance including immigration support
-   - Note: Primarily serves farmworkers in Fresno, Kern, Kings, Madera, and Tulare Counties; contact them to confirm services available to SLO County residents
-   - Website: [californiafarmworkers.org](https://californiafarmworkers.org/)
-   - Email: [info@californiafarmworkers.org](mailto:info@californiafarmworkers.org)
-1. Immigrant Hope Arroyo Grande
-   - Services: Immigration legal advice
-   - Note: Unable to verify specific services from their website (as of October 2025); contact them directly for details about programs and eligibility
-   - Website: [immigranthopeag.org](https://immigranthopeag.org/)
-   - Location: 9<a href="#" class="map-link" data-lat="35.118437" data-lon="-120.592866" data-zoom="17" data-label="Immigrant Hope">95 E. Grand Ave., Arroyo Grande</a>
-   - Phone: [805-221-4319](tel:+1-805-221-4319)
-1. IMPORTA
-   - Note: Unable to verify specific services from their website (as of October 2025); contact them directly for details about programs and eligibility
-   - Website: [www.importasb.org](https://www.importasb.org/)
-   - Location: <a href="#" class="map-link" data-lat="34.937584" data-lon="-120.432413" data-zoom="17" data-label="IMPORTA">327 E. Plaza Dr., Santa Maria</a>
-   - Phone: [805-619-0644](tel:+1-805-619-0644)
-   - Hours: M–Th 10am–noon & 1–5pm
-1. SLO College of Law Immigration Clinic
-   - Services: DACA renewal, U-Visa, T-Visa, VAWA-Visa, citizenship, naturalization, green card application
-   - Website: [montereylaw.edu/clinics/immigrationclinic.html](https://montereylaw.edu/clinics/immigrationclinic.html)
-   - Email: [mclworkshops@montereylaw.edu](mailto:mclworkshops@montereylaw.edu)
-   - Phone: [831-582-3600](tel:+1-831-582-3600)
-   - Hours: Mondays 4–6pm by telephone or Zoom
-   - Cost: $15
-   - How to access: Reserve a spot [here](https://montereylaw.edu/clinics/immigrationclinic.html) or by calling [831-582-3600](tel:+1-831-582-3600)
+[**Catholic Charities**](Directory.md#Catholic-Charities) has an [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/) to help people with issues such as U.S citizenship applications, immigration status changes, DACA, U-Visas, VAWA-Visas, and consular visa processes.
+
+[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) hosts the [Unitarian Universalist Refugee and Immigrant Services Education (UURISE)](https://uuslo.org/Immigration-Legal-Services) program, which offers free or low-cost immigration legal services.
+
+[Immigrant Hope Arroyo Grande](https://immigranthopeag.org/) is an immigration legal services center that can help you with naturalization, consular processing, immigration status changes, temporary protective status, DACA, green card renewals, and visas.
+To schedule a consultation, call [805-221-4319](tel:+1-805-221-4319), use their [web contact form](https://immigranthopeag.org/contact-us/), or visit their office (<a href="#" class="map-link" data-lat="35.118437" data-lon="-120.592866" data-zoom="17" data-label="Immigrant Hope">995 E Grand Ave, Arroyo Grande</a>).
+
+[**SLO College of Law**](SLO-College-of-Law-Legal-Clinic) holds [immigration clinics](https://montereylaw.edu/clinics/immigrationclinic.html) by telephone or Zoom on Mondays between 4pm and 6pm.
+They can help you with DACA renewal, visas, naturalization/citizenship, and green cards.
+This costs $15.
+Schedule an appointment at their website or by calling [831-582-3600](tel:+1-831-582-3600).
 
 [**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some free [immigration resources](https://selfhelp.courts.ca.gov/immigration).
 
@@ -2705,7 +2655,7 @@ Homeless people can use the address of a friend, relative, or trusted service pr
    1. HelpSLO: Community assistance network [localwiki.org/slo/HelpSLO](https://localwiki.org/slo/HelpSLO)
    1. [Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) a.k.a. “Joni & Friends”
 
-*See also*: [Banking and money management](#financial-literacy) section for Financial Literacy / Credit Counseling resources
+> See the [Banking and money management](#financial-literacy) section for Financial Literacy / Credit Counseling resources
 
 ## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">Navigating Social Security / SSDI / SSI / Survivors Benefits</a>
 
