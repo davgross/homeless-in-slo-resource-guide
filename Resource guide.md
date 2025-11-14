@@ -2100,8 +2100,7 @@ These centers help students with (among other things) DACA application assistanc
 
 [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) hosts the [Unitarian Universalist Refugee and Immigrant Services Education (UURISE)](https://uuslo.org/Immigration-Legal-Services) program, which offers free or low-cost immigration legal services.
 
-[Immigrant Hope Arroyo Grande](https://immigranthopeag.org/) is an immigration legal services center that can help you with naturalization, consular processing, immigration status changes, temporary protective status, DACA, green card renewals, and visas.
-To schedule a consultation, call [805-221-4319](tel:+1-805-221-4319), use their [web contact form](https://immigranthopeag.org/contact-us/), or visit their office (<a href="#" class="map-link" data-lat="35.118437" data-lon="-120.592866" data-zoom="17" data-label="Immigrant Hope">995 E Grand Ave, Arroyo Grande</a>).
+[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) is an immigration legal services center that can help you with naturalization, consular processing, immigration status changes, temporary protective status, DACA, green card renewals, and visas.
 
 [**SLO College of Law**](SLO-College-of-Law-Legal-Clinic) holds [immigration clinics](https://montereylaw.edu/clinics/immigrationclinic.html) by telephone or Zoom on Mondays between 4pm and 6pm.
 They can help you with DACA renewal, visas, naturalization/citizenship, and green cards.
@@ -2129,21 +2128,15 @@ You can also ask for more information by email at [litc@calpoly.edu](mailto:litc
 
 ### <a id="legal-miscellany">Miscellany</a>
 
-<!-- To-do: prosify this list -->
+> See the [Advance Directives](#advance-directives) section of this guide for help on how to make legally-binding advance directives such as Advance Care Directives, Healthcare Power of Attorney, Physician Orders for Life-Sustaining Treatment (POLST), Do Not Resuscitate (DNR) orders, and organ donation authorizations.
 
-1. [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department)
-    - What’s Available: Protection from unlawful discrimination in housing, employment, businesses, state-funded programs; hate violence reporting
-    - How to file complaints: Online through CCRS (California Civil Rights System), check complaint status online
-    - Additional services: Mediation services
-1. Help with advance care directives, wills
-   - See medical section above, but also add stuff about wills in particular
-1. [ADA](https://www.ada.gov/) (Americans with Disabilities Act)
-   - What’s Available: Information about disability rights, complaint filing for discrimination, legal resources
-   - Contact: ADA Information Line [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264))
-   - Hours: M, Tu, W, F: 9:30am–12pm & 3pm–5:30pm ET; Th: 2:30pm–5:30pm ET
-   - How to file complaints: Online at ADA.gov, paper form, or letter to Department of Justice Civil Rights Division
-   - Address: U.S. Department of Justice Civil Rights Division, 950 Pennsylvania Avenue, NW, Washington, DC 20530
-   - Services: Complaint review, mediation program, enforcement activities
+The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) enforces California’s laws against certain forms of discrimination in employment, housing, business, and services, and against hate crimes and human trafficking.
+If you believe you have been treated illegally in ways like these, you can [file a discrimination complaint](https://calcivilrights.ca.gov/complaintprocess/), [report a hate crime](https://stophate.calcivilrights.ca.gov/s/) with them and request that they investigate.
+
+The Americans with Disabilities Act protects people who have disabilities from discrimination.
+The [ada.gov](https://www.ada.gov/) website explains this Act and how you can enforce your rights under it.
+That site also shows you how to [file an official complaint](https://www.ada.gov/file-a-complaint/).
+You can also reach the U.S. Department of Justice’s Americans with Disabilities Act section at [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264)) or [Disability.Outreach@usdoj.gov](mailto:Disability.Outreach@usdoj.gov).
 
 ## <a id="ids-and-other-documents">IDs and Other Documents</a> (How to Obtain, Replace, Secure)
 
@@ -2244,54 +2237,43 @@ If you have a lawyer, that lawyer may be able to search for these documents on-l
 A U.S. passport is required for international travel to most countries outside the United States.
 You need a passport to travel by air, land, or sea to most international destinations.
 
-#### Getting a passport for the first time
+#### <a id="first-time-passport">Getting a passport for the first time</a>
 
 To apply for your first U.S. passport, you must apply in person at an authorized passport acceptance facility.
 You cannot apply by mail for a first-time passport.
+It costs $165 total ($130 application fee + $35 execution fee) to apply for an adult passport.
+You must bring the following documents:
 
-**Required documents:**
-
-1. Proof of U.S. citizenship (original document required):
-   - Certified U.S. birth certificate with official seal, or
-   - Certificate of Naturalization, or
-   - Certificate of Citizenship, or
-   - Consular Report of Birth Abroad, or
-   - Previous U.S. passport
-   - Note: Digital or mobile birth certificates are not accepted; you must submit a physical document
-2. Photo identification with your picture (original required):
-   - Valid driver's license or enhanced driver's license with photo (most common), or
-   - Government employee ID, or
-   - U.S. military ID, or
-   - Certificate of Naturalization or Citizenship
+1. Proof of U.S. citizenship (Certified U.S. birth certificate with official seal, or Certificate of Naturalization, or Certificate of Citizenship, or Consular Report of Birth Abroad, or a previous U.S. passport)
+   - Note: Digital or mobile birth certificates are not accepted; you must bring a physical birth certificate
+2. A photo identification with your picture (driver's license, government employee ID, U.S. military ID, or Certificate of Naturalization or Citizenship)
+   - Note: Digital or photocopied documents are not accepted; you must bring the original document
    - You must also submit photocopies of the front and back of your ID
-3. Recent passport photo that meets official requirements
-4. Completed Form DS-11 (do not sign until instructed by the passport agent)
+3. A recent passport photo that meets official requirements
+4. A completed Form DS-11 (do not it sign until you are instructed to do so by the passport agent)
 
-**Cost:** $165 total for an adult passport book ($130 application fee + $35 execution fee)
-Additional options include expedited service (add $60) and 1–2 day delivery after mailing (add $22.05).
-
-**Where to apply in SLO County:**
-
-- **SLO County Libraries** (by appointment only; for new applicants, those with passports that expired more than five years ago, or those whose passport has been lost):
-   - [**Arroyo Grande Library**](Directory.md#SLO-County-Public-Libraries): Wednesday, Friday, Saturday
-   - [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries): Tuesday–Saturday, 10am–4pm
-   - [**SLO City/County Library**](Directory.md#SLO-County-Public-Libraries): Thursday, Friday, Saturday
-   - Library execution fee: $35
-   - Call your preferred library to schedule an appointment
-- **Post Offices** (call ahead for appointment):
-   - Arroyo Grande, <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a> <!-- Note: Unable to verify direct phone number from reputable online sources; contact via general USPS line 800-275-8777 or visit location -->
-   - Atascadero, <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> <!-- Note: Unable to verify direct phone number from reputable online sources; contact via general USPS line 800-275-8777 or visit location -->
-   - Cambria, <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a> <!-- Note: Unable to verify direct phone number from reputable online sources; contact via general USPS line 800-275-8777 or visit location -->
-   - Morro Bay, <a href="#" class="map-link" data-lat="35.366647" data-lon="-120.847324" data-zoom="17" data-label="Post Office">898 Napa Ave.</a> <!-- Note: Unable to verify direct phone number from reputable online sources; contact via general USPS line 800-275-8777 or visit location -->
-   - Paso Robles, <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a>, [805-237-8342](tel:+1-805-237-8342)
-   - Pismo Beach, <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a>, [805-481-5971](tel:+1-805-481-5971)
-   - San Luis Obispo, <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a>, [805-543-2605](tel:+1-805-543-2605)
-
-**Important note about addresses:** You must provide an address where you can receive your passport by mail.
+You also must provide an address where you can receive your passport by mail.
 If you do not have a stable address, consider using a mail drop service (see the [Mail drops section](#mail-drops-post-office-boxes-etc) of this guide).
 
-**Processing time:** Standard processing takes several weeks; expedited service is available for an additional fee.
-Check current processing times at [travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html).
+You can apply for a passport at the post office.
+Call them to make an appointment:
+
+| City            | Post Office Address | Phone |
+| --------------- | ------------------- | ----- |
+| Atascadero      | <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> | [805-461-6161](tel:+1-805-461-6161) |
+| Cayucos         | <a href="#" class="map-link" data-lat="35.449964" data-lon="-120.903495" data-zoom="17" data-label="Post Office">97 Ash St.</a> | [805-995-3479](tel:+1-805-995-3479) |
+| Grover Beach    | <a href="#" class="map-link" data-lat="35.121670" data-lon="-120.619893" data-zoom="17" data-label="Post Office">917 W. Grand Ave.</a> | [805-489-5138](tel:+1-805-489-5138) |
+| Guadalupe       | <a href="#" class="map-link" data-lat="34.971861" data-lon="-120.571864" data-zoom="17" data-label="Post Office">1030 Guadalupe St.</a> | [805-353-4061](tel:+1-805-353-4061) |
+| Oceano          | <a href="#" class="map-link" data-lat="35.098991" data-lon="-120.611433" data-zoom="17" data-label="Post Office">1800 Beach St.</a> | [805-489-6515](tel:+1-805-489-6515) |
+| Pismo Beach     | <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a> | [805-481-5971](tel:+1-805-481-5971) |
+| San Luis Obispo | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> | [805-543-2605](tel:+1-805-543-2605) |
+
+If you are applying for a new passport, if your passport expired more than five years ago and you need a new one, or if your passport was lost or damaged and you need a new one, you can also apply for a passport at certain [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) branches. <!-- Note: the U.S. State Dept. lists these as Atascadero, Nipomo, and SLO; the SLO County Library website lists these as Arroyo Grande, Atascadero, and SLO -->
+Call them to make an appointment:
+
+- [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries)
+- [**Nipomo Library**](Directory.md#SLO-County-Public-Libraries)
+- [**SLO City Library**](Directory.md#SLO-County-Public-Libraries)
 
 #### Renewing your passport
 
@@ -2304,37 +2286,30 @@ You can renew your passport by mail if all of the following are true:
 - Your passport is in your current name (or you can document a legal name change)
 
 If you meet these requirements, you can renew by mail using Form DS-82.
+This costs $130 for adults.
 You can also renew online at [travel.state.gov](https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html) if you meet additional eligibility requirements.
-
-**Cost for renewal:** $130 for adults (plus optional expedited service fees)
 
 If you cannot renew by mail (for example, if your passport is lost, stolen, damaged, or expired more than five years), you must apply in person using the same process as for a first-time passport.
 
 #### Replacing a lost or stolen passport
 
-**Step 1: Report it immediately**
-Report your passport lost or stolen as soon as possible to protect yourself from identity theft.
-You can report [online using Form DS-64](https://pptform.state.gov/), by calling [877-487-2778](tel:+1-877-487-2778) (TTY [888-874-7793](tel:+1-888-874-7793)), or in person when you apply for a replacement.
+If your passport is lost or stolen, follow these steps to get a new one:
 
-**Important:** Once you report your passport lost or stolen, you cannot use it for travel even if you find it later.
+1. **Report it immediately:**
+  Report your passport lost or stolen as soon as possible.
+  This protects you from identity theft.
+  You can report [online using Form DS-64](https://pptform.state.gov/), by calling [877-487-2778](tel:+1-877-487-2778) (TTY [888-874-7793](tel:+1-888-874-7793)), or in person when you apply for a replacement.
+  Note that if you report your passport lost or stolen, you can no longer use it for travel even if you find it later.
 
-**Step 2: Apply for a replacement**
-To replace a lost or stolen passport, you must apply in person using Form DS-11 at an authorized passport acceptance facility.
-The process and requirements are the same as for a first-time passport application.
-Reporting your passport lost or stolen does not replace it; you must apply separately for a new passport.
-
-**Cost:** $165 total ($130 application fee + $35 execution fee)
-
-#### Resources
-
-- Official U.S. Department of State passport information: [travel.state.gov/passports](https://travel.state.gov/content/travel/en/passports.html)
-- General passport information: [usa.gov/passport](https://www.usa.gov/passport)
-- SLO County library passport services: [slocounty.ca.gov/departments/library/services/passport-application-acceptance](https://www.slocounty.ca.gov/departments/library/services/passport-application-acceptance)
-<!-- Source: [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html), [usa.gov](https://www.usa.gov/passport), [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/library/services/passport-application-acceptance) verified November 2025 -->
+1. **Apply for a replacement:**
+  To replace a lost or stolen passport, apply in person at an authorized passport acceptance facility.
+  The process and requirements are the same as for a first-time passport application ([see above](#first-time-passport)).
+  Reporting your passport lost or stolen does not replace it; to get a replacement you must also apply for a new passport.
+  This costs $165.
 
 #### Passports from other countries
 
-If you are a citizen of another country and need to obtain or renew a passport from your home country, contact your country's embassy or consulate.
+If you are a citizen of another country and you need to obtain or renew a passport from your home country, contact your country's embassy or consulate.
 The nearest consulates for many countries are located in Los Angeles or San Francisco.
 You can find contact information for embassies and consulates at [embassy.goabroad.com](https://embassy.goabroad.com/) or by searching online for your country's embassy or consulate in the United States.
 
@@ -2362,6 +2337,8 @@ You may want to begin by contacting the [**Social Security Administration**](Dir
 This way you can get a California photo ID card, which helps you get access to many programs and services.
 There is an expensive filing fee for this process, but ask about a fee waiver that is available to people with low incomes.
 
+If you have a case manager, ask them if they can help you with this process.
+
 ## <a id="mail-drops-post-office-boxes-etc">Mail Drops, Post Office Boxes, Etc.</a>
 
 If you are homeless, you may be at a loss when asked for your mailing address.
@@ -2379,17 +2356,17 @@ The Postal Service option is the most affordable of the two.
 But sometimes, a "P.O. Box" address (which is what you get from the Postal Service) is not adequate for your needs, and one advantage of the UPS Store option is that it appears as a regular street address (e.g. "1241 Johnson Avenue #1234, San Luis Obispo").
 UPS Store locations with mailbox rental services are available throughout SLO County including:
 
-| UPS Store Location | Phone |
-| ------------------ | ----- |
-| Arroyo Grande: <a href="#" class="map-link" data-lat="35.119852" data-lon="-120.605397" data-zoom="17" data-label="UPS Store">1375 E. Grand Ave. #103</a> | [805-904-6480](tel:+1-805-904-6480) |
-| Atascadero: <a href="#" class="map-link" data-lat="35.483837" data-lon="-120.660562" data-zoom="17" data-label="UPS Store">7343 El Camino Real</a> | [805-466-9015](tel:+1-805-466-9015) |
-| Morro Bay: <a href="#" class="map-link" data-lat="35.368768" data-lon="-120.844887" data-zoom="17" data-label="UPS Store">630 Quintana Rd.</a> | [805-772-9284](tel:+1-805-772-9284) |
-| Nipomo, <a href="#" class="map-link" data-lat="35.038131" data-lon="-120.489689" data-zoom="17" data-label="UPS Store">110 South Mary Ave. #2</a> | [805-929-0055](tel:+1-805-929-0055) |
-| Paso Robles: <a href="#" class="map-link" data-lat="35.616733" data-lon="-120.682645" data-zoom="17" data-label="UPS Store">179 Niblick Rd.</a> | [805-237-8727](tel:+1-805-237-8727) |
-| Pismo Beach: <a href="#" class="map-link" data-lat="35.136200" data-lon="-120.624797" data-zoom="17" data-label="UPS Store">567 Five Cities Dr.</a> | [805-295-6581](tel:+1-805-295-6581) |
-| SLO: <a href="#" class="map-link" data-lat="35.249339" data-lon="-120.642032" data-zoom="17" data-label="UPS Store">3940 Broad St.</a> | [805-549-0200](tel:+1-805-549-0200) |
-| SLO: <a href="#" class="map-link" data-lat="35.293776" data-lon="-120.671971" data-zoom="17" data-label="UPS Store">793 Foothill Blvd.</a> | [805-541-9333](tel:+1-805-541-9333) |
-| SLO: <a href="#" class="map-link" data-lat="35.282248" data-lon="-120.656089" data-zoom="17" data-label="UPS Store">1241 Johnson Ave.</a> | [805-541-1334](tel:+1-805-541-1334) |
+| City          | UPS Store Location | Phone |
+| ------------- | ------------------ | ----- |
+| Arroyo Grande | <a href="#" class="map-link" data-lat="35.119852" data-lon="-120.605397" data-zoom="17" data-label="UPS Store">1375 E. Grand Ave. #103</a> | [805-904-6480](tel:+1-805-904-6480) |
+| Atascadero    | <a href="#" class="map-link" data-lat="35.483837" data-lon="-120.660562" data-zoom="17" data-label="UPS Store">7343 El Camino Real</a>     | [805-466-9015](tel:+1-805-466-9015) |
+| Morro Bay     | <a href="#" class="map-link" data-lat="35.368768" data-lon="-120.844887" data-zoom="17" data-label="UPS Store">630 Quintana Rd.</a>        | [805-772-9284](tel:+1-805-772-9284) |
+| Nipomo        | <a href="#" class="map-link" data-lat="35.038131" data-lon="-120.489689" data-zoom="17" data-label="UPS Store">110 South Mary Ave. #2</a>  | [805-929-0055](tel:+1-805-929-0055) |
+| Paso Robles   | <a href="#" class="map-link" data-lat="35.616733" data-lon="-120.682645" data-zoom="17" data-label="UPS Store">179 Niblick Rd.</a>         | [805-237-8727](tel:+1-805-237-8727) |
+| Pismo Beach   | <a href="#" class="map-link" data-lat="35.136200" data-lon="-120.624797" data-zoom="17" data-label="UPS Store">567 Five Cities Dr.</a>     | [805-295-6581](tel:+1-805-295-6581) |
+| SLO           | <a href="#" class="map-link" data-lat="35.249339" data-lon="-120.642032" data-zoom="17" data-label="UPS Store">3940 Broad St.</a>          | [805-549-0200](tel:+1-805-549-0200) |
+| SLO           | <a href="#" class="map-link" data-lat="35.293776" data-lon="-120.671971" data-zoom="17" data-label="UPS Store">793 Foothill Blvd.</a>      | [805-541-9333](tel:+1-805-541-9333) |
+| SLO           | <a href="#" class="map-link" data-lat="35.282248" data-lon="-120.656089" data-zoom="17" data-label="UPS Store">1241 Johnson Ave.</a>       | [805-541-1334](tel:+1-805-541-1334) |
 
 Another option is to ask people to send you mail addressed to [“General Delivery”](https://faq.usps.com/s/article/What-is-General-Delivery):
 > *Your Name*<br />
@@ -2399,23 +2376,23 @@ Another option is to ask people to send you mail addressed to [“General Delive
 You can pick up mail that is sent to you via General Delivery from the post office.
 Here are some General Delivery zip codes for our area:
 
-| Post Office     | Pick-up address               | ZIP Code   |
-| --------------- | ----------------------------- | ---------- |
-| Arroyo Grande   | <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a> | 93420‒9999 |
-| Atascadero      | <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> | 93422‒9999 |
-| Cambria         | <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a> | 93428‒9999 |
-| Cayucos         | <a href="#" class="map-link" data-lat="35.449483" data-lon="-120.903533" data-zoom="17" data-label="Post Office">97 Ash Ave.</a> | 93430‒9999 |
-| Grover Beach    | <a href="#" class="map-link" data-lat="35.121670" data-lon="-120.619893" data-zoom="17" data-label="Post Office">917 W. Grand Ave.</a> | 93433‒9999 |
-| Los Osos        | <a href="#" class="map-link" data-lat="35.310118" data-lon="-120.828820" data-zoom="17" data-label="Post Office">1189 Los Osos Valley Rd.</a> | 93402‒9999 |
-| Morro Bay       | <a href="#" class="map-link" data-lat="35.366647" data-lon="-120.847324" data-zoom="17" data-label="Post Office">898 Napa Ave.</a> | 93442‒9999 |
-| Nipomo          | <a href="#" class="map-link" data-lat="35.035132" data-lon="-120.488569" data-zoom="17" data-label="Post Office">630 W. Tefft St.</a> | 93444‒9999 |
-| Oceano          | <a href="#" class="map-link" data-lat="35.098991" data-lon="-120.611433" data-zoom="17" data-label="Post Office">1800 Beach St.</a> | 93445‒9999 |
-| Paso Robles     | <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a> | 93446‒9999 |
-| Pismo Beach     | <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a> | 93449‒9999 |
-| San Luis Obispo | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> (main) | 93401‒9999 |
+| Post Office     | Pick-up Address                                                                                                                                | ZIP Code   |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Arroyo Grande   | <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a>           | 93420‒9999 |
+| Atascadero      | <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a>       | 93422‒9999 |
+| Cambria         | <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a>           | 93428‒9999 |
+| Cayucos         | <a href="#" class="map-link" data-lat="35.449483" data-lon="-120.903533" data-zoom="17" data-label="Post Office">97 Ash Ave.</a>               | 93430‒9999 |
+| Grover Beach    | <a href="#" class="map-link" data-lat="35.121670" data-lon="-120.619893" data-zoom="17" data-label="Post Office">917 W. Grand Ave.</a>         | 93433‒9999 |
+| Los Osos        | <a href="#" class="map-link" data-lat="35.310118" data-lon="-120.828820" data-zoom="17" data-label="Post Office">1189 Los Osos Valley Rd.</a>  | 93402‒9999 |
+| Morro Bay       | <a href="#" class="map-link" data-lat="35.366647" data-lon="-120.847324" data-zoom="17" data-label="Post Office">898 Napa Ave.</a>             | 93442‒9999 |
+| Nipomo          | <a href="#" class="map-link" data-lat="35.035132" data-lon="-120.488569" data-zoom="17" data-label="Post Office">630 W. Tefft St.</a>          | 93444‒9999 |
+| Oceano          | <a href="#" class="map-link" data-lat="35.098991" data-lon="-120.611433" data-zoom="17" data-label="Post Office">1800 Beach St.</a>            | 93445‒9999 |
+| Paso Robles     | <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a>               | 93446‒9999 |
+| Pismo Beach     | <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a>             | 93449‒9999 |
+| San Luis Obispo | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> (main)   | 93401‒9999 |
 | San Simeon      | <a href="#" class="map-link" data-lat="35.612276" data-lon="-121.145205" data-zoom="17" data-label="Post Office">250 San Simeon Ave. Ste 7</a> | 93452‒9999 |
-| Santa Margarita | <a href="#" class="map-link" data-lat="35.391744" data-lon="-120.608109" data-zoom="17" data-label="Post Office">22360 El Camino Real</a> | 93453‒9999 |
-| Templeton       | <a href="#" class="map-link" data-lat="35.557484" data-lon="-120.700688" data-zoom="17" data-label="Post Office">101 N. Main St.</a> | 93465‒9999 |
+| Santa Margarita | <a href="#" class="map-link" data-lat="35.391744" data-lon="-120.608109" data-zoom="17" data-label="Post Office">22360 El Camino Real</a>      | 93453‒9999 |
+| Templeton       | <a href="#" class="map-link" data-lat="35.557484" data-lon="-120.700688" data-zoom="17" data-label="Post Office">101 N. Main St.</a>           | 93465‒9999 |
 
 **Note**: In cities with multiple post office locations, General Delivery is typically handled at only one facility (usually the main post office). For example, San Luis Obispo has two post offices, but General Delivery is handled at the main location on Dalidio Dr.
 To confirm which location handles General Delivery in your area, call [800-275-8777](tel:+1-800-275-8777) and request “Customer Service,” or use the [USPS ZIP Code lookup tool](https://tools.usps.com/zip-code-lookup.htm) by entering “General Delivery” as the address line.

@@ -1469,6 +1469,13 @@
 - Email: [customerservice@housekeys.org](mailto:customerservice@housekeys.org)
 - How to access: Create account at MyHouseKeys to enter drawings and receive notifications about available units
 
+## <a id="Immigrant-Hope-Arroyo-Grande">Immigrant Hope Arroyo Grande</a>
+
+- [immigranthopeag.org](https://immigranthopeag.org/)
+- Location: 995 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118232" data-lon="-120.592895" data-zoom="17" data-label="Immigrant Hope">Map</a>
+- Phone: [805-221-4319](tel:+1-805-221-4319)
+- How to access: Call, visit the office, or use their [web contact form](https://immigranthopeag.org/contact-us/)
+
 ## <a id="Immigrant-Legal-Defense">Immigrant Legal Defense (ILD)</a>
 
 <!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
