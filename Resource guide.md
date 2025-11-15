@@ -65,6 +65,8 @@ This guide uses colors and icons to help you quickly identify what kind of link 
 | **Share**             | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#e75e13;color:white;font-size:24px;">🔗</span> | Shares a link to this resource guide |
 | **Section Share**     | <span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background-color:rgba(231,94,19,0.1);border:1px solid #e75e13;font-size:14px;">🔗</span> | Shares a link to a specific section or subsection |
 
+-----
+
 ## <a id="table-of-contents">Table of Contents</a>
 
 1. [Hotlines and Emergencies](#emergency-contacts)
@@ -104,6 +106,8 @@ This guide uses colors and icons to help you quickly identify what kind of link 
 1. [Other Guides](#other-guides-web-pages-information-sources)
 1. [Miscellaneous Tips](#miscellaneous-tips)
 1. [Directory](Directory.md)
+
+-----
 
 ## <a id="emergency-contacts">Hotlines and Emergency Contacts</a>
 
@@ -161,6 +165,8 @@ This guide uses colors and icons to help you quickly identify what kind of link 
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr>
  </tbody>
 </table>
+
+-----
 
 ## <a id="self-advocacy-and-communicating-with-service-providers">Standing Up for Yourself and Communicating with Service Providers</a>
 
@@ -284,6 +290,8 @@ The [Other Guides](#other-guides-web-pages-information-sources) section of this 
 This resource guide shows information that was available when we wrote it.
 Things change.
 Contact service providers directly to check for the most current information before you travel to their locations.
+
+-----
 
 ## <a id="where-to-find-shelter--housing">Shelter & Housing</a>
 
@@ -596,6 +604,8 @@ Here are some residential treatment options in our area:
 - [**Middlehouse**](Directory.md#Middlehouse) (SLO) for men only.
 - [**Sun Street Centers**](Directory.md#Middlehouse) (SLO) for men only.
 
+-----
+
 ## <a id="property-storage-options">Property Storage Options</a>
 
 ### <a id="short-term-property-storage">Short-Term</a>
@@ -623,12 +633,12 @@ They typically rent spaces by the month, and have different-sized units availabl
 You can expect to pay about $60–75 per month for the least-expensive and smallest sizes, up to $150 for larger sizes.
 Most storage facilities have daytime hours of operation when you can access the storage units to add or remove property, and are closed to everyone at night.
 
-### Recovering Property Taken During Arrests or Encampment Sweeps
+### <a id="recovering-seized-property">Recovering Property Taken During Arrests or Encampment Sweeps</a>
 
 <!-- To-do: see if you can get more specific policies from the county, parks service, CalTrans, other municipalities, and other law-enforcement agencies -->
 
 Different agencies take responsibility for clearing homeless camps, depending on where the camps are located.
-These agencies have different policies about whether, to what extent, and for how long they will store property that they clear from encampments to allow the onwers of that property a chance to recover it.
+These agencies have different policies about whether, to what extent, and for how long they will store property that they clear from encampments, so that the owners of that property can recover it.
 
 They typically will only store certain items of property, and will throw away things that are hazardous, soiled, or decayed or that seem to them like mere trash.
 They often store all items taken from an encampment sweep in one big pile, which can make it difficult for you to find your own items.
@@ -657,6 +667,8 @@ In the case of the SLO County Sheriff, if they were keeping the property as evid
 You then have 30 days to retrieve the property, or it may be destroyed.
 If you do not have a stable mailing address, or if the Sheriffs Department does not know your mailing address, you may never see this letter!
 In such a case, you may want to contact the Sheriffs department to let them know how to contact you if they decide to release your property.
+
+-----
 
 ## <a id="where-to-get-food">Food</a>
 
@@ -840,6 +852,8 @@ Sometimes you will also see edible fruit trees like plums or cherries on sidewal
 Sometimes also people plant fruit trees on their own property but then neglect to harvest the fruit, perhaps because there is more than they need.
 In such a case you can ask the property owner for permission to harvest from their trees.
 
+-----
+
 ## <a id="where-to-refill-a-water-bottle">Where to Refill a Water Bottle</a>
 
 Most major parks and recreation facilities have water fountains and/or water bottle refill stations, as do some public libraries.
@@ -848,6 +862,8 @@ The city of SLO also has a water bottle filling station network.
 Some of these stations are inside buildings and are only accessible when the building is open for business.
 Others are outside and are available 24/7.
 You can find a map of these hydration stations [at this link](https://storymaps.arcgis.com/stories/ac825840143c4d718e06397d5306fa89) or at [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ojOfK6l3mkAh6JIfFJZwA5ej5Qj232No&ll=35.27079109833796%2C-120.65453885&z=15).
+
+-----
 
 ## <a id="transportation">Transportation</a>
 
@@ -1022,6 +1038,8 @@ You can apply online at their website or by calling [866-272-9642](tel:+1-866-27
 
 > See [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks) to learn about options for places to park safely and legally if you live in your vehicle.
 
+-----
+
 ## <a id="where-to-find-free-or-thrift-store-clothing">Clothing</a>
 
 ### <a id="free-clothes">Free Clothes</a>
@@ -1099,6 +1117,8 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**SLO Thrift**](Directory.md#SLO-Thrift)
 - [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
 
+-----
+
 ## <a id="laundry">Laundry</a>
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers free laundry facilities every day from 8am to 4pm.
@@ -1109,6 +1129,8 @@ The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the la
 [**Laundry Love**](Directory.md#Laundry-Love) operates at a Los Osos commercial laundry one day per month (check their website for the latest schedule).
 They allow anyone to do two free loads of laundry (five loads for a family), plus bedding.
 They provide the coins to feed the machines and the laundry detergent and dryer sheets.
+
+-----
 
 ## <a id="showers-and-hygiene">Showers and Hygiene</a>
 
@@ -1145,6 +1167,8 @@ The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-Distri
 Some commercial gyms have showers.
 For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers.
 Some Medicare supplement plans have a “Silver Sneakers” program with which you can get free gym memberships.
+
+-----
 
 ## <a id="health-medical-care">Health & Medical Care</a>
 
@@ -1636,6 +1660,8 @@ If you notice increasing redness that spreads beyond the area of the burn, or pu
    - Email: [info@resilientsouls.org](mailto:info@resilientsouls.org)
 -->
 
+-----
+
 ## <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">Recovery, Harm Reduction, and Other Substance-Related Issues</a>
 
 > Note: The somewhat confusing term “behavioral health” often describes programs for people who use addictive or harmful drugs and want help.
@@ -1749,6 +1775,8 @@ The [**Alano Club**](Directory.md#Alano-Club), for example, hosts AA and NA meet
 
 > See [Shelter & Housing: Sober Living Homes](#sober-living-homes)
 
+-----
+
 ## <a id="tattoo-removal">Tattoo Removal</a>
 
 There are programs available that will erase your tattoos.
@@ -1776,6 +1804,8 @@ The [Removery INK-nitiative Program](https://removery.com/services/ink-nitiative
 Apply on their website.
 
 The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) website lists hundreds of other free or low-cost tattoo removal programs throughout the country.
+
+-----
 
 ## <a id="end-of-life-care-advance-directives-hospice">End-of-Life Care, Advance Directives, Hospice</a>
 
@@ -1849,6 +1879,8 @@ It instructs medical care providers whether they should try to extend your life 
 A POLST form only works if you or your legally-recognized decisionmaker signs it *and* your physician, nurse practitioner, or physician assistant also signs it.
 You can change your mind after you fill out such a form and can change it or discontinue it.
 You can learn more about the form and review one online, in several languages, at [capolst.org](https://capolst.org/).
+
+-----
 
 ## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
 
@@ -1944,6 +1976,8 @@ When possible, take formal self-defense classes to learn proper techniques from 
 - [“Basic Street Safety for Women”](https://www.instructables.com/Basic-Street-Safety-for-Women/)
 - [“Capacity for Survival: Exploring Strengths of Homeless Street Youth”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776751/)
 - [“Personal Security & Safety When Living In A Homeless Shelter”](https://www.thebautistaprojectinc.org/post/personal-security-homeless-shelter)
+
+-----
 
 ## <a id="legal-help--crime-victim-protection">Legal Help & Crime Victim Protection</a>
 
@@ -2174,6 +2208,8 @@ The [ada.gov](https://www.ada.gov/) website explains this Act and how you can en
 That site also shows you how to [file an official complaint](https://www.ada.gov/file-a-complaint/).
 You can also reach the U.S. Department of Justice’s Americans with Disabilities Act section at [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264)) or [Disability.Outreach@usdoj.gov](mailto:Disability.Outreach@usdoj.gov).
 
+-----
+
 ## <a id="ids-and-other-documents">IDs and Other Documents</a> (How to Obtain, Replace, Secure)
 
 Often, agencies and programs will ask you to produce certain documents, like a government identification card (such as a driver’s license), a social security card, a birth certificate, and so forth.
@@ -2375,6 +2411,8 @@ There is an expensive filing fee for this process, but ask about a fee waiver th
 
 If you have a case manager, ask them if they can help you with this process.
 
+-----
+
 ## <a id="mail-drops-post-office-boxes-etc">Mail Drops, Post Office Boxes, Etc.</a>
 
 If you are homeless, you may be at a loss when asked for your mailing address.
@@ -2451,6 +2489,8 @@ The post office may stop accepting general delivery mail for you if you try to u
       - Note: Call organizations directly to verify current mail service availability; services may be limited to active participants [Sources: [catholiccharitiesdom.org](https://catholiccharitiesdom.org/), [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)]
 -->
 
+-----
+
 ## <a id="banking-and-money-management">Banking and Money Management</a>
 
 **In this section:**
@@ -2496,6 +2536,8 @@ They also offer free [one-on-one, professional financial counseling](https://www
 
 [Money Management International](https://www.moneymanagement.org/) ([866-889-9347](tel:+1-866-889-9347)) and [National Foundation for Credit Counseling](https://www.nfcc.org/) ([800-388-2227](tel:+1-800-388-2227)) are nonprofit groups that can help you manage credit card or other debt.
 
+-----
+
 ## <a id="tax-preparation">Tax Preparation</a>
 
 There are several programs that can give you free assistance in filling out and filing your annual tax returns.
@@ -2530,6 +2572,8 @@ See [irs.gov/freefile](https://www.irs.gov/freefile) for details.
 Homeless people can use the address of a friend, relative, or trusted service provider as their filing address.
 
 > See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) section of this guide for more options for establishing a mailing address.
+
+-----
 
 ## <a id="acute-financial-needs">Acute Financial Needs</a>
 
@@ -2670,6 +2714,8 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 
 > See the [Banking and money management](#financial-literacy) section for Financial Literacy / Credit Counseling resources
 
+-----
+
 ## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">Navigating Social Security / SSDI / SSI / Survivors Benefits</a>
 
 > See the [Social Security Numbers or Cards](#social-security-numbers-or-cards) section of this guide to learn how to get a Social Security number or to get or replace a Social Security card.
@@ -2727,6 +2773,8 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
       - Protections: Maintains medical benefits while working; protection from medical reviews while using ticket; can return to benefits if work stops
       - Getting started: Call [866-968-7842](tel:+1-866-968-7842) (TTY [866-833-2967](tel:+1-866-833-2967)) to verify eligibility and learn about services <!-- Source: [choosework.ssa.gov](https://choosework.ssa.gov/) -->
       - Cross-reference: Also listed in [Education, job skills training section](#education-job-skills-training-certification-tutoring-literacy)
+
+-----
 
 ## <a id="employment-job-boards-etc">Employment, Job Boards, Etc.</a>
 
@@ -2831,6 +2879,8 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
       - Getting started: Need reliable internet access, email address, and valid ID for most platforms. Start with highly-rated sites from the Reddit community rather than random online ads.
       - Sources: [beermoney.co](https://www.beermoney.co/), [coinbai.com](https://coinbai.com/blog/reddit-beermoney-tips-2025)
    1. [FlexJobs](https://www.flexjobs.com/) — find remote jobs with flexible hours
+
+-----
 
 ## <a id="education-job-skills-training-certification-tutoring-literacy">Education, Job Skills Training, Certification, Tutoring, Literacy</a>
 
@@ -2967,6 +3017,8 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
 1. Online Options
    - [Alison.com](https://alison.com)—“free online courses with certificates & diplomas” (seems to be funded by advertising? accredited courses seem UK-based)
 
+-----
+
 ## <a id="free-and-low-cost-phone-services">Phones and Phone Service</a>
 
 The [California LifeLine Program](https://www.californialifeline.com/) ([866-272-0357](tel:+1-866-272-0357)) gives low-income households discounts on home phone or cell phone service.
@@ -2977,6 +3029,8 @@ Some providers also give you a free phone when you sign up for California LifeLi
 The [**California Connect**](Directory.md#California-Connect) program can loan you, for free, assistive telecommunications equipment that helps if you have medically-documented functional limitations of hearing, vision, mobility, speech, and/or interpretation of information.
 The [Deaf and Disabled Telecommunications Program (DDTP)](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp) can give you specialized telephone equipment, accessories, and services such as amplified phones for the hard-of-hearing, big-button phones for those with low-vision, and cordless phones for people with mobility disabilities.
 This program is for California residents with medically-certified limitations of hearing, vision, mobility, speech, learning, or memory.
+
+-----
 
 ## <a id="internet-access--email--digital-access-assistance">Internet Access / Email / Digital Access Assistance</a>
 
@@ -3013,6 +3067,8 @@ This program is for California residents with medically-certified limitations of
    1. [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) "free computer assistance is offered on the Senior Center computers... one-on-one tutoring sessions... two beautiful computers that are available for members to use daily"
    1. [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) has a computer with internet access (first come, first serve)
 
+-----
+
 ## <a id="charging-stations-for-devices">Charging Stations for Devices</a>
 
 <!-- To-do: prosify this list -->
@@ -3039,6 +3095,8 @@ This program is for California residents with medically-certified limitations of
    - Verified Coffee Shops with WiFi/Charging: Scout Coffee Co. (1130 Garden St), Kreuzberg Coffee Company (685 Higuera St), BlackHorse Espresso & Bakery (3590 Broad St Ste 150)
    - Starbucks Locations: Downtown (17 Chorro St), Madonna Road (253 Madonna Rd); note some Starbucks locations have covered outlets to prevent device charging
    - Note: Call ahead to confirm outlet availability; policies vary by location <!-- Source: https://downtownslo.com/ -->
+
+-----
 
 ## <a id="resources-specific-to-particular-subgroups">Resources Specific to Particular Subgroups:</a>
 
@@ -3327,6 +3385,8 @@ This program is for California residents with medically-certified limitations of
       - Mission: Uses outreach and advocacy to help transgender and gender-diverse people live authentic, productive, and happy lives in a safe and affirming community
       - Services: Trans* Youth Support Group (meets 2nd and 4th Tuesday of every month)
 
+-----
+
 ## <a id="peer-support-groups">Peer Support Groups</a>
 
 <!-- To-do: add introductory paragraph -->
@@ -3355,6 +3415,8 @@ To-do: Integrate these into the list above
    - Central Coast Home Health grief groups at Paso Senior Center, <a href="#" class="map-link" data-lat="35.608386" data-lon="-120.655574" data-zoom="17" data-label="Paso Senior Center">270 Scott Street, Paso Robles</a> (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
    - GriefShare at First Baptist Church Paso Robles (13-week biblical support group; contact Sandy Garman at [805-423-0476](tel:+1-805-423-0476)). Source: [griefshare.org](https://www.griefshare.org/)
 -->
+
+-----
 
 ## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering</a>
 
@@ -3411,6 +3473,8 @@ Note: Enhanced Pismo Beach Recreation Division entry in Directory (October 2025)
 1. Parks & Rec departments
    1. [**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation)
 
+-----
+
 ## <a id="pet-care-and-pet-supplies">Pet Care and Pet Supplies</a>
 
 [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) operates the only open-intake animal shelter in SLO County.
@@ -3456,73 +3520,58 @@ You must make a fundraising effort first before reaching out to Red Rover Relief
 You must supply a current veterinary diagnosis and treatment plan.
 Grants do not cover exams or testing.
 
-## <a id="disaster-planningprep-earthquakes-fires-floods">Disaster Planning/Prep (Earthquakes, Fires, Floods)</a>
+-----
 
-<!-- To-do: prosify this list -->
+## <a id="disaster-planningprep-earthquakes-fires-floods">Disaster Planning/Preparation</a>
 
-1. **[Red Cross Central California](https://www.redcross.org/local/california/central-california.html)**
-    - Services for homeless individuals: Emergency shelter during disasters (cots, basic needs), disaster relief assistance, safety information for people without secure housing during emergencies (fires, floods, earthquakes)
-    - Coverage: Serves 11 counties across Central California including SLO County
-    - Location/Phone/Hours: See [**Red Cross**](Directory.md#Red-Cross) in the [Directory](Directory.md)
-    - When to contact: During declared emergencies, after disasters, or to learn about evacuation plans and emergency supplies needed for people living outdoors or in vehicles
-    - Source: [redcross.org](https://www.redcross.org/local/california/central-california.html)
-1. **Emergency Alert Systems for SLO County**
-    - **Check your evacuation zone:** [ReadySLO.org/evacuations](https://readyslo.org/evacuations)—know your zone number (e.g., SLC193, LPF-012)
-    - **Emergency websites:**
-       - [ReadySLO.org](https://readyslo.org/)—prepare, respond, recover information
-       - [EmergencySLO.org](https://emergencyslo.org/)—current emergency information
-       - [PrepareSLO.org](https://prepareslo.org/)—evacuation zones and planning
-    - **Emergency contact:** [**SLO County Office of Emergency Services**](Directory.md#SLO-County-Office-of-Emergency-Services)—See [Directory](Directory.md) for contact information <!-- Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/administrative-office/office-of-emergency-services/contact-us) -->
-    - **Evacuation assistance:** If you need help evacuating, call [805-543-2444](tel:+1-805-543-2444) (Note: Unable to verify this specific number in available sources; contact [**SLO County Office of Emergency Services**](Directory.md#SLO-County-Office-of-Emergency-Services) to confirm current evacuation assistance procedures)
-    - **Emergency alerts:**
-      - **How to sign up for customized alerts:** Visit [AlertSLO.org](https://alertslo.org) to register for specific types of notifications
-      - **AlertSLO**: Current system for emergency notifications (signup at [PrepareSLO.org](https://www.prepareslo.org/))
-      - **Reverse 9-1-1**: Automatically contacts landlines; cell phones and VoIP must self-register with Sheriff's Office
-      - **Wireless Emergency Alerts (WEA)**: Automatic alerts to all cell phones in emergency areas (no signup required)
-      - **Sign-up help:** Call [805-543-2444](tel:+1-805-543-2444) (8am–5pm) for assistance registering
-      - Source: [prepareslo.org/en/reverse-9-1-1.aspx](https://www.prepareslo.org/en/reverse-9-1-1.aspx)
-1. **Common Disasters in SLO County**
-    - **Wildfires:** Very common; prepare defensible space around shelters/camps
-    - **Earthquakes:** Frequent occurrence; know drop, cover, hold procedures
-    - **Flash floods:** Check flood zones; avoid camping in washes or low-lying areas
-    - **Extreme heat:** Can be life-threatening for unsheltered individuals
-1. **Emergency Shelter During Disasters**
-    - See [SLO County Current Emergency Information: Shelters](https://www.emergencyslo.org/en/shelters.aspx)
-    - **Red Cross emergency shelters:** Activated during major disasters, pet-friendly options available
-       - Location/Phone/Hours: See [**Red Cross**](Directory.md#Red-Cross) in the [Directory](Directory.md)
-    - **County shelter crisis declaration:** Extended through December 2025 to provide emergency shelter options
-    - **Warming/cooling centers:** Activated during extreme weather events
-      - Note, frequently-encountered advice to text "SLOCountyWarm" to 211211 doesn't actually work in practice, as they do not keep that information current.
-    - **Check current shelter locations:** ReadySLO.org or call [805-781-5678](tel:+1-805-781-5678) during emergencies
-1. **Basic campfire safety for urban camping**
-   - **Location requirements:**
-     - Build fires at least 25 feet from tents, shrubs, and flammable materials
-     - Use existing fire rings when available; otherwise clear 10-foot radius down to soil
-     - Avoid windy days and high fire danger periods
-   - **Fire size:** Keep fires under 3 feet high and 4 feet diameter
-   - **Safety equipment:** Always have water bucket and shovel nearby before lighting
-   - **Extinguishing (soak-stir-soak method):**
-     - Soak fire thoroughly with water
-     - Stir ashes and embers to expose unburned material
-     - Soak again until no heat remains
-     - Test with hand - if too hot to touch, it's too hot to leave
-   - **Special considerations for homeless populations:**
-     - Tent fires are severe and common in homeless communities
-     - Never leave fires unattended
-     - Keep children and pets 3+ feet away
-     - Don't use flammable liquids to start fires
-   - **SLO County Campfire Laws**:
-     - **Permit Required**: Valid California Campfire Permit required for fires outside developed campgrounds (free at BLM, Forest Service, or CAL FIRE offices or online)
-     - **Safety Requirements**: 5-foot diameter cleared to bare soil around fire, round-point shovel (35+ inches) accessible, no overhead flammable materials
-     - **County Parks**: Fires only in designated fire pits or camp stoves, never leave unattended, fully extinguish before departure
-     - **City Limits**: Campfires prohibited in SLO city Wildland-Urban Interface Fire Areas and very high fire hazard severity zones
-     - **Backyard Burning**: Allowed in rural areas by permit only on Permissive Burn Days, prohibited within city limits and Urban Reserve Line areas
-     - **Current Restrictions**: Check CAL FIRE or SLO County APCD for seasonal fire restrictions based on conditions
-     - Source: [library.municode.com](https://library.municode.com/ca/san_luis_obispo_county/codes/county_code?nodeId=TIT16FIPR), [slocleanair.org](https://www.slocleanair.org/rulesregulations/burning/backyard.php)
-   - **Alternatives:** Consider portable camping stoves for cooking to reduce fire risk
-     - Source: [usfa.fema.gov/prevention/outdoor-fires](https://www.usfa.fema.gov/prevention/outdoor-fires/)
+Fires, floods, and earthquakes sometimes strike SLO County.
+Extremes of weather like heat waves, freezing temperatures, and storms are also increasingly common.
+Epidemics, tsunamis, and hazardous materials releases can also happen.
+If you are homeless and sleeping outdoors, you can be especially vulnerable to such dangers.
 
-## <a id="advocacy--lobbying-for-homeless-issues">Advocacy & Lobbying for Homeless Issues</a>
+The [**SLO County Office of Emergency Services**](Directory.md#SLO-County-Office-of-Emergency-Services) has resources that can help you prepare for and respond to emergency situations.
+Their [ReadySLO.org](https://readyslo.org/) site includes the following sections:
+
+1. [PrepareSLO.org](https://www.prepareslo.org/)—how to prepare for the next emergency, how to learn your evacuation zone number, and how to understand emergency alerts
+1. [EmergencySLO.org](https://www.emergencyslo.org/)—information about ongoing emergencies, evacuation orders and warnings, evacuation shelters, and road closures
+1. [RecoverSLO.org](https://www.recoverslo.org/)—after an emergency, this page lists some ways to recover from it
+
+You can sign up for local emergency alerts by text message to your phone at [AlertSLO](https://public.alertsense.com/SignUp/?RegionId=1317).
+You can choose which sorts of alerts you are interested in receiving (for example “Flood / Flash Flood” and “Fire”).
+
+The [**Red Cross**](Directory.md#Red-Cross) operates emergency shelters during major disasters.
+They usually have pet-friendly options.
+
+### Fire Safety in Camp
+
+If you are camping outdoors, be very careful with fire.
+California frequently experiences major wildfires, and campfires are a frequent cause.
+
+Build fires at least 25 feet away from tents, shrubs, and flammable materials.
+Do not build fires under overhanging tree branches.
+Avoid fires on windy days and during periods when fire danger is particularly high (such as mid to late Summer).
+Do not use flammable liquids like gasoline or lighter fluid to start camp fires.
+
+Keep fires small.
+It is wiser and takes less effort to make a small fire and sit close to it than to make a big fire and sit far away.
+
+Use existing fire rings when these are available.
+Otherwise clear a five-foot (two-meter) radius around the fire of all vegetation and flammable material.
+
+Have a bucket of water handy.
+
+Do not leave a fire unattended.
+Always extinguish it thoroughly first.
+To extinguish a fire thoroughly, soak it with water.
+Stir the ashes to expose any unburned material, and soak it again.
+The fire is not thoroughly extinguished until you can place your hand anywhere into the ashes without getting burned.
+
+Note that in SLO County it is not legal to have a campfire outside of a developed campground unless you have a valid [California Campfire Permit](https://www.ca.gov/departments/147/services/1239/).
+In many times and places in SLO County it is not legal to make a campfire whether you have such a permit or not.
+
+-----
+
+## <a id="advocacy--lobbying-for-homeless-issues">Advocacy & Lobbying: Influencing Government Homelessness Policy</a>
 
 ### Influencing policy
 
@@ -3539,13 +3588,13 @@ Visit [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-servi
 
 Every two years, typically in January, a census of homeless people in the United States is attempted.
 This is called the [“Point-in-Time Count”](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count).
-This helps the government estimate how many people are homeless, who and where homeless people are, and what their characteristics are.
+This helps the government estimate how many people are homeless, where homeless people are, and what their characteristics are.
 This in turn helps the government decide what policy responses to prioritize.
-You can read [the report on SLO County’s 2024 Point-in-Time Count](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport).
+You can read [the official report on SLO County’s 2024 Point-in-Time Count](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport).
 The Point-in-Time Count is conducted by volunteers.
 If you would like to help with the Count, email [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us) for details.
 
-[SLOCo YIMBY](https://www.slocoyimby.org/) advocates for building more housing in SLO County, and for policy changes like legalizing multifamily housing, streamlining permitting, increasing affordable housing funding, and strengthening renter protections.
+[SLOCo YIMBY](https://www.slocoyimby.org/) is a grassroots group that advocates for building more housing in SLO County, and for policy changes like legalizing multifamily housing, streamlining permitting, increasing affordable housing funding, and strengthening renter protections.
 They mobilize citizen action and outreach campaigns in support of those goals.
 Contact [hello@slocoyimby.org](mailto:hello@slocoyimby.org) for details.
 
@@ -3627,6 +3676,8 @@ For complaints about county employee or department misconduct, if you have been 
 
 For complaints about County Behavioral Health specifically, contact the [Patients' Rights Advocate](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/quality-support-services/patients-rights-advocate) ([805-781-4738](tel:+1-805-781-4738)).
 
+-----
+
 ## <a id="miscellaneous-free-items">(Mostly) Free Stuff</a>
 
 ### Totally Free
@@ -3664,6 +3715,8 @@ To access their full set of tools at all times, you may need to pay for a full m
 You will also need to attend a general orientation.
 Some advanced tools also require that you take tool-specific orientation classes before you can use them, and some of those cost money.
 
+-----
+
 ## <a id="other-guides-web-pages-information-sources">Other Guides, Web Pages, Information Sources</a>
 
 Some other groups have assembled resource guides like this one.
@@ -3684,6 +3737,8 @@ Here are some of these local guides:
 - [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
 - [SLO County Veterans Local Resources](https://slovsc.org/veterans_resources/local-resources/)
 - [The Homeless Veteran’s Resource Guide](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
+
+-----
 
 ## <a id="miscellaneous-tips">Miscellaneous Tips</a>
 
