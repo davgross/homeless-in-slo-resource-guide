@@ -105,7 +105,6 @@ The outline contains several major sections; the table of contents lists these.
 34. Advocacy & lobbying for homeless issues
 35. Miscellaneous free items
 36. Other guides, web pages, information sources
-37. Miscellaneous tips
 
 ### Section Development Status
 

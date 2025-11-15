@@ -104,7 +104,6 @@ This guide uses colors and icons to help you quickly identify what kind of link 
 1. [Advocacy & Organizing](#advocacy--lobbying-for-homeless-issues)
 1. [Free Stuff](#miscellaneous-free-items)
 1. [Other Guides](#other-guides-web-pages-information-sources)
-1. [Miscellaneous Tips](#miscellaneous-tips)
 1. [Directory](Directory.md)
 
 -----
@@ -3569,6 +3568,12 @@ The fire is not thoroughly extinguished until you can place your hand anywhere i
 Note that in SLO County it is not legal to have a campfire outside of a developed campground unless you have a valid [California Campfire Permit](https://www.ca.gov/departments/147/services/1239/).
 In many times and places in SLO County it is not legal to make a campfire whether you have such a permit or not.
 
+### Extreme Cold and Heat
+
+SLO County is in general blessed with a moderate climate, but rainy or dangerously cold overnight weather is common in Winter, and dangerously hot daytime weather is common in Summer.
+See the [Warming/Cooling Centers](#warming-cooling-centers) of this guide for some ways to get shelter from these temperature extremes.
+Warming centers typically open when temperatures are due to drop to 38°F or below or there is more than a 50% chance of rain.
+
 -----
 
 ## <a id="advocacy--lobbying-for-homeless-issues">Advocacy & Lobbying: Influencing Government Homelessness Policy</a>
@@ -3738,33 +3743,16 @@ Here are some of these local guides:
 - [SLO County Veterans Local Resources](https://slovsc.org/veterans_resources/local-resources/)
 - [The Homeless Veteran’s Resource Guide](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
 
------
+If you would like some in-person help, you can get assistance on a variety of issues from the Library Outreach Team at [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) branches:
 
-## <a id="miscellaneous-tips">Miscellaneous Tips</a>
+- [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries), Wednesdays, 12:30–2pm
+- [**Los Osos Library**](Directory.md#SLO-County-Public-Libraries), Fridays, 1–2:30pm
 
-<!-- To-do: prosify this list
-Add ideas contributed by local homeless people: would make for good sidebars to break up listings; may want to get legal waiver of copyright from them, though
-   - e.g. Use waterproof plastic bags to store important documents and electronics
+<!-- possible others:
+1. SLO Library, Tues. 10–11:30am, 2:30–4pm
+1. Arroyo Grande Library, Thurs. 9:30–11am (temporarily closed)
+   - Oceano Library, Weds. 11am–12:30pm (until A.G. Library reopens)
+1. Morro Bay Library, Thurs. 12:30–2pm
 -->
-1. Get assistance at the library:
-   - Drop in, or make an appointment by calling/texting [805-540-0057](tel:+1-805-540-0057)
-   - Can help you find primary care, recovery, clothing, food, SSDI, shelter, mental health, showers, health insurance
-   - (Project of T-MHA / County of SLO Public Libraries)
-   - Locations: See [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) in the [Directory](Directory.md)
-      1. SLO Library, Tues. 10–11:30am, 2:30–4pm
-      1. Arroyo Grande Library, Thurs. 9:30–11am (temporarily closed)
-         - Oceano Library, Weds. 11am–12:30pm (until A.G. Library reopens)
-      1. Atascadero Library, Weds. 10:30am–noon
-      1. Morro Bay Library, Thurs. 12:30–2pm
-      1. Los Osos Library, Fri. 1–2:30pm
-1. **Weather Patterns and Safety Planning for Unsheltered Individuals**
-   - **Dangerous Cold Conditions**: December–February; overnight temperatures can fall below 40°F (warming centers open at 38°F or below)
-   - **Dangerous Heat Conditions**: July–August remain the primary extreme heat period; daytime temperatures reach 80–89°F with occasional extremes above 90°F requiring heat emergency response. September can also experience high temperatures (average 77–82°F) with potential extremes—September 2020 saw record temperatures of 113–117°F. October temperatures typically moderate (average highs 74–77°F) but can still reach concerning levels for unsheltered individuals.
-      - Historical Context: Temperature extremes above 90°F are relatively rare but do occur, most notably during September heat events. Normal yearly temperature range is 41-78°F.
-      - 40 Prado cooling center opens between 8am & 6pm; they have a kennel for pets (all animals must have proof of rabies vaccination)
-   - **Rainy Season**: December–February with January having highest precipitation (4+ inches); warming centers open with 50%+ chance of overnight rain
-   - **Emergency Shelter Activation**: County warming/cooling centers open when temperatures ≤38°F *or* ≥50% chance of rain *or* dangerous heat conditions per National Weather Service
-   - **Regional Considerations**: South County, Atascadero, Morro Bay, and Paso Robles identified as areas with high unsheltered populations needing weather protection
-   - **Planning Advice**: Save resources for December–February cold/wet season and July–August extreme heat periods; contact 40 Prado at [805-544-4004](tel:+1-805-544-4004) for warming center status (Note: Unable to verify [805-781-3660](tel:+1-805-781-3660) in available sources; use main 40 Prado number)
-   - Sources: [emergencyslo.org](https://www.emergencyslo.org/), [slocounty.ca.gov](https://www.slocounty.ca.gov/), [weatherspark.com](https://weatherspark.com/y/1286/Average-Weather-in-San-Luis-Obispo-California-United-States-Year-Round)
-   - "If you would like to receive ongoing notifications for when adverse weather centers are activated in San Luis Obispo County, please complete the below survey." [link](https://forms.office.com/Pages/ResponsePage.aspx?id=dMfDhN9_4kClkCey5w-BJrAX9MGGh2RPqugDWPijLAdUMjJZSDkzOEs4WlJISFdSSlE0WVcyT1NRQS4u&origin=QRCode)
+
+You can drop in, or make an appointment by calling or texting [805-540-0057](tel:+1-805-540-0057).

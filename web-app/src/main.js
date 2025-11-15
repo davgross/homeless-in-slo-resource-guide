@@ -392,7 +392,7 @@ function transformTOCToLozenges(container) {
     'Device Charging': '🔌',
     'Resources by Group': '👥',
     'Peer Support': '🤝',
-    'Recreation & Community': '🎉',
+    'Recreation & Community': '🏓',
     'Pet Care': '🐾',
     'Disaster Preparedness': '🚨',
     'Advocacy & Organizing': '📢',
