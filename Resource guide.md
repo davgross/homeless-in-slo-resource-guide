@@ -623,6 +623,41 @@ They typically rent spaces by the month, and have different-sized units availabl
 You can expect to pay about $60–75 per month for the least-expensive and smallest sizes, up to $150 for larger sizes.
 Most storage facilities have daytime hours of operation when you can access the storage units to add or remove property, and are closed to everyone at night.
 
+### Recovering Property Taken During Arrests or Encampment Sweeps
+
+<!-- To-do: see if you can get more specific policies from the county, parks service, CalTrans, other municipalities, and other law-enforcement agencies -->
+
+Different agencies take responsibility for clearing homeless camps, depending on where the camps are located.
+These agencies have different policies about whether, to what extent, and for how long they will store property that they clear from encampments to allow the onwers of that property a chance to recover it.
+
+They typically will only store certain items of property, and will throw away things that are hazardous, soiled, or decayed or that seem to them like mere trash.
+They often store all items taken from an encampment sweep in one big pile, which can make it difficult for you to find your own items.
+
+Grover Beach will post a notice *after* they do an encampment sweep, at the encampment’s former location, “stating where the personal property is being stored, and listing the phone number and hours a person claiming ownership can collect or make arrangements to collect their personal property.”
+They will store some belongings for 90 days before discarding them.
+
+Morro Bay stores some property taken during encampment sweeps for 90 days before discarding it.
+Their policy is to post a notice where they plan to do encampment sweeps 72 hours before they begin, and those notices should include the address, phone number, and operating hours of the location where personal property will be stored.
+
+SLO City stores some property taken during encampment sweeps for 90 days before discarding it.
+If you have had property taken in this way, call either the Public Works Department ([805-781-7220](tel:+1-805-781-7220)) or the Ranger Service Department ([805-781-7302](tel:+1-805-781-7302)) and give them a detailed description of your property.
+If they think they may have it, you can make an appointment to retrieve it.
+
+If your property was seized from an camp sweep along the highway, on-ramp / off-ramp, or overpass / underpass, this may have been done by CalTrans.
+CalTrans is supposed to store some property for 60 days after removing it.
+They should post notices where they plan to do encampment sweeps 48 hours before they begin, and those notices should include a phone number you can call to get assistance in retrieving your property.
+
+If a different agency from those was responsible for the sweep, try discovering which agency it was, and then contact them directly.
+
+If you were separated from your property because you were arrested, it is possible that those who arrested you did not make any attempt to secure your belongings.
+They may have just left them wherever they were when you were arrested.
+If they did secure your belongings, they should return these to you when you are released from jail or they should tell you the process you can use to retrieve them, unless they are keeping the property as evidence.
+
+In the case of the SLO County Sheriff, if they were keeping the property as evidence but then decide to return it to you, they will inform you by sending you a letter that tells you where to pick up the property.
+You then have 30 days to retrieve the property, or it may be destroyed.
+If you do not have a stable mailing address, or if the Sheriffs Department does not know your mailing address, you may never see this letter!
+In such a case, you may want to contact the Sheriffs department to let them know how to contact you if they decide to release your property.
+
 ## <a id="where-to-get-food">Food</a>
 
 **In this section:**
@@ -3516,6 +3551,9 @@ Contact [hello@slocoyimby.org](mailto:hello@slocoyimby.org) for details.
 
 The [National Coalition for the Homeless](https://nationalhomeless.org/) campaigns on the national level for changes in U.S. federal policy to alleviate homelessness and help people who are homeless.
 
+The [National Union of the Homeless](https://nationalunionofthehomeless.org/) has a [Sacramento chapter](https://sacramentohomelessunion.org/) that helped SLO County homeless people fight for legal protection when the Kansas Avenue (a.k.a. Oklahoma Avenue) safe parking program was closed.
+You can contact the Sacramento chapter at [sacramento.homeless.union@gmail.com](mailto:sacramento.homeless.union@gmail.com).
+
 ### Reporting concerns and problems
 
 Some SLO County cities have on-line platforms with which you can report non-emergency problems.
@@ -3525,9 +3563,15 @@ Your report is routed to the correct department where people can address your co
 | ------------- | -------- |
 | Arroyo Grande | [Citizen Request Tracker or CitizenServ](https://ca-arroyogrande.civicplus.com/387/Report-a-Concern) |
 | Atascadero    | [Public Safety & Reporting](https://www.atascadero.org/public-safety-reporting) |
+| Grover Beach  | [Report an Issue](https://www.grover.org/652/Report-an-Issue) |
 | Morro Bay     | [CitySourced](https://www.morrobayca.gov/983/Service-Request) |
 | Paso Robles   | [SeeClickFix](https://seeclickfix.com/web_portal/mWPmZTZqbheqdCAtKircrZNq/issues/map) |
+| Pismo Beach   | [Pismo Pulse](https://iframe.publicstuff.com/#?client_id=1428#picker-top) |
 | SLO           | [AskSLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request) |
+
+Some cities have special contacts specifically for issues concerning homelessness.
+For homeless-specific questions in Paso Robles, contact [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
+In SLO city, contact the Homelessness Response Manager at [dwiberg@slocity.org](mailto:dwiberg@slocity.org) or [805-781-7025](tel:+1-805-781-7025).
 
 ### Reporting crimes
 
@@ -3582,35 +3626,6 @@ You may want to carefully consider the pros and cons before filing misconduct co
 For complaints about county employee or department misconduct, if you have been unable to resolve your complaint by contacting the department itself, you can file a complaint with the county Administrative Office by using its [Submit a Complaint form](https://www.slocounty.ca.gov/departments/administrative-office/services/citizen-complaint-investigations).
 
 For complaints about County Behavioral Health specifically, contact the [Patients' Rights Advocate](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/quality-support-services/patients-rights-advocate) ([805-781-4738](tel:+1-805-781-4738)).
-
-<!-- To-do: prosify this list -->
-
-1. For homeless-specific questions in Paso Robles, contact [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
-
-1. **County Board of Supervisors**: Meetings most Tuesdays 9am at <a href="#" class="map-link" data-lat="35.282079" data-lon="-120.660193" data-zoom="17" data-label="County Board of Supervisors">1055 Monterey Street, SLO</a>; submit written comments to [clerkoftheboard@co.slo.ca.us](mailto:clerkoftheboard@co.slo.ca.us) (indicate agenda item #); agendas posted 6 days prior
-1. **SLO City Council**: Meetings at <a href="#" class="map-link" data-lat="35.282771" data-lon="-120.662627" data-zoom="17" data-label="SLO City Hall">990 Palm Street</a>; complete Speaker Card for 3-minute comment or call [805-781-7164](tel:+1-805-781-7164) (voicemail), email [emailcouncil@slocity.org](mailto:emailcouncil@slocity.org), or video comments (mp4); submit 3+ hours before meeting
-   - Free Parking: City Council attendees get 1-hour validation at 919 Palm Street or 871 Marsh Street garages <!-- Source: https://www.slocounty.ca.gov/, https://www.slocity.org/ -->
-1. **Pismo Beach City Council**: 1st and 3rd Tuesdays 5:30pm, Council Chamber, <a href="#" class="map-link" data-lat="35.157591" data-lon="-120.668458" data-zoom="17" data-label="Pismo Beach City Hall">760 Mattie Road</a>. Hybrid format (in-person/virtual). Contact info at [pismobeach.org](https://www.pismobeach.org/60/City-Council)
-1. **Grover Beach City Council**: 2nd and 4th Mondays 6pm (Closed Session 5pm), <a href="#" class="map-link" data-lat="35.120909" data-lon="-120.621852" data-zoom="17" data-label="Grover Beach City Hall">154 S. Eighth Street</a>. Agenda available by 5pm Thursday before meeting. Contact info at [grover.org](https://www.grover.org/71/City-Council)
-1. **Arroyo Grande City Council**: Meetings televised live on government access channel 20, rebroadcast daily at 9am, 6pm, 1am. Contact info at [arroyogrande.org](https://www.arroyogrande.org/201/City-Council)
-1. **Oceano Community Services District**: 2nd Wednesday monthly 6pm (Closed Session 5:30pm when scheduled), <a href="#" class="map-link" data-lat="35.102534" data-lon="-120.616860" data-zoom="17" data-label="Oceano Community Services District">1655 Front Street, Oceano</a>. Contact info at [oceanocsd.org](https://www.oceanocsd.org/)
-1. **North County City Councils** (pending human review)
-   - **Atascadero City Council**: 2nd and 4th Tuesdays 6pm (Closed Session 5pm when scheduled), City Hall Council Chambers, <a href="#" class="map-link" data-lat="35.489850" data-lon="-120.667175" data-zoom="17" data-label="Atascadero City Council">6500 Palma Ave., Atascadero</a>. Agendas available on city website. Contact info at [atascadero.org](https://www.atascadero.org/); phone [805-470-3400](tel:+1-805-470-3400). Public comments can be made in person or submitted in writing. <!-- Source: [atascadero.org](https://www.atascadero.org/) -->
-   - **Paso Robles City Council**: 1st and 3rd Tuesdays 6:30pm, City Council Chamber, Library/Conference Center, <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="Paso Robles Library">1000 Spring St., Paso Robles</a>. Public comment available in person; agendas posted on city website. Contact info at [prcity.com](https://www.prcity.com/); phone [805-237-3960](tel:+1-805-237-3960); homeless-specific questions: [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com). <!-- Source: [prcity.com](https://www.prcity.com/) -->
-   - **Templeton Community Services District**: 3rd Wednesday monthly 7pm, CSD Conference Room, <a href="#" class="map-link" data-lat="35.549923" data-lon="-120.706755" data-zoom="17" data-label="Templeton Community Services District">420 Crocker St., Templeton</a>. Contact info at [templetoncsd.org](https://www.templetoncsd.org/); phone [805-434-4900](tel:+1-805-434-4900). <!-- Source: [templetoncsd.org](https://www.templetoncsd.org/) -->
-1. **North Coast / Estero Bay City Councils and Districts** (pending human review)
-   - **Morro Bay City Council**: 2nd and 4th Tuesdays 6pm (Closed Session 5pm when scheduled), Council Chambers, <a href="#" class="map-link" data-lat="35.367137" data-lon="-120.846749" data-zoom="17" data-label="Morro Bay City Council">595 Harbor St., Morro Bay</a>. Hybrid format (in-person and remote participation). Contact info at [morro-bay.ca.us](https://www.morro-bay.ca.us/); phone [805-772-6200](tel:+1-805-772-6200). <!-- Source: [morro-bay.ca.us](https://www.morro-bay.ca.us/) -->
-   - **Los Osos Community Services District**: 2nd Thursday monthly 6pm, District Office, <a href="#" class="map-link" data-lat="35.312625" data-lon="-120.832927" data-zoom="17" data-label="Los Osos CSD">2122 9th St., Los Osos</a>. Contact info at [losososcsd.org](https://www.losososcsd.org/); phone [805-528-9370](tel:+1-805-528-9370). <!-- Source: [losososcsd.org](https://www.losososcsd.org/) -->
-   - **Cambria Community Services District**: 2nd and 4th Thursdays 3pm, CCSD Meeting Room, <a href="#" class="map-link" data-lat="35.562923" data-lon="-121.090281" data-zoom="17" data-label="CCSD Meeting Room">1316 Tamsen St., Cambria</a>. Contact info at [cambriacsd.org](https://www.cambriacsd.org/); phone [805-927-6223](tel:+1-805-927-6223). <!-- Source: [cambriacsd.org](https://www.cambriacsd.org/) -->
-   - **Cayucos Sanitary District**: (No regular city council; unincorporated area under County jurisdiction; contact County Board of Supervisors)
-1. **Voter Registration**—People experiencing homelessness can register to vote in [SLO County](https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/elections-and-voting/voter-registration) by describing where they spend most of their time (cross streets, routes, shelter address, or general location like a park). Requirements: U.S. citizen, 18+ on Election Day, not in prison for felony conviction. Register online at CA Secretary of State website or in-person at Clerk-Recorder office (1055 Monterey Street #D120, SLO, [805-781-5080](tel:+1-805-781-5080)). Must register 15+ days before election. ID not required if lacking California ID or SSN.
-1. **California Homeless Union - San Luis Obispo Chapter**
-   - **What it is**: Local chapter of the statewide California Homeless Union, part of the National Union of the Homeless network. Grassroots advocacy organization run by and for homeless individuals focusing on legal advocacy and civil rights protection.
-   - **Recent activities**: Filed lawsuit against SLO County and CAPSLO regarding the Oklahoma Avenue safe parking site closure; pursued temporary restraining orders to prevent site closure; advocating for ADA compliance and housing promises <!-- Source: [newtimesslo.com](https://www.newtimesslo.com/news/homeless-union-hits-county-capslo-with-civil-rights-lawsuit-14788393) -->
-   - **Legal representation**: Anthony Prince (lead attorney and National Union organizer); Andrea Henson (Sacramento-based civil rights lawyer) <!-- Source: [newtimesslo.com](https://m.newtimesslo.com/news/homeless-union-poised-to-file-restraining-order-against-slo-county-14839506) -->
-   - Mission: "Commit our lives to ending homelessness and all poverty and to work tirelessly for the human right to Life, Liberty and the Pursuit of Happiness" <!-- Source: [sacramentohomelessunion.org](https://sacramentohomelessunion.org/) -->
-   - **How to get involved**: Contact through Sacramento Homeless Union (parent organization): [homelessunionsac@gmail.com](mailto:homelessunionsac@gmail.com)
-   - **Statewide activities**: Planning first-ever statewide convention of homeless people; organizing drives across California; focus on becoming a political factor for homeless and poor people statewide <!-- Source: [thestreetspirit.org](https://thestreetspirit.org/2023/05/16/in-dialogue-with-anthony-prince-founding-member-of-the-national-union-of-the-homeless/) -->
 
 ## <a id="miscellaneous-free-items">(Mostly) Free Stuff</a>
 
@@ -3676,7 +3691,6 @@ Here are some of these local guides:
 Add ideas contributed by local homeless people: would make for good sidebars to break up listings; may want to get legal waiver of copyright from them, though
    - e.g. Use waterproof plastic bags to store important documents and electronics
 -->
-1. If your stuff was taken during an arrest or encampment sweep, maybe you can use [this form](https://forms.office.com/pages/responsepage.aspx?id=dMfDhN9_4kClkCey5w-BJrDnXpov3FxHuJbRfTPdSLlUNzdaRU1JU0w0QlQwNkZTOEkzQ01COTVKRC4u&route=shorturl) to track it down?
 1. Get assistance at the library:
    - Drop in, or make an appointment by calling/texting [805-540-0057](tel:+1-805-540-0057)
    - Can help you find primary care, recovery, clothing, food, SSDI, shelter, mental health, showers, health insurance
