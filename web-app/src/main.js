@@ -305,31 +305,34 @@ async function loadMarkdownContent() {
 function renderResources() {
   const section = document.getElementById('resources-section');
 
-  console.log('=== Rendering Resources ===');
+  // console.log('=== Rendering Resources ===');
 
   // Parse markdown and enhance with directory links
   let html = parseMarkdown(state.resourcesContent, state.directoryEntries);
 
-  console.log('After parseMarkdown, checking for data-directory-link...');
-  const tempCheck = document.createElement('div');
-  tempCheck.innerHTML = html;
-  const linksBeforeSanitize = tempCheck.querySelectorAll('[data-directory-link]');
-  console.log('Links with data-directory-link before sanitize:', linksBeforeSanitize.length);
+  // console.log('After parseMarkdown, checking for data-directory-link...');
+  // const tempCheck = document.createElement('div');
+  // tempCheck.innerHTML = html;
+  // const linksBeforeSanitize = tempCheck.querySelectorAll('[data-directory-link]');
+  // console.log('Links with data-directory-link before sanitize:', linksBeforeSanitize.length);
 
   // Sanitize HTML - configure DOMPurify to keep data attributes
   html = DOMPurify.sanitize(html, {
     ADD_ATTR: ['data-directory-link', 'data-lat', 'data-lon', 'data-zoom', 'data-label', 'data-bounds']
   });
 
-  console.log('After DOMPurify, checking for data-directory-link...');
-  tempCheck.innerHTML = html;
-  const linksAfterSanitize = tempCheck.querySelectorAll('[data-directory-link]');
-  console.log('Links with data-directory-link after sanitize:', linksAfterSanitize.length);
+  // console.log('After DOMPurify, checking for data-directory-link...');
+  // tempCheck.innerHTML = html;
+  // const linksAfterSanitize = tempCheck.querySelectorAll('[data-directory-link]');
+  // console.log('Links with data-directory-link after sanitize:', linksAfterSanitize.length);
 
   section.innerHTML = html;
 
   // Enhance all links (phone, email, external)
   enhanceLinks(section);
+
+  // Enhance tables for mobile responsiveness
+  enhanceTables(section);
 
   // Setup directory link handlers
   setupDirectoryLinks(section);
@@ -477,6 +480,9 @@ function renderDirectory() {
   // Enhance all links
   enhanceLinks(section);
 
+  // Enhance tables for mobile responsiveness
+  enhanceTables(section);
+
   // Setup map link handlers
   setupMapLinks(section);
 
@@ -498,20 +504,23 @@ function renderAbout() {
 
   // Enhance all links
   enhanceLinks(section);
+
+  // Enhance tables for mobile responsiveness
+  enhanceTables(section);
 }
 
 // Setup directory link click handlers
 function setupDirectoryLinks(container) {
   const directoryLinks = container.querySelectorAll('[data-directory-link]');
 
-  console.log(`Setting up ${directoryLinks.length} directory links`);
+  // console.log(`Setting up ${directoryLinks.length} directory links`);
 
   directoryLinks.forEach(link => {
     link.addEventListener('click', (e) => {
       e.preventDefault();
       e.stopPropagation();
       const entryId = link.dataset.directoryLink;
-      console.log('Directory link clicked:', entryId);
+      // console.log('Directory link clicked:', entryId);
       showDirectoryEntry(entryId);
     });
   });
@@ -521,7 +530,7 @@ function setupDirectoryLinks(container) {
 function setupMapLinks(container) {
   const mapLinks = container.querySelectorAll('.map-link[data-lat][data-lon]');
 
-  console.log(`Setting up ${mapLinks.length} map links`);
+  // console.log(`Setting up ${mapLinks.length} map links`);
 
   mapLinks.forEach(link => {
     const lat = parseFloat(link.dataset.lat);
@@ -546,6 +555,39 @@ function setupMapLinks(container) {
 
       return true; // Allow the link to be followed
     };
+  });
+}
+
+// Enhance tables with data-label attributes for responsive mobile display
+function enhanceTables(container) {
+  const tables = container.querySelectorAll('table');
+  // console.log(`enhanceTables: Found ${tables.length} tables to enhance`);
+
+  tables.forEach(table => {
+    // Get all header cells from thead
+    const headers = Array.from(table.querySelectorAll('thead th')).map(th => th.textContent.trim());
+    // console.log(`  Table headers:`, headers);
+
+    // If no headers found, skip this table
+    if (headers.length === 0) {
+      // console.log('  Skipping table - no headers found');
+      return;
+    }
+
+    // Process all data rows in tbody
+    const rows = table.querySelectorAll('tbody tr');
+    rows.forEach(row => {
+      // Skip rows that are category headers (have th with colspan)
+      if (row.querySelector('th[colspan]')) return;
+
+      // Add data-label to each td based on corresponding header
+      const cells = row.querySelectorAll('td');
+      cells.forEach((cell, index) => {
+        if (index < headers.length && headers[index]) {
+          cell.setAttribute('data-label', headers[index]);
+        }
+      });
+    });
   });
 }
 
@@ -619,16 +661,16 @@ function setupDirectoryOverlay() {
 
 // Show a specific directory entry in overlay
 function showDirectoryEntry(entryId) {
-  console.log('showDirectoryEntry called with:', entryId);
+  // console.log('showDirectoryEntry called with:', entryId);
   const entry = state.directoryEntries.get(entryId);
 
   if (!entry) {
     console.error('Directory entry not found:', entryId);
-    console.log('Available entries:', Array.from(state.directoryEntries.keys()));
+    // console.log('Available entries:', Array.from(state.directoryEntries.keys()));
     return;
   }
 
-  console.log('Found entry:', entry.title);
+  // console.log('Found entry:', entry.title);
 
   // Store current directory entry for feedback context
   state.currentDirectoryEntry = {
@@ -692,6 +734,9 @@ function showDirectoryEntry(entryId) {
   // Enhance links in the modal (phone, email, external)
   enhanceLinks(content);
 
+  // Enhance tables for mobile responsiveness
+  enhanceTables(content);
+
   // Setup directory link handlers within the modal
   setupDirectoryLinks(content);
 
@@ -700,7 +745,7 @@ function showDirectoryEntry(entryId) {
 
   // Show overlay
   overlay.hidden = false;
-  console.log('Directory overlay shown');
+  // console.log('Directory overlay shown');
 
   // Trap focus in modal
   trapFocus(overlay);
@@ -1119,7 +1164,7 @@ function displaySearchResults(results, query) {
 
 // Navigate to a specific section within Resources
 function navigateToResourceSection(anchorId) {
-  console.log('Navigating to resource section:', anchorId);
+  // console.log('Navigating to resource section:', anchorId);
 
   // Save current scroll position
   saveScrollPosition();
@@ -1144,7 +1189,7 @@ function navigateToResourceSection(anchorId) {
     setTimeout(() => {
       // Try to find the anchor element
       const anchor = document.getElementById(anchorId);
-      console.log('Looking for anchor:', anchorId, 'Found:', anchor);
+      // console.log('Looking for anchor:', anchorId, 'Found:', anchor);
 
       if (anchor) {
         // Use browser's native scroll with scroll-padding-top

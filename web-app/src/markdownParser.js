@@ -77,23 +77,23 @@ export function extractDirectoryEntries(directoryMarkdown) {
     // Get the raw content up to the next entry
     let rawContent = directoryMarkdown.slice(pos.headerEnd, maxEnd);
 
-    console.log(`Extracting entry: ${pos.ids.map(a => a.id).join(', ')}, title: ${pos.primaryTitle}`);
-    console.log(`  Raw content length: ${rawContent.length}, ends at: ${nextPos ? `next entry ${nextPos.ids[0].id}` : 'EOF'}`);
+    // console.log(`Extracting entry: ${pos.ids.map(a => a.id).join(', ')}, title: ${pos.primaryTitle}`);
+    // console.log(`  Raw content length: ${rawContent.length}, ends at: ${nextPos ? `next entry ${nextPos.ids[0].id}` : 'EOF'}`);
 
     // Stop at the first h2 header (##) that appears in the content
     // This catches redirect entries that don't have anchor IDs
     const h2Match = rawContent.match(/\n## /);
     let content = rawContent;
     if (h2Match) {
-      console.log(`  Found another h2 at position ${h2Match.index}, truncating content`);
+      // console.log(`  Found another h2 at position ${h2Match.index}, truncating content`);
       content = rawContent.slice(0, h2Match.index);
     }
 
     content = content.trim();
 
-    console.log(`  Final content length: ${content.length}`);
-    console.log(`  First 100 chars: ${content.substring(0, 100)}`);
-    console.log(`  Last 100 chars: ${content.substring(Math.max(0, content.length - 100))}`);
+    // console.log(`  Final content length: ${content.length}`);
+    // console.log(`  First 100 chars: ${content.substring(0, 100)}`);
+    // console.log(`  Last 100 chars: ${content.substring(Math.max(0, content.length - 100))}`);
 
     // Extract aliases (alternative names) from content
     const aliases = extractAliases(content, pos.primaryTitle);
@@ -105,7 +105,7 @@ export function extractDirectoryEntries(directoryMarkdown) {
         content: `## ${anchor.title}\n\n${content}`,
         aliases
       });
-      console.log(`  Created entry for ID: ${anchor.id} (${anchor.title})`);
+      // console.log(`  Created entry for ID: ${anchor.id} (${anchor.title})`);
     });
   });
 
@@ -148,21 +148,21 @@ export function parseMarkdown(markdown, directoryEntries) {
   // Convert markdown to HTML
   let html = marked.parse(markdown);
 
-  console.log('=== parseMarkdown ===');
-  console.log('Markdown length:', markdown.length);
-  console.log('HTML length:', html.length);
+  // console.log('=== parseMarkdown ===');
+  // console.log('Markdown length:', markdown.length);
+  // console.log('HTML length:', html.length);
 
   // Show a sample of the HTML to see what links look like
   const tempDiv = document.createElement('div');
   tempDiv.innerHTML = html;
   const allLinks = tempDiv.querySelectorAll('a');
-  console.log('Total <a> tags found:', allLinks.length);
+  // console.log('Total <a> tags found:', allLinks.length);
 
   // Show first 10 links
-  console.log('First 10 links:');
-  Array.from(allLinks).slice(0, 10).forEach((link, i) => {
-    console.log(`  ${i + 1}. href="${link.getAttribute('href')}" text="${link.textContent.substring(0, 50)}"`);
-  });
+  // console.log('First 10 links:');
+  // Array.from(allLinks).slice(0, 10).forEach((link, i) => {
+  //   console.log(`  ${i + 1}. href="${link.getAttribute('href')}" text="${link.textContent.substring(0, 50)}"`);
+  // });
 
   // Convert existing anchor links to directory modal links
   if (directoryEntries && directoryEntries.size > 0) {
@@ -176,9 +176,9 @@ export function parseMarkdown(markdown, directoryEntries) {
  * Convert existing anchor links (href="#id" or href="Directory.md#id") to directory modal links
  */
 function convertAnchorLinksToDirectoryLinks(html, directoryEntries) {
-  console.log('convertAnchorLinksToDirectoryLinks called');
-  console.log('Directory entries count:', directoryEntries.size);
-  console.log('First 10 directory IDs:', Array.from(directoryEntries.keys()).slice(0, 10));
+  // console.log('convertAnchorLinksToDirectoryLinks called');
+  // console.log('Directory entries count:', directoryEntries.size);
+  // console.log('First 10 directory IDs:', Array.from(directoryEntries.keys()).slice(0, 10));
 
   const tempDiv = document.createElement('div');
   tempDiv.innerHTML = html;
@@ -186,7 +186,7 @@ function convertAnchorLinksToDirectoryLinks(html, directoryEntries) {
   // Find all anchor links that point to directory entries
   // Match both "#id" and "Directory.md#id" formats
   const links = tempDiv.querySelectorAll('a[href*="#"]');
-  console.log('Found anchor links with href containing "#":', links.length);
+  // console.log('Found anchor links with href containing "#":', links.length);
 
   let convertedCount = 0;
   const brokenLinks = [];
@@ -214,7 +214,7 @@ function convertAnchorLinksToDirectoryLinks(html, directoryEntries) {
       return; // Skip if we couldn't extract an ID
     }
 
-    console.log(`Checking link: href="${href}", entryId="${entryId}", text="${link.textContent.substring(0, 30)}"`);
+    // console.log(`Checking link: href="${href}", entryId="${entryId}", text="${link.textContent.substring(0, 30)}"`);
 
     // Check if this is a directory entry (case-insensitive)
     // Try exact match first, then try case-insensitive
@@ -227,14 +227,14 @@ function convertAnchorLinksToDirectoryLinks(html, directoryEntries) {
       for (const [key] of directoryEntries) {
         if (key.toLowerCase() === lowerEntryId) {
           actualEntryId = key;
-          console.log(`  Found case-insensitive match: "${entryId}" → "${actualEntryId}"`);
+          // console.log(`  Found case-insensitive match: "${entryId}" → "${actualEntryId}"`);
           break;
         }
       }
     }
 
     if (actualEntryId) {
-      console.log(`  ✓ Converting to directory link`);
+      // console.log(`  ✓ Converting to directory link`);
       // Convert to directory modal link
       // Keep href="#" so it remains focusable and clickable
       link.setAttribute('href', '#');
@@ -242,7 +242,7 @@ function convertAnchorLinksToDirectoryLinks(html, directoryEntries) {
       link.setAttribute('aria-label', `View directory entry for ${link.textContent}`);
       convertedCount++;
     } else {
-      console.log(`  ✗ Not in directory`);
+      // console.log(`  ✗ Not in directory`);
       // This is a broken directory link - collect it for warning
       brokenLinks.push({
         href: href,
@@ -252,7 +252,7 @@ function convertAnchorLinksToDirectoryLinks(html, directoryEntries) {
     }
   });
 
-  console.log(`Converted ${convertedCount} links to directory links`);
+  // console.log(`Converted ${convertedCount} links to directory links`);
 
   // Output warnings for broken directory links
   if (brokenLinks.length > 0) {
