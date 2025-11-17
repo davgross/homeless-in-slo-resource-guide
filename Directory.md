@@ -616,9 +616,10 @@
    - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
    - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
 - Locations:
-   - Main office: 3250 S. Higuera St. #D, SLO <a href="#" class="map-link" data-lat="35.255397" data-lon="-120.669515" data-zoom="17" data-label="Catholic Charities (SLO - Higuera)">Map</a>
-   - Behind the Mission: 715 Palm St., SLO <a href="#" class="map-link" data-lat="35.280845" data-lon="-120.665176" data-zoom="17" data-label="Catholic Charities (SLO - Palm)">Map</a>
-   - Paso Robles satellite: St. Rose of Lima Church, 642 Trigo Ln., Paso Robles <a href="#" class="map-link" data-lat="35.622914" data-lon="-120.690742" data-zoom="17" data-label="Catholic Charities (Paso Robles)">Map</a>
+   - Main office: 3250 S. Higuera St. #D, SLO <a href="#" class="map-link" data-lat="35.255397" data-lon="-120.669515" data-zoom="17" data-label="Catholic Charities">Map</a>
+   - Financial assistance: 3592 Broad Street #104, SLO <a href="#" class="map-link" data-lat="35.254868" data-lon="-120.645111" data-zoom="17" data-label="Catholic Charities">Map</a> <!-- Source: https://5chc.org/community-services/financial-assistance -->
+   - Behind the Mission: 715 Palm St., SLO <a href="#" class="map-link" data-lat="35.280845" data-lon="-120.665176" data-zoom="17" data-label="Catholic Charities">Map</a>
+   - Paso Robles satellite: St. Rose of Lima Church, 642 Trigo Ln., Paso Robles <a href="#" class="map-link" data-lat="35.622914" data-lon="-120.690742" data-zoom="17" data-label="Catholic Charities">Map</a>
 - Phone:
    - Main: [805-541-9110](tel:+1-805-541-9110)
    - Paso Robles: [805-541-9120](tel:+1-805-541-9120) (to schedule appointments)
@@ -627,7 +628,7 @@
 - Hours:
    - SLO offices: M–F 8am–5pm (call to confirm hours for specific location)
    - Paso Robles: 2nd Wednesday of every month, 1–5pm
-<!-- Note: Multiple addresses found in online sources including 3592 Broad St. #104, 3220 S. Higuera St. #303, and 941 Chorro St.; relationship between these addresses unclear (January 2025) -->
+<!-- Note: Multiple addresses found in online sources including 3220 S. Higuera St. #303, and 941 Chorro St.; relationship between these addresses unclear (January 2025) -->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
 
@@ -1657,7 +1658,9 @@
    - Family Advocate Services: [805-794-0217](tel:+1-805-794-0217)
 - Hours: M–F 9am–4pm
 - How to access: accepts self-referrals, school referrals, and community agency referrals
-- Notes: Operated by [**Center for Family Strengthening (CSF)**](#CSF)
+- Notes:
+   - Operated by [**Center for Family Strengthening (CSF)**](#CSF)
+   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
 
 ## <a id="Literacy-For-Life">Literacy For Life</a>
 
@@ -1877,6 +1880,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Email: [wecareinlososos@gmail.com](mailto:wecareinlososos@gmail.com)
 - Hours: Tu/W/Th 1–3pm
    - Community Dinners: Wednesdays 5–6pm
+- Notes:
+   - Hosts “Coastal Family Resource Center”
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
 
@@ -2111,14 +2116,13 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="North-County-NeighborAid">North County NeighborAid</a>
 
-<!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
-- Mailing: 7343 El Camino Real #346, Atascadero
-- Office: 1428 Phillips Lane #203, SLO
-- Phone: [805-466-5404](tel:+1-805-466-5404)
-- Email: [info@NoCoNeighborAid.org](mailto:info@NoCoNeighborAid.org)
+- [cfsslo.org/north-county-neighboraid](https://cfsslo.org/north-county-neighboraid/)
+- Office location: 1428 Phillips Lane #203, SLO
+- Mailing address: 7343 El Camino Real #346, Atascadero
+- Phone: [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
+- Email: [info@NoCoNeighborAid.org](mailto:info@NoCoNeighborAid.org) <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 - Hours: By appointment
 - Notes: Grassroots initiative managed by [**Center for Family Strengthening**](#CSF)
-<!-- Note: No dedicated website found; information available on CSF website (as of October 2025) -->
 
 ## <a id="North-County-Christian-Thrift-Shop">North County Christian Thrift Shop</a>
 
@@ -2510,7 +2514,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 | 1086 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> | [805-474-2105](tel:+1-805-474-2105) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
 | 920 W. Tefft St., Nipomo <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">Map</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
 
-- Note: Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
+- Email: [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org)
+- Note:
+   - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
+   - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
 
 ## <a id="St-Barnabas-Thrift-Shop">St. Barnabas Thrift Shop</a>
 
@@ -2563,6 +2570,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - [ae.slcusd.org](https://ae.slcusd.org/)
 - Location: 1500 Lizzie St., SLO <a class="map-link" data-lat="35.281251" data-lon="-120.649489" data-zoom="17" data-label="San Luis Coastal Adult School">Map</a>
 - Phone: [805-549-1222](tel:+1-805-549-1222)
+- Note: Hosts “San Luis Obispo Family Resource Center”
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
@@ -2891,7 +2899,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - Location: County Government Center Room 223, SLO <a class="map-link" data-lat="35.282192" data-lon="-120.660230" data-zoom="17" data-label="SLO County Small Claims Advisor">Map</a>
 - Phone: [805-781-5856](tel:+1-805-781-5856)
-- Hours: M–F 9am–12pm 
+- Hours: M–F 9am–12pm
 - How to access: no appointment necessary
 -->
 
@@ -3412,14 +3420,12 @@ There are several urgent care options, including:
 - Phone: [310-392-5153](tel:+1-310-392-5153)
 - Email: [info@vftafoundation.org](mailto:info@vftafoundation.org)
 
-## <a id="Womenade-SLO">Womenade SLO</a>
+## <a id="Womenade">Womenade</a>
 
-- [womenadeslo.org](https://www.womenadeslo.org/)
-- Phone: [805-674-9450](tel:+1-805-674-9450)
-- Note, part of regional network:
-   - GIVEslo (county-wide): [info@giveslo.org](mailto:info@giveslo.org)
-   - North County Womenade: 7343 El Camino Real Box #217, Atascadero, CA 93422
-   - South County Womenade: 1793 Farroll Road, Grover Beach, CA 93433
+| Location         | Website                                         | Location | Phone |
+| ---------------- | ----------------------------------------------- |
+| SLO city         | [womenadeslo.org](https://www.womenadeslo.org/) | 6099 Marshall Way, SLO <a href="#" class="map-link" data-lat="35.213169" data-lon="-120.622298" data-zoom="17" data-label="Womenade">Map</a> | [805-674-9450](tel:+1-805-674-9450) |
+| South SLO County | [sslocw.org](https://www.sslocw.org/)           | 1793 Farroll Road, Grover Beach <a href="#" class="map-link" data-lat="35.112441" data-lon="-120.609956" data-zoom="17" data-label="Womenade">Map</a> | |
 
 ## <a id="Waterman-Village">Waterman Village</a>
 

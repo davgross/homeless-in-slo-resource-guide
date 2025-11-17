@@ -89,7 +89,7 @@ This guide uses colors and icons to help you quickly identify what kind of link 
 1. [Mail & PO Boxes](#mail-drops-post-office-boxes-etc)
 1. [Banking & Money](#banking-and-money-management)
 1. [Tax Preparation](#tax-preparation)
-1. [Emergency Financial Help](#acute-financial-needs)
+1. [Emergency Financial Help](#emergency-financial-help)
 1. [Social Security & Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
 1. [Obtaining Employment](#employment-job-boards-etc)
 1. [Education & Job Training](#education-job-skills-training-certification-tutoring-literacy)
@@ -314,7 +314,7 @@ Contact 5CHC to arrange a confidential coordinated entry interview.
 
 > See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help--crime-victim-protection) section for options about preventing illegal evictions.
 
-> See the [Acute Financial Needs](#acute-financial-needs) section for more possible ways to get short-term financial help in a crisis.
+> See the [Emergency Financial Help](#emergency-financial-help) section for more possible ways to get short-term financial help in a crisis.
 
 ### <a id="warming-cooling-centers">Warming/Cooling Centers</a>
 
@@ -915,7 +915,7 @@ There are discounts for seniors and disabled people (you may need to [apply for 
 If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit buses.
 
 Some service providers can give you a bus pass if you cannot afford to buy one.
-For example, [**Catholic Charities**](Directory.md#Catholic-Charities) often has bus passes available to people who need them.
+For example, [**Catholic Charities**](Directory.md#Catholic-Charities) and the [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) often have bus passes available to people who need them.
 Clients of [**Tri-Counties Regional Center**](Directory.md#Tri-Counties-Regional-Center) can get bus passes from them.
 The [**Family Care Network**](Directory.md#Family-Care-Network) can help you get a bus pass if you cannot afford one on your own (you may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist).
 
@@ -1031,7 +1031,7 @@ This program will pay for up to $1,200 in necessary repairs at a STAR test-and-r
 To qualify, you must have a household income below 225% of the federally-set poverty level, and your vehicle must have failed its biennial smog check.
 You can apply online at their website or by calling [866-272-9642](tel:+1-866-272-9642) (M–F 8:30am–5pm).
 
-> See [Acute Financial Needs](#acute-financial-needs) for programs that can give you financial assistance to pay for emergency expenses like car repairs.
+> See [Emergency Financial Help](#emergency-financial-help) for programs that can give you financial assistance to pay for emergency expenses like car repairs.
 
 ### Safe Parking for People Living in Vehicles
 
@@ -1357,14 +1357,14 @@ See also [**SLO Vet Center**](Directory.md#SLO-Vet-Center), [**Veterans Administ
 If you expect to have high medical expenses that you cannot afford, you might try to raise the money through donations from others.
 The [**Help Hope Live**](Directory.md#Help-Hope-Live) program can help you establish a “crowdfunding” campaign to raise money this way.
 
-#### Emergency Funding
+#### <a id="emergency-medical-funding">Emergency Funding</a>
 
 If you need immediate funds to pay for a specific medical expense, consider the [**Medically Indigent Services Program**](Directory.md#MISP).
 
 If you are a patient of [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista), you may qualify for their [“Charity Care/Financial Assistance”](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/) program.
 Ask them in person for an application or contact them at [844-827-5047](tel:+1-844-827-5047) or [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
 
-> See also the [Acute Financial Needs](#acute-financial-needs) section of this guide.
+> See also the [Emergency Financial Needs](#emergency-financial-help) section of this guide.
 
 ### Transportation to Medical Appointments
 
@@ -2042,7 +2042,7 @@ HiCAP can also help you file Medicare denial appeals or make Medicare fraud refe
 To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties.
 HiCAP is free.
 
-Central California Legal Services’s Health Consumer Center program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment.
+Central California Legal Services’s [Health Consumer Center](https://centralcallegal.org/health/) program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment.
 
 <!--
 To-do: add more stuff about e.g. ombudsmen who can help you with health insurance denial or other denials of benefits.
@@ -2085,11 +2085,6 @@ If you are the victim of sexual assault or intimate partner violence, [**Lumina 
 
 [**CASA (Court Appointed Special Advocates)**](Directory.md#CASA) helps to advocate on behalf of abused or neglected children in the court system.
 CASA advocates are court-appointed; you cannot request their services directly.
-
-<!-- To-do: This isn't "legal help" exactly: move it somewhere else
-If you are an adult who is dependent on others, and you are subjected to abuse or neglect—or if you know of another adult in such a situation—you can get help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services).
-Make emergency calls to [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm) or [844-729-8011](tel:+1-844-729-8011) (all other hours).
--->
 
 <!-- NOTE: Creative Mediation was apparently a project of Wilshire, which went bankrupt
 ### <a id="mediation">Mediation</a>
@@ -2574,144 +2569,135 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 
 -----
 
-## <a id="acute-financial-needs">Acute Financial Needs</a>
+## <a id="emergency-financial-help">Emergency Financial Help</a>
+
+If you need to pay a bill or make a purchase and you have no money, there are some programs available that may be able to help you.
+For some of these, you can apply directly to the agency running the program to ask for their help.
+For others, you can only apply through some other agency (your case manager, doctor, or social worker may be able to do this for you if you ask).
+
+Some of these programs are specific to certain regions or to certain sorts of financial needs.
+
+Many will not give you money directly, but will help you to purchase goods or pay bills.
+
+> See the [Banking and money management](#financial-literacy) section of this guide for financial literacy and credit counseling resources that can help you reduce your debt or save money for when you need it.
+
+### You Can Apply Yourself
+
+[**5Cities Homeless Coalition**](Directory.md#5CHC) has an [Immediate Needs](https://5chc.org/programs/immediate-needs) program that can help low-income families and individuals in need in the Five Cities area with limited funds to pay for bills, or for goods or services to address their immediate needs such as utilities, transportation, auto repairs, clothing, and employment readiness.
+No funds are given directly to the individual applicant; rather bills are paid or goods are purchased on their behalf.
+
+[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) has a “Minister’s Discretionary Fund” with which it can pay for emergency needs like vehicle registration, repair, payments, or impound fees; property storage fees; travel for healthcare; phones and phone service; or supplies for living outdoors.
+Email [minister.uuslo@gmail.com](mailto:minister.uuslo@gmail.com) if you need such help.
+
+[**Green Pastures**](Directory.md#Green-Pastures), operated by the First Presbyterian Church in SLO city, offers micro-grants for financial needs such as utility bills and medical bills, with a focus on helping people stay in their homes.
+See [their website](https://fpcslo.org/greenpastures) for details on how and when to apply for these grants.
+
+[**St. Patrick’s Church**](Directory.md#St-Patricks-Church) in Arroyo Grande has limited discretionary funds for specific emergency needs such as utility payments or partial rent.
+
+The [**Auntie Isabell Foundation**](Directory.md#Auntie-Isabell-Foundation) gives financial assistance (grants and business development microloans) to “underrepresented individuals” in Paso Robles.
+Grants can be for needs like education, housing, transportation, job preparation, addressing life challenges, and child care. <!-- Source: https://www.auntieisabellfoundation.org/grant -->
+You must be aged 18–30 to qualify for a grant. <!-- Source: https://www.auntieisabellfoundation.org/grant -->
+You can apply for grants or loans by filling out a form on their website. <!-- Source: https://www.auntieisabellfoundation.org/grant -->
+
+The [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) can help with an emergency such as a threatened utility cut-off or a housing eviction notice, or a job-threatening transportation issue.
+They may also be able to help you with a rental deposit.
+
+[**Salvation Army**](Directory.md#Salvation-Army) provides some rent and utility assistance, when funds are available, from its SLO city and Arroyo Grande service centers.
+Call to make an appointment.
+
+[**Loaves & Fishes (Paso Robles)**](Directory.md#Loaves-and-Fishes-Paso-Robles) can help people of limited means with groceries and other services.
+Use the [contact form](https://loavesandfishespaso.org/contact/) on their website to request an appointment.
+
+The [**Los Osos Cares**](Directory.md#Los-Osos-Cares) Resource Center can give immediate needs assistance to people in Los Osos, Baywood Park, Morro Bay, Cayucos, Cambria, and that general region.
+
+[**Jewish Family Services**](Directory.md#Jewish-Family-Services) offers once-per-year pre-paid gas card assistance for people in SLO County who need help with transportation costs.
+[Fill out an application on their website](https://www.jccslo.com/gas.html).
+
+[**Catholic Charities**](Directory.md#Catholic-Charities) operates a one-time “Emergency Rental Assistance” program.
+It is only available sometimes.
+Check [this web page](https://catholiccharitiesdom.org/family-supportive-services/hope-in-home/) to see if the program is currently in effect and if so, how to apply for it.
+They also operate a [“Financial Stability Services”](https://catholiccharitiesdom.org/family-supportive-services/) program which can provide financial resources to low-income people in financial crisis.
+
+The local Facebook group [HelpSLO](https://www.facebook.com/groups/helpslo/) invites people to post requests for needs they have, such as for new tires for their car, or school clothing for their children, or other things like that.
+However, you cannot ask for cash.
+The group is informal, and your need will be met (if it is) by the individual generosity of another group member.
+
+The national group [Modest Needs](https://www.modestneeds.org/) crowdfunds requests for financial assistance for low-income workers who are living paycheck-to-paycheck and who encounter an unexpected or emergency expense they cannot afford, or who become unable to pay their bills.
+They do not give money to applicants directly, but can help them to pay bills.
+See [their website](https://www.modestneeds.org/mn/for-applicants) for instructions on how to apply for a grant.
+
+### You Must Apply through Some Referring Agency
+
+[**North County NeighborAid**](Directory.md#North-County-NeighborAid) (managed by [**Center for Family Strengthening**](Directory.md#CSF)) gives cash assistance and gifts of goods to needy people in northern SLO County. <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
+Examples include gas cards for parents traveling to distant children's hospitals, groceries following crises, rental assistance, baby supplies, summer camp fees, and utility payments. <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
+Availability depends on the financial health of the organization (funding fluctuates). <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
+You typically cannot apply directly to this program but must be referred to it by a service provider.
+
+[**Womenade**](Directory.md#Womenade) buys goods and pays bills for people in need.
+Womenade SLO helps people in the city of SLO; Womenade South County helps people in the Five Cities area and nearby; Womenade Estero Bay helps people in the Los Osos area.
+You cannot apply directly for help from Womenade, but you must apply through another service provider.
+
+[**Jewish Family Services**](Directory.md#Jewish-Family-Services) has a micro-grant program for people who need one-time emergency financial assistance for needs like rent assistance, vehicle needs, transportation, or food.
+You cannot apply for this yourself, but must have a case worker apply on your behalf.
+
+[Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) will match with its own money the grant given by a church or other Christian organization to a disabled peron who has particular financial needs associated with their disability (such as the need for assistive equipment or rehabilitative therapy).
+Your application to this fund must include documentation from that church or Christian organization, among other things.
+
+<!--
+### Needs more research
+
+1. [**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program)
+   - What's Available: financial assistance for housing deposits and rent; bus passes, gas cards, short-term rent assistance
+   - Eligibility: Homeless or at-risk families in SLO County
+   - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
+1. [**American Legion Post 66**](Directory.md#American-Legion-Post-66)
+   - Services: Emergency financial assistance for veterans
+-->
+
+### Government Assistance Programs
+
+[**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) (DSS) operates the General Assistance cash aid program which provides money and vouchers to people.
+It is for needy people without dependent children who live in SLO County who are not eligible for any other cash aid program.
+Apply for this program at a DSS office.
+If you qualify for this program, you must also do an in-person interview at the SLO city DSS office.
+
+You can also apply for [**CalWORKS**](#CalWORKS) cash aid at any DSS office, or online at [BenefitsCal](https://benefitscal.com/).
+CalWORKS is California's version of the Temporary Assistance to Needy Families (TANF) federal program.
+To qualify, you must have a “qualifying child” at least one parent of whom is “deceased, absent from the home, disabled, or unemployed” and you must be below a certain maximum income/assets limit.
+You must participate in an in-person interview, and you may need to provide some documentation to verify your eligibility.
+To receive benefits, you may be required to participate in the Welfare-to-Work Program, which helps you prepare for, find, and maintain employment.
+
+If you have become unemployed, you may be able to apply for unemployment benefits.
+This temporarily pays you a portion of the salary you had earned while you were working.
+To qualify, you must have a Social Security number, be authorized to work in the United States, have earned some minimum amount of reported wages or salary during the previous 18 months.
+You must have become totally or partially unemployed, and through no fault of your own.
+You must also be able to work, looking for paid work, and able to accept paid work.
+You can apply for unemployment benefits through [the myEDD website](https://edd.ca.gov/en/unemployment/) or by phone ([800-300-5616](tel:+1-800-300-5616), TTY: [800-815-9387](tel:+1-800-815-9387)).
+
+### Utility Assistance Programs
+
+<!-- Note: Low Income Household Water Assistance Program (LIHWAP) appears to have ended in 2024 -->
+
+Some local utilities have or participate in programs to make it easier for people with limited means to pay their utility bills.
+
+The [PG&E CARE Program](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html) gives a discount of at least 20% on gas and electric bills to people with low incomes or who are enrolled in public assistance programs such as Medi-Cal, CalFresh, or SSI.
+If you do not qualify for that program, you may still qualify for [Family Electric Rate Assistance](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/family-electric-rate-assistance-program-fera.html) which can give you a 18% discount on your electric bill.
+Apply for either program online at [energyinsight.pge.com/carefera](https://energyinsight.pge.com/carefera)
+If you have questions, contact them at [CAREandFERA@pge.com](mailto:CAREandFERA@pge.com) or [877-660-6789](tel:+1-877-660-6789).
 
 <!-- To-do: prosify this list -->
-
-1. Primary Emergency Assistance Organizations
-   1. [**North County NeighborAid**](Directory.md#North-County-NeighborAid)
-      - What's Available: Emergency assistance for vulnerable families in North SLO County including gas cards for parents traveling to distant children's hospitals, groceries following crises, rental assistance, baby supplies, summer camp access, and utility payment support
-      - Eligibility: Vulnerable families in North SLO County; operates through professional referrals from social workers and educators
-      - Service Area: North San Luis Obispo County
-      - Notes: Managed by [**Center for Family Strengthening**](Directory.md#CSF); funding fluctuations may create occasional waitlists
-      - Source: [cfsslo.org/north-county-neighboraid](https://cfsslo.org/north-county-neighboraid/)
-   1. [**Auntie Isabell Foundation**](Directory.md#Auntie-Isabell-Foundation)
-      - What's Available: Low-interest microloans to promote equality and diversity in business for entrepreneurs starting or expanding ventures; grants for education, housing, transportation, job training, handling life's challenges, or child care
-      - Eligibility: Underrepresented groups in Paso Robles and SLO County
-      - Service Area: Paso Robles and SLO County
-   1. [**Womenade SLO**](Directory.md#Womenade-SLO)
-      - What's Available: One-time essential financial help for SLO city residents; emergency assistance for dental and medical care, diapers, furniture, rent, gas, groceries, and other essential needs; 100% of donations go directly to support those in need
-      - Eligibility: SLO city residents in crisis; referrals from schools, medical professionals, and local social services
-      - Note: Part of a regional network; for county-wide assistance see GIVEslo ([info@giveslo.org](mailto:info@giveslo.org)); for North County see North County Womenade (7343 El Camino Real Box #217, Atascadero, CA 93422); for South County see South County Womenade (1793 Farroll Road, Grover Beach, CA 93433)
-   1. [**5Cities Homeless Coalition**](Directory.md#5CHC)
-      - What’s Available: Case management and financial assistance for rent, deposit, and immediate needs based on variety of funding grants
-         - "Examples of assistance include support with utilities, transportation, auto repairs, clothing, and employment readiness. These funds can be used to pay for bills, or for goods or services; however no funds are given directly to the individual."
-      - Eligibility: Residents throughout SLO County who are currently homeless or at-risk of losing housing
-      - Access: Email or call to arrange confidential coordinated entry meeting
-      - Website: [5chc.org/community-services/financial-assistance](https://5chc.org/community-services/financial-assistance)
-      - Website: [5chc.org/programs/immediate-needs](https://5chc.org/programs/immediate-needs)
-   1. [**Jewish Family Services**](Directory.md#Jewish-Family-Services)
-      - What's Available: Essential and emergency needs assistance including food, housing, transportation through gas cards, direct aid, and micro-grants
-      - Service area: SLO County and Northern Santa Barbara County (San Miguel to Lompoc)
-      - Philosophy: "Agency of last resort"—applicants should exhaust other resources first
-      - Status: Open on limited basis as of May 2025, partnering closely with local case workers
-      - Website: [jccslo.com/jewish-family-services.html](https://www.jccslo.com/jewish-family-services.html)
-   1. [**Society of Saint Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul)
-      - Services: Rent and utility assistance, emergency financial aid (Note: Unable to verify current details in available sources; contact directly to confirm services and hours)
-   1. Minister's Discretionary Fund
-      - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
-   1. [**Green Pastures**](Directory.md#Green-Pastures) (First Presbyterian Church)
-      - Services: "Micro Grants" for financial needs, utility bill assistance, medical bill support, gas/transportation assistance, guidance to community resources (does not consider requests for rent, storage, fines, or court costs)
-      - Eligibility: Open to community members; must bring relevant documentation for requested assistance (e.g., utility bills, car registration)
-      - Source: [fpcslo.org/greenpastures](https://fpcslo.org/greenpastures)
-   1. [**SLO County UndocuSupport**](Directory.md#SLO-County-UndocuSupport)
-      - Services: Bill payments, gift cards, direct funding for undocumented immigrant families experiencing loss of housing, job, or income
-      - Eligibility: SLO County undocumented immigrants and mixed-status families
-      - Note: Only sees 12 clients per day
-      - Cross-reference: Also listed in [Special populations - Undocumented immigrants](#resources-specific-to-particular-subgroups)
-   1. [**Catholic Charities**](Directory.md#Catholic-Charities)
-      - [program](https://catholiccharitiesdom.org/emergency-rental-assistance-available-in-san-luis-obispo-county/)
-      - Location: 3592 Broad St. #104, SLO (previous location was 941 Chorro Street) <!-- Source: [rentassistance.org](https://rentassistance.org/program/catholic_charities_diocese_of_monterey_san_luis_obispo_county_san_luis_obispo_ca.html) -->
-      - Hours: M–F 9am–5pm
-      - Access: Call [805-541-9110](tel:+1-805-541-9110) for appointment
-      - Services: Emergency rental assistance, utility assistance, eviction prevention for poor, working poor, homeless, and elderly facing emergency situations; Family Supportive Services Program provides direct financial aid with rental, move-in, and utility assistance
-   1. [**Salvation Army**](Directory.md#Salvation-Army)
-      - Services: Emergency financial assistance for housing, food, utility bills, transportation; rental and utility assistance by appointment; eviction prevention assistance; case management and referrals
-      - Important notes: Rent assistance only available through SLO site; does not pay deposits of any kind
-      - Source: [salvationarmyusa.org](https://www.salvationarmyusa.org/) and [needhelppayingbills.com](https://www.needhelppayingbills.com/html/san_luis_obispo_salvation_army.html)
-   1. [**SAFE Family Resource Centers**](Directory.md#SAFE-Family-Resource-Centers)
-      - What's Available: Housing assistance, emergency rent help, utilities assistance, referrals to immediate funds for families, youth, single parents, disabled, and vulnerable populations
-      - Services: Focus on immediate community needs with emergency financial assistance and referrals <!-- Source: [capslo.org](https://capslo.org/s-a-f-e-family-resource-centers/) -->
-   1. [**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program)
-      - What's Available: financial assistance for housing deposits and rent; bus passes, gas cards, short-term rent assistance
-      - Eligibility: Homeless or at-risk families in SLO County
-      - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
-   1. North County Emergency Assistance (pending review)
-      1. [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)
-         - What's Available: Shelter services, case management, financial literacy programs; contact directly to inquire about emergency financial assistance for rent and utilities
-         - Service Area: Paso Robles and Atascadero
-      1. Loaves & Fishes Food Pantries
-         - Locations/Phone/Hours: See [**Loaves & Fishes (Atascadero)**](Directory.md#Loaves-and-Fishes-Atascadero) and [**Loaves & Fishes (Paso Robles)**](Directory.md#Loaves-and-Fishes-Paso-Robles) in the [Directory](Directory.md)
-         - Services: Emergency food assistance; serves families including working poor, elderly on fixed income, young parents; Paso Robles location also operates as referral clearinghouse for emergency needs
-         - Notes: These are two separate, unaffiliated organizations
-         - Source: [loavesandfishespaso.org](https://loavesandfishespaso.org/) and [alffoodpantry.org](https://alffoodpantry.org/)
-      1. [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center)
-         - Services: Family advocates connect families with community resources including financial services, food services, housing services, job services, legal services, medical services; provides in-home support and navigation assistance
-         - Source: [linkslo.org](https://linkslo.org/)
-   1. North Coast / Estero Bay Emergency Assistance (pending review)
-      1. [**Los Osos Cares**](Directory.md#Los-Osos-Cares)
-         - Service Area: Los Osos, Morro Bay, Cayucos, and Cambria
-         - Services: Small grants for immediate needs (typically limited to $200 per year per person/family, but larger amounts available for extreme needs); immediate needs assistance and referrals to area agencies
-         - Collaboration: Works with EBAC, Social Services, Senior Housing, Mobile Home Ombudsman, Womenade, Senior Aid, Veterans Administration, Yes We Can Peacebuilders, County Food Bank, Hope's Village, Morro Bay Police Department, and Morro Bay City Council for monetary, mental health, and housing aid
-   1. [Modest Needs](https://www.modestneeds.org/)
-      - National nonprofit providing small emergency grants to low-income workers at risk of slipping into poverty
-      - Average grant: $750–$1,250
-      - Eligibility requirements:
-         - Must be working (acceptable income: employment, child support, Veteran's Benefits, or retirement income including Social Security)
-         - Total household income must be at least equal to monthly rent/mortgage plus $250 (the "self-sufficiency standard")
-         - Must not be undergoing change of ownership for property
-      - How to apply: Register online (takes under 5 minutes) and complete online grant application; need email account and most recent tax return or bank statements for all household adults
-      - Maximum grant varies by household income; determined during application process
-      - Available nationwide including California
-1. Veterans Emergency Assistance
-   1. [**American Legion Post 66**](Directory.md#American-Legion-Post-66)
-      - Services: Emergency financial assistance for veterans, post service officer (PSO) for benefit issues, buddy checks for veteran wellness
-1. Government Assistance Programs
-   1. [General Relief/General Assistance](https://www.slocounty.ca.gov/Departments/Social-Services/Cash-Assistance-Programs/Services/General-Assistance-Cash-Aid.aspx)
-      - Provider: SLO County Department of Social Services (county funded)
-      - Services: Short-term cash aid for basic needs for people not eligible for other programs
-      - Contact: SLO County Department of Social Services, [805-781-1655](tel:+1-805-781-1655)
-      - How to apply: Contact county social services office for application and eligibility assessment
-      - Website/Location/Email/Phone: See [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) in the [Directory](Directory.md)
-   1. [CalWORKs Cash Aid](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid)
-      - State-funded monthly cash aid (This is California's version of the Temporary Assistance to Needy Families (TANF) federal program)
-      - Apply at DSS or online at [BenefitsCal](https://benefitscal.com/)
-      - Eligibility: must have a "qualifying child" at least one parent of whom is "deceased, absent from the home, disabled, or unemployed" and must be below certain maximum income/asset limits, must participate in a face-to-face interview and may need to provide documents to verify eligibility
-      - Must participate in the "Welfare-to-Work Program" to participate.
-   1. [Emergency Food and Shelter Program](https://unitedwayslo.org/emergency-food-and-shelter-program/)
-      - Coordination: Local board including United Way, American Red Cross, Catholic Charities, CAPSLO, SLO County DSS, SLO Ministerial Association, Salvation Army
-      - Access: Call 211 for immediate assistance or visit [unitedwayslo.org/211slo](https://www.unitedwayslo.org/211slo)
-   1. [Unemployment benefits](https://edd.ca.gov/en/unemployment)
-1. Utility Assistance Programs
-   - Note: of limited use if we plan to restrict the scope of our guide to currently-homeless people, but helpful if we expand the scope to people at risk of homelessness
-   1. [PG&E CARE Program](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html): Minimum 20% discount on gas and electric rates
-      - Eligibility: Enrolled in public assistance programs (Medi-Cal, SNAP, SSI, etc.) *or* meet income guidelines
-      - How to apply: Online at [energyinsight.pge.com/carefera](https://energyinsight.pge.com/carefera?care_lang=english) (takes few minutes); CARE and FERA (Family Electric Rate Assistance - 18% electric discount) share one application
-      - Contact: Call PG&E for assistance with application
-   1. Gas Company CARE Program: Reduced natural gas rates for low-income customers
-      - Note: Natural gas providers in SLO County include PG&E; CARE program applies to both electric and gas services
-      - Application: Same as PG&E CARE program above; single application covers both services
-      - Contact: Contact your natural gas utility provider directly
-      - Source: [cpuc.ca.gov](https://www.cpuc.ca.gov/)
-   1. [CAPSLO Home Energy Assistance](https://capslo.org/utility-assistance/) & [LIHEAP (Low Income Home Energy Assistance Program)](https://capslo.org/energy-services/)
-      - Note: Unable to verify from CAPSLO's website whether these are two separate programs or one program with different names (as of January 2025); contact CAPSLO directly for clarification
-      - Services: Payment assistance for gas, propane, or electric utility bills for low-income households
-      - Contact: [805-541-4122](tel:+1-805-541-4122) ext. 25 (confirmed as correct extension) <!-- Source: [energyassistance.us](https://www.energyassistance.us/li/community-action-partnership-of-san-luis-obispo-county) -->
-      - Location: 3970 Short St. #110
-      - How to apply: Contact [**CAPSLO**](Directory.md#CAPSLO) directly for HEAP assistance application
-      - Eligibility: [based on income](https://capslo.org/eligibility-tables-for-energy-services/)
-      - Additional: PG&E REACH program provides up to $300 energy credit; apply at Dollar Energy Fund [888-282-6816](tel:+1-888-282-6816)
-   1. [City of SLO Customer Assistance Programs](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs)
-      - Contact: City Utility Billing [805-781-7133](tel:+1-805-781-7133), [ub@slocity.org](mailto:ub@slocity.org)
-      - How to apply: Contact utility billing department for customer assistance program applications and eligibility requirements
-      - Website: [www.slocity.org/government/department-directory/utilities-department](https://www.slocity.org/government/department-directory/utilities-department) for complete program details
-   1. [Low Income Household Water Assistance Program (LIHWAP)](https://www.csd.ca.gov/lihwap)
-      - Appears to have ended in 2024
-1. Additional Resources
-   1. HelpSLO: Community assistance network [localwiki.org/slo/HelpSLO](https://localwiki.org/slo/HelpSLO)
-   1. [Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) a.k.a. “Joni & Friends”
-
-> See the [Banking and money management](#financial-literacy) section for Financial Literacy / Credit Counseling resources
+1. [CAPSLO Home Energy Assistance](https://capslo.org/utility-assistance/) & [LIHEAP (Low Income Home Energy Assistance Program)](https://capslo.org/energy-services/)
+   - Note: Unable to verify from CAPSLO's website whether these are two separate programs or one program with different names (as of January 2025); contact CAPSLO directly for clarification
+   - Services: Payment assistance for gas, propane, or electric utility bills for low-income households
+   - Contact: [805-541-4122](tel:+1-805-541-4122) ext. 25 (confirmed as correct extension) <!-- Source: [energyassistance.us](https://www.energyassistance.us/li/community-action-partnership-of-san-luis-obispo-county) -->
+   - Location: 3970 Short St. #110
+   - How to apply: Contact [**CAPSLO**](Directory.md#CAPSLO) directly for HEAP assistance application
+   - Eligibility: [based on income](https://capslo.org/eligibility-tables-for-energy-services/)
+   - Additional: PG&E REACH program provides up to $300 energy credit; apply at Dollar Energy Fund [888-282-6816](tel:+1-888-282-6816)
+1. [City of SLO Customer Assistance Programs](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs)
+   - Contact: City Utility Billing [805-781-7133](tel:+1-805-781-7133), [ub@slocity.org](mailto:ub@slocity.org)
+   - How to apply: Contact utility billing department for customer assistance program applications and eligibility requirements
+   - Website: [www.slocity.org/government/department-directory/utilities-department](https://www.slocity.org/government/department-directory/utilities-department) for complete program details
 
 -----
 
@@ -3151,7 +3137,7 @@ This program is for California residents with medically-certified limitations of
       - Mission: Financial support for undocumented immigrant families during crises
       - Eligibility: SLO County undocumented immigrants and mixed-status families experiencing loss of housing, job, or income
       - Services: Bill payments, gift cards, direct funding based on individual family needs
-         - Cross-reference: Also listed in [Acute financial needs](#acute-financial-needs)
+         - Cross-reference: Also listed in [Emergency Financial Help](#emergency-financial-help)
       - Partners: CAPSLO, Center for Family Strengthening, Community Foundation SLO County
       - Impact: Helped over 100 local families <!-- Source: https://www.sloundocusupport.org/ -->
       - Phone: [805-543-2323](tel:+1-805-543-2323)
@@ -3658,6 +3644,9 @@ In some areas, you can also report a crime in a non-emergency situation, where y
 
 You can also submit tips to law enforcement about crimes (anonymously if you choose) through SLO County Crime Stoppers.
 You can do this either by using the on-line tip form at [sanluisobispocounty.crimestoppersweb.com](https://sanluisobispocounty.crimestoppersweb.com/) or by calling [805-549-STOP](tel:+1-805-549-7867).
+
+If you are an adult who is dependent on others, and you are subjected to abuse or neglect—or if you know of another adult in such a situation—you can get help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services).
+Make emergency calls to [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm) or [844-729-8011](tel:+1-844-729-8011) (all other hours).
 
 ### Reporting government misconduct
 

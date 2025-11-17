@@ -1,6 +1,6 @@
 # To-do list
 
-1. There are still some notes in @Directory.md that really belong in @"Resource Guide.md" -- fix that.
+1. There may still be some notes in @Directory.md that really belong in @"Resource Guide.md" -- fix that.
 
 1. A lot of @"Resource Guide.md" is still in the form of lists of raw notes; these need to be prosified for the end user.
 
@@ -14,7 +14,6 @@
 
 1. Replace "--" dashes, ' and " straight-quotes, and ' apostrophes with better unicode characters. (Claude struggles with such characters, so this may be a task for a human.)
 
-1. Come up with a snappy name for the app that is brief, evocative, and inviting.
+1. Ensure that icon designs have not been inadvertently copied without permission (most are just emojis, I think).
 
-1. Ensure that icon designs have not been inadvertently copied without permission.
-
+1. Review the site under a variety of color-blindness simulators to see if it's still readable.
