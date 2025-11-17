@@ -17,3 +17,5 @@
 1. Ensure that icon designs have not been inadvertently copied without permission (most are just emojis, I think).
 
 1. Review the site under a variety of color-blindness simulators to see if it's still readable.
+
+1. For things like Little Free Libraries and Little Free Pantries, rather than just giving a large list of them with their street addresses and map links, it would be nice to have a single, zoomable map that shows the locations of *all* of them, perhaps centered on the user's current location (if that location is within the region contaning them).
