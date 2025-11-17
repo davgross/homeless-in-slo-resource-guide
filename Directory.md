@@ -1075,10 +1075,10 @@
 
 > *See also [**Dignity Health**](#Dignity-Health)*
 
-| Location | Hours |
-| -------- | ----- |
-| Atascadero: 5920 W Mall, Atascadero <a href="#" class="map-link" data-lat="35.489540" data-lon="-120.668170" data-zoom="17" data-label="Dignity Health Urgent Care">Map</a> — [805-461-2131](tel:+1-805-461-2131) | M–F 8am–6pm, Sa 9am–3pm, Su closed |
-| Pismo Beach: 877 Oak Park Blvd, Pismo Beach <a href="#" class="map-link" data-lat="35.132062" data-lon="-120.606526" data-zoom="17" data-label="Dignity Health Urgent Care">Map</a> — [805-474-8450](tel:+1-805-474-8450) | M–F 8am–6pm, Sa 8am–4pm, Su closed |
+| Location | Phone | Hours |
+| -------- | ----- | ----- |
+| Atascadero: 5920 W Mall, Atascadero <a href="#" class="map-link" data-lat="35.489540" data-lon="-120.668170" data-zoom="17" data-label="Dignity Health Urgent Care">Map</a> | [805-461-2131](tel:+1-805-461-2131) | M–F 8am–6pm, Sa 9am–3pm, Su closed |
+| Pismo Beach: 877 Oak Park Blvd, Pismo Beach <a href="#" class="map-link" data-lat="35.132062" data-lon="-120.606526" data-zoom="17" data-label="Dignity Health Urgent Care">Map</a> | [805-474-8450](tel:+1-805-474-8450) | M–F 8am–6pm, Sa 8am–4pm, Su closed |
 
 - Notes: Accepts Medicare and Medi-Cal; walk-ins welcome, no appointment necessary; lab and X-ray services on site
 <!-- Source: Atascadero location info verified October 2025 via web search -->
@@ -1525,7 +1525,7 @@
 
 <!-- Source: https://fcni.org -->
 - [fcni.org](https://fcni.org)
-- Location: 1255 Kendall Rd., SLO <a class="map-link" data-lat="35.237660" data-lon="-120.630188" data-zoom="17" data-label="Housing Support Program">Map</a>
+- Location: 1255 Kendall Rd., SLO <a href="#" class="map-link" data-lat="35.237660" data-lon="-120.630188" data-zoom="17" data-label="Housing Support Program">Map</a>
 - Phone: [805-781-3535](tel:+1-805-781-3535)  <!-- Another source says 805-474-2000 -->
 - Hours: M–F 8:30am–5pm
 - How to access: Get a referral from a [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) Employment Resource Specialist
@@ -1561,8 +1561,8 @@
 
 | Name | Location | Phone | Ages |
 | ---- | -------- | ----- | ---- |
-| Judson Terrace Homes | 3000 Augusta St., SLO <a class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="Judson Terrace Homes">Map</a> | [805-544-1600](tel:+1-805-544-1600) | 55+ |
-| Judson Terrace Lodge | 3042 Augusta St., SLO <a href="#" class="map-link" data-lat="35.268078" data-lon="-120.639555" data-zoom="17" data-label="Judson Terrace Lodge">📍 Map</a> | [805-541-4567](tel:+1-805-541-4567) | 62+ |
+| Judson Terrace Homes | 3000 Augusta St., SLO <a href="#" class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="Judson Terrace Homes">Map</a> | [805-544-1600](tel:+1-805-544-1600) | 55+ |
+| Judson Terrace Lodge | 3042 Augusta St., SLO <a href="#" class="map-link" data-lat="35.268078" data-lon="-120.639555" data-zoom="17" data-label="Judson Terrace Lodge">Map</a> | [805-541-4567](tel:+1-805-541-4567) | 62+ |
 
 - Notes:
    - Low-income seniors; HUD residents typically pay 30% of gross income for rent
@@ -3423,7 +3423,7 @@ There are several urgent care options, including:
 ## <a id="Womenade">Womenade</a>
 
 | Location         | Website                                         | Location | Phone |
-| ---------------- | ----------------------------------------------- |
+| ---------------- | ----------------------------------------------- | -------- | ----- |
 | SLO city         | [womenadeslo.org](https://www.womenadeslo.org/) | 6099 Marshall Way, SLO <a href="#" class="map-link" data-lat="35.213169" data-lon="-120.622298" data-zoom="17" data-label="Womenade">Map</a> | [805-674-9450](tel:+1-805-674-9450) |
 | South SLO County | [sslocw.org](https://www.sslocw.org/)           | 1793 Farroll Road, Grover Beach <a href="#" class="map-link" data-lat="35.112441" data-lon="-120.609956" data-zoom="17" data-label="Womenade">Map</a> | |
 

@@ -942,14 +942,14 @@ They typically offer curb-to-curb service and charge $2.25–8.00 each way (some
 Although they are best-known for their trains, their bus service can often outcompete Trailways and Greyhound on price, speed, and convenience.
 You can catch these trains and buses from the following locations in SLO County:
 
-| Location                                                     | Greyhound | Trailways | Amtrak train | Amtrak bus |
-| ------------------------------------------------------------ | --------- | --------- | ------------ | ---------- |
-| Atascadero Amtrak Bus Stop, <a href="#" class="map-link" data-lat="35.488920" data-lon="-120.664716" data-zoom="17" data-label="Amtrak Bus Stop">6000 Capistrano Ave., Atascadero</a> | ✓         |           |              | ✓          |
-| Grover Beach Amtrak Station, <a href="#" class="map-link" data-lat="35.120481" data-lon="-120.629016" data-zoom="17" data-label="Amtrak Station">180 W. Grand Ave., Grover Beach</a> | ✓         |           | ✓            | ✓          |
-| Paso Robles Train Station, <a href="#" class="map-link" data-lat="35.622688" data-lon="-120.687770" data-zoom="17" data-label="Train Station">800 Pine St., Paso Robles</a> | ✓         |           | ✓            | ✓          |
-| Cal Poly, <a href="#" class="map-link" data-lat="35.298858" data-lon="-120.655675" data-zoom="17" data-label="Bus Stop">1 Grand Ave., SLO</a> | ✓         |           |              | ✓          |
-| Railroad Museum, <a href="#" class="map-link" data-lat="35.273127" data-lon="-120.655653" data-zoom="17" data-label="Railroad Museum">1940 Santa Barbara Ave., SLO</a> | ✓         | ✓         |              |            |
-| Train Station, <a href="#" class="map-link" data-lat="35.275632" data-lon="-120.655133" data-zoom="17" data-label="Train Station">1011 Railroad Ave., SLO </a> | ✓         |           | ✓            | ✓          |
+| Location | Greyhound | Trailways | Amtrak train | Amtrak bus |
+| -------- | --------- | --------- | ------------ | ---------- |
+| Atascadero Amtrak Bus Stop, <a href="#" class="map-link" data-lat="35.488920" data-lon="-120.664716" data-zoom="17" data-label="Amtrak Bus Stop">6000 Capistrano Ave., Atascadero</a> | Yes       | No        | No           | Yes        |
+| Grover Beach Amtrak Station, <a href="#" class="map-link" data-lat="35.120481" data-lon="-120.629016" data-zoom="17" data-label="Amtrak Station">180 W. Grand Ave., Grover Beach</a> | Yes       | No        | Yes          | Yes        |
+| Paso Robles Train Station, <a href="#" class="map-link" data-lat="35.622688" data-lon="-120.687770" data-zoom="17" data-label="Train Station">800 Pine St., Paso Robles</a> | Yes       | No        | Yes          | Yes        |
+| Cal Poly, <a href="#" class="map-link" data-lat="35.298858" data-lon="-120.655675" data-zoom="17" data-label="Bus Stop">1 Grand Ave., SLO</a> | Yes       | No        | No           | Yes        |
+| Railroad Museum, <a href="#" class="map-link" data-lat="35.273127" data-lon="-120.655653" data-zoom="17" data-label="Railroad Museum">1940 Santa Barbara Ave., SLO</a> | Yes       | Yes       | No           | No         |
+| Train Station, <a href="#" class="map-link" data-lat="35.275632" data-lon="-120.655133" data-zoom="17" data-label="Train Station">1011 Railroad Ave., SLO </a> | Yes       | No        | Yes          | Yes        |
 
 ### <a id="transportation-for-seniors">Transportation Resources for Seniors</a>
 
@@ -1255,20 +1255,20 @@ Bring your insurance card, identification, and a list of medications you take.
 
 | Urgent Care Location                                                                                | Medicare | Medi-Cal |
 | --------------------------------------------------------------------------------------------------- | -------- | -------- |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | ✓        | ✓        |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | ✓        | ✓        |
-| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)     | ✓        |          |
-| [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | ✓        | ✓        |
-| [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | ✓        | ✓        |
-| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | ✓        |          |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | ✓        | ✓        |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | Yes      | Yes      |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Yes      | Yes      |
+| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)     | Yes      | No       |
+| [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | Yes      | Yes      |
+| [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Yes      | Yes      |
+| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | Yes      | No       |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Yes      | Yes      |
 | [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | ?        | ?        |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | ✓        | ✓        |
-| [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | ✓        |          |
-| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | ✓        | ✓        |
-| [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | ✓        |          |
-| [**MedStop**](Directory.md#MedStop) (SLO)                                                           | ✓        |          |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | ✓        | ✓        |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Yes      | Yes      |
+| [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | Yes      | No       |
+| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | Yes      | Yes      |
+| [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | Yes      | No       |
+| [**MedStop**](Directory.md#MedStop) (SLO)                                                           | Yes      | No       |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | Yes      | Yes      |
 <!-- Note: Unable to verify whether North County Care Minor Emergency Services accepts Medicare/Medi-Cal through reputable online sources (researched November 2025); call 805-238-2422 to verify -->
 
 ### <a id="health-insurance">Health Insurance</a>
