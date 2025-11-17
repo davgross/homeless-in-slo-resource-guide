@@ -7,13 +7,15 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate-icons": "node create-maskable-icons.js"
   },
   "dependencies": {
     "dompurify": "^3.2.2",
     "marked": "^14.1.3"
   },
   "devDependencies": {
+    "sharp": "^0.34.5",
     "vite": "^6.0.5",
     "vite-plugin-pwa": "^0.21.1"
   },
