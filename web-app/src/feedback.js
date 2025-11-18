@@ -156,6 +156,56 @@ export class FeedbackSystem {
     doneBtn.addEventListener('click', () => {
       this.closeFeedbackModal();
     });
+
+    // Handle mobile keyboard: scroll to keep focused input visible
+    this.setupMobileKeyboardHandling();
+  }
+
+  // Setup mobile keyboard handling
+  setupMobileKeyboardHandling() {
+    const form = document.getElementById('feedback-form');
+    const inputs = form.querySelectorAll('input, textarea, select');
+
+    inputs.forEach(input => {
+      // When an input is focused, scroll it into view with some padding
+      input.addEventListener('focus', () => {
+        // Small delay to allow keyboard to appear
+        setTimeout(() => {
+          // Scroll the input into view, with extra space at bottom
+          input.scrollIntoView({
+            behavior: 'smooth',
+            block: 'center',
+            inline: 'nearest'
+          });
+        }, 300);
+      });
+    });
+
+    // Also handle when textarea content changes (as user types)
+    const textarea = form.querySelector('textarea');
+    if (textarea) {
+      let scrollTimeout;
+      textarea.addEventListener('input', () => {
+        clearTimeout(scrollTimeout);
+        scrollTimeout = setTimeout(() => {
+          // Ensure buttons remain accessible as textarea grows
+          const modalContent = this.feedbackModal.querySelector('.feedback-modal-content');
+          const actionsDiv = form.querySelector('.feedback-actions');
+          if (actionsDiv) {
+            const rect = actionsDiv.getBoundingClientRect();
+            const viewportHeight = window.innerHeight;
+            // If buttons are below viewport, scroll them into view
+            if (rect.bottom > viewportHeight) {
+              actionsDiv.scrollIntoView({
+                behavior: 'smooth',
+                block: 'end',
+                inline: 'nearest'
+              });
+            }
+          }
+        }, 100);
+      });
+    }
   }
 
   // Open feedback modal

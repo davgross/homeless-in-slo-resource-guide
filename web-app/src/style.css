@@ -1195,6 +1195,9 @@ tbody tr:hover {
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
   animation: slideUp 0.3s ease;
   padding: var(--spacing-xl);
+  /* Add extra padding at bottom for mobile keyboard */
+  padding-bottom: calc(var(--spacing-xl) + 50vh);
+  margin-bottom: var(--spacing-md);
 }
 
 .feedback-close-btn {
@@ -1431,10 +1434,14 @@ tbody tr:hover {
 
   .feedback-modal-content {
     padding: var(--spacing-md);
+    /* Reduce max-height to ensure space for keyboard */
     max-height: calc(100vh - 2rem);
+    /* Ensure content is scrollable */
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     margin-top: var(--spacing-md);
+    /* Extra bottom padding for keyboard on mobile */
+    padding-bottom: calc(var(--spacing-md) + 60vh);
   }
 
   .feedback-actions {
