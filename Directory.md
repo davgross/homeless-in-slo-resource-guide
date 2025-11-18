@@ -1162,7 +1162,7 @@
 
 - Phone: [805-781-4687](tel:+1-805-781-4687)
 - Email: [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us)
-- Note: [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entrypoint for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
+- Note: [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entry-point for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
 
 ## <a id="EyeCare-America">EyeCare America</a>
 

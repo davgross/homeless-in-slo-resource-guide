@@ -6,117 +6,100 @@ const { spawnSync } = require('child_process');
 
 // Custom whitelist for domain-specific terms
 const WHITELIST = new Set([
-  // Place names
-  'SLO', 'Obispo', 'Atascadero', 'Arroyo', 'Grande', 'Cayucos', 'Cambria',
-  'Nipomo', 'Oceano', 'Templeton', 'Morro', 'Grover', 'Pismo', 'Avila',
-  'Los', 'Osos', 'San', 'Luis', 'Miguel', 'Margarita', 'Shandon', 'Creston',
-  'Paso', 'Robles', 'Baywood', 'Simeon', 'Estero', 'Woodlands', 'Callender',
-  'Betteravia', 'Orcutt', 'Guadalupe', 'Santa', 'Maria', 'Halcyon', 'Leoni',
-  'Rockaway', 'Barka', 'Balay', 'Ko', 'Toscano', 'Moylan', 'El', 'Camino',
-  'Solana', 'Laguna', 'Ventura', 'Carmel', 'Tiburon', 'Goleta', 'Cuyama',
-
-  // Organizations and agencies
-  'CAPSLO', 'ECHO', 'CHC', 'TMHA', 'HASLO', 'SLOLAF', 'CASA', 'GALA',
-  'NAMI', 'ACLU', 'IHSS', 'WIC', 'HiCAP', 'GLAD', 'UndocuSupport',
-  'CalWORKS', 'CalFresh', 'CenCali', 'CenCal', 'Medi-Cal', 'Medi', 'FamilyPACT',
-  'PathPoint', 'SmartShare', 'Womenade', 'SESLOC', 'CoastHills',
-  'SLOCOG', 'RTA', 'YMCA', 'KOA', 'CCADRC', 'CCATC', 'CCDS',
-  'CHC', 'CES', 'BHBH', 'HCHP', 'HSP', 'MISP', 'MHET', 'UndocuSupport',
-  'NeighborAid', 'FamilyPACT', 'TranzCentralCoast', 'BlackHorse',
-  'MakerSpace', 'EmergencySlo', 'CloudLibrary', 'LearningExpress',
-  'Tri', 'Lifepoint', 'Universalists', 'Cuesta', 'MedStop', 'Eckerd',
-  'UnitedHealthcare', 'Lifesigns', 'LifeSteps', 'Freecycle',
-  'Kreuzberg', 'Mindbody', 'CalTrans', 'CalWORKs',
+  // Organizations, agencies, programs, and services
+  'CAPSLO', 'ECHO', 'CHC', 'TMHA', 'HASLO', 'SLOLAF', 'CASA', 'GALA', 'NAMI', 'ACLU', 'IHSS', 'WIC',
+  'HiCAP', 'GLAD', 'UndocuSupport', 'CalWORKS', 'CalFresh', 'CenCali', 'CenCal', 'Medi-Cal', 'Medi',
+  'FamilyPACT', 'PathPoint', 'SmartShare', 'Womenade', 'SESLOC', 'CoastHills', 'SLOCOG', 'RTA',
+  'YMCA', 'KOA', 'CCADRC', 'CCATC', 'CCDS', 'CHC', 'CES', 'BHBH', 'HCHP', 'HSP', 'MISP', 'MHET',
+  'UndocuSupport', 'NeighborAid', 'FamilyPACT', 'TranzCentralCoast', 'BlackHorse', 'MakerSpace',
+  'EmergencySlo', 'CloudLibrary', 'LearningExpress', 'Tri', 'Lifepoint', 'Universalists', 'Cuesta',
+  'MedStop', 'Eckerd', 'UnitedHealthcare', 'Lifesigns', 'LifeSteps', 'Freecycle', 'Kreuzberg',
+  'Mindbody', 'CalTrans', 'CalWORKs', 'Isabell', 'SLOCo', 'Nar', 'Homekey', 'Runabout',
+  'Paratransit', 'RecycleFest', 'NeedyMeds', 'EyeCare', 'HouseKeys', 'MyHouseKeys', 'BenefitsCal',
+  'CalConnect', 'AlertSLO', 'PrepareSLO', 'Foodshare', 'ReStore', 'HomeShare', 'Bangers', 'Kritter',
+  'StateSideLegal', 'HelpSLO', 'VivaSLO', 'NavSLO', 'CalFRESH', 'FlexJobs', 'CalRecycle', 'myEDD',
+  'WestLaw', 'OnLaw', 'InfantSEE', 'LifeLine', 'iRideshare', 'Calendly', 'Denti', 'VetWell',
+  'Vento', 'Safeline', 'Warmline', 'BikeLink', 'CalFresh', 'RiderPortal', 'moovit', 'Noor',
+  'Lumina', 'Aegis', 'Aevum', 'Genoa', 'Tikva', 'Agape', 'Alano', 'Arise', 'Vineyard', 'Loaves',
+  'Fishes', 'Terrace', 'Sunny', 'Acres', 'Rapha', 'LyonHeart', 'Parkwood', 'Vituity', 'Waterman',
+  'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
+  'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO',
 
   // Common abbreviations
-  'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV',
-  'RV', 'RVs', 'LGBTQ', 'LGBTQIA', 'ESL', 'GED', 'PC290',
-  'PDF', 'URL', 'URLs', 'App', 'app', 'Ctrl', 'Alt', 'Cmd',
-  'LGBTQ', 'LGBTQ+',
+  'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
+  'ESL', 'GED', 'PC290', 'PDF', 'URL', 'URLs', 'App', 'app', 'Ctrl', 'Alt', 'Cmd', 'LGBTQ+',
+  'STD', 'SoCal', 'Wi', 'Fi',
 
   // Days and times
-  'M-F', 'M-Th', 'Tu-Sa', 'am', 'pm', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun',
-  'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su',
+  'M-F', 'M-Th', 'Tu-Sa', 'am', 'pm', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun', 'Mo', 'Tu',
+  'We', 'Th', 'Fr', 'Sa', 'Su',
 
-  // Street types and common words
-  'St', 'Ave', 'Rd', 'Dr', 'Blvd', 'Ln', 'Ct', 'Cir', 'Pkwy', 'Pl',
-  'Higuera', 'Monterey', 'Foothill', 'Broad', 'Prado', 'Marsh',
-  'Johnson', 'Phillips', 'Kendall', 'Southwood', 'Oceano',
-  'Brizzolara', 'Chorro', 'Trouville', 'Oceanaire', 'Tefft',
-  'Zaca', 'Aerovista', 'Leff', 'Islay', 'Quintana', 'Calle',
-  'Manzanita', 'Sunnyside', 'Madera', 'Tulare', 'Fredericks',
-  'Dalidio', 'Loomis', 'Tolosa', 'Curbaril', 'Paseo', 'Parkview',
-  'Lawton', 'Longbranch', 'Hollister', 'Napa', 'Ferrini',
-  'Woodbridge', 'Toro', 'Fernwood', 'Eto', 'Descanso', 'Campo',
-  'Cerro', 'Romauldo', 'Stoneridge', 'Rockview',
+  // Place names
+  'SLO', 'Obispo', 'Atascadero', 'Arroyo', 'Grande', 'Cayucos', 'Cambria', 'Nipomo', 'Oceano',
+  'Templeton', 'Morro', 'Grover', 'Pismo', 'Avila', 'Los', 'Osos', 'San', 'Luis', 'Miguel',
+  'Margarita', 'Shandon', 'Creston', 'Paso', 'Robles', 'Baywood', 'Simeon', 'Estero', 'Woodlands',
+  'Callender', 'Betteravia', 'Orcutt', 'Guadalupe', 'Santa', 'Maria', 'Halcyon', 'Leoni',
+  'Rockaway', 'Barka', 'Balay', 'Ko', 'Toscano', 'Moylan', 'El', 'Camino', 'Solana', 'Laguna',
+  'Ventura', 'Carmel', 'Tiburon', 'Goleta', 'Cuyama', 'Cotchett', 'Wye', 'Shamel',
 
-  // Program/service names
-  'Homekey', 'Runabout', 'Paratransit', 'RecycleFest',
-  'NeedyMeds', 'EyeCare', 'HouseKeys', 'MyHouseKeys',
-  'BenefitsCal', 'CalConnect', 'AlertSLO', 'PrepareSLO',
-  'Foodshare', 'ReStore', 'HomeShare', 'Bangers', 'Kritter',
-  'StateSideLegal', 'HelpSLO', 'VivaSLO', 'NavSLO',
-  'CalFRESH', 'FlexJobs', 'CalRecycle', 'myEDD',
-  'WestLaw', 'OnLaw', 'InfantSEE', 'LifeLine', 'iRideshare',
-  'Calendly',
+  // Street types and names
+  'St', 'Ave', 'Rd', 'Dr', 'Blvd', 'Ln', 'Ct', 'Cir', 'Pkwy', 'Pl', 'Higuera', 'Monterey',
+  'Foothill', 'Broad', 'Prado', 'Marsh', 'Johnson', 'Phillips', 'Kendall', 'Southwood', 'Oceano',
+  'Brizzolara', 'Chorro', 'Trouville', 'Oceanaire', 'Tefft', 'Zaca', 'Aerovista', 'Leff', 'Islay',
+  'Quintana', 'Calle', 'Manzanita', 'Sunnyside', 'Madera', 'Tulare', 'Fredericks', 'Dalidio',
+  'Loomis', 'Tolosa', 'Curbaril', 'Paseo', 'Parkview', 'Lawton', 'Longbranch', 'Hollister', 'Napa',
+  'Ferrini', 'Woodbridge', 'Toro', 'Fernwood', 'Eto', 'Descanso', 'Campo', 'Cerro', 'Romauldo',
+  'Stoneridge', 'Rockview', 'Bannon', 'Empresa', 'Tamson', 'Trigo', 'Fiero', 'Farroll', 'Bello',
+  'Niblick', 'Ysabel', 'Ardilla', 'Clarkie', 'Viento', 'Esparto', 'Noveno', 'Pinecove', 'Pereira',
+  'Wavertree', 'Nickerson', 'Portola', 'Empleo', 'Posada', 'Bluerock', 'Earthwood', 'Fel',
+  'Kilbern', 'Entrada', 'Breck', 'Corrida',
 
-  // Names
-  'Noor', 'Lumina', 'Aegis', 'Aevum', 'Genoa', 'Tikva',
-  'Agape', 'Alano', 'Arise', 'Vineyard', 'Loaves', 'Fishes',
-  'DeVaul', 'Sunny', 'Acres', 'Rapha', 'LyonHeart', 'Anna',
-  'Judson', 'Terrace', 'Macadero', 'Cleaver', 'Clark',
-  'Halcyon', 'Willow', 'Madonna', 'Marvin', 'Parkwood',
-  'Vituity', 'Waterman', 'Middlehouse', 'Gryphon', 'Lizzie',
-  'Betty', 'Bettys', 'Woodson', 'Grayson', 'Ariana', 'Nielson',
+  // Personal Names
+  'Anna', 'Judson', 'DeVaul', 'Macadero', 'Cleaver', 'Clark', 'Halcyon', 'Willow', 'Madonna',
+  'Marvin', 'Lizzie', 'Betty', 'Bettys', 'Woodson', 'Grayson', 'Ariana', 'Nielson', 'Lamore',
+  'Vania', 'Agama', 'Layne', 'Rupe', 'Jauregui', 'Bruse', 'Rossi', 'Villalobos', 'Dowler',
+  'Rocio', 'Anaya', 'Butz',
 
   // Misc
-  'website', 'email', 'voicemail', 'hotline', 'nonprofit',
-  'unhoused', 'rehousing', 'parolee', 'parolees',
-  'COVID', 'COVID-19', 'telehealth', 'telemedicine',
-  'rideshare', 'ridesharing', 'carpool', 'carpooling',
-  'copay', 'copays', 'deductible', 'coinsurance',
-  'waitlist', 'waitlisted', 'waitlisting',
-  'dropdown', 'checkbox', 'signup', 'login',
-  'apps', 'smartphone', 'smartphones',
-  'ok', 'OK', 'okay', 'Okay',
-  'psych', 'psychiatric', 'psychiatry', 'meds', 'rehab', 'detox',
-  'VitalChek', 'NaloxBoxes', 'DD214',
-  'Narcan', 'naloxone', 'Naloxone', 'suboxone', 'Suboxone',
-  'buprenorphine', 'fentanyl', 'benzodiazepines',
-  'homebound', 'farmworkers', 'responders', 'underserved',
-  'iCloud', 'iPhones', 'Wi-Fi', 'hotspots',
-  'Uber', 'Lyft', 'vanpool', 'motorhome',
-  'jobseekers', 'résumé', 'bootcamp', 'bootcamps',
-  'español', 'Español', 'Mixteco',
-  'prediabetes', 'microchipping', 'décor',
-  'mentorship', 'onboarding', 'unenrolled',
-  'homeownership', 'homebuilding', 'Vite', 'DOMPurify',
-  'subreddit', 'capita', 'et', 'cetera',
+  'website', 'email', 'voicemail', 'hotline', 'nonprofit', 'unhoused', 'rehousing', 'parolee',
+  'parolees', 'COVID', 'COVID-19', 'telehealth', 'telemedicine', 'rideshare', 'ridesharing',
+  'carpool', 'carpooling', 'copay', 'copays', 'deductible', 'coinsurance', 'waitlist', 'waitlisted',
+  'waitlisting', 'dropdown', 'checkbox', 'signup', 'login', 'apps', 'smartphone', 'smartphones',
+  'ok', 'OK', 'okay', 'Okay', 'psych', 'psychiatric', 'psychiatry', 'meds', 'rehab', 'detox',
+  'VitalChek', 'NaloxBoxes', 'DD214', 'Narcan', 'naloxone', 'Naloxone', 'suboxone', 'Suboxone',
+  'buprenorphine', 'fentanyl', 'benzodiazepines', 'homebound', 'farmworkers', 'responders',
+  'underserved', 'iCloud', 'iPhones', 'Wi-Fi', 'hotspots', 'Uber', 'Lyft', 'vanpool', 'motorhome',
+  'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes', 'microchipping', 'décor',
+  'mentorship', 'onboarding', 'unenrolled', 'homeownership', 'homebuilding', 'Vite', 'DOMPurify',
+  'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite', 'hemoccult', 'hydrocortisone',
+  'victimizer', 'preparer', 'farmworker', 'unpermitted', 'unburned',
+
+  // Hyphenated prefixes
+  'pre', 'tri',
 
   // Common contractions and informal
-  "don't", "doesn't", "didn't", "won't", "can't", "isn't", "aren't",
-  "weren't", "wasn't", "haven't", "hasn't", "hadn't", "shouldn't",
-  "wouldn't", "couldn't", "you're", "they're", "we're", "it's",
-  "that's", "there's", "here's", "what's", "who's", "where's",
+  "don't", "doesn't", "didn't", "won't", "can't", "isn't", "aren't", "weren't", "wasn't", "haven't",
+  "hasn't", "hadn't", "shouldn't", "wouldn't", "couldn't", "you're", "they're", "we're", "it's",
+  "that's", "there's", "here's", "what's", "who's", "where's", "you've",
 
-  "don’t", "doesn’t", "didn’t", "won’t", "can’t", "isn’t", "aren’t",
-  "weren’t", "wasn’t", "haven’t", "hasn’t", "hadn’t", "shouldn’t",
-  "wouldn’t", "couldn’t", "you’re", "they’re", "we’re", "it’s",
-  "that’s", "there’s", "here’s", "what’s", "who’s", "where’s",
+  "don’t", "doesn’t", "didn’t", "won’t", "can’t", "isn’t", "aren’t", "weren’t", "wasn’t", "haven’t",
+  "hasn’t", "hadn’t", "shouldn’t", "wouldn’t", "couldn’t", "you’re", "they’re", "we’re", "it’s",
+  "that’s", "there’s", "here’s", "what’s", "who’s", "where’s", "you’ve",
 
+  // Possessives
+  "Foxy's", "Poly's",
+  "Foxy’s", "Poly’s",
+  
   // Words that might be flagged but are valid
-  'pantries', 'thrift', 'thrifting', 'recycler', 'recyclers',
-  'respite', 'recuperative', 'sobering', 'detox',
-  'eligibility', 'ineligible', 'uninsured', 'underinsured',
-  'homeless', 'homelessness', 'houseless', 'unsheltered',
-  'subsidized', 'subsidize', 'copayment', 'copayments',
-  'symptom', 'symptoms', 'syndrome', 'syndromes',
-  'strengths', 'lengthy', 'vet', 'vets', 'veteran', 'veterans',
-  'sober', 'sobriety', 'outpatient', 'inpatient', 'psychology',
-  'opioid', 'benzodiazepine',
+  'pantries', 'thrift', 'thrifting', 'recycler', 'recyclers', 'respite', 'recuperative', 'sobering',
+  'detox', 'eligibility', 'ineligible', 'uninsured', 'underinsured', 'homeless', 'homelessness',
+  'houseless', 'unsheltered', 'subsidized', 'subsidize', 'copayment', 'copayments', 'symptom',
+  'symptoms', 'syndrome', 'syndromes', 'strengths', 'lengthy', 'vet', 'vets', 'veteran', 'veterans',
+  'sober', 'sobriety', 'outpatient', 'inpatient', 'psychology', 'opioid', 'benzodiazepine',
 
-  // Spanish
-  'familia', 'por', 'todo', 'nueva', 'generación', 'buena',
+  // Spanish and Latin
+  'familia', 'por', 'todo', 'nueva', 'generación', 'buena', 'de', 'capita', 'et', 'cetera',
+  'español', 'Español', 'Mixteco', 'cortina', 'del', 'brisas', 'norte', 'd’Arroyo', 'Indigena',
 ]);
 
 // Simple dictionary of common words (you could expand this or use a larger dictionary)
@@ -133,7 +116,7 @@ const SKIP_PATTERNS = [
   /^mailto:/i,               // Email links
   /^tel:/i,                  // Phone links
   /^sms:/i,                  // SMS links
-  /\.(org|com|gov|edu|net|io|co|uk|us|ca|au|church|info|biz)$/i,  // Ends with domain extension
+  /\.(org|com|gov|edu|net|io|co|uk|us|ca|au|church|info|biz|guide)$/i,  // Ends with domain extension
   /^\d{3}-\d{3}-\d{4}/,      // Phone numbers
   /^\d+$/,                   // Pure numbers
   /^[A-Z]{2,}$/,             // All caps (likely acronyms not in whitelist)
@@ -215,7 +198,7 @@ function extractWords(markdown) {
     // Remove domain-looking patterns (something.org, subdomain.something.com, etc.)
     // Also captures paths after domains (e.g., example.com/page.html)
     // Handles domains with dashes (e.g., my-domain.com)
-    text = text.replace(/\b[a-z0-9-]+(\.[a-z0-9-]+)*\.(org|com|gov|edu|net|io|co|uk|us|ca|au|church|info|biz)([^\s]*)/gi, ' ');
+    text = text.replace(/\b[a-z0-9-]+(\.[a-z0-9-]+)*\.(org|com|gov|edu|net|io|co|uk|us|ca|au|church|info|biz|guide)([^\s]*)/gi, ' ');
 
     // Remove markdown links but keep the link text
     text = text.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
@@ -227,7 +210,7 @@ function extractWords(markdown) {
     text = text.replace(/[*_~]/g, '');
 
     // Split into words
-    const lineWords = text.split(/[\s,;:.()\[\]{}"”'’!?—–-]+/);
+    const lineWords = text.split(/[\s,;:.()\[\]{}"”!?—–-]+/);
 
     for (const word of lineWords) {
       if (word.length === 0) continue;

@@ -29,7 +29,7 @@ It uses colors and icons to help you quickly identify what kind of link or butto
 
 This guide is a project of [Shower the People](https://showerthepeopleslo.org/), a nonprofit organization serving people experiencing homelessness in San Luis Obispo County.
 
-*Special thanks to Laurel Woodson & Mark Grayson for the funding that kickstarted this project.*
+*Special thanks to Laurel Woodson & Mark Grayson for the funding that kick-started this project.*
 
 ## How to Report Errors or Suggest Improvements
 

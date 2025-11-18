@@ -113,7 +113,7 @@ This guide makes it easier.
    <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (M–F, 8am–5pm), or <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Adult Protective Services</td></tr>
    <tr><td><a href="tel:+1-805-781-5437">805-781-5437</a> or <a href="tel:+1-805-781-1700">805-781-1700</a></td><td>Child Welfare Services emergency suspected child abuse reporting line</td></tr>
    <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
-   <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or manmade disaster)</td></tr>
+   <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or man-made disaster)</td></tr>
   <tr><th colspan="2" style="text-align:left;">⇨ Health and Behavioral Health Information:</th></tr>
    <tr><td><a href="tel:+1-805-540-6576">800-540-6576</a> (ages 25+), <a href="tel:+1-805-503-2316">805-503-2316</a> (ages 16–25), <a href="tel:+1-805-540-5552">805-540-5552</a> (peer support)</td><td>Behavioral Health Navigator: Get help finding the help you need and understanding the local behavioral health system</td></tr>
    <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Poison Control: Treatment advice from experts in poisoning care</td></tr>
@@ -913,7 +913,7 @@ They typically offer curb-to-curb service and charge $2.25–8.00 each way (some
 
 [Greyhound](https://www.greyhound.com/) and [Trailways](https://trailways.com/) operate between-cities bus routes.
 [Amtrak](https://www.amtrak.com/) has rail lines and buses that run all over the U.S.
-Although they are best-known for their trains, their bus service can often outcompete Trailways and Greyhound on price, speed, and convenience.
+Although they are best-known for their trains, their bus service can often out-compete Trailways and Greyhound on price, speed, and convenience.
 You can catch these trains and buses from the following locations in SLO County:
 
 | Location | Greyhound | Trailways | Amtrak train | Amtrak bus |
@@ -1560,7 +1560,7 @@ They typically cost money, but there is a scholarship program for people with lo
 
 ### <a id="poison-oak">Poison Oak</a>
 
-Poison oak is a common plant in SLO County and grows everywhere from shaded wet creekbeds to dry sunny hillsides.
+Poison oak is a common plant in SLO County and grows everywhere from shaded wet creek beds to dry sunny hillsides.
 It is a shrub or vine and sometimes also climbs trees and so can appear to be tree branches.
 Its leaves appear in groups of three, but they can have a variety of shapes and colors (dark to pale green, pale orange, bright red).
 The plants sometimes also display clusters of small green, pale, or red berries.
@@ -1849,7 +1849,7 @@ The [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/
 
 Your healthcare provider or hospice can help you fill out a Physician Orders for Life-Sustaining Treatment (POLST) form.
 It instructs medical care providers whether they should try to extend your life however they can, or whether they should avoid certain types of burdensome treatments like CPR, feeding tubes, or a mechanical breathing apparatus.
-A POLST form only works if you or your legally-recognized decisionmaker signs it *and* your physician, nurse practitioner, or physician assistant also signs it.
+A POLST form only works if you or your legally-recognized decision-maker signs it *and* your physician, nurse practitioner, or physician assistant also signs it.
 You can change your mind after you fill out such a form and can change it or discontinue it.
 You can learn more about the form and review one online, in several languages, at [capolst.org](https://capolst.org/).
 
@@ -2016,7 +2016,7 @@ HiCAP can also help you file Medicare denial appeals or make Medicare fraud refe
 To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties.
 HiCAP is free.
 
-Central California Legal Services’s [Health Consumer Center](https://centralcallegal.org/health/) program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment.
+Central California Legal Services’ [Health Consumer Center](https://centralcallegal.org/health/) program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment.
 
 <!--
 To-do: add more stuff about e.g. ombudsmen who can help you with health insurance denial or other denials of benefits.
@@ -2444,7 +2444,7 @@ You should speak with the postmaster at the post office where you want to receiv
 The post office will hold general delivery mail for you for 30 days.
 You must have a valid photo ID to pick up your mail at the post office.
 This service is free.
-However, this is not a long-term solution; it is meant for temporary use (for instance by travellers passing through town).
+However, this is not a long-term solution; it is meant for temporary use (for instance by travelers passing through town).
 The post office may stop accepting general delivery mail for you if you try to use this method for a long time or if you get too much mail.
 
 <!-- Other options to investigate:
@@ -2990,15 +2990,15 @@ This program is for California residents with medically-certified limitations of
    - Eligibility: Available to all jobseekers; some programs have income requirements (CalWORKs, CalFRESH recipients prioritized for scholarships)
    - Note: Coding bootcamp information appropriately listed here under Internet/Digital Access; also cross-referenced in [Education section](#education-job-skills-training-certification-tutoring-literacy) under workforce development
 1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
-   - What's Available: Free public internet access via desktop PCs, WiFi, and Chromebooks; Full Office Suite on desktop computers; printing services (for a fee)
+   - What's Available: Free public internet access via desktop PCs, Wi-Fi, and Chromebooks; Full Office Suite on desktop computers; printing services (for a fee)
    - Digital services: CloudLibrary eBooks/audiobooks, Libby, Kanopy, and Hoopla digital apps; Brainfuse free online tutoring (K-12); Ask a Librarian online service
    - Eligibility: Anyone can use internet and printing services
-1. Free WiFi Locations
+1. Free Wi-Fi Locations
    - County Government Buildings (pending review): Free Wi-Fi access available in all SLO County government buildings throughout the county including locations in Arroyo Grande, Atascadero, Morro Bay, Nipomo, Paso Robles, and SLO <!-- Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi) -->
-   - City of SLO: Various public locations with WiFi access; check city's broadband plan for current hotspots <!-- Source: [slocity.org](https://www.slocity.org/living/neighborhood/broadband) -->
-      - Best locations: Coffee shops (Starbucks, BlackHorse Espresso), restaurants (Firestone Grill), hotels, SLO County Regional Airport (terminal-wide free WiFi)
-      - Network names: Vary by business (SLO-INN, Urbane Cafe Guest, IHOP Guest, San Luis Inn WiFi); passwords typically provided on-site
-      - WiFi finder: SLO Chamber of Commerce online WiFi map shows locations and access details; WiFi Map app lists 126+ hotspots in area <!-- Source: https://www.wifimap.io/ -->
+   - City of SLO: Various public locations with Wi-Fi access; check city's broadband plan for current hotspots <!-- Source: [slocity.org](https://www.slocity.org/living/neighborhood/broadband) -->
+      - Best locations: Coffee shops (Starbucks, BlackHorse Espresso), restaurants (Firestone Grill), hotels, SLO County Regional Airport (terminal-wide free Wi-Fi)
+      - Network names: Vary by business (SLO-INN, Urbane Cafe Guest, IHOP Guest, San Luis Inn Wi-Fi); passwords typically provided on-site
+      - Wi-Fi finder: SLO Chamber of Commerce online Wi-Fi map shows locations and access details; Wi-Fi Map app lists 126+ hotspots in area <!-- Source: https://www.wifimap.io/ -->
 1. Community Organizations with Computer/Internet Access
    1. [**5Cities Homeless Coalition**](Directory.md#5CHC) office
       - What’s Available: Computer and internet access for clients
@@ -3032,14 +3032,14 @@ This program is for California residents with medically-certified limitations of
    1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
       - What's Available: Public computer stations with USB charging ports; electrical outlets available near seating areas
       - Access: Open to all members of the public during library hours
-      - Additional: WiFi access for personal devices
+      - Additional: Wi-Fi access for personal devices
 - Community Centers and Public Buildings
    1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center): Computer stations with charging access during business hours
    1. County Government Buildings
       - What’s Available: Public seating areas with electrical outlets in most county buildings
       - Access: During regular business hours; public areas only
 - Alternative Charging Options
-   - Verified Coffee Shops with WiFi/Charging: Scout Coffee Co. (1130 Garden St), Kreuzberg Coffee Company (685 Higuera St), BlackHorse Espresso & Bakery (3590 Broad St Ste 150)
+   - Verified Coffee Shops with Wi-Fi/Charging: Scout Coffee Co. (1130 Garden St), Kreuzberg Coffee Company (685 Higuera St), BlackHorse Espresso & Bakery (3590 Broad St Ste 150)
    - Starbucks Locations: Downtown (17 Chorro St), Madonna Road (253 Madonna Rd); note some Starbucks locations have covered outlets to prevent device charging
    - Note: Call ahead to confirm outlet availability; policies vary by location <!-- Source: https://downtownslo.com/ -->
 
@@ -3373,7 +3373,7 @@ To-do: Integrate these into the list above
 Note: Added Atascadero Senior Center to Directory (October 2025) — offers free lunch M–F, fitness classes (Tai Chi, chair yoga, walking groups), games, arts/crafts, computer access, medical equipment loans
 Note: Added Central Coast Senior Center (Oceano) to Directory (October 2025) — offers lunch M–F, monthly luncheon, Bingo, Bunco, Tai Chi, art classes
 Note: Added Morro Bay Senior Center to Directory (October 2025) — offers medical equipment loans, games (Bingo, cards, etc.), fitness classes (Tai Chi, Pickleball, exercise programs), support groups
-Note: Added Nipomo Senior Center to Directory (October 2025) — offers lunch program, equipment loans, exercise classes, Bingo, games, WiFi, monthly potlucks
+Note: Added Nipomo Senior Center to Directory (October 2025) — offers lunch program, equipment loans, exercise classes, Bingo, games, Wi-Fi, monthly potlucks
 Note: Updated Paso Robles Senior Center (October 2025) — see Directory entry for full list of services including daily hot lunch, computer access, lending library, Medicare counseling, legal aide, and volunteer opportunities
 Note: Added Santa Margarita Senior Center to Directory (October 2025) — offers lunch, HiCAP counseling, AARP Mature Driver courses, health screenings (detailed activity info not available online)
 Note: Enhanced SLO Senior Center entry in Directory (October 2025) — offers fitness classes, educational programs (discussions/TED Talks), games (Bingo, Bridge, Mahjong, Dominoes), clubs (Philatelic Society, Gem and Mineral)
@@ -3657,7 +3657,7 @@ See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Direc
 See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the Directory for a list of several in SLO County.
 
 The Shandon branch of [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has a tool-lending library.
-People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leafblower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench.
+People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leaf blower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench.
 You must complete some extra forms and a liability waiver to use the tool lending library.
 
 PG&E’s [Energy Savings Assistance (ESA) Program](https://www.pge.com/en/save-energy-and-money/energy-saving-programs/energy-savings-assistance-program.html) helps low-income households upgrade or repair water heaters, furnaces, lighting, and appliances for no cost.
