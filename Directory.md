@@ -224,7 +224,7 @@
 | 345 S. Halcyon Rd. (Arroyo Grande) <a class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Alliance for Pharmaceutical Access">Map</a> | [805-489-4261 x4267](tel:+1-805-489-4261;ext=4267) | Mo. 1pm–7pm |
 | 1428 Phillips Lane #B4 (SLO, inside Noor Clinic) <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alliance for Pharmaceutical Access">Map</a> | [805-548-0894](tel:+1-805-548-0894) | Tu. 1pm–5pm |
 
-## American Academy of Opthamology
+## American Academy of Ophthalmology
 
 > *See [**EyeCare America**](#EyeCare-America)*
 
@@ -3478,9 +3478,9 @@ There are several urgent care options, including:
    - Text: [888-417-6180](tel:+1-888-417-6180)
 - Hours: M–Th 8am–5pm; Fri. 8am–4:30pm (closed on the last Wednesday of the month)
 - How to access: by appointment only (call or text to make an appointment)
-- Who is eligible: This program is restricted to people for whom both of the following requiremts are true:
+- Who is eligible: This program is restricted to people for whom both of the following requirements are true:
    - You are pregnant, breastfeeding, gave birth or had a pregnancy loss in the past six months, or you care for a child under the age of five
-   - And you live in California and have income below a certain threshhold, or receive Medi-Cal, CalWORKs, or CalFresh benefits.
+   - And you live in California and have income below a certain threshold, or receive Medi-Cal, CalWORKs, or CalFresh benefits.
 
 ## <a id="Woods-Humane-Society">Woods Humane Society</a>
 

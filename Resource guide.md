@@ -93,7 +93,7 @@ This guide makes it easier.
    <tr><td><a href="tel:+1-988">988</a> or <a href="tel:+1-800-273-8255">800-273-8255</a></td><td>National Suicide Prevention Lifeline (<a href="tel:+1-800-799-4889">800-799-4889</a> if you are deaf or hard of hearing)</td></tr>
    <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a> or <a href="tel:+1-805-783-0607">805-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr>
    <tr><td>Text HOME to <a href="sms:741741?&body=HOME">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> on-line</td></tr>
-   <tr><td><a href="tel:+1-833-317-4673">833-317-4673</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidental emotional support</td></tr>
+   <tr><td><a href="tel:+1-833-317-4673">833-317-4673</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidential emotional support</td></tr>
    <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Mental Health Evaluation Team (MHET) and Mobile Crisis Team: 24/7 psychiatric emergency response throughout SLO County; responds to psychiatric emergency calls and provides assessments for adults or children</td></tr>
   <tr><th colspan="2" style="text-align:left;">⇨ For Young People:</th></tr>
    <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Youth Crisis Line, for people in California ages 12–24; call or text</td></tr>
@@ -485,8 +485,8 @@ Contact them directly to access the program.
 
 Some other low-income options include:
 
-- [Roosevelt Family Apartmments](https://www.rooseveltfamilyapts.com/) in Nipomo.
-- [San Luis Bay Apartmments](https://www.gsfpi.com/) in Nipomo.
+- [Roosevelt Family Apartments](https://www.rooseveltfamilyapts.com/) in Nipomo.
+- [San Luis Bay Apartments](https://www.gsfpi.com/) in Nipomo.
 
 #### For Seniors
 
@@ -519,13 +519,13 @@ You can find additional [senior housing listings](https://centralcoastseniors.or
 If you need Assistive Living or Residential Care for the Elderly (RCFE) housing, there are some options in SLO County, but none of them accept Medi-Cal.
 If you need such housing and Medi-Cal is your only health insurance, you can get on a waiting list for a facility outside of SLO County.
 This is a lengthy process, so if you think you might need such a living situation in the future (even as long as a year or more from now), you should try to start this process now.
-Discuss this with your case maanger if you have one, or with the [**Long-Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman).
+Discuss this with your case manager if you have one, or with the [**Long-Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman).
 
 #### Future Possibilities
 
 The projects in this subsection are not yet housing people but hope to do so soon.
 
-[**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarly single seniors.
+[**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarily single seniors.
 As of October 2025 the project is still under construction and is not admitting residents.
 
 [**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city on county-owned land.
@@ -929,7 +929,7 @@ You can catch these trains and buses from the following locations in SLO County:
 
 Many transit services have reduced fares for seniors.
 People aged 80 and older ride for free on all SLO RTA and SLO Transit routes.
-In addition, there are some transit options specificially for seniors.
+In addition, there are some transit options specifically for seniors.
 
 For example, the [**Senior Go!**](Directory.md#Senior-Go) service serves people aged 65 and up.
 It serves all of SLO County, and all trips must be within SLO County.
@@ -1406,7 +1406,7 @@ The [**Community Health Centers**](Directory.md#CHC) offices in Paso Robles and 
 
 #### Eyeglasses
 
-The American Academy of Opthamology maintains [a list of sources of free and low-cost eyeglasses](http://aao.org/eyecare-america/resources/eye-glasses).
+The American Academy of Ophthalmology maintains [a list of sources of free and low-cost eyeglasses](http://aao.org/eyecare-america/resources/eye-glasses).
 
 You can find a list of Medi-Cal opticians at [provdir.cencalhealth.org](https://provdir.cencalhealth.org/).
 
@@ -1661,7 +1661,7 @@ Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 
 [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services) include drug & alcohol walk-in clinics, detox (medically-assisted treatment), and referral to residential treatment options.
 
 [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) offers medically-assisted treatment, recovery services, and outpatient care.
-Some of their services are availble on a walk-in basis.
+Some of their services are available on a walk-in basis.
 They charge a sliding fee depending on ability to pay.
 They operate the [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) for sobering up, detox, and medically-assisted drug withdrawal.
 
@@ -1773,7 +1773,7 @@ You must also complete 20 hours of community service before beginning treatment.
 They prioritize the removal of offensive or gang-related tattoos, and will remove both visible-and-obvious tattoos (e.g. the face, the back of the hands) and more discreet ones.
 Call them to begin the process.
 
-The [Removery INK-nitiative Program](https://removery.com/services/ink-nitiative) offers free removal of tattoos, if those tattoos are in visible areas (face, hands, arms) or suggest gang or hate group affiliation, to people who have ben incarcerated, are former gang members, or are survivors of domestic abuse or human trafficking.
+The [Removery INK-nitiative Program](https://removery.com/services/ink-nitiative) offers free removal of tattoos, if those tattoos are in visible areas (face, hands, arms) or suggest gang or hate group affiliation, to people who have been incarcerated, are former gang members, or are survivors of domestic abuse or human trafficking.
 Apply on their website.
 
 The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) website lists hundreds of other free or low-cost tattoo removal programs throughout the country.
@@ -1973,7 +1973,7 @@ When possible, take formal self-defense classes to learn proper techniques from 
 
 If you are being taken to court and accused of a serious crime by the government, you have the right to have a lawyer who is trained in the law to help defend you against the charges.
 You have a right to a lawyer even if you do not have enough money to pay one.
-If you cannot affort to hire a lawyer, tell the judge so when you first appear in court, and the judge will assign a public defender to you.
+If you cannot afford to hire a lawyer, tell the judge so when you first appear in court, and the judge will assign a public defender to you.
 [**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) is the primary public defenders’ office in SLO County.
 You must wait until the judge assigns a particular public defender to you before you can discuss your case with them.
 
@@ -2085,7 +2085,7 @@ If you need to research the law, legal precedents, and legal processes, you can 
 The library has thousands of print volumes and also has publicly-accessible computers at which you can access WestLaw, CEB OnLaw, NOLO Guides, Bell’s Compendium, and other electronic legal databases.
 It also has tools with which you can create documents that conform to the standards of local courts.
 
-If you are filing a small claims case (a civil dispute involvking less than $10,000, in which the parties are not represented in court by lawyers), a family law case (for example divorce, child support, child custody), a request for a restraining order, or certain other matters you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services).
+If you are filing a small claims case (a civil dispute involving less than $10,000, in which the parties are not represented in court by lawyers), a family law case (for example divorce, child support, child custody), a request for a restraining order, or certain other matters you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services).
 
 [**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some guides on:
 
@@ -2739,7 +2739,7 @@ Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-296
 The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) offers free employment and training, can help you improve your résumé and your interviewing skills, and can help you find job openings.
 They have specialized services for young people, for veterans, and for people with disabilities.
 
-[**Eckerd Connects Workforce Development**](Directory.md#Eckerd-Connects-Workforce-Development) can help you explore career possibilities, get training and credentialling to help you qualify for more jobs, and find employment.
+[**Eckerd Connects Workforce Development**](Directory.md#Eckerd-Connects-Workforce-Development) can help you explore career possibilities, get training and credentialing to help you qualify for more jobs, and find employment.
 [Apply on-line at their website.](https://eckerd.org/jobs-training/online-application/)
 
 [**CalJOBS**](Directory.md#CalJOBS) is a job listing and resume listing web site.
@@ -2956,7 +2956,7 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
       - Target population: Primarily serves youth and families impacted by trauma
       - Note: Limited direct educational services for general adult homeless population—contact directly for eligibility and current programs
       - Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31638)
-   1. [Cal Learn](https://cdss.ca.gov/cal-learn) — for pregnant or parenting teens to help them finish high school or get an equivalant certificate
+   1. [Cal Learn](https://cdss.ca.gov/cal-learn) — for pregnant or parenting teens to help them finish high school or get an equivalent certificate
 1. Important Notes
    - GED Testing: California uses both GED and [HiSET](https://hiset.org/california/) exams for high school equivalency; both available online and in-person
    - Free Programs: Most adult basic education and GED preparation programs are offered at no cost
