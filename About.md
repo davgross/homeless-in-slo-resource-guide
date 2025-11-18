@@ -1,6 +1,35 @@
 # About This Guide
 
 This resource guide helps people experiencing homelessness in San Luis Obispo County find services and support.
+It uses colors and icons to help you quickly identify what kind of link or button you’re looking at:
+
+## Link Types
+
+| Link Type          | What It Looks Like                                        | What It Does When You Click |
+| ------------------ | --------------------------------------------------------- | --------------------------- |
+| **Directory Link** | <a href="#" data-directory-link="example">Agency Name</a> | Opens detailed information about an agency in a popup window |
+| **Map Link**       | <a href="#" class="map-link">123 Main St.</a>             | Opens the location in your map app |
+| **Phone Link**     | [805-555-0123](tel:+1-805-555-0123)                       | Calls the phone number |
+| **Email Link**     | [contact@example.org](mailto:contact@example.org)         | Opens your email to send a message |
+| **SMS/Text Link**  | [805-555-0123](sms:+1-805-555-0123)                       | Opens your text messaging app |
+| **External Link**  | [Example Website](https://example.com)                    | Opens a website in a new tab |
+
+## Buttons and Features
+
+| Feature               | What It Looks Like                        | What It Does When You Click |
+| --------------------- | ----------------------------------------- | --------------------------- |
+| **Navigation**        | <span style="font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;"><span style="color: var(--primary-color);">**Resources**</span> / <span style="color: var(--primary-color);">**Directory**</span> / <span style="color: var(--primary-color);">**About**</span></span> | Switches between the main sections of this guide |
+| **Search**            | <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif; border: 1px solid var(--primary-color); border-radius: 5px; padding: 0.25rem;">Search…   </span> | Searches for specific topics, agencies, or services |
+| **Table of Contents** | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#3877ff;color:white;font-size:24px;">📑</span> | Returns to the Table of Contents when browsing the Resource Guide |
+| **Feedback**          | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#5a93ff;color:white;font-size:24px;">💬</span> | Sends feedback about errors or suggestions for improvement |
+| **Share**             | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#e75e13;color:white;font-size:24px;">🔗</span> | Shares a link to this resource guide |
+| **Section Share**     | <span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background-color:rgba(231,94,19,0.1);border:1px solid #e75e13;font-size:14px;">🔗</span> | Shares a link to a specific section or subsection |
+
+## About This Project
+
+This guide is a project of [Shower the People](https://showerthepeopleslo.org/), a nonprofit organization serving people experiencing homelessness in San Luis Obispo County.
+
+*Special thanks to Laurel Woodson & Mark Grayson for the funding that kickstarted this project.*
 
 ## How to Report Errors or Suggest Improvements
 
@@ -12,10 +41,6 @@ If you find outdated information, errors, or want to suggest improvements:
 - Send the email that opens with your default email app
 
 Your feedback helps keep this resource current and useful for everyone in our community.
-
-## About This Project
-
-This guide is a project of [Shower the People](https://showerthepeopleslo.org/), a nonprofit organization serving people experiencing homelessness in San Luis Obispo County.
 
 ## Disclaimer
 

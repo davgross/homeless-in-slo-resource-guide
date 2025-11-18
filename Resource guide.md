@@ -2659,19 +2659,16 @@ If you do not qualify for that program, you may still qualify for [Family Electr
 Apply for either program online at [energyinsight.pge.com/carefera](https://energyinsight.pge.com/carefera)
 If you have questions, contact them at [CAREandFERA@pge.com](mailto:CAREandFERA@pge.com) or [877-660-6789](tel:+1-877-660-6789).
 
-<!-- To-do: prosify this list -->
-1. [CAPSLO Home Energy Assistance](https://capslo.org/utility-assistance/) & [LIHEAP (Low Income Home Energy Assistance Program)](https://capslo.org/energy-services/)
-   - Note: Unable to verify from CAPSLO's website whether these are two separate programs or one program with different names (as of January 2025); contact CAPSLO directly for clarification
-   - Services: Payment assistance for gas, propane, or electric utility bills for low-income households
-   - Contact: [805-541-4122](tel:+1-805-541-4122) ext. 25 (confirmed as correct extension) <!-- Source: [energyassistance.us](https://www.energyassistance.us/li/community-action-partnership-of-san-luis-obispo-county) -->
-   - Location: 3970 Short St. #110
-   - How to apply: Contact [**CAPSLO**](Directory.md#CAPSLO) directly for HEAP assistance application
-   - Eligibility: [based on income](https://capslo.org/eligibility-tables-for-energy-services/)
-   - Additional: PG&E REACH program provides up to $300 energy credit; apply at Dollar Energy Fund [888-282-6816](tel:+1-888-282-6816)
-1. [City of SLO Customer Assistance Programs](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs)
-   - Contact: City Utility Billing [805-781-7133](tel:+1-805-781-7133), [ub@slocity.org](mailto:ub@slocity.org)
-   - How to apply: Contact utility billing department for customer assistance program applications and eligibility requirements
-   - Website: [www.slocity.org/government/department-directory/utilities-department](https://www.slocity.org/government/department-directory/utilities-department) for complete program details
+PG&E also has a [Relief for Energy Assistance through Community Help (REACH)](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/relief-for-energy-assistance-through-community-help.html) program.
+It can help people who are threatened with energy bill shutoff during times of crisis by giving them a credit for the amount due on their bill.
+To apply, fill out the [Dollar Energy Fund](https://www.hardshiptools.org/MyApp/Apply.aspx) application form on-line, or call [888-282-6816](tel:+1-888-282-6816).
+
+[**CAPSLO**](Directory.md#CAPSLO) operates the [Low Income Home Energy Assistance Program](https://capslo.org/utility-assistance/) (also known as HEAP or LIHEAP).
+This program helps low-income households in SLO County with one-time assistance to pay their gas, propane, or electric bill.
+It has limited funding, so is only able to offer help while funding is available.
+
+The City of SLO has [Customer Assistance Programs](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs) that can reduce your water, sewer, trash, and recycling bills.
+For details on how to apply, contact the Utility Billing department at [805-781-7133](tel:+1-805-781-7133) or [ub@slocity.org](mailto:ub@slocity.org)
 
 -----
 
@@ -3590,7 +3587,7 @@ In SLO city, contact the Homelessness Response Manager at [dwiberg@slocity.org](
 ### Reporting crimes
 
 To report a crime in process, or a crime where you know who committed it, you should contact the local police department (in a city) or the sheriff (outside city limits).
-Calling [911](+1-911) is the best way of reporting an emergency or a crime in progress.
+Calling [911](tel:+1-911) is the best way of reporting an emergency or a crime in progress.
 In non-emergency situations, you can call the police or sheriff departments directly:
 
 | Location         | Phone Number                                               |
@@ -3669,6 +3666,10 @@ See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the Directo
 The Shandon branch of [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has a tool-lending library.
 People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leafblower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench.
 You must complete some extra forms and a liability waiver to use the tool lending library.
+
+PG&E’s [Energy Savings Assistance (ESA) Program](https://www.pge.com/en/save-energy-and-money/energy-saving-programs/energy-savings-assistance-program.html) helps low-income households upgrade or repair water heaters, furnaces, lighting, and appliances for no cost.
+This can also improve energy efficiency, which will lower your utility bills.
+See their website for information on who is eligible and how to apply, or call [800-933-9555](tel:+1-800-933-9555).
 
 ### Low-Cost
 
