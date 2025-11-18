@@ -19,3 +19,5 @@
 1. Review the site under a variety of color-blindness simulators to see if it's still readable.
 
 1. For things like Little Free Libraries and Little Free Pantries, rather than just giving a large list of them with their street addresses and map links, it would be nice to have a single, zoomable map that shows the locations of *all* of them, perhaps centered on the user's current location (if that location is within the region contaning them).
+
+1. Come up with a site spell-check tool that is markdown-aware, and that can whitelist things like "SLO" or "Obispo" that are valid in our context but unlikely to be in a global English valid word database.

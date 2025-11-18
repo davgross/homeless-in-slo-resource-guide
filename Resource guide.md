@@ -2650,7 +2650,7 @@ You can apply for unemployment benefits through [the myEDD website](https://edd.
 
 ### Utility Assistance Programs
 
-<!-- Note: Low Income Household Water Assistance Program (LIHWAP) appears to have ended in 2024 -->
+<!-- Note: Low Income Household Water Assistance Program (LIHWAP) ended in 2024 -->
 
 Some local utilities have or participate in programs to make it easier for people with limited means to pay their utility bills.
 
@@ -2668,7 +2668,10 @@ This program helps low-income households in SLO County with one-time assistance 
 It has limited funding, so is only able to offer help while funding is available.
 
 The City of SLO has [Customer Assistance Programs](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs) that can reduce your water, sewer, trash, and recycling bills.
-For details on how to apply, contact the Utility Billing department at [805-781-7133](tel:+1-805-781-7133) or [ub@slocity.org](mailto:ub@slocity.org)
+For details on how to apply, contact the Utility Billing department at [805-781-7133](tel:+1-805-781-7133) or [ub@slocity.org](mailto:ub@slocity.org).
+
+Low-income households in Los Osos who qualify for in PG&E’s CARE program (see above) can also get up to 50% off of their sewer bill by applying for [Los Osos Low Income Financial Assistance Program](https://www.slocounty.ca.gov/departments/public-works/services/programs-outreach/los-osos-low-income-financial-assistance-program).
+Contact the County Department of Public Works at [PublicWorks@co.slo.ca.us](mailto:PublicWorks@co.slo.ca.us) or [805-781-5252](tel:+1-805-781-5252) for details.
 
 -----
 
@@ -2699,6 +2702,14 @@ You can apply for these benefits through the local [**Social Security Administra
 You can also [apply on-line](https://www.ssa.gov/apply) at the Social Security Administration’s website.
 If you have a case worker, ask them if they can help you through the process or refer you to someone who can.
 
+To make the application process go smoothly, find out what documentation you need and have that documentation with you when you apply.
+If you do not have a stable mailing address, establish one ahead of time.
+If you are applying for disability, bring your relevant medical records, treatment history, and medical provider contact information.
+Pay stubs and tax records can help to establish your work history, especially if you were paid under-the-table or as a contractor rather than an employee.
+
+Be patient, as the process of applying for benefits can be time-consuming and the bureaucracy can move slowly.
+If you are denied benefits, find out about the appeals process and consider appealing the decision.
+
 If you have a disability and are applying for Social Security Disability Insurance, you may be able to get some immediate financial help from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services)’ “General Assistance Disabled Program” while you wait for your application to be processed.
 They may also be able to assign you a “Benefits Arch Advocate” who can help you apply for SSI and SSDI.
 
@@ -2713,55 +2724,31 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
       - **North County SOAR Services** (pending human review): [**TMHA (Transitions-Mental Health Association)**](Directory.md#TMHA) operates the Homeless Outreach Team (HOT) which works with homeless individuals struggling with mental health issues to link them to services including SSI/SSDI application assistance; TMHA has an Atascadero location (Life House) at 5850 West Mall, Atascadero; contact main office at [805-540-6500](tel:+1-805-540-6500). [**ECHO**](Directory.md#ECHO) shelters in Paso Robles and Atascadero offer comprehensive services including case management and connections to TMHA and other service providers who can assist with SSI/SSDI applications. Source: [t-mha.org](https://www.t-mha.org/) and [echoshelter.org](https://www.echoshelter.org/)
       - **211** can also provide referrals to local SOAR-trained providers
 -->
-<!-- To-do: prosify this stuff: -->
-1. Application Process Tips
-   - Gather documentation: Collect medical records, work history, and identification before applying
-      - Identity verification: Digital identity proofing online or in-person verification required
-      - Address solutions: Use homeless service centers, shelters, or trusted contacts for mail delivery
-      - Medical documentation: Gather all available medical records, treatment history, and provider contact information
-      - Work history: Social Security Administration has your work history, but gather pay stubs or tax records if available
-   - Use support services: Work with case managers, SOAR-trained providers, or disability advocates
-   - Apply early: Process can take months; apply as soon as you become disabled or reach eligibility age
-   - Don't give up: Initial denials are common; appeals process is available and often successful
-1. Special Considerations
-   - Work incentives: Various programs allow work while maintaining benefits—ask about Ticket to Work program
-      - **Ticket to Work Program**: Free voluntary program for ages 18–64 receiving SSDI/SSI; provides career counseling, job training, placement services through Employment Networks or State VR agencies
-      - Protections: Maintains medical benefits while working; protection from medical reviews while using ticket; can return to benefits if work stops
-      - Getting started: Call [866-968-7842](tel:+1-866-968-7842) (TTY [866-833-2967](tel:+1-866-833-2967)) to verify eligibility and learn about services <!-- Source: [choosework.ssa.gov](https://choosework.ssa.gov/) -->
-      - Cross-reference: Also listed in [Education, job skills training section](#education-job-skills-training-certification-tutoring-literacy)
+
+The government encourages you to seek work and to return to work without losing disability benefits.
+The [Ticket to Work Program](https://choosework.ssa.gov/) is a free, voluntary program for people aged 18–64 who are receiving SSDI or SSI benefits.
+It can give you free career counseling, vocational rehabilitation, and job placement and training.
+Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply.
 
 -----
 
 ## <a id="employment-job-boards-etc">Employment, Job Boards, Etc.</a>
 
+### Finding Steady Work
+
+The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) offers free employment and training, can help you improve your résumé and your interviewing skills, and can help you find job openings.
+They have specialized services for young people, for veterans, and for people with disabilities.
+
+[**Eckerd Connects Workforce Development**](Directory.md#Eckerd-Connects-Workforce-Development) can help you explore career possibilities, get training and credentialling to help you qualify for more jobs, and find employment.
+[Apply on-line at their website.](https://eckerd.org/jobs-training/online-application/)
+
+[**CalJOBS**](Directory.md#CalJOBS) is a job listing and resume listing web site.
+You can search for open employment positions on the site, and you can add your resume so that employers can search for you.
+
+Cuesta College students can get help finding a job or an internship from [Cuesta College Career Services](https://www.cuesta.edu/student-support/career-work/career-services/index.html) ([CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu)).
+
 <!-- To-do: prosify this list -->
 
-1. Workforce Development Centers
-   1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) (America's Job Center of California) (formerly Business and Career One Stop)
-      - Services: Comprehensive no-cost employment and training services including resume building, interview workshops, career guidance, job placement assistance, skill development, On-the-Job-Training (OJT) programs, CalJOBS access, employer connections, labor market information; specialized services for youth, veterans, and individuals with disabilities
-      - How to access: Call to schedule appointment or visit website <!-- Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/job-center) -->
-      - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board)
-   1. [**Eckerd Connects Workforce Development**](Directory.md#Eckerd-Connects-Workforce-Development)
-      - **County-wide service** (pending human review): Locations in SLO (3450 Broad St. #103A) and Paso Robles (534 Spring St.) serving North County, South County, and SLO city
-      - What's Available: WIOA-funded training programs, employment services for youth and adults 18+, industry certifications, job placement assistance
-      - Eligibility: Young adults, adults, and dislocated workers; those with significant barriers to employment
-      - Partnership: Manages programs for SLO County including America's Job Center
-      - Special focus: Workforce Innovation and Opportunity Act (WIOA) services
-      - How to start: Attend an information session or apply online at their website; walk-ins OK but reservations encouraged
-      - Source: [eckerd.org](https://eckerd.org/jobs-training/slo/)
-1. Online Job Search and Registration
-   1. [**CalJOBS**](Directory.md#CalJOBS)
-      - Services: Job search, resume creation, employer research, job alerts, training opportunities
-      - Required: Mandatory for unemployment benefit recipients
-      - Features: Unlimited job listings, resume posting, employer screening tools <!-- Source: [edd.ca.gov](https://edd.ca.gov/en/jobs_and_training/Caljobs/) -->
-1. College-Based Career Services
-   1. [Cuesta College Career Services](https://www.cuesta.edu/student/resources/careerconnections/index.html)
-      - What's Available: Career counseling, resume assistance, job search support, interview preparation, Handshake job board platform
-      - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - County-wide access (pending review): Cuesta operates three campuses (SLO, North County Campus in Paso Robles, South County Campus in Arroyo Grande); Career Services office is on SLO Campus (5300 Building, Room 5310)
-      - Hours: Monday–Friday by appointment only, 9am–4:30pm
-      - Services: Student job placement, internships, local and national opportunities, workforce & economic development
-      - Eligibility: Primarily for Cuesta College students; community members should call [805-546-3252](tel:+1-805-546-3252) or email [CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu) to inquire about availability of services to non-students <!-- Source: [cuesta.edu](https://www.cuesta.edu/student/resources/careerconnections/index.html) -->
 1. Specialized Employment Services
    1. [**PathPoint**](Directory.md#PathPoint)
       - Services for people with disabilities
@@ -2788,7 +2775,6 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
       - Hours: 8am–5pm Monday–Friday (avoid Monday before 10am for best service)
 1. Veterans Employment Services
    1. Vocational Rehabilitation & Employment Program: Specialized employment services for veterans through VA
-   1. Veterans services: Available through [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center)
 1. Additional Employment Resources
    1. [**Goodwill Stores**](Directory.md#Goodwill)
       - Free employment services, job training and placement
@@ -2815,26 +2801,31 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
       - <a href="#" class="map-link" data-lat="35.281728" data-lon="-120.660117" data-zoom="18" data-label="Bridge Cafe">1074 Higuera St., SLO</a>
       - [805-459-1689](tel:+1-805-459-1689)
       - [info@thebridgecafe.org](mailto:info@thebridgecafe.org)
-1. Recycling
-   1. CRV Recycling Centers: Limited locations in county for recycling cans and bottles for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
-      - [**AGS Recycling**](Directory.md#AGS-Recycling) (Arroyo Grande and Morro Bay)
-      - [**Cambria Recycling Center**](Directory.md#Cambria-Recycling-Center) (Cambria)
-      - [**Steve’s Recycling**](Directory.md#Steves-Recycling) (Los Osos)
-      - [**Recycle 101**](Directory.md#Recycle-101) (Oceano)
-   1. Grocery Store CRV Buyback: Approximately 60 grocery stores county-wide accept CRV containers; retailers are legally required to buy them back if there is no nearby recycling center
-      - Limit: Up to 50 containers each of aluminum, glass, plastic, and bi-metal per visit
-      - Find locations: Visit [www2.calrecycle.ca.gov/BevContainer/InStoreRedemption](https://www2.calrecycle.ca.gov/BevContainer/InStoreRedemption) for participating retailers
-      - Note: Call ahead to confirm participation before visiting <!-- Source: https://www.iwma.com/, https://www.ksby.com/ -->
-1. Gig Economy
-   1. "Beer Money Sites" / "Get Paid to…" on-line gigs
-      - Reddit has an ostensibly curated list of beermoney opportunities [here](https://www.reddit.com/r/beermoney/comments/ab0dyv/most_common_beer_money_sites_do_not_create/) and a community to discuss options at [r/beermoney](https://www.reddit.com/r/beermoney/)
-      - What beermoney programs are: Online platforms that pay small amounts of money for simple tasks like taking surveys, watching videos, testing apps, or completing offers. The term "beermoney" comes from earning enough for small extras like buying a beer, not full-time income.
-      - How they work: Sign up for websites or apps, complete tasks during your free time, and get paid small amounts (usually $20–200 per month with consistent effort). Popular platforms recommended by Reddit users include Prolific, Freecash, and Cointiply.
-      - Important caveats: These are not get-rich-quick schemes. Success requires treating it like part-time work with 30–90 minutes daily commitment. Focus on mastering 2–3 platforms rather than spreading yourself thin. Peak earning times are typically 6–10am and 7–11pm EST when new tasks appear.
-      - How this helps people facing homelessness: Can provide small but steady income without needing a fixed address, formal employment, or special skills. Requires internet access and a device (smartphone, tablet, or computer). Good for people who have irregular schedules or cannot commit to traditional work hours.
-      - Getting started: Need reliable internet access, email address, and valid ID for most platforms. Start with highly-rated sites from the Reddit community rather than random online ads.
-      - Sources: [beermoney.co](https://www.beermoney.co/), [coinbai.com](https://coinbai.com/blog/reddit-beermoney-tips-2025)
-   1. [FlexJobs](https://www.flexjobs.com/) — find remote jobs with flexible hours
+
+If you are currently receiving SSDI or SSI benefits and you are between the ages of 18 and 64, the [Ticket to Work Program](https://choosework.ssa.gov/) can give you free career counseling, vocational rehabilitation, and job placement and training, and can help you return to work without losing your benefits.
+Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply.
+
+### Making Ends Meet: Recycling
+
+There are a few places in SLO County that specialize in purchasing aluminum and glass for recycling:
+
+- [**AGS Recycling**](Directory.md#AGS-Recycling) (Arroyo Grande and Morro Bay)
+- [**Cambria Recycling Center**](Directory.md#Cambria-Recycling-Center) (Cambria)
+- [**Steve’s Recycling**](Directory.md#Steves-Recycling) (Los Osos)
+- [**Recycle 101**](Directory.md#Recycle-101) (Oceano)
+
+Many stores also will pay CRV (California Redemption Value) refunds for up to fifty returned beverage containers at a time.
+To find such a store near you, use the search form at the [CalRecycle](https://www2.calrecycle.ca.gov/BevContainer/InStoreRedemption) website.
+
+### Making Ends Meet: Gig Jobs
+
+There are some ways to earn small amounts of money by doing various tasks on the internet, such as taking surveys, watching videos, or testing apps.
+Some of these are scams, and most do not pay very much, but they can be ways to make a few bucks here and there if you are unable to find or commit to steady work.
+
+The [“beermoney” subreddit](https://www.reddit.com/r/beermoney/) maintains [a curated list of such opportunities](https://www.reddit.com/r/beermoney/comments/ab0dyv/most_common_beer_money_sites_do_not_create/).
+That site also includes feedback from participants on their experiences.
+
+The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote jobs with flexible hours.
 
 -----
 
@@ -3310,6 +3301,8 @@ This program is for California residents with medically-certified limitations of
       - classes on parenting skills for people with children from birth to 5 years old.
       - classes cost $155–225, but scholarships are available for people with low incomes or special circumstances
       - Location/Phone: See [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) in the [Directory](Directory.md)
+   1. Childcare Resource Center
+   1. Cooperative Agencies Resources for Education (CARE) -- child care expenses [https://www.cuesta.edu/student-support/support-programs/eops/care.html](https://www.cuesta.edu/student-support/support-programs/eops/care.html)
 1. College Students (e.g. Cuesta, Cal Poly)
    1. [**Front Porch**](Directory.md#Front-Porch)
       - Services: Community space for Cal Poly and Cuesta students; free coffee, tea, snacks; home-cooked meal on Wednesday nights
@@ -3670,6 +3663,10 @@ You must complete some extra forms and a liability waiver to use the tool lendin
 PG&E’s [Energy Savings Assistance (ESA) Program](https://www.pge.com/en/save-energy-and-money/energy-saving-programs/energy-savings-assistance-program.html) helps low-income households upgrade or repair water heaters, furnaces, lighting, and appliances for no cost.
 This can also improve energy efficiency, which will lower your utility bills.
 See their website for information on who is eligible and how to apply, or call [800-933-9555](tel:+1-800-933-9555).
+
+[**CAPSLO**](Directory.md#CAPSLO) can connect low-income households with providers of no-cost weatherization through their [Home and Energy Services](https://capslo.org/energy-services/) program.
+They can also connect seniors (aged 60+) with providers of no-cost minor home repairs through that program.
+Call their Energy Office for details.
 
 ### Low-Cost
 

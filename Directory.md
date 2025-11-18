@@ -901,22 +901,24 @@
 
 - [capslo.org](https://capslo.org/)
 - Location: 40 Prado Rd., SLO <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
-   - Low Income Home Energy Assistance Program: 3970 Short St. #110, SLO <a href="#" class="map-link" data-lat="35.245356" data-lon="-120.672187" data-zoom="17" data-label="Low Income Home Energy Assistance Program">Map</a>
+   - Energy Office: 3970 Short St. #110, SLO <a href="#" class="map-link" data-lat="35.245356" data-lon="-120.672187" data-zoom="17" data-label="CAPSLO Home and Energy Services">Map</a> (no walk-ins)
 - Phone:
    - Hotline: [805-706-8663](tel:+1-805-706-8663)
    - Administration: [805-544-4355](tel:+1-805-544-4355)
    - Homeless Services Center: [805-544-4004](tel:+1-805-544-4004)
    - Low Income Home Energy Assistance Program: [805-541-4122&#xA0;x2125](tel:+1-805-541-4122;ext=2125) or [800-495-0501&#xA0;x2114](tel:+1-800-495-0501;ext=2114)
+   - Energy Office: [805-541-4122&#xA0;x2125](tel:+1-805-541-4122;ext=2125)
 - Email: [hotline@capslo.org](mailto:hotline@capslo.org)
    - Low Income Home Energy Assistance Program: [HEAP@capslo.org](mailto:HEAP@capslo.org)
 - Hours: M–F 9am–5pm
-   - Low Income Home Energy Assistance Program: M–F 8am–Noon & 1pm–4pm
+   - Energy Office: M–F 8am–Noon & 1pm–4pm (no walk-ins)
 - Notes:
    - operates [**40 Prado Homeless Services Center**](#40-Prado)
    - operates [**The Center for Health & Prevention**](#The-Center)
    - operates “Child Care Resource Connection (CCRC)”
    - operates [**Coordinated Entry System (CES)**](#CES)
    - operates “Head Start”
+   - operates “Home and Energy Services”
    - operates [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - operates “Low Income Home Energy Assistance Program (LIHEAP)”
    - operates [**Outreach & Engagement Services**](#Outreach-and-Engagement-Services)
