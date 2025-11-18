@@ -1,4 +1,6 @@
-# Avoiding, Surviving, and Escaping Homelessness in SLO
+# *VivaSLO!*
+
+## Avoiding, Surviving, and Escaping Homelessness in SLO County
 
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
@@ -9,25 +11,25 @@ Many of these descriptions contain blue-highlighted, boldface links to the [**Di
 This Directory page lists resources in alphabetical order, along with information like the website, phone number, email address, location, and operating hours of the resource.
 If you find a resource in the guide that seems it will be useful to you, click the boldface link to go to the directory and find out how to access that resource.
 
+This guide was created by volunteers from [**Shower the People**](Directory.md#Shower-the-People).
+If you want to suggest corrections or improvements, or to join our development team, contact us at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
+
+## Being Homeless in SLO County
+
 San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
 Nearly one in four homeless people in the United States lives in California.
 California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people.
-(In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of unsheltered homelessness in the U.S.)
+In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S.
 The city of San Luis Obispo is one of top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have in order to afford to buy a home.
 10% of schoolchildren in SLO County are homeless.
 
 Why are things especially difficult here?
 There are many reasons, but the most important one is “too few homes for the number of people who need them.”
-The reasons why that is a problem are complicated, but include government policies that discourage homebuilding and make it more expensive, and resource constraints.
+The reasons why that is a problem are complicated, but include government policies that discourage homebuilding and make it more expensive, resource constraints, and high demand.
 
 Fortunately, there is a lot of help available to people experiencing or threatened with homelessness in SLO County.
-Unfortunately, it can be difficult to discover this help or to understand how to access it.
+Unfortunately, it can be difficult to find this help or to understand how to access it.
 This guide makes it easier.
-
-This guide was created by volunteers from [**Shower the People**](Directory.md#Shower-the-People).
-If you want to suggest corrections or improvements, or to join our development team, contact us at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
-
-*Special thanks to Laurel Woodson & Mark Grayson for the funding that kickstarted this project.*
 
 | **External links** |
 | ------------------ |
@@ -36,34 +38,6 @@ If you want to suggest corrections or improvements, or to join our development t
 | [The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness): As adopted by the county Board of Supervisors |
 | [Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California) |
 | [*Homelessness is a Housing Problem*](https://homelessnesshousingproblem.com/) by Gregg Colburn & Clayton Page Aldern |
-
------
-
-## Legend: Understanding Links and Buttons
-
-This guide uses colors and icons to help you quickly identify what kind of link or button you're looking at:
-
-### Link Types
-
-| Link Type          | What It Looks Like                                        | What It Does When You Click |
-| ------------------ | --------------------------------------------------------- | --------------------------- |
-| **Directory Link** | <a href="#" data-directory-link="example">Agency Name</a> | Opens detailed information about an agency in a popup window |
-| **Map Link**       | <a href="#" class="map-link">123 Main St.</a>             | Opens the location in your map app |
-| **Phone Link**     | [805-555-0123](tel:+1-805-555-0123)                       | Calls the phone number |
-| **Email Link**     | [contact@example.org](mailto:contact@example.org)         | Opens your email to send a message |
-| **SMS/Text Link**  | [805-555-0123](sms:+1-805-555-0123)                       | Opens your text messaging app |
-| **External Link**  | [Example Website](https://example.com)                    | Opens a website in a new tab |
-
-### Buttons and Features
-
-| Button                | What It Looks Like                        | What It Does When You Click |
-| --------------------- | ----------------------------------------- | --------------------------- |
-| **Navigation**        | <span style="font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;"><span style="color: var(--primary-color);">**Resources**</span> / <span style="color: var(--primary-color);">**Directory**</span> / <span style="color: var(--primary-color);">**About**</span></span> | Switches between the main sections of this guide |
-| **Search**            | <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif; border: 1px solid var(--primary-color); border-radius: 5px; padding: 0.25rem;">Search…   </span> | Searches for specific topics, agencies, or services |
-| **Table of Contents** | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#3877ff;color:white;font-size:24px;">📑</span> | Returns to the Table of Contents when browsing the Resource Guide |
-| **Feedback**          | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#5a93ff;color:white;font-size:24px;">💬</span> | Sends feedback about errors or suggestions for improvement |
-| **Share**             | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#e75e13;color:white;font-size:24px;">🔗</span> | Shares a link to this resource guide |
-| **Section Share**     | <span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background-color:rgba(231,94,19,0.1);border:1px solid #e75e13;font-size:14px;">🔗</span> | Shares a link to a specific section or subsection |
 
 -----
 
@@ -2661,7 +2635,7 @@ It is for needy people without dependent children who live in SLO County who are
 Apply for this program at a DSS office.
 If you qualify for this program, you must also do an in-person interview at the SLO city DSS office.
 
-You can also apply for [**CalWORKS**](#CalWORKS) cash aid at any DSS office, or online at [BenefitsCal](https://benefitscal.com/).
+You can also apply for [**CalWORKS**](Directory.md#CalWORKS) cash aid at any DSS office, or online at [BenefitsCal](https://benefitscal.com/).
 CalWORKS is California's version of the Temporary Assistance to Needy Families (TANF) federal program.
 To qualify, you must have a “qualifying child” at least one parent of whom is “deceased, absent from the home, disabled, or unemployed” and you must be below a certain maximum income/assets limit.
 You must participate in an in-person interview, and you may need to provide some documentation to verify your eligibility.
