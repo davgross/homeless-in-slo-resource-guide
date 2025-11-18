@@ -2649,10 +2649,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 | Location                        | Hours |
 | ------------------------------- | ----- |
-| 946 Rockaway Ave., Grover Beach | W 10am–1pm |
-| 2201 Lawton Ave., SLO           | Tu & Th 10am–1pm |
-| 11245 Los Osos Valley Rd., SLO  | Sa 10am–1pm |
-| 995 Palm St., SLO               | Su 12:30–3:30pm |
+| 946 Rockaway Ave., Grover Beach <a href="#" class="map-link" data-lat="35.120119" data-lon="-120.619991" data-zoom="17" data-label="Shower the People">Map</a> | W 10am–1pm |
+| 2201 Lawton Ave., SLO           <a href="#" class="map-link" data-lat="35.269229" data-lon="-120.657617" data-zoom="17" data-label="Shower the People">Map</a> | Tu & Th 10am–1pm |
+| 11245 Los Osos Valley Rd., SLO  <a href="#" class="map-link" data-lat="35.260128" data-lon="-120.696026" data-zoom="17" data-label="Shower the People">Map</a> | Sa 10am–1pm |
+| 995 Palm St., SLO               <a href="#" class="map-link" data-lat="35.282298" data-lon="-120.662520" data-zoom="17" data-label="Shower the People">Map</a> | Su 12:30–3:30pm |
 
 - Email: [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com)
 - Hosted by [**Lifepoint Church**](#Lifepoint-Church) and [**Unitarian Universalists San Luis Obispo**](#UUSLO) among others
