@@ -15,6 +15,8 @@
    - Lunch: Noon–12:30pm (open to all)
    - Overnight shelter check-in: daily, 4:30–6pm (Check-in is done each day you want a bed; you must arrive during check-in hours to secure a spot for that night)
    - Dinner: 5–5:30pm (overnight shelter residents only)
+- How to access: come to the shelter during intake hours
+   - To use the shelter, you must be homeless, you must have a valid photo ID, and you must not have a P.C. 290 sex offender criminal record. You must be able to care for yourself independently (bathing, feeding, dressing, etc.). There are a limited number of beds; priority is given to SLO county residents.
 - Notes:
    - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
    - operates [**SLO Hub**](#SLO-Hub)
@@ -467,6 +469,8 @@
       - [916-558-5673](tel:+1-916-558-5673) (TTY)
       - Source: [dor.ca.gov](https://www.dor.ca.gov/Home/ContactUs)
 - How to access: No walk-ins. Call them, or fill out a form on their website.
+- Notes:
+   - Can refer you to the “Supported Employment” program
 
 ## <a id="California-DMV">California DMV</a>
 
@@ -1157,6 +1161,15 @@
 - Email: [Elks2504@gmail.com](Elks2504@gmail.com)
 - Hours: M–Th 9am–4pm
 - How to access: Walk-ins OK, but it’s better to call ahead
+
+## <a id="Employment-Development-Department">Employment Development Department</a>
+
+- [edd.ca.gov](https://edd.ca.gov/)
+- Location: 3450 Broad St. #103A, SLO <a href="#" class="map-link" data-lat="35.257956" data-lon="-120.646557" data-zoom="17" data-label="EDD">Map</a>
+- Phone:
+   - Local office: [800-300-5616](tel:+1-800-300-5616)
+   - Customer service: [805-439-2557](tel:+1-805-439-2557)
+- Hours: M–F 8am–5pm
 
 ## <a id="Enhanced-Care-Management">Enhanced Care Management</a>
 
@@ -2265,7 +2278,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 | Location | Phone |
 | -------- | ----- |
-| 775 W. Grand (Grover Beach) <a href="#" class="map-link" data-lat="35.121994" data-lon="-120.621843" data-zoom="17" data-label="PathPoint">Map</a> | [805-473-9582](tel:+1-805-473-9582) |
+| 775 W. Grand Ave. #C (Grover Beach) <a href="#" class="map-link" data-lat="35.121994" data-lon="-120.621843" data-zoom="17" data-label="PathPoint">Map</a> | [805-473-9582](tel:+1-805-473-9582) |
 | 11491 Los Osos Valley Rd. (SLO) <a href="#" class="map-link" data-lat="35.258145" data-lon="-120.692577" data-zoom="17" data-label="PathPoint">Map</a> | [805-782-8890](tel:+1-805-782-8890) |
 
 - Email: [info@pathpoint.org](mailto:info@pathpoint.org)
@@ -2768,6 +2781,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Notes:
    - Operates [**SLO County Drug and Alcohol Services**](#SLO-County-Drug-and-Alcohol-Services)
    - [**Genoa Pharmacy**](#Genoa-Pharmacy) is the on-site pharmacy for SLO County Behavioral Health
+   - Can refer you to the “Supported Employment” program
 
 ## <a id="SLO-County-Clerk-Recorder">SLO County Clerk-Recorder</a>
 
@@ -2841,7 +2855,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - Phone: [800-838-1381](tel:+1-800-838-1381) (24hr) / [805-540-6500](tel:+1-805-540-6500)
 - Hours: M–F 8am–5pm
-- Note: central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
+- Notes:
+   - Central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
+   - Can refer you to the “Supported Employment” program
 
 ## <a id="SLO-County-Office-of-Emergency-Services">SLO County Office of Emergency Services</a>
 
@@ -3221,14 +3237,18 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - [800-783-0607](tel:+1-800-783-0607) (24/7 crisis line)
    - [805-540-0057](tel:+1-805-540-0057) (library outreach team)
    - [805-540-6576](tel:+1-805-540-6576) (behavioral health care system navigation help)
+   - [805-540-6551](tel:+1-805-540-6551) (Supported Employment program)
 - Email: [info@t-mha.org](mailto:info@t-mha.org)
+   - [mmurchison@t-mha.org](mailto:mmurchison@t-mha.org) (Supported Employment program)
 - Hours: M–F 8am–5pm
 - Notes:
    - also runs “Wellness Centers” with a variety of programs
       - See [t-mha.org/wellness-calendars.php](http://t-mha.org/wellness-calendars.php) for a schedule:
    - operates [**Behavioral Health Bridge Housing (BHBH) Program**](#BHBH)
    - operates “Bishop Street Studios”
+   - operates “Growing Grounds Downtown,” “Growing Grounds Farm,” and “Growing Grounds Nursery”
    - operates “Library Outreach Team” (see [**SLO County Public Libraries**](#SLO-County-Public-Libraries))
+   - operates the “Supported Employment” program
    - operates “T-MHA Community Residential Housing”
    - operates “VetWell”
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)

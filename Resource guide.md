@@ -2646,7 +2646,7 @@ This temporarily pays you a portion of the salary you had earned while you were 
 To qualify, you must have a Social Security number, be authorized to work in the United States, have earned some minimum amount of reported wages or salary during the previous 18 months.
 You must have become totally or partially unemployed, and through no fault of your own.
 You must also be able to work, looking for paid work, and able to accept paid work.
-You can apply for unemployment benefits through [the myEDD website](https://edd.ca.gov/en/unemployment/) or by phone ([800-300-5616](tel:+1-800-300-5616), TTY: [800-815-9387](tel:+1-800-815-9387)).
+You can apply for unemployment benefits from California’s [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) through [the myEDD website](https://edd.ca.gov/en/unemployment/) or by phone ([800-300-5616](tel:+1-800-300-5616), TTY: [800-815-9387](tel:+1-800-815-9387)).
 
 ### Utility Assistance Programs
 
@@ -2745,65 +2745,63 @@ They have specialized services for young people, for veterans, and for people wi
 [**CalJOBS**](Directory.md#CalJOBS) is a job listing and resume listing web site.
 You can search for open employment positions on the site, and you can add your resume so that employers can search for you.
 
-Cuesta College students can get help finding a job or an internship from [Cuesta College Career Services](https://www.cuesta.edu/student-support/career-work/career-services/index.html) ([CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu)).
+The state [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) offers many [job seeker services](https://edd.ca.gov/en/jobs_and_training/Job_Seeker_Information/) such as free job training programs and job fairs.
 
 <!-- To-do: prosify this list -->
+1. [**Goodwill Stores**](Directory.md#Goodwill)
+   - Free employment services, job training and placement
+   - Services: Career counseling, skills training, résumé preparation, job placement assistance, interview prep
+   - Access: Visit any retail location or contact county workforce development
+   - Contact: SLO County Workforce Development Board, <a href="#" class="map-link" data-lat="35.251393" data-lon="-120.668265" data-zoom="17" data-label="SLO County Workforce Development Board">3563 Empleo Street, SLO</a>, [805-439-2557](tel:+1-805-439-2557)
+   - Cost: Free employment services available to all job seekers
+1. [**Assistance League of San Luis Obispo County**](Directory.md#Assistance-League-of-SLO-County)
+   - Access to Career Education (ACE): Educational program for students (specific details not readily available)
+   - Target: Students living below Federal Poverty Level (45% of SLO County student population)
+   - Note: Unable to find detailed information about ACE program specifics in available sources; contact organization directly for current program details
+   - Source: [assistanceleague.org](https://www.assistanceleague.org/san-luis-obispo-county/)
 
-1. Specialized Employment Services
-   1. [**PathPoint**](Directory.md#PathPoint)
-      - Services for people with disabilities
-      - What's Available: Individual Supported Employment (ISE), Job Placement Services (JPS), Project SEARCH transition-to-work program
-      - Eligibility: Individuals with developmental disabilities, low-income individuals needing employment support
-      - Services: Job matching, skills assessment, on-the-job support, job retention services
-      - Special programs: First Project SEARCH program in the county (since 2017) <!-- Source: [pathpoint.org](https://www.pathpoint.org/locations/san-luis-obispo/) -->
-   1. [TMHA Work Programs](https://www.t-mha.org/work-programs.php)
-      - helps individuals with mental illness find and maintain meaningful employment in our communities
-      - operates "Growing Grounds" farm, nursery, and SLO retail outlet for vocational training
-      - also helps with job-seeking and ongoing job-support for adults with mental illness (via [Supported Employment Program](https://www.t-mha.org/program-details.php?id=16))
-         - [805-540-6551](tel:+1-805-540-6551) / [mmurchison@t-mha.org](mailto:mmurchison@t-mha.org) (Megan Murchison)
-      - must??? be referred via SLO County Mental Health, Santa Barbara County Dept. of Behavioral Wellness, SLO County Behavioral Health Service, or Dept. of Rehabilitation
-   1. [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation)
-      - What’s Available: Vocational rehabilitation services for people with disabilities
-      - Services: Job training, placement assistance, assistive technology, education support
-      - How to start: Call main number to schedule intake appointment <!-- Source: [dor.ca.gov](https://www.dor.ca.gov/Home/SanLuisObispo) -->
-1. State Employment Services
-   1. [Employment Development Department (EDD)](https://edd.ca.gov/)
-      - Services: Unemployment benefits, disability insurance, job training programs, hiring incentives for employers
-      - Programs: Job fairs, workshops, training services, eligible training provider lists
-      - Local Office: <a href="#" class="map-link" data-lat="35.257956" data-lon="-120.646557" data-zoom="17" data-label="EDD">3450 Broad St. #103A, SLO</a>, [805-439-2557](tel:+1-805-439-2557)
-      - Customer Service: [800-300-5616](tel:+1-800-300-5616) (English/Spanish), multilingual support available
-      - Hours: 8am–5pm Monday–Friday (avoid Monday before 10am for best service)
-1. Veterans Employment Services
-   1. Vocational Rehabilitation & Employment Program: Specialized employment services for veterans through VA
-1. Additional Employment Resources
-   1. [**Goodwill Stores**](Directory.md#Goodwill)
-      - Free employment services, job training and placement
-      - Services: Career counseling, skills training, résumé preparation, job placement assistance, interview prep
-      - Access: Visit any retail location or contact county workforce development
-      - Contact: SLO County Workforce Development Board, <a href="#" class="map-link" data-lat="35.251393" data-lon="-120.668265" data-zoom="17" data-label="SLO County Workforce Development Board">3563 Empleo Street, SLO</a>, [805-439-2557](tel:+1-805-439-2557)
-      - Cost: Free employment services available to all job seekers
-   1. [**Assistance League of San Luis Obispo County**](Directory.md#Assistance-League-of-SLO-County)
-      - Access to Career Education (ACE): Educational program for students (specific details not readily available)
-      - Primary program: Operation School Bell—provides new school clothes to students in need
-      - Target: Students living below Federal Poverty Level (45% of SLO County student population)
-      - Note: Unable to find detailed information about ACE program specifics in available sources; contact organization directly for current program details
-      - Source: [assistanceleague.org](https://www.assistanceleague.org/san-luis-obispo-county/)
-   1. [**Restorative Partners**](Directory.md#Restorative-Partners)
-      - Target population: Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
-      - Special program: The Bridge Cafe—social enterprise offering paid culinary job training and certification in partnership with Cuesta College's Culinary Arts Foundation
-      - How to apply for Bridge Cafe training: Contact Restorative Partners to inquire about participating in the culinary arts certificate program
-      - Program outcomes: Upon completion, Restorative Partners assists participants with finding culinary employment
-      - Bridge Cafe location: <a href="#" class="map-link" data-lat="35.281728" data-lon="-120.660117" data-zoom="18" data-label="Bridge Cafe">1074 Higuera Street, downtown SLO</a>, Monday–Friday 7am–3pm
-      - Source: [thebridgecafe.org](https://www.thebridgecafe.org/)
-   1. The Bridge Cafe
-      - project of [**Restorative Partners**](Directory.md#Restorative-Partners)
-      - job development for people tangled in the criminal justice system
-      - <a href="#" class="map-link" data-lat="35.281728" data-lon="-120.660117" data-zoom="18" data-label="Bridge Cafe">1074 Higuera St., SLO</a>
-      - [805-459-1689](tel:+1-805-459-1689)
-      - [info@thebridgecafe.org](mailto:info@thebridgecafe.org)
+#### For Cuesta College Students
+
+Cuesta College students and graduates can get help finding a job or an internship from [Cuesta College Career Services](https://www.cuesta.edu/student-support/career-work/career-services/index.html) ([CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu)).
+
+#### For People with Disabilities
 
 If you are currently receiving SSDI or SSI benefits and you are between the ages of 18 and 64, the [Ticket to Work Program](https://choosework.ssa.gov/) can give you free career counseling, vocational rehabilitation, and job placement and training, and can help you return to work without losing your benefits.
 Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply.
+
+[**PathPoint**](Directory.md#PathPoint) helps people with intellectual or developmental disabilities to find jobs that are good matches for them, trains them in job skills, and helps them to maintain employment.
+
+[**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has [work programs](https://www.t-mha.org/work-programs.php) to help people with mental illnesses find and maintain meaningful employment.
+They operate the Growing Grounds farm, nursery, and downtown SLO retail store, which employ TMHA clients and give them vocational training.
+
+TMHA also operates a [“Supported Employment Program”](https://www.t-mha.org/program-details.php?id=16) which helps people with mental illnesses find and keep jobs.
+To use that program, you first must get a referral from [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation), [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), or [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services).
+
+[**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) offers vocational rehabilitation services for people with disabilities, including job training, placement assistance, assistive technology, and education support.
+
+#### For People Released from Jail or Prison
+
+<!-- To-do: prosify this list -->
+1. [**Restorative Partners**](Directory.md#Restorative-Partners)
+   - Target population: Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
+   - Special program: The Bridge Cafe—social enterprise offering paid culinary job training and certification in partnership with Cuesta College's Culinary Arts Foundation
+   - How to apply for Bridge Cafe training: Contact Restorative Partners to inquire about participating in the culinary arts certificate program
+   - Program outcomes: Upon completion, Restorative Partners assists participants with finding culinary employment
+   - Bridge Cafe location: <a href="#" class="map-link" data-lat="35.281728" data-lon="-120.660117" data-zoom="18" data-label="Bridge Cafe">1074 Higuera Street, downtown SLO</a>, Monday–Friday 7am–3pm
+   - Source: [thebridgecafe.org](https://www.thebridgecafe.org/)
+1. The Bridge Cafe
+   - project of [**Restorative Partners**](Directory.md#Restorative-Partners)
+   - job development for people tangled in the criminal justice system
+   - <a href="#" class="map-link" data-lat="35.281728" data-lon="-120.660117" data-zoom="18" data-label="Bridge Cafe">1074 Higuera St., SLO</a>
+   - [805-459-1689](tel:+1-805-459-1689)
+   - [info@thebridgecafe.org](mailto:info@thebridgecafe.org)
+
+#### For Veterans
+
+<!-- To-do: prosify this list -->
+
+1. Veterans Employment Services
+   1. Vocational Rehabilitation & Employment Program: Specialized employment services for veterans through VA
 
 ### Making Ends Meet: Recycling
 
@@ -2834,6 +2832,7 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 <!-- To-do: prosify this list -->
 
 1. Job Training and Career Development
+   1. Alison.com -- free on-line work skills training courses
    1. Ticket to Work Program: Free voluntary program for ages 18–64 receiving SSDI/SSI; provides career counseling, job training, placement services. Maintains medical benefits while working. Call [866-968-7842](tel:+1-866-968-7842) to verify eligibility.
    1. [**SLO Partners**](Directory.md#SLO-Partners) [programs](https://slopartners.org/programs/) include bootcamps to learn in-demand skills like dental assistant, hospitality, manufacturing. Website is cagey about how much it costs but says there is a financial assistance program for tuition.
 1. Adult Education and GED Programs
