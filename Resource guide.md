@@ -2853,33 +2853,27 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 
 ## <a id="education-job-skills-training-certification-tutoring-literacy">Education, Job Skills Training, Certification, Tutoring, Literacy</a>
 
+[**Cuesta College**](Directory.md#Cuesta-College)’s [Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html) program is open to the general community (you do not have to be enrolled at Cuesta College).
+Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that take place outside the classroom.
+Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver.
+They also offer miscellaneous adult education classes on topics of a recreational or curiosity-satisfying nature.
+
+[**SLO Partners**](Directory.md#SLO-Partners) [programs](https://slopartners.org/programs/) include bootcamps to learn in-demand skills in fields like dental assistant, hospitality, and manufacturing.
+There is a financial assistance program to help you pay for tuition.
+
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers skill-building, professional development, and college prep courses, at its [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
+
+[Alison.com](https://alison.com) offers free online courses in several fields of study, including vocational training and “soft skills.”
+You can get a certificate and/or diploma upon completing a course of study, but this sometimes costs money (the course itself is free).
+Note that Alison.com is accredited in the United Kingdom, not the United States, which may affect how much these certificates and diplomas are respected by employers or colleges here.
+
 <!-- To-do: prosify this list -->
 
-1. Job Training and Career Development
-   1. Alison.com -- free on-line work skills training courses
-   1. Ticket to Work Program: Free voluntary program for ages 18–64 receiving SSDI/SSI; provides career counseling, job training, placement services. Maintains medical benefits while working. Call [866-968-7842](tel:+1-866-968-7842) to verify eligibility.
-   1. [**SLO Partners**](Directory.md#SLO-Partners) [programs](https://slopartners.org/programs/) include bootcamps to learn in-demand skills like dental assistant, hospitality, manufacturing. Website is cagey about how much it costs but says there is a financial assistance program for tuition.
-1. Adult Education and GED Programs
-   1. [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School)
-      - Services: Adult education programs, high school diploma courses, career preparation, [ESL classes](https://ae.slcusd.org/hsd-esl/english-as-a-second-language)
-   1. [Cuesta College Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html)
-      - What's Available: *Free* California High School Equivalency Certificate (GED) test preparation classes in English and Spanish
-      - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - County-wide access (pending review): Programs available at three campuses—SLO Campus (Highway 1), North County Campus (<a href="#" class="map-link" data-lat="35.650499" data-lon="-120.670746" data-zoom="17" data-label="Cuesta College">2800 Buena Vista Dr., Paso Robles</a>), and South County Campus (<a href="#" class="map-link" data-lat="35.117021" data-lon="-120.577601" data-zoom="15" data-label="Cuesta College">Corner of Orchard St. & W. Cherry Ave., Arroyo Grande</a>)
-      - Services: Computer-based test preparation, technology training, test-taking skills practice
-      - Special features: Variety of programs throughout SLO County campuses and locations
+1. Adult Education
    1. [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education)
-      - What's Available: Free education for students 18+; High School Diploma courses; GED and US Citizenship test preparation; cosmetology school; ESL classes (partnership with Cuesta College)
-      - Additional locations: Nipomo Learning Center, Oceano Learning Center
-      - Special programs: US Citizenship Classes still accepting new students
-      - When you get your high school diploma or HiSET equivalency credential, you can get a referral to Cuesta or Hancock Colleges from LMUSD
-   1. Templeton Adult School
-      - www.tusd-ca.schoolloop.com
-      - 805-434-5827
-      - clondon@templetonusd.org
-      - 964 Old Country Road, Templeton
-      - open-enrollment program aiming to give adults (18+) chance to get a high school diploma
-      - call or email to get started
+      - What's Available: Free education for students 18+; US Citizenship test preparation; cosmetology school
+   1. [Cuesta College Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html)
+      - Classes for people with intellectual disabilities: [cuesta.edu/academics/continuinged/adultsdisabilities](https://www.cuesta.edu/academics/continuinged/adultsdisabilities/index.html)
 1. Higher Education and Professional Development
    1. [Cal Poly Extended Learning (EPaCE)](https://extended.calpoly.edu/)
       - Services: Professional development certificates, non-credit courses, youth programs, international education
@@ -2897,8 +2891,6 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
       - Target audience relevance: Limited direct services for homeless population; focus on training healthcare providers who may serve this population
       - Future potential: May expand health professions offerings and community health services after 2026 move
       - Sources: [noozhawk.com](https://www.noozhawk.com/a-t-still-university-to-move-central-coast-campus-from-santa-maria/)
-   1. [LearningExpress](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome?authtoken=4DE278CD-C0CB-4ED5-84D4-2DFC47FF903D)
-      - Offered via SLO Library; career and college prep. Some classes in Spanish.
 1. Library Resources and Literacy Programs
    1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
       - Services: Computer access, digital literacy classes, educational programs
@@ -2917,26 +2909,6 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
       - How to register: Visit [lifelearnerscc.org/courses](https://www.lifelearnerscc.org/courses) for tickets and class registration
       - Target: Independent thinkers in volunteer community; "Where Curious Minds Gather"
       - Note: Low-cost volunteer-based model; specific scholarship information not available; contact organization directly for financial assistance options
-1. ESL (English as a Second Language)
-   1. Cuesta College ESL Programs
-      - Cost: Free classes with free childcare available
-      - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-      - **County-wide access** (pending human review): ESL programs available at multiple campuses—contact SLO Campus ([805-592-9463](tel:+1-805-592-9463)) and North County Campus ([805-591-6273](tel:+1-805-591-6273)) for program availability; call M–Th 10am–7pm
-      - Requirements: ESL assessment for level placement, orientation, CASAS testing
-   1. [**The Literacy Connection**](Directory.md#Literacy-Connection)
-      - Services: Free volunteer-based tutoring for adult literacy, ESL, family learning; virtual conversation groups on Thursdays (mornings 10:30am–12pm and evenings 5–6:30pm via Zoom)
-      - Cost: Always free and confidential, no ID required
-      - Contact: [805-781-5077](tel:+1-805-781-5077) or complete [online learner form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
-      - Schedule: Flexible one-on-one or small group sessions; [virtual conversation group](https://forms.office.com/r/VwERjE3Qmj) also available
-   1. Lucia Mar Adult Education
-      - Cost: Free ESL classes for beginners
-      - Locations: Nipomo Learning Center (<a href="#" class="map-link" data-lat="35.042699" data-lon="-120.472062" data-zoom="17" data-label="Nipomo Learning Center">190 E. Price St., Nipomo</a>) & Oceano Community Center (<a href="#" class="map-link" data-lat="35.103145" data-lon="-120.612330" data-zoom="17" data-label="Oceano Community Center">1551 17th St., Oceano</a>)
-      - Partnership: With Cuesta College
-      - Contact: [805-474-3000](tel:+1-805-474-3000) ext. 5811 or ext. 1224 (Nipomo) / ext. 1225 (Oceano)
-      - Additional: US Citizenship preparation classes also available
-   1. San Luis Coastal Adult School
-      - Location: Morro Bay High School
-      - Registration: [Pre-registration form available online](https://docs.google.com/forms/d/e/1FAIpQLScGDDpJ7J-WwHxph6QGMpsYUURdvkCWOkI9J-aGDGknXK928Q/viewform?usp=sf_link) <!-- Source: ae.slcusd.org -->
 1. Specialized Skills Training and Certification
    1. Digital Literacy Classes: Computer skills training available through multiple organizations
       - [**The Literacy Connection**](Directory.md#Literacy-Connection): Free computer literacy tutoring as part of literacy goals; call [805-781-5077](tel:+1-805-781-5077) or complete [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
@@ -2991,12 +2963,53 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
       - [slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/)
       - can assist with: school enrollment, school placement disputes, transfer or tracking of school records, identifying school resources, questions related to school policy and Education Code
       - to access, reach out to your school district’s liaison [listed here](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
-1. Important Notes
-   - GED Testing: California uses both GED and [HiSET](https://hiset.org/california/) exams for high school equivalency; both available online and in-person
-   - Free Programs: Most adult basic education and GED preparation programs are offered at no cost
-   - Multilingual Support: Spanish-language GED classes and ESL programs available at multiple locations
-1. Online Options
-   - [Alison.com](https://alison.com)—“free online courses with certificates & diplomas” (seems to be funded by advertising? accredited courses seem UK-based)
+
+### High School Equivalency (GED or HiSET)
+
+If you did not earn a high school diploma, you can instead get a certificate that demonstrates that you have high-school-graduate-level competency.
+This can help you to apply for jobs or for higher education.
+To get such a certificate, you must pass a test: either the GED test or the HiSET test.
+
+You can also take such a test to earn such a certificate if you are still in high school but you want to leave school early rather than continue to graduation.
+
+[**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program includes free, non-credit courses that are designed to help you build the schools you need to pass the [California High School Equivalency (GED) exam](https://www.cuesta.edu/academics/continuinged/ged/index.html).
+Courses are offered in English and in Spanish.
+They also offer free tutoring, and free access to software programs to help you study.
+
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers free [High School Diploma](https://www.cuesta.edu/academics/continuinged/ged/index.html) classes to adults.
+This will enable you to earn an actual high school diploma, but these classes can also prepare you to take and pass the GED or HiSET.
+Register [on their website](https://adulted.luciamarschools.org/info-registration).
+When you get your high school diploma or HiSET equivalency credential, you can also get a referral to Cuesta or Hancock Colleges if you want to continue your education there.
+
+[**Templeton Adult School**](Directory.md#Templeton-Adult-School) offers free [High School Diploma](https://www.cuesta.edu/academics/continuinged/ged/index.html) classes to adults on a flexible schedule.
+Call them or email [clondon@templetonusd.org](mailto:clondon@templetonusd.org) to begin the process of enrollment.
+
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers on-line lessons, practice tests, and other learning tools, in English and Spanish, at its [High School Equivalency Center](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/hsequivalencycenter/home/are-you-prepared).
+
+### English as a Second Language (ESL)
+
+English as a Second Language (ESL) classes are for learners who already have another native or “mother” language, and they want to learn English as well.
+
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers free [ESL classes](https://ae.slcusd.org/hsd-esl/english-as-a-second-language) in Morro Bay and San Luis Obispo.
+
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers free [ESL classes](https://adulted.luciamarschools.org/english-as-a-second-language) at its Nipomo and Oceano learning centers
+
+[**Cuesta College**](Directory.md#Cuesta-College) offers free [ESL classes](https://www.cuesta.edu/academics/divisions/studentdevsuccess/esl/index.html) in Arroyo Grande, Paso Robles, and San Luis Obispo.
+
+[**The Literacy Connection**](Directory.md#Literacy-Connection) offers free [ESL tutoring](https://catalog.slolibrary.org/tlc) and on-line conversation practice groups.
+To apply, fill out [the form on their website](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) or call [805-781-5077](tel:+1-805-781-5077).
+
+### For U.S. Military Veterans
+
+As a U.S. military veteran, you may qualify for [“GI Bill” education benefits](https://www.va.gov/education/about-gi-bill-benefits/) that can help you pay for school and cover expenses while you’re training for a job.
+You can apply for these benefits [online at the Veterans Affairs website](https://www.va.gov/education/how-to-apply/) or by phone at [888-442-4551](tel:+1-888-442-4551).
+
+If you were not dishonorably discharged and if you have a service-connected disability rating of at least 10% from the Department of Veterans Affairs, you may be eligible for the Veteran Readiness & Employment (VR&E) program.
+VR&E can help you with with job training, education, and job seeking skills coaching.
+You can apply for this program by submitting a [Form 28-1900](https://www.va.gov/find-forms/about-form-28-1900/).
+You can also get help from [**Veterans Services**](Directory.md#Veterans-Services).
+
+People in the U.S. military, U.S. military veterans, and their spouses, adult children, and caregivers can also take free, online training courses in fields like data analytics, cybersecurity, artificial intelligence (AI), cloud computing, and information technology (IT) support through the [IBM SkillsBuild program](https://www.va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/)
 
 -----
 
@@ -3727,6 +3740,8 @@ Here are some of these local guides:
 - [Community Support Services](https://5chc.org/community-services) (from 5Cities Homeless Coalition)
 - [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): a comprehensive guide covering services for seniors in San Luis Obispo and Santa Barbara Counties. Also exists as a searchable on-line directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
 - [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services): 2025–26 North SLO County Senior Resource Guide available in English/Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, healthcare
+- [211SLO](https://211slo.org/)
+- [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
 - [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
 - [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic)
 - [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html)
@@ -3735,7 +3750,6 @@ Here are some of these local guides:
 - [Resource Guide Estero Bay](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf)
 - [Sharing SLO wiki](https://localwiki.org/slo/Sharing_SLO)
 - [Immigrant Services Guide](https://www.sloundocusupport.org/immigrantservicesguide)
-- [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
 - [SLO County Job Seeker Resource Guide](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide)
 - [SLO County Veterans Local Resources](https://slovsc.org/veterans_resources/local-resources/)
 - [The Homeless Veteran’s Resource Guide](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)

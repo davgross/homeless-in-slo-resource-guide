@@ -1060,13 +1060,17 @@
    - [805-546-3100](tel:+1-805-546-3100) (SLO Campus)
    - [805-591-6200](tel:+1-805-591-6200) (North County Campus)
    - [805-591-6273](tel:+1-805-591-6273) (Continuing Education Office)
-   - English as a Second Language Program:
+   - English as a Second Language (ESL) program:
       - [805-592-9463](tel:+1-805-592-9463) (SLO Campus)
       - [805-591-6273](tel:+1-805-591-6273) (North County Campus)
       - Call M–Th 10am–7pm
+   - Continuing Education program:
+      - [805-592-9463](tel:+1-805-592-9463) (SLO Campus)
+      - [805-591-6273](tel:+1-805-591-6273) (North County Campus)
 - Email:
-   - [admit@cuesta.edu](admit@cuesta.edu) (Admission)
-   - [scchelp@cuesta.edu](scchelp@cuesta.edu) (South County Campus)
+   - [admit@cuesta.edu](mailto:admit@cuesta.edu) (Admission)
+   - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (South County Campus)
+   - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education)
 - Notes:
    - The Paso Robles campus hosts a food pantry in room N1005, M/Th/F 8am–5pm, Tu/W 9am–6pm; [805-592-9366](tel:+1-805-592-9366)
    - [Community Education](https://www.cuesta.edu/community/index.html) programs are open to otherwise unenrolled people
@@ -1924,9 +1928,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 | Name | Location | Phone |
 | ---- | -------- | ----- |
-| Main office | 1055 Mesa View Dr., Arroyo Grande <a href="#" class="map-link" data-lat="35.066043" data-lon="-120.595132" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x5811](tel:+1-805-474-3000;ext=5811) |
+| Main office | 602 Orchard St., Arroyo Grande <a href="#" class="map-link" data-lat="35.115292" data-lon="-120.576271" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3222](tel:+1-805-474-3222) |
 | Nipomo Learning Center | 190 E. Price St., Nipomo <a href="#" class="map-link" data-lat="35.042848" data-lon="-120.471869" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x1224](tel:+1-805-474-3000;ext=1224) |
-| Oceano Community Center | 1551 17th St., Oceano <a href="#" class="map-link" data-lat="35.103145" data-lon="-120.612309" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x1225](tel:+1-805-474-3000;ext=1225) |
+| Oceano Community Center | 1575 17th St., Oceano <a href="#" class="map-link" data-lat="35.101995" data-lon="-120.612296" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x1225](tel:+1-805-474-3000;ext=1225) |
 
 <!-- Note: another source says 1425 19th St., Oceano -->
 
@@ -2621,7 +2625,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - Or, call during business hours
 - Note:
    - Hosts “San Luis Obispo Family Resource Center”
-   - Can help you get a high school diploma or its equivalent (HiSet or GED)
+   - Can help you get a high school diploma or its equivalent (HiSET or GED)
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
@@ -3252,6 +3256,13 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - A program of [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Focus on enhancing youth mental health in SLO and Northern Santa Barbara Counties
 <!-- Note: No dedicated website, specific physical address, or hours listed (as of October 2025); contact via phone/email or through CAPSLO main office -->
+
+## <a id="Templeton-Adult-School">Templeton Adult School</a>
+
+- [templetonusd.org/schools/tae/tas/index](https://www.templetonusd.org/schools/tae/tas/index)
+- Location: 964 Old Country Road, Templeton <a href="#" class="map-link" data-lat="35.545208" data-lon="-120.710961" data-zoom="17" data-label="Templeton Adult School">Map</a>
+- Phone: [805-434-5827](tel:+1-805-434-5827)
+- Email: [clondon@templetonusd.org](mailto:clondon@templetonusd.org)
 
 ## <a id="Tikva-Treatment">Tikva Treatment (The Haven at Pismo)</a>
 

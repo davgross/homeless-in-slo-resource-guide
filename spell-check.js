@@ -23,7 +23,7 @@ const WHITELIST = new Set([
   'Lumina', 'Aegis', 'Aevum', 'Genoa', 'Tikva', 'Agape', 'Alano', 'Arise', 'Vineyard', 'Loaves',
   'Fishes', 'Terrace', 'Sunny', 'Acres', 'Rapha', 'LyonHeart', 'Parkwood', 'Vituity', 'Waterman',
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
-  'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO','LinkedIn','HiSet',
+  'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO','LinkedIn','HiSET',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
