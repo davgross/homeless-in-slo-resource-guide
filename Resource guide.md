@@ -2510,6 +2510,8 @@ You can search for banks that offer such accounts at [joinbankon.org](https://jo
 These webinars are free to the public.
 They also offer free [one-on-one, professional financial counseling](https://www.sesloc.org/why-sesloc/financial-education/greenpath-financial-counseling/) to SESLOC members.
 
+[**Goodwill Central Coast**](Directory.md#Goodwill) has a free “Opportunity Platform” that includes one-on-one financial coaching services to help you achieve your personal money goals.
+
 ### <a id="debt-consolidation">Debt Consolidation</a>
 
 [Money Management International](https://www.moneymanagement.org/) ([866-889-9347](tel:+1-866-889-9347)) and [National Foundation for Credit Counseling](https://www.nfcc.org/) ([800-388-2227](tel:+1-800-388-2227)) are nonprofit groups that can help you manage credit card or other debt.
@@ -2772,25 +2774,17 @@ You can search for open employment positions on the site, and you can add your r
 
 The state [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) offers many [job seeker services](https://edd.ca.gov/en/jobs_and_training/Job_Seeker_Information/) such as free job training programs and job fairs.
 
-<!-- To-do: prosify this list -->
-1. [**Goodwill Stores**](Directory.md#Goodwill)
-   - Free employment services, job training and placement
-   - Services: Career counseling, skills training, résumé preparation, job placement assistance, interview prep
-   - Access: Visit any retail location or contact county workforce development
-   - Contact: SLO County Workforce Development Board, <a href="#" class="map-link" data-lat="35.251393" data-lon="-120.668265" data-zoom="17" data-label="SLO County Workforce Development Board">3563 Empleo Street, SLO</a>, [805-439-2557](tel:+1-805-439-2557)
-   - Cost: Free employment services available to all job seekers
-1. [**Assistance League of San Luis Obispo County**](Directory.md#Assistance-League-of-SLO-County)
-   - Access to Career Education (ACE): Educational program for students (specific details not readily available)
-   - Target: Students living below Federal Poverty Level (45% of SLO County student population)
-   - Note: Unable to find detailed information about ACE program specifics in available sources; contact organization directly for current program details
-   - Source: [assistanceleague.org](https://www.assistanceleague.org/san-luis-obispo-county/)
-1. Migrant Seasonal Farmworker program ([**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) program)
-   - no-cost job search assistance, labor market info, vocational training, rights/labor law info
+The [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) has a Migrant Seasonal Farmworker program that includes no-cost job search assistance, labor market info, vocational training, and information about your legal rights and labor law protections.
+
+[**Goodwill Central Coast**](Directory.md#Goodwill) has a free “Opportunity Platform” that includes job search, resume building, digital literacy, and job readiness programs.
+
+<!-- Needs more research (unclear if this is just another name for SLOCal Careers or some other program):
 1. Workforce Development Board of SLO County
    - www.sloworkforce.com
    - 805-781-1908
    - <a href="#" class="map-link" data-lat="35.251393" data-lon="-120.668265" data-zoom="17" data-label="SLO County Workforce Development Board">3563 Empleo Street, SLO</a>
    - eligibility: adults or youth who are "WIOA eligible"
+-->
 
 #### For College Students
 
@@ -2818,29 +2812,20 @@ To use that program, you first must get a referral from [**California Department
 
 #### For People Released from Jail or Prison
 
-<!-- To-do: prosify this list -->
-1. [**Restorative Partners**](Directory.md#Restorative-Partners)
-   - Target population: Justice-involved individuals, people reentering society after incarceration, individuals impacted by crime
-   - Special program: The Bridge Cafe—social enterprise offering paid culinary job training and certification in partnership with Cuesta College's Culinary Arts Foundation
-   - How to apply for Bridge Cafe training: Contact Restorative Partners to inquire about participating in the culinary arts certificate program
-   - Program outcomes: Upon completion, Restorative Partners assists participants with finding culinary employment
-   - Bridge Cafe location: <a href="#" class="map-link" data-lat="35.281728" data-lon="-120.660117" data-zoom="18" data-label="Bridge Cafe">1074 Higuera Street, downtown SLO</a>, Monday–Friday 7am–3pm
-   - Source: [thebridgecafe.org](https://www.thebridgecafe.org/)
-1. The Bridge Cafe
-   - project of [**Restorative Partners**](Directory.md#Restorative-Partners)
-   - job development for people tangled in the criminal justice system
-   - <a href="#" class="map-link" data-lat="35.281728" data-lon="-120.660117" data-zoom="18" data-label="Bridge Cafe">1074 Higuera St., SLO</a>
-   - [805-459-1689](tel:+1-805-459-1689)
-   - [info@thebridgecafe.org](mailto:info@thebridgecafe.org)
+[**Restorative Partners**](Directory.md#Restorative-Partners) can help you build job experience after you are released from jail or prison.
+They operate [“The Bridge Cafe”](https://www.thebridgecafe.org/) which can give you paid employment while training you for certification by [**Cuesta College**](Directory.md#Cuesta-College)’s Culinary Arts program.
+Upon completion of that program, they will also help you to find a job in that field.
+Contact Restorative Partners to inquire about participating in this program.
 
 #### For U.S. Military Veterans
 
-<!-- To-do: prosify this list -->
+If you were not dishonorably discharged and if you have a service-connected disability rating of at least 10% from the Department of Veterans Affairs, you may be eligible for the Veteran Readiness & Employment (VR&E) program.
+VR&E can help you with with job training, education, employment accommodations, resume development, and job seeking skills coaching.
+You can apply for this program by submitting a [Form 28-1900](https://www.va.gov/find-forms/about-form-28-1900/).
+You can also get help from [**Veterans Services**](Directory.md#Veterans-Services).
 
-1. Vocational Rehabilitation & Employment Program: Specialized employment services for veterans through VA
-1. County Veterans Services office has a "Vocational Rehabilitation and Employment Program"
-1. EDD has a "Veterans Services" program. Helps all qualifying veterans; but some "intensive services" only available to veterans with a "significant barrier to employment".
-   - To apply, register & post a resume in CalJOBS, then meet with a Veterans Service Navigator at the EDD for an initial assessment.
+The [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) has a Veterans Services program.
+To apply, register & post a resume in [**CalJOBS**](Directory.md#CalJOBS), then meet with a Veterans Service Navigator at the EDD for an initial assessment.
 
 ### Making Ends Meet: Recycling
 
@@ -3005,7 +2990,7 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
       - [805-782-7268](+1-805-782-7268) [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
       - [slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/)
       - can assist with: school enrollment, school placement disputes, transfer or tracking of school records, identifying school resources, questions related to school policy and Education Code
-      - to access, reach out to your school district&';s liaison [listed here](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
+      - to access, reach out to your school district’s liaison [listed here](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
 1. Important Notes
    - GED Testing: California uses both GED and [HiSET](https://hiset.org/california/) exams for high school equivalency; both available online and in-person
    - Free Programs: Most adult basic education and GED preparation programs are offered at no cost
@@ -3751,6 +3736,7 @@ Here are some of these local guides:
 - [Sharing SLO wiki](https://localwiki.org/slo/Sharing_SLO)
 - [Immigrant Services Guide](https://www.sloundocusupport.org/immigrantservicesguide)
 - [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english)
+- [SLO County Job Seeker Resource Guide](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide)
 - [SLO County Veterans Local Resources](https://slovsc.org/veterans_resources/local-resources/)
 - [The Homeless Veteran’s Resource Guide](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
 

@@ -1356,6 +1356,7 @@
 | 880 Industrial Way, SLO <a href="#" class="map-link" data-lat="35.252988" data-lon="-120.640955" data-zoom="17" data-label="Goodwill Outlet">Map</a> (Outlet) | Daily 7am–4pm |
 
 - Phone: [800-894-8440](tel:+1-800-894-8440)
+   - Opportunity Platform: [805-544-0542&nbsp;x8520](tel:+1-805-544-0542;ext=8520), [jjauregui@ccgoodwill.org](mailto:jjauregui@ccgoodwill.org)
 
 ## <a id="Grace-Central-Coast">Grace Central Coast</a> “God’s Storehouse”
 
