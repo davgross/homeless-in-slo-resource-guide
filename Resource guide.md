@@ -285,6 +285,7 @@ For either of these options, you must first get a referral from the [**SLO Count
 
 [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers financial assistance for rent for people in danger of becoming homeless.
 Contact 5CHC to arrange a confidential coordinated entry interview.
+You will need to bring identification, including social security cards and birth certificates for you and those living with you, an account of how much income you have received during the previous three months, your lease agreement, and the eviction notice you received.
 
 > See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help--crime-victim-protection) section for options about preventing illegal evictions.
 
@@ -299,12 +300,13 @@ They offer you an air-conditioned place where you can get out of the sun.
 It can be difficult to know on any particular day whether or not these centers are open, so it is a good idea to call ahead.
 
 The SLO city warming/cooling center is at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
-When it operates as a warming center, check in is between 7pm and 9pm, and you must leave by 6am.
+When it operates as a warming center, check in is between 7pm and 9pm, and you must leave by 8am.
 When it operates as a cooling center, you must leave by 6pm.
 Meals are provided.
 Pets with rabies vaccinations are allowed in their kennel.
 People with P.C. 290 convictions are not allowed in the center.
 The warming center offers a free hot meal.
+There is sometimes transportation available to and from Morro Bay and Los Osos (call for details).
 
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) warming center at <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. in Arroyo Grande</a> operates between 5:30pm and 7am.
 You must check in before 8pm.
@@ -315,8 +317,10 @@ Call [805-295-1501](tel:+1-805-295-1501) to verify the center is open and to lea
 The warming center offers a free hot meal.
 Text “Add Me” to [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) to receive text updates to your phone when the Warming Center opens, or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
 
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center in the north county. <!-- says https://pasoroblespress.com/news/government/city-of-paso-robles/city-council-approves-111k-for-echo-adopts-shelter-program-shift/ -->
-Contact them for location and details.
+The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center at its Paso Robles shelter location.
+It operates between 6:00pm and 7:00am. Check in between 4:30pm and 5:30pm.
+They will also serve you a meal.
+No dogs except for service dogs are allowed in the warming center.
 
 [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) operates an air-conditioned cooling center any time the temperature is above 90°F outside.
 You do not have to be a senior center member to shelter there when the cooling center is open.
@@ -330,7 +334,9 @@ Many are reserved for people who have previously registered with 40 Prado, but a
 To get a bed, first come on-site and complete the intake process any day from 8am to 2pm.
 Thereafter, on any day when you need an overnight shelter bed, check in from 4:30pm to 6pm to secure a bed or to be placed on the waiting list.
 They also offer meals (breakfast, lunch, and dinner), showers, laundry, mail/phone services, an integrated medical clinic (primary and urgent care five days a week with an on-site pharmacy), recuperative care beds, and an animal kennel.
-To use the shelter, you must be a county resident with ID, you must not be a P.C. 290 registered sex offender, and you must participate in case management.
+To stay at the shelter, you must have a valid photo ID, you must not be a P.C. 290 registered sex offender, and you must participate in case management.
+You musty also be able to care for yourself independently (bathing, feeding, dressing, etc.).
+There are a limited number of beds; priority is given to SLO county residents.
 
 The 40 Prado center is the only walk-in, overnight homeless shelter in SLO County.
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) used to operate a shelter in the north county, but now only offers 90-day transitional housing there ([see below](#transitional-and-long-term-housing)).
@@ -1764,9 +1770,9 @@ Sometimes there is some blistering and scabbing.
 You will need to take some care to keep the area of the tattoo clean, and to apply some ointments that assist healing.
 
 The [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) offers laser tattoo removal of gang-related, anti-social, or economically limiting tattoos.
-You are required to do four hours of community service (or an equivalent financial donation) before each treatment, but there is otherwise no cost.
+You are required to do some hours of community service (or an equivalent financial donation) before each treatment, but there is otherwise no cost.
 You must agree to remain clean and sober, and to get no more tattoos, during the treatment.
-This service is offered locally, in SLO County.
+This service is offered to people in SLO County and the treatments take place in SLO city.
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) has a low-cost tattoo removal program ($20–90 per session, on a sliding scale based on ability to pay).
 You must also complete 20 hours of community service before beginning treatment.
@@ -2529,6 +2535,7 @@ The U.S. Internal Revenue Service stopped issuing paper tax refund checks in 202
 The national Volunteer Income Tax Assistance (VITA) program allows low- and moderate-income people to get free help in preparing and filing their federal and state tax returns.
 [**United Way of SLO County**](Directory.md#United-Way) coordinates the local VITA program through various partner organizations, including Cal Poly and [**AARP**](Directory.md#AARP-Tax-Aide).
 The AARP Tax-Aide Program is especially for people over age 50.
+Use United Way’s [211](tel:+1-211) service to find a VITA location near you and make an appointment.
 The United Way also has [an on-line program](https://www.myfreetaxes.org/file-with-virtual-help/) with which you can upload your tax documents and get free help from tax preparation volunteers over the internet.
 
 There are also free options that allow you to file your federal income taxes yourself by using guided tax preparation software or by filling in on-line forms and filing them electronically.
@@ -2591,6 +2598,10 @@ The [**Los Osos Cares**](Directory.md#Los-Osos-Cares) Resource Center can give i
 It is only available sometimes.
 Check [this web page](https://catholiccharitiesdom.org/family-supportive-services/hope-in-home/) to see if the program is currently in effect and if so, how to apply for it.
 They also operate a [“Financial Stability Services”](https://catholiccharitiesdom.org/family-supportive-services/) program which can provide financial resources to low-income people in financial crisis.
+To apply for these programs, first call their main or Paso Robles number to make an appointment.
+When applying for help, bring your identification, proof of income, and proof of need.
+If you are applying for help to pay the rent, also bring your rental agreement.
+If you are applying for help to pay utility bills, bring those bills.
 
 The local Facebook group [HelpSLO](https://www.facebook.com/groups/helpslo/) invites people to post requests for needs they have, such as for new tires for their car, or school clothing for their children, or other things like that.
 However, you cannot ask for cash.
@@ -2635,18 +2646,25 @@ It is for needy people without dependent children who live in SLO County who are
 Apply for this program at a DSS office.
 If you qualify for this program, you must also do an in-person interview at the SLO city DSS office.
 
-You can also apply for [**CalWORKS**](Directory.md#CalWORKS) cash aid at any DSS office, or online at [BenefitsCal](https://benefitscal.com/).
-CalWORKS is California's version of the Temporary Assistance to Needy Families (TANF) federal program.
+You can also apply for [**CalWORKs**](Directory.md#CalWORKS) cash aid at any DSS office, or online at [BenefitsCal](https://benefitscal.com/).
+CalWORKs is California's version of the Temporary Assistance to Needy Families (TANF) federal program.
 To qualify, you must have a “qualifying child” at least one parent of whom is “deceased, absent from the home, disabled, or unemployed” and you must be below a certain maximum income/assets limit.
 You must participate in an in-person interview, and you may need to provide some documentation to verify your eligibility.
 To receive benefits, you may be required to participate in the Welfare-to-Work Program, which helps you prepare for, find, and maintain employment.
 
-If you have become unemployed, you may be able to apply for unemployment benefits.
+If you are a refugee or an immigrant from Cuba or Haiti who is not eligible for CalWORKs, you may be able to get beenfits from the [Refugee Cash Assistance (RCA) or Entrant Cash Assistance (ECA)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/refugee-cash-assistance-%28rca%29-entrant-cash-assista) programs.
+If you are also a victim of human trafficking, domestic violence, or other serious crime, you may also qualify for [Trafficking & Crime Victims Assistance Program (TCVAP)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/trafficking-crime-victims-assistance-program-%28cw%29).
+For any of these programs, you can apply in person at a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) office.
+Bring proof of income and assets and documentation about your refugee or entry status, including your sponsor’s information if you have a sponsor.
+For TCVAP, you can also apply online at [BenefitsCal](https://benefitscal.com/).
+
+If you have become unemployed, you may be able to apply for unemployment insurance benefits.
 This temporarily pays you a portion of the salary you had earned while you were working.
 To qualify, you must have a Social Security number, be authorized to work in the United States, have earned some minimum amount of reported wages or salary during the previous 18 months.
 You must have become totally or partially unemployed, and through no fault of your own.
 You must also be able to work, looking for paid work, and able to accept paid work.
-You can apply for unemployment benefits from California’s [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) through [the myEDD website](https://edd.ca.gov/en/unemployment/) or by phone ([800-300-5616](tel:+1-800-300-5616), TTY: [800-815-9387](tel:+1-800-815-9387)).
+You can apply for unemployment benefits from California’s [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) through [the myEDD website](edd.ca.gov/Unemployment/UI_Online.htm) or by phone ([800-300-5616](tel:+1-800-300-5616), TTY: [800-815-9387](tel:+1-800-815-9387)).
+If you have questions, you can also email [WSBSanLuisObispoInfo@edd.ca.gov](mailto:WSBSanLuisObispoInfo@edd.ca.gov).
 
 ### Utility Assistance Programs
 
@@ -2675,7 +2693,7 @@ Contact the County Department of Public Works at [PublicWorks@co.slo.ca.us](mail
 
 -----
 
-## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">Navigating Social Security / SSDI / SSI / Survivors Benefits</a>
+## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">Navigating Social Security / SSDI / SSI / Survivors Benefits / CAPI</a>
 
 > See the [Social Security Numbers or Cards](#social-security-numbers-or-cards) section of this guide to learn how to get a Social Security number or to get or replace a Social Security card.
 
@@ -2709,6 +2727,9 @@ Pay stubs and tax records can help to establish your work history, especially if
 
 Be patient, as the process of applying for benefits can be time-consuming and the bureaucracy can move slowly.
 If you are denied benefits, find out about the appeals process and consider appealing the decision.
+
+If you are denied SSI benefits solely because of your immigration status, you may be able to get benefits instead from the [California Assistance Program for Immigrants (CAPI)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi%29).
+Apply from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
 
 If you have a disability and are applying for Social Security Disability Insurance, you may be able to get some immediate financial help from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services)’ “General Assistance Disabled Program” while you wait for your application to be processed.
 They may also be able to assign you a “Benefits Arch Advocate” who can help you apply for SSI and SSDI.
@@ -2759,10 +2780,17 @@ The state [**Employment Development Department (EDD)**](Directory.md#Employment-
    - Target: Students living below Federal Poverty Level (45% of SLO County student population)
    - Note: Unable to find detailed information about ACE program specifics in available sources; contact organization directly for current program details
    - Source: [assistanceleague.org](https://www.assistanceleague.org/san-luis-obispo-county/)
+1. Migrant Seasonal Farmworker program ([**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) program)
+   - no-cost job search assistance, labor market info, vocational training, rights/labor law info
 
-#### For Cuesta College Students
+#### For College Students
 
-Cuesta College students and graduates can get help finding a job or an internship from [Cuesta College Career Services](https://www.cuesta.edu/student-support/career-work/career-services/index.html) ([CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu)).
+Cuesta College students, graduates, and staff can get help finding a job or an internship from [Cuesta College Career Services](https://www.cuesta.edu/student-support/career-work/career-services/index.html) ([CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu), [805-546-3252](tel:+1-805-546-3252) SLO, [805-546-3232](tel:+1-805-546-3232) Paso Robles).
+Call to make an appointment.
+
+Cal Poly (SLO) students, graduates, and staff can get help from [Cal Poly Career Services](https://careerservices.calpoly.edu/) ([careerservices@calpoly.edu](mailto:careerservices@calpoly.edu), [805-756-1111](tel:+1-805-756-1111), <a href="#" class="map-link" data-lat="35.298472" data-lon="-120.664092" data-zoom="17" data-label="Cal Poly Career Services">Student Services Building, room 114</a>).
+This includes career counseling, career and professional development certificates, interview clothes, and career fairs.
+They also hold workshops on topics like job searching, building your resume, interview skills, and how to use LinkedIn.
 
 #### For People with Disabilities
 
@@ -2796,12 +2824,13 @@ To use that program, you first must get a referral from [**California Department
    - [805-459-1689](tel:+1-805-459-1689)
    - [info@thebridgecafe.org](mailto:info@thebridgecafe.org)
 
-#### For Veterans
+#### For U.S. Military Veterans
 
 <!-- To-do: prosify this list -->
 
-1. Veterans Employment Services
-   1. Vocational Rehabilitation & Employment Program: Specialized employment services for veterans through VA
+1. Vocational Rehabilitation & Employment Program: Specialized employment services for veterans through VA
+1. EDD has a "Veterans Services" program. Helps all qualifying veterans; but some "intensive services" only available to veterans with a "significant barrier to employment".
+   - To apply, register & post a resume in CalJOBS, then meet with a Veterans Service Navigator at the EDD for an initial assessment.
 
 ### Making Ends Meet: Recycling
 
@@ -2848,14 +2877,13 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
       - What's Available: Free education for students 18+; High School Diploma courses; GED and US Citizenship test preparation; cosmetology school; ESL classes (partnership with Cuesta College)
       - Additional locations: Nipomo Learning Center, Oceano Learning Center
       - Special programs: US Citizenship Classes still accepting new students
+      - When you get your high school diploma or HiSET equivalency credential, you can get a referral to Cuesta or Hancock Colleges from LMUSD
 1. Higher Education and Professional Development
    1. [Cal Poly Extended Learning (EPaCE)](https://extended.calpoly.edu/)
       - Services: Professional development certificates, non-credit courses, youth programs, international education
       - Note: Contact [805-756-2053](tel:+1-805-756-2053) or [extended@calpoly.edu](mailto:extended@calpoly.edu) to inquire about financial assistance or reduced-cost options for low-income individuals (specific scholarship/assistance information not available on website)
    1. [**Cuesta College**](Directory.md#Cuesta-College)
       - Monarch Dream Center: Support services for undocumented students
-      - Career services: Available through Career Connections office for students and potentially alumni
-      - Eligibility: Career services appear primarily for enrolled students; community member access unclear
       - Contact: [CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu), [805-546-3252](tel:+1-805-546-3252), Building 5300 Room 5310 to inquire about non-student access
       - Community Programs: Fee-based, not-for-credit classes available to anyone with no admission requirements
       - [Career Training Programs](https://careertraining.cuesta.edu/) (online) [855-520-6806](tel:+1-855-520-6806): expensive, but there seem to be [financial assistance options](https://careertraining.cuesta.edu/financial-assistance/) and e.g. deals for veterans and other government programs
@@ -3244,6 +3272,7 @@ This program is for California residents with medically-certified limitations of
    1. [**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection)
       - Services: Connects families with child care centers, family child care homes, after-school programs; child care payment assistance/subsidies for income-eligible families; toy lending library
       - Additional: child care provider training, within-child care food program, bilingual services (English/Spanish)
+      - get referral from DSS, or apply for the "Alternative Payment Program" if you aren't eligible for a DSS referral.
    1. [CAPSLO Head Start](https://capslo.org/head-start-and-early-head-start/)
       - Services: Comprehensive child development for ages 0-5; education, health, nutrition, behavioral health, social services, parent involvement
       - Target: Low-income families and children with special needs; school readiness curriculum

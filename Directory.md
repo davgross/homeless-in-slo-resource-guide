@@ -468,7 +468,7 @@
       - [916-324-1313](tel:+1-916-324-1313) (voice)
       - [916-558-5673](tel:+1-916-558-5673) (TTY)
       - Source: [dor.ca.gov](https://www.dor.ca.gov/Home/ContactUs)
-- How to access: No walk-ins. Call them, or fill out a form on their website.
+- How to access: No walk-ins. Call them to schedule an Orientation, or fill out a form on their website.
 - Notes:
    - Can refer you to the “Supported Employment” program
 
@@ -615,6 +615,7 @@
 
 ## <a id="Catholic-Charities">Catholic Charities (Diocese of Monterey)</a>
 
+<!-- To-do: verify which of these many addresses are correct -->
 <!-- Source: https://catholiccharitiesdom.org/contact-us/ verified October 2025, re-verified January 2025 -->
 - [catholiccharitiesdom.org](https://catholiccharitiesdom.org/)
    - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
@@ -632,7 +633,7 @@
 - Hours:
    - SLO offices: M–F 8am–5pm (call to confirm hours for specific location)
    - Paso Robles: 2nd Wednesday of every month, 1–5pm
-<!-- Note: Multiple addresses found in online sources including 3220 S. Higuera St. #303, and 941 Chorro St.; relationship between these addresses unclear (January 2025) -->
+<!-- Note: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) -->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
 
@@ -644,12 +645,13 @@
    - Office: Tu–Th 10am–2pm (closed Fridays and holidays)
    - Food pantry ("Harvest Bag"): 1st, 3rd, 4th, & 5th Wednesdays at 10:30am
 
-## <a id="CenCal">CenCal</a>
+## <a id="CenCal">CenCal Health</a>
 
 > *See also [**Medi-Cal**](#Medi-Cal)*
 
 - [Cencalhealth.org](https://cencalhealth.org/)
-- Phone: [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm)
+- Location: 1035 Peach St. #201, SLO <a href="#" class="map-link" data-lat="35.284602" data-lon="-120.662586" data-zoom="17" data-label="CenCal Health">Map</a>
+- Phone: [805-685-9525](tel:+1-805-685-9525) or [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm)
 - Note: for CenCal Shuttle, *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 
 ## CenCal Health Transportation
@@ -829,7 +831,7 @@
 ## <a id="Child-Care-Resource-Connection">Child Care Resource Connection</a>
 
 - [capslo.org/child-care-resource-connection](https://capslo.org/child-care-resource-connection/)
-- Location: 805A Fiero Ln., SLO <a href="#" class="map-link" data-lat="35.244059" data-lon="-120.642200" data-zoom="17" data-label="Child Care Resource Connection">Map</a>
+- Location: 805A Fiero Ln. #A, SLO <a href="#" class="map-link" data-lat="35.244059" data-lon="-120.642200" data-zoom="17" data-label="Child Care Resource Connection">Map</a>
 - Phone:
    - [888-727-2272](tel:+1-888-727-2272)
    - [805-541-2272](tel:+1-805-541-2272) (SLO)
@@ -837,9 +839,11 @@
    - [805-226-3249](tel:+1-805-226-3249) (North County)
 - Hours: M–F, 8am–5pm
 - How to access: walk-ins OK
-   - waiting list for some services
+   - get a referral from the [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
+- Notes:
+   - operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO)
+   - there is often a waiting list for some services
    - toy lending library by appointment only
-- Notes: operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO)
 
 ## <a id="Child-Development-Resource-Center">Child Development Resource Center</a>
 
@@ -983,9 +987,11 @@
 | 292 Posada Ln. #A, Templeton <a href="#" class="map-link" data-lat="35.553046" data-lon="-120.721773" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-542-6701](tel:+1-805-542-6701) | |
 
 - Main Phone: [805-361-8400](tel:+1-805-361-8400) (M–F 8am–6pm) / [866-614-4636](tel:+1-866-614-4636) (after-hours care)
-- “CHC Transportation Services” is a door-to-door ride service to appointments
-   - Phone: [877-743-3242](tel:+1-877-743-3242)
-- Note: also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
+- Accepts private pay, full- and partially-insured, Medi-Cal, and Medicare. Also offers a sliding fee scale based on income and family size to people without any health insurance.
+- How to access: "Immediate care" or "urgent care" centers accept walk-ins. Otherwise, make an appointment.
+- Notes:
+   - Also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
+   - “CHC Transportation Services” is a door-to-door ride service to appointments ([877-743-3242](tel:+1-877-743-3242))
 <!-- Note: Hours listed for urgent care location; other locations’ hours may vary - call individual locations for specific hours -->
 
 ## <a id="Community-Partners-in-Caring">Community Partners in Caring</a>
@@ -1059,6 +1065,7 @@
       - [805-591-6273](tel:+1-805-591-6273) (North County Campus)
       - Call M–Th 10am–7pm
 - Email:
+   - [admit@cuesta.edu](admit@cuesta.edu) (Admission)
    - [scchelp@cuesta.edu](scchelp@cuesta.edu) (South County Campus)
 - Notes:
    - The Paso Robles campus hosts a food pantry in room N1005, M/Th/F 8am–5pm, Tu/W 9am–6pm; [805-592-9366](tel:+1-805-592-9366)
@@ -1138,8 +1145,8 @@
 
 - [www.echoshelter.org](https://www.echoshelter.org/)
 
-| Shelter Location | Hours | Dinner | Showers |
-| ---------------- | ----- | ------ | ------- |
+| Transitional Housing Location | Hours | Dinner | Showers |
+| ----------------------------- | ----- | ------ | ------- |
 | 6370 Atascadero Ave., Atascadero <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">Map</a> <!-- Another source says 7600 El Camino Real #12, Atascadero --> | M–F 10–6pm | daily 5–6pm | M–F 3:30–5pm |
 | 1134 Black Oak Dr., Paso Robles <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">Map</a> | M–F 10–6pm | daily 4:30–5:30pm | showers M,W,F 3:30–5pm |
 
@@ -1167,9 +1174,12 @@
 - [edd.ca.gov](https://edd.ca.gov/)
 - Location: 3450 Broad St. #103A, SLO <a href="#" class="map-link" data-lat="35.257956" data-lon="-120.646557" data-zoom="17" data-label="EDD">Map</a>
 - Phone:
-   - Local office: [800-300-5616](tel:+1-800-300-5616)
+   - [800-300-5616](tel:+1-800-300-5616)
+   - Local office: [805-878-2842](tel:+1-805-878-2842)
    - Customer service: [805-439-2557](tel:+1-805-439-2557)
 - Hours: M–F 8am–5pm
+- Notes:
+   - Operates “Migrant Seasonal Farmworker” program
 
 ## <a id="Enhanced-Care-Management">Enhanced Care Management</a>
 
@@ -1514,7 +1524,7 @@
 - Phone: [805-543-4478](tel:+1-805-543-4478)
 - Email: [info@haslo.org](mailto:info@haslo.org)
 - Hours: M–Th 8am–5pm (also open every other Friday)
-- How to access: submit a paper application to get on the waiting list
+- How to access: submit a paper application to get on the waiting list for affordable apartments
 - Notes:
    - Operates “Halcyon Collective” (Arroyo Grande)
    - Operates “Macadero Gardens” (Atascadero)
@@ -1633,7 +1643,9 @@
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
 
 - Phone: [805-540-8353](tel:+1-805-540-8353) <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
-- Email: [floydbland@capslo.org](mailto:floydbland@capslo.org) <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+- Email:
+   - [libertytattooremoval@capslo.org](mailto:libertytattooremoval@capslo.org) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide -->
+   - [floydbland@capslo.org](mailto:floydbland@capslo.org) <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 - Notes:
    - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO)
    - Hosted by [**Adventist Health Sierra Vista**](#Adventist-Health-Sierra-Vista)
@@ -1915,7 +1927,11 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 | Nipomo Learning Center | 190 E. Price St., Nipomo <a href="#" class="map-link" data-lat="35.042848" data-lon="-120.471869" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x1224](tel:+1-805-474-3000;ext=1224) |
 | Oceano Community Center | 1551 17th St., Oceano <a href="#" class="map-link" data-lat="35.103145" data-lon="-120.612309" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x1225](tel:+1-805-474-3000;ext=1225) |
 
-- Phone: [805-474-3000 x5811](tel:+1-805-474-3000;ext=5811) (general)
+<!-- Note: another source says 1425 19th St., Oceano -->
+
+- Phone:
+   - [805-474-3000 x5811](tel:+1-805-474-3000;ext=5811) (general)
+   - [805-474-3000 x1221](tel:+1-805-474-3000;ext=1221) (Adult Education and Literacy)
 - Email: [brienne.phillips@lmusd.org](mailto:brienne.phillips@lmusd.org)
 - Notes: Partners with [**Cuesta College**](#Cuesta-College) for ESL classes
 
@@ -2245,7 +2261,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Phone: [805-238-4015](tel:+1-805-238-4015)
 - Email: [info@pasoroblesha.org](mailto:info@pasoroblesha.org)
 - Hours: M–F 9am–4:30pm (closed Noon–1pm)
-- Notes: Operates affordable housing properties including Oak Park 1–4 and Sunrise Villas; offers community services including Youth Works program
+- How to access: Call or email
+- Notes:
+   - Operates affordable housing properties including Oak Park 1–4 and Sunrise Villas
+   - Offers community services including “Youth Works” program
 
 ## <a id="Paso-Robles-Senior-Center">Paso Robles Senior Center</a>
 
@@ -2313,6 +2332,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Location: 1060 Kendall Road, SLO <a class="map-link" data-lat="35.236784" data-lon="-120.633302" data-zoom="17" data-label="People's Self-Help Housing">Map</a>
 - Phone: [805-781-3088](tel:+1-805-781-3088)
 - Hours: M–F 8am–5pm
+- How to access: Submit a rental application at their website
 - Notes:
    - Operates “Broad Street Place”
    - Operates “Sea Breeze Apartments”
@@ -2490,10 +2510,12 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Ride-On-Transportation">Ride-On Transportation</a>
 
+- Location: 3620 Sacramento Dr. #201, SLO <a href="#" class="map-link" data-lat="35.255366" data-lon="-120.641446" data-zoom="17" data-label="Ride-On Transportation">Map</a>
 - [**Medi-Cal**](#Medi-Cal) Shuttle a.k.a. [CenCal Health Transportation](https://www.cencalhealth.org/members/transportation/)
    - Phone: [855-659-4600](tel:+1-855-659-4600) (Ventura Transit System)
 - Veterans Express Shuttle
    - Phone: [805-541-8747](tel:+1-805-541-8747)
+- Hours: M–F 6:30am–5:00pm (phone hours)
 
 ## RISE
 
@@ -2797,9 +2819,13 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 | Location | Phone |
 | -------- | ----- |
 | 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SLO County Department of Social Services">Map</a> | [805-474-2000](tel:+1-805-474-2000) |
+| 9630 El Camino Real, Atascadero <a href="#" class="map-link" data-lat="35.465765" data-lon="-120.648798" data-zoom="17" data-label="Department of Social Services">Map</a> | [805-461-6000](tel:+1-805-461-6000) |
+| 600 Quintana Rd., Morro Bay <a href="#" class="map-link" data-lat="35.369273" data-lon="-120.844726" data-zoom="17" data-label="Department of Social Services">Map</a> | [805-772-6405](tel:+1-805-772-6405) |
+| 681 W. Tefft St. #1, Nipomo <a href="#" class="map-link" data-lat="35.033619" data-lon="-120.487984" data-zoom="17" data-label="Department of Social Services">Map</a> | [805-931-1800](tel:+1-805-931-1800) |
+| 406 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.618565" data-lon="-120.690345" data-zoom="17" data-label="Department of Social Services">Map</a> | [805-237-3110](tel:+1-805-237-3110) |
 | 3433 S. Higuera, SLO <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="SLO County Department of Social Services">Map</a> | [805-781-1600](tel:+1-805-781-1600) |
 
-- Hours: M–F 8am–5pm
+- Hours: M–F 8am–5pm (4pm–5pm by appointment only)
 - Notes:
    - operates [**CalWORKS Homeless Assistance Program**](#CalWORKS)
    - operates [“General Assistance Disabled Program”](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
@@ -2809,6 +2835,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
    - entry-point for the [**Housing Support Program (HSP)**](#Housing-Support-Program)
    - entry-point for the [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
+   - can refer you to the [**Child Care Resource Connection**](#Child-Care-Resource-Connection)
 
 ## <a id="SLO-County-Drug-and-Alcohol-Services">SLO County Drug and Alcohol Services</a>
 
