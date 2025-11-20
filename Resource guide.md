@@ -2,6 +2,8 @@
 
 ## Avoiding, Surviving, and Escaping Homelessness in SLO County
 
+**Note:** This guide is currently in a pre-Beta, unfinished state. We plan to formally launch with complete data by the beginning of 2026.
+
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
 
