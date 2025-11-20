@@ -280,7 +280,7 @@ Contact service providers directly to check for the most current information bef
 
 ### <a id="eviction-protection">Eviction Prevention</a>
 
-If you are about to be evicted because you are unable to pay rent, or if you’ve had to move your family into a hotel, you can get immediate financial help from the [**CalWORKS Homeless Assistance Program**](Directory.md#CalWORKS) or the [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program).
+If you are about to be evicted because you are unable to pay rent, or if you’ve had to move your family into a hotel, you can get immediate financial help from the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) or the [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program).
 For either of these options, you must first get a referral from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
 
 [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers financial assistance for rent for people in danger of becoming homeless.
@@ -352,7 +352,7 @@ They operate throughout SLO County, and are open to people of all genders, ages,
 
 If you are homeless and have a medically verified need for 24/7 temporary housing because you are seriously ill, recovering from surgery or injury or high-risk pregnancy, or something of that nature, you may qualify for the [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program).
 They will help you with immediate housing, supportive services and coordinated case management to ensure physical recovery, access to income sources, connection to services, and a more permanent housing alternative when you exit the program.
-You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program), [**Center for Family Strengthening (CSF)**](Directory.md#CSF), or [**CalWORKS**](Directory.md#CalWORKS).
+You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program), [**Center for Family Strengthening (CSF)**](Directory.md#CSF), or [**CalWORKs**](Directory.md#CalWORKs).
 If you are being treated by a hospital or other medical professionals, consider telling them that you are homeless and asking them if they can help you with this process.
 
 If you need shelter because you have a medical condition that requires you to have some medical supervision, you may be able to get a referral to a rehabilitative care or skilled nursing or assistive living facility.
@@ -433,7 +433,7 @@ People who live in these shelters also get individualized case management servic
 There is often a long waiting list for shelter beds.
 They will not admit P.C. 290 registered sex offenders.
 
-The [**CalWORKS Homeless Assistance Program**](Directory.md#CalWORKS) can pay a one-time security deposit and/or last month’s rent and/or utility deposit for families who are homeless or who have received a “Pay Rent or Quit” notice on their current rental home.
+The [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) can pay a one-time security deposit and/or last month’s rent and/or utility deposit for families who are homeless or who have received a “Pay Rent or Quit” notice on their current rental home.
 To qualify you must meet CalWORKs eligibility requirements and have less than $100 in liquid assets.
 
 [**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) provides financial assistance for housing deposits and rent to families that are experiencing homelessness or are at risk of homelessness in SLO County.
@@ -1391,6 +1391,8 @@ For answers about Medi-Cal/CenCal prescription benefits, contact [**Medi-Cal Rx*
 To find a Medi-Cal Rx pharmacy, visit [medi-calrx.dhcs.ca.gov/home/find-a-pharmacy](http://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy).
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some medications directly, without having to go through a pharmacy.
+
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps people who are uninsured (or whose insurance does not cover prescriptions) get free or low-cost prescription medications.
 
 ### <a id="dental-care">Dental Care</a>
 
@@ -2646,13 +2648,13 @@ It is for needy people without dependent children who live in SLO County who are
 Apply for this program at a DSS office.
 If you qualify for this program, you must also do an in-person interview at the SLO city DSS office.
 
-You can also apply for [**CalWORKs**](Directory.md#CalWORKS) cash aid at any DSS office, or online at [BenefitsCal](https://benefitscal.com/).
+You can also apply for [**CalWORKs**](Directory.md#CalWORKs) cash aid at any DSS office, or online at [BenefitsCal](https://benefitscal.com/).
 CalWORKs is California's version of the Temporary Assistance to Needy Families (TANF) federal program.
 To qualify, you must have a “qualifying child” at least one parent of whom is “deceased, absent from the home, disabled, or unemployed” and you must be below a certain maximum income/assets limit.
 You must participate in an in-person interview, and you may need to provide some documentation to verify your eligibility.
 To receive benefits, you may be required to participate in the Welfare-to-Work Program, which helps you prepare for, find, and maintain employment.
 
-If you are a refugee or an immigrant from Cuba or Haiti who is not eligible for CalWORKs, you may be able to get beenfits from the [Refugee Cash Assistance (RCA) or Entrant Cash Assistance (ECA)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/refugee-cash-assistance-%28rca%29-entrant-cash-assista) programs.
+If you are a refugee or an immigrant from Cuba or Haiti who is not eligible for CalWORKs, you may be able to get benefits from the [Refugee Cash Assistance (RCA) or Entrant Cash Assistance (ECA)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/refugee-cash-assistance-%28rca%29-entrant-cash-assista) programs.
 If you are also a victim of human trafficking, domestic violence, or other serious crime, you may also qualify for [Trafficking & Crime Victims Assistance Program (TCVAP)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/trafficking-crime-victims-assistance-program-%28cw%29).
 For any of these programs, you can apply in person at a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) office.
 Bring proof of income and assets and documentation about your refugee or entry status, including your sponsor’s information if you have a sponsor.
@@ -2782,6 +2784,11 @@ The state [**Employment Development Department (EDD)**](Directory.md#Employment-
    - Source: [assistanceleague.org](https://www.assistanceleague.org/san-luis-obispo-county/)
 1. Migrant Seasonal Farmworker program ([**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) program)
    - no-cost job search assistance, labor market info, vocational training, rights/labor law info
+1. Workforce Development Board of SLO County
+   - www.sloworkforce.com
+   - 805-781-1908
+   - <a href="#" class="map-link" data-lat="35.251393" data-lon="-120.668265" data-zoom="17" data-label="SLO County Workforce Development Board">3563 Empleo Street, SLO</a>
+   - eligibility: adults or youth who are "WIOA eligible"
 
 #### For College Students
 
@@ -2829,6 +2836,7 @@ To use that program, you first must get a referral from [**California Department
 <!-- To-do: prosify this list -->
 
 1. Vocational Rehabilitation & Employment Program: Specialized employment services for veterans through VA
+1. County Veterans Services office has a "Vocational Rehabilitation and Employment Program"
 1. EDD has a "Veterans Services" program. Helps all qualifying veterans; but some "intensive services" only available to veterans with a "significant barrier to employment".
    - To apply, register & post a resume in CalJOBS, then meet with a Veterans Service Navigator at the EDD for an initial assessment.
 
@@ -2878,6 +2886,13 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
       - Additional locations: Nipomo Learning Center, Oceano Learning Center
       - Special programs: US Citizenship Classes still accepting new students
       - When you get your high school diploma or HiSET equivalency credential, you can get a referral to Cuesta or Hancock Colleges from LMUSD
+   1. Templeton Adult School
+      - www.tusd-ca.schoolloop.com
+      - 805-434-5827
+      - clondon@templetonusd.org
+      - 964 Old Country Road, Templeton
+      - open-enrollment program aiming to give adults (18+) chance to get a high school diploma
+      - call or email to get started
 1. Higher Education and Professional Development
    1. [Cal Poly Extended Learning (EPaCE)](https://extended.calpoly.edu/)
       - Services: Professional development certificates, non-credit courses, youth programs, international education
@@ -2984,6 +2999,11 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
       - Note: Limited direct educational services for general adult homeless population—contact directly for eligibility and current programs
       - Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31638)
    1. [Cal Learn](https://cdss.ca.gov/cal-learn) — for pregnant or parenting teens to help them finish high school or get an equivalent certificate
+   1. SLO County Office of Education's "Homeless and Foster Youth Services Coordinating Program"
+      - [805-782-7268](+1-805-782-7268) [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
+      - [slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/)
+      - can assist with: school enrollment, school placement disputes, transfer or tracking of school records, identifying school resources, questions related to school policy and Education Code
+      - to access, reach out to your school district&';s liaison [listed here](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
 1. Important Notes
    - GED Testing: California uses both GED and [HiSET](https://hiset.org/california/) exams for high school equivalency; both available online and in-person
    - Free Programs: Most adult basic education and GED preparation programs are offered at no cost

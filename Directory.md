@@ -521,12 +521,12 @@
 - [caljobs.ca.gov](https://www.caljobs.ca.gov/)
 - Phone: [800-758-0398](tel:+1-800-758-0398)
 
-## <a id="CalWORKS">CalWORKS Homeless Assistance Program</a>
+## <a id="CalWORKs">CalWORKs Homeless Assistance Program</a>
 
 - [slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance)
 - Locations:
-   - 3433 S. Higuera, SLO <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="CalWORKS">Map</a>
-   - 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="CalWORKS">Map</a>
+   - 3433 S. Higuera, SLO <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="CalWORKs">Map</a>
+   - 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="CalWORKs">Map</a>
 - Phone: [805-781-1600](tel:+1-805-781-1600)
 - Hours: M–F 8am–5pm
 - How to access: Contact [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
@@ -2003,7 +2003,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - [cfsslo.org/#mfh](https://cfsslo.org/#mfh)
 - Notes:
-   - Access through [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) or [**Housing Support Program (HSP)**](#Housing-Support-Program) or [**Adult Protective Services**](#Adult-Protective-Services) or [**CalWORKS**](#CalWORKS)
+   - Access through [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) or [**Housing Support Program (HSP)**](#Housing-Support-Program) or [**Adult Protective Services**](#Adult-Protective-Services) or [**CalWORKs**](#CalWORKs)
    - Operated by [**Center for Family Strengthening (CSF)**](#CSF)
 
 ## <a id="MISP">Medically Indigent Services Program (MISP)</a>
@@ -2614,7 +2614,13 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - [ae.slcusd.org](https://ae.slcusd.org/)
 - Location: 1500 Lizzie St., SLO <a class="map-link" data-lat="35.281251" data-lon="-120.649489" data-zoom="17" data-label="San Luis Coastal Adult School">Map</a>
 - Phone: [805-549-1222](tel:+1-805-549-1222)
-- Note: Hosts “San Luis Obispo Family Resource Center”
+- How to access:
+   - Register for classes on-line at [slcusd.asapconnected.com](https://slcusd.asapconnected.com/)
+   - Or, come to the office during business hours
+   - Or, call during business hours
+- Note:
+   - Hosts “San Luis Obispo Family Resource Center”
+   - Can help you get a high school diploma or its equivalent (HiSet or GED)
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
@@ -2736,7 +2742,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - [SLOCalCareers.org](https://SLOCalCareers.org)
 - Locations:
    - 3563 Empleo Street, SLO <a href="#" class="map-link" data-lat="35.251551" data-lon="-120.668077" data-zoom="18" data-label="SLO Cal Careers Center">Map</a>
-   - 3450 Broad St. #103a, SLO <a href="#" class="map-link" data-lat="35.257929" data-lon="-120.646915" data-zoom="17" data-label="SLO Cal Careers Center">Map</a>
+   - Youth Services: 3450 Broad St. #103a, SLO <a href="#" class="map-link" data-lat="35.257929" data-lon="-120.646915" data-zoom="17" data-label="SLO Cal Careers Youth Services Center">Map</a>
 - Phone: [805-439-2557](tel:+1-805-439-2557)
 - Email:
    - [SLOCal@eckerd.org](mailto:SLOCal@eckerd.org)
@@ -2827,7 +2833,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - Hours: M–F 8am–5pm (4pm–5pm by appointment only)
 - Notes:
-   - operates [**CalWORKS Homeless Assistance Program**](#CalWORKS)
+   - operates [**CalWORKs Homeless Assistance Program**](#CalWORKs)
    - operates [“General Assistance Disabled Program”](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
    - operates [“General Relief / General Assistance”](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
    - operates “Temporary Assistance for Needy Families (TANF)”
@@ -3040,7 +3046,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Women’s mobile health unit**
    - Phone: [805-756-5089](tel:+1-805-756-5089)
    - Email: [ccmacedo@calpoly.edu](mailto:ccmacedo@calpoly.edu)
-- How to access: By appointment only
+- How to access:
+   - By appointment only
+   - Bring proof of income and a copy of your most recent income tax return to your first appointment
 
 ## <a id="SLO-Partners">SLO Partners</a>
 
@@ -3062,6 +3070,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - [slorta.org](https://www.slorta.org/)
 - Location: 253 Elks Lane, SLO <a href="#" class="map-link" data-lat="35.256974" data-lon="-120.672616" data-zoom="17" data-label="SLO Regional Transit Authority">Map</a> (offices)
 - Phone: [805-781-4472](tel:+1-805-781-4472)
+   - Info/Dispatch: [805-541-2228](tel:+1-805-541-2228)
    - Access program (reduced fares for people with low incomes): [805-541-8797](tel:+1-805-541-8797)
    - Runabout Paratransit: [805-781-4833](tel:+1-805-781-4833)
 - Email: [info@slorta.org](mailto:info@slorta.org)
@@ -3121,7 +3130,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - [va.gov/san-luis-obispo-vet-center](http://va.gov/san-luis-obispo-vet-center)
 - Location: 1070 Southwood Dr., SLO <a class="map-link" data-lat="35.265278" data-lon="-120.640912" data-zoom="17" data-label="SLO Vet Center">Map</a>
 - Phone: [805-782-9101](tel:+1-805-782-9101)
+   - After hours: [877-927-8387](tel:+1-877-927-8387)
 - Hours: M–F 8am–4:30pm
+- How to access: call to make an appointment
 
 ## <a id="SmartShare-Housing-Solutions">SmartShare Housing Solutions</a>
 
@@ -3205,16 +3216,22 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Supportive-Services-for-Veteran-Families">Supportive Services for Veteran Families</a>
 
+<!-- To-do: fix discrepancy in 5 Cities location -->
 - 5 Cities:
    - [5chc.org/programs/ssvf-supportive-services-for-veteran-families](https://5chc.org/programs/ssvf-supportive-services-for-veteran-families)
-   - Phone: [805-574-1638](tel:+1-805-574-1638) <!-- Source: https://capslo.org/ssvf/ -->
+   - 150 S. 6th St. #A-B, Grover Beach <a href="#" class="map-link" data-lat="35.121072" data-lon="-120.624206" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/most-requested-information-resources -->
+   - 1566 W. Grand Ave., Grover Beach <a href="#" class="map-link" data-lat="35.120207" data-lon="-120.612620" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide -->
+   - Phone: [805-574-1638](tel:+1-805-574-1638) <!-- Source: https://capslo.org/ssvf/, https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide -->
+   - Phone: [805-202-3056](tel:+1-805-202-3056) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/most-requested-information-resources -->
 - North County:
    - 935 Riverside Ave. #6, Paso Robles <a href="#" class="map-link" data-lat="35.624229" data-lon="-120.687359" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a> <!-- Source: https://capslo.org/ssvf/ -->
    - Phone: [805-237-0352](tel:+1-805-237-0352) <!-- Source: https://capslo.org/ssvf/ -->
+   - Email: [jrogers@capslo.org](mailto:jrogers@capslo.org)
 - SLO:
    - [capslo.org/ssvf](https://capslo.org/ssvf/)
    - 265 South St. #H, SLO <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a> <!-- Source: https://capslo.org/ssvf/ -->
    - Phone: [805-534-1698](tel:+1-805-534-1698) <!-- Source: https://capslo.org/ssvf/ -->
+   - Email: [jerwin@capslo.org](mailto:jerwin@capslo.org)
 - Note: operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) and [**5Cities Homeless Coalition**](#5CHC)
 
 ## Surgery Without Medical Insurance
@@ -3424,13 +3441,14 @@ There are several urgent care options, including:
 ## <a id="Veterans-Services">Veterans Services (SLO County)</a>
 
 <!-- Source: http://slocounty.ca.gov/Departments/Veterans-Services -->
-- [slocounty.ca.gov/Departments/Veterans-Services](http://slocounty.ca.gov/Departments/Veterans-Services)j
+- [slocounty.ca.gov/Departments/Veterans-Services](http://slocounty.ca.gov/Departments/Veterans-Services)
 - Locations:
-   - 800 West Branch St., Arroyo Grande <a href="#" class="map-link" data-lat="35.124547" data-lon="-120.589385" data-zoom="17" data-label="Veterans Services">Map</a> (Tu/Th 8am–5pm)
+   - 800 West Branch St., Arroyo Grande <a href="#" class="map-link" data-lat="35.124547" data-lon="-120.589385" data-zoom="17" data-label="Veterans Services">Map</a> (Tu/Th 8am–5pm) (currently closed for renovations)
    - 240 Scott St., Paso Robles <a href="#" class="map-link" data-lat="35.608124" data-lon="-120.655868" data-zoom="17" data-label="Veterans Services">Map</a> (Tu–Th 8am–5pm)
    - 801 Grand Ave., SLO <a class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services">Map</a> (daily 8am–5pm)
 - Phone: [805-781-5766](tel:+1-805-781-5766)
-- How to access: In-person and phone appointments only; no walk-ins; book appointments online or by phone
+- Email: [VS_Staff@co.slo.ca.us](VC_Staff@co.slo.ca.us)
+- How to access: In-person and phone appointments only; no walk-ins; book appointments [online](https://sanluisobispocountyveteransservices.as.me/schedule/970de54e) or by phone
 - Notes: SLO office has a small food pantry
 
 ## <a id="Veterans-Transportation-Service">Veterans Transportation Service</a>
