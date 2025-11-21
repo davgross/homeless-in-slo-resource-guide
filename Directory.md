@@ -2218,14 +2218,6 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - How to access: Walk-ins OK
 <!-- Note: No dedicated webpage or direct phone extension found (as of October 2025); program operated by CAPSLO -->
 
-## <a id="Outside-Now">Outside Now</a>
-
-- [outsidenow.org](https://www.outsidenow.org/)
-- Location: 1130 Napa Ave., Morro Bay <a class="map-link" data-lat="35.369469" data-lon="-120.848309" data-zoom="17" data-label="Outside Now">Map</a>
-- Phone: [805-541-9900](tel:+1-805-541-9900)
-- Email: [info@outsidenow.org](mailto:info@outsidenow.org)
-- Hours: M–F 9am–3pm
-
 ## <a id="Parent-Connection-of-SLO-County">Parent Connection of SLO County</a>
 
 - [sloparents.org](https://sloparents.org/)
@@ -3092,7 +3084,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Membership: Open to SLO city residents 55+; includes monthly newsletter, center access, free coffee
 - Notes:
    - Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
-   - Hosts [**HiCAP**](#HiCAP)
+   - Hosts [**HiCAP**](#HiCAP) (Thursdays Noon&ndash;3:30pm by appointment)
 
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 

@@ -706,7 +706,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Cambria       | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                 | 2nd & 4th Thursday |
 | Cayucos       | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                               | Wednesdays |
 | Cayucos       | [**St. Joseph’s Catholic Church**](Directory.md#St-Jospehs-Church)                                  | Fridays (Thursdays by appt.) |
-| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) *must be a Cuesta student* | Monday&ndash;Friday |
+| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) *must be a Cuesta student* | Monday–Friday |
 | Grover Beach  | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) | Monday–Friday |
 | Los Osos      | [**King's Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                               | Tuesdays |
 | Los Osos      | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) | Wednesdays |
@@ -2792,6 +2792,9 @@ The [**Employment Development Department (EDD)**](Directory.md#Employment-Develo
 
 [**Goodwill Central Coast**](Directory.md#Goodwill) has a free “Opportunity Platform” that includes job search, resume building, digital literacy, and job readiness programs.
 
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program can help you prepare for a variety of standardized tests, learn professional skills, and polish your resume.
+Its [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/jobandcareeraccelerator5/home?AuthToken=4DE278CD-C0CB-4ED5-84D4-2DFC47FF903D) platform can help you prepare a good resume and cover letter, can improve your job search technique, and can better prepare you for a job interview.
+
 <!-- Needs more research (unclear if this is just another name for SLOCal Careers or some other program):
 1. Workforce Development Board of SLO County
    - www.sloworkforce.com
@@ -2885,7 +2888,9 @@ There is a financial assistance program to help you pay for tuition.
 You can get a certificate and/or diploma upon completing a course of study, but this sometimes costs money (the course itself is free).
 Note that Alison.com is accredited in the United Kingdom, not the United States, which may affect how much these certificates and diplomas are respected by employers or colleges here.
 
-<!-- To-do: prosify this list -->
+[Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/) offers low-cost classes and seminars on a variety of topics.
+You can also become an annual member for a $25 fee, and this gives you substantial discounts on all classes throughout the year.
+Contact them at [lifelearnerscentralcoast@gmail.com](mailto:lifelearnerscentralcoast@gmail.com) for details.
 
 <!-- doesn't look like a low-cost option
 1. [A.T. Still University of Health Sciences](https://www.atsu.edu/)
@@ -2897,70 +2902,65 @@ Note that Alison.com is accredited in the United Kingdom, not the United States,
    - Future potential: May expand health professions offerings and community health services after 2026 move
    - Sources: [noozhawk.com](https://www.noozhawk.com/a-t-still-university-to-move-central-coast-campus-from-santa-maria/)
 -->
-1. Library Resources and Literacy Programs
-   1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
-      - Services: Computer access, digital literacy classes, educational programs
-   1. Cal Poly Library: [Robert E. Kennedy Library](https://localwiki.org/slo/Robert_E._Kennedy_Library)—public access available
-   1. [**Little Free Libraries**](Directory.md#Little-Free-Libraries): Community book sharing locations for "Take a Book, Share a Book"
-   1. [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center): lending library open M-F 8am-5pm
-1. [Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/)
-   - Services: Educational, personal growth, and cultural programs for retired and mature adults
-   - Cost: $25 annual membership dues; $5 per session for members, $10 for non-members
-   - How to register: Visit [lifelearnerscc.org/courses](https://www.lifelearnerscc.org/courses) for tickets and class registration
-   - Target: Independent thinkers in volunteer community; "Where Curious Minds Gather"
-   - Note: Low-cost volunteer-based model; specific scholarship information not available; contact organization directly for financial assistance options
-1. Digital Literacy Classes: Computer skills training available through multiple organizations
-   - [**The Literacy Connection**](Directory.md#Literacy-Connection): Free computer literacy tutoring as part of literacy goals; call [805-781-5077](tel:+1-805-781-5077) or complete [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
-   - Lucia Mar Adult Education: Free access to education for ages 18+; individualized instruction
-   - San Luis Obispo Adult School: Ongoing support, individualized instruction; register at any time
-   - Access: All programs offer free/low-cost options; contact organizations directly for current computer literacy class schedules
-   - Source: [slolibrary.org](https://www.slolibrary.org/)
-   - [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) "free computer assistance is offered on the Senior Center computers... one-on-one tutoring sessions"
-   - [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers free tech help and tutoring
-1. SLO Parks & Recreation Classes: [Activity guides and courses](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide)
-1. Toastmasters: Public speaking and leadership development clubs in San Luis Obispo County:
-   - SLO Toastmasters Club 83: Meets Thursdays 6:30am (hybrid in-person and Zoom), <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a>. Contact via [slotoastmasters.toastmastersclubs.org](https://slotoastmasters.toastmastersclubs.org/)
-   - SLO Noontime Toastmasters Club (5204): Meets Tuesdays 12–1pm (hybrid), Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a>. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204-)
-   - SLO Motion Toastmasters Club: Meets Mondays 12–1pm (alternating hybrid/Zoom), SLO City/County Library, <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO Library">995 Palm St., SLO</a>. Contact via [slomotion.toastmastersclubs.org](https://slomotion.toastmastersclubs.org/)
-   - Speakeasy Toastmasters Club: SLO County Sheriff's Office, <a href="#" class="map-link" data-lat="35.563896" data-lon="-120.702286" data-zoom="17" data-label="County Sheriff">356 N. Main St., Templeton</a>. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00009797-00009797) (may have professional prerequisites)
-   - Life Community Toastmasters: Wednesdays 6:30–8:30pm, Life Community Church, <a href="#" class="map-link" data-lat="35.571064" data-lon="-120.694784" data-zoom="17" data-label="Life Community Church">3770 Ruth Way, Templeton</a>. Contact [805-712-0671](tel:+1-805-712-0671)
-   - Note: All clubs welcome guests and offer online attendance options; Division E covers Arroyo Grande, Grover Beach, SLO, Templeton, Paso Robles
-   - Source: [toastmasters.org](https://www.toastmasters.org/find-a-club)
-1. [**U.C. Cooperative Extension - SLO County**](Directory.md#UC-Cooperative-Extension)
-   - Programs: Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, horticulture
-   - Cost: Varies by program (e.g., Forest Stewardship Workshop $60); many programs free or low-cost
-   - Registration: Visit [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/) or call for specific program registration
-1. [**Goodwill Stores**](Directory.md#Goodwill)
-   - Services: Free, one-on-one, personalized financial coaching / financial literacy services; Digital Literacy Classes
-   - County-wide service (pending review): Services available at retail locations in Atascadero, Grover Beach, Paso Robles, and SLO
-   - Financial Coaching Contact: Jaclyn Jauregui [jjauregui@ccgoodwill.org](mailto:jjauregui@ccgoodwill.org), [805-316-1811](tel:+1-805-316-1811)
-   - Digital Literacy: [ccgoodwill.org/digital-literacy-classes](https://www.ccgoodwill.org/digital-literacy-classes/) or [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwill.org)
-   - Note: Contact directly for information about attending digital literacy classes
-1. [**Outside Now**](Directory.md#Outside-Now)
-   - What's Available: Multi-generational learning community offering nature-based programs, seasonal celebrations, rites of passage, and wilderness adventures; alternative education for at-risk youth and adults
-   - Cost: Contact organization directly for program costs and financial assistance options
-1. CREEC Network: [creec.org](https://www.creec.org/)—Educational resources
-   - Resources: Educational networking and resource coordination
-   - Access: Visit website for current educational resource connections
-   - Target relevance: May provide connections to educational opportunities for adults
-1. [**Family Care Network**](Directory.md#Family-Care-Network)
-   - Educational services: Tutoring and academic support, Career & Education Support Services for current and former foster youth
-   - Target population: Primarily serves youth and families impacted by trauma
-   - Note: Limited direct educational services for general adult homeless population—contact directly for eligibility and current programs
-   - Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31638)
-1. [Cal Learn](https://cdss.ca.gov/cal-learn) — for pregnant or parenting teens to help them finish high school or get an equivalent certificate
-1. SLO County Office of Education's "Homeless and Foster Youth Services Coordinating Program"
-   - [805-782-7268](+1-805-782-7268) [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
-   - [slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/)
-   - can assist with: school enrollment, school placement disputes, transfer or tracking of school records, identifying school resources, questions related to school policy and Education Code
-   - to access, reach out to your school district’s liaison [listed here](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
 
-### Citizenship
+[Toastmasters](https://www.toastmasters.org/) is a peer-led course of practical exercises that improve your public speaking skills.
+Clubs typically meet for one hour once per week and members practice public speaking exercises together and provide critiques and advice.
+They welcome guests to participate.
+It is not free. There is a $60 membership fee every six months, and some individual groups also charge small membership fees of their own.
+Our local Toastmasters groups include:
+
+- [SLO Toastmasters Club 83](https://slotoastmasters.toastmastersclubs.org/): Meets Thursdays 6:30–7:30amam (hybrid in-person and Zoom), <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a>.
+- [SLO Noontime Toastmasters Club (5204)](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204): Meets Tuesdays Noon–1pm (hybrid), Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a>.
+- [SLO Motion Toastmasters Club](https://slomotion.toastmastersclubs.org/): Meets Mondays Noon–1pm (alternating hybrid/Zoom), SLO City/County Library, <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO Library">995 Palm St., SLO</a>.
+- [Cal Poly Toastmasters](https://www.toastmasters.org/Find-a-Club/28676059-cal-poly-toastmasters): Meets Wednesdays Noon–1pm,
+<a href="#" class="map-link" data-lat="35.303892" data-lon="-120.659629" data-zoom="17" data-label="Toastmasters">Bldg. 70 (Facilities)</a>, Room 110 on the Cal Poly San Luis Obispo campus
+- [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club): Meets Thursdays 12:10–1:15pm in various locations around Paso Robles.
+
+The local [**University of California Cooperative Extension**](Directory.md#UC-Cooperative-Extension) offers courses in gardening, food preservation, and rangeland and watershed management.
+Many programs are free or low-cost.
+
+### Digital Literacy: How to Use Computers and the Internet
+
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a digital literacy class designed to teach you basic to intermediate computer skills with a focus on communication and productivity using Google’s free suite of apps.
+Computers are provided for use in class.
+To register, submit [this online form](https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform).
+
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers free basic computer skills courses and courses in Amazon Web Services tools at its [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
+They also have a set of [video tutorials](https://my.nicheacademy.com/slolibrary) that include basic computer skills as well as guides to how to use several popular computer tools (like Gmail, Facebook, Microsoft Office, and Instagram).
+
+[**Goodwill Central Coast**](Directory.md#Goodwill) offers a variety of [digital literacy classes](https://www.ccgoodwill.org/digital-literacy-classes/).
+Contact them at [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwill.org) for details.
+
+[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) has two computers you can use on-site, and they offer free assistance and one-on-one tutoring sessions. <!-- Source: https://www.prcity.com/293/Senior-Services -->
+
+[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) periodically has “tech help” sessions at which an expert is available to help with your technical challenges or to teach you a new skill.
+
+### Libraries
+
+The [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has not only books, but online research databases, computers with internet access, English conversation practice sessions, and several [online learning](https://catalog.slolibrary.org/online-learning) programs.
+
+Cal Poly's [Robert E. Kennedy Library](https://library.calpoly.edu/) is a resource not just for Cal Poly students and faculty but for the inhabitants of the Central Coast in general. <!-- Source: https://library.calpoly.edu/about/policies -->
+The library supports the principle of open access to its collections by the community and region. <!-- Source: https://library.calpoly.edu/about/policies -->
+Members of the community can come to the library during main library opening hours and can access most databases while on the premises by bringing their own device and signing onto Cal Poly guest wireless. <!-- Source: https://library.calpoly.edu/about/policies -->
+
+Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) and “Little Free Libraries.”
+Little Free Libraries are boxes in public areas (for example adjacent to sidewalks) where people leave books they are giving away.
+Anyone is free to take books for their own use from Little Free Libraries.
+There is no check-out/check-in procedure. Just take what you want to read, or leave what you’re finished reading.
+They are typically open 24-hours a day, every day.
+See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Directory for a list of dozens of them in SLO County.
+
+The [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) gives you free access to law- and court-related books and databases.
+
+### Citizenship Studies
 
 [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test.
 The course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday.
 You must be able to read and understand basic English.
 Sign up [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
+
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) gives you access to the [ProCitizen](http://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096) citizenship prep course, covering the civics, reading, and writing portions of the U.S. citizenship exam.
+Its [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program and [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) program also include some U.S. citizenship test preparation.
 
 ### Literacy
 
@@ -2968,19 +2968,13 @@ Sign up [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8
 The course is every Tuesday from 5–8pm and you can begin the course any Tuesday.
 Sign up [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
 
-<!-- To-do: prosify this list -->
-
-1. [**Literacy For Life**](Directory.md#Literacy-For-Life)
-   - Services: Adult literacy tutoring, reading skills development, English language communication skills
-   - Format: In-person one-on-one tutoring at Learning Centers
-   - Mission: Empowering individuals by removing barriers to success through literacy
-   - Location: Learning Centers (specific locations determined during intake) <!-- Source: [literacyforlifeslo.org](https://www.literacyforlifeslo.org/contact.php) -->
+[**The Literacy Connection**](Directory.md#Literacy-Connection) is a free, volunteer-based, one-on-one tutoring program that helps adults improve their literacy skills.
 
 ### For People with Disabilities
 
 [**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program has an [Adults with Disabilities](https://www.cuesta.edu/academics/continuinged/adultsdisabilities/index.html) program of specialized courses that develop independent living & employment skills of people with intellectual disabilities.
 
-### High School Equivalency (GED or HiSET)
+### High School Diplomas and their Equivalents (GED or HiSET)
 
 If you did not earn a high school diploma, you can instead get a certificate that demonstrates that you have high-school-graduate-level competency.
 This can help you to apply for jobs or for higher education.
@@ -3003,6 +2997,13 @@ Call them or email [clondon@templetonusd.org](mailto:clondon@templetonusd.org) t
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers free [High School Diploma / Equivalency classes](https://ae.slcusd.org/hsd-esl/high-school-equivalency) in San Luis Obispo, Morro Bay, and at the San Luis Obispo jail.
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers on-line lessons, practice tests, and other learning tools, in English and Spanish, at its [High School Equivalency Center](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/hsequivalencycenter/home/are-you-prepared).
+
+The [Cal-Learn](https://cdss.ca.gov/cal-learn) program helps pregnant or parenting teens finish high school or get an equivalent certificate. <!-- Source: https://cdss.ca.gov/cal-learn -->
+It helps with child care, transportation, educational expenses, and will even give you cash bonuses for getting good grades or for graduating. <!-- Source: https://cdss.ca.gov/cal-learn -->
+Apply for this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) or contact [Cal-Learn@dss.ca.gov](mailto:Cal-Learn@dss.ca.gov) if you have questions. <!-- Source: https://cdss.ca.gov/cal-learn -->
+
+The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
+To access this program, contact [the liaison for your school district](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) or contact the County Office of Education at [805-782-7268](+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org)..
 
 ### English as a Second Language (ESL)
 
@@ -3487,6 +3488,7 @@ Note: Enhanced Pismo Beach Recreation Division entry in Directory (October 2025)
       - Sources: [arroyogrande.org](https://www.arroyogrande.org/168/Recreation-Services), [grover.org](https://www.grover.org/141/Community-Services), [pismobeach.org](https://www.pismobeach.org/73/Recreation)
 1. Parks & Rec departments
    1. [**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation)
+   1. SLO Parks & Recreation Classes: [Activity guides and courses](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide)
 
 -----
 
