@@ -24,7 +24,7 @@ const WHITELIST = new Set([
   'Fishes', 'Terrace', 'Sunny', 'Acres', 'Rapha', 'LyonHeart', 'Parkwood', 'Vituity', 'Waterman',
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
   'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO', 'LinkedIn', 'SkillsBuild',
-  'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba', 'flexercise',
+  'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba', 'flexercise', 'BarreConnect',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
@@ -71,7 +71,7 @@ const WHITELIST = new Set([
   'buprenorphine', 'fentanyl', 'benzodiazepines', 'iCloud', 'iPhones', 'Wi-Fi', 'hotspots', 'Uber',
   'Lyft', 'vanpool', 'motorhome', 'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes',
   'microchipping', 'décor', 'Vite', 'DOMPurify', 'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite',
-  'hemoccult', 'hydrocortisone', 'Rummikub',
+  'hemoccult', 'hydrocortisone', 'Rummikub', 'breathwork',
 
   // Hyphenated prefixes
   'pre', 'tri',
