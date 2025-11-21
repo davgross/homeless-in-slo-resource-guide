@@ -46,40 +46,40 @@ This guide makes it easier.
 ## <a id="table-of-contents">Table of Contents</a>
 
 1. [Hotlines and Emergencies](#emergency-contacts)
-1. [Self-Advocacy](#self-advocacy-and-communicating-with-service-providers)
-1. [Shelter & Housing](#where-to-find-shelter--housing)
-1. [Property Storage](#property-storage-options)
-1. [Food](#where-to-get-food)
-1. [Water Refill](#where-to-refill-a-water-bottle)
+1. [Self-Advocacy](#self-advocacy)
+1. [Shelter & Housing](#shelter-housing)
+1. [Property Storage](#property-storage)
+1. [Food](#food)
+1. [Water Refill](#refill-a-water-bottle)
 1. [Transportation](#transportation)
-1. [Clothing](#where-to-find-free-or-thrift-store-clothing)
+1. [Clothing](#clothing)
 1. [Laundry](#laundry)
 1. [Showers & Hygiene](#showers-and-hygiene)
 1. [Health & Medical Care](#health-medical-care)
-1. [Substance Use & Recovery](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues)
+1. [Drug Use & Recovery](#drug-use-and-recovery)
 1. [Tattoo Removal](#tattoo-removal)
-1. [End-of-Life Help](#end-of-life-care-advance-directives-hospice)
-1. [Personal Safety](#personal-safety-deescalation-self-defense)
-1. [Legal Help](#legal-help--crime-victim-protection)
+1. [End-of-Life Help](#end-of-life-help)
+1. [Personal Safety](#personal-safety)
+1. [Legal Help](#legal-help)
 1. [IDs & Documents](#ids-and-other-documents)
-1. [Mail & PO Boxes](#mail-drops-post-office-boxes-etc)
+1. [Mail & PO Boxes](#mail-drops-post-office-boxes)
 1. [Banking & Money](#banking-and-money-management)
 1. [Tax Preparation](#tax-preparation)
 1. [Emergency Financial Help](#emergency-financial-help)
-1. [Social Security & Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits)
-1. [Obtaining Employment](#employment-job-boards-etc)
-1. [Education & Job Training](#education-job-skills-training-certification-tutoring-literacy)
-1. [Phones & Phone Service](#free-and-low-cost-phone-services)
-1. [Internet & Email](#internet-access--email--digital-access-assistance)
-1. [Device Charging](#charging-stations-for-devices)
+1. [Social Security & Benefits](#navigating-social-security)
+1. [Obtaining Employment](#employment-job-boards)
+1. [Education & Job Training](#education-job-skills-training)
+1. [Phones & Phone Service](#phones)
+1. [Internet & Email](#internet-and-email)
+1. [Device Charging](#charging-stations)
 1. [Resources by Group](#resources-specific-to-particular-subgroups)
 1. [Peer Support](#peer-support-groups)
-1. [Recreation & Community](#recreation-fitness-socializing-connection-religion-community-integration-volunteering)
+1. [Recreation & Community](#recreation-fitness-socializing-connection)
 1. [Pet Care](#pet-care-and-pet-supplies)
-1. [Disaster Preparedness](#disaster-planningprep-earthquakes-fires-floods)
-1. [Advocacy & Organizing](#advocacy--lobbying-for-homeless-issues)
+1. [Disaster Preparedness](#disaster-preparedness)
+1. [Advocacy & Organizing](#advocacy-and-organizing)
 1. [Free Stuff](#miscellaneous-free-items)
-1. [Other Guides](#other-guides-web-pages-information-sources)
+1. [Other Guides](#other-guides)
 1. [Directory](Directory.md)
 
 -----
@@ -143,7 +143,7 @@ This guide makes it easier.
 
 -----
 
-## <a id="self-advocacy-and-communicating-with-service-providers">Standing Up for Yourself and Communicating with Service Providers</a>
+## <a id="self-advocacy">Standing Up for Yourself and Communicating with Service Providers</a>
 
 When you meet with case managers and service providers, there are things you can do to make it more likely that they will be able to help you.
 This section of the guide gives some good general tips.
@@ -185,7 +185,7 @@ Ask about Release of Information (ROI) forms and what they mean before you sign 
 
 Many programs have procedures for appealing decisions or filing complaints.
 Ask program staff or search online to find the specific process.
-Legal aid organizations can help with appeals (see the [Legal assistance](#legal-help--crime-victim-protection) section).
+Legal aid organizations can help with appeals (see the [Legal assistance](#legal-help) section).
 
 ### <a id="document-everything">Document Everything</a>
 
@@ -260,7 +260,7 @@ Sticking with it often pays off when you work with complex systems.
 Use this guide or call [211](tel:+1-211) to get information about available services.
 Talk with other people in similar situations—they often have valuable information and tips.
 
-The [Other Guides](#other-guides-web-pages-information-sources) section of this guide lists some other resource guides that may have information we missed.
+The [Other Guides](#other-guides) section of this guide lists some other resource guides that may have information we missed.
 
 This resource guide shows information that was available when we wrote it.
 Things change.
@@ -268,7 +268,7 @@ Contact service providers directly to check for the most current information bef
 
 -----
 
-## <a id="where-to-find-shelter--housing">Shelter & Housing</a>
+## <a id="shelter-housing">Shelter & Housing</a>
 
 **In this section:**
 
@@ -289,7 +289,7 @@ For either of these options, you must first get a referral from the [**SLO Count
 Contact 5CHC to arrange a confidential coordinated entry interview.
 You will need to bring identification, including social security cards and birth certificates for you and those living with you, an account of how much income you have received during the previous three months, your lease agreement, and the eviction notice you received.
 
-> See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help--crime-victim-protection) section for options about preventing illegal evictions.
+> See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help) section for options about preventing illegal evictions.
 
 > See the [Emergency Financial Help](#emergency-financial-help) section for more possible ways to get short-term financial help in a crisis.
 
@@ -578,16 +578,16 @@ Here are some residential treatment options in our area:
 
 - [**Tikva Treatment**](Directory.md#Tikva-Treatment) (Arroyo Grande) — also known as "The Haven at Pismo" or "Mesa House"; accepts private insurance and self-pay
 - [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only.
-- [**Casa Solana**](Directory.md#Captive-Hearts) (Grover Beach) for women only. (Also known as "Sunshine House.")
+- [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) for women only. (Also known as "Sunshine House.")
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only; (division of nonprofit Gate Help Inc.).
 - [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) for men only.
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) for women only; (division of nonprofit Gate Help Inc.).
 - [**Middlehouse**](Directory.md#Middlehouse) (SLO) for men only.
-- [**Sun Street Centers**](Directory.md#Middlehouse) (SLO) for men only.
+- [**Sun Street Centers**](Directory.md#Sun-Street-Centers) (SLO) for men only.
 
 -----
 
-## <a id="property-storage-options">Property Storage Options</a>
+## <a id="property-storage">Property Storage Options</a>
 
 ### <a id="short-term-property-storage">Short-Term</a>
 
@@ -651,7 +651,7 @@ In such a case, you may want to contact the Sheriffs department to let them know
 
 -----
 
-## <a id="where-to-get-food">Food</a>
+## <a id="food">Food</a>
 
 **In this section:**
 
@@ -836,7 +836,7 @@ In such a case you can ask the property owner for permission to harvest from the
 
 -----
 
-## <a id="where-to-refill-a-water-bottle">Where to Refill a Water Bottle</a>
+## <a id="refill-a-water-bottle">Where to Refill a Water Bottle</a>
 
 Most major parks and recreation facilities have water fountains and/or water bottle refill stations, as do some public libraries.
 
@@ -1016,13 +1016,13 @@ You can apply online at their website or by calling [866-272-9642](tel:+1-866-27
 
 > See [Emergency Financial Help](#emergency-financial-help) for programs that can give you financial assistance to pay for emergency expenses like car repairs.
 
-### Safe Parking for People Living in Vehicles
+### <a id="safe-parking">Safe Parking for People Living in Vehicles</a>
 
 > See [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks) to learn about options for places to park safely and legally if you live in your vehicle.
 
 -----
 
-## <a id="where-to-find-free-or-thrift-store-clothing">Clothing</a>
+## <a id="clothing">Clothing</a>
 
 ### <a id="free-clothes">Free Clothes</a>
 
@@ -1480,7 +1480,7 @@ The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program offers br
 
 The [**Community Health Centers of the Central Coast**](Directory.md#CHC) offices in Atascadero, Cambria, Nipomo, Oceano, Paso Robles, San Miguel, Templeton (Las Tablas), and at 77 Casa St. in SLO offer chiropractic treatment.
 
-### Surgery
+### <a id="surgery">Surgery</a>
 
 The [**CSF Medical Non Profit Foundation**](Directory.md#CSF-Medical-Non-Profit-Foundation) helps medically uninsured people obtain life-saving surgical procedures.
 
@@ -1598,7 +1598,7 @@ Homeless people are more prone to sunburn because they have fewer options to esc
 You can reduce your risk of sunburn by finding shady places to rest during the day, by wearing more thoroughly-covering clothing like long-sleeved shirts and broad-brimmed hats, and by applying sunscreen.
 Ask homeless service providers if they have any sunscreen they can give you. Sometimes they do.
 
-> See the [Clothing](#where-to-find-free-or-thrift-store-clothing) section of this guide for some tips on where to find free or low-cost clothing.
+> See the [Clothing](#clothing) section of this guide for some tips on where to find free or low-cost clothing.
 
 If you develop a sunburn, you can get some relief with over-the-counter salves and creams, or just by keeping the area moist (perhaps with a dampened cloth).
 If you have blisters that break, keep the area clean and covered with a bandage.
@@ -1637,7 +1637,7 @@ If you notice increasing redness that spreads beyond the area of the burn, or pu
 
 -----
 
-## <a id="where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues">Recovery, Harm Reduction, and Other Substance-Related Issues</a>
+## <a id="drug-use-and-recovery">Drug Use, Recovery, and Harm Reduction</a>
 
 > Note: The somewhat confusing term “behavioral health” often describes programs for people who use addictive or harmful drugs and want help.
 
@@ -1784,7 +1784,7 @@ The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) w
 
 -----
 
-## <a id="end-of-life-care-advance-directives-hospice">End-of-Life Care, Advance Directives, Hospice</a>
+## <a id="end-of-life-help">End-of-Life Care, Advance Directives, Hospice</a>
 
 **In this section:**
 
@@ -1859,14 +1859,14 @@ You can learn more about the form and review one online, in several languages, a
 
 -----
 
-## <a id="personal-safety-deescalation-self-defense">Personal Safety, Deescalation, Self-Defense</a>
+## <a id="personal-safety">Personal Safety, Deescalation, Self-Defense</a>
 
-### Self-Defense Classes and Martial Arts
+### <a id="self-defense-classes">Self-Defense Classes and Martial Arts</a>
 
 Sometimes relatively inexpensive self-defense or martial arts classes are offered through the “Community Programs” at [**Cuesta College**](Directory.md#Cuesta-College) (see the [“Martial Arts”](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) section of their website) or [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (see the [“Community Programs”](https://ae.slcusd.org/community-programs) section of their website).
 
 <!-- All seem to be defunct at the moment
-### Women's Self-Defense Programs
+### <a id="womens-self-defense">Women's Self-Defense Programs</a>
 
 1. Model Mugging of SLO
    - Available evidence suggests this is defunct or on ice
@@ -1918,7 +1918,7 @@ Sometimes relatively inexpensive self-defense or martial arts classes are offere
       - Note: No publicly advertised free/low-cost programs found; may offer accommodations on case-by-case basis given inclusive philosophy
 -->
 
-### Personal Safety Tips
+### <a id="personal-safety-tips">Personal Safety Tips</a>
 
 To stay safe on the streets, stay aware of your surroundings.
 Be alert when you walk alone, and avoid distractions like phones or headphones.
@@ -1956,7 +1956,7 @@ When possible, take formal self-defense classes to learn proper techniques from 
 
 -----
 
-## <a id="legal-help--crime-victim-protection">Legal Help & Crime Victim Protection</a>
+## <a id="legal-help">Legal Help & Crime Victim Protection</a>
 
 **In this section:**
 
@@ -2013,7 +2013,7 @@ The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can he
 
 ### <a id="benefits-legal">Help with benefits, wrangling with health insurers, et cetera</a>
 
-> See the [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security--ssdi--ssi--survivors-benefits) section for advice specific to those programs.
+> See the [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security) section for advice specific to those programs.
 
 [**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options.
 HiCAP can also help you file Medicare denial appeals or make Medicare fraud referrals.
@@ -2209,7 +2209,7 @@ The [**Social Security Administration**](Directory.md#Social-Security-Administra
 If you have an account or are able to create an on-line account at [ssa.gov/myaccount](https://www.ssa.gov/myaccount), you can request a Social Security card on-line and it will be mailed to you.
 You can get help with this process by calling [800-772-1213](tel:+1-800-772-1213) (TTY: [800-325-0778](tel:+1-800-325-0778)).
 
-> See [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) for ways to get mail if you do not have a stable mailing address.
+> See [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) for ways to get mail if you do not have a stable mailing address.
 
 If you are unable to complete this on-line process, you can visit the local Social Security Administration office to get a new card.
 It will go more smoothly if you can bring some alternative form of identification like a driver’s license or passport.
@@ -2277,7 +2277,7 @@ If you cannot go to the court offices, you can follow the procedure described on
 
 If you have a lawyer, that lawyer may be able to search for these documents on-line themselves.
 
-> See the [Legal Help & Crime Victim Protection](#legal-help--crime-victim-protection) section for some tips on getting help from a lawyer.
+> See the [Legal Help & Crime Victim Protection](#legal-help) section for some tips on getting help from a lawyer.
 
 ### <a id="passports">Passports</a>
 
@@ -2300,7 +2300,7 @@ You must bring the following documents:
 4. A completed Form DS-11 (do not it sign until you are instructed to do so by the passport agent)
 
 You also must provide an address where you can receive your passport by mail.
-If you do not have a stable address, consider using a mail drop service (see the [Mail drops section](#mail-drops-post-office-boxes-etc) of this guide).
+If you do not have a stable address, consider using a mail drop service (see the [Mail drops section](#mail-drops-post-office-boxes) of this guide).
 
 You can apply for a passport at the post office.
 Call them to make an appointment:
@@ -2360,7 +2360,7 @@ If you are a citizen of another country and you need to obtain or renew a passpo
 The nearest consulates for many countries are located in Los Angeles or San Francisco.
 You can find contact information for embassies and consulates at [embassy.goabroad.com](https://embassy.goabroad.com/) or by searching online for your country's embassy or consulate in the United States.
 
-### Tips
+### <a id="document-tips">Tips</a>
 
 #### Document storage and security
 
@@ -2388,7 +2388,7 @@ If you have a case manager, ask them if they can help you with this process.
 
 -----
 
-## <a id="mail-drops-post-office-boxes-etc">Mail Drops, Post Office Boxes, Etc.</a>
+## <a id="mail-drops-post-office-boxes">Mail Drops, Post Office Boxes, Etc.</a>
 
 If you are homeless, you may be at a loss when asked for your mailing address.
 There are various ways to establish a reliable mailing address even if you do not have a stable living address.
@@ -2489,7 +2489,7 @@ Credit unions in SLO County include:
 Some ordinary banks offer “Bank On Certified Accounts” which are savings or checking accounts that are more affordable, have small minimum balances, and have no overdraft fees.
 You can search for banks that offer such accounts at [joinbankon.org](https://joinbankon.org/accounts/).
 
-> See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) section of this guide if you do not have a stable address and you need an address you can use while establishing a bank account.
+> See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) section of this guide if you do not have a stable address and you need an address you can use while establishing a bank account.
 
 > See the [IDs and other documents](#ids-and-other-documents) section of this guide for information on how to obtain required identification and other documentation.
 
@@ -2545,11 +2545,11 @@ There are also free options that allow you to file your federal income taxes you
 See [irs.gov/freefile](https://www.irs.gov/freefile) for details.
 <!-- Note: IRS "Direct File" is kaput as of tax year 2025 -->
 
-> See the [Internet Access / Email / Digital Access Assistance](#internet-access--email--digital-access-assistance) section of this guide for ways to get access to a computer and the internet.
+> See the [Internet Access / Email / Digital Access Assistance](#internet-and-email) section of this guide for ways to get access to a computer and the internet.
 
 Homeless people can use the address of a friend, relative, or trusted service provider as their filing address.
 
-> See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes-etc) section of this guide for more options for establishing a mailing address.
+> See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) section of this guide for more options for establishing a mailing address.
 
 -----
 
@@ -2565,7 +2565,7 @@ Many will not give you money directly, but will help you to purchase goods or pa
 
 > See the [Banking and money management](#financial-literacy) section of this guide for financial literacy and credit counseling resources that can help you reduce your debt or save money for when you need it.
 
-### You Can Apply Yourself
+### <a id="financial-aid-apply-yourself">You Can Apply Yourself</a>
 
 [**5Cities Homeless Coalition**](Directory.md#5CHC) has an [Immediate Needs](https://5chc.org/programs/immediate-needs) program that can help low-income families and individuals in need in the Five Cities area with limited funds to pay for bills, or for goods or services to address their immediate needs such as utilities, transportation, auto repairs, clothing, and employment readiness.
 No funds are given directly to the individual applicant; rather bills are paid or goods are purchased on their behalf.
@@ -2616,7 +2616,7 @@ See [their website](https://www.modestneeds.org/mn/for-applicants) for instructi
 
 If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get help with food, housing, health and well-being, transportation, textbooks, parking passes, technology, and other basic needs from the [Basic Needs Center](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/index.html).
 
-### You Must Apply through Some Referring Agency
+### <a id="financial-aid-get-referral">You Must Apply through Some Referring Agency</a>
 
 [**North County NeighborAid**](Directory.md#North-County-NeighborAid) (managed by [**Center for Family Strengthening**](Directory.md#CSF)) gives cash assistance and gifts of goods to needy people in northern SLO County. <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 Examples include gas cards for parents traveling to distant children's hospitals, groceries following crises, rental assistance, baby supplies, summer camp fees, and utility payments. <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
@@ -2644,7 +2644,7 @@ Your application to this fund must include documentation from that church or Chr
    - Services: Emergency financial assistance for veterans
 -->
 
-### Government Assistance Programs
+### <a id="government-assistance-programs">Government Assistance Programs</a>
 
 [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) (DSS) operates the General Assistance cash aid program which provides money and vouchers to people.
 It is for needy people without dependent children who live in SLO County who are not eligible for any other cash aid program.
@@ -2671,7 +2671,7 @@ You must also be able to work, looking for paid work, and able to accept paid wo
 You can apply for unemployment benefits from California’s [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) through [the myEDD website](edd.ca.gov/Unemployment/UI_Online.htm) or by phone ([800-300-5616](tel:+1-800-300-5616), TTY: [800-815-9387](tel:+1-800-815-9387)).
 If you have questions, you can also email [WSBSanLuisObispoInfo@edd.ca.gov](mailto:WSBSanLuisObispoInfo@edd.ca.gov).
 
-### Utility Assistance Programs
+### <a id="utility-assistance-programs">Utility Assistance Programs</a>
 
 <!-- Note: Low Income Household Water Assistance Program (LIHWAP) ended in 2024 -->
 
@@ -2698,7 +2698,7 @@ Contact the County Department of Public Works at [PublicWorks@co.slo.ca.us](mail
 
 -----
 
-## <a id="navigating-social-security--ssdi--ssi--survivors-benefits">Navigating Social Security / SSDI / SSI / Survivors Benefits / CAPI</a>
+## <a id="navigating-social-security">Navigating Social Security / SSDI / SSI / Survivors Benefits / CAPI</a>
 
 > See the [Social Security Numbers or Cards](#social-security-numbers-or-cards) section of this guide to learn how to get a Social Security number or to get or replace a Social Security card.
 
@@ -2719,7 +2719,7 @@ You do not have to have a permanent address to receive benefits.
 You may be entitled to certain benefits even if you did not pay into the social security system, if your spouse or ex-spouse did.
 You may need to appear at the Social Security Administration office in person to apply for such spousal or survivors benefits.
 
-> See the [Mail drops](#mail-drops-post-office-boxes-etc) section of this guide for information on establishing a mailing address.
+> See the [Mail drops](#mail-drops-post-office-boxes) section of this guide for information on establishing a mailing address.
 
 You can apply for these benefits through the local [**Social Security Administration**](Directory.md#Social-Security-Administration) office either in person or by phone.
 You can also [apply on-line](https://www.ssa.gov/apply) at the Social Security Administration’s website.
@@ -2758,9 +2758,9 @@ Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-296
 
 -----
 
-## <a id="employment-job-boards-etc">Employment, Job Boards, Etc.</a>
+## <a id="employment-job-boards">Employment, Job Boards, Etc.</a>
 
-### Finding Steady Work
+### <a id="finding-steady-work">Finding Steady Work</a>
 
 The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) offers free employment and training, can help you improve your résumé and your interviewing skills, and can help you find job openings.
 They have specialized services for young people, for veterans, and for people with disabilities.
@@ -2829,7 +2829,7 @@ You can also get help from [**Veterans Services**](Directory.md#Veterans-Service
 The [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) has a Veterans Services program.
 To apply, register & post a resume in [**CalJOBS**](Directory.md#CalJOBS), then meet with a Veterans Service Navigator at the EDD for an initial assessment.
 
-### Making Ends Meet: Recycling
+### <a id="recycling">Making Ends Meet: Recycling</a>
 
 There are a few places in SLO County that specialize in purchasing aluminum and glass for recycling:
 
@@ -2841,7 +2841,7 @@ There are a few places in SLO County that specialize in purchasing aluminum and 
 Many stores also will pay CRV (California Redemption Value) refunds for up to fifty returned beverage containers at a time.
 To find such a store near you, use the search form at the [CalRecycle](https://www2.calrecycle.ca.gov/BevContainer/InStoreRedemption) website.
 
-### Making Ends Meet: Gig Jobs
+### <a id="gig-jobs">Making Ends Meet: Gig Jobs</a>
 
 There are some ways to earn small amounts of money by doing various tasks on the internet, such as taking surveys, watching videos, or testing apps.
 Some of these are scams, and most do not pay very much, but they can be ways to make a few bucks here and there if you are unable to find or commit to steady work.
@@ -2853,9 +2853,9 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 
 -----
 
-## <a id="education-job-skills-training-certification-tutoring-literacy">Education, Job Skills Training, Certification, Tutoring, Literacy</a>
+## <a id="education-job-skills-training">Education, Job Skills Training, Certification, Tutoring, Literacy</a>
 
-### Adult Education
+### <a id="adult-education">Adult Education</a>
 
 [**Cuesta College**](Directory.md#Cuesta-College)’s [Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html) program is open to the general community (you do not have to be enrolled at Cuesta College).
 Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that take place outside the classroom.
@@ -2921,7 +2921,7 @@ Contact them at [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwi
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) periodically has “tech help” sessions at which an expert is available to help with your technical challenges or to teach you a new skill.
 
-### Libraries
+### <a id="libraries">Libraries</a>
 
 The [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has not only books, but online research databases, computers with internet access, English conversation practice sessions, and several [online learning](https://catalog.slolibrary.org/online-learning) programs.
 
@@ -2938,7 +2938,7 @@ See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Direc
 
 The [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) gives you free access to law- and court-related books and databases.
 
-### Citizenship Studies
+### <a id="citizenship-studies">Citizenship Studies</a>
 
 [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test.
 The course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday.
@@ -2948,7 +2948,7 @@ Sign up [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) gives you access to the [ProCitizen](http://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096) citizenship prep course, covering the civics, reading, and writing portions of the U.S. citizenship exam.
 Its [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program and [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) program also include some U.S. citizenship test preparation.
 
-### Literacy
+### <a id="literacy">Literacy</a>
 
 [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers Basic English Literary course that takes place all year at its Oceano Learning Center location.
 The course is every Tuesday from 5–8pm and you can begin the course any Tuesday.
@@ -2956,11 +2956,11 @@ Sign up [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) is a free, volunteer-based, one-on-one tutoring program that helps adults improve their literacy skills.
 
-### For People with Disabilities
+### <a id="education-for-people-with-disabilities">For People with Disabilities</a>
 
 [**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program has an [Adults with Disabilities](https://www.cuesta.edu/academics/continuinged/adultsdisabilities/index.html) program of specialized courses that develop independent living & employment skills of people with intellectual disabilities.
 
-### High School Diplomas and their Equivalents (GED or HiSET)
+### <a id="diploma-ged-hiset">High School Diplomas and their Equivalents (GED or HiSET)</a>
 
 If you did not earn a high school diploma, you can instead get a certificate that demonstrates that you have high-school-graduate-level competency.
 This can help you to apply for jobs or for higher education.
@@ -2991,7 +2991,7 @@ Apply for this program through the [**SLO County Department of Social Services**
 The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
 To access this program, contact [the liaison for your school district](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) or contact the County Office of Education at [805-782-7268](+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org)..
 
-### English as a Second Language (ESL)
+### <a id="esl">English as a Second Language (ESL)</a>
 
 English as a Second Language (ESL) classes are for learners who already have another native or “mother” language, and they want to learn English as well.
 
@@ -3004,7 +3004,7 @@ English as a Second Language (ESL) classes are for learners who already have ano
 [**The Literacy Connection**](Directory.md#Literacy-Connection) offers free [ESL tutoring](https://catalog.slolibrary.org/tlc) and on-line conversation practice groups.
 To apply, fill out [the form on their website](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) or call [805-781-5077](tel:+1-805-781-5077).
 
-### For U.S. Military Veterans
+### <a id="veterans-education">For U.S. Military Veterans</a>
 
 As a U.S. military veteran, you may qualify for [“GI Bill” education benefits](https://www.va.gov/education/about-gi-bill-benefits/) that can help you pay for school and cover expenses while you’re training for a job.
 You can apply for these benefits [online at the Veterans Affairs website](https://www.va.gov/education/how-to-apply/) or by phone at [888-442-4551](tel:+1-888-442-4551).
@@ -3018,7 +3018,7 @@ People in the U.S. military, U.S. military veterans, and their spouses, adult ch
 
 -----
 
-## <a id="free-and-low-cost-phone-services">Phones and Phone Service</a>
+## <a id="phones">Phones and Phone Service</a>
 
 The [California LifeLine Program](https://www.californialifeline.com/) ([866-272-0357](tel:+1-866-272-0357)) gives low-income households discounts on home phone or cell phone service.
 In many cases the discounts are enough to make the service free.
@@ -3031,7 +3031,7 @@ This program is for California residents with medically-certified limitations of
 
 -----
 
-## <a id="internet-access--email--digital-access-assistance">Internet Access / Email / Digital Access Assistance</a>
+## <a id="internet-and-email">Internet Access / Email / Digital Access Assistance</a>
 
 > See the [Digital Literacy: How to Use Computers and the Internet](#digital-literacy) section of this guide for classes and tutorials that can help you learn how to use the internet.
 
@@ -3054,7 +3054,7 @@ Both the [**5Cities Homeless Coalition**](Directory.md#5CHC) office and the [**4
 
 -----
 
-## <a id="charging-stations-for-devices">Charging Stations for Devices</a>
+## <a id="charging-stations">Charging Stations for Devices</a>
 
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) office has device charging stations for its clients. <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
@@ -3123,7 +3123,7 @@ There are also some electrical outlets you can use to plug in and charge devices
       - Coverage: Northern Santa Barbara and San Luis Obispo Counties
       - Services: DREAM Centers (safe spaces), legal support (DACA/asylum/citizenship), financial aid guidance, mental health counseling
       - Cost: Free legal services and counseling
-      - Cross-reference: Also listed in [Legal help & mediation section](#legal-help--crime-victim-protection)
+      - Cross-reference: Also listed in [Legal help & mediation section](#legal-help)
       - Website: [ccc-uss.org](https://www.ccc-uss.org/)
    1. [SLO County UndocuSupport](https://www.sloundocusupport.org/)
       - Mission: Financial support for undocumented immigrant families during crises
@@ -3166,7 +3166,7 @@ There are also some electrical outlets you can use to plug in and charge devices
 1. Unaccompanied minors
    1. The Teen's Closet (Children's Resource Network)
       - Services: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents
-         - Cross-reference: Also listed in [Where to find free or thrift-store clothing](#where-to-find-free-or-thrift-store-clothing)
+         - Cross-reference: Also listed in [Where to find free or thrift-store clothing](#clothing)
       - Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
       - Coverage: San Luis Obispo and Santa Barbara Counties
       - Website: childrensresourcenetwork.org/the-teens-closet.htm <!-- Source: https://localwiki.org/slo/ -->
@@ -3380,7 +3380,7 @@ There are also some electrical outlets you can use to plug in and charge devices
 1. [Trans Support Group](https://galacc.org/resources/#support)
 1. [LGBT Senior Social](https://galacc.org/resources/#support)
 1. Al-Anon / [Nar-Anon](https://www.naranoncentralca.org/)
-1. See [Recovery, Harm Reduction, and Other Substance-Related Issues](#where-to-get-help-with-recovery-harm-reduction-and-other-substance-related-issues) for Alcoholics Anonymous, Narcotics Anonymous, Marijuana Anonymous
+1. See [Drug Use, Recovery, and Harm Reduction](#drug-use-and-recovery) for Alcoholics Anonymous, Narcotics Anonymous, Marijuana Anonymous
 1. [Eating Disorder Support Group](https://galacc.org/resources/#support)
 1. [Debtors Anonymous](https://debtorsanonymous.org/)
 1. [Diabetes Support Group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes)
@@ -3400,7 +3400,7 @@ To-do: Integrate these into the list above
 
 -----
 
-## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering</a>
+## <a id="recreation-fitness-socializing-connection">Recreation, Fitness, Socializing, Connection</a>
 
 ### <a id="fitness">Fitness</a>
 
@@ -3445,7 +3445,7 @@ Some local yoga studios offer occasional “community yoga” classes that are f
 See the [Hikers & Walkers](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming hikes and walks.
 They also host low-cost yoga classes (the first class is free), a free chair exercise class, and a free strength &amp; balance class, all for people age 55 and older.
 
-### Recreation and Socializing
+### <a id="recreation-and-socializing">Recreation and Socializing</a>
 
 SLO City has a free, public skate park, open daily 7am–10pm, at <a href="#" class="map-link" data-lat="35.290166" data-lon="-120.664167" data-zoom="17" data-label="Santa Rosa Park">Santa Rosa Park</a>.
 You must wear a helmet and elbow & knee pads to use the skate park.
@@ -3551,7 +3551,7 @@ Grants do not cover exams or testing.
 
 -----
 
-## <a id="disaster-planningprep-earthquakes-fires-floods">Disaster Planning/Preparation</a>
+## <a id="disaster-preparedness">Disaster Planning/Preparation</a>
 
 Fires, floods, and earthquakes sometimes strike SLO County.
 Extremes of weather like heat waves, freezing temperatures, and storms are also increasingly common.
@@ -3571,7 +3571,7 @@ You can choose which sorts of alerts you are interested in receiving (for exampl
 The [**Red Cross**](Directory.md#Red-Cross) operates emergency shelters during major disasters.
 They usually have pet-friendly options.
 
-### Fire Safety in Camp
+### <a id="fire-safety">Fire Safety in Camp</a>
 
 If you are camping outdoors, be very careful with fire.
 California frequently experiences major wildfires, and campfires are a frequent cause.
@@ -3598,7 +3598,7 @@ The fire is not thoroughly extinguished until you can place your hand anywhere i
 Note that in SLO County it is not legal to have a campfire outside of a developed campground unless you have a valid [California Campfire Permit](https://www.ca.gov/departments/147/services/1239/).
 In many times and places in SLO County it is not legal to make a campfire whether you have such a permit or not.
 
-### Extreme Cold and Heat
+### <a id="extreme-cold-and-heat">Extreme Cold and Heat</a>
 
 SLO County is in general blessed with a moderate climate, but rainy or dangerously cold overnight weather is common in Winter, and dangerously hot daytime weather is common in Summer.
 See the [Warming/Cooling Centers](#warming-cooling-centers) of this guide for some ways to get shelter from these temperature extremes.
@@ -3606,9 +3606,9 @@ Warming centers typically open when temperatures are due to drop to 38°F or bel
 
 -----
 
-## <a id="advocacy--lobbying-for-homeless-issues">Advocacy & Lobbying: Influencing Government Homelessness Policy</a>
+## <a id="advocacy-and-organizing">Advocacy & Lobbying: Influencing Government Homelessness Policy</a>
 
-### Influencing policy
+### <a id="influencing-policy">Influencing policy</a>
 
 The [SLO County Homeless Services Division](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division) is in charge of implementing County policies to address homelessness.
 These policies include [*The San Luis Obispo Countywide Plan to Address Homelessness, 2022–2027*](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness).
@@ -3638,7 +3638,7 @@ The [National Coalition for the Homeless](https://nationalhomeless.org/) campaig
 The [National Union of the Homeless](https://nationalunionofthehomeless.org/) has a [Sacramento chapter](https://sacramentohomelessunion.org/) that helped SLO County homeless people fight for legal protection when the Kansas Avenue (a.k.a. Oklahoma Avenue) safe parking program was closed.
 You can contact the Sacramento chapter at [sacramento.homeless.union@gmail.com](mailto:sacramento.homeless.union@gmail.com).
 
-### Reporting concerns and problems
+### <a id="reporting-concerns">Reporting Concerns and Problems</a>
 
 Some SLO County cities have on-line platforms with which you can report non-emergency problems.
 Your report is routed to the correct department where people can address your concern:
@@ -3657,7 +3657,7 @@ Some cities have special contacts specifically for issues concerning homelessnes
 For homeless-specific questions in Paso Robles, contact [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
 In SLO city, contact the Homelessness Response Manager at [dwiberg@slocity.org](mailto:dwiberg@slocity.org) or [805-781-7025](tel:+1-805-781-7025).
 
-### Reporting crimes
+### <a id="reporting-crimes">Reporting Crimes</a>
 
 To report a crime in process, or a crime where you know who committed it, you should contact the local police department (in a city) or the sheriff (outside city limits).
 Calling [911](tel:+1-911) is the best way of reporting an emergency or a crime in progress.
@@ -3692,7 +3692,7 @@ You can do this either by using the on-line tip form at [sanluisobispocounty.cri
 If you are an adult who is dependent on others, and you are subjected to abuse or neglect—or if you know of another adult in such a situation—you can get help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services).
 Make emergency calls to [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm) or [844-729-8011](tel:+1-844-729-8011) (all other hours).
 
-### Reporting government misconduct
+### <a id="reporting-misconduct">Reporting Government Misconduct</a>
 
 You can report misconduct by police or sheriff personnel to the police or sheriff departments.
 Some departments welcome such reports and use them to improve or to discipline misbehaving employees.
@@ -3718,7 +3718,7 @@ For complaints about County Behavioral Health specifically, contact the [Patient
 
 ## <a id="miscellaneous-free-items">(Mostly) Free Stuff</a>
 
-### Totally Free
+### <a id="totally-free-stuff">Totally Free</a>
 
 The [Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA) network is free to join (you must create an on-line account to participate).
 People in the network can announce when they have things that they no longer want and would like to give away, or can request items they are looking for.
@@ -3748,7 +3748,7 @@ See their website for information on who is eligible and how to apply, or call [
 They can also connect seniors (aged 60+) with providers of no-cost minor home repairs through that program.
 Call their Energy Office for details.
 
-### Low-Cost
+### <a id="low-cost-stuff">Low-Cost</a>
 
 > See [Clothing: Thrift Stores](#thrift-stores) for a list of low-cost thrift stores in our area. Many sell a variety of goods other than clothing.
 
@@ -3763,7 +3763,7 @@ Some advanced tools also require that you take tool-specific orientation classes
 
 -----
 
-## <a id="other-guides-web-pages-information-sources">Other Guides, Web Pages, Information Sources</a>
+## <a id="other-guides">Other Guides, Web Pages, Information Sources</a>
 
 Some other groups have assembled resource guides like this one.
 Some have a different focus (for instance, they highlight resources for seniors or for veterans) or cover a different region.
