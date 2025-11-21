@@ -1168,9 +1168,10 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
 - [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation)
 - [Chiropractic Treatment](#chiropractic-treatment)
 - [Resources for Specific Populations](#medical-resources-specific-populations)
-- [Fitness](#fitness)
 - [Poison Oak](#poison-oak)
 - [Sunburn](#sunburn)
+
+> See also the [Fitness](#fitness) subsection for information on exercise and fitness options.
 
 ### <a id="emergency-care">Emergency Care</a>
 
@@ -1557,23 +1558,6 @@ The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Av
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) offers cervical- and breast-cancer screening and menopause treatment.
 
 [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a women’s mobile health unit.
-
-### <a id="fitness">Fitness</a>
-
-There are free, outdoor fitness courts with exercise equipment at Emerson Park in SLO (<a href="#" class="map-link" data-lat="35.275738" data-lon="-120.664269" data-zoom="17" data-label="Fitness Court">Pismo St. & Nipomo St.</a>), and behind French Hospital in SLO (<a href="#" class="map-link" data-lat="35.278313" data-lon="-120.652977" data-zoom="17" data-label="Fitness Court">along the bike path between Breck St. and the French Hospital parking lot</a>).
-The “Vita Fitness Courses” in Meadow Park (<a href="#" class="map-link" data-lat="35.267591" data-lon="-120.662198" data-zoom="16" data-label="Vita Fitness Course">between Corrida Drive and South Street in SLO</a>) and around <a href="#" class="map-link" data-lat="35.265279" data-lon="-120.682712" data-zoom="14" data-label="Laguna Lake Park">Laguna Lake Park</a> in SLO have some stations with rudimentary equipment that are designed for fitness exercises.
-<!-- I couldn't find anything like this outside of SLO city limits -->
-
-The [DAREBEE](https://darebee.com/workouts/) website has more than 2,500 free, illustrated workout guides, most of which do not require any special equipment.
-
-The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (on-line and in person), aqua fitness classes, etc.
-Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
-Ask them about options for people with low incomes.
-
-[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) offers many fitness classes.
-They typically cost money, but there is a scholarship program for people with low incomes.
-
-[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) and [**SLO Senior Center**](Directory.md#SLO-Senior-Center) offer fitness classes.
 
 ### <a id="poison-oak">Poison Oak</a>
 
@@ -3088,6 +3072,8 @@ There are also some electrical outlets you can use to plug in and charge devices
 
 ## <a id="resources-specific-to-particular-subgroups">Resources Specific to Particular Subgroups:</a>
 
+### Uncategorized TBD
+
 <!-- To-do: prosify these lists -->
 
 1. Veterans
@@ -3380,6 +3366,8 @@ There are also some electrical outlets you can use to plug in and charge devices
 
 ## <a id="peer-support-groups">Peer Support Groups</a>
 
+### Uncategorized TBD
+
 <!-- To-do: add introductory paragraph -->
 <!-- To-do: there are probably many more groups than these. this would require a lot of research. worth it for this guide? -->
 
@@ -3411,37 +3399,64 @@ To-do: Integrate these into the list above
 
 ## <a id="recreation-fitness-socializing-connection-religion-community-integration-volunteering">Recreation, Fitness, Socializing, Connection, Religion, Community Integration, Volunteering</a>
 
-<!-- To-do: prosify this list, add info on the following:
-Note: Added Atascadero Senior Center to Directory (October 2025) — offers free lunch M–F, fitness classes (Tai Chi, chair yoga, walking groups), games, arts/crafts, computer access, medical equipment loans
-Note: Added Central Coast Senior Center (Oceano) to Directory (October 2025) — offers lunch M–F, monthly luncheon, Bingo, Bunco, Tai Chi, art classes
-Note: Added Morro Bay Senior Center to Directory (October 2025) — offers medical equipment loans, games (Bingo, cards, etc.), fitness classes (Tai Chi, Pickleball, exercise programs), support groups
-Note: Added Nipomo Senior Center to Directory (October 2025) — offers lunch program, equipment loans, exercise classes, Bingo, games, Wi-Fi, monthly potlucks
-Note: Updated Paso Robles Senior Center (October 2025) — see Directory entry for full list of services including daily hot lunch, computer access, lending library, Medicare counseling, legal aide, and volunteer opportunities
-Note: Added Santa Margarita Senior Center to Directory (October 2025) — offers lunch, HiCAP counseling, AARP Mature Driver courses, health screenings (detailed activity info not available online)
-Note: Enhanced SLO Senior Center entry in Directory (October 2025) — offers fitness classes, educational programs (discussions/TED Talks), games (Bingo, Bridge, Mahjong, Dominoes), clubs (Philatelic Society, Gem and Mineral)
-Note: Added South Bay Community Center to Directory (October 2025) — multi-use community center hosting Early Risers A.A., Meals that Connect senior nutrition program, Los Osos Cares Community Dinner, and South Bay Seniors People Helping People food bank/medical equipment loan program
-Note: Researched Arroyo Grande Recreation Services (October 2025) — standard recreation department offerings (youth/adult sports, classes ranging from preschool to senior fitness, special events, facility rentals); no specific programs identified for target audience beyond basic recreation services; existing Directory entry adequate
-Note: Added Atascadero Parks & Recreation to Directory (October 2025) — offers senior programs (55+ yoga, card games, badminton, Senior Chair Wellness, Pickleball), adult sports, youth programs, Teen Center ($20/yr); standard recreation department services
-Note: Researched Grover Beach Community Services (October 2025) — standard recreation department offerings (recreation programs and classes for all ages, special events, summer concerts, park/facility rentals); no specific programs identified for target audience beyond basic recreation services; existing Directory entry adequate
-Note: Added Morro Bay Parks & Recreation to Directory (October 2025) — offers youth programs, aquatics, senior activities, adult sports, fitness classes (Freestyle Fitness, Zumba), scholarship applications available; standard recreation department services
-Note: Added Paso Robles Parks & Recreation to Directory (October 2025) — offers free Teen Center and Open Gym programs, Recreation Scholarship Program (all ages), 200+ recreation options including camps/classes/lessons/leagues/events; standard recreation department services
-Note: Enhanced Pismo Beach Recreation Division entry in Directory (October 2025) — offers Active Adult Socials, adult classes, excursions/trips, special events, sports programs, youth programs, public art projects; standard recreation department services
--->
+### <a id="fitness">Fitness</a>
 
-1. [Community yoga classes](https://localwiki.org/slo/Low-Cost_Yoga) (typically free or pay-what-you-can)
-   - Free Options: City of SLO Parks & Recreation offers morning yoga (first class free), downtown community yoga classes (donation-based supporting monthly charities)
-   - Low-Cost: Cambria classes at $10 drop-in (yoga, pilates, tai chi)
-   - Equipment: Most studios have mats, water bottles, towels available for purchase/rent
-   - Contact: City Parks & Recreation [805-781-7300](tel:+1-805-781-7300) for current schedules <!-- Source: https://www.slocity.org/, https://downtownslo.com/ -->
-   - Community Yoga Classes: yoga studios sometimes offer affordable options and community-focused classes:
-      - The Center Yoga Studio ([805-598-7100](tel:+1-805-598-7100)): Contact to verify current community class offerings and affordable options. (Currently doing a 1-hour community yoga class at 5:30pm on Mondays)
-         - "This class is inclusive and intended to be accessible to all. Please bring a yoga mat. Mats available to rent at the studio for $2. For non-members, a sliding scale donation of $5-$25 is requested.… If the minimum donation is not in your budget or you'd prefer to make a cash donation at the studio, please send an email to <hello@thecenterslo.com> and we'll get you signed up." Source: [thecenterslo.com](https://thecenterslo.com/)
+There are free, outdoor fitness courts with exercise equipment at Emerson Park in SLO (<a href="#" class="map-link" data-lat="35.275738" data-lon="-120.664269" data-zoom="17" data-label="Fitness Court">Pismo St. & Nipomo St.</a>), and behind French Hospital in SLO (<a href="#" class="map-link" data-lat="35.278313" data-lon="-120.652977" data-zoom="17" data-label="Fitness Court">along the bike path between Breck St. and the French Hospital parking lot</a>).
+The “Vita Fitness Courses” in Meadow Park (<a href="#" class="map-link" data-lat="35.267591" data-lon="-120.662198" data-zoom="16" data-label="Vita Fitness Course">between Corrida Drive and South Street in SLO</a>) and around <a href="#" class="map-link" data-lat="35.265279" data-lon="-120.682712" data-zoom="14" data-label="Laguna Lake Park">Laguna Lake Park</a> in SLO have some stations with rudimentary equipment that are designed for fitness exercises.
+<!-- I couldn't find anything like this outside of SLO city limits -->
+
+The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (on-line and in person), aqua fitness classes, etc.
+Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
+Ask them about options for people with low incomes.
+
+[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) offers many fitness classes.
+They typically cost money, but there is a scholarship program for people with low incomes.
+
+[**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) offers low-cost yoga classes (they provide the yoga mat and any other necessary supplies) and sports (such as pickleball, volleyball, table tennis, softball, dodgeball, and basketball).
+
+[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers fitness classes.
+
+[**SLO Senior Center**](Directory.md#SLO-Senior-Center) leads “SLO Hikers & Walkers” hikes of local trails and strolls through downtown, designed for people age 55 and older.
+See the [Hikers & Walkers](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming hikes and walks.
+They also host low-cost yoga classes (the first class is free) Tuesdays & Thursdays 7:30–8:45am.
+They also host a free chair exercise class on Tuesdays and Thursdays 10–10:45am, and a free strength &amp; balance class on Fridays at 10:30am, both for people age 55 and older.
+
+The [DAREBEE](https://darebee.com/workouts/) website has more than 2,500 free, illustrated workout guides, most of which do not require any special equipment.
+
+Some local yoga studios offer occasional “community yoga” classes that are free or on a donation or sliding-scale basis.
+
+### Recreation and Socializing
+
+SLO City has a free, public skate park, open daily 7am–10pm, at <a href="#" class="map-link" data-lat="35.290166" data-lon="-120.664167" data-zoom="17" data-label="Santa Rosa Park">Santa Rosa Park</a>.
+You must wear a helmet and elbow & knee pads to use the skate park.
+
+[**SLO Senior Center**](Directory.md#SLO-Senior-Center) operates free “Around the Town” tours of local places of interest for people age 55 and older.
+See the [Around the Town](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming tours and instructions on how to register.
+They also host bingo, bridge, mahjong, Mexican train dominoes, pinochle, and other activities at various times during the week (some of these are free, some cost a few dollars).
+
+<!-- To-do: prosify this list -->
+
+### Uncategorized TBD
+
 1. [YMCA](https://www.sloymca.org/)
    - Location/Phone: See [**SLO County YMCA**](Directory.md#SLO-County-YMCA) in the [Directory](Directory.md)
 1. [Concerts in the Plaza](https://downtownslo.com/events/concerts)
 1. [Disc golf courses](https://slothrowers.com/)
 1. [Bike happenings](https://localwiki.org/slo/Free_Events)
 1. [SLO Skate Park](https://sloskatepark.wordpress.com/)
+1. Atascadero Senior Center offers free lunch M–F, fitness classes (Tai Chi, chair yoga, walking groups), games, arts/crafts, computer access, medical equipment loans
+1. Central Coast Senior Center (Oceano) offers lunch M–F, monthly luncheon, Bingo, Bunco, Tai Chi, art classes
+1. Morro Bay Senior Center offers medical equipment loans, games (Bingo, cards, etc.), fitness classes (Tai Chi, Pickleball, exercise programs), support groups
+1. Nipomo Senior Center offers lunch program, equipment loans, exercise classes, Bingo, games, Wi-Fi, monthly potlucks
+1. Paso Robles Senior Center, services including daily hot lunch, computer access, lending library, Medicare counseling, legal aide, and volunteer opportunities
+1. Santa Margarita Senior Center offers lunch, HiCAP counseling, AARP Mature Driver courses, health screenings (detailed activity info not available online)
+1. South Bay Community Center multi-use community center hosting Early Risers A.A., Meals that Connect senior nutrition program, Los Osos Cares Community Dinner, and South Bay Seniors People Helping People food bank/medical equipment loan program
+1. Arroyo Grande Recreation Services: standard recreation department offerings (youth/adult sports, classes ranging from preschool to senior fitness, special events, facility rentals); no specific programs identified for target audience beyond basic recreation services
+1. Atascadero Parks & Recreation offers senior programs (55+ yoga, card games, badminton, Senior Chair Wellness, Pickleball), adult sports, youth programs, Teen Center ($20/yr); standard recreation department services
+1. Grover Beach Community Services: standard recreation department offerings (recreation programs and classes for all ages, special events, summer concerts, park/facility rentals); no specific programs identified for target audience beyond basic recreation services
+1. Morro Bay Parks & Recreation offers youth programs, aquatics, senior activities, adult sports, fitness classes (Freestyle Fitness, Zumba), scholarship applications available; standard recreation department services
+1. Paso Robles Parks & Recreation offers free Teen Center and Open Gym programs, Recreation Scholarship Program (all ages), 200+ recreation options including camps/classes/lessons/leagues/events; standard recreation department services
+1. Pismo Beach Recreation Division offers Active Adult Socials, adult classes, excursions/trips, special events, sports programs, youth programs, public art projects; standard recreation department services
 1. Rec centers and Senior centers and Community centers
    - City of SLO Facilities: 23 parks (106 acres) with lighted basketball/pickleball courts, tennis courts, swimming pools, volleyball courts, skate parks, soccer/softball fields, playgrounds, trails, putting greens
    - Key Locations: <a href="#" class="map-link" data-lat="35.284113" data-lon="-120.661123" data-zoom="17" data-label="Ludwick Community Center">864 Santa Rosa Street SLO</a>, <a href="#" class="map-link" data-lat="35.251822" data-lon="-120.646727" data-zoom="16" data-label="Damon-Garcia Sports Fields">680 Industrial Way</a>

@@ -24,7 +24,7 @@ const WHITELIST = new Set([
   'Fishes', 'Terrace', 'Sunny', 'Acres', 'Rapha', 'LyonHeart', 'Parkwood', 'Vituity', 'Waterman',
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
   'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO', 'LinkedIn', 'SkillsBuild',
-  'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen',
+  'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
@@ -68,13 +68,10 @@ const WHITELIST = new Set([
   'waitlisting', 'dropdown', 'checkbox', 'signup', 'login', 'apps', 'smartphone', 'smartphones',
   'ok', 'OK', 'okay', 'Okay', 'psych', 'psychiatric', 'psychiatry', 'meds', 'rehab', 'detox',
   'VitalChek', 'NaloxBoxes', 'DD214', 'Narcan', 'naloxone', 'Naloxone', 'suboxone', 'Suboxone',
-  'buprenorphine', 'fentanyl', 'benzodiazepines', 'homebound', 'farmworkers', 'responders',
-  'underserved', 'iCloud', 'iPhones', 'Wi-Fi', 'hotspots', 'Uber', 'Lyft', 'vanpool', 'motorhome',
-  'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes', 'microchipping', 'décor',
-  'mentorship', 'onboarding', 'unenrolled', 'homeownership', 'homebuilding', 'Vite', 'DOMPurify',
-  'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite', 'hemoccult', 'hydrocortisone',
-  'victimizer', 'preparer', 'farmworker', 'unpermitted', 'unburned', 'analytics', 'cybersecurity',
-  'rangeland', 'hotspot',
+  'buprenorphine', 'fentanyl', 'benzodiazepines', 'iCloud', 'iPhones', 'Wi-Fi', 'hotspots', 'Uber',
+  'Lyft', 'vanpool', 'motorhome', 'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes',
+  'microchipping', 'décor', 'Vite', 'DOMPurify', 'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite',
+  'hemoccult', 'hydrocortisone',
 
   // Hyphenated prefixes
   'pre', 'tri',
@@ -98,6 +95,11 @@ const WHITELIST = new Set([
   'houseless', 'unsheltered', 'subsidized', 'subsidize', 'copayment', 'copayments', 'symptom',
   'symptoms', 'syndrome', 'syndromes', 'strengths', 'lengthy', 'vet', 'vets', 'veteran', 'veterans',
   'sober', 'sobriety', 'outpatient', 'inpatient', 'psychology', 'opioid', 'benzodiazepine',
+  'victimizer', 'preparer', 'farmworker', 'unpermitted', 'unburned', 'analytics', 'cybersecurity',
+  'rangeland', 'hotspot', 'pickleball', 'dodgeball', 'mahjong', 'uncategorized', 'mentorship',
+  'onboarding', 'unenrolled', 'homeownership', 'homebuilding',
+  'homebound', 'farmworkers', 'responders',
+  'underserved',
 
   // Spanish and Latin
   'familia', 'por', 'todo', 'nueva', 'generación', 'buena', 'de', 'capita', 'et', 'cetera',
