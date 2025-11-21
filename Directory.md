@@ -325,7 +325,7 @@
 - **Location:** 5905 East Mall, Atascadero <a class="map-link" data-lat="35.488783" data-lon="-120.667081" data-zoom="17" data-label="Atascadero Senior Center">Map</a>
 - **Phone:** [805-466-4674](tel:+1-805-466-4674) <!-- Source: https://atascaderoseniorcenter.org/faq -->
 - **Email:** [seniorcitizensunitedinc@outlook.com](mailto:seniorcitizensunitedinc@outlook.com) <!-- Source: https://atascaderoseniorcenter.org/faq -->
-- **Hours:** M–F (hours vary by activity; call for details)
+- **Hours:** M–F 11am–1pm, Tu–F 11am–3pm (some activities at other times)
 - **How to access:** Most activities free for members ($2 for guests); membership open to people 50+
 - Notes:
    - A lunch site for [**Meals that Connect**](#Meals-that-Connect)
@@ -422,7 +422,7 @@
 ## <a id="California-Cool-Thrift-Store">California Cool Thrift Store</a>
 
 <!-- Source: https://california-cool-thrift-store.hub.biz -->
-- **Website:** [california-cool-thrift-store.hub.biz](http://california-cool-thrift-store.hub.biz)
+- **Website:** [california-cool-thrift-store.hub.biz](https://california-cool-thrift-store.hub.biz)
 - **Location:** 737 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121863" data-lon="-120.622164" data-zoom="17" data-label="California Cool Thrift Store">Map</a>
 - **Phone:** [805-481-3071](tel:+1-805-481-3071)
 - **Hours:** Daily 10am–5pm
@@ -543,12 +543,12 @@
 
 <!-- Source: https://www.cambriavineyard.org/foodministry.html -->
 - **Website:** [cambriavineyardchurch.org](https://cambriavineyardchurch.org/)
-- **Location:** 1617 Main St., Cambria <a href="#" class="map-link" data-lat="35.563774" data-lon="-121.087216" data-zoom="17" data-label="Cambria Vineyard ">Map</a>
+- **Location:** 1617 Main St., Cambria <a href="#" class="map-link" data-lat="35.563774" data-lon="-121.087216" data-zoom="17" data-label="Cambria Vineyard">Map</a>
 - **Phone:** [805-927-5550](tel:+1-805-927-5550)
 - **Email:** [info@cambriavineyard.org](mailto:info@cambriavineyard.org)
 - **Hours** (food pantry): 2nd & 4th Thursdays, Noon–2pm
 
-## <a id="Cambrias-Anonymous-Neighbors">Cambria's Anonymous Neighbors (CAN)</a>
+## <a id="Cambrias-Anonymous-Neighbors">Cambria’s Anonymous Neighbors (CAN)</a>
 
 <!-- Source: https://www.joslynrec.org/CAN/index.html and https://www.cambriasanonymousneighbors.org/other-community-services.html -->
 - **Website:** [joslynrec.org/CAN](https://www.joslynrec.org/CAN/index.html)
@@ -580,7 +580,7 @@
    - Pet Resource Center: M–Th 9am–5pm, F 11am–5pm
 - Notes:
    - Partners with “The Street Dog Coalition”
-   - Operates the "Pet Resource Center" with [**5Cities Homeless Coalition**](#5CHC)
+   - Operates the “Pet Resource Center” with [**5Cities Homeless Coalition**](#5CHC)
 
 ## <a id="Carbon-Health-Urgent-Care-Atascadero">Carbon Health Urgent Care (Atascadero)</a>
 
@@ -862,7 +862,7 @@
 - **Location:** 1200 Monterey St., SLO <a href="#" class="map-link" data-lat="35.283704" data-lon="-120.658514" data-zoom="17" data-label="Child Support Services">Map</a>
 - **Phone:** [866-901-3212](tel:+1-866-901-3212)
 - **Email:** [css@co.slo.ca.us](mailto:css@co.slo.ca.us)
-- **Hours:** M-F 8am–4:30pm
+- **Hours:** M–F 8am–4:30pm
 
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
 
@@ -989,7 +989,7 @@
 | 292 Posada Ln. #A, Templeton <a href="#" class="map-link" data-lat="35.553046" data-lon="-120.721773" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-542-6701](tel:+1-805-542-6701) | |
 
 - **Phone:** [805-361-8400](tel:+1-805-361-8400) (M–F 8am–6pm) / [866-614-4636](tel:+1-866-614-4636) (after-hours care)
-- **How to access:** "Immediate care" or "urgent care" centers accept walk-ins. Otherwise, make an appointment.
+- **How to access:** “Immediate care” or “urgent care” centers accept walk-ins. Otherwise, make an appointment.
    - Accepts private pay, full- and partially-insured, Medi-Cal, and Medicare. Also offers a sliding fee scale based on income and family size to people without any health insurance.
 - Notes:
    - Also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
@@ -1117,7 +1117,7 @@
 ## <a id="Discipleship-Home">Discipleship Home</a>
 
 <!-- Source: https://www.manta.com/c/mhxdpgw/the-discipleship-home -->
-- **Website:** [thediscipleshiphome.com](http://thediscipleshiphome.com/)
+- **Website:** [thediscipleshiphome.com](https://thediscipleshiphome.com/)
 - **Location:** 1359 21st Court, Oceano <a class="map-link" data-lat="35.104942" data-lon="-120.607980" data-zoom="17" data-label="Discipleship Home">Map</a>
 - **Phone:** [805-668-9185](tel:+1-805-668-9185)
 - **Email:** [thediscipleshiphome15@gmail.com](mailto:thediscipleshiphome15@gmail.com)
@@ -1195,7 +1195,7 @@
 
 ## <a id="EyeCare-America">EyeCare America</a>
 
-- **Website:** [aao.org/eyecare-america](http://aao.org/eyecare-america)
+- **Website:** [aao.org/eyecare-america](https://aao.org/eyecare-america)
 - **Phone:** [877-887-6327](tel:+1-877-887-6327) (M–F 8am–2pm)
 - **Email:** [eyecareamerica@aao.org](mailto:eyecareamerica@aao.org)
 - **How to access:** To begin, fill out a questionnaire on their website
@@ -1219,7 +1219,7 @@
 
 <!-- Source: https://fcni.org -->
 - **Website:** [fcni.org](https://fcni.org)
-- **Location:** 1255 Kendall Rd., SLO <a href="#" class="map-link" data-lat="35.236909" data-lon="-120.629489" data-zoom="17" data-label="Family Care ">Map</a>
+- **Location:** 1255 Kendall Rd., SLO <a href="#" class="map-link" data-lat="35.236909" data-lon="-120.629489" data-zoom="17" data-label="Family Care">Map</a>
 - **Phone:** [805-781-3535](tel:+1-805-781-3535)
 - **Email:** [Contact@fcni.org](mailto:Contact@fcni.org)
 <!-- Note: Hours of operation not publicly listed (as of October 2025); contact office directly for hours -->
@@ -1276,7 +1276,7 @@
 ## <a id="Fred-and-Bettys">Fred & Betty’s Thrift Store</a>
 
 <!-- Source: https://visitslo.com/things-to-do/attractions/san-luis-obispo-shopping/fred-bettys-thrift-store/ -->
-- **Website:** [fredandbettys.org](http://www.fredandbettys.org)
+- **Website:** [fredandbettys.org](https://www.fredandbettys.org)
 - **Location:** 532 Higuera St., SLO <a href="#" class="map-link" data-lat="35.277121" data-lon="-120.667745" data-zoom="17" data-label="Fred and Betty’s Thrift Store">Map</a>
 - **Phone:** [805-593-0255](tel:+1-805-593-0255)
 - **Hours:** M–Sa 10am–5pm
@@ -1362,7 +1362,7 @@
 | 880 Industrial Way, SLO <a href="#" class="map-link" data-lat="35.252988" data-lon="-120.640955" data-zoom="17" data-label="Goodwill Outlet">Map</a> (Outlet) | Daily 7am–4pm |
 
 - **Phone:** [800-894-8440](tel:+1-800-894-8440)
-   - Opportunity Platform: [805-544-0542&nbsp;x8520](tel:+1-805-544-0542;ext=8520), [jjauregui@ccgoodwill.org](mailto:jjauregui@ccgoodwill.org)
+   - Opportunity Platform: [805-544-0542&#xA0;x8520](tel:+1-805-544-0542;ext=8520), [jjauregui@ccgoodwill.org](mailto:jjauregui@ccgoodwill.org)
 
 ## <a id="Grace-Central-Coast">Grace Central Coast</a> “God’s Storehouse”
 
@@ -1393,7 +1393,7 @@
 ## <a id="Gryphon-Society">Gryphon Society</a>
 
 <!-- Source: https://gryphonsociety.weebly.com/ and https://www.manta.com/c/mtrp80k/gryphon-society -->
-- **Website:** [gryphonsociety.weebly.com](http://gryphonsociety.weebly.com/)
+- **Website:** [gryphonsociety.weebly.com](https://gryphonsociety.weebly.com/)
 - **Locations:**
    - 1825 San Ramon Rd., Atascadero <a href="#" class="map-link" data-lat="35.513633" data-lon="-120.702720" data-zoom="17" data-label="Gryphon Society">Map</a>
    - 444 N. 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.126139" data-lon="-120.625919" data-zoom="17" data-label="Gryphon Society">Map</a>
@@ -1973,7 +1973,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Marthas-Place-Childrens-Center">Martha’s Place Children’s Center</a>
 
 - **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/marthas-place-childrens-center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center)
-- **Location:** 2925 McMillan Ave. #108, SLO <a class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="Martha's Place Children's Center">Map</a>
+- **Location:** 2925 McMillan Ave. #108, SLO <a class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="Martha’s Place Children’s Center">Map</a>
 - **Phone:** [805-781-4948](tel:+1-805-781-4948)
 - **Hours:** M–F 8am–5pm
 - Notes: For children ages 0–5 with behavioral or mental health issues
@@ -2000,12 +2000,12 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - **Website:** [www.denti-cal.ca.gov](http://www.denti-cal.ca.gov/)
    - **Phone:** [800-322-6384](tel:+1-800-322-6384) (TTY: [800-735-2922](tel:+1-800-735-2922))
 - Medi-Cal Rx:
-   - **Website:** [medi-calrx.dhcs.ca.gov](http://medi-calrx.dhcs.ca.gov/)
+   - **Website:** [medi-calrx.dhcs.ca.gov](https://medi-calrx.dhcs.ca.gov/)
    - **Phone:** [800-977-2273](tel:+1-800-977-2273)
 - Medi-Cal Shuttle: *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 - Notes:
    - [**CenCal Health**](#CenCal) is the local Medi-Cal administrator
-   - Apply at [www.coveredca.com](http://www.coveredca.com/) or [BenefitsCal.com](http://benefitscal.com/)
+   - Apply at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/)
 
 ## <a id="Medically-Fragile-Homeless-Program">Medically Fragile Homeless Program</a>
 
@@ -2040,7 +2040,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Middlehouse">Middlehouse</a>
 
 <!-- Source: http://middlehouse.org/ -->
-- **Website:** [middlehouse.org](http://middlehouse.org/)
+- **Website:** [middlehouse.org](https://middlehouse.org/)
 - **Location:** 2939 Augusta St., SLO <a class="map-link" data-lat="35.267094" data-lon="-120.641232" data-zoom="17" data-label="Middlehouse">Map</a>
 - **Phone:** [805-544-8328](tel:+1-805-544-8328)
 
@@ -2112,12 +2112,12 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Narcotics-Anonymous">Narcotics Anonymous</a>
 
-- **Website:** [centralcoastna.org](http://centralcoastna.org/)
+- **Website:** [centralcoastna.org](https://centralcoastna.org/)
 - **Phone:** [805-549-7730](tel:+1-805-549-7730)
 
 ## <a id="NeedyMeds">NeedyMeds</a>
 
-- **Website:** [needymeds.org](http://needymeds.org/)
+- **Website:** [needymeds.org](https://needymeds.org/)
 - **Phone:** [800-503-6897](tel:+1-800-503-6897)
 - **Email:** [info@needymeds.org](mailto:info@needymeds.org)
 - **Hours:** M–F 9am–5pm Eastern Time
@@ -2135,7 +2135,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Nipomo-Community-Presbyterian">Nipomo Community Presbyterian</a>
 
 <!-- Source: https://www.yelp.com/biz/nipomo-community-presbyterian-church-arroyo-grande -->
-- **Website:** [nipomopresbyterian.org](http://www.nipomopresbyterian.org)
+- **Website:** [nipomopresbyterian.org](https://www.nipomopresbyterian.org)
 - **Location:** 1235 N. Thompson Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.070495" data-lon="-120.512163" data-zoom="17" data-label="Nipomo Community Presbyterian">Map</a>
 - **Phone:** [805-473-8059](tel:+1-805-473-8059)
 - Hours (food pantry): F 12:45–1:30pm
@@ -2283,7 +2283,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - Hosts [**HiCAP**](#HiCAP)
    - Hosts [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
 
-## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Parks & Recreation</a>
+## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Recreation Services</a>
 
 <!-- Source: https://www.prcity.com/268/Recreation-Services verified October 2025 -->
 - **Website:** [prcity.com/268/Recreation-Services](https://www.prcity.com/268/Recreation-Services)
@@ -2296,7 +2296,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="PathPoint">PathPoint</a>
 
 <!-- Source: https://pathpoint.org/locations/san-luis-obispo -->
-- **Website:** [pathpoint.org/locations/san-luis-obispo](http://pathpoint.org/locations/san-luis-obispo)
+- **Website:** [pathpoint.org/locations/san-luis-obispo](https://pathpoint.org/locations/san-luis-obispo)
 
 | Location | Phone |
 | -------- | ----- |
@@ -2325,14 +2325,14 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 > *See also [**40 Prado Homeless Services Center**](#40-Prado)*
 
-- **Location:** 40 Prado Road, SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="People's Kitchen">Map</a>
+- **Location:** 40 Prado Road, SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="People’s Kitchen">Map</a>
 - **Hours:** Daily at noon
 <!-- Note: No dedicated website or contact info found (as of October 2025); meal program at 40 Prado -->
 
 ## <a id="Peoples-Self-Help-Housing">Peoples’ Self-Help Housing</a>
 
 - **Website:** [pshhc.org](https://www.pshhc.org/)
-- **Location:** 1060 Kendall Road, SLO <a class="map-link" data-lat="35.236784" data-lon="-120.633302" data-zoom="17" data-label="People's Self-Help Housing">Map</a>
+- **Location:** 1060 Kendall Road, SLO <a class="map-link" data-lat="35.236784" data-lon="-120.633302" data-zoom="17" data-label="People’s Self-Help Housing">Map</a>
 - **Phone:** [805-781-3088](tel:+1-805-781-3088)
 - **Hours:** M–F 8am–5pm
 - **How to access:** Submit a rental application at their website
@@ -2376,7 +2376,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Planned-Parenthood">Planned Parenthood</a>
 
-- **Website:** [plannedparenthood.org/planned-parenthood-california-central-coast](http://plannedparenthood.org/planned-parenthood-california-central-coast)
+- **Website:** [plannedparenthood.org/planned-parenthood-california-central-coast](https://plannedparenthood.org/planned-parenthood-california-central-coast)
 - **Location:** 743 Pismo St., SLO <a class="map-link" data-lat="35.276498" data-lon="-120.661688" data-zoom="17" data-label="Planned Parenthood">Map</a>
 - **Phone:** [888-898-3806](tel:+1-888-898-3806)
 - **Hours:** M 9am–6pm, Tu–Sa 8am–5pm (closed some holidays)
@@ -2400,7 +2400,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Pregnancy-Parenting-Support">Pregnancy & Parenting Support</a>
 
-- **Website:** [ppsslo.org](http://ppsslo.org/)
+- **Website:** [www.ppsslo.org](https://www.ppsslo.org/)
 - **Location:** 3480 S. Higuera #110, SLO <a class="map-link" data-lat="35.245008" data-lon="-120.673657" data-zoom="17" data-label="Pregnancy &amp; Parenting Support">Map</a>
 - **Phone:** [805-541-3367](tel:+1-805-541-3367) (call or text)
 - **Email:** [info@ppsslo.org](mailto:info@ppsslo.org)
@@ -2647,7 +2647,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Santa-Margarita-Senior-Center">Santa Margarita Area Senior Citizens Club</a>
 
-- **Location:** 22202 (2201) "H" St., Santa Margarita <a href="#" class="map-link" data-lat="35.392015" data-lon="-120.605121" data-zoom="17" data-label="Senior Center">Map</a> <!-- Notes: they use 22202 in current outreach materials, but some older indices and maps show the address as 2201 -->
+- **Location:** 22202 (2201) “H” St., Santa Margarita <a href="#" class="map-link" data-lat="35.392015" data-lon="-120.605121" data-zoom="17" data-label="Senior Center">Map</a> <!-- Notes: they use 22202 in current outreach materials, but some older indices and maps show the address as 2201 -->
 - **Phone:**
    - [805-438-5854](tel:+1-805-438-5854)
    - [805-438-3482](tel:+1-805-438-3482) <!-- Source: https://www.facebook.com/profile.php?id=100064940220256 -->
@@ -2730,7 +2730,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="SLO-Bangers">SLO Bangers</a>
 
-- **Website:** [slobangers.com](http://slobangers.com/)
+- **Website:** [slobangers.com](https://slobangers.com/)
 
 | Location | Hours |
 | -------- | ----- |
@@ -2804,7 +2804,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
       - Adult Mental Health Services: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4700](tel:+1-805-781-4700)
       - Youth Mental Health Services: 2975 McMillan Suite 160 <a href="#" class="map-link" data-lat="35.263533" data-lon="-120.648100" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4179](tel:+1-805-781-4179)
       - Psychiatric Health Facility: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [800-838-1381](tel:+1-800-838-1381)
-      - Martha's Place Children's Center (Ages 0-5): 2925 McMillan Ave. Suite 108 <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4948](tel:+1-805-781-4948)
+      - Martha’s Place Children’s Center (Ages 0–5): 2925 McMillan Ave. Suite 108 <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4948](tel:+1-805-781-4948)
 - **Phone:**
    - Behavioral Health Access Line: [800-838-1381](tel:+1-800-838-1381)
    - Local mental health crisis hotline: [800-783-0607](tel:+1-800-783-0607)
@@ -2825,7 +2825,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="SLO-County-Department-of-Social-Services">SLO County Department of Social Services</a>
 
-- **Website:** [slocounty.ca.gov/departments/social-services](http://slocounty.ca.gov/departments/social-services)
+- **Website:** [slocounty.ca.gov/departments/social-services](https://www.slocounty.ca.gov/departments/social-services)
 
 | Location | Phone |
 | -------- | ----- |
@@ -2882,7 +2882,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="SLO-County-Mental-Health-Services">SLO County Mental Health Services</a>
 
-- **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health](http://slocounty.ca.gov/departments/health-agency/behavioral-health)
+- **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)
 
 | Serves | Location | Phone |
 | ------ | -------- | ----- |
@@ -2920,7 +2920,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 > *See also [**SLO County Health Department**](#SLO-County-Health-Department)*
 
-- **Website:** [slocounty.ca.gov/departments/health-agency/public-health](http://slocounty.ca.gov/departments/health-agency/public-health)
+- **Website:** [slocounty.ca.gov/departments/health-agency/public-health](https://www.slocounty.ca.gov/departments/health-agency/public-health)
 - **Location:** 2180 and 2191 Johnson Ave, SLO <a href="#" class="map-link" data-lat="35.275124" data-lon="-120.646309" data-zoom="17" data-label="SLO County Public Health Department">Map</a>
 - **Phone:**
    - [805-788-2903](tel:+1-805-788-2903) (24-hour info line)
@@ -3038,7 +3038,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="SLO-Noor-Foundation">SLO Noor Foundation</a>
 
-- **Website:** [slonoorfoundation.org](http://slonoorfoundation.org/)
+- **Website:** [slonoorfoundation.org](https://www.slonoorfoundation.org/)
 - Primary & vision clinic
    - **Location:** 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">Map</a>
    - **Phone:** [805-439-1797](tel:+1-805-439-1797)
@@ -3092,7 +3092,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Membership: Open to SLO city residents 55+; includes monthly newsletter, center access, free coffee
 - Notes:
    - Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
-   - Hosts [**HiCAP**](#HiCAP) (Thursdays Noon&ndash;3:30pm by appointment)
+   - Hosts [**HiCAP**](#HiCAP) (Thursdays Noon–3:30pm by appointment)
 
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
@@ -3132,7 +3132,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="SLO-Vet-Center">SLO Vet Center</a>
 
-- **Website:** [va.gov/san-luis-obispo-vet-center](http://va.gov/san-luis-obispo-vet-center)
+- **Website:** [va.gov/san-luis-obispo-vet-center](https://www.va.gov/san-luis-obispo-vet-center/)
 - **Location:** 1070 Southwood Dr., SLO <a class="map-link" data-lat="35.265278" data-lon="-120.640912" data-zoom="17" data-label="SLO Vet Center">Map</a>
 - **Phone:** [805-782-9101](tel:+1-805-782-9101)
    - After hours: [877-927-8387](tel:+1-877-927-8387)
@@ -3213,7 +3213,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Sun-Street-Centers">Sun Street Centers</a>
 
-- **Website:** [sunstreetcenters.org](http://sunstreetcenters.org/)
+- **Website:** [sunstreetcenters.org](https://sunstreetcenters.org)
 - **Location:** 34 Prado Rd., SLO <a class="map-link" data-lat="35.256247" data-lon="-120.672862" data-zoom="17" data-label="Sun Street Centers">Map</a>
 - **Phone:** [805-457-3331](tel:+1-805-457-3331) / [805-457-5150](tel:+1-805-457-5150)
 - **Email:** [atorrente@sunstreet.org](mailto:atorrente@sunstreet.org)
@@ -3271,8 +3271,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Location:** 944 Via Solana, Suite 102, Arroyo Grande <a href="#" class="map-link" data-lat="35.112815" data-lon="-120.593483" data-zoom="17" data-label="Tikva Treatment">Map</a>
 - **Phone:** [805-689-8024](tel:+1-805-689-8024) (local); [954-560-5238](tel:+1-954-560-5238) (main office)
 - **How to access:** Call for intake assessment; accepts private health insurance and self-payment/cash
-- Services: Residential substance abuse treatment, detox (inpatient opioid, benzodiazepines, cocaine), buprenorphine/Suboxone treatment, 30-60 day inpatient programs, transitional housing <!-- To-do: move this to Resources -->
-- Notes: Private for-profit facility; also known as "The Haven at Pismo"; operates multiple residential houses (Mesa House, [**Casa Solana**](#Casa-Solana))
+- Services: Residential substance abuse treatment, detox (inpatient opioid, benzodiazepines, cocaine), buprenorphine/Suboxone treatment, 30–60 day inpatient programs, transitional housing <!-- To-do: move this to Resources -->
+- Notes: Private for-profit facility; also known as “The Haven at Pismo”; operates multiple residential houses (Mesa House, [**Casa Solana**](#Casa-Solana))
 
 ## T-MHA
 
@@ -3298,7 +3298,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Hours:** M–F 8am–5pm
 - Notes:
    - also runs “Wellness Centers” with a variety of programs
-      - See [t-mha.org/wellness-calendars.php](http://t-mha.org/wellness-calendars.php) for a schedule:
+      - See [t-mha.org/wellness-calendars.php](https://www.t-mha.org/wellness-calendars.php) for a schedule:
    - operates [**Behavioral Health Bridge Housing (BHBH) Program**](#BHBH)
    - operates “Bishop Street Studios”
    - operates “Growing Grounds Downtown,” “Growing Grounds Farm,” and “Growing Grounds Nursery”
@@ -3310,7 +3310,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Tri-Counties-Regional-Center">Tri Counties Regional Center</a>
 
-- **Website:** [tri-counties.org](http://tri-counties.org/)
+- **Website:** [tri-counties.org](https://www.tri-counties.org)
 
 | Location | Phone |
 | -------- | ----- |
@@ -3318,7 +3318,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 | 7305 Morro Rd. #101, Atascadero <a href="#" class="map-link" data-lat="35.478709" data-lon="-120.666798" data-zoom="17" data-label="Tri Counties Regional Center">Map</a> | [805-461-7402](tel:+1-805-461-7402) |
 | 1146 Farmhouse Ln., SLO <a href="#" class="map-link" data-lat="35.239987" data-lon="-120.634147" data-zoom="17" data-label="Tri Counties Regional Center">Map</a> | [805-543-2833](tel:+1-805-543-2833) |
 
-- **How to access:** Apply at [tri-counties.org/our-services/apply/](http://tri-counties.org/our-services/apply/)
+- **How to access:** Apply at [tri-counties.org/our-services/apply/](https://www.tri-counties.org/our-services/apply/)
 <!-- Note: Hours of operation not listed on website (as of October 2025); call local office to verify -->
 
 ## <a id="Trinity-United-Methodist-Church">Trinity United Methodist Church (Los Osos)</a>
@@ -3452,7 +3452,7 @@ There are several urgent care options, including:
 ## <a id="Veterans-Services">Veterans Services (SLO County)</a>
 
 <!-- Source: http://slocounty.ca.gov/Departments/Veterans-Services -->
-- **Website:** [slocounty.ca.gov/Departments/Veterans-Services](http://slocounty.ca.gov/Departments/Veterans-Services)
+- **Website:** [slocounty.ca.gov/Departments/Veterans-Services](https://www.slocounty.ca.gov/departments/veterans-services)
 - **Locations:**
    - 800 West Branch St., Arroyo Grande <a href="#" class="map-link" data-lat="35.124547" data-lon="-120.589385" data-zoom="17" data-label="Veterans Services">Map</a> (Tu/Th 8am–5pm) (currently closed for renovations)
    - 240 Scott St., Paso Robles <a href="#" class="map-link" data-lat="35.608124" data-lon="-120.655868" data-zoom="17" data-label="Veterans Services">Map</a> (Tu–Th 8am–5pm)
@@ -3494,7 +3494,7 @@ There are several urgent care options, including:
 
 ## <a id="Vituity-Cares-Mobile-Clinic">Vituity Cares Mobile Clinic</a>
 
-- **Website:** [vituitycares.org](http://vituitycares.org/)
+- **Website:** [vituitycares.org](https://vituitycares.org/)
 - **Location:** 995 Palm St., SLO <a class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="Vituity Cares Mobile Clinic">Map</a>
 - **Phone:** [480-828-4319](tel:+1-480-828-4319)
 - **Hours:** 2nd Sunday of the month, 12:30–3:30 pm
