@@ -706,6 +706,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Cambria       | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                 | 2nd & 4th Thursday |
 | Cayucos       | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                               | Wednesdays |
 | Cayucos       | [**St. Joseph’s Catholic Church**](Directory.md#St-Jospehs-Church)                                  | Fridays (Thursdays by appt.) |
+| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) *must be a Cuesta student* | Monday&ndash;Friday |
 | Grover Beach  | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) | Monday–Friday |
 | Los Osos      | [**King's Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                               | Tuesdays |
 | Los Osos      | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) | Wednesdays |
@@ -1396,6 +1397,8 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some 
 
 [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps people who are uninsured (or whose insurance does not cover prescriptions) get free or low-cost prescription medications.
 
+[**Cuesta College**](Directory.md#Cuesta-College) students can get over-the-counter and prescription medicines (many free of charge) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html).
+
 ### <a id="dental-care">Dental Care</a>
 
 [**Central Coast Dental Society**](Directory.md#CCDS) maintains [a list of dentists who offer reduced rates for people in financial hardship](http://centralcoastdentalsociety.org/public-resources/reduced-fee-dental).
@@ -1432,6 +1435,8 @@ The [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) 
 
 A [**Community Health Centers**](Directory.md#CHC) primary care physician can refer you to CHC-provided mental health counseling or psychiatry, which takes place over the phone or through internet videoconferencing.
 
+[**Cuesta College**](Directory.md#Cuesta-College) students can get mental health therapy from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html).
+
 Adult Mental Health Outpatient Treatment (via [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) and [**Transitions Mental Health Association**](Directory.md#TMHA) and its [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) offer mental health evaluation & treatment, with programs specifically for homeless people.
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) at [**CAPSLO**](Directory.md#CAPSLO)’s [**40 Prado Homeless Services Center**](Directory.md#40-Prado) includes mental health counseling and treatment.
@@ -1446,6 +1451,8 @@ The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Admini
 ### <a id="reproductive-health">Reproductive Health
 
 [**The Center for Health and Prevention**](Directory.md#The-Center) offers contraception, STD testing and treatment, UTI/yeast infection testing and treatment, genital exams, Pap smears, and menopausal services.
+
+[**Cuesta College**](Directory.md#Cuesta-College) students can get reproductive/sexual healthcare and referrals (for example for birth control, emergency contraception, and STI testing) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html).
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers contraceptives, HIV screening and education, OB/GYN services, and STD testing.
 
@@ -1709,6 +1716,7 @@ You can also get free naloxone any time from these "NaloxBoxes":
 - Paso Robles: [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="Behavioral Health">805 4th St.</a>
 - Paso Robles: City Library, <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="City Library">1000 Spring St.</a>
 - Paso Robles: [**ECHO**](Directory.md#ECHO) (Paso Home Key), <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="ECHO Shelter">1134 Black Oak Dr.</a>
+- Paso Robles: [**Cuesta College**] Student Health Center <a href="#" class="map-link" data-lat="35.650584" data-lon="-120.670395" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
 - San Miguel: Community Park, <a href="#" class="map-link" data-lat="35.751293" data-lon="-120.699068" data-zoom="17" data-label="Community Park">1325 K St.</a>
 - Santa Margarita: Community Park, <a href="#" class="map-link" data-lat="35.392470" data-lon="-120.604482" data-zoom="17" data-label="Community Park">2210 H St.</a>
 - Shandon: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Shandon branch), <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="Public Library">195 N. 2nd St.</a>
@@ -1726,6 +1734,7 @@ You can also get free naloxone any time from these "NaloxBoxes":
 - [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (SLO branch), <a href="#" class="map-link" data-lat="35.282385" data-lon="-120.662284" data-zoom="17" data-label="Public Library">995 Palm St.</a>
 - [**Sun Street Centers**](Directory.md#Sun-Street-Centers), <a href="#" class="map-link" data-lat="35.256680" data-lon="-120.671937" data-zoom="17" data-label="Sun Street Centers">34 Prado Rd.</a>
 - The Anderson, <a href="#" class="map-link" data-lat="35.281304" data-lon="-120.661857" data-zoom="17" data-label="Anderson Hotel">965 Monterey St.</a>
+- [**Cuesta College**] Student Health Center <a href="#" class="map-link" data-lat="35.329871" data-lon="-120.740733" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
 
 **South County:**
 
@@ -2156,6 +2165,9 @@ This costs $15.
 Schedule an appointment at their website or by calling [831-582-3600](tel:+1-831-582-3600).
 
 [**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some free [immigration resources](https://selfhelp.courts.ca.gov/immigration).
+
+[**Cuesta College**](Directory.md#Cuesta-College) provides free immigration legal services to students, faculty, and staff.
+Make an appointment to talk to an advisor [here](https://findyourally.com/) or call [805-246-3867](tel:+1-805-246-3867) or [805-546-3109](tel:+1-805-546-3109)
 
 ### <a id="senior-legal-services">Senior Legal Services</a>
 
@@ -2617,6 +2629,8 @@ The national group [Modest Needs](https://www.modestneeds.org/) crowdfunds reque
 They do not give money to applicants directly, but can help them to pay bills.
 See [their website](https://www.modestneeds.org/mn/for-applicants) for instructions on how to apply for a grant.
 
+If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get help with food, housing, health and well-being, transportation, textbooks, parking passes, technology, and other basic needs from the [Basic Needs Center](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/index.html).
+
 ### You Must Apply through Some Referring Agency
 
 [**North County NeighborAid**](Directory.md#North-County-NeighborAid) (managed by [**Center for Family Strengthening**](Directory.md#CSF)) gives cash assistance and gifts of goods to needy people in northern SLO County. <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
@@ -2853,6 +2867,8 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 
 ## <a id="education-job-skills-training-certification-tutoring-literacy">Education, Job Skills Training, Certification, Tutoring, Literacy</a>
 
+### Adult Education
+
 [**Cuesta College**](Directory.md#Cuesta-College)’s [Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html) program is open to the general community (you do not have to be enrolled at Cuesta College).
 Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that take place outside the classroom.
 Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver.
@@ -2860,6 +2876,8 @@ They also offer miscellaneous adult education classes on topics of a recreationa
 
 [**SLO Partners**](Directory.md#SLO-Partners) [programs](https://slopartners.org/programs/) include bootcamps to learn in-demand skills in fields like dental assistant, hospitality, and manufacturing.
 There is a financial assistance program to help you pay for tuition.
+
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers a free [Food Services Program](https://ae.slcusd.org/culinary) that can prepare you for a career in the culinary industry.
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers skill-building, professional development, and college prep courses, at its [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
 
@@ -2869,100 +2887,98 @@ Note that Alison.com is accredited in the United Kingdom, not the United States,
 
 <!-- To-do: prosify this list -->
 
-1. Adult Education
-   1. [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education)
-      - What's Available: Free education for students 18+; US Citizenship test preparation; cosmetology school
-   1. [Cuesta College Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html)
-      - Classes for people with intellectual disabilities: [cuesta.edu/academics/continuinged/adultsdisabilities](https://www.cuesta.edu/academics/continuinged/adultsdisabilities/index.html)
-1. Higher Education and Professional Development
-   1. [Cal Poly Extended Learning (EPaCE)](https://extended.calpoly.edu/)
-      - Services: Professional development certificates, non-credit courses, youth programs, international education
-      - Note: Contact [805-756-2053](tel:+1-805-756-2053) or [extended@calpoly.edu](mailto:extended@calpoly.edu) to inquire about financial assistance or reduced-cost options for low-income individuals (specific scholarship/assistance information not available on website)
-   1. [**Cuesta College**](Directory.md#Cuesta-College)
-      - Monarch Dream Center: Support services for undocumented students
-      - Contact: [CareerServices@cuesta.edu](mailto:CareerServices@cuesta.edu), [805-546-3252](tel:+1-805-546-3252), Building 5300 Room 5310 to inquire about non-student access
-      - Community Programs: Fee-based, not-for-credit classes available to anyone with no admission requirements
-      - [Career Training Programs](https://careertraining.cuesta.edu/) (online) [855-520-6806](tel:+1-855-520-6806): expensive, but there seem to be [financial assistance options](https://careertraining.cuesta.edu/financial-assistance/) and e.g. deals for veterans and other government programs
-   1. [A.T. Still University of Health Sciences](https://www.atsu.edu/)
-      - Status: Moving Central Coast Physician Assistant program from Santa Maria to San Luis Obispo in Summer 2026
-      - New campus: 65,000-square-foot building (formerly Mindbody headquarters)
-      - Programs: 24-month master's Physician Assistant program focused on primary care for underserved communities
-      - Mission: Educating community-oriented healthcare providers for Central Coast underserved populations
-      - Target audience relevance: Limited direct services for homeless population; focus on training healthcare providers who may serve this population
-      - Future potential: May expand health professions offerings and community health services after 2026 move
-      - Sources: [noozhawk.com](https://www.noozhawk.com/a-t-still-university-to-move-central-coast-campus-from-santa-maria/)
+<!-- doesn't look like a low-cost option
+1. [A.T. Still University of Health Sciences](https://www.atsu.edu/)
+   - Status: Moving Central Coast Physician Assistant program from Santa Maria to San Luis Obispo in Summer 2026
+   - New campus: 65,000-square-foot building (formerly Mindbody headquarters)
+   - Programs: 24-month master's Physician Assistant program focused on primary care for underserved communities
+   - Mission: Educating community-oriented healthcare providers for Central Coast underserved populations
+   - Target audience relevance: Limited direct services for homeless population; focus on training healthcare providers who may serve this population
+   - Future potential: May expand health professions offerings and community health services after 2026 move
+   - Sources: [noozhawk.com](https://www.noozhawk.com/a-t-still-university-to-move-central-coast-campus-from-santa-maria/)
+-->
 1. Library Resources and Literacy Programs
    1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
       - Services: Computer access, digital literacy classes, educational programs
    1. Cal Poly Library: [Robert E. Kennedy Library](https://localwiki.org/slo/Robert_E._Kennedy_Library)—public access available
    1. [**Little Free Libraries**](Directory.md#Little-Free-Libraries): Community book sharing locations for "Take a Book, Share a Book"
    1. [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center): lending library open M-F 8am-5pm
-1. Literacy and Tutoring Services
-   1. [**Literacy For Life**](Directory.md#Literacy-For-Life)
-      - Services: Adult literacy tutoring, reading skills development, English language communication skills
-      - Format: In-person one-on-one tutoring at Learning Centers
-      - Mission: Empowering individuals by removing barriers to success through literacy
-      - Location: Learning Centers (specific locations determined during intake) <!-- Source: [literacyforlifeslo.org](https://www.literacyforlifeslo.org/contact.php) -->
-   1. [Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/)
-      - Services: Educational, personal growth, and cultural programs for retired and mature adults
-      - Cost: $25 annual membership dues; $5 per session for members, $10 for non-members
-      - How to register: Visit [lifelearnerscc.org/courses](https://www.lifelearnerscc.org/courses) for tickets and class registration
-      - Target: Independent thinkers in volunteer community; "Where Curious Minds Gather"
-      - Note: Low-cost volunteer-based model; specific scholarship information not available; contact organization directly for financial assistance options
-1. Specialized Skills Training and Certification
-   1. Digital Literacy Classes: Computer skills training available through multiple organizations
-      - [**The Literacy Connection**](Directory.md#Literacy-Connection): Free computer literacy tutoring as part of literacy goals; call [805-781-5077](tel:+1-805-781-5077) or complete [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
-      - Lucia Mar Adult Education: Free access to education for ages 18+; individualized instruction
-      - San Luis Obispo Adult School: Ongoing support, individualized instruction; register at any time
-      - Access: All programs offer free/low-cost options; contact organizations directly for current computer literacy class schedules
-      - Source: [slolibrary.org](https://www.slolibrary.org/)
-      - [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) "free computer assistance is offered on the Senior Center computers... one-on-one tutoring sessions"
-      - [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers free tech help and tutoring
-   1. Cosmetology Certification: Full-service school through Lucia Mar Adult Education
-      - Cost: Free for all students ages 18+
-      - Location: <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="Lucia Mar Adult Education">1425 19th Street, Oceano</a>
-      - Contact: [805-474-3756](tel:+1-805-474-3756), [adulted.luciamarschools.org](https://adulted.luciamarschools.org/apps/pages/index.jsp?uREC_ID=768188&type=d&pREC_ID=2637431)
-      - Additional services: High School Diploma courses, GED test prep, US Citizenship test prep, ESL classes (partnership with Cuesta College)
-      - Note: Largest school district in SLO County; additional county scholarships may be available for related education <!-- Source: https://adulted.luciamarschools.org/ -->
-1. Community Education and Personal Development
-   1. SLO Parks & Recreation Classes: [Activity guides and courses](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide)
-   1. Toastmasters: Public speaking and leadership development clubs in San Luis Obispo County:
-      - SLO Toastmasters Club 83: Meets Thursdays 6:30am (hybrid in-person and Zoom), <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a>. Contact via [slotoastmasters.toastmastersclubs.org](https://slotoastmasters.toastmastersclubs.org/)
-      - SLO Noontime Toastmasters Club (5204): Meets Tuesdays 12–1pm (hybrid), Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a>. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204-)
-      - SLO Motion Toastmasters Club: Meets Mondays 12–1pm (alternating hybrid/Zoom), SLO City/County Library, <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO Library">995 Palm St., SLO</a>. Contact via [slomotion.toastmastersclubs.org](https://slomotion.toastmastersclubs.org/)
-      - Speakeasy Toastmasters Club: SLO County Sheriff's Office, <a href="#" class="map-link" data-lat="35.563896" data-lon="-120.702286" data-zoom="17" data-label="County Sheriff">356 N. Main St., Templeton</a>. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00009797-00009797) (may have professional prerequisites)
-      - Life Community Toastmasters: Wednesdays 6:30–8:30pm, Life Community Church, <a href="#" class="map-link" data-lat="35.571064" data-lon="-120.694784" data-zoom="17" data-label="Life Community Church">3770 Ruth Way, Templeton</a>. Contact [805-712-0671](tel:+1-805-712-0671)
-      - Note: All clubs welcome guests and offer online attendance options; Division E covers Arroyo Grande, Grover Beach, SLO, Templeton, Paso Robles
-      - Source: [toastmasters.org](https://www.toastmasters.org/find-a-club)
-   1. [**U.C. Cooperative Extension - SLO County**](Directory.md#UC-Cooperative-Extension)
-      - Programs: Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, horticulture
-      - Cost: Varies by program (e.g., Forest Stewardship Workshop $60); many programs free or low-cost
-      - Registration: Visit [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/) or call for specific program registration
-1. Specialized Educational Support
-   1. [**Goodwill Stores**](Directory.md#Goodwill)
-      - Services: Free, one-on-one, personalized financial coaching / financial literacy services; Digital Literacy Classes
-      - County-wide service (pending review): Services available at retail locations in Atascadero, Grover Beach, Paso Robles, and SLO
-      - Financial Coaching Contact: Jaclyn Jauregui [jjauregui@ccgoodwill.org](mailto:jjauregui@ccgoodwill.org), [805-316-1811](tel:+1-805-316-1811)
-      - Digital Literacy: [ccgoodwill.org/digital-literacy-classes](https://www.ccgoodwill.org/digital-literacy-classes/) or [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwill.org)
-      - Note: Contact directly for information about attending digital literacy classes
-   1. [**Outside Now**](Directory.md#Outside-Now)
-      - What's Available: Multi-generational learning community offering nature-based programs, seasonal celebrations, rites of passage, and wilderness adventures; alternative education for at-risk youth and adults
-      - Cost: Contact organization directly for program costs and financial assistance options
-   1. CREEC Network: [creec.org](https://www.creec.org/)—Educational resources
-      - Resources: Educational networking and resource coordination
-      - Access: Visit website for current educational resource connections
-      - Target relevance: May provide connections to educational opportunities for adults
-   1. [**Family Care Network**](Directory.md#Family-Care-Network)
-      - Educational services: Tutoring and academic support, Career & Education Support Services for current and former foster youth
-      - Target population: Primarily serves youth and families impacted by trauma
-      - Note: Limited direct educational services for general adult homeless population—contact directly for eligibility and current programs
-      - Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31638)
-   1. [Cal Learn](https://cdss.ca.gov/cal-learn) — for pregnant or parenting teens to help them finish high school or get an equivalent certificate
-   1. SLO County Office of Education's "Homeless and Foster Youth Services Coordinating Program"
-      - [805-782-7268](+1-805-782-7268) [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
-      - [slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/)
-      - can assist with: school enrollment, school placement disputes, transfer or tracking of school records, identifying school resources, questions related to school policy and Education Code
-      - to access, reach out to your school district’s liaison [listed here](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
+1. [Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/)
+   - Services: Educational, personal growth, and cultural programs for retired and mature adults
+   - Cost: $25 annual membership dues; $5 per session for members, $10 for non-members
+   - How to register: Visit [lifelearnerscc.org/courses](https://www.lifelearnerscc.org/courses) for tickets and class registration
+   - Target: Independent thinkers in volunteer community; "Where Curious Minds Gather"
+   - Note: Low-cost volunteer-based model; specific scholarship information not available; contact organization directly for financial assistance options
+1. Digital Literacy Classes: Computer skills training available through multiple organizations
+   - [**The Literacy Connection**](Directory.md#Literacy-Connection): Free computer literacy tutoring as part of literacy goals; call [805-781-5077](tel:+1-805-781-5077) or complete [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u)
+   - Lucia Mar Adult Education: Free access to education for ages 18+; individualized instruction
+   - San Luis Obispo Adult School: Ongoing support, individualized instruction; register at any time
+   - Access: All programs offer free/low-cost options; contact organizations directly for current computer literacy class schedules
+   - Source: [slolibrary.org](https://www.slolibrary.org/)
+   - [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) "free computer assistance is offered on the Senior Center computers... one-on-one tutoring sessions"
+   - [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers free tech help and tutoring
+1. SLO Parks & Recreation Classes: [Activity guides and courses](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide)
+1. Toastmasters: Public speaking and leadership development clubs in San Luis Obispo County:
+   - SLO Toastmasters Club 83: Meets Thursdays 6:30am (hybrid in-person and Zoom), <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a>. Contact via [slotoastmasters.toastmastersclubs.org](https://slotoastmasters.toastmastersclubs.org/)
+   - SLO Noontime Toastmasters Club (5204): Meets Tuesdays 12–1pm (hybrid), Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a>. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204-)
+   - SLO Motion Toastmasters Club: Meets Mondays 12–1pm (alternating hybrid/Zoom), SLO City/County Library, <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO Library">995 Palm St., SLO</a>. Contact via [slomotion.toastmastersclubs.org](https://slomotion.toastmastersclubs.org/)
+   - Speakeasy Toastmasters Club: SLO County Sheriff's Office, <a href="#" class="map-link" data-lat="35.563896" data-lon="-120.702286" data-zoom="17" data-label="County Sheriff">356 N. Main St., Templeton</a>. Contact via [toastmasters.org](https://www.toastmasters.org/Find-a-Club/00009797-00009797) (may have professional prerequisites)
+   - Life Community Toastmasters: Wednesdays 6:30–8:30pm, Life Community Church, <a href="#" class="map-link" data-lat="35.571064" data-lon="-120.694784" data-zoom="17" data-label="Life Community Church">3770 Ruth Way, Templeton</a>. Contact [805-712-0671](tel:+1-805-712-0671)
+   - Note: All clubs welcome guests and offer online attendance options; Division E covers Arroyo Grande, Grover Beach, SLO, Templeton, Paso Robles
+   - Source: [toastmasters.org](https://www.toastmasters.org/find-a-club)
+1. [**U.C. Cooperative Extension - SLO County**](Directory.md#UC-Cooperative-Extension)
+   - Programs: Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, horticulture
+   - Cost: Varies by program (e.g., Forest Stewardship Workshop $60); many programs free or low-cost
+   - Registration: Visit [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/) or call for specific program registration
+1. [**Goodwill Stores**](Directory.md#Goodwill)
+   - Services: Free, one-on-one, personalized financial coaching / financial literacy services; Digital Literacy Classes
+   - County-wide service (pending review): Services available at retail locations in Atascadero, Grover Beach, Paso Robles, and SLO
+   - Financial Coaching Contact: Jaclyn Jauregui [jjauregui@ccgoodwill.org](mailto:jjauregui@ccgoodwill.org), [805-316-1811](tel:+1-805-316-1811)
+   - Digital Literacy: [ccgoodwill.org/digital-literacy-classes](https://www.ccgoodwill.org/digital-literacy-classes/) or [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwill.org)
+   - Note: Contact directly for information about attending digital literacy classes
+1. [**Outside Now**](Directory.md#Outside-Now)
+   - What's Available: Multi-generational learning community offering nature-based programs, seasonal celebrations, rites of passage, and wilderness adventures; alternative education for at-risk youth and adults
+   - Cost: Contact organization directly for program costs and financial assistance options
+1. CREEC Network: [creec.org](https://www.creec.org/)—Educational resources
+   - Resources: Educational networking and resource coordination
+   - Access: Visit website for current educational resource connections
+   - Target relevance: May provide connections to educational opportunities for adults
+1. [**Family Care Network**](Directory.md#Family-Care-Network)
+   - Educational services: Tutoring and academic support, Career & Education Support Services for current and former foster youth
+   - Target population: Primarily serves youth and families impacted by trauma
+   - Note: Limited direct educational services for general adult homeless population—contact directly for eligibility and current programs
+   - Source: [volunteerslo.org](https://www.volunteerslo.org/agency/detail/?agency_id=31638)
+1. [Cal Learn](https://cdss.ca.gov/cal-learn) — for pregnant or parenting teens to help them finish high school or get an equivalent certificate
+1. SLO County Office of Education's "Homeless and Foster Youth Services Coordinating Program"
+   - [805-782-7268](+1-805-782-7268) [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
+   - [slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/)
+   - can assist with: school enrollment, school placement disputes, transfer or tracking of school records, identifying school resources, questions related to school policy and Education Code
+   - to access, reach out to your school district’s liaison [listed here](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
+
+### Citizenship
+
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test.
+The course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday.
+You must be able to read and understand basic English.
+Sign up [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
+
+### Literacy
+
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers Basic English Literary course that takes place all year at its Oceano Learning Center location.
+The course is every Tuesday from 5–8pm and you can begin the course any Tuesday.
+Sign up [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
+
+<!-- To-do: prosify this list -->
+
+1. [**Literacy For Life**](Directory.md#Literacy-For-Life)
+   - Services: Adult literacy tutoring, reading skills development, English language communication skills
+   - Format: In-person one-on-one tutoring at Learning Centers
+   - Mission: Empowering individuals by removing barriers to success through literacy
+   - Location: Learning Centers (specific locations determined during intake) <!-- Source: [literacyforlifeslo.org](https://www.literacyforlifeslo.org/contact.php) -->
+
+### For People with Disabilities
+
+[**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program has an [Adults with Disabilities](https://www.cuesta.edu/academics/continuinged/adultsdisabilities/index.html) program of specialized courses that develop independent living & employment skills of people with intellectual disabilities.
 
 ### High School Equivalency (GED or HiSET)
 
@@ -2983,6 +2999,8 @@ When you get your high school diploma or HiSET equivalency credential, you can a
 
 [**Templeton Adult School**](Directory.md#Templeton-Adult-School) offers free [High School Diploma](https://www.cuesta.edu/academics/continuinged/ged/index.html) classes to adults on a flexible schedule.
 Call them or email [clondon@templetonusd.org](mailto:clondon@templetonusd.org) to begin the process of enrollment.
+
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers free [High School Diploma / Equivalency classes](https://ae.slcusd.org/hsd-esl/high-school-equivalency) in San Luis Obispo, Morro Bay, and at the San Luis Obispo jail.
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers on-line lessons, practice tests, and other learning tools, in English and Spanish, at its [High School Equivalency Center](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/hsequivalencycenter/home/are-you-prepared).
 

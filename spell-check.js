@@ -23,7 +23,7 @@ const WHITELIST = new Set([
   'Lumina', 'Aegis', 'Aevum', 'Genoa', 'Tikva', 'Agape', 'Alano', 'Arise', 'Vineyard', 'Loaves',
   'Fishes', 'Terrace', 'Sunny', 'Acres', 'Rapha', 'LyonHeart', 'Parkwood', 'Vituity', 'Waterman',
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
-  'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO','LinkedIn','HiSET',
+  'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO','LinkedIn','SkillsBuild',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
@@ -72,7 +72,7 @@ const WHITELIST = new Set([
   'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes', 'microchipping', 'décor',
   'mentorship', 'onboarding', 'unenrolled', 'homeownership', 'homebuilding', 'Vite', 'DOMPurify',
   'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite', 'hemoccult', 'hydrocortisone',
-  'victimizer', 'preparer', 'farmworker', 'unpermitted', 'unburned',
+  'victimizer', 'preparer', 'farmworker', 'unpermitted', 'unburned','analytics','cybersecurity',
 
   // Hyphenated prefixes
   'pre', 'tri',

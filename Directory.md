@@ -100,8 +100,8 @@
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | 1446 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.1208561" data-lon="-120.6056542" data-zoom="17" data-label="Achievement House Thrift Store (Arroyo Grande)">Map</a> | [805-202-3068](tel:+1-805-202-3068) | Daily 9:30am–5pm |
-| 3003 Cuesta College Rd., SLO <a href="#" class="map-link" data-lat="35.3243286" data-lon="-120.7449265" data-zoom="17" data-label="Achievement House Thrift Store (SLO)">Map</a> | [805-543-9383](tel:+1-805-543-9383) | M–F 8am–3:45pm, Sa 9am–3:30pm |
 | 730 Morro Bay Blvd., Morro Bay <a href="#" class="map-link" data-lat="35.3657373" data-lon="-120.8447987" data-zoom="17" data-label="Achievement House Thrift Store (Morro Bay)">Map</a> | [805-772-6744](tel:+1-805-772-6744) | M–F 8:30am–4:30pm, Sa 9am–4:30pm |
+| 3003 Cuesta College Rd., SLO <a href="#" class="map-link" data-lat="35.3243286" data-lon="-120.7449265" data-zoom="17" data-label="Achievement House Thrift Store (SLO)">Map</a> | [805-543-9383](tel:+1-805-543-9383) | M–F 8am–3:45pm, Sa 9am–3:30pm |
 
 ## <a id="ACLU">ACLU of Southern California</a>
 
@@ -2608,24 +2608,24 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 | Location | Phone | Food Pantry | Notes |
 | -------- | ----- | ----------- | ----- |
-| 815 Islay Street, SLO <a class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">Map</a> | [805-544-2401](tel:+1-805-544-2401) | W/F 10am–Noon, Th. 2–4pm | Operates a “Rapid Rehousing Program” |
-| 1550 W Branch Street, Arroyo Grande <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">Map</a> | [805-481-0278](tel:+1-805-481-0278) | M/W/F 10am–2pm | |
+| 815 Islay St., SLO <a class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">Map</a> | [805-544-2401](tel:+1-805-544-2401) | W/F 10am–Noon, Th. 2–4pm | Operates a “Rapid Rehousing Program” |
+| 1550 W. Branch St., Arroyo Grande <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">Map</a> | [805-481-0278](tel:+1-805-481-0278) | M/W/F 10am–2pm | |
 | 8420 El Camino Real <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">Map</a> | [805-466-7201](tel:+1-805-466-7201) | | |
-| 540 Quintana Rd, Morro Bay <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">Map</a> | [805-772-7062](tel:+1-805-772-7062) | | (was temporarily closed as of September 2025) <!-- says Eva --> |
-| 711 Paso Robles Street, Paso Robles <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">Map</a> | [805-238-9591](tel:+1-805-238-9591) | | (was temporarily closed as of September 2025) <!-- says Eva --> |
+| 540 Quintana Rd., Morro Bay <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">Map</a> | [805-772-7062](tel:+1-805-772-7062) | | (was temporarily closed as of September 2025) <!-- says Eva --> |
+| 711 Paso Robles St., Paso Robles <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">Map</a> | [805-238-9591](tel:+1-805-238-9591) | | (was temporarily closed as of September 2025) <!-- says Eva --> |
 
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
 - [ae.slcusd.org](https://ae.slcusd.org/)
 - Location: 1500 Lizzie St., SLO <a class="map-link" data-lat="35.281251" data-lon="-120.649489" data-zoom="17" data-label="San Luis Coastal Adult School">Map</a>
 - Phone: [805-549-1222](tel:+1-805-549-1222)
+- Email: [adultschool@slcusd.org](mailto:adultschool@slcusd.org)
 - How to access:
    - Register for classes on-line at [slcusd.asapconnected.com](https://slcusd.asapconnected.com/)
    - Or, come to the office during business hours
    - Or, call during business hours
 - Note:
    - Hosts “San Luis Obispo Family Resource Center”
-   - Can help you get a high school diploma or its equivalent (HiSET or GED)
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
