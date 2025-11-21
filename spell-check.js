@@ -24,7 +24,7 @@ const WHITELIST = new Set([
   'Fishes', 'Terrace', 'Sunny', 'Acres', 'Rapha', 'LyonHeart', 'Parkwood', 'Vituity', 'Waterman',
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
   'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO', 'LinkedIn', 'SkillsBuild',
-  'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba',
+  'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba', 'flexercise',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
@@ -71,7 +71,7 @@ const WHITELIST = new Set([
   'buprenorphine', 'fentanyl', 'benzodiazepines', 'iCloud', 'iPhones', 'Wi-Fi', 'hotspots', 'Uber',
   'Lyft', 'vanpool', 'motorhome', 'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes',
   'microchipping', 'décor', 'Vite', 'DOMPurify', 'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite',
-  'hemoccult', 'hydrocortisone',
+  'hemoccult', 'hydrocortisone', 'Rummikub',
 
   // Hyphenated prefixes
   'pre', 'tri',
@@ -97,9 +97,8 @@ const WHITELIST = new Set([
   'sober', 'sobriety', 'outpatient', 'inpatient', 'psychology', 'opioid', 'benzodiazepine',
   'victimizer', 'preparer', 'farmworker', 'unpermitted', 'unburned', 'analytics', 'cybersecurity',
   'rangeland', 'hotspot', 'pickleball', 'dodgeball', 'mahjong', 'uncategorized', 'mentorship',
-  'onboarding', 'unenrolled', 'homeownership', 'homebuilding',
-  'homebound', 'farmworkers', 'responders',
-  'underserved',
+  'onboarding', 'unenrolled', 'homeownership', 'homebuilding', 'homebound', 'farmworkers',
+  'responders', 'underserved', 'bocce', 'qigong',
 
   // Spanish and Latin
   'familia', 'por', 'todo', 'nueva', 'generación', 'buena', 'de', 'capita', 'et', 'cetera',
