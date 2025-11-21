@@ -74,7 +74,7 @@ const WHITELIST = new Set([
   'mentorship', 'onboarding', 'unenrolled', 'homeownership', 'homebuilding', 'Vite', 'DOMPurify',
   'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite', 'hemoccult', 'hydrocortisone',
   'victimizer', 'preparer', 'farmworker', 'unpermitted', 'unburned', 'analytics', 'cybersecurity',
-  'rangeland',
+  'rangeland', 'hotspot',
 
   // Hyphenated prefixes
   'pre', 'tri',

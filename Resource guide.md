@@ -22,7 +22,7 @@ San Luis Obispo County is an especially challenging place for people trying to a
 Nearly one in four homeless people in the United States lives in California.
 California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people.
 In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S.
-The city of San Luis Obispo is one of top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have in order to afford to buy a home.
+The city of San Luis Obispo is one of the top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have in order to afford to buy a home.
 10% of schoolchildren in SLO County are homeless.
 
 Why are things especially difficult here?
@@ -2408,7 +2408,7 @@ If you have a case manager, ask them if they can help you with this process.
 If you are homeless, you may be at a loss when asked for your mailing address.
 There are various ways to establish a reliable mailing address even if you do not have a stable living address.
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you.
+The [**5Cities Homeless Coalition**](Directory.md#5CHC) and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
 Ask them for details.
 
 <!-- To-do: NEEDS VERIFICATION
@@ -2909,17 +2909,18 @@ They welcome guests to participate.
 It is not free. There is a $60 membership fee every six months, and some individual groups also charge small membership fees of their own.
 Our local Toastmasters groups include:
 
-- [SLO Toastmasters Club 83](https://slotoastmasters.toastmastersclubs.org/): Meets Thursdays 6:30–7:30amam (hybrid in-person and Zoom), <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a>.
-- [SLO Noontime Toastmasters Club (5204)](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204): Meets Tuesdays Noon–1pm (hybrid), Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a>.
-- [SLO Motion Toastmasters Club](https://slomotion.toastmastersclubs.org/): Meets Mondays Noon–1pm (alternating hybrid/Zoom), SLO City/County Library, <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO Library">995 Palm St., SLO</a>.
-- [Cal Poly Toastmasters](https://www.toastmasters.org/Find-a-Club/28676059-cal-poly-toastmasters): Meets Wednesdays Noon–1pm,
-<a href="#" class="map-link" data-lat="35.303892" data-lon="-120.659629" data-zoom="17" data-label="Toastmasters">Bldg. 70 (Facilities)</a>, Room 110 on the Cal Poly San Luis Obispo campus
-- [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club): Meets Thursdays 12:10–1:15pm in various locations around Paso Robles.
+| Club | Meeting Time | Location |
+| ---- | ------------ | -------- |
+| [SLO Toastmasters Club 83](https://slotoastmasters.toastmastersclubs.org/) | Th 6:30–7:30am | <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a> |
+| [SLO Noontime Toastmasters Club (5204)](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204) | Tu Noon–1pm | Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a> |
+| [SLO Motion Toastmasters Club](https://slomotion.toastmastersclubs.org/) | M Noon–1pm | SLO City/County Library, <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO Library">995 Palm St., SLO</a> |
+| [Cal Poly Toastmasters](https://www.toastmasters.org/Find-a-Club/28676059-cal-poly-toastmasters) | W Noon–1pm | <a href="#" class="map-link" data-lat="35.303892" data-lon="-120.659629" data-zoom="17" data-label="Toastmasters">Bldg. 70 (Facilities)</a>, Room 110 on the Cal Poly San Luis Obispo campus |
+| [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club) | Th 12:10–1:15pm | various locations around Paso Robles |
 
 The local [**University of California Cooperative Extension**](Directory.md#UC-Cooperative-Extension) offers courses in gardening, food preservation, and rangeland and watershed management.
 Many programs are free or low-cost.
 
-### Digital Literacy: How to Use Computers and the Internet
+### <a id="digital-literacy">Digital Literacy: How to Use Computers and the Internet</a>
 
 [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a digital literacy class designed to teach you basic to intermediate computer skills with a focus on communication and productivity using Google’s free suite of apps.
 Computers are provided for use in class.
@@ -3047,67 +3048,41 @@ This program is for California residents with medically-certified limitations of
 
 ## <a id="internet-access--email--digital-access-assistance">Internet Access / Email / Digital Access Assistance</a>
 
-<!-- To-do: prosify this list -->
+> See the [Digital Literacy: How to Use Computers and the Internet](#digital-literacy) section of this guide for classes and tutorials that can help you learn how to use the internet.
 
-1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center)
-   - What's Available: Career counseling, training, job-search resources, computer access for individuals with limited access
-   - County-wide access (pending review): Locations in SLO (3450 Broad St. #103A and 3563 Empleo Street) and Paso Robles (534 Spring St.) for computer and internet access
-   - Services: Workforce development, coding bootcamp scholarships ($13,495 value for income-eligible SLO County residents)
-   - Eligibility: Available to all jobseekers; some programs have income requirements (CalWORKs, CalFRESH recipients prioritized for scholarships)
-   - Note: Coding bootcamp information appropriately listed here under Internet/Digital Access; also cross-referenced in [Education section](#education-job-skills-training-certification-tutoring-literacy) under workforce development
-1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
-   - What's Available: Free public internet access via desktop PCs, Wi-Fi, and Chromebooks; Full Office Suite on desktop computers; printing services (for a fee)
-   - Digital services: CloudLibrary eBooks/audiobooks, Libby, Kanopy, and Hoopla digital apps; Brainfuse free online tutoring (K-12); Ask a Librarian online service
-   - Eligibility: Anyone can use internet and printing services
-1. Free Wi-Fi Locations
-   - County Government Buildings (pending review): Free Wi-Fi access available in all SLO County government buildings throughout the county including locations in Arroyo Grande, Atascadero, Morro Bay, Nipomo, Paso Robles, and SLO <!-- Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi) -->
-   - City of SLO: Various public locations with Wi-Fi access; check city's broadband plan for current hotspots <!-- Source: [slocity.org](https://www.slocity.org/living/neighborhood/broadband) -->
-      - Best locations: Coffee shops (Starbucks, BlackHorse Espresso), restaurants (Firestone Grill), hotels, SLO County Regional Airport (terminal-wide free Wi-Fi)
-      - Network names: Vary by business (SLO-INN, Urbane Cafe Guest, IHOP Guest, San Luis Inn Wi-Fi); passwords typically provided on-site
-      - Wi-Fi finder: SLO Chamber of Commerce online Wi-Fi map shows locations and access details; Wi-Fi Map app lists 126+ hotspots in area <!-- Source: https://www.wifimap.io/ -->
-1. Community Organizations with Computer/Internet Access
-   1. [**5Cities Homeless Coalition**](Directory.md#5CHC) office
-      - What’s Available: Computer and internet access for clients
-      - Services: Information and referral, coordinated entry services
-      - Website: [5chc.org/programs/information-and-referral-coordinated-entry](https://5chc.org/programs/information-and-referral-coordinated-entry)
-   1. [**40 Prado Homeless Services Center**](Directory.md#40-Prado)
-      - What’s Available: Computer and phone access for clients
-      - Hours: call for current computer/phone access hours
-1. Email and Communication Services, Organizations Providing Digital Communication Assistance:
-   1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries): Free email setup, online application assistance; visit any branch location county-wide or call main library [805-781-5989](tel:+1-805-781-5989)
-   1. [**5Cities Homeless Coalition**](Directory.md#5CHC): Computer access and assistance with online applications; [805-574-1638](tel:+1-805-574-1638)
-   1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center): Help with CalJOBS registration, online job applications; [805-286-8530](tel:+1-805-286-8530)
-   1. [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) "free computer assistance is offered on the Senior Center computers... one-on-one tutoring sessions... two beautiful computers that are available for members to use daily"
-   1. [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) has a computer with internet access (first come, first serve)
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site.
+They also have printing services for a small fee.
+They may also be able to help you establish an email account.
+You can also borrow a Wi-Fi hotspot from the library.
+
+The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) has computers you can use for job-search purposes.
+They can also help you establish a CalJOBS account and submit online job applications.
+
+The County of San Luis Obispo Information Technology Department provides free Wi-Fi access in all San Luis Obispo County government buildings.
+
+Both the [**5Cities Homeless Coalition**](Directory.md#5CHC) office and the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offer computer and internet access to their clients. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
+
+[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) has two computers you can use on-site, and they offer free assistance and one-on-one tutoring sessions. <!-- Source: https://www.prcity.com/293/Senior-Services -->
+[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) also has a computer with internet access which is available to the public on a first come, first serve basis.
 
 -----
 
 ## <a id="charging-stations-for-devices">Charging Stations for Devices</a>
 
-<!-- To-do: prosify this list -->
+The [**5Cities Homeless Coalition**](Directory.md#5CHC) office has device charging stations for its clients. <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
-- Homeless Service Centers with Charging Access
-   1. [**5Cities Homeless Coalition**](Directory.md#5CHC) office
-      - What’s Available: Device charging stations for clients
-      - Website/Location/Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-   1. [**Shower the People**](Directory.md#Shower-the-People)
-      - What’s Available: Device charging capabilities at mobile shower locations
-   1. [**40 Prado Homeless Services Center**](Directory.md#40-Prado)
-      - What’s Available: Phone access for participants; call to inquire about device charging availability
-- Public Libraries—Free Charging Access
-   1. [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)
-      - What's Available: Public computer stations with USB charging ports; electrical outlets available near seating areas
-      - Access: Open to all members of the public during library hours
-      - Additional: Wi-Fi access for personal devices
-- Community Centers and Public Buildings
-   1. [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center): Computer stations with charging access during business hours
-   1. County Government Buildings
-      - What’s Available: Public seating areas with electrical outlets in most county buildings
-      - Access: During regular business hours; public areas only
-- Alternative Charging Options
-   - Verified Coffee Shops with Wi-Fi/Charging: Scout Coffee Co. (1130 Garden St), Kreuzberg Coffee Company (685 Higuera St), BlackHorse Espresso & Bakery (3590 Broad St Ste 150)
-   - Starbucks Locations: Downtown (17 Chorro St), Madonna Road (253 Madonna Rd); note some Starbucks locations have covered outlets to prevent device charging
-   - Note: Call ahead to confirm outlet availability; policies vary by location <!-- Source: https://downtownslo.com/ -->
+[**Shower the People**](Directory.md#Shower-the-People) has a device charging station available at the sites where it operates during operating hours.
+
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site with USB charging ports.
+There are also some electrical outlets you can use to plug in and charge devices.
+
+<!-- needs research
+1. [**40 Prado Homeless Services Center**](Directory.md#40-Prado)
+   - What’s Available: Phone access for participants; call to inquire about device charging availability
+1. County Government Buildings
+   - What’s Available: Public seating areas with electrical outlets in most county buildings
+   - Access: During regular business hours; public areas only
+-->
 
 -----
 
