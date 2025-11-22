@@ -148,6 +148,19 @@ This guide makes it easier.
 When you meet with case managers and service providers, there are things you can do to make it more likely that they will be able to help you.
 This section of the guide gives some good general tips.
 
+**In this section:**
+
+- [Build Good Relationships with Case Managers and Service Providers](#build-good-relationships)
+- [Manage Appointments and Commitments](#manage-appointments)
+- [Know Your Rights](#know-your-rights)
+- [Document Everything](#document-everything)
+- [Focus on Your Goals and Strengths](#focus-on-goals)
+- [Navigate System Barriers](#navigate-system-barriers)
+- [Work with Multiple Service Providers](#work-with-multiple-providers)
+- [Set Goals and Track Progress](#set-goals-and-track-progress)
+- [When Things Go Wrong](#when-things-go-wrong)
+- [Find and Use Resources](#find-and-use-resources)
+
 ### <a id="build-good-relationships">Build Good Relationships with Case Managers and Service Providers</a>
 
 You can get better results by being prepared.
@@ -1639,7 +1652,13 @@ If you notice increasing redness that spreads beyond the area of the burn, or pu
 
 ## <a id="drug-use-and-recovery">Drug Use, Recovery, and Harm Reduction</a>
 
-> Note: The somewhat confusing term “behavioral health” often describes programs for people who use addictive or harmful drugs and want help.
+**In this section:**
+
+- [Naloxone / Narcan](#naloxone-narcan)
+- [Tobacco / Nicotine](#tobacco-nicotine)
+- [12-Step and Similar Recovery Programs](#twelve-step)
+
+> Note: The somewhat confusing term "behavioral health" often describes programs for people who use addictive or harmful drugs and want help.
 
 Substance Abuse and Mental Health Services Administration (SAMHSA) has a free phone service ([800-662-4357](tel:+1-800-662-4357)) that can help you find substance abuse treatment that matches your needs.
 
@@ -1860,6 +1879,11 @@ You can learn more about the form and review one online, in several languages, a
 -----
 
 ## <a id="personal-safety">Personal Safety, Deescalation, Self-Defense</a>
+
+**In this section:**
+
+- [Self-Defense Classes and Martial Arts](#self-defense-classes)
+- [Personal Safety Tips](#personal-safety-tips)
 
 ### <a id="self-defense-classes">Self-Defense Classes and Martial Arts</a>
 
@@ -2555,6 +2579,13 @@ Homeless people can use the address of a friend, relative, or trusted service pr
 
 ## <a id="emergency-financial-help">Emergency Financial Help</a>
 
+**In this section:**
+
+- [You Can Apply Yourself](#financial-aid-apply-yourself)
+- [You Must Apply through Some Referring Agency](#financial-aid-get-referral)
+- [Government Assistance Programs](#government-assistance-programs)
+- [Utility Assistance Programs](#utility-assistance-programs)
+
 If you need to pay a bill or make a purchase and you have no money, there are some programs available that may be able to help you.
 For some of these, you can apply directly to the agency running the program to ask for their help.
 For others, you can only apply through some other agency (your case manager, doctor, or social worker may be able to do this for you if you ask).
@@ -2854,6 +2885,18 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 -----
 
 ## <a id="education-job-skills-training">Education, Job Skills Training, Certification, Tutoring, Literacy</a>
+
+**In this section:**
+
+- [Adult Education](#adult-education)
+- [Digital Literacy: How to Use Computers and the Internet](#digital-literacy)
+- [Libraries](#libraries)
+- [Citizenship Studies](#citizenship-studies)
+- [Literacy](#literacy)
+- [For People with Disabilities](#education-for-people-with-disabilities)
+- [High School Diplomas and their Equivalents (GED or HiSET)](#diploma-ged-hiset)
+- [English as a Second Language (ESL)](#esl)
+- [For U.S. Military Veterans](#veterans-education)
 
 ### <a id="adult-education">Adult Education</a>
 
@@ -3607,6 +3650,13 @@ Warming centers typically open when temperatures are due to drop to 38°F or bel
 -----
 
 ## <a id="advocacy-and-organizing">Advocacy & Lobbying: Influencing Government Homelessness Policy</a>
+
+**In this section:**
+
+- [Influencing policy](#influencing-policy)
+- [Reporting Concerns and Problems](#reporting-concerns)
+- [Reporting Crimes](#reporting-crimes)
+- [Reporting Government Misconduct](#reporting-misconduct)
 
 ### <a id="influencing-policy">Influencing policy</a>
 
