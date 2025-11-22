@@ -3124,7 +3124,7 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 -----
 
-## <a id="resources-specific-to-particular-subgroups">Resources Specific to Particular Subgroups:</a>
+## <a id="resources-specific-to-particular-subgroups">Resources Specific to Particular Subgroups</a>
 
 TBD
 
@@ -3628,7 +3628,7 @@ Warming centers typically open when temperatures are due to drop to 38°F or bel
 
 The [SLO County Homeless Services Division](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division) is in charge of implementing County policies to address homelessness.
 These policies include [*The San Luis Obispo Countywide Plan to Address Homelessness, 2022–2027*](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness).
-You can contact them at [ss_homelessservices@co.slo.ca.us](mailto:ss_homelessservices@co.slo.ca.us).
+You can contact them at [SS_HomelessServices@co.slo.ca.us](mailto:ss_homelessservices@co.slo.ca.us).
 
 The Homeless Services Division is advised and overseen by the [Homeless Services Oversight Council (HSOC)](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council).
 This council welcomes people with current or past lived experience of homelessness to join it.
@@ -3679,18 +3679,18 @@ To report a crime in process, or a crime where you know who committed it, you sh
 Calling [911](tel:+1-911) is the best way of reporting an emergency or a crime in progress.
 In non-emergency situations, you can call the police or sheriff departments directly:
 
-| Location         | Phone Number                                               |
-| ---------------- | ---------------------------------------------------------- |
-| (unincorporated) | Sheriff: [805-781-4550&#xA0;x3](tel:+1-805-781-4550;ext=3) |
-| Arroyo Grande    | Police: [805-473-5100](tel:+1-805-473-5100)                |
-| Atascadero       | Police: [805-461-5051&#xA0;x5](tel:+1-805-461-5051;ext=5)  |
-| Cal Poly         | Police: [805-756-2281](tel:+1-805-756-2281)                |
-| Grover Beach     | Police: [805-473-4511](tel:+1-805-473-4511)                |
-| (highways)       | CHP: [805-835-5247](tel:+1-805-835-5247)                   |
-| Morro Bay        | Police: [805-772-6225](tel:+1-805-772-6225)                |
-| Paso Robles      | Police: [805-237-6464](tel:+1-805-237-6464)                |
-| Pismo Beach      | Police: [805-773-2208](tel:+1-805-773-2208)                |
-| SLO city         | Police: [805-781-7312](tel:+1-805-781-7312)                |
+| Location               | Phone Number                                               |
+| ---------------------- | ---------------------------------------------------------- |
+| (unincorporated areas) | Sheriff: [805-781-4550&#xA0;x3](tel:+1-805-781-4550;ext=3) |
+| Arroyo Grande          | Police: [805-473-5100](tel:+1-805-473-5100)                |
+| Atascadero             | Police: [805-461-5051&#xA0;x5](tel:+1-805-461-5051;ext=5)  |
+| Cal Poly               | Police: [805-756-2281](tel:+1-805-756-2281)                |
+| Grover Beach           | Police: [805-473-4511](tel:+1-805-473-4511)                |
+| (highways)             | CHP: [805-835-5247](tel:+1-805-835-5247)                   |
+| Morro Bay              | Police: [805-772-6225](tel:+1-805-772-6225)                |
+| Paso Robles            | Police: [805-237-6464](tel:+1-805-237-6464)                |
+| Pismo Beach            | Police: [805-773-2208](tel:+1-805-773-2208)                |
+| SLO city               | Police: [805-781-7312](tel:+1-805-781-7312)                |
 
 In some areas, you can also report a crime in a non-emergency situation, where you do not know who committed the crime, with an on-line form:
 
