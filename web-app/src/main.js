@@ -991,6 +991,8 @@ function cleanMarkdown(text) {
   return text
     // Remove HTML comments
     .replace(/<!--[\s\S]*?-->/g, '')
+    // Remove HTML tags (prevents unclosed tags from breaking DOM structure)
+    .replace(/<[^>]*>/g, '')
     // Remove markdown links but keep link text: [text](url) -> text
     .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
     // Remove markdown image syntax: ![alt](url) -> alt
