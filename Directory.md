@@ -2948,6 +2948,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 | Shandon: 195 N. 2nd St. <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="SLO County Public Library">Map</a> | [805-237-3009](tel:+1-805-237-3009) | Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm) |
 | Shell Beach: 230 Leeward Ave. <a href="#" class="map-link" data-lat="35.154648" data-lon="-120.669678" data-zoom="17" data-label="SLO County Public Library">Map</a> | [805-773-2263](tel:+1-805-773-2263) | Tu/W 10am–1pm and 2–6pm, Sa 9am–5pm |
 
+<!-- To-do: verify the locations/dates/time of the library outreach team; these are also listed in the resource guide -->
+
 - Note: [Transitions Mental Health Association (TMHA)](#TMHA) has a “Library Outreach Team” that connects library patrons who are experiencing homelessness with a social worker and case manager to help them overcome barriers to accessing crucial social services. You can meet the Library Outreach Team at the following library branches (this schedule is subject to change; contact [mvargas@t-mha.org](mailto:mvargas@t-mha.org) for the most up-to-date schedule):
    - SLO: Tu 10–11:30am
    - Atascadero: W 10–11:30am

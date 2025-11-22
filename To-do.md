@@ -22,8 +22,10 @@
 
 1. Do another intellectual property audit to confirm recent changes are legally licensed and the licensing conditions are being followed.
 
+1. Validate that the app implements the full PWA install criteria.
+
 1. For things like Little Free Libraries and Little Free Pantries, rather than just giving a large list of them with their street addresses and map links, it would be nice to have a single, zoomable map that shows the locations of *all* of them, perhaps centered on the user's current location (if that location is within the region contaning them).
 
-1. What's the best way to make it easy for mobile users to save the app to their homescreen or to otherwise bookmark it or save it in app form for convenient access?
+1. What's the best way to make it easy for mobile users to save the app to their homescreen or to otherwise bookmark it or save it in app form for convenient access? At minimum we should include instructions for how to do this on the user's OS/browser (perhaps in the About page); better yet would be something like an "Install" button that, when clicked, saves the app to the desktop, if this is possible to implement.
 
-1. Create a song-and-dance presentation to show it off to service providers; YouTube it. Should highlight 1) why this is superior to other similar projects (e.g. easier to keep updated, easier to collaborate on, feedback button, FOSS), 2) how to get involved, 3) scope (SLO County), ...
+1. Create a song-and-dance presentation to show the app off to service providers; make a shareable video out of it. It should highlight 1) why this is superior to other similar projects (e.g. easier to keep updated, easier to collaborate on, feedback button, FOSS), 2) how to get involved, 3) scope (SLO County), ...

@@ -2791,6 +2791,12 @@ Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-296
 
 ## <a id="employment-job-boards">Employment, Job Boards, Etc.</a>
 
+**In this section:**
+
+1. [Finding Steady Work](#finding-steady-work)
+1. [Making Ends Meet: Recycling](#recycling)
+1. [Making Ends Meet: Gig Jobs](#gig-jobs)
+
 ### <a id="finding-steady-work">Finding Steady Work</a>
 
 The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) offers free employment and training, can help you improve your résumé and your interviewing skills, and can help you find job openings.
@@ -2893,9 +2899,9 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 - [Libraries](#libraries)
 - [Citizenship Studies](#citizenship-studies)
 - [Literacy](#literacy)
-- [For People with Disabilities](#education-for-people-with-disabilities)
 - [High School Diplomas and their Equivalents (GED or HiSET)](#diploma-ged-hiset)
 - [English as a Second Language (ESL)](#esl)
+- [For People with Disabilities](#education-for-people-with-disabilities)
 - [For U.S. Military Veterans](#veterans-education)
 
 ### <a id="adult-education">Adult Education</a>
@@ -2999,10 +3005,6 @@ Sign up [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) is a free, volunteer-based, one-on-one tutoring program that helps adults improve their literacy skills.
 
-### <a id="education-for-people-with-disabilities">For People with Disabilities</a>
-
-[**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program has an [Adults with Disabilities](https://www.cuesta.edu/academics/continuinged/adultsdisabilities/index.html) program of specialized courses that develop independent living & employment skills of people with intellectual disabilities.
-
 ### <a id="diploma-ged-hiset">High School Diplomas and their Equivalents (GED or HiSET)</a>
 
 If you did not earn a high school diploma, you can instead get a certificate that demonstrates that you have high-school-graduate-level competency.
@@ -3046,6 +3048,10 @@ English as a Second Language (ESL) classes are for learners who already have ano
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) offers free [ESL tutoring](https://catalog.slolibrary.org/tlc) and on-line conversation practice groups.
 To apply, fill out [the form on their website](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) or call [805-781-5077](tel:+1-805-781-5077).
+
+### <a id="education-for-people-with-disabilities">For People with Disabilities</a>
+
+[**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program has an [Adults with Disabilities](https://www.cuesta.edu/academics/continuinged/adultsdisabilities/index.html) program of specialized courses that develop independent living & employment skills of people with intellectual disabilities.
 
 ### <a id="veterans-education">For U.S. Military Veterans</a>
 
@@ -3106,6 +3112,8 @@ The [**5Cities Homeless Coalition**](Directory.md#5CHC) office has device chargi
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site with USB charging ports.
 There are also some electrical outlets you can use to plug in and charge devices.
 
+The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus has many charging outlets.
+
 <!-- needs research
 1. [**40 Prado Homeless Services Center**](Directory.md#40-Prado)
    - What’s Available: Phone access for participants; call to inquire about device charging availability
@@ -3118,9 +3126,9 @@ There are also some electrical outlets you can use to plug in and charge devices
 
 ## <a id="resources-specific-to-particular-subgroups">Resources Specific to Particular Subgroups:</a>
 
-### Uncategorized TBD
+TBD
 
-<!-- To-do: prosify these lists -->
+<!--
 
 1. Veterans
    1. Refer people out to the veterans’ resource guide
@@ -3129,11 +3137,9 @@ There are also some electrical outlets you can use to plug in and charge devices
       - Location/Phone: See [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families) in the [Directory](Directory.md)
       - housing stability resources for veterans
    1. Veteran’s Service Office
-   1. Veterans Outpatient Clinics
    1. Vet Center counseling (for war vets)
    1. CAPSLO Veterans Services [805-534-1698](tel:+1-805-534-1698)
    1. Homeless Services, Veterans Support [805-781-5766](tel:+1-805-781-5766)
-   1. Veterans Crisis Line
    1. SLO Veterans Support Program
    1. [Veterans Connect](https://slolibrary.org/index.php/vets)
    1. American Legion
@@ -3142,14 +3148,11 @@ There are also some electrical outlets you can use to plug in and charge devices
    1. [**Central Coast Veterans Services Collaborative**](Directory.md#Central-Coast-Veterans-Services-Collaborative)
    1. Department of Veterans Affairs / HUD-VASH program
       - <a href="#" class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="Dept. of Veterans Affairs">1288 Morro St. #200, SLO</a>
-1. Seniors
-   1. Central Coast Commission for Senior Citizens
-   1. Refer people out to the seniors’ resource guide
+1. Seniors: Refer people out to the seniors’ resource guide
 1. People in immigration/resident alien/naturalization process
    1. [**Immigrant Legal Defense (ILD)**](Directory.md#Immigrant-Legal-Defense)
       - Services: Free, confidential immigration legal services including deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications
       - Cost: Free
-      - Eligibility: No specific restrictions stated; services available to all
       - How to access: Schedule appointments via Calendly link on Dream Center website
       - Source: [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
    1. 805 Immigrant
@@ -3174,30 +3177,23 @@ There are also some electrical outlets you can use to plug in and charge devices
       - Services: Bill payments, gift cards, direct funding based on individual family needs
          - Cross-reference: Also listed in [Emergency Financial Help](#emergency-financial-help)
       - Partners: CAPSLO, Center for Family Strengthening, Community Foundation SLO County
-      - Impact: Helped over 100 local families <!-- Source: https://www.sloundocusupport.org/ -->
       - Phone: [805-543-2323](tel:+1-805-543-2323)
       - Email: [undocusupport@cfsloco.org](mailto:undocusupport@cfsloco.org)
    1. [**SLO4Home**](Directory.md#SLO4Home) (Refugee Resettlement)
       - Services: Refugee resettlement, one-year support program for self-sufficiency, partnership with Church World Services
       - Target: Afghan refugees and other refugee families establishing new lives on Central Coast
-      - Mission: Coalition of religious organizations, veterans, and community activists
       - Eligibility: Serves legally immigrated families and refugees on the Central Coast. Provides ongoing assistance and advocacy for refugee families in housing, transportation, job search, language support, and education.
       - Website: [slo4home.org](https://www.slo4home.org/)
    1. [**Catholic Charities**](Directory.md#Catholic-Charities)
       - Immigration Services: Legal representation for refugees and asylum seekers, immigration guidance
-      - Coverage: Monterey, San Benito, San Luis Obispo, and Santa Cruz counties
       - Target: 30,000+ people served annually including refugees, asylum seekers, and immigrants
-      - Additional: Emergency assistance, rent/utility help <!-- Source: https://catholiccharitiesdom.org/ -->
-   1. Unitarian Universalist Refugee and Immigrant Services Education (UURISE)
-      - Services: general immigration legal consultation, DACA renewal, naturalization (citizenship), green card renewal or replacement, FOIA, emergency safety planning, referrals to local partner agencies
-      - Location/Phone/Email/Hours: See [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) in the [Directory](Directory.md)
+      - Additional: Emergency assistance, rent/utility help [Source: https://catholiccharitiesdom.org/]
    1. California Farmworker Foundation
       - Services: Education (Nueva Generación Scholarship program), health & wellness, civil assistance including immigration support
       - Note: Primarily serves farmworkers in Fresno, Kern, Kings, Madera, and Tulare Counties; contact them to confirm services available to SLO County residents
       - Phone: [661-778-0015](tel:+1-661-778-0015)
       - Email: [info@californiafarmworkers.org](mailto:info@californiafarmworkers.org)
       - Website: [californiafarmworkers.org](https://californiafarmworkers.org/)
-      - Source: [californiafarmworkers.org](https://californiafarmworkers.org/)
    1. Mixteco Indigena Community Organizing Project (MICOP)
       - Services: Immigration legal services (free to very low-cost immigration legal advice through MILA program), case management, referrals, language interpretation, parenting classes, support for indigenous survivors of domestic violence, traditional Indigenous wellness and healing practices, labor justice, health advocacy, literacy and adult education, reproductive health education
       - Target: Indigenous migrant communities, particularly Mixteco and other indigenous persons, as well as low-income persons
@@ -3206,61 +3202,48 @@ There are also some electrical outlets you can use to plug in and charge devices
       - Location: <a href="#" class="map-link" data-lat="35.630007" data-lon="-120.691139" data-zoom="17" data-label="MICOP">1502 15th St. #B, Paso Robles</a>
       - Website: [mixteco.org](https://mixteco.org/)
       - Source: [mixteco.org](https://mixteco.org/), [immigrationadvocates.org](https://www.immigrationadvocates.org/nonprofit/legaldirectory/organization.720274-Mixteco_Indigena_Community_Organizing_Project_MICOP)
-1. Unaccompanied minors
-   1. The Teen’s Closet (Children’s Resource Network)
-      - Services: Free clothing, school supplies, and basic resources for teen-sized youth; specialized support for teen parents
-         - Cross-reference: Also listed in [Where to find free or thrift-store clothing](#clothing)
-      - Phone/Email: See [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) in the [Directory](Directory.md)
-      - Coverage: San Luis Obispo and Santa Barbara Counties
-      - Website: childrensresourcenetwork.org/the-teens-closet.htm <!-- Source: https://localwiki.org/slo/ -->
+1. Children, or people with children
+   1. See also [variety of pregnancy/postpartum resources here](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/pregnancy-postpartum-related-services)
    1. [5CHC Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach)
       - Target: Unaccompanied youth aged 16–24
       - Services: Case management, one-on-one support for immediate needs, housing assistance, individualized Action Plans
-      - Goals: Independent living, steady employment, continued education
       - Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-1. Children, or people with children
-   - See also [variety of pregnancy/postpartum resources here](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/pregnancy-postpartum-related-services)
    1. [**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County)
       - Services: Parenting support resources and referrals, free workshops on child development and parenting strategies, individual caregiver support, navigation assistance for specialized services
       - Target: Parents and caregivers in SLO County, professionals working with families
       - Cost: Free workshops and resources
       - Additional: Comprehensive resource directory, newsletters, social media presence (Facebook: ParentConnectionSLO, Instagram: @parentconnectionslo)
-      - Note: Contact directly for specific eligibility requirements and service details <!-- Source: [sloparents.org](https://sloparents.org/) --->
+      - Note: Contact directly for specific eligibility requirements and service details [Source: [sloparents.org](https://sloparents.org/)]
    1. [Adventist Health](https://www.adventisthealth.org/central-coast/events)
       - Variety of maternity classes (e.g. breastfeeding, baby care, childbirth prep)
    1. [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center)
       - Target: Children ages 2–5 from traumatic circumstances including poverty, homelessness, foster care, domestic violence, child abuse
       - Services: Therapeutic early childhood education, mental health programs, school readiness curriculum, child nutrition (80% daily needs)
       - Programs: Four classrooms (toddler, preschool, pre-kindergarten), assessments every six months
-      - Mission: Heal, support, and strengthen families for child abuse prevention and treatment <!-- Source: https://www.childrensresource.org/ -->
+      - Mission: Heal, support, and strengthen families for child abuse prevention and treatment [Source: https://www.childrensresource.org/]
       - How to access: See [Enrollment Info](https://www.childrensresource.org/regristration) page.
    1. [**Family Care Network**](Directory.md#Family-Care-Network)
       - Services: Foster care, mental health treatment, housing support, career/education support for children and families
          - Note: make sure this is cross-referenced in the “health: mental health” section, with additional details about those specific programs.
       - Housing: 9 apartment complexes (36 units), houses 130+ homeless families annually
-      - Impact: Serves 1,500+ children, youth, families annually; 25,000+ served since 1987
-      - Target: Children/families experiencing trauma, homelessness, foster care needs <!-- Source: https://fcni.org/ -->
+      - Target: Children/families experiencing trauma, homelessness, foster care needs [Source: https://fcni.org/]
    1. [SLO Children’s Museum](https://www.slocm.org/)
       - Services: Interactive educational exhibits for children ages 2–10, sensory-friendly events for autism spectrum families
       - Accessibility Programs: Museums for All (SNAP/EBT families get 4 admissions for $3 each), monthly free Moonlight Hours (3rd Thursday 5–7pm), free admission with SLO County library card
       - Contact: <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="Children’s Museum">1010 Nipomo Street, SLO</a>
-      - Target: Families with young children; special accommodation for sensory needs
-      - Additional: Children 2 and under always free, senior/military discounts available <!-- Source: https://www.slocm.org/ -->
-      - Location: Downtown San Luis Obispo <!-- Source: https://downtownslo.com/ -->
+      - Additional: Children 2 and under always free, senior/military discounts available [Source: https://www.slocm.org/]
+      - Location: Downtown San Luis Obispo [Source: https://downtownslo.com/]
    1. [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast)
       - Mission: Provide free clothing, school supplies and other basic resources to children in need on Central/Southern California coasts
       - Services: Free clothing, blankets, books, backpacks, school supplies, diapers, toiletries for disadvantaged children and at-risk youth
-      - Programs: The Traveling Children’s Closet (mobile store), Teen’s Closet, Outreach Apparel (at Pacific Beach High School)
       - Additional: All programs free of charge, no documents required, no referral necessary
       - Target: Homeless children and other children in need in SLO and Santa Barbara Counties
-      - Impact: Served over 3,000 children since 2012 <!-- Source: https://www.guidestar.org/profile/27-1473791 -->
    1. [Lucia Mar Unified School District Families in Transition](https://www.luciamarschools.org/)
       - Program: McKinney-Vento Homeless Assistance Act compliance for educational stability
       - Services: Immediate enrollment, school transportation, food program eligibility, educational stability for homeless children and youth
       - Target: Students who lack fixed, regular, adequate nighttime residence; serves approximately 1,800 homeless youth
       - Contact: Wendy Bruse, McKinney-Vento Liaison — [805-474-3000](tel:+1-805-474-3000;ext=1221) x1221, [wendy.bruse@lmusd.org](mailto:wendy.bruse@lmusd.org)
       - District Office: <a href="#" class="map-link" data-lat="35.115301" data-lon="-120.576263" data-zoom="17" data-label="Lucia Mar School District">602 Orchard Street, Arroyo Grande</a>, [805-474-3000](tel:+1-805-474-3000)
-      - Coverage: Largest school district in SLO County, serves nearly 10,000 students <!-- Source: https://www.luciamarschools.org/ -->
    1. [S.A.F.E. South County Youth Coalition](https://scyouthcoalition.com/)
       - Full Name: Services Affirming Family Empowerment - one-stop Family Resource Center
       - Mission: Community-based, school-linked, family-centered services to keep children safe, healthy, at home, in school, and out of trouble
@@ -3270,18 +3253,24 @@ There are also some electrical outlets you can use to plug in and charge devices
          - <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1086 Grand Avenue, Arroyo Grande</a>; [805-474-2025](tel:+1-805-474-2025)
          - <a href="#" class="map-link" data-lat="35.028129" data-lon="-120.498271" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">920 West Tefft St., Nipomo</a>; [805-474-3000](tel:+1-805-474-3000;ext=5147) x5147
          - <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1511 19th St., Oceano</a>; [805-474-3690](tel:+1-805-474-3690)
-      - Email: [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org)
-      - Email: [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com)
+      - Email: [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org), [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com)
       - “Appointments are preferred; walk-ins are welcome"
       - Target: All individuals including birth/adoptive/resource families, kin-care providers, transitional aged youth, special needs population
-      - History: Serving southern SLO County since 1995 <!-- Source: https://5chc.org/ -->
+   1. Educational Continuity for Homeless Students (McKinney-Vento Act)
+      - Rights: School of origin attendance (remain at same school during homelessness), immediate enrollment without documents, free transportation, comparable services
+      - SLO County Coordinator: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), SLO County Office of Education, <a href="#" class="map-link" data-lat="35.334344" data-lon="-120.742872" data-zoom="16" data-label="SLO County Office of Education">3350 Education Drive, SLO</a>
+      - District Liaisons: Every SLO County school district has homeless/foster youth liaison:
+         - Atascadero USD: E.J. Rossi, [805-462-4200](tel:+1-805-462-4200)
+         - Cayucos: Liz Villalobos, [805-995-3694](tel:+1-805-995-3694)
+         - San Luis Coastal USD (SLCUSD): Chris Dowler, [805-549-1218](tel:+1-805-549-1218;ext=01283) x01283, [cdowler@slcusd.org](mailto:cdowler@slcusd.org)
+         - County Office: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
+         Source: [slocoe.org](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
+      - SAFE System of Care: Comprehensive behavioral health services for children/youth ages 0–21 and families. Provides wraparound services, care coordination, family advocacy, crisis intervention, and support to keep kids in their homes and schools.
+         - How to Access: Contact school counselors/homeless liaisons, SLO County Behavioral Health at [805-781-4700](tel:+1-805-781-4700), or dial 211 for 24/7 resource information. Services are family-driven and youth-guided with individualized treatment plans.
+         - (See also “S.A.F.E. South County Youth Coalition” above for more details)
+         - Services: Free school meals, special education, gifted programs; removes enrollment barriers and application deadlines [Source: https://www.slocoe.org/]
    1. [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County)
-      - Mission: Transforming lives and strengthening community by addressing essential needs of children and families
-      - [Operation School Bell](https://www.assistanceleague.org/San-Luis-Obispo-County/Operation-School-Bell/): Provides new school clothing to students in need to enhance educational experience and inspire hope for brighter future (get referral from school counselor or administrator?)
       - Access to Career Education (ACE): Educational and career opportunities support program for students
-      - Impact: Clothed 2,121 students in 2024-2025, returned over $409,000 to community through volunteer efforts
-      - Philosophy: “When essential needs are met in the community, families will flourish"
-      - Target: Students and families with essential needs
       - Source: [assistanceleague.org/san-luis-obispo-county](https://www.assistanceleague.org/san-luis-obispo-county/)
    1. [Coats for Kids of SLO County](https://www.coatsforkidsslocounty.org/)
       - once-a-year distribution of cold-weather clothes in Paso Robles “to qualified North County families"
@@ -3299,22 +3288,8 @@ There are also some electrical outlets you can use to plug in and charge devices
          - Email: [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org)
          - Phone: [805-927-1876](tel:+1-805-927-1876)
    1. [Christmas Bicycle Giveaway](https://safslo.org/Childrens-bike-giveaway/)
-      - bicycles refurbished by SLO County Jail prisoners
-      - distributed by Sheriff’s Advisory Foundation to children under age 15
+      - bicycles refurbished by SLO County Jail prisoners, distributed by Sheriff’s Advisory Foundation to children under age 15
       - apply for a bike by contacting the resource officer at the child’s elementary or middle school
-   1. Educational Continuity for Homeless Students (McKinney-Vento Act)
-      - Rights: School of origin attendance (remain at same school during homelessness), immediate enrollment without documents, free transportation, comparable services
-      - SLO County Coordinator: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), SLO County Office of Education, <a href="#" class="map-link" data-lat="35.334344" data-lon="-120.742872" data-zoom="16" data-label="SLO County Office of Education">3350 Education Drive, SLO</a>
-      - District Liaisons: Every SLO County school district has homeless/foster youth liaison:
-         - Atascadero USD: E.J. Rossi, [805-462-4200](tel:+1-805-462-4200)
-         - Cayucos: Liz Villalobos, [805-995-3694](tel:+1-805-995-3694)
-         - San Luis Coastal USD (SLCUSD): Chris Dowler, [805-549-1218](tel:+1-805-549-1218;ext=01283) x01283, [cdowler@slcusd.org](mailto:cdowler@slcusd.org)
-         - County Office: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
-         Source: [slocoe.org](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
-      - SAFE System of Care: Comprehensive behavioral health services for children/youth ages 0–21 and families. Provides wraparound services, care coordination, family advocacy, crisis intervention, and support to keep kids in their homes and schools.
-         - How to Access: Contact school counselors/homeless liaisons, SLO County Behavioral Health at [805-781-4700](tel:+1-805-781-4700), or dial 211 for 24/7 resource information. Services are family-driven and youth-guided with individualized treatment plans.
-         - (See also “S.A.F.E. South County Youth Coalition” above for more details)
-      - Services: Free school meals, special education, gifted programs; removes enrollment barriers and application deadlines <!-- Source: https://www.slocoe.org/ -->
    1. [**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection)
       - Services: Connects families with child care centers, family child care homes, after-school programs; child care payment assistance/subsidies for income-eligible families; toy lending library
       - Additional: child care provider training, within-child care food program, bilingual services (English/Spanish)
@@ -3329,22 +3304,17 @@ There are also some electrical outlets you can use to plug in and charge devices
         - Or maybe: [888-633-6747](tel:+1-888-633-6747) (Migrant and Seasonal Head Start)
       - [childcare@capslo.org](mailto:childcare@capslo.org)
         - [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) for Migrant and Seasonal Head Start
-      - Additional: [Migrant and Seasonal Head Start](https://capslo.org/migrant-and-seasonal-head-start/) also available; federally funded program <!-- Source: https://capslo.org/ -->
+      - Additional: [Migrant and Seasonal Head Start](https://capslo.org/migrant-and-seasonal-head-start/) also available; federally funded program [Source: https://capslo.org/]
    1. [Seneca Central Coast](https://senecafoa.org/senecacentralcoast/) (formerly Kinship Center)
       - Services: Foster care, adoption, mental health support, education; Resource Family Program for foster children and families
-      - Mission: Help children and families through difficult times regardless of challenges or circumstances
       - Programs: Recruit, train, certify resource families; family reunification support; adoption finalization; ongoing post-placement support
-      - Coverage: Monterey County and Central Coast (including SLO County)
-      - Impact: Works with 110+ children annually to build family connections; operating since 1984 <!-- Source: https://senecafoa.org/ -->
       - Services for Target Population: While primarily focused on foster care/adoption, offers culturally-responsive, trauma-informed mental health services for youth and families with complex needs, including “Todo Por Mi Familia” free confidential mental health service for families experiencing challenges like housing instability or migration stress.
-      - Source: [senecafoa.org](https://senecafoa.org/)
    1. [**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents)
       - Services: Family Resource and Empowerment Center for families with special needs children; lending libraries, support groups, Special Education information, IEP support
       - Target: Families with children with special needs throughout SLO County; Early Start families (birth to 3)
       - Additional: Bilingual services, toys/games, free support services; operated under UCP of San Luis Obispo County since 1990
    1. [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center)
       - Services: Serves at-risk children, youth and families; direct services, referrals, information distribution, work experience, parent education, family advocacy
-      - Mission: Link children, youth, families to resources for unique needs; keep children safe, healthy, at home, in school, out of trouble
       - Coverage: Throughout San Luis Obispo County with bilingual staff and multiple regional family advocates
    1. [Bright Futures](https://www.luciamarschools.org/apps/pages/index.jsp?uREC_ID=888752&type=d&pREC_ID=2540975)
       - Free before- and after-school daycare + supper for elementary/middle-school children in Lucia Mar Unified School District
@@ -3407,15 +3377,15 @@ There are also some electrical outlets you can use to plug in and charge devices
    1. [**TranzCentralCoast**](Directory.md#TranzCentralCoast)
       - Mission: Uses outreach and advocacy to help transgender and gender-diverse people live authentic, productive, and happy lives in a safe and affirming community
       - Services: Trans* Youth Support Group (meets 2nd and 4th Tuesday of every month)
+-->
 
 -----
 
 ## <a id="peer-support-groups">Peer Support Groups</a>
 
-### Uncategorized TBD
+TBD
 
-<!-- To-do: add introductory paragraph -->
-<!-- To-do: there are probably many more groups than these. this would require a lot of research. worth it for this guide? -->
+<!--
 
 1. [Caregiver Support Groups](https://stmlcottagehealthncus001.blob.core.windows.net/public/CCRC_Support_Groups_flyer_march2025.pdf)
 1. [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups)
@@ -3431,10 +3401,6 @@ There are also some electrical outlets you can use to plug in and charge devices
 1. [Stroke support groups](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups)
 1. [**NAMI SLO County**](Directory.md#NAMI-SLO-County) ([support groups](https://www.namislo.org/nami-support-groups))
 1. [**TMHA**](Directory.md#TMHA) ([family support groups](https://www.t-mha.org/family-support-groups.php))
-
-<!--
-To-do: Integrate these into the list above
-
 1. **Grief Support Groups - North County**:
    - Hospice SLO County groups in Paso Robles (free 6-week sessions; contact [805-544-2266](tel:+1-805-544-2266)). Source: [hospiceslo.org](https://hospiceslo.org/support-groups/paso-robles)
    - Central Coast Home Health grief groups at Paso Senior Center, <a href="#" class="map-link" data-lat="35.608386" data-lon="-120.655574" data-zoom="17" data-label="Paso Senior Center">270 Scott Street, Paso Robles</a> (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
@@ -3797,6 +3763,8 @@ See their website for information on who is eligible and how to apply, or call [
 [**CAPSLO**](Directory.md#CAPSLO) can connect low-income households with providers of no-cost weatherization through their [Home and Energy Services](https://capslo.org/energy-services/) program.
 They can also connect seniors (aged 60+) with providers of no-cost minor home repairs through that program.
 Call their Energy Office for details.
+
+The [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus will pour you a free cup of coffee.
 
 ### <a id="low-cost-stuff">Low-Cost</a>
 
