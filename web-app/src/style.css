@@ -1120,6 +1120,45 @@ tbody tr:hover {
   font-size: 0.7em;
 }
 
+/* Install app button */
+#install-btn {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: var(--brand-blue);
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 999;
+  transition: all 0.3s ease;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+#install-btn.visible {
+  display: flex;
+}
+
+#install-btn:hover {
+  background-color: #2a5dd4;
+  transform: scale(1.1);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+#install-btn:active {
+  transform: scale(0.95);
+}
+
+#install-btn svg {
+  width: 24px;
+  height: 24px;
+}
+
 /* Font size popup */
 .font-size-popup {
   position: fixed;
@@ -1545,6 +1584,18 @@ tbody tr:hover {
     font-size: 16px;
     bottom: 70px;
     left: 15px;
+  }
+
+  #install-btn {
+    width: 45px;
+    height: 45px;
+    bottom: 70px;
+    right: 15px;
+  }
+
+  #install-btn svg {
+    width: 20px;
+    height: 20px;
   }
 
   .font-size-popup {
