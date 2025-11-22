@@ -381,7 +381,7 @@ function transformTOCToLozenges(container) {
     'Laundry': '🧺',
     'Showers & Hygiene': '🚿',
     'Health & Medical Care': '⚕️',
-    'Substance Use & Recovery': '🔄',
+    'Drug Use & Recovery': '🔄',
     'Tattoo Removal': '✨',
     'End-of-Life Help': '🕊️',
     'Personal Safety': '🛡️',

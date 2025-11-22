@@ -1,7 +1,7 @@
 # About This Guide
 
 This resource guide helps people experiencing homelessness in San Luis Obispo County find services and support.
-It uses colors and icons to help you quickly identify what kind of link or button you’re looking at:
+It uses colors and icons to help you quickly know what kind of link or button you’re seeing:
 
 ## Link Types
 
@@ -38,7 +38,7 @@ We want this guide to be as accurate and helpful as possible.
 If you find outdated information, errors, or want to suggest improvements:
 
 - Click the feedback button (💬) in the bottom-right corner of the screen
-- Fill out the feedback form with details about the issue or suggestion
+- Complete the feedback form with details about the issue or suggestion
 - Send the email that opens with your default email app
 
 Your feedback helps keep this resource current and useful for everyone in our community.
@@ -53,11 +53,11 @@ Please contact organizations directly to verify details before visiting.
 
 This application uses the following open-source libraries and fonts:
 
-- [Marked](https://github.com/markedjs/marked) (MIT License) - Markdown parser
-- [DOMPurify](https://github.com/cure53/DOMPurify) (Apache 2.0 / MPL 2.0) - HTML sanitizer
-- [Vite](https://vitejs.dev) (MIT License) - Build tool
-- [vite-plugin-pwa](https://vite-pwa-org.netlify.app) (MIT License) - Progressive Web App functionality
-- [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates) (SIL Open Font License 1.1) - Display font
+- [Marked](https://github.com/markedjs/marked) (MIT License)—Markdown parser
+- [DOMPurify](https://github.com/cure53/DOMPurify) (Apache 2.0 / MPL 2.0)—HTML sanitizer
+- [Vite](https://vitejs.dev) (MIT License)—Build tool
+- [vite-plugin-pwa](https://vite-pwa-org.netlify.app) (MIT License)—Progressive Web App functionality
+- [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates) (SIL Open Font License 1.1)—Display font
 
 Full license texts available in [THIRD_PARTY_LICENSES.md](https://github.com/showerthepeopleslo/resource-guide/blob/main/THIRD_PARTY_LICENSES.md).
 
