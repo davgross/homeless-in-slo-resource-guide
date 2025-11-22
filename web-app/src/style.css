@@ -1112,6 +1112,14 @@ tbody tr:hover {
   transform: scale(0.95);
 }
 
+#font-size-btn .font-size-large {
+  font-size: 1.1em;
+}
+
+#font-size-btn .font-size-small {
+  font-size: 0.7em;
+}
+
 /* Font size popup */
 .font-size-popup {
   position: fixed;

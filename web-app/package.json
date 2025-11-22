@@ -6,8 +6,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && npm run validate:all",
+    "build:novalidate": "vite build",
     "preview": "vite preview",
+    "validate": "html-validate index.html",
+    "validate:dist": "html-validate dist/index.html",
+    "validate:all": "node scripts/validate-html.js",
     "generate-icons": "node create-maskable-icons.js"
   },
   "dependencies": {
@@ -15,6 +19,7 @@
     "marked": "^14.1.3"
   },
   "devDependencies": {
+    "html-validate": "^10.4.0",
     "sharp": "^0.34.5",
     "vite": "^6.0.5",
     "vite-plugin-pwa": "^0.21.1"

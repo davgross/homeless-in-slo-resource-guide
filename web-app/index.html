@@ -20,12 +20,12 @@
     <header class="app-header">
       <div class="header-content">
         <a href="#" class="header-logo" aria-label="Return to home">
-          <img src="/icon-192.png" alt="SLO County Resource Guide Logo" />
+          <img src="/icon-192.png" alt="SLO County Resource Guide Logo">
         </a>
         <nav class="app-nav" aria-label="Main navigation">
-          <button class="nav-btn" data-section="resources">Resources</button>
-          <button class="nav-btn" data-section="directory">Directory</button>
-          <button class="nav-btn" data-section="about">About</button>
+          <button type="button" class="nav-btn" data-section="resources">Resources</button>
+          <button type="button" class="nav-btn" data-section="directory">Directory</button>
+          <button type="button" class="nav-btn" data-section="about">About</button>
         </nav>
       </div>
       <div class="search-container">
@@ -51,13 +51,13 @@
     <div id="directory-overlay" class="directory-overlay" hidden>
       <div class="directory-modal">
         <div class="directory-modal-header">
-          <button class="directory-feedback-btn" aria-label="Send feedback about this directory entry" title="Send feedback">
+          <button type="button" class="directory-feedback-btn" aria-label="Send feedback about this directory entry" title="Send feedback">
             💬
           </button>
-          <button class="directory-share-btn" aria-label="Share this directory entry" title="Share">
+          <button type="button" class="directory-share-btn" aria-label="Share this directory entry" title="Share">
             🔗
           </button>
-          <button class="close-btn" aria-label="Close directory entry">
+          <button type="button" class="close-btn" aria-label="Close directory entry">
             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
               <path d="M18 6L6 18M6 6l12 12" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -68,24 +68,24 @@
     </div>
   </div>
 
-  <button id="share-btn" aria-label="Share this resource guide" title="Share">
+  <button type="button" id="share-btn" aria-label="Share this resource guide" title="Share">
     🔗
   </button>
 
-  <button id="toc-btn" aria-label="Jump to table of contents" title="Table of Contents">
+  <button type="button" id="toc-btn" aria-label="Jump to table of contents" title="Table of Contents">
     📑
   </button>
 
-  <button id="font-size-btn" aria-label="Adjust font size" title="Font Size">
-    <span style="font-size: 1.1em;">A</span><span style="font-size: 0.7em;">A</span>
+  <button type="button" id="font-size-btn" aria-label="Adjust font size" title="Font Size">
+    <span class="font-size-large">A</span><span class="font-size-small">A</span>
   </button>
 
   <div id="font-size-popup" class="font-size-popup" hidden>
     <div class="font-size-popup-header">Text Size</div>
     <div class="font-size-controls">
-      <button id="font-size-decrease" aria-label="Decrease font size">A−</button>
-      <button id="font-size-reset" aria-label="Reset to default font size">Default</button>
-      <button id="font-size-increase" aria-label="Increase font size">A+</button>
+      <button type="button" id="font-size-decrease" aria-label="Decrease font size">A−</button>
+      <button type="button" id="font-size-reset" aria-label="Reset to default font size">Default</button>
+      <button type="button" id="font-size-increase" aria-label="Increase font size">A+</button>
     </div>
     <div class="font-size-preview" aria-live="polite">100%</div>
   </div>

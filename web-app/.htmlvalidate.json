@@ -1,0 +1,8 @@
+{
+  "extends": ["html-validate:recommended"],
+  "rules": {
+    "prefer-native-element": ["warn", {
+      "exclude": ["listbox"]
+    }]
+  }
+}
