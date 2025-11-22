@@ -1079,6 +1079,105 @@ tbody tr:hover {
   display: flex;
 }
 
+/* Font size control button */
+#font-size-btn {
+  position: fixed;
+  bottom: 80px;
+  left: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: var(--brand-blue);
+  color: white;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 999;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: serif;
+}
+
+#font-size-btn:hover {
+  background-color: #2a5dd4;
+  transform: scale(1.1);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+#font-size-btn:active {
+  transform: scale(0.95);
+}
+
+/* Font size popup */
+.font-size-popup {
+  position: fixed;
+  bottom: 140px;
+  left: 20px;
+  background-color: #ffffff;
+  border: 2px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  z-index: 1001;
+  min-width: 180px;
+}
+
+.font-size-popup[hidden] {
+  display: none;
+}
+
+.font-size-popup-header {
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  text-align: center;
+  color: var(--text-primary);
+  font-size: 0.9rem;
+}
+
+.font-size-controls {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}
+
+.font-size-controls button {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  min-width: 50px;
+}
+
+.font-size-controls button:hover {
+  background-color: var(--brand-blue);
+  color: white;
+  border-color: var(--brand-blue);
+}
+
+.font-size-controls button:active {
+  transform: scale(0.95);
+}
+
+#font-size-reset {
+  font-size: 0.85rem;
+}
+
+.font-size-preview {
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+}
+
 .share-notification {
   position: fixed;
   bottom: 90px;
@@ -1430,6 +1529,21 @@ tbody tr:hover {
     font-size: 20px;
     bottom: 15px;
     right: 15px;
+  }
+
+  #font-size-btn {
+    width: 45px;
+    height: 45px;
+    font-size: 16px;
+    bottom: 70px;
+    left: 15px;
+  }
+
+  .font-size-popup {
+    bottom: 125px;
+    left: 15px;
+    min-width: 160px;
+    padding: 0.75rem;
   }
 
   .feedback-modal-content {

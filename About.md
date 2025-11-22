@@ -24,6 +24,7 @@ It uses colors and icons to help you quickly identify what kind of link or butto
 | **Feedback**          | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#5a93ff;color:white;font-size:24px;">💬</span> | Sends feedback about errors or suggestions for improvement |
 | **Share**             | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#e75e13;color:white;font-size:24px;">🔗</span> | Shares a link to this resource guide |
 | **Section Share**     | <span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background-color:rgba(231,94,19,0.1);border:1px solid #e75e13;font-size:14px;">🔗</span> | Shares a link to a specific section or subsection |
+| **Text Size**         | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#3877ff;color:white;font-weight:bold;font-family:serif;"><span style="font-size:20px;">A</span><span style="font-size:14px;">A</span></span> | Adjusts text size for easier reading; your preference is saved |
 
 ## About This Project
 

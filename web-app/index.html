@@ -76,6 +76,20 @@
     📑
   </button>
 
+  <button id="font-size-btn" aria-label="Adjust font size" title="Font Size">
+    <span style="font-size: 1.1em;">A</span><span style="font-size: 0.7em;">A</span>
+  </button>
+
+  <div id="font-size-popup" class="font-size-popup" hidden>
+    <div class="font-size-popup-header">Text Size</div>
+    <div class="font-size-controls">
+      <button id="font-size-decrease" aria-label="Decrease font size">A−</button>
+      <button id="font-size-reset" aria-label="Reset to default font size">Default</button>
+      <button id="font-size-increase" aria-label="Increase font size">A+</button>
+    </div>
+    <div class="font-size-preview" aria-live="polite">100%</div>
+  </div>
+
   <script type="module" src="/src/main.js"></script>
 </body>
 </html>

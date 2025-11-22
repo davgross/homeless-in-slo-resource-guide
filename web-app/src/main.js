@@ -5,6 +5,7 @@ import { enhanceLinks } from './linkEnhancer.js';
 import { parseMarkdown, extractDirectoryEntries } from './markdownParser.js';
 import { initFeedback } from './feedback.js';
 import { initShareButton, createSectionShareButton, createDirectoryShareButton } from './shareButton.js';
+import { initFontSizeControl } from './fontSizeControl.js';
 import { getStrings } from './strings.js';
 
 // Import markdown files directly as raw text
@@ -91,6 +92,9 @@ async function init() {
 
   // Initialize TOC navigation button
   initTOCButton();
+
+  // Initialize font size control
+  initFontSizeControl();
 
   // Initialize scroll padding adjustment
   updateScrollPadding();
