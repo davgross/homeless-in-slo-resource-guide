@@ -19,7 +19,7 @@ export default defineConfig({
         id: '/slo-resources/',
         name: 'SLO County Homeless Resource Guide',
         short_name: 'VivaSLO',
-        description: 'Comprehensive resource guide for people experiencing homelessness in San Luis Obispo County',
+        description: 'Comprehensive resource guide for avoiding, surviving, and escaping homelessness in San Luis Obispo County',
         theme_color: '#3877ff',
         background_color: '#ffffff',
         display: 'standalone',
