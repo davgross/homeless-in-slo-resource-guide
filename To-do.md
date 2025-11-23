@@ -8,7 +8,7 @@
 
 1. Consider which open-source license to use for the project.
 
-1. Consider ways to make pages, sections, subsections, and directory entries available for printing in a graceful way.
+1. Consider ways to make individual pages, sections, subsections, and directory entries available for printing in a graceful way.
 
 1. Replace "--" dashes, ' and " straight-quotes, and ' apostrophes with better unicode characters. (Claude struggles with such characters, so this may be a task for a human.)
 
