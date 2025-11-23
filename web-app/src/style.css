@@ -964,25 +964,417 @@ tbody tr:hover {
 
 /* Print Styles */
 @media print {
+  /* === HIDE INTERACTIVE ELEMENTS === */
   .app-header,
   .search-container,
-  .directory-overlay {
+  .search-results,
+  .directory-overlay,
+  .feedback-modal,
+  .feedback-fab,
+  #share-btn,
+  #toc-btn,
+  #font-size-btn,
+  #install-btn,
+  .font-size-popup,
+  .share-notification,
+  .section-share-btn,
+  .skip-link {
     display: none !important;
+  }
+
+  /* === PAGE SETUP === */
+  @page {
+    margin: 0.75in;
+    size: letter;
+  }
+
+  @page :first {
+    margin-top: 0.5in;
+  }
+
+  html {
+    font-size: 11pt;
+    scroll-padding-top: 0;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+    line-height: 1.4;
+  }
+
+  /* === LAYOUT === */
+  #app {
+    display: block;
   }
 
   .app-main {
     padding: 0;
+    max-width: none;
+    margin: 0;
   }
 
-  a {
+  .content-section {
+    background-color: white !important;
+    padding: 0;
+    min-height: auto;
+    animation: none;
+  }
+
+  /* Show all sections when printing (user can use browser's print selection) */
+  .content-section[hidden] {
+    display: block !important;
+  }
+
+  /* === TYPOGRAPHY === */
+  h1 {
+    font-size: 18pt;
+    margin-bottom: 0.5em;
+    color: black !important;
+    page-break-after: avoid;
+  }
+
+  h2 {
+    font-size: 14pt;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    color: black !important;
+    page-break-after: avoid;
+    border-bottom: 1pt solid #666;
+    padding-bottom: 0.25em;
+  }
+
+  h3 {
+    font-size: 12pt;
+    margin-top: 0.75em;
+    margin-bottom: 0.25em;
+    color: black !important;
+    page-break-after: avoid;
+  }
+
+  p {
+    margin-bottom: 0.5em;
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* === LINKS - SHOW URLS === */
+  a[href] {
     text-decoration: none;
-    color: var(--text-color);
+    color: black !important;
   }
 
-  a::after {
-    content: " (" attr(href) ")";
+  /* External links: show URL */
+  a[href^="http"]:not([href*="slo"])::after {
+    content: " [" attr(href) "]";
     font-size: 0.8em;
-    color: #666;
+    color: #444;
+    word-break: break-all;
+  }
+
+  /* Remove external link arrow for print */
+  a[target="_blank"]::after {
+    content: " [" attr(href) "]" !important;
+    font-size: 0.8em;
+    color: #444;
+  }
+
+  /* Phone links: show number clearly */
+  a[href^="tel:"] {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    color: black !important;
+    font-weight: normal;
+  }
+
+  a[href^="tel:"]::before {
+    content: "☎ " !important;
+  }
+
+  a[href^="tel:"]::after {
+    content: none !important;
+  }
+
+  /* Email links: show address */
+  a[href^="mailto:"] {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    color: black !important;
+    font-weight: normal;
+  }
+
+  a[href^="mailto:"]::before {
+    content: "✉ " !important;
+  }
+
+  a[href^="mailto:"]::after {
+    content: none !important;
+  }
+
+  /* SMS links */
+  a[href^="sms:"] {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    color: black !important;
+    font-weight: normal;
+  }
+
+  a[href^="sms:"]::before {
+    content: "📱 " !important;
+  }
+
+  a[href^="sms:"]::after {
+    content: none !important;
+  }
+
+  /* Directory links: print as regular text */
+  a[data-directory-link] {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    color: black !important;
+    font-weight: 600;
+  }
+
+  a[data-directory-link]::after {
+    content: " (see Directory)" !important;
+    font-size: 0.85em;
+    font-style: italic;
+    font-weight: normal;
+  }
+
+  /* Map links: show address */
+  a.map-link {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    color: black !important;
+    font-weight: normal;
+  }
+
+  a.map-link::before {
+    content: "📍 " !important;
+  }
+
+  a.map-link::after {
+    content: none !important;
+  }
+
+  /* === LISTS === */
+  ul, ol {
+    margin-left: 1.5em;
+    margin-bottom: 0.5em;
+  }
+
+  li {
+    margin-bottom: 0.25em;
+  }
+
+  /* === TABLES === */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    font-size: 10pt;
+    page-break-inside: avoid;
+  }
+
+  /* Restore table structure for print (undo mobile card layout) */
+  table thead {
+    position: static !important;
+    width: auto !important;
+    height: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: visible !important;
+    clip: auto !important;
+    white-space: normal !important;
+    border: 0 !important;
+    display: table-header-group !important;
+  }
+
+  table,
+  table tbody,
+  table tr {
+    display: table !important;
+    width: 100% !important;
+  }
+
+  table tbody {
+    display: table-row-group !important;
+  }
+
+  table tr {
+    display: table-row !important;
+    margin-bottom: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
+
+  table td {
+    display: table-cell !important;
+    border: 0.5pt solid #999 !important;
+    padding: 0.25em 0.5em !important;
+  }
+
+  table td::before {
+    display: none !important;
+  }
+
+  th {
+    background-color: #e0e0e0 !important;
+    border: 0.5pt solid #999 !important;
+    padding: 0.25em 0.5em;
+    text-align: left;
+    font-weight: 600;
+    color: black !important;
+  }
+
+  /* === BLOCKQUOTES === */
+  blockquote {
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.5em;
+    padding-left: 1em;
+    border-left: 2pt solid #666;
+    background-color: #f5f5f5 !important;
+    color: black !important;
+  }
+
+  /* === TOC LOZENGES - Convert to simple list for print === */
+  .toc-section-wrapper {
+    background: transparent !important;
+    padding: 0;
+    margin: 0;
+  }
+
+  .toc-lozenge-grid {
+    display: block !important;
+    column-count: 2;
+    column-gap: 2em;
+  }
+
+  .toc-lozenge {
+    display: block !important;
+    min-height: auto !important;
+    padding: 0.25em 0 !important;
+    background: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .toc-lozenge::before {
+    display: none !important;
+  }
+
+  .toc-lozenge-icon {
+    display: inline !important;
+    font-size: 1em !important;
+    margin-right: 0.25em;
+  }
+
+  .toc-lozenge-text {
+    display: inline !important;
+    font-size: 10pt !important;
+    color: black !important;
+  }
+
+  /* === DIRECTORY ENTRIES === */
+  .directory-entry {
+    border: 1pt solid #ccc;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+    background-color: white !important;
+  }
+
+  .directory-entry h2 {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-top: 0;
+  }
+
+  /* === PAGE BREAKS === */
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  p, blockquote, ul, ol, table {
+    page-break-inside: avoid;
+  }
+
+  /* Allow breaks for very long lists */
+  ul, ol {
+    page-break-inside: auto;
+  }
+
+  li {
+    page-break-inside: avoid;
+  }
+
+  /* Keep directory entries together */
+  .directory-entry,
+  .toc-lozenge {
+    page-break-inside: avoid;
+  }
+
+  /* === IMAGES === */
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  .poison-oak-images p {
+    display: block !important;
+  }
+
+  .poison-oak-images img {
+    max-width: 30% !important;
+    display: inline-block !important;
+    margin: 0.5em !important;
+  }
+
+  /* === SECTION BACKGROUNDS - Remove for print === */
+  #resources-section,
+  #directory-section,
+  #about-section {
+    background-color: white !important;
+  }
+
+  /* === PRINT HEADER === */
+  /* Add a simple header showing the guide name */
+  #resources-section::before {
+    content: "SLO County Homeless Resource Guide";
+    display: block;
+    font-size: 18pt;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 2pt solid black;
+  }
+
+  #directory-section::before {
+    content: "SLO County Homeless Resource Guide — Directory";
+    display: block;
+    font-size: 18pt;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 2pt solid black;
+  }
+
+  /* === ANIMATIONS - Disable === */
+  * {
+    animation: none !important;
+    transition: none !important;
   }
 }
 
