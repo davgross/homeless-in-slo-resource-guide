@@ -298,6 +298,6 @@ All licenses listed above are permissive open-source licenses that allow:
 - Montserrat Alternates: Optional attribution (recommended but not required)
 
 **License Compatibility:**
-All licenses are compatible with each other and with the MIT license used for this project.
+All licenses listed above are compatible with each other and with most common open-source licenses. The license for this project itself has not yet been chosen (see To-do.md).
 
 For the most up-to-date license information, please refer to the respective project repositories linked above.

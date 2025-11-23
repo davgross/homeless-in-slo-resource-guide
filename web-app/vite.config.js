@@ -16,12 +16,16 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png', 'icon-192-maskable.png', 'icon-512-maskable.png'],
       manifest: {
+        id: '/slo-resources/',
         name: 'SLO County Homeless Resource Guide',
-        short_name: 'SLO Resources',
+        short_name: 'VivaSLO',
         description: 'Comprehensive resource guide for people experiencing homelessness in San Luis Obispo County',
-        theme_color: '#2c5282',
+        theme_color: '#3877ff',
         background_color: '#ffffff',
         display: 'standalone',
+        orientation: 'portrait-primary',
+        categories: ['social', 'lifestyle', 'utilities'],
+        lang: 'en-US',
         icons: [
           {
             src: 'icon-192.png',
@@ -46,6 +50,11 @@ export default defineConfig({
             sizes: '512x512',
             type: 'image/png',
             purpose: 'maskable'
+          },
+          {
+            src: 'apple-touch-icon.png',
+            sizes: '180x180',
+            type: 'image/png'
           }
         ]
       },
