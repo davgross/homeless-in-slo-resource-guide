@@ -509,6 +509,8 @@ Some other low-income options include:
 - [Roosevelt Family Apartments](https://www.rooseveltfamilyapts.com/) in Nipomo.
 - [San Luis Bay Apartments](https://www.gsfpi.com/) in Nipomo.
 
+If you are a refugee from another country, you may be able to get some help establishing housing from [**SLO for HOME**](Directory.md#SLO4Home).
+
 #### For Seniors
 
 <!-- Note: the “Assisted Living Waiver” program is not available in SLO yet. There are no Assisted Living / Residential Care For the Elderly (RCFE) facilities in SLO County that accept Medi-Cal. If you need a Medi-Cal facility of that type, you’ll have to go out of the area. Source: Amelia Grover’s presentation at the 5 Nov. 2025 Collaborative Outreach meeting -->
@@ -565,7 +567,7 @@ The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopean
 ### <a id="housing-veterans">For U.S. Military Veterans</a>
 
 U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
-This help includes housing assistance, case management, and financial assistance; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, and utilities; legal assistance, employment counseling, housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, VA benefits assistance, landlord-tenant mediation, and future housing stability planning.
+This help includes housing assistance, case management, and financial assistance; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, and utilities; housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, landlord-tenant mediation, and future housing stability planning.
 You must have a DD214 with discharge other than dishonorable.
 
 The [**RVs for Veterans**](Directory.md#RVs-for-Veterans) program can get you a free RV (e.g. motorhome, travel trailer, or fifth wheel).
@@ -574,6 +576,9 @@ Contact them to be put on a waiting list for the next RV.
 Priority is given to homeless veterans, veterans who receive insufficient benefits to pay rent, veterans who do not qualify for VA assistance, and veterans who need to live alone because of PTSD.
 Sometimes the program also has RVs available for people who are experiencing homelessness who are not veterans.
 The RVs are in working condition, with no leaks; you must obtain insurance.
+
+Homeless veterans can get help from the U.S. Department of Housing and Urban Development’s V.A. Supportive Housing (VASH) program, which can give you vouchers to pay for permanent housing.
+Call [877-4AID-VET](tel:+1-877-424-3838) or ask for help from [**SLO County Veterans Services**](Directory.md#Veterans-Services).
 
 > See [Automobile Insurance and Repair](#auto-insurance-and-repair) for tips on how to obtain low-cost auto insurance.
 
@@ -690,6 +695,7 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 | ------------ | -------------------------------------------------------------------------- | ------------------------ |
 | Atascadero   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm daily                |
 | Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 6pm Tuesday & Wednesday  |
+| Cal Poly     | [**Front Porch**](Directory.md#Front-Porch)                                | Wednesday dinner         |
 | Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily         |
 | Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesday            |
 | Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 4:30pm Monday            |
@@ -946,6 +952,8 @@ You can catch these trains and buses from the following locations in SLO County:
 | Cal Poly, <a href="#" class="map-link" data-lat="35.298858" data-lon="-120.655675" data-zoom="17" data-label="Bus Stop">1 Grand Ave., SLO</a> | Yes       | No        | No           | Yes        |
 | Railroad Museum, <a href="#" class="map-link" data-lat="35.273127" data-lon="-120.655653" data-zoom="17" data-label="Railroad Museum">1940 Santa Barbara Ave., SLO</a> | Yes       | Yes       | No           | No         |
 | Train Station, <a href="#" class="map-link" data-lat="35.275632" data-lon="-120.655133" data-zoom="17" data-label="Train Station">1011 Railroad Ave., SLO </a> | Yes       | No        | Yes          | Yes        |
+
+Recent refugees from other countries can also get help with transportation from [**SLO for HOME**](Directory.md#SLO4Home).
 
 ### <a id="transportation-for-seniors">Transportation Resources for Seniors</a>
 
@@ -1297,6 +1305,8 @@ You can get help applying from the [**SLO County Department of Social Services**
 To get help in indigenous Mexican languages, call [805-483-1166](tel:+1-805-483-1166), or visit [mixteco.org/indigenous-interpreter-services/](https://mixteco.org/indigenous-interpreter-services/).
 If you are a patient of Adventist Health, you can get help from them by calling [844-827-5047](tel:+1-844-827-5047).
 
+If you are a farm laborer, you may also be able to get help applying for Medi-Cal from the [Civil Assistance Program](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) of the California Farmworker Foundation.
+
 ##### Prescription Medication
 
 For information about obtaining prescription medicine through Medi-Cal, contact [**Medi-Cal Rx**](Directory.md#Medi-Cal).
@@ -1462,6 +1472,7 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) at [**CAPSLO**]
 [**Tri-County GLAD**](Directory.md#Tri-County-GLAD) offers some mental health services to people who are deaf or hard of hearing.
 
 The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers mental health care to qualifying U.S. military veterans.
+And [**SLO Vet Center**](Directory.md#SLO-Vet-Center) offers confidential counseling and other mental health care to combat veterans (and certain other veterans) and to victims of military sexual trauma.
 
 ### <a id="reproductive-health">Reproductive Health
 
@@ -1694,6 +1705,7 @@ They accept private health insurance and self-payment.
 [**Transitions Mental Health Association**](Directory.md#TMHA) has substance use support groups for people who also have other mental health needs.
 
 The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers substance abuse treatment to qualifying U.S. military veterans.
+The [**County Veterans Services Offices**](Directory.md#Veterans-Services) can also refer veterans to alcohol and drug dependency treatment programs.
 
 You can search for other rehab / addiction / detox programs in SLO County at websites like [addictions.com](https://www.addictions.com/rehabs/california/san-luis-obispo/), [recovery.com](https://recovery.com/san-luis-obispo/), or [rehabs.org](https://rehabs.org/centers/california/san-luis-obispo/).
 
@@ -2013,6 +2025,10 @@ If you have a criminal record that makes it difficult for you to find employment
 The “Clean Slate Clinic” is a joint project of [**People’s Justice Project**](Directory.md#Peoples-Justice-Project), [**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance), and [**SLO College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic).
 Contact them at [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805-242-6691) to schedule an appointment.
 
+U.S. military veterans who have entered the criminal justice system may be able to get services from [“Veterans Treatment Court”](https://www.slocounty.ca.gov/departments/district-attorney/adult-prosecutions/veterans-treatment-court) if the activity they were arrested or prosecuted for is attributed to conditions like post-traumatic stress disorder, traumatic brain injury, sexual trauma, or other causes related to military service.
+Veterans Treatment Court is a rigorous 12–18 month program of supervised probation customized for the needs of traumatized veterans which includes treatment, counseling, and regular court appearances.
+Contact [**County Veterans Services**](Directory.md#Veterans-Services) for help getting into this program.
+
 ### <a id="housing-legal">Legal help regarding housing (discrimination, landlord disputes, etc.)</a>
 
 [**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) provides free civil legal assistance to low-income people.
@@ -2035,6 +2051,10 @@ It tries to explain how you can best assert and defend your legal rights as a re
 
 The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being improperly evicted from a long term care facility.
 
+U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
+This help includes temporary financial assistance for rent, deposits, and utilities, legal assistance, rental agreement education, and landlord-tenant mediation.
+You must have a DD214 with discharge other than dishonorable.
+
 ### <a id="benefits-legal">Help with benefits, wrangling with health insurers, et cetera</a>
 
 > See the [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security) section for advice specific to those programs.
@@ -2045,6 +2065,8 @@ To use the local HiCAP program you must be eligible for Medicare and you must be
 HiCAP is free.
 
 Central California Legal Services’ [Health Consumer Center](https://centralcallegal.org/health/) program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment.
+
+If you are a U.S. military veteran, you can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
 
 <!--
 To-do: add more stuff about e.g. ombudsmen who can help you with health insurance denial or other denials of benefits.
@@ -2159,8 +2181,9 @@ If you are filing a family law case, you can get free help from [**SLO Court Sel
 
 ### <a id="immigration-law">Immigration Law</a>
 
-[**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) operates Dream (or Monarch) Centers at local colleges (Cal Poly, Cuesta, and Allan Hancock).
-These centers help students with (among other things) DACA application assistance and other legal help.
+<!-- MICOP's "Immigration Legal Assistance" (MILA) program seems to no longer be functioning? -->
+
+[**SLO County UndocuSupport**](Directory.md#SLO-County-UndocuSupport) has [a list of legal assistance services](https://www.sloundocusupport.org/immigrantservicesguide) that includes [a chart of which local legal aid groups provide which specific immigration-related legal services](https://docs.google.com/spreadsheets/d/1FRaVSHBETqYvk1-aDJ-ULYsHvpfXaLFuAhS7tjwPBKA/edit?usp=sharing).
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) has an [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/) to help people with issues such as U.S citizenship applications, immigration status changes, DACA, U-Visas, VAWA-Visas, and consular visa processes.
 
@@ -2175,8 +2198,19 @@ Schedule an appointment at their website or by calling [831-582-3600](tel:+1-831
 
 [**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some free [immigration resources](https://selfhelp.courts.ca.gov/immigration).
 
-[**Cuesta College**](Directory.md#Cuesta-College) provides free immigration legal services to students, faculty, and staff.
-Make an appointment to talk to an advisor [here](https://findyourally.com/) or call [805-246-3867](tel:+1-805-246-3867) or [805-546-3109](tel:+1-805-546-3109)
+[**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) operates Dream (or Monarch) Centers at local colleges (Cal Poly, Cuesta, and Allan Hancock).
+These centers help students with (among other things) DACA application assistance and other legal help:
+
+- [**Cuesta College**](Directory.md#Cuesta-College) provides free immigration legal services to students, faculty, and staff.
+  Make an appointment to talk to an advisor [here](https://findyourally.com/) or call [805-246-3867](tel:+1-805-246-3867) or [805-546-3109](tel:+1-805-546-3109)
+- Cal Poly’s Dream Center provides free and confidential [**Immigrant Legal Defense**](Directory.md#Immigrant-Legal-Defense) to Cal Poly students, recent graduates, employees, and immediate family members.
+  This includes deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications
+- The Allan Hancock College [AIM to Dream Center](https://www.hancockcollege.edu/aimtodream/index.php) offers free immigration legal services to all students, faculty, and staff.
+  This includes DACA, citizenship, family petitions, adjustments of status, among other things.
+
+If you call the Rapid Response Hotline at [805-870-8855](tel:+1-805-870-8855), you can get know-your-rights information and referrals to trusted attorneys (nonprofit, private, or public) from the “805 Immigrant Rapid Response Network.”
+
+The [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) and the [Immigrant Defense Project](https://www.immigrantdefenseproject.org/) can also help you with know-your-rights information and with finding legal help.
 
 ### <a id="senior-legal-services">Senior Legal Services</a>
 
@@ -2661,7 +2695,7 @@ You cannot apply directly for help from Womenade, but you must apply through ano
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) has a micro-grant program for people who need one-time emergency financial assistance for needs like rent assistance, vehicle needs, transportation, or food.
 You cannot apply for this yourself, but must have a case worker apply on your behalf.
 
-[Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) will match with its own money the grant given by a church or other Christian organization to a disabled peron who has particular financial needs associated with their disability (such as the need for assistive equipment or rehabilitative therapy).
+[Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) will match with its own money the grant given by a church or other Christian organization to a disabled person who has particular financial needs associated with their disability (such as the need for assistive equipment or rehabilitative therapy).
 Your application to this fund must include documentation from that church or Christian organization, among other things.
 
 <!--
@@ -2693,6 +2727,7 @@ If you are also a victim of human trafficking, domestic violence, or other serio
 For any of these programs, you can apply in person at a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) office.
 Bring proof of income and assets and documentation about your refugee or entry status, including your sponsor’s information if you have a sponsor.
 For TCVAP, you can also apply online at [BenefitsCal](https://benefitscal.com/).
+Refugees can also get help applying for these programs from [**SLO for HOME**](Directory.md#SLO4Home).
 
 If you have become unemployed, you may be able to apply for unemployment insurance benefits.
 This temporarily pays you a portion of the salary you had earned while you were working.
@@ -2701,6 +2736,10 @@ You must have become totally or partially unemployed, and through no fault of yo
 You must also be able to work, looking for paid work, and able to accept paid work.
 You can apply for unemployment benefits from California’s [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) through [the myEDD website](edd.ca.gov/Unemployment/UI_Online.htm) or by phone ([800-300-5616](tel:+1-800-300-5616), TTY: [800-815-9387](tel:+1-800-815-9387)).
 If you have questions, you can also email [WSBSanLuisObispoInfo@edd.ca.gov](mailto:WSBSanLuisObispoInfo@edd.ca.gov).
+
+If you are a U.S. military veteran, you can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
+
+If you are a farm laborer, you may be able to get some help applying for benefits from the [Civil Assistance Program](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) of the California Farmworker Foundation.
 
 ### <a id="utility-assistance-programs">Utility Assistance Programs</a>
 
@@ -2787,6 +2826,9 @@ The [Ticket to Work Program](https://choosework.ssa.gov/) is a free, voluntary p
 It can give you free career counseling, vocational rehabilitation, and job placement and training.
 Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply.
 
+If you are a U.S. military veteran, you may also qualify for a variety of other benefits.
+You can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
+
 -----
 
 ## <a id="employment-job-boards">Employment, Job Boards, Etc.</a>
@@ -2816,6 +2858,8 @@ The [**Employment Development Department (EDD)**](Directory.md#Employment-Develo
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program can help you prepare for a variety of standardized tests, learn professional skills, and polish your resume.
 Its [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/jobandcareeraccelerator5/home?AuthToken=4DE278CD-C0CB-4ED5-84D4-2DFC47FF903D) platform can help you prepare a good resume and cover letter, can improve your job search technique, and can better prepare you for a job interview.
+
+Recent refugees from other countries can also get help finding employment from [**SLO for HOME**](Directory.md#SLO4Home).
 
 <!-- Needs more research (unclear if this is just another name for SLOCal Careers or some other program):
 1. Workforce Development Board of SLO County
@@ -2997,6 +3041,8 @@ Sign up [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) gives you access to the [ProCitizen](https://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096) citizenship prep course, covering the civics, reading, and writing portions of the U.S. citizenship exam.
 Its [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program and [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) program also include some U.S. citizenship test preparation.
 
+If you are a refugee from another country, you may be able to get some help with your education from [**SLO for HOME**](Directory.md#SLO4Home).
+
 ### <a id="literacy">Literacy</a>
 
 [**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers Basic English Literary course that takes place all year at its Oceano Learning Center location.
@@ -3048,6 +3094,8 @@ English as a Second Language (ESL) classes are for learners who already have ano
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) offers free [ESL tutoring](https://catalog.slolibrary.org/tlc) and on-line conversation practice groups.
 To apply, fill out [the form on their website](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) or call [805-781-5077](tel:+1-805-781-5077).
+
+Recent refugees from other countries can also get ESL help from [**SLO for HOME**](Directory.md#SLO4Home).
 
 ### <a id="education-for-people-with-disabilities">For People with Disabilities</a>
 
@@ -3130,79 +3178,13 @@ TBD
 
 <!--
 
-1. Veterans
-   1. Refer people out to the veterans’ resource guide
-   1. See also pp. 112+ of the Senior guide
-   1. Supportive Services for Veteran Families ([5CHC](https://5chc.org/programs/ssvf-supportive-services-for-veteran-families)) ([CAPSLO](https://capslo.org/ssvf/))
-      - Location/Phone: See [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families) in the [Directory](Directory.md)
-      - housing stability resources for veterans
-   1. Veteran’s Service Office
-   1. Vet Center counseling (for war vets)
-   1. CAPSLO Veterans Services [805-534-1698](tel:+1-805-534-1698)
-   1. Homeless Services, Veterans Support [805-781-5766](tel:+1-805-781-5766)
-   1. SLO Veterans Support Program
-   1. [Veterans Connect](https://slolibrary.org/index.php/vets)
-   1. American Legion
-      - [805-543-6445](tel:+1-805-543-6445) / <a href="#" class="map-link" data-lat="35.288680" data-lon="-120.653533" data-zoom="17" data-label="American Legion">1661 Mill St., SLO</a>
-   1. [**Central Coast Veterans Helping Veterans**](Directory.md#Central-Coast-Veterans-Helping-Veterans)
-   1. [**Central Coast Veterans Services Collaborative**](Directory.md#Central-Coast-Veterans-Services-Collaborative)
-   1. Department of Veterans Affairs / HUD-VASH program
-      - <a href="#" class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="Dept. of Veterans Affairs">1288 Morro St. #200, SLO</a>
-1. Seniors: Refer people out to the seniors’ resource guide
-1. People in immigration/resident alien/naturalization process
-   1. [**Immigrant Legal Defense (ILD)**](Directory.md#Immigrant-Legal-Defense)
-      - Services: Free, confidential immigration legal services including deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications
-      - Cost: Free
-      - How to access: Schedule appointments via Calendly link on Dream Center website
-      - Source: [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
-   1. 805 Immigrant
-      - Website: [sites.google.com/causenow.org/ccirc/home](https://sites.google.com/causenow.org/ccirc/home?authuser=0)
-      - Mission: A coalition in San Luis Obispo, Santa Barbara, and Ventura counties that protects and advocates the rights of immigrant communities in the Central Coast
-      - Services:
-         - Rapid response network for immigrants
-         - Know Your Rights (KYR) videos (available in Spanish, Mixteco, and English)
-         - Resource map for immigrants across the tri-county area
-         - Emergency support guidance for detained individuals
-      - Alert/Emergency Number: [805-870-8855](tel:+1-805-870-8855)
-      - Source: [sites.google.com/causenow.org/ccirc/home](https://sites.google.com/causenow.org/ccirc/home?authuser=0)
-   1. [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success)
-      - Coverage: Northern Santa Barbara and San Luis Obispo Counties
-      - Services: DREAM Centers (safe spaces), legal support (DACA/asylum/citizenship), financial aid guidance, mental health counseling
-      - Cost: Free legal services and counseling
-      - Cross-reference: Also listed in [Legal help & mediation section](#legal-help)
-      - Website: [ccc-uss.org](https://www.ccc-uss.org/)
-   1. [SLO County UndocuSupport](https://www.sloundocusupport.org/)
-      - Mission: Financial support for undocumented immigrant families during crises
-      - Eligibility: SLO County undocumented immigrants and mixed-status families experiencing loss of housing, job, or income
-      - Services: Bill payments, gift cards, direct funding based on individual family needs
-         - Cross-reference: Also listed in [Emergency Financial Help](#emergency-financial-help)
-      - Partners: CAPSLO, Center for Family Strengthening, Community Foundation SLO County
-      - Phone: [805-543-2323](tel:+1-805-543-2323)
-      - Email: [undocusupport@cfsloco.org](mailto:undocusupport@cfsloco.org)
-   1. [**SLO4Home**](Directory.md#SLO4Home) (Refugee Resettlement)
-      - Services: Refugee resettlement, one-year support program for self-sufficiency, partnership with Church World Services
-      - Target: Afghan refugees and other refugee families establishing new lives on Central Coast
-      - Eligibility: Serves legally immigrated families and refugees on the Central Coast. Provides ongoing assistance and advocacy for refugee families in housing, transportation, job search, language support, and education.
-      - Website: [slo4home.org](https://www.slo4home.org/)
-   1. [**Catholic Charities**](Directory.md#Catholic-Charities)
-      - Immigration Services: Legal representation for refugees and asylum seekers, immigration guidance
-      - Target: 30,000+ people served annually including refugees, asylum seekers, and immigrants
-      - Additional: Emergency assistance, rent/utility help [Source: https://catholiccharitiesdom.org/]
+1. Children, or people with children
    1. California Farmworker Foundation
-      - Services: Education (Nueva Generación Scholarship program), health & wellness, civil assistance including immigration support
-      - Note: Primarily serves farmworkers in Fresno, Kern, Kings, Madera, and Tulare Counties; contact them to confirm services available to SLO County residents
+      - Education (Nueva Generación Scholarship program
+      - Note: Primarily serves farmworkers in Fresno, Kern, Kings, Madera, and Tulare Counties; contact them to confirm this is available to SLO County residents
       - Phone: [661-778-0015](tel:+1-661-778-0015)
       - Email: [info@californiafarmworkers.org](mailto:info@californiafarmworkers.org)
       - Website: [californiafarmworkers.org](https://californiafarmworkers.org/)
-   1. Mixteco Indigena Community Organizing Project (MICOP)
-      - Services: Immigration legal services (free to very low-cost immigration legal advice through MILA program), case management, referrals, language interpretation, parenting classes, support for indigenous survivors of domestic violence, traditional Indigenous wellness and healing practices, labor justice, health advocacy, literacy and adult education, reproductive health education
-      - Target: Indigenous migrant communities, particularly Mixteco and other indigenous persons, as well as low-income persons
-      - Coverage: Ventura, Santa Barbara, and San Luis Obispo Counties
-      - Phone: [805-296-3386](tel:+1-805-296-3386)
-      - Location: <a href="#" class="map-link" data-lat="35.630007" data-lon="-120.691139" data-zoom="17" data-label="MICOP">1502 15th St. #B, Paso Robles</a>
-      - Website: [mixteco.org](https://mixteco.org/)
-      - Source: [mixteco.org](https://mixteco.org/), [immigrationadvocates.org](https://www.immigrationadvocates.org/nonprofit/legaldirectory/organization.720274-Mixteco_Indigena_Community_Organizing_Project_MICOP)
-1. Children, or people with children
    1. See also [variety of pregnancy/postpartum resources here](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/pregnancy-postpartum-related-services)
    1. [5CHC Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach)
       - Target: Unaccompanied youth aged 16–24
@@ -3347,13 +3329,6 @@ TBD
       - Location/Phone: See [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) in the [Directory](Directory.md)
    1. Childcare Resource Center
    1. Cooperative Agencies Resources for Education (CARE)—child care expenses [cuesta.edu/student-support/support-programs/eops/care.html](https://www.cuesta.edu/student-support/support-programs/eops/care.html)
-1. College Students (e.g. Cuesta, Cal Poly)
-   1. [**Front Porch**](Directory.md#Front-Porch)
-      - Services: Community space for Cal Poly and Cuesta students; free coffee, tea, snacks; home-cooked meal on Wednesday nights
-      - Also has outlets for charging phones & other devices
-      - Mission: Create environment for students to build genuine relationships; welcoming to all students without obligation
-      - Serves 400+ faculty, coaches, students daily; Wednesday nights draw 200+ students
-      - Eligibility: Open to “students from all walks of life without obligation”—no explicit requirement to be enrolled at Cal Poly or Cuesta, welcomes all who want to study, get coffee, or meet people.
 1. People with specific (e.g. developmental, TBI, diabetes, blindness) disabilities
    1. E.g. ASL translation for the deaf
    1. ILRC, LifeSteps, PathPoint
@@ -3405,6 +3380,7 @@ TBD
    - Hospice SLO County groups in Paso Robles (free 6-week sessions; contact [805-544-2266](tel:+1-805-544-2266)). Source: [hospiceslo.org](https://hospiceslo.org/support-groups/paso-robles)
    - Central Coast Home Health grief groups at Paso Senior Center, <a href="#" class="map-link" data-lat="35.608386" data-lon="-120.655574" data-zoom="17" data-label="Paso Senior Center">270 Scott Street, Paso Robles</a> (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
    - GriefShare at First Baptist Church Paso Robles (13-week biblical support group; contact Sandy Garman at [805-423-0476](tel:+1-805-423-0476)). Source: [griefshare.org](https://www.griefshare.org/)
+1. [Corazón Latino](https://www.corazonlatino.org/) (emotional support groups for Latinx people in various locations)
 -->
 
 -----
@@ -3806,14 +3782,12 @@ Here are some of these local guides:
 
 If you would like some in-person help, you can get assistance on a variety of issues from the Library Outreach Team at [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) branches:
 
-- [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries), Wednesdays, 12:30–2pm
-- [**Los Osos Library**](Directory.md#SLO-County-Public-Libraries), Fridays, 1–2:30pm
+<!-- Hours & locations verified from a flyer posted at the SLO city library on 22 Nov. 2025 -->
 
-<!-- possible others:
-1. SLO Library, Tues. 10–11:30am, 2:30–4pm
-1. Arroyo Grande Library, Thurs. 9:30–11am (temporarily closed)
-   - Oceano Library, Weds. 11am–12:30pm (until A.G. Library reopens)
-1. Morro Bay Library, Thurs. 12:30–2pm
--->
+- [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries), Wednesdays, 10:30am–Noon
+- [**Arroyo Grande Library**](Directory.md#SLO-County-Public-Libraries), Thursdays, 9:30am–11am
+- [**Los Osos Library**](Directory.md#SLO-County-Public-Libraries), Fridays, 1–2:30pm
+- [**Morro Bay Library**](Directory.md#SLO-County-Public-Libraries), Thursdays, 12:30pm–2pm
+- [**SLO city Library**](Directory.md#SLO-County-Public-Libraries), Tuesdays, 10–11:30am & 2:30–4pm
 
 You can drop in, or make an appointment by calling or texting [805-540-0057](tel:+1-805-540-0057).

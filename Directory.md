@@ -815,16 +815,15 @@
 - **Website:** [ccvhv.org](https://www.ccvhv.org/)
 - **Mailing address:** P.O. Box 12725, SLO, CA 93406
 - **Phone:** [805-285-5526](tel:+1-805-285-5526)
-- **Email:** [contact@ccvhv.org](mailto:contact@ccvhv.org)
+- **Email:** [ccvetshelpingvets@outlook.com](ccvetshelpingvets@outlook.com)
 <!-- Note: Organization uses P.O. Box; no physical office address or public operating hours found (as of October 2025). Contact via phone or email for services -->
 
 ## <a id="Central-Coast-Veterans-Services-Collaborative">Central Coast Veterans Services Collaborative</a>
 
-<!-- Source: https://slovsc.org/ -->
-- **Website:** [slovsc.org](https://slovsc.org/)
+<!-- https://slovsc.org/ (now defunct?) -->
+- **Location:** Veterans Hall, 801 Grand Ave., SLO <a href="#" class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services Collaborative">Map</a>
 - **Phone:** [805-270-2988](tel:+1-805-270-2988)
-- **Email:** [info@slovsc.org](mailto:info@slovsc.org)
-<!-- Note: Physical office address and hours of operation not publicly listed (as of October 2025); contact via phone or email -->
+- **Email:** [slovsc1@gmail.com](mailto:slovsc1@gmail.com)
 
 ## CHC
 
@@ -1348,6 +1347,7 @@
 - Notes:
    - operates [**Welcome Home Village**](#Welcome-Home-Village)
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
+   - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
 
 ## <a id="Goodwill">Goodwill Stores</a>
 
@@ -2722,11 +2722,11 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Location:** 500 Atascadero Rd., Morro Bay <a class="map-link" data-lat="35.381677" data-lon="-120.859918" data-zoom="17" data-label="Silver City Resort">Map</a>
 - **Phone:** [805-772-7478](tel:+1-805-772-7478)
 
-## <a id="SLO4Home">SLO4Home</a>
+## <a id="SLO4Home">SLO for HOME</a>
 
-- **Website:** [slo4home.org](https://www.slo4home.org/)
+- **Website:** [sloforhome.org](https://www.sloforhome.org/)
 - **Mailing address:** P.O. Box 3901, SLO, CA 93403
-- **Email:** [info@slo4home.org](mailto:info@slo4home.org)
+- **Email:** [info@sloforhome.org](mailto:info@sloforhome.org)
 
 ## <a id="SLO-Bangers">SLO Bangers</a>
 
@@ -2854,10 +2854,11 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 | Location | Phone | Walk-in Hours |
 | -------- | ----- | ------------- |
+| 5575 Hospital Dr., Atascadero <a href="#" class="map-link" data-lat="35.492639" data-lon="-120.662906" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-461-6060](tel:+1-805-461-6060) | M–F 8am–5pm |
 | 1523 Longbranch Ave., Grover Beach <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-473-7080](tel:+1-805-473-7080) or [805-473-7081](tel:+1-805-473-7081) | Mo,Fr 8am–11am; Tu 2:30–5:30pm |
 | 2180 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> — for adults | [805-781-4275](tel:+1-805-781-4275) | Tu,We 8am–11am; Th 2:30–5:30pm |
-| 277 South St. #T, SLO <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> — for youth | [805-781-4754](tel:+1-805-781-4754) | M–F 8am–5pm |
-| 805 4th Street, Paso Robles <a href="#" class="map-link" data-lat="35.618678" data-lon="-120.689326" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-226-3200](tel:+1-805-226-3200) | Mo,Th 8am–11am; Tu 2:30–5:30pm |
+| 277 South St. #T, SLO <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> — for youth & veterans | [805-781-4754](tel:+1-805-781-4754) | M–F 8am–5pm |
+| 805 E. 4th Street, Paso Robles <a href="#" class="map-link" data-lat="35.618678" data-lon="-120.689326" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-226-3200](tel:+1-805-226-3200) | Mo,Th 8am–11am; Tu 2:30–5:30pm |
 
 - **Phone:** [800-838-1381](tel:+1-800-838-1381) (main access line)
 - **Hours:** M–F 8am–5pm
@@ -2948,16 +2949,16 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 | Shandon: 195 N. 2nd St. <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="SLO County Public Library">Map</a> | [805-237-3009](tel:+1-805-237-3009) | Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm) |
 | Shell Beach: 230 Leeward Ave. <a href="#" class="map-link" data-lat="35.154648" data-lon="-120.669678" data-zoom="17" data-label="SLO County Public Library">Map</a> | [805-773-2263](tel:+1-805-773-2263) | Tu/W 10am–1pm and 2–6pm, Sa 9am–5pm |
 
-<!-- To-do: verify the locations/dates/time of the library outreach team; these are also listed in the resource guide -->
-
 - Note: [Transitions Mental Health Association (TMHA)](#TMHA) has a “Library Outreach Team” that connects library patrons who are experiencing homelessness with a social worker and case manager to help them overcome barriers to accessing crucial social services. You can meet the Library Outreach Team at the following library branches (this schedule is subject to change; contact [mvargas@t-mha.org](mailto:mvargas@t-mha.org) for the most up-to-date schedule):
-   - SLO: Tu 10–11:30am
-   - Atascadero: W 10–11:30am
-   - Arroyo Grande: Th 9–11am
-   - Los Osos: 1st & 3rd Th 1–3pm
-   - Morro Bay: 2nd & 4th Th. 1–3pm
+   - Atascadero: W 10:30am–Noon
+   - Arroyo Grande: Th 9:30–11am
+   - Los Osos: F 1–2:30pm
+   - Morro Bay: Th. 12:30–2pm
+   - SLO: Tu 10–11:30am & 2:30–4pm
 
   You can also make an appointment to meet with the team by calling [805-540-0057](tel:+1-805-540-0057)
+
+  <!-- Hours & locations verified from a flyer posted at the SLO city library on 22 Nov. 2025 -->
 
 <!-- Small Claims Advisor is closed according to https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions
 ## <a id="SLO-County-Small-Claims-Advisor">SLO County Small Claims Advisor</a>
@@ -3219,6 +3220,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Location:** 34 Prado Rd., SLO <a class="map-link" data-lat="35.256247" data-lon="-120.672862" data-zoom="17" data-label="Sun Street Centers">Map</a>
 - **Phone:** [805-457-3331](tel:+1-805-457-3331) / [805-457-5150](tel:+1-805-457-5150)
 - **Email:** [atorrente@sunstreet.org](mailto:atorrente@sunstreet.org)
+- **How to access:** Get a referral from [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health)
 <!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
 
 ## <a id="Supportive-Services-for-Veteran-Families">Supportive Services for Veteran Families</a>
@@ -3239,7 +3241,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - **Location:** 265 South St. #H, SLO <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a> <!-- Source: https://capslo.org/ssvf/ -->
    - **Phone:** [805-534-1698](tel:+1-805-534-1698) <!-- Source: https://capslo.org/ssvf/ -->
    - **Email:** [jerwin@capslo.org](mailto:jerwin@capslo.org)
-- Note: operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) and [**5Cities Homeless Coalition**](#5CHC)
+- Notes:
+   - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO)
+   - Operated by [**5Cities Homeless Coalition**](#5CHC) with [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
 
 ## Surgery Without Medical Insurance
 
