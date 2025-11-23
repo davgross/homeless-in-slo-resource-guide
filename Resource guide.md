@@ -72,7 +72,7 @@ This guide makes it easier.
 1. [Phones & Phone Service](#phones)
 1. [Internet & Email](#internet-and-email)
 1. [Device Charging](#charging-stations)
-1. [Resources by Group](#resources-specific-to-particular-subgroups)
+1. [Children & Parents](#children-youth-parents)
 1. [Peer Support](#peer-support-groups)
 1. [Recreation & Community](#recreation-fitness-socializing-connection)
 1. [Pet Care](#pet-care-and-pet-supplies)
@@ -3172,7 +3172,7 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 -----
 
-## <a id="resources-specific-to-particular-subgroups">Resources Specific to Particular Subgroups</a>
+## <a id="children-youth-parents">Children, Youth, and People with Children</a>
 
 TBD
 
@@ -3329,6 +3329,13 @@ TBD
       - Location/Phone: See [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) in the [Directory](Directory.md)
    1. Childcare Resource Center
    1. Cooperative Agencies Resources for Education (CARE)—child care expenses [cuesta.edu/student-support/support-programs/eops/care.html](https://www.cuesta.edu/student-support/support-programs/eops/care.html)
+   1. [Q Youth support group](https://galacc.org/resources/#phone)
+   1. [Trans Teen Peer support group](https://galacc.org/resources/#phone)
+   1. [RaiseUP SLO](https://www.racemattersslo.org/raiseup-slo)
+-->
+
+<!-- TBD: find a home for this stuff:
+
 1. People with specific (e.g. developmental, TBI, diabetes, blindness) disabilities
    1. E.g. ASL translation for the deaf
    1. ILRC, LifeSteps, PathPoint
@@ -3343,15 +3350,6 @@ TBD
       - Also has some programs for adults, and for parents of people with autism etc.
       - Accepts many insurance programs.
       - Has a [list of ways people can pay for services](https://centerforautism.com/services/parent-resources/additional-funding/)
-   1. Alzheimer’s Association / Family Caregiver Support Groups
-1. GLBTQ
-   1. [**GALA Pride & Diversity Center**](Directory.md#GALA)
-      - Mission: Supports and empowers people of all sexual orientations, gender identities, and expressions to strengthen and unite the Central Coast community
-      - Support groups: Trans/Genderqueer Support Group, Stand Out (Parents/Families of LGBTQ+ youth), Trans Youth Support Group (ages 11–18), Senior Social, LGBTQ+ Alcoholics Anonymous
-      - Offers LGBTQ-affirming therapy services (bilingual therapist Rocio Anaya)
-   1. [**TranzCentralCoast**](Directory.md#TranzCentralCoast)
-      - Mission: Uses outreach and advocacy to help transgender and gender-diverse people live authentic, productive, and happy lives in a safe and affirming community
-      - Services: Trans* Youth Support Group (meets 2nd and 4th Tuesday of every month)
 -->
 
 -----
@@ -3364,6 +3362,7 @@ TBD
 
 1. [Caregiver Support Groups](https://stmlcottagehealthncus001.blob.core.windows.net/public/CCRC_Support_Groups_flyer_march2025.pdf)
 1. [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups)
+   - Alzheimer’s Association / Family Caregiver Support Groups
 1. [Parkinson support groups](https://www.myccpa.org/support-groups)
 1. [Trans Support Group](https://galacc.org/resources/#support)
 1. [LGBT Senior Social](https://galacc.org/resources/#support)
@@ -3381,6 +3380,7 @@ TBD
    - Central Coast Home Health grief groups at Paso Senior Center, <a href="#" class="map-link" data-lat="35.608386" data-lon="-120.655574" data-zoom="17" data-label="Paso Senior Center">270 Scott Street, Paso Robles</a> (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
    - GriefShare at First Baptist Church Paso Robles (13-week biblical support group; contact Sandy Garman at [805-423-0476](tel:+1-805-423-0476)). Source: [griefshare.org](https://www.griefshare.org/)
 1. [Corazón Latino](https://www.corazonlatino.org/) (emotional support groups for Latinx people in various locations)
+1. [variety of queer support groups](https://galacc.org/resources/#phone)
 -->
 
 -----

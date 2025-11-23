@@ -67,9 +67,9 @@ The outline contains several major sections; the table of contents lists these.
 - **Main data files**: `@Resource guide.md`, `@Directory.md`
 - **Implementation**: See "Project Structure" in `@web-app/README.md`
 
-### Major Outline Sections (37 total)
+### Major Outline Sections (36 total)
 
-1. Introduction
+1. Introduction (not part of TOC)
 2. Hotlines and emergency contacts
 3. Tips on self-advocacy and for communicating with service providers
 4. Shelter / housing
@@ -97,7 +97,7 @@ The outline contains several major sections; the table of contents lists these.
 26. Phones and phone service
 27. Internet access / email / digital access assistance
 28. Charging stations for devices
-29. Resources specific to particular subgroups
+29. Resources for children, youth, and people with children
 30. Peer support groups
 31. Recreation, fitness, socializing, connection, religion, community integration, volunteering
 32. Pet care and pet supplies

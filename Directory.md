@@ -1294,7 +1294,7 @@
 - **Website:** [https://www.frontporchslo.org/](https://www.frontporchslo.org/)
 - **Location:** 1468 E. Foothill, SLO <a href="#" class="map-link" data-lat="35.297443" data-lon="-120.660964" data-zoom="17" data-label="Front Porch">Map</a>
 - **Phone:** [818-731-4984](tel:+1-818-731-4984)
-- **Email:** [director@frontporchslo.org](mailto:director@frontporchslo.org)
+- **Email:** [hello@frontporchslo.org](mailto:hello@frontporchslo.org)
 - **Hours:** M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks)
 - **How to access:** oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here.”
 
