@@ -7,6 +7,11 @@
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
 
+San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
+Fortunately, there is a lot of help available to people experiencing or threatened with homelessness in SLO County.
+Unfortunately, it can be difficult to find this help or to understand how to access it.
+This guide makes it easier.
+
 The guide is organized into topics like “Shelter and housing” or “Food”.
 Each section briefly describes resources available in San Luis Obispo County.
 Many of these descriptions contain blue-highlighted, boldface links to the [**Directory**](Directory.md).
@@ -15,31 +20,6 @@ If you find a resource in the guide that seems it will be useful to you, click t
 
 This guide was created by volunteers from [**Shower the People**](Directory.md#Shower-the-People).
 If you want to suggest corrections or improvements, or to join our development team, contact us at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
-
-## Being Homeless in SLO County
-
-San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
-Nearly one in four homeless people in the United States lives in California.
-California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people.
-In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S.
-The city of San Luis Obispo is one of the top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have in order to afford to buy a home.
-10% of schoolchildren in SLO County are homeless.
-
-Why are things especially difficult here?
-There are many reasons, but the most important one is “too few homes for the number of people who need them.”
-The reasons why that is a problem are complicated, but include government policies that discourage homebuilding and make it more expensive, resource constraints, and high demand.
-
-Fortunately, there is a lot of help available to people experiencing or threatened with homelessness in SLO County.
-Unfortunately, it can be difficult to find this help or to understand how to access it.
-This guide makes it easier.
-
-| **External links** |
-| ------------------ |
-| [San Luis Obispo County Community Report 2024](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport): A summary of the results of the 2024 “Point-in-Time Count” census of homeless people in SLO County. |
-| [Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard): The SLO County Department of Social Services’s summary of the ongoing work of homeless management agencies. |
-| [The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness): As adopted by the county Board of Supervisors |
-| [Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California) |
-| [*Homelessness is a Housing Problem*](https://homelessnesshousingproblem.com/) by Gregg Colburn & Clayton Page Aldern |
 
 -----
 
@@ -3599,6 +3579,25 @@ Warming centers typically open when temperatures are due to drop to 38°F or bel
 - [Reporting Concerns and Problems](#reporting-concerns)
 - [Reporting Crimes](#reporting-crimes)
 - [Reporting Government Misconduct](#reporting-misconduct)
+
+San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
+Nearly one in four homeless people in the United States lives in California.
+California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people.
+In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S.
+The city of San Luis Obispo is one of the top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have in order to afford to buy a home.
+10% of schoolchildren in SLO County are homeless.
+
+Why are things especially difficult here?
+There are many reasons, but the most important one is “too few homes for the number of people who need them.”
+The reasons why that is a problem are complicated, but include government policies that reduce the availability of homes and make them more expensive, resource constraints, and high demand.
+
+| **External links** |
+| ------------------ |
+| [San Luis Obispo County Community Report 2024](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport): A summary of the results of the 2024 “Point-in-Time Count” census of homeless people in SLO County. |
+| [Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard): The SLO County Department of Social Services’s summary of the ongoing work of homeless management agencies. |
+| [The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness): As adopted by the county Board of Supervisors |
+| [Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California) |
+| [*Homelessness is a Housing Problem*](https://homelessnesshousingproblem.com/) by Gregg Colburn & Clayton Page Aldern |
 
 ### <a id="influencing-policy">Influencing policy</a>
 

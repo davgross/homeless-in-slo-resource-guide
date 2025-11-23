@@ -3464,7 +3464,7 @@ There are several urgent care options, including:
    - 240 Scott St., Paso Robles <a href="#" class="map-link" data-lat="35.608124" data-lon="-120.655868" data-zoom="17" data-label="Veterans Services">Map</a> (Tu–Th 8am–5pm)
    - 801 Grand Ave., SLO <a class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services">Map</a> (daily 8am–5pm)
 - **Phone:** [805-781-5766](tel:+1-805-781-5766)
-- **Email:** [VS_Staff@co.slo.ca.us](mailto:VC_Staff@co.slo.ca.us)
+- **Email:** [slovets@co.slo.ca.us](mailto:slovets@co.slo.ca.us)
 - **How to access:** In-person and phone appointments only; no walk-ins; book appointments [online](https://sanluisobispocountyveteransservices.as.me/schedule/970de54e) or by phone
 - Notes: SLO office has a small food pantry
 
