@@ -25,7 +25,7 @@ const WHITELIST = new Set([
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
   'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO', 'LinkedIn', 'SkillsBuild',
   'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba', 'flexercise', 'BarreConnect',
-  'GriefShare',
+  'GriefShare', 'Alateen', 'Narateen', 'Overeaters',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
@@ -72,7 +72,7 @@ const WHITELIST = new Set([
   'buprenorphine', 'fentanyl', 'benzodiazepines', 'iCloud', 'iPhones', 'Wi-Fi', 'hotspots', 'Uber',
   'Lyft', 'vanpool', 'motorhome', 'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes',
   'microchipping', 'décor', 'Vite', 'DOMPurify', 'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite',
-  'hemoccult', 'hydrocortisone', 'Rummikub', 'breathwork', 'amyotrophic',
+  'hemoccult', 'hydrocortisone', 'Rummikub', 'breathwork', 'amyotrophic', 'Latinx', 'transmasculine',
 
   // Hyphenated prefixes
   'pre', 'tri',
@@ -104,6 +104,7 @@ const WHITELIST = new Set([
   // Spanish and Latin
   'familia', 'por', 'todo', 'nueva', 'generación', 'buena', 'de', 'capita', 'et', 'cetera',
   'español', 'Español', 'Mixteco', 'cortina', 'del', 'brisas', 'norte', 'd’Arroyo', 'Indigena',
+  'corazón',
 ]);
 
 // Simple dictionary of common words (you could expand this or use a larger dictionary)

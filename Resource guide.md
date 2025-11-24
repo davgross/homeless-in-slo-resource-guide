@@ -3390,31 +3390,34 @@ Several SLO County churches host [GriefShare support groups](https://griefshare.
 
 > See [12-Step and Similar Recovery Programs](#twelve-step) in the [Drug Use, Recovery, and Harm Reduction](#drug-use-and-recovery) section above for support groups for people recovering from drug addictions.
 
-TBD
+[Al-Anon](https://al-anon.org/al-anon-meetings/) has support groups for family members of alcoholics that meet online and in Arroyo Grande, Atascadero, Cambria, Cayucos, Grover Beach, Morro Bay, Nipomo, Paso Robles, Pismo Beach, and SLO.
+There is also an [Alateen](https://al-anon.org/newcomers/teen-corner-alateen/) meeting in Grover Beach specifically for teen-aged family members of alcoholics.
 
-<!--
-1. Al-Anon / [Nar-Anon](https://www.naranoncentralca.org/)
-1. [Eating Disorder Support Group](https://galacc.org/resources/#support)
-1. [Debtors Anonymous](https://debtorsanonymous.org/)
--->
+[Nar-Anon](https://www.naranoncentralca.org/) has in-person weekly meetings for family members of people addicted to drugs that meet in Atascadero as well as several online meetings.
+There are also [Narateen](https://www.nar-anon.org/find-a-narateen-meeting) on-line weekly meetings specifically for teen-aged family members of addicts.
+
+An eating disorder support group meets on Wednesdays from 7–8pm at [**GALA Pride & Diversity Center**](Directory.md#GALA) in SLO city and by Zoom.
+Contact [libby@notyouraveragenutritionist.com](mailto:libby@notyouraveragenutritionist.com) for more information.
+
+[Overeaters Anonymous](https://oa.org/) holds weekly meetings in Arroyo Grande, Morro Bay, and SLO.
+
+[Debtors Anonymous](https://debtorsanonymous.org/) holds [meetings by phone or Zoom](https://debtorsanonymous.org/meeting-search-virtual/?tz=PT) every day of the week.
 
 ### GLBTQ
 
-TBD
+The [**GALA Pride & Diversity Center**](Directory.md#GALA) maintains [a list of support groups](https://galacc.org/resources/#support), including:
 
-<!--
-1. [Trans Support Group](https://galacc.org/resources/#support)
-1. [LGBT Senior Social](https://galacc.org/resources/#support)
-1. [variety of queer support groups](https://galacc.org/resources/#phone)
--->
+- **Therapist-led trans/genderqueer monthly support group**—contact [laurenphelpsmft@gmail.com](mailto:laurenphelpsmft@gmail.com) for more information
+- **“Q” Youth** (grades 6–12)—contact [youthdirector@galacc.org](mailto:youthdirector@galacc.org) or drop-in at GALA any Thursday from 6–8pm
+- [Trans and gender-nonconforming teen support group](https://1af473-cd.myshopify.com/pages/tcc-youth-support-group)
+- [Trans and gender-nonconforming adult support group](https://1af473-cd.myshopify.com/pages/tcc-tuesdays-adult-support-group)
+- [Transmasculine, and gender-nonconforming masculine-identifying support group](https://1af473-cd.myshopify.com/pages/tcc-transmasc-support-group)
+- **LGBT Seniors**—3rd Wednesday of the month 4:30–6:30pm at GALA or by Zoom
+- **Stand Out Parent Support Group**—for parents of LGBTQ+ youth; contact [email@galacc.org](mailto:email@galacc.org) for more information
 
 ### Other
 
-TBD
-
-<!--
-1. [Corazón Latino](https://www.corazonlatino.org/) (emotional support groups for Latinx people in various locations)
--->
+[Corazón Latino](https://www.corazonlatino.org/) holds monthly emotional support groups for people in the Latinx community online and in Paso Robles.
 
 -----
 
