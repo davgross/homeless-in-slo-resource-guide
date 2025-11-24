@@ -103,9 +103,11 @@ Your feedback helps keep this resource current and useful for everyone in our co
 
 ## Disclaimer
 
-This guide is provided for informational purposes only.
-While we strive to keep information current and accurate, services, hours, eligibility requirements, and other details may change.
-Please contact organizations directly to verify details before visiting.
+Information is provided for reference only.
+Shower the People does not endorse or guarantee any organization or service listed.
+Details may change at any time.
+You should confirm current information directly with each provider.
+Third-party names, logos, and descriptions are used with permission from their owners.
 
 -----
 

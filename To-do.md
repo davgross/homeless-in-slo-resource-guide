@@ -20,7 +20,7 @@
 
 1. Figure out how to make sure DNS / hosting / GitHub credentials can get handed off gracefully in case D.G. is incapacitated.
 
-1. Consider the option of moving the {font size} / {share app} / {feedback} buttons to the right, and on the left side have the {toc} icon at the top, followed by a series of icons that take you to the major sections of the Resource guide (the same icons that are in the TOC). It would also be helpful to add those icons as prefixes to the h2 section headings for those sections. A complication of this is that screens are unlikely to be tall enough to display all 35 icons vertically, so we would have to come up with a strategy for this. Perhaps:
+1. Consider the option of having the {font size} / {install app} / {share app} / {feedback} buttons on the right, and on the left have the {toc} icon at the top, stacked above a vertical series of icons that are links to the major sections of the Resource guide (the same icons that are in the TOC). It would also be helpful to add those icons as prefixes to the h2 section headings for those sections. A complication of this is that screens are unlikely to be tall enough to display all 35 icons vertically, so we would have to come up with a strategy for this. Perhaps:
    - Just truncate the list
    - Make the list of icons vertically-scrollable
    - Choose a smaller number by combining thematically-similar pages, e.g.
@@ -33,3 +33,4 @@
       - Emergency Financial Help + Social Security & Benefits
       - Obtaining Employment + Education & Job Training
       - Phones & Phone Service + Internet & Email + Device Charging
+   Another possible complication is if the emojis are not of consistent sizes on all devices, such that they would not make consistently-sized icon buttons.

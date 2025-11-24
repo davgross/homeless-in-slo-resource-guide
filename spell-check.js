@@ -25,6 +25,7 @@ const WHITELIST = new Set([
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
   'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO', 'LinkedIn', 'SkillsBuild',
   'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba', 'flexercise', 'BarreConnect',
+  'GriefShare',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
@@ -59,7 +60,7 @@ const WHITELIST = new Set([
   'Anna', 'Judson', 'DeVaul', 'Macadero', 'Cleaver', 'Clark', 'Halcyon', 'Willow', 'Madonna',
   'Marvin', 'Lizzie', 'Betty', 'Bettys', 'Woodson', 'Grayson', 'Ariana', 'Nielson', 'Lamore',
   'Vania', 'Agama', 'Layne', 'Rupe', 'Jauregui', 'Bruse', 'Rossi', 'Villalobos', 'Dowler',
-  'Rocio', 'Anaya', 'Butz',
+  'Rocio', 'Anaya', 'Butz', 'Scurich',
 
   // Misc
   'website', 'email', 'voicemail', 'hotline', 'nonprofit', 'unhoused', 'rehousing', 'parolee',
@@ -71,7 +72,7 @@ const WHITELIST = new Set([
   'buprenorphine', 'fentanyl', 'benzodiazepines', 'iCloud', 'iPhones', 'Wi-Fi', 'hotspots', 'Uber',
   'Lyft', 'vanpool', 'motorhome', 'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes',
   'microchipping', 'décor', 'Vite', 'DOMPurify', 'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite',
-  'hemoccult', 'hydrocortisone', 'Rummikub', 'breathwork',
+  'hemoccult', 'hydrocortisone', 'Rummikub', 'breathwork', 'amyotrophic',
 
   // Hyphenated prefixes
   'pre', 'tri',

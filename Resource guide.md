@@ -1757,7 +1757,7 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) and the [**SLO 
 [**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) is for marijuana specifically.
 
 AA & NA meet in many locations throughout the county, every day of the week.
-The [**Alano Club**](Directory.md#Alano-Club), for example, hosts AA and NA meetings several times a day.
+The [**Alano Club**](Directory.md#Alano-Club) and [The Cambria Connection](https://thecambriaconnection.org/meetings-and-events/), for example, host AA or NA meetings several times a day.
 
 ### Sober Living Homes and Residential Treatment Options
 
@@ -3336,31 +3336,84 @@ TBD
 
 ## <a id="peer-support-groups">Peer Support Groups</a>
 
+In peer support groups, you gather with other people who are in a similar situation to you in some way to talk.
+You may share practical advice, or just give each other emotional support.
+There are many peer support groups active in SLO County.
+These are some of them:
+
+### Disabilities, Medical Conditions, and Mental Illnesses
+
+**Alzheimer’s disease:** There are monthly [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups) for caregivers and other people affected by Alzheimer’s disease in Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles, and SLO, as well as on-line.
+There are also support groups for people recently diagnosed, and for people suffering bereavement because of a loved one with dementia.
+To register for a group, call [800-272-3900](tel:+1-800-272-3900).
+
+**Amyotrophic lateral sclerosis (ALS):** An ALS support group meets monthly via Zoom.
+To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878).
+
+**Cancer:** [Cancer Support Community](https://cscslo.org/) offers a variety of no-cost services for people with cancer, including health education and exercise classes, as well as several support groups, some of which meet in Templeton, some on-line.
+
+**Caregivers:** The [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) has several support groups, some of which meet on-line, others in SLO or Morro Bay.
+They include groups for caregivers of people with dementia, for LGBTQ caregivers, for caregivers of Parkinson’s disease patients, and groups that are conducted in Spanish.
+
+[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts several support groups at the [Hearst Cancer Resource Center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center).
+These include groups [for patients with cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) and [advanced cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), and groups for people with specific types of cancer, such as cancers of the [blood](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [breast](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf), or [prostate](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
+To register, call HCRC at [805-542-6234](tel:+1-805-542-6234) or email [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
+
+[Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) in Arroyo Grande also hosts [cancer support groups](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) including in-person groups for people with breast cancer and for oral, head, and neck cancer, and a number of other groups that meet on-line.
+
+**Diabetes:** [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts a quarterly [diabetes support group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes).
+
+**Mental illness:** The SLO County chapter of National Alliance on Mental Illness holds [support groups](https://www.namislo.org/nami-support-groups) for family members of people with mental health challenges, online, in Arroyo Grande, and in Atascadero, every month.
+Contact [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) for details.
+[**Transitions Mental Health Association (TMHA)**](#TMHA) has weekly [support groups](https://www.t-mha.org/family-support-groups.php) in person and on Zoom for people with loved ones living with mental illness, in English and in Spanish.
+
+**Parkinson’s disease:** The Central Coast Parkinson Association holds monthly in-person [support groups](https://www.myccpa.org/support-groups) in Atascadero, Morro Bay, Pismo Beach, and San Luis Obispo.
+They also hold a monthly, on-line support group, and a monthly in-person group in Paso Robles, for caregivers only.
+
+**Stroke:** [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) hosts a monthly [stroke support group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups).
+[**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) hosts a [hope for stroke survivors](https://www.stroke.org/en/stroke-groups/hope-for-stroke-survivors-ahsl) group for people who have had strokes and for their caregivers.
+Another [hope for stroke](https://www.stroke.org/en/stroke-groups/hope-for-stroke) group meets in Templeton.
+
+### Grief
+
+Hospice SLO operates a weekly, on-line Family Caregiver Support Group for SLO County residents that you can sign up for [at this page](https://hospiceslo.org/support-groups/family-caregiver-support-group-meets-weekly-on-zoom).
+They also have a Grief Support and Education group that meets [online](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom) and others that meet in person [in Paso Robles](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-north-county) and [in SLO city](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-slo).
+They also have an in-person support group in SLO city specifically for people who are [grieving the loss of a spouse or partner](https://hospiceslo.org/support-groups/spouse-andor-partner-loss-support-and-education-group-meets-weekly-for-six-weeks-in).
+They occasionally hold [other support groups](https://hospiceslo.org/support-groups) as well.
+
+[**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) facilitates [grief support groups](https://centralcoasthomehealth.com/index.php/support-groups/) weekly at the [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), and [**SLO Senior Center**](Directory.md#SLO-Senior-Center).
+Call [805-540-6020](tel:+1-805-540-6020) to speak with a bereavement counselor prior to attending.
+
+Several SLO County churches host [GriefShare support groups](https://griefshare.org/) with a Christian focus on grieving.
+
+### Behavioral Health
+
+> See [12-Step and Similar Recovery Programs](#twelve-step) in the [Drug Use, Recovery, and Harm Reduction](#drug-use-and-recovery) section above for support groups for people recovering from drug addictions.
+
 TBD
 
 <!--
-
-1. [Caregiver Support Groups](https://stmlcottagehealthncus001.blob.core.windows.net/public/CCRC_Support_Groups_flyer_march2025.pdf)
-1. [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups)
-   - Alzheimer’s Association / Family Caregiver Support Groups
-1. [Parkinson support groups](https://www.myccpa.org/support-groups)
-1. [Trans Support Group](https://galacc.org/resources/#support)
-1. [LGBT Senior Social](https://galacc.org/resources/#support)
 1. Al-Anon / [Nar-Anon](https://www.naranoncentralca.org/)
-1. See [Drug Use, Recovery, and Harm Reduction](#drug-use-and-recovery) for Alcoholics Anonymous, Narcotics Anonymous, Marijuana Anonymous
 1. [Eating Disorder Support Group](https://galacc.org/resources/#support)
 1. [Debtors Anonymous](https://debtorsanonymous.org/)
-1. [Diabetes Support Group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes)
-1. [Cancer support groups](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/cancer-support-groups) ([and](https://cscslo.org/))
-1. [Stroke support groups](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups)
-1. [**NAMI SLO County**](Directory.md#NAMI-SLO-County) ([support groups](https://www.namislo.org/nami-support-groups))
-1. [**TMHA**](Directory.md#TMHA) ([family support groups](https://www.t-mha.org/family-support-groups.php))
-1. **Grief Support Groups - North County**:
-   - Hospice SLO County groups in Paso Robles (free 6-week sessions; contact [805-544-2266](tel:+1-805-544-2266)). Source: [hospiceslo.org](https://hospiceslo.org/support-groups/paso-robles)
-   - Central Coast Home Health grief groups at Paso Senior Center, <a href="#" class="map-link" data-lat="35.608386" data-lon="-120.655574" data-zoom="17" data-label="Paso Senior Center">270 Scott Street, Paso Robles</a> (Fridays 10am; must call [805-540-6020](tel:+1-805-540-6020) to speak with Bereavement Counselor first; free). Source: [centralcoasthomehealth.com](https://centralcoasthomehealth.com/index.php/support-groups/)
-   - GriefShare at First Baptist Church Paso Robles (13-week biblical support group; contact Sandy Garman at [805-423-0476](tel:+1-805-423-0476)). Source: [griefshare.org](https://www.griefshare.org/)
-1. [Corazón Latino](https://www.corazonlatino.org/) (emotional support groups for Latinx people in various locations)
+-->
+
+### GLBTQ
+
+TBD
+
+<!--
+1. [Trans Support Group](https://galacc.org/resources/#support)
+1. [LGBT Senior Social](https://galacc.org/resources/#support)
 1. [variety of queer support groups](https://galacc.org/resources/#phone)
+-->
+
+### Other
+
+TBD
+
+<!--
+1. [Corazón Latino](https://www.corazonlatino.org/) (emotional support groups for Latinx people in various locations)
 -->
 
 -----
