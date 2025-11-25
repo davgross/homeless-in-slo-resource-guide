@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Little Free Libraries - SLO County</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+        .header {
+            position: absolute;
+            top: 10px;
+            left: 50px;
+            z-index: 1000;
+            background: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 18px;
+            color: #333;
+        }
+        .header p {
+            margin: 5px 0 0 0;
+            font-size: 12px;
+            color: #666;
+        }
+        .leaflet-popup-content {
+            margin: 8px;
+            font-size: 14px;
+        }
+        .back-link {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: #3877ff;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 14px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        .back-link:hover {
+            background: #2a5bbf;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📚 Little Free Libraries in SLO County</h1>
+        <p>88 locations county-wide • Click markers for addresses</p>
+    </div>
+    <a href="Directory.md#Little-Free-Libraries" class="back-link">← Back to Directory</a>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialize map - center on SLO County
+        const defaultCenter = [35.2828, -120.6596];
+        const defaultZoom = 10;
+
+        // Try to use user's location if available (without prompting)
+        let userLocation = null;
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(
+                function(position) {
+                    const lat = position.coords.latitude;
+                    const lon = position.coords.longitude;
+                    // Check if user is roughly in SLO County area
+                    if (lat > 35.0 && lat < 35.8 && lon > -121.3 && lon < -120.0) {
+                        userLocation = [lat, lon];
+                        map.setView(userLocation, 11);
+                        L.marker(userLocation, {
+                            icon: L.icon({
+                                iconUrl: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOCIgZmlsbD0iIzM4NzdmZiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIi8+Cjwvc3ZnPg==',
+                                iconSize: [24, 24],
+                                iconAnchor: [12, 12]
+                            })
+                        }).addTo(map).bindPopup("📍 Your location");
+                    }
+                },
+                function(error) {
+                    // Silently fail - just use default center
+                },
+                { timeout: 3000, maximumAge: 60000 }
+            );
+        }
+
+        const map = L.map('map').setView(defaultCenter, defaultZoom);
+
+        // Add OpenStreetMap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        }).addTo(map);
+
+        // Little Free Library locations
+        const libraries = [
+            [35.114090, -120.593823, "330 Alder St., Arroyo Grande"],
+            [35.119917, -120.575391, "121 Allen St., Arroyo Grande"],
+            [35.073182, -120.586066, "Amarillo Dr., Arroyo Grande"],
+            [35.073411, -120.580329, "2510 Appaloosa Way, Arroyo Grande"],
+            [35.117185, -120.604837, "Cedar & Boysenberry, Arroyo Grande"],
+            [35.121326, -120.570416, "529 E. Cherry Ave., Arroyo Grande"],
+            [35.122401, -120.568374, "615 E. Cherry Ave., Arroyo Grande"],
+            [35.087336, -120.563930, "2385 Clarkie Way, Arroyo Grande"],
+            [35.065912, -120.572875, "Cypress Ridge Pkwy., Arroyo Grande"],
+            [35.055285, -120.581134, "485 Dorothy Ln., Arroyo Grande"],
+            [35.123058, -120.600336, "303 N. Elm St., Arroyo Grande"],
+            [35.110289, -120.600857, "512 S. Elm St., Arroyo Grande"],
+            [35.089684, -120.578772, "282 Gait Way, Arroyo Grande"],
+            [35.117013, -120.598429, "1146 Maple St., Arroyo Grande"],
+            [35.116732, -120.597214, "Maple St. @ Walnut St., Arroyo Grande"],
+            [35.123681, -120.575667, "127 S. Mason St., Arroyo Grande"],
+            [35.118206, -120.578403, "328 Orchard St., Arroyo Grande"],
+            [35.119016, -120.603324, "1270 Poplar St., Arroyo Grande"],
+            [35.118284, -120.603290, "1260 Sage St., Arroyo Grande"],
+            [35.126825, -120.603753, "1414 Sierra Dr., Arroyo Grande"],
+            [35.131236, -120.564362, "494 Stagecoach Rd., Arroyo Grande"],
+            [35.108422, -120.593270, "958 Sycamore Dr., Arroyo Grande"],
+            [35.126572, -120.581547, "250 Wesley St., Arroyo Grande"],
+            [35.193967, -120.715208, "1401 San Luis Bay Dr., Avila Beach"],
+            [35.180624, -120.733256, "191 San Miguel St., Avila Beach"],
+            [35.194958, -120.681242, "259 Squire Canyon Rd., Avila Beach"],
+            [35.124773, -120.627183, "338 N. 3rd St., Grover Beach"],
+            [35.120202, -120.626670, "251 S. 4th St., Grover Beach"],
+            [35.123621, -120.624910, "266 N. 5th St., Grover Beach"],
+            [35.108002, -120.609531, "240 Anita Ave., Grover Beach"],
+            [35.115854, -120.616578, "1230 Trouville Ave., Grover Beach"],
+            [35.115683, -120.611738, "1624 Trouville Ave., Grover Beach"],
+            [35.105805, -120.611494, "1341 18th St., Oceano"],
+            [35.102689, -120.603769, "1501 24th St., Oceano"],
+            [35.141748, -120.619004, "28 El Viento, Pismo Beach"],
+            [35.134519, -120.616391, "224 Irish Way, Pismo Beach"],
+            [35.143482, -120.641506, "990 Price St., Pismo Beach"],
+            [35.148810, -120.651196, "2411 Price St., Pismo Beach"],
+            [35.149153, -120.653452, "2555 Price St., Pismo Beach"],
+            [35.136528, -120.606985, "995 Skyline Dr., Pismo Beach"],
+            [35.156784, -120.677138, "302 Cuyama Ave., Shell Beach"],
+            [35.155398, -120.673018, "262 Esparto Ave., Shell Beach"],
+            [35.247297, -120.629542, "1330 Alder St., SLO"],
+            [35.263063, -120.687116, "1378 Avalon St., SLO"],
+            [35.291125, -120.670781, "79 Benton Way, SLO"],
+            [35.261906, -120.655375, "Bluerock Dr., SLO"],
+            [35.276596, -120.662295, "1410 Broad St. @ Pacific, SLO"],
+            [35.287044, -120.667729, "Center St., SLO"],
+            [35.295083, -120.677927, "171 Cerro Romauldo Ave., SLO"],
+            [35.331880, -120.728717, "3450 Dairy Creek Rd., SLO"],
+            [35.270140, -120.649130, "2378 Boulevard Del Campo, SLO"],
+            [35.265559, -120.698268, "1295 Descanso St., SLO"],
+            [35.236681, -120.675588, "107 Earthwood Ln., SLO"],
+            [35.255055, -120.695018, "1595 Eto Circle, SLO"],
+            [35.257552, -120.699459, "1383 Fairway Dr., SLO"],
+            [35.298910, -120.684954, "157 Fel Mar Dr., SLO"],
+            [35.264175, -120.638396, "1348 Fernwood Dr., SLO"],
+            [35.274520, -120.654666, "1011 George St., SLO"],
+            [35.122113, -120.634064, "1 Grand Ave., SLO"],
+            [35.264324, -120.635237, "3440 Gregory Ct., SLO"],
+            [35.284846, -120.654559, "1415 Higuera St., SLO"],
+            [35.276876, -120.658486, "Morro St. & Islay St., SLO"],
+            [35.278313, -120.655482, "1121 Islay St., SLO"],
+            [35.269615, -120.647253, "1215 Joyce Ct., SLO"],
+            [35.253618, -120.636411, "3962 Kilbern Way, SLO"],
+            [35.293831, -120.682958, "10 La Entrada Ave., SLO"],
+            [35.264210, -120.659173, "286 Lawrence Dr., SLO"],
+            [35.263965, -120.653293, "655 Lawrence Dr., SLO"],
+            [35.277910, -120.654495, "1148 Leff St., SLO"],
+            [35.260531, -120.695661, "11245 Los Osos Valley Rd., SLO"],
+            [35.259926, -120.699974, "1708 Lynn, SLO"],
+            [35.285083, -120.660090, "Mill & Toro, SLO"],
+            [35.288367, -120.651308, "1815 Monterey at Grand, SLO"],
+            [35.260767, -120.636610, "1430 Noveno Ave., SLO"],
+            [35.260794, -120.684820, "1552 Oceanaire Dr., SLO"],
+            [35.255958, -120.684262, "1906 Oceanaire Dr., SLO"],
+            [35.282736, -120.654597, "Pacific St., SLO"],
+            [35.255695, -120.688071, "1768 Pereira Dr., SLO"],
+            [35.246714, -120.629867, "1358 Purple Sage Ln., SLO"],
+            [35.255406, -120.663539, "333 Sage St., SLO"],
+            [35.255423, -120.661865, "373 Sage St., SLO"],
+            [35.192977, -120.715295, "1401 San Luis Bay Dr., SLO"],
+            [35.286554, -120.650418, "1739 San Luis Dr., SLO"],
+            [35.269203, -120.642908, "1391 San Marcos Ct., SLO"],
+            [35.276342, -120.656708, "1703 Santa Barbara Ave., SLO"],
+            [35.241860, -120.676929, "S. Higuera & Los Osos Valley Rd., SLO"],
+            [35.248051, -120.674354, "3960 S. Higuera St. #34, SLO"],
+            [35.264981, -120.635355, "3396 Southwood Dr., SLO"],
+            [35.264823, -120.629282, "1767 Southwood Dr., SLO"],
+            [35.247748, -120.627995, "4475 Wavertree St., SLO"],
+            [35.267197, -120.656072, "637 Woodbridge, SLO"]
+        ];
+
+        // Custom icon for libraries
+        const libraryIcon = L.icon({
+            iconUrl: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAzMCA0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTUgMEMxMCAwIDYgNCA2IDlDNiAxNiAxNSAyNSAxNSAyNUMxNSAyNSAyNCAxNiAyNCA5QzI0IDQgMjAgMCAxNSAwWiIgZmlsbD0iIzM4NzdmZiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHRleHQgeD0iMTUiIHk9IjE0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE0IiBmaWxsPSJ3aGl0ZSI+8J+TmjwvdGV4dD4KPC9zdmc+',
+            iconSize: [30, 40],
+            iconAnchor: [15, 40],
+            popupAnchor: [0, -40]
+        });
+
+        // Add markers for all libraries
+        libraries.forEach(lib => {
+            const marker = L.marker([lib[0], lib[1]], { icon: libraryIcon })
+                .addTo(map)
+                .bindPopup(`<strong>📚 Little Free Library</strong><br>${lib[2]}`);
+        });
+    </script>
+</body>
+</html>

@@ -1721,6 +1721,8 @@
 
 ## <a id="Little-Free-Libraries">Little Free Libraries</a>
 
+🗺️ **<a href="little-free-libraries-map.html" target="_blank" rel="noopener">View all 88 locations on an interactive map</a>**
+
 - **Website:** [littlefreelibrary.org](https://littlefreelibrary.org/)
 - **Locations:**
    - Arroyo Grande:
@@ -1826,12 +1828,14 @@
 
 ## <a id="Little-Free-Pantries">Little Free Pantries</a>
 
+🗺️ **<a href="little-free-pantries-map.html" target="_blank" rel="noopener">View all 36 locations on an interactive map</a>**
+
 Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, or removed. If you see one listed here that is no longer in service, please use the feedback button to tell us about it so we can remove it from the list.
 
 - **Website:** [littlefreepantry.org](https://www.littlefreepantry.org/)
 - **Locations:**
    - Arroyo Grande:
-      - 132 South Halcyon Rd. <a href="#" class="map-link" data-lat="35.117680" data-lon="-120.591688" data-zoom="17" data-label="Little Free Pantry">Map</a>`
+      - 132 South Halcyon Rd. <a href="#" class="map-link" data-lat="35.117680" data-lon="-120.591688" data-zoom="17" data-label="Little Free Pantry">Map</a>
       - 268 Summit Station Rd. <a href="#" class="map-link" data-lat="35.064428" data-lon="-120.517080" data-zoom="17" data-label="Little Free Pantry">Map</a>
    - Atascadero:
       - 9557 Curbaril Ave. <a href="#" class="map-link" data-lat="35.491538" data-lon="-120.647313" data-zoom="17" data-label="Little Free Pantry">Map</a>
