@@ -1721,7 +1721,7 @@
 
 ## <a id="Little-Free-Libraries">Little Free Libraries</a>
 
-🗺️ **<a href="little-free-libraries-map.html" target="_blank" rel="noopener">View all 88 locations on an interactive map</a>**
+🗺️ **<a href="little-free-libraries-map.html" target="_blank" rel="noopener">View all locations on an interactive map</a>**
 
 - **Website:** [littlefreelibrary.org](https://littlefreelibrary.org/)
 - **Locations:**
@@ -1828,7 +1828,7 @@
 
 ## <a id="Little-Free-Pantries">Little Free Pantries</a>
 
-🗺️ **<a href="little-free-pantries-map.html" target="_blank" rel="noopener">View all 36 locations on an interactive map</a>**
+🗺️ **<a href="little-free-pantries-map.html" target="_blank" rel="noopener">View all locations on an interactive map</a>**
 
 Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, or removed. If you see one listed here that is no longer in service, please use the feedback button to tell us about it so we can remove it from the list.
 

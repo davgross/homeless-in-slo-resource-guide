@@ -60,16 +60,23 @@
 <body>
     <div class="header">
         <h1>🥫 Little Free Pantries in SLO County</h1>
-        <p>36 locations county-wide • Click markers for addresses</p>
+        <p id="location-count">Loading locations...</p>
     </div>
     <a href="Directory.md#Little-Free-Pantries" class="back-link">← Back to Directory</a>
     <div id="map"></div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script>
+    <script type="module">
+        // Import location data (auto-generated from Directory.md)
+        import { locations, config } from './little-free-pantries-data.js';
+
+        // Update location count
+        document.getElementById('location-count').textContent =
+            `${locations.length} locations county-wide • Click markers for addresses`;
+
         // Initialize map - center on SLO County
-        const defaultCenter = [35.2828, -120.6596];
-        const defaultZoom = 10;
+        const defaultCenter = config.center;
+        const defaultZoom = config.defaultZoom;
 
         // Try to use user's location if available (without prompting)
         let userLocation = null;
@@ -106,46 +113,6 @@
             maxZoom: 19
         }).addTo(map);
 
-        // Little Free Pantry locations
-        const pantries = [
-            [35.117680, -120.591688, "132 South Halcyon Rd., Arroyo Grande"],
-            [35.064428, -120.517080, "268 Summit Station Rd., Arroyo Grande"],
-            [35.491538, -120.647313, "9557 Curbaril Ave., Atascadero"],
-            [35.449172, -120.633742, "9333 Santa Barbara Rd., Atascadero"],
-            [35.120336, -120.621656, "202 S. 8th St. / 770 Rockaway Ave., Grover Beach"],
-            [35.124713, -120.611462, "393 N. 16th St., Grover Beach"],
-            [35.125591, -120.619581, "925 Newport Ave., Grover Beach"],
-            [35.323564, -120.837615, "1500 block of 5th St., Los Osos"],
-            [35.323314, -120.832444, "1559 10th St., Los Osos"],
-            [35.313346, -120.845536, "490 Los Osos Valley Rd., Los Osos"],
-            [35.396754, -120.857001, "3000 Hemlock Ave., Morro Bay"],
-            [35.392420, -120.857967, "397 San Joaquin St., Morro Bay"],
-            [35.041418, -120.477533, "181 W Tefft St., Nipomo"],
-            [35.039950, -120.479340, "267 W Tefft St., Nipomo"],
-            [35.105814, -120.604037, "1322 24th St., Oceano"],
-            [35.102703, -120.603613, "1501 24th St., Oceano"],
-            [35.099906, -120.610517, "1930 Ocean St., Oceano"],
-            [35.107217, -120.624337, "615 Pier Ave., Oceano"],
-            [35.622280, -120.694835, "8th St. & Olive St., Paso Robles"],
-            [35.648648, -120.694685, "3301 Oak St., Paso Robles"],
-            [35.606196, -120.643111, "1003 Pioneer Trail Rd., Paso Robles"],
-            [35.135993, -120.610013, "206 Margo Way, Pismo Beach"],
-            [35.392602, -120.606745, "22210 El Camino Real, Santa Margarita"],
-            [35.386645, -120.606553, "22495 K St., Santa Margarita"],
-            [35.260531, -120.643519, "3320 Bullock Ln., SLO"],
-            [35.271279, -120.657976, "2021 Broad St., SLO"],
-            [35.295416, -120.673839, "226 Ferrini Rd., SLO"],
-            [35.272050, -120.665095, "335 High St., SLO"],
-            [35.276312, -120.648300, "2075 Johnson Ave., SLO"],
-            [35.260575, -120.695157, "11245 Los Osos Valley Rd., SLO"],
-            [35.276460, -120.667080, "474 Marsh St., SLO"],
-            [35.276676, -120.664180, "1306 Nipomo St., SLO"],
-            [35.276376, -120.662522, "695 Pismo St., SLO"],
-            [35.269527, -120.652344, "San Carlos & Bushnell, SLO"],
-            [35.291537, -120.683366, "193 San Jose Ct., SLO"],
-            [35.547338, -120.710440, "806 Old Country Rd., Templeton"]
-        ];
-
         // Custom icon for pantries
         const pantryIcon = L.icon({
             iconUrl: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAzMCA0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTUgMEMxMCAwIDYgNCA2IDlDNiAxNiAxNSAyNSAxNSAyNUMxNSAyNSAyNCAxNiAyNCA5QzI0IDQgMjAgMCAxNSAwWiIgZmlsbD0iI2U3NWUxMyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHRleHQgeD0iMTUiIHk9IjE0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE0IiBmaWxsPSJ3aGl0ZSI+8J+lqzwvdGV4dD4KPC9zdmc+',
@@ -155,10 +122,10 @@
         });
 
         // Add markers for all pantries
-        pantries.forEach(pantry => {
-            const marker = L.marker([pantry[0], pantry[1]], { icon: pantryIcon })
+        locations.forEach(location => {
+            const marker = L.marker([location.lat, location.lon], { icon: pantryIcon })
                 .addTo(map)
-                .bindPopup(`<strong>🥫 Little Free Pantry</strong><br>${pantry[2]}`);
+                .bindPopup(`<strong>🥫 Little Free Pantry</strong><br>${location.label}`);
         });
     </script>
 </body>
