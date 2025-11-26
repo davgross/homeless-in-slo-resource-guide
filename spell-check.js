@@ -25,7 +25,7 @@ const WHITELIST = new Set([
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
   'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO', 'LinkedIn', 'SkillsBuild',
   'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba', 'flexercise', 'BarreConnect',
-  'GriefShare', 'Alateen', 'Narateen', 'Overeaters',
+  'GriefShare', 'Alateen', 'Narateen', 'Overeaters', 'MaMa',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
@@ -42,7 +42,7 @@ const WHITELIST = new Set([
   'Margarita', 'Shandon', 'Creston', 'Paso', 'Robles', 'Baywood', 'Simeon', 'Estero', 'Woodlands',
   'Callender', 'Betteravia', 'Orcutt', 'Guadalupe', 'Santa', 'Maria', 'Halcyon', 'Leoni',
   'Rockaway', 'Barka', 'Balay', 'Ko', 'Toscano', 'Moylan', 'El', 'Camino', 'Solana', 'Laguna',
-  'Ventura', 'Carmel', 'Tiburon', 'Goleta', 'Cuyama', 'Cotchett', 'Wye', 'Shamel',
+  'Ventura', 'Carmel', 'Tiburon', 'Goleta', 'Cuyama', 'Cotchett', 'Wye', 'Shamel', 'Ynez',
 
   // Street types and names
   'St', 'Ave', 'Rd', 'Dr', 'Blvd', 'Ln', 'Ct', 'Cir', 'Pkwy', 'Pl', 'Higuera', 'Monterey',
@@ -54,13 +54,15 @@ const WHITELIST = new Set([
   'Stoneridge', 'Rockview', 'Bannon', 'Empresa', 'Tamson', 'Trigo', 'Fiero', 'Farroll', 'Bello',
   'Niblick', 'Ysabel', 'Ardilla', 'Clarkie', 'Viento', 'Esparto', 'Noveno', 'Pinecove', 'Pereira',
   'Wavertree', 'Nickerson', 'Portola', 'Empleo', 'Posada', 'Bluerock', 'Earthwood', 'Fel',
-  'Kilbern', 'Entrada', 'Breck', 'Corrida',
+  'Kilbern', 'Entrada', 'Breck', 'Corrida', 'Carmelita', 'Ferrocarril', 'Junipero', 'Mariquita',
+  'Palma', 'Powerline', 'Viscano', 'Pineridge', 'Weymouth', 'Cass', 'Lucerne', 'Bayview', 'Loma',
+  'Olivos', 'Pecho', 'Tierra', 'Cabrillo', 'Jacinto', 'Sandydale', 'Ranchita', 'Wessels',
 
   // Personal Names
   'Anna', 'Judson', 'DeVaul', 'Macadero', 'Cleaver', 'Clark', 'Halcyon', 'Willow', 'Madonna',
   'Marvin', 'Lizzie', 'Betty', 'Bettys', 'Woodson', 'Grayson', 'Ariana', 'Nielson', 'Lamore',
   'Vania', 'Agama', 'Layne', 'Rupe', 'Jauregui', 'Bruse', 'Rossi', 'Villalobos', 'Dowler',
-  'Rocio', 'Anaya', 'Butz', 'Scurich',
+  'Rocio', 'Anaya', 'Butz', 'Scurich', 'Beres', 'LeGrande',
 
   // Misc
   'website', 'email', 'voicemail', 'hotline', 'nonprofit', 'unhoused', 'rehousing', 'parolee',
@@ -87,8 +89,8 @@ const WHITELIST = new Set([
   "that’s", "there’s", "here’s", "what’s", "who’s", "where’s", "you’ve",
 
   // Possessives
-  "Foxy's", "Poly's",
-  "Foxy’s", "Poly’s",
+  "Foxy's", "Poly's", "else's",
+  "Foxy’s", "Poly’s", "else’s",
   
   // Words that might be flagged but are valid
   'pantries', 'thrift', 'thrifting', 'recycler', 'recyclers', 'respite', 'recuperative', 'sobering',
@@ -99,7 +101,7 @@ const WHITELIST = new Set([
   'victimizer', 'preparer', 'farmworker', 'unpermitted', 'unburned', 'analytics', 'cybersecurity',
   'rangeland', 'hotspot', 'pickleball', 'dodgeball', 'mahjong', 'uncategorized', 'mentorship',
   'onboarding', 'unenrolled', 'homeownership', 'homebuilding', 'homebound', 'farmworkers',
-  'responders', 'underserved', 'bocce', 'qigong',
+  'responders', 'underserved', 'bocce', 'qigong', 'café',
 
   // Spanish and Latin
   'familia', 'por', 'todo', 'nueva', 'generación', 'buena', 'de', 'capita', 'et', 'cetera',

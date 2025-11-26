@@ -1701,6 +1701,7 @@
 - **How to access:** accepts self-referrals, school referrals, and community agency referrals
 - Notes:
    - Operated by [**Center for Family Strengthening (CSF)**](#CSF)
+   - See also [**North County Family Resource Center**](#North-County-Family-Resource-Center)
    - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
 
 ## <a id="Literacy-For-Life">Literacy For Life</a>
@@ -2255,6 +2256,15 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 > *See [**SLO Noor Foundation**](#SLO-Noor-Foundation)*
 
+## <a id="North-County-Family-Resource-Center">North County Family Resource Center</a>
+
+- **Website:** [capslo.org/north-county-family-resource-center](https://capslo.org/north-county-family-resource-center/)
+- **Location:** 704 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="PLACEHOLDER">Map</a>
+- **Phone:** [805-440-1878](tel:+1-805-440-1878)
+- Notes:
+   - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
+   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
+
 ## <a id="North-County-NeighborAid">North County NeighborAid</a>
 
 - **Website:** [cfsslo.org/north-county-neighboraid](https://cfsslo.org/north-county-neighboraid/)
@@ -2657,6 +2667,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - Note:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
+   - See also [**North County Family Resource Center**](#North-County-Family-Resource-Center)
 
 ## <a id="St-Barnabas-Thrift-Shop">St. Barnabas Thrift Shop</a>
 

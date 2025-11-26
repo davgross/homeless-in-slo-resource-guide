@@ -1718,7 +1718,7 @@ You can also get free naloxone any time from these “NaloxBoxes":
 - Paso Robles: [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="Behavioral Health">805 4th St.</a>
 - Paso Robles: City Library, <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="City Library">1000 Spring St.</a>
 - Paso Robles: [**ECHO**](Directory.md#ECHO) (Paso Home Key), <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="ECHO Shelter">1134 Black Oak Dr.</a>
-- Paso Robles: [**Cuesta College**] Student Health Center <a href="#" class="map-link" data-lat="35.650584" data-lon="-120.670395" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
+- Paso Robles: [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.650584" data-lon="-120.670395" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
 - San Miguel: Community Park, <a href="#" class="map-link" data-lat="35.751293" data-lon="-120.699068" data-zoom="17" data-label="Community Park">1325 K St.</a>
 - Santa Margarita: Community Park, <a href="#" class="map-link" data-lat="35.392470" data-lon="-120.604482" data-zoom="17" data-label="Community Park">2210 H St.</a>
 - Shandon: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Shandon branch), <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="Public Library">195 N. 2nd St.</a>
@@ -1736,7 +1736,7 @@ You can also get free naloxone any time from these “NaloxBoxes":
 - [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (SLO branch), <a href="#" class="map-link" data-lat="35.282385" data-lon="-120.662284" data-zoom="17" data-label="Public Library">995 Palm St.</a>
 - [**Sun Street Centers**](Directory.md#Sun-Street-Centers), <a href="#" class="map-link" data-lat="35.256680" data-lon="-120.671937" data-zoom="17" data-label="Sun Street Centers">34 Prado Rd.</a>
 - The Anderson, <a href="#" class="map-link" data-lat="35.281304" data-lon="-120.661857" data-zoom="17" data-label="Anderson Hotel">965 Monterey St.</a>
-- [**Cuesta College**] Student Health Center <a href="#" class="map-link" data-lat="35.329871" data-lon="-120.740733" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
+- [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.329871" data-lon="-120.740733" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
 
 **South County:**
 
@@ -3066,7 +3066,7 @@ It helps with child care, transportation, educational expenses, and will even gi
 Apply for this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) or contact [Cal-Learn@dss.ca.gov](mailto:Cal-Learn@dss.ca.gov) if you have questions. <!-- Source: https://cdss.ca.gov/cal-learn -->
 
 The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
-To access this program, contact [the liaison for your school district](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) or contact the County Office of Education at [805-782-7268](+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org)..
+To access this program, contact [the liaison for your school district](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) or contact the County Office of Education at [805-782-7268](+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org).
 
 ### <a id="esl">English as a Second Language (ESL)</a>
 
@@ -3160,59 +3160,66 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 ## <a id="children-youth-parents">Children, Youth, and People with Children</a>
 
-> See [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation) in the [Health & Medical Care](#health-medical-care) section for pregnancy and postpartum resources.
+> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
+
+> See [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation) in the [Health & Medical Care](#health-medical-care) section of this guide for pregnancy and postpartum resources.
+
+> See [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic) in the [Food Resources](#food) section of this guide for information about the Women, Infants, and Children (WIC) program.
+
+> See [Family Law / Child Support](#family-law) in the [Legal Help & Crime Victim Protection](#legal-help) section of this guide for information about enforcing child support orders and other family law issues.
+
+> See the [Peer Support Groups: Pregnancy and Parenthood](#parenthood-peer-support) section for information about a variety of support groups for new parents and pregnant people.
+
+[**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs.
+
+[Help Me Grow SLO County](https://www.slohelpmegrow.org/) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues.
+They have two locations:
+<!-- https://sloparents.org/slo-frc-directory-2/ claims they also have “a clothing closet that includes basic needs items… available to the community” -->
+
+| Location | Phone | Hours |
+| -------- | ----- | ----- |
+| <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="Help Me Grow">1030 Southwood Dr., SLO</a> | [805-305-4481](tel:+1-805-305-4481) | M–F 8am–4:30pm |
+| <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Help Me Grow">704 Spring St., Paso Robles</a> | [805-440-1878](tel:+1-805-440-1878) | M–F 8am–4:30pm |
 
 ### <a id="homeless-youth">Resources for Homeless Youth</a>
 
-TBD
+> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Youth Crisis Line, the National Runaway Safeline, the Love is Respect line, and the Trevor Lifeline.
 
-<!-- TBD
-1. [5CHC Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach)
-   - Target: Unaccompanied youth aged 16–24
-   - Services: Case management, one-on-one support for immediate needs, housing assistance, individualized Action Plans
-   - Email/Phone: See [**5Cities Homeless Coalition**](Directory.md#5CHC) in the [Directory](Directory.md)
-1. [Lucia Mar Unified School District Families in Transition](https://www.luciamarschools.org/)
-   - Program: McKinney-Vento Homeless Assistance Act compliance for educational stability
-   - Services: Immediate enrollment, school transportation, food program eligibility, educational stability for homeless children and youth
-   - Target: Students who lack fixed, regular, adequate nighttime residence; serves approximately 1,800 homeless youth
-   - Contact: Wendy Bruse, McKinney-Vento Liaison — [805-474-3000](tel:+1-805-474-3000;ext=1221) x1221, [wendy.bruse@lmusd.org](mailto:wendy.bruse@lmusd.org)
-   - District Office: <a href="#" class="map-link" data-lat="35.115301" data-lon="-120.576263" data-zoom="17" data-label="Lucia Mar School District">602 Orchard Street, Arroyo Grande</a>, [805-474-3000](tel:+1-805-474-3000)
-1. Educational Continuity for Homeless Students (McKinney-Vento Act)
-   - Rights: School of origin attendance (remain at same school during homelessness), immediate enrollment without documents, free transportation, comparable services
-   - SLO County Coordinator: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), SLO County Office of Education, <a href="#" class="map-link" data-lat="35.334344" data-lon="-120.742872" data-zoom="16" data-label="SLO County Office of Education">3350 Education Drive, SLO</a>
-   - District Liaisons: Every SLO County school district has homeless/foster youth liaison:
-      - Atascadero USD: E.J. Rossi, [805-462-4200](tel:+1-805-462-4200)
-      - Cayucos: Liz Villalobos, [805-995-3694](tel:+1-805-995-3694)
-      - San Luis Coastal USD (SLCUSD): Chris Dowler, [805-549-1218](tel:+1-805-549-1218;ext=01283) x01283, [cdowler@slcusd.org](mailto:cdowler@slcusd.org)
-      - County Office: Jessica Thomas, [805-782-7268](tel:+1-805-782-7268), [jthomas@slocoe.org](mailto:jthomas@slocoe.org)
-      Source: [slocoe.org](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/)
-   - SAFE System of Care: Comprehensive behavioral health services for children/youth ages 0–21 and families. Provides wraparound services, care coordination, family advocacy, crisis intervention, and support to keep kids in their homes and schools.
-      - How to Access: Contact school counselors/homeless liaisons, SLO County Behavioral Health at [805-781-4700](tel:+1-805-781-4700), or dial 211 for 24/7 resource information. Services are family-driven and youth-guided with individualized treatment plans.
-      - (See also “S.A.F.E. South County Youth Coalition” above for more details)
-      - Services: Free school meals, special education, gifted programs; removes enrollment barriers and application deadlines [Source: https://www.slocoe.org/]
-1. [S.A.F.E. South County Youth Coalition](https://scyouthcoalition.com/)
-   - Full Name: Services Affirming Family Empowerment - one-stop Family Resource Center
-   - Mission: Community-based, school-linked, family-centered services to keep children safe, healthy, at home, in school, and out of trouble
-   - Services: Basic needs (clothing, food), counseling, medical/dental assistance, school advocacy, parenting classes, support groups, case management
-   - Additional: Need-based grants for sports, AP test fees, field trips, camps, music lessons; urgent assistance with transportation and toiletries
-   - Locations:
-      - <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1086 Grand Avenue, Arroyo Grande</a>; [805-474-2025](tel:+1-805-474-2025)
-      - <a href="#" class="map-link" data-lat="35.028129" data-lon="-120.498271" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">920 West Tefft St., Nipomo</a>; [805-474-3000](tel:+1-805-474-3000;ext=5147) x5147
-      - <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1511 19th St., Oceano</a>; [805-474-3690](tel:+1-805-474-3690)
-   - Email: [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org), [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com)
-   - “Appointments are preferred; walk-ins are welcome"
-   - Target: All individuals including birth/adoptive/resource families, kin-care providers, transitional aged youth, special needs population
--->
+> See [Summer Meal Sites (for Children)](#summer-meal-sites) in the [Food Resources](#food) section of this guide for information on how to get meals during the Summer months when school is out.
+
+> See [Free Clothes for Kids](#free-clothes-for-kids) in the [Clothing](#clothing) section of this guide for information about “Coats for Kids,” “Operation School Bell,” “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel.”
+
+> See [Medical Resources for Specific Populations: Children](#medical-resources-specific-populations) and [Medical Resources for Specific Populations: Teens & Youth](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for pediatric and other child-oriented medical services.
+
+> See [High School Diplomas and their Equivalents](#diploma-ged-hiset) in the [Education](#education-job-skills-training) section of this guide for ways to stay on track to get your diploma.
+
+> See the [Peer Support Groups: Behavioral Health](#behavioral-health-peer-support) section for information about Alateen and Narateen groups for teens who have family members who are addicts.
+
+> See the [Peer Support Groups: GLTBQ+](#glbtq-peer-support) section for information about support groups for queer and trans youth.
+
+The [**5Cities Homeless Coalition**](Directory.md#5CHC) has a [Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach) program that offers individualized case management to unaccompanied homeless youth (ages 16–24) with the goal of helping them with immediate needs, housing, independent living, steady employment, and continued education.
+
+#### Educational Continuity (McKinney-Vento Act)
+
+Federal law (the McKinney-Vento Homeless Assistance Act) protects homeless students in elementary through high school in several ways:
+
+1. You have the right to enroll in school even if you currently lack documents such as proof of residency, immunization records, or birth certificates.
+1. You have the right to attend the same school you were enrolled in when you were last housed, even if you have since lost your home.
+1. You have the right to transportation to and from school.
+1. You have the right to the same educational services as non-homeless students.
+1. If you are an unaccompanied homeless youth, you have the right to enroll in school without the consent of your parent or guardian.
+
+Homelessness, as the McKinney-Vento Act defines it, also includes situations when you are living at someone else’s house, living in a motel or campground, living in a vehicle, living in a shelter, or squatting in an abandoned building.
+
+Every school district has a McKinney-Vento liaison whom you can go to if you need help defending these rights.
+You can find [a list of these liaisons and their contact information](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) at the SLO County Office of Education website.
+
+The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
+To access this program, contact the McKinney-Vento liaison for your school district or contact the County Office of Education at [805-782-7268](+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org).
 
 <!-- TBD
 ### Uncategorized
 
-1. [**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County)
-   - Services: Parenting support resources and referrals, free workshops on child development and parenting strategies, individual caregiver support, navigation assistance for specialized services
-   - Target: Parents and caregivers in SLO County, professionals working with families
-   - Cost: Free workshops and resources
-   - Additional: Comprehensive resource directory, newsletters, social media presence (Facebook: ParentConnectionSLO, Instagram: @parentconnectionslo)
-   - Note: Contact directly for specific eligibility requirements and service details [Source: [sloparents.org](https://sloparents.org/)]
 1. [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center)
    - Target: Children ages 2–5 from traumatic circumstances including poverty, homelessness, foster care, domestic violence, child abuse
    - Services: Therapeutic early childhood education, mental health programs, school readiness curriculum, child nutrition (80% daily needs)
@@ -3275,9 +3282,6 @@ TBD
    - Services: Family Resource and Empowerment Center for families with special needs children; lending libraries, support groups, Special Education information, IEP support
    - Target: Families with children with special needs throughout SLO County; Early Start families (birth to 3)
    - Additional: Bilingual services, toys/games, free support services; operated under UCP of San Luis Obispo County since 1990
-1. [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center)
-   - Services: Serves at-risk children, youth and families; direct services, referrals, information distribution, work experience, parent education, family advocacy
-   - Coverage: Throughout San Luis Obispo County with bilingual staff and multiple regional family advocates
 1. [Bright Futures](https://www.luciamarschools.org/apps/pages/index.jsp?uREC_ID=888752&type=d&pREC_ID=2540975)
    - Free before- and after-school daycare + supper for elementary/middle-school children in Lucia Mar Unified School District
    - Enrolls priority students first (Foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services), then it is first-come, first-served. Sometimes there are wait lists, even for priority students. Submit one application per child.
@@ -3316,6 +3320,28 @@ TBD
 1. [PPSLO diaper bank, car seats, formula bank, etc.](https://www.ppsslo.org/practical-assistance)
 1. [First 5 SLO County](https://www.first5slo.org/what-we-do.php)
 1. [CAPSLO Services for Youth & Families](https://capslo.org/youthandfamily/)
+
+I'm confused about what SAFE is. Is it a variety of Family Resource Center? Are "Family Resource Centers" a standardized program that offer a standard set of things, or are they just a common name that's adopted by a variety of programs? Are these things that people self-refer to, or do they kind of get assigned to them by social workers and such? Online sources of information are vague on these points.
+
+1. SAFE System of Care: Comprehensive behavioral health services for children/youth ages 0–21 and families. Provides wraparound services, care coordination, family advocacy, crisis intervention, and support to keep kids in their homes and schools.
+   - How to Access: Contact school counselors/homeless liaisons, SLO County Behavioral Health at [805-781-4700](tel:+1-805-781-4700), or dial 211 for 24/7 resource information. Services are family-driven and youth-guided with individualized treatment plans.
+   - Services: Free school meals, special education, gifted programs; removes enrollment barriers and application deadlines [Source: https://www.slocoe.org/]
+1. [S.A.F.E. South County Youth Coalition](https://scyouthcoalition.com/)
+   - Full Name: Services Affirming Family Empowerment - one-stop Family Resource Center
+   - Mission: Community-based, school-linked, family-centered services to keep children safe, healthy, at home, in school, and out of trouble
+   - Services: Basic needs (clothing, food), counseling, medical/dental assistance, school advocacy, parenting classes, support groups, case management
+   - Additional: Need-based grants for sports, AP test fees, field trips, camps, music lessons; urgent assistance with transportation and toiletries
+   - Locations:
+      - <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1086 Grand Avenue, Arroyo Grande</a>; [805-474-2025](tel:+1-805-474-2025)
+      - <a href="#" class="map-link" data-lat="35.028129" data-lon="-120.498271" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">920 West Tefft St., Nipomo</a>; [805-474-3000](tel:+1-805-474-3000;ext=5147) x5147
+      - <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1511 19th St., Oceano</a>; [805-474-3690](tel:+1-805-474-3690)
+   - Email: [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org), [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com)
+   - “Appointments are preferred; walk-ins are welcome"
+   - Target: All individuals including birth/adoptive/resource families, kin-care providers, transitional aged youth, special needs population
+1. [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center)
+   - Services: Serves at-risk children, youth and families; direct services, referrals, information distribution, work experience, parent education, family advocacy
+   - Coverage: Throughout San Luis Obispo County with bilingual staff and multiple regional family advocates
+1. [North County Family Resource Center](https://capslo.org/north-county-family-resource-center/)
 -->
 
 <!-- TBD: find a home for this stuff:
@@ -3370,7 +3396,7 @@ They include groups for caregivers of people with dementia, for LGBTQ caregivers
 **Mental illness:** The SLO County chapter of National Alliance on Mental Illness holds [support groups](https://www.namislo.org/nami-support-groups) for family members of people with mental health challenges, online, in Arroyo Grande, and in Atascadero, every month.
 Contact [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) for details.
 
-[**Transitions Mental Health Association (TMHA)**](#TMHA) has weekly [support groups](https://www.t-mha.org/family-support-groups.php) in person and on Zoom for people with loved ones living with mental illness, in English and in Spanish.
+[**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has weekly [support groups](https://www.t-mha.org/family-support-groups.php) in person and on Zoom for people with loved ones living with mental illness, in English and in Spanish.
 They also have a variety of [in-person support groups](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) and more informal gatherings for people with mental illness, as well as several virtual/online support groups.
 
 **Parkinson’s disease:** The Central Coast Parkinson Association holds monthly in-person [support groups](https://www.myccpa.org/support-groups) in Atascadero, Morro Bay, Pismo Beach, and San Luis Obispo.
