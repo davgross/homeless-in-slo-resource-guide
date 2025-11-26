@@ -1749,10 +1749,41 @@
       - 494 Stagecoach Rd. <a href="#" class="map-link" data-lat="35.131236" data-lon="-120.564362" data-zoom="17" data-label="Little Free Library">Map</a>
       - 958 Sycamore Dr. <a href="#" class="map-link" data-lat="35.108422" data-lon="-120.593270" data-zoom="17" data-label="Little Free Library">Map</a>
       - 250 Wesley St. <a href="#" class="map-link" data-lat="35.126572" data-lon="-120.581547" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Atascadero:
+      - 9481 Carmel Rd. <a href="#" class="map-link" data-lat="35.439074" data-lon="-120.615227" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 8505 Carmelita Ave. <a href="#" class="map-link" data-lat="35.472397" data-lon="-120.673113" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 3155 El Camino Real <a href="#" class="map-link" data-lat="35.506468" data-lon="-120.690123" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2720 Ferrocarril Rd. <a href="#" class="map-link" data-lat="35.518062" data-lon="-120.682527" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 8934 Junipero Ave. <a href="#" class="map-link" data-lat="35.480842" data-lon="-120.652139" data-zoom="17" data-label="Little Free Library">Map</a>
+      - Mariquita Ave. <a href="#" class="map-link" data-lat="35.494020" data-lon="-120.672484" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 9125 Mountain View Dr. <a href="#" class="map-link" data-lat="35.466434" data-lon="-120.665097" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 5265 Palma Ave. <a href="#" class="map-link" data-lat="35.493723" data-lon="-120.675068" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 14985 Powerline Rd. <a href="#" class="map-link" data-lat="35.420287" data-lon="-120.628037" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 8155 San Gregorio Rd. <a href="#" class="map-link" data-lat="35.513614" data-lon="-120.722312" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 10675 San Marcos Rd. <a href="#" class="map-link" data-lat="35.463859" data-lon="-120.699431" data-zoom="16" data-label="Little Free Library">Map</a>
+      - 13400 Santa Ana Rd. <a href="#" class="map-link" data-lat="35.503843" data-lon="-120.725162" data-zoom="16" data-label="Little Free Library">Map</a>
+      - 6605 Santa Ynez Ave. <a href="#" class="map-link" data-lat="35.483352" data-lon="-120.669031" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 7310 Sonora Ave. <a href="#" class="map-link" data-lat="35.487968" data-lon="-120.655054" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 8437 Vaquero Ln. <a href="#" class="map-link" data-lat="35.476039" data-lon="-120.647912" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 4555 Viscano Ave. <a href="#" class="map-link" data-lat="35.507060" data-lon="-120.669193" data-zoom="17" data-label="Little Free Library">Map</a>
    - Avila Beach:
       - 1401 San Luis Bay Dr. <a href="#" class="map-link" data-lat="35.193967" data-lon="-120.715208" data-zoom="17" data-label="Little Free Library">Map</a>
       - 191 San Miguel St. <a href="#" class="map-link" data-lat="35.180624" data-lon="-120.733256" data-zoom="17" data-label="Little Free Library">Map</a>
       - 259 Squire Canyon Rd. <a href="#" class="map-link" data-lat="35.194958" data-lon="-120.681242" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Cambria:
+      - 6404 Buckley Dr. <a href="#" class="map-link" data-lat="35.574393" data-lon="-121.098921" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 701 Drake St. <a href="#" class="map-link" data-lat="35.548281" data-lon="-121.091709" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 521 Hastings St. <a href="#" class="map-link" data-lat="35.564578" data-lon="-121.102896" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2750 Holden Pl. <a href="#" class="map-link" data-lat="35.547895" data-lon="-121.074863" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 383 Orlando Dr. <a href="#" class="map-link" data-lat="35.547507" data-lon="-121.094860" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1176 Pineridge Dr. <a href="#" class="map-link" data-lat="35.541138" data-lon="-121.073378" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 365 Weymouth St. <a href="#" class="map-link" data-lat="35.571884" data-lon="-121.107462" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Cayucos:
+      - 84 13th St. <a href="#" class="map-link" data-lat="35.441637" data-lon="-120.891423" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1175 Cass Ave. <a href="#" class="map-link" data-lat="35.441671" data-lon="-120.893139" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 151 F St. <a href="#" class="map-link" data-lat="35.448532" data-lon="-120.901740" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 517 Lucerne Rd. <a href="#" class="map-link" data-lat="35.448889" data-lon="-120.910614" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 625 S. Ocean Ave. <a href="#" class="map-link" data-lat="35.445027" data-lon="-120.896035" data-zoom="17" data-label="Little Free Library">Map</a>
    - Grover Beach:
       - 338 N. 3rd St. <a href="#" class="map-link" data-lat="35.124773" data-lon="-120.627183" data-zoom="17" data-label="Little Free Library">Map</a>
       - 251 S. 4th St. <a href="#" class="map-link" data-lat="35.120202" data-lon="-120.626670" data-zoom="17" data-label="Little Free Library">Map</a>
@@ -1760,20 +1791,70 @@
       - 240 Anita Ave. <a href="#" class="map-link" data-lat="35.108002" data-lon="-120.609531" data-zoom="17" data-label="Little Free Libraries">Map</a>
       - 1230 Trouville Ave. <a href="#" class="map-link" data-lat="35.115854" data-lon="-120.616578" data-zoom="17" data-label="Little Free Libraries">Map</a>
       - 1624 Trouville Ave. <a href="#" class="map-link" data-lat="35.115683" data-lon="-120.611738" data-zoom="17" data-label="Little Free Libraries">Map</a>
-   - Oceano
+   - Los Osos / Baywood Park:
+      - 1643 4th St. <a href="#" class="map-link" data-lat="35.321573" data-lon="-120.839052" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1182 7th St. <a href="#" class="map-link" data-lat="35.330479" data-lon="-120.835297" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1855 7th St. <a href="#" class="map-link" data-lat="35.317787" data-lon="-120.835598" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1180 9th St. <a href="#" class="map-link" data-lat="35.330435" data-lon="-120.833012" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1257 11th St. <a href="#" class="map-link" data-lat="35.328834" data-lon="-120.830823" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1426 16th St. <a href="#" class="map-link" data-lat="35.325639" data-lon="-120.825394" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1539 18th St. <a href="#" class="map-link" data-lat="35.323582" data-lon="-120.823474" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1639 18th St. <a href="#" class="map-link" data-lat="35.321708" data-lon="-120.823474" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2130 Andre Ave. <a href="#" class="map-link" data-lat="35.310294" data-lon="-120.820349" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2315 Bayview Heights Dr. <a href="#" class="map-link" data-lat="35.309403" data-lon="-120.833878" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2148 Bush Dr. <a href="#" class="map-link" data-lat="35.311895" data-lon="-120.834482" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2149 Lariat Dr. <a href="#" class="map-link" data-lat="35.307316" data-lon="-120.811683" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 561 Loma St. <a href="#" class="map-link" data-lat="35.317673" data-lon="-120.843891" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1351 Los Olivos Ave. <a href="#" class="map-link" data-lat="35.312628" data-lon="-120.825568" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1078 Los Osos Valley Rd. <a href="#" class="map-link" data-lat="35.311720" data-lon="-120.831102" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2003 Lost Oak Dr. <a href="#" class="map-link" data-lat="35.314850" data-lon="-120.826659" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 732 Manzanita Dr. <a href="#" class="map-link" data-lat="35.310765" data-lon="-120.838720" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2345 Oak Ridge Dr. <a href="#" class="map-link" data-lat="35.307342" data-lon="-120.825877" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2100 Pecho Rd. <a href="#" class="map-link" data-lat="35.314075" data-lon="-120.851884" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 948 Santa Maria Ave. <a href="#" class="map-link" data-lat="35.328212" data-lon="-120.834610" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1188 Scenic Way <a href="#" class="map-link" data-lat="35.330164" data-lon="-120.821371" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2340 Tierra Dr. <a href="#" class="map-link" data-lat="35.307885" data-lon="-120.826553" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Morro Bay:
+      - 720 Cabrillo Pl. <a href="#" class="map-link" data-lat="35.355395" data-lon="-120.843558" data-zoom="17" data-label="Little Free Library">Map</a>
+      - Cloisters Community Park <a href="#" class="map-link" data-lat="35.390449" data-lon="-120.861604" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 482 Estero Ave. <a href="#" class="map-link" data-lat="35.361721" data-lon="-120.844277" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2401 Ironwood Ave. <a href="#" class="map-link" data-lat="35.387703" data-lon="-120.853193" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 495 Main St. <a href="#" class="map-link" data-lat="35.361784" data-lon="-120.850224" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 450 San Jacinto St. <a href="#" class="map-link" data-lat="35.394094" data-lon="-120.857676" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Nipomo:
+      - 421 N. Las Flores Dr. <a href="#" class="map-link" data-lat="35.016626" data-lon="-120.511421" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 789 Live Oak Ridge Rd. <a href="#" class="map-link" data-lat="35.044438" data-lon="-120.516232" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 525 Sandydale Dr. <a href="#" class="map-link" data-lat="35.044833" data-lon="-120.493745" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Oceano:
       - 1341 18th St. <a href="#" class="map-link" data-lat="35.105805" data-lon="-120.611494" data-zoom="17" data-label="Little Free Library">Map</a>
       - 1501 24th St. <a href="#" class="map-link" data-lat="35.102689" data-lon="-120.603769" data-zoom="17" data-label="Little Free Library">Map</a>
-   - Pismo Beach
+   - Paso Robles:
+      - 14140 Chimney Rock Rd. <a href="#" class="map-link" data-lat="35.685885" data-lon="-120.949099" data-zoom="15" data-label="Little Free Library">Map</a>
+      - 5090 Deer Creek Way <a href="#" class="map-link" data-lat="35.675182" data-lon="-120.599488" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1130 Merry Hill Rd. <a href="#" class="map-link" data-lat="35.626407" data-lon="-120.701740" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2247 Oak St. <a href="#" class="map-link" data-lat="35.637880" data-lon="-120.693794" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2004 Pine St. <a href="#" class="map-link" data-lat="35.635204" data-lon="-120.689301" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 3773 Ruth Way #A <a href="#" class="map-link" data-lat="35.635204" data-lon="-120.689301" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1103 Spring St. <a href="#" class="map-link" data-lat="35.625533" data-lon="-120.692883" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 539 Veronica Dr. <a href="#" class="map-link" data-lat="35.620405" data-lon="-120.668131" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 2105 Vine St. <a href="#" class="map-link" data-lat="35.636053" data-lon="-120.695039" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 904 Vista Cerro Dr. <a href="#" class="map-link" data-lat="35.626666" data-lon="-120.657874" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Pismo Beach:
       - 28 El Viento <a href="#" class="map-link" data-lat="35.141748" data-lon="-120.619004" data-zoom="17" data-label="Little Free Library">Map</a>
       - 224 Irish Way <a href="#" class="map-link" data-lat="35.134519" data-lon="-120.616391" data-zoom="17" data-label="Little Free Library">Map</a>
       - 990 Price St. <a href="#" class="map-link" data-lat="35.143482" data-lon="-120.641506" data-zoom="17" data-label="Little Free Library">Map</a>
       - 2411 Price St. <a href="#" class="map-link" data-lat="35.148810" data-lon="-120.651196" data-zoom="17" data-label="Little Free Library">Map</a>
       - 2555 Price St. <a href="#" class="map-link" data-lat="35.149153" data-lon="-120.653452" data-zoom="17" data-label="Little Free Library">Map</a>
       - 995 Skyline Dr. <a href="#" class="map-link" data-lat="35.136528" data-lon="-120.606985" data-zoom="17" data-label="Little Free Library">Map</a>
-   - Shell Beach
+   - San Miguel:
+      - 1197 L St. <a href="#" class="map-link" data-lat="35.750082" data-lon="-120.698097" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Santa Margarita:
+      - 22070 H St. <a href="#" class="map-link" data-lat="35.394411" data-lon="-120.600808" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 3120 Ranchita Canyon Rd. <a href="#" class="map-link" data-lat="35.735801" data-lon="-120.607985" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Shell Beach:
       - 302 Cuyama Ave. <a href="#" class="map-link" data-lat="35.156784" data-lon="-120.677138" data-zoom="17" data-label="Little Free Library">Map</a>
       - 262 Esparto Ave. <a href="#" class="map-link" data-lat="35.155398" data-lon="-120.673018" data-zoom="17" data-label="Little Free Library">Map</a>
-   - SLO
+   - SLO:
       - 1330 Alder St. <a href="#" class="map-link" data-lat="35.247297" data-lon="-120.629542" data-zoom="16" data-label="Little Free Library">Map</a>
       - 1378 Avalon St. (@ Oceanaire Dr.) <a href="#" class="map-link" data-lat="35.263063" data-lon="-120.687116" data-zoom="17" data-label="Little Free Library">Map</a>
       - 79 Benton Way <a href="#" class="map-link" data-lat="35.291125" data-lon="-120.670781" data-zoom="17" data-label="Little Free Library">Map</a>
@@ -1824,6 +1905,13 @@
       - 1767 Southwood Dr. <a href="#" class="map-link" data-lat="35.264823" data-lon="-120.629282" data-zoom="17" data-label="Little Free Library">Map</a>
       - 4475 Wavertree St. <a href="#" class="map-link" data-lat="35.247748" data-lon="-120.627995" data-zoom="17" data-label="Little Free Library">Map</a>
       - 637 Woodbridge <a href="#" class="map-link" data-lat="35.267197" data-lon="-120.656072" data-zoom="17" data-label="Little Free Library">Map</a>
+   - Templeton:
+      - 785 Ashley Ln. <a href="#" class="map-link" data-lat="35.540835" data-lon="-120.717790" data-zoom="18" data-label="Little Free Library">Map</a>
+      - 620 Old Country Rd. <a href="#" class="map-link" data-lat="35.549455" data-lon="-120.709426" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 308 Puffin Way <a href="#" class="map-link" data-lat="35.553923" data-lon="-120.730080" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 215 S. Main St. <a href="#" class="map-link" data-lat="35.550900" data-lon="-120.703762" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 1027 Santa Rita Rd. <a href="#" class="map-link" data-lat="35.542668" data-lon="-120.722494" data-zoom="17" data-label="Little Free Library">Map</a>
+      - 158 Wessels Way <a href="#" class="map-link" data-lat="35.555604" data-lon="-120.706229" data-zoom="17" data-label="Little Free Library">Map</a>
 - **Hours:** Daily, 24/7
 
 ## <a id="Little-Free-Pantries">Little Free Pantries</a>

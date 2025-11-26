@@ -14,15 +14,6 @@
 
 1. Review the site under a variety of color-blindness simulators to see if it's still readable.
 
-1. ✅ **COMPLETED**: For things like Little Free Libraries and Little Free Pantries, rather than just giving a large list of them with their street addresses and map links, it would be nice to have a single, zoomable map that shows the locations of *all* of them, perhaps centered on the user's current location (if that location is known and is within the region contaning them).
-   - Created `little-free-libraries-map.html` with 88 locations
-   - Created `little-free-pantries-map.html` with 36 locations
-   - Both maps use Leaflet.js for interactive mapping
-   - Maps attempt to use user's geolocation if already available (without prompting)
-   - Fall back to SLO County center if location not available or outside region
-   - Added prominent links to maps at the top of each Directory section
-   - Individual location listings remain in place
-
 1. Create a song-and-dance presentation to show the app off to service providers; make a shareable video out of it. It should highlight 1) why this is superior to other similar projects (e.g. easier to keep updated, easier to collaborate on, feedback button, FOSS), 2) how to get involved, 3) scope (SLO County), ...
 
 1. Figure out how to make sure DNS / hosting / GitHub credentials can get handed off gracefully in case D.G. is incapacitated.

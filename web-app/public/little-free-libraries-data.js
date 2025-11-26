@@ -141,6 +141,102 @@ export const locations = [
     "label": "250 Wesley St."
   },
   {
+    "lat": 35.439074,
+    "lon": -120.615227,
+    "zoom": 17,
+    "label": "9481 Carmel Rd."
+  },
+  {
+    "lat": 35.472397,
+    "lon": -120.673113,
+    "zoom": 17,
+    "label": "8505 Carmelita Ave."
+  },
+  {
+    "lat": 35.506468,
+    "lon": -120.690123,
+    "zoom": 17,
+    "label": "3155 El Camino Real"
+  },
+  {
+    "lat": 35.518062,
+    "lon": -120.682527,
+    "zoom": 17,
+    "label": "2720 Ferrocarril Rd."
+  },
+  {
+    "lat": 35.480842,
+    "lon": -120.652139,
+    "zoom": 17,
+    "label": "8934 Junipero Ave."
+  },
+  {
+    "lat": 35.49402,
+    "lon": -120.672484,
+    "zoom": 17,
+    "label": "Mariquita Ave."
+  },
+  {
+    "lat": 35.466434,
+    "lon": -120.665097,
+    "zoom": 17,
+    "label": "9125 Mountain View Dr."
+  },
+  {
+    "lat": 35.493723,
+    "lon": -120.675068,
+    "zoom": 17,
+    "label": "5265 Palma Ave."
+  },
+  {
+    "lat": 35.420287,
+    "lon": -120.628037,
+    "zoom": 17,
+    "label": "14985 Powerline Rd."
+  },
+  {
+    "lat": 35.513614,
+    "lon": -120.722312,
+    "zoom": 17,
+    "label": "8155 San Gregorio Rd."
+  },
+  {
+    "lat": 35.463859,
+    "lon": -120.699431,
+    "zoom": 16,
+    "label": "10675 San Marcos Rd."
+  },
+  {
+    "lat": 35.503843,
+    "lon": -120.725162,
+    "zoom": 16,
+    "label": "13400 Santa Ana Rd."
+  },
+  {
+    "lat": 35.483352,
+    "lon": -120.669031,
+    "zoom": 17,
+    "label": "6605 Santa Ynez Ave."
+  },
+  {
+    "lat": 35.487968,
+    "lon": -120.655054,
+    "zoom": 17,
+    "label": "7310 Sonora Ave."
+  },
+  {
+    "lat": 35.476039,
+    "lon": -120.647912,
+    "zoom": 17,
+    "label": "8437 Vaquero Ln."
+  },
+  {
+    "lat": 35.50706,
+    "lon": -120.669193,
+    "zoom": 17,
+    "label": "4555 Viscano Ave."
+  },
+  {
     "lat": 35.193967,
     "lon": -120.715208,
     "zoom": 17,
@@ -157,6 +253,78 @@ export const locations = [
     "lon": -120.681242,
     "zoom": 17,
     "label": "259 Squire Canyon Rd."
+  },
+  {
+    "lat": 35.574393,
+    "lon": -121.098921,
+    "zoom": 17,
+    "label": "6404 Buckley Dr."
+  },
+  {
+    "lat": 35.548281,
+    "lon": -121.091709,
+    "zoom": 17,
+    "label": "701 Drake St."
+  },
+  {
+    "lat": 35.564578,
+    "lon": -121.102896,
+    "zoom": 17,
+    "label": "521 Hastings St."
+  },
+  {
+    "lat": 35.547895,
+    "lon": -121.074863,
+    "zoom": 17,
+    "label": "2750 Holden Pl."
+  },
+  {
+    "lat": 35.547507,
+    "lon": -121.09486,
+    "zoom": 17,
+    "label": "383 Orlando Dr."
+  },
+  {
+    "lat": 35.541138,
+    "lon": -121.073378,
+    "zoom": 17,
+    "label": "1176 Pineridge Dr."
+  },
+  {
+    "lat": 35.571884,
+    "lon": -121.107462,
+    "zoom": 17,
+    "label": "365 Weymouth St."
+  },
+  {
+    "lat": 35.441637,
+    "lon": -120.891423,
+    "zoom": 17,
+    "label": "84 13th St."
+  },
+  {
+    "lat": 35.441671,
+    "lon": -120.893139,
+    "zoom": 17,
+    "label": "1175 Cass Ave."
+  },
+  {
+    "lat": 35.448532,
+    "lon": -120.90174,
+    "zoom": 17,
+    "label": "151 F St."
+  },
+  {
+    "lat": 35.448889,
+    "lon": -120.910614,
+    "zoom": 17,
+    "label": "517 Lucerne Rd."
+  },
+  {
+    "lat": 35.445027,
+    "lon": -120.896035,
+    "zoom": 17,
+    "label": "625 S. Ocean Ave."
   },
   {
     "lat": 35.124773,
@@ -195,6 +363,192 @@ export const locations = [
     "label": "1624 Trouville Ave."
   },
   {
+    "lat": 35.321573,
+    "lon": -120.839052,
+    "zoom": 17,
+    "label": "1643 4th St."
+  },
+  {
+    "lat": 35.330479,
+    "lon": -120.835297,
+    "zoom": 17,
+    "label": "1182 7th St."
+  },
+  {
+    "lat": 35.317787,
+    "lon": -120.835598,
+    "zoom": 17,
+    "label": "1855 7th St."
+  },
+  {
+    "lat": 35.330435,
+    "lon": -120.833012,
+    "zoom": 17,
+    "label": "1180 9th St."
+  },
+  {
+    "lat": 35.328834,
+    "lon": -120.830823,
+    "zoom": 17,
+    "label": "1257 11th St."
+  },
+  {
+    "lat": 35.325639,
+    "lon": -120.825394,
+    "zoom": 17,
+    "label": "1426 16th St."
+  },
+  {
+    "lat": 35.323582,
+    "lon": -120.823474,
+    "zoom": 17,
+    "label": "1539 18th St."
+  },
+  {
+    "lat": 35.321708,
+    "lon": -120.823474,
+    "zoom": 17,
+    "label": "1639 18th St."
+  },
+  {
+    "lat": 35.310294,
+    "lon": -120.820349,
+    "zoom": 17,
+    "label": "2130 Andre Ave."
+  },
+  {
+    "lat": 35.309403,
+    "lon": -120.833878,
+    "zoom": 17,
+    "label": "2315 Bayview Heights Dr."
+  },
+  {
+    "lat": 35.311895,
+    "lon": -120.834482,
+    "zoom": 17,
+    "label": "2148 Bush Dr."
+  },
+  {
+    "lat": 35.307316,
+    "lon": -120.811683,
+    "zoom": 17,
+    "label": "2149 Lariat Dr."
+  },
+  {
+    "lat": 35.317673,
+    "lon": -120.843891,
+    "zoom": 17,
+    "label": "561 Loma St."
+  },
+  {
+    "lat": 35.312628,
+    "lon": -120.825568,
+    "zoom": 17,
+    "label": "1351 Los Olivos Ave."
+  },
+  {
+    "lat": 35.31172,
+    "lon": -120.831102,
+    "zoom": 17,
+    "label": "1078 Los Osos Valley Rd."
+  },
+  {
+    "lat": 35.31485,
+    "lon": -120.826659,
+    "zoom": 17,
+    "label": "2003 Lost Oak Dr."
+  },
+  {
+    "lat": 35.310765,
+    "lon": -120.83872,
+    "zoom": 17,
+    "label": "732 Manzanita Dr."
+  },
+  {
+    "lat": 35.307342,
+    "lon": -120.825877,
+    "zoom": 17,
+    "label": "2345 Oak Ridge Dr."
+  },
+  {
+    "lat": 35.314075,
+    "lon": -120.851884,
+    "zoom": 17,
+    "label": "2100 Pecho Rd."
+  },
+  {
+    "lat": 35.328212,
+    "lon": -120.83461,
+    "zoom": 17,
+    "label": "948 Santa Maria Ave."
+  },
+  {
+    "lat": 35.330164,
+    "lon": -120.821371,
+    "zoom": 17,
+    "label": "1188 Scenic Way"
+  },
+  {
+    "lat": 35.307885,
+    "lon": -120.826553,
+    "zoom": 17,
+    "label": "2340 Tierra Dr."
+  },
+  {
+    "lat": 35.355395,
+    "lon": -120.843558,
+    "zoom": 17,
+    "label": "720 Cabrillo Pl."
+  },
+  {
+    "lat": 35.390449,
+    "lon": -120.861604,
+    "zoom": 17,
+    "label": "Cloisters Community Park"
+  },
+  {
+    "lat": 35.361721,
+    "lon": -120.844277,
+    "zoom": 17,
+    "label": "482 Estero Ave."
+  },
+  {
+    "lat": 35.387703,
+    "lon": -120.853193,
+    "zoom": 17,
+    "label": "2401 Ironwood Ave."
+  },
+  {
+    "lat": 35.361784,
+    "lon": -120.850224,
+    "zoom": 17,
+    "label": "495 Main St."
+  },
+  {
+    "lat": 35.394094,
+    "lon": -120.857676,
+    "zoom": 17,
+    "label": "450 San Jacinto St."
+  },
+  {
+    "lat": 35.016626,
+    "lon": -120.511421,
+    "zoom": 17,
+    "label": "421 N. Las Flores Dr."
+  },
+  {
+    "lat": 35.044438,
+    "lon": -120.516232,
+    "zoom": 17,
+    "label": "789 Live Oak Ridge Rd."
+  },
+  {
+    "lat": 35.044833,
+    "lon": -120.493745,
+    "zoom": 17,
+    "label": "525 Sandydale Dr."
+  },
+  {
     "lat": 35.105805,
     "lon": -120.611494,
     "zoom": 17,
@@ -205,6 +559,66 @@ export const locations = [
     "lon": -120.603769,
     "zoom": 17,
     "label": "1501 24th St."
+  },
+  {
+    "lat": 35.685885,
+    "lon": -120.949099,
+    "zoom": 15,
+    "label": "14140 Chimney Rock Rd."
+  },
+  {
+    "lat": 35.675182,
+    "lon": -120.599488,
+    "zoom": 17,
+    "label": "5090 Deer Creek Way"
+  },
+  {
+    "lat": 35.626407,
+    "lon": -120.70174,
+    "zoom": 17,
+    "label": "1130 Merry Hill Rd."
+  },
+  {
+    "lat": 35.63788,
+    "lon": -120.693794,
+    "zoom": 17,
+    "label": "2247 Oak St."
+  },
+  {
+    "lat": 35.635204,
+    "lon": -120.689301,
+    "zoom": 17,
+    "label": "2004 Pine St."
+  },
+  {
+    "lat": 35.635204,
+    "lon": -120.689301,
+    "zoom": 17,
+    "label": "3773 Ruth Way #A"
+  },
+  {
+    "lat": 35.625533,
+    "lon": -120.692883,
+    "zoom": 17,
+    "label": "1103 Spring St."
+  },
+  {
+    "lat": 35.620405,
+    "lon": -120.668131,
+    "zoom": 17,
+    "label": "539 Veronica Dr."
+  },
+  {
+    "lat": 35.636053,
+    "lon": -120.695039,
+    "zoom": 17,
+    "label": "2105 Vine St."
+  },
+  {
+    "lat": 35.626666,
+    "lon": -120.657874,
+    "zoom": 17,
+    "label": "904 Vista Cerro Dr."
   },
   {
     "lat": 35.141748,
@@ -241,6 +655,24 @@ export const locations = [
     "lon": -120.606985,
     "zoom": 17,
     "label": "995 Skyline Dr."
+  },
+  {
+    "lat": 35.750082,
+    "lon": -120.698097,
+    "zoom": 17,
+    "label": "1197 L St."
+  },
+  {
+    "lat": 35.394411,
+    "lon": -120.600808,
+    "zoom": 17,
+    "label": "22070 H St."
+  },
+  {
+    "lat": 35.735801,
+    "lon": -120.607985,
+    "zoom": 17,
+    "label": "3120 Ranchita Canyon Rd."
   },
   {
     "lat": 35.156784,
@@ -547,6 +979,42 @@ export const locations = [
     "lon": -120.656072,
     "zoom": 17,
     "label": "637 Woodbridge"
+  },
+  {
+    "lat": 35.540835,
+    "lon": -120.71779,
+    "zoom": 18,
+    "label": "785 Ashley Ln."
+  },
+  {
+    "lat": 35.549455,
+    "lon": -120.709426,
+    "zoom": 17,
+    "label": "620 Old Country Rd."
+  },
+  {
+    "lat": 35.553923,
+    "lon": -120.73008,
+    "zoom": 17,
+    "label": "308 Puffin Way"
+  },
+  {
+    "lat": 35.5509,
+    "lon": -120.703762,
+    "zoom": 17,
+    "label": "215 S. Main St."
+  },
+  {
+    "lat": 35.542668,
+    "lon": -120.722494,
+    "zoom": 17,
+    "label": "1027 Santa Rita Rd."
+  },
+  {
+    "lat": 35.555604,
+    "lon": -120.706229,
+    "zoom": 17,
+    "label": "158 Wessels Way"
   }
 ];
 
