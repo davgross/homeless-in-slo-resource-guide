@@ -356,6 +356,11 @@ a[id]:not([href]):not([data-directory-link]) {
   cursor: text;
 }
 
+/* Internal anchor links within Resource guide use Montserrat Alternates (same as headings) */
+#resources-section a[href^="#"] {
+  font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
 /* External links */
 a[target="_blank"]::after {
   content: "\00a0↗";

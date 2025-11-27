@@ -1191,7 +1191,9 @@
 
 - **Phone:** [805-781-4687](tel:+1-805-781-4687)
 - **Email:** [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us)
-- Note: [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entry-point for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
+- Notes:
+   - [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entry-point for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
+   - Offered to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
 
 ## <a id="EyeCare-America">EyeCare America</a>
 
@@ -1629,7 +1631,7 @@
 
 ## Kinship Center
 
-> *See [Seneca Central Coast](#Seneca-Central-Coast)*
+> *See [**Seneca Central Coast**](#Seneca-Central-Coast)*
 
 ## <a id="Kritter-Care">Kritter Care</a>
 
@@ -2787,7 +2789,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Location:** 6850 Morro Rd., Atascadero <a href="#" class="map-link" data-lat="35.482077" data-lon="-120.666571" data-zoom="17" data-label="Seneca Central Coast">Map</a>
 - **Phone:** [805-434-2449](tel:+1-805-434-2449)
 - **Email:** [info@senecacenter.org](mailto:info@senecacenter.org)
-- Notes: formerly called “Kinship Center”
+- Notes:
+   - formerly called “Kinship Center”
+   - offers [**Enhanced Care Management**](#Enhanced-Care-Management)
 
 ## <a id="Senior-Connection">Senior Connection</a>
 

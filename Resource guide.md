@@ -129,19 +129,6 @@ If you want to suggest corrections or improvements, or to join our development t
 When you meet with case managers and service providers, there are things you can do to make it more likely that they will be able to help you.
 This section of the guide gives some good general tips.
 
-**In this section:**
-
-- [Build Good Relationships with Case Managers and Service Providers](#build-good-relationships)
-- [Manage Appointments and Commitments](#manage-appointments)
-- [Know Your Rights](#know-your-rights)
-- [Document Everything](#document-everything)
-- [Focus on Your Goals and Strengths](#focus-on-goals)
-- [Navigate System Barriers](#navigate-system-barriers)
-- [Work with Multiple Service Providers](#work-with-multiple-providers)
-- [Set Goals and Track Progress](#set-goals-and-track-progress)
-- [When Things Go Wrong](#when-things-go-wrong)
-- [Find and Use Resources](#find-and-use-resources)
-
 ### <a id="build-good-relationships">Build Good Relationships with Case Managers and Service Providers</a>
 
 You can get better results by being prepared.
@@ -530,18 +517,18 @@ Discuss this with your case manager if you have one, or with the [**Long-Term Ca
 The projects in this subsection are not yet housing people but hope to do so soon.
 
 [**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarily single seniors.
-As of October 2025 the project is still under construction and is not admitting residents.
+As of November 2025 the project is still under construction and is not admitting residents.
 
 [**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city on county-owned land.
 Priority is given to Bob Jones Bike Trail encampment residents.
-As of October 2025 the project is still under construction and is not admitting residents.
+As of November 2025 the project is still under construction and is not admitting residents.
 
 Restorative Partners is creating a [**Healing and Restoration Campus**](Directory.md#Healing-and-Restoration-Campus) near Laguna Lake in SLO, which is meant to have 34 private bedrooms and shared communal facilities.
 It will also offer job training and support.
 It is designed specifically for people reentering society from incarceration.
 
 [**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for chronically homeless people, prioritizing for veterans, women, and elderly with little or no income.
-As of October 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
+As of November 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
 
 The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) in Atascadero hopes to add 30 shelter beds for families to what is currently offered by [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)
 
@@ -1040,7 +1027,7 @@ Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can ge
 
 [**Shower the People**](Directory.md#Shower-the-People) gives you new socks, underwear, and a t-shirt.
 
-[**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of October 2025) is still looking for an office to operate from.
+[**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of November 2025) is still looking for an office to operate from.
 
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) has a program that gives free winter clothes to area seniors.
 
@@ -3185,6 +3172,11 @@ They also help families experiencing homelessness to move into safe housing (Fam
 They offer services in English and Spanish.
 <!-- TBD: Missing here is how to apply for these services? Contact them directly or do you need a referral? Their website reads like one big vague mission statement powerpoint rather than answering questions like this. -->
 
+[Bright Futures](http://luciamarschools.org/251185_2) is a program in the Lucia Mar Unified School District that gives K-8 students a safe before- and after-school environment including academic support and enrichment classes, as well as a free supper.
+There are limited spaces available, and sometimes there is a waiting list.
+Priority is given to foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services.
+You can apply to enroll your child in this program at the [Bright Futures](http://luciamarschools.org/251185_2) website.
+
 The [SLO Children’s Museum](https://www.slocm.org/) is full of interactive exhibits for children aged 2–10.
 If you are “housing insecure” you can get a free “City Play Pass” to the museum from [**CAPSLO**](Directory.md#CAPSLO).
 If you have a SNAP/EBT card, you can also get up to four admissions for $3 each.
@@ -3299,30 +3291,18 @@ To access this program, contact the McKinney-Vento liaison for your school distr
    - Services: Free clothing, blankets, books, backpacks, school supplies, diapers, toiletries for disadvantaged children and at-risk youth
    - Additional: All programs free of charge, no documents required, no referral necessary
    - Target: Homeless children and other children in need in SLO and Santa Barbara Counties
-1. [Seneca Central Coast](https://senecafoa.org/regions/central-coast/) (formerly Kinship Center)
-   - Services: Foster care, adoption, mental health support, education; Resource Family Program for foster children and families
-   - Programs: Recruit, train, certify resource families; family reunification support; adoption finalization; ongoing post-placement support
-   - Services for Target Population: While primarily focused on foster care/adoption, offers culturally-responsive, trauma-informed mental health services for youth and families with complex needs, including “Todo Por Mi Familia” free confidential mental health service for families experiencing challenges like housing instability or migration stress.
-   - 6850 Morro Rd., Atascadero
-   - 805-434-2449
-   - info@senecacenter.org
-   - SLO location offers:
-     - outpatient behavioral health services (to learn about enrollment or to submit a referral, contact Seneca)
-     - wraparound services (must get referral, typically from DSS or Behavioral Health; contact Seneca for info how)
-     - prevention services (must get referral from "county social service agency partners")
 1. [**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents)
    - Services: Family Resource and Empowerment Center for families with special needs children; lending libraries, support groups, Special Education information, IEP support
-   - Target: Families with children with special needs throughout SLO County; Early Start families (birth to 3)
+   - Target: Families with children with developmental or learning-related issues throughout SLO County; including Early Start families (birth to 3)
    - Additional: Bilingual services, toys/games, free support services; operated under UCP of San Luis Obispo County since 1990
-1. [Bright Futures](https://www.luciamarschools.org/apps/pages/index.jsp?uREC_ID=888752&type=d&pREC_ID=2540975)
-   - Free before- and after-school daycare + supper for elementary/middle-school children in Lucia Mar Unified School District
-   - Enrolls priority students first (Foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services), then it is first-come, first-served. Sometimes there are wait lists, even for priority students. Submit one application per child.
-   - Applications available on website (different application per school)
+   - Unclear whether families can self-refer or drop in
 1. [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/)
    - Covers 5-cities area
    - Locations/email/phone: See [Our Club Sites](https://www.bgcslo.org/our-clubs.html)
    - “Free, out-of-school enrichment programs for children ages 5 to 18 at schools in South SLO County” says [this page](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/childcare-parenting)
    - Seems to have a financial assistance program, and to partner with CAPSLO, but I couldn’t find details on their website or in their parent handbook
+1. [Boys & Girls Clubs of Mid Central Coast](https://centralcoastkids.org/)
+   - Covers Paso Robles, Atascadero, Creston, Shandon, Guadalupe
 1. [**SLO County YMCA**](Directory.md#SLO-County-YMCA)
    - Operates “school’s out care” programs on school holidays and winter/spring breaks; and “day camps” during the summer
    - Also offers after-school daycare with “homework support, healthy snacks, physical activity such as games and sports, as well as arts, science and plenty of opportunities to try new things and make great friends."
@@ -3345,13 +3325,12 @@ To access this program, contact the McKinney-Vento liaison for your school distr
    - Location/Phone: See [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) in the [Directory](Directory.md)
 1. Childcare Resource Center
 1. Cooperative Agencies Resources for Education (CARE)—child care expenses [cuesta.edu/student-support/support-programs/eops/care.html](https://www.cuesta.edu/student-support/support-programs/eops/care.html)
-1. [Q Youth support group](https://galacc.org/resources/#phone)
-1. [Trans Teen Peer support group](https://galacc.org/resources/#phone)
 1. [RaiseUP SLO](https://www.racemattersslo.org/raiseup-slo)
 1. [Triple P Fear Less Class](https://www.t-mha.org/workshop-details.php?id=80)
 1. [PPSLO diaper bank, car seats, formula bank, etc.](https://www.ppsslo.org/practical-assistance)
 1. [First 5 SLO County](https://www.first5slo.org/what-we-do.php)
 1. [CAPSLO Services for Youth & Families](https://capslo.org/youthandfamily/)
+1. Revisit the Rec Centers websites, as most seemed to have programs for youth
 
 I'm confused about what SAFE is. Is it a variety of Family Resource Center? Are "Family Resource Centers" a standardized program that offer a standard set of things, or are they just a common name that's adopted by a variety of programs? Are these things that people self-refer to, or do they kind of get assigned to them by social workers and such? Online sources of information are vague on these points.
 
