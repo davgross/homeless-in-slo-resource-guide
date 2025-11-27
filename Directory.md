@@ -1460,6 +1460,17 @@
 
 > *See [**Voice for the Animals Helping Friends Program**](#Helping-Friends-Program)*
 
+## <a id="Help-Me-Grow">Help Me Grow SLO County</a>
+
+- **Website:** [slohelpmegrow.org](https://www.slohelpmegrow.org/)
+
+| Location | Phone |
+| -------- | ----- |
+| <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="Help Me Grow">1030 Southwood Dr., SLO</a> | [805-305-4481](tel:+1-805-305-4481) |
+| <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Help Me Grow">704 Spring St., Paso Robles</a> | [805-440-1878](tel:+1-805-440-1878) |
+
+- **Hours:** M–F 8am–4:30pm
+
 ## <a id="HiCAP">HiCAP (Health Insurance Counseling & Advocacy Program)</a>
 
 - **Website:** [centralcoastseniors.org/hicap](https://centralcoastseniors.org/hicap/)
@@ -1615,6 +1626,10 @@
 - **Phone:** [805-528-0391](tel:+1-805-528-0391)
 - **Hours:** First four Tuesdays of each month, 9–11am
 <!-- Note: No website found (as of October 2025) -->
+
+## Kinship Center
+
+> *See [Seneca Central Coast](#Seneca-Central-Coast)*
 
 ## <a id="Kritter-Care">Kritter Care</a>
 
@@ -2260,7 +2275,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="North-County-Family-Resource-Center">North County Family Resource Center</a>
 
 - **Website:** [capslo.org/north-county-family-resource-center](https://capslo.org/north-county-family-resource-center/)
-- **Location:** 704 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="PLACEHOLDER">Map</a>
+- **Location:** 704 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Family Resource Center">Map</a>
 - **Phone:** [805-440-1878](tel:+1-805-440-1878)
 - Notes:
    - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
@@ -2765,6 +2780,14 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Location:** 1575 Orchard Rd., Nipomo <a href="#" class="map-link" data-lat="35.005086" data-lon="-120.459890" data-zoom="17" data-label="Santa Maria Valley Hispanic Church">Map</a>
 - **Phone:** [805-929-5694](tel:+1-805-929-5694)
 - **Hours** (food pantry): Sa 11am–12:30pm
+
+## <a id="Seneca-Central-Coast">Seneca Central Coast</a>
+
+- **Website:** [senecafoa.org/regions/central-coast](https://senecafoa.org/regions/central-coast/)
+- **Location:** 6850 Morro Rd., Atascadero <a href="#" class="map-link" data-lat="35.482077" data-lon="-120.666571" data-zoom="17" data-label="Seneca Central Coast">Map</a>
+- **Phone:** [805-434-2449](tel:+1-805-434-2449)
+- **Email:** [info@senecacenter.org](mailto:info@senecacenter.org)
+- Notes: formerly called “Kinship Center”
 
 ## <a id="Senior-Connection">Senior Connection</a>
 

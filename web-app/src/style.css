@@ -2111,13 +2111,13 @@ tbody tr:hover {
 }
 
 /* Special styling for Directory lozenge - yellow pages background */
-.toc-lozenge[href*="Directory"] {
+.toc-lozenge[href*="directory"] {
   background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
   border-color: #fbbf24;
 }
 
-.toc-lozenge[href*="Directory"]:hover,
-.toc-lozenge[href*="Directory"]:focus {
+.toc-lozenge[href*="directory"]:hover,
+.toc-lozenge[href*="directory"]:focus {
   background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
   border-color: #f59e0b;
 }

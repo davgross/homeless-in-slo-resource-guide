@@ -13,9 +13,9 @@ Fortunately, there is a lot of help available to people experiencing or threaten
 Unfortunately, it can be difficult to find this help or to understand how to access it.
 This guide makes it easier.
 
-The guide is organized into topics like “Shelter and housing” or “Food”.
+The guide is organized into topics like "Shelter and housing" or "Food".
 Each section briefly describes resources available in San Luis Obispo County.
-Many of these descriptions contain blue-highlighted, boldface links to the [**Directory**](Directory.md).
+Many of these descriptions contain blue-highlighted, boldface links to the [**Directory**](?section=directory).
 This Directory page lists resources in alphabetical order, along with information like the website, phone number, email address, location, and operating hours of the resource.
 If you find a resource in the guide that seems it will be useful to you, click the boldface link to go to the directory and find out how to access that resource.
 
@@ -61,7 +61,7 @@ If you want to suggest corrections or improvements, or to join our development t
 1. [Advocacy & Organizing](#advocacy-and-organizing)
 1. [Free Stuff](#miscellaneous-free-items)
 1. [Other Guides](#other-guides)
-1. [Directory](Directory.md)
+1. [Directory](?section=directory)
 
 -----
 
@@ -3162,14 +3162,8 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 [**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs.
 
-[Help Me Grow SLO County](https://www.slohelpmegrow.org/) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues.
-They have two locations:
+[**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues.
 <!-- https://sloparents.org/slo-frc-directory-2/ claims they also have “a clothing closet that includes basic needs items… available to the community” -->
-
-| Location | Phone | Hours |
-| -------- | ----- | ----- |
-| <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="Help Me Grow">1030 Southwood Dr., SLO</a> | [805-305-4481](tel:+1-805-305-4481) | M–F 8am–4:30pm |
-| <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Help Me Grow">704 Spring St., Paso Robles</a> | [805-440-1878](tel:+1-805-440-1878) | M–F 8am–4:30pm |
 
 The [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) operates several programs including childcare for children aged 2–5 that includes early-childhood education, therapy and rehabilitation for children who need it, meals (breakfast, lunch, and an afternoon snack), and family events.
 They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse.
@@ -3196,6 +3190,17 @@ If you are “housing insecure” you can get a free “City Play Pass” to the
 If you have a SNAP/EBT card, you can also get up to four admissions for $3 each.
 Open Th–M 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children’s Museum">1010 Nipomo St., SLO</a>.
 For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:info@slocm.org).
+
+[**CAPSLO**](Directory.md#CAPSLO) operates [Head Start and Early Head Start programs](https://capslo.org/head-start-and-early-head-start/) for children during their first five years of life.
+The programs aim to help children gain school readiness skills, confidence, and self-esteem.
+Head Start child care centers also serve children three free meals a day.
+These programs operate in [several locations in SLO County](https://capslo.org/eecc/).
+To enroll your child in these programs, find a service provider that is convenient to you and appropriate for the child’s age and then [apply for the waitlist](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
+For more information, including eligibility requirements, contact [childcare@capslo.org](mailto:childcare@capslo.org) or [888-315-6741](tel:+1-888-315-6741).
+
+There is also a “Migrant and Seasonal Head Start” program designed specifically for the children of migrant farm workers.
+You can apply for that program by completing [the form on this page](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
+For more information, contact [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) or [888-633-6747](tel:+1-888-633-6747).
 
 > See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
 
@@ -3243,11 +3248,22 @@ To apply for a free bicycle for your child, contact your child’s elementary or
 
 ### <a id="homeless-youth">Resources for Homeless Youth</a>
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) has a [Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach) program that offers individualized case management to unaccompanied homeless youth (ages 16–24) with the goal of helping them with immediate needs, housing, independent living, steady employment, and continued education.
-
 > See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Youth Crisis Line, the National Runaway Safeline, the Love is Respect line, and the Trevor Lifeline.
 
-> See [Medical Resources for Specific Populations: Teens & Youth](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for youth-oriented medical care.
+The [**5Cities Homeless Coalition**](Directory.md#5CHC) has a [Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach) program that offers individualized case management to unaccompanied homeless youth (ages 16–24) with the goal of helping them with immediate needs, housing, independent living, steady employment, and continued education.
+
+SLO County youth (ages 21 or below, or current or former foster youth up to age 26) who are enrolled in [**CenCal Health**](Directory.md#CenCal) qualify for [**Enhanced Care Management**](Directory.md#Enhanced-Care-Management) through [**Seneca Central Coast**](Directory.md#Seneca-Central-Coast) if one of the following is true:
+
+- They are experiencing homelessness.
+- They are transitioning out of incarceration.
+- They are a current or former foster youth.
+- They have significant behavioral health needs.
+- They experience frequent hospitalization.
+
+Enhanced Care Management teams you up with a professional who can help you find medical providers, make appointments, arrange transportation to appointments, and meet other healthcare needs.
+To apply for Enhanced Care Management, contact [**CenCal Health**](Directory.md#CenCal) who can walk you through the process, or reach out to Seneca Central Coast directly.
+
+> See also [Medical Resources for Specific Populations: Teens & Youth](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for youth-oriented medical care.
 
 > See the [Peer Support Groups: Behavioral Health](#behavioral-health-peer-support) section for information about Alateen and Narateen groups for teens who have family members who are addicts.
 
@@ -3283,21 +3299,17 @@ To access this program, contact the McKinney-Vento liaison for your school distr
    - Services: Free clothing, blankets, books, backpacks, school supplies, diapers, toiletries for disadvantaged children and at-risk youth
    - Additional: All programs free of charge, no documents required, no referral necessary
    - Target: Homeless children and other children in need in SLO and Santa Barbara Counties
-1. [CAPSLO Head Start](https://capslo.org/head-start-and-early-head-start/)
-   - Services: Comprehensive child development for ages 0-5; education, health, nutrition, behavioral health, social services, parent involvement
-   - Target: Low-income families and children with special needs; school readiness curriculum
-   - Locations: Multiple sites including Sunnyside (<a href="#" class="map-link" data-lat="35.309953" data-lon="-120.835914" data-zoom="17" data-label="Head Start">880 Manzanita Dr., Los Osos</a>), High Street (<a href="#" class="map-link" data-lat="35.272264" data-lon="-120.661496" data-zoom="17" data-label="Head Start">480 High Street, SLO</a>), Santa Rosa St. (<a href="#" class="map-link" data-lat="35.284113" data-lon="-120.661123" data-zoom="17" data-label="Head Start">864 Santa Rosa St., SLO</a>)
-     - See [capslo.org/eecc](https://capslo.org/eecc/)
-   - Contact: [805-544-4355](tel:+1-805-544-4355) ext. 222
-     - Or maybe: [888-315-6741](tel:+1-888-315-6741)
-     - Or maybe: [888-633-6747](tel:+1-888-633-6747) (Migrant and Seasonal Head Start)
-   - [childcare@capslo.org](mailto:childcare@capslo.org)
-     - [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) for Migrant and Seasonal Head Start
-   - Additional: [Migrant and Seasonal Head Start](https://capslo.org/migrant-and-seasonal-head-start/) also available; federally funded program [Source: https://capslo.org/]
-1. [Seneca Central Coast](https://senecafoa.org/senecacentralcoast/) (formerly Kinship Center)
+1. [Seneca Central Coast](https://senecafoa.org/regions/central-coast/) (formerly Kinship Center)
    - Services: Foster care, adoption, mental health support, education; Resource Family Program for foster children and families
    - Programs: Recruit, train, certify resource families; family reunification support; adoption finalization; ongoing post-placement support
    - Services for Target Population: While primarily focused on foster care/adoption, offers culturally-responsive, trauma-informed mental health services for youth and families with complex needs, including “Todo Por Mi Familia” free confidential mental health service for families experiencing challenges like housing instability or migration stress.
+   - 6850 Morro Rd., Atascadero
+   - 805-434-2449
+   - info@senecacenter.org
+   - SLO location offers:
+     - outpatient behavioral health services (to learn about enrollment or to submit a referral, contact Seneca)
+     - wraparound services (must get referral, typically from DSS or Behavioral Health; contact Seneca for info how)
+     - prevention services (must get referral from "county social service agency partners")
 1. [**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents)
    - Services: Family Resource and Empowerment Center for families with special needs children; lending libraries, support groups, Special Education information, IEP support
    - Target: Families with children with special needs throughout SLO County; Early Start families (birth to 3)
