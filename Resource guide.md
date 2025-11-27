@@ -3160,16 +3160,6 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 ## <a id="children-youth-parents">Children, Youth, and People with Children</a>
 
-> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
-
-> See [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation) in the [Health & Medical Care](#health-medical-care) section of this guide for pregnancy and postpartum resources.
-
-> See [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic) in the [Food Resources](#food) section of this guide for information about the Women, Infants, and Children (WIC) program.
-
-> See [Family Law / Child Support](#family-law) in the [Legal Help & Crime Victim Protection](#legal-help) section of this guide for information about enforcing child support orders and other family law issues.
-
-> See the [Peer Support Groups: Pregnancy and Parenthood](#parenthood-peer-support) section for information about a variety of support groups for new parents and pregnant people.
-
 [**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs.
 
 [Help Me Grow SLO County](https://www.slohelpmegrow.org/) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues.
@@ -3181,23 +3171,89 @@ They have two locations:
 | <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="Help Me Grow">1030 Southwood Dr., SLO</a> | [805-305-4481](tel:+1-805-305-4481) | M–F 8am–4:30pm |
 | <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Help Me Grow">704 Spring St., Paso Robles</a> | [805-440-1878](tel:+1-805-440-1878) | M–F 8am–4:30pm |
 
+The [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) operates several programs including childcare for children aged 2–5 that includes early-childhood education, therapy and rehabilitation for children who need it, meals (breakfast, lunch, and an afternoon snack), and family events.
+They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse.
+To apply for the childcare program, complete and submit [an application](https://www.childrensresource.org/regristration).
+There may be a waiting list.
+Tuition is a sliding-scale fee based on income, and financial aid is available.
+
+[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) connects SLO County families with child care centers, licensed family child care homes, and after-school programs.
+They can provide child care payment assistance for income-eligible families.
+If you are in the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs), you can apply for child care from this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
+Otherwise [fill out an online application](https://app.mycareconnect.io/carewait/capslo) call [888-727-2272](tel:+1-888-727-2272) to begin the process of applying through the California Alternative Payment Program.
+This program may have a waiting list.
+
+[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) also operates a [toy lending library](https://capslo.org/toylendinglibrary/).
+
+[**Family Care Network**](Directory.md#Family-Care-Network) serves families with children who are experiencing or at risk of homelessness, are impacted by unaddressed mental health challenges, or are involved with Child Welfare Services or the Justice System.
+Services include therapy and other mental health services, facilitating foster care and adoption, independent living skills, educational continuity,
+They also help families experiencing homelessness to move into safe housing (Family Care Network operates housing complexes for this purpose).
+They offer services in English and Spanish.
+<!-- TBD: Missing here is how to apply for these services? Contact them directly or do you need a referral? Their website reads like one big vague mission statement powerpoint rather than answering questions like this. -->
+
+The [SLO Children’s Museum](https://www.slocm.org/) is full of interactive exhibits for children aged 2–10.
+If you are “housing insecure” you can get a free “City Play Pass” to the museum from [**CAPSLO**](Directory.md#CAPSLO).
+If you have a SNAP/EBT card, you can also get up to four admissions for $3 each.
+Open Th–M 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children’s Museum">1010 Nipomo St., SLO</a>.
+For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:info@slocm.org).
+
+> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
+
+> See [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation) in the [Health & Medical Care](#health-medical-care) section of this guide for pregnancy and postpartum resources.
+
+> See [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic) in the [Food Resources](#food) section of this guide for information about the Women, Infants, and Children (WIC) program.
+
+> See [Summer Meal Sites (for Children)](#summer-meal-sites) in the [Food Resources](#food) section of this guide for information on how children can get meals during the Summer months when school is out.
+
+> See [Family Law / Child Support](#family-law) in the [Legal Help & Crime Victim Protection](#legal-help) section of this guide for information about enforcing child support orders and other family law issues.
+
+> See the [Peer Support Groups: Pregnancy and Parenthood](#parenthood-peer-support) section for information about a variety of support groups for new parents and pregnant people.
+
+> See the [Medical Resources for Specific Populations: Children](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for pediatric and other child-oriented medical services.
+
+### <a id="holiday-gifts-for-children">Holiday Gifts for Children</a>
+
+There are several programs in SLO County that provide gifts for children during the holiday season.
+You typically need to apply a month or so ahead of time in order to receive these gifts.
+You may need to upload documents such as the children’s birth certificates to prove eligibility and proof of residence.
+
+> See the [IDs and Other Documents](#ids-and-other-documents) section of this guide for ways to obtain or replace documents like these.
+
+[**Salvation Army**](Directory.md#Salvation-Army) operates the “Angel Tree” program which provides free christmas gifts for children.
+Register at [this web page](https://www.saangeltree.org/).
+
+The [Toy Bank of Greater Paso Robles](https://www.prtoybank.org/) gives toys and coats to families with children aged 0–12 years who live in Paso Robles, San Miguel, Shandon, Bradley and Heritage Ranch and who have a household income blow the federal poverty line, or are unemployed, receiving Medi-Cal, receiving SNAP/EBT, or homeless.
+To receive gifts from the program, register in November at [this web page](https://www.prtoybank.org/copy-of-family-registration).
+For questions, contact [805-369-9816](tel:+1-805-369-9816) or [registration@prtoybank.org](mailto:registration@prtoybank.org).
+
+Toys for Tots gives toys to children during the holidays.
+They operate in [Atascadero/Santa Margarita/Templeton/Pozo/Creston/California Valley](https://atascadero-ca.toysfortots.org/).
+Register for toys for your children [at this web page](https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx).
+You must select and pick up the toys in person (but without your children) at their distribution site.
+For more information, contact [805-391-4430](tel:+1-805-391-4430) or [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org).
+
+Toys for Tots also operates in [Cambria/San Simeon](https://cambria-ca.toysfortots.org/).
+Register for toys for your children [at this web page](https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx) unless your child attends Cambria Grammar School (in which case, apply through the School Family Advocate instead).
+For more information, contact [805-927-1876](tel:+1-805-927-1876) or [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org).
+
+Some people who are imprisoned at the SLO County Jail’s “Honor Farm” refurbish children’s bicycles so they can be given away as gifts during the holiday season.
+To apply for a free bicycle for your child, contact your child’s elementary or middle school resource officer.
+
+> See the [(Mostly) Free Stuff](#miscellaneous-free-items) section of this guide for more possible gift ideas.
+
 ### <a id="homeless-youth">Resources for Homeless Youth</a>
+
+The [**5Cities Homeless Coalition**](Directory.md#5CHC) has a [Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach) program that offers individualized case management to unaccompanied homeless youth (ages 16–24) with the goal of helping them with immediate needs, housing, independent living, steady employment, and continued education.
 
 > See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Youth Crisis Line, the National Runaway Safeline, the Love is Respect line, and the Trevor Lifeline.
 
-> See [Summer Meal Sites (for Children)](#summer-meal-sites) in the [Food Resources](#food) section of this guide for information on how to get meals during the Summer months when school is out.
-
-> See [Free Clothes for Kids](#free-clothes-for-kids) in the [Clothing](#clothing) section of this guide for information about “Coats for Kids,” “Operation School Bell,” “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel.”
-
-> See [Medical Resources for Specific Populations: Children](#medical-resources-specific-populations) and [Medical Resources for Specific Populations: Teens & Youth](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for pediatric and other child-oriented medical services.
-
-> See [High School Diplomas and their Equivalents](#diploma-ged-hiset) in the [Education](#education-job-skills-training) section of this guide for ways to stay on track to get your diploma.
+> See [Medical Resources for Specific Populations: Teens & Youth](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for youth-oriented medical care.
 
 > See the [Peer Support Groups: Behavioral Health](#behavioral-health-peer-support) section for information about Alateen and Narateen groups for teens who have family members who are addicts.
 
 > See the [Peer Support Groups: GLTBQ+](#glbtq-peer-support) section for information about support groups for queer and trans youth.
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) has a [Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach) program that offers individualized case management to unaccompanied homeless youth (ages 16–24) with the goal of helping them with immediate needs, housing, independent living, steady employment, and continued education.
+> See [Free Clothes for Kids](#free-clothes-for-kids) in the [Clothing](#clothing) section of this guide for information about “Coats for Kids,” “Operation School Bell,” “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel.”
 
 #### Educational Continuity (McKinney-Vento Act)
 
@@ -3217,52 +3273,16 @@ You can find [a list of these liaisons and their contact information](https://ww
 The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
 To access this program, contact the McKinney-Vento liaison for your school district or contact the County Office of Education at [805-782-7268](+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org).
 
+> See [High School Diplomas and their Equivalents](#diploma-ged-hiset) in the [Education](#education-job-skills-training) section of this guide for ways to stay on track to get your diploma.
+
 <!-- TBD
 ### Uncategorized
 
-1. [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center)
-   - Target: Children ages 2–5 from traumatic circumstances including poverty, homelessness, foster care, domestic violence, child abuse
-   - Services: Therapeutic early childhood education, mental health programs, school readiness curriculum, child nutrition (80% daily needs)
-   - Programs: Four classrooms (toddler, preschool, pre-kindergarten), assessments every six months
-   - Mission: Heal, support, and strengthen families for child abuse prevention and treatment [Source: https://www.childrensresource.org/]
-   - How to access: See [Enrollment Info](https://www.childrensresource.org/regristration) page.
-1. [**Family Care Network**](Directory.md#Family-Care-Network)
-   - Services: Foster care, mental health treatment, housing support, career/education support for children and families
-   - Note: make sure this is cross-referenced in the “health: mental health” section, with additional details about those specific programs.
-   - Housing: 9 apartment complexes (36 units), houses 130+ homeless families annually
-   - Target: Children/families experiencing trauma, homelessness, foster care needs [Source: https://fcni.org/]
-1. [SLO Children’s Museum](https://www.slocm.org/)
-   - Services: Interactive educational exhibits for children ages 2–10, sensory-friendly events for autism spectrum families
-   - Accessibility Programs: Museums for All (SNAP/EBT families get 4 admissions for $3 each), monthly free Moonlight Hours (3rd Thursday 5–7pm), free admission with SLO County library card
-   - Contact: <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="Children’s Museum">1010 Nipomo Street, SLO</a>
-   - Additional: Children 2 and under always free, senior/military discounts available [Source: https://www.slocm.org/]
-   - Location: Downtown San Luis Obispo [Source: https://downtownslo.com/]
 1. [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast)
    - Mission: Provide free clothing, school supplies and other basic resources to children in need on Central/Southern California coasts
    - Services: Free clothing, blankets, books, backpacks, school supplies, diapers, toiletries for disadvantaged children and at-risk youth
    - Additional: All programs free of charge, no documents required, no referral necessary
    - Target: Homeless children and other children in need in SLO and Santa Barbara Counties
-1. [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County)
-   - Access to Career Education (ACE): Educational and career opportunities support program for students
-   - Source: [assistanceleague.org/san-luis-obispo-county](https://www.assistanceleague.org/san-luis-obispo-county/)
-1. [Toy Bank of Greater Paso Robles](https://www.prtoybank.org/)
-   - Email: [info@prtoybank.org](mailto:info@prtoybank.org)
-   - [Register](https://www.prtoybank.org/registration) to get toys and clothing for children in November
-1. Toys for Tots
-   - [Atascadero/Templeton/Santa Margarita and points east](https://Atascadero-Ca.toysfortots.org/)
-      - Email: [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org)
-      - Phone: [805-391-4430](tel:+1-805-391-4430)
-      - [Request a toy](https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx)
-   - [Cambria](https://cambria-ca.toysfortots.org/)
-      - Email: [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org)
-      - Phone: [805-927-1876](tel:+1-805-927-1876)
-1. [Christmas Bicycle Giveaway](https://safslo.org/Childrens-bike-giveaway/)
-   - bicycles refurbished by SLO County Jail prisoners, distributed by Sheriff’s Advisory Foundation to children under age 15
-   - apply for a bike by contacting the resource officer at the child’s elementary or middle school
-1. [**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection)
-   - Services: Connects families with child care centers, family child care homes, after-school programs; child care payment assistance/subsidies for income-eligible families; toy lending library
-   - Additional: child care provider training, within-child care food program, bilingual services (English/Spanish)
-   - get referral from DSS, or apply for the “Alternative Payment Program” if you aren’t eligible for a DSS referral.
 1. [CAPSLO Head Start](https://capslo.org/head-start-and-early-head-start/)
    - Services: Comprehensive child development for ages 0-5; education, health, nutrition, behavioral health, social services, parent involvement
    - Target: Low-income families and children with special needs; school readiness curriculum
@@ -3462,7 +3482,7 @@ Write to [atownmoms@gmail.com](mailto:atownmoms@gmail.com) for more information.
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) hosts [Parent Cafés](https://capslo.org/Pops2/) and [POPS2 groups](https://capslo.org/Pops2/) (for fathers specifically) with childcare and a meal provided.
 For details on how to join, contact [pops@capslo.org](mailto:pops@capslo.org) or [805-295-1628](tel:+1-805-295-1628).
 
-[Pacific Midwifery](http://pacificmidwiferycare.com/) offers free “MaMa Mentoring” groups on Tuesdays in Arroyo Grande.
+[Pacific Midwifery](https://pacificmidwiferycare.com/) offers free “MaMa Mentoring” groups on Tuesdays in Arroyo Grande.
 Contact [megan@pacificmidwiferycare.com](mailto:megan@pacificmidwiferycare.com) ([805-994-0446](tel:+1-805-994-0446)) for details.
 
 Postpartum Support International also organizes [many free online support groups](https://postpartum.net/get-help/psi-online-support-meetings/).
@@ -3846,6 +3866,8 @@ They can also connect seniors (aged 60+) with providers of no-cost minor home re
 Call their Energy Office for details.
 
 The [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus will pour you a free cup of coffee.
+
+> See [Holiday Gifts for Children](#holiday-gifts-for-children) in the [Children, Youth, and People with Children](#children-youth-parents) section of this guide for information on how to get free toys, coats, bicycles, and other such gifts for your children during the holidays.
 
 ### <a id="low-cost-stuff">Low-Cost</a>
 

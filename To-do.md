@@ -32,5 +32,3 @@
       - Obtaining Employment + Education & Job Training
       - Phones & Phone Service + Internet & Email + Device Charging
    Another possible complication is if the emojis are not of consistent sizes on all devices, such that they would not make consistently-sized icon buttons.
-
-1. The "Little Free Libraries" list is still SLO/5C-centric, with nothing from estero bay or north county, for example.
