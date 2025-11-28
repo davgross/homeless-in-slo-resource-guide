@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naloxone/Narcan Locations - SLO County</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+        .header {
+            position: absolute;
+            top: 10px;
+            left: 50px;
+            z-index: 1000;
+            background: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 18px;
+            color: #333;
+        }
+        .header p {
+            margin: 5px 0 0 0;
+            font-size: 12px;
+            color: #666;
+        }
+        .leaflet-popup-content {
+            margin: 8px;
+            font-size: 14px;
+        }
+        .back-link {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: #3877ff;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 14px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        .back-link:hover {
+            background: #2a5bbf;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>💉 Naloxone/Narcan Locations in SLO County</h1>
+        <p id="location-count">Loading locations...</p>
+    </div>
+    <a href="../index.html#naloxone-narcan" class="back-link">← Back to Resource Guide</a>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script type="module">
+        // Import location data (auto-generated from Resource guide.md)
+        import { locations, config } from './naloxone-locations-data.js';
+
+        // Update location count
+        document.getElementById('location-count').textContent =
+            `${locations.length} locations county-wide • Click markers for details`;
+
+        // Initialize map - center on SLO County
+        const defaultCenter = config.center;
+        const defaultZoom = config.defaultZoom;
+
+        // Try to use user's location if available (without prompting)
+        let userLocation = null;
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(
+                function(position) {
+                    const lat = position.coords.latitude;
+                    const lon = position.coords.longitude;
+                    // Check if user is roughly in SLO County area
+                    if (lat > 35.0 && lat < 35.8 && lon > -121.3 && lon < -120.0) {
+                        userLocation = [lat, lon];
+                        map.setView(userLocation, 11);
+                        L.marker(userLocation, {
+                            icon: L.icon({
+                                iconUrl: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOCIgZmlsbD0iIzM4NzdmZiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIi8+Cjwvc3ZnPg==',
+                                iconSize: [24, 24],
+                                iconAnchor: [12, 12]
+                            })
+                        }).addTo(map).bindPopup("📍 Your location");
+                    }
+                },
+                function(error) {
+                    // Silently fail - just use default center
+                },
+                { timeout: 3000, maximumAge: 60000 }
+            );
+        }
+
+        const map = L.map('map').setView(defaultCenter, defaultZoom);
+
+        // Add OpenStreetMap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        }).addTo(map);
+
+        // Custom icon for naloxone locations (red marker)
+        const naloxoneIcon = L.icon({
+            iconUrl: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAzMCA0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTUgMEMxMCAwIDYgNCA2IDlDNiAxNiAxNSAyNSAxNSAyNUMxNSAyNSAyNCAxNiAyNCA5QzI0IDQgMjAgMCAxNSAwWiIgZmlsbD0iI2U3NGMzYyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHRleHQgeD0iMTUiIHk9IjE0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE0IiBmaWxsPSJ3aGl0ZSI+8J+SiTwvdGV4dD4KPC9zdmc+',
+            iconSize: [30, 40],
+            iconAnchor: [15, 40],
+            popupAnchor: [0, -40]
+        });
+
+        // Add markers for all naloxone locations
+        locations.forEach(location => {
+            const marker = L.marker([location.lat, location.lon], { icon: naloxoneIcon })
+                .addTo(map)
+                .bindPopup(`<strong>💉 Naloxone/Narcan</strong><br>${location.label}`);
+        });
+    </script>
+</body>
+</html>

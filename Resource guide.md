@@ -1088,7 +1088,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**Goodwill Outlet**](Directory.md#Goodwill) and [**Goodwill Store**](Directory.md#Goodwill)
 - [**Lumina Thrift**](Directory.md#Lumina-Thrift)
 - [**Mission Thrift**](Directory.md#Mission-Thrift)
-- [**SLO Thrift**](Directory.md#SLO-Thrift)
+- [**SLO Thrift**](Directory.md#SLO-Thrift) (not yet open as of November 2025)
 - [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
 
 -----
@@ -1690,6 +1690,8 @@ You can get naloxone from [**Access Support Network**](Directory.md#ASN), [**SLO
 You can also get free naloxone any time from these “NaloxBoxes":
 <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county -->
 
+🗺️ **<a href="naloxone-locations-map.html" target="_blank" rel="noopener">View all locations on an interactive map</a>**
+
 **North Coast:**
 
 - Baywood-Los Osos: Community Park, <a href="#" class="map-link" data-lat="35.312984" data-lon="-120.836284" data-zoom="17" data-label="Community Park">2180 Palisades Ave.</a>
@@ -1969,11 +1971,11 @@ When possible, take formal self-defense classes to learn proper techniques from 
 
 **In this section:**
 
-- [Help for defendants, convicts, parolees, probationers](#defendants-and-convicts)
-- [Legal help regarding housing (discrimination, landlord disputes, etc.)](#housing-legal)
-- [Help with benefits, wrangling with health insurers, et cetera](#benefits-legal)
-- [Consumer protection](#consumer-protection)
-- [Victims of crime, abuse](#crime-victims)
+- [Help for Defendants, Convicts, Parolees, Probationers](#defendants-and-convicts)
+- [Legal Help Regarding Housing (Discrimination, Landlord Disputes, etc.)](#housing-legal)
+- [Help with Benefits, Wrangling with Health Insurers, et Cetera](#benefits-legal)
+- [Consumer Protection](#consumer-protection)
+- [Victims of Crime, Abuse](#crime-victims)
 - [Legal Self-Help / Law Libraries](#legal-self-help)
 - [Legal Consultation](#legal-consultation)
 - [Family Law / Child Support](#family-law)
@@ -1982,7 +1984,7 @@ When possible, take formal self-defense classes to learn proper techniques from 
 - [Tax Disputes](#tax-disputes)
 - [Miscellany](#legal-miscellany)
 
-### <a id="defendants-and-convicts">Help for defendants, convicts, parolees, probationers</a>
+### <a id="defendants-and-convicts">Help for Defendants, Convicts, Parolees, Probationers</a>
 
 If you are being taken to court and accused of a serious crime by the government, you have the right to have a lawyer who is trained in the law to help defend you against the charges.
 You have a right to a lawyer even if you do not have enough money to pay one.
@@ -2002,7 +2004,7 @@ U.S. military veterans who have entered the criminal justice system may be able 
 Veterans Treatment Court is a rigorous 12–18 month program of supervised probation customized for the needs of traumatized veterans which includes treatment, counseling, and regular court appearances.
 Contact [**County Veterans Services**](Directory.md#Veterans-Services) for help getting into this program.
 
-### <a id="housing-legal">Legal help regarding housing (discrimination, landlord disputes, etc.)</a>
+### <a id="housing-legal">Legal Help Regarding Housing (Discrimination, Landlord Disputes, etc.)</a>
 
 [**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) provides free civil legal assistance to low-income people.
 This includes cases concerning foreclosures, evictions & lockouts, Section 8 and public housing, and housing discrimination.
@@ -2028,7 +2030,7 @@ U.S. military veterans who have low incomes and who are homeless or at risk of h
 This help includes temporary financial assistance for rent, deposits, and utilities, legal assistance, rental agreement education, and landlord-tenant mediation.
 You must have a DD214 with discharge other than dishonorable.
 
-### <a id="benefits-legal">Help with benefits, wrangling with health insurers, et cetera</a>
+### <a id="benefits-legal">Help with Benefits, Wrangling with Health Insurers, et Cetera</a>
 
 > See the [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security) section for advice specific to those programs.
 
@@ -2046,12 +2048,12 @@ To-do: add more stuff about e.g. ombudsmen who can help you with health insuranc
 -->
 
 <!-- To-do:
-### <a id="liability-law">Injury liability / workers’ compensation</a>
+### <a id="liability-law">Injury Liability / Workers’ Compensation</a>
 
 - Note: Local injury liability and workers’ compensation attorneys not yet researched. For current resources, contact SLO County Bar Association referral service or search for contingency fee attorneys who handle cases without upfront costs.
 -->
 
-### <a id="consumer-protection">Consumer protection</a>
+### <a id="consumer-protection">Consumer Protection</a>
 
 To report a consumer complaint directly to the SLO District Attorney, you can use [the consumer complaint form](https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions/consumer-protection) on their website.
 
@@ -2070,7 +2072,7 @@ The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can he
 Many service providers are licensed by the State of California (for example, health care providers, accountants, security guards, social workers, etc.).
 If you believe you have been treated unfairly or improperly by a licensed service provider, you can file a complaint with the [California Department of Consumer Affairs](https://www.dca.ca.gov/) ([800-952-5210](tel:+1-800-952-5210)/TTY:[800-735-2929](tel:+1-800-735-2929), [dca@dca.ca.gov](mailto:dca@dca.ca.gov)).
 
-### <a id="crime-victims">Victims of crime, abuse</a>
+### <a id="crime-victims">Victims of Crime, Abuse</a>
 
 Victims of crime have certain legal rights, and they may be called upon to participate in crime investigations or to testify in criminal cases.
 The [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) helps crime victims who are navigating this process.
@@ -2230,7 +2232,7 @@ This section of the guide shows you how to obtain or replace documents like thes
 - [Birth, Death, and Marriage Certificates](#birth-death-marriage-certificates)
 - [Civil Case Documents](#civil-case-documents)
 - [Passports](#passports)
-- Tips
+- [Tips](#document-tips)
 
 ### <a id="social-security-numbers-or-cards">Social Security Numbers or Cards</a>
 
@@ -2315,7 +2317,7 @@ If you have a lawyer, that lawyer may be able to search for these documents on-l
 A U.S. passport is required for international travel to most countries outside the United States.
 You need a passport to travel by air, land, or sea to most international destinations.
 
-#### <a id="first-time-passport">Getting a passport for the first time</a>
+#### <a id="first-time-passport">Getting a Passport for the First Time</a>
 
 To apply for your first U.S. passport, you must apply in person at an authorized passport acceptance facility.
 You cannot apply by mail for a first-time passport.
@@ -2353,7 +2355,7 @@ Call them to make an appointment:
 - [**Nipomo Library**](Directory.md#SLO-County-Public-Libraries)
 - [**SLO City Library**](Directory.md#SLO-County-Public-Libraries)
 
-#### Renewing your passport
+#### Renewing Your Passport
 
 You can renew your passport by mail if all of the following are true:
 
@@ -2369,7 +2371,7 @@ You can also renew online at [travel.state.gov](https://travel.state.gov/content
 
 If you cannot renew by mail (for example, if your passport is lost, stolen, damaged, or expired more than five years), you must apply in person using the same process as for a first-time passport.
 
-#### Replacing a lost or stolen passport
+#### Replacing a Lost or Stolen Passport
 
 If your passport is lost or stolen, follow these steps to get a new one:
 
@@ -2385,7 +2387,7 @@ If your passport is lost or stolen, follow these steps to get a new one:
   Reporting your passport lost or stolen does not replace it; to get a replacement you must also apply for a new passport.
   This costs $165.
 
-#### Passports from other countries
+#### Passports from Other Countries
 
 If you are a citizen of another country and you need to obtain or renew a passport from your home country, contact your country’s embassy or consulate.
 The nearest consulates for many countries are located in Los Angeles or San Francisco.
@@ -2393,7 +2395,7 @@ You can find contact information for embassies and consulates at [embassy.goabro
 
 ### <a id="document-tips">Tips</a>
 
-#### Document storage and security
+#### Document Storage and Security
 
 Here are some tips for handling important documents:
 
@@ -2405,7 +2407,7 @@ Here are some tips for handling important documents:
 - If you have enough money, consider storing especially important or difficult-to-replace documents in a safety deposit box at a bank.
   These can be rented for $30–50 per year.
 
-#### If you have no identification documents
+#### If You Have No Identification Documents
 
 If you are completely without identifying documentation, you may need help establishing your identity so that you can access programs and services that require identifying documentation.
 
@@ -3612,7 +3614,7 @@ The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a pet ken
 Pets must have documented rabies vaccinations.
 
 [**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
-They happen 3–4 times per quarter at various locations around SLO County, often coordinating with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People)
+They happen 3–4 times per quarter at various locations around SLO County, often coordinating with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People).
 
 [**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have limited funds.
 
