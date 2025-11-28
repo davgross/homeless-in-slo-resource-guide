@@ -55,6 +55,171 @@
         .back-link:hover {
             background: #2a5bbf;
         }
+
+        /* Share and Feedback Buttons */
+        .share-btn, .feedback-btn {
+            position: fixed;
+            bottom: 20px;
+            width: 50px;
+            height: 50px;
+            border: none;
+            border-radius: 50%;
+            font-size: 24px;
+            cursor: pointer;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .share-btn {
+            left: 20px;
+            background-color: #e75e13;
+            color: white;
+        }
+
+        .share-btn:hover {
+            background-color: #c94d0f;
+            transform: scale(1.1);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+        }
+
+        .feedback-btn {
+            right: 20px;
+            background-color: #3877ff;
+            color: white;
+        }
+
+        .feedback-btn:hover {
+            background-color: #2a5bbf;
+            transform: scale(1.1);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+        }
+
+        .share-notification {
+            position: fixed;
+            bottom: 90px;
+            left: 50%;
+            transform: translateX(-50%) translateY(20px);
+            background: #059669;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            opacity: 0;
+            transition: all 0.3s ease;
+            z-index: 1001;
+            pointer-events: none;
+        }
+
+        .share-notification.show {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
+        }
+
+        .feedback-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 2000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .feedback-modal.show {
+            display: flex;
+        }
+
+        .feedback-content {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            max-width: 500px;
+            width: 90%;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+
+        .feedback-content h2 {
+            margin: 0 0 20px 0;
+            color: #333;
+            font-size: 24px;
+        }
+
+        .feedback-content textarea {
+            width: 100%;
+            min-height: 150px;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 14px;
+            resize: vertical;
+            box-sizing: border-box;
+        }
+
+        .feedback-content textarea:focus {
+            outline: none;
+            border-color: #3877ff;
+        }
+
+        .feedback-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .feedback-buttons button {
+            flex: 1;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .feedback-submit {
+            background-color: #3877ff;
+            color: white;
+        }
+
+        .feedback-submit:hover {
+            background-color: #2a5bbf;
+        }
+
+        .feedback-cancel {
+            background-color: #e5e7eb;
+            color: #374151;
+        }
+
+        .feedback-cancel:hover {
+            background-color: #d1d5db;
+        }
+
+        @media (max-width: 640px) {
+            .share-btn, .feedback-btn {
+                width: 45px;
+                height: 45px;
+                font-size: 20px;
+                bottom: 15px;
+            }
+
+            .share-btn {
+                left: 15px;
+            }
+
+            .feedback-btn {
+                right: 15px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -63,6 +228,29 @@
         <p id="location-count">Loading locations...</p>
     </div>
     <a href="../index.html#naloxone-narcan" class="back-link">← Back to Resource Guide</a>
+
+    <!-- Share Button -->
+    <button class="share-btn" aria-label="Share this map" title="Share">🔗</button>
+
+    <!-- Feedback Button -->
+    <button class="feedback-btn" aria-label="Send feedback" title="Send feedback">💬</button>
+
+    <!-- Share Notification -->
+    <div class="share-notification" id="share-notification"></div>
+
+    <!-- Feedback Modal -->
+    <div class="feedback-modal" id="feedback-modal">
+        <div class="feedback-content">
+            <h2>💬 Send Feedback</h2>
+            <p style="color: #666; margin-bottom: 15px;">Help us improve this map by reporting errors or suggesting improvements.</p>
+            <textarea id="feedback-text" placeholder="Describe the issue or suggestion..."></textarea>
+            <div class="feedback-buttons">
+                <button class="feedback-cancel" id="feedback-cancel">Cancel</button>
+                <button class="feedback-submit" id="feedback-submit">Send Feedback</button>
+            </div>
+        </div>
+    </div>
+
     <div id="map"></div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -127,6 +315,102 @@
                 .addTo(map)
                 .bindPopup(`<strong>💉 Naloxone/Narcan</strong><br>${location.label}`);
         });
+
+        // Share button functionality
+        document.querySelector('.share-btn').addEventListener('click', async () => {
+            const shareData = {
+                title: 'Naloxone/Narcan Locations - SLO County',
+                text: 'Find free Naloxone/Narcan locations throughout San Luis Obispo County',
+                url: window.location.href
+            };
+
+            try {
+                if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
+                    await navigator.share(shareData);
+                } else {
+                    // Fallback: copy to clipboard
+                    await navigator.clipboard.writeText(window.location.href);
+                    showNotification('Link copied to clipboard!');
+                }
+            } catch (err) {
+                if (err.name !== 'AbortError') {
+                    console.error('Error sharing:', err);
+                }
+            }
+        });
+
+        // Feedback button functionality
+        const feedbackModal = document.getElementById('feedback-modal');
+        const feedbackText = document.getElementById('feedback-text');
+
+        document.querySelector('.feedback-btn').addEventListener('click', () => {
+            feedbackModal.classList.add('show');
+            feedbackText.focus();
+        });
+
+        document.getElementById('feedback-cancel').addEventListener('click', () => {
+            feedbackModal.classList.remove('show');
+            feedbackText.value = '';
+        });
+
+        document.getElementById('feedback-submit').addEventListener('click', () => {
+            const message = feedbackText.value.trim();
+            if (!message) {
+                alert('Please enter your feedback before sending.');
+                return;
+            }
+
+            // Capture context
+            const context = {
+                page: 'Naloxone/Narcan Locations Map',
+                url: window.location.href,
+                timestamp: new Date().toISOString(),
+                userAgent: navigator.userAgent
+            };
+
+            // Create email
+            const subject = encodeURIComponent('Feedback: Naloxone/Narcan Locations Map');
+            const body = encodeURIComponent(
+                `Feedback:\n${message}\n\n` +
+                `---\n` +
+                `Page: ${context.page}\n` +
+                `URL: ${context.url}\n` +
+                `Time: ${context.timestamp}\n` +
+                `Browser: ${context.userAgent}`
+            );
+
+            window.location.href = `mailto:moorlock@gmail.com?subject=${subject}&body=${body}`;
+
+            // Close modal and clear
+            feedbackModal.classList.remove('show');
+            feedbackText.value = '';
+        });
+
+        // Close modal on background click
+        feedbackModal.addEventListener('click', (e) => {
+            if (e.target === feedbackModal) {
+                feedbackModal.classList.remove('show');
+                feedbackText.value = '';
+            }
+        });
+
+        // Close modal on Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && feedbackModal.classList.contains('show')) {
+                feedbackModal.classList.remove('show');
+                feedbackText.value = '';
+            }
+        });
+
+        // Show notification helper
+        function showNotification(message) {
+            const notification = document.getElementById('share-notification');
+            notification.textContent = message;
+            notification.classList.add('show');
+            setTimeout(() => {
+                notification.classList.remove('show');
+            }, 3000);
+        }
     </script>
 </body>
 </html>
