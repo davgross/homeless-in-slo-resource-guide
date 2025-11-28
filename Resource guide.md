@@ -3147,6 +3147,8 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 ## <a id="children-youth-parents">Children, Youth, and People with Children</a>
 
+> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
+
 [**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs.
 
 [**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues.
@@ -3194,7 +3196,11 @@ There is also a “Migrant and Seasonal Head Start” program designed specifica
 You can apply for that program by completing [the form on this page](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
 For more information, contact [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) or [888-633-6747](tel:+1-888-633-6747).
 
-> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers [Parent Participation classes](https://ae.slcusd.org/parent-part) that teach useful parenting skills to people with children up to the age of five (you attend the class with your child).
+Classes are held in San Luis Obispo and Morro Bay.
+Scholarships that cover a portion of class fees are available to people with low incomes or special circumstances.
+
+[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it.
 
 > See [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation) in the [Health & Medical Care](#health-medical-care) section of this guide for pregnancy and postpartum resources.
 
@@ -3216,7 +3222,7 @@ You may need to upload documents such as the children’s birth certificates to 
 
 > See the [IDs and Other Documents](#ids-and-other-documents) section of this guide for ways to obtain or replace documents like these.
 
-[**Salvation Army**](Directory.md#Salvation-Army) operates the “Angel Tree” program which provides free christmas gifts for children.
+[**Salvation Army**](Directory.md#Salvation-Army) operates the “Angel Tree” program which provides free Christmas gifts for children.
 Register at [this web page](https://www.saangeltree.org/).
 
 The [Toy Bank of Greater Paso Robles](https://www.prtoybank.org/) gives toys and coats to families with children aged 0–12 years who live in Paso Robles, San Miguel, Shandon, Bradley and Heritage Ranch and who have a household income blow the federal poverty line, or are unemployed, receiving Medi-Cal, receiving SNAP/EBT, or homeless.
@@ -3306,23 +3312,12 @@ To access this program, contact the McKinney-Vento liaison for your school distr
 1. [**SLO County YMCA**](Directory.md#SLO-County-YMCA)
    - Operates “school’s out care” programs on school holidays and winter/spring breaks; and “day camps” during the summer
    - Also offers after-school daycare with “homework support, healthy snacks, physical activity such as games and sports, as well as arts, science and plenty of opportunities to try new things and make great friends."
-1. California Children’s Services
-   - [dhcs.ca.gov/services/ccs](https://dhcs.ca.gov/services/ccs)
-   - [805-781-5527](tel:+1-805-781-5527)
-   - [PublicHealth.CMS@co.slo.ca.us](mailto:PublicHealth.CMS@co.slo.ca.us)
-   - <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="California Children’s Services">2925 McMillan Ave., #108, SLO</a>
-   - M–F 8am–5pm by appointment only
-   - Arranges, directs, and pays for medical care, equipment, and rehabilitation for children and youth with certain medical conditions who are unable to pay. Parents apply by submitting an application at the local CCS office.
 1. [**Martha’s Place Children’s Center**](Directory.md#Marthas-Place-Childrens-Center)
    - For children ages 0–5 with behavioral or mental health issues
    - Provides screening, assessment, referral, and treatment
    - Cost: free for people with Medi-Cal/CenCal coverage; sliding scale otherwise
    - Refer via [this form](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/forms-documents/client-applications,-intake-forms-and-handbooks/mental-health-specific-forms/mp-referral-form) ([español](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/forms-documents/client-applications,-intake-forms-and-handbooks/mental-health-specific-forms/remision-de-martha%E2%80%99s-place))
    - Website: [slocounty.ca.gov/MarthasPlace](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center)
-1. [Parent Participation classes](https://ae.slcusd.org/parent-part) (San Luis Coastal Unified School District)
-   - classes on parenting skills for people with children from birth to 5 years old.
-   - classes cost $155–225, but scholarships are available for people with low incomes or special circumstances
-   - Location/Phone: See [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) in the [Directory](Directory.md)
 1. Childcare Resource Center
 1. Cooperative Agencies Resources for Education (CARE)—child care expenses [cuesta.edu/student-support/support-programs/eops/care.html](https://www.cuesta.edu/student-support/support-programs/eops/care.html)
 1. [RaiseUP SLO](https://www.racemattersslo.org/raiseup-slo)
