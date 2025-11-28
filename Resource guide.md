@@ -2929,6 +2929,7 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that take place outside the classroom.
 Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver.
 They also offer miscellaneous adult education classes on topics of a recreational or curiosity-satisfying nature.
+<!-- TBD: Add something about actually enrolling as a Cuesta student, and about the [Extended Opportunity Programs and Services](https://www.cuesta.edu/student-support/support-programs/eops/) program to help pay for things -->
 
 [**SLO Partners**](Directory.md#SLO-Partners) [programs](https://slopartners.org/programs/) include bootcamps to learn in-demand skills in fields like dental assistant, hospitality, and manufacturing.
 There is a financial assistance program to help you pay for tuition.
@@ -3149,26 +3150,15 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 ## <a id="children-youth-parents">Children, Youth, and People with Children</a>
 
-> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
+**In this section:**
 
-[**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs.
+1. [Help with Parenting](#parenting)
+1. [Daycare, Preschool, and After-School Programs](#daycare)
+1. [Holiday Gifts for Children](#holiday-gifts-for-children)
+1. [Resources for Homeless Youth](#homeless-youth)
 
 [**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues.
 <!-- https://sloparents.org/slo-frc-directory-2/ claims they also have “a clothing closet that includes basic needs items… available to the community” -->
-
-The [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) operates several programs including childcare for children aged 2–5 that includes early-childhood education, therapy and rehabilitation for children who need it, meals (breakfast, lunch, and an afternoon snack), and family events.
-They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse.
-To apply for the childcare program, complete and submit [an application](https://www.childrensresource.org/regristration).
-There may be a waiting list.
-Tuition is a sliding-scale fee based on income, and financial aid is available.
-
-[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) connects SLO County families with child care centers, licensed family child care homes, and after-school programs.
-They can provide child care payment assistance for income-eligible families.
-If you are in the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs), you can apply for child care from this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
-Otherwise [fill out an online application](https://app.mycareconnect.io/carewait/capslo) call [888-727-2272](tel:+1-888-727-2272) to begin the process of applying through the California Alternative Payment Program.
-This program may have a waiting list.
-
-[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) also operates a [toy lending library](https://capslo.org/toylendinglibrary/).
 
 [**Family Care Network**](Directory.md#Family-Care-Network) serves families with children who are experiencing or at risk of homelessness, are impacted by unaddressed mental health challenges, or are involved with Child Welfare Services or the Justice System.
 Services include therapy and other mental health services, facilitating foster care and adoption, independent living skills, educational continuity,
@@ -3176,16 +3166,52 @@ They also help families experiencing homelessness to move into safe housing (Fam
 They offer services in English and Spanish.
 <!-- TBD: Missing here is how to apply for these services? Contact them directly or do you need a referral? Their website reads like one big vague mission statement powerpoint rather than answering questions like this. -->
 
-[Bright Futures](http://luciamarschools.org/251185_2) is a program in the Lucia Mar Unified School District that gives K-8 students a safe before- and after-school environment including academic support and enrichment classes, as well as a free supper.
-There are limited spaces available, and sometimes there is a waiting list.
-Priority is given to foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services.
-You can apply to enroll your child in this program at the [Bright Futures](http://luciamarschools.org/251185_2) website.
-
 The [SLO Children’s Museum](https://www.slocm.org/) is full of interactive exhibits for children aged 2–10.
 If you are “housing insecure” you can get a free “City Play Pass” to the museum from [**CAPSLO**](Directory.md#CAPSLO).
 If you have a SNAP/EBT card, you can also get up to four admissions for $3 each.
 Open Th–M 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children’s Museum">1010 Nipomo St., SLO</a>.
 For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:info@slocm.org).
+
+[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) operates a [toy lending library](https://capslo.org/toylendinglibrary/).
+
+[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it.
+
+[**Martha’s Place Children’s Center**](Directory.md#Marthas-Place-Childrens-Center) helps children ages 0–5 who have (or may have) behavioral or mental health issues or who were exposed to alcohol or other intoxicants while in the womb.
+It provides screening, assessment, referral, and treatment.
+These services are free to people with Medi-Cal/CenCal coverage, and available on a sliding feed schedule otherwise.
+
+> See [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic) in the [Food Resources](#food) section of this guide for information about the Women, Infants, and Children (WIC) program.
+
+> See [Family Law / Child Support](#family-law) in the [Legal Help & Crime Victim Protection](#legal-help) section of this guide for information about enforcing child support orders and other family law issues.
+
+> See the [Medical Resources for Specific Populations: Children](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for pediatric and other child-oriented medical services.
+
+### <a id="parenting">Help with Parenting</a>
+
+> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
+
+[**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs.
+
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers [Parent Participation classes](https://ae.slcusd.org/parent-part) that teach useful parenting skills to people with children up to the age of five (you attend the class with your child).
+Classes are held in San Luis Obispo and Morro Bay.
+Scholarships that cover a portion of class fees are available to people with low incomes or special circumstances.
+
+The free [Triple P Fear Less Class](https://www.t-mha.org/workshop-details.php?id=80) offered by [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) helps parents and caregivers of children (ages 6–14) who experience anxiety to foster confident and healthy children, cultivate strong family relationships, and effectively address misbehavior.
+
+[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) has a “baby bank” from which you can get free maternity and breastfeeding supplies, diapers, baby wipes, formula, safe sleep equipment, child car seats, books, and toys.
+(Car seat installation by appointment only.)
+
+> See the [Peer Support Groups: Pregnancy and Parenthood](#parenthood-peer-support) section for information about a variety of support groups for new parents and pregnant people.
+
+> See [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation) in the [Health & Medical Care](#health-medical-care) section of this guide for pregnancy and postpartum resources.
+
+### <a id="daycare">Daycare, Preschool, and After-School Programs</a>
+
+[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) connects SLO County families with child care centers, licensed family child care homes, and after-school programs.
+They can provide child care payment assistance for income-eligible families.
+If you are in the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs), you can apply for child care from this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
+Otherwise [fill out an online application](https://app.mycareconnect.io/carewait/capslo) call [888-727-2272](tel:+1-888-727-2272) to begin the process of applying through the California Alternative Payment Program.
+This program may have a waiting list.
 
 [**CAPSLO**](Directory.md#CAPSLO) operates [Head Start and Early Head Start programs](https://capslo.org/head-start-and-early-head-start/) for children during their first five years of life.
 The programs aim to help children gain school readiness skills, confidence, and self-esteem.
@@ -3198,23 +3224,37 @@ There is also a “Migrant and Seasonal Head Start” program designed specifica
 You can apply for that program by completing [the form on this page](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
 For more information, contact [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) or [888-633-6747](tel:+1-888-633-6747).
 
-[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers [Parent Participation classes](https://ae.slcusd.org/parent-part) that teach useful parenting skills to people with children up to the age of five (you attend the class with your child).
-Classes are held in San Luis Obispo and Morro Bay.
-Scholarships that cover a portion of class fees are available to people with low incomes or special circumstances.
+[Bright Futures](http://luciamarschools.org/251185_2) is a program in the Lucia Mar Unified School District that gives K-8 students a safe before- and after-school environment including academic support and enrichment classes, as well as a free supper.
+There are limited spaces available, and sometimes there is a waiting list.
+Priority is given to foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services.
+You can apply to enroll your child in this program at the [Bright Futures](http://luciamarschools.org/251185_2) website.
 
-[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it.
+The [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) operates several programs including childcare for children aged 2–5 that includes early-childhood education, therapy and rehabilitation for children who need it, meals (breakfast, lunch, and an afternoon snack), and family events.
+They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse.
+To apply for the childcare program, complete and submit [an application](https://www.childrensresource.org/regristration).
+There may be a waiting list.
+Tuition is a sliding-scale fee based on income, and financial aid is available.
 
-> See [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation) in the [Health & Medical Care](#health-medical-care) section of this guide for pregnancy and postpartum resources.
+Boys & Girls Clubs offer free, out-of-school enrichment programs for schoolchildren during the week: after school and during school breaks like summer vacation.
+There is an annual membership fee and also fees per child per day, but Boys & Girls Clubs are committed to ensuring that cost is not a barrier to participation.
+Ask them about scholarships and subsidies.
+There are two Boys & Girls Clubs chapters in SLO County:
 
-> See [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic) in the [Food Resources](#food) section of this guide for information about the Women, Infants, and Children (WIC) program.
+- [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/) which covers Grover Beach, Oceano, Pismo Beach, and Shell Beach ([myclubhub@bgcslo.org](mailto:myclubhub@bgcslo.org), [805-481-7339](tel:+1-805-481-7339))
+- [Boys & Girls Clubs of Mid Central Coast](https://centralcoastkids.org/) which covers Atascadero, Creston, Guadalupe, Paso Robles, and Shandon ([info@centralcoastkids.org](mailto:info@centralcoastkids.org), [805-922-7163](tel:+1-805-922-7163))
+
+Students of [**Cuesta College**](Directory.md#Cuesta-College) who qualify for [Extended Opportunity Programs and Services](https://www.cuesta.edu/student-support/support-programs/eops/) and who are single heads-of-households can get help paying for child care services from [Cooperative Agencies Resources for Education (CARE)](https://www.cuesta.edu/student-support/support-programs/eops/care.html).
+Contact [cafecenters@cuesta.edu](mailto:cafecenters@cuesta.edu) or [805-546-3144](tel:+1-805-546-3144) to learn how to apply.
+
+[**SLO County YMCA**](Directory.md#SLO-County-YMCA) offers [one hour of childcare](https://www.ciymca.org/child-watch) to members while they are exercising at the facility.
+You must reserve this in advance.
+They also operate [summer camps](https://www.ciymca.org/summer-camp) for children and teens.
+They also operate before- and after-school care, and programs during school holidays and breaks, featuring homework help, enriching activities, and healthy snacks.
+There is sometimes a wait list to apply for these [School Age Care](https://channel.recliquecore.com/programs/21393244/san-luis-obispo-school-age-care/) and [School’s Out Care](https://channel.recliquecore.com/programs/1291/school-s-out-care/?locations=140) programs.
+They occasionally offer [Kid’s Night Out](https://channel.recliquecore.com/programs/1269/kid-s-night-out/?locations=140) evening childcare programs too.
+[Financial assistance](https://www.ciymca.org/financial-assistance) is available to ensure that you can afford these programs.
 
 > See [Summer Meal Sites (for Children)](#summer-meal-sites) in the [Food Resources](#food) section of this guide for information on how children can get meals during the Summer months when school is out.
-
-> See [Family Law / Child Support](#family-law) in the [Legal Help & Crime Victim Protection](#legal-help) section of this guide for information about enforcing child support orders and other family law issues.
-
-> See the [Peer Support Groups: Pregnancy and Parenthood](#parenthood-peer-support) section for information about a variety of support groups for new parents and pregnant people.
-
-> See the [Medical Resources for Specific Populations: Children](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for pediatric and other child-oriented medical services.
 
 ### <a id="holiday-gifts-for-children">Holiday Gifts for Children</a>
 
@@ -3292,7 +3332,7 @@ To access this program, contact the McKinney-Vento liaison for your school distr
 > See [High School Diplomas and their Equivalents](#diploma-ged-hiset) in the [Education](#education-job-skills-training) section of this guide for ways to stay on track to get your diploma.
 
 <!-- TBD
-### Uncategorized
+### Uncategorized / Needs Research
 
 1. [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast)
    - Mission: Provide free clothing, school supplies and other basic resources to children in need on Central/Southern California coasts
@@ -3304,28 +3344,8 @@ To access this program, contact the McKinney-Vento liaison for your school distr
    - Target: Families with children with developmental or learning-related issues throughout SLO County; including Early Start families (birth to 3)
    - Additional: Bilingual services, toys/games, free support services; operated under UCP of San Luis Obispo County since 1990
    - Unclear whether families can self-refer or drop in
-1. [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/)
-   - Covers 5-cities area
-   - Locations/email/phone: See [Our Club Sites](https://www.bgcslo.org/our-clubs.html)
-   - “Free, out-of-school enrichment programs for children ages 5 to 18 at schools in South SLO County” says [this page](https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/childcare-parenting)
-   - Seems to have a financial assistance program, and to partner with CAPSLO, but I couldn’t find details on their website or in their parent handbook
-1. [Boys & Girls Clubs of Mid Central Coast](https://centralcoastkids.org/)
-   - Covers Paso Robles, Atascadero, Creston, Shandon, Guadalupe
-1. [**SLO County YMCA**](Directory.md#SLO-County-YMCA)
-   - Operates “school’s out care” programs on school holidays and winter/spring breaks; and “day camps” during the summer
-   - Also offers after-school daycare with “homework support, healthy snacks, physical activity such as games and sports, as well as arts, science and plenty of opportunities to try new things and make great friends."
-1. [**Martha’s Place Children’s Center**](Directory.md#Marthas-Place-Childrens-Center)
-   - For children ages 0–5 with behavioral or mental health issues
-   - Provides screening, assessment, referral, and treatment
-   - Cost: free for people with Medi-Cal/CenCal coverage; sliding scale otherwise
-   - Refer via [this form](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/forms-documents/client-applications,-intake-forms-and-handbooks/mental-health-specific-forms/mp-referral-form) ([español](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/forms-documents/client-applications,-intake-forms-and-handbooks/mental-health-specific-forms/remision-de-martha%E2%80%99s-place))
-   - Website: [slocounty.ca.gov/MarthasPlace](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center)
-1. Childcare Resource Center
-1. Cooperative Agencies Resources for Education (CARE)—child care expenses [cuesta.edu/student-support/support-programs/eops/care.html](https://www.cuesta.edu/student-support/support-programs/eops/care.html)
-1. [RaiseUP SLO](https://www.racemattersslo.org/raiseup-slo)
-1. [Triple P Fear Less Class](https://www.t-mha.org/workshop-details.php?id=80)
-1. [PPSLO diaper bank, car seats, formula bank, etc.](https://www.ppsslo.org/practical-assistance)
-1. [First 5 SLO County](https://www.first5slo.org/what-we-do.php)
+1. [RaiseUP SLO](https://www.racemattersslo.org/raiseup-slo) — difficult to determine what specifically they offer; website is a little vague
+1. [First 5 SLO County](https://www.first5slo.org/what-we-do.php) — more of an advocacy organization than one that directly provides services
 1. [CAPSLO Services for Youth & Families](https://capslo.org/youthandfamily/)
 1. Revisit the Rec Centers websites, as most seemed to have programs for youth
 
@@ -3352,7 +3372,7 @@ I'm confused about what SAFE is. Is it a variety of Family Resource Center? Are 
 1. [North County Family Resource Center](https://capslo.org/north-county-family-resource-center/)
 -->
 
-<!-- TBD: find a home for this stuff:
+<!-- TBD: also find a home for this stuff:
 
 1. People with specific (e.g. developmental, TBI, diabetes, blindness) disabilities
    1. E.g. ASL translation for the deaf
@@ -3545,8 +3565,6 @@ The city of SLO offers free [Concerts in the Plaza](https://downtownslo.com/even
 They also offer classes in arts & crafts
 
 [**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services) classes include acrylic & oil painting, dance, calligraphy, ukulele, and sailing.
-
-[**Morro Bay Recreation Services**](Directory.md#Morro-Bay-Parks-and-Recreation) offers
 
 [**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) offers many classes and activities including karate, pickleball, line dancing, crafting, dog training, and first aid.
 They typically cost money, but there is [a scholarship program](https://www.prcity.com/1193/Scholarships) for people with low incomes.
