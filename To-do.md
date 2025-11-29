@@ -2,8 +2,6 @@
 
 1. There may still be some notes in @Directory.md that really belong in @"Resource Guide.md" -- fix that.
 
-1. A lot of @"Resource Guide.md" is still in the form of lists of raw notes; these need to be prosified for the end user.
-
 1. Carefully fact check everything and add source code comments indicating the date of the fact check and the source of the verified information.
 
 1. Consider which open-source license to use for the project.

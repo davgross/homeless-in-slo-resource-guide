@@ -1445,7 +1445,7 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) at [**CAPSLO**]
 The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers mental health care to qualifying U.S. military veterans.
 And [**SLO Vet Center**](Directory.md#SLO-Vet-Center) offers confidential counseling and other mental health care to combat veterans (and certain other veterans) and to victims of military sexual trauma.
 
-### <a id="reproductive-health">Reproductive Health
+### <a id="reproductive-health">Reproductive Health</a>
 
 [**The Center for Health and Prevention**](Directory.md#The-Center) offers contraception, STD testing and treatment, UTI/yeast infection testing and treatment, genital exams, Pap smears, and menopausal services.
 
@@ -2030,7 +2030,7 @@ U.S. military veterans who have low incomes and who are homeless or at risk of h
 This help includes temporary financial assistance for rent, deposits, and utilities, legal assistance, rental agreement education, and landlord-tenant mediation.
 You must have a DD214 with discharge other than dishonorable.
 
-### <a id="benefits-legal">Help with Benefits, Wrangling with Health Insurers, et Cetera</a>
+### <a id="benefits-legal">Help with Benefits, Wrangling with Health Insurers, etc.</a>
 
 > See the [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security) section for advice specific to those programs.
 
@@ -3723,7 +3723,7 @@ The reasons why that is a problem are complicated, but include government polici
 | [Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California) |
 | [*Homelessness is a Housing Problem*](https://homelessnesshousingproblem.com/) by Gregg Colburn & Clayton Page Aldern |
 
-### <a id="influencing-policy">Influencing policy</a>
+### <a id="influencing-policy">Influencing Policy</a>
 
 The [SLO County Homeless Services Division](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division) is in charge of implementing County policies to address homelessness.
 These policies include [*The San Luis Obispo Countywide Plan to Address Homelessness, 2022–2027*](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness).
