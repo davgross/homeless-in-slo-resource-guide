@@ -33,4 +33,4 @@
 
 1. I'd like to prevent 404s / broken links. Could we add a check that validates any push to make sure it does not alter any page names or anchor names without providing a redirect from the old page name or anchor name. Also... I guess we'll need a mechanism for providing such redirects.
 
-1. Can we streamline the feedback mechanism so that it does not necessarily go through email, but sends the message directly upon form submission? I think Cloudflare (our host) has this capability. Note that this should apply to the feedback mechanism on all pages, including the map pages.
+1. Can we streamline the feedback mechanism so that it does not necessarily go through the user's email application, but submits the message directly upon form submission? Note that this should apply to the feedback mechanism on all pages, including the map pages. Cloudflare is our current host, and we have access to Cloudflare Workers. Ideally, there would be a Cloudflare-native option for this, or perhaps a FOSS solution of some sort, rather than having to go through a commercial third-party.

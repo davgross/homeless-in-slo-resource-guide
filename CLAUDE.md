@@ -2,16 +2,13 @@
 
 ## Project Overview
 
-The file @"Resource guide.md" contains the outline of a comprehensive resource guide tenatively titled "Surviving Homelessness in San Luis Obispo."
+The file @"Resource guide.md" contains the outline of a comprehensive resource guide about Surviving Homelessness in San Luis Obispo.
 This file is too large for you to read in completely, given your token limit (so use methods to read it in smaller chunks).
-It was originally written as a long nested list, but is transitioning to headings and prose paragraphs.
 
-The @Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide outline.
+The @Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide.
 Use this as the single source of truth for those data; cross-reference Directory entries from the Resource Guide rather than reproducing those data in the Resource Guide.
 
-The @design.md file gives some high-level direction about the web app that will present this data to the user.
-
-The @web-app directory is your attempt to create such an app.
+The @web-app directory contains the progressive web app that displays this content to the user.
 
 ### About The Target Audience of the Guide
 
@@ -30,36 +27,13 @@ They are unlikely to have their own FAX machines, personal computers, scanners, 
 
 ### Improve Resource Data
 
-Flesh out the existing guide with more complete, detailed, and accurate information. Key requirements:
-
-1. **Use reputable and recent sources**: All information must come from reliable, up-to-date sources
-   - The best source for information about an agency is usually that agency's own website
-   - The further you get from that, the more important it is that you double-check the information, and annotate where you found the information
-2. **Source annotation**: Annotate information with the URL of the source where the information can be found, to enable later verification
-   - Use a format like this: `<!-- Source: https://www.domain.com/full/url/to/source-of-truth.html -->`
-   - These annotation links should target the precise page on which the information was found, not just the homepage of the website or the domain name
-3. **Geographic focus**: San Luis Obispo County
-   - But we may also mention state-wide or country-wide resources that are available to people in the target region
-4. **Target audience**: Prioritize resources of use to the target audience, and provide information they will need in a format they can use
-
-Other tasks include:
-
-1. **Organize the material well**
-2. **Where source annotations are missing, provide authoritative sources**
-3. **Prune out inappropriate material**: things that are not relevant to our target audience
-   - this includes things that are only available to people outside SLO County
-   - for things that are not yet (or are no longer) available, it is better to note this in the listing than to remove the listing entirely, so that we don't go through the anti-pattern of finding information on the web, adding a listing for it, removing it for being inappropriate upon further research, then adding it again when we discover it again
-4. **Standardize formatting**: Use consistent markup for hyperlinks, phone numbers, date and time ranges, addresses, etc.
-5. **Cross-reference listings**: For example, if an agency mentioned in the "Housing" section notes that it offers mail drop service, make sure there is also a reference to that agency in the "Mail drops" section.
-6. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
-7. **Divide information correctly between the resource guide and the directory**: Typically keep location / phone / email / hours of operation information in the Directory, with specifics about what a particular resource offers in the Resource Guide. Exceptions to this may include when a phone number (or location, email, hours) is relevant to a particular service offered by the agency rather than to the agency as a whole, in which case it might be more sensible to mention these specifics in the Resource Guide.
-8. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
-9. **Use simple English in draft text**: If you add text that is meant as to be inserted as-is into the guide (rather than as notes for the researchers and editors), take care to write that text in simple English that is easy to understand by the target audience — for example: use linear sentences without tangled clauses, simple verbs rather than progressive-tense verbs or compound verbs when possible, active voice, literal rather than idiomatic language, and basic vocabulary.
-10. **Transition to prose**: In @"Resource guide.md", once we have collected enough raw notes, rewrite that information as easy-to-read and well-organized paragraphs, containing the information most useful and relevant to our target audience. Our site style for prose sections is to have one complete sentence per line of markdown, so a paragraph of four sentences will consist of four consecutive lines of markdown.
+1. **Where source annotations are missing, provide authoritative sources**
+1. **Standardize formatting**: Use consistent markup for hyperlinks, phone numbers, date and time ranges, addresses, etc.
+1. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
+1. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
+1. **Use simple English in draft text**: If you add text that is meant as to be inserted as-is into the guide (rather than as notes for the researchers and editors), take care to write that text in simple English that is easy to understand by the target audience — for example: use linear sentences without tangled clauses, simple verbs rather than progressive-tense verbs or compound verbs when possible, active voice, literal rather than idiomatic language, and basic vocabulary.
 
 ## Current State
-
-The outline contains several major sections; the table of contents lists these.
 
 ### File Structure
 
@@ -67,7 +41,7 @@ The outline contains several major sections; the table of contents lists these.
 - **Main data files**: `@Resource guide.md`, `@Directory.md`
 - **Implementation**: See "Project Structure" in `@web-app/README.md`
 
-### Major Outline Sections (36 total)
+### Major Resource Guide Sections (36 total)
 
 1. Introduction (not part of TOC)
 2. Hotlines and emergency contacts
@@ -138,7 +112,7 @@ If you cannot, change the "To-do:" to something like "Note:" and append a parent
 
 - If you do not know a particular piece of information, and cannot find it on the web or elsewhere, do not just make something up that sounds plausible and do not fill in the gap with "it is probably X" or "it may be Y". Instead, note that you were unable to determine the information in reputable sources. This way human researchers can fill in those gaps with off-line investigation.
 
-- "SLO" is a suitable abbreviation for "San Luis Obispo" in most contexts. If it may be ambiguous whether "SLO" or "San Luis Obispo" refers to the city or the county, make this explicit (e.g. "SLO city" or "SLO county").
+- "SLO" is a suitable abbreviation for "San Luis Obispo" in most contexts. If it may be ambiguous whether "SLO" or "San Luis Obispo" refers to the city or the county, make this explicit (e.g. "SLO city" or "SLO County").
 
 - It is not usually necessary to include the state/zip-code (e.g. "CA, 98765") in a location, unless this is a resource that is typically accessed through the mail rather than in person
 

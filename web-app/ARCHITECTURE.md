@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is a Progressive Web App (PWA) built with Vite that provides an offline-capable, mobile-first interface for the SLO County Homeless Resource Guide. The app bundles markdown content at build time for optimal performance and offline functionality.
+This is a Progressive Web App (PWA) built with Vite that provides an offline-capable, mobile-first interface for the SLO County Homeless Resource Guide.
+The app bundles markdown content at build time for optimal performance and offline functionality.
 
 ## Technology Stack
 
@@ -37,7 +38,7 @@ web-app/
 │   ├── feedback.js         # Feedback button & email generation
 │   ├── shareButton.js      # Share functionality
 │   └── strings.js          # UI text strings
-├── public/                 # Static assets (icons, robots.txt)
+├── public/                 # Static assets (icons, robots.txt, specialized maps)
 └── dist/                   # Production build output
 ```
 
@@ -586,5 +587,5 @@ For questions about this architecture:
 
 ---
 
-*Last updated: 2025-11-03*
-*Document version: 1.0*
+*Last updated: 2025-11-29*
+*Document version: 1.01*

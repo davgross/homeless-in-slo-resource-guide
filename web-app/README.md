@@ -138,26 +138,6 @@ This serves the production build locally for testing before deployment.
    }
    ```
 
-### Option 2: Static Hosting Services
-
-**Netlify**:
-```bash
-# Install Netlify CLI
-npm install -g netlify-cli
-
-# Deploy
-netlify deploy --prod --dir=dist
-```
-
-**Vercel**:
-```bash
-# Install Vercel CLI
-npm install -g vercel
-
-# Deploy
-vercel --prod
-```
-
 ## Updating Content
 
 The app imports content directly from `../Resource guide.md` and `../Directory.md` during the build process. The markdown files are bundled into the JavaScript, so they work offline without any network requests.
@@ -262,7 +242,6 @@ The app follows WCAG 2.1 Level AA guidelines:
 
 Possible improvements:
 
-- [ ] Enhanced search with results dropdown
 - [ ] Filtering by location/category
 - [ ] Favorites/bookmarks feature
 - [ ] Print-optimized view
