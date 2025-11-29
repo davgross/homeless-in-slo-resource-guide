@@ -3303,6 +3303,18 @@ SLO County youth (ages 21 or below, or current or former foster youth up to age 
 Enhanced Care Management teams you up with a professional who can help you find medical providers, make appointments, arrange transportation to appointments, and meet other healthcare needs.
 To apply for Enhanced Care Management, contact [**CenCal Health**](Directory.md#CenCal) who can walk you through the process, or reach out to Seneca Central Coast directly.
 
+[**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) has a [Teen Center](https://www.atascadero.org/service/teen-center), open weekday afternoons until 6pm, with air hockey, pool, ping pong, PS5, movies, boardgames, dodgeball, and basketball.
+Membership is $20/year.
+Atascadero Recreation also has organized sports programs, classes, and camps.
+There is a Youth Activity Scholarship Fund that can pay for up to $250 per child in registration fees for qualifying children in the Atascadero School District ([details here](https://www.atascadero.org/sites/default/files/Scholarship%20application%20English%20%28fiscal%20year%202025-2026%29.pdf))
+
+[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) has a free [Teen Center](https://www.prcity.com/1177/Teen-Center), open weekday afternoons until 5pm, with video games, music, a pool table, a gym, and a small cafe.
+Paso Robles Parks & Recreation also offers many [classes, sports, and other activities](https://anc.apm.activecommunities.com/prcityrecreation/activity/search?onlineSiteId=0&locale=en-US&activity_select_param=2&activity_category_ids=8&activity_category_ids=13&viewMode=list).
+They typically cost money, but there is [a scholarship program](https://www.prcity.com/1193/Scholarships) for people with low incomes.
+
+[**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) offers [a variety of sports clinics, classes, and camps](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide).
+They have a [limited fee reduction program](https://www.slocity.org/home/showpublisheddocument/37652/638875686889030000) that helps eligible SLO city children obtain scholarship credit towards program fees.
+
 > See also [Medical Resources for Specific Populations: Teens & Youth](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for youth-oriented medical care.
 
 > See the [Peer Support Groups: Behavioral Health](#behavioral-health-peer-support) section for information about Alateen and Narateen groups for teens who have family members who are addicts.
@@ -3346,8 +3358,6 @@ To access this program, contact the McKinney-Vento liaison for your school distr
    - Unclear whether families can self-refer or drop in
 1. [RaiseUP SLO](https://www.racemattersslo.org/raiseup-slo) — difficult to determine what specifically they offer; website is a little vague
 1. [First 5 SLO County](https://www.first5slo.org/what-we-do.php) — more of an advocacy organization than one that directly provides services
-1. [CAPSLO Services for Youth & Families](https://capslo.org/youthandfamily/)
-1. Revisit the Rec Centers websites, as most seemed to have programs for youth
 
 I'm confused about what SAFE is. Is it a variety of Family Resource Center? Are "Family Resource Centers" a standardized program that offer a standard set of things, or are they just a common name that's adopted by a variety of programs? Are these things that people self-refer to, or do they kind of get assigned to them by social workers and such? Online sources of information are vague on these points.
 
@@ -3370,24 +3380,6 @@ I'm confused about what SAFE is. Is it a variety of Family Resource Center? Are 
    - Services: Serves at-risk children, youth and families; direct services, referrals, information distribution, work experience, parent education, family advocacy
    - Coverage: Throughout San Luis Obispo County with bilingual staff and multiple regional family advocates
 1. [North County Family Resource Center](https://capslo.org/north-county-family-resource-center/)
--->
-
-<!-- TBD: also find a home for this stuff:
-
-1. People with specific (e.g. developmental, TBI, diabetes, blindness) disabilities
-   1. E.g. ASL translation for the deaf
-   1. ILRC, LifeSteps, PathPoint
-   1. Tri-Counties Regional Center
-      - Serves people with epilepsy, intellectual disability, autism, cerebral palsy
-      - “Provides free assessment and diagnosis for children believed to have a developmental disability"
-      - Lots of programs
-   1. [**Central Coast Autism Spectrum Center**](Directory.md#Central-Coast-Autism-Spectrum-Center)
-   1. Center for Autism & Related Disorders
-      - Location/phone/email/hours/etc.: See [**Center for Autism & Related Disorders**](Directory.md#CARD) in the [Directory](Directory.md)
-      - Offers treatment to children and adolescents who have been diagnosed with autism and related disorders.
-      - Also has some programs for adults, and for parents of people with autism etc.
-      - Accepts many insurance programs.
-      - Has a [list of ways people can pay for services](https://centerforautism.com/services/parent-resources/additional-funding/)
 -->
 
 -----
@@ -3923,3 +3915,21 @@ If you would like some in-person help, you can get assistance on a variety of is
 - [**SLO city Library**](Directory.md#SLO-County-Public-Libraries), Tuesdays, 10–11:30am & 2:30–4pm
 
 You can drop in, or make an appointment by calling or texting [805-540-0057](tel:+1-805-540-0057).
+
+<!-- TBD: also find a home for this stuff:
+
+1. People with specific (e.g. developmental, TBI, diabetes, blindness) disabilities
+   1. E.g. ASL translation for the deaf
+   1. ILRC, LifeSteps, PathPoint
+   1. Tri-Counties Regional Center
+      - Serves people with epilepsy, intellectual disability, autism, cerebral palsy
+      - “Provides free assessment and diagnosis for children believed to have a developmental disability"
+      - Lots of programs
+   1. [**Central Coast Autism Spectrum Center**](Directory.md#Central-Coast-Autism-Spectrum-Center)
+   1. Center for Autism & Related Disorders
+      - Location/phone/email/hours/etc.: See [**Center for Autism & Related Disorders**](Directory.md#CARD) in the [Directory](Directory.md)
+      - Offers treatment to children and adolescents who have been diagnosed with autism and related disorders.
+      - Also has some programs for adults, and for parents of people with autism etc.
+      - Accepts many insurance programs.
+      - Has a [list of ways people can pay for services](https://centerforautism.com/services/parent-resources/additional-funding/)
+-->
