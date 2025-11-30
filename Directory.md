@@ -1480,11 +1480,10 @@
 
 ## <a id="HCHP">Healthcare for the Homeless Program</a>
 
-<!-- Source: https://www.communityhealthcenters.org/ -->
-- **Website:** [communityhealthcenters.org](https://www.communityhealthcenters.org/)
-- **Location:** 40 Prado Rd., SLO <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
-- **Phone:** [805-473-4712](tel:+1-805-473-4712)
-- **Hours:** M/Tu/Th 8am–5pm, W 9am–6pm
+- **Website:** [communityhealthcenters.org/locations/slo-prado/](https://www.communityhealthcenters.org/locations/slo-prado/)
+- **Location:** 40 Prado Rd., SLO <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a> <!-- Source: https://www.communityhealthcenters.org/locations/slo-prado/ -->
+- **Phone:** [805-473-4712](tel:+1-805-473-4712) <!-- Source: https://www.communityhealthcenters.org/locations/slo-prado/ -->
+- **Hours:** M/Tu/Th 8am–5pm, W 9am–6pm <!-- Source: https://www.communityhealthcenters.org/locations/slo-prado/ -->
 - Notes:
    - operated by [**Community Health Centers of the Central Coast**](#CHC)
    - hosted by [**40 Prado Homeless Services Center**](#40-Prado)
@@ -1492,7 +1491,7 @@
 ## <a id="Help-Hope-Live">Help Hope Live</a>
 
 - **Website:** [helphopelive.org](https://helphopelive.org/)
-- **Phone:** [800-642-8399](tel:+1-800-642-8399) (M–Th 9am–6pm; F 9am–3pm Eastern Time)
+- **Phone:** [800-642-8399](tel:+1-800-642-8399) (M–F 9am–6pm Eastern Time) <!-- Source: https://helphopelive.org/contact/ -->
 
 ## Helping Friends Program
 
@@ -1502,12 +1501,13 @@
 
 - **Website:** [slohelpmegrow.org](https://www.slohelpmegrow.org/)
 
+<!-- Source: https://www.slohelpmegrow.org/contact -->
 | Location | Phone |
 | -------- | ----- |
 | <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="Help Me Grow">1030 Southwood Dr., SLO</a> | [805-305-4481](tel:+1-805-305-4481) |
 | <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Help Me Grow">704 Spring St., Paso Robles</a> | [805-440-1878](tel:+1-805-440-1878) |
 
-- **Hours:** M–F 8am–4:30pm
+- **Hours:** M–F 8am–4:30pm <!-- Source: https://www.slohelpmegrow.org/contact -->
 
 ## <a id="HiCAP">HiCAP (Health Insurance Counseling & Advocacy Program)</a>
 
@@ -1522,17 +1522,19 @@
 
 ## <a id="Homeless-Outreach-Full-Service-Partnership">Homeless Outreach Full Service Partnership</a>
 
-<!-- Source: https://www.t-mha.org -->
-- **Website:** [t-mha.org](https://www.t-mha.org)
-- **Phone:** [800-838-1361](tel:+1-800-838-1361) / [805-540-6500](tel:+1-805-540-6500)
-- **Email:** [info@t-mha.org](mailto:info@t-mha.org)
-- **How to access:** Contact [**Transitions Mental Health Association**](#TMHA) at the above phone number or email
+- **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership)
+- **Phone:**
+   - TMHA: [805-540-6500](tel:+1-805-540-6500) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
+   - Behavioral Health Access Line: [800-838-1361](tel:+1-800-838-1361) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
+- **Email:** [info@t-mha.org](mailto:info@t-mha.org) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
+- **How to access:** Contact [**Transitions Mental Health Association**](#TMHA) at the above phone number or email <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
 
 ## <a id="HomeShare-SLO">HomeShare SLO</a>
 
 - **Website:** [smartsharehousingsolutions.org/homeshare-slo](https://www.smartsharehousingsolutions.org/homeshare-slo)
-- **Phone:** [805-215-5474](tel:+1-805-215-5474)
-- Notes: A project of [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions)
+- **Phone:** [805-215-5474](tel:+1-805-215-5474) <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
+- **Email:** [info@smartsharehousingsolutions.org](mailto:info@smartsharehousingsolutions.org) <!-- Source: https://www.smartsharehousingsolutions.org/contact -->
+- Notes: A project of [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions) <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
 
 ## Hope House
 
@@ -1541,46 +1543,49 @@
 ## <a id="Hopes-Village">Hope’s Village</a>
 
 - **Website:** [hopesvillageofslo.com](https://hopesvillageofslo.com/)
-- **Mailing address:** PO Box 1991, Templeton, CA 93465
-- **Phone:** [805-234-5478](tel:+1-805-234-5478)
+- **Mailing address:** PO Box 1991, Templeton, CA 93465 <!-- Source: https://hopesvillageofslo.com/contact -->
+- **Phone:** [805-234-5478](tel:+1-805-234-5478) <!-- Source: https://hopesvillageofslo.com/ -->
+- **Email:** [beckyrjorgeson@yahoo.com](mailto:beckyrjorgeson@yahoo.com) <!-- Source: https://hopesvillageofslo.com/contact -->
 
 ## <a id="Hospice-SLO">Hospice SLO</a>
 
 - **Website:** [hospiceslo.org](https://hospiceslo.org/)
-- **Location:** Dorothy D. Rupe Center, 1304 Pacific St., SLO <a href="#" class="map-link" data-lat="35.282539" data-lon="-120.655148" data-zoom="17" data-label="Hospice SLO">Map</a>
-- **Phone:** [805-544-2266](tel:+1-805-544-2266)
-- **Hours:** M–F 10am–4pm
-- Notes: All services provided at no charge; does not bill insurance
+- **Location:** Dorothy D. Rupe Center, 1304 Pacific St., SLO <a href="#" class="map-link" data-lat="35.282539" data-lon="-120.655148" data-zoom="17" data-label="Hospice SLO">Map</a> <!-- Source: https://hospiceslo.org/ -->
+- **Phone:** [805-544-2266](tel:+1-805-544-2266) <!-- Source: https://hospiceslo.org/ -->
+- **Email:** [hospiceslo@hospiceslo.org](mailto:hospiceslo@hospiceslo.org) <!-- Source: https://hospiceslo.org/ -->
+- **Hours:** M–F 10am–4pm <!-- Source: https://hospiceslo.org/ -->
+- Notes: All services provided at no charge; does not bill insurance <!-- Source: https://hospiceslo.org/ -->
 
 ## <a id="HouseKeys">HouseKeys</a>
 
 - **Website:** [housekeys19.com](https://www.housekeys19.com)
-- **Phone:** [877-460-5397](tel:+1-877-460-5397)
-- **Email:** [customerservice@housekeys.org](mailto:customerservice@housekeys.org)
+- **Phone:** [877-460-5397](tel:+1-877-460-5397) <!-- Source: https://www.housekeys19.com/ -->
+- **Email:** [customerservice@housekeys.org](mailto:customerservice@housekeys.org) <!-- Source: https://www.housekeys19.com/ -->
 - **How to access:** Create account at MyHouseKeys to enter drawings and receive notifications about available units
 
 ## <a id="Immigrant-Hope-Arroyo-Grande">Immigrant Hope Arroyo Grande</a>
 
 - **Website:** [immigranthopeag.org](https://immigranthopeag.org/)
-- **Location:** 995 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118232" data-lon="-120.592895" data-zoom="17" data-label="Immigrant Hope">Map</a>
-- **Phone:** [805-221-4319](tel:+1-805-221-4319)
+- **Location:** 995 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118232" data-lon="-120.592895" data-zoom="17" data-label="Immigrant Hope">Map</a> <!-- Source: https://immigranthopeag.org/ -->
+- **Phone:** [805-221-4319](tel:+1-805-221-4319) <!-- Source: https://immigranthopeag.org/ -->
 - **How to access:** Call, visit the office, or use their [web contact form](https://immigranthopeag.org/contact-us/)
 
 ## <a id="Immigrant-Legal-Defense">Immigrant Legal Defense (ILD)</a>
 
-<!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
+- **Website:** [ild.org](https://www.ild.org/)
 - **Location:** Cal Poly Dream Center, Science Building (Building 52), Room E-11, Cal Poly SLO campus <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Dream Center">Map</a>
 - **Phone:** [805-756-6362](tel:+1-805-756-6362)
+- **Email:** [info@ild.org](mailto:info@ild.org) <!-- Source: https://calendly.com/csulegalservices/ild?month=2025-12 -->
 - **How to access:** Schedule appointments via Calendly at [calendly.com/csulegalservices/ild](https://calendly.com/csulegalservices/ild) or through Dream Center website at [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
 <!-- Note: No standalone phone number, email, or physical address publicly listed (as of October 2025); contact via online appointment system only -->
 
 ## <a id="HASLO">Housing Authority of SLO (HASLO)</a>
 
 - **Website:** [haslo.org](https://www.haslo.org/)
-- **Location:** 487 Leff St., SLO <a href="#" class="map-link" data-lat="35.272418" data-lon="-120.662971" data-zoom="17" data-label="HASLO">Map</a>
-- **Phone:** [805-543-4478](tel:+1-805-543-4478)
-- **Email:** [info@haslo.org](mailto:info@haslo.org)
-- **Hours:** M–Th 8am–5pm (also open every other Friday)
+- **Location:** 487 Leff St., SLO <a href="#" class="map-link" data-lat="35.272418" data-lon="-120.662971" data-zoom="17" data-label="HASLO">Map</a> <!-- https://www.haslo.org/contact -->
+- **Phone:** [805-543-4478](tel:+1-805-543-4478) <!-- https://www.haslo.org/contact -->
+- **Email:** [info@haslo.org](mailto:info@haslo.org) <!-- https://www.haslo.org/contact -->
+- **Hours:** M–Th 8am–5pm (also open every other Friday) <!-- https://www.haslo.org/contact -->
 - **How to access:** submit a paper application to get on the waiting list for affordable apartments
 - Notes:
    - Operates “Halcyon Collective” (Arroyo Grande)
@@ -1608,14 +1613,16 @@
 ## <a id="Housing-Now">Housing Now</a>
 
 - **How to access:** via the [**Coordinated Entry System (CES)**](#CES)
-- Notes: formerly known as “50 Now” and “70 Now”
+- Notes:
+   - Formerly known as “50 Now” and “70 Now”
+   - Operated by [**Transitions Mental Health Association (TMHA)**](#TMHA)
 
 ## <a id="Housing-Support-Program">Housing Support Program</a> (HSP)
 
-<!-- Source: https://fcni.org -->
-- **Website:** [fcni.org](https://fcni.org)
-- **Location:** 1255 Kendall Rd., SLO <a href="#" class="map-link" data-lat="35.237660" data-lon="-120.630188" data-zoom="17" data-label="Housing Support Program">Map</a>
-- **Phone:** [805-781-3535](tel:+1-805-781-3535)  <!-- Another source says 805-474-2000 -->
+- **Website:** [fcni.org/how-we-help/ensuring-stability](https://fcni.org/how-we-help/ensuring-stability/)
+- **Location:** 1255 Kendall Rd., SLO <a href="#" class="map-link" data-lat="35.237660" data-lon="-120.630188" data-zoom="17" data-label="Housing Support Program">Map</a> <!-- Source: https://fcni.org/ -->
+- **Phone:** [805-781-3535](tel:+1-805-781-3535)  <!-- Source: https://fcni.org/ -->
+- **Email:** [Contact@fcni.org](mailto:Contact@fcni.org) <!-- Source: https://fcni.org/ -->
 - **Hours:** M–F 8:30am–5pm
 - **How to access:** Get a referral from a [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) Employment Resource Specialist
 - Notes:
@@ -1630,24 +1637,24 @@
 
 - **Website:** [slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-(ihss)-program](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program)
 - **Location:**
-   - 9630 El Camino Real, Atascadero <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="In-Home Supportive Services">Map</a>
-   - 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="In-Home Supportive Services">Map</a>
+   - 9630 El Camino Real, Atascadero <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="In-Home Supportive Services">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+   - 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="In-Home Supportive Services">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 - **Phone:**
-   - Atascadero: [805-461-6110](tel:+1-805-461-6110)
-   - Arroyo Grande: [805-474-2103](tel:+1-805-474-2103)
-- **Hours:** M–F 8am–5pm
-- **How to access:** By phone, or by filling out an [online application form](https://www.slocounty.ca.gov/Departments/Social-Services/Forms-Documents/Adult-Services/IHSS-Forms/Online-IHSS-Application-Form.aspx), or by visiting any [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) office (no appointment necessary)
+   - Atascadero: [805-461-6110](tel:+1-805-461-6110) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+   - Arroyo Grande: [805-474-2103](tel:+1-805-474-2103) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+- **Hours:** M–F 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+- **How to access:** By phone, or by filling out an [online application form](https://www.slocounty.ca.gov/Departments/Social-Services/Forms-Documents/Adult-Services/IHSS-Forms/Online-IHSS-Application-Form.aspx),<!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program --> or by visiting any [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) office (no appointment necessary) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/forms-documents/adult-services/apply-for-ihss/4-ways-to-apply -->
 
 ## <a id="Jewish-Family-Services">Jewish Family Services</a>
 
-<!-- Source: https://www.jccslo.com/jewish-family-services.html -->
 - **Website:** [jccslo.com/jewish-family-services.html](https://www.jccslo.com/jewish-family-services.html)
 - **Location:** 578 Marsh St., SLO <a class="map-link" data-lat="35.277234" data-lon="-120.665549" data-zoom="17" data-label="Jewish Family Services">Map</a>
 - **Phone:** [805-426-5465](tel:+1-805-426-5465)
-<!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
+- **How to access:** Use the online form; they cannot process assistance requests by phone or email
 
 ## <a id="Judson-Terrace">Judson Terrace</a>
 
+<!-- Sources: https://www.humangood.org/judson-terrace-homes and https://www.humangood.org/judson-terrace-homes/apply and https://www.humangood.org/judson-terrace-lodge -->
 | Name | Location | Phone | Ages |
 | ---- | -------- | ----- | ---- |
 | Judson Terrace Homes | 3000 Augusta St., SLO <a href="#" class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="Judson Terrace Homes">Map</a> | [805-544-1600](tel:+1-805-544-1600) | 55+ |
@@ -1659,11 +1666,10 @@
 
 ## <a id="Kings-Cupboard">King’s Cupboard at El Morro Church</a>
 
-<!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
-- **Location:** El Morro Church of the Nazarene, 1480 Santa Ysabel, Bldg. A, Los Osos <a href="#" class="map-link" data-lat="35.330593" data-lon="-120.822637" data-zoom="17" data-label="King’s Cupboard at El Morro Church">Map</a>
-- **Phone:** [805-528-0391](tel:+1-805-528-0391)
-- **Hours:** First four Tuesdays of each month, 9–11am
-<!-- Note: No website found (as of October 2025) -->
+- **Website:** [sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156](https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156)
+- **Location:** El Morro Church of the Nazarene, 1480 Santa Ysabel, Bldg. A, Los Osos <a href="#" class="map-link" data-lat="35.330593" data-lon="-120.822637" data-zoom="17" data-label="King’s Cupboard at El Morro Church">Map</a> <!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
+- **Phone:** [805-528-0391](tel:+1-805-528-0391) <!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
+- **Hours:** Tuesdays, 8–10am <!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
 
 ## Kinship Center
 
@@ -1672,8 +1678,8 @@
 ## <a id="Kritter-Care">Kritter Care</a>
 
 - **Website:** [krittercare.org](https://krittercare.org/)
-- **Location:** Morro Bay
-- **Phone:** [805-889-9808](tel:+1-805-889-9808)
+- **Location:** Morro Bay <!-- Source: https://krittercare.org/contact-us -->
+- **Phone:** [805-889-9808](tel:+1-805-889-9808) <!-- Source: https://krittercare.org/ -->
 
 ## <a id="Laundry-Love">Laundry Love</a>
 
