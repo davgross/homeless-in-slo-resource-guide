@@ -1684,28 +1684,28 @@
 ## <a id="Laundry-Love">Laundry Love</a>
 
 - **Website:** [laundrylove.org](https://laundrylove.org/)
-- **Location:** 2179 10th St., Los Osos <a class="map-link" data-lat="35.311757" data-lon="-120.832637" data-zoom="17" data-label="Laundry Love">Map</a>
-- **Phone:** [805-441-7262](tel:+1-805-441-7262)
-- **Email:** [naseema6@sbcglobal.net](mailto:naseema6@sbcglobal.net)
+- **Location:** 2179 10th St., Los Osos <a class="map-link" data-lat="35.311757" data-lon="-120.832637" data-zoom="17" data-label="Laundry Love">Map</a> <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
+- **Phone:** [805-441-7262](tel:+1-805-441-7262) <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
+- **Email:** [naseema6@sbcglobal.net](mailto:naseema6@sbcglobal.net) <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
 - **Hours:** last Weds. of the month, 11am–1pm (seniors only) & 4–6pm (anyone)
 
 ## <a id="Le-Sage-Riviera-RV-Park">Le Sage Riviera RV Park</a>
 
 - **Website:** [lesageriviera.com](https://lesageriviera.com)
-- **Location:** 319 N Highway 1, Grover Beach <a class="map-link" data-lat="35.126730" data-lon="-120.631745" data-zoom="17" data-label="Le Sage Riviera RV Park">Map</a>
-- **Phone:** [805-489-5506](tel:+1-805-489-5506)
-- **Email:** [info@lesageriviera.com](mailto:info@lesageriviera.com)
-- **Hours:** M–Sa 9am–4:30pm, Su 9am–3pm
-- Notes: RV park with rates of $750/month May 1st–Labor Day, $600/month rest of year; RV size limit up to 29 feet; full hookups available; close to beaches, golf course, boardwalks; newly remodeled bathrooms; on-site laundry
+- **Location:** 319 N Highway 1, Grover Beach <a class="map-link" data-lat="35.126730" data-lon="-120.631745" data-zoom="17" data-label="Le Sage Riviera RV Park">Map</a> <!-- Source: https://lesageriviera.com/ -->
+- **Phone:** [805-489-5506](tel:+1-805-489-5506) <!-- Source: https://lesageriviera.com/ -->
+- **Email:** [info@lesageriviera.com](mailto:info@lesageriviera.com) <!-- Source: https://lesageriviera.com/contact-us/ -->
+- **Hours:** M–Sa 9am–4:30pm, Su 9am–3pm <!-- Source: https://lesageriviera.com/contact-us/ -->
 
 ## <a id="Legacy-Church-Pantry">Legacy Church Pantry</a>
 
-<!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31568 -->
 - **Website:** [ourlegacy.church](https://www.ourlegacy.church/)
-- **Location:** 5545 Ardilla Ave., Atascadero <a href="#" class="map-link" data-lat="35.489669" data-lon="-120.674958" data-zoom="17" data-label="Legacy Church">Map</a>
-- **Phone:** [805-610-0817](tel:+1-805-610-0817)
-- **Email:** [info@ourlegacy.church](mailto:info@ourlegacy.church)
-- **Hours** (food pantry): Th 1–2pm
+- **Location:**
+   - Food pantry: 6030 Del Rio Rd., Atascadero <a href="#" class="map-link" data-lat="35.512659" data-lon="-120.702113" data-zoom="17" data-label="Legacy Church Food Pantry">Map</a>
+   - Church: 5545 Ardilla Ave., Atascadero <a href="#" class="map-link" data-lat="35.489669" data-lon="-120.674958" data-zoom="17" data-label="Legacy Church">Map</a> <!-- Source: https://www.ourlegacy.church/ministries -->
+- **Phone:** [805-466-2626](tel:+1-805-466-2626) <!-- Source: https://www.ourlegacy.church/ministries -->
+- **Email:** [info@ourlegacy.church](mailto:info@ourlegacy.church) <!-- Source: https://www.ourlegacy.church/ministries -->
+- **Hours** (food pantry): Th 1–2pm <!-- Source: https://www.ourlegacy.church/ministries -->
 
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
 
@@ -1720,7 +1720,7 @@
 ## <a id="Lifepoint-Church">Lifepoint Church</a>
 
 <!-- Source: https://lifepointcentralcoast.com/about/ -->
-- **Website:** [lifepointcentralcoast.com](https://lifepointcentralcoast.com/)
+- **Website:** [lifepointcentralcoast.com](https://lifepointcentralcoast.com/) <!-- inactive on 30 Nov 2025 -->
 - **Locations:**
    - Main: 207 Pilgrim Way, Arroyo Grande <a href="#" class="map-link" data-lat="35.115749" data-lon="-120.575423" data-zoom="17" data-label="Lifepoint Church">Map</a>
    - Outreach location: 946 Rockaway Ave., Grover Beach <a href="#" class="map-link" data-lat="35.120091" data-lon="-120.619796" data-zoom="17" data-label="Lifepoint Church outreach location">Map</a>
@@ -1735,29 +1735,27 @@
 ## <a id="Lifesigns">Lifesigns</a>
 
 - **Website:** [lifesignsinc.org](https://lifesignsinc.org/)
-- **Phone:** [888-930-7776 x1](tel:+1-888-930-7776;ext=1)
-   - For after-hours emergency interpreting: [800-633-8883](tel:+1-800-633-8883)
-- **Email:** <Lifesigns@lifesignsinc.org>
+- **Phone:** [888-930-7776 x1](tel:+1-888-930-7776;ext=1) <!-- Source: https://lifesignsinc.org/ -->
+   - For after-hours emergency interpreting: [800-633-8883](tel:+1-800-633-8883) <!-- Source: https://lifesignsinc.org/our-services/ -->
+- **Email:** [Lifesigns@lifesignsinc.org](mailto:Lifesigns@lifesignsinc.org) <!-- Source: https://lifesignsinc.org/ -->
 
 ## <a id="Life-Steps-Foundation">Life Steps Foundation</a>
 
-<!-- Source: https://www.lifestepsfoundation.org/ -->
 - **Website:** [lifestepsfoundation.org](https://www.lifestepsfoundation.org/)
-- **Location:** 218 W. Carmen Lane #108, Santa Maria <a href="#" class="map-link" data-lat="34.924628" data-lon="-120.438631" data-zoom="17" data-label="Life Steps Foundation">Map</a>
-- **Phone:** [805-762-4500](tel:+1-805-762-4500)
-- **Email:** [info@lifestepsfoundation.org](mailto:info@lifestepsfoundation.org)
+- **Location:** 218 W. Carmen Lane #108, Santa Maria <a href="#" class="map-link" data-lat="34.924628" data-lon="-120.438631" data-zoom="17" data-label="Life Steps Foundation">Map</a> <!-- Source: https://www.lifestepsfoundation.org/who-we-are/locations.html -->
+- **Phone:** [805-549-0150](tel:+1-805-549-0150) <!-- Source: https://www.lifestepsfoundation.org/who-we-are/locations.html -->
+- **Email:** [ccasoffice@lifestepsfoundation.org](mailto:ccasoffice@lifestepsfoundation.org) <!-- Source: https://www.facebook.com/LSFCCAS/ -->
 - **Hours:** M–F 9am–5:30pm
 
 ## <a id="Link-Family-Resource-Center">The Link Family Resource Center</a>
 
-<!-- Source: https://linkslo.org/ and https://cfsslo.org verified January 2025 -->
 - **Website:** [linkslo.org](https://linkslo.org/)
 - **Locations:**
-   - Atascadero: 4507 Del Rio Ave Bldg. #1, Atascadero <a href="#" class="map-link" data-lat="35.513562" data-lon="-120.686928" data-zoom="17" data-label="The Link Family Resource Center (Atascadero)">Map</a>
+   - Atascadero: 4507 Del Rio Ave Bldg. #1, Atascadero <a href="#" class="map-link" data-lat="35.513562" data-lon="-120.686928" data-zoom="17" data-label="The Link Family Resource Center (Atascadero)">Map</a> <!-- Source: https://linkslo.org/ -->
    - Paso Robles: 1802 Chestnut St., Paso Robles <a href="#" class="map-link" data-lat="35.628326" data-lon="-120.691147" data-zoom="17" data-label="The Link Family Resource Center (Paso Robles)">Map</a>
-- **Phone:** [805-466-5404](tel:+1-805-466-5404)
-   - Family Advocate Services: [805-794-0217](tel:+1-805-794-0217)
-- **Hours:** M–F 9am–4pm
+- **Phone:** [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://linkslo.org/ -->
+   - Family Advocate Services: [805-794-0217](tel:+1-805-794-0217) <!-- Source: https://linkslo.org/ -->
+- **Hours:** M–F 9am–5pm <!-- Source: https://linkslo.org/ -->
 - **How to access:** accepts self-referrals, school referrals, and community agency referrals
 - Notes:
    - Operated by [**Center for Family Strengthening (CSF)**](#CSF)
@@ -1769,15 +1767,17 @@
 <!-- Source: https://www.literacyforlifeslo.org/ -->
 - **Website:** [literacyforlifeslo.org](https://www.literacyforlifeslo.org/)
 - **Location:** 992 Monterey St. #C, SLO <a href="#" class="map-link" data-lat="35.281755" data-lon="-120.661662" data-zoom="17" data-label="Literacy For Life">Map</a>
-- **Phone:** [805-541-4219](tel:+1-805-541-4219)
+   - [Learning centers](https://www.literacyforlifeslo.org/learning-centers.php) in Arroyo Grande, Atascadero, Cambria, Los Osos, Morro Bay, Nipomo, Paso Robles, and SLO
+- **Phone:** [805-459-5369](tel:+1-805-459-5369) <!-- Source: https://www.literacyforlifeslo.org/contact.php -->
+- **Email:** [info@literacyforlifeslo.org](mailto:info@literacyforlifeslo.org) <!-- Source: https://www.literacyforlifeslo.org/contact.php -->
 - **Hours:** M–Th 9am–5pm
 
 ## <a id="Literacy-Connection">The Literacy Connection</a>
 
 - **Website:** [catalog.slolibrary.org/tlc](https://catalog.slolibrary.org/tlc)
-- **Phone:** [805-781-5077](tel:+1-805-781-5077)
-- **Email:** [TLCinfo@slolibrary.org](mailto:TLCinfo@slolibrary.org)
-- **How to access:** Fill out a form on [the library website](https://catalog.slolibrary.org/tlc)
+- **Phone:** [805-781-5077](tel:+1-805-781-5077) <!-- Source: https://catalog.slolibrary.org/tlc -->
+- **Email:** [TLCinfo@slolibrary.org](mailto:TLCinfo@slolibrary.org) <!-- Source: https://catalog.slolibrary.org/tlc -->
+- **How to access:** Fill out a form on [the library website](https://catalog.slolibrary.org/tlc) <!-- Source: https://catalog.slolibrary.org/tlc -->
 - Notes: Program of [**SLO County Public Libraries**](#SLO-County-Public-Libraries)
 
 ## <a id="Little-Free-Libraries">Little Free Libraries</a>
@@ -2034,46 +2034,47 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Loaves-and-Fishes-Atascadero">Loaves & Fishes (Atascadero)</a>
 
 - **Website:** [alffoodpantry.org](https://alffoodpantry.org/)
-- **Location:** 5411 El Camino Real, Atascadero <a class="map-link" data-lat="35.492964" data-lon="-120.676511" data-zoom="17" data-label="Loaves & Fishes (Atascadero)">Map</a>
-- **Phone:** [805-461-1504](tel:+1-805-461-1504)
-- **Email:** [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org)
-- **Hours** (food pantry): M–F 1–3pm
+- **Location:** 5411 El Camino Real, Atascadero <a class="map-link" data-lat="35.492964" data-lon="-120.676511" data-zoom="17" data-label="Loaves & Fishes (Atascadero)">Map</a> <!-- Source: https://alffoodpantry.org/ -->
+- **Phone:** [805-461-1504](tel:+1-805-461-1504) <!-- Source: https://alffoodpantry.org/ -->
+- **Email:** [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org) <!-- Source: https://alffoodpantry.org/ -->
+- **Hours** (food pantry): M–F 1–3pm <!-- Source: https://alffoodpantry.org/need-food -->
 - Notes: Not affiliated with [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
 
 ## <a id="Loaves-and-Fishes-Paso-Robles">Loaves & Fishes (Paso Robles)</a>
 
 - **Website:** [loavesandfishespaso.org](https://loavesandfishespaso.org)
-- **Location:** 2650 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.642136" data-lon="-120.692363" data-zoom="17" data-label="Loaves and Fishes (Paso Robles)">Map</a>
-- **Phone:** [805-238-4742](tel:+1-805-238-4742)
-- **Hours:** M–Th Noon–2pm, every 3rd Th 5:30–7pm
+- **Location:** 2650 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.642136" data-lon="-120.692363" data-zoom="17" data-label="Loaves and Fishes (Paso Robles)">Map</a> <!-- Source: https://loavesandfishespaso.org/ -->
+- **Phone:** [805-238-4742](tel:+1-805-238-4742) <!-- Source: https://loavesandfishespaso.org/contact/ -->
+- **Hours:** M–Th 2pm–4pm, or by appointment <!-- Source: https://loavesandfishespaso.org/ -->
 - Notes: Not affiliated with [**Loaves & Fishes (Atascadero)**](#Loaves-and-Fishes-Atascadero)
 
 ## <a id="Long-Term-Care-Ombudsman">Long Term Care Ombudsman</a>
 
 - **Website:** [ombudsmanslo.org](https://ombudsmanslo.org/)
-- **Location:** 3232 S. Higuera St. #101B, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Long Term Care Ombudsman">Map</a>
+- **Location:** 3232 S. Higuera St. #101B, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Long Term Care Ombudsman">Map</a> <!-- Source: https://ombudsmanslo.org/ -->
 - **Phone:**
-   - [805-785-0132](tel:+1-805-785-0132) (office)
-   - [800-231-4024](tel:+1-800-231-4024) (24-hour emergency)
-- **Email:** [info@ombudsmanslo.org](mailto:info@ombudsmanslo.org)
-- **Hours:** M–F 8am–5pm
+   - [805-785-0132](tel:+1-805-785-0132) (office) <!-- Source: https://ombudsmanslo.org/ -->
+   - [800-231-4024](tel:+1-800-231-4024) (24-hour emergency) <!-- Source: https://ombudsmanslo.org/ -->
+- **Email:** [info@ombudsmanslo.org](mailto:info@ombudsmanslo.org) <!-- Source: https://ombudsmanslo.org/ -->
+- **Hours:** M–F 8:30am–4:30pm <!-- Source: https://ombudsmanslo.org/ -->
 
 ## <a id="Lopez-Lake-Recreation-Area">Lopez Lake Recreation Area</a>
 
 - **Website:** [slocountyparks.com/camp/lopez-lake/](https://slocountyparks.com/camp/lopez-lake/)
-- **Phone:** [805-788-2381](tel:+1-805-788-2381) M–Th 8am–5pm; [805-781-5930](tel:+1-805-781-5930) (reservations)
+- **Location:** 6800 Lopez Dr., Arroyo Grande <a href="#" class="map-link" data-lat="35.190855" data-lon="-120.457415" data-zoom="15" data-label="Lopez Lake Recreation Area">Map</a>
+- **Phone:** [805-788-2381](tel:+1-805-788-2381) <!-- Source: https://slocountyparks.com/camp/lopez-lake/ --> M–Th 8am–5pm; [805-781-5930](tel:+1-805-781-5930) (reservations)
 - **Email:** [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
 - **Hours:** 6am–sunset daily
 
 ## <a id="Los-Osos-Cares">Los Osos Cares Resource Center</a>
 
 - **Website:** [losososcares.com](https://www.losososcares.com/)
-- **Location:** Sunnyside School, 800 Manzanita Dr., Room 18, Los Osos <a class="map-link" data-lat="35.309785" data-lon="-120.835047" data-zoom="17" data-label="Los Osos Cares Resource Center">Map</a>
-   - Community Dinners: 2180 Palisades Ave., Los Osos
-- **Phone:** [805-592-2701](tel:+1-805-592-2701)
-- **Email:** [wecareinlososos@gmail.com](mailto:wecareinlososos@gmail.com)
-- **Hours:** Tu/W/Th 1–3pm
-   - Community Dinners: Wednesdays 5–6pm
+- **Location:** Sunnyside School, 800 Manzanita Dr., Room 18, Los Osos <a class="map-link" data-lat="35.309785" data-lon="-120.835047" data-zoom="17" data-label="Los Osos Cares Resource Center">Map</a> <!-- Source: https://www.losososcares.com/programs -->
+   - Community Dinners: 2180 Palisades Ave., Los Osos <!-- Source: https://www.losososcares.com/programs -->
+- **Phone:** [805-592-2701](tel:+1-805-592-2701) <!-- Source: https://www.losososcares.com/ -->
+- **Email:** [wecareinlososos@gmail.com](mailto:wecareinlososos@gmail.com) <!-- Source: https://www.losososcares.com/ -->
+- **Hours:** Tu/W/Th 1–3pm <!-- Source: https://www.losososcares.com/programs -->
+   - Community Dinners: Wednesdays 5–6pm <!-- Source: https://www.losososcares.com/programs -->
 - Notes:
    - Hosts Community Dinner at [**South Bay Community Center**](#South-Bay-Community-Center)
    - Hosts “Coastal Family Resource Center”
@@ -2082,18 +2083,14 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Website:** [adulted.luciamarschools.org](https://adulted.luciamarschools.org/)
 
+<!-- Sources: https://adulted.luciamarschools.org/contact-us and https://adulted.luciamarschools.org/learning-center-directions -->
 | Name | Location | Phone |
 | ---- | -------- | ----- |
 | Main office | 602 Orchard St., Arroyo Grande <a href="#" class="map-link" data-lat="35.115292" data-lon="-120.576271" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3222](tel:+1-805-474-3222) |
-| Nipomo Learning Center | 190 E. Price St., Nipomo <a href="#" class="map-link" data-lat="35.042848" data-lon="-120.471869" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x1224](tel:+1-805-474-3000;ext=1224) |
-| Oceano Community Center | 1575 17th St., Oceano <a href="#" class="map-link" data-lat="35.101995" data-lon="-120.612296" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x1225](tel:+1-805-474-3000;ext=1225) |
+| Nipomo Learning Center | 190 E. Price St. (E & F), Nipomo <a href="#" class="map-link" data-lat="35.042848" data-lon="-120.471869" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x7602](tel:+1-805-474-3000;ext=7602) |
+| Oceano Community Center | 1575 17th St. (30, 33, & 34), Oceano <a href="#" class="map-link" data-lat="35.101995" data-lon="-120.612296" data-zoom="17" data-label="Lucia Mar Adult Education">Map</a> | [805-474-3000 x7601](tel:+1-805-474-3000;ext=7601) |
 
-<!-- Note: another source says 1425 19th St., Oceano -->
-
-- **Phone:**
-   - [805-474-3000 x5811](tel:+1-805-474-3000;ext=5811) (general)
-   - [805-474-3000 x1221](tel:+1-805-474-3000;ext=1221) (Adult Education and Literacy)
-- **Email:** [brienne.phillips@lmusd.org](mailto:brienne.phillips@lmusd.org)
+- **Email:** [brienne.phillips@lmusd.org](mailto:brienne.phillips@lmusd.org) <!-- Source: https://adulted.luciamarschools.org/contact-us -->
 - Notes: Partners with [**Cuesta College**](#Cuesta-College) for ESL classes
 
 ## <a id="Lumina-Alliance">Lumina Alliance</a>
@@ -2101,19 +2098,20 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Website:** [luminaalliance.org](https://luminaalliance.org/)
 - **Locations:**
    - 555 S. 13th St. #B, Grover Beach <a href="#" class="map-link" data-lat="35.116240" data-lon="-120.615517" data-zoom="17" data-label="Lumina Alliance">Map</a>
-   - 102 S. Vine St. #C, Paso Robles <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">Map</a>
-   - 51 Zaca Ln. #150, SLO <a href="#" class="map-link" data-lat="35.251244" data-lon="-120.673442" data-zoom="17" data-label="Lumina Alliance">Map</a>
+   - 102 S. Vine St. #C, Paso Robles <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">Map</a> <!-- Source: Contact@LuminaAlliance.org -->
+   - 51 Zaca Ln. #150, SLO <a href="#" class="map-link" data-lat="35.251244" data-lon="-120.673442" data-zoom="17" data-label="Lumina Alliance">Map</a> <!-- Source: Contact@LuminaAlliance.org -->
 - **Phone:**
-   - [805-545-8888](tel:+1-805-545-8888) (24-hour free & confidential crisis line)
-   - [805-781-6400](tel:+1-805-781-6400) (Business line)
+   - [805-545-8888](tel:+1-805-545-8888) (24-hour free & confidential crisis line) <!-- Source: https://luminaalliance.org/ -->
+   - [805-781-6400](tel:+1-805-781-6400) (Business line) <!-- Source: https://luminaalliance.org/contact -->
+- **Email:** [Contact@LuminaAlliance.org](mailto:Contact@LuminaAlliance.org) <!-- Source: https://luminaalliance.org/contact -->
 - Note: RISE merged with Stand Strong in 2021 to form Lumina Alliance
 
 ## <a id="Lumina-Thrift">Lumina Thrift</a>
 
 - **Website:** [luminaalliance.org/thriftstore](https://luminaalliance.org/thriftstore/)
-- **Location:** 545 Higuera St., SLO <a class="map-link" data-lat="35.277002" data-lon="-120.667160" data-zoom="17" data-label="Lumina Thrift">Map</a>
-- **Phone:** [805-592-3596](tel:+1-805-592-3596)
-- **Hours:** M–Sa 10am–5pm
+- **Location:** 545 Higuera St., SLO <a class="map-link" data-lat="35.277002" data-lon="-120.667160" data-zoom="17" data-label="Lumina Thrift">Map</a> <!-- Source: https://luminaalliance.org/thriftstore/ -->
+- **Phone:** [805-592-3596](tel:+1-805-592-3596) <!-- Source: https://luminaalliance.org/thriftstore/ -->
+- **Hours:** M–Sa 10am–5pm <!-- Source: https://luminaalliance.org/thriftstore/ -->
 
 ## LyonHeart Place
 
