@@ -1107,15 +1107,19 @@
       - [805-592-9463](tel:+1-805-592-9463) (SLO Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
       - [805-591-6273](tel:+1-805-591-6273) (North County Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
 - **Email:**
+   - [basicneeds@cuest.edu](mailto:basicneeds@cuest.edu) (Basic Needs Center) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - [admit@cuesta.edu](mailto:admit@cuesta.edu) (Admission)
    - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (South County Campus)
    - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
 - Notes:
-   - The Paso Robles campus hosts a food pantry in room N1005, M/Th/F 8am–5pm, Tu/W 9am–6pm; [805-592-9366](tel:+1-805-592-9366)
+   - Basic Needs Office is in room 5014B of the SLO campus, open M/Th/F 9am–4pm, Tu 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - The Paso Robles campus hosts a Cougat Food Pantry for students in room N1005, M–F 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - The SLO campus hosts a Cougat Food Pantry for students in room 5014A’s cafeteria, M–F 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programs are open to otherwise unenrolled people
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) has vocational / lifetime-learning programs, and ESL
    - Partners with [**The Bridge Cafe**](#Restorative-Partners) for its Culinary Arts program
    - Partners with [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes
+   - The SLO & North County campuses are [**SLO Food Bank**](#SLO-Food-Bank) food box distribution sites <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
 
 ## Deaf and Disabled Telecommunication Program (DDTP)
 
@@ -1138,35 +1142,37 @@
 
 > *See also [**Dignity Health**](#Dignity-Health)*
 
-| Location | Phone | Hours |
-| -------- | ----- | ----- |
-| Atascadero: 5920 W Mall, Atascadero <a href="#" class="map-link" data-lat="35.489540" data-lon="-120.668170" data-zoom="17" data-label="Dignity Health Urgent Care">Map</a> | [805-461-2131](tel:+1-805-461-2131) | M–F 8am–6pm, Sa 9am–3pm, Su closed |
-| Pismo Beach: 877 Oak Park Blvd, Pismo Beach <a href="#" class="map-link" data-lat="35.132062" data-lon="-120.606526" data-zoom="17" data-label="Dignity Health Urgent Care">Map</a> | [805-474-8450](tel:+1-805-474-8450) | M–F 8am–6pm, Sa 8am–4pm, Su closed |
+<!-- Source (location/phone): https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
+| Location | Phone |
+| -------- | ----- |
+| Atascadero: 5920 W Mall, Atascadero <a href="#" class="map-link" data-lat="35.489540" data-lon="-120.668170" data-zoom="17" data-label="Dignity Health Urgent Care">Map</a> | [805-461-2131](tel:+1-805-461-2131) |
+| Pismo Beach: 877 Oak Park Blvd, Pismo Beach <a href="#" class="map-link" data-lat="35.132062" data-lon="-120.606526" data-zoom="17" data-label="Dignity Health Urgent Care">Map</a> | [805-474-8450](tel:+1-805-474-8450) |
 
-- Notes: Accepts Medicare and Medi-Cal; walk-ins welcome, no appointment necessary; lab and X-ray services on site
-<!-- Source: Atascadero location info verified October 2025 via web search -->
+- **Hours:** M–F 8am–6pm, Sa 8am–4pm, Su closed <!-- Source: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
+- Notes: Accepts Medicare and Medi-Cal as well as several private insurers; walk-ins welcome, no appointment necessary; lab and X-ray services on site <!-- Source: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
 
 ## <a id="Disability-Rights-California">Disability Rights California</a>
 
 - **Website:** [www.disabilityrightsca.org/get-help](https://www.disabilityrightsca.org/get-help)
-- **Phone:** [800-776-5746](tel:+1-800-776-5746)
+- **Phone:** [800-776-5746](tel:+1-800-776-5746) (TTY: [800-719-5798](tel:+1-800-719-5798)) <!-- Source: https://www.disabilityrightsca.org/get-help -->
+- **Hours:** M/Tu/Th/F 9am–3pm <!-- Source: https://www.disabilityrightsca.org/get-help -->
 
 ## <a id="Discipleship-Home">Discipleship Home</a>
 
-<!-- Source: https://www.manta.com/c/mhxdpgw/the-discipleship-home -->
 - **Website:** [thediscipleshiphome.com](https://thediscipleshiphome.com/)
-- **Location:** 1359 21st Court, Oceano <a class="map-link" data-lat="35.104942" data-lon="-120.607980" data-zoom="17" data-label="Discipleship Home">Map</a>
-- **Phone:** [805-668-9185](tel:+1-805-668-9185)
-- **Email:** [thediscipleshiphome15@gmail.com](mailto:thediscipleshiphome15@gmail.com)
+- **Location:** 1359 21st Court, Oceano <a class="map-link" data-lat="35.104942" data-lon="-120.607980" data-zoom="17" data-label="Discipleship Home">Map</a> <!-- Source: https://www.thediscipleshiphome.com/contact-us -->
+- **Phone:** [805-668-9185](tel:+1-805-668-9185) <!-- Source: https://www.thediscipleshiphome.com/contact-us -->
+- **Email:** [thediscipleshiphome15@gmail.com](mailto:thediscipleshiphome15@gmail.com) <!-- Source: https://www.thediscipleshiphome.com/contact-us -->
 
 ## <a id="Dove-Creek-Church">Dove Creek Church of the Nazarene</a>
 
-<!-- Source: Web search verified October 2025 -->
 - **Website:** [dovecreekchurch.org](https://dovecreekchurch.org/)
-- **Location:** 9333 Santa Barbara Rd., Atascadero <a class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Dove Creek Church of the Nazarene">Map</a>
-- **Phone:** [805-466-9505](tel:+1-805-466-9505)
-- **Email:** [office@dovecreekchurch.org](mailto:office@dovecreekchurch.org)
-- Notes: Operates a food pantry; also known as Atascadero Dove Creek Church of the Nazarene
+- **Location:** 9333 Santa Barbara Rd., Atascadero <a class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Dove Creek Church of the Nazarene">Map</a> <!-- Source: https://dovecreekchurch.org/who-we-are/find-us -->
+- **Phone:** [805-466-9505](tel:+1-805-466-9505) <!-- Source: https://dovecreekchurch.org/who-we-are/find-us -->
+- **Email:** [office@dovecreekchurch.org](mailto:office@dovecreekchurch.org) <!-- Source: https://dovecreekchurch.org/who-we-are/find-us -->
+- Notes:
+   - Operates a food pantry; also known as Atascadero Dove Creek Church of the Nazarene
+   - As of October 2025, the website says “We are currently on hiatus and in a period of rebuilding”
 <!-- Note: See also [**Restoration Church**](#Restoration-Church) which may be a ministry at this same address -->
 <!-- Note: Unable to determine food pantry hours from reputable online sources (researched October 2025). Call 805-466-9505 or email office@dovecreekchurch.org to verify hours. -->
 
@@ -1178,24 +1184,30 @@
 
 - **Website:** [eckerd.org/jobs-training/slo](https://www.eckerd.org/jobs-training/slo/)
 - **Locations:**
-   - 3450 Broad Street #103A, SLO <a href="#" class="map-link" data-lat="35.257894" data-lon="-120.646738" data-zoom="17" data-label="Eckerd Connects">Map</a>
-   - 534 Spring Street, Paso Robles <a href="#" class="map-link" data-lat="35.619702" data-lon="-120.690592" data-zoom="17" data-label="Eckerd Connects">Map</a>
-- **Phone:** [805-439-2557](tel:+1-805-439-2557)
+   - 3450 Broad Street #103A, SLO <a href="#" class="map-link" data-lat="35.257894" data-lon="-120.646738" data-zoom="17" data-label="Eckerd Connects">Map</a> <!-- Source: https://eckerd.org/jobs-training/slo/ -->
+   - 534 Spring Street, Paso Robles <a href="#" class="map-link" data-lat="35.619702" data-lon="-120.690592" data-zoom="17" data-label="Eckerd Connects">Map</a> <!-- Source: https://eckerd.org/jobs-training/slo/ -->
+- **Phone:**
+   - [805-439-2557](tel:+1-805-439-2557) <!-- Source: https://eckerd.org/jobs-training/slo/ -->
+   - [941-585-9659](tel:+1-941-585-9659) <!-- Source: https://eckerd.org/jobs-training/slo/ -->
 - **Email:** [SLOCal@eckerd.org](mailto:SLOCal@eckerd.org)
 - **Hours:** M–F 9am–4pm (SLO)
 
 ## <a id="ECHO">El Camino Homeless Organization (ECHO)</a>
 
 - **Website:** [www.echoshelter.org](https://www.echoshelter.org/)
-
-| Transitional Housing Location | Hours | Dinner | Showers |
-| ----------------------------- | ----- | ------ | ------- |
-| 6370 Atascadero Ave., Atascadero <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">Map</a> <!-- Another source says 7600 El Camino Real #12, Atascadero --> | M–F 10–6pm | daily 5–6pm | M–F 3:30–5pm |
-| 1134 Black Oak Dr., Paso Robles <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">Map</a> | M–F 10–6pm | daily 4:30–5:30pm | showers M,W,F 3:30–5pm |
-
-- **Phone:** [805-462-3663](tel:+1-805-462-3663)
-- **Email:** [asolheim@echoshelter.org](mailto:asolheim@echoshelter.org)
-- **How to access:** For transitional housing, contact ECHO to get on a waiting list; for dinner or showers, just show up on time
+- **Locations:**
+   - 6370 Atascadero Ave., Atascadero <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">Map</a> <!-- Source: https://www.echoshelter.org/atascadero -->
+   - 1134 Black Oak Dr., Paso Robles <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">Map</a> <!-- Source: https://www.echoshelter.org/pasorobles -->
+- **Phone:** [805-462-FOOD](tel:+1-805-462-3663) <!-- Source: https://www.echoshelter.org/contact -->
+- **Email:** [wlewis@echoshelter.org](mailto:wlewis@echoshelter.org) <!-- Source: https://www.echoshelter.org/contact -->
+- **How to access:**
+   - For transitional housing, contact ECHO to get on a waiting list; for dinner/showers/laundry, just show up on time
+   - Emergency shelter bed signup at the Paso Robles location only, 4:30–5:30pm <!-- Source: https://www.echoshelter.org/pasorobles -->
+- Notes:
+   - Dinner (also available to non-residents) at 5pm at both locations <!-- Source: https://www.echoshelter.org/atascadero https://www.echoshelter.org/pasorobles -->
+   - Showers (available to non-residents) M–F from 4–5:30pm at both locations <!-- Source: https://www.echoshelter.org/atascadero https://www.echoshelter.org/pasorobles -->
+   - Laundry (available to non-residents) W from 10am–6pm at the Paso Robles location. <!-- Source: https://www.echoshelter.org/pasorobles -->
+   - The Paso Robles location operates as an emergency warming center during adverse weather <!-- Source: https://www.echoshelter.org/pasorobles -->
 
 ## <a id="El-Chorro-Regional-Park-Campground">El Chorro Regional Park Campground</a>
 
@@ -1206,28 +1218,30 @@
 
 ## <a id="Elks-Lodge-2504">Elks Lodge #2504</a>
 
-- **Location:** 410 Air Park Drive, Oceano <a class="map-link" data-lat="35.105357" data-lon="-120.627046" data-zoom="17" data-label="Elks Lodge #2504">Map</a>
-- **Phone:** [805-489-2504 x2](tel:+1-805-489-2504;ext=2)
-- **Email:** [Elks2504@gmail.com](Elks2504@gmail.com)
+- **Website:** [oceanoelks2504.org](https://oceanoelks2504.org/)
+- **Location:** 410 Air Park Drive, Oceano <a class="map-link" data-lat="35.105357" data-lon="-120.627046" data-zoom="17" data-label="Elks Lodge #2504">Map</a> <!-- Source: https://oceanoelks2504.org/contact-2/ -->
+- **Phone:** [805-489-2504](tel:+1-805-489-2504) <!-- Source: https://oceanoelks2504.org/contact-2/ -->
+- **Email:** [Elks2504@gmail.com](Elks2504@gmail.com) <!-- Source: https://oceanoelks2504.org/contact-2/ -->
 - **Hours:** M–Th 9am–4pm
 - **How to access:** Walk-ins OK, but it’s better to call ahead
 
 ## <a id="Employment-Development-Department">Employment Development Department</a>
 
 - **Website:** [edd.ca.gov](https://edd.ca.gov/)
-- **Location:** 3450 Broad St. #103A, SLO <a href="#" class="map-link" data-lat="35.257956" data-lon="-120.646557" data-zoom="17" data-label="EDD">Map</a>
+- **Location:** 3450 Broad St. #103A, SLO <a href="#" class="map-link" data-lat="35.257956" data-lon="-120.646557" data-zoom="17" data-label="EDD">Map</a> <!-- This is the SLO Cal Careers center; Unclear if this is also EDD -->
 - **Phone:**
    - [800-300-5616](tel:+1-800-300-5616)
    - Local office: [805-878-2842](tel:+1-805-878-2842)
-   - Customer service: [805-439-2557](tel:+1-805-439-2557)
+   - Customer service: [805-439-2557](tel:+1-805-439-2557) <!-- Also SLO Cal Careers -->
 - **Hours:** M–F 8am–5pm
 - Notes:
    - Operates “Migrant Seasonal Farmworker” program
 
 ## <a id="Enhanced-Care-Management">Enhanced Care Management</a>
 
-- **Phone:** [805-781-4687](tel:+1-805-781-4687)
-- **Email:** [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us)
+- **Website:** [slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management)
+- **Phone:** [805-781-4687](tel:+1-805-781-4687) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+- **Email:** [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 - Notes:
    - [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entry-point for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
    - Offered to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
@@ -1235,34 +1249,24 @@
 ## <a id="EyeCare-America">EyeCare America</a>
 
 - **Website:** [aao.org/eyecare-america](https://aao.org/eyecare-america)
-- **Phone:** [877-887-6327](tel:+1-877-887-6327) (M–F 8am–2pm)
-- **Email:** [eyecareamerica@aao.org](mailto:eyecareamerica@aao.org)
+- **Phone:** [877-887-6327](tel:+1-877-887-6327) (M–F 8am–2pm) <!-- Source: https://www.aao.org/eyecare-america -->
+- **Email:** [eyecareamerica@aao.org](mailto:eyecareamerica@aao.org) <!-- Source: https://www.aao.org/eyecare-america -->
 - **How to access:** To begin, fill out a questionnaire on their website
-
-## <a id="Fabulous-Finds-Quality-Thrifting">Fabulous Finds Quality Thrifting</a>
-
-<!-- Source: https://www.yelp.com/biz/st-timothys-fabulous-finds-morro-bay-2 -->
-- **Website:** [sttimothymorrobay.org](https://sttimothymorrobay.org/)
-- **Location:** 480 Morro Bay Blvd., Morro Bay <a class="map-link" data-lat="35.365773" data-lon="-120.847925" data-zoom="17" data-label="Fabulous Finds Quality Thrifting">Map</a>
-- **Phone:** [805-772-2840](tel:+1-805-772-2840)
-- **Hours:** M 11am–5pm, W–Sa 11am–5pm (closed Tu & Su)
 
 ## <a id="Family-and-Industrial-Medical-Center">Family and Industrial Medical Center</a>
 
 - **Website:** [fimcslo.com](https://fimcslo.com/)
-- **Location:** 47 Santa Rosa St., SLO <a href="#" class="map-link" data-lat="35.292602" data-lon="-120.667778" data-zoom="17" data-label="Family and Industrial Medical Center">Map</a>
-- **Phone:** [805-542-9596](tel:+1-805-542-9596)
-- **Hours:** M–F 8am–7pm, Sa. 9am–4pm
+- **Location:** 47 Santa Rosa St., SLO <a href="#" class="map-link" data-lat="35.292602" data-lon="-120.667778" data-zoom="17" data-label="Family and Industrial Medical Center">Map</a> <!-- Source: https://fimcslo.com/ -->
+- **Phone:** [805-542-9596](tel:+1-805-542-9596) <!-- Source: https://fimcslo.com/ -->
+- **Hours:** M–F 8am–7pm, Sa.–Su. 9am–4pm <!-- Source: https://fimcslo.com/ -->
 
 ## <a id="Family-Care-Network">Family Care Network</a>
 
-<!-- Source: https://fcni.org -->
 - **Website:** [fcni.org](https://fcni.org)
-- **Location:** 1255 Kendall Rd., SLO <a href="#" class="map-link" data-lat="35.236909" data-lon="-120.629489" data-zoom="17" data-label="Family Care">Map</a>
-- **Phone:** [805-781-3535](tel:+1-805-781-3535)
-- **Email:** [Contact@fcni.org](mailto:Contact@fcni.org)
-<!-- Note: Hours of operation not publicly listed (as of October 2025); contact office directly for hours -->
-- Notes: Operates [**Housing Support Program (HSP)**](#Housing-Support-Program)
+- **Location:** 1255 Kendall Rd., SLO <a href="#" class="map-link" data-lat="35.236909" data-lon="-120.629489" data-zoom="17" data-label="Family Care">Map</a> <!-- Source: https://fcni.org -->
+- **Phone:** [805-781-3535](tel:+1-805-781-3535) <!-- Source: https://fcni.org -->
+- **Email:** [Contact@fcni.org](mailto:Contact@fcni.org) <!-- Source: https://fcni.org -->
+- Notes: Operates [**Housing Support Program (HSP)**](#Housing-Support-Program) <!-- Source: https://fcni.org/how-we-help/ensuring-stability/ -->
 
 ## FamilyPACT
 
@@ -1275,17 +1279,17 @@
 ## <a id="Five-Cities-Christian-Women-Food-Pantry">Five Cities Christian Women Food Pantry</a>
 
 - **Website:** [fivecitieschristianwomenfoodpantry.org](https://fivecitieschristianwomenfoodpantry.org/)
-- **Location:** 946 Rockaway Ave., Grover Beach <a class="map-link" data-lat="35.120091" data-lon="-120.619796" data-zoom="17" data-label="Five Cities Christian Women Food Pantry">Map</a>
-- **Phone:** [805-473-3368](tel:+1-805-473-3368)
-- **Hours:** M–F 2–3:30pm
+- **Location:** 946 Rockaway Ave., Grover Beach <a class="map-link" data-lat="35.120091" data-lon="-120.619796" data-zoom="17" data-label="Five Cities Christian Women Food Pantry">Map</a> <!-- Source: https://fivecitieschristianwomenfoodpantry.org/ -->
+- **Phone:** [805-473-3368](tel:+1-805-473-3368) <!-- Source: https://fivecitieschristianwomenfoodpantry.org/?page_id=14 -->
+- **Hours:** M–F 2–3:30pm except federal holidays <!-- Source: https://fivecitieschristianwomenfoodpantry.org/ -->
 - Hosted by [**Lifepoint Church**](#Lifepoint-Church)
 
 ## <a id="5Cities-Meals-on-Wheels">Five Cities Meals on Wheels</a>
 
 - **Website:** [5citiesmow.com](https://www.5citiesmow.com/)
-- **Location:** 780 Bello Street, Pismo Beach <a class="map-link" data-lat="35.143111" data-lon="-120.639100" data-zoom="17" data-label="Five Cities Meals on Wheels">Map</a>
-- **Phone:** [805-773-2053](tel:+1-805-773-2053)
-- **Email:** [info@5citiesmow.com](mailto:info@5citiesmow.com)
+- **Location:** 780 Bello Street, Pismo Beach <a class="map-link" data-lat="35.143111" data-lon="-120.639100" data-zoom="17" data-label="Five Cities Meals on Wheels">Map</a> <!-- Source: https://www.5citiesmow.com/ -->
+- **Phone:** [805-773-2053](tel:+1-805-773-2053) <!-- Source: https://www.5citiesmow.com/ -->
+- **Email:** [info@5citiesmow.com](mailto:info@5citiesmow.com) <!-- Source: https://www.5citiesmow.com/ -->
 
 ## <a id="Flying-Flags-Avila-Beach">Flying Flags Avila Beach</a>
 
@@ -1296,53 +1300,51 @@
 
 ## <a id="Foxys-Thrift-Shop">Foxy’s Thrift Shop</a>
 
-<!-- Source: https://www.morrobay.org/directory/foxys-thrift-shop/ -->
-- **Website:** [foxys-thrift-shop.hub.biz](https://foxys-thrift-shop.hub.biz/)
-- **Location:** 655 Morro Bay Blvd., Morro Bay <a class="map-link" data-lat="35.366302" data-lon="-120.845882" data-zoom="17" data-label="Foxy’s Thrift Shop">Map</a>
-- **Phone:** [805-772-8800](tel:+1-805-772-8800)
+- **Location:** 655 Morro Bay Blvd., Morro Bay <a class="map-link" data-lat="35.366302" data-lon="-120.845882" data-zoom="17" data-label="Foxy’s Thrift Shop">Map</a> <!-- Source: https://www.morrobay.org/directory/foxys-thrift-shop/ -->
+- **Phone:** [805-772-8800](tel:+1-805-772-8800) <!-- Source: https://www.morrobay.org/directory/foxys-thrift-shop/ -->
 - **Hours:** Daily 10am–5pm
 
 ## <a id="Food-Not-Bombs">Food Not Bombs</a>
 
-<!-- Source: https://localwiki.org/slo/Food_Not_Bombs -->
 - **Social media:**
    - Facebook: [facebook.com/FoodNotBombsSLO](https://www.facebook.com/FoodNotBombsSLO/)
    - Instagram: [@foodnotbombs_slo](https://instagram.com/foodnotbombs_slo)
-- **Email:** [slofoodnotbombs@gmail.com](mailto:slofoodnotbombs@gmail.com)
-- **Location:** Mitchell Park, SLO <a href="#" class="map-link" data-lat="35.278724" data-lon="-120.657960" data-zoom="17" data-label="Food Not Bombs">Map</a>
-- **Hours:** Su 1–3pm
+- **Email:** [slofoodnotbombs@gmail.com](mailto:slofoodnotbombs@gmail.com) <!-- Source: https://www.google.com/maps/d/u/0/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=37.86769083204774%2C-118.11640276136268&z=6 -->
+- **Location:** Mitchell Park, SLO <a href="#" class="map-link" data-lat="35.278724" data-lon="-120.657960" data-zoom="17" data-label="Food Not Bombs">Map</a> <!-- Source: https://www.facebook.com/FoodNotBombsSLO/ -->
+- **Hours:** Su 1–3pm <!-- Source: https://www.google.com/maps/d/u/0/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=37.86769083204774%2C-118.11640276136268&z=6 -->
 
 ## <a id="Fred-and-Bettys">Fred & Betty’s Thrift Store</a>
 
-<!-- Source: https://visitslo.com/things-to-do/attractions/san-luis-obispo-shopping/fred-bettys-thrift-store/ -->
 - **Website:** [fredandbettys.org](https://www.fredandbettys.org)
-- **Location:** 532 Higuera St., SLO <a href="#" class="map-link" data-lat="35.277121" data-lon="-120.667745" data-zoom="17" data-label="Fred and Betty’s Thrift Store">Map</a>
-- **Phone:** [805-593-0255](tel:+1-805-593-0255)
-- **Hours:** M–Sa 10am–5pm
+- **Location:** 532 Higuera St., SLO <a href="#" class="map-link" data-lat="35.277121" data-lon="-120.667745" data-zoom="17" data-label="Fred and Betty’s Thrift Store">Map</a> <!-- Source: https://www.fredandbettys.org/ -->
+- **Phone:** [805-593-0255](tel:+1-805-593-0255) <!-- Source: https://www.fredandbettys.org/ -->
+- **Hours:** M–Sa 10am–5pm <!-- Source: https://www.fredandbettys.org/ -->
 
 ## <a id="French-Hospital-Medical-Center">French Hospital Medical Center</a>
 
 > *See also [**Dignity Health**](#Dignity-Health)*
 
-<!-- Source: https://www.dignityhealth.org/central-coast/locations/frenchhospital -->
 - **Website:** [dignityhealth.org/central-coast/locations/frenchhospital](https://www.dignityhealth.org/central-coast/locations/frenchhospital)
-- **Location:** 1911 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.277962" data-lon="-120.650922" data-zoom="15" data-label="French Hospital Medical Center">Map</a>
-- **Phone:** [805-542-6621](tel:+1-805-542-6621) (ER) or [805-543-5353](tel:+1-805-543-5353) (front desk)
+- **Location:** 1911 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.277962" data-lon="-120.650922" data-zoom="15" data-label="French Hospital Medical Center">Map</a> <!-- Source: https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center -->
+- **Phone:**
+   - ER: [805-542-6621](tel:+1-805-542-6621)
+   - Front desk: [805-543-5353](tel:+1-805-543-5353) <!-- Source: https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center -->
+- **Hours:** 24/7
 
 ## <a id="Front-Porch">Front Porch</a>
 
 - **Website:** [https://www.frontporchslo.org/](https://www.frontporchslo.org/)
-- **Location:** 1468 E. Foothill, SLO <a href="#" class="map-link" data-lat="35.297443" data-lon="-120.660964" data-zoom="17" data-label="Front Porch">Map</a>
+- **Location:** 1468 E. Foothill, SLO <a href="#" class="map-link" data-lat="35.297443" data-lon="-120.660964" data-zoom="17" data-label="Front Porch">Map</a> <!-- Source: https://www.frontporchslo.org/ -->
 - **Phone:** [818-731-4984](tel:+1-818-731-4984)
-- **Email:** [hello@frontporchslo.org](mailto:hello@frontporchslo.org)
-- **Hours:** M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks)
-- **How to access:** oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here.”
+- **Email:** [hello@frontporchslo.org](mailto:hello@frontporchslo.org) <!-- Source: https://www.frontporchslo.org/ -->
+- **Hours:** M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks) <!-- Source: visited in person and saw those hours taped to the door -->
+- **How to access:** oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here” and “No matter what, you’re welcome here.” <!-- Source: https://www.frontporchslo.org/what-we-do and https://www.frontporchslo.org/ -->
 
 ## <a id="GALA">GALA Pride & Diversity Center</a>
 
 - **Website:** [galacc.org](https://galacc.org/)
-- **Location:** 1060 Palm St., SLO <a href="#" class="map-link" data-lat="35.283421" data-lon="-120.661309" data-zoom="17" data-label="GALA">Map</a>
-- **Phone:** [805-541-4252](tel:+1-805-541-4252)
+- **Location:** 1060 Palm St., SLO <a href="#" class="map-link" data-lat="35.283421" data-lon="-120.661309" data-zoom="17" data-label="GALA">Map</a> <!-- Source: https://galacc.org/about/ -->
+- **Phone:** [805-541-4252](tel:+1-805-541-4252) <!-- Source: https://galacc.org/about/ -->
 - **Email:** [info@galacc.org](mailto:info@galacc.org)
 - **Hours:** M–F 8am–5pm
    - Food pantry M–F 10am–3pm
@@ -1350,10 +1352,10 @@
 ## <a id="Genoa-Pharmacy">Genoa Pharmacy</a>
 
 - **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)
-- **Location:** 2178 Johnson Avenue #P1, SLO <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="Genoa Pharmacy">Map</a>
-- **Phone:** [805-242-4051](tel:+1-805-242-4051) (for prescription transfers)
-- **Hours:** M–F 8:30am–5pm (closed 12:30–1pm)
-- Notes: The on-site pharmacy for [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health)
+- **Location:** 2178 Johnson Avenue #P1, SLO <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="Genoa Pharmacy">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy -->
+- **Phone:** [805-242-4051](tel:+1-805-242-4051) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy -->
+- **Hours:** M–F 8:30am–5pm (closed 12:30–1pm) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy -->
+- Notes: The on-site pharmacy for [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy -->
 
 ## GLAD
 
@@ -1366,78 +1368,77 @@
 ## <a id="Golden-1-Credit-Union">Golden 1 Credit Union</a>
 
 - **Website:** [golden1.com](https://www.golden1.com)
-- **Locations:**
+- **Locations:** <!-- Source: https://www.golden1.com/atm-branch-finder -->
    - 8727 El Camino Real, Atascadero <a href="#" class="map-link" data-lat="35.472833" data-lon="-120.651861" data-zoom="17" data-label="Golden 1 Credit Union">Map</a>
    - 128 Niblick Rd., Paso Robles <a href="#" class="map-link" data-lat="35.612529" data-lon="-120.683731" data-zoom="17" data-label="Golden 1 Credit Union">Map</a>
    - 852 E. Foothill Blvd., SLO <a href="#" class="map-link" data-lat="35.294492" data-lon="-120.670846" data-zoom="17" data-label="Golden 1 Credit Union">Map</a>
-- **Phone:** [877-465-3361](tel:+1-877-465-3361)
-- **Hours:** M–F 10am–5pm, Sa 10am–2pm
+- **Phone:** [877-GOLDEN-1](tel:+1-877-465-3361) <!-- Source: https://www.golden1.com/discoverg1/call-us -->
+- **Hours:** M–F 10am–5pm, Sa 10am–2pm <!-- Source: https://www.golden1.com/atm-branch-finder -->
 
 ## <a id="Good-Samaritan-Shelter">Good Samaritan Shelter</a>
 
 - **Website:** [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)
-- **Location:** 401 W. Morrison Ave., Santa Maria <a href="#" class="map-link" data-lat="34.943820" data-lon="-120.441034" data-zoom="17" data-label="Good Samaritan Shelter">Map</a>
-   - Administrative offices: 400 West Park, Santa Maria <a href="#" class="map-link" data-lat="34.944295" data-lon="-120.440996" data-zoom="17" data-label="Good Samaritan Shelter">Map</a>
-- **Phone:** [805-347-3338 x101](tel:+1-805-347-3338;ext=101)
+- **Locations:**
+   - Santa Maria emergency shelter: 401 W. Morrison Ave., Santa Maria <a href="#" class="map-link" data-lat="34.943820" data-lon="-120.441034" data-zoom="17" data-label="Good Samaritan Shelter">Map</a> <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+   - Administrative offices: 400 West Park, Santa Maria <a href="#" class="map-link" data-lat="34.944295" data-lon="-120.440996" data-zoom="17" data-label="Good Samaritan Shelter">Map</a> <!-- Source: https://www.goodsamaritanshelter.org/ -->
+- **Phone:** Emergency shelter: [805-347-3338 x101](tel:+1-805-347-3338;ext=101) <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
 - **Email:** Layne Harlow ([lharlow@goodsamaritanshelter.org](mailto:lharlow@goodsamaritanshelter.org))
 - **Hours:**
-   - Intake appointments 8:30am–5pm daily
+   - Emergency shelter: 24/7 <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+   - Shelter intake appointments 8:30am–5pm M–F
    - Shelter opens at 4:30pm daily
-- **How to access:** Contact during regular working hours 8:30am–5:00pm to set up an intake appointment
+   - Administrative offices open 9am–5pm M–F <!-- Source: https://www.goodsamaritanshelter.org/who-we-are-1 -->
+- **How to access:** (shelter) Call M–F 8:30am–4:00pm, or walk in 9am–3pm, to set up an intake appointment <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
 - Notes:
    - operates [**Welcome Home Village**](#Welcome-Home-Village)
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
-   - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
+   - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families) <!-- Source: https://www.goodsamaritanshelter.org/housing-support-services -->
 
 ## <a id="Goodwill">Goodwill Stores</a>
 
 - **Website:** [ccgoodwill.org](https://www.ccgoodwill.org/)
 
+<!-- Sources: https://www.ccgoodwill.org/locations/atascadero-goodwill-thrift-store/ and https://www.ccgoodwill.org/locations/grover-beach-goodwill-thrift-store/ and https://www.ccgoodwill.org/locations/paso-robles-goodwill-thrift-store/ and https://www.ccgoodwill.org/locations/goodwill-san-luis-obispo-higuera/ and https://www.ccgoodwill.org/locations/san-luis-obispo-industrial-way-goodwill-thrift-store/ -->
 | Location | Hours |
 | -------- | ----- |
-| 8310 El Camino Real #A, Atascadero <a href="#" class="map-link" data-lat="35.474441" data-lon="-120.656410" data-zoom="17" data-label="Goodwill Store">Map</a> | Daily 9am–6pm |
+| 8310 El Camino Real #A, Atascadero <a href="#" class="map-link" data-lat="35.474441" data-lon="-120.656410" data-zoom="17" data-label="Goodwill Store">Map</a> | Daily 9am–7pm |
 | 1628 W. Grand Ave., Grover Beach <a href="#" class="map-link" data-lat="35.120113" data-lon="-120.611025" data-zoom="17" data-label="Goodwill Store">Map</a> | Daily 9am–7pm |
 | 1020 Park St., Paso Robles <a href="#" class="map-link" data-lat="35.625127" data-lon="-120.689607" data-zoom="17" data-label="Goodwill Store">Map</a> | Su–Th 9am–7pm, Fr–Sa 9am–8pm |
 | 15 S. Higuera St., SLO <a href="#" class="map-link" data-lat="35.265971" data-lon="-120.670164" data-zoom="17" data-label="Goodwill Store">Map</a> | Daily 9am–6pm |
 | 880 Industrial Way, SLO <a href="#" class="map-link" data-lat="35.252988" data-lon="-120.640955" data-zoom="17" data-label="Goodwill Outlet">Map</a> (Outlet) | Daily 7am–4pm |
 
 - **Phone:** [800-894-8440](tel:+1-800-894-8440)
-   - Opportunity Platform: [805-544-0542&#xA0;x8520](tel:+1-805-544-0542;ext=8520), [jjauregui@ccgoodwill.org](mailto:jjauregui@ccgoodwill.org)
+   - Opportunity Platform: [805-544-0542&#xA0;x8520](tel:+1-805-544-0542;ext=8520), [jjauregui@ccgoodwill.org](mailto:jjauregui@ccgoodwill.org) <!-- Source: https://www.ccgoodwill.org/services/resources/ -->
 
 ## <a id="Grace-Central-Coast">Grace Central Coast</a> “God’s Storehouse”
 
-<!-- Source: https://gracecentralcoast.org/ -->
 - **Website:** [gracecentralcoast.org](https://gracecentralcoast.org/)
-- **Location:** 1350 Osos Street, SLO <a href="#" class="map-link" data-lat="35.279206" data-lon="-120.658411" data-zoom="17" data-label="God’s Storehouse">Map</a>
-- **Phone:** [805-543-2358](tel:+1-805-543-2358)
-- **Hours** (God’s Storehouse food distribution): Sa. 8–10am
+- **Location:** 1350 Osos Street, SLO <a href="#" class="map-link" data-lat="35.279206" data-lon="-120.658411" data-zoom="17" data-label="God’s Storehouse">Map</a> <!-- Source: https://gracecentralcoast.org/slo -->
+- **Phone:** [805-543-2358](tel:+1-805-543-2358) <!-- Source: https://gracecentralcoast.org/slo -->
+- **Email:** [info@gracecentralcoast.org](mailto:info@gracecentralcoast.org) <!-- Source: https://gracecentralcoast.org/slo -->
+- **Hours** (God’s Storehouse food distribution): Sa. 8–10am <!-- Source: https://gracecentralcoast.org/gods-storehouse-care -->
 
 ## <a id="Green-Pastures">Green Pastures</a>
 
 - **Website:** [fpcslo.org/greenpastures](https://fpcslo.org/greenpastures)
-- **Location:** 981 Marsh St., SLO (First Presbyterian Church) <a href="#" class="map-link" data-lat="35.279915" data-lon="-120.660514" data-zoom="17" data-label="Green Pastures">Map</a>
-- **Phone:** [805-543-5451](tel:+1-805-543-5451)
-- **Email:** [churchoffice@fpcslo.org](mailto:churchoffice@fpcslo.org)
-- **Hours:** 1st and 3rd Wednesdays at 1pm
-- **How to access:** Lottery system—first 8 names drawn receive assistance; must be present to enter
+- **Location:** 981 Marsh St., SLO (First Presbyterian Church) <a href="#" class="map-link" data-lat="35.279915" data-lon="-120.660514" data-zoom="17" data-label="Green Pastures">Map</a> <!-- Source: https://fpcslo.org/ -->
+- **Phone:** [805-543-5451](tel:+1-805-543-5451) <!-- Source: https://fpcslo.org/ -->
+- **Email:** [churchoffice@fpcslo.org](mailto:churchoffice@fpcslo.org) <!-- Source: https://fpcslo.org/ -->
+- **Hours:** 1st and 3rd Wednesdays at 1pm <!-- Source: https://fpcslo.org/greenpastures -->
+- **How to access:** Lottery system—first 8 names drawn receive assistance; must be present to enter <!-- Source: https://fpcslo.org/greenpastures -->
 
 ## <a id="Grover-Beach-Community-Services">Grover Beach Community Services</a>
 
-<!-- Source: https://www.groverbeach.org/141/Community-Services -->
 - **Website:** [groverbeach.org/141/Community-Services](https://www.groverbeach.org/141/Community-Services)
-- **Location:** 1230 Trouville Ave., Grover Beach <a class="map-link" data-lat="35.115854" data-lon="-120.616578" data-zoom="17" data-label="Grover Beach Community Services">Map</a>
-- **Phone:** [805-473-4580](tel:+1-805-473-4580)
-- **Email:** [CS@groverbeach.org](mailto:CS@groverbeach.org)
+- **Location:** 1230 Trouville Ave., Grover Beach <a class="map-link" data-lat="35.115854" data-lon="-120.616578" data-zoom="17" data-label="Grover Beach Community Services">Map</a> <!-- Source: https://www.groverbeach.org/141/Community-Services -->
+- **Phone:** [805-473-4580](tel:+1-805-473-4580) <!-- Source: https://www.groverbeach.org/141/Community-Services -->
+- **Email:** [CS@groverbeach.org](mailto:CS@groverbeach.org) <!-- Source: https://www.groverbeach.org/141/Community-Services -->
 - **Hours:** M–F 8am–5pm
 
 ## <a id="Gryphon-Society">Gryphon Society</a>
 
-<!-- Source: https://gryphonsociety.weebly.com/ and https://www.manta.com/c/mtrp80k/gryphon-society -->
 - **Website:** [gryphonsociety.weebly.com](https://gryphonsociety.weebly.com/)
-- **Locations:**
-   - 1825 San Ramon Rd., Atascadero <a href="#" class="map-link" data-lat="35.513633" data-lon="-120.702720" data-zoom="17" data-label="Gryphon Society">Map</a>
-   - 444 N. 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.126139" data-lon="-120.625919" data-zoom="17" data-label="Gryphon Society">Map</a>
-   <!-- Note: Website confirms they operate "gender specific sober living homes" but does not publicly list which addresses are for men vs. women. Separate phone numbers listed below suggest gender-specific contact points. (verified October 2025) -->
+- **Locations:** Various; gender-segregated
 - **Phone:**
    - [805-550-8140](tel:+1-805-550-8140) (men)
    - [805-748-8491](tel:+1-805-748-8491) (women)
@@ -1448,24 +1449,22 @@
 
 <!-- Source: https://habitatslo.org/ and https://habitatslo.org/restores/ verified January 2025 -->
 - **Website:** [habitatslo.org](https://habitatslo.org/)
-- **Location:** 844 9th St, Paso Robles <a href="#" class="map-link" data-lat="35.623410" data-lon="-120.688886" data-zoom="17" data-label="Habitat for Humanity">Map</a>
-- **Phone:** [805-782-0687](tel:+1-805-782-0687)
-- **Email:** [info@habitatslo.org](mailto:info@habitatslo.org)
+- **Location:** 844 9th St, Paso Robles <a href="#" class="map-link" data-lat="35.623410" data-lon="-120.688886" data-zoom="17" data-label="Habitat for Humanity">Map</a> <!-- Source: https://habitatslo.org/ -->
+- **Phone:** [805-782-0687](tel:+1-805-782-0687) <!-- Source: https://habitatslo.org/ -->
+- **Email:** [info@habitatslo.org](mailto:info@habitatslo.org) <!-- Source: https://habitatslo.org/contact/ -->
 
 **ReStore** (recycled construction and home renovation materials):
 
 - **Website:** [habitatslo.org/restores](https://habitatslo.org/restores/)
 - **Locations:**
-   - Paso Robles: 844 9th St., Paso Robles <a href="#" class="map-link" data-lat="35.623410" data-lon="-120.688886" data-zoom="17" data-label="Habitat for Humanity ReStore (Paso Robles)">Map</a>
-      - **Phone:** [805-434-0486](tel:+1-805-434-0486)
-      - **Email:** [restorepaso@habitatslo.org](mailto:restorepaso@habitatslo.org)
-      - **Hours:** Tu–Sa 10am–5pm
-   - SLO: 2790 Broad St., SLO <a href="#" class="map-link" data-lat="35.264447" data-lon="-120.651866" data-zoom="17" data-label="Habitat for Humanity ReStore (SLO)">Map</a>
-      - **Phone:** [805-546-8699](tel:+1-805-546-8699)
-      - **Email:** [restoreslo@habitatslo.org](mailto:restoreslo@habitatslo.org)
-      - **Hours:**
-         - Store: Tu–Sa 10am–5pm
-         - Walk-in donations: Tu/W/F/Sa 11am–4pm (no donations on Thursdays)
+   - Paso Robles: 844 9th St., Paso Robles <a href="#" class="map-link" data-lat="35.623410" data-lon="-120.688886" data-zoom="17" data-label="Habitat for Humanity ReStore (Paso Robles)">Map</a> <!-- Source: https://habitatslo.org/ -->
+      - **Phone:** [805-434-0486](tel:+1-805-434-0486) <!-- Source: https://habitatslo.org/ -->
+      - **Email:** [restorepaso@habitatslo.org](mailto:restorepaso@habitatslo.org) <!-- Source: https://habitatslo.org/contact/ -->
+      - **Hours:** Tu–Sa 10am–5pm <!-- Source: https://habitatslo.org/about/hours/ -->
+   - SLO: 2790 Broad St., SLO <a href="#" class="map-link" data-lat="35.264447" data-lon="-120.651866" data-zoom="17" data-label="Habitat for Humanity ReStore (SLO)">Map</a> <!-- Source: https://habitatslo.org/ -->
+      - **Phone:** [805-546-8699](tel:+1-805-546-8699) <!-- Source: https://habitatslo.org/ -->
+      - **Email:** [restoreslo@habitatslo.org](mailto:restoreslo@habitatslo.org) <!-- Source: https://habitatslo.org/contact/ -->
+      - **Hours:** Tu–Sa 10am–5pm <!-- Source: https://habitatslo.org/about/hours/ -->
 
 ## <a id="Healing-and-Restoration-Campus">Healing and Restoration Campus</a>
 

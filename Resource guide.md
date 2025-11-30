@@ -1072,7 +1072,6 @@ Thrift stores sell second-hand (used) clothing at low prices.
 **Morro Bay:**
 
 - [**Achievement House Thrift Store**](Directory.md#Achievement-House-Thrift-Store)
-- [**Fabulous Finds Quality Thrifting**](Directory.md#Fabulous-Finds-Quality-Thrifting)
 - [**Foxy’s Thrift Shop**](Directory.md#Foxys-Thrift-Shop)
 
 **Paso Robles:**
@@ -2654,7 +2653,7 @@ The national group [Modest Needs](https://www.modestneeds.org/) crowdfunds reque
 They do not give money to applicants directly, but can help them to pay bills.
 See [their website](https://www.modestneeds.org/mn/for-applicants) for instructions on how to apply for a grant.
 
-If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get help with food, housing, health and well-being, transportation, textbooks, parking passes, technology, and other basic needs from the [Basic Needs Center](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/index.html).
+If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get help with food, housing, health and well-being, transportation, textbooks, parking passes, technology, and other basic needs from the [Basic Needs Office](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/index.html).
 
 ### <a id="financial-aid-get-referral">You Must Apply through Some Referring Agency</a>
 
@@ -3137,6 +3136,8 @@ The [**5Cities Homeless Coalition**](Directory.md#5CHC) office has device chargi
 There are also some electrical outlets you can use to plug in and charge devices.
 
 The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus has many charging outlets.
+
+[**40 Prado Homeless Services Center**](Directory.md#40-Prado) has electrical outlets you can use to charge your mobile devices. <!-- Source: https://capslo.org/safe-parking/ -->
 
 <!-- needs research
 1. [**40 Prado Homeless Services Center**](Directory.md#40-Prado)
@@ -3864,6 +3865,8 @@ They can also connect seniors (aged 60+) with providers of no-cost minor home re
 Call their Energy Office for details.
 
 The [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus will pour you a free cup of coffee.
+
+If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get free hygiene products, a scarf, hats, backpacks, laundry soap, menstruation products, and sometimes gift cards to fast food restaurants from the [Basic Needs Office](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html). <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
 
 > See [Holiday Gifts for Children](#holiday-gifts-for-children) in the [Children, Youth, and People with Children](#children-youth-parents) section of this guide for information on how to get free toys, coats, bicycles, and other such gifts for your children during the holidays.
 
