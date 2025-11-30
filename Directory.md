@@ -5,24 +5,30 @@
 - **Website:** [capslo.org/40-prado](https://capslo.org/40-prado/)
 - **Location:** 40 Prado Road, SLO <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
 - **Phone:**
-   - [805-544-4004 x2](tel:+1-805-544-4004;ext=2) (general services)
+   - [805-544-4004 x2](tel:+1-805-544-4004;ext=2) (general services) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - [805-544-4004 x100](tel:+1-805-544-4004;ext=100) (more information)
    - [805-459-1073](tel:+1-805-459-1073) (questions about on-site safe parking)
-- **Hours:** every day, 8am–2:30pm and 4:30pm–7am (closed 2:30pm–4:30pm and 7–8am)
-   - Overnight shelter intake: daily, 8am–2pm (Intake is a one-time registration process where you provide personal information, complete paperwork, and get added to the shelter system)
+- **Hours:** every day, 8am–2:30pm and 4:30pm–7am (closed 2:30pm–4:30pm and 7–8am) <!-- Though https://capslo.org/40-prado/ says "This facility runs 24/7" -->
+   - Overnight shelter intake: M–Th 9am–2pm, Fridays by appointment only <!-- Source: https://capslo.org/40-prado-warming-center/ --> (Intake is a one-time registration process where you provide personal information, complete paperwork, and get added to the shelter system)
    - Laundry services: 8am–2:30pm
-   - Day services: 8am–4pm
-   - Lunch: Noon–12:30pm (open to all)
+   - Day services: 8am–4pm <!-- Source: https://capslo.org/safe-parking/ -->
+   - Breakfast: before 9am <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+   - Lunch: Noon–12:30pm (open to all) <!-- https://www.slopeopleskitchen.org/serving-info -->
    - Overnight shelter check-in: daily, 4:30–6pm (Check-in is done each day you want a bed; you must arrive during check-in hours to secure a spot for that night)
-   - Dinner: 5–5:30pm (overnight shelter residents only)
+   - Dinner: 5–5:30pm (overnight shelter and cooling center residents only)
+   - Warming Center: 7pm–8am (only when warming center is in operation) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+   - Cooling Center: 8am–6pm (only when cooling center is in operation) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+   - Safe Parking: 6pm–7pm <!-- Source: https://capslo.org/safe-parking/ -->
 - **How to access:** come to the shelter during intake hours
    - To use the shelter, you must be homeless, you must have a valid photo ID, and you must not have a P.C. 290 sex offender criminal record. You must be able to care for yourself independently (bathing, feeding, dressing, etc.). There are a limited number of beds; priority is given to SLO county residents.
 - Notes:
    - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
-   - operates [**SLO Hub**](#SLO-Hub)
+   - operates [**SLO Hub**](#SLO-Hub) <!-- Source: https://capslo.org/40-prado/ -->
+   - operates the “Mid County Warming and Cooling Center” <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+   - operates the “40 Prado Safe Parking Program” <!-- Source: https://capslo.org/safe-parking/ -->
    - [**Healthcare for the Homeless Program**](#HCHP) takes place at 40 Prado
-   - [**People’s Kitchen**](#Peoples-Kitchen-SLO) takes place at 40 Prado
-   - [**Recuperative Care Program**](#Recuperative-Care-Program) takes place at 40 Prado
+   - [**People’s Kitchen**](#Peoples-Kitchen-SLO) takes place at 43 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
+   - [**Recuperative Care Program**](#Recuperative-Care-Program) takes place at 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
 
 ## 50 Now
 
@@ -54,60 +60,70 @@
 ## <a id="805-Street-Outreach">805 Street Outreach</a>
 
 - **Website:** [805streetoutreach.org](https://805streetoutreach.org/)
-- **Email:** [izzy@805streetoutreach.org](mailto:izzy@805streetoutreach.org)
+- **Email:** [izzy@805streetoutreach.org](mailto:izzy@805streetoutreach.org) <!-- Source: https://805streetoutreach.org/contact-us -->
 - Shower program:
-   - **Location:** Morro Bay Public Library parking lot, 625 Harbor St., Morro Bay <a href="#" class="map-link" data-lat="35.3671654" data-lon="-120.8462354" data-zoom="17" data-label="Morro Bay Public Library (805 Street Outreach)">Map</a>
-   - **Hours:** Every Monday, 12pm–3pm
+   - **Location:** Morro Bay Public Library parking lot, 625 Harbor St., Morro Bay <a href="#" class="map-link" data-lat="35.3671654" data-lon="-120.8462354" data-zoom="17" data-label="Morro Bay Public Library (805 Street Outreach)">Map</a> <!-- Source: https://805streetoutreach.org/about-us -->
+   - **Hours:** Every Monday, 12pm–3pm <!-- Source: https://805streetoutreach.org/about-us -->
 
 ## <a id="Abundance-Shop">Abundance Shop</a>
 
-<!-- Source: https://www.stbenslososos.org/abundance-shop/ -->
 - **Website:** [stbenslososos.org/abundance-shop](https://www.stbenslososos.org/abundance-shop/)
-- **Location:** 2025 9th St., Los Osos <a href="#" class="map-link" data-lat="35.3144169" data-lon="-120.8335942" data-zoom="17" data-label="Abundance Shop">Map</a>
-- **Phone:** [805-528-1370](tel:+1-805-528-1370)
+- **Location:** 2025 9th St., Los Osos <a href="#" class="map-link" data-lat="35.3144169" data-lon="-120.8335942" data-zoom="17" data-label="Abundance Shop">Map</a> <!-- Source: https://www.stbenslososos.org/abundance-shop/ -->
+- **Phone:** [805-528-1370](tel:+1-805-528-1370) <!-- Source: https://www.stbenslososos.org/abundance-shop/ -->
 - **Email:** [office@stbenslososos.org](mailto:office@stbenslososos.org)
-- **Hours:** Th–Sa 11am–4pm
+- **Hours:** Th–Sa 11am–4pm <!-- Source: https://www.stbenslososos.org/abundance-shop/ -->
 
 ## <a id="AARP-Tax-Aide">AARP Tax-Aide Program (Central Coast Tax-Aide)</a>
 
 - **Website:** [ccfreetax.org](https://www.ccfreetax.org/)
-- **Phone:** [805-931-6308](tel:+1-805-931-6308)
-- **Email:** [info@ccfreetax.org](mailto:info@ccfreetax.org)
+- **Location:** Various locations, see [Appointments](https://www.ccfreetax.org/appointment.html)
+- **Phone:** [805-931-6308](tel:+1-805-931-6308) <!-- Source: https://www.ccfreetax.org/appointment.html -->
+- **Email:** [info@ccfreetax.org](mailto:info@ccfreetax.org) <!-- Source: https://www.ccfreetax.org/ -->
 
 ## <a id="Access-Central-Coast">Access Central Coast</a>
 
 > *See also [**Central Coast Aging & Disability Resource Center**](#CCADRC)*
 
 - **Website:** [accesscentralcoast.org](https://accesscentralcoast.org/)
-- **Location:** 51 Zaca Ln. #140, SLO <a href="#" class="map-link" data-lat="35.2508747" data-lon="-120.6726201" data-zoom="17" data-label="Access Central Coast">Map</a>
-- **Phone:** [805-462-1162](tel:+1-805-462-1162) (videophone: [805-464-3203](tel:+1-805-464-3203))
+- **Location:** 51 Zaca Ln. #140, SLO <a href="#" class="map-link" data-lat="35.2508747" data-lon="-120.6726201" data-zoom="17" data-label="Access Central Coast">Map</a> <!-- Source: https://accesscentralcoast.org/about-us/contact-information.php -->
+- **Phone:** [805-462-1162](tel:+1-805-462-1162) (videophone: [805-464-3203](tel:+1-805-464-3203)) <!-- Source: https://accesscentralcoast.org/about-us/contact-information.php -->
+- **Email:** [info@accesscentralcoast.org](mailto:info@accesscentralcoast.org) <!-- Source: https://accesscentralcoast.org/ -->
 - **Hours:** M–F: 9am–noon & 1–5pm (but closed every other Friday)
 - Note: Formerly known as the “Independent Living Resource Center”
 
 ## <a id="ASN">Access Support Network (ASN)</a>
 
 - **Website:** [accesssupportnetwork.org/san-luis-obispo](https://accesssupportnetwork.org/san-luis-obispo/)
-- **Location:** 1320 Nipomo St., SLO <a href="#" class="map-link" data-lat="35.2764744" data-lon="-120.6639145" data-zoom="17" data-label="Access Support Network">Map</a>
+- **Location:** 1320 Nipomo St., SLO <a href="#" class="map-link" data-lat="35.2764744" data-lon="-120.6639145" data-zoom="17" data-label="Access Support Network">Map</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
    - Also has a mobile outreach van:
-      - Every other Monday, 1:30–4pm at [**40 Prado**](#40-Prado) in SLO <a href="#" class="map-link" data-lat="35.256495" data-lon="-120.672000" data-zoom="17" data-label="Access Support Network">Map</a>
-      - Tuesdays 9:30–11am at 1320 Nipomo St. in SLO <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">Map</a>
-      - 2nd Sunday of the Month at the SLO library on Palm St. <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">Map</a>
-- **Phone:** [805-781-3660](tel:+1-805-781-3660)
-- **Hours:** M–Th 9am–5pm; F 9am–3pm
+      - Every other Monday, 1:30–4pm at [**40 Prado**](#40-Prado) in SLO <a href="#" class="map-link" data-lat="35.256495" data-lon="-120.672000" data-zoom="17" data-label="Access Support Network">Map</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - Tuesdays 9:30–11:30am at 1320 Nipomo St. in SLO <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">Map</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - Wednesdays 11:30am–1:30pm at Paso Robles [**ECHO**](#ECHO) Shelter (1134 Black Oak Dr. <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">Map</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - Wednesdays 3–6pm at Atascadero [**ECHO**](#ECHO) Shelter (6370 Atascadero Ave. <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">Map</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - 2nd Sunday of the Month at the SLO library on Palm St. <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">Map</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
+- **Phone:** [805-781-3660](tel:+1-805-781-3660) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+- **Email:** [theasnsupp@gmail.com](mailto:theasnsupp@gmail.com) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+- **Hours:** M–F 9am–5pm <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 
-## <a id="Achievement-House-Thrift-Store">Achievement House Thrift Store</a>
+## <a id="Achievement-House-Thrift-Store">Achievement House Thrift Stores</a>
 
+- **Website:** [achievementhouse.org/pages/thrift-stores](https://www.achievementhouse.org/pages/thrift-stores)
+
+<!-- Source (location/phone/hours): https://www.achievementhouse.org/pages/thrift-stores -->
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | 1446 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.1208561" data-lon="-120.6056542" data-zoom="17" data-label="Achievement House Thrift Store (Arroyo Grande)">Map</a> | [805-202-3068](tel:+1-805-202-3068) | Daily 9:30am–5pm |
-| 730 Morro Bay Blvd., Morro Bay <a href="#" class="map-link" data-lat="35.3657373" data-lon="-120.8447987" data-zoom="17" data-label="Achievement House Thrift Store (Morro Bay)">Map</a> | [805-772-6744](tel:+1-805-772-6744) | M–F 8:30am–4:30pm, Sa 9am–4:30pm |
-| 3003 Cuesta College Rd., SLO <a href="#" class="map-link" data-lat="35.3243286" data-lon="-120.7449265" data-zoom="17" data-label="Achievement House Thrift Store (SLO)">Map</a> | [805-543-9383](tel:+1-805-543-9383) | M–F 8am–3:45pm, Sa 9am–3:30pm |
+| 730 Morro Bay Blvd., Morro Bay <a href="#" class="map-link" data-lat="35.3657373" data-lon="-120.8447987" data-zoom="17" data-label="Achievement House Thrift Store (Morro Bay)">Map</a> | [805-772-6744](tel:+1-805-772-6744) | Daily 9:30am–5pm |
+| 553 Higuera St., SLO <a href="#" class="map-link" data-lat="35.277251" data-lon="-120.667015" data-zoom="17" data-label="Bargain Botique">Map</a> | [805-543-0412](tel:+1-805-543-0412) | Daily 9:30am–5pm |
+| 3003 Cuesta College Rd., SLO <a href="#" class="map-link" data-lat="35.3243286" data-lon="-120.7449265" data-zoom="17" data-label="Achievement House Thrift Store (SLO)">Map</a> | [805-543-9383](tel:+1-805-543-9383) | M–Sa 9am–4pm |
+
+- **Email:** [info@achievementhouse.org](mailto:info@achievementhouse.org) <!-- Source: https://www.achievementhouse.org/pages/thrift-stores -->
 
 ## <a id="ACLU">ACLU of Southern California</a>
 
 - **Website:** [aclusocal.org](https://www.aclusocal.org/)
 - **Phone:**
-   - [213-977-9500](tel:+1-213-977-9500) (main)
+   - [213-977-9500](tel:+1-213-977-9500) (main) <!-- Source: https://www.aclusocal.org/en/contact-us -->
    - [213-977-5253](tel:+1-213-977-5253) (legal intake)
 - **Hours:** M–F 10am–7pm
 
@@ -115,6 +131,7 @@
 
 - **Website:** [Slocounty.ca.gov/APS](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29)
 
+<!-- Source (location/phone): https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
 | Location | Phone |
 | -------- | ----- |
 | Arroyo Grande: 1086 E. Grand Ave. <a href="#" class="map-link" data-lat="35.1197593" data-lon="-120.5956380" data-zoom="17" data-label="Adult Protective Services (Arroyo Grande)">Map</a> | [805-474-2000](tel:+1-805-474-2000) |
@@ -124,63 +141,81 @@
 | Paso Robles: 406 Spring St. <a href="#" class="map-link" data-lat="35.6185648" data-lon="-120.6903449" data-zoom="17" data-label="Adult Protective Services (Paso Robles)">Map</a> | [805-237-3110](tel:+1-805-237-3110) |
 | SLO: 3433 S. Higuera St. <a href="#" class="map-link" data-lat="35.2536551" data-lon="-120.6687249" data-zoom="17" data-label="Adult Protective Services (SLO)">Map</a> | [805-781-1600](tel:+1-805-781-1600) |
 
-- **Phone:** [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm); [844-729-8011](tel:+1-844-729-8011) (after hours); [911](tel:+1-911) (emergency)
-- **Hours:** M–F 8am–4pm (appointments 4–5pm)
+- **Phone:** [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm); [844-729-8011](tel:+1-844-729-8011) (after hours); [911](tel:+1-911) (emergency) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
+- **Hours:** M–F 8am–4pm (and by appointment only 4–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
 - Notes:
    - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
    - Can make referrals to [**Center for Family Strengthening (CSF)**](#CSF)
 
 ## <a id="Adventist-Health-Sierra-Vista">Adventist Health Sierra Vista</a>
 
-- **Location:** 1010 Murray Ave., SLO <a href="#" class="map-link" data-lat="35.2924045" data-lon="-120.6659071" data-zoom="17" data-label="Adventist Health Sierra Vista">Map</a>
-- **Phone:** [805-546-7600](tel:+1-805-546-7600)
+- **Website:** [adventisthealth.org/central-coast/locations/sierra-vista-regional-medical-center](https://www.adventisthealth.org/central-coast/locations/sierra-vista-regional-medical-center)
+- **Location:** 1010 Murray Ave., SLO <a href="#" class="map-link" data-lat="35.2924045" data-lon="-120.6659071" data-zoom="17" data-label="Adventist Health Sierra Vista">Map</a> <!-- Source: https://www.adventisthealth.org/central-coast/locations/sierra-vista-regional-medical-center -->
+- **Phone:** [805-546-7600](tel:+1-805-546-7600) <!-- Source: https://www.adventisthealth.org/central-coast/locations/sierra-vista-regional-medical-center -->
+- **Hours:** 24/7 <!-- Source: https://www.adventisthealth.org/central-coast/locations/sierra-vista-regional-medical-center -->
 - Note: hosts [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
 
 ## <a id="Adventist-Health-Twin-Cities">Adventist Health Twin Cities</a>
 
-- **Location:** 1100 Las Tablas Rd., Templeton <a href="#" class="map-link" data-lat="35.5551414" data-lon="-120.7200585" data-zoom="17" data-label="Adventist Health Twin Cities">Map</a>
-- **Phone:** [805-434-3500](tel:+1-805-434-3500)
+- **Website:** [adventisthealth.org/central-coast/locations/twin-cities-community-hospital](https://www.adventisthealth.org/central-coast/locations/twin-cities-community-hospital)
+- **Location:** 1100 Las Tablas Rd., Templeton <a href="#" class="map-link" data-lat="35.5551414" data-lon="-120.7200585" data-zoom="17" data-label="Adventist Health Twin Cities">Map</a> <!-- Source: https://www.adventisthealth.org/central-coast/locations/twin-cities-community-hospital -->
+- **Phone:** [805-434-3500](tel:+1-805-434-3500) <!-- Source: https://www.adventisthealth.org/central-coast/locations/twin-cities-community-hospital -->
+- **Hours:** 24/7 <!-- Source: https://www.adventisthealth.org/central-coast/locations/twin-cities-community-hospital -->
 
 ## <a id="Aegis-Treatment-Centers">Aegis Treatment Centers</a>
 
-- **Website:** [pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero](https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/) (Atascadero)<br />[pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/) (SLO)
-- **Locations:**
-   - Atascadero: 6500 Morro Rd. Suites C & D, Atascadero <a href="#" class="map-link" data-lat="35.4472115" data-lon="-120.7045496" data-zoom="17" data-label="Aegis Treatment Centers (Atascadero)">Map</a>
-   - SLO: 1551 Bishop St. #520, SLO <a href="#" class="map-link" data-lat="35.2740882" data-lon="-120.6464189" data-zoom="17" data-label="Aegis Treatment Centers (SLO)">Map</a>
-- **Phone:** [805-461-5212](tel:+1-805-461-5212) (both locations)
+### Atascadero
+
+- **Website:** [pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero](https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/)
+- **Location:** 6500 Morro Rd. Suites C & D, Atascadero <a href="#" class="map-link" data-lat="35.4472115" data-lon="-120.7045496" data-zoom="17" data-label="Aegis Treatment Centers (Atascadero)">Map</a> <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+- **Phone:** [805-461-5212](tel:+1-805-461-5212) <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
 - **Hours:**
    - Medication services:
-      - M–Th: 6am–10am, 11am–3:30pm
-      - F: 6am–10am, 11am–1:30pm
-      - Sa/Su/Holidays: 7am–11am
+      - M–Th: 6am–10am, 11am–3:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+      - F: 6am–10am, 11am–1:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+      - Sa/Su/Holidays: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
    - Administrative:
-      - M–Th: 6am–4pm
-      - F: 6am–2:30pm
-      - Sa/Su/Holidays: 7am–11am
-- **How to access:** Walk-ins welcome; same-day admissions available
+      - M–Th: 6am–4pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+      - F: 6am–2:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+      - Sa/Su/Holidays: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+- **How to access:** Walk-ins welcome; same-day admissions available <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+
+### SLO city
+
+- **Website:** [pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit](https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/)
+- **Location:** 1551 Bishop St. #520, SLO <a href="#" class="map-link" data-lat="35.2740882" data-lon="-120.6464189" data-zoom="17" data-label="Aegis Treatment Centers (SLO)">Map</a> <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
+- **Phone:** [805-461-5212](tel:+1-805-461-5212) <!-- Source: https://book.ptc.care/CA-SANLUISOBISPO-OTP -->
+- **Hours:**
+   - Medication services:
+      - M–F: 6am–10am, 11am–1:30pm <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
+      - Sa/Su/Holidays: 6am–10am <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
+   - Administrative:
+      - M–F: 6am–2:30pm <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
+      - Sa/Su/Holidays: 6am–10am <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
+- **How to access:** Schedule a visit [here](https://book.ptc.care/CA-SANLUISOBISPO-OTP)
 
 ## <a id="Aevum">Aevum Home Health and Aevum Hospice Care</a>
 
 - **Websites:**
    - Home Health: [aevumhomehealth.com](https://www.aevumhomehealth.com/)
    - Hospice Care: [aevumhospice.com](https://aevumhospice.com/)
-- **Location:** 1302 Marsh St., SLO <a href="#" class="map-link" data-lat="35.283249" data-lon="-120.655908" data-zoom="17" data-label="Aevum Home Health">📍 Map</a>
+- **Location:** 1302 Marsh St., SLO <a href="#" class="map-link" data-lat="35.283249" data-lon="-120.655908" data-zoom="17" data-label="Aevum Home Health">📍 Map</a> <!-- Source: https://www.aevumhomehealth.com/ and https://aevumhospice.com/ -->
 - **Phone:**
-   - Home Health: [805-586-2033](tel:+1-805-586-2033)
-   - Hospice Care: [805-465-2492](tel:+1-805-465-2492)
+   - Home Health: [805-586-2033](tel:+1-805-586-2033) <!-- Source: https://www.aevumhomehealth.com/ -->
+   - Hospice Care: [805-465-2492](tel:+1-805-465-2492) <!-- Source: https://aevumhospice.com/ -->
 - **Email:**
-   - Home Health: [info@aevumhomehealth.com](mailto:info@aevumhomehealth.com)
-   - Hospice Care: [info@aevumhospice.com](mailto:info@aevumhospice.com)
+   - Home Health: [info@aevumhomehealth.com](mailto:info@aevumhomehealth.com) <!-- Source: https://www.aevumhomehealth.com/ -->
+   - Hospice Care: [info@aevumhospice.com](mailto:info@aevumhospice.com) <!-- Source: https://aevumhospice.com/ -->
 
 ## <a id="Agape-Church">Agape Church</a>
 
 <!-- Source: https://agapeslo.church/contact -->
 - **Website:** [agapeslo.church](https://agapeslo.church/)
-- **Location:** 950 Laureate Lane, SLO <a href="#" class="map-link" data-lat="35.2857149" data-lon="-120.7097524" data-zoom="17" data-label="Agape Church">Map</a>
-- **Phone:** [805-541-0777](tel:+1-805-541-0777)
-- **Email:** [adminslo@agape.church](mailto:adminslo@agape.church)
+- **Location:** 950 Laureate Lane, SLO <a href="#" class="map-link" data-lat="35.2857149" data-lon="-120.7097524" data-zoom="17" data-label="Agape Church">Map</a> <!-- Source: https://agapeslo.church/ -->
+- **Phone:** [805-541-0777](tel:+1-805-541-0777) <!-- Source: https://agapeslo.church/ -->
+- **Email:** [adminslo@agape.church](mailto:adminslo@agape.church) <!-- Source: https://agapeslo.church/ -->
 - **Hours:**
-   - Office: M–Th 9am–4pm
+   - Office: M–Th 9am–4pm <!-- Source: https://agapeslo.church/contact -->
    - Food pantry: Tu 10–10:30am, Su Noon–12:30pm
 - Note: “Men of Agape” serve a free meal at Meadow Park, SLO <a href="#" class="map-link" data-lat="35.269063" data-lon="-120.658325" data-zoom="17" data-label="Men of Agape">Map</a>, Thursdays at 11am
 
@@ -190,13 +225,14 @@
 
 ## <a id="AGS-Recycling">AGS Recycling</a>
 
+- **Website:** [agsreciclyng.com](https://agsreciclyng.com/)
 - **Locations:**
-   - Arroyo Grande: 564 Mesa View Dr., Arroyo Grande <a href="#" class="map-link" data-lat="35.0814297" data-lon="-120.5863837" data-zoom="17" data-label="AGS Recycling (Arroyo Grande)">Map</a>
-   - Morro Bay: 2650 Main Street, Morro Bay <a href="#" class="map-link" data-lat="35.3899509" data-lon="-120.8572476" data-zoom="17" data-label="AGS Recycling (Morro Bay)">Map</a>
-- **Phone:** [805-598-6285](tel:+1-805-598-6285)
+   - Arroyo Grande: 564 Mesa View Dr., Arroyo Grande <a href="#" class="map-link" data-lat="35.0814297" data-lon="-120.5863837" data-zoom="17" data-label="AGS Recycling (Arroyo Grande)">Map</a> <!-- Source: https://agsreciclyng.com/ -->
+   - Morro Bay: 2650 Main Street, Morro Bay <a href="#" class="map-link" data-lat="35.3899509" data-lon="-120.8572476" data-zoom="17" data-label="AGS Recycling (Morro Bay)">Map</a> <!-- Source: https://agsreciclyng.com/ -->
+- **Phone:** [805-598-6285](tel:+1-805-598-6285) <!-- Source: https://agsreciclyng.com/ -->
 - **Hours:**
-   - Arroyo Grande: M–Sa 9am–5pm (closed Noon–12:30pm)
-   - Morro Bay: Tu–Sa 9am–5pm (closed Noon–12:30pm)
+   - Arroyo Grande: Tu–Sa 9am–5pm (closed Noon–12:30pm) <!-- Source: https://agsreciclyng.com/ -->
+   - Morro Bay: Tu–Sa 9am–5pm (closed Noon–12:30pm) <!-- Source: https://agsreciclyng.com/ -->
 
 ## AIDS Support Network
 
@@ -206,16 +242,21 @@
 
 <!-- Source: https://sloalanoclub.org -->
 - **Website:** [sloalanoclub.org](https://sloalanoclub.org)
-- **Location:** 3075 Broad Street, SLO <a href="#" class="map-link" data-lat="35.2619723" data-lon="-120.6505945" data-zoom="17" data-label="Alano Club">Map</a>
-- **Phone:** [805-543-9817](tel:+1-805-543-9817)
-- **Hours:** Open 7 days/week, 365 days/year (see [meeting schedule](https://sloalanoclub.org/meeting-schedule) for specific meeting times)
+- **Location:** 3075 Broad Street, SLO <a href="#" class="map-link" data-lat="35.2619723" data-lon="-120.6505945" data-zoom="17" data-label="Alano Club">Map</a> <!-- Source: https://sloalanoclub.org/ -->
+- **Phone:** [805-543-9817](tel:+1-805-543-9817) <!-- Source: https://sloalanoclub.org/ -->
+- **Email:** [sloalanoclub@gmail.com](mailto:sloalanoclub@gmail.com) <!-- Source: https://sloalanoclub.org/ -->
+- **Hours:** Open 7 days/week (see [meeting schedule](https://sloalanoclub.org/meeting-schedule) for specific meeting times)
 <!-- Note: The club is open daily but specific facility operating hours are not publicly listed; contact directly for details -->
 
 ## <a id="AA">Alcoholics Anonymous</a>
 
 - **Website:** [sloaa.org](https://sloaa.org/)
-- **Phone:** [805-541-3211](tel:+1-805-541-3211)
+- **Location:** 1333 Van Beurden Dr. #102, Los Osos <!-- Source: https://www.sloaa.org/ -->
+- **Phone:** [805-541-3211](tel:+1-805-541-3211) <!-- Source: https://www.sloaa.org/ -->
 - **Email:** [info@sloaa.org](mailto:info@sloaa.org)
+- **Hours:**
+   - Central Coast Intergroup office: M–F Noon–6pm, Sa 1–4pm <!-- Source: https://www.sloaa.org/ -->
+   - Individual meetings: [many hours and locations](https://www.sloaa.org/meetings/)
 
 ## <a id="APA">Alliance for Pharmaceutical Access</a>
 
@@ -226,6 +267,8 @@
 | 345 S. Halcyon Rd. (Arroyo Grande) <a class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Alliance for Pharmaceutical Access">Map</a> | [805-489-4261 x4267](tel:+1-805-489-4261;ext=4267) | Mo. 1pm–7pm |
 | 1428 Phillips Lane #B4 (SLO, inside Noor Clinic) <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alliance for Pharmaceutical Access">Map</a> | [805-548-0894](tel:+1-805-548-0894) | Tu. 1pm–5pm |
 
+- **Email:** [Advocates@apameds.org](mailto:Advocates@apameds.org) <!-- Source: https://apameds.org/contact-us/ -->
+
 ## American Academy of Ophthalmology
 
 > *See [**EyeCare America**](#EyeCare-America)*
@@ -234,14 +277,14 @@
 
 - Patient Lodging Programs: [cancer.org/support-programs-and-services/patient-lodging.html](https://www.cancer.org/support-programs-and-services/patient-lodging.html)
 - Road to Recovery (transportation to medical appointments): [cancer.org/support-programs-and-services/road-to-recovery.html](https://www.cancer.org/support-programs-and-services/road-to-recovery.html)
-- **Phone:** [800-227-2345](tel:+1-800-227-2345)
+- **Phone:** [800-227-2345](tel:+1-800-227-2345) <!-- Source: https://www.cancer.org/about-us/online-help/contact-us.html -->
 
 ## <a id="American-Legion-Post-66">American Legion Post 66</a>
 
 <!-- Source: https://post66slo.org -->
 - **Website:** [post66slo.org](https://post66slo.org/)
-- **Location:** 1661 Mill St., SLO <a href="#" class="map-link" data-lat="35.288680" data-lon="-120.653533" data-zoom="17" data-label="American Legion Post 66">Map</a>
-- **Phone:** [805-543-6445](tel:+1-805-543-6445)
+- **Location:** 1661 Mill St., SLO <a href="#" class="map-link" data-lat="35.288680" data-lon="-120.653533" data-zoom="17" data-label="American Legion Post 66">Map</a> <!-- Source: https://post66slo.org/ -->
+- **Phone:** [805-543-6445](tel:+1-805-543-6445) <!-- Source: https://post66slo.org/ -->
 - Notes: For [**Boyd Bristol Medical Equipment Program**](#Boyd-Bristol-Medical-Equipment-Program) hours, call to make an appointment
 
 ## America’s Job Center of California
@@ -262,71 +305,77 @@
 
 <!-- Source: https://arisevineyard.com/ -->
 - **Website:** [arisevineyard.com](https://arisevineyard.com/)
-- **Location:** 1775 Calle Joaquin, SLO <a href="#" class="map-link" data-lat="35.241754" data-lon="-120.688113" data-zoom="15" data-label="Arise Central Coast">Map</a>
-- **Phone:** [805-543-3162](tel:+1-805-543-3162)
+- **Location:** 1775 Calle Joaquin, SLO <a href="#" class="map-link" data-lat="35.241754" data-lon="-120.688113" data-zoom="15" data-label="Arise Central Coast">Map</a> <!-- Source: https://arisevineyard.com/ -->
+- **Phone:** [805-543-3162](tel:+1-805-543-3162) <!-- Source: https://arisevineyard.com/ -->
 - **Hours:**
-   - Office: M–Th 9am–4pm
+   - Office: M–Th 9am–4pm <!-- Source: https://arisevineyard.com/ -->
    - Food pantry: M 2:30–4:30pm
 
 ## <a id="Arroyo-Grande-Community-Hospital">Arroyo Grande Community Hospital</a>
 
 > *See also [**Dignity Health**](#Dignity-Health)*
 
-- **Location:** 345 S. Halcyon Rd., Arroyo Grande <a class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Arroyo Grande Community Hospital">Map</a>
-- **Phone:** [805-473-7626](tel:+1-805-473-7626) (ER) or [805-489-4261](tel:+1-805-489-4261) (front desk)
+- **Website:** [dignityhealth.org/central-coast/locations/arroyo-grande](https://www.dignityhealth.org/central-coast/locations/arroyo-grande)
+- **Location:** 345 S. Halcyon Rd., Arroyo Grande <a class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Arroyo Grande Community Hospital">Map</a> <!-- Source: https://locations.dignityhealth.org/dignity-health-arroyo-grande-community-hospital -->
+- **Phone:**
+   - Front desk: [805-489-4261](tel:+1-805-489-4261) <!-- Source: https://locations.dignityhealth.org/dignity-health-arroyo-grande-community-hospital -->
+   - ER: [805-473-7626](tel:+1-805-473-7626)
+- **Hours:** 24/7 <!-- Source: https://locations.dignityhealth.org/dignity-health-arroyo-grande-community-hospital -->
 
 ## <a id="Arroyo-Grande-Recreation-Services">Arroyo Grande Recreation Services</a>
 
 - **Website:** [arroyogrande.org/168/Recreation-Services](https://arroyogrande.org/168/Recreation-Services)
-- **Location:** 1221 Ash St., Arroyo Grande <a class="map-link" data-lat="35.114628" data-lon="-120.600829" data-zoom="17" data-label="Arroyo Grande Recreation Services">Map</a>
-- **Phone:** [805-473-4536](tel:+1-805-473-4536)
+- **Location:** 1221 Ash St., Arroyo Grande <a class="map-link" data-lat="35.114628" data-lon="-120.600829" data-zoom="17" data-label="Arroyo Grande Recreation Services">Map</a> <!-- Source: https://arroyogrande.org/168/Recreation-Services -->
+- **Phone:** [805-473-5474](tel:+1-805-473-5474) <!-- Source: https://arroyogrande.org/168/Recreation-Services -->
 - **Email:** [agrec@arroyogrande.org](mailto:agrec@arroyogrande.org)
-- **Hours:** M–Th 9am–5pm, F 9am–1pm (walk-in registration available)
+- **Hours:** M–Th 9am–5pm, F 9am–1pm <!-- Source: https://arroyogrande.org/168/Recreation-Services --> (walk-in registration available)
 
 ## <a id="Aspire-Counseling-Service">Aspire Counseling Service</a>
 
 - **Website:** [aspirecounselingservice.com/san-luis-obispo](https://aspirecounselingservice.com/san-luis-obispo/)
-- **Location:** 865 Aerovista Pl. #130, SLO <a href="#" class="map-link" data-lat="35.242312" data-lon="-120.640925" data-zoom="17" data-label="Aspire Counseling Service">Map</a>
+- **Location:** 865 Aerovista Pl. #130, SLO <a href="#" class="map-link" data-lat="35.242312" data-lon="-120.640925" data-zoom="17" data-label="Aspire Counseling Service">Map</a> <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
 - **Phone:**
-   - [805-329-5595](tel:+1-805-329-5595) (main)
-   - [888-585-7373](tel:+1-888-585-7373) (24/7 call or text)
-- **Email:** [info@aspirecounselingservice.com](mailto:info@aspirecounselingservice.com)
-- **Hours:** M–F 9am–9pm, Sa. 9am–1pm
+   - [805-329-5595](tel:+1-805-329-5595) (main) <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
+   - [888-585-7373](tel:+1-888-585-7373) (24/7 call or text) <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
+- **Email:** [info@aspirecounselingservice.com](mailto:info@aspirecounselingservice.com) <!-- Source: https://aspirecounselingservice.com/contact/ -->
+- **Hours:** M–F 9am–9pm, Sa. 9am–1pm <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
 - Notes: Hosts [**Recovery Dharma**](#Recovery-Dharma)
 
 ## <a id="Auntie-Isabell-Foundation">Auntie Isabell Foundation</a>
 
 - **Website:** [auntieisabellfoundation.org](https://www.auntieisabellfoundation.org/)
-- **Email:** [info@auntieisabellfoundation.org](mailto:info@auntieisabellfoundation.org)
+- **Email:** [info@auntieisabellfoundation.org](mailto:info@auntieisabellfoundation.org) <!-- Source: https://www.auntieisabellfoundation.org/ -->
 - Service Area: Paso Robles and SLO County
 
 ## <a id="Assistance-League-of-SLO-County">Assistance League of SLO County</a>
 
 - **Website:** [assistanceleague.org/san-luis-obispo-county](https://www.assistanceleague.org/san-luis-obispo-county/)
-- **Location:** 667A Marsh St., SLO <a href="#" class="map-link" data-lat="35.277358" data-lon="-120.663899" data-zoom="17" data-label="Assistance League">Map</a>
-- **Phone:** [805-782-0824](tel:+1-805-782-0824)
-- **Email:** [info@alslocounty.org](mailto:info@alslocounty.org)
+- **Location:** 667A Marsh St., SLO <a href="#" class="map-link" data-lat="35.277358" data-lon="-120.663899" data-zoom="17" data-label="Assistance League">Map</a> <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/contact-us/ -->
+- **Phone:** [805-782-0824](tel:+1-805-782-0824) <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/contact-us/ -->
+- **Email:** [info@alslocounty.org](mailto:info@alslocounty.org) <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/contact-us/ -->
 - Notes:
-   - Operates [**Assistance League Thrift Store**](#Assistance-League-Thrift-Store)
-   - Operates “Operation School Bell”
-   - Operates “Access to Career Education (ACE)”
+   - Operates [**Assistance League Thrift Store**](#Assistance-League-Thrift-Store) <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/ -->
+   - Operates “Operation School Bell” <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
+   - Operates “Access to Career Education (ACE)” <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/wp-content/uploads/sites/102/2024/02/ACE-FULL-ANNOUNCEMENT-v2.pdf -->
 
 ## <a id="Assistance-League-Thrift-Store">Assistance League Thrift Store</a>
 
 - **Website:** [assistanceleague.org/san-luis-obispo-county/thrift-shop](https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/)
-- **Location:** 667A Marsh St., SLO <a href="#" class="map-link" data-lat="35.277358" data-lon="-120.663899" data-zoom="17" data-label="Assistance League">Map</a>
-- **Phone:** [805-782-0824](tel:+1-805-782-0824)
-- **Hours:** Tu–Sa 11am–4pm
+- **Location:** 667A Marsh St., SLO <a href="#" class="map-link" data-lat="35.277358" data-lon="-120.663899" data-zoom="17" data-label="Assistance League">Map</a> <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/ -->
+- **Phone:** [805-782-0824](tel:+1-805-782-0824) <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/ -->
+- **Hours:** Tu–Sa 11am–4pm <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/ -->
 
 ## <a id="Atascadero-Senior-Center">Atascadero Senior Center</a>
 
 <!-- Source: https://atascaderoseniorcenter.org/ verified October 2025 -->
 - **Website:** [atascaderoseniorcenter.org](https://atascaderoseniorcenter.org/)
-- **Location:** 5905 East Mall, Atascadero <a class="map-link" data-lat="35.488783" data-lon="-120.667081" data-zoom="17" data-label="Atascadero Senior Center">Map</a>
-- **Phone:** [805-466-4674](tel:+1-805-466-4674) <!-- Source: https://atascaderoseniorcenter.org/faq -->
-- **Email:** [seniorcitizensunitedinc@outlook.com](mailto:seniorcitizensunitedinc@outlook.com) <!-- Source: https://atascaderoseniorcenter.org/faq -->
-- **Hours:** M–F 11am–1pm, Tu–F 11am–3pm (some activities at other times)
-- **How to access:** Most activities free for members ($2 for guests); membership open to people 50+
+- **Location:** 5905 East Mall, Atascadero <a class="map-link" data-lat="35.488783" data-lon="-120.667081" data-zoom="17" data-label="Atascadero Senior Center">Map</a> <!-- Source: https://atascaderoseniorcenter.org/ -->
+- **Phone:** [805-466-4674](tel:+1-805-466-4674) <!-- Source: https://atascaderoseniorcenter.org/faq --> <!-- Source: https://atascaderoseniorcenter.org/ -->
+- **Email:**
+   - [seniorcitizensunitedinc@outlook.com](mailto:seniorcitizensunitedinc@outlook.com) <!-- Source: https://atascaderoseniorcenter.org/faq -->
+   - [seniorcenter93422@gmail.com](mailto:seniorcenter93422@gmail.com) <!-- Source: https://atascaderoseniorcenter.org/ -->
+- **Hours:** M 11am–1pm, Tu–F 11am–3pm (some activities at other times) <!-- Source: https://atascaderoseniorcenter.org/faq -->
+- **How to access:** Most activities free for members ($2 for guests)<!-- Source: https://atascaderoseniorcenter.org/activities-->; membership ($20/year minimum) open to people 50+
 - Notes:
    - A lunch site for [**Meals that Connect**](#Meals-that-Connect)
 
@@ -334,9 +383,9 @@
 
 <!-- Source: https://www.atascadero.org/recreation verified October 2025 -->
 - **Website:** [atascadero.org/recreation](https://www.atascadero.org/recreation)
-- **Location:** Colony Park Community Center, 5599 Traffic Way, Atascadero <a class="map-link" data-lat="35.494778" data-lon="-120.666963" data-zoom="17" data-label="Atascadero Parks & Recreation">Map</a>
-- **Phone:** [805-470-3360](tel:+1-805-470-3360)
-- **Email:** [recreation@atascadero.org](mailto:recreation@atascadero.org)
+- **Location:** Colony Park Community Center, 5599 Traffic Way, Atascadero <a class="map-link" data-lat="35.494778" data-lon="-120.666963" data-zoom="17" data-label="Atascadero Parks & Recreation">Map</a> <!-- Source: https://anc.apm.activecommunities.com/cityofatascadero/home?onlineSiteId=0&from_original_cui=true -->
+- **Phone:** [805-470-3360](tel:+1-805-470-3360) <!-- Source: https://anc.apm.activecommunities.com/cityofatascadero/home?onlineSiteId=0&from_original_cui=true -->
+- **Email:** [recreation@atascadero.org](mailto:recreation@atascadero.org) <!-- Source: https://anc.apm.activecommunities.com/cityofatascadero/home?onlineSiteId=0&from_original_cui=true -->
 - **Hours:** M–F 9am–5pm
 
 ## <a id="Balay-Ko-on-Barka">Balay Ko on Barka</a>
@@ -350,58 +399,56 @@
 
 ## <a id="Bargain-Boutique">Bargain Boutique</a>
 
-<!-- Source: https://www.achievementhouse.org -->
-- **Website:** [achievementhouse.org](https://www.achievementhouse.org)
-- **Location:** 553 Higuera St., SLO <a href="#" class="map-link" data-lat="35.277251" data-lon="-120.667015" data-zoom="17" data-label="Bargain Botique">Map</a>
-- **Phone:** [805-543-0412](tel:+1-805-543-0412)
-- **Email:** [info@achievementhouse.org](mailto:info@achievementhouse.org)
-- **Hours:** M–F 9:30am–5pm
+> *See [Achievement House Thrift Stores](#Achievement-House-Thrift-Store)*
 
 ## <a id="Beach-Area-Storage">Beach Area Storage</a>
 
-<!-- Source: https://beachareastorage.com/location-grover-beach/ -->
 - **Website:** [beachareastorage.com](https://beachareastorage.com/)
-- **Location:** 464 Leoni Dr., Grover Beach <a class="map-link" data-lat="35.113070" data-lon="-120.623705" data-zoom="17" data-label="Beach Area Storage">Map</a>
-- **Phone:** [805-489-9272](tel:+1-805-489-9272)
-- **Email:** [BeachAreaStorage@gmail.com](mailto:BeachAreaStorage@gmail.com)
+- **Location:** 464 Leoni Dr., Grover Beach <a class="map-link" data-lat="35.113070" data-lon="-120.623705" data-zoom="17" data-label="Beach Area Storage">Map</a> <!-- Source: https://beachareastorage.com/ -->
+- **Phone:** [805-489-9272](tel:+1-805-489-9272) <!-- Source: https://beachareastorage.com/ -->
+- **Email:** [BeachAreaStorage@gmail.com](mailto:BeachAreaStorage@gmail.com) <!-- Source: https://beachareastorage.com/ -->
 - **Hours:**
-   - Office: M–F 9am–5pm (closed Noon–1pm), Sa 10am–5pm (closed Noon–1pm), Su Noon–5pm (closed 1:30–2pm)
-   - Storage access: Daily 7am–7pm (Daylight Saving Time) or 7am–6pm (standard time)
-   - Closed major holidays
+   - Office: M–F 9am–5pm (closed Noon–1pm), Sa 10am–5pm (closed Noon–1pm), Su Noon–5pm (closed 1:30–2pm) <!-- Source: https://beachareastorage.com/location-grover-beach/ -->
+   - Storage access: Daily 7am–7pm (Daylight Saving Time) or 7am–6pm (standard time) <!-- Source: https://beachareastorage.com/location-grover-beach/ -->
+   - Closed major holidays <!-- Source: https://beachareastorage.com/location-grover-beach/ -->
 
 ## <a id="BHBH">Behavioral Health Bridge Housing (BHBH) Program</a>
 
 > *See [**Transitions Mental Health Association (TMHA)**](#TMHA)*
 
 - **Website:** [www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing)
-- **Phone:** [805-540-6500](tel:+1-805-540-6500) (Mark Lamore, Director of Homeless Services at [**TMHA**](#TMHA))
-- **How to access:** must be referred by another agency
+- **Phone:** [805-540-6500](tel:+1-805-540-6500) (Mark Lamore, Director of Homeless Services at [**TMHA**](#TMHA)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
+- **Email:** [mtorell@co.slo.ca.us](mailto:mtorell@co.slo.ca.us) and [jmprice@co.slo.ca.us](mailto:jmprice@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
+- **How to access:** must be referred by another agency; call for details <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
 
 ## <a id="Bella-Vista-by-the-Sea">Bella Vista by the Sea</a>
 
 - **Website:** [bellavistabythesea.com](https://www.bellavistabythesea.com/)
-- **Location:** 350 N. Ocean Ave., Cayucos <a class="map-link" data-lat="35.451070" data-lon="-120.908597" data-zoom="17" data-label="Bella Vista by the Sea">Map</a>
-- **Phone:** [805-995-3644](tel:+1-805-995-3644)
+- **Location:** 350 N. Ocean Ave., Cayucos <a class="map-link" data-lat="35.451070" data-lon="-120.908597" data-zoom="17" data-label="Bella Vista by the Sea">Map</a> <!-- Source: https://www.bellavistabythesea.com/ -->
+- **Phone:** [805-995-3644](tel:+1-805-995-3644) <!-- Source: https://www.bellavistabythesea.com/ -->
+- **Email:** [bellavistamhp@tprop.net](mailto:bellavistamhp@tprop.net) <!-- Source: https://www.bellavistabythesea.com/ -->
+- **Hours:** (office hours) M–F 10am–4pm <!-- Source: https://www.bellavistabythesea.com/ -->
 
 ## <a id="Bike-Kitchen">Bike Kitchen</a>
 
 - **Website:** [bikeslocounty.org/programs/kitchen](https://bikeslocounty.org/programs/kitchen/)
-- **Location:** 860 Pacific St. #105, SLO <a href="#" class="map-link" data-lat="35.279103" data-lon="-120.660620" data-zoom="17" data-label="Bike Kitchen">Map</a>
-- **Phone:** [805-547-2055](tel:+1-805-547-2055)
-- **Hours:** Th–Su 12–5pm (DIY repair), Tu–W 12–5pm (shopping only), M closed
+- **Location:** 860 Pacific St. #105, SLO <a href="#" class="map-link" data-lat="35.279103" data-lon="-120.660620" data-zoom="17" data-label="Bike Kitchen">Map</a> <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
+- **Phone:** [805-547-2055](tel:+1-805-547-2055) <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
+- **Hours:** Th–Su 12–5pm (DIY repair), Tu–W 12–5pm (shopping only), M closed <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
 
 ## <a id="Blessed-to-Serve">Blessed to Serve</a>
 
 | Location | Hours |
 | -------- | ----- |
-| 12150 Los Osos Valley Road, SLO <a href="#" class="map-link" data-lat="35.250659" data-lon="-120.684721" data-zoom="17" data-label="Blessed to Serve">Map</a> (car dealership) | M 5pm |
-| 1251 Calle Joaquin, SLO <a href="#" class="map-link" data-lat="35.251051" data-lon="-120.679879" data-zoom="17" data-label="Blessed to Serve">Map</a> (car dealership) | Th 5pm |
+| 12150 Los Osos Valley Road, SLO <a href="#" class="map-link" data-lat="35.250659" data-lon="-120.684721" data-zoom="17" data-label="Blessed to Serve">Map</a> (Nissan dealership) | M 5pm |
+| 1251 Calle Joaquin, SLO <a href="#" class="map-link" data-lat="35.251051" data-lon="-120.679879" data-zoom="17" data-label="Blessed to Serve">Map</a> (BMW dealership) | Th 5pm |
 
 ## <a id="Boyd-Bristol-Medical-Equipment-Program">Boyd Bristol Medical Equipment Program</a>
 
 - **Website:** [post66slo.org/serving-veterans](https://post66slo.org/serving-veterans/)
 - **Location:** 1161 Mill St., SLO <a href="#" class="map-link" data-lat="35.284710" data-lon="-120.660546" data-zoom="17" data-label="Boyd Bristol Medical Equipment Program">Map</a>
-- **Phone:** [805-543-6445](tel:+1-805-543-6445)
+   - Note: delivery can also be arranged <!-- Source: https://post66slo.org/serving-veterans/ -->
+- **Phone:** [805-543-6445](tel:+1-805-543-6445) <!-- Source: https://post66slo.org/serving-veterans/ -->
 - **How to access:** Only for veterans and veterans’ dependents. By appointment only; call to make an appointment.
 
 ## The Bridge Cafe
@@ -415,60 +462,60 @@
 ## <a id="Cabins-for-Change">Cabins for Change</a>
 
 - **Location:** Rockaway Ave. at 16th St. in Grover Beach <a href="#" class="map-link" data-lat="35.119777" data-lon="-120.612577" data-zoom="17" data-label="Cabins for Change">Map</a>
-- **Phone:** [805-305-3031](tel:+1-805-305-3031)
-- **Email:** [shelter@5chc.org](mailto:shelter@5chc.org)
+- **Phone:** [805-305-3031](tel:+1-805-305-3031) <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
+- **Text:** [805-634-9906](sms:+1-805-634-9906) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
+- **Email:** [shelter@5chc.org](mailto:shelter@5chc.org) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
 - **How to access:** Apply through [**5Cities Homeless Coalition**](#5CHC) to get on waiting list
 
 ## <a id="California-Cool-Thrift-Store">California Cool Thrift Store</a>
 
-<!-- Source: https://california-cool-thrift-store.hub.biz -->
-- **Website:** [california-cool-thrift-store.hub.biz](https://california-cool-thrift-store.hub.biz)
-- **Location:** 737 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121863" data-lon="-120.622164" data-zoom="17" data-label="California Cool Thrift Store">Map</a>
-- **Phone:** [805-481-3071](tel:+1-805-481-3071)
-- **Hours:** Daily 10am–5pm
+<!-- Note: does not appear to have its own website; hours come from 3rd party websites -->
+- **Location:** 737 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121863" data-lon="-120.622164" data-zoom="17" data-label="California Cool Thrift Store">Map</a> <!-- Source: https://www.yelp.com/biz/california-cool-thrift-store-grover-beach#location-and-hours -->
+- **Phone:** [805-481-3071](tel:+1-805-481-3071) <!-- Source: https://www.yelp.com/biz/california-cool-thrift-store-grover-beach#location-and-hours -->
+- **Hours:** Daily 10am–5pm <!-- Source: https://www.yelp.com/biz/california-cool-thrift-store-grover-beach#location-and-hours -->
 
 ## <a id="California-Childrens-Services">California Children’s Services</a>
 
 - **Website:** [dhcs.ca.gov/services/ccs](https://dhcs.ca.gov/services/ccs)
-- **Location:** 2925 McMillan Ave. #108, SLO <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="California Children’s Services">Map</a>
-- **Phone:** [805-781-5527](tel:+1-805-781-5527)
-- **Email:** [PublicHealth.CMS@co.slo.ca.us](mailto:PublicHealth.CMS@co.slo.ca.us)
-- **Hours:** M–F 8am–5pm by appointment only
+- **Location:** 2925 McMillan Ave. #108, SLO <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="California Children’s Services">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
+- **Phone:** [805-781-5527](tel:+1-805-781-5527) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
+- **Email:** [PublicHealth.CMS@co.slo.ca.us](mailto:PublicHealth.CMS@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
+- **Hours:** M–F 8am–5pm by appointment only <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
 
 ## <a id="California-Civil-Rights-Department">California Civil Rights Department</a>
 
 - **Website:** [calcivilrights.ca.gov](https://calcivilrights.ca.gov)
    - Housing discrimination office: [calcivilrights.ca.gov/housing](https://calcivilrights.ca.gov/housing/)
-- **Location:** 651 Bannon Street #200, Sacramento, CA 95811 <a href="#" class="map-link" data-lat="38.594598" data-lon="-121.497249" data-zoom="17" data-label="California Civil Rights Department">Map</a>
+- **Location:** 651 Bannon Street #200, Sacramento, CA 95811 <a href="#" class="map-link" data-lat="38.594598" data-lon="-121.497249" data-zoom="17" data-label="California Civil Rights Department">Map</a> <!-- Source: https://calcivilrights.ca.gov/ (closest regional office looks like Fresno) -->
 - **Phone:**
-   - [800-884-1684](tel:+1-800-884-1684) (voice)
-   - [800-700-2320](tel:+1-800-700-2320) (TTY)
-- **Email:** [contact.center@calcivilrights.ca.gov](mailto:contact.center@calcivilrights.ca.gov)
+   - [800-884-1684](tel:+1-800-884-1684) (voice) <!-- Source: https://calcivilrights.ca.gov/ -->
+   - [800-700-2320](tel:+1-800-700-2320) (TTY) <!-- Source: https://calcivilrights.ca.gov/ -->
+- **Email:** [contact.center@calcivilrights.ca.gov](mailto:contact.center@calcivilrights.ca.gov) <!-- Source: https://calcivilrights.ca.gov/ -->
 - **How to access:** via the [California Civil Rights System](https://ccrs.calcivilrights.ca.gov/s/) on-line platform
 
 ## <a id="California-Connect">California Connect</a>
 
 - **Website:** [caconnect.org](https://caconnect.org/)
-- **Location:** 3426 Empresa Dr. #120, SLO <a href="#" class="map-link" data-lat="35.253573" data-lon="-120.667102" data-zoom="17" data-label="California Connect">Map</a>
-- **Phone:** [800-806-1191](tel:+1-800-806-1191) (TTY: [800-806-4474](tel:+1-800-806-4474))
+- **Location:** 3426 Empresa Dr. #120, SLO <a href="#" class="map-link" data-lat="35.253573" data-lon="-120.667102" data-zoom="17" data-label="California Connect">Map</a> <!-- Source: https://caconnect.org/service/ -->
+- **Phone:** [800-806-1191](tel:+1-800-806-1191) <!-- Source: https://caconnect.org/ --> (TTY: [800-806-4474](tel:+1-800-806-4474)) <!-- Source: https://caconnect.org/service/ -->
 - **Email:**
-   - [info@caconnect.org](mailto:info@caconnect.org)
+   - [info@caconnect.org](mailto:info@caconnect.org) <!-- Source: https://caconnect.org/ -->
    - [ddtp@cpuc.ca.gov](mailto:ddtp@cpuc.ca.gov)
-- **Hours:** M–F 8am–5pm
+- **Hours:** M–F 8am–5pm <!-- Source: https://caconnect.org/service/ -->
 
 ## <a id="California-Department-of-Rehabilitation">California Department of Rehabilitation</a>
 
 - **Website:** [dor.ca.gov](https://www.dor.ca.gov/)
-- **Location:** 3320 S. Higuera #102, SLO <a href="#" class="map-link" data-lat="35.255033" data-lon="-120.668947" data-zoom="17" data-label="California Department of Rehabilitation">Map</a>
+- **Location:** 3320 S. Higuera #102, SLO <a href="#" class="map-link" data-lat="35.255033" data-lon="-120.668947" data-zoom="17" data-label="California Department of Rehabilitation">Map</a> <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
 - **Phone:**
    - Local office:
       - [805-594-6100](tel:+1-805-594-6100)
-      - [805-549-3361](tel:+1-805-549-3361) (for ages 16–21)
+      - [805-549-3361](tel:+1-805-549-3361) (for ages 16–21) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
       - [805-544-7367](tel:+1-805-544-7367) (TTY)
    - Statewide:
-      - [800-952-5544](tel:+1-800-952-5544) (voice)
-      - [916-324-1313](tel:+1-916-324-1313) (voice)
-      - [916-558-5673](tel:+1-916-558-5673) (TTY)
+      - [800-952-5544](tel:+1-800-952-5544) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
+      - [916-324-1313](tel:+1-916-324-1313) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
+      - [916-558-5673](tel:+1-916-558-5673) (TTY) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
       - Source: [dor.ca.gov](https://www.dor.ca.gov/Home/ContactUs)
 - **How to access:** No walk-ins. Call them to schedule an Orientation, or fill out a form on their website.
 - Notes:
@@ -477,9 +524,9 @@
 ## <a id="California-DMV">California DMV</a>
 
 - **Website:** [dmv.ca.gov](https://www.dmv.ca.gov/)
-- **Location:** 3190 S. Higuera St., SLO <a href="#" class="map-link" data-lat="35.257436" data-lon="-120.669167" data-zoom="17" data-label="Department of Motor Vehicles">Map</a>
+- **Location:** 3190 S. Higuera St., SLO <a href="#" class="map-link" data-lat="35.257436" data-lon="-120.669167" data-zoom="17" data-label="Department of Motor Vehicles">Map</a> <!-- Source: https://www.dmv.ca.gov/portal/field-office/san-luis-obispo/ -->
 - **Phone:** [800-777-0133](tel:+1-800-777-0133) (for appointments)
-- **Hours:** M/Tu/Th/F/Sa 8am–5pm, W 9am–5pm
+- **Hours:** M/Tu/Th/F/Sa 8am–5pm, W 9am–5pm <!-- Source: https://www.dmv.ca.gov/portal/field-office/san-luis-obispo/ -->
 
 ## <a id="California-Rural-Legal-Assistance">California Rural Legal Assistance (CRLA)</a>
 
@@ -492,67 +539,58 @@
 
 > *See [**California Connect**](#California-Connect)*
 
-## <a id="Cal-Poly-Community-Counseling-Service">Cal Poly Community Counseling Service</a>
-
-> *See also [**Community Counseling Center**](#Community-Counseling-Center)*
-
-- **Website:** [psycd.calpoly.edu/community-programs/counseling-clinic](https://psycd.calpoly.edu/community-programs/counseling-clinic)
-- **Location:** Cotchett Education Bldg. 2, Room 125, Cal Poly SLO <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Map</a>
-- **Phone:** [805-756-1532](tel:+1-805-756-1532)
-- **How to access:** No walk-ins; Call to make an appointment.
-
 ## <a id="Cal-Poly-Doggy-Days">Cal Poly “Doggy Days” Veterinary Clinics</a>
 
 - **Social media:**
    - Facebook: [facebook.com/calpolydoggydays](https://www.facebook.com/calpolydoggydays/)
    - Instagram: [@cpdoggydays](https://instagram.com/cpdoggydays)
 - **Phone:** [805-756-2419](tel:+1-805-756-2419) (Cal Poly Animal Science Department)
+- **Email:** [calpolydoggydays@gmail.com](mailto:calpolydoggydays@gmail.com) <!-- Source: https://www.instagram.com/p/CjQ7qDCvbhf/ -->
 
 ## <a id="Cal-Poly-Food-Pantry">Cal Poly Food Pantry</a>
 
 - **Website:** [basicneeds.calpoly.edu/foodpantry](https://basicneeds.calpoly.edu/foodpantry)
-- **Location:** Cal Poly campus, building 27, room 10 <a href="#" class="map-link" data-lat="35.298148" data-lon="-120.660616" data-zoom="17" data-label="Cal Poly Food Pantry">Map</a>
-- **Phone:** [805-756-7818](tel:+1-805-756-7818)
+- **Location:** Cal Poly campus, building 27, room 10 <a href="#" class="map-link" data-lat="35.298148" data-lon="-120.660616" data-zoom="17" data-label="Cal Poly Food Pantry">Map</a> <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
+- **Phone:** [805-756-7818](tel:+1-805-756-7818) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
 - **Hours:**
-   - M–F 8:30am–6pm (Cal Poly students)
-   - F 8:30am–6pm (Cal Poly employees)
-- **How to access:** all Cal Poly students and employees welcome; no additional eligibility requirements
+   - M–F 8:30am–6pm (Cal Poly students) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
+   - F 8:30am–6pm (Cal Poly employees) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
+- **How to access:** all Cal Poly students and employees welcome; no additional eligibility requirements <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
 
 ## <a id="CalJOBS">CalJOBS</a>
 
 - **Website:** [caljobs.ca.gov](https://www.caljobs.ca.gov/)
-- **Phone:** [800-758-0398](tel:+1-800-758-0398)
+- **Phone:** [800-758-0398](tel:+1-800-758-0398) <!-- Source: https://www.caljobs.ca.gov/vosnet/ContactUs.aspx -->
+- Note: Can access locally via [**SLO Cal Careers Center**](#SLO-Cal-Careers-Center)
 
 ## <a id="CalWORKs">CalWORKs Homeless Assistance Program</a>
 
 - **Website:** [slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance)
-- **Locations:**
-   - 3433 S. Higuera, SLO <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="CalWORKs">Map</a>
-   - 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="CalWORKs">Map</a>
+- **Locations:** See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
 - **Phone:** [805-781-1600](tel:+1-805-781-1600)
-- **Hours:** M–F 8am–5pm
+- **Hours:** M–F 8am–4pm (4–5pm by appointment only)
 - **How to access:** Contact [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
 
 ## <a id="Cambria-Recycling-Center">Cambria Recycling Center</a>
 
-- **Location:** 1275 Tamson St., Cambria <a href="#" class="map-link" data-lat="35.563214" data-lon="-121.091796" data-zoom="17" data-label="Cambria Recycling Center">Map</a>
-- **Phone:** [805-550-5489](tel:+1-805-550-5489)
+<!-- Note: I was unable to find a website operated by this organization; I relied on 3rd parties for this info -->
+- **Location:** 1275 Tamson St., Cambria <a href="#" class="map-link" data-lat="35.563214" data-lon="-121.091796" data-zoom="17" data-label="Cambria Recycling Center">Map</a> <!-- Source: https://www.yelp.com/biz/cambria-recycling-center-cambria -->
+- **Phone:** [805-459-7512](tel:+1-805-459-7512) <!-- Source: https://www.yelp.com/biz/cambria-recycling-center-cambria -->
 - **Hours:** Tu–Sa 10am–4pm
 
 ## <a id="Cambria-Vineyard-Church">Cambria Vineyard Church</a>
 
-<!-- Source: https://www.cambriavineyard.org/foodministry.html -->
 - **Website:** [cambriavineyardchurch.org](https://cambriavineyardchurch.org/)
-- **Location:** 1617 Main St., Cambria <a href="#" class="map-link" data-lat="35.563774" data-lon="-121.087216" data-zoom="17" data-label="Cambria Vineyard">Map</a>
-- **Phone:** [805-927-5550](tel:+1-805-927-5550)
+- **Location:** 1617 Main St., Cambria <a href="#" class="map-link" data-lat="35.563774" data-lon="-121.087216" data-zoom="17" data-label="Cambria Vineyard">Map</a> <!-- Source: https://cambriavineyardchurch.org/contact-us/ -->
+- **Phone:** [805-927-5550](tel:+1-805-927-5550) <!-- Source: https://cambriavineyardchurch.org/contact-us/ -->
 - **Email:** [info@cambriavineyard.org](mailto:info@cambriavineyard.org)
-- **Hours** (food pantry): 2nd & 4th Thursdays, Noon–2pm
+- **Hours** (food pantry): 2nd & 4th Thursdays, Noon–2pm <!-- Source: https://cambriavineyardchurch.org/ministries/local-outreach/ -->
+- Notes: Operates “Re·Create Thrift Store” at 1601 Main St., Cambria (M/Th/F/Sa 10am–4pm) <!-- Source: https://cambriavineyardchurch.org/ministries/local-outreach/ -->
 
 ## <a id="Cambrias-Anonymous-Neighbors">Cambria’s Anonymous Neighbors (CAN)</a>
 
-<!-- Source: https://www.joslynrec.org/CAN/index.html and https://www.cambriasanonymousneighbors.org/other-community-services.html -->
 - **Website:** [joslynrec.org/CAN](https://www.joslynrec.org/CAN/index.html)
-- **Phone:** [805-927-5673](tel:+1-805-927-5673)
+- **Phone:** [805-927-5673](tel:+1-805-927-5673) <!-- Source: https://www.joslynrec.org/CAN/index.html -->
 
 ## CAPSLO
 
@@ -560,20 +598,21 @@
 
 ## <a id="Captive-Hearts">Captive Hearts</a>
 
-<!-- Source: https://www.captivehearts.org/about.html -->
 - **Website:** [captivehearts.org](https://captivehearts.org/)
-- **Location:** 882 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121358" data-lon="-120.620550" data-zoom="17" data-label="Captive Hearts">Map</a>
-- **Phone:** [805-481-4500](tel:+1-805-481-4500) (before 3pm)
-- **Email:** [info@captivehearts.org](mailto:info@captivehearts.org)
+- **Location:** 882 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121358" data-lon="-120.620550" data-zoom="17" data-label="Captive Hearts">Map</a> <!-- Source: https://www.captivehearts.org/our-program.html -->
+- **Phone:** [805-481-4500](tel:+1-805-481-4500) (before 3pm) <!-- Source: https://www.captivehearts.org/our-program.html -->
+- **Email:** [info@captivehearts.org](mailto:info@captivehearts.org) <!-- Source: https://www.captivehearts.org/our-program.html -->
+- Notes: operates [Second Chances Thrift Store](#Second-Chances-Thrift-Store)
 
 ## <a id="C.A.R.E.4Paws">C.A.R.E.4Paws</a>
 
-- **Website:** [care4paws.org](https://care5paws.org/)
+<!-- Note: I was not able to find "Pet Resource Center" info on either the care4paws.org or the 5chc.org websites -->
+- **Website:** [care4paws.org](https://care4paws.org/)
 - **Location:** mobile clinics
    - Pet Resource Center: 100 S. 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.121203" data-lon="-120.626739" data-zoom="17" data-label="C.A.R.E.4Paws">Map</a>
-- **Phone:** [805-968-2273](tel:+1-805-968-2273)
+- **Phone:** [805-968-CARE](tel:+1-805-968-2273) <!-- Source: https://care4paws.org/ -->
 - **Email:**
-   - [info@care4paws.org](mailto:info@care4paws.org)
+   - [info@care4paws.org](mailto:info@care4paws.org) <!-- Source: https://care4paws.org/ -->
    - [outreach@care4paws.org](mailto:outreach@care4paws.org)
 - **Hours:**
    - [Mobile Clinics Schedule](https://care4paws.org/clinics)
@@ -584,35 +623,35 @@
 
 ## <a id="Carbon-Health-Urgent-Care-Atascadero">Carbon Health Urgent Care (Atascadero)</a>
 
-<!-- Source: https://carbonhealth.com/en/locations/atascadero-ca verified October 2025 -->
 - **Website:** [carbonhealth.com/en/locations/atascadero-ca](https://carbonhealth.com/en/locations/atascadero-ca)
-- **Location:** 7330 El Camino Real, Atascadero <a class="map-link" data-lat="35.482467" data-lon="-120.659886" data-zoom="17" data-label="Carbon Health Urgent Care (Atascadero)">Map</a>
-- **Phone:** [831-621-1184](tel:+1-831-621-1184)
-- **Hours:** Every day 8am–6pm
+- **Location:** 7330 El Camino Real, Atascadero <a class="map-link" data-lat="35.482467" data-lon="-120.659886" data-zoom="17" data-label="Carbon Health Urgent Care (Atascadero)">Map</a> <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
+- **Phone:** [831-621-1184](tel:+1-831-621-1184) <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
+- **Hours:** Every day 8am–6pm <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
 - Notes: Accepts Medicare but not Medi-Cal; walk-ins welcome, same-day appointments available
 
 ## <a id="Carbon-Health-Urgent-Care-Paso-Robles">Carbon Health Urgent Care (Paso Robles)</a>
 
-<!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca verified October 2025 -->
 - **Website:** [carbonhealth.com/en/locations/paso-robles-ca](https://carbonhealth.com/en/locations/paso-robles-ca)
-- **Location:** 500 1st St., Paso Robles <a href="#" class="map-link" data-lat="35.614953" data-lon="-120.692442" data-zoom="17" data-label="Carbon Health Urgent Care">Map</a>
-- **Phone:** [831-621-1449](tel:+1-831-621-1449)
-- **Hours:** Every day 8am–6pm
+- **Location:** 500 1st St., Paso Robles <a href="#" class="map-link" data-lat="35.614953" data-lon="-120.692442" data-zoom="17" data-label="Carbon Health Urgent Care">Map</a> <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
+- **Phone:** [831-621-1449](tel:+1-831-621-1449) <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
+- **Hours:** Every day 8am–6pm <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
 - Notes: Accepts Medicare but not Medi-Cal; walk-ins welcome, same-day appointments available
 
 ## <a id="CASA">CASA (Court Appointed Special Advocates)</a>
 
 <!-- Source: https://slobar.org/legal-resources/listing/court-appointed-special-advocates-casa/ -->
 - **Website:** [slocasa.org](https://slocasa.org/)
-- **Location:** 75 Higuera St. #180, SLO <a href="#" class="map-link" data-lat="35.268096" data-lon="-120.670195" data-zoom="17" data-label="CASA">Map</a>
-- **Phone:** [805-541-6542](tel:+1-805-541-6542)
+- **Location:** 75 Higuera St. #180, SLO <a href="#" class="map-link" data-lat="35.268096" data-lon="-120.670195" data-zoom="17" data-label="CASA">Map</a> <!-- Source: https://slocasa.org/contact-casa/ -->
+- **Phone:** [805-541-6542](tel:+1-805-541-6542) <!-- Source: https://slocasa.org/contact-casa/ -->
+- **Email:** [staff@slocasa.org](mailto:staff@slocasa.org) <!-- Source: https://slocasa.org/contact-casa/ -->
 
 ## <a id="Casa-Solana">Casa Solana</a>
 
 <!-- Source: https://www.yelp.com/biz/casa-solana-grover-beach -->
 - **Website:** [casasolanainc.org](https://casasolanainc.org/)
 - **Location:** 383 S. 13th St., Grover Beach <a class="map-link" data-lat="35.118384" data-lon="-120.615202" data-zoom="17" data-label="Casa Solana">Map</a>
-- **Phone:** [805-481-8555](tel:+1-805-481-8555) (9am–4pm)
+- **Phone:** [805-481-8555](tel:+1-805-481-8555) (9am–4pm) <!-- Source: https://www.casasolanainc.org/contact -->
+- **Email:** [casasolanainc@gmail.com](mailto:casasolanainc@gmail.com) <!-- Source: https://www.casasolanainc.org/contact -->
 - Notes: also known as “Sunshine House”
 
 ## <a id="Catholic-Charities">Catholic Charities (Diocese of Monterey)</a>
@@ -623,37 +662,42 @@
    - [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/)
    - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
 - **Locations:**
-   - Main office: 3250 S. Higuera St. #D, SLO <a href="#" class="map-link" data-lat="35.255397" data-lon="-120.669515" data-zoom="17" data-label="Catholic Charities">Map</a>
+   - Main office: 3250 S. Higuera St. #D, SLO <a href="#" class="map-link" data-lat="35.255397" data-lon="-120.669515" data-zoom="17" data-label="Catholic Charities">Map</a> <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
    - Financial assistance: 3592 Broad Street #104, SLO <a href="#" class="map-link" data-lat="35.254868" data-lon="-120.645111" data-zoom="17" data-label="Catholic Charities">Map</a> <!-- Source: https://5chc.org/community-services/financial-assistance -->
    - Behind the Mission: 715 Palm St., SLO <a href="#" class="map-link" data-lat="35.280845" data-lon="-120.665176" data-zoom="17" data-label="Catholic Charities">Map</a>
-   - Paso Robles satellite: St. Rose of Lima Church, 642 Trigo Ln., Paso Robles <a href="#" class="map-link" data-lat="35.622914" data-lon="-120.690742" data-zoom="17" data-label="Catholic Charities">Map</a>
+   - Paso Robles satellite: St. Rose of Lima Church, 642 Trigo Ln., Paso Robles <a href="#" class="map-link" data-lat="35.622914" data-lon="-120.690742" data-zoom="17" data-label="Catholic Charities">Map</a> <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
 - **Phone:**
-   - Main: [805-541-9110](tel:+1-805-541-9110)
-   - Paso Robles: [805-541-9120](tel:+1-805-541-9120) (to schedule appointments)
+   - Main: [805-541-9110](tel:+1-805-541-9110) <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
+   - Paso Robles: [805-541-9120](tel:+1-805-541-9120) (to schedule appointments) <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
    - Immigration and Citizenship Program: [831-722-2675](tel:+1-831-722-2675)
-   - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Note: Tattoo removal office is in Santa Cruz, not SLO)
+   - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Note: Tattoo removal office is in Santa Cruz, not SLO) <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 - **Hours:**
    - SLO offices: M–F 8am–5pm (call to confirm hours for specific location)
    - Paso Robles: 2nd Wednesday of every month, 1–5pm
-<!-- Note: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) -->
+<!-- Note: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) (see e.g. https://www.slocounty.ca.gov/departments/social-services/forms-documents/department-wide-forms/informational-documents/slo-county-resources-and-information-(5-1-2024) and https://www.tri-counties.org/wp-content/uploads/2017/11/slo-county-social-svs-resource-sheet.pdf)-->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
 
-<!-- Source: https://www.cayucoschurch.org/ministries/ -->
 - **Website:** [cayucoschurch.org](https://www.cayucoschurch.org/)
-- **Location:** 60 S. 3rd St., Cayucos <a class="map-link" data-lat="35.445457" data-lon="-120.898613" data-zoom="17" data-label="Cayucos Community Church">Map</a>
-- **Phone:** [805-995-3821](tel:+1-805-995-3821)
+- **Location:** 60 S. 3rd St., Cayucos <a class="map-link" data-lat="35.445457" data-lon="-120.898613" data-zoom="17" data-label="Cayucos Community Church">Map</a> <!-- Source: https://cayucoschurch.com/ministries/ -->
+- **Phone:** [805-995-3821](tel:+1-805-995-3821) <!-- Source: https://cayucoschurch.com/ministries/ -->
+- **Email:** [info@cayucoschurch.com](mailto:info@cayucoschurch.com) <!-- Source: https://cayucoschurch.com/ministries/ -->
 - **Hours:**
    - Office: Tu–Th 10am–2pm (closed Fridays and holidays)
-   - Food pantry ("Harvest Bag"): 1st, 3rd, 4th, & 5th Wednesdays at 10:30am
+   - Food pantry (“Harvest Bag”): 1st, 3rd, 4th, & 5th Wednesdays at 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
+   - USDA food distribution: 2nd Wednesday at 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
 
 ## <a id="CenCal">CenCal Health</a>
 
 > *See also [**Medi-Cal**](#Medi-Cal)*
 
 - **Website:** [Cencalhealth.org](https://cencalhealth.org/)
-- **Location:** 1035 Peach St. #201, SLO <a href="#" class="map-link" data-lat="35.284602" data-lon="-120.662586" data-zoom="17" data-label="CenCal Health">Map</a>
-- **Phone:** [805-685-9525](tel:+1-805-685-9525) or [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm)
+- **Locations:** See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
+- **Phone:**
+   - Business office: [800-421-2560](tel:+1-800-421-2560) or [805-685-9525](tel:+1-805-685-9525) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
+   - Enrollment: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
+   - Member services: [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
+- **How to access:** You can submit an application online via [Covered California](https://www.coveredca.com/) or [My Benefits CalWIN](https://www.mybenefitscalwin.org/) or you can get help applying from the [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
 - Note: for CenCal Shuttle, *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 
 ## CenCal Health Transportation
@@ -663,25 +707,23 @@
 ## <a id="CARD">Center for Autism & Related Disorders</a>
 
 - **Website:** [centerforautism.com](https://centerforautism.com/locations/san-luis-obispo-california/)
-- **Location:** 1212 Marsh St. #1, SLO <a href="#" class="map-link" data-lat="35.282685" data-lon="-120.657396" data-zoom="17" data-label="CARD">Map</a>
-- **Phone:** [805-703-2120](tel:+1-805-703-2120)
-- **Email:** [Info@centerforautism.com](mailto:Info@centerforautism.com)
-- **Hours:** M–F 8am–7pm (weekend hours vary)
+- **Location:** 1212 Marsh St. #1, SLO <a href="#" class="map-link" data-lat="35.282685" data-lon="-120.657396" data-zoom="17" data-label="CARD">Map</a> <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
+- **Phone:** [805-703-2120](tel:+1-805-703-2120) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
+- **Email:** [Info@centerforautism.com](mailto:Info@centerforautism.com) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
+- **Hours:** M–F 8am–7pm (weekend hours vary) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
 - **How to access:**
    - Enroll at [this web page](https://admissions.centerforautism.com/)
-   - or call [877-448-4747 x2](tel:+1-877-448-4747;ext=2)
-   - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com)
-- Notes:
-   - Accepts “major insurance carriers”
+   - or call [877-448-4747 x2](tel:+1-877-448-4747;ext=2) <!-- Source: https://admissions.centerforautism.com/ -->
+   - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://admissions.centerforautism.com/ -->
+- Notes: Accepts CenCal Health and most other insurance providers <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
 
 ## <a id="CSF">Center for Family Strengthening (CSF)</a>
 
-<!-- Source: https://cfsslo.org -->
 - **Website:** [cfsslo.org](https://cfsslo.org/)
-- **Location:** 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Center for Family Strengthening">Map</a>
-- **Phone:** [805-439-1994](tel:+1-805-439-1994)
-- **Email:** [info@cfsslo.org](mailto:info@cfsslo.org)
-- **Hours:** By appointment (call or email to schedule)
+- **Location:** 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Center for Family Strengthening">Map</a> <!-- Source: https://cfsslo.org/ -->
+- **Phone:** [805-439-1994](tel:+1-805-439-1994) <!-- Source: https://cfsslo.org/ -->
+- **Email:** [info@cfsslo.org](mailto:info@cfsslo.org) <!-- Source: https://cfsslo.org/ -->
+- **Hours:** By appointment (call or email to schedule) <!-- Source: https://cfsslo.org/ -->
 - Notes:
    - make referrals via [**Adult Protective Services**](#Adult-Protective-Services)
    - operates [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
@@ -693,15 +735,16 @@
 
 - **Website:** [capslo.org/the-center](https://capslo.org/the-center/)
 
+<!-- Source (location/phone/hours): https://capslo.org/the-center/ -->
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | 1152 E. Grand Ave. (Arroyo Grande) <a href="#" class="map-link" data-lat="35.120865" data-lon="-120.597299" data-zoom="17" data-label="The Center">Map</a> | [805-489-4026](tel:+1-805-489-4026) (Arroyo Grande) | M–F 8:30am–5:30m <!-- Source: https://capslo.org/the-center/ --> |
 | 705 Grand Ave. (SLO) <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">Map</a> | [805-544-2498 x211](tel:+1-805-544-2498;ext=211) (SLO) | M–F 8:30am–5:30pm <!-- Source: https://capslo.org/the-center/ --> |
 
 - **Phone:**
-   - [805-422-2498&#xA0;x121](tel:+1-805-422-2498;ext=121) (info line)
-   - [805-544-2409&#xA0;x111](tel:+1-805-544-2409;ext=111) (mobile reproductive health clinic info)
-- **How to access:** Walk-ins OK, but appointments recommended.
+   - [805-422-2498&#xA0;x121](tel:+1-805-422-2498;ext=121) (info line) <!-- Source: https://capslo.org/the-center/ -->
+   - [805-544-2409&#xA0;x111](tel:+1-805-544-2409;ext=111) (mobile reproductive health clinic info) <!-- Source: https://capslo.org/the-center/ -->
+- **How to access:** Walk-ins OK, but appointments recommended. <!-- Source: https://capslo.org/the-center/ -->
 - Note:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Teen clinic Tuesday 3–6pm, Friday 3–5:30pm in Arroyo Grande
@@ -710,8 +753,8 @@
 
 - **Website:** [centralcoastseniors.org/aging-and-disability-resource-center](https://centralcoastseniors.org/aging-and-disability-resource-center/)
 - **Location:** 528 S. Broadway, Santa Maria <a href="#" class="map-link" data-lat="34.948009" data-lon="-120.436107" data-zoom="17" data-label="CCADRC">Map</a>
-- **Phone:** [805-928-2552](tel:+1-805-928-2552) / [800-510-2020](tel:+1-800-510-2020)
-- **Email:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
+- **Phone:** [805-928-2552](tel:+1-805-928-2552) / [800-510-2020](tel:+1-800-510-2020) <!-- Source: https://centralcoastseniors.org/aging-and-disability-resource-center/ -->
+- **Email:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org) <!-- Source: https://centralcoastseniors.org/aging-and-disability-resource-center/ -->
 - **Hours:** M–F 8am–5pm (closed Noon–1pm)
 - **How to access:** Walk-ins OK.
 - Notes:
@@ -721,25 +764,25 @@
 ## <a id="CCATC">Central Coast Assistive Technology Center</a>
 
 - **Website:** [ccatc.org](https://ccatc.org/)
-- **Location:** 11491 Los Osos Valley Rd., SLO <a href="#" class="map-link" data-lat="35.258145" data-lon="-120.692577" data-zoom="17" data-label="CCATC">Map</a>
-- **Phone:** [805-549-7420](tel:+1-805-549-7420) (TTY: [805-549-7424](tel:+1-805-549-7424))
+- **Location:** 11491 Los Osos Valley Rd. #202, SLO <a href="#" class="map-link" data-lat="35.258145" data-lon="-120.692577" data-zoom="17" data-label="CCATC">Map</a> <!-- Source: https://ccatc.org/contact-us/ -->
+- **Phone:** [805-549-7420](tel:+1-805-549-7420) <!-- Source: https://ccatc.org/contact-us/ --> (TTY: [805-549-7424](tel:+1-805-549-7424))
 - **How to access:** call to make an appointment
 
 ## <a id="Central-Coast-Autism-Spectrum-Center">Central Coast Autism Spectrum Center</a>
 
 <!-- Source: https://beaminghealth.com/providers/central-coast-autism-spectrum-center-san-luis-obispo-ca -->
 - **Website:** [sloautism.org](https://sloautism.org/)
-- **Mailing address:** P.O. Box 3417, SLO, CA 93403
-- **Phone:** [805-763-1100](tel:+1-805-763-1100)
-- **Email:** [contact@sloautism.org](mailto:contact@sloautism.org)
+- **Mailing address:** P.O. Box 3417, SLO, CA 93403 <!-- Source: https://sloautism.org/about-us/ -->
+- **Phone:** [805-763-1100](tel:+1-805-763-1100) <!-- Source: https://sloautism.org/about-us/ -->
+- **Email:** [contact@sloautism.org](mailto:contact@sloautism.org) <!-- Source: https://sloautism.org/about-us/ -->
 <!-- Note: Organization uses P.O. Box; no physical street address found (as of October 2025). Hours of operation not publicly listed; contact directly for details -->
 
 ## <a id="Central-Coast-Coalition-for-Undocumented-Student-Success">Central Coast Coalition for Undocumented Student Success</a>
 
-<!-- Source: https://www.ccc-uss.org/ and https://localwiki.org/slo/Central_Coast_Coalition_for_Undocumented_Student_Success -->
 - **Website:** [ccc-uss.org](https://www.ccc-uss.org/)
-- **Mailing address:** P.O. Box 15759, SLO, CA 93406
-- **Email:** [ccc-uss@googlegroups.com](mailto:ccc-uss@googlegroups.com)
+- **Mailing address:** P.O. Box 15759, SLO, CA 93406 <!-- Source: https://www.ccc-uss.org/ -->
+- **Email:**
+   - [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com) <!-- Source: https://www.ccc-uss.org/ -->
 <!-- Note: Organization uses P.O. Box; no physical office address or phone number found (as of October 2025). Fiscally sponsored by Ecologistics, a 501(c)(3) in SLO -->
 - Notes:
    - Cal Poly DREAM Center contact: Vania Agama Ramirez
@@ -748,10 +791,11 @@
 
 ## <a id="Central-Coast-Commission-for-Senior-Citizens">Central Coast Commission for Senior Citizens</a>
 
-<!-- Source: https://www.yelp.com/biz/central-coast-commission-for-senior-citizens-santa-maria -->
 - **Website:** [centralcoastseniors.org](https://www.centralcoastseniors.org/)
-- **Location:** 528 S. Broadway, Santa Maria <a href="#" class="map-link" data-lat="34.948009" data-lon="-120.436107" data-zoom="17" data-label="Central Coast Commission for Senior Citizens">Map</a>
-- **Phone:** [800-434-0222](tel:+1-800-434-0222) / [805-925-9554](tel:+1-805-925-9554)
+- **Location:** 528 S. Broadway, Santa Maria <a href="#" class="map-link" data-lat="34.948009" data-lon="-120.436107" data-zoom="17" data-label="Central Coast Commission for Senior Citizens">Map</a> <!-- Source: https://centralcoastseniors.org/contact-us/ -->
+- **Phone:**
+   - [805-925-9554](tel:+1-805-925-9554) <!-- Source: https://centralcoastseniors.org/contact-us/ -->
+   - [800-434-0222](tel:+1-800-434-0222)
 - **Email:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
 - **Hours:** M–F 8am–5pm
 - Notes:
@@ -762,29 +806,25 @@
 
 ## <a id="CCDS">Central Coast Dental Society</a>
 
-<!-- Source: https://www.centralcoastdentalsociety.org/ -->
 - **Website:** [centralcoastdentalsociety.org](https://www.centralcoastdentalsociety.org/)
-- **Location:** 1356 Marsh St., SLO <a href="#" class="map-link" data-lat="35.283784" data-lon="-120.655128" data-zoom="17" data-label="Central Coast Dental Society">Map</a>
-- **Phone:** [805-544-1113](tel:+1-805-544-1113)
-- **Email:** [ccds@charter.net](mailto:ccds@charter.net)
-<!-- Note: Hours of operation not publicly listed (as of October 2025); contact office directly for hours -->
+- **Location:** 1356 Marsh St., SLO <a href="#" class="map-link" data-lat="35.283784" data-lon="-120.655128" data-zoom="17" data-label="Central Coast Dental Society">Map</a> <!-- Source: https://www.centralcoastdentalsociety.org/ -->
+- **Phone:** [805-544-1113](tel:+1-805-544-1113) <!-- Source: https://www.centralcoastdentalsociety.org/cu -->
+- **Email:** [ccds@charter.net](mailto:ccds@charter.net) <!-- Source: https://www.centralcoastdentalsociety.org/cu -->
 
 ## <a id="Central-Coast-Home-Health">Central Coast Home Health and Hospice</a>
 
-<!-- Source: https://centralcoasthomehealth.com -->
 - **Website:** [centralcoasthomehealth.com](https://centralcoasthomehealth.com/)
-- **Location:** 253 Granada Dr. #D, SLO <a href="#" class="map-link" data-lat="35.250819" data-lon="-120.666897" data-zoom="17" data-label="Central Coast Home Health and Hospice">Map</a>
+- **Location:** 253 Granada Dr. #D, SLO <a href="#" class="map-link" data-lat="35.250819" data-lon="-120.666897" data-zoom="17" data-label="Central Coast Home Health and Hospice">Map</a> <!-- Source: https://centralcoasthomehealth.com/index.php/contact-us/ -->
 - **Phone:**
-   - [805-543-2244](tel:+1-805-543-2244) (Home Health)
-   - [805-540-6020](tel:+1-805-540-6020) (Hospice)
+   - [805-543-2244](tel:+1-805-543-2244) (Home Health) <!-- Source: https://centralcoasthomehealth.com/index.php/contact-us/ -->
+   - [805-540-6020](tel:+1-805-540-6020) (Hospice) <!-- Source: https://centralcoasthomehealth.com/index.php/contact-us/ -->
    - [855-240-2530](tel:+1-855-240-2530) (Medi-Cal verification and financial assistance)
-- **Email:** [info@cchh08.com](mailto:info@cchh08.com)
+- **Email:** [info@cchh08.com](mailto:info@cchh08.com) <!-- Source: https://centralcoasthomehealth.com/index.php/contact-us/ -->
 - **Hours:** 24/7 (Monday–Sunday)
 - Notes: Accepts Medicare; call [855-240-2530](tel:+1-855-240-2530) to verify Medi-Cal acceptance and discuss financial assistance options
 
 ## <a id="CCPAW">Central Coast Partnership for Animal Welfare</a>
 
-- **Website:** [store10491224.company.site](https://store10491224.company.site)
 - **Locations:** (pet food distribution)
    - 946 Rockaway Ave., Grover Beach ([**Lifepoint Church**](#Lifepoint-Church)) <a href="#" class="map-link" data-lat="35.120091" data-lon="-120.619796" data-zoom="17" data-label="Central Coast Partnership for Animal Welfare">Map</a>
    - parking lot at 1710 Ocean St., Oceano <a href="#" class="map-link" data-lat="35.100069" data-lon="-120.612256" data-zoom="17" data-label="Central Coast Partnership for Animal Welfare">Map</a>
@@ -800,10 +840,9 @@
 
 ## <a id="Central-Coast-Senior-Center">Central Coast Senior Center (Oceano)</a>
 
-<!-- Source: Web search October 2025; limited detailed information available online -->
-- **Location:** 1580 Railroad St., Oceano <a class="map-link" data-lat="35.101131" data-lon="-120.617666" data-zoom="17" data-label="Central Coast Senior Center (Oceano)">Map</a>
-- **Phone:** [805-481-7886](tel:+1-805-481-7886)
-- **Hours:** M–F, 10am–3pm
+- **Location:** 1580 Railroad St., Oceano <a class="map-link" data-lat="35.101131" data-lon="-120.617666" data-zoom="17" data-label="Central Coast Senior Center (Oceano)">Map</a> <!-- Source: https://www.facebook.com/centralcoastseniorcenter/ -->
+- **Phone:** [805-481-7886](tel:+1-805-481-7886) <!-- Source: https://www.facebook.com/centralcoastseniorcenter/ -->
+- **Hours:** M–F, 9am–3pm <!-- Source: https://www.facebook.com/centralcoastseniorcenter/ -->
 - Notes:
    - Open to seniors 50+; for more information call [**Senior Connection**](#Senior-Connection)
    - Activities cost $2 for members, $3 for non-members (membership is $30 for individuals, $40 for couples)
@@ -811,19 +850,11 @@
 
 ## <a id="Central-Coast-Veterans-Helping-Veterans">Central Coast Veterans Helping Veterans</a>
 
-<!-- Source: https://www.ccvhv.org/ -->
 - **Website:** [ccvhv.org](https://www.ccvhv.org/)
-- **Mailing address:** P.O. Box 12725, SLO, CA 93406
-- **Phone:** [805-285-5526](tel:+1-805-285-5526)
-- **Email:** [ccvetshelpingvets@outlook.com](ccvetshelpingvets@outlook.com)
+- **Mailing address:** P.O. Box 12725, SLO, CA 93406 <!-- Source: https://www.ccvhv.org/contact.html -->
+- **Phone:** [805-285-5526](tel:+1-805-285-5526) <!-- Source: https://www.ccvhv.org/contact.html -->
+- **Email:** [ccvetshelpingvets@outlook.com](ccvetshelpingvets@outlook.com) <!-- Source: https://www.ccvhv.org/contact.html -->
 <!-- Note: Organization uses P.O. Box; no physical office address or public operating hours found (as of October 2025). Contact via phone or email for services -->
-
-## <a id="Central-Coast-Veterans-Services-Collaborative">Central Coast Veterans Services Collaborative</a>
-
-<!-- https://slovsc.org/ (now defunct?) -->
-- **Location:** Veterans Hall, 801 Grand Ave., SLO <a href="#" class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services Collaborative">Map</a>
-- **Phone:** [805-270-2988](tel:+1-805-270-2988)
-- **Email:** [slovsc1@gmail.com](mailto:slovsc1@gmail.com)
 
 ## CHC
 
@@ -832,10 +863,10 @@
 ## <a id="Child-Care-Resource-Connection">Child Care Resource Connection</a>
 
 - **Website:** [capslo.org/child-care-resource-connection](https://capslo.org/child-care-resource-connection/)
-- **Location:** 805A Fiero Ln. #A, SLO <a href="#" class="map-link" data-lat="35.244059" data-lon="-120.642200" data-zoom="17" data-label="Child Care Resource Connection">Map</a>
+- **Location:** 805A Fiero Ln., SLO <a href="#" class="map-link" data-lat="35.244059" data-lon="-120.642200" data-zoom="17" data-label="Child Care Resource Connection">Map</a> <!-- Source: https://capslo.org/child-care-resource-connection/ -->
 - **Phone:**
-   - [888-727-2272](tel:+1-888-727-2272)
-   - [805-541-2272](tel:+1-805-541-2272) (SLO)
+   - [888-727-2272](tel:+1-888-727-2272) <!-- Source: https://capslo.org/child-care-resource-connection/ -->
+   - [805-541-2272](tel:+1-805-541-2272) (SLO) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/childcare-parenting -->
    - [805-474-2062](tel:+1-805-474-2062) (South County)
    - [805-226-3249](tel:+1-805-226-3249) (North County)
 - **Hours:** M–F, 8am–5pm
@@ -848,51 +879,51 @@
 
 ## <a id="Child-Development-Resource-Center">Child Development Resource Center</a>
 
-<!-- Source: https://www.childrensresource.org/ and https://www.yellowpages.com/san-luis-obispo-ca/mip/child-development-resource-center-14343571 -->
 - **Website:** [childrensresource.org](https://www.childrensresource.org/)
-- **Location:** 1720 Bishop St., SLO <a href="#" class="map-link" data-lat="35.275653" data-lon="-120.644484" data-zoom="17" data-label="Child Development Resource Center">Map</a>
-- **Phone:** [805-544-0801](tel:+1-805-544-0801)
+- **Location:** 1720 Bishop St., SLO <a href="#" class="map-link" data-lat="35.275653" data-lon="-120.644484" data-zoom="17" data-label="Child Development Resource Center">Map</a> <!-- Source: https://www.childrensresource.org/ -->
+- **Phone:** [805-544-0801](tel:+1-805-544-0801) <!-- Source: https://www.childrensresource.org/ -->
 - **Email:** [info@slocdc.org](mailto:info@slocdc.org)
 - **How to access:** Fill out [an application](https://www.childrensresource.org/regristration) or get a referral from child welfare services or from a legal, medical, social services, or emergency shelter provider. Tuition is on a sliding scale based on income. Financial aid is available.
 <!-- Note: Hours of operation not publicly listed (as of October 2025); contact directly for hours -->
 
 ## <a id="Child-Support-Services">Child Support Services</a>
 
-- **Website:** [slocounty.ca.gov/departments/child-support-services](https://www.slocounty.ca.gov/departments/child-support-services)
-- **Location:** 1200 Monterey St., SLO <a href="#" class="map-link" data-lat="35.283704" data-lon="-120.658514" data-zoom="17" data-label="Child Support Services">Map</a>
-- **Phone:** [866-901-3212](tel:+1-866-901-3212)
-- **Email:** [css@co.slo.ca.us](mailto:css@co.slo.ca.us)
-- **Hours:** M–F 8am–4:30pm
+- **Website:** [slocounty.ca.gov/departments/child-support](https://www.slocounty.ca.gov/departments/child-support)
+- **Location:** 1200 Monterey St., SLO <a href="#" class="map-link" data-lat="35.283704" data-lon="-120.658514" data-zoom="17" data-label="Child Support Services">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/child-support/contact-us -->
+- **Phone:** [866-901-3212](tel:+1-866-901-3212) <!-- Source: https://www.slocounty.ca.gov/departments/child-support/contact-us -->
+- **Email:** [css@co.slo.ca.us](mailto:css@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/child-support/contact-us -->
+- **Hours:** M–F 8am–4:30pm <!-- Source: https://www.slocounty.ca.gov/departments/child-support/contact-us -->
 
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
 
-<!-- Source: https://www.guidestar.org/profile/27-1473791 and https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
-- **Website:** [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org)
+- **Website:** [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org) <!-- Not responsive on 29 Nov 2025 -->
 - **Location:** 1212 Farroll Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.111293" data-lon="-120.602116" data-zoom="17" data-label="Children’s Resource Network of the Central Coast">Map</a> <!-- Location found at https://5chc.org/community-services/clothing -->
 - **Mailing address:** P.O. Box 454, Pismo Beach, CA 93448-0454
-- **Phone:** [805-709-8673](tel:+1-805-709-8673)
-- **Email:** [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org)
+- **Phone:** [805-709-8673](tel:+1-805-709-8673) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+- **Email:** [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 - Notes: Operates “Outreach Apparel” and “The Teen’s Closet”
 
 ## <a id="City-of-SLO-Parks-and-Recreation">City of SLO Parks and Recreation</a>
 
-<!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
 - **Website:** [slocity.org/government/department-directory/parks-and-recreation](https://www.slocity.org/government/department-directory/parks-and-recreation)
-- **Location:** 1341 Nipomo St., SLO <a href="#" class="map-link" data-lat="35.276384" data-lon="-120.664500" data-zoom="17" data-label="City of SLO Parks and Recreation">Map</a>
-- **Phone:** [805-781-7300](tel:+1-805-781-7300)
-- **Email:** [recreation@slocity.org](mailto:recreation@slocity.org)
-- **Hours:** M–F 8am–4pm
+- **Location:** 1341 Nipomo St., SLO <a href="#" class="map-link" data-lat="35.276384" data-lon="-120.664500" data-zoom="17" data-label="City of SLO Parks and Recreation">Map</a> <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
+- **Phone:** [805-781-7300](tel:+1-805-781-7300) <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
+- **Email:** [recreation@slocity.org](mailto:recreation@slocity.org) <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
+- **Hours:** M–F 8am–4pm <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
 
 ## <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a>
 
 - **Website:** [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
 - **Location:** 1001 Pacific Blvd. <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes RV Park">Map</a>
-- **Phone:** [805-781-4900](tel:+1-805-781-4900) M–Th 8am–4:30pm; F–Su 8am–6pm, [805-781-5930](tel:+1-805-781-5930) (reservations)
+- **Phone:**
+   - Park ranger office [805-781-4900](tel:+1-805-781-4900) <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ --> M–Th 8am–4:30pm; F–Su 8am–6pm
+   - Reservations: [805-781-5930](tel:+1-805-781-5930)
 
 ## <a id="CoastHills-Credit-Union">CoastHills Credit Union</a>
 
 - **Website:** [coasthills.coop](https://coasthills.coop/)
 
+<!-- Source (location): https://coasthills.coop/resources/about/locations -->
 | Location | Hours |
 | -------- | ----- |
 | 1360 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.121113" data-lon="-120.604811" data-zoom="17" data-label="CoastHills Credit Union">Map</a> | M–Th 9am–5pm, F 9am–6pm, Sa. 10am–1pm |
@@ -901,7 +932,7 @@
 | 1402 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.629040" data-lon="-120.691354" data-zoom="17" data-label="CoastHills Credit Union">Map</a> | M–Th 9am–5pm, F 9am–6pm, Sa. 10am–1pm |
 | 751 Marsh St., SLO <a href="#" class="map-link" data-lat="35.278378" data-lon="-120.662853" data-zoom="17" data-label="CoastHills Credit Union">Map</a> | M–Th 9am–5pm, F 9am–6pm |
 
-- **Phone:** [805-733-7600](tel:+1-805-733-7600) / [800-262-4488](tel:+1-800-262-4488)
+- **Phone:** [805-733-7600](tel:+1-805-733-7600) / [800-262-4488](tel:+1-800-262-4488) <!-- Source: https://coasthills.coop/ -->
 
 ## Commission for Senior Citizens
 
@@ -910,16 +941,18 @@
 ## <a id="CAPSLO">Community Action Partnership San Luis Obispo (CAPSLO)</a>
 
 - **Website:** [capslo.org](https://capslo.org/)
-- **Location:** 40 Prado Rd., SLO <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
-   - Energy Office: 3970 Short St. #110, SLO <a href="#" class="map-link" data-lat="35.245356" data-lon="-120.672187" data-zoom="17" data-label="CAPSLO Home and Energy Services">Map</a> (no walk-ins)
+- **Location:**
+   - Main Office: 1030 Southwood Dr., SLO <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="CAPSLO">Map</a> <!-- Source: https://capslo.org/contact/ -->
+   - Homeless Services: 40 Prado Rd., SLO <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a> <!-- Source: https://capslo.org/40-prado/ -->
+   - Energy Office: 3970 Short St. #110, SLO <a href="#" class="map-link" data-lat="35.245356" data-lon="-120.672187" data-zoom="17" data-label="CAPSLO Home and Energy Services">Map</a> (no walk-ins) <!-- Source: https://capslo.org/utility-assistance/ -->
 - **Phone:**
-   - Hotline: [805-706-8663](tel:+1-805-706-8663)
-   - Administration: [805-544-4355](tel:+1-805-544-4355)
+   - Hotline: [805-706-8663](tel:+1-805-706-8663) <!-- Source: https://capslo.org/contact/ -->
+   - Administration: [805-544-4355](tel:+1-805-544-4355) <!-- Source: https://capslo.org/contact/ -->
    - Homeless Services Center: [805-544-4004](tel:+1-805-544-4004)
    - Low Income Home Energy Assistance Program: [805-541-4122&#xA0;x2125](tel:+1-805-541-4122;ext=2125) or [800-495-0501&#xA0;x2114](tel:+1-800-495-0501;ext=2114)
-   - Energy Office: [805-541-4122&#xA0;x2125](tel:+1-805-541-4122;ext=2125)
-- **Email:** [hotline@capslo.org](mailto:hotline@capslo.org)
-   - Low Income Home Energy Assistance Program: [HEAP@capslo.org](mailto:HEAP@capslo.org)
+   - Energy Office: [805-541-4122](tel:+1-805-541-4122) <!-- Source: https://capslo.org/weatherization/ -->
+- **Email:** [hotline@capslo.org](mailto:hotline@capslo.org) <!-- Source: https://capslo.org/contact/ -->
+   - Low Income Home Energy Assistance Program: [HEAP@capslo.org](mailto:HEAP@capslo.org) <!-- Source: https://capslo.org/utility-assistance/ -->
 - **Hours:** M–F 9am–5pm
    - Energy Office: M–F 8am–Noon & 1pm–4pm (no walk-ins)
 - Notes:
@@ -947,10 +980,10 @@
 > *See also [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
 
 - **Website:** [cccslo.org/what-we-do.php](https://www.cccslo.org/what-we-do.php)
-- **Location:** 676 Pismo St., SLO <a href="#" class="map-link" data-lat="35.276497" data-lon="-120.662980" data-zoom="17" data-label="Community Counseling Center">Map</a>
-- **Phone:** [805-543-7969](tel:+1-805-543-7969)
-- **Hours:** M–F 9am–6pm
-- **How to access:** Call to make an appointment
+- **Location:** 676 Pismo St., SLO <a href="#" class="map-link" data-lat="35.276497" data-lon="-120.662980" data-zoom="17" data-label="Community Counseling Center">Map</a> <!-- Source: https://www.cccslo.org/locations.php -->
+- **Phone:** [805-543-7969](tel:+1-805-543-7969) <!-- Source: https://www.cccslo.org/what-we-do.php --->
+- **Hours:** M–F 9am–6pm <!-- Source: https://www.cccslo.org/locations.php -->
+- **How to access:** Call to make an appointment or use their [contact form](https://www.cccslo.org/locations.php) <!-- Source: https://www.cccslo.org/locations.php -->
 
 ## Community Counseling Service
 
@@ -960,21 +993,21 @@
 
 <!-- Source: https://www.cfsloco.org/ -->
 - **Website:** [cfsloco.org](https://www.cfsloco.org/)
-- **Location:** 550 Dana St., SLO <a href="#" class="map-link" data-lat="35.278881" data-lon="-120.667651" data-zoom="17" data-label="Community Foundation of SLO County">Map</a>
-- **Phone:** [805-543-2323](tel:+1-805-543-2323)
-- **Email:** [info@cfsloco.org](mailto:info@cfsloco.org)
+- **Location:** 550 Dana St., SLO <a href="#" class="map-link" data-lat="35.278881" data-lon="-120.667651" data-zoom="17" data-label="Community Foundation of SLO County">Map</a> <!-- Source: https://www.cfsloco.org/ -->
+- **Phone:** [805-543-2323](tel:+1-805-543-2323) <!-- Source: https://www.cfsloco.org/ -->
+- **Email:** [info@cfsloco.org](mailto:info@cfsloco.org) <!-- Source: https://www.cfsloco.org/ -->
 <!-- Note: Hours of operation not publicly listed (as of October 2025); contact office directly for hours -->
 - Note: partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
 
 ## <a id="CHC">Community Health Centers of the Central Coast</a>
 
-<!-- Source: https://www.communityhealthcenters.org/ and https://www.solvhealth.com/community-health-centers-of-the-central-coast-arroyo-grande-ca-0Vey6g -->
 - **Website:** [communityhealthcenters.org](https://www.communityhealthcenters.org/)
 
+<!-- Source (location): https://www.communityhealthcenters.org/locations/ -->
 | Location | Phone | Notes |
 | -------- | ----- | ----- |
 | 260 Station Way, Arroyo Grande <a href="#" class="map-link" data-lat="35.119769" data-lon="-120.578564" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-573-6201](tel:+1-805-573-6201) | |
-| 1057 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118759" data-lon="-120.595400" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-270-1700](tel:+1-805-270-1700) | |
+| 1057 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118759" data-lon="-120.595400" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-270-1700](tel:+1-805-270-1700) | |
 | 1205 E. Grand Ave. #H, Arroyo Grande <a href="#" class="map-link" data-lat="35.120369" data-lon="-120.600572" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-994-2300](tel:+1-805-994-2300) | ("urgent care"; walk-ins OK; M–F 8am–8pm, Sa/Su 9am–5pm) |
 | 7512 Morro Rd., Atascadero <a href="#" class="map-link" data-lat="35.477246" data-lon="-120.667898" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-792-1400](tel:+1-805-792-1400) | |
 | 1276 Tamsen Dr., Cambria <a href="#" class="map-link" data-lat="35.565935" data-lon="-121.079680" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-927-5292](tel:+1-805-927-5292) | |
@@ -982,15 +1015,16 @@
 | 2120 Cienaga St., Oceano <a href="#" class="map-link" data-lat="35.097852" data-lon="-120.608650" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-994-2100](tel:+1-805-994-2100) | |
 | 2800 Riverside Ave. #101, Paso Robles <a href="#" class="map-link" data-lat="35.643630" data-lon="-120.688162" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-238-7250](tel:+1-805-238-7250) | ("immediate care"; walk-ins OK; M–Sa 8am–Noon & 1pm–5pm) |
 | 1385 Mission St., San Miguel <a href="#" class="map-link" data-lat="35.752573" data-lon="-120.696391" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-467-2344](tel:+1-805-467-2344) | |
-| 1551 Bishop St., SLO <a href="#" class="map-link" data-lat="35.273443" data-lon="-120.644957" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-549-0402](tel:+1-805-549-0402) | |
+| 1551 Bishop St. #240, SLO <a href="#" class="map-link" data-lat="35.273443" data-lon="-120.644957" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-549-0402](tel:+1-805-549-0402) | (specializes in women’s health) |
 | 77 Casa St., SLO <a href="#" class="map-link" data-lat="35.292914" data-lon="-120.665307" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-269-1500](tel:+1-805-269-1500) | |
 | 40 Prado, SLO <a href="#" class="map-link" data-lat="35.256495" data-lon="-120.672000" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-269-1500](tel:+1-805-269-1500) | ([**Healthcare for the Homeless Program**](#HCHP)) |
 | 1330 Las Tablas Rd., Templeton <a href="#" class="map-link" data-lat="35.554714" data-lon="-120.723803" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-542-6700](tel:+1-805-542-6700) | ("immediate care"; walk-ins OK; M–Th 8am–6pm) |
-| 292 Posada Ln. #A, Templeton <a href="#" class="map-link" data-lat="35.553046" data-lon="-120.721773" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-542-6701](tel:+1-805-542-6701) | |
+| 292 Posada Ln., Templeton <a href="#" class="map-link" data-lat="35.553046" data-lon="-120.721773" data-zoom="17" data-label="Community Health Centers of the Central Coast">Map</a> | [805-542-6701](tel:+1-805-542-6701) | |
 
-- **Phone:** [805-361-8400](tel:+1-805-361-8400) (M–F 8am–6pm) / [866-614-4636](tel:+1-866-614-4636) (after-hours care)
+- **Phone:** [866-614-4636](tel:+1-866-614-4636) <!-- Source: https://www.communityhealthcenters.org/about/contact-us/ -->
+   - Text: [805-361-8400](sms:+1-805-361-8400) <!-- Source: https://www.communityhealthcenters.org/about/contact-us/ -->
 - **How to access:** “Immediate care” or “urgent care” centers accept walk-ins. Otherwise, make an appointment.
-   - Accepts private pay, full- and partially-insured, Medi-Cal, and Medicare. Also offers a sliding fee scale based on income and family size to people without any health insurance.
+   - Accepts private pay, full- and partially-insured, Medi-Cal, and Medicare. Also offers a sliding fee scale based on income and family size to people without any health insurance. <!-- Source: https://www.communityhealthcenters.org/patient-resources/payment-options-test/ -->
 - Notes:
    - Also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
    - “CHC Transportation Services” is a door-to-door ride service to appointments ([877-743-3242](tel:+1-877-743-3242))
@@ -999,11 +1033,11 @@
 ## <a id="Community-Partners-in-Caring">Community Partners in Caring</a>
 
 - **Website:** [partnersincaring.org](https://partnersincaring.org/)
-- **Location:** 120 E. Jones St. #130, Santa Maria <a href="#" class="map-link" data-lat="34.945579" data-lon="-120.434639" data-zoom="17" data-label="Community Partners in Caring">📍 Map</a>
-- **Phone:** [805-925-8000](tel:+1-805-925-8000)
-- **Email:** [info@partnersincaring.org](mailto:info@partnersincaring.org)
-- **Hours:** M–F 8:30am–5pm
-- **How to access:** Fill out the client onboarding forms (which can be done via their website) to access the services.
+- **Location:** 120 E. Jones St. #130, Santa Maria <a href="#" class="map-link" data-lat="34.945579" data-lon="-120.434639" data-zoom="17" data-label="Community Partners in Caring">Map</a> <!-- Source: https://partnersincaring.org/ -->
+- **Phone:** [805-925-8000](tel:+1-805-925-8000) <!-- Source: https://partnersincaring.org/ -->
+- **Email:** [info@partnersincaring.org](mailto:info@partnersincaring.org) <!-- Source: https://partnersincaring.org/ -->
+- **Hours:** M–F 8:30am–5pm <!-- Source: https://partnersincaring.org/ -->
+- **How to access:** Fill out the client onboarding forms (which can be done via their website) to access the services. <!-- Source: https://partnersincaring.org/our-services/ -->
 - Notes: operates in Nipomo and the Five Cities area, in addition to Santa Barbara County
 
 ## Community Safe Parking Program
@@ -1026,6 +1060,7 @@
 
 - **Website:** [cottagehealth.org/urgent-care](https://www.cottagehealth.org/urgent-care/)
 
+<!-- Source (location/phone): https://www.cottagehealth.org/urgent-care/ ; Source (hours): https://www.cottagehealth.org/urgent-care/ -->
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | Marigold Center: 3970 Broad Street Suite 2, SLO <a href="#" class="map-link" data-lat="35.249334" data-lon="-120.643117" data-zoom="17" data-label="Cottage Urgent Care">Map</a> | [805-762-4996](tel:+1-805-762-4996) | Every day: 8am–8pm |
@@ -1047,32 +1082,34 @@
 ## <a id="CSF-Medical-Non-Profit-Foundation">CSF Medical Non Profit Foundation</a>
 
 - **Website:** [csffoundation.org](https://csffoundation.org/)
-- **Phone:** [661-404-4748](tel:+1-661-404-4748)
-- **Email:** [info@csffoundation.org](mailto:info@csffoundation.org)
-- **Hours:** M–F 9am–5:30pm
+- **Phone:** [661-404-4748](tel:+1-661-404-4748) <!-- Source: https://csffoundation.org/ -->
+- **Email:** [info@csffoundation.org](mailto:info@csffoundation.org) <!-- Source: https://csffoundation.org/ -->
+- **Hours:** M–F 9am–5:30pm <!-- Source: https://csffoundation.org/ -->
 
 ## <a id="Cuesta-College">Cuesta College</a>
 
 - **Website:** [cuesta.edu](https://www.cuesta.edu/)
 - **Locations:**
-   - SLO Campus: 3000 Education Dr., SLO (at Highway 1) <a href="#" class="map-link" data-lat="35.329042" data-lon="-120.740620" data-zoom="15" data-label="Cuesta College">Map</a>
-   - North County Campus: 2800 Buena Vista Dr., Paso Robles <a href="#" class="map-link" data-lat="35.650499" data-lon="-120.670746" data-zoom="15" data-label="Cuesta College">Map</a>
-   - South County Campus: Corner of Orchard St. & W. Cherry Ave, Arroyo Grande <a href="#" class="map-link" data-lat="35.117021" data-lon="-120.577601" data-zoom="15" data-label="Cuesta College">Map</a>
+   - SLO Campus: 3000 Education Dr., SLO (at Highway 1) <a href="#" class="map-link" data-lat="35.329042" data-lon="-120.740620" data-zoom="15" data-label="Cuesta College">Map</a> <!-- Source: https://www.cuesta.edu/ -->
+   - North County Campus: 2800 Buena Vista Dr., Paso Robles <a href="#" class="map-link" data-lat="35.650499" data-lon="-120.670746" data-zoom="15" data-label="Cuesta College">Map</a> <!-- Source: https://www.cuesta.edu/ -->
+   - South County Center: A.G. High School office, room 900, corner of Orchard St. & W. Cherry Ave, Arroyo Grande <a href="#" class="map-link" data-lat="35.117021" data-lon="-120.577601" data-zoom="15" data-label="Cuesta College">Map</a> <!-- Source: https://www.cuesta.edu/ -->
 - **Phone:**
-   - [805-546-3100](tel:+1-805-546-3100) (SLO Campus)
-   - [805-591-6200](tel:+1-805-591-6200) (North County Campus)
+   - [805-546-3100](tel:+1-805-546-3100) (SLO Campus) <!-- Source: https://www.cuesta.edu/ -->
+   - [805-591-6200](tel:+1-805-591-6200) (North County Campus) <!-- Source: https://www.cuesta.edu/ -->
+   - [805-474-3913](tel:+1-805-474-3913) (South County Center) <!-- Source: https://www.cuesta.edu/ -->
    - [805-591-6273](tel:+1-805-591-6273) (Continuing Education Office)
    - English as a Second Language (ESL) program:
-      - [805-592-9463](tel:+1-805-592-9463) (SLO Campus)
-      - [805-591-6273](tel:+1-805-591-6273) (North County Campus)
+      - [805-592-9463](tel:+1-805-592-9463) (SLO Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
+      - [805-591-6273](tel:+1-805-591-6273) (North County Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
+      - [805-592-9463](tel:+1-805-592-9463) (South County Center) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
       - Call M–Th 10am–7pm
    - Continuing Education program:
-      - [805-592-9463](tel:+1-805-592-9463) (SLO Campus)
-      - [805-591-6273](tel:+1-805-591-6273) (North County Campus)
+      - [805-592-9463](tel:+1-805-592-9463) (SLO Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
+      - [805-591-6273](tel:+1-805-591-6273) (North County Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
 - **Email:**
    - [admit@cuesta.edu](mailto:admit@cuesta.edu) (Admission)
    - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (South County Campus)
-   - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education)
+   - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
 - Notes:
    - The Paso Robles campus hosts a food pantry in room N1005, M/Th/F 8am–5pm, Tu/W 9am–6pm; [805-592-9366](tel:+1-805-592-9366)
    - [Community Education](https://www.cuesta.edu/community/index.html) programs are open to otherwise unenrolled people
@@ -2445,9 +2482,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 > *See also [**40 Prado Homeless Services Center**](#40-Prado)*
 
-- **Location:** 40 Prado Road, SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="People’s Kitchen">Map</a>
-- **Hours:** Daily at noon
-<!-- Note: No dedicated website or contact info found (as of October 2025); meal program at 40 Prado -->
+- **Website:** [slopeopleskitchen.org](https://www.slopeopleskitchen.org/)
+- **Location:** 43 Prado Road, SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="People’s Kitchen">Map</a> <!-- https://www.slopeopleskitchen.org/serving-info -->
+- **Hours:** Daily at noon <!-- https://www.slopeopleskitchen.org/serving-info -->
+- **How to access:** Just show up. <!-- https://www.slopeopleskitchen.org/serving-info -->
 
 ## <a id="Peoples-Self-Help-Housing">Peoples’ Self-Help Housing</a>
 
@@ -2543,13 +2581,13 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 <!-- Source: https://capslo.org/40-prado -->
 - **Website:** [capslo.org/rcp](https://capslo.org/rcp/)
-- **Location:** [**40 Prado**](#40-Prado), SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a>
+- **Location:** [**40 Prado**](#40-Prado), SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a> <!-- Source: https://capslo.org/rcp/ -->
 - **Phone:**
    - [805-458-2895](tel:+1-805-458-2895) (Ariana Long) <!-- Source: https://capslo.org/rcp/ -->
    - [805-503-2984](tel:+1-805-503-2984) (Amy Nielson, inquiries) <!-- Source: https://capslo.org/40-prado/ -->
 - **Email:** [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org) <!-- Source: https://capslo.org/rcp/ -->
-- **Hours:** 24/7
-- **How to access:** Must be referred by a medical professional
+- **Hours:** 24/7 <!-- Source: https://capslo.org/rcp/ -->
+- **How to access:** Must be referred by a medical professional <!-- Source: https://capslo.org/rcp/ -->
 
 ## <a id="Recycle-101">Recycle 101 — Oceano</a>
 
@@ -2667,9 +2705,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Second-Chances-Thrift-Store">Second Chances Thrift Store</a>
 
 - **Website:** [captivehearts.org/second-chances-store.html](https://www.captivehearts.org/second-chances-store.html)
-- **Location:** 892 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121353" data-lon="-120.620453" data-zoom="17" data-label="Second Chances Thrift Store">Map</a>
-- **Phone:** [805-202-8800](tel:+1-805-202-8800)
-- **Hours:** M–Sa 10am–4:30pm
+- **Location:** 892 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121353" data-lon="-120.620453" data-zoom="17" data-label="Second Chances Thrift Store">Map</a> <!-- Source: https://www.captivehearts.org/second-chances-store.html -->
+- **Phone:** [805-202-8800](tel:+1-805-202-8800) <!-- Source: https://www.captivehearts.org/second-chances-store.html -->
+- **Hours:** M–Sa 10am–4:30pm <!-- Source: https://www.captivehearts.org/second-chances-store.html -->
+- Notes: Operated by [Captive Hearts](#Captive-Hearts) <!-- Source: https://www.captivehearts.org/second-chances-store.html -->
 
 ## <a id="SAFE-Family-Resource-Centers">SAFE Family Resource Centers</a>
 
@@ -2753,6 +2792,23 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Phone:** [805-902-2752](tel:+1-805-902-2752)
 - **Email:** [mclworkshops@montereylaw.edu](mailto:mclworkshops@montereylaw.edu)
 - **Hours:** M–Th 9am–3pm (scheduling); consultations Tu 4:30–6:30pm
+
+## <a id="Cal-Poly-Community-Counseling-Service">San Luis Obispo Counseling Service at Cal Poly</a>
+
+> *See also [**Community Counseling Center**](#Community-Counseling-Center)*
+
+- **Website:** [slocounselingservice.calpoly.edu](https://slocounselingservice.calpoly.edu/)
+- **Location:** Cotchett Education Bldg. 2, Room 125, Cal Poly SLO <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Map</a>
+- **Phone:** [805-756-1532](tel:+1-805-756-1532) <!-- Source: https://slocounselingservice.calpoly.edu/ -->
+- **How to access:** No walk-ins; Call to make an appointment. <!-- Source: https://slocounselingservice.calpoly.edu/ -->
+
+## <a id="SLO-Veterans-Services-Collaborative">San Luis Obispo Veterans Services Collaborative</a>
+
+- **Website:** [slocvsc.org](https://www.slocvsc.org/)
+- **Phone:**
+   - [805-610-0934](tel:+1-805-610-0934) <!-- Source: https://www.slocvsc.org/contact-us -->
+   - [805-270-2988](tel:+1-805-270-2988) <!-- Source: https://www.facebook.com/SLOVsc/ -->
+- **Email:** [SLOVSC1@Gmail.com](mailto:SLOVSC1@Gmail.com) <!-- Source: https://www.facebook.com/SLOVsc/ -->
 
 ## <a id="Santa-Margarita-KOA-Holiday">Santa Margarita KOA Holiday</a>
 
@@ -3160,6 +3216,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Email:** [sreyes@capslo.org](mailto:sreyes@capslo.org) <!-- Source: https://capslo.org/slo-hub/ -->
 - **Hours:** M–F 9am–5pm
 - **How to access:** By appointment only
+- Notes: a collaboration between [**CAPSLO**](#CAPSLO) and [**Restorative Partners**](#Restorative-Partners) <!-- Source: https://capslo.org/slo-hub/ -->
 
 ## <a id="SLO-Legal-Assistance-Foundation">SLO Legal Assistance Foundation (SLOLAF)</a>
 
@@ -3347,12 +3404,12 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Sun-Street-Centers">Sun Street Centers</a>
 
-- **Website:** [sunstreetcenters.org](https://sunstreetcenters.org)
-- **Location:** 34 Prado Rd., SLO <a class="map-link" data-lat="35.256247" data-lon="-120.672862" data-zoom="17" data-label="Sun Street Centers">Map</a>
-- **Phone:** [805-457-3331](tel:+1-805-457-3331) / [805-457-5150](tel:+1-805-457-5150)
-- **Email:** [atorrente@sunstreet.org](mailto:atorrente@sunstreet.org)
-- **How to access:** Get a referral from [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health)
-<!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
+- **Website:** [sunstreetcenters.org/counseling/san-luis-obispo-residential-program](https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/)
+- **Location:** 34 Prado Rd., SLO <a class="map-link" data-lat="35.256247" data-lon="-120.672862" data-zoom="17" data-label="Sun Street Centers">Map</a> <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
+- **Phone:** [805-457-3331](tel:+1-805-457-3331) / [805-457-5150](tel:+1-805-457-5150) <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
+- **Email:** [atorrente@sunstreet.org](mailto:atorrente@sunstreet.org) <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
+- **Hours:** 24/7 (intake: M–F 8am–5pm) <!-- Source: https://sunstreetcenters.org/counseling/hours-locations/ -->
+- **How to access:** Get a referral from [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health), from your healthcare provider, or from your health insurer; you can also refer yourself <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
 
 ## <a id="Supportive-Services-for-Veteran-Families">Supportive Services for Veteran Families</a>
 
@@ -3373,7 +3430,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - **Phone:** [805-534-1698](tel:+1-805-534-1698) <!-- Source: https://capslo.org/ssvf/ -->
    - **Email:** [jerwin@capslo.org](mailto:jerwin@capslo.org)
 - Notes:
-   - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO)
+   - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) <!-- Source: https://capslo.org/ssvf/ -->
    - Operated by [**5Cities Homeless Coalition**](#5CHC) with [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
 
 ## Surgery Without Medical Insurance
@@ -3693,7 +3750,7 @@ There are several urgent care options, including:
 - **How to access:** by appointment only (call or text to make an appointment)
 - Eligibility: This program is restricted to people for whom both of the following requirements are true:
    - You are pregnant, breastfeeding, gave birth or had a pregnancy loss in the past six months, or you care for a child under the age of five
-   - And you live in California and have income below a certain threshold, or receive Medi-Cal, CalWORKs, or CalFresh benefits.
+   - And you live in California and have income below a certain threshold, or receive Medi-Cal, [CalWORKs](#CalWORKs), or CalFresh benefits.
 
 ## <a id="Woods-Humane-Society">Woods Humane Society</a>
 
