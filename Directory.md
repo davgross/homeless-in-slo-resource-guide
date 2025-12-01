@@ -455,6 +455,14 @@
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
+## <a id="Brookside-Thrift">Brookside Thrift</a>
+
+- **Location:** 9330 El Camino Real, Atascadero <a class="map-link" data-lat="35.467930" data-lon="-120.651700" data-zoom="17" data-label="North County Christian Thrift Shop">Map</a> <!-- Source: https://www.facebook.com/NorthCountyChristianThriftShop/about/?_rdr -->
+- **Phone:** [805-466-1679](tel:+1-805-466-1679) <!-- Source: https://www.facebook.com/NorthCountyChristianThriftShop/about/?_rdr -->
+- **Email:** [nccts9330@gmail.com](mailto:nccts9330@gmail.com) <!-- Source: https://www.facebook.com/NorthCountyChristianThriftShop/about/?_rdr -->
+- **Hours:** M–Sa 9am–6pm
+- Notes: formerly known as “North County Christian Thrift”
+
 ## Business and Career One Stop
 
 > *See [**SLO Cal Careers Center**](#SLO-Cal-Careers-Center)*
@@ -2267,58 +2275,61 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="NAMI-SLO-County">NAMI SLO County</a>
 
 - **Website:** [namislo.org](https://www.namislo.org/)
-- **Mailing address:** P.O. Box 3158, SLO
-- **Phone** (immediate crisis support): NAMI national helpline [800-950-6264](tel:+1-800-950-6264) (M–F 7am–3pm PT), or call/text 988
-- **Email:** [namisanluisobispo@gmail.com](mailto:namisanluisobispo@gmail.com)
+- **Mailing address:** P.O. Box 3158, San Luis Obispo, CA 93403 <!-- Source: https://www.namislo.org/ -->
+- **Phone**
+   - immediate crisis support: NAMI national helpline [800-950-6264](tel:+1-800-950-6264) (M–F 7am–3pm PT), or call/text 988
+   - NAMI SLO County: [805-434-7220](tel:+1-805-434-7220) <!-- Source: https://www.namislo.org/ -->
+- **Email:** [namisanluisobispo@gmail.com](mailto:namisanluisobispo@gmail.com) <!-- Source: https://www.namislo.org/ -->
+   - support groups: [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) <!-- Source: https://www.namislo.org/nami-support-groups -->
 
 ## <a id="Narcotics-Anonymous">Narcotics Anonymous</a>
 
 - **Website:** [centralcoastna.org](https://centralcoastna.org/)
-- **Phone:** [805-549-7730](tel:+1-805-549-7730)
+- **Locations:** [various locations](https://www.centralcoastna.org/directory/) in Arroyo Grande, Atascadero, Cambria, Guadalupe, Lompoc, Orcutt, Paso Robles, San Luis Obispo, and Santa Maria <!-- https://www.centralcoastna.org/directory/ -->
+   - Also has some virtual (Zoom) meetings
+- **Phone:** [805-549-7730](tel:+1-805-549-7730) <!-- Source: https://www.centralcoastna.org/ -->
 
 ## <a id="NeedyMeds">NeedyMeds</a>
 
 - **Website:** [needymeds.org](https://needymeds.org/)
-- **Phone:** [800-503-6897](tel:+1-800-503-6897)
-- **Email:** [info@needymeds.org](mailto:info@needymeds.org)
-- **Hours:** M–F 9am–5pm Eastern Time
+- **Phone:** [800-503-6897](tel:+1-800-503-6897) <!-- Source: https://needymeds.org/ -->
+- **Email:** [info@needymeds.org](mailto:info@needymeds.org) <!-- Source: https://needymeds.org/contact-us -->
+- **Hours:** M–F 9am–5pm Eastern Time <!-- Source: https://needymeds.org/helpline -->
 
 ## <a id="New-Life-U-Pick-Pantry">New Life U-Pick Pantry</a>
 
-<!-- Source: https://www.newlifepismo.com verified October 2025 -->
-- **Website:** [newlifepismo.com](https://www.newlifepismo.com/)
-- **Location:** 990 James Way, Pismo Beach <a class="map-link" data-lat="35.135222" data-lon="-120.609236" data-zoom="17" data-label="New Life U-Pick Pantry">Map</a>
-- **Phone:** [805-489-3254](tel:+1-805-489-3254)
-- **Email:** [info@newlifepismo.com](mailto:info@newlifepismo.com)
-- **Hours:** Tu 6–7:30pm, W 10am–noon, Th 1:30–3:30pm
-- Notes: Part of New Life Community Center; also includes New Life Counseling Center
+- **Website:** [newlifepismo.com/pantry](https://www.newlifepismo.com/pantry/)
+- **Location:** 941 N. Oak Park Blvd., Pismo Beach <a href="#" class="map-link" data-lat="35.136159" data-lon="-120.606430" data-zoom="17" data-label="New Life U-Pick Pantry">Map</a> (New Life Community Center) <!-- Source: https://www.newlifepismo.com/pantry/ -->
+- **Phone:** [805-489-3891](tel:+1-805-489-3891) <!-- Source: https://www.newlifepismo.com/pantry/ -->
+- **Email:** [pantry@newlifepismo.com](mailto:pantry@newlifepismo.com) <!-- Source: https://www.newlifepismo.com/pantry/ -->
+- **Hours:** Tu 6–7:30pm, W 10am–noon, Th 1:30–3:30pm <!-- Source: https://www.newlifepismo.com/pantry/ -->
 
 ## <a id="Nipomo-Community-Presbyterian">Nipomo Community Presbyterian</a>
 
 <!-- Source: https://www.yelp.com/biz/nipomo-community-presbyterian-church-arroyo-grande -->
 - **Website:** [nipomopresbyterian.org](https://www.nipomopresbyterian.org)
-- **Location:** 1235 N. Thompson Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.070495" data-lon="-120.512163" data-zoom="17" data-label="Nipomo Community Presbyterian">Map</a>
+- **Location:** 1235 N. Thompson Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.070495" data-lon="-120.512163" data-zoom="17" data-label="Nipomo Community Presbyterian">Map</a> <!-- Source: https://www.nipomopresbyterian.org/join-us -->
 - **Phone:** [805-473-8059](tel:+1-805-473-8059)
-- Hours (food pantry): F 12:45–1:30pm
+- Hours (food pantry): F 12:45–1:30pm <!-- Source: https://www.nipomopresbyterian.org/calendar -->
 
 ## <a id="Nipomo-Food-Basket">Nipomo Food Basket</a>
 
-<!-- Note: No dedicated website found (as of October 2025) -->
-- **Location:** 197 W. Tefft St., Nipomo <a class="map-link" data-lat="35.042387" data-lon="-120.476916" data-zoom="17" data-label="Nipomo Food Basket">Map</a>
-- **Phone:** [805-619-7681](tel:+1-805-619-7681)
-- **Hours:** M–F 10am–1pm
+- **Website:** [nipomofoodbasket.com](https://www.nipomofoodbasket.com/)
+- **Location:** 197 W. Tefft St., Nipomo <a class="map-link" data-lat="35.042387" data-lon="-120.476916" data-zoom="17" data-label="Nipomo Food Basket">Map</a> <!-- Source: https://www.nipomofoodbasket.com/ -->
+- **Phone:** [805-619-7681](tel:+1-805-619-7681) <!-- Source: https://www.nipomofoodbasket.com/ -->
+- **Email:**
+   - [helpu@nipomofoodbasket.org](mailto:helpu@nipomofoodbasket.org) <!-- Source: https://www.nipomofoodbasket.com/ -->
+   - [info@nipomofoodbasket.com](mailto:info@nipomofoodbasket.com) <!-- Source: https://www.nipomofoodbasket.com/visit-us -->
+- **Hours:** M/Tu/Th/F 10am–1pm <!-- Source: https://www.nipomofoodbasket.com/ -->
 
 ## <a id="Nipomo-Senior-Center">Nipomo Senior Center</a>
 
-<!-- Source: https://nipomoseniorcenter.org/ verified October 2025 -->
 - **Website:** [nipomoseniorcenter.org](https://nipomoseniorcenter.org/)
-- **Location:** 200 E. Dana St., Nipomo <a class="map-link" data-lat="35.044026" data-lon="-120.471889" data-zoom="17" data-label="Nipomo Senior Center">Map</a>
-- **Phone:** [805-929-1615](tel:+1-805-929-1615)
-- **Email:** [contact@nipomoseniorcenter](mailto:contact@nipomoseniorcenter)
-- **Hours:** M–F 9am–1pm
-- Membership: $20/year (includes access to all activities and programs)
-- Notes:
-   - Hosts [**Meals that Connect**](#Meals-that-Connect) lunches
+- **Location:** 200 E. Dana St., Nipomo <a class="map-link" data-lat="35.044026" data-lon="-120.471889" data-zoom="17" data-label="Nipomo Senior Center">Map</a> (entrance on Beechnut St.)
+- **Phone:** [805-929-1615](tel:+1-805-929-1615) <!-- Source: https://nipomoseniorcenter.org/ -->
+- **Email:** [contact@nipomoseniorcenter](mailto:contact@nipomoseniorcenter) <!-- Source: https://nipomoseniorcenter.org/ -->
+- **Hours:** M–F 9am–1pm <!-- Source: https://nipomoseniorcenter.org/ -->
+- Note: Hosts [**Meals that Connect**](#Meals-that-Connect) lunches <!-- Source: https://nipomoseniorcenter.org/ -->
 
 ## Noor Foundation
 
@@ -2327,8 +2338,8 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="North-County-Family-Resource-Center">North County Family Resource Center</a>
 
 - **Website:** [capslo.org/north-county-family-resource-center](https://capslo.org/north-county-family-resource-center/)
-- **Location:** 704 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Family Resource Center">Map</a>
-- **Phone:** [805-440-1878](tel:+1-805-440-1878)
+- **Location:** 704 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Family Resource Center">Map</a> <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+- **Phone:** [805-440-1878](tel:+1-805-440-1878) <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
 - Notes:
    - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
    - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
@@ -2336,33 +2347,27 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="North-County-NeighborAid">North County NeighborAid</a>
 
 - **Website:** [cfsslo.org/north-county-neighboraid](https://cfsslo.org/north-county-neighboraid/)
-- **Location:** 1428 Phillips Lane #203, SLO
-- **Mailing address:** 7343 El Camino Real #346, Atascadero
+- **Location:** 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="North County NeighborAid">Map</a> <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
+- **Mailing address:** 7343 El Camino Real #346, Atascadero <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 - **Phone:** [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 - **Email:** [info@NoCoNeighborAid.org](mailto:info@NoCoNeighborAid.org) <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 - **Hours:** By appointment
+- **How to access:** Make a request by using their [web form](https://cfsslo.org/north-county-neighboraid/)
 - Notes: Grassroots initiative managed by [**Center for Family Strengthening**](#CSF)
-
-## <a id="North-County-Christian-Thrift-Shop">North County Christian Thrift Shop</a>
-
-- **Location:** 9330 El Camino Real, Atascadero <a class="map-link" data-lat="35.467930" data-lon="-120.651700" data-zoom="17" data-label="North County Christian Thrift Shop">Map</a>
-- **Phone:** [805-466-1679](tel:+1-805-466-1679)
-<!-- Note: No website or hours found through online research (as of October 2025); call to verify -->
 
 ## <a id="North-County-Paws-Cause">North County Paws Cause</a>
 
 - **Website:** [northcounty-pawscause.org](https://www.northcounty-pawscause.org/)
-- **Location:** Paso Robles
-- **Phone:** [805-674-8664](tel:+1-805-674-8664)
-- **Email:** [northcountypawscause@gmail.com](mailto:northcountypawscause@gmail.com)
-<!-- Note: Precise street address and hours not available on website (as of October 2025); call or email for details -->
+- **Location:** Paso Robles <!-- Source (based on mailing address): https://www.northcounty-pawscause.org/ -->
+- **Phone:** [805-674-8664](tel:+1-805-674-8664) / [805-674-8664](sms:+1-805-674-8664) <!-- Source: https://www.northcounty-pawscause.org/ -->
+- **Email:** [northcountypawscause@gmail.com](mailto:northcountypawscause@gmail.com) <!-- Source: https://www.northcounty-pawscause.org/ -->
 
 ## <a id="North-County-Care">North County Care Minor Emergency Services</a>
 
-<!-- Source: Web search verified October 2025 -->
-- **Location:** 636 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.621268" data-lon="-120.690517" data-zoom="17" data-label="North County Care Minor Emergency Services">Map</a>
-- **Phone:** [805-238-2422](tel:+1-805-238-2422)
-- **Hours:** M–F 10am–5pm
+<!-- Note: Does not seem to have its own website -->
+- **Location:** 636 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.621268" data-lon="-120.690517" data-zoom="17" data-label="North County Care Minor Emergency Services">Map</a> <!-- Source: https://www.yelp.com/biz/north-county-care-minor-emergency-services-paso-robles -->
+- **Phone:** [805-238-2422](tel:+1-805-238-2422) <!-- Source: https://www.yelp.com/biz/north-county-care-minor-emergency-services-paso-robles -->
+- **Hours:** M–F 10am–5pm <!-- Source: https://www.urgentcare.com/practice/U4378-north-county-care-minor-services-paso-robles-ca-93446 -->
 <!-- Dr. Boyce C. Kiger, NPI 1518003227; not listed in CenCal provider directory -->
 <!-- Note: Unable to verify insurance acceptance including Medicare/Medi-Cal through online research (October 2025) -->
 
@@ -2370,15 +2375,13 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Website:** [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
 - **Location:** 494 Air Park Dr., Oceano <a class="map-link" data-lat="35.104656" data-lon="-120.625624" data-zoom="17" data-label="Oceano Campground">Map</a>
-- **Phone:** [805-781-4900](tel:+1-805-781-4900) M–Th 8am–4:30pm; F–Su 8am–6pm, [805-781-5930](tel:+1-805-781-5930) (reservations)
+- **Phone:** [805-781-4900](tel:+1-805-781-4900) <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ --> M–Th 8am–4:30pm; F–Su 8am–6pm, [805-781-5930](tel:+1-805-781-5930) (reservations)
 
 ## <a id="Open-Arms-Pantry">Open Arms Pantry at Rock Harbor</a>
 
-<!-- Source: https://food-banks.org/detail/rock_harbor_christian_fellowship_open_arms_pantry_morro_bay_ca.html -->
-- **Location:** Rock Harbor Christian Fellowship, 1475 Quintana Rd., Morro Bay <a href="#" class="map-link" data-lat="35.363751" data-lon="-120.824600" data-zoom="17" data-label="Open Arms Pantry at Rock Harbor">Map</a>
-- **Phone:** [805-772-7365](tel:+1-805-772-7365)
-- **Hours:** Sa 10am–Noon; also available throughout the week on a walk-in basis
-<!-- Note: No dedicated website found (as of October 2025); part of Rock Harbor Christian Fellowship -->
+- **Location:** Rock Harbor Christian Fellowship, 1475 Quintana Rd., Morro Bay <a href="#" class="map-link" data-lat="35.363751" data-lon="-120.824600" data-zoom="17" data-label="Open Arms Pantry at Rock Harbor">Map</a> <!-- Source: https://rockharborcf.com/other-ministries -->
+- **Phone:** [805-799-7031](tel:+1-805-799-7031) <!-- Source: https://rockharborcf.com/other-ministries -->
+- **Hours:** Sa 9:30–10:30am; also available throughout the week on a walk-in basis <!-- Source: https://rockharborcf.com/other-ministries -->
 
 ## Outreach Apparel
 
@@ -2388,7 +2391,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 > *See also [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
-- **Location:** 1320 Nipomo St., SLO <a class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">Map</a>
+- **Location:** 1320 Nipomo St., SLO <a class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">Map</a> <!-- Source: I went there in person -DG -->
 - **Phone:** [805-544-4004](tel:+1-805-544-4004)
 - **Hours:** M–F 10am–3pm
 - **How to access:** Walk-ins OK

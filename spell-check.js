@@ -25,7 +25,7 @@ const WHITELIST = new Set([
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
   'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO', 'LinkedIn', 'SkillsBuild',
   'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba', 'flexercise', 'BarreConnect',
-  'GriefShare', 'Alateen', 'Narateen', 'Overeaters', 'MaMa', 'Intergroup',
+  'GriefShare', 'Alateen', 'Narateen', 'Overeaters', 'MaMa', 'Intergroup', 'Brookside',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
@@ -42,7 +42,7 @@ const WHITELIST = new Set([
   'Margarita', 'Shandon', 'Creston', 'Paso', 'Robles', 'Baywood', 'Simeon', 'Estero', 'Woodlands',
   'Callender', 'Betteravia', 'Orcutt', 'Guadalupe', 'Santa', 'Maria', 'Halcyon', 'Leoni',
   'Rockaway', 'Barka', 'Balay', 'Ko', 'Toscano', 'Moylan', 'El', 'Camino', 'Solana', 'Laguna',
-  'Ventura', 'Carmel', 'Tiburon', 'Goleta', 'Cuyama', 'Cotchett', 'Wye', 'Shamel', 'Ynez',
+  'Ventura', 'Carmel', 'Tiburon', 'Goleta', 'Cuyama', 'Cotchett', 'Wye', 'Shamel', 'Ynez', 'Lompoc',
 
   // Street types and names
   'St', 'Ave', 'Rd', 'Dr', 'Blvd', 'Ln', 'Ct', 'Cir', 'Pkwy', 'Pl', 'Higuera', 'Monterey',
@@ -76,6 +76,7 @@ const WHITELIST = new Set([
   'Lyft', 'vanpool', 'motorhome', 'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes',
   'microchipping', 'décor', 'Vite', 'DOMPurify', 'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite',
   'hemoccult', 'hydrocortisone', 'Rummikub', 'breathwork', 'amyotrophic', 'Latinx', 'transmasculine',
+  'mimetext', 'OpenDyslexic',
 
   // Hyphenated prefixes
   'pre', 'tri',

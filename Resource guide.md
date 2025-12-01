@@ -1053,8 +1053,8 @@ Thrift stores sell second-hand (used) clothing at low prices.
 
 **Atascadero:**
 
+- [**Brookside Thrift**](Directory.md#Brookside-Thrift)
 - [**Goodwill Store**](Directory.md#Goodwill)
-- [**North County Christian Thrift Shop**](Directory.md#North-County-Christian-Thrift-Shop)
 - [**Village Thrift**](Directory.md#Village-Thrift)
 
 **Grover Beach:**
@@ -3893,6 +3893,7 @@ Here are some of these local guides:
 
 - [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): a comprehensive guide covering services for seniors in SLO and Santa Barbara Counties. Also exists as a searchable on-line directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
 - [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services): available in English and Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, and healthcare
+- [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): United Way’s directory of SLO County resources
 - [Community Support Services](https://5chc.org/community-services): a list of services available in southern SLO County, maintained by 5Cities Homeless Coalition
 - [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): SLO County Public Health Agency’s directory of resources
