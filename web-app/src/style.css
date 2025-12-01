@@ -1476,6 +1476,46 @@ tbody tr:hover {
   display: flex;
 }
 
+/* Directional indicators for TOC button */
+#toc-btn::before,
+#toc-btn::after {
+  position: absolute;
+  font-size: 16px;
+  color: var(--brand-blue);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+/* Up arrow when TOC is above viewport */
+#toc-btn.toc-above::before {
+  content: "⌃";
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0.8;
+}
+
+/* Down arrow when TOC is below viewport */
+#toc-btn.toc-below::after {
+  content: "⌄";
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0.8;
+}
+
+/* Highlight button when TOC is in viewport */
+#toc-btn.toc-in-view {
+  background-color: #059669;
+  box-shadow: 0 4px 12px rgba(5, 150, 105, 0.4), 0 0 0 3px rgba(5, 150, 105, 0.2);
+}
+
+#toc-btn.toc-in-view:hover {
+  background-color: #047857;
+  box-shadow: 0 6px 16px rgba(5, 150, 105, 0.5), 0 0 0 4px rgba(5, 150, 105, 0.3);
+}
+
 /* Font size control button */
 #font-size-btn {
   position: fixed;
@@ -2012,6 +2052,19 @@ body.opendyslexic-enabled a {
     font-size: 20px;
     top: 85px;
     right: 15px;
+  }
+
+  #toc-btn::before,
+  #toc-btn::after {
+    font-size: 14px;
+  }
+
+  #toc-btn.toc-above::before {
+    top: -18px;
+  }
+
+  #toc-btn.toc-below::after {
+    bottom: -18px;
   }
 
   .feedback-fab {

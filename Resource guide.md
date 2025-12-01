@@ -24,7 +24,7 @@ If you want to suggest corrections or improvements, or to join our development t
 
 -----
 
-## <a id="table-of-contents">Table of Contents</a>
+## <a id="table-of-contents">Table of Contents</a> 📖
 
 1. [Hotlines and Emergencies](#emergency-contacts)
 1. [Self-Advocacy](#self-advocacy)

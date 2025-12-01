@@ -176,6 +176,38 @@ function initTOCButton() {
     }
   }
 
+  // Update button state based on TOC position relative to viewport
+  function updateTOCButtonState() {
+    const tocHeading = document.querySelector('#resources-section a[id="table-of-contents"]');
+    if (!tocHeading) return;
+
+    const tocRect = tocHeading.getBoundingClientRect();
+    const viewportHeight = window.innerHeight;
+
+    // Check if TOC is in viewport
+    const isInView = tocRect.top >= 0 && tocRect.bottom <= viewportHeight;
+
+    // Check if TOC is above or below viewport
+    const isAbove = tocRect.bottom < 0;
+    const isBelow = tocRect.top > viewportHeight;
+
+    // Update classes
+    tocBtn.classList.toggle('toc-in-view', isInView);
+    tocBtn.classList.toggle('toc-above', isAbove);
+    tocBtn.classList.toggle('toc-below', isBelow);
+
+    // Update aria-label for better accessibility
+    if (isInView) {
+      tocBtn.setAttribute('aria-label', 'Table of contents (currently visible)');
+    } else if (isAbove) {
+      tocBtn.setAttribute('aria-label', 'Jump up to table of contents');
+    } else if (isBelow) {
+      tocBtn.setAttribute('aria-label', 'Jump down to table of contents');
+    } else {
+      tocBtn.setAttribute('aria-label', 'Jump to table of contents');
+    }
+  }
+
   // Click handler - scroll to Table of Contents
   tocBtn.addEventListener('click', () => {
     // Find the TOC heading in the resources section
@@ -189,6 +221,7 @@ function initTOCButton() {
   function updateTOCButtonVisibility() {
     if (state.currentSection === 'resources') {
       tocBtn.classList.add('visible');
+      updateTOCButtonState();
     } else {
       tocBtn.classList.remove('visible');
     }
@@ -199,6 +232,13 @@ function initTOCButton() {
 
   // Update position on window resize (handles search bar wrapping)
   window.addEventListener('resize', updateTOCButtonPosition);
+
+  // Update button state on scroll
+  window.addEventListener('scroll', () => {
+    if (state.currentSection === 'resources') {
+      updateTOCButtonState();
+    }
+  });
 
   // Also update position after a short delay to ensure header is fully rendered
   setTimeout(updateTOCButtonPosition, 100);
