@@ -25,7 +25,7 @@ const WHITELIST = new Set([
   'Middlehouse', 'Gryphon', 'Removery', 'nitiative', 'Orfalea', 'beermoney', 'EPaCE', 'HiSET',
   'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO', 'LinkedIn', 'SkillsBuild',
   'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba', 'flexercise', 'BarreConnect',
-  'GriefShare', 'Alateen', 'Narateen', 'Overeaters', 'MaMa',
+  'GriefShare', 'Alateen', 'Narateen', 'Overeaters', 'MaMa', 'Intergroup',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
@@ -57,6 +57,7 @@ const WHITELIST = new Set([
   'Kilbern', 'Entrada', 'Breck', 'Corrida', 'Carmelita', 'Ferrocarril', 'Junipero', 'Mariquita',
   'Palma', 'Powerline', 'Viscano', 'Pineridge', 'Weymouth', 'Cass', 'Lucerne', 'Bayview', 'Loma',
   'Olivos', 'Pecho', 'Tierra', 'Cabrillo', 'Jacinto', 'Sandydale', 'Ranchita', 'Wessels',
+  'Beurden',
 
   // Personal Names
   'Anna', 'Judson', 'DeVaul', 'Macadero', 'Cleaver', 'Clark', 'Halcyon', 'Willow', 'Madonna',

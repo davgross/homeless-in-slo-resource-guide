@@ -3304,7 +3304,7 @@ SLO County youth (ages 21 or below, or current or former foster youth up to age 
 Enhanced Care Management teams you up with a professional who can help you find medical providers, make appointments, arrange transportation to appointments, and meet other healthcare needs.
 To apply for Enhanced Care Management, contact [**CenCal Health**](Directory.md#CenCal) who can walk you through the process, or reach out to Seneca Central Coast directly.
 
-[**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) has a [Teen Center](https://www.atascadero.org/service/teen-center), open weekday afternoons until 6pm, with air hockey, pool, ping pong, PS5, movies, boardgames, dodgeball, and basketball.
+[**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) has a [Teen Center](https://www.atascadero.org/service/teen-center), open weekday afternoons until 6pm, with air hockey, pool, ping pong, PS5, movies, board games, dodgeball, and basketball.
 Membership is $20/year.
 Atascadero Recreation also has organized sports programs, classes, and camps.
 There is a Youth Activity Scholarship Fund that can pay for up to $250 per child in registration fees for qualifying children in the Atascadero School District ([details here](https://www.atascadero.org/sites/default/files/Scholarship%20application%20English%20%28fiscal%20year%202025-2026%29.pdf))

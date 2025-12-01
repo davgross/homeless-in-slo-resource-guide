@@ -1113,8 +1113,8 @@
    - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
 - Notes:
    - Basic Needs Office is in room 5014B of the SLO campus, open M/Th/F 9am–4pm, Tu 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
-   - The Paso Robles campus hosts a Cougat Food Pantry for students in room N1005, M–F 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
-   - The SLO campus hosts a Cougat Food Pantry for students in room 5014A’s cafeteria, M–F 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - The Paso Robles campus hosts a Cougar Food Pantry for students in room N1005, M–F 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - The SLO campus hosts a Cougar Food Pantry for students in room 5014A’s cafeteria, M–F 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programs are open to otherwise unenrolled people
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) has vocational / lifetime-learning programs, and ESL
    - Partners with [**The Bridge Cafe**](#Restorative-Partners) for its Culinary Arts program
@@ -2120,33 +2120,35 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Marijuana-Anonymous">Marijuana Anonymous</a>
 
 - **Website:** [marijuana-anonymous.org](https://marijuana-anonymous.org/)
+- **Location:** 2939 Augusta St., SLO <a href="#" class="map-link" data-lat="35.267094" data-lon="-120.641232" data-zoom="17" data-label="Marijuana Anonymous">Map</a> <!-- Source: https://marijuana-anonymous.org/meetings/?region=united-states&view=map --> ([**Middlehouse**](#Middlehouse))
+- **Phone:** [800-766-6779](tel:+1-800-766-6779) <!-- Source: https://marijuana-anonymous.org/ -->
+- **Email:** [slo.marijuana.anonymous@gmail.com](mailto:slo.marijuana.anonymous@gmail.com) <!-- Source: https://marijuana-anonymous.org/meetings/137502-200?region=united-states&view=map -->
+- **Hours:** 6:30–7:30pm on Mondays <!-- Source: https://marijuana-anonymous.org/meetings/?region=united-states&view=map -->
 
 ## <a id="Marthas-Place-Childrens-Center">Martha’s Place Children’s Center</a>
 
 - **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/marthas-place-childrens-center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center)
-- **Location:** 2925 McMillan Ave. #108, SLO <a class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="Martha’s Place Children’s Center">Map</a>
-- **Phone:** [805-781-4948](tel:+1-805-781-4948)
-- **Hours:** M–F 8am–5pm
+- **Location:** 2925 McMillan Ave. #108, SLO <a class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="Martha’s Place Children’s Center">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
+- **Phone:** [805-781-4948](tel:+1-805-781-4948) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
+- **Hours:** M–F 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 - Notes: For children ages 0–5 with behavioral or mental health issues
 
 ## <a id="Meals-that-Connect">Meals that Connect</a>
 
 - **Website:** [mealsthatconnect.org](https://mealsthatconnect.org/en/)
-- **Location:** 265 South St. #B, SLO <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Meals that Connect">Map</a> (office)
+- **Location:** 265 South St. #B, SLO <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Meals that Connect">Map</a> (office) <!-- Source: https://mealsthatconnect.org/en/ -->
    - Serves meals in Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
-   - Also does some home delivery
-- **Phone:** [805-541-3312](tel:+1-805-541-3312)
-- **Email:** [officeadmin@mealsthatconnect.org](mailto:officeadmin@mealsthatconnect.org)
+   - Also does some home delivery <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
+- **Phone:** [805-541-3312](tel:+1-805-541-3312) <!-- Source: https://mealsthatconnect.org/en/ -->
+- **Email:** [officeadmin@mealsthatconnect.org](mailto:officeadmin@mealsthatconnect.org) <!-- Source: https://mealsthatconnect.org/en/ -->
 - **Hours:** (varies by site)
-- **How to access:** open to people aged 60 and above; complete an application
+- **How to access:** open to people aged 60 and above; complete an application <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#eligibility -->
 
 ## <a id="Medi-Cal">Medi-Cal</a>
 
 > *See also: [**CenCal**](#CenCal)*
 
-- **Locations:**
-   - 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="Med-Cal">Map</a>
-   - 3433 S. Higuera St., SLO <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="Med-Cal">Map</a>
+- **Locations:** *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 - Medi-Cal Dental:
    - **Website:** [www.denti-cal.ca.gov](http://www.denti-cal.ca.gov/)
    - **Phone:** [800-322-6384](tel:+1-800-322-6384) (TTY: [800-735-2922](tel:+1-800-735-2922))
@@ -2155,34 +2157,40 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - **Phone:** [800-977-2273](tel:+1-800-977-2273)
 - Medi-Cal Shuttle: *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 - Notes:
-   - [**CenCal Health**](#CenCal) is the local Medi-Cal administrator
-   - Apply at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/)
+   - [**CenCal Health**](#CenCal) is the local Medi-Cal administrator <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
+   - Apply at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/) or in person at local DSS offices <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
 
 ## <a id="Medically-Fragile-Homeless-Program">Medically Fragile Homeless Program</a>
 
 - **Website:** [cfsslo.org/#mfh](https://cfsslo.org/#mfh)
+- **Email:** [carrie@linkslo.org](mailto:carrie@linkslo.org) <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
 - Notes:
    - Access through [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) or [**Housing Support Program (HSP)**](#Housing-Support-Program) or [**Adult Protective Services**](#Adult-Protective-Services) or [**CalWORKs**](#CalWORKs)
    - Operated by [**Center for Family Strengthening (CSF)**](#CSF)
 
 ## <a id="MISP">Medically Indigent Services Program (MISP)</a>
 
-- **Location:** 2180 Johnson Ave., SLO <a class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="Medically Indigent Services Program">Map</a>
-- **Phone:** [805-781-5500](tel:+1-805-781-5500)
-- **Hours:** M–F 8am–5pm (closed Noon–1pm)
-<!-- Note: Unable to locate dedicated web page through online research (as of October 2025); may be part of SLO County Public Health Department -->
+- **Website:** [slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-(misp)](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-%28misp%29)
+- **Location:** 2180 Johnson Ave., SLO <a class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="Medically Indigent Services Program">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-(misp) -->
+- **Phone:** [805-781-5500](tel:+1-805-781-5500) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-(misp) -->
+- **Hours:** M–F 8am–5pm (closed Noon–1pm) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-(misp) -->
 
 ## <a id="MedStop">MedStop</a>
 
 - **Website:** [medstopurgentcare.com](https://medstopurgentcare.com/)
-- **Location:** 283 Madonna Rd. Suite B (Madonna Plaza), SLO
-- **Phone:** [805-549-8880](tel:+1-805-549-8880)
-- **Hours:** M–F 8am–7pm, Sa.–Su. 8am–4pm
+- **Location:** 283 Madonna Rd. Suite B (Madonna Plaza), SLO <!-- Source: https://medstopurgentcare.com/ -->
+- **Phone:** [805-549-8880](tel:+1-805-549-8880) <!-- Source: https://medstopurgentcare.com/ -->
+- **Hours:** M–F 8am–7pm, Sa.–Su. 8am–4pm <!-- Source: https://medstopurgentcare.com/ -->
 
 ## <a id="MHET">Mental Health Evaluation Team</a> / <a id="Mobile-Crisis-Team">Mobile Crisis Team</a>
 
+- **Website:**
+   - MHET: [slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-(mhet)](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-%28mhet%29)
+   - Mobile Crisis Team: [https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct)](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-%28mct%29)
 - **Location:** county-wide
-- **Phone:** [800-783-0607](tel:+1-800-783-0607) / [800-838-1381](tel:+1-800-838-1381)
+- **Phone:**
+   - MHET: [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-(mhet) -->
+   - Mobile Crisis Team: [800-783-0607](tel:+1-800-783-0607) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct) -->
 
 ## Mental Health Services
 
@@ -2192,8 +2200,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 <!-- Source: http://middlehouse.org/ -->
 - **Website:** [middlehouse.org](https://middlehouse.org/)
-- **Location:** 2939 Augusta St., SLO <a class="map-link" data-lat="35.267094" data-lon="-120.641232" data-zoom="17" data-label="Middlehouse">Map</a>
-- **Phone:** [805-544-8328](tel:+1-805-544-8328)
+- **Location:** 2939 Augusta St., SLO <a class="map-link" data-lat="35.267094" data-lon="-120.641232" data-zoom="17" data-label="Middlehouse">Map</a> <!-- Source: https://middlehouse.org/ -->
+- **Phone:** [805-544-8328](tel:+1-805-544-8328) <!-- Source: https://middlehouse.org/ -->
+- **Email:** [middlehouse93401@gmail.com](mailto:middlehouse93401@gmail.com) <!-- Source: https://middlehouse.org/ -->
 
 ## Minister’s Discretionary Fund
 
@@ -2201,11 +2210,11 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Mission-Thrift">Mission Thrift</a>
 
-<!-- Source: https://www.omsslo.org/parents/mission-thrift-store -->
-- **Website:** [omsslo.org/parents/mission-thrift-store](https://www.omsslo.org/parents/mission-thrift-store)
-- **Location:** 2958 S. Higuera St., SLO <a class="map-link" data-lat="35.259753" data-lon="-120.668913" data-zoom="17" data-label="Mission Thrift">Map</a>
-- **Phone:** [805-548-2660](tel:+1-805-548-2660)
-- **Hours:** M–Sa 12pm–5pm
+- **Website:** [omsslo.org/apps/pages/index.jsp?uREC_ID=3643070&type=d&pREC_ID=2413322](https://www.omsslo.org/apps/pages/index.jsp?uREC_ID=3643070&type=d&pREC_ID=2413322)
+- **Location:** 2958 S. Higuera St., SLO <a class="map-link" data-lat="35.259753" data-lon="-120.668913" data-zoom="17" data-label="Mission Thrift">Map</a> <!-- Source: https://www.omsslo.org/apps/pages/index.jsp?uREC_ID=3643070&type=d&pREC_ID=2413322 -->
+- **Phone:** [805-548-2660](tel:+1-805-548-2660) <!-- Source: https://www.omsslo.org/apps/pages/index.jsp?uREC_ID=3643070&type=d&pREC_ID=2413322 -->
+- **Email:** [Morradre@omsslo.com](mailto:Morradre@omsslo.com) <!-- Source: https://www.facebook.com/MissionThriftSLO/ -->
+- **Hours:** M–Sa 12pm–5pm <!-- Source: https://www.facebook.com/MissionThriftSLO/ -->
 
 ## Mobile Crisis Team
 
@@ -2213,41 +2222,42 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Mobile-Crisis-Unit">Mobile Crisis Unit</a>
 
+- **Website:** [slocity.org/government/department-directory/fire-department/mobile-crisis-unit-mcu](https://www.slocity.org/government/department-directory/fire-department/mobile-crisis-unit-mcu)
 - **Location:** SLO city only
-- **Phone:** [800-781-7312](tel:+1-800-781-7312)
+- **Phone:**
+   - [805-550-7270](tel:+1-805-550-7270) <!-- Source: https://www.slocity.org/government/department-directory/fire-department/mobile-crisis-unit-mcu -->
+   - [805-781-7312](tel:+1-805-781-7312) <!-- Source: https://www.slocity.org/government/department-directory/fire-department/mobile-crisis-unit-mcu -->
 - **Hours:** M–Th 8am–5:30pm; every other Friday 8am–5:30pm
 
 ## <a id="Morro-Bay-Lions-Foundation">Morro Bay Lions Foundation</a>
 
-<!-- Source: https://morrobayseniors.org/resources/ -->
-- **Location:** Morro Bay Vets Memorial Building, 209 Surf St., Morro Bay <a href="#" class="map-link" data-lat="35.370461" data-lon="-120.853497" data-zoom="17" data-label="Morro Bay Lions Foundation">Map</a>
+- **Website:** [morrobaylions.org/2025/07/24/community-dinners-at-vets-hall](https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/)
+- **Location:** Morro Bay Vets Memorial Building, 209 Surf St., Morro Bay <a href="#" class="map-link" data-lat="35.370461" data-lon="-120.853497" data-zoom="17" data-label="Morro Bay Lions Foundation">Map</a> <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
 - **Phone:** [805-772-4421](tel:+1-805-772-4421)
 - **Hours:**
-   - Mondays: 4:30pm (doors open for pantry shopping, free clothes, towels, toiletries)
-   - Dinner service: 5–5:45pm
+   - Mondays: 4:30pm (doors open for pantry shopping, free clothes, towels, toiletries) <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
+   - Dinner service: 5:30–6:30pm <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
 
 ## <a id="Morro-Bay-Senior-Center">Morro Bay Senior Citizens</a>
 
-<!-- Source: https://morrobayseniors.org/ verified October 2025 -->
 - **Website:** [morrobayseniors.org](https://morrobayseniors.org/)
-- **Location:** 1001 Kennedy Way, Morro Bay <a class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Senior Center">Map</a>
-- **Phone:** [805-772-4421](tel:+1-805-772-4421)
+- **Location:** 1001 Kennedy Way, Morro Bay <a class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Senior Center">Map</a> <!-- Source: https://morrobayseniors.org/ -->
+- **Phone:** [805-772-4421](tel:+1-805-772-4421) <!-- Source: https://morrobayseniors.org/ -->
 - **Email:**
    - [info@morrobayseniors.org](mailto:info@morrobayseniors.org) <!-- Source: https://morrobayseniors.org/help/ -->
    - [mbactivesrs@gmail.com](mailto:mbactivesrs@gmail.com) <!-- Source: https://morrobayseniors.org/about/ -->
-- **Hours:** M–F 9am–4pm
-- Membership: $25/year individual, $40/year household (90+ free); open to people 55+
+- **Hours:** M–F 9am–4pm <!-- Source: https://morrobayseniors.org/about/ -->
+- Membership: $25/year individual, $40/year household (90+ free); open to people 55+ <!-- Source: https://morrobayseniors.org/about/ -->
 - Notes:
    - Hosts [**HiCAP**](#HiCAP)
    - Hosts [**Senior Legal Services Project**](#Senior-Legal-Services-Project) on the first Friday of the month
 
 ## <a id="Morro-Bay-Parks-and-Recreation">Morro Bay Parks & Recreation</a>
 
-<!-- Source: https://www.morrobayca.gov/292/Recreation-Services verified October 2025 -->
 - **Website:** [morrobayca.gov/292/Recreation-Services](https://www.morrobayca.gov/292/Recreation-Services)
-- **Location:** Morro Bay Community Center, 1001 Kennedy Way, Morro Bay <a href="#" class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Parks and Recreation">Map</a>
-- **Phone:** [805-772-6278](tel:+1-805-772-6278)
-- **Email:** [kcarmichael@morrobayca.gov](mailto:kcarmichael@morrobayca.gov)
+- **Location:** Morro Bay Community Center, 1001 Kennedy Way, Morro Bay <a href="#" class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Parks and Recreation">Map</a> <!-- Source: https://www.morrobayca.gov/292/Recreation-Services -->
+- **Phone:** [805-772-6278](tel:+1-805-772-6278) <!-- Source: https://www.morrobayca.gov/292/Recreation-Services -->
+- **Email:** [kcarmichael@morrobayca.gov](mailto:kcarmichael@morrobayca.gov) <!-- Source: https://www.morrobayca.gov/292/Recreation-Services -->
 - **Hours:** M–F 8:30am–5pm (registration)
 
 ## My Home for Hope
