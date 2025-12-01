@@ -39,3 +39,5 @@
    - Also: something they can display for their clients w/QR code
 
 1. Create promotional poster for STP sites
+
+1. Have font-size feature also give the user the option of choosing the "OpenDyslexic" font, whereupon that font is used as the body default and also for h1/h2/etc. headings, nav-btn elements, and anchor links.
