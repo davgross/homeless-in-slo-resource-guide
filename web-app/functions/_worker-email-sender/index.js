@@ -48,8 +48,8 @@ export default {
         data: emailData.content
       });
 
-      // Add Reply-To header if provided
-      if (emailData.replyTo) {
+      // Add Reply-To header if provided and valid
+      if (emailData.replyTo && emailData.replyTo.trim() && emailData.replyTo.includes('@')) {
         msg.setHeader('Reply-To', emailData.replyTo);
       }
 
