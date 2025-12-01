@@ -1,0 +1,10 @@
+{
+  "name": "email-sender-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker for sending emails via Email Routing",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "mimetext": "^3.0.27"
+  }
+}

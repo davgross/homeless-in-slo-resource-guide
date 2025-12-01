@@ -4,6 +4,9 @@
  * and provides email sending capabilities without third-party dependencies
  */
 
+import { EmailMessage } from 'cloudflare:email';
+import { createMimeMessage } from 'mimetext';
+
 export default {
   async fetch(request, env) {
     // Only accept POST requests
@@ -31,25 +34,32 @@ export default {
         });
       }
 
-      // Construct the email using EmailMessage
-      // Note: The 'from' address must use a domain where Email Routing is active
-      const message = {
-        from: emailData.from || {
-          email: 'noreply@vivaslo.org',
-          name: 'SLO Homeless Resource Guide'
-        },
-        to: [{ email: emailData.to }],
-        subject: emailData.subject,
-        text: emailData.content
-      };
+      // Determine sender info
+      const fromEmail = emailData.from?.email || 'noreply@vivaslo.org';
+      const fromName = emailData.from?.name || 'SLO Homeless Resource Guide';
 
-      // Add reply-to if provided
+      // Build MIME message using mimetext
+      const msg = createMimeMessage();
+      msg.setSender({ name: fromName, addr: fromEmail });
+      msg.setRecipient(emailData.to);
+      msg.setSubject(emailData.subject);
+      msg.addMessage({
+        contentType: 'text/plain',
+        data: emailData.content
+      });
+
+      // Add Reply-To header if provided
       if (emailData.replyTo) {
-        message.reply_to = { email: emailData.replyTo };
+        msg.setHeader('Reply-To', emailData.replyTo);
       }
 
-      // Send the email using the Email Routing binding
-      // The EMAIL binding is configured in wrangler.toml
+      // Create EmailMessage and send via Email Routing binding
+      const message = new EmailMessage(
+        fromEmail,
+        emailData.to,
+        msg.asRaw()
+      );
+
       await env.EMAIL.send(message);
 
       return new Response(JSON.stringify({

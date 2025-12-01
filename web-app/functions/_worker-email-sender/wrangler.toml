@@ -4,6 +4,7 @@
 name = "email-sender-worker"
 main = "index.js"
 compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
 
 # Email Routing binding
 # NOTE: Before deploying, you must:
