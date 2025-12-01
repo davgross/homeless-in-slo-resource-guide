@@ -12,7 +12,8 @@ This document contains the full license texts for all third-party open-source li
 4. [vite-plugin-pwa](#vite-plugin-pwa) - MIT License
 5. [mimetext](#mimetext) - MIT License
 6. [Montserrat Alternates Font](#montserrat-alternates-font) - SIL Open Font License 1.1
-7. [Poison Oak Images](#poison-oak-images) - CC BY 2.0, CC BY-SA 4.0, CC0 1.0
+7. [OpenDyslexic Font](#opendyslexic-font) - SIL Open Font License 1.1
+8. [Poison Oak Images](#poison-oak-images) - CC BY 2.0, CC BY-SA 4.0, CC0 1.0
 
 ---
 
@@ -275,6 +276,29 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 ---
 
+## OpenDyslexic Font
+
+**Homepage:** [https://opendyslexic.org/](https://opendyslexic.org/)
+**Repository:** [https://github.com/antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic)
+**Designer:** Abbie Gonzalez
+**License:** SIL Open Font License 1.1
+
+OpenDyslexic is an accessibility font designed to increase readability for readers with dyslexia. The font uses weighted bottoms to help prevent letter confusion and improve reading flow.
+
+This font is licensed under the same SIL Open Font License 1.1 as Montserrat Alternates (see above for full license text). The font is used as an optional accessibility feature that users can enable via the text size control menu.
+
+```plaintext
+Copyright (c) Abbie Gonzalez
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at: http://scripts.sil.org/OFL
+
+For the complete license text, see the Montserrat Alternates Font section above,
+as both fonts use the identical SIL Open Font License 1.1.
+```
+
+---
+
 ## Poison Oak Images
 
 ### poison-oak-1.png
@@ -326,9 +350,9 @@ All licenses listed above are permissive open-source licenses that allow:
 
 **Attribution Requirements:**
 
-- Marked, Vite, vite-plugin-pwa: Include copyright notice and license text
+- Marked, Vite, vite-plugin-pwa, mimetext: Include copyright notice and license text
 - DOMPurify: Include copyright notice and choose either Apache 2.0 or MPL 2.0 license text
-- Montserrat Alternates: Optional attribution (recommended but not required)
+- Montserrat Alternates, OpenDyslexic: Optional attribution (recommended but not required)
 
 **License Compatibility:**
 All licenses listed above are compatible with each other and with most common open-source licenses. The license for this project itself has not yet been chosen (see To-do.md).

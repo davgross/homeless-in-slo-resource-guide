@@ -121,6 +121,7 @@ This application uses the following open-source libraries and fonts:
 - [vite-plugin-pwa](https://vite-pwa-org.netlify.app) (MIT License)—Progressive Web App functionality
 - [mimetext](https://github.com/muratgozel/MIMEText) (MIT License)—Email message builder
 - [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates) (SIL Open Font License 1.1)—Display font
+- [OpenDyslexic](https://opendyslexic.org/) (SIL Open Font License 1.1)—Accessibility font option
 
 Full license texts available in [THIRD_PARTY_LICENSES.md](https://github.com/showerthepeopleslo/resource-guide/blob/main/THIRD_PARTY_LICENSES.md).
 

@@ -7,6 +7,7 @@
 const FONT_SIZES = [80, 90, 100, 110, 120, 130, 140, 150];
 const DEFAULT_SIZE_INDEX = 2; // 100%
 const STORAGE_KEY = 'fontSizeIndex';
+const DYSLEXIC_FONT_KEY = 'openDyslexicEnabled';
 
 let currentSizeIndex = DEFAULT_SIZE_INDEX;
 
@@ -19,11 +20,13 @@ export function initFontSizeControl() {
   const decreaseBtn = document.getElementById('font-size-decrease');
   const resetBtn = document.getElementById('font-size-reset');
   const increaseBtn = document.getElementById('font-size-increase');
+  const dyslexicToggle = document.getElementById('opendyslexic-toggle');
 
   if (!fontSizeBtn || !fontSizePopup) return;
 
-  // Load saved preference
+  // Load saved preferences
   loadFontSize();
+  loadDyslexicFont();
 
   // Toggle popup on button click
   fontSizeBtn.addEventListener('click', (e) => {
@@ -47,6 +50,13 @@ export function initFontSizeControl() {
   if (increaseBtn) {
     increaseBtn.addEventListener('click', () => {
       changeFontSize(1);
+    });
+  }
+
+  // OpenDyslexic toggle
+  if (dyslexicToggle) {
+    dyslexicToggle.addEventListener('change', (e) => {
+      toggleDyslexicFont(e.target.checked);
     });
   }
 
@@ -149,5 +159,46 @@ function saveFontSize() {
     localStorage.setItem(STORAGE_KEY, currentSizeIndex.toString());
   } catch (e) {
     console.warn('Could not save font size preference:', e);
+  }
+}
+
+/**
+ * Load OpenDyslexic font preference from localStorage and apply it
+ */
+function loadDyslexicFont() {
+  try {
+    const savedPref = localStorage.getItem(DYSLEXIC_FONT_KEY);
+    const enabled = savedPref === 'true';
+
+    // Update checkbox state
+    const toggle = document.getElementById('opendyslexic-toggle');
+    if (toggle) {
+      toggle.checked = enabled;
+    }
+
+    // Apply font
+    if (enabled) {
+      document.body.classList.add('opendyslexic-enabled');
+    }
+  } catch (e) {
+    console.warn('Could not load OpenDyslexic font preference:', e);
+  }
+}
+
+/**
+ * Toggle OpenDyslexic font on/off
+ */
+function toggleDyslexicFont(enabled) {
+  if (enabled) {
+    document.body.classList.add('opendyslexic-enabled');
+  } else {
+    document.body.classList.remove('opendyslexic-enabled');
+  }
+
+  // Save preference
+  try {
+    localStorage.setItem(DYSLEXIC_FONT_KEY, enabled.toString());
+  } catch (e) {
+    console.warn('Could not save OpenDyslexic font preference:', e);
   }
 }
