@@ -96,7 +96,7 @@ export class FeedbackSystem {
 
           <div id="feedback-success" class="feedback-success" hidden>
             <p>✅ Thank you for your feedback!</p>
-            <p>An email form should have opened in your email app. Please send the email to complete your feedback submission.</p>
+            <p>Your feedback has been submitted successfully. We appreciate your help in improving this guide.</p>
             <button type="button" class="feedback-btn feedback-btn-primary" id="feedback-done">
               Close
             </button>
@@ -337,23 +337,45 @@ export class FeedbackSystem {
 
     // Disable submit button
     submitBtn.disabled = true;
-    submitBtn.textContent = 'Processing...';
+    submitBtn.textContent = 'Sending...';
 
     try {
       // Get form data
       const formData = new FormData(form);
       const name = formData.get('name') || 'Anonymous';
-      const email = formData.get('email') || 'No email provided';
+      const email = formData.get('email') || '';
       const type = formData.get('type');
       const message = formData.get('message');
 
-      // Build email
-      this.sendFeedback({
-        name,
-        email,
-        type,
-        message
+      // Get context
+      const section = document.getElementById('context-section').textContent;
+      const url = document.getElementById('context-url').textContent;
+      const timestamp = document.getElementById('context-timestamp').textContent;
+      const directoryEntry = document.getElementById('context-directory').textContent;
+
+      // Send feedback via API
+      const response = await fetch('/api/feedback', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          name,
+          email,
+          type,
+          message,
+          section,
+          url,
+          timestamp,
+          directoryEntry: directoryEntry || null
+        })
       });
+
+      const result = await response.json();
+
+      if (!response.ok) {
+        throw new Error(result.error || 'Failed to submit feedback');
+      }
 
       // Show success message
       form.hidden = true;
@@ -361,7 +383,7 @@ export class FeedbackSystem {
 
     } catch (error) {
       console.error('Error submitting feedback:', error);
-      alert('There was an error preparing your feedback. Please try again or email us directly at ' + this.recipientEmail);
+      alert('There was an error sending your feedback. Please try again or email us directly at ' + this.recipientEmail);
 
       // Re-enable submit button
       submitBtn.disabled = false;
@@ -369,49 +391,6 @@ export class FeedbackSystem {
     }
   }
 
-  // Send feedback via email
-  sendFeedback(data) {
-    const { name, email, type, message } = data;
-
-    // Get context
-    const section = document.getElementById('context-section').textContent;
-    const url = document.getElementById('context-url').textContent;
-    const timestamp = document.getElementById('context-timestamp').textContent;
-    const directoryEntry = document.getElementById('context-directory').textContent;
-
-    // Build email body
-    let emailBody = `
-FEEDBACK SUBMISSION
-===================
-
-From: ${name}
-Email: ${email}
-Type: ${type}
-Timestamp: ${timestamp}
-
-Current Section: ${section}`;
-
-    if (directoryEntry) {
-      emailBody += `
-Directory Entry: ${directoryEntry}`;
-    }
-
-    emailBody += `
-Page URL: ${url}
-
-MESSAGE:
---------
-${message}
-`;
-
-    // Create mailto link
-    const subject = encodeURIComponent(`Feedback: ${type} - SLO Homeless Resource Guide`);
-    const body = encodeURIComponent(emailBody);
-    const mailtoLink = `mailto:${this.recipientEmail}?subject=${subject}&body=${body}`;
-
-    // Open mailto link
-    window.location.href = mailtoLink;
-  }
 }
 
 // Initialize feedback system
