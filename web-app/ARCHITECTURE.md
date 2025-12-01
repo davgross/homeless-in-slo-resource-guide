@@ -20,7 +20,7 @@ The app bundles markdown content at build time for optimal performance and offli
 2. **Client-Side Rendering**: All markdown parsing and HTML generation happens in the browser
 3. **State Persistence**: LocalStorage saves user position and preferences
 4. **Offline-First**: Service worker caches all assets for offline use
-5. **No Backend Required**: Pure static site, deployable anywhere
+5. **Serverless Backend**: Cloudflare Pages Functions and Workers handle feedback emails
 
 ## Directory Structure
 
@@ -35,10 +35,18 @@ web-app/
 │   ├── style.css           # All CSS styles
 │   ├── markdownParser.js   # Directory entry extraction
 │   ├── linkEnhancer.js     # Smart hyperlink conversion
-│   ├── feedback.js         # Feedback button & email generation
+│   ├── feedback.js         # Feedback button & API submission
 │   ├── shareButton.js      # Share functionality
 │   └── strings.js          # UI text strings
-├── public/                 # Static assets (icons, robots.txt, specialized maps)
+├── public/                 # Static assets (icons, robots.txt, maps)
+│   └── map-feedback.js     # Shared feedback library for map pages
+├── functions/              # Cloudflare Pages Functions (serverless)
+│   ├── api/
+│   │   └── feedback.js     # Feedback API endpoint
+│   └── _worker-email-sender/  # Email sending Worker
+│       ├── index.js        # Worker code
+│       ├── wrangler.toml   # Worker configuration
+│       └── package.json    # Worker dependencies (mimetext)
 └── dist/                   # Production build output
 ```
 
@@ -109,25 +117,34 @@ web-app/
 
 ### 4. feedback.js - User Feedback System
 
-**Purpose**: Allows users to report errors via email
+**Purpose**: Allows users to report errors and suggestions via immediate email sending
 
 **Key Functions**:
 - `initFeedback()`: Sets up feedback button and modal
 - `openFeedbackModal()`: Shows feedback form
-- `sendFeedback()`: Generates pre-filled email with context
+- `handleSubmit()`: Posts feedback data to API endpoint
 
-**Email Template**:
+**Architecture**:
 ```
-To: feedback@example.com
-Subject: Resource Guide Feedback
-
-Page: [current section]
-Entry: [if viewing directory entry]
-URL: [full URL with hash]
-User Agent: [browser info]
-
-[User's message]
+User submits form
+    ↓
+POST /api/feedback (Pages Function)
+    ↓
+Service Binding to Email Worker
+    ↓
+Cloudflare Email Routing
+    ↓
+Email delivered to recipient
 ```
+
+**Email Content Includes**:
+- User's name (optional)
+- User's email (optional, for reply)
+- Feedback type
+- Message content
+- Current section/page context
+- URL with anchor
+- Timestamp
 
 ### 5. shareButton.js - Share Functionality
 
@@ -178,6 +195,41 @@ User Agent: [browser info]
 - Primary Orange: #e75e13
 - White: #ffffff
 - Plus semantic colors for links, visited, etc.
+
+### 8. Serverless Backend - Feedback Email System
+
+**Purpose**: Sends feedback emails immediately without requiring user's email client
+
+**Architecture**:
+```
+Pages Function (/api/feedback)
+    ↓ (Service Binding)
+Email Worker (email-sender-worker)
+    ↓ (Email Routing Binding)
+Cloudflare Email Routing
+    ↓
+Recipient Email
+```
+
+**Components**:
+
+#### functions/api/feedback.js (Pages Function)
+- Receives POST requests from frontend
+- Validates and formats feedback data
+- Calls email-sender-worker via service binding
+- Returns success/error response
+
+#### _worker-email-sender (Cloudflare Worker)
+- Uses `mimetext` library to construct RFC-5322 compliant emails
+- Sends via Cloudflare Email Routing binding
+- Supports Reply-To headers when user provides email
+- Handles errors with detailed logging
+
+**Configuration Requirements**:
+1. Email Routing enabled for domain
+2. Destination email verified in Cloudflare
+3. Service binding configured in Pages settings
+4. Worker deployed with email binding
 
 ## Data Flow
 
@@ -532,29 +584,45 @@ See README.md for Apache/Nginx configs
 
 ## Dependencies Explanation
 
-### marked (14.1.3)
+### Frontend Dependencies
+
+#### marked (14.1.3)
 - Converts markdown to HTML
 - Supports GitHub Flavored Markdown
 - Configurable with extensions
 - Used in: `markdownParser.js`
 
-### DOMPurify (3.2.2)
+#### DOMPurify (3.2.2)
 - Sanitizes HTML to prevent XSS
 - Removes dangerous tags/attributes
 - Used after markdown parsing
 - Used in: `markdownParser.js`
 
-### vite (6.0.5)
+#### vite (6.0.5)
 - Build tool and dev server
 - Hot module replacement
 - ES modules support
 - Tree shaking and minification
 
-### vite-plugin-pwa (0.21.1)
+#### vite-plugin-pwa (0.21.1)
 - Generates service worker
 - Creates PWA manifest
 - Handles cache strategies
 - Enables offline functionality
+
+### Backend Dependencies (Email Worker)
+
+#### mimetext (3.0.27)
+- RFC-5322 compliant MIME message builder
+- Used to construct properly formatted emails
+- Handles headers, encoding, and message structure
+- Used in: `functions/_worker-email-sender/index.js`
+
+#### cloudflare:email (built-in)
+- Cloudflare's Email Routing API
+- Provides EmailMessage class
+- Native Workers runtime module
+- No separate installation required
 
 ## Code Style Guidelines
 
