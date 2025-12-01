@@ -23,8 +23,8 @@ export function initMapFeedback(config) {
   // Open feedback modal
   feedbackBtn.addEventListener('click', () => {
     feedbackModal.classList.add('show');
-    feedbackForm.hidden = false;
-    feedbackSuccess.hidden = true;
+    feedbackForm.style.display = 'block';
+    feedbackSuccess.style.display = 'none';
     feedbackText.focus();
   });
 
@@ -32,8 +32,8 @@ export function initMapFeedback(config) {
   function closeFeedbackModal() {
     feedbackModal.classList.remove('show');
     feedbackForm.reset();
-    feedbackForm.hidden = false;
-    feedbackSuccess.hidden = true;
+    feedbackForm.style.display = 'block';
+    feedbackSuccess.style.display = 'none';
   }
 
   // Cancel button
@@ -102,8 +102,8 @@ export function initMapFeedback(config) {
       }
 
       // Show success message
-      feedbackForm.hidden = true;
-      feedbackSuccess.hidden = false;
+      feedbackForm.style.display = 'none';
+      feedbackSuccess.style.display = 'block';
 
     } catch (error) {
       console.error('Error sending feedback:', error);

@@ -5,7 +5,7 @@
  */
 
 import { EmailMessage } from 'cloudflare:email';
-import { createMimeMessage } from 'mimetext';
+import { createMimeMessage, Mailbox } from 'mimetext';
 
 export default {
   async fetch(request, env) {
@@ -38,6 +38,14 @@ export default {
       const fromEmail = emailData.from?.email || 'noreply@vivaslo.org';
       const fromName = emailData.from?.name || 'SLO Homeless Resource Guide';
 
+      // Debug: log what we received
+      console.log('Received emailData:', {
+        to: emailData.to,
+        replyTo: emailData.replyTo,
+        replyToType: typeof emailData.replyTo,
+        replyToLength: emailData.replyTo?.length
+      });
+
       // Build MIME message using mimetext
       const msg = createMimeMessage();
       msg.setSender({ name: fromName, addr: fromEmail });
@@ -48,9 +56,16 @@ export default {
         data: emailData.content
       });
 
-      // Add Reply-To header if provided and valid
-      if (emailData.replyTo && emailData.replyTo.trim() && emailData.replyTo.includes('@')) {
-        msg.setHeader('Reply-To', emailData.replyTo);
+      // Add Reply-To header only if email is provided and appears valid
+      // Must use Mailbox class for RFC-5322 compliance
+      if (emailData.replyTo &&
+          typeof emailData.replyTo === 'string' &&
+          emailData.replyTo.trim().length > 0 &&
+          emailData.replyTo.includes('@')) {
+        console.log('Adding Reply-To:', emailData.replyTo);
+        msg.setHeader('Reply-To', new Mailbox(emailData.replyTo));
+      } else {
+        console.log('Skipping Reply-To header');
       }
 
       // Create EmailMessage and send via Email Routing binding
