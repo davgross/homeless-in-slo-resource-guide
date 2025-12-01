@@ -2,13 +2,17 @@
 
 ## Project Overview
 
-The file @"Resource guide.md" contains the outline of a comprehensive resource guide about Surviving Homelessness in San Luis Obispo.
+The file "Resource guide.md" contains the outline of a comprehensive resource guide about Surviving Homelessness in San Luis Obispo.
 This file is too large for you to read in completely, given your token limit (so use methods to read it in smaller chunks).
 
-The @Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide.
+The Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide.
 Use this as the single source of truth for those data; cross-reference Directory entries from the Resource Guide rather than reproducing those data in the Resource Guide.
 
-The @web-app directory contains the progressive web app that displays this content to the user.
+The web-app directory contains the progressive web app that displays this content to the user.
+
+This project is being developed in a public GitHub repo.
+It is deployed on Cloudflare.
+The web app is available to the public on the web at https://vivaslo.org/
 
 ### About The Target Audience of the Guide
 
@@ -38,8 +42,8 @@ They are unlikely to have their own FAX machines, personal computers, scanners, 
 ### File Structure
 
 - **Data format**: Markdown with HTML anchors for major sections
-- **Main data files**: `@Resource guide.md`, `@Directory.md`
-- **Implementation**: See "Project Structure" in `@web-app/README.md`
+- **Main data files**: `Resource guide.md`, `Directory.md`
+- **Implementation**: See "Project Structure" in `web-app/README.md`
 
 ### Major Resource Guide Sections (36 total)
 
@@ -132,7 +136,7 @@ Claude can use the linux `date` command to determine the actual current date.
 
 ### Alphabetical Insertion in Directory.md
 
-When adding new entries to @Directory.md:
+When adding new entries to Directory.md:
 
 - Use `grep -n "^## <a id=" Directory.md` to see all agency anchors with line numbers
 - Identify the correct alphabetical position by finding the entries immediately before and after
@@ -205,3 +209,7 @@ Based on common patterns, these sections frequently need verification:
 - **Location** - Where people can access the service
 - **Hours** - Days and hours of operation
 - **URLs** - Websites reorganize, creating broken links (URLs should use https when the site supports it)
+
+## Tools
+
+- `wrangler` is available at the command line

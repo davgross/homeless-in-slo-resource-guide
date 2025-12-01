@@ -33,11 +33,11 @@
 
 1. I'd like to prevent 404s / broken links. Could we add a check that validates any push to make sure it does not alter any page names or anchor names without providing a redirect from the old page name or anchor name. Also... I guess we'll need a mechanism for providing such redirects.
 
-1. Can we streamline the feedback mechanism so that it does not necessarily go through the user's email application, but submits the message directly upon form submission? Note that this should apply to the feedback mechanism on all pages, including the map pages. Cloudflare is our current host, and we have access to Cloudflare Workers. Ideally, there would be a Cloudflare-native option for this, or perhaps a FOSS solution of some sort, rather than having to go through a commercial third-party.
-
 1. Create & distribute press releases
 
 1. Create & distribute promotional material to homeless services providers
    - Also: something they can display for their clients w/QR code
 
 1. Create promotional poster for STP sites
+
+1. Have font-size feature also give the user the option of choosing the "OpenDyslexic" font, whereupon that font is used as the body default and also for h1/h2/etc. headings, nav-btn elements, and anchor links.

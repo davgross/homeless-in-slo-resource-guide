@@ -1,0 +1,18 @@
+# Cloudflare Worker for sending emails via Email Routing
+# This worker is bound to the Pages Function as a service binding
+
+name = "email-sender-worker"
+main = "index.js"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Email Routing binding
+# NOTE: Before deploying, you must:
+# 1. Enable Email Routing for your domain in Cloudflare dashboard
+# 2. Verify at least one destination email address
+# 3. The 'from' email must use a domain where Email Routing is active
+
+[[send_email]]
+name = "EMAIL"
+# destination_address restricts sending to only this verified address
+destination_address = "moorlock@gmail.com"

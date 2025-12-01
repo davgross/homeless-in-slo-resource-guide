@@ -241,12 +241,36 @@
     <!-- Feedback Modal -->
     <div class="feedback-modal" id="feedback-modal">
         <div class="feedback-content">
-            <h2>💬 Send Feedback</h2>
-            <p style="color: #666; margin-bottom: 15px;">Help us improve this map by reporting errors or suggesting improvements.</p>
-            <textarea id="feedback-text" placeholder="Describe the issue or suggestion..."></textarea>
-            <div class="feedback-buttons">
-                <button class="feedback-cancel" id="feedback-cancel">Cancel</button>
-                <button class="feedback-submit" id="feedback-submit">Send Feedback</button>
+            <form id="feedback-form">
+                <h2>💬 Send Feedback</h2>
+                <p style="color: #666; margin-bottom: 15px;">Help us improve this map by reporting errors or suggesting improvements.</p>
+
+                <div style="margin-bottom: 15px;">
+                    <label for="feedback-name" style="display: block; margin-bottom: 5px; font-weight: 500;">Your Name (optional)</label>
+                    <input type="text" id="feedback-name" placeholder="Your name" style="width: 100%; padding: 8px; border: 2px solid #ddd; border-radius: 8px; font-family: inherit; font-size: 14px; box-sizing: border-box;">
+                </div>
+
+                <div style="margin-bottom: 15px;">
+                    <label for="feedback-email" style="display: block; margin-bottom: 5px; font-weight: 500;">Your Email (optional)</label>
+                    <input type="email" id="feedback-email" placeholder="your.email@example.com" style="width: 100%; padding: 8px; border: 2px solid #ddd; border-radius: 8px; font-family: inherit; font-size: 14px; box-sizing: border-box;">
+                    <small style="color: #666;">If you'd like a response, please provide your email.</small>
+                </div>
+
+                <div style="margin-bottom: 15px;">
+                    <label for="feedback-message" style="display: block; margin-bottom: 5px; font-weight: 500;">Your Feedback *</label>
+                    <textarea id="feedback-message" placeholder="Describe the issue or suggestion..." required style="width: 100%; min-height: 150px; padding: 12px; border: 2px solid #ddd; border-radius: 8px; font-family: inherit; font-size: 14px; resize: vertical; box-sizing: border-box;"></textarea>
+                </div>
+
+                <div class="feedback-buttons">
+                    <button type="button" class="feedback-cancel" id="feedback-cancel">Cancel</button>
+                    <button type="button" class="feedback-submit" id="feedback-submit">Send Feedback</button>
+                </div>
+            </form>
+
+            <div id="feedback-success" style="display: none; text-align: center;">
+                <p style="font-size: 18px; margin-bottom: 10px;">✅ Thank you for your feedback!</p>
+                <p style="color: #666; margin-bottom: 20px;">Your feedback has been submitted successfully. We appreciate your help in improving this map.</p>
+                <button type="button" class="feedback-submit" id="feedback-done">Close</button>
             </div>
         </div>
     </div>
@@ -257,6 +281,8 @@
     <script type="module">
         // Import location data (auto-generated from Resource guide.md)
         import { locations, config } from './naloxone-locations-data.js';
+        // Import shared feedback functionality
+        import { initMapFeedback } from './map-feedback.js';
 
         // Update location count
         document.getElementById('location-count').textContent =
@@ -339,67 +365,10 @@
             }
         });
 
-        // Feedback button functionality
-        const feedbackModal = document.getElementById('feedback-modal');
-        const feedbackText = document.getElementById('feedback-text');
-
-        document.querySelector('.feedback-btn').addEventListener('click', () => {
-            feedbackModal.classList.add('show');
-            feedbackText.focus();
-        });
-
-        document.getElementById('feedback-cancel').addEventListener('click', () => {
-            feedbackModal.classList.remove('show');
-            feedbackText.value = '';
-        });
-
-        document.getElementById('feedback-submit').addEventListener('click', () => {
-            const message = feedbackText.value.trim();
-            if (!message) {
-                alert('Please enter your feedback before sending.');
-                return;
-            }
-
-            // Capture context
-            const context = {
-                page: 'Naloxone/Narcan Locations Map',
-                url: window.location.href,
-                timestamp: new Date().toISOString(),
-                userAgent: navigator.userAgent
-            };
-
-            // Create email
-            const subject = encodeURIComponent('Feedback: Naloxone/Narcan Locations Map');
-            const body = encodeURIComponent(
-                `Feedback:\n${message}\n\n` +
-                `---\n` +
-                `Page: ${context.page}\n` +
-                `URL: ${context.url}\n` +
-                `Time: ${context.timestamp}\n` +
-                `Browser: ${context.userAgent}`
-            );
-
-            window.location.href = `mailto:moorlock@gmail.com?subject=${subject}&body=${body}`;
-
-            // Close modal and clear
-            feedbackModal.classList.remove('show');
-            feedbackText.value = '';
-        });
-
-        // Close modal on background click
-        feedbackModal.addEventListener('click', (e) => {
-            if (e.target === feedbackModal) {
-                feedbackModal.classList.remove('show');
-                feedbackText.value = '';
-            }
-        });
-
-        // Close modal on Escape key
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape' && feedbackModal.classList.contains('show')) {
-                feedbackModal.classList.remove('show');
-                feedbackText.value = '';
-            }
+        // Initialize feedback system with shared library
+        initMapFeedback({
+            pageName: 'Naloxone/Narcan Locations Map',
+            feedbackType: 'map-feedback'
         });
 
         // Show notification helper

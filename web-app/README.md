@@ -65,7 +65,46 @@ This serves the production build locally for testing before deployment.
 
 ## Deployment
 
-### Option 1: Traditional Web Server (Apache/Nginx)
+### Option 1: Cloudflare Pages (Recommended)
+
+This project is designed for Cloudflare Pages with integrated email feedback functionality.
+
+**Prerequisites:**
+1. Cloudflare account with Pages enabled
+2. Email Routing enabled for your domain
+3. Destination email address verified
+4. Wrangler CLI installed (`npm install -g wrangler`)
+
+**Initial Setup:**
+
+1. Deploy the email-sender Worker:
+   ```bash
+   cd functions/_worker-email-sender
+   wrangler deploy
+   ```
+
+2. Configure service binding in Cloudflare dashboard:
+   - Go to Workers & Pages → Your Pages project → Settings → Functions
+   - Add Service binding:
+     - Variable name: `EMAIL_SENDER`
+     - Service: `email-sender-worker`
+     - Environment: Production (and Preview)
+
+3. Deploy the Pages site:
+   - Connect your Git repository to Cloudflare Pages
+   - Build command: `npm run build`
+   - Build output directory: `dist`
+
+**Updates:**
+- Pages site auto-deploys on git push
+- Worker must be manually redeployed if changed:
+  ```bash
+  cd functions/_worker-email-sender && wrangler deploy
+  ```
+
+See `functions/_worker-email-sender/README.md` for detailed setup instructions.
+
+### Option 2: Traditional Web Server (Apache/Nginx)
 
 1. Build the production files:
    ```bash
@@ -165,8 +204,19 @@ web-app/
 ├── src/
 │   ├── main.js             # App core: routing, state, content loading
 │   ├── style.css           # Mobile-first CSS styles
+│   ├── feedback.js         # Feedback system (API integration)
 │   ├── linkEnhancer.js     # Smart hyperlinks (phone, email, address)
-│   └── markdownParser.js   # Markdown parsing and directory extraction
+│   ├── markdownParser.js   # Markdown parsing and directory extraction
+│   └── shareButton.js      # Share functionality
+├── public/
+│   └── map-feedback.js     # Shared feedback for map pages
+├── functions/              # Cloudflare Pages Functions (serverless)
+│   ├── api/
+│   │   └── feedback.js     # Feedback API endpoint
+│   └── _worker-email-sender/  # Email Worker
+│       ├── index.js        # Worker code
+│       ├── wrangler.toml   # Configuration
+│       └── package.json    # Dependencies (mimetext)
 └── dist/                   # Production build output (generated)
 ```
 
