@@ -1512,8 +1512,8 @@
 <!-- Source: https://www.slohelpmegrow.org/contact -->
 | Location | Phone |
 | -------- | ----- |
-| <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="Help Me Grow">1030 Southwood Dr., SLO</a> | [805-305-4481](tel:+1-805-305-4481) |
-| <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Help Me Grow">704 Spring St., Paso Robles</a> | [805-440-1878](tel:+1-805-440-1878) |
+| 1030 Southwood Dr., SLO <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="Help Me Grow">Map</a> | [805-305-4481](tel:+1-805-305-4481) |
+| 704 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Help Me Grow">Map</a> | [805-440-1878](tel:+1-805-440-1878) |
 
 - **Hours:** M–F 8am–4:30pm <!-- Source: https://www.slohelpmegrow.org/contact -->
 
@@ -2749,35 +2749,36 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="St-Barnabas-Thrift-Shop">St. Barnabas Thrift Shop</a>
 
 - **Website:** [saintbarnabas-ag.org/get-involved/thrift-shop](https://saintbarnabas-ag.org/get-involved/thrift-shop/)
-- **Location:** 1328 Grand Ave. #F, Grover Beach <a href="#" class="map-link" data-lat="35.121001" data-lon="-120.614790" data-zoom="17" data-label="St. Barnabas Thrit Shop">Map</a>
-- **Phone:** [805-270-4023](tel:+1-805-270-4023)
-- **Hours:** Tu–F 10am–4pm, Sa Noon–4pm
+- **Location:** 1328 Grand Ave. #F, Grover Beach <a href="#" class="map-link" data-lat="35.121001" data-lon="-120.614790" data-zoom="17" data-label="St. Barnabas Thrit Shop">Map</a> <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
+- **Phone:** [805-270-4023](tel:+1-805-270-4023) <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
+- **Email:** [stbarnabasthriftstore@gmail.com](mailto:stbarnabasthriftstore@gmail.com) <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
+- **Hours:** Tu–F 10am–4pm, Sa Noon–4pm <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
    - “Bag Day” sale on the last Friday of the month
 
 ## <a id="St-Jospehs-Church">Saint Joseph’s Church</a>
 
 - **Website:** [stjosephcayucos.org](https://stjosephcayucos.org/)
-- **Location:** 360 Park Ave., Cayucos <a class="map-link" data-lat="35.447245" data-lon="-120.897665" data-zoom="17" data-label="Saint Joseph’s Church">Map</a>
-- **Phone:** [805-995-3243](tel:+1-805-995-3243)
+- **Location:** 360 Park Ave., Cayucos <a class="map-link" data-lat="35.447245" data-lon="-120.897665" data-zoom="17" data-label="Saint Joseph’s Church">Map</a> <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
+- **Phone:** [805-995-3243](tel:+1-805-995-3243) <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
+- **Email:** [stjosephcayucos@charter.net](mailto:stjosephcayucos@charter.net) <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
 - **Hours** (food pantry): Fridays 10am–Noon, or Thursdays by appointment
 
 ## <a id="St-Patricks-Church">Saint Patrick’s Church</a>
 
 - **Website:** [stpatsag.org](https://www.stpatsag.org/)
-- **Location:** 501 Fair Oaks Ave., Arroyo Grande <a class="map-link" data-lat="35.114145" data-lon="-120.583486" data-zoom="17" data-label="Saint Patrick’s Church">Map</a>
-- **Phone:** [805-489-2680](tel:+1-805-489-2680) <!-- Note: another source says 805-441-1094 (for food pantry specifically?) -->
-- **Email:** [info@stpatsag.org](mailto:info@stpatsag.org)
+- **Location:** 501 Fair Oaks Ave., Arroyo Grande <a class="map-link" data-lat="35.114145" data-lon="-120.583486" data-zoom="17" data-label="Saint Patrick’s Church">Map</a> <!-- Source: https://www.stpatsag.org/ -->
+- **Phone:** [805-489-2680](tel:+1-805-489-2680) <!-- Source: https://www.stpatsag.org/ -->
+<!-- Note: another source says 805-441-1094 (for food pantry specifically?) -->
+- **Email:** [info@stpatsag.org](mailto:info@stpatsag.org) <!-- Source: https://www.stpatsag.org/ -->
 - **Hours:**
-   - Office: M–Th 9am–5pm (closed Noon–1:30pm)
+   - Office: M/Tu/Th 9am–5pm (closed Noon–1:30pm), W 9:30am–5pm (closed Noon–1:30pm) <!-- Source: https://www.stpatsag.org/ -->
    - Food pantry: Tu/W/Th 4–5pm
 
 ## <a id="St-Patricks-Shamrock-Thrift">St. Patrick’s Shamrock Thrift</a>
 
-<!-- Source: https://www.yelp.com/biz/st-patricks-school-shamrock-thrift-shop-grover-beach -->
-- **Social media:** [facebook.com/shamrockthrift](https://www.facebook.com/shamrockthrift/)
-- **Location:** 924 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121190" data-lon="-120.619932" data-zoom="17" data-label="St. Patrick’s Shamrock Thrift">Map</a>
-- **Phone:** [805-481-0612](tel:+1-805-481-0612)
-- **Hours:** Tu–Sa 10am–4pm
+- **Location:** 924 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121190" data-lon="-120.619932" data-zoom="17" data-label="St. Patrick’s Shamrock Thrift">Map</a> <!-- Source: https://www.yelp.com/biz/st-patricks-school-shamrock-thrift-shop-grover-beach -->
+- **Phone:** [805-481-0612](tel:+1-805-481-0612) <!-- Source: https://www.yelp.com/biz/st-patricks-school-shamrock-thrift-shop-grover-beach -->
+- **Hours:** Tu–Sa 10am–4pm <!-- Source: https://www.yelp.com/biz/st-patricks-school-shamrock-thrift-shop-grover-beach -->
 
 ## <a id="Salvation-Army">Salvation Army</a>
 
@@ -2786,17 +2787,17 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 | Location | Phone | Food Pantry | Notes |
 | -------- | ----- | ----------- | ----- |
-| 815 Islay St., SLO <a class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">Map</a> | [805-544-2401](tel:+1-805-544-2401) | W/F 10am–Noon, Th. 2–4pm | Operates a “Rapid Rehousing Program” |
-| 1550 W. Branch St., Arroyo Grande <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">Map</a> | [805-481-0278](tel:+1-805-481-0278) | M/W/F 10am–2pm | |
-| 8420 El Camino Real <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">Map</a> | [805-466-7201](tel:+1-805-466-7201) | | |
-| 540 Quintana Rd., Morro Bay <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">Map</a> | [805-772-7062](tel:+1-805-772-7062) | | (was temporarily closed as of September 2025) <!-- says Eva --> |
-| 711 Paso Robles St., Paso Robles <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">Map</a> | [805-238-9591](tel:+1-805-238-9591) | | (was temporarily closed as of September 2025) <!-- says Eva --> |
+| 815 Islay St., SLO <a class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">Map</a> <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | [805-544-2401](tel:+1-805-544-2401) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | W/F 10am–Noon, Th. 2–4pm <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | Operates a “Rapid Rehousing Program” |
+| 1550 W. Branch St., Arroyo Grande <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">Map</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-481-0278](tel:+1-805-481-0278) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | M/W/F 10am–2pm | |
+| 8420 El Camino Real <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">Map</a> | [805-466-7201](tel:+1-805-466-7201) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | |
+| 540 Quintana Rd., Morro Bay <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">Map</a> | [805-772-7062](tel:+1-805-772-7062) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | (was temporarily closed as of September 2025) <!-- says Eva -DG --> |
+| 711 Paso Robles St., Paso Robles <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">Map</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-238-9591](tel:+1-805-238-9591) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | (was temporarily closed as of September 2025) <!-- says Eva -DG --> |
 
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
 - **Website:** [ae.slcusd.org](https://ae.slcusd.org/)
-- **Location:** 1500 Lizzie St., SLO <a class="map-link" data-lat="35.281251" data-lon="-120.649489" data-zoom="17" data-label="San Luis Coastal Adult School">Map</a>
-- **Phone:** [805-549-1222](tel:+1-805-549-1222)
+- **Location:** 1500 Lizzie St., SLO <a class="map-link" data-lat="35.281251" data-lon="-120.649489" data-zoom="17" data-label="San Luis Coastal Adult School">Map</a> <!-- Source: https://ae.slcusd.org/ -->
+- **Phone:** [805-549-1222](tel:+1-805-549-1222) <!-- Source: https://ae.slcusd.org/ -->
 - **Email:** [adultschool@slcusd.org](mailto:adultschool@slcusd.org)
 - **How to access:**
    - Register for classes on-line at [slcusd.asapconnected.com](https://slcusd.asapconnected.com/)
@@ -2809,17 +2810,18 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Website:** [montereylaw.edu/clinics/indexslocl.html](https://montereylaw.edu/clinics/indexslocl.html)
 - **Location:** 4119 Broad St. #200, SLO <a class="map-link" data-lat="35.245787" data-lon="-120.642691" data-zoom="17" data-label="SLO College of Law Legal Clinic">Map</a>
-- **Phone:** [805-902-2752](tel:+1-805-902-2752)
+- **Phone:** [805-902-CRLA](tel:+1-805-902-2752) <!-- Source: https://montereylaw.edu/clinics/indexslocl.html -->
 - **Email:** [mclworkshops@montereylaw.edu](mailto:mclworkshops@montereylaw.edu)
 - **Hours:** M–Th 9am–3pm (scheduling); consultations Tu 4:30–6:30pm
+- **How to access:** Telephone or Zoom appointments only <!-- Source: https://montereylaw.edu/clinics/indexslocl.html -->
 
 ## <a id="Cal-Poly-Community-Counseling-Service">San Luis Obispo Counseling Service at Cal Poly</a>
 
 > *See also [**Community Counseling Center**](#Community-Counseling-Center)*
 
-- **Website:** [slocounselingservice.calpoly.edu](https://slocounselingservice.calpoly.edu/)
-- **Location:** Cotchett Education Bldg. 2, Room 125, Cal Poly SLO <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Map</a>
-- **Phone:** [805-756-1532](tel:+1-805-756-1532) <!-- Source: https://slocounselingservice.calpoly.edu/ -->
+- **Website:** [slocounselingservice.calpoly.edu/about](https://slocounselingservice.calpoly.edu/about)
+- **Location:** Cotchett Education Bldg. 2, Room 125, Cal Poly SLO <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Map</a> <!-- Source: https://slocounselingservice.calpoly.edu/faq -->
+- **Phone:** [805-756-1532](tel:+1-805-756-1532) <!-- Source: https://slocounselingservice.calpoly.edu/about -->
 - **How to access:** No walk-ins; Call to make an appointment. <!-- Source: https://slocounselingservice.calpoly.edu/ -->
 
 ## <a id="SLO-Veterans-Services-Collaborative">San Luis Obispo Veterans Services Collaborative</a>
@@ -2833,18 +2835,20 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Santa-Margarita-KOA-Holiday">Santa Margarita KOA Holiday</a>
 
 - **Website:** [koa.com/campgrounds/santa-margarita](https://koa.com/campgrounds/santa-margarita/)
-- **Location:** 4765 Santa Margarita Lake Rd., Santa Margarita <a class="map-link" data-lat="35.319614" data-lon="-120.499214" data-zoom="17" data-label="Santa Margarita KOA Holiday">Map</a>
-- **Phone:** [805-438-5618](tel:+1-805-438-5618)
+- **Location:** 4765 Santa Margarita Lake Rd., Santa Margarita <a class="map-link" data-lat="35.319614" data-lon="-120.499214" data-zoom="17" data-label="Santa Margarita KOA Holiday">Map</a> <!-- Source: https://koa.com/campgrounds/santa-margarita/ -->
+- **Phone:** [805-438-5618](tel:+1-805-438-5618) <!-- Source: https://koa.com/campgrounds/santa-margarita/ -->
+- **Email:** [santamargarita@koa.com](mailto:santamargarita@koa.com) <!-- Source: https://koa.com/campgrounds/santa-margarita/ -->
 
 ## <a id="Santa-Margarita-Lake-Recreation-Area">Santa Margarita Lake Recreation Area</a>
 
 - **Website:** [slocountyparks.com/camp/santa-margarita-lake/](https://slocountyparks.com/camp/santa-margarita-lake/)
-- **Phone:** [805-781-5930](tel:+1-805-781-5930)
+- **Phone:** [805-788-2397](tel:+1-805-788-2397) <!-- Source: https://slocountyparks.com/camp/santa-margarita-lake/ -->
 - **Email:** [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
 
 ## <a id="Santa-Margarita-Senior-Center">Santa Margarita Area Senior Citizens Club</a>
 
-- **Location:** 22202 (2201) “H” St., Santa Margarita <a href="#" class="map-link" data-lat="35.392015" data-lon="-120.605121" data-zoom="17" data-label="Senior Center">Map</a> <!-- Notes: they use 22202 in current outreach materials, but some older indices and maps show the address as 2201 -->
+- **Location:** 22202 “H” St., Santa Margarita <a href="#" class="map-link" data-lat="35.392015" data-lon="-120.605121" data-zoom="17" data-label="Senior Center">Map</a>
+   - Note: some maps show the address as 2201 “H” St.
 - **Phone:**
    - [805-438-5854](tel:+1-805-438-5854)
    - [805-438-3482](tel:+1-805-438-3482) <!-- Source: https://www.facebook.com/profile.php?id=100064940220256 -->
@@ -2855,41 +2859,47 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Santa-Maria-Valley-Hispanic-Church">Santa Maria Valley Hispanic SDA Church</a>
 
 - **Website:** [santamariavalleyhispanicca.adventistchurch.org](https://santamariavalleyhispanicca.adventistchurch.org/)
-- **Location:** 1575 Orchard Rd., Nipomo <a href="#" class="map-link" data-lat="35.005086" data-lon="-120.459890" data-zoom="17" data-label="Santa Maria Valley Hispanic Church">Map</a>
-- **Phone:** [805-929-5694](tel:+1-805-929-5694)
+- **Location:** 1575 Orchard Rd., Nipomo <a href="#" class="map-link" data-lat="35.005086" data-lon="-120.459890" data-zoom="17" data-label="Santa Maria Valley Hispanic Church">Map</a> <!-- Source: https://santamariavalleyhispanicca.adventistchurch.org/ -->
+- **Phone:** [805-929-5694](tel:+1-805-929-5694) <!-- Source: https://santamariavalleyhispanicca.adventistchurch.org/ -->
 - **Hours** (food pantry): Sa 11am–12:30pm
 
 ## <a id="Seneca-Central-Coast">Seneca Central Coast</a>
 
 - **Website:** [senecafoa.org/regions/central-coast](https://senecafoa.org/regions/central-coast/)
-- **Location:** 6850 Morro Rd., Atascadero <a href="#" class="map-link" data-lat="35.482077" data-lon="-120.666571" data-zoom="17" data-label="Seneca Central Coast">Map</a>
-- **Phone:** [805-434-2449](tel:+1-805-434-2449)
-- **Email:** [info@senecacenter.org](mailto:info@senecacenter.org)
+- **Location:** 6850 Morro Rd., Atascadero <a href="#" class="map-link" data-lat="35.482077" data-lon="-120.666571" data-zoom="17" data-label="Seneca Central Coast">Map</a> <!-- Source: https://senecafoa.org/regions/central-coast/ -->
+- **Phone:** [805-434-2449](tel:+1-805-434-2449) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
+- **Email:** [info@senecacenter.org](mailto:info@senecacenter.org) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
 - Notes:
    - formerly called “Kinship Center”
-   - offers [**Enhanced Care Management**](#Enhanced-Care-Management)
+   - offers [**Enhanced Care Management**](#Enhanced-Care-Management) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
 
 ## <a id="Senior-Connection">Senior Connection</a>
 
 - **Website:** [centralcoastseniors.org/senior-connection](https://centralcoastseniors.org/senior-connection/)
-- **Location:** 528 S. Broadway, Santa Maria <a href="#" class="map-link" data-lat="34.947346" data-lon="-120.435439" data-zoom="17" data-label="Senior Connection">Map</a>
-- **Phone:** [805-928-2552](tel:+1-805-928-2552) / [800-510-2020](tel:+1-800-510-2020) / [805-928-9554](tel:+1-805-928-9554)
+- **Location:** 528 S. Broadway, Santa Maria <a href="#" class="map-link" data-lat="34.947346" data-lon="-120.435439" data-zoom="17" data-label="Senior Connection">Map</a> <!-- Source: https://centralcoastseniors.org/contact-us/ -->
+- **Phone:**
+   - [800-510-2020](tel:+1-800-510-2020) <!-- Source: https://centralcoastseniors.org/senior-connection/ -->
+   - [805-928-2552](tel:+1-805-928-2552) <!-- Source: https://centralcoastseniors.org/senior-connection/ask-a-question/ -->
+   - [805-928-9554](tel:+1-805-928-9554) <!-- Source: https://centralcoastseniors.org/contact-us/ -->
 - **Email:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
-- **Hours:** M–F 8am–5pm (closed Noon–1pm)
+- **Hours:** M–F 8am–5pm <!-- Source: https://centralcoastseniors.org/senior-connection/ask-a-question/ -->
 - **How to access:** Walk-ins OK.
 
 ## <a id="Senior-Go">Senior Go!</a>
 
 - **Website:** [sloseniorgo.org](https://www.sloseniorgo.org/)
-- **Locations:** Throughout SLO County
-- **Phone:** [805-473-3333](tel:+1-805-473-3333)
-- **Hours:** M–F 7am–5pm, Sa 10am–3pm (closed major holidays)
+- **Locations:** Throughout SLO County <!-- Source: https://www.sloseniorgo.org/ -->
+- **Phone:** [805-473-3333](tel:+1-805-473-3333) <!-- Source: https://www.sloseniorgo.org/ -->
+- **Hours:** M–F 9am–5pm, Sa 10am–3pm (closed major holidays) <!-- Source: https://www.sloseniorgo.org/ -->
 
 ## <a id="Senior-Legal-Services-Project">Senior Legal Services Project</a>
 
-- **Location:** 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">Map</a>
+- **Location:**
+   - 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">Map</a> <!-- Source: https://www.slolaf.org/programs -->
+   - 102 S. Vine St. #C, Paso Robles <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">Map</a> <!-- Source: https://www.slolaf.org/programs -->
    - Also operates clinics at various Senior Centers and similar sites
-- **Phone:** [805-543-5140](tel:+1-805-543-5140)
+- **Phone:** [805-543-5140](tel:+1-805-543-5140) <!-- Source: https://www.slolaf.org/seniorlaw -->
+- **Email:** [intake@slolaf.org](mailto:intake@slolaf.org) <!-- Source: https://www.slolaf.org/seniorlaw -->
 - **Hours:** M–F 8:30am–5pm
 - Note: a project of [**SLO Legal Assistance Foundation (SLOLAF)**](#SLO-Legal-Assistance-Foundation)
 
@@ -2897,18 +2907,19 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Website:** [sesloc.org](https://www.sesloc.org/)
 - **Locations:**
-   - 1399 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.120489" data-lon="-120.605442" data-zoom="17" data-label="SESLOC Credit Union">Map</a>
-   - 8380 El Camino Real, Atascadero <a href="#" class="map-link" data-lat="35.473958" data-lon="-120.654657" data-zoom="17" data-label="SESLOC Credit Union">Map</a>
-   - 1 Grand Ave. Bldg. 65, Cal Poly <a href="#" class="map-link" data-lat="35.300241" data-lon="-120.658679" data-zoom="16" data-label="SESLOC Credit Union">Map</a> (closed during academic break periods)
-   - 705 Golden Hill Rd., Paso Robles <a href="#" class="map-link" data-lat="35.622969" data-lon="-120.659648" data-zoom="17" data-label="SESLOC Credit Union">Map</a>
-   - 3807 Broad St., SLO <a href="#" class="map-link" data-lat="35.250534" data-lon="-120.644817" data-zoom="17" data-label="SESLOC Credit Union">Map</a>
-- **Phone:** [805-543-1816](tel:+1-805-543-1816)
-- **Hours:** M–F 9am–5pm
+   - 1399 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.120489" data-lon="-120.605442" data-zoom="17" data-label="SESLOC Credit Union">Map</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
+   - 8380 El Camino Real, Atascadero <a href="#" class="map-link" data-lat="35.473958" data-lon="-120.654657" data-zoom="17" data-label="SESLOC Credit Union">Map</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
+   - 1 Grand Ave. Bldg. 65, Cal Poly <a href="#" class="map-link" data-lat="35.300241" data-lon="-120.658679" data-zoom="16" data-label="SESLOC Credit Union">Map</a> (closed during academic break periods) <!-- Source: https://www.sesloc.org/member-services/locations/ -->
+   - 705 Golden Hill Rd., Paso Robles <a href="#" class="map-link" data-lat="35.622969" data-lon="-120.659648" data-zoom="17" data-label="SESLOC Credit Union">Map</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
+   - 3807 Broad St., SLO <a href="#" class="map-link" data-lat="35.250534" data-lon="-120.644817" data-zoom="17" data-label="SESLOC Credit Union">Map</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
+- **Phone:** [805-543-1816](tel:+1-805-543-1816) <!-- Source: https://www.sesloc.org/ -->
+- **Hours:** M–F 9am–5pm <!-- Source: https://www.sesloc.org/member-services/locations/ -->
 
 ## <a id="Shower-the-People">Shower the People</a>
 
 - **Website:** [showerthepeopleslo.org](https://showerthepeopleslo.org/)
 
+<!-- Source: https://showerthepeopleslo.org/#locationsection -->
 | Location                        | Hours |
 | ------------------------------- | ----- |
 | 946 Rockaway Ave., Grover Beach <a href="#" class="map-link" data-lat="35.120119" data-lon="-120.619991" data-zoom="17" data-label="Shower the People">Map</a> | W 10am–1pm |
@@ -2926,28 +2937,30 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Silver-City-Resort">Silver City Resort</a>
 
 - **Website:** [silvercitymorrobay.com](https://www.silvercitymorrobay.com/)
-- **Location:** 500 Atascadero Rd., Morro Bay <a class="map-link" data-lat="35.381677" data-lon="-120.859918" data-zoom="17" data-label="Silver City Resort">Map</a>
-- **Phone:** [805-772-7478](tel:+1-805-772-7478)
+- **Location:** 500 Atascadero Rd., Morro Bay <a class="map-link" data-lat="35.381677" data-lon="-120.859918" data-zoom="17" data-label="Silver City Resort">Map</a> <!-- Source: https://www.silvercitymorrobay.com/ -->
+- **Phone:** [805-772-7478](tel:+1-805-772-7478) <!-- Source: https://www.silvercitymorrobay.com/ -->
+- **Email:** [silvercity@dmhllc.com](mailto:silvercity@dmhllc.com) <!-- Source: https://www.silvercitymorrobay.com/ -->
 
 ## <a id="SLO4Home">SLO for HOME</a>
 
 - **Website:** [sloforhome.org](https://www.sloforhome.org/)
-- **Mailing address:** P.O. Box 3901, SLO, CA 93403
-- **Email:** [info@sloforhome.org](mailto:info@sloforhome.org)
+- **Mailing address:** P.O. Box 3901, SLO, CA 93403 <!-- Source: https://www.sloforhome.org/ -->
+- **Email:** [info@sloforhome.org](mailto:info@sloforhome.org) <!-- Source: https://www.sloforhome.org/ -->
 
 ## <a id="SLO-Bangers">SLO Bangers</a>
 
 - **Website:** [slobangers.com](https://slobangers.com/)
 
+<!-- Source (location/hours): https://slobangers.com/ -->
 | Location | Hours |
 | -------- | ----- |
-| 63037 Atascadero Ave., Atascadero <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="SLO Bangers">Map</a> | Su 4–6pm |
+| 6370 Atascadero Ave., Atascadero <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="SLO Bangers">Map</a> | Su 4–6pm |
 | 760 Morro Bay Blvd., Morro Bay <a href="#" class="map-link" data-lat="35.365706" data-lon="-120.844141" data-zoom="17" data-label="SLO Bangers">Map</a> | M 2–4pm |
 | 1134 Black Oak Dr., Paso Robles <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="SLO Bangers">Map</a> | Tu 4:30–5:30pm |
 | 2191 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274319" data-lon="-120.646781" data-zoom="17" data-label="SLO Bangers">Map</a> | W 5:30–8:15pm |
 
-- **Phone:** [805-458-0123](tel:+1-805-458-0123)
-- **Email:** [slobangers07@gmail.com](mailto:slobangers07@gmail.com)
+- **Phone:** [805-458-0123](tel:+1-805-458-0123) <!-- Source: https://slobangers.com/contact.html -->
+- **Email:** [slobangers07@gmail.com](mailto:slobangers07@gmail.com) <!-- Source: https://slobangers.com/contact.html -->
 
 ## <a id="SLO-Cal-Careers-Center">SLO Cal Careers Center</a>
 
@@ -2967,9 +2980,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="SLOCOG">SLO Council of Governments (SLOCOG)</a>
 
 - **Website:** [slocog.org](https://www.slocog.org/)
-- **Location:** 1114 Marsh Street, SLO <a class="map-link" data-lat="35.281490" data-lon="-120.658717" data-zoom="17" data-label="SLO Council of Governments">Map</a>
-- **Phone:** [805-781-4219](tel:+1-805-781-4219)
-- **Email:** [slocog@slocog.org](mailto:slocog@slocog.org)
+- **Location:** 1114 Marsh Street, SLO <a class="map-link" data-lat="35.281490" data-lon="-120.658717" data-zoom="17" data-label="SLO Council of Governments">Map</a> <!-- Source: https://www.slocog.org/ -->
+- **Phone:** [805-781-4219](tel:+1-805-781-4219) <!-- Source: https://www.slocog.org/contact-page -->
+- **Email:** [slocog@slocog.org](mailto:slocog@slocog.org) <!-- Source: https://www.slocog.org/contact-page -->
 
 ## SLO Counseling Service
 
@@ -2978,46 +2991,51 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="SLO-County-Animal-Services">SLO County Animal Services</a>
 
 - **Website:** [slocounty.ca.gov/departments/health-agency/animal-services](https://www.slocounty.ca.gov/departments/health-agency/animal-services)
-- **Location:** 885 Oklahoma Ave., SLO <a class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">Map</a>
+- **Location:** 885 Oklahoma Ave., SLO <a class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services/contact-us -->
 - **Phone:**
-   - [805-781-4400](tel:+1-805-781-4400) (main office)
-   - [805-781-4407](tel:+1-805-781-4407) (found animal recording)
-- **Hours:** M–F 10am–4:30pm, Sa 10am–4pm
+   - [805-781-4400](tel:+1-805-781-4400) (main office) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
+   - [805-781-4407](tel:+1-805-781-4407) (found animal recording) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
+- **Hours:**
+   - Office: M/Tu/Th/F 8am–5pm, W 8am–7pm; Sa 9am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services/contact-us -->
+   - Kennel: M/Tu/Th/F/Sa 1pm–5pm; W 1pm–7pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services/contact-us -->
 - **How to access:** call to make an appointment
 
-## <a id="SLO-County-Bar-Association">SLO County Bar Association Legal Services</a>
+## <a id="SLO-County-Bar-Association">SLO County Bar Association Lawyer Referral and Information Service</a>
 
 <!-- Source: https://slobarlris.org/contact/ -->
 - **Website:** [slobarlris.org](https://slobarlris.org/)
-- **Mailing address:** P.O. Box 585, SLO, CA 93406
-- **Phone:** [805-541-5502](tel:+1-805-541-5502)
-- **Email:** [lris@slobar.org](mailto:lris@slobar.org)
+- **Mailing address:** P.O. Box 585, SLO, CA 93406 <!-- Source: https://slobarlris.org/contact/ -->
+- **Phone:** [805-541-5502](tel:+1-805-541-5502) <!-- Source: https://slobarlris.org/contact/ -->
+- **Email:** [lris@slobar.org](mailto:lris@slobar.org) <!-- Source: https://slobarlris.org/contact/ -->
 <!-- Note: No physical walk-in location; operates via phone interviews and online request forms only (verified October 2025) -->
 
 ## <a id="SLO-County-Behavioral-Health">SLO County Behavioral Health</a>
 
-<!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
 - **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)
 - **Locations:**
-   - Main Office: 2180 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274722" data-lon="-120.646040" data-zoom="17" data-label="SLO County Behavioral Health">Map</a>
-   - Arroyo Grande: 1350 Grand Ave. <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-474-2154](tel:+1-805-474-2154)
-   - Atascadero Health Campus: 5575 Hospital Dr. <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLO County Behavioral Health">Map</a>
+   - Main Office: 2180 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274722" data-lon="-120.646040" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+   - Arroyo Grande: 1350 Grand Ave. <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-474-2154](tel:+1-805-474-2154) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Services Affirming Family Empowerment: 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SLO County Department of Social Services">Map</a> — [805-474-2105](tel:+1-805-474-2105) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+   - Atascadero Health Campus: 5575 Hospital Dr. <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-461-6060](tel:+1-805-461-6060) (adult mental health), [805-461-6113](tel:+1-805-461-6113) (youth mental health), [805-461-6080](tel:+1-805-461-6080) (adult drug and alcohol services) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
    - Grover Beach:
-      - Youth & Adult Drug and Alcohol Services: 1523 Longbranch Ave. <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-473-7080](tel:+1-805-473-7080)
-      - Youth Mental Health Services: 1666 Ramona Ave. <a href="#" class="map-link" data-lat="35.119877" data-lon="-120.612731" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-473-7060](tel:+1-805-473-7060)
-   - Paso Robles Health Campus: 805 4th St. <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Behavioral Health">Map</a>
+      - Youth & Adult Drug and Alcohol Services: 1523 Longbranch Ave. <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-473-7080](tel:+1-805-473-7080) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Youth Mental Health Services: 1666 Ramona Ave. <a href="#" class="map-link" data-lat="35.119877" data-lon="-120.612731" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-473-7060](tel:+1-805-473-7060) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+   - Paso Robles Health Campus: 805 4th St. <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-237-3090](tel:+1-805-237-3090) (adult mental health), [805-237-3070](tel:+1-805-237-3070) (youth mental health), [805-226-3200](tel:+1-805-226-3200) (adult drug and alcohol services) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
    - SLO:
-      - Adult Drug and Alcohol Services: 2180 Johnson Ave. <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4275](tel:+1-805-781-4275)
-      - Adult Mental Health Services: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4700](tel:+1-805-781-4700)
-      - Youth Mental Health Services: 2975 McMillan Suite 160 <a href="#" class="map-link" data-lat="35.263533" data-lon="-120.648100" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4179](tel:+1-805-781-4179)
-      - Psychiatric Health Facility: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [800-838-1381](tel:+1-800-838-1381)
-      - Martha’s Place Children’s Center (Ages 0–5): 2925 McMillan Ave. Suite 108 <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4948](tel:+1-805-781-4948)
+      - Adult Drug and Alcohol Services: 2180 Johnson Ave. <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4275](tel:+1-805-781-4275) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Adult Mental Health Services: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4700](tel:+1-805-781-4700) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Youth Drug and Alcohol Services: 277 South St. #T, SLO <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> — [805-781-4754](tel:+1-805-781-4754) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Youth Mental Health Services: 2975 McMillan Suite 160 <a href="#" class="map-link" data-lat="35.263533" data-lon="-120.648100" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4179](tel:+1-805-781-4179) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Psychiatric Health Facility: 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Martha’s Place Children’s Center (Ages 0–5): 2925 McMillan Ave. Suite 108 <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [805-781-4948](tel:+1-805-781-4948) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Prevention and Outreach Services: 277 South St. #T, SLO <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> — [805-781-4754](tel:+1-805-781-4754) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - SLO Sobering Center: 2180 Johnson Ave. <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> — [820-280-0415](tel:+1-820-280-0415) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
 - **Phone:**
-   - Behavioral Health Access Line: [800-838-1381](tel:+1-800-838-1381)
-   - Local mental health crisis hotline: [800-783-0607](tel:+1-800-783-0607)
+   - Behavioral Health Access Line: [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
+   - Local mental health crisis hotline: [800-783-0607](tel:+1-800-783-0607) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
    - Patient’s rights advocate: [805-781-4738](tel:+1-805-781-4738)
-- **Hours:** M–F 8am–5pm (closed Noon–1pm for lunch)
-- Cost: “No clients are denied access to services due to inability to pay. Discounted fees and sliding fee schedules are available based on family size and income.”
+- **Hours:** M–F 8am–5pm (closed Noon–1pm for lunch) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+- Cost: “No clients are denied access to services due to inability to pay. Discounted fees and sliding fee schedules are available based on family size and income.” <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
 - Notes:
    - Operates [**SLO County Drug and Alcohol Services**](#SLO-County-Drug-and-Alcohol-Services)
    - [**Genoa Pharmacy**](#Genoa-Pharmacy) is the on-site pharmacy for SLO County Behavioral Health
@@ -3026,14 +3044,19 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="SLO-County-Clerk-Recorder">SLO County Clerk-Recorder</a>
 
 - **Website:** [slocounty.ca.gov/departments/clerk-recorder](https://www.slocounty.ca.gov/departments/clerk-recorder)
-- **Location:** 1055 Monterey St. #D120, SLO <a class="map-link" data-lat="35.282079" data-lon="-120.660193" data-zoom="17" data-label="SLO County Clerk-Recorder">Map</a>
-- **Phone:** [805-781-5080](tel:+1-805-781-5080)
-- **Hours:** M/Tu/Th/F 8am–5pm, W 8am–4pm (transactions end 30 minutes before closing)
+- **Locations:**
+   - 6565 Capistrano Ave., 2nd Floor, Atascadero <a href="#" class="map-link" data-lat="35.489136" data-lon="-120.663893" data-zoom="17" data-label="SLO County Clerk-Recorder">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
+   - 1055 Monterey St. #D120, SLO <a class="map-link" data-lat="35.282079" data-lon="-120.660193" data-zoom="17" data-label="SLO County Clerk-Recorder">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
+- **Phone:**
+   - [805-781-5080](tel:+1-805-781-5080) <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
+   - [805-461-6041](tel:+1-805-461-6041) (North County office) <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
+- **Hours:** SLO office only: M/Tu/Th/F 8am–5pm, W 8am–4pm (transactions end 30 minutes before closing) <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
 
 ## <a id="SLO-County-Department-of-Social-Services">SLO County Department of Social Services</a>
 
 - **Website:** [slocounty.ca.gov/departments/social-services](https://www.slocounty.ca.gov/departments/social-services)
 
+<!-- Source (location/phone): https://www.slocounty.ca.gov/departments/social-services/our-locations -->
 | Location | Phone |
 | -------- | ----- |
 | 1086 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SLO County Department of Social Services">Map</a> | [805-474-2000](tel:+1-805-474-2000) |
@@ -3043,7 +3066,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 | 406 Spring St., Paso Robles <a href="#" class="map-link" data-lat="35.618565" data-lon="-120.690345" data-zoom="17" data-label="Department of Social Services">Map</a> | [805-237-3110](tel:+1-805-237-3110) |
 | 3433 S. Higuera, SLO <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="SLO County Department of Social Services">Map</a> | [805-781-1600](tel:+1-805-781-1600) |
 
-- **Hours:** M–F 8am–5pm (4pm–5pm by appointment only)
+- **Hours:** M–F 8am–5pm (4pm–5pm by appointment only) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/our-locations -->
 - Notes:
    - operates [**CalWORKs Homeless Assistance Program**](#CalWORKs)
    - operates [“General Assistance Disabled Program”](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
@@ -3059,13 +3082,14 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services)
 
+<!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics -->
 | Location | Phone | Walk-in Hours |
 | -------- | ----- | ------------- |
-| 5575 Hospital Dr., Atascadero <a href="#" class="map-link" data-lat="35.492639" data-lon="-120.662906" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-461-6060](tel:+1-805-461-6060) | M–F 8am–5pm |
 | 1523 Longbranch Ave., Grover Beach <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-473-7080](tel:+1-805-473-7080) or [805-473-7081](tel:+1-805-473-7081) | Mo,Fr 8am–11am; Tu 2:30–5:30pm |
+| 805 E. 4th Street, Paso Robles <a href="#" class="map-link" data-lat="35.618678" data-lon="-120.689326" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-226-3200](tel:+1-805-226-3200) | Mo,Th 8am–11am; Tu 2:30–5:30pm |
 | 2180 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> — for adults | [805-781-4275](tel:+1-805-781-4275) | Tu,We 8am–11am; Th 2:30–5:30pm |
 | 277 South St. #T, SLO <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> — for youth & veterans | [805-781-4754](tel:+1-805-781-4754) | M–F 8am–5pm |
-| 805 E. 4th Street, Paso Robles <a href="#" class="map-link" data-lat="35.618678" data-lon="-120.689326" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-226-3200](tel:+1-805-226-3200) | Mo,Th 8am–11am; Tu 2:30–5:30pm |
+<!-- | 5575 Hospital Dr., Atascadero <a href="#" class="map-link" data-lat="35.492639" data-lon="-120.662906" data-zoom="17" data-label="SLO County Drug and Alcohol Services">Map</a> | [805-461-6060](tel:+1-805-461-6060) | M–F 8am–5pm | -->
 
 - **Phone:** [800-838-1381](tel:+1-800-838-1381) (main access line)
 - **Hours:** M–F 8am–5pm
@@ -3092,15 +3116,21 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)
 
+<!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
 | Serves | Location | Phone |
 | ------ | -------- | ----- |
-| Adults | 1350 E. Grand Ave. <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-474-2154](tel:+1-805-474-2154) |
-| Youths | 354 S. Halcyon Rd. <a href="#" class="map-link" data-lat="35.113647" data-lon="-120.592282" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-473-7060](tel:+1-805-473-7060) |
-| Adults | 2178 Johnson Ave. <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-781-4700](tel:+1-805-781-4700) |
-| Youths | 1989 Vicente Dr. <a href="#" class="map-link" data-lat="35.253829" data-lon="-120.685962" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-781-4179](tel:+1-805-781-4179) |
+| Adults | 1350 E. Grand Ave. , Arroyo Grande<a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-474-2154](tel:+1-805-474-2154) |
+| Youths | 354 S. Halcyon Rd., Arroyo Grande <a href="#" class="map-link" data-lat="35.113647" data-lon="-120.592282" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-473-7060](tel:+1-805-473-7060) |
+| Youths | 1666 Ramona Ave., Grover Beach <a href="#" class="map-link" data-lat="35.119877" data-lon="-120.612731" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> | [805-473-7060](tel:+1-805-473-7060) |
+| Adults | 2178 Johnson Ave., SLO <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-781-4700](tel:+1-805-781-4700) |
+| Youths | 2975 McMillan Ave. Suite 160, SLO <a href="#" class="map-link" data-lat="35.263533" data-lon="-120.648100" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-781-4179](tel:+1-805-781-4179) |
+| Children | 2925 McMillan Ave. Suite 108, SLO <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Mental Health Services">Map</a> | [805-781-4948](tel:+1-805-781-4948) |
 
 - **Phone:** [800-838-1381](tel:+1-800-838-1381) (24hr) / [805-540-6500](tel:+1-805-540-6500)
 - **Hours:** M–F 8am–5pm
+- **How to access:**
+   - Walk-ins OK at the Arroyo Grande adult clinic M/W 9–11am and at the SLO adult clinic Tu/Th 1–4:30pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
+   - For youths and children, call to make an appointment
 - Notes:
    - Central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
    - Can refer you to the “Supported Employment” program
@@ -3108,15 +3138,17 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="SLO-County-Office-of-Emergency-Services">SLO County Office of Emergency Services</a>
 
 - **Website:** [slocounty.ca.gov/departments/administrative-office/office-of-emergency-services](https://www.slocounty.ca.gov/departments/administrative-office/office-of-emergency-services/contact-us)
-- **Phone:** [805-781-5678](tel:+1-805-781-5678)
-- **Email:** [oes@co.slo.ca.us](mailto:oes@co.slo.ca.us)
+- **Location:** 1055 Monterey St. #D430, SLO <a class="map-link" data-lat="35.282079" data-lon="-120.660193" data-zoom="17" data-label="SLO County Clerk-Recorder">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/administrative-office/office-of-emergency-services/contact-us -->
+- **Phone:** [805-781-5678](tel:+1-805-781-5678) <!-- Source: https://www.slocounty.ca.gov/departments/administrative-office/office-of-emergency-services/contact-us -->
+- **Email:** [oes@co.slo.ca.us](mailto:oes@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/administrative-office/office-of-emergency-services/contact-us -->
 - Notes: For emergency alert signup, visit [AlertSLO.org](https://alertslo.org) or [PrepareSLO.org](https://www.prepareslo.org/)
 
 ## <a id="SLO-County-Parks">SLO County Parks</a>
 
 - **Website:** [slocountyparks.com](https://slocountyparks.com/)
-- **Phone:** [805-781-5930](tel:+1-805-781-5930)
-- **Email:** [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
+- **Location:** 1144 Monterey St. #A, SLO <a href="#" class="map-link" data-lat="35.283374" data-lon="-120.659376" data-zoom="17" data-label="SLO County Parks & Recreation">Map</a> <!-- Source: https://slocountyparks.com/ -->
+- **Phone:** [805-781-5930](tel:+1-805-781-5930) <!-- Source: https://slocountyparks.com/ -->
+- **Email:** [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us) <!-- Source: https://slocountyparks.com/ -->
 - See also:
    - [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes)
    - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground)
@@ -3129,11 +3161,15 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 > *See also [**SLO County Health Department**](#SLO-County-Health-Department)*
 
 - **Website:** [slocounty.ca.gov/departments/health-agency/public-health](https://www.slocounty.ca.gov/departments/health-agency/public-health)
-- **Location:** 2180 and 2191 Johnson Ave, SLO <a href="#" class="map-link" data-lat="35.275124" data-lon="-120.646309" data-zoom="17" data-label="SLO County Public Health Department">Map</a>
+- **Location:**
+   - 2180 Johnson Ave, SLO <a href="#" class="map-link" data-lat="35.274940" data-lon="-120.646298" data-zoom="17" data-label="SLO County Public Health Department">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
+   - 2191 Johnson Ave, SLO <a href="#" class="map-link" data-lat="35.274391" data-lon="-120.646730" data-zoom="17" data-label="SLO County Public Health Department">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
+   - 805 4th St., Paso Robles <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Behavioral Health">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
 - **Phone:**
-   - [805-788-2903](tel:+1-805-788-2903) (24-hour info line)
-   - [805-781-5506](tel:+1-805-781-5506) (to make an appointment)
-- **Hours:** M–F 8am–5pm (closed Noon–1pm)
+   - [805-788-2903](tel:+1-805-788-2903) (24-hour info line) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/contact-us -->
+   - [805-781-5506](tel:+1-805-781-5506) (to make an appointment) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
+   - [805-237-3050](tel:+1-805-237-3050) (Paso Robles) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
+- **Hours:** M–F 8am–5pm (closed Noon–1pm) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
 
 ## <a id="SLO-County-Public-Libraries">SLO County Public Libraries</a>
 
@@ -3164,8 +3200,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - SLO: Tu 10–11:30am & 2:30–4pm
 
   You can also make an appointment to meet with the team by calling [805-540-0057](tel:+1-805-540-0057)
-
-  <!-- Hours & locations verified from a flyer posted at the SLO city library on 22 Nov. 2025 -->
+  <!-- L.O.T. Hours & locations verified from a flyer posted at the SLO city library on 22 Nov. 2025 -->
 
 <!-- Small Claims Advisor is closed according to https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions
 ## <a id="SLO-County-Small-Claims-Advisor">SLO County Small Claims Advisor</a>
@@ -3190,41 +3225,41 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Website:** [ciymca.org/locations/san-luis-obispo-county-ymca](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
    - [Open Doors Scholarship application](https://www.ciymca.org/open-doors-scholarship-application) for people with low incomes
-- **Location:** 1020 Southwood Dr., SLO <a class="map-link" data-lat="35.266421" data-lon="-120.643242" data-zoom="17" data-label="SLO County YMCA">Map</a>
-- **Phone:** [805-543-8235](tel:+1-805-543-8235)
+- **Location:** 1020 Southwood Dr., SLO <a class="map-link" data-lat="35.266421" data-lon="-120.643242" data-zoom="17" data-label="SLO County YMCA">Map</a> <!-- Source: https://www.ciymca.org/locations/san-luis-obispo-county-ymca -->
+- **Phone:** [805-543-8235](tel:+1-805-543-8235) <!-- Source: https://www.ciymca.org/locations/san-luis-obispo-county-ymca -->
 - **Email:** [slo.info@ciymca.org](mailto:slo.info@ciymca.org)
-- **Hours:** M–Th 5:30am–9pm, F 5:30am–7pm, Sa 7am–5pm, Su closed
+- **Hours:** M–Th 5:30am–9pm, F 5:30am–7pm, Sa 7am–5pm, Su closed <!-- Source: https://www.ciymca.org/locations/san-luis-obispo-county-ymca -->
 
 ## <a id="SLO-Court-Self-Help-Services">SLO Court Self-Help Services</a>
 
 - **Website:** [slo.courts.ca.gov/self-help](https://www.slo.courts.ca.gov/self-help)
 - **Location:** 1050 Monterey St., Room 220, SLO <a class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Court Self-Help Services">Map</a>
-- **Phone:** [805-706-3617](tel:+1-805-706-3617)
-- **Hours:** M–F 8:30am–4:30pm
-- **How to access:** Phone, or make an appointment at [calendly.com/self-help-center](https://calendly.com/self-help-center/)
+- **Phone:** [805-706-3617](tel:+1-805-706-3617) <!-- Source: https://www.slo.courts.ca.gov/self-help -->
+- **Hours:** M–F 8:30am–4:30pm <!-- Source: https://www.slo.courts.ca.gov/self-help -->
+- **How to access:** Phone, or make an appointment at [calendly.com/self-help-center](https://calendly.com/self-help-center/) <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 - Notes: Includes “Family Law Facilitator” and “Self-Help Center”
 
 ## <a id="SLO-Credit-Union">SLO Credit Union</a>
 
 - **Website:** [slocu.com](https://slocu.com/)
-- **Location:** 1220 Osos St., SLO <a class="map-link" data-lat="35.280049" data-lon="-120.659510" data-zoom="17" data-label="SLO Credit Union">Map</a>
-- **Phone:** [805-543-5839](tel:+1-805-543-5839)
-- **Hours:** M–F 9am–4:30pm (lobby closed noon–2pm)
+- **Location:** 1220 Osos St., SLO <a class="map-link" data-lat="35.280049" data-lon="-120.659510" data-zoom="17" data-label="SLO Credit Union">Map</a> <!-- Source: https://slocu.com/ -->
+- **Phone:** [805-543-5839](tel:+1-805-543-5839) <!-- Source: https://slocu.com/ -->
+- **Hours:** M–F 9am–4:30pm (lobby closed noon–2pm) <!-- Source: https://slocu.com/ -->
 
 ## <a id="SLO-Food-Bank">SLO Food Bank</a>
 
 - **Website:** [slofoodbank.org](https://www.slofoodbank.org/)
-- **Location:** 1180 Kendall Rd., SLO <a class="map-link" data-lat="35.237752" data-lon="-120.630593" data-zoom="17" data-label="SLO Food Bank">Map</a>
-   - Also has many food distribution sites around SLO County
-- **Phone:** [805-238-4664](tel:+1-805-238-4664)
-- **Hours:** M–F 9:30am–4pm
-   - Food pantry: M/W/F Noon–5pm
+- **Location:** 1180 Kendall Rd., SLO <a class="map-link" data-lat="35.237752" data-lon="-120.630593" data-zoom="17" data-label="SLO Food Bank">Map</a> <!-- Source: https://slofoodbank.org/en/contact/ -->
+   - Also has [many food distribution sites around SLO County](https://slofoodbank.org/en/food-locator/#neighborhood-food-distributions)
+- **Phone:** [805-238-4664](tel:+1-805-238-4664) <!-- Source: https://slofoodbank.org/en/contact/ -->
+- **Hours:** M–F 9:30am–4pm <!-- Source: https://slofoodbank.org/en/contact/ -->
+   - Food pantry: M/W/F Noon–5pm <!-- Source: https://slofoodbank.org/en/contact/ -->
 
 ## <a id="SLO-Grassroots">SLO Grassroots</a>
 
 - **Website:** [slograssroots.org](https://slograssroots.org/)
-- **Phone:** [805-540-1455](tel:+1-805-540-1455)
-- **Email:** [info@slograssroots.com](mailto:info@slograssroots.com)
+- **Phone:** [805-540-1455](tel:+1-805-540-1455) <!-- https://slograssroots.org/ -->
+- **Email:** [info@slograssroots.com](mailto:info@slograssroots.com) <!-- https://slograssroots.org/ -->
 
 ## <a id="SLO-Hub">SLO Hub</a>
 
@@ -3241,27 +3276,38 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="SLO-Legal-Assistance-Foundation">SLO Legal Assistance Foundation (SLOLAF)</a>
 
 - **Website:** [slolaf.org](https://www.slolaf.org/)
-- **Location:** 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="SLO Legal Assistance Foundation">Map</a>
-- **Phone:** [805-543-5140](tel:+1-805-543-5140)
-- **Email:** [info@slolaf.org](mailto:info@slolaf.org)
+- **Locations:**
+   - 3232 S. Higuera St. #101D, SLO <a class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="SLO Legal Assistance Foundation">Map</a> <!-- Source: https://www.slolaf.org/ -->
+   - 102 S. Vine St. #C, Paso Robles <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">Map</a> <!-- Source: https://www.slolaf.org/ -->
+- **Phone:** [805-543-5140](tel:+1-805-543-5140) <!-- Source: https://www.slolaf.org/ -->
+- **Email:** [info@slolaf.org](mailto:info@slolaf.org) <!-- Source: https://www.slolaf.org/ -->
 - Notes:
    - Operates [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
 
 ## <a id="SLO-Noor-Foundation">SLO Noor Foundation</a>
 
 - **Website:** [slonoorfoundation.org](https://www.slonoorfoundation.org/)
-- Primary & vision clinic
-   - **Location:** 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">Map</a>
-   - **Phone:** [805-439-1797](tel:+1-805-439-1797)
-   - **Email:** [info@slonoorfoundation.org](mailto:info@slonoorfoundation.org)
-   - **Hours:** M–Th 8am–Noon and 1pm–5pm
+- Primary clinics
+   - **Locations:**
+      - 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">Map</a> <!-- Source: https://www.slonoorfoundation.org/ -->
+      - 400 Oak Hill Rd., Paso Robles <a href="#" class="map-link" data-lat="35.613052" data-lon="-120.675974" data-zoom="17" data-label="SLO Noor Foundation">Map</a>
+   - **Phone:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Email:** [info@slonoorfoundation.org](mailto:info@slonoorfoundation.org) <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Hours:** SLO M–Th 8am–5pm; Paso Robles W 8am–5pm <!-- Source: https://www.slonoorfoundation.org/medical -->
+- Vision clinic
+   - **Location:** 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">Map</a> <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Phone:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Email:** [info@slonoorfoundation.org](mailto:info@slonoorfoundation.org) <!-- Source: https://www.slonoorfoundation.org/ -->
 - Dental care clinic
-   - **Location:** 3071 S. Higuera St. #100, SLO <a href="#" class="map-link" data-lat="35.258739" data-lon="-120.668378" data-zoom="17" data-label="SLO Noor Foundation dental clinic">Map</a>
-   - **Phone:** [805-592-2240](tel:+1-805-592-2240)
-   - **Email:** [dental@slonoorfoundation.org](mailto:dental@slonoorfoundation.org)
+   - **Location:** 3071 S. Higuera St. #110, SLO <a href="#" class="map-link" data-lat="35.258739" data-lon="-120.668378" data-zoom="17" data-label="SLO Noor Foundation dental clinic">Map</a> <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Phone:** [805-592-2240](tel:+1-805-592-2240) <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Email:** [dental@slonoorfoundation.org](mailto:dental@slonoorfoundation.org) <!-- Source: https://www.slonoorfoundation.org/ -->
 - Women’s mobile health unit
-   - **Phone:** [805-756-5089](tel:+1-805-756-5089)
-   - **Email:** [ccmacedo@calpoly.edu](mailto:ccmacedo@calpoly.edu)
+   - **Phone:** [805-756-5089](tel:+1-805-756-5089) <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
+   - **Email:** [ccmacedo@calpoly.edu](mailto:ccmacedo@calpoly.edu) <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
+- Primary mobile health unit
+   - **Phone:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/mhc -->
+   - **Locations:** Atascadero, Nipomo, Oceano, Paso Robles <!-- Source: https://www.slonoorfoundation.org/mhc -->
 - **How to access:**
    - By appointment only
    - Bring proof of income and a copy of your most recent income tax return to your first appointment
@@ -3269,37 +3315,37 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="SLO-Partners">SLO Partners</a>
 
 - **Website:** [slopartners.org](https://slopartners.org/)
-- **Location:** 3350 Education Dr. SLO <a class="map-link" data-lat="35.334344" data-lon="-120.742872" data-zoom="17" data-label="SLO Partners">Map</a>
-- **Phone:** [805-782-7372](tel:+1-805-782-7372)
-- **Email:** [info@slopartners.org](mailto:info@slopartners.org)
+- **Location:** 3350 Education Dr. SLO <a class="map-link" data-lat="35.334344" data-lon="-120.742872" data-zoom="17" data-label="SLO Partners">Map</a> <!-- Source: https://slopartners.org/ -->
+- **Phone:** [805-782-7372](tel:+1-805-782-7372) <!-- Source: https://slopartners.org/ -->
+- **Email:** [info@slopartners.org](mailto:info@slopartners.org) <!-- Source: https://slopartners.org/ -->
 
 ## <a id="SLO-Public-Defenders">SLO Public Defenders</a>
 
 - **Website:** [slodefend.com](https://slodefend.com/)
-- **Location:** 991 Osos Street #A, SLO <a class="map-link" data-lat="35.281851" data-lon="-120.661598" data-zoom="17" data-label="SLO Public Defenders">Map</a>
-- **Phone:** [805-541-5715](tel:+1-805-541-5715)
-- **Hours:** M–Th 8:30am–Noon & 1pm–5pm; F 8:30am–Noon & 1pm–4pm
+- **Location:** 991 Osos Street #A, SLO <a class="map-link" data-lat="35.281851" data-lon="-120.661598" data-zoom="17" data-label="SLO Public Defenders">Map</a> <!-- Source: https://slodefend.com/contact-us/ -->
+- **Phone:** [805-541-5715](tel:+1-805-541-5715) <!-- Source: https://slodefend.com/contact-us/ -->
+- **Hours:** M–Th 8:30am–Noon & 1pm–5pm; F 8:30am–Noon & 1pm–4pm <!-- Source: https://slodefend.com/contact-us/ -->
 - **How to access:** Appear at first court hearing and ask judge to appoint attorney; meetings by appointment only
 
 ## <a id="SLO-RTA">SLO Regional Transit Authority</a>
 
 - **Website:** [slorta.org](https://www.slorta.org/)
-- **Location:** 253 Elks Lane, SLO <a href="#" class="map-link" data-lat="35.256974" data-lon="-120.672616" data-zoom="17" data-label="SLO Regional Transit Authority">Map</a> (offices)
+- **Location:** 253 Elks Lane, SLO <a href="#" class="map-link" data-lat="35.256974" data-lon="-120.672616" data-zoom="17" data-label="SLO Regional Transit Authority">Map</a> (offices) <!-- Source: https://www.slorta.org/ -->
 - **Phone:** [805-781-4472](tel:+1-805-781-4472)
-   - Info/Dispatch: [805-541-2228](tel:+1-805-541-2228)
+   - Info/Dispatch: [805-541-2228](tel:+1-805-541-2228) <!-- Source: https://www.slorta.org/ -->
    - Access program (reduced fares for people with low incomes): [805-541-8797](tel:+1-805-541-8797)
    - Runabout Paratransit: [805-781-4833](tel:+1-805-781-4833)
-- **Email:** [info@slorta.org](mailto:info@slorta.org)
-- Hours (office): M–Th 8am–4pm; Friday by appointment only
+- **Email:** [info@slorta.org](mailto:info@slorta.org) <!-- Source: https://www.slorta.org/ -->
+- Hours (office): M–Th 8am–4pm; Friday by appointment only <!-- Source: https://www.slorta.org/about-rta/contact/ -->
 - Notes: Also operates “Runabout Paratransit,” [**Senior Go! Shuttle**](#Senior-Go), and “Dial-A-Ride”
 
 ## <a id="SLO-Senior-Center">SLO Senior Center</a>
 
 <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs verified October 2025 -->
 - **Website:** [slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs)
-- **Location:** 1445 Santa Rosa St., SLO <a class="map-link" data-lat="35.278951" data-lon="-120.657079" data-zoom="17" data-label="SLO Senior Center">Map</a>
-- **Phone:** [805-781-7306](tel:+1-805-781-7306)
-- **Hours:** M–F 9am–4pm
+- **Location:** 1445 Santa Rosa St., SLO <a class="map-link" data-lat="35.278951" data-lon="-120.657079" data-zoom="17" data-label="SLO Senior Center">Map</a> <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
+- **Phone:** [805-781-7306](tel:+1-805-781-7306) <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
+- **Hours:** M–F 9am–4pm <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
 - Membership: Open to SLO city residents 55+; includes monthly newsletter, center access, free coffee
 - Notes:
    - Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
@@ -3308,60 +3354,65 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
 - **Website:** [slocounty.gov/soberingcenter](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center)
-- **Location:** 2180 Johnson Ave., SLO <a class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="SLO Sobering Center">Map</a>
-- **Phone:** [820-280-0415](tel:+1-820-280-0415)
-- **Hours:** 24/7
+- **Location:** 2180 Johnson Ave., SLO <a class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="SLO Sobering Center">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
+- **Phone:** [820-280-0415](tel:+1-820-280-0415) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
+- **Hours:** 24/7 <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
 
 ## <a id="SLO-Superior-Court">SLO Superior Court</a>
 
 - **Website:** [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)
 - **Locations:**
-   - Civil & Family Law Branch: 1050 Monterey St. Rm 220, SLO <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Superior Court">Map</a>
-   - Criminal Branch: 1050 Monterey St. Rm 220, SLO <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Superior Court">Map</a>
-   - Grover Beach Branch: 214 S. 16th St., Grover Beach <a href="#" class="map-link" data-lat="35.119856" data-lon="-120.612030" data-zoom="17" data-label="SLO Superior Court">Map</a>
-   - Juvenile Services Center: 1050 Monterey St., SLO <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Superior Court">Map</a>
-   - Paso Robles Branch: 901 Park St., Paso Robles <a href="#" class="map-link" data-lat="35.624257" data-lon="-120.690294" data-zoom="17" data-label="SLO Superior Court">Map</a>
-   - Veteran’s Memorial Branch: 801 Grand Ave., SLO <a href="#" class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="SLO Superior Court">Map</a>
-<!-- Note: All court locations verified via slo.courts.ca.gov (October 2025) -->
+   - Civil & Family Law Branch: 1050 Monterey St. Rm 220, SLO <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Superior Court">Map</a> <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
+   - Criminal Branch: 1050 Monterey St. Rm 220, SLO <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Superior Court">Map</a> <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
+   - Grover Beach Branch: 214 S. 16th St., Grover Beach <a href="#" class="map-link" data-lat="35.119856" data-lon="-120.612030" data-zoom="17" data-label="SLO Superior Court">Map</a> <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
+   - Juvenile Services Center: 1050 Monterey St., SLO <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Superior Court">Map</a> <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
+   - Juvenile Justice (Delinquency): 1065 Kansas Ave., SLO <a href="#" class="map-link" data-lat="35.321279" data-lon="-120.718836" data-zoom="17" data-label="PLACEHOLDER">Map</a> <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
+   - Paso Robles Branch: 901 Park St., Paso Robles <a href="#" class="map-link" data-lat="35.624257" data-lon="-120.690294" data-zoom="17" data-label="SLO Superior Court">Map</a> <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
+   - Veteran’s Memorial Branch: 801 Grand Ave., SLO <a href="#" class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="SLO Superior Court">Map</a> (temporarily closed as of December 2025) <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
 - **Phone:** [805-706-3600](tel:+1-805-706-3600) (Civil & Family Law Branch and Criminal Branch)
+- **Hours:**
+   - Phone: M–F 8:30am–Noon
+   - Counter: M–Th 8:30am–Noon (Juvenile Justice, M 8am only; Paso Robles branch W/F 8:30am–Noon)
 
 ## <a id="SLO-Thrift">SLO Thrift</a>
 
 - **Website:** [slothrift.com](https://slothrift.com/)
-- **Location:** 445 Higuera St., SLO <a href="#" class="map-link" data-lat="35.275984" data-lon="-120.668482" data-zoom="17" data-label="SLO Thrift">📍 Map</a>
-- **Phone:** [805-439-4434](tel:+1-805-439-4434)
+- **Location:** 445 Higuera St., SLO <a href="#" class="map-link" data-lat="35.275984" data-lon="-120.668482" data-zoom="17" data-label="SLO Thrift">📍 Map</a> <!-- Source: https://slothrift.com/ -->
+- **Phone:** [805-439-4434](tel:+1-805-439-4434) <!-- Source: https://slothrift.com/ -->
+- **Hours:** M&ndash;Sa 9am&ndash;5pm <!-- Source: https://slothrift.com/ -->
 - Note: Not yet open as of November 2025 (being remodeled)
 
 ## <a id="SLO-Transit">SLO Transit</a>
 
 - **Website:** [slocity.org/government/department-directory/public-works/slo-transit-bus](https://www.slocity.org/government/department-directory/public-works/slo-transit-bus)
-- **Location** (office): 1260 Chorro St. #B, SLO <a href="#" class="map-link" data-lat="35.278607" data-lon="-120.661582" data-zoom="17" data-label="SLO Transit">📍 Map</a>
+- **Location** (office): 1260 Chorro St. #B, SLO <a href="#" class="map-link" data-lat="35.278607" data-lon="-120.661582" data-zoom="17" data-label="SLO Transit">📍 Map</a> <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit-bus -->
 - **Phone:**
-   - [805-594-8090](tel:+1-805-594-8090) (main office)
-   - [805-541-2877](tel:+1-805-541-2877) (dispatch)
-- **Email:** [slotransit@slocity.org](mailto:slotransit@slocity.org)
+   - [805-594-8090](tel:+1-805-594-8090) (main office) <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit-bus -->
+   - [805-541-2877](tel:+1-805-541-2877) (dispatch) <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit-bus -->
+- **Email:** [slotransit@slocity.org](mailto:slotransit@slocity.org) <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit-bus -->
 
 ## <a id="SLO-Vet-Center">SLO Vet Center</a>
 
 - **Website:** [va.gov/san-luis-obispo-vet-center](https://www.va.gov/san-luis-obispo-vet-center/)
-- **Location:** 1070 Southwood Dr., SLO <a class="map-link" data-lat="35.265278" data-lon="-120.640912" data-zoom="17" data-label="SLO Vet Center">Map</a>
-- **Phone:** [805-782-9101](tel:+1-805-782-9101)
-   - After hours: [877-927-8387](tel:+1-877-927-8387)
-- **Hours:** M–F 8am–4:30pm
+- **Location:** 1070 Southwood Dr., SLO <a class="map-link" data-lat="35.265278" data-lon="-120.640912" data-zoom="17" data-label="SLO Vet Center">Map</a> <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
+- **Phone:** [805-782-9101](tel:+1-805-782-9101) <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
+   - 24/7: [877-927-8387](tel:+1-877-927-8387) <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
+- **Hours:** M–F 8am–4:30pm <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
 - **How to access:** call to make an appointment
 
 ## <a id="SmartShare-Housing-Solutions">SmartShare Housing Solutions</a>
 
 - **Website:** [smartsharehousingsolutions.org](https://www.smartsharehousingsolutions.org/)
-- **Mailing address:** PO Box 15034, SLO, CA 93406
-- **Phone:** [805-215-5474](tel:+1-805-215-5474)
+- **Mailing address:** PO Box 15034, SLO, CA 93406 <!-- Source: https://www.smartsharehousingsolutions.org/ -->
+- **Phone:** [805-215-5474](tel:+1-805-215-5474) <!-- Source: https://www.smartsharehousingsolutions.org/ -->
+- **Email:** [info@smartsharehousingsolutions.org](mailto:info@smartsharehousingsolutions.org) <!-- Source: https://www.smartsharehousingsolutions.org/ -->
 
 ## <a id="Social-Security-Administration">Social Security Administration</a>
 
 - **Website:** [ssa.gov](https://www.ssa.gov/)
-- **Location:** 3240 S. Higuera St., SLO <a class="map-link" data-lat="35.256200" data-lon="-120.668801" data-zoom="17" data-label="Social Security Administration">Map</a>
-- **Phone:** [855-207-4865](tel:+1-855-207-4865)
-- **Hours:** M–F 9am–4pm
+- **Location:** 3240 S. Higuera St., SLO <a class="map-link" data-lat="35.256200" data-lon="-120.668801" data-zoom="17" data-label="Social Security Administration">Map</a> <!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
+- **Phone:** [855-207-4865](tel:+1-855-207-4865) (TTY: [800-325-0778](tel:+1-800-325-0778))<!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
+- **Hours:** M–F 9am–4pm <!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
 - **How to access:** Call to schedule an appointment
 
 ## Social Services
@@ -3370,34 +3421,33 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Society-of-St-Vincent-de-Paul">Society of Saint Vincent de Paul</a>
 
-- **Location:** 751 Palm St., SLO <a class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">Map</a>
-- **Phone:** [805-544-7041](tel:+1-805-544-7041)
+- **Location:** 751 Palm St., SLO <a class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">Map</a> <!-- Source: https://fpcslo.org/assistance -->
+- **Phone:** [805-544-7041](tel:+1-805-544-7041) <!-- Source: https://fpcslo.org/assistance -->
 - **Hours:**
-   - Tuesdays at Prado Center (43 Prado <a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">📍 Map</a>): 2–3pm
-   - Thursdays at Mission San Luis Obispo (751 Palm <a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">📍 Map</a>): by appointment only
-- **How to access:** call to schedule an appointment
+   - Tuesdays at Prado Center (43 Prado Rd., SLO <a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">📍 Map</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
+   - Thursdays at Mission San Luis Obispo (751 Palm St., SLO <a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">📍 Map</a>): by appointment only <!-- Source: https://fpcslo.org/assistance -->
+- **How to access:** drop-in at Prado, or call to schedule an appointment at the Mission
 <!-- Note: No dedicated website found for local chapter (as of October 2025) -->
 
 ## <a id="South-Bay-Community-Center">South Bay Community Center</a>
 
-<!-- Source: https://southbaycommunitycenter.com/ -->
 - **Website:** [southbaycommunitycenter.com](https://southbaycommunitycenter.com/)
 - **Location:** 2180 Palisades Ave., Los Osos <a class="map-link" data-lat="35.312984" data-lon="-120.836284" data-zoom="17" data-label="South Bay Community Center">Map</a>
-- **Phone:** [805-528-4169](tel:+1-805-528-4169)
-- **Email:** [sbcc@sbcommunitycenter.net](mailto:sbcc@sbcommunitycenter.net)
-- **Hours:** M/Tu/F 1–4pm (office)
+- **Phone:** [805-528-4169](tel:+1-805-528-4169) <!-- Source: https://southbaycommunitycenter.com/ -->
+- **Email:** [sbcc@sbcommunitycenter.net](mailto:sbcc@sbcommunitycenter.net) <!-- Source: https://southbaycommunitycenter.com/contact/ -->
+- **Hours:** M/Tu/F 1–4pm (office) <!-- Source: https://southbaycommunitycenter.com/ -->
 - Notes:
-   - Hosts Early Risers A.A. meetings
-   - Hosts [**Meals that Connect**](#Meals-that-Connect) senior nutrition program
-   - Hosts [**Los Osos Cares**](#Los-Osos-Cares) Community Dinner
-   - [**South Bay Seniors People Helping People**](#South-Bay-Seniors-People-Helping-People) operates their food bank and medical equipment loan program from this facility (M/W/F 9am–1pm)
+   - Hosts Early Risers A.A. meetings <!-- Source: https://southbaycommunitycenter.com/ -->
+   - Hosts [**Meals that Connect**](#Meals-that-Connect) senior nutrition program <!-- Source: https://southbaycommunitycenter.com/ -->
+   - Hosts [**Los Osos Cares**](#Los-Osos-Cares) Community Dinner <!-- Source: https://southbaycommunitycenter.com/ -->
+   - [**South Bay Seniors People Helping People**](#South-Bay-Seniors-People-Helping-People) operates their food bank and medical equipment loan program from this facility (M/W/F 9am–1pm) <!-- Source: https://southbaycommunitycenter.com/ -->
 
 ## <a id="South-Bay-Seniors-People-Helping-People">South Bay Seniors People Helping People</a>
 
 - **Website:** [southbayseniorspeoplehelpingpeople.com](https://southbayseniorspeoplehelpingpeople.com/)
-- **Location:** 2180 Palisades Ave., Los Osos <a class="map-link" data-lat="35.312984" data-lon="-120.836284" data-zoom="17" data-label="South Bay Seniors People Helping People">Map</a>
-- **Phone:** [805-528-2626](tel:+1-805-528-2626)
-- **Hours:** M/W/F 9am–1pm
+- **Location:** 2180 Palisades Ave., Los Osos <a class="map-link" data-lat="35.312984" data-lon="-120.836284" data-zoom="17" data-label="South Bay Seniors People Helping People">Map</a> <!-- Source: https://southbaycommunitycenter.com/ -->
+- **Phone:** [805-528-2626](tel:+1-805-528-2626) <!-- Source: https://southbaycommunitycenter.com/ -->
+- **Hours:** M/W/F 9am–1pm <!-- Source: https://southbaycommunitycenter.com/ -->
 
 ## Stand Strong
 
@@ -3406,9 +3456,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Steves-Recycling">Steve’s Recycling — Los Osos</a>
 
 <!-- Note: No website found (as of October 2025) -->
-- **Location:** 1130 Los Osos Valley Rd., Los Osos <a class="map-link" data-lat="35.311838" data-lon="-120.829993" data-zoom="17" data-label="Steve’s Recycling — Los Osos">Map</a>
-- **Phone:** [805-801-1627](tel:+1-805-801-1627)
-- **Hours:** Sa 9am–11am
+<!-- This seems iffy. I don't see a lot of current references to it. -DG -->
+- **Location:** 1130 Los Osos Valley Rd., Los Osos <a class="map-link" data-lat="35.311838" data-lon="-120.829993" data-zoom="17" data-label="Steve’s Recycling — Los Osos">Map</a> <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
+- **Phone:** [805-801-1627](tel:+1-805-801-1627) <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
+- **Hours:** Sa 9am–11am <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
 - Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
 
 ## <a id="Sunny-Acres">Sunny Acres</a>
