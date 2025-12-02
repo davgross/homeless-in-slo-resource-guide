@@ -2586,14 +2586,13 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="Recovery-Dharma">Recovery Dharma</a>
 
 - **Website:** [recoverydharma.org](https://recoverydharma.org/)
-- **Location:** 865 Aerovista Pl. #130, SLO ([**Aspire Counseling Service**](#Aspire-Counseling-Service)) <a href="#" class="map-link" data-lat="35.242312" data-lon="-120.640925" data-zoom="17" data-label="Aspire Counseling Service">Map</a>
-- **Email:** [tedrossini@gmail.com](mailto:tedrossini@gmail.com)
-- **Phone:** [510-417-6162](tel:+1-510-417-6162)
-- **Hours:** Saturdays, 10:20am–11:20am
+- **Location:** 865 Aerovista Pl. #106, SLO ([**Aspire Counseling Service**](#Aspire-Counseling-Service)) <a href="#" class="map-link" data-lat="35.242312" data-lon="-120.640925" data-zoom="17" data-label="Aspire Counseling Service">Map</a> <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?region=california -->
+- **Email:** [tedrossini@gmail.com](mailto:tedrossini@gmail.com) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?region=california -->
+- **Phone:** [510-417-6162](tel:+1-510-417-6162) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?region=california -->
+- **Hours:** Sa. 10:20–11:20am <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?region=california -->
 
 ## <a id="Recuperative-Care-Program">Recuperative Care Program</a>
 
-<!-- Source: https://capslo.org/40-prado -->
 - **Website:** [capslo.org/rcp](https://capslo.org/rcp/)
 - **Location:** [**40 Prado**](#40-Prado), SLO <a class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a> <!-- Source: https://capslo.org/rcp/ -->
 - **Phone:**
@@ -2605,39 +2604,38 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Recycle-101">Recycle 101 — Oceano</a>
 
-<!-- Note: No website found (as of October 2025) -->
-- **Location:** 1909 Front St., Oceano <a class="map-link" data-lat="35.098794" data-lon="-120.612028" data-zoom="17" data-label="Recycle 101 — Oceano">Map</a>
-- **Phone:** [805-363-1034](tel:+1-805-363-1034)
-- **Hours:** M–F 9am–12:30pm, Sa 9am–Noon
+- **Location:** 1909 Front St., Oceano <a class="map-link" data-lat="35.098794" data-lon="-120.612028" data-zoom="17" data-label="Recycle 101 — Oceano">Map</a> <!-- Source: https://recycleca.org/business/recycle-101-inc -->
+- **Phone:** [805-363-1034](tel:+1-805-363-1034) <!-- Source: https://recycleca.org/business/recycle-101-inc -->
+- **Hours:** W 9am–4pm, M/Tu/Th/F/Sa 9am–Noon, M/Tu/Th/F 12:30–4pm <!-- Source: https://recycleca.org/business/recycle-101-inc -->
 - Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
 
 ## <a id="Red-Cross">Red Cross</a>
 
 - **Website:** [redcross.org/local/california/central-california.html](https://www.redcross.org/local/california/central-california.html)
-- **Location:** 225 Prado Rd. #A <a class="map-link" data-lat="35.253953" data-lon="-120.666367" data-zoom="17" data-label="Red Cross">Map</a>
+- **Location:** 225 Prado Rd. #A <a class="map-link" data-lat="35.253953" data-lon="-120.666367" data-zoom="17" data-label="Red Cross">Map</a> <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
 - **Phone:**
-   - Local office: [805-543-0696](tel:+1-805-543-0696)
+   - Local office: [805-543-0696](tel:+1-805-543-0696) <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
    - 24/7 national line: [800-733-2767](tel:+1-800-733-2767)
-- **Hours:** M–F 9am–4pm
+- **Hours:** M–F 9am–4pm <!-- Source: https://www.redcross.org/local/california/central-california/about-us/contact-us.html -->
 
 ## <a id="Red-Rover-Relief">Red Rover Relief</a>
 
 - **Website:** [redrover.org/relief](https://redrover.org/relief/)
-- **Mailing address:** P.O. Box 188890, Sacramento, CA 95818
-- **Phone:** [916-429-2457](tel:+1-916-429-2457)
-- **Email:** [info@redrover.org](mailto:info@redrover.org)
-- **Hours:** M–F 8:30am–4:30pm
+- **Mailing address:** P.O. Box 188890, Sacramento, CA 95818 <!-- Source: https://redrover.org/relief/ -->
+- **Phone:** [916-429-2457](tel:+1-916-429-2457) <!-- Source: https://redrover.org/relief/ -->
+- **Email:** [info@redrover.org](mailto:info@redrover.org) <!-- Source: https://redrover.org/relief/ -->
+- **Hours:** M–F 8:30am–4:30pm <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 
 ## <a id="Refuge-Church-Atascadero">Refuge Church</a>
 
-<!-- Source: https://www.findhelp.org/refuge-church--atascadero-ca--refuge-rescue-mission-ministry/5842198058237952?postal=93401 -->
-- **Website:** [refugechurch.info](https://refugechurch.info/)
-- **Location:** 6955 Portola Rd., Atascadero <a class="map-link" data-lat="35.476475" data-lon="-120.679480" data-zoom="17" data-label="Refuge Church">Map</a>
-- **Phone:** [805-466-3554](tel:+1-805-466-3554)
-- **Email:** [office@refugechurch.info](mailto:office@refugechurch.info)
+- **Website:** [refugechurch.info/connect/open-arms-ministry](https://refugechurch.info/connect/open-arms-ministry)
+- **Location:** 6955 Portola Rd., Atascadero <a class="map-link" data-lat="35.476475" data-lon="-120.679480" data-zoom="17" data-label="Refuge Church">Map</a> <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
+- **Phone:** [805-466-3554](tel:+1-805-466-3554) <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
+- **Email:** [office@refugechurch.info](mailto:office@refugechurch.info) <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
 - **Hours:**
-   - Food pantry: Tu 5–6pm, W 6–6:30pm, or by appointment
-   - Free meals: Tu/W dinner
+   - Food and clothing pantry: Tu 5–6pm, W 6–6:30pm<!-- Source: https://refugechurch.info/connect/open-arms-ministry -->, or by appointment
+   - Refuge recovery (for anyone struggling with addiction): Tu 6pm <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
+   - Free meals: Tu 5pm/W 6pm dinner
    - Office: M–F 8am–5pm
 
 ## Refugee and Immigrant Services Education
@@ -2650,47 +2648,53 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Renovate-Church">Renovate Church</a>
 
-<!-- Source: https://www.yelp.com/biz/renovate-church-san-luis-obispo-2 -->
 - **Website:** [renovateslo.com](https://renovateslo.com/)
-- **Location:** 2075 Johnson Ave., SLO <a class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Renovate Church">Map</a>
+- **Location:** 2075 Johnson Ave., SLO <a class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Renovate Church">Map</a> <!-- Source: https://www.renovateslo.com/ -->
 - **Phone:** [805-543-0945](tel:+1-805-543-0945)
 - **Email:** [office@renovateslo.com](mailto:office@renovateslo.com)
 - Hours (food pantry): M 4–6pm
 
 ## <a id="Restoration-Church">Restoration Church</a>
 
-- **Location:** 9333 Santa Barbara Rd., Atascadero <a class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Restoration Church">Map</a>
-- **Phone:** [805-538-0449](tel:+1-805-538-0449)
-- **Hours** (food pantry): first Saturday of the month, 1–3pm
+- **Location:** 9333 Santa Barbara Rd., Atascadero <a class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Restoration Church">Map</a> <!-- Source: https://www.facebook.com/restorationchurch.ofcj/ -->
+- **Phone:** [805-538-0449](tel:+1-805-538-0449) <!-- Source: https://www.facebook.com/photo/?fbid=3000472700137502&set=pcb.746366901751835 -->
+- **Hours** (food pantry): first Saturday of the month, 1–3pm <!-- Source: https://www.facebook.com/photo/?fbid=3000472700137502&set=pcb.746366901751835 -->
 
 ## <a id="Restorative-Partners">Restorative Partners</a>
 
-- **Location:** 3196 South Higuera St. #D, SLO <a href="#" class="map-link" data-lat="35.256936" data-lon="-120.669300" data-zoom="17" data-label="Restorative Partners">Map</a>
-- **Phone:** [805-242-1272](tel:+1-805-242-1272)
+- **Website:** [restorativepartners.org](https://restorativepartners.org/)
+- **Location:** 3380 South Higuera St., SLO <a href="#" class="map-link" data-lat="35.255072" data-lon="-120.669130" data-zoom="17" data-label="Restorative Partners">Map</a> <!-- Source: https://restorativepartners.org/ -->
+- **Phone:** [805-242-1272](tel:+1-805-242-1272) <!-- Source: https://restorativepartners.org/ -->
 - **Email:** [info@restorativepartners.org](mailto:info@restorativepartners.org)
-- **Hours:** M–F 9am–5pm
+- **Hours:** M–F 9am–5pm <!-- Source: https://restorativepartners.org/contact/ -->
 - Notes:
-   - Operates [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus)
-   - Operates “The Bridge Cafe”
-      - **Location:** 1074 Higuera St., SLO
-      - **Hours:** M–F 7am–3pm
+   - Operates [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus) <!-- Source: https://www.sloharc.org/ -->
+   - Operates “The Bridge Cafe” <!-- Source: https://restorativepartners.org/ -->
+      - **Location:** 1074 Higuera St., SLO <!-- Source: https://www.thebridgecafe.org/ -->
+      - **Phone:** [805-439-1689](tel:+1-805-439-1689) <!-- Source: https://www.thebridgecafe.org/ -->
+      - **Email:** [info@thebridgecafe.org](mailto:info@thebridgecafe.org) <!-- Source: https://www.thebridgecafe.org/ -->
+      - **Hours:** M–F 7am–3pm <!-- Source: https://www.thebridgecafe.org/ -->
    - Operates a housing program ([restorativepartners.org/housing](https://restorativepartners.org/housing/)):
-      - Anna’s Home (Paso Robles): Supports 5 women and their children with employment support, job management, financial literacy, life skills, and permanent housing goals
-      - Hope House (Los Osos): For returning women, offers 24/7 supervision, transportation, 12-step meetings, life skills training, mentorship, outpatient treatment
-      - Rapha House (Los Osos): 8-bed home for men focusing on recovery from addiction, restorative justice practices, clean and sober lifestyle
-      - LyonHeart Place (San Luis Obispo): Men’s State Parolee Reentry Housing Program with Joseph House and Francis House providing clinically structured and supportive environment
+      - Anna’s Home (Paso Robles): Supports 5 women and their children with employment support, job management, financial literacy, life skills, and permanent housing goals <!-- Source: https://restorativepartners.org/housing/ -->
+      - Hope House (Los Osos): For returning women, offers 24/7 supervision, transportation, 12-step meetings, life skills training, mentorship, outpatient treatment <!-- Source: https://restorativepartners.org/housing/ -->
+      - Rapha House (Los Osos): 8-bed home for men focusing on recovery from addiction, restorative justice practices, clean and sober lifestyle <!-- Source: https://restorativepartners.org/housing/ -->
+      - LyonHeart Place (San Luis Obispo): Men’s State Parolee Reentry Housing Program with Joseph House and Francis House providing clinically structured and supportive environment <!-- Source: https://restorativepartners.org/housing/ -->
       - **Phone:** [805-234-9074](tel:+1-805-234-9074)
-      - **Email:** [housing@restorativepartners.org](mailto:housing@restorativepartners.org)
+      - **Email:** [housing@restorativepartners.org](mailto:housing@restorativepartners.org) <!-- Source: https://restorativepartners.org/contact/ -->
       - **How to access:** contact Restorative Partners to get on the waiting list
 
 ## <a id="Ride-On-Transportation">Ride-On Transportation</a>
 
-- **Location:** 3620 Sacramento Dr. #201, SLO <a href="#" class="map-link" data-lat="35.255366" data-lon="-120.641446" data-zoom="17" data-label="Ride-On Transportation">Map</a>
+- **Website:** [ride-on.org](https://www.ride-on.org/)
+- **Location:** 3620 Sacramento Dr. #201, SLO <a href="#" class="map-link" data-lat="35.255366" data-lon="-120.641446" data-zoom="17" data-label="Ride-On Transportation">Map</a> <!-- Source: https://www.ride-on.org/ride-on-general-contact-information.php -->
+- **Phone:** [805-541-8747](tel:+1-805-541-8747) <!-- Source: https://www.ride-on.org/ride-on-general-contact-information.php -->
+- **Email:** [contact@ride-on.org](mailto:contact@ride-on.org) <!-- Source: https://www.ride-on.org/ -->
 - [**Medi-Cal**](#Medi-Cal) Shuttle a.k.a. [CenCal Health Transportation](https://www.cencalhealth.org/members/transportation/)
-   - **Phone:** [855-659-4600](tel:+1-855-659-4600) (Ventura Transit System)
+   - **Phone:** [855-659-4600](tel:+1-855-659-4600) (Ventura Transit System) <!-- Source: https://www.ride-on.org/ride-on-medi-cal-cen-cal-shuttle.php -->
 - Veterans Express Shuttle
-   - **Phone:** [805-541-8747](tel:+1-805-541-8747)
-- **Hours:** M–F 6:30am–5:00pm (phone hours)
+   - **Phone:** [805-541-8747](tel:+1-805-541-8747) <!-- Source: https://www.ride-on.org/ride-on-veterans-express-shuttle.php -->
+- **Hours:** M–F 6:30am–5:00pm (phone hours) <!-- Source: https://www.ride-on.org/ride-on-ride-request.php -->
+- **How to access:** Call, or [submit a ride request online](https://www.ride-on.org/ride-on-ride-request.php)
 
 ## RISE
 
@@ -2714,7 +2718,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="RVs-for-Veterans">RVs for Veterans</a>
 
-- **Phone:** [805-234-5478](tel:+1-805-234-5478)
+- **Phone:** [805-234-5478](tel:+1-805-234-5478) <!-- Source: https://hopesvillageofslo.com/programs -->
 
 ## <a id="Second-Chances-Thrift-Store">Second Chances Thrift Store</a>
 
@@ -2728,13 +2732,15 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Website:** [capslo.org/s-a-f-e-family-resource-centers](https://capslo.org/s-a-f-e-family-resource-centers/)
 
+<!-- Source (location/phone): https://capslo.org/s-a-f-e-family-resource-centers/ -->
 | Location | Phone |
 | -------- | ----- |
-| 1511 19th St., Oceano <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> Center">Map</a> | [805-474-3690](tel:+1-805-474-3690) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
-| 1086 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> | [805-474-2105](tel:+1-805-474-2105) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
-| 920 W. Tefft St., Nipomo <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">Map</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ --> |
+| 1511 19th St., Oceano <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> | [805-474-3690](tel:+1-805-474-3690) |
+| 1086 Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">Map</a> | [805-474-2105](tel:+1-805-474-2105) |
+| 920 W. Tefft St., Nipomo <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">Map</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) |
 
-- **Email:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org)
+- **Email:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
+- **How to access:** Walk-ins OK; appointments preferred.
 - Note:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
