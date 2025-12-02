@@ -3379,7 +3379,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Website:** [slothrift.com](https://slothrift.com/)
 - **Location:** 445 Higuera St., SLO <a href="#" class="map-link" data-lat="35.275984" data-lon="-120.668482" data-zoom="17" data-label="SLO Thrift">📍 Map</a> <!-- Source: https://slothrift.com/ -->
 - **Phone:** [805-439-4434](tel:+1-805-439-4434) <!-- Source: https://slothrift.com/ -->
-- **Hours:** M&ndash;Sa 9am&ndash;5pm <!-- Source: https://slothrift.com/ -->
+- **Hours:** M–Sa 9am–5pm <!-- Source: https://slothrift.com/ -->
 - Note: Not yet open as of November 2025 (being remodeled)
 
 ## <a id="SLO-Transit">SLO Transit</a>
@@ -3514,30 +3514,19 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Teen-Wellness">Teen Wellness</a>
 
-<!-- Source: https://capslo.org/ -->
-- **Phone:** [805-602-2883](tel:+1-805-602-2883)
-- **Email:** [teenwellness@capslo.org](mailto:teenwellness@capslo.org)
+- **Website:** [capslo.org/teen-programs-2](https://capslo.org/teen-programs-2/)
+- **Phone:** [805-602-2883](tel:+1-805-602-2883) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSdtCq7URDKl8ikvDNatRRWA8y4vLyUarT5SvYRxxt0BJEHneA/viewform -->
+- **Email:** [teenwellness@capslo.org](mailto:teenwellness@capslo.org) <!-- Source: https://capslo.org/teen-health-education/ -->
 - Notes:
    - A program of [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Focus on enhancing youth mental health in SLO and Northern Santa Barbara Counties
-<!-- Note: No dedicated website, specific physical address, or hours listed (as of October 2025); contact via phone/email or through CAPSLO main office -->
 
 ## <a id="Templeton-Adult-School">Templeton Adult School</a>
 
-- **Website:** [templetonusd.org/schools/tae/tas/index](https://www.templetonusd.org/schools/tae/tas/index)
-- **Location:** 964 Old Country Road, Templeton <a href="#" class="map-link" data-lat="35.545208" data-lon="-120.710961" data-zoom="17" data-label="Templeton Adult School">Map</a>
-- **Phone:** [805-434-5827](tel:+1-805-434-5827)
-- **Email:** [clondon@templetonusd.org](mailto:clondon@templetonusd.org)
-
-## <a id="Tikva-Treatment">Tikva Treatment (The Haven at Pismo)</a>
-
-<!-- Source: NPI Registry https://www.hipaaspace.com/medical_billing/coding/national_provider_identifier/codes/npi_1760934574.aspx verified January 2025 -->
-<!-- Note: No official website found through web search of reputable sources as of November 2025; multiple directory listings exist but no direct facility website -->
-- **Location:** 944 Via Solana, Suite 102, Arroyo Grande <a href="#" class="map-link" data-lat="35.112815" data-lon="-120.593483" data-zoom="17" data-label="Tikva Treatment">Map</a>
-- **Phone:** [805-689-8024](tel:+1-805-689-8024) (local); [954-560-5238](tel:+1-954-560-5238) (main office)
-- **How to access:** Call for intake assessment; accepts private health insurance and self-payment/cash
-- Services: Residential substance abuse treatment, detox (inpatient opioid, benzodiazepines, cocaine), buprenorphine/Suboxone treatment, 30–60 day inpatient programs, transitional housing <!-- To-do: move this to Resources -->
-- Notes: Private for-profit facility; also known as “The Haven at Pismo”; operates multiple residential houses (Mesa House, [**Casa Solana**](#Casa-Solana))
+- **Website:** [templetonusd.org/schools/tae/tas](https://www.templetonusd.org/schools/tae/tas)
+- **Location:** 964 Old Country Road, Templeton <a href="#" class="map-link" data-lat="35.545208" data-lon="-120.710961" data-zoom="17" data-label="Templeton Adult School">Map</a> <!-- Source: https://www.templetonusd.org/schools/tae/tas -->
+- **Phone:** [805-434-5827](tel:+1-805-434-5827) <!-- Source: https://www.templetonusd.org/schools/tae/tas/index -->
+- **Email:** [clondon@templetonusd.org](mailto:clondon@templetonusd.org) <!-- Source: https://www.templetonusd.org/schools/tae/tas/index -->
 
 ## T-MHA
 
@@ -3549,27 +3538,27 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 | Office | Location | Phone |
 | ------ | -------- | ----- |
-| Main   | 784 High Street, SLO <a href="#" class="map-link" data-lat="35.272462" data-lon="-120.656466" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">Map</a> | [805-540-6500](tel:+1-805-540-6500) |
+| Main   | 784 High Street, SLO <a href="#" class="map-link" data-lat="35.272462" data-lon="-120.656466" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">Map</a> <!-- Source: https://www.t-mha.org/ --> | [805-540-6500](tel:+1-805-540-6500) <!-- Source: https://www.t-mha.org/ --> |
 | SLO    | 1306 Nipomo St. <a href="#" class="map-link" data-lat="35.276666" data-lon="-120.663904" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">Map</a> | [805-541-6813](tel:+1-805-541-6813) / [805-801-3536](tel:+1-805-801-3536) |
 | Arroyo Grande | 203 Bridge St. <a href="#" class="map-link" data-lat="35.121565" data-lon="-120.577572" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">Map</a> | [805-305-3724](tel:+1-805-305-3724) |
 
 - **Phone:** [805-540-6500](tel:+1-805-540-6500)
-   - [800-783-0607](tel:+1-800-783-0607) (24/7 crisis line)
+   - [800-783-0607](tel:+1-800-783-0607) (24/7 crisis line) <!-- Source: https://www.t-mha.org/ -->
    - [805-540-0057](tel:+1-805-540-0057) (library outreach team)
    - [805-540-6576](tel:+1-805-540-6576) (behavioral health care system navigation help)
    - [805-540-6551](tel:+1-805-540-6551) (Supported Employment program)
-- **Email:** [info@t-mha.org](mailto:info@t-mha.org)
+- **Email:** [info@t-mha.org](mailto:info@t-mha.org) <!-- Source: https://www.t-mha.org/ -->
    - [mmurchison@t-mha.org](mailto:mmurchison@t-mha.org) (Supported Employment program)
 - **Hours:** M–F 8am–5pm
 - Notes:
-   - also runs “Wellness Centers” with a variety of programs
+   - also runs “Wellness Centers” with a variety of programs <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
       - See [t-mha.org/wellness-calendars.php](https://www.t-mha.org/wellness-calendars.php) for a schedule:
    - operates [**Behavioral Health Bridge Housing (BHBH) Program**](#BHBH)
-   - operates “Bishop Street Studios”
-   - operates “Growing Grounds Downtown,” “Growing Grounds Farm,” and “Growing Grounds Nursery”
+   - operates “Bishop Street Studios” <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
+   - operates “Growing Grounds Downtown,” “Growing Grounds Farm,” and “Growing Grounds Nursery” <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
    - operates “Library Outreach Team” (see [**SLO County Public Libraries**](#SLO-County-Public-Libraries))
-   - operates the “Supported Employment” program
-   - operates “T-MHA Community Residential Housing”
+   - operates the “Supported Employment” program <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
+   - operates “T-MHA Community Residential Housing” <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
    - operates “VetWell”
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
@@ -3577,41 +3566,41 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Website:** [tri-counties.org](https://www.tri-counties.org)
 
+<!-- Source: https://www.tri-counties.org/contact-us/office-locations/ -->
 | Location | Phone |
 | -------- | ----- |
 | (main office) 520 E. Montecito St., Santa Barbara <a href="#" class="map-link" data-lat="34.420363" data-lon="-119.686756" data-zoom="17" data-label="Tri Counties Regional Center">Map</a> | [805-962-7881](tel:+1-805-962-7881) |
 | 7305 Morro Rd. #101, Atascadero <a href="#" class="map-link" data-lat="35.478709" data-lon="-120.666798" data-zoom="17" data-label="Tri Counties Regional Center">Map</a> | [805-461-7402](tel:+1-805-461-7402) |
 | 1146 Farmhouse Ln., SLO <a href="#" class="map-link" data-lat="35.239987" data-lon="-120.634147" data-zoom="17" data-label="Tri Counties Regional Center">Map</a> | [805-543-2833](tel:+1-805-543-2833) |
 
+- **Hours:** M–F 8:30am–5pm <!-- Source: https://www.tri-counties.org/contact-us/office-locations/ -->
 - **How to access:** Apply at [tri-counties.org/our-services/apply/](https://www.tri-counties.org/our-services/apply/)
-<!-- Note: Hours of operation not listed on website (as of October 2025); call local office to verify -->
 
 ## <a id="Trinity-United-Methodist-Church">Trinity United Methodist Church (Los Osos)</a>
 
-<!-- Source: https://slofoodbank.org/wp-content/uploads/2025/09/ENG_October_DistributionResourceList.pdf -->
 - **Website:** [trinitylososos.org](https://trinitylososos.org/)
-- **Location:** 490 Los Osos Valley Rd., Los Osos <a class="map-link" data-lat="35.313346" data-lon="-120.845536" data-zoom="17" data-label="Trinity United Methodist Church (Los Osos)">Map</a>
-- **Phone:** [805-528-1649](tel:+1-805-528-1649)
-- **Email:** [church@trinitylososos.org](mailto:church@trinitylososos.org)
-- Hours (food pantry): Tu/F 10am–Noon
+- **Location:** 490 Los Osos Valley Rd., Los Osos <a class="map-link" data-lat="35.313346" data-lon="-120.845536" data-zoom="17" data-label="Trinity United Methodist Church (Los Osos)">Map</a> <!-- Source: https://trinitylososos.org/ -->
+- **Phone:** [805-528-1649](tel:+1-805-528-1649) <!-- Source: https://trinitylososos.org/ -->
+- **Email:** [church@trinitylososos.org](mailto:church@trinitylososos.org) <!-- Source: https://trinitylososos.org/ -->
+- Hours (food pantry): Tu/F 10am–Noon <!-- Source: https://trinitylososos.org/whats-happening/tumc-food-pantry -->
 
 ## <a id="Tri-County-GLAD">Tri-County GLAD</a>
 
 - **Website:** [tcglad.org](https://tcglad.org/)
-- **Location:** 702 County Square Dr. #101, Ventura <a href="#" class="map-link" data-lat="34.269044" data-lon="-119.214757" data-zoom="17" data-label="Tri-County GLAD">Map</a>
+- **Location:** 702 County Square Dr. #101, Ventura <a href="#" class="map-link" data-lat="34.269044" data-lon="-119.214757" data-zoom="17" data-label="Tri-County GLAD">Map</a> <!-- Source: https://tcglad.org/ -->
 - **Phone:**
-   - [805-256-1053](tel:+1-805-256-1053) (videophone)
-   - [805-644-6323](tel:+1-805-644-6323) (TTY)
+   - [805-256-1053](tel:+1-805-256-1053) (videophone) <!-- Source: https://tcglad.org/ -->
+   - [805-644-6323](tel:+1-805-644-6323) (TTY) <!-- Source: https://tcglad.org/ -->
    - [805-644-6322](tel:+1-805-644-6322) (voice)
-- **Email:** [info@tcglad.org](mailto:info@tcglad.org)
-- **Hours:** M–F 8:30am–5pm (closed Noon–1pm)
+- **Email:** [info@tcglad.org](mailto:info@tcglad.org) <!-- Source: https://tcglad.org/ -->
+- **Hours:** M–F 8:30am–5pm (closed Noon–1pm) <!-- Source: https://tcglad.org/ -->
 
 ## <a id="TranzCentralCoast">TranzCentralCoast</a>
 
 - **Website:** [tranzcentralcoast.org](https://www.tranzcentralcoast.org/)
 - **Location:** 1060 Palm St., SLO <a class="map-link" data-lat="35.283421" data-lon="-120.661309" data-zoom="17" data-label="TranzCentralCoast">Map</a>
-- **Phone:** [805-242-3821](tel:+1-805-242-3821)
-- **Email:** [TranzCentralCoast@gmail.com](mailto:TranzCentralCoast@gmail.com)
+- **Phone:** [805-242-3821](tel:+1-805-242-3821) <!-- Source: https://www.facebook.com/tranz.coast/ -->
+- **Email:** [TranzCentralCoast@gmail.com](mailto:TranzCentralCoast@gmail.com) <!-- Source: https://www.facebook.com/tranz.coast/ -->
 
 ## <a id="UC-Cooperative-Extension">U.C. Cooperative Extension — SLO County</a>
 

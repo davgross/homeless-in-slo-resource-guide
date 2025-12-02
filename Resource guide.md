@@ -562,7 +562,6 @@ Here are some residential treatment options in our area:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
 <!-- Note: Restorative Partners runs some sober living homes in the area, but these are specifically designed for people reentering society from jail/prison custody -->
 
-- [**Tikva Treatment**](Directory.md#Tikva-Treatment) (Arroyo Grande) — also known as “The Haven at Pismo” or “Mesa House"; accepts private insurance and self-pay
 - [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only.
 - [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) for women only. (Also known as “Sunshine House.")
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only; (division of nonprofit Gate Help Inc.).
@@ -1668,9 +1667,6 @@ Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 
 Some of their services are available on a walk-in basis.
 They charge a sliding fee depending on ability to pay.
 They operate the [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) for sobering up, detox, and medically-assisted drug withdrawal.
-
-[**Tikva Treatment**](Directory.md#Tikva-Treatment) in Arroyo Grande (also known as “The Haven at Pismo” or “Mesa House") offers residential substance abuse treatment, detox services (inpatient opioid, benzodiazepines, cocaine), and buprenorphine/Suboxone treatment.
-They accept private health insurance and self-payment.
 
 [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) offer walk-in suboxone treatment at their emergency rooms.
 
