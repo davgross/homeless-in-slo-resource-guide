@@ -2,8 +2,10 @@
 
 ## Overview
 
-This is a Progressive Web App (PWA) built with Vite that provides an offline-capable, mobile-first interface for the SLO County Homeless Resource Guide.
-The app bundles markdown content at build time for optimal performance and offline functionality.
+This is a Progressive Web App (PWA) built with Vite that provides an
+offline-capable, mobile-first interface for the SLO County Homeless Resource
+Guide. The app bundles markdown content at build time for optimal performance
+and offline functionality.
 
 ## Technology Stack
 
@@ -16,15 +18,18 @@ The app bundles markdown content at build time for optimal performance and offli
 
 ## Architecture Principles
 
-1. **Content is Bundled**: Markdown files are imported at build time as raw text strings
-2. **Client-Side Rendering**: All markdown parsing and HTML generation happens in the browser
+1. **Content is Bundled**: Markdown files are imported at build time as raw
+   text strings
+2. **Client-Side Rendering**: All markdown parsing and HTML generation happens
+   in the browser
 3. **State Persistence**: LocalStorage saves user position and preferences
 4. **Offline-First**: Service worker caches all assets for offline use
-5. **Serverless Backend**: Cloudflare Pages Functions and Workers handle feedback emails
+5. **Serverless Backend**: Cloudflare Pages Functions and Workers handle
+   feedback emails
 
 ## Directory Structure
 
-```
+```text
 web-app/
 ├── index.html              # Main HTML template with app shell
 ├── package.json            # Dependencies and build scripts
@@ -64,6 +69,7 @@ web-app/
 **Purpose**: Initializes the app, manages routing, handles state persistence
 
 **Key Functions**:
+
 - `init()`: Entry point, sets up navigation, search, directory overlay
 - `loadMarkdownContent()`: Imports markdown from parent directory
 - `showSection(sectionName)`: Shows/hides sections, updates nav state
@@ -74,6 +80,7 @@ web-app/
 - `initTOCButton()`: Sets up "Jump to TOC" floating button
 
 **State Object**:
+
 ```javascript
 {
   currentSection: 'resources',     // Current view
@@ -91,11 +98,13 @@ web-app/
 **Purpose**: Parses markdown and extracts directory entries
 
 **Key Functions**:
+
 - `parseMarkdown(markdown)`: Converts markdown to sanitized HTML
 - `extractDirectoryEntries(markdown)`: Finds all `<a id="...">` anchors in Directory
 - `normalizeTitle(title)`: Cleans entry names for matching
 
 **Directory Entry Format**:
+
 ```javascript
 {
   id: 'entry-id',           // From <a id="entry-id">
@@ -111,12 +120,14 @@ web-app/
 **Purpose**: Makes phone numbers, emails, and addresses clickable
 
 **Key Functions**:
+
 - `enhanceLinks(html)`: Main enhancement function
 - `enhancePhoneLinks()`: Converts `805-123-4567` to `tel:` links
 - `enhanceEmailLinks()`: Converts emails to `mailto:` links
 - `enhanceLocationLinks()`: Converts map icons to location handlers
 
 **Special Handling**:
+
 - Preserves existing `<a>` tags
 - Handles phone extensions (`x123`)
 - Adds ARIA labels for accessibility
@@ -124,15 +135,18 @@ web-app/
 
 ### 4. feedback.js - User Feedback System
 
-**Purpose**: Allows users to report errors and suggestions via immediate email sending
+**Purpose**: Allows users to report errors and suggestions via immediate
+email sending
 
 **Key Functions**:
+
 - `initFeedback()`: Sets up feedback button and modal
 - `openFeedbackModal()`: Shows feedback form
 - `handleSubmit()`: Posts feedback data to API endpoint
 
 **Architecture**:
-```
+
+```text
 User submits form
     ↓
 POST /api/feedback (Pages Function)
@@ -145,6 +159,7 @@ Email delivered to recipient
 ```
 
 **Email Content Includes**:
+
 - User's name (optional)
 - User's email (optional, for reply)
 - Feedback type
@@ -158,21 +173,25 @@ Email delivered to recipient
 **Purpose**: Enables sharing of pages and entries
 
 **Key Functions**:
+
 - `initShareButton()`: Sets up global share button
 - `createSectionShareButton()`: Inline share for sections
 - `createDirectoryShareButton()`: Share specific entries
 - `copyToClipboard()`: Falls back if Web Share API unavailable
 
 **Share Behavior**:
+
 - Uses Web Share API on mobile
 - Falls back to clipboard copy on desktop
 - Generates shareable URLs with hash fragments
 
 ### 6. installPrompt.js - PWA Installation
 
-**Purpose**: Manages PWA installation prompt and browser-specific instructions
+**Purpose**: Manages PWA installation prompt and browser-specific
+instructions
 
 **Key Functions**:
+
 - `initInstallPrompt()`: Sets up install button and event listeners
 - `handleInstallClick()`: Triggers native install prompt
 - `getInstallInstructions()`: Returns platform-specific install steps
@@ -180,6 +199,7 @@ Email delivered to recipient
 - `isStandalone()`: Checks if app is already installed
 
 **Browser Detection**:
+
 - iOS Safari (required for iOS installation)
 - Chrome (Android and Desktop)
 - Firefox (Android and Desktop)
@@ -187,7 +207,8 @@ Email delivered to recipient
 - Provides fallback instructions for unsupported browsers
 
 **Installation Flow**:
-```
+
+```text
 beforeinstallprompt event → Store deferred prompt → Show install button
 User clicks install → Trigger prompt → Handle outcome → Hide button
 ```
@@ -197,6 +218,7 @@ User clicks install → Trigger prompt → Handle outcome → Hide button
 **Purpose**: Allows users to adjust text size and enable OpenDyslexic font
 
 **Key Functions**:
+
 - `initFontSizeControl()`: Sets up font size controls and dyslexic toggle
 - `changeFontSize(step)`: Increase/decrease font size
 - `resetFontSize()`: Restore default size
@@ -204,11 +226,13 @@ User clicks install → Trigger prompt → Handle outcome → Hide button
 - `loadFontSize()/saveFontSize()`: LocalStorage persistence
 
 **Font Size Scale**:
+
 - 8 levels: 80%, 90%, 100%, 110%, 120%, 130%, 140%, 150%
 - Default: 100%
 - Persisted in localStorage
 
 **Accessibility Features**:
+
 - Visual preview of current size
 - Keyboard-accessible controls
 - Escape key closes popup
@@ -219,6 +243,7 @@ User clicks install → Trigger prompt → Handle outcome → Hide button
 **Purpose**: Centralizes all user-facing text strings
 
 **Structure**:
+
 ```javascript
 {
   share: {
@@ -237,6 +262,7 @@ User clicks install → Trigger prompt → Handle outcome → Hide button
 ### 9. style.css - Visual Design
 
 **Key Features**:
+
 - Mobile-first responsive design
 - CSS custom properties for theming
 - Accessible focus indicators
@@ -244,6 +270,7 @@ User clicks install → Trigger prompt → Handle outcome → Hide button
 - High contrast mode support
 
 **Color Palette** (matches Shower the People branding):
+
 - Primary Blue: #3877ff
 - Primary Orange: #e75e13
 - White: #ffffff
@@ -251,10 +278,12 @@ User clicks install → Trigger prompt → Handle outcome → Hide button
 
 ### 10. Serverless Backend - Feedback Email System
 
-**Purpose**: Sends feedback emails immediately without requiring user's email client
+**Purpose**: Sends feedback emails immediately without requiring user's
+email client
 
 **Architecture**:
-```
+
+```text
 Pages Function (/api/feedback)
     ↓ (Service Binding)
 Email Worker (email-sender-worker)
@@ -267,18 +296,21 @@ Recipient Email
 **Components**:
 
 #### functions/api/feedback.js (Pages Function)
+
 - Receives POST requests from frontend
 - Validates and formats feedback data
 - Calls email-sender-worker via service binding
 - Returns success/error response
 
 #### _worker-email-sender (Cloudflare Worker)
+
 - Uses `mimetext` library to construct RFC-5322 compliant emails
 - Sends via Cloudflare Email Routing binding
 - Supports Reply-To headers when user provides email
 - Handles errors with detailed logging
 
 **Configuration Requirements**:
+
 1. Email Routing enabled for domain
 2. Destination email verified in Cloudflare
 3. Service binding configured in Pages settings
@@ -286,25 +318,32 @@ Recipient Email
 
 ### 11. Map Pages - Geographic Resource Visualizations
 
-**Purpose**: Standalone HTML pages displaying resources on interactive OpenStreetMap maps
+**Purpose**: Standalone HTML pages displaying resources on interactive
+OpenStreetMap maps
 
 **Map Pages**:
+
 - `little-free-libraries-map.html` - Community book exchanges
 - `little-free-pantries-map.html` - Community food pantries
 - `naloxone-locations-map.html` - Naloxone/Narcan access points
 
 **Features**:
+
 - OpenStreetMap with Leaflet.js
 - Auto-centers and zooms to show all markers
-- Color-coded markers (blue for libraries, orange for pantries, red for naloxone)
+- Color-coded markers (blue for libraries, orange for pantries, red for
+  naloxone)
 - Click markers to see location details
 - Feedback button integration via map-feedback.js
 - Mobile-responsive design
 
 **Data Source**:
+
 - Coordinate data extracted from markdown files via `extract-map-data.js`
 - Auto-generated JavaScript files: `*-data.js`
-- Map links in markdown use format: `<a class="map-link" data-lat="..." data-lon="..." data-zoom="..." data-label="...">Map</a>`
+- Map links in markdown use format:
+  `<a class="map-link" data-lat="..." data-lon="..." data-zoom="..."
+  data-label="...">Map</a>`
 
 ### 12. Build Scripts
 
@@ -312,9 +351,11 @@ Recipient Email
 
 #### scripts/extract-map-data.js
 
-**Purpose**: Extracts geographic coordinates from markdown files and generates JavaScript data files for map pages
+**Purpose**: Extracts geographic coordinates from markdown files and
+generates JavaScript data files for map pages
 
 **How it works**:
+
 1. Reads `Directory.md` and `Resource guide.md`
 2. Finds sections by ID (e.g., `Little-Free-Libraries`, `naloxone-narcan`)
 3. Extracts all map links with coordinates
@@ -322,11 +363,13 @@ Recipient Email
 5. Generates JavaScript files with location arrays
 
 **Output files**:
+
 - `public/little-free-libraries-data.js`
 - `public/little-free-pantries-data.js`
 - `public/naloxone-locations-data.js`
 
 **When to run**:
+
 - Automatically runs during `npm run build`
 - Can run manually with `npm run extract-map-data`
 - Run whenever map coordinates are added/changed in markdown files
@@ -336,13 +379,15 @@ Recipient Email
 **Purpose**: Validates HTML output for accessibility and correctness
 
 **When to run**:
+
 - Automatically runs after `npm run build` (unless using `build:novalidate`)
 - Validates both source `index.html` and built `dist/index.html`
 
 ## Data Flow
 
 ### App Initialization
-```
+
+```text
 1. User loads page
    ↓
 2. main.js init()
@@ -363,7 +408,8 @@ Recipient Email
 ```
 
 ### Directory Link Click
-```
+
+```text
 1. User clicks directory link in Resources
    ↓
 2. Event intercepted by main.js
@@ -384,7 +430,8 @@ Recipient Email
 ```
 
 ### Search Flow
-```
+
+```text
 1. User types in search box
    ↓
 2. Filter searchIndex by query
@@ -403,6 +450,7 @@ Recipient Email
 ## Content Import System
 
 ### Build-Time Import
+
 ```javascript
 // In main.js
 import resourcesMarkdown from '../../Resource guide.md?raw';
@@ -410,12 +458,14 @@ import directoryMarkdown from '../../Directory.md?raw';
 ```
 
 **How it works**:
+
 1. Vite's `?raw` suffix imports files as text strings
 2. Markdown is bundled into JavaScript at build time
 3. No network requests needed at runtime
 4. Works offline after first load
 
 **Trade-offs**:
+
 - ✅ Fast loading (no fetch() calls)
 - ✅ Guaranteed offline functionality
 - ✅ No CORS issues
@@ -425,6 +475,7 @@ import directoryMarkdown from '../../Directory.md?raw';
 ### Directory Entry Format
 
 Entries in Directory.md follow this structure:
+
 ```markdown
 ## <a id="entry-id">Organization Name</a>
 
@@ -436,6 +487,7 @@ Entries in Directory.md follow this structure:
 ```
 
 **Key Requirements**:
+
 - Must have `<a id="unique-id">` anchor
 - ID should be kebab-case
 - One ## heading per entry
@@ -444,11 +496,13 @@ Entries in Directory.md follow this structure:
 ## State Management
 
 ### LocalStorage Keys
+
 - `resourceGuideState`: Serialized state object
 - Saved on every navigation/scroll
 - Restored on page load
 
 ### State Persistence
+
 ```javascript
 // What gets saved
 {
@@ -464,12 +518,14 @@ Entries in Directory.md follow this structure:
 ## PWA Features
 
 ### Service Worker
+
 - Generated automatically by vite-plugin-pwa
 - Caches all static assets
 - Provides offline functionality
 - Updates automatically on new build
 
 ### Manifest (manifest.webmanifest)
+
 ```json
 {
   "name": "SLO County Homeless Resource Guide",
@@ -482,6 +538,7 @@ Entries in Directory.md follow this structure:
 ```
 
 ### Install Prompt
+
 - Browser automatically shows install prompt
 - User can add to home screen
 - App runs as standalone application
@@ -489,12 +546,14 @@ Entries in Directory.md follow this structure:
 ## Navigation & Routing
 
 ### Hash-Based Routing
+
 - `#resources` → Resources section
 - `#directory` → Full directory
 - `#directory/entry-id` → Specific directory entry
 - `#about` → About section
 
 ### History Management
+
 - Uses `history.pushState()` for clean URLs
 - Handles browser back/forward buttons
 - Updates URL without page reload
@@ -502,6 +561,7 @@ Entries in Directory.md follow this structure:
 ## Search Implementation
 
 ### Index Structure
+
 ```javascript
 searchIndex = [
   {
@@ -516,6 +576,7 @@ searchIndex = [
 ```
 
 ### Search Algorithm
+
 1. Split query into words
 2. Filter entries containing all words (case-insensitive)
 3. Rank by:
@@ -527,17 +588,20 @@ searchIndex = [
 ## Accessibility Features
 
 ### ARIA Labels
+
 - All interactive elements have labels
 - Screen reader announcements for state changes
 - Live regions for dynamic content
 
 ### Keyboard Navigation
+
 - Tab order follows logical flow
 - Enter/Space activate buttons
 - Escape closes modals
 - Focus indicators visible
 
 ### Skip Links
+
 - "Skip to main content" at top
 - Hidden until focused
 - Jumps past navigation
@@ -545,12 +609,14 @@ searchIndex = [
 ## Performance Considerations
 
 ### Bundle Size
+
 - Main JS bundle: ~150KB (uncompressed)
 - CSS: ~20KB
 - Total with markdown: ~200-300KB
 - Gzip reduces by ~70%
 
 ### Optimization Strategies
+
 1. **Code Splitting**: Vite automatically chunks vendor code
 2. **Tree Shaking**: Unused code removed
 3. **Minification**: JS/CSS minified in production
@@ -558,6 +624,7 @@ searchIndex = [
 5. **Font Loading**: Preconnect to Google Fonts
 
 ### Loading Performance
+
 - First Contentful Paint: <1s on 3G
 - Time to Interactive: <2s on 3G
 - Lighthouse score: 95+ (performance)
@@ -565,18 +632,22 @@ searchIndex = [
 ## Build Process
 
 ### Development
+
 ```bash
 npm run dev
 ```
+
 - Starts Vite dev server on port 5173
 - Hot module replacement enabled
 - Source maps for debugging
 - No PWA service worker (for faster reload)
 
 ### Production Build
+
 ```bash
 npm run build
 ```
+
 1. Extracts map data from markdown (`extract-map-data.js`)
 2. Vite bundles all code
 3. Imports markdown as raw text
@@ -587,13 +658,17 @@ npm run build
 8. Validates HTML output (`validate-html.js`)
 
 **Alternative build command**:
+
 ```bash
 npm run build:novalidate
 ```
-Same as above, but skips the HTML validation step (faster for development iterations).
+
+Same as above, but skips the HTML validation step (faster for development
+iterations).
 
 ### Build Output
-```
+
+```text
 dist/
 ├── index.html              # Entry point
 ├── assets/
@@ -608,14 +683,17 @@ dist/
 ## Deployment
 
 ### Requirements
+
 - Static file hosting (any web server)
 - HTTPS required for PWA features
 - Single-page app routing (all requests → index.html)
 
 ### Server Configuration
+
 See README.md for Apache/Nginx configs
 
 ### Update Process
+
 1. Edit markdown files in parent directory
 2. Run `npm run build`
 3. Deploy `dist/` contents to web server
@@ -624,22 +702,26 @@ See README.md for Apache/Nginx configs
 ## Common Modification Tasks
 
 ### Adding a New Section
+
 1. Add button to nav in `index.html`
 2. Add section element to main
 3. Handle in `showSection()` in main.js
 4. Add to state persistence
 
 ### Changing Color Scheme
+
 1. Update CSS custom properties in `style.css`
 2. Update theme_color in `vite.config.js` manifest
 3. Update meta theme-color in `index.html`
 
 ### Adding Search Filters
+
 1. Extend search index in `main.js`
 2. Add filter UI in `setupSearch()`
 3. Modify search algorithm to check filters
 
 ### Customizing Email Feedback
+
 1. Edit email template in `feedback.js`
 2. Change recipient address
 3. Modify included context fields
@@ -647,6 +729,7 @@ See README.md for Apache/Nginx configs
 ## Testing
 
 ### Manual Testing Checklist
+
 - [ ] All three sections load
 - [ ] Directory links open modal
 - [ ] Phone/email/address links work
@@ -659,6 +742,7 @@ See README.md for Apache/Nginx configs
 - [ ] Install prompt appears (mobile)
 
 ### Browser Testing
+
 - Chrome/Edge 90+
 - Firefox 88+
 - Safari 14+
@@ -667,21 +751,25 @@ See README.md for Apache/Nginx configs
 ## Troubleshooting
 
 ### Content Not Loading
+
 - Check file paths in main.js imports
 - Verify markdown files exist in parent dir
 - Check browser console for errors
 
 ### Directory Links Not Working
+
 - Verify `<a id="...">` anchors in Directory.md
 - Check that IDs match link hrefs
 - Ensure Directory.md structure is correct
 
 ### Build Failures
+
 - Run `npm install` to update dependencies
 - Check Node.js version (18+ required)
 - Clear `node_modules/` and reinstall
 
 ### Service Worker Issues
+
 - Hard refresh: Ctrl+Shift+R
 - Clear browser cache
 - Unregister service worker in DevTools
@@ -703,24 +791,28 @@ See README.md for Apache/Nginx configs
 ### Frontend Dependencies
 
 #### marked (14.1.3)
+
 - Converts markdown to HTML
 - Supports GitHub Flavored Markdown
 - Configurable with extensions
 - Used in: `markdownParser.js`
 
 #### DOMPurify (3.2.2)
+
 - Sanitizes HTML to prevent XSS
 - Removes dangerous tags/attributes
 - Used after markdown parsing
 - Used in: `markdownParser.js`
 
 #### vite (6.0.5)
+
 - Build tool and dev server
 - Hot module replacement
 - ES modules support
 - Tree shaking and minification
 
 #### vite-plugin-pwa (0.21.1)
+
 - Generates service worker
 - Creates PWA manifest
 - Handles cache strategies
@@ -729,12 +821,14 @@ See README.md for Apache/Nginx configs
 ### Backend Dependencies (Email Worker)
 
 #### mimetext (3.0.27)
+
 - RFC-5322 compliant MIME message builder
 - Used to construct properly formatted emails
 - Handles headers, encoding, and message structure
 - Used in: `functions/_worker-email-sender/index.js`
 
 #### cloudflare:email (built-in)
+
 - Cloudflare's Email Routing API
 - Provides EmailMessage class
 - Native Workers runtime module
@@ -743,6 +837,7 @@ See README.md for Apache/Nginx configs
 ## Code Style Guidelines
 
 ### JavaScript
+
 - Use ES6+ features
 - Prefer `const` over `let`
 - Use template literals for strings
@@ -750,12 +845,14 @@ See README.md for Apache/Nginx configs
 - JSDoc comments for functions
 
 ### CSS
+
 - Mobile-first media queries
 - CSS custom properties for values
 - BEM-like naming for components
 - Semantic class names
 
 ### Accessibility
+
 - ARIA labels on all interactive elements
 - Semantic HTML elements
 - Keyboard navigation support
@@ -765,6 +862,7 @@ See README.md for Apache/Nginx configs
 ## Contact & Support
 
 For questions about this architecture:
+
 - See main README.md
 - Check CHANGELOG.md for recent changes
 - Review git commit history

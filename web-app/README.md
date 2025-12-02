@@ -1,6 +1,8 @@
 # SLO County Homeless Resource Guide - Web App
 
-A Progressive Web App (PWA) for the SLO County Homeless Resource Guide, providing easy access to resources and services for people experiencing homelessness in San Luis Obispo County.
+A Progressive Web App (PWA) for the SLO County Homeless Resource Guide,
+providing easy access to resources and services for people experiencing
+homelessness in San Luis Obispo County.
 
 ## Features
 
@@ -12,7 +14,8 @@ A Progressive Web App (PWA) for the SLO County Homeless Resource Guide, providin
   - **About** - Information about the guide and how to report errors
 - **Smart hyperlinks** - Phone numbers, emails, and addresses are all clickable
 - **Directory popup** - Click any organization name in Resources to see full details
-- **Interactive maps** - Standalone map pages for Little Free Libraries, Little Free Pantries, and Naloxone locations
+- **Interactive maps** - Standalone map pages for Little Free Libraries,
+  Little Free Pantries, and Naloxone locations
 - **State persistence** - Returns users to their previous location
 - **Search functionality** - Find resources quickly
 - **Accessibility features**:
@@ -21,14 +24,16 @@ A Progressive Web App (PWA) for the SLO County Homeless Resource Guide, providin
   - High color contrast
   - Screen reader support
   - Keyboard navigation
-- **Browser-specific install instructions** - Tailored guidance for installing the PWA on different platforms
+- **Browser-specific install instructions** - Tailored guidance for
+  installing the PWA on different platforms
 
 ## Development Setup
 
 ### Prerequisites
 
 - Node.js 18+ and npm
-- The markdown source files (`Resource guide.md` and `Directory.md`) in the parent directory
+- The markdown source files (`Resource guide.md` and `Directory.md`) in the
+  parent directory
 
 ### Installation
 
@@ -43,9 +48,11 @@ npm install
 npm run dev
 ```
 
-This starts a development server at `http://localhost:5173` (or another port if 5173 is busy).
+This starts a development server at `http://localhost:5173` (or another port
+if 5173 is busy).
 
 The dev server has:
+
 - Hot module replacement (changes appear instantly)
 - Fast refresh
 - Source maps for debugging
@@ -57,6 +64,7 @@ npm run build
 ```
 
 This creates optimized production files in the `dist/` directory:
+
 - Minified JavaScript and CSS
 - Service worker for offline functionality
 - PWA manifest
@@ -77,6 +85,7 @@ This serves the production build locally for testing before deployment.
 This project is designed for Cloudflare Pages with integrated email feedback functionality.
 
 **Prerequisites:**
+
 1. Cloudflare account with Pages enabled
 2. Email Routing enabled for your domain
 3. Destination email address verified
@@ -85,6 +94,7 @@ This project is designed for Cloudflare Pages with integrated email feedback fun
 **Initial Setup:**
 
 1. Deploy the email-sender Worker:
+
    ```bash
    cd functions/_worker-email-sender
    wrangler deploy
@@ -103,8 +113,10 @@ This project is designed for Cloudflare Pages with integrated email feedback fun
    - Build output directory: `dist`
 
 **Updates:**
+
 - Pages site auto-deploys on git push
 - Worker must be manually redeployed if changed:
+
   ```bash
   cd functions/_worker-email-sender && wrangler deploy
   ```
@@ -114,11 +126,13 @@ See `functions/_worker-email-sender/README.md` for detailed setup instructions.
 ### Option 2: Traditional Web Server (Apache/Nginx)
 
 1. Build the production files:
+
    ```bash
    npm run build
    ```
 
 2. Copy the contents of `dist/` to your web server's document root:
+
    ```bash
    scp -r dist/* user@yourserver:/var/www/html/resource-guide/
    ```
@@ -126,6 +140,7 @@ See `functions/_worker-email-sender/README.md` for detailed setup instructions.
 3. Configure your web server:
 
    **Apache (.htaccess)**:
+
    ```apache
    # Enable rewrite engine
    RewriteEngine On
@@ -137,7 +152,8 @@ See `functions/_worker-email-sender/README.md` for detailed setup instructions.
 
    # Enable gzip compression
    <IfModule mod_deflate.c>
-     AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+     AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css \
+       text/javascript application/javascript application/json
    </IfModule>
 
    # Set caching headers
@@ -154,6 +170,7 @@ See `functions/_worker-email-sender/README.md` for detailed setup instructions.
    ```
 
    **Nginx**:
+
    ```nginx
    server {
      listen 80;
@@ -163,7 +180,8 @@ See `functions/_worker-email-sender/README.md` for detailed setup instructions.
 
      # Gzip compression
      gzip on;
-     gzip_types text/plain text/css application/json application/javascript text/xml application/xml text/javascript;
+     gzip_types text/plain text/css application/json application/javascript \
+       text/xml application/xml text/javascript;
 
      # Try files, fallback to index.html for client-side routing
      location / {
@@ -186,24 +204,31 @@ See `functions/_worker-email-sender/README.md` for detailed setup instructions.
 
 ## Updating Content
 
-The app imports content directly from `../Resource guide.md` and `../Directory.md` during the build process. The markdown files are bundled into the JavaScript, so they work offline without any network requests.
+The app imports content directly from `../Resource guide.md` and
+`../Directory.md` during the build process. The markdown files are bundled
+into the JavaScript, so they work offline without any network requests.
 
 **Important**: When you update the markdown files:
 
 1. You **must rebuild** the app to include the changes:
+
    ```bash
    npm run build
    ```
 
 2. Redeploy the updated `dist/` directory to your web server
 
-3. Users will automatically get the new version when they reload the page (the service worker detects the new build and updates automatically)
+3. Users will automatically get the new version when they reload the page
+   (the service worker detects the new build and updates automatically)
 
-**Note**: Because the markdown content is bundled into the JavaScript at build time, you cannot update the content without rebuilding and redeploying the app. This is a tradeoff for better performance and guaranteed offline functionality.
+**Note**: Because the markdown content is bundled into the JavaScript at
+build time, you cannot update the content without rebuilding and redeploying
+the app. This is a tradeoff for better performance and guaranteed offline
+functionality.
 
 ## Project Structure
 
-```
+```text
 web-app/
 ├── index.html              # Main HTML template
 ├── package.json            # Dependencies and scripts
@@ -248,12 +273,14 @@ See `ARCHITECTURE.md` for detailed documentation of each component.
 
 ### Directory Links
 
-- Links in the Resource Guide that point to Directory entries are automatically converted to open the Directory modal
+- Links in the Resource Guide that point to Directory entries are
+  automatically converted to open the Directory modal
 - Supported formats:
   - `[Agency Name](#entry-id)` - simple anchor link
   - `[Agency Name](Directory.md#entry-id)` - full path with anchor
 - Clicking such a link opens a popup showing the full directory entry
-- Only existing markdown hyperlinks are converted - there is no automatic text matching
+- Only existing markdown hyperlinks are converted - there is no automatic
+  text matching
 - This gives you full control over which text becomes a Directory link
 
 ### State Persistence
@@ -291,16 +318,19 @@ The app follows WCAG 2.1 Level AA guidelines:
 ## Troubleshooting
 
 **Content not loading**:
+
 - Check that `Resource guide.md` and `Directory.md` are in the parent directory
 - Check browser console for errors
 - Verify file paths in `main.js`
 
 **Service worker not updating**:
+
 - Hard refresh: Ctrl+Shift+R (Windows/Linux) or Cmd+Shift+R (Mac)
 - Clear browser cache
 - Check for service worker errors in browser DevTools
 
 **Links not working**:
+
 - Ensure directory entries have proper anchor tags: `<a id="entry-id">Name</a>`
 - Check that organization names match between Resources and Directory
 - Look for errors in browser console
