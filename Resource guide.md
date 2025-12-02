@@ -1054,7 +1054,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 
 - [**Brookside Thrift**](Directory.md#Brookside-Thrift)
 - [**Goodwill Store**](Directory.md#Goodwill)
-- [**Village Thrift**](Directory.md#Village-Thrift)
+- [**NCI Affiliates Thrift**](Directory.md#NCI-Affiliates-Thrift)
 
 **Grover Beach:**
 
@@ -1076,6 +1076,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 **Paso Robles:**
 
 - [**Goodwill Store**](Directory.md#Goodwill)
+- [**NCI Affiliates Thrift**](Directory.md#NCI-Affiliates-Thrift)
 
 **San Luis Obispo:**
 
@@ -1376,8 +1377,6 @@ They also help you access a no-cost lending library of assistive technology devi
 
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) can loan you assistive technology like walkers and wheelchairs.
 Call them for details.
-
-[**Veterans Volunteer Services**](Directory.md#Veterans-Volunteer-Services) can loan veterans (or family members of veterans) assistive technology like canes, walkers, wheelchairs, bedside commodes, shower chairs, and crutches.
 
 ### <a id="prescription-medicines">Prescription Medicines</a>
 

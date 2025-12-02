@@ -2289,6 +2289,19 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - Also has some virtual (Zoom) meetings
 - **Phone:** [805-549-7730](tel:+1-805-549-7730) <!-- Source: https://www.centralcoastna.org/ -->
 
+## <a id="NCI-Affiliates-Thrift">NCI Affiliates Thrift</a>
+
+- **Website:** [nciaffiliates.org/thrift-stores](https://nciaffiliates.org/thrift-stores/)
+
+<!-- Source: https://www.nciaffiliates.org/pages/thrift-stores -->
+| Location | Phone |
+| -------- | ----- |
+| 2070 El Camino Real, Atascadero <a href="#" class="map-link" data-lat="35.512708" data-lon="-120.698150" data-zoom="17" data-label="NCI Affiliates Thrift">Map</a> | [805-462-0500](tel:+1-805-462-0500) |
+| 183 Niblick Rd., Paso Robles <a href="#" class="map-link" data-lat="35.616768" data-lon="-120.682216" data-zoom="17" data-label="NCI Affiliates Thrift">Map</a> | [805-296-3153](tel:+1-805-296-3153) |
+
+- **Hours:** Daily 10am–6pm <!-- Source: https://www.nciaffiliates.org/pages/thrift-stores -->
+- Notes: Operated by NCI Affiliates; training location for vocational services
+
 ## <a id="NeedyMeds">NeedyMeds</a>
 
 - **Website:** [needymeds.org](https://needymeds.org/)
@@ -3597,7 +3610,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="TranzCentralCoast">TranzCentralCoast</a>
 
-- **Website:** [tranzcentralcoast.org](https://www.tranzcentralcoast.org/)
+<!-- - **Website:** [tranzcentralcoast.org](https://www.tranzcentralcoast.org/) (not working as of 2 Dec 2025) -->
 - **Location:** 1060 Palm St., SLO <a class="map-link" data-lat="35.283421" data-lon="-120.661309" data-zoom="17" data-label="TranzCentralCoast">Map</a>
 - **Phone:** [805-242-3821](tel:+1-805-242-3821) <!-- Source: https://www.facebook.com/tranz.coast/ -->
 - **Email:** [TranzCentralCoast@gmail.com](mailto:TranzCentralCoast@gmail.com) <!-- Source: https://www.facebook.com/tranz.coast/ -->
@@ -3605,46 +3618,46 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="UC-Cooperative-Extension">U.C. Cooperative Extension — SLO County</a>
 
 - **Website:** [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/)
-- **Phone:** [805-781-5940](tel:+1-805-781-5940)
+- **Location:** 2156 Sierra Way #C, SLO <a href="#" class="map-link" data-lat="35.274187" data-lon="-120.647553" data-zoom="17" data-label="U.C. Cooperative Extension">Map</a> <!-- Source: https://ucanr.edu/county/county-san-luis-obispo -->
+- **Phone:** [805-781-5940](tel:+1-805-781-5940) <!-- Source: https://ucanr.edu/county/county-san-luis-obispo -->
 - Notes: Research-based educational programs including Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, and horticulture; cost varies by program
 
 ## <a id="UUSLO">Unitarian Universalists San Luis Obispo</a>
 
 - **Website:** [uuslo.org](https://uuslo.org/)
-- **Location:** 2201 Lawton Avenue <a class="map-link" data-lat="35.269386" data-lon="-120.657033" data-zoom="17" data-label="Unitarian Universalists San Luis Obispo">Map</a>
-- **Phone:** [805-439-0188](tel:+1-805-439-0188)
-- **Email:** [minister.uuslo@gmail.com](mailto:minister.uuslo@gmail.com)
+- **Location:** 2201 Lawton Avenue <a class="map-link" data-lat="35.269386" data-lon="-120.657033" data-zoom="17" data-label="Unitarian Universalists San Luis Obispo">Map</a> <!-- Source: https://uuslo.org/ -->
+- **Phone:** [805-439-0188](tel:+1-805-439-0188) <!-- Source: https://uuslo.org/contact-us -->
+- **Email:** [minister.uuslo@gmail.com](mailto:minister.uuslo@gmail.com) <!-- Source: https://uuslo.org/care-for-our-neighbors -->
 - **Hours:**
-   - We Care Foodshare food pantry: W 3–4:30pm
-   - Refugee and Immigrant Services Education: 1st & 3rd Sunday each month, 12:30–2:30pm
+   - We Care Foodshare food pantry: W 3–4:30pm <!-- Source: https://uuslo.org/care-for-our-neighbors#wcf -->
+   - Refugee and Immigrant Services Education: 1st & 3rd Sunday each month, 12:30–2:30pm <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
 - **How to access:**
-   - We Care Foodshare food pantry: show up during hours of operation
-   - Minister’s Discretionary Fund: email with a specific request
-   - Refugee and Immigrant Services Education: show up during hours of operation (no appointment necessary)
+   - We Care Foodshare food pantry: show up during hours of operation <!-- Source: https://uuslo.org/care-for-our-neighbors -->
+   - Minister’s Discretionary Fund: email with a specific request <!-- Source: https://uuslo.org/care-for-our-neighbors -->
+   - Refugee and Immigrant Services Education: show up during hours of operation (no appointment necessary) <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
 - Notes:
-   - operates the “Minister’s Discretionary Fund,” “Refugee and Immigrant Services Education,” and “We Care Foodshare”
-   - hosts [**Shower the People**](#Shower-the-People) on Tuesdays and Thursdays
+   - operates the “Minister’s Discretionary Fund,” “Refugee and Immigrant Services Education,” and “We Care Foodshare” <!-- Source: https://uuslo.org/care-for-our-neighbors -->
+   - hosts [**Shower the People**](#Shower-the-People) on Tuesdays and Thursdays <!-- Source: https://uuslo.org/care-for-our-neighbors -->
 
 ## <a id="UnitedHealthcare-Childrens-Foundation">UnitedHealthcare Children’s Foundation</a>
 
 - **Website:** [uhccf.org](https://www.uhccf.org/)
-- **Phone:** [855-698-4223](tel:+1-855-698-4223)
-- **Email:** [uhccfcustomerservice@uhc.com](mailto:uhccfcustomerservice@uhc.com)
+- **Phone:** [855-698-4223](tel:+1-855-698-4223) <!-- Source: https://www.uhccf.org/contact-us/ -->
+- **Email:** [uhccfcustomerservice@uhc.com](mailto:uhccfcustomerservice@uhc.com) <!-- Source: https://www.uhccf.org/contact-us/ -->
 
 ## <a id="United-Voluntary-Services-Thrift">United Voluntary Services Thrift</a>
 
-<!-- Source: https://www.thriftstores.net/store/1713/united-voluntary-services-thrift-store/ -->
-- **Location:** 474 Marsh St., SLO <a class="map-link" data-lat="35.276489" data-lon="-120.667039" data-zoom="17" data-label="United Voluntary Services Thrift">Map</a>
-- **Phone:** [805-543-1545](tel:+1-805-543-1545)
-- **Hours:** M–F 10am–4pm, Sa 11am–2pm
+- **Location:** 474 Marsh St., SLO <a class="map-link" data-lat="35.276489" data-lon="-120.667039" data-zoom="17" data-label="United Voluntary Services Thrift">Map</a> <!-- Source: https://www.facebook.com/profile.php?id=61572188774003 -->
+- **Phone:** [805-543-1545](tel:+1-805-543-1545) <!-- Source: https://www.facebook.com/profile.php?id=61572188774003 -->
+- **Hours:** M–Sa 11am–3pm <!-- Source: https://www.facebook.com/profile.php?id=61572188774003 -->
 
 ## <a id="United-Way">United Way</a>
 
 - **Website:** [unitedwayslo.org](https://unitedwayslo.org/)
    - [tax return assistance program](https://unitedwayslo.org/family-financial-stability/taxes/)
-- **Location:** 1288 Morro St. #10, SLO <a class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="United Way">Map</a>
-- **Phone:** [805-541-1234](tel:+1-805-541-1234)
-- **Email:** [info@unitedwayslo.org](mailto:info@unitedwayslo.org)
+- **Location:** 1288 Morro St. #10, SLO <a class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="United Way">Map</a> <!-- Source: https://unitedwayslo.org/ -->
+- **Phone:** [805-541-1234](tel:+1-805-541-1234) <!-- Source: https://unitedwayslo.org/ -->
+- **Email:** [info@unitedwayslo.org](mailto:info@unitedwayslo.org) <!-- Source: https://unitedwayslo.org/contact/ -->
    - tax return assistance program: [taxes@unitedwayslo.org](mailto:taxes@unitedwayslo.org)
 
 ## <a id="Urgent-Care">Urgent Care</a>
@@ -3668,36 +3681,34 @@ There are several urgent care options, including:
 
 ## <a id="Urgent-Care-of-Atascadero">Urgent Care of Atascadero</a>
 
-<!-- Source: Web search verified October 2025 -->
-- **Location:** 9700 El Camino Real #100, Atascadero <a class="map-link" data-lat="35.464970" data-lon="-120.648491" data-zoom="17" data-label="Urgent Care of Atascadero">Map</a>
-- **Phone:** [805-466-1330](tel:+1-805-466-1330)
-- **Hours:** Every day 7am–6:30pm
+- **Location:** 9700 El Camino Real #100, Atascadero <a class="map-link" data-lat="35.464970" data-lon="-120.648491" data-zoom="17" data-label="Urgent Care of Atascadero">Map</a> <!-- Source: https://www.facebook.com/healthylife56/ -->
+- **Phone:** [805-466-1330](tel:+1-805-466-1330) <!-- Source: https://www.facebook.com/healthylife56/ -->
+- **Hours:** M–Sa 7am–6:30pm, Su 8am–3:30pm <!-- Source: https://www.facebook.com/healthylife56/ -->
 - **How to access:** Walk-ins accepted until 30 minutes before closing
 - Notes: Accepts Medicare and Medi-Cal; most insurances accepted — call to verify coverage
 
 ## <a id="Urgent-Care-of-Morro-Bay">Urgent Care of Morro Bay</a>
 
-<!-- Source: Web search verified October 2025 -->
-- **Location:** 783 Quintana Rd. #1, Morro Bay <a class="map-link" data-lat="35.367708" data-lon="-120.842253" data-zoom="17" data-label="Urgent Care of Morro Bay">Map</a>
-- **Phone:** [805-771-0108](tel:+1-805-771-0108)
-- **Hours:** M–Sa 7am–6:30pm, Su 8am–3:30pm
+- **Location:** 783 Quintana Rd., Morro Bay <a class="map-link" data-lat="35.367708" data-lon="-120.842253" data-zoom="17" data-label="Urgent Care of Morro Bay">Map</a> <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Morro-Bay-100064337281602/ -->
+- **Phone:** [805-771-0108](tel:+1-805-771-0108) <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Morro-Bay-100064337281602/ -->
+- **Hours:** M–Sa 7am–6:30pm, Su 8am–3:30pm <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Morro-Bay-100064337281602/ -->
 - Notes: Accepts Medicare and Medi-Cal
 
 ## <a id="Urgent-Care-Pismo-Beach">Urgent Care Pismo Beach</a>
 
-- **Location:** 2 James Way #214, Pismo Beach <a class="map-link" data-lat="35.138798" data-lon="-120.632225" data-zoom="17" data-label="Urgent Care Pismo Beach">Map</a>
-- **Phone:** [805-295-6594](tel:+1-805-295-6594)
-- **Hours:** M–Sa. 7am–6:30pm, Su. 8am–3:30pm
-<!-- Note: Unable to verify website availability online (as of October 2025); call for current information -->
+- **Location:** 2 James Way #214, Pismo Beach <a class="map-link" data-lat="35.138798" data-lon="-120.632225" data-zoom="17" data-label="Urgent Care Pismo Beach">Map</a> <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Pismo-Beach-100063689162786/ -->
+- **Phone:** [805-295-6594](tel:+1-805-295-6594) <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Pismo-Beach-100063689162786/ -->
+- **Hours:** M–Sa. 7am–6:30pm, Su. 8am–3:30pm <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Pismo-Beach-100063689162786/ -->
 
 ## <a id="Veterans-Administration-Outpatient-Clinic">Veterans Administration Outpatient Clinic</a>
 
-- **Location:** 1288 Morro St. #200, SLO <a class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="Veterans Administration Outpatient Clinic">Map</a>
+- **Website:** [va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
+- **Location:** 1288 Morro St. #200, SLO <a class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="Veterans Administration Outpatient Clinic">Map</a> <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
 - **Phone:**
-   - [805-543-1233](tel:+1-805-543-1233) / [877-252-4866](tel:+1-877-252-4866) (VA health connect)
-   - [877-251-7295](tel:+1-877-251-7295) (24/7 appointment line)
-- **Hours:** M–F 8am–4:30pm
-<!-- Note: Unable to locate dedicated website for SLO clinic (as of October 2025); use VA main finder at va.gov/find-locations or call for current information -->
+   - [805-543-1233](tel:+1-805-543-1233) (main) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
+   - [877-252-4866](tel:+1-877-252-4866) (VA health connect) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
+   - [877-251-7295](tel:+1-877-251-7295) (mental health) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/main -->
+- **Hours:** M–F 8am–4:30pm <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
 
 ## Veterans Express Shuttle
 
@@ -3708,69 +3719,60 @@ There are several urgent care options, including:
 <!-- Source: http://slocounty.ca.gov/Departments/Veterans-Services -->
 - **Website:** [slocounty.ca.gov/Departments/Veterans-Services](https://www.slocounty.ca.gov/departments/veterans-services)
 - **Locations:**
-   - 800 West Branch St., Arroyo Grande <a href="#" class="map-link" data-lat="35.124547" data-lon="-120.589385" data-zoom="17" data-label="Veterans Services">Map</a> (Tu/Th 8am–5pm) (currently closed for renovations)
-   - 240 Scott St., Paso Robles <a href="#" class="map-link" data-lat="35.608124" data-lon="-120.655868" data-zoom="17" data-label="Veterans Services">Map</a> (Tu–Th 8am–5pm)
-   - 801 Grand Ave., SLO <a class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services">Map</a> (daily 8am–5pm)
-- **Phone:** [805-781-5766](tel:+1-805-781-5766)
+   - 800 West Branch St., Arroyo Grande <a href="#" class="map-link" data-lat="35.124547" data-lon="-120.589385" data-zoom="17" data-label="Veterans Services">Map</a> (currently closed for renovations) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
+   - 240 Scott St., Paso Robles <a href="#" class="map-link" data-lat="35.608124" data-lon="-120.655868" data-zoom="17" data-label="Veterans Services">Map</a> (Tu–Th 8am–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/contact-us -->
+   - 801 Grand Ave., SLO <a class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services">Map</a> (daily 8am–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/contact-us -->
+- **Phone:** [805-781-5766](tel:+1-805-781-5766) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
 - **Email:** [slovets@co.slo.ca.us](mailto:slovets@co.slo.ca.us)
 - **How to access:** In-person and phone appointments only; no walk-ins; book appointments [online](https://sanluisobispocountyveteransservices.as.me/schedule/970de54e) or by phone
-- Notes: SLO office has a small food pantry
+- Notes: SLO office has a small [food pantry](https://www.slocounty.ca.gov/departments/veterans-services/veterans-services-food-pantry)
 
 ## <a id="Veterans-Transportation-Service">Veterans Transportation Service</a>
 
 - **Website:** [vetride.va.gov](https://www.vetride.va.gov/)
 - **Phone:** [805-543-1233](tel:+1-805-543-1233)
+<!-- https://www.vetride.va.gov/app/contact-us shows the closest office being in Fresno with the number 559-241-6462. Does the 805 number still work? Is this service available here? -->
 
+<!-- Defunct?
 ## <a id="Veterans-Volunteer-Services">Veterans Volunteer Services</a>
 
 - **Location:** Arroyo Grande <a class="map-link" data-lat="35.123537" data-lon="-120.578580" data-zoom="17" data-label="Veterans Volunteer Services">Map</a>
 - **Phone:** [805-481-2622](tel:+1-805-481-2622)
 - **How to access:** No walk-ins; call to make an appointment
-<!-- Note: Unable to locate website or more precise address online (as of October 2025); call for current information -->
+-->
 
 ## <a id="Victim-Witness-Assistance-Program">Victim Witness Assistance Program</a>
 
-<!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
 - **Website:** [slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center](https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center)
-- **Location:** 1050 Monterey St. (Courthouse Annex Room 384), SLO <a href="#" class="map-link" data-lat="35.282937" data-lon="-120.661267" data-zoom="17" data-label="Victim Witness Assistance Program">Map</a>
-- **Phone:** [805-781-5821](tel:+1-805-781-5821) (toll-free: [866-781-5821](tel:+1-866-781-5821))
-<!-- Note: Hours of operation not listed on website (as of October 2025); call to verify -->
-
-## <a id="Village-Thrift">Village Thrift</a>
-
-<!-- Source: https://www.yellowpages.com/atascadero-ca/mip/village-thrift-store-19439025 -->
-<!-- Note: Confirmed operational with customer reviews from 2025; NCI Affiliates may operate multiple thrift store locations in the area (verified October 2025) -->
-- **Website:** [nciaffiliates.org/thrift-stores](https://nciaffiliates.org/thrift-stores/)
-- **Location:** 8681 El Camino Real, Atascadero (The Oaks Shopping Center)
-- **Phone:** [805-462-0500](tel:+1-805-462-0500)
-- Notes: Operated by NCI Affiliates; training location for vocational services
-<!-- Note: Hours of operation not available online (as of October 2025); call to verify -->
+- **Location:** 1050 Monterey St. (Courthouse Annex Room 384), SLO <a href="#" class="map-link" data-lat="35.282937" data-lon="-120.661267" data-zoom="17" data-label="Victim Witness Assistance Program">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
+- **Phone:** [805-781-5821](tel:+1-805-781-5821) (toll-free: [866-781-5821](tel:+1-866-781-5821)) <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
 
 ## <a id="Vituity-Cares-Mobile-Clinic">Vituity Cares Mobile Clinic</a>
 
 - **Website:** [vituitycares.org](https://vituitycares.org/)
 - **Location:** 995 Palm St., SLO <a class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="Vituity Cares Mobile Clinic">Map</a>
-- **Phone:** [480-828-4319](tel:+1-480-828-4319)
+- **Phone:** [480-828-4319](tel:+1-480-828-4319) <!-- Source: https://vituitycares.org/contact-us/ -->
+- **Email:** [vituitycares@gmail.com](mailto:vituitycares@gmail.com) <!-- Source: https://vituitycares.org/contact-us/ -->
 - **Hours:** 2nd Sunday of the month, 12:30–3:30 pm
 
 ## <a id="Helping-Friends-Program">Voice for the Animals Helping Friends Program</a>
 
 - **Website:** [www.vftafoundation.org/helping_friends](https://www.vftafoundation.org/helping_friends)
-- **Phone:** [310-392-5153](tel:+1-310-392-5153)
-- **Email:** [info@vftafoundation.org](mailto:info@vftafoundation.org)
+- **Phone:** [310-392-5153](tel:+1-310-392-5153) <!-- Souce: https://www.vftafoundation.org/helping_friends -->
+- **Email:** [info@vftafoundation.org](mailto:info@vftafoundation.org) <!-- Souce: https://www.vftafoundation.org/helping_friends -->
 
 ## <a id="Womenade">Womenade</a>
 
-| Location         | Website                                         | Location | Phone |
-| ---------------- | ----------------------------------------------- | -------- | ----- |
-| SLO city         | [womenadeslo.org](https://www.womenadeslo.org/) | 6099 Marshall Way, SLO <a href="#" class="map-link" data-lat="35.213169" data-lon="-120.622298" data-zoom="17" data-label="Womenade">Map</a> | [805-674-9450](tel:+1-805-674-9450) |
-| South SLO County | [sslocw.org](https://www.sslocw.org/)           | 1793 Farroll Road, Grover Beach <a href="#" class="map-link" data-lat="35.112441" data-lon="-120.609956" data-zoom="17" data-label="Womenade">Map</a> | |
+| Location         | Website                                         | Location | Phone | Email |
+| ---------------- | ----------------------------------------------- | -------- | ----- | ----- |
+| SLO city         | [womenadeslo.org](https://www.womenadeslo.org/) | 6099 Marshall Way, SLO <a href="#" class="map-link" data-lat="35.213169" data-lon="-120.622298" data-zoom="17" data-label="Womenade">Map</a> | [805-674-9450](tel:+1-805-674-9450) | [elaine@womenadeslo.org](mailto:elaine@womenadeslo.org) |
+| South SLO County | [sslocw.org](https://www.sslocw.org/)           | 1793 Farroll Road, Grover Beach <a href="#" class="map-link" data-lat="35.112441" data-lon="-120.609956" data-zoom="17" data-label="Womenade">Map</a> | | [sslocwomenade@gmail.com](mailto:sslocwomenade@gmail.com) |
 
 ## <a id="Waterman-Village">Waterman Village</a>
 
 - **Website:** [smartsharehousingsolutions.org/co-living-collaborative](https://www.smartsharehousingsolutions.org/co-living-collaborative)
-- **Location:** 466 Dana St., SLO <a class="map-link" data-lat="35.278012" data-lon="-120.669144" data-zoom="17" data-label="Waterman Village">Map</a>
-- **Phone:** [805-215-5474](tel:+1-805-215-5474)
+- **Location:** 466 Dana St., SLO <a class="map-link" data-lat="35.278012" data-lon="-120.669144" data-zoom="17" data-label="Waterman Village">Map</a> <!-- Source: https://www.smartsharehousingsolutions.org/co-living-collaborative -->
+- **Phone:** [805-215-5474](tel:+1-805-215-5474) <!-- Source: https://www.smartsharehousingsolutions.org/co-living-collaborative -->
 - Notes: A project of [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions)
 
 ## We Care Foodshare
@@ -3781,9 +3783,9 @@ There are several urgent care options, including:
 
 <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division,-draft/what-we-are-doing/projects/welcome-home-village verified October 2025 -->
 - **Website:** [slocounty.ca.gov/welcomehomevillage](https://www.slocounty.ca.gov/welcomehomevillage.aspx)
-- **Location:** Health Agency Campus, intersection of Johnson Ave. & Bishop St., SLO <a href="#" class="map-link" data-lat="35.274108" data-lon="-120.645697" data-zoom="17" data-label="Welcome Home Village">Map</a>
-- **Phone:** [805-591-4544](tel:+1-805-591-4544) (Margaret Shepard-Moore, Program Manager)
-- **Email:** [mshepard-moore@co.slo.ca.us](mailto:mshepard-moore@co.slo.ca.us)
+- **Location:** Health Agency Campus, intersection of Johnson Ave. & Bishop St., SLO <a href="#" class="map-link" data-lat="35.274108" data-lon="-120.645697" data-zoom="17" data-label="Welcome Home Village">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village -->
+- **Phone:** [805-591-4544](tel:+1-805-591-4544) (Margaret Shepard-Moore, Program Manager) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village -->
+- **Email:** [mshepard-moore@co.slo.ca.us](mailto:mshepard-moore@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village -->
 - **How to access:** Through the [**Coordinated Entry System (CES)**](#CES) or contact City of SLO Homelessness Response Team for outreach
 - Notes:
    - Operated by [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
@@ -3796,18 +3798,19 @@ There are several urgent care options, including:
 
 - **Website:** [Slocountygov/wic](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29)
 
+<!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 | Location | Phone |
 | -------- | ----- |
-| Atascadero: 5575 Hospital Dr. <a href="#" class="map-link" data-lat="35.492648" data-lon="-120.662938" data-zoom="17" data-label="Women, Infants, and Children (WIC)">Map</a> | [805-237-3065](tel:+1-805-237-3065) |
+| Atascadero: 5575 Hospital Dr. <a href="#" class="map-link" data-lat="35.492648" data-lon="-120.662938" data-zoom="17" data-label="Women, Infants, and Children (WIC)">Map</a> | [805-237-3065](tel:+1-805-237-3065) or [805-781-5570](tel:+1-805-781-5570) |
 | Grover Beach: 286 S. 16th St. #B <a href="#" class="map-link" data-lat="35.119277" data-lon="-120.611998" data-zoom="17" data-label="Women, Infants, and Children (WIC)">Map</a> | [805-473-7130](tel:+1-805-473-7130) |
+| Paso Robles: 805 4th St. #B <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="Women, Infants, and Children (WIC)">Map</a> | [805-237-3065](tel:+1-805-237-3065) |
 | SLO: 2191 Johnson Ave. <a href="#" class="map-link" data-lat="35.274391" data-lon="-120.646730" data-zoom="17" data-label="Women, Infants, and Children (WIC)">Map</a> | [805-781-5570](tel:+1-805-781-5570) |
 
 - **Phone:**
-   - [805-781-5570](tel:+1-805-781-5570)
-   - [805-781-5571](tel:+1-805-781-5571)
-   - Text: [888-417-6180](tel:+1-888-417-6180)
-- **Hours:** M–Th 8am–5pm; Fri. 8am–4:30pm (closed on the last Wednesday of the month)
-- **How to access:** by appointment only (call or text to make an appointment)
+   - [805-781-5570](tel:+1-805-781-5570) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+   - Text: [888-417-6180](sms:+1-888-417-6180) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+- **Hours:** M–Th 8am–5pm; Fri. 8am–4:30pm (closed on the last Wednesday of the month) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+- **How to access:** by appointment only (call or text to make an appointment) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - Eligibility: This program is restricted to people for whom both of the following requirements are true:
    - You are pregnant, breastfeeding, gave birth or had a pregnancy loss in the past six months, or you care for a child under the age of five
    - And you live in California and have income below a certain threshold, or receive Medi-Cal, [CalWORKs](#CalWORKs), or CalFresh benefits.
@@ -3816,16 +3819,20 @@ There are several urgent care options, including:
 
 - **Website:** [woodshumanesociety.org](https://woodshumanesociety.org/)
    - [Pet Pantry](https://woodshumanesociety.org/pet-pantry/)
-- **Location:** 875 Oklahoma Ave, SLO <a class="map-link" data-lat="35.318418" data-lon="-120.715209" data-zoom="17" data-label="Woods Human Society">Map</a>
-- **Phone:** [805-543-9316](tel:+1-805-543-9316)
+
+<!-- Source: https://woodshumanesociety.org/contact-us/ -->
+| Location | Phone |
+| -------- | ----- |
+| 2300 Ramona Rd., Atascadero <a href="#" class="map-link" data-lat="35.510264" data-lon="-120.698978" data-zoom="17" data-label="Woods Humane Society">Map</a> | [805-466-5403](tel:+1-805-466-5403) |
+| 875 Oklahoma Ave, SLO <a class="map-link" data-lat="35.318418" data-lon="-120.715209" data-zoom="17" data-label="Woods Human Society">Map</a> | [805-543-9316](tel:+1-805-543-9316) |
+
 - **Email:** [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) (Robin Coleman, Community Engagement Manager)
-- **Hours:** Tu–Su 11am–5pm
+- **Hours:** (adoption) daily 11am–4pm (Atascadero) or daily Noon–4pm (SLO) <!-- Source: https://woodshumanesociety.org/contact-us/ -->
 
 ## <a id="Zion-Lutheran-Church">Zion Lutheran Church</a>
 
-<!-- Source: https://www.zionslo.com/ -->
 - **Website:** [zionslo.com](https://www.zionslo.com/)
-- **Location:** 1010 Foothill Blvd., SLO <a class="map-link" data-lat="35.294563" data-lon="-120.667386" data-zoom="17" data-label="Zion Lutheran Church">Map</a>
-- **Phone:** [805-543-8327](tel:+1-805-543-8327)
-- **Email:** [zion@zionslo.com](mailto:zion@zionslo.com)
-- **Hours** (food pantry): W 9:30–11:30am
+- **Location:** 1010 Foothill Blvd., SLO <a class="map-link" data-lat="35.294563" data-lon="-120.667386" data-zoom="17" data-label="Zion Lutheran Church">Map</a> <!-- Source: https://www.zionslo.com/ -->
+- **Phone:** [805-543-8327](tel:+1-805-543-8327) <!-- Source: https://www.zionslo.com/ -->
+- **Email:** [zion@zionslo.com](mailto:zion@zionslo.com) <!-- Source: https://www.zionslo.com/ -->
+- **Hours** (food pantry): W 9:30–11:30am <!-- Source: https://www.zionslo.com/harvest-bag -->
