@@ -171,8 +171,8 @@ function initTOCButton() {
     const header = document.querySelector('.app-header');
     if (header) {
       const headerHeight = header.getBoundingClientRect().height;
-      // Position button 10px below the header
-      tocBtn.style.top = `${headerHeight + 10}px`;
+      // Position button 35px below the header (extra space for up arrow indicator)
+      tocBtn.style.top = `${headerHeight + 35}px`;
     }
   }
 
