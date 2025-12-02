@@ -12,9 +12,16 @@ A Progressive Web App (PWA) for the SLO County Homeless Resource Guide, providin
   - **About** - Information about the guide and how to report errors
 - **Smart hyperlinks** - Phone numbers, emails, and addresses are all clickable
 - **Directory popup** - Click any organization name in Resources to see full details
+- **Interactive maps** - Standalone map pages for Little Free Libraries, Little Free Pantries, and Naloxone locations
 - **State persistence** - Returns users to their previous location
 - **Search functionality** - Find resources quickly
-- **Accessibility features** - Color contrast, screen reader support, keyboard navigation
+- **Accessibility features**:
+  - Adjustable font size (80%–150%)
+  - OpenDyslexic font option for dyslexia support
+  - High color contrast
+  - Screen reader support
+  - Keyboard navigation
+- **Browser-specific install instructions** - Tailored guidance for installing the PWA on different platforms
 
 ## Development Setup
 
@@ -207,9 +214,17 @@ web-app/
 │   ├── feedback.js         # Feedback system (API integration)
 │   ├── linkEnhancer.js     # Smart hyperlinks (phone, email, address)
 │   ├── markdownParser.js   # Markdown parsing and directory extraction
-│   └── shareButton.js      # Share functionality
+│   ├── shareButton.js      # Share functionality
+│   ├── installPrompt.js    # PWA install prompt handling
+│   ├── fontSizeControl.js  # Font size and OpenDyslexic toggle
+│   └── strings.js          # UI text strings
+├── scripts/                # Build and validation scripts
+│   ├── extract-map-data.js # Extract coordinates from markdown
+│   └── validate-html.js    # HTML validation
 ├── public/
-│   └── map-feedback.js     # Shared feedback for map pages
+│   ├── map-feedback.js     # Shared feedback for map pages
+│   ├── *-map.html          # Map viewer pages
+│   └── *-data.js           # Auto-generated map data
 ├── functions/              # Cloudflare Pages Functions (serverless)
 │   ├── api/
 │   │   └── feedback.js     # Feedback API endpoint
@@ -219,6 +234,8 @@ web-app/
 │       └── package.json    # Dependencies (mimetext)
 └── dist/                   # Production build output (generated)
 ```
+
+See `ARCHITECTURE.md` for detailed documentation of each component.
 
 ## How It Works
 
@@ -295,9 +312,11 @@ Possible improvements:
 - [ ] Filtering by location/category
 - [ ] Favorites/bookmarks feature
 - [ ] Print-optimized view
-- [ ] Multi-language support
-- [ ] Map view of resources
-- [ ] Share individual entries
+- [ ] Multi-language support (Spanish)
+- [x] Map view of resources (implemented for libraries, pantries, and naloxone locations)
+- [x] Share individual entries (implemented)
+- [x] Font size adjustment (implemented)
+- [x] Dyslexia-friendly font option (implemented)
 
 ## License
 

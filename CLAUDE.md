@@ -43,7 +43,32 @@ They are unlikely to have their own FAX machines, personal computers, scanners, 
 
 - **Data format**: Markdown with HTML anchors for major sections
 - **Main data files**: `Resource guide.md`, `Directory.md`
-- **Implementation**: See "Project Structure" in `web-app/README.md`
+- **Implementation**: Progressive Web App in `web-app/` directory
+
+### Web App Documentation
+
+The `web-app/` directory contains comprehensive documentation that you should refer to and keep up-to-date:
+
+- **`web-app/README.md`**: User-facing documentation
+  - Quick start guide for development
+  - Build and deployment instructions
+  - Feature list and browser support
+  - Troubleshooting common issues
+  - Update this when adding new features or changing user-facing functionality
+
+- **`web-app/ARCHITECTURE.md`**: Technical architecture documentation
+  - Detailed explanation of all modules and components
+  - Data flow diagrams
+  - Build process and scripts
+  - State management and PWA features
+  - Code style guidelines
+  - **Important**: Update this document whenever you modify the codebase structure, add new modules, change the build process, or modify core functionality
+
+When making changes to the web app code:
+1. Update the relevant documentation files to reflect your changes
+2. Keep the documentation accurate and thorough
+3. Update version numbers and "last updated" dates in ARCHITECTURE.md
+4. Ensure examples in documentation match actual code
 
 ### Major Resource Guide Sections (36 total)
 

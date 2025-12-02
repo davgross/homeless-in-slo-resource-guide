@@ -37,9 +37,16 @@ web-app/
 │   ├── linkEnhancer.js     # Smart hyperlink conversion
 │   ├── feedback.js         # Feedback button & API submission
 │   ├── shareButton.js      # Share functionality
+│   ├── installPrompt.js    # PWA install prompt handling
+│   ├── fontSizeControl.js  # Font size and OpenDyslexic toggle
 │   └── strings.js          # UI text strings
+├── scripts/                # Build and validation scripts
+│   ├── extract-map-data.js # Extract coordinates from markdown
+│   └── validate-html.js    # HTML validation script
 ├── public/                 # Static assets (icons, robots.txt, maps)
-│   └── map-feedback.js     # Shared feedback library for map pages
+│   ├── map-feedback.js     # Shared feedback library for map pages
+│   ├── *-map.html          # Map viewer pages (libraries, pantries, naloxone)
+│   └── *-data.js           # Auto-generated map coordinate data
 ├── functions/              # Cloudflare Pages Functions (serverless)
 │   ├── api/
 │   │   └── feedback.js     # Feedback API endpoint
@@ -161,7 +168,53 @@ Email delivered to recipient
 - Falls back to clipboard copy on desktop
 - Generates shareable URLs with hash fragments
 
-### 6. strings.js - UI Text Management
+### 6. installPrompt.js - PWA Installation
+
+**Purpose**: Manages PWA installation prompt and browser-specific instructions
+
+**Key Functions**:
+- `initInstallPrompt()`: Sets up install button and event listeners
+- `handleInstallClick()`: Triggers native install prompt
+- `getInstallInstructions()`: Returns platform-specific install steps
+- `detectBrowser()`: Identifies browser/platform for tailored instructions
+- `isStandalone()`: Checks if app is already installed
+
+**Browser Detection**:
+- iOS Safari (required for iOS installation)
+- Chrome (Android and Desktop)
+- Firefox (Android and Desktop)
+- Edge, Brave, Opera, Samsung Internet
+- Provides fallback instructions for unsupported browsers
+
+**Installation Flow**:
+```
+beforeinstallprompt event → Store deferred prompt → Show install button
+User clicks install → Trigger prompt → Handle outcome → Hide button
+```
+
+### 7. fontSizeControl.js - Text Size and Font Accessibility
+
+**Purpose**: Allows users to adjust text size and enable OpenDyslexic font
+
+**Key Functions**:
+- `initFontSizeControl()`: Sets up font size controls and dyslexic toggle
+- `changeFontSize(step)`: Increase/decrease font size
+- `resetFontSize()`: Restore default size
+- `toggleDyslexicFont(enabled)`: Switch to OpenDyslexic font
+- `loadFontSize()/saveFontSize()`: LocalStorage persistence
+
+**Font Size Scale**:
+- 8 levels: 80%, 90%, 100%, 110%, 120%, 130%, 140%, 150%
+- Default: 100%
+- Persisted in localStorage
+
+**Accessibility Features**:
+- Visual preview of current size
+- Keyboard-accessible controls
+- Escape key closes popup
+- OpenDyslexic font toggle for dyslexia support
+
+### 8. strings.js - UI Text Management
 
 **Purpose**: Centralizes all user-facing text strings
 
@@ -181,7 +234,7 @@ Email delivered to recipient
 }
 ```
 
-### 7. style.css - Visual Design
+### 9. style.css - Visual Design
 
 **Key Features**:
 - Mobile-first responsive design
@@ -196,7 +249,7 @@ Email delivered to recipient
 - White: #ffffff
 - Plus semantic colors for links, visited, etc.
 
-### 8. Serverless Backend - Feedback Email System
+### 10. Serverless Backend - Feedback Email System
 
 **Purpose**: Sends feedback emails immediately without requiring user's email client
 
@@ -230,6 +283,61 @@ Recipient Email
 2. Destination email verified in Cloudflare
 3. Service binding configured in Pages settings
 4. Worker deployed with email binding
+
+### 11. Map Pages - Geographic Resource Visualizations
+
+**Purpose**: Standalone HTML pages displaying resources on interactive OpenStreetMap maps
+
+**Map Pages**:
+- `little-free-libraries-map.html` - Community book exchanges
+- `little-free-pantries-map.html` - Community food pantries
+- `naloxone-locations-map.html` - Naloxone/Narcan access points
+
+**Features**:
+- OpenStreetMap with Leaflet.js
+- Auto-centers and zooms to show all markers
+- Color-coded markers (blue for libraries, orange for pantries, red for naloxone)
+- Click markers to see location details
+- Feedback button integration via map-feedback.js
+- Mobile-responsive design
+
+**Data Source**:
+- Coordinate data extracted from markdown files via `extract-map-data.js`
+- Auto-generated JavaScript files: `*-data.js`
+- Map links in markdown use format: `<a class="map-link" data-lat="..." data-lon="..." data-zoom="..." data-label="...">Map</a>`
+
+### 12. Build Scripts
+
+**Purpose**: Automation scripts for data extraction and validation
+
+#### scripts/extract-map-data.js
+
+**Purpose**: Extracts geographic coordinates from markdown files and generates JavaScript data files for map pages
+
+**How it works**:
+1. Reads `Directory.md` and `Resource guide.md`
+2. Finds sections by ID (e.g., `Little-Free-Libraries`, `naloxone-narcan`)
+3. Extracts all map links with coordinates
+4. Parses location names and addresses
+5. Generates JavaScript files with location arrays
+
+**Output files**:
+- `public/little-free-libraries-data.js`
+- `public/little-free-pantries-data.js`
+- `public/naloxone-locations-data.js`
+
+**When to run**:
+- Automatically runs during `npm run build`
+- Can run manually with `npm run extract-map-data`
+- Run whenever map coordinates are added/changed in markdown files
+
+#### scripts/validate-html.js
+
+**Purpose**: Validates HTML output for accessibility and correctness
+
+**When to run**:
+- Automatically runs after `npm run build` (unless using `build:novalidate`)
+- Validates both source `index.html` and built `dist/index.html`
 
 ## Data Flow
 
@@ -469,12 +577,20 @@ npm run dev
 ```bash
 npm run build
 ```
-1. Vite bundles all code
-2. Imports markdown as raw text
-3. Minifies JS and CSS
-4. Generates service worker
-5. Creates PWA manifest
-6. Outputs to `dist/`
+1. Extracts map data from markdown (`extract-map-data.js`)
+2. Vite bundles all code
+3. Imports markdown as raw text
+4. Minifies JS and CSS
+5. Generates service worker
+6. Creates PWA manifest
+7. Outputs to `dist/`
+8. Validates HTML output (`validate-html.js`)
+
+**Alternative build command**:
+```bash
+npm run build:novalidate
+```
+Same as above, but skips the HTML validation step (faster for development iterations).
 
 ### Build Output
 ```
@@ -655,5 +771,5 @@ For questions about this architecture:
 
 ---
 
-*Last updated: 2025-11-29*
-*Document version: 1.01*
+*Last updated: 2025-12-01*
+*Document version: 1.1*
