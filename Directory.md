@@ -145,7 +145,11 @@
 - **Hours:** M–F 8am–4pm (and by appointment only 4–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
 - Notes:
    - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
-   - Can make referrals to [**Center for Family Strengthening (CSF)**](#CSF)
+   - Can make referrals to [**Center for Family Strengthening (CFS)**](#CFS)
+
+## Adult School
+
+> *See [**San Luis Coastal Adult School**](#San-Luis-Coastal-Adult-School) and [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) and [**Templeton Adult School**](#Templeton-Adult-School)*
 
 ## <a id="Adventist-Health-Sierra-Vista">Adventist Health Sierra Vista</a>
 
@@ -209,7 +213,6 @@
 
 ## <a id="Agape-Church">Agape Church</a>
 
-<!-- Source: https://agapeslo.church/contact -->
 - **Website:** [agapeslo.church](https://agapeslo.church/)
 - **Location:** 950 Laureate Lane, SLO <a href="#" class="map-link" data-lat="35.2857149" data-lon="-120.7097524" data-zoom="17" data-label="Agape Church">Map</a> <!-- Source: https://agapeslo.church/ -->
 - **Phone:** [805-541-0777](tel:+1-805-541-0777) <!-- Source: https://agapeslo.church/ -->
@@ -281,7 +284,6 @@
 
 ## <a id="American-Legion-Post-66">American Legion Post 66</a>
 
-<!-- Source: https://post66slo.org -->
 - **Website:** [post66slo.org](https://post66slo.org/)
 - **Location:** 1661 Mill St., SLO <a href="#" class="map-link" data-lat="35.288680" data-lon="-120.653533" data-zoom="17" data-label="American Legion Post 66">Map</a> <!-- Source: https://post66slo.org/ -->
 - **Phone:** [805-543-6445](tel:+1-805-543-6445) <!-- Source: https://post66slo.org/ -->
@@ -290,6 +292,10 @@
 ## America’s Job Center of California
 
 > *See [**SLO Cal Careers Center**](#SLO-Cal-Careers-Center)*
+
+## Animal Services
+
+> *See [**SLO County Animal Services**](#SLO-County-Animal-Services)*
 
 ## Anna’s Home
 
@@ -303,7 +309,6 @@
 
 ## <a id="Arise-Central-Coast">Arise Central Coast</a>
 
-<!-- Source: https://arisevineyard.com/ -->
 - **Website:** [arisevineyard.com](https://arisevineyard.com/)
 - **Location:** 1775 Calle Joaquin, SLO <a href="#" class="map-link" data-lat="35.241754" data-lon="-120.688113" data-zoom="15" data-label="Arise Central Coast">Map</a> <!-- Source: https://arisevineyard.com/ -->
 - **Phone:** [805-543-3162](tel:+1-805-543-3162) <!-- Source: https://arisevineyard.com/ -->
@@ -330,6 +335,10 @@
 - **Email:** [agrec@arroyogrande.org](mailto:agrec@arroyogrande.org)
 - **Hours:** M–Th 9am–5pm, F 9am–1pm <!-- Source: https://arroyogrande.org/168/Recreation-Services --> (walk-in registration available)
 
+## ASN
+
+> *See [**Access Support Network**](#ASN)*
+
 ## <a id="Aspire-Counseling-Service">Aspire Counseling Service</a>
 
 - **Website:** [aspirecounselingservice.com/san-luis-obispo](https://aspirecounselingservice.com/san-luis-obispo/)
@@ -340,6 +349,10 @@
 - **Email:** [info@aspirecounselingservice.com](mailto:info@aspirecounselingservice.com) <!-- Source: https://aspirecounselingservice.com/contact/ -->
 - **Hours:** M–F 9am–9pm, Sa. 9am–1pm <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
 - Notes: Hosts [**Recovery Dharma**](#Recovery-Dharma)
+
+## Assistive Technology Center
+
+> *See [**Central Coast Assistive Technology Center**](#CCATC)*
 
 ## <a id="Auntie-Isabell-Foundation">Auntie Isabell Foundation</a>
 
@@ -388,6 +401,10 @@
 - **Email:** [recreation@atascadero.org](mailto:recreation@atascadero.org) <!-- Source: https://anc.apm.activecommunities.com/cityofatascadero/home?onlineSiteId=0&from_original_cui=true -->
 - **Hours:** M–F 9am–5pm
 
+## Autism Spectrum Center
+
+> *See [**Central Coast Autism Spectrum Center**](#Central-Coast-Autism-Spectrum-Center)*
+
 ## <a id="Balay-Ko-on-Barka">Balay Ko on Barka</a>
 
 > *a.k.a. “My Home for Hope”*
@@ -411,6 +428,10 @@
    - Office: M–F 9am–5pm (closed Noon–1pm), Sa 10am–5pm (closed Noon–1pm), Su Noon–5pm (closed 1:30–2pm) <!-- Source: https://beachareastorage.com/location-grover-beach/ -->
    - Storage access: Daily 7am–7pm (Daylight Saving Time) or 7am–6pm (standard time) <!-- Source: https://beachareastorage.com/location-grover-beach/ -->
    - Closed major holidays <!-- Source: https://beachareastorage.com/location-grover-beach/ -->
+
+## Behavioral Health
+
+> *See [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health)*
 
 ## <a id="BHBH">Behavioral Health Bridge Housing (BHBH) Program</a>
 
@@ -475,9 +496,12 @@
 - **Email:** [shelter@5chc.org](mailto:shelter@5chc.org) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
 - **How to access:** Apply through [**5Cities Homeless Coalition**](#5CHC) to get on waiting list
 
+## Cal Poly Community Counseling Service
+
+> *See [**San Luis Obispo Counseling Service at Cal Poly**](#Cal-Poly-Community-Counseling-Service)*
+
 ## <a id="California-Cool-Thrift-Store">California Cool Thrift Store</a>
 
-<!-- Note: does not appear to have its own website; hours come from 3rd party websites -->
 - **Location:** 737 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121863" data-lon="-120.622164" data-zoom="17" data-label="California Cool Thrift Store">Map</a> <!-- Source: https://www.yelp.com/biz/california-cool-thrift-store-grover-beach#location-and-hours -->
 - **Phone:** [805-481-3071](tel:+1-805-481-3071) <!-- Source: https://www.yelp.com/biz/california-cool-thrift-store-grover-beach#location-and-hours -->
 - **Hours:** Daily 10am–5pm <!-- Source: https://www.yelp.com/biz/california-cool-thrift-store-grover-beach#location-and-hours -->
@@ -725,7 +749,7 @@
    - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://admissions.centerforautism.com/ -->
 - Notes: Accepts CenCal Health and most other insurance providers <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
 
-## <a id="CSF">Center for Family Strengthening (CSF)</a>
+## <a id="CFS">Center for Family Strengthening (CFS)</a>
 
 - **Website:** [cfsslo.org](https://cfsslo.org/)
 - **Location:** 1428 Phillips Lane #203, SLO <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Center for Family Strengthening">Map</a> <!-- Source: https://cfsslo.org/ -->
@@ -778,7 +802,6 @@
 
 ## <a id="Central-Coast-Autism-Spectrum-Center">Central Coast Autism Spectrum Center</a>
 
-<!-- Source: https://beaminghealth.com/providers/central-coast-autism-spectrum-center-san-luis-obispo-ca -->
 - **Website:** [sloautism.org](https://sloautism.org/)
 - **Mailing address:** P.O. Box 3417, SLO, CA 93403 <!-- Source: https://sloautism.org/about-us/ -->
 - **Phone:** [805-763-1100](tel:+1-805-763-1100) <!-- Source: https://sloautism.org/about-us/ -->
@@ -856,6 +879,10 @@
    - Activities cost $2 for members, $3 for non-members (membership is $30 for individuals, $40 for couples)
    - A lunch site for meals offered through [**Meals that Connect**](#Meals-that-Connect)
 
+## Central Coast Tax-Aide
+
+> *See [**AARP Tax-Aide Program**](#AARP-Tax-Aide)*
+
 ## <a id="Central-Coast-Veterans-Helping-Veterans">Central Coast Veterans Helping Veterans</a>
 
 - **Website:** [ccvhv.org](https://www.ccvhv.org/)
@@ -911,6 +938,10 @@
 - **Email:** [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 - Notes: Operates “Outreach Apparel” and “The Teen’s Closet”
 
+## Children’s Services
+
+> *See [**California Children’s Services**](#California-Childrens-Services)
+
 ## <a id="City-of-SLO-Parks-and-Recreation">City of SLO Parks and Recreation</a>
 
 - **Website:** [slocity.org/government/department-directory/parks-and-recreation](https://www.slocity.org/government/department-directory/parks-and-recreation)
@@ -918,6 +949,10 @@
 - **Phone:** [805-781-7300](tel:+1-805-781-7300) <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
 - **Email:** [recreation@slocity.org](mailto:recreation@slocity.org) <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
 - **Hours:** M–F 8am–4pm <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
+
+## Coalition for Undocumented Student Success
+
+> *See [**Central Coast Coalition for Undocumented Student Success**](#Central-Coast-Coalition-for-Undocumented-Student-Success)*
 
 ## <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a>
 
@@ -1087,6 +1122,10 @@
 - **Hours:** M/W/Th/F 9am–5pm, Tu 8am–5pm
 -->
 
+## Court Appointed Special Advocates (CASA)
+
+> *See [**CASA (Court Appointed Special Advocates)**](#CASA)*
+
 ## <a id="CSF-Medical-Non-Profit-Foundation">CSF Medical Non Profit Foundation</a>
 
 - **Website:** [csffoundation.org](https://csffoundation.org/)
@@ -1137,6 +1176,14 @@
 
 > *See [**Central Coast Dental Society**](#CCDS)*
 
+## Department of Motor Vehicles (DMV)
+
+> *See [**California DMV**](#California-DMV)*
+
+## Department of Rehabilitation
+
+> *See [**California Department of Rehabilitation**](#California-Department-of-Rehabilitation)*
+
 ## Department of Social Services
 
 > *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
@@ -1172,6 +1219,14 @@
 - **Phone:** [805-668-9185](tel:+1-805-668-9185) <!-- Source: https://www.thediscipleshiphome.com/contact-us -->
 - **Email:** [thediscipleshiphome15@gmail.com](mailto:thediscipleshiphome15@gmail.com) <!-- Source: https://www.thediscipleshiphome.com/contact-us -->
 
+## DMV
+
+> *See [**California DMV**](#California-DMV)*
+
+## Doggy Days
+
+> *See [**Cal Poly “Doggy Days” Veterinary Clinics**](#Cal-Poly-Doggy-Days)*
+
 ## <a id="Dove-Creek-Church">Dove Creek Church of the Nazarene</a>
 
 - **Website:** [dovecreekchurch.org](https://dovecreekchurch.org/)
@@ -1187,6 +1242,10 @@
 ## Drug and Alcohol Services
 
 > *See [**SLO County Drug and Alcohol Services**](#SLO-County-Drug-and-Alcohol-Services)*
+
+## ECHO
+
+> *See [**El Camino Homeless Organization (ECHO)**](#ECHO)*
 
 ## <a id="Eckerd-Connects-Workforce-Development">Eckerd Connects Workforce Development</a>
 
@@ -1306,11 +1365,9 @@
 - **Phone:** [805-888-0158](tel:+1-805-888-0158)
 - **Hours:** Every day 8am–6pm
 
-## <a id="Foxys-Thrift-Shop">Foxy’s Thrift Shop</a>
+## Food Bank
 
-- **Location:** 655 Morro Bay Blvd., Morro Bay <a class="map-link" data-lat="35.366302" data-lon="-120.845882" data-zoom="17" data-label="Foxy’s Thrift Shop">Map</a> <!-- Source: https://www.morrobay.org/directory/foxys-thrift-shop/ -->
-- **Phone:** [805-772-8800](tel:+1-805-772-8800) <!-- Source: https://www.morrobay.org/directory/foxys-thrift-shop/ -->
-- **Hours:** Daily 10am–5pm
+> *See [**SLO Food Bank**](#SLO Food Bank)*
 
 ## <a id="Food-Not-Bombs">Food Not Bombs</a>
 
@@ -1320,6 +1377,12 @@
 - **Email:** [slofoodnotbombs@gmail.com](mailto:slofoodnotbombs@gmail.com) <!-- Source: https://www.google.com/maps/d/u/0/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=37.86769083204774%2C-118.11640276136268&z=6 -->
 - **Location:** Mitchell Park, SLO <a href="#" class="map-link" data-lat="35.278724" data-lon="-120.657960" data-zoom="17" data-label="Food Not Bombs">Map</a> <!-- Source: https://www.facebook.com/FoodNotBombsSLO/ -->
 - **Hours:** Su 1–3pm <!-- Source: https://www.google.com/maps/d/u/0/viewer?mid=1KVbOaPBP2Xh1zk59DS9nI-BjjYnrwtwD&hl=en_US&ll=37.86769083204774%2C-118.11640276136268&z=6 -->
+
+## <a id="Foxys-Thrift-Shop">Foxy’s Thrift Shop</a>
+
+- **Location:** 655 Morro Bay Blvd., Morro Bay <a class="map-link" data-lat="35.366302" data-lon="-120.845882" data-zoom="17" data-label="Foxy’s Thrift Shop">Map</a> <!-- Source: https://www.morrobay.org/directory/foxys-thrift-shop/ -->
+- **Phone:** [805-772-8800](tel:+1-805-772-8800) <!-- Source: https://www.morrobay.org/directory/foxys-thrift-shop/ -->
+- **Hours:** Daily 10am–5pm
 
 ## <a id="Fred-and-Bettys">Fred & Betty’s Thrift Store</a>
 
@@ -1426,6 +1489,10 @@
 - **Email:** [info@gracecentralcoast.org](mailto:info@gracecentralcoast.org) <!-- Source: https://gracecentralcoast.org/slo -->
 - **Hours** (God’s Storehouse food distribution): Sa. 8–10am <!-- Source: https://gracecentralcoast.org/gods-storehouse-care -->
 
+## Grassroots
+
+> *See [**SLO Grassroots**](#SLO-Grassroots)*
+
 ## <a id="Green-Pastures">Green Pastures</a>
 
 - **Website:** [fpcslo.org/greenpastures](https://fpcslo.org/greenpastures)
@@ -1474,6 +1541,10 @@
       - **Email:** [restoreslo@habitatslo.org](mailto:restoreslo@habitatslo.org) <!-- Source: https://habitatslo.org/contact/ -->
       - **Hours:** Tu–Sa 10am–5pm <!-- Source: https://habitatslo.org/about/hours/ -->
 
+## HASLO (Housing Authority of SLO)
+
+> *See [**Housing Authority of SLO (HASLO)**](#HASLO)*
+
 ## <a id="Healing-and-Restoration-Campus">Healing and Restoration Campus</a>
 
 <!-- Source: https://www.sloharc.org/ and https://www.newtimesslo.com/news/slos-sunny-acres-could-become-a-health-campus-by-restorative-partners-and-homekey-funds-16578959 -->
@@ -1485,6 +1556,10 @@
 ## Health Department
 
 > *See [**SLO County Health Department**](#SLO-County-Health-Department)*
+
+## Health Insurance Counseling & Advocacy Program
+
+> *See [**HiCAP (Health Insurance Counseling & Advocacy Program)**](#HiCAP)*
 
 ## <a id="HCHP">Healthcare for the Homeless Program</a>
 
@@ -1571,22 +1646,6 @@
 - **Email:** [customerservice@housekeys.org](mailto:customerservice@housekeys.org) <!-- Source: https://www.housekeys19.com/ -->
 - **How to access:** Create account at MyHouseKeys to enter drawings and receive notifications about available units
 
-## <a id="Immigrant-Hope-Arroyo-Grande">Immigrant Hope Arroyo Grande</a>
-
-- **Website:** [immigranthopeag.org](https://immigranthopeag.org/)
-- **Location:** 995 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118232" data-lon="-120.592895" data-zoom="17" data-label="Immigrant Hope">Map</a> <!-- Source: https://immigranthopeag.org/ -->
-- **Phone:** [805-221-4319](tel:+1-805-221-4319) <!-- Source: https://immigranthopeag.org/ -->
-- **How to access:** Call, visit the office, or use their [web contact form](https://immigranthopeag.org/contact-us/)
-
-## <a id="Immigrant-Legal-Defense">Immigrant Legal Defense (ILD)</a>
-
-- **Website:** [ild.org](https://www.ild.org/)
-- **Location:** Cal Poly Dream Center, Science Building (Building 52), Room E-11, Cal Poly SLO campus <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Dream Center">Map</a>
-- **Phone:** [805-756-6362](tel:+1-805-756-6362)
-- **Email:** [info@ild.org](mailto:info@ild.org) <!-- Source: https://calendly.com/csulegalservices/ild?month=2025-12 -->
-- **How to access:** Schedule appointments via Calendly at [calendly.com/csulegalservices/ild](https://calendly.com/csulegalservices/ild) or through Dream Center website at [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
-<!-- Note: No standalone phone number, email, or physical address publicly listed (as of October 2025); contact via online appointment system only -->
-
 ## <a id="HASLO">Housing Authority of SLO (HASLO)</a>
 
 - **Website:** [haslo.org](https://www.haslo.org/)
@@ -1636,6 +1695,22 @@
 - Notes:
    - Run by [**Family Care Network**](#Family-Care-Network)
    - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
+
+## <a id="Immigrant-Hope-Arroyo-Grande">Immigrant Hope Arroyo Grande</a>
+
+- **Website:** [immigranthopeag.org](https://immigranthopeag.org/)
+- **Location:** 995 E. Grand Ave., Arroyo Grande <a href="#" class="map-link" data-lat="35.118232" data-lon="-120.592895" data-zoom="17" data-label="Immigrant Hope">Map</a> <!-- Source: https://immigranthopeag.org/ -->
+- **Phone:** [805-221-4319](tel:+1-805-221-4319) <!-- Source: https://immigranthopeag.org/ -->
+- **How to access:** Call, visit the office, or use their [web contact form](https://immigranthopeag.org/contact-us/)
+
+## <a id="Immigrant-Legal-Defense">Immigrant Legal Defense (ILD)</a>
+
+- **Website:** [ild.org](https://www.ild.org/)
+- **Location:** Cal Poly Dream Center, Science Building (Building 52), Room E-11, Cal Poly SLO campus <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Dream Center">Map</a>
+- **Phone:** [805-756-6362](tel:+1-805-756-6362)
+- **Email:** [info@ild.org](mailto:info@ild.org) <!-- Source: https://calendly.com/csulegalservices/ild?month=2025-12 -->
+- **How to access:** Schedule appointments via Calendly at [calendly.com/csulegalservices/ild](https://calendly.com/csulegalservices/ild) or through Dream Center website at [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
+<!-- Note: No standalone phone number, email, or physical address publicly listed (as of October 2025); contact via online appointment system only -->
 
 ## Independent Living Resource Center (ILRC)
 
@@ -1697,6 +1772,14 @@
 - **Email:** [naseema6@sbcglobal.net](mailto:naseema6@sbcglobal.net) <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
 - **Hours:** last Weds. of the month, 11am–1pm (seniors only) & 4–6pm (anyone)
 
+## Law Library
+
+> *See [**SLO County Law Library**](#SLO-County-Law-Library)*
+
+## Lawyer Referral and Information Service
+
+> *See [**SLO County Bar Association Lawyer Referral and Information Service**](#SLO-County-Bar-Association)*
+
 ## <a id="Le-Sage-Riviera-RV-Park">Le Sage Riviera RV Park</a>
 
 - **Website:** [lesageriviera.com](https://lesageriviera.com)
@@ -1714,6 +1797,10 @@
 - **Phone:** [805-466-2626](tel:+1-805-466-2626) <!-- Source: https://www.ourlegacy.church/ministries -->
 - **Email:** [info@ourlegacy.church](mailto:info@ourlegacy.church) <!-- Source: https://www.ourlegacy.church/ministries -->
 - **Hours** (food pantry): Th 1–2pm <!-- Source: https://www.ourlegacy.church/ministries -->
+
+## Legal Assistance Foundation
+
+> *See [**SLO Legal Assistance Foundation (SLOLAF)**](#SLO-Legal-Assistance-Foundation)*
 
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
 
@@ -1766,7 +1853,7 @@
 - **Hours:** M–F 9am–5pm <!-- Source: https://linkslo.org/ -->
 - **How to access:** accepts self-referrals, school referrals, and community agency referrals
 - Notes:
-   - Operated by [**Center for Family Strengthening (CSF)**](#CSF)
+   - Operated by [**Center for Family Strengthening (CFS)**](#CFS)
    - See also [**North County Family Resource Center**](#North-County-Family-Resource-Center)
    - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
 
@@ -2141,6 +2228,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Hours:** M–F 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 - Notes: For children ages 0–5 with behavioral or mental health issues
 
+## Meals on Wheels
+
+> *See [**Five Cities Meals on Wheels**](#5Cities-Meals-on-Wheels)*
+
 ## <a id="Meals-that-Connect">Meals that Connect</a>
 
 - **Website:** [mealsthatconnect.org](https://mealsthatconnect.org/en/)
@@ -2174,7 +2265,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Email:** [carrie@linkslo.org](mailto:carrie@linkslo.org) <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
 - Notes:
    - Access through [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) or [**Housing Support Program (HSP)**](#Housing-Support-Program) or [**Adult Protective Services**](#Adult-Protective-Services) or [**CalWORKs**](#CalWORKs)
-   - Operated by [**Center for Family Strengthening (CSF)**](#CSF)
+   - Operated by [**Center for Family Strengthening (CFS)**](#CFS)
 
 ## <a id="MISP">Medically Indigent Services Program (MISP)</a>
 
@@ -2309,6 +2400,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Email:** [info@needymeds.org](mailto:info@needymeds.org) <!-- Source: https://needymeds.org/contact-us -->
 - **Hours:** M–F 9am–5pm Eastern Time <!-- Source: https://needymeds.org/helpline -->
 
+## NeighborAid
+
+> *See [**North County NeighborAid**](#North-County-NeighborAid)*
+
 ## <a id="New-Life-U-Pick-Pantry">New Life U-Pick Pantry</a>
 
 - **Website:** [newlifepismo.com/pantry](https://www.newlifepismo.com/pantry/)
@@ -2366,7 +2461,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Email:** [info@NoCoNeighborAid.org](mailto:info@NoCoNeighborAid.org) <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 - **Hours:** By appointment
 - **How to access:** Make a request by using their [web form](https://cfsslo.org/north-county-neighboraid/)
-- Notes: Grassroots initiative managed by [**Center for Family Strengthening**](#CSF)
+- Notes: Grassroots initiative managed by [**Center for Family Strengthening**](#CFS)
 
 ## <a id="North-County-Paws-Cause">North County Paws Cause</a>
 
@@ -2389,6 +2484,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Website:** [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
 - **Location:** 494 Air Park Dr., Oceano <a class="map-link" data-lat="35.104656" data-lon="-120.625624" data-zoom="17" data-label="Oceano Campground">Map</a>
 - **Phone:** [805-781-4900](tel:+1-805-781-4900) <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ --> M–Th 8am–4:30pm; F–Su 8am–6pm, [805-781-5930](tel:+1-805-781-5930) (reservations)
+
+## Office of Emergency Services
+
+> *See [**SLO County Office of Emergency Services**](#SLO-County-Office-of-Emergency-Services)*
 
 ## <a id="Open-Arms-Pantry">Open Arms Pantry at Rock Harbor</a>
 
@@ -2415,7 +2514,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Website:** [sloparents.org](https://sloparents.org/)
 - **Phone:** [805-543-3700](tel:+1-805-543-3700) <!-- Source: https://sloparents.org/ --> (Español: [805-540-1223](tel:+1-805-540-1223))
 - **Email:** [info@sloparents.org](mailto:info@sloparents.org) <!-- Source: https://sloparents.org/ -->
-- Note: operated by [**Center for Family Strengthening (CSF)**](#CSF)
+- Note: operated by [**Center for Family Strengthening (CFS)**](#CFS)
 
 ## <a id="Parents-Helping-Parents">Parents Helping Parents of SLO County</a>
 
@@ -2429,6 +2528,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 - **Phone:** [805-543-3277](tel:+1-805-543-3277) <!-- Source: https://www.phpslo.org/ -->
 - **Email:** [php@ucp-slo.org](mailto:php@ucp-slo.org) <!-- Source: https://www.phpslo.org/ -->
+
+## Partnership for Animal Welfare
+
+> *See [**Central Coast Partnership for Animal Welfare**](#CCPAW)*
 
 ## <a id="Paso-Cares">Paso Cares</a>
 
@@ -2489,6 +2592,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 | 11491 Los Osos Valley Rd. (SLO) <a href="#" class="map-link" data-lat="35.258145" data-lon="-120.692577" data-zoom="17" data-label="PathPoint">Map</a> | [805-782-8890](tel:+1-805-782-8890) |
 
 - **Email:** [info@pathpoint.org](mailto:info@pathpoint.org) <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
+
+## Paws Cause
+
+> *See [**North County Paws Cause**](#North-County-Paws-Cause)*
 
 ## <a id="Peoples-Justice-Project">People’s Justice Project</a>
 
@@ -2592,6 +2699,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Hours:** M–F 10am–3pm <!-- Source: https://www.ppsslo.org/blank -->
 - **How to access:** By appointment only; call or text to make an appointment <!-- Source: https://www.ppsslo.org/blank -->
 
+## Public Health Department
+
+> *See [**SLO County Public Health Department**](#SLO-County-Public-Health-Department)*
+
 ## Rapha House
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
@@ -2615,7 +2726,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Hours:** 24/7 <!-- Source: https://capslo.org/rcp/ -->
 - **How to access:** Must be referred by a medical professional <!-- Source: https://capslo.org/rcp/ -->
 
-## <a id="Recycle-101">Recycle 101 — Oceano</a>
+## <a id="Recycle-101">Recycle 101</a>
 
 - **Location:** 1909 Front St., Oceano <a class="map-link" data-lat="35.098794" data-lon="-120.612028" data-zoom="17" data-label="Recycle 101 — Oceano">Map</a> <!-- Source: https://recycleca.org/business/recycle-101-inc -->
 - **Phone:** [805-363-1034](tel:+1-805-363-1034) <!-- Source: https://recycleca.org/business/recycle-101-inc -->
@@ -2711,7 +2822,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## RISE
 
-> *See [**Lumina Alliance**](#Lumina-Alliance)*
+> *Former name of [**Lumina Alliance**](#Lumina-Alliance)*
+
+> *For “Refugee and Immigrant Services Education” see [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
 
 ## <a id="Rotating-Overnight-Safe-Parking-Program">Rotating Overnight Safe Parking Program</a>
 
@@ -2724,6 +2837,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
    - [805-440-6168](tel:+1-805-440-6168) (Cecil Hale, Safe Parking inquiries)
 - **How to access:** Must first complete intake at [**40 Prado Homeless Services Center**](#40-Prado), then you will be referred to rotating program on case-by-case basis
 - **Hours:** 7pm–7am overnight only
+
+## RTA (Regional Transit Authority)
+
+> *See [**SLO Regional Transit Authority**](#SLO-RTA)*
 
 ## Runabout Paratransit
 
@@ -3420,6 +3537,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Phone:** [805-215-5474](tel:+1-805-215-5474) <!-- Source: https://www.smartsharehousingsolutions.org/ -->
 - **Email:** [info@smartsharehousingsolutions.org](mailto:info@smartsharehousingsolutions.org) <!-- Source: https://www.smartsharehousingsolutions.org/ -->
 
+## Sobering Center
+
+> *See [**SLO Sobering Center**](#SLO-Sobering-Center)*
+
 ## <a id="Social-Security-Administration">Social Security Administration</a>
 
 - **Website:** [ssa.gov](https://www.ssa.gov/)
@@ -3466,7 +3587,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 > *See [**Lumina Alliance**](#Lumina-Alliance)*
 
-## <a id="Steves-Recycling">Steve’s Recycling — Los Osos</a>
+## <a id="Steves-Recycling">Steve’s Recycling</a>
 
 <!-- Note: No website found (as of October 2025) -->
 <!-- This seems iffy. I don't see a lot of current references to it. -DG -->
@@ -3495,6 +3616,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Hours:** 24/7 (intake: M–F 8am–5pm) <!-- Source: https://sunstreetcenters.org/counseling/hours-locations/ -->
 - **How to access:** Get a referral from [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health), from your healthcare provider, or from your health insurer; you can also refer yourself <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
 
+## Superior Court
+
+> *See [**SLO Superior Court**](#SLO-Superior-Court)*
+
 ## <a id="Supportive-Services-for-Veteran-Families">Supportive Services for Veteran Families</a>
 
 <!-- To-do: fix discrepancy in 5 Cities location -->
@@ -3520,6 +3645,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## Surgery Without Medical Insurance
 
 > *See [**CSF Medical Non Profit Foundation**](#CSF-Medical-Non-Profit-Foundation)*
+
+## Tax-Aide
+
+> *See [**AARP Tax-Aide Program**](#AARP-Tax-Aide)*
 
 ## The Teen’s Closet
 
@@ -3622,6 +3751,10 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - **Phone:** [805-781-5940](tel:+1-805-781-5940) <!-- Source: https://ucanr.edu/county/county-san-luis-obispo -->
 - Notes: Research-based educational programs including Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, and horticulture; cost varies by program
 
+## UndocuSupport
+
+> *See [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)*
+
 ## <a id="UUSLO">Unitarian Universalists San Luis Obispo</a>
 
 - **Website:** [uuslo.org](https://uuslo.org/)
@@ -3700,6 +3833,10 @@ There are several urgent care options, including:
 - **Phone:** [805-295-6594](tel:+1-805-295-6594) <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Pismo-Beach-100063689162786/ -->
 - **Hours:** M–Sa. 7am–6:30pm, Su. 8am–3:30pm <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Pismo-Beach-100063689162786/ -->
 
+## Vet Center
+
+> *See [**SLO Vet Center**](#SLO-Vet-Center)*
+
 ## <a id="Veterans-Administration-Outpatient-Clinic">Veterans Administration Outpatient Clinic</a>
 
 - **Website:** [va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
@@ -3714,6 +3851,10 @@ There are several urgent care options, including:
 
 > *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 
+## Veterans Helping Veterans
+
+> *See [**Central Coast Veterans Helping Veterans**](#Central-Coast-Veterans-Helping-Veterans)*
+
 ## <a id="Veterans-Services">Veterans Services (SLO County)</a>
 
 <!-- Source: http://slocounty.ca.gov/Departments/Veterans-Services -->
@@ -3726,6 +3867,10 @@ There are several urgent care options, including:
 - **Email:** [slovets@co.slo.ca.us](mailto:slovets@co.slo.ca.us)
 - **How to access:** In-person and phone appointments only; no walk-ins; book appointments [online](https://sanluisobispocountyveteransservices.as.me/schedule/970de54e) or by phone
 - Notes: SLO office has a small [food pantry](https://www.slocounty.ca.gov/departments/veterans-services/veterans-services-food-pantry)
+
+## Veterans Services Collaborative
+
+> *See [**San Luis Obispo Veterans Services Collaborative**](#SLO-Veterans-Services-Collaborative)*
 
 ## <a id="Veterans-Transportation-Service">Veterans Transportation Service</a>
 
@@ -3828,6 +3973,10 @@ There are several urgent care options, including:
 
 - **Email:** [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) (Robin Coleman, Community Engagement Manager)
 - **Hours:** (adoption) daily 11am–4pm (Atascadero) or daily Noon–4pm (SLO) <!-- Source: https://woodshumanesociety.org/contact-us/ -->
+
+## YMCA
+
+> *See [**SLO County YMCA**](#SLO-County-YMCA)*
 
 ## <a id="Zion-Lutheran-Church">Zion Lutheran Church</a>
 
