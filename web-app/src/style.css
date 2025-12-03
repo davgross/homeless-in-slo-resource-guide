@@ -1693,25 +1693,43 @@ tbody tr:hover {
 }
 
 /* OpenDyslexic font class */
-body.opendyslexic-enabled {
+
+/* Preview of OpenDyslexic font in the font selector */
+.opendyslexic-preview {
   font-family: 'OpenDyslexic', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 600;
 }
 
+/* Apply OpenDyslexic font to all elements when enabled */
+body.opendyslexic-enabled,
+body.opendyslexic-enabled * {
+  font-family: 'OpenDyslexic', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+}
+
+/* Ensure specific elements use OpenDyslexic when enabled */
 body.opendyslexic-enabled h1,
 body.opendyslexic-enabled h2,
 body.opendyslexic-enabled h3,
 body.opendyslexic-enabled h4,
 body.opendyslexic-enabled h5,
-body.opendyslexic-enabled h6 {
-  font-family: 'OpenDyslexic', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-}
-
-body.opendyslexic-enabled .nav-btn {
-  font-family: 'OpenDyslexic', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-}
-
-body.opendyslexic-enabled a {
-  font-family: 'OpenDyslexic', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+body.opendyslexic-enabled h6,
+body.opendyslexic-enabled .nav-btn,
+body.opendyslexic-enabled a,
+body.opendyslexic-enabled button,
+body.opendyslexic-enabled input,
+body.opendyslexic-enabled select,
+body.opendyslexic-enabled textarea,
+body.opendyslexic-enabled label,
+body.opendyslexic-enabled .font-size-controls button,
+body.opendyslexic-enabled .share-notification,
+body.opendyslexic-enabled .feedback-modal,
+body.opendyslexic-enabled .feedback-btn,
+body.opendyslexic-enabled .directory-modal,
+body.opendyslexic-enabled .search-results,
+body.opendyslexic-enabled .font-size-popup,
+body.opendyslexic-enabled .font-toggle-label,
+body.opendyslexic-enabled .toc-lozenge-text {
+  font-family: 'OpenDyslexic', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
 }
 
 .share-notification {
