@@ -1,9 +1,5 @@
 # To-do list
 
-1. There may still be some notes in @Directory.md that really belong in @"Resource Guide.md" -- fix that.
-
-1. Replace "--" dashes, ' and " straight-quotes, and ' apostrophes with better unicode characters. (Claude struggles with such characters, so this may be a task for a human.)
-
 1. Create a song-and-dance presentation to show the app off to service providers; make a shareable video out of it. It should highlight 1) why this is superior to other similar projects (e.g. easier to keep updated, easier to collaborate on, feedback button, FOSS), 2) how to get involved, 3) scope (SLO County), ...
 
 1. Figure out how to make sure DNS / hosting / GitHub credentials can get handed off gracefully in case D.G. is incapacitated.

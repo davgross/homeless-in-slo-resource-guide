@@ -2,8 +2,8 @@
 
 ## Avoiding, Surviving, and Escaping Homelessness in SLO County
 
-**Note:** This guide is currently in a pre-Beta, unfinished state.
-We plan to begin the formal Beta program with complete data by the beginning of 2026.
+**Note:** This guide is currently in Beta.
+We hope to formally release this guide in early 2026.
 
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
@@ -13,7 +13,7 @@ Fortunately, there is a lot of help available to people experiencing or threaten
 Unfortunately, it can be difficult to find this help or to understand how to access it.
 This guide makes it easier.
 
-The guide is organized into topics like "Shelter and housing" or "Food".
+The guide is organized into topics like “Shelter and housing” or “Food.”
 Each section briefly describes resources available in San Luis Obispo County.
 Many of these descriptions contain blue-highlighted, boldface links to the [**Directory**](?section=directory).
 This Directory page lists resources in alphabetical order, along with information like the website, phone number, email address, location, and operating hours of the resource.
@@ -73,52 +73,51 @@ If you want to suggest corrections or improvements, or to join our development t
  </thead><tbody>
   <tr><th colspan="2" style="text-align:left;">⇨ Emergency and Crisis Lines:</th></tr>
    <tr><td><a href="tel:+1-911">911</a></td><td>Medical and safety emergencies</td></tr>
-   <tr><td><a href="tel:+1-988">988</a> or <a href="tel:+1-800-273-8255">800-273-8255</a></td><td>National Suicide Prevention Lifeline (<a href="tel:+1-800-799-4889">800-799-4889</a> if you are deaf or hard of hearing)</td></tr>
-   <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a> or <a href="tel:+1-805-783-0607">805-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr>
-   <tr><td>Text HOME to <a href="sms:741741?&body=HOME">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> on-line</td></tr>
-   <tr><td><a href="tel:+1-833-317-4673">833-317-4673</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidential emotional support</td></tr>
-   <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Mental Health Evaluation Team (MHET) and Mobile Crisis Team: 24/7 psychiatric emergency response throughout SLO County; responds to psychiatric emergency calls and provides assessments for adults or children</td></tr>
+   <tr><td><a href="tel:+1-988">988</a> / <a href="sms:988">988</a></td><td>National Suicide Prevention Lifeline</td></tr><!-- Source: https://988lifeline.org/ -->
+   <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr><!-- Source: https://www.t-mha.org/central-coast-hotline.php -->
+   <tr><td>Text “HOME” to <a href="sms:741741?&body=HOME">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> on-line</td></tr><!-- Source: https://www.crisistextline.org/ -->
+   <tr><td><a href="tel:+1-833-317-4673">833-317-HOPE</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidential emotional support</td></tr><!-- Source: https://www.calhope.org/ -->
+  </tr>
   <tr><th colspan="2" style="text-align:left;">⇨ For Young People:</th></tr>
-   <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Youth Crisis Line, for people in California ages 12–24; call or text</td></tr>
-   <tr><td><a href="tel:+1-800-786-2929">800-786-2929</a></td><td>National Runaway Safeline: 24/7 confidential support for runaway and homeless </td></tr>
-   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr>
+   <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Youth Crisis Line, for people in California ages 12–24; call or text</td></tr><!-- Source: https://calyouth.org/cycl/ -->
+   <tr><td><a href="tel:+1-800-786-2929">800-RUN-AWAY</a> / <a href="sms:+1-800-786-2929">800-786-2929</a></td><td>National Runaway Safeline: 24/7 confidential support for runaway and homeless youth</td></tr><!-- Source: https://www.1800runaway.org/ -->
+   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> / text “LOVEIS” to <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr><!-- Source: https://www.loveisrespect.org/ -->
   <tr><th colspan="2" style="text-align:left;">⇨ For LGBTQ People:</th></tr>
-   <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text “START” to <a href="sms:678678?&body=START">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr>
-   <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr>
+   <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text “START” to <a href="sms:678678?&body=START">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr><!-- Source: https://www.thetrevorproject.org/get-help/ -->
+   <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr><!-- Source: https://translifeline.org/ -->
   <tr><th colspan="2" style="text-align:left;">⇨ For Victims of Sexual Assault and Intimate Partner Violence:</th></tr>
-   <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Local sexual assault, sexual abuse, and intimate partner violence crisis line</td></tr>
-   <tr><td><a href="tel:+1-800-799-7233">800-799-7233</a></td><td>National Domestic Violence Hotline</td></tr>
+   <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Local sexual assault, sexual abuse, and intimate partner violence crisis line</td></tr><!-- Source: https://luminaalliance.org/24-hour-crisis-and-information-line -->
+   <tr><td><a href="tel:+1-800-799-7233">800-799-SAFE</a> / text “START” to <a href="sms:88788?&body=START">88788</a></td><td>National Domestic Violence Hotline</td></tr><!-- Source: https://www.thehotline.org/ -->
   <tr><th colspan="2" style="text-align:left;">⇨ For Parents:</th></tr>
-   <tr><td><a href="tel:+1-833-852-6262">833-852-6262</a></td><td>National Maternal Mental Health Hotline (call or text)</td></tr>
-   <tr><td><a href="tel:+1-888-431-2229">888-431-2229</a></td><td>Fussy Baby Network Warmline</td></tr>
-   <tr><td><a href="tel:+1-877-222-9723">877-222-9723</a></td><td>Safe Surrender Site locations in California (where to confidentially surrender a newborn you cannot take care of)</td></tr>
+   <tr><td><a href="tel:+1-833-852-6262">833-TLC-MAMA</a> / <a href="sms:1-833-852-6262">833-TLC-MAMA</a></td><td>National Maternal Mental Health Hotline (call or text)</td></tr><!-- Source: https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline -->
+   <tr><td><a href="tel:+1-888-431-2229">888-431-2229</a></td><td>Fussy Baby Network Warmline</td></tr><!-- Source: https://www.erikson.edu/fussy-baby-network/ -->
+   <tr><td><a href="tel:+1-877-222-9723">877-222-9723</a></td><td>Safe Surrender Site locations in California (where to confidentially give up a newborn you cannot take care of)</td></tr>
   <tr><th colspan="2" style="text-align:left;">⇨ Other Specialized Crisis Lines:</th></tr>
-   <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (M–F, 8am–5pm), or <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Adult Protective Services</td></tr>
-   <tr><td><a href="tel:+1-805-781-5437">805-781-5437</a> or <a href="tel:+1-805-781-1700">805-781-1700</a></td><td>Child Welfare Services emergency suspected child abuse reporting line</td></tr>
+   <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (M–F, 8am–5pm), or <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Adult Protective Services</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps) -->
+   <tr><td><a href="tel:+1-805-781-5437">805-781-KIDS</a></td><td>Child Welfare Services emergency suspected child abuse reporting line</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/child-welfare-services-(cws) -->
    <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
-   <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or man-made disaster)</td></tr>
+   <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or man-made disaster)</td></tr><!-- Source: https://www.fema.gov/ht/node/686553 -->
   <tr><th colspan="2" style="text-align:left;">⇨ Health and Behavioral Health Information:</th></tr>
+   <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Poison Hotline: Treatment advice from experts in poisoning care</td></tr><!-- Source: https://calpoison.org/ -->
+   <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–5pm Eastern Time)</td></tr><!-- Source: https://www.help4hep.org/lets-talk -->
+   <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>SLO County Behavioral Health Access Line: Main number for scheduling appointments and getting information about all behavioral health services including navigation and peer support</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
    <tr><td><a href="tel:+1-805-540-6576">800-540-6576</a> (ages 25+), <a href="tel:+1-805-503-2316">805-503-2316</a> (ages 16–25), <a href="tel:+1-805-540-5552">805-540-5552</a> (peer support)</td><td>Behavioral Health Navigator: Get help finding the help you need and understanding the local behavioral health system</td></tr>
-   <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Poison Control: Treatment advice from experts in poisoning care</td></tr>
-   <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–9pm EST)</td></tr>
-   <tr><td><a href="tel:+1-800-232-4636">800-232-4636</a></td><td>CDC-INFO: for questions about HIV, viral hepatitis, STDs, or tuberculosis (M–F 8am–8pm ET)</td></tr>
-   <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>SLO County Behavioral Health Access Line: Main number for scheduling appointments and getting information about all behavioral health services including navigation and peer support</td></tr>
-   <tr><td><a href="tel:+1-855-600-9276">855-600-9276</a></td><td>California Peer Run Warm Line (also available as a web-based text chat <a href="https://www.mentalhealthsf.org/warm-line">here</a> for people with “a wide range of challenges, including anxiety, depression, and substance use”</td></tr>
-   <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a></td><td>Kick It California, smoking cessation help</td></tr>
-   <tr><td><a href="tel:+1-800-662-4357">800-662-4357</a></td><td>Substance Abuse and Mental Health Service Administration (SAMHSA) national helpline (free, confidential, 24/7 substance abuse treatment referral and info)</td></tr>
-   <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Alcoholics Anonymous 24/7 helpline</td></tr>
-   <tr><td><a href="tel:+1-800-549-7730">800-549-7730</a></td><td>Narcotics Anonymous 24/7 helpline</td></tr>
+   <tr><td><a href="tel:+1-855-600-9276">855-600-WARM</a></td><td>California Peer Run Warm Line (also available as a web-based text chat <a href="https://www.mentalhealthsf.org/warm-line">here</a>) for people with “a wide range of challenges, including anxiety, depression, and substance use” (M/Tu/W/F 7am–11pm; Th 8am–10pm)</td></tr><!-- Source: https://www.mentalhealthsf.org/warm-line -->
+   <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a></td><td>Kick It California, smoking cessation help</td></tr><!-- Source: https://www.kickitca.org/ -->
+   <tr><td><a href="tel:+1-800-662-4357">800-662-HELP</a></td><td>Substance Abuse and Mental Health Service Administration (SAMHSA) national helpline (free, confidential, 24/7 substance abuse treatment referral and info)</td></tr><!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
+   <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Central Coast Alcoholics Anonymous 24/7 helpline</td></tr><!-- Source: https://www.sloaa.org/ -->
+   <tr><td><a href="tel:+1-800-549-7730">800-549-7730</a></td><td>Central Coast Narcotics Anonymous 24/7 helpline</td></tr><!-- Source: https://www.centralcoastna.org/ -->
   <tr><th colspan="2" style="text-align:left;">⇨ Finding Help:</th></tr>
-   <tr><td><a href="tel:+1-211">211</a></td><td>Connects you to expert, caring, confidential help of all sorts</td></tr>
+   <tr><td><a href="tel:+1-211">211</a></td><td>Connects you to expert, caring, confidential help of all sorts</td></tr><!-- Source: https://211slo.org/ -->
   <tr><th colspan="2" style="text-align:left;">⇨ Legal Aid and Consumer Protection:</th></tr>
-   <tr><td><a href="tel:+1-800-834-5001">800-834-5001</a></td><td>Community Legal Aid SoCal Hotline for housing discrimination, tenant rights, and consumer protection</td></tr>
-   <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Legal Aid Foundation of Los Angeles (LAFLA) for legal assistance</td></tr>
+   <tr><td><a href="tel:+1-800-834-5001">800-834-5001</a></td><td>Community Legal Aid SoCal Hotline for housing discrimination, tenant rights, and consumer protection</td></tr><!-- Source: https://www.communitylegalsocal.org/contact-us/ -->
+   <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Legal Aid Foundation of Los Angeles (LAFLA) for legal assistance</td></tr><!-- Source: https://lafla.org/ -->
   <tr><th colspan="2" style="text-align:left;">⇨ Housing and Homeless Services:</th></tr>
-   <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr>
-   <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr>
+   <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
+   <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr><!-- Source: https://www.slocity.org/living/neighborhood/homelessness -->
   <tr><th colspan="2" style="text-align:left;">⇨ Immigration:</th></tr>
-   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity or connect with legal support); register for text alerts by <a href="sms:+1-805-870-8855?&amp;body=ALERT">texting “ALERT” to this number</a>)</td></tr>
-   <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr>
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity or connect with legal support); register for text alerts by <a href="sms:+1-805-870-8855?&amp;body=ALERT">texting “ALERT” to this number</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
+   <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr><!-- Source: https://humantraffickinghotline.org/en -->
  </tbody>
 </table>
 
@@ -335,7 +334,7 @@ They operate throughout SLO County, and are open to people of all genders, ages,
 
 If you are homeless and have a medically verified need for 24/7 temporary housing because you are seriously ill, recovering from surgery or injury or high-risk pregnancy, or something of that nature, you may qualify for the [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program).
 They will help you with immediate housing, supportive services and coordinated case management to ensure physical recovery, access to income sources, connection to services, and a more permanent housing alternative when you exit the program.
-You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program), [**Center for Family Strengthening (CSF)**](Directory.md#CSF), or [**CalWORKs**](Directory.md#CalWORKs).
+You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program), [**Center for Family Strengthening (CFS)**](Directory.md#CFS), or [**CalWORKs**](Directory.md#CalWORKs).
 If you are being treated by a hospital or other medical professionals, consider telling them that you are homeless and asking them if they can help you with this process.
 
 If you need shelter because you have a medical condition that requires you to have some medical supervision, you may be able to get a referral to a rehabilitative care or skilled nursing or assistive living facility.
@@ -563,7 +562,7 @@ Here are some residential treatment options in our area:
 <!-- Note: Restorative Partners runs some sober living homes in the area, but these are specifically designed for people reentering society from jail/prison custody -->
 
 - [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only.
-- [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) for women only. (Also known as “Sunshine House.")
+- [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) for women only. (Also known as “Sunshine House.”)
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only; (division of nonprofit Gate Help Inc.).
 - [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) for men only.
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) for women only; (division of nonprofit Gate Help Inc.).
@@ -1639,7 +1638,7 @@ If you notice increasing redness that spreads beyond the area of the burn, or pu
 - [Tobacco / Nicotine](#tobacco-nicotine)
 - [12-Step and Similar Recovery Programs](#twelve-step)
 
-> Note: The somewhat confusing term "behavioral health" often describes programs for people who use addictive or harmful drugs and want help.
+> Note: The somewhat confusing term “behavioral health” often describes programs for people who use addictive or harmful drugs and want help.
 
 Substance Abuse and Mental Health Services Administration (SAMHSA) has a free phone service ([800-662-4357](tel:+1-800-662-4357)) that can help you find substance abuse treatment that matches your needs.
 
@@ -1681,7 +1680,7 @@ You can search for other rehab / addiction / detox programs in SLO County at web
 Naloxone is an easy-to-administer medication that can save the life of someone who is experiencing an overdose of an opiate such as fentanyl or heroin.
 
 You can get naloxone from [**Access Support Network**](Directory.md#ASN), [**SLO Bangers**](Directory.md#SLO-Bangers), [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), and [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) emergency rooms.
-You can also get free naloxone any time from these “NaloxBoxes":
+You can also get free naloxone any time from these “NaloxBoxes”:
 <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county -->
 
 🗺️ **<a href="naloxone-locations-map.html" target="_blank" rel="noopener">View all locations on an interactive map</a>**
@@ -1875,7 +1874,7 @@ Sometimes relatively inexpensive self-defense or martial arts classes are offere
 
 1. Model Mugging of SLO
    - Available evidence suggests this is defunct or on ice
-      - Their facebook account’s most recent post is from 2021 and says “classes are not being held at this time"
+      - Their facebook account’s most recent post is from 2021 and says “classes are not being held at this time”
    - Source: [modelmugging.org](https://modelmugging.org/self-defense-workshops-classes/category/california/san-luis-obispo-womens-self-defense/)
       - Note: website might not load if you’re on a VPN
       - The page says it’s about MM classes in SLO, but if you try to register it redirects you to “Los Angeles / Orange County” classes
@@ -1919,7 +1918,7 @@ Sometimes relatively inexpensive self-defense or martial arts classes are offere
       - Curriculum: Combination of Jiu-Jitsu, Karate, Aikido, Judo
       - Source: [us-ama.com](https://us-ama.com/)
       - Contact: <a href="#" class="map-link" data-lat="35.263974" data-lon="-120.643420" data-zoom="17" data-label="Academy of Martial Arts">1160 Laurel Ln. #100, SLO</a>; contact directly to inquire about potential financial assistance programs
-      - Philosophy: Inclusive training for all; “training designed for tournament competition tend to eliminate those who need martial arts the most"
+      - Philosophy: Inclusive training for all; “training designed for tournament competition tend to eliminate those who need martial arts the most”
       - Note: No publicly advertised free/low-cost programs found; may offer accommodations on case-by-case basis given inclusive philosophy
 -->
 
@@ -2429,7 +2428,7 @@ Ask them for details.
 
 You can rent mail boxes from UPS Stores and from the U.S. Postal Service.
 The Postal Service option is the most affordable of the two.
-But sometimes, a “P.O. Box” address (which is what you get from the Postal Service) is not adequate for your needs, and one advantage of the UPS Store option is that it appears as a regular street address (e.g. “1241 Johnson Avenue #1234, San Luis Obispo").
+But sometimes, a “P.O. Box” address (which is what you get from the Postal Service) is not adequate for your needs, and one advantage of the UPS Store option is that it appears as a regular street address (e.g. “1241 Johnson Avenue #1234, San Luis Obispo”).
 UPS Store locations with mailbox rental services are available throughout SLO County including:
 
 | City          | UPS Store Location | Phone |
@@ -2652,7 +2651,7 @@ If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can 
 
 ### <a id="financial-aid-get-referral">You Must Apply through Some Referring Agency</a>
 
-[**North County NeighborAid**](Directory.md#North-County-NeighborAid) (managed by [**Center for Family Strengthening**](Directory.md#CSF)) gives cash assistance and gifts of goods to needy people in northern SLO County. <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
+[**North County NeighborAid**](Directory.md#North-County-NeighborAid) (managed by [**Center for Family Strengthening**](Directory.md#CFS)) gives cash assistance and gifts of goods to needy people in northern SLO County. <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 Examples include gas cards for parents traveling to distant children’s hospitals, groceries following crises, rental assistance, baby supplies, summer camp fees, and utility payments. <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 Availability depends on the financial health of the organization (funding fluctuates). <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 You typically cannot apply directly to this program but must be referred to it by a service provider.
@@ -2835,7 +2834,7 @@ Recent refugees from other countries can also get help finding employment from [
    - www.sloworkforce.com
    - 805-781-1908
    - <a href="#" class="map-link" data-lat="35.251393" data-lon="-120.668265" data-zoom="17" data-label="SLO County Workforce Development Board">3563 Empleo Street, SLO</a>
-   - eligibility: adults or youth who are “WIOA eligible"
+   - eligibility: adults or youth who are “WIOA eligible”
 -->
 
 #### For College Students
@@ -3370,7 +3369,7 @@ I'm confused about what SAFE is. Is it a variety of Family Resource Center? Are 
       - <a href="#" class="map-link" data-lat="35.028129" data-lon="-120.498271" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">920 West Tefft St., Nipomo</a>; [805-474-3000](tel:+1-805-474-3000;ext=5147) x5147
       - <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1511 19th St., Oceano</a>; [805-474-3690](tel:+1-805-474-3690)
    - Email: [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org), [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com)
-   - “Appointments are preferred; walk-ins are welcome"
+   - “Appointments are preferred; walk-ins are welcome”
    - Target: All individuals including birth/adoptive/resource families, kin-care providers, transitional aged youth, special needs population
 1. [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center)
    - Services: Serves at-risk children, youth and families; direct services, referrals, information distribution, work experience, parent education, family advocacy
@@ -3922,7 +3921,7 @@ You can drop in, or make an appointment by calling or texting [805-540-0057](tel
    1. ILRC, LifeSteps, PathPoint
    1. Tri-Counties Regional Center
       - Serves people with epilepsy, intellectual disability, autism, cerebral palsy
-      - “Provides free assessment and diagnosis for children believed to have a developmental disability"
+      - “Provides free assessment and diagnosis for children believed to have a developmental disability”
       - Lots of programs
    1. [**Central Coast Autism Spectrum Center**](Directory.md#Central-Coast-Autism-Spectrum-Center)
    1. Center for Autism & Related Disorders
