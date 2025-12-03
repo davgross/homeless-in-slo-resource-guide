@@ -14,7 +14,7 @@ const WHITELIST = new Set([
   'UndocuSupport', 'NeighborAid', 'FamilyPACT', 'TranzCentralCoast', 'BlackHorse', 'MakerSpace',
   'EmergencySlo', 'CloudLibrary', 'LearningExpress', 'Tri', 'Lifepoint', 'Universalists', 'Cuesta',
   'MedStop', 'Eckerd', 'UnitedHealthcare', 'Lifesigns', 'LifeSteps', 'Freecycle', 'Kreuzberg',
-  'Mindbody', 'CalTrans', 'CalWORKs', 'Isabell', 'SLOCo', 'Nar', 'Homekey', 'Runabout',
+  'Mindbody', 'Caltrans', 'CalWORKs', 'Isabell', 'SLOCo', 'Nar', 'Homekey', 'Runabout',
   'Paratransit', 'RecycleFest', 'NeedyMeds', 'EyeCare', 'HouseKeys', 'MyHouseKeys', 'BenefitsCal',
   'CalConnect', 'AlertSLO', 'PrepareSLO', 'Foodshare', 'ReStore', 'HomeShare', 'Bangers', 'Kritter',
   'StateSideLegal', 'HelpSLO', 'VivaSLO', 'NavSLO', 'CalFRESH', 'FlexJobs', 'CalRecycle', 'myEDD',

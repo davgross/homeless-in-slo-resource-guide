@@ -532,9 +532,12 @@ If you need such housing and Medi-Cal is your only health insurance, you can get
 This is a lengthy process, so if you think you might need such a living situation in the future (even as long as a year or more from now), you should try to start this process now. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
 Discuss this with your case manager if you have one, or with the [**Long-Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman).
 
+<!-- Can leave this out:
 #### Future Possibilities
 
 The projects in this subsection are not yet housing people but hope to do so soon.
+
+- [46 Prado](https://capslo.org/46prado/)
 
 There will be some free, legal “safe parking” spots available in the SLO city area via the [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
 To register for one of these spots, you will first complete the intake process at the 40 Prado offices any day from 8am to 2pm.
@@ -556,9 +559,12 @@ It will also offer job training and support.
 It is designed specifically for people reentering society from incarceration.
 
 [**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for chronically homeless people, prioritizing for veterans, women, and elderly with little or no income.
-As of December 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents. <!-- Source: https://hopesvillageofslo.com/helping -->
+As of December 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
+- Source: https://hopesvillageofslo.com/helping
 
-The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) in Atascadero hopes to add 30 shelter beds for families to what is currently offered by [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO). <!-- Source: https://www.echoshelter.org/buildinghopeandhome -->
+The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) in Atascadero hopes to add 30 shelter beds for families to what is currently offered by [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO).
+- Source: https://www.echoshelter.org/buildinghopeandhome
+-->
 
 ### <a id="housing-veterans">For U.S. Military Veterans</a>
 
@@ -614,9 +620,9 @@ The commercial service [Bounce](https://bounce.com/) partners with multiple loca
 You can find the specific locations, terms and conditions, and costs at their website.
 
 In a few locations in SLO County (Morro St. in SLO, at Cal Poly, and at the Curbaril Park-n-Ride in Atascadero) you can find [on-demand bike lockers](https://rideshare.org/bike-lockers/).
-These cost 5¢ per hour and can be rented for up to seven consecutive days.
-Use the [BikeLink](https://www.bikelink.org/) app to access and pay for these lockers.
-They are for bicycles only (you cannot use them to store other personal belongings like carts or suitcases), but you can probably get away with storing pannier bags along with your bicycle.
+These cost 5¢ per hour and can be rented for up to seven consecutive days. <!-- Source: https://rideshare.org/bike-lockers/ -->
+Use the [BikeLink](https://www.bikelink.org/) app to access and pay for these lockers. <!-- Source: https://rideshare.org/bike-lockers/ -->
+They are for bicycles only (you cannot use them to store other personal belongings like carts or suitcases), but you can probably get away with storing pannier bags along with your bicycle. <!-- Source: https://rideshare.org/bike-lockers/ -->
 
 ### <a id="long-term-property-storage">Long-Term</a>
 
@@ -629,7 +635,7 @@ Most storage facilities have daytime hours of operation when you can access the 
 
 ### <a id="recovering-seized-property">Recovering Property Taken During Arrests or Encampment Sweeps</a>
 
-<!-- To-do: see if you can get more specific policies from the county, parks service, CalTrans, other municipalities, and other law-enforcement agencies -->
+<!-- To-do: see if you can get more specific policies from the county, parks service, Caltrans, other municipalities, and other law-enforcement agencies -->
 
 Different agencies take responsibility for clearing homeless camps, depending on where the camps are located.
 These agencies have different policies about whether, to what extent, and for how long they will store property that they clear from encampments, so that the owners of that property can recover it.
@@ -637,19 +643,20 @@ These agencies have different policies about whether, to what extent, and for ho
 They typically will only store certain items of property, and will throw away things that are hazardous, soiled, or decayed or that seem to them like mere trash.
 They often store all items taken from an encampment sweep in one big pile, which can make it difficult for you to find your own items.
 
-Grover Beach will post a notice *after* they do an encampment sweep, at the encampment’s former location, “stating where the personal property is being stored, and listing the phone number and hours a person claiming ownership can collect or make arrangements to collect their personal property.”
-They will store some belongings for 90 days before discarding them.
+Grover Beach will post a notice *after* they do an encampment sweep, at the encampment’s former location, “stating where the personal property is being stored, and listing the phone number and hours a person claiming ownership can collect or make arrangements to collect their personal property.” <!-- Source: Grover Beach Municipal Code 14.3997.9.D.8 -->
+They will store some belongings for 90 days before discarding them. <!-- Source: Grover Beach Municipal Code 14.3997.9.D.8 -->
 
-Morro Bay stores some property taken during encampment sweeps for 90 days before discarding it.
-Their policy is to post a notice where they plan to do encampment sweeps 72 hours before they begin, and those notices should include the address, phone number, and operating hours of the location where personal property will be stored.
+Morro Bay stores some property taken during encampment sweeps for 90 days before discarding it. <!-- Source: Morro Bay Municipal Code 8.26.040.B.1 -->
+Their policy is to post a notice where they plan to do encampment sweeps 72 hours before they begin, and those notices should include the address, phone number, and operating hours of the location where personal property will be stored. <!-- Source: Morro Bay Municipal Code 8.26.040.B.1 -->
 
-SLO City stores some property taken during encampment sweeps for 90 days before discarding it.
-If you have had property taken in this way, call either the Public Works Department ([805-781-7220](tel:+1-805-781-7220)) or the Ranger Service Department ([805-781-7302](tel:+1-805-781-7302)) and give them a detailed description of your property.
-If they think they may have it, you can make an appointment to retrieve it.
+SLO City stores some property taken during encampment sweeps for 90 days before discarding it. <!-- Source: https://www.slocity.org/living/neighborhood/homelessness/camp#storage -->
+If you have had property taken in this way, call either the Public Works Department ([805-781-7220](tel:+1-805-781-7220)) or the Ranger Service Department ([805-781-7302](tel:+1-805-781-7302)) and give them a detailed description of your property. <!-- Source: https://www.slocity.org/living/neighborhood/homelessness/camp#storage -->
+If they think they may have it, you can make an appointment to retrieve it. <!-- Source: https://www.slocity.org/living/neighborhood/homelessness/camp#storage -->
 
-If your property was seized from an camp sweep along the highway, on-ramp / off-ramp, or overpass / underpass, this may have been done by CalTrans.
-CalTrans is supposed to store some property for 60 days after removing it.
-They should post notices where they plan to do encampment sweeps 48 hours before they begin, and those notices should include a phone number you can call to get assistance in retrieving your property.
+If your property was seized from an camp sweep along the highway, on-ramp / off-ramp, or overpass / underpass, this may have been done by Caltrans.
+They should post notices where they plan to do encampment sweeps 72 hours before they begin, and those notices should include a phone number you can call to get assistance in retrieving your property. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
+If they failed to post notices ahead of time, they should post notices afterwards that describe where items were removed from, a contact number to call to reclaim them, and the date by which they must be reclaimed. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
+They will not sift through belongings to identify valuable items, but if they see “items of apparent value” in plain sight, they will treat them as privately owned, lost, discarded, abandoned, or stolen property and hold it for 72 hours after removing it before disposing of it. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
 
 If a different agency from those was responsible for the sweep, try discovering which agency it was, and then contact them directly.
 
@@ -657,8 +664,8 @@ If you were separated from your property because you were arrested, it is possib
 They may have just left them wherever they were when you were arrested.
 If they did secure your belongings, they should return these to you when you are released from jail or they should tell you the process you can use to retrieve them, unless they are keeping the property as evidence.
 
-In the case of the SLO County Sheriff, if they were keeping the property as evidence but then decide to return it to you, they will inform you by sending you a letter that tells you where to pick up the property.
-You then have 30 days to retrieve the property, or it may be destroyed.
+In the case of the SLO County Sheriff, if they were keeping the property as evidence but then decide to return it to you, they will inform you by sending you a letter that tells you where to pick up the property. <!-- Source: Probation Department Policy/Procedure Manual 5.6.12 https://www.slocounty.ca.gov/departments/probation/forms-documents/education-and-training-materials-documents/procedures/5-support-services-procedures/evidence/5-6-property-evidence-manual -->
+You then have 30 days to retrieve the property, or it may be destroyed. <!-- Source: Probation Department Policy/Procedure Manual 5.6.12 https://www.slocounty.ca.gov/departments/probation/forms-documents/education-and-training-materials-documents/procedures/5-support-services-procedures/evidence/5-6-property-evidence-manual -->
 If you do not have a stable mailing address, or if the Sheriffs Department does not know your mailing address, you may never see this letter!
 In such a case, you may want to contact the Sheriffs department to let them know how to contact you if they decide to release your property.
 
