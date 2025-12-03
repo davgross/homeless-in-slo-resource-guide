@@ -1089,8 +1089,6 @@
 
 ## <a id="CES">Coordinated Entry System (CES)</a>
 
-> *See [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
-
 - **How to access:**
    - South County: Contact [**5Cities Homeless Coalition**](Directory#5CHC)
    - County-wide: Contact [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
@@ -1740,8 +1738,8 @@
 <!-- Sources: https://www.humangood.org/judson-terrace-homes and https://www.humangood.org/judson-terrace-homes/apply and https://www.humangood.org/judson-terrace-lodge -->
 | Name | Location | Phone | Ages |
 | ---- | -------- | ----- | ---- |
-| Judson Terrace Homes | 3000 Augusta St., SLO <a href="#" class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="Judson Terrace Homes">Map</a> | [805-544-1600](tel:+1-805-544-1600) | 55+ |
-| Judson Terrace Lodge | 3042 Augusta St., SLO <a href="#" class="map-link" data-lat="35.268078" data-lon="-120.639555" data-zoom="17" data-label="Judson Terrace Lodge">Map</a> | [805-541-4567](tel:+1-805-541-4567) | 62+ |
+| [Judson Terrace Homes](https://www.humangood.org/judson-terrace-homes) | 3000 Augusta St., SLO <a href="#" class="map-link" data-lat="35.267515" data-lon="-120.640529" data-zoom="17" data-label="Judson Terrace Homes">Map</a> | [805-544-1600](tel:+1-805-544-1600) | 55+ |
+| [Judson Terrace Lodge](https://www.humangood.org/judson-terrace-lodge) | 3042 Augusta St., SLO <a href="#" class="map-link" data-lat="35.268078" data-lon="-120.639555" data-zoom="17" data-label="Judson Terrace Lodge">Map</a> | [805-541-4567](tel:+1-805-541-4567) | 62+ |
 
 - Notes:
    - Low-income seniors; HUD residents typically pay 30% of gross income for rent

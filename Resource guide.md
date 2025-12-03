@@ -265,12 +265,20 @@ Contact service providers directly to check for the most current information bef
 
 ### <a id="eviction-protection">Eviction Prevention</a>
 
-If you are about to be evicted because you are unable to pay rent, or if you’ve had to move your family into a hotel, you can get immediate financial help from the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) or the [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program).
-For either of these options, you must first get a referral from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
+If you are homeless or are threatened with eviction with a “pay rent or quit” notice, or if you have had to move your family into a hotel, you can get immediate help from the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+This program can pay your security deposit, one month’s rent, or a utility deposit payment. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+To qualify you must have “apparent eligibility” for CalWORKs and less than $100 in liquid assets. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+You must first get a referral from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+The first step in this process is to apply for CalWORKs, which you can do on-line at [BenefitsCal](https://benefitscal.com/).
 
-[**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers financial assistance for rent for people in danger of becoming homeless.
-Contact 5CHC to arrange a confidential coordinated entry interview.
-You will need to bring identification, including social security cards and birth certificates for you and those living with you, an account of how much income you have received during the previous three months, your lease agreement, and the eviction notice you received.
+If you are homeless or are threatened with eviction with a “pay rent or quit” notice, or if you have had to move your family into a hotel, you can get help from the [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+This program will help you find housing, and give you rent and moving assistance, among other things. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+You must be eligible for [**CalWORKs**](Directory.md#CalWORKs) to participate, and you can only use this program once in your lifetime. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+The first step in this process is to apply for CalWORKs, which you can do on-line at [BenefitsCal](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+
+[**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers financial assistance for rent, security deposit, or other immediate needs for people who are homeless in danger of becoming homeless. <!-- https://5chc.org/programs/housing-assistance -->
+Contact 5CHC to arrange a confidential coordinated entry interview. <!-- https://5chc.org/programs/housing-assistance -->
+You will need to bring identification, including social security cards and birth certificates for you and those living with you, an account of how much income you have received during the previous three months, your lease agreement if any, and any eviction notice you received.
 
 > See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help) section for options about preventing illegal evictions.
 
@@ -284,31 +292,38 @@ Cooling centers open only during the day when the weather is unusually hot.
 They offer you an air-conditioned place where you can get out of the sun.
 It can be difficult to know on any particular day whether or not these centers are open, so it is a good idea to call ahead.
 
-The SLO city warming/cooling center is at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
-When it operates as a warming center, check in is between 7pm and 9pm, and you must leave by 8am.
-When it operates as a cooling center, you must leave by 6pm.
-Meals are provided.
-Pets with rabies vaccinations are allowed in their kennel.
-People with P.C. 290 convictions are not allowed in the center.
-The warming center offers a free hot meal.
-There is sometimes transportation available to and from Morro Bay and Los Osos (call for details).
+- [This web page](https://www.emergencyslo.org/en/adverse-weather-centers.aspx) may show the current status of the county’s warming/cooling centers.
+- You can [sign up here](https://lp.constantcontactpages.com/sl/Jg4jVHc/warmingcenter) to receive notifications about the county’s warming centers.
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) warming center at <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. in Arroyo Grande</a> operates between 5:30pm and 7am.
-You must check in before 8pm.
-Pets are OK if you have proof of license/vaccinations.
-You must have a valid ID.
+The SLO city warming/cooling center is at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
+When it operates as a warming center, check in is between 7pm and 9pm, and you must leave by 8am. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 People with P.C. 290 convictions are not allowed in the center.
-Call [805-295-1501](tel:+1-805-295-1501) to verify the center is open and to learn about free transportation options to the center.
-The warming center offers a free hot meal.
-Text “Add Me” to [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) to receive text updates to your phone when the Warming Center opens, or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
+When it operates as a cooling center, you must leave by 6pm. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Cooling center guests can get breakfast, lunch, and dinner. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Pets with rabies vaccinations are allowed in their kennel. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+The warming center offers a free hot meal. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Transportation is available between the warming center and Morro Bay and Los Osos. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Pick-up times from those areas are as follows: <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+
+- 6:15pm: Morro Bay Park (<a href="#" class="map-link" data-lat="35.366428" data-lon="-120.844717" data-zoom="17" data-label="Warming Center Shuttle">734 Harbor St., Morro Bay</a>) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+- 6:00pm: South Bay Community Center (<a href="#" class="map-link" data-lat="35.312849" data-lon="-120.836370" data-zoom="17" data-label="Warming Center Shuttle">2180 Palisades Ave., Los Osos</a>) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+
+The [**5Cities Homeless Coalition**](Directory.md#5CHC) warming center at <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. in Arroyo Grande</a> operates between 5:30pm and 7am. <!-- Source: https://5chc.org/programs/warming-center -->
+You must check in before 8pm. <!-- Source: https://5chc.org/programs/warming-center -->
+Pets are OK if you have proof of license/vaccinations. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
+<!-- True? You must have a valid ID. -->
+People with P.C. 290 convictions are not allowed in the center. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
+Call [805-202-3615](tel:+1-805-202-3615) to verify the center is open<!-- Source: https://5chc.org/programs/warming-center --> and to learn about free transportation options to the center.
+The warming center offers dinner and a light breakfast. <!-- Source: https://5chc.org/programs/warming-center -->
+Text “Add Me” to [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) to receive text updates to your phone when the Warming Center opens,<!-- Source: https://5chc.org/programs/warming-center --> or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list.
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center at its Paso Robles shelter location.
 It operates between 6:00pm and 7:00am. Check in between 4:30pm and 5:30pm.
-They will also serve you a meal.
+They will also serve you a meal. <!-- Source: https://www.echoshelter.org/pasorobles -->
 No dogs except for service dogs are allowed in the warming center.
 
-[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) operates an air-conditioned cooling center any time the temperature is above 90°F outside.
-You do not have to be a senior center member to shelter there when the cooling center is open.
+[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) operates an air-conditioned cooling center any time the temperature is above 90°F outside. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
+You do not have to be a senior center member to shelter there when the cooling center is open. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
 
 ### <a id="overnight-shelter">Overnight Shelter</a>
 
@@ -316,28 +331,31 @@ If you are unsheltered and need a place to sleep tonight, these are some options
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a hundred overnight shelter beds.
 Many are reserved for people who have previously registered with 40 Prado, but a limited number are available on a walk-in basis.
-To get a bed, first come on-site and complete the intake process any day from 8am to 2pm.
-Thereafter, on any day when you need an overnight shelter bed, check in from 4:30pm to 6pm to secure a bed or to be placed on the waiting list.
-They also offer meals (breakfast, lunch, and dinner), showers, laundry, mail/phone services, an integrated medical clinic (primary and urgent care five days a week with an on-site pharmacy), recuperative care beds, and an animal kennel.
+To get a bed, first come on-site and complete the intake process.
+Thereafter, on any day when you need an overnight shelter bed, check in to secure a bed or to be placed on the waiting list.
+Priority is given to SLO county residents.
+They offer meals (breakfast, lunch, and dinner), showers, laundry, mail/phone services, an integrated medical clinic (primary and urgent care five days a week with an on-site pharmacy), recuperative care beds, and animal kennels. <!-- Source: https://capslo.org/40-prado/ -->
 To stay at the shelter, you must have a valid photo ID, you must not be a P.C. 290 registered sex offender, and you must participate in case management.
-You musty also be able to care for yourself independently (bathing, feeding, dressing, etc.).
-There are a limited number of beds; priority is given to SLO county residents.
+You must also be able to care for yourself independently (bathing, feeding, dressing, etc.).
 
 The 40 Prado center is the only walk-in, overnight homeless shelter in SLO County.
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) used to operate a shelter in the north county, but now only offers 90-day transitional housing there ([see below](#transitional-and-long-term-housing)).
+The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) used to operate a shelter in the north county, but now only offers 90-day transitional housing there ([see below](#transitional-and-long-term-housing)) and an occasional warming shelter.
 
-There is a shelter in Santa Maria, the [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter).
-They offer 90-day emergency homeless shelter to people from the Santa Maria Valley area.
+The [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) operates a set of shelters in Santa Maria and other places in Santa Barbara County.
+Call ahead during office hours to learn which shelter has room for you.
 They also have laundry facilities, hot meals, substance use treatment, and mental health services.
-Contact them between 8:30am and 5pm to set up an intake appointment.
 
-If you are homeless because you are escaping dangerous circumstances of domestic violence or sexual assault, you can get safe, confidential, emergency shelter at safe houses operated by [**Lumina Alliance**](Directory.md#Lumina-Alliance).
-They will also help you with trained advocacy, accompaniment to medical/legal appointments, case management, and therapy for survivors and children.
+If you are homeless because you are escaping dangerous circumstances of domestic violence or sexual assault, you can get safe, confidential, emergency shelter at safe houses operated by [**Lumina Alliance**](Directory.md#Lumina-Alliance). <!-- Source: https://luminaalliance.org/housing -->
+Call their crisis and information line to get access to this program.
+They will also help you with trained advocacy, accompaniment to medical/legal appointments, case management, and therapy for survivors and children. <!-- Source: https://luminaalliance.org/get-help-now#services -->
 They operate throughout SLO County, and are open to people of all genders, ages, and backgrounds.
 
-If you are homeless and have a medically verified need for 24/7 temporary housing because you are seriously ill, recovering from surgery or injury or high-risk pregnancy, or something of that nature, you may qualify for the [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program).
-They will help you with immediate housing, supportive services and coordinated case management to ensure physical recovery, access to income sources, connection to services, and a more permanent housing alternative when you exit the program.
-You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services), [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program), [**Center for Family Strengthening (CFS)**](Directory.md#CFS), or [**CalWORKs**](Directory.md#CalWORKs).
+If you are homeless and have a medically verified need for 24/7 temporary housing because you are seriously ill, recovering from surgery or injury or high-risk pregnancy, or something of that nature, you may qualify for the [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program). <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
+They will help you with immediate housing, supportive services and coordinated case management to ensure physical recovery, access to income sources, connection to services, and a more permanent housing alternative when you exit the program. <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
+You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services),<!-- Source: https://cfsslo.org/#mfh -->
+[**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services),
+[**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program),<!-- Source: https://cfsslo.org/#mfh -->
+[**Center for Family Strengthening (CFS)**](Directory.md#CFS), or [**CalWORKs**](Directory.md#CalWORKs).
 If you are being treated by a hospital or other medical professionals, consider telling them that you are homeless and asking them if they can help you with this process.
 
 If you need shelter because you have a medical condition that requires you to have some medical supervision, you may be able to get a referral to a rehabilitative care or skilled nursing or assistive living facility.
@@ -347,34 +365,30 @@ You may also be able to get some help from [**Adult Protective Services**](Direc
 #### A Note About “In-Home” Supportive Services
 <!-- Note: not sure where this section belongs. I could see a case for it being in the “Medical/Health” section, or maybe in the section on services for particular groups (e.g. elderly/disabled/blind). People who are looking for this information seem unlikely to search for it by going to the the “Housing” section. -->
 
-The [**In-Home Supportive Services (IHSS)**](Directory.md#In-Home-Supportive-Services) Program helps pay for services provided to senior, blind, or disabled people who have difficulty caring for themselves and cannot live at home safely without in-home care.
+The [**In-Home Supportive Services (IHSS)**](Directory.md#In-Home-Supportive-Services) Program helps pay for services provided to senior, blind, or disabled people who have difficulty caring for themselves and cannot live at home safely without in-home care. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 Despite the “in-home” name, this program is potentially also available to people who shelter at homeless shelters or safe-parking sites.<!-- according to the long-term care ombudsman at the Collaborative Outreach Meeting on 5 Nov 2025 -->
-Among the services that this program can help pay for are meal preparation, laundry, grocery shopping, personal care services (such as bowel and bladder care, bathing, grooming and paramedical services, help getting dressed, help getting into and out of a wheelchair), and accompaniment to medical appointments.
+Among the services that this program can help pay for are meal preparation, laundry, grocery shopping, personal care services (such as bowel and bladder care, bathing, grooming and paramedical services, help getting dressed, help getting into and out of a wheelchair), and accompaniment to medical appointments. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 
-To qualify for IHSS, you must be disabled, blind, or age 65 or older.
-You must also be unable to live safely in your current home or shelter environment without assistance, and you must be financially needy.
+To qualify for IHSS, you must be disabled, blind, or age 65 or older. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+You must also be unable to live safely in your current home or shelter environment without assistance, and you must be financially needy. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 The process of applying for IHSS is difficult, so it is a good idea for you to get some help from a case manager or other social worker.
 
 ### <a id="camping-parking-rv-parks">Legal Camping, Safe Parking, and RV Parks</a>
 
-If you sleep in your vehicle, there are some free, legal “safe parking” spots available at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
-To register for one of these spots, first complete the intake process at the 40 Prado offices any day from 8am to 2pm.
-You will also have access to the various other services offered at 40 Prado (such as meals, showers, laundry, mail/phone services, an integrated medical clinic, and an animal kennel).
-You must not be a P.C. 290 registered sex offender to use this service. SLO county residents get priority. You must participate in case management.
-
-There are some free, legal “safe parking” spots available in the SLO city area via the [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
-To register for one of these spots, first complete the intake process at the 40 Prado offices any day from 8am to 2pm.
-You will have a place to park overnight for 90 days, with a possible 30 day extension.
-You must move your vehicle away from the site during the day.
-You will have access to water, trash, and restrooms, and there will be occasional security checks.
-No illegal drugs, alcohol, weapons, or fires are allowed. Your vehicle must fit into a standard parking space.
-You must not be a P.C. 290 registered sex offender to use this service. SLO county residents get priority. You must participate in case management.
+If you sleep in your vehicle, there are some free, legal “safe parking” spots available at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) where you can stay from 6pm to 7am. <!-- Source: https://capslo.org/safe-parking/ -->
+To register for one of these spots, first complete the referral form at the [CAPSLO website](https://capslo.org/safe-parking/). <!-- Source: https://capslo.org/safe-parking/ -->
+You will also have access to the various other services offered at 40 Prado (such as meals, showers, laundry, mail/phone services, an integrated medical clinic, and an animal kennel). <!-- Source: https://capslo.org/safe-parking/ -->
+Your vehicle must be registered and you must have proof of insurance. <!-- Source: https://capslo.org/safe-parking/ -->
+You must participate in case management. <!-- Source: https://capslo.org/safe-parking/ -->
+You must not be a P.C. 290 registered sex offender to use this service.
+SLO county residents get priority.
+Contact Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) with questions. <!-- Source: https://capslo.org/safe-parking/ -->
 
 You can camp overnight legally at various [**SLO County Parks**](Directory.md#SLO-County-Parks), but for a fee (roughly $25–50 per night, plus a $10 reservation fee and sometimes also a per-vehicle fee).
 Some parks have both tent camping and RV hook-up sites.
 None have dump stations.
 All have restrooms, some also have coin-operated showers.
-Stays are limited to 15 consecutive days in any 30-day period, to a maximum of 30 days in any 60-day period, and to a maximum of 60 days in any 12-month period.
+Stays are limited to 15 consecutive days in any 30-day period during the summer, or a maximum of 30 days in any 60-day period during the winter, and to a maximum of 60 days in any 12-month period. <!-- Source: https://library.municode.com/ca/san_luis_obispo_county/codes/county_code?nodeId=TIT11PARE_CH11.04ALCOPAFAEXNALA_11.04.090CA -->
 
 There are several RV parks in SLO County, including short-term campsites (ranging from $52 to $104 per night plus reservation fee) and longer-term RV parks ($600–$750/month). These include:
 
@@ -388,11 +402,11 @@ There are several RV parks in SLO County, including short-term campsites (rangin
 - [**Santa Margarita KOA Holiday**](Directory.md#Santa-Margarita-KOA-Holiday)
 - [**Silver City Resort**](Directory.md#Silver-City-Resort) (Morro Bay)
 
-If you are an Elks Lodge member, [SLO Elks Lodge #322](https://rv.elks322.org) at <a href="#" class="map-link" data-lat="35.263006" data-lon="-120.671993" data-zoom="18" data-label="Elks Lodge #322">222 Elks Lane in SLO</a> also has several $30/night RV spots and a free dump station.
-Contact them at [805-543-0322](tel:+1-805-543-0322) (M–F, 10am–4pm).
-
 Some sites have RV size limits and other restrictions.
 See the Directory entries for specific information about rates, size limits, available hookups, and amenities at each location.
+
+If you are an Elks Lodge member, [SLO Elks Lodge #322](https://rv.elks322.org) at <a href="#" class="map-link" data-lat="35.263006" data-lon="-120.671993" data-zoom="18" data-label="Elks Lodge #322">222 Elks Lane in SLO</a> also has several $30/night RV spots and a free dump station. <!-- Source: https://rv.elks322.org -->
+Contact them at [805-543-0322](tel:+1-805-543-0322) (M–F, 10am–4pm) or [RVcamping@elks322.org](mailto:RVcamping@elks322.org). <!-- Source: https://rv.elks322.org/contact-us/ -->
 
 ### <a id="transitional-and-long-term-housing">Transitional and Long-Term Housing</a>
 
@@ -406,148 +420,160 @@ To enter this system, contact one of the many participating agencies, such as [*
 A program called [**Housing Now**](Directory.md#Housing-Now) finds homes for the most vulnerable chronically homeless people from SLO County.
 You cannot apply directly to participate in this program, but if you enter the Coordinated Entry System (see above), that system may eventually place you in this program so that you can quickly get a home.
 
-The [**Behavioral Health Bridge Housing (BHBH)**](Directory.md#BHBH) has some quality, affordable short-term (less than 90 days) and medium term (90 days to two years) housing for people in SLO county who have severe behavioral health issues who are homeless or at risk of homelessness.
-For information on the application process, how to demonstrate eligibility, and bed availability call Mark Lamore, Director of Homeless Services at [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA), at [805-540-6500](tel:+1-805-540-6500).
+The [**Behavioral Health Bridge Housing (BHBH)**](Directory.md#BHBH) has some quality, affordable short-term (less than 90 days) and medium term (90 days to two years) housing for people in SLO county who have severe behavioral health issues who are homeless or at risk of homelessness. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
+For information on the application process, how to demonstrate eligibility, and bed availability call Mark Lamore, Director of Homeless Services at [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA), at [805-540-6500](tel:+1-805-540-6500). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
 
-[**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers case management and financial assistance for rent, deposit, and immediate needs, and housing assistance through various funding grants.
-This is available both to currently homeless people and to people in danger of becoming homeless.
-Contact 5CHC to arrange a confidential coordinated entry interview.
+[**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers case management and financial assistance for rent, deposit, and immediate needs, and housing assistance through various funding grants. <!-- Source: https://5chc.org/programs/housing-assistance -->
+This is available both to currently homeless people and to people in danger of becoming homeless. <!-- Source: https://5chc.org/programs/housing-assistance -->
+Contact 5CHC to arrange a confidential coordinated entry interview. <!-- Source: https://5chc.org/programs/housing-assistance -->
 
-[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) operates transitional (90-day) shelters in Atascadero and Paso Robles that serve people experiencing homelessness.
-People who live in these shelters also get individualized case management services to help them find employment and long-term housing.
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) operates transitional (90-day) shelters in Atascadero and Paso Robles that serve people experiencing homelessness. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
+People who live in these shelters also get individualized case management services to help them find employment and long-term housing. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 There is often a long waiting list for shelter beds.
 They will not admit P.C. 290 registered sex offenders.
 
-The [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) can pay a one-time security deposit and/or last month’s rent and/or utility deposit for families who are homeless or who have received a “Pay Rent or Quit” notice on their current rental home.
-To qualify you must meet CalWORKs eligibility requirements and have less than $100 in liquid assets.
+The [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) can pay a one-time security deposit and/or last month’s rent and/or utility deposit for families who are homeless or who have received a “Pay Rent or Quit” notice on their current rental home. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+To qualify you must meet CalWORKs eligibility requirements and have less than $100 in liquid assets. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 
-[**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) provides financial assistance for housing deposits and rent to families that are experiencing homelessness or are at risk of homelessness in SLO County.
+[**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) provides financial assistance for housing deposits and rent to families that are experiencing homelessness or are at risk of homelessness in SLO County.<!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
 They also offer case management and life skills workshops (budgeting, credit repair, communication), bus passes, gas cards, and paperwork assistance.
 
-[**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (a.k.a. “My Home for Hope”) and [**Cabins for Change**](Directory.md#Cabins-for-Change), both in Grover Beach, operate many individual “tiny homes” that serve as transitional (90–180 days) housing.
-The cabins come with 24/7 support, case management, connections to food services and recovery, and house stabilization guidance.
-They have on-site laundry and showers.
-They accept pets.
+[**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (a.k.a. “My Home for Hope”) and [**Cabins for Change**](Directory.md#Cabins-for-Change), both in Grover Beach, operate many individual “tiny homes” that serve as transitional housing. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
+The cabins come with 24/7 support, case management, connections to food services and recovery, and house stabilization guidance. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
+They have on-site showers. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
+They accept vaccinated, well-behaved dogs. <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
+They will not admit P.C. 290 registered sex offenders. <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
 They typically have a long waiting list.
 Apply through [**5Cities Homeless Coalition**](Directory.md#5CHC) to get on the waiting list.
 
 [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) operates several affordable housing properties in SLO county.
-Typically in these projects, residents pay a portion of the rent, while the rest of the rent is paid for them by subsidies or vouchers.
+Typically in these projects, residents pay a portion of the rent, while the rest of the rent is paid for them by subsidies or vouchers. <!-- Source: https://www.haslo.org/housing-options-copy -->
 To qualify to rent one of these housing units, you must have enough income to pay your portion of the rent, but you must not have so much income that you could afford non-subsidized housing.
 Typically this means households that earn less than 30% of the area median income.
-Preference is given to SLO County residents and to veterans. Some housing is restricted to seniors (age 62 and above).
+Preference is given to SLO County residents and to veterans.
+Some housing is restricted to seniors (age 62 and above).
 You need to provide proof of income and your prior rental history.
-Most of these housing units have wait lists, and only some of them accept new applications at any time.
+Most of these housing units have wait lists, and only some of them accept new applications at any time. <!-- Source: https://www.haslo.org/housing-options-copy -->
 
-[**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) operates several affordable housing properties in Paso Robles designed for people who have around 30–60% of the area median income.
-You can fill out an application on their website. If your application is accepted, you will be put on the waiting list.
-You must include copies of the latest three months’ paycheck stubs, proof of other sources of income, and a copy of your last two years’ federal income tax returns.
-You may be rejected if you have recently been evicted, have defaulted on debts, or have certain criminal convictions.
+[**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) operates several affordable housing properties in Paso Robles designed for people who have around 30–60% of the area median income. <!-- Source: https://pasoroblesha.org/about/ -->
+You can download an application from their website. <!-- Source e.g. https://pasoroblesha.org/affordable-housing/oak-park-1-2/ -->
+If your application is accepted, you will be put on the waiting list. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2020/09/Tenant-Selection-Plan-for-OP1.pdf -->
+You must include copies of the latest three months’ paycheck stubs, proof of other sources of income, and a copy of your last two years’ federal income tax returns. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2025/05/OP1-OP2-APP-INSTRUCTION-SHT.pdf -->
+You may be rejected if you have recently been evicted, have defaulted on debts, or have certain criminal convictions. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2020/09/Tenant-Selection-Plan-for-OP1.pdf -->
 
-[**Lumina Alliance**](Directory.md#Lumina-Alliance) operates a six- to 24-month [transitional housing program](https://luminaalliance.org/transitional-housing/) for individuals and families who are fleeing domestic violence, dating violence, sexual assault, and/or stalking.
-People housed through this program also get access to advocacy services, employment assistance, counseling, legal help, children’s services, life skills development, and help obtaining permanent housing.
-If you are homeless or in need of housing due to fleeing abusive situation, have low or very low income, and are willing to participate in Lumina’s program and to cooperate with them in following a safety plan, you may qualify for transitional housing through this program.
+[**Lumina Alliance**](Directory.md#Lumina-Alliance) operates a six- to 24-month [transitional housing program](https://luminaalliance.org/transitional-housing/) for individuals and families who are fleeing domestic violence, dating violence, sexual assault, and/or stalking. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
+People housed through this program also get access to advocacy services, employment assistance, counseling, legal help, children’s services, life skills development, and help obtaining permanent housing. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
+If you are homeless or in need of housing due to fleeing abusive situation, have low or very low income, and are willing to participate in Lumina’s program and to cooperate with them in following a safety plan, you may qualify for transitional housing through this program. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
 
-Adults in SLO County who live with mental illness may qualify for supportive housing in multiple county locations through the [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) [residential housing program](https://www.t-mha.org/program-details.php?id=6).
+Adults in SLO County who live with mental illness may qualify for supportive housing in multiple county locations through the [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) [residential housing program](https://www.t-mha.org/housing.php).
 
-The [**HomeShare SLO**](Directory.md#HomeShare-SLO) program matches property owners who have an extra room with people who need a place to live.
-They have a “reduced rent task exchange” program with which you can do 8–15 hours of work per week to get a rent reduction.
+The [**HomeShare SLO**](Directory.md#HomeShare-SLO) program matches property owners who have an extra room with people who need a place to live. <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
+<!-- Still true? They have a “reduced rent task exchange” program with which you can do 8–15 hours of work per week to get a rent reduction. -->
 
-[**Restorative Partners**](Directory.md#Restorative-Partners) runs a [housing program](https://restorativepartners.org/housing/) with multiple transitional housing programs for men, women, and families in various SLO County locations.
+[**Restorative Partners**](Directory.md#Restorative-Partners) runs a [housing program](https://restorativepartners.org/housing/) with multiple transitional housing programs for men, women, and families in various SLO County locations. <!-- Source: https://restorativepartners.org/housing/ -->
 These programs are for people in recovery from addiction and people transitioning from incarceration.
 Some are specific to women with children.
 Along with housing, residents get help with employment support, financial literacy, life skills, addiction recovery, and help finding permanent housing.
 There is a wait list.
 
-[**Salvation Army**](Directory.md#Salvation-Army) has a “Rapid Rehousing Program” that helps people find and qualify for long-term housing.
+[**Salvation Army**](Directory.md#Salvation-Army) has a “Rapid Rehousing Program” that helps people find and qualify for long-term housing. <!-- Source: https://caringmagazine.org/how-the-salvation-army-in-san-luis-obispo-is-reaching-unhoused-people-street-level-program/ -->
+Contact Hattie Davis ([hattie.davis@usw.salvationarmy.org](mailto:hattie.davis@usw.salvationarmy.org)) for details.
 
 The [**HouseKeys**](Directory.md#HouseKeys) program is the city of SLO’s affordable home-ownership program.
 It serves households who bring in about 30–50% of the area median income.
 Their idea of “affordable” may not be yours.
 If you want to apply for housing through this program, begin the [application process](https://www.housekeys.org/applicationprocess) described on their website.
 
-[**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) operates a home ownership program for first-time low-income home buyers and home preservation assistance (minor repairs, landscaping, painting) for low-income homeowners.
-Apply via their website.
+[**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) operates a home ownership program for first-time low-income home buyers and home preservation assistance (minor repairs, landscaping, painting) for low-income homeowners. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
+Apply via their website.  <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 
-[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates a “sweat equity” homeownership program in which families help to build their own homes.
-They also operate affordable rental housing developments and supportive housing programs.
-They serve low-income families, farmworkers, seniors, veterans, people with disabilities, and formerly-homeless people.
-Contact them directly to access the program.
+[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates a “sweat equity” homeownership program in which families help to build their own homes. <!-- Source: https://www.pshhc.org/home-ownership/ -->
+They also operate affordable rental housing developments and supportive housing programs. <!-- Sources: https://www.pshhc.org/rental-properties/ and https://www.pshhc.org/supportive-housing/ -->
+They serve low-income families, farmworkers, seniors, veterans, people with disabilities, and formerly-homeless people. <!-- Source: https://www.pshhc.org/rental-faq/#1603302191846-0d88dd41-feca -->
+Contact them directly to access the program. <!-- Source: https://www.pshhc.org/rental-faq/#1755192260681-29f97bf4-933c -->
 
 Some other low-income options include:
 
 - [Roosevelt Family Apartments](https://www.rooseveltfamilyapts.com/) in Nipomo.
 - [San Luis Bay Apartments](https://www.gsfpi.com/) in Nipomo.
 
-If you are a refugee from another country, you may be able to get some help establishing housing from [**SLO for HOME**](Directory.md#SLO4Home).
+If you are a refugee from another country, you may be able to get some help establishing housing from [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ (somewhat vague about what specifically they offer here) -->
 
 #### For Seniors
 
 <!-- Note: the “Assisted Living Waiver” program is not available in SLO yet. There are no Assisted Living / Residential Care For the Elderly (RCFE) facilities in SLO County that accept Medi-Cal. If you need a Medi-Cal facility of that type, you’ll have to go out of the area. Source: Amelia Grover’s presentation at the 5 Nov. 2025 Collaborative Outreach meeting -->
 
-[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority), and [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates several affordable senior housing rental properties.
+[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority), and [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operate several affordable senior housing rental properties. <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 
 There are some additional subsidized and affordable housing options especially for seniors (sometimes defined as age 55 and above, or as 62 and above).
 These include:
 
-- [Cortina d’Arroyo Grande Senior Apartments](https://cortinadarroyograndeseniorapts.com/) (<a href="#" class="map-link" data-lat="35.122208" data-lon="-120.607207" data-zoom="17" data-label="Cortina d’Arroyo Grande Senior Apartments">241 N. Courtland Ave., Arroyo Grande</a>) — [805-489-6888](tel:+1-805-489-6888)
-- Parkview Manor (<a href="#" class="map-link" data-lat="35.113380" data-lon="-120.600175" data-zoom="17" data-label="Parkview Manor">365 South Elm St., Arroyo Grande</a>) — [805-489-5101](tel:+1-805-489-5101)
-- [**Judson Terrace**](Directory.md#Judson-Terrace) (SLO), has 107 low-income affordable apartments for people aged 55 and up, and 31 low-income affordable apartments for people aged 62 and up. They only accept applications when the waiting list is open.
+- [Cortina d’Arroyo Grande Senior Apartments](https://cortinadarroyograndeseniorapts.com/) (<a href="#" class="map-link" data-lat="35.122208" data-lon="-120.607207" data-zoom="17" data-label="Cortina d’Arroyo Grande Senior Apartments">241 N. Courtland Ave., Arroyo Grande</a>) — [805-489-6888](tel:+1-805-489-6888) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
+- Parkview Manor (<a href="#" class="map-link" data-lat="35.113380" data-lon="-120.600175" data-zoom="17" data-label="Parkview Manor">365 South Elm St., Arroyo Grande</a>) — [805-489-5101](tel:+1-805-489-5101) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
+- [**Judson Terrace**](Directory.md#Judson-Terrace) (SLO), has 107 low-income affordable apartments for people aged 55 and up, and 32 low-income affordable apartments for people aged 62 and up. They only accept applications when the waiting list is open. <!-- Sources: https://www.humangood.org/judson-terrace-homes and https://www.humangood.org/judson-terrace-lodge -->
 
 Affordable housing options for seniors with Section 8 vouchers include:
 
-- Morro del Mar Senior Apartments (<a href="#" class="map-link" data-lat="35.363321" data-lon="-120.849837" data-zoom="17" data-label="Morro del Mar Senior Apartments">555 Main St., Morro Bay</a>) — [805-225-1837](tel:+1-805-225-1837)
-- Villa Paseo Palms (<a href="#" class="map-link" data-lat="35.578160" data-lon="-120.696694" data-zoom="17" data-label="Villa Paseo Palms">2800 Ramada Dr., Paso Robles</a>) — [805-227-4588](tel:+1-805-227-4588)
+- Morro del Mar Senior Apartments (<a href="#" class="map-link" data-lat="35.363321" data-lon="-120.849837" data-zoom="17" data-label="Morro del Mar Senior Apartments">555 Main St., Morro Bay</a>) — [805-225-1837](tel:+1-805-225-1837) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
+- [Villa Paseo Senior Apartments](https://villapaseo.com/) (<a href="#" class="map-link" data-lat="35.578160" data-lon="-120.696694" data-zoom="17" data-label="Villa Paseo Palms">2800 Ramada Dr., Paso Robles</a>) — [805-227-4588](tel:+1-805-227-4588) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 - [Las Brisas Retirement Community](https://www.sunshineretirementliving.com/las-brisas-independent-senior-living-san-luis-obispo-ca/) (SLO)
 
 Affordable housing options for disabled / handicapped seniors can be found at:
 
-- California Manor (<a href="#" class="map-link" data-lat="35.462401" data-lon="-120.645271" data-zoom="17" data-label="California Manor">10165 El Camino Real, Atascadero</a>) — [805-466-0759](tel:+1-805-466-0759)
-- Hacienda Del Norte (<a href="#" class="map-link" data-lat="35.624894" data-lon="-120.693013" data-zoom="17" data-label="Hacienda Del Norte">529 10th St., Paso Robles</a>) — [805-238-5793](tel:+1-805-238-5793)
+- [California Manor](https://www.buckinghampm.com/homes/california-manor) (<a href="#" class="map-link" data-lat="35.462401" data-lon="-120.645271" data-zoom="17" data-label="California Manor">10165 El Camino Real, Atascadero</a>) — [805-466-0759](tel:+1-805-466-0759) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
+- [Hacienda Del Norte](https://www.mbspminc.com/property/1606/Hacienda-Del-Norte/) (<a href="#" class="map-link" data-lat="35.624894" data-lon="-120.693013" data-zoom="17" data-label="Hacienda Del Norte">529 10th St., Paso Robles</a>) — [805-238-5793](tel:+1-805-238-5793) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 - Brizzolara St. Apartments (<a href="#" class="map-link" data-lat="35.280660" data-lon="-120.668432" data-zoom="17" data-label="Brizzolara Street Apartments">611 Brizzolara, SLO</a>)
-- Marvin Gardens (<a href="#" class="map-link" data-lat="35.262116" data-lon="-120.642638" data-zoom="17" data-label="Marvin Gardens">1105 Laurel Lane, SLO</a>)
+- Marvin Gardens (<a href="#" class="map-link" data-lat="35.262116" data-lon="-120.642638" data-zoom="17" data-label="Marvin Gardens">1105 Laurel Lane, SLO</a>) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 
 You can find additional [senior housing listings](https://centralcoastseniors.org/senior-independent-housing-options/) at the [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) website.
 
-If you need Assistive Living or Residential Care for the Elderly (RCFE) housing, there are some options in SLO County, but none of them accept Medi-Cal.
-If you need such housing and Medi-Cal is your only health insurance, you can get on a waiting list for a facility outside of SLO County.
-This is a lengthy process, so if you think you might need such a living situation in the future (even as long as a year or more from now), you should try to start this process now.
+If you need Assistive Living or Residential Care for the Elderly (RCFE) housing, there are some options in SLO County, but none of them accept Medi-Cal. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
+If you need such housing and Medi-Cal is your only health insurance, you can get on a waiting list for a facility outside of SLO County. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
+This is a lengthy process, so if you think you might need such a living situation in the future (even as long as a year or more from now), you should try to start this process now. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
 Discuss this with your case manager if you have one, or with the [**Long-Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman).
 
 #### Future Possibilities
 
 The projects in this subsection are not yet housing people but hope to do so soon.
 
+There will be some free, legal “safe parking” spots available in the SLO city area via the [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
+To register for one of these spots, you will first complete the intake process at the 40 Prado offices any day from 8am to 2pm.
+You will have a place to park overnight for 90 days, with a possible 30 day extension.
+You must move your vehicle away from the site during the day.
+You will have access to water, trash, and restrooms, and there will be occasional security checks.
+No illegal drugs, alcohol, weapons, or fires will be allowed. Your vehicle must fit into a standard parking space.
+You must not be a P.C. 290 registered sex offender to use this service. SLO county residents get priority. You must participate in case management.
+
 [**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarily single seniors.
-As of November 2025 the project is still under construction and is not admitting residents.
+As of December 2025 the project is still under construction and is not admitting residents.
 
 [**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city on county-owned land.
 Priority is given to Bob Jones Bike Trail encampment residents.
-As of November 2025 the project is still under construction and is not admitting residents.
+As of December 2025 the project is still under construction and is not admitting residents.
 
 Restorative Partners is creating a [**Healing and Restoration Campus**](Directory.md#Healing-and-Restoration-Campus) near Laguna Lake in SLO, which is meant to have 34 private bedrooms and shared communal facilities.
 It will also offer job training and support.
 It is designed specifically for people reentering society from incarceration.
 
 [**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for chronically homeless people, prioritizing for veterans, women, and elderly with little or no income.
-As of November 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
+As of December 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents. <!-- Source: https://hopesvillageofslo.com/helping -->
 
-The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) in Atascadero hopes to add 30 shelter beds for families to what is currently offered by [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)
+The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) in Atascadero hopes to add 30 shelter beds for families to what is currently offered by [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO). <!-- Source: https://www.echoshelter.org/buildinghopeandhome -->
 
 ### <a id="housing-veterans">For U.S. Military Veterans</a>
 
 U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
-This help includes housing assistance, case management, and financial assistance; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, and utilities; housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, landlord-tenant mediation, and future housing stability planning.
+This help includes housing assistance, case management, and financial assistance; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, and utilities; housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, landlord-tenant mediation, and future housing stability planning. <!-- Sources: https://www.va.gov/homeless/ssvf/ssvf-overview/ and https://capslo.org/ssvf/ -->
 You must have a DD214 with discharge other than dishonorable.
 
-The [**RVs for Veterans**](Directory.md#RVs-for-Veterans) program can get you a free RV (e.g. motorhome, travel trailer, or fifth wheel).
-These are donated by other members of the community, and are available as they are donated.
-Contact them to be put on a waiting list for the next RV.
+The [**RVs for Veterans**](Directory.md#RVs-for-Veterans) program can get you a free RV (e.g. motorhome, travel trailer, or fifth wheel). <!-- Source: https://hopesvillageofslo.com/programs -->
+These are donated by other members of the community, and are available as they are donated. <!-- Source: https://hopesvillageofslo.com/programs -->
+Contact them to be put on a waiting list for the next RV. <!-- Source: https://hopesvillageofslo.com/programs -->
 Priority is given to homeless veterans, veterans who receive insufficient benefits to pay rent, veterans who do not qualify for VA assistance, and veterans who need to live alone because of PTSD.
 Sometimes the program also has RVs available for people who are experiencing homelessness who are not veterans.
 The RVs are in working condition, with no leaks; you must obtain insurance.
 
-Homeless veterans can get help from the U.S. Department of Housing and Urban Development’s V.A. Supportive Housing (VASH) program, which can give you vouchers to pay for permanent housing.
+Homeless veterans can get help from the U.S. Department of Housing and Urban Development’s V.A. Supportive Housing (VASH) program, which can give you vouchers to pay for permanent housing. <!-- Source: https://www.va.gov/homeless/hud-vash.asp -->
 Call [877-4AID-VET](tel:+1-877-424-3838) or ask for help from [**SLO County Veterans Services**](Directory.md#Veterans-Services).
 
 > See [Automobile Insurance and Repair](#auto-insurance-and-repair) for tips on how to obtain low-cost auto insurance.
@@ -556,21 +582,21 @@ Call [877-4AID-VET](tel:+1-877-424-3838) or ask for help from [**SLO County Vete
 
 [**SLO Hub**](Directory.md#SLO-Hub) helps you find a residential (live-in) recovery program that’s right for you, and can pay the deposit and rent for the opening months of your residency if you cannot afford it or if your insurance does not cover it.
 
-[**SLO County Behavioral Health Department**](Directory.md#SLO-County-Behavioral-Health) contracts with sober living environments throughout SLO County (from Oceano to Paso Robles) at rates of $35–55 per day.
+[**SLO County Behavioral Health Department**](Directory.md#SLO-County-Behavioral-Health) contracts with sober living environments throughout SLO County (from Oceano to Paso Robles) at rates of $35–55 per day. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
 These facilities accept Medi-Cal and offer sliding scale fees based on ability to pay.
-Contact their access line at [800-838-1381](tel:+1-800-838-1381) for referrals.
+Visit [**SLO County Drug and Alcohol Services**](Directory.md##SLO-County-Drug-and-Alcohol-Services) or contact the Behavioral Health access line at [800-838-1381](tel:+1-800-838-1381) for referrals.
 
 Here are some residential treatment options in our area:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
 <!-- Note: Restorative Partners runs some sober living homes in the area, but these are specifically designed for people reentering society from jail/prison custody -->
 
-- [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only.
-- [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) for women only. (Also known as “Sunshine House.”)
-- [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only; (division of nonprofit Gate Help Inc.).
-- [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) for men only.
-- [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) for women only; (division of nonprofit Gate Help Inc.).
-- [**Middlehouse**](Directory.md#Middlehouse) (SLO) for men only.
-- [**Sun Street Centers**](Directory.md#Sun-Street-Centers) (SLO) for men only.
+- [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only
+- [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) for women only. Also known as “Sunshine House.”
+- [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only
+- [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) for men only
+- [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) for women only
+- [**Middlehouse**](Directory.md#Middlehouse) (SLO) for men only
+- [**Sun Street Centers**](Directory.md#Sun-Street-Centers) (SLO) for men only
 
 -----
 
