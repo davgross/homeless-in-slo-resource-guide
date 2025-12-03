@@ -178,18 +178,18 @@ function initTOCButton() {
 
   // Update button state based on TOC position relative to viewport
   function updateTOCButtonState() {
-    const tocHeading = document.querySelector('#resources-section a[id="table-of-contents"]');
-    if (!tocHeading) return;
+    const tocWrapper = document.querySelector('.toc-section-wrapper');
+    if (!tocWrapper) return;
 
-    const tocRect = tocHeading.getBoundingClientRect();
+    const tocRect = tocWrapper.getBoundingClientRect();
     const viewportHeight = window.innerHeight;
 
-    // Check if TOC is in viewport
-    const isInView = tocRect.top >= 0 && tocRect.bottom <= viewportHeight;
-
     // Check if TOC is above or below viewport
-    const isAbove = tocRect.bottom < 0;
-    const isBelow = tocRect.top > viewportHeight;
+    const isAbove = tocRect.bottom <= 0;
+    const isBelow = tocRect.top >= viewportHeight;
+
+    // Check if any part of TOC is in viewport
+    const isInView = !isAbove && !isBelow;
 
     // Update classes
     tocBtn.classList.toggle('toc-in-view', isInView);
