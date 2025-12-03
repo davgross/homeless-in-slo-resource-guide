@@ -156,14 +156,17 @@ If someone promises to do something for you but you don’t hear back in a reaso
 
 Many service providers have non-discrimination policies and try to treat people with respect, though policies vary between agencies.
 Some services have specific rules about who can use them (like veterans-only programs, or programs with income limits).
-
 Privacy policies vary by agency.
-Government agencies (and agencies that get government grants and contracts) often share information through the HMIS (Homeless Management Information System).
-You will receive privacy notices before they enter your data, and you can ask to review these notices later.
-You may be required to provide some data in order to get services, but you can withhold other information.
-Ask about Release of Information (ROI) forms and what they mean before you sign them.
 
-Many programs have procedures for appealing decisions or filing complaints.
+Government homeless service providers (and service providers that get government grants and contracts) often share information about their clients through the HMIS (Homeless Management Information System).
+Before such a service provider enters information about you into the HMIS, you will receive [a privacy notice](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final) ([español](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-coc-hmis-consent-for-release-of-information-2024-final-%28sp%29)) and will be asked for your consent.
+You can ask to review this privacy notice at any time. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
+This privacy notice states: “You are still eligible for services if you refuse to have your standard information shared in HMIS.” <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
+Ask about HMIS Consent for Release of Information (ROI) forms and what they mean before you sign them.
+You have the right to see the information that has been collected about you in the HMIS, to have your own copy of this information, to request changes to it, and to have it marked private (so that it will not be shared with other service providers who use HMIS). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
+The privacy of the information in the HMIS is protected by law, but the government does not always follow the law, so be cautious.
+
+Many programs have procedures for appealing decisions or for filing complaints.
 Ask program staff or search online to find the specific process.
 Legal aid organizations can help with appeals (see the [Legal assistance](#legal-help) section).
 
@@ -222,7 +225,7 @@ This helps you avoid phone trees if you need to call back.
 
 ### <a id="set-goals-and-track-progress">Set Goals and Track Progress</a>
 
-Make your goals “S.M.A.R.T.” (Specific, Measurable, Achievable, Relevant, and Time-bound).
+Make your goals “S.M.A.R.T.” (Specific, Measurable, Achievable, Relevant, and Time-bound). <!-- Source: https://en.wikipedia.org/wiki/SMART_criteria -->
 Divide big goals (like getting housing) into smaller steps you can manage.
 Notice and celebrate your achievements, even small ones.
 Be flexible and willing to change your goals as your situation changes.
@@ -237,7 +240,7 @@ Sticking with it often pays off when you work with complex systems.
 
 ### <a id="find-and-use-resources">Find and Use Resources</a>
 
-Use this guide or call [211](tel:+1-211) to get information about available services.
+Use this guide or call [211](tel:+1-211) to get information about available services. <!-- Source: https://211slo.org/ -->
 Talk with other people in similar situations—they often have valuable information and tips.
 
 The [Other Guides](#other-guides) section of this guide lists some other resource guides that may have information we missed.
