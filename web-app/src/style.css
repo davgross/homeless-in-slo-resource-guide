@@ -591,7 +591,7 @@ th {
   padding: var(--spacing-sm) var(--spacing-md);
   text-align: left;
   font-weight: 600;
-  color: var(--primary-color);
+  color: #1e40af; /* Darker blue to distinguish from links */
   border-right: 1px solid #e0e0e0;
 }
 
