@@ -7,19 +7,19 @@
 
 :root {
   /* Shower the People brand colors */
-  --brand-blue: #3877ff;
-  --brand-orange: #e75e13;
+  --brand-blue: #2469FF;
+  --brand-orange: #c65010;
   --brand-white: #ffffff;
 
   /* Application colors */
-  --primary-color: #3877ff;
+  --primary-color: #2469FF;
   --secondary-color: #5a93ff;
   --background-color: #ffffff;
   --text-color: #333333;
   --border-color: #e0e0e0;
-  --link-color: #3877ff;
+  --link-color: #2469FF;
   --visited-link-color: #2557cc;
-  --external-link-color: #e75e13;
+  --external-link-color: #c65010;
   --header-height: 80px;
   --spacing-sm: 0.5rem;
   --spacing-md: 1rem;
