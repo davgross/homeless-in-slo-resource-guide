@@ -869,6 +869,18 @@ function setupSearch() {
   });
 }
 
+// Normalize text for search by converting unicode quotes/apostrophes to ASCII equivalents
+function normalizeForSearch(text) {
+  return text
+    // Convert curly single quotes and apostrophes to straight apostrophe
+    .replace(/[\u2018\u2019\u201B]/g, "'")  // ' ' ‛ -> '
+    // Convert curly double quotes to straight quotes
+    .replace(/[\u201C\u201D]/g, '"')  // " " -> "
+    // Convert other apostrophe-like characters
+    .replace(/[\u02BC\u02C8]/g, "'")  // ʼ ˈ -> '
+    .toLowerCase();
+}
+
 // Build search index
 function buildSearchIndex() {
   state.searchIndex = [];
@@ -878,7 +890,7 @@ function buildSearchIndex() {
     state.searchIndex.push({
       id,
       title: entry.title,
-      content: entry.content.toLowerCase(),
+      content: normalizeForSearch(entry.content),
       type: 'directory'
     });
   });
@@ -932,7 +944,7 @@ function indexResourceSections() {
     // Convert to text for searching
     const tempDiv = document.createElement('div');
     tempDiv.innerHTML = DOMPurify.sanitize(marked.parse(content));
-    const contentText = tempDiv.textContent.toLowerCase();
+    const contentText = normalizeForSearch(tempDiv.textContent);
 
     state.searchIndex.push({
       id: section.id,
@@ -960,7 +972,7 @@ function performSearch(query) {
     return;
   }
 
-  query = query.toLowerCase();
+  query = normalizeForSearch(query);
   const queryTerms = query.split(/\s+/).filter(t => t.length > 0);
 
   // Filter out stop words for term matching, but keep them for phrase matching
@@ -969,7 +981,7 @@ function performSearch(query) {
   // Search and score results
   const results = state.searchIndex
     .map(item => {
-      const titleLower = item.title.toLowerCase();
+      const titleLower = normalizeForSearch(item.title);
       const contentLower = item.content;
 
       // Calculate relevance score
@@ -1060,17 +1072,17 @@ function cleanMarkdown(text) {
 function extractSnippet(content, query, queryTerms) {
   const snippetLength = 150;
 
-  // Clean the content first
+  // Clean and normalize the content first
   const cleanedContent = cleanMarkdown(content);
-  const cleanedQuery = query.toLowerCase();
+  const normalizedContent = normalizeForSearch(cleanedContent);
 
-  const queryIndex = cleanedContent.toLowerCase().indexOf(cleanedQuery);
+  const queryIndex = normalizedContent.indexOf(query);
 
   if (queryIndex !== -1) {
     // Found exact query match
     const start = Math.max(0, queryIndex - 50);
-    const end = Math.min(cleanedContent.length, queryIndex + query.length + 100);
-    let snippet = cleanedContent.slice(start, end);
+    const end = Math.min(normalizedContent.length, queryIndex + query.length + 100);
+    let snippet = normalizedContent.slice(start, end);
 
     // Trim to word boundaries
     if (start > 0) {
@@ -1079,7 +1091,7 @@ function extractSnippet(content, query, queryTerms) {
         snippet = '...' + snippet.slice(spaceIndex + 1);
       }
     }
-    if (end < cleanedContent.length) {
+    if (end < normalizedContent.length) {
       const lastSpaceIndex = snippet.lastIndexOf(' ');
       if (lastSpaceIndex !== -1) {
         snippet = snippet.slice(0, lastSpaceIndex) + '...';
@@ -1093,11 +1105,11 @@ function extractSnippet(content, query, queryTerms) {
   const significantTerms = queryTerms.filter(term => !STOP_WORDS.has(term));
   if (significantTerms.length > 0) {
     for (const term of significantTerms) {
-      const termIndex = cleanedContent.toLowerCase().indexOf(term);
+      const termIndex = normalizedContent.indexOf(term);
       if (termIndex !== -1) {
         const start = Math.max(0, termIndex - 50);
-        const end = Math.min(cleanedContent.length, termIndex + snippetLength);
-        let snippet = cleanedContent.slice(start, end);
+        const end = Math.min(normalizedContent.length, termIndex + snippetLength);
+        let snippet = normalizedContent.slice(start, end);
 
         if (start > 0) {
           const spaceIndex = snippet.indexOf(' ');
@@ -1105,7 +1117,7 @@ function extractSnippet(content, query, queryTerms) {
             snippet = '...' + snippet.slice(spaceIndex + 1);
           }
         }
-        if (end < cleanedContent.length) {
+        if (end < normalizedContent.length) {
           const lastSpaceIndex = snippet.lastIndexOf(' ');
           if (lastSpaceIndex !== -1) {
             snippet = snippet.slice(0, lastSpaceIndex) + '...';
@@ -1118,8 +1130,8 @@ function extractSnippet(content, query, queryTerms) {
   }
 
   // Fallback: return beginning of content
-  let snippet = cleanedContent.slice(0, snippetLength);
-  if (cleanedContent.length > snippetLength) {
+  let snippet = normalizedContent.slice(0, snippetLength);
+  if (normalizedContent.length > snippetLength) {
     const lastSpaceIndex = snippet.lastIndexOf(' ');
     if (lastSpaceIndex !== -1) {
       snippet = snippet.slice(0, lastSpaceIndex) + '...';
@@ -1130,7 +1142,8 @@ function extractSnippet(content, query, queryTerms) {
 
 // Highlight query terms in text
 function highlightMatches(text, query) {
-  const queryTerms = query.toLowerCase().split(/\s+/).filter(t => t.length > 0);
+  // Query is already normalized from performSearch
+  const queryTerms = query.split(/\s+/).filter(t => t.length > 0);
   const significantTerms = queryTerms.filter(term => !STOP_WORDS.has(term));
   let highlightedText = text;
 
