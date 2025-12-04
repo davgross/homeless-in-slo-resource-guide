@@ -24,7 +24,7 @@ If you want to suggest corrections or improvements, or to join our development t
 
 -----
 
-## <a id="table-of-contents">Table of Contents</a> 📖
+## <a id="table-of-contents">Table of Contents</a> <span style="text-shadow: 0 0 3px rgba(255, 255, 255, 0.9), 0 0 6px rgba(255, 255, 255, 0.7), 0 0 9px rgba(255, 255, 255, 0.5), 0 0 1px rgba(0, 0, 0, 0.8), 1px 1px 2px rgba(0, 0, 0, 0.6);">📖</span>
 
 1. [Hotlines and Emergencies](#emergency-contacts)
 1. [Self-Advocacy](#self-advocacy)
