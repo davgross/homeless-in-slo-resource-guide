@@ -1225,17 +1225,18 @@
 
 > *See [**Cal Poly “Doggy Days” Veterinary Clinics**](#Cal-Poly-Doggy-Days)*
 
+<!-- 
 ## <a id="Dove-Creek-Church">Dove Creek Church of the Nazarene</a>
 
 - **Website:** [dovecreekchurch.org](https://dovecreekchurch.org/)
-- **Location:** 9333 Santa Barbara Rd., Atascadero <a class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Dove Creek Church of the Nazarene">Map</a> <!-- Source: https://dovecreekchurch.org/who-we-are/find-us -->
-- **Phone:** [805-466-9505](tel:+1-805-466-9505) <!-- Source: https://dovecreekchurch.org/who-we-are/find-us -->
-- **Email:** [office@dovecreekchurch.org](mailto:office@dovecreekchurch.org) <!-- Source: https://dovecreekchurch.org/who-we-are/find-us -->
+- **Location:** 9333 Santa Barbara Rd., Atascadero <a class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Dove Creek Church of the Nazarene">Map</a> { Source: https://dovecreekchurch.org/who-we-are/find-us }
+- **Phone:** [805-466-9505](tel:+1-805-466-9505) { Source: https://dovecreekchurch.org/who-we-are/find-us }
+- **Email:** [office@dovecreekchurch.org](mailto:office@dovecreekchurch.org) { Source: https://dovecreekchurch.org/who-we-are/find-us }
 - Notes:
    - Operates a food pantry; also known as Atascadero Dove Creek Church of the Nazarene
    - As of October 2025, the website says “We are currently on hiatus and in a period of rebuilding”
-<!-- Note: See also [**Restoration Church**](#Restoration-Church) which may be a ministry at this same address -->
-<!-- Note: Unable to determine food pantry hours from reputable online sources (researched October 2025). Call 805-466-9505 or email office@dovecreekchurch.org to verify hours. -->
+   - See also [**Restoration Church**](#Restoration-Church) which may be a ministry at this same address 
+-->
 
 ## Drug and Alcohol Services
 
@@ -1708,7 +1709,6 @@
 - **Phone:** [805-756-6362](tel:+1-805-756-6362)
 - **Email:** [info@ild.org](mailto:info@ild.org) <!-- Source: https://calendly.com/csulegalservices/ild?month=2025-12 -->
 - **How to access:** Schedule appointments via Calendly at [calendly.com/csulegalservices/ild](https://calendly.com/csulegalservices/ild) or through Dream Center website at [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
-<!-- Note: No standalone phone number, email, or physical address publicly listed (as of October 2025); contact via online appointment system only -->
 
 ## Independent Living Resource Center (ILRC)
 

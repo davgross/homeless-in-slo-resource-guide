@@ -614,7 +614,6 @@ If you need to securely store a small amount of property for a few hours or over
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available for people who have completed intake for day services there.
 You must provide your own padlock.
-<!-- Note: Unable to determine specific locker sizes, conditions of use, or whether document storage is available from publicly available sources (as of October 2025); contact 40 Prado directly at [805-544-4004](tel:+1-805-544-4004) for details -->
 
 The commercial service [Bounce](https://bounce.com/) partners with multiple locations (in SLO County, these are typically UPS Stores) to offer short-term luggage storage that typically runs about $7 per day or $20–80 per month (depending on weight and size).
 You can find the specific locations, terms and conditions, and costs at their website.
@@ -634,8 +633,6 @@ You can expect to pay about $60–75 per month for the least-expensive and small
 Most storage facilities have daytime hours of operation when you can access the storage units to add or remove property, and are closed to everyone at night.
 
 ### <a id="recovering-seized-property">Recovering Property Taken During Arrests or Encampment Sweeps</a>
-
-<!-- To-do: see if you can get more specific policies from the county, parks service, Caltrans, other municipalities, and other law-enforcement agencies -->
 
 Different agencies take responsibility for clearing homeless camps, depending on where the camps are located.
 These agencies have different policies about whether, to what extent, and for how long they will store property that they clear from encampments, so that the owners of that property can recover it.
@@ -1279,7 +1276,6 @@ Bring your insurance card, identification, and a list of medications you take.
 | [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | Yes      | No       |
 | [**MedStop**](Directory.md#MedStop) (SLO)                                                           | Yes      | No       |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | Yes      | Yes      |
-<!-- Note: Unable to verify whether North County Care Minor Emergency Services accepts Medicare/Medi-Cal through reputable online sources (researched November 2025); call 805-238-2422 to verify -->
 
 ### <a id="health-insurance">Health Insurance</a>
 
@@ -1862,8 +1858,6 @@ Contact the local [**Veterans Administration Outpatient Clinic**](Directory.md#V
 
 ### <a id="advance-directives">Advance Directives</a>
 
-<!-- To-do: This section needs review from a professional who knows about this stuff, specifically as it applies in California -->
-
 Advance Health Care Directives are legal documents that let you communicate your health care wishes in advance, in case you become unable to speak for yourself.
 Sometimes people call these “Living Wills.”
 These documents include:
@@ -2071,10 +2065,6 @@ HiCAP is free.
 Central California Legal Services’ [Health Consumer Center](https://centralcallegal.org/health/) program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment.
 
 If you are a U.S. military veteran, you can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
-
-<!--
-To-do: add more stuff about e.g. ombudsmen who can help you with health insurance denial or other denials of benefits.
--->
 
 <!-- To-do:
 ### <a id="liability-law">Injury Liability / Workers’ Compensation</a>
@@ -2457,10 +2447,6 @@ There are various ways to establish a reliable mailing address even if you do no
 
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
 Ask them for details.
-
-<!-- To-do: NEEDS VERIFICATION
- North County Mail Drop Services (*needs verification*): For people in North County areas (Paso Robles, Atascadero, Templeton), contact [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) at [805-462-3663](tel:+1-805-462-3663) to inquire about mail drop services at their Paso Robles (1134 Black Oak Dr.) or Atascadero (7600 El Camino Real #12) locations. Additionally, [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has locations in Arroyo Grande (203 Bridge St.) that may offer mail services for clients; call [805-540-6500](tel:+1-805-540-6500) to inquire. These organizations may allow clients to use their addresses for receiving mail.
--->
 
 You can rent mail boxes from UPS Stores and from the U.S. Postal Service.
 The Postal Service option is the most affordable of the two.
@@ -2958,7 +2944,6 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that take place outside the classroom.
 Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver.
 They also offer miscellaneous adult education classes on topics of a recreational or curiosity-satisfying nature.
-<!-- TBD: Add something about actually enrolling as a Cuesta student, and about the [Extended Opportunity Programs and Services](https://www.cuesta.edu/student-support/support-programs/eops/) program to help pay for things -->
 
 [**SLO Partners**](Directory.md#SLO-Partners) [programs](https://slopartners.org/programs/) include bootcamps to learn in-demand skills in fields like dental assistant, hospitality, and manufacturing.
 There is a financial assistance program to help you pay for tuition.
@@ -3189,13 +3174,11 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 1. [Resources for Homeless Youth](#homeless-youth)
 
 [**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues.
-<!-- https://sloparents.org/slo-frc-directory-2/ claims they also have “a clothing closet that includes basic needs items… available to the community” -->
 
 [**Family Care Network**](Directory.md#Family-Care-Network) serves families with children who are experiencing or at risk of homelessness, are impacted by unaddressed mental health challenges, or are involved with Child Welfare Services or the Justice System.
 Services include therapy and other mental health services, facilitating foster care and adoption, independent living skills, educational continuity,
 They also help families experiencing homelessness to move into safe housing (Family Care Network operates housing complexes for this purpose).
 They offer services in English and Spanish.
-<!-- TBD: Missing here is how to apply for these services? Contact them directly or do you need a referral? Their website reads like one big vague mission statement powerpoint rather than answering questions like this. -->
 
 The [SLO Children’s Museum](https://www.slocm.org/) is full of interactive exhibits for children aged 2–10.
 If you are “housing insecure” you can get a free “City Play Pass” to the museum from [**CAPSLO**](Directory.md#CAPSLO).
