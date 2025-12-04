@@ -47,13 +47,23 @@ export class FeedbackSystem {
 
             <div class="feedback-form-group">
               <label for="feedback-email">Your Email (optional)</label>
-              <input type="email" id="feedback-email" name="email" placeholder="your.email@example.com">
-              <small>If you'd like a response, please provide your email.</small>
+              <input type="email"
+                     id="feedback-email"
+                     name="email"
+                     placeholder="your.email@example.com"
+                     aria-describedby="email-helper email-error"
+                     aria-invalid="false">
+              <small id="email-helper">If you'd like a response, please provide your email.</small>
+              <span id="email-error" class="error-message" role="alert" hidden></span>
             </div>
 
             <div class="feedback-form-group">
-              <label for="feedback-type">Feedback Type</label>
-              <select id="feedback-type" name="type" required>
+              <label for="feedback-type">Feedback Type *</label>
+              <select id="feedback-type"
+                      name="type"
+                      required
+                      aria-describedby="type-error"
+                      aria-invalid="false">
                 <option value="">-- Select type --</option>
                 <option value="outdated">Outdated Information</option>
                 <option value="error">Error or Mistake</option>
@@ -61,6 +71,7 @@ export class FeedbackSystem {
                 <option value="suggestion">Suggestion</option>
                 <option value="other">Other</option>
               </select>
+              <span id="type-error" class="error-message" role="alert" hidden></span>
             </div>
 
             <div class="feedback-form-group">
@@ -71,7 +82,10 @@ export class FeedbackSystem {
                 rows="6"
                 required
                 placeholder="Please describe the issue or suggestion in detail..."
+                aria-describedby="message-error"
+                aria-invalid="false"
               ></textarea>
+              <span id="message-error" class="error-message" role="alert" hidden></span>
             </div>
 
             <div class="feedback-context">
@@ -148,8 +162,16 @@ export class FeedbackSystem {
     const form = document.getElementById('feedback-form');
     form.addEventListener('submit', (e) => {
       e.preventDefault();
-      this.handleSubmit();
+
+      // Validate all fields before submission
+      const isValid = this.validateForm();
+      if (isValid) {
+        this.handleSubmit();
+      }
     });
+
+    // Add real-time validation on blur
+    this.setupFormValidation();
 
     // Done button (after success)
     const doneBtn = document.getElementById('feedback-done');
@@ -208,6 +230,125 @@ export class FeedbackSystem {
     }
   }
 
+  // Setup form validation
+  setupFormValidation() {
+    const emailInput = document.getElementById('feedback-email');
+    const typeSelect = document.getElementById('feedback-type');
+    const messageTextarea = document.getElementById('feedback-message');
+
+    // Validate email on blur (only if not empty, since it's optional)
+    emailInput.addEventListener('blur', () => {
+      const value = emailInput.value.trim();
+      if (value) {
+        this.validateField(emailInput, 'email');
+      } else {
+        // Clear any error if field is empty (it's optional)
+        this.clearFieldError(emailInput);
+      }
+    });
+
+    // Clear email error when user starts typing again
+    emailInput.addEventListener('input', () => {
+      if (emailInput.getAttribute('aria-invalid') === 'true') {
+        this.clearFieldError(emailInput);
+      }
+    });
+
+    // Validate type on change
+    typeSelect.addEventListener('change', () => {
+      this.validateField(typeSelect, 'type');
+    });
+
+    // Validate message on blur
+    messageTextarea.addEventListener('blur', () => {
+      this.validateField(messageTextarea, 'message');
+    });
+
+    // Clear message error when user starts typing again
+    messageTextarea.addEventListener('input', () => {
+      if (messageTextarea.getAttribute('aria-invalid') === 'true') {
+        this.clearFieldError(messageTextarea);
+      }
+    });
+  }
+
+  // Validate a single field
+  validateField(field, fieldType) {
+    const errorSpan = document.getElementById(`${field.name}-error`);
+
+    if (fieldType === 'email') {
+      const value = field.value.trim();
+      if (value && !field.validity.valid) {
+        field.setAttribute('aria-invalid', 'true');
+        errorSpan.textContent = 'Please enter a valid email address';
+        errorSpan.hidden = false;
+        return false;
+      }
+    } else if (fieldType === 'type') {
+      if (!field.value) {
+        field.setAttribute('aria-invalid', 'true');
+        errorSpan.textContent = 'Please select a feedback type';
+        errorSpan.hidden = false;
+        return false;
+      }
+    } else if (fieldType === 'message') {
+      if (!field.value.trim()) {
+        field.setAttribute('aria-invalid', 'true');
+        errorSpan.textContent = 'Please enter your feedback';
+        errorSpan.hidden = false;
+        return false;
+      }
+    }
+
+    // Field is valid
+    this.clearFieldError(field);
+    return true;
+  }
+
+  // Clear field error
+  clearFieldError(field) {
+    const errorSpan = document.getElementById(`${field.name}-error`);
+    field.setAttribute('aria-invalid', 'false');
+    errorSpan.textContent = '';
+    errorSpan.hidden = true;
+  }
+
+  // Validate entire form
+  validateForm() {
+    const emailInput = document.getElementById('feedback-email');
+    const typeSelect = document.getElementById('feedback-type');
+    const messageTextarea = document.getElementById('feedback-message');
+
+    let isValid = true;
+
+    // Validate email (only if not empty, since it's optional)
+    if (emailInput.value.trim()) {
+      if (!this.validateField(emailInput, 'email')) {
+        isValid = false;
+      }
+    }
+
+    // Validate type (required)
+    if (!this.validateField(typeSelect, 'type')) {
+      isValid = false;
+    }
+
+    // Validate message (required)
+    if (!this.validateField(messageTextarea, 'message')) {
+      isValid = false;
+    }
+
+    // Focus first invalid field
+    if (!isValid) {
+      const firstInvalid = this.feedbackModal.querySelector('[aria-invalid="true"]');
+      if (firstInvalid) {
+        firstInvalid.focus();
+      }
+    }
+
+    return isValid;
+  }
+
   // Open feedback modal
   openFeedbackModal() {
     // Capture context
@@ -232,6 +373,18 @@ export class FeedbackSystem {
     // Reset form
     const form = document.getElementById('feedback-form');
     form.reset();
+
+    // Clear all validation errors
+    const inputs = form.querySelectorAll('input, select, textarea');
+    inputs.forEach(input => {
+      input.setAttribute('aria-invalid', 'false');
+    });
+
+    const errorMessages = form.querySelectorAll('.error-message');
+    errorMessages.forEach(error => {
+      error.textContent = '';
+      error.hidden = true;
+    });
 
     // Hide success message and show form
     document.getElementById('feedback-success').hidden = true;
@@ -371,10 +524,26 @@ export class FeedbackSystem {
         })
       });
 
-      const result = await response.json();
-
+      // Check if response is ok before trying to parse JSON
       if (!response.ok) {
-        throw new Error(result.error || 'Failed to submit feedback');
+        // Try to parse error message if available
+        let errorMessage = 'Failed to submit feedback';
+        try {
+          const result = await response.json();
+          errorMessage = result.error || errorMessage;
+        } catch (e) {
+          // Response is not JSON, use default error message
+        }
+        throw new Error(errorMessage);
+      }
+
+      // Try to parse success response
+      let result;
+      try {
+        result = await response.json();
+      } catch (e) {
+        // Response is not JSON, but request was successful
+        result = { success: true };
       }
 
       // Show success message
