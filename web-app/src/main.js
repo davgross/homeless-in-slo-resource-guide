@@ -81,10 +81,64 @@ window.appState = state;
 
 // Initialize the app
 async function init() {
+  // Critical setup needed for initial render
   setupNavigation();
   setupSearch();
   setupDirectoryOverlay();
 
+  // Initialize scroll padding adjustment (visual layout)
+  updateScrollPadding();
+  window.addEventListener('resize', updateScrollPadding);
+
+  // Load and apply font size preference early (but defer button setup)
+  loadFontSizePreference();
+
+  // Load Resources content first (critical path for most users)
+  await loadResourcesContent();
+
+  // Restore previous state if exists
+  restoreState();
+
+  // Show initial section - THIS IS THE KEY MOMENT
+  showSection(state.currentSection);
+
+  // Load remaining content in background (Directory and About)
+  // This happens after Resources is displayed
+  requestAnimationFrame(() => {
+    loadRemainingContent();
+  });
+
+  // Defer non-critical initialization until after initial render
+  requestAnimationFrame(() => {
+    setTimeout(deferNonCriticalInit, 0);
+  });
+}
+
+/**
+ * Load font size preference without initializing the full control UI
+ * This ensures correct font size on initial render
+ */
+function loadFontSizePreference() {
+  try {
+    const savedIndex = localStorage.getItem('fontSizeIndex');
+    if (savedIndex !== null) {
+      const index = parseInt(savedIndex, 10);
+      const FONT_SIZES = [80, 90, 100, 110, 120, 130, 140, 150];
+      if (index >= 0 && index < FONT_SIZES.length) {
+        const percentage = FONT_SIZES[index];
+        const baseFontSize = 16 * (percentage / 100);
+        document.documentElement.style.setProperty('--font-size-base', `${baseFontSize}px`);
+      }
+    }
+  } catch (e) {
+    // Ignore errors - will use default
+  }
+}
+
+/**
+ * Initialize non-critical features after content is displayed
+ */
+function deferNonCriticalInit() {
   // Initialize feedback system
   initFeedback();
 
@@ -94,32 +148,17 @@ async function init() {
   // Initialize TOC navigation button
   initTOCButton();
 
-  // Initialize font size control
+  // Initialize font size control (full UI)
   initFontSizeControl();
 
   // Initialize install prompt
   initInstallPrompt();
 
-  // Initialize scroll padding adjustment
-  updateScrollPadding();
-
-  // Update scroll padding on window resize (handles search bar wrapping)
-  window.addEventListener('resize', updateScrollPadding);
-
-  // Also update after a short delay to ensure header is fully rendered
-  setTimeout(updateScrollPadding, 100);
-
-  // Load content
-  await loadMarkdownContent();
-
-  // Restore previous state if exists
-  restoreState();
-
-  // Show initial section
-  showSection(state.currentSection);
-
   // Update last modified date
   updateLastModifiedDate();
+
+  // Final scroll padding adjustment
+  setTimeout(updateScrollPadding, 100);
 }
 
 // Setup navigation between sections
@@ -324,28 +363,53 @@ function showSection(section, updateHistory = true) {
   }
 }
 
-// Load markdown content from imported files
-async function loadMarkdownContent() {
+// Load Resources content first (priority for initial render)
+async function loadResourcesContent() {
   try {
-    // Use imported markdown content
+    // Initialize search index
+    state.searchIndex = [];
+
+    // Load Resources markdown
     state.resourcesContent = resourcesMarkdown;
+
+    // Parse and extract directory entries (needed for Resources links)
+    state.directoryEntries = extractDirectoryEntries(directoryMarkdown);
+
+    // Render Resources section
+    renderResources();
+
+    // Build search index for resources only (directory entries added later)
+    indexResourceSections();
+
+  } catch (error) {
+    console.error('Error loading resources:', error);
+    showError(strings.errors.loadContent);
+  }
+}
+
+// Load remaining content (Directory and About) in background
+async function loadRemainingContent() {
+  try {
+    // Load Directory and About markdown
     state.directoryContent = directoryMarkdown;
     state.aboutContent = aboutMarkdown;
 
-    // Parse and extract directory entries
-    state.directoryEntries = extractDirectoryEntries(directoryMarkdown);
-
-    // Render content
-    renderResources();
+    // Render Directory and About sections
     renderDirectory();
     renderAbout();
 
-    // Build search index
-    buildSearchIndex();
+    // Add directory entries to search index
+    state.directoryEntries.forEach((entry, id) => {
+      state.searchIndex.push({
+        id,
+        title: entry.title,
+        content: normalizeForSearch(entry.content),
+        type: 'directory'
+      });
+    });
 
   } catch (error) {
-    console.error('Error loading content:', error);
-    showError(strings.errors.loadContent);
+    console.error('Error loading additional content:', error);
   }
 }
 
@@ -881,23 +945,6 @@ function normalizeForSearch(text) {
     .toLowerCase();
 }
 
-// Build search index
-function buildSearchIndex() {
-  state.searchIndex = [];
-
-  // Index directory entries
-  state.directoryEntries.forEach((entry, id) => {
-    state.searchIndex.push({
-      id,
-      title: entry.title,
-      content: normalizeForSearch(entry.content),
-      type: 'directory'
-    });
-  });
-
-  // Index resources by section
-  indexResourceSections();
-}
 
 // Extract and index individual sections from Resource Guide
 function indexResourceSections() {

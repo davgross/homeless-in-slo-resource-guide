@@ -10,6 +10,20 @@ const STORAGE_KEY = 'fontSizeIndex';
 const DYSLEXIC_FONT_KEY = 'openDyslexicEnabled';
 
 let currentSizeIndex = DEFAULT_SIZE_INDEX;
+let openDyslexicLoaded = false;
+
+/**
+ * Lazy load OpenDyslexic font
+ */
+function loadOpenDyslexicFont() {
+  if (openDyslexicLoaded) return;
+
+  const link = document.createElement('link');
+  link.rel = 'stylesheet';
+  link.href = 'https://fonts.cdnfonts.com/css/opendyslexic';
+  document.head.appendChild(link);
+  openDyslexicLoaded = true;
+}
 
 /**
  * Initialize font size control functionality
@@ -31,6 +45,8 @@ export function initFontSizeControl() {
   // Toggle popup on button click
   fontSizeBtn.addEventListener('click', (e) => {
     e.stopPropagation();
+    // Lazy load OpenDyslexic font when popup is first opened
+    loadOpenDyslexicFont();
     togglePopup(fontSizePopup);
   });
 
@@ -178,6 +194,8 @@ function loadDyslexicFont() {
 
     // Apply font
     if (enabled) {
+      // Load font immediately if user has it enabled
+      loadOpenDyslexicFont();
       document.body.classList.add('opendyslexic-enabled');
     }
   } catch (e) {
@@ -190,6 +208,8 @@ function loadDyslexicFont() {
  */
 function toggleDyslexicFont(enabled) {
   if (enabled) {
+    // Ensure font is loaded before enabling
+    loadOpenDyslexicFont();
     document.body.classList.add('opendyslexic-enabled');
   } else {
     document.body.classList.remove('opendyslexic-enabled');

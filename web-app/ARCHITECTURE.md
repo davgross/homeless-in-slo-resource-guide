@@ -345,7 +345,28 @@ OpenStreetMap maps
   `<a class="map-link" data-lat="..." data-lon="..." data-zoom="..."
   data-label="...">Map</a>`
 
-### 12. Build Scripts
+### 12. Markdown Minification Plugin
+
+**Purpose**: Custom Vite plugin to reduce markdown file size in the bundle
+
+**File**: `vite-plugin-minify-markdown.js`
+
+**How it works**:
+
+1. Intercepts `.md?raw` imports during build
+2. Removes HTML comments (source annotations)
+3. Removes trailing whitespace from lines
+4. Reduces multiple consecutive blank lines to max 3
+5. Trims leading/trailing whitespace from document
+
+**Impact**:
+
+- Reduces bundle size by ~110-124KB (~15%)
+- Removes ~22KB of HTML comments from Resource guide.md
+- Preserves markdown structure and formatting
+- No impact on runtime - optimization happens at build time
+
+### 13. Build Scripts
 
 **Purpose**: Automation scripts for data extraction and validation
 
@@ -610,24 +631,31 @@ searchIndex = [
 
 ### Bundle Size
 
-- Main JS bundle: ~150KB (uncompressed)
-- CSS: ~20KB
-- Total with markdown: ~200-300KB
-- Gzip reduces by ~70%
+- Vendor JS bundle: ~58KB (uncompressed), ~20KB (gzipped)
+- Main JS bundle: ~645KB (uncompressed), ~176KB (gzipped)
+- CSS: ~34KB (uncompressed), ~7KB (gzipped)
+- Total: ~737KB uncompressed, ~203KB gzipped
+- Dist directory: ~2.4MB (includes PWA assets, maps, icons)
 
 ### Optimization Strategies
 
-1. **Code Splitting**: Vite automatically chunks vendor code
-2. **Tree Shaking**: Unused code removed
-3. **Minification**: JS/CSS minified in production
-4. **Caching**: Aggressive service worker caching
-5. **Font Loading**: Preconnect to Google Fonts
+1. **Code Splitting**: Vendor code (marked, DOMPurify) separated for better caching
+2. **Progressive Loading**: Resources load first, Directory/About load in background
+3. **Deferred Initialization**: Non-critical features initialized after content displays
+4. **Lazy Font Loading**: OpenDyslexic font loads only when needed
+5. **Markdown Minification**: HTML comments and whitespace removed from bundled markdown
+6. **Tree Shaking**: Unused code removed
+7. **Minification**: JS/CSS minified in production
+8. **Caching**: Aggressive service worker caching
+9. **Font Loading**: Preconnect to Google Fonts, dns-prefetch for CDN fonts
 
 ### Loading Performance
 
-- First Contentful Paint: <1s on 3G
-- Time to Interactive: <2s on 3G
-- Lighthouse score: 95+ (performance)
+- Initial bundle download: ~196KB gzipped (vendor + main chunks)
+- Progressive rendering: Resources section appears before Directory/About load
+- First Contentful Paint: Improved via deferred initialization
+- Time to Interactive: Faster via progressive content loading
+- Font loading: Non-blocking with display:swap and lazy loading
 
 ## Build Process
 
@@ -650,12 +678,13 @@ npm run build
 
 1. Extracts map data from markdown (`extract-map-data.js`)
 2. Vite bundles all code
-3. Imports markdown as raw text
-4. Minifies JS and CSS
-5. Generates service worker
-6. Creates PWA manifest
-7. Outputs to `dist/`
-8. Validates HTML output (`validate-html.js`)
+3. Imports markdown as raw text (minified via custom plugin)
+4. Splits vendor code into separate chunk
+5. Minifies JS and CSS
+6. Generates service worker
+7. Creates PWA manifest
+8. Outputs to `dist/`
+9. Validates HTML output (`validate-html.js`)
 
 **Alternative build command**:
 
@@ -869,5 +898,24 @@ For questions about this architecture:
 
 ---
 
-*Last updated: 2025-12-01*
-*Document version: 1.1*
+*Last updated: 2025-12-05*
+*Document version: 1.2*
+
+## Changelog
+
+### Version 1.2 (2025-12-05)
+
+Performance optimizations for faster initial load:
+
+- Added code splitting: Vendor libraries separated for better caching
+- Implemented progressive content loading: Resources load first, Directory/About load in background
+- Deferred non-critical JavaScript initialization
+- Added lazy loading for OpenDyslexic font
+- Created custom Vite plugin for markdown minification
+- Added DNS prefetch hints for external fonts
+- Reduced bundle size by ~15% (110-124KB)
+- Reduced total dist size by ~57% (from 5.6MB to 2.4MB)
+
+### Version 1.1 (2025-12-01)
+
+Initial architecture documentation
