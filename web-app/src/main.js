@@ -652,6 +652,8 @@ function setupMapLinks(container) {
     // Set default href to OpenStreetMap
     const osmUrl = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=${zoom}/${lat}/${lon}`;
     link.href = osmUrl;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
 
     // Add onclick handler for platform-specific behavior
     link.onclick = function() {
