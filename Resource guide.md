@@ -790,47 +790,74 @@ Visit [findfoodslo.org](https://findfoodslo.org/) for a complete list and schedu
 
 ### <a id="summer-meal-sites">Summer Meal Sites (for Children)</a>
 
-The California Department of Education has a “Summer Food Service Program” to help children during the Summer school break who usually get meals at school.
-This program is open to all children in the community.
+The California Department of Education has a “Summer Food Service Program” to help children during the Summer school break who usually get meals at school. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp -->
+This program is open to all children in the community. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp Strictly speaking, only "open sites" that participate in this program are open to all children in the community; there are also closed/enrolled sites and camp sites that are more restricted -->
 You can find a list of [Summer Meal Sites](https://www.cde.ca.gov/ds/sh/sn/summersites.asp) in San Luis Obispo County at the California Department of Education website.
 
 ### <a id="senior-meal-programs">Senior Meal Programs</a>
 
-[**Meals that Connect**](Directory.md#Meals-that-Connect) has several sites in SLO County where they serve free, hot communal lunches every weekday.
-The program is for people aged 60 and above.
-You must fill out an application to join the program, and you must reserve your meals two days in advance.
-They also can deliver meals to your home if you are homebound.
+[**Meals that Connect**](Directory.md#Meals-that-Connect) has several sites in SLO County where they serve free, hot communal lunches every weekday. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#dining-sites -->
+The program is for people aged 60 and above. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#eligibility -->
+You must fill out an application to join the program, and you must reserve your meals two days in advance. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/ -->
+They also can deliver meals to your home if you are homebound. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 
-[**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) is a similar program specific to the Five Cities area that provides daily meals, delivered to the homes of people who cannot prepare nutritious meals for themselves and do not have caretakers who can do so.
-They serve homebound neighbors in Arroyo Grande, Grover Beach, Oceano, Pismo Beach, and Shell Beach.
-They serve seniors and people with temporary or permanent disabilities.
+[**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) is a similar program specific to the Five Cities area that provides daily meals, delivered to the homes of people who cannot prepare nutritious meals for themselves and do not have caretakers who can do so. <!-- Source: https://www.5citiesmow.com/services.html -->
+They serve homebound neighbors in Arroyo Grande, Grover Beach, Oceano, Pismo Beach, and Shell Beach. <!-- Source: https://www.5citiesmow.com/services.html -->
+They serve seniors and people with temporary or permanent disabilities. <!-- Source: https://www.5citiesmow.com/services.html -->
 
-Low-income seniors (aged 60 and above) can get $20–50 in credit to use at participating farmers markets from the California Department of Food and Agriculture.
+Low-income seniors (aged 60 and above) can get $20–50 in credit to use at participating farmers markets from the California Department of Food and Agriculture. <!-- Source (age eligibility): https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/docs/SFMNP_eligibility_requirements.pdf -->
 There is limited availability, so if the program runs out of credits you may have to wait until their next budget to apply.
 Learn more about the program and apply to join it at [their website](https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/).
+Qualifying farmers markets include: <!-- Source: https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/docs/SFMNP-List_of_WIC-markets.pdf and https://ecologycenter.org/fmfinder/ -->
+
+| Location           | When                |
+| ------------------ | ------------------- |
+| Arroyo Grande      | Saturday afternoon  |
+| Arroyo Grande      | Wednesday morning   |
+| Atascadero         | Wednesday afternoon |
+| Cambria            | Friday afternoon    |
+| Los Osos (Baywood) | Monday afternoon    |
+| Morro Bay          | Saturday afternoon  |
+| Morro Bay          | Thursday afternoon  |
+| Paso Robles        | Tuesday morning     |
+| SLO (downtown)     | Thursday evening    |
+| SLO (Madonna)      | Saturday morning    |
+| SLO (Tank Farm)    | Tuesday afternoon   |
+| Templeton          | Saturday morning    |
 
 ### <a id="calfresh-ebt-wic">CalFresh / EBT (Food Stamps) and WIC</a>
 
-The CalFresh program is California’s version of the federal nutrition program known as “SNAP” or “food stamps.”
-If you have a low income, California gives you an “EBT card” which you can use like a debit card at grocery stores and farmers markets to buy healthy foods.
+The CalFresh program is California’s version of the federal nutrition program known as “SNAP” or “food stamps.” <!-- Source: https://www.getcalfresh.org/ -->
+If you have a low income, California gives you an “EBT card” which you can use like a debit card at grocery stores and farmers markets to buy healthy foods. <!-- Source: https://www.getcalfresh.org/ -->
 
 You can apply for CalFresh on-line at either of the following sites:
 
-- [BenefitsCal.com](https://benefitscal.com/)
-- [GetCalFresh.org](https://www.getcalfresh.org/)
+- [BenefitsCal.com](https://benefitscal.com/) <!-- Source: https://www.getcalfresh.org/ -->
+- [GetCalFresh.org](https://www.getcalfresh.org/) <!-- Source: https://www.getcalfresh.org/ -->
 
-You can also apply in person at the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
+You can also apply in person at the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/calfresh/services/calfresh-food-assistance -->
 
 If you are a Cal Poly student, you can get assistance from the [Cal Poly CalFresh Program](https://www.calfreshcalpoly.org/).
 
-You will need some identification document, proof of income, and (for students) indication of student status, and (for non-citizens) immigration status.
+You will need some identification document, proof of income, and (for students) indication of student status, and (for non-citizens) immigration status. <!-- Source: https://www.getcalfresh.org/en/faq -->
 Suitable proof of income includes pay stubs from last 30 days, an employer letter on company letterhead, tax forms (1040, W-2, 1099), self-employment profit/loss statement or ledger, or a signed written statement if you do not have those documents.
 See [calfresh.guide](https://calfresh.guide/verifications-the-calfresh-office-requires/) for more details.
 
-Some local farmers markets will double up to $15 in CalFresh benefits that you spend at the market, so you can get twice as much food for your money.
-See [slocountyfarmers.org](https://www.slocountyfarmers.org/snap) for details.
+Some local farmers markets will double up to $15 in CalFresh benefits that you spend at the market, so you can get twice as much food for your money (see [slocountyfarmers.org](https://www.slocountyfarmers.org/snap) for details): <!-- Source: https://ecologycenter.org/fmfinder/ -->
 
-The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also provides E-WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries.
+| Location           | When                |
+| ------------------ | ------------------- |
+| Arroyo Grande      | Wednesday morning   |
+| Atascadero         | Wednesday afternoon |
+| Cambria            | Friday afternoon    |
+| Los Osos (Baywood) | Monday afternoon    |
+| Morro Bay          | Thursday afternoon  |
+| Paso Robles        | Tuesday morning     |
+| SLO (downtown)     | Thursday evening    |
+| SLO (Madonna)      | Saturday morning    |
+| Templeton          | Saturday morning    |
+
+The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also provides E-WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries. <!-- Sources: https://www.osi.ca.gov/eWIC.html and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
 
 ### <a id="edible-wild-plants">Edible Wild Plants</a>
 
@@ -844,25 +871,25 @@ Don’t forage plants from waste sites, stagnant water areas, or areas subject t
 
 Some common edible plants in SLO County are:
 
-| Plant                                                                              | Season        | Edible Part |
-| ---------------------------------------------------------------------------------- | ------------- | ----------- |
-| [Beach Strawberry](https://pfaf.org/user/Plant.aspx?LatinName=Fragaria+chiloensis) | Spring–Summer | Berries |
-| [Blackberries](https://ediblewild.info/plants/brambleberries)                      | Summer        | Berries |
-| [Bulrush](https://plants.usda.gov/plant-profile/SCMI2)                             | All year      | Most parts, but should be cooked |
-| [Cattail](https://plants.usda.gov/plant-profile/TYLA)                              | All year      | Most parts, but should be cooked |
-| [Chaparral Currant](https://plants.usda.gov/plant-profile/RIMA)                    | Spring        | Berries |
-| [Chia](https://plants.usda.gov/plant-profile/SACO6)                                | Fall          | Seeds |
-| [Chinquapin](https://plants.usda.gov/plant-profile/CHCHC4)                         | Fall          | Nuts |
-| [Chufa/Nutgrass](https://pfaf.org/user/plant.aspx?LatinName=Cyperus+esculentus)    | Fall          | Tubers |
-| [Dandelion](https://pfaf.org/user/plant.aspx?LatinName=Taraxacum+officinale)       | Spring–Fall   | All parts |
-| [Gooseberry](https://plants.usda.gov/plant-profile/RISP)                           | Spring        | Berries |
-| [Hollyleaf Cherry](https://plants.usda.gov/plant-profile/PRIL)                     | Summer–Fall   | Berries |
-| [Miner’s Lettuce](https://pfaf.org/user/Plant.aspx?LatinName=Claytonia+perfoliata) | All year      | All parts |
-| [Nasturtium](https://foragerchef.com/nasturtium-leaves-and-flowers-2/)             | Spring–Summer | Flowers and leaves |
-| [Prickly Pear](https://en.wikipedia.org/wiki/Opuntia)                              | Summer–Fall   | Fruit (but covered in annoying spines) |
-| [Thimbleberry](https://plants.usda.gov/plant-profile/RUPAV)                        | Summer        | Berries |
-| [Watercress](https://plants.usda.gov/plant-profile/NAOF)                           | Spring–Summer | Leaves |
-| [Wild Mustard](https://ediblewild.info/plants/mustard)                             | Spring        | Flowers and leaves |
+| Plant                                                                 | Season        | Edible Part |
+| --------------------------------------------------------------------- | ------------- | ----------- |
+| [Beach Strawberry](https://en.wikipedia.org/wiki/Fragaria_chiloensis) | Spring–Summer | Berries |
+| [Blackberries](https://en.wikipedia.org/wiki/Rubus_ursinus)           | Summer        | Berries |
+| [Bulrush](https://en.wikipedia.org/wiki/Scirpus_microcarpus)          | All year      | Most parts, but should be cooked |
+| [Cattail](https://en.wikipedia.org/wiki/Typha_latifolia)              | All year      | Most parts, but should be cooked |
+| [Chaparral Currant](https://en.wikipedia.org/wiki/Ribes_malvaceum)    | Spring        | Berries |
+| [Chia](https://en.wikipedia.org/wiki/Salvia_columbariae)              | Fall          | Seeds |
+| [Chinquapin](https://en.wikipedia.org/wiki/Chrysolepis_chrysophylla)  | Fall          | Nuts |
+| [Chufa/Nutgrass](https://en.wikipedia.org/wiki/Cyperus_esculentus)    | Fall          | Tubers |
+| [Dandelion](https://en.wikipedia.org/wiki/Taraxacum_officinale)       | Spring–Fall   | All parts |
+| [Gooseberry](https://en.wikipedia.org/wiki/Gooseberry)                | Spring        | Berries |
+| [Hollyleaf Cherry](https://en.wikipedia.org/wiki/Prunus_ilicifolia)   | Summer–Fall   | Berries |
+| [Miner’s Lettuce](https://en.wikipedia.org/wiki/Claytonia_perfoliata) | All year      | All parts |
+| [Nasturtium](https://en.wikipedia.org/wiki/Tropaeolum_majus)          | Spring–Summer | Flowers and leaves |
+| [Prickly Pear](https://en.wikipedia.org/wiki/Opuntia)                 | Summer–Fall   | Fruit (but covered in annoying spines) |
+| [Thimbleberry](https://en.wikipedia.org/wiki/Rubus_parviflorus)       | Summer        | Berries |
+| [Watercress](https://en.wikipedia.org/wiki/Watercress)                | Spring–Summer | Leaves |
+| [Wild Mustard](https://en.wikipedia.org/wiki/Mustard_plant)           | Spring        | Flowers and leaves |
 
 Sometimes you will also see edible fruit trees like plums or cherries on sidewalks, in parks, or in other public places.
 
@@ -879,6 +906,22 @@ The city of SLO also has a water bottle filling station network.
 Some of these stations are inside buildings and are only accessible when the building is open for business.
 Others are outside and are available 24/7.
 You can find a map of these hydration stations [at this link](https://storymaps.arcgis.com/stories/ac825840143c4d718e06397d5306fa89) or at [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ojOfK6l3mkAh6JIfFJZwA5ej5Qj232No&ll=35.27079109833796%2C-120.65453885&z=15).
+
+| Location                                                                                                                                      | How to find it       | Hours |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----- |
+| <a href="#" class="map-link" data-lat="35.251283" data-lon="-120.645911" data-zoom="17" data-label="Hydration Station">Damon/Garcia field</a> | across from restroom | 24/7 |
+| <a href="#" class="map-link" data-lat="35.280356" data-lon="-120.662272" data-zoom="17" data-label="Hydration Station">872 Higuera St.</a>    | outside              | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2795637" data-lon="-120.6613599" data-zoom="17" data-label="Hydration Station">893 Marsh St.</a>    | outside              | 24/7 |
+| <a href="#" class="map-link" data-lat="35.282128" data-lon="-120.662857" data-zoom="17" data-label="Hydration Station">919 Palm St.</a>       | just inside the door | M–F 8am–4pm |
+| <a href="#" class="map-link" data-lat="35.2828735" data-lon="-120.6626363" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>    | down the hall        | M–F 8am–5pm |
+| <a href="#" class="map-link" data-lat="35.2827766" data-lon="-120.662756" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>     | down the hall        | M–F 8am–5pm |
+| <a href="#" class="map-link" data-lat="35.2827536" data-lon="-120.6626956" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>    | downstairs           | M–F 8am–5pm |
+| <a href="#" class="map-link" data-lat="35.2897302" data-lon="-120.6643515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | near parking lot     | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | near skate park      | 24/7 |
+| <a href="#" class="map-link" data-lat="35.284345" data-lon="-120.660815" data-zoom="17" data-label="Hydration Station">864 Santa Rosa St.</a> | inside, near gym     | M–F 9am–6pm |
+| <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | near playground      | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2673584" data-lon="-120.6467609" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | outside statium      | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2666459" data-lon="-120.6446262" data-zoom="17" data-label="Hydration Station">900 Southwood</a>    | in the swim center   | M–F 6–8am, 11:30–3:30pm, 5:30–7pm; Sa/Su 11:30–1:30pm |
 
 -----
 
