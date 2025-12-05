@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
+import minifyMarkdown from './vite-plugin-minify-markdown.js';
 
 export default defineConfig({
   base: './',
@@ -10,8 +11,17 @@ export default defineConfig({
     target: 'esnext',
     // Allow importing markdown files as raw text
     assetsInlineLimit: 0,
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          // Split vendor dependencies into separate chunk
+          'vendor': ['marked', 'dompurify'],
+        }
+      }
+    }
   },
   plugins: [
+    minifyMarkdown(),
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png', 'icon-192-maskable.png', 'icon-512-maskable.png'],
