@@ -690,19 +690,27 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 
 ### <a id="free-meals">Free Meals</a>
 
-| Location     | Meal Provider                                                              | When                     |
-| ------------ | -------------------------------------------------------------------------- | ------------------------ |
-| Atascadero   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm daily                |
-| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 6pm Tuesday & Wednesday  |
-| Cal Poly     | [**Front Porch**](Directory.md#Front-Porch)                                | Wednesday dinner         |
-| Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily         |
-| Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesday            |
-| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 4:30pm Monday            |
-| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm daily             |
-| SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am Thursday            |
-| SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 4:30pm Monday & Thursday |
-| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm Thursday             |
-| SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | noon lunch daily         |
+<!-- Sources
+ ECHO, Refuge Church, PKGB, PKSLO (40 Prado): https://slofoodbank.org/wp-content/uploads/2025/11/ENG_December_DistributionResourceList.pdf
+ Front Porch: https://www.frontporchslo.org/wednesday-night-dinners
+ Los Osos Cares: https://www.losososcares.com/programs
+ Morro Bay Lions: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/
+ Blessed to Serve:
+ Food Not Bombs:
+-->
+| Location     | Meal Provider                                                              | When                          |
+| ------------ | -------------------------------------------------------------------------- | ----------------------------- |
+| Atascadero   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm daily                     |
+| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 5pm Tuesdays & 6pm Wednesdays |
+| Cal Poly     | [**Front Porch**](Directory.md#Front-Porch)                                | Wednesday dinner              |
+| Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily              |
+| Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesdays                |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 5:30pm Mondays                |
+| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm daily                  |
+| SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am most Thursdays           |
+| SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 5pm Mondays & Thursdays       |
+| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm Thursdays                 |
+| SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | noon lunch daily              |
 
 ### <a id="free-food-pantries">Free Food Pantries</a>
 
@@ -710,50 +718,59 @@ Food pantries give away unprepared food (such as fresh produce, canned goods, an
 Some pantries have special no-cook, no-refrigeration, ready-to-eat options for people who do not have access to kitchens.
 Some give you a pre-prepared box or bag of food, others allow you to select particular items you want.
 
-| Location      | Pantry                                                                                              | Days |
-| ------------- | --------------------------------------------------------------------------------------------------- | ---- |
-| Arroyo Grande | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                     | Fridays |
-| Arroyo Grande | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church)                                       | Tuesday–Thursday |
-| Arroyo Grande | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Mondays, Wednesdays, Fridays |
-| Atascadero    | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)                                     | any time |
-| Atascadero    | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                       | Thursdays |
-| Atascadero    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero)                                  | Monday–Friday |
-| Atascadero    | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                             | Tuesday & Wednesday eves. or by appt. |
-| Atascadero    | [**Restoration Church**](Directory.md#Restoration-Church)                                           | first Saturday of the month |
-| Cal Poly      | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry)                                       | Monday–Friday |
-| Cambria       | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                 | 2nd & 4th Thursday |
-| Cayucos       | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                               | Wednesdays |
-| Cayucos       | [**St. Joseph’s Catholic Church**](Directory.md#St-Jospehs-Church)                                  | Fridays (Thursdays by appt.) |
-| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) *must be a Cuesta student* | Monday–Friday |
-| Grover Beach  | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) | Monday–Friday |
-| Los Osos      | [**King’s Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                               | Tuesdays |
-| Los Osos      | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) | Wednesdays |
-| Los Osos      | [**Trinity United Methodist Church (Los Osos)**](Directory.md#Trinity-United-Methodist-Church)      | Tuesdays & Fridays |
-| Morro Bay     | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                | Saturdays |
-| Morro Bay     | Perfect Union, <a href="#" class="map-link" data-lat="35.365926" data-lon="-120.836902" data-zoom="17" data-label="Little Free Pantry">1000 Quintana Rd.</a> *must be age 18+*; tell security you’re here for food | daily, 8am–9pm |
-| Nipomo        | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket)                                           | M/Tu/Th/F |
-| Nipomo        | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)           | Saturdays |
-| Paso Robles   | [**Cuesta College**](Directory.md#Cuesta-College)                                                   | Monday–Friday |
-| Paso Robles   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)                                     | any time |
-| Paso Robles   | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                 | Monday–Thursday |
-| Paso Robles   | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center)                             | 2nd & 4th Tuesday |
-| Paso Robles   | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Tuesdays |
-| Paso Robles   | The Link, <a href="#" class="map-link" data-lat="35.639659" data-lon="-120.692709" data-zoom="17" data-label="The Link">626 26th St.</a> admin building #1, [805-503-9638](tel:+1-805-503-9638) | M–Th 9am–3pm; F 9am–1pm |
-| Pismo Beach   | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry)                                   | Tuesday–Thursday |
-| San Miguel    | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-2131&#xA0;x115](tel:+1-805-467-2131;ext=115) | 1st, 3rd, & 5th Wednesday, 5–6pm |
-| SLO           | [**Agape Church**](Directory.md#Agape-Church)                                                       | Tuesdays & Sundays |
-| SLO           | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                         | Mondays |
-| SLO           | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | Tuesdays 2pm, or by appt. |
-| SLO           | [**GALA Pride & Diversity Center**](Directory.md#GALA)                                              | Monday–Friday |
-| SLO           | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                      | Saturdays |
-| SLO           | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)               | Monday–Friday |
-| SLO           | [**Renovate Church**](Directory.md#Renovate-Church)                                                 | Mondays |
-| SLO           | [**Salvation Army**](Directory.md#Salvation-Army)                                                   | Wednesday–Friday |
-| SLO           | [**SLO Food Bank**](Directory.md#SLO-Food-Bank)                                                     | Mondays, Wednesdays, Fridays |
-| SLO           | [**SLO Grassroots**](Directory.md#SLO-Grassroots)                                                   | by appointment only |
-| SLO           | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) “We Care Food Share”              | Wednesdays |
-| SLO           | [**Veterans Services**](Directory.md#Veterans-Services) (for veterans only)                         | daily 8am–5pm |
-| SLO           | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                       | Wednesdays |
+<!-- Sources
+ AGNCP, AGSPC, AGSA, AtLCP, AtLaF, AtRC, CamVC, CayCC, CaySJCC, GB5CCW, LOKC, LOPHP, LOTUMC, MBLF, MBOAP, NFB, NSMVHC, PRSA, PRSC, PRtL, PBNL, SLOFB, SLOAC, SLOBM, SLOACC, SLOGCC, SLORC, SLOSA, SLOUU, SLOZLC : https://slofoodbank.org/wp-content/uploads/2025/11/ENG_December_DistributionResourceList.pdf
+ Cal Poly Food Pantry: https://basicneeds.calpoly.edu/foodpantry
+ Cuesta Cougar Food Pantries: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html
+ PRLaF: https://loavesandfishespaso.org/
+ SLOGALA: https://www.instagram.com/p/DQuP1WsEgoh/
+ Outreach & Engagement: I visited and saw the pantry -DG
+ SLO Grassroots:
+ SLO Veterans Services: https://www.slocounty.ca.gov/departments/veterans-services/veterans-services-food-pantry
+-->
+| Location       | Pantry                                                                                                                                                 | When |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| Arroyo Grande  | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                                                                        | Fridays 12:45–1:30pm |
+| Arroyo Grande  | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church) (South County residents only; bring photo ID)                                            | Tuesday–Thursday 4–5pm |
+| Arroyo Grande  | [**Salvation Army**](Directory.md#Salvation-Army)                                                                                                      | Mondays, Wednesdays, Fridays 10am–Noon |
+| Atascadero     | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                                                                          | Thursdays 1–2pm |
+| Atascadero     | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero) (North County residents only)                                                       | Monday–Friday 1–3pm |
+| Atascadero     | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                                                                                | Tuesday 5–6pm & Wednesday 6–6:30pm, or by appt. |
+| Atascadero     | [**Restoration Church**](Directory.md#Restoration-Church)                                                                                              | first Saturday of the month 1–2:30pm |
+| Cal Poly       | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) (for Cal Poly students and staff)                                                        | Monday–Friday 8:30am–6pm |
+| Cambria        | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                                                                    | 2nd & 4th Thursday Noon–2pm |
+| Cayucos        | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                                                                                  | Wednesdays 10:30–11am |
+| Cayucos        | [**St. Joseph’s Catholic Church**](Directory.md#St-Jospehs-Church)                                                                                     | Fridays 10am–Noon (Thursdays 7:30–7:45 by appt.) |
+| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) (must be a Cuesta student)  | Monday–Friday 9am–4:30pm |
+| Grover Beach   | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) (bring photo ID)                                   | Monday–Friday 2–3:30pm |
+| Los Osos       | [**King’s Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | Tuesdays 8–10am |
+| Los Osos       | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People)                                                    | Wednesdays 9:30–10:30am |
+| Los Osos       | [**Trinity United Methodist Church (Los Osos)**](Directory.md#Trinity-United-Methodist-Church)                                                         | Tuesdays & Fridays 10am–Noon |
+| Morro Bay      | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)                                                                              | 4:30–6:30pm Mondays |
+| Morro Bay      | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                                                                   | Saturdays 9:30–10:30am |
+| Nipomo         | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket) (Nipomo residents only)                                                                      | M/Tu/Th/F 10am–1pm |
+| Nipomo         | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)                                                              | Saturdays 11am–12:30pm |
+| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College)                                                                                                      | Monday–Friday 9am–5pm |
+| Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | Monday–Thursday 2–4pm (or by appt.)|
+| Paso Robles    | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (for seniors)                                                                  | 2nd & 4th Tuesday 9:30–11am |
+| Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (bring photo ID)                                                                                     | Tuesdays 10–11am |
+| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.639659" data-lon="-120.692709" data-zoom="17" data-label="The Link">626 26th St.</a> admin building #1, [805-503-9638](tel:+1-805-503-9638) | M–Th 9am–3pm; F 9am–1pm |
+| Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visit per household per week; bring photo ID)                                     | Tu 6–7pm, W 10am–Noon, Th 1:30–3:30pm |
+| San Miguel     | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-2131&#xA0;x115](tel:+1-805-467-2131;ext=115) | 1st, 3rd, & 5th Wednesday, 5–6pm |
+| SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | Sundays Noon–12:30pm |
+| SLO            | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                                                                            | Mondays 2:30–4:30pm |
+| SLO            | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | Tuesdays 2–3pm, or by appt. |
+| SLO            | [**GALA Pride & Diversity Center**](Directory.md#GALA)                                                                                                 | Monday–Friday 10am–3pm |
+| SLO            | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                                                                         | Saturdays 8:30–9:15am |
+| SLO            | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)                                                                  | Monday–Friday 10am–3pm |
+| SLO            | [**Renovate Church**](Directory.md#Renovate-Church)                                                                                                    | Mondays 4–6pm |
+| SLO            | [**Salvation Army**](Directory.md#Salvation-Army) (bring photo ID)                                                                                     | W–F 10am–Noon + Th 2–4pm |
+| SLO            | [**SLO Food Bank**](Directory.md#SLO-Food-Bank)                                                                                                        | Mondays, Wednesdays, Fridays Noon–5pm |
+| SLO            | [**SLO Grassroots**](Directory.md#SLO-Grassroots)                                                                                                      | by appointment only |
+| SLO            | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) “We Care Food Share”                                                                 | Wednesdays 3–4:30pm |
+| SLO            | [**Veterans Services**](Directory.md#Veterans-Services) (for veterans only)                                                                            | daily 8am–5pm |
+| SLO            | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                                                                          | Wednesdays 9:30–11:30am |
+<!-- Unclear if this is permanent or just a Thanksgiving-season thing: | Morro Bay      | Perfect Union, <a href="#" class="map-link" data-lat="35.365926" data-lon="-120.836902" data-zoom="17" data-label="Perfect Union">1000 Quintana Rd.</a> (must be age 18+? 21+?; ask security for pantry) | daily, 8am–9pm | -->
 
 ### <a id="little-free-pantries">Little Free Pantries</a>
 
@@ -776,6 +793,7 @@ Visit [findfoodslo.org](https://findfoodslo.org/) for a complete list and schedu
 The California Department of Education has a “Summer Food Service Program” to help children during the Summer school break who usually get meals at school.
 This program is open to all children in the community.
 You can find a list of [Summer Meal Sites in San Luis Obispo County](https://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2025&countyname=San_Luis_Obispo) at the California Department of Education website.
+<!-- Note: this list is for Summer 2025, so is of limited usefulness. I couldn't find a 2026 list. Link will appear here probably when it is available: https://www.cde.ca.gov/ds/sh/sn/summersites.asp -->
 
 ### <a id="senior-meal-programs">Senior Meal Programs</a>
 
