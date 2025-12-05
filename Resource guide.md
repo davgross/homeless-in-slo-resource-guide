@@ -9,15 +9,15 @@ This guide helps you find free and low-cost resources that can help you if you a
 It is specific to San Luis Obispo County.
 
 San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
-Fortunately, there is a lot of help available to people experiencing or threatened with homelessness in SLO County.
+Fortunately, there is a lot of help available.
 Unfortunately, it can be difficult to find this help or to understand how to access it.
 This guide makes it easier.
 
-The guide is organized into topics like “Shelter and housing” or “Food.”
+The guide is organized into sections like “Shelter and Housing” or “Food.”
 Each section briefly describes resources available in San Luis Obispo County.
 Many of these descriptions contain blue-highlighted, boldface links to the [**Directory**](?section=directory).
-This Directory page lists resources in alphabetical order, along with information like the website, phone number, email address, location, and operating hours of the resource.
-If you find a resource in the guide that seems it will be useful to you, click the boldface link to go to the directory and find out how to access that resource.
+This Directory page lists resources in alphabetical order, along with information like the website, phone number, email address, location, and operating hours.
+If you find a resource in the guide that may be useful to you, click the boldface link to go to the Directory and find out how to access that resource.
 
 This guide was created by volunteers from [**Shower the People**](Directory.md#Shower-the-People).
 If you want to suggest corrections or improvements, or to join our development team, contact us at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
@@ -278,7 +278,7 @@ The first step in this process is to apply for CalWORKs, which you can do on-lin
 
 [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers financial assistance for rent, security deposit, or other immediate needs for people who are homeless in danger of becoming homeless. <!-- https://5chc.org/programs/housing-assistance -->
 Contact 5CHC to arrange a confidential coordinated entry interview. <!-- https://5chc.org/programs/housing-assistance -->
-You will need to bring identification, including social security cards and birth certificates for you and those living with you, an account of how much income you have received during the previous three months, your lease agreement if any, and any eviction notice you received.
+You need to bring identification, including social security cards and birth certificates for you and those living with you, an account of how much income you have received during the previous three months, your lease agreement if any, and any eviction notice you received.
 
 > See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help) section for options about preventing illegal evictions.
 
@@ -764,7 +764,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | SLO            | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                                                                         | Saturdays 8:30–9:15am |
 | SLO            | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)                                                                  | Monday–Friday 10am–3pm |
 | SLO            | [**Renovate Church**](Directory.md#Renovate-Church)                                                                                                    | Mondays 4–6pm |
-| SLO            | [**Salvation Army**](Directory.md#Salvation-Army) (bring photo ID)                                                                                     | W–F 10am–Noon + Th 2–4pm |
+| SLO            | [**Salvation Army**](Directory.md#Salvation-Army) (bring photo ID)                                                                                     | W/F 10am–Noon, Th 2–4pm |
 | SLO            | [**SLO Food Bank**](Directory.md#SLO-Food-Bank)                                                                                                        | Mondays, Wednesdays, Fridays Noon–5pm |
 | SLO            | [**SLO Grassroots**](Directory.md#SLO-Grassroots)                                                                                                      | by appointment only |
 | SLO            | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) “We Care Food Share”                                                                 | Wednesdays 3–4:30pm |
@@ -792,8 +792,7 @@ Visit [findfoodslo.org](https://findfoodslo.org/) for a complete list and schedu
 
 The California Department of Education has a “Summer Food Service Program” to help children during the Summer school break who usually get meals at school.
 This program is open to all children in the community.
-You can find a list of [Summer Meal Sites in San Luis Obispo County](https://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2025&countyname=San_Luis_Obispo) at the California Department of Education website.
-<!-- Note: this list is for Summer 2025, so is of limited usefulness. I couldn't find a 2026 list. Link will appear here probably when it is available: https://www.cde.ca.gov/ds/sh/sn/summersites.asp -->
+You can find a list of [Summer Meal Sites](https://www.cde.ca.gov/ds/sh/sn/summersites.asp) in San Luis Obispo County at the California Department of Education website.
 
 ### <a id="senior-meal-programs">Senior Meal Programs</a>
 
