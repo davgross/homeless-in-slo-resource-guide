@@ -1232,7 +1232,7 @@ Membership is not free, but the YMCA policy is that “no one is denied membersh
 Ask them about options for people with low incomes.
 
 The [SLO Swim Center](https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center), which costs $4.75 to enter <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center -->
-(but is free to YMCA members during public swim session times), <!-- SOURCE NEEDED -->
+(but is free to YMCA members during public swim session times), <!-- Source: https://www.slocity.org/services/how-do-i/faqs -->
 has showers. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center -->
 
 Some SLO County parks have coin-operated shower facilities, including [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ -->
