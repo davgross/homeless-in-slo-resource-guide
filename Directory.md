@@ -50,7 +50,7 @@
    - operates [**Cabins for Change**](#Cabins-for-Change) and “Balay Ko on Barka” a.k.a. “My Home for Hope”
    - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
    - operates “Homeless Youth Outreach”
-   - hosts the “Pet Resource Center” of [**C.A.R.E.4Paws**](#C.A.R.E.4Paws)
+   - hosts the “Pet Resource Center” of [**C.A.R.E.4Paws**](#C.A.R.E.4Paws) <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
 ## 70 Now
@@ -638,20 +638,19 @@
 
 ## <a id="C.A.R.E.4Paws">C.A.R.E.4Paws</a>
 
-<!-- Note: I was not able to find "Pet Resource Center" info on either the care4paws.org or the 5chc.org websites -->
 - **Website:** [care4paws.org](https://care4paws.org/)
 - **Location:** mobile clinics
-   - Pet Resource Center: 100 S. 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.121203" data-lon="-120.626739" data-zoom="17" data-label="C.A.R.E.4Paws">Map</a>
+   - Pet Resource Center: 100 S. 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.121203" data-lon="-120.626739" data-zoom="17" data-label="C.A.R.E.4Paws">Map</a> <!-- Source: https://care4paws.org/help-for-unhoused-families/?utm_source=chatgpt.com -->
 - **Phone:** [805-968-CARE](tel:+1-805-968-2273) <!-- Source: https://care4paws.org/ -->
 - **Email:**
    - [info@care4paws.org](mailto:info@care4paws.org) <!-- Source: https://care4paws.org/ -->
    - [outreach@care4paws.org](mailto:outreach@care4paws.org)
 - **Hours:**
    - [Mobile Clinics Schedule](https://care4paws.org/clinics)
-   - Pet Resource Center: M–Th 9am–5pm, F 11am–5pm
+   - Pet Resource Center: M–Th 9am–5pm, F 11am–5pm <!-- Source: https://care4paws.org/help-for-unhoused-families/?utm_source=chatgpt.com -->
 - Notes:
    - Partners with “The Street Dog Coalition”
-   - Operates the “Pet Resource Center” with [**5Cities Homeless Coalition**](#5CHC)
+   - Operates the “Pet Resource Center” with [**5Cities Homeless Coalition**](#5CHC) <!-- Source: https://care4paws.org/help-for-unhoused-families/?utm_source=chatgpt.com -->
 
 ## <a id="Carbon-Health-Urgent-Care-Atascadero">Carbon Health Urgent Care (Atascadero)</a>
 
@@ -2904,9 +2903,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="St-Patricks-Shamrock-Thrift">St. Patrick’s Shamrock Thrift</a>
 
-- **Location:** 924 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121190" data-lon="-120.619932" data-zoom="17" data-label="St. Patrick’s Shamrock Thrift">Map</a> <!-- Source: https://www.yelp.com/biz/st-patricks-school-shamrock-thrift-shop-grover-beach -->
-- **Phone:** [805-481-0612](tel:+1-805-481-0612) <!-- Source: https://www.yelp.com/biz/st-patricks-school-shamrock-thrift-shop-grover-beach -->
-- **Hours:** Tu–Sa 10am–4pm <!-- Source: https://www.yelp.com/biz/st-patricks-school-shamrock-thrift-shop-grover-beach -->
+- **Location:** 924 W. Grand Ave., Grover Beach <a class="map-link" data-lat="35.121190" data-lon="-120.619932" data-zoom="17" data-label="St. Patrick’s Shamrock Thrift">Map</a> <!-- Source: https://5chc.org/community-services/clothing -->
+- **Phone:** [805-481-0612](tel:+1-805-481-0612) <!-- Source: https://5chc.org/community-services/clothing -->
+- **Hours:** Tu–Sa 10am–4pm <!-- Source: https://5chc.org/community-services/clothing -->
 
 ## <a id="Salvation-Army">Salvation Army</a>
 
