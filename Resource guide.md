@@ -329,7 +329,7 @@ You do not have to be a senior center member to shelter there when the cooling c
 
 If you are unsheltered and need a place to sleep tonight, these are some options:
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a hundred overnight shelter beds. <!-- SOURCE NEEDED -->
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a hundred overnight shelter beds. <!-- Source: https://capslo.org/wp-content/uploads/2023/05/CAPSLO-40-Prado-Goes-Green-May-2023.pdf?utm_source=chatgpt.com -->
 Many are reserved for people who have previously registered with 40 Prado, but a limited number are available on a walk-in basis. <!-- SOURCE NEEDED -->
 To get a bed, first come on-site and complete the intake process. <!-- SOURCE NEEDED -->
 Thereafter, on any day when you need an overnight shelter bed, check in to secure a bed or to be placed on the waiting list. <!-- SOURCE NEEDED -->
@@ -382,7 +382,7 @@ You will also have access to the various other services offered at 40 Prado (suc
 Your vehicle must be registered and you must have proof of insurance. <!-- Source: https://capslo.org/safe-parking/ -->
 You must participate in case management. <!-- Source: https://capslo.org/safe-parking/ -->
 You must not be a P.C. 290 registered sex offender to use this service. <!-- SOURCE NEEDED -->
-SLO county residents get priority. <!-- SOURCE NEEDED -->
+SLO county residents get priority. <!-- Source: https://friendsof40prado.org/safe-parking-program-expanded/ -->
 Contact Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) with questions. <!-- Source: https://capslo.org/safe-parking/ -->
 
 You can camp overnight legally at various [**SLO County Parks**](Directory.md#SLO-County-Parks), but for a fee (roughly $25–50 per night, plus a $10 reservation fee and sometimes also a per-vehicle fee). <!-- SOURCE NEEDED -->
@@ -614,7 +614,7 @@ Here are some residential treatment options in our area:
 
 If you need to securely store a small amount of property for a few hours or overnight, you have a few options:
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available for people who have completed intake for day services there. <!-- SOURCE NEEDED -->
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available <!-- Source: https://friendsof40prado.org/about/ --> for people who have completed intake for day services there. <!-- SOURCE NEEDED -->
 You must provide your own padlock. <!-- SOURCE NEEDED -->
 
 The commercial service [Bounce](https://bounce.com/) partners with multiple locations (in SLO County, these are typically UPS Stores) to offer short-term luggage storage that typically runs about $7 per day or $20–80 per month (depending on weight and size).
