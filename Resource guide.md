@@ -698,7 +698,7 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
  Los Osos Cares: https://www.losososcares.com/programs
  Morro Bay Lions: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/
  Blessed to Serve: SOURCE NEEDED
- Food Not Bombs: SOURCE NEEDED
+ Food Not Bombs: https://www.instagram.com/foodnotbombs_slo/
 -->
 | Location     | Meal Provider                                                              | When                          |
 | ------------ | -------------------------------------------------------------------------- | ----------------------------- |
@@ -711,7 +711,7 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 | Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm daily                  |
 | SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am most Thursdays           |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 5pm Mondays & Thursdays       |
-| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm Thursdays                 |
+| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm Sundays                   |
 | SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | noon lunch daily              |
 
 ### <a id="free-food-pantries">Free Food Pantries</a>
