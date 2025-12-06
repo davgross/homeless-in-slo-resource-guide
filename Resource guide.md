@@ -1113,33 +1113,35 @@ You can apply online at their website or by calling [866-272-9642](tel:+1-866-27
 
 ### <a id="free-clothes">Free Clothes</a>
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has some free clothing available, as does the associated [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services).
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has some free clothing available, <!-- SOURCE NEEDED (https://capslo.org/40pradodonations/ indicates that they are seeking donations of clothing though) -->
+as does the associated [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services). <!-- Source: visited in person and saw their clothing rack -DG -->
 
-The [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) can give eligible people vouchers to purchase clothing with.
+The [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) can give eligible people vouchers to purchase clothing with. <!-- SOURCE NEEDED (https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf says they offer "clothing assistance" T/W/Th 1–3pm) -->
 
-[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) has clothing, shoes, blankets, and sleeping bags for people who come to its shower program (M–F 4–5:30pm at their Atascadero and Paso Robles locations).
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) has clothing, shoes, blankets, and sleeping bags for people who come to its shower program (M–F 4–5:30pm at their Atascadero and Paso Robles locations). <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 
 <!-- verify
 Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can get free clothing from them and to make an appointment.
 -->
 
-[**Shower the People**](Directory.md#Shower-the-People) gives you new socks, underwear, and a t-shirt.
+[**Shower the People**](Directory.md#Shower-the-People) gives you new socks, underwear, and a t-shirt. <!-- Source: personal experience as volunteer -DG -->
 
-[**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of November 2025) is still looking for an office to operate from.
+[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) has a program that gives free winter clothes to area seniors. <!-- SOURCE NEEDED: not mentioned here: https://southbayseniorspeoplehelpingpeople.com/services/ -->
 
-[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) has a program that gives free winter clothes to area seniors.
+[**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of December 2025) they are still looking for an office to operate from.
+You have to make an appointment with them to view their inventory. <!-- Source: https://slograssroots.org/ -->
 
 #### <a id="free-clothes-for-kids">Free Clothes for Kids</a>
 
-The [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) has free clothing (and school supplies, books, diapers, and other basic resources) for children from birth to age 18.
+The [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) has free clothing (and school supplies, books, diapers, and other basic resources) for children from birth to age 18. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 Call their hotline, use the “Place a Request” form on their website, or visit during walk-in hours.
 They also operate the “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel” at which schoolchildren can get clothes and other supplies they need.
 
-[**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) operates the “Operation School Bell” program, which gives needy students credits with which they can shop for new retail school clothes.
-Ask authorities at the child’s school to refer them to the program.
+[**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) operates the “Operation School Bell” program, which gives needy students credits with which they can shop for new retail school clothes. <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
+Ask authorities at the child’s school to refer them to the program. <!-- SOURCE NEEDED -->
 
-[Coats for Kids of SLO County](https://www.coatsforkidsslocounty.org/) holds a once-a-year (December) distribution in Paso Robles of cold-weather clothes like coats, jackets, sweaters, and sweatshirts.
-See their website for details on the next distribution, or use their [contact form](https://www.coatsforkidsslocounty.org/contact) or call [805-703-1762](tel:+1-805-703-1762) with questions.
+[Coats for Kids of SLO County](https://www.coatsforkidsslocounty.org/) holds a once-a-year (December) distribution in Paso Robles of cold-weather clothes like coats, jackets, sweaters, and sweatshirts. <!-- Source: https://www.coatsforkidsslocounty.org/ -->
+See their website for details on the next distribution, or use their [contact form](https://www.coatsforkidsslocounty.org/contact) or call [805-703-1762](tel:+1-805-703-1762) with questions. <!-- Source: https://www.coatsforkidsslocounty.org/contact -->
 
 ### <a id="thrift-stores">Thrift Stores</a>
 
@@ -1193,14 +1195,14 @@ Thrift stores sell second-hand (used) clothing at low prices.
 
 ## <a id="laundry">Laundry</a>
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers free laundry facilities every day from 8am to 4pm.
-You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first.
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers free laundry facilities every day from 8am to 4pm. <!-- SOURCE NEEDED for hours -->
+You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first. <!-- SOURCE NEEDED -->
 
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the laundry facility at its Paso Robles location every Wednesday from 10am–6pm, at which you can do a single load of laundry for free (they provide detergent).
+The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the laundry facility at its Paso Robles location every Wednesday from 10am–6pm, at which outreach clients can do a single load of laundry for free (they provide detergent). <!-- Source: https://www.echoshelter.org/pasorobles -->
 
-[**Laundry Love**](Directory.md#Laundry-Love) operates at a Los Osos commercial laundry one day per month (check their website for the latest schedule).
-They allow anyone to do two free loads of laundry (five loads for a family), plus bedding.
-They provide the coins to feed the machines and the laundry detergent and dryer sheets.
+[**Laundry Love**](Directory.md#Laundry-Love) operates at a Los Osos commercial laundry on the last Wednesday of the month (check their website for the latest schedule). <!-- Source: https://laundrylove.org/find-a-location/ -->
+They allow anyone to do two free loads of laundry (five loads for a family), plus bedding. <!-- SOURCE NEEDED -->
+They provide the coins to feed the machines and the laundry detergent and dryer sheets. <!-- SOURCE NEEDED -->
 
 -----
 
@@ -1208,37 +1210,42 @@ They provide the coins to feed the machines and the laundry detergent and dryer 
 
 ### <a id="free-showers">Free Shower Services</a>
 
-[**Shower the People**](Directory.md#Shower-the-People) offers free showers from its mobile shower trailer several times a week in several locations in SLO city and in Grover Beach.
-They provide towels and soap.
-Guests also receive free toiletries, and new socks, underwear, and t-shirts.
-They operate rain-or-shine all year long including holidays.
-Check their website for the current schedule.
+[**Shower the People**](Directory.md#Shower-the-People) offers free showers from its mobile shower trailer several times a week in several locations in SLO city and in Grover Beach. <!-- Source: personal knowledge of program as volunteer -DG -->
+They provide towels and soap. <!-- Source: personal knowledge of program as volunteer -DG -->
+Guests also receive free toiletries, and new socks, underwear, and t-shirts. <!-- Source: personal knowledge of program as volunteer -DG -->
+They operate rain-or-shine all year long including holidays. <!-- Source: personal knowledge of program as volunteer -DG -->
 
-[**805 Street Outreach**](Directory.md#805-Street-Outreach) is a similar program that operates weekly in Morro Bay.
-They also have clothing and food for guests.
+[**805 Street Outreach**](Directory.md#805-Street-Outreach) is a similar program that operates every Monday in Morro Bay. <!-- Source: https://805streetoutreach.org/about-us -->
+They also have clothing and food for guests. <!-- Source: https://805streetoutreach.org/about-us -->
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in SLO city has shower facilities that it makes available to both its overnight and its day guests.
-You do not have to be a resident there to use the showers, but you do have to undergo their intake process.
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in SLO city has shower facilities that it makes available to both its overnight and its day guests. <!-- e.g. https://capslo.org/40-prado-warming-center/ -->
+You do not have to be a resident there to use the showers, but you do have to undergo their intake process. <!-- SOURCE NEEDED -->
 
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) offers hot showers five evenings a week (M–F 4–5:30pm) to anyone in need at both their Atascadero and their Paso Robles locations.
-They give you toiletries, and they also have clothing, shoes, blankets, and sleeping bags.
+The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) offers hot showers five evenings a week (M–F 4–5:30pm) to anyone in need at both their Atascadero and their Paso Robles locations. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
+They give you toiletries, and they also have clothing, shoes, blankets, and sleeping bags. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 
 ### <a id="pay-showers">Coin-Operated or Gym Membership Options</a>
 
 The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has shower facilities at their Southwood Ave. gym in SLO city.
 These are available to gym members.
-Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
+Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.” <!-- Source: https://www.ciymca.org/financial-assistance -->
 Ask them about options for people with low incomes.
 
-The [SLO Swim Center](https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center), which costs $4.75 to enter (but is free to YMCA members during public swim session times), has showers.
+The [SLO Swim Center](https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center), which costs $4.75 to enter <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center -->
+(but is free to YMCA members during public swim session times), <!-- SOURCE NEEDED -->
+has showers. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center -->
 
-Some SLO County parks have coin-operated shower facilities, including [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), [**Oceano Campground**](Directory.md#Oceano-Campground), and [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area)
+Some SLO County parks have coin-operated shower facilities, including [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ -->
+[**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <!-- Source: https://slocountyparks.com/camp/el-chorro/ -->
+[**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), <!-- Source: https://slocountyparks.com/camp/lopez-lake/ -->
+[**Oceano Campground**](Directory.md#Oceano-Campground), <!-- Source: https://slocountyparks.com/camp/oceano/ -->
+and [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) <!-- Source: https://slocountyparks.com/camp/santa-margarita-lake/ -->
 
-The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has coin-operated showers.
+The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has coin-operated showers. <!-- SOURCE NEEDED -->
 
 Some commercial gyms have showers.
-For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers.
-Some Medicare supplement plans have a “Silver Sneakers” program with which you can get free gym memberships.
+For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers. <!-- Source: https://pbac.com/guest-rates/ and https://pbac.com/membership/ -->
+Some Medicare supplement plans have a “Silver Sneakers” program with which you can get free gym memberships. <!-- Source: https://tools.silversneakers.com/Help -->
 
 -----
 

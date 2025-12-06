@@ -1768,7 +1768,7 @@
 - **Location:** 2179 10th St., Los Osos <a class="map-link" data-lat="35.311757" data-lon="-120.832637" data-zoom="17" data-label="Laundry Love">Map</a> <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
 - **Phone:** [805-441-7262](tel:+1-805-441-7262) <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
 - **Email:** [naseema6@sbcglobal.net](mailto:naseema6@sbcglobal.net) <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
-- **Hours:** last Weds. of the month, 11am–1pm (seniors only) & 4–6pm (anyone)
+- **Hours:** last Weds. of the month, 11am–1pm (seniors only) & 4–6pm (anyone) <!-- Source: https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf -->
 
 ## Law Library
 
@@ -2479,9 +2479,9 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 
 ## <a id="Oceano-Campground">Oceano Campground</a>
 
-- **Website:** [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
+- **Website:** [https://slocountyparks.com/camp/oceano/](https://slocountyparks.com/camp/oceano/)
 - **Location:** 494 Air Park Dr., Oceano <a class="map-link" data-lat="35.104656" data-lon="-120.625624" data-zoom="17" data-label="Oceano Campground">Map</a>
-- **Phone:** [805-781-4900](tel:+1-805-781-4900) <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ --> M–Th 8am–4:30pm; F–Su 8am–6pm, [805-781-5930](tel:+1-805-781-5930) (reservations)
+- **Phone:** [805-781-4900](tel:+1-805-781-4900) <!-- Source: https://slocountyparks.com/camp/oceano/ --> M–Th 8am–4:30pm; F–Su 8am–6pm, [805-781-5930](tel:+1-805-781-5930) (reservations)
 
 ## Office of Emergency Services
 
