@@ -3624,7 +3624,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 - 5 Cities:
    - **Website:** [5chc.org/programs/ssvf-supportive-services-for-veteran-families](https://5chc.org/programs/ssvf-supportive-services-for-veteran-families)
    - **Location:** 150 S. 6th St. #A-B, Grover Beach <a href="#" class="map-link" data-lat="35.121072" data-lon="-120.624206" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/most-requested-information-resources -->
-   - **Location:** 1566 W. Grand Ave., Grover Beach <a href="#" class="map-link" data-lat="35.120207" data-lon="-120.612620" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide -->
+   <!-- - **Location:** 1566 W. Grand Ave., Grover Beach <a href="#" class="map-link" data-lat="35.120207" data-lon="-120.612620" data-zoom="17" data-label="Supportive Services for Veteran Families">Map</a>--><!-- Source: https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide -->
    - **Phone:** [805-574-1638](tel:+1-805-574-1638) <!-- Source: https://capslo.org/ssvf/, https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide -->
    - **Phone:** [805-202-3056](tel:+1-805-202-3056) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/most-requested-information-resources -->
 - North County:
