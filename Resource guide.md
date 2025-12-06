@@ -1047,7 +1047,7 @@ They operate in Nipomo and the Five-Cities area, as well as Santa Barbara County
 ### <a id="transportation-to-medical-appointments">Transportation to Medical Appointments</a>
 
 The [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) offers free, door-to-door transportation to medical appointments for people who are enrolled in Medi-Cal and who cannot use public transportation to get to their appointments. <!-- Source: https://www.cencalhealth.org/members/transportation/ -->
-If you expect you will need to stop at a pharmacy after your appointment, say so when you make your shuttle reservation. <!-- SOURCE NEEDED -->
+If you expect you will need to stop at a pharmacy after your appointment, say so when you make your shuttle reservation, and they can arrange that also. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2025/04/350_2025-Q2-Regulatory-Member-Newsletter_M-MS-Q2RMNL-0425-E-SA-0225-N_R9_Web_tagged.pdf -->
 Make a shuttle reservation at least two days before your medical appointment by calling [855-659-4600](tel:+1-855-659-4600) M–F 7am–5pm. <!-- Source: https://www.venturatransit.com/cencal/ and https://www.cencalhealth.org/members/transportation/ -->
 
 If you are a [**Community Health Centers of the Central Coast (CHC)**](Directory.md#CHC) patient, and you need a ride to your CHC appointment, you can get shuttle service. <!-- Source: https://www.communityhealthcenters.org/patient-resources/ -->
