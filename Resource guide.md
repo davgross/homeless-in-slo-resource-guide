@@ -1042,7 +1042,7 @@ It operates M–F 9am–4pm. <!-- Source: https://cayucosseniors.org/files/Cayuc
 Call [805-995-3543](tel:+1-805-995-3543) to make an appointment at least 48 hours ahead of time. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
 
 [**Community Partners in Caring**](Directory.md#Community-Partners-in-Caring) has volunteers who can give seniors free rides to and from medical appointments, food banks and meal sites, or other services. <!-- Source: https://partnersincaring.org/our-services/ -->
-They operate in Nipomo and the Five-Cities area, as well as Santa Barbara County. <!-- SOURCE NEEDED -->
+They operate in Nipomo and the Five-Cities area, as well as Santa Barbara County. <!-- Source: https://www.yahoo.com/news/articles/another-caregiving-group-steps-help-130000077.html -->
 
 ### <a id="transportation-to-medical-appointments">Transportation to Medical Appointments</a>
 
