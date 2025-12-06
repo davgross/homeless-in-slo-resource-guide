@@ -300,6 +300,17 @@ input:focus {
   font-size: var(--font-size-lg);
 }
 
+.error {
+  text-align: center;
+  padding: var(--spacing-xl);
+  color: #d32f2f;
+  font-size: var(--font-size-lg);
+  background-color: #ffebee;
+  border: 1px solid #ef9a9a;
+  border-radius: 8px;
+  margin: var(--spacing-lg);
+}
+
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
@@ -854,41 +865,6 @@ tbody tr:hover {
   margin-top: 0;
   border-bottom: 2px solid var(--primary-color);
   padding-bottom: var(--spacing-sm);
-}
-
-/* Table of Contents */
-.toc {
-  background-color: #f0f9ff;
-  border: 2px solid var(--secondary-color);
-  border-radius: 8px;
-  padding: var(--spacing-lg);
-  margin-bottom: var(--spacing-xl);
-}
-
-.toc h2 {
-  margin-top: 0;
-  color: var(--primary-color);
-}
-
-.toc ul {
-  list-style-type: none;
-  margin-left: 0;
-}
-
-.toc li {
-  margin-bottom: var(--spacing-sm);
-}
-
-.toc a {
-  display: block;
-  padding: var(--spacing-sm);
-  border-radius: 4px;
-  text-decoration: none;
-}
-
-.toc a:hover {
-  background-color: white;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Responsive Design - Tablet and Desktop */

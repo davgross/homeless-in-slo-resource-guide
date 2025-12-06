@@ -13,7 +13,6 @@ export function enhanceLinks(container) {
   enhancePhoneLinks(container);
   enhanceEmailLinks(container);
   enhanceExternalLinks(container);
-  // enhanceAddressLinks(container); // Removed - now using explicit map links instead
 }
 
 /**
@@ -120,80 +119,6 @@ function enhanceExternalLinks(container) {
       }
     }
   });
-}
-
-/**
- * Enhance address links - make addresses clickable for maps
- */
-function enhanceAddressLinks(container) {
-  // Look for "Location:" followed by an address
-  const locationRegex = /Location:\s*([^<\n]+?)(?=\s*[-•]|\s*Phone:|\s*$)/gi;
-
-  walkTextNodes(container, (textNode) => {
-    const text = textNode.textContent;
-    const matches = text.match(locationRegex);
-
-    if (matches && !isInsideLink(textNode)) {
-      const parent = textNode.parentNode;
-      const fragment = document.createDocumentFragment();
-      let lastIndex = 0;
-
-      text.replace(locationRegex, (match, address, offset) => {
-        // Add text before match
-        if (offset > lastIndex) {
-          fragment.appendChild(
-            document.createTextNode(text.slice(lastIndex, offset))
-          );
-        }
-
-        // Add location label
-        fragment.appendChild(document.createTextNode('Location: '));
-
-        // Add address as map link
-        const link = document.createElement('a');
-        const encodedAddress = encodeURIComponent(address.trim());
-
-        // Try to detect user's platform for appropriate map URL
-        const isApple = /iPhone|iPad|iPod|Mac/.test(navigator.userAgent);
-        if (isApple) {
-          link.href = `maps://maps.apple.com/?q=${encodedAddress}`;
-        } else {
-          link.href = `https://www.google.com/maps/search/?api=1&query=${encodedAddress}`;
-        }
-
-        link.textContent = address.trim();
-        link.setAttribute('target', '_blank');
-        link.setAttribute('rel', 'noopener');
-        link.setAttribute('aria-label', `Open ${address.trim()} in maps`);
-        link.classList.add('address-link');
-        fragment.appendChild(link);
-
-        lastIndex = offset + match.length;
-        return match;
-      });
-
-      // Add remaining text
-      if (lastIndex < text.length) {
-        fragment.appendChild(
-          document.createTextNode(text.slice(lastIndex))
-        );
-      }
-
-      parent.replaceChild(fragment, textNode);
-    }
-  });
-}
-
-/**
- * Create a directory link element
- */
-export function createDirectoryLink(entryId, text) {
-  const link = document.createElement('a');
-  link.href = '#';
-  link.textContent = text;
-  link.setAttribute('data-directory-link', entryId);
-  link.setAttribute('aria-label', `View directory entry for ${text}`);
-  return link;
 }
 
 /**
