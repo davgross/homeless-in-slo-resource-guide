@@ -297,7 +297,7 @@ It can be difficult to know on any particular day whether or not these centers a
 
 The SLO city warming/cooling center is at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
 When it operates as a warming center, check in is between 7pm and 9pm, and you must leave by 8am. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-People with P.C. 290 convictions are not allowed in the center. <!-- SOURCE NEEDED -->
+People with P.C. 290 convictions are not allowed in the center. <!-- SOURCE NEEDED (issue #51) -->
 When it operates as a cooling center, you must leave by 6pm. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Cooling center guests can get breakfast, lunch, and dinner. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Pets with rabies vaccinations are allowed in their kennel. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
@@ -330,13 +330,13 @@ You do not have to be a senior center member to shelter there when the cooling c
 If you are unsheltered and need a place to sleep tonight, these are some options:
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a hundred overnight shelter beds. <!-- Source: https://capslo.org/wp-content/uploads/2023/05/CAPSLO-40-Prado-Goes-Green-May-2023.pdf -->
-Many are reserved for people who have previously registered with 40 Prado, but a limited number are available on a walk-in basis. <!-- SOURCE NEEDED -->
-To get a bed, first come on-site and complete the intake process. <!-- SOURCE NEEDED -->
-Thereafter, on any day when you need an overnight shelter bed, check in to secure a bed or to be placed on the waiting list. <!-- SOURCE NEEDED -->
-Priority is given to SLO county residents. <!-- SOURCE NEEDED -->
+Many are reserved for people who have previously registered with 40 Prado, but a limited number are available on a walk-in basis. <!-- SOURCE NEEDED (issue #51) -->
+To get a bed, first come on-site and complete the intake process. <!-- SOURCE NEEDED (issue #51) -->
+Thereafter, on any day when you need an overnight shelter bed, check in to secure a bed or to be placed on the waiting list. <!-- SOURCE NEEDED (issue #51) -->
+Priority is given to SLO county residents. <!-- SOURCE NEEDED (issue #51) -->
 They offer meals (breakfast, lunch, and dinner), showers, laundry, mail/phone services, an integrated medical clinic (primary and urgent care five days a week with an on-site pharmacy), recuperative care beds, and animal kennels. <!-- Source: https://capslo.org/40-prado/ -->
-To stay at the shelter, you must have a valid photo ID, you must not be a P.C. 290 registered sex offender, and you must participate in case management. <!-- SOURCE NEEDED -->
-You must also be able to care for yourself independently (bathing, feeding, dressing, etc.). <!-- SOURCE NEEDED -->
+To stay at the shelter, you must have a valid photo ID, you must not be a P.C. 290 registered sex offender, and you must participate in case management. <!-- SOURCE NEEDED (issue #51) -->
+You must also be able to care for yourself independently (bathing, feeding, dressing, etc.). <!-- SOURCE NEEDED (issue #51) -->
 
 The 40 Prado center is the only walk-in, overnight homeless shelter in SLO County.
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) used to operate a shelter in the north county, but now only offers 90-day transitional housing there ([see below](#transitional-and-long-term-housing)) and an occasional warming shelter.
@@ -381,7 +381,7 @@ To register for one of these spots, first complete the referral form at the [CAP
 You will also have access to the various other services offered at 40 Prado (such as meals, showers, laundry, mail/phone services, an integrated medical clinic, and an animal kennel). <!-- Source: https://capslo.org/safe-parking/ -->
 Your vehicle must be registered and you must have proof of insurance. <!-- Source: https://capslo.org/safe-parking/ -->
 You must participate in case management. <!-- Source: https://capslo.org/safe-parking/ -->
-You must not be a P.C. 290 registered sex offender to use this service. <!-- SOURCE NEEDED -->
+You must not be a P.C. 290 registered sex offender to use this service. <!-- SOURCE NEEDED (issue #51) -->
 SLO county residents get priority. <!-- Source: https://friendsof40prado.org/safe-parking-program-expanded/ -->
 Contact Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) with questions. <!-- Source: https://capslo.org/safe-parking/ -->
 
@@ -438,7 +438,7 @@ The [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) can pay a 
 To qualify you must meet CalWORKs eligibility requirements and have less than $100 in liquid assets. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 
 [**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) provides financial assistance for housing deposits and rent to families that are experiencing homelessness or are at risk of homelessness in SLO County.<!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-They also offer case management and life skills workshops (budgeting, credit repair, communication), bus passes, gas cards, and paperwork assistance. <!-- SOURCE NEEDED -->
+They also offer case management and life skills workshops (budgeting, credit repair, communication), bus passes, gas cards, and paperwork assistance. <!-- SOURCE NEEDED (issue #36) -->
 
 [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (a.k.a. “My Home for Hope”) and [**Cabins for Change**](Directory.md#Cabins-for-Change), both in Grover Beach, operate many individual “tiny homes” that serve as transitional housing. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 The cabins come with 24/7 support, case management, connections to food services and recovery, and house stabilization guidance. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
@@ -479,7 +479,7 @@ Along with housing, residents get help with employment support, financial litera
 There is a wait list. <!-- SOURCE NEEDED -->
 
 [**Salvation Army**](Directory.md#Salvation-Army) has a “Rapid Rehousing Program” that helps people find and qualify for long-term housing. <!-- Source: https://caringmagazine.org/how-the-salvation-army-in-san-luis-obispo-is-reaching-unhoused-people-street-level-program/ -->
-Contact Hattie Davis ([hattie.davis@usw.salvationarmy.org](mailto:hattie.davis@usw.salvationarmy.org)) for details. <!-- SOURCE NEEDED -->
+Contact Hattie Davis ([hattie.davis@usw.salvationarmy.org](mailto:hattie.davis@usw.salvationarmy.org)) for details. <!-- SOURCE NEEDED (issue #60) -->
 
 The [**HouseKeys**](Directory.md#HouseKeys) program is the city of SLO’s affordable home-ownership program.
 It serves households who bring in about 30–50% of the area median income. <!-- SOURCE NEEDED -->
@@ -614,8 +614,8 @@ Here are some residential treatment options in our area:
 
 If you need to securely store a small amount of property for a few hours or overnight, you have a few options:
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available <!-- Source: https://friendsof40prado.org/about/ --> for people who have completed intake for day services there. <!-- SOURCE NEEDED -->
-You must provide your own padlock. <!-- SOURCE NEEDED -->
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available <!-- Source: https://friendsof40prado.org/about/ --> for people who have completed intake for day services there. <!-- SOURCE NEEDED (issue #51) -->
+You must provide your own padlock. <!-- SOURCE NEEDED (issue #51) -->
 
 The commercial service [Bounce](https://bounce.com/) partners with multiple locations (in SLO County, these are typically UPS Stores) to offer short-term luggage storage that typically runs about $7 per day or $20–80 per month (depending on weight and size).
 You can find the specific locations, terms and conditions, and costs at their website. <!-- SOURCE NEEDED -->
@@ -979,10 +979,10 @@ There are discounts for seniors and disabled people (you may need to [apply for 
 If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit buses. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
 
 Some service providers can give you a bus pass if you cannot afford to buy one.
-For example, [**Catholic Charities**](Directory.md#Catholic-Charities) <!-- SOURCE NEEDED -->
-and the [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) often have bus passes available to people who need them. <!-- SOURCE NEEDED -->
-Clients of [**Tri-Counties Regional Center**](Directory.md#Tri-Counties-Regional-Center) can get bus passes from them. <!-- SOURCE NEEDED -->
-The [**Family Care Network**](Directory.md#Family-Care-Network) can help you get a bus pass if you cannot afford one on your own (you may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist). <!-- SOURCE NEEDED (mentioned briefly at https://fcni.org/partner-with-us/fam/) -->
+For example, [**Catholic Charities**](Directory.md#Catholic-Charities) <!-- SOURCE NEEDED (issue #55) -->
+and the [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) often have bus passes available to people who need them. <!-- SOURCE NEEDED (issue #55) -->
+Clients of [**Tri-Counties Regional Center**](Directory.md#Tri-Counties-Regional-Center) can get bus passes from them. <!-- SOURCE NEEDED (issue #55) -->
+The [**Family Care Network**](Directory.md#Family-Care-Network) can help you get a bus pass if you cannot afford one on your own (you may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist). <!-- SOURCE NEEDED (issue #55) (mentioned briefly at https://fcni.org/partner-with-us/fam/) -->
 
 You can find carpool options locally by using the [iRideshare](https://irideshare.org/#/) web application, a free program for SLO County commuters.
 The application matches commuters based on their locations, routes, destinations, and schedules to try to match them into compatible carpools.
@@ -1113,7 +1113,7 @@ You can apply online at their website or by calling [866-272-9642](tel:+1-866-27
 
 ### <a id="free-clothes">Free Clothes</a>
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has some free clothing available, <!-- SOURCE NEEDED (https://capslo.org/40pradodonations/ indicates that they are seeking donations of clothing though) -->
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has some free clothing available, <!-- SOURCE NEEDED (issue #51) (https://capslo.org/40pradodonations/ indicates that they are seeking donations of clothing though) -->
 as does the associated [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services). <!-- Source: visited in person and saw their clothing rack -DG -->
 
 The [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) can give eligible people vouchers to purchase clothing with. <!-- SOURCE NEEDED (https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf says they offer "clothing assistance" T/W/Th 1–3pm) -->
@@ -1122,13 +1122,13 @@ The [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) can give e
 
 <!-- verify
 Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can get free clothing from them and to make an appointment.
--->
+--><!-- SOURCE NEEDED (issue #60) -->
 
 [**Shower the People**](Directory.md#Shower-the-People) gives you new socks, underwear, and a t-shirt. <!-- Source: personal experience as volunteer -DG -->
 
 <!--
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) has a program that gives free winter clothes to area seniors.
---><!-- SOURCE NEEDED: not mentioned here: https://southbayseniorspeoplehelpingpeople.com/services/ -->
+--><!-- SOURCE NEEDED: (issue #61) not mentioned here: https://southbayseniorspeoplehelpingpeople.com/services/ -->
 
 [**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of December 2025) they are still looking for an office to operate from.
 You have to make an appointment with them to view their inventory. <!-- Source: https://slograssroots.org/ -->
@@ -1197,14 +1197,14 @@ Thrift stores sell second-hand (used) clothing at low prices.
 
 ## <a id="laundry">Laundry</a>
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers free laundry facilities every day from 8am to 4pm. <!-- SOURCE NEEDED for hours -->
-You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first. <!-- SOURCE NEEDED -->
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers free laundry facilities every day from 8am to 4pm. <!-- SOURCE NEEDED (issue #64) for hours -->
+You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first. <!-- SOURCE NEEDED (issue #64) -->
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the laundry facility at its Paso Robles location every Wednesday from 10am–6pm, at which outreach clients can do a single load of laundry for free (they provide detergent). <!-- Source: https://www.echoshelter.org/pasorobles -->
 
 [**Laundry Love**](Directory.md#Laundry-Love) operates at a Los Osos commercial laundry on the last Wednesday of the month (check their website for the latest schedule). <!-- Source: https://laundrylove.org/find-a-location/ -->
-They allow anyone to do two free loads of laundry (five loads for a family), plus bedding. <!-- SOURCE NEEDED -->
-They provide the coins to feed the machines and the laundry detergent and dryer sheets. <!-- SOURCE NEEDED -->
+They allow anyone to do two free loads of laundry (five loads for a family), plus bedding. <!-- SOURCE NEEDED (issue #65) -->
+They provide the coins to feed the machines and the laundry detergent and dryer sheets. <!-- SOURCE NEEDED (issue #65) -->
 
 -----
 
@@ -1221,7 +1221,7 @@ They operate rain-or-shine all year long including holidays. <!-- Source: person
 They also have clothing and food for guests. <!-- Source: https://805streetoutreach.org/about-us -->
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in SLO city has shower facilities that it makes available to both its overnight and its day guests. <!-- e.g. https://capslo.org/40-prado-warming-center/ -->
-You do not have to be a resident there to use the showers, but you do have to undergo their intake process. <!-- SOURCE NEEDED -->
+You do not have to be a resident there to use the showers, but you do have to undergo their intake process. <!-- SOURCE NEEDED (issue #64) -->
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) offers hot showers five evenings a week (M–F 4–5:30pm) to anyone in need at both their Atascadero and their Paso Robles locations. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 They give you toiletries, and they also have clothing, shoes, blankets, and sleeping bags. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
@@ -1243,7 +1243,7 @@ Some SLO County parks have coin-operated shower facilities, including [**Coastal
 [**Oceano Campground**](Directory.md#Oceano-Campground), <!-- Source: https://slocountyparks.com/camp/oceano/ -->
 and [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) <!-- Source: https://slocountyparks.com/camp/santa-margarita-lake/ -->
 
-The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has coin-operated showers. <!-- SOURCE NEEDED -->
+The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has coin-operated showers. <!-- SOURCE NEEDED (issue #67) -->
 
 Some commercial gyms have showers.
 For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers. <!-- Source: https://pbac.com/guest-rates/ and https://pbac.com/membership/ -->
@@ -1308,7 +1308,7 @@ Choose someone to watch for the ambulance and to guide responders to the locatio
 
 #### Emergency Rooms
 
-There are four emergency rooms in our area:
+There are four emergency rooms in SLO County:
 
 1. [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) (Arroyo Grande)
 1. [**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) (SLO)
@@ -1318,15 +1318,15 @@ There are four emergency rooms in our area:
 These emergency rooms are open all day, every day.
 
 Do not worry if your Medi-Cal paperwork is not yet in order.
-Under the “Hospital Presumptive Eligibility” program, in an emergency, hospitals will treat you as though you have Medi-Cal for up to two months while they work with you to figure out your eligibility, if the following conditions hold:
+Under the “Hospital Presumptive Eligibility” program, in an emergency, hospitals will treat you as though you have Medi-Cal for up to two months while they work with you to figure out your eligibility, if the following conditions hold:<!-- Source: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx-Cal -->
 
-- You are uninsured and not receiving Medicare.
+- You are uninsured and not receiving Medi-Cal.
 - You have a low monthly income.
 - You live in California.
 - You have not used the “Hospital Presumptive Eligibility” program more than once in the past 12 months (more than twice for children).
 
-U.S. Citizenship is not required.
-All four emergency rooms participate in the “Hospital Presumptive Eligibility” program.
+U.S. Citizenship is not required. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
+All four emergency rooms participate in the “Hospital Presumptive Eligibility” program. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
 
 ### <a id="urgent-care">Urgent Care Options</a>
 
@@ -1336,13 +1336,22 @@ The wait is usually shorter than emergency rooms, and the cost is typically lowe
 Most urgent care centers accept walk-ins, and some also allow appointments.
 Bring your insurance card, identification, and a list of medications you take.
 
+<!-- Sources:
+ CHC: https://www.communityhealthcenters.org/patient-resources/payment/
+ Dignity: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care 
+ Carbon: https://support.carbonhealth.com/billing-and-insurance/paying-bills
+ UCA, UCMB, UCPB: https://www.ccpnhpn.com/becoming-a-member/
+ NCCMES: SOURCE NEEDED (Issue #27)
+ Cottage: https://www.cottagehealth.org/urgent-care/appointments/san-luis-obispo-marigold-center/ and https://www.cencalhealth.org/wp-content/uploads/2025/01/Feb2025_SLO_PrintDirectory_tagged.pdf?utm_source=chatgpt.com
+ FIMC: https://fimcslo.com/faq/
+-->
 | Urgent Care Location                                                                                | Medicare | Medi-Cal |
 | --------------------------------------------------------------------------------------------------- | -------- | -------- |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | Yes      | Yes      |
 | [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Yes      | Yes      |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)     | Yes      | No       |
-| [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | Yes      | Yes      |
-| [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Yes      | Yes      |
+| [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | Yes      | No       |
+| [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Yes      | No       |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | Yes      | No       |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Yes      | Yes      |
 | [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | ?        | ?        |
@@ -1357,32 +1366,27 @@ Bring your insurance card, identification, and a list of medications you take.
 
 #### Medi-Cal (Medicaid)
 
-[**Medi-Cal**](Directory.md#Medi-Cal), California’s Medicaid program, is a health insurance program for low-income people who meet certain eligibility requirements.
+[**Medi-Cal**](Directory.md#Medi-Cal), California’s Medicaid program, is a health insurance program for low-income people who meet certain eligibility requirements. <!-- Source: https://www.dhcs.ca.gov/Medi-Cal/Pages/home.aspx -->
 
-[**CenCal**](Directory.md#CenCal) administers Medi-Cal in SLO County.
-They help recipients with:
+[**CenCal**](Directory.md#CenCal) administers Medi-Cal in SLO County. <!-- Source: https://www.cencalhealth.org/explore-cencal-health/ -->
 
-- Finding doctors, pharmacies and health education programs
-- Care coordination
-- Referrals to specialists
-- 24-hour nurse advice telephone services
+You can search a list of local CenCal health care providers at [cencalhealth.org/members/provider-directory-for-members/](https://www.cencalhealth.org/members/provider-directory-for-members/).
 
-You can search a list of local CenCal health care providers at [cencalhealth.org/members/provider-directory-for-members/](https://cencalhealth.org/members/provider-directory-for-members/).
-
-Homeless SLO County residents who are enrolled in CenCal Health qualify for [**Enhanced Care Management**](Directory.md#Enhanced-Care-Management).
-This helps you coordinate the care you need across multiple healthcare providers.
-Contact them if you want to apply or you want more details.
-You can also apply in-person (walk-ins OK) at CAPSLO’s [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) center.
+Homeless SLO County residents who are enrolled in CenCal Health qualify for [**Enhanced Care Management**](Directory.md#Enhanced-Care-Management). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+This helps you coordinate the care you need across multiple healthcare providers. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+Contact them if you want to apply or you want more details. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+You can also apply in-person (walk-ins OK) at CAPSLO’s [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) center. <!-- SOURCE NEEDED (issue #69) -->
 
 ##### How to Apply for Medi-Cal
 
-You can apply for Medi-Cal at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/).
+You can apply for Medi-Cal at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
 
-You can get help applying from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) or [**Catholic Charities**](Directory.md#Catholic-Charities).
-To get help in indigenous Mexican languages, call [805-483-1166](tel:+1-805-483-1166), or visit [mixteco.org/indigenous-interpreter-services/](https://mixteco.org/indigenous-interpreter-services/).
-If you are a patient of Adventist Health, you can get help from them by calling [844-827-5047](tel:+1-844-827-5047).
+You can get help applying from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
+or [**Catholic Charities**](Directory.md#Catholic-Charities). <!-- Source: https://catholiccharitiesdom.org/family-supportive-services/medi-cal/ -->
+To get help in indigenous Mexican languages, call [805-483-1166](tel:+1-805-483-1166), or visit [mixteco.org/indigenous-interpreter-services/](https://mixteco.org/indigenous-interpreter-services/). <!-- Source: https://mixteco.org/social-services/ -->
+If you are a patient of Adventist Health, you can get help from them by calling [844-827-5047](tel:+1-844-827-5047). <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill -->
 
-If you are a farm laborer, you may also be able to get help applying for Medi-Cal from the [Civil Assistance Program](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) of the California Farmworker Foundation.
+If you are a farm laborer, you may also be able to get help applying for Medi-Cal from the [Civil Assistance Program](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) of the California Farmworker Foundation. <!-- SOURCE NEEDED (issue #70) -->
 
 ##### Prescription Medication
 
@@ -1395,7 +1399,7 @@ Dentists are not provided through CenCal but through [**Medi-Cal Dental**](Direc
 For information about dental benefits, contact Med-Cal Dental.
 To find a Medi-Cal Dental provider, see one of these resources:
 
-- [Denti-Cal Dental Care Dentist Referral](http://www.denti-cal.ca.gov/) ([800-322-6384](tel:+1-800-322-6384))
+- [Denti-Cal Dental Care Dentist Referral](https://www.dental.dhcs.ca.gov/Members/Medi_Cal_Dental/Find_A_Dentist/FindADentist) ([800-322-6384](tel:+1-800-322-6384))
 - [“Find A Dentist” at Smile California](https://smilecalifornia.org/find-a-dentist/)
 
 #### Medicare and HiCAP
@@ -1414,8 +1418,8 @@ HiCAP can help you:
 - file Medicare denial appeals
 - understand long-term care insurance options
 
-To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties.
-The HiCAP program is free.
+To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties. <!-- SOURCE NEEDED -->
+The HiCAP program is free. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 
 You can also submit questions to them via a web form and get answers by email: [centralcoastseniors.org/ask-a-medicare-question](https://centralcoastseniors.org/ask-a-medicare-question/)
 
@@ -1443,10 +1447,11 @@ The [**Help Hope Live**](Directory.md#Help-Hope-Live) program can help you estab
 
 #### <a id="emergency-medical-funding">Emergency Funding</a>
 
-If you need immediate funds to pay for a specific medical expense, consider the [**Medically Indigent Services Program**](Directory.md#MISP).
+If you need immediate funds to pay for a specific medical expense and you are not eligible for Medi-Cal or any other health insurance, consider the [**Medically Indigent Services Program**](Directory.md#MISP).
+Call them to start the application process. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-%28misp%29 -->
 
-If you are a patient of [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista), you may qualify for their [“Charity Care/Financial Assistance”](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/) program.
-Ask them in person for an application or contact them at [844-827-5047](tel:+1-844-827-5047) or [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
+If you are a patient of [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista), you may qualify for their [Financial Assistance](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/) program.
+Ask them in person for an application or contact them at [844-827-5047](tel:+1-844-827-5047) <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/ --> or [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
 
 > See also the [Emergency Financial Needs](#emergency-financial-help) section of this guide.
 

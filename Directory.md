@@ -2845,6 +2845,7 @@ Note: Little Free Pantries come and go. Sometimes they are neglected, damaged, o
 ## <a id="RVs-for-Veterans">RVs for Veterans</a>
 
 - **Phone:** [805-234-5478](tel:+1-805-234-5478) <!-- Source: https://hopesvillageofslo.com/programs -->
+- Note: a project of [Hope’s Village](#Hopes-Village)
 
 ## <a id="Second-Chances-Thrift-Store">Second Chances Thrift Store</a>
 
