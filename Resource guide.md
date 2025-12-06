@@ -1134,8 +1134,8 @@ You have to make an appointment with them to view their inventory. <!-- Source: 
 #### <a id="free-clothes-for-kids">Free Clothes for Kids</a>
 
 The [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) has free clothing (and school supplies, books, diapers, and other basic resources) for children from birth to age 18. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
-Call their hotline, use the “Place a Request” form on their website, or visit during walk-in hours.
-They also operate the “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel” at which schoolchildren can get clothes and other supplies they need.
+Call their hotline, use the “Place a Request” form on their website, or visit during walk-in hours. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+They also operate the “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel” at which schoolchildren can get clothes and other supplies they need. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 
 [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) operates the “Operation School Bell” program, which gives needy students credits with which they can shop for new retail school clothes. <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
 Ask authorities at the child’s school to refer them to the program. <!-- SOURCE NEEDED -->
