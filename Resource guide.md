@@ -964,8 +964,8 @@ People over the age of 80 and people with an ADA-certified disability ride free.
 | [Morro Bay Transit](https://www.slorta.org/schedules-fares/morro-bay-transit/)     | within Morro Bay |
 
 [Runabout Paratransit](https://www.slorta.org/services/runabout-paratransit/) is a county-wide transit service for people who cannot always use the fixed-route SLO RTA buses because of disability. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
-This service will take you door-to-door within ¾-mile of the RTA fixed routes during the same hours RTA operates. <!-- SOURCE NEEDED -->
-One personal care attendant can accompany you free-of-charge. <!-- SOURCE NEEDED -->
+This service will take you door-to-door within ¾-mile of the RTA fixed routes during the same hours RTA operates. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
+One personal care attendant can accompany you free-of-charge. <!-- Source: https://www.slorta.org/services/runabout-paratransit/faq/ -->
 You have to apply and have an in-person interview to be eligible for this service (see [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) for contact information). <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 After you register, make ride reservations 1–7 days in advance by calling [805-541-2544](tel:+1-805-541-2544). <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 Rides are not free; they cost about twice as much as ordinary RTA rides. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
@@ -988,19 +988,20 @@ You can find carpool options locally by using the [iRideshare](https://irideshar
 The application matches commuters based on their locations, routes, destinations, and schedules to try to match them into compatible carpools.
 
 If you register for iRideshare and you commute to work by walking, biking, taking the bus, or in a carpool or vanpool, and you need to get home from work in some other way (for example, because the carpool is leaving at the wrong time, or because your bike broke down), the [Guaranteed Ride Home](https://rideshare.org/program/guaranteed-ride-home/) program will pay for your taxi, Uber, or Lyft ride home.
-(You need to save the receipt, and you can only get a limited number of guaranteed rides home.)
+(You need to register for their Commuter Club program, save your ride payment receipt, and you can only get a limited number of guaranteed rides home.) <!-- Source: https://rideshare.org/program/guaranteed-ride-home/ -->
 
 There are [Dial-A-Ride](https://www.slorta.org/services/dial-a-ride/) services in Atascadero, Morro Bay, Nipomo, Paso Robles, Shandon, and Templeton.
-They typically offer curb-to-curb service and charge $2.25–8.00 each way (sometimes less for seniors, disabled people, and children):
+They typically offer curb-to-curb service and charge $2.25–8.00 each way (sometimes less for seniors, disabled people, and children): <!-- Source: https://www.slorta.org/services/dial-a-ride/ -->
 
+<!-- Source: https://www.slorta.org/services/dial-a-ride/ -->
 | Dial-a-Ride Service | Phone Number                        | Notes |
 | ------------------- | ----------------------------------- | ----- |
 | Atascadero          | [805-466-7433](tel:+1-805-466-7433) | Operates M–F 7:30am–3:30pm. |
-| Morro Bay           | [805-541-2228&#xA0;x3](tel:+1-805-541-2228;ext=3) | Must be within ¾-mile of a transit bus route. Call M–F 8am–10pm to request a ride. |
+| Morro Bay           | [805-541-2228&#xA0;x3](tel:+1-805-541-2228;ext=3) | Must be within ¾-mile of a transit bus route. Call M–F 7:30am–6:30pm to request a ride. |
 | Nipomo              | [805-929-2881](tel:+1-805-929-2881) | Reserve a ride at least two hours ahead of time. Operates M–F 7am–6:30pm. |
 | Paso Robles         | [805-239-8747](tel:+1-805-239-8747) | Reserve a ride at least two hours ahead of time. Operates M–F 7am–1pm. |
 | Shandon             | [805-541-2544](tel:+1-805-541-2544) | Reserve a ride by noon the day ahead of time. Operates M,W,F 8am–5pm. |
-| Templeton           | [805-541-2544](tel:+1-805-541-2544) | Reserve a ride the day ahead of time. Operates Tu,Th 8am–5pm. |
+| Templeton           | [805-541-2544](tel:+1-805-541-2544) | Reserve a ride by noon the day ahead of time. Operates Tu,Th 8am–5pm. |
 
 [Greyhound](https://www.greyhound.com/) and [Trailways](https://trailways.com/) operate between-cities bus routes.
 [Amtrak](https://www.amtrak.com/) has rail lines and buses that run all over the U.S.
@@ -1016,60 +1017,62 @@ You can catch these trains and buses from the following locations in SLO County:
 | Railroad Museum, <a href="#" class="map-link" data-lat="35.273127" data-lon="-120.655653" data-zoom="17" data-label="Railroad Museum">1940 Santa Barbara Ave., SLO</a> | Yes       | Yes       | No           | No         |
 | Train Station, <a href="#" class="map-link" data-lat="35.275632" data-lon="-120.655133" data-zoom="17" data-label="Train Station">1011 Railroad Ave., SLO </a> | Yes       | No        | Yes          | Yes        |
 
-Recent refugees from other countries can also get help with transportation from [**SLO for HOME**](Directory.md#SLO4Home).
+Recent refugees from other countries can also get help with transportation from [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ is vague but mentions "transportation" repeatedly -->
 
 ### <a id="transportation-for-seniors">Transportation Resources for Seniors</a>
 
 Many transit services have reduced fares for seniors.
-People aged 80 and older ride for free on all SLO RTA and SLO Transit routes.
+People aged 80 and older ride for free on all SLO RTA and SLO Transit routes. <!-- Source: https://www.slorta.org/fares/discounts/ and https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
 In addition, there are some transit options specifically for seniors.
 
-For example, the [**Senior Go!**](Directory.md#Senior-Go) service serves people aged 65 and up.
-It serves all of SLO County, and all trips must be within SLO County.
-Call to book a curb-to-curb ride two to three days in advance. You can reserve up to four round-trips per month.
-The cost is $5 for short trips (0–20 miles) or $10 for longer trips.
+For example, the [**Senior Go!**](Directory.md#Senior-Go) service serves people aged 65 and up. <!-- Source: https://www.sloseniorgo.org/ -->
+It serves all of SLO County, and all trips must be within SLO County. <!-- Source: https://www.sloseniorgo.org/ -->
+Call to book a curb-to-curb ride two to three days in advance. <!-- Source: https://www.sloseniorgo.org/ -->
+You can reserve up to four round-trips per month. <!-- Source: https://www.sloseniorgo.org/ -->
+The cost is $5 for short trips (0–20 miles) or $10 for longer trips. <!-- https://www.sloseniorgo.org/new-page -->
 
-The [Cambria Community Bus](https://www.cambriacommunitycouncil.org/community-bus) is a free service for seniors (aged 60 and up) and disabled people in the Cambria/San Simeon area.
-Call [805-927-4173](tel:+1-805-927-4173) (español [805-975-5724](tel:+1-805-975-5724)) M–F 9–11am at least one day in advance to make a reservation for a ride.
-Rides are door-to-door service and can include multiple stops.
-The bus only operates on weekdays 8am–4:30pm, and in the local area (except for Tuesdays, when the bus can also do trips to SLO city).
+The [Cambria Community Bus](https://www.cambriacommunitycouncil.org/community-bus) is a free service for seniors (aged 60 and up) and disabled people in the Cambria/San Simeon area. <!-- https://www.cambriacommunitycouncil.org/community-bus -->
+Call [805-927-4173](tel:+1-805-927-4173) (español [805-975-5724](tel:+1-805-975-5724)) M–F 9–11am at least one day in advance to make a reservation for a ride. <!-- https://www.cambriacommunitycouncil.org/community-bus -->
+Rides are door-to-door service and can include multiple stops. <!-- https://www.cambriacommunitycouncil.org/community-bus -->
+The bus only operates on weekdays 8am–4:30pm, and in the local area (except for Tuesdays, when the bus can also do trips to SLO city). <!-- https://www.cambriacommunitycouncil.org/community-bus -->
 
 The [Cayucos Senior Van](https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf) is a similar program for residents of Cayucos.
-It prioritizes transportation to medical appointments, but can also sometimes handle other needs.
-It operates M–F 9am–4pm.
-Call [805-995-3543](tel:+1-805-995-3543) to make an appointment at least 48 hours ahead of time.
+It prioritizes transportation to medical appointments, but can also sometimes handle other needs. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
+It operates M–F 9am–4pm. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
+Call [805-995-3543](tel:+1-805-995-3543) to make an appointment at least 48 hours ahead of time. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
 
-[**Community Partners in Caring**](Directory.md#Community-Partners-in-Caring) has volunteers who can give seniors free rides to and from medical appointments, food banks and meal sites, or other services.
-They operate in Nipomo and the Five-Cities area, as well as Santa Barbara County.
+[**Community Partners in Caring**](Directory.md#Community-Partners-in-Caring) has volunteers who can give seniors free rides to and from medical appointments, food banks and meal sites, or other services. <!-- Source: https://partnersincaring.org/our-services/ -->
+They operate in Nipomo and the Five-Cities area, as well as Santa Barbara County. <!-- SOURCE NEEDED -->
 
 ### <a id="transportation-to-medical-appointments">Transportation to Medical Appointments</a>
 
-The [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) offers free, door-to-door transportation to medical appointments for people who are enrolled in Medi-Cal and who cannot use public transportation to get to their appointments.
-If you expect you will need to stop at a pharmacy after your appointment, say so when you make your shuttle reservation.
-Make a shuttle reservation at least three days before your medical appointment by calling [855-659-4600](tel:+1-855-659-4600).
+The [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) offers free, door-to-door transportation to medical appointments for people who are enrolled in Medi-Cal and who cannot use public transportation to get to their appointments. <!-- Source: https://www.cencalhealth.org/members/transportation/ -->
+If you expect you will need to stop at a pharmacy after your appointment, say so when you make your shuttle reservation. <!-- SOURCE NEEDED -->
+Make a shuttle reservation at least two days before your medical appointment by calling [855-659-4600](tel:+1-855-659-4600) M–F 7am–5pm. <!-- Source: https://www.venturatransit.com/cencal/ and https://www.cencalhealth.org/members/transportation/ -->
 
-If you are a [**Community Health Centers of the Central Coast (CHC)**](Directory.md#CHC) patient, and you need a ride to your CHC appointment, you can get shuttle service.
+If you are a [**Community Health Centers of the Central Coast (CHC)**](Directory.md#CHC) patient, and you need a ride to your CHC appointment, you can get shuttle service. <!-- Source: https://www.communityhealthcenters.org/patient-resources/ -->
 The CHC Shuttle picks you up at your location and drops you off at the clinic, then returns you after your appointment.
 To use the shuttle, you should have a CHC appointment and live in the area of the CHC clinic.
 CHC may also give you an RTA bus pass to help you get to your appointment.
 Make a reservation at least 48 hours before your appointment by calling [877-743-3242](tel:+1-877-743-3242).
 They will call you back within 24 hours to confirm your reservation.
 
-Veterans who travel to VA health care facilities for VA-authorized appointments can get free curb-to-curb shuttle service through [**Veterans Transportation Service (VTS)**](Directory.md#Veterans-Transportation-Service).
-Another option is the “Veterans Express Shuttle” operated by [**Ride-On Transportation**](Directory.md#Ride-On-Transportation) (call [805-541-8747](tel:+1-805-541-8747) two to three days before your appointment).
-There is also regularly-scheduled bus service between the SLO Veteran’s Memorial Building (<a href="#" class="map-link" data-lat="35.289321" data-lon="-120.652800" data-zoom="17" data-label="Veterans Memorial Building">801 Grand Ave.</a>) and the West Los Angeles VA Medical Center (WLA).
-This bus is free to anyone with an appointment at the VA.
-Schedule a bus reservation through VTS.
-It leaves SLO at 6am, arrives at WLA at 11:15am, leaves WLA at 3:25pm and returns to SLO at 8:30pm.
+Veterans who travel to VA health care facilities for VA-authorized appointments can get free curb-to-curb shuttle service through [**Veterans Transportation Service (VTS)**](Directory.md#Veterans-Transportation-Service). <!-- Source: https://www.vetride.va.gov/app/home -->
+Another option is the [“Veterans Express Shuttle”](https://www.ride-on.org/ride-on-veterans-express-shuttle.php) operated by [**Ride-On Transportation**](Directory.md#Ride-On-Transportation) (call [805-541-8747](tel:+1-805-541-8747) two to three days before your appointment). <!-- Source: https://www.ride-on.org/ride-on-veterans-express-shuttle.php -->
+There is also regularly-scheduled bus service between the SLO Veteran’s Memorial Building (<a href="#" class="map-link" data-lat="35.289321" data-lon="-120.652800" data-zoom="17" data-label="Veterans Memorial Building">801 Grand Ave.</a>) and the West Los Angeles VA Medical Center (WLA). <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
+This bus is free to anyone with an appointment at the VA. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
+Schedule a bus reservation through VTS. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
+It leaves SLO at 6am, arrives at WLA at 11:15am, leaves WLA at 3:25pm and returns to SLO at 8:30pm. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
 
-The [**American Cancer Society**](Directory.md#American-Cancer-Society)’s “Road to Recovery” program offers free rides to and from cancer-related medical appointments.
+The [**American Cancer Society**](Directory.md#American-Cancer-Society)’s [“Road to Recovery”](https://www.cancer.org/support-programs-and-services/road-to-recovery.html) program offers free rides to and from cancer-related medical appointments.
+Call several days in advance of your appointment to reserve your ride. <!-- Source: https://www.cancer.org/support-programs-and-services/road-to-recovery.html -->
 
 ### <a id="bicycles">Bicycles</a>
 
-The [**Bike Kitchen**](Directory.md#Bike-Kitchen) in SLO city can help you learn how to do maintenance and repairs on your bicycle, and can give you access to the tools and supplies you need.
-They also sell refurbished bicycles at low prices.
-Visit their website to see their current schedule.
-They charge a small fee ($5) to use their repair/maintenance services.
+The [**Bike Kitchen**](Directory.md#Bike-Kitchen) in SLO city can help you learn how to do maintenance and repairs on your bicycle, and can give you access to the tools and supplies you need. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
+They also sell refurbished bicycles at low prices. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
+Visit their website to see their current schedule. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
+They charge a small fee ($10/hr) to use their repair/maintenance services. <!-- https://bikeslocounty.org/programs/kitchen/#tab-id-2 -->
 
 Here are some tips for keeping your bike safe if you are camping:
 
@@ -1080,23 +1083,23 @@ Here are some tips for keeping your bike safe if you are camping:
 
 ### <a id="auto-insurance-and-repair">Automobile Insurance and Repair</a>
 
-A car must be insured to be legally driven in California.
-California has a state-sponsored, low-cost auto insurance program.
-To qualify, you must have a valid California driver’s license, a low income (for a single person, under $39,125 per year), a vehicle that is worth no more than $25,000, and have:
+A car must be insured to be legally driven in California. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
+California has a state-sponsored, low-cost auto insurance program. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
+To qualify, you must have a valid California driver’s license, a low income (for a single person, under $39,125 per year), a vehicle that is worth no more than $25,000,<!-- Source; https://www.mylowcostauto.com/faq/english --> and have:
 
 - no more than one at-fault, property-damage-only accident or no more than one point for a moving violation within the past three years,
 - no at-fault accidents involving bodily injury or death on a driving record within the previous three years, and
 - no felony or misdemeanor convictions for a violation of the Vehicle Code on your motor vehicle driving record.
 
-You can apply for this insurance on-line at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling [866-602-8861](tel:+1-866-602-8861).
+You can apply for this insurance on-line at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
 
 The [**Family Care Network**](Directory.md#Family-Care-Network) can help you pay for car repairs, payments, and gas if you’re broke.
 You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist.
 
-The [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap)’s “Consumer Assistance Program” can help you fix your car so that it satisfies California emissions standards.
-This program will pay for up to $1,200 in necessary repairs at a STAR test-and-repair center for model year 1996 or newer vehicles, or up to $900 for 1976–1995 vehicles.
-To qualify, you must have a household income below 225% of the federally-set poverty level, and your vehicle must have failed its biennial smog check.
-You can apply online at their website or by calling [866-272-9642](tel:+1-866-272-9642) (M–F 8:30am–5pm).
+The [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap)’s “Consumer Assistance Program” can help you fix your car so that it satisfies California emissions standards. <!-- Source https://www.bar.ca.gov/cap -->
+This program will pay for up to $1,450 in necessary repairs at a STAR test-and-repair center for model year 1996 or newer vehicles, or up to $1,100 for 1976–1995 vehicles. <!-- Source: https://www.bar.ca.gov/cap/repair -->
+To qualify, you must verify that you have a household income below 225% of the federally-set poverty level, and your vehicle must have failed its biennial smog check. <!-- Source: https://www.bar.ca.gov/cap/repair#eligibility -->
+You can apply online at their website or by calling [866-272-9642](tel:+1-866-272-9642) (M–F 8:30am–5pm). <!-- Source: https://www.bar.ca.gov/cap/repair -->
 
 > See [Emergency Financial Help](#emergency-financial-help) for programs that can give you financial assistance to pay for emergency expenses like car repairs.
 
