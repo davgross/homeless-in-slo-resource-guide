@@ -1087,6 +1087,7 @@ A car must be insured to be legally driven in California. <!-- Source: https://w
 California has a state-sponsored, low-cost auto insurance program. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
 To qualify, you must have a valid California driver’s license, a low income (for a single person, under $39,125 per year), a vehicle that is worth no more than $25,000,<!-- Source; https://www.mylowcostauto.com/faq/english --> and have:
 
+<!-- Source: https://www.mylowcostauto.com/faq/english -->
 - no more than one at-fault, property-damage-only accident or no more than one point for a moving violation within the past three years,
 - no at-fault accidents involving bodily injury or death on a driving record within the previous three years, and
 - no felony or misdemeanor convictions for a violation of the Vehicle Code on your motor vehicle driving record.
@@ -1126,7 +1127,9 @@ Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can ge
 
 [**Shower the People**](Directory.md#Shower-the-People) gives you new socks, underwear, and a t-shirt. <!-- Source: personal experience as volunteer -DG -->
 
-[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) has a program that gives free winter clothes to area seniors. <!-- SOURCE NEEDED: not mentioned here: https://southbayseniorspeoplehelpingpeople.com/services/ -->
+<!--
+[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) has a program that gives free winter clothes to area seniors.
+--><!-- SOURCE NEEDED: not mentioned here: https://southbayseniorspeoplehelpingpeople.com/services/ -->
 
 [**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of December 2025) they are still looking for an office to operate from.
 You have to make an appointment with them to view their inventory. <!-- Source: https://slograssroots.org/ -->
