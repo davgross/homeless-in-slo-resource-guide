@@ -389,9 +389,6 @@ export class FeedbackSystem {
     // Hide success message and show form
     document.getElementById('feedback-success').hidden = true;
     form.hidden = false;
-
-    // Clear screenshot
-    this.screenshot = null;
   }
 
   // Find the nearest anchor in or above the viewport
