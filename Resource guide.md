@@ -329,7 +329,7 @@ You do not have to be a senior center member to shelter there when the cooling c
 
 If you are unsheltered and need a place to sleep tonight, these are some options:
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a hundred overnight shelter beds. <!-- Source: https://capslo.org/wp-content/uploads/2023/05/CAPSLO-40-Prado-Goes-Green-May-2023.pdf?utm_source=chatgpt.com -->
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a hundred overnight shelter beds. <!-- Source: https://capslo.org/wp-content/uploads/2023/05/CAPSLO-40-Prado-Goes-Green-May-2023.pdf -->
 Many are reserved for people who have previously registered with 40 Prado, but a limited number are available on a walk-in basis. <!-- SOURCE NEEDED -->
 To get a bed, first come on-site and complete the intake process. <!-- SOURCE NEEDED -->
 Thereafter, on any day when you need an overnight shelter bed, check in to secure a bed or to be placed on the waiting list. <!-- SOURCE NEEDED -->
@@ -1140,7 +1140,7 @@ Call their hotline, use the “Place a Request” form on their website, or visi
 They also operate the “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel” at which schoolchildren can get clothes and other supplies they need. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 
 [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) operates the “Operation School Bell” program, which gives needy students credits with which they can shop for new retail school clothes. <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
-Ask authorities at the child’s school to refer them to the program. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/seasonal-resources, https://pasoroblespress.com/news/nonprofit/operation-school-bell/?utm_source=chatgpt.com -->
+Ask authorities at the child’s school to refer them to the program. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/seasonal-resources, https://pasoroblespress.com/news/nonprofit/operation-school-bell/ -->
 
 [Coats for Kids of SLO County](https://www.coatsforkidsslocounty.org/) holds a once-a-year (December) distribution in Paso Robles of cold-weather clothes like coats, jackets, sweaters, and sweatshirts. <!-- Source: https://www.coatsforkidsslocounty.org/ -->
 See their website for details on the next distribution, or use their [contact form](https://www.coatsforkidsslocounty.org/contact) or call [805-703-1762](tel:+1-805-703-1762) with questions. <!-- Source: https://www.coatsforkidsslocounty.org/contact -->

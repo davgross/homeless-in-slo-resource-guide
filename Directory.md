@@ -605,10 +605,9 @@
 
 ## <a id="Cambria-Recycling-Center">Cambria Recycling Center</a>
 
-<!-- Note: I was unable to find a website operated by this organization; I relied on 3rd parties for this info -->
-- **Location:** 1275 Tamson St., Cambria <a href="#" class="map-link" data-lat="35.563214" data-lon="-121.091796" data-zoom="17" data-label="Cambria Recycling Center">Map</a> <!-- Source: https://www.yelp.com/biz/cambria-recycling-center-cambria -->
-- **Phone:** [805-459-7512](tel:+1-805-459-7512) <!-- Source: https://www.yelp.com/biz/cambria-recycling-center-cambria -->
-- **Hours:** Tu–Sa 10am–4pm
+- **Location:** 1275 Tamson St., Cambria <a href="#" class="map-link" data-lat="35.563214" data-lon="-121.091796" data-zoom="17" data-label="Cambria Recycling Center">Map</a> <!-- Source: https://sloiwma.recyclist.co/guide/beverage-containers/ -->
+- **Phone:** [805-550-5489](tel:+1-805-550-5489) <!-- Source: https://sloiwma.recyclist.co/guide/beverage-containers/ -->
+- **Hours:** Tu–Sa 10am–4pm <!-- Source: https://sloiwma.recyclist.co/guide/beverage-containers/ -->
 
 ## <a id="Cambria-Vineyard-Church">Cambria Vineyard Church</a>
 
@@ -640,17 +639,17 @@
 
 - **Website:** [care4paws.org](https://care4paws.org/)
 - **Location:** mobile clinics
-   - Pet Resource Center: 100 S. 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.121203" data-lon="-120.626739" data-zoom="17" data-label="C.A.R.E.4Paws">Map</a> <!-- Source: https://care4paws.org/help-for-unhoused-families/?utm_source=chatgpt.com -->
+   - Pet Resource Center: 100 S. 4th St., Grover Beach <a href="#" class="map-link" data-lat="35.121203" data-lon="-120.626739" data-zoom="17" data-label="C.A.R.E.4Paws">Map</a> <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
 - **Phone:** [805-968-CARE](tel:+1-805-968-2273) <!-- Source: https://care4paws.org/ -->
 - **Email:**
    - [info@care4paws.org](mailto:info@care4paws.org) <!-- Source: https://care4paws.org/ -->
    - [outreach@care4paws.org](mailto:outreach@care4paws.org)
 - **Hours:**
    - [Mobile Clinics Schedule](https://care4paws.org/clinics)
-   - Pet Resource Center: M–Th 9am–5pm, F 11am–5pm <!-- Source: https://care4paws.org/help-for-unhoused-families/?utm_source=chatgpt.com -->
+   - Pet Resource Center: M–Th 9am–5pm, F 11am–5pm <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
 - Notes:
    - Partners with “The Street Dog Coalition”
-   - Operates the “Pet Resource Center” with [**5Cities Homeless Coalition**](#5CHC) <!-- Source: https://care4paws.org/help-for-unhoused-families/?utm_source=chatgpt.com -->
+   - Operates the “Pet Resource Center” with [**5Cities Homeless Coalition**](#5CHC) <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
 
 ## <a id="Carbon-Health-Urgent-Care-Atascadero">Carbon Health Urgent Care (Atascadero)</a>
 
