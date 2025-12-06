@@ -1051,11 +1051,10 @@ If you expect you will need to stop at a pharmacy after your appointment, say so
 Make a shuttle reservation at least two days before your medical appointment by calling [855-659-4600](tel:+1-855-659-4600) M–F 7am–5pm. <!-- Source: https://www.venturatransit.com/cencal/ and https://www.cencalhealth.org/members/transportation/ -->
 
 If you are a [**Community Health Centers of the Central Coast (CHC)**](Directory.md#CHC) patient, and you need a ride to your CHC appointment, you can get shuttle service. <!-- Source: https://www.communityhealthcenters.org/patient-resources/ -->
-The CHC Shuttle picks you up at your location and drops you off at the clinic, then returns you after your appointment.
-To use the shuttle, you should have a CHC appointment and live in the area of the CHC clinic.
-CHC may also give you an RTA bus pass to help you get to your appointment.
-Make a reservation at least 48 hours before your appointment by calling [877-743-3242](tel:+1-877-743-3242).
-They will call you back within 24 hours to confirm your reservation.
+The CHC Shuttle picks you up at your location and drops you off at the clinic, then returns you after your appointment. <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
+To use the shuttle, you should have a CHC appointment and live in the area of the CHC clinic. <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
+CHC may also give you an RTA bus pass to help you get to your appointment. <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
+Make a reservation at least 48 hours before your appointment by calling [877-743-3242](tel:+1-877-743-3242). <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
 
 Veterans who travel to VA health care facilities for VA-authorized appointments can get free curb-to-curb shuttle service through [**Veterans Transportation Service (VTS)**](Directory.md#Veterans-Transportation-Service). <!-- Source: https://www.vetride.va.gov/app/home -->
 Another option is the [“Veterans Express Shuttle”](https://www.ride-on.org/ride-on-veterans-express-shuttle.php) operated by [**Ride-On Transportation**](Directory.md#Ride-On-Transportation) (call [805-541-8747](tel:+1-805-541-8747) two to three days before your appointment). <!-- Source: https://www.ride-on.org/ride-on-veterans-express-shuttle.php -->
