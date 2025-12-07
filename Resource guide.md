@@ -2,8 +2,8 @@
 
 ## Avoiding, Surviving, and Escaping Homelessness in SLO County
 
-**Note:** This guide is currently in Beta.
-We hope to formally release this guide in early 2026.
+**Note:** This guide is currently being beta tested (if you have found it, welcome to the beta test!).
+Shower the People hopes to formally launch this guide in early 2026.
 
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
@@ -1341,7 +1341,7 @@ Bring your insurance card, identification, and a list of medications you take.
  Carbon: https://support.carbonhealth.com/billing-and-insurance/paying-bills
  UCA, UCMB, UCPB: https://www.ccpnhpn.com/becoming-a-member/
  NCCMES: SOURCE NEEDED (Issue #27)
- Cottage: https://www.cottagehealth.org/urgent-care/appointments/san-luis-obispo-marigold-center/ and https://www.cencalhealth.org/wp-content/uploads/2025/01/Feb2025_SLO_PrintDirectory_tagged.pdf?utm_source=chatgpt.com
+ Cottage: https://www.cottagehealth.org/urgent-care/appointments/san-luis-obispo-marigold-center/ and https://www.cencalhealth.org/wp-content/uploads/2025/01/Feb2025_SLO_PrintDirectory_tagged.pdf
  FIMC: https://fimcslo.com/faq/
 -->
 | Urgent Care Location                                                                                | Medicare | Medi-Cal |
@@ -1646,52 +1646,57 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers diabetes
 
 #### People with Disabilities
 
-[**California Connect**](Directory.md#California-Connect) has telecommunications equipment and services for people who have limitations of hearing, vision, mobility, speech and/or interpretation of information.
+[**California Connect**](Directory.md#California-Connect) can loan you, for free, assistive telecommunications equipment that helps if you have functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://caconnect.org/ -->
 
-The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) helps people with disabilities find or keep employment and live independently.
+The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) helps people with disabilities find or keep employment and live independently. <!-- Source: https://www.dor.ca.gov/Home/GettingStarted -->
 They can help you navigate disability and benefits programs, obtain assistive technologies, and get help with childcare and transportation.
 
-[**Disability Rights California**](Directory.md#Disability-Rights-California) helps you understand and defend your legal rights as a disabled person.
+[**Disability Rights California**](Directory.md#Disability-Rights-California) helps you understand and defend your legal rights as a disabled person. <!-- Source: https://www.disabilityrightsca.org/what-we-do/programs -->
 
-The [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) has resources for people with cerebral palsy, mild intellectual disability, mental health disorders, traumatic brain injury, Down syndrome, and spectrum disorders.
-[**PathPoint**](Directory.md#PathPoint) also has services for people with developmental disabilities.
+The [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) has resources for people with cerebral palsy, mild intellectual disability, mental health disorders, traumatic brain injury, Down syndrome, and spectrum disorders. <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
+[**PathPoint**](Directory.md#PathPoint) also has services for people with developmental disabilities. <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
 
-If you use American Sign Language, [**Lifesigns**](Directory.md#Lifesigns) or [**Tri-County GLAD**](Directory.md#Tri-County-GLAD) can provide an interpreter to accompany you at your medical appointments. Tri-County GLAD can also help with telephone call interpreting.
+If you use American Sign Language, [**Lifesigns**](Directory.md#Lifesigns) can provide an interpreter to accompany you at your medical appointments. <!-- Source: https://lifesignsinc.org/ -->
+[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) can help with telephone call interpreting. <!-- Sources: https://tcglad.org/human-services/ -->
 
 #### People with HIV or Hepatitis-C
 
-The [**Access Support Network**](Directory.md#ASN) has a variety of services for people impacted by HIV and Hep-C.
-These include testing, treatment, benefits counseling, help with insurance, harm reduction (including Narcan and suboxone), infection prevention, and wound care.
+The [**Access Support Network**](Directory.md#ASN) has a variety of services for people impacted by HIV and Hep-C. <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+These include testing, treatment, benefits counseling, help with insurance, harm reduction (including Narcan and suboxone), infection prevention, and wound care. <!-- Sources: https://accesssupportnetwork.org/programs/hiv/ and https://accesssupportnetwork.org/programs/hep-c/ -->
 
-[**The Center for Health & Prevention**](Directory.md#The-Center) offers HIV/Hep-C testing.
+[**The Center for Health & Prevention**](Directory.md#The-Center) offers HIV/Hep-C testing. <!-- Source: https://capslo.org/the-center/ -->
 
 #### Seniors
 
+<!-- Discontinued?
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
+-->
 
-The [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) offers a variety of services for seniors, including [**Senior Connection**](Directory.md#Senior-Connection), the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
+The [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) offers a variety of services for seniors, including [**Senior Connection**](Directory.md#Senior-Connection) (an information and referral service), the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
 They can help you with nutrition and meal services, transportation, and care management.
 
 #### Teens and Youth
 
-[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Teen Wellness” program includes health coaching, strength classes, mindfulness workshops, and reproductive health education.
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Teen Wellness” program includes health coaching, strength classes, mindfulness workshops, and reproductive health education. <!-- Source: https://capslo.org/teen-health-education/ -->
 
 #### Women
 
-[**The Center for Health & Prevention**](Directory.md#The-Center) offers breast exams, referrals for free mammograms, Pap smears, and menopausal services.
+[**The Center for Health & Prevention**](Directory.md#The-Center) offers breast exams, referrals for free mammograms, Pap smears, and menopausal services. <!-- Source: https://capslo.org/the-center/ -->
 
-The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Ave. in Arroyo Grande, in Nipomo, and at 292 Posada Ln. in Templeton specialize in women’s health.
+The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Ave. in Arroyo Grande, in Nipomo, at 1551 Bishop St. in SLO, and at 292 Posada Ln. in Templeton specialize in women’s health. <!-- Source: https://www.communityhealthcenters.org/locations/ -->
 
+<!-- Not listed here: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) offers cervical- and breast-cancer screening and menopause treatment.
+-->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a women’s mobile health unit.
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a women’s mobile health unit. <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
 
 ### <a id="poison-oak">Poison Oak</a>
 
-Poison oak is a common plant in SLO County and grows everywhere from shaded wet creek beds to dry sunny hillsides.
-It is a shrub or vine and sometimes also climbs trees and so can appear to be tree branches.
-Its leaves appear in groups of three, but they can have a variety of shapes and colors (dark to pale green, pale orange, bright red).
-The plants sometimes also display clusters of small green, pale, or red berries.
+Poison oak is a common plant in SLO County and grows everywhere from shaded wet creek beds to dry sunny hillsides. <!-- Sources: https://www.calflora.org/entry/observ.html#srch=t&taxon=Toxicodendron+diversilobum&lpcli=t&cch=t&inat=r&chk=t&cc=SLO and https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=46791 -->
+It is a shrub or vine and sometimes also climbs trees and so can appear to be tree branches. <!-- Source: https://www.fs.usda.gov/database/feis/plants/vine/toxdiv/all.html -->
+Its leaves appear in groups of three, but they can have a variety of shapes and colors (dark to pale green, pale orange, bright red). <!-- Source: https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=46791 -->
+The plants sometimes also display clusters of tiny green, pale, or brown fruits. <!-- Source: https://ipm.ucanr.edu/PMG/WEEDS/pacific_poisonoak.html -->
 
 <div class="poison-oak-images">
 
@@ -1701,34 +1706,34 @@ The plants sometimes also display clusters of small green, pale, or red berries.
 
 </div>
 
-The plant exudes an oil that causes a skin rash in people who touch it.
-You do not have to touch the plant to be affected: you just need to touch the oil, which can rub off onto clothing, pet fur, or other items.
-If you have been near a fire in which poison oak plants were burned, you may be exposed to the oil through the smoke.
-You can prevent the rash by washing your skin thoroughly soon after exposure and by washing any clothing or other items that may be carrying the oil.
-Rubbing alcohol or detergent soaps can be helpful in removing oils.
+The plant exudes an oil that causes a skin rash in people who touch it. <!-- Source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/poison-ivy%2D%2Dpoison-oak -->
+You do not have to touch the plant to be affected: you just need to touch the oil, which can rub off onto clothing, pet fur, or other items and may remain poisonous for years. <!-- Source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/poison-ivy%2D%2Dpoison-oak -->
+If you have been near a fire in which poison oak plants were burned, you may be exposed to the oil through the smoke. <!-- Source: https://ipm.ucanr.edu/home-and-landscape/poison-oak/#gsc.tab=0 -->
+You can prevent the rash by washing your skin thoroughly as soon as possible after exposure and by washing any clothing or other items that may be carrying the oil. <!-- Source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/poison-ivy%2D%2Dpoison-oak -->
+Rubbing alcohol or detergent soaps can be helpful in removing oils. <!-- Sources: https://ipm.ucanr.edu/home-and-landscape/poison-oak/#INTRODUCTION_65_1 and https://www.cdc.gov/niosh/docs/2010-118/default.html -->
 
-The rash appears several hours or even a few days after exposure.
+The rash typically appears 12–48 hours, or even several days after exposure. <!-- Sources: https://www.mayoclinic.org/diseases-conditions/poison-ivy/symptoms-causes/syc-20376485 and https://www.healthline.com/health/outdoor-health/poison-oak-pictures-remedies -->
 It is typically very itchy, and sometimes blisters.
-You can treat the rash with over-the-counter steroid (such as hydrocortisone) creams, or calamine lotion.
+You can treat the rash with over-the-counter steroid (such as hydrocortisone) creams, calamine lotion, or antihistamines. <!-- Source: https://www.mayoclinic.org/diseases-conditions/poison-ivy/diagnosis-treatment/drc-20376490 -->
 
-If you have trouble breathing or swallowing, you may have inhaled some oils (for example from smoke) and you may be experiencing internal swelling.
+If you have trouble breathing or swallowing, you may have inhaled some oils (for example from smoke) and you may be experiencing severe respiratory irritation. <!-- Source: https://ipm.ucanr.edu/home-and-landscape/poison-oak/#gsc.tab=0 -->
 In such a case you should seek medical attention.
 
 ### <a id="sunburn">Sunburn</a>
 
-Sunburn is painful.
-It also can make you fatigued and more susceptible to infection.
-In the long run it can put you at higher risk of developing skin cancer.
+Sunburn is painful. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
+It also can make you fatigued and more susceptible to infection. <!-- Sources: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 and https://www.cancer.org/cancer/risk-prevention/sun-and-uv/uv-radiation.html -->
+In the long run it can put you at higher risk of developing skin cancer. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 
 Homeless people are more prone to sunburn because they have fewer options to escape the mid-day sun.
-You can reduce your risk of sunburn by finding shady places to rest during the day, by wearing more thoroughly-covering clothing like long-sleeved shirts and broad-brimmed hats, and by applying sunscreen.
+You can reduce your risk of sunburn by finding shady places to rest during the day, by wearing more thoroughly-covering clothing like long-sleeved shirts and broad-brimmed hats, and by applying sunscreen. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 Ask homeless service providers if they have any sunscreen they can give you. Sometimes they do.
 
 > See the [Clothing](#clothing) section of this guide for some tips on where to find free or low-cost clothing.
 
-If you develop a sunburn, you can get some relief with over-the-counter salves and creams, or just by keeping the area moist (perhaps with a dampened cloth).
-If you have blisters that break, keep the area clean and covered with a bandage.
-If you notice increasing redness that spreads beyond the area of the burn, or pus, or if you develop a fever, seek medical care as this may indicate an infection.
+If you develop a sunburn, you can get some relief with over-the-counter salves and creams, or just by keeping the area moist (perhaps with a dampened cloth). <!-- Source: https://www.mayoclinic.org/first-aid/first-aid-sunburn/basics/art-20056643 -->
+If you have blisters that break, keep the area clean and covered with a bandage. <!-- Source: https://www.mayoclinic.org/first-aid/first-aid-sunburn/basics/art-20056643 -->
+If you notice increasing redness that spreads beyond the area of the burn, or pus, or if you develop a fever, seek medical care as this may indicate an infection. <!-- SOurce: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 
 <!--
 ### Uncategorized / Needs Research
@@ -3075,8 +3080,9 @@ Contact them at [lifelearnerscentralcoast@gmail.com](mailto:lifelearnerscentralc
 [Toastmasters](https://www.toastmasters.org/) is a peer-led course of practical exercises that improve your public speaking skills.
 Clubs typically meet for one hour once per week and members practice public speaking exercises together and provide critiques and advice.
 They welcome guests to participate.
-It is not free. There is a $60 membership fee every six months, and some individual groups also charge small membership fees of their own.
-Our local Toastmasters groups include:
+It is not free.
+There is a $60 membership fee every six months, and some individual groups also charge small membership fees of their own.
+Toastmasters in SLO County groups include:
 
 | Club | Meeting Time | Location |
 | ---- | ------------ | -------- |

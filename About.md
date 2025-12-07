@@ -90,7 +90,7 @@ From the menu bar, select **File → Add to Dock**, or bookmark this page with <
 
 ## How to Report Errors or Suggest Improvements
 
-We want this guide to be as accurate and helpful as possible.
+VivaSLO tries to be as accurate and helpful as possible.
 If you find outdated information, errors, or want to suggest improvements:
 
 - Click the feedback button (💬) in the bottom-right corner of the screen
