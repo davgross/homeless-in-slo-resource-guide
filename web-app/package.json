@@ -14,7 +14,7 @@
     "validate:all": "node scripts/validate-html.js",
     "generate-icons": "node create-maskable-icons.js",
     "extract-map-data": "node scripts/extract-map-data.js",
-    "lint:markdown": "cd .. && npm run lint:sources"
+    "lint:markdown": "cd .. && npm install --silent && npm run lint:sources"
   },
   "dependencies": {
     "dompurify": "^3.2.2",
