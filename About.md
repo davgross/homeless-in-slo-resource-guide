@@ -95,9 +95,9 @@ If you find outdated information, errors, or want to suggest improvements:
 
 - Click the feedback button (💬) in the bottom-right corner of the screen
 - Complete the feedback form with details about the issue or suggestion
-- Click "Send Feedback" to submit your message
+- Click “Send Feedback” to submit your message
 
-Your feedback helps keep this resource current and useful for everyone in our community.
+Your feedback helps keep this resource current and useful for everyone.
 
 -----
 
@@ -118,7 +118,7 @@ This application uses the following open-source libraries and fonts:
 - [Marked](https://github.com/markedjs/marked) (MIT License)—Markdown parser
 - [DOMPurify](https://github.com/cure53/DOMPurify) (Apache 2.0 / MPL 2.0)—HTML sanitizer
 - [Vite](https://vitejs.dev) (MIT License)—Build tool
-- [vite-plugin-pwa](https://vite-pwa-org.netlify.app) (MIT License)—Progressive Web App functionality
+- [vite-plugin-pwa](https://vite-pwa-org.netlify.app) (MIT License)—Progressive Web App capability
 - [mimetext](https://github.com/muratgozel/MIMEText) (MIT License)—Email message builder
 - [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates) (SIL Open Font License 1.1)—Display font
 - [OpenDyslexic](https://opendyslexic.org/) (SIL Open Font License 1.1)—Accessibility font option

@@ -1,0 +1,21 @@
+{
+  "name": "slo-homeless-resource-guide-content",
+  "version": "1.0.0",
+  "description": "Content and linting for SLO County Homeless Resource Guide",
+  "type": "module",
+  "scripts": {
+    "lint:remark": "remark . --quiet --frail",
+    "lint:remark:verbose": "remark .",
+    "lint:sources": "remark 'About.md' 'Directory.md' 'Resource guide.md' --quiet --frail"
+  },
+  "keywords": ["homeless", "resources", "slo", "markdown"],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "remark-cli": "^12.0.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-gfm": "^4.0.0",
+    "unist-util-visit": "^5.0.0",
+    "unist-util-visit-parents": "^6.0.0"
+  }
+}
