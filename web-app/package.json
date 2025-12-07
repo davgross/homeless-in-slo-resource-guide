@@ -6,14 +6,15 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run extract-map-data && vite build && npm run validate:all",
+    "build": "npm run lint:markdown && npm run extract-map-data && vite build && npm run validate:all",
     "build:novalidate": "npm run extract-map-data && vite build",
     "preview": "vite preview",
     "validate": "html-validate index.html",
     "validate:dist": "html-validate dist/index.html",
     "validate:all": "node scripts/validate-html.js",
     "generate-icons": "node create-maskable-icons.js",
-    "extract-map-data": "node scripts/extract-map-data.js"
+    "extract-map-data": "node scripts/extract-map-data.js",
+    "lint:markdown": "cd .. && npm run lint:sources"
   },
   "dependencies": {
     "dompurify": "^3.2.2",
