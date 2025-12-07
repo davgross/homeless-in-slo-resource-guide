@@ -1337,7 +1337,7 @@ Bring your insurance card, identification, and a list of medications you take.
 
 <!-- Sources:
  CHC: https://www.communityhealthcenters.org/patient-resources/payment/
- Dignity: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care 
+ Dignity: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care
  Carbon: https://support.carbonhealth.com/billing-and-insurance/paying-bills
  UCA, UCMB, UCPB: https://www.ccpnhpn.com/becoming-a-member/
  NCCMES: SOURCE NEEDED (Issue #27)
@@ -1406,7 +1406,7 @@ To find a Medi-Cal Dental provider, see one of these resources:
 Medicare is a government-provided health insurance program for people over age 65 and for people with long-term disabilities.
 
 Learn if you qualify for Medicare by asking the [**Social Security Administration**](Directory.md#Social-Security-Administration).
-See [ssa.gov/prepare/check-eligibility-for-benefits](https://www.ssa.gov/prepare/check-eligibility-for-benefits) or visit in person.
+See [ssa.gov: “Check eligibility for Social Security benefits”](https://www.ssa.gov/prepare/check-eligibility-for-benefits) or visit in person.
 
 Medicare’s many options can be confusing.
 [**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options.
@@ -1420,22 +1420,19 @@ HiCAP can help you:
 To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties. <!-- SOURCE NEEDED -->
 The HiCAP program is free. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 
-You can also submit questions to them via a web form and get answers by email: [centralcoastseniors.org/ask-a-medicare-question](https://centralcoastseniors.org/ask-a-medicare-question/)
+You can also submit questions to them via a web form and get answers by email: [“Ask a Medicare Question”](https://centralcoastseniors.org/ask-a-medicare-question/)
 
 #### Covered California / Obamacare
 
 Covered California is a free service that helps you to apply for affordable medical insurance in California.
-This includes Medi-Cal but also a variety of other brand-name health insurance plans, which may be available to you for free or at a very low cost depending on your income and circumstances.
+This includes Medi-Cal/CenCal but also a variety of other brand-name health insurance plans, which may be available to you for free or at a very low cost depending on your income and circumstances.
 
 Visit [coveredca.com](https://www.coveredca.com/) or call [800-300-1506](tel:+1-800-300-1506) to learn more.
 
 #### VA Health Care
 
 Military veterans may qualify for VA health care.
-To learn if you qualify, how to apply, and details about your medical benefits package:
-
-- call [877-222-8387](tel:+1-877-222-8387), or
-- visit [va.gov/health-care/about-va-health-benefits](https://va.gov/health-care/about-va-health-benefits/)
+To learn if you qualify, how to apply, and details about your medical benefits package, call [877-222-8387](tel:+1-877-222-8387), or visit [va.gov: “About VA health benefits.”](https://va.gov/health-care/about-va-health-benefits/)
 
 See also [**SLO Vet Center**](Directory.md#SLO-Vet-Center), [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic), and [**Veterans Services (SLO County)**](Directory.md#Veterans-Services).
 
@@ -1460,66 +1457,77 @@ Ask them in person for an application or contact them at [844-827-5047](tel:+1-8
 
 ### <a id="medical-and-assistive-devices">Medical and Assistive Devices</a>
 
-[**Access Central Coast**](Directory.md#Access-Central-Coast) helps you find and afford assistive devices like wheelchairs, canes, walkers, scooters, modified telephones, and speech-generating devices.
+[**Access Central Coast**](Directory.md#Access-Central-Coast) helps you find and afford assistive devices like wheelchairs, canes, walkers, scooters, modified telephones, and speech-generating devices. <!-- Source: https://accesscentralcoast.org/our-services/ -->
 
-[**Alliance for Pharmaceutical Access**](Directory.md#APA) helps you get low-cost diabetic supplies (glucose test strips and meters, insulin syringes, etc.).
+[**Alliance for Pharmaceutical Access**](Directory.md#APA) helps you get low-cost diabetic supplies (glucose test strips and meters, insulin syringes, etc.). <!-- SOURCE NEEDED -->
 
-[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center), [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), and [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) have free lending libraries of mobility aids and some other medical equipment.
+[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center), <!-- Source: https://atascaderoseniorcenter.org/ -->
+[**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), <!-- Source: https://morrobayseniors.org/resources/ -->
+and [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
+have free lending libraries of mobility aids and some other medical equipment.
 
-The [**Boyd Bristol Medical Equipment Program**](Directory.md#Boyd-Bristol-Medical-Equipment-Program) helps veterans and their family members get free loans of medical equipment like walkers, canes, scooters, and crutches.
-They can also deliver these devices to you.
+The [**Boyd Bristol Medical Equipment Program**](Directory.md#Boyd-Bristol-Medical-Equipment-Program) helps veterans and their family members get free loans of medical equipment like walkers, canes, scooters, and crutches. <!-- Source: https://post66slo.org/serving-veterans/ -->
+They can also deliver these devices to you. <!-- Source: https://post66slo.org/serving-veterans/ -->
 
-[**Cambria’s Anonymous Neighbors (CAN)**](Directory.md#Cambrias-Anonymous-Neighbors) provides loans of medical equipment including wheelchairs, walkers, canes, grab bars, and Life Alert devices to people on the North Coast.
-<!-- Source: https://www.joslynrec.org/CAN/index.html -->
+[**Cambria’s Anonymous Neighbors (CAN)**](Directory.md#Cambrias-Anonymous-Neighbors) provides loans of medical equipment including wheelchairs, walkers, canes, grab bars, and Life Alert devices to people on the North Coast. <!-- Source: https://www.joslynrec.org/CAN/index.html -->
 
-[**California Connect**](Directory.md#California-Connect) can loan you, for free, assistive telecommunications equipment that helps if you have functional limitations of hearing, vision, mobility, speech, and/or interpretation of information.
+[**California Connect**](Directory.md#California-Connect) can loan you, for free, assistive telecommunications equipment that helps if you have functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://caconnect.org/ -->
 
-The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) runs a “for sale, free, or needed” on-line assistive technology exchange.
-They can also get you a free speech-generating device if you have difficulty speaking.
+The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) can give you a free speech-generating device if you have difficulty speaking. <!-- Source: https://www.dor.ca.gov/Home/VoiceOptions -->
+<!--
+The California Foundation for Independent Living Centers operates a “for sale, free, or needed” on-line assistive technology exchange.
+{ SOURCE: https://www.dor.ca.gov/Home/AssistiveTechnology though NOTE: https://abilitytools.org was inoperable as of 12/7/25 - Issue #72 }
+-->
 
-The [**Central Coast Assistive Technology Center**](Directory.md#CCATC) allows you to try, and helps you learn to use, assistive technologies including vision/hearing technologies and ergonomics.
+The [**Central Coast Assistive Technology Center**](Directory.md#CCATC) allows you to try, and helps you learn to use, assistive technologies including vision/hearing technologies and ergonomics. <!-- Source: https://ccatc.org/at-services/ -->
 They also help you access a no-cost lending library of assistive technology devices ([myatprogram.org](https://myatprogram.org/)).
 
+<!--
 [**Elks Lodge #2504**](Directory.md#Elks-Lodge-2504) has a lending library of wheelchairs, crutches, and walkers.
+{ SOURCE NEEDED (issue #73) }
+-->
 
-[**PathPoint**](Directory.md#PathPoint) has a lending library of assistive technology devices for people with developmental disabilities.
+[**PathPoint**](Directory.md#PathPoint) has a lending library of assistive technology devices for people with developmental disabilities. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps uninsured people get low-cost diabetes monitoring and treatment supplies.
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps uninsured people get low-cost diabetes monitoring and treatment supplies. <!-- SOURCE NEEDED (issue #74) -->
 
-[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) can loan you assistive technology like walkers and wheelchairs.
-Call them for details.
+[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) can loan you assistive technology like walkers and wheelchairs. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->
+Call them or visit their office for details. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/contact/ -->
 
 ### <a id="prescription-medicines">Prescription Medicines</a>
 
 Drug discount plans allow you to get prescriptions at reduced prices.
-You can get help finding the best discount plans for you from [**Alliance for Pharmaceutical Access**](Directory.md#APA), [**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP), [**NeedyMeds**](Directory.md#NeedyMeds), or [**United Way**](Directory.md#United-Way).
+You can get help finding the best discount plans for you from [**Alliance for Pharmaceutical Access**](Directory.md#APA), <!-- Source: https://apameds.org/what-we-do/ -->
+[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP), <!-- Source: https://centralcoastseniors.org/medicare-part-d-drug-plan-finder-tool/ -->
+[**NeedyMeds**](Directory.md#NeedyMeds), <!-- Source: https://needymeds.org/ -->
+or [**United Way**](Directory.md#United-Way). <!-- Source: https://unitedwayslo.org/prescription-drug-discount-cards/ -->
 
 For answers about Medi-Cal/CenCal prescription benefits, contact [**Medi-Cal Rx**](Directory.md#Medi-Cal).
-To find a Medi-Cal Rx pharmacy, visit [medi-calrx.dhcs.ca.gov/home/find-a-pharmacy](https://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy).
+To find a Medi-Cal Rx pharmacy, visit [medi-calrx.dhcs.ca.gov: “Find a Pharmacy”](https://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy).
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some medications directly, without you having to visit a pharmacy.
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some medications directly, without you having to visit a pharmacy. <!-- SOURCE NEEDED (issue #75) -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps people who are uninsured (or whose insurance does not cover prescriptions) get free or low-cost prescription medications.
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps people who are uninsured (or whose insurance does not cover prescriptions) get free or low-cost prescription medications. <!-- SOURCE NEEDED (issue #74) -->
 
-[**Cuesta College**](Directory.md#Cuesta-College) students can get over-the-counter and prescription medicines (many free of charge) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html).
+[**Cuesta College**](Directory.md#Cuesta-College) students can get over-the-counter and some prescription medicines (many free of charge) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/ -->
 
 ### <a id="dental-care">Dental Care</a>
 
 [**Central Coast Dental Society**](Directory.md#CCDS) maintains [a list of dentists who offer reduced rates for people in financial hardship](https://centralcoastdentalsociety.org/public-resources/reduced-fee-dental).
 
-[**Community Health Centers**](Directory.md#CHC) offers dental care at its offices in Nipomo, Oceano, Templeton (Las Tablas), and at 40 Prado in SLO.
+[**Community Health Centers**](Directory.md#CHC) offers dental care at its offices in Nipomo, Oceano, Templeton (Las Tablas), and at 40 Prado in SLO. <!-- Source: https://www.communityhealthcenters.org/health-services/dental/ -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a dental clinic.
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a dental clinic. <!-- Source: https://www.slonoorfoundation.org/dental -->
 
 > See [Medi-Cal: Dentists](#medi-cal-dentists) above to learn how to find a Medi-Cal dental provider.
 
 ### <a id="vision-care">Vision Care</a>
 
-The [**Community Health Centers**](Directory.md#CHC) offices in Paso Robles and at 260 Station Way in Arroyo Grande specialize in optometry.
+The [**Community Health Centers**](Directory.md#CHC) offices in Nipomo, Paso Robles, and at 260 Station Way in Arroyo Grande specialize in optometry. <!-- Source: https://www.communityhealthcenters.org/health-services/optometry/ -->
 
-[**EyeCare America**](Directory.md#EyeCare-America) offers a free eye exam and follow-up ophthalmology treatment to uninsured and underinsured adults.
+[**EyeCare America**](Directory.md#EyeCare-America) offers a free eye exam and follow-up ophthalmology treatment to uninsured and underinsured adults. <!-- Source: https://www.aao.org/eyecare-america -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a vision care clinic.
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a vision care clinic. <!-- Source: https://www.slonoorfoundation.org/vision -->
 
 #### Eyeglasses
 
@@ -1535,93 +1543,106 @@ You can get 24-hour mental health support from SLO Hotline ([805-783-0607](tel:+
 
 The [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) and [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) respond to acute mental health needs.
 
-[**Cal Poly Community Counseling Service**](Directory.md#Cal-Poly-Community-Counseling-Service) and [**Community Counseling Center**](Directory.md#Community-Counseling-Center) offer low- or no-cost mental health counseling.
+[**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) and [**Community Counseling Center**](Directory.md#Community-Counseling-Center) offer low- or no-cost mental health counseling.
 
-A [**Community Health Centers**](Directory.md#CHC) primary care physician can refer you to CHC-provided mental health counseling or psychiatry, which happens over the phone or through internet videoconferencing.
+A [**Community Health Centers**](Directory.md#CHC) primary care physician can refer you to CHC-provided mental health counseling or psychiatry, which happens over the phone or through internet videoconferencing. <!-- Source: Dan Gross, LCSW @ CHC, personal communication -DG -->
 
-[**Cuesta College**](Directory.md#Cuesta-College) students can get mental health therapy from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html).
+[**Cuesta College**](Directory.md#Cuesta-College) students can get mental health therapy through [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
 
-Adult Mental Health Outpatient Treatment (via [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) and [**Transitions Mental Health Association**](Directory.md#TMHA) and its [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) offer mental health evaluation & treatment, with programs specifically for homeless people.
+Adult Mental Health Outpatient Treatment (via [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
+and [**Transitions Mental Health Association**](Directory.md#TMHA) <!-- Source: https://www.t-mha.org/clinical-services.php -->
+and its [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
+offer mental health evaluation & treatment, including programs specifically for homeless people.
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) at [**CAPSLO**](Directory.md#CAPSLO)’s [**40 Prado Homeless Services Center**](Directory.md#40-Prado) includes mental health counseling and treatment.
-[**SLO Hub**](Directory.md#SLO-Hub) offers weekly mental health therapy sessions to its clients.
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) at [**CAPSLO**](Directory.md#CAPSLO)’s [**40 Prado Homeless Services Center**](Directory.md#40-Prado) includes mental health counseling and treatment. <!-- SOURCE NEEDED (issue #75) -->
+[**SLO Hub**](Directory.md#SLO-Hub) offers weekly mental health therapy sessions to its clients. <!-- SOURCE NEEDED (https://capslo.org/slo-hub/ mentions therapists, but nothing about weekly sessions) -->
 
-[**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) and [**PathPoint**](Directory.md#PathPoint) have some services for people with mental health disorders and/or developmental disabilities.
+[**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
+and [**PathPoint**](Directory.md#PathPoint) <!-- Source: https://www.pathpoint.org/services/ -->
+have some services for people with mental health disorders and/or developmental disabilities.
 
-[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) offers some mental health services to people who are deaf or hard of hearing.
+[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) offers some mental health services to people who are deaf or hard of hearing. <!-- Source: https://tcglad.org/mental-health/ -->
 
 The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers mental health care to qualifying U.S. military veterans.
-And [**SLO Vet Center**](Directory.md#SLO-Vet-Center) offers confidential counseling and other mental health care to combat veterans (and certain other veterans) and to victims of military sexual trauma.
+They say: “All VA health care facilities offer same-day help. You may qualify even without enrolling in VA health care.” <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
+And [**SLO Vet Center**](Directory.md#SLO-Vet-Center) offers confidential counseling and other mental health care to combat veterans (and certain other veterans) and to victims of military sexual trauma. <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
 
 ### <a id="reproductive-health">Reproductive Health</a>
 
-[**The Center for Health and Prevention**](Directory.md#The-Center) offers contraception, STD testing and treatment, UTI/yeast infection testing and treatment, genital exams, Pap smears, and menopausal services.
+[**The Center for Health and Prevention**](Directory.md#The-Center) offers contraception, STD testing and treatment, UTI/yeast infection testing and treatment, genital exams, Pap smears, and menopausal services. <!-- Source: https://capslo.org/the-center/ -->
 
-[**Cuesta College**](Directory.md#Cuesta-College) students can get reproductive/sexual healthcare and referrals (for example for birth control, emergency contraception, and STI testing) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html).
+[**Cuesta College**](Directory.md#Cuesta-College) students can get reproductive/sexual healthcare and referrals (for example for birth control, emergency contraception, and STI testing) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers contraceptives, HIV screening and education, OB/GYN services, and STD testing.
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers contraceptives, HIV screening and education, OB/GYN services, and STD testing. <!-- SOURCE NEEDED (issue #75) -->
 
-[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers abortion, birth control, emergency contraception, HIV/STD testing and treatment, HPV vaccines, help with various sexual and reproductive concerns, and no-cost family planning services.
+[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers abortion, birth control, emergency contraception, HIV/STD testing and treatment, help with various sexual and reproductive concerns, and no-cost family planning services. <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources# -->
 
-The [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) offers STD testing and birth control.
+The [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) offers STD testing and birth control. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/std-testing-and-treatment and https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/fees/family-health-services-fee-list-2023-2024 -->
 
 ### <a id="pregnancy-childbirth-lactation">Pregnancy, Childbirth, Lactation</a>
 
-[**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista) ([805-546-7939](tel:+1-805-546-7939)) and [**French Hospital**](Directory.md#French-Hospital-Medical-Center) ([805-541-2229](tel:+1-805-541-2229)) each offer free breastfeeding support by phone.
+[**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista) ([805-434-4644](tel:+1-805-434-4644)) <!-- Source: https://www.adventisthealth.org/central-coast/events/ahtc-lactation-clinic-private-consultation -->
+and [**French Hospital**](Directory.md#French-Hospital-Medical-Center) ([805-541-2229](tel:+1-805-541-2229)) <!-- Source: https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/maternity/breastfeeding-support -->
+each offer free breastfeeding support by phone.
 
-[**The Center for Health and Prevention**](Directory.md#The-Center) offers pregnancy testing and counseling.
+[**The Center for Health and Prevention**](Directory.md#The-Center) offers pregnancy testing and counseling. <!-- Source: https://capslo.org/the-center/ -->
 
-[**Community Health Centers of the Central Coast**](Directory.md#CHC)’s 1551 Bishop St. (SLO) and 292 Posada Ln. (Templeton) locations offer the Wellness Pregnancy Program / Comprehensive Perinatal Services Program.
+[**Community Health Centers of the Central Coast**](Directory.md#CHC)’s 1057 E. Grand Ave. (Arroyo Grande), 1551 Bishop St. (SLO), and 292 Posada Ln. (Templeton) locations offer the Wellness Pregnancy Program / Comprehensive Perinatal Services Program. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
 
+<!-- These classes are only for people delivering at French; they're not free to the general public
 [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts several [free classes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) on pregnancy, childbirth, baby-care, and breast-feeding.
+-->
 
-[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers pregnancy testing and planning, and prenatal and postpartum services.
+[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers pregnancy testing and planning, and prenatal and postpartum services. <!-- Source: https://www.plannedparenthood.org/get-care/our-services -->
 
-[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) offers maternity clothes, nursing supplies, diapers, formula, and referrals.
+[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) offers maternity clothes, nursing supplies, diapers, formula, and referrals. <!-- Source: https://www.ppsslo.org/practical-assistance -->
 
-The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program offers breastfeeding support.
+The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program offers breastfeeding support. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 
 ### <a id="chiropractic-treatment">Chiropractic Treatment</a>
 
-The [**Community Health Centers of the Central Coast**](Directory.md#CHC) offices in Atascadero, Cambria, Nipomo, Oceano, Paso Robles, San Miguel, Templeton (Las Tablas), and at 77 Casa St. in SLO offer chiropractic treatment.
+The [**Community Health Centers of the Central Coast**](Directory.md#CHC) offices in Arroyo Grande (260 Station Way and 1205 E. Grand Ave.), Atascadero, Cambria, Nipomo, Oceano, Paso Robles, San Miguel, Templeton (Las Tablas), and SLO (77 Casa St. and 1551 Bishop St.) offer chiropractic treatment. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub pages -->
 
 ### <a id="surgery">Surgery</a>
 
-The [**CSF Medical Non Profit Foundation**](Directory.md#CSF-Medical-Non-Profit-Foundation) helps medically uninsured people obtain life-saving surgical procedures.
+The [**CSF Medical Non Profit Foundation**](Directory.md#CSF-Medical-Non-Profit-Foundation) helps medically uninsured people obtain life-saving surgical procedures. <!-- Source: https://csffoundation.org/csf-surgery/ -->
 
-The [**Recuperative Care Program**](Directory.md#Recuperative-Care-Program) gives you a place to recover from surgery if your health would be compromised by an unstable living situation.
-Ask your doctor to refer you to that program.
+The [**Recuperative Care Program**](Directory.md#Recuperative-Care-Program) gives you a place to recover from surgery if your health would be compromised by an unstable living situation. <!-- Source: https://capslo.org/rcp/ -->
+Ask your doctor to refer you to that program. <!-- Source: https://capslo.org/rcp/ -->
 
 ### <a id="medical-resources-specific-populations">Medical Resources for Specific Populations</a>
 
 #### Children
 
-[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it.
+[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/benefits.aspx -->
 
-The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Nipomo, in Oceano, in Paso Robles, Templeton (Las Tablas), and 77 Casa St. in SLO offer pediatric services.
+The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Nipomo, Oceano, Paso Robles, Templeton (Las Tablas), and at 77 Casa St. in SLO offer pediatric services. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub pages -->
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers pediatric care and well child check-ups.
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers pediatric care and well child check-ups. <!-- SOURCE NEEDED (issue #75) -->
 
-[InfantSEE](https://www.infantsee.org/) helps you get a free eye/vision test for infants.
+[InfantSEE](https://www.infantsee.org/) helps you get a free eye/vision test for infants. <!-- Source: https://www.infantsee.org/about-us -->
 
-[Tolosa Children’s Dental Center](https://tolosachildrensdental.org/) ([805-592-2445](tel:+1-805-592-2445)) accepts Medi-Cal or sliding-scale cash payments.
+[Tolosa Children’s Dental Center](https://tolosachildrensdental.org/) ([805-592-2445](tel:+1-805-592-2445)) accepts Medi-Cal <!-- Source: https://tolosachildrensdental.org/about-us/ -->
+or sliding-scale cash payments. <!-- SOURCE NEEDED -->
 
-[**UnitedHealthcare Children’s Foundation**](Directory.md#UnitedHealthcare-Childrens-Foundation) helps pay for medical expenses that are not covered by a child’s family’s commercial health insurance.
-The child must be 16 or younger, with a U.S. social security number.
-The need must be documented by a physician, and the child must be covered by commercial health insurance.
+[**UnitedHealthcare Children’s Foundation**](Directory.md#UnitedHealthcare-Childrens-Foundation) helps pay for medical expenses that are not covered by a child’s family’s commercial health insurance. <!-- Source: https://www.uhccf.org/ -->
+The child must be 16 or younger, with a U.S. social security number. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
+The need must be documented by a physician, and the child must be covered by commercial health insurance. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
 
-The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program gives financial assistance to low-income women who have recently given birth.
+The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program gives food benefits to low-income women who have recently given birth. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 
 #### People with Diabetes
 
-[**Alliance for Pharmaceutical Access**](Directory.md#APA) and [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) can help you get low-cost diabetes supplies.
+[**Alliance for Pharmaceutical Access**](Directory.md#APA)
+and [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) <!-- SOURCE NEEDED (issue #74) -->
+can help you get low-cost diabetes supplies.
 
-[**Dignity Health**](Directory.md#Dignity-Health) leads a free diabetes support group on Zoom (internet video conferencing) and in-person every three months.
-Call [805-597-6780](tel:+1-805-597-6780) or email [Angela.Fissell@commonspirit.org](mailto:Angela.Fissell@commonspirit.org) for details.
+[**Dignity Health**](Directory.md#Dignity-Health) leads a free diabetes support group on Zoom (internet video conferencing) and in-person every three months. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
+Call [805-597-6780](tel:+1-805-597-6780) or email [Angela.Fissell@commonspirit.org](mailto:Angela.Fissell@commonspirit.org) for details. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers diabetes testing and care.
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers diabetes testing and care. <!-- SOURCE NEEDED (issue #75) -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) offers nutrition education & lifestyle coaching for uninsured people with diabetes or prediabetes.
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) offers nutrition education & lifestyle coaching for uninsured people with diabetes or prediabetes. <!-- Source: https://www.slonoorfoundation.org/medical -->
 
 #### People with Disabilities
 
@@ -2265,7 +2286,7 @@ If you are filing a family law case, you can get free help from [**SLO Court Sel
 
 [**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) is an immigration legal services center that can help you with naturalization, consular processing, immigration status changes, temporary protective status, DACA, green card renewals, and visas.
 
-[**SLO College of Law**](SLO-College-of-Law-Legal-Clinic) holds [immigration clinics](https://montereylaw.edu/clinics/immigrationclinic.html) by telephone or Zoom on Mondays between 4pm and 6pm.
+[**SLO College of Law**](Directory.md#SLO-College-of-Law-Legal-Clinic) holds [immigration clinics](https://montereylaw.edu/clinics/immigrationclinic.html) by telephone or Zoom on Mondays between 4pm and 6pm.
 They can help you with DACA renewal, visas, naturalization/citizenship, and green cards.
 This costs $15.
 Schedule an appointment at their website or by calling [831-582-3600](tel:+1-831-582-3600).
@@ -2804,7 +2825,7 @@ This temporarily pays you part of the salary you earned while you were working.
 To qualify, you must have a Social Security number, be authorized to work in the United States, and earn some minimum amount of reported wages or salary during the previous 18 months.
 You must have become totally or partially unemployed, and through no fault of your own.
 You must also be able to work, looking for paid work, and able to accept paid work.
-You can apply for unemployment benefits from California’s [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) through [the myEDD website](edd.ca.gov/Unemployment/UI_Online.htm) or by phone ([800-300-5616](tel:+1-800-300-5616), TTY: [800-815-9387](tel:+1-800-815-9387)).
+You can apply for unemployment benefits from California’s [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) through [the myEDD website](https://edd.ca.gov/Unemployment/UI_Online.htm) or by phone ([800-300-5616](tel:+1-800-300-5616), TTY: [800-815-9387](tel:+1-800-815-9387)).
 If you have questions, you can also email [WSBSanLuisObispoInfo@edd.ca.gov](mailto:WSBSanLuisObispoInfo@edd.ca.gov).
 
 If you are a U.S. military veteran, you can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
@@ -3492,7 +3513,7 @@ There are also support groups for people recently diagnosed, and for people suff
 To register for a group, call [800-272-3900](tel:+1-800-272-3900).
 
 **Amyotrophic lateral sclerosis (ALS):** An ALS support group meets monthly via Zoom.
-To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878).
+To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878).
 
 **Cancer:** [Cancer Support Community](https://cscslo.org/) offers a variety of no-cost services for people with cancer, including health education and exercise classes, as well as several support groups, some of which meet in Templeton, some on-line.
 

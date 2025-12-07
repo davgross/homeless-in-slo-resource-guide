@@ -382,4 +382,4 @@ for (const file of files) {
 console.log(`\n${'='.repeat(60)}`);
 console.log(`Total potentially misspelled words: ${totalIssues}`);
 console.log(`\nNote: Using aspell for spell checking with custom whitelist.`);
-console.log(`Add domain-specific terms to the WHITELIST in spell-check.js`);
+console.log(`Add domain-specific terms to the WHITELIST in spell-check.cjs`);

@@ -172,6 +172,10 @@ export default function remarkStyleGuide() {
                     message: `Use "help you verb" rather than "help you to verb"`,
                 },
                 {
+                    pattern: /\b[Tt]he homeless\b/,
+                    message: `Use "homeless people" or "people experiencing homelessness" rather than "the homeless"`,
+                },
+                {
                     pattern: /\bim(h)?o\b/i,
                     message: `Omit "IMO" or "IMHO"`,
                 },
@@ -551,7 +555,7 @@ export default function remarkStyleGuide() {
                 },
                 {
                     pattern: /\b(do|does|doing|did|done) without\b[.,;!?:]?/i,
-                    message: `Rather than "do without" consider e.g. "omit"`,
+                    message: `Rather than "do without" consider e.g. "lack", "omit"`,
                 },
                 {
                     pattern: /\b(draw|draws|drawing|drew|drawn)\b(?:\s+\w{1,15}){0,4}? down\b[.,;!?:]?/i,
@@ -574,8 +578,12 @@ export default function remarkStyleGuide() {
                     message: `Rather than "drive up" consider e.g. "boost", "improve", "increase"`,
                 },
                 {
+                    pattern: /\b(drop|drops|dropping|dropped) by\b[.,;!?:]?/i,
+                    message: `Rather than "drop by" consider e.g. "visit"`,
+                },
+                {
                     pattern: /\b(drop|drops|dropping|dropped) off\b[.,;!?:]?/i,
-                    message: `Rather than "drop off" consider e.g. "decrease"`,
+                    message: `Rather than "drop off" consider e.g. "decrease", "leave"`,
                 },
                 {
                     pattern: /\b(drown|drowns|drowning|drowned)\b(?:\s+\w{1,15}){0,4}? out\b[.,;!?:]?/i,

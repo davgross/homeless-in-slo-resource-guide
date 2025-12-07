@@ -1186,6 +1186,7 @@
 
 ## <a id="Dignity-Health">Dignity Health</a>
 
+- Website: [dignityhealth.org](https://www.dignityhealth.org/)
 - Operates [**Arroyo Grande Community Hospital**](#Arroyo-Grande-Community-Hospital), [**French Hospital Medical Center**](#French-Hospital-Medical-Center), and [**Dignity Health Urgent Care**](#Dignity-Health-Urgent-Care)
 - Operates the “Substance Use Navigator” program
 
@@ -1280,14 +1281,16 @@
 - **Phone:** [805-781-5930 x4](tel:+1-805-781-5930;ext=4) (Monday–Friday 8:30am–4:30pm)
 - **Email:** [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
 
+<!-- Not clear that they offer anything in particular to our audience
 ## <a id="Elks-Lodge-2504">Elks Lodge #2504</a>
 
 - **Website:** [oceanoelks2504.org](https://oceanoelks2504.org/)
-- **Location:** 410 Air Park Drive, Oceano <a class="map-link" data-lat="35.105357" data-lon="-120.627046" data-zoom="17" data-label="Elks Lodge #2504">Map</a> <!-- Source: https://oceanoelks2504.org/contact-2/ -->
-- **Phone:** [805-489-2504](tel:+1-805-489-2504) <!-- Source: https://oceanoelks2504.org/contact-2/ -->
-- **Email:** [Elks2504@gmail.com](Elks2504@gmail.com) <!-- Source: https://oceanoelks2504.org/contact-2/ -->
+- **Location:** 410 Air Park Drive, Oceano <a class="map-link" data-lat="35.105357" data-lon="-120.627046" data-zoom="17" data-label="Elks Lodge #2504">Map</a> 
+- **Phone:** [805-489-2504](tel:+1-805-489-2504)
+- **Email:** [Elks2504@gmail.com](Elks2504@gmail.com)
 - **Hours:** M–Th 9am–4pm
 - **How to access:** Walk-ins OK, but it’s better to call ahead
+-->
 
 ## <a id="Employment-Development-Department">Employment Development Department</a>
 

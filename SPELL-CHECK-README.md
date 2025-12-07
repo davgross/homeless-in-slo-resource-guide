@@ -7,7 +7,7 @@ A markdown-aware spell checker for the Resource Guide project.
 Run the spell checker:
 
 ```bash
-node spell-check.js
+node spell-check.cjs
 ```
 
 This will check:
@@ -26,7 +26,7 @@ The spell checker:
 
 ## Maintaining the Whitelist
 
-When the spell checker flags valid words, add them to the `WHITELIST` constant in `spell-check.js`:
+When the spell checker flags valid words, add them to the `WHITELIST` constant in `spell-check.cjs`:
 
 ```javascript
 const WHITELIST = new Set([
@@ -91,7 +91,7 @@ The spell checker automatically skips:
 
 ## Adding to Skip Patterns
 
-If you need to skip additional patterns, edit the `SKIP_PATTERNS` array in `spell-check.js`:
+If you need to skip additional patterns, edit the `SKIP_PATTERNS` array in `spell-check.cjs`:
 
 ```javascript
 const SKIP_PATTERNS = [
@@ -124,13 +124,13 @@ For best results, combine with:
 
 ## Example Workflow
 
-1. Run the spell checker: `node spell-check.js`
+1. Run the spell checker: `node spell-check.cjs`
 2. Review the output
 3. For each flagged word:
    - If it's a typo → fix it in the source file
-   - If it's valid and common → add to WHITELIST in spell-check.js
+   - If it's valid and common → add to WHITELIST in spell-check.cjs
    - If it's valid but rare → leave as-is (optional: add a comment)
-4. Re-run to verify: `node spell-check.js`
+4. Re-run to verify: `node spell-check.cjs`
 5. Repeat until satisfied
 
 ## Future Improvements

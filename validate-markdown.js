@@ -5,7 +5,7 @@
  *
  * Validates:
  * 1. Markdown lint rules (via markdownlint-cli)
- * 2. Spelling (via spell-check.js)
+ * 2. Spelling (via spell-check.cjs)
  * 3. Unique anchors within each file
  * 4. Valid internal anchor references (within and between files)
  * 5. data-directory-link attributes reference valid Directory anchors
@@ -394,18 +394,18 @@ function runMarkdownLint(files) {
 }
 
 /**
- * Run spell-check.js
+ * Run spell-check.cjs
  */
 function runSpellCheck() {
   console.log(colorize('\n📖 Running spell check...', 'cyan'));
 
-  const result = spawnSync('node', ['spell-check.js'], {
+  const result = spawnSync('node', ['spell-check.cjs'], {
     encoding: 'utf8',
     cwd: __dirname
   });
 
   if (result.error) {
-    console.log(colorize('  ⚠ spell-check.js failed to run', 'yellow'));
+    console.log(colorize('  ⚠ spell-check.cjs failed to run', 'yellow'));
     console.log(`    ${result.error.message}`);
     return false;
   }
@@ -437,7 +437,7 @@ Options:
 
 Validates:
   - Markdown lint rules (via markdownlint-cli)
-  - Spelling (via spell-check.js)
+  - Spelling (via spell-check.cjs)
   - Unique anchors within each file
   - Valid internal anchor references
   - data-directory-link attributes reference valid Directory anchors
