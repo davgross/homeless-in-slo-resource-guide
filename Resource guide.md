@@ -8,18 +8,18 @@ Shower the People hopes to formally launch this guide in early 2026.
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
 
-San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
+San Luis Obispo County is especially challenging for people trying to avoid or to escape homelessness.
 Fortunately, there is a lot of help available.
 Unfortunately, it can be difficult to find this help or to understand how to access it.
 This guide makes it easier.
 
 The guide is organized into sections like “Shelter and Housing” or “Food.”
 Each section briefly describes resources available in San Luis Obispo County.
-Many of these descriptions contain blue-highlighted, boldface links to the [**Directory**](?section=directory).
-This Directory page lists resources in alphabetical order, along with information like the website, phone number, email address, location, and operating hours.
+Many descriptions contain blue-highlighted, boldface links to the [**Directory**](?section=directory).
+This Directory page lists resources in alphabetical order, with information like the website, phone number, email address, location, and operating hours.
 If you find a resource in the guide that may be useful to you, click the boldface link to go to the Directory and learn how to access that resource.
 
-This guide was created by volunteers from [**Shower the People**](Directory.md#Shower-the-People).
+Volunteers from [**Shower the People**](Directory.md#Shower-the-People) created this guide.
 If you want to suggest corrections or improvements, or to join the VivaSLO development team, contact VivaSLO at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
 
 -----
@@ -125,8 +125,8 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
 
 ## <a id="self-advocacy">Standing Up for Yourself and Communicating with Service Providers</a>
 
-When you meet with case managers and service providers, there are things you can do to make it more likely that they will be able to help you.
-This section of the guide gives some good general tips.
+When you meet with case managers and service providers, you can make it more likely that they can help you.
+This section of the guide gives some tips about how to do this.
 
 ### <a id="build-good-relationships">Build Good Relationships with Case Managers and Service Providers</a>
 
@@ -142,14 +142,14 @@ Stay in touch with providers who are especially helpful, even when you’re not 
 
 ### <a id="manage-appointments">Manage Appointments and Commitments</a>
 
-Set phone alarms or ask for reminder calls when they are available.
-Make sure you have a way to get to appointments (see the [Transportation](#transportation) section).
-Bring something to do and expect some delays in busy service settings.
+Set phone alarms or ask for reminder calls when they are available so you do not miss appointments.
+Make sure you have a way to travel to appointments (see the [Transportation](#transportation) section).
+Bring something to do in case there is a wait, and expect some delays in busy service settings.
 If you need to change an appointment, call ahead rather than just not attending.
 
 Arrive early to appointments if you can.
 If you will be late, call ahead.
-Keep a simple notebook or use your phone to note appointments, contacts, and any promises people make to you.
+Keep a notebook or use your phone to note appointments, contacts, and any promises people make to you.
 If someone promises to do something for you but you don’t hear back in a reasonable time, check back with them.
 
 ### <a id="know-your-rights">Know Your Rights</a>
@@ -1784,19 +1784,18 @@ If you notice increasing redness that spreads beyond the area of the burn, or pu
 
 > Note: The somewhat confusing term “behavioral health” often describes programs for people who use addictive or harmful drugs and want help.
 
-Substance Abuse and Mental Health Services Administration (SAMHSA) has a free phone service ([800-662-4357](tel:+1-800-662-4357)) that can help you find substance abuse treatment that matches your needs.
+[**Access Support Network**](Directory.md#ASN) offers suboxone (buprenorphine) treatment and opioid overdose prevention training. <!-- Sources: https://accesssupportnetwork.org/programs/harm-reduction-programs/#moud and #opioid-->
 
-[**Access Support Network**](Directory.md#ASN) offers suboxone (buprenorphine) treatment and opiate overdose prevention training.
+[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) is an Opioid Treatment Program (OTP) offering Medication-Assisted Treatment that uses methadone, Suboxone, and similar medicines. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
+They provide specialized services for pregnant women, for veterans, for people with low incomes and for people with mental health disorders. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
+<!-- Walk-ins are welcome and same-day admissions are available. { SOURCE NEEDED } -->
+They accept Medi-Cal, Medicare, and most commercial insurance. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
 
-[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) is an Opioid Treatment Program (OTP) offering Medication-Assisted Treatment (MAT/MOUD) with methadone and Suboxone.
-They provide specialized services for pregnant women and relapse prevention.
-Walk-ins are welcome and same-day admissions are available.
-They accept Medi-Cal, Medicare, TRICARE, most commercial insurance, and self-pay.
+[**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) runs inpatient (partial hospitalization) and intensive outpatient treatment programs for people trying to beat addiction. <!-- Source: https://aspirecounselingservice.com/addiction-recovery-services/ -->
+They accept Medicare and most private insurance plans. <!-- Source: https://aspirecounselingservice.com/ -->
 
-[**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) runs inpatient (partial hospitalization) and intensive outpatient treatment programs for people trying to beat addiction.
-They accept Medicare and most private insurance plans.
-
-The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Atascadero, Cambria, Nipomo, Oceano, Paso Robles, Templeton (Las Tablas), and at 77 Casa St. in SLO specialize in behavioral health.
+The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Atascadero, Cambria, Nipomo, Oceano, Paso Robles,
+at 77 Casa St. in SLO, and in Templeton (Las Tablas), specialize in behavioral health. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
 Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers substance abuse treatment and needle exchange.
 
 [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in Santa Maria has a detox program and apparently accepts referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County.
@@ -1818,6 +1817,9 @@ The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Admini
 The [**County Veterans Services Offices**](Directory.md#Veterans-Services) can also refer veterans to alcohol and drug dependency treatment programs.
 
 You can search for other rehab / addiction / detox programs in SLO County at websites like [addictions.com](https://www.addictions.com/rehabs/california/san-luis-obispo/), [recovery.com](https://recovery.com/san-luis-obispo/), or [rehabs.org](https://rehabs.org/centers/california/san-luis-obispo/).
+
+[Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/) is a U.S. government agency.
+It has a free phone service ([800-662-HELP](tel:+1-800-662-4357); TTY: [800-487-4889](tel:+1-800-487-4889); text: [435748](sms:435748?&body=HELP4U)) that can help you find substance abuse treatment options near you that match your needs. <!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
 
 ### <a id="naloxone-narcan">Naloxone / Narcan</a>
 
