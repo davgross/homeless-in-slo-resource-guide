@@ -384,6 +384,17 @@ You must not be a P.C. 290 registered sex offender to use this service. <!-- SOU
 SLO county residents get priority. <!-- Source: https://friendsof40prado.org/safe-parking-program-expanded/ -->
 Contact Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) with questions. <!-- Source: https://capslo.org/safe-parking/ -->
 
+There are some free, legal “safe parking” spots available in the SLO city area through the [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
+To register for one of these spots, first complete the intake process at the 40 Prado offices any day from 8am to 2pm.
+You get a place to park overnight for 90 days, with a possible 30 day extension.
+You must move your vehicle away from the site during the day.
+You have access to water, trash, and restrooms, and there will be occasional security checks.
+No illegal drugs, alcohol, weapons, or fires are allowed.
+Your vehicle must fit into a standard parking space.
+You must not be a P.C. 290 registered sex offender to participate.
+SLO county residents get priority.
+You must participate in case management.
+
 You can camp overnight legally at various [**SLO County Parks**](Directory.md#SLO-County-Parks), but for a fee (roughly $25–50 per night, plus a $10 reservation fee and sometimes also a per-vehicle fee). <!-- SOURCE NEEDED -->
 Some parks have both tent camping and RV hook-up sites. <!-- SOURCE NEEDED -->
 None have dump stations. <!-- SOURCE NEEDED -->
@@ -539,14 +550,6 @@ Discuss this with your case manager if you have one, or with the [**Long-Term Ca
 The projects in this subsection are not yet housing people but hope to do so soon.
 
 - [46 Prado](https://capslo.org/46prado/)
-
-There will be some free, legal “safe parking” spots available in the SLO city area via the [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
-To register for one of these spots, you will first complete the intake process at the 40 Prado offices any day from 8am to 2pm.
-You will have a place to park overnight for 90 days, with a possible 30 day extension.
-You must move your vehicle away from the site during the day.
-You will have access to water, trash, and restrooms, and there will be occasional security checks.
-No illegal drugs, alcohol, weapons, or fires will be allowed. Your vehicle must fit into a standard parking space.
-You must not be a P.C. 290 registered sex offender to use this service. SLO county residents get priority. You must participate in case management.
 
 [**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarily single seniors.
 As of December 2025 the project is still under construction and is not admitting residents.
@@ -741,7 +744,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Cal Poly       | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) (for Cal Poly students and staff)                                                        | Monday–Friday 8:30am–6pm |
 | Cambria        | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                                                                    | second & fourth Thursday Noon–2pm |
 | Cayucos        | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                                                                                  | Wednesdays 10:30–11am |
-| Cayucos        | [**St. Joseph’s Catholic Church**](Directory.md#St-Jospehs-Church)                                                                                     | Fridays 10am–Noon (Thursdays 7:30–7:45 by appt.) |
+| Cayucos        | [**St. Joseph’s Catholic Church**](Directory.md#St-Josephs-Church)                                                                                     | Fridays 10am–Noon (Thursdays 7:30–7:45 by appt.) |
 | Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) (must be a Cuesta student)  | Monday–Friday 9am–4:30pm |
 | Grover Beach   | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) (bring photo ID)                                   | Monday–Friday 2–3:30pm |
 | Los Osos       | [**King’s Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | Tuesdays 8–10am |
@@ -1271,6 +1274,9 @@ Some Medicare supplement plans have a “Silver Sneakers” program with which y
 
 > See also the [Fitness](#fitness) subsection for information on exercise and fitness options.
 
+[**Vituity Cares Mobile Clinic**](Directory.md#Vituity-Cares-Mobile-Clinic) is a free medical clinic that operates one day per month in SLO city.
+It offers diagnosis, testing, and treatment, can write prescriptions, and usually also has free food and a small free clothing collection.
+
 ### <a id="emergency-care">Emergency Care</a>
 
 #### When and How to Call 911
@@ -1677,7 +1683,7 @@ They can help you with nutrition and meal services, transportation, and care man
 
 #### Teens and Youth
 
-[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Teen Wellness” program includes health coaching, strength classes, mindfulness workshops, and reproductive health education. <!-- Source: https://capslo.org/teen-health-education/ -->
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s [**Teen Wellness**](Directory.md#Teen-Wellness) program includes health coaching, strength classes, mindfulness workshops, and reproductive health education. <!-- Source: https://capslo.org/teen-health-education/ -->
 
 #### Women
 
@@ -3755,7 +3761,7 @@ They happen 3–4 times per quarter at various locations around SLO County, ofte
 Submit an [application](https://www.thepetfund.com/for-pet-owners/the-pet-fund-application) at their website.
 You must document your financial need and provide veterinary care estimates.
 
-[Red Rover Relief](https://redrover.org/relief/urgent-care-grants/) provides one-time urgent care grants of up to $1,000 to pay for pet medical emergencies.
+[**Red Rover Relief**](Directory.md#Red-Rover-Relief) provides one-time urgent care grants of up to $1,000 to pay for pet medical emergencies.
 This is only for people in the U.S. with income under $60,000 per year.
 You must make a fundraising effort first before you contact Red Rover Relief.
 You must supply a current veterinary diagnosis and treatment plan.

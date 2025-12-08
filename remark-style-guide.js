@@ -85,6 +85,22 @@ export default function remarkStyleGuide() {
                  * Capitalize certain words and trademarks correctly and consistently
                  ********************************************************************/
                 {
+                    pattern: /\bCALJOBS\b/,
+                    message: `Use "CalJOBS" rather than "CALJOBS"`,
+                },
+                {
+                    pattern: /\bCalJobs\b/,
+                    message: `Use "CalJOBS" rather than "CalJobs"`,
+                },
+                {
+                    pattern: /\bCalWORKS\b/,
+                    message: `Use "CalWORKs" rather than "CalWORKS"`,
+                },
+                {
+                    pattern: /\bCALWORKS\b/,
+                    message: `Use "CalWORKs" rather than "CALWORKS"`,
+                },
+                {
                     pattern: /\bios\b/,
                     message: `Use "iOS" rather than "ios"`,
                 },
