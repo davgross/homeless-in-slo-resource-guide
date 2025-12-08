@@ -1,18 +1,10 @@
 import './style.css';
-import { marked } from 'marked';
 import DOMPurify from 'dompurify';
-import { enhanceLinks } from './linkEnhancer.js';
-import { parseMarkdown, extractDirectoryEntries } from './markdownParser.js';
 import { initFeedback } from './feedback.js';
 import { initShareButton, createSectionShareButton } from './shareButton.js';
 import { initFontSizeControl } from './fontSizeControl.js';
 import { initInstallPrompt } from './installPrompt.js';
 import { getStrings } from './strings.js';
-
-// Import markdown files directly as raw text
-import resourcesMarkdown from '../../Resource guide.md?raw';
-import directoryMarkdown from '../../Directory.md?raw';
-import aboutMarkdown from '../../About.md?raw';
 
 // UI Strings
 const strings = getStrings();
@@ -68,9 +60,6 @@ function showNotification(message) {
 const state = {
   currentSection: 'resources',
   scrollPositions: {},
-  resourcesContent: '',
-  directoryContent: '',
-  aboutContent: '',
   directoryEntries: new Map(),
   searchIndex: [],
   currentDirectoryEntry: null
@@ -349,37 +338,45 @@ function showSection(section, updateHistory = true) {
     }
   });
 
-  // Announce section change to screen readers
-  const sectionName = strings.sections[section] || section;
-  announce(`${sectionName} ${strings.sections.loaded}`);
-
   // Update state
   state.currentSection = section;
 
-  if (updateHistory) {
-    const url = new URL(window.location);
-    url.searchParams.set('section', section);
-    history.replaceState({ section }, '', url);
+  // Announce to screen readers
+  const sectionName = section.charAt(0).toUpperCase() + section.slice(1);
+  announce(`Showing ${sectionName} section`);
+
+  // Handle anchor navigation if present in URL
+  if (window.location.hash) {
+    const anchorId = window.location.hash.substring(1);
+    setTimeout(() => {
+      const anchor = document.getElementById(anchorId);
+      if (anchor) {
+        anchor.scrollIntoView({ behavior: 'smooth' });
+      }
+    }, 100);
   }
 }
 
-// Load Resources content first (priority for initial render)
+// Load Resources content from pre-processed HTML
 async function loadResourcesContent() {
   try {
-    // Initialize search index
-    state.searchIndex = [];
+    // Fetch pre-processed content
+    const [resourcesHTML, directoryEntriesData, searchIndexData] = await Promise.all([
+      fetch('/processed/resources.html').then(r => r.text()),
+      fetch('/processed/directory-entries.json').then(r => r.json()),
+      fetch('/processed/search-index.json').then(r => r.json())
+    ]);
 
-    // Load Resources markdown
-    state.resourcesContent = resourcesMarkdown;
+    // Load directory entries into Map
+    Object.entries(directoryEntriesData).forEach(([id, entry]) => {
+      state.directoryEntries.set(id, entry);
+    });
 
-    // Parse and extract directory entries (needed for Resources links)
-    state.directoryEntries = extractDirectoryEntries(directoryMarkdown);
+    // Load search index
+    state.searchIndex = searchIndexData;
 
     // Render Resources section
-    renderResources();
-
-    // Build search index for resources only (directory entries added later)
-    indexResourceSections();
+    renderResources(resourcesHTML);
 
   } catch (error) {
     console.error('Error loading resources:', error);
@@ -390,23 +387,13 @@ async function loadResourcesContent() {
 // Load remaining content (Directory and About) in background
 async function loadRemainingContent() {
   try {
-    // Load Directory and About markdown
-    state.directoryContent = directoryMarkdown;
-    state.aboutContent = aboutMarkdown;
+    const [directoryHTML, aboutHTML] = await Promise.all([
+      fetch('/processed/directory.html').then(r => r.text()),
+      fetch('/processed/about.html').then(r => r.text())
+    ]);
 
-    // Render Directory and About sections
-    renderDirectory();
-    renderAbout();
-
-    // Add directory entries to search index
-    state.directoryEntries.forEach((entry, id) => {
-      state.searchIndex.push({
-        id,
-        title: entry.title,
-        content: normalizeForSearch(entry.content),
-        type: 'directory'
-      });
-    });
+    renderDirectory(directoryHTML);
+    renderAbout(aboutHTML);
 
   } catch (error) {
     console.error('Error loading additional content:', error);
@@ -414,308 +401,140 @@ async function loadRemainingContent() {
 }
 
 // Render resources section
-function renderResources() {
+function renderResources(html) {
   const section = document.getElementById('resources-section');
 
-  // Parse markdown and enhance with directory links
-  let html = parseMarkdown(state.resourcesContent, state.directoryEntries);
-
-  // Sanitize HTML - configure DOMPurify to keep data attributes
-  html = DOMPurify.sanitize(html, {
-    ADD_ATTR: ['data-directory-link', 'data-lat', 'data-lon', 'data-zoom', 'data-label', 'data-bounds']
-  });
-
+  // Inject pre-processed HTML directly
   section.innerHTML = html;
 
-  // Enhance all links (phone, email, external)
-  enhanceLinks(section);
-
-  // Enhance tables for mobile responsiveness
-  enhanceTables(section);
-
-  // Setup directory link handlers
+  // Setup runtime-only operations
+  enhanceExternalLinks(section);  // Check hostname at runtime
   setupDirectoryLinks(section);
-
-  // Setup map link handlers
   setupMapLinks(section);
-
-  // Add share buttons to section headings
   addSectionShareButtons(section);
-
-  // Transform TOC into icon lozenges
-  transformTOCToLozenges(section);
-}
-
-// Transform Table of Contents into icon lozenges
-function transformTOCToLozenges(container) {
-  // Find the TOC section
-  const tocAnchor = container.querySelector('a[id="table-of-contents"]');
-  if (!tocAnchor) return;
-
-  const tocHeading = tocAnchor.closest('h2');
-  if (!tocHeading) return;
-
-  // Find the ordered list that follows the TOC heading
-  let tocList = tocHeading.nextElementSibling;
-  while (tocList && tocList.tagName !== 'OL') {
-    tocList = tocList.nextElementSibling;
-  }
-  if (!tocList) return;
-
-  // Icon mapping - using Unicode emojis as placeholders
-  // Can be replaced with custom SVGs later
-  const iconMap = {
-    'Hotlines and Emergencies': '📞',
-    'Self-Advocacy': '🗣️',
-    'Shelter & Housing': '🏠',
-    'Property Storage': '📦',
-    'Food': '🍴',
-    'Water Refill': '💧',
-    'Transportation': '🚌',
-    'Clothing': '👕',
-    'Laundry': '🧺',
-    'Showers & Hygiene': '🚿',
-    'Health & Medical Care': '⚕️',
-    'Drug Use & Recovery': '🪷', // formerly 🔄
-    'Tattoo Removal': '✨',
-    'End-of-Life Help': '🕊️',
-    'Personal Safety': '🛡️',
-    'Legal Help': '⚖️',
-    'IDs & Documents': '🪪',
-    'Mail & PO Boxes': '📬',
-    'Banking & Money': '💰',
-    'Tax Preparation': '📊',
-    'Emergency Financial Help': '💵',
-    'Social Security & Benefits': '🏛️',
-    'Obtaining Employment': '💼',
-    'Education & Job Training': '📚',
-    'Phones & Phone Service': '📱',
-    'Internet & Email': '💻',
-    'Device Charging': '🔌',
-    'Children & Parents': '🚸',
-    'Peer Support': '🤝🏽',
-    'Recreation & Community': '🏓',
-    'Pet Care': '🐾',
-    'Disaster Preparedness': '🚨',
-    'Advocacy & Organizing': '📢',
-    'Free Stuff': '🏺',
-    'Other Guides': '📖',
-    'Miscellaneous Tips': '💡',
-    'Directory': '📇'
-  };
-
-  // Generic fallback icon for entries without specific icons
-  const genericIcon = '📄';
-
-  // Extract all list items
-  const listItems = Array.from(tocList.querySelectorAll('li'));
-  const sections = listItems.map(li => {
-    const link = li.querySelector('a');
-    if (!link) return null;
-
-    const text = link.textContent.trim();
-    const href = link.getAttribute('href');
-    const icon = iconMap[text] || genericIcon;
-
-    return { text, href, icon };
-  }).filter(item => item !== null);
-
-  // Create lozenge grid container
-  const lozengeGrid = document.createElement('div');
-  lozengeGrid.className = 'toc-lozenge-grid';
-  lozengeGrid.setAttribute('role', 'navigation');
-  lozengeGrid.setAttribute('aria-label', 'Table of Contents');
-
-  // Create lozenge for each section
-  sections.forEach(section => {
-    const lozenge = document.createElement('a');
-    lozenge.className = 'toc-lozenge';
-    lozenge.href = section.href;
-    lozenge.setAttribute('aria-label', section.text);
-
-    // Icon span
-    const iconSpan = document.createElement('span');
-    iconSpan.className = 'toc-lozenge-icon';
-    iconSpan.setAttribute('aria-hidden', 'true');
-    iconSpan.textContent = section.icon;
-
-    // Text span
-    const textSpan = document.createElement('span');
-    textSpan.className = 'toc-lozenge-text';
-    textSpan.textContent = section.text;
-
-    lozenge.appendChild(iconSpan);
-    lozenge.appendChild(textSpan);
-    lozengeGrid.appendChild(lozenge);
-  });
-
-  // Create wrapper to contain both heading and grid with distinct background
-  const wrapper = document.createElement('div');
-  wrapper.className = 'toc-section-wrapper';
-
-  // Insert wrapper before the heading
-  tocHeading.parentNode.insertBefore(wrapper, tocHeading);
-
-  // Move heading and grid into wrapper
-  wrapper.appendChild(tocHeading);
-  wrapper.appendChild(lozengeGrid);
-
-  // Remove the original list
-  tocList.remove();
 }
 
 // Render directory section
-function renderDirectory() {
+function renderDirectory(html) {
   const section = document.getElementById('directory-section');
 
-  // Parse markdown
-  let html = marked.parse(state.directoryContent);
-
-  // Sanitize HTML
-  html = DOMPurify.sanitize(html);
-
+  // Inject pre-processed HTML directly
   section.innerHTML = html;
 
-  // Enhance all links
-  enhanceLinks(section);
-
-  // Enhance tables for mobile responsiveness
+  // Setup runtime-only operations
+  enhanceExternalLinks(section);
   enhanceTables(section);
-
-  // Setup map link handlers
   setupMapLinks(section);
-
-  // Add share buttons to directory section headings
   addSectionShareButtons(section, 'directory');
 }
 
 // Render about section
-function renderAbout() {
+function renderAbout(html) {
   const section = document.getElementById('about-section');
 
-  // Parse markdown
-  let html = marked.parse(state.aboutContent);
-
-  // Sanitize HTML
-  html = DOMPurify.sanitize(html);
-
+  // Inject pre-processed HTML directly
   section.innerHTML = html;
 
-  // Enhance all links
-  enhanceLinks(section);
-
-  // Enhance tables for mobile responsiveness
-  enhanceTables(section);
+  // Setup runtime-only operations
+  enhanceExternalLinks(section);
 }
 
-// Setup directory link click handlers
+// Setup directory link handlers
 function setupDirectoryLinks(container) {
-  const directoryLinks = container.querySelectorAll('[data-directory-link]');
+  const links = container.querySelectorAll('[data-directory-link]');
 
-  directoryLinks.forEach(link => {
+  links.forEach(link => {
     link.addEventListener('click', (e) => {
       e.preventDefault();
-      e.stopPropagation();
       const entryId = link.dataset.directoryLink;
       showDirectoryEntry(entryId);
     });
   });
 }
 
-// Setup map link click handlers
+// Setup map link handlers (platform-specific URLs)
 function setupMapLinks(container) {
-  const mapLinks = container.querySelectorAll('.map-link[data-lat][data-lon]');
+  const mapLinks = container.querySelectorAll('a.map-link[data-lat][data-lon]');
 
   mapLinks.forEach(link => {
     const lat = parseFloat(link.dataset.lat);
     const lon = parseFloat(link.dataset.lon);
     const zoom = parseInt(link.dataset.zoom) || 15;
 
-    // Set default href to OpenStreetMap
-    const osmUrl = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=${zoom}/${lat}/${lon}`;
-    link.href = osmUrl;
+    // Default to OpenStreetMap
+    link.href = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=${zoom}/${lat}/${lon}`;
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
 
-    // Add onclick handler for platform-specific behavior
-    link.onclick = function() {
-      // iOS: Use Apple Maps
+    // Platform-specific handling on click
+    link.addEventListener('click', (e) => {
+      // Check user agent for platform-specific map apps
       if (/iPhone|iPad|iPod/.test(navigator.userAgent)) {
-        this.href = `http://maps.apple.com/?ll=${lat},${lon}&z=${zoom}`;
+        e.preventDefault();
+        window.open(`http://maps.apple.com/?ll=${lat},${lon}&z=${zoom}`, '_blank');
+      } else if (/Android/.test(navigator.userAgent)) {
+        e.preventDefault();
+        window.open(`https://www.google.com/maps/search/?api=1&query=${lat},${lon}`, '_blank');
       }
-      // Android: Use Google Maps
-      else if (/Android/.test(navigator.userAgent)) {
-        this.href = `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
-      }
-      // Otherwise use OpenStreetMap (already set as href)
-
-      return true; // Allow the link to be followed
-    };
-  });
-}
-
-// Enhance tables with data-label attributes for responsive mobile display
-function enhanceTables(container) {
-  const tables = container.querySelectorAll('table');
-
-  tables.forEach(table => {
-    // Get all header cells from thead
-    const headers = Array.from(table.querySelectorAll('thead th')).map(th => th.textContent.trim());
-
-    // If no headers found, skip this table
-    if (headers.length === 0) {
-      return;
-    }
-
-    // Process all data rows in tbody
-    const rows = table.querySelectorAll('tbody tr');
-    rows.forEach(row => {
-      // Skip rows that are category headers (have th with colspan)
-      if (row.querySelector('th[colspan]')) return;
-
-      // Add data-label to each td based on corresponding header
-      const cells = row.querySelectorAll('td');
-      cells.forEach((cell, index) => {
-        if (index < headers.length && headers[index]) {
-          cell.setAttribute('data-label', headers[index]);
-        }
-      });
+      // Otherwise use default OpenStreetMap link
     });
   });
 }
 
+// Enhance external links - check hostname and add target="_blank"
+function enhanceExternalLinks(container) {
+  const links = container.querySelectorAll('a[data-external-link="true"]');
+
+  links.forEach(link => {
+    try {
+      const url = new URL(link.href);
+      if (url.hostname !== window.location.hostname) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener');
+
+        // Add aria-label if not present
+        const currentLabel = link.getAttribute('aria-label');
+        if (!currentLabel) {
+          link.setAttribute('aria-label', `${link.textContent.trim()} (opens in new tab)`);
+        }
+      }
+    } catch (e) {
+      // Invalid URL, skip
+    }
+  });
+}
+
+// Enhance tables for mobile responsiveness
+function enhanceTables(container) {
+  // Tables are already enhanced during build, but we may need to handle
+  // dynamically loaded content in the future
+  // For now, this is a no-op since table enhancement is done at build time
+}
+
 // Add share buttons to section headings
 function addSectionShareButtons(container, sectionName = 'resources') {
-  // Find all h2 and h3 headings with anchor IDs
+  // Find headings that contain anchors with IDs (the preprocessed format)
   const headings = container.querySelectorAll('h2, h3');
 
   headings.forEach(heading => {
-    // Look for anchor element inside heading
+    // Find the anchor with an ID inside this heading
     const anchor = heading.querySelector('a[id]');
     if (!anchor) return;
 
-    const anchorId = anchor.getAttribute('id');
-    const sectionTitle = anchor.textContent.trim();
+    const headingId = anchor.id;
 
-    // Create URL for this section
-    const sectionUrl = `${window.location.origin}${window.location.pathname}?section=${sectionName}#${anchorId}`;
+    // Skip the table of contents heading
+    if (headingId === 'table-of-contents') return;
 
-    // Create and add share button
-    const shareBtn = createSectionShareButton(sectionTitle, sectionUrl);
+    // Check if button already exists
+    if (heading.querySelector('.section-share-btn')) return;
 
-    // Add the button before the heading text
-    heading.style.position = 'relative';
-    heading.style.display = 'flex';
-    heading.style.alignItems = 'baseline';
-    heading.style.gap = '0.5rem';
+    // Construct the full URL to this section
+    const url = `${window.location.origin}${window.location.pathname}?section=${sectionName}#${headingId}`;
 
-    // Make the anchor flexible so its text can wrap
-    if (anchor) {
-      anchor.style.flex = '1';
-      anchor.style.minWidth = '0';
-    }
-
-    heading.insertBefore(shareBtn, heading.firstChild);
+    // createSectionShareButton expects (title, url)
+    const shareBtn = createSectionShareButton(heading.textContent.trim(), url);
+    heading.prepend(shareBtn);
   });
 }
 
@@ -723,21 +542,13 @@ function addSectionShareButtons(container, sectionName = 'resources') {
 function setupDirectoryOverlay() {
   const overlay = document.getElementById('directory-overlay');
   const closeBtn = overlay.querySelector('.close-btn');
-  const feedbackBtn = overlay.querySelector('.directory-feedback-btn');
 
   // Close on button click
-  closeBtn.addEventListener('click', hideDirectoryOverlay);
-
-  // Feedback button click
-  feedbackBtn.addEventListener('click', () => {
-    // Trigger feedback modal (the feedback system will handle opening it)
-    const feedbackButton = document.getElementById('feedback-button');
-    if (feedbackButton) {
-      feedbackButton.click();
-    }
+  closeBtn.addEventListener('click', () => {
+    hideDirectoryOverlay();
   });
 
-  // Close on overlay click (outside modal)
+  // Close on overlay background click
   overlay.addEventListener('click', (e) => {
     if (e.target === overlay) {
       hideDirectoryOverlay();
@@ -752,7 +563,7 @@ function setupDirectoryOverlay() {
   });
 }
 
-// Show a specific directory entry in overlay
+// Show directory entry in modal
 function showDirectoryEntry(entryId) {
   const entry = state.directoryEntries.get(entryId);
 
@@ -770,12 +581,10 @@ function showDirectoryEntry(entryId) {
   const overlay = document.getElementById('directory-overlay');
   const content = overlay.querySelector('.directory-content');
 
-  // Parse entry content with directory link conversion
-  let html = parseMarkdown(entry.content, state.directoryEntries);
-
-  // Sanitize HTML - preserve data attributes
-  html = DOMPurify.sanitize(html, {
-    ADD_ATTR: ['data-directory-link', 'data-lat', 'data-lon', 'data-zoom', 'data-label', 'data-bounds']
+  // Entry content is already HTML (pre-processed)
+  // Just sanitize for safety (should already be safe, but double-check)
+  const html = DOMPurify.sanitize(entry.content, {
+    ADD_ATTR: ['data-directory-link', 'data-lat', 'data-lon', 'data-zoom', 'data-label', 'data-bounds', 'data-external-link']
   });
 
   content.innerHTML = `<div class="directory-entry">${html}</div>`;
@@ -820,16 +629,38 @@ function showDirectoryEntry(entryId) {
     newShareBtn.setAttribute('aria-label', strings.share.directoryEntry.buttonAriaLabel(entry.title));
   }
 
-  // Enhance links in the modal (phone, email, external)
-  enhanceLinks(content);
+  // Setup the feedback button in the header
+  const feedbackBtn = overlay.querySelector('.directory-feedback-btn');
+  if (feedbackBtn) {
+    // Remove any existing click handlers
+    const newFeedbackBtn = feedbackBtn.cloneNode(true);
+    feedbackBtn.parentNode.replaceChild(newFeedbackBtn, feedbackBtn);
 
-  // Enhance tables for mobile responsiveness
-  enhanceTables(content);
+    // Add new click handler
+    newFeedbackBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
 
-  // Setup directory link handlers within the modal
+      // Open the feedback modal - it will automatically capture the directory entry context
+      const feedbackModal = document.getElementById('feedback-modal');
+      if (feedbackModal) {
+        // Trigger the feedback system's open method
+        // The feedback system checks window.appState.currentDirectoryEntry
+        const event = new CustomEvent('openFeedback');
+        document.dispatchEvent(event);
+
+        // Fallback: directly manipulate the modal if event doesn't work
+        const feedbackButton = document.getElementById('feedback-button');
+        if (feedbackButton) {
+          feedbackButton.click();
+        }
+      }
+    });
+  }
+
+  // Setup runtime-only operations within the modal
+  enhanceExternalLinks(content);
   setupDirectoryLinks(content);
-
-  // Setup map link handlers within the modal
   setupMapLinks(content);
 
   // Show overlay
@@ -844,43 +675,45 @@ function hideDirectoryOverlay() {
   const overlay = document.getElementById('directory-overlay');
   overlay.hidden = true;
 
-  // Clear current directory entry from state
+  // Clear current directory entry
   state.currentDirectoryEntry = null;
 }
 
-// Trap focus within modal for accessibility
+// Trap focus within an element (for accessibility)
 function trapFocus(element) {
   const focusableElements = element.querySelectorAll(
     'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
   );
 
-  if (focusableElements.length === 0) return;
-
-  const firstElement = focusableElements[0];
-  const lastElement = focusableElements[focusableElements.length - 1];
+  const firstFocusable = focusableElements[0];
+  const lastFocusable = focusableElements[focusableElements.length - 1];
 
   // Focus first element
-  firstElement.focus();
+  if (firstFocusable) {
+    firstFocusable.focus();
+  }
 
   // Trap focus
-  element.addEventListener('keydown', function(e) {
+  function handleTabKey(e) {
     if (e.key !== 'Tab') return;
 
     if (e.shiftKey) {
-      if (document.activeElement === firstElement) {
-        lastElement.focus();
+      if (document.activeElement === firstFocusable) {
         e.preventDefault();
+        lastFocusable.focus();
       }
     } else {
-      if (document.activeElement === lastElement) {
-        firstElement.focus();
+      if (document.activeElement === lastFocusable) {
         e.preventDefault();
+        firstFocusable.focus();
       }
     }
-  });
+  }
+
+  element.addEventListener('keydown', handleTabKey);
 }
 
-// Setup search functionality
+// Setup search
 function setupSearch() {
   const searchInput = document.getElementById('search-input');
   const searchResults = document.getElementById('search-results');
@@ -888,9 +721,18 @@ function setupSearch() {
 
   searchInput.addEventListener('input', (e) => {
     clearTimeout(searchTimeout);
+
+    const query = e.target.value.trim();
+
+    if (query.length === 0) {
+      clearSearchResults();
+      return;
+    }
+
+    // Debounce search
     searchTimeout = setTimeout(() => {
-      performSearch(e.target.value);
-    }, 300); // Debounce search
+      performSearch(query);
+    }, 300);
   });
 
   // Close search results when clicking outside
@@ -909,418 +751,209 @@ function setupSearch() {
   });
 }
 
-// Normalize text for search by converting unicode quotes/apostrophes to ASCII equivalents
+// Normalize text for search
 function normalizeForSearch(text) {
   return text
-    // Convert curly single quotes and apostrophes to straight apostrophe
-    .replace(/[\u2018\u2019\u201B]/g, "'")  // ' ' ‛ -> '
-    // Convert curly double quotes to straight quotes
-    .replace(/[\u201C\u201D]/g, '"')  // " " -> "
-    // Convert other apostrophe-like characters
-    .replace(/[\u02BC\u02C8]/g, "'")  // ʼ ˈ -> '
+    .replace(/[\u2018\u2019]/g, "'")    // Curly single quotes to straight
+    .replace(/[\u201C\u201D]/g, '"')     // Curly double quotes to straight
+    .replace(/[\u2013\u2014]/g, '-')     // En/em dash to hyphen
     .toLowerCase();
 }
 
-
-// Extract and index individual sections from Resource Guide
-function indexResourceSections() {
-  const markdown = state.resourcesContent;
-
-  // Find all h1, h2, and h3 headings with anchor IDs
-  // Format: # <a id="section-id">Section Name</a>
-  // or:     ## <a id="section-id">Section Name</a>
-  // or:     ### <a id="section-id">Section Name</a>
-  const sectionRegex = /^(#{1,3})\s*<a\s+id="([^"]+)"[^>]*>([^<]+)<\/a>/gm;
-
-  let match;
-  const sections = [];
-
-  // Find all section positions
-  while ((match = sectionRegex.exec(markdown)) !== null) {
-    const level = match[1].length; // 1 for h1, 2 for h2, 3 for h3
-    sections.push({
-      level: level,
-      id: match[2],
-      title: match[3].trim(),
-      start: match.index,
-      headerEnd: match.index + match[0].length
-    });
-  }
-
-  // Extract content for each section
-  sections.forEach((section, index) => {
-    const nextSection = sections[index + 1];
-    const maxEnd = nextSection ? nextSection.start : markdown.length;
-
-    // Get content up to next section of same or higher level
-    let nextSameOrHigher = nextSection;
-    for (let i = index + 1; i < sections.length; i++) {
-      if (sections[i].level <= section.level) {
-        nextSameOrHigher = sections[i];
-        break;
-      }
-    }
-
-    const contentEnd = nextSameOrHigher ? nextSameOrHigher.start : markdown.length;
-    const content = markdown.slice(section.headerEnd, contentEnd);
-
-    // Convert to text for searching
-    const tempDiv = document.createElement('div');
-    tempDiv.innerHTML = DOMPurify.sanitize(marked.parse(content));
-    const contentText = normalizeForSearch(tempDiv.textContent);
-
-    state.searchIndex.push({
-      id: section.id,
-      title: section.title,
-      content: contentText,
-      type: 'resource-section',
-      level: section.level
-    });
-  });
-}
-
-// Common stop words to ignore in search
-const STOP_WORDS = new Set([
-  'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from',
-  'has', 'he', 'in', 'is', 'it', 'its', 'of', 'on', 'that', 'the',
-  'to', 'was', 'will', 'with'
-]);
-
 // Perform search
 function performSearch(query) {
-  const searchInput = document.getElementById('search-input');
+  const normalizedQuery = normalizeForSearch(query);
 
-  if (!query || query.length < 2) {
-    clearSearchResults();
-    return;
-  }
+  // Split query into terms
+  const queryTerms = normalizedQuery.split(/\s+/).filter(term => term.length > 0);
 
-  query = normalizeForSearch(query);
-  const queryTerms = query.split(/\s+/).filter(t => t.length > 0);
+  // Filter out common stop words for term matching
+  const stopWords = new Set(['the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from', 'as', 'is', 'are', 'was', 'were']);
+  const significantTerms = queryTerms.filter(term => !stopWords.has(term));
 
-  // Filter out stop words for term matching, but keep them for phrase matching
-  const significantTerms = queryTerms.filter(term => !STOP_WORDS.has(term));
+  const results = [];
 
-  // Search and score results
-  const results = state.searchIndex
-    .map(item => {
-      const titleLower = normalizeForSearch(item.title);
-      const contentLower = item.content;
+  state.searchIndex.forEach(item => {
+    let score = 0;
+    const normalizedTitle = normalizeForSearch(item.title);
+    const normalizedContent = normalizeForSearch(item.content);
 
-      // Calculate relevance score
-      let score = 0;
+    // Exact title match (highest priority)
+    if (normalizedTitle === normalizedQuery) {
+      score += 100;
+    }
 
-      // Exact phrase match in title is highest priority
-      if (titleLower === query) {
-        score += 100;
-      } else if (titleLower.includes(query)) {
-        score += 50;
+    // Title contains query
+    if (normalizedTitle.includes(normalizedQuery)) {
+      score += 50;
+    }
+
+    // Title contains terms
+    significantTerms.forEach(term => {
+      if (normalizedTitle.includes(term)) {
+        score += 10;
       }
+    });
 
-      // Significant term matches in title
-      significantTerms.forEach(term => {
-        if (titleLower.includes(term)) {
-          score += 10;
-        }
+    // Content contains full query phrase
+    const phraseMatches = (normalizedContent.match(new RegExp(normalizedQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g')) || []).length;
+    score += phraseMatches * 5;
+
+    // Content contains terms
+    significantTerms.forEach(term => {
+      const termMatches = (normalizedContent.match(new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g')) || []).length;
+      score += termMatches;
+    });
+
+    if (score > 0) {
+      results.push({
+        item,
+        score,
+        snippet: extractSnippet(item.content, normalizedQuery, significantTerms)
       });
-
-      // Exact phrase matches in content (higher weight)
-      const phraseMatches = (contentLower.match(new RegExp(query, 'gi')) || []).length;
-      score += phraseMatches * 5;
-
-      // Individual significant term matches in content (lower weight)
-      significantTerms.forEach(term => {
-        const termMatches = (contentLower.match(new RegExp(`\\b${term}\\b`, 'gi')) || []).length;
-        score += termMatches;
-      });
-
-      // Extract context snippet
-      const snippet = extractSnippet(contentLower, query, queryTerms);
-
-      if (score > 0) {
-        return {
-          ...item,
-          score,
-          snippet
-        };
-      }
-      return null;
-    })
-    .filter(result => result !== null)
-    .sort((a, b) => b.score - a.score);
-
-  // Update aria-expanded before displaying results
-  if (searchInput) {
-    searchInput.setAttribute('aria-expanded', 'true');
-  }
-
-  displaySearchResults(results, query);
-
-  // Announce results to screen readers
-  const resultCount = results.length;
-  if (resultCount === 0) {
-    announce(`${strings.search.noResults} ${query}`);
-  } else {
-    announce(`${strings.search.resultCount(resultCount)} ${strings.search.resultsFor(query)}`);
-  }
-}
-
-// Clean markdown syntax from text for display
-function cleanMarkdown(text) {
-  return text
-    // Remove HTML comments
-    .replace(/<!--[\s\S]*?-->/g, '')
-    // Remove HTML tags (prevents unclosed tags from breaking DOM structure)
-    .replace(/<[^>]*>/g, '')
-    // Remove markdown links but keep link text: [text](url) -> text
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
-    // Remove markdown image syntax: ![alt](url) -> alt
-    .replace(/!\[([^\]]*)\]\([^)]+\)/g, '$1')
-    // Remove bold/italic: **text** or *text* -> text
-    .replace(/\*\*([^*]+)\*\*/g, '$1')
-    .replace(/\*([^*]+)\*/g, '$1')
-    // Remove headers: ## text -> text
-    .replace(/^#{1,6}\s+/gm, '')
-    // Remove blockquote markers
-    .replace(/^>\s+/gm, '')
-    // Remove list markers
-    .replace(/^[\s]*[-*+]\s+/gm, '')
-    .replace(/^[\s]*\d+\.\s+/gm, '')
-    // Remove extra whitespace
-    .replace(/\s+/g, ' ')
-    .trim();
-}
-
-// Extract context snippet around search query
-function extractSnippet(content, query, queryTerms) {
-  const snippetLength = 150;
-
-  // Clean and normalize the content first
-  const cleanedContent = cleanMarkdown(content);
-  const normalizedContent = normalizeForSearch(cleanedContent);
-
-  const queryIndex = normalizedContent.indexOf(query);
-
-  if (queryIndex !== -1) {
-    // Found exact query match
-    const start = Math.max(0, queryIndex - 50);
-    const end = Math.min(normalizedContent.length, queryIndex + query.length + 100);
-    let snippet = normalizedContent.slice(start, end);
-
-    // Trim to word boundaries
-    if (start > 0) {
-      const spaceIndex = snippet.indexOf(' ');
-      if (spaceIndex !== -1) {
-        snippet = '...' + snippet.slice(spaceIndex + 1);
-      }
     }
-    if (end < normalizedContent.length) {
-      const lastSpaceIndex = snippet.lastIndexOf(' ');
-      if (lastSpaceIndex !== -1) {
-        snippet = snippet.slice(0, lastSpaceIndex) + '...';
-      }
-    }
-
-    return snippet;
-  }
-
-  // Try to find first significant query term
-  const significantTerms = queryTerms.filter(term => !STOP_WORDS.has(term));
-  if (significantTerms.length > 0) {
-    for (const term of significantTerms) {
-      const termIndex = normalizedContent.indexOf(term);
-      if (termIndex !== -1) {
-        const start = Math.max(0, termIndex - 50);
-        const end = Math.min(normalizedContent.length, termIndex + snippetLength);
-        let snippet = normalizedContent.slice(start, end);
-
-        if (start > 0) {
-          const spaceIndex = snippet.indexOf(' ');
-          if (spaceIndex !== -1) {
-            snippet = '...' + snippet.slice(spaceIndex + 1);
-          }
-        }
-        if (end < normalizedContent.length) {
-          const lastSpaceIndex = snippet.lastIndexOf(' ');
-          if (lastSpaceIndex !== -1) {
-            snippet = snippet.slice(0, lastSpaceIndex) + '...';
-          }
-        }
-
-        return snippet;
-      }
-    }
-  }
-
-  // Fallback: return beginning of content
-  let snippet = normalizedContent.slice(0, snippetLength);
-  if (normalizedContent.length > snippetLength) {
-    const lastSpaceIndex = snippet.lastIndexOf(' ');
-    if (lastSpaceIndex !== -1) {
-      snippet = snippet.slice(0, lastSpaceIndex) + '...';
-    }
-  }
-  return snippet;
-}
-
-// Highlight query terms in text
-function highlightMatches(text, query) {
-  // Query is already normalized from performSearch
-  const queryTerms = query.split(/\s+/).filter(t => t.length > 0);
-  const significantTerms = queryTerms.filter(term => !STOP_WORDS.has(term));
-  let highlightedText = text;
-
-  // Try to highlight the full query phrase first (if it appears)
-  const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const phraseRegex = new RegExp(`(${escapedQuery})`, 'gi');
-  highlightedText = highlightedText.replace(phraseRegex, '<mark>$1</mark>');
-
-  // Then highlight significant individual terms if they're not already highlighted
-  significantTerms.forEach(term => {
-    const escapedTerm = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const termRegex = new RegExp(`(?<!<mark>)(\\b${escapedTerm}\\b)(?![^<]*</mark>)`, 'gi');
-    highlightedText = highlightedText.replace(termRegex, '<mark>$1</mark>');
   });
 
-  return highlightedText;
+  // Sort by score
+  results.sort((a, b) => b.score - a.score);
+
+  // Display results
+  displaySearchResults(results, query);
+
+  // Announce to screen readers
+  if (results.length > 0) {
+    announce(`Found ${results.length} result${results.length === 1 ? '' : 's'} for ${query}`);
+  } else {
+    announce(`No results found for ${query}`);
+  }
+}
+
+// Extract snippet around query match
+function extractSnippet(content, query, queryTerms) {
+  const normalizedContent = normalizeForSearch(content);
+
+  // Try to find query phrase first
+  let matchIndex = normalizedContent.indexOf(query);
+
+  // If no phrase match, find first term match
+  if (matchIndex === -1 && queryTerms.length > 0) {
+    for (const term of queryTerms) {
+      matchIndex = normalizedContent.indexOf(term);
+      if (matchIndex !== -1) break;
+    }
+  }
+
+  // If still no match, take from start
+  if (matchIndex === -1) {
+    matchIndex = 0;
+  }
+
+  // Extract context (150 chars before and after)
+  const snippetStart = Math.max(0, matchIndex - 75);
+  const snippetEnd = Math.min(content.length, matchIndex + 75);
+
+  let snippet = content.slice(snippetStart, snippetEnd);
+
+  // Add ellipsis
+  if (snippetStart > 0) snippet = '...' + snippet;
+  if (snippetEnd < content.length) snippet = snippet + '...';
+
+  return snippet;
 }
 
 // Display search results
 function displaySearchResults(results, query) {
-  const searchResultsEl = document.getElementById('search-results');
+  const resultsContainer = document.getElementById('search-results');
 
   if (results.length === 0) {
     showNoResults(query);
     return;
   }
 
-  // Build results HTML
-  let html = `<div class="search-results-header">${strings.search.found(results.length)}</div>`;
+  resultsContainer.innerHTML = '';
+  resultsContainer.hidden = false;
 
-  results.forEach(result => {
-    let typeLabel;
-    if (result.type === 'directory') {
-      typeLabel = strings.search.directoryEntry;
-    } else if (result.type === 'resource-section') {
-      if (result.level === 1) {
-        typeLabel = strings.search.resourceGuide;
-      } else if (result.level === 2) {
-        typeLabel = strings.search.resourceSection;
-      } else if (result.level === 3) {
-        typeLabel = strings.search.resourceSubsection;
+  results.forEach(({ item, snippet }) => {
+    const resultItem = document.createElement('div');
+    resultItem.className = 'search-result-item';
+
+    const title = document.createElement('div');
+    title.className = 'search-result-title';
+    title.textContent = item.title;
+
+    const snippetEl = document.createElement('div');
+    snippetEl.className = 'search-result-snippet';
+    snippetEl.textContent = snippet;
+
+    const type = document.createElement('div');
+    type.className = 'search-result-type';
+    type.textContent = item.type === 'directory' ? 'Directory' : 'Resource Guide';
+
+    resultItem.appendChild(title);
+    resultItem.appendChild(snippetEl);
+    resultItem.appendChild(type);
+
+    // Click handler
+    resultItem.addEventListener('click', () => {
+      if (item.type === 'directory') {
+        showDirectoryEntry(item.id);
       } else {
-        typeLabel = strings.search.resourceGuide;
+        navigateToResourceSection(item.id);
       }
-    } else {
-      typeLabel = strings.search.resourceGuide;
-    }
-
-    const highlightedSnippet = highlightMatches(result.snippet, query);
-
-    html += `
-      <div class="search-result-item" role="option" data-result-type="${result.type}" data-result-id="${result.id}">
-        <div class="search-result-title">${result.title}</div>
-        <div class="search-result-type">${typeLabel}</div>
-        <div class="search-result-snippet">${highlightedSnippet}</div>
-      </div>
-    `;
-  });
-
-  searchResultsEl.innerHTML = html;
-  searchResultsEl.hidden = false;
-
-  // Add click handlers
-  searchResultsEl.querySelectorAll('.search-result-item').forEach(item => {
-    item.addEventListener('click', () => {
-      const type = item.dataset.resultType;
-      const id = item.dataset.resultId;
-
-      if (type === 'directory') {
-        showDirectoryEntry(id);
-      } else if (type === 'resource-section') {
-        navigateToResourceSection(id);
-      } else {
-        navigateToSection('resources');
-      }
-
       clearSearchResults();
+      document.getElementById('search-input').value = '';
     });
+
+    resultsContainer.appendChild(resultItem);
   });
 }
 
-// Navigate to a specific section within Resources
+// Navigate to resource section
 function navigateToResourceSection(anchorId) {
-  // Save current scroll position
-  saveScrollPosition();
+  // Switch to resources section if not already there
+  if (state.currentSection !== 'resources') {
+    navigateToSection('resources');
+  }
 
-  // Update state
-  state.currentSection = 'resources';
+  // Scroll to anchor after a brief delay to ensure section is rendered
+  setTimeout(() => {
+    const anchor = document.getElementById(anchorId);
+    if (anchor) {
+      anchor.scrollIntoView({ behavior: 'smooth' });
 
-  // Update URL with section fragment
-  const url = new URL(window.location);
-  url.searchParams.set('section', 'resources');
-  url.hash = anchorId;
-  history.pushState({ section: 'resources', anchor: anchorId }, '', url);
-
-  // Show resources section
-  showSection('resources', false);
-
-  // Save state
-  saveState();
-
-  // Wait for render to complete, then scroll to anchor
-  requestAnimationFrame(() => {
-    setTimeout(() => {
-      // Try to find the anchor element
-      const anchor = document.getElementById(anchorId);
-
-      if (anchor) {
-        // Use browser's native scroll with scroll-padding-top
-        // This automatically accounts for the dynamic header height
-        anchor.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      } else {
-        console.warn('Anchor not found:', anchorId);
-        // Fallback: try to scroll to top of resources
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      }
-    }, 150);
-  });
+      // Update URL with anchor
+      const url = new URL(window.location);
+      url.hash = anchorId;
+      history.replaceState(history.state, '', url);
+    }
+  }, 100);
 }
 
 // Clear search results
 function clearSearchResults() {
-  const searchResultsEl = document.getElementById('search-results');
-  const searchInput = document.getElementById('search-input');
-
-  searchResultsEl.hidden = true;
-  searchResultsEl.innerHTML = '';
-
-  // Reset aria-expanded on search input
-  if (searchInput) {
-    searchInput.setAttribute('aria-expanded', 'false');
-  }
+  const resultsContainer = document.getElementById('search-results');
+  resultsContainer.innerHTML = '';
+  resultsContainer.hidden = true;
 }
 
 // Show no results message
 function showNoResults(query) {
-  const searchResultsEl = document.getElementById('search-results');
-  searchResultsEl.innerHTML = `
+  const resultsContainer = document.getElementById('search-results');
+  resultsContainer.innerHTML = `
     <div class="search-no-results">
-      ${strings.search.noResults} "<strong>${query}</strong>"
+      No results found for "${query}"
     </div>
   `;
-  searchResultsEl.hidden = false;
+  resultsContainer.hidden = false;
 }
 
 // Show error message
 function showError(message) {
-  const sections = document.querySelectorAll('.content-section');
-  sections.forEach(section => {
-    section.innerHTML = `<div class="error">${message}</div>`;
-  });
+  console.error(message);
+  // Could show a toast/notification here
 }
 
-// Save current scroll position
+// Save scroll position for current section
 function saveScrollPosition() {
   state.scrollPositions[state.currentSection] = window.scrollY;
 }
@@ -1328,12 +961,13 @@ function saveScrollPosition() {
 // Save state to localStorage
 function saveState() {
   try {
-    localStorage.setItem('appState', JSON.stringify({
+    const stateToSave = {
       currentSection: state.currentSection,
       scrollPositions: state.scrollPositions
-    }));
-  } catch (error) {
-    console.error('Error saving state:', error);
+    };
+    localStorage.setItem('appState', JSON.stringify(stateToSave));
+  } catch (e) {
+    // Ignore errors
   }
 }
 
@@ -1343,26 +977,31 @@ function restoreState() {
     const savedState = localStorage.getItem('appState');
     if (savedState) {
       const parsed = JSON.parse(savedState);
-      state.currentSection = parsed.currentSection || 'resources';
-      state.scrollPositions = parsed.scrollPositions || {};
+      if (parsed.currentSection) {
+        state.currentSection = parsed.currentSection;
+      }
+      if (parsed.scrollPositions) {
+        state.scrollPositions = parsed.scrollPositions;
+      }
     }
+  } catch (e) {
+    // Ignore errors
+  }
 
-    // Check URL for section parameter
-    const params = new URLSearchParams(window.location.search);
-    const urlSection = params.get('section');
-    if (urlSection) {
-      state.currentSection = urlSection;
-    }
-  } catch (error) {
-    console.error('Error restoring state:', error);
+  // Check URL for section override
+  const urlParams = new URLSearchParams(window.location.search);
+  const urlSection = urlParams.get('section');
+  if (urlSection && ['resources', 'directory', 'about'].includes(urlSection)) {
+    state.currentSection = urlSection;
   }
 }
 
 // Update last modified date
 function updateLastModifiedDate() {
-  const dateElement = document.getElementById('last-update-date');
+  const dateElement = document.getElementById('last-modified-date');
   if (dateElement) {
-    dateElement.textContent = new Date().toLocaleDateString('en-US', {
+    const lastModified = new Date(document.lastModified);
+    dateElement.textContent = lastModified.toLocaleDateString('en-US', {
       year: 'numeric',
       month: 'long',
       day: 'numeric'

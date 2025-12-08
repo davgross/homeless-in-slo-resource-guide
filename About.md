@@ -115,8 +115,9 @@ Third-party names, logos, and descriptions are used with permission from their o
 
 This application uses the following open-source libraries and fonts:
 
-- [Marked](https://github.com/markedjs/marked) (MIT License)—Markdown parser
-- [DOMPurify](https://github.com/cure53/DOMPurify) (Apache 2.0 / MPL 2.0)—HTML sanitizer
+- [Marked](https://github.com/markedjs/marked) (MIT License)—Markdown parser for build-time content processing
+- [jsdom](https://github.com/jsdom/jsdom) (MIT License)—DOM implementation for build-time HTML manipulation
+- [DOMPurify](https://github.com/cure53/DOMPurify) (Apache 2.0 / MPL 2.0)—Runtime HTML sanitizer
 - [Vite](https://vitejs.dev) (MIT License)—Build tool
 - [vite-plugin-pwa](https://vite-pwa-org.netlify.app) (MIT License)—Progressive Web App capability
 - [mimetext](https://github.com/muratgozel/MIMEText) (MIT License)—Email message builder

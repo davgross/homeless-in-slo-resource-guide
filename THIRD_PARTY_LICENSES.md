@@ -7,13 +7,14 @@ This document contains the full license texts for all third-party open-source li
 ## Table of Contents
 
 1. [Marked](#marked) - MIT License
-2. [DOMPurify](#dompurify) - Apache 2.0 / MPL 2.0 (dual-licensed)
-3. [Vite](#vite) - MIT License
-4. [vite-plugin-pwa](#vite-plugin-pwa) - MIT License
-5. [mimetext](#mimetext) - MIT License
-6. [Montserrat Alternates Font](#montserrat-alternates-font) - SIL Open Font License 1.1
-7. [OpenDyslexic Font](#opendyslexic-font) - SIL Open Font License 1.1
-8. [Poison Oak Images](#poison-oak-images) - CC BY 2.0, CC BY-SA 4.0, CC0 1.0
+2. [jsdom](#jsdom) - MIT License
+3. [DOMPurify](#dompurify) - Apache 2.0 / MPL 2.0 (dual-licensed)
+4. [Vite](#vite) - MIT License
+5. [vite-plugin-pwa](#vite-plugin-pwa) - MIT License
+6. [mimetext](#mimetext) - MIT License
+7. [Montserrat Alternates Font](#montserrat-alternates-font) - SIL Open Font License 1.1
+8. [OpenDyslexic Font](#opendyslexic-font) - SIL Open Font License 1.1
+9. [Poison Oak Images](#poison-oak-images) - CC BY 2.0, CC BY-SA 4.0, CC0 1.0
 
 ---
 
@@ -45,6 +46,38 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+```
+
+---
+
+## jsdom
+
+**Homepage:** [https://github.com/jsdom/jsdom](https://github.com/jsdom/jsdom)
+**Repository:** [https://github.com/jsdom/jsdom](https://github.com/jsdom/jsdom)
+**License:** MIT
+
+```plaintext
+MIT License
+
+Copyright (c) 2010-2024 Elijah Insua and contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ```
 
 ---
