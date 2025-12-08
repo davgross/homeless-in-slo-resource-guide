@@ -1948,34 +1948,32 @@ Palliative care is medical treatment that aims to relieve pain and suffering, pe
 Hospice care is meant to make the process of dying less uncomfortable, and is meant for people who do not have realistic hopes of being cured and living long.
 Typically this means they are in their last six months of life.
 
-[**Hospice SLO**](Directory.md#Hospice-SLO) includes non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, and end-of-life companion support.
-All services are provided at no charge (they rely entirely on community donations).
-These services are open to San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life.
+[**Hospice SLO**](Directory.md#Hospice-SLO) includes non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, and end-of-life companion support. <!-- Source: https://hospiceslo.org/ -->
+All services are provided at no charge (they rely entirely on community donations). <!-- Source: https://hospiceslo.org/ -->
+These services are open to San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life. <!-- Source: https://hospiceslo.org/ -->
 
-The [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program) provides shelter to terminally ill people who need housing so that they can die in the dignity and stability of housing with the care of hospice.
+The [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program) provides shelter to terminally ill people who need housing so that they can die in the dignity and stability of housing with the care of hospice. <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
 
-[**Aevum Home Health**](Directory.md#Aevum) offers palliative care, and accepts Medicare and Medi-Cal. They also have a hospice program.<!-- unclear if the hospice program also accepts Medicare and Medi-Cal -->
+[**Aevum Home Health**](Directory.md#Aevum) offers palliative care, and accepts Medicare and Medi-Cal. <!-- Source: https://www.aevumhomehealth.com/services -->
+They also have a hospice program.<!-- https://aevumhospice.com/ ; unclear if the hospice program also accepts Medicare and Medi-Cal -->
 
-[**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) includes hospice nurse availability, nursing services, spiritual care, dietitian services, social work services, bereavement services, home health aides, trained volunteers, support groups, and musicians.
-They accept Medicare; contact them directly to ask about whether Medi-Cal will cover their services.
+[**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) includes hospice nurse availability, nursing services, spiritual care, dietitian services, social work services, bereavement services, home health aides, trained volunteers, support groups, and musicians. <!-- Source: https://centralcoasthomehealth.com/index.php/hospice/ -->
+They accept Medicare. <!-- Source: https://centralcoasthomehealth.com/index.php/about-us/ -->
 
-[**Dignity Health French Hospital Medical Center Home Health and Hospice**](Directory.md#French-Hospital-Medical-Center) includes team-oriented medical care, symptom and pain management, and emotional and spiritual support tailored to patient needs.
-They accept Medicare and Medi-Cal.
-They also have financial assistance programs that make hospice treatment free for people below 250% of the federal poverty level, and discounted for people below 400% of the federal poverty level (call [888-488-7667](tel:+1-888-488-7667) or [805-542-6321](tel:+1-805-542-6321) for details).
+[**Dignity Health**](Directory.md#Dignity-Health) has a Home Health and Hospice program that includes team-oriented medical care, symptom and pain management, and emotional and spiritual support tailored to patient needs. <!-- Source: https://www.dignityhealth.org/central-coast/services/home-health-hospice-and-infusion-services -->
+They accept Medicare and Medi-Cal. <!-- SOURCE NEEDED -->
+They also have financial assistance programs that make hospice treatment free for people below 250% of the federal poverty level, and discounted for people below 400% of the federal poverty level (call [888-488-7667](tel:+1-888-488-7667) or [805-542-6321](tel:+1-805-542-6321) for details). <!-- Source: https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/billing-information/financial-assistance -->
 
-[**Dignity Health**](Directory.md#Dignity-Health) also has a Home Health and Hospice program in Atascadero that includes skilled nursing, hospice care, and palliative care.
-They accept Medicare and Medi-Cal.
-They also have financial assistance programs that make hospice treatment free for people below 250% of the federal poverty level, and discounted for people below 400% of the federal poverty level (call [888-488-7667](tel:+1-888-488-7667) or [805-542-6321](tel:+1-805-542-6321) for details).
-They are located at <a href="#" class="map-link" data-lat="35.497588" data-lon="-120.680838" data-zoom="17" data-label="Home Health and Hospice">4555 El Camino Real #A</a>, are open M–F 8am–5pm, and can be reached by phone at [805-434-1427](tel:+1-805-434-1427) or [800-549-9609](tel:+1-800-549-9609).
+[**Medi-Cal**](Directory.md#Medi-Cal) ([**CenCal**](Directory.md#CenCal)) recipients who have a life expectancy of six months or less can choose to receive Medi-Cal covered hospice care in lieu of ordinary medical coverage. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2024/12/345_2025-EOC_M-MS-EOCMHC-0125-E_R5_Web.pdf p. 52 -->
+Medi-Cal (CenCal) also covers palliative care as part of its ordinary medical coverage. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2024/12/345_2025-EOC_M-MS-EOCMHC-0125-E_R5_Web.pdf p. 53 -->
 
-[**Medi-Cal**](Directory.md#Medi-Cal) ([**CenCal**](Directory.md#CenCal)) recipients who have a life expectancy of six months or less can choose to receive Medi-Cal covered hospice care in lieu of ordinary medical coverage.
-Medi-Cal (CenCal) also covers palliative care as part of its ordinary medical coverage.
-
-Hospice care is part of the Veterans Health Administration (VHA)’s standard medical benefits package.
-If you are a veteran who is enrolled with the VHA, and you have a clinical need for end-of-life hospice care, you can get this without a copay through the VHA.
+Hospice care is part of the Veterans Health Administration (VHA)’s medical benefits package for all enrolled veterans. <!-- Source: https://www.va.gov/geriatrics/pages/Hospice_Care.asp -->
+If you are a veteran who is enrolled with the VHA, and you have a clinical need for end-of-life hospice care, you can get this without a copay through the VHA. <!-- Source: https://www.va.gov/geriatrics/pages/Hospice_Care.asp -->
 Contact the local [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) or call the national department of Veterans Affairs at [800-827-1000](tel:+1-800-827-1000).
 
 ### <a id="advance-directives">Advance Directives</a>
+
+<!-- See issue #37 -->
 
 Advance Health Care Directives are legal documents that let you communicate your health care wishes in advance, in case you become unable to speak for yourself.
 Sometimes people call these “Living Wills.”
@@ -1983,7 +1981,7 @@ These documents include:
 
 - **Advance Health Care Directives:** Specifies which medical treatments you would or would not want if you become terminally ill or are in a persistent vegetative state
 - **Healthcare Power of Attorney:** Designates a trusted person to make medical decisions for you when you cannot
-- **Physician Orders for Life-Sustaining Treatment:** You can use this to tell physicians how much they should intervene to try to extend your life
+- **Physician Orders for Life-Sustaining Treatment (POLST):** You can use this to tell physicians how much they should intervene to try to extend your life
 - **Do Not Resuscitate (DNR) Orders:** Expresses your desire to refuse resuscitation efforts in particular
 - **Organ Donation Authorization:** You give or withhold permission for your organs, tissues, or body parts to be donated when you die, or put conditions on how they can be used
 
@@ -1995,14 +1993,17 @@ Give these documents to your healthcare providers so they know to respect your s
 The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [The Conversation Project](https://theconversationproject.org/) can help you create advance directive documents that match your needs and your preferences.
 The [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/) website has several varieties of advance directive forms in PDF format that you can review or print.
 
-[**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), [**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) can give you free help to make your advance directive documents clear and legally binding.
+[**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), <!-- probably via SLOLAF -->
+[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), <!-- SOURCE NEEDED (issue #80) -->
+and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) <!-- Source: https://www.slolaf.org/seniorlaw -->
+can give you free help to make your advance directive documents clear and legally binding.
 
-[**Hospice SLO**](Directory.md#Hospice-SLO) offers advanced directive assistance either in-person at its offices, or by phone or internet conferencing.
+[**Hospice SLO**](Directory.md#Hospice-SLO) offers advanced directive assistance either in-person at its offices, or by phone or internet conferencing. <!-- Source: https://hospiceslo.org/services/advance-health-care-directive-support -->
 
-Your healthcare provider or hospice can help you complete a Physician Orders for Life-Sustaining Treatment (POLST) form.
-It instructs medical care providers whether they should try to extend your life however they can, or whether they should avoid certain types of burdensome treatments like CPR, feeding tubes, or a mechanical breathing apparatus.
-A POLST form only works if you or your legally-recognized decision-maker signs it *and* your physician, nurse practitioner, or physician assistant also signs it.
-You can change your mind after you submit such a form and can change it or discontinue it.
+Your healthcare provider or hospice can help you complete a Physician Orders for Life-Sustaining Treatment (POLST) form. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
+It instructs medical care providers whether they should try to extend your life however they can, or whether they should avoid certain types of burdensome treatments like CPR, feeding tubes, or a mechanical breathing apparatus. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
+A POLST form only works if you or your legally-recognized decision-maker signs it *and* your physician, nurse practitioner, or physician assistant also signs it. <!-- Source: https://capolst.org/polst-for-patients-loved-ones/ -->
+You can change your mind after you submit such a form and can change it or discontinue it. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
 You can learn more about the form and review one online, in several languages, at [capolst.org](https://capolst.org/).
 
 -----
