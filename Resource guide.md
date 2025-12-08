@@ -1907,27 +1907,28 @@ The [**Alano Club**](Directory.md#Alano-Club) <!-- Source: https://sloalanoclub.
 
 There are programs available that will erase your tattoos.
 This can help you if you have tattoos that interfere with your ability to get a job or that are suggestive of gang or hate group affiliation.
-Tattoo removal can help you get a fresh start, unburdened by regretful decisions from your past.
+Tattoo removal can help you get a fresh start, unburdened by regretful decisions from your past. <!-- Source: https://removery.com/tattoo-removal/ -->
 
 The process of laser tattoo removal takes time.
 Typically you undergo between five and twelve visits, each one lasting about five minutes, over several months.
-In each visit a laser breaks ink particles in your tattoo so that your immune system can remove them.
+In each visit a laser breaks ink particles in your tattoo so that your immune system can remove them. <!-- Source: https://removery.com/tattoo-removal/ -->
 The tattooed area will become red and swollen soon after treatment, but this eventually settles down.
 Sometimes there is some blistering and scabbing.
-You will need to take some care to keep the area of the tattoo clean, and to apply some ointments that assist healing.
+You will need to take some care to keep the area of the tattoo clean, and to apply some ointments that assist healing. <!-- Source: https://removery.com/tattoo-removal/aftercare/ -->
 
-The [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) offers laser tattoo removal of gang-related, anti-social, or economically limiting tattoos.
-You are required to do some hours of community service (or an equivalent financial donation) before each treatment, but there is otherwise no cost.
-You must agree to remain clean and sober, and to get no more tattoos, during the treatment.
-This service is offered to people in SLO County and the treatments happen in SLO city.
+The [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) offers laser tattoo removal of gang-related, anti-social, or economically limiting tattoos. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+You are required to do some hours of community service (or an equivalent financial donation) before each treatment, but there is otherwise no cost. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+You must agree to remain clean and sober, and to get no more tattoos, during the treatment. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+This service is offered to people in SLO County <!-- SOURCE NEEDED (https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "San Luis Obispo or Santa Maria") (issue #79) -->
+and the treatments happen in Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ (though https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "at Sierra Vista Regional Medical Center") (issue #79) -->
 
-[**Catholic Charities**](Directory.md#Catholic-Charities) has a low-cost tattoo removal program ($20–90 per session, on a sliding scale based on ability to pay).
-You must also complete 20 hours of community service before beginning treatment.
-They prioritize the removal of offensive or gang-related tattoos, and will remove both visible-and-obvious tattoos (e.g. the face, the back of the hands) and more discreet ones.
-Call them to begin the process.
+[**Catholic Charities**](Directory.md#Catholic-Charities) has a low-cost tattoo removal program ($20–90 per session, on a sliding scale based on ability to pay). <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
+You must also complete 20 hours of community service before beginning treatment. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
+They prioritize the removal of offensive or gang-related tattoos, and will remove both visible-and-obvious tattoos (e.g. the face, the back of the hands) and more discreet ones. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
+Call them to begin the process. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 
-The [Removery INK-nitiative Program](https://removery.com/services/ink-nitiative) offers free removal of tattoos, if those tattoos are in visible areas (face, hands, arms) or suggest gang or hate group affiliation, to people who have been incarcerated, are former gang members, or are survivors of domestic abuse or human trafficking.
-Apply on their website.
+The [Removery INK-nitiative Program](https://removery.com/services/ink-nitiative) offers free removal of tattoos, if those tattoos are in visible areas (face, hands, arms) or suggest gang or hate group affiliation, to people who have been incarcerated, are former gang members, or are survivors of domestic abuse or human trafficking. <!-- Source: https://removery.com/services/ink-nitiative/ -->
+Apply on their website. <!-- Source: https://removery.com/services/ink-nitiative/ -->
 
 The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) website lists hundreds of other free or low-cost tattoo removal programs throughout the country.
 

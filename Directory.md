@@ -1807,6 +1807,7 @@
 
 ## <a id="Liberty-Tattoo-Removal-Program">Liberty Tattoo Removal Program</a>
 
+- **Website:** [capslo.org/liberty-tattoo-removal](https://capslo.org/liberty-tattoo-removal/)
 - **Phone:** [805-540-8353](tel:+1-805-540-8353) <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 - **Email:**
    - [libertytattooremoval@capslo.org](mailto:libertytattooremoval@capslo.org) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide -->
