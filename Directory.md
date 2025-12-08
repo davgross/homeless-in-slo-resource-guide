@@ -3261,7 +3261,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="SLO-County-Mental-Health-Services">SLO County Mental Health Services</a>
 
-- **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)
+- **Website:** [slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610)
 
 <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
 | Serves | Location | Phone |

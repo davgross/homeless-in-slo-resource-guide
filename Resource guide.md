@@ -1739,7 +1739,7 @@ Ask homeless service providers if they have any sunscreen they can give you. Som
 
 If you develop a sunburn, you can get some relief with over-the-counter salves and creams, or just by keeping the area moist (perhaps with a dampened cloth). <!-- Source: https://www.mayoclinic.org/first-aid/first-aid-sunburn/basics/art-20056643 -->
 If you have blisters that break, keep the area clean and covered with a bandage. <!-- Source: https://www.mayoclinic.org/first-aid/first-aid-sunburn/basics/art-20056643 -->
-If you notice increasing redness that spreads beyond the area of the burn, or pus, or if you develop a fever, seek medical care as this may indicate an infection. <!-- SOurce: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
+If you notice increasing redness that spreads beyond the area of the burn, or pus, or if you develop a fever, seek medical care as this may indicate an infection. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 
 <!--
 ### Uncategorized / Needs Research
@@ -1796,27 +1796,23 @@ They accept Medicare and most private insurance plans. <!-- Source: https://aspi
 
 The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Atascadero, Cambria, Nipomo, Oceano, Paso Robles,
 at 77 Casa St. in SLO, and in Templeton (Las Tablas), specialize in behavioral health. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
-Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers substance abuse treatment and needle exchange.
+Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers substance abuse treatment and needle exchange. <!-- SOURCE NEEDED (issue #75) -->
 
-[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in Santa Maria has a detox program and apparently accepts referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County.
+[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in Santa Maria has a detox program that accepts walk-ins<!-- Source: https://www.goodsamaritanshelter.org/recovery-behavioral-health --><!-- and referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County {SOURCE NEEDED} -->.
+They operate the [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) for sobering up, detox, and medically-assisted drug withdrawal. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
 
-[**SLO Bangers**](Directory.md#SLO-Bangers) runs a needle exchange program, can give you overdose prevention training, and distributes Narcan.
+[**SLO Bangers**](Directory.md#SLO-Bangers) runs a needle exchange program, can give you overdose prevention training, and distributes Narcan. <!-- Source: https://slobangers.com/services.html -->
 
-[**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services) include drug & alcohol walk-in clinics, detox (medically-assisted treatment), and referral to residential treatment options.
+[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) offers medically-assisted treatment, recovery support services, and outpatient care. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
+Some of their services are available on a walk-in basis. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics -->
+They charge a sliding fee depending on ability to pay (“no clients are denied access to services due to inability to pay”). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services -->
 
-[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) offers medically-assisted treatment, recovery services, and outpatient care.
-Some of their services are available on a walk-in basis.
-They charge a sliding fee depending on ability to pay.
-They operate the [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) for sobering up, detox, and medically-assisted drug withdrawal.
+[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) offer walk-in suboxone treatment at their emergency rooms. <!-- SOURCE NEEDED (issue #77) -->
 
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) offer walk-in suboxone treatment at their emergency rooms.
+[**Transitions Mental Health Association**](Directory.md#TMHA) has substance use support groups for people who also have other mental health needs. <!-- Source: https://www.t-mha.org/wellness-calendars.php -->
 
-[**Transitions Mental Health Association**](Directory.md#TMHA) has substance use support groups for people who also have other mental health needs.
-
-The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers substance abuse treatment to qualifying U.S. military veterans.
-The [**County Veterans Services Offices**](Directory.md#Veterans-Services) can also refer veterans to alcohol and drug dependency treatment programs.
-
-You can search for other rehab / addiction / detox programs in SLO County at websites like [addictions.com](https://www.addictions.com/rehabs/california/san-luis-obispo/), [recovery.com](https://recovery.com/san-luis-obispo/), or [rehabs.org](https://rehabs.org/centers/california/san-luis-obispo/).
+The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers substance abuse treatment to qualifying U.S. military veterans. <!-- Source: https://www.va.gov/health-care/health-needs-conditions/substance-use-problems/ -->
+The [**County Veterans Services Offices**](Directory.md#Veterans-Services) can also refer veterans to alcohol and drug dependency treatment programs. <!-- SOURCE NEEDED (issue #78) -->
 
 [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/) is a U.S. government agency.
 It has a free phone service ([800-662-HELP](tel:+1-800-662-4357); TTY: [800-487-4889](tel:+1-800-487-4889); text: [435748](sms:435748?&body=HELP4U)) that can help you find substance abuse treatment options near you that match your needs. <!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
@@ -1825,7 +1821,11 @@ It has a free phone service ([800-662-HELP](tel:+1-800-662-4357); TTY: [800-487-
 
 Naloxone is an easy-to-administer medication that can save the life of someone who is experiencing an overdose of an opiate such as fentanyl or heroin.
 
-You can get naloxone from [**Access Support Network**](Directory.md#ASN), [**SLO Bangers**](Directory.md#SLO-Bangers), [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), and [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) emergency rooms.
+You can get naloxone from [**Access Support Network**](Directory.md#ASN), <!-- Source: https://accesssupportnetwork.org/programs/harm-reduction-programs/ -->
+[**SLO Bangers**](Directory.md#SLO-Bangers), <!-- Source: https://slobangers.com/services.html -->
+[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <!-- SOURCE NEEDED -->
+and [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) <!-- SOURCE NEEDED -->
+and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) emergency rooms. <!-- SOURCE NEEDED -->
 You can also get free naloxone any time from these “NaloxBoxes”:
 <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county -->
 
@@ -1878,20 +1878,24 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 
 ### <a id="tobacco-nicotine">Tobacco / Nicotine</a>
 
-The “Kick It California” program can help you stop smoking ([kickitca.org](https://kickitca.org/) at [800-300-8086](tel:+1-800-300-8086) or [smokefree.gov](https://smokefree.gov/) at [800-784-8669](tel:+1-800-784-8669)).
+The “Kick It California” program can help you stop smoking ([kickitca.org](https://kickitca.org/) at [800-300-8086](tel:+1-800-300-8086). <!-- Source: https://kickitca.org/ -->
+The U.S. government has a similar program at [smokefree.gov](https://smokefree.gov/) or [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) and the [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) also offer tobacco cessation help.
+The [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- SOURCE NEEDED (issue #75) -->
+and the [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) also offer tobacco cessation help. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/quit-support -->
+
+The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers tobacco cessation support, resources, and programs to qualifying U.S. military veterans. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
 
 ### <a id="twelve-step">12-Step and Similar Recovery Programs</a>
 
 [**Alcoholics Anonymous**](Directory.md#AA) is a peer-led sobriety and recovery program.
-[**Recovery Dharma**](Directory.md#Recovery-Dharma), hosted by [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service), is a similar, Buddhist-oriented program.
+[**Recovery Dharma**](Directory.md#Recovery-Dharma), hosted by [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service), is a similar, Buddhist-oriented program. <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?distance=5&search=93401&mode=location -->
 
 [**Narcotics Anonymous**](Directory.md#Narcotics-Anonymous) is similar and helps you stop using other addictive drugs.
 [**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) is for marijuana specifically.
 
-AA & NA meet in many locations throughout the county, every day of the week.
-The [**Alano Club**](Directory.md#Alano-Club) and [The Cambria Connection](https://thecambriaconnection.org/meetings-and-events/), for example, host AA or NA meetings several times a day.
+AA & NA meet in many locations throughout the county, every day of the week. <!-- Sources: https://www.centralcoastna.org/directory/ and https://www.sloaa.org/meetings/ -->
+The [**Alano Club**](Directory.md#Alano-Club) <!-- Source: https://sloalanoclub.org/meeting-schedule --> and [The Cambria Connection](https://thecambriaconnection.org/meetings-and-events/), for example, host AA or NA meetings several times a day.
 
 ### Sober Living Homes and Residential Treatment Options
 
