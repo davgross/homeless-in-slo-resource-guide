@@ -1710,7 +1710,7 @@
 ## <a id="Immigrant-Legal-Defense">Immigrant Legal Defense (ILD)</a>
 
 - **Website:** [ild.org](https://www.ild.org/)
-- **Location:** Cal Poly Dream Center, <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Dream Center">Science Building (Building 52), Room E-11, Cal Poly SLO campus</a>
+- **Location:** Cal Poly Dream Center, <a href="#" class="map-link" data-lat="35.297413" data-lon="-120.655391" data-zoom="17" data-label="Cal Poly Dream Center">yakʔitʸutʸu, Building 172, Room H1‒46</a>
 - **Phone:** [805-756-6362](tel:+1-805-756-6362)
 - **Email:** [info@ild.org](mailto:info@ild.org) <!-- Source: https://calendly.com/csulegalservices/ild?month=2025-12 -->
 - **How to access:** Schedule appointments via Calendly at [calendly.com/csulegalservices/ild](https://calendly.com/csulegalservices/ild) or through Dream Center website at [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)

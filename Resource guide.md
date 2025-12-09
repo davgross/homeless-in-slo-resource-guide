@@ -2306,59 +2306,58 @@ The [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assist
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) has an [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/) to help people with issues such as U.S citizenship applications, immigration status changes, DACA, U-Visas, VAWA-Visas, and consular visa processes. <!-- Source: https://catholiccharitiesdom.org/immigration-citizenship/ -->
 
-[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) hosts the [Unitarian Universalist Refugee and Immigrant Services Education (UURISE)](https://uuslo.org/Immigration-Legal-Services) program, which offers free or low-cost immigration legal services.
+[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) hosts the [Unitarian Universalist Refugee and Immigrant Services Education (UURISE)](https://uuslo.org/Immigration-Legal-Services) program, which offers free or low-cost immigration legal services. <!-- Source: https://uuslo.org/Immigration-Legal-Services -->
 
-[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) is an immigration legal services center that can help you with naturalization, consular processing, immigration status changes, temporary protective status, DACA, green card renewals, and visas.
+[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) is an immigration legal services center that can help you with naturalization, consular processing, immigration status changes, temporary protective status, DACA, green card renewals, and visas. <!-- Source: https://immigranthopeag.org/ -->
 
-[**SLO College of Law**](Directory.md#SLO-College-of-Law-Legal-Clinic) holds [immigration clinics](https://montereylaw.edu/clinics/immigrationclinic.html) by telephone or Zoom on Mondays between 4pm and 6pm.
-They can help you with DACA renewal, visas, naturalization/citizenship, and green cards.
-This costs $15.
-Schedule an appointment at their website or by calling [831-582-3600](tel:+1-831-582-3600).
+[**SLO College of Law**](Directory.md#SLO-College-of-Law-Legal-Clinic) holds [immigration clinics](https://montereylaw.edu/clinics/immigrationclinic.html) by telephone or Zoom on Mondays between 4pm and 6pm. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
+They can help you with DACA renewal, visas, naturalization/citizenship, and green cards. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
+This costs $15. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
+Schedule an appointment at their website or by calling [831-582-3600](tel:+1-831-582-3600). <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
 
 [**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some free [immigration resources](https://selfhelp.courts.ca.gov/immigration).
 
-[**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) operates Dream (or Monarch) Centers at local colleges (Cal Poly, Cuesta, and Allan Hancock).
+[**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) operates Dream (or Monarch) Centers at local colleges (Cal Poly, Cuesta, and Allan Hancock). <!-- Source: https://www.ccc-uss.org/student-resources.html -->
 These centers help students with (among other things) DACA application assistance and other legal help:
 
 - [**Cuesta College**](Directory.md#Cuesta-College) provides free immigration legal services to students, faculty, and staff.
-  Make an appointment to talk to an advisor [here](https://findyourally.com/) or call [805-246-3867](tel:+1-805-246-3867) or [805-546-3109](tel:+1-805-546-3109)
-- Cal Poly’s Dream Center provides free and confidential [**Immigrant Legal Defense**](Directory.md#Immigrant-Legal-Defense) to Cal Poly students, recent graduates, employees, and immediate family members.
-  This includes deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications
-- The Allan Hancock College [AIM to Dream Center](https://www.hancockcollege.edu/aimtodream/index.php) offers free immigration legal services to all students, faculty, and staff.
-  This includes DACA, citizenship, family petitions, adjustments of status, among other things.
+  Make an appointment to talk to an advisor [at FindYourAlly](https://findyourally.com/) or call [805-246-3867](tel:+1-805-246-3867) or [805-546-3109](tel:+1-805-546-3109)
+- Cal Poly’s Dream Center provides free and confidential [**Immigrant Legal Defense**](Directory.md#Immigrant-Legal-Defense) <!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
+to Cal Poly students, recent graduates, employees, and immediate family members. <!-- SOURCE NEEDED -->
+  This includes deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications. <!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
+- The Allan Hancock College [AIM to Dream Center](https://www.hancockcollege.edu/aimtodream/index.php) offers free immigration legal services to all students, faculty, and staff. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
+  This includes DACA, citizenship, family petitions, adjustments of status, among other things. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
 
-If you call the Rapid Response Hotline at [805-870-8855](tel:+1-805-870-8855), you can get know-your-rights information and referrals to trusted attorneys (nonprofit, private, or public) from the “805 Immigrant Rapid Response Network.”
+If you call the Rapid Response Hotline at [805-870-8855](tel:+1-805-870-8855), you can get know-your-rights information and referrals to trusted attorneys (nonprofit, private, or public) from the “[805 Immigrant Rapid Response Network](https://www.805undocufund.org/alerts.html).” <!-- Source: https://www.805undocufund.org/alerts.html -->
 
 The [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) and the [Immigrant Defense Project](https://www.immigrantdefenseproject.org/) can also help you with know-your-rights information and with finding legal help.
 
 ### <a id="senior-legal-services">Senior Legal Services</a>
 
-The [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) offers free legal help for people in SLO County who are age 60 and up.
-They can help you navigate the legal issues around benefits rights assistance, consumer protection, housing discrimination and eviction prevention, advance medical directives and durable power of attorney, will preparation, and protective/restraining orders.
-They often hold by-appointment clinics at local Senior Centers, or you can contact their office directly via the [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation).
+The [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) offers free legal help to low- and moderate-income people in SLO County who are age 60 and up. <!-- Source: https://www.slolaf.org/seniorlaw -->
+They can help you navigate the legal issues around benefits rights assistance, consumer protection, housing discrimination and eviction prevention, advance medical directives and durable power of attorney, will preparation, and protective/restraining orders. <!-- Source: https://www.slolaf.org/seniorlaw -->
+They often hold by-appointment clinics at local Senior Centers, or you can contact their office directly via the [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation). <!-- Source: https://www.slolaf.org/seniorlaw -->
 
 ### <a id="tax-disputes">Tax Disputes</a>
 
-The Orfalea College of Business at Cal Poly operates a [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic) at <a href="#" class="map-link" data-lat="35.299891" data-lon="-120.664977" data-zoom="17" data-label="Business Building">Cal Poly’s SLO campus, building 3, room 107</a>, M–Th 9am–5pm and F 9am–1pm.
-
-They represent low-income clients for free in tax controversies before the I.R.S. and the U.S. Tax Court.
-Their help is available in English and Spanish.
-This service is only available to you if the amount the IRS says you owe is $50,000 per tax year or less, and your household’s total income does not exceed 250 percent of the federal poverty guidelines.
-
-To use this service, complete [an intake form](https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients) which is available on their website, or call them at [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725))
-You can also ask for more information by email at [litc@calpoly.edu](mailto:litc@calpoly.edu).
+The Orfalea College of Business at Cal Poly operates a free [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic) at <a href="#" class="map-link" data-lat="35.299891" data-lon="-120.664977" data-zoom="17" data-label="Business Building">Cal Poly’s SLO campus, building 3, room 107</a>, M–Th 9am–5pm and F 9am–1pm. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
+They represent low-income clients for free in tax controversies before the I.R.S. and the U.S. Tax Court. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
+Their help is available in English and Spanish. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
+This service is only available to you if the amount the IRS says you owe is $50,000 per tax year or less, and your household’s total income does not exceed 250 percent of the federal poverty guidelines. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients -->
+To use this service, complete [an intake form](https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients) which is available on their website, or call them at [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725)) <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients -->
+You can also ask for more information by email at [litc@calpoly.edu](mailto:litc@calpoly.edu). <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
 
 ### <a id="legal-miscellany">Miscellany</a>
 
 > See the [Advance Directives](#advance-directives) section of this guide for help on how to make legally-binding advance directives such as Advance Care Directives, Healthcare Power of Attorney, Physician Orders for Life-Sustaining Treatment (POLST), Do Not Resuscitate (DNR) orders, and organ donation authorizations.
 
-The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) enforces California’s laws against certain forms of discrimination in employment, housing, business, and services, and against hate crimes and human trafficking.
+The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) enforces California’s laws against certain forms of discrimination in employment, housing, business, and services, and against hate crimes and human trafficking. <!-- Source: https://calcivilrights.ca.gov/ -->
 If you believe you have been treated illegally in ways like these, you can [file a discrimination complaint](https://calcivilrights.ca.gov/complaintprocess/), [report a hate crime](https://stophate.calcivilrights.ca.gov/s/) with them and request that they investigate.
 
-The Americans with Disabilities Act protects people who have disabilities from discrimination.
-The [ada.gov](https://www.ada.gov/) website explains this Act and how you can enforce your rights under it.
+The Americans with Disabilities Act protects people who have disabilities from discrimination. <!-- Source: https://www.ada.gov/ -->
+The [ada.gov](https://www.ada.gov/) website explains this Act and how you can enforce your rights under it. <!-- Source: https://www.ada.gov/ -->
 That site also shows you how to [file an official complaint](https://www.ada.gov/file-a-complaint/).
-You can also reach the U.S. Department of Justice’s Americans with Disabilities Act section at [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264)) or [Disability.Outreach@usdoj.gov](mailto:Disability.Outreach@usdoj.gov).
+You can also reach the U.S. Department of Justice’s Americans with Disabilities Act section at [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264)) or [Disability.Outreach@usdoj.gov](mailto:Disability.Outreach@usdoj.gov). <!-- Source: https://www.ada.gov/ -->
 
 -----
 
@@ -2796,6 +2795,9 @@ See [their website](https://www.modestneeds.org/mn/for-applicants) for instructi
 
 If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get help with food, housing, health and well-being, transportation, textbooks, parking passes, technology, and other basic needs from the [Basic Needs Office](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/index.html).
 
+Undocumented or mixed-status people and families who have been directly impacted by immigration enforcement can apply to the [Emergency Assistance Fund](https://www.805undocufund.org/emergency-assistance-fund.html) managed by 805UnocuFund for help paying for rent, utilities, transportation, emergency relocation, and legal-related expenses. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
+Contact [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) or call [805-538-7070](tel:+1-805-538-7070) to apply. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
+
 ### <a id="financial-aid-get-referral">You Must Apply through Some Referring Agency</a>
 
 [**North County NeighborAid**](Directory.md#North-County-NeighborAid) (managed by [**Center for Family Strengthening**](Directory.md#CFS)) gives cash assistance and gifts of goods to needy people in northern SLO County. <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
@@ -3214,6 +3216,8 @@ English as a Second Language (ESL) classes are for learners who already have ano
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) offers free [ESL tutoring](https://catalog.slolibrary.org/tlc) and online conversation practice groups.
 To apply, complete [the form on their website](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) or call [805-781-5077](tel:+1-805-781-5077).
+
+[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) offers free ESL classes and personal tutoring two evenings per week. <!-- Source: https://immigranthopeag.org/education/ -->
 
 Recent refugees from other countries can also get ESL help from [**SLO for HOME**](Directory.md#SLO4Home).
 
