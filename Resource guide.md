@@ -75,7 +75,7 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
    <tr><td><a href="tel:+1-911">911</a></td><td>Medical and safety emergencies</td></tr>
    <tr><td><a href="tel:+1-988">988</a> / <a href="sms:988">988</a></td><td>National Suicide Prevention Lifeline</td></tr><!-- Source: https://988lifeline.org/ -->
    <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr><!-- Source: https://www.t-mha.org/central-coast-hotline.php -->
-   <tr><td>Text “HOME” to <a href="sms:741741?&body=HOME">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> on-line</td></tr><!-- Source: https://www.crisistextline.org/ -->
+   <tr><td>Text “HOME” to <a href="sms:741741?&body=HOME">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> online</td></tr><!-- Source: https://www.crisistextline.org/ -->
    <tr><td><a href="tel:+1-833-317-4673">833-317-HOPE</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidential emotional support</td></tr><!-- Source: https://www.calhope.org/ -->
   </tr>
   <tr><th colspan="2" style="text-align:left;">⇨ For Young People:</th></tr>
@@ -268,12 +268,12 @@ If you are homeless or are threatened with eviction with a “pay rent or quit�
 This program can pay your security deposit, one month’s rent, or a utility deposit payment. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 To qualify you must have “apparent eligibility” for CalWORKs and less than $100 in liquid assets. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 You must first get a referral from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
-The first step in this process is to apply for CalWORKs, which you can do on-line at [BenefitsCal](https://benefitscal.com/).
+The first step in this process is to apply for CalWORKs, which you can do online at [BenefitsCal](https://benefitscal.com/).
 
 If you are homeless or are threatened with eviction with a “pay rent or quit” notice, or if you have had to move your family into a hotel, you can get help from the [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
 This program will help you find housing, and give you rent and moving assistance, among other things. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
 You must be eligible for [**CalWORKs**](Directory.md#CalWORKs) to participate, and you can only use this program once in your lifetime. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-The first step in this process is to apply for CalWORKs, which you can do on-line at [BenefitsCal](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+The first step in this process is to apply for CalWORKs, which you can do online at [BenefitsCal](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
 
 [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers financial assistance for rent, security deposit, or other immediate needs for people who are homeless in danger of becoming homeless. <!-- https://5chc.org/programs/housing-assistance -->
 Contact 5CHC to arrange a confidential coordinated entry interview. <!-- https://5chc.org/programs/housing-assistance -->
@@ -834,7 +834,7 @@ Qualifying farmers markets include: <!-- Source: https://www.cdfa.ca.gov/SeniorF
 The CalFresh program is California’s version of the federal nutrition program known as “SNAP” or “food stamps.” <!-- Source: https://www.getcalfresh.org/ -->
 If you have a low income, California gives you an “EBT card” which you can use like a debit card at grocery stores and farmers markets to buy healthy foods. <!-- Source: https://www.getcalfresh.org/ -->
 
-You can apply for CalFresh on-line at either of the following sites:
+You can apply for CalFresh online at either of the following sites:
 
 - [BenefitsCal.com](https://benefitscal.com/) <!-- Source: https://www.getcalfresh.org/ -->
 - [GetCalFresh.org](https://www.getcalfresh.org/) <!-- Source: https://www.getcalfresh.org/ -->
@@ -922,7 +922,7 @@ You can find a map of these hydration stations [at this link](https://storymaps.
 | <a href="#" class="map-link" data-lat="35.2827536" data-lon="-120.6626956" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>    | downstairs           | M–F 8am–5pm |
 | <a href="#" class="map-link" data-lat="35.2897302" data-lon="-120.6643515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | near parking lot     | 24/7 |
 | <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | near skate park      | 24/7 |
-| <a href="#" class="map-link" data-lat="35.284345" data-lon="-120.660815" data-zoom="17" data-label="Hydration Station">864 Santa Rosa St.</a> | inside, near gym     | M–F 9am–6pm |
+| <a href="#" class="map-link" data-lat="35.284345" data-lon="-120.660815" data-zoom="17" data-label="Hydration Station">864 Santa Rosa St.</a> | inside, near gym     | sporadic <!-- According to AskSLO response by email 12/8/25 Ludwick Community Center does not have regular open hours --> |
 | <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | near playground      | 24/7 |
 | <a href="#" class="map-link" data-lat="35.2673584" data-lon="-120.6467609" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | outside statium      | 24/7 |
 | <a href="#" class="map-link" data-lat="35.2666459" data-lon="-120.6446262" data-zoom="17" data-label="Hydration Station">900 Southwood</a>    | in the swim center   | M–F 6–8am, 11:30–3:30pm, 5:30–7pm; Sa/Su 11:30–1:30pm |
@@ -1093,7 +1093,7 @@ To qualify, you must have a valid California driver’s license, a low income (f
 - no at-fault accidents involving bodily injury or death on a driving record in the previous three years, and
 - no felony or misdemeanor convictions for a violation of the Vehicle Code on your motor vehicle driving record.
 
-You can apply for this insurance on-line at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
+You can apply for this insurance online at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
 
 The [**Family Care Network**](Directory.md#Family-Care-Network) can help you pay for car repairs, payments, and gas if you’re broke.
 You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist.
@@ -1481,7 +1481,7 @@ They can also deliver these devices to you. <!-- Source: https://post66slo.org/s
 
 The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) can give you a free speech-generating device if you have difficulty speaking. <!-- Source: https://www.dor.ca.gov/Home/VoiceOptions -->
 <!--
-The California Foundation for Independent Living Centers operates a “for sale, free, or needed” on-line assistive technology exchange.
+The California Foundation for Independent Living Centers operates a “for sale, free, or needed” online assistive technology exchange.
 { SOURCE: https://www.dor.ca.gov/Home/AssistiveTechnology though NOTE: https://abilitytools.org was inoperable as of 12/7/25 - Issue #72 }
 -->
 
@@ -2131,34 +2131,36 @@ When possible, take formal self-defense classes to learn proper techniques from 
 
 If you are being taken to court and accused of a serious crime by the government, you have the right to have a lawyer who is trained in the law to help defend you against the charges.
 You have a right to a lawyer even if you do not have enough money to pay one.
-If you cannot afford to hire a lawyer, tell the judge so when you first appear in court, and the judge will assign a public defender to you.
+If you cannot afford to hire a lawyer, tell the judge so when you first appear in court, and the judge will assign a public defender to you. <!-- Source: https://slodefend.com/faq/ -->
 [**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) is the primary public defenders’ office in SLO County.
-You must wait until the judge assigns a particular public defender to you before you can discuss your case with them.
+You must wait until the judge assigns a particular public defender to you before you can discuss your case with them. <!-- Source: https://slodefend.com/faq/ -->
 
 If you have been in jail or prison and are reentering the community after doing your time or being released on parole, [**Restorative Partners**](Directory.md#Restorative-Partners) can help make your reentry successful.
-They can give you housing assistance including clean & sober living homes, and help returning to the workforce.
+They can give you housing assistance including clean & sober living homes, and help returning to the workforce. <!-- Source: https://restorativepartners.org/about/ -->
 Call or email them to learn more.
 
-If you have a criminal record that makes it difficult for you to find employment or housing, you may be able to clean that record.
-The “Clean Slate Clinic” is a joint project of [**People’s Justice Project**](Directory.md#Peoples-Justice-Project), [**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance), and [**SLO College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic).
+If you have a criminal record that makes it difficult for you to find employment or housing, you may be able to clean that record. <!-- Source: https://peoplesjusticeproject.org/record-clearing-%26-sealing -->
+“Clean Slate Clinics” are periodically offered by [**People’s Justice Project**](Directory.md#Peoples-Justice-Project) <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
+[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance), <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
+and [**SLO College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic). <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
 Contact them at [805-902-2752](tel:+1-805-902-2752) or [805-242-6691](tel:+1-805-242-6691) to schedule an appointment.
 
-U.S. military veterans who enter the criminal justice system may be able to get services from [“Veterans Treatment Court”](https://www.slocounty.ca.gov/departments/district-attorney/adult-prosecutions/veterans-treatment-court) if the activity they were arrested or prosecuted for is attributed to conditions like post-traumatic stress disorder, traumatic brain injury, sexual trauma, or other causes related to military service.
-Veterans Treatment Court is a rigorous 12–18 month program of supervised probation customized for the needs of traumatized veterans which includes treatment, counseling, and regular court appearances.
+U.S. military veterans who enter the criminal justice system may be able to get services from [“Veterans Treatment Court”](https://www.slocounty.ca.gov/departments/district-attorney/adult-prosecutions/veterans-treatment-court) if the activity they were arrested or prosecuted for is attributed to conditions like post-traumatic stress disorder, traumatic brain injury, sexual trauma, or other causes related to military service. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/benefits-and-services/veterans-treatment-court-(vtc) -->
+Veterans Treatment Court is a rigorous 12–18 month program of supervised probation customized for the needs of traumatized veterans which includes treatment, counseling, and regular court appearances. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/adult-prosecutions/veterans-treatment-court ; Note https://www.slocounty.ca.gov/departments/veterans-services/benefits-and-services/veterans-treatment-court-(vtc) says "15-18 month" -->
 Contact [**County Veterans Services**](Directory.md#Veterans-Services) for help getting into this program.
 
 ### <a id="housing-legal">Legal Help Regarding Housing (Discrimination, Landlord Disputes, etc.)</a>
 
-[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) provides free civil legal assistance to low-income people.
-This includes cases concerning foreclosures, evictions & lockouts, Section 8 and public housing, and housing discrimination.
+[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) provides free civil legal assistance to low-income people. <!-- Source: https://crla.org/about-crla -->
+This includes cases concerning foreclosures, evictions & lockouts, Section 8 and public housing, and housing discrimination. <!-- Source: https://crla.org/get-help/housing -->
 
-[**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) helps low-income people in SLO County with legal support.
-Among the issues they help with are eviction defense for tenants, landlord/tenant conflicts, habitability/repair issues, accessibility for people with disabilities, Fair housing and discrimination, Section 8 housing, unlawful rent increases, and mobile home law.
+[**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) helps low-income people in SLO County with legal support. <!-- Source: https://www.slolaf.org/ -->
+Among the issues they help with are eviction defense for tenants, landlord/tenant conflicts, habitability/repair issues, accessibility for people with disabilities, Fair housing and discrimination, Section 8 housing, unlawful rent increases, foreclosure prevention, and mobile home law. <!-- Source: https://www.slolaf.org/housing and https://www.slolaf.org/foreclosureprevention -->
 
-The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) can help you understand your rights to be protected from illegal [housing discrimination](https://calcivilrights.ca.gov/housing/) and can also help you investigate and file formal discrimination complaints.
+The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) can help you understand your rights to be protected from illegal [housing discrimination](https://calcivilrights.ca.gov/housing/) and can also help you investigate and file formal discrimination complaints. <!-- Source: https://calcivilrights.ca.gov/housing/ -->
 
-The California advocacy organization [Tenants Together](https://tenantstogether.org/) ([info@tenantstogether.org](mailto:info@tenantstogether.org)) has a tenants’ rights hotline at [888-495-8020](tel:+1-888-495-8020) (text [650-600-7821](sms:+1-650-600-7821?&body=HELPLINE)).
-They also have an on-line self-help [Tenant Defense Toolkit](https://www.tenantstogether.org/covid-19-tenant-defense) to help you understand your rights as a renter and how to enforce those rights.
+The California advocacy organization [Tenants Together](https://tenantstogether.org/) ([info@tenantstogether.org](mailto:info@tenantstogether.org)) has a tenants’ rights hotline at [888-495-8020](tel:+1-888-495-8020) (text [650-600-7821](sms:+1-650-600-7821?&body=HELPLINE)). <!-- Source: https://www.tenantstogether.org/tenant-rights-hotline -->
+They also have an online self-help [Tenant Defense Toolkit](https://www.tenantstogether.org/covid-19-tenant-defense) to help you understand your rights as a renter and how to enforce those rights.
 
 The California Department of Real Estate published a [*California Tenants’ Guide*](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) ([Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf)) which gives a detailed explanation of California law concerning tenants of rental properties.
 
@@ -2167,24 +2169,24 @@ SLO city has a [Tenants Union](https://linktr.ee/slorentcoalition) ([805-779-163
 The SLO branch of Democratic Socialists of America have a [Housing Justice](https://slocialism.org/housing-justice/) guide for tenants in San Luis Obispo.
 It tries to explain how you can best assert and defend your legal rights as a renter.
 
-The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being improperly evicted from a long term care facility.
+The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being improperly evicted from a long term care facility. <!-- Source: https://ombudsmanslo.org/faqs -->
 
 U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
-This help includes temporary financial assistance for rent, deposits, and utilities, legal assistance, rental agreement education, and landlord-tenant mediation.
-You must have a DD214 with discharge other than dishonorable.
+This help includes rental agreement education and landlord-tenant mediation. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/forms-documents/pamphlets/ssvf-pamplet -->
+You must have a discharge other than dishonorable to use this program. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/forms-documents/pamphlets/ssvf-pamplet -->
 
 ### <a id="benefits-legal">Help with Benefits, Wrangling with Health Insurers, etc.</a>
 
 > See the [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security) section for advice specific to those programs.
 
-[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options.
-HiCAP can also help you file Medicare denial appeals or make Medicare fraud referrals.
-To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties.
-HiCAP is free.
+[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+HiCAP can also help you file Medicare denial appeals. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties. <!-- SOURCE NEEDED -->
+The HiCAP program is free. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 
-Central California Legal Services’ [Health Consumer Center](https://centralcallegal.org/health/) program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment.
+Central California Legal Services’ [Health Consumer Center](https://centralcallegal.org/health/) program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment. <!-- Source: https://centralcallegal.org/health/#hfaq-post-0 -->
 
-If you are a U.S. military veteran, you can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
+If you are a U.S. military veteran, you can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services). <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
 
 <!-- To-do:
 ### <a id="liability-law">Injury Liability / Workers’ Compensation</a>
@@ -2197,16 +2199,16 @@ If you are a U.S. military veteran, you can get help learning about, applying fo
 To report a consumer complaint directly to the SLO District Attorney, you can use [the consumer complaint form](https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions/consumer-protection) on their website.
 
 Identity theft is when someone else pretends to be you—for example by using your name, identification, or credit card number—to commit fraud or to put the blame on you for something they have done.
-You can report identity theft with the Federal Trade Commission at [IdentityTheft.gov](https://www.identitytheft.gov/) or [877-438-4338](tel:+1-877-438-4338) and they can help you take steps to protect yourself.
+You can report identity theft with the Federal Trade Commission at [IdentityTheft.gov](https://www.identitytheft.gov/) or [877-438-4338](tel:+1-877-438-4338) and they can help you take steps to protect yourself. <!-- Source: https://www.usa.gov/identity-theft -->
 
 If you believe you have been defrauded by an automotive repair shop, you can get help from the [Bureau of Automotive Repairs](https://bar.ca.gov/) ([800-952-5210](tel:+1-800-952-5210) or [BARenforcement@dca.ca.gov](mailto:BARenforcement@dca.ca.gov)).
 
 The [**California Department of Motor Vehicles**](Directory.md#California-DMV) has an investigations division that enforces laws relating to new and used vehicle dealers.
 If you are the victim of fraud or other illegal action by a vehicle dealer, you can [file a complaint online](https://dmvinvestigations.my.site.com/INVCMS/s/).
 
-If you are the victim of fraud or other illegal action concerning a bank account, credit card, debt collector, money transfer, payday loan, or something like that, you may be able to get help from the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/) ([855-411-2372](tel:+1-855-411-2372)).
+If you are the victim of fraud or other illegal action concerning a bank account, credit card, debt collector, money transfer, payday loan, or something like that, you may be able to get help from the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/) ([855-411-2372](tel:+1-855-411-2372); TTY: [855-729-2372](tel:+1-855-729-2372)).
 
-The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being mistreated by or improperly evicted from a long term care facility.
+The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being mistreated by or improperly evicted from a long term care facility. <!-- Source: https://ombudsmanslo.org/faqs -->
 
 Many service providers are licensed by the State of California (for example, health care providers, accountants, security guards, social workers, etc.).
 If you believe you have been treated unfairly or improperly by a licensed service provider, you can file a complaint with the [California Department of Consumer Affairs](https://www.dca.ca.gov/) ([800-952-5210](tel:+1-800-952-5210)/TTY:[800-735-2929](tel:+1-800-735-2929), [dca@dca.ca.gov](mailto:dca@dca.ca.gov)).
@@ -2214,15 +2216,15 @@ If you believe you have been treated unfairly or improperly by a licensed servic
 ### <a id="crime-victims">Victims of Crime, Abuse</a>
 
 Victims of crime have certain legal rights, and they may be asked to participate in crime investigations or to testify in criminal cases.
-The [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) helps crime victims who are navigating this process.
-It can help you understand your rights, obtain support services, get help with court appearances, apply for restitution, and get notifications about important updates concerning the criminal case against your victimizer(s).
+The [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) helps crime victims who are navigating this process. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
+It can help you understand your rights, obtain support services, get help with court appearances, apply for restitution, and get notifications about the progress of the criminal case against those who victimized you. <!-- Sources: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/restitution and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/victim-services-information -->
 
-If you have been the victim of a violent crime, the [California Victim Compensation Board](https://victims.ca.gov/) ([800-777-9229](tel:+1-800-777-9229)) can help you get financial restitution, medical treatment, mental health counseling, and other help.
+If you are the victim of a violent crime, the [California Victim Compensation Board](https://victims.ca.gov/) ([800-777-9229](tel:+1-800-777-9229)) can help you get financial restitution, medical treatment, mental health counseling, and other help. <!-- Source: https://victims.ca.gov/for-victims/frequently-asked-questions/ -->
 
-If you are the victim of sexual assault or intimate partner violence, [**Lumina Alliance**](Directory.md#Lumina-Alliance) can help you advocate for your rights and can accompany you through the legal process.
+If you are the victim of sexual assault or intimate partner violence, [**Lumina Alliance**](Directory.md#Lumina-Alliance) can help you advocate for your rights and can accompany you through the legal process. <!-- Sources: https://luminaalliance.org/advocacy-legal-services and https://luminaalliance.org/accompaniment -->
 
-[**CASA (Court Appointed Special Advocates)**](Directory.md#CASA) helps to advocate on behalf of abused or neglected children in the court system.
-CASA advocates are court-appointed; you cannot request their services directly.
+[**CASA (Court Appointed Special Advocates)**](Directory.md#CASA) helps to advocate on behalf of abused or neglected children in the court system. <!-- Source: https://slocasa.org/ -->
+CASA advocates are court-appointed; you cannot request their services directly. <!-- SOURCE NEEDED -->
 
 <!-- NOTE: Creative Mediation was apparently a project of Wilshire, which went bankrupt
 ### <a id="mediation">Mediation</a>
@@ -2245,11 +2247,11 @@ A neutral mediator will be assigned to your case to help you resolve it.
 
 <!-- Note: SLO County Small Claims Advisor has been discontinued -->
 
-If you need to research the law, legal precedents, and legal processes, you can visit the [**SLO County Law Library**](Directory.md#SLO-County-Law-Library), a free research library.
-The library has thousands of print volumes and also has publicly-accessible computers at which you can access WestLaw, CEB OnLaw, NOLO Guides, Bell’s Compendium, and other electronic legal databases.
-It also has tools with which you can create documents that conform to the standards of local courts.
+If you need to research the law, legal precedents, and legal processes, you can visit the [**SLO County Law Library**](Directory.md#SLO-County-Law-Library), a free research library. <!-- Source: https://www.slocll.org/about-us-2/mission/ -->
+The library has thousands of print volumes and also has publicly-accessible computers at which you can access WestLaw, CEB OnLaw, NOLO Guides, Bell’s Compendium, and other electronic legal databases. <!-- Sources: https://www.slocll.org/library-resources/reference-materials/ and https://www.slocll.org/library-resources/amenities/ -->
+It also has tools with which you can create documents that conform to the standards of local courts. <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
 
-If you are filing a small claims case (a civil dispute involving less than $10,000, in which the parties are not represented in court by lawyers), a family law case (for example divorce, child support, child custody), a request for a restraining order, or certain other matters you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services).
+If you are filing a family law case (for example divorce, child support, child custody), a request for a restraining order, or certain other matters you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 
 [**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some guides on:
 
@@ -2257,41 +2259,44 @@ If you are filing a small claims case (a civil dispute involving less than $10,0
 - how to obtain [gun violence](https://www.slo.courts.ca.gov/self-help/gun-violence-restraining-orders), [civil harassment](https://www.slo.courts.ca.gov/self-help/civil-harassment-restraining-order), and [domestic violence](https://www.slo.courts.ca.gov/self-help/family-law/domestic-violence) restraining orders
 - the process of going to court for child custody and support, [divorce, legal separation, and annulment](https://www.slo.courts.ca.gov/self-help/family-law/divorce), and other [family law](https://www.slo.courts.ca.gov/self-help/family-law) matters
 - the processes of [legal name changes](https://www.slo.courts.ca.gov/self-help/name-change) and [gender changes](https://www.slo.courts.ca.gov/self-help/gender-change)
+- the [small claims](https://www.slo.courts.ca.gov/self-help/small-claims) process
 
 The state of California’s [Small claims in California](https://selfhelp.courts.ca.gov/small-claims-california) web page is also a good introduction to the small claims process.
 
-The SLO Law Line ([805-548-8884](tel:+1-805-548-8884)) gives free basic legal advice to people who cannot afford an attorney, and can help you find additional legal assistance.
-Call to make an appointment for a telephone consultation.
+The SLO Law Line ([805-548-8884](tel:+1-805-548-8884)) gives free basic legal advice to people who cannot afford an attorney, and can help you find additional legal assistance. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
+Call to make an appointment for a telephone consultation. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
 
-U.S. military veterans can get help from the [StateSideLegal](https://www.statesidelegal.org/) website, which has information about how to file benefits claims and denial appeals, how to defend civil rights claims, and other legal matters.
+U.S. military veterans can get help from the [StateSideLegal](https://www.statesidelegal.org/) website, which has information about how to file benefits claims and denial appeals, how to defend civil rights claims, and other legal matters. <!-- Source: https://www.statesidelegal.org/ -->
 
 ### <a id="legal-consultation">Legal Consultation in General</a>
 
 If you need to confer with a lawyer or other legal consultant, you have several options.
 
-The [**SLO County Bar Association**](Directory.md#SLO-County-Bar-Association)’s [Attorney Referral Service](https://slobar.org/Information-and-referral-service/) can help you find a lawyer who is most appropriate to your case.
-This service is free for personal injury, worker’s compensation, and criminal law cases, but costs $50 otherwise.
+The [**SLO County Bar Association**](Directory.md#SLO-County-Bar-Association)’s [Attorney Referral Service](https://slobar.org/Information-and-referral-service/) can help you find a lawyer who is most appropriate to your case. <!-- Source: https://slobar.org/Information-and-referral-service/ -->
+This service is free for personal injury, worker’s compensation, and criminal law cases, but costs $50 otherwise. <!-- Source: https://slobar.org/Information-and-referral-service/ -->
 
-The [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) provides free legal assistance on civil law and family law (not criminal law) matters to low-income people in SLO County.
+The [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) provides free legal assistance on civil law and family law (not criminal law) matters to low-income people in SLO County. <!-- Source: https://www.slolaf.org/ -->
 
-[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) provides free civil law (not criminal law) services to low-income people in SLO County.
+[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) provides free civil law (not criminal law) services to low-income people in SLO County. <!-- Source: https://crla.org/about-crla -->
 
-[**People’s Justice Project**](Directory.md#Peoples-Justice-Project) is a non-profit law firm that can provide affordable legal representation to people with low- or moderate-income in criminal law or civil rights cases.
+[**People’s Justice Project**](Directory.md#Peoples-Justice-Project) is a non-profit law firm that can provide affordable legal representation to people with low- or moderate-income in criminal law or civil rights cases. <!-- Source: https://peoplesjusticeproject.org/ -->
 
 U.S. military veterans can use the [StateSideLegal](https://www.statesidelegal.org/) website’s [Veterans Legal Help Navigator](https://www.statesidelegal.org/helpnavigate?clear=true) to find legal representatives that best match the needs of your case.
 
 [**ACLU of Southern California**](Directory.md#ACLU) can provide limited legal advice in civil liberties and civil rights cases.
-It has limited resources and typically focuses on specific cases which it hopes to use to force systemic changes.
+It has limited resources and typically focuses on specific cases which it hopes to use to force systemic changes. <!-- Source: https://www.aclusocal.org/en/seeking-legal-help-aclu -->
 It does not accept walk-ins.
-It offers several free [Know Your Rights](https://www.aclusocal.org/en/know-your-rights) guides, but note that these can be more reflective of what the ACLU believes your legal rights are on paper than what the law enforcement system actually respects.
+It offers several free [Know Your Rights](https://www.aclusocal.org/en/know-your-rights) guides, but these can be more reflective of what the ACLU believes your legal rights are on paper than what the law enforcement system actually respects.
 
 ### <a id="family-law">Family Law / Child Support</a>
 
-[**Child Support Services**](Directory.md#Child-Support-Services) can help you locate parents who may owe child support, establish parentage, obtain and enforce support orders, and collect payments.
+[**Child Support Services**](Directory.md#Child-Support-Services) can help you locate parents who may owe child support, establish parentage, obtain and enforce support orders, and collect payments. <!-- Source: https://www.slocounty.ca.gov/departments/child-support -->
 
-If you are filing a family law case, you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services).
+If you are filing a family law case, you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 
-[**SLO Superior Court**](Directory.md#SLO-Superior-Court) has some guides on the process of going to court for child custody and support, [divorce, legal separation, and annulment](https://www.slo.courts.ca.gov/self-help/family-law/divorce), and other [family law](https://www.slo.courts.ca.gov/self-help/family-law) matters.
+The [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) provides free legal assistance on family law matters to low-income people in SLO County. <!-- Source: https://www.slolaf.org/ -->
+
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) has some guides on the process of going to court for [child custody and support](https://www.slo.courts.ca.gov/self-help/family-law/custody-and-support), [divorce, legal separation, and annulment](https://www.slo.courts.ca.gov/self-help/family-law/divorce), and other [family law](https://www.slo.courts.ca.gov/self-help/family-law) matters.
 
 ### <a id="immigration-law">Immigration Law</a>
 
@@ -2299,7 +2304,7 @@ If you are filing a family law case, you can get free help from [**SLO Court Sel
 
 [**SLO County UndocuSupport**](Directory.md#SLO-County-UndocuSupport) has [a list of legal assistance services](https://www.sloundocusupport.org/immigrantservicesguide) that includes [a chart of which local legal aid groups provide which specific immigration-related legal services](https://docs.google.com/spreadsheets/d/1FRaVSHBETqYvk1-aDJ-ULYsHvpfXaLFuAhS7tjwPBKA/edit?usp=sharing).
 
-[**Catholic Charities**](Directory.md#Catholic-Charities) has an [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/) to help people with issues such as U.S citizenship applications, immigration status changes, DACA, U-Visas, VAWA-Visas, and consular visa processes.
+[**Catholic Charities**](Directory.md#Catholic-Charities) has an [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/) to help people with issues such as U.S citizenship applications, immigration status changes, DACA, U-Visas, VAWA-Visas, and consular visa processes. <!-- Source: https://catholiccharitiesdom.org/immigration-citizenship/ -->
 
 [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) hosts the [Unitarian Universalist Refugee and Immigrant Services Education (UURISE)](https://uuslo.org/Immigration-Legal-Services) program, which offers free or low-cost immigration legal services.
 
@@ -2378,12 +2383,12 @@ This section of the guide shows you how to obtain or replace documents like thes
 You do not often need your social security card, but you do often need your social security number.
 The [**Social Security Administration**](Directory.md#Social-Security-Administration) can help you get a new Social Security card.
 
-If you have an account or can create an on-line account at [ssa.gov/myaccount](https://www.ssa.gov/myaccount), you can request a Social Security card on-line and it will be mailed to you.
+If you have an account or can create an online account at [ssa.gov/myaccount](https://www.ssa.gov/myaccount), you can request a Social Security card online and it will be mailed to you.
 You can get help with this process by calling [800-772-1213](tel:+1-800-772-1213) (TTY: [800-325-0778](tel:+1-800-325-0778)).
 
 > See [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) for ways to get mail if you do not have a stable mailing address.
 
-If you are unable to complete this on-line process, you can visit the local Social Security Administration office to get a new card.
+If you are unable to complete this online process, you can visit the local Social Security Administration office to get a new card.
 It will go more smoothly if you can bring some alternative form of identification like a driver’s license or passport.
 In the absence of those, a military ID, employee ID, school ID, or health insurance card might be helpful.
 
@@ -2419,7 +2424,7 @@ A certified copy allows you to establish your identity.
 Otherwise you can obtain an “informational” copy, which is not valid for establishing identity.
 You should understand ahead of time whether or not you need a certified copy, and, if so, you should be sure to ask for one specifically when you order your copy.
 
-You can also use the [VitalChek](https://www.vitalchek.com/v/vital-records/california/san-luis-obispo-county-recorder) website to order an *informational* copy of your birth certificate on-line without visiting the SLO County Clerk-Recorder office.
+You can also use the [VitalChek](https://www.vitalchek.com/v/vital-records/california/san-luis-obispo-county-recorder) website to order an *informational* copy of your birth certificate online without visiting the SLO County Clerk-Recorder office.
 (You may need to provide a notarized, sworn statement if you want to order a “certified copy” this way, in which case it is probably just as easy to visit the SLO County Clerk-Recorder office.)
 That may cost a bit more.
 
@@ -2447,7 +2452,7 @@ You must pay 50¢ per page to get printouts of these documents.
 
 If you cannot go to the court offices, you can follow the procedure described on [this web page](https://www.slo.courts.ca.gov/self-help/civil-appeals/getting-copies-court-files) to order documents by mail.
 
-If you have a lawyer, that lawyer may be able to search for these documents on-line themselves.
+If you have a lawyer, that lawyer may be able to search for these documents online themselves.
 
 > See the [Legal Help & Crime Victim Protection](#legal-help) section for some tips on getting help from a lawyer.
 
@@ -2707,9 +2712,9 @@ The national Volunteer Income Tax Assistance (VITA) program allows low- and mode
 [**United Way of SLO County**](Directory.md#United-Way) coordinates the local VITA program through various partner organizations, including Cal Poly and [**AARP**](Directory.md#AARP-Tax-Aide).
 The AARP Tax-Aide Program is especially for people over age 50.
 Use United Way’s [211](tel:+1-211) service to find a VITA location near you and make an appointment.
-The United Way also has [an on-line program](https://www.myfreetaxes.org/file-with-virtual-help/) with which you can upload your tax documents and get free help from tax preparation volunteers over the internet.
+The United Way also has [an online program](https://www.myfreetaxes.org/file-with-virtual-help/) with which you can upload your tax documents and get free help from tax preparation volunteers over the internet.
 
-There are also free options that allow you to file your federal income taxes yourself by using guided tax preparation software or by filling in on-line forms and filing them electronically.
+There are also free options that allow you to file your federal income taxes yourself by using guided tax preparation software or by filling in online forms and filing them electronically.
 See [irs.gov/freefile](https://www.irs.gov/freefile) for details.
 <!-- Note: IRS “Direct File” is kaput as of tax year 2025 -->
 
@@ -2800,10 +2805,14 @@ You typically cannot apply directly to this program but must be referred to it b
 
 [**Womenade**](Directory.md#Womenade) buys goods and pays bills for people in need.
 Womenade SLO helps people in the city of SLO; Womenade South County helps people in the Five Cities area and nearby; Womenade Estero Bay helps people in the Los Osos area.
-You cannot apply directly for help from Womenade, but you must apply through another service provider.
+You cannot apply directly for help from Womenade, but you must apply through another service provider (a “referring agent”).
 
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) has a micro-grant program for people who need one-time emergency financial assistance for needs like rent assistance, vehicle needs, transportation, or food.
 You cannot apply for this yourself, but must have a case worker apply on your behalf.
+
+[SLO City Church](https://slocity.church/needs-request) has a Benevolence Team that offers one-time financial assistance of up to $600 to people in SLO County who face unexpected hardship. <!-- Source: https://slocity.church/needs-request -->
+They limit their assistance to urgent needs like utility bills, rent, vehicle repairs or registration, emergency medical expenses, and emergency transportation. <!-- Source: https://slocity.church/needs-request -->
+You must have a “referring partner” (such as a teacher, pastor, counselor, employer, or caseworker) apply on your behalf. <!-- Source: https://slocity.church/needs-request -->
 
 [Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) will match with its own money the grant given by a church or other Christian organization to a disabled person who has particular financial needs associated with their disability (such as the need for assistive equipment or rehabilitative therapy).
 Your application to this fund must include documentation from that church or Christian organization, among other things.
@@ -2864,7 +2873,7 @@ If you have questions, contact them at [CAREandFERA@pge.com](mailto:CAREandFERA@
 
 PG&E also has a [Relief for Energy Assistance through Community Help (REACH)](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/relief-for-energy-assistance-through-community-help.html) program.
 It can help people who are threatened with energy bill shutoff during times of crisis by giving them a credit for the amount due on their bill.
-To apply, complete the [Dollar Energy Fund](https://www.hardshiptools.org/MyApp/Apply.aspx) application form on-line, or call [888-282-6816](tel:+1-888-282-6816).
+To apply, complete the [Dollar Energy Fund](https://www.hardshiptools.org/MyApp/Apply.aspx) application form online, or call [888-282-6816](tel:+1-888-282-6816).
 
 [**CAPSLO**](Directory.md#CAPSLO) operates the [Low Income Home Energy Assistance Program](https://capslo.org/utility-assistance/) (also known as HEAP or LIHEAP).
 This program helps low-income households in SLO County with one-time assistance to pay their gas, propane, or electric bill.
@@ -2902,7 +2911,7 @@ You may need to appear at the Social Security Administration office in person to
 > See the [Mail drops](#mail-drops-post-office-boxes) section of this guide for information on establishing a mailing address.
 
 You can apply for these benefits through the local [**Social Security Administration**](Directory.md#Social-Security-Administration) office either in person or by phone.
-You can also [apply on-line](https://www.ssa.gov/apply) at the Social Security Administration’s website.
+You can also [apply online](https://www.ssa.gov/apply) at the Social Security Administration’s website.
 If you have a case worker, ask them if they can help you through the process or refer you to someone who can.
 
 To make the application process go smoothly, learn what documentation you need and have that documentation with you when you apply.
@@ -2955,7 +2964,7 @@ The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) offers fre
 They offer specialized services for young people, for veterans, and for people with disabilities.
 
 [**Eckerd Connects Workforce Development**](Directory.md#Eckerd-Connects-Workforce-Development) can help you explore career possibilities, get training and credentialing to help you qualify for more jobs, and find employment.
-[Apply on-line at their website.](https://eckerd.org/jobs-training/online-application/)
+[Apply online at their website.](https://eckerd.org/jobs-training/online-application/)
 
 [**CalJOBS**](Directory.md#CalJOBS) is a job listing and resume listing web site.
 You can search for open employment positions on the site, and you can add your resume so that employers can search for you.
@@ -3184,7 +3193,7 @@ Call them or email [clondon@templetonusd.org](mailto:clondon@templetonusd.org) t
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers free [High School Diploma / Equivalency classes](https://ae.slcusd.org/hsd-esl/high-school-equivalency) in San Luis Obispo, Morro Bay, and at the San Luis Obispo jail.
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers on-line lessons, practice tests, and other learning tools, in English and Spanish, at its [High School Equivalency Center](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/hsequivalencycenter/home/are-you-prepared).
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers online lessons, practice tests, and other learning tools, in English and Spanish, at its [High School Equivalency Center](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/hsequivalencycenter/home/are-you-prepared).
 
 The [Cal-Learn](https://cdss.ca.gov/cal-learn) program helps pregnant or parenting teens finish high school or get an equivalent certificate. <!-- Source: https://cdss.ca.gov/cal-learn -->
 It helps with child care, transportation, educational expenses, and will even give you cash bonuses for getting good grades or for graduating. <!-- Source: https://cdss.ca.gov/cal-learn -->
@@ -3203,7 +3212,7 @@ English as a Second Language (ESL) classes are for learners who already have ano
 
 [**Cuesta College**](Directory.md#Cuesta-College) offers free [ESL classes](https://www.cuesta.edu/academics/divisions/studentdevsuccess/esl/index.html) in Arroyo Grande, Paso Robles, and San Luis Obispo.
 
-[**The Literacy Connection**](Directory.md#Literacy-Connection) offers free [ESL tutoring](https://catalog.slolibrary.org/tlc) and on-line conversation practice groups.
+[**The Literacy Connection**](Directory.md#Literacy-Connection) offers free [ESL tutoring](https://catalog.slolibrary.org/tlc) and online conversation practice groups.
 To apply, complete [the form on their website](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) or call [805-781-5077](tel:+1-805-781-5077).
 
 Recent refugees from other countries can also get ESL help from [**SLO for HOME**](Directory.md#SLO4Home).
@@ -3528,22 +3537,22 @@ These are some of them:
 
 ### <a id="conditions-peer-support">Disabilities, Medical Conditions, and Mental Illnesses</a>
 
-**Alzheimer’s disease:** There are monthly [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups) for caregivers and other people affected by Alzheimer’s disease in Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles, and SLO, as well as on-line.
+**Alzheimer’s disease:** There are monthly [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups) for caregivers and other people affected by Alzheimer’s disease in Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles, and SLO, as well as online.
 There are also support groups for people recently diagnosed, and for people suffering bereavement because of a loved one with dementia.
 To register for a group, call [800-272-3900](tel:+1-800-272-3900).
 
 **Amyotrophic lateral sclerosis (ALS):** An ALS support group meets monthly via Zoom.
 To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878).
 
-**Cancer:** [Cancer Support Community](https://cscslo.org/) offers a variety of no-cost services for people with cancer, including health education and exercise classes, as well as several support groups, some of which meet in Templeton, some on-line.
+**Cancer:** [Cancer Support Community](https://cscslo.org/) offers a variety of no-cost services for people with cancer, including health education and exercise classes, as well as several support groups, some of which meet in Templeton, some online.
 
-[Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) in Arroyo Grande also hosts [cancer support groups](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) including in-person groups for people with breast cancer and for oral, head, and neck cancer, and a number of other groups that meet on-line.
+[Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) in Arroyo Grande also hosts [cancer support groups](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) including in-person groups for people with breast cancer and for oral, head, and neck cancer, and a number of other groups that meet online.
 
 [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts several support groups at the [Hearst Cancer Resource Center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center).
 These include groups [for patients with cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) and [advanced cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), and groups for people with specific types of cancer, such as cancers of the [blood](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [breast](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf), or [prostate](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
 To register, call HCRC at [805-542-6234](tel:+1-805-542-6234) or email [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
 
-**Caregivers:** The [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) has several support groups, some of which meet on-line, others in SLO or Morro Bay.
+**Caregivers:** The [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) has several support groups, some of which meet online, others in SLO or Morro Bay.
 They include groups for caregivers of people with dementia, for LGBTQ caregivers, for caregivers of Parkinson’s disease patients, and groups that are conducted in Spanish.
 
 **Diabetes:** [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts a quarterly [diabetes support group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes).
@@ -3555,7 +3564,7 @@ Contact [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) for 
 They also have a variety of [in-person support groups](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) and more informal gatherings for people with mental illness, as well as several virtual/online support groups.
 
 **Parkinson’s disease:** The Central Coast Parkinson Association holds monthly in-person [support groups](https://www.myccpa.org/support-groups) in Atascadero, Morro Bay, Pismo Beach, and San Luis Obispo.
-They also hold a monthly, on-line support group, and a monthly in-person group in Paso Robles, for caregivers only.
+They also hold a monthly, online support group, and a monthly in-person group in Paso Robles, for caregivers only.
 
 **Stroke:** [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) hosts a monthly [stroke support group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups).
 [**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) hosts a [hope for stroke survivors](https://www.stroke.org/en/stroke-groups/hope-for-stroke-survivors-ahsl) group for people who have had strokes and for their caregivers.
@@ -3563,7 +3572,7 @@ Another [hope for stroke](https://www.stroke.org/en/stroke-groups/hope-for-strok
 
 ### <a id="grief-peer-support">Grief</a>
 
-Hospice SLO operates a weekly, on-line Family Caregiver Support Group for SLO County residents that you can register for [at this page](https://hospiceslo.org/support-groups/family-caregiver-support-group-meets-weekly-on-zoom).
+Hospice SLO operates a weekly, online Family Caregiver Support Group for SLO County residents that you can register for [at this page](https://hospiceslo.org/support-groups/family-caregiver-support-group-meets-weekly-on-zoom).
 They also have a Grief Support and Education group that meets [online](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom) and others that meet in person [in Paso Robles](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-north-county) and [in SLO city](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-slo).
 They also have an in-person support group in SLO city specifically for people who are [grieving the loss of a spouse or partner](https://hospiceslo.org/support-groups/spouse-andor-partner-loss-support-and-education-group-meets-weekly-for-six-weeks-in).
 They occasionally hold [other support groups](https://hospiceslo.org/support-groups) as well.
@@ -3581,7 +3590,7 @@ Several SLO County churches host [GriefShare support groups](https://griefshare.
 There is also an [Alateen](https://al-anon.org/newcomers/teen-corner-alateen/) meeting in Grover Beach specifically for teen-aged family members of alcoholics.
 
 [Nar-Anon](https://www.naranoncentralca.org/) has in-person weekly meetings for family members of people addicted to drugs that meet in Atascadero as well as several online meetings.
-There are also [Narateen](https://www.nar-anon.org/find-a-narateen-meeting) on-line weekly meetings specifically for teen-aged family members of addicts.
+There are also [Narateen](https://www.nar-anon.org/find-a-narateen-meeting) online weekly meetings specifically for teen-aged family members of addicts.
 
 An eating disorder support group meets on Wednesdays from 7–8pm at [**GALA Pride & Diversity Center**](Directory.md#GALA) in SLO city and by Zoom.
 Contact [libby@notyouraveragenutritionist.com](mailto:libby@notyouraveragenutritionist.com) for more information.
@@ -3636,7 +3645,7 @@ There are free, outdoor fitness courts with exercise equipment at Emerson Park i
 The “Vita Fitness Courses” in Meadow Park (<a href="#" class="map-link" data-lat="35.267591" data-lon="-120.662198" data-zoom="16" data-label="Vita Fitness Course">between Corrida Drive and South Street in SLO</a>) and around <a href="#" class="map-link" data-lat="35.265279" data-lon="-120.682712" data-zoom="14" data-label="Laguna Lake Park">Laguna Lake Park</a> in SLO have some stations with rudimentary equipment that are designed for fitness exercises.
 <!-- I couldn’t find anything like this outside of SLO city limits -->
 
-The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (on-line and in person), aqua fitness classes, swim lessons, and more.
+The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (online and in person), aqua fitness classes, swim lessons, and more.
 Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
 Ask them about options for people with low incomes.
 
@@ -3734,7 +3743,7 @@ They also host bingo, bridge, mahjong, Mexican train dominoes, pinochle, and oth
 
 [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) operates the only open-intake animal shelter in SLO County.
 Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs.
-They have an [on-line registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray) and you can use a web interface to [report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405).
+They have an [online registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray) and you can use a web interface to [report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405).
 You can call [805-781-4407](tel:+1-805-781-4407) to listen to a found animal recording that describes recently-found animals that are being held at the pound.
 
 [**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) conducts regular free pet food distributions in Grover Beach and Oceano.
@@ -3890,7 +3899,7 @@ You can contact the Sacramento chapter at [sacramento.homeless.union@gmail.com](
 
 ### <a id="reporting-concerns">Reporting Concerns and Problems</a>
 
-Some SLO County cities have on-line platforms with which you can report non-emergency problems.
+Some SLO County cities have online platforms with which you can report non-emergency problems.
 Your report is routed to the correct department where people can address your concern:
 
 | City          | Platform |
@@ -3926,7 +3935,7 @@ In non-emergency situations, you can call the police or sheriff departments dire
 | Pismo Beach            | Police: [805-773-2208](tel:+1-805-773-2208)                |
 | SLO city               | Police: [805-781-7312](tel:+1-805-781-7312)                |
 
-In some areas, you can also report a crime in a non-emergency situation, where you do not know who committed the crime, with an on-line form:
+In some areas, you can also report a crime in a non-emergency situation, where you do not know who committed the crime, with an online form:
 
 | Location                  | Online Reporting Method                           |
 | ------------------------- | ------------------------------------------------- |
@@ -3937,7 +3946,7 @@ In some areas, you can also report a crime in a non-emergency situation, where y
 | highways and other cities | call one of the phone numbers in the table above |
 
 You can also submit tips to law enforcement about crimes (anonymously if you choose) through SLO County Crime Stoppers.
-You can do this either by using the on-line tip form at [sanluisobispocounty.crimestoppersweb.com](https://sanluisobispocounty.crimestoppersweb.com/) or by calling [805-549-STOP](tel:+1-805-549-7867).
+You can do this either by using the online tip form at [sanluisobispocounty.crimestoppersweb.com](https://sanluisobispocounty.crimestoppersweb.com/) or by calling [805-549-STOP](tel:+1-805-549-7867).
 
 If you are an adult who is dependent on others, and you are subjected to abuse or neglect—or if you know of another adult in such a situation—you can get help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services).
 Make emergency calls to [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm) or [844-729-8011](tel:+1-844-729-8011) (all other hours).
@@ -3970,7 +3979,7 @@ For complaints about County Behavioral Health specifically, contact the [Patient
 
 ### <a id="totally-free-stuff">Totally Free</a>
 
-The [Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA) network is free to join (you must create an on-line account to participate).
+The [Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA) network is free to join (you must create an online account to participate).
 People in the network can announce when they have things that they no longer want and would like to give away, or can request items they are looking for.
 All items are cost-free.
 There are also “Buy Nothing” groups in the area that have a similar focus.
@@ -4025,7 +4034,7 @@ Some other groups assemble resource guides like this one.
 Some have a different focus (for instance, they highlight resources for seniors or for veterans) or cover a different region.
 Here are some of these local guides:
 
-- [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): a comprehensive guide covering services for seniors in SLO and Santa Barbara Counties. Also exists as a searchable on-line directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
+- [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): a comprehensive guide covering services for seniors in SLO and Santa Barbara Counties. Also exists as a searchable online directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
 - [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services): available in English and Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, and healthcare
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): United Way’s directory of SLO County resources

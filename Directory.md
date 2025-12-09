@@ -525,7 +525,7 @@
    - [800-884-1684](tel:+1-800-884-1684) (voice) <!-- Source: https://calcivilrights.ca.gov/ -->
    - [800-700-2320](tel:+1-800-700-2320) (TTY) <!-- Source: https://calcivilrights.ca.gov/ -->
 - **Email:** [contact.center@calcivilrights.ca.gov](mailto:contact.center@calcivilrights.ca.gov) <!-- Source: https://calcivilrights.ca.gov/ -->
-- **How to access:** via the [California Civil Rights System](https://ccrs.calcivilrights.ca.gov/s/) on-line platform
+- **How to access:** via the [California Civil Rights System](https://ccrs.calcivilrights.ca.gov/s/) online platform
 
 ## <a id="California-Connect">California Connect</a>
 
@@ -2945,7 +2945,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:** [805-549-1222](tel:+1-805-549-1222) <!-- Source: https://ae.slcusd.org/ -->
 - **Email:** [adultschool@slcusd.org](mailto:adultschool@slcusd.org)
 - **How to access:**
-   - Register for classes on-line at [slcusd.asapconnected.com](https://slcusd.asapconnected.com/)
+   - Register for classes online at [slcusd.asapconnected.com](https://slcusd.asapconnected.com/)
    - Or, come to the office during business hours
    - Or, call during business hours
 - Note:
