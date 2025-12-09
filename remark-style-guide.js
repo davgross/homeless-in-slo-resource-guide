@@ -1608,6 +1608,10 @@ export default function remarkStyleGuide() {
                     pattern: /\bwifi\b/i,
                     message: `Use "Wi-Fi" rather than "WiFi" or "Wifi"`,
                 },
+                {
+                    pattern: /\bon[ -]line\b/i,
+                    message: `Use "online" rather than "on line" or "on-line"`,
+                },
                 /******************************************************
                  * Prefer appropriate unicode rather than ASCII kludges
                  ******************************************************/

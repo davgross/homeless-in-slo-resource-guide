@@ -65,7 +65,7 @@ function extractCoordinates(content, sectionId, label) {
       lat: parseFloat(lat),
       lon: parseFloat(lon),
       zoom: parseInt(zoom),
-      label: address
+      label: label
     });
   }
 
