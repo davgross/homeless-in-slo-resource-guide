@@ -994,7 +994,7 @@
    - Hotline: [805-706-8663](tel:+1-805-706-8663) <!-- Source: https://capslo.org/contact/ -->
    - Administration: [805-544-4355](tel:+1-805-544-4355) <!-- Source: https://capslo.org/contact/ -->
    - Homeless Services Center: [805-544-4004](tel:+1-805-544-4004)
-   - Low Income Home Energy Assistance Program: [805-541-4122&#xA0;x2125](tel:+1-805-541-4122;ext=2125) or [800-495-0501&#xA0;x2114](tel:+1-800-495-0501;ext=2114)
+   - Low Income Home Energy Assistance Program: [805-541-4122&#xA0;x2125](tel:+1-805-541-4122;ext=2125) or [800-495-0501&#xA0;x2114](tel:+1-800-495-0501;ext=2114) <!-- Source: https://capslo.org/utility-assistance/ -->
    - Energy Office: [805-541-4122](tel:+1-805-541-4122) <!-- Source: https://capslo.org/weatherization/ -->
 - **Email:** [hotline@capslo.org](mailto:hotline@capslo.org) <!-- Source: https://capslo.org/contact/ -->
    - Low Income Home Energy Assistance Program: [HEAP@capslo.org](mailto:HEAP@capslo.org) <!-- Source: https://capslo.org/utility-assistance/ -->
@@ -1289,7 +1289,7 @@
 ## <a id="Elks-Lodge-2504">Elks Lodge #2504</a>
 
 - **Website:** [oceanoelks2504.org](https://oceanoelks2504.org/)
-- **Location:** <a href="#" class="map-link" data-lat="35.105357" data-lon="-120.627046" data-zoom="17" data-label="Elks Lodge #2504">410 Air Park Drive, Oceano</a> 
+- **Location:** <a href="#" class="map-link" data-lat="35.105357" data-lon="-120.627046" data-zoom="17" data-label="Elks Lodge #2504">410 Air Park Drive, Oceano</a>
 - **Phone:** [805-489-2504](tel:+1-805-489-2504)
 - **Email:** [Elks2504@gmail.com](Elks2504@gmail.com)
 - **Hours:** M–Th 9am–4pm
@@ -3931,14 +3931,20 @@ There are several urgent care options, including:
 - **Phone:** [310-392-5153](tel:+1-310-392-5153) <!-- Souce: https://www.vftafoundation.org/helping_friends -->
 - **Email:** [info@vftafoundation.org](mailto:info@vftafoundation.org) <!-- Souce: https://www.vftafoundation.org/helping_friends -->
 
-## <a id="Womenade">Womenade</a>
+<a id="Womenade"><!-- TBD: Womenade groups are distinct organizations, not branches of the same organization --></a>
 
-<!-- TBD: Womenade groups are distinct organizations, not branches of the same organization, so consider breaking this up into multiple entries -->
+## <a id="Womenade-SLO">Womenade SLO</a>
 
-| Location         | Website                                         | Location | Phone | Email |
-| ---------------- | ----------------------------------------------- | -------- | ----- | ----- |
-| SLO city         | [womenadeslo.org](https://www.womenadeslo.org/) | <a href="#" class="map-link" data-lat="35.213169" data-lon="-120.622298" data-zoom="17" data-label="Womenade">6099 Marshall Way, SLO</a> | [805-674-9450](tel:+1-805-674-9450) | [elaine@womenadeslo.org](mailto:elaine@womenadeslo.org) |
-| South SLO County | [sslocw.org](https://www.sslocw.org/)           | <a href="#" class="map-link" data-lat="35.112441" data-lon="-120.609956" data-zoom="17" data-label="Womenade">1793 Farroll Road, Grover Beach</a> | | [sslocwomenade@gmail.com](mailto:sslocwomenade@gmail.com) |
+- **Website:** [womenadeslo.org](https://www.womenadeslo.org/)
+- **Location:** <a href="#" class="map-link" data-lat="35.213169" data-lon="-120.622298" data-zoom="17" data-label="Womenade">6099 Marshall Way, SLO</a>
+- **Phone:** [805-674-9450](tel:+1-805-674-9450)
+- **Email:** [elaine@womenadeslo.org](mailto:elaine@womenadeslo.org)
+
+## <a id="Womenade-SSC">Womenade South SLO County</a>
+
+- **Website:** [sslocw.org](https://www.sslocw.org/)
+- **Location:** <a href="#" class="map-link" data-lat="35.112441" data-lon="-120.609956" data-zoom="17" data-label="Womenade">1793 Farroll Road, Grover Beach</a>
+- **Email:** [sslocwomenade@gmail.com](mailto:sslocwomenade@gmail.com)
 
 ## <a id="Waterman-Village">Waterman Village</a>
 
