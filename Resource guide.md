@@ -2903,8 +2903,8 @@ Contact the County Department of Public Works at [PublicWorks@co.slo.ca.us](mail
 
 > See the [Social Security Numbers or Cards](#social-security-numbers-or-cards) section of this guide to learn how to get a Social Security number or to get or replace a Social Security card.
 
-Note: in 2025, Social Security stopped issuing paper checks.
-Now they use direct deposit to bank accounts or issue a “Direct Express” prepaid debit card.
+Note: in 2025, Social Security stopped issuing paper checks. <!-- Source: https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/ -->
+Now they use direct deposit to bank accounts or issue a “Direct Express” prepaid debit card. <!-- Source: https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/ -->
 
 > See the [Banks and Credit Unions](#banks-and-credit-unions) section of this guide for information on how to establish a bank account.
 
@@ -2914,11 +2914,11 @@ There are a number of programs operated by the Social Security Administration, i
 - **Social Security Disability Insurance** (SSDI) — monthly payments from the government to people who cannot work because they are disabled, and who paid into the social security system while they were working
 - **Supplemental Security Income** (SSI) — monthly payments from the government to disabled people and to seniors with limited means
 
-Homeless people have the same rights as anyone else to apply for these payments.
-You do not have to have a permanent address to receive benefits.
+Homeless people have the same rights as anyone else to apply for these payments. <!-- SOURCE NEEDED -->
+You do not have to have a permanent address to receive benefits. <!-- SOURCE NEEDED -->
 
 You may be entitled to certain benefits even if you did not pay into the social security system, if your spouse or ex-spouse did.
-You may need to appear at the Social Security Administration office in person to apply for such spousal or survivors benefits.
+You may need to appear at the Social Security Administration office in person to apply for such spousal or survivors benefits. <!-- SOURCE NEEDED -->
 
 > See the [Mail drops](#mail-drops-post-office-boxes) section of this guide for information on establishing a mailing address.
 
@@ -2934,11 +2934,11 @@ Pay stubs and tax records can help to establish your work history, especially if
 Be patient, as the process of applying for benefits can be time-consuming and the bureaucracy can move slowly.
 If you are denied benefits, learn about the appeals process and consider appealing the decision.
 
-If you are denied SSI benefits solely because of your immigration status, you may be able to get benefits instead from the [California Assistance Program for Immigrants (CAPI)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi%29).
-Apply from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
+If you are denied SSI benefits solely because of your immigration status, you may be able to get benefits instead from the [California Assistance Program for Immigrants (CAPI)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi).
+Apply to the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) by phone, in person, by mail, or by email. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi -->
 
-If you have a disability and are applying for Social Security Disability Insurance, you may be able to get some immediate financial help from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services)’ “General Assistance Disabled Program” while you wait for your application to be processed.
-They may also be able to assign you a “Benefits Arch Advocate” who can help you apply for SSI and SSDI.
+If you have a disability and are applying for Social Security Disability Insurance, you may be able to get some immediate financial help from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services)’ “General Assistance Disabled Program” while you wait for your application to be processed. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
+They may also be able to assign you a “Benefits Arch Advocate” who can help you apply for SSI and SSDI. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
 
 <!-- SOAR was apparently a victim of the Trump administration
 1. [SOAR Program—Specialized Support for Homeless Individuals](https://www.samhsa.gov/communities/homelessness-programs-resources/grants/soar)
@@ -2953,9 +2953,9 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
 -->
 
 The government encourages you to seek work and to return to work without losing disability benefits.
-The [Ticket to Work Program](https://choosework.ssa.gov/) is a free, voluntary program for people aged 18–64 who are receiving SSDI or SSI benefits.
-It can give you free career counseling, vocational rehabilitation, and job placement and training.
-Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply.
+The [Ticket to Work Program](https://choosework.ssa.gov/) is a free, voluntary program for people aged 18–64 who are receiving SSDI or SSI benefits. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+It can give you free career counseling, vocational rehabilitation, and job placement and training. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 
 If you are a U.S. military veteran, you may also qualify for a variety of other benefits.
 You can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
