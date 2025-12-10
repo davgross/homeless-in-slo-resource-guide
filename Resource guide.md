@@ -2697,26 +2697,26 @@ They also offer free [one-on-one, professional financial counseling](https://www
 ## <a id="tax-preparation">Tax Preparation</a>
 
 There are several programs that can give you free assistance in completing and filing your annual tax returns.
-Free tax assistance programs are usually available in the February-through-April period.
+Free tax assistance programs are usually available in the February-through-April period. <!-- Source: https://unitedwayslo.org/family-financial-stability/taxes/ -->
 
 Even if you do not think you owe any taxes because your income is very low, it can be to your advantage to file a tax return.
 This is for a few reasons:
 
-1. You may qualify for certain refundable tax credits that can put money in your pocket, even if you did not pay taxes all year.
+1. You may qualify for certain refundable tax credits that can put money in your pocket, even if you did not pay taxes all year. <!-- Source: https://www.irs.gov/credits-deductions/individuals/refundable-tax-credits -->
 1. Some programs for low-income people require those people to show their most recent tax return to prove that they qualify.
-1. Filing a tax return, even if it is of no practical effect, can be a gesture of compliance with the law that can be helpful, for example if you are engaged in the U.S. immigration process.
+1. Filing a tax return, even if it is of no practical effect, can be a gesture of compliance with the law that can be helpful, for example if you are engaged in the U.S. immigration process. <!-- SOURCE NEEDED -->
 
-Avoid using commercial tax preparers that charge high fees, or that offer “refund anticipation loans.”
-Some of these give poor-quality tax advice, and most of them are bad bargains compared to the free services.
+Avoid using commercial tax preparers that charge high fees, or that offer refund anticipation loans (so-called “instant” refunds). <!-- Source: https://en.wikipedia.org/wiki/Refund_anticipation_loan -->
+Some of these preparers give poor-quality tax advice, and most of them are bad bargains compared to the free services.
 
 If you are due a tax refund, you will get that refund more quickly if you have a bank account that accepts direct deposit.
-The U.S. Internal Revenue Service stopped issuing paper tax refund checks in 2025.
+The U.S. Internal Revenue Service stopped issuing paper tax refund checks in 2025. <!-- Source: https://www.irs.gov/newsroom/irs-to-phase-out-paper-tax-refund-checks-starting-with-individual-taxpayerspreparers -->
 
 > See the [Banking and Money Management](#banking-and-money-management) section of this guide for help in establishing a bank account.
 
 The national Volunteer Income Tax Assistance (VITA) program allows low- and moderate-income people to get free help in preparing and filing their federal and state tax returns.
-[**United Way of SLO County**](Directory.md#United-Way) coordinates the local VITA program through various partner organizations, including Cal Poly and [**AARP**](Directory.md#AARP-Tax-Aide).
-The AARP Tax-Aide Program is especially for people over age 50.
+Various organizations, including Cal Poly, Allan Hancock college, and [**AARP**](Directory.md#AARP-Tax-Aide), offer this program.
+<!-- Note: United Way has dropped out of this program in 2025 https://unitedwayslo.org/family-financial-stability/taxes/ -->
 Use United Way’s [211](tel:+1-211) service to find a VITA location near you and make an appointment.
 The United Way also has [an online program](https://www.myfreetaxes.org/file-with-virtual-help/) with which you can upload your tax documents and get free help from tax preparation volunteers over the internet.
 
@@ -2726,7 +2726,7 @@ See [irs.gov/freefile](https://www.irs.gov/freefile) for details.
 
 > See the [Internet Access / Email / Digital Access Assistance](#internet-and-email) section of this guide for ways to get access to a computer and the internet.
 
-Homeless people can use the address of a friend, relative, or trusted service provider as their filing address.
+Homeless people can use the address of a friend, relative, or trusted service provider as their filing address. <!-- SOURCE NEEDED -->
 
 > See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) section of this guide for more options for establishing a mailing address.
 
