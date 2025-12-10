@@ -2972,25 +2972,27 @@ You can get help learning about, applying for, and receiving government benefits
 
 ### <a id="finding-steady-work">Finding Steady Work</a>
 
-The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) offers free employment and training, can help you improve your résumé and your interviewing skills, and can help you find job openings.
-They offer specialized services for young people, for veterans, and for people with disabilities.
+The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) offers free employment and training, can help you improve your résumé and your interviewing skills, and can help you find job openings. <!-- SOURCE NEEDED -->
+They offer specialized services for young people, for veterans, and for people with disabilities. <!-- SOURCE NEEDED -->
 
-[**Eckerd Connects Workforce Development**](Directory.md#Eckerd-Connects-Workforce-Development) can help you explore career possibilities, get training and credentialing to help you qualify for more jobs, and find employment.
+[**Eckerd Connects Workforce Development**](Directory.md#Eckerd-Connects-Workforce-Development) can help you explore career possibilities, get training and credentialing to help you qualify for more jobs, and find employment. <!-- Source: https://eckerd.org/jobs-training/ -->
 [Apply online at their website.](https://eckerd.org/jobs-training/online-application/)
 
 [**CalJOBS**](Directory.md#CalJOBS) is a job listing and resume listing web site.
-You can search for open employment positions on the site, and you can add your resume so that employers can search for you.
+You can search for open employment positions on the site, and you can add your resume so that employers can search for you. <!-- Source: https://www.caljobs.ca.gov/vosnet/LoginIntro2.aspx -->
 
-The state [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) offers many [job seeker services](https://edd.ca.gov/en/jobs_and_training/Job_Seeker_Information/) such as free job training programs and job fairs.
+The state [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) offers many [job seeker services](https://edd.ca.gov/en/jobs_and_training/Job_Seeker_Information/) such as free job training programs, resume workshops, and job fairs. <!-- https://edd.ca.gov/en/jobs_and_training/Job_Seeker_Information/ -->
 
-The [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) has a Migrant Seasonal Farmworker program that includes no-cost job search assistance, labor market info, vocational training, and information about your legal rights and labor law protections.
+The [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) has a Migrant Seasonal Farmworker program that includes no-cost job search assistance, labor market info, vocational training, and information about your legal rights and labor law protections. <!-- Source: https://edd.ca.gov/en/jobs_and_training/Migrant_and_Seasonal_Farm_Worker_Outreach_Program/ -->
 
+<!-- SOURCE NEEDED: Unclear whether this is offered in SLO County
 [**Goodwill Central Coast**](Directory.md#Goodwill) has a free “Opportunity Platform” that includes job search, resume building, digital literacy, and job readiness programs.
+-->
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program can help you prepare for a variety of standardized tests, learn professional skills, and polish your resume.
 Its [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/jobandcareeraccelerator5/home?AuthToken=4DE278CD-C0CB-4ED5-84D4-2DFC47FF903D) platform can help you prepare a good resume and cover letter, can improve your job search technique, and can better prepare you for a job interview.
 
-Recent refugees from other countries can also get help finding employment from [**SLO for HOME**](Directory.md#SLO4Home).
+Recent refugees from other countries can also get help finding employment from [**SLO for HOME**](Directory.md#SLO4Home). <!-- Vaguely alluded to on their website -->
 
 <!-- Needs more research (unclear if this is just another name for SLOCal Careers or some other program):
 1. Workforce Development Board of SLO County
@@ -3006,40 +3008,40 @@ Cuesta College students, graduates, and staff can get help finding a job or an i
 Call to make an appointment.
 
 Cal Poly (SLO) students, graduates, and staff can get help from [Cal Poly Career Services](https://careerservices.calpoly.edu/) ([careerservices@calpoly.edu](mailto:careerservices@calpoly.edu), [805-756-1111](tel:+1-805-756-1111), <a href="#" class="map-link" data-lat="35.298472" data-lon="-120.664092" data-zoom="17" data-label="Cal Poly Career Services">Student Services Building, room 114</a>).
-This includes career counseling, career and professional development certificates, interview clothes, and career fairs.
-They also conduct workshops on topics like job searching, building your resume, interview skills, and how to use LinkedIn.
+This includes career counseling, career and professional development certificates, interview clothes, and career fairs. <!-- Source: https://careerservices.calpoly.edu/explore-services -->
+They also conduct workshops on topics like job searching, building your resume, interview skills, and how to use LinkedIn. <!-- Source: https://careerservices.calpoly.edu/explore-services/your-events -->
 
 #### For People with Disabilities
 
-If you are currently receiving SSDI or SSI benefits and you are between the ages of 18 and 64, the [Ticket to Work Program](https://choosework.ssa.gov/) can give you free career counseling, vocational rehabilitation, and job placement and training, and can help you return to work without losing your benefits.
-Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply.
+If you are currently receiving SSDI or SSI benefits and you are between the ages of 18 and 64, the [Ticket to Work Program](https://choosework.ssa.gov/) can give you free career counseling, vocational rehabilitation, and job placement and training, and can help you return to work without losing your benefits. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 
-[**PathPoint**](Directory.md#PathPoint) helps people with intellectual or developmental disabilities to find jobs that are good matches for them, trains them in job skills, and helps them to maintain employment.
+[**PathPoint**](Directory.md#PathPoint) helps people with intellectual or developmental disabilities to find jobs that are good matches for them, trains them in job skills, and helps them to maintain employment. <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
 
 [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has [work programs](https://www.t-mha.org/work-programs.php) to help people with mental illnesses find and maintain meaningful employment.
-They operate the Growing Grounds farm, nursery, and downtown SLO retail store, which employ TMHA clients and give them vocational training.
+They operate the Growing Grounds farm, nursery, and downtown SLO retail store, which employ TMHA clients and give them vocational training. <!-- Source: https://www.t-mha.org/work-programs.php -->
 
-TMHA also operates a [“Supported Employment Program”](https://www.t-mha.org/program-details.php?id=16) which helps people with mental illnesses find and keep jobs.
-To use that program, you first must get a referral from [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation), [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), or [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services).
+TMHA also operates a [“Supported Employment Program”](https://www.t-mha.org/program-details.php?id=16) which helps people with mental illnesses find and keep jobs. <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
+To use that program, you need a referral from [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) or [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health). <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
 
-[**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) offers vocational rehabilitation services for people with disabilities, including job training, placement assistance, assistive technology, and education support.
+[**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) offers vocational rehabilitation services for people with disabilities, including job training, placement assistance, assistive technology, and education support. <!-- Source: https://www.dor.ca.gov/Home/EmploymentServices -->
 
 #### For People Released from Jail or Prison
 
-[**Restorative Partners**](Directory.md#Restorative-Partners) can help you build job experience after you are released from jail or prison.
-They operate [“The Bridge Cafe”](https://www.thebridgecafe.org/) which can give you paid employment while training you for certification by [**Cuesta College**](Directory.md#Cuesta-College)’s Culinary Arts program.
-After you complete that program, they will also help you find a job in that field.
+[**Restorative Partners**](Directory.md#Restorative-Partners) can help you build job experience after you are released from jail or prison. <!-- Source: https://restorativepartners.org/workforce-development/ -->
+They operate [“The Bridge Cafe”](https://www.thebridgecafe.org/) which can give you paid employment while training you for certification by [**Cuesta College**](Directory.md#Cuesta-College)’s Culinary Arts program. <!-- Source: https://restorativepartners.org/workforce-development/ -->
+After you complete that program, they will also help you find a job in that field. <!-- Source: https://restorativepartners.org/workforce-development/ -->
 Contact Restorative Partners to inquire about participating in this program.
 
 #### For U.S. Military Veterans
 
-If you were not dishonorably discharged and if you have a service-connected disability rating of at least 10% from the Department of Veterans Affairs, you may be eligible for the Veteran Readiness & Employment (VR&E) program.
-VR&E can help you with with job training, education, employment accommodations, resume development, and job seeking skills coaching.
-You can apply for this program by submitting a [Form 28-1900](https://www.va.gov/find-forms/about-form-28-1900/).
+If you were not dishonorably discharged and if you have a service-connected disability rating of at least 10% from the Department of Veterans Affairs, you may be eligible for the Veteran Readiness & Employment (VR&E) program. <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
+VR&E can help you with with job training, education, employment accommodations, resume development, and job seeking skills coaching. <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
+You can apply for this program by submitting a [Form 28-1900](https://www.va.gov/find-forms/about-form-28-1900/). <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
 You can also get help from [**Veterans Services**](Directory.md#Veterans-Services).
 
-The [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) has a Veterans Services program.
-To apply, register & post a resume in [**CalJOBS**](Directory.md#CalJOBS), then meet with a Veterans Service Navigator at the EDD for an initial assessment.
+The [**Employment Development Department (EDD)**](Directory.md#Employment-Development-Department) has a Veterans Services program. <!-- Source: https://edd.ca.gov/en/jobs_and_training/services_for_veterans/ -->
+To apply, register & post a resume in [**CalJOBS**](Directory.md#CalJOBS), then meet with a Veterans Service Navigator at the EDD for an initial assessment. <!-- SOURCE NEEDED -->
 
 ### <a id="recycling">Making Ends Meet: Recycling</a>
 
@@ -3050,7 +3052,7 @@ There are a few places in SLO County that specialize in purchasing aluminum and 
 - [**Steve’s Recycling**](Directory.md#Steves-Recycling) (Los Osos)
 - [**Recycle 101**](Directory.md#Recycle-101) (Oceano)
 
-Many stores also will pay CRV (California Redemption Value) refunds for up to fifty returned beverage containers at a time.
+Many stores also will pay CRV (California Redemption Value) refunds for up to fifty returned beverage containers at a time. <!-- Source: https://calrecycle.ca.gov/bevcontainer/ -->
 To find such a store near you, use the search form at the [CalRecycle](https://www2.calrecycle.ca.gov/BevContainer/InStoreRedemption) website.
 
 ### <a id="gig-jobs">Making Ends Meet: Gig Jobs</a>
