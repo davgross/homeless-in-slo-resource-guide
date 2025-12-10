@@ -2573,13 +2573,16 @@ If you have a case manager, ask them if they can help you with this process.
 If you are homeless, you may be at a loss when asked for your mailing address.
 There are various ways to establish a reliable mailing address even if you do not have a stable living address.
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
+The [**5Cities Homeless Coalition**](Directory.md#5CHC) <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
+and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) <!-- SOURCE NEEDED -->
+offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you.
 Ask them for details.
 
 You can rent mail boxes from UPS Stores and from the U.S. Postal Service.
-The Postal Service option is the most affordable of the two.
-But sometimes, a “P.O. Box” address (which is what you get from the Postal Service) is not adequate for your needs, and one advantage of the UPS Store option is that it appears as a regular street address (e.g. “1241 Johnson Avenue #1234, San Luis Obispo”).
-UPS Store locations with mailbox rental services are available throughout SLO County including:
+The Postal Service option is more affordable.
+But sometimes, a “P.O. Box” address (what you get from the Postal Service) is not adequate for your needs.
+One advantage of the UPS Store option is that it appears as a regular street address (e.g. “1241 Johnson Avenue #1234, San Luis Obispo”). <!-- Source: https://www.theupsstore.com/mailboxes/personal-mailboxes -->
+UPS Store locations with mailbox rental services are available throughout SLO County: <!-- Source: https://www.theupsstore.com/tools/find-a-store -->
 
 | City          | UPS Store Location | Phone |
 | ------------- | ------------------ | ----- |
@@ -2619,16 +2622,16 @@ Here are some General Delivery zip codes for SLO County:
 | Santa Margarita | <a href="#" class="map-link" data-lat="35.391744" data-lon="-120.608109" data-zoom="17" data-label="Post Office">22360 El Camino Real</a>      | 93453‒9999 |
 | Templeton       | <a href="#" class="map-link" data-lat="35.557484" data-lon="-120.700688" data-zoom="17" data-label="Post Office">101 N. Main St.</a>           | 93465‒9999 |
 
-**Note**: In cities with multiple post office locations, General Delivery is typically handled at only one facility (usually the main post office). For example, San Luis Obispo has two post offices, but General Delivery is handled at the main location on Dalidio Dr.
+**Note**: In cities with multiple post office locations, General Delivery is typically handled at only one facility (usually the main post office). <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
+For example, San Luis Obispo has two post offices, but General Delivery is handled at the main location on Dalidio Dr. <!-- SOURCE NEEDED -->
 To confirm which location handles General Delivery in your area, call [800-275-8777](tel:+1-800-275-8777) and request “Customer Service,” or use the [USPS ZIP Code lookup tool](https://tools.usps.com/zip-code-lookup.htm) by entering “General Delivery” as the address line.
-<!-- Source: [faq.usps.com](https://faq.usps.com/s/article/What-is-General-Delivery) -->
 
-You should speak with the postmaster at the post office where you want to receive general delivery mail beforehand.
-The post office will hold general delivery mail for you for 30 days.
-You must have a valid photo ID to collect your mail at the post office.
-This service is free.
-However, this is not a long-term solution; it is meant for temporary use (for instance by travelers passing through town).
-The post office may stop accepting general delivery mail for you if you try to use this method for a long time or if you get too much mail.
+You should speak with the postmaster at the post office where you want to receive general delivery mail beforehand. <!-- SOURCE NEEDED -->
+The post office will hold general delivery mail for you for at least 10 days. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
+You must have a valid photo ID to collect your mail at the post office. <!-- SOURCE NEEDED -->
+This service is free. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
+However, this is not a long-term solution; it is meant for temporary use (for instance by travelers passing through town). <!-- SOURCE NEEDED -->
+The post office may stop accepting general delivery mail for you if you try to use this method for a long time or if you get too much mail. <!-- SOurce: https://faq.usps.com/s/article/What-is-General-Delivery -->
 
 <!-- Other options to investigate:
    1. **Faith-Based and Community Mail Services**
@@ -2653,7 +2656,7 @@ The post office may stop accepting general delivery mail for you if you try to u
 ### <a id="banks-and-credit-unions">Banks and Credit Unions</a>
 
 Credit unions are like banks, but are nonprofit organizations that tend to be locally-focused.
-They can often be more accommodating than banks to people with low incomes and to homeless people.
+They can often be more accommodating than banks to people with low incomes and to homeless people. <!-- SOURCE NEEDED -->
 
 Credit unions in SLO County include:
 
@@ -2662,7 +2665,7 @@ Credit unions in SLO County include:
 - [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union)
 - [**SLO Credit Union**](Directory.md#SLO-Credit-Union)
 
-Some ordinary banks offer “Bank On Certified Accounts” which are savings or checking accounts that are more affordable, have small minimum balances, and have no overdraft fees.
+Some ordinary banks offer “Bank On Certified Accounts” which are savings or checking accounts that are more affordable, have small minimum balances, and have no overdraft fees. <!-- Source: https://joinbankon.org/about/ -->
 You can search for banks that offer such accounts at [joinbankon.org](https://joinbankon.org/accounts/).
 
 > See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) section of this guide if you do not have a stable address and you need an address you can use while establishing a bank account.
@@ -2673,17 +2676,17 @@ You can search for banks that offer such accounts at [joinbankon.org](https://jo
 
 - Call ahead: Contact banks before you visit and ask about their specific requirements
 - Bring multiple documents: Have as much identification and address verification as possible
-- Ask about special programs: Specifically inquire about programs for people without permanent addresses
+- Learn about special programs: Ask about programs for people without permanent addresses
 - Consider credit unions first: They are often more flexible and community-focused than large banks
 - Use service organization support: Have case workers or service providers help advocate and provide verification if needed
 
 ### <a id="financial-literacy">Financial Literacy Classes and 1-on-1 Assistance</a>
 
 [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union) offers [online webinars](https://www.sesloc.org/why-sesloc/financial-education/seminars-and-webinars/) on topics like debt management and the psychology of spending.
-These webinars are free to the public.
+These webinars are free to the public. <!-- Source: https://www.sesloc.org/why-sesloc/financial-education/seminars-and-webinars/ -->
 They also offer free [one-on-one, professional financial counseling](https://www.sesloc.org/why-sesloc/financial-education/greenpath-financial-counseling/) to SESLOC members.
 
-[**Goodwill Central Coast**](Directory.md#Goodwill) has a free “Opportunity Platform” that includes one-on-one financial coaching services to help you achieve your personal money goals.
+[**Goodwill Central Coast**](Directory.md#Goodwill) has a free “Opportunity Platform” that includes one-on-one financial coaching services to help you achieve your personal money goals. <!-- Source: https://www.ccgoodwill.org/mission-services-financial-literacy-central-coast/ -->
 
 ### <a id="debt-consolidation">Debt Consolidation</a>
 
