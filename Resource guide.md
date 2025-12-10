@@ -3085,11 +3085,11 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 
 [**Cuesta College**](Directory.md#Cuesta-College)’s [Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html) program is open to the general community (you do not have to be enrolled at Cuesta College).
 Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that take place outside the classroom.
-Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver.
+Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver. <!-- Source: https://www.cuesta.edu/academics/continuinged/comm-truck-driving/index.html -->
 They also offer miscellaneous adult education classes on topics of a recreational or curiosity-satisfying nature.
 
 [**SLO Partners**](Directory.md#SLO-Partners) [programs](https://slopartners.org/programs/) include bootcamps to learn in-demand skills in fields like dental assistant, hospitality, and manufacturing.
-There is a financial assistance program to help you pay for tuition.
+There is a financial assistance program to help you pay for tuition. <!-- SOURCE NEEDED -->
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers a free [Food Services Program](https://ae.slcusd.org/culinary) that can prepare you for a career in the culinary industry.
 
@@ -3097,11 +3097,11 @@ There is a financial assistance program to help you pay for tuition.
 
 [Alison.com](https://alison.com) offers free online courses in several fields of study, including vocational training and “soft skills.”
 You can get a certificate and/or diploma after completing a course of study, but this sometimes costs money (the course itself is free).
-Note that Alison.com is accredited in the United Kingdom, not the United States, which may affect how much these certificates and diplomas are respected by employers or colleges here.
+Note that Alison.com is accredited in the United Kingdom, not the United States, which may affect how much these certificates and diplomas are respected by employers or colleges here. <!-- Source: https://alison.com/about/accreditation -->
 
 [Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/) offers low-cost classes and seminars on a variety of topics.
-You can also become an annual member for a $25 fee, and this gives you substantial discounts on all classes throughout the year.
-Contact them at [lifelearnerscentralcoast@gmail.com](mailto:lifelearnerscentralcoast@gmail.com) for details.
+You can also become an annual member for a $25 fee, and this gives you substantial discounts on all classes throughout the year. <!-- Source: https://www.lifelearnerscc.org/courses -->
+Contact them at [lifelearnerscentralcoast@gmail.com](mailto:lifelearnerscentralcoast@gmail.com) for details. <!-- Source: https://www.lifelearnerscc.org/courses -->
 
 <!-- doesn’t look like a low-cost option
 1. [A.T. Still University of Health Sciences](https://www.atsu.edu/)
@@ -3125,7 +3125,7 @@ Toastmasters in SLO County groups include:
 | ---- | ------------ | -------- |
 | [SLO Toastmasters Club 83](https://slotoastmasters.toastmastersclubs.org/) | Th 6:30–7:30am | <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a> |
 | [SLO Noontime Toastmasters Club (5204)](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204) | Tu Noon–1pm | Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a> |
-| [SLO Motion Toastmasters Club](https://slomotion.toastmastersclubs.org/) | M Noon–1pm | SLO City/County Library, <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO Library">995 Palm St., SLO</a> |
+| [SLO Motion Toastmasters Club](https://slomotion.toastmastersclubs.org/) | M Noon–1pm | Caltrans “Sand” conference room, <a href="#" class="map-link" data-lat="35.260680" data-lon="-120.669333" data-zoom="17" data-label="Caltrans">2885 S. Higuera St., SLO</a> |
 | [Cal Poly Toastmasters](https://www.toastmasters.org/Find-a-Club/28676059-cal-poly-toastmasters) | W Noon–1pm | <a href="#" class="map-link" data-lat="35.303892" data-lon="-120.659629" data-zoom="17" data-label="Toastmasters">Bldg. 70 (Facilities)</a>, Room 110 on the Cal Poly San Luis Obispo campus |
 | [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club) | Th 12:10–1:15pm | various locations around Paso Robles |
 
@@ -3134,8 +3134,8 @@ Many programs are free or low-cost.
 
 ### <a id="digital-literacy">Digital Literacy: How to Use Computers and the Internet</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a digital literacy class designed to teach you basic to intermediate computer skills with a focus on communication and productivity using Google’s free suite of apps.
-Computers are provided for use in class.
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a digital literacy class designed to teach you basic to intermediate computer skills with a focus on communication and productivity using Google’s free suite of apps. <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform -->
+Computers are provided for use in class. <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform -->
 To register, submit [this online form](https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform).
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers free basic computer skills courses and courses in Amazon Web Services tools at its [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
@@ -3146,17 +3146,18 @@ Contact them at [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwi
 
 [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) has two computers you can use on-site, and they offer free assistance and one-on-one tutoring sessions. <!-- Source: https://www.prcity.com/293/Senior-Services -->
 
-[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) periodically has “tech help” sessions at which an expert is available to help with your technical challenges or to teach you a new skill.
+[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) periodically has “tech help” sessions at which an expert is available to help with your technical challenges or to teach you a new skill. <!-- Source: https://atascaderoseniorcenter.org/ -->
 
 ### <a id="libraries">Libraries</a>
 
-The [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has not only books, but online research databases, computers with internet access, English conversation practice sessions, and several [online learning](https://catalog.slolibrary.org/online-learning) programs.
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have not only books, but online research databases, computers with internet access, English conversation practice sessions, and several [online learning](https://catalog.slolibrary.org/online-learning) programs.
+<!-- Sources: https://catalog.slolibrary.org/tlc and https://catalog.slolibrary.org/online-learning -->
 
 Cal Poly’s [Robert E. Kennedy Library](https://library.calpoly.edu/) is a resource not just for Cal Poly students and faculty but for the inhabitants of the Central Coast in general. <!-- Source: https://library.calpoly.edu/about/policies -->
 The library supports the principle of open access to its collections by the community and region. <!-- Source: https://library.calpoly.edu/about/policies -->
 Members of the community can come to the library during main library opening hours and can access most databases while on the premises by bringing their own device and signing onto Cal Poly guest wireless. <!-- Source: https://library.calpoly.edu/about/policies -->
 
-Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) and “Little Free Libraries.”
+Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) and “Little Free Libraries.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
 Little Free Libraries are boxes in public areas (for example adjacent to sidewalks) where people leave books they are giving away.
 Anyone is free to take books for their own use from Little Free Libraries.
 There is no check-out/check-in procedure. Just take what you want to read, or leave what you’re finished reading.
@@ -3167,42 +3168,40 @@ The [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) gives you 
 
 ### <a id="citizenship-studies">Citizenship Studies</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test.
-The course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday.
-You must be able to read and understand basic English.
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
+The free course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
+You must be able to read and understand basic English. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
 Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) gives you access to the [ProCitizen](https://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096) citizenship prep course, covering the civics, reading, and writing parts of the U.S. citizenship exam.
 Its [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program and [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) program also include some U.S. citizenship test preparation.
 
-If you are a refugee from another country, you may be able to get some help with your education from [**SLO for HOME**](Directory.md#SLO4Home).
+If you are a refugee from another country, you may be able to get some help with your education from [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ (vaguely described) -->
 
 ### <a id="literacy">Literacy</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers Basic English Literary course that takes place all year at its Oceano Learning Center location.
-The course is every Tuesday from 5–8pm and you can begin the course any Tuesday.
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers Basic English Literary course that takes place all year at its Oceano Learning Center location. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+The course is every Tuesday from 5–8pm and you can begin the course any Tuesday. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
 Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) is a free, volunteer-based, one-on-one tutoring program that helps adults improve their literacy skills.
 
 ### <a id="diploma-ged-hiset">High School Diplomas and their Equivalents (GED or HiSET)</a>
 
-If you did not earn a high school diploma, you can instead get a certificate that demonstrates that you have high-school-graduate-level competency.
+If you did not (or do not plan to) earn a high school diploma, you can instead get a certificate that demonstrates that you have high-school-graduate-level competency.
 This can help you apply for jobs or for higher education.
-To get such a certificate, you must pass a test: either the GED test or the HiSET test.
+To get such a certificate, you must pass a test: either the GED test or the HiSET test. <!-- Source: https://www.cde.ca.gov/ta/tg/gd/index.asp -->
 
-You can also take such a test to earn such a certificate if you are still in high school but you want to leave school early rather than continue to graduation.
+[**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program includes free, non-credit courses that are designed to help you build the skills you need to pass the [California High School Equivalency (GED) exam](https://www.cuesta.edu/academics/continuinged/ged/index.html).
+Courses are offered in English and in Spanish. <!-- Source: https://www.cuesta.edu/academics/continuinged/ged/index.html -->
+They also offer free tutoring, and free access to software programs to help you study. <!-- Source: https://www.cuesta.edu/academics/continuinged/ged/index.html -->
 
-[**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program includes free, non-credit courses that are designed to help you build the schools you need to pass the [California High School Equivalency (GED) exam](https://www.cuesta.edu/academics/continuinged/ged/index.html).
-Courses are offered in English and in Spanish.
-They also offer free tutoring, and free access to software programs to help you study.
-
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers free [High School Diploma](https://www.cuesta.edu/academics/continuinged/ged/index.html) classes to adults.
-This will enable you to earn an actual high school diploma, but these classes can also prepare you to take and pass the GED or HiSET.
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers free [High School Diploma](https://adulted.luciamarschools.org/diploma) classes to adults.
+This will enable you to earn an actual high school diploma, but these classes can also prepare you to take and pass the GED or HiSET. <!-- Source: https://adulted.luciamarschools.org/info-registration -->
 Register [on their website](https://adulted.luciamarschools.org/info-registration).
-When you get your high school diploma or HiSET equivalency credential, you can also get a referral to Cuesta or Hancock Colleges if you want to continue your education there.
+When you get your high school diploma or HiSET equivalency credential, you can also get a referral to Cuesta or Hancock Colleges if you want to continue your education there. <!-- SOURCE NEEDED -->
 
-[**Templeton Adult School**](Directory.md#Templeton-Adult-School) offers free [High School Diploma](https://www.cuesta.edu/academics/continuinged/ged/index.html) classes to adults on a flexible schedule.
+[**Templeton Adult School**](Directory.md#Templeton-Adult-School) offers free high school diploma classes to adults on a flexible schedule.
 Call them or email [clondon@templetonusd.org](mailto:clondon@templetonusd.org) to begin the process of enrollment.
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers free [High School Diploma / Equivalency classes](https://ae.slcusd.org/hsd-esl/high-school-equivalency) in San Luis Obispo, Morro Bay, and at the San Luis Obispo jail.
@@ -3214,7 +3213,7 @@ It helps with child care, transportation, educational expenses, and will even gi
 Apply for this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) or contact [Cal-Learn@dss.ca.gov](mailto:Cal-Learn@dss.ca.gov) if you have questions. <!-- Source: https://cdss.ca.gov/cal-learn -->
 
 The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
-To access this program, contact [the liaison for your school district](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) or contact the County Office of Education at [805-782-7268](tel:+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org).
+To access this program, contact [the liaison for your school district](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) or contact the County Office of Education at [805-782-7268](tel:+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org). <!-- Source: https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/ -->
 
 ### <a id="esl">English as a Second Language (ESL)</a>
 
@@ -3231,7 +3230,7 @@ To apply, complete [the form on their website](https://forms.office.com/Pages/Re
 
 [**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) offers free ESL classes and personal tutoring two evenings per week. <!-- Source: https://immigranthopeag.org/education/ -->
 
-Recent refugees from other countries can also get ESL help from [**SLO for HOME**](Directory.md#SLO4Home).
+Recent refugees from other countries can also get ESL help from [**SLO for HOME**](Directory.md#SLO4Home). <!-- https://www.sloforhome.org/ mentions providing "language support" -->
 
 ### <a id="education-for-people-with-disabilities">For People with Disabilities</a>
 
@@ -3240,11 +3239,11 @@ Recent refugees from other countries can also get ESL help from [**SLO for HOME*
 ### <a id="veterans-education">For U.S. Military Veterans</a>
 
 As a U.S. military veteran, you may qualify for [“GI Bill” education benefits](https://www.va.gov/education/about-gi-bill-benefits/) that can help you pay for school and cover expenses while you’re training for a job.
-You can apply for these benefits [online at the Veterans Affairs website](https://www.va.gov/education/how-to-apply/) or by phone at [888-442-4551](tel:+1-888-442-4551).
+You can apply for these benefits [online at the Veterans Affairs website](https://www.va.gov/education/how-to-apply/) or by phone at [888-442-4551](tel:+1-888-442-4551). <!-- Source: https://www.va.gov/education/how-to-apply/ -->
 
-If you were not dishonorably discharged and if you have a service-connected disability rating of at least 10% from the Department of Veterans Affairs, you may be eligible for the Veteran Readiness & Employment (VR&E) program.
-VR&E can help you with with job training, education, and job seeking skills coaching.
-You can apply for this program by submitting a [Form 28-1900](https://www.va.gov/find-forms/about-form-28-1900/).
+If you were not dishonorably discharged and if you have a service-connected disability rating of at least 10% from the Department of Veterans Affairs, you may be eligible for the Veteran Readiness & Employment (VR&E) program. <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
+VR&E can help you with with job training, education, and job seeking skills coaching. <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
+You can apply for this program by submitting a [Form 28-1900](https://www.va.gov/find-forms/about-form-28-1900/). <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
 You can also get help from [**Veterans Services**](Directory.md#Veterans-Services).
 
 People in the U.S. military, U.S. military veterans, and their spouses, adult children, and caregivers can also take free, online training courses in fields like data analytics, cybersecurity, artificial intelligence (AI), cloud computing, and information technology (IT) support through the [IBM SkillsBuild program](https://www.va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/)
