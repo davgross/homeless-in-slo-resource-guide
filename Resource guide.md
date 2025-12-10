@@ -3290,18 +3290,16 @@ Both the [**5Cities Homeless Coalition**](Directory.md#5CHC) office and the [**4
 
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) office has device charging stations for its clients. <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
-[**Shower the People**](Directory.md#Shower-the-People) has a device charging station available at the sites where it operates during operating hours.
+[**Shower the People**](Directory.md#Shower-the-People) has a device charging station available at the sites where it operates during operating hours. <!-- Source: personal knowledge -DG -->
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site with USB charging ports.
-There are also some electrical outlets you can use to charge devices.
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site with USB charging ports. <!-- SOURCE NEEDED -->
+There are also some electrical outlets you can use to charge devices. <!-- SOURCE NEEDED -->
 
-The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus has many charging outlets.
+The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus has many charging outlets. <!-- Source: I visited and saw them -DG -->
 
 [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has electrical outlets you can use to charge your mobile devices. <!-- Source: https://capslo.org/safe-parking/ -->
 
-<!-- needs research
-1. [**40 Prado Homeless Services Center**](Directory.md#40-Prado)
-   - What’s Available: Phone access for participants; call to inquire about device charging availability
+<!-- SOURCE NEEDED
 1. County Government Buildings
    - What’s Available: Public seating areas with electrical outlets in most county buildings
    - Access: During regular business hours; public areas only
