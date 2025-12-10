@@ -3252,13 +3252,13 @@ People in the U.S. military, U.S. military veterans, and their spouses, adult ch
 
 ## <a id="phones">Phones and Phone Service</a>
 
-The [California LifeLine Program](https://www.californialifeline.com/) ([866-272-0357](tel:+1-866-272-0357)) gives low-income households discounts on home phone or cell phone service.
-In many cases the discounts are enough to make the service free.
-You apply for this program through a commercial phone service provider that supports the program.
+The [California LifeLine Program](https://www.californialifeline.com/) ([866-272-0357](tel:+1-866-272-0357) or use their [online chat](https://www.californialifeline.com/en/contact)) gives low-income households discounts on home phone or cell phone service.
+In many cases the discounts are enough to make the service free. <!-- SOURCE NEEDED -->
+You apply for this program through a commercial phone service provider that supports the program. <!-- Source: https://www.californialifeline.com/en/faq -->
 Some providers also give you a free phone when you register for California LifeLine through their service, for example [AirTalk Wireless](https://airtalkwireless.com/lifeline-application), [enTouch Wireless](https://entouchwireless.com/states/california-lifeline-free-phone-service/), or [Gen Mobile](https://www.genmobile.com/pages/lifeline-program).
 
-The [**California Connect**](Directory.md#California-Connect) program can loan you, for free, assistive telecommunications equipment that helps if you have medically-documented functional limitations of hearing, vision, mobility, speech, and/or interpretation of information.
-The [Deaf and Disabled Telecommunications Program (DDTP)](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp) can give you specialized telephone equipment, accessories, and services such as amplified phones for the hard-of-hearing, big-button phones for those with low-vision, and cordless phones for people with mobility disabilities.
+The [**California Connect**](Directory.md#California-Connect) program can loan you, for free, assistive telecommunications equipment that helps if you have medically-documented functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
+The [Deaf and Disabled Telecommunications Program (DDTP)](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp) can give you specialized telephone equipment, accessories, and services such as amplified phones for the hard-of-hearing, big-button phones for those with low-vision, and cordless phones for people with mobility disabilities. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
 This program is for California residents with medically-certified limitations of hearing, vision, mobility, speech, learning, or memory.
 
 -----
