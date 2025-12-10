@@ -2363,8 +2363,8 @@ You can also reach the U.S. Department of Justice’s Americans with Disabilitie
 
 ## <a id="ids-and-other-documents">IDs and Other Documents</a> (How to Obtain, Replace, Secure)
 
-Often, agencies and programs will ask you to produce certain documents, like a government identification card (such as a driver’s license), a social security card, a birth certificate, and so forth.
-If you have lost such documents, or have never obtained them, this can be an obstacle to working with those agencies and programs.
+Often, agencies and programs will ask you for certain documents, like a government identification card (such as a driver’s license), a social security card, or a birth certificate.
+If you have lost such documents, or never obtained them, this can be an obstacle to working with those agencies and programs.
 
 This section of the guide shows you how to obtain or replace documents like these.
 
@@ -2379,61 +2379,60 @@ This section of the guide shows you how to obtain or replace documents like thes
 
 ### <a id="social-security-numbers-or-cards">Social Security Numbers or Cards</a>
 
-You do not often need your social security card, but you do often need your social security number.
-The [**Social Security Administration**](Directory.md#Social-Security-Administration) can help you get a new Social Security card.
+You do not often need your social security *card*, but you do often need your social security *number*. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
+The [**Social Security Administration**](Directory.md#Social-Security-Administration) can help you get a new Social Security card. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
 
-If you have an account or can create an online account at [ssa.gov/myaccount](https://www.ssa.gov/myaccount), you can request a Social Security card online and it will be mailed to you.
-You can get help with this process by calling [800-772-1213](tel:+1-800-772-1213) (TTY: [800-325-0778](tel:+1-800-325-0778)).
+If you have an account or can create an account at [ssa.gov/myaccount](https://www.ssa.gov/myaccount), you can request a Social Security card online and they will mail it to you. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
+You can get help with this process by calling [800-772-1213](tel:+1-800-772-1213) (TTY: [800-325-0778](tel:+1-800-325-0778)). <!-- Source: https://www.ssa.gov/number-card/replace-card -->
 
 > See [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) for ways to get mail if you do not have a stable mailing address.
 
-If you are unable to complete this online process, you can visit the local Social Security Administration office to get a new card.
-It will go more smoothly if you can bring some alternative form of identification like a driver’s license or passport.
-In the absence of those, a military ID, employee ID, school ID, or health insurance card might be helpful.
+If you are unable to complete this online process, you can visit the local Social Security Administration office to get a new card. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
+It will go more smoothly if you can bring some alternative form of identification like a driver’s license, passport, Medicaid card, military ID, or certificate of naturalization. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
 
 ### <a id="id-cards-drivers-licenses">ID Cards and Driver’s Licenses</a>
 
-A state-issued “Real ID,” or a California driver’s license which is also a Real ID, is a useful form of government-issued photo identification card that is widely accepted by a variety of programs, businesses, and service providers.
+A state-issued “Real ID,” or a California driver’s license which is also a Real ID, is a useful form of government-issued photo identification card that is widely accepted by a variety of programs, businesses, and service providers. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/what-is-real-id/ -->
 You get such an identification card from the [**California DMV**](Directory.md#California-DMV).
-You must visit the California DMV office to have your photo taken and to submit your paperwork.
 
-You typically first need to already have another identification document (such as a certified birth certificate, a passport, a permanent resident card, a certificate of naturalization or citizenship, or a permanent resident card) as well as documents that demonstrate your California residency (such as a utility bill, tax return, bank statement, or rental agreement that contains your name and address).
-There are also fees you typically must pay to obtain either a Real ID or a driver’s license that operates as a Real ID.
+You typically first need to already have another identification document (such as a certified birth certificate, a passport, a permanent resident card, a certificate of naturalization or citizenship, or a permanent resident card) as well as documents that demonstrate your California residency (such as a utility bill, tax return, bank statement, or rental agreement that contains your name and address). <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/ and https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/#gf_6 -->
+You can complete an application online, but you must then visit the California DMV office to have your photo taken and to show your documents. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/ -->
 
-However, if you are homeless, you may be able to get a waiver for fees (a “no-fee ID card”), and you may be able to use the address of a homeless shelter or other homeless services agency as your California residency address.
-This is true even if you are only temporarily homeless because you are fleeing domestic violence or a similar dangerous situation.
-You can only get a simple Real ID (“California Identification Card”) with the no-fee method, not a driver’s license.
-Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process.
+There are also fees you typically must pay to obtain either a Real ID or a driver’s license that operates as a Real ID. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
+However, if you are homeless, you may be able to get a waiver for fees (a “no-fee ID card”), and you may be able to use the address of a homeless shelter or other homeless services agency as your California residency address. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
+This is true even if you are only temporarily homeless because you are fleeing domestic violence or a similar dangerous situation. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
+You can only get a simple Real ID (“California Identification Card”) with the no-fee method, not a driver’s license. <!-- SOURCE NEEDED -->
+Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process. <!-- SOURCE NEEDED -->
 
-If you have previously received a Real ID or California driver’s license, but you have lost the card and need to replace it, you can begin this process by visiting [www.edl.dmv.ca.gov/apply](https://www.dmv.ca.gov/wasapp/oddl/oddlApplication.do) or the California DMV office.
+If you have previously received a Real ID or California driver’s license, but you have lost the card and need to replace it, you can begin this process by visiting [dmv.ca.gov: “Driver’s License of ID Card Replacement”](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/) or the California DMV office.
 
 ### <a id="birth-death-marriage-certificates">Birth, Death, and Marriage Certificates</a>
 
-If you were born in SLO County, you can obtain a copy of your birth certificate from the [**SLO County Clerk-Recorder**](Directory.md#SLO-County-Clerk-Recorder).
-You will need to show valid identification (typically, a government-issued photo ID like a driver’s license or passport).
+If you were born in SLO County, you can obtain a copy of your birth certificate from the [**SLO County Clerk-Recorder**](Directory.md#SLO-County-Clerk-Recorder). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
+You will need to show valid identification (typically, a government-issued photo ID like a driver’s license or passport). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
 
-There is also a $32 fee.
-However, if you are homeless, you can request an “Affidavit of Homeless Status for Fee Exempt Certified Copy of Birth Certificate.”
-You need to sign this and you also need to get a signature from a “homeless services provider.”
-This exempts you from having to pay the $32 fee.
-Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process.
+There is also a $32 fee. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
+However, if you are homeless, you can request an “Affidavit of Homeless Status for Fee Exempt Certified Copy of Birth Certificate.” <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
+You need to sign this and you also need to get a signature from a “homeless services provider.” <!-- SOURCE NEEDED -->
+This exempts you from having to pay the $32 fee. <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
+Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process. <!-- SOURCE NEEDED -->
 
-You can obtain a “certified copy” of a birth certificate for yourself or your child or other close relative.
-A certified copy allows you to establish your identity.
-Otherwise you can obtain an “informational” copy, which is not valid for establishing identity.
-You should understand ahead of time whether or not you need a certified copy, and, if so, you should be sure to ask for one specifically when you order your copy.
+You can obtain a “certified copy” of a birth certificate for yourself or your child or other close relative. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
+A certified copy allows you to establish your identity. <!-- SOURCE NEEDED -->
+Otherwise you can obtain an “informational” copy, which is not valid for establishing identity. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
+Try to learn ahead of time whether you need a certified copy, and, if so, ask for one specifically when you order your copy.
 
 You can also use the [VitalChek](https://www.vitalchek.com/v/vital-records/california/san-luis-obispo-county-recorder) website to order an *informational* copy of your birth certificate online without visiting the SLO County Clerk-Recorder office.
 (You may need to provide a notarized, sworn statement if you want to order a “certified copy” this way, in which case it is probably just as easy to visit the SLO County Clerk-Recorder office.)
 That may cost a bit more.
 
-Death records for deaths that occurred in SLO County can also be obtained from the SLO County Clerk-Recorder ($24) or from VitalChek.
-Again, there is a difference between “certified” and “informational” copies of death certificates, and you should check which one you need before you order it.
-You can typically only get a “certified” copy for a close relative, and you may have to provide additional documentation.
+Death records for deaths that occurred in SLO County can also be obtained from the SLO County Clerk-Recorder ($24) or from VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
+Again, there is a difference between “certified” and “informational” copies of death certificates, and you should check which one you need before you order it. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
+You can typically only get a “certified” copy for a close relative, and you may have to provide additional documentation. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
 
-You can also get a copy of a marriage certificate that was issued in SLO County from the SLO County Clerk-Recorder office ($17) or from VitalChek.
-Again, there is a difference between “certified” and “informational” copies, and you should check which one you need before you order it.
-You can typically only get a “certified” copy for yourself or a close relative, and you may have to provide additional documentation.
+You can also get a copy of a marriage certificate that was issued in SLO County from the SLO County Clerk-Recorder office ($17) or from VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
+Again, there is a difference between “certified” and “informational” copies, and you should check which one you need before you order it. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
+You can typically only get a “certified” copy for yourself or a close relative, and you may have to provide additional documentation. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
 
 There is no homeless fee exemption program for death and marriage certificates the way there is for birth certificates.
 
@@ -2462,18 +2461,18 @@ You need a passport to travel by air, land, or sea to most international destina
 
 #### <a id="first-time-passport">Getting a Passport for the First Time</a>
 
-To apply for your first U.S. passport, you must apply in person at an authorized passport acceptance facility.
+To apply for your first U.S. passport, you must apply in person at an authorized passport acceptance facility. <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
 You cannot apply by mail for a first-time passport.
-It costs $165 total ($130 application fee + $35 execution fee) to apply for an adult passport.
+It costs $165 total ($130 application fee + $35 execution fee) to apply for an adult passport. <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
 You must bring the following documents:
 
-1. Proof of U.S. citizenship (Certified U.S. birth certificate with official seal, or Certificate of Naturalization, or Certificate of Citizenship, or Consular Report of Birth Abroad, or a previous U.S. passport)
-   - Note: Digital or mobile birth certificates are not accepted; you must bring a physical birth certificate
-2. A photo identification with your picture (driver’s license, government employee ID, U.S. military ID, or Certificate of Naturalization or Citizenship)
-   - Note: Digital or photocopied documents are not accepted; you must bring the original document
-   - You must also submit photocopies of the front and back of your ID
-3. A recent passport photo that meets official requirements
-4. A completed Form DS-11 (do not it sign until you are instructed to do so by the passport agent)
+1. Proof of U.S. citizenship (Certified U.S. birth certificate with official seal, or Certificate of Naturalization, or Certificate of Citizenship, or Consular Report of Birth Abroad, or a previous U.S. passport) <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
+   - Note: Digital or mobile birth certificates are not accepted; you must bring a physical birth certificate <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
+2. A photo identification with your picture (driver’s license, government employee ID, U.S. military ID, or Certificate of Naturalization or Citizenship) <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/identification.html -->
+   - Note: Digital or photocopied documents are not accepted; you must bring the original document <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/identification.html -->
+   - You must also submit photocopies of the front and back of your ID <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/identification.html -->
+3. A recent passport photo that meets official requirements <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/photos.html -->
+4. A completed Form DS-11 (do not it sign until you are instructed to do so by the passport agent) <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
 
 You also must provide an address where you can receive your passport by mail.
 If you do not have a stable address, consider using a mail drop service (see the [Mail drops section](#mail-drops-post-office-boxes) of this guide).
@@ -2481,6 +2480,7 @@ If you do not have a stable address, consider using a mail drop service (see the
 You can apply for a passport at the post office.
 Call them to make an appointment:
 
+<!-- Source: https://iafdb.travel.state.gov/ -->
 | City            | Post Office Address | Phone |
 | --------------- | ------------------- | ----- |
 | Atascadero      | <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> | [805-461-6161](tel:+1-805-461-6161) |
@@ -2488,19 +2488,23 @@ Call them to make an appointment:
 | Grover Beach    | <a href="#" class="map-link" data-lat="35.121670" data-lon="-120.619893" data-zoom="17" data-label="Post Office">917 W. Grand Ave.</a> | [805-489-5138](tel:+1-805-489-5138) |
 | Guadalupe       | <a href="#" class="map-link" data-lat="34.971861" data-lon="-120.571864" data-zoom="17" data-label="Post Office">1030 Guadalupe St.</a> | [805-353-4061](tel:+1-805-353-4061) |
 | Oceano          | <a href="#" class="map-link" data-lat="35.098991" data-lon="-120.611433" data-zoom="17" data-label="Post Office">1800 Beach St.</a> | [805-489-6515](tel:+1-805-489-6515) |
+| Paso Robles     | <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a> | [805-237-8342](tel:+1-805-237-8342) |
 | Pismo Beach     | <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a> | [805-481-5971](tel:+1-805-481-5971) |
 | San Luis Obispo | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> | [805-543-2605](tel:+1-805-543-2605) |
+| Santa Margarita | <a href="#" class="map-link" data-lat="35.391744" data-lon="-120.608109" data-zoom="17" data-label="Post Office">22360 El Camino Real</a> | [805-438-3950](tel:+1-805-438-3950) |
 
-If you are applying for a new passport, if your passport expired more than five years ago and you need a new one, or if your passport was lost or damaged and you need a new one, you can also apply for a passport at certain [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) branches. <!-- Note: the U.S. State Dept. lists these as Atascadero, Nipomo, and SLO; the SLO County Library website lists these as Arroyo Grande, Atascadero, and SLO -->
+If you are applying for a new passport, if your passport expired more than five years ago and you need a new one, or if your passport was lost or damaged and you need a new one, you can also apply for a passport at certain [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) branches.
 Call them to make an appointment:
 
+<!-- Source: https://catalog.slolibrary.org/passport-services and https://iafdb.travel.state.gov/ -->
 - [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries)
+- [**Cambria Library**](Directory.md#SLO-County-Public-Libraries)
 - [**Nipomo Library**](Directory.md#SLO-County-Public-Libraries)
 - [**SLO City Library**](Directory.md#SLO-County-Public-Libraries)
 
 #### Renewing Your Passport
 
-You can renew your passport by mail if all of the following are true:
+You can renew your passport by mail if all of the following are true: <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew.html -->
 
 - You have your most recent passport with you
 - Your passport is not damaged or mutilated
@@ -2508,25 +2512,25 @@ You can renew your passport by mail if all of the following are true:
 - Your passport was issued in the last 15 years
 - Your passport is in your current name (or you can document a legal name change)
 
-If you meet these requirements, you can renew by mail using Form DS-82.
-This costs $130 for adults.
-You can also renew online at [travel.state.gov](https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html) if you meet additional eligibility requirements.
+If you meet these requirements, you can renew by mail using Form DS-82. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew.html -->
+This costs $130 for adults. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew.html -->
+You can also renew online at [travel.state.gov](https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html) if you meet additional eligibility requirements. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html -->
 
-If you cannot renew by mail (for example, if your passport is lost, stolen, damaged, or expired more than five years), you must apply in person using the same process as for a first-time passport.
+If you cannot renew by mail (for example, if your passport is lost, stolen, damaged, or expired more than five years), you must apply in person using the same process as for a first-time passport. <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
 
 #### Replacing a Lost or Stolen Passport
 
 If your passport is lost or stolen, follow these steps to get a new one:
 
 1. **Report it immediately:**
-  Report your passport lost or stolen as soon as possible.
-  This protects you from identity theft.
-  You can report [online using Form DS-64](https://pptform.state.gov/), by calling [877-487-2778](tel:+1-877-487-2778) (TTY [888-874-7793](tel:+1-888-874-7793)), or in person when you apply for a replacement.
-  Note that if you report your passport lost or stolen, you can no longer use it for travel even if you find it later.
+  Report your passport lost or stolen as soon as possible. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html -->
+  This protects you from identity theft. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html -->
+  You can report [online using Form DS-64](https://pptform.state.gov/), by calling [877-487-2778](tel:+1-877-487-2778) (TTY [888-874-7793](tel:+1-888-874-7793)), or in person when you apply for a replacement. <!-- SOURCE NEEDED (https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html does not include phone as option here) -->
+  Note that if you report your passport lost or stolen, you can no longer use it for travel even if you find it later. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html -->
 
 1. **Apply for a replacement:**
   To replace a lost or stolen passport, apply in person at an authorized passport acceptance facility.
-  The process and requirements are the same as for a first-time passport application ([see above](#first-time-passport)).
+  The process and requirements are the same as for a first-time passport application ([see above](#first-time-passport)). <!-- SOURCE NEEDED -->
   Reporting your passport lost or stolen does not replace it; to get a replacement you must also apply for a new passport.
   This costs $165.
 
@@ -2548,17 +2552,17 @@ Here are some tips for handling important documents:
 - Some homeless services centers offer document storage for their clients.
   Ask your case worker if they can store your important documents in your file at those agencies.
 - If you have enough money, consider storing especially important or difficult-to-replace documents in a safety deposit box at a bank.
-  These can be rented for $30–50 per year.
+  These can be rented for $30–50 per year. <!-- SOURCE NEEDED -->
 
 #### If You Have No Identification Documents
 
-If you are completely without identifying documentation, you may need help establishing your identity so that you can access programs and services that require identifying documentation.
+If you are completely without identifying documentation, you may need help establishing your identity so that you can access programs and services that require you to show them identification.
 
-You may want to begin by contacting the [**Social Security Administration**](Directory.md#Social-Security-Administration) who can assist you in verifying your identity through their records.
+You may want to begin by contacting the [**Social Security Administration**](Directory.md#Social-Security-Administration) who can assist you in verifying your identity through their records. <!-- SOURCE NEEDED -->
 
-[**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) can help you through California’s affidavit processes, with which you can establish your identity when you lack identity documentation.
-This way you can get a California photo ID card, which helps you get access to many programs and services.
-There is an expensive filing fee for this process, but ask about a fee waiver that is available to people with low incomes.
+[**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) can help you through California’s affidavit processes, with which you can establish your identity when you lack identity documentation. <!-- SOURCE NEEDED -->
+This way you can get a California photo ID card, which helps you get access to many programs and services. <!-- SOURCE NEEDED -->
+There is an expensive filing fee for this process, but ask about a fee waiver that is available to people with low incomes. <!-- SOURCE NEEDED -->
 
 If you have a case manager, ask them if they can help you with this process.
 
