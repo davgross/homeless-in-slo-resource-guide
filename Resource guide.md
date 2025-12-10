@@ -3148,6 +3148,8 @@ Contact them at [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwi
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) periodically has “tech help” sessions at which an expert is available to help with your technical challenges or to teach you a new skill. <!-- Source: https://atascaderoseniorcenter.org/ -->
 
+[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) offers a Basic iPhone for Seniors class. <!-- Source: https://secure.rec1.com/CA/arroyo-grande-ca/catalog/index/bd509698909ad3af1fbf44b22ff80a27?filter=c2VhcmNoPQ== -->
+
 ### <a id="libraries">Libraries</a>
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have not only books, but online research databases, computers with internet access, English conversation practice sessions, and several [online learning](https://catalog.slolibrary.org/online-learning) programs.
@@ -3268,21 +3270,19 @@ This program is for California residents with medically-certified limitations of
 > See the [Digital Literacy: How to Use Computers and the Internet](#digital-literacy) section of this guide for classes and tutorials that can help you learn how to use the internet.
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site.
-They also have printing services for a small fee.
-They may also be able to help you establish an email account.
-You can also borrow a Wi-Fi hotspot from the library.
+They also have printing services for a small fee. <!-- Source: https://catalog.slolibrary.org/print-from-mobile-device -->
+They may also be able to help you establish an email account. <!-- SOURCE NEEDED -->
+You can also borrow a Wi-Fi hotspot from the library. <!-- Source: https://catalog.slolibrary.org/Record/143205?searchId=16314408&recordIndex=1&page=1&referred=resultIndex -->
 
-The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) has computers you can use for job-search purposes.
-They can also help you establish a CalJOBS account and submit online job applications.
+The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) has computers you can use for job-search purposes. <!-- SOURCE NEEDED -->
+They can also help you establish a CalJOBS account and submit online job applications. <!-- SOURCE NEEDED -->
 
-The County of San Luis Obispo Information Technology Department provides free Wi-Fi access in all San Luis Obispo County government buildings.
+The County of San Luis Obispo Information Technology Department provides free Wi-Fi access in all San Luis Obispo County government buildings. <!-- Source: https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi -->
 
 Both the [**5Cities Homeless Coalition**](Directory.md#5CHC) office and the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offer computer and internet access to their clients. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
-[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) offers a Basic iPhone for Seniors class.
-
 [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) has two computers you can use on-site, and they offer free assistance and one-on-one tutoring sessions including specialized Android and iPad/iPhone workshops. <!-- Source: https://www.prcity.com/293/Senior-Services -->
-[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) also has a computer with internet access which is available to the public on a first come, first serve basis.
+[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) also has a computer with internet access which is available to the public on a first come, first serve basis. <!-- SOURCE NEEDED -->
 
 -----
 
