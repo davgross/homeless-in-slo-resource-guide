@@ -3815,10 +3815,10 @@ Their [ReadySLO.org](https://readyslo.org/) site includes the following sections
 1. [RecoverSLO.org](https://www.recoverslo.org/)—after an emergency, this page lists some ways to recover from it
 
 You can register to get local emergency alerts by text message on your phone at [AlertSLO](https://public.alertsense.com/SignUp/?RegionId=1317).
-You can choose which sorts of alerts you are interested in receiving (for example “Flood / Flash Flood” and “Fire”).
+You can choose which sorts of alerts you are interested in receiving (for example “Flood / Flash Flood” and “Fire”). <!-- Source: https://public.alertsense.com/SignUp/publicUser.aspx?RegionId=1317 -->
 
-The [**Red Cross**](Directory.md#Red-Cross) operates emergency shelters during major disasters.
-They usually have pet-friendly options.
+The [**Red Cross**](Directory.md#Red-Cross) operates emergency shelters during major disasters. <!-- SOURCE NEEDED -->
+They usually have pet-friendly options. <!-- SOURCE NEEDED -->
 
 ### <a id="fire-safety">Fire Safety in Camp</a>
 
@@ -3844,8 +3844,8 @@ To extinguish a fire thoroughly, soak it with water.
 Stir the ashes to expose any unburned material, and soak it again.
 The fire is not thoroughly extinguished until you can place your hand anywhere into the ashes without getting burned.
 
-Note that in SLO County it is not legal to have a campfire outside of a developed campground unless you have a valid [California Campfire Permit](https://www.ca.gov/departments/147/services/1239/).
-In many times and places in SLO County it is not legal to make a campfire whether you have such a permit or not.
+Note that in SLO County it is not legal to have a campfire outside of a developed campground unless you have a valid [California Campfire Permit](https://www.ca.gov/departments/147/services/1239/). <!-- SOURCE NEEDED -->
+In many times and places in SLO County it is not legal to make a campfire whether you have such a permit or not. <!-- SOURCE NEEDED -->
 
 ### <a id="extreme-cold-and-heat">Extreme Cold and Heat</a>
 
@@ -3865,14 +3865,14 @@ Warming centers typically open when temperatures are due to drop to 38°F or bel
 - [Reporting Government Misconduct](#reporting-misconduct)
 
 San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
-Nearly one in four homeless people in the United States lives in California.
-California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people.
-In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S.
-The city of San Luis Obispo is one of the top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have to afford to buy a home.
-10% of schoolchildren in SLO County are homeless.
+Nearly one in four homeless people in the United States lives in California. <!-- Source: "2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S." United States Department of Housing and Urban Development. December 2024. -->
+California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people. <!-- Source: "2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S." United States Department of Housing and Urban Development. December 2024. -->
+In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S. <!-- Source: "The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027", July 20, 2022, p. 5 -->
+The city of San Luis Obispo is one of the top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have to afford to buy a home. <!-- Source: Shibley, Emma K. (June 17, 2025), The income needed to buy a home in major U.S. cities, Consumer Affairs (Journal of Consumer Research) -->
+10% of schoolchildren in SLO County are homeless. <!-- SOURCE NEEDED -->
 
 Why are things especially difficult here?
-There are many reasons, but the most important one is “too few homes for the number of people who need them.”
+There are many reasons, but the most important one is “too few homes for the number of people who need them.” <!-- Source: Streeter, Jialu L. (May 2022). "Homelessness in California: Causes and policy considerations". Stanford Institute for Economic Policy Research Policy Brief. -->
 The reasons why that is a problem are complicated, but include government policies that reduce the availability of homes and make them more expensive, resource constraints, and high demand.
 
 | **External links** |
@@ -3885,13 +3885,13 @@ The reasons why that is a problem are complicated, but include government polici
 
 The [SLO County Homeless Services Division](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division) is in charge of implementing County policies to address homelessness.
 These policies include [*The San Luis Obispo Countywide Plan to Address Homelessness, 2022–2027*](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness).
-You can contact them at [SS_HomelessServices@co.slo.ca.us](mailto:ss_homelessservices@co.slo.ca.us).
+You can contact them at [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
 
 The Homeless Services Division is advised and overseen by the [Homeless Services Oversight Council (HSOC)](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council).
-This council welcomes people with current or past lived experience of homelessness to join it.
+This council welcomes people with current or past lived experience of homelessness to join it. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership -->
 You can apply for a seat on this council by completing [this form](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership/forms-documents/2024/hsoc-membership-application-form) and submitting it to [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
 
-The meetings of this council and its committees are open to the public, either in person, or via Zoom or phone.
+The meetings of this council and its committees are open to the public, either in person, or via Zoom or phone. <!-- SOURCE NEEDED -->
 Visit [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) for meeting schedules.
 
 Every two years, typically in January, a census of homeless people in the United States is attempted.
@@ -3899,8 +3899,8 @@ This is called the [“Point-in-Time Count”](https://www.slocounty.ca.gov/depa
 This helps the government estimate how many people are homeless, where homeless people are, and what their characteristics are.
 This in turn helps the government decide what policy responses to prioritize.
 You can read [the official report on SLO County’s 2024 Point-in-Time Count](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport).
-The Point-in-Time Count is conducted by volunteers.
-If you would like to help with the Count, email [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us) for details.
+The Point-in-Time Count is conducted in part by volunteers. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count -->
+If you would like to help with the Count, email [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us) or register at the [2026 Point-in-Time Count Volunteer Registration](https://forms.office.com/g/8vJ7PUm8yA) page.
 
 [SLOCo YIMBY](https://www.slocoyimby.org/) is a grassroots group that advocates for building more housing in SLO County, and for policy changes like legalizing multifamily housing, streamlining permitting, increasing affordable housing funding, and strengthening renter protections.
 They mobilize citizen action and outreach campaigns in support of those goals.
@@ -3923,7 +3923,7 @@ Your report is routed to the correct department where people can address your co
 | Grover Beach  | [Report an Issue](https://www.grover.org/652/Report-an-Issue) |
 | Morro Bay     | [CitySourced](https://www.morrobayca.gov/983/Service-Request) |
 | Paso Robles   | [SeeClickFix](https://seeclickfix.com/web_portal/mWPmZTZqbheqdCAtKircrZNq/issues/map) |
-| Pismo Beach   | [Pismo Pulse](https://iframe.publicstuff.com/#?client_id=1428#picker-top) |
+| Pismo Beach   | [Pismo Pulse](https://iframe.publicstuff.com/#?client_id=1428) <!-- Broken on 11 Dec 2025 --> |
 | SLO           | [AskSLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request) |
 
 Some cities have special contacts specifically for issues concerning homelessness.
@@ -3994,15 +3994,16 @@ For complaints about County Behavioral Health specifically, contact the [Patient
 ### <a id="totally-free-stuff">Totally Free</a>
 
 The [Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA) network is free to join (you must create an online account to participate).
-People in the network can announce when they have things that they no longer want and would like to give away, or can request items they are looking for.
-All items are cost-free.
+People in the network can announce when they have things that they no longer want and would like to give away, or can request items they are looking for. <!-- Source: https://www.freecycle.org/pages/about -->
+All items are cost-free. <!-- Source: https://www.freecycle.org/pages/about -->
 There are also “Buy Nothing” groups in the area that have a similar focus.
 The [Buy Nothing Project](https://buynothingproject.org/find-a-group) has an app you can use to connect with people nearby who have things to give away.
 You may have better luck searching Facebook for “Buy Nothing” plus the name of the town you are in.
 
 “Little Free Libraries” are boxes in public areas (for example adjacent to sidewalks) where people leave books they are giving away.
 Anyone is free to take books for their own use from Little Free Libraries.
-There is no check-out/check-in procedure. Just take what you want to read, or leave what you’re finished reading.
+There is no check-out/check-in procedure.
+Just take what you want to read, or leave what you’re finished reading.
 They are typically open 24-hours a day, every day.
 See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Directory for a list of dozens of them in SLO County.
 
@@ -4010,15 +4011,15 @@ See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Direc
 See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the Directory for a list of several in SLO County.
 
 The Shandon branch of [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has a tool-lending library.
-People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leaf blower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench.
-You must complete some extra forms and a liability waiver to use the tool lending library.
+People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leaf blower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench. <!-- SOURCE NEEDED -->
+You must complete some extra forms and a liability waiver to use the tool lending library. <!-- SOURCE NEEDED -->
 
 PG&E’s [Energy Savings Assistance (ESA) Program](https://www.pge.com/en/save-energy-and-money/energy-saving-programs/energy-savings-assistance-program.html) helps low-income households upgrade or repair water heaters, furnaces, lighting, and appliances for no cost.
 This can also improve energy efficiency, which will lower your utility bills.
 See their website for information on who is eligible and how to apply, or call [800-933-9555](tel:+1-800-933-9555).
 
 [**CAPSLO**](Directory.md#CAPSLO) can connect low-income households with providers of no-cost weatherization through their [Home and Energy Services](https://capslo.org/energy-services/) program.
-They can also connect seniors (aged 60+) with providers of no-cost minor home repairs through that program.
+They can also connect seniors (aged 60+) with providers of no-cost minor home repairs through that program. <!-- https://capslo.org/minor-home-repair/ -->
 Call their Energy Office for details.
 
 The [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus will pour you a free cup of coffee.
@@ -4034,11 +4035,11 @@ If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can 
 [**Habitat for Humanity ReStore**](Directory.md#Habitat-for-Humanity) sells recycled construction materials, building supplies, furniture, appliances, and home décor at low prices.
 
 [SLO MakerSpace](https://www.slomakerspace.com/) can give you access to a variety of tools–everything from basic hand tools to laser cutters and 3D printers.
-You can get a free “partner pass” membership through [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries).
-This allows you to access some tools during some operating hours.
-To access their full set of tools always, you may need to pay for a full membership.
-You will also need to attend a general orientation.
-Some advanced tools also require that you take tool-specific orientation classes before you can use them, and some of those cost money.
+You can get a free “partner pass” membership through [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries). <!-- Source: https://www.slomakerspace.com/get-making -->
+This allows you to access some tools during some operating hours. <!-- Source: https://www.slomakerspace.com/get-making -->
+To access their full set of tools always, you may need to pay for a full membership. <!-- Source: https://www.slomakerspace.com/get-making -->
+You will also need to attend a general orientation. <!-- Source: https://www.slomakerspace.com/get-making -->
+Some advanced tools also require that you take tool-specific orientation classes before you can use them, and some of those cost money. <!-- Source: https://www.slomakerspace.com/get-making -->
 
 -----
 
