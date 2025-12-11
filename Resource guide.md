@@ -1095,8 +1095,8 @@ To qualify, you must have a valid California driver’s license, a low income (f
 
 You can apply for this insurance online at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
 
-The [**Family Care Network**](Directory.md#Family-Care-Network) can help you pay for car repairs, payments, and gas if you’re broke.
-You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist.
+The [**Family Care Network**](Directory.md#Family-Care-Network) can help you pay for car repairs, payments, and gas if you’re broke. <!-- SOURCE NEEDED (issue #36) -->
+You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist. <!-- SOURCE NEEDED (issue #36) -->
 
 The [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap)’s “Consumer Assistance Program” can help you fix your car so that it satisfies California emissions standards. <!-- Source https://www.bar.ca.gov/cap -->
 This program will pay for up to $1,450 in necessary repairs at a STAR test-and-repair center for model year 1996 or newer vehicles, or up to $1,100 for 1976–1995 vehicles. <!-- Source: https://www.bar.ca.gov/cap/repair -->
@@ -3290,18 +3290,16 @@ Both the [**5Cities Homeless Coalition**](Directory.md#5CHC) office and the [**4
 
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) office has device charging stations for its clients. <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
-[**Shower the People**](Directory.md#Shower-the-People) has a device charging station available at the sites where it operates during operating hours.
+[**Shower the People**](Directory.md#Shower-the-People) has a device charging station available at the sites where it operates during operating hours. <!-- Source: personal knowledge -DG -->
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site with USB charging ports.
-There are also some electrical outlets you can use to charge devices.
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site with USB charging ports. <!-- SOURCE NEEDED -->
+There are also some electrical outlets you can use to charge devices. <!-- SOURCE NEEDED -->
 
-The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus has many charging outlets.
+The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus has many charging outlets. <!-- Source: I visited and saw them -DG -->
 
 [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has electrical outlets you can use to charge your mobile devices. <!-- Source: https://capslo.org/safe-parking/ -->
 
-<!-- needs research
-1. [**40 Prado Homeless Services Center**](Directory.md#40-Prado)
-   - What’s Available: Phone access for participants; call to inquire about device charging availability
+<!-- SOURCE NEEDED
 1. County Government Buildings
    - What’s Available: Public seating areas with electrical outlets in most county buildings
    - Access: During regular business hours; public areas only
@@ -3318,26 +3316,26 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 1. [Holiday Gifts for Children](#holiday-gifts-for-children)
 1. [Resources for Homeless Youth](#homeless-youth)
 
-[**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues.
+[**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues. <!-- Source: https://www.slohelpmegrow.org/services -->
 
-[**Family Care Network**](Directory.md#Family-Care-Network) serves families with children who are experiencing or at risk of homelessness, are impacted by unaddressed mental health challenges, or are involved with Child Welfare Services or the Justice System.
-Services include therapy and other mental health services, facilitating foster care and adoption, independent living skills, educational continuity,
-They also help families experiencing homelessness to move into safe housing (Family Care Network operates housing complexes for this purpose).
-They offer services in English and Spanish.
+[**Family Care Network**](Directory.md#Family-Care-Network) serves families with children who are experiencing or at risk of homelessness, are impacted by unaddressed mental health challenges, or are involved with Child Welfare Services or the Justice System. <!-- SOURCE NEEDED (issue #36) -->
+Services include therapy and other mental health services, facilitating foster care and adoption, independent living skills, educational continuity, <!-- SOURCE NEEDED (issue #36) -->
+They also help families experiencing homelessness to move into safe housing (Family Care Network operates housing complexes for this purpose). <!-- SOURCE NEEDED (issue #36) -->
+They offer services in English and Spanish. <!-- SOURCE NEEDED (issue #36) -->
 
-The [SLO Children’s Museum](https://www.slocm.org/) is full of interactive exhibits for children aged 2–10.
-If you are “housing insecure” you can get a free “City Play Pass” to the museum from [**CAPSLO**](Directory.md#CAPSLO).
-If you have a SNAP/EBT card, you can also get up to four admissions for $3 each.
-Open Th–M 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children’s Museum">1010 Nipomo St., SLO</a>.
-For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:info@slocm.org).
+The [SLO Children’s Museum](https://www.slocm.org/) is full of interactive exhibits for children aged 2–10. <!-- Source: https://www.slocm.org/visit -->
+If you are “housing insecure” you can get a free “City Play Pass” to the museum from [**CAPSLO**](Directory.md#CAPSLO). <!-- Source: https://www.slocm.org/ -->
+If you have a SNAP/EBT card, you can also get up to four admissions for $3 each. <!-- Source: https://www.slocm.org/visit -->
+Open Th–M 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children’s Museum">1010 Nipomo St., SLO</a>. <!-- Source: https://www.slocm.org/ -->
+For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:info@slocm.org). <!-- Source: https://www.slocm.org/ -->
 
 [**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) operates a [toy lending library](https://capslo.org/toylendinglibrary/).
 
-[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it.
+[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/ProgramOverview.aspx -->
 
-[**Martha’s Place Children’s Center**](Directory.md#Marthas-Place-Childrens-Center) helps children ages 0–5 who have (or may have) behavioral or mental health issues or who were exposed to alcohol or other intoxicants while in the womb.
-It provides screening, assessment, referral, and treatment.
-These services are free to people with Medi-Cal/CenCal coverage, and available on a sliding feed schedule otherwise.
+[**Martha’s Place Children’s Center**](Directory.md#Marthas-Place-Childrens-Center) helps children ages 0–5 who have (or may have) behavioral or mental health issues or who were exposed to alcohol or other intoxicants while in the womb. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
+It provides screening, assessment, referral, and treatment. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
+These services are free to people with Medi-Cal/CenCal coverage, and available on a sliding feed schedule otherwise. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 
 > See [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic) in the [Food Resources](#food) section of this guide for information about the Women, Infants, and Children (WIC) program.
 
@@ -3349,16 +3347,16 @@ These services are free to people with Medi-Cal/CenCal coverage, and available o
 
 > See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
 
-[**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs.
+[**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs. <!-- Source: https://sloparents.org/ -->
 
-[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers [Parent Participation classes](https://ae.slcusd.org/parent-part) that teach useful parenting skills to people with children up to the age of five (you attend the class with your child).
-Classes are held in San Luis Obispo and Morro Bay.
-Scholarships that cover part of the class fees are available to people with low incomes or special circumstances.
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers [Parent Participation classes](https://ae.slcusd.org/parent-part) that teach useful parenting skills to people with children up to the age of five (you attend the class with your child). <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
+Classes are held in San Luis Obispo and Morro Bay. <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
+Scholarships that cover part of the class fees are available to people with low incomes or special circumstances. <!-- SOURCE NEEDED -->
 
 The free [Triple P Fear Less Class](https://www.t-mha.org/workshop-details.php?id=80) offered by [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) helps parents and caregivers of children (ages 6–14) who experience anxiety to foster confident and healthy children, cultivate strong family relationships, and effectively address misbehavior.
 
-[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) has a “baby bank” from which you can get free maternity and breastfeeding supplies, diapers, baby wipes, formula, safe sleep equipment, child car seats, books, and toys.
-(Car seat installation by appointment only.)
+[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) has a “baby bank” from which you can get free maternity and breastfeeding supplies, diapers, baby wipes, formula, safe sleep equipment, child car seats, books, and toys. <!-- Source: https://www.ppsslo.org/practical-assistance -->
+(Car seat installation by appointment only.) <!-- Source: https://www.ppsslo.org/practical-assistance -->
 
 > See the [Peer Support Groups: Pregnancy and Parenthood](#parenthood-peer-support) section for information about a variety of support groups for new parents and pregnant people.
 
@@ -3367,36 +3365,36 @@ The free [Triple P Fear Less Class](https://www.t-mha.org/workshop-details.php?i
 ### <a id="daycare">Daycare, Preschool, and After-School Programs</a>
 
 [**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) connects SLO County families with child care centers, licensed family child care homes, and after-school programs.
-They can provide child care payment assistance for income-eligible families.
-If you are in the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs), you can apply for child care from this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services).
-Otherwise [complete an online application](https://app.mycareconnect.io/carewait/capslo) or call [888-727-2272](tel:+1-888-727-2272) to begin the process of applying through the California Alternative Payment Program.
-This program may have a waiting list.
+They can provide child care payment assistance for income-eligible families. <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
+If you are in the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs), you can apply for child care from this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
+Otherwise [complete an online application](https://app.mycareconnect.io/carewait/capslo) or call [888-727-2272](tel:+1-888-727-2272) to begin the process of applying through the California Alternative Payment Program. <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
+This program may have a waiting list. <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
 
 [**CAPSLO**](Directory.md#CAPSLO) operates [Head Start and Early Head Start programs](https://capslo.org/head-start-and-early-head-start/) for children during their first five years of life.
-The programs aim to help children gain school readiness skills, confidence, and self-esteem.
-Head Start child care centers also serve children three free meals a day.
+The programs aim to help children gain school readiness skills, confidence, and self-esteem. <!-- Source: https://capslo.org/head-start-and-early-head-start/ -->
+Head Start child care centers also serve children three free meals a day. <!-- Source: https://capslo.org/head-start-and-early-head-start/ -->
 These programs operate in [several locations in SLO County](https://capslo.org/eecc/).
 To enroll your child in these programs, find a service provider that is convenient to you and appropriate for the child’s age and then [apply for the waitlist](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
 For more information, including eligibility requirements, contact [childcare@capslo.org](mailto:childcare@capslo.org) or [888-315-6741](tel:+1-888-315-6741).
 
-There is also a “Migrant and Seasonal Head Start” program designed specifically for the children of migrant farm workers.
+There is also a “Migrant and Seasonal Head Start” program designed specifically for the children of migrant farm workers. <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
 You can apply for that program by completing [the form on this page](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
-For more information, contact [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) or [888-633-6747](tel:+1-888-633-6747).
+For more information, contact [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) or [888-633-6747](tel:+1-888-633-6747). <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
 
-[Bright Futures](http://luciamarschools.org/251185_2) is a program in the Lucia Mar Unified School District that gives K-8 students a safe before- and after-school environment including academic support and enrichment classes, as well as a free supper.
-There are limited spaces available, and sometimes there is a waiting list.
-Priority is given to foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services.
+[Bright Futures](http://luciamarschools.org/251185_2) is a program in the Lucia Mar Unified School District that gives K-8 students a safe before- and after-school environment including academic support and enrichment classes, as well as a free supper. <!-- Source: https://www.luciamarschools.org/251185_2 -->
+There are limited spaces available, and sometimes there is a waiting list. <!-- SOURCE NEEDED -->
+Priority is given to foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services. <!-- SOURCE NEEDED -->
 You can apply to enroll your child in this program at the [Bright Futures](http://luciamarschools.org/251185_2) website.
 
-The [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) operates several programs including childcare for children aged 2–5 that includes early-childhood education, therapy and rehabilitation for children who need it, meals (breakfast, lunch, and an afternoon snack), and family events.
-They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse.
+The [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) operates several programs including childcare for children aged 2–5 that includes early-childhood education, therapy and rehabilitation for children who need it, meals (breakfast, lunch, and an afternoon snack), and family events. <!-- Source: https://www.childrensresource.org/curriculum and https://www.childrensresource.org/therapy and https://www.childrensresource.org/classrooms and https://www.childrensresource.org/food-program and https://www.childrensresource.org/other -->
+They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse. <!-- SOURCE NEEDED -->
 To apply for the childcare program, complete and submit [an application](https://www.childrensresource.org/regristration).
-There may be a waiting list.
-Tuition is a sliding-scale fee based on income, and financial aid is available.
+There may be a waiting list. <!-- Source: https://www.childrensresource.org/regristration -->
+Tuition is a sliding-scale fee based on income, and financial aid is available. <!-- Source: https://www.childrensresource.org/regristration -->
 
-Boys & Girls Clubs offer free, out-of-school enrichment programs for schoolchildren during the week: after school and during school breaks like summer vacation.
-There is an annual membership fee and also fees per child per day, but Boys & Girls Clubs are committed to ensuring that cost is not a barrier to participation.
-Ask them about scholarships and subsidies.
+Boys & Girls Clubs offer out-of-school enrichment programs for schoolchildren during the week: after school and during school breaks like summer vacation. <!-- SOURCE NEEDED -->
+There is an annual membership fee and also fees per child per day, but Boys & Girls Clubs are committed to ensuring that cost is not a barrier to participation. <!-- SOURCE NEEDED -->
+Ask them about scholarships and subsidies. <!-- SOURCE NEEDED -->
 There are two Boys & Girls Clubs chapters in SLO County:
 
 - [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/) which covers Grover Beach, Oceano, Pismo Beach, and Shell Beach ([myclubhub@bgcslo.org](mailto:myclubhub@bgcslo.org), [805-481-7339](tel:+1-805-481-7339))
@@ -3405,10 +3403,10 @@ There are two Boys & Girls Clubs chapters in SLO County:
 Students of [**Cuesta College**](Directory.md#Cuesta-College) who qualify for [Extended Opportunity Programs and Services](https://www.cuesta.edu/student-support/support-programs/eops/) and who are single heads-of-households can get help paying for child care services from [Cooperative Agencies Resources for Education (CARE)](https://www.cuesta.edu/student-support/support-programs/eops/care.html).
 Contact [cafecenters@cuesta.edu](mailto:cafecenters@cuesta.edu) or [805-546-3144](tel:+1-805-546-3144) to learn how to apply.
 
-[**SLO County YMCA**](Directory.md#SLO-County-YMCA) offers [one hour of childcare](https://www.ciymca.org/child-watch) to members while they are exercising at the facility.
-You must reserve this in advance.
+[**SLO County YMCA**](Directory.md#SLO-County-YMCA) offers [one hour of childcare](https://www.ciymca.org/child-watch) to members while they are exercising at the facility. <!-- https://status.ciymca.org/ -->
+You must reserve this at least one hour in advance. <!-- https://www.ciymca.org/childwatch-schedule#/results?locations=932&start_date=2025-12-10&page=1&sort=start_datetime:asc -->
 They also operate [summer camps](https://www.ciymca.org/summer-camp) for children and teens.
-They also operate before- and after-school care, and programs during school holidays and breaks, featuring homework help, enriching activities, and healthy snacks.
+They also operate before- and after-school care, and programs during school holidays and breaks, featuring homework help, enriching activities, and healthy snacks. <!-- Source: https://www.ciymca.org/school-age-care and https://www.ciymca.org/childcare-sites -->
 There is sometimes a wait list to apply for these [School Age Care](https://channel.recliquecore.com/programs/21393244/san-luis-obispo-school-age-care/) and [School’s Out Care](https://channel.recliquecore.com/programs/1291/school-s-out-care/?locations=140) programs.
 They occasionally offer [Kid’s Night Out](https://channel.recliquecore.com/programs/1269/kid-s-night-out/?locations=140) evening childcare programs too.
 [Financial assistance](https://www.ciymca.org/financial-assistance) is available to ensure that you can afford these programs.
@@ -3426,22 +3424,21 @@ You may need to upload documents such as the children’s birth certificates to 
 [**Salvation Army**](Directory.md#Salvation-Army) operates the “Angel Tree” program which provides free Christmas gifts for children.
 Register at [this web page](https://www.saangeltree.org/).
 
-The [Toy Bank of Greater Paso Robles](https://www.prtoybank.org/) gives toys and coats to families with children aged 0–12 years who live in Paso Robles, San Miguel, Shandon, Bradley and Heritage Ranch and who have a household income blow the federal poverty line, or are unemployed, receiving Medi-Cal, receiving SNAP/EBT, or homeless.
+The [Toy Bank of Greater Paso Robles](https://www.prtoybank.org/) gives toys and coats to families with children aged 0–12 years who live in Paso Robles, San Miguel, Shandon, Bradley and Heritage Ranch and who have a household income blow the federal poverty line, or are unemployed, receiving Medi-Cal, receiving SNAP/EBT, or homeless. <!-- Source: https://www.prtoybank.org/general-5 -->
 To receive gifts from the program, register in November at [this web page](https://www.prtoybank.org/copy-of-family-registration).
-For questions, contact [805-369-9816](tel:+1-805-369-9816) or [registration@prtoybank.org](mailto:registration@prtoybank.org).
+For questions, contact [805-369-9816](tel:+1-805-369-9816) or [registration@prtoybank.org](mailto:registration@prtoybank.org). <!-- Source: https://www.prtoybank.org/general-5 -->
 
 Toys for Tots gives toys to children during the holidays.
 They operate in [Atascadero/Santa Margarita/Templeton/Pozo/Creston/California Valley](https://atascadero-ca.toysfortots.org/).
 Register for toys for your children [at this web page](https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx).
-You must select and collect the toys in person (but without your children) at their distribution site.
-For more information, contact [805-391-4430](tel:+1-805-391-4430) or [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org).
+You must select and collect the toys in person (but without your children) at their distribution site. <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx -->
+For more information, contact [805-391-4430](tel:+1-805-391-4430) or [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org). <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
 
 Toys for Tots also operates in [Cambria/San Simeon](https://cambria-ca.toysfortots.org/).
-Register for toys for your children [at this web page](https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx) unless your child attends Cambria Grammar School (in which case, apply through the School Family Advocate instead).
-For more information, contact [805-927-1876](tel:+1-805-927-1876) or [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org).
+For more information, contact [805-927-1876](tel:+1-805-927-1876) or [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). <!-- Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
 
-Some people who are imprisoned at the SLO County Jail’s “Honor Farm” refurbish children’s bicycles so they can be given away as gifts during the holiday season.
-To apply for a free bicycle for your child, contact your child’s elementary or middle school resource officer.
+Some people who are imprisoned at the SLO County Jail’s “Honor Farm” refurbish children’s bicycles so they can be given away as gifts during the holiday season. <!-- SOURCE NEEDED -->
+To apply for a free bicycle for your child, contact your child’s elementary or middle school resource officer. <!-- SOURCE NEEDED -->
 
 > See the [(Mostly) Free Stuff](#miscellaneous-free-items) section of this guide for more possible gift ideas.
 
@@ -3459,12 +3456,12 @@ SLO County youth (ages 21 or below, or current or former foster youth up to age 
 - They have significant behavioral health needs.
 - They experience frequent hospitalization.
 
-Enhanced Care Management teams you up with a professional who can help you find medical providers, make appointments, arrange transportation to appointments, and meet other healthcare needs.
-To apply for Enhanced Care Management, contact [**CenCal Health**](Directory.md#CenCal) who can help you with the process, or contact Seneca Central Coast directly.
+Enhanced Care Management teams you up with a professional who can help you find medical providers, make appointments, arrange transportation to appointments, and meet other healthcare needs. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
+To apply for Enhanced Care Management, contact [**CenCal Health**](Directory.md#CenCal) who can help you with the process, or contact Seneca Central Coast directly. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
 
 [**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) has a [Teen Center](https://www.atascadero.org/service/teen-center), open weekday afternoons until 6pm, with air hockey, pool, ping pong, PS5, movies, board games, dodgeball, and basketball.
-Membership is $20/year.
-Atascadero Recreation also has organized sports programs, classes, and camps.
+Membership is $20/year. <!-- Source: https://www.atascadero.org/service/teen-center -->
+Atascadero Recreation also has organized sports programs, classes, and camps. <!-- Source: https://www.atascadero.org/service/recreation-guide -->
 There is a Youth Activity Scholarship Fund that can pay for up to $250 per child in registration fees for qualifying children in the Atascadero School District ([details here](https://www.atascadero.org/sites/default/files/Scholarship%20application%20English%20%28fiscal%20year%202025-2026%29.pdf))
 
 [**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) has a free [Teen Center](https://www.prcity.com/1177/Teen-Center), open weekday afternoons until 5pm, with video games, music, a pool table, a gym, and a small cafe.
@@ -3484,7 +3481,7 @@ They have a [limited fee reduction program](https://www.slocity.org/home/showpub
 
 #### Educational Continuity (McKinney-Vento Act)
 
-Federal law (the McKinney-Vento Homeless Assistance Act) protects homeless students in elementary through high school in several ways:
+Federal law (the McKinney-Vento Homeless Assistance Act) protects homeless students in elementary through high school in several ways: <!-- Source: https://nche.ed.gov/legislation/mckinney-vento/ -->
 
 1. You have the right to enroll in school even if you currently lack documents such as proof of residency, immunization records, or birth certificates.
 1. You have the right to attend the same school you were enrolled in when you were last housed, even if you have since lost your home.
@@ -3492,7 +3489,7 @@ Federal law (the McKinney-Vento Homeless Assistance Act) protects homeless stude
 1. You have the right to the same educational services as non-homeless students.
 1. If you are an unaccompanied homeless youth, you have the right to enroll in school without the consent of your parent or guardian.
 
-Homelessness, as the McKinney-Vento Act defines it, also includes situations when you are living at someone else’s house, living in a motel or campground, living in a vehicle, living in a shelter, or squatting in an abandoned building.
+Homelessness, as the McKinney-Vento Act defines it, also includes situations when you are couch surfing, living in a motel or campground, living in a vehicle, living in a shelter, or squatting in an abandoned building. <!-- Source: https://nche.ed.gov/mckinney-vento-definition/ -->
 
 Every school district has a McKinney-Vento liaison whom you can go to if you need help defending these rights.
 You can find [a list of these liaisons and their contact information](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) at the SLO County Office of Education website.
@@ -3557,7 +3554,7 @@ There are also support groups for people recently diagnosed, and for people suff
 To register for a group, call [800-272-3900](tel:+1-800-272-3900).
 
 **Amyotrophic lateral sclerosis (ALS):** An ALS support group meets monthly via Zoom.
-To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878).
+To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/ -->
 
 **Cancer:** [Cancer Support Community](https://cscslo.org/) offers a variety of no-cost services for people with cancer, including health education and exercise classes, as well as several support groups, some of which meet in Templeton, some online.
 
@@ -3602,13 +3599,13 @@ Several SLO County churches host [GriefShare support groups](https://griefshare.
 > See [12-Step and Similar Recovery Programs](#twelve-step) in the [Drug Use, Recovery, and Harm Reduction](#drug-use-and-recovery) section above for support groups for people recovering from drug addictions.
 
 [Al-Anon](https://al-anon.org/al-anon-meetings/) has support groups for family members of alcoholics that meet online and in Arroyo Grande, Atascadero, Cambria, Cayucos, Grover Beach, Morro Bay, Nipomo, Paso Robles, Pismo Beach, and SLO.
-There is also an [Alateen](https://al-anon.org/newcomers/teen-corner-alateen/) meeting in Grover Beach specifically for teen-aged family members of alcoholics.
+There is also an [Alateen](https://al-anon.org/newcomers/teen-corner-alateen/) meeting in Grover Beach specifically for teen-aged family members of alcoholics. <!-- Source: https://al-anon.org/al-anon-meetings/find-an-alateen-meeting/ -->
 
 [Nar-Anon](https://www.naranoncentralca.org/) has in-person weekly meetings for family members of people addicted to drugs that meet in Atascadero as well as several online meetings.
 There are also [Narateen](https://www.nar-anon.org/find-a-narateen-meeting) online weekly meetings specifically for teen-aged family members of addicts.
 
-An eating disorder support group meets on Wednesdays from 7–8pm at [**GALA Pride & Diversity Center**](Directory.md#GALA) in SLO city and by Zoom.
-Contact [libby@notyouraveragenutritionist.com](mailto:libby@notyouraveragenutritionist.com) for more information.
+An eating disorder support group meets by Zoom on Wednesdays from 7–8pm. <!-- Source: https://galacc.org/events/#calendar -->
+Contact [libby@thebroadwaydietitian.com](mailto:libby@thebroadwaydietitian.com) for more information. <!-- Source: https://galacc.org/events/#calendar -->
 
 [Overeaters Anonymous](https://oa.org/) holds weekly meetings in Arroyo Grande, Morro Bay, and SLO.
 
@@ -3661,7 +3658,8 @@ The “Vita Fitness Courses” in Meadow Park (<a href="#" class="map-link" data
 <!-- I couldn’t find anything like this outside of SLO city limits -->
 
 The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (online and in person), aqua fitness classes, swim lessons, and more.
-Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
+<!-- Sources: https://www.ciymca.org/san-luis-obispo-group-exercise-schedule#/results and https://www.ciymca.org/active-older-adults and https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center/swim-classes-events -->
+Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.” <!-- Source: https://www.ciymca.org/financial-assistance -->
 Ask them about options for people with low incomes.
 
 [**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) offers low-cost BarreConnect, fitness, somatic breathwork, Pilates, Tai Chi, yoga, and Zumba classes.
@@ -3677,7 +3675,7 @@ They typically cost money, but there is [a scholarship program](https://www.prci
 
 The [DAREBEE](https://darebee.com/workouts/) website has more than 2,500 free, illustrated workout guides, most of which do not require any special equipment.
 
-Some local yoga studios offer occasional “community yoga” classes that are free or on a donation or sliding-scale basis.
+Some local yoga studios offer occasional “community yoga” classes that are free or on a donation or sliding-scale basis. <!-- Source: e.g. https://thecenterslo.com/schedule Wednesdays at 5:45pm -->
 
 #### Fitness For Seniors
 
@@ -3694,13 +3692,13 @@ Some local yoga studios offer occasional “community yoga” classes that are f
 [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) offers yoga, balance and strength classes, flexercise, arthritis exercise, and brain fitness classes.
 
 [**SLO Senior Center**](Directory.md#SLO-Senior-Center) leads “SLO Hikers & Walkers” hikes of local trails and strolls through downtown, designed for people age 55 and older.
-See the [Hikers & Walkers](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming hikes and walks.
+See the [SLO Hikers & Walkers](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming hikes and walks.
 They also host low-cost yoga classes (the first class is free), a free chair exercise class, and a free strength &amp; balance class, all for people age 55 and older.
 
 ### <a id="recreation-and-socializing">Recreation and Socializing</a>
 
-SLO City has a free, public skate park, open daily 7am–10pm, at <a href="#" class="map-link" data-lat="35.290166" data-lon="-120.664167" data-zoom="17" data-label="Santa Rosa Park">Santa Rosa Park</a>.
-You must wear a helmet and elbow & knee pads to use the skate park.
+SLO City has a free, public skate park, open daily 7am–10pm, at <a href="#" class="map-link" data-lat="35.290166" data-lon="-120.664167" data-zoom="17" data-label="Santa Rosa Park">Santa Rosa Park</a>. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-skate-park/skate-park-faqs -->
+You must wear a helmet and elbow & knee pads to use the skate park. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-skate-park/skate-park-faqs -->
 
 The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) runs a local basketball league and organizes pick-up game hours.
 
@@ -3720,29 +3718,30 @@ They also offer classes in arts & crafts
 [**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) offers many classes and activities including karate, pickleball, line dancing, crafting, dog training, and first aid.
 They typically cost money, but there is [a scholarship program](https://www.prcity.com/1193/Scholarships) for people with low incomes.
 
-[**Pismo Beach Recreation Division**](Directory.md#Pismo-Beach-Recreation-Division) has two beach wheelchairs available to the public to be borrowed for four hours at a time at no charge.
-Call [805-773-2422](tel:+1-805-773-2422) for details.
+[**Pismo Beach Recreation Division**](Directory.md#Pismo-Beach-Recreation-Division) has two beach wheelchairs available to the public to be borrowed for four hours at a time at no charge. <!-- Source: https://www.pismobeach.org/411/Beach-Wheel-Chairs -->
+Call [805-773-2422](tel:+1-805-773-2422) for details. <!-- Source: https://www.pismobeach.org/411/Beach-Wheel-Chairs -->
 
-There are [five major disc golf courses](https://slothrowers.com/slo-courses/) in SLO County.
+There are [three major disc golf courses](https://slothrowers.com/slo-courses/) in SLO County and several other smaller ones.
 
 The SLO city bicycling community operates several free events, such as bike-in movie nights, group rides, and free bike breakfasts, many of which take place during [“Bike Month”](https://rideshare.org/program/bike-month/) (lately, May).
-The first Thursday of every month, soon after SLO’s downtown farmers’ market, is the “Bike Happening” in which dozens to hundreds of bicyclists do circuits around downtown, hooting and hollering.
+The first Thursday of every month, soon after SLO’s downtown farmers’ market, is the “Bike Happening” in which dozens to hundreds of bicyclists do circuits around downtown, hooting and hollering. <!-- Source: been there, done that -DG -->
 
 The [Bay Osos Folk Dancers](https://bayososfolkdancers.weebly.com/) club meets on Tuesdays from 11am–3pm at the [**South Bay Community Center**](Directory.md#South-Bay-Community-Center) to learn and practice folk and line dances.
-Donations are requested to cover costs.
+Donations are requested to cover costs. <!-- Source: https://bayososfolkdancers.weebly.com/ -->
 
 #### Recreation and Socializing For Seniors
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers classes, board and card games, arts & crafts sessions, discussion groups, movies, walking groups.
-Most are free for members ($20 annual dues), and $2 for non-members.
-They also have a lending library of games and puzzles.
+Most are free for members ($20 annual dues), and $2 for non-members. <!-- Source: https://atascaderoseniorcenter.org/activities -->
+They also have a lending library of games and puzzles. <!-- Source: https://atascaderoseniorcenter.org/faq -->
 
 [**Central Coast Senior Center (Oceano)**](Directory.md#Central-Coast-Senior-Center) hosts games, a ukulele group, line dancing, and bingo.
 
 [**Morro Bay Senior Citizens**](Directory.md#Morro-Bay-Senior-Center) hosts bingo, bocce, bridge, chess, dance, drawing & watercolor, ping-pong, pool and billiards, hand & foot cards, and special-interest classes.
 
-There are pickleball courts in <a href="#" class="map-link" data-lat="35.398611" data-lon="-120.858761" data-zoom="17" data-label="Del Mar Park">Del Mark Park in Morro Bay</a>, open to all from 8am–Noon and open by reservation (for a fee through the Morro Bay Recreation Department) in the afternoons.
-Free lessons are available (balls and paddles provided) on Saturdays from 8:30–9:00am.
+There are pickleball courts in <a href="#" class="map-link" data-lat="35.398611" data-lon="-120.858761" data-zoom="17" data-label="Del Mar Park">Del Mar Park in Morro Bay</a>, open to all from 8am–Noon and open by reservation (for a fee through [**Morro Bay Parks & Recreation Department**](Directory.md#Morro-Bay-Parks-and-Recreation)) in the afternoons. <!-- Source: https://morrobayseniors.org/pickleball/ -->
+You can borrow [a set of pickleball balls and paddles](https://catalog.slolibrary.org/GroupedWork/e3d16ba9-5c54-db6e-c3c5-30cb0ceb24d8-eng/Home) from [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)).
+Lessons are available ($2 donation requested, balls and paddles provided) on Saturdays from 8:30–9:00am. <!-- Source: https://www.morrobayca.gov/679/Tennis-Opportunities -->
 
 [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) hosts bingo, canasta, a potluck, and has free coffee daily.
 
@@ -3750,54 +3749,54 @@ Free lessons are available (balls and paddles provided) on Saturdays from 8:30�
 
 [**SLO Senior Center**](Directory.md#SLO-Senior-Center) operates free “Around the Town” tours of local places of interest for people age 55 and older.
 See the [Around the Town](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming tours and instructions on how to register.
-They also host bingo, bridge, mahjong, Mexican train dominoes, pinochle, and other activities at various times during the week (some of these are free, some cost a few dollars).
+They also host bingo, bridge, mahjong, Mexican train dominoes, pinochle, and other activities at various times during the week (some of these are free, some cost a few dollars). <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
 
 -----
 
 ## <a id="pet-care-and-pet-supplies">Pet Care and Pet Supplies</a>
 
-[**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) operates the only open-intake animal shelter in SLO County.
-Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs.
+[**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) operates the only open-intake animal shelter in SLO County. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
+Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
 They have an [online registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray) and you can use a web interface to [report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405).
-You can call [805-781-4407](tel:+1-805-781-4407) to listen to a found animal recording that describes recently-found animals that are being held at the pound.
+You can call [805-781-4407](tel:+1-805-781-4407) to listen to a found animal recording that describes recently-found animals that are being held at the pound. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
 
-[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) conducts regular free pet food distributions in Grover Beach and Oceano.
-You can also call their emergency pet care phone line to arrange for emergency veterinary treatment.
+[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) conducts regular free pet food distributions in Grover Beach and Oceano. <!-- SOURCE NEEDED (issue #81) -->
+You can also call their emergency pet care phone line to arrange for emergency veterinary treatment. <!-- SOURCE NEEDED (issue #81) -->
 
 [**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws), in partnership with “The Street Dog Coalition,” operates mobile pet wellness clinics in Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano, as well as several sites in Santa Barbara County.
-These provide vaccines, spay/neuter service, health exams, medical care, and pet food assistance.
-They specialize in care for pets of homeless people.
+These provide vaccines, spay/neuter service, health exams, medical care, and pet food assistance. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
+They specialize in care for pets of homeless people. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
 They also operate the “Pet Refuge” program, which can temporarily board pets for people whose housing situation has become unstable or who are temporarily unable to care for their pets. <!-- This is new: https://www.newtimesslo.com/c-a-r-e-4paws-will-offer-boarding-for-pets-living-with-struggling-families/ -->
 
 [**Woods Humane Society**](Directory.md#Woods-Humane-Society) has a [Pet Pantry](https://woodshumanesociety.org/pet-pantry/) for pet owners facing challenges and offers financial assistance for spay/neuter procedures.
-They can also help you find lost pets and can find new homes for pets when their owners can no longer take care of them.
-Some services are by-appointment only.
+They can also help you find lost pets and can find new homes for pets when their owners can no longer take care of them. <!-- https://woodshumanesociety.org/resources/lost-pet-help/ and https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
+Some services are by-appointment only. <!-- Source: e.g. https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
 
 [**North County Paws Cause**](Directory.md#North-County-Paws-Cause) can help people in northern SLO County who need help caring for their cats while they are homeless or transitioning into new housing.
 
-[**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) is a national organization that focuses on feeding and providing veterinary care to pets of people experiencing homelessness.
-If your pet needs veterinary care, call them to arrange an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic.
-There is no charge to the pet owner, but donations are appreciated.
+[**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) is a national organization that focuses on feeding and providing veterinary care to pets of people experiencing homelessness. <!-- Source: https://petsofthehomeless.org/ -->
+If your pet needs veterinary care, call them to arrange an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic. <!-- SOURCE NEEDED -->
+There is no charge to the pet owner, but donations are appreciated. <!-- SOURCE NEEDED -->
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests).
-Pets must have documentation of rabies vaccinations.
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Pets must have documentation of rabies vaccinations. <!-- SOURCE NEEDED -->
 
 [**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
-They happen 3–4 times per quarter at various locations around SLO County, often coordinating with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People).
+They typically happen 3–4 times per academic quarter at various locations around SLO County, often in coordination with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People).
 
-[**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have only limited funds.
+[**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have only limited funds. <!-- TBD: Need info on how to apply to this program (issue #82) -->
 
 [**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) helps seniors, people with disabilities, terminal illnesses, and individuals on fixed incomes to pay for medical treatments for their pets.
 
-[The Pet Fund](https://www.thepetfund.com/) is a national organization that provides financial assistance to pet owners who need non-emergency veterinary care but lack sufficient funds.
+[The Pet Fund](https://www.thepetfund.com/) is a national organization that provides financial assistance to pet owners who need non-emergency veterinary care but lack sufficient funds. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
 Submit an [application](https://www.thepetfund.com/for-pet-owners/the-pet-fund-application) at their website.
-You must document your financial need and provide veterinary care estimates.
+You must document your financial need and provide veterinary care estimates. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
 
-[**Red Rover Relief**](Directory.md#Red-Rover-Relief) provides one-time urgent care grants of up to $1,000 to pay for pet medical emergencies.
-This is only for people in the U.S. with income under $60,000 per year.
-You must make a fundraising effort first before you contact Red Rover Relief.
-You must supply a current veterinary diagnosis and treatment plan.
-Grants do not cover exams or testing.
+[**Red Rover Relief**](Directory.md#Red-Rover-Relief) provides one-time urgent care grants of up to $1,000 to pay for pet medical emergencies. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+This is only for people in the U.S. with income under $60,000 per year. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+You must make a fundraising effort first before you contact Red Rover Relief. <!-- SOURCE NEEDED -->
+You must supply a current veterinary diagnosis and treatment plan. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+Grants do not cover exams or testing. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 
 -----
 

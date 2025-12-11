@@ -2345,15 +2345,13 @@ If you see one listed here that is no longer in service, please use the feedback
    - Mondays: 4:30pm (doors open for pantry shopping, free clothes, towels, toiletries) <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
    - Dinner service: 5:30–6:30pm <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
 
-<!-- Not yet referenced anywhere
 ## <a id="Morro-Bay-Parks-and-Recreation">Morro Bay Parks & Recreation</a>
 
 - **Website:** [morrobayca.gov/292/Recreation-Services](https://www.morrobayca.gov/292/Recreation-Services)
-- **Location:** Morro Bay Community Center, <a href="#" class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Parks and Recreation">1001 Kennedy Way, Morro Bay</a> { Source: https://www.morrobayca.gov/292/Recreation-Services }
-- **Phone:** [805-772-6278](tel:+1-805-772-6278) { Source: https://www.morrobayca.gov/292/Recreation-Services }
-- **Email:** [kcarmichael@morrobayca.gov](mailto:kcarmichael@morrobayca.gov) { Source: https://www.morrobayca.gov/292/Recreation-Services }
+- **Location:** Morro Bay Community Center, <a href="#" class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Parks and Recreation">1001 Kennedy Way, Morro Bay</a> <!-- Source: https://www.morrobayca.gov/292/Recreation-Services -->
+- **Phone:** [805-772-6278](tel:+1-805-772-6278) <!-- Source: https://www.morrobayca.gov/292/Recreation-Services -->
+- **Email:** [kcarmichael@morrobayca.gov](mailto:kcarmichael@morrobayca.gov) <!-- Source: https://www.morrobayca.gov/292/Recreation-Services -->
 - **Hours:** M–F 8:30am–5pm (registration)
--->
 
 ## <a id="Morro-Bay-Senior-Center">Morro Bay Senior Citizens</a>
 

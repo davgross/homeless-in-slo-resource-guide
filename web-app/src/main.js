@@ -8,6 +8,8 @@ import { initShareButton, createSectionShareButton } from './shareButton.js';
 import { initFontSizeControl } from './fontSizeControl.js';
 import { initInstallPrompt } from './installPrompt.js';
 import { getStrings } from './strings.js';
+import { initI18n } from './i18nInit.js';
+import { initLanguageSwitcher } from './languageSwitcher.js';
 
 // Import markdown files directly as raw text
 import resourcesMarkdown from '../../Resource guide.md?raw';
@@ -81,6 +83,9 @@ window.appState = state;
 
 // Initialize the app
 async function init() {
+  // Initialize i18n first (sets all text content based on selected language)
+  initI18n();
+
   // Critical setup needed for initial render
   setupNavigation();
   setupSearch();
@@ -139,6 +144,9 @@ function loadFontSizePreference() {
  * Initialize non-critical features after content is displayed
  */
 function deferNonCriticalInit() {
+  // Initialize language switcher
+  initLanguageSwitcher();
+
   // Initialize feedback system
   initFeedback();
 
