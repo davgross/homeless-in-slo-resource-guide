@@ -3755,48 +3755,48 @@ They also host bingo, bridge, mahjong, Mexican train dominoes, pinochle, and oth
 
 ## <a id="pet-care-and-pet-supplies">Pet Care and Pet Supplies</a>
 
-[**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) operates the only open-intake animal shelter in SLO County.
-Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs.
+[**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) operates the only open-intake animal shelter in SLO County. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
+Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
 They have an [online registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray) and you can use a web interface to [report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405).
-You can call [805-781-4407](tel:+1-805-781-4407) to listen to a found animal recording that describes recently-found animals that are being held at the pound.
+You can call [805-781-4407](tel:+1-805-781-4407) to listen to a found animal recording that describes recently-found animals that are being held at the pound. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
 
-[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) conducts regular free pet food distributions in Grover Beach and Oceano.
-You can also call their emergency pet care phone line to arrange for emergency veterinary treatment.
+[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) conducts regular free pet food distributions in Grover Beach and Oceano. <!-- SOURCE NEEDED (issue #81) -->
+You can also call their emergency pet care phone line to arrange for emergency veterinary treatment. <!-- SOURCE NEEDED (issue #81) -->
 
 [**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws), in partnership with “The Street Dog Coalition,” operates mobile pet wellness clinics in Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano, as well as several sites in Santa Barbara County.
-These provide vaccines, spay/neuter service, health exams, medical care, and pet food assistance.
-They specialize in care for pets of homeless people.
+These provide vaccines, spay/neuter service, health exams, medical care, and pet food assistance. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
+They specialize in care for pets of homeless people. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
 They also operate the “Pet Refuge” program, which can temporarily board pets for people whose housing situation has become unstable or who are temporarily unable to care for their pets. <!-- This is new: https://www.newtimesslo.com/c-a-r-e-4paws-will-offer-boarding-for-pets-living-with-struggling-families/ -->
 
 [**Woods Humane Society**](Directory.md#Woods-Humane-Society) has a [Pet Pantry](https://woodshumanesociety.org/pet-pantry/) for pet owners facing challenges and offers financial assistance for spay/neuter procedures.
-They can also help you find lost pets and can find new homes for pets when their owners can no longer take care of them.
-Some services are by-appointment only.
+They can also help you find lost pets and can find new homes for pets when their owners can no longer take care of them. <!-- https://woodshumanesociety.org/resources/lost-pet-help/ and https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
+Some services are by-appointment only. <!-- Source: e.g. https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
 
 [**North County Paws Cause**](Directory.md#North-County-Paws-Cause) can help people in northern SLO County who need help caring for their cats while they are homeless or transitioning into new housing.
 
-[**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) is a national organization that focuses on feeding and providing veterinary care to pets of people experiencing homelessness.
-If your pet needs veterinary care, call them to arrange an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic.
-There is no charge to the pet owner, but donations are appreciated.
+[**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) is a national organization that focuses on feeding and providing veterinary care to pets of people experiencing homelessness. <!-- Source: https://petsofthehomeless.org/ -->
+If your pet needs veterinary care, call them to arrange an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic. <!-- SOURCE NEEDED -->
+There is no charge to the pet owner, but donations are appreciated. <!-- SOURCE NEEDED -->
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests).
-Pets must have documentation of rabies vaccinations.
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Pets must have documentation of rabies vaccinations. <!-- SOURCE NEEDED -->
 
 [**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
-They happen 3–4 times per quarter at various locations around SLO County, often coordinating with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People).
+They typically happen 3–4 times per academic quarter at various locations around SLO County, often in coordination with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People).
 
-[**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have only limited funds.
+[**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have only limited funds. <!-- TBD: Need info on how to apply to this program (issue #82) -->
 
 [**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) helps seniors, people with disabilities, terminal illnesses, and individuals on fixed incomes to pay for medical treatments for their pets.
 
-[The Pet Fund](https://www.thepetfund.com/) is a national organization that provides financial assistance to pet owners who need non-emergency veterinary care but lack sufficient funds.
+[The Pet Fund](https://www.thepetfund.com/) is a national organization that provides financial assistance to pet owners who need non-emergency veterinary care but lack sufficient funds. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
 Submit an [application](https://www.thepetfund.com/for-pet-owners/the-pet-fund-application) at their website.
-You must document your financial need and provide veterinary care estimates.
+You must document your financial need and provide veterinary care estimates. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
 
-[**Red Rover Relief**](Directory.md#Red-Rover-Relief) provides one-time urgent care grants of up to $1,000 to pay for pet medical emergencies.
-This is only for people in the U.S. with income under $60,000 per year.
-You must make a fundraising effort first before you contact Red Rover Relief.
-You must supply a current veterinary diagnosis and treatment plan.
-Grants do not cover exams or testing.
+[**Red Rover Relief**](Directory.md#Red-Rover-Relief) provides one-time urgent care grants of up to $1,000 to pay for pet medical emergencies. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+This is only for people in the U.S. with income under $60,000 per year. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+You must make a fundraising effort first before you contact Red Rover Relief. <!-- SOURCE NEEDED -->
+You must supply a current veterinary diagnosis and treatment plan. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+Grants do not cover exams or testing. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 
 -----
 
