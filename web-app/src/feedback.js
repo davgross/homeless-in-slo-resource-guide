@@ -1,9 +1,12 @@
 // Feedback system for capturing user feedback with context
+import { getStrings } from './strings.js';
+
 export class FeedbackSystem {
   constructor() {
     this.feedbackButton = null;
     this.feedbackModal = null;
     this.recipientEmail = 'moorlock@gmail.com';
+    this.strings = getStrings();
   }
 
   // Initialize the feedback system
@@ -18,70 +21,71 @@ export class FeedbackSystem {
     this.feedbackButton = document.createElement('button');
     this.feedbackButton.id = 'feedback-button';
     this.feedbackButton.className = 'feedback-fab';
-    this.feedbackButton.innerHTML = '💬';
-    this.feedbackButton.setAttribute('aria-label', 'Send feedback');
-    this.feedbackButton.title = 'Send feedback';
+    this.feedbackButton.innerHTML = this.strings.feedback.button.icon;
+    this.feedbackButton.setAttribute('aria-label', this.strings.feedback.button.ariaLabel);
+    this.feedbackButton.title = this.strings.feedback.button.title;
     document.body.appendChild(this.feedbackButton);
   }
 
   // Create feedback modal
   createFeedbackModal() {
+    const s = this.strings.feedback.modal;
     const modalHTML = `
       <div id="feedback-modal" class="feedback-modal" hidden>
         <div class="feedback-modal-content">
-          <button class="feedback-close-btn" aria-label="Close feedback form">
+          <button class="feedback-close-btn" aria-label="${s.closeButton}">
             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
               <path d="M18 6L6 18M6 6l12 12" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </button>
-          <h2>Send Feedback</h2>
+          <h2>${s.title}</h2>
           <p class="feedback-intro">
-            Help us improve this guide by reporting errors, outdated information, or suggesting improvements.
+            ${s.intro}
           </p>
 
           <form id="feedback-form">
             <div class="feedback-form-group">
-              <label for="feedback-name">Your Name (optional)</label>
-              <input type="text" id="feedback-name" name="name" placeholder="Your name">
+              <label for="feedback-name">${s.nameLabel}</label>
+              <input type="text" id="feedback-name" name="name" placeholder="${s.namePlaceholder}">
             </div>
 
             <div class="feedback-form-group">
-              <label for="feedback-email">Your Email (optional)</label>
+              <label for="feedback-email">${s.emailLabel}</label>
               <input type="email"
                      id="feedback-email"
                      name="email"
-                     placeholder="your.email@example.com"
+                     placeholder="${s.emailPlaceholder}"
                      aria-describedby="email-helper email-error"
                      aria-invalid="false">
-              <small id="email-helper">If you'd like a response, please provide your email.</small>
+              <small id="email-helper">${s.emailHelper}</small>
               <span id="email-error" class="error-message" role="alert" hidden></span>
             </div>
 
             <div class="feedback-form-group">
-              <label for="feedback-type">Feedback Type *</label>
+              <label for="feedback-type">${s.typeLabel}</label>
               <select id="feedback-type"
                       name="type"
                       required
                       aria-describedby="type-error"
                       aria-invalid="false">
-                <option value="">-- Select type --</option>
-                <option value="outdated">Outdated Information</option>
-                <option value="error">Error or Mistake</option>
-                <option value="missing">Missing Information</option>
-                <option value="suggestion">Suggestion</option>
-                <option value="other">Other</option>
+                <option value="">${s.typePlaceholder}</option>
+                <option value="outdated">${s.typeOptions.outdated}</option>
+                <option value="error">${s.typeOptions.error}</option>
+                <option value="missing">${s.typeOptions.missing}</option>
+                <option value="suggestion">${s.typeOptions.suggestion}</option>
+                <option value="other">${s.typeOptions.other}</option>
               </select>
               <span id="type-error" class="error-message" role="alert" hidden></span>
             </div>
 
             <div class="feedback-form-group">
-              <label for="feedback-message">Your Feedback *</label>
+              <label for="feedback-message">${s.messageLabel}</label>
               <textarea
                 id="feedback-message"
                 name="message"
                 rows="6"
                 required
-                placeholder="Please describe the issue or suggestion in detail..."
+                placeholder="${s.messagePlaceholder}"
                 aria-describedby="message-error"
                 aria-invalid="false"
               ></textarea>
@@ -89,30 +93,30 @@ export class FeedbackSystem {
             </div>
 
             <div class="feedback-context">
-              <strong>Context information (automatically included):</strong>
+              <strong>${s.contextHeader}</strong>
               <ul id="feedback-context-list">
-                <li>Current section: <span id="context-section"></span></li>
-                <li id="context-directory-item" style="display: none;">Directory entry: <span id="context-directory"></span></li>
-                <li>Page URL: <span id="context-url"></span></li>
-                <li>Timestamp: <span id="context-timestamp"></span></li>
+                <li>${s.contextSection} <span id="context-section"></span></li>
+                <li id="context-directory-item" style="display: none;">${s.contextDirectory} <span id="context-directory"></span></li>
+                <li>${s.contextUrl} <span id="context-url"></span></li>
+                <li>${s.contextTimestamp} <span id="context-timestamp"></span></li>
               </ul>
             </div>
 
             <div class="feedback-actions">
               <button type="button" class="feedback-btn feedback-btn-secondary" id="feedback-cancel">
-                Cancel
+                ${s.cancelButton}
               </button>
               <button type="submit" class="feedback-btn feedback-btn-primary">
-                Send Feedback
+                ${s.submitButton}
               </button>
             </div>
           </form>
 
           <div id="feedback-success" class="feedback-success" hidden>
-            <p>✅ Thank you for your feedback!</p>
-            <p>Your feedback has been submitted successfully. We appreciate your help in improving this guide.</p>
+            <p>${s.successIcon} ${s.successTitle}</p>
+            <p>${s.successMessage}</p>
             <button type="button" class="feedback-btn feedback-btn-primary" id="feedback-done">
-              Close
+              ${s.doneButton}
             </button>
           </div>
         </div>
@@ -275,26 +279,27 @@ export class FeedbackSystem {
   // Validate a single field
   validateField(field, fieldType) {
     const errorSpan = document.getElementById(`${field.name}-error`);
+    const s = this.strings.feedback.modal;
 
     if (fieldType === 'email') {
       const value = field.value.trim();
       if (value && !field.validity.valid) {
         field.setAttribute('aria-invalid', 'true');
-        errorSpan.textContent = 'Please enter a valid email address';
+        errorSpan.textContent = s.emailError;
         errorSpan.hidden = false;
         return false;
       }
     } else if (fieldType === 'type') {
       if (!field.value) {
         field.setAttribute('aria-invalid', 'true');
-        errorSpan.textContent = 'Please select a feedback type';
+        errorSpan.textContent = s.typeError;
         errorSpan.hidden = false;
         return false;
       }
     } else if (fieldType === 'message') {
       if (!field.value.trim()) {
         field.setAttribute('aria-invalid', 'true');
-        errorSpan.textContent = 'Please enter your feedback';
+        errorSpan.textContent = s.messageError;
         errorSpan.hidden = false;
         return false;
       }
@@ -484,10 +489,11 @@ export class FeedbackSystem {
   async handleSubmit() {
     const form = document.getElementById('feedback-form');
     const submitBtn = form.querySelector('button[type="submit"]');
+    const s = this.strings.feedback.modal;
 
     // Disable submit button
     submitBtn.disabled = true;
-    submitBtn.textContent = 'Sending...';
+    submitBtn.textContent = s.submittingButton;
 
     try {
       // Get form data
@@ -549,11 +555,11 @@ export class FeedbackSystem {
 
     } catch (error) {
       console.error('Error submitting feedback:', error);
-      alert('There was an error sending your feedback. Please try again or email us directly at ' + this.recipientEmail);
+      alert(s.errorAlert(this.recipientEmail));
 
       // Re-enable submit button
       submitBtn.disabled = false;
-      submitBtn.textContent = 'Send Feedback';
+      submitBtn.textContent = s.submitButton;
     }
   }
 

@@ -44,7 +44,9 @@ web-app/
 │   ├── shareButton.js      # Share functionality
 │   ├── installPrompt.js    # PWA install prompt handling
 │   ├── fontSizeControl.js  # Font size and OpenDyslexic toggle
-│   └── strings.js          # UI text strings
+│   ├── strings.js          # Internationalization strings
+│   ├── i18nInit.js         # i18n initialization
+│   └── languageSwitcher.js # Language switcher UI
 ├── scripts/                # Build and validation scripts
 │   ├── extract-map-data.js # Extract coordinates from markdown
 │   └── validate-html.js    # HTML validation script
@@ -238,25 +240,116 @@ User clicks install → Trigger prompt → Handle outcome → Hide button
 - Escape key closes popup
 - OpenDyslexic font toggle for dyslexia support
 
-### 8. strings.js - UI Text Management
+### 8. Internationalization (i18n) System
 
-**Purpose**: Centralizes all user-facing text strings
+The app supports multiple languages through a comprehensive i18n system consisting of three main modules:
+
+#### 8a. strings.js - Language Strings
+
+**Purpose**: Centralizes all user-facing text for all supported languages
+
+**Supported Languages**:
+- English (`en`)
+- Latin American Spanish (`es`)
 
 **Structure**:
 
 ```javascript
-{
-  share: {
-    button: { label, title },
-    notifications: { success, error, ... }
+const strings = {
+  en: {
+    meta: { title, description },
+    nav: { resources, directory, about, ... },
+    search: { placeholder, noResults, ... },
+    feedback: { button, modal, ... },
+    fontSize: { button, popup, ... },
+    share: { button, notifications, ... },
+    directory: { closeButton, feedbackButton, ... },
+    toc: { button: { ariaLabel, title } },
+    install: { button: { ariaLabel, title } },
+    about: { title, intro, reportErrors, ... },
+    language: { label, english, spanish }
   },
-  feedback: {
-    button: { label, title },
-    form: { title, labels, placeholders }
-  },
-  search: { placeholder, noResults },
-  toc: { button: { label, title } }
+  es: {
+    // Complete Spanish translations
+  }
 }
+```
+
+**Key Functions**:
+- `getCurrentLanguage()`: Detects language from localStorage, URL param (?lang=es), or browser language
+- `getStrings()`: Returns all strings for current language
+- `getString(path)`: Gets specific string by dot notation path
+- `setLanguage(lang)`: Saves language preference and reloads app
+- `availableLanguages`: Array of supported language codes
+
+**Language Detection Priority**:
+1. localStorage (user's explicit choice)
+2. URL parameter (?lang=es)
+3. Browser language preference
+4. Default to English
+
+#### 8b. i18nInit.js - UI Initialization
+
+**Purpose**: Dynamically sets HTML content based on selected language
+
+**Key Functions**:
+- `initI18n()`: Main initialization function called early in app startup
+- `updateMetaTags(strings)`: Sets page title and description
+- `updateNavigation(strings)`: Updates nav buttons and aria-labels
+- `updateSearch(strings)`: Sets search placeholder and labels
+- `updateLoadingStates(strings)`: Sets loading messages
+- `updateButtons(strings)`: Updates button labels and aria-labels
+- `updateFontSizeControl(strings)`: Sets font control UI text
+
+**Called**: At the beginning of `init()` in main.js
+
+#### 8c. languageSwitcher.js - Language Selection UI
+
+**Purpose**: Provides UI for users to switch languages
+
+**Features**:
+- Compact button showing globe icon (🌐) and current language code
+- Dropdown menu with all available languages
+- Highlights currently selected language
+- Keyboard accessible (Arrow keys, Home, End, Escape)
+- Saves selection to localStorage and reloads page
+
+**Location**: Top-right corner of header, next to navigation
+
+**Styling**: See `.language-switcher`, `.language-switcher-btn`, `.language-menu` in style.css
+
+#### Adding a New Language
+
+To add support for a new language:
+
+1. **Add translations to strings.js**:
+   - Copy the `en` object
+   - Rename it to the new language code (e.g., `fr` for French)
+   - Translate all string values
+   - Keep the same structure and function signatures
+
+2. **Update language switcher**:
+   - Add the language name to the `language` section in both `en` and `es` objects
+   - Example: `french: 'Français'`
+
+3. **No other code changes needed**:
+   - The system automatically detects available languages from the `strings` object
+   - Language detection, persistence, and UI updates work automatically
+
+**Example**:
+```javascript
+// In strings.js
+const strings = {
+  en: { /* existing English strings */ },
+  es: { /* existing Spanish strings */ },
+  fr: {
+    meta: {
+      title: 'Guide des ressources pour sans-abri du comté de SLO',
+      description: '...'
+    },
+    // ... complete French translations
+  }
+};
 ```
 
 ### 9. style.css - Visual Design
@@ -898,10 +991,24 @@ For questions about this architecture:
 
 ---
 
-*Last updated: 2025-12-05*
-*Document version: 1.2*
+*Last updated: 2025-12-11*
+*Document version: 1.3*
 
 ## Changelog
+
+### Version 1.3 (2025-12-11)
+
+Internationalization (i18n) support:
+
+- Added comprehensive i18n system supporting English and Latin American Spanish
+- Created strings.js with complete translations for all UI text
+- Implemented automatic language detection from browser, URL params, and localStorage
+- Added language switcher UI component in header
+- Created i18nInit.js for dynamic HTML content localization
+- Updated feedback.js to use internationalized strings
+- Added language-specific meta tags and aria-labels
+- Designed extensible system for adding additional languages
+- Preserved accessibility features across all languages
 
 ### Version 1.2 (2025-12-05)
 
