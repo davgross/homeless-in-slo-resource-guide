@@ -3554,7 +3554,7 @@ There are also support groups for people recently diagnosed, and for people suff
 To register for a group, call [800-272-3900](tel:+1-800-272-3900).
 
 **Amyotrophic lateral sclerosis (ALS):** An ALS support group meets monthly via Zoom.
-To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878).
+To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/ -->
 
 **Cancer:** [Cancer Support Community](https://cscslo.org/) offers a variety of no-cost services for people with cancer, including health education and exercise classes, as well as several support groups, some of which meet in Templeton, some online.
 
@@ -3599,13 +3599,13 @@ Several SLO County churches host [GriefShare support groups](https://griefshare.
 > See [12-Step and Similar Recovery Programs](#twelve-step) in the [Drug Use, Recovery, and Harm Reduction](#drug-use-and-recovery) section above for support groups for people recovering from drug addictions.
 
 [Al-Anon](https://al-anon.org/al-anon-meetings/) has support groups for family members of alcoholics that meet online and in Arroyo Grande, Atascadero, Cambria, Cayucos, Grover Beach, Morro Bay, Nipomo, Paso Robles, Pismo Beach, and SLO.
-There is also an [Alateen](https://al-anon.org/newcomers/teen-corner-alateen/) meeting in Grover Beach specifically for teen-aged family members of alcoholics.
+There is also an [Alateen](https://al-anon.org/newcomers/teen-corner-alateen/) meeting in Grover Beach specifically for teen-aged family members of alcoholics. <!-- Source: https://al-anon.org/al-anon-meetings/find-an-alateen-meeting/ -->
 
 [Nar-Anon](https://www.naranoncentralca.org/) has in-person weekly meetings for family members of people addicted to drugs that meet in Atascadero as well as several online meetings.
 There are also [Narateen](https://www.nar-anon.org/find-a-narateen-meeting) online weekly meetings specifically for teen-aged family members of addicts.
 
-An eating disorder support group meets on Wednesdays from 7–8pm at [**GALA Pride & Diversity Center**](Directory.md#GALA) in SLO city and by Zoom.
-Contact [libby@notyouraveragenutritionist.com](mailto:libby@notyouraveragenutritionist.com) for more information.
+An eating disorder support group meets by Zoom on Wednesdays from 7–8pm. <!-- Source: https://galacc.org/events/#calendar -->
+Contact [libby@thebroadwaydietitian.com](mailto:libby@thebroadwaydietitian.com) for more information. <!-- Source: https://galacc.org/events/#calendar -->
 
 [Overeaters Anonymous](https://oa.org/) holds weekly meetings in Arroyo Grande, Morro Bay, and SLO.
 
@@ -3658,7 +3658,8 @@ The “Vita Fitness Courses” in Meadow Park (<a href="#" class="map-link" data
 <!-- I couldn’t find anything like this outside of SLO city limits -->
 
 The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (online and in person), aqua fitness classes, swim lessons, and more.
-Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.”
+<!-- Sources: https://www.ciymca.org/san-luis-obispo-group-exercise-schedule#/results and https://www.ciymca.org/active-older-adults and https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center/swim-classes-events -->
+Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.” <!-- Source: https://www.ciymca.org/financial-assistance -->
 Ask them about options for people with low incomes.
 
 [**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) offers low-cost BarreConnect, fitness, somatic breathwork, Pilates, Tai Chi, yoga, and Zumba classes.
@@ -3674,7 +3675,7 @@ They typically cost money, but there is [a scholarship program](https://www.prci
 
 The [DAREBEE](https://darebee.com/workouts/) website has more than 2,500 free, illustrated workout guides, most of which do not require any special equipment.
 
-Some local yoga studios offer occasional “community yoga” classes that are free or on a donation or sliding-scale basis.
+Some local yoga studios offer occasional “community yoga” classes that are free or on a donation or sliding-scale basis. <!-- Source: e.g. https://thecenterslo.com/schedule Wednesdays at 5:45pm -->
 
 #### Fitness For Seniors
 
@@ -3691,13 +3692,13 @@ Some local yoga studios offer occasional “community yoga” classes that are f
 [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) offers yoga, balance and strength classes, flexercise, arthritis exercise, and brain fitness classes.
 
 [**SLO Senior Center**](Directory.md#SLO-Senior-Center) leads “SLO Hikers & Walkers” hikes of local trails and strolls through downtown, designed for people age 55 and older.
-See the [Hikers & Walkers](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming hikes and walks.
+See the [SLO Hikers & Walkers](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming hikes and walks.
 They also host low-cost yoga classes (the first class is free), a free chair exercise class, and a free strength &amp; balance class, all for people age 55 and older.
 
 ### <a id="recreation-and-socializing">Recreation and Socializing</a>
 
-SLO City has a free, public skate park, open daily 7am–10pm, at <a href="#" class="map-link" data-lat="35.290166" data-lon="-120.664167" data-zoom="17" data-label="Santa Rosa Park">Santa Rosa Park</a>.
-You must wear a helmet and elbow & knee pads to use the skate park.
+SLO City has a free, public skate park, open daily 7am–10pm, at <a href="#" class="map-link" data-lat="35.290166" data-lon="-120.664167" data-zoom="17" data-label="Santa Rosa Park">Santa Rosa Park</a>. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-skate-park/skate-park-faqs -->
+You must wear a helmet and elbow & knee pads to use the skate park. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-skate-park/skate-park-faqs -->
 
 The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) runs a local basketball league and organizes pick-up game hours.
 
@@ -3717,29 +3718,30 @@ They also offer classes in arts & crafts
 [**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) offers many classes and activities including karate, pickleball, line dancing, crafting, dog training, and first aid.
 They typically cost money, but there is [a scholarship program](https://www.prcity.com/1193/Scholarships) for people with low incomes.
 
-[**Pismo Beach Recreation Division**](Directory.md#Pismo-Beach-Recreation-Division) has two beach wheelchairs available to the public to be borrowed for four hours at a time at no charge.
-Call [805-773-2422](tel:+1-805-773-2422) for details.
+[**Pismo Beach Recreation Division**](Directory.md#Pismo-Beach-Recreation-Division) has two beach wheelchairs available to the public to be borrowed for four hours at a time at no charge. <!-- Source: https://www.pismobeach.org/411/Beach-Wheel-Chairs -->
+Call [805-773-2422](tel:+1-805-773-2422) for details. <!-- Source: https://www.pismobeach.org/411/Beach-Wheel-Chairs -->
 
-There are [five major disc golf courses](https://slothrowers.com/slo-courses/) in SLO County.
+There are [three major disc golf courses](https://slothrowers.com/slo-courses/) in SLO County and several other smaller ones.
 
 The SLO city bicycling community operates several free events, such as bike-in movie nights, group rides, and free bike breakfasts, many of which take place during [“Bike Month”](https://rideshare.org/program/bike-month/) (lately, May).
-The first Thursday of every month, soon after SLO’s downtown farmers’ market, is the “Bike Happening” in which dozens to hundreds of bicyclists do circuits around downtown, hooting and hollering.
+The first Thursday of every month, soon after SLO’s downtown farmers’ market, is the “Bike Happening” in which dozens to hundreds of bicyclists do circuits around downtown, hooting and hollering. <!-- Source: been there, done that -DG -->
 
 The [Bay Osos Folk Dancers](https://bayososfolkdancers.weebly.com/) club meets on Tuesdays from 11am–3pm at the [**South Bay Community Center**](Directory.md#South-Bay-Community-Center) to learn and practice folk and line dances.
-Donations are requested to cover costs.
+Donations are requested to cover costs. <!-- Source: https://bayososfolkdancers.weebly.com/ -->
 
 #### Recreation and Socializing For Seniors
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers classes, board and card games, arts & crafts sessions, discussion groups, movies, walking groups.
-Most are free for members ($20 annual dues), and $2 for non-members.
-They also have a lending library of games and puzzles.
+Most are free for members ($20 annual dues), and $2 for non-members. <!-- Source: https://atascaderoseniorcenter.org/activities -->
+They also have a lending library of games and puzzles. <!-- Source: https://atascaderoseniorcenter.org/faq -->
 
 [**Central Coast Senior Center (Oceano)**](Directory.md#Central-Coast-Senior-Center) hosts games, a ukulele group, line dancing, and bingo.
 
 [**Morro Bay Senior Citizens**](Directory.md#Morro-Bay-Senior-Center) hosts bingo, bocce, bridge, chess, dance, drawing & watercolor, ping-pong, pool and billiards, hand & foot cards, and special-interest classes.
 
-There are pickleball courts in <a href="#" class="map-link" data-lat="35.398611" data-lon="-120.858761" data-zoom="17" data-label="Del Mar Park">Del Mark Park in Morro Bay</a>, open to all from 8am–Noon and open by reservation (for a fee through the Morro Bay Recreation Department) in the afternoons.
-Free lessons are available (balls and paddles provided) on Saturdays from 8:30–9:00am.
+There are pickleball courts in <a href="#" class="map-link" data-lat="35.398611" data-lon="-120.858761" data-zoom="17" data-label="Del Mar Park">Del Mar Park in Morro Bay</a>, open to all from 8am–Noon and open by reservation (for a fee through [**Morro Bay Parks & Recreation Department**](Directory.md#Morro-Bay-Parks-and-Recreation)) in the afternoons. <!-- Source: https://morrobayseniors.org/pickleball/ -->
+You can borrow [a set of pickleball balls and paddles](https://catalog.slolibrary.org/GroupedWork/e3d16ba9-5c54-db6e-c3c5-30cb0ceb24d8-eng/Home) from [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)).
+Lessons are available ($2 donation requested, balls and paddles provided) on Saturdays from 8:30–9:00am. <!-- Source: https://www.morrobayca.gov/679/Tennis-Opportunities -->
 
 [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) hosts bingo, canasta, a potluck, and has free coffee daily.
 
@@ -3747,7 +3749,7 @@ Free lessons are available (balls and paddles provided) on Saturdays from 8:30�
 
 [**SLO Senior Center**](Directory.md#SLO-Senior-Center) operates free “Around the Town” tours of local places of interest for people age 55 and older.
 See the [Around the Town](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming tours and instructions on how to register.
-They also host bingo, bridge, mahjong, Mexican train dominoes, pinochle, and other activities at various times during the week (some of these are free, some cost a few dollars).
+They also host bingo, bridge, mahjong, Mexican train dominoes, pinochle, and other activities at various times during the week (some of these are free, some cost a few dollars). <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
 
 -----
 
