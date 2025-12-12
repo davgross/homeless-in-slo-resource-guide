@@ -3021,17 +3021,17 @@ Llame al [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833
 [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) tiene [programas de trabajo](https://www.t-mha.org/work-programs.php) para ayudar a personas con enfermedades mentales a encontrar y mantener un empleo significativo.
 Operan la granja, vivero y tienda minorista del centro de SLO Growing Grounds, que emplean a clientes de TMHA y les dan capacitación vocacional. <!-- Source: https://www.t-mha.org/work-programs.php -->
 
-TMHA also operates a [“Supported Employment Program”](https://www.t-mha.org/program-details.php?id=16) which helps people with mental illnesses find and keep jobs. <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
-To use that program, you need a referral from [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) or [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health). <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
+TMHA también opera un ["Programa de Empleo Apoyado"](https://www.t-mha.org/program-details.php?id=16) (Supported Employment Program) que ayuda a personas con enfermedades mentales a encontrar y mantener empleos. <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
+Para usar ese programa, necesita una referencia del [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) o de [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) (Salud del Comportamiento del Condado de SLO). <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
 
 El [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) ofrece servicios de rehabilitación vocacional para personas con discapacidades, incluyendo capacitación laboral, asistencia de colocación, tecnología de asistencia y apoyo educativo. <!-- Source: https://www.dor.ca.gov/Home/EmploymentServices -->
 
 #### Para Personas Liberadas de la Cárcel o Prisión
 
-[**Restorative Partners**](Directory.md#Restorative-Partners) can help you build job experience after you are released from jail or prison. <!-- Source: https://restorativepartners.org/workforce-development/ -->
-They operate [“The Bridge Cafe”](https://www.thebridgecafe.org/) which can give you paid employment while training you for certification by [**Cuesta College**](Directory.md#Cuesta-College)’s Culinary Arts program. <!-- Source: https://restorativepartners.org/workforce-development/ -->
-After you complete that program, they will also help you find a job in that field. <!-- Source: https://restorativepartners.org/workforce-development/ -->
-Contact Restorative Partners to inquire about participating in this program.
+[**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudarle a desarrollar experiencia laboral después de ser liberado de la cárcel o prisión. <!-- Source: https://restorativepartners.org/workforce-development/ -->
+Operan ["The Bridge Cafe"](https://www.thebridgecafe.org/) que puede darle empleo remunerado mientras le capacita para la certificación del programa de Artes Culinarias de [**Cuesta College**](Directory.md#Cuesta-College). <!-- Source: https://restorativepartners.org/workforce-development/ -->
+Después de completar ese programa, también le ayudarán a encontrar un trabajo en ese campo. <!-- Source: https://restorativepartners.org/workforce-development/ -->
+Contacte a Restorative Partners para preguntar sobre participar en este programa.
 
 #### Para Veteranos Militares de los Estados Unidos
 
