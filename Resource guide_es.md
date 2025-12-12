@@ -1599,56 +1599,56 @@ Las ubicaciones de [**Community Health Centers of the Central Coast**](Directory
 [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts several [free classes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) on pregnancy, childbirth, baby-care, and breast-feeding.
 -->
 
-[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers pregnancy testing and planning, and prenatal and postpartum services. <!-- Source: https://www.plannedparenthood.org/get-care/our-services -->
+[**Planned Parenthood**](Directory.md#Planned-Parenthood) ofrece pruebas y planificación de embarazo, y servicios prenatales y postparto. <!-- Source: https://www.plannedparenthood.org/get-care/our-services -->
 
-[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) offers maternity clothes, nursing supplies, diapers, formula, and referrals. <!-- Source: https://www.ppsslo.org/practical-assistance -->
+[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) ofrece ropa de maternidad, suministros de lactancia, pañales, fórmula y referencias. <!-- Source: https://www.ppsslo.org/practical-assistance -->
 
-The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program offers breastfeeding support. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) (Mujeres, Infantes y Niños) ofrece apoyo para lactancia. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 
 ### <a id="chiropractic-treatment">Tratamiento Quiropráctico</a>
 
-The [**Community Health Centers of the Central Coast**](Directory.md#CHC) offices in Arroyo Grande (260 Station Way and 1205 E. Grand Ave.), Atascadero, Cambria, Nipomo, Oceano, Paso Robles, San Miguel, Templeton (Las Tablas), and SLO (77 Casa St. and 1551 Bishop St.) offer chiropractic treatment. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub pages -->
+Las oficinas de [**Community Health Centers of the Central Coast**](Directory.md#CHC) en Arroyo Grande (260 Station Way y 1205 E. Grand Ave.), Atascadero, Cambria, Nipomo, Oceano, Paso Robles, San Miguel, Templeton (Las Tablas), y SLO (77 Casa St. y 1551 Bishop St.) ofrecen tratamiento quiropráctico. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub pages -->
 
 ### <a id="surgery">Cirugía</a>
 
-The [**CSF Medical Non Profit Foundation**](Directory.md#CSF-Medical-Non-Profit-Foundation) helps medically uninsured people obtain life-saving surgical procedures. <!-- Source: https://csffoundation.org/csf-surgery/ -->
+La [**CSF Medical Non Profit Foundation**](Directory.md#CSF-Medical-Non-Profit-Foundation) ayuda a personas sin seguro médico a obtener procedimientos quirúrgicos que salvan vidas. <!-- Source: https://csffoundation.org/csf-surgery/ -->
 
-The [**Recuperative Care Program**](Directory.md#Recuperative-Care-Program) gives you a place to recover from surgery if your health would be compromised by an unstable living situation. <!-- Source: https://capslo.org/rcp/ -->
-Ask your doctor to refer you to that program. <!-- Source: https://capslo.org/rcp/ -->
+El [**Recuperative Care Program**](Directory.md#Recuperative-Care-Program) (Programa de Cuidado Recuperativo) le da un lugar para recuperarse de una cirugía si su salud se vería comprometida por una situación de vivienda inestable. <!-- Source: https://capslo.org/rcp/ -->
+Pídale a su médico que lo refiera a ese programa. <!-- Source: https://capslo.org/rcp/ -->
 
 ### <a id="medical-resources-specific-populations">Recursos Médicos para Poblaciones Específicas</a>
 
 #### Niños
 
-[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/benefits.aspx -->
+[**California Children's Services**](Directory.md#California-Childrens-Services) paga y ayuda a organizar visitas al médico, estancias en el hospital, cirugías, terapia física, pruebas, equipo médico, etc. para niños y jóvenes cuyos padres de otro modo no podrían pagarlo. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/benefits.aspx -->
 
-The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Nipomo, Oceano, Paso Robles, Templeton (Las Tablas), and at 77 Casa St. in SLO offer pediatric services. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub pages -->
+Las oficinas de [**Community Health Centers**](Directory.md#CHC) en 260 Station Way en Arroyo Grande, en Nipomo, Oceano, Paso Robles, Templeton (Las Tablas), y en 77 Casa St. en SLO ofrecen servicios pediátricos. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub pages -->
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers pediatric care and well child check-ups. <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece cuidado pediátrico y chequeos de niño sano. <!-- SOURCE NEEDED (issue #75) -->
 
-[InfantSEE](https://www.infantsee.org/) helps you get a free eye/vision test for infants. <!-- Source: https://www.infantsee.org/about-us -->
+[InfantSEE](https://www.infantsee.org/) le ayuda a obtener una prueba de ojos/visión gratuita para bebés. <!-- Source: https://www.infantsee.org/about-us -->
 
-[Tolosa Children’s Dental Center](https://tolosachildrensdental.org/) ([805-592-2445](tel:+1-805-592-2445)) accepts Medi-Cal <!-- Source: https://tolosachildrensdental.org/about-us/ -->
-or sliding-scale cash payments. <!-- SOURCE NEEDED -->
+[Tolosa Children's Dental Center](https://tolosachildrensdental.org/) ([805-592-2445](tel:+1-805-592-2445)) acepta Medi-Cal <!-- Source: https://tolosachildrensdental.org/about-us/ -->
+o pagos en efectivo con escala variable. <!-- SOURCE NEEDED -->
 
-[**UnitedHealthcare Children’s Foundation**](Directory.md#UnitedHealthcare-Childrens-Foundation) helps pay for medical expenses that are not covered by a child’s family’s commercial health insurance. <!-- Source: https://www.uhccf.org/ -->
-The child must be 16 or younger, with a U.S. social security number. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
-The need must be documented by a physician, and the child must be covered by commercial health insurance. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
+[**UnitedHealthcare Children's Foundation**](Directory.md#UnitedHealthcare-Childrens-Foundation) ayuda a pagar gastos médicos que no están cubiertos por el seguro médico comercial de la familia del niño. <!-- Source: https://www.uhccf.org/ -->
+El niño debe tener 16 años o menos, con un número de seguro social de EE.UU. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
+La necesidad debe estar documentada por un médico, y el niño debe estar cubierto por un seguro médico comercial. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
 
-The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program gives food benefits to low-income women who have recently given birth. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) da beneficios de alimentos a mujeres de bajos ingresos que han dado a luz recientemente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 
 #### Personas con Diabetes
 
 [**Alliance for Pharmaceutical Access**](Directory.md#APA)
-and [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) <!-- SOURCE NEEDED (issue #74) -->
-can help you get low-cost diabetes supplies.
+y [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) <!-- SOURCE NEEDED (issue #74) -->
+pueden ayudarle a obtener suministros para diabetes de bajo costo.
 
-[**Dignity Health**](Directory.md#Dignity-Health) leads a free diabetes support group on Zoom (internet video conferencing) and in-person every three months. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
-Call [805-597-6780](tel:+1-805-597-6780) or email [Angela.Fissell@commonspirit.org](mailto:Angela.Fissell@commonspirit.org) for details. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
+[**Dignity Health**](Directory.md#Dignity-Health) dirige un grupo de apoyo gratuito para diabetes por Zoom (videoconferencia por internet) y en persona cada tres meses. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
+Llame al [805-597-6780](tel:+1-805-597-6780) o envíe un correo electrónico a [Angela.Fissell@commonspirit.org](mailto:Angela.Fissell@commonspirit.org) para detalles. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers diabetes testing and care. <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece pruebas y cuidado de diabetes. <!-- SOURCE NEEDED (issue #75) -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) offers nutrition education & lifestyle coaching for uninsured people with diabetes or prediabetes. <!-- Source: https://www.slonoorfoundation.org/medical -->
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) ofrece educación nutricional y asesoramiento de estilo de vida para personas sin seguro con diabetes o prediabetes. <!-- Source: https://www.slonoorfoundation.org/medical -->
 
 #### Personas con Discapacidades
 
