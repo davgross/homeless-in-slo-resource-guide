@@ -1255,83 +1255,83 @@ Algunos planes suplementarios de Medicare tienen un programa "Silver Sneakers" c
 
 ## <a id="health-medical-care">Salud y Atención Médica</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Emergency Care](#emergency-care)
-- [Urgent Care Options](#urgent-care)
-- [Health Insurance](#health-insurance)
-- [Medical and Assistive Devices](#medical-and-assistive-devices)
-- [Prescription Medicines](#prescription-medicines)
-- [Dental Care](#dental-care)
-- [Vision Care and Eyeglasses](#vision-care)
-- [Mental Health](#mental-health)
-- [Reproductive Health](#reproductive-health)
-- [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation)
-- [Chiropractic Treatment](#chiropractic-treatment)
-- [Resources for Specific Populations](#medical-resources-specific-populations)
-- [Poison Oak](#poison-oak)
-- [Sunburn](#sunburn)
+- [Atención de Emergencia](#emergency-care)
+- [Opciones de Atención Urgente](#urgent-care)
+- [Seguro Médico](#health-insurance)
+- [Dispositivos Médicos y de Asistencia](#medical-and-assistive-devices)
+- [Medicamentos con Receta](#prescription-medicines)
+- [Cuidado Dental](#dental-care)
+- [Cuidado de la Vista y Anteojos](#vision-care)
+- [Salud Mental](#mental-health)
+- [Salud Reproductiva](#reproductive-health)
+- [Embarazo, Parto, Lactancia](#pregnancy-childbirth-lactation)
+- [Tratamiento Quiropráctico](#chiropractic-treatment)
+- [Recursos para Poblaciones Específicas](#medical-resources-specific-populations)
+- [Roble Venenoso](#poison-oak)
+- [Quemaduras de Sol](#sunburn)
 
-> See also the [Fitness](#fitness) subsection for information on exercise and fitness options.
+> Vea también la subsección [Acondicionamiento Físico](#fitness) para información sobre opciones de ejercicio y acondicionamiento físico.
 
-[**Vituity Cares Mobile Clinic**](Directory.md#Vituity-Cares-Mobile-Clinic) is a free medical clinic that operates one day per month in SLO city.
-It offers diagnosis, testing, and treatment, can write prescriptions, and usually also has free food and a small free clothing collection.
+La [**Vituity Cares Mobile Clinic**](Directory.md#Vituity-Cares-Mobile-Clinic) es una clínica médica gratuita que opera un día al mes en la ciudad de SLO.
+Ofrece diagnóstico, pruebas y tratamiento, puede escribir recetas, y usualmente también tiene comida gratis y una pequeña colección de ropa gratis.
 
 ### <a id="emergency-care">Atención de Emergencia</a>
 
 #### Cuándo y Cómo Llamar al 911
 
-Call 911 immediately when someone needs emergency medical care that cannot wait.
-This includes when a person:
+Llame al 911 inmediatamente cuando alguien necesita atención médica de emergencia que no puede esperar.
+Esto incluye cuando una persona:
 
-- Cannot breathe or struggles severely to breathe
-- Has no pulse or appears unconscious and unresponsive
-- Bleeds heavily and cannot stop the bleeding
-- Shows signs of stroke (sudden face drooping, arm weakness, or speech difficulty)
-- Experiences chest pain that might indicate a heart attack
-- Has a severe allergic reaction with swelling or breathing problems
-- Suffers a serious injury
-- Takes a dangerous overdose of a drug or poison
-- Has a seizure (especially if it lasts longer than five minutes or if the person has never had a seizure before)
-- Has a severe mental health crisis in which they are an immediate danger to themselves or others
+- No puede respirar o lucha severamente para respirar
+- No tiene pulso o parece inconsciente y sin respuesta
+- Sangra mucho y no puede detener el sangrado
+- Muestra signos de derrame cerebral (caída repentina de la cara, debilidad en el brazo o dificultad para hablar)
+- Experimenta dolor en el pecho que podría indicar un ataque al corazón
+- Tiene una reacción alérgica severa con hinchazón o problemas para respirar
+- Sufre una lesión grave
+- Toma una sobredosis peligrosa de una droga o veneno
+- Tiene una convulsión (especialmente si dura más de cinco minutos o si la persona nunca ha tenido una convulsión antes)
+- Tiene una crisis de salud mental severa en la que es un peligro inmediato para sí misma o para otros
 
-Stay calm and speak clearly to the 911 dispatcher.
-The dispatcher will guide you through the process, and may ask you for:
+Mantenga la calma y hable claramente con el despachador del 911.
+El despachador lo guiará a través del proceso, y puede pedirle:
 
-- **Your exact location** — Give the full address, including apartment number, floor, or any access instructions. If you’re unsure of the address, describe nearby landmarks or cross streets.
-- **The nature of the emergency** — Briefly describe what happened and the person’s current condition.
-- **The patient’s condition** — Report whether the person is conscious, breathing, and responsive. Describe visible injuries or symptoms.
-- **Your relationship to the patient** — State whether you are family, a friend, or a bystander.
-- **Your contact information** — Provide a phone number where responders can reach you.
+- **Su ubicación exacta** — Dé la dirección completa, incluyendo el número de apartamento, piso o cualquier instrucción de acceso. Si no está seguro de la dirección, describa puntos de referencia cercanos o calles que se cruzan.
+- **La naturaleza de la emergencia** — Describa brevemente qué sucedió y la condición actual de la persona.
+- **La condición del paciente** — Informe si la persona está consciente, respirando y responde. Describa lesiones o síntomas visibles.
+- **Su relación con el paciente** — Indique si es familia, un amigo o un transeúnte.
+- **Su información de contacto** — Proporcione un número de teléfono donde los socorristas puedan contactarlo.
 
-Do not hang up until the dispatcher tells you to.
-The dispatcher may tell you how to provide care while you wait for help to arrive.
-If the situation changes while you wait, call 911 again immediately to update them.
+No cuelgue hasta que el despachador se lo indique.
+El despachador puede decirle cómo proporcionar cuidado mientras espera que llegue la ayuda.
+Si la situación cambia mientras espera, llame al 911 nuevamente de inmediato para actualizarlos.
 
-Stay with the patient until help arrives, if it is safe for you to do so.
-Choose someone to watch for the ambulance and to guide responders to the location.
+Quédese con el paciente hasta que llegue la ayuda, si es seguro para usted hacerlo.
+Elija a alguien para que esté atento a la ambulancia y para que guíe a los socorristas al lugar.
 
 #### Salas de Emergencias
 
-There are four emergency rooms in SLO County:
+Hay cuatro salas de emergencias en el condado de SLO:
 
 1. [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) (Arroyo Grande)
 1. [**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) (SLO)
 1. [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) (SLO)
 1. [**Adventist Health Twin Cities**](Directory.md#Adventist-Health-Twin-Cities) (Templeton)
 
-These emergency rooms are open all day, every day.
+Estas salas de emergencias están abiertas todo el día, todos los días.
 
-Do not worry if your Medi-Cal paperwork is not yet in order.
-Under the “Hospital Presumptive Eligibility” program, in an emergency, hospitals will treat you as though you have Medi-Cal for up to two months while they work with you to determine your eligibility, if the following conditions hold:<!-- Source: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx-Cal -->
+No se preocupe si sus documentos de Medi-Cal aún no están en orden.
+Bajo el programa "Hospital Presumptive Eligibility" (Elegibilidad Presuntiva Hospitalaria), en una emergencia, los hospitales lo tratarán como si tuviera Medi-Cal por hasta dos meses mientras trabajan con usted para determinar su elegibilidad, si se cumplen las siguientes condiciones:<!-- Source: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx-Cal -->
 
-- You are uninsured and not receiving Medi-Cal.
-- You have a low monthly income.
-- You live in California.
-- You have not used the “Hospital Presumptive Eligibility” program more than once in the past 12 months (more than twice for children).
+- No tiene seguro y no está recibiendo Medi-Cal.
+- Tiene un ingreso mensual bajo.
+- Vive en California.
+- No ha usado el programa "Hospital Presumptive Eligibility" más de una vez en los últimos 12 meses (más de dos veces para niños).
 
-U.S. Citizenship is not required. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
-All four emergency rooms participate in the “Hospital Presumptive Eligibility” program. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
+No se requiere ciudadanía estadounidense. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
+Las cuatro salas de emergencias participan en el programa "Hospital Presumptive Eligibility". <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
 
 ### <a id="urgent-care">Opciones de Atención Urgente</a>
 
