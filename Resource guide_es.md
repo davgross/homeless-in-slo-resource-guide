@@ -1547,9 +1547,9 @@ Puede obtener apoyo de salud mental las 24 horas de SLO Hotline ([805-783-0607](
 
 > Para emergencias de salud mental, vea [Atención de Emergencia](#emergency-care) y [Contactos de Emergencia](#emergency-contacts).
 
-The [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) and [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) respond to acute mental health needs.
+El [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) (Equipo de Evaluación de Salud Mental / Equipo de Crisis Móvil) y la [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) (Unidad de Crisis Móvil) responden a necesidades agudas de salud mental.
 
-[**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) and [**Community Counseling Center**](Directory.md#Community-Counseling-Center) offer low- or no-cost mental health counseling.
+[**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) y [**Community Counseling Center**](Directory.md#Community-Counseling-Center) (Centro de Asesoramiento Comunitario) ofrecen asesoramiento de salud mental de bajo costo o sin costo.
 
 A [**Community Health Centers**](Directory.md#CHC) primary care physician can refer you to CHC-provided mental health counseling or psychiatry, which happens over the phone or through internet videoconferencing. <!-- Source: Dan Gross, LCSW @ CHC, personal communication -DG -->
 
