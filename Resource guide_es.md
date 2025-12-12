@@ -3755,103 +3755,103 @@ They also host bingo, bridge, mahjong, Mexican train dominoes, pinochle, and oth
 
 ## <a id="pet-care-and-pet-supplies">Cuidado de Mascotas y Suministros para Mascotas</a>
 
-[**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) operates the only open-intake animal shelter in SLO County. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
-Services include dog licensing, pet microchipping, lost and found pet assistance, animal adoption, assistance animal identification tags, rabies control, animal welfare investigations, nuisance animal response, and humane education programs. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
-They have an [online registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray) and you can use a web interface to [report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405).
-You can call [805-781-4407](tel:+1-805-781-4407) to listen to a found animal recording that describes recently-found animals that are being held at the pound. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
+[**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services) opera el único refugio de animales de admisión abierta en el Condado de SLO. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
+Los servicios incluyen licencias para perros, microchip para mascotas, asistencia para mascotas perdidas y encontradas, adopción de animales, etiquetas de identificación de animales de asistencia, control de rabia, investigaciones de bienestar animal, respuesta a animales molestos y programas de educación humanitaria. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
+Tienen un [registro en línea de todos los animales actualmente en la perrera, con fotos](https://24petconnect.com/SLOCStray) y puede usar una interfaz web para [reportar una mascota perdida](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405).
+Puede llamar al [805-781-4407](tel:+1-805-781-4407) para escuchar una grabación de animales encontrados que describe animales encontrados recientemente que están siendo retenidos en la perrera. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
 
-[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) conducts regular free pet food distributions in Grover Beach and Oceano. <!-- SOURCE NEEDED (issue #81) -->
-You can also call their emergency pet care phone line to arrange for emergency veterinary treatment. <!-- SOURCE NEEDED (issue #81) -->
+[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) (Asociación de la Costa Central para el Bienestar Animal) lleva a cabo distribuciones regulares gratuitas de comida para mascotas en Grover Beach y Oceano. <!-- SOURCE NEEDED (issue #81) -->
+También puede llamar a su línea telefónica de cuidado de mascotas de emergencia para organizar tratamiento veterinario de emergencia. <!-- SOURCE NEEDED (issue #81) -->
 
 [**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws), in partnership with “The Street Dog Coalition,” operates mobile pet wellness clinics in Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano, as well as several sites in Santa Barbara County.
 These provide vaccines, spay/neuter service, health exams, medical care, and pet food assistance. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
 They specialize in care for pets of homeless people. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
 They also operate the “Pet Refuge” program, which can temporarily board pets for people whose housing situation has become unstable or who are temporarily unable to care for their pets. <!-- This is new: https://www.newtimesslo.com/c-a-r-e-4paws-will-offer-boarding-for-pets-living-with-struggling-families/ -->
 
-[**Woods Humane Society**](Directory.md#Woods-Humane-Society) has a [Pet Pantry](https://woodshumanesociety.org/pet-pantry/) for pet owners facing challenges and offers financial assistance for spay/neuter procedures.
-They can also help you find lost pets and can find new homes for pets when their owners can no longer take care of them. <!-- https://woodshumanesociety.org/resources/lost-pet-help/ and https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
-Some services are by-appointment only. <!-- Source: e.g. https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
+[**Woods Humane Society**](Directory.md#Woods-Humane-Society) tiene una [Despensa para Mascotas](https://woodshumanesociety.org/pet-pantry/) (Pet Pantry) para dueños de mascotas que enfrentan desafíos y ofrece asistencia financiera para procedimientos de esterilización/castración.
+También pueden ayudarle a encontrar mascotas perdidas y pueden encontrar nuevos hogares para mascotas cuando sus dueños ya no pueden cuidarlas. <!-- https://woodshumanesociety.org/resources/lost-pet-help/ and https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
+Algunos servicios son solo con cita. <!-- Source: e.g. https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
 
-[**North County Paws Cause**](Directory.md#North-County-Paws-Cause) can help people in northern SLO County who need help caring for their cats while they are homeless or transitioning into new housing.
+[**North County Paws Cause**](Directory.md#North-County-Paws-Cause) puede ayudar a personas en el norte del Condado de SLO que necesitan ayuda para cuidar a sus gatos mientras están sin hogar o en transición a nueva vivienda.
 
-[**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) is a national organization that focuses on feeding and providing veterinary care to pets of people experiencing homelessness. <!-- Source: https://petsofthehomeless.org/ -->
-If your pet needs veterinary care, call them to arrange an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic. <!-- SOURCE NEEDED -->
-There is no charge to the pet owner, but donations are appreciated. <!-- SOURCE NEEDED -->
+[**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) (Mascotas de Personas sin Hogar) es una organización nacional que se enfoca en alimentar y proporcionar atención veterinaria a mascotas de personas que experimentan falta de hogar. <!-- Source: https://petsofthehomeless.org/ -->
+Si su mascota necesita atención veterinaria, llámelos para organizar una entrevista con un administrador de casos que determinará su elegibilidad, aprobará un examen y ayudará a hacer una cita en un hospital o clínica local. <!-- SOURCE NEEDED -->
+No hay cargo para el dueño de la mascota, pero se aprecian las donaciones. <!-- SOURCE NEEDED -->
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-Pets must have documentation of rabies vaccinations. <!-- SOURCE NEEDED -->
+El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene una perrera para huéspedes (tanto huéspedes durante la noche como huéspedes del centro de calefacción/enfriamiento). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Las mascotas deben tener documentación de vacunas contra la rabia. <!-- SOURCE NEEDED -->
 
 [**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
 They typically happen 3–4 times per academic quarter at various locations around SLO County, often in coordination with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People).
 
-[**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have only limited funds. <!-- TBD: Need info on how to apply to this program (issue #82) -->
+[**Kritter Care**](Directory.md#Kritter-Care), con base en Morro Bay, puede dar comida para perros y gatos, suministros para mascotas y asistencia con facturas veterinarias a dueños de mascotas que tienen solo fondos limitados. <!-- TBD: Need info on how to apply to this program (issue #82) -->
 
-[**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) helps seniors, people with disabilities, terminal illnesses, and individuals on fixed incomes to pay for medical treatments for their pets.
+El [**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) (Programa de Ayuda a Amigos de Voz para los Animales) ayuda a personas mayores, personas con discapacidades, enfermedades terminales e individuos con ingresos fijos a pagar tratamientos médicos para sus mascotas.
 
-[The Pet Fund](https://www.thepetfund.com/) is a national organization that provides financial assistance to pet owners who need non-emergency veterinary care but lack sufficient funds. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
-Submit an [application](https://www.thepetfund.com/for-pet-owners/the-pet-fund-application) at their website.
-You must document your financial need and provide veterinary care estimates. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
+[The Pet Fund](https://www.thepetfund.com/) (El Fondo para Mascotas) es una organización nacional que proporciona asistencia financiera a dueños de mascotas que necesitan atención veterinaria no de emergencia pero carecen de fondos suficientes. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
+Envíe una [solicitud](https://www.thepetfund.com/for-pet-owners/the-pet-fund-application) en su sitio web.
+Debe documentar su necesidad financiera y proporcionar estimaciones de atención veterinaria. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
 
-[**Red Rover Relief**](Directory.md#Red-Rover-Relief) provides one-time urgent care grants of up to $1,000 to pay for pet medical emergencies. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
-This is only for people in the U.S. with income under $60,000 per year. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
-You must make a fundraising effort first before you contact Red Rover Relief. <!-- SOURCE NEEDED -->
-You must supply a current veterinary diagnosis and treatment plan. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
-Grants do not cover exams or testing. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+[**Red Rover Relief**](Directory.md#Red-Rover-Relief) proporciona subvenciones únicas de cuidado urgente de hasta $1,000 para pagar emergencias médicas de mascotas. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+Esto es solo para personas en los EE.UU. con ingresos menores de $60,000 por año. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+Debe hacer un esfuerzo de recaudación de fondos primero antes de contactar a Red Rover Relief. <!-- SOURCE NEEDED -->
+Debe proporcionar un diagnóstico veterinario actual y un plan de tratamiento. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
+Las subvenciones no cubren exámenes o pruebas. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 
 -----
 
 ## <a id="disaster-preparedness">Planificación y Preparación para Desastres</a>
 
-Fires, floods, and earthquakes sometimes strike SLO County.
-Extremes of weather like heat waves, freezing temperatures, and storms are also increasingly common.
-Epidemics, tsunamis, and hazardous materials releases can also happen.
-If you are homeless and sleeping outdoors, you can be especially vulnerable to such dangers.
+Los incendios, inundaciones y terremotos a veces golpean el Condado de SLO.
+Los extremos del clima como olas de calor, temperaturas congelantes y tormentas también son cada vez más comunes.
+Las epidemias, tsunamis y liberaciones de materiales peligrosos también pueden suceder.
+Si está sin hogar y durmiendo al aire libre, puede ser especialmente vulnerable a tales peligros.
 
-The [**SLO County Office of Emergency Services**](Directory.md#SLO-County-Office-of-Emergency-Services) has resources that can help you prepare for and respond to emergency situations.
-Their [ReadySLO.org](https://readyslo.org/) site includes the following sections:
+La [**SLO County Office of Emergency Services**](Directory.md#SLO-County-Office-of-Emergency-Services) (Oficina de Servicios de Emergencia del Condado de SLO) tiene recursos que pueden ayudarle a prepararse y responder a situaciones de emergencia.
+Su sitio [ReadySLO.org](https://readyslo.org/) incluye las siguientes secciones:
 
-1. [PrepareSLO.org](https://www.prepareslo.org/)—how to prepare for the next emergency, how to learn your evacuation zone number, and how to understand emergency alerts
-1. [EmergencySLO.org](https://www.emergencyslo.org/)—information about ongoing emergencies, evacuation orders and warnings, evacuation shelters, and road closures
-1. [RecoverSLO.org](https://www.recoverslo.org/)—after an emergency, this page lists some ways to recover from it
+1. [PrepareSLO.org](https://www.prepareslo.org/)—cómo prepararse para la próxima emergencia, cómo aprender su número de zona de evacuación y cómo entender las alertas de emergencia
+1. [EmergencySLO.org](https://www.emergencyslo.org/)—información sobre emergencias en curso, órdenes y advertencias de evacuación, refugios de evacuación y cierres de carreteras
+1. [RecoverSLO.org](https://www.recoverslo.org/)—después de una emergencia, esta página lista algunas maneras de recuperarse de ella
 
 You can register to get local emergency alerts by text message on your phone at [AlertSLO](https://public.alertsense.com/SignUp/?RegionId=1317).
 You can choose which sorts of alerts you are interested in receiving (for example “Flood / Flash Flood” and “Fire”). <!-- Source: https://public.alertsense.com/SignUp/publicUser.aspx?RegionId=1317 -->
 
-The [**Red Cross**](Directory.md#Red-Cross) operates emergency shelters during major disasters. <!-- SOURCE NEEDED -->
-They usually have pet-friendly options. <!-- SOURCE NEEDED -->
+La [**Red Cross**](Directory.md#Red-Cross) (Cruz Roja) opera refugios de emergencia durante desastres mayores. <!-- SOURCE NEEDED -->
+Usualmente tienen opciones que aceptan mascotas. <!-- SOURCE NEEDED -->
 
 ### <a id="fire-safety">Seguridad contra Incendios en el Campamento</a>
 
-If you are camping outdoors, be very careful with fire.
-California frequently experiences major wildfires, and campfires are a frequent cause.
+Si está acampando al aire libre, tenga mucho cuidado con el fuego.
+California experimenta frecuentemente grandes incendios forestales, y las fogatas son una causa frecuente.
 
-Build fires at least 25 feet away from tents, shrubs, and flammable materials.
-Do not build fires under overhanging tree branches.
-Avoid fires on windy days and during periods when fire danger is particularly high (such as mid to late Summer).
-Do not use flammable liquids like gasoline or lighter fluid to start camp fires.
+Construya fogatas al menos 25 pies (7.5 metros) lejos de tiendas de campaña, arbustos y materiales inflamables.
+No construya fogatas debajo de ramas de árboles que cuelgan.
+Evite fogatas en días ventosos y durante períodos cuando el peligro de incendio es particularmente alto (como a mediados o fines del verano).
+No use líquidos inflamables como gasolina o líquido para encendedor para iniciar fogatas.
 
-Keep fires small.
-It is wiser and takes less effort to make a small fire and sit close to it than to make a big fire and sit far away.
+Mantenga las fogatas pequeñas.
+Es más sabio y toma menos esfuerzo hacer una fogata pequeña y sentarse cerca de ella que hacer una fogata grande y sentarse lejos.
 
-Use existing fire rings when these are available.
-Otherwise clear a five-foot (two-meter) radius around the fire of all vegetation and flammable material.
+Use anillos de fuego existentes cuando estos están disponibles.
+De lo contrario, despeje un radio de cinco pies (dos metros) alrededor del fuego de toda vegetación y material inflamable.
 
-Have a bucket of water handy.
+Tenga un balde de agua a mano.
 
-Do not leave a fire unattended.
-Always extinguish it thoroughly first.
-To extinguish a fire thoroughly, soak it with water.
-Stir the ashes to expose any unburned material, and soak it again.
-The fire is not thoroughly extinguished until you can place your hand anywhere into the ashes without getting burned.
+No deje una fogata desatendida.
+Siempre extíngala completamente primero.
+Para extinguir una fogata completamente, empápela con agua.
+Revuelva las cenizas para exponer cualquier material no quemado, y empápelo de nuevo.
+La fogata no está completamente extinguida hasta que pueda colocar su mano en cualquier lugar en las cenizas sin quemarse.
 
-Note that in SLO County it is not legal to have a campfire outside of a developed campground unless you have a valid [California Campfire Permit](https://www.ca.gov/departments/147/services/1239/). <!-- SOURCE NEEDED -->
-In many times and places in SLO County it is not legal to make a campfire whether you have such a permit or not. <!-- SOURCE NEEDED -->
+Tenga en cuenta que en el Condado de SLO no es legal tener una fogata fuera de un campamento desarrollado a menos que tenga un [Permiso de Fogata de California](https://www.ca.gov/departments/147/services/1239/) (California Campfire Permit) válido. <!-- SOURCE NEEDED -->
+En muchos momentos y lugares en el Condado de SLO no es legal hacer una fogata ya sea que tenga tal permiso o no. <!-- SOURCE NEEDED -->
 
 ### <a id="extreme-cold-and-heat">Frío y Calor Extremos</a>
 
-SLO County is in general blessed with a moderate climate, but rainy or dangerously cold overnight weather is common in Winter, and dangerously hot daytime weather is common in Summer.
-See the [Warming/Cooling Centers](#warming-cooling-centers) of this guide for some ways to get shelter from these temperature extremes.
-Warming centers typically open when temperatures are due to drop to 38°F or below or there is more than a 50% chance of rain.
+El Condado de SLO está en general bendecido con un clima moderado, pero el clima lluvioso o peligrosamente frío durante la noche es común en invierno, y el clima peligrosamente caluroso durante el día es común en verano.
+Vea los [Centros de Calefacción/Enfriamiento](#warming-cooling-centers) de esta guía para algunas maneras de obtener refugio de estos extremos de temperatura.
+Los centros de calefacción típicamente abren cuando se espera que las temperaturas caigan a 38°F o menos o hay más del 50% de posibilidad de lluvia.
 
 -----
 
