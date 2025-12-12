@@ -451,98 +451,98 @@ El [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) de 
 También ofrecen administración de casos y talleres de habilidades para la vida (presupuesto, reparación de crédito, comunicación), pases de autobús, tarjetas de gasolina y asistencia con documentos. <!-- SOURCE NEEDED (issue #36) -->
 
 [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (también conocido como "Mi Hogar para la Esperanza") y [**Cabins for Change**](Directory.md#Cabins-for-Change), ambos en Grover Beach, operan muchas "casas pequeñas" individuales que sirven como vivienda de transición. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
-The cabins come with 24/7 support, case management, connections to food services and recovery, and house stabilization guidance. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
-They have on-site showers. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
-They accept vaccinated, well-behaved dogs. <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
-They will not admit P.C. 290 registered sex offenders. <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
-They typically have a long waiting list. <!-- SOURCE NEEDED -->
-Apply through [**5Cities Homeless Coalition**](Directory.md#5CHC) to get on the waiting list. <!-- SOURCE NEEDED -->
+Las cabañas vienen con apoyo 24/7, administración de casos, conexiones a servicios de alimentos y recuperación, y orientación para estabilización de vivienda. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
+Tienen duchas en el lugar. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
+Aceptan perros vacunados y bien portados. <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
+No admitirán a delincuentes sexuales registrados P.C. 290. <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
+Generalmente tienen una larga lista de espera. <!-- SOURCE NEEDED -->
+Solicite a través de [**5Cities Homeless Coalition**](Directory.md#5CHC) para entrar en la lista de espera. <!-- SOURCE NEEDED -->
 
-[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) operates several affordable housing properties in SLO county.
-Typically in these projects, residents pay part of the rent, while the rest of the rent is paid for them by subsidies or vouchers. <!-- Source: https://www.haslo.org/housing-options-copy -->
-To qualify to rent one of these housing units, you must have enough income to pay your part of the rent, but you must not have so much income that you could afford non-subsidized housing. <!-- SOURCE NEEDED -->
-Typically this means households that earn less than 30% of the area median income. <!-- SOURCE NEEDED -->
-Preference is given to SLO County residents and to veterans. <!-- SOURCE NEEDED -->
-Some housing is restricted to seniors (age 62 and above). <!-- SOURCE NEEDED -->
-You need to provide proof of income and your prior rental history. <!-- SOURCE NEEDED -->
-Most of these housing units have wait lists, and only some of them accept new applications at any time. <!-- Source: https://www.haslo.org/housing-options-copy -->
+[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO) opera varias propiedades de vivienda asequible en el condado de SLO.
+Típicamente en estos proyectos, los residentes pagan parte de la renta, mientras que el resto de la renta se paga por ellos mediante subsidios o vales. <!-- Source: https://www.haslo.org/housing-options-copy -->
+Para calificar para rentar una de estas unidades de vivienda, debe tener ingresos suficientes para pagar su parte de la renta, pero no debe tener tantos ingresos como para poder pagar vivienda no subsidiada. <!-- SOURCE NEEDED -->
+Típicamente esto significa hogares que ganan menos del 30% del ingreso medio del área. <!-- SOURCE NEEDED -->
+Se da preferencia a residentes del condado de SLO y a veteranos. <!-- SOURCE NEEDED -->
+Algunas viviendas están restringidas a personas mayores (edad 62 y mayor). <!-- SOURCE NEEDED -->
+Necesita proporcionar prueba de ingresos y su historial de alquiler previo. <!-- SOURCE NEEDED -->
+La mayoría de estas unidades de vivienda tienen listas de espera, y solo algunas de ellas aceptan nuevas solicitudes en cualquier momento. <!-- Source: https://www.haslo.org/housing-options-copy -->
 
-[**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) operates several affordable housing properties in Paso Robles designed for people who have around 30–60% of the area median income. <!-- Source: https://pasoroblesha.org/about/ -->
-You can download an application from their website. <!-- Source e.g. https://pasoroblesha.org/affordable-housing/oak-park-1-2/ -->
-If your application is accepted, you will be put on the waiting list. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2020/09/Tenant-Selection-Plan-for-OP1.pdf -->
-You must include copies of the latest three months’ paycheck stubs, proof of other sources of income, and a copy of your last two years’ federal income tax returns. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2025/05/OP1-OP2-APP-INSTRUCTION-SHT.pdf -->
-You may be rejected if you recently were evicted, defaulted on debts, or have certain criminal convictions. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2020/09/Tenant-Selection-Plan-for-OP1.pdf -->
+[**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) opera varias propiedades de vivienda asequible en Paso Robles diseñadas para personas que tienen alrededor del 30–60% del ingreso medio del área. <!-- Source: https://pasoroblesha.org/about/ -->
+Puede descargar una solicitud de su sitio web. <!-- Source e.g. https://pasoroblesha.org/affordable-housing/oak-park-1-2/ -->
+Si su solicitud es aceptada, será colocado en la lista de espera. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2020/09/Tenant-Selection-Plan-for-OP1.pdf -->
+Debe incluir copias de los talones de cheque de pago de los últimos tres meses, prueba de otras fuentes de ingresos y una copia de sus declaraciones de impuestos federales de los últimos dos años. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2025/05/OP1-OP2-APP-INSTRUCTION-SHT.pdf -->
+Puede ser rechazado si recientemente fue desalojado, incumplió con deudas o tiene ciertas condenas penales. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2020/09/Tenant-Selection-Plan-for-OP1.pdf -->
 
-[**Lumina Alliance**](Directory.md#Lumina-Alliance) operates a six- to 24-month [transitional housing program](https://luminaalliance.org/transitional-housing/) for individuals and families who are fleeing domestic violence, dating violence, sexual assault, and/or stalking. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
-People housed through this program also get access to advocacy services, employment assistance, counseling, legal help, children’s services, life skills development, and help obtaining permanent housing. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
-If you are homeless or need housing due to fleeing abusive situation, have low or very low income, and are willing to participate in Lumina’s program and to cooperate with them in following a safety plan, you may qualify for transitional housing through this program. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
+[**Lumina Alliance**](Directory.md#Lumina-Alliance) opera un [programa de vivienda de transición](https://luminaalliance.org/transitional-housing/) de seis a 24 meses para individuos y familias que están huyendo de violencia doméstica, violencia en relaciones de pareja, agresión sexual y/o acoso. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
+Las personas alojadas a través de este programa también obtienen acceso a servicios de defensa, asistencia de empleo, consejería, ayuda legal, servicios para niños, desarrollo de habilidades para la vida y ayuda para obtener vivienda permanente. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
+Si está sin hogar o necesita vivienda debido a huir de una situación abusiva, tiene ingresos bajos o muy bajos, y está dispuesto a participar en el programa de Lumina y cooperar con ellos en seguir un plan de seguridad, puede calificar para vivienda de transición a través de este programa. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
 
-SLO County adults with mental illness may qualify for supportive housing in multiple county locations through the [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) [residential housing program](https://www.t-mha.org/housing.php).
+Los adultos del condado de SLO con enfermedad mental pueden calificar para vivienda de apoyo en múltiples ubicaciones del condado a través del [programa de vivienda residencial](https://www.t-mha.org/housing.php) de [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA).
 
-The [**HomeShare SLO**](Directory.md#HomeShare-SLO) program matches property owners who have an extra room with people who need a place to live. <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
-<!-- Still true? They have a “reduced rent task exchange” program with which you can do 8–15 hours of work per week to get a rent reduction. -->
+El programa [**HomeShare SLO**](Directory.md#HomeShare-SLO) conecta a propietarios que tienen una habitación extra con personas que necesitan un lugar para vivir. <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
+<!-- Still true? They have a "reduced rent task exchange" program with which you can do 8–15 hours of work per week to get a rent reduction. -->
 
-[**Restorative Partners**](Directory.md#Restorative-Partners) runs a [housing program](https://restorativepartners.org/housing/) with multiple transitional housing programs for men, women, and families in various SLO County locations. <!-- Source: https://restorativepartners.org/housing/ -->
-These programs are for people in recovery from addiction and people transitioning from incarceration. <!-- SOURCE NEEDED -->
-Some are specific to women with children. <!-- SOURCE NEEDED -->
-Along with housing, residents get help with employment support, financial literacy, life skills, addiction recovery, and help finding permanent housing. <!-- SOURCE NEEDED -->
-There is a wait list. <!-- SOURCE NEEDED -->
+[**Restorative Partners**](Directory.md#Restorative-Partners) opera un [programa de vivienda](https://restorativepartners.org/housing/) con múltiples programas de vivienda de transición para hombres, mujeres y familias en varias ubicaciones del condado de SLO. <!-- Source: https://restorativepartners.org/housing/ -->
+Estos programas son para personas en recuperación de adicción y personas en transición de encarcelamiento. <!-- SOURCE NEEDED -->
+Algunos son específicos para mujeres con niños. <!-- SOURCE NEEDED -->
+Junto con vivienda, los residentes obtienen ayuda con apoyo de empleo, alfabetización financiera, habilidades para la vida, recuperación de adicción y ayuda para encontrar vivienda permanente. <!-- SOURCE NEEDED -->
+Hay una lista de espera. <!-- SOURCE NEEDED -->
 
-[**Salvation Army**](Directory.md#Salvation-Army) has a “Rapid Rehousing Program” that helps people find and qualify for long-term housing. <!-- Source: https://caringmagazine.org/how-the-salvation-army-in-san-luis-obispo-is-reaching-unhoused-people-street-level-program/ -->
-Contact Hattie Davis ([hattie.davis@usw.salvationarmy.org](mailto:hattie.davis@usw.salvationarmy.org)) for details. <!-- SOURCE NEEDED (issue #60) -->
+[**Salvation Army**](Directory.md#Salvation-Army) tiene un "Programa de Reubicación Rápida" que ayuda a las personas a encontrar y calificar para vivienda a largo plazo. <!-- Source: https://caringmagazine.org/how-the-salvation-army-in-san-luis-obispo-is-reaching-unhoused-people-street-level-program/ -->
+Comuníquese con Hattie Davis ([hattie.davis@usw.salvationarmy.org](mailto:hattie.davis@usw.salvationarmy.org)) para detalles. <!-- SOURCE NEEDED (issue #60) -->
 
-The [**HouseKeys**](Directory.md#HouseKeys) program is the city of SLO’s affordable home-ownership program.
-It serves households with about 30–50% of the area median income. <!-- SOURCE NEEDED -->
-Their idea of “affordable” may not be yours.
-If you want to apply for housing through this program, begin the [application process](https://www.housekeys.org/applicationprocess) described on their website.
+El programa [**HouseKeys**](Directory.md#HouseKeys) es el programa de propiedad de vivienda asequible de la ciudad de SLO.
+Sirve a hogares con aproximadamente 30–50% del ingreso medio del área. <!-- SOURCE NEEDED -->
+Su idea de "asequible" puede no ser la suya.
+Si desea solicitar vivienda a través de este programa, comience el [proceso de solicitud](https://www.housekeys.org/applicationprocess) descrito en su sitio web.
 
-[**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) operates a home ownership program for first-time low-income home buyers and home preservation assistance (minor repairs, landscaping, painting) for low-income homeowners. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
-Apply via their website. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
+[**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) opera un programa de propiedad de vivienda para compradores de vivienda de bajos ingresos por primera vez y asistencia de preservación de vivienda (reparaciones menores, jardinería, pintura) para propietarios de vivienda de bajos ingresos. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
+Solicite a través de su sitio web. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 
-[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates a “sweat equity” homeownership program in which families help to build their own homes. <!-- Source: https://www.pshhc.org/home-ownership/ -->
-They also operate affordable rental housing developments and supportive housing programs. <!-- Sources: https://www.pshhc.org/rental-properties/ and https://www.pshhc.org/supportive-housing/ -->
-They serve low-income families, farmworkers, seniors, veterans, people with disabilities, and formerly-homeless people. <!-- Source: https://www.pshhc.org/rental-faq/#1603302191846-0d88dd41-feca -->
-Contact them directly to access the program. <!-- Source: https://www.pshhc.org/rental-faq/#1755192260681-29f97bf4-933c -->
+[**Peoples' Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) opera un programa de propiedad de vivienda de "capital sudado" en el que las familias ayudan a construir sus propias casas. <!-- Source: https://www.pshhc.org/home-ownership/ -->
+También operan desarrollos de vivienda de alquiler asequible y programas de vivienda de apoyo. <!-- Sources: https://www.pshhc.org/rental-properties/ and https://www.pshhc.org/supportive-housing/ -->
+Sirven a familias de bajos ingresos, trabajadores agrícolas, personas mayores, veteranos, personas con discapacidades y personas anteriormente sin hogar. <!-- Source: https://www.pshhc.org/rental-faq/#1603302191846-0d88dd41-feca -->
+Comuníquese con ellos directamente para acceder al programa. <!-- Source: https://www.pshhc.org/rental-faq/#1755192260681-29f97bf4-933c -->
 
-Some other low-income options include:
+Algunas otras opciones de bajos ingresos incluyen:
 
-- [Roosevelt Family Apartments](https://www.rooseveltfamilyapts.com/) in Nipomo. <!-- SOURCE NEEDED -->
-- [San Luis Bay Apartments](https://www.gsfpi.com/) in Nipomo. <!-- SOURCE NEEDED -->
+- [Roosevelt Family Apartments](https://www.rooseveltfamilyapts.com/) en Nipomo. <!-- SOURCE NEEDED -->
+- [San Luis Bay Apartments](https://www.gsfpi.com/) en Nipomo. <!-- SOURCE NEEDED -->
 
-If you are a refugee from another country, you may be able to get some help establishing housing from [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ (somewhat vague about what specifically they offer here) -->
+Si es un refugiado de otro país, es posible que pueda obtener ayuda para establecer vivienda de [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ (somewhat vague about what specifically they offer here) -->
 
 #### Para Personas Mayores
 
 <!-- Note: the “Assisted Living Waiver” program is not available in SLO yet. There are no Assisted Living / Residential Care For the Elderly (RCFE) facilities in SLO County that accept Medi-Cal. If you need a Medi-Cal facility of that type, you’ll have to go out of the area. Source: Amelia Grover’s presentation at the 5 Nov. 2025 Collaborative Outreach meeting -->
 
-[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority), and [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operate several affordable senior housing rental properties. <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
+[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) y [**Peoples' Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operan varias propiedades de alquiler de vivienda asequible para personas mayores. <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 
-There are some additional subsidized and affordable housing options especially for seniors (sometimes defined as age 55 and above, or as 62 and above).
-These include:
+Hay algunas opciones adicionales de vivienda subsidiada y asequible especialmente para personas mayores (a veces definidas como edad 55 y mayor, o como 62 y mayor).
+Estas incluyen:
 
 - [Cortina d’Arroyo Grande Senior Apartments](https://cortinadarroyograndeseniorapts.com/) (<a href="#" class="map-link" data-lat="35.122208" data-lon="-120.607207" data-zoom="17" data-label="Cortina d’Arroyo Grande Senior Apartments">241 N. Courtland Ave., Arroyo Grande</a>) — [805-489-6888](tel:+1-805-489-6888) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 - Parkview Manor (<a href="#" class="map-link" data-lat="35.113380" data-lon="-120.600175" data-zoom="17" data-label="Parkview Manor">365 South Elm St., Arroyo Grande</a>) — [805-489-5101](tel:+1-805-489-5101) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
-- [**Judson Terrace**](Directory.md#Judson-Terrace) (SLO), has 107 low-income affordable apartments for people aged 55 and up, and 32 low-income affordable apartments for people aged 62 and up. They only accept applications when the waiting list is open. <!-- Sources: https://www.humangood.org/judson-terrace-homes and https://www.humangood.org/judson-terrace-lodge -->
+- [**Judson Terrace**](Directory.md#Judson-Terrace) (SLO), tiene 107 apartamentos asequibles de bajos ingresos para personas de 55 años en adelante, y 32 apartamentos asequibles de bajos ingresos para personas de 62 años en adelante. Solo aceptan solicitudes cuando la lista de espera está abierta. <!-- Sources: https://www.humangood.org/judson-terrace-homes and https://www.humangood.org/judson-terrace-lodge -->
 
-Affordable housing options for seniors with Section 8 vouchers include:
+Las opciones de vivienda asequible para personas mayores con vales de Section 8 incluyen:
 
 - Morro del Mar Senior Apartments (<a href="#" class="map-link" data-lat="35.363321" data-lon="-120.849837" data-zoom="17" data-label="Morro del Mar Senior Apartments">555 Main St., Morro Bay</a>) — [805-225-1837](tel:+1-805-225-1837) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 - [Villa Paseo Senior Apartments](https://villapaseo.com/) (<a href="#" class="map-link" data-lat="35.578160" data-lon="-120.696694" data-zoom="17" data-label="Villa Paseo Palms">2800 Ramada Dr., Paso Robles</a>) — [805-227-4588](tel:+1-805-227-4588) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 - [Las Brisas Retirement Community](https://www.sunshineretirementliving.com/las-brisas-independent-senior-living-san-luis-obispo-ca/) (SLO) <!-- SOURCE NEEDED -->
 
-Affordable housing options for disabled / handicapped seniors can be found at:
+Las opciones de vivienda asequible para personas mayores con discapacidades se pueden encontrar en:
 
 - [California Manor](https://www.buckinghampm.com/homes/california-manor) (<a href="#" class="map-link" data-lat="35.462401" data-lon="-120.645271" data-zoom="17" data-label="California Manor">10165 El Camino Real, Atascadero</a>) — [805-466-0759](tel:+1-805-466-0759) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 - [Hacienda Del Norte](https://www.mbspminc.com/property/1606/Hacienda-Del-Norte/) (<a href="#" class="map-link" data-lat="35.624894" data-lon="-120.693013" data-zoom="17" data-label="Hacienda Del Norte">529 10th St., Paso Robles</a>) — [805-238-5793](tel:+1-805-238-5793) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 - Brizzolara St. Apartments (<a href="#" class="map-link" data-lat="35.280660" data-lon="-120.668432" data-zoom="17" data-label="Brizzolara Street Apartments">611 Brizzolara, SLO</a>) <!-- SOURCE NEEDED -->
 - Marvin Gardens (<a href="#" class="map-link" data-lat="35.262116" data-lon="-120.642638" data-zoom="17" data-label="Marvin Gardens">1105 Laurel Lane, SLO</a>) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 
-You can find additional [senior housing listings](https://centralcoastseniors.org/senior-independent-housing-options/) at the [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) website.
+Puede encontrar [listados adicionales de vivienda para personas mayores](https://centralcoastseniors.org/senior-independent-housing-options/) en el sitio web de [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens).
 
-If you need Assistive Living or Residential Care for the Elderly (RCFE) housing, there are some options in SLO County, but none of them accept Medi-Cal. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
-If you need such housing and Medi-Cal is your only health insurance, you can get on a waiting list for a facility outside of SLO County. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
-This is a lengthy process, so if you think you might need such a living situation in the future (even as long as a year or more from now), you should try to start this process now. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
-Discuss this with your case manager if you have one, or with the [**Long-Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman).
+Si necesita vivienda con vida asistida o cuidado residencial para ancianos (RCFE), hay algunas opciones en el condado de SLO, pero ninguna acepta Medi-Cal. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
+Si necesita este tipo de vivienda y Medi-Cal es su único seguro de salud, puede inscribirse en una lista de espera para un centro fuera del condado de SLO. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
+Este es un proceso largo, así que si cree que podría necesitar este tipo de vivienda en el futuro (incluso dentro de un año o más), debe intentar iniciar este proceso ahora. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
+Hable de esto con su administrador de casos si tiene uno, o con el [**Long-Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman).
 
 <!-- Can leave this out:
 #### Posibilidades Futuras
@@ -572,41 +572,41 @@ The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopean
 
 ### <a id="housing-veterans">Para Veteranos Militares de los Estados Unidos</a>
 
-U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
-This help includes housing assistance, case management, and financial assistance; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, and utilities; housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, landlord-tenant mediation, and future housing stability planning. <!-- Sources: https://www.va.gov/homeless/ssvf/ssvf-overview/ and https://capslo.org/ssvf/ -->
-You must have a DD214 with discharge other than dishonorable. <!-- SOURCE NEEDED -->
+Los veteranos militares de los Estados Unidos que tienen bajos ingresos y que están sin hogar o en riesgo de quedarse sin hogar pueden obtener ayuda de [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
+Esta ayuda incluye asistencia de vivienda, administración de casos y asistencia financiera; servicios de realojamiento rápido y prevención de la falta de vivienda; asistencia financiera temporal para renta, depósitos y servicios públicos; evaluaciones de barreras de vivienda, asistencia de emergencia para estabilidad de vivienda, asesoramiento sobre vivienda, educación sobre contratos de alquiler, mediación entre arrendador e inquilino, y planificación para estabilidad de vivienda futura. <!-- Sources: https://www.va.gov/homeless/ssvf/ssvf-overview/ and https://capslo.org/ssvf/ -->
+Debe tener un DD214 con licencia que no sea deshonrosa. <!-- SOURCE NEEDED -->
 
-The [**RVs for Veterans**](Directory.md#RVs-for-Veterans) program can get you a free RV (e.g. motorhome, travel trailer, or fifth wheel). <!-- Source: https://hopesvillageofslo.com/programs -->
-These are donated by other members of the community, and are available as they are donated. <!-- Source: https://hopesvillageofslo.com/programs -->
-Contact them to be put on a waiting list for the next RV. <!-- Source: https://hopesvillageofslo.com/programs -->
-Priority is given to homeless veterans, veterans who receive insufficient benefits to pay rent, veterans who do not qualify for VA assistance, and veterans who need to live alone because of PTSD. <!-- SOURCE NEEDED -->
-Sometimes the program also has RVs available for people who are experiencing homelessness who are not veterans. <!-- SOURCE NEEDED -->
-The RVs are in working condition, with no leaks; you must obtain insurance. <!-- SOURCE NEEDED -->
+El programa [**RVs for Veterans**](Directory.md#RVs-for-Veterans) puede conseguirle un RV gratis (por ejemplo, casa rodante motorizada, remolque de viaje o quinta rueda). <!-- Source: https://hopesvillageofslo.com/programs -->
+Estos son donados por otros miembros de la comunidad, y están disponibles a medida que se donan. <!-- Source: https://hopesvillageofslo.com/programs -->
+Contáctelos para inscribirse en una lista de espera para el próximo RV. <!-- Source: https://hopesvillageofslo.com/programs -->
+Se da prioridad a los veteranos sin hogar, veteranos que reciben beneficios insuficientes para pagar la renta, veteranos que no califican para asistencia del VA, y veteranos que necesitan vivir solos debido al trastorno por estrés postraumático (TEPT). <!-- SOURCE NEEDED -->
+A veces el programa también tiene RVs disponibles para personas sin hogar que no son veteranos. <!-- SOURCE NEEDED -->
+Los RVs están en buenas condiciones, sin fugas; usted debe obtener seguro. <!-- SOURCE NEEDED -->
 
-Homeless veterans can get help from the U.S. Department of Housing and Urban Development’s V.A. Supportive Housing (VASH) program, which can give you vouchers to pay for permanent housing. <!-- Source: https://www.va.gov/homeless/hud-vash.asp -->
-Call [877-4AID-VET](tel:+1-877-424-3838) or ask for help from [**SLO County Veterans Services**](Directory.md#Veterans-Services). <!-- SOURCE NEEDED -->
+Los veteranos sin hogar pueden obtener ayuda del programa V.A. Supportive Housing (VASH) del Departamento de Vivienda y Desarrollo Urbano de los Estados Unidos, que puede darle vales para pagar vivienda permanente. <!-- Source: https://www.va.gov/homeless/hud-vash.asp -->
+Llame al [877-4AID-VET](tel:+1-877-424-3838) o solicite ayuda de [**SLO County Veterans Services**](Directory.md#Veterans-Services). <!-- SOURCE NEEDED -->
 
-> See [Automobile Insurance and Repair](#auto-insurance-and-repair) for tips on how to obtain low-cost auto insurance.
+> Vea [Seguro y Reparación de Automóviles](#auto-insurance-and-repair) para consejos sobre cómo obtener seguro de automóvil de bajo costo.
 
 ### <a id="sober-living-homes">Casas de Vida Sobria y Opciones de Tratamiento Residencial</a>
 
-[**SLO Hub**](Directory.md#SLO-Hub) helps you find a residential (live-in) recovery program that’s right for you, and can pay the deposit and rent for the opening months of your residency if you cannot afford it or if your insurance does not cover it. <!-- SOURCE NEEDED -->
+[**SLO Hub**](Directory.md#SLO-Hub) le ayuda a encontrar un programa residencial de recuperación que sea adecuado para usted, y puede pagar el depósito y la renta de los primeros meses de su residencia si no puede pagarla o si su seguro no la cubre. <!-- SOURCE NEEDED -->
 
-[**SLO County Behavioral Health Department**](Directory.md#SLO-County-Behavioral-Health) contracts with sober living environments throughout SLO County (from Oceano to Paso Robles) at rates of $35–55 per day. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
-These facilities accept Medi-Cal and offer sliding scale fees based on ability to pay. <!-- SOURCE NEEDED -->
-Visit [**SLO County Drug and Alcohol Services**](Directory.md##SLO-County-Drug-and-Alcohol-Services) or contact the Behavioral Health access line at [800-838-1381](tel:+1-800-838-1381) for referrals. <!-- SOURCE NEEDED -->
+[**SLO County Behavioral Health Department**](Directory.md#SLO-County-Behavioral-Health) tiene contratos con entornos de vida sobria en todo el condado de SLO (desde Oceano hasta Paso Robles) a tarifas de $35–55 por día. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
+Estas instalaciones aceptan Medi-Cal y ofrecen tarifas de escala móvil según la capacidad de pago. <!-- SOURCE NEEDED -->
+Visite [**SLO County Drug and Alcohol Services**](Directory.md##SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Behavioral Health al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
 
-Here are some residential treatment options in SLO County:
+Aquí hay algunas opciones de tratamiento residencial en el condado de SLO:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
 <!-- Note: Restorative Partners runs some sober living homes in the area, but these are specifically designed for people reentering society from jail/prison custody -->
 
-- [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) for women only <!-- SOURCE NEEDED -->
-- [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) for women only. Also known as “Sunshine House.” <!-- SOURCE NEEDED -->
-- [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) for men only <!-- SOURCE NEEDED -->
-- [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) for men only <!-- SOURCE NEEDED -->
-- [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) for women only <!-- SOURCE NEEDED -->
-- [**Middlehouse**](Directory.md#Middlehouse) (SLO) for men only <!-- SOURCE NEEDED -->
-- [**Sun Street Centers**](Directory.md#Sun-Street-Centers) (SLO) for men only <!-- SOURCE NEEDED -->
+- [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) solo para mujeres <!-- SOURCE NEEDED -->
+- [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) solo para mujeres. También conocida como "Sunshine House." <!-- SOURCE NEEDED -->
+- [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) solo para hombres <!-- SOURCE NEEDED -->
+- [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) solo para hombres <!-- SOURCE NEEDED -->
+- [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) solo para mujeres <!-- SOURCE NEEDED -->
+- [**Middlehouse**](Directory.md#Middlehouse) (SLO) solo para hombres <!-- SOURCE NEEDED -->
+- [**Sun Street Centers**](Directory.md#Sun-Street-Centers) (SLO) solo para hombres <!-- SOURCE NEEDED -->
 
 -----
 
