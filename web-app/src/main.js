@@ -482,6 +482,7 @@ function transformTOCToLozenges(container) {
   // Icon mapping - using Unicode emojis as placeholders
   // Can be replaced with custom SVGs later
   const iconMap = {
+    // English
     'Hotlines and Emergencies': '📞',
     'Self-Advocacy': '🗣️',
     'Shelter & Housing': '🏠',
@@ -518,7 +519,44 @@ function transformTOCToLozenges(container) {
     'Free Stuff': '🏺',
     'Other Guides': '📖',
     'Miscellaneous Tips': '💡',
-    'Directory': '📇'
+    'Directory': '📇',
+    // Spanish
+    'Líneas de Ayuda y Emergencias': '📞',
+    'Defensa de Sus Derechos': '🗣️',
+    'Refugio y Vivienda': '🏠',
+    'Guardar Pertenencias': '📦',
+    'Alimentos': '🍴',
+    'Rellenar Agua': '💧',
+    'Transporte': '🚌',
+    'Ropa': '👕',
+    'Lavandería': '🧺',
+    'Duchas e Higiene': '🚿',
+    'Salud y Atención Médica': '⚕️',
+    'Drogas y Recuperación': '🪷',
+    'Eliminación de Tatuajes': '✨',
+    'Ayuda al Final de la Vida': '🕊️',
+    'Seguridad Personal': '🛡️',
+    'Ayuda Legal': '⚖️',
+    'Identificaciones y Documentos': '🪪',
+    'Correo y Apartados Postales': '📬',
+    'Banca y Dinero': '💰',
+    'Preparación de Impuestos': '📊',
+    'Ayuda Financiera de Emergencia': '💵',
+    'Seguro Social y Beneficios': '🏛️',
+    'Obtener Empleo': '💼',
+    'Educación y Capacitación': '📚',
+    'Teléfonos y Servicio Telefónico': '📱',
+    'Internet y Correo Electrónico': '💻',
+    'Carga de Dispositivos': '🔌',
+    'Niños y Padres': '🚸',
+    'Apoyo Entre Pares': '🤝🏽',
+    'Recreación y Comunidad': '🏓',
+    'Cuidado de Mascotas': '🐾',
+    'Preparación para Desastres': '🚨',
+    'Defensa de Derechos y Organización': '📢',
+    'Cosas Gratis': '🏺',
+    'Otras Guías': '📖',
+    'Directorio': '📇'
   };
 
   // Generic fallback icon for entries without specific icons
