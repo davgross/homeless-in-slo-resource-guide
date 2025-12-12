@@ -1776,62 +1776,62 @@ Si nota enrojecimiento creciente que se extiende más allá del área de la quem
 
 ## <a id="drug-use-and-recovery">Uso de Drogas, Recuperación y Reducción de Daños</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Naloxone / Narcan](#naloxone-narcan)
-- [Tobacco / Nicotine](#tobacco-nicotine)
-- [12-Step and Similar Recovery Programs](#twelve-step)
+- [Naloxona / Narcan](#naloxone-narcan)
+- [Tabaco / Nicotina](#tobacco-nicotine)
+- [Programas de Recuperación de 12 Pasos y Similares](#twelve-step)
 
-> Note: The somewhat confusing term “behavioral health” often describes programs for people who use addictive or harmful drugs and want help.
+> Nota: El término algo confuso "salud del comportamiento" a menudo describe programas para personas que usan drogas adictivas o dañinas y quieren ayuda.
 
-[**Access Support Network**](Directory.md#ASN) offers suboxone (buprenorphine) treatment and opioid overdose prevention training. <!-- Sources: https://accesssupportnetwork.org/programs/harm-reduction-programs/#moud and #opioid-->
+[**Access Support Network**](Directory.md#ASN) (Red de Apoyo de Acceso) ofrece tratamiento con suboxona (buprenorfina) y entrenamiento para la prevención de sobredosis de opioides. <!-- Sources: https://accesssupportnetwork.org/programs/harm-reduction-programs/#moud and #opioid-->
 
-[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) is an Opioid Treatment Program (OTP) offering Medication-Assisted Treatment that uses methadone, Suboxone, and similar medicines. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
-They provide specialized services for pregnant women, for veterans, for people with low incomes and for people with mental health disorders. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
+[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) (Centros de Tratamiento Aegis) es un Programa de Tratamiento de Opioides (OTP) que ofrece Tratamiento Asistido por Medicamentos que usa metadona, Suboxona y medicinas similares. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
+Proporcionan servicios especializados para mujeres embarazadas, para veteranos, para personas con ingresos bajos y para personas con trastornos de salud mental. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
 <!-- Walk-ins are welcome and same-day admissions are available. { SOURCE NEEDED } -->
-They accept Medi-Cal, Medicare, and most commercial insurance. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
+Aceptan Medi-Cal, Medicare y la mayoría de los seguros comerciales. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
 
-[**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) runs inpatient (partial hospitalization) and intensive outpatient treatment programs for people trying to beat addiction. <!-- Source: https://aspirecounselingservice.com/addiction-recovery-services/ -->
-They accept Medicare and most private insurance plans. <!-- Source: https://aspirecounselingservice.com/ -->
+[**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) (Servicios de Consejería Aspire) opera programas de tratamiento para pacientes internos (hospitalización parcial) e intensivos para pacientes externos para personas que intentan vencer la adicción. <!-- Source: https://aspirecounselingservice.com/addiction-recovery-services/ -->
+Aceptan Medicare y la mayoría de los planes de seguro privados. <!-- Source: https://aspirecounselingservice.com/ -->
 
-The [**Community Health Centers**](Directory.md#CHC) offices at 260 Station Way in Arroyo Grande, in Atascadero, Cambria, Nipomo, Oceano, Paso Robles,
-at 77 Casa St. in SLO, and in Templeton (Las Tablas), specialize in behavioral health. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
-Their [**Healthcare for the Homeless Program**](Directory.md#HCHP) at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers substance abuse treatment and needle exchange. <!-- SOURCE NEEDED (issue #75) -->
+Las oficinas de [**Community Health Centers**](Directory.md#CHC) (Centros de Salud Comunitarios) en 260 Station Way en Arroyo Grande, en Atascadero, Cambria, Nipomo, Oceano, Paso Robles,
+en 77 Casa St. en SLO, y en Templeton (Las Tablas), se especializan en salud del comportamiento. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
+Su [**Healthcare for the Homeless Program**](Directory.md#HCHP) (Programa de Atención Médica para Personas Sin Hogar) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) ofrece tratamiento de abuso de sustancias e intercambio de agujas. <!-- SOURCE NEEDED (issue #75) -->
 
-[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in Santa Maria has a detox program that accepts walk-ins<!-- Source: https://www.goodsamaritanshelter.org/recovery-behavioral-health --><!-- and referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County {SOURCE NEEDED} -->.
-They operate the [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) for sobering up, detox, and medically-assisted drug withdrawal. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
+[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) (Refugio del Buen Samaritano) en Santa Maria tiene un programa de desintoxicación que acepta personas sin cita<!-- Source: https://www.goodsamaritanshelter.org/recovery-behavioral-health --><!-- and referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County {SOURCE NEEDED} -->.
+Opera el [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) (Centro de Sobriedad de SLO) para sobriedad, desintoxicación y abstinencia de drogas asistida médicamente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
 
-[**SLO Bangers**](Directory.md#SLO-Bangers) runs a needle exchange program, can give you overdose prevention training, and distributes Narcan. <!-- Source: https://slobangers.com/services.html -->
+[**SLO Bangers**](Directory.md#SLO-Bangers) opera un programa de intercambio de agujas, puede darle entrenamiento para la prevención de sobredosis y distribuye Narcan. <!-- Source: https://slobangers.com/services.html -->
 
-[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) offers medically-assisted treatment, recovery support services, and outpatient care. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
-Some of their services are available on a walk-in basis. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics -->
-They charge a sliding fee depending on ability to pay (“no clients are denied access to services due to inability to pay”). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services -->
+[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) (Servicios de Drogas y Alcohol del Condado de SLO) ofrece tratamiento asistido médicamente, servicios de apoyo a la recuperación y atención para pacientes externos. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
+Algunos de sus servicios están disponibles sin cita previa. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics -->
+Cobran una tarifa variable dependiendo de la capacidad de pago ("ningún cliente es rechazado del acceso a servicios debido a la incapacidad de pagar"). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services -->
 
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) offer walk-in suboxone treatment at their emergency rooms. <!-- SOURCE NEEDED (issue #77) -->
+[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) (Centro Médico French Hospital) y [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) (Hospital Comunitario de Arroyo Grande) ofrecen tratamiento con suboxona sin cita en sus salas de emergencia. <!-- SOURCE NEEDED (issue #77) -->
 
-[**Transitions Mental Health Association**](Directory.md#TMHA) has substance use support groups for people who also have other mental health needs. <!-- Source: https://www.t-mha.org/wellness-calendars.php -->
+[**Transitions Mental Health Association**](Directory.md#TMHA) (Asociación de Salud Mental Transitions) tiene grupos de apoyo para el uso de sustancias para personas que también tienen otras necesidades de salud mental. <!-- Source: https://www.t-mha.org/wellness-calendars.php -->
 
-The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers substance abuse treatment to qualifying U.S. military veterans. <!-- Source: https://www.va.gov/health-care/health-needs-conditions/substance-use-problems/ -->
-The [**County Veterans Services Offices**](Directory.md#Veterans-Services) can also refer veterans to alcohol and drug dependency treatment programs. <!-- SOURCE NEEDED (issue #78) -->
+La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) (Clínica de Pacientes Externos de la Administración de Veteranos) ofrece tratamiento de abuso de sustancias a veteranos militares estadounidenses que califiquen. <!-- Source: https://www.va.gov/health-care/health-needs-conditions/substance-use-problems/ -->
+Las [**County Veterans Services Offices**](Directory.md#Veterans-Services) (Oficinas de Servicios para Veteranos del Condado) también pueden referir a veteranos a programas de tratamiento de dependencia al alcohol y drogas. <!-- SOURCE NEEDED (issue #78) -->
 
-[Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/) is a U.S. government agency.
-It has a free phone service ([800-662-HELP](tel:+1-800-662-4357); TTY: [800-487-4889](tel:+1-800-487-4889); text: [435748](sms:435748?&body=HELP4U)) that can help you find substance abuse treatment options near you that match your needs. <!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
+La [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/) (Administración de Servicios de Abuso de Sustancias y Salud Mental) es una agencia del gobierno de Estados Unidos.
+Tiene un servicio telefónico gratuito ([800-662-HELP](tel:+1-800-662-4357); TTY: [800-487-4889](tel:+1-800-487-4889); texto: [435748](sms:435748?&body=HELP4U)) que puede ayudarle a encontrar opciones de tratamiento de abuso de sustancias cerca de usted que coincidan con sus necesidades. <!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
 
 ### <a id="naloxone-narcan">Naloxona / Narcan</a>
 
-Naloxone is an easy-to-administer medication that can save the life of someone who is experiencing an overdose of an opiate such as fentanyl or heroin.
+La naloxona es un medicamento fácil de administrar que puede salvar la vida de alguien que está experimentando una sobredosis de un opiáceo como el fentanilo o la heroína.
 
-You can get naloxone from [**Access Support Network**](Directory.md#ASN), <!-- Source: https://accesssupportnetwork.org/programs/harm-reduction-programs/ -->
+Puede obtener naloxona de [**Access Support Network**](Directory.md#ASN), <!-- Source: https://accesssupportnetwork.org/programs/harm-reduction-programs/ -->
 [**SLO Bangers**](Directory.md#SLO-Bangers), <!-- Source: https://slobangers.com/services.html -->
 [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <!-- SOURCE NEEDED -->
-and [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) <!-- SOURCE NEEDED -->
-and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) emergency rooms. <!-- SOURCE NEEDED -->
-You can also get free naloxone any time from these “NaloxBoxes”:
+y las salas de emergencia de [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) <!-- SOURCE NEEDED -->
+y [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital). <!-- SOURCE NEEDED -->
+También puede obtener naloxona gratis en cualquier momento de estas "NaloxBoxes" (Cajas de Naloxona):
 <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county -->
 
-🗺️ **<a href="naloxone-locations-map.html" target="_blank" rel="noopener">View all locations on an interactive map</a>**
+🗺️ **<a href="naloxone-locations-map.html" target="_blank" rel="noopener">Ver todas las ubicaciones en un mapa interactivo</a>**
 
-**North Coast:**
+**Costa Norte:**
 
 - Baywood-Los Osos: Community Park, <a href="#" class="map-link" data-lat="35.312984" data-lon="-120.836284" data-zoom="17" data-label="Community Park">2180 Palisades Ave.</a>
 - Cambria: Shamel Park, <a href="#" class="map-link" data-lat="35.565991" data-lon="-121.108126" data-zoom="16" data-label="Shamel Park">5455 Windsor Blvd.</a>
@@ -1839,7 +1839,7 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 - Cayucos: Paul Andrew Park, <a href="#" class="map-link" data-lat="35.445481" data-lon="-120.898994" data-zoom="16" data-label="Paul Andrew Park">N. 3rd St.</a>
 - Morro Bay: Public Health facility, <a href="#" class="map-link" data-lat="35.365706" data-lon="-120.844141" data-zoom="17" data-label="Public Health">760 Morro Bay Blvd.</a>
 
-**North County:**
+**Condado Norte:**
 
 - Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.465791" data-lon="-120.648782" data-zoom="17" data-label="Department of Social Services">9630 El Camino Real</a>
 - Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Atascadero branch), <a href="#" class="map-link" data-lat="35.489118" data-lon="-120.663909" data-zoom="17" data-label="Public Library">6555 Capistrano Ave.</a>
@@ -1851,7 +1851,7 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 - Santa Margarita: Community Park, <a href="#" class="map-link" data-lat="35.392470" data-lon="-120.604482" data-zoom="17" data-label="Community Park">2210 H St.</a>
 - Shandon: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Shandon branch), <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="Public Library">195 N. 2nd St.</a>
 
-**SLO city:**
+**Ciudad de SLO:**
 
 - [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), <a href="#" class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">885 Oklahoma Ave.</a>
 - [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a>
@@ -1866,7 +1866,7 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 - The Anderson, <a href="#" class="map-link" data-lat="35.281304" data-lon="-120.661857" data-zoom="17" data-label="Anderson Hotel">965 Monterey St.</a>
 - [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.329871" data-lon="-120.740733" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
 
-**South County:**
+**Condado Sur:**
 
 - Arroyo Grande: [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), <a href="#" class="map-link" data-lat="35.192994" data-lon="-120.457449" data-zoom="15" data-label="Lopez Lake Recreation Area">6800 Lopez Dr.</a>
 - Arroyo Grande: [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.120654" data-lon="-120.597809" data-zoom="18" data-label="The Center">1152 E. Grand Ave.</a>
@@ -1878,28 +1878,28 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 
 ### <a id="tobacco-nicotine">Tabaco / Nicotina</a>
 
-The “Kick It California” program can help you stop smoking ([kickitca.org](https://kickitca.org/) at [800-300-8086](tel:+1-800-300-8086). <!-- Source: https://kickitca.org/ -->
-The U.S. government has a similar program at [smokefree.gov](https://smokefree.gov/) or [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
+El programa "Kick It California" (Déjalo California) puede ayudarle a dejar de fumar ([kickitca.org](https://kickitca.org/) al [800-300-8086](tel:+1-800-300-8086). <!-- Source: https://kickitca.org/ -->
+El gobierno de Estados Unidos tiene un programa similar en [smokefree.gov](https://smokefree.gov/) o [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- SOURCE NEEDED (issue #75) -->
-and the [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) also offer tobacco cessation help. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/quit-support -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) (Programa de Atención Médica para Personas Sin Hogar) <!-- SOURCE NEEDED (issue #75) -->
+y el [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) (Departamento de Salud Pública del Condado de SLO) también ofrecen ayuda para dejar el tabaco. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/quit-support -->
 
-The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers tobacco cessation support, resources, and programs to qualifying U.S. military veterans. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
+La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) (Clínica de Pacientes Externos de la Administración de Veteranos) ofrece apoyo, recursos y programas para dejar el tabaco a veteranos militares estadounidenses que califiquen. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
 
 ### <a id="twelve-step">Programas de Recuperación de 12 Pasos y Similares</a>
 
-[**Alcoholics Anonymous**](Directory.md#AA) is a peer-led sobriety and recovery program.
-[**Recovery Dharma**](Directory.md#Recovery-Dharma), hosted by [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service), is a similar, Buddhist-oriented program. <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?distance=5&search=93401&mode=location -->
+[**Alcoholics Anonymous**](Directory.md#AA) (Alcohólicos Anónimos) es un programa de sobriedad y recuperación dirigido por compañeros.
+[**Recovery Dharma**](Directory.md#Recovery-Dharma), organizado por [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service), es un programa similar orientado al budismo. <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?distance=5&search=93401&mode=location -->
 
-[**Narcotics Anonymous**](Directory.md#Narcotics-Anonymous) is similar and helps you stop using other addictive drugs.
-[**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) is for marijuana specifically.
+[**Narcotics Anonymous**](Directory.md#Narcotics-Anonymous) (Narcóticos Anónimos) es similar y le ayuda a dejar de usar otras drogas adictivas.
+[**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) (Marihuana Anónima) es específicamente para la marihuana.
 
-AA & NA meet in many locations throughout the county, every day of the week. <!-- Sources: https://www.centralcoastna.org/directory/ and https://www.sloaa.org/meetings/ -->
-The [**Alano Club**](Directory.md#Alano-Club) <!-- Source: https://sloalanoclub.org/meeting-schedule --> and [The Cambria Connection](https://thecambriaconnection.org/meetings-and-events/), for example, host AA or NA meetings several times a day.
+AA y NA se reúnen en muchas ubicaciones en todo el condado, todos los días de la semana. <!-- Sources: https://www.centralcoastna.org/directory/ and https://www.sloaa.org/meetings/ -->
+El [**Alano Club**](Directory.md#Alano-Club) <!-- Source: https://sloalanoclub.org/meeting-schedule --> y [The Cambria Connection](https://thecambriaconnection.org/meetings-and-events/), por ejemplo, organizan reuniones de AA o NA varias veces al día.
 
 ### Casas de Vida Sobria y Opciones de Tratamiento Residencial
 
-> See [Shelter & Housing: Sober Living Homes](#sober-living-homes)
+> Vea [Refugio y Vivienda: Casas de Vida Sobria](#sober-living-homes)
 
 -----
 
