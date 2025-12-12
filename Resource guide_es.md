@@ -3857,12 +3857,12 @@ Los centros de calefacción típicamente abren cuando se espera que las temperat
 
 ## <a id="advocacy-and-organizing">Defensa de Derechos y Cabildeo: Cómo Influir en las Políticas Gubernamentales sobre la Falta de Vivienda</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Influencing policy](#influencing-policy)
-- [Reporting Concerns and Problems](#reporting-concerns)
-- [Reporting Crimes](#reporting-crimes)
-- [Reporting Government Misconduct](#reporting-misconduct)
+- [Cómo Influir en las Políticas](#influencing-policy)
+- [Reportar Problemas e Inquietudes](#reporting-concerns)
+- [Reportar Crímenes](#reporting-crimes)
+- [Reportar Mala Conducta Gubernamental](#reporting-misconduct)
 
 San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
 Nearly one in four homeless people in the United States lives in California. <!-- Source: “2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S.” United States Department of Housing and Urban Development. December 2024. -->
@@ -3883,16 +3883,16 @@ The reasons why that is a problem are complicated, but include government polici
 
 ### <a id="influencing-policy">Cómo Influir en las Políticas</a>
 
-The [SLO County Homeless Services Division](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division) is in charge of implementing County policies to address homelessness.
-These policies include [*The San Luis Obispo Countywide Plan to Address Homelessness, 2022–2027*](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness).
-You can contact them at [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
+La [SLO County Homeless Services Division](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division) (División de Servicios para Personas sin Hogar del Condado de SLO) está a cargo de implementar las políticas del Condado para abordar la falta de hogar.
+Estas políticas incluyen [*The San Luis Obispo Countywide Plan to Address Homelessness, 2022–2027*](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/forms-documents/2022/slocountywideplantoaddresshomelessness) (El Plan del Condado de San Luis Obispo para Abordar la Falta de Hogar, 2022–2027).
+Puede contactarlos en [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
 
-The Homeless Services Division is advised and overseen by the [Homeless Services Oversight Council (HSOC)](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council).
-This council welcomes people with current or past lived experience of homelessness to join it. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership -->
-You can apply for a seat on this council by completing [this form](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership/forms-documents/2024/hsoc-membership-application-form) and submitting it to [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
+La División de Servicios para Personas sin Hogar es asesorada y supervisada por el [Homeless Services Oversight Council (HSOC)](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) (Consejo de Supervisión de Servicios para Personas sin Hogar).
+Este consejo da la bienvenida a personas con experiencia vivida actual o pasada de falta de hogar para unirse a él. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership -->
+Puede solicitar un asiento en este consejo completando [este formulario](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership/forms-documents/2024/hsoc-membership-application-form) y enviándolo a [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
 
-The meetings of this council and its committees are open to the public, either in person, or via Zoom or phone. <!-- SOURCE NEEDED -->
-Visit [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) for meeting schedules.
+Las reuniones de este consejo y sus comités están abiertas al público, ya sea en persona, o vía Zoom o teléfono. <!-- SOURCE NEEDED -->
+Visite [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) para horarios de reuniones.
 
 Every two years, typically in January, a census of homeless people in the United States is attempted.
 This is called the [“Point-in-Time Count”](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count).
@@ -3902,88 +3902,88 @@ You can read [the official report on SLO County’s 2024 Point-in-Time Count](ht
 The Point-in-Time Count is conducted in part by volunteers. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count -->
 If you would like to help with the Count, email [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us) or register at the [2026 Point-in-Time Count Volunteer Registration](https://forms.office.com/g/8vJ7PUm8yA) page.
 
-[SLOCo YIMBY](https://www.slocoyimby.org/) is a grassroots group that advocates for building more housing in SLO County, and for policy changes like legalizing multifamily housing, streamlining permitting, increasing affordable housing funding, and strengthening renter protections.
-They mobilize citizen action and outreach campaigns in support of those goals.
-Contact [hello@slocoyimby.org](mailto:hello@slocoyimby.org) for details.
+[SLOCo YIMBY](https://www.slocoyimby.org/) es un grupo de base que aboga por construir más viviendas en el Condado de SLO, y por cambios de política como legalizar viviendas multifamiliares, agilizar los permisos, aumentar el financiamiento de vivienda asequible y fortalecer las protecciones para inquilinos.
+Movilizan acción ciudadana y campañas de alcance en apoyo de esos objetivos.
+Contacte a [hello@slocoyimby.org](mailto:hello@slocoyimby.org) para detalles.
 
-The [National Coalition for the Homeless](https://nationalhomeless.org/) campaigns on the national level for changes in U.S. federal policy to alleviate homelessness and help people who are homeless.
+La [National Coalition for the Homeless](https://nationalhomeless.org/) (Coalición Nacional para las Personas sin Hogar) hace campañas a nivel nacional para cambios en la política federal de EE.UU. para aliviar la falta de hogar y ayudar a personas que están sin hogar.
 
-The [National Union of the Homeless](https://nationalunionofthehomeless.org/) has a [Sacramento chapter](https://sacramentohomelessunion.org/) that helped SLO County homeless people fight for legal protection when the Kansas Avenue (a.k.a. Oklahoma Avenue) safe parking program was closed.
-You can contact the Sacramento chapter at [sacramento.homeless.union@gmail.com](mailto:sacramento.homeless.union@gmail.com).
+La [National Union of the Homeless](https://nationalunionofthehomeless.org/) (Unión Nacional de Personas sin Hogar) tiene un [capítulo de Sacramento](https://sacramentohomelessunion.org/) que ayudó a personas sin hogar del Condado de SLO a luchar por protección legal cuando el programa de estacionamiento seguro de Kansas Avenue (también conocido como Oklahoma Avenue) fue cerrado.
+Puede contactar al capítulo de Sacramento en [sacramento.homeless.union@gmail.com](mailto:sacramento.homeless.union@gmail.com).
 
 ### <a id="reporting-concerns">Reportar Problemas e Inquietudes</a>
 
-Some SLO County cities have online platforms with which you can report non-emergency problems.
-Your report is routed to the correct department where people can address your concern:
+Algunas ciudades del Condado de SLO tienen plataformas en línea con las cuales puede reportar problemas que no son de emergencia.
+Su reporte es enrutado al departamento correcto donde las personas pueden abordar su inquietud:
 
-| City          | Platform |
-| ------------- | -------- |
-| Arroyo Grande | [Citizen Request Tracker or CitizenServ](https://ca-arroyogrande.civicplus.com/387/Report-a-Concern) |
-| Atascadero    | [Public Safety & Reporting](https://www.atascadero.org/public-safety-reporting) |
-| Grover Beach  | [Report an Issue](https://www.grover.org/652/Report-an-Issue) |
+| Ciudad        | Plataforma |
+| ------------- | ---------- |
+| Arroyo Grande | [Citizen Request Tracker o CitizenServ](https://ca-arroyogrande.civicplus.com/387/Report-a-Concern) |
+| Atascadero    | [Public Safety & Reporting](https://www.atascadero.org/public-safety-reporting) (Seguridad Pública y Reportes) |
+| Grover Beach  | [Report an Issue](https://www.grover.org/652/Report-an-Issue) (Reportar un Problema) |
 | Morro Bay     | [CitySourced](https://www.morrobayca.gov/983/Service-Request) |
 | Paso Robles   | [SeeClickFix](https://seeclickfix.com/web_portal/mWPmZTZqbheqdCAtKircrZNq/issues/map) |
 | Pismo Beach   | [Pismo Pulse](https://iframe.publicstuff.com/#?client_id=1428) <!-- Broken on 11 Dec 2025 --> |
 | SLO           | [AskSLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request) |
 
-Some cities have special contacts specifically for issues concerning homelessness.
-For homeless-specific questions in Paso Robles, contact [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
-In SLO city, contact the Homelessness Response Manager at [dwiberg@slocity.org](mailto:dwiberg@slocity.org) or [805-781-7025](tel:+1-805-781-7025).
+Algunas ciudades tienen contactos especiales específicamente para problemas relacionados con la falta de hogar.
+Para preguntas específicas sobre personas sin hogar en Paso Robles, contacte a [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
+En la ciudad de SLO, contacte al Gerente de Respuesta a la Falta de Hogar (Homelessness Response Manager) en [dwiberg@slocity.org](mailto:dwiberg@slocity.org) o [805-781-7025](tel:+1-805-781-7025).
 
 ### <a id="reporting-crimes">Reportar Crímenes</a>
 
-To report a crime in process, or a crime where you know who committed it, you should contact the local police department (in a city) or the sheriff (outside city limits).
-Calling [911](tel:+1-911) is the best way of reporting an emergency or a crime in progress.
-In non-emergency situations, you can call the police or sheriff departments directly:
+Para reportar un crimen en proceso, o un crimen donde sabe quién lo cometió, debe contactar al departamento de policía local (en una ciudad) o al sheriff (fuera de los límites de la ciudad).
+Llamar al [911](tel:+1-911) es la mejor manera de reportar una emergencia o un crimen en progreso.
+En situaciones que no son de emergencia, puede llamar directamente a los departamentos de policía o del sheriff:
 
-| Location               | Phone Number                                               |
-| ---------------------- | ---------------------------------------------------------- |
-| (unincorporated areas) | Sheriff: [805-781-4550&#xA0;x3](tel:+1-805-781-4550;ext=3) |
-| Arroyo Grande          | Police: [805-473-5100](tel:+1-805-473-5100)                |
-| Atascadero             | Police: [805-461-5051&#xA0;x5](tel:+1-805-461-5051;ext=5)  |
-| Cal Poly               | Police: [805-756-2281](tel:+1-805-756-2281)                |
-| Grover Beach           | Police: [805-473-4511](tel:+1-805-473-4511)                |
-| (highways)             | CHP: [805-835-5247](tel:+1-805-835-5247)                   |
-| Morro Bay              | Police: [805-772-6225](tel:+1-805-772-6225)                |
-| Paso Robles            | Police: [805-237-6464](tel:+1-805-237-6464)                |
-| Pismo Beach            | Police: [805-773-2208](tel:+1-805-773-2208)                |
-| SLO city               | Police: [805-781-7312](tel:+1-805-781-7312)                |
+| Ubicación                     | Número de Teléfono                                         |
+| ----------------------------- | ---------------------------------------------------------- |
+| (áreas no incorporadas)       | Sheriff: [805-781-4550&#xA0;x3](tel:+1-805-781-4550;ext=3) |
+| Arroyo Grande                 | Policía: [805-473-5100](tel:+1-805-473-5100)               |
+| Atascadero                    | Policía: [805-461-5051&#xA0;x5](tel:+1-805-461-5051;ext=5) |
+| Cal Poly                      | Policía: [805-756-2281](tel:+1-805-756-2281)               |
+| Grover Beach                  | Policía: [805-473-4511](tel:+1-805-473-4511)               |
+| (carreteras)                  | CHP: [805-835-5247](tel:+1-805-835-5247)                   |
+| Morro Bay                     | Policía: [805-772-6225](tel:+1-805-772-6225)               |
+| Paso Robles                   | Policía: [805-237-6464](tel:+1-805-237-6464)               |
+| Pismo Beach                   | Policía: [805-773-2208](tel:+1-805-773-2208)               |
+| ciudad de SLO                 | Policía: [805-781-7312](tel:+1-805-781-7312)               |
 
-In some areas, you can also report a crime in a non-emergency situation, where you do not know who committed the crime, with an online form:
+En algunas áreas, también puede reportar un crimen en una situación que no es de emergencia, donde no sabe quién cometió el crimen, con un formulario en línea:
 
-| Location                  | Online Reporting Method                           |
-| ------------------------- | ------------------------------------------------- |
-| (unincorporated areas)    | Sheriff: [Public Safety Citizens Service Portal](https://report.citizenserviceportal.com/home/agency?agencycode=sloso) |
-| Atascadero                | Police: [Crime Reporting](https://www.atascadero.org/service/crime-reporting) |
-| Paso Robles               | Police: [File a Police Report](https://www.prcity.com/671/File-a-Police-Report) |
-| SLO city                  | Police: [Online Reporting](https://www.slocity.org/government/department-directory/police-department/online-reporting) |
-| highways and other cities | call one of the phone numbers in the table above |
+| Ubicación                        | Método de Reporte en Línea                        |
+| -------------------------------- | ------------------------------------------------- |
+| (áreas no incorporadas)          | Sheriff: [Public Safety Citizens Service Portal](https://report.citizenserviceportal.com/home/agency?agencycode=sloso) (Portal de Servicio Ciudadano de Seguridad Pública) |
+| Atascadero                       | Policía: [Crime Reporting](https://www.atascadero.org/service/crime-reporting) (Reporte de Crímenes) |
+| Paso Robles                      | Policía: [File a Police Report](https://www.prcity.com/671/File-a-Police-Report) (Presentar un Reporte Policial) |
+| ciudad de SLO                    | Policía: [Online Reporting](https://www.slocity.org/government/department-directory/police-department/online-reporting) (Reporte en Línea) |
+| carreteras y otras ciudades      | llame a uno de los números de teléfono en la tabla arriba |
 
-You can also submit tips to law enforcement about crimes (anonymously if you choose) through SLO County Crime Stoppers.
-You can do this either by using the online tip form at [sanluisobispocounty.crimestoppersweb.com](https://sanluisobispocounty.crimestoppersweb.com/) or by calling [805-549-STOP](tel:+1-805-549-7867).
+También puede enviar pistas a las fuerzas del orden sobre crímenes (anónimamente si lo elige) a través de SLO County Crime Stoppers (Detención del Crimen del Condado de SLO).
+Puede hacer esto ya sea usando el formulario de pistas en línea en [sanluisobispocounty.crimestoppersweb.com](https://sanluisobispocounty.crimestoppersweb.com/) o llamando al [805-549-STOP](tel:+1-805-549-7867).
 
-If you are an adult who is dependent on others, and you are subjected to abuse or neglect—or if you know of another adult in such a situation—you can get help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services).
-Make emergency calls to [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm) or [844-729-8011](tel:+1-844-729-8011) (all other hours).
+Si es un adulto que depende de otros, y es sujeto a abuso o negligencia—o si conoce a otro adulto en tal situación—puede obtener ayuda de [**Adult Protective Services**](Directory.md#Adult-Protective-Services) (Servicios de Protección para Adultos).
+Haga llamadas de emergencia al [805-781-1790](tel:+1-805-781-1790) (L–V 8am–5pm) o [844-729-8011](tel:+1-844-729-8011) (todas las demás horas).
 
 ### <a id="reporting-misconduct">Reportar Mala Conducta Gubernamental</a>
 
-You can report misconduct by police or sheriff personnel to the police or sheriff departments.
-Some departments welcome such reports and use them to improve or to discipline misbehaving employees.
-Other departments are hostile to such complaints and may even retaliate against people who report misconduct.
-You may want to carefully consider the pros and cons before filing misconduct complaints.
+Puede reportar mala conducta por personal de policía o del sheriff a los departamentos de policía o del sheriff.
+Algunos departamentos dan la bienvenida a tales reportes y los usan para mejorar o para disciplinar a empleados que se portan mal.
+Otros departamentos son hostiles a tales quejas y pueden incluso tomar represalias contra personas que reportan mala conducta.
+Puede querer considerar cuidadosamente los pros y contras antes de presentar quejas de mala conducta.
 
-| Department           | Complaint Method |
-| -------------------- | ---------------- |
-| Arroyo Grande police | [Citizen Complaint](https://ca-arroyogrande.civicplus.com/464/Citizen-Complaint) |
-| Cal Poly police      | [police@calpoly.edu](mailto:police@calpoly.edu) |
-| CHP (highways)       | [Commend or Complain Form](https://www.chp.ca.gov/notify-chp/commend-or-complain/) |
-| Grover Beach police  | [Citizen Feedback](https://www.grover.org/252/Citizen-Feedback---Compliments-or-Compla) |
-| Pismo Beach police   | [805-773-2208](tel:+1-805-773-2208), in person, or by mail |
-| SLO city police      | [Citizen Complaint](https://www.slocity.org/government/department-directory/police-department/citizen-complaints-commendations), or [805-781-7317](tel:+1-805-781-7317) |
-| SLO county sheriff   | [Citizen Complaint Report](https://forms.office.com/Pages/ResponsePage.aspx?id=dMfDhN9_4kClkCey5w-BJlj1OgktxXpPh0AbBedZg-ZUQzRSQUVOWUZIT1ZZNkdMQjQyMUk5NDJDMi4u) |
-| others               | call, or visit in person |
+| Departamento               | Método de Queja |
+| -------------------------- | --------------- |
+| Policía de Arroyo Grande   | [Citizen Complaint](https://ca-arroyogrande.civicplus.com/464/Citizen-Complaint) (Queja Ciudadana) |
+| Policía de Cal Poly        | [police@calpoly.edu](mailto:police@calpoly.edu) |
+| CHP (carreteras)           | [Commend or Complain Form](https://www.chp.ca.gov/notify-chp/commend-or-complain/) (Formulario de Elogio o Queja) |
+| Policía de Grover Beach    | [Citizen Feedback](https://www.grover.org/252/Citizen-Feedback---Compliments-or-Compla) (Retroalimentación Ciudadana) |
+| Policía de Pismo Beach     | [805-773-2208](tel:+1-805-773-2208), en persona, o por correo |
+| Policía de la ciudad de SLO | [Citizen Complaint](https://www.slocity.org/government/department-directory/police-department/citizen-complaints-commendations) (Queja Ciudadana), o [805-781-7317](tel:+1-805-781-7317) |
+| Sheriff del condado de SLO | [Citizen Complaint Report](https://forms.office.com/Pages/ResponsePage.aspx?id=dMfDhN9_4kClkCey5w-BJlj1OgktxXpPh0AbBedZg-ZUQzRSQUVOWUZIT1ZZNkdMQjQyMUk5NDJDMi4u) (Reporte de Queja Ciudadana) |
+| otros                      | llame, o visite en persona |
 
-For complaints about county employee or department misconduct, if you have been unable to resolve your complaint by contacting the department itself, you can file a complaint with the county Administrative Office by using its [Submit a Complaint form](https://www.slocounty.ca.gov/departments/administrative-office/services/citizen-complaint-investigations).
+Para quejas sobre mala conducta de empleados o departamentos del condado, si no ha podido resolver su queja contactando al departamento mismo, puede presentar una queja con la Oficina Administrativa del condado usando su [formulario Enviar una Queja](https://www.slocounty.ca.gov/departments/administrative-office/services/citizen-complaint-investigations) (Submit a Complaint).
 
 For complaints about County Behavioral Health specifically, contact the [Patients’ Rights Advocate](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/quality-support-services/patients-rights-advocate) ([805-781-4738](tel:+1-805-781-4738)).
 
