@@ -936,7 +936,7 @@
    - Oficina comercial: [800-421-2560](tel:+1-800-421-2560) or [805-685-9525](tel:+1-805-685-9525) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
    - Inscripción: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
    - Servicios para miembros: [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
-- **Cómo obtener el servicio:** You can submit an application online via [Covered California](https://www.coveredca.com/) or [My Benefits CalWIN](https://www.mybenefitscalwin.org/) or you can get help applying from the [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
+- **Cómo obtener el servicio:** Puede enviar una solicitud en línea a través de [Covered California](https://www.coveredca.com/) o [My Benefits CalWIN](https://www.mybenefitscalwin.org/) o puede obtener ayuda para solicitarla del [**Departamento de Servicios Sociales del Condado de SLO**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
 - Nota: para el Transporte de CenCal, *Vea [**Ride-On Transportation**](#Ride-On-Transportation)*
 
 ## CenCal Health Transportation
@@ -2823,8 +2823,8 @@ If you see one listed here that is no longer in service, please use the feedback
    - Refugio de emergencia: 24/7 <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
    - Citas de admisión al refugio 8:30am–5pm M–F
    - El refugio abre a las 4:30pm diariamente
-   - Administrative offices abierto 9am–5pm M–F <!-- Source: https://www.goodsamaritanshelter.org/who-we-are-1 -->
-- **Cómo obtener el servicio:** (shelter) Call M–F 8:30am–4:00pm, or walk in 9am–3pm, to establish an intake appointment <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+   - Oficinas administrativas abiertas 9am–5pm M–F <!-- Source: https://www.goodsamaritanshelter.org/who-we-are-1 -->
+- **Cómo obtener el servicio:** (refugio) Llame L–V8:30am–4:00pm, o llegue sin cita 9am–3pm, para establecer una cita de admisión <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
 - Notas:
    - opera [**Welcome Home Village**](#Welcome-Home-Village)
    - punto de entrada para el [**Coordinated Entry System (CES)**](#CES)
