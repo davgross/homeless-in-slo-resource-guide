@@ -4050,19 +4050,19 @@ Algunos tienen un enfoque diferente (por ejemplo, destacan recursos para persona
 Aquí hay algunas de estas guías locales:
 
 - [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/) (Guía de Recursos para Personas Mayores de la Costa Central): una guía integral que cubre servicios para personas mayores en los Condados de SLO y Santa Barbara. También existe como un directorio en línea con búsqueda en [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
-- [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services): available in English and Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, and healthcare
+- [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services) (Guía de Recursos para Personas Mayores del Condado del Norte): disponible en inglés y español; cubre educación, comidas, vivienda, cuidado en el hogar, transporte, salud mental, apoyo legal, asistencia financiera, recreación, y atención médica
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
-- [211 SLO County](https://211slo.org/): United Way’s directory of SLO County resources
-- [Community Support Services](https://5chc.org/community-services): a list of services available in southern SLO County, maintained by 5Cities Homeless Coalition
-- [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): SLO County Public Health Agency’s directory of resources
+- [211 SLO County](https://211slo.org/): directorio de recursos del Condado de SLO de United Way
+- [Community Support Services](https://5chc.org/community-services) (Servicios de Apoyo Comunitario): una lista de servicios disponibles en el sur del Condado de SLO, mantenida por 5Cities Homeless Coalition (Coalición para Personas sin Hogar de las 5 Ciudades)
+- [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): directorio de recursos de la Agencia de Salud Pública del Condado de SLO
 - [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
-- [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): Faith LeGrande’s list that they put together while searching for help
-- [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html): from the “Need Help Paying Bills” website
-- [(TMHA) Helpful Links](https://www.t-mha.org/helpful-links.php): with a focus on resources having to do with mental health
+- [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic) (Recursos de Ayuda Financiera/Asistencia 2024 - San Luis Obispo): la lista de Faith LeGrande que elaboraron mientras buscaban ayuda
+- [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html) (Programas de Asistencia en el Condado de SLO): del sitio web "Need Help Paying Bills" (Necesita Ayuda Pagando Cuentas)
+- [(TMHA) Helpful Links](https://www.t-mha.org/helpful-links.php) (Enlaces Útiles de TMHA): con enfoque en recursos relacionados con la salud mental
 - [SLO County Behavioral Health Resource Center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
-- [Resource Guide Estero Bay](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf): focusing on Los Osos and nearby communities
-- [Sharing SLO wiki](https://localwiki.org/slo/Sharing_SLO): “an overview of some of San Luis Obispo’s sharing economy”
-- [Immigrant Services Guide](https://www.sloundocusupport.org/immigrantservicesguide): resources for undocumented immigrants in SLO County
+- [Resource Guide Estero Bay](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf) (Guía de Recursos de Estero Bay): enfocándose en Los Osos y comunidades cercanas
+- [Sharing SLO wiki](https://localwiki.org/slo/Sharing_SLO) (wiki de Compartir SLO): "una descripción general de parte de la economía colaborativa de San Luis Obispo"
+- [Immigrant Services Guide](https://www.sloundocusupport.org/immigrantservicesguide) (Guía de Servicios para Inmigrantes): recursos para inmigrantes indocumentados en el Condado de SLO
 - [SLO County *Job Seeker Resource Guide*](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide)
 - [*The Homeless Veteran’s Resource Guide*](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
 
