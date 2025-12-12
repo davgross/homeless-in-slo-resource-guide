@@ -1214,42 +1214,42 @@ Proporcionan las monedas para las máquinas y el detergente para ropa y las hoja
 
 ### <a id="free-showers">Servicios de Duchas Gratis</a>
 
-[**Shower the People**](Directory.md#Shower-the-People) offers free showers from its mobile shower trailer several times a week in several locations in SLO city and in Grover Beach. <!-- Source: personal knowledge of program as volunteer -DG -->
-They provide towels and soap. <!-- Source: personal knowledge of program as volunteer -DG -->
-Guests also receive free toiletries, and new socks, underwear, and t-shirts. <!-- Source: personal knowledge of program as volunteer -DG -->
-They operate rain-or-shine all year long including holidays. <!-- Source: personal knowledge of program as volunteer -DG -->
+[**Shower the People**](Directory.md#Shower-the-People) ofrece duchas gratis desde su remolque de duchas móvil varias veces por semana en varios lugares en la ciudad de SLO y en Grover Beach. <!-- Source: personal knowledge of program as volunteer -DG -->
+Proporcionan toallas y jabón. <!-- Source: personal knowledge of program as volunteer -DG -->
+Los huéspedes también reciben artículos de tocador gratis, y calcetines, ropa interior y camisetas nuevos. <!-- Source: personal knowledge of program as volunteer -DG -->
+Operan llueva o haga sol todo el año incluyendo días festivos. <!-- Source: personal knowledge of program as volunteer -DG -->
 
-[**805 Street Outreach**](Directory.md#805-Street-Outreach) is a similar program that operates every Monday in Morro Bay. <!-- Source: https://805streetoutreach.org/about-us -->
-They also have clothing and food for guests. <!-- Source: https://805streetoutreach.org/about-us -->
+[**805 Street Outreach**](Directory.md#805-Street-Outreach) es un programa similar que opera todos los lunes en Morro Bay. <!-- Source: https://805streetoutreach.org/about-us -->
+También tienen ropa y comida para los huéspedes. <!-- Source: https://805streetoutreach.org/about-us -->
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in SLO city has shower facilities that it makes available to both its overnight and its day guests. <!-- e.g. https://capslo.org/40-prado-warming-center/ -->
-You do not have to be a resident there to use the showers, but you do have to undergo their intake process. <!-- SOURCE NEEDED (issue #64) -->
+El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) en la ciudad de SLO tiene instalaciones de duchas que pone a disposición tanto de sus huéspedes que se quedan por la noche como de sus huéspedes de día. <!-- e.g. https://capslo.org/40-prado-warming-center/ -->
+No tiene que ser residente allí para usar las duchas, pero sí tiene que pasar por su proceso de admisión. <!-- SOURCE NEEDED (issue #64) -->
 
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) offers hot showers five evenings a week (M–F 4–5:30pm) to anyone in need at both their Atascadero and their Paso Robles locations. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
-They give you toiletries, and they also have clothing, shoes, blankets, and sleeping bags. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
+La [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) ofrece duchas calientes cinco tardes por semana (L–V 4–5:30pm) a cualquier persona que lo necesite en sus ubicaciones de Atascadero y Paso Robles. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
+Le dan artículos de tocador, y también tienen ropa, zapatos, cobijas y sacos de dormir. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 
 ### <a id="pay-showers">Opciones de Duchas con Monedas o Membresía de Gimnasio</a>
 
-The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has shower facilities at their Southwood Ave. gym in SLO city.
-These are available to gym members.
-Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.” <!-- Source: https://www.ciymca.org/financial-assistance -->
-Ask them about options for people with low incomes.
+La [**SLO County YMCA**](Directory.md#SLO-County-YMCA) tiene instalaciones de duchas en su gimnasio de Southwood Ave. en la ciudad de SLO.
+Estas están disponibles para los miembros del gimnasio.
+La membresía no es gratis, pero la política de la YMCA es que "a nadie se le niega la membresía por falta de capacidad de pago". <!-- Source: https://www.ciymca.org/financial-assistance -->
+Pregúnteles sobre opciones para personas con bajos ingresos.
 
-The [SLO Swim Center](https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center), which costs $4.75 to enter <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center -->
-(but is free to YMCA members during public swim session times), <!-- Source: https://www.slocity.org/services/how-do-i/faqs -->
-has showers. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center -->
+El [SLO Swim Center](https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center), que cuesta $4.75 para entrar <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center -->
+(pero es gratis para los miembros de la YMCA durante las horas de sesión de natación pública), <!-- Source: https://www.slocity.org/services/how-do-i/faqs -->
+tiene duchas. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center -->
 
-Some SLO County parks have coin-operated shower facilities, including [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ -->
+Algunos parques del condado de SLO tienen instalaciones de duchas operadas con monedas, incluyendo [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ -->
 [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <!-- Source: https://slocountyparks.com/camp/el-chorro/ -->
 [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), <!-- Source: https://slocountyparks.com/camp/lopez-lake/ -->
 [**Oceano Campground**](Directory.md#Oceano-Campground), <!-- Source: https://slocountyparks.com/camp/oceano/ -->
-and [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) <!-- Source: https://slocountyparks.com/camp/santa-margarita-lake/ -->
+y [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) <!-- Source: https://slocountyparks.com/camp/santa-margarita-lake/ -->
 
-The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has coin-operated showers. <!-- SOURCE NEEDED (issue #67) -->
+La "Coastal Gateway Multi-Purpose Room" del [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) tiene duchas operadas con monedas. <!-- SOURCE NEEDED (issue #67) -->
 
-Some commercial gyms have showers.
-For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers. <!-- Source: https://pbac.com/guest-rates/ and https://pbac.com/membership/ -->
-Some Medicare supplement plans have a “Silver Sneakers” program with which you can get free gym memberships. <!-- Source: https://tools.silversneakers.com/Help -->
+Algunos gimnasios comerciales tienen duchas.
+Por ejemplo, un pase de día de $15 al [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) proporciona acceso a todas sus instalaciones, incluyendo duchas. <!-- Source: https://pbac.com/guest-rates/ and https://pbac.com/membership/ -->
+Algunos planes suplementarios de Medicare tienen un programa "Silver Sneakers" con el cual puede obtener membresías de gimnasio gratis. <!-- Source: https://tools.silversneakers.com/Help -->
 
 -----
 
