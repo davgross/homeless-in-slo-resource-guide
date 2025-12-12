@@ -614,61 +614,61 @@ Aquí hay algunas opciones de tratamiento residencial en el condado de SLO:
 
 ### <a id="short-term-property-storage">Corto Plazo</a>
 
-If you need to securely store a small amount of property for a few hours or overnight, you have a few options:
+Si necesita guardar de forma segura una pequeña cantidad de pertenencias por unas horas o durante la noche, tiene algunas opciones:
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available <!-- Source: https://friendsof40prado.org/about/ --> for people who complete intake for day services there. <!-- SOURCE NEEDED (issue #51) -->
-You must provide your own padlock. <!-- SOURCE NEEDED (issue #51) -->
+El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene casilleros de almacenamiento disponibles <!-- Source: https://friendsof40prado.org/about/ --> para personas que completan la admisión para servicios diurnos allí. <!-- SOURCE NEEDED (issue #51) -->
+Debe proporcionar su propio candado. <!-- SOURCE NEEDED (issue #51) -->
 
-The commercial service [Bounce](https://bounce.com/) partners with multiple locations (in SLO County, these are typically UPS Stores) to offer short-term luggage storage that typically runs about $7 per day or $20–80 per month (depending on weight and size).
-You can find the specific locations, terms and conditions, and costs at their website. <!-- SOURCE NEEDED -->
+El servicio comercial [Bounce](https://bounce.com/) se asocia con múltiples ubicaciones (en el condado de SLO, generalmente son tiendas UPS) para ofrecer almacenamiento de equipaje a corto plazo que generalmente cuesta alrededor de $7 por día o $20–80 por mes (dependiendo del peso y tamaño).
+Puede encontrar las ubicaciones específicas, términos y condiciones, y costos en su sitio web. <!-- SOURCE NEEDED -->
 
-In a few locations in SLO County (Morro St. in SLO, at Cal Poly, and at the Curbaril Park-n-Ride in Atascadero) you can find [on-demand bike lockers](https://rideshare.org/bike-lockers/).
-These cost 5¢ per hour and can be rented for up to seven consecutive days. <!-- Source: https://rideshare.org/bike-lockers/ -->
-Use the [BikeLink](https://www.bikelink.org/) app to access and pay for these lockers. <!-- Source: https://rideshare.org/bike-lockers/ -->
-They are for bicycles only (you cannot use them to store other personal belongings like carts or suitcases), but you can probably get away with storing pannier bags along with your bicycle. <!-- Source: https://rideshare.org/bike-lockers/ -->
+En algunas ubicaciones en el condado de SLO (Morro St. en SLO, en Cal Poly, y en el Curbaril Park-n-Ride en Atascadero) puede encontrar [casilleros para bicicletas bajo demanda](https://rideshare.org/bike-lockers/).
+Estos cuestan 5¢ por hora y se pueden alquilar por hasta siete días consecutivos. <!-- Source: https://rideshare.org/bike-lockers/ -->
+Use la aplicación [BikeLink](https://www.bikelink.org/) para acceder y pagar por estos casilleros. <!-- Source: https://rideshare.org/bike-lockers/ -->
+Son solo para bicicletas (no puede usarlos para guardar otras pertenencias personales como carritos o maletas), pero probablemente puede guardar alforjas junto con su bicicleta. <!-- Source: https://rideshare.org/bike-lockers/ -->
 
 ### <a id="long-term-property-storage">Largo Plazo</a>
 
-There are several commercial long-term storage options in SLO County.
-You can find these by doing a web search for terms like “self storage” or “mini storage”.
-They typically rent spaces by the month, and have different-sized units available at different prices.
-5′×5′, 5′×10′, and 10′×10′ units are typical.
-You can expect to pay about $60–75 per month for the least-expensive and smallest sizes, up to $150 for larger sizes. <!-- SOURCE NEEDED -->
-Most storage facilities have daytime hours of operation when you can access the storage units to add or remove property, and are closed to everyone at night.
+Hay varias opciones comerciales de almacenamiento a largo plazo en el condado de SLO.
+Puede encontrarlas haciendo una búsqueda en la web con términos como "self storage" o "mini storage".
+Generalmente alquilan espacios por mes, y tienen unidades de diferentes tamaños disponibles a diferentes precios.
+Las unidades de 5′×5′, 5′×10′ y 10′×10′ son típicas.
+Puede esperar pagar alrededor de $60–75 por mes por los tamaños más pequeños y económicos, hasta $150 para tamaños más grandes. <!-- SOURCE NEEDED -->
+La mayoría de las instalaciones de almacenamiento tienen horarios de operación durante el día cuando puede acceder a las unidades de almacenamiento para agregar o quitar pertenencias, y están cerradas para todos por la noche.
 
 ### <a id="recovering-seized-property">Recuperar Pertenencias Confiscadas Durante Arrestos o Desalojos de Campamentos</a>
 
-Different agencies take responsibility for clearing homeless camps, depending on where the camps are located.
-These agencies have different policies about whether, to what extent, and for how long they will store property that they clear from encampments, so that the owners of that property can recover it.
+Diferentes agencias se encargan de limpiar campamentos de personas sin hogar, dependiendo de dónde están ubicados los campamentos.
+Estas agencias tienen diferentes políticas sobre si almacenarán, en qué medida y por cuánto tiempo las pertenencias que quitan de los campamentos, para que los dueños de esas pertenencias puedan recuperarlas.
 
-They typically will only store certain items of property, and will discard things that are hazardous, soiled, or decayed or that seem to them like mere trash.
-They often store all items taken from an encampment sweep in one big pile, which can make it difficult for you to find your own items.
+Generalmente solo almacenan ciertos artículos de propiedad, y descartarán cosas que son peligrosas, sucias, deterioradas o que les parezcan simplemente basura.
+A menudo almacenan todos los artículos tomados de una limpieza de campamento en una pila grande, lo que puede dificultar que encuentre sus propios artículos.
 
-Grover Beach will post a notice *after* they do an encampment sweep, at the encampment’s former location, “stating where the personal property is being stored, and listing the phone number and hours a person claiming ownership can collect or make arrangements to collect their personal property.” <!-- Source: Grover Beach Municipal Code 14.3997.9.D.8 -->
-They will store some belongings for 90 days before discarding them. <!-- Source: Grover Beach Municipal Code 14.3997.9.D.8 -->
+Grover Beach publicará un aviso *después* de que hagan una limpieza de campamento, en la ubicación anterior del campamento, "indicando dónde se están almacenando las pertenencias personales, y listando el número de teléfono y las horas en que una persona que reclame propiedad puede recoger o hacer arreglos para recoger sus pertenencias personales." <!-- Source: Grover Beach Municipal Code 14.3997.9.D.8 -->
+Almacenarán algunas pertenencias durante 90 días antes de descartarlas. <!-- Source: Grover Beach Municipal Code 14.3997.9.D.8 -->
 
-Morro Bay stores some property taken during encampment sweeps for 90 days before discarding it. <!-- Source: Morro Bay Municipal Code 8.26.040.B.1 -->
-Their policy is to post a notice where they plan to do encampment sweeps 72 hours before they begin, and those notices should include the address, phone number, and operating hours of the location where personal property will be stored. <!-- Source: Morro Bay Municipal Code 8.26.040.B.1 -->
+Morro Bay almacena algunas pertenencias tomadas durante limpiezas de campamentos durante 90 días antes de descartarlas. <!-- Source: Morro Bay Municipal Code 8.26.040.B.1 -->
+Su política es publicar un aviso donde planean hacer limpiezas de campamentos 72 horas antes de que comiencen, y esos avisos deben incluir la dirección, número de teléfono y horas de operación de la ubicación donde se almacenarán las pertenencias personales. <!-- Source: Morro Bay Municipal Code 8.26.040.B.1 -->
 
-SLO City stores some property taken during encampment sweeps for 90 days before discarding it. <!-- Source: https://www.slocity.org/living/neighborhood/homelessness/camp#storage -->
-If you have had property taken in this way, call either the Public Works Department ([805-781-7220](tel:+1-805-781-7220)) or the Ranger Service Department ([805-781-7302](tel:+1-805-781-7302)) and give them a detailed description of your property. <!-- Source: https://www.slocity.org/living/neighborhood/homelessness/camp#storage -->
-If they think they may have it, you can make an appointment to retrieve it. <!-- Source: https://www.slocity.org/living/neighborhood/homelessness/camp#storage -->
+La ciudad de SLO almacena algunas pertenencias tomadas durante limpiezas de campamentos durante 90 días antes de descartarlas. <!-- Source: https://www.slocity.org/living/neighborhood/homelessness/camp#storage -->
+Si le han quitado pertenencias de esta manera, llame al Public Works Department ([805-781-7220](tel:+1-805-781-7220)) o al Ranger Service Department ([805-781-7302](tel:+1-805-781-7302)) y proporcióneles una descripción detallada de sus pertenencias. <!-- Source: https://www.slocity.org/living/neighborhood/homelessness/camp#storage -->
+Si piensan que podrían tenerlas, puede hacer una cita para recuperarlas. <!-- Source: https://www.slocity.org/living/neighborhood/homelessness/camp#storage -->
 
-If your property was seized from an camp sweep along the highway, on-ramp / off-ramp, or overpass / underpass, this may have been done by Caltrans.
-They should post notices where they plan to do encampment sweeps 72 hours before they begin, and those notices should include a phone number you can call to get assistance in retrieving your property. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
-If they failed to post notices ahead of time, they should post notices afterwards that describe where items were removed from, a contact number to call to reclaim them, and the date by which they must be reclaimed. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
-They will not sift through belongings to identify valuable items, but if they see “items of apparent value” in plain sight, they will treat them as privately owned, lost, discarded, abandoned, or stolen property and hold it for 90 days after removing it before disposing of it. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
+Si sus pertenencias fueron confiscadas de una limpieza de campamento a lo largo de la autopista, rampa de entrada/salida, o paso elevado/paso inferior, esto puede haber sido hecho por Caltrans.
+Deben publicar avisos donde planean hacer limpiezas de campamentos 72 horas antes de que comiencen, y esos avisos deben incluir un número de teléfono al que puede llamar para obtener ayuda para recuperar sus pertenencias. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
+Si no publicaron avisos con anticipación, deben publicar avisos después que describan de dónde se quitaron los artículos, un número de contacto para llamar para reclamarlos, y la fecha límite para reclamarlos. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
+No revisarán las pertenencias para identificar artículos valiosos, pero si ven "artículos de valor aparente" a simple vista, los tratarán como propiedad privada, perdida, descartada, abandonada o robada y los guardarán durante 90 días después de quitarlos antes de desecharlos. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
 
-If a different agency from those was responsible for the sweep, try discovering which agency it was, and then contact them directly.
+Si una agencia diferente fue responsable de la limpieza, intente descubrir cuál agencia fue, y luego comuníquese con ellos directamente.
 
-If you were separated from your property because you were arrested, it is possible that those who arrested you did not make any attempt to secure your belongings.
-They may have just left them wherever they were when you were arrested.
-If they did secure your belongings, they should return these to you when you are released from jail or they should tell you the process you can use to retrieve them, unless they are keeping the property as evidence.
+Si fue separado de sus pertenencias porque fue arrestado, es posible que quienes lo arrestaron no hayan hecho ningún intento de asegurar sus pertenencias.
+Pueden haberlas dejado donde estaban cuando fue arrestado.
+Si aseguraron sus pertenencias, deben devolvérselas cuando sea liberado de la cárcel o deben decirle el proceso que puede usar para recuperarlas, a menos que estén guardando la propiedad como evidencia.
 
-In the case of the SLO County Sheriff, if they were keeping the property as evidence but then decide to return it to you, they will inform you by sending you a letter that tells you where to retrieve the property. <!-- Source: Probation Department Policy/Procedure Manual 5.6.12 https://www.slocounty.ca.gov/departments/probation/forms-documents/education-and-training-materials-documents/procedures/5-support-services-procedures/evidence/5-6-property-evidence-manual -->
-You then have 30 days to retrieve the property, or it may be destroyed. <!-- Source: Probation Department Policy/Procedure Manual 5.6.12 https://www.slocounty.ca.gov/departments/probation/forms-documents/education-and-training-materials-documents/procedures/5-support-services-procedures/evidence/5-6-property-evidence-manual -->
-If you do not have a stable mailing address, or if the Sheriffs Department does not know your mailing address, you may never see this letter!
-In such a case, you may want to contact the Sheriffs department to let them know how to contact you if they decide to release your property.
+En el caso del SLO County Sheriff, si estaban guardando la propiedad como evidencia pero luego deciden devolvérsela, le informarán enviándole una carta que le dice dónde recuperar la propiedad. <!-- Source: Probation Department Policy/Procedure Manual 5.6.12 https://www.slocounty.ca.gov/departments/probation/forms-documents/education-and-training-materials-documents/procedures/5-support-services-procedures/evidence/5-6-property-evidence-manual -->
+Luego tiene 30 días para recuperar la propiedad, o puede ser destruida. <!-- Source: Probation Department Policy/Procedure Manual 5.6.12 https://www.slocounty.ca.gov/departments/probation/forms-documents/education-and-training-materials-documents/procedures/5-support-services-procedures/evidence/5-6-property-evidence-manual -->
+Si no tiene una dirección postal estable, o si el Sheriffs Department no conoce su dirección postal, ¡puede que nunca vea esta carta!
+En tal caso, es posible que desee comunicarse con el Sheriffs Department para informarles cómo contactarlo si deciden liberar su propiedad.
 
 -----
 
