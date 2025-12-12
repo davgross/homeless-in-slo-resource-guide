@@ -3662,34 +3662,34 @@ The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city wi
 Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.” <!-- Source: https://www.ciymca.org/financial-assistance -->
 Ask them about options for people with low incomes.
 
-[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) offers low-cost BarreConnect, fitness, somatic breathwork, Pilates, Tai Chi, yoga, and Zumba classes.
+[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) ofrece clases de bajo costo de BarreConnect, ejercicio, respiración somática, Pilates, Tai Chi, yoga y Zumba.
 
-[**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) offers low-cost yoga classes.
+[**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) ofrece clases de yoga de bajo costo.
 
-[**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services) classes include Tai Chi, stretch & balance, dance fitness, and body movement.
+Las clases de [**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services) incluyen Tai Chi, estiramiento y equilibrio, ejercicio de baile y movimiento corporal.
 
-[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) offers many fitness classes including aquatic fitness, yoga, and Zumba.
-They typically cost money, but there is [a scholarship program](https://www.prcity.com/1193/Scholarships) for people with low incomes.
+[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) ofrece muchas clases de ejercicio incluyendo ejercicio acuático, yoga y Zumba.
+Típicamente cuestan dinero, pero hay [un programa de becas](https://www.prcity.com/1193/Scholarships) para personas con bajos ingresos.
 
-[**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) offers low-cost yoga classes (they provide the yoga mat and any other necessary supplies) and sports (such as pickleball, volleyball, table tennis, softball, dodgeball, and basketball).
+[**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) ofrece clases de yoga de bajo costo (proporcionan el tapete de yoga y cualquier otro suministro necesario) y deportes (como pickleball, voleibol, tenis de mesa, softbol, dodgeball y baloncesto).
 
-The [DAREBEE](https://darebee.com/workouts/) website has more than 2,500 free, illustrated workout guides, most of which do not require any special equipment.
+El sitio web [DAREBEE](https://darebee.com/workouts/) tiene más de 2,500 guías de ejercicio ilustradas gratuitas, la mayoría de las cuales no requieren ningún equipo especial.
 
 Some local yoga studios offer occasional “community yoga” classes that are free or on a donation or sliding-scale basis. <!-- Source: e.g. https://thecenterslo.com/schedule Wednesdays at 5:45pm -->
 
 #### Ejercicio para Personas Mayores
 
-[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) offers low-cost senior fitness classes.
+[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) ofrece clases de ejercicio para personas mayores de bajo costo.
 
-[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers fitness classes such as senior yoga, Tai Chi, and Qigong.
+[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) ofrece clases de ejercicio como yoga para personas mayores, Tai Chi y Qigong.
 
-[**Central Coast Senior Center (Oceano)**](Directory.md#Central-Coast-Senior-Center) offers low-cost yoga, chair exercises, and Tai Chi.
+[**Central Coast Senior Center (Oceano)**](Directory.md#Central-Coast-Senior-Center) ofrece yoga de bajo costo, ejercicios en silla y Tai Chi.
 
-[**Morro Bay Senior Citizens**](Directory.md#Morro-Bay-Senior-Center) offers yoga, Tai Chi, strength training, balance class, Adult Class Exercise for Seniors (ACES), PACE (People with Arthritis Can Exercise).
+[**Morro Bay Senior Citizens**](Directory.md#Morro-Bay-Senior-Center) ofrece yoga, Tai Chi, entrenamiento de fuerza, clase de equilibrio, Adult Class Exercise for Seniors (ACES, Clase de Ejercicio para Adultos Mayores), PACE (People with Arthritis Can Exercise, Personas con Artritis Pueden Ejercitarse).
 
-[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) offers low-impact chair exercise classes.
+[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) ofrece clases de ejercicio en silla de bajo impacto.
 
-[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) offers yoga, balance and strength classes, flexercise, arthritis exercise, and brain fitness classes.
+[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) ofrece yoga, clases de equilibrio y fuerza, flexercise (ejercicio flexible), ejercicio para artritis y clases de ejercicio cerebral.
 
 [**SLO Senior Center**](Directory.md#SLO-Senior-Center) leads “SLO Hikers & Walkers” hikes of local trails and strolls through downtown, designed for people age 55 and older.
 See the [SLO Hikers & Walkers](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming hikes and walks.
@@ -3697,55 +3697,55 @@ They also host low-cost yoga classes (the first class is free), a free chair exe
 
 ### <a id="recreation-and-socializing">Recreación y Socialización</a>
 
-SLO City has a free, public skate park, open daily 7am–10pm, at <a href="#" class="map-link" data-lat="35.290166" data-lon="-120.664167" data-zoom="17" data-label="Santa Rosa Park">Santa Rosa Park</a>. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-skate-park/skate-park-faqs -->
-You must wear a helmet and elbow & knee pads to use the skate park. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-skate-park/skate-park-faqs -->
+La Ciudad de SLO tiene un parque de patinaje público gratuito, abierto diariamente de 7am–10pm, en <a href="#" class="map-link" data-lat="35.290166" data-lon="-120.664167" data-zoom="17" data-label="Santa Rosa Park">Santa Rosa Park</a>. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-skate-park/skate-park-faqs -->
+Debe usar casco y rodilleras y coderas para usar el parque de patinaje. <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-skate-park/skate-park-faqs -->
 
-The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) runs a local basketball league and organizes pick-up game hours.
+El [**SLO County YMCA**](Directory.md#SLO-County-YMCA) dirige una liga local de baloncesto y organiza horas de juegos improvisados.
 
-The city of SLO offers free [Concerts in the Plaza](https://downtownslo.com/events/concerts) downtown on Friday evenings during the summer.
-[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) offers free concerts at the Rotary Bandstand mid-day on Sundays during the summer.
-[**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services) offers free concerts on Sundays in Ramona Park during the summer.
-[**Morro Bay Active Adults**](Directory.md#Morro-Bay-Senior-Center) offers free concerts on Thursdays in the early fall at Tidelands Park.
-[**Paso Robles Recreation Services**](Directory.md#Paso-Robles-Parks-and-Recreation) offers free concerts on Thursday evenings during the summer in the Downtown City Park.
+La ciudad de SLO ofrece [Conciertos en la Plaza](https://downtownslo.com/events/concerts) (Concerts in the Plaza) gratuitos en el centro los viernes por la noche durante el verano.
+[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) ofrece conciertos gratuitos en el Rotary Bandstand al mediodía los domingos durante el verano.
+[**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services) ofrece conciertos gratuitos los domingos en Ramona Park durante el verano.
+[**Morro Bay Active Adults**](Directory.md#Morro-Bay-Senior-Center) ofrece conciertos gratuitos los jueves a principios del otoño en Tidelands Park.
+[**Paso Robles Recreation Services**](Directory.md#Paso-Robles-Parks-and-Recreation) ofrece conciertos gratuitos los jueves por la noche durante el verano en el Downtown City Park.
 
-[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) offers low-cost classes in things like improvisation, bagpipes, bridge, line dance, drumming, and fabric arts.
+[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) ofrece clases de bajo costo en cosas como improvisación, gaitas, bridge, baile en línea, batería y artes de tela.
 
-[**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) offers an adult basketball and kickball league, as well as drop-in basketball three days a week, and drop-in volleyball one day a week.
-They also offer classes in arts & crafts
+[**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) ofrece una liga de baloncesto y kickball para adultos, así como baloncesto sin cita tres días a la semana y voleibol sin cita un día a la semana.
+También ofrecen clases de artes y manualidades
 
-[**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services) classes include acrylic & oil painting, dance, calligraphy, ukulele, and sailing.
+Las clases de [**Grover Beach Community Services**](Directory.md#Grover-Beach-Community-Services) incluyen pintura acrílica y al óleo, baile, caligrafía, ukelele y vela.
 
-[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) offers many classes and activities including karate, pickleball, line dancing, crafting, dog training, and first aid.
-They typically cost money, but there is [a scholarship program](https://www.prcity.com/1193/Scholarships) for people with low incomes.
+[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) ofrece muchas clases y actividades incluyendo karate, pickleball, baile en línea, manualidades, entrenamiento de perros y primeros auxilios.
+Típicamente cuestan dinero, pero hay [un programa de becas](https://www.prcity.com/1193/Scholarships) para personas con bajos ingresos.
 
-[**Pismo Beach Recreation Division**](Directory.md#Pismo-Beach-Recreation-Division) has two beach wheelchairs available to the public to be borrowed for four hours at a time at no charge. <!-- Source: https://www.pismobeach.org/411/Beach-Wheel-Chairs -->
-Call [805-773-2422](tel:+1-805-773-2422) for details. <!-- Source: https://www.pismobeach.org/411/Beach-Wheel-Chairs -->
+[**Pismo Beach Recreation Division**](Directory.md#Pismo-Beach-Recreation-Division) tiene dos sillas de ruedas de playa disponibles para el público para ser prestadas por cuatro horas a la vez sin cargo. <!-- Source: https://www.pismobeach.org/411/Beach-Wheel-Chairs -->
+Llame al [805-773-2422](tel:+1-805-773-2422) para detalles. <!-- Source: https://www.pismobeach.org/411/Beach-Wheel-Chairs -->
 
-There are [three major disc golf courses](https://slothrowers.com/slo-courses/) in SLO County and several other smaller ones.
+Hay [tres campos principales de disc golf](https://slothrowers.com/slo-courses/) en el Condado de SLO y varios otros más pequeños.
 
 The SLO city bicycling community operates several free events, such as bike-in movie nights, group rides, and free bike breakfasts, many of which take place during [“Bike Month”](https://rideshare.org/program/bike-month/) (lately, May).
 The first Thursday of every month, soon after SLO’s downtown farmers’ market, is the “Bike Happening” in which dozens to hundreds of bicyclists do circuits around downtown, hooting and hollering. <!-- Source: been there, done that -DG -->
 
-The [Bay Osos Folk Dancers](https://bayososfolkdancers.weebly.com/) club meets on Tuesdays from 11am–3pm at the [**South Bay Community Center**](Directory.md#South-Bay-Community-Center) to learn and practice folk and line dances.
-Donations are requested to cover costs. <!-- Source: https://bayososfolkdancers.weebly.com/ -->
+El club [Bay Osos Folk Dancers](https://bayososfolkdancers.weebly.com/) (Bailarines Folclóricos de Bay Osos) se reúne los martes de 11am–3pm en el [**South Bay Community Center**](Directory.md#South-Bay-Community-Center) para aprender y practicar bailes folclóricos y en línea.
+Se solicitan donaciones para cubrir costos. <!-- Source: https://bayososfolkdancers.weebly.com/ -->
 
 #### Recreación y Socialización para Personas Mayores
 
-[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers classes, board and card games, arts & crafts sessions, discussion groups, movies, walking groups.
-Most are free for members ($20 annual dues), and $2 for non-members. <!-- Source: https://atascaderoseniorcenter.org/activities -->
-They also have a lending library of games and puzzles. <!-- Source: https://atascaderoseniorcenter.org/faq -->
+[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) ofrece clases, juegos de mesa y cartas, sesiones de artes y manualidades, grupos de discusión, películas, grupos de caminata.
+La mayoría son gratuitos para miembros (cuota anual de $20), y $2 para no miembros. <!-- Source: https://atascaderoseniorcenter.org/activities -->
+También tienen una biblioteca de préstamo de juegos y rompecabezas. <!-- Source: https://atascaderoseniorcenter.org/faq -->
 
-[**Central Coast Senior Center (Oceano)**](Directory.md#Central-Coast-Senior-Center) hosts games, a ukulele group, line dancing, and bingo.
+[**Central Coast Senior Center (Oceano)**](Directory.md#Central-Coast-Senior-Center) alberga juegos, un grupo de ukelele, baile en línea y bingo.
 
-[**Morro Bay Senior Citizens**](Directory.md#Morro-Bay-Senior-Center) hosts bingo, bocce, bridge, chess, dance, drawing & watercolor, ping-pong, pool and billiards, hand & foot cards, and special-interest classes.
+[**Morro Bay Senior Citizens**](Directory.md#Morro-Bay-Senior-Center) alberga bingo, bocce, bridge, ajedrez, baile, dibujo y acuarela, ping-pong, billar, cartas hand & foot, y clases de interés especial.
 
-There are pickleball courts in <a href="#" class="map-link" data-lat="35.398611" data-lon="-120.858761" data-zoom="17" data-label="Del Mar Park">Del Mar Park in Morro Bay</a>, open to all from 8am–Noon and open by reservation (for a fee through [**Morro Bay Parks & Recreation Department**](Directory.md#Morro-Bay-Parks-and-Recreation)) in the afternoons. <!-- Source: https://morrobayseniors.org/pickleball/ -->
-You can borrow [a set of pickleball balls and paddles](https://catalog.slolibrary.org/GroupedWork/e3d16ba9-5c54-db6e-c3c5-30cb0ceb24d8-eng/Home) from [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)).
-Lessons are available ($2 donation requested, balls and paddles provided) on Saturdays from 8:30–9:00am. <!-- Source: https://www.morrobayca.gov/679/Tennis-Opportunities -->
+Hay canchas de pickleball en <a href="#" class="map-link" data-lat="35.398611" data-lon="-120.858761" data-zoom="17" data-label="Del Mar Park">Del Mar Park en Morro Bay</a>, abiertas para todos de 8am–mediodía y abiertas con reservación (por una tarifa a través del [**Morro Bay Parks & Recreation Department**](Directory.md#Morro-Bay-Parks-and-Recreation)) por las tardes. <!-- Source: https://morrobayseniors.org/pickleball/ -->
+Puede pedir prestado [un conjunto de pelotas y paletas de pickleball](https://catalog.slolibrary.org/GroupedWork/e3d16ba9-5c54-db6e-c3c5-30cb0ceb24d8-eng/Home) de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Bibliotecas Públicas del Condado de SLO).
+Las lecciones están disponibles (se solicita donación de $2, pelotas y paletas proporcionadas) los sábados de 8:30–9:00am. <!-- Source: https://www.morrobayca.gov/679/Tennis-Opportunities -->
 
-[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) hosts bingo, canasta, a potluck, and has free coffee daily.
+[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) alberga bingo, canasta, una comida compartida y tiene café gratuito diariamente.
 
-[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) hosts scrabble, hand & foot, pinochle, meditation & mindfulness, knitting, bridge, mahjong, poker, bingo, Mexican train, Rummikub, cribbage, movies, a book club, and a walking group.
+[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) alberga scrabble, hand & foot, pinochle, meditación y atención plena, tejido, bridge, mahjong, póker, bingo, Mexican train, Rummikub, cribbage, películas, un club de lectura y un grupo de caminata.
 
 [**SLO Senior Center**](Directory.md#SLO-Senior-Center) operates free “Around the Town” tours of local places of interest for people age 55 and older.
 See the [Around the Town](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming tours and instructions on how to register.
