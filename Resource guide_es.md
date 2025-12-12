@@ -3329,7 +3329,7 @@ If you have a SNAP/EBT card, you can also get up to four admissions for $3 each.
 Open Th–M 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children’s Museum">1010 Nipomo St., SLO</a>. <!-- Source: https://www.slocm.org/ -->
 For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:info@slocm.org). <!-- Source: https://www.slocm.org/ -->
 
-[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) operates a [toy lending library](https://capslo.org/toylendinglibrary/).
+[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) opera una [biblioteca de préstamo de juguetes](https://capslo.org/toylendinglibrary/).
 
 [**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/ProgramOverview.aspx -->
 
@@ -3337,15 +3337,15 @@ For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:in
 It provides screening, assessment, referral, and treatment. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 These services are free to people with Medi-Cal/CenCal coverage, and available on a sliding feed schedule otherwise. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 
-> See [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic) in the [Food Resources](#food) section of this guide for information about the Women, Infants, and Children (WIC) program.
+> Vea [CalFresh / EBT (Cupones de Alimentos) y WIC](#calfresh-ebt-wic) en la sección [Recursos de Alimentos](#food) de esta guía para información sobre el programa de Mujeres, Bebés y Niños (WIC - Women, Infants, and Children).
 
-> See [Family Law / Child Support](#family-law) in the [Legal Help & Crime Victim Protection](#legal-help) section of this guide for information about enforcing child support orders and other family law issues.
+> Vea [Derecho Familiar / Manutención Infantil](#family-law) en la sección [Ayuda Legal y Protección a Víctimas de Crímenes](#legal-help) de esta guía para información sobre hacer cumplir órdenes de manutención infantil y otros asuntos de derecho familiar.
 
-> See the [Medical Resources for Specific Populations: Children](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for pediatric and other child-oriented medical services.
+> Vea los [Recursos Médicos para Poblaciones Específicas: Niños](#medical-resources-specific-populations) en la sección [Salud y Atención Médica](#health-medical-care) de esta guía para servicios médicos pediátricos y otros orientados a niños.
 
 ### <a id="parenting">Ayuda con la Crianza</a>
 
-> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Fussy Baby Network Warmline, the National Maternal Mental Health Hotline, and a number you can call to learn about Safe Surrender Site locations.
+> Vea la sección [Líneas Directas y Contactos de Emergencia](#emergency-contacts) de esta guía para la Línea de Ayuda de la Red de Bebés Quisquillosos (Fussy Baby Network Warmline), la Línea Directa Nacional de Salud Mental Materna (National Maternal Mental Health Hotline), y un número al que puede llamar para aprender sobre ubicaciones de Sitios de Entrega Segura (Safe Surrender Sites).
 
 [**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs. <!-- Source: https://sloparents.org/ -->
 
