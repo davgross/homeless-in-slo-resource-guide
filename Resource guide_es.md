@@ -3123,11 +3123,11 @@ Los grupos de Toastmasters en el Condado de SLO incluyen:
 
 | Club | Hora de Reunión | Ubicación |
 | ---- | --------------- | --------- |
-| [SLO Toastmasters Club 83](https://slotoastmasters.toastmastersclubs.org/) | Th 6:30–7:30am | <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a> |
-| [SLO Noontime Toastmasters Club (5204)](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204) | Tu Noon–1pm | Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a> |
-| [SLO Motion Toastmasters Club](https://slomotion.toastmastersclubs.org/) | M Noon–1pm | Caltrans “Sand” conference room, <a href="#" class="map-link" data-lat="35.260680" data-lon="-120.669333" data-zoom="17" data-label="Caltrans">2885 S. Higuera St., SLO</a> |
-| [Cal Poly Toastmasters](https://www.toastmasters.org/Find-a-Club/28676059-cal-poly-toastmasters) | W Noon–1pm | <a href="#" class="map-link" data-lat="35.303892" data-lon="-120.659629" data-zoom="17" data-label="Toastmasters">Bldg. 70 (Facilities)</a>, Room 110 on the Cal Poly San Luis Obispo campus |
-| [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club) | Th 12:10–1:15pm | various locations around Paso Robles |
+| [SLO Toastmasters Club 83](https://slotoastmasters.toastmastersclubs.org/) | Ju 6:30–7:30am | <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a> |
+| [SLO Noontime Toastmasters Club (5204)](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204) | Ma mediodía–1pm | Iglesia Luterana Mt. Carmel, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a> |
+| [SLO Motion Toastmasters Club](https://slomotion.toastmastersclubs.org/) | L mediodía–1pm | Caltrans “Sand” conference room, <a href="#" class="map-link" data-lat="35.260680" data-lon="-120.669333" data-zoom="17" data-label="Caltrans">2885 S. Higuera St., SLO</a> |
+| [Cal Poly Toastmasters](https://www.toastmasters.org/Find-a-Club/28676059-cal-poly-toastmasters) | Mi mediodía–1pm | <a href="#" class="map-link" data-lat="35.303892" data-lon="-120.659629" data-zoom="17" data-label="Toastmasters">Bldg. 70 (Facilities)</a>, sala 110 en el campus de Cal Poly San Luis Obispo |
+| [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club) | Ju 12:10–1:15pm | varias ubicaciones en Paso Robles |
 
 La [**University of California Cooperative Extension**](Directory.md#UC-Cooperative-Extension) (Extensión Cooperativa de la Universidad de California) local ofrece cursos de jardinería, preservación de alimentos y manejo de pastizales y cuencas hidrográficas.
 Muchos programas son gratuitos o de bajo costo.
@@ -3182,36 +3182,36 @@ Si es refugiado de otro país, puede obtener ayuda con su educación de [**SLO f
 
 ### <a id="literacy">Alfabetización</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers Basic English Literary course that takes place all year at its Oceano Learning Center location. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
-The course is every Tuesday from 5–8pm and you can begin the course any Tuesday. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
-Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece un curso de Alfabetización Básica en Inglés (Basic English Literary) que tiene lugar todo el año en su ubicación del Centro de Aprendizaje de Oceano (Oceano Learning Center). <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+El curso es todos los martes de 5–8pm y puede comenzar el curso cualquier martes. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+Regístrese [en línea](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) o llámeles para más información.
 
-[**The Literacy Connection**](Directory.md#Literacy-Connection) is a free, volunteer-based, one-on-one tutoring program that helps adults improve their literacy skills.
+[**The Literacy Connection**](Directory.md#Literacy-Connection) es un programa gratuito de tutoría uno a uno basado en voluntarios que ayuda a adultos a mejorar sus habilidades de alfabetización.
 
 ### <a id="diploma-ged-hiset">Diplomas de Preparatoria y sus Equivalentes (GED o HiSET)</a>
 
-If you did not (or do not plan to) earn a high school diploma, you can instead get a certificate that demonstrates that you have high-school-graduate-level competency.
-This can help you apply for jobs or for higher education.
-To get such a certificate, you must pass a test: either the GED test or the HiSET test. <!-- Source: https://www.cde.ca.gov/ta/tg/gd/index.asp -->
+Si no obtuvo (o no planea obtener) un diploma de escuela secundaria, en su lugar puede obtener un certificado que demuestre que tiene competencia a nivel de graduado de escuela secundaria.
+Esto puede ayudarle a solicitar empleos o educación superior.
+Para obtener tal certificado, debe pasar un examen: ya sea el examen GED o el examen HiSET. <!-- Source: https://www.cde.ca.gov/ta/tg/gd/index.asp -->
 
-[**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program includes free, non-credit courses that are designed to help you build the skills you need to pass the [California High School Equivalency (GED) exam](https://www.cuesta.edu/academics/continuinged/ged/index.html).
-Courses are offered in English and in Spanish. <!-- Source: https://www.cuesta.edu/academics/continuinged/ged/index.html -->
-They also offer free tutoring, and free access to software programs to help you study. <!-- Source: https://www.cuesta.edu/academics/continuinged/ged/index.html -->
+El programa de Educación Continua (Continuing Education) de [**Cuesta College**](Directory.md#Cuesta-College) incluye cursos gratuitos sin créditos que están diseñados para ayudarle a desarrollar las habilidades que necesita para pasar el [examen de Equivalencia de Escuela Secundaria de California (GED)](https://www.cuesta.edu/academics/continuinged/ged/index.html).
+Los cursos se ofrecen en inglés y en español. <!-- Source: https://www.cuesta.edu/academics/continuinged/ged/index.html -->
+También ofrecen tutoría gratuita y acceso gratuito a programas de software para ayudarle a estudiar. <!-- Source: https://www.cuesta.edu/academics/continuinged/ged/index.html -->
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers free [High School Diploma](https://adulted.luciamarschools.org/diploma) classes to adults.
-This will enable you to earn an actual high school diploma, but these classes can also prepare you to take and pass the GED or HiSET. <!-- Source: https://adulted.luciamarschools.org/info-registration -->
-Register [on their website](https://adulted.luciamarschools.org/info-registration).
-When you get your high school diploma or HiSET equivalency credential, you can also get a referral to Cuesta or Hancock Colleges if you want to continue your education there. <!-- SOURCE NEEDED -->
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece clases gratuitas de [Diploma de Escuela Secundaria](https://adulted.luciamarschools.org/diploma) (High School Diploma) para adultos.
+Esto le permitirá obtener un diploma real de escuela secundaria, pero estas clases también pueden prepararle para tomar y pasar el GED o HiSET. <!-- Source: https://adulted.luciamarschools.org/info-registration -->
+Regístrese [en su sitio web](https://adulted.luciamarschools.org/info-registration).
+Cuando obtenga su diploma de escuela secundaria o credencial de equivalencia HiSET, también puede obtener una referencia a Cuesta o Hancock Colleges si desea continuar su educación allí. <!-- SOURCE NEEDED -->
 
-[**Templeton Adult School**](Directory.md#Templeton-Adult-School) offers free high school diploma classes to adults on a flexible schedule.
-Call them or email [clondon@templetonusd.org](mailto:clondon@templetonusd.org) to begin the process of enrollment.
+[**Templeton Adult School**](Directory.md#Templeton-Adult-School) ofrece clases gratuitas de diploma de escuela secundaria para adultos con un horario flexible.
+Llámeles o envíe un correo electrónico a [clondon@templetonusd.org](mailto:clondon@templetonusd.org) para comenzar el proceso de inscripción.
 
-[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers free [High School Diploma / Equivalency classes](https://ae.slcusd.org/hsd-esl/high-school-equivalency) in San Luis Obispo, Morro Bay, and at the San Luis Obispo jail.
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) ofrece clases gratuitas de [Diploma de Escuela Secundaria / Equivalencia](https://ae.slcusd.org/hsd-esl/high-school-equivalency) en San Luis Obispo, Morro Bay y en la cárcel de San Luis Obispo.
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers online lessons, practice tests, and other learning tools, in English and Spanish, at its [High School Equivalency Center](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/hsequivalencycenter/home/are-you-prepared).
+Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) ofrecen lecciones en línea, exámenes de práctica y otras herramientas de aprendizaje, en inglés y español, en su [Centro de Equivalencia de Escuela Secundaria](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/hsequivalencycenter/home/are-you-prepared) (High School Equivalency Center).
 
-The [Cal-Learn](https://cdss.ca.gov/cal-learn) program helps pregnant or parenting teens finish high school or get an equivalent certificate. <!-- Source: https://cdss.ca.gov/cal-learn -->
-It helps with child care, transportation, educational expenses, and will even give you cash bonuses for getting good grades or for graduating. <!-- Source: https://cdss.ca.gov/cal-learn -->
+El programa [Cal-Learn](https://cdss.ca.gov/cal-learn) ayuda a adolescentes embarazadas o que son padres/madres a terminar la escuela secundaria u obtener un certificado equivalente. <!-- Source: https://cdss.ca.gov/cal-learn -->
+Ayuda con el cuidado de niños, transporte, gastos educativos, e incluso le dará bonos en efectivo por obtener buenas calificaciones o por graduarse. <!-- Source: https://cdss.ca.gov/cal-learn -->
 Apply for this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) or contact [Cal-Learn@dss.ca.gov](mailto:Cal-Learn@dss.ca.gov) if you have questions. <!-- Source: https://cdss.ca.gov/cal-learn -->
 
 The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
