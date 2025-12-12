@@ -3045,25 +3045,25 @@ Para solicitar, regístrese y publique un currículum en [**CalJOBS**](Directory
 
 ### <a id="recycling">Llegar a Fin de Mes: Reciclaje</a>
 
-There are a few places in SLO County that specialize in purchasing aluminum and glass for recycling:
+Hay algunos lugares en el Condado de SLO que se especializan en comprar aluminio y vidrio para reciclaje:
 
-- [**AGS Recycling**](Directory.md#AGS-Recycling) (Arroyo Grande and Morro Bay)
+- [**AGS Recycling**](Directory.md#AGS-Recycling) (Arroyo Grande y Morro Bay)
 - [**Cambria Recycling Center**](Directory.md#Cambria-Recycling-Center) (Cambria)
-- [**Steve’s Recycling**](Directory.md#Steves-Recycling) (Los Osos)
+- [**Steve's Recycling**](Directory.md#Steves-Recycling) (Los Osos)
 - [**Recycle 101**](Directory.md#Recycle-101) (Oceano)
 
-Many stores also will pay CRV (California Redemption Value) refunds for up to fifty returned beverage containers at a time. <!-- Source: https://calrecycle.ca.gov/bevcontainer/ -->
-To find such a store near you, use the search form at the [CalRecycle](https://www2.calrecycle.ca.gov/BevContainer/InStoreRedemption) website.
+Muchas tiendas también pagarán reembolsos de CRV (Valor de Redención de California - California Redemption Value) por hasta cincuenta contenedores de bebidas devueltos a la vez. <!-- Source: https://calrecycle.ca.gov/bevcontainer/ -->
+Para encontrar una tienda así cerca de usted, use el formulario de búsqueda en el sitio web de [CalRecycle](https://www2.calrecycle.ca.gov/BevContainer/InStoreRedemption).
 
 ### <a id="gig-jobs">Llegar a Fin de Mes: Trabajos Temporales</a>
 
-There are some ways to earn small amounts of money by doing various tasks on the internet, such as taking surveys, watching videos, or testing apps.
-Some of these are scams, and most do not pay very much, but they can be ways to make a few bucks here and there if you are unable to find or commit to steady work.
+Hay algunas formas de ganar pequeñas cantidades de dinero haciendo varias tareas en internet, como responder encuestas, ver videos o probar aplicaciones.
+Algunas de estas son estafas, y la mayoría no pagan mucho, pero pueden ser formas de ganar unos dólares aquí y allá si no puede encontrar o comprometerse con un trabajo estable.
 
-The [“beermoney” subreddit](https://www.reddit.com/r/beermoney/) maintains [a curated list of such opportunities](https://www.reddit.com/r/beermoney/comments/ab0dyv/most_common_beer_money_sites_do_not_create/).
-That site also includes feedback from participants on their experiences.
+El ["beermoney" subreddit](https://www.reddit.com/r/beermoney/) mantiene [una lista curada de tales oportunidades](https://www.reddit.com/r/beermoney/comments/ab0dyv/most_common_beer_money_sites_do_not_create/).
+Ese sitio también incluye comentarios de participantes sobre sus experiencias.
 
-The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote jobs with flexible hours.
+El sitio [FlexJobs](https://www.flexjobs.com/) es otra forma de encontrar trabajos remotos con horarios flexibles.
 
 -----
 
