@@ -69,35 +69,35 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
 
 <table>
  <thead>
-  <tr><th>Phone Number</th><th>Description</th></tr>
+  <tr><th>Número de Teléfono</th><th>Descripción</th></tr>
  </thead><tbody>
-  <tr><th colspan="2" style="text-align:left;">⇨ Emergency and Crisis Lines:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Líneas de Emergencia y Crisis:</th></tr>
    <tr><td><a href="tel:+1-911">911</a></td><td>Medical and safety emergencies</td></tr>
    <tr><td><a href="tel:+1-988">988</a> / <a href="sms:988">988</a></td><td>National Suicide Prevention Lifeline</td></tr><!-- Source: https://988lifeline.org/ -->
    <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr><!-- Source: https://www.t-mha.org/central-coast-hotline.php -->
    <tr><td>Text “HOME” to <a href="sms:741741?&body=HOME">741741</a></td><td>Crisis Text Line for immediate emotional support, or <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a> online</td></tr><!-- Source: https://www.crisistextline.org/ -->
    <tr><td><a href="tel:+1-833-317-4673">833-317-HOPE</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidential emotional support</td></tr><!-- Source: https://www.calhope.org/ -->
   </tr>
-  <tr><th colspan="2" style="text-align:left;">⇨ For Young People:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Para Jóvenes:</th></tr>
    <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Youth Crisis Line, for people in California ages 12–24; call or text</td></tr><!-- Source: https://calyouth.org/cycl/ -->
    <tr><td><a href="tel:+1-800-786-2929">800-RUN-AWAY</a> / <a href="sms:+1-800-786-2929">800-786-2929</a></td><td>National Runaway Safeline: 24/7 confidential support for runaway and homeless youth</td></tr><!-- Source: https://www.1800runaway.org/ -->
    <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> / text “LOVEIS” to <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr><!-- Source: https://www.loveisrespect.org/ -->
-  <tr><th colspan="2" style="text-align:left;">⇨ For LGBTQ People:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Para Personas LGBTQ:</th></tr>
    <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text “START” to <a href="sms:678678?&body=START">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr><!-- Source: https://www.thetrevorproject.org/get-help/ -->
    <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr><!-- Source: https://translifeline.org/ -->
-  <tr><th colspan="2" style="text-align:left;">⇨ For Victims of Sexual Assault and Intimate Partner Violence:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Para Víctimas de Agresión Sexual y Violencia de Pareja:</th></tr>
    <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Local sexual assault, sexual abuse, and intimate partner violence crisis line</td></tr><!-- Source: https://luminaalliance.org/24-hour-crisis-and-information-line -->
    <tr><td><a href="tel:+1-800-799-7233">800-799-SAFE</a> / text “START” to <a href="sms:88788?&body=START">88788</a></td><td>National Domestic Violence Hotline</td></tr><!-- Source: https://www.thehotline.org/ -->
-  <tr><th colspan="2" style="text-align:left;">⇨ For Parents:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Para Padres:</th></tr>
    <tr><td><a href="tel:+1-833-852-6262">833-TLC-MAMA</a> / <a href="sms:1-833-852-6262">833-TLC-MAMA</a></td><td>National Maternal Mental Health Hotline (call or text)</td></tr><!-- Source: https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline -->
    <tr><td><a href="tel:+1-888-431-2229">888-431-2229</a></td><td>Fussy Baby Network Warmline</td></tr><!-- Source: https://www.erikson.edu/fussy-baby-network/ -->
    <tr><td><a href="tel:+1-877-222-9723">877-BABYSAF</a></td><td>Safe Surrender Site locations in California (where to confidentially give up a newborn you cannot take care of)</td></tr><!-- Source: https://cdss.ca.gov/inforesources/safely-surrendered-baby/surrender-sites -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Other Specialized Crisis Lines:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Otras Líneas de Crisis Especializadas:</th></tr>
    <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (M–F, 8am–5pm), or <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Adult Protective Services</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps) -->
    <tr><td><a href="tel:+1-805-781-5437">805-781-KIDS</a></td><td>Child Welfare Services emergency suspected child abuse reporting line</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/child-welfare-services-(cws) -->
    <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
    <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or man-made disaster)</td></tr><!-- Source: https://www.fema.gov/ht/node/686553 -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Health and Behavioral Health Information:</th></tr>
+  <tr><th colspan="2" style="text-align:left;">⇨ Información de Salud y Salud del Comportamiento:</th></tr>
    <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Poison Hotline: Treatment advice from experts in poisoning care</td></tr><!-- Source: https://calpoison.org/ -->
    <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Help-4-Hep Helpline: peer-to-peer support for anyone with concerns about hepatitis C (M–F 9am–5pm Eastern Time)</td></tr><!-- Source: https://www.help4hep.org/lets-talk -->
    <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>SLO County Behavioral Health Access Line: Main number for scheduling appointments and getting information about all behavioral health services including navigation and peer support</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
