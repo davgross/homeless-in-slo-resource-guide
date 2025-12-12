@@ -304,7 +304,7 @@
 - **Sitio web:** [post66slo.org](https://post66slo.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.288680" data-lon="-120.653533" data-zoom="17" data-label="American Legion Post 66">1661 Mill St., SLO</a> <!-- Source: https://post66slo.org/ -->
 - **Teléfono:** [805-543-6445](tel:+1-805-543-6445) <!-- Source: https://post66slo.org/ -->
-- Notas: For [**Boyd Bristol Medical Equipment Program**](#Boyd-Bristol-Medical-Equipment-Program) hours, call to make an appointment
+- Notas: For [**Boyd Bristol Medical Equipment Program**](#Boyd-Bristol-Medical-Equipment-Program) hours, llame para hacer una cita
 
 ## America’s Job Center of California
 
@@ -445,7 +445,7 @@
 
 ## <a id="Bargain-Boutique">Bargain Boutique</a>
 
-> *See [Achievement House Thrift Stores](#Achievement-House-Thrift-Store)*
+> *Vea [Achievement House Thrift Stores](#Achievement-House-Thrift-Store)*
 
 <!-- not referenced anywhere yet
 ## <a id="Beach-Area-Storage">Beach Area Storage</a>
@@ -697,7 +697,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.284710" data-lon="-120.660546" data-zoom="17" data-label="Boyd Bristol Medical Equipment Program">1161 Mill St., SLO</a>
    - Nota: también se puede organizar la entrega <!-- Source: https://post66slo.org/serving-veterans/ -->
 - **Teléfono:** [805-543-6445](tel:+1-805-543-6445) <!-- Source: https://post66slo.org/serving-veterans/ -->
-- **Cómo obtener el servicio:** Only for veterans and veterans’ dependents. By appointment only; call to make an appointment.
+- **Cómo obtener el servicio:** Solo para veteranos y dependientes de veteranos. Solo con cita previa;llame para hacer una cita.
 
 ## The Bridge Cafe
 
@@ -911,7 +911,7 @@
    - Immigration and Citizenship Program: [831-722-2675](tel:+1-831-722-2675)
    - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Nota: Tattoo removal office is in Santa Cruz, not SLO) <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 - **Horario:**
-   - SLO offices: M–F 8am–5pm (call to confirm hours for specific location)
+   - SLO offices: M–F 8am–5pm (llame para confirmar hours para ubicación específica)
    - Paso Robles: segundo miércoles de cada mes, 1–5pm
 <!-- Nota: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) (see e.g. https://www.slocounty.ca.gov/departments/social-services/forms-documents/department-wide-forms/informational-documents/slo-county-resources-and-information-(5-1-2024) and https://www.tri-counties.org/wp-content/uploads/2017/11/slo-county-social-svs-resource-sheet.pdf)-->
 
@@ -991,7 +991,7 @@
 - **Sitio web:** [ccatc.org](https://ccatc.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.258145" data-lon="-120.692577" data-zoom="17" data-label="CCATC">11491 Los Osos Valley Rd. #202, SLO</a> <!-- Source: https://ccatc.org/contact-us/ -->
 - **Teléfono:** [805-549-7420](tel:+1-805-549-7420) <!-- Source: https://ccatc.org/contact-us/ --> (TTY: [805-549-7424](tel:+1-805-549-7424))
-- **Cómo obtener el servicio:** call to make an appointment
+- **Cómo obtener el servicio:** llame para hacer una cita
 
 ## <a id="Central-Coast-Autism-Spectrum-Center">Central Coast Autism Spectrum Center</a>
 
@@ -1056,7 +1056,7 @@
 - **Teléfono:** [805-481-7886](tel:+1-805-481-7886) <!-- Source: https://www.facebook.com/centralcoastseniorcenter/ -->
 - **Horario:** L–V, 9am–3pm <!-- Source: https://www.facebook.com/centralcoastseniorcenter/ -->
 - Notas:
-   - Open to seniors 50+; for more information call [**Senior Connection**](#Senior-Connection)
+   - Open to seniors 50+; para más información call [**Senior Connection**](#Senior-Connection)
    - Activities cost $2 for members, $3 for non-members (membership is $30 for individuals, $40 for couples)
    - A lunch site for meals offered through [**Meals that Connect**](#Meals-that-Connect)
 
@@ -2207,16 +2207,16 @@
 
 - **Sitio web:** [mealsthatconnect.org](https://mealsthatconnect.org/en/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Meals that Connect">265 South St. #B, SLO</a> (office) <!-- Source: https://mealsthatconnect.org/en/ -->
-   - Serves meals in Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
+   - Sirve comidas enAtascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
    - También hace entregas a domicilio <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 - **Teléfono:** [805-541-3312](tel:+1-805-541-3312) <!-- Source: https://mealsthatconnect.org/en/ -->
 - **Correo electrónico:** [officeadmin@mealsthatconnect.org](mailto:officeadmin@mealsthatconnect.org) <!-- Source: https://mealsthatconnect.org/en/ -->
 - **Horario:** (varía según el sitio)
-- **Cómo obtener el servicio:** abierto a personas de 60 años y mayores; complete an application <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#eligibility -->
+- **Cómo obtener el servicio:** abierto a personas de 60 años y mayores; complete una solicitud <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#eligibility -->
 
 ## <a id="Medi-Cal">Medi-Cal</a>
 
-> *See also: [**CenCal**](#CenCal)*
+> *Vea también: [**CenCal**](#CenCal)*
 
 - **Ubicaciónes:** *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 - Medi-Cal Dental:
@@ -3179,7 +3179,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Horario:**
    - Office: M/Tu/Th/F 8am–5pm, W 8am–7pm; Sa 9am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services/contact-us -->
    - Kennel: M/Tu/Th/F/Sa 1pm–5pm; W 1pm–7pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services/contact-us -->
-- **Cómo obtener el servicio:** call to make an appointment
+- **Cómo obtener el servicio:** llame para hacer una cita
 
 ## <a id="SLO-County-Bar-Association">SLO County Bar Association Lawyer Referral and Information Service</a>
 
@@ -3311,7 +3311,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Horario:** L–V 8am–5pm
 - **Cómo obtener el servicio:**
    - Walk-ins OK at the Arroyo Grande adult clinic M/W 9–11am and at the SLO adult clinic Tu/Th 1–4:30pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
-   - For youths and children, call to make an appointment
+   - For youths and children, llame para hacer una cita
 - Notas:
    - Central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
    - Can refer you to the “Supported Employment” program
@@ -3421,7 +3421,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Sitio web:** [slofoodbank.org](https://www.slofoodbank.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.237752" data-lon="-120.630593" data-zoom="17" data-label="SLO Food Bank">1180 Kendall Rd., SLO</a> <!-- Source: https://slofoodbank.org/en/contact/ -->
-   - Also has [many food distribution sites around SLO County](https://slofoodbank.org/en/food-locator/#neighborhood-food-distributions)
+   - También tiene [muchos sitios de distribución de alimentos en el condado de SLO](https://slofoodbank.org/en/food-locator/#neighborhood-food-distributions)
 - **Teléfono:** [805-238-4664](tel:+1-805-238-4664) <!-- Source: https://slofoodbank.org/en/contact/ -->
 - **Horario:** L–V 9:30am–4pm <!-- Source: https://slofoodbank.org/en/contact/ -->
    - Food pantry: M/W/F Mediodía–5pm <!-- Source: https://slofoodbank.org/en/contact/ -->
@@ -3440,7 +3440,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="SLO-Hub">SLO Hub</a>
 
-> *See also: [**40 Prado Homeless Services Center**](#40-Prado)*
+> *Vea también: [**40 Prado Homeless Services Center**](#40-Prado)*
 
 - **Sitio web:** [capslo.org/slo-hub](https://capslo.org/slo-hub/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="SLO Hub">40 Prado Rd., SLO</a>
@@ -3547,7 +3547,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Teléfono:** [805-782-9101](tel:+1-805-782-9101) <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
    - 24/7: [877-927-8387](tel:+1-877-927-8387) <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
 - **Horario:** L–V 8am–4:30pm <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
-- **Cómo obtener el servicio:** call to make an appointment
+- **Cómo obtener el servicio:** llame para hacer una cita
 
 ## <a id="SmartShare-Housing-Solutions">SmartShare Housing Solutions</a>
 
@@ -3571,7 +3571,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Horario:**
    - Martesat Prado Center (<a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">43 Prado Rd., SLO</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
    - los jueves at Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a>): solo con cita previa <!-- Source: https://fpcslo.org/assistance -->
-- **Cómo obtener el servicio:** drop-in at Prado, or call to schedule an appointment at the Mission
+- **Cómo obtener el servicio:** drop-in at Prado, or llame para programar an appointment at the Mission
 <!-- Nota: No dedicated website found for local chapter (as of October 2025) -->
 
 ## <a id="South-Bay-Community-Center">South Bay Community Center</a>
@@ -3906,7 +3906,7 @@ There are several urgent care options, including:
 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.123537" data-lon="-120.578580" data-zoom="17" data-label="Veterans Volunteer Services">Arroyo Grande</a>
 - **Teléfono:** [805-481-2622](tel:+1-805-481-2622)
-- **Cómo obtener el servicio:** No walk-ins; call to make an appointment
+- **Cómo obtener el servicio:** No walk-ins; llame para hacer una cita
 -->
 
 ## <a id="Victim-Witness-Assistance-Program">Victim Witness Assistance Program</a>
