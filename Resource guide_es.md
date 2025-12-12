@@ -4010,29 +4010,29 @@ See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Direc
 “Pequeñas Despensas Gratuitas” are similar, but rather than holding books, they specialize in non-perishable food, feminine hygiene products, pet food, and miscellaneous other items.
 See [**Pequeñas Despensas Gratuitas**](Directory.md#Little-Free-Pantries) in the Directory for a list of several in SLO County.
 
-The Shandon branch of [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has a tool-lending library.
-People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leaf blower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench. <!-- SOURCE NEEDED -->
-You must complete some extra forms and a liability waiver to use the tool lending library. <!-- SOURCE NEEDED -->
+La sucursal de Shandon de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) tiene una biblioteca de préstamo de herramientas.
+Las personas con tarjetas de biblioteca del condado pueden pedir prestadas herramientas eléctricas como taladros, sierras, lijadoras o un router; herramientas para exteriores como un soplador de hojas, recortador de setos o sierra de pértiga; y herramientas manuales como escaleras, niveles, carritos o un banco de trabajo. <!-- SOURCE NEEDED -->
+Debe completar algunos formularios adicionales y una exención de responsabilidad para usar la biblioteca de préstamo de herramientas. <!-- SOURCE NEEDED -->
 
 PG&E’s [Energy Savings Assistance (ESA) Program](https://www.pge.com/en/save-energy-and-money/energy-saving-programs/energy-savings-assistance-program.html) helps low-income households upgrade or repair water heaters, furnaces, lighting, and appliances for no cost.
 This can also improve energy efficiency, which will lower your utility bills.
 See their website for information on who is eligible and how to apply, or call [800-933-9555](tel:+1-800-933-9555).
 
-[**CAPSLO**](Directory.md#CAPSLO) can connect low-income households with providers of no-cost weatherization through their [Home and Energy Services](https://capslo.org/energy-services/) program.
-They can also connect seniors (aged 60+) with providers of no-cost minor home repairs through that program. <!-- https://capslo.org/minor-home-repair/ -->
-Call their Energy Office for details.
+[**CAPSLO**](Directory.md#CAPSLO) puede conectar hogares de bajos ingresos con proveedores de climatización sin costo a través de su programa [Home and Energy Services](https://capslo.org/energy-services/) (Servicios de Hogar y Energía).
+También pueden conectar a personas mayores (edad 60+) con proveedores de reparaciones menores del hogar sin costo a través de ese programa. <!-- https://capslo.org/minor-home-repair/ -->
+Llame a su Oficina de Energía para detalles.
 
-The [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus will pour you a free cup of coffee.
+El café [**Front Porch**](Directory.md#Front-Porch) (Porche Frontal) en el campus de Cal Poly le servirá una taza gratuita de café.
 
-If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get free hygiene products, a scarf, hats, backpacks, laundry soap, menstruation products, and sometimes gift cards to fast food restaurants from the [Basic Needs Office](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html). <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener productos de higiene gratuitos, una bufanda, sombreros, mochilas, jabón para lavar ropa, productos de menstruación y a veces tarjetas de regalo para restaurantes de comida rápida de la [Basic Needs Office](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html) (Oficina de Necesidades Básicas). <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
 
-> See [Holiday Gifts for Children](#holiday-gifts-for-children) in the [Children, Youth, and People with Children](#children-youth-parents) section of this guide for information on how to get free toys, coats, bicycles, and other such gifts for your children during the holidays.
+> Vea [Regalos de Temporada para Niños](#holiday-gifts-for-children) en la sección [Niños, Jóvenes y Personas con Hijos](#children-youth-parents) de esta guía para información sobre cómo obtener juguetes, abrigos, bicicletas y otros regalos gratuitos para sus hijos durante las festividades.
 
 ### <a id="low-cost-stuff">Bajo Costo</a>
 
-> See [Clothing: Thrift Stores](#thrift-stores) for a list of low-cost thrift stores in SLO County. Many sell a variety of goods other than clothing.
+> Vea [Ropa: Tiendas de Segunda Mano](#thrift-stores) para una lista de tiendas de segunda mano de bajo costo en el Condado de SLO. Muchas venden una variedad de bienes además de ropa.
 
-[**Habitat for Humanity ReStore**](Directory.md#Habitat-for-Humanity) sells recycled construction materials, building supplies, furniture, appliances, and home décor at low prices.
+[**Habitat for Humanity ReStore**](Directory.md#Habitat-for-Humanity) vende materiales de construcción reciclados, suministros de construcción, muebles, electrodomésticos y decoración del hogar a precios bajos.
 
 [SLO MakerSpace](https://www.slomakerspace.com/) can give you access to a variety of tools–everything from basic hand tools to laser cutters and 3D printers.
 You can get a free “partner pass” membership through [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries). <!-- Source: https://www.slomakerspace.com/get-making -->
@@ -4045,9 +4045,9 @@ Some advanced tools also require that you take tool-specific orientation classes
 
 ## <a id="other-guides">Otras Guías, Páginas Web y Fuentes de Información</a>
 
-Some other groups assemble resource guides like this one.
-Some have a different focus (for instance, they highlight resources for seniors or for veterans) or cover a different region.
-Here are some of these local guides:
+Algunos otros grupos ensamblan guías de recursos como esta.
+Algunos tienen un enfoque diferente (por ejemplo, destacan recursos para personas mayores o para veteranos) o cubren una región diferente.
+Aquí hay algunas de estas guías locales:
 
 - [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): a comprehensive guide covering services for seniors in SLO and Santa Barbara Counties. Also exists as a searchable online directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
 - [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services): available in English and Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, and healthcare
@@ -4066,17 +4066,17 @@ Here are some of these local guides:
 - [SLO County *Job Seeker Resource Guide*](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide)
 - [*The Homeless Veteran’s Resource Guide*](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
 
-If you would like some in-person help, you can get assistance on a variety of issues from the Library Outreach Team at [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) branches:
+Si desea ayuda en persona, puede obtener asistencia sobre una variedad de problemas del Equipo de Alcance de la Biblioteca (Library Outreach Team) en las sucursales de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries):
 
 <!-- Hours & locations verified from a flyer posted at the SLO city library on 22 Nov. 2025 -->
 
-- [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries), Wednesdays, 10:30am–Noon
-- [**Arroyo Grande Library**](Directory.md#SLO-County-Public-Libraries), Thursdays, 9:30am–11am
-- [**Los Osos Library**](Directory.md#SLO-County-Public-Libraries), Fridays, 1–2:30pm
-- [**Morro Bay Library**](Directory.md#SLO-County-Public-Libraries), Thursdays, 12:30pm–2pm
-- [**SLO city Library**](Directory.md#SLO-County-Public-Libraries), Tuesdays, 10–11:30am & 2:30–4pm
+- [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries), miércoles, 10:30am–mediodía
+- [**Arroyo Grande Library**](Directory.md#SLO-County-Public-Libraries), jueves, 9:30am–11am
+- [**Los Osos Library**](Directory.md#SLO-County-Public-Libraries), viernes, 1–2:30pm
+- [**Morro Bay Library**](Directory.md#SLO-County-Public-Libraries), jueves, 12:30pm–2pm
+- [**SLO city Library**](Directory.md#SLO-County-Public-Libraries), martes, 10–11:30am & 2:30–4pm
 
-You can drop in, or make an appointment by calling or texting [805-540-0057](tel:+1-805-540-0057).
+Puede llegar sin cita, o hacer una cita llamando o enviando un mensaje de texto al [805-540-0057](tel:+1-805-540-0057).
 
 <!-- TBD: also find a home for this stuff:
 
