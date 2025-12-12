@@ -1519,33 +1519,33 @@ Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obte
 
 ### <a id="dental-care">Cuidado Dental</a>
 
-[**Central Coast Dental Society**](Directory.md#CCDS) maintains [a list of dentists who offer reduced rates for people in financial hardship](https://centralcoastdentalsociety.org/public-resources/reduced-fee-dental).
+[**Central Coast Dental Society**](Directory.md#CCDS) (Sociedad Dental de la Costa Central) mantiene [una lista de dentistas que ofrecen tarifas reducidas para personas con dificultades financieras](https://centralcoastdentalsociety.org/public-resources/reduced-fee-dental).
 
-[**Community Health Centers**](Directory.md#CHC) offers dental care at its offices in Nipomo, Oceano, Templeton (Las Tablas), and at 40 Prado in SLO. <!-- Source: https://www.communityhealthcenters.org/health-services/dental/ -->
+[**Community Health Centers**](Directory.md#CHC) (Centros de Salud Comunitarios) ofrece cuidado dental en sus oficinas en Nipomo, Oceano, Templeton (Las Tablas), y en 40 Prado en SLO. <!-- Source: https://www.communityhealthcenters.org/health-services/dental/ -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a dental clinic. <!-- Source: https://www.slonoorfoundation.org/dental -->
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) tiene una clínica dental. <!-- Source: https://www.slonoorfoundation.org/dental -->
 
-> See [Medi-Cal: Dentists](#medi-cal-dentists) above to learn how to find a Medi-Cal dental provider.
+> Vea [Medi-Cal: Dentistas](#medi-cal-dentists) arriba para aprender cómo encontrar un proveedor dental de Medi-Cal.
 
 ### <a id="vision-care">Cuidado de la Vista</a>
 
-The [**Community Health Centers**](Directory.md#CHC) offices in Nipomo, Paso Robles, and at 260 Station Way in Arroyo Grande specialize in optometry. <!-- Source: https://www.communityhealthcenters.org/health-services/optometry/ -->
+Las oficinas de [**Community Health Centers**](Directory.md#CHC) en Nipomo, Paso Robles, y en 260 Station Way en Arroyo Grande se especializan en optometría. <!-- Source: https://www.communityhealthcenters.org/health-services/optometry/ -->
 
-[**EyeCare America**](Directory.md#EyeCare-America) offers a free eye exam and follow-up ophthalmology treatment to uninsured and underinsured adults. <!-- Source: https://www.aao.org/eyecare-america -->
+[**EyeCare America**](Directory.md#EyeCare-America) ofrece un examen de la vista gratuito y tratamiento de oftalmología de seguimiento a adultos sin seguro y con seguro insuficiente. <!-- Source: https://www.aao.org/eyecare-america -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a vision care clinic. <!-- Source: https://www.slonoorfoundation.org/vision -->
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) tiene una clínica de cuidado de la vista. <!-- Source: https://www.slonoorfoundation.org/vision -->
 
 #### Lentes
 
-The American Academy of Ophthalmology maintains [a list of sources of free and low-cost eyeglasses](https://aao.org/eyecare-america/resources/eye-glasses).
+La American Academy of Ophthalmology (Academia Estadounidense de Oftalmología) mantiene [una lista de fuentes de lentes gratis y de bajo costo](https://aao.org/eyecare-america/resources/eye-glasses).
 
-You can find a list of Medi-Cal opticians at [provdir.cencalhealth.org](https://provdir.cencalhealth.org/).
+Puede encontrar una lista de ópticos de Medi-Cal en [provdir.cencalhealth.org](https://provdir.cencalhealth.org/).
 
 ### <a id="mental-health">Salud Mental</a>
 
-You can get 24-hour mental health support from SLO Hotline ([805-783-0607](tel:+1-805-783-0607), or text [741741](sms:741741)).
+Puede obtener apoyo de salud mental las 24 horas de SLO Hotline ([805-783-0607](tel:+1-805-783-0607), o envíe un mensaje de texto al [741741](sms:741741)).
 
-> For mental health emergencies, see [Emergency Care](#emergency-care) and [Emergency Contacts](#emergency-contacts).
+> Para emergencias de salud mental, vea [Atención de Emergencia](#emergency-care) y [Contactos de Emergencia](#emergency-contacts).
 
 The [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) and [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) respond to acute mental health needs.
 
