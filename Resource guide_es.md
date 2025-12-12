@@ -252,77 +252,77 @@ Comuníquese directamente con los proveedores de servicios para verificar su inf
 
 ## <a id="shelter-housing">Refugio y Vivienda</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Eviction Prevention](#eviction-protection)
-- [Warming/Cooling Centers](#warming-cooling-centers)
-- [Overnight Shelter](#overnight-shelter)
-- [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks)
-- [Transitional and Long-Term Housing](#transitional-and-long-term-housing)
-- [For U.S. Military Veterans](#housing-veterans)
-- [Sober Living Homes and Residential Treatment Options](#sober-living-homes)
+- [Prevención de Desalojos](#eviction-protection)
+- [Centros de Calefacción/Enfriamiento](#warming-cooling-centers)
+- [Refugio Nocturno](#overnight-shelter)
+- [Campamentos Legales, Estacionamiento Seguro y Parques de Casas Rodantes](#camping-parking-rv-parks)
+- [Vivienda de Transición y a Largo Plazo](#transitional-and-long-term-housing)
+- [Para Veteranos Militares de EE.UU.](#housing-veterans)
+- [Viviendas de Vida Sobria y Opciones de Tratamiento Residencial](#sober-living-homes)
 
 ### <a id="eviction-protection">Prevención de Desalojos</a>
 
-If you are homeless or are threatened with eviction with a “pay rent or quit” notice, or if you have had to move your family into a hotel, you can get immediate help from the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
-This program can pay your security deposit, one month’s rent, or a utility deposit payment. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
-To qualify you must have “apparent eligibility” for CalWORKs and less than $100 in liquid assets. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
-You must first get a referral from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
-The first step in this process is to apply for CalWORKs, which you can do online at [BenefitsCal](https://benefitscal.com/).
+Si está sin hogar o está amenazado con desalojo mediante un aviso para pagar la renta o desocupar, o si ha tenido que mudar a su familia a un hotel, puede obtener ayuda inmediata del [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+Este programa puede pagar su depósito de seguridad, un mes de renta o un pago de depósito de servicios públicos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+Para calificar, debe tener "elegibilidad aparente" para CalWORKs y menos de $100 en activos líquidos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+Primero debe obtener una referencia del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+El primer paso en este proceso es solicitar CalWORKs, lo cual puede hacer en línea en [BenefitsCal](https://benefitscal.com/).
 
-If you are homeless or are threatened with eviction with a “pay rent or quit” notice, or if you have had to move your family into a hotel, you can get help from the [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-This program will help you find housing, and give you rent and moving assistance, among other things. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-You must be eligible for [**CalWORKs**](Directory.md#CalWORKs) to participate, and you can only use this program once in your lifetime. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-The first step in this process is to apply for CalWORKs, which you can do online at [BenefitsCal](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+Si está sin hogar o está amenazado con desalojo mediante un aviso para pagar la renta o desocupar, o si ha tenido que mudar a su familia a un hotel, puede obtener ayuda del [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+Este programa lo ayudará a encontrar vivienda y le dará asistencia de renta y mudanza, entre otras cosas. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+Debe ser elegible para [**CalWORKs**](Directory.md#CalWORKs) para participar, y solo puede usar este programa una vez en su vida. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+El primer paso en este proceso es solicitar CalWORKs, lo cual puede hacer en línea en [BenefitsCal](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
 
-[**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers financial assistance for rent, security deposit, or other immediate needs for people who are homeless in danger of becoming homeless. <!-- https://5chc.org/programs/housing-assistance -->
-Contact 5CHC to arrange a confidential coordinated entry interview. <!-- https://5chc.org/programs/housing-assistance -->
-You need to bring identification, including social security cards and birth certificates for you and those living with you, an account of how much income you received during the previous three months, your lease agreement if any, and any eviction notice you received. <!-- SOURCE NEEDED -->
+[**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) opera un [programa de asistencia de vivienda](https://5chc.org/programs/housing-assistance) que ofrece asistencia financiera para renta, depósito de seguridad u otras necesidades inmediatas para personas sin hogar o en peligro de quedarse sin hogar. <!-- https://5chc.org/programs/housing-assistance -->
+Comuníquese con 5CHC para programar una entrevista confidencial de entrada coordinada. <!-- https://5chc.org/programs/housing-assistance -->
+Necesita traer identificación, incluyendo tarjetas de seguro social y certificados de nacimiento para usted y quienes viven con usted, un registro de cuánto ingreso recibió durante los tres meses anteriores, su contrato de arrendamiento si tiene uno, y cualquier aviso de desalojo que haya recibido. <!-- SOURCE NEEDED -->
 
-> See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help) section for options about preventing illegal evictions.
+> Vea la sección [Asistencia Legal, Mediación y Protección para Víctimas de Crímenes](#legal-help) para opciones sobre cómo prevenir desalojos ilegales.
 
-> See the [Emergency Financial Help](#emergency-financial-help) section for more possible ways to get short-term financial help in a crisis.
+> Vea la sección [Ayuda Financiera de Emergencia](#emergency-financial-help) para más formas posibles de obtener ayuda financiera a corto plazo en una crisis.
 
 ### <a id="warming-cooling-centers">Centros de Calefacción/Enfriamiento</a>
 
-Warming centers open only on unusually cold or rainy nights (temperatures expected to drop below 38°F or a 50% chance of rain).
-They offer overnight shelter beds.
-Cooling centers open only during the day when the weather is unusually hot.
-They offer you an air-conditioned place where you can get out of the sun.
-It can be difficult to know on any particular day whether or not these centers are open, so it is a good idea to call ahead.
+Los centros de calefacción abren solo en noches inusualmente frías o lluviosas (se espera que las temperaturas bajen de 38°F o haya 50% de probabilidad de lluvia).
+Ofrecen camas de refugio nocturno.
+Los centros de enfriamiento abren solo durante el día cuando el clima es inusualmente caluroso.
+Le ofrecen un lugar con aire acondicionado donde puede salir del sol.
+Puede ser difícil saber en un día particular si estos centros están abiertos o no, por lo que es buena idea llamar con anticipación.
 
-- [This web page](https://www.emergencyslo.org/en/adverse-weather-centers.aspx) may show the current status of the county’s warming/cooling centers.
-- You can [register here](https://lp.constantcontactpages.com/sl/Jg4jVHc/warmingcenter) to receive notifications about the county’s warming centers.
+- [Esta página web](https://www.emergencyslo.org/en/adverse-weather-centers.aspx) puede mostrar el estado actual de los centros de calefacción/enfriamiento del condado.
+- Puede [registrarse aquí](https://lp.constantcontactpages.com/sl/Jg4jVHc/warmingcenter) para recibir notificaciones sobre los centros de calefacción del condado.
 
-The SLO city warming/cooling center is at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
-When it operates as a warming center, check in is between 7pm and 9pm, and you must leave by 8am. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-People with P.C. 290 convictions are not allowed in the center. <!-- SOURCE NEEDED (issue #51) -->
-When it operates as a cooling center, you must leave by 6pm. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-Cooling center guests can get breakfast, lunch, and dinner. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-Pets with rabies vaccinations are allowed in their kennel. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-The warming center offers a free hot meal. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-Transportation is available between the warming center and Morro Bay and Los Osos. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-Pick-up times from those areas are as follows: <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+El centro de calefacción/enfriamiento de la ciudad de SLO está en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
+Cuando opera como centro de calefacción, el registro es entre las 7pm y 9pm, y debe irse antes de las 8am. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Las personas con condenas P.C. 290 no pueden ingresar al centro. <!-- SOURCE NEEDED (issue #51) -->
+Cuando opera como centro de enfriamiento, debe irse antes de las 6pm. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Los huéspedes del centro de enfriamiento pueden obtener desayuno, almuerzo y cena. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Se permiten mascotas con vacunas contra la rabia en su perrera. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+El centro de calefacción ofrece una comida caliente gratuita. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Hay transporte disponible entre el centro de calefacción y Morro Bay y Los Osos. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Los horarios de recogida de esas áreas son los siguientes: <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 
 - 6:15pm: Morro Bay Park (<a href="#" class="map-link" data-lat="35.366428" data-lon="-120.844717" data-zoom="17" data-label="Warming Center Shuttle">734 Harbor St., Morro Bay</a>) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 - 6:00pm: South Bay Community Center (<a href="#" class="map-link" data-lat="35.312849" data-lon="-120.836370" data-zoom="17" data-label="Warming Center Shuttle">2180 Palisades Ave., Los Osos</a>) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) warming center at <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. in Arroyo Grande</a> operates between 5:30pm and 7am. <!-- Source: https://5chc.org/programs/warming-center -->
-You must check in between 5:30pm and 8pm. <!-- Source: https://www.instagram.com/countyofslo/ -->
-Pets are OK if you have proof of license/vaccinations. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
+El centro de calefacción de [**5Cities Homeless Coalition**](Directory.md#5CHC) en <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. en Arroyo Grande</a> opera entre las 5:30pm y 7am. <!-- Source: https://5chc.org/programs/warming-center -->
+Debe registrarse entre las 5:30pm y 8pm. <!-- Source: https://www.instagram.com/countyofslo/ -->
+Las mascotas están permitidas si tiene prueba de licencia/vacunas. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
 <!-- True? You must have a valid ID. -->
-People with P.C. 290 convictions are not allowed in the center. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
-Call [805-202-3615](tel:+1-805-202-3615) to verify the center is open<!-- Source: https://5chc.org/programs/warming-center --> and to learn about free transportation options to the center from Grover Beach, Oceano, and Pismo Beach. <!-- SOURCE NEEDED -->
-The warming center offers dinner and a light breakfast. <!-- Source: https://5chc.org/programs/warming-center -->
-Text “Add Me” to [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) to receive text updates to your phone when the Warming Center opens,<!-- Source: https://5chc.org/programs/warming-center --> or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list. <!-- SOURCE NEEDED -->
+Las personas con condenas P.C. 290 no pueden ingresar al centro. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
+Llame al [805-202-3615](tel:+1-805-202-3615) para verificar que el centro esté abierto<!-- Source: https://5chc.org/programs/warming-center --> y para conocer las opciones de transporte gratuito al centro desde Grover Beach, Oceano y Pismo Beach. <!-- SOURCE NEEDED -->
+El centro de calefacción ofrece cena y un desayuno ligero. <!-- Source: https://5chc.org/programs/warming-center -->
+Envíe mensaje de texto "Add Me" al [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) para recibir actualizaciones por mensaje de texto cuando el centro de calefacción abra,<!-- Source: https://5chc.org/programs/warming-center --> o envíe un correo electrónico a [info@5chc.org](mailto:info@5chc.org) y pida que lo agreguen a su lista de notificaciones. <!-- SOURCE NEEDED -->
 
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center at its Paso Robles shelter location. <!-- SOURCE NEEDED -->
-It operates between 6:00pm and 7:00am. Check in between 4:30pm and 5:30pm. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
-They will also serve you a meal. <!-- Source: https://www.echoshelter.org/pasorobles -->
-No dogs except for service dogs are allowed in the warming center. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opera un centro de calefacción de diez camas en su ubicación de refugio de Paso Robles. <!-- SOURCE NEEDED -->
+Opera entre las 6:00pm y 7:00am. Regístrese entre las 4:30pm y 5:30pm. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
+También le servirán una comida. <!-- Source: https://www.echoshelter.org/pasorobles -->
+No se permiten perros excepto perros de servicio en el centro de calefacción. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
 
-[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) operates an air-conditioned cooling center any time the temperature is above 90°F outside. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
-You do not have to be a senior center member to shelter there when the cooling center is open. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
+[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) opera un centro de enfriamiento con aire acondicionado cuando la temperatura afuera supera los 90°F. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
+No tiene que ser miembro del centro para personas mayores para refugiarse allí cuando el centro de enfriamiento esté abierto. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
 
 ### <a id="overnight-shelter">Refugio Nocturno</a>
 
