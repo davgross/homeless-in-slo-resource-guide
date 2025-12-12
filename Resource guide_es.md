@@ -3212,7 +3212,7 @@ Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Publi
 
 El programa [Cal-Learn](https://cdss.ca.gov/cal-learn) ayuda a adolescentes embarazadas o que son padres/madres a terminar la escuela secundaria u obtener un certificado equivalente. <!-- Source: https://cdss.ca.gov/cal-learn -->
 Ayuda con el cuidado de niños, transporte, gastos educativos, e incluso le dará bonos en efectivo por obtener buenas calificaciones o por graduarse. <!-- Source: https://cdss.ca.gov/cal-learn -->
-Apply for this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) or contact [Cal-Learn@dss.ca.gov](mailto:Cal-Learn@dss.ca.gov) if you have questions. <!-- Source: https://cdss.ca.gov/cal-learn -->
+Solicite este programa a través del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) (Departamento de Servicios Sociales del Condado de SLO) o contacte a [Cal-Learn@dss.ca.gov](mailto:Cal-Learn@dss.ca.gov) si tiene preguntas. <!-- Source: https://cdss.ca.gov/cal-learn -->
 
 The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
 To access this program, contact [the liaison for your school district](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) or contact the County Office of Education at [805-782-7268](tel:+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org). <!-- Source: https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/ -->
@@ -3221,76 +3221,76 @@ To access this program, contact [the liaison for your school district](https://w
 
 English as a Second Language (ESL) classes are for learners who already have another native or “mother” language, and they want to learn English as well.
 
-[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers free [ESL classes](https://ae.slcusd.org/hsd-esl/english-as-a-second-language) in Morro Bay and San Luis Obispo.
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) ofrece [clases gratuitas de ESL](https://ae.slcusd.org/hsd-esl/english-as-a-second-language) en Morro Bay y San Luis Obispo.
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers free [ESL classes](https://adulted.luciamarschools.org/english-as-a-second-language) at its Nipomo and Oceano learning centers
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece [clases gratuitas de ESL](https://adulted.luciamarschools.org/english-as-a-second-language) en sus centros de aprendizaje de Nipomo y Oceano
 
-[**Cuesta College**](Directory.md#Cuesta-College) offers free [ESL classes](https://www.cuesta.edu/academics/divisions/studentdevsuccess/esl/index.html) in Arroyo Grande, Paso Robles, and San Luis Obispo.
+[**Cuesta College**](Directory.md#Cuesta-College) ofrece [clases gratuitas de ESL](https://www.cuesta.edu/academics/divisions/studentdevsuccess/esl/index.html) en Arroyo Grande, Paso Robles y San Luis Obispo.
 
-[**The Literacy Connection**](Directory.md#Literacy-Connection) offers free [ESL tutoring](https://catalog.slolibrary.org/tlc) and online conversation practice groups.
-To apply, complete [the form on their website](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) or call [805-781-5077](tel:+1-805-781-5077).
+[**The Literacy Connection**](Directory.md#Literacy-Connection) ofrece [tutoría gratuita de ESL](https://catalog.slolibrary.org/tlc) y grupos de práctica de conversación en línea.
+Para solicitar, complete [el formulario en su sitio web](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) o llame al [805-781-5077](tel:+1-805-781-5077).
 
-[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) offers free ESL classes and personal tutoring two evenings per week. <!-- Source: https://immigranthopeag.org/education/ -->
+[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) ofrece clases gratuitas de ESL y tutoría personal dos noches por semana. <!-- Source: https://immigranthopeag.org/education/ -->
 
-Recent refugees from other countries can also get ESL help from [**SLO for HOME**](Directory.md#SLO4Home). <!-- https://www.sloforhome.org/ mentions providing "language support" -->
+Los refugiados recientes de otros países también pueden obtener ayuda de ESL de [**SLO for HOME**](Directory.md#SLO4Home). <!-- https://www.sloforhome.org/ mentions providing "language support" -->
 
 ### <a id="education-for-people-with-disabilities">Para Personas con Discapacidades</a>
 
-[**Cuesta College**](Directory.md#Cuesta-College)’s Continuing Education program has an [Adults with Disabilities](https://www.cuesta.edu/academics/continuinged/adultsdisabilities/index.html) program of specialized courses that develop independent living & employment skills of people with intellectual disabilities.
+El programa de Educación Continua (Continuing Education) de [**Cuesta College**](Directory.md#Cuesta-College) tiene un programa de [Adultos con Discapacidades](https://www.cuesta.edu/academics/continuinged/adultsdisabilities/index.html) (Adults with Disabilities) de cursos especializados que desarrollan habilidades de vida independiente y empleo de personas con discapacidades intelectuales.
 
 ### <a id="veterans-education">Para Veteranos Militares de los Estados Unidos</a>
 
 As a U.S. military veteran, you may qualify for [“GI Bill” education benefits](https://www.va.gov/education/about-gi-bill-benefits/) that can help you pay for school and cover expenses while you’re training for a job.
 You can apply for these benefits [online at the Veterans Affairs website](https://www.va.gov/education/how-to-apply/) or by phone at [888-442-4551](tel:+1-888-442-4551). <!-- Source: https://www.va.gov/education/how-to-apply/ -->
 
-If you were not dishonorably discharged and if you have a service-connected disability rating of at least 10% from the Department of Veterans Affairs, you may be eligible for the Veteran Readiness & Employment (VR&E) program. <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
-VR&E can help you with with job training, education, and job seeking skills coaching. <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
-You can apply for this program by submitting a [Form 28-1900](https://www.va.gov/find-forms/about-form-28-1900/). <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
-You can also get help from [**Veterans Services**](Directory.md#Veterans-Services).
+Si no fue dado de baja deshonrosamente y si tiene una calificación de discapacidad relacionada con el servicio de al menos 10% del Departamento de Asuntos de Veteranos (Department of Veterans Affairs), puede ser elegible para el programa Veteran Readiness & Employment (VR&E) (Preparación y Empleo para Veteranos). <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
+VR&E puede ayudarle con capacitación laboral, educación y asesoramiento en habilidades de búsqueda de empleo. <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
+Puede solicitar este programa enviando un [Formulario 28-1900](https://www.va.gov/find-forms/about-form-28-1900/) (Form 28-1900). <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
+También puede obtener ayuda de [**Veterans Services**](Directory.md#Veterans-Services) (Servicios para Veteranos).
 
-People in the U.S. military, U.S. military veterans, and their spouses, adult children, and caregivers can also take free, online training courses in fields like data analytics, cybersecurity, artificial intelligence (AI), cloud computing, and information technology (IT) support through the [IBM SkillsBuild program](https://www.va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/)
+Las personas en el ejército de los Estados Unidos, veteranos militares de los Estados Unidos, y sus cónyuges, hijos adultos y cuidadores también pueden tomar cursos de capacitación en línea gratuitos en campos como analítica de datos, ciberseguridad, inteligencia artificial (IA), computación en la nube y soporte de tecnología de la información (TI) a través del [programa IBM SkillsBuild](https://www.va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/)
 
 -----
 
 ## <a id="phones">Teléfonos y Servicio Telefónico</a>
 
-The [California LifeLine Program](https://www.californialifeline.com/) ([866-272-0357](tel:+1-866-272-0357) or use their [online chat](https://www.californialifeline.com/en/contact)) gives low-income households discounts on home phone or cell phone service.
-In many cases the discounts are enough to make the service free. <!-- SOURCE NEEDED -->
-You apply for this program through a commercial phone service provider that supports the program. <!-- Source: https://www.californialifeline.com/en/faq -->
-Some providers also give you a free phone when you register for California LifeLine through their service, for example [AirTalk Wireless](https://airtalkwireless.com/lifeline-application), [enTouch Wireless](https://entouchwireless.com/states/california-lifeline-free-phone-service/), or [Gen Mobile](https://www.genmobile.com/pages/lifeline-program).
+El [Programa California LifeLine](https://www.californialifeline.com/) ([866-272-0357](tel:+1-866-272-0357) o use su [chat en línea](https://www.californialifeline.com/en/contact)) da a hogares de bajos ingresos descuentos en servicio de teléfono residencial o celular.
+En muchos casos los descuentos son suficientes para hacer el servicio gratuito. <!-- SOURCE NEEDED -->
+Solicita este programa a través de un proveedor de servicio telefónico comercial que apoye el programa. <!-- Source: https://www.californialifeline.com/en/faq -->
+Algunos proveedores también le dan un teléfono gratuito cuando se registra para California LifeLine a través de su servicio, por ejemplo [AirTalk Wireless](https://airtalkwireless.com/lifeline-application), [enTouch Wireless](https://entouchwireless.com/states/california-lifeline-free-phone-service/) o [Gen Mobile](https://www.genmobile.com/pages/lifeline-program).
 
-The [**California Connect**](Directory.md#California-Connect) program can loan you, for free, assistive telecommunications equipment that helps if you have medically-documented functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
-The [Deaf and Disabled Telecommunications Program (DDTP)](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp) can give you specialized telephone equipment, accessories, and services such as amplified phones for the hard-of-hearing, big-button phones for those with low-vision, and cordless phones for people with mobility disabilities. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
-This program is for California residents with medically-certified limitations of hearing, vision, mobility, speech, learning, or memory.
+El programa [**California Connect**](Directory.md#California-Connect) puede prestarle, gratuitamente, equipo de telecomunicaciones de asistencia que ayuda si tiene limitaciones funcionales médicamente documentadas de audición, visión, movilidad, habla y/o interpretación de información. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
+El [Programa de Telecomunicaciones para Sordos y Discapacitados (DDTP)](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp) (Deaf and Disabled Telecommunications Program) puede darle equipo telefónico especializado, accesorios y servicios como teléfonos amplificados para personas con dificultades auditivas, teléfonos de botones grandes para personas con baja visión y teléfonos inalámbricos para personas con discapacidades de movilidad. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
+Este programa es para residentes de California con limitaciones médicamente certificadas de audición, visión, movilidad, habla, aprendizaje o memoria.
 
 -----
 
 ## <a id="internet-and-email">Acceso a Internet / Correo Electrónico / Asistencia con Acceso Digital</a>
 
-> See the [Digital Literacy: How to Use Computers and the Internet](#digital-literacy) section of this guide for classes and tutorials that can help you learn how to use the internet.
+> Vea la sección [Alfabetización Digital: Cómo Usar Computadoras e Internet](#digital-literacy) de esta guía para clases y tutoriales que pueden ayudarle a aprender cómo usar internet.
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site.
-They also have printing services for a small fee. <!-- Source: https://catalog.slolibrary.org/print-from-mobile-device -->
-They may also be able to help you establish an email account. <!-- SOURCE NEEDED -->
-You can also borrow a Wi-Fi hotspot from the library. <!-- Source: https://catalog.slolibrary.org/Record/143205?searchId=16314408&recordIndex=1&page=1&referred=resultIndex -->
+Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) tienen computadoras que puede usar en el sitio.
+También tienen servicios de impresión por una pequeña tarifa. <!-- Source: https://catalog.slolibrary.org/print-from-mobile-device -->
+También pueden ayudarle a establecer una cuenta de correo electrónico. <!-- SOURCE NEEDED -->
+También puede pedir prestado un punto de acceso Wi-Fi de la biblioteca. <!-- Source: https://catalog.slolibrary.org/Record/143205?searchId=16314408&recordIndex=1&page=1&referred=resultIndex -->
 
-The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) has computers you can use for job-search purposes. <!-- SOURCE NEEDED -->
-They can also help you establish a CalJOBS account and submit online job applications. <!-- SOURCE NEEDED -->
+El [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) tiene computadoras que puede usar para propósitos de búsqueda de empleo. <!-- SOURCE NEEDED -->
+También pueden ayudarle a establecer una cuenta de CalJOBS y enviar solicitudes de empleo en línea. <!-- SOURCE NEEDED -->
 
-The County of San Luis Obispo Information Technology Department provides free Wi-Fi access in all San Luis Obispo County government buildings. <!-- Source: https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi -->
+El Departamento de Tecnología de la Información del Condado de San Luis Obispo proporciona acceso Wi-Fi gratuito en todos los edificios del gobierno del Condado de San Luis Obispo. <!-- Source: https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi -->
 
-Both the [**5Cities Homeless Coalition**](Directory.md#5CHC) office and the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offer computer and internet access to their clients. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
+Tanto la oficina de [**5Cities Homeless Coalition**](Directory.md#5CHC) como el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) (Centro de Servicios para Personas sin Hogar 40 Prado) ofrecen acceso a computadoras e internet a sus clientes. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
-[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) has two computers you can use on-site, and they offer free assistance and one-on-one tutoring sessions including specialized Android and iPad/iPhone workshops. <!-- Source: https://www.prcity.com/293/Senior-Services -->
-[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) also has a computer with internet access which is available to the public on a first come, first serve basis. <!-- SOURCE NEEDED -->
+El [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) tiene dos computadoras que puede usar en el sitio, y ofrecen asistencia gratuita y sesiones de tutoría uno a uno incluyendo talleres especializados de Android e iPad/iPhone. <!-- Source: https://www.prcity.com/293/Senior-Services -->
+El [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) también tiene una computadora con acceso a internet que está disponible al público por orden de llegada. <!-- SOURCE NEEDED -->
 
 -----
 
 ## <a id="charging-stations">Estaciones de Carga para Dispositivos</a>
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) office has device charging stations for its clients. <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
+La oficina de [**5Cities Homeless Coalition**](Directory.md#5CHC) tiene estaciones de carga de dispositivos para sus clientes. <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
-[**Shower the People**](Directory.md#Shower-the-People) has a device charging station available at the sites where it operates during operating hours. <!-- Source: personal knowledge -DG -->
+[**Shower the People**](Directory.md#Shower-the-People) tiene una estación de carga de dispositivos disponible en los sitios donde opera durante el horario de operación. <!-- Source: personal knowledge -DG -->
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site with USB charging ports. <!-- SOURCE NEEDED -->
 There are also some electrical outlets you can use to charge devices. <!-- SOURCE NEEDED -->
