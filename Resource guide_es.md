@@ -2208,23 +2208,23 @@ Si es víctima de fraude u otra acción ilegal por parte de un concesionario de 
 
 Si es víctima de fraude u otra acción ilegal relacionada con una cuenta bancaria, tarjeta de crédito, cobrador de deudas, transferencia de dinero, préstamo de día de pago o algo así, puede ser capaz de obtener ayuda de la [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/) (Oficina de Protección Financiera del Consumidor) ([855-411-2372](tel:+1-855-411-2372); TTY: [855-729-2372](tel:+1-855-729-2372)).
 
-The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being mistreated by or improperly evicted from a long term care facility. <!-- Source: https://ombudsmanslo.org/faqs -->
+El [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) (Defensor del Pueblo de Cuidado a Largo Plazo) puede ayudarle a luchar por sus derechos si está siendo maltratado o desalojado incorrectamente de una instalación de cuidado a largo plazo. <!-- Source: https://ombudsmanslo.org/faqs -->
 
-Many service providers are licensed by the State of California (for example, health care providers, accountants, security guards, social workers, etc.).
-If you believe you have been treated unfairly or improperly by a licensed service provider, you can file a complaint with the [California Department of Consumer Affairs](https://www.dca.ca.gov/) ([800-952-5210](tel:+1-800-952-5210)/TTY:[800-735-2929](tel:+1-800-735-2929), [dca@dca.ca.gov](mailto:dca@dca.ca.gov)).
+Muchos proveedores de servicios tienen licencia del Estado de California (por ejemplo, proveedores de atención médica, contadores, guardias de seguridad, trabajadores sociales, etc.).
+Si cree que ha sido tratado injustamente o incorrectamente por un proveedor de servicios con licencia, puede presentar una queja con el [California Department of Consumer Affairs](https://www.dca.ca.gov/) (Departamento de Asuntos del Consumidor de California) ([800-952-5210](tel:+1-800-952-5210)/TTY:[800-735-2929](tel:+1-800-735-2929), [dca@dca.ca.gov](mailto:dca@dca.ca.gov)).
 
 ### <a id="crime-victims">Víctimas de Crímenes y Abusos</a>
 
-Victims of crime have certain legal rights, and they may be asked to participate in crime investigations or to testify in criminal cases.
-The [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) helps crime victims who are navigating this process. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
-It can help you understand your rights, obtain support services, get help with court appearances, apply for restitution, and get notifications about the progress of the criminal case against those who victimized you. <!-- Sources: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/restitution and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/victim-services-information -->
+Las víctimas de crímenes tienen ciertos derechos legales, y pueden ser solicitadas para participar en investigaciones de crímenes o para testificar en casos criminales.
+El [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) (Programa de Asistencia a Víctimas y Testigos) ayuda a víctimas de crímenes que están navegando este proceso. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
+Puede ayudarle a entender sus derechos, obtener servicios de apoyo, obtener ayuda con comparecencias en la corte, solicitar restitución y obtener notificaciones sobre el progreso del caso criminal contra quienes le victimizaron. <!-- Sources: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/restitution and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/victim-services-information -->
 
-If you are the victim of a violent crime, the [California Victim Compensation Board](https://victims.ca.gov/) ([800-777-9229](tel:+1-800-777-9229)) can help you get financial restitution, medical treatment, mental health counseling, and other help. <!-- Source: https://victims.ca.gov/for-victims/frequently-asked-questions/ -->
+Si es víctima de un crimen violento, la [California Victim Compensation Board](https://victims.ca.gov/) (Junta de Compensación para Víctimas de California) ([800-777-9229](tel:+1-800-777-9229)) puede ayudarle a obtener restitución financiera, tratamiento médico, consejería de salud mental y otra ayuda. <!-- Source: https://victims.ca.gov/for-victims/frequently-asked-questions/ -->
 
-If you are the victim of sexual assault or intimate partner violence, [**Lumina Alliance**](Directory.md#Lumina-Alliance) can help you advocate for your rights and can accompany you through the legal process. <!-- Sources: https://luminaalliance.org/advocacy-legal-services and https://luminaalliance.org/accompaniment -->
+Si es víctima de asalto sexual o violencia de pareja íntima, [**Lumina Alliance**](Directory.md#Lumina-Alliance) puede ayudarle a abogar por sus derechos y puede acompañarle a través del proceso legal. <!-- Sources: https://luminaalliance.org/advocacy-legal-services and https://luminaalliance.org/accompaniment -->
 
-[**CASA (Court Appointed Special Advocates)**](Directory.md#CASA) helps to advocate on behalf of abused or neglected children in the court system. <!-- Source: https://slocasa.org/ -->
-CASA advocates are court-appointed; you cannot request their services directly. <!-- SOURCE NEEDED -->
+[**CASA (Court Appointed Special Advocates)**](Directory.md#CASA) (Defensores Especiales Designados por la Corte) ayuda a abogar en nombre de niños abusados o descuidados en el sistema judicial. <!-- Source: https://slocasa.org/ -->
+Los defensores de CASA son designados por la corte; no puede solicitar sus servicios directamente. <!-- SOURCE NEEDED -->
 
 <!-- NOTE: Creative Mediation was apparently a project of Wilshire, which went bankrupt
 ### <a id="mediation">Mediación</a>
@@ -2247,26 +2247,26 @@ A neutral mediator will be assigned to your case to help you resolve it.
 
 <!-- Note: SLO County Small Claims Advisor has been discontinued -->
 
-If you need to research the law, legal precedents, and legal processes, you can visit the [**SLO County Law Library**](Directory.md#SLO-County-Law-Library), a free research library. <!-- Source: https://www.slocll.org/about-us-2/mission/ -->
-The library has thousands of print volumes and also has publicly-accessible computers at which you can access WestLaw, CEB OnLaw, NOLO Guides, Bell’s Compendium, and other electronic legal databases. <!-- Sources: https://www.slocll.org/library-resources/reference-materials/ and https://www.slocll.org/library-resources/amenities/ -->
-It also has tools with which you can create documents that conform to the standards of local courts. <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
+Si necesita investigar la ley, precedentes legales y procesos legales, puede visitar la [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) (Biblioteca de Derecho del Condado de SLO), una biblioteca de investigación gratuita. <!-- Source: https://www.slocll.org/about-us-2/mission/ -->
+La biblioteca tiene miles de volúmenes impresos y también tiene computadoras de acceso público en las que puede acceder a WestLaw, CEB OnLaw, Guías NOLO, Compendio de Bell y otras bases de datos legales electrónicas. <!-- Sources: https://www.slocll.org/library-resources/reference-materials/ and https://www.slocll.org/library-resources/amenities/ -->
+También tiene herramientas con las que puede crear documentos que se ajustan a los estándares de las cortes locales. <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
 
-If you are filing a family law case (for example divorce, child support, child custody), a request for a restraining order, or certain other matters you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
+Si está presentando un caso de derecho familiar (por ejemplo divorcio, manutención infantil, custodia infantil), una solicitud de orden de restricción, u otros asuntos puede obtener ayuda gratuita de [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) (Servicios de Autoayuda de la Corte de SLO). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 
-[**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some guides on:
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) (Corte Superior de SLO) también tiene algunas guías sobre:
 
-- [immigration resources](https://selfhelp.courts.ca.gov/immigration)
-- how to obtain [gun violence](https://www.slo.courts.ca.gov/self-help/gun-violence-restraining-orders), [civil harassment](https://www.slo.courts.ca.gov/self-help/civil-harassment-restraining-order), and [domestic violence](https://www.slo.courts.ca.gov/self-help/family-law/domestic-violence) restraining orders
-- the process of going to court for child custody and support, [divorce, legal separation, and annulment](https://www.slo.courts.ca.gov/self-help/family-law/divorce), and other [family law](https://www.slo.courts.ca.gov/self-help/family-law) matters
-- the processes of [legal name changes](https://www.slo.courts.ca.gov/self-help/name-change) and [gender changes](https://www.slo.courts.ca.gov/self-help/gender-change)
-- the [small claims](https://www.slo.courts.ca.gov/self-help/small-claims) process
+- [recursos de inmigración](https://selfhelp.courts.ca.gov/immigration)
+- cómo obtener órdenes de restricción por [violencia con armas](https://www.slo.courts.ca.gov/self-help/gun-violence-restraining-orders), [acoso civil](https://www.slo.courts.ca.gov/self-help/civil-harassment-restraining-order), y [violencia doméstica](https://www.slo.courts.ca.gov/self-help/family-law/domestic-violence)
+- el proceso de ir a la corte por custodia y manutención infantil, [divorcio, separación legal y anulación](https://www.slo.courts.ca.gov/self-help/family-law/divorce), y otros asuntos de [derecho familiar](https://www.slo.courts.ca.gov/self-help/family-law)
+- los procesos de [cambios legales de nombre](https://www.slo.courts.ca.gov/self-help/name-change) y [cambios de género](https://www.slo.courts.ca.gov/self-help/gender-change)
+- el proceso de [reclamos menores](https://www.slo.courts.ca.gov/self-help/small-claims)
 
-The state of California’s [Small claims in California](https://selfhelp.courts.ca.gov/small-claims-california) web page is also a good introduction to the small claims process.
+La página web [Small claims in California](https://selfhelp.courts.ca.gov/small-claims-california) (Reclamos menores en California) del estado de California también es una buena introducción al proceso de reclamos menores.
 
-The SLO Law Line ([805-548-8884](tel:+1-805-548-8884)) gives free basic legal advice to people who cannot afford an attorney, and can help you find additional legal assistance. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
-Call to make an appointment for a telephone consultation. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
+La Línea de Derecho de SLO ([805-548-8884](tel:+1-805-548-8884)) da consejos legales básicos gratuitos a personas que no pueden pagar un abogado, y puede ayudarle a encontrar asistencia legal adicional. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
+Llame para hacer una cita para una consulta telefónica. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
 
-U.S. military veterans can get help from the [StateSideLegal](https://www.statesidelegal.org/) website, which has information about how to file benefits claims and denial appeals, how to defend civil rights claims, and other legal matters. <!-- Source: https://www.statesidelegal.org/ -->
+Los veteranos militares estadounidenses pueden obtener ayuda del sitio web [StateSideLegal](https://www.statesidelegal.org/), que tiene información sobre cómo presentar reclamos de beneficios y apelaciones de denegación, cómo defender reclamos de derechos civiles y otros asuntos legales. <!-- Source: https://www.statesidelegal.org/ -->
 
 ### <a id="legal-consultation">Consulta Legal en General</a>
 
