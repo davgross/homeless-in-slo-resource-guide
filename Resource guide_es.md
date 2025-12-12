@@ -2010,14 +2010,14 @@ Puede aprender más sobre el formulario y revisar uno en línea, en varios idiom
 
 ## <a id="personal-safety">Seguridad Personal, Desescalada y Defensa Personal</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Self-Defense Classes and Martial Arts](#self-defense-classes)
-- [Personal Safety Tips](#personal-safety-tips)
+- [Clases de Defensa Personal y Artes Marciales](#self-defense-classes)
+- [Consejos de Seguridad Personal](#personal-safety-tips)
 
 ### <a id="self-defense-classes">Clases de Defensa Personal y Artes Marciales</a>
 
-Sometimes relatively inexpensive self-defense or martial arts classes are offered through the “Community Programs” at [**Cuesta College**](Directory.md#Cuesta-College) (see the [“Martial Arts”](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) section of their website) or [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (see the [“Community Programs”](https://ae.slcusd.org/community-programs) section of their website).
+A veces se ofrecen clases de defensa personal o artes marciales relativamente económicas a través de los "Programas Comunitarios" en [**Cuesta College**](Directory.md#Cuesta-College) (vea la sección ["Artes Marciales"](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) de su sitio web) o [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (Escuela para Adultos Costera de San Luis) (vea la sección ["Programas Comunitarios"](https://ae.slcusd.org/community-programs) de su sitio web).
 
 <!-- All seem to be defunct at the moment
 ### <a id="womens-self-defense">Programas de Defensa Personal para Mujeres</a>
@@ -2074,35 +2074,35 @@ Sometimes relatively inexpensive self-defense or martial arts classes are offere
 
 ### <a id="personal-safety-tips">Consejos de Seguridad Personal</a>
 
-To stay safe on the streets, stay aware of your surroundings.
-Be alert when you walk alone, and avoid distractions like phones or headphones.
-Trust your instincts—if a situation feels unsafe, go somewhere safer.
-Walk with confidence: keep your eyes forward, and maintain a steady pace.
-These simple behaviors can make you less vulnerable to potential threats.
+Para mantenerse seguro en las calles, manténgase consciente de su entorno.
+Esté alerta cuando camine solo, y evite distracciones como teléfonos o audífonos.
+Confíe en sus instintos—si una situación se siente insegura, vaya a un lugar más seguro.
+Camine con confianza: mantenga sus ojos hacia adelante y mantenga un paso constante.
+Estos comportamientos simples pueden hacerle menos vulnerable a amenazas potenciales.
 
-Learning to identify trustworthy people is one of the most important street skills you can develop, though it takes time and experience.
-Be cautious when forming new relationships—sometimes people experiencing homelessness are victimized by people who say they want to help.
-Watch for “red flags” like people who try to exploit your vulnerabilities, who offer deals that seem too good to be true, or who pressure you into uncomfortable or vulnerable situations.
-Connect with peers who understand your situation, as these relationships often provide both safety and emotional support.
-Remember that developing good judgment about people is a gradual process, not something you can master immediately.
+Aprender a identificar personas confiables es una de las habilidades callejeras más importantes que puede desarrollar, aunque toma tiempo y experiencia.
+Sea cauteloso al formar nuevas relaciones—a veces las personas que experimentan falta de hogar son victimizadas por personas que dicen que quieren ayudar.
+Esté atento a "señales de alerta" como personas que intentan explotar sus vulnerabilidades, que ofrecen tratos que parecen demasiado buenos para ser verdad, o que le presionan a situaciones incómodas o vulnerables.
+Conéctese con compañeros que entienden su situación, ya que estas relaciones a menudo proporcionan tanto seguridad como apoyo emocional.
+Recuerde que desarrollar buen juicio sobre las personas es un proceso gradual, no algo que pueda dominar inmediatamente.
 
-Whenever possible, travel with trusted companions rather than going places alone.
-Having someone you trust with you provides both practical safety and moral support.
-Build a network of friends who protect each other.
-Such connections improve your physical safety and also your overall well-being and security.
+Siempre que sea posible, viaje con compañeros de confianza en lugar de ir a lugares solo.
+Tener a alguien en quien confía con usted proporciona tanto seguridad práctica como apoyo moral.
+Construya una red de amigos que se protejan entre sí.
+Tales conexiones mejoran su seguridad física y también su bienestar y seguridad general.
 
-If you use emergency shelters, address your security concerns with the staff before you settle in.
-(For example, if you see someone at the shelter who has been threatening to you in the past, or if you are not sure your possessions will be secure where you have been told to leave them.)
-Some people choose to sleep on the streets rather than in shelters because of safety concerns.
-If you do stay outside, you need to balance the risks of harassment in public places against the risk of assault in more secluded areas.
-Stay vigilant even in places that are supposed to be safe.
+Si usa refugios de emergencia, aborde sus preocupaciones de seguridad con el personal antes de instalarse.
+(Por ejemplo, si ve a alguien en el refugio que ha sido amenazante para usted en el pasado, o si no está seguro de que sus posesiones estarán seguras donde le han dicho que las deje.)
+Algunas personas eligen dormir en las calles en lugar de en refugios debido a preocupaciones de seguridad.
+Si se queda afuera, necesita equilibrar los riesgos de acoso en lugares públicos contra el riesgo de asalto en áreas más apartadas.
+Manténgase vigilante incluso en lugares que se supone que son seguros.
 
-If you find yourself in a dangerous situation, your primary goal should be to escape and get help rather than to fight.
-The best approach to self-defense is to avoid physical violence through awareness and de-escalation.
-If you do need to defend yourself, learn a few simple techniques that can make an attacker reconsider and give you time to get away.
-When possible, take formal self-defense classes to learn proper techniques from trained instructors.
+Si se encuentra en una situación peligrosa, su objetivo principal debe ser escapar y obtener ayuda en lugar de pelear.
+El mejor enfoque para la defensa personal es evitar la violencia física a través de la conciencia y la desescalada.
+Si necesita defenderse, aprenda algunas técnicas simples que pueden hacer que un atacante reconsidere y le den tiempo para escapar.
+Cuando sea posible, tome clases formales de defensa personal para aprender técnicas apropiadas de instructores capacitados.
 
-**Sources:**
+**Fuentes:**
 
 - [“Basic Street Safety for Women”](https://www.instructables.com/Basic-Street-Safety-for-Women/)
 - [“Capacity for Survival: Exploring Strengths of Homeless Street Youth”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776751/)
