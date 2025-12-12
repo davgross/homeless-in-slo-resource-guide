@@ -2891,54 +2891,54 @@ Para solicitar, complete el formulario de solicitud del [Dollar Energy Fund](htt
 Este programa ayuda a hogares de bajos ingresos en el Condado de SLO con asistencia una vez al año para pagar su factura de gas, propano o electricidad. <!-- Source: https://capslo.org/utility-assistance/ -->
 Tiene financiación limitada, por lo que solo puede ofrecer ayuda mientras la financiación esté disponible. <!-- Source: https://capslo.org/utility-assistance/ -->
 
-The City of SLO has [Customer Assistance Programs](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs) that can reduce your water, sewer, trash, and recycling bills.
-For details on how to apply, contact the Utility Billing department at [805-781-7133](tel:+1-805-781-7133) or [ub@slocity.org](mailto:ub@slocity.org). <!-- Source: https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs -->
+La Ciudad de SLO tiene [Programas de Asistencia al Cliente](https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs) que pueden reducir sus facturas de agua, alcantarillado, basura y reciclaje.
+Para detalles sobre cómo solicitar, contacte al departamento de Facturación de Servicios Públicos al [805-781-7133](tel:+1-805-781-7133) o [ub@slocity.org](mailto:ub@slocity.org). <!-- Source: https://www.slocity.org/government/department-directory/utilities-department/utility-billing/customer-assistance-programs -->
 
-Low-income households in Los Osos who qualify for in PG&E’s CARE program (see above) can also get up to 50% off of their sewer bill by applying for [Los Osos Low Income Financial Assistance Program](https://www.slocounty.ca.gov/departments/public-works/services/programs-outreach/los-osos-low-income-financial-assistance-program).
-Contact the County Department of Public Works at [PublicWorks@co.slo.ca.us](mailto:PublicWorks@co.slo.ca.us) or [805-781-5252](tel:+1-805-781-5252) for details. <!-- Source: https://www.slocounty.ca.gov/departments/public-works/services/programs-outreach/los-osos-low-income-financial-assistance-program -->
+Los hogares de bajos ingresos en Los Osos que califican para el programa CARE de PG&E (vea arriba) también pueden obtener hasta 50% de descuento en su factura de alcantarillado solicitando el [Programa de Asistencia Financiera para Bajos Ingresos de Los Osos](https://www.slocounty.ca.gov/departments/public-works/services/programs-outreach/los-osos-low-income-financial-assistance-program).
+Contacte al Departamento de Obras Públicas del Condado en [PublicWorks@co.slo.ca.us](mailto:PublicWorks@co.slo.ca.us) o [805-781-5252](tel:+1-805-781-5252) para detalles. <!-- Source: https://www.slocounty.ca.gov/departments/public-works/services/programs-outreach/los-osos-low-income-financial-assistance-program -->
 
 -----
 
 ## <a id="navigating-social-security">Cómo Navegar el Seguro Social / SSDI / SSI / Beneficios para Sobrevivientes / CAPI</a>
 
-> See the [Social Security Numbers or Cards](#social-security-numbers-or-cards) section of this guide to learn how to get a Social Security number or to get or replace a Social Security card.
+> Vea la sección [Números o Tarjetas del Seguro Social](#social-security-numbers-or-cards) de esta guía para aprender cómo obtener un número de Seguro Social o cómo obtener o reemplazar una tarjeta del Seguro Social.
 
-Note: in 2025, Social Security stopped issuing paper checks. <!-- Source: https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/ -->
-Now they use direct deposit to bank accounts or issue a “Direct Express” prepaid debit card. <!-- Source: https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/ -->
+Nota: en 2025, el Seguro Social dejó de emitir cheques en papel. <!-- Source: https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/ -->
+Ahora usan depósito directo a cuentas bancarias o emiten una tarjeta de débito prepagada "Direct Express". <!-- Source: https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/ -->
 
-> See the [Banks and Credit Unions](#banks-and-credit-unions) section of this guide for information on how to establish a bank account.
+> Vea la sección [Bancos y Cooperativas de Crédito](#banks-and-credit-unions) de esta guía para información sobre cómo establecer una cuenta bancaria.
 
-There are a number of programs operated by the Social Security Administration, including:
+Hay varios programas operados por la Administración del Seguro Social (Social Security Administration), incluyendo:
 
-- **Social Security** — monthly payments from the government to people who reach retirement age, and who paid into the social security system while they were working
-- **Social Security Disability Insurance** (SSDI) — monthly payments from the government to people who cannot work because they are disabled, and who paid into the social security system while they were working
-- **Supplemental Security Income** (SSI) — monthly payments from the government to disabled people and to seniors with limited means
+- **Seguro Social** (Social Security) — pagos mensuales del gobierno a personas que alcanzan la edad de jubilación, y que pagaron al sistema del seguro social mientras trabajaban
+- **Seguro de Incapacidad del Seguro Social** (Social Security Disability Insurance - SSDI) — pagos mensuales del gobierno a personas que no pueden trabajar porque están discapacitadas, y que pagaron al sistema del seguro social mientras trabajaban
+- **Ingreso de Seguridad Suplementario** (Supplemental Security Income - SSI) — pagos mensuales del gobierno a personas discapacitadas y a personas mayores con recursos limitados
 
-Homeless people have the same rights as anyone else to apply for these payments. <!-- SOURCE NEEDED -->
-You do not have to have a permanent address to receive benefits. <!-- SOURCE NEEDED -->
+Las personas sin hogar tienen los mismos derechos que cualquier otra persona para solicitar estos pagos. <!-- SOURCE NEEDED -->
+No es necesario tener una dirección permanente para recibir beneficios. <!-- SOURCE NEEDED -->
 
-You may be entitled to certain benefits even if you did not pay into the social security system, if your spouse or ex-spouse did.
-You may need to appear at the Social Security Administration office in person to apply for such spousal or survivors benefits. <!-- SOURCE NEEDED -->
+Usted puede tener derecho a ciertos beneficios incluso si no pagó al sistema del seguro social, si su cónyuge o ex-cónyuge lo hizo.
+Es posible que necesite presentarse en persona en la oficina de la Administración del Seguro Social para solicitar tales beneficios conyugales o de sobreviviente. <!-- SOURCE NEEDED -->
 
-> See the [Mail drops](#mail-drops-post-office-boxes) section of this guide for information on establishing a mailing address.
+> Vea la sección [Buzones de correo](#mail-drops-post-office-boxes) de esta guía para información sobre cómo establecer una dirección postal.
 
-You can apply for these benefits through the local [**Social Security Administration**](Directory.md#Social-Security-Administration) office either in person or by phone.
-You can also [apply online](https://www.ssa.gov/apply) at the Social Security Administration’s website.
-If you have a case worker, ask them if they can help you through the process or refer you to someone who can.
+Puede solicitar estos beneficios a través de la oficina local de [**Social Security Administration**](Directory.md#Social-Security-Administration) (Administración del Seguro Social) en persona o por teléfono.
+También puede [solicitar en línea](https://www.ssa.gov/apply) en el sitio web de la Administración del Seguro Social.
+Si tiene un trabajador social de caso, pregúntele si puede ayudarle con el proceso o referirle a alguien que pueda hacerlo.
 
-To make the application process go smoothly, learn what documentation you need and have that documentation with you when you apply.
-If you do not have a stable mailing address, establish one ahead of time.
-If you are applying for disability, bring your relevant medical records, treatment history, and medical provider contact information.
-Pay stubs and tax records can help to establish your work history, especially if you were paid under-the-table or as a contractor rather than an employee.
+Para que el proceso de solicitud sea más fluido, aprenda qué documentación necesita y tenga esa documentación con usted cuando solicite.
+Si no tiene una dirección postal estable, establezca una con anticipación.
+Si está solicitando por discapacidad, traiga sus registros médicos relevantes, historial de tratamiento e información de contacto de sus proveedores médicos.
+Los talones de pago y registros de impuestos pueden ayudar a establecer su historial laboral, especialmente si le pagaron bajo la mesa o como contratista en lugar de como empleado.
 
-Be patient, as the process of applying for benefits can be time-consuming and the bureaucracy can move slowly.
-If you are denied benefits, learn about the appeals process and consider appealing the decision.
+Sea paciente, ya que el proceso de solicitar beneficios puede tomar mucho tiempo y la burocracia puede moverse lentamente.
+Si le niegan los beneficios, infórmese sobre el proceso de apelación y considere apelar la decisión.
 
-If you are denied SSI benefits solely because of your immigration status, you may be able to get benefits instead from the [California Assistance Program for Immigrants (CAPI)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi).
-Apply to the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) by phone, in person, by mail, or by email. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi -->
+Si le niegan beneficios de SSI únicamente debido a su estatus migratorio, es posible que pueda obtener beneficios en su lugar del [Programa de Asistencia de California para Inmigrantes (CAPI)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi).
+Solicite al [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) (Departamento de Servicios Sociales del Condado de SLO) por teléfono, en persona, por correo o por correo electrónico. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi -->
 
-If you have a disability and are applying for Social Security Disability Insurance, you may be able to get some immediate financial help from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services)’ “General Assistance Disabled Program” while you wait for your application to be processed. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
-They may also be able to assign you a “Benefits Arch Advocate” who can help you apply for SSI and SSDI. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
+Si tiene una discapacidad y está solicitando el Seguro de Incapacidad del Seguro Social, es posible que pueda obtener ayuda financiera inmediata del "Programa de Asistencia General para Discapacitados" (General Assistance Disabled Program) del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) mientras espera que se procese su solicitud. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
+También pueden asignarle un "Defensor de Beneficios" (Benefits Arch Advocate) que puede ayudarle a solicitar SSI y SSDI. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
 
 <!-- SOAR was apparently a victim of the Trump administration
 1. [SOAR Program—Specialized Support for Homeless Individuals](https://www.samhsa.gov/communities/homelessness-programs-resources/grants/soar)
@@ -2952,13 +2952,13 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
       - **211** can also provide referrals to local SOAR-trained providers
 -->
 
-The government encourages you to seek work and to return to work without losing disability benefits.
-The [Ticket to Work Program](https://choosework.ssa.gov/) is a free, voluntary program for people aged 18–64 who are receiving SSDI or SSI benefits. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
-It can give you free career counseling, vocational rehabilitation, and job placement and training. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
-Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+El gobierno le anima a buscar trabajo y a regresar al trabajo sin perder los beneficios por discapacidad.
+El [Programa Ticket to Work](https://choosework.ssa.gov/) es un programa gratuito y voluntario para personas de 18–64 años que están recibiendo beneficios de SSDI o SSI. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+Puede darle asesoramiento profesional gratuito, rehabilitación vocacional, y colocación y capacitación laboral. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+Llame al [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) para aprender cómo solicitar. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 
-If you are a U.S. military veteran, you may also qualify for a variety of other benefits.
-You can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
+Si es veterano militar de los Estados Unidos, también puede calificar para una variedad de otros beneficios.
+Puede obtener ayuda para informarse sobre, solicitar y recibir beneficios del gobierno a los que tiene derecho en las [**Oficinas de Servicios para Veteranos del Condado**](Directory.md#Veterans-Services) (County Veterans Services Offices).
 
 -----
 
