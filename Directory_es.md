@@ -86,7 +86,7 @@
 
 - **Sitio web:** [accesscentralcoast.org](https://accesscentralcoast.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.2508747" data-lon="-120.6726201" data-zoom="17" data-label="Access Central Coast">51 Zaca Ln. #140, SLO</a> <!-- Source: https://accesscentralcoast.org/about-us/contact-information.php -->
-- **Teléfono:** [805-462-1162](tel:+1-805-462-1162) (videophone: [805-464-3203](tel:+1-805-464-3203)) <!-- Source: https://accesscentralcoast.org/about-us/contact-information.php -->
+- **Teléfono:** [805-462-1162](tel:+1-805-462-1162) (videoteléfono: [805-464-3203](tel:+1-805-464-3203)) <!-- Source: https://accesscentralcoast.org/about-us/contact-information.php -->
 - **Correo electrónico:** [info@accesscentralcoast.org](mailto:info@accesscentralcoast.org) <!-- Source: https://accesscentralcoast.org/ -->
 - **Horario:** L–V: 9am–noon & 1–5pm (pero cerrado cada viernes alternativo)
 - Nota: Anteriormente conocido como el "Independent Living Resource Center”
@@ -95,12 +95,12 @@
 
 - **Sitio web:** [accesssupportnetwork.org/san-luis-obispo](https://accesssupportnetwork.org/san-luis-obispo/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.2764744" data-lon="-120.6639145" data-zoom="17" data-label="Access Support Network">1320 Nipomo St., SLO</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-   - También tiene unmobile outreach van:
-      - Cada lunes alternativo,1:30–4pm at [**40 Prado**](#40-Prado) in SLO <a href="#" class="map-link" data-lat="35.256495" data-lon="-120.672000" data-zoom="17" data-label="Access Support Network">Map</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - Martes9:30–11:30am at <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">1320 Nipomo St. in SLO</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - los miércoles 11:30am–1:30pm at Paso Robles [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr.</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - los miércoles 3–6pm at Atascadero [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave.</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - Second Sunday of the Month at the <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library on Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
+   - También tiene una furgoneta móvil de divulgación:
+      - Cada lunes alternativo, 1:30–4pm en [**40 Prado**](#40-Prado) en SLO<a href="#" class="map-link" data-lat="35.256495" data-lon="-120.672000" data-zoom="17" data-label="Access Support Network">Map</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - Martes 9:30–11:30am en <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">1320 Nipomo St. in SLO</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - los miércoles 11:30am–1:30pm en Paso Robles [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr.</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - los miércoles 3–6pm en Atascadero [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave.</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - segundo domingo del mes at the <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library on Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
 - **Teléfono:** [805-781-3660](tel:+1-805-781-3660) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Correo electrónico:** [theasnsupp@gmail.com](mailto:theasnsupp@gmail.com) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Horario:** L–V 9am–5pm <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
@@ -695,7 +695,7 @@
 
 - **Sitio web:** [post66slo.org/serving-veterans](https://post66slo.org/serving-veterans/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.284710" data-lon="-120.660546" data-zoom="17" data-label="Boyd Bristol Medical Equipment Program">1161 Mill St., SLO</a>
-   - Nota: delivery can also be arranged <!-- Source: https://post66slo.org/serving-veterans/ -->
+   - Nota: también se puede organizar la entrega <!-- Source: https://post66slo.org/serving-veterans/ -->
 - **Teléfono:** [805-543-6445](tel:+1-805-543-6445) <!-- Source: https://post66slo.org/serving-veterans/ -->
 - **Cómo obtener el servicio:** Only for veterans and veterans’ dependents. By appointment only; call to make an appointment.
 
@@ -912,7 +912,7 @@
    - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Nota: Tattoo removal office is in Santa Cruz, not SLO) <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 - **Horario:**
    - SLO offices: M–F 8am–5pm (call to confirm hours for specific location)
-   - Paso Robles: Second Wednesday of every month, 1–5pm
+   - Paso Robles: segundo miércoles de cada mes, 1–5pm
 <!-- Nota: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) (see e.g. https://www.slocounty.ca.gov/departments/social-services/forms-documents/department-wide-forms/informational-documents/slo-county-resources-and-information-(5-1-2024) and https://www.tri-counties.org/wp-content/uploads/2017/11/slo-county-social-svs-resource-sheet.pdf)-->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
@@ -923,8 +923,8 @@
 - **Correo electrónico:** [info@cayucoschurch.com](mailto:info@cayucoschurch.com) <!-- Source: https://cayucoschurch.com/ministries/ -->
 - **Horario:**
    - Office: Tu–Th 10am–2pm (cerrado los viernes y días festivos)
-   - Food pantry (“Harvest Bag”): First, third, fourth, & fifth los miércoles at 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
-   - USDA food distribution: Second Wednesday at 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
+   - Food pantry (“Harvest Bag”): Primer, tercer, cuarto, y quinto miércoles at 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
+   - USDA food distribution: segundo miércoles a las 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
 
 ## <a id="CenCal">CenCal Health</a>
 
@@ -1171,7 +1171,7 @@
 - **Dirección postal:** P.O. Box 15759, SLO, CA 93406 <!-- Source: https://www.ccc-uss.org/ -->
 - **Correo electrónico:**
    - [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com) <!-- Source: https://www.ccc-uss.org/ -->
-<!-- Nota: Organization uses P.O. Box; no physical office address or phone number found (as of October 2025). Fiscally sponsored by Ecologistics, a 501(c)(3) in SLO -->
+<!-- Nota: Organization uses P.O. Box; no physical office address or phone number found (as of October 2025). Fiscally sponsored by Ecologistics, a 501(c)(3) en SLO-->
 - Notas:
    - Cal Poly DREAM Center contact: Vania Agama Ramirez
    - Cuesta Monarch DREAM Center: [805-546-3109](tel:+1-805-546-3109)
@@ -1282,7 +1282,7 @@
 - **Cómo obtener el servicio:** “Immediate care” or “urgent care” centers accept walk-ins. Otherwise, make an appointment.
    - Accepts private pay, full- and partially-insured, Medi-Cal, and Medicare. Also offers a sliding fee scale based on income and family size to people without any health insurance. <!-- Source: https://www.communityhealthcenters.org/patient-resources/payment-options-test/ -->
 - Notas:
-   - Also operates [**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
+   - También opera[**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
    - “CHC Transportation Services” is a door-to-door ride service to appointments ([877-743-3242](tel:+1-877-743-3242))
 <!-- Nota: Hours listed for urgent care location; other locations’ hours may vary - call individual locations for specific hours -->
 
@@ -1632,7 +1632,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.297443" data-lon="-120.660964" data-zoom="17" data-label="Front Porch">1468 E. Foothill, SLO</a> <!-- Source: https://www.frontporchslo.org/ -->
 - **Teléfono:** [818-731-4984](tel:+1-818-731-4984)
 - **Correo electrónico:** [hello@frontporchslo.org](mailto:hello@frontporchslo.org) <!-- Source: https://www.frontporchslo.org/ -->
-- **Horario:** M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks) <!-- Source: visited in person and saw those hours taped to the door -->
+- **Horario:** M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (dependiendo de la disponibilidad de voluntarios, likely closed during Cal Poly breaks) <!-- Source: visited in person and saw those hours taped to the door -->
 - **Cómo obtener el servicio:** oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here” and “No matter what, you’re welcome here.” <!-- Source: https://www.frontporchslo.org/what-we-do and https://www.frontporchslo.org/ -->
 
 ## <a id="SLO-Noor-Foundation">La Fundación SLO Noor</a>
@@ -1732,7 +1732,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.279915" data-lon="-120.660514" data-zoom="17" data-label="Green Pastures">981 Marsh St., SLO</a> <!-- Source: https://fpcslo.org/ --> (First Presbyterian Church)
 - **Teléfono:** [805-543-5451](tel:+1-805-543-5451) <!-- Source: https://fpcslo.org/ -->
 - **Correo electrónico:** [churchoffice@fpcslo.org](mailto:churchoffice@fpcslo.org) <!-- Source: https://fpcslo.org/ -->
-- **Horario:** First and third los miércoles at 1pm <!-- Source: https://fpcslo.org/greenpastures -->
+- **Horario:** Primer y tercer miércoles at 1pm <!-- Source: https://fpcslo.org/greenpastures -->
 - **Cómo obtener el servicio:** Lottery system—first 8 names drawn receive assistance; must be present to enter <!-- Source: https://fpcslo.org/greenpastures -->
 
 ## <a id="Grover-Beach-Community-Services">Grover Beach Community Services</a>
@@ -2208,7 +2208,7 @@
 - **Sitio web:** [mealsthatconnect.org](https://mealsthatconnect.org/en/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Meals that Connect">265 South St. #B, SLO</a> (office) <!-- Source: https://mealsthatconnect.org/en/ -->
    - Serves meals in Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
-   - Also does some home delivery <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
+   - También hace entregas a domicilio <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 - **Teléfono:** [805-541-3312](tel:+1-805-541-3312) <!-- Source: https://mealsthatconnect.org/en/ -->
 - **Correo electrónico:** [officeadmin@mealsthatconnect.org](mailto:officeadmin@mealsthatconnect.org) <!-- Source: https://mealsthatconnect.org/en/ -->
 - **Horario:** (varía según el sitio)
@@ -2342,7 +2342,7 @@
 
 - **Sitio web:** [centralcoastna.org](https://centralcoastna.org/)
 - **Ubicaciónes:** [various locations](https://www.centralcoastna.org/directory/) in Arroyo Grande, Atascadero, Cambria, Guadalupe, Lompoc, Orcutt, Paso Robles, San Luis Obispo, and Santa Maria <!-- https://www.centralcoastna.org/directory/ -->
-   - Also has some virtual (Zoom) meetings
+   - También tiene algunas reuniones virtuales (Zoom)
 - **Teléfono:** [805-549-7730](tel:+1-805-549-7730) <!-- Source: https://www.centralcoastna.org/ -->
 
 ## <a id="NCI-Affiliates-Thrift">NCI Affiliates Thrift</a>
@@ -2677,7 +2677,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Teléfono:** [775-841-7463](tel:+1-775-841-7463) <!-- Source: https://petsofthehomeless.org/ -->
    - Emergency Veterinary Care Program: case managers available M–F 9am–3pm for new cases <!-- Source: https://petsofthehomeless.org/get-help/how-we-help/ -->
 - **Correo electrónico:** [info@petsofthehomeless.org](mailto:info@petsofthehomeless.org) <!-- Source: https://petsofthehomeless.org/ -->
-- Notas: Has partner locations in SLO including Animal Care Clinic, Mission Animal Hospital, and Woods Humane Society <!-- Source: https://petsofthehomeless.org/get-help/find-locations -->
+- Notas: Has partner locations en SLOincluding Animal Care Clinic, Mission Animal Hospital, and Woods Humane Society <!-- Source: https://petsofthehomeless.org/get-help/find-locations -->
 
 ## <a id="Pismo-Beach-Athletic-Club">Pismo Beach Athletic Club</a>
 
@@ -3083,7 +3083,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Ubicaciónes:**
    - <a href="#" class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">3232 S. Higuera St. #101D, SLO</a> <!-- Source: https://www.slolaf.org/programs -->
    - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://www.slolaf.org/programs -->
-   - Also operates clinics at various Senior Centers and similar sites
+   - También operaclinics at various Senior Centers and similar sites
 - **Teléfono:** [805-543-5140](tel:+1-805-543-5140) <!-- Source: https://www.slolaf.org/seniorlaw -->
 - **Correo electrónico:** [intake@slolaf.org](mailto:intake@slolaf.org) <!-- Source: https://www.slolaf.org/seniorlaw -->
 - **Horario:** L–V 8:30am–5pm
@@ -3672,7 +3672,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Correo electrónico:** [teenwellness@capslo.org](mailto:teenwellness@capslo.org) <!-- Source: https://capslo.org/teen-health-education/ -->
 - Notas:
    - A program of [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
-   - Focus on enhancing youth mental health in SLO and Northern Santa Barbara Counties
+   - Focus on enhancing youth mental health en SLOand Northern Santa Barbara Counties
 
 ## <a id="Templeton-Adult-School">Templeton Adult School</a>
 
