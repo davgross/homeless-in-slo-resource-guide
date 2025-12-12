@@ -125,128 +125,128 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
 
 ## <a id="self-advocacy">Cómo Defender Sus Derechos y Comunicarse con Proveedores de Servicios</a>
 
-When you meet with case managers and service providers, you can make it more likely that they can help you.
-This section of the guide gives some tips about how to do this.
+Cuando se reúne con administradores de casos y proveedores de servicios, puede aumentar la probabilidad de que puedan ayudarlo.
+Esta sección de la guía ofrece algunos consejos sobre cómo hacer esto.
 
 ### <a id="build-good-relationships">Construya Buenas Relaciones con los Administradores de Casos y Proveedores de Servicios</a>
 
-You can get better results by being prepared.
-Bring your ID, any paperwork about your situation, and a list of questions or needs.
+Puede obtener mejores resultados si está preparado.
+Traiga su identificación, cualquier documento sobre su situación y una lista de preguntas o necesidades.
 
-Be honest and direct when you explain your situation, your needs, and any problems you face.
-Ask questions if you need help understanding programs, requirements, or next steps.
-When providers help you, tell them you appreciate it.
-Good relationships help everyone.
+Sea honesto y directo cuando explique su situación, sus necesidades y cualquier problema que enfrente.
+Haga preguntas si necesita ayuda para entender los programas, los requisitos o los próximos pasos.
+Cuando los proveedores lo ayuden, dígales que lo agradece.
+Las buenas relaciones ayudan a todos.
 
-Stay in touch with providers who are especially helpful, even when you’re not actively using their services.
+Manténgase en contacto con los proveedores que son especialmente útiles, incluso cuando no esté usando sus servicios activamente.
 
 ### <a id="manage-appointments">Maneje Sus Citas y Compromisos</a>
 
-Set phone alarms or ask for reminder calls when they are available so you do not miss appointments.
-Make sure you have a way to travel to appointments (see the [Transportation](#transportation) section).
-Bring something to do in case there is a wait, and expect some delays in busy service settings.
-If you need to change an appointment, call ahead rather than just not attending.
+Configure alarmas en su teléfono o pida llamadas de recordatorio cuando estén disponibles para no perder sus citas.
+Asegúrese de tener una forma de viajar a las citas (vea la sección [Transporte](#transportation)).
+Traiga algo que hacer en caso de que haya espera, y espere algunas demoras en entornos de servicios ocupados.
+Si necesita cambiar una cita, llame con anticipación en lugar de simplemente no asistir.
 
-Arrive early to appointments if you can.
-If you will be late, call ahead.
-Keep a notebook or use your phone to note appointments, contacts, and any promises people make to you.
-If someone promises to do something for you but you don’t hear back in a reasonable time, check back with them.
+Llegue temprano a las citas si puede.
+Si va a llegar tarde, llame con anticipación.
+Mantenga un cuaderno o use su teléfono para anotar citas, contactos y cualquier promesa que le hagan.
+Si alguien promete hacer algo por usted pero no recibe respuesta en un tiempo razonable, comuníquese con ellos nuevamente.
 
 ### <a id="know-your-rights">Conozca Sus Derechos</a>
 
-Many service providers have non-discrimination policies and try to treat people with respect, though policies vary between agencies.
-Some services have specific rules about who can use them (like veterans-only programs, or programs with income limits).
-Privacy policies vary by agency.
+Muchos proveedores de servicios tienen políticas de no discriminación e intentan tratar a las personas con respeto, aunque las políticas varían entre agencias.
+Algunos servicios tienen reglas específicas sobre quién puede usarlos (como programas solo para veteranos, o programas con límites de ingresos).
+Las políticas de privacidad varían según la agencia.
 
-Government homeless service providers (and service providers that get government grants and contracts) often share information about their clients through the HMIS (Homeless Management Information System).
-Before such a service provider enters information about you into the HMIS, you will receive [a privacy notice](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final) ([español](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-coc-hmis-consent-for-release-of-information-2024-final-%28sp%29)) and will be asked for your consent.
-You can ask to review this privacy notice at any time. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
-This privacy notice states: “You are still eligible for services if you refuse to have your standard information shared in HMIS.” <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
-Ask about HMIS Consent for Release of Information (ROI) forms and what they mean before you sign them.
-You have the right to see the information that has been collected about you in the HMIS, to have your own copy of this information, to request changes to it, and to have it marked private (so that it will not be shared with other service providers who use HMIS). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
-The privacy of the information in the HMIS is protected by law, but the government does not always follow the law, so be cautious.
+Los proveedores de servicios para personas sin hogar del gobierno (y los proveedores de servicios que reciben subsidios y contratos del gobierno) a menudo comparten información sobre sus clientes a través del HMIS (Sistema de Información de Gestión de Personas sin Hogar).
+Antes de que un proveedor de servicios ingrese información sobre usted en el HMIS, recibirá [un aviso de privacidad](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-coc-hmis-consent-for-release-of-information-2024-final-%28sp%29) ([English](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final)) y se le pedirá su consentimiento.
+Puede pedir revisar este aviso de privacidad en cualquier momento. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
+Este aviso de privacidad establece: "Aún es elegible para servicios si rechaza compartir su información estándar en HMIS". <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
+Pregunte sobre los formularios de Consentimiento para Divulgación de Información (ROI) del HMIS y qué significan antes de firmarlos.
+Tiene derecho a ver la información que se ha recopilado sobre usted en el HMIS, a tener su propia copia de esta información, a solicitar cambios y a que se marque como privada (para que no se comparta con otros proveedores de servicios que usan HMIS). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
+La privacidad de la información en el HMIS está protegida por ley, pero el gobierno no siempre sigue la ley, así que sea cauteloso.
 
-Many programs have procedures for appealing decisions or for filing complaints.
-Ask program staff or search online to find the specific process.
-Legal aid organizations can help with appeals (see the [Legal assistance](#legal-help) section).
+Muchos programas tienen procedimientos para apelar decisiones o presentar quejas.
+Pregunte al personal del programa o busque en línea para encontrar el proceso específico.
+Las organizaciones de asistencia legal pueden ayudar con apelaciones (vea la sección [Asistencia legal](#legal-help)).
 
 ### <a id="document-everything">Documente Todo</a>
 
-Keep copies of important documents and applications.
-Store documents in waterproof bags.
-Use your backpack as a pillow when you sleep.
-Keep your most important items in clothes pockets.
-If you have enough income, consider getting a safety deposit box for the most important or hard-to-replace documents.
+Guarde copias de documentos y solicitudes importantes.
+Guarde los documentos en bolsas impermeables.
+Use su mochila como almohada cuando duerma.
+Guarde sus artículos más importantes en los bolsillos de su ropa.
+Si tiene ingresos suficientes, considere obtener una caja de seguridad para los documentos más importantes o difíciles de reemplazar.
 
-Use your phone to take photos of important paperwork.
-Activate automatic cloud backup (iCloud for iPhone, Google Photos for Android) so your photos survive if your phone is lost or stolen.
-Phones (iPhones & Androids) typically come with some amount of free cloud storage, so you can keep access to your photos even if you lose your phone.
+Use su teléfono para tomar fotos de documentos importantes.
+Active la copia de seguridad automática en la nube (iCloud para iPhone, Google Photos para Android) para que sus fotos sobrevivan si pierde o le roban su teléfono.
+Los teléfonos (iPhones y Androids) generalmente vienen con una cantidad de almacenamiento gratuito en la nube, por lo que puede mantener el acceso a sus fotos incluso si pierde su teléfono.
 
-Keep the dates, names, and outcomes of important conversations.
-Keep case numbers, application numbers, and confirmation numbers.
+Guarde las fechas, nombres y resultados de conversaciones importantes.
+Guarde números de caso, números de solicitud y números de confirmación.
 
 ### <a id="focus-on-goals">Enfóquese en Sus Metas y Fortalezas</a>
 
-Tell people clearly what you are working toward (housing, employment, healthcare, etc.).
-Share your skills, experience, education, and personal strengths when they matter for the services you want.
-For example, tell employment services about your work experience.
+Diga claramente a las personas hacia qué está trabajando (vivienda, empleo, atención médica, etc.).
+Comparta sus habilidades, experiencia, educación y fortalezas personales cuando sean importantes para los servicios que desea.
+Por ejemplo, cuéntele a los servicios de empleo sobre su experiencia laboral.
 
-Come to meetings with ideas about what might work for your situation.
-Follow through on promises you make and take active steps toward your goals.
+Llegue a las reuniones con ideas sobre lo que podría funcionar para su situación.
+Cumpla las promesas que hace y tome medidas activas hacia sus metas.
 
 ### <a id="navigate-system-barriers">Navegue las Barreras del Sistema</a>
 
-Learn the rules for programs: who can use them, when applications are due, and what steps you need to take.
-If you don’t qualify for one program, ask about other options.
-If you have disabilities or special needs that make it difficult to access a program, ask about help they can provide.
+Aprenda las reglas de los programas: quién puede usarlos, cuándo vencen las solicitudes y qué pasos debe seguir.
+Si no califica para un programa, pregunte sobre otras opciones.
+Si tiene discapacidades o necesidades especiales que dificultan el acceso a un programa, pregunte sobre la ayuda que pueden proporcionar.
 
-If you’re not getting the help you think you should be getting, ask to speak with supervisors.
-Use formal complaint procedures and appeal processes.
-Or find someone who knows the system well to help you (like a case manager, behavioral health navigator, legal aid worker, or peer advocate).
+Si no está recibiendo la ayuda que cree que debería recibir, pida hablar con supervisores.
+Use procedimientos formales de quejas y procesos de apelación.
+O encuentre a alguien que conozca bien el sistema para que lo ayude (como un administrador de casos, navegador de salud del comportamiento, trabajador de asistencia legal o defensor entre pares).
 
 ### <a id="work-with-multiple-providers">Trabaje con Múltiples Proveedores de Servicios</a>
 
-Tell each provider about other services you get, when it matters.
-For example, tell housing programs about your income sources.
-But casual services like showers don’t need to know about each other.
+Informe a cada proveedor sobre otros servicios que recibe, cuando sea importante.
+Por ejemplo, informe a los programas de vivienda sobre sus fuentes de ingresos.
+Pero los servicios informales como las duchas no necesitan saber unos de otros.
 
-If an agency plans to apply for a service in your name, tell them if you already applied on your own.
-This prevents duplicate applications and wasted time.
-Keep track of which applications you made or that others made for you.
-This helps you avoid doing the same thing twice.
+Si una agencia planea solicitar un servicio en su nombre, dígales si ya solicitó por su cuenta.
+Esto evita solicitudes duplicadas y tiempo perdido.
+Mantenga un registro de qué solicitudes hizo usted o que otros hicieron por usted.
+Esto le ayuda a evitar hacer lo mismo dos veces.
 
-Share information with service providers that relates directly to the services you want.
-For example, share your income for benefits applications or your medical history for healthcare.
-Keep other personal details private if you don’t feel like sharing them.
+Comparta información con los proveedores de servicios que se relacione directamente con los servicios que desea.
+Por ejemplo, comparta sus ingresos para solicitudes de beneficios o su historial médico para atención médica.
+Mantenga otros detalles personales privados si no se siente cómodo compartiéndolos.
 
-Keep a list of contact information for all your service providers.
-Ask for direct phone numbers or business cards from people who work with you.
-This helps you avoid phone trees if you need to call back.
+Mantenga una lista de información de contacto de todos sus proveedores de servicios.
+Pida números de teléfono directos o tarjetas de presentación de las personas que trabajan con usted.
+Esto le ayuda a evitar menús telefónicos si necesita volver a llamar.
 
 ### <a id="set-goals-and-track-progress">Establezca Metas y Dé Seguimiento a Su Progreso</a>
 
-Make your goals “S.M.A.R.T.” (Specific, Measurable, Achievable, Relevant, and Time-bound). <!-- Source: https://en.wikipedia.org/wiki/SMART_criteria -->
-Divide big goals (like getting housing) into smaller steps you can manage.
-Notice and celebrate your achievements, even small ones.
-Be flexible and willing to change your goals as your situation changes.
+Haga que sus metas sean específicas, medibles, alcanzables, relevantes y con plazo definido. <!-- Source: https://en.wikipedia.org/wiki/SMART_criteria -->
+Divida las metas grandes (como obtener vivienda) en pasos más pequeños que pueda manejar.
+Note y celebre sus logros, incluso los pequeños.
+Sea flexible y esté dispuesto a cambiar sus metas a medida que cambie su situación.
 
 ### <a id="when-things-go-wrong">Cuando las Cosas Salen Mal</a>
 
-Even when you feel frustrated, stay calm and speak respectfully.
-This approach usually gets better results and faster solutions than arguing.
-Note details about problems, including dates, names, and what went wrong.
-Don’t quit too soon.
-Persevering often pays off when you work with complex systems.
+Incluso cuando se sienta frustrado, manténgase calmado y hable respetuosamente.
+Este enfoque generalmente obtiene mejores resultados y soluciones más rápidas que discutir.
+Anote detalles sobre los problemas, incluyendo fechas, nombres y qué salió mal.
+No se rinda demasiado pronto.
+Perseverar a menudo vale la pena cuando trabaja con sistemas complejos.
 
 ### <a id="find-and-use-resources">Encuentre y Use Recursos</a>
 
-Use this guide or call [211](tel:+1-211) to get information about available services. <!-- Source: https://211slo.org/ -->
-Talk with other people in similar situations—they often have valuable information and tips.
+Use esta guía o llame al [211](tel:+1-211) para obtener información sobre los servicios disponibles. <!-- Source: https://211slo.org/ -->
+Hable con otras personas en situaciones similares: a menudo tienen información y consejos valiosos.
 
-The [Other Guides](#other-guides) section of this guide lists some other resource guides that may have information this guide missed.
+La sección [Otras Guías](#other-guides) de esta guía enumera algunas otras guías de recursos que pueden tener información que esta guía omitió.
 
-Things change.
-Contact service providers directly to verify their most current information before you travel to their locations.
+Las cosas cambian.
+Comuníquese directamente con los proveedores de servicios para verificar su información más actualizada antes de viajar a sus ubicaciones.
 
 -----
 
