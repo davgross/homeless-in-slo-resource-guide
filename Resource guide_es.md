@@ -3292,12 +3292,12 @@ La oficina de [**5Cities Homeless Coalition**](Directory.md#5CHC) tiene estacion
 
 [**Shower the People**](Directory.md#Shower-the-People) tiene una estación de carga de dispositivos disponible en los sitios donde opera durante el horario de operación. <!-- Source: personal knowledge -DG -->
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have computers you can use on-site with USB charging ports. <!-- SOURCE NEEDED -->
-There are also some electrical outlets you can use to charge devices. <!-- SOURCE NEEDED -->
+Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) tienen computadoras que puede usar en el sitio con puertos de carga USB. <!-- SOURCE NEEDED -->
+También hay algunos enchufes eléctricos que puede usar para cargar dispositivos. <!-- SOURCE NEEDED -->
 
-The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus has many charging outlets. <!-- Source: I visited and saw them -DG -->
+El café gratuito [**Front Porch**](Directory.md#Front-Porch) en el campus de Cal Poly tiene muchos enchufes para cargar. <!-- Source: I visited and saw them -DG -->
 
-[**40 Prado Homeless Services Center**](Directory.md#40-Prado) has electrical outlets you can use to charge your mobile devices. <!-- Source: https://capslo.org/safe-parking/ -->
+El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) (Centro de Servicios para Personas sin Hogar 40 Prado) tiene enchufes eléctricos que puede usar para cargar sus dispositivos móviles. <!-- Source: https://capslo.org/safe-parking/ -->
 
 <!-- SOURCE NEEDED
 1. County Government Buildings
@@ -3309,19 +3309,19 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 ## <a id="children-youth-parents">Niños, Jóvenes y Personas con Hijos</a>
 
-**In this section:**
+**En esta sección:**
 
-1. [Help with Parenting](#parenting)
-1. [Daycare, Preschool, and After-School Programs](#daycare)
-1. [Holiday Gifts for Children](#holiday-gifts-for-children)
-1. [Resources for Homeless Youth](#homeless-youth)
+1. [Ayuda con la Crianza](#parenting)
+1. [Guardería, Preescolar y Programas Después de la Escuela](#daycare)
+1. [Regalos de Temporada para Niños](#holiday-gifts-for-children)
+1. [Recursos para Jóvenes sin Hogar](#homeless-youth)
 
-[**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues. <!-- Source: https://www.slohelpmegrow.org/services -->
+[**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) ofrece evaluaciones de desarrollo sin costo para bebés, y conexiones a recursos y educación si estas evaluaciones descubren problemas de desarrollo. <!-- Source: https://www.slohelpmegrow.org/services -->
 
-[**Family Care Network**](Directory.md#Family-Care-Network) serves families with children who are experiencing or at risk of homelessness, are impacted by unaddressed mental health challenges, or are involved with Child Welfare Services or the Justice System. <!-- SOURCE NEEDED (issue #36) -->
-Services include therapy and other mental health services, facilitating foster care and adoption, independent living skills, educational continuity, <!-- SOURCE NEEDED (issue #36) -->
-They also help families experiencing homelessness to move into safe housing (Family Care Network operates housing complexes for this purpose). <!-- SOURCE NEEDED (issue #36) -->
-They offer services in English and Spanish. <!-- SOURCE NEEDED (issue #36) -->
+[**Family Care Network**](Directory.md#Family-Care-Network) sirve a familias con niños que están experimentando o en riesgo de quedar sin hogar, están afectadas por desafíos de salud mental no atendidos, o están involucradas con Servicios de Bienestar Infantil o el Sistema de Justicia. <!-- SOURCE NEEDED (issue #36) -->
+Los servicios incluyen terapia y otros servicios de salud mental, facilitar el cuidado de crianza y adopción, habilidades de vida independiente, continuidad educativa, <!-- SOURCE NEEDED (issue #36) -->
+También ayudan a familias que experimentan la falta de hogar a mudarse a vivienda segura (Family Care Network opera complejos habitacionales para este propósito). <!-- SOURCE NEEDED (issue #36) -->
+Ofrecen servicios en inglés y español. <!-- SOURCE NEEDED (issue #36) -->
 
 The [SLO Children’s Museum](https://www.slocm.org/) is full of interactive exhibits for children aged 2–10. <!-- Source: https://www.slocm.org/visit -->
 If you are “housing insecure” you can get a free “City Play Pass” to the museum from [**CAPSLO**](Directory.md#CAPSLO). <!-- Source: https://www.slocm.org/ -->
