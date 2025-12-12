@@ -1098,16 +1098,16 @@ Puede aplicar para este seguro en línea en [mylowcostauto.com](https://www.mylo
 La [**Family Care Network**](Directory.md#Family-Care-Network) puede ayudarle a pagar reparaciones de automóvil, pagos y gasolina si está sin dinero. <!-- SOURCE NEEDED (issue #36) -->
 Puede que primero necesite obtener una referencia de un Especialista de Recursos de Empleo del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- SOURCE NEEDED (issue #36) -->
 
-The [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap)’s “Consumer Assistance Program” can help you fix your car so that it satisfies California emissions standards. <!-- Source https://www.bar.ca.gov/cap -->
-This program will pay for up to $1,450 in necessary repairs at a STAR test-and-repair center for model year 1996 or newer vehicles, or up to $1,100 for 1976–1995 vehicles. <!-- Source: https://www.bar.ca.gov/cap/repair -->
-To qualify, you must verify that you have a household income below 225% of the federally-set poverty level, and your vehicle must fail its biennial smog check. <!-- Source: https://www.bar.ca.gov/cap/repair#eligibility -->
-You can apply online at their website or by calling [866-272-9642](tel:+1-866-272-9642) (M–F 8:30am–5pm). <!-- Source: https://www.bar.ca.gov/cap/repair -->
+El "Programa de Asistencia al Consumidor" del [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap) puede ayudarle a reparar su automóvil para que cumpla con los estándares de emisiones de California. <!-- Source https://www.bar.ca.gov/cap -->
+Este programa pagará hasta $1,450 en reparaciones necesarias en un centro de pruebas y reparación STAR para vehículos del año modelo 1996 o más nuevos, o hasta $1,100 para vehículos de 1976–1995. <!-- Source: https://www.bar.ca.gov/cap/repair -->
+Para calificar, debe verificar que tiene un ingreso familiar por debajo del 225% del nivel de pobreza establecido federalmente, y su vehículo debe reprobar su inspección de smog bienal. <!-- Source: https://www.bar.ca.gov/cap/repair#eligibility -->
+Puede solicitar en línea en su sitio web o llamando al [866-272-9642](tel:+1-866-272-9642) (L–V 8:30am–5pm). <!-- Source: https://www.bar.ca.gov/cap/repair -->
 
-> See [Emergency Financial Help](#emergency-financial-help) for programs that can give you financial assistance to pay for emergency expenses like car repairs.
+> Vea [Ayuda Financiera de Emergencia](#emergency-financial-help) para programas que pueden brindarle asistencia financiera para pagar gastos de emergencia como reparaciones de automóvil.
 
 ### <a id="safe-parking">Estacionamiento Seguro para Personas que Viven en Vehículos</a>
 
-> See [Legal Camping, Safe Parking, and RV Parks](#camping-parking-rv-parks) to learn about options for places to park safely and legally if you live in your vehicle.
+> Vea [Campamentos Legales, Estacionamiento Seguro y Parques para RVs](#camping-parking-rv-parks) para conocer opciones de lugares donde puede estacionarse de manera segura y legal si vive en su vehículo.
 
 -----
 
@@ -1115,41 +1115,41 @@ You can apply online at their website or by calling [866-272-9642](tel:+1-866-27
 
 ### <a id="free-clothes">Ropa Gratis</a>
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has some free clothing available, <!-- SOURCE NEEDED (issue #51) (https://capslo.org/40pradodonations/ indicates that they are seeking donations of clothing though) -->
-as does the associated [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services). <!-- Source: visited in person and saw their clothing rack -DG -->
+El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene algo de ropa gratis disponible, <!-- SOURCE NEEDED (issue #51) (https://capslo.org/40pradodonations/ indicates that they are seeking donations of clothing though) -->
+al igual que el asociado [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services). <!-- Source: visited in person and saw their clothing rack -DG -->
 
-The [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) can give eligible people vouchers to purchase clothing with. <!-- SOURCE NEEDED (https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf says they offer "clothing assistance" T/W/Th 1–3pm) -->
+El [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) puede dar vales a las personas elegibles para comprar ropa. <!-- SOURCE NEEDED (https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf says they offer "clothing assistance" T/W/Th 1–3pm) -->
 
-[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) has clothing, shoes, blankets, and sleeping bags for people who come to its shower program (M–F 4–5:30pm at their Atascadero and Paso Robles locations). <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) tiene ropa, zapatos, cobijas y sacos de dormir para las personas que vienen a su programa de duchas (L–V 4–5:30pm en sus ubicaciones de Atascadero y Paso Robles). <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 
 <!-- verify
 Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can get free clothing from them and to make an appointment.
 --><!-- SOURCE NEEDED (issue #60) -->
 
-[**Shower the People**](Directory.md#Shower-the-People) gives you new socks, underwear, and a t-shirt. <!-- Source: personal experience as volunteer -DG -->
+[**Shower the People**](Directory.md#Shower-the-People) le da calcetines, ropa interior y una camiseta nuevos. <!-- Source: personal experience as volunteer -DG -->
 
 <!--
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) has a program that gives free winter clothes to area seniors.
 --><!-- SOURCE NEEDED: (issue #61) not mentioned here: https://southbayseniorspeoplehelpingpeople.com/services/ -->
 
-[**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of December 2025) they are still looking for an office to operate from.
-You have to make an appointment with them to view their inventory. <!-- Source: https://slograssroots.org/ -->
+[**SLO Grassroots**](Directory.md#SLO-Grassroots) tiene ropa para regalar, pero (a diciembre de 2025) todavía están buscando una oficina desde donde operar.
+Tiene que hacer una cita con ellos para ver su inventario. <!-- Source: https://slograssroots.org/ -->
 
 #### <a id="free-clothes-for-kids">Ropa Gratis para Niños</a>
 
-The [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) has free clothing (and school supplies, books, diapers, and other basic resources) for children from birth to age 18. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
-Call their hotline, use the “Place a Request” form on their website, or visit during walk-in hours. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
-They also operate the “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel” at which schoolchildren can get clothes and other supplies they need. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+La [**Children's Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) tiene ropa gratis (y útiles escolares, libros, pañales y otros recursos básicos) para niños desde el nacimiento hasta los 18 años. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+Llame a su línea directa, use el formulario "Place a Request" en su sitio web, o visite durante las horas sin cita. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+También operan el "Traveling Children's Closet", "The Teen's Closet" y "Outreach Apparel" donde los niños de edad escolar pueden obtener ropa y otros útiles que necesitan. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 
-[**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) operates the “Operation School Bell” program, which gives needy students credits with which they can shop for new retail school clothes. <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
-Ask authorities at the child’s school to refer them to the program. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/seasonal-resources, https://pasoroblespress.com/news/nonprofit/operation-school-bell/ -->
+La [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) opera el programa "Operation School Bell", que da créditos a estudiantes necesitados con los cuales pueden comprar ropa escolar nueva en tiendas. <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
+Pida a las autoridades de la escuela del niño que lo refieran al programa. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/seasonal-resources, https://pasoroblespress.com/news/nonprofit/operation-school-bell/ -->
 
-[Coats for Kids of SLO County](https://www.coatsforkidsslocounty.org/) holds a once-a-year (December) distribution in Paso Robles of cold-weather clothes like coats, jackets, sweaters, and sweatshirts. <!-- Source: https://www.coatsforkidsslocounty.org/ -->
-See their website for details on the next distribution, or use their [contact form](https://www.coatsforkidsslocounty.org/contact) or call [805-703-1762](tel:+1-805-703-1762) with questions. <!-- Source: https://www.coatsforkidsslocounty.org/contact -->
+[Coats for Kids of SLO County](https://www.coatsforkidsslocounty.org/) realiza una distribución una vez al año (en diciembre) en Paso Robles de ropa para clima frío como abrigos, chaquetas, suéteres y sudaderas. <!-- Source: https://www.coatsforkidsslocounty.org/ -->
+Vea su sitio web para detalles sobre la próxima distribución, o use su [formulario de contacto](https://www.coatsforkidsslocounty.org/contact) o llame al [805-703-1762](tel:+1-805-703-1762) si tiene preguntas. <!-- Source: https://www.coatsforkidsslocounty.org/contact -->
 
 ### <a id="thrift-stores">Tiendas de Segunda Mano</a>
 
-Thrift stores sell second-hand (used) clothing at low prices.
+Las tiendas de segunda mano venden ropa usada a precios bajos.
 
 **Arroyo Grande:**
 
@@ -1199,14 +1199,14 @@ Thrift stores sell second-hand (used) clothing at low prices.
 
 ## <a id="laundry">Lavandería</a>
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers free laundry facilities every day from 8am to 4pm. <!-- SOURCE NEEDED (issue #64) for hours -->
-You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first. <!-- SOURCE NEEDED (issue #64) -->
+El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) ofrece instalaciones de lavandería gratis todos los días de 8am a 4pm. <!-- SOURCE NEEDED (issue #64) for hours -->
+No tiene que estar hospedándose allí para usar las instalaciones de lavandería, pero sí necesita completar su proceso de admisión primero. <!-- SOURCE NEEDED (issue #64) -->
 
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the laundry facility at its Paso Robles location every Wednesday from 10am–6pm, at which outreach clients can do a single load of laundry for free (they provide detergent). <!-- Source: https://www.echoshelter.org/pasorobles -->
+La [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) abre la instalación de lavandería en su ubicación de Paso Robles todos los miércoles de 10am–6pm, donde los clientes de extensión pueden lavar una carga de ropa gratis (ellos proporcionan el detergente). <!-- Source: https://www.echoshelter.org/pasorobles -->
 
-[**Laundry Love**](Directory.md#Laundry-Love) operates at a Los Osos commercial laundry on the last Wednesday of the month (check their website for the latest schedule). <!-- Source: https://laundrylove.org/find-a-location/ -->
-They allow anyone to do two free loads of laundry (five loads for a family), plus bedding. <!-- SOURCE NEEDED (issue #65) -->
-They provide the coins to feed the machines and the laundry detergent and dryer sheets. <!-- SOURCE NEEDED (issue #65) -->
+[**Laundry Love**](Directory.md#Laundry-Love) opera en una lavandería comercial de Los Osos el último miércoles del mes (revise su sitio web para el horario más reciente). <!-- Source: https://laundrylove.org/find-a-location/ -->
+Permiten a cualquier persona hacer dos cargas de ropa gratis (cinco cargas para una familia), más ropa de cama. <!-- SOURCE NEEDED (issue #65) -->
+Proporcionan las monedas para las máquinas y el detergente para ropa y las hojas para la secadora. <!-- SOURCE NEEDED (issue #65) -->
 
 -----
 
