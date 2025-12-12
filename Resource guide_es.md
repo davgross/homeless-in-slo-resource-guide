@@ -3069,17 +3069,17 @@ El sitio [FlexJobs](https://www.flexjobs.com/) es otra forma de encontrar trabaj
 
 ## <a id="education-job-skills-training">Educación, Capacitación Laboral, Certificaciones, Tutoría y Alfabetización</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Adult Education](#adult-education)
-- [Digital Literacy: How to Use Computers and the Internet](#digital-literacy)
-- [Libraries](#libraries)
-- [Citizenship Studies](#citizenship-studies)
-- [Literacy](#literacy)
-- [High School Diplomas and their Equivalents (GED or HiSET)](#diploma-ged-hiset)
-- [English as a Second Language (ESL)](#esl)
-- [For People with Disabilities](#education-for-people-with-disabilities)
-- [For U.S. Military Veterans](#veterans-education)
+- [Educación para Adultos](#adult-education)
+- [Alfabetización Digital: Cómo Usar Computadoras e Internet](#digital-literacy)
+- [Bibliotecas](#libraries)
+- [Estudios de Ciudadanía](#citizenship-studies)
+- [Alfabetización](#literacy)
+- [Diplomas de Escuela Secundaria y sus Equivalentes (GED o HiSET)](#diploma-ged-hiset)
+- [Inglés como Segundo Idioma (ESL)](#esl)
+- [Para Personas con Discapacidades](#education-for-people-with-disabilities)
+- [Para Veteranos Militares de los Estados Unidos](#veterans-education)
 
 ### <a id="adult-education">Educación para Adultos</a>
 
@@ -3088,20 +3088,20 @@ Classes themselves are free, but some have additional costs that have to do with
 Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver. <!-- Source: https://www.cuesta.edu/academics/continuinged/comm-truck-driving/index.html -->
 They also offer miscellaneous adult education classes on topics of a recreational or curiosity-satisfying nature.
 
-[**SLO Partners**](Directory.md#SLO-Partners) [programs](https://slopartners.org/programs/) include bootcamps to learn in-demand skills in fields like dental assistant, hospitality, and manufacturing.
-There is a financial assistance program to help you pay for tuition. <!-- SOURCE NEEDED -->
+Los [programas](https://slopartners.org/programs/) de [**SLO Partners**](Directory.md#SLO-Partners) incluyen bootcamps para aprender habilidades en demanda en campos como asistente dental, hospitalidad y manufactura.
+Hay un programa de asistencia financiera para ayudarle a pagar la matrícula. <!-- SOURCE NEEDED -->
 
-[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers a free [Food Services Program](https://ae.slcusd.org/culinary) that can prepare you for a career in the culinary industry.
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) ofrece un [Programa de Servicios de Alimentos](https://ae.slcusd.org/culinary) (Food Services Program) gratuito que puede prepararle para una carrera en la industria culinaria.
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers skill-building, professional development, and college prep courses, at its [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
+Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) ofrecen cursos de desarrollo de habilidades, desarrollo profesional y preparación universitaria, en su [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
 
 [Alison.com](https://alison.com) offers free online courses in several fields of study, including vocational training and “soft skills.”
 You can get a certificate and/or diploma after completing a course of study, but this sometimes costs money (the course itself is free).
 Note that Alison.com is accredited in the United Kingdom, not the United States, which may affect how much these certificates and diplomas are respected by employers or colleges here. <!-- Source: https://alison.com/about/accreditation -->
 
-[Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/) offers low-cost classes and seminars on a variety of topics.
-You can also become an annual member for a $25 fee, and this gives you substantial discounts on all classes throughout the year. <!-- Source: https://www.lifelearnerscc.org/courses -->
-Contact them at [lifelearnerscentralcoast@gmail.com](mailto:lifelearnerscentralcoast@gmail.com) for details. <!-- Source: https://www.lifelearnerscc.org/courses -->
+[Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/) ofrece clases y seminarios de bajo costo sobre una variedad de temas.
+También puede convertirse en miembro anual por una tarifa de $25, y esto le da descuentos sustanciales en todas las clases durante todo el año. <!-- Source: https://www.lifelearnerscc.org/courses -->
+Contácteles en [lifelearnerscentralcoast@gmail.com](mailto:lifelearnerscentralcoast@gmail.com) para más detalles. <!-- Source: https://www.lifelearnerscc.org/courses -->
 
 <!-- doesn’t look like a low-cost option
 1. [A.T. Still University of Health Sciences](https://www.atsu.edu/)
