@@ -702,19 +702,19 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
  Blessed to Serve: SOURCE NEEDED
  Food Not Bombs: https://www.instagram.com/foodnotbombs_slo/
 -->
-| Location     | Meal Provider                                                              | When                          |
+| Ubicación    | Proveedor de Comida                                                        | Cuándo                        |
 | ------------ | -------------------------------------------------------------------------- | ----------------------------- |
-| Atascadero   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm daily                     |
-| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 5pm Tuesdays & 6pm Wednesdays |
-| Cal Poly     | [**Front Porch**](Directory.md#Front-Porch)                                | Wednesday dinner              |
-| Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily              |
-| Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesdays                |
-| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 5:30pm Mondays                |
-| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm daily                  |
-| SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am most Thursdays           |
-| SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 5pm Mondays & Thursdays       |
-| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm Sundays                   |
-| SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | noon lunch daily              |
+| Atascadero   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm diario                    |
+| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 5pm martes y 6pm miércoles    |
+| Cal Poly     | [**Front Porch**](Directory.md#Front-Porch)                                | cena miércoles                |
+| Grover Beach | [**People's Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | almuerzo mediodía diario      |
+| Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm miércoles                 |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 5:30pm lunes                  |
+| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm diario                 |
+| SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am la mayoría de los jueves |
+| SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 5pm lunes y jueves            |
+| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm domingos                  |
+| SLO          | [**People's Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | almuerzo mediodía diario      |
 
 ### <a id="free-food-pantries">Despensas de Alimentos Gratis</a>
 
@@ -732,48 +732,48 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
  SLO Grassroots: SOURCE NEEDED
  SLO Veterans Services: https://www.slocounty.ca.gov/departments/veterans-services/veterans-services-food-pantry
 -->
-| Location       | Pantry                                                                                                                                                 | When |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| Arroyo Grande  | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                                                                        | Fridays 12:45–1:30pm |
-| Arroyo Grande  | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church) (South County residents only; bring photo ID)                                            | Tuesday–Thursday 4–5pm |
-| Arroyo Grande  | [**Salvation Army**](Directory.md#Salvation-Army)                                                                                                      | Mondays, Wednesdays, Fridays 10am–Noon |
-| Atascadero     | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                                                                          | Thursdays 1–2pm |
-| Atascadero     | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero) (North County residents only)                                                       | Monday–Friday 1–3pm |
-| Atascadero     | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                                                                                | Tuesday 5–6pm & Wednesday 6–6:30pm, or by appt. |
-| Atascadero     | [**Restoration Church**](Directory.md#Restoration-Church)                                                                                              | first Saturday of the month 1–2:30pm |
-| Cal Poly       | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) (for Cal Poly students and staff)                                                        | Monday–Friday 8:30am–6pm |
-| Cambria        | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                                                                    | second & fourth Thursday Noon–2pm |
-| Cayucos        | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                                                                                  | Wednesdays 10:30–11am |
-| Cayucos        | [**St. Joseph’s Catholic Church**](Directory.md#St-Josephs-Church)                                                                                     | Fridays 10am–Noon (Thursdays 7:30–7:45 by appt.) |
-| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) (must be a Cuesta student)  | Monday–Friday 9am–4:30pm |
-| Grover Beach   | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) (bring photo ID)                                   | Monday–Friday 2–3:30pm |
-| Los Osos       | [**King’s Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | Tuesdays 8–10am |
-| Los Osos       | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People)                                                    | Wednesdays 9:30–10:30am |
-| Los Osos       | [**Trinity United Methodist Church (Los Osos)**](Directory.md#Trinity-United-Methodist-Church)                                                         | Tuesdays & Fridays 10am–Noon |
-| Morro Bay      | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)                                                                              | 4:30–6:30pm Mondays |
-| Morro Bay      | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                                                                   | Saturdays 9:30–10:30am |
-| Nipomo         | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket) (Nipomo residents only)                                                                      | M/Tu/Th/F 10am–1pm |
-| Nipomo         | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)                                                              | Saturdays 11am–12:30pm |
-| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College)                                                                                                      | Monday–Friday 9am–5pm |
-| Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | Monday–Thursday 2–4pm (or by appt.)|
-| Paso Robles    | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (for seniors)                                                                  | second & fourth Tuesday 9:30–11am |
-| Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (bring photo ID)                                                                                     | Tuesdays 10–11am |
-| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.639659" data-lon="-120.692709" data-zoom="17" data-label="The Link">626 26th St.</a> admin building #1, [805-503-9638](tel:+1-805-503-9638) | M–Th 9am–3pm; F 9am–1pm |
-| Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visit per household per week; bring photo ID)                                     | Tu 6–7pm, W 10am–Noon, Th 1:30–3:30pm |
-| San Miguel     | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-2131&#xA0;x115](tel:+1-805-467-2131;ext=115) | first, third, & fifth Wednesday, 5–6pm |
-| SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | Sundays Noon–12:30pm |
-| SLO            | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                                                                            | Mondays 2:30–4:30pm |
-| SLO            | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | Tuesdays 2–3pm, or by appt. |
-| SLO            | [**GALA Pride & Diversity Center**](Directory.md#GALA)                                                                                                 | Monday–Friday 10am–3pm |
-| SLO            | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                                                                         | Saturdays 8:30–9:15am |
-| SLO            | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)                                                                  | Monday–Friday 10am–3pm |
-| SLO            | [**Renovate Church**](Directory.md#Renovate-Church)                                                                                                    | Mondays 4–6pm |
-| SLO            | [**Salvation Army**](Directory.md#Salvation-Army) (bring photo ID)                                                                                     | W/F 10am–Noon, Th 2–4pm |
-| SLO            | [**SLO Food Bank**](Directory.md#SLO-Food-Bank)                                                                                                        | Mondays, Wednesdays, Fridays Noon–5pm |
-| SLO            | [**SLO Grassroots**](Directory.md#SLO-Grassroots)                                                                                                      | by appointment only |
-| SLO            | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) “We Care Food Share”                                                                 | Wednesdays 3–4:30pm |
-| SLO            | [**Veterans Services**](Directory.md#Veterans-Services) (for veterans only)                                                                            | daily 8am–5pm |
-| SLO            | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                                                                          | Wednesdays 9:30–11:30am |
+| Ubicación      | Despensa                                                                                                                                               | Cuándo |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| Arroyo Grande  | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                                                                        | viernes 12:45–1:30pm |
+| Arroyo Grande  | [**Saint Patrick's Church**](Directory.md#St-Patricks-Church) (residentes de South County solamente; traiga identificación con foto)                   | martes–jueves 4–5pm |
+| Arroyo Grande  | [**Salvation Army**](Directory.md#Salvation-Army)                                                                                                      | lunes, miércoles, viernes 10am–mediodía |
+| Atascadero     | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                                                                          | jueves 1–2pm |
+| Atascadero     | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero) (residentes de North County solamente)                                             | lunes–viernes 1–3pm |
+| Atascadero     | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                                                                                | martes 5–6pm y miércoles 6–6:30pm, o con cita |
+| Atascadero     | [**Restoration Church**](Directory.md#Restoration-Church)                                                                                              | primer sábado del mes 1–2:30pm |
+| Cal Poly       | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) (para estudiantes y personal de Cal Poly)                                               | lunes–viernes 8:30am–6pm |
+| Cambria        | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                                                                    | segundo y cuarto jueves mediodía–2pm |
+| Cayucos        | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                                                                                  | miércoles 10:30–11am |
+| Cayucos        | [**St. Joseph's Catholic Church**](Directory.md#St-Josephs-Church)                                                                                     | viernes 10am–mediodía (jueves 7:30–7:45 con cita) |
+| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) (debe ser estudiante de Cuesta) | lunes–viernes 9am–4:30pm |
+| Grover Beach   | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) (traiga identificación con foto)                   | lunes–viernes 2–3:30pm |
+| Los Osos       | [**King's Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | martes 8–10am |
+| Los Osos       | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People)                                                    | miércoles 9:30–10:30am |
+| Los Osos       | [**Trinity United Methodist Church (Los Osos)**](Directory.md#Trinity-United-Methodist-Church)                                                         | martes y viernes 10am–mediodía |
+| Morro Bay      | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)                                                                              | 4:30–6:30pm lunes |
+| Morro Bay      | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                                                                   | sábados 9:30–10:30am |
+| Nipomo         | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket) (residentes de Nipomo solamente)                                                             | L/Ma/J/V 10am–1pm |
+| Nipomo         | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)                                                              | sábados 11am–12:30pm |
+| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College)                                                                                                      | lunes–viernes 9am–5pm |
+| Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | lunes–jueves 2–4pm (o con cita) |
+| Paso Robles    | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (para personas mayores)                                                        | segundo y cuarto martes 9:30–11am |
+| Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (traiga identificación con foto)                                                                     | martes 10–11am |
+| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.639659" data-lon="-120.692709" data-zoom="17" data-label="The Link">626 26th St.</a> admin building #1, [805-503-9638](tel:+1-805-503-9638) | L–J 9am–3pm; V 9am–1pm |
+| Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visita por hogar por semana; traiga identificación con foto)                      | Ma 6–7pm, Mi 10am–mediodía, J 1:30–3:30pm |
+| San Miguel     | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-2131&#xA0;x115](tel:+1-805-467-2131;ext=115) | primero, tercero y quinto miércoles, 5–6pm |
+| SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | domingos mediodía–12:30pm |
+| SLO            | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                                                                            | lunes 2:30–4:30pm |
+| SLO            | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | martes 2–3pm, o con cita |
+| SLO            | [**GALA Pride & Diversity Center**](Directory.md#GALA)                                                                                                 | lunes–viernes 10am–3pm |
+| SLO            | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) "God's Storehouse"                                                                         | sábados 8:30–9:15am |
+| SLO            | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)                                                                  | lunes–viernes 10am–3pm |
+| SLO            | [**Renovate Church**](Directory.md#Renovate-Church)                                                                                                    | lunes 4–6pm |
+| SLO            | [**Salvation Army**](Directory.md#Salvation-Army) (traiga identificación con foto)                                                                     | Mi/V 10am–mediodía, J 2–4pm |
+| SLO            | [**SLO Food Bank**](Directory.md#SLO-Food-Bank)                                                                                                        | lunes, miércoles, viernes mediodía–5pm |
+| SLO            | [**SLO Grassroots**](Directory.md#SLO-Grassroots)                                                                                                      | solo con cita |
+| SLO            | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) "We Care Food Share"                                                                 | miércoles 3–4:30pm |
+| SLO            | [**Veterans Services**](Directory.md#Veterans-Services) (solo para veteranos)                                                                          | diario 8am–5pm |
+| SLO            | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                                                                          | miércoles 9:30–11:30am |
 <!-- Unclear if this is permanent or just a Thanksgiving-season thing: | Morro Bay      | Perfect Union, <a href="#" class="map-link" data-lat="35.365926" data-lon="-120.836902" data-zoom="17" data-label="Perfect Union">1000 Quintana Rd.</a> (must be age 18+? 21+?; ask security for pantry) | daily, 8am–9pm | -->
 
 ### <a id="little-free-pantries">Pequeñas Despensas Gratuitas</a>
@@ -814,20 +814,20 @@ Hay disponibilidad limitada, así que si el programa se queda sin créditos pued
 Aprenda más sobre el programa y aplique para unirse en [su sitio web](https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/).
 Los mercados de agricultores que califican incluyen: <!-- Source: https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/docs/SFMNP-List_of_WIC-markets.pdf and https://ecologycenter.org/fmfinder/ -->
 
-| Location           | When                |
+| Ubicación          | Cuándo              |
 | ------------------ | ------------------- |
-| Arroyo Grande      | Saturday afternoon  |
-| Arroyo Grande      | Wednesday morning   |
-| Atascadero         | Wednesday afternoon |
-| Cambria            | Friday afternoon    |
-| Los Osos (Baywood) | Monday afternoon    |
-| Morro Bay          | Saturday afternoon  |
-| Morro Bay          | Thursday afternoon  |
-| Paso Robles        | Tuesday morning     |
-| SLO (downtown)     | Thursday evening    |
-| SLO (Madonna)      | Saturday morning    |
-| SLO (Tank Farm)    | Tuesday afternoon   |
-| Templeton          | Saturday morning    |
+| Arroyo Grande      | sábado por la tarde |
+| Arroyo Grande      | miércoles por la mañana |
+| Atascadero         | miércoles por la tarde |
+| Cambria            | viernes por la tarde |
+| Los Osos (Baywood) | lunes por la tarde  |
+| Morro Bay          | sábado por la tarde |
+| Morro Bay          | jueves por la tarde |
+| Paso Robles        | martes por la mañana |
+| SLO (downtown)     | jueves por la tarde |
+| SLO (Madonna)      | sábado por la mañana |
+| SLO (Tank Farm)    | martes por la tarde |
+| Templeton          | sábado por la mañana |
 
 ### <a id="calfresh-ebt-wic">CalFresh / EBT (Cupones de Alimentos) y WIC</a>
 
@@ -849,17 +849,17 @@ Vea [calfresh.guide](https://calfresh.guide/verifications-the-calfresh-office-re
 
 Algunos mercados de agricultores locales duplicarán hasta $15 en beneficios de CalFresh que gaste en el mercado, para que pueda obtener el doble de alimentos por su dinero (vea [slocountyfarmers.org](https://www.slocountyfarmers.org/snap) para detalles): <!-- Source: https://ecologycenter.org/fmfinder/ -->
 
-| Location           | When                |
+| Ubicación          | Cuándo              |
 | ------------------ | ------------------- |
-| Arroyo Grande      | Wednesday morning   |
-| Atascadero         | Wednesday afternoon |
-| Cambria            | Friday afternoon    |
-| Los Osos (Baywood) | Monday afternoon    |
-| Morro Bay          | Thursday afternoon  |
-| Paso Robles        | Tuesday morning     |
-| SLO (downtown)     | Thursday evening    |
-| SLO (Madonna)      | Saturday morning    |
-| Templeton          | Saturday morning    |
+| Arroyo Grande      | miércoles por la mañana |
+| Atascadero         | miércoles por la tarde |
+| Cambria            | viernes por la tarde |
+| Los Osos (Baywood) | lunes por la tarde  |
+| Morro Bay          | jueves por la tarde |
+| Paso Robles        | martes por la mañana |
+| SLO (downtown)     | jueves por la tarde |
+| SLO (Madonna)      | sábado por la mañana |
+| Templeton          | sábado por la mañana |
 
 El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) también proporciona tarjetas de débito E-WIC con las que puede comprar ciertos tipos de alimentos en mercados de agricultores y tiendas de alimentos aprobadas por WIC. <!-- Sources: https://www.osi.ca.gov/eWIC.html and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
 
@@ -911,21 +911,21 @@ Algunas de estas estaciones están dentro de edificios y solo son accesibles cua
 Otras están afuera y están disponibles las 24 horas.
 Puede encontrar un mapa de estas estaciones de hidratación [en este enlace](https://storymaps.arcgis.com/stories/ac825840143c4d718e06397d5306fa89) o en [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ojOfK6l3mkAh6JIfFJZwA5ej5Qj232No&ll=35.27079109833796%2C-120.65453885&z=15).
 
-| Location                                                                                                                                      | How to find it       | Hours |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----- |
-| <a href="#" class="map-link" data-lat="35.251283" data-lon="-120.645911" data-zoom="17" data-label="Hydration Station">Damon/Garcia field</a> | across from restroom | 24/7 |
-| <a href="#" class="map-link" data-lat="35.280356" data-lon="-120.662272" data-zoom="17" data-label="Hydration Station">872 Higuera St.</a>    | outside              | 24/7 |
-| <a href="#" class="map-link" data-lat="35.2795637" data-lon="-120.6613599" data-zoom="17" data-label="Hydration Station">893 Marsh St.</a>    | outside              | 24/7 |
-| <a href="#" class="map-link" data-lat="35.282128" data-lon="-120.662857" data-zoom="17" data-label="Hydration Station">919 Palm St.</a>       | just inside the door | M–F 8am–4pm |
-| <a href="#" class="map-link" data-lat="35.2828735" data-lon="-120.6626363" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>    | down the hall        | M–F 8am–5pm |
-| <a href="#" class="map-link" data-lat="35.2827766" data-lon="-120.662756" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>     | down the hall        | M–F 8am–5pm |
-| <a href="#" class="map-link" data-lat="35.2827536" data-lon="-120.6626956" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>    | downstairs           | M–F 8am–5pm |
-| <a href="#" class="map-link" data-lat="35.2897302" data-lon="-120.6643515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | near parking lot     | 24/7 |
-| <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | near skate park      | 24/7 |
-| <a href="#" class="map-link" data-lat="35.284345" data-lon="-120.660815" data-zoom="17" data-label="Hydration Station">864 Santa Rosa St.</a> | inside, near gym     | sporadic <!-- According to AskSLO response by email 12/8/25 Ludwick Community Center does not have regular open hours --> |
-| <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | near playground      | 24/7 |
-| <a href="#" class="map-link" data-lat="35.2673584" data-lon="-120.6467609" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | outside statium      | 24/7 |
-| <a href="#" class="map-link" data-lat="35.2666459" data-lon="-120.6446262" data-zoom="17" data-label="Hydration Station">900 Southwood</a>    | in the swim center   | M–F 6–8am, 11:30–3:30pm, 5:30–7pm; Sa/Su 11:30–1:30pm |
+| Ubicación                                                                                                                                     | Cómo encontrarla       | Horario |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------- |
+| <a href="#" class="map-link" data-lat="35.251283" data-lon="-120.645911" data-zoom="17" data-label="Hydration Station">Damon/Garcia field</a> | frente al baño         | 24/7 |
+| <a href="#" class="map-link" data-lat="35.280356" data-lon="-120.662272" data-zoom="17" data-label="Hydration Station">872 Higuera St.</a>    | afuera                 | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2795637" data-lon="-120.6613599" data-zoom="17" data-label="Hydration Station">893 Marsh St.</a>    | afuera                 | 24/7 |
+| <a href="#" class="map-link" data-lat="35.282128" data-lon="-120.662857" data-zoom="17" data-label="Hydration Station">919 Palm St.</a>       | justo dentro de la puerta | L–V 8am–4pm |
+| <a href="#" class="map-link" data-lat="35.2828735" data-lon="-120.6626363" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>    | por el pasillo         | L–V 8am–5pm |
+| <a href="#" class="map-link" data-lat="35.2827766" data-lon="-120.662756" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>     | por el pasillo         | L–V 8am–5pm |
+| <a href="#" class="map-link" data-lat="35.2827536" data-lon="-120.6626956" data-zoom="17" data-label="Hydration Station">990 Palm St. </a>    | planta baja            | L–V 8am–5pm |
+| <a href="#" class="map-link" data-lat="35.2897302" data-lon="-120.6643515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | cerca del estacionamiento | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | cerca del parque de patinaje | 24/7 |
+| <a href="#" class="map-link" data-lat="35.284345" data-lon="-120.660815" data-zoom="17" data-label="Hydration Station">864 Santa Rosa St.</a> | adentro, cerca del gimnasio | esporádico <!-- According to AskSLO response by email 12/8/25 Ludwick Community Center does not have regular open hours --> |
+| <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | cerca del área de juegos | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2673584" data-lon="-120.6467609" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | afuera del estadio     | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2666459" data-lon="-120.6446262" data-zoom="17" data-label="Hydration Station">900 Southwood</a>    | en el centro de natación | L–V 6–8am, 11:30–3:30pm, 5:30–7pm; Sa/Do 11:30–1:30pm |
 
 -----
 
