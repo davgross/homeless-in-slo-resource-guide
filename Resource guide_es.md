@@ -3134,9 +3134,9 @@ Muchos programas son gratuitos o de bajo costo.
 
 ### <a id="digital-literacy">Alfabetización Digital: Cómo Usar Computadoras e Internet</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a digital literacy class designed to teach you basic to intermediate computer skills with a focus on communication and productivity using Google’s free suite of apps. <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform -->
-Computers are provided for use in class. <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform -->
-To register, submit [this online form](https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform).
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece una clase de alfabetización digital diseñada para enseñarle habilidades informáticas básicas a intermedias con enfoque en comunicación y productividad usando el conjunto gratuito de aplicaciones de Google. <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform -->
+Se proporcionan computadoras para usar en la clase. <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform -->
+Para registrarse, envíe [este formulario en línea](https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform).
 
 Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) ofrecen cursos gratuitos de habilidades informáticas básicas y cursos en herramientas de Amazon Web Services en su [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
 También tienen un conjunto de [tutoriales en video](https://my.nicheacademy.com/slolibrary) que incluyen habilidades informáticas básicas así como guías para cómo usar varias herramientas informáticas populares (como Gmail, Facebook, Microsoft Office e Instagram).
@@ -3146,7 +3146,7 @@ Contácteles en [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwi
 
 El [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (Centro para Personas Mayores de Paso Robles) tiene dos computadoras que puede usar en el sitio, y ofrecen asistencia gratuita y sesiones de tutoría uno a uno. <!-- Source: https://www.prcity.com/293/Senior-Services -->
 
-[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) periodically has “tech help” sessions at which an expert is available to help with your technical challenges or to teach you a new skill. <!-- Source: https://atascaderoseniorcenter.org/ -->
+[**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) (Centro para Personas Mayores de Atascadero) periódicamente tiene sesiones de "ayuda técnica" (tech help) en las que un experto está disponible para ayudar con sus desafíos técnicos o para enseñarle una nueva habilidad. <!-- Source: https://atascaderoseniorcenter.org/ -->
 
 [**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) (Servicios de Recreación de Arroyo Grande) ofrece una clase de iPhone Básico para Personas Mayores. <!-- Source: https://secure.rec1.com/CA/arroyo-grande-ca/catalog/index/bd509698909ad3af1fbf44b22ff80a27?filter=c2VhcmNoPQ== -->
 
@@ -3155,16 +3155,16 @@ El [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (Cent
 Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) tienen no solo libros, sino bases de datos de investigación en línea, computadoras con acceso a internet, sesiones de práctica de conversación en inglés y varios programas de [aprendizaje en línea](https://catalog.slolibrary.org/online-learning).
 <!-- Sources: https://catalog.slolibrary.org/tlc and https://catalog.slolibrary.org/online-learning -->
 
-Cal Poly’s [Robert E. Kennedy Library](https://library.calpoly.edu/) is a resource not just for Cal Poly students and faculty but for the inhabitants of the Central Coast in general. <!-- Source: https://library.calpoly.edu/about/policies -->
-The library supports the principle of open access to its collections by the community and region. <!-- Source: https://library.calpoly.edu/about/policies -->
-Members of the community can come to the library during main library opening hours and can access most databases while on the premises by bringing their own device and signing onto Cal Poly guest wireless. <!-- Source: https://library.calpoly.edu/about/policies -->
+La [Robert E. Kennedy Library](https://library.calpoly.edu/) de Cal Poly es un recurso no solo para estudiantes y profesores de Cal Poly sino para los habitantes de la Costa Central en general. <!-- Source: https://library.calpoly.edu/about/policies -->
+La biblioteca apoya el principio de acceso abierto a sus colecciones por la comunidad y la región. <!-- Source: https://library.calpoly.edu/about/policies -->
+Los miembros de la comunidad pueden venir a la biblioteca durante las horas de apertura de la biblioteca principal y pueden acceder a la mayoría de las bases de datos mientras estén en las instalaciones trayendo su propio dispositivo y conectándose a la red inalámbrica para invitados de Cal Poly. <!-- Source: https://library.calpoly.edu/about/policies -->
 
-Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) and “Little Free Libraries.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
-Little Free Libraries are boxes in public areas (for example adjacent to sidewalks) where people leave books they are giving away.
-Anyone is free to take books for their own use from Little Free Libraries.
-There is no check-out/check-in procedure. Just take what you want to read, or leave what you’re finished reading.
-They are typically open 24-hours a day, every day.
-See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Directory for a list of dozens of them in SLO County.
+Bibliotecas más pequeñas con colecciones más eclécticas incluyen la biblioteca de préstamo en el [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (Centro para Personas Mayores de Paso Robles) y las "Little Free Libraries" (Pequeñas Bibliotecas Gratuitas). <!-- Source: https://www.prcity.com/293/Senior-Services -->
+Las Little Free Libraries son cajas en áreas públicas (por ejemplo adyacentes a las aceras) donde las personas dejan libros que están regalando.
+Cualquiera puede tomar libros para su propio uso de las Little Free Libraries.
+No hay un procedimiento de préstamo/devolución. Simplemente tome lo que desee leer, o deje lo que haya terminado de leer.
+Típicamente están abiertas 24 horas al día, todos los días.
+Vea [**Little Free Libraries**](Directory.md#Little-Free-Libraries) en el Directorio para una lista de docenas de ellas en el Condado de SLO.
 
 La [**Biblioteca de Derecho del Condado de SLO**](Directory.md#SLO-County-Law-Library) (SLO County Law Library) le da acceso gratuito a libros y bases de datos relacionados con leyes y tribunales.
 
@@ -3214,12 +3214,12 @@ El programa [Cal-Learn](https://cdss.ca.gov/cal-learn) ayuda a adolescentes emba
 Ayuda con el cuidado de niños, transporte, gastos educativos, e incluso le dará bonos en efectivo por obtener buenas calificaciones o por graduarse. <!-- Source: https://cdss.ca.gov/cal-learn -->
 Solicite este programa a través del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) (Departamento de Servicios Sociales del Condado de SLO) o contacte a [Cal-Learn@dss.ca.gov](mailto:Cal-Learn@dss.ca.gov) si tiene preguntas. <!-- Source: https://cdss.ca.gov/cal-learn -->
 
-The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
-To access this program, contact [the liaison for your school district](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) or contact the County Office of Education at [805-782-7268](tel:+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org). <!-- Source: https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/ -->
+El ["Programa de Coordinación de Servicios para Jóvenes sin Hogar y de Crianza Temporal"](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) (Homeless and Foster Youth Services Coordinating Program) de la Oficina de Educación del Condado de SLO puede ayudar a jóvenes sin hogar y de crianza temporal a manejar su inscripción en la escuela, incluyendo elegir a qué escuela asistir, obtener la transferencia de sus registros de escuelas anteriores, y encontrar recursos que les serán útiles.
+Para acceder a este programa, contacte al [enlace de su distrito escolar](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) o contacte a la Oficina de Educación del Condado en [805-782-7268](tel:+1-805-782-7268) o [jthomas@slocoe.org](mailto:jthomas@slocoe.org). <!-- Source: https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/ -->
 
 ### <a id="esl">Inglés como Segundo Idioma (ESL)</a>
 
-English as a Second Language (ESL) classes are for learners who already have another native or “mother” language, and they want to learn English as well.
+Las clases de Inglés como Segundo Idioma (ESL - English as a Second Language) son para estudiantes que ya tienen otro idioma nativo o "materno", y desean aprender inglés también.
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) ofrece [clases gratuitas de ESL](https://ae.slcusd.org/hsd-esl/english-as-a-second-language) en Morro Bay y San Luis Obispo.
 
@@ -3240,8 +3240,8 @@ El programa de Educación Continua (Continuing Education) de [**Cuesta College**
 
 ### <a id="veterans-education">Para Veteranos Militares de los Estados Unidos</a>
 
-As a U.S. military veteran, you may qualify for [“GI Bill” education benefits](https://www.va.gov/education/about-gi-bill-benefits/) that can help you pay for school and cover expenses while you’re training for a job.
-You can apply for these benefits [online at the Veterans Affairs website](https://www.va.gov/education/how-to-apply/) or by phone at [888-442-4551](tel:+1-888-442-4551). <!-- Source: https://www.va.gov/education/how-to-apply/ -->
+Como veterano militar de los Estados Unidos, puede calificar para [beneficios educativos de la "GI Bill"](https://www.va.gov/education/about-gi-bill-benefits/) que pueden ayudarle a pagar la escuela y cubrir gastos mientras se capacita para un trabajo.
+Puede solicitar estos beneficios [en línea en el sitio web de Asuntos de Veteranos](https://www.va.gov/education/how-to-apply/) o por teléfono al [888-442-4551](tel:+1-888-442-4551). <!-- Source: https://www.va.gov/education/how-to-apply/ -->
 
 Si no fue dado de baja deshonrosamente y si tiene una calificación de discapacidad relacionada con el servicio de al menos 10% del Departamento de Asuntos de Veteranos (Department of Veterans Affairs), puede ser elegible para el programa Veteran Readiness & Employment (VR&E) (Preparación y Empleo para Veteranos). <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
 VR&E puede ayudarle con capacitación laboral, educación y asesoramiento en habilidades de búsqueda de empleo. <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
@@ -3323,19 +3323,19 @@ Los servicios incluyen terapia y otros servicios de salud mental, facilitar el c
 También ayudan a familias que experimentan la falta de hogar a mudarse a vivienda segura (Family Care Network opera complejos habitacionales para este propósito). <!-- SOURCE NEEDED (issue #36) -->
 Ofrecen servicios en inglés y español. <!-- SOURCE NEEDED (issue #36) -->
 
-The [SLO Children’s Museum](https://www.slocm.org/) is full of interactive exhibits for children aged 2–10. <!-- Source: https://www.slocm.org/visit -->
-If you are “housing insecure” you can get a free “City Play Pass” to the museum from [**CAPSLO**](Directory.md#CAPSLO). <!-- Source: https://www.slocm.org/ -->
-If you have a SNAP/EBT card, you can also get up to four admissions for $3 each. <!-- Source: https://www.slocm.org/visit -->
-Open Th–M 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children’s Museum">1010 Nipomo St., SLO</a>. <!-- Source: https://www.slocm.org/ -->
-For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:info@slocm.org). <!-- Source: https://www.slocm.org/ -->
+El [SLO Children's Museum](https://www.slocm.org/) (Museo de Niños de SLO) está lleno de exhibiciones interactivas para niños de 2–10 años. <!-- Source: https://www.slocm.org/visit -->
+Si tiene "vivienda insegura" (housing insecure) puede obtener un "City Play Pass" (Pase de Juego de la Ciudad) gratuito al museo de [**CAPSLO**](Directory.md#CAPSLO). <!-- Source: https://www.slocm.org/ -->
+Si tiene una tarjeta SNAP/EBT, también puede obtener hasta cuatro admisiones por $3 cada una. <!-- Source: https://www.slocm.org/visit -->
+Abierto Ju–L 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children's Museum">1010 Nipomo St., SLO</a>. <!-- Source: https://www.slocm.org/ -->
+Para más información: [805-544-KIDS](tel:+1-805-544-5437) o [info@slocm.org](mailto:info@slocm.org). <!-- Source: https://www.slocm.org/ -->
 
 [**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) opera una [biblioteca de préstamo de juguetes](https://capslo.org/toylendinglibrary/).
 
-[**California Servicios para Niños**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/ProgramOverview.aspx -->
+[**California Servicios para Niños**](Directory.md#California-Childrens-Services) paga y ayuda a organizar visitas al médico, estancias en el hospital, cirugía, terapia física, pruebas, equipo médico, etc. para niños y jóvenes cuyos padres de otro modo no podrían pagarlo. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/ProgramOverview.aspx -->
 
-[**Martha’s Place Children’s Center**](Directory.md#Marthas-Place-Childrens-Center) helps children ages 0–5 who have (or may have) behavioral or mental health issues or who were exposed to alcohol or other intoxicants while in the womb. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
-It provides screening, assessment, referral, and treatment. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
-These services are free to people with Medi-Cal/CenCal coverage, and available on a sliding feed schedule otherwise. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
+[**Martha's Place Children's Center**](Directory.md#Marthas-Place-Childrens-Center) ayuda a niños de 0–5 años que tienen (o pueden tener) problemas de comportamiento o salud mental o que estuvieron expuestos a alcohol u otros intoxicantes mientras estaban en el útero. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
+Proporciona evaluación, valoración, referencias, y tratamiento. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
+Estos servicios son gratuitos para personas con cobertura de Medi-Cal/CenCal, y están disponibles en un programa de tarifas ajustadas de otro modo. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 
 > Vea [CalFresh / EBT (Cupones de Alimentos) y WIC](#calfresh-ebt-wic) en la sección [Recursos de Alimentos](#food) de esta guía para información sobre el programa de Mujeres, Bebés y Niños (WIC - Women, Infants, and Children).
 
@@ -3355,8 +3355,8 @@ Hay becas disponibles que cubren parte de las tarifas de clase para personas con
 
 La [Clase Triple P Fear Less](https://www.t-mha.org/workshop-details.php?id=80) gratuita ofrecida por [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) ayuda a padres y cuidadores de niños (edades 6–14) que experimentan ansiedad a fomentar niños seguros y saludables, cultivar relaciones familiares fuertes y abordar efectivamente el mal comportamiento.
 
-[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) has a “baby bank” from which you can get free maternity and breastfeeding supplies, diapers, baby wipes, formula, safe sleep equipment, child car seats, books, and toys. <!-- Source: https://www.ppsslo.org/practical-assistance -->
-(Car seat installation by appointment only.) <!-- Source: https://www.ppsslo.org/practical-assistance -->
+[**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) tiene un "banco de bebés" (baby bank) del cual puede obtener suministros gratuitos de maternidad y lactancia, pañales, toallitas húmedas para bebés, fórmula, equipo de sueño seguro, asientos de auto para niños, libros y juguetes. <!-- Source: https://www.ppsslo.org/practical-assistance -->
+(Instalación de asientos de auto solo con cita previa.) <!-- Source: https://www.ppsslo.org/practical-assistance -->
 
 > Vea la sección [Grupos de Apoyo entre Pares: Embarazo y Paternidad/Maternidad](#parenthood-peer-support) para información sobre una variedad de grupos de apoyo para nuevos padres y personas embarazadas.
 
@@ -3370,16 +3370,16 @@ Si está en el [**Programa de Asistencia para Personas sin Hogar CalWORKs**](Dir
 De lo contrario [complete una solicitud en línea](https://app.mycareconnect.io/carewait/capslo) o llame al [888-727-2272](tel:+1-888-727-2272) para comenzar el proceso de solicitar a través del Programa de Pago Alternativo de California (California Alternative Payment Program). <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
 Este programa puede tener una lista de espera. <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
 
-[**CAPSLO**](Directory.md#CAPSLO) operates [Head Start and Early Head Start programs](https://capslo.org/head-start-and-early-head-start/) for children during their first five years of life.
-The programs aim to help children gain school readiness skills, confidence, and self-esteem. <!-- Source: https://capslo.org/head-start-and-early-head-start/ -->
-Head Start child care centers also serve children three free meals a day. <!-- Source: https://capslo.org/head-start-and-early-head-start/ -->
-These programs operate in [several locations in SLO County](https://capslo.org/eecc/).
-To enroll your child in these programs, find a service provider that is convenient to you and appropriate for the child’s age and then [apply for the waitlist](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
-For more information, including eligibility requirements, contact [childcare@capslo.org](mailto:childcare@capslo.org) or [888-315-6741](tel:+1-888-315-6741).
+[**CAPSLO**](Directory.md#CAPSLO) opera [programas Head Start y Early Head Start](https://capslo.org/head-start-and-early-head-start/) para niños durante sus primeros cinco años de vida.
+Los programas tienen como objetivo ayudar a los niños a obtener habilidades de preparación escolar, confianza, y autoestima. <!-- Source: https://capslo.org/head-start-and-early-head-start/ -->
+Los centros de cuidado infantil de Head Start también sirven a los niños tres comidas gratuitas al día. <!-- Source: https://capslo.org/head-start-and-early-head-start/ -->
+Estos programas operan en [varias ubicaciones en el Condado de SLO](https://capslo.org/eecc/).
+Para inscribir a su hijo en estos programas, encuentre un proveedor de servicios que sea conveniente para usted y apropiado para la edad del niño y luego [solicite la lista de espera](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
+Para más información, incluyendo requisitos de elegibilidad, contacte a [childcare@capslo.org](mailto:childcare@capslo.org) o [888-315-6741](tel:+1-888-315-6741).
 
-There is also a “Migrant and Seasonal Head Start” program designed specifically for the children of migrant farm workers. <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
-You can apply for that program by completing [the form on this page](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
-For more information, contact [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) or [888-633-6747](tel:+1-888-633-6747). <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
+También hay un programa "Migrant and Seasonal Head Start" (Head Start para Migrantes y Temporeros) diseñado específicamente para los hijos de trabajadores agrícolas migrantes. <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
+Puede solicitar ese programa completando [el formulario en esta página](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
+Para más información, contacte a [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) o [888-633-6747](tel:+1-888-633-6747). <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
 
 [Bright Futures](http://luciamarschools.org/251185_2) es un programa en el Distrito Escolar Unificado de Lucia Mar que da a estudiantes de K-8 un ambiente seguro antes y después de la escuela incluyendo apoyo académico y clases de enriquecimiento, así como una cena gratuita. <!-- Source: https://www.luciamarschools.org/251185_2 -->
 Hay espacios limitados disponibles, y a veces hay una lista de espera. <!-- SOURCE NEEDED -->
@@ -3403,26 +3403,26 @@ Hay dos capítulos de Boys & Girls Clubs en el Condado de SLO:
 Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) que califican para [Programas y Servicios de Oportunidades Extendidas](https://www.cuesta.edu/student-support/support-programs/eops/) (Extended Opportunity Programs and Services) y que son jefes de hogar solteros pueden obtener ayuda para pagar servicios de cuidado infantil de [Cooperative Agencies Resources for Education (CARE)](https://www.cuesta.edu/student-support/support-programs/eops/care.html) (Recursos de Agencias Cooperativas para la Educación).
 Contacte a [cafecenters@cuesta.edu](mailto:cafecenters@cuesta.edu) o [805-546-3144](tel:+1-805-546-3144) para aprender cómo solicitar.
 
-[**SLO County YMCA**](Directory.md#SLO-County-YMCA) offers [one hour of childcare](https://www.ciymca.org/child-watch) to members while they are exercising at the facility. <!-- https://status.ciymca.org/ -->
-You must reserve this at least one hour in advance. <!-- https://www.ciymca.org/childwatch-schedule#/results?locations=932&start_date=2025-12-10&page=1&sort=start_datetime:asc -->
-They also operate [summer camps](https://www.ciymca.org/summer-camp) for children and teens.
-They also operate before- and after-school care, and programs during school holidays and breaks, featuring homework help, enriching activities, and healthy snacks. <!-- Source: https://www.ciymca.org/school-age-care and https://www.ciymca.org/childcare-sites -->
-There is sometimes a wait list to apply for these [School Age Care](https://channel.recliquecore.com/programs/21393244/san-luis-obispo-school-age-care/) and [School’s Out Care](https://channel.recliquecore.com/programs/1291/school-s-out-care/?locations=140) programs.
-They occasionally offer [Kid’s Night Out](https://channel.recliquecore.com/programs/1269/kid-s-night-out/?locations=140) evening childcare programs too.
-[Financial assistance](https://www.ciymca.org/financial-assistance) is available to ensure that you can afford these programs.
+[**SLO County YMCA**](Directory.md#SLO-County-YMCA) ofrece [una hora de cuidado infantil](https://www.ciymca.org/child-watch) a los miembros mientras hacen ejercicio en las instalaciones. <!-- https://status.ciymca.org/ -->
+Debe reservar esto con al menos una hora de anticipación. <!-- https://www.ciymca.org/childwatch-schedule#/results?locations=932&start_date=2025-12-10&page=1&sort=start_datetime:asc -->
+También operan [campamentos de verano](https://www.ciymca.org/summer-camp) para niños y adolescentes.
+También operan cuidado antes y después de la escuela, y programas durante feriados escolares y recesos, que incluyen ayuda con tareas, actividades enriquecedoras, y bocadillos saludables. <!-- Source: https://www.ciymca.org/school-age-care and https://www.ciymca.org/childcare-sites -->
+A veces hay una lista de espera para solicitar estos programas [School Age Care](https://channel.recliquecore.com/programs/21393244/san-luis-obispo-school-age-care/) (Cuidado para Edad Escolar) y [School's Out Care](https://channel.recliquecore.com/programs/1291/school-s-out-care/?locations=140) (Cuidado Cuando No Hay Escuela).
+Ocasionalmente también ofrecen programas de cuidado infantil vespertino [Kid's Night Out](https://channel.recliquecore.com/programs/1269/kid-s-night-out/?locations=140) (Noche de Niños).
+[Asistencia financiera](https://www.ciymca.org/financial-assistance) está disponible para asegurar que pueda pagar estos programas.
 
 > Vea [Sitios de Comidas de Verano (para Niños)](#summer-meal-sites) en la sección [Recursos de Alimentos](#food) de esta guía para información sobre cómo los niños pueden obtener comidas durante los meses de verano cuando no hay escuela.
 
 ### <a id="holiday-gifts-for-children">Regalos de Temporada para Niños</a>
 
-There are several programs in SLO County that provide gifts for children during the holiday season.
-You typically need to apply a month or so ahead of time to receive these gifts.
-You may need to upload documents such as the children’s birth certificates to prove eligibility and proof of residence.
+Hay varios programas en el Condado de SLO que proveen regalos para niños durante la temporada de fiestas.
+Típicamente necesita solicitar con un mes o más de anticipación para recibir estos regalos.
+Puede necesitar subir documentos como los certificados de nacimiento de los niños para comprobar elegibilidad y comprobante de residencia.
 
 > Vea la sección [Identificaciones y Otros Documentos](#ids-and-other-documents) de esta guía para formas de obtener o reemplazar documentos como estos.
 
-[**Salvation Army**](Directory.md#Salvation-Army) operates the “Angel Tree” program which provides free Christmas gifts for children.
-Register at [this web page](https://www.saangeltree.org/).
+[**Salvation Army**](Directory.md#Salvation-Army) opera el programa "Angel Tree" (Árbol de Ángeles) que provee regalos navideños gratuitos para niños.
+Regístrese en [esta página web](https://www.saangeltree.org/).
 
 El [Banco de Juguetes del Gran Paso Robles](https://www.prtoybank.org/) (Toy Bank of Greater Paso Robles) da juguetes y abrigos a familias con niños de 0–12 años que viven en Paso Robles, San Miguel, Shandon, Bradley y Heritage Ranch y que tienen un ingreso familiar por debajo de la línea federal de pobreza, o están desempleadas, reciben Medi-Cal, reciben SNAP/EBT, o están sin hogar. <!-- Source: https://www.prtoybank.org/general-5 -->
 Para recibir regalos del programa, regístrese en noviembre en [esta página web](https://www.prtoybank.org/copy-of-family-registration).
@@ -3437,8 +3437,8 @@ Para más información, contacte al [805-391-4430](tel:+1-805-391-4430) o [atasc
 Toys for Tots también opera en [Cambria/San Simeon](https://cambria-ca.toysfortots.org/).
 Para más información, contacte al [805-927-1876](tel:+1-805-927-1876) o [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). <!-- Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
 
-Some people who are imprisoned at the SLO County Jail’s “Honor Farm” refurbish children’s bicycles so they can be given away as gifts during the holiday season. <!-- SOURCE NEEDED -->
-To apply for a free bicycle for your child, contact your child’s elementary or middle school resource officer. <!-- SOURCE NEEDED -->
+Algunas personas que están encarceladas en la "Granja de Honor" (Honor Farm) de la Cárcel del Condado de SLO restauran bicicletas para niños para que puedan ser regaladas durante la temporada de fiestas. <!-- SOURCE NEEDED -->
+Para solicitar una bicicleta gratuita para su hijo, contacte al oficial de recursos de la escuela primaria o secundaria de su hijo. <!-- SOURCE NEEDED -->
 
 > Vea la sección [Cosas (Mayormente) Gratuitas](#miscellaneous-free-items) de esta guía para más ideas posibles de regalos.
 
@@ -3494,8 +3494,8 @@ La falta de hogar, según la define la Ley McKinney-Vento, también incluye situ
 Cada distrito escolar tiene un enlace McKinney-Vento a quien puede acudir si necesita ayuda para defender estos derechos.
 Puede encontrar [una lista de estos enlaces y su información de contacto](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) en el sitio web de la Oficina de Educación del Condado de SLO.
 
-The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
-To access this program, contact the McKinney-Vento liaison for your school district or contact the County Office of Education at [805-782-7268](tel:+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org).
+El ["Programa de Coordinación de Servicios para Jóvenes sin Hogar y de Crianza Temporal"](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) (Homeless and Foster Youth Services Coordinating Program) de la Oficina de Educación del Condado de SLO puede ayudar a jóvenes sin hogar y de crianza temporal a manejar su inscripción en la escuela, incluyendo elegir a qué escuela asistir, obtener la transferencia de sus registros de escuelas anteriores, y encontrar recursos que les serán útiles.
+Para acceder a este programa, contacte al enlace McKinney-Vento de su distrito escolar o contacte a la Oficina de Educación del Condado en [805-782-7268](tel:+1-805-782-7268) o [jthomas@slocoe.org](mailto:jthomas@slocoe.org).
 
 > Vea [Diplomas de Secundaria y sus Equivalentes](#diploma-ged-hiset) en la sección [Educación](#education-job-skills-training) de esta guía para maneras de mantenerse en camino para obtener su diploma.
 
@@ -3549,9 +3549,9 @@ Estos son algunos de ellos:
 
 ### <a id="conditions-peer-support">Discapacidades, Condiciones Médicas y Enfermedades Mentales</a>
 
-**Alzheimer’s disease:** There are monthly [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups) for caregivers and other people affected by Alzheimer’s disease in Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles, and SLO, as well as online.
-There are also support groups for people recently diagnosed, and for people suffering bereavement because of a loved one with dementia.
-To register for a group, call [800-272-3900](tel:+1-800-272-3900).
+**Enfermedad de Alzheimer:** Hay [grupos de apoyo mensuales para Alzheimer](https://www.alz.org/cacentralcoast/support/supportgroups) para cuidadores y otras personas afectadas por la enfermedad de Alzheimer en Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles, y SLO, así como en línea.
+También hay grupos de apoyo para personas recientemente diagnosticadas, y para personas que sufren duelo debido a un ser querido con demencia.
+Para registrarse para un grupo, llame al [800-272-3900](tel:+1-800-272-3900).
 
 **Esclerosis lateral amiotrófica (ALS):** Un grupo de apoyo para ALS se reúne mensualmente vía Zoom.
 Para unirse, contacte a la organizadora Julie Scurich en [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) o [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/ -->
@@ -3564,8 +3564,8 @@ El [Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/loca
 Estos incluyen grupos [para pacientes con cáncer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) y [cáncer avanzado](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), y grupos para personas con tipos específicos de cáncer, como cánceres de la [sangre](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [seno](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf) o [próstata](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
 Para registrarse, llame al HCRC al [805-542-6234](tel:+1-805-542-6234) o envíe un correo electrónico a [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
 
-**Caregivers:** The [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) has several support groups, some of which meet online, others in SLO or Morro Bay.
-They include groups for caregivers of people with dementia, for LGBTQ caregivers, for caregivers of Parkinson’s disease patients, and groups that are conducted in Spanish.
+**Cuidadores:** El [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) (Centro de Recursos para Cuidadores de la Costa) tiene varios grupos de apoyo, algunos de los cuales se reúnen en línea, otros en SLO o Morro Bay.
+Incluyen grupos para cuidadores de personas con demencia, para cuidadores LGBTQ, para cuidadores de pacientes con enfermedad de Parkinson, y grupos que se conducen en español.
 
 **Diabetes:** [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga un [grupo de apoyo para diabetes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes) trimestral.
 
@@ -3575,8 +3575,8 @@ Contacte a [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) p
 [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) (Asociación de Salud Mental Transitions) tiene [grupos de apoyo](https://www.t-mha.org/family-support-groups.php) semanales en persona y en Zoom para personas con seres queridos que experimentan enfermedad mental, en inglés y en español.
 También tienen una variedad de [grupos de apoyo en persona](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) y reuniones más informales para personas con enfermedad mental, así como varios grupos de apoyo virtuales/en línea.
 
-**Parkinson’s disease:** The Central Coast Parkinson Association holds monthly in-person [support groups](https://www.myccpa.org/support-groups) in Atascadero, Morro Bay, Pismo Beach, and San Luis Obispo.
-They also hold a monthly, online support group, and a monthly in-person group in Paso Robles, for caregivers only.
+**Enfermedad de Parkinson:** La Central Coast Parkinson Association (Asociación de Parkinson de la Costa Central) lleva a cabo [grupos de apoyo](https://www.myccpa.org/support-groups) mensuales en persona en Atascadero, Morro Bay, Pismo Beach, y San Luis Obispo.
+También llevan a cabo un grupo de apoyo mensual en línea, y un grupo mensual en persona en Paso Robles, solo para cuidadores.
 
 **Derrame cerebral:** [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) alberga un [grupo de apoyo para derrame cerebral](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups) mensual.
 [**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) alberga un grupo de [esperanza para sobrevivientes de derrames cerebrales](https://www.stroke.org/en/stroke-groups/hope-for-stroke-survivors-ahsl) para personas que han tenido derrames cerebrales y para sus cuidadores.
@@ -3616,7 +3616,7 @@ Contacte a [libby@thebroadwaydietitian.com](mailto:libby@thebroadwaydietitian.co
 El [**GALA Pride & Diversity Center**](Directory.md#GALA) (Centro de Orgullo y Diversidad GALA) mantiene [una lista de grupos de apoyo](https://galacc.org/resources/#support), incluyendo:
 
 - **Grupo de apoyo mensual trans/genderqueer dirigido por terapeuta**—contacte a [laurenphelpsmft@gmail.com](mailto:laurenphelpsmft@gmail.com) para más información
-- **“Q” Youth** (grades 6–12)—contact [youthdirector@galacc.org](mailto:youthdirector@galacc.org) or drop-in at GALA any Thursday from 6–8pm
+- **"Q" Youth** (grados 6–12)—contacte a [youthdirector@galacc.org](mailto:youthdirector@galacc.org) o visite GALA cualquier jueves de 6–8pm sin cita previa
 - [Grupo de apoyo para adolescentes trans y de género no conforme](https://1af473-cd.myshopify.com/pages/tcc-youth-support-group)
 - [Grupo de apoyo para adultos trans y de género no conforme](https://1af473-cd.myshopify.com/pages/tcc-tuesdays-adult-support-group)
 - [Grupo de apoyo para personas transmasculinas y de género no conforme con identificación masculina](https://1af473-cd.myshopify.com/pages/tcc-transmasc-support-group)
@@ -3625,12 +3625,12 @@ El [**GALA Pride & Diversity Center**](Directory.md#GALA) (Centro de Orgullo y D
 
 ### <a id="parenthood-peer-support">Embarazo y Paternidad/Maternidad</a>
 
-[**Adventist Health Twin Cities**](Directory.md#Adventist-Health-Twin-Cities) hosts [“Newborn and Parent Support”](https://www.adventisthealth.org/central-coast/events/ahtc-newborn-and-parent-support-naps) and [“Navigating Motherhood”](https://www.adventisthealth.org/central-coast/events/ahtc-navigating-motherhood) weekly support groups.
+[**Adventist Health Twin Cities**](Directory.md#Adventist-Health-Twin-Cities) alberga los grupos de apoyo semanales ["Newborn and Parent Support"](https://www.adventisthealth.org/central-coast/events/ahtc-newborn-and-parent-support-naps) (Apoyo para Recién Nacidos y Padres) y ["Navigating Motherhood"](https://www.adventisthealth.org/central-coast/events/ahtc-navigating-motherhood) (Navegando la Maternidad).
 
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) operates the online weekly support group [“The Mommy Hour”](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/maternity/maternal-emotional-wellness).
-To join, contact facilitator Wendy Beres at [wendy.beres@dignityhealth.org](mailto:wendy.beres@dignityhealth.org) or [805-541-2229](tel:+1-805-541-2229).
-They also host a [“Bellies and Babies”](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) weekly in-person support group.
-For more information call [805-542-6659](tel:+1-805-542-6659).
+[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) opera el grupo de apoyo semanal en línea ["The Mommy Hour"](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/maternity/maternal-emotional-wellness) (La Hora de Mamá).
+Para unirse, contacte a la facilitadora Wendy Beres en [wendy.beres@dignityhealth.org](mailto:wendy.beres@dignityhealth.org) o [805-541-2229](tel:+1-805-541-2229).
+También albergan un grupo de apoyo semanal en persona ["Bellies and Babies"](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) (Barrigas y Bebés).
+Para más información llame al [805-542-6659](tel:+1-805-542-6659).
 
 Hay un grupo de apoyo [Moms Club](https://momsclubofatascadero.weebly.com/) (Club de Mamás) en Atascadero que también cubre Templeton, Paso Robles y San Miguel.
 Escriba a [atownmoms@gmail.com](mailto:atownmoms@gmail.com) para más información.
@@ -3638,8 +3638,8 @@ Escriba a [atownmoms@gmail.com](mailto:atownmoms@gmail.com) para más informaci�
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) alberga [Parent Cafés](https://capslo.org/Pops2/) (Cafés para Padres) y [grupos POPS2](https://capslo.org/Pops2/) (para padres específicamente) con cuidado infantil y una comida proporcionada.
 Para detalles sobre cómo unirse, contacte a [pops@capslo.org](mailto:pops@capslo.org) o [805-295-1628](tel:+1-805-295-1628).
 
-[Pacific Midwifery](https://pacificmidwiferycare.com/) offers free “MaMa Mentoring” groups on Tuesdays in Arroyo Grande.
-Contact [megan@pacificmidwiferycare.com](mailto:megan@pacificmidwiferycare.com) ([805-994-0446](tel:+1-805-994-0446)) for details.
+[Pacific Midwifery](https://pacificmidwiferycare.com/) ofrece grupos gratuitos de "MaMa Mentoring" (Mentoría MaMa) los martes en Arroyo Grande.
+Contacte a [megan@pacificmidwiferycare.com](mailto:megan@pacificmidwiferycare.com) ([805-994-0446](tel:+1-805-994-0446)) para detalles.
 
 Postpartum Support International (Apoyo Posparto Internacional) también organiza [muchos grupos de apoyo gratuitos en línea](https://postpartum.net/get-help/psi-online-support-meetings/).
 
@@ -3653,14 +3653,14 @@ Postpartum Support International (Apoyo Posparto Internacional) también organiz
 
 ### <a id="fitness">Ejercicio</a>
 
-There are free, outdoor fitness courts with exercise equipment at Emerson Park in SLO (<a href="#" class="map-link" data-lat="35.275738" data-lon="-120.664269" data-zoom="17" data-label="Fitness Court">Pismo St. & Nipomo St.</a>), and behind French Hospital in SLO (<a href="#" class="map-link" data-lat="35.278313" data-lon="-120.652977" data-zoom="17" data-label="Fitness Court">along the bike path between Breck St. and the French Hospital parking lot</a>).
-The “Vita Fitness Courses” in Meadow Park (<a href="#" class="map-link" data-lat="35.267591" data-lon="-120.662198" data-zoom="16" data-label="Vita Fitness Course">between Corrida Drive and South Street in SLO</a>) and around <a href="#" class="map-link" data-lat="35.265279" data-lon="-120.682712" data-zoom="14" data-label="Laguna Lake Park">Laguna Lake Park</a> in SLO have some stations with rudimentary equipment that are designed for fitness exercises.
+Hay canchas de ejercicio (fitness courts) gratuitas al aire libre con equipo de ejercicio en Emerson Park en SLO (<a href="#" class="map-link" data-lat="35.275738" data-lon="-120.664269" data-zoom="17" data-label="Fitness Court">Pismo St. & Nipomo St.</a>), y detrás de French Hospital en SLO (<a href="#" class="map-link" data-lat="35.278313" data-lon="-120.652977" data-zoom="17" data-label="Fitness Court">a lo largo de la vía para bicicletas entre Breck St. y el estacionamiento de French Hospital</a>).
+Los "Vita Fitness Courses" (Cursos de Ejercicio Vita) en Meadow Park (<a href="#" class="map-link" data-lat="35.267591" data-lon="-120.662198" data-zoom="16" data-label="Vita Fitness Course">entre Corrida Drive y South Street en SLO</a>) y alrededor de <a href="#" class="map-link" data-lat="35.265279" data-lon="-120.682712" data-zoom="14" data-label="Laguna Lake Park">Laguna Lake Park</a> en SLO tienen algunas estaciones con equipo rudimentario diseñado para ejercicios de acondicionamiento físico.
 <!-- I couldn’t find anything like this outside of SLO city limits -->
 
-The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (online and in person), aqua fitness classes, swim lessons, and more.
+El [**SLO County YMCA**](Directory.md#SLO-County-YMCA) tiene un gimnasio en la ciudad de SLO con máquinas de pesas, clases de acondicionamiento físico (en línea y en persona), clases de acondicionamiento acuático, lecciones de natación, y más.
 <!-- Sources: https://www.ciymca.org/san-luis-obispo-group-exercise-schedule#/results and https://www.ciymca.org/active-older-adults and https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center/swim-classes-events -->
-Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.” <!-- Source: https://www.ciymca.org/financial-assistance -->
-Ask them about options for people with low incomes.
+La membresía no es gratuita, pero la política del YMCA es que "a nadie se le niega la membresía debido a incapacidad de pagar." <!-- Source: https://www.ciymca.org/financial-assistance -->
+Pregúnteles sobre opciones para personas con bajos ingresos.
 
 [**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) ofrece clases de bajo costo de BarreConnect, ejercicio, respiración somática, Pilates, Tai Chi, yoga y Zumba.
 
@@ -3675,7 +3675,7 @@ Típicamente cuestan dinero, pero hay [un programa de becas](https://www.prcity.
 
 El sitio web [DAREBEE](https://darebee.com/workouts/) tiene más de 2,500 guías de ejercicio ilustradas gratuitas, la mayoría de las cuales no requieren ningún equipo especial.
 
-Some local yoga studios offer occasional “community yoga” classes that are free or on a donation or sliding-scale basis. <!-- Source: e.g. https://thecenterslo.com/schedule Wednesdays at 5:45pm -->
+Algunos estudios de yoga locales ofrecen clases ocasionales de "yoga comunitario" (community yoga) que son gratuitas o basadas en donación o escala ajustada. <!-- Source: e.g. https://thecenterslo.com/schedule Wednesdays at 5:45pm -->
 
 #### Ejercicio para Personas Mayores
 
@@ -3691,9 +3691,9 @@ Some local yoga studios offer occasional “community yoga” classes that are f
 
 [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) ofrece yoga, clases de equilibrio y fuerza, flexercise (ejercicio flexible), ejercicio para artritis y clases de ejercicio cerebral.
 
-[**SLO Senior Center**](Directory.md#SLO-Senior-Center) leads “SLO Hikers & Walkers” hikes of local trails and strolls through downtown, designed for people age 55 and older.
-See the [SLO Hikers & Walkers](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming hikes and walks.
-They also host low-cost yoga classes (the first class is free), a free chair exercise class, and a free strength &amp; balance class, all for people age 55 and older.
+[**SLO Senior Center**](Directory.md#SLO-Senior-Center) (Centro para Personas Mayores de SLO) dirige caminatas de "SLO Hikers & Walkers" (Excursionistas y Caminantes de SLO) por senderos locales y paseos por el centro, diseñados para personas de 55 años en adelante.
+Vea la sección [SLO Hikers & Walkers](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) de la página web del Centro para Personas Mayores de la ciudad para detalles sobre próximas caminatas y paseos.
+También albergan clases de yoga de bajo costo (la primera clase es gratuita), una clase gratuita de ejercicio en silla, y una clase gratuita de fuerza y equilibrio, todas para personas de 55 años en adelante.
 
 ### <a id="recreation-and-socializing">Recreación y Socialización</a>
 
@@ -3723,8 +3723,8 @@ Llame al [805-773-2422](tel:+1-805-773-2422) para detalles. <!-- Source: https:/
 
 Hay [tres campos principales de disc golf](https://slothrowers.com/slo-courses/) en el Condado de SLO y varios otros más pequeños.
 
-The SLO city bicycling community operates several free events, such as bike-in movie nights, group rides, and free bike breakfasts, many of which take place during [“Bike Month”](https://rideshare.org/program/bike-month/) (lately, May).
-The first Thursday of every month, soon after SLO’s downtown farmers’ market, is the “Bike Happening” in which dozens to hundreds of bicyclists do circuits around downtown, hooting and hollering. <!-- Source: been there, done that -DG -->
+La comunidad ciclista de la ciudad de SLO opera varios eventos gratuitos, como noches de películas en bicicleta, paseos en grupo, y desayunos gratuitos en bicicleta, muchos de los cuales tienen lugar durante el ["Mes de la Bicicleta"](https://rideshare.org/program/bike-month/) (Bike Month) (últimamente, mayo).
+El primer jueves de cada mes, poco después del mercado de agricultores del centro de SLO, es el "Bike Happening" (Evento de Bicicletas) en el cual docenas a cientos de ciclistas hacen circuitos alrededor del centro, gritando y celebrando. <!-- Source: been there, done that -DG -->
 
 El club [Bay Osos Folk Dancers](https://bayososfolkdancers.weebly.com/) (Bailarines Folclóricos de Bay Osos) se reúne los martes de 11am–3pm en el [**South Bay Community Center**](Directory.md#South-Bay-Community-Center) para aprender y practicar bailes folclóricos y en línea.
 Se solicitan donaciones para cubrir costos. <!-- Source: https://bayososfolkdancers.weebly.com/ -->
@@ -3747,9 +3747,9 @@ Las lecciones están disponibles (se solicita donación de $2, pelotas y paletas
 
 [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) alberga scrabble, hand & foot, pinochle, meditación y atención plena, tejido, bridge, mahjong, póker, bingo, Mexican train, Rummikub, cribbage, películas, un club de lectura y un grupo de caminata.
 
-[**SLO Senior Center**](Directory.md#SLO-Senior-Center) operates free “Around the Town” tours of local places of interest for people age 55 and older.
-See the [Around the Town](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) section of the city’s Senior Center web page for details on upcoming tours and instructions on how to register.
-They also host bingo, bridge, mahjong, Mexican train dominoes, pinochle, and other activities at various times during the week (some of these are free, some cost a few dollars). <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
+[**SLO Senior Center**](Directory.md#SLO-Senior-Center) (Centro para Personas Mayores de SLO) opera tours gratuitos "Around the Town" (Por el Pueblo) de lugares de interés locales para personas de 55 años en adelante.
+Vea la sección [Around the Town](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) de la página web del Centro para Personas Mayores de la ciudad para detalles sobre próximos tours e instrucciones sobre cómo registrarse.
+También albergan bingo, bridge, mahjong, dominó Mexican train, pinochle, y otras actividades en varios momentos durante la semana (algunas de estas son gratuitas, algunas cuestan unos pocos dólares). <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
 
 -----
 
@@ -3763,10 +3763,10 @@ Puede llamar al [805-781-4407](tel:+1-805-781-4407) para escuchar una grabación
 [**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) (Asociación de la Costa Central para el Bienestar Animal) lleva a cabo distribuciones regulares gratuitas de comida para mascotas en Grover Beach y Oceano. <!-- SOURCE NEEDED (issue #81) -->
 También puede llamar a su línea telefónica de cuidado de mascotas de emergencia para organizar tratamiento veterinario de emergencia. <!-- SOURCE NEEDED (issue #81) -->
 
-[**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws), in partnership with “The Street Dog Coalition,” operates mobile pet wellness clinics in Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano, as well as several sites in Santa Barbara County.
-These provide vaccines, spay/neuter service, health exams, medical care, and pet food assistance. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
-They specialize in care for pets of homeless people. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
-They also operate the “Pet Refuge” program, which can temporarily board pets for people whose housing situation has become unstable or who are temporarily unable to care for their pets. <!-- This is new: https://www.newtimesslo.com/c-a-r-e-4paws-will-offer-boarding-for-pets-living-with-struggling-families/ -->
+[**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws), en asociación con "The Street Dog Coalition" (Coalición del Perro Callejero), opera clínicas móviles de bienestar para mascotas en Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, y Oceano, así como en varios sitios en el Condado de Santa Barbara.
+Estas proveen vacunas, servicio de esterilización/castración, exámenes de salud, atención médica, y asistencia con comida para mascotas. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
+Se especializan en cuidado para mascotas de personas sin hogar. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
+También operan el programa "Pet Refuge" (Refugio para Mascotas), que puede alojar temporalmente mascotas para personas cuya situación de vivienda se ha vuelto inestable o que temporalmente no pueden cuidar a sus mascotas. <!-- This is new: https://www.newtimesslo.com/c-a-r-e-4paws-will-offer-boarding-for-pets-living-with-struggling-families/ -->
 
 [**Woods Humane Society**](Directory.md#Woods-Humane-Society) tiene una [Despensa para Mascotas](https://woodshumanesociety.org/pet-pantry/) (Pet Pantry) para dueños de mascotas que enfrentan desafíos y ofrece asistencia financiera para procedimientos de esterilización/castración.
 También pueden ayudarle a encontrar mascotas perdidas y pueden encontrar nuevos hogares para mascotas cuando sus dueños ya no pueden cuidarlas. <!-- https://woodshumanesociety.org/resources/lost-pet-help/ and https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
@@ -3781,8 +3781,8 @@ No hay cargo para el dueño de la mascota, pero se aprecian las donaciones. <!--
 El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene una perrera para huéspedes (tanto huéspedes durante la noche como huéspedes del centro de calefacción/enfriamiento). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Las mascotas deben tener documentación de vacunas contra la rabia. <!-- SOURCE NEEDED -->
 
-[**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
-They typically happen 3–4 times per academic quarter at various locations around SLO County, often in coordination with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People).
+[**Cal Poly "Doggy Days" Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) (Clínicas Veterinarias "Días de Perritos" de Cal Poly) son clínicas emergentes periódicas que ofrecen cuidado veterinario gratuito incluyendo vacunas, exámenes, y recorte de uñas.
+Típicamente ocurren 3–4 veces por trimestre académico en varias ubicaciones alrededor del Condado de SLO, a menudo en coordinación con otros programas de alcance comunitario como [**Shower the People**](Directory.md#Shower-the-People).
 
 [**Kritter Care**](Directory.md#Kritter-Care), con base en Morro Bay, puede dar comida para perros y gatos, suministros para mascotas y asistencia con facturas veterinarias a dueños de mascotas que tienen solo fondos limitados. <!-- TBD: Need info on how to apply to this program (issue #82) -->
 
@@ -3814,8 +3814,8 @@ Su sitio [ReadySLO.org](https://readyslo.org/) incluye las siguientes secciones:
 1. [EmergencySLO.org](https://www.emergencyslo.org/)—información sobre emergencias en curso, órdenes y advertencias de evacuación, refugios de evacuación y cierres de carreteras
 1. [RecoverSLO.org](https://www.recoverslo.org/)—después de una emergencia, esta página lista algunas maneras de recuperarse de ella
 
-You can register to get local emergency alerts by text message on your phone at [AlertSLO](https://public.alertsense.com/SignUp/?RegionId=1317).
-You can choose which sorts of alerts you are interested in receiving (for example “Flood / Flash Flood” and “Fire”). <!-- Source: https://public.alertsense.com/SignUp/publicUser.aspx?RegionId=1317 -->
+Puede registrarse para recibir alertas de emergencia locales por mensaje de texto en su teléfono en [AlertSLO](https://public.alertsense.com/SignUp/?RegionId=1317).
+Puede elegir qué tipos de alertas le interesa recibir (por ejemplo "Inundación / Inundación Repentina" y "Incendio"). <!-- Source: https://public.alertsense.com/SignUp/publicUser.aspx?RegionId=1317 -->
 
 La [**Red Cross**](Directory.md#Red-Cross) (Cruz Roja) opera refugios de emergencia durante desastres mayores. <!-- SOURCE NEEDED -->
 Usualmente tienen opciones que aceptan mascotas. <!-- SOURCE NEEDED -->
@@ -3864,20 +3864,20 @@ Los centros de calefacción típicamente abren cuando se espera que las temperat
 - [Reportar Crímenes](#reporting-crimes)
 - [Reportar Mala Conducta Gubernamental](#reporting-misconduct)
 
-San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
-Nearly one in four homeless people in the United States lives in California. <!-- Source: “2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S.” United States Department of Housing and Urban Development. December 2024. -->
-California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people. <!-- Source: “2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S.” United States Department of Housing and Urban Development. December 2024. -->
-In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S. <!-- Source: “The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027”, July 20, 2022, p. 5 -->
-The city of San Luis Obispo is one of the top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have to afford to buy a home. <!-- Source: Shibley, Emma K. (June 17, 2025), The income needed to buy a home in major U.S. cities, Consumer Affairs (Journal of Consumer Research) -->
-10% of schoolchildren in SLO County are homeless. <!-- SOURCE NEEDED -->
+El Condado de San Luis Obispo es un lugar especialmente desafiante para las personas que intentan evitar o escapar de la falta de hogar.
+Casi una de cada cuatro personas sin hogar en los Estados Unidos vive en California. <!-- Source: "2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S." United States Department of Housing and Urban Development. December 2024. -->
+California tiene una de las tasas per cápita más altas de falta de hogar en la nación, y el porcentaje más alto de personas sin hogar que no tienen refugio. <!-- Source: "2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S." United States Department of Housing and Urban Development. December 2024. -->
+En el Condado de San Luis Obispo, solo hay camas de refugio suficientes para aproximadamente el 20–30% de las personas que se sabe están sin hogar aquí, por lo que el condado tiene el tercer porcentaje más alto de personas sin hogar *sin refugio* de cualquier condado mayormente rural en los EE.UU. <!-- Source: "The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027", July 20, 2022, p. 5 -->
+La ciudad de San Luis Obispo es una de las diez ciudades más caras en los EE.UU. según cuántos ingresos (relativos al ingreso mediano) debe tener para poder comprar una vivienda. <!-- Source: Shibley, Emma K. (June 17, 2025), The income needed to buy a home in major U.S. cities, Consumer Affairs (Journal of Consumer Research) -->
+El 10% de los niños en edad escolar en el Condado de SLO están sin hogar. <!-- SOURCE NEEDED -->
 
-Why are things especially difficult here?
-There are many reasons, but the most important one is “too few homes for the number of people who need them.” <!-- Source: Streeter, Jialu L. (May 2022). “Homelessness in California: Causes and policy considerations”. Stanford Institute for Economic Policy Research Policy Brief. -->
-The reasons why that is a problem are complicated, but include government policies that reduce the availability of homes and make them more expensive, resource constraints, and high demand.
+¿Por qué las cosas son especialmente difíciles aquí?
+Hay muchas razones, pero la más importante es "muy pocas viviendas para el número de personas que las necesitan." <!-- Source: Streeter, Jialu L. (May 2022). "Homelessness in California: Causes and policy considerations". Stanford Institute for Economic Policy Research Policy Brief. -->
+Las razones por las cuales eso es un problema son complicadas, pero incluyen políticas gubernamentales que reducen la disponibilidad de viviendas y las hacen más caras, restricciones de recursos, y alta demanda.
 
 | **External links** |
 | ------------------ |
-| [Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard): The SLO County Department of Social Services’s summary of the ongoing work of homeless management agencies. |
+| [Quarterly Homelessness Dashboard](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/quarterly-homelessness-dashboard) (Panel Trimestral sobre Falta de Hogar): El resumen del Departamento de Servicios Sociales del Condado de SLO del trabajo continuo de las agencias de gestión de la falta de hogar. |
 | [Wikipedia: Homelessness in California](https://en.wikipedia.org/wiki/Homelessness_in_California) |
 | [*Homelessness is a Housing Problem*](https://homelessnesshousingproblem.com/) by Gregg Colburn & Clayton Page Aldern |
 
@@ -3894,13 +3894,13 @@ Puede solicitar un asiento en este consejo completando [este formulario](https:/
 Las reuniones de este consejo y sus comités están abiertas al público, ya sea en persona, o vía Zoom o teléfono. <!-- SOURCE NEEDED -->
 Visite [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) para horarios de reuniones.
 
-Every two years, typically in January, a census of homeless people in the United States is attempted.
-This is called the [“Point-in-Time Count”](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count).
-This helps the government estimate how many people are homeless, where homeless people are, and what their characteristics are.
-This in turn helps the government decide what policy responses to prioritize.
-You can read [the official report on SLO County’s 2024 Point-in-Time Count](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport).
-The Point-in-Time Count is conducted in part by volunteers. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count -->
-If you would like to help with the Count, email [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us) or register at the [2026 Point-in-Time Count Volunteer Registration](https://forms.office.com/g/8vJ7PUm8yA) page.
+Cada dos años, típicamente en enero, se intenta realizar un censo de personas sin hogar en los Estados Unidos.
+Esto se llama el ["Conteo en un Momento Determinado"](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count) (Point-in-Time Count).
+Esto ayuda al gobierno a estimar cuántas personas están sin hogar, dónde están las personas sin hogar, y cuáles son sus características.
+Esto a su vez ayuda al gobierno a decidir qué respuestas de política priorizar.
+Puede leer [el informe oficial sobre el Conteo en un Momento Determinado 2024 del Condado de SLO](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport).
+El Conteo en un Momento Determinado se lleva a cabo en parte por voluntarios. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count -->
+Si desea ayudar con el Conteo, envíe un correo electrónico a [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us) o regístrese en la página de [Registro de Voluntarios para el Conteo en un Momento Determinado 2026](https://forms.office.com/g/8vJ7PUm8yA) (2026 Point-in-Time Count Volunteer Registration).
 
 [SLOCo YIMBY](https://www.slocoyimby.org/) es un grupo de base que aboga por construir más viviendas en el Condado de SLO, y por cambios de política como legalizar viviendas multifamiliares, agilizar los permisos, aumentar el financiamiento de vivienda asequible y fortalecer las protecciones para inquilinos.
 Movilizan acción ciudadana y campañas de alcance en apoyo de esos objetivos.
@@ -4049,7 +4049,7 @@ Algunos otros grupos ensamblan guías de recursos como esta.
 Algunos tienen un enfoque diferente (por ejemplo, destacan recursos para personas mayores o para veteranos) o cubren una región diferente.
 Aquí hay algunas de estas guías locales:
 
-- [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): a comprehensive guide covering services for seniors in SLO and Santa Barbara Counties. Also exists as a searchable online directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
+- [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/) (Guía de Recursos para Personas Mayores de la Costa Central): una guía integral que cubre servicios para personas mayores en los Condados de SLO y Santa Barbara. También existe como un directorio en línea con búsqueda en [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
 - [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services): available in English and Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, and healthcare
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): United Way’s directory of SLO County resources
