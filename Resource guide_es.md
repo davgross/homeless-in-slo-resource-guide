@@ -1905,106 +1905,106 @@ El [**Alano Club**](Directory.md#Alano-Club) <!-- Source: https://sloalanoclub.o
 
 ## <a id="tattoo-removal">Eliminación de Tatuajes</a>
 
-There are programs available that will erase your tattoos.
-This can help you if you have tattoos that interfere with your ability to get a job or that are suggestive of gang or hate group affiliation.
-Tattoo removal can help you get a fresh start, unburdened by regretful decisions from your past. <!-- Source: https://removery.com/tattoo-removal/ -->
+Hay programas disponibles que borrarán sus tatuajes.
+Esto puede ayudarle si tiene tatuajes que interfieren con su capacidad de conseguir un trabajo o que sugieren afiliación a pandillas o grupos de odio.
+La eliminación de tatuajes puede ayudarle a comenzar de nuevo, sin la carga de decisiones lamentables de su pasado. <!-- Source: https://removery.com/tattoo-removal/ -->
 
-The process of laser tattoo removal takes time.
-Typically you undergo between five and twelve visits, each one lasting about five minutes, over several months.
-In each visit a laser breaks ink particles in your tattoo so that your immune system can remove them. <!-- Source: https://removery.com/tattoo-removal/ -->
-The tattooed area will become red and swollen soon after treatment, but this eventually settles down.
-Sometimes there is some blistering and scabbing.
-You will need to take some care to keep the area of the tattoo clean, and to apply some ointments that assist healing. <!-- Source: https://removery.com/tattoo-removal/aftercare/ -->
+El proceso de eliminación de tatuajes con láser toma tiempo.
+Típicamente se somete a entre cinco y doce visitas, cada una durando aproximadamente cinco minutos, durante varios meses.
+En cada visita un láser rompe las partículas de tinta en su tatuaje para que su sistema inmunológico pueda eliminarlas. <!-- Source: https://removery.com/tattoo-removal/ -->
+El área tatuada se pondrá roja e hinchada poco después del tratamiento, pero esto eventualmente se calma.
+A veces hay algunas ampollas y costras.
+Necesitará tener cuidado de mantener el área del tatuaje limpia y aplicar algunos ungüentos que ayuden a la curación. <!-- Source: https://removery.com/tattoo-removal/aftercare/ -->
 
-The [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) offers laser tattoo removal of gang-related, anti-social, or economically limiting tattoos. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
-You are required to do some hours of community service (or an equivalent financial donation) before each treatment, but there is otherwise no cost. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
-You must agree to remain clean and sober, and to get no more tattoos, during the treatment. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
-This service is offered to people in SLO County <!-- SOURCE NEEDED (https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "San Luis Obispo or Santa Maria") (issue #79) -->
-and the treatments happen in Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ (though https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "at Sierra Vista Regional Medical Center") (issue #79) -->
+El [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) (Programa de Eliminación de Tatuajes Liberty) ofrece eliminación de tatuajes con láser de tatuajes relacionados con pandillas, antisociales o económicamente limitantes. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+Se le requiere hacer algunas horas de servicio comunitario (o una donación financiera equivalente) antes de cada tratamiento, pero por lo demás no hay costo. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+Debe aceptar permanecer limpio y sobrio, y no hacerse más tatuajes, durante el tratamiento. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+Este servicio se ofrece a personas en el condado de SLO <!-- SOURCE NEEDED (https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "San Luis Obispo or Santa Maria") (issue #79) -->
+y los tratamientos ocurren en Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ (though https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "at Sierra Vista Regional Medical Center") (issue #79) -->
 
-[**Catholic Charities**](Directory.md#Catholic-Charities) has a low-cost tattoo removal program ($20–90 per session, on a sliding scale based on ability to pay). <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
-You must also complete 20 hours of community service before beginning treatment. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
-They prioritize the removal of offensive or gang-related tattoos, and will remove both visible-and-obvious tattoos (e.g. the face, the back of the hands) and more discreet ones. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
-Call them to begin the process. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
+[**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) tiene un programa de eliminación de tatuajes de bajo costo ($20–90 por sesión, en una escala variable basada en la capacidad de pago). <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
+También debe completar 20 horas de servicio comunitario antes de comenzar el tratamiento. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
+Priorizan la eliminación de tatuajes ofensivos o relacionados con pandillas, y eliminarán tanto tatuajes visibles y obvios (por ejemplo, la cara, el dorso de las manos) como los más discretos. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
+Llámelos para comenzar el proceso. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 
-The [Removery INK-nitiative Program](https://removery.com/services/ink-nitiative) offers free removal of tattoos, if those tattoos are in visible areas (face, hands, arms) or suggest gang or hate group affiliation, to people who have been incarcerated, are former gang members, or are survivors of domestic abuse or human trafficking. <!-- Source: https://removery.com/services/ink-nitiative/ -->
-Apply on their website. <!-- Source: https://removery.com/services/ink-nitiative/ -->
+El [Removery INK-nitiative Program](https://removery.com/services/ink-nitiative) (Programa INK-nitiative de Removery) ofrece eliminación gratuita de tatuajes, si esos tatuajes están en áreas visibles (cara, manos, brazos) o sugieren afiliación a pandillas o grupos de odio, a personas que han sido encarceladas, son ex miembros de pandillas, o son sobrevivientes de abuso doméstico o tráfico humano. <!-- Source: https://removery.com/services/ink-nitiative/ -->
+Solicite en su sitio web. <!-- Source: https://removery.com/services/ink-nitiative/ -->
 
-The [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) website lists hundreds of other free or low-cost tattoo removal programs throughout the country.
+El sitio web de [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) (De las Cárceles a los Empleos) lista cientos de otros programas de eliminación de tatuajes gratuitos o de bajo costo en todo el país.
 
 -----
 
 ## <a id="end-of-life-help">Cuidado al Final de la Vida, Directivas Anticipadas, Hospicio</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Hospice and Palliative Care Services](#hospice-and-palliative-care)
-- [Advance Directives](#advance-directives)
+- [Servicios de Hospicio y Cuidados Paliativos](#hospice-and-palliative-care)
+- [Directivas Anticipadas](#advance-directives)
 
 ### <a id="hospice-and-palliative-care">Servicios de Hospicio y Cuidados Paliativos</a>
 
-Palliative care is medical treatment that aims to relieve pain and suffering, perhaps alongside medical treatment that hopes to cure or treat some health problem.
+El cuidado paliativo es tratamiento médico que busca aliviar el dolor y el sufrimiento, quizás junto con tratamiento médico que espera curar o tratar algún problema de salud.
 
-Hospice care is meant to make the process of dying less uncomfortable, and is meant for people who do not have realistic hopes of being cured and living long.
-Typically this means they are in their last six months of life.
+El cuidado de hospicio está destinado a hacer el proceso de morir menos incómodo, y está destinado a personas que no tienen esperanzas realistas de ser curadas y vivir mucho.
+Típicamente esto significa que están en sus últimos seis meses de vida.
 
-[**Hospice SLO**](Directory.md#Hospice-SLO) includes non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, and end-of-life companion support. <!-- Source: https://hospiceslo.org/ -->
-All services are provided at no charge (they rely entirely on community donations). <!-- Source: https://hospiceslo.org/ -->
-These services are open to San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life. <!-- Source: https://hospiceslo.org/ -->
+[**Hospice SLO**](Directory.md#Hospice-SLO) incluye apoyo voluntario no médico, asesoramiento de duelo, grupos de apoyo, cuidado de respiro en el hogar, gestión de cuidado y apoyo de compañía al final de la vida. <!-- Source: https://hospiceslo.org/ -->
+Todos los servicios se proporcionan sin cargo (dependen completamente de donaciones comunitarias). <!-- Source: https://hospiceslo.org/ -->
+Estos servicios están abiertos a residentes del condado de San Luis Obispo que están en duelo por una muerte, enfrentando una enfermedad que limita la vida, o enfrentando el final de la vida. <!-- Source: https://hospiceslo.org/ -->
 
-The [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program) provides shelter to terminally ill people who need housing so that they can die in the dignity and stability of housing with the care of hospice. <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
+El [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program) (Programa para Personas Sin Hogar Médicamente Frágiles) proporciona refugio a personas con enfermedades terminales que necesitan vivienda para que puedan morir en la dignidad y estabilidad de una vivienda con el cuidado de hospicio. <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
 
-[**Aevum Home Health**](Directory.md#Aevum) offers palliative care, and accepts Medicare and Medi-Cal. <!-- Source: https://www.aevumhomehealth.com/services -->
-They also have a hospice program.<!-- https://aevumhospice.com/ ; unclear if the hospice program also accepts Medicare and Medi-Cal -->
+[**Aevum Home Health**](Directory.md#Aevum) ofrece cuidado paliativo, y acepta Medicare y Medi-Cal. <!-- Source: https://www.aevumhomehealth.com/services -->
+También tienen un programa de hospicio.<!-- https://aevumhospice.com/ ; unclear if the hospice program also accepts Medicare and Medi-Cal -->
 
-[**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) includes hospice nurse availability, nursing services, spiritual care, dietitian services, social work services, bereavement services, home health aides, trained volunteers, support groups, and musicians. <!-- Source: https://centralcoasthomehealth.com/index.php/hospice/ -->
-They accept Medicare. <!-- Source: https://centralcoasthomehealth.com/index.php/about-us/ -->
+[**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) (Salud en el Hogar y Hospicio de la Costa Central) incluye disponibilidad de enfermera de hospicio, servicios de enfermería, cuidado espiritual, servicios de dietista, servicios de trabajo social, servicios de duelo, asistentes de salud en el hogar, voluntarios capacitados, grupos de apoyo y músicos. <!-- Source: https://centralcoasthomehealth.com/index.php/hospice/ -->
+Aceptan Medicare. <!-- Source: https://centralcoasthomehealth.com/index.php/about-us/ -->
 
-[**Dignity Health**](Directory.md#Dignity-Health) has a Home Health and Hospice program that includes team-oriented medical care, symptom and pain management, and emotional and spiritual support tailored to patient needs. <!-- Source: https://www.dignityhealth.org/central-coast/services/home-health-hospice-and-infusion-services -->
-They accept Medicare and Medi-Cal. <!-- SOURCE NEEDED -->
-They also have financial assistance programs that make hospice treatment free for people below 250% of the federal poverty level, and discounted for people below 400% of the federal poverty level (call [888-488-7667](tel:+1-888-488-7667) or [805-542-6321](tel:+1-805-542-6321) for details). <!-- Source: https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/billing-information/financial-assistance -->
+[**Dignity Health**](Directory.md#Dignity-Health) tiene un programa de Salud en el Hogar y Hospicio que incluye atención médica orientada al equipo, manejo de síntomas y dolor, y apoyo emocional y espiritual adaptado a las necesidades del paciente. <!-- Source: https://www.dignityhealth.org/central-coast/services/home-health-hospice-and-infusion-services -->
+Aceptan Medicare y Medi-Cal. <!-- SOURCE NEEDED -->
+También tienen programas de asistencia financiera que hacen el tratamiento de hospicio gratuito para personas debajo del 250% del nivel federal de pobreza, y con descuento para personas debajo del 400% del nivel federal de pobreza (llame al [888-488-7667](tel:+1-888-488-7667) o [805-542-6321](tel:+1-805-542-6321) para detalles). <!-- Source: https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/billing-information/financial-assistance -->
 
-[**Medi-Cal**](Directory.md#Medi-Cal) ([**CenCal**](Directory.md#CenCal)) recipients who have a life expectancy of six months or less can choose to receive Medi-Cal covered hospice care in lieu of ordinary medical coverage. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2024/12/345_2025-EOC_M-MS-EOCMHC-0125-E_R5_Web.pdf p. 52 -->
-Medi-Cal (CenCal) also covers palliative care as part of its ordinary medical coverage. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2024/12/345_2025-EOC_M-MS-EOCMHC-0125-E_R5_Web.pdf p. 53 -->
+Los receptores de [**Medi-Cal**](Directory.md#Medi-Cal) ([**CenCal**](Directory.md#CenCal)) que tienen una expectativa de vida de seis meses o menos pueden elegir recibir cuidado de hospicio cubierto por Medi-Cal en lugar de cobertura médica ordinaria. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2024/12/345_2025-EOC_M-MS-EOCMHC-0125-E_R5_Web.pdf p. 52 -->
+Medi-Cal (CenCal) también cubre cuidado paliativo como parte de su cobertura médica ordinaria. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2024/12/345_2025-EOC_M-MS-EOCMHC-0125-E_R5_Web.pdf p. 53 -->
 
-Hospice care is part of the Veterans Health Administration (VHA)’s medical benefits package for all enrolled veterans. <!-- Source: https://www.va.gov/geriatrics/pages/Hospice_Care.asp -->
-If you are a veteran who is enrolled with the VHA, and you have a clinical need for end-of-life hospice care, you can get this without a copay through the VHA. <!-- Source: https://www.va.gov/geriatrics/pages/Hospice_Care.asp -->
-Contact the local [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) or call the national department of Veterans Affairs at [800-827-1000](tel:+1-800-827-1000).
+El cuidado de hospicio es parte del paquete de beneficios médicos de la Veterans Health Administration (VHA) (Administración de Salud de Veteranos) para todos los veteranos inscritos. <!-- Source: https://www.va.gov/geriatrics/pages/Hospice_Care.asp -->
+Si usted es un veterano inscrito en la VHA y tiene una necesidad clínica de cuidado de hospicio al final de la vida, puede obtener esto sin copago a través de la VHA. <!-- Source: https://www.va.gov/geriatrics/pages/Hospice_Care.asp -->
+Contacte la [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) (Clínica de Pacientes Externos de la Administración de Veteranos) local o llame al departamento nacional de Asuntos de Veteranos al [800-827-1000](tel:+1-800-827-1000).
 
 ### <a id="advance-directives">Directivas Anticipadas</a>
 
 <!-- See issue #37 -->
 
-Advance Health Care Directives are legal documents that let you communicate your health care wishes in advance, in case you become unable to speak for yourself.
-Sometimes people call these “Living Wills.”
-These documents include:
+Las Directivas Anticipadas de Atención Médica son documentos legales que le permiten comunicar sus deseos de atención médica por adelantado, en caso de que no pueda hablar por usted mismo.
+A veces las personas las llaman "Testamentos en Vida".
+Estos documentos incluyen:
 
-- **Advance Health Care Directives:** Specifies which medical treatments you would or would not want if you become terminally ill or are in a persistent vegetative state
-- **Healthcare Power of Attorney:** Designates a trusted person to make medical decisions for you when you cannot
-- **Physician Orders for Life-Sustaining Treatment (POLST):** You can use this to tell physicians how much they should intervene to try to extend your life
-- **Do Not Resuscitate (DNR) Orders:** Expresses your desire to refuse resuscitation efforts in particular
-- **Organ Donation Authorization:** You give or withhold permission for your organs, tissues, or body parts to be donated when you die, or put conditions on how they can be used
+- **Directivas Anticipadas de Atención Médica:** Especifica qué tratamientos médicos querría o no querría si se vuelve terminalmente enfermo o está en un estado vegetativo persistente
+- **Poder Legal de Atención Médica:** Designa a una persona de confianza para tomar decisiones médicas por usted cuando no puede
+- **Órdenes Médicas para Tratamiento de Soporte Vital (POLST):** Puede usar esto para decirle a los médicos cuánto deben intervenir para intentar extender su vida
+- **Órdenes de No Reanimar (DNR):** Expresa su deseo de rechazar esfuerzos de reanimación en particular
+- **Autorización de Donación de Órganos:** Da o retiene el permiso para que sus órganos, tejidos o partes del cuerpo sean donados cuando muere, o pone condiciones sobre cómo pueden ser usados
 
-These documents help to ensure that your healthcare wishes are respected even if you are incapacitated and cannot express them yourself.
-They usually must be signed by you *and* by certain witnesses to be effective.
-It is a good idea to create such documents *before* you need them, as when you need them you will be preoccupied or unable.
-Give these documents to your healthcare providers so they know to respect your specific preferences.
+Estos documentos ayudan a asegurar que sus deseos de atención médica sean respetados incluso si está incapacitado y no puede expresarlos usted mismo.
+Usualmente deben ser firmados por usted *y* por ciertos testigos para ser efectivos.
+Es una buena idea crear tales documentos *antes* de que los necesite, ya que cuando los necesita estará preocupado o incapaz.
+Entregue estos documentos a sus proveedores de atención médica para que sepan respetar sus preferencias específicas.
 
-The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [The Conversation Project](https://theconversationproject.org/) can help you create advance directive documents that match your needs and your preferences.
-The [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/) website has several varieties of advance directive forms in PDF format that you can review or print.
+Los sitios web gratuitos [PREPARE for Your Care](https://prepareforyourcare.org/) (PREPÁRESE para Su Cuidado) y [The Conversation Project](https://theconversationproject.org/) (El Proyecto de Conversación) pueden ayudarle a crear documentos de directivas anticipadas que coincidan con sus necesidades y preferencias.
+El sitio web [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/) (Formulario de Directiva Anticipada de California) tiene varias variedades de formularios de directivas anticipadas en formato PDF que puede revisar o imprimir.
 
-[**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), <!-- probably via SLOLAF -->
-[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), <!-- SOURCE NEEDED (issue #80) -->
-and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) <!-- Source: https://www.slolaf.org/seniorlaw -->
-can give you free help to make your advance directive documents clear and legally binding.
+[**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) (Proyecto de Servicios Legales para Personas Mayores), <!-- probably via SLOLAF -->
+[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) (Asistencia Legal Rural de California), <!-- SOURCE NEEDED (issue #80) -->
+y [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO) <!-- Source: https://www.slolaf.org/seniorlaw -->
+pueden darle ayuda gratuita para hacer sus documentos de directivas anticipadas claros y legalmente vinculantes.
 
-[**Hospice SLO**](Directory.md#Hospice-SLO) offers advanced directive assistance either in-person at its offices, or by phone or internet conferencing. <!-- Source: https://hospiceslo.org/services/advance-health-care-directive-support -->
+[**Hospice SLO**](Directory.md#Hospice-SLO) ofrece asistencia con directivas anticipadas ya sea en persona en sus oficinas, o por teléfono o videoconferencia por internet. <!-- Source: https://hospiceslo.org/services/advance-health-care-directive-support -->
 
-Your healthcare provider or hospice can help you complete a Physician Orders for Life-Sustaining Treatment (POLST) form. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
-It instructs medical care providers whether they should try to extend your life however they can, or whether they should avoid certain types of burdensome treatments like CPR, feeding tubes, or a mechanical breathing apparatus. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
-A POLST form only works if you or your legally-recognized decision-maker signs it *and* your physician, nurse practitioner, or physician assistant also signs it. <!-- Source: https://capolst.org/polst-for-patients-loved-ones/ -->
-You can change your mind after you submit such a form and can change it or discontinue it. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
-You can learn more about the form and review one online, in several languages, at [capolst.org](https://capolst.org/).
+Su proveedor de atención médica o hospicio puede ayudarle a completar un formulario de Órdenes Médicas para Tratamiento de Soporte Vital (POLST). <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
+Instruye a los proveedores de atención médica si deben intentar extender su vida como puedan, o si deben evitar ciertos tipos de tratamientos onerosos como RCP, tubos de alimentación o un aparato mecánico para respirar. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
+Un formulario POLST solo funciona si usted o su tomador de decisiones legalmente reconocido lo firma *y* su médico, enfermero practicante o asistente médico también lo firma. <!-- Source: https://capolst.org/polst-for-patients-loved-ones/ -->
+Puede cambiar de opinión después de presentar tal formulario y puede cambiarlo o discontinuarlo. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
+Puede aprender más sobre el formulario y revisar uno en línea, en varios idiomas, en [capolst.org](https://capolst.org/).
 
 -----
 
