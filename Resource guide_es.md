@@ -1551,49 +1551,49 @@ El [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) (
 
 [**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) y [**Community Counseling Center**](Directory.md#Community-Counseling-Center) (Centro de Asesoramiento Comunitario) ofrecen asesoramiento de salud mental de bajo costo o sin costo.
 
-A [**Community Health Centers**](Directory.md#CHC) primary care physician can refer you to CHC-provided mental health counseling or psychiatry, which happens over the phone or through internet videoconferencing. <!-- Source: Dan Gross, LCSW @ CHC, personal communication -DG -->
+Un médico de atención primaria de [**Community Health Centers**](Directory.md#CHC) puede referirlo a asesoramiento de salud mental o psiquiatría proporcionada por CHC, que ocurre por teléfono o mediante videoconferencia por internet. <!-- Source: Dan Gross, LCSW @ CHC, personal communication -DG -->
 
-[**Cuesta College**](Directory.md#Cuesta-College) students can get mental health therapy through [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
+Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener terapia de salud mental a través de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
 
-Adult Mental Health Outpatient Treatment (via [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
-and [**Transitions Mental Health Association**](Directory.md#TMHA) <!-- Source: https://www.t-mha.org/clinical-services.php -->
-and its [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
-offer mental health evaluation & treatment, including programs specifically for homeless people.
+El Tratamiento Ambulatorio de Salud Mental para Adultos (a través de [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
+y [**Transitions Mental Health Association**](Directory.md#TMHA) <!-- Source: https://www.t-mha.org/clinical-services.php -->
+y su [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
+ofrecen evaluación y tratamiento de salud mental, incluyendo programas específicamente para personas sin hogar.
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) at [**CAPSLO**](Directory.md#CAPSLO)’s [**40 Prado Homeless Services Center**](Directory.md#40-Prado) includes mental health counseling and treatment. <!-- SOURCE NEEDED (issue #75) -->
-[**SLO Hub**](Directory.md#SLO-Hub) offers weekly mental health therapy sessions to its clients. <!-- SOURCE NEEDED (https://capslo.org/slo-hub/ mentions therapists, but nothing about weekly sessions) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) de [**CAPSLO**](Directory.md#CAPSLO) incluye asesoramiento y tratamiento de salud mental. <!-- SOURCE NEEDED (issue #75) -->
+[**SLO Hub**](Directory.md#SLO-Hub) ofrece sesiones semanales de terapia de salud mental a sus clientes. <!-- SOURCE NEEDED (https://capslo.org/slo-hub/ mentions therapists, but nothing about weekly sessions) -->
 
 [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
-and [**PathPoint**](Directory.md#PathPoint) <!-- Source: https://www.pathpoint.org/services/ -->
-have some services for people with mental health disorders and/or developmental disabilities.
+y [**PathPoint**](Directory.md#PathPoint) <!-- Source: https://www.pathpoint.org/services/ -->
+tienen algunos servicios para personas con trastornos de salud mental y/o discapacidades del desarrollo.
 
-[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) offers some mental health services to people who are deaf or hard of hearing. <!-- Source: https://tcglad.org/mental-health/ -->
+[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) ofrece algunos servicios de salud mental a personas que son sordas o tienen problemas de audición. <!-- Source: https://tcglad.org/mental-health/ -->
 
-The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers mental health care to qualifying U.S. military veterans.
-They say: “All VA health care facilities offer same-day help. You may qualify even without enrolling in VA health care.” <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
-And [**SLO Vet Center**](Directory.md#SLO-Vet-Center) offers confidential counseling and other mental health care to combat veterans (and certain other veterans) and to victims of military sexual trauma. <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
+La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) ofrece atención de salud mental a veteranos militares estadounidenses que califican.
+Dicen: "Todas las instalaciones de atención médica del VA ofrecen ayuda el mismo día. Puede calificar incluso sin inscribirse en la atención médica del VA". <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
+Y [**SLO Vet Center**](Directory.md#SLO-Vet-Center) ofrece asesoramiento confidencial y otra atención de salud mental a veteranos de combate (y ciertos otros veteranos) y a víctimas de trauma sexual militar. <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
 
 ### <a id="reproductive-health">Salud Reproductiva</a>
 
-[**The Center for Health and Prevention**](Directory.md#The-Center) offers contraception, STD testing and treatment, UTI/yeast infection testing and treatment, genital exams, Pap smears, and menopausal services. <!-- Source: https://capslo.org/the-center/ -->
+[**The Center for Health and Prevention**](Directory.md#The-Center) ofrece anticoncepción, pruebas y tratamiento de ETS, pruebas y tratamiento de infecciones urinarias/por hongos, exámenes genitales, pruebas de Papanicolaou y servicios menopáusicos. <!-- Source: https://capslo.org/the-center/ -->
 
-[**Cuesta College**](Directory.md#Cuesta-College) students can get reproductive/sexual healthcare and referrals (for example for birth control, emergency contraception, and STI testing) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
+Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener atención médica reproductiva/sexual y referencias (por ejemplo, para control de natalidad, anticoncepción de emergencia y pruebas de ITS) de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers contraceptives, HIV screening and education, OB/GYN services, and STD testing. <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece anticonceptivos, evaluación y educación sobre VIH, servicios de obstetricia/ginecología y pruebas de ETS. <!-- SOURCE NEEDED (issue #75) -->
 
-[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers abortion, birth control, emergency contraception, HIV/STD testing and treatment, help with various sexual and reproductive concerns, and no-cost family planning services. <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources# -->
+[**Planned Parenthood**](Directory.md#Planned-Parenthood) ofrece aborto, control de natalidad, anticoncepción de emergencia, pruebas y tratamiento de VIH/ETS, ayuda con diversas preocupaciones sexuales y reproductivas, y servicios de planificación familiar sin costo. <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources# -->
 
-The [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) offers STD testing and birth control. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/std-testing-and-treatment and https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/fees/family-health-services-fee-list-2023-2024 -->
+El [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) (Departamento de Salud Pública del Condado de SLO) ofrece pruebas de ETS y control de natalidad. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/std-testing-and-treatment and https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/fees/family-health-services-fee-list-2023-2024 -->
 
 ### <a id="pregnancy-childbirth-lactation">Embarazo, Parto y Lactancia</a>
 
 [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista) ([805-434-4644](tel:+1-805-434-4644)) <!-- Source: https://www.adventisthealth.org/central-coast/events/ahtc-lactation-clinic-private-consultation -->
-and [**French Hospital**](Directory.md#French-Hospital-Medical-Center) ([805-541-2229](tel:+1-805-541-2229)) <!-- Source: https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/maternity/breastfeeding-support -->
-each offer free breastfeeding support by phone.
+y [**French Hospital**](Directory.md#French-Hospital-Medical-Center) ([805-541-2229](tel:+1-805-541-2229)) <!-- Source: https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/maternity/breastfeeding-support -->
+ofrecen apoyo gratuito para lactancia por teléfono.
 
-[**The Center for Health and Prevention**](Directory.md#The-Center) offers pregnancy testing and counseling. <!-- Source: https://capslo.org/the-center/ -->
+[**The Center for Health and Prevention**](Directory.md#The-Center) ofrece pruebas de embarazo y asesoramiento. <!-- Source: https://capslo.org/the-center/ -->
 
-[**Community Health Centers of the Central Coast**](Directory.md#CHC)’s 1057 E. Grand Ave. (Arroyo Grande), 1551 Bishop St. (SLO), and 292 Posada Ln. (Templeton) locations offer the Wellness Pregnancy Program / Comprehensive Perinatal Services Program. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
+Las ubicaciones de [**Community Health Centers of the Central Coast**](Directory.md#CHC) en 1057 E. Grand Ave. (Arroyo Grande), 1551 Bishop St. (SLO), y 292 Posada Ln. (Templeton) ofrecen el Programa de Embarazo Saludable / Programa Integral de Servicios Perinatales. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
 
 <!-- These classes are only for people delivering at French; they're not free to the general public
 [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts several [free classes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) on pregnancy, childbirth, baby-care, and breast-feeding.
