@@ -7,14 +7,23 @@ import { initFeedback } from './feedback.js';
 import { initShareButton, createSectionShareButton } from './shareButton.js';
 import { initFontSizeControl } from './fontSizeControl.js';
 import { initInstallPrompt } from './installPrompt.js';
-import { getStrings } from './strings.js';
+import { getStrings, getCurrentLanguage } from './strings.js';
 import { initI18n } from './i18nInit.js';
 import { initLanguageSwitcher } from './languageSwitcher.js';
 
-// Import markdown files directly as raw text
-import resourcesMarkdown from '../../Resource guide.md?raw';
-import directoryMarkdown from '../../Directory.md?raw';
-import aboutMarkdown from '../../About.md?raw';
+// Import markdown files directly as raw text (English and Spanish)
+import resourcesMarkdownEn from '../../Resource guide.md?raw';
+import directoryMarkdownEn from '../../Directory.md?raw';
+import aboutMarkdownEn from '../../About.md?raw';
+import resourcesMarkdownEs from '../../Resource guide_es.md?raw';
+import directoryMarkdownEs from '../../Directory_es.md?raw';
+import aboutMarkdownEs from '../../About_es.md?raw';
+
+// Select the correct markdown files based on current language
+const currentLang = getCurrentLanguage();
+const resourcesMarkdown = currentLang === 'es' ? resourcesMarkdownEs : resourcesMarkdownEn;
+const directoryMarkdown = currentLang === 'es' ? directoryMarkdownEs : directoryMarkdownEn;
+const aboutMarkdown = currentLang === 'es' ? aboutMarkdownEs : aboutMarkdownEn;
 
 // UI Strings
 const strings = getStrings();

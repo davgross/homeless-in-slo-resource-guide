@@ -328,11 +328,30 @@ To add support for a new language:
    - Translate all string values
    - Keep the same structure and function signatures
 
-2. **Update language switcher**:
-   - Add the language name to the `language` section in both `en` and `es` objects
-   - Example: `french: 'Français'`
+2. **Create translated markdown files**:
+   - Create `Resource guide_[lang].md`, `Directory_[lang].md`, and `About_[lang].md` in the parent directory
+   - Example: `Resource guide_fr.md`, `Directory_fr.md`, `About_fr.md`
+   - These files should contain the translated content
 
-3. **No other code changes needed**:
+3. **Update main.js imports**:
+   - Add imports for the new language's markdown files
+   - Add conditions to select the correct files based on language
+   - Example:
+     ```javascript
+     import resourcesMarkdownFr from '../../Resource guide_fr.md?raw';
+     // ... add similar imports for directory and about
+
+     // Update the selection logic
+     const resourcesMarkdown = currentLang === 'fr' ? resourcesMarkdownFr :
+                               currentLang === 'es' ? resourcesMarkdownEs :
+                               resourcesMarkdownEn;
+     ```
+
+4. **Update language switcher**:
+   - Add the language name to the `language` section in all language objects
+   - Example: Add `french: 'Français'` to both `en` and `es` objects
+
+5. **Language detection works automatically**:
    - The system automatically detects available languages from the `strings` object
    - Language detection, persistence, and UI updates work automatically
 
@@ -567,16 +586,29 @@ generates JavaScript data files for map pages
 
 ```javascript
 // In main.js
-import resourcesMarkdown from '../../Resource guide.md?raw';
-import directoryMarkdown from '../../Directory.md?raw';
+// Import both English and Spanish markdown files
+import resourcesMarkdownEn from '../../Resource guide.md?raw';
+import directoryMarkdownEn from '../../Directory.md?raw';
+import aboutMarkdownEn from '../../About.md?raw';
+import resourcesMarkdownEs from '../../Resource guide_es.md?raw';
+import directoryMarkdownEs from '../../Directory_es.md?raw';
+import aboutMarkdownEs from '../../About_es.md?raw';
+
+// Select the correct markdown files based on current language
+const currentLang = getCurrentLanguage();
+const resourcesMarkdown = currentLang === 'es' ? resourcesMarkdownEs : resourcesMarkdownEn;
+const directoryMarkdown = currentLang === 'es' ? directoryMarkdownEs : directoryMarkdownEn;
+const aboutMarkdown = currentLang === 'es' ? aboutMarkdownEs : aboutMarkdownEn;
 ```
 
 **How it works**:
 
 1. Vite's `?raw` suffix imports files as text strings
-2. Markdown is bundled into JavaScript at build time
-3. No network requests needed at runtime
-4. Works offline after first load
+2. All markdown files (English and Spanish) are bundled into JavaScript at build time
+3. The correct language version is selected at runtime based on user's language preference
+4. When language is changed via language switcher, the page reloads and loads the new language's markdown
+5. No network requests needed at runtime
+6. Works offline after first load
 
 **Trade-offs**:
 

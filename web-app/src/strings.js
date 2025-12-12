@@ -315,8 +315,8 @@ const strings = {
     // Table of Contents navigation
     toc: {
       button: {
-        ariaLabel: 'Ir a la tabla de contenido',
-        title: 'Tabla de contenido'
+        ariaLabel: 'Ir al índice',
+        title: 'Índice'
       }
     },
 
