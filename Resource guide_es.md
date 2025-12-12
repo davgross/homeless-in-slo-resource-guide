@@ -2112,28 +2112,28 @@ Cuando sea posible, tome clases formales de defensa personal para aprender técn
 
 ## <a id="legal-help">Ayuda Legal y Protección para Víctimas de Crímenes</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Help for Defendants, Convicts, Parolees, Probationers](#defendants-and-convicts)
-- [Legal Help Regarding Housing (Discrimination, Landlord Disputes, etc.)](#housing-legal)
-- [Help with Benefits, Wrangling with Health Insurers, et Cetera](#benefits-legal)
-- [Consumer Protection](#consumer-protection)
-- [Victims of Crime, Abuse](#crime-victims)
-- [Legal Self-Help / Law Libraries](#legal-self-help)
-- [Legal Consultation](#legal-consultation)
-- [Family Law / Child Support](#family-law)
-- [Immigration Law](#immigration-law)
-- [Senior Legal Services](#senior-legal-services)
-- [Tax Disputes](#tax-disputes)
-- [Miscellany](#legal-miscellany)
+- [Ayuda para Acusados, Convictos, Personas en Libertad Condicional](#defendants-and-convicts)
+- [Ayuda Legal con Vivienda (Discriminación, Disputas con Propietarios, etc.)](#housing-legal)
+- [Ayuda con Beneficios, Disputas con Aseguradoras de Salud, etc.](#benefits-legal)
+- [Protección al Consumidor](#consumer-protection)
+- [Víctimas de Crimen, Abuso](#crime-victims)
+- [Autoayuda Legal / Bibliotecas de Leyes](#legal-self-help)
+- [Consulta Legal](#legal-consultation)
+- [Derecho Familiar / Manutención Infantil](#family-law)
+- [Ley de Inmigración](#immigration-law)
+- [Servicios Legales para Personas Mayores](#senior-legal-services)
+- [Disputas Fiscales](#tax-disputes)
+- [Miscelánea](#legal-miscellany)
 
 ### <a id="defendants-and-convicts">Ayuda para Acusados, Convictos, Personas en Libertad Condicional</a>
 
-If you are being taken to court and accused of a serious crime by the government, you have the right to have a lawyer who is trained in the law to help defend you against the charges.
-You have a right to a lawyer even if you do not have enough money to pay one.
-If you cannot afford to hire a lawyer, tell the judge so when you first appear in court, and the judge will assign a public defender to you. <!-- Source: https://slodefend.com/faq/ -->
-[**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) is the primary public defenders’ office in SLO County.
-You must wait until the judge assigns a particular public defender to you before you can discuss your case with them. <!-- Source: https://slodefend.com/faq/ -->
+Si está siendo llevado a la corte y acusado de un crimen grave por el gobierno, tiene el derecho de tener un abogado que está entrenado en la ley para ayudarle a defenderse contra los cargos.
+Tiene derecho a un abogado incluso si no tiene suficiente dinero para pagar uno.
+Si no puede pagar un abogado, dígale al juez cuando aparezca por primera vez en la corte, y el juez le asignará un defensor público. <!-- Source: https://slodefend.com/faq/ -->
+[**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) (Defensores Públicos de SLO) es la oficina principal de defensores públicos en el condado de SLO.
+Debe esperar hasta que el juez le asigne un defensor público en particular antes de que pueda discutir su caso con ellos. <!-- Source: https://slodefend.com/faq/ -->
 
 If you have been in jail or prison and are reentering the community after doing your time or being released on parole, [**Restorative Partners**](Directory.md#Restorative-Partners) can help make your reentry successful.
 They can give you housing assistance including clean & sober living homes, and help returning to the workforce. <!-- Source: https://restorativepartners.org/about/ -->
