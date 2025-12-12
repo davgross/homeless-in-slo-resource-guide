@@ -1039,64 +1039,64 @@ Los viajes son servicio puerta a puerta y pueden incluir múltiples paradas. <!-
 El autobús solo opera en días de semana 8am–4:30pm, y en el área local (excepto los martes, cuando el autobús también puede hacer viajes a la ciudad de SLO). <!-- https://www.cambriacommunitycouncil.org/community-bus -->
 
 El [Cayucos Senior Van](https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf) es un programa similar para residentes de Cayucos.
-It prioritizes transportation to medical appointments, but can also sometimes handle other needs. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
-It operates M–F 9am–4pm. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
-Call [805-995-3543](tel:+1-805-995-3543) to make an appointment at least 48 hours ahead of time. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
+Da prioridad al transporte a citas médicas, pero también puede a veces manejar otras necesidades. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
+Opera L–V 9am–4pm. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
+Llame al [805-995-3543](tel:+1-805-995-3543) para hacer una cita con al menos 48 horas de anticipación. <!-- Source: https://cayucosseniors.org/files/Cayucos%20Senior%20Van%20-%20Mission%20Statement.pdf -->
 
-[**Community Partners in Caring**](Directory.md#Community-Partners-in-Caring) has volunteers who can give seniors free rides to and from medical appointments, food banks and meal sites, or other services. <!-- Source: https://partnersincaring.org/our-services/ -->
-They operate in Nipomo and the Five-Cities area, as well as Santa Barbara County. <!-- Source: https://www.yahoo.com/news/articles/another-caregiving-group-steps-help-130000077.html -->
+[**Community Partners in Caring**](Directory.md#Community-Partners-in-Caring) tiene voluntarios que pueden dar a personas mayores viajes gratuitos hacia y desde citas médicas, bancos de alimentos y sitios de comidas, u otros servicios. <!-- Source: https://partnersincaring.org/our-services/ -->
+Operan en Nipomo y el área de Five-Cities, así como en el condado de Santa Barbara. <!-- Source: https://www.yahoo.com/news/articles/another-caregiving-group-steps-help-130000077.html -->
 
 ### <a id="transportation-to-medical-appointments">Transporte a Citas Médicas</a>
 
-The [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) offers free, door-to-door transportation to medical appointments for people who are enrolled in Medi-Cal and who cannot use public transportation to get to their appointments. <!-- Source: https://www.cencalhealth.org/members/transportation/ -->
-If you expect you will need to stop at a pharmacy after your appointment, say so when you make your shuttle reservation, and they can arrange that also. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2025/04/350_2025-Q2-Regulatory-Member-Newsletter_M-MS-Q2RMNL-0425-E-SA-0225-N_R9_Web_tagged.pdf -->
-Make a shuttle reservation at least two days before your medical appointment by calling [855-659-4600](tel:+1-855-659-4600) M–F 7am–5pm. <!-- Source: https://www.venturatransit.com/cencal/ and https://www.cencalhealth.org/members/transportation/ -->
+El [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) ofrece transporte gratuito puerta a puerta a citas médicas para personas que están inscritas en Medi-Cal y que no pueden usar transporte público para llegar a sus citas. <!-- Source: https://www.cencalhealth.org/members/transportation/ -->
+Si espera que necesitará parar en una farmacia después de su cita, dígalo cuando haga su reservación de transporte, y ellos también pueden arreglar eso. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2025/04/350_2025-Q2-Regulatory-Member-Newsletter_M-MS-Q2RMNL-0425-E-SA-0225-N_R9_Web_tagged.pdf -->
+Haga una reservación de transporte al menos dos días antes de su cita médica llamando al [855-659-4600](tel:+1-855-659-4600) L–V 7am–5pm. <!-- Source: https://www.venturatransit.com/cencal/ and https://www.cencalhealth.org/members/transportation/ -->
 
-If you are a [**Community Health Centers of the Central Coast (CHC)**](Directory.md#CHC) patient, and you need a ride to your CHC appointment, you can get shuttle service. <!-- Source: https://www.communityhealthcenters.org/patient-resources/ -->
-The CHC Shuttle collects you at your location and takes you to the clinic, then returns you after your appointment. <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
-To use the shuttle, you should have a CHC appointment and live in the area of the CHC clinic. <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
-CHC may also give you an RTA bus pass to help you get to your appointment. <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
-Make a reservation at least 48 hours before your appointment by calling [877-743-3242](tel:+1-877-743-3242). <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
+Si es paciente de [**Community Health Centers of the Central Coast (CHC)**](Directory.md#CHC), y necesita un viaje a su cita de CHC, puede obtener servicio de transporte. <!-- Source: https://www.communityhealthcenters.org/patient-resources/ -->
+El CHC Shuttle lo recoge en su ubicación y lo lleva a la clínica, luego lo devuelve después de su cita. <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
+Para usar el transporte, debe tener una cita de CHC y vivir en el área de la clínica de CHC. <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
+CHC también puede darle un pase de autobús de RTA para ayudarle a llegar a su cita. <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
+Haga una reservación al menos 48 horas antes de su cita llamando al [877-743-3242](tel:+1-877-743-3242). <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
 
-Veterans who travel to VA health care facilities for VA-authorized appointments can get free curb-to-curb shuttle service through [**Veterans Transportation Service (VTS)**](Directory.md#Veterans-Transportation-Service). <!-- Source: https://www.vetride.va.gov/app/home -->
-Another option is the [“Veterans Express Shuttle”](https://www.ride-on.org/ride-on-veterans-express-shuttle.php) operated by [**Ride-On Transportation**](Directory.md#Ride-On-Transportation) (call [805-541-8747](tel:+1-805-541-8747) two to three days before your appointment). <!-- Source: https://www.ride-on.org/ride-on-veterans-express-shuttle.php -->
-There is also regularly-scheduled bus service between the SLO Veteran’s Memorial Building (<a href="#" class="map-link" data-lat="35.289321" data-lon="-120.652800" data-zoom="17" data-label="Veterans Memorial Building">801 Grand Ave.</a>) and the West Los Angeles VA Medical Center (WLA). <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
-This bus is free to anyone with an appointment at the VA. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
-Schedule a bus reservation through VTS. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
-It leaves SLO at 6am, arrives at WLA at 11:15am, leaves WLA at 3:25pm and returns to SLO at 8:30pm. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
+Los veteranos que viajan a instalaciones de atención médica del VA para citas autorizadas por el VA pueden obtener servicio de transporte gratuito de acera a acera a través de [**Veterans Transportation Service (VTS)**](Directory.md#Veterans-Transportation-Service). <!-- Source: https://www.vetride.va.gov/app/home -->
+Otra opción es el ["Veterans Express Shuttle"](https://www.ride-on.org/ride-on-veterans-express-shuttle.php) operado por [**Ride-On Transportation**](Directory.md#Ride-On-Transportation) (llame al [805-541-8747](tel:+1-805-541-8747) dos a tres días antes de su cita). <!-- Source: https://www.ride-on.org/ride-on-veterans-express-shuttle.php -->
+También hay servicio de autobús programado regularmente entre el SLO Veteran's Memorial Building (<a href="#" class="map-link" data-lat="35.289321" data-lon="-120.652800" data-zoom="17" data-label="Veterans Memorial Building">801 Grand Ave.</a>) y el West Los Angeles VA Medical Center (WLA). <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
+Este autobús es gratuito para cualquier persona con una cita en el VA. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
+Programe una reservación de autobús a través de VTS. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
+Sale de SLO a las 6am, llega a WLA a las 11:15am, sale de WLA a las 3:25pm y regresa a SLO a las 8:30pm. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
 
-The [**American Cancer Society**](Directory.md#American-Cancer-Society)’s [“Road to Recovery”](https://www.cancer.org/support-programs-and-services/road-to-recovery.html) program offers free rides to and from cancer-related medical appointments.
-Call several days in advance of your appointment to reserve your ride. <!-- Source: https://www.cancer.org/support-programs-and-services/road-to-recovery.html -->
+El programa ["Road to Recovery"](https://www.cancer.org/support-programs-and-services/road-to-recovery.html) de [**American Cancer Society**](Directory.md#American-Cancer-Society) ofrece viajes gratuitos hacia y desde citas médicas relacionadas con el cáncer.
+Llame varios días antes de su cita para reservar su viaje. <!-- Source: https://www.cancer.org/support-programs-and-services/road-to-recovery.html -->
 
 ### <a id="bicycles">Bicicletas</a>
 
-The [**Bike Kitchen**](Directory.md#Bike-Kitchen) in SLO city can help you learn how to do maintenance and repairs on your bicycle, and can give you access to the tools and supplies you need. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
-They also sell refurbished bicycles at low prices. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
-Visit their website to see their current schedule. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
-They charge a small fee ($10/hr) to use their repair/maintenance services. <!-- https://bikeslocounty.org/programs/kitchen/#tab-id-2 -->
+El [**Bike Kitchen**](Directory.md#Bike-Kitchen) en la ciudad de SLO puede ayudarle a aprender cómo hacer mantenimiento y reparaciones en su bicicleta, y puede darle acceso a las herramientas y suministros que necesita. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
+También venden bicicletas reacondicionadas a precios bajos. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
+Visite su sitio web para ver su horario actual. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
+Cobran una pequeña tarifa ($10/hora) para usar sus servicios de reparación/mantenimiento. <!-- https://bikeslocounty.org/programs/kitchen/#tab-id-2 -->
 
-Here are some tips for keeping your bike safe if you are camping:
+Aquí hay algunos consejos para mantener su bicicleta segura si está acampando:
 
-- Lock bikes together when you camp with multiple people.
-- Position your bike near your tent and thread one of the tent’s guy-lines through the wheel, so your tent will shake if someone moves the bike.
-- Use multiple locks (for example, a U-lock and a cable). Avoid using cable locks only, as they are relatively easy to break.
-- Consider using a lock that makes an audible alarm when it is tampered with.
+- Bloquee las bicicletas juntas cuando acampe con varias personas.
+- Posicione su bicicleta cerca de su tienda y pase una de las cuerdas tensoras de la tienda a través de la rueda, para que su tienda se sacuda si alguien mueve la bicicleta.
+- Use múltiples candados (por ejemplo, un candado en U y un cable). Evite usar solo candados de cable, ya que son relativamente fáciles de romper.
+- Considere usar un candado que haga una alarma audible cuando se manipule.
 
 ### <a id="auto-insurance-and-repair">Seguro de Automóvil y Reparaciones</a>
 
-A car must be insured to be legally driven in California. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
-California has a state-sponsored, low-cost auto insurance program. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
-To qualify, you must have a valid California driver’s license, a low income (for a single person, under $39,125 per year), a vehicle that is worth no more than $25,000,<!-- Source; https://www.mylowcostauto.com/faq/english --> and have:
+Un automóvil debe estar asegurado para ser conducido legalmente en California. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
+California tiene un programa de seguro de automóvil de bajo costo patrocinado por el estado. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
+Para calificar, debe tener una licencia de conducir válida de California, bajos ingresos (para una persona soltera, menos de $39,125 por año), un vehículo que no valga más de $25,000,<!-- Source; https://www.mylowcostauto.com/faq/english --> y tener:
 
 <!-- Source: https://www.mylowcostauto.com/faq/english -->
-- no more than one at-fault, property-damage-only accident or no more than one point for a moving violation in the past three years,
-- no at-fault accidents involving bodily injury or death on a driving record in the previous three years, and
-- no felony or misdemeanor convictions for a violation of the Vehicle Code on your motor vehicle driving record.
+- no más de un accidente por su culpa de solo daño a la propiedad o no más de un punto por una infracción de tránsito en los últimos tres años,
+- ningún accidente por su culpa que involucre lesiones corporales o muerte en un historial de conducción en los tres años anteriores, y
+- ninguna condena por delito grave o delito menor por una violación del Código de Vehículos en su historial de conducción de vehículos motorizados.
 
-You can apply for this insurance online at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
+Puede aplicar para este seguro en línea en [mylowcostauto.com](https://www.mylowcostauto.com) o llamando al [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
 
-The [**Family Care Network**](Directory.md#Family-Care-Network) can help you pay for car repairs, payments, and gas if you’re broke. <!-- SOURCE NEEDED (issue #36) -->
-You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist. <!-- SOURCE NEEDED (issue #36) -->
+La [**Family Care Network**](Directory.md#Family-Care-Network) puede ayudarle a pagar reparaciones de automóvil, pagos y gasolina si está sin dinero. <!-- SOURCE NEEDED (issue #36) -->
+Puede que primero necesite obtener una referencia de un Especialista de Recursos de Empleo del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- SOURCE NEEDED (issue #36) -->
 
 The [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap)’s “Consumer Assistance Program” can help you fix your car so that it satisfies California emissions standards. <!-- Source https://www.bar.ca.gov/cap -->
 This program will pay for up to $1,450 in necessary repairs at a STAR test-and-repair center for model year 1996 or newer vehicles, or up to $1,100 for 1976–1995 vehicles. <!-- Source: https://www.bar.ca.gov/cap/repair -->
