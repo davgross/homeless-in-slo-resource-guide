@@ -2,25 +2,25 @@
 
 ## Evitar, Sobrevivir y Escapar de la Falta de Vivienda en el Condado de SLO
 
-**Note:** This guide is currently being beta tested (if you have found it, welcome to the beta test!).
-Shower the People hopes to formally launch this guide in early 2026.
+**Nota:** Esta guía está actualmente en prueba beta (si la ha encontrado, ¡bienvenido a la prueba beta!).
+Shower the People espera lanzar oficialmente esta guía a principios de 2026.
 
-This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
-It is specific to San Luis Obispo County.
+Esta guía le ayuda a encontrar recursos gratuitos y de bajo costo que pueden ayudarle si está experimentando falta de vivienda, está en riesgo de perder su vivienda, o simplemente tiene poco dinero.
+Es específica para el Condado de San Luis Obispo.
 
-San Luis Obispo County is especially challenging for people trying to avoid or to escape homelessness.
-Fortunately, there is a lot of help available.
-Unfortunately, it can be difficult to find this help or to understand how to access it.
-This guide makes it easier.
+El Condado de San Luis Obispo presenta desafíos especiales para las personas que intentan evitar o escapar de la falta de vivienda.
+Afortunadamente, hay mucha ayuda disponible.
+Desafortunadamente, puede ser difícil encontrar esta ayuda o entender cómo acceder a ella.
+Esta guía lo hace más fácil.
 
-The guide is organized into sections like “Shelter and Housing” or “Food.”
-Each section briefly describes resources available in San Luis Obispo County.
-Many descriptions contain blue-highlighted, boldface links to the [**Directory**](?section=directory).
-This Directory page lists resources in alphabetical order, with information like the website, phone number, email address, location, and operating hours.
-If you find a resource in the guide that may be useful to you, click the boldface link to go to the Directory and learn how to access that resource.
+La guía está organizada en secciones como "Refugio y Vivienda" o "Alimentos."
+Cada sección describe brevemente los recursos disponibles en el Condado de San Luis Obispo.
+Muchas descripciones contienen enlaces en negritas y resaltados en azul al [**Directorio**](?section=directory).
+Esta página del Directorio enumera los recursos en orden alfabético, con información como el sitio web, número de teléfono, dirección de correo electrónico, ubicación y horario de operación.
+Si encuentra un recurso en la guía que pueda serle útil, haga clic en el enlace en negritas para ir al Directorio y aprender cómo acceder a ese recurso.
 
-Volunteers from [**Shower the People**](Directory.md#Shower-the-People) created this guide.
-If you want to suggest corrections or improvements, or to join the VivaSLO development team, contact VivaSLO at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
+Voluntarios de [**Shower the People**](Directory.md#Shower-the-People) crearon esta guía.
+Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de VivaSLO, contacte a VivaSLO en [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
 
 -----
 
