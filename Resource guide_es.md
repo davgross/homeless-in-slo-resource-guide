@@ -3083,10 +3083,10 @@ El sitio [FlexJobs](https://www.flexjobs.com/) es otra forma de encontrar trabaj
 
 ### <a id="adult-education">Educación para Adultos</a>
 
-[**Cuesta College**](Directory.md#Cuesta-College)’s [Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html) program is open to the general community (you do not have to be enrolled at Cuesta College).
-Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that take place outside the classroom.
-Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver. <!-- Source: https://www.cuesta.edu/academics/continuinged/comm-truck-driving/index.html -->
-They also offer miscellaneous adult education classes on topics of a recreational or curiosity-satisfying nature.
+El programa de [Educación Continua](https://www.cuesta.edu/academics/continuinged/index.html) (Continuing Education) de [**Cuesta College**](Directory.md#Cuesta-College) está abierto a la comunidad general (no tiene que estar matriculado en Cuesta College).
+Las clases en sí son gratuitas, pero algunas tienen costos adicionales relacionados con materiales, documentación y exámenes de requisitos previos, y otras cosas que tienen lugar fuera del aula.
+Entre sus programas hay clases para prepararle para un Permiso de Aprendizaje Comercial de California para que pueda convertirse en conductor de camiones comerciales. <!-- Source: https://www.cuesta.edu/academics/continuinged/comm-truck-driving/index.html -->
+También ofrecen clases variadas de educación para adultos sobre temas de naturaleza recreativa o que satisfacen la curiosidad.
 
 Los [programas](https://slopartners.org/programs/) de [**SLO Partners**](Directory.md#SLO-Partners) incluyen bootcamps para aprender habilidades en demanda en campos como asistente dental, hospitalidad y manufactura.
 Hay un programa de asistencia financiera para ayudarle a pagar la matrícula. <!-- SOURCE NEEDED -->
@@ -3095,9 +3095,9 @@ Hay un programa de asistencia financiera para ayudarle a pagar la matrícula. <!
 
 Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) ofrecen cursos de desarrollo de habilidades, desarrollo profesional y preparación universitaria, en su [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
 
-[Alison.com](https://alison.com) offers free online courses in several fields of study, including vocational training and “soft skills.”
-You can get a certificate and/or diploma after completing a course of study, but this sometimes costs money (the course itself is free).
-Note that Alison.com is accredited in the United Kingdom, not the United States, which may affect how much these certificates and diplomas are respected by employers or colleges here. <!-- Source: https://alison.com/about/accreditation -->
+[Alison.com](https://alison.com) ofrece cursos en línea gratuitos en varios campos de estudio, incluyendo capacitación vocacional y "habilidades blandas" (soft skills).
+Puede obtener un certificado y/o diploma después de completar un curso de estudio, pero esto a veces cuesta dinero (el curso en sí es gratuito).
+Tenga en cuenta que Alison.com está acreditado en el Reino Unido, no en los Estados Unidos, lo que puede afectar cuánto son respetados estos certificados y diplomas por empleadores o universidades aquí. <!-- Source: https://alison.com/about/accreditation -->
 
 [Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/) ofrece clases y seminarios de bajo costo sobre una variedad de temas.
 También puede convertirse en miembro anual por una tarifa de $25, y esto le da descuentos sustanciales en todas las clases durante todo el año. <!-- Source: https://www.lifelearnerscc.org/courses -->
@@ -3114,23 +3114,23 @@ Contácteles en [lifelearnerscentralcoast@gmail.com](mailto:lifelearnerscentralc
    - Sources: [noozhawk.com](https://www.noozhawk.com/a-t-still-university-to-move-central-coast-campus-from-santa-maria/)
 -->
 
-[Toastmasters](https://www.toastmasters.org/) is a peer-led course of practical exercises that improve your public speaking skills.
-Clubs typically meet for one hour once per week and members practice public speaking exercises together and provide critiques and advice.
-They welcome guests to participate.
-It is not free.
-There is a $60 membership fee every six months, and some individual groups also charge small membership fees of their own.
-Toastmasters in SLO County groups include:
+[Toastmasters](https://www.toastmasters.org/) es un curso dirigido por pares de ejercicios prácticos que mejoran sus habilidades para hablar en público.
+Los clubes típicamente se reúnen durante una hora una vez por semana y los miembros practican ejercicios de oratoria juntos y proporcionan críticas y consejos.
+Reciben con agrado a invitados para participar.
+No es gratuito.
+Hay una cuota de membresía de $60 cada seis meses, y algunos grupos individuales también cobran pequeñas cuotas de membresía propias.
+Los grupos de Toastmasters en el Condado de SLO incluyen:
 
-| Club | Meeting Time | Location |
-| ---- | ------------ | -------- |
+| Club | Hora de Reunión | Ubicación |
+| ---- | --------------- | --------- |
 | [SLO Toastmasters Club 83](https://slotoastmasters.toastmastersclubs.org/) | Th 6:30–7:30am | <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a> |
 | [SLO Noontime Toastmasters Club (5204)](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204) | Tu Noon–1pm | Mt. Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a> |
 | [SLO Motion Toastmasters Club](https://slomotion.toastmastersclubs.org/) | M Noon–1pm | Caltrans “Sand” conference room, <a href="#" class="map-link" data-lat="35.260680" data-lon="-120.669333" data-zoom="17" data-label="Caltrans">2885 S. Higuera St., SLO</a> |
 | [Cal Poly Toastmasters](https://www.toastmasters.org/Find-a-Club/28676059-cal-poly-toastmasters) | W Noon–1pm | <a href="#" class="map-link" data-lat="35.303892" data-lon="-120.659629" data-zoom="17" data-label="Toastmasters">Bldg. 70 (Facilities)</a>, Room 110 on the Cal Poly San Luis Obispo campus |
 | [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club) | Th 12:10–1:15pm | various locations around Paso Robles |
 
-The local [**University of California Cooperative Extension**](Directory.md#UC-Cooperative-Extension) offers courses in gardening, food preservation, and rangeland and watershed management.
-Many programs are free or low-cost.
+La [**University of California Cooperative Extension**](Directory.md#UC-Cooperative-Extension) (Extensión Cooperativa de la Universidad de California) local ofrece cursos de jardinería, preservación de alimentos y manejo de pastizales y cuencas hidrográficas.
+Muchos programas son gratuitos o de bajo costo.
 
 ### <a id="digital-literacy">Alfabetización Digital: Cómo Usar Computadoras e Internet</a>
 
@@ -3138,21 +3138,21 @@ Many programs are free or low-cost.
 Computers are provided for use in class. <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform -->
 To register, submit [this online form](https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform).
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers free basic computer skills courses and courses in Amazon Web Services tools at its [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
-They also have a set of [video tutorials](https://my.nicheacademy.com/slolibrary) that include basic computer skills as well as guides to how to use several popular computer tools (like Gmail, Facebook, Microsoft Office, and Instagram).
+Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) ofrecen cursos gratuitos de habilidades informáticas básicas y cursos en herramientas de Amazon Web Services en su [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
+También tienen un conjunto de [tutoriales en video](https://my.nicheacademy.com/slolibrary) que incluyen habilidades informáticas básicas así como guías para cómo usar varias herramientas informáticas populares (como Gmail, Facebook, Microsoft Office e Instagram).
 
-[**Goodwill Central Coast**](Directory.md#Goodwill) offers a variety of [digital literacy classes](https://www.ccgoodwill.org/digital-literacy-classes/).
-Contact them at [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwill.org) for details.
+[**Goodwill Central Coast**](Directory.md#Goodwill) ofrece una variedad de [clases de alfabetización digital](https://www.ccgoodwill.org/digital-literacy-classes/).
+Contácteles en [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwill.org) para más detalles.
 
-[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) has two computers you can use on-site, and they offer free assistance and one-on-one tutoring sessions. <!-- Source: https://www.prcity.com/293/Senior-Services -->
+El [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (Centro para Personas Mayores de Paso Robles) tiene dos computadoras que puede usar en el sitio, y ofrecen asistencia gratuita y sesiones de tutoría uno a uno. <!-- Source: https://www.prcity.com/293/Senior-Services -->
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) periodically has “tech help” sessions at which an expert is available to help with your technical challenges or to teach you a new skill. <!-- Source: https://atascaderoseniorcenter.org/ -->
 
-[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) offers a Basic iPhone for Seniors class. <!-- Source: https://secure.rec1.com/CA/arroyo-grande-ca/catalog/index/bd509698909ad3af1fbf44b22ff80a27?filter=c2VhcmNoPQ== -->
+[**Arroyo Grande Recreation Services**](Directory.md#Arroyo-Grande-Recreation-Services) (Servicios de Recreación de Arroyo Grande) ofrece una clase de iPhone Básico para Personas Mayores. <!-- Source: https://secure.rec1.com/CA/arroyo-grande-ca/catalog/index/bd509698909ad3af1fbf44b22ff80a27?filter=c2VhcmNoPQ== -->
 
 ### <a id="libraries">Bibliotecas</a>
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have not only books, but online research databases, computers with internet access, English conversation practice sessions, and several [online learning](https://catalog.slolibrary.org/online-learning) programs.
+Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) tienen no solo libros, sino bases de datos de investigación en línea, computadoras con acceso a internet, sesiones de práctica de conversación en inglés y varios programas de [aprendizaje en línea](https://catalog.slolibrary.org/online-learning).
 <!-- Sources: https://catalog.slolibrary.org/tlc and https://catalog.slolibrary.org/online-learning -->
 
 Cal Poly’s [Robert E. Kennedy Library](https://library.calpoly.edu/) is a resource not just for Cal Poly students and faculty but for the inhabitants of the Central Coast in general. <!-- Source: https://library.calpoly.edu/about/policies -->
@@ -3166,19 +3166,19 @@ There is no check-out/check-in procedure. Just take what you want to read, or le
 They are typically open 24-hours a day, every day.
 See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Directory for a list of dozens of them in SLO County.
 
-The [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) gives you free access to law- and court-related books and databases.
+La [**Biblioteca de Derecho del Condado de SLO**](Directory.md#SLO-County-Law-Library) (SLO County Law Library) le da acceso gratuito a libros y bases de datos relacionados con leyes y tribunales.
 
 ### <a id="citizenship-studies">Estudios para la Ciudadanía</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
-The free course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
-You must be able to read and understand basic English. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
-Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece una clase de Ciudadanía de los Estados Unidos que enseña el proceso de establecer la ciudadanía estadounidense y le prepara para pasar la Entrevista y Examen de Naturalización. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
+El curso gratuito es todos los jueves de 5–8pm en el Centro de Aprendizaje de Oceano (Oceano Learning Center), y puede comenzar el curso cualquier jueves. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
+Debe poder leer y entender inglés básico. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+Regístrese [en línea](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) o llámeles para más información.
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) gives you access to the [ProCitizen](https://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096) citizenship prep course, covering the civics, reading, and writing parts of the U.S. citizenship exam.
-Its [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program and [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) program also include some U.S. citizenship test preparation.
+Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) le dan acceso al curso de preparación para la ciudadanía [ProCitizen](https://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096), que cubre las partes de educación cívica, lectura y escritura del examen de ciudadanía de los Estados Unidos.
+Su programa [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) y el programa [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) también incluyen algo de preparación para el examen de ciudadanía de los Estados Unidos.
 
-If you are a refugee from another country, you may be able to get some help with your education from [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ (vaguely described) -->
+Si es refugiado de otro país, puede obtener ayuda con su educación de [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ (vaguely described) -->
 
 ### <a id="literacy">Alfabetización</a>
 
