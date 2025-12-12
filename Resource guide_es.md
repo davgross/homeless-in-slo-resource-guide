@@ -1352,95 +1352,95 @@ Traiga su tarjeta de seguro, identificación y una lista de los medicamentos que
 -->
 | Ubicación de Atención Urgente                                                                       | Medicare | Medi-Cal |
 | --------------------------------------------------------------------------------------------------- | -------- | -------- |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | Sí       | Yes      |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Sí       | Yes      |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | Sí       | Sí       |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Sí       | Sí       |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)     | Sí       | No       |
 | [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | Sí       | No       |
 | [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Sí       | No       |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | Sí       | No       |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Sí       | Yes      |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Sí       | Sí       |
 | [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | ?        | ?        |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Sí       | Yes      |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Sí       | Sí       |
 | [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | Sí       | No       |
-| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | Sí       | Yes      |
+| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | Sí       | Sí       |
 | [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | Sí       | No       |
 | [**MedStop**](Directory.md#MedStop) (SLO)                                                           | Sí       | No       |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | Sí       | Yes      |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | Sí       | Sí       |
 
 ### <a id="health-insurance">Seguro Médico</a>
 
 #### Medi-Cal (Medicaid)
 
-[**Medi-Cal**](Directory.md#Medi-Cal), California’s Medicaid program, is a health insurance program for low-income people who meet certain eligibility requirements. <!-- Source: https://www.dhcs.ca.gov/Medi-Cal/Pages/home.aspx -->
+[**Medi-Cal**](Directory.md#Medi-Cal), el programa Medicaid de California, es un programa de seguro médico para personas de bajos ingresos que cumplan ciertos requisitos de elegibilidad. <!-- Source: https://www.dhcs.ca.gov/Medi-Cal/Pages/home.aspx -->
 
-[**CenCal**](Directory.md#CenCal) administers Medi-Cal in SLO County. <!-- Source: https://www.cencalhealth.org/explore-cencal-health/ -->
+[**CenCal**](Directory.md#CenCal) administra Medi-Cal en el condado de SLO. <!-- Source: https://www.cencalhealth.org/explore-cencal-health/ -->
 
-You can search a list of local CenCal health care providers at [cencalhealth.org/members/provider-directory-for-members/](https://www.cencalhealth.org/members/provider-directory-for-members/).
+Puede buscar una lista de proveedores locales de atención médica de CenCal en [cencalhealth.org/members/provider-directory-for-members/](https://www.cencalhealth.org/members/provider-directory-for-members/).
 
-Homeless SLO County residents who are enrolled in CenCal Health qualify for [**Enhanced Care Management**](Directory.md#Enhanced-Care-Management). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
-This helps you coordinate the care you need across multiple healthcare providers. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
-Contact them if you want to apply or you want more details. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
-You can also apply in-person (walk-ins OK) at CAPSLO’s [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) center. <!-- SOURCE NEEDED (issue #69) -->
+Los residentes sin hogar del condado de SLO que están inscritos en CenCal Health califican para [**Enhanced Care Management**](Directory.md#Enhanced-Care-Management) (Administración de Atención Mejorada). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+Esto le ayuda a coordinar la atención que necesita entre múltiples proveedores de atención médica. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+Contáctelos si desea solicitar o si desea más detalles. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+También puede solicitar en persona (se aceptan visitas sin cita) en el centro [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) de CAPSLO. <!-- SOURCE NEEDED (issue #69) -->
 
 ##### Cómo Solicitar Medi-Cal
 
-You can apply for Medi-Cal at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
+Puede solicitar Medi-Cal en [www.coveredca.com](https://www.coveredca.com/) o [BenefitsCal.com](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
 
-You can get help applying from the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
-or [**Catholic Charities**](Directory.md#Catholic-Charities). <!-- Source: https://catholiccharitiesdom.org/family-supportive-services/medi-cal/ -->
-To get help in indigenous Mexican languages, call [805-483-1166](tel:+1-805-483-1166), or visit [mixteco.org/indigenous-interpreter-services/](https://mixteco.org/indigenous-interpreter-services/). <!-- Source: https://mixteco.org/social-services/ -->
-If you are a patient of Adventist Health, you can get help from them by calling [844-827-5047](tel:+1-844-827-5047). <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill -->
+Puede obtener ayuda para solicitar del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
+o [**Catholic Charities**](Directory.md#Catholic-Charities). <!-- Source: https://catholiccharitiesdom.org/family-supportive-services/medi-cal/ -->
+Para obtener ayuda en idiomas indígenas mexicanos, llame al [805-483-1166](tel:+1-805-483-1166), o visite [mixteco.org/indigenous-interpreter-services/](https://mixteco.org/indigenous-interpreter-services/). <!-- Source: https://mixteco.org/social-services/ -->
+Si es paciente de Adventist Health, puede obtener ayuda de ellos llamando al [844-827-5047](tel:+1-844-827-5047). <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill -->
 
-If you are a farm laborer, you may also be able to get help applying for Medi-Cal from the [Civil Assistance Program](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) of the California Farmworker Foundation. <!-- SOURCE NEEDED (issue #70) -->
+Si es trabajador agrícola, también puede obtener ayuda para solicitar Medi-Cal del [Civil Assistance Program](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) (Programa de Asistencia Civil) de la California Farmworker Foundation. <!-- SOURCE NEEDED (issue #70) -->
 
 ##### Medicamentos Recetados
 
-For information about obtaining prescription medicine through Medi-Cal, contact [**Medi-Cal Rx**](Directory.md#Medi-Cal).
-To find a Medi-Cal Rx pharmacy, visit [medi-calrx.dhcs.ca.gov/home/find-a-pharmacy](https://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy).
+Para información sobre cómo obtener medicamentos con receta a través de Medi-Cal, contacte a [**Medi-Cal Rx**](Directory.md#Medi-Cal).
+Para encontrar una farmacia de Medi-Cal Rx, visite [medi-calrx.dhcs.ca.gov/home/find-a-pharmacy](https://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy).
 
 ##### <a id="medi-cal-dentists">Dentistas</a>
 
-Dentists are not provided through CenCal but through [**Medi-Cal Dental**](Directory.md#Medi-Cal).
-For information about dental benefits, contact Med-Cal Dental.
-To find a Medi-Cal Dental provider, see one of these resources:
+Los dentistas no son proporcionados a través de CenCal sino a través de [**Medi-Cal Dental**](Directory.md#Medi-Cal).
+Para información sobre beneficios dentales, contacte a Medi-Cal Dental.
+Para encontrar un proveedor de Medi-Cal Dental, vea uno de estos recursos:
 
-- [Denti-Cal Dental Care Dentist Referral](https://www.dental.dhcs.ca.gov/Members/Medi_Cal_Dental/Find_A_Dentist/FindADentist) ([800-322-6384](tel:+1-800-322-6384))
-- [“Find A Dentist” at Smile California](https://smilecalifornia.org/find-a-dentist/)
+- [Denti-Cal Dental Care Dentist Referral](https://www.dental.dhcs.ca.gov/Members/Medi_Cal_Dental/Find_A_Dentist/FindADentist) (Referencia de Dentista de Cuidado Dental Denti-Cal) ([800-322-6384](tel:+1-800-322-6384))
+- ["Find A Dentist" en Smile California](https://smilecalifornia.org/find-a-dentist/) (Encuentre un Dentista)
 
 #### Medicare y HiCAP
 
-Medicare is a government-provided health insurance program for people over age 65 and for people with long-term disabilities.
+Medicare es un programa de seguro médico proporcionado por el gobierno para personas mayores de 65 años y para personas con discapacidades a largo plazo.
 
-Learn if you qualify for Medicare by asking the [**Social Security Administration**](Directory.md#Social-Security-Administration).
-See [ssa.gov: “Check eligibility for Social Security benefits”](https://www.ssa.gov/prepare/check-eligibility-for-benefits) or visit in person.
+Averigüe si califica para Medicare preguntando a la [**Social Security Administration**](Directory.md#Social-Security-Administration) (Administración del Seguro Social).
+Vea [ssa.gov: "Check eligibility for Social Security benefits"](https://www.ssa.gov/prepare/check-eligibility-for-benefits) (Verifique la elegibilidad para beneficios del Seguro Social) o visite en persona.
 
-Medicare’s many options can be confusing.
-[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options.
-HiCAP can help you:
+Las muchas opciones de Medicare pueden ser confusas.
+El [**Health Insurance Counseling & Advocacy Program ("HiCAP")**](Directory.md#HiCAP) (Programa de Asesoría y Defensa de Seguros Médicos) ofrece información gratis e imparcial sobre Medicare y sus opciones.
+HiCAP puede ayudarle a:
 
-- find the best prescription drug plan
-- find and use prescription drug discount programs
-- file Medicare denial appeals
-- understand long-term care insurance options
+- encontrar el mejor plan de medicamentos con receta
+- encontrar y usar programas de descuento para medicamentos con receta
+- presentar apelaciones de negación de Medicare
+- entender opciones de seguro de cuidado a largo plazo
 
-To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties. <!-- SOURCE NEEDED -->
-The HiCAP program is free. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+Para usar el programa local de HiCAP debe ser elegible para Medicare y debe ser residente de los condados de SLO o Santa Barbara. <!-- SOURCE NEEDED -->
+El programa HiCAP es gratis. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 
-You can also submit questions to them via a web form and get answers by email: [“Ask a Medicare Question”](https://centralcoastseniors.org/ask-a-medicare-question/)
+También puede enviar preguntas a través de un formulario web y recibir respuestas por correo electrónico: ["Ask a Medicare Question"](https://centralcoastseniors.org/ask-a-medicare-question/) (Haga una Pregunta sobre Medicare)
 
 #### Covered California / Obamacare
 
-Covered California is a free service that helps you to apply for affordable medical insurance in California.
-This includes Medi-Cal/CenCal but also a variety of other brand-name health insurance plans, which may be available to you for free or at a very low cost depending on your income and circumstances.
+Covered California es un servicio gratuito que le ayuda a solicitar seguro médico asequible en California.
+Esto incluye Medi-Cal/CenCal pero también una variedad de otros planes de seguro médico de marcas conocidas, que pueden estar disponibles para usted gratis o a un costo muy bajo dependiendo de sus ingresos y circunstancias.
 
-Visit [coveredca.com](https://www.coveredca.com/) or call [800-300-1506](tel:+1-800-300-1506) to learn more.
+Visite [coveredca.com](https://www.coveredca.com/) o llame al [800-300-1506](tel:+1-800-300-1506) para aprender más.
 
 #### Atención Médica del VA
 
-Military veterans may qualify for VA health care.
-To learn if you qualify, how to apply, and details about your medical benefits package, call [877-222-8387](tel:+1-877-222-8387), or visit [va.gov: “About VA health benefits.”](https://va.gov/health-care/about-va-health-benefits/)
+Los veteranos militares pueden calificar para atención médica del VA.
+Para saber si califica, cómo solicitar y detalles sobre su paquete de beneficios médicos, llame al [877-222-8387](tel:+1-877-222-8387), o visite [va.gov: "About VA health benefits."](https://va.gov/health-care/about-va-health-benefits/) (Sobre los beneficios de salud del VA)
 
-See also [**SLO Vet Center**](Directory.md#SLO-Vet-Center), [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic), and [**Veterans Services (SLO County)**](Directory.md#Veterans-Services).
+Vea también [**SLO Vet Center**](Directory.md#SLO-Vet-Center), [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) (Clínica Ambulatoria de la Administración de Veteranos), y [**Veterans Services (SLO County)**](Directory.md#Veterans-Services) (Servicios para Veteranos del Condado de SLO).
 
 #### Fondeo Colectivo para Gastos Médicos
 
