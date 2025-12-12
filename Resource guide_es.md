@@ -2151,42 +2151,42 @@ Contacte [**County Veterans Services**](Directory.md#Veterans-Services) (Servici
 
 ### <a id="housing-legal">Ayuda Legal con Vivienda (Discriminación, Disputas con Propietarios, etc.)</a>
 
-[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) provides free civil legal assistance to low-income people. <!-- Source: https://crla.org/about-crla -->
-This includes cases concerning foreclosures, evictions & lockouts, Section 8 and public housing, and housing discrimination. <!-- Source: https://crla.org/get-help/housing -->
+[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) (Asistencia Legal Rural de California) proporciona asistencia legal civil gratuita a personas de bajos ingresos. <!-- Source: https://crla.org/about-crla -->
+Esto incluye casos relacionados con ejecuciones hipotecarias, desalojos y cierres, Sección 8 y vivienda pública, y discriminación de vivienda. <!-- Source: https://crla.org/get-help/housing -->
 
-[**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) helps low-income people in SLO County with legal support. <!-- Source: https://www.slolaf.org/ -->
-Among the issues they help with are eviction defense for tenants, landlord/tenant conflicts, habitability/repair issues, accessibility for people with disabilities, Fair housing and discrimination, Section 8 housing, unlawful rent increases, foreclosure prevention, and mobile home law. <!-- Source: https://www.slolaf.org/housing and https://www.slolaf.org/foreclosureprevention -->
+[**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO) ayuda a personas de bajos ingresos en el condado de SLO con apoyo legal. <!-- Source: https://www.slolaf.org/ -->
+Entre los temas con los que ayudan están la defensa de desalojo para inquilinos, conflictos entre propietarios e inquilinos, problemas de habitabilidad y reparación, accesibilidad para personas con discapacidades, vivienda justa y discriminación, vivienda de Sección 8, aumentos de alquiler ilegales, prevención de ejecución hipotecaria y ley de casas móviles. <!-- Source: https://www.slolaf.org/housing and https://www.slolaf.org/foreclosureprevention -->
 
-The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) can help you understand your rights to be protected from illegal [housing discrimination](https://calcivilrights.ca.gov/housing/) and can also help you investigate and file formal discrimination complaints. <!-- Source: https://calcivilrights.ca.gov/housing/ -->
+El [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) (Departamento de Derechos Civiles de California) puede ayudarle a entender sus derechos a estar protegido de [discriminación de vivienda](https://calcivilrights.ca.gov/housing/) ilegal y también puede ayudarle a investigar y presentar quejas formales de discriminación. <!-- Source: https://calcivilrights.ca.gov/housing/ -->
 
-The California advocacy organization [Tenants Together](https://tenantstogether.org/) ([info@tenantstogether.org](mailto:info@tenantstogether.org)) has a tenants’ rights hotline at [888-495-8020](tel:+1-888-495-8020) (text [650-600-7821](sms:+1-650-600-7821?&body=HELPLINE)). <!-- Source: https://www.tenantstogether.org/tenant-rights-hotline -->
-They also have an online self-help [Tenant Defense Toolkit](https://www.tenantstogether.org/covid-19-tenant-defense) to help you understand your rights as a renter and how to enforce those rights.
+La organización de defensa de California [Tenants Together](https://tenantstogether.org/) (Inquilinos Unidos) ([info@tenantstogether.org](mailto:info@tenantstogether.org)) tiene una línea directa de derechos de inquilinos al [888-495-8020](tel:+1-888-495-8020) (texto [650-600-7821](sms:+1-650-600-7821?&body=HELPLINE)). <!-- Source: https://www.tenantstogether.org/tenant-rights-hotline -->
+También tienen un [Kit de Herramientas de Defensa para Inquilinos](https://www.tenantstogether.org/covid-19-tenant-defense) de autoayuda en línea para ayudarle a entender sus derechos como inquilino y cómo hacer cumplir esos derechos.
 
-The California Department of Real Estate published a [*California Tenants’ Guide*](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) ([Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf)) which gives a detailed explanation of California law concerning tenants of rental properties.
+El Departamento de Bienes Raíces de California publicó una [*Guía para Inquilinos de California*](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) ([Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf)) que da una explicación detallada de la ley de California sobre inquilinos de propiedades de alquiler.
 
-SLO city has a [Tenants Union](https://linktr.ee/slorentcoalition) ([805-779-1639](tel:+1-805-779-1639)).
+La ciudad de SLO tiene un [Sindicato de Inquilinos](https://linktr.ee/slorentcoalition) ([805-779-1639](tel:+1-805-779-1639)).
 
-The SLO branch of Democratic Socialists of America have a [Housing Justice](https://slocialism.org/housing-justice/) guide for tenants in San Luis Obispo.
-It tries to explain how you can best assert and defend your legal rights as a renter.
+La rama de SLO de Socialistas Democráticos de América tiene una guía de [Justicia de Vivienda](https://slocialism.org/housing-justice/) para inquilinos en San Luis Obispo.
+Intenta explicar cómo puede afirmar y defender mejor sus derechos legales como inquilino.
 
-The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being improperly evicted from a long term care facility. <!-- Source: https://ombudsmanslo.org/faqs -->
+El [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) (Defensor del Pueblo de Cuidado a Largo Plazo) puede ayudarle a luchar por sus derechos si está siendo desalojado incorrectamente de una instalación de cuidado a largo plazo. <!-- Source: https://ombudsmanslo.org/faqs -->
 
-U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
-This help includes rental agreement education and landlord-tenant mediation. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/forms-documents/pamphlets/ssvf-pamplet -->
-You must have a discharge other than dishonorable to use this program. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/forms-documents/pamphlets/ssvf-pamplet -->
+Los veteranos militares estadounidenses que tienen bajos ingresos y que están sin hogar o en riesgo de quedarse sin hogar pueden obtener ayuda de [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families) (Servicios de Apoyo para Familias de Veteranos).
+Esta ayuda incluye educación sobre acuerdos de alquiler y mediación entre propietarios e inquilinos. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/forms-documents/pamphlets/ssvf-pamplet -->
+Debe tener un alta que no sea deshonrosa para usar este programa. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/forms-documents/pamphlets/ssvf-pamplet -->
 
 ### <a id="benefits-legal">Ayuda con Beneficios, Disputas con Aseguradoras de Salud, etc.</a>
 
-> See the [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security) section for advice specific to those programs.
+> Vea la sección [Navegando Seguro Social / SSDI / SSI / Beneficios para Sobrevivientes](#navigating-social-security) para consejos específicos de esos programas.
 
-[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options. <!-- Source: https://centralcoastseniors.org/hicap/ -->
-HiCAP can also help you file Medicare denial appeals. <!-- Source: https://centralcoastseniors.org/hicap/ -->
-To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties. <!-- SOURCE NEEDED -->
-The HiCAP program is free. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+[**Health Insurance Counseling & Advocacy Program ("HiCAP")**](Directory.md#HiCAP) (Programa de Asesoramiento y Defensa de Seguros de Salud) ofrece información gratuita e imparcial sobre Medicare y sus opciones. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+HiCAP también puede ayudarle a presentar apelaciones de denegación de Medicare. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+Para usar el programa HiCAP local debe ser elegible para Medicare y debe ser residente de los condados de SLO o Santa Barbara. <!-- SOURCE NEEDED -->
+El programa HiCAP es gratuito. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 
-Central California Legal Services’ [Health Consumer Center](https://centralcallegal.org/health/) program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment. <!-- Source: https://centralcallegal.org/health/#hfaq-post-0 -->
+El programa [Health Consumer Center](https://centralcallegal.org/health/) (Centro de Consumidores de Salud) de Central California Legal Services ([800-464-3111](tel:+1-800-464-3111)) ayuda a las personas a inscribirse y permanecer inscritas en programas de seguro de salud, ayuda a asegurar que esos programas cubran la atención médica que necesita, y ayuda a personas que son facturadas incorrectamente o sujetas a acciones de cobro incorrectas debido a tratamiento médico. <!-- Source: https://centralcallegal.org/health/#hfaq-post-0 -->
 
-If you are a U.S. military veteran, you can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services). <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
+Si usted es un veterano militar estadounidense, puede obtener ayuda para aprender sobre, solicitar y recibir beneficios del gobierno a los que tiene derecho de las [**County Veterans Services Offices**](Directory.md#Veterans-Services) (Oficinas de Servicios para Veteranos del Condado). <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
 
 <!-- To-do:
 ### <a id="liability-law">Responsabilidad por Lesiones / Compensación Laboral</a>
@@ -2196,17 +2196,17 @@ If you are a U.S. military veteran, you can get help learning about, applying fo
 
 ### <a id="consumer-protection">Protección al Consumidor</a>
 
-To report a consumer complaint directly to the SLO District Attorney, you can use [the consumer complaint form](https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions/consumer-protection) on their website.
+Para reportar una queja de consumidor directamente al Fiscal de Distrito de SLO, puede usar [el formulario de queja de consumidor](https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions/consumer-protection) en su sitio web.
 
-Identity theft is when someone else pretends to be you—for example by using your name, identification, or credit card number—to commit fraud or to put the blame on you for something they have done.
-You can report identity theft with the Federal Trade Commission at [IdentityTheft.gov](https://www.identitytheft.gov/) or [877-438-4338](tel:+1-877-438-4338) and they can help you take steps to protect yourself. <!-- Source: https://www.usa.gov/identity-theft -->
+El robo de identidad es cuando alguien más pretende ser usted—por ejemplo usando su nombre, identificación o número de tarjeta de crédito—para cometer fraude o para culparle a usted por algo que ellos hicieron.
+Puede reportar robo de identidad con la Comisión Federal de Comercio en [IdentityTheft.gov](https://www.identitytheft.gov/) o [877-438-4338](tel:+1-877-438-4338) y pueden ayudarle a tomar medidas para protegerse. <!-- Source: https://www.usa.gov/identity-theft -->
 
-If you believe you have been defrauded by an automotive repair shop, you can get help from the [Bureau of Automotive Repairs](https://bar.ca.gov/) ([800-952-5210](tel:+1-800-952-5210) or [BARenforcement@dca.ca.gov](mailto:BARenforcement@dca.ca.gov)).
+Si cree que ha sido defraudado por un taller de reparación automotriz, puede obtener ayuda de la [Bureau of Automotive Repairs](https://bar.ca.gov/) (Oficina de Reparaciones Automotrices) ([800-952-5210](tel:+1-800-952-5210) o [BARenforcement@dca.ca.gov](mailto:BARenforcement@dca.ca.gov)).
 
-The [**California Department of Motor Vehicles**](Directory.md#California-DMV) has an investigations division that enforces laws relating to new and used vehicle dealers.
-If you are the victim of fraud or other illegal action by a vehicle dealer, you can [file a complaint online](https://dmvinvestigations.my.site.com/INVCMS/s/).
+El [**California Department of Motor Vehicles**](Directory.md#California-DMV) (Departamento de Vehículos Motorizados de California) tiene una división de investigaciones que hace cumplir las leyes relacionadas con concesionarios de vehículos nuevos y usados.
+Si es víctima de fraude u otra acción ilegal por parte de un concesionario de vehículos, puede [presentar una queja en línea](https://dmvinvestigations.my.site.com/INVCMS/s/).
 
-If you are the victim of fraud or other illegal action concerning a bank account, credit card, debt collector, money transfer, payday loan, or something like that, you may be able to get help from the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/) ([855-411-2372](tel:+1-855-411-2372); TTY: [855-729-2372](tel:+1-855-729-2372)).
+Si es víctima de fraude u otra acción ilegal relacionada con una cuenta bancaria, tarjeta de crédito, cobrador de deudas, transferencia de dinero, préstamo de día de pago o algo así, puede ser capaz de obtener ayuda de la [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/) (Oficina de Protección Financiera del Consumidor) ([855-411-2372](tel:+1-855-411-2372); TTY: [855-729-2372](tel:+1-855-729-2372)).
 
 The [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) can help you fight for your rights if you are being mistreated by or improperly evicted from a long term care facility. <!-- Source: https://ombudsmanslo.org/faqs -->
 
