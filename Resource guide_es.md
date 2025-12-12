@@ -13,7 +13,7 @@ Afortunadamente, hay mucha ayuda disponible.
 Desafortunadamente, puede ser difícil encontrar esta ayuda o entender cómo acceder a ella.
 Esta guía lo hace más fácil.
 
-La guía está organizada en secciones como "Refugio y Vivienda" o "Alimentos."
+La guía está organizada en secciones como “Refugio y Vivienda” o “Alimentos.”
 Cada sección describe brevemente los recursos disponibles en el Condado de San Luis Obispo.
 Muchas descripciones contienen enlaces en negritas y resaltados en azul al [**Directorio**](?section=directory).
 Esta página del Directorio enumera los recursos en orden alfabético, con información como el sitio web, número de teléfono, dirección de correo electrónico, ubicación y horario de operación.
@@ -75,19 +75,19 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
    <tr><td><a href="tel:+1-911">911</a></td><td>Emergencias médicas y de seguridad</td></tr>
    <tr><td><a href="tel:+1-988">988</a> / <a href="sms:988">988</a></td><td>Línea Nacional de Prevención del Suicidio</td></tr><!-- Source: https://988lifeline.org/ -->
    <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a></td><td>Línea de Ayuda de la Costa Central: línea de crisis de salud mental y prevención del suicidio disponible 24/7 que proporciona apoyo emocional inmediato</td></tr><!-- Source: https://www.t-mha.org/central-coast-hotline.php -->
-   <tr><td>Envíe mensaje de texto "HOME" a <a href="sms:741741?&body=HOME">741741</a></td><td>Línea de Texto para Crisis para apoyo emocional inmediato, o en línea en <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a></td></tr><!-- Source: https://www.crisistextline.org/ -->
+   <tr><td>Envíe mensaje de texto “HOME” a <a href="sms:741741?&body=HOME">741741</a></td><td>Línea de Texto para Crisis para apoyo emocional inmediato, o en línea en <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a></td></tr><!-- Source: https://www.crisistextline.org/ -->
    <tr><td><a href="tel:+1-833-642-7696">833-642-7696</a> (English: <a href="tel:+1-833-317-4673">833-317-HOPE</a>)</td><td>The Warm Line: apoyo emocional gratuito y confidencial</td></tr><!-- Source: https://www.calhope.org/ -->
   </tr>
   <tr><th colspan="2" style="text-align:left;">⇨ Para Jóvenes:</th></tr>
    <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Línea de Crisis para Jóvenes, para personas en California de 12 a 24 años; llame o envíe mensaje de texto</td></tr><!-- Source: https://calyouth.org/cycl/ -->
    <tr><td><a href="tel:+1-800-786-2929">800-RUN-AWAY</a> / <a href="sms:+1-800-786-2929">800-786-2929</a></td><td>Línea Nacional para Jóvenes Fugitivos: apoyo confidencial 24/7 para jóvenes fugitivos y sin hogar</td></tr><!-- Source: https://www.1800runaway.org/ -->
-   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> / envíe mensaje de texto "LOVEIS" a <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> información y apoyo para jóvenes con inquietudes sobre su relación romántica</td></tr><!-- Source: https://www.loveisrespect.org/ -->
+   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> / envíe mensaje de texto “LOVEIS” a <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> información y apoyo para jóvenes con inquietudes sobre su relación romántica</td></tr><!-- Source: https://www.loveisrespect.org/ -->
   <tr><th colspan="2" style="text-align:left;">⇨ Para Personas LGBTQ:</th></tr>
-   <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> o envíe mensaje de texto "START" a <a href="sms:678678?&body=START">678678</a></td><td>Línea Trevor: intervención en crisis y prevención del suicidio para jóvenes LGBTQ+</td></tr><!-- Source: https://www.thetrevorproject.org/get-help/ -->
+   <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> o envíe mensaje de texto “START” a <a href="sms:678678?&body=START">678678</a></td><td>Línea Trevor: intervención en crisis y prevención del suicidio para jóvenes LGBTQ+</td></tr><!-- Source: https://www.thetrevorproject.org/get-help/ -->
    <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Línea Trans: línea de crisis para personas transgénero</td></tr><!-- Source: https://translifeline.org/ -->
   <tr><th colspan="2" style="text-align:left;">⇨ Para Víctimas de Agresión Sexual y Violencia de Pareja:</th></tr>
    <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Línea de crisis local para agresión sexual, abuso sexual y violencia de pareja</td></tr><!-- Source: https://luminaalliance.org/24-hour-crisis-and-information-line -->
-   <tr><td><a href="tel:+1-800-799-7233">800-799-SAFE</a> / envíe mensaje de texto "START" a <a href="sms:88788?&body=START">88788</a></td><td>La Línea Nacional sobre Violencia Doméstica</td></tr><!-- Source: https://www.thehotline.org/ -->
+   <tr><td><a href="tel:+1-800-799-7233">800-799-SAFE</a> / envíe mensaje de texto “START” a <a href="sms:88788?&body=START">88788</a></td><td>La Línea Nacional sobre Violencia Doméstica</td></tr><!-- Source: https://www.thehotline.org/ -->
   <tr><th colspan="2" style="text-align:left;">⇨ Para Padres:</th></tr>
    <tr><td><a href="tel:+1-833-852-6262">833-TLC-MAMA</a> / <a href="sms:1-833-852-6262">833-TLC-MAMA</a></td><td>Línea Nacional de Salud Mental Materna (llame o envíe mensaje de texto)</td></tr><!-- Source: https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline -->
    <tr><td><a href="tel:+1-888-431-2229">888-431-2229</a></td><td>Línea de Ayuda de la Red del Bebé Inquieto</td></tr><!-- Source: https://www.erikson.edu/fussy-baby-network/ -->
@@ -102,7 +102,7 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
    <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Línea de Ayuda Help-4-Hep: apoyo entre pares para cualquier persona con inquietudes sobre hepatitis C (L–V 9am–5pm hora del Este)</td></tr><!-- Source: https://www.help4hep.org/lets-talk -->
    <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Línea de Acceso de Salud del Comportamiento del Condado de SLO: número principal para programar citas y obtener información sobre todos los servicios de salud del comportamiento, incluyendo navegación y apoyo entre pares</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
    <tr><td><a href="tel:+1-805-540-6576">800-540-6576</a></td><td>Navegador de Salud del Comportamiento: obtenga ayuda para encontrar la ayuda que necesita y comprender el sistema local de salud del comportamiento</td></tr><!-- Source: https://www.t-mha.org/program-details.php?id=20 -->
-   <tr><td><a href="tel:+1-855-600-9276">855-600-WARM</a></td><td>Línea de Ayuda de Pares de California (también disponible como chat de texto en línea <a href="https://www.mentalhealthsf.org/warm-line">aquí</a>) para personas con "una amplia gama de desafíos, incluyendo ansiedad, depresión y uso de sustancias" (L/Ma/Mi/V 7am–11pm; J 8am–10pm)</td></tr><!-- Source: https://www.mentalhealthsf.org/warm-line -->
+   <tr><td><a href="tel:+1-855-600-9276">855-600-WARM</a></td><td>Línea de Ayuda de Pares de California (también disponible como chat de texto en línea <a href="https://www.mentalhealthsf.org/warm-line">aquí</a>) para personas con “una amplia gama de desafíos, incluyendo ansiedad, depresión y uso de sustancias” (L/Ma/Mi/V 7am–11pm; J 8am–10pm)</td></tr><!-- Source: https://www.mentalhealthsf.org/warm-line -->
    <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a></td><td>Kick It California, ayuda para dejar de fumar</td></tr><!-- Source: https://www.kickitca.org/ -->
    <tr><td><a href="tel:+1-800-662-4357">800-662-HELP</a></td><td>Línea de ayuda nacional de la Administración de Servicios de Salud Mental y Abuso de Sustancias (SAMHSA) (gratuita, confidencial, 24/7 para referidos e información sobre tratamiento de abuso de sustancias)</td></tr><!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
    <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Línea de ayuda 24/7 de Alcohólicos Anónimos de la Costa Central</td></tr><!-- Source: https://www.sloaa.org/ -->
@@ -116,7 +116,7 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>Coalición para Personas sin Hogar de 5Cities para asistencia de vivienda y entrada coordinada</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>Gerente de Respuesta a Personas sin Hogar de la Ciudad de SLO</td></tr><!-- Source: https://www.slocity.org/living/neighborhood/homelessness -->
   <tr><th colspan="2" style="text-align:left;">⇨ Immigration:</th></tr>
-   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Línea de Respuesta Rápida para Inmigrantes (reportar actividad de ICE o conectarse con apoyo legal); regístrese para alertas de texto <a href="sms:+1-805-870-8855?&amp;body=ALERT">enviando mensaje de texto "ALERT" a este número</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Línea de Respuesta Rápida para Inmigrantes (reportar actividad de ICE o conectarse con apoyo legal); regístrese para alertas de texto <a href="sms:+1-805-870-8855?&amp;body=ALERT">enviando mensaje de texto “ALERT” a este número</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> o envíe mensaje de texto a <a href="sms:233733">233733</a></td><td>Línea Nacional contra el Tráfico de Personas</td></tr><!-- Source: https://humantraffickinghotline.org/en -->
  </tbody>
 </table>
@@ -161,7 +161,7 @@ Las políticas de privacidad varían según la agencia.
 Los proveedores de servicios para personas sin hogar del gobierno (y los proveedores de servicios que reciben subsidios y contratos del gobierno) a menudo comparten información sobre sus clientes a través del HMIS (Sistema de Información de Gestión de Personas sin Hogar).
 Antes de que un proveedor de servicios ingrese información sobre usted en el HMIS, recibirá [un aviso de privacidad](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-coc-hmis-consent-for-release-of-information-2024-final-%28sp%29) ([English](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final)) y se le pedirá su consentimiento.
 Puede pedir revisar este aviso de privacidad en cualquier momento. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
-Este aviso de privacidad establece: "Aún es elegible para servicios si rechaza compartir su información estándar en HMIS". <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
+Este aviso de privacidad establece: “Aún es elegible para servicios si rechaza compartir su información estándar en HMIS”. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
 Pregunte sobre los formularios de Consentimiento para Divulgación de Información (ROI) del HMIS y qué significan antes de firmarlos.
 Tiene derecho a ver la información que se ha recopilado sobre usted en el HMIS, a tener su propia copia de esta información, a solicitar cambios y a que se marque como privada (para que no se comparta con otros proveedores de servicios que usan HMIS). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
 La privacidad de la información en el HMIS está protegida por ley, pero el gobierno no siempre sigue la ley, así que sea cauteloso.
@@ -266,7 +266,7 @@ Comuníquese directamente con los proveedores de servicios para verificar su inf
 
 Si está sin hogar o está amenazado con desalojo mediante un aviso para pagar la renta o desocupar, o si ha tenido que mudar a su familia a un hotel, puede obtener ayuda inmediata del [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 Este programa puede pagar su depósito de seguridad, un mes de renta o un pago de depósito de servicios públicos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
-Para calificar, debe tener "elegibilidad aparente" para CalWORKs y menos de $100 en activos líquidos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+Para calificar, debe tener “elegibilidad aparente” para CalWORKs y menos de $100 en activos líquidos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 Primero debe obtener una referencia del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 El primer paso en este proceso es solicitar CalWORKs, lo cual puede hacer en línea en [BenefitsCal](https://benefitscal.com/).
 
@@ -309,12 +309,12 @@ Los horarios de recogida de esas áreas son los siguientes: <!-- Source: https:/
 
 El centro de calefacción de [**5Cities Homeless Coalition**](Directory.md#5CHC) en <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. en Arroyo Grande</a> opera entre las 5:30pm y 7am. <!-- Source: https://5chc.org/programs/warming-center -->
 Debe registrarse entre las 5:30pm y 8pm. <!-- Source: https://www.instagram.com/countyofslo/ -->
-Las mascotas están permitidas si tiene prueba de licencia/vacunas. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
+Las mascotas están permitidas si tiene prueba de licencia/vacunas. <!-- Source: their “warming center will be open” email 19 Nov 2025 -->
 <!-- True? You must have a valid ID. -->
-Las personas con condenas P.C. 290 no pueden ingresar al centro. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
+Las personas con condenas P.C. 290 no pueden ingresar al centro. <!-- Source: their “warming center will be open” email 19 Nov 2025 -->
 Llame al [805-202-3615](tel:+1-805-202-3615) para verificar que el centro esté abierto<!-- Source: https://5chc.org/programs/warming-center --> y para conocer las opciones de transporte gratuito al centro desde Grover Beach, Oceano y Pismo Beach. <!-- SOURCE NEEDED -->
 El centro de calefacción ofrece cena y un desayuno ligero. <!-- Source: https://5chc.org/programs/warming-center -->
-Envíe mensaje de texto "Add Me" al [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) para recibir actualizaciones por mensaje de texto cuando el centro de calefacción abra,<!-- Source: https://5chc.org/programs/warming-center --> o envíe un correo electrónico a [info@5chc.org](mailto:info@5chc.org) y pida que lo agreguen a su lista de notificaciones. <!-- SOURCE NEEDED -->
+Envíe mensaje de texto “Add Me” al [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) para recibir actualizaciones por mensaje de texto cuando el centro de calefacción abra,<!-- Source: https://5chc.org/programs/warming-center --> o envíe un correo electrónico a [info@5chc.org](mailto:info@5chc.org) y pida que lo agreguen a su lista de notificaciones. <!-- SOURCE NEEDED -->
 
 [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opera un centro de calefacción de diez camas en su ubicación de refugio de Paso Robles. <!-- SOURCE NEEDED -->
 Opera entre las 6:00pm y 7:00am. Regístrese entre las 4:30pm y 5:30pm. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
@@ -340,7 +340,7 @@ También debe poder cuidarse independientemente (bañarse, alimentarse, vestirse
 El centro 40 Prado es el único refugio nocturno para personas sin hogar sin cita previa en el condado de SLO.
 [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) solía operar un refugio en el norte del condado, pero ahora solo ofrece vivienda de transición de 90 días allí ([vea abajo](#transitional-and-long-term-housing)) y un centro de calefacción ocasional.
 
-[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) opera un conjunto de refugios en Santa Maria y otros lugares en el condado de Santa Barbara. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+[**Refugio del Buen Samaritano**](Directory.md#Good-Samaritan-Shelter) opera un conjunto de refugios en Santa Maria y otros lugares en el condado de Santa Barbara. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
 Llame con anticipación durante el horario de oficina para saber qué refugio tiene espacio para usted. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
 También tienen instalaciones de lavandería, comidas calientes, tratamiento de uso de sustancias y servicios de salud mental. <!-- SOURCE NEEDED -->
 
@@ -349,7 +349,7 @@ Llame a su línea de crisis e información para obtener acceso a este programa. 
 También lo ayudarán con defensa capacitada, acompañamiento a citas médicas/legales, administración de casos y terapia para sobrevivientes y niños. <!-- Source: https://luminaalliance.org/get-help-now#services -->
 Operan en todo el condado de SLO y están abiertos a personas de todos los géneros, edades y antecedentes. <!-- Source: https://luminaalliance.org/housing -->
 
-Si está sin hogar y tiene una necesidad médicamente verificada de vivienda temporal 24/7 porque está gravemente enfermo, recuperándose de una cirugía o lesión o embarazo de alto riesgo, o algo de esa naturaleza, puede calificar para el [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program). <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
+Si está sin hogar y tiene una necesidad médicamente verificada de vivienda temporal 24/7 porque está gravemente enfermo, recuperándose de una cirugía o lesión o embarazo de alto riesgo, o algo de esa naturaleza, puede calificar para el [**Programa para Personas sin Hogar con Fragilidad Médica**](Directory.md#Medically-Fragile-Homeless-Program). <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
 Lo ayudarán con vivienda inmediata, servicios de apoyo y administración de casos coordinada para asegurar la recuperación física, acceso a fuentes de ingresos, conexión a servicios y una alternativa de vivienda más permanente cuando salga del programa. <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
 No puede solicitar este programa usted mismo, pero debe obtener una referencia de una agencia como [**Adult Protective Services**](Directory.md#Adult-Protective-Services),<!-- Source: https://cfsslo.org/#mfh -->
 [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <!-- SOURCE NEEDED -->
@@ -358,15 +358,15 @@ No puede solicitar este programa usted mismo, pero debe obtener una referencia d
 o [**CalWORKs**](Directory.md#CalWORKs). <!-- SOURCE NEEDED -->
 Si está siendo tratado por un hospital u otros profesionales médicos, considere decirles que está sin hogar y preguntarles si pueden ayudarlo con este proceso.
 
-Si necesita refugio porque tiene una condición médica que requiere que tenga alguna supervisión médica, es posible que pueda obtener una referencia a un centro de atención rehabilitativa, de enfermería especializada o de vida asistida. <!-- Source: Amelia Grove's "Aging and Levels of Care" presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
-Puede obtener tal referencia de su médico de atención primaria. <!-- Source: Amelia Grove's "Aging and Levels of Care" presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
-También es posible que pueda obtener ayuda de [**Adult Protective Services**](Directory.md#Adult-Protective-Services). <!-- Source: Amelia Grove's "Aging and Levels of Care" presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
+Si necesita refugio porque tiene una condición médica que requiere que tenga alguna supervisión médica, es posible que pueda obtener una referencia a un centro de atención rehabilitativa, de enfermería especializada o de vida asistida. <!-- Source: Amelia Grove’s “Aging and Levels of Care” presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
+Puede obtener tal referencia de su médico de atención primaria. <!-- Source: Amelia Grove’s “Aging and Levels of Care” presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
+También es posible que pueda obtener ayuda de [**Adult Protective Services**](Directory.md#Adult-Protective-Services). <!-- Source: Amelia Grove’s “Aging and Levels of Care” presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
 
-#### Una Nota Sobre los Servicios de Apoyo "En el Hogar"
-<!-- Note: not sure where this section belongs. I could see a case for it being in the "Medical/Health" section, or maybe in the section on services for particular groups (e.g. elderly/disabled/blind). People who are looking for this information seem unlikely to search for it by going to the the "Housing" section. -->
+#### Una Nota Sobre los Servicios de Apoyo “En el Hogar”
+<!-- Note: not sure where this section belongs. I could see a case for it being in the “Medical/Health” section, or maybe in the section on services for particular groups (e.g. elderly/disabled/blind). People who are looking for this information seem unlikely to search for it by going to the the “Housing” section. -->
 
 El programa [**In-Home Supportive Services (IHSS)**](Directory.md#In-Home-Supportive-Services) ayuda a pagar los servicios proporcionados a personas mayores, ciegas o discapacitadas que tienen dificultades para cuidarse y no pueden vivir en casa de manera segura sin atención en el hogar. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-A pesar del nombre "en el hogar", este programa también está potencialmente disponible para personas que se refugian en refugios para personas sin hogar o sitios de estacionamiento seguro.<!-- according to the long-term care ombudsman at the Collaborative Outreach Meeting on 5 Nov 2025 -->
+A pesar del nombre “en el hogar”, este programa también está potencialmente disponible para personas que se refugian en refugios para personas sin hogar o sitios de estacionamiento seguro.<!-- according to the long-term care ombudsman at the Collaborative Outreach Meeting on 5 Nov 2025 -->
 Entre los servicios que este programa puede ayudar a pagar están la preparación de comidas, lavandería, compras de alimentos, servicios de cuidado personal (como cuidado intestinal y de vejiga, baño, aseo y servicios paramédicos, ayuda para vestirse, ayuda para entrar y salir de una silla de ruedas) y acompañamiento a citas médicas. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 
 Para calificar para IHSS, debe ser discapacitado, ciego o tener 65 años o más. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
@@ -375,7 +375,7 @@ El proceso de solicitar IHSS es difícil, por lo que es buena idea obtener ayuda
 
 ### <a id="camping-parking-rv-parks">Campamentos Legales, Estacionamiento Seguro y Parques de Casas Rodantes</a>
 
-Si duerme en su vehículo, hay algunos lugares gratuitos y legales de "estacionamiento seguro" disponibles en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) donde puede quedarse de 6pm a 7am. <!-- Source: https://capslo.org/safe-parking/ -->
+Si duerme en su vehículo, hay algunos lugares gratuitos y legales de “estacionamiento seguro” disponibles en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) donde puede quedarse de 6pm a 7am. <!-- Source: https://capslo.org/safe-parking/ -->
 Para registrarse en uno de estos lugares, primero complete el formulario de referencia en el [sitio web de CAPSLO](https://capslo.org/safe-parking/). <!-- Source: https://capslo.org/safe-parking/ -->
 También tendrá acceso a los diversos otros servicios ofrecidos en 40 Prado (como comidas, duchas, lavandería, servicios de correo/teléfono, una clínica médica integrada y una perrera para animales). <!-- Source: https://capslo.org/safe-parking/ -->
 Su vehículo debe estar registrado y debe tener prueba de seguro. <!-- Source: https://capslo.org/safe-parking/ -->
@@ -384,7 +384,7 @@ No debe ser un delincuente sexual registrado P.C. 290 para usar este servicio. <
 Los residentes del condado de SLO tienen prioridad. <!-- Source: https://friendsof40prado.org/safe-parking-program-expanded/ -->
 Comuníquese con Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) si tiene preguntas. <!-- Source: https://capslo.org/safe-parking/ -->
 
-Hay algunos lugares gratuitos y legales de "estacionamiento seguro" disponibles en el área de la ciudad de SLO a través del [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
+Hay algunos lugares gratuitos y legales de “estacionamiento seguro” disponibles en el área de la ciudad de SLO a través del [**Programa Rotativo de Estacionamiento Seguro Nocturno**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
 Para registrarse en uno de estos lugares, primero complete el proceso de admisión en las oficinas de 40 Prado cualquier día de 8am a 2pm.
 Obtiene un lugar para estacionar de noche durante 90 días, con una posible extensión de 30 días.
 Debe mover su vehículo lejos del sitio durante el día.
@@ -427,7 +427,7 @@ Esta sección discute opciones de vivienda a más largo plazo incluyendo *vivien
 El [**Coordinated Entry System (CES)**](Directory.md#CES) es el sistema del condado de SLO para conectar a las personas necesitadas con vivienda de transición o a largo plazo que sea apropiada para ellos.
 Si desea obtener tal vivienda, debe intentar ingresar a este sistema.
 Esto puede ser más efectivo que intentar contactar a los muchos programas individuales de vivienda de transición o a largo plazo uno a la vez.
-Para ingresar a este sistema, comuníquese con una de las muchas agencias participantes, como [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) o [**SLO County Health Department**](Directory.md#SLO-County-Health-Department). <!-- SOURCE NEEDED -->
+Para ingresar a este sistema, comuníquese con una de las muchas agencias participantes, como [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Refugio del Buen Samaritano**](Directory.md#Good-Samaritan-Shelter) o [**SLO County Health Department**](Directory.md#SLO-County-Health-Department). <!-- SOURCE NEEDED -->
 
 Un programa llamado [**Housing Now**](Directory.md#Housing-Now) encuentra hogares para las personas crónicamente sin hogar más vulnerables del condado de SLO.
 No puede solicitar directamente participar en este programa, pero si ingresa al Coordinated Entry System (vea arriba), ese sistema eventualmente puede colocarlo en este programa para que pueda obtener rápidamente un hogar. <!-- SOURCE NEEDED -->
@@ -450,7 +450,7 @@ Para calificar debe cumplir con los requisitos de elegibilidad de CalWORKs y ten
 El [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) de [**Family Care Network**](Directory.md#Family-Care-Network) proporciona asistencia financiera para depósitos de vivienda y renta a familias que están experimentando falta de vivienda o están en riesgo de quedarse sin hogar en el condado de SLO.<!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
 También ofrecen administración de casos y talleres de habilidades para la vida (presupuesto, reparación de crédito, comunicación), pases de autobús, tarjetas de gasolina y asistencia con documentos. <!-- SOURCE NEEDED (issue #36) -->
 
-[**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (también conocido como "Mi Hogar para la Esperanza") y [**Cabins for Change**](Directory.md#Cabins-for-Change), ambos en Grover Beach, operan muchas "casas pequeñas" individuales que sirven como vivienda de transición. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
+[**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (también conocido como “My Home for Hope”) y [**Cabins for Change**](Directory.md#Cabins-for-Change), ambos en Grover Beach, operan muchas “casas pequeñas” individuales que sirven como vivienda de transición. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 Las cabañas vienen con apoyo 24/7, administración de casos, conexiones a servicios de alimentos y recuperación, y orientación para estabilización de vivienda. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 Tienen duchas en el lugar. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 Aceptan perros vacunados y bien portados. <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
@@ -473,14 +473,14 @@ Si su solicitud es aceptada, será colocado en la lista de espera. <!-- Source e
 Debe incluir copias de los talones de cheque de pago de los últimos tres meses, prueba de otras fuentes de ingresos y una copia de sus declaraciones de impuestos federales de los últimos dos años. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2025/05/OP1-OP2-APP-INSTRUCTION-SHT.pdf -->
 Puede ser rechazado si recientemente fue desalojado, incumplió con deudas o tiene ciertas condenas penales. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2020/09/Tenant-Selection-Plan-for-OP1.pdf -->
 
-[**Lumina Alliance**](Directory.md#Lumina-Alliance) opera un [programa de vivienda de transición](https://luminaalliance.org/transitional-housing/) de seis a 24 meses para individuos y familias que están huyendo de violencia doméstica, violencia en relaciones de pareja, agresión sexual y/o acoso. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
+[**Lumina Alliance**](Directory.md#Lumina-Alliance) opera un [programa de viviendas de transición](https://luminaalliance.org/transitional-housing/) de seis a 24 meses para individuos y familias que están huyendo de violencia doméstica, violencia en relaciones de pareja, agresión sexual y/o acoso. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
 Las personas alojadas a través de este programa también obtienen acceso a servicios de defensa, asistencia de empleo, consejería, ayuda legal, servicios para niños, desarrollo de habilidades para la vida y ayuda para obtener vivienda permanente. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
 Si está sin hogar o necesita vivienda debido a huir de una situación abusiva, tiene ingresos bajos o muy bajos, y está dispuesto a participar en el programa de Lumina y cooperar con ellos en seguir un plan de seguridad, puede calificar para vivienda de transición a través de este programa. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
 
 Los adultos del condado de SLO con enfermedad mental pueden calificar para vivienda de apoyo en múltiples ubicaciones del condado a través del [programa de vivienda residencial](https://www.t-mha.org/housing.php) de [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA).
 
 El programa [**HomeShare SLO**](Directory.md#HomeShare-SLO) conecta a propietarios que tienen una habitación extra con personas que necesitan un lugar para vivir. <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
-<!-- Still true? They have a "reduced rent task exchange" program with which you can do 8–15 hours of work per week to get a rent reduction. -->
+<!-- Still true? They have a “reduced rent task exchange” program with which you can do 8–15 hours of work per week to get a rent reduction. -->
 
 [**Restorative Partners**](Directory.md#Restorative-Partners) opera un [programa de vivienda](https://restorativepartners.org/housing/) con múltiples programas de vivienda de transición para hombres, mujeres y familias en varias ubicaciones del condado de SLO. <!-- Source: https://restorativepartners.org/housing/ -->
 Estos programas son para personas en recuperación de adicción y personas en transición de encarcelamiento. <!-- SOURCE NEEDED -->
@@ -488,18 +488,18 @@ Algunos son específicos para mujeres con niños. <!-- SOURCE NEEDED -->
 Junto con vivienda, los residentes obtienen ayuda con apoyo de empleo, alfabetización financiera, habilidades para la vida, recuperación de adicción y ayuda para encontrar vivienda permanente. <!-- SOURCE NEEDED -->
 Hay una lista de espera. <!-- SOURCE NEEDED -->
 
-[**Salvation Army**](Directory.md#Salvation-Army) tiene un "Programa de Reubicación Rápida" que ayuda a las personas a encontrar y calificar para vivienda a largo plazo. <!-- Source: https://caringmagazine.org/how-the-salvation-army-in-san-luis-obispo-is-reaching-unhoused-people-street-level-program/ -->
+[**Salvation Army**](Directory.md#Salvation-Army) tiene un “Programa de Reubicación Rápida” que ayuda a las personas a encontrar y calificar para vivienda a largo plazo. <!-- Source: https://caringmagazine.org/how-the-salvation-army-in-san-luis-obispo-is-reaching-unhoused-people-street-level-program/ -->
 Comuníquese con Hattie Davis ([hattie.davis@usw.salvationarmy.org](mailto:hattie.davis@usw.salvationarmy.org)) para detalles. <!-- SOURCE NEEDED (issue #60) -->
 
 El programa [**HouseKeys**](Directory.md#HouseKeys) es el programa de propiedad de vivienda asequible de la ciudad de SLO.
 Sirve a hogares con aproximadamente 30–50% del ingreso medio del área. <!-- SOURCE NEEDED -->
-Su idea de "asequible" puede no ser la suya.
+Su idea de “asequible” puede no ser la suya.
 Si desea solicitar vivienda a través de este programa, comience el [proceso de solicitud](https://www.housekeys.org/applicationprocess) descrito en su sitio web.
 
 [**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) opera un programa de propiedad de vivienda para compradores de vivienda de bajos ingresos por primera vez y asistencia de preservación de vivienda (reparaciones menores, jardinería, pintura) para propietarios de vivienda de bajos ingresos. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 Solicite a través de su sitio web. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 
-[**Peoples' Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) opera un programa de propiedad de vivienda de "capital sudado" en el que las familias ayudan a construir sus propias casas. <!-- Source: https://www.pshhc.org/home-ownership/ -->
+[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) opera un programa de propiedad de vivienda de “capital sudado” en el que las familias ayudan a construir sus propias casas. <!-- Source: https://www.pshhc.org/home-ownership/ -->
 También operan desarrollos de vivienda de alquiler asequible y programas de vivienda de apoyo. <!-- Sources: https://www.pshhc.org/rental-properties/ and https://www.pshhc.org/supportive-housing/ -->
 Sirven a familias de bajos ingresos, trabajadores agrícolas, personas mayores, veteranos, personas con discapacidades y personas anteriormente sin hogar. <!-- Source: https://www.pshhc.org/rental-faq/#1603302191846-0d88dd41-feca -->
 Comuníquese con ellos directamente para acceder al programa. <!-- Source: https://www.pshhc.org/rental-faq/#1755192260681-29f97bf4-933c -->
@@ -515,7 +515,7 @@ Si es un refugiado de otro país, es posible que pueda obtener ayuda para establ
 
 <!-- Note: the “Assisted Living Waiver” program is not available in SLO yet. There are no Assisted Living / Residential Care For the Elderly (RCFE) facilities in SLO County that accept Medi-Cal. If you need a Medi-Cal facility of that type, you’ll have to go out of the area. Source: Amelia Grover’s presentation at the 5 Nov. 2025 Collaborative Outreach meeting -->
 
-[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) y [**Peoples' Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operan varias propiedades de alquiler de vivienda asequible para personas mayores. <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
+[**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) y [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operan varias propiedades de alquiler de vivienda asequible para personas mayores. <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 
 Hay algunas opciones adicionales de vivienda subsidiada y asequible especialmente para personas mayores (a veces definidas como edad 55 y mayor, o como 62 y mayor).
 Estas incluyen:
@@ -554,7 +554,7 @@ The projects in this subsection are not yet housing people but hope to do so soo
 [**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarily single seniors.
 As of December 2025 the project is still under construction and is not admitting residents.
 
-[**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city on county-owned land.
+[**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that will be operated by [**Refugio del Buen Samaritano**](Directory.md#Good-Samaritan-Shelter) in SLO city on county-owned land.
 Priority is given to Bob Jones Bike Trail encampment residents.
 As of December 2025 the project is still under construction and is not admitting residents.
 
@@ -594,14 +594,14 @@ Llame al [877-4AID-VET](tel:+1-877-424-3838) o solicite ayuda de [**SLO County V
 
 [**SLO County Behavioral Health Department**](Directory.md#SLO-County-Behavioral-Health) tiene contratos con entornos de vida sobria en todo el condado de SLO (desde Oceano hasta Paso Robles) a tarifas de $35–55 por día. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
 Estas instalaciones aceptan Medi-Cal y ofrecen tarifas de escala móvil según la capacidad de pago. <!-- SOURCE NEEDED -->
-Visite [**SLO County Drug and Alcohol Services**](Directory.md##SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Behavioral Health al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
+Visite [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Behavioral Health al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
 
 Aquí hay algunas opciones de tratamiento residencial en el condado de SLO:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
 <!-- Note: Restorative Partners runs some sober living homes in the area, but these are specifically designed for people reentering society from jail/prison custody -->
 
 - [**Captive Hearts**](Directory.md#Captive-Hearts) (Grover Beach) solo para mujeres <!-- SOURCE NEEDED -->
-- [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) solo para mujeres. También conocida como "Sunshine House." <!-- SOURCE NEEDED -->
+- [**Casa Solana**](Directory.md#Casa-Solana) (Grover Beach) solo para mujeres. También conocida como “Sunshine House.” <!-- SOURCE NEEDED -->
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (Grover Beach) solo para hombres <!-- SOURCE NEEDED -->
 - [**Discipleship Home**](Directory.md#Discipleship-Home) (Oceano) solo para hombres <!-- SOURCE NEEDED -->
 - [**Gryphon Society**](Directory.md#Gryphon-Society) (SLO) solo para mujeres <!-- SOURCE NEEDED -->
@@ -630,7 +630,7 @@ Son solo para bicicletas (no puede usarlos para guardar otras pertenencias perso
 ### <a id="long-term-property-storage">Largo Plazo</a>
 
 Hay varias opciones comerciales de almacenamiento a largo plazo en el condado de SLO.
-Puede encontrarlas haciendo una búsqueda en la web con términos como "self storage" o "mini storage".
+Puede encontrarlas haciendo una búsqueda en la web con términos como “self storage” o “mini storage”.
 Generalmente alquilan espacios por mes, y tienen unidades de diferentes tamaños disponibles a diferentes precios.
 Las unidades de 5′×5′, 5′×10′ y 10′×10′ son típicas.
 Puede esperar pagar alrededor de $60–75 por mes por los tamaños más pequeños y económicos, hasta $150 para tamaños más grandes. <!-- SOURCE NEEDED -->
@@ -644,7 +644,7 @@ Estas agencias tienen diferentes políticas sobre si almacenarán, en qué medid
 Generalmente solo almacenan ciertos artículos de propiedad, y descartarán cosas que son peligrosas, sucias, deterioradas o que les parezcan simplemente basura.
 A menudo almacenan todos los artículos tomados de una limpieza de campamento en una pila grande, lo que puede dificultar que encuentre sus propios artículos.
 
-Grover Beach publicará un aviso *después* de que hagan una limpieza de campamento, en la ubicación anterior del campamento, "indicando dónde se están almacenando las pertenencias personales, y listando el número de teléfono y las horas en que una persona que reclame propiedad puede recoger o hacer arreglos para recoger sus pertenencias personales." <!-- Source: Grover Beach Municipal Code 14.3997.9.D.8 -->
+Grover Beach publicará un aviso *después* de que hagan una limpieza de campamento, en la ubicación anterior del campamento, “indicando dónde se están almacenando las pertenencias personales, y listando el número de teléfono y las horas en que una persona que reclame propiedad puede recoger o hacer arreglos para recoger sus pertenencias personales.” <!-- Source: Grover Beach Municipal Code 14.3997.9.D.8 -->
 Almacenarán algunas pertenencias durante 90 días antes de descartarlas. <!-- Source: Grover Beach Municipal Code 14.3997.9.D.8 -->
 
 Morro Bay almacena algunas pertenencias tomadas durante limpiezas de campamentos durante 90 días antes de descartarlas. <!-- Source: Morro Bay Municipal Code 8.26.040.B.1 -->
@@ -657,7 +657,7 @@ Si piensan que podrían tenerlas, puede hacer una cita para recuperarlas. <!-- S
 Si sus pertenencias fueron confiscadas de una limpieza de campamento a lo largo de la autopista, rampa de entrada/salida, o paso elevado/paso inferior, esto puede haber sido hecho por Caltrans.
 Deben publicar avisos donde planean hacer limpiezas de campamentos 72 horas antes de que comiencen, y esos avisos deben incluir un número de teléfono al que puede llamar para obtener ayuda para recuperar sus pertenencias. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
 Si no publicaron avisos con anticipación, deben publicar avisos después que describan de dónde se quitaron los artículos, un número de contacto para llamar para reclamarlos, y la fecha límite para reclamarlos. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
-No revisarán las pertenencias para identificar artículos valiosos, pero si ven "artículos de valor aparente" a simple vista, los tratarán como propiedad privada, perdida, descartada, abandonada o robada y los guardarán durante 90 días después de quitarlos antes de desecharlos. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
+No revisarán las pertenencias para identificar artículos valiosos, pero si ven “artículos de valor aparente” a simple vista, los tratarán como propiedad privada, perdida, descartada, abandonada o robada y los guardarán durante 90 días después de quitarlos antes de desecharlos. <!-- Source: Caltrans maintenance manual 1.07.3-4 https://dot.ca.gov/-/media/dot-media/programs/maintenance/documents/3-chpt-1-july-2015-rev-1-02-a11y.pdf -->
 
 Si una agencia diferente fue responsable de la limpieza, intente descubrir cuál agencia fue, y luego comuníquese con ellos directamente.
 
@@ -702,19 +702,19 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
  Blessed to Serve: SOURCE NEEDED
  Food Not Bombs: https://www.instagram.com/foodnotbombs_slo/
 -->
-| Ubicación    | Proveedor de Comida                                                        | Cuándo                        |
-| ------------ | -------------------------------------------------------------------------- | ----------------------------- |
-| Atascadero   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm diario                    |
-| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)    | 5pm martes y 6pm miércoles    |
-| Cal Poly     | [**Front Porch**](Directory.md#Front-Porch)                                | cena miércoles                |
-| Grover Beach | [**People's Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | almuerzo mediodía diario      |
-| Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm miércoles                 |
-| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 5:30pm lunes                  |
-| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm diario                 |
-| SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am la mayoría de los jueves |
-| SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 5pm lunes y jueves            |
-| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm domingos                  |
-| SLO          | [**People's Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | almuerzo mediodía diario      |
+| Ubicación    | Proveedor de Comida                                                       | Cuándo                        |
+| ------------ | ------------------------------------------------------------------------- | ----------------------------- |
+| Atascadero   | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)           | 5pm diario                    |
+| Atascadero   | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)   | 5pm martes y 6pm miércoles    |
+| Cal Poly     | [**Front Porch**](Directory.md#Front-Porch)                               | cena miércoles                |
+| Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)    | almuerzo mediodía diario      |
+| Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                         | 5pm miércoles                 |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation) | 5:30pm lunes                  |
+| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)           | 4:30pm diario                 |
+| SLO          | Hombres de [**Agape Church**](Directory.md#Agape-Church)                  | 11am la mayoría de los jueves |
+| SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                     | 5pm lunes y jueves            |
+| SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                         | 1pm domingos                  |
+| SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)            | almuerzo mediodía diario      |
 
 ### <a id="free-food-pantries">Despensas de Alimentos Gratis</a>
 
@@ -735,7 +735,7 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Ubicación      | Despensa                                                                                                                                               | Cuándo |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
 | Arroyo Grande  | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                                                                        | viernes 12:45–1:30pm |
-| Arroyo Grande  | [**Saint Patrick's Church**](Directory.md#St-Patricks-Church) (residentes de South County solamente; traiga identificación con foto)                   | martes–jueves 4–5pm |
+| Arroyo Grande  | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church) (residentes de South County solamente; traiga identificación con foto)                   | martes–jueves 4–5pm |
 | Arroyo Grande  | [**Salvation Army**](Directory.md#Salvation-Army)                                                                                                      | lunes, miércoles, viernes 10am–mediodía |
 | Atascadero     | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                                                                          | jueves 1–2pm |
 | Atascadero     | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero) (residentes de North County solamente)                                             | lunes–viernes 1–3pm |
@@ -744,10 +744,10 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Cal Poly       | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) (para estudiantes y personal de Cal Poly)                                               | lunes–viernes 8:30am–6pm |
 | Cambria        | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                                                                    | segundo y cuarto jueves mediodía–2pm |
 | Cayucos        | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                                                                                  | miércoles 10:30–11am |
-| Cayucos        | [**St. Joseph's Catholic Church**](Directory.md#St-Josephs-Church)                                                                                     | viernes 10am–mediodía (jueves 7:30–7:45 con cita) |
+| Cayucos        | [**St. Joseph’s Catholic Church**](Directory.md#St-Josephs-Church)                                                                                     | viernes 10am–mediodía (jueves 7:30–7:45 con cita) |
 | Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) (debe ser estudiante de Cuesta) | lunes–viernes 9am–4:30pm |
 | Grover Beach   | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) (traiga identificación con foto)                   | lunes–viernes 2–3:30pm |
-| Los Osos       | [**King's Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | martes 8–10am |
+| Los Osos       | [**King’s Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | martes 8–10am |
 | Los Osos       | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People)                                                    | miércoles 9:30–10:30am |
 | Los Osos       | [**Trinity United Methodist Church (Los Osos)**](Directory.md#Trinity-United-Methodist-Church)                                                         | martes y viernes 10am–mediodía |
 | Morro Bay      | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)                                                                              | 4:30–6:30pm lunes |
@@ -758,20 +758,20 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | lunes–jueves 2–4pm (o con cita) |
 | Paso Robles    | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (para personas mayores)                                                        | segundo y cuarto martes 9:30–11am |
 | Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (traiga identificación con foto)                                                                     | martes 10–11am |
-| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.639659" data-lon="-120.692709" data-zoom="17" data-label="The Link">626 26th St.</a> admin building #1, [805-503-9638](tel:+1-805-503-9638) | L–J 9am–3pm; V 9am–1pm |
+| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.639659" data-lon="-120.692709" data-zoom="17" data-label="The Link">626 26th St.</a> edificio de administración #1, [805-503-9638](tel:+1-805-503-9638) | L–J 9am–3pm; V 9am–1pm |
 | Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visita por hogar por semana; traiga identificación con foto)                      | Ma 6–7pm, Mi 10am–mediodía, J 1:30–3:30pm |
 | San Miguel     | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-2131&#xA0;x115](tel:+1-805-467-2131;ext=115) | primero, tercero y quinto miércoles, 5–6pm |
 | SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | domingos mediodía–12:30pm |
 | SLO            | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                                                                            | lunes 2:30–4:30pm |
 | SLO            | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | martes 2–3pm, o con cita |
 | SLO            | [**GALA Pride & Diversity Center**](Directory.md#GALA)                                                                                                 | lunes–viernes 10am–3pm |
-| SLO            | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) "God's Storehouse"                                                                         | sábados 8:30–9:15am |
+| SLO            | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                                                                         | sábados 8:30–9:15am |
 | SLO            | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)                                                                  | lunes–viernes 10am–3pm |
 | SLO            | [**Renovate Church**](Directory.md#Renovate-Church)                                                                                                    | lunes 4–6pm |
 | SLO            | [**Salvation Army**](Directory.md#Salvation-Army) (traiga identificación con foto)                                                                     | Mi/V 10am–mediodía, J 2–4pm |
 | SLO            | [**SLO Food Bank**](Directory.md#SLO-Food-Bank)                                                                                                        | lunes, miércoles, viernes mediodía–5pm |
 | SLO            | [**SLO Grassroots**](Directory.md#SLO-Grassroots)                                                                                                      | solo con cita |
-| SLO            | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) "We Care Food Share"                                                                 | miércoles 3–4:30pm |
+| SLO            | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) “We Care Food Share”                                                                 | miércoles 3–4:30pm |
 | SLO            | [**Veterans Services**](Directory.md#Veterans-Services) (solo para veteranos)                                                                          | diario 8am–5pm |
 | SLO            | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                                                                          | miércoles 9:30–11:30am |
 <!-- Unclear if this is permanent or just a Thanksgiving-season thing: | Morro Bay      | Perfect Union, <a href="#" class="map-link" data-lat="35.365926" data-lon="-120.836902" data-zoom="17" data-label="Perfect Union">1000 Quintana Rd.</a> (must be age 18+? 21+?; ask security for pantry) | daily, 8am–9pm | -->
@@ -785,17 +785,17 @@ Nunca se sabe exactamente qué encontrará allí, pero generalmente hay alimento
 
 A veces las personas ponen alimentos perecederos en las pequeñas despensas gratuitas, pero debe tener cuidado al comer tales alimentos ya que pueden haber estado allí por un tiempo y pueden ya no ser seguros para comer.
 
-Vea [**Little Free Pantries**](Directory.md#Little-Free-Pantries) en el [Directorio](Directory.md) para una lista de ubicaciones.
+Vea [**Pequeñas Despensas Gratuitas**](Directory.md#Little-Free-Pantries) en el [Directorio](Directory.md) para una lista de ubicaciones.
 
 ### <a id="food-box-distributions">Distribución de Cajas de Alimentos</a>
 
 El [**SLO Food Bank**](Directory.md#SLO-Food-Bank) regala cajas de alimentos en un horario regular en una variedad de ubicaciones en el condado de SLO.
-Visite [findfoodslo.org](https://findfoodslo.org/) para una lista completa y horario de estas "Distribuciones de Alimentos del Vecindario."
+Visite [findfoodslo.org](https://slofoodbank.org/es/localizador-de-comida/) para una lista completa y horario de estas “Distribuciones Vecinales de Alimentos.”
 
 ### <a id="summer-meal-sites">Sitios de Comidas de Verano (para Niños)</a>
 
-El Departamento de Educación de California tiene un "Programa de Servicio de Alimentos de Verano" para ayudar a los niños durante las vacaciones escolares de verano que generalmente reciben comidas en la escuela. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp -->
-Este programa está abierto a todos los niños de la comunidad. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp Strictly speaking, only "open sites" that participate in this program are open to all children in the community; there are also closed/enrolled sites and camp sites that are more restricted -->
+El Departamento de Educación de California tiene un “Programa de Servicio de Alimentos de Verano” para ayudar a los niños durante las vacaciones escolares de verano que generalmente reciben comidas en la escuela. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp -->
+Este programa está abierto a todos los niños de la comunidad. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp Strictly speaking, only “open sites” that participate in this program are open to all children in the community; there are also closed/enrolled sites and camp sites that are more restricted -->
 Puede encontrar una lista de [Sitios de Comidas de Verano](https://www.cde.ca.gov/ds/sh/sn/summersites.asp) en el condado de San Luis Obispo en el sitio web del Departamento de Educación de California.
 
 ### <a id="senior-meal-programs">Programas de Comidas para Personas Mayores</a>
@@ -824,15 +824,15 @@ Los mercados de agricultores que califican incluyen: <!-- Source: https://www.cd
 | Morro Bay          | sábado por la tarde |
 | Morro Bay          | jueves por la tarde |
 | Paso Robles        | martes por la mañana |
-| SLO (downtown)     | jueves por la tarde |
+| SLO (el centro)    | jueves por la tarde |
 | SLO (Madonna)      | sábado por la mañana |
 | SLO (Tank Farm)    | martes por la tarde |
 | Templeton          | sábado por la mañana |
 
 ### <a id="calfresh-ebt-wic">CalFresh / EBT (Cupones de Alimentos) y WIC</a>
 
-El programa CalFresh es la versión de California del programa federal de nutrición conocido como "SNAP" o "cupones de alimentos." <!-- Source: https://www.getcalfresh.org/ -->
-Si tiene bajos ingresos, California le da una "tarjeta EBT" que puede usar como una tarjeta de débito en tiendas de alimentos y mercados de agricultores para comprar alimentos saludables. <!-- Source: https://www.getcalfresh.org/ -->
+El programa CalFresh es la versión de California del programa federal de nutrición conocido como “SNAP” o “cupones de alimentos.” <!-- Source: https://www.getcalfresh.org/ -->
+Si tiene bajos ingresos, California le da una “tarjeta EBT” que puede usar como una tarjeta de débito en tiendas de alimentos y mercados de agricultores para comprar alimentos saludables. <!-- Source: https://www.getcalfresh.org/ -->
 
 Puede aplicar para CalFresh en línea en cualquiera de los siguientes sitios:
 
@@ -857,7 +857,7 @@ Algunos mercados de agricultores locales duplicarán hasta $15 en beneficios de 
 | Los Osos (Baywood) | lunes por la tarde  |
 | Morro Bay          | jueves por la tarde |
 | Paso Robles        | martes por la mañana |
-| SLO (downtown)     | jueves por la tarde |
+| SLO (el centro)    | jueves por la tarde |
 | SLO (Madonna)      | sábado por la mañana |
 | Templeton          | sábado por la mañana |
 
@@ -873,27 +873,27 @@ Cuando están en temporada, pueden agregar nutrición a su dieta.
 > Además: tenga cuidado al buscar plantas en áreas agrícolas o bien cuidadas, ya que pueden haber sido tratadas con pesticidas.
 > No busque plantas de sitios de desechos, áreas de agua estancada, o áreas sujetas a escorrentía agrícola o industrial, ya que las plantas pueden absorber toxinas o parásitos del suelo o el agua.
 
-Algunas plantas comestibles comunes en el condado de SLO son: <!-- Source: Gary Romano "Hiker's guide to wild edible plants of San Luis Obispo County" -->
+Algunas plantas comestibles comunes en el condado de SLO son: <!-- Source: Gary Romano “Hiker’s guide to wild edible plants of San Luis Obispo County” -->
 
-| Planta                                                                 | Temporada     | Parte Comestible |
-| ---------------------------------------------------------------------- | ------------- | ---------------- |
-| [Frutilla chilena](https://es.wikipedia.org/wiki/Fragaria_chiloensis) | Primavera–Verano | Bayas |
-| [Zarzamora californiana](https://es.wikipedia.org/wiki/Rubus_ursinus) | Verano        | Bayas |
-| [Junco](https://es.wikipedia.org/wiki/Schoenoplectus)                  | Todo el año   | La mayoría de las partes, pero deben cocinarse |
-| [Espadaña](https://es.wikipedia.org/wiki/Typha_latifolia)             | Todo el año   | La mayoría de las partes, pero deben cocinarse |
-| [Grosella de chaparral](https://es.wikipedia.org/wiki/Ribes_malvaceum) | Primavera    | Bayas |
-| [Chía](https://es.wikipedia.org/wiki/Salvia_columbariae)              | Otoño         | Semillas |
-| [Castaño dorado](https://es.wikipedia.org/wiki/Chrysolepis_chrysophylla) | Otoño      | Nueces |
-| [Chufa](https://es.wikipedia.org/wiki/Cyperus_esculentus)             | Otoño         | Tubérculos |
-| [Diente de león](https://es.wikipedia.org/wiki/Taraxacum_officinale)  | Primavera–Otoño | Todas las partes |
-| [Grosella espinosa](https://es.wikipedia.org/wiki/Ribes_uva-crispa)   | Primavera     | Bayas |
-| [Cerezo de hoja de acebo](https://es.wikipedia.org/wiki/Prunus_ilicifolia) | Verano–Otoño | Bayas |
-| [Lechuga de minero](https://es.wikipedia.org/wiki/Claytonia_perfoliata) | Todo el año | Todas las partes |
-| [Capuchina](https://es.wikipedia.org/wiki/Tropaeolum_majus)           | Primavera–Verano | Flores y hojas |
-| [Nopal](https://es.wikipedia.org/wiki/Opuntia)                         | Verano–Otoño  | Fruta (pero cubierta de espinas molestas) |
-| [Frambuesa norteamericana](https://es.wikipedia.org/wiki/Rubus_parviflorus) | Verano  | Bayas |
-| [Berro de agua](https://es.wikipedia.org/wiki/Nasturtium_officinale)  | Primavera–Verano | Hojas |
-| [Mostaza silvestre](https://es.wikipedia.org/wiki/Brassica)            | Primavera     | Flores y hojas |
+| Planta                                                                      | Temporada        | Parte Comestible |
+| --------------------------------------------------------------------------- | ---------------- | ---------------- |
+| [Berro de agua](https://es.wikipedia.org/wiki/Nasturtium_officinale)        | Primavera–Verano | Hojas |
+| [Capuchina](https://es.wikipedia.org/wiki/Tropaeolum_majus)                 | Primavera–Verano | Flores y hojas |
+| [Castaño dorado](https://es.wikipedia.org/wiki/Chrysolepis_chrysophylla)    | Otoño            | Nueces |
+| [Cerezo de hoja de acebo](https://es.wikipedia.org/wiki/Prunus_ilicifolia)  | Verano–Otoño     | Bayas |
+| [Chía](https://es.wikipedia.org/wiki/Salvia_columbariae)                    | Otoño            | Semillas |
+| [Chufa](https://es.wikipedia.org/wiki/Cyperus_esculentus)                   | Otoño            | Tubérculos |
+| [Diente de león](https://es.wikipedia.org/wiki/Taraxacum_officinale)        | Primavera–Otoño  | Todas las partes |
+| [Espadaña](https://es.wikipedia.org/wiki/Typha_latifolia)                   | Todo el año      | La mayoría de las partes, pero deben cocinarse |
+| [Frambuesa norteamericana](https://es.wikipedia.org/wiki/Rubus_parviflorus) | Verano           | Bayas |
+| [Frutilla chilena](https://es.wikipedia.org/wiki/Fragaria_chiloensis)       | Primavera–Verano | Bayas |
+| [Grosella de chaparral](https://es.wikipedia.org/wiki/Ribes_malvaceum)      | Primavera        | Bayas |
+| [Grosella espinosa](https://es.wikipedia.org/wiki/Ribes_uva-crispa)         | Primavera        | Bayas |
+| [Junco](https://es.wikipedia.org/wiki/Schoenoplectus)                       | Todo el año      | La mayoría de las partes, pero deben cocinarse |
+| [Lechuga de minero](https://es.wikipedia.org/wiki/Claytonia_perfoliata)     | Todo el año      | Todas las partes |
+| [Mostaza silvestre](https://es.wikipedia.org/wiki/Brassica)                 | Primavera        | Flores y hojas |
+| [Nopal](https://es.wikipedia.org/wiki/Opuntia)                              | Verano–Otoño     | Fruta (pero cubierta de espinas molestas) |
+| [Zarzamora californiana](https://es.wikipedia.org/wiki/Rubus_ursinus)       | Verano           | Bayas |
 
 A veces también verá árboles frutales comestibles como ciruelos o cerezos en aceras, en parques, o en otros lugares públicos.
 
@@ -989,7 +989,7 @@ La [**Family Care Network**](Directory.md#Family-Care-Network) puede ayudarle a 
 Puede encontrar opciones de viaje compartido localmente usando la aplicación web [iRideshare](https://irideshare.org/#/), un programa gratuito para viajeros del condado de SLO.
 La aplicación empareja a viajeros basándose en sus ubicaciones, rutas, destinos y horarios para intentar emparejarlos en viajes compartidos compatibles.
 
-Si se registra en iRideshare y viaja al trabajo caminando, en bicicleta, tomando el autobús, o en un viaje compartido o van compartida, y necesita llegar a casa del trabajo de otra manera (por ejemplo, porque el viaje compartido se va a la hora incorrecta, o porque su bicicleta se rompió), el programa [Guaranteed Ride Home](https://rideshare.org/program/guaranteed-ride-home/) pagará su viaje en taxi, Uber o Lyft a casa.
+Si se registra en iRideshare y viaja al trabajo caminando, en bicicleta, tomando el autobús, o en un viaje compartido o van compartida, y necesita llegar a casa del trabajo de otra manera (por ejemplo, porque el viaje compartido se va a la hora incorrecta, o porque su bicicleta se rompió), el programa [Guaranteed Ride Home](https://rideshare.org/program/guaranteed-ride-home/) (“viaje garantizado a casa”) pagará su viaje en taxi, Uber o Lyft a casa.
 (Necesita registrarse en su programa Commuter Club, guardar su recibo de pago del viaje, y solo puede obtener un número limitado de viajes a casa garantizados.) <!-- Source: https://rideshare.org/program/guaranteed-ride-home/ -->
 
 Hay servicios [Dial-A-Ride](https://www.slorta.org/services/dial-a-ride/) en Atascadero, Morro Bay, Nipomo, Paso Robles, Shandon y Templeton.
@@ -1012,14 +1012,14 @@ Puede tomar estos trenes y autobuses desde las siguientes ubicaciones en el cond
 
 | Ubicación | Greyhound | Trailways | Tren Amtrak | Autobús Amtrak |
 | --------- | --------- | --------- | ----------- | -------------- |
-| Atascadero Amtrak Bus Stop, <a href="#" class="map-link" data-lat="35.488920" data-lon="-120.664716" data-zoom="17" data-label="Amtrak Bus Stop">6000 Capistrano Ave., Atascadero</a> | Sí        | No        | No          | Sí         |
-| Grover Beach Amtrak Station, <a href="#" class="map-link" data-lat="35.120481" data-lon="-120.629016" data-zoom="17" data-label="Amtrak Station">180 W. Grand Ave., Grover Beach</a> | Sí        | No        | Sí          | Sí         |
-| Paso Robles Train Station, <a href="#" class="map-link" data-lat="35.622688" data-lon="-120.687770" data-zoom="17" data-label="Train Station">800 Pine St., Paso Robles</a> | Sí        | No        | Sí          | Sí         |
+| Atascadero Parada del Autobús, <a href="#" class="map-link" data-lat="35.488920" data-lon="-120.664716" data-zoom="17" data-label="Amtrak Bus Stop">6000 Capistrano Ave., Atascadero</a> | Sí        | No        | No          | Sí         |
+| Grover Beach Estación de Tren, <a href="#" class="map-link" data-lat="35.120481" data-lon="-120.629016" data-zoom="17" data-label="Amtrak Station">180 W. Grand Ave., Grover Beach</a> | Sí        | No        | Sí          | Sí         |
+| Paso Robles Estación de Tren, <a href="#" class="map-link" data-lat="35.622688" data-lon="-120.687770" data-zoom="17" data-label="Train Station">800 Pine St., Paso Robles</a> | Sí        | No        | Sí          | Sí         |
 | Cal Poly, <a href="#" class="map-link" data-lat="35.298858" data-lon="-120.655675" data-zoom="17" data-label="Bus Stop">1 Grand Ave., SLO</a> | Sí        | No        | No          | Sí         |
-| Railroad Museum, <a href="#" class="map-link" data-lat="35.273127" data-lon="-120.655653" data-zoom="17" data-label="Railroad Museum">1940 Santa Barbara Ave., SLO</a> | Sí        | Sí        | No          | No         |
-| Train Station, <a href="#" class="map-link" data-lat="35.275632" data-lon="-120.655133" data-zoom="17" data-label="Train Station">1011 Railroad Ave., SLO </a> | Sí        | No        | Sí          | Sí         |
+| Museo del Ferrocarril, <a href="#" class="map-link" data-lat="35.273127" data-lon="-120.655653" data-zoom="17" data-label="Railroad Museum">1940 Santa Barbara Ave., SLO</a> | Sí        | Sí        | No          | No         |
+| SLO Estación de Tren, <a href="#" class="map-link" data-lat="35.275632" data-lon="-120.655133" data-zoom="17" data-label="Train Station">1011 Railroad Ave., SLO </a> | Sí        | No        | Sí          | Sí         |
 
-Los refugiados recientes de otros países también pueden obtener ayuda con el transporte de [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ is vague but mentions "transportation" repeatedly -->
+Los refugiados recientes de otros países también pueden obtener ayuda con el transporte de [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ is vague but mentions “transportation” repeatedly -->
 
 ### <a id="transportation-for-seniors">Recursos de Transporte para Personas Mayores</a>
 
@@ -1048,7 +1048,7 @@ Operan en Nipomo y el área de Five-Cities, así como en el condado de Santa Bar
 
 ### <a id="transportation-to-medical-appointments">Transporte a Citas Médicas</a>
 
-El [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/members/transportation/) ofrece transporte gratuito puerta a puerta a citas médicas para personas que están inscritas en Medi-Cal y que no pueden usar transporte público para llegar a sus citas. <!-- Source: https://www.cencalhealth.org/members/transportation/ -->
+El [CenCal/Medi-Cal Shuttle](https://www.cencalhealth.org/es/members/transportation/) ofrece transporte gratuito puerta a puerta a citas médicas para personas que están inscritas en Medi-Cal y que no pueden usar transporte público para llegar a sus citas. <!-- Source: https://www.cencalhealth.org/members/transportation/ -->
 Si espera que necesitará parar en una farmacia después de su cita, dígalo cuando haga su reservación de transporte, y ellos también pueden arreglar eso. <!-- Source: https://www.cencalhealth.org/wp-content/uploads/2025/04/350_2025-Q2-Regulatory-Member-Newsletter_M-MS-Q2RMNL-0425-E-SA-0225-N_R9_Web_tagged.pdf -->
 Haga una reservación de transporte al menos dos días antes de su cita médica llamando al [855-659-4600](tel:+1-855-659-4600) L–V 7am–5pm. <!-- Source: https://www.venturatransit.com/cencal/ and https://www.cencalhealth.org/members/transportation/ -->
 
@@ -1059,13 +1059,13 @@ CHC también puede darle un pase de autobús de RTA para ayudarle a llegar a su 
 Haga una reservación al menos 48 horas antes de su cita llamando al [877-743-3242](tel:+1-877-743-3242). <!-- https://centralcoastseniors.org/wp-content/uploads/CC-SRG-2023.pdf p. 109 -->
 
 Los veteranos que viajan a instalaciones de atención médica del VA para citas autorizadas por el VA pueden obtener servicio de transporte gratuito de acera a acera a través de [**Veterans Transportation Service (VTS)**](Directory.md#Veterans-Transportation-Service). <!-- Source: https://www.vetride.va.gov/app/home -->
-Otra opción es el ["Veterans Express Shuttle"](https://www.ride-on.org/ride-on-veterans-express-shuttle.php) operado por [**Ride-On Transportation**](Directory.md#Ride-On-Transportation) (llame al [805-541-8747](tel:+1-805-541-8747) dos a tres días antes de su cita). <!-- Source: https://www.ride-on.org/ride-on-veterans-express-shuttle.php -->
-También hay servicio de autobús programado regularmente entre el SLO Veteran's Memorial Building (<a href="#" class="map-link" data-lat="35.289321" data-lon="-120.652800" data-zoom="17" data-label="Veterans Memorial Building">801 Grand Ave.</a>) y el West Los Angeles VA Medical Center (WLA). <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
+Otra opción es el [“Veterans Express Shuttle”](https://www.ride-on.org/ride-on-veterans-express-shuttle.php) operado por [**Ride-On Transportation**](Directory.md#Ride-On-Transportation) (llame al [805-541-8747](tel:+1-805-541-8747) dos a tres días antes de su cita). <!-- Source: https://www.ride-on.org/ride-on-veterans-express-shuttle.php -->
+También hay servicio de autobús programado regularmente entre el SLO Veteran’s Memorial Building (<a href="#" class="map-link" data-lat="35.289321" data-lon="-120.652800" data-zoom="17" data-label="Veterans Memorial Building">801 Grand Ave.</a>) y el West Los Angeles VA Medical Center (WLA). <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
 Este autobús es gratuito para cualquier persona con una cita en el VA. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
 Programe una reservación de autobús a través de VTS. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
 Sale de SLO a las 6am, llega a WLA a las 11:15am, sale de WLA a las 3:25pm y regresa a SLO a las 8:30pm. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/ -->
 
-El programa ["Road to Recovery"](https://www.cancer.org/support-programs-and-services/road-to-recovery.html) de [**American Cancer Society**](Directory.md#American-Cancer-Society) ofrece viajes gratuitos hacia y desde citas médicas relacionadas con el cáncer.
+El programa [“Camino a la Recuperación”](https://www.cancer.org/support-programs-and-services/road-to-recovery.html) de [**American Cancer Society**](Directory.md#American-Cancer-Society) ofrece viajes gratuitos hacia y desde citas médicas relacionadas con el cáncer.
 Llame varios días antes de su cita para reservar su viaje. <!-- Source: https://www.cancer.org/support-programs-and-services/road-to-recovery.html -->
 
 ### <a id="bicycles">Bicicletas</a>
@@ -1093,12 +1093,12 @@ Para calificar, debe tener una licencia de conducir válida de California, bajos
 - ningún accidente por su culpa que involucre lesiones corporales o muerte en un historial de conducción en los tres años anteriores, y
 - ninguna condena por delito grave o delito menor por una violación del Código de Vehículos en su historial de conducción de vehículos motorizados.
 
-Puede aplicar para este seguro en línea en [mylowcostauto.com](https://www.mylowcostauto.com) o llamando al [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
+Puede aplicar para este seguro en línea en [mylowcostauto.com](https://www.mylowcostauto.com/spanish) o llamando al [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
 
 La [**Family Care Network**](Directory.md#Family-Care-Network) puede ayudarle a pagar reparaciones de automóvil, pagos y gasolina si está sin dinero. <!-- SOURCE NEEDED (issue #36) -->
 Puede que primero necesite obtener una referencia de un Especialista de Recursos de Empleo del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- SOURCE NEEDED (issue #36) -->
 
-El "Programa de Asistencia al Consumidor" del [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap) puede ayudarle a reparar su automóvil para que cumpla con los estándares de emisiones de California. <!-- Source https://www.bar.ca.gov/cap -->
+El “Programa de Asistencia al Consumidor” del [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap) puede ayudarle a reparar su automóvil para que cumpla con los estándares de emisiones de California. <!-- Source https://www.bar.ca.gov/cap -->
 Este programa pagará hasta $1,450 en reparaciones necesarias en un centro de pruebas y reparación STAR para vehículos del año modelo 1996 o más nuevos, o hasta $1,100 para vehículos de 1976–1995. <!-- Source: https://www.bar.ca.gov/cap/repair -->
 Para calificar, debe verificar que tiene un ingreso familiar por debajo del 225% del nivel de pobreza establecido federalmente, y su vehículo debe reprobar su inspección de smog bienal. <!-- Source: https://www.bar.ca.gov/cap/repair#eligibility -->
 Puede solicitar en línea en su sitio web o llamando al [866-272-9642](tel:+1-866-272-9642) (L–V 8:30am–5pm). <!-- Source: https://www.bar.ca.gov/cap/repair -->
@@ -1118,7 +1118,7 @@ Puede solicitar en línea en su sitio web o llamando al [866-272-9642](tel:+1-86
 El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene algo de ropa gratis disponible, <!-- SOURCE NEEDED (issue #51) (https://capslo.org/40pradodonations/ indicates that they are seeking donations of clothing though) -->
 al igual que el asociado [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services). <!-- Source: visited in person and saw their clothing rack -DG -->
 
-El [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) puede dar vales a las personas elegibles para comprar ropa. <!-- SOURCE NEEDED (https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf says they offer "clothing assistance" T/W/Th 1–3pm) -->
+El [**Los Osos Cares Resource Center**](Directory.md#Los-Osos-Cares) puede dar vales a las personas elegibles para comprar ropa. <!-- SOURCE NEEDED (https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf says they offer “clothing assistance” T/W/Th 1–3pm) -->
 
 [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) tiene ropa, zapatos, cobijas y sacos de dormir para las personas que vienen a su programa de duchas (L–V 4–5:30pm en sus ubicaciones de Atascadero y Paso Robles). <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 
@@ -1137,11 +1137,11 @@ Tiene que hacer una cita con ellos para ver su inventario. <!-- Source: https://
 
 #### <a id="free-clothes-for-kids">Ropa Gratis para Niños</a>
 
-La [**Children's Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) tiene ropa gratis (y útiles escolares, libros, pañales y otros recursos básicos) para niños desde el nacimiento hasta los 18 años. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
-Llame a su línea directa, use el formulario "Place a Request" en su sitio web, o visite durante las horas sin cita. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
-También operan el "Traveling Children's Closet", "The Teen's Closet" y "Outreach Apparel" donde los niños de edad escolar pueden obtener ropa y otros útiles que necesitan. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+La [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) tiene ropa gratis (y útiles escolares, libros, pañales y otros recursos básicos) para niños desde el nacimiento hasta los 18 años. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+Llame a su línea directa, use el formulario “Place a Request” en su sitio web, o visite durante las horas sin cita. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+También operan el “Traveling Children’s Closet”, “The Teen’s Closet”, y “Outreach Apparel” donde los niños de edad escolar pueden obtener ropa y otros útiles que necesitan. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 
-La [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) opera el programa "Operation School Bell", que da créditos a estudiantes necesitados con los cuales pueden comprar ropa escolar nueva en tiendas. <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
+La [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) opera el programa “Operation School Bell”, que da créditos a estudiantes necesitados con los cuales pueden comprar ropa escolar nueva en tiendas. <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
 Pida a las autoridades de la escuela del niño que lo refieran al programa. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/seasonal-resources, https://pasoroblespress.com/news/nonprofit/operation-school-bell/ -->
 
 [Coats for Kids of SLO County](https://www.coatsforkidsslocounty.org/) realiza una distribución una vez al año (en diciembre) en Paso Robles de ropa para clima frío como abrigos, chaquetas, suéteres y sudaderas. <!-- Source: https://www.coatsforkidsslocounty.org/ -->
@@ -1189,10 +1189,10 @@ Las tiendas de segunda mano venden ropa usada a precios bajos.
 - [**Assistance League Thrift Store**](Directory.md#Assistance-League-Thrift-Store)
 - [**Bargain Boutique**](Directory.md#Bargain-Boutique)
 - [**Fred & Betty’s Thrift Store**](Directory.md#Fred-and-Bettys)
-- [**Goodwill Outlet**](Directory.md#Goodwill) and [**Goodwill Store**](Directory.md#Goodwill)
+- [**Goodwill Outlet**](Directory.md#Goodwill) y [**Goodwill Store**](Directory.md#Goodwill)
 - [**Lumina Thrift**](Directory.md#Lumina-Thrift)
 - [**Mission Thrift**](Directory.md#Mission-Thrift)
-- [**SLO Thrift**](Directory.md#SLO-Thrift) (not yet open as of November 2025)
+- [**SLO Thrift**](Directory.md#SLO-Thrift) (no está abierta a partir de diciembre de 2025)
 - [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
 
 -----
@@ -1232,7 +1232,7 @@ Le dan artículos de tocador, y también tienen ropa, zapatos, cobijas y sacos d
 
 La [**SLO County YMCA**](Directory.md#SLO-County-YMCA) tiene instalaciones de duchas en su gimnasio de Southwood Ave. en la ciudad de SLO.
 Estas están disponibles para los miembros del gimnasio.
-La membresía no es gratis, pero la política de la YMCA es que "a nadie se le niega la membresía por falta de capacidad de pago". <!-- Source: https://www.ciymca.org/financial-assistance -->
+La membresía no es gratis, pero la política de la YMCA es que “a nadie se le niega la membresía por falta de capacidad de pago”. <!-- Source: https://www.ciymca.org/financial-assistance -->
 Pregúnteles sobre opciones para personas con bajos ingresos.
 
 El [SLO Swim Center](https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center), que cuesta $4.75 para entrar <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center -->
@@ -1245,11 +1245,11 @@ Algunos parques del condado de SLO tienen instalaciones de duchas operadas con m
 [**Oceano Campground**](Directory.md#Oceano-Campground), <!-- Source: https://slocountyparks.com/camp/oceano/ -->
 y [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) <!-- Source: https://slocountyparks.com/camp/santa-margarita-lake/ -->
 
-La "Coastal Gateway Multi-Purpose Room" del [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) tiene duchas operadas con monedas. <!-- SOURCE NEEDED (issue #67) -->
+La “Coastal Gateway Multi-Purpose Room” del [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) tiene duchas operadas con monedas. <!-- SOURCE NEEDED (issue #67) -->
 
 Algunos gimnasios comerciales tienen duchas.
 Por ejemplo, un pase de día de $15 al [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) proporciona acceso a todas sus instalaciones, incluyendo duchas. <!-- Source: https://pbac.com/guest-rates/ and https://pbac.com/membership/ -->
-Algunos planes suplementarios de Medicare tienen un programa "Silver Sneakers" con el cual puede obtener membresías de gimnasio gratis. <!-- Source: https://tools.silversneakers.com/Help -->
+Algunos planes suplementarios de Medicare tienen un programa “Silver Sneakers” con el cual puede obtener membresías de gimnasio gratis. <!-- Source: https://tools.silversneakers.com/Help -->
 
 -----
 
@@ -1274,7 +1274,7 @@ Algunos planes suplementarios de Medicare tienen un programa "Silver Sneakers" c
 
 > Vea también la subsección [Acondicionamiento Físico](#fitness) para información sobre opciones de ejercicio y acondicionamiento físico.
 
-La [**Vituity Cares Mobile Clinic**](Directory.md#Vituity-Cares-Mobile-Clinic) es una clínica médica gratuita que opera un día al mes en la ciudad de SLO.
+La [**Clínica Móvil de Vituity Cares**](Directory.md#Vituity-Cares-Mobile-Clinic) es una clínica médica gratuita que opera un día al mes en la ciudad de SLO.
 Ofrece diagnóstico, pruebas y tratamiento, puede escribir recetas, y usualmente también tiene comida gratis y una pequeña colección de ropa gratis.
 
 ### <a id="emergency-care">Atención de Emergencia</a>
@@ -1323,15 +1323,15 @@ Hay cuatro salas de emergencias en el condado de SLO:
 Estas salas de emergencias están abiertas todo el día, todos los días.
 
 No se preocupe si sus documentos de Medi-Cal aún no están en orden.
-Bajo el programa "Hospital Presumptive Eligibility" (Elegibilidad Presuntiva Hospitalaria), en una emergencia, los hospitales lo tratarán como si tuviera Medi-Cal por hasta dos meses mientras trabajan con usted para determinar su elegibilidad, si se cumplen las siguientes condiciones:<!-- Source: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx-Cal -->
+Bajo el programa “Elegibilidad Presunta del Hospital,” en una emergencia, los hospitales lo tratarán como si tuviera Medi-Cal por hasta dos meses mientras trabajan con usted para determinar su elegibilidad, si se cumplen las siguientes condiciones:<!-- Source: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx-Cal -->
 
 - No tiene seguro y no está recibiendo Medi-Cal.
 - Tiene un ingreso mensual bajo.
 - Vive en California.
-- No ha usado el programa "Hospital Presumptive Eligibility" más de una vez en los últimos 12 meses (más de dos veces para niños).
+- No ha usado el programa “Elegibilidad Presunta del Hospital” más de una vez en los últimos 12 meses (más de dos veces para niños).
 
 No se requiere ciudadanía estadounidense. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
-Las cuatro salas de emergencias participan en el programa "Hospital Presumptive Eligibility". <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
+Las cuatro salas de emergencias participan en el programa “Elegibilidad Presunta del Hospital”. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
 
 ### <a id="urgent-care">Opciones de Atención Urgente</a>
 
@@ -1375,9 +1375,9 @@ Traiga su tarjeta de seguro, identificación y una lista de los medicamentos que
 
 [**CenCal**](Directory.md#CenCal) administra Medi-Cal en el condado de SLO. <!-- Source: https://www.cencalhealth.org/explore-cencal-health/ -->
 
-Puede buscar una lista de proveedores locales de atención médica de CenCal en [cencalhealth.org/members/provider-directory-for-members/](https://www.cencalhealth.org/members/provider-directory-for-members/).
+Puede buscar una lista de proveedores locales de atención médica de CenCal en [“directorio de proveedores para miembros”](https://www.cencalhealth.org/es/members/provider-directory-for-members/).
 
-Los residentes sin hogar del condado de SLO que están inscritos en CenCal Health califican para [**Enhanced Care Management**](Directory.md#Enhanced-Care-Management) (Administración de Atención Mejorada). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+Los residentes sin hogar del condado de SLO que están inscritos en CenCal Health califican para la [**Administración de la Atención Mejorada (ECM)**](Directory.md#Enhanced-Care-Management). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 Esto le ayuda a coordinar la atención que necesita entre múltiples proveedores de atención médica. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 Contáctelos si desea solicitar o si desea más detalles. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 También puede solicitar en persona (se aceptan visitas sin cita) en el centro [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) de CAPSLO. <!-- SOURCE NEEDED (issue #69) -->
@@ -1391,7 +1391,7 @@ o [**Catholic Charities**](Directory.md#Catholic-Charities). <!-- Source: https:
 Para obtener ayuda en idiomas indígenas mexicanos, llame al [805-483-1166](tel:+1-805-483-1166), o visite [mixteco.org/indigenous-interpreter-services/](https://mixteco.org/indigenous-interpreter-services/). <!-- Source: https://mixteco.org/social-services/ -->
 Si es paciente de Adventist Health, puede obtener ayuda de ellos llamando al [844-827-5047](tel:+1-844-827-5047). <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill -->
 
-Si es trabajador agrícola, también puede obtener ayuda para solicitar Medi-Cal del [Civil Assistance Program](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) (Programa de Asistencia Civil) de la California Farmworker Foundation. <!-- SOURCE NEEDED (issue #70) -->
+Si es trabajador agrícola, también puede obtener ayuda para solicitar Medi-Cal del [Programa de Asistencia Civil](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) de la California Farmworker Foundation. <!-- SOURCE NEEDED (issue #70) -->
 
 ##### Medicamentos Recetados
 
@@ -1405,17 +1405,17 @@ Para información sobre beneficios dentales, contacte a Medi-Cal Dental.
 Para encontrar un proveedor de Medi-Cal Dental, vea uno de estos recursos:
 
 - [Denti-Cal Dental Care Dentist Referral](https://www.dental.dhcs.ca.gov/Members/Medi_Cal_Dental/Find_A_Dentist/FindADentist) (Referencia de Dentista de Cuidado Dental Denti-Cal) ([800-322-6384](tel:+1-800-322-6384))
-- ["Find A Dentist" en Smile California](https://smilecalifornia.org/find-a-dentist/) (Encuentre un Dentista)
+- [“Encuentre un Dentista" en Sonríe California](https://sonriecalifornia.org/encuentra-un-dentista/)
 
 #### Medicare y HiCAP
 
 Medicare es un programa de seguro médico proporcionado por el gobierno para personas mayores de 65 años y para personas con discapacidades a largo plazo.
 
-Averigüe si califica para Medicare preguntando a la [**Social Security Administration**](Directory.md#Social-Security-Administration) (Administración del Seguro Social).
-Vea [ssa.gov: "Check eligibility for Social Security benefits"](https://www.ssa.gov/prepare/check-eligibility-for-benefits) (Verifique la elegibilidad para beneficios del Seguro Social) o visite en persona.
+Averigüe si califica para Medicare preguntando a la [**Administración del Seguro Social**](Directory.md#Social-Security-Administration).
+Vea [ssa.gov: “Verificar su derecho a los beneficios de Seguro Social”](https://www.ssa.gov/es/prepare/check-eligibility-for-benefits) o visite en persona.
 
 Las muchas opciones de Medicare pueden ser confusas.
-El [**Health Insurance Counseling & Advocacy Program ("HiCAP")**](Directory.md#HiCAP) (Programa de Asesoría y Defensa de Seguros Médicos) ofrece información gratis e imparcial sobre Medicare y sus opciones.
+El [**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) (Programa de Asesoría y Defensa de Seguros Médicos) ofrece información gratis e imparcial sobre Medicare y sus opciones.
 HiCAP puede ayudarle a:
 
 - encontrar el mejor plan de medicamentos con receta
@@ -1426,7 +1426,7 @@ HiCAP puede ayudarle a:
 Para usar el programa local de HiCAP debe ser elegible para Medicare y debe ser residente de los condados de SLO o Santa Barbara. <!-- SOURCE NEEDED -->
 El programa HiCAP es gratis. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 
-También puede enviar preguntas a través de un formulario web y recibir respuestas por correo electrónico: ["Ask a Medicare Question"](https://centralcoastseniors.org/ask-a-medicare-question/) (Haga una Pregunta sobre Medicare)
+También puede enviar preguntas a través de un formulario web y recibir respuestas por correo electrónico: [“Ask a Medicare Question”](https://centralcoastseniors.org/ask-a-medicare-question/) (Haga una Pregunta sobre Medicare)
 
 #### Covered California / Obamacare
 
@@ -1438,14 +1438,14 @@ Visite [coveredca.com](https://www.coveredca.com/) o llame al [800-300-1506](tel
 #### Atención Médica del VA
 
 Los veteranos militares pueden calificar para atención médica del VA.
-Para saber si califica, cómo solicitar y detalles sobre su paquete de beneficios médicos, llame al [877-222-8387](tel:+1-877-222-8387), o visite [va.gov: "About VA health benefits."](https://va.gov/health-care/about-va-health-benefits/) (Sobre los beneficios de salud del VA)
+Para saber si califica, cómo solicitar y detalles sobre su paquete de beneficios médicos, llame al [877-222-8387](tel:+1-877-222-8387), o visite [va.gov: “About VA health benefits.”](https://va.gov/health-care/about-va-health-benefits/) (Sobre los beneficios de salud del VA)
 
 Vea también [**SLO Vet Center**](Directory.md#SLO-Vet-Center), [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) (Clínica Ambulatoria de la Administración de Veteranos), y [**Veterans Services (SLO County)**](Directory.md#Veterans-Services) (Servicios para Veteranos del Condado de SLO).
 
 #### Fondeo Colectivo para Gastos Médicos
 
 Si espera tener gastos médicos altos que no puede pagar, podría intentar recaudar el dinero a través de donaciones de otros.
-El programa [**Help Hope Live**](Directory.md#Help-Hope-Live) puede ayudarle a establecer una campaña de "fondeo colectivo" para recaudar dinero de esta manera.
+El programa [**Help Hope Live**](Directory.md#Help-Hope-Live) puede ayudarle a establecer una campaña de “fondeo colectivo” para recaudar dinero de esta manera.
 
 #### <a id="emergency-medical-funding">Fondos de Emergencia</a>
 
@@ -1465,21 +1465,21 @@ Pídale una solicitud en persona o contáctelos al [844-827-5047](tel:+1-844-827
 
 [**Access Central Coast**](Directory.md#Access-Central-Coast) le ayuda a encontrar y pagar dispositivos de asistencia como sillas de ruedas, bastones, andadores, scooters, teléfonos modificados y dispositivos generadores de voz. <!-- Source: https://accesscentralcoast.org/our-services/ -->
 
-[**Alliance for Pharmaceutical Access**](Directory.md#APA) le ayuda a obtener suministros para diabéticos de bajo costo (tiras y medidores de prueba de glucosa, jeringas de insulina, etc.). <!-- SOURCE NEEDED -->
+[**Alianza para Acceso Farmacéutico**](Directory.md#APA) le ayuda a obtener suministros para diabéticos de bajo costo (tiras y medidores de prueba de glucosa, jeringas de insulina, etc.). <!-- SOURCE NEEDED -->
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center), <!-- Source: https://atascaderoseniorcenter.org/ -->
 [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), <!-- Source: https://morrobayseniors.org/resources/ -->
 and [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
 tienen bibliotecas de préstamo gratis de ayudas para la movilidad y algunos otros equipos médicos.
 
-El [**Boyd Bristol Medical Equipment Program**](Directory.md#Boyd-Bristol-Medical-Equipment-Program) (Programa de Equipo Médico Boyd Bristol) ayuda a veteranos y miembros de sus familias a obtener préstamos gratuitos de equipo médico como andadores, bastones, scooters y muletas. <!-- Source: https://post66slo.org/serving-veterans/ -->
+El [**Boyd Bristol Medical Equipment Program**](Directory.md#Boyd-Bristol-Medical-Equipment-Program) ayuda a veteranos y miembros de sus familias a obtener préstamos gratuitos de equipo médico como andadores, bastones, scooters y muletas. <!-- Source: https://post66slo.org/serving-veterans/ -->
 También pueden entregar estos dispositivos a su domicilio. <!-- Source: https://post66slo.org/serving-veterans/ -->
 
-[**Cambria's Anonymous Neighbors (CAN)**](Directory.md#Cambrias-Anonymous-Neighbors) proporciona préstamos de equipo médico incluyendo sillas de ruedas, andadores, bastones, barras de agarre y dispositivos Life Alert a personas en la costa norte. <!-- Source: https://www.joslynrec.org/CAN/index.html -->
+[**Cambria’s Anonymous Neighbors (CAN)**](Directory.md#Cambrias-Anonymous-Neighbors) proporciona préstamos de equipo médico incluyendo sillas de ruedas, andadores, bastones, barras de agarre y dispositivos Life Alert a personas en la costa norte. <!-- Source: https://www.joslynrec.org/CAN/index.html -->
 
 [**California Connect**](Directory.md#California-Connect) puede prestarle, gratis, equipo de telecomunicaciones de asistencia que ayuda si tiene limitaciones funcionales de audición, visión, movilidad, habla y/o interpretación de información. <!-- Source: https://caconnect.org/ -->
 
-El [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) puede darle un dispositivo generador de voz gratis si tiene dificultad para hablar. <!-- Source: https://www.dor.ca.gov/Home/VoiceOptions -->
+El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) puede darle un dispositivo generador de voz gratis si tiene dificultad para hablar. <!-- Source: https://www.dor.ca.gov/Home/VoiceOptions -->
 <!--
 The California Foundation for Independent Living Centers operates a “for sale, free, or needed” online assistive technology exchange.
 { SOURCE: https://www.dor.ca.gov/Home/AssistiveTechnology though NOTE: https://abilitytools.org was inoperable as of 12/7/25 - Issue #72 }
@@ -1495,7 +1495,7 @@ También le ayudan a acceder a una biblioteca de préstamo sin costo de disposit
 
 [**PathPoint**](Directory.md#PathPoint) tiene una biblioteca de préstamo de dispositivos de tecnología de asistencia para personas con discapacidades del desarrollo. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) ayuda a personas sin seguro a obtener suministros de monitoreo y tratamiento de diabetes de bajo costo. <!-- SOURCE NEEDED (issue #74) -->
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) ayuda a personas sin seguro a obtener suministros de monitoreo y tratamiento de diabetes de bajo costo. <!-- SOURCE NEEDED (issue #74) -->
 
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) puede prestarle tecnología de asistencia como andadores y sillas de ruedas. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->
 Llámelos o visite su oficina para detalles. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/contact/ -->
@@ -1503,27 +1503,27 @@ Llámelos o visite su oficina para detalles. <!-- Source: https://southbaysenior
 ### <a id="prescription-medicines">Medicamentos Recetados</a>
 
 Los planes de descuento para medicamentos le permiten obtener recetas a precios reducidos.
-Puede obtener ayuda para encontrar los mejores planes de descuento para usted de [**Alliance for Pharmaceutical Access**](Directory.md#APA), <!-- Source: https://apameds.org/what-we-do/ -->
-[**Health Insurance Counseling & Advocacy Program ("HiCAP")**](Directory.md#HiCAP), <!-- Source: https://centralcoastseniors.org/medicare-part-d-drug-plan-finder-tool/ -->
+Puede obtener ayuda para encontrar los mejores planes de descuento para usted de [**Alianza para Acceso Farmacéutico**](Directory.md#APA), <!-- Source: https://apameds.org/what-we-do/ -->
+[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP), <!-- Source: https://centralcoastseniors.org/medicare-part-d-drug-plan-finder-tool/ -->
 [**NeedyMeds**](Directory.md#NeedyMeds), <!-- Source: https://needymeds.org/ -->
 o [**United Way**](Directory.md#United-Way). <!-- Source: https://unitedwayslo.org/prescription-drug-discount-cards/ -->
 
 Para respuestas sobre beneficios de recetas de Medi-Cal/CenCal, contacte a [**Medi-Cal Rx**](Directory.md#Medi-Cal).
-Para encontrar una farmacia de Medi-Cal Rx, visite [medi-calrx.dhcs.ca.gov: "Find a Pharmacy"](https://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy) (Encuentre una Farmacia).
+Para encontrar una farmacia de Medi-Cal Rx, visite [medi-calrx.dhcs.ca.gov: “Find a Pharmacy”](https://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy) (Encuentre una Farmacia).
 
 El [**Healthcare for the Homeless Program**](Directory.md#HCHP) (Programa de Atención Médica para Personas sin Hogar) dispensa algunos medicamentos directamente, sin que tenga que visitar una farmacia. <!-- SOURCE NEEDED (issue #75) -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) ayuda a personas que no tienen seguro (o cuyo seguro no cubre recetas) a obtener medicamentos con receta gratis o de bajo costo. <!-- SOURCE NEEDED (issue #74) -->
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) ayuda a personas que no tienen seguro (o cuyo seguro no cubre recetas) a obtener medicamentos con receta gratis o de bajo costo. <!-- SOURCE NEEDED (issue #74) -->
 
-Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener medicamentos de venta libre y algunos medicamentos con receta (muchos sin costo) de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html) (Servicios de Salud para Estudiantes). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/ -->
+Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener medicamentos de venta libre y algunos medicamentos con receta (muchos sin costo) de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/ -->
 
 ### <a id="dental-care">Cuidado Dental</a>
 
-[**Central Coast Dental Society**](Directory.md#CCDS) (Sociedad Dental de la Costa Central) mantiene [una lista de dentistas que ofrecen tarifas reducidas para personas con dificultades financieras](https://centralcoastdentalsociety.org/public-resources/reduced-fee-dental).
+[**Central Coast Dental Society**](Directory.md#CCDS) mantiene [una lista de dentistas que ofrecen tarifas reducidas para personas con dificultades financieras](https://centralcoastdentalsociety.org/public-resources/reduced-fee-dental).
 
-[**Community Health Centers**](Directory.md#CHC) (Centros de Salud Comunitarios) ofrece cuidado dental en sus oficinas en Nipomo, Oceano, Templeton (Las Tablas), y en 40 Prado en SLO. <!-- Source: https://www.communityhealthcenters.org/health-services/dental/ -->
+[**Community Health Centers**](Directory.md#CHC) ofrece cuidado dental en sus oficinas en Nipomo, Oceano, Templeton (Las Tablas), y en 40 Prado en SLO. <!-- Source: https://www.communityhealthcenters.org/health-services/dental/ -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) tiene una clínica dental. <!-- Source: https://www.slonoorfoundation.org/dental -->
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una clínica dental. <!-- Source: https://www.slonoorfoundation.org/dental -->
 
 > Vea [Medi-Cal: Dentistas](#medi-cal-dentists) arriba para aprender cómo encontrar un proveedor dental de Medi-Cal.
 
@@ -1533,11 +1533,11 @@ Las oficinas de [**Community Health Centers**](Directory.md#CHC) en Nipomo, Paso
 
 [**EyeCare America**](Directory.md#EyeCare-America) ofrece un examen de la vista gratuito y tratamiento de oftalmología de seguimiento a adultos sin seguro y con seguro insuficiente. <!-- Source: https://www.aao.org/eyecare-america -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) tiene una clínica de cuidado de la vista. <!-- Source: https://www.slonoorfoundation.org/vision -->
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una clínica de cuidado de la vista. <!-- Source: https://www.slonoorfoundation.org/vision -->
 
 #### Lentes
 
-La American Academy of Ophthalmology (Academia Estadounidense de Oftalmología) mantiene [una lista de fuentes de lentes gratis y de bajo costo](https://aao.org/eyecare-america/resources/eye-glasses).
+La American Academy of Ophthalmology mantiene [una lista de fuentes de lentes gratis y de bajo costo](https://aao.org/eyecare-america/resources/eye-glasses).
 
 Puede encontrar una lista de ópticos de Medi-Cal en [provdir.cencalhealth.org](https://provdir.cencalhealth.org/).
 
@@ -1547,9 +1547,9 @@ Puede obtener apoyo de salud mental las 24 horas de SLO Hotline ([805-783-0607](
 
 > Para emergencias de salud mental, vea [Atención de Emergencia](#emergency-care) y [Contactos de Emergencia](#emergency-contacts).
 
-El [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) (Equipo de Evaluación de Salud Mental / Equipo de Crisis Móvil) y la [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) (Unidad de Crisis Móvil) responden a necesidades agudas de salud mental.
+El [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) y la [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) responden a necesidades agudas de salud mental.
 
-[**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) y [**Community Counseling Center**](Directory.md#Community-Counseling-Center) (Centro de Asesoramiento Comunitario) ofrecen asesoramiento de salud mental de bajo costo o sin costo.
+[**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) y [**El Centro de Consejería Comunitaria**](Directory.md#Community-Counseling-Center) ofrecen asesoramiento de salud mental de bajo costo o sin costo.
 
 Un médico de atención primaria de [**Community Health Centers**](Directory.md#CHC) puede referirlo a asesoramiento de salud mental o psiquiatría proporcionada por CHC, que ocurre por teléfono o mediante videoconferencia por internet. <!-- Source: Dan Gross, LCSW @ CHC, personal communication -DG -->
 
@@ -1570,7 +1570,7 @@ tienen algunos servicios para personas con trastornos de salud mental y/o discap
 [**Tri-County GLAD**](Directory.md#Tri-County-GLAD) ofrece algunos servicios de salud mental a personas que son sordas o tienen problemas de audición. <!-- Source: https://tcglad.org/mental-health/ -->
 
 La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) ofrece atención de salud mental a veteranos militares estadounidenses que califican.
-Dicen: "Todas las instalaciones de atención médica del VA ofrecen ayuda el mismo día. Puede calificar incluso sin inscribirse en la atención médica del VA". <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
+Dicen: “Todas las instalaciones de atención médica del VA ofrecen ayuda el mismo día. Puede calificar incluso sin inscribirse en la atención médica del VA”. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
 Y [**SLO Vet Center**](Directory.md#SLO-Vet-Center) ofrece asesoramiento confidencial y otra atención de salud mental a veteranos de combate (y ciertos otros veteranos) y a víctimas de trauma sexual militar. <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
 
 ### <a id="reproductive-health">Salud Reproductiva</a>
@@ -1595,7 +1595,7 @@ ofrecen apoyo gratuito para lactancia por teléfono.
 
 Las ubicaciones de [**Community Health Centers of the Central Coast**](Directory.md#CHC) en 1057 E. Grand Ave. (Arroyo Grande), 1551 Bishop St. (SLO), y 292 Posada Ln. (Templeton) ofrecen el Programa de Embarazo Saludable / Programa Integral de Servicios Perinatales. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
 
-<!-- These classes are only for people delivering at French; they're not free to the general public
+<!-- These classes are only for people delivering at French; they’re not free to the general public
 [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts several [free classes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) on pregnancy, childbirth, baby-care, and breast-feeding.
 -->
 
@@ -1613,14 +1613,14 @@ Las oficinas de [**Community Health Centers of the Central Coast**](Directory.md
 
 La [**CSF Medical Non Profit Foundation**](Directory.md#CSF-Medical-Non-Profit-Foundation) ayuda a personas sin seguro médico a obtener procedimientos quirúrgicos que salvan vidas. <!-- Source: https://csffoundation.org/csf-surgery/ -->
 
-El [**Recuperative Care Program**](Directory.md#Recuperative-Care-Program) (Programa de Cuidado Recuperativo) le da un lugar para recuperarse de una cirugía si su salud se vería comprometida por una situación de vivienda inestable. <!-- Source: https://capslo.org/rcp/ -->
+El [**Recuperative Care Program**](Directory.md#Recuperative-Care-Program) le da un lugar para recuperarse de una cirugía si su salud se vería comprometida por una situación de vivienda inestable. <!-- Source: https://capslo.org/rcp/ -->
 Pídale a su médico que lo refiera a ese programa. <!-- Source: https://capslo.org/rcp/ -->
 
 ### <a id="medical-resources-specific-populations">Recursos Médicos para Poblaciones Específicas</a>
 
 #### Niños
 
-[**California Children's Services**](Directory.md#California-Childrens-Services) paga y ayuda a organizar visitas al médico, estancias en el hospital, cirugías, terapia física, pruebas, equipo médico, etc. para niños y jóvenes cuyos padres de otro modo no podrían pagarlo. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/benefits.aspx -->
+[**California Servicios para Niños**](Directory.md#California-Childrens-Services) paga y ayuda a organizar visitas al médico, estancias en el hospital, cirugías, terapia física, pruebas, equipo médico, etc. para niños y jóvenes cuyos padres de otro modo no podrían pagarlo. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/benefits.aspx -->
 
 Las oficinas de [**Community Health Centers**](Directory.md#CHC) en 260 Station Way en Arroyo Grande, en Nipomo, Oceano, Paso Robles, Templeton (Las Tablas), y en 77 Casa St. en SLO ofrecen servicios pediátricos. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub pages -->
 
@@ -1628,10 +1628,10 @@ El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece cuidado p
 
 [InfantSEE](https://www.infantsee.org/) le ayuda a obtener una prueba de ojos/visión gratuita para bebés. <!-- Source: https://www.infantsee.org/about-us -->
 
-[Tolosa Children's Dental Center](https://tolosachildrensdental.org/) ([805-592-2445](tel:+1-805-592-2445)) acepta Medi-Cal <!-- Source: https://tolosachildrensdental.org/about-us/ -->
+[Centro Dental Infantil de Tolosa](https://tolosachildrensdental.org/) ([805-238-5334](tel:+1-805-238-5334)) acepta Medi-Cal <!-- Source: https://tolosachildrensdental.org/about-us/ -->
 o pagos en efectivo con escala variable. <!-- SOURCE NEEDED -->
 
-[**UnitedHealthcare Children's Foundation**](Directory.md#UnitedHealthcare-Childrens-Foundation) ayuda a pagar gastos médicos que no están cubiertos por el seguro médico comercial de la familia del niño. <!-- Source: https://www.uhccf.org/ -->
+[**UnitedHealthcare Children’s Foundation**](Directory.md#UnitedHealthcare-Childrens-Foundation) ayuda a pagar gastos médicos que no están cubiertos por el seguro médico comercial de la familia del niño. <!-- Source: https://www.uhccf.org/ -->
 El niño debe tener 16 años o menos, con un número de seguro social de EE.UU. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
 La necesidad debe estar documentada por un médico, y el niño debe estar cubierto por un seguro médico comercial. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
 
@@ -1639,8 +1639,8 @@ El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) da benefi
 
 #### Personas con Diabetes
 
-[**Alliance for Pharmaceutical Access**](Directory.md#APA)
-y [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) <!-- SOURCE NEEDED (issue #74) -->
+[**Alianza para Acceso Farmacéutico**](Directory.md#APA)
+y [**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) <!-- SOURCE NEEDED (issue #74) -->
 pueden ayudarle a obtener suministros para diabetes de bajo costo.
 
 [**Dignity Health**](Directory.md#Dignity-Health) dirige un grupo de apoyo gratuito para diabetes por Zoom (videoconferencia por internet) y en persona cada tres meses. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
@@ -1648,16 +1648,16 @@ Llame al [805-597-6780](tel:+1-805-597-6780) o envíe un correo electrónico a [
 
 El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece pruebas y cuidado de diabetes. <!-- SOURCE NEEDED (issue #75) -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) ofrece educación nutricional y asesoramiento de estilo de vida para personas sin seguro con diabetes o prediabetes. <!-- Source: https://www.slonoorfoundation.org/medical -->
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) ofrece educación nutricional y asesoramiento de estilo de vida para personas sin seguro con diabetes o prediabetes. <!-- Source: https://www.slonoorfoundation.org/medical -->
 
 #### Personas con Discapacidades
 
 [**California Connect**](Directory.md#California-Connect) puede prestarle, gratis, equipo de telecomunicaciones de asistencia que ayuda si tiene limitaciones funcionales de audición, visión, movilidad, habla y/o interpretación de información. <!-- Source: https://caconnect.org/ -->
 
-El [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) ayuda a personas con discapacidades a encontrar o mantener empleo y vivir independientemente. <!-- Source: https://www.dor.ca.gov/Home/GettingStarted -->
+El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) ayuda a personas con discapacidades a encontrar o mantener empleo y vivir independientemente. <!-- Source: https://www.dor.ca.gov/Home/GettingStarted -->
 Pueden ayudarle a navegar programas de discapacidad y beneficios, obtener tecnologías de asistencia y obtener ayuda con cuidado infantil y transporte.
 
-[**Disability Rights California**](Directory.md#Disability-Rights-California) (Derechos de Discapacidad de California) le ayuda a entender y defender sus derechos legales como persona discapacitada. <!-- Source: https://www.disabilityrightsca.org/what-we-do/programs -->
+[**Disability Rights California**](Directory.md#Disability-Rights-California) le ayuda a entender y defender sus derechos legales como persona discapacitada. <!-- Source: https://www.disabilityrightsca.org/what-we-do/programs -->
 
 La [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) tiene recursos para personas con parálisis cerebral, discapacidad intelectual leve, trastornos de salud mental, lesión cerebral traumática, síndrome de Down y trastornos del espectro. <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
 [**PathPoint**](Directory.md#PathPoint) también tiene servicios para personas con discapacidades del desarrollo. <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
@@ -1667,10 +1667,10 @@ Si usa lenguaje de señas americano, [**Lifesigns**](Directory.md#Lifesigns) pue
 
 #### Personas con VIH o Hepatitis C
 
-La [**Access Support Network**](Directory.md#ASN) (Red de Apoyo de Acceso) tiene una variedad de servicios para personas impactadas por VIH y Hepatitis C. <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+La [**Access Support Network**](Directory.md#ASN) tiene una variedad de servicios para personas impactadas por VIH y Hepatitis C. <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 Estos incluyen pruebas, tratamiento, asesoramiento de beneficios, ayuda con seguro, reducción de daños (incluyendo Narcan y suboxona), prevención de infecciones y cuidado de heridas. <!-- Sources: https://accesssupportnetwork.org/programs/hiv/ and https://accesssupportnetwork.org/programs/hep-c/ -->
 
-[**The Center for Health & Prevention**](Directory.md#The-Center) (El Centro para la Salud y Prevención) ofrece pruebas de VIH/Hepatitis C. <!-- Source: https://capslo.org/the-center/ -->
+[**The Center for Health & Prevention**](Directory.md#The-Center) ofrece pruebas de VIH/Hepatitis C. <!-- Source: https://capslo.org/the-center/ -->
 
 #### Personas Mayores
 
@@ -1678,24 +1678,24 @@ Estos incluyen pruebas, tratamiento, asesoramiento de beneficios, ayuda con segu
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
 -->
 
-La [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) (Comisión de la Costa Central para Ciudadanos de la Tercera Edad) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia), el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC) (Centro de Recursos para el Envejecimiento y la Discapacidad de la Costa Central), y el [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP) (Programa de Asesoramiento y Defensa de Seguros de Salud).
+La [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia), el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), y el [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
 Pueden ayudarle con nutrición y servicios de comidas, transporte y gestión de cuidado.
 
 #### Adolescentes y Jóvenes
 
-El programa [**Teen Wellness**](Directory.md#Teen-Wellness) (Bienestar Adolescente) de [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) incluye entrenamiento de salud, clases de fuerza, talleres de atención plena y educación sobre salud reproductiva. <!-- Source: https://capslo.org/teen-health-education/ -->
+El programa [**Teen Wellness**](Directory.md#Teen-Wellness) de [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) incluye entrenamiento de salud, clases de fuerza, talleres de atención plena y educación sobre salud reproductiva. <!-- Source: https://capslo.org/teen-health-education/ -->
 
 #### Mujeres
 
-[**The Center for Health & Prevention**](Directory.md#The-Center) (El Centro para la Salud y Prevención) ofrece exámenes de senos, referencias para mamografías gratuitas, papanicolaou y servicios menopáusicos. <!-- Source: https://capslo.org/the-center/ -->
+[**The Center for Health & Prevention**](Directory.md#The-Center) ofrece exámenes de senos, referencias para mamografías gratuitas, papanicolaou y servicios menopáusicos. <!-- Source: https://capslo.org/the-center/ -->
 
-Las oficinas de [**Community Health Centers**](Directory.md#CHC) (Centros de Salud Comunitarios) en 1057 E. Grand Ave. en Arroyo Grande, en Nipomo, en 1551 Bishop St. en SLO, y en 292 Posada Ln. en Templeton se especializan en salud de mujeres. <!-- Source: https://www.communityhealthcenters.org/locations/ -->
+Las oficinas de [**Community Health Centers**](Directory.md#CHC) en 1057 E. Grand Ave. en Arroyo Grande, en Nipomo, en 1551 Bishop St. en SLO, y en 292 Posada Ln. en Templeton se especializan en salud de mujeres. <!-- Source: https://www.communityhealthcenters.org/locations/ -->
 
 <!-- Not listed here: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) offers cervical- and breast-cancer screening and menopause treatment.
 -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) (Fundación SLO Noor) tiene una unidad móvil de salud para mujeres. <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una unidad móvil de salud para mujeres. <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
 
 ### <a id="poison-oak">Roble Venenoso</a>
 
@@ -1767,14 +1767,14 @@ Si nota enrojecimiento creciente que se extiende más allá del área de la quem
    - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
    - Source: [linkslo.org](https://linkslo.org/)
 1. [**Resilient Ones**](https://www.resilientsouls.org/)
-   - Website is a little vague about what they offer, to whom, and on what terms. But it appears to be some sort of counseling and aid ("peer support groups, healing programs, and trauma-informed training") for “victims of trauma, abuse, and exploitation” in particular for victims of “human trafficking."
+   - Website is a little vague about what they offer, to whom, and on what terms. But it appears to be some sort of counseling and aid (“peer support groups, healing programs, and trauma-informed training”) for “victims of trauma, abuse, and exploitation” in particular for victims of “human trafficking.”
    - Phone: [805-674-5056](tel:+1-805-674-5056)
    - Email: [info@resilientsouls.org](mailto:info@resilientsouls.org)
 -->
 
 -----
 
-## <a id="drug-use-and-recovery">Uso de Drogas, Recuperación y Reducción de Daños</a>
+## <a id="drug-use-and-recovery">Uso de Drogas, Recuperación, y Reducción de Daños</a>
 
 **En esta sección:**
 
@@ -1782,39 +1782,39 @@ Si nota enrojecimiento creciente que se extiende más allá del área de la quem
 - [Tabaco / Nicotina](#tobacco-nicotine)
 - [Programas de Recuperación de 12 Pasos y Similares](#twelve-step)
 
-> Nota: El término algo confuso "salud del comportamiento" a menudo describe programas para personas que usan drogas adictivas o dañinas y quieren ayuda.
+> Nota: El término algo confuso “salud del comportamiento” a menudo describe programas para personas que usan drogas adictivas o dañinas y quieren ayuda.
 
-[**Access Support Network**](Directory.md#ASN) (Red de Apoyo de Acceso) ofrece tratamiento con suboxona (buprenorfina) y entrenamiento para la prevención de sobredosis de opioides. <!-- Sources: https://accesssupportnetwork.org/programs/harm-reduction-programs/#moud and #opioid-->
+[**Access Support Network**](Directory.md#ASN) ofrece tratamiento con suboxona (buprenorfina) y entrenamiento para la prevención de sobredosis de opioides. <!-- Sources: https://accesssupportnetwork.org/programs/harm-reduction-programs/#moud and #opioid-->
 
-[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) (Centros de Tratamiento Aegis) es un Programa de Tratamiento de Opioides (OTP) que ofrece Tratamiento Asistido por Medicamentos que usa metadona, Suboxona y medicinas similares. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
+[**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) es un Programa de Tratamiento de Opioides (OTP) que ofrece Tratamiento Asistido por Medicamentos que usa metadona, Suboxona y medicinas similares. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
 Proporcionan servicios especializados para mujeres embarazadas, para veteranos, para personas con ingresos bajos y para personas con trastornos de salud mental. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
 <!-- Walk-ins are welcome and same-day admissions are available. { SOURCE NEEDED } -->
 Aceptan Medi-Cal, Medicare y la mayoría de los seguros comerciales. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
 
-[**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) (Servicios de Consejería Aspire) opera programas de tratamiento para pacientes internos (hospitalización parcial) e intensivos para pacientes externos para personas que intentan vencer la adicción. <!-- Source: https://aspirecounselingservice.com/addiction-recovery-services/ -->
+[**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) opera programas de tratamiento para pacientes internos (hospitalización parcial) e intensivos para pacientes externos para personas que intentan vencer la adicción. <!-- Source: https://aspirecounselingservice.com/addiction-recovery-services/ -->
 Aceptan Medicare y la mayoría de los planes de seguro privados. <!-- Source: https://aspirecounselingservice.com/ -->
 
-Las oficinas de [**Community Health Centers**](Directory.md#CHC) (Centros de Salud Comunitarios) en 260 Station Way en Arroyo Grande, en Atascadero, Cambria, Nipomo, Oceano, Paso Robles,
+Las oficinas de [**Community Health Centers**](Directory.md#CHC) en 260 Station Way en Arroyo Grande, en Atascadero, Cambria, Nipomo, Oceano, Paso Robles,
 en 77 Casa St. en SLO, y en Templeton (Las Tablas), se especializan en salud del comportamiento. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
-Su [**Healthcare for the Homeless Program**](Directory.md#HCHP) (Programa de Atención Médica para Personas Sin Hogar) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) ofrece tratamiento de abuso de sustancias e intercambio de agujas. <!-- SOURCE NEEDED (issue #75) -->
+Su [**Healthcare for the Homeless Program**](Directory.md#HCHP) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) ofrece tratamiento de abuso de sustancias e intercambio de agujas. <!-- SOURCE NEEDED (issue #75) -->
 
-[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) (Refugio del Buen Samaritano) en Santa Maria tiene un programa de desintoxicación que acepta personas sin cita<!-- Source: https://www.goodsamaritanshelter.org/recovery-behavioral-health --><!-- and referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County {SOURCE NEEDED} -->.
-Opera el [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) (Centro de Sobriedad de SLO) para sobriedad, desintoxicación y abstinencia de drogas asistida médicamente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
+[**Refugio del Buen Samaritano**](Directory.md#Good-Samaritan-Shelter) en Santa Maria tiene un programa de desintoxicación que acepta personas sin cita<!-- Source: https://www.goodsamaritanshelter.org/recovery-behavioral-health --><!-- and referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County {SOURCE NEEDED} -->.
+Opera el [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) para sobriedad, desintoxicación y abstinencia de drogas asistida médicamente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
 
 [**SLO Bangers**](Directory.md#SLO-Bangers) opera un programa de intercambio de agujas, puede darle entrenamiento para la prevención de sobredosis y distribuye Narcan. <!-- Source: https://slobangers.com/services.html -->
 
-[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) (Servicios de Drogas y Alcohol del Condado de SLO) ofrece tratamiento asistido médicamente, servicios de apoyo a la recuperación y atención para pacientes externos. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
+[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) ofrece tratamiento asistido médicamente, servicios de apoyo a la recuperación y atención para pacientes externos. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
 Algunos de sus servicios están disponibles sin cita previa. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics -->
-Cobran una tarifa variable dependiendo de la capacidad de pago ("ningún cliente es rechazado del acceso a servicios debido a la incapacidad de pagar"). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services -->
+Cobran una tarifa variable dependiendo de la capacidad de pago (“ningún cliente es rechazado del acceso a servicios debido a la incapacidad de pagar”). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services -->
 
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) (Centro Médico French Hospital) y [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) (Hospital Comunitario de Arroyo Grande) ofrecen tratamiento con suboxona sin cita en sus salas de emergencia. <!-- SOURCE NEEDED (issue #77) -->
+[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) y [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) ofrecen tratamiento con suboxona sin cita en sus salas de emergencia. <!-- SOURCE NEEDED (issue #77) -->
 
-[**Transitions Mental Health Association**](Directory.md#TMHA) (Asociación de Salud Mental Transitions) tiene grupos de apoyo para el uso de sustancias para personas que también tienen otras necesidades de salud mental. <!-- Source: https://www.t-mha.org/wellness-calendars.php -->
+[**Transitions Mental Health Association**](Directory.md#TMHA) tiene grupos de apoyo para el uso de sustancias para personas que también tienen otras necesidades de salud mental. <!-- Source: https://www.t-mha.org/wellness-calendars.php -->
 
-La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) (Clínica de Pacientes Externos de la Administración de Veteranos) ofrece tratamiento de abuso de sustancias a veteranos militares estadounidenses que califiquen. <!-- Source: https://www.va.gov/health-care/health-needs-conditions/substance-use-problems/ -->
-Las [**County Veterans Services Offices**](Directory.md#Veterans-Services) (Oficinas de Servicios para Veteranos del Condado) también pueden referir a veteranos a programas de tratamiento de dependencia al alcohol y drogas. <!-- SOURCE NEEDED (issue #78) -->
+La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) ofrece tratamiento de abuso de sustancias a veteranos militares estadounidenses que califiquen. <!-- Source: https://www.va.gov/health-care/health-needs-conditions/substance-use-problems/ -->
+Las [**County Veterans Services Offices**](Directory.md#Veterans-Services) también pueden referir a veteranos a programas de tratamiento de dependencia al alcohol y drogas. <!-- SOURCE NEEDED (issue #78) -->
 
-La [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/) (Administración de Servicios de Abuso de Sustancias y Salud Mental) es una agencia del gobierno de Estados Unidos.
+La [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/) es una agencia del gobierno de Estados Unidos.
 Tiene un servicio telefónico gratuito ([800-662-HELP](tel:+1-800-662-4357); TTY: [800-487-4889](tel:+1-800-487-4889); texto: [435748](sms:435748?&body=HELP4U)) que puede ayudarle a encontrar opciones de tratamiento de abuso de sustancias cerca de usted que coincidan con sus necesidades. <!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
 
 ### <a id="naloxone-narcan">Naloxona / Narcan</a>
@@ -1826,7 +1826,7 @@ Puede obtener naloxona de [**Access Support Network**](Directory.md#ASN), <!-- S
 [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <!-- SOURCE NEEDED -->
 y las salas de emergencia de [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) <!-- SOURCE NEEDED -->
 y [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital). <!-- SOURCE NEEDED -->
-También puede obtener naloxona gratis en cualquier momento de estas "NaloxBoxes" (Cajas de Naloxona):
+También puede obtener naloxona gratis en cualquier momento de estas “NaloxBoxes” (Cajas de Naloxona):
 <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county -->
 
 🗺️ **<a href="naloxone-locations-map.html" target="_blank" rel="noopener">Ver todas las ubicaciones en un mapa interactivo</a>**
@@ -1842,14 +1842,14 @@ También puede obtener naloxona gratis en cualquier momento de estas "NaloxBoxes
 **Condado Norte:**
 
 - Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.465791" data-lon="-120.648782" data-zoom="17" data-label="Department of Social Services">9630 El Camino Real</a>
-- Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Atascadero branch), <a href="#" class="map-link" data-lat="35.489118" data-lon="-120.663909" data-zoom="17" data-label="Public Library">6555 Capistrano Ave.</a>
+- Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Atascadero), <a href="#" class="map-link" data-lat="35.489118" data-lon="-120.663909" data-zoom="17" data-label="Public Library">6555 Capistrano Ave.</a>
 - Paso Robles: [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="Behavioral Health">805 4th St.</a>
 - Paso Robles: City Library, <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="City Library">1000 Spring St.</a>
 - Paso Robles: [**ECHO**](Directory.md#ECHO) (Paso Home Key), <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="ECHO Shelter">1134 Black Oak Dr.</a>
 - Paso Robles: [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.650584" data-lon="-120.670395" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
 - San Miguel: Community Park, <a href="#" class="map-link" data-lat="35.751293" data-lon="-120.699068" data-zoom="17" data-label="Community Park">1325 K St.</a>
 - Santa Margarita: Community Park, <a href="#" class="map-link" data-lat="35.392470" data-lon="-120.604482" data-zoom="17" data-label="Community Park">2210 H St.</a>
-- Shandon: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Shandon branch), <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="Public Library">195 N. 2nd St.</a>
+- Shandon: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Shandon), <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="Public Library">195 N. 2nd St.</a>
 
 **Ciudad de SLO:**
 
@@ -1861,7 +1861,7 @@ También puede obtener naloxona gratis en cualquier momento de estas "NaloxBoxes
 - Maxine Lewis Grove, <a href="#" class="map-link" data-lat="35.261503" data-lon="-120.648658" data-zoom="17" data-label="Maxine Lewis Grove">732 Orcutt Rd.</a>
 - [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="Department of Social Services">3433 S. Higuera St.</a>
 - [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) (Health Campus), <a href="#" class="map-link" data-lat="35.274827" data-lon="-120.646298" data-zoom="16" data-label="Health Campus">2180 Johnson Ave.</a>
-- [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (SLO branch), <a href="#" class="map-link" data-lat="35.282385" data-lon="-120.662284" data-zoom="17" data-label="Public Library">995 Palm St.</a>
+- [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal SLO), <a href="#" class="map-link" data-lat="35.282385" data-lon="-120.662284" data-zoom="17" data-label="Public Library">995 Palm St.</a>
 - [**Sun Street Centers**](Directory.md#Sun-Street-Centers), <a href="#" class="map-link" data-lat="35.256680" data-lon="-120.671937" data-zoom="17" data-label="Sun Street Centers">34 Prado Rd.</a>
 - The Anderson, <a href="#" class="map-link" data-lat="35.281304" data-lon="-120.661857" data-zoom="17" data-label="Anderson Hotel">965 Monterey St.</a>
 - [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.329871" data-lon="-120.740733" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
@@ -1871,24 +1871,24 @@ También puede obtener naloxona gratis en cualquier momento de estas "NaloxBoxes
 - Arroyo Grande: [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), <a href="#" class="map-link" data-lat="35.192994" data-lon="-120.457449" data-zoom="15" data-label="Lopez Lake Recreation Area">6800 Lopez Dr.</a>
 - Arroyo Grande: [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.120654" data-lon="-120.597809" data-zoom="18" data-label="The Center">1152 E. Grand Ave.</a>
 - Grover Beach: Public Health, <a href="#" class="map-link" data-lat="35.119294" data-lon="-120.611992" data-zoom="17" data-label="Public Health">286 S. 16th St. Bldg A</a>
-- Nipomo: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Nipomo branch), <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="Nipomo Library">918 W. Tefft St.</a>
+- Nipomo: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Nipomo), <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="Nipomo Library">918 W. Tefft St.</a>
 - Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes">1001 Pacific Blvd.</a>
-- Oceano: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Oceano branch), <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="Oceano Library">1511 19th St.</a>
+- Oceano: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Oceano), <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="Oceano Library">1511 19th St.</a>
 - Oceano: [**Oceano Campground**](Directory.md#Coastal-Dunes) (County Campground), <a href="#" class="map-link" data-lat="35.104656" data-lon="-120.625624" data-zoom="17" data-label="Oceano Campground">494 Air Park Dr.</a>
 
 ### <a id="tobacco-nicotine">Tabaco / Nicotina</a>
 
-El programa "Kick It California" (Déjalo California) puede ayudarle a dejar de fumar ([kickitca.org](https://kickitca.org/) al [800-300-8086](tel:+1-800-300-8086). <!-- Source: https://kickitca.org/ -->
+El programa “Kick It California” puede ayudarle a dejar de fumar ([kickitca.org](https://kickitca.org/) al [800-300-8086](tel:+1-800-300-8086). <!-- Source: https://kickitca.org/ -->
 El gobierno de Estados Unidos tiene un programa similar en [smokefree.gov](https://smokefree.gov/) o [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
-El [**Healthcare for the Homeless Program**](Directory.md#HCHP) (Programa de Atención Médica para Personas Sin Hogar) <!-- SOURCE NEEDED (issue #75) -->
-y el [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) (Departamento de Salud Pública del Condado de SLO) también ofrecen ayuda para dejar el tabaco. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/quit-support -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- SOURCE NEEDED (issue #75) -->
+y el [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) también ofrecen ayuda para dejar el tabaco. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/quit-support -->
 
-La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) (Clínica de Pacientes Externos de la Administración de Veteranos) ofrece apoyo, recursos y programas para dejar el tabaco a veteranos militares estadounidenses que califiquen. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
+La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) ofrece apoyo, recursos y programas para dejar el tabaco a veteranos militares estadounidenses que califiquen. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
 
 ### <a id="twelve-step">Programas de Recuperación de 12 Pasos y Similares</a>
 
-[**Alcoholics Anonymous**](Directory.md#AA) (Alcohólicos Anónimos) es un programa de sobriedad y recuperación dirigido por compañeros.
+[**Alcohólicos Anónimos**](Directory.md#AA) es un programa de sobriedad y recuperación dirigido por compañeros.
 [**Recovery Dharma**](Directory.md#Recovery-Dharma), organizado por [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service), es un programa similar orientado al budismo. <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?distance=5&search=93401&mode=location -->
 
 [**Narcotics Anonymous**](Directory.md#Narcotics-Anonymous) (Narcóticos Anónimos) es similar y le ayuda a dejar de usar otras drogas adictivas.
@@ -1916,21 +1916,21 @@ El área tatuada se pondrá roja e hinchada poco después del tratamiento, pero 
 A veces hay algunas ampollas y costras.
 Necesitará tener cuidado de mantener el área del tatuaje limpia y aplicar algunos ungüentos que ayuden a la curación. <!-- Source: https://removery.com/tattoo-removal/aftercare/ -->
 
-El [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) (Programa de Eliminación de Tatuajes Liberty) ofrece eliminación de tatuajes con láser de tatuajes relacionados con pandillas, antisociales o económicamente limitantes. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+El [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) ofrece eliminación de tatuajes con láser de tatuajes relacionados con pandillas, antisociales o económicamente limitantes. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 Se le requiere hacer algunas horas de servicio comunitario (o una donación financiera equivalente) antes de cada tratamiento, pero por lo demás no hay costo. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 Debe aceptar permanecer limpio y sobrio, y no hacerse más tatuajes, durante el tratamiento. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
-Este servicio se ofrece a personas en el condado de SLO <!-- SOURCE NEEDED (https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "San Luis Obispo or Santa Maria") (issue #79) -->
-y los tratamientos ocurren en Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ (though https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "at Sierra Vista Regional Medical Center") (issue #79) -->
+Este servicio se ofrece a personas en el condado de SLO <!-- SOURCE NEEDED (https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says “San Luis Obispo or Santa Maria”) (issue #79) -->
+y los tratamientos ocurren en Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ (though https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says “at Sierra Vista Regional Medical Center”) (issue #79) -->
 
-[**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) tiene un programa de eliminación de tatuajes de bajo costo ($20–90 por sesión, en una escala variable basada en la capacidad de pago). <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
+[**Catholic Charities**](Directory.md#Catholic-Charities) tiene un programa de eliminación de tatuajes de bajo costo ($20–90 por sesión, en una escala variable basada en la capacidad de pago). <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 También debe completar 20 horas de servicio comunitario antes de comenzar el tratamiento. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 Priorizan la eliminación de tatuajes ofensivos o relacionados con pandillas, y eliminarán tanto tatuajes visibles y obvios (por ejemplo, la cara, el dorso de las manos) como los más discretos. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 Llámelos para comenzar el proceso. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 
-El [Removery INK-nitiative Program](https://removery.com/services/ink-nitiative) (Programa INK-nitiative de Removery) ofrece eliminación gratuita de tatuajes, si esos tatuajes están en áreas visibles (cara, manos, brazos) o sugieren afiliación a pandillas o grupos de odio, a personas que han sido encarceladas, son ex miembros de pandillas, o son sobrevivientes de abuso doméstico o tráfico humano. <!-- Source: https://removery.com/services/ink-nitiative/ -->
+El [Programa INK-nitiative](https://removery.com/services/ink-nitiative) ofrece eliminación gratuita de tatuajes, si esos tatuajes están en áreas visibles (cara, manos, brazos) o sugieren afiliación a pandillas o grupos de odio, a personas que han sido encarceladas, son ex miembros de pandillas, o son sobrevivientes de abuso doméstico o tráfico humano. <!-- Source: https://removery.com/services/ink-nitiative/ -->
 Solicite en su sitio web. <!-- Source: https://removery.com/services/ink-nitiative/ -->
 
-El sitio web de [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) (De las Cárceles a los Empleos) lista cientos de otros programas de eliminación de tatuajes gratuitos o de bajo costo en todo el país.
+El sitio web de [Jails to Jobs](https://jailstojobs.org/resources/tattoo-removal-programs) lista cientos de otros programas de eliminación de tatuajes gratuitos o de bajo costo en todo el país.
 
 -----
 
@@ -1952,7 +1952,7 @@ Típicamente esto significa que están en sus últimos seis meses de vida.
 Todos los servicios se proporcionan sin cargo (dependen completamente de donaciones comunitarias). <!-- Source: https://hospiceslo.org/ -->
 Estos servicios están abiertos a residentes del condado de San Luis Obispo que están en duelo por una muerte, enfrentando una enfermedad que limita la vida, o enfrentando el final de la vida. <!-- Source: https://hospiceslo.org/ -->
 
-El [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program) (Programa para Personas Sin Hogar Médicamente Frágiles) proporciona refugio a personas con enfermedades terminales que necesitan vivienda para que puedan morir en la dignidad y estabilidad de una vivienda con el cuidado de hospicio. <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
+El [**Programa para Personas sin Hogar con Fragilidad Médica**](Directory.md#Medically-Fragile-Homeless-Program) (Programa para Personas Sin Hogar Médicamente Frágiles) proporciona refugio a personas con enfermedades terminales que necesitan vivienda para que puedan morir en la dignidad y estabilidad de una vivienda con el cuidado de hospicio. <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
 
 [**Aevum Home Health**](Directory.md#Aevum) ofrece cuidado paliativo, y acepta Medicare y Medi-Cal. <!-- Source: https://www.aevumhomehealth.com/services -->
 También tienen un programa de hospicio.<!-- https://aevumhospice.com/ ; unclear if the hospice program also accepts Medicare and Medi-Cal -->
@@ -1976,7 +1976,7 @@ Contacte la [**Veterans Administration Outpatient Clinic**](Directory.md#Veteran
 <!-- See issue #37 -->
 
 Las Directivas Anticipadas de Atención Médica son documentos legales que le permiten comunicar sus deseos de atención médica por adelantado, en caso de que no pueda hablar por usted mismo.
-A veces las personas las llaman "Testamentos en Vida".
+A veces las personas las llaman “Testamentos en Vida”.
 Estos documentos incluyen:
 
 - **Directivas Anticipadas de Atención Médica:** Especifica qué tratamientos médicos querría o no querría si se vuelve terminalmente enfermo o está en un estado vegetativo persistente
@@ -1990,12 +1990,12 @@ Usualmente deben ser firmados por usted *y* por ciertos testigos para ser efecti
 Es una buena idea crear tales documentos *antes* de que los necesite, ya que cuando los necesita estará preocupado o incapaz.
 Entregue estos documentos a sus proveedores de atención médica para que sepan respetar sus preferencias específicas.
 
-Los sitios web gratuitos [PREPARE for Your Care](https://prepareforyourcare.org/) (PREPÁRESE para Su Cuidado) y [The Conversation Project](https://theconversationproject.org/) (El Proyecto de Conversación) pueden ayudarle a crear documentos de directivas anticipadas que coincidan con sus necesidades y preferencias.
-El sitio web [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/) (Formulario de Directiva Anticipada de California) tiene varias variedades de formularios de directivas anticipadas en formato PDF que puede revisar o imprimir.
+Los sitios web gratuitos [PREPARE Su Cuidado Médico](https://prepareforyourcare.org/es/prepare/bienvenido) y [The Conversation Project](https://theconversationproject.org/) pueden ayudarle a crear documentos de directivas anticipadas que coincidan con sus necesidades y preferencias.
+El sitio web [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/) tiene varias variedades de formularios de directivas anticipadas en formato PDF que puede revisar o imprimir.
 
-[**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) (Proyecto de Servicios Legales para Personas Mayores), <!-- probably via SLOLAF -->
-[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) (Asistencia Legal Rural de California), <!-- SOURCE NEEDED (issue #80) -->
-y [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO) <!-- Source: https://www.slolaf.org/seniorlaw -->
+[**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), <!-- probably via SLOLAF -->
+[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), <!-- SOURCE NEEDED (issue #80) -->
+y [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) <!-- Source: https://www.slolaf.org/seniorlaw -->
 pueden darle ayuda gratuita para hacer sus documentos de directivas anticipadas claros y legalmente vinculantes.
 
 [**Hospice SLO**](Directory.md#Hospice-SLO) ofrece asistencia con directivas anticipadas ya sea en persona en sus oficinas, o por teléfono o videoconferencia por internet. <!-- Source: https://hospiceslo.org/services/advance-health-care-directive-support -->
@@ -2017,7 +2017,7 @@ Puede aprender más sobre el formulario y revisar uno en línea, en varios idiom
 
 ### <a id="self-defense-classes">Clases de Defensa Personal y Artes Marciales</a>
 
-A veces se ofrecen clases de defensa personal o artes marciales relativamente económicas a través de los "Programas Comunitarios" en [**Cuesta College**](Directory.md#Cuesta-College) (vea la sección ["Artes Marciales"](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) de su sitio web) o [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (Escuela para Adultos Costera de San Luis) (vea la sección ["Programas Comunitarios"](https://ae.slcusd.org/community-programs) de su sitio web).
+A veces se ofrecen clases de defensa personal o artes marciales relativamente económicas a través de los “Programas Comunitarios” en [**Cuesta College**](Directory.md#Cuesta-College) (vea la sección [“Martial Arts”](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) de su sitio web) o [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (Escuela para Adultos Costera de San Luis) (vea la sección [“Community Programs”](https://ae.slcusd.org/community-programs) de su sitio web).
 
 <!-- All seem to be defunct at the moment
 ### <a id="womens-self-defense">Programas de Defensa Personal para Mujeres</a>
@@ -2082,7 +2082,7 @@ Estos comportamientos simples pueden hacerle menos vulnerable a amenazas potenci
 
 Aprender a identificar personas confiables es una de las habilidades callejeras más importantes que puede desarrollar, aunque toma tiempo y experiencia.
 Sea cauteloso al formar nuevas relaciones—a veces las personas que experimentan falta de hogar son victimizadas por personas que dicen que quieren ayudar.
-Esté atento a "señales de alerta" como personas que intentan explotar sus vulnerabilidades, que ofrecen tratos que parecen demasiado buenos para ser verdad, o que le presionan a situaciones incómodas o vulnerables.
+Esté atento a “señales de alerta” como personas que intentan explotar sus vulnerabilidades, que ofrecen tratos que parecen demasiado buenos para ser verdad, o que le presionan a situaciones incómodas o vulnerables.
 Conéctese con compañeros que entienden su situación, ya que estas relaciones a menudo proporcionan tanto seguridad como apoyo emocional.
 Recuerde que desarrollar buen juicio sobre las personas es un proceso gradual, no algo que pueda dominar inmediatamente.
 
@@ -2132,46 +2132,46 @@ Cuando sea posible, tome clases formales de defensa personal para aprender técn
 Si está siendo llevado a la corte y acusado de un crimen grave por el gobierno, tiene el derecho de tener un abogado que está entrenado en la ley para ayudarle a defenderse contra los cargos.
 Tiene derecho a un abogado incluso si no tiene suficiente dinero para pagar uno.
 Si no puede pagar un abogado, dígale al juez cuando aparezca por primera vez en la corte, y el juez le asignará un defensor público. <!-- Source: https://slodefend.com/faq/ -->
-[**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) (Defensores Públicos de SLO) es la oficina principal de defensores públicos en el condado de SLO.
+[**SLO Public Defenders**](Directory.md#SLO-Public-Defenders) es la oficina principal de defensores públicos en el condado de SLO.
 Debe esperar hasta que el juez le asigne un defensor público en particular antes de que pueda discutir su caso con ellos. <!-- Source: https://slodefend.com/faq/ -->
 
-Si ha estado en la cárcel o prisión y está reingresando a la comunidad después de cumplir su condena o ser liberado en libertad condicional, [**Restorative Partners**](Directory.md#Restorative-Partners) (Socios Restaurativos) puede ayudar a que su reingreso sea exitoso.
+Si ha estado en la cárcel o prisión y está reingresando a la comunidad después de cumplir su condena o ser liberado en libertad condicional, [**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudar a que su reingreso sea exitoso.
 Pueden darle asistencia de vivienda incluyendo casas de vida limpia y sobria, y ayuda para regresar a la fuerza laboral. <!-- Source: https://restorativepartners.org/about/ -->
 Llámelos o envíeles un correo electrónico para aprender más.
 
 Si tiene un historial criminal que hace difícil que encuentre empleo o vivienda, puede ser capaz de limpiar ese historial. <!-- Source: https://peoplesjusticeproject.org/record-clearing-%26-sealing -->
-"Clínicas de Expediente Limpio" son ofrecidas periódicamente por [**People's Justice Project**](Directory.md#Peoples-Justice-Project) (Proyecto de Justicia del Pueblo) <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
-[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) (Asistencia Legal Rural de California), <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
-y [**SLO College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic) (Clínica Legal del Colegio de Derecho de SLO). <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
+“Clean Slate Clinics” son ofrecidas periódicamente por [**People’s Justice Project**](Directory.md#Peoples-Justice-Project) <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
+[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance), <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
+y [**SLO College of Law Legal Clinic**](Directory.md#SLO-College-of-Law-Legal-Clinic). <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
 Contáctelos al [805-902-2752](tel:+1-805-902-2752) o [805-242-6691](tel:+1-805-242-6691) para programar una cita.
 
-Los veteranos militares estadounidenses que entran al sistema de justicia criminal pueden ser capaces de obtener servicios de la ["Corte de Tratamiento para Veteranos"](https://www.slocounty.ca.gov/departments/district-attorney/adult-prosecutions/veterans-treatment-court) si la actividad por la que fueron arrestados o procesados es atribuida a condiciones como trastorno por estrés postraumático, lesión cerebral traumática, trauma sexual u otras causas relacionadas con el servicio militar. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/benefits-and-services/veterans-treatment-court-(vtc) -->
-La Corte de Tratamiento para Veteranos es un programa riguroso de 12–18 meses de libertad condicional supervisada personalizado para las necesidades de veteranos traumatizados que incluye tratamiento, consejería y comparecencias regulares en la corte. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/adult-prosecutions/veterans-treatment-court ; Note https://www.slocounty.ca.gov/departments/veterans-services/benefits-and-services/veterans-treatment-court-(vtc) says "15-18 month" -->
-Contacte [**County Veterans Services**](Directory.md#Veterans-Services) (Servicios para Veteranos del Condado) para ayuda para entrar a este programa.
+Los veteranos militares estadounidenses que entran al sistema de justicia criminal pueden ser capaces de obtener servicios de la [“Veterans Treatment Court”](https://www.slocounty.ca.gov/departments/district-attorney/adult-prosecutions/veterans-treatment-court) si la actividad por la que fueron arrestados o procesados es atribuida a condiciones como trastorno por estrés postraumático, lesión cerebral traumática, trauma sexual u otras causas relacionadas con el servicio militar. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/benefits-and-services/veterans-treatment-court-(vtc) -->
+La Corte de Tratamiento para Veteranos es un programa riguroso de 12–18 meses de libertad condicional supervisada personalizado para las necesidades de veteranos traumatizados que incluye tratamiento, consejería y comparecencias regulares en la corte. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/adult-prosecutions/veterans-treatment-court ; Note https://www.slocounty.ca.gov/departments/veterans-services/benefits-and-services/veterans-treatment-court-(vtc) says “15-18 month” -->
+Contacte [**County Veterans Services**](Directory.md#Veterans-Services) para ayuda para entrar a este programa.
 
 ### <a id="housing-legal">Ayuda Legal con Vivienda (Discriminación, Disputas con Propietarios, etc.)</a>
 
-[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) (Asistencia Legal Rural de California) proporciona asistencia legal civil gratuita a personas de bajos ingresos. <!-- Source: https://crla.org/about-crla -->
+[**California Rural Legal Assistance**](Directory.md#California-Rural-Legal-Assistance) proporciona asistencia legal civil gratuita a personas de bajos ingresos. <!-- Source: https://crla.org/about-crla -->
 Esto incluye casos relacionados con ejecuciones hipotecarias, desalojos y cierres, Sección 8 y vivienda pública, y discriminación de vivienda. <!-- Source: https://crla.org/get-help/housing -->
 
-[**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO) ayuda a personas de bajos ingresos en el condado de SLO con apoyo legal. <!-- Source: https://www.slolaf.org/ -->
+[**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) ayuda a personas de bajos ingresos en el condado de SLO con apoyo legal. <!-- Source: https://www.slolaf.org/ -->
 Entre los temas con los que ayudan están la defensa de desalojo para inquilinos, conflictos entre propietarios e inquilinos, problemas de habitabilidad y reparación, accesibilidad para personas con discapacidades, vivienda justa y discriminación, vivienda de Sección 8, aumentos de alquiler ilegales, prevención de ejecución hipotecaria y ley de casas móviles. <!-- Source: https://www.slolaf.org/housing and https://www.slolaf.org/foreclosureprevention -->
 
-El [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) (Departamento de Derechos Civiles de California) puede ayudarle a entender sus derechos a estar protegido de [discriminación de vivienda](https://calcivilrights.ca.gov/housing/) ilegal y también puede ayudarle a investigar y presentar quejas formales de discriminación. <!-- Source: https://calcivilrights.ca.gov/housing/ -->
+El [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) puede ayudarle a entender sus derechos a estar protegido de [discriminación de vivienda](https://calcivilrights.ca.gov/housing/) ilegal y también puede ayudarle a investigar y presentar quejas formales de discriminación. <!-- Source: https://calcivilrights.ca.gov/housing/ -->
 
-La organización de defensa de California [Tenants Together](https://tenantstogether.org/) (Inquilinos Unidos) ([info@tenantstogether.org](mailto:info@tenantstogether.org)) tiene una línea directa de derechos de inquilinos al [888-495-8020](tel:+1-888-495-8020) (texto [650-600-7821](sms:+1-650-600-7821?&body=HELPLINE)). <!-- Source: https://www.tenantstogether.org/tenant-rights-hotline -->
-También tienen un [Kit de Herramientas de Defensa para Inquilinos](https://www.tenantstogether.org/covid-19-tenant-defense) de autoayuda en línea para ayudarle a entender sus derechos como inquilino y cómo hacer cumplir esos derechos.
+La organización de defensa de California [Tenants Together](https://tenantstogether.org/) ([info@tenantstogether.org](mailto:info@tenantstogether.org)) tiene una línea directa de derechos de inquilinos al [888-495-8020](tel:+1-888-495-8020) (texto [650-600-7821](sms:+1-650-600-7821?&body=HELPLINE)). <!-- Source: https://www.tenantstogether.org/tenant-rights-hotline -->
+También tienen un [Kit de Herramientas de Defensa para Inquilinos](https://www.tenantstogether.org/defensa-covid-19) de autoayuda en línea para ayudarle a entender sus derechos como inquilino y cómo hacer cumplir esos derechos.
 
-El Departamento de Bienes Raíces de California publicó una [*Guía para Inquilinos de California*](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) ([Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf)) que da una explicación detallada de la ley de California sobre inquilinos de propiedades de alquiler.
+El Departamento de Bienes Raíces de California publicó una [*Guía para Arrendatarios de California*](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf) que da una explicación detallada de la ley de California sobre inquilinos de propiedades de alquiler.
 
 La ciudad de SLO tiene un [Sindicato de Inquilinos](https://linktr.ee/slorentcoalition) ([805-779-1639](tel:+1-805-779-1639)).
 
 La rama de SLO de Socialistas Democráticos de América tiene una guía de [Justicia de Vivienda](https://slocialism.org/housing-justice/) para inquilinos en San Luis Obispo.
 Intenta explicar cómo puede afirmar y defender mejor sus derechos legales como inquilino.
 
-El [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) (Defensor del Pueblo de Cuidado a Largo Plazo) puede ayudarle a luchar por sus derechos si está siendo desalojado incorrectamente de una instalación de cuidado a largo plazo. <!-- Source: https://ombudsmanslo.org/faqs -->
+El [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) puede ayudarle a luchar por sus derechos si está siendo desalojado incorrectamente de una instalación de cuidado a largo plazo. <!-- Source: https://ombudsmanslo.org/faqs -->
 
-Los veteranos militares estadounidenses que tienen bajos ingresos y que están sin hogar o en riesgo de quedarse sin hogar pueden obtener ayuda de [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families) (Servicios de Apoyo para Familias de Veteranos).
+Los veteranos militares estadounidenses que tienen bajos ingresos y que están sin hogar o en riesgo de quedarse sin hogar pueden obtener ayuda de [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
 Esta ayuda incluye educación sobre acuerdos de alquiler y mediación entre propietarios e inquilinos. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/forms-documents/pamphlets/ssvf-pamplet -->
 Debe tener un alta que no sea deshonrosa para usar este programa. <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/forms-documents/pamphlets/ssvf-pamplet -->
 
@@ -2179,14 +2179,14 @@ Debe tener un alta que no sea deshonrosa para usar este programa. <!-- Source: h
 
 > Vea la sección [Navegando Seguro Social / SSDI / SSI / Beneficios para Sobrevivientes](#navigating-social-security) para consejos específicos de esos programas.
 
-[**Health Insurance Counseling & Advocacy Program ("HiCAP")**](Directory.md#HiCAP) (Programa de Asesoramiento y Defensa de Seguros de Salud) ofrece información gratuita e imparcial sobre Medicare y sus opciones. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) ofrece información gratuita e imparcial sobre Medicare y sus opciones. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 HiCAP también puede ayudarle a presentar apelaciones de denegación de Medicare. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 Para usar el programa HiCAP local debe ser elegible para Medicare y debe ser residente de los condados de SLO o Santa Barbara. <!-- SOURCE NEEDED -->
 El programa HiCAP es gratuito. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 
-El programa [Health Consumer Center](https://centralcallegal.org/health/) (Centro de Consumidores de Salud) de Central California Legal Services ([800-464-3111](tel:+1-800-464-3111)) ayuda a las personas a inscribirse y permanecer inscritas en programas de seguro de salud, ayuda a asegurar que esos programas cubran la atención médica que necesita, y ayuda a personas que son facturadas incorrectamente o sujetas a acciones de cobro incorrectas debido a tratamiento médico. <!-- Source: https://centralcallegal.org/health/#hfaq-post-0 -->
+El programa [Centro de Consumidores de Salud](https://centralcallegal.org/health/) de Servicios Legales de California Central ([800-464-3111](tel:+1-800-464-3111)) ayuda a las personas a inscribirse y permanecer inscritas en programas de seguro de salud, ayuda a asegurar que esos programas cubran la atención médica que necesita, y ayuda a personas que son facturadas incorrectamente o sujetas a acciones de cobro incorrectas debido a tratamiento médico. <!-- Source: https://centralcallegal.org/health/#hfaq-post-0 -->
 
-Si usted es un veterano militar estadounidense, puede obtener ayuda para aprender sobre, solicitar y recibir beneficios del gobierno a los que tiene derecho de las [**County Veterans Services Offices**](Directory.md#Veterans-Services) (Oficinas de Servicios para Veteranos del Condado). <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
+Si usted es un veterano militar estadounidense, puede obtener ayuda para aprender sobre, solicitar y recibir beneficios del gobierno a los que tiene derecho de las [**County Veterans Services Offices**](Directory.md#Veterans-Services). <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
 
 <!-- To-do:
 ### <a id="liability-law">Responsabilidad por Lesiones / Compensación Laboral</a>
@@ -2199,31 +2199,31 @@ Si usted es un veterano militar estadounidense, puede obtener ayuda para aprende
 Para reportar una queja de consumidor directamente al Fiscal de Distrito de SLO, puede usar [el formulario de queja de consumidor](https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions/consumer-protection) en su sitio web.
 
 El robo de identidad es cuando alguien más pretende ser usted—por ejemplo usando su nombre, identificación o número de tarjeta de crédito—para cometer fraude o para culparle a usted por algo que ellos hicieron.
-Puede reportar robo de identidad con la Comisión Federal de Comercio en [IdentityTheft.gov](https://www.identitytheft.gov/) o [877-438-4338](tel:+1-877-438-4338) y pueden ayudarle a tomar medidas para protegerse. <!-- Source: https://www.usa.gov/identity-theft -->
+Puede reportar robo de identidad con la Comisión Federal de Comercio en [RobodeIdentidad.gov](https://www.robodeidentidad.gov/) o [877-438-4338&#xA0;x2](tel:+1-877-438-4338;ext=2) y pueden ayudarle a tomar medidas para protegerse. <!-- Source: https://www.usa.gov/identity-theft -->
 
 Si cree que ha sido defraudado por un taller de reparación automotriz, puede obtener ayuda de la [Bureau of Automotive Repairs](https://bar.ca.gov/) (Oficina de Reparaciones Automotrices) ([800-952-5210](tel:+1-800-952-5210) o [BARenforcement@dca.ca.gov](mailto:BARenforcement@dca.ca.gov)).
 
-El [**California Department of Motor Vehicles**](Directory.md#California-DMV) (Departamento de Vehículos Motorizados de California) tiene una división de investigaciones que hace cumplir las leyes relacionadas con concesionarios de vehículos nuevos y usados.
+El [**California Department of Motor Vehicles**](Directory.md#California-DMV) tiene una división de investigaciones que hace cumplir las leyes relacionadas con concesionarios de vehículos nuevos y usados.
 Si es víctima de fraude u otra acción ilegal por parte de un concesionario de vehículos, puede [presentar una queja en línea](https://dmvinvestigations.my.site.com/INVCMS/s/).
 
-Si es víctima de fraude u otra acción ilegal relacionada con una cuenta bancaria, tarjeta de crédito, cobrador de deudas, transferencia de dinero, préstamo de día de pago o algo así, puede ser capaz de obtener ayuda de la [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/) (Oficina de Protección Financiera del Consumidor) ([855-411-2372](tel:+1-855-411-2372); TTY: [855-729-2372](tel:+1-855-729-2372)).
+Si es víctima de fraude u otra acción ilegal relacionada con una cuenta bancaria, tarjeta de crédito, cobrador de deudas, transferencia de dinero, préstamo de día de pago o algo así, puede ser capaz de obtener ayuda de la [Oficina de Protección Financiera del Consumidor](https://www.consumerfinance.gov/complaint/) ([855-411-2372](tel:+1-855-411-2372); TTY: [855-729-2372](tel:+1-855-729-2372)).
 
-El [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) (Defensor del Pueblo de Cuidado a Largo Plazo) puede ayudarle a luchar por sus derechos si está siendo maltratado o desalojado incorrectamente de una instalación de cuidado a largo plazo. <!-- Source: https://ombudsmanslo.org/faqs -->
+El [**Long Term Care Ombudsman**](Directory.md#Long-Term-Care-Ombudsman) puede ayudarle a luchar por sus derechos si está siendo maltratado o desalojado incorrectamente de una instalación de cuidado a largo plazo. <!-- Source: https://ombudsmanslo.org/faqs -->
 
 Muchos proveedores de servicios tienen licencia del Estado de California (por ejemplo, proveedores de atención médica, contadores, guardias de seguridad, trabajadores sociales, etc.).
-Si cree que ha sido tratado injustamente o incorrectamente por un proveedor de servicios con licencia, puede presentar una queja con el [California Department of Consumer Affairs](https://www.dca.ca.gov/) (Departamento de Asuntos del Consumidor de California) ([800-952-5210](tel:+1-800-952-5210)/TTY:[800-735-2929](tel:+1-800-735-2929), [dca@dca.ca.gov](mailto:dca@dca.ca.gov)).
+Si cree que ha sido tratado injustamente o incorrectamente por un proveedor de servicios con licencia, puede presentar una queja con el [California Department of Consumer Affairs](https://www.dca.ca.gov/) ([800-952-5210](tel:+1-800-952-5210)/TTY:[800-735-2929](tel:+1-800-735-2929), [dca@dca.ca.gov](mailto:dca@dca.ca.gov)).
 
 ### <a id="crime-victims">Víctimas de Crímenes y Abusos</a>
 
 Las víctimas de crímenes tienen ciertos derechos legales, y pueden ser solicitadas para participar en investigaciones de crímenes o para testificar en casos criminales.
-El [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) (Programa de Asistencia a Víctimas y Testigos) ayuda a víctimas de crímenes que están navegando este proceso. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
+El [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) ayuda a víctimas de crímenes que están navegando este proceso. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
 Puede ayudarle a entender sus derechos, obtener servicios de apoyo, obtener ayuda con comparecencias en la corte, solicitar restitución y obtener notificaciones sobre el progreso del caso criminal contra quienes le victimizaron. <!-- Sources: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/restitution and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/victim-services-information -->
 
-Si es víctima de un crimen violento, la [California Victim Compensation Board](https://victims.ca.gov/) (Junta de Compensación para Víctimas de California) ([800-777-9229](tel:+1-800-777-9229)) puede ayudarle a obtener restitución financiera, tratamiento médico, consejería de salud mental y otra ayuda. <!-- Source: https://victims.ca.gov/for-victims/frequently-asked-questions/ -->
+Si es víctima de un crimen violento, la [California Victim Compensation Board](https://victims.ca.gov/) ([800-777-9229](tel:+1-800-777-9229)) puede ayudarle a obtener restitución financiera, tratamiento médico, consejería de salud mental y otra ayuda. <!-- Source: https://victims.ca.gov/for-victims/frequently-asked-questions/ -->
 
 Si es víctima de asalto sexual o violencia de pareja íntima, [**Lumina Alliance**](Directory.md#Lumina-Alliance) puede ayudarle a abogar por sus derechos y puede acompañarle a través del proceso legal. <!-- Sources: https://luminaalliance.org/advocacy-legal-services and https://luminaalliance.org/accompaniment -->
 
-[**CASA (Court Appointed Special Advocates)**](Directory.md#CASA) (Defensores Especiales Designados por la Corte) ayuda a abogar en nombre de niños abusados o descuidados en el sistema judicial. <!-- Source: https://slocasa.org/ -->
+[**CASA (Court Appointed Special Advocates)**](Directory.md#CASA) ayuda a abogar en nombre de niños abusados o descuidados en el sistema judicial. <!-- Source: https://slocasa.org/ -->
 Los defensores de CASA son designados por la corte; no puede solicitar sus servicios directamente. <!-- SOURCE NEEDED -->
 
 <!-- NOTE: Creative Mediation was apparently a project of Wilshire, which went bankrupt
@@ -2247,21 +2247,21 @@ A neutral mediator will be assigned to your case to help you resolve it.
 
 <!-- Note: SLO County Small Claims Advisor has been discontinued -->
 
-Si necesita investigar la ley, precedentes legales y procesos legales, puede visitar la [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) (Biblioteca de Derecho del Condado de SLO), una biblioteca de investigación gratuita. <!-- Source: https://www.slocll.org/about-us-2/mission/ -->
+Si necesita investigar la ley, precedentes legales y procesos legales, puede visitar la [**SLO County Law Library**](Directory.md#SLO-County-Law-Library), una biblioteca de investigación gratuita. <!-- Source: https://www.slocll.org/about-us-2/mission/ -->
 La biblioteca tiene miles de volúmenes impresos y también tiene computadoras de acceso público en las que puede acceder a WestLaw, CEB OnLaw, Guías NOLO, Compendio de Bell y otras bases de datos legales electrónicas. <!-- Sources: https://www.slocll.org/library-resources/reference-materials/ and https://www.slocll.org/library-resources/amenities/ -->
 También tiene herramientas con las que puede crear documentos que se ajustan a los estándares de las cortes locales. <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
 
-Si está presentando un caso de derecho familiar (por ejemplo divorcio, manutención infantil, custodia infantil), una solicitud de orden de restricción, u otros asuntos puede obtener ayuda gratuita de [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) (Servicios de Autoayuda de la Corte de SLO). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
+Si está presentando un caso de derecho familiar (por ejemplo divorcio, manutención infantil, custodia infantil), una solicitud de orden de restricción, u otros asuntos puede obtener ayuda gratuita de [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 
-[**SLO Superior Court**](Directory.md#SLO-Superior-Court) (Corte Superior de SLO) también tiene algunas guías sobre:
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) también tiene algunas guías sobre:
 
-- [recursos de inmigración](https://selfhelp.courts.ca.gov/immigration)
+- [recursos de inmigración](https://selfhelp.courts.ca.gov/es/inmigracion)
 - cómo obtener órdenes de restricción por [violencia con armas](https://www.slo.courts.ca.gov/self-help/gun-violence-restraining-orders), [acoso civil](https://www.slo.courts.ca.gov/self-help/civil-harassment-restraining-order), y [violencia doméstica](https://www.slo.courts.ca.gov/self-help/family-law/domestic-violence)
 - el proceso de ir a la corte por custodia y manutención infantil, [divorcio, separación legal y anulación](https://www.slo.courts.ca.gov/self-help/family-law/divorce), y otros asuntos de [derecho familiar](https://www.slo.courts.ca.gov/self-help/family-law)
 - los procesos de [cambios legales de nombre](https://www.slo.courts.ca.gov/self-help/name-change) y [cambios de género](https://www.slo.courts.ca.gov/self-help/gender-change)
 - el proceso de [reclamos menores](https://www.slo.courts.ca.gov/self-help/small-claims)
 
-La página web [Small claims in California](https://selfhelp.courts.ca.gov/small-claims-california) (Reclamos menores en California) del estado de California también es una buena introducción al proceso de reclamos menores.
+La página web [Reclamos menores en California](https://selfhelp.courts.ca.gov/es/reclamos-menores-en-california) (Reclamos menores en California) del estado de California también es una buena introducción al proceso de reclamos menores.
 
 La Línea de Derecho de SLO ([805-548-8884](tel:+1-805-548-8884)) da consejos legales básicos gratuitos a personas que no pueden pagar un abogado, y puede ayudarle a encontrar asistencia legal adicional. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
 Llame para hacer una cita para una consulta telefónica. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
@@ -2272,52 +2272,52 @@ Los veteranos militares estadounidenses pueden obtener ayuda del sitio web [Stat
 
 Si necesita consultar con un abogado u otro consultor legal, tiene varias opciones.
 
-El [Servicio de Referencia de Abogados](https://slobar.org/Information-and-referral-service/) de la [**SLO County Bar Association**](Directory.md#SLO-County-Bar-Association) (Asociación del Colegio de Abogados del Condado de SLO) puede ayudarle a encontrar un abogado que sea más apropiado para su caso. <!-- Source: https://slobar.org/Information-and-referral-service/ -->
+El [Servicio de Referencia de Abogados](https://slobar.org/Information-and-referral-service/) de la [**SLO County Bar Association**](Directory.md#SLO-County-Bar-Association) puede ayudarle a encontrar un abogado que sea más apropiado para su caso. <!-- Source: https://slobar.org/Information-and-referral-service/ -->
 Este servicio es gratuito para casos de lesiones personales, compensación laboral y derecho criminal, pero cuesta $50 de otra manera. <!-- Source: https://slobar.org/Information-and-referral-service/ -->
 
-La [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO) proporciona asistencia legal gratuita en asuntos de derecho civil y derecho familiar (no derecho criminal) a personas de bajos ingresos en el condado de SLO. <!-- Source: https://www.slolaf.org/ -->
+La [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) proporciona asistencia legal gratuita en asuntos de derecho civil y derecho familiar (no derecho criminal) a personas de bajos ingresos en el condado de SLO. <!-- Source: https://www.slolaf.org/ -->
 
-[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) (Asistencia Legal Rural de California) proporciona servicios de derecho civil gratuitos (no derecho criminal) a personas de bajos ingresos en el condado de SLO. <!-- Source: https://crla.org/about-crla -->
+[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) proporciona servicios de derecho civil gratuitos (no derecho criminal) a personas de bajos ingresos en el condado de SLO. <!-- Source: https://crla.org/about-crla -->
 
-[**People's Justice Project**](Directory.md#Peoples-Justice-Project) (Proyecto de Justicia del Pueblo) es un bufete de abogados sin fines de lucro que puede proporcionar representación legal asequible a personas con ingresos bajos o moderados en casos de derecho criminal o derechos civiles. <!-- Source: https://peoplesjusticeproject.org/ -->
+[**People’s Justice Project**](Directory.md#Peoples-Justice-Project) es un bufete de abogados sin fines de lucro que puede proporcionar representación legal asequible a personas con ingresos bajos o moderados en casos de derecho criminal o derechos civiles. <!-- Source: https://peoplesjusticeproject.org/ -->
 
 Los veteranos militares estadounidenses pueden usar el [Navegador de Ayuda Legal para Veteranos](https://www.statesidelegal.org/helpnavigate?clear=true) del sitio web [StateSideLegal](https://www.statesidelegal.org/) para encontrar representantes legales que mejor coincidan con las necesidades de su caso.
 
-[**ACLU of Southern California**](Directory.md#ACLU) (ACLU del Sur de California) puede proporcionar consejo legal limitado en casos de libertades civiles y derechos civiles.
+[**ACLU of Southern California**](Directory.md#ACLU) puede proporcionar consejo legal limitado en casos de libertades civiles y derechos civiles.
 Tiene recursos limitados y típicamente se enfoca en casos específicos que espera usar para forzar cambios sistémicos. <!-- Source: https://www.aclusocal.org/en/seeking-legal-help-aclu -->
 No acepta visitas sin cita.
-Ofrece varias guías gratuitas [Conozca Sus Derechos](https://www.aclusocal.org/en/know-your-rights), pero estas pueden reflejar más lo que la ACLU cree que son sus derechos legales en papel que lo que el sistema de aplicación de la ley realmente respeta.
+Ofrece varias guías gratuitas [Conozca Sus Derechos](https://www.aclusocal.org/es/know-your-rights/), pero estas pueden reflejar más lo que la ACLU cree que son sus derechos legales en papel que lo que el sistema de aplicación de la ley realmente respeta.
 
 ### <a id="family-law">Derecho Familiar / Manutención de Hijos</a>
 
-[**Child Support Services**](Directory.md#Child-Support-Services) (Servicios de Manutención Infantil) puede ayudarle a localizar padres que pueden deber manutención infantil, establecer paternidad, obtener y hacer cumplir órdenes de manutención y cobrar pagos. <!-- Source: https://www.slocounty.ca.gov/departments/child-support -->
+[**Child Support Services**](Directory.md#Child-Support-Services) puede ayudarle a localizar padres que pueden deber manutención infantil, establecer paternidad, obtener y hacer cumplir órdenes de manutención y cobrar pagos. <!-- Source: https://www.slocounty.ca.gov/departments/child-support -->
 
-Si está presentando un caso de derecho familiar, puede obtener ayuda gratuita de [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) (Servicios de Autoayuda de la Corte de SLO). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
+Si está presentando un caso de derecho familiar, puede obtener ayuda gratuita de [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 
-La [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO) proporciona asistencia legal gratuita en asuntos de derecho familiar a personas de bajos ingresos en el condado de SLO. <!-- Source: https://www.slolaf.org/ -->
+La [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) proporciona asistencia legal gratuita en asuntos de derecho familiar a personas de bajos ingresos en el condado de SLO. <!-- Source: https://www.slolaf.org/ -->
 
-[**SLO Superior Court**](Directory.md#SLO-Superior-Court) (Corte Superior de SLO) tiene algunas guías sobre el proceso de ir a la corte por [custodia y manutención infantil](https://www.slo.courts.ca.gov/self-help/family-law/custody-and-support), [divorcio, separación legal y anulación](https://www.slo.courts.ca.gov/self-help/family-law/divorce), y otros asuntos de [derecho familiar](https://www.slo.courts.ca.gov/self-help/family-law).
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) tiene algunas guías sobre el proceso de ir a la corte por [custodia y manutención infantil](https://www.slo.courts.ca.gov/self-help/family-law/custody-and-support), [divorcio, separación legal y anulación](https://www.slo.courts.ca.gov/self-help/family-law/divorce), y otros asuntos de [derecho familiar](https://www.slo.courts.ca.gov/self-help/family-law).
 
 ### <a id="immigration-law">Derecho de Inmigración</a>
 
-<!-- MICOP's "Immigration Legal Assistance" (MILA) program seems to no longer be functioning? -->
+<!-- MICOP’s “Immigration Legal Assistance” (MILA) program seems to no longer be functioning? -->
 
-[**SLO County UndocuSupport**](Directory.md#SLO-County-UndocuSupport) (Apoyo para Indocumentados del Condado de SLO) tiene [una lista de servicios de asistencia legal](https://www.sloundocusupport.org/immigrantservicesguide) que incluye [un cuadro de qué grupos locales de ayuda legal proporcionan qué servicios legales específicos relacionados con inmigración](https://docs.google.com/spreadsheets/d/1FRaVSHBETqYvk1-aDJ-ULYsHvpfXaLFuAhS7tjwPBKA/edit?usp=sharing).
+[**UndocSupport del Condado de SLO**](Directory.md#SLO-County-UndocuSupport) (Apoyo para Indocumentados del Condado de SLO) tiene [una lista de servicios de asistencia legal](https://www.sloundocusupport.org/es/immigrantservicesguide) que incluye [un cuadro de qué grupos locales de ayuda legal proporcionan qué servicios legales específicos relacionados con inmigración](https://docs.google.com/spreadsheets/d/1cJFBbDUZQF6fGYOzpi790Tkb0Orlb-b5GFHmpFDm61c/edit?gid=374953232#gid=374953232).
 
-[**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) tiene un [Programa de Inmigración y Ciudadanía](https://catholiccharitiesdom.org/immigration-citizenship/) para ayudar a personas con temas como solicitudes de ciudadanía estadounidense, cambios de estatus migratorio, DACA, Visas U, Visas VAWA y procesos de visa consular. <!-- Source: https://catholiccharitiesdom.org/immigration-citizenship/ -->
+[**Catholic Charities**](Directory.md#Catholic-Charities) tiene un [Programa de Inmigración y Ciudadanía](https://catholiccharitiesdom.org/immigration-citizenship/) para ayudar a personas con temas como solicitudes de ciudadanía estadounidense, cambios de estatus migratorio, DACA, Visas U, Visas VAWA y procesos de visa consular. <!-- Source: https://catholiccharitiesdom.org/immigration-citizenship/ -->
 
-[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) (Universalistas Unitarios de San Luis Obispo) organiza el programa [Unitarian Universalist Refugee and Immigrant Services Education (UURISE)](https://uuslo.org/Immigration-Legal-Services) (Educación de Servicios para Refugiados e Inmigrantes Universalistas Unitarios), que ofrece servicios legales de inmigración gratuitos o de bajo costo. <!-- Source: https://uuslo.org/Immigration-Legal-Services -->
+[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) organiza el programa [Unitarian Universalist Refugee and Immigrant Services Education (UURISE)](https://uuslo.org/Immigration-Legal-Services), que ofrece servicios legales de inmigración gratuitos o de bajo costo. <!-- Source: https://uuslo.org/Immigration-Legal-Services -->
 
-[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) (Esperanza Inmigrante Arroyo Grande) es un centro de servicios legales de inmigración que puede ayudarle con naturalización, procesamiento consular, cambios de estatus migratorio, estatus de protección temporal, DACA, renovaciones de tarjeta verde y visas. <!-- Source: https://immigranthopeag.org/ -->
+[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) es un centro de servicios legales de inmigración que puede ayudarle con naturalización, procesamiento consular, cambios de estatus migratorio, estatus de protección temporal, DACA, renovaciones de tarjeta verde y visas. <!-- Source: https://immigranthopeag.org/ -->
 
 [**SLO College of Law**](Directory.md#SLO-College-of-Law-Legal-Clinic) realiza [clínicas de inmigración](https://montereylaw.edu/clinics/immigrationclinic.html) por teléfono o Zoom los lunes entre 4pm y 6pm. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
 Pueden ayudarle con renovación de DACA, visas, naturalización/ciudadanía y tarjetas verdes. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
 Esto cuesta $15. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
 Programe una cita en su sitio web o llamando al [831-582-3600](tel:+1-831-582-3600). <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
 
-[**SLO Superior Court**](Directory.md#SLO-Superior-Court) (Tribunal Superior de SLO) también tiene algunos [recursos de inmigración](https://selfhelp.courts.ca.gov/immigration) gratuitos.
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) también tiene algunos [recursos de inmigración](https://selfhelp.courts.ca.gov/immigration) gratuitos.
 
-[**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) (Coalición de la Costa Central para el Éxito de Estudiantes Indocumentados) opera Centros Dream (o Monarch) en colegios locales (Cal Poly, Cuesta y Allan Hancock). <!-- Source: https://www.ccc-uss.org/student-resources.html -->
+[**Coalición para el Éxito de Estudiantes Indocumentados de la Costa Central**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) opera Centros Dream (o Monarch) en colegios locales (Cal Poly, Cuesta y Allan Hancock). <!-- Source: https://www.ccc-uss.org/student-resources.html -->
 Estos centros ayudan a estudiantes con (entre otras cosas) asistencia con solicitudes de DACA y otra ayuda legal:
 
 - [**Cuesta College**](Directory.md#Cuesta-College) proporciona servicios legales de inmigración gratuitos a estudiantes, profesores y personal.
@@ -2328,15 +2328,15 @@ a estudiantes, graduados recientes, empleados y miembros de familia inmediata de
 - El [AIM to Dream Center](https://www.hancockcollege.edu/aimtodream/index.php) de Allan Hancock College ofrece servicios legales de inmigración gratuitos a todos los estudiantes, profesores y personal. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
   Esto incluye DACA, ciudadanía, peticiones familiares, ajustes de estatus, entre otras cosas. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
 
-Si llama a la Línea Directa de Respuesta Rápida al [805-870-8855](tel:+1-805-870-8855), puede obtener información sobre conozca-sus-derechos y referencias a abogados de confianza (sin fines de lucro, privados o públicos) de la "[805 Immigrant Rapid Response Network](https://www.805undocufund.org/alerts.html)" (Red de Respuesta Rápida para Inmigrantes 805). <!-- Source: https://www.805undocufund.org/alerts.html -->
+Si llama a la Línea Directa de Respuesta Rápida al [805-870-8855](tel:+1-805-870-8855), puede obtener información sobre conozca-sus-derechos y referencias a abogados de confianza (sin fines de lucro, privados o públicos) de “[La Red de Respuesta Rápida de 805 Inmigrante](https://www.805undocufund.org/alerts.html).” <!-- Source: https://www.805undocufund.org/alerts.html -->
 
-El [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) (Centro de Recursos Legales para Inmigrantes) y el [Immigrant Defense Project](https://www.immigrantdefenseproject.org/) (Proyecto de Defensa de Inmigrantes) también pueden ayudarle con información sobre conozca-sus-derechos y con encontrar ayuda legal.
+El [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) y el [Immigrant Defense Project](https://www.immigrantdefenseproject.org/) también pueden ayudarle con información sobre conozca-sus-derechos y con encontrar ayuda legal.
 
 ### <a id="senior-legal-services">Servicios Legales para Personas Mayores</a>
 
-El [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) (Proyecto de Servicios Legales para Personas Mayores) ofrece ayuda legal gratuita a personas de bajos y moderados ingresos en el Condado de SLO que tienen 60 años o más. <!-- Source: https://www.slolaf.org/seniorlaw -->
+El [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) ofrece ayuda legal gratuita a personas de bajos y moderados ingresos en el Condado de SLO que tienen 60 años o más. <!-- Source: https://www.slolaf.org/seniorlaw -->
 Pueden ayudarle a navegar los problemas legales relacionados con asistencia de derechos de beneficios, protección del consumidor, discriminación de vivienda y prevención de desalojo, directivas médicas anticipadas y poder legal duradero, preparación de testamentos y órdenes de protección/restricción. <!-- Source: https://www.slolaf.org/seniorlaw -->
-A menudo realizan clínicas con cita previa en Centros para Personas Mayores locales, o puede contactar su oficina directamente a través de la [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO). <!-- Source: https://www.slolaf.org/seniorlaw -->
+A menudo realizan clínicas con cita previa en Centros para Personas Mayores locales, o puede contactar su oficina directamente a través de la [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation). <!-- Source: https://www.slolaf.org/seniorlaw -->
 
 ### <a id="tax-disputes">Disputas Fiscales</a>
 
@@ -2344,14 +2344,14 @@ El Orfalea College of Business de Cal Poly opera una [Clínica para Contribuyent
 Representan a clientes de bajos ingresos gratuitamente en controversias fiscales ante el I.R.S. y el Tribunal Fiscal de EE.UU. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
 Su ayuda está disponible en inglés y español. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
 Este servicio solo está disponible para usted si la cantidad que el IRS dice que debe es de $50,000 por año fiscal o menos, y el ingreso total de su hogar no excede el 250 por ciento de las pautas federales de pobreza. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients -->
-Para usar este servicio, complete [un formulario de admisión](https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients) que está disponible en su sitio web, o llámelos al [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725)) <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients -->
+Para usar este servicio, complete [un formulario de admisión](https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients) que está disponible en su sitio web, o llámelos al [805-756-5725](tel:+1-805-756-5725). <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients -->
 También puede solicitar más información por correo electrónico a [litc@calpoly.edu](mailto:litc@calpoly.edu). <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
 
 ### <a id="legal-miscellany">Miscelánea</a>
 
 > Vea la sección de [Directivas Anticipadas](#advance-directives) de esta guía para ayuda sobre cómo hacer directivas anticipadas legalmente vinculantes como Directivas Anticipadas de Atención Médica, Poder Legal de Atención Médica, Órdenes Médicas para Tratamiento de Soporte Vital (POLST), órdenes de No Reanimar (DNR) y autorizaciones de donación de órganos.
 
-El [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) (Departamento de Derechos Civiles de California) hace cumplir las leyes de California contra ciertas formas de discriminación en empleo, vivienda, negocios y servicios, y contra crímenes de odio y tráfico humano. <!-- Source: https://calcivilrights.ca.gov/ -->
+El [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) hace cumplir las leyes de California contra ciertas formas de discriminación en empleo, vivienda, negocios y servicios, y contra crímenes de odio y tráfico humano. <!-- Source: https://calcivilrights.ca.gov/ -->
 Si cree que ha sido tratado ilegalmente de maneras como estas, puede [presentar una queja de discriminación](https://calcivilrights.ca.gov/complaintprocess/), [reportar un crimen de odio](https://stophate.calcivilrights.ca.gov/s/) con ellos y solicitar que investiguen.
 
 La Ley de Estadounidenses con Discapacidades protege a personas que tienen discapacidades de la discriminación. <!-- Source: https://www.ada.gov/ -->
@@ -2380,7 +2380,7 @@ Esta sección de la guía le muestra cómo obtener o reemplazar documentos como 
 ### <a id="social-security-numbers-or-cards">Números o Tarjetas del Seguro Social</a>
 
 A menudo no necesita su *tarjeta* del seguro social, pero sí necesita a menudo su *número* del seguro social. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
-La [**Social Security Administration**](Directory.md#Social-Security-Administration) (Administración del Seguro Social) puede ayudarle a obtener una nueva tarjeta del Seguro Social. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
+La [**Administración del Seguro Social**](Directory.md#Social-Security-Administration) puede ayudarle a obtener una nueva tarjeta del Seguro Social. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
 
 Si tiene una cuenta o puede crear una cuenta en [ssa.gov/myaccount](https://www.ssa.gov/myaccount), puede solicitar una tarjeta del Seguro Social en línea y se la enviarán por correo. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
 Puede obtener ayuda con este proceso llamando al [800-772-1213](tel:+1-800-772-1213) (TTY: [800-325-0778](tel:+1-800-325-0778)). <!-- Source: https://www.ssa.gov/number-card/replace-card -->
@@ -2392,19 +2392,19 @@ Será más fluido si puede llevar alguna forma alternativa de identificación co
 
 ### <a id="id-cards-drivers-licenses">Tarjetas de Identificación y Licencias de Conducir</a>
 
-Una "Real ID" emitida por el estado, o una licencia de conducir de California que también es una Real ID, es una forma útil de tarjeta de identificación con foto emitida por el gobierno que es ampliamente aceptada por una variedad de programas, negocios y proveedores de servicios. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/what-is-real-id/ -->
+Una “Real ID” emitida por el estado, o una licencia de conducir de California que también es una Real ID, es una forma útil de tarjeta de identificación con foto emitida por el gobierno que es ampliamente aceptada por una variedad de programas, negocios y proveedores de servicios. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/what-is-real-id/ -->
 Obtiene una tarjeta de identificación así del [**California DMV**](Directory.md#California-DMV) (Departamento de Vehículos Motorizados de California).
 
 Típicamente primero necesita ya tener otro documento de identificación (como un certificado de nacimiento certificado, un pasaporte, una tarjeta de residente permanente, un certificado de naturalización o ciudadanía, o una tarjeta de residente permanente) así como documentos que demuestren su residencia en California (como una factura de servicios públicos, declaración de impuestos, estado de cuenta bancario o contrato de alquiler que contenga su nombre y dirección). <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/ and https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/#gf_6 -->
 Puede completar una solicitud en línea, pero luego debe visitar la oficina del DMV de California para que le tomen su foto y para mostrar sus documentos. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/ -->
 
 También hay tarifas que típicamente debe pagar para obtener ya sea una Real ID o una licencia de conducir que opera como una Real ID. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
-Sin embargo, si está sin hogar, puede obtener una exención de tarifas (una "tarjeta de identificación sin costo"), y puede usar la dirección de un refugio para personas sin hogar u otra agencia de servicios para personas sin hogar como su dirección de residencia de California. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
+Sin embargo, si está sin hogar, puede obtener una exención de tarifas (una “tarjeta de identificación sin costo”), y puede usar la dirección de un refugio para personas sin hogar u otra agencia de servicios para personas sin hogar como su dirección de residencia de California. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
 Esto es cierto incluso si solo está temporalmente sin hogar porque está huyendo de violencia doméstica o una situación peligrosa similar. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
-Solo puede obtener una Real ID simple ("Tarjeta de Identificación de California") con el método sin costo, no una licencia de conducir. <!-- SOURCE NEEDED -->
+Solo puede obtener una Real ID simple (“Tarjeta de Identificación de California”) con el método sin costo, no una licencia de conducir. <!-- SOURCE NEEDED -->
 Proveedores de servicios para personas sin hogar como [**40 Prado Homeless Services Center**](Directory.md#40-Prado), la [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), o la [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) pueden ayudarle con este proceso. <!-- SOURCE NEEDED -->
 
-Si ha recibido previamente una Real ID o licencia de conducir de California, pero ha perdido la tarjeta y necesita reemplazarla, puede comenzar este proceso visitando [dmv.ca.gov: "Driver's License of ID Card Replacement"](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/) (Reemplazo de Licencia de Conducir o Tarjeta de Identificación) o la oficina del DMV de California.
+Si ha recibido previamente una Real ID o licencia de conducir de California, pero ha perdido la tarjeta y necesita reemplazarla, puede comenzar este proceso visitando [dmv.ca.gov: “Driver’s License of ID Card Replacement”](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/) (Reemplazo de Licencia de Conducir o Tarjeta de Identificación) o la oficina del DMV de California.
 
 ### <a id="birth-death-marriage-certificates">Certificados de Nacimiento, Defunción y Matrimonio</a>
 
@@ -2412,31 +2412,31 @@ Si nació en el Condado de SLO, puede obtener una copia de su certificado de nac
 Necesitará mostrar identificación válida (típicamente, una identificación con foto emitida por el gobierno como una licencia de conducir o pasaporte). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
 
 También hay una tarifa de $32. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
-Sin embargo, si está sin hogar, puede solicitar una "Declaración Jurada de Estado de Persona Sin Hogar para Copia Certificada de Certificado de Nacimiento Exenta de Tarifa". <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
-Necesita firmar esto y también necesita obtener una firma de un "proveedor de servicios para personas sin hogar". <!-- SOURCE NEEDED -->
+Sin embargo, si está sin hogar, puede solicitar una “Declaración Jurada de Estado de Persona Sin Hogar para Copia Certificada de Certificado de Nacimiento Exenta de Tarifa”. <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
+Necesita firmar esto y también necesita obtener una firma de un “proveedor de servicios para personas sin hogar”. <!-- SOURCE NEEDED -->
 Esto lo exime de tener que pagar la tarifa de $32. <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
 Proveedores de servicios para personas sin hogar como [**40 Prado Homeless Services Center**](Directory.md#40-Prado), la [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), o la [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) pueden ayudarle con este proceso. <!-- SOURCE NEEDED -->
 
-Puede obtener una "copia certificada" de un certificado de nacimiento para usted mismo o su hijo u otro pariente cercano. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
+Puede obtener una “copia certificada” de un certificado de nacimiento para usted mismo o su hijo u otro pariente cercano. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
 Una copia certificada le permite establecer su identidad. <!-- SOURCE NEEDED -->
-De lo contrario, puede obtener una copia "informativa", que no es válida para establecer identidad. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
+De lo contrario, puede obtener una copia “informativa”, que no es válida para establecer identidad. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
 Trate de averiguar con anticipación si necesita una copia certificada, y, de ser así, pida una específicamente cuando ordene su copia.
 
 También puede usar el sitio web [VitalChek](https://www.vitalchek.com/v/vital-records/california/san-luis-obispo-county-recorder) para ordenar una copia *informativa* de su certificado de nacimiento en línea sin visitar la oficina del Secretario-Registrador del Condado de SLO.
-(Es posible que necesite proporcionar una declaración jurada notariada si quiere ordenar una "copia certificada" de esta manera, en cuyo caso probablemente sea igual de fácil visitar la oficina del Secretario-Registrador del Condado de SLO.)
+(Es posible que necesite proporcionar una declaración jurada notariada si quiere ordenar una “copia certificada” de esta manera, en cuyo caso probablemente sea igual de fácil visitar la oficina del Secretario-Registrador del Condado de SLO.)
 Eso puede costar un poco más.
 
 Los registros de defunción para muertes que ocurrieron en el Condado de SLO también se pueden obtener del Secretario-Registrador del Condado de SLO ($24) o de VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
-Nuevamente, hay una diferencia entre copias "certificadas" e "informativas" de certificados de defunción, y debe verificar cuál necesita antes de ordenarla. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
-Típicamente solo puede obtener una copia "certificada" para un pariente cercano, y puede tener que proporcionar documentación adicional. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
+Nuevamente, hay una diferencia entre copias “certificadas” e “informativas” de certificados de defunción, y debe verificar cuál necesita antes de ordenarla. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
+Típicamente solo puede obtener una copia “certificada” para un pariente cercano, y puede tener que proporcionar documentación adicional. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
 
 También puede obtener una copia de un certificado de matrimonio que fue emitido en el Condado de SLO de la oficina del Secretario-Registrador del Condado de SLO ($17) o de VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
-Nuevamente, hay una diferencia entre copias "certificadas" e "informativas", y debe verificar cuál necesita antes de ordenarla. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
-Típicamente solo puede obtener una copia "certificada" para usted mismo o un pariente cercano, y puede tener que proporcionar documentación adicional. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
+Nuevamente, hay una diferencia entre copias “certificadas” e “informativas”, y debe verificar cuál necesita antes de ordenarla. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
+Típicamente solo puede obtener una copia “certificada” para usted mismo o un pariente cercano, y puede tener que proporcionar documentación adicional. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
 
 No hay programa de exención de tarifas para personas sin hogar para certificados de defunción y matrimonio como lo hay para certificados de nacimiento.
 
-Si necesita un certificado de nacimiento, defunción o matrimonio de otro condado en California, intente con la página web de ["Registros Vitales"](https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records.aspx) del Departamento de Salud Pública de California.
+Si necesita un certificado de nacimiento, defunción o matrimonio de otro condado en California, intente con la página web de [“Registros Vitales”](https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records.aspx) del Departamento de Salud Pública de California.
 Si necesita tales registros de otro lugar en EE.UU. fuera de California, visite la página web del [Centro Nacional de Estadísticas de Salud](https://www.cdc.gov/nchs/w2w/index.htm).
 El sitio web VitalChek a menudo también puede conseguirle estos registros de otras áreas.
 
@@ -2546,7 +2546,7 @@ Puede encontrar información de contacto para embajadas y consulados en [embassy
 
 Aquí hay algunos consejos para manejar documentos importantes:
 
-- Use la cámara de su teléfono para tomar fotos de documentos importantes, y guarde esas fotos "en la nube" (iCloud para iPhone, Google Photos para Android) para que aún tenga acceso a sus fotos si su teléfono se pierde o es robado.
+- Use la cámara de su teléfono para tomar fotos de documentos importantes, y guarde esas fotos “en la nube” (iCloud para iPhone, Google Photos para Android) para que aún tenga acceso a sus fotos si su teléfono se pierde o es robado.
 - Haga copias de documentos importantes, y guarde las copias separadamente de los originales.
   De esa manera si pierde un conjunto, es menos probable que los pierda todos.
 - Algunos centros de servicios para personas sin hogar ofrecen almacenamiento de documentos para sus clientes.
@@ -2580,8 +2580,8 @@ Pregúnteles por detalles.
 
 Puede alquilar buzones de correo en UPS Stores y en el Servicio Postal de EE.UU.
 La opción del Servicio Postal es más económica.
-Pero a veces, una dirección de "Apartado Postal" (lo que obtiene del Servicio Postal) no es adecuada para sus necesidades.
-Una ventaja de la opción de UPS Store es que aparece como una dirección de calle regular (por ejemplo "1241 Johnson Avenue #1234, San Luis Obispo"). <!-- Source: https://www.theupsstore.com/mailboxes/personal-mailboxes -->
+Pero a veces, una dirección de “Apartado Postal” (lo que obtiene del Servicio Postal) no es adecuada para sus necesidades.
+Una ventaja de la opción de UPS Store es que aparece como una dirección de calle regular (por ejemplo “1241 Johnson Avenue #1234, San Luis Obispo”). <!-- Source: https://www.theupsstore.com/mailboxes/personal-mailboxes -->
 Las ubicaciones de UPS Store con servicios de alquiler de buzones están disponibles en todo el Condado de SLO: <!-- Source: https://www.theupsstore.com/tools/find-a-store -->
 
 | Ciudad        | Ubicación de UPS Store | Teléfono |
@@ -2596,7 +2596,7 @@ Las ubicaciones de UPS Store con servicios de alquiler de buzones están disponi
 | SLO           | <a href="#" class="map-link" data-lat="35.293776" data-lon="-120.671971" data-zoom="17" data-label="UPS Store">793 Foothill Blvd.</a>      | [805-541-9333](tel:+1-805-541-9333) |
 | SLO           | <a href="#" class="map-link" data-lat="35.282248" data-lon="-120.656089" data-zoom="17" data-label="UPS Store">1241 Johnson Ave.</a>       | [805-541-1334](tel:+1-805-541-1334) |
 
-Otra opción es pedir a las personas que le envíen correo dirigido a ["Entrega General"](https://faq.usps.com/s/article/What-is-General-Delivery):
+Otra opción es pedir a las personas que le envíen correo dirigido a [“Entrega General”](https://faq.usps.com/s/article/What-is-General-Delivery):
 > *Su Nombre*<br />
 > General Delivery<br />
 > *Nombre de la Ciudad*, CA *Código Postal*‒9999
@@ -2624,7 +2624,7 @@ Aquí hay algunos códigos postales de Entrega General para el Condado de SLO:
 
 **Nota**: En ciudades con múltiples ubicaciones de oficinas de correos, la Entrega General típicamente se maneja en solo una instalación (usualmente la oficina de correos principal). <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
 Por ejemplo, San Luis Obispo tiene dos oficinas de correos, pero la Entrega General se maneja en la ubicación principal en Dalidio Dr. <!-- SOURCE NEEDED -->
-Para confirmar qué ubicación maneja la Entrega General en su área, llame al [800-275-8777](tel:+1-800-275-8777) y solicite "Servicio al Cliente", o use la [herramienta de búsqueda de códigos postales de USPS](https://tools.usps.com/zip-code-lookup.htm) ingresando "General Delivery" como la línea de dirección.
+Para confirmar qué ubicación maneja la Entrega General en su área, llame al [800-275-8777](tel:+1-800-275-8777) y solicite “Servicio al Cliente”, o use la [herramienta de búsqueda de códigos postales de USPS](https://tools.usps.com/zip-code-lookup.htm) ingresando “General Delivery” como la línea de dirección.
 
 Debe hablar con el administrador de correos en la oficina de correos donde quiere recibir correo de entrega general de antemano. <!-- SOURCE NEEDED -->
 La oficina de correos guardará correo de entrega general para usted por al menos 10 días. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
@@ -2665,7 +2665,7 @@ Las cooperativas de crédito en el Condado de SLO incluyen:
 - [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union)
 - [**SLO Credit Union**](Directory.md#SLO-Credit-Union)
 
-Algunos bancos ordinarios ofrecen "Cuentas Certificadas Bank On" que son cuentas de ahorro o cheques que son más económicas, tienen saldos mínimos pequeños y no tienen cargos por sobregiro. <!-- Source: https://joinbankon.org/about/ -->
+Algunos bancos ordinarios ofrecen “Cuentas Certificadas Bank On” que son cuentas de ahorro o cheques que son más económicas, tienen saldos mínimos pequeños y no tienen cargos por sobregiro. <!-- Source: https://joinbankon.org/about/ -->
 Puede buscar bancos que ofrezcan tales cuentas en [joinbankon.org](https://joinbankon.org/accounts/).
 
 > Vea la sección de [Recepción de Correo, Apartados Postales, Etc.](#mail-drops-post-office-boxes) de esta guía si no tiene una dirección estable y necesita una dirección que pueda usar al establecer una cuenta bancaria.
@@ -2686,7 +2686,7 @@ Puede buscar bancos que ofrezcan tales cuentas en [joinbankon.org](https://joinb
 Estos seminarios web son gratuitos para el público. <!-- Source: https://www.sesloc.org/why-sesloc/financial-education/seminars-and-webinars/ -->
 También ofrecen [asesoramiento financiero profesional individual](https://www.sesloc.org/why-sesloc/financial-education/greenpath-financial-counseling/) gratuito a miembros de SESLOC.
 
-[**Goodwill Central Coast**](Directory.md#Goodwill) tiene una "Plataforma de Oportunidades" gratuita que incluye servicios de asesoramiento financiero individual para ayudarle a alcanzar sus metas personales de dinero. <!-- Source: https://www.ccgoodwill.org/mission-services-financial-literacy-central-coast/ -->
+[**Goodwill Central Coast**](Directory.md#Goodwill) tiene una “Plataforma de Oportunidades” gratuita que incluye servicios de asesoramiento financiero individual para ayudarle a alcanzar sus metas personales de dinero. <!-- Source: https://www.ccgoodwill.org/mission-services-financial-literacy-central-coast/ -->
 
 ### <a id="debt-consolidation">Consolidación de Deudas</a>
 
@@ -2706,7 +2706,7 @@ Esto es por algunas razones:
 1. Algunos programas para personas de bajos ingresos requieren que esas personas muestren su declaración de impuestos más reciente para probar que califican.
 1. Presentar una declaración de impuestos, incluso si no tiene efecto práctico, puede ser un gesto de cumplimiento con la ley que puede ser útil, por ejemplo si está involucrado en el proceso de inmigración de EE.UU. <!-- SOURCE NEEDED -->
 
-Evite usar preparadores de impuestos comerciales que cobran tarifas altas, o que ofrecen préstamos de anticipación de reembolso (los llamados reembolsos "instantáneos"). <!-- Source: https://en.wikipedia.org/wiki/Refund_anticipation_loan -->
+Evite usar preparadores de impuestos comerciales que cobran tarifas altas, o que ofrecen préstamos de anticipación de reembolso (los llamados reembolsos “instantáneos”). <!-- Source: https://en.wikipedia.org/wiki/Refund_anticipation_loan -->
 Algunos de estos preparadores dan asesoramiento tributario de mala calidad, y la mayoría de ellos son malas ofertas comparadas con los servicios gratuitos.
 
 Si se le debe un reembolso de impuestos, obtendrá ese reembolso más rápidamente si tiene una cuenta bancaria que acepta depósito directo.
@@ -2722,7 +2722,7 @@ United Way también tiene [un programa en línea](https://www.myfreetaxes.org/fi
 
 También hay opciones gratuitas que le permiten presentar sus impuestos federales sobre el ingreso usted mismo usando software guiado de preparación de impuestos o llenando formularios en línea y presentándolos electrónicamente.
 Vea [irs.gov/freefile](https://www.irs.gov/freefile) para detalles.
-<!-- Note: IRS "Direct File" is kaput as of tax year 2025 -->
+<!-- Note: IRS “Direct File” is kaput as of tax year 2025 -->
 
 > Vea la sección de [Acceso a Internet / Correo Electrónico / Asistencia de Acceso Digital](#internet-and-email) de esta guía para maneras de obtener acceso a una computadora e internet.
 
@@ -2757,20 +2757,20 @@ Muchos no le dan dinero directamente, sino que le ayudan a comprar bienes o paga
 Proporcionan fondos limitados para pagar facturas, o para bienes o servicios para abordar sus necesidades inmediatas como servicios públicos, transporte, reparaciones de automóviles, ropa y preparación para el empleo. <!-- Source: https://5chc.org/programs/immediate-needs -->
 No se dan fondos directamente al solicitante individual; más bien las facturas se pagan o los bienes se compran en su nombre. <!-- Source: https://5chc.org/programs/immediate-needs -->
 
-[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) tiene un ["Fondo Discrecional del Ministro"](https://uuslo.org/ministers-discretionary-fund) con el cual puede pagar necesidades de emergencia como registro de vehículos, reparación, pagos o tarifas de embargo; tarifas de almacenamiento de propiedad; viaje para atención médica; teléfonos y servicio telefónico; o suministros para vivir al aire libre.
+[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) tiene un [“Fondo Discrecional del Ministro”](https://uuslo.org/ministers-discretionary-fund) con el cual puede pagar necesidades de emergencia como registro de vehículos, reparación, pagos o tarifas de embargo; tarifas de almacenamiento de propiedad; viaje para atención médica; teléfonos y servicio telefónico; o suministros para vivir al aire libre.
 Envíe un correo electrónico a [minister.uuslo@gmail.com](mailto:minister.uuslo@gmail.com) si necesita tal ayuda. <!-- Source: https://uuslo.org/ministers-discretionary-fund and https://uuslo.org/contact-us -->
 
 [**Green Pastures**](Directory.md#Green-Pastures), operado por la Primera Iglesia Presbiteriana en la ciudad de SLO, ofrece micro-subvenciones para necesidades financieras como facturas de servicios públicos y facturas médicas, con un enfoque en ayudar a las personas a permanecer en sus hogares. <!-- Source: https://fpcslo.org/greenpastures -->
 Vea [su sitio web](https://fpcslo.org/greenpastures) para detalles sobre cómo y cuándo solicitar estas subvenciones.
 
-[**St. Patrick's Church**](Directory.md#St-Patricks-Church) en Arroyo Grande tiene fondos discrecionales limitados para necesidades de emergencia específicas como pagos de servicios públicos o renta parcial. <!-- mentioned obliquely at https://www.stpatsag.org/ministries/service-ministries -->
+[**St. Patrick’s Church**](Directory.md#St-Patricks-Church) en Arroyo Grande tiene fondos discrecionales limitados para necesidades de emergencia específicas como pagos de servicios públicos o renta parcial. <!-- mentioned obliquely at https://www.stpatsag.org/ministries/service-ministries -->
 
-La [**Auntie Isabell Foundation**](Directory.md#Auntie-Isabell-Foundation) da asistencia financiera (subvenciones y microcréditos para desarrollo de negocios) a "individuos subrepresentados" en el Condado de SLO. <!-- Source: https://www.auntieisabellfoundation.org/ -->
+La [**Auntie Isabell Foundation**](Directory.md#Auntie-Isabell-Foundation) da asistencia financiera (subvenciones y microcréditos para desarrollo de negocios) a “individuos subrepresentados” en el Condado de SLO. <!-- Source: https://www.auntieisabellfoundation.org/ -->
 Las subvenciones pueden ser para necesidades como educación, vivienda, transporte, preparación laboral, abordar desafíos de la vida y cuidado infantil. <!-- Source: https://www.auntieisabellfoundation.org/grant -->
 Debe tener entre 18 y 30 años para calificar para una subvención. <!-- Source: https://www.auntieisabellfoundation.org/grant -->
 Puede solicitar subvenciones o préstamos completando un formulario en su sitio web. <!-- Source: https://www.auntieisabellfoundation.org/grant -->
 
-La [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) (Sociedad de San Vicente de Paúl) puede ayudar con una emergencia como una amenaza de corte de servicios públicos o un aviso de desalojo de vivienda, o un problema de transporte que amenaza el empleo. <!-- SOURCE NEEDED -->
+La [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) puede ayudar con una emergencia como una amenaza de corte de servicios públicos o un aviso de desalojo de vivienda, o un problema de transporte que amenaza el empleo. <!-- SOURCE NEEDED -->
 También pueden ayudarle con un depósito de alquiler. <!-- SOURCE NEEDED -->
 
 [**Salvation Army**](Directory.md#Salvation-Army) (Ejército de Salvación) proporciona alguna asistencia con renta y servicios públicos, cuando los fondos están disponibles, desde su centro de servicios de Arroyo Grande. <!-- https://www.salvationarmyusa.org/location-finder/?services=7-c0a3f2d8bf-lz3kps and https://arroyogrande.salvationarmy.org/ -->
@@ -2779,16 +2779,16 @@ Llame para hacer una cita.
 [**Loaves & Fishes (Paso Robles)**](Directory.md#Loaves-and-Fishes-Paso-Robles) puede ayudar a personas de medios limitados con alimentos y otros servicios. <!-- SOURCE NEEDED -->
 Use el [formulario de contacto](https://loavesandfishespaso.org/contact/) en su sitio web para solicitar una cita.
 
-El Centro de Recursos [**Los Osos Cares**](Directory.md#Los-Osos-Cares) puede dar asistencia de necesidades inmediatas a personas en Los Osos, Baywood Park, Morro Bay, Cayucos, Cambria y esa región general. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that "immediate needs assistance" is vague and it's unclear if it really applies to this section -->
+El Centro de Recursos [**Los Osos Cares**](Directory.md#Los-Osos-Cares) puede dar asistencia de necesidades inmediatas a personas en Los Osos, Baywood Park, Morro Bay, Cayucos, Cambria y esa región general. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that “immediate needs assistance” is vague and it’s unclear if it really applies to this section -->
 
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) (Servicios Familiares Judíos) ofrece asistencia con tarjeta de gasolina prepagada una vez al año para personas en el Condado de SLO que necesitan ayuda con costos de transporte.
 [Presente una solicitud en su sitio web](https://www.jccslo.com/gas.html).
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) opera <!-- This page has gone 404 as of 10 Dec 2025
-a one-time "Emergency Rental Assistance" program.
+a one-time “Emergency Rental Assistance” program.
 It is only available sometimes.
 Check [this web page](https://catholiccharitiesdom.org/family-supportive-services/hope-in-home/) to see if the program is currently in effect and if so, how to apply for it.
-They also operate --> un programa de ["Servicios de Estabilidad Financiera"](https://catholiccharitiesdom.org/family-supportive-services/) que puede proporcionar recursos financieros a personas de bajos ingresos en crisis financiera.
+They also operate --> un programa de [“Servicios de Estabilidad Financiera”](https://catholiccharitiesdom.org/family-supportive-services/) que puede proporcionar recursos financieros a personas de bajos ingresos en crisis financiera.
 <!-- SOURCE NEEDED:
 To apply for these programs, first call their main or Paso Robles number to make an appointment.
 When applying for help, bring your identification, proof of income, and proof of need.
@@ -2818,14 +2818,14 @@ Típicamente no puede solicitar directamente a este programa sino que debe ser r
 
 Los grupos Womenade compran bienes y pagan facturas para personas en necesidad.
 [**Womenade SLO**](Directory.md#Womenade-SLO) ayuda a personas en la ciudad de SLO; [**Womenade South County**](Directory.md#Womenade-SSC) ayuda a personas en el área de Five Cities y cercana; [Womenade Estero Bay](https://www.losososcares.com/programs#comp-kadleziz) ayuda a personas en el área de Los Osos.
-No puede solicitar ayuda directamente de Womenade, sino que debe solicitar a través de otro proveedor de servicios (un "agente de referencia"). <!-- SOURCE NEEDED for WEB & WSC; for WSLO, https://www.womenadeslo.org/contact alludes to this -->
+No puede solicitar ayuda directamente de Womenade, sino que debe solicitar a través de otro proveedor de servicios (un “agente de referencia”). <!-- SOURCE NEEDED for WEB & WSC; for WSLO, https://www.womenadeslo.org/contact alludes to this -->
 
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) (Servicios Familiares Judíos) tiene un programa de micro-subvenciones para personas que necesitan asistencia financiera de emergencia única para necesidades como asistencia de alquiler, necesidades de vehículo, transporte o alimentos. <!-- Source: https://www.jccslo.com/microgrants.html -->
 No puede solicitar esto usted mismo, sino que debe hacer que un trabajador de casos solicite en su nombre. <!-- Source: https://www.jccslo.com/microgrants.html -->
 
 [SLO City Church](https://slocity.church/needs-request) tiene un Equipo de Benevolencia que ofrece asistencia financiera única de hasta $600 a personas en el Condado de SLO que enfrentan dificultades inesperadas. <!-- Source: https://slocity.church/needs-request -->
 Limitan su asistencia a necesidades urgentes como facturas de servicios públicos, renta, reparaciones o registro de vehículos, gastos médicos de emergencia y transporte de emergencia. <!-- Source: https://slocity.church/needs-request -->
-Debe tener un "socio de referencia" (como un maestro, pastor, consejero, empleador o trabajador de casos) que solicite en su nombre. <!-- Source: https://slocity.church/needs-request -->
+Debe tener un “socio de referencia” (como un maestro, pastor, consejero, empleador o trabajador de casos) que solicite en su nombre. <!-- Source: https://slocity.church/needs-request -->
 
 [Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) (Fondo Cristiano para Discapacitados) iguala con su propio dinero la subvención dada por una iglesia u otra organización cristiana a una persona discapacitada que tiene necesidades financieras particulares asociadas con su discapacidad (como la necesidad de equipo de asistencia o terapia de rehabilitación). <!-- Source: https://joniandfriends.org/support/christian-fund-for-the-disabled/#awb-oc__123633 -->
 Su solicitud a este fondo debe incluir documentación de esa iglesia u organización cristiana, entre otras cosas. <!-- Source: https://joniandfriends.org/support/christian-fund-for-the-disabled/#awb-oc__123633 -->
@@ -2849,7 +2849,7 @@ Solicite este programa en cualquier oficina del DSS. <!-- Source: https://www.sl
 Si califica para este programa, también debe hacer una entrevista en persona en la oficina del DSS de la ciudad de SLO. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
 
 También puede solicitar ayuda en efectivo de [**CalWORKs**](Directory.md#CalWORKs) en cualquier oficina del DSS, o en línea en [BenefitsCal](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid -->
-Para calificar, debe tener un "hijo calificado" al menos uno de cuyos padres está "fallecido, ausente del hogar, discapacitado o desempleado" y debe estar por debajo de cierto límite máximo de ingresos/activos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid -->
+Para calificar, debe tener un “hijo calificado” al menos uno de cuyos padres está “fallecido, ausente del hogar, discapacitado o desempleado” y debe estar por debajo de cierto límite máximo de ingresos/activos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid -->
 Debe participar en una entrevista en persona, y puede necesitar proporcionar alguna documentación para verificar su elegibilidad. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid -->
 Para recibir beneficios, puede ser requerido que participe en el Programa de Bienestar al Trabajo, que le ayuda a prepararse para, encontrar y mantener empleo. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid -->
 
@@ -2880,7 +2880,7 @@ Algunos servicios públicos locales tienen o participan en programas para hacer 
 
 El [Programa CARE de PG&E](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html) da un descuento de al menos 20% en facturas de gas y electricidad a personas de bajos ingresos o que están inscritas en programas de asistencia pública como Medi-Cal, CalFresh o SSI.
 Si no califica para ese programa, aún puede calificar para [Asistencia de Tarifas Eléctricas Familiares](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/family-electric-rate-assistance-program-fera.html) que puede darle un descuento del 18% en su factura eléctrica.
-Solicite cualquiera de estos programas en línea en [pge.com: "Inscripción o Renovación CARE FERA"](https://energyinsight.pge.com/carefera)
+Solicite cualquiera de estos programas en línea en [pge.com: “Inscripción o Renovación CARE FERA”](https://energyinsight.pge.com/carefera)
 Si tiene preguntas, contáctelos en [CAREandFERA@pge.com](mailto:CAREandFERA@pge.com) o [877-660-6789](tel:+1-877-660-6789).
 
 PG&E también tiene un programa de [Alivio para Asistencia de Energía a través de Ayuda Comunitaria (REACH)](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/relief-for-energy-assistance-through-community-help.html).
@@ -2904,15 +2904,15 @@ Contacte al Departamento de Obras Públicas del Condado en [PublicWorks@co.slo.c
 > Vea la sección [Números o Tarjetas del Seguro Social](#social-security-numbers-or-cards) de esta guía para aprender cómo obtener un número de Seguro Social o cómo obtener o reemplazar una tarjeta del Seguro Social.
 
 Nota: en 2025, el Seguro Social dejó de emitir cheques en papel. <!-- Source: https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/ -->
-Ahora usan depósito directo a cuentas bancarias o emiten una tarjeta de débito prepagada "Direct Express". <!-- Source: https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/ -->
+Ahora usan depósito directo a cuentas bancarias o emiten una tarjeta de débito prepagada “Direct Express”. <!-- Source: https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/ -->
 
 > Vea la sección [Bancos y Cooperativas de Crédito](#banks-and-credit-unions) de esta guía para información sobre cómo establecer una cuenta bancaria.
 
-Hay varios programas operados por la Administración del Seguro Social (Social Security Administration), incluyendo:
+Hay varios programas operados por la Administración del Seguro Social, incluyendo:
 
-- **Seguro Social** (Social Security) — pagos mensuales del gobierno a personas que alcanzan la edad de jubilación, y que pagaron al sistema del seguro social mientras trabajaban
-- **Seguro de Incapacidad del Seguro Social** (Social Security Disability Insurance - SSDI) — pagos mensuales del gobierno a personas que no pueden trabajar porque están discapacitadas, y que pagaron al sistema del seguro social mientras trabajaban
-- **Ingreso de Seguridad Suplementario** (Supplemental Security Income - SSI) — pagos mensuales del gobierno a personas discapacitadas y a personas mayores con recursos limitados
+- **Seguro Social** (Social Security) — pagos mensuales del gobierno a personas que alcanzan la edad de jubilación, y que pagaron al sistema del seguro social mientras trabajaban
+- **Seguro de Incapacidad del Seguro Social** (Social Security Disability Insurance - SSDI) — pagos mensuales del gobierno a personas que no pueden trabajar porque están discapacitadas, y que pagaron al sistema del seguro social mientras trabajaban
+- **Ingreso de Seguridad Suplementario** (Supplemental Security Income - SSI) — pagos mensuales del gobierno a personas discapacitadas y a personas mayores con recursos limitados
 
 Las personas sin hogar tienen los mismos derechos que cualquier otra persona para solicitar estos pagos. <!-- SOURCE NEEDED -->
 No es necesario tener una dirección permanente para recibir beneficios. <!-- SOURCE NEEDED -->
@@ -2922,7 +2922,7 @@ Es posible que necesite presentarse en persona en la oficina de la Administraci�
 
 > Vea la sección [Buzones de correo](#mail-drops-post-office-boxes) de esta guía para información sobre cómo establecer una dirección postal.
 
-Puede solicitar estos beneficios a través de la oficina local de [**Social Security Administration**](Directory.md#Social-Security-Administration) (Administración del Seguro Social) en persona o por teléfono.
+Puede solicitar estos beneficios a través de la oficina local de [**Administración del Seguro Social**](Directory.md#Social-Security-Administration) en persona o por teléfono.
 También puede [solicitar en línea](https://www.ssa.gov/apply) en el sitio web de la Administración del Seguro Social.
 Si tiene un trabajador social de caso, pregúntele si puede ayudarle con el proceso o referirle a alguien que pueda hacerlo.
 
@@ -2937,8 +2937,8 @@ Si le niegan los beneficios, infórmese sobre el proceso de apelación y conside
 Si le niegan beneficios de SSI únicamente debido a su estatus migratorio, es posible que pueda obtener beneficios en su lugar del [Programa de Asistencia de California para Inmigrantes (CAPI)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi).
 Solicite al [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) (Departamento de Servicios Sociales del Condado de SLO) por teléfono, en persona, por correo o por correo electrónico. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi -->
 
-Si tiene una discapacidad y está solicitando el Seguro de Incapacidad del Seguro Social, es posible que pueda obtener ayuda financiera inmediata del "Programa de Asistencia General para Discapacitados" (General Assistance Disabled Program) del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) mientras espera que se procese su solicitud. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
-También pueden asignarle un "Defensor de Beneficios" (Benefits Arch Advocate) que puede ayudarle a solicitar SSI y SSDI. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
+Si tiene una discapacidad y está solicitando el Seguro de Incapacidad del Seguro Social, es posible que pueda obtener ayuda financiera inmediata del “Programa de Asistencia General para Discapacitados” (General Assistance Disabled Program) del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) mientras espera que se procese su solicitud. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
+También pueden asignarle un “Defensor de Beneficios” (Benefits Arch Advocate) que puede ayudarle a solicitar SSI y SSDI. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid -->
 
 <!-- SOAR was apparently a victim of the Trump administration
 1. [SOAR Program—Specialized Support for Homeless Individuals](https://www.samhsa.gov/communities/homelessness-programs-resources/grants/soar)
@@ -3021,15 +3021,15 @@ Llame al [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833
 [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) tiene [programas de trabajo](https://www.t-mha.org/work-programs.php) para ayudar a personas con enfermedades mentales a encontrar y mantener un empleo significativo.
 Operan la granja, vivero y tienda minorista del centro de SLO Growing Grounds, que emplean a clientes de TMHA y les dan capacitación vocacional. <!-- Source: https://www.t-mha.org/work-programs.php -->
 
-TMHA también opera un ["Programa de Empleo Apoyado"](https://www.t-mha.org/program-details.php?id=16) (Supported Employment Program) que ayuda a personas con enfermedades mentales a encontrar y mantener empleos. <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
-Para usar ese programa, necesita una referencia del [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) o de [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) (Salud del Comportamiento del Condado de SLO). <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
+TMHA también opera un [“Programa de Empleo Apoyado”](https://www.t-mha.org/program-details.php?id=16) (Supported Employment Program) que ayuda a personas con enfermedades mentales a encontrar y mantener empleos. <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
+Para usar ese programa, necesita una referencia del [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) o de [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) (Salud del Comportamiento del Condado de SLO). <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
 
-El [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) ofrece servicios de rehabilitación vocacional para personas con discapacidades, incluyendo capacitación laboral, asistencia de colocación, tecnología de asistencia y apoyo educativo. <!-- Source: https://www.dor.ca.gov/Home/EmploymentServices -->
+El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) ofrece servicios de rehabilitación vocacional para personas con discapacidades, incluyendo capacitación laboral, asistencia de colocación, tecnología de asistencia y apoyo educativo. <!-- Source: https://www.dor.ca.gov/Home/EmploymentServices -->
 
 #### Para Personas Liberadas de la Cárcel o Prisión
 
 [**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudarle a desarrollar experiencia laboral después de ser liberado de la cárcel o prisión. <!-- Source: https://restorativepartners.org/workforce-development/ -->
-Operan ["The Bridge Cafe"](https://www.thebridgecafe.org/) que puede darle empleo remunerado mientras le capacita para la certificación del programa de Artes Culinarias de [**Cuesta College**](Directory.md#Cuesta-College). <!-- Source: https://restorativepartners.org/workforce-development/ -->
+Operan [“The Bridge Cafe”](https://www.thebridgecafe.org/) que puede darle empleo remunerado mientras le capacita para la certificación del programa de Artes Culinarias de [**Cuesta College**](Directory.md#Cuesta-College). <!-- Source: https://restorativepartners.org/workforce-development/ -->
 Después de completar ese programa, también le ayudarán a encontrar un trabajo en ese campo. <!-- Source: https://restorativepartners.org/workforce-development/ -->
 Contacte a Restorative Partners para preguntar sobre participar en este programa.
 
@@ -3049,7 +3049,7 @@ Hay algunos lugares en el Condado de SLO que se especializan en comprar aluminio
 
 - [**AGS Recycling**](Directory.md#AGS-Recycling) (Arroyo Grande y Morro Bay)
 - [**Cambria Recycling Center**](Directory.md#Cambria-Recycling-Center) (Cambria)
-- [**Steve's Recycling**](Directory.md#Steves-Recycling) (Los Osos)
+- [**Steve’s Recycling**](Directory.md#Steves-Recycling) (Los Osos)
 - [**Recycle 101**](Directory.md#Recycle-101) (Oceano)
 
 Muchas tiendas también pagarán reembolsos de CRV (Valor de Redención de California - California Redemption Value) por hasta cincuenta contenedores de bebidas devueltos a la vez. <!-- Source: https://calrecycle.ca.gov/bevcontainer/ -->
@@ -3060,7 +3060,7 @@ Para encontrar una tienda así cerca de usted, use el formulario de búsqueda en
 Hay algunas formas de ganar pequeñas cantidades de dinero haciendo varias tareas en internet, como responder encuestas, ver videos o probar aplicaciones.
 Algunas de estas son estafas, y la mayoría no pagan mucho, pero pueden ser formas de ganar unos dólares aquí y allá si no puede encontrar o comprometerse con un trabajo estable.
 
-El ["beermoney" subreddit](https://www.reddit.com/r/beermoney/) mantiene [una lista curada de tales oportunidades](https://www.reddit.com/r/beermoney/comments/ab0dyv/most_common_beer_money_sites_do_not_create/).
+El [“beermoney" subreddit](https://www.reddit.com/r/beermoney/) mantiene [una lista curada de tales oportunidades](https://www.reddit.com/r/beermoney/comments/ab0dyv/most_common_beer_money_sites_do_not_create/).
 Ese sitio también incluye comentarios de participantes sobre sus experiencias.
 
 El sitio [FlexJobs](https://www.flexjobs.com/) es otra forma de encontrar trabajos remotos con horarios flexibles.
@@ -3095,7 +3095,7 @@ Hay un programa de asistencia financiera para ayudarle a pagar la matrícula. <!
 
 Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) ofrecen cursos de desarrollo de habilidades, desarrollo profesional y preparación universitaria, en su [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
 
-[Alison.com](https://alison.com) ofrece cursos en línea gratuitos en varios campos de estudio, incluyendo capacitación vocacional y "habilidades blandas" (soft skills).
+[Alison.com](https://alison.com) ofrece cursos en línea gratuitos en varios campos de estudio, incluyendo capacitación vocacional y “habilidades blandas” (soft skills).
 Puede obtener un certificado y/o diploma después de completar un curso de estudio, pero esto a veces cuesta dinero (el curso en sí es gratuito).
 Tenga en cuenta que Alison.com está acreditado en el Reino Unido, no en los Estados Unidos, lo que puede afectar cuánto son respetados estos certificados y diplomas por empleadores o universidades aquí. <!-- Source: https://alison.com/about/accreditation -->
 
@@ -3232,7 +3232,7 @@ Para solicitar, complete [el formulario en su sitio web](https://forms.office.co
 
 [**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) ofrece clases gratuitas de ESL y tutoría personal dos noches por semana. <!-- Source: https://immigranthopeag.org/education/ -->
 
-Los refugiados recientes de otros países también pueden obtener ayuda de ESL de [**SLO for HOME**](Directory.md#SLO4Home). <!-- https://www.sloforhome.org/ mentions providing "language support" -->
+Los refugiados recientes de otros países también pueden obtener ayuda de ESL de [**SLO for HOME**](Directory.md#SLO4Home). <!-- https://www.sloforhome.org/ mentions providing “language support” -->
 
 ### <a id="education-for-people-with-disabilities">Para Personas con Discapacidades</a>
 
@@ -3331,7 +3331,7 @@ For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:in
 
 [**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) opera una [biblioteca de préstamo de juguetes](https://capslo.org/toylendinglibrary/).
 
-[**California Children’s Services**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/ProgramOverview.aspx -->
+[**California Servicios para Niños**](Directory.md#California-Childrens-Services) pays for and helps arrange doctor visits, hospital stays, surgery, physical therapy, tests, medical equipment, etc. for children and youths whose parents otherwise could not afford it. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/ProgramOverview.aspx -->
 
 [**Martha’s Place Children’s Center**](Directory.md#Marthas-Place-Childrens-Center) helps children ages 0–5 who have (or may have) behavioral or mental health issues or who were exposed to alcohol or other intoxicants while in the womb. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 It provides screening, assessment, referral, and treatment. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
@@ -3347,28 +3347,28 @@ These services are free to people with Medi-Cal/CenCal coverage, and available o
 
 > Vea la sección [Líneas Directas y Contactos de Emergencia](#emergency-contacts) de esta guía para la Línea de Ayuda de la Red de Bebés Quisquillosos (Fussy Baby Network Warmline), la Línea Directa Nacional de Salud Mental Materna (National Maternal Mental Health Hotline), y un número al que puede llamar para aprender sobre ubicaciones de Sitios de Entrega Segura (Safe Surrender Sites).
 
-[**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) hosts free parenting skills workshops and parenting support groups, and can help you find resources for your particular needs. <!-- Source: https://sloparents.org/ -->
+[**Parent Connection of SLO County**](Directory.md#Parent-Connection-of-SLO-County) organiza talleres gratuitos de habilidades de crianza y grupos de apoyo para padres, y puede ayudarle a encontrar recursos para sus necesidades particulares. <!-- Source: https://sloparents.org/ -->
 
-[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers [Parent Participation classes](https://ae.slcusd.org/parent-part) that teach useful parenting skills to people with children up to the age of five (you attend the class with your child). <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
-Classes are held in San Luis Obispo and Morro Bay. <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
-Scholarships that cover part of the class fees are available to people with low incomes or special circumstances. <!-- SOURCE NEEDED -->
+[**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) ofrece [clases de Participación de Padres](https://ae.slcusd.org/parent-part) (Parent Participation) que enseñan habilidades útiles de crianza a personas con niños de hasta cinco años de edad (asiste a la clase con su hijo). <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
+Las clases se llevan a cabo en San Luis Obispo y Morro Bay. <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
+Hay becas disponibles que cubren parte de las tarifas de clase para personas con bajos ingresos o circunstancias especiales. <!-- SOURCE NEEDED -->
 
-The free [Triple P Fear Less Class](https://www.t-mha.org/workshop-details.php?id=80) offered by [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) helps parents and caregivers of children (ages 6–14) who experience anxiety to foster confident and healthy children, cultivate strong family relationships, and effectively address misbehavior.
+La [Clase Triple P Fear Less](https://www.t-mha.org/workshop-details.php?id=80) gratuita ofrecida por [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) ayuda a padres y cuidadores de niños (edades 6–14) que experimentan ansiedad a fomentar niños seguros y saludables, cultivar relaciones familiares fuertes y abordar efectivamente el mal comportamiento.
 
 [**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) has a “baby bank” from which you can get free maternity and breastfeeding supplies, diapers, baby wipes, formula, safe sleep equipment, child car seats, books, and toys. <!-- Source: https://www.ppsslo.org/practical-assistance -->
 (Car seat installation by appointment only.) <!-- Source: https://www.ppsslo.org/practical-assistance -->
 
-> See the [Peer Support Groups: Pregnancy and Parenthood](#parenthood-peer-support) section for information about a variety of support groups for new parents and pregnant people.
+> Vea la sección [Grupos de Apoyo entre Pares: Embarazo y Paternidad/Maternidad](#parenthood-peer-support) para información sobre una variedad de grupos de apoyo para nuevos padres y personas embarazadas.
 
-> See [Pregnancy, Childbirth, Lactation](#pregnancy-childbirth-lactation) in the [Health & Medical Care](#health-medical-care) section of this guide for pregnancy and postpartum resources.
+> Vea [Embarazo, Parto, Lactancia](#pregnancy-childbirth-lactation) en la sección [Salud y Atención Médica](#health-medical-care) de esta guía para recursos de embarazo y posparto.
 
 ### <a id="daycare">Guardería, Preescolar y Programas Después de la Escuela</a>
 
-[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) connects SLO County families with child care centers, licensed family child care homes, and after-school programs.
-They can provide child care payment assistance for income-eligible families. <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
-If you are in the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs), you can apply for child care from this program through the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
-Otherwise [complete an online application](https://app.mycareconnect.io/carewait/capslo) or call [888-727-2272](tel:+1-888-727-2272) to begin the process of applying through the California Alternative Payment Program. <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
-This program may have a waiting list. <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
+[**Child Care Resource Connection**](Directory.md#Child-Care-Resource-Connection) conecta a familias del Condado de SLO con centros de cuidado infantil, hogares de cuidado infantil familiar con licencia y programas después de la escuela.
+Pueden proporcionar asistencia de pago de cuidado infantil para familias elegibles según ingresos. <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
+Si está en el [**Programa de Asistencia para Personas sin Hogar CalWORKs**](Directory.md#CalWORKs) (CalWORKs Homeless Assistance Program), puede solicitar cuidado infantil de este programa a través del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) (Departamento de Servicios Sociales del Condado de SLO). <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
+De lo contrario [complete una solicitud en línea](https://app.mycareconnect.io/carewait/capslo) o llame al [888-727-2272](tel:+1-888-727-2272) para comenzar el proceso de solicitar a través del Programa de Pago Alternativo de California (California Alternative Payment Program). <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
+Este programa puede tener una lista de espera. <!-- Source: https://capslo.org/assistance-with-child-care-payments/ -->
 
 [**CAPSLO**](Directory.md#CAPSLO) operates [Head Start and Early Head Start programs](https://capslo.org/head-start-and-early-head-start/) for children during their first five years of life.
 The programs aim to help children gain school readiness skills, confidence, and self-esteem. <!-- Source: https://capslo.org/head-start-and-early-head-start/ -->
@@ -3381,27 +3381,27 @@ There is also a “Migrant and Seasonal Head Start” program designed specifica
 You can apply for that program by completing [the form on this page](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
 For more information, contact [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) or [888-633-6747](tel:+1-888-633-6747). <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
 
-[Bright Futures](http://luciamarschools.org/251185_2) is a program in the Lucia Mar Unified School District that gives K-8 students a safe before- and after-school environment including academic support and enrichment classes, as well as a free supper. <!-- Source: https://www.luciamarschools.org/251185_2 -->
-There are limited spaces available, and sometimes there is a waiting list. <!-- SOURCE NEEDED -->
-Priority is given to foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services. <!-- SOURCE NEEDED -->
-You can apply to enroll your child in this program at the [Bright Futures](http://luciamarschools.org/251185_2) website.
+[Bright Futures](http://luciamarschools.org/251185_2) es un programa en el Distrito Escolar Unificado de Lucia Mar que da a estudiantes de K-8 un ambiente seguro antes y después de la escuela incluyendo apoyo académico y clases de enriquecimiento, así como una cena gratuita. <!-- Source: https://www.luciamarschools.org/251185_2 -->
+Hay espacios limitados disponibles, y a veces hay una lista de espera. <!-- SOURCE NEEDED -->
+Se da prioridad a jóvenes en hogares de crianza, estudiantes que experimentan falta de hogar, estudiantes de inglés como segundo idioma, y estudiantes que califican para servicios de almuerzo gratuito/a precio reducido. <!-- SOURCE NEEDED -->
+Puede solicitar inscribir a su hijo en este programa en el sitio web de [Bright Futures](http://luciamarschools.org/251185_2).
 
-The [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) operates several programs including childcare for children aged 2–5 that includes early-childhood education, therapy and rehabilitation for children who need it, meals (breakfast, lunch, and an afternoon snack), and family events. <!-- Source: https://www.childrensresource.org/curriculum and https://www.childrensresource.org/therapy and https://www.childrensresource.org/classrooms and https://www.childrensresource.org/food-program and https://www.childrensresource.org/other -->
-They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse. <!-- SOURCE NEEDED -->
-To apply for the childcare program, complete and submit [an application](https://www.childrensresource.org/regristration).
-There may be a waiting list. <!-- Source: https://www.childrensresource.org/regristration -->
-Tuition is a sliding-scale fee based on income, and financial aid is available. <!-- Source: https://www.childrensresource.org/regristration -->
+El [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) (Centro de Recursos de Desarrollo Infantil) opera varios programas incluyendo cuidado infantil para niños de 2–5 años que incluye educación de la primera infancia, terapia y rehabilitación para niños que la necesitan, comidas (desayuno, almuerzo y merienda) y eventos familiares. <!-- Source: https://www.childrensresource.org/curriculum and https://www.childrensresource.org/therapy and https://www.childrensresource.org/classrooms and https://www.childrensresource.org/food-program and https://www.childrensresource.org/other -->
+Se especializan en trabajar con niños que vienen de circunstancias que incluyen pobreza, falta de hogar, hogares de crianza, violencia doméstica o abuso infantil. <!-- SOURCE NEEDED -->
+Para solicitar el programa de cuidado infantil, complete y envíe [una solicitud](https://www.childrensresource.org/regristration).
+Puede haber una lista de espera. <!-- Source: https://www.childrensresource.org/regristration -->
+La matrícula es una tarifa de escala móvil basada en ingresos, y hay ayuda financiera disponible. <!-- Source: https://www.childrensresource.org/regristration -->
 
-Boys & Girls Clubs offer out-of-school enrichment programs for schoolchildren during the week: after school and during school breaks like summer vacation. <!-- SOURCE NEEDED -->
-There is an annual membership fee and also fees per child per day, but Boys & Girls Clubs are committed to ensuring that cost is not a barrier to participation. <!-- SOURCE NEEDED -->
-Ask them about scholarships and subsidies. <!-- SOURCE NEEDED -->
-There are two Boys & Girls Clubs chapters in SLO County:
+Los Boys & Girls Clubs (Clubes de Niños y Niñas) ofrecen programas de enriquecimiento fuera de la escuela para niños escolares durante la semana: después de la escuela y durante los descansos escolares como las vacaciones de verano. <!-- SOURCE NEEDED -->
+Hay una cuota de membresía anual y también tarifas por niño por día, pero los Boys & Girls Clubs están comprometidos a asegurar que el costo no sea una barrera para la participación. <!-- SOURCE NEEDED -->
+Pregúnteles sobre becas y subsidios. <!-- SOURCE NEEDED -->
+Hay dos capítulos de Boys & Girls Clubs en el Condado de SLO:
 
-- [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/) which covers Grover Beach, Oceano, Pismo Beach, and Shell Beach ([myclubhub@bgcslo.org](mailto:myclubhub@bgcslo.org), [805-481-7339](tel:+1-805-481-7339))
-- [Boys & Girls Clubs of Mid Central Coast](https://centralcoastkids.org/) which covers Atascadero, Creston, Guadalupe, Paso Robles, and Shandon ([info@centralcoastkids.org](mailto:info@centralcoastkids.org), [805-922-7163](tel:+1-805-922-7163))
+- [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/) que cubre Grover Beach, Oceano, Pismo Beach y Shell Beach ([myclubhub@bgcslo.org](mailto:myclubhub@bgcslo.org), [805-481-7339](tel:+1-805-481-7339))
+- [Boys & Girls Clubs of Mid Central Coast](https://centralcoastkids.org/) que cubre Atascadero, Creston, Guadalupe, Paso Robles y Shandon ([info@centralcoastkids.org](mailto:info@centralcoastkids.org), [805-922-7163](tel:+1-805-922-7163))
 
-Students of [**Cuesta College**](Directory.md#Cuesta-College) who qualify for [Extended Opportunity Programs and Services](https://www.cuesta.edu/student-support/support-programs/eops/) and who are single heads-of-households can get help paying for child care services from [Cooperative Agencies Resources for Education (CARE)](https://www.cuesta.edu/student-support/support-programs/eops/care.html).
-Contact [cafecenters@cuesta.edu](mailto:cafecenters@cuesta.edu) or [805-546-3144](tel:+1-805-546-3144) to learn how to apply.
+Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) que califican para [Programas y Servicios de Oportunidades Extendidas](https://www.cuesta.edu/student-support/support-programs/eops/) (Extended Opportunity Programs and Services) y que son jefes de hogar solteros pueden obtener ayuda para pagar servicios de cuidado infantil de [Cooperative Agencies Resources for Education (CARE)](https://www.cuesta.edu/student-support/support-programs/eops/care.html) (Recursos de Agencias Cooperativas para la Educación).
+Contacte a [cafecenters@cuesta.edu](mailto:cafecenters@cuesta.edu) o [805-546-3144](tel:+1-805-546-3144) para aprender cómo solicitar.
 
 [**SLO County YMCA**](Directory.md#SLO-County-YMCA) offers [one hour of childcare](https://www.ciymca.org/child-watch) to members while they are exercising at the facility. <!-- https://status.ciymca.org/ -->
 You must reserve this at least one hour in advance. <!-- https://www.ciymca.org/childwatch-schedule#/results?locations=932&start_date=2025-12-10&page=1&sort=start_datetime:asc -->
@@ -3411,7 +3411,7 @@ There is sometimes a wait list to apply for these [School Age Care](https://chan
 They occasionally offer [Kid’s Night Out](https://channel.recliquecore.com/programs/1269/kid-s-night-out/?locations=140) evening childcare programs too.
 [Financial assistance](https://www.ciymca.org/financial-assistance) is available to ensure that you can afford these programs.
 
-> See [Summer Meal Sites (for Children)](#summer-meal-sites) in the [Food Resources](#food) section of this guide for information on how children can get meals during the Summer months when school is out.
+> Vea [Sitios de Comidas de Verano (para Niños)](#summer-meal-sites) en la sección [Recursos de Alimentos](#food) de esta guía para información sobre cómo los niños pueden obtener comidas durante los meses de verano cuando no hay escuela.
 
 ### <a id="holiday-gifts-for-children">Regalos de Temporada para Niños</a>
 
@@ -3419,7 +3419,7 @@ There are several programs in SLO County that provide gifts for children during 
 You typically need to apply a month or so ahead of time to receive these gifts.
 You may need to upload documents such as the children’s birth certificates to prove eligibility and proof of residence.
 
-> See the [IDs and Other Documents](#ids-and-other-documents) section of this guide for ways to obtain or replace documents like these.
+> Vea la sección [Identificaciones y Otros Documentos](#ids-and-other-documents) de esta guía para formas de obtener o reemplazar documentos como estos.
 
 [**Salvation Army**](Directory.md#Salvation-Army) operates the “Angel Tree” program which provides free Christmas gifts for children.
 Register at [this web page](https://www.saangeltree.org/).
@@ -3448,7 +3448,7 @@ To apply for a free bicycle for your child, contact your child’s elementary or
 
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) has a [Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach) program that offers individualized case management to unaccompanied homeless youth (ages 16–24) with the goal of helping them with immediate needs, housing, independent living, steady employment, and continued education.
 
-SLO County youth (ages 21 or below, or current or former foster youth up to age 26) who are enrolled in [**CenCal Health**](Directory.md#CenCal) qualify for [**Enhanced Care Management**](Directory.md#Enhanced-Care-Management) through [**Seneca Central Coast**](Directory.md#Seneca-Central-Coast) if one of the following is true:
+SLO County youth (ages 21 or below, or current or former foster youth up to age 26) who are enrolled in [**CenCal Health**](Directory.md#CenCal) qualify for [**Administración de la Atención Mejorada (ECM)**](Directory.md#Enhanced-Care-Management) through [**Seneca Central Coast**](Directory.md#Seneca-Central-Coast) if one of the following is true:
 
 - They are experiencing homelessness.
 - They are transitioning out of incarceration.
@@ -3456,8 +3456,8 @@ SLO County youth (ages 21 or below, or current or former foster youth up to age 
 - They have significant behavioral health needs.
 - They experience frequent hospitalization.
 
-Enhanced Care Management teams you up with a professional who can help you find medical providers, make appointments, arrange transportation to appointments, and meet other healthcare needs. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
-To apply for Enhanced Care Management, contact [**CenCal Health**](Directory.md#CenCal) who can help you with the process, or contact Seneca Central Coast directly. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
+Administración de la Atención Mejorada teams you up with a professional who can help you find medical providers, make appointments, arrange transportation to appointments, and meet other healthcare needs. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
+To apply for Administración de la Atención Mejorada, contact [**CenCal Health**](Directory.md#CenCal) who can help you with the process, or contact Seneca Central Coast directly. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
 
 [**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) has a [Teen Center](https://www.atascadero.org/service/teen-center), open weekday afternoons until 6pm, with air hockey, pool, ping pong, PS5, movies, board games, dodgeball, and basketball.
 Membership is $20/year. <!-- Source: https://www.atascadero.org/service/teen-center -->
@@ -3515,7 +3515,7 @@ To access this program, contact the McKinney-Vento liaison for your school distr
 1. [RaiseUP SLO](https://www.racemattersslo.org/raiseup-slo) — difficult to determine what specifically they offer; website is a little vague
 1. [First 5 SLO County](https://www.first5slo.org/what-we-do.php) — more of an advocacy organization than one that directly provides services
 
-I'm confused about what SAFE is. Is it a variety of Family Resource Center? Are "Family Resource Centers" a standardized program that offer a standard set of things, or are they just a common name that's adopted by a variety of programs? Are these things that people self-refer to, or do they kind of get assigned to them by social workers and such? Online sources of information are vague on these points.
+I’m confused about what SAFE is. Is it a variety of Family Resource Center? Are “Family Resource Centers” a standardized program that offer a standard set of things, or are they just a common name that’s adopted by a variety of programs? Are these things that people self-refer to, or do they kind of get assigned to them by social workers and such? Online sources of information are vague on these points.
 
 1. SAFE System of Care: Comprehensive behavioral health services for children/youth ages 0–21 and families. Provides wraparound services, care coordination, family advocacy, crisis intervention, and support to keep kids in their homes and schools.
    - How to Access: Contact school counselors/homeless liaisons, SLO County Behavioral Health at [805-781-4700](tel:+1-805-781-4700), or dial 211 for 24/7 resource information. Services are family-driven and youth-guided with individualized treatment plans.
@@ -3865,14 +3865,14 @@ Warming centers typically open when temperatures are due to drop to 38°F or bel
 - [Reporting Government Misconduct](#reporting-misconduct)
 
 San Luis Obispo County is an especially challenging place for people trying to avoid or to escape homelessness.
-Nearly one in four homeless people in the United States lives in California. <!-- Source: "2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S." United States Department of Housing and Urban Development. December 2024. -->
-California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people. <!-- Source: "2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S." United States Department of Housing and Urban Development. December 2024. -->
-In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S. <!-- Source: "The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027", July 20, 2022, p. 5 -->
+Nearly one in four homeless people in the United States lives in California. <!-- Source: “2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S.” United States Department of Housing and Urban Development. December 2024. -->
+California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people. <!-- Source: “2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S.” United States Department of Housing and Urban Development. December 2024. -->
+In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S. <!-- Source: “The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027”, July 20, 2022, p. 5 -->
 The city of San Luis Obispo is one of the top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have to afford to buy a home. <!-- Source: Shibley, Emma K. (June 17, 2025), The income needed to buy a home in major U.S. cities, Consumer Affairs (Journal of Consumer Research) -->
 10% of schoolchildren in SLO County are homeless. <!-- SOURCE NEEDED -->
 
 Why are things especially difficult here?
-There are many reasons, but the most important one is “too few homes for the number of people who need them.” <!-- Source: Streeter, Jialu L. (May 2022). "Homelessness in California: Causes and policy considerations". Stanford Institute for Economic Policy Research Policy Brief. -->
+There are many reasons, but the most important one is “too few homes for the number of people who need them.” <!-- Source: Streeter, Jialu L. (May 2022). “Homelessness in California: Causes and policy considerations”. Stanford Institute for Economic Policy Research Policy Brief. -->
 The reasons why that is a problem are complicated, but include government policies that reduce the availability of homes and make them more expensive, resource constraints, and high demand.
 
 | **External links** |
@@ -4007,8 +4007,8 @@ Just take what you want to read, or leave what you’re finished reading.
 They are typically open 24-hours a day, every day.
 See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Directory for a list of dozens of them in SLO County.
 
-“Little Free Pantries” are similar, but rather than holding books, they specialize in non-perishable food, feminine hygiene products, pet food, and miscellaneous other items.
-See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the Directory for a list of several in SLO County.
+“Pequeñas Despensas Gratuitas” are similar, but rather than holding books, they specialize in non-perishable food, feminine hygiene products, pet food, and miscellaneous other items.
+See [**Pequeñas Despensas Gratuitas**](Directory.md#Little-Free-Pantries) in the Directory for a list of several in SLO County.
 
 The Shandon branch of [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has a tool-lending library.
 People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leaf blower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench. <!-- SOURCE NEEDED -->
