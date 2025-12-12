@@ -2570,22 +2570,22 @@ Si tiene un administrador de casos, pregúntele si puede ayudarle con este proce
 
 ## <a id="mail-drops-post-office-boxes">Recepción de Correo, Apartados Postales, Etc.</a>
 
-If you are homeless, you may be at a loss when asked for your mailing address.
-There are various ways to establish a reliable mailing address even if you do not have a stable living address.
+Si está sin hogar, puede estar perdido cuando le piden su dirección postal.
+Hay varias maneras de establecer una dirección postal confiable incluso si no tiene una dirección de vivienda estable.
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
-and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) <!-- SOURCE NEEDED -->
-offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you.
-Ask them for details.
+Las oficinas de [**5Cities Homeless Coalition**](Directory.md#5CHC) <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
+y [**40 Prado Homeless Services Center**](Directory.md#40-Prado) <!-- SOURCE NEEDED -->
+permiten a clientes de sus servicios usar estas oficinas como direcciones postales, y guardarán su correo entrante allí para usted.
+Pregúnteles por detalles.
 
-You can rent mail boxes from UPS Stores and from the U.S. Postal Service.
-The Postal Service option is more affordable.
-But sometimes, a “P.O. Box” address (what you get from the Postal Service) is not adequate for your needs.
-One advantage of the UPS Store option is that it appears as a regular street address (e.g. “1241 Johnson Avenue #1234, San Luis Obispo”). <!-- Source: https://www.theupsstore.com/mailboxes/personal-mailboxes -->
-UPS Store locations with mailbox rental services are available throughout SLO County: <!-- Source: https://www.theupsstore.com/tools/find-a-store -->
+Puede alquilar buzones de correo en UPS Stores y en el Servicio Postal de EE.UU.
+La opción del Servicio Postal es más económica.
+Pero a veces, una dirección de "Apartado Postal" (lo que obtiene del Servicio Postal) no es adecuada para sus necesidades.
+Una ventaja de la opción de UPS Store es que aparece como una dirección de calle regular (por ejemplo "1241 Johnson Avenue #1234, San Luis Obispo"). <!-- Source: https://www.theupsstore.com/mailboxes/personal-mailboxes -->
+Las ubicaciones de UPS Store con servicios de alquiler de buzones están disponibles en todo el Condado de SLO: <!-- Source: https://www.theupsstore.com/tools/find-a-store -->
 
-| City          | UPS Store Location | Phone |
-| ------------- | ------------------ | ----- |
+| Ciudad        | Ubicación de UPS Store | Teléfono |
+| ------------- | ---------------------- | -------- |
 | Arroyo Grande | <a href="#" class="map-link" data-lat="35.119852" data-lon="-120.605397" data-zoom="17" data-label="UPS Store">1375 E. Grand Ave. #103</a> | [805-904-6480](tel:+1-805-904-6480) |
 | Atascadero    | <a href="#" class="map-link" data-lat="35.483837" data-lon="-120.660562" data-zoom="17" data-label="UPS Store">7343 El Camino Real</a>     | [805-466-9015](tel:+1-805-466-9015) |
 | Morro Bay     | <a href="#" class="map-link" data-lat="35.368768" data-lon="-120.844887" data-zoom="17" data-label="UPS Store">630 Quintana Rd.</a>        | [805-772-9284](tel:+1-805-772-9284) |
@@ -2596,16 +2596,16 @@ UPS Store locations with mailbox rental services are available throughout SLO Co
 | SLO           | <a href="#" class="map-link" data-lat="35.293776" data-lon="-120.671971" data-zoom="17" data-label="UPS Store">793 Foothill Blvd.</a>      | [805-541-9333](tel:+1-805-541-9333) |
 | SLO           | <a href="#" class="map-link" data-lat="35.282248" data-lon="-120.656089" data-zoom="17" data-label="UPS Store">1241 Johnson Ave.</a>       | [805-541-1334](tel:+1-805-541-1334) |
 
-Another option is to ask people to send you mail addressed to [“General Delivery”](https://faq.usps.com/s/article/What-is-General-Delivery):
-> *Your Name*<br />
+Otra opción es pedir a las personas que le envíen correo dirigido a ["Entrega General"](https://faq.usps.com/s/article/What-is-General-Delivery):
+> *Su Nombre*<br />
 > General Delivery<br />
-> *City Name*, CA *ZIP-Code*‒9999
+> *Nombre de la Ciudad*, CA *Código Postal*‒9999
 
-You can collect mail that is sent to you via General Delivery from the post office.
-Here are some General Delivery zip codes for SLO County:
+Puede recoger correo que le envían vía Entrega General de la oficina de correos.
+Aquí hay algunos códigos postales de Entrega General para el Condado de SLO:
 
-| Post Office     | Pick-up Address                                                                                                                                | ZIP Code   |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Oficina de Correos | Dirección de Recogida                                                                                                                          | Código Postal |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Arroyo Grande   | <a href="#" class="map-link" data-lat="35.121805" data-lon="-120.580037" data-zoom="17" data-label="Post Office">160 Station Way</a>           | 93420‒9999 |
 | Atascadero      | <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a>       | 93422‒9999 |
 | Cambria         | <a href="#" class="map-link" data-lat="35.563988" data-lon="-121.081246" data-zoom="17" data-label="Post Office">4100 Bridge St.</a>           | 93428‒9999 |
@@ -2617,21 +2617,21 @@ Here are some General Delivery zip codes for SLO County:
 | Oceano          | <a href="#" class="map-link" data-lat="35.098991" data-lon="-120.611433" data-zoom="17" data-label="Post Office">1800 Beach St.</a>            | 93445‒9999 |
 | Paso Robles     | <a href="#" class="map-link" data-lat="35.619901" data-lon="-120.689465" data-zoom="17" data-label="Post Office">800 6th St.</a>               | 93446‒9999 |
 | Pismo Beach     | <a href="#" class="map-link" data-lat="35.135025" data-lon="-120.606878" data-zoom="17" data-label="Post Office">100 Crest Dr.</a>             | 93449‒9999 |
-| San Luis Obispo | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> (main)   | 93401‒9999 |
+| San Luis Obispo | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> (principal) | 93401‒9999 |
 | San Simeon      | <a href="#" class="map-link" data-lat="35.612276" data-lon="-121.145205" data-zoom="17" data-label="Post Office">250 San Simeon Ave. Ste 7</a> | 93452‒9999 |
 | Santa Margarita | <a href="#" class="map-link" data-lat="35.391744" data-lon="-120.608109" data-zoom="17" data-label="Post Office">22360 El Camino Real</a>      | 93453‒9999 |
 | Templeton       | <a href="#" class="map-link" data-lat="35.557484" data-lon="-120.700688" data-zoom="17" data-label="Post Office">101 N. Main St.</a>           | 93465‒9999 |
 
-**Note**: In cities with multiple post office locations, General Delivery is typically handled at only one facility (usually the main post office). <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
-For example, San Luis Obispo has two post offices, but General Delivery is handled at the main location on Dalidio Dr. <!-- SOURCE NEEDED -->
-To confirm which location handles General Delivery in your area, call [800-275-8777](tel:+1-800-275-8777) and request “Customer Service,” or use the [USPS ZIP Code lookup tool](https://tools.usps.com/zip-code-lookup.htm) by entering “General Delivery” as the address line.
+**Nota**: En ciudades con múltiples ubicaciones de oficinas de correos, la Entrega General típicamente se maneja en solo una instalación (usualmente la oficina de correos principal). <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
+Por ejemplo, San Luis Obispo tiene dos oficinas de correos, pero la Entrega General se maneja en la ubicación principal en Dalidio Dr. <!-- SOURCE NEEDED -->
+Para confirmar qué ubicación maneja la Entrega General en su área, llame al [800-275-8777](tel:+1-800-275-8777) y solicite "Servicio al Cliente", o use la [herramienta de búsqueda de códigos postales de USPS](https://tools.usps.com/zip-code-lookup.htm) ingresando "General Delivery" como la línea de dirección.
 
-You should speak with the postmaster at the post office where you want to receive general delivery mail beforehand. <!-- SOURCE NEEDED -->
-The post office will hold general delivery mail for you for at least 10 days. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
-You must have a valid photo ID to collect your mail at the post office. <!-- SOURCE NEEDED -->
-This service is free. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
-However, this is not a long-term solution; it is meant for temporary use (for instance by travelers passing through town). <!-- SOURCE NEEDED -->
-The post office may stop accepting general delivery mail for you if you try to use this method for a long time or if you get too much mail. <!-- SOurce: https://faq.usps.com/s/article/What-is-General-Delivery -->
+Debe hablar con el administrador de correos en la oficina de correos donde quiere recibir correo de entrega general de antemano. <!-- SOURCE NEEDED -->
+La oficina de correos guardará correo de entrega general para usted por al menos 10 días. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
+Debe tener una identificación con foto válida para recoger su correo en la oficina de correos. <!-- SOURCE NEEDED -->
+Este servicio es gratuito. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
+Sin embargo, esto no es una solución a largo plazo; está destinado para uso temporal (por ejemplo por viajeros que pasan por la ciudad). <!-- SOURCE NEEDED -->
+La oficina de correos puede dejar de aceptar correo de entrega general para usted si intenta usar este método por mucho tiempo o si recibe demasiado correo. <!-- SOurce: https://faq.usps.com/s/article/What-is-General-Delivery -->
 
 <!-- Other options to investigate:
    1. **Faith-Based and Community Mail Services**
