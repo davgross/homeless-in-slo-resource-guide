@@ -2310,179 +2310,179 @@ La [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assista
 
 [**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) (Esperanza Inmigrante Arroyo Grande) es un centro de servicios legales de inmigración que puede ayudarle con naturalización, procesamiento consular, cambios de estatus migratorio, estatus de protección temporal, DACA, renovaciones de tarjeta verde y visas. <!-- Source: https://immigranthopeag.org/ -->
 
-[**SLO College of Law**](Directory.md#SLO-College-of-Law-Legal-Clinic) holds [immigration clinics](https://montereylaw.edu/clinics/immigrationclinic.html) by telephone or Zoom on Mondays between 4pm and 6pm. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
-They can help you with DACA renewal, visas, naturalization/citizenship, and green cards. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
-This costs $15. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
-Schedule an appointment at their website or by calling [831-582-3600](tel:+1-831-582-3600). <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
+[**SLO College of Law**](Directory.md#SLO-College-of-Law-Legal-Clinic) realiza [clínicas de inmigración](https://montereylaw.edu/clinics/immigrationclinic.html) por teléfono o Zoom los lunes entre 4pm y 6pm. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
+Pueden ayudarle con renovación de DACA, visas, naturalización/ciudadanía y tarjetas verdes. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
+Esto cuesta $15. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
+Programe una cita en su sitio web o llamando al [831-582-3600](tel:+1-831-582-3600). <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
 
-[**SLO Superior Court**](Directory.md#SLO-Superior-Court) also has some free [immigration resources](https://selfhelp.courts.ca.gov/immigration).
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) (Tribunal Superior de SLO) también tiene algunos [recursos de inmigración](https://selfhelp.courts.ca.gov/immigration) gratuitos.
 
-[**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) operates Dream (or Monarch) Centers at local colleges (Cal Poly, Cuesta, and Allan Hancock). <!-- Source: https://www.ccc-uss.org/student-resources.html -->
-These centers help students with (among other things) DACA application assistance and other legal help:
+[**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) (Coalición de la Costa Central para el Éxito de Estudiantes Indocumentados) opera Centros Dream (o Monarch) en colegios locales (Cal Poly, Cuesta y Allan Hancock). <!-- Source: https://www.ccc-uss.org/student-resources.html -->
+Estos centros ayudan a estudiantes con (entre otras cosas) asistencia con solicitudes de DACA y otra ayuda legal:
 
-- [**Cuesta College**](Directory.md#Cuesta-College) provides free immigration legal services to students, faculty, and staff.
-  Make an appointment to talk to an advisor [at FindYourAlly](https://findyourally.com/) or call [805-246-3867](tel:+1-805-246-3867) or [805-546-3109](tel:+1-805-546-3109)
-- Cal Poly’s Dream Center provides free and confidential [**Immigrant Legal Defense**](Directory.md#Immigrant-Legal-Defense) <!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
-to Cal Poly students, recent graduates, employees, and immediate family members. <!-- SOURCE NEEDED -->
-  This includes deportation defense (detained and non-detained), DACA applications and renewals, family-based immigration petitions, U & T visa applications, VAWA cases, asylum claims, lawful permanent resident status, and citizenship applications. <!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
-- The Allan Hancock College [AIM to Dream Center](https://www.hancockcollege.edu/aimtodream/index.php) offers free immigration legal services to all students, faculty, and staff. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
-  This includes DACA, citizenship, family petitions, adjustments of status, among other things. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
+- [**Cuesta College**](Directory.md#Cuesta-College) proporciona servicios legales de inmigración gratuitos a estudiantes, profesores y personal.
+  Haga una cita para hablar con un asesor [en FindYourAlly](https://findyourally.com/) o llame al [805-246-3867](tel:+1-805-246-3867) o [805-546-3109](tel:+1-805-546-3109)
+- El Dream Center de Cal Poly proporciona [**Defensa Legal de Inmigrantes**](Directory.md#Immigrant-Legal-Defense) gratuita y confidencial <!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
+a estudiantes, graduados recientes, empleados y miembros de familia inmediata de Cal Poly. <!-- SOURCE NEEDED -->
+  Esto incluye defensa de deportación (detenidos y no detenidos), solicitudes y renovaciones de DACA, peticiones de inmigración basadas en familia, solicitudes de visas U y T, casos VAWA, reclamos de asilo, estatus de residente permanente legal y solicitudes de ciudadanía. <!-- Source: https://dreamcenter.calpoly.edu/LegalServices -->
+- El [AIM to Dream Center](https://www.hancockcollege.edu/aimtodream/index.php) de Allan Hancock College ofrece servicios legales de inmigración gratuitos a todos los estudiantes, profesores y personal. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
+  Esto incluye DACA, ciudadanía, peticiones familiares, ajustes de estatus, entre otras cosas. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
 
-If you call the Rapid Response Hotline at [805-870-8855](tel:+1-805-870-8855), you can get know-your-rights information and referrals to trusted attorneys (nonprofit, private, or public) from the “[805 Immigrant Rapid Response Network](https://www.805undocufund.org/alerts.html).” <!-- Source: https://www.805undocufund.org/alerts.html -->
+Si llama a la Línea Directa de Respuesta Rápida al [805-870-8855](tel:+1-805-870-8855), puede obtener información sobre conozca-sus-derechos y referencias a abogados de confianza (sin fines de lucro, privados o públicos) de la "[805 Immigrant Rapid Response Network](https://www.805undocufund.org/alerts.html)" (Red de Respuesta Rápida para Inmigrantes 805). <!-- Source: https://www.805undocufund.org/alerts.html -->
 
-The [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) and the [Immigrant Defense Project](https://www.immigrantdefenseproject.org/) can also help you with know-your-rights information and with finding legal help.
+El [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) (Centro de Recursos Legales para Inmigrantes) y el [Immigrant Defense Project](https://www.immigrantdefenseproject.org/) (Proyecto de Defensa de Inmigrantes) también pueden ayudarle con información sobre conozca-sus-derechos y con encontrar ayuda legal.
 
 ### <a id="senior-legal-services">Servicios Legales para Personas Mayores</a>
 
-The [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) offers free legal help to low- and moderate-income people in SLO County who are age 60 and up. <!-- Source: https://www.slolaf.org/seniorlaw -->
-They can help you navigate the legal issues around benefits rights assistance, consumer protection, housing discrimination and eviction prevention, advance medical directives and durable power of attorney, will preparation, and protective/restraining orders. <!-- Source: https://www.slolaf.org/seniorlaw -->
-They often hold by-appointment clinics at local Senior Centers, or you can contact their office directly via the [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation). <!-- Source: https://www.slolaf.org/seniorlaw -->
+El [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) (Proyecto de Servicios Legales para Personas Mayores) ofrece ayuda legal gratuita a personas de bajos y moderados ingresos en el Condado de SLO que tienen 60 años o más. <!-- Source: https://www.slolaf.org/seniorlaw -->
+Pueden ayudarle a navegar los problemas legales relacionados con asistencia de derechos de beneficios, protección del consumidor, discriminación de vivienda y prevención de desalojo, directivas médicas anticipadas y poder legal duradero, preparación de testamentos y órdenes de protección/restricción. <!-- Source: https://www.slolaf.org/seniorlaw -->
+A menudo realizan clínicas con cita previa en Centros para Personas Mayores locales, o puede contactar su oficina directamente a través de la [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO). <!-- Source: https://www.slolaf.org/seniorlaw -->
 
 ### <a id="tax-disputes">Disputas Fiscales</a>
 
-The Orfalea College of Business at Cal Poly operates a free [Low Income Taxpayer Clinic](https://orfalea.calpoly.edu/low-income-taxpayer-clinic) at <a href="#" class="map-link" data-lat="35.299891" data-lon="-120.664977" data-zoom="17" data-label="Business Building">Cal Poly’s SLO campus, building 3, room 107</a>, M–Th 9am–5pm and F 9am–1pm. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
-They represent low-income clients for free in tax controversies before the I.R.S. and the U.S. Tax Court. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
-Their help is available in English and Spanish. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
-This service is only available to you if the amount the IRS says you owe is $50,000 per tax year or less, and your household’s total income does not exceed 250 percent of the federal poverty guidelines. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients -->
-To use this service, complete [an intake form](https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients) which is available on their website, or call them at [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725)) <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients -->
-You can also ask for more information by email at [litc@calpoly.edu](mailto:litc@calpoly.edu). <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
+El Orfalea College of Business de Cal Poly opera una [Clínica para Contribuyentes de Bajos Ingresos](https://orfalea.calpoly.edu/low-income-taxpayer-clinic) gratuita en el <a href="#" class="map-link" data-lat="35.299891" data-lon="-120.664977" data-zoom="17" data-label="Business Building">campus de SLO de Cal Poly, edificio 3, sala 107</a>, L–J 9am–5pm y V 9am–1pm. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
+Representan a clientes de bajos ingresos gratuitamente en controversias fiscales ante el I.R.S. y el Tribunal Fiscal de EE.UU. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
+Su ayuda está disponible en inglés y español. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
+Este servicio solo está disponible para usted si la cantidad que el IRS dice que debe es de $50,000 por año fiscal o menos, y el ingreso total de su hogar no excede el 250 por ciento de las pautas federales de pobreza. <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients -->
+Para usar este servicio, complete [un formulario de admisión](https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients) que está disponible en su sitio web, o llámelos al [877-318-6772](tel:+1-877-318-6772) (Español: [805-756-5725](tel:+1-805-756-5725)) <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic/prospective-clients -->
+También puede solicitar más información por correo electrónico a [litc@calpoly.edu](mailto:litc@calpoly.edu). <!-- Source: https://orfalea.calpoly.edu/low-income-taxpayer-clinic -->
 
 ### <a id="legal-miscellany">Miscelánea</a>
 
-> See the [Advance Directives](#advance-directives) section of this guide for help on how to make legally-binding advance directives such as Advance Care Directives, Healthcare Power of Attorney, Physician Orders for Life-Sustaining Treatment (POLST), Do Not Resuscitate (DNR) orders, and organ donation authorizations.
+> Vea la sección de [Directivas Anticipadas](#advance-directives) de esta guía para ayuda sobre cómo hacer directivas anticipadas legalmente vinculantes como Directivas Anticipadas de Atención Médica, Poder Legal de Atención Médica, Órdenes Médicas para Tratamiento de Soporte Vital (POLST), órdenes de No Reanimar (DNR) y autorizaciones de donación de órganos.
 
-The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) enforces California’s laws against certain forms of discrimination in employment, housing, business, and services, and against hate crimes and human trafficking. <!-- Source: https://calcivilrights.ca.gov/ -->
-If you believe you have been treated illegally in ways like these, you can [file a discrimination complaint](https://calcivilrights.ca.gov/complaintprocess/), [report a hate crime](https://stophate.calcivilrights.ca.gov/s/) with them and request that they investigate.
+El [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) (Departamento de Derechos Civiles de California) hace cumplir las leyes de California contra ciertas formas de discriminación en empleo, vivienda, negocios y servicios, y contra crímenes de odio y tráfico humano. <!-- Source: https://calcivilrights.ca.gov/ -->
+Si cree que ha sido tratado ilegalmente de maneras como estas, puede [presentar una queja de discriminación](https://calcivilrights.ca.gov/complaintprocess/), [reportar un crimen de odio](https://stophate.calcivilrights.ca.gov/s/) con ellos y solicitar que investiguen.
 
-The Americans with Disabilities Act protects people who have disabilities from discrimination. <!-- Source: https://www.ada.gov/ -->
-The [ada.gov](https://www.ada.gov/) website explains this Act and how you can enforce your rights under it. <!-- Source: https://www.ada.gov/ -->
-That site also shows you how to [file an official complaint](https://www.ada.gov/file-a-complaint/).
-You can also reach the U.S. Department of Justice’s Americans with Disabilities Act section at [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264)) or [Disability.Outreach@usdoj.gov](mailto:Disability.Outreach@usdoj.gov). <!-- Source: https://www.ada.gov/ -->
+La Ley de Estadounidenses con Discapacidades protege a personas que tienen discapacidades de la discriminación. <!-- Source: https://www.ada.gov/ -->
+El sitio web [ada.gov](https://www.ada.gov/) explica esta Ley y cómo puede hacer cumplir sus derechos bajo ella. <!-- Source: https://www.ada.gov/ -->
+Ese sitio también le muestra cómo [presentar una queja oficial](https://www.ada.gov/file-a-complaint/).
+También puede comunicarse con la sección de la Ley de Estadounidenses con Discapacidades del Departamento de Justicia de EE.UU. al [800-514-0301](tel:+1-800-514-0301) (TTY: [833-610-1264](tel:+1-833-610-1264)) o [Disability.Outreach@usdoj.gov](mailto:Disability.Outreach@usdoj.gov). <!-- Source: https://www.ada.gov/ -->
 
 -----
 
 ## <a id="ids-and-other-documents">Identificaciones y Otros Documentos</a> (Cómo Obtener, Reemplazar y Asegurar)
 
-Often, agencies and programs will ask you for certain documents, like a government identification card (such as a driver’s license), a social security card, or a birth certificate.
-If you have lost such documents, or never obtained them, this can be an obstacle to working with those agencies and programs.
+A menudo, las agencias y programas le pedirán ciertos documentos, como una tarjeta de identificación del gobierno (como una licencia de conducir), una tarjeta del seguro social o un certificado de nacimiento.
+Si ha perdido tales documentos, o nunca los obtuvo, esto puede ser un obstáculo para trabajar con esas agencias y programas.
 
-This section of the guide shows you how to obtain or replace documents like these.
+Esta sección de la guía le muestra cómo obtener o reemplazar documentos como estos.
 
-**In this section:**
+**En esta sección:**
 
-- [Social Security Numbers or Cards](#social-security-numbers-or-cards)
-- [ID Cards and Driver’s Licenses](#id-cards-drivers-licenses)
-- [Birth, Death, and Marriage Certificates](#birth-death-marriage-certificates)
-- [Civil Case Documents](#civil-case-documents)
-- [Passports](#passports)
-- [Tips](#document-tips)
+- [Números o Tarjetas del Seguro Social](#social-security-numbers-or-cards)
+- [Tarjetas de Identificación y Licencias de Conducir](#id-cards-drivers-licenses)
+- [Certificados de Nacimiento, Defunción y Matrimonio](#birth-death-marriage-certificates)
+- [Documentos de Casos Civiles](#civil-case-documents)
+- [Pasaportes](#passports)
+- [Consejos](#document-tips)
 
 ### <a id="social-security-numbers-or-cards">Números o Tarjetas del Seguro Social</a>
 
-You do not often need your social security *card*, but you do often need your social security *number*. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
-The [**Social Security Administration**](Directory.md#Social-Security-Administration) can help you get a new Social Security card. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
+A menudo no necesita su *tarjeta* del seguro social, pero sí necesita a menudo su *número* del seguro social. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
+La [**Social Security Administration**](Directory.md#Social-Security-Administration) (Administración del Seguro Social) puede ayudarle a obtener una nueva tarjeta del Seguro Social. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
 
-If you have an account or can create an account at [ssa.gov/myaccount](https://www.ssa.gov/myaccount), you can request a Social Security card online and they will mail it to you. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
-You can get help with this process by calling [800-772-1213](tel:+1-800-772-1213) (TTY: [800-325-0778](tel:+1-800-325-0778)). <!-- Source: https://www.ssa.gov/number-card/replace-card -->
+Si tiene una cuenta o puede crear una cuenta en [ssa.gov/myaccount](https://www.ssa.gov/myaccount), puede solicitar una tarjeta del Seguro Social en línea y se la enviarán por correo. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
+Puede obtener ayuda con este proceso llamando al [800-772-1213](tel:+1-800-772-1213) (TTY: [800-325-0778](tel:+1-800-325-0778)). <!-- Source: https://www.ssa.gov/number-card/replace-card -->
 
-> See [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) for ways to get mail if you do not have a stable mailing address.
+> Vea [Buzones, Apartados Postales, Etc.](#mail-drops-post-office-boxes) para maneras de recibir correo si no tiene una dirección postal estable.
 
-If you are unable to complete this online process, you can visit the local Social Security Administration office to get a new card. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
-It will go more smoothly if you can bring some alternative form of identification like a driver’s license, passport, Medicaid card, military ID, or certificate of naturalization. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
+Si no puede completar este proceso en línea, puede visitar la oficina local de la Administración del Seguro Social para obtener una nueva tarjeta. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
+Será más fluido si puede llevar alguna forma alternativa de identificación como una licencia de conducir, pasaporte, tarjeta de Medicaid, identificación militar o certificado de naturalización. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
 
 ### <a id="id-cards-drivers-licenses">Tarjetas de Identificación y Licencias de Conducir</a>
 
-A state-issued “Real ID,” or a California driver’s license which is also a Real ID, is a useful form of government-issued photo identification card that is widely accepted by a variety of programs, businesses, and service providers. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/what-is-real-id/ -->
-You get such an identification card from the [**California DMV**](Directory.md#California-DMV).
+Una "Real ID" emitida por el estado, o una licencia de conducir de California que también es una Real ID, es una forma útil de tarjeta de identificación con foto emitida por el gobierno que es ampliamente aceptada por una variedad de programas, negocios y proveedores de servicios. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/what-is-real-id/ -->
+Obtiene una tarjeta de identificación así del [**California DMV**](Directory.md#California-DMV) (Departamento de Vehículos Motorizados de California).
 
-You typically first need to already have another identification document (such as a certified birth certificate, a passport, a permanent resident card, a certificate of naturalization or citizenship, or a permanent resident card) as well as documents that demonstrate your California residency (such as a utility bill, tax return, bank statement, or rental agreement that contains your name and address). <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/ and https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/#gf_6 -->
-You can complete an application online, but you must then visit the California DMV office to have your photo taken and to show your documents. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/ -->
+Típicamente primero necesita ya tener otro documento de identificación (como un certificado de nacimiento certificado, un pasaporte, una tarjeta de residente permanente, un certificado de naturalización o ciudadanía, o una tarjeta de residente permanente) así como documentos que demuestren su residencia en California (como una factura de servicios públicos, declaración de impuestos, estado de cuenta bancario o contrato de alquiler que contenga su nombre y dirección). <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/ and https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/#gf_6 -->
+Puede completar una solicitud en línea, pero luego debe visitar la oficina del DMV de California para que le tomen su foto y para mostrar sus documentos. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/ -->
 
-There are also fees you typically must pay to obtain either a Real ID or a driver’s license that operates as a Real ID. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
-However, if you are homeless, you may be able to get a waiver for fees (a “no-fee ID card”), and you may be able to use the address of a homeless shelter or other homeless services agency as your California residency address. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
-This is true even if you are only temporarily homeless because you are fleeing domestic violence or a similar dangerous situation. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
-You can only get a simple Real ID (“California Identification Card”) with the no-fee method, not a driver’s license. <!-- SOURCE NEEDED -->
-Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process. <!-- SOURCE NEEDED -->
+También hay tarifas que típicamente debe pagar para obtener ya sea una Real ID o una licencia de conducir que opera como una Real ID. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
+Sin embargo, si está sin hogar, puede obtener una exención de tarifas (una "tarjeta de identificación sin costo"), y puede usar la dirección de un refugio para personas sin hogar u otra agencia de servicios para personas sin hogar como su dirección de residencia de California. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
+Esto es cierto incluso si solo está temporalmente sin hogar porque está huyendo de violencia doméstica o una situación peligrosa similar. <!-- Source: https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/ -->
+Solo puede obtener una Real ID simple ("Tarjeta de Identificación de California") con el método sin costo, no una licencia de conducir. <!-- SOURCE NEEDED -->
+Proveedores de servicios para personas sin hogar como [**40 Prado Homeless Services Center**](Directory.md#40-Prado), la [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), o la [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) pueden ayudarle con este proceso. <!-- SOURCE NEEDED -->
 
-If you have previously received a Real ID or California driver’s license, but you have lost the card and need to replace it, you can begin this process by visiting [dmv.ca.gov: “Driver’s License of ID Card Replacement”](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/) or the California DMV office.
+Si ha recibido previamente una Real ID o licencia de conducir de California, pero ha perdido la tarjeta y necesita reemplazarla, puede comenzar este proceso visitando [dmv.ca.gov: "Driver's License of ID Card Replacement"](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/) (Reemplazo de Licencia de Conducir o Tarjeta de Identificación) o la oficina del DMV de California.
 
 ### <a id="birth-death-marriage-certificates">Certificados de Nacimiento, Defunción y Matrimonio</a>
 
-If you were born in SLO County, you can obtain a copy of your birth certificate from the [**SLO County Clerk-Recorder**](Directory.md#SLO-County-Clerk-Recorder). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
-You will need to show valid identification (typically, a government-issued photo ID like a driver’s license or passport). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
+Si nació en el Condado de SLO, puede obtener una copia de su certificado de nacimiento del [**SLO County Clerk-Recorder**](Directory.md#SLO-County-Clerk-Recorder) (Secretario-Registrador del Condado de SLO). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
+Necesitará mostrar identificación válida (típicamente, una identificación con foto emitida por el gobierno como una licencia de conducir o pasaporte). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
 
-There is also a $32 fee. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
-However, if you are homeless, you can request an “Affidavit of Homeless Status for Fee Exempt Certified Copy of Birth Certificate.” <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
-You need to sign this and you also need to get a signature from a “homeless services provider.” <!-- SOURCE NEEDED -->
-This exempts you from having to pay the $32 fee. <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
-Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process. <!-- SOURCE NEEDED -->
+También hay una tarifa de $32. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
+Sin embargo, si está sin hogar, puede solicitar una "Declaración Jurada de Estado de Persona Sin Hogar para Copia Certificada de Certificado de Nacimiento Exenta de Tarifa". <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
+Necesita firmar esto y también necesita obtener una firma de un "proveedor de servicios para personas sin hogar". <!-- SOURCE NEEDED -->
+Esto lo exime de tener que pagar la tarifa de $32. <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
+Proveedores de servicios para personas sin hogar como [**40 Prado Homeless Services Center**](Directory.md#40-Prado), la [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), o la [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) pueden ayudarle con este proceso. <!-- SOURCE NEEDED -->
 
-You can obtain a “certified copy” of a birth certificate for yourself or your child or other close relative. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
-A certified copy allows you to establish your identity. <!-- SOURCE NEEDED -->
-Otherwise you can obtain an “informational” copy, which is not valid for establishing identity. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
-Try to learn ahead of time whether you need a certified copy, and, if so, ask for one specifically when you order your copy.
+Puede obtener una "copia certificada" de un certificado de nacimiento para usted mismo o su hijo u otro pariente cercano. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
+Una copia certificada le permite establecer su identidad. <!-- SOURCE NEEDED -->
+De lo contrario, puede obtener una copia "informativa", que no es válida para establecer identidad. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
+Trate de averiguar con anticipación si necesita una copia certificada, y, de ser así, pida una específicamente cuando ordene su copia.
 
-You can also use the [VitalChek](https://www.vitalchek.com/v/vital-records/california/san-luis-obispo-county-recorder) website to order an *informational* copy of your birth certificate online without visiting the SLO County Clerk-Recorder office.
-(You may need to provide a notarized, sworn statement if you want to order a “certified copy” this way, in which case it is probably just as easy to visit the SLO County Clerk-Recorder office.)
-That may cost a bit more.
+También puede usar el sitio web [VitalChek](https://www.vitalchek.com/v/vital-records/california/san-luis-obispo-county-recorder) para ordenar una copia *informativa* de su certificado de nacimiento en línea sin visitar la oficina del Secretario-Registrador del Condado de SLO.
+(Es posible que necesite proporcionar una declaración jurada notariada si quiere ordenar una "copia certificada" de esta manera, en cuyo caso probablemente sea igual de fácil visitar la oficina del Secretario-Registrador del Condado de SLO.)
+Eso puede costar un poco más.
 
-Death records for deaths that occurred in SLO County can also be obtained from the SLO County Clerk-Recorder ($24) or from VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
-Again, there is a difference between “certified” and “informational” copies of death certificates, and you should check which one you need before you order it. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
-You can typically only get a “certified” copy for a close relative, and you may have to provide additional documentation. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
+Los registros de defunción para muertes que ocurrieron en el Condado de SLO también se pueden obtener del Secretario-Registrador del Condado de SLO ($24) o de VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
+Nuevamente, hay una diferencia entre copias "certificadas" e "informativas" de certificados de defunción, y debe verificar cuál necesita antes de ordenarla. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
+Típicamente solo puede obtener una copia "certificada" para un pariente cercano, y puede tener que proporcionar documentación adicional. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
 
-You can also get a copy of a marriage certificate that was issued in SLO County from the SLO County Clerk-Recorder office ($17) or from VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
-Again, there is a difference between “certified” and “informational” copies, and you should check which one you need before you order it. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
-You can typically only get a “certified” copy for yourself or a close relative, and you may have to provide additional documentation. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
+También puede obtener una copia de un certificado de matrimonio que fue emitido en el Condado de SLO de la oficina del Secretario-Registrador del Condado de SLO ($17) o de VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
+Nuevamente, hay una diferencia entre copias "certificadas" e "informativas", y debe verificar cuál necesita antes de ordenarla. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
+Típicamente solo puede obtener una copia "certificada" para usted mismo o un pariente cercano, y puede tener que proporcionar documentación adicional. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
 
-There is no homeless fee exemption program for death and marriage certificates the way there is for birth certificates.
+No hay programa de exención de tarifas para personas sin hogar para certificados de defunción y matrimonio como lo hay para certificados de nacimiento.
 
-If you need a birth, death, or marriage certificate from another county in California, try the [California Department of Public Health’s “Vital Records”](https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records.aspx) web page.
-If you need such records from elsewhere in the U.S. outside California, visit the [National Center for Health Statistics](https://www.cdc.gov/nchs/w2w/index.htm) web page.
-The VitalChek website can often also get you these records from other areas.
+Si necesita un certificado de nacimiento, defunción o matrimonio de otro condado en California, intente con la página web de ["Registros Vitales"](https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records.aspx) del Departamento de Salud Pública de California.
+Si necesita tales registros de otro lugar en EE.UU. fuera de California, visite la página web del [Centro Nacional de Estadísticas de Salud](https://www.cdc.gov/nchs/w2w/index.htm).
+El sitio web VitalChek a menudo también puede conseguirle estos registros de otras áreas.
 
 ### <a id="civil-case-documents">Documentos de Casos Civiles</a>
 
-To get copies of [SLO Superior Court](Directory.md#SLO-Superior-Court) documents in civil cases to which you are a party, first go to the court offices in San Luis Obispo or in Paso Robles.
-Those offices have a publicly-accessible computer at which you can find your case number.
-Court staff can help you with this process.
-Then review the documents associated with that case, choose which documents you want, and request them.
-You must pay 50¢ per page to get printouts of these documents.
+Para obtener copias de documentos del [Tribunal Superior de SLO](Directory.md#SLO-Superior-Court) en casos civiles en los que usted es parte, primero vaya a las oficinas del tribunal en San Luis Obispo o en Paso Robles.
+Esas oficinas tienen una computadora de acceso público en la cual puede encontrar su número de caso.
+El personal del tribunal puede ayudarle con este proceso.
+Luego revise los documentos asociados con ese caso, elija qué documentos quiere y solicítelos.
+Debe pagar 50¢ por página para obtener copias impresas de estos documentos.
 
-If you cannot go to the court offices, you can follow the procedure described on [this web page](https://www.slo.courts.ca.gov/self-help/civil-appeals/getting-copies-court-files) to order documents by mail.
+Si no puede ir a las oficinas del tribunal, puede seguir el procedimiento descrito en [esta página web](https://www.slo.courts.ca.gov/self-help/civil-appeals/getting-copies-court-files) para ordenar documentos por correo.
 
-If you have a lawyer, that lawyer may be able to search for these documents online themselves.
+Si tiene un abogado, ese abogado puede buscar estos documentos en línea ellos mismos.
 
-> See the [Legal Help & Crime Victim Protection](#legal-help) section for some tips on getting help from a lawyer.
+> Vea la sección de [Ayuda Legal y Protección para Víctimas de Crímenes](#legal-help) para algunos consejos sobre cómo obtener ayuda de un abogado.
 
 ### <a id="passports">Pasaportes</a>
 
-A U.S. passport is required for international travel to most countries outside the United States.
-You need a passport to travel by air, land, or sea to most international destinations.
+Se requiere un pasaporte de EE.UU. para viajes internacionales a la mayoría de países fuera de Estados Unidos.
+Necesita un pasaporte para viajar por aire, tierra o mar a la mayoría de destinos internacionales.
 
 #### <a id="first-time-passport">Obtener un Pasaporte por Primera Vez</a>
 
-To apply for your first U.S. passport, you must apply in person at an authorized passport acceptance facility. <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
-You cannot apply by mail for a first-time passport.
-It costs $165 total ($130 application fee + $35 execution fee) to apply for an adult passport. <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
-You must bring the following documents:
+Para solicitar su primer pasaporte de EE.UU., debe solicitarlo en persona en una instalación autorizada de aceptación de pasaportes. <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
+No puede solicitarlo por correo para un pasaporte por primera vez.
+Cuesta $165 en total (tarifa de solicitud de $130 + tarifa de ejecución de $35) solicitar un pasaporte para adulto. <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
+Debe traer los siguientes documentos:
 
-1. Proof of U.S. citizenship (Certified U.S. birth certificate with official seal, or Certificate of Naturalization, or Certificate of Citizenship, or Consular Report of Birth Abroad, or a previous U.S. passport) <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
-   - Note: Digital or mobile birth certificates are not accepted; you must bring a physical birth certificate <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
-2. A photo identification with your picture (driver’s license, government employee ID, U.S. military ID, or Certificate of Naturalization or Citizenship) <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/identification.html -->
-   - Note: Digital or photocopied documents are not accepted; you must bring the original document <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/identification.html -->
-   - You must also submit photocopies of the front and back of your ID <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/identification.html -->
-3. A recent passport photo that meets official requirements <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/photos.html -->
-4. A completed Form DS-11 (do not it sign until you are instructed to do so by the passport agent) <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
+1. Prueba de ciudadanía estadounidense (certificado de nacimiento de EE.UU. certificado con sello oficial, o Certificado de Naturalización, o Certificado de Ciudadanía, o Reporte Consular de Nacimiento en el Extranjero, o un pasaporte estadounidense anterior) <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
+   - Nota: No se aceptan certificados de nacimiento digitales o móviles; debe traer un certificado de nacimiento físico <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
+2. Una identificación con foto con su imagen (licencia de conducir, identificación de empleado del gobierno, identificación militar de EE.UU., o Certificado de Naturalización o Ciudadanía) <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/identification.html -->
+   - Nota: No se aceptan documentos digitales o fotocopiados; debe traer el documento original <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/identification.html -->
+   - También debe presentar fotocopias del frente y reverso de su identificación <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/identification.html -->
+3. Una foto de pasaporte reciente que cumpla con los requisitos oficiales <!-- Source: https://travel.state.gov/content/travel/en/passports/how-apply/photos.html -->
+4. Un Formulario DS-11 completado (no lo firme hasta que el agente de pasaportes le indique hacerlo) <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
 
-You also must provide an address where you can receive your passport by mail.
-If you do not have a stable address, consider using a mail drop service (see the [Mail drops section](#mail-drops-post-office-boxes) of this guide).
+También debe proporcionar una dirección donde pueda recibir su pasaporte por correo.
+Si no tiene una dirección estable, considere usar un servicio de buzón (vea la sección de [Buzones](#mail-drops-post-office-boxes) de esta guía).
 
-You can apply for a passport at the post office.
-Call them to make an appointment:
+Puede solicitar un pasaporte en la oficina de correos.
+Llámelos para hacer una cita:
 
 <!-- Source: https://iafdb.travel.state.gov/ -->
-| City            | Post Office Address | Phone |
-| --------------- | ------------------- | ----- |
+| Ciudad          | Dirección de la Oficina de Correos | Teléfono |
+| --------------- | ----------------------------------- | -------- |
 | Atascadero      | <a href="#" class="map-link" data-lat="35.464331" data-lon="-120.648234" data-zoom="17" data-label="Post Office">9800 El Camino Real</a> | [805-461-6161](tel:+1-805-461-6161) |
 | Cayucos         | <a href="#" class="map-link" data-lat="35.449964" data-lon="-120.903495" data-zoom="17" data-label="Post Office">97 Ash St.</a> | [805-995-3479](tel:+1-805-995-3479) |
 | Grover Beach    | <a href="#" class="map-link" data-lat="35.121670" data-lon="-120.619893" data-zoom="17" data-label="Post Office">917 W. Grand Ave.</a> | [805-489-5138](tel:+1-805-489-5138) |
@@ -2493,78 +2493,78 @@ Call them to make an appointment:
 | San Luis Obispo | <a href="#" class="map-link" data-lat="35.260524" data-lon="-120.680128" data-zoom="17" data-label="Post Office">1655 Dalidio Dr.</a> | [805-543-2605](tel:+1-805-543-2605) |
 | Santa Margarita | <a href="#" class="map-link" data-lat="35.391744" data-lon="-120.608109" data-zoom="17" data-label="Post Office">22360 El Camino Real</a> | [805-438-3950](tel:+1-805-438-3950) |
 
-If you are applying for a new passport, if your passport expired more than five years ago and you need a new one, or if your passport was lost or damaged and you need a new one, you can also apply for a passport at certain [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) branches.
-Call them to make an appointment:
+Si está solicitando un pasaporte nuevo, si su pasaporte expiró hace más de cinco años y necesita uno nuevo, o si su pasaporte se perdió o dañó y necesita uno nuevo, también puede solicitar un pasaporte en ciertas sucursales de [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Bibliotecas Públicas del Condado de SLO).
+Llámelos para hacer una cita:
 
 <!-- Source: https://catalog.slolibrary.org/passport-services and https://iafdb.travel.state.gov/ -->
-- [**Atascadero Library**](Directory.md#SLO-County-Public-Libraries)
-- [**Cambria Library**](Directory.md#SLO-County-Public-Libraries)
-- [**Nipomo Library**](Directory.md#SLO-County-Public-Libraries)
-- [**SLO City Library**](Directory.md#SLO-County-Public-Libraries)
+- [**Biblioteca de Atascadero**](Directory.md#SLO-County-Public-Libraries)
+- [**Biblioteca de Cambria**](Directory.md#SLO-County-Public-Libraries)
+- [**Biblioteca de Nipomo**](Directory.md#SLO-County-Public-Libraries)
+- [**Biblioteca de la Ciudad de SLO**](Directory.md#SLO-County-Public-Libraries)
 
 #### Renovar Su Pasaporte
 
-You can renew your passport by mail if all of the following are true: <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew.html -->
+Puede renovar su pasaporte por correo si todo lo siguiente es cierto: <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew.html -->
 
-- You have your most recent passport with you
-- Your passport is not damaged or mutilated
-- Your passport was issued when you were age 16 or older
-- Your passport was issued in the last 15 years
-- Your passport is in your current name (or you can document a legal name change)
+- Tiene su pasaporte más reciente con usted
+- Su pasaporte no está dañado o mutilado
+- Su pasaporte fue emitido cuando tenía 16 años o más
+- Su pasaporte fue emitido en los últimos 15 años
+- Su pasaporte está a su nombre actual (o puede documentar un cambio legal de nombre)
 
-If you meet these requirements, you can renew by mail using Form DS-82. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew.html -->
-This costs $130 for adults. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew.html -->
-You can also renew online at [travel.state.gov](https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html) if you meet additional eligibility requirements. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html -->
+Si cumple con estos requisitos, puede renovar por correo usando el Formulario DS-82. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew.html -->
+Esto cuesta $130 para adultos. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew.html -->
+También puede renovar en línea en [travel.state.gov](https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html) si cumple con requisitos de elegibilidad adicionales. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html -->
 
-If you cannot renew by mail (for example, if your passport is lost, stolen, damaged, or expired more than five years), you must apply in person using the same process as for a first-time passport. <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
+Si no puede renovar por correo (por ejemplo, si su pasaporte está perdido, robado, dañado o expirado hace más de cinco años), debe solicitarlo en persona usando el mismo proceso que para un pasaporte por primera vez. <!-- Source: https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html -->
 
 #### Reemplazar un Pasaporte Perdido o Robado
 
-If your passport is lost or stolen, follow these steps to get a new one:
+Si su pasaporte está perdido o robado, siga estos pasos para obtener uno nuevo:
 
-1. **Report it immediately:**
-  Report your passport lost or stolen as soon as possible. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html -->
-  This protects you from identity theft. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html -->
-  You can report [online using Form DS-64](https://pptform.state.gov/), by calling [877-487-2778](tel:+1-877-487-2778) (TTY [888-874-7793](tel:+1-888-874-7793)), or in person when you apply for a replacement. <!-- SOURCE NEEDED (https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html does not include phone as option here) -->
-  Note that if you report your passport lost or stolen, you can no longer use it for travel even if you find it later. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html -->
+1. **Repórtelo inmediatamente:**
+  Reporte su pasaporte como perdido o robado tan pronto como sea posible. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html -->
+  Esto lo protege del robo de identidad. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html -->
+  Puede reportarlo [en línea usando el Formulario DS-64](https://pptform.state.gov/), llamando al [877-487-2778](tel:+1-877-487-2778) (TTY [888-874-7793](tel:+1-888-874-7793)), o en persona cuando solicite un reemplazo. <!-- SOURCE NEEDED (https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html does not include phone as option here) -->
+  Tenga en cuenta que si reporta su pasaporte como perdido o robado, ya no puede usarlo para viajar incluso si lo encuentra más tarde. <!-- Source: https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html -->
 
-1. **Apply for a replacement:**
-  To replace a lost or stolen passport, apply in person at an authorized passport acceptance facility.
-  The process and requirements are the same as for a first-time passport application ([see above](#first-time-passport)). <!-- SOURCE NEEDED -->
-  Reporting your passport lost or stolen does not replace it; to get a replacement you must also apply for a new passport.
-  This costs $165.
+1. **Solicite un reemplazo:**
+  Para reemplazar un pasaporte perdido o robado, solicite en persona en una instalación autorizada de aceptación de pasaportes.
+  El proceso y los requisitos son los mismos que para una solicitud de pasaporte por primera vez ([vea arriba](#first-time-passport)). <!-- SOURCE NEEDED -->
+  Reportar su pasaporte como perdido o robado no lo reemplaza; para obtener un reemplazo también debe solicitar un nuevo pasaporte.
+  Esto cuesta $165.
 
 #### Pasaportes de Otros Países
 
-If you are a citizen of another country and you need to obtain or renew a passport from your home country, contact your country’s embassy or consulate.
-The nearest consulates for many countries are located in Los Angeles or San Francisco.
-You can find contact information for embassies and consulates at [embassy.goabroad.com](https://embassy.goabroad.com/) or by searching online for your country’s embassy or consulate in the United States.
+Si es ciudadano de otro país y necesita obtener o renovar un pasaporte de su país de origen, contacte la embajada o consulado de su país.
+Los consulados más cercanos para muchos países están ubicados en Los Ángeles o San Francisco.
+Puede encontrar información de contacto para embajadas y consulados en [embassy.goabroad.com](https://embassy.goabroad.com/) o buscando en línea la embajada o consulado de su país en Estados Unidos.
 
 ### <a id="document-tips">Consejos</a>
 
 #### Almacenamiento y Seguridad de Documentos
 
-Here are some tips for handling important documents:
+Aquí hay algunos consejos para manejar documentos importantes:
 
-- Use your phone camera to take photos of important documents, and save those photos “in the cloud” (iCloud for iPhone, Google Photos for Android) so still have access to your photos if your phone is lost or stolen.
-- Make copies of important documents, and store the copies separately from the originals.
-  That way if you lose one set, you are less likely to lose all of them.
-- Some homeless services centers offer document storage for their clients.
-  Ask your case worker if they can store your important documents in your file at those agencies.
-- If you have enough money, consider storing especially important or difficult-to-replace documents in a safety deposit box at a bank.
-  These can be rented for $30–50 per year. <!-- SOURCE NEEDED -->
+- Use la cámara de su teléfono para tomar fotos de documentos importantes, y guarde esas fotos "en la nube" (iCloud para iPhone, Google Photos para Android) para que aún tenga acceso a sus fotos si su teléfono se pierde o es robado.
+- Haga copias de documentos importantes, y guarde las copias separadamente de los originales.
+  De esa manera si pierde un conjunto, es menos probable que los pierda todos.
+- Algunos centros de servicios para personas sin hogar ofrecen almacenamiento de documentos para sus clientes.
+  Pregunte a su trabajador de casos si pueden almacenar sus documentos importantes en su archivo en esas agencias.
+- Si tiene suficiente dinero, considere almacenar documentos especialmente importantes o difíciles de reemplazar en una caja de seguridad en un banco.
+  Estas se pueden alquilar por $30–50 por año. <!-- SOURCE NEEDED -->
 
 #### Si No Tiene Documentos de Identificación
 
-If you are completely without identifying documentation, you may need help establishing your identity so that you can access programs and services that require you to show them identification.
+Si está completamente sin documentación de identificación, puede necesitar ayuda para establecer su identidad para que pueda acceder a programas y servicios que requieren que les muestre identificación.
 
-You may want to begin by contacting the [**Social Security Administration**](Directory.md#Social-Security-Administration) who can assist you in verifying your identity through their records. <!-- SOURCE NEEDED -->
+Puede comenzar contactando a la [**Administración del Seguro Social**](Directory.md#Social-Security-Administration) que puede ayudarle a verificar su identidad a través de sus registros. <!-- SOURCE NEEDED -->
 
-[**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) can help you through California’s affidavit processes, with which you can establish your identity when you lack identity documentation. <!-- SOURCE NEEDED -->
-This way you can get a California photo ID card, which helps you get access to many programs and services. <!-- SOURCE NEEDED -->
-There is an expensive filing fee for this process, but ask about a fee waiver that is available to people with low incomes. <!-- SOURCE NEEDED -->
+[**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) (Servicios de Autoayuda del Tribunal de SLO) puede ayudarle con los procesos de declaración jurada de California, con los cuales puede establecer su identidad cuando carece de documentación de identidad. <!-- SOURCE NEEDED -->
+De esta manera puede obtener una tarjeta de identificación con foto de California, lo que le ayuda a obtener acceso a muchos programas y servicios. <!-- SOURCE NEEDED -->
+Hay una tarifa de presentación costosa para este proceso, pero pregunte sobre una exención de tarifas que está disponible para personas de bajos ingresos. <!-- SOURCE NEEDED -->
 
-If you have a case manager, ask them if they can help you with this process.
+Si tiene un administrador de casos, pregúntele si puede ayudarle con este proceso.
 
 -----
 
