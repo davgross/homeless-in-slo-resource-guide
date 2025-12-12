@@ -1652,25 +1652,25 @@ El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece pruebas y
 
 #### Personas con Discapacidades
 
-[**California Connect**](Directory.md#California-Connect) can loan you, for free, assistive telecommunications equipment that helps if you have functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://caconnect.org/ -->
+[**California Connect**](Directory.md#California-Connect) puede prestarle, gratis, equipo de telecomunicaciones de asistencia que ayuda si tiene limitaciones funcionales de audición, visión, movilidad, habla y/o interpretación de información. <!-- Source: https://caconnect.org/ -->
 
-The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) helps people with disabilities find or keep employment and live independently. <!-- Source: https://www.dor.ca.gov/Home/GettingStarted -->
-They can help you navigate disability and benefits programs, obtain assistive technologies, and get help with childcare and transportation.
+El [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) ayuda a personas con discapacidades a encontrar o mantener empleo y vivir independientemente. <!-- Source: https://www.dor.ca.gov/Home/GettingStarted -->
+Pueden ayudarle a navegar programas de discapacidad y beneficios, obtener tecnologías de asistencia y obtener ayuda con cuidado infantil y transporte.
 
-[**Disability Rights California**](Directory.md#Disability-Rights-California) helps you understand and defend your legal rights as a disabled person. <!-- Source: https://www.disabilityrightsca.org/what-we-do/programs -->
+[**Disability Rights California**](Directory.md#Disability-Rights-California) (Derechos de Discapacidad de California) le ayuda a entender y defender sus derechos legales como persona discapacitada. <!-- Source: https://www.disabilityrightsca.org/what-we-do/programs -->
 
-The [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) has resources for people with cerebral palsy, mild intellectual disability, mental health disorders, traumatic brain injury, Down syndrome, and spectrum disorders. <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
-[**PathPoint**](Directory.md#PathPoint) also has services for people with developmental disabilities. <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
+La [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) tiene recursos para personas con parálisis cerebral, discapacidad intelectual leve, trastornos de salud mental, lesión cerebral traumática, síndrome de Down y trastornos del espectro. <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
+[**PathPoint**](Directory.md#PathPoint) también tiene servicios para personas con discapacidades del desarrollo. <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
 
-If you use American Sign Language, [**Lifesigns**](Directory.md#Lifesigns) can provide an interpreter to accompany you at your medical appointments. <!-- Source: https://lifesignsinc.org/ -->
-[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) can help with telephone call interpreting. <!-- Sources: https://tcglad.org/human-services/ -->
+Si usa lenguaje de señas americano, [**Lifesigns**](Directory.md#Lifesigns) puede proporcionar un intérprete para acompañarle en sus citas médicas. <!-- Source: https://lifesignsinc.org/ -->
+[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) puede ayudar con interpretación de llamadas telefónicas. <!-- Sources: https://tcglad.org/human-services/ -->
 
 #### Personas con VIH o Hepatitis C
 
-The [**Access Support Network**](Directory.md#ASN) has a variety of services for people impacted by HIV and Hep-C. <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-These include testing, treatment, benefits counseling, help with insurance, harm reduction (including Narcan and suboxone), infection prevention, and wound care. <!-- Sources: https://accesssupportnetwork.org/programs/hiv/ and https://accesssupportnetwork.org/programs/hep-c/ -->
+La [**Access Support Network**](Directory.md#ASN) (Red de Apoyo de Acceso) tiene una variedad de servicios para personas impactadas por VIH y Hepatitis C. <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+Estos incluyen pruebas, tratamiento, asesoramiento de beneficios, ayuda con seguro, reducción de daños (incluyendo Narcan y suboxona), prevención de infecciones y cuidado de heridas. <!-- Sources: https://accesssupportnetwork.org/programs/hiv/ and https://accesssupportnetwork.org/programs/hep-c/ -->
 
-[**The Center for Health & Prevention**](Directory.md#The-Center) offers HIV/Hep-C testing. <!-- Source: https://capslo.org/the-center/ -->
+[**The Center for Health & Prevention**](Directory.md#The-Center) (El Centro para la Salud y Prevención) ofrece pruebas de VIH/Hepatitis C. <!-- Source: https://capslo.org/the-center/ -->
 
 #### Personas Mayores
 
@@ -1678,68 +1678,68 @@ These include testing, treatment, benefits counseling, help with insurance, harm
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
 -->
 
-The [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) offers a variety of services for seniors, including [**Senior Connection**](Directory.md#Senior-Connection) (an information and referral service), the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
-They can help you with nutrition and meal services, transportation, and care management.
+La [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) (Comisión de la Costa Central para Ciudadanos de la Tercera Edad) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia), el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC) (Centro de Recursos para el Envejecimiento y la Discapacidad de la Costa Central), y el [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP) (Programa de Asesoramiento y Defensa de Seguros de Salud).
+Pueden ayudarle con nutrición y servicios de comidas, transporte y gestión de cuidado.
 
 #### Adolescentes y Jóvenes
 
-[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s [**Teen Wellness**](Directory.md#Teen-Wellness) program includes health coaching, strength classes, mindfulness workshops, and reproductive health education. <!-- Source: https://capslo.org/teen-health-education/ -->
+El programa [**Teen Wellness**](Directory.md#Teen-Wellness) (Bienestar Adolescente) de [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) incluye entrenamiento de salud, clases de fuerza, talleres de atención plena y educación sobre salud reproductiva. <!-- Source: https://capslo.org/teen-health-education/ -->
 
 #### Mujeres
 
-[**The Center for Health & Prevention**](Directory.md#The-Center) offers breast exams, referrals for free mammograms, Pap smears, and menopausal services. <!-- Source: https://capslo.org/the-center/ -->
+[**The Center for Health & Prevention**](Directory.md#The-Center) (El Centro para la Salud y Prevención) ofrece exámenes de senos, referencias para mamografías gratuitas, papanicolaou y servicios menopáusicos. <!-- Source: https://capslo.org/the-center/ -->
 
-The [**Community Health Centers**](Directory.md#CHC) offices at 1057 E. Grand Ave. in Arroyo Grande, in Nipomo, at 1551 Bishop St. in SLO, and at 292 Posada Ln. in Templeton specialize in women’s health. <!-- Source: https://www.communityhealthcenters.org/locations/ -->
+Las oficinas de [**Community Health Centers**](Directory.md#CHC) (Centros de Salud Comunitarios) en 1057 E. Grand Ave. en Arroyo Grande, en Nipomo, en 1551 Bishop St. en SLO, y en 292 Posada Ln. en Templeton se especializan en salud de mujeres. <!-- Source: https://www.communityhealthcenters.org/locations/ -->
 
 <!-- Not listed here: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) offers cervical- and breast-cancer screening and menopause treatment.
 -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a women’s mobile health unit. <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) (Fundación SLO Noor) tiene una unidad móvil de salud para mujeres. <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
 
-### <a id="poison-oak">Hiedra Venenosa</a>
+### <a id="poison-oak">Roble Venenoso</a>
 
-Poison oak is a common plant in SLO County and grows everywhere from shaded wet creek beds to dry sunny hillsides. <!-- Sources: https://www.calflora.org/entry/observ.html#srch=t&taxon=Toxicodendron+diversilobum&lpcli=t&cch=t&inat=r&chk=t&cc=SLO and https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=46791 -->
-It is a shrub or vine and sometimes also climbs trees and so can appear to be tree branches. <!-- Source: https://www.fs.usda.gov/database/feis/plants/vine/toxdiv/all.html -->
-Its leaves appear in groups of three, but they can have a variety of shapes and colors (dark to pale green, pale orange, bright red). <!-- Source: https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=46791 -->
-The plants sometimes also display clusters of tiny green, pale, or brown fruits. <!-- Source: https://ipm.ucanr.edu/PMG/WEEDS/pacific_poisonoak.html -->
+El roble venenoso es una planta común en el condado de SLO y crece en todas partes, desde lechos de arroyos húmedos y sombreados hasta laderas secas y soleadas. <!-- Sources: https://www.calflora.org/entry/observ.html#srch=t&taxon=Toxicodendron+diversilobum&lpcli=t&cch=t&inat=r&chk=t&cc=SLO and https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=46791 -->
+Es un arbusto o enredadera y a veces también trepa árboles y así puede parecer ser ramas de árbol. <!-- Source: https://www.fs.usda.gov/database/feis/plants/vine/toxdiv/all.html -->
+Sus hojas aparecen en grupos de tres, pero pueden tener una variedad de formas y colores (verde oscuro a verde pálido, naranja pálido, rojo brillante). <!-- Source: https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=46791 -->
+Las plantas a veces también muestran racimos de frutas pequeñas verdes, pálidas o marrones. <!-- Source: https://ipm.ucanr.edu/PMG/WEEDS/pacific_poisonoak.html -->
 
 <div class="poison-oak-images">
 
-![poison oak: flat green leaves with simple borders](/poison-oak-1.png)
-![poison oak: flat red leaves with undulating borders](/poison-oak-2.png)
-![poison oak: glossy red and green leaves](/poison-oak-3.png)
+![roble venenoso: hojas verdes planas con bordes simples](/poison-oak-1.png)
+![roble venenoso: hojas rojas planas con bordes ondulados](/poison-oak-2.png)
+![roble venenoso: hojas brillantes rojas y verdes](/poison-oak-3.png)
 
 </div>
 
-The plant exudes an oil that causes a skin rash in people who touch it. <!-- Source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/poison-ivy%2D%2Dpoison-oak -->
-You do not have to touch the plant to be affected: you just need to touch the oil, which can rub off onto clothing, pet fur, or other items and may remain poisonous for years. <!-- Source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/poison-ivy%2D%2Dpoison-oak -->
-If you have been near a fire in which poison oak plants were burned, you may be exposed to the oil through the smoke. <!-- Source: https://ipm.ucanr.edu/home-and-landscape/poison-oak/#gsc.tab=0 -->
-You can prevent the rash by washing your skin thoroughly as soon as possible after exposure and by washing any clothing or other items that may be carrying the oil. <!-- Source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/poison-ivy%2D%2Dpoison-oak -->
-Rubbing alcohol or detergent soaps can be helpful in removing oils. <!-- Sources: https://ipm.ucanr.edu/home-and-landscape/poison-oak/#INTRODUCTION_65_1 and https://www.cdc.gov/niosh/docs/2010-118/default.html -->
+La planta exuda un aceite que causa una erupción cutánea en las personas que la tocan. <!-- Source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/poison-ivy%2D%2Dpoison-oak -->
+No tiene que tocar la planta para ser afectado: solo necesita tocar el aceite, que puede transferirse a la ropa, el pelaje de mascotas u otros artículos y puede permanecer venenoso durante años. <!-- Source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/poison-ivy%2D%2Dpoison-oak -->
+Si ha estado cerca de un incendio en el que se quemaron plantas de roble venenoso, puede estar expuesto al aceite a través del humo. <!-- Source: https://ipm.ucanr.edu/home-and-landscape/poison-oak/#gsc.tab=0 -->
+Puede prevenir la erupción lavando su piel completamente tan pronto como sea posible después de la exposición y lavando cualquier ropa u otros artículos que puedan estar portando el aceite. <!-- Source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/poison-ivy%2D%2Dpoison-oak -->
+El alcohol para frotar o jabones detergentes pueden ser útiles para eliminar los aceites. <!-- Sources: https://ipm.ucanr.edu/home-and-landscape/poison-oak/#INTRODUCTION_65_1 and https://www.cdc.gov/niosh/docs/2010-118/default.html -->
 
-The rash typically appears 12–48 hours, or even several days after exposure. <!-- Sources: https://www.mayoclinic.org/diseases-conditions/poison-ivy/symptoms-causes/syc-20376485 and https://www.healthline.com/health/outdoor-health/poison-oak-pictures-remedies -->
-It is typically very itchy, and sometimes blisters.
-You can treat the rash with over-the-counter steroid (such as hydrocortisone) creams, calamine lotion, or antihistamines. <!-- Source: https://www.mayoclinic.org/diseases-conditions/poison-ivy/diagnosis-treatment/drc-20376490 -->
+La erupción típicamente aparece 12–48 horas, o incluso varios días después de la exposición. <!-- Sources: https://www.mayoclinic.org/diseases-conditions/poison-ivy/symptoms-causes/syc-20376485 and https://www.healthline.com/health/outdoor-health/poison-oak-pictures-remedies -->
+Típicamente pica mucho, y a veces produce ampollas.
+Puede tratar la erupción con cremas esteroides de venta libre (como hidrocortisona), loción de calamina o antihistamínicos. <!-- Source: https://www.mayoclinic.org/diseases-conditions/poison-ivy/diagnosis-treatment/drc-20376490 -->
 
-If you have trouble breathing or swallowing, you may have inhaled some oils (for example from smoke) and you may be experiencing severe respiratory irritation. <!-- Source: https://ipm.ucanr.edu/home-and-landscape/poison-oak/#gsc.tab=0 -->
-In such a case you should seek medical attention.
+Si tiene problemas para respirar o tragar, puede haber inhalado algunos aceites (por ejemplo del humo) y puede estar experimentando irritación respiratoria severa. <!-- Source: https://ipm.ucanr.edu/home-and-landscape/poison-oak/#gsc.tab=0 -->
+En tal caso debe buscar atención médica.
 
 ### <a id="sunburn">Quemaduras Solares</a>
 
-Sunburn is painful. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
-It also can make you fatigued and more susceptible to infection. <!-- Sources: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 and https://www.cancer.org/cancer/risk-prevention/sun-and-uv/uv-radiation.html -->
-In the long run it can put you at higher risk of developing skin cancer. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
+Las quemaduras solares son dolorosas. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
+También pueden hacerle sentir fatigado y más susceptible a infecciones. <!-- Sources: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 and https://www.cancer.org/cancer/risk-prevention/sun-and-uv/uv-radiation.html -->
+A largo plazo puede aumentar su riesgo de desarrollar cáncer de piel. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 
-Homeless people are more prone to sunburn because they have fewer options to escape the mid-day sun.
-You can reduce your risk of sunburn by finding shady places to rest during the day, by wearing more thoroughly-covering clothing like long-sleeved shirts and broad-brimmed hats, and by applying sunscreen. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
-Ask homeless service providers if they have any sunscreen they can give you. Sometimes they do.
+Las personas sin hogar son más propensas a las quemaduras solares porque tienen menos opciones para escapar del sol del mediodía.
+Puede reducir su riesgo de quemaduras solares encontrando lugares sombreados para descansar durante el día, usando ropa que cubra más completamente como camisas de manga larga y sombreros de ala ancha, y aplicando protector solar. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
+Pregunte a los proveedores de servicios para personas sin hogar si tienen protector solar que puedan darle. A veces lo tienen.
 
-> See the [Clothing](#clothing) section of this guide for some tips on where to find free or low-cost clothing.
+> Vea la sección [Ropa](#clothing) de esta guía para algunos consejos sobre dónde encontrar ropa gratis o de bajo costo.
 
-If you develop a sunburn, you can get some relief with over-the-counter salves and creams, or just by keeping the area moist (perhaps with a dampened cloth). <!-- Source: https://www.mayoclinic.org/first-aid/first-aid-sunburn/basics/art-20056643 -->
-If you have blisters that break, keep the area clean and covered with a bandage. <!-- Source: https://www.mayoclinic.org/first-aid/first-aid-sunburn/basics/art-20056643 -->
-If you notice increasing redness that spreads beyond the area of the burn, or pus, or if you develop a fever, seek medical care as this may indicate an infection. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
+Si desarrolla una quemadura solar, puede obtener algo de alivio con ungüentos y cremas de venta libre, o simplemente manteniendo el área húmeda (quizás con un paño humedecido). <!-- Source: https://www.mayoclinic.org/first-aid/first-aid-sunburn/basics/art-20056643 -->
+Si tiene ampollas que se rompen, mantenga el área limpia y cubierta con una venda. <!-- Source: https://www.mayoclinic.org/first-aid/first-aid-sunburn/basics/art-20056643 -->
+Si nota enrojecimiento creciente que se extiende más allá del área de la quemadura, o pus, o si desarrolla fiebre, busque atención médica ya que esto puede indicar una infección. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 
 <!--
 ### Uncategorized / Needs Research
