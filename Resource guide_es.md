@@ -3424,80 +3424,80 @@ You may need to upload documents such as the children’s birth certificates to 
 [**Salvation Army**](Directory.md#Salvation-Army) operates the “Angel Tree” program which provides free Christmas gifts for children.
 Register at [this web page](https://www.saangeltree.org/).
 
-The [Toy Bank of Greater Paso Robles](https://www.prtoybank.org/) gives toys and coats to families with children aged 0–12 years who live in Paso Robles, San Miguel, Shandon, Bradley and Heritage Ranch and who have a household income blow the federal poverty line, or are unemployed, receiving Medi-Cal, receiving SNAP/EBT, or homeless. <!-- Source: https://www.prtoybank.org/general-5 -->
-To receive gifts from the program, register in November at [this web page](https://www.prtoybank.org/copy-of-family-registration).
-For questions, contact [805-369-9816](tel:+1-805-369-9816) or [registration@prtoybank.org](mailto:registration@prtoybank.org). <!-- Source: https://www.prtoybank.org/general-5 -->
+El [Banco de Juguetes del Gran Paso Robles](https://www.prtoybank.org/) (Toy Bank of Greater Paso Robles) da juguetes y abrigos a familias con niños de 0–12 años que viven en Paso Robles, San Miguel, Shandon, Bradley y Heritage Ranch y que tienen un ingreso familiar por debajo de la línea federal de pobreza, o están desempleadas, reciben Medi-Cal, reciben SNAP/EBT, o están sin hogar. <!-- Source: https://www.prtoybank.org/general-5 -->
+Para recibir regalos del programa, regístrese en noviembre en [esta página web](https://www.prtoybank.org/copy-of-family-registration).
+Para preguntas, contacte al [805-369-9816](tel:+1-805-369-9816) o [registration@prtoybank.org](mailto:registration@prtoybank.org). <!-- Source: https://www.prtoybank.org/general-5 -->
 
-Toys for Tots gives toys to children during the holidays.
-They operate in [Atascadero/Santa Margarita/Templeton/Pozo/Creston/California Valley](https://atascadero-ca.toysfortots.org/).
-Register for toys for your children [at this web page](https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx).
-You must select and collect the toys in person (but without your children) at their distribution site. <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx -->
-For more information, contact [805-391-4430](tel:+1-805-391-4430) or [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org). <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
+Toys for Tots (Juguetes para Niños) da juguetes a niños durante las festividades.
+Operan en [Atascadero/Santa Margarita/Templeton/Pozo/Creston/California Valley](https://atascadero-ca.toysfortots.org/).
+Regístrese para juguetes para sus hijos [en esta página web](https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx).
+Debe seleccionar y recoger los juguetes en persona (pero sin sus hijos) en su sitio de distribución. <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx -->
+Para más información, contacte al [805-391-4430](tel:+1-805-391-4430) o [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org). <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
 
-Toys for Tots also operates in [Cambria/San Simeon](https://cambria-ca.toysfortots.org/).
-For more information, contact [805-927-1876](tel:+1-805-927-1876) or [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). <!-- Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
+Toys for Tots también opera en [Cambria/San Simeon](https://cambria-ca.toysfortots.org/).
+Para más información, contacte al [805-927-1876](tel:+1-805-927-1876) o [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). <!-- Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
 
 Some people who are imprisoned at the SLO County Jail’s “Honor Farm” refurbish children’s bicycles so they can be given away as gifts during the holiday season. <!-- SOURCE NEEDED -->
 To apply for a free bicycle for your child, contact your child’s elementary or middle school resource officer. <!-- SOURCE NEEDED -->
 
-> See the [(Mostly) Free Stuff](#miscellaneous-free-items) section of this guide for more possible gift ideas.
+> Vea la sección [Cosas (Mayormente) Gratuitas](#miscellaneous-free-items) de esta guía para más ideas posibles de regalos.
 
 ### <a id="homeless-youth">Recursos para Jóvenes sin Hogar</a>
 
-> See the [Hotlines and Emergency Contacts](#emergency-contacts) section of this guide for the Youth Crisis Line, the National Runaway Safeline, the Love is Respect line, and the Trevor Lifeline.
+> Vea la sección [Líneas Directas y Contactos de Emergencia](#emergency-contacts) de esta guía para la Línea de Crisis Juvenil (Youth Crisis Line), la Línea de Seguridad Nacional para Fugitivos (National Runaway Safeline), la línea Love is Respect (El Amor es Respeto), y la Línea de Vida Trevor (Trevor Lifeline).
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) has a [Homeless Youth Outreach](https://5chc.org/programs/homeless-youth-outreach) program that offers individualized case management to unaccompanied homeless youth (ages 16–24) with the goal of helping them with immediate needs, housing, independent living, steady employment, and continued education.
+La [**5Cities Homeless Coalition**](Directory.md#5CHC) tiene un programa de [Alcance a Jóvenes sin Hogar](https://5chc.org/programs/homeless-youth-outreach) (Homeless Youth Outreach) que ofrece manejo de casos individualizado a jóvenes sin hogar no acompañados (edades 16–24) con el objetivo de ayudarles con necesidades inmediatas, vivienda, vida independiente, empleo estable y educación continua.
 
-SLO County youth (ages 21 or below, or current or former foster youth up to age 26) who are enrolled in [**CenCal Health**](Directory.md#CenCal) qualify for [**Administración de la Atención Mejorada (ECM)**](Directory.md#Enhanced-Care-Management) through [**Seneca Central Coast**](Directory.md#Seneca-Central-Coast) if one of the following is true:
+Los jóvenes del Condado de SLO (edades 21 o menos, o jóvenes actuales o anteriores de hogares de crianza hasta la edad de 26) que están inscritos en [**CenCal Health**](Directory.md#CenCal) califican para [**Administración de la Atención Mejorada (ECM)**](Directory.md#Enhanced-Care-Management) (Enhanced Care Management) a través de [**Seneca Central Coast**](Directory.md#Seneca-Central-Coast) si una de las siguientes es verdadera:
 
-- They are experiencing homelessness.
-- They are transitioning out of incarceration.
-- They are a current or former foster youth.
-- They have significant behavioral health needs.
-- They experience frequent hospitalization.
+- Están experimentando falta de hogar.
+- Están en transición fuera del encarcelamiento.
+- Son jóvenes actuales o anteriores de hogares de crianza.
+- Tienen necesidades significativas de salud del comportamiento.
+- Experimentan hospitalización frecuente.
 
-Administración de la Atención Mejorada teams you up with a professional who can help you find medical providers, make appointments, arrange transportation to appointments, and meet other healthcare needs. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
-To apply for Administración de la Atención Mejorada, contact [**CenCal Health**](Directory.md#CenCal) who can help you with the process, or contact Seneca Central Coast directly. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
+La Administración de la Atención Mejorada le empareja con un profesional que puede ayudarle a encontrar proveedores médicos, hacer citas, organizar transporte a las citas y satisfacer otras necesidades de atención médica. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
+Para solicitar la Administración de la Atención Mejorada, contacte a [**CenCal Health**](Directory.md#CenCal) quien puede ayudarle con el proceso, o contacte directamente a Seneca Central Coast. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
 
-[**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) has a [Teen Center](https://www.atascadero.org/service/teen-center), open weekday afternoons until 6pm, with air hockey, pool, ping pong, PS5, movies, board games, dodgeball, and basketball.
-Membership is $20/year. <!-- Source: https://www.atascadero.org/service/teen-center -->
-Atascadero Recreation also has organized sports programs, classes, and camps. <!-- Source: https://www.atascadero.org/service/recreation-guide -->
-There is a Youth Activity Scholarship Fund that can pay for up to $250 per child in registration fees for qualifying children in the Atascadero School District ([details here](https://www.atascadero.org/sites/default/files/Scholarship%20application%20English%20%28fiscal%20year%202025-2026%29.pdf))
+[**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) tiene un [Centro para Adolescentes](https://www.atascadero.org/service/teen-center) (Teen Center), abierto las tardes de días laborables hasta las 6pm, con air hockey, billar, ping pong, PS5, películas, juegos de mesa, dodgeball y baloncesto.
+La membresía es $20/año. <!-- Source: https://www.atascadero.org/service/teen-center -->
+Atascadero Recreation también tiene programas deportivos organizados, clases y campamentos. <!-- Source: https://www.atascadero.org/service/recreation-guide -->
+Hay un Fondo de Becas para Actividades Juveniles (Youth Activity Scholarship Fund) que puede pagar hasta $250 por niño en cuotas de inscripción para niños calificados en el Distrito Escolar de Atascadero ([detalles aquí](https://www.atascadero.org/sites/default/files/Scholarship%20application%20English%20%28fiscal%20year%202025-2026%29.pdf))
 
-[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) has a free [Teen Center](https://www.prcity.com/1177/Teen-Center), open weekday afternoons until 5pm, with video games, music, a pool table, a gym, and a small cafe.
-Paso Robles Parks & Recreation also offers many [classes, sports, and other activities](https://anc.apm.activecommunities.com/prcityrecreation/activity/search?onlineSiteId=0&locale=en-US&activity_select_param=2&activity_category_ids=8&activity_category_ids=13&viewMode=list).
-They typically cost money, but there is [a scholarship program](https://www.prcity.com/1193/Scholarships) for people with low incomes.
+[**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) tiene un [Centro para Adolescentes](https://www.prcity.com/1177/Teen-Center) (Teen Center) gratuito, abierto las tardes de días laborables hasta las 5pm, con videojuegos, música, una mesa de billar, un gimnasio y un pequeño café.
+Paso Robles Parks & Recreation también ofrece muchas [clases, deportes y otras actividades](https://anc.apm.activecommunities.com/prcityrecreation/activity/search?onlineSiteId=0&locale=en-US&activity_select_param=2&activity_category_ids=8&activity_category_ids=13&viewMode=list).
+Típicamente cuestan dinero, pero hay [un programa de becas](https://www.prcity.com/1193/Scholarships) para personas con bajos ingresos.
 
-[**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) offers [a variety of sports clinics, classes, and camps](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide).
-They have a [limited fee reduction program](https://www.slocity.org/home/showpublisheddocument/37652/638875686889030000) that helps eligible SLO city children obtain scholarship credit towards program fees.
+[**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) (Parques y Recreación de la Ciudad de SLO) ofrece [una variedad de clínicas deportivas, clases y campamentos](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide).
+Tienen un [programa limitado de reducción de cuotas](https://www.slocity.org/home/showpublisheddocument/37652/638875686889030000) que ayuda a los niños elegibles de la ciudad de SLO a obtener crédito de becas para las cuotas de programas.
 
-> See also [Medical Resources for Specific Populations: Teens & Youth](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for youth-oriented medical care.
+> Vea también [Recursos Médicos para Poblaciones Específicas: Adolescentes y Jóvenes](#medical-resources-specific-populations) en la sección [Salud y Atención Médica](#health-medical-care) de esta guía para atención médica orientada a jóvenes.
 
-> See the [Peer Support Groups: Behavioral Health](#behavioral-health-peer-support) section for information about Alateen and Narateen groups for teens who have family members who are addicts.
+> Vea la sección [Grupos de Apoyo entre Pares: Salud del Comportamiento](#behavioral-health-peer-support) para información sobre los grupos Alateen y Narateen para adolescentes que tienen familiares que son adictos.
 
-> See the [Peer Support Groups: GLTBQ+](#glbtq-peer-support) section for information about support groups for queer and trans youth.
+> Vea la sección [Grupos de Apoyo entre Pares: GLTBQ+](#glbtq-peer-support) para información sobre grupos de apoyo para jóvenes queer y trans.
 
 > See [Free Clothes for Kids](#free-clothes-for-kids) in the [Clothing](#clothing) section of this guide for information about “Coats for Kids,” “Operation School Bell,” “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel.”
 
 #### Continuidad Educativa (Ley McKinney-Vento)
 
-Federal law (the McKinney-Vento Homeless Assistance Act) protects homeless students in elementary through high school in several ways: <!-- Source: https://nche.ed.gov/legislation/mckinney-vento/ -->
+La ley federal (la Ley de Asistencia a Personas sin Hogar McKinney-Vento, McKinney-Vento Homeless Assistance Act) protege a los estudiantes sin hogar en la escuela primaria hasta la secundaria de varias maneras: <!-- Source: https://nche.ed.gov/legislation/mckinney-vento/ -->
 
-1. You have the right to enroll in school even if you currently lack documents such as proof of residency, immunization records, or birth certificates.
-1. You have the right to attend the same school you were enrolled in when you were last housed, even if you have since lost your home.
-1. You have the right to transportation to and from school.
-1. You have the right to the same educational services as non-homeless students.
-1. If you are an unaccompanied homeless youth, you have the right to enroll in school without the consent of your parent or guardian.
+1. Tiene el derecho de inscribirse en la escuela incluso si actualmente carece de documentos como prueba de residencia, registros de inmunización o certificados de nacimiento.
+1. Tiene el derecho de asistir a la misma escuela en la que estaba inscrito cuando tuvo una vivienda por última vez, incluso si desde entonces ha perdido su hogar.
+1. Tiene el derecho al transporte hacia y desde la escuela.
+1. Tiene el derecho a los mismos servicios educativos que los estudiantes que no están sin hogar.
+1. Si es un joven sin hogar no acompañado, tiene el derecho de inscribirse en la escuela sin el consentimiento de su padre o tutor.
 
-Homelessness, as the McKinney-Vento Act defines it, also includes situations when you are couch surfing, living in a motel or campground, living in a vehicle, living in a shelter, or squatting in an abandoned building. <!-- Source: https://nche.ed.gov/mckinney-vento-definition/ -->
+La falta de hogar, según la define la Ley McKinney-Vento, también incluye situaciones cuando está haciendo "couch surfing" (durmiendo en sofás de otros), viviendo en un motel o campamento, viviendo en un vehículo, viviendo en un refugio, o ocupando un edificio abandonado. <!-- Source: https://nche.ed.gov/mckinney-vento-definition/ -->
 
-Every school district has a McKinney-Vento liaison whom you can go to if you need help defending these rights.
-You can find [a list of these liaisons and their contact information](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) at the SLO County Office of Education website.
+Cada distrito escolar tiene un enlace McKinney-Vento a quien puede acudir si necesita ayuda para defender estos derechos.
+Puede encontrar [una lista de estos enlaces y su información de contacto](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/) en el sitio web de la Oficina de Educación del Condado de SLO.
 
 The SLO County Office of Education’s [“Homeless and Foster Youth Services Coordinating Program”](https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/) can help homeless and foster youth manage their enrollment in school, including choosing which school to attend, getting their records transferred from previous schools, and finding resources that will be useful to them.
 To access this program, contact the McKinney-Vento liaison for your school district or contact the County Office of Education at [805-782-7268](tel:+1-805-782-7268) or [jthomas@slocoe.org](mailto:jthomas@slocoe.org).
 
-> See [High School Diplomas and their Equivalents](#diploma-ged-hiset) in the [Education](#education-job-skills-training) section of this guide for ways to stay on track to get your diploma.
+> Vea [Diplomas de Secundaria y sus Equivalentes](#diploma-ged-hiset) en la sección [Educación](#education-job-skills-training) de esta guía para maneras de mantenerse en camino para obtener su diploma.
 
 <!-- TBD
 ### Uncategorized / Needs Research
