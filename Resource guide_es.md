@@ -1335,11 +1335,11 @@ Las cuatro salas de emergencias participan en el programa "Hospital Presumptive 
 
 ### <a id="urgent-care">Opciones de Atención Urgente</a>
 
-Visit an urgent care center when you have a medical problem that needs prompt attention but is not life-threatening.
-Urgent care centers treat conditions that are too serious to wait for a doctor’s appointment but that do not require emergency room services.
-The wait is usually shorter than emergency rooms, and the cost is typically lower for non-emergency conditions.
-Most urgent care centers accept walk-ins, and some also allow appointments.
-Bring your insurance card, identification, and a list of medications you take.
+Visite un centro de atención urgente cuando tenga un problema médico que necesita atención inmediata pero que no pone en peligro la vida.
+Los centros de atención urgente tratan condiciones que son demasiado serias para esperar una cita con el médico pero que no requieren servicios de sala de emergencias.
+La espera generalmente es más corta que en las salas de emergencias, y el costo es típicamente más bajo para condiciones que no son de emergencia.
+La mayoría de los centros de atención urgente aceptan visitas sin cita, y algunos también permiten citas.
+Traiga su tarjeta de seguro, identificación y una lista de los medicamentos que toma.
 
 <!-- Sources:
  CHC: https://www.communityhealthcenters.org/patient-resources/payment/
@@ -1350,22 +1350,22 @@ Bring your insurance card, identification, and a list of medications you take.
  Cottage: https://www.cottagehealth.org/urgent-care/appointments/san-luis-obispo-marigold-center/ and https://www.cencalhealth.org/wp-content/uploads/2025/01/Feb2025_SLO_PrintDirectory_tagged.pdf
  FIMC: https://fimcslo.com/faq/
 -->
-| Urgent Care Location                                                                                | Medicare | Medi-Cal |
+| Ubicación de Atención Urgente                                                                       | Medicare | Medi-Cal |
 | --------------------------------------------------------------------------------------------------- | -------- | -------- |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | Yes      | Yes      |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Yes      | Yes      |
-| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)     | Yes      | No       |
-| [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | Yes      | No       |
-| [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Yes      | No       |
-| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | Yes      | No       |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Yes      | Yes      |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | Sí       | Yes      |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Sí       | Yes      |
+| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)     | Sí       | No       |
+| [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | Sí       | No       |
+| [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Sí       | No       |
+| [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | Sí       | No       |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Sí       | Yes      |
 | [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | ?        | ?        |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Yes      | Yes      |
-| [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | Yes      | No       |
-| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | Yes      | Yes      |
-| [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | Yes      | No       |
-| [**MedStop**](Directory.md#MedStop) (SLO)                                                           | Yes      | No       |
-| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | Yes      | Yes      |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Sí       | Yes      |
+| [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | Sí       | No       |
+| [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | Sí       | Yes      |
+| [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | Sí       | No       |
+| [**MedStop**](Directory.md#MedStop) (SLO)                                                           | Sí       | No       |
+| [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | Sí       | Yes      |
 
 ### <a id="health-insurance">Seguro Médico</a>
 
