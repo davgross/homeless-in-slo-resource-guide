@@ -22,7 +22,7 @@
 - **How to access:** come to the shelter during intake hours
    - To use the shelter, you must be homeless, you must have a valid photo ID, and you must not have a P.C. 290 sex offender criminal record. You must be able to care for yourself independently (bathing, feeding, dressing, etc.). There are a limited number of beds; priority is given to SLO county residents.
 - Notes:
-   - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
+   - operates [**Programa Rotativo de Estacionamiento Seguro Nocturno**](#Rotating-Overnight-Safe-Parking-Program)
    - operates [**SLO Hub**](#SLO-Hub) <!-- Source: https://capslo.org/40-prado/ -->
    - operates the “Mid County Warming and Cooling Center” <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - operates the “40 Prado Safe Parking Program” <!-- Source: https://capslo.org/safe-parking/ -->
@@ -127,6 +127,23 @@
    - [213-977-5253](tel:+1-213-977-5253) (legal intake)
 - **Hours:** M–F 10am–7pm
 
+## <a id="Enhanced-Care-Management">Administración de la Atención Mejorada</a> (ECM)
+
+- **Website:** [slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management)
+- **Phone:** [805-781-4687](tel:+1-805-781-4687) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+- **Email:** [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
+- Notes:
+   - [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entry-point for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
+   - Offered to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
+
+## <a id="Social-Security-Administration">Administración del Seguro Social</a>
+
+- **Website:** [ssa.gov](https://www.ssa.gov/)
+- **Location:** <a href="#" class="map-link" data-lat="35.256200" data-lon="-120.668801" data-zoom="17" data-label="Administración del Seguro Social">3240 S. Higuera St., SLO</a> <!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
+- **Phone:** [855-207-4865](tel:+1-855-207-4865) (TTY: [800-325-0778](tel:+1-800-325-0778))<!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
+- **Hours:** M–F 9am–4pm <!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
+- **How to access:** Call to schedule an appointment
+
 ## <a id="Adult-Protective-Services">Adult Protective Services</a>
 
 - **Website:** [Slocounty.ca.gov/APS](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29)
@@ -144,8 +161,8 @@
 - **Phone:** [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm); [844-729-8011](tel:+1-844-729-8011) (after hours); [911](tel:+1-911) (emergency) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
 - **Hours:** M–F 8am–4pm (and by appointment only 4–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
 - Notes:
-   - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
-   - Can make referrals to [**Center for Family Strengthening (CFS)**](#CFS)
+   - Can make referrals to [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
+   - Can make referrals to [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
 
 ## Adult School
 
@@ -251,7 +268,7 @@
 - **Hours:** Open 7 days/week (see [meeting schedule](https://sloalanoclub.org/meeting-schedule) for specific meeting times)
 <!-- Note: The club is open daily but specific facility operating hours are not publicly listed; contact directly for details -->
 
-## <a id="AA">Alcoholics Anonymous</a>
+## <a id="AA">Alcohólicos Anónimos</a>
 
 - **Website:** [sloaa.org](https://sloaa.org/)
 - **Location:** 1333 Van Beurden Dr. #102, Los Osos <!-- Source: https://www.sloaa.org/ -->
@@ -259,16 +276,16 @@
 - **Email:** [info@sloaa.org](mailto:info@sloaa.org)
 - **Hours:**
    - Central Coast Intergroup office: M–F Noon–6pm, Sa 1–4pm <!-- Source: https://www.sloaa.org/ -->
-   - Individual meetings: [many hours and locations](https://www.sloaa.org/meetings/)
+   - Individual meetings: [many hours and locations](https://www.sloaa.org/meetings/?type=espanol)
 
-## <a id="APA">Alliance for Pharmaceutical Access</a>
+## <a id="APA">Alianza para Acceso Farmacéutico</a>
 
 - **Website:** [apameds.org/for-clients](https://apameds.org/for-clients/)
 
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
-| <a href="#" class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Alliance for Pharmaceutical Access">345 S. Halcyon Rd.</a> (Arroyo Grande) | [805-489-4261 x4267](tel:+1-805-489-4261;ext=4267) | Mo. 1pm–7pm |
-| <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alliance for Pharmaceutical Access">1428 Phillips Lane #B4</a> (SLO, inside Noor Clinic) | [805-548-0894](tel:+1-805-548-0894) | Tu. 1pm–5pm |
+| <a href="#" class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Alianza para Acceso Farmacéutico">345 S. Halcyon Rd.</a> (Arroyo Grande) | [805-489-4261 x4267](tel:+1-805-489-4261;ext=4267) | Mo. 1pm–7pm |
+| <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alianza para Acceso Farmacéutico">1428 Phillips Lane #B4</a> (SLO, inside La Fundación SLO Noor) | [805-548-0894](tel:+1-805-548-0894) | Tu. 1pm–5pm |
 
 - **Email:** [Advocates@apameds.org](mailto:Advocates@apameds.org) <!-- Source: https://apameds.org/contact-us/ -->
 
@@ -279,7 +296,7 @@
 ## <a id="American-Cancer-Society">American Cancer Society</a>
 
 - Patient Lodging Programs: [cancer.org/support-programs-and-services/patient-lodging.html](https://www.cancer.org/support-programs-and-services/patient-lodging.html)
-- Road to Recovery (transportation to medical appointments): [cancer.org/support-programs-and-services/road-to-recovery.html](https://www.cancer.org/support-programs-and-services/road-to-recovery.html)
+- Camino a la Recuperación (transportation to medical appointments): [cancer.org/support-programs-and-services/road-to-recovery.html](https://www.cancer.org/support-programs-and-services/road-to-recovery.html)
 - **Phone:** [800-227-2345](tel:+1-800-227-2345) <!-- Source: https://www.cancer.org/about-us/online-help/contact-us.html -->
 
 ## <a id="American-Legion-Post-66">American Legion Post 66</a>
@@ -405,6 +422,18 @@
 
 > *See [**Central Coast Autism Spectrum Center**](#Central-Coast-Autism-Spectrum-Center)*
 
+## <a id="Help-Me-Grow">Ayúdame a Crecer del Condado de SLO</a>
+
+- **Website:** [slohelpmegrow.org](https://www.slohelpmegrow.org/)
+
+<!-- Source: https://www.slohelpmegrow.org/contact -->
+| Location | Phone |
+| -------- | ----- |
+| <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="Ayúdame a Crecer">1030 Southwood Dr., SLO</a> | [805-305-4481](tel:+1-805-305-4481) |
+| <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Ayúdame a Crecer">704 Spring St., Paso Robles</a> | [805-440-1878](tel:+1-805-440-1878) |
+
+- **Hours:** M–F 8am–4:30pm <!-- Source: https://www.slohelpmegrow.org/contact -->
+
 ## <a id="Balay-Ko-on-Barka">Balay Ko on Barka</a>
 
 > *a.k.a. “My Home for Hope”*
@@ -452,6 +481,202 @@
 - **Email:** [bellavistamhp@tprop.net](mailto:bellavistamhp@tprop.net) <!-- Source: https://www.bellavistabythesea.com/ -->
 - **Hours:** (office hours) M–F 10am–4pm <!-- Source: https://www.bellavistabythesea.com/ -->
 
+## <a id="Little-Free-Libraries">Bibliotecas Gratuitas Pequeñas</a>
+
+🗺️ **<a href="little-free-libraries-map.html" target="_blank" rel="noopener">View all locations on an interactive map</a>**
+
+- **Website:** [littlefreelibrary.org](https://littlefreelibrary.org/)
+- **Locations:**
+   - Arroyo Grande:
+      - <a href="#" class="map-link" data-lat="35.114090" data-lon="-120.593823" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">330 Alder St.</a>
+      - <a href="#" class="map-link" data-lat="35.119917" data-lon="-120.575391" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">121 Allen St.</a>
+      - <a href="#" class="map-link" data-lat="35.073182" data-lon="-120.586066" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">Amarillo Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.073411" data-lon="-120.580329" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2510 Appaloosa Way</a>
+      - <a href="#" class="map-link" data-lat="35.117185" data-lon="-120.604837" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Corner of Cedar & Boysenberry</a>
+      - <a href="#" class="map-link" data-lat="35.121326" data-lon="-120.570416" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">529 E. Cherry Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.122401" data-lon="-120.568374" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">615 E. Cherry Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.087336" data-lon="-120.563930" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2385 Clarkie Way</a>
+      - <a href="#" class="map-link" data-lat="35.065912" data-lon="-120.572875" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">Cypress Ridge Pkwy.</a> near Cypress Ridge golf course entrance
+      - <a href="#" class="map-link" data-lat="35.055285" data-lon="-120.581134" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">485 Dorothy Ln.</a>
+      - <a href="#" class="map-link" data-lat="35.123058" data-lon="-120.600336" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">303 N. Elm St.</a>
+      - <a href="#" class="map-link" data-lat="35.110289" data-lon="-120.600857" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">512 S. Elm St.</a>
+      - <a href="#" class="map-link" data-lat="35.089684" data-lon="-120.578772" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">282 Gait Way</a>
+      - <a href="#" class="map-link" data-lat="35.117013" data-lon="-120.598429" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1146 Maple St.</a>
+      - <a href="#" class="map-link" data-lat="35.116732" data-lon="-120.597214" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Maple St. @ Walnut St.</a>
+      - <a href="#" class="map-link" data-lat="35.123681" data-lon="-120.575667" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">127 S. Mason St.</a>
+      - <a href="#" class="map-link" data-lat="35.118206" data-lon="-120.578403" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">328 Orchard St.</a>
+      - <a href="#" class="map-link" data-lat="35.119016" data-lon="-120.603324" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1270 Poplar St.</a>
+      - <a href="#" class="map-link" data-lat="35.118284" data-lon="-120.603290" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1260 Sage St.</a>
+      - <a href="#" class="map-link" data-lat="35.126825" data-lon="-120.603753" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1414 Sierra Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.131236" data-lon="-120.564362" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">494 Stagecoach Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.108422" data-lon="-120.593270" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">958 Sycamore Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.126572" data-lon="-120.581547" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">250 Wesley St.</a>
+   - Atascadero:
+      - <a href="#" class="map-link" data-lat="35.439074" data-lon="-120.615227" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">9481 Carmel Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.472397" data-lon="-120.673113" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">8505 Carmelita Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.506468" data-lon="-120.690123" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3155 El Camino Real</a>
+      - <a href="#" class="map-link" data-lat="35.518062" data-lon="-120.682527" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2720 Ferrocarril Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.480842" data-lon="-120.652139" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">8934 Junipero Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.494020" data-lon="-120.672484" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Mariquita Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.466434" data-lon="-120.665097" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">9125 Mountain View Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.493723" data-lon="-120.675068" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">5265 Palma Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.420287" data-lon="-120.628037" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">14985 Powerline Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.513614" data-lon="-120.722312" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">8155 San Gregorio Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.463859" data-lon="-120.699431" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">10675 San Marcos Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.503843" data-lon="-120.725162" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">13400 Santa Ana Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.483352" data-lon="-120.669031" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">6605 Santa Ynez Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.487968" data-lon="-120.655054" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">7310 Sonora Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.476039" data-lon="-120.647912" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">8437 Vaquero Ln.</a>
+      - <a href="#" class="map-link" data-lat="35.507060" data-lon="-120.669193" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">4555 Viscano Ave.</a>
+   - Avila Beach:
+      - <a href="#" class="map-link" data-lat="35.193967" data-lon="-120.715208" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1401 San Luis Bay Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.180624" data-lon="-120.733256" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">191 San Miguel St.</a>
+      - <a href="#" class="map-link" data-lat="35.194958" data-lon="-120.681242" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">259 Squire Canyon Rd.</a>
+   - Cambria:
+      - <a href="#" class="map-link" data-lat="35.574393" data-lon="-121.098921" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">6404 Buckley Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.548281" data-lon="-121.091709" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">701 Drake St.</a>
+      - <a href="#" class="map-link" data-lat="35.564578" data-lon="-121.102896" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">521 Hastings St.</a>
+      - <a href="#" class="map-link" data-lat="35.547895" data-lon="-121.074863" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2750 Holden Pl.</a>
+      - <a href="#" class="map-link" data-lat="35.547507" data-lon="-121.094860" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">383 Orlando Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.541138" data-lon="-121.073378" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1176 Pineridge Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.571884" data-lon="-121.107462" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">365 Weymouth St.</a>
+   - Cayucos:
+      - <a href="#" class="map-link" data-lat="35.441637" data-lon="-120.891423" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">84 13th St.</a>
+      - <a href="#" class="map-link" data-lat="35.441671" data-lon="-120.893139" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1175 Cass Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.448532" data-lon="-120.901740" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">151 F St.</a>
+      - <a href="#" class="map-link" data-lat="35.448889" data-lon="-120.910614" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">517 Lucerne Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.445027" data-lon="-120.896035" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">625 S. Ocean Ave.</a>
+   - Grover Beach:
+      - <a href="#" class="map-link" data-lat="35.124773" data-lon="-120.627183" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">338 N. 3rd St.</a>
+      - <a href="#" class="map-link" data-lat="35.120202" data-lon="-120.626670" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">251 S. 4th St.</a>
+      - <a href="#" class="map-link" data-lat="35.123621" data-lon="-120.624910" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">266 N. 5th St.</a>
+      - <a href="#" class="map-link" data-lat="35.108002" data-lon="-120.609531" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">240 Anita Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.115854" data-lon="-120.616578" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1230 Trouville Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.115683" data-lon="-120.611738" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1624 Trouville Ave.</a>
+   - Los Osos / Baywood Park:
+      - <a href="#" class="map-link" data-lat="35.321573" data-lon="-120.839052" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1643 4th St.</a>
+      - <a href="#" class="map-link" data-lat="35.330479" data-lon="-120.835297" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1182 7th St.</a>
+      - <a href="#" class="map-link" data-lat="35.317787" data-lon="-120.835598" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1855 7th St.</a>
+      - <a href="#" class="map-link" data-lat="35.330435" data-lon="-120.833012" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1180 9th St.</a>
+      - <a href="#" class="map-link" data-lat="35.328834" data-lon="-120.830823" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1257 11th St.</a>
+      - <a href="#" class="map-link" data-lat="35.325639" data-lon="-120.825394" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1426 16th St.</a>
+      - <a href="#" class="map-link" data-lat="35.323582" data-lon="-120.823474" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1539 18th St.</a>
+      - <a href="#" class="map-link" data-lat="35.321708" data-lon="-120.823474" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1639 18th St.</a>
+      - <a href="#" class="map-link" data-lat="35.310294" data-lon="-120.820349" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2130 Andre Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.309403" data-lon="-120.833878" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2315 Bayview Heights Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.311895" data-lon="-120.834482" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2148 Bush Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.307316" data-lon="-120.811683" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2149 Lariat Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.317673" data-lon="-120.843891" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">561 Loma St.</a>
+      - <a href="#" class="map-link" data-lat="35.312628" data-lon="-120.825568" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1351 Los Olivos Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.311720" data-lon="-120.831102" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1078 Los Osos Valley Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.314850" data-lon="-120.826659" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2003 Lost Oak Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.310765" data-lon="-120.838720" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">732 Manzanita Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.307342" data-lon="-120.825877" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2345 Oak Ridge Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.314075" data-lon="-120.851884" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2100 Pecho Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.328212" data-lon="-120.834610" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">948 Santa Maria Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.330164" data-lon="-120.821371" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1188 Scenic Way</a>
+      - <a href="#" class="map-link" data-lat="35.307885" data-lon="-120.826553" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2340 Tierra Dr.</a>
+   - Morro Bay:
+      - <a href="#" class="map-link" data-lat="35.355395" data-lon="-120.843558" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">720 Cabrillo Pl.</a>
+      - <a href="#" class="map-link" data-lat="35.390449" data-lon="-120.861604" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Cloisters Community Park</a>
+      - <a href="#" class="map-link" data-lat="35.361721" data-lon="-120.844277" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">482 Estero Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.387703" data-lon="-120.853193" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2401 Ironwood Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.361784" data-lon="-120.850224" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">495 Main St.</a>
+      - <a href="#" class="map-link" data-lat="35.394094" data-lon="-120.857676" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">450 San Jacinto St.</a>
+   - Nipomo:
+      - <a href="#" class="map-link" data-lat="35.016626" data-lon="-120.511421" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">421 N. Las Flores Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.044438" data-lon="-120.516232" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">789 Live Oak Ridge Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.044833" data-lon="-120.493745" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">525 Sandydale Dr.</a>
+   - Oceano:
+      - <a href="#" class="map-link" data-lat="35.105805" data-lon="-120.611494" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1341 18th St.</a>
+      - <a href="#" class="map-link" data-lat="35.102689" data-lon="-120.603769" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1501 24th St.</a>
+   - Paso Robles:
+      - <a href="#" class="map-link" data-lat="35.685885" data-lon="-120.949099" data-zoom="15" data-label="Biblioteca Gratuita Pequeña">14140 Chimney Rock Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.675182" data-lon="-120.599488" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">5090 Deer Creek Way</a>
+      - <a href="#" class="map-link" data-lat="35.626407" data-lon="-120.701740" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1130 Merry Hill Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.637880" data-lon="-120.693794" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2247 Oak St.</a>
+      - <a href="#" class="map-link" data-lat="35.635204" data-lon="-120.689301" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2004 Pine St.</a>
+      - <a href="#" class="map-link" data-lat="35.635204" data-lon="-120.689301" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3773 Ruth Way #A</a>
+      - <a href="#" class="map-link" data-lat="35.625533" data-lon="-120.692883" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1103 Spring St.</a>
+      - <a href="#" class="map-link" data-lat="35.620405" data-lon="-120.668131" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">539 Veronica Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.636053" data-lon="-120.695039" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2105 Vine St.</a>
+      - <a href="#" class="map-link" data-lat="35.626666" data-lon="-120.657874" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">904 Vista Cerro Dr.</a>
+   - Pismo Beach:
+      - <a href="#" class="map-link" data-lat="35.141748" data-lon="-120.619004" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">28 El Viento</a>
+      - <a href="#" class="map-link" data-lat="35.134519" data-lon="-120.616391" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">224 Irish Way</a>
+      - <a href="#" class="map-link" data-lat="35.143482" data-lon="-120.641506" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">990 Price St.</a>
+      - <a href="#" class="map-link" data-lat="35.148810" data-lon="-120.651196" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2411 Price St.</a>
+      - <a href="#" class="map-link" data-lat="35.149153" data-lon="-120.653452" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2555 Price St.</a>
+      - <a href="#" class="map-link" data-lat="35.136528" data-lon="-120.606985" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">995 Skyline Dr.</a>
+   - San Miguel:
+      - <a href="#" class="map-link" data-lat="35.750082" data-lon="-120.698097" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1197 L St.</a>
+   - Santa Margarita:
+      - <a href="#" class="map-link" data-lat="35.394411" data-lon="-120.600808" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">22070 H St.</a>
+      - <a href="#" class="map-link" data-lat="35.735801" data-lon="-120.607985" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3120 Ranchita Canyon Rd.</a>
+   - Shell Beach:
+      - <a href="#" class="map-link" data-lat="35.156784" data-lon="-120.677138" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">302 Cuyama Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.155398" data-lon="-120.673018" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">262 Esparto Ave.</a>
+   - SLO:
+      - <a href="#" class="map-link" data-lat="35.247297" data-lon="-120.629542" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">1330 Alder St.</a>
+      - <a href="#" class="map-link" data-lat="35.263063" data-lon="-120.687116" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1378 Avalon St. (@ Oceanaire Dr.)</a>
+      - <a href="#" class="map-link" data-lat="35.291125" data-lon="-120.670781" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">79 Benton Way</a>
+      - <a href="#" class="map-link" data-lat="35.261906" data-lon="-120.655375" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Bluerock Drive near Stoneridge Park</a>
+      - <a href="#" class="map-link" data-lat="35.276596" data-lon="-120.662295" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1410 Broad St. @ Pacific</a>
+      - Center St. by Nazarene church
+      - <a href="#" class="map-link" data-lat="35.287044" data-lon="-120.667729" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Center St. between Chorro and Lincoln</a>
+      - <a href="#" class="map-link" data-lat="35.295083" data-lon="-120.677927" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">171 Cerro Romauldo Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.331880" data-lon="-120.728717" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3450 Dairy Creek Rd. (SLO Botanical Garden)</a>
+      - <a href="#" class="map-link" data-lat="35.270140" data-lon="-120.649130" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2378 Boulevard Del Campo</a>
+      - <a href="#" class="map-link" data-lat="35.265559" data-lon="-120.698268" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1295 Descanso St.</a>
+      - <a href="#" class="map-link" data-lat="35.236681" data-lon="-120.675588" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">107 Earthwood Ln.</a>
+      - <a href="#" class="map-link" data-lat="35.255055" data-lon="-120.695018" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1595 Eto Circle</a>
+      - <a href="#" class="map-link" data-lat="35.257552" data-lon="-120.699459" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1383 Fairway Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.298910" data-lon="-120.684954" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">157 Fel Mar Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.264175" data-lon="-120.638396" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1348 Fernwood Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.274520" data-lon="-120.654666" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1011 George St.</a>
+      - <a href="#" class="map-link" data-lat="35.122113" data-lon="-120.634064" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1 Grand Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.264324" data-lon="-120.635237" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3440 Gregory Ct.</a>
+      - <a href="#" class="map-link" data-lat="35.284846" data-lon="-120.654559" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1415 Higuera St.</a>
+      - On a utility pole at <a href="#" class="map-link" data-lat="35.276876" data-lon="-120.658486" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Morro St. and Islay St.</a>
+      - <a href="#" class="map-link" data-lat="35.278313" data-lon="-120.655482" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1121 Islay St.</a>
+      - <a href="#" class="map-link" data-lat="35.269615" data-lon="-120.647253" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1215 Joyce Ct.</a>
+      - <a href="#" class="map-link" data-lat="35.253618" data-lon="-120.636411" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3962 Kilbern Way</a>
+      - <a href="#" class="map-link" data-lat="35.293831" data-lon="-120.682958" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">10 La Entrada Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.264210" data-lon="-120.659173" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">286 Lawrence Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.263965" data-lon="-120.653293" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">655 Lawrence Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.277910" data-lon="-120.654495" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1148 Leff St.</a>
+      - United Church of Christ (<a href="#" class="map-link" data-lat="35.260531" data-lon="-120.695661" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">11245 Los Osos Valley Road</a>)
+      - <a href="#" class="map-link" data-lat="35.259926" data-lon="-120.699974" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1708 Lynn</a>
+      - <a href="#" class="map-link" data-lat="35.285083" data-lon="-120.660090" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Corner of Mill & Toro</a>
+      - Monday Club, <a href="#" class="map-link" data-lat="35.288367" data-lon="-120.651308" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1815 Monterey at Grand</a>
+      - <a href="#" class="map-link" data-lat="35.260767" data-lon="-120.636610" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1430 Noveno Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.260794" data-lon="-120.684820" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1552 Oceanaire Dr. (near Atascadero St.)</a>
+      - <a href="#" class="map-link" data-lat="35.255958" data-lon="-120.684262" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1906 Oceanaire Dr. (near Pinecove Dr.)</a>
+      - <a href="#" class="map-link" data-lat="35.282736" data-lon="-120.654597" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Pacific between Johnson & Pepper</a>
+      - <a href="#" class="map-link" data-lat="35.255695" data-lon="-120.688071" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1768 Pereira Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.246714" data-lon="-120.629867" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1358 Purple Sage Ln.</a>
+      - <a href="#" class="map-link" data-lat="35.255406" data-lon="-120.663539" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">333 Sage St.</a>
+      - <a href="#" class="map-link" data-lat="35.255423" data-lon="-120.661865" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">373 Sage St.</a>
+      - <a href="#" class="map-link" data-lat="35.192977" data-lon="-120.715295" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1401 San Luis Bay Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.286554" data-lon="-120.650418" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1739 San Luis Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.269203" data-lon="-120.642908" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1391 San Marcos Ct.</a>
+      - In front of The Establishment, <a href="#" class="map-link" data-lat="35.276342" data-lon="-120.656708" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1703 Santa Barbara Ave.</a>
+      - By the Montessori school at <a href="#" class="map-link" data-lat="35.241860" data-lon="-120.676929" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">South Higuera & Los Osos Valley Road</a>
+      - <a href="#" class="map-link" data-lat="35.248051" data-lon="-120.674354" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">3960 S. Higuera St. #34</a>
+      - Nazarene church on <a href="#" class="map-link" data-lat="35.264981" data-lon="-120.635355" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3396 Southwood Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.264823" data-lon="-120.629282" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1767 Southwood Dr.</a>
+      - <a href="#" class="map-link" data-lat="35.247748" data-lon="-120.627995" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">4475 Wavertree St.</a>
+      - <a href="#" class="map-link" data-lat="35.267197" data-lon="-120.656072" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">637 Woodbridge</a>
+   - Templeton:
+      - <a href="#" class="map-link" data-lat="35.540835" data-lon="-120.717790" data-zoom="18" data-label="Biblioteca Gratuita Pequeña">785 Ashley Ln.</a>
+      - <a href="#" class="map-link" data-lat="35.549455" data-lon="-120.709426" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">620 Old Country Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.553923" data-lon="-120.730080" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">308 Puffin Way</a>
+      - <a href="#" class="map-link" data-lat="35.550900" data-lon="-120.703762" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">215 S. Main St.</a>
+      - <a href="#" class="map-link" data-lat="35.542668" data-lon="-120.722494" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1027 Santa Rita Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.555604" data-lon="-120.706229" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">158 Wessels Way</a>
+
+- **Hours:** Daily, 24/7
+
 ## <a id="Bike-Kitchen">Bike Kitchen</a>
 
 - **Website:** [bikeslocounty.org/programs/kitchen](https://bikeslocounty.org/programs/kitchen/)
@@ -498,14 +723,6 @@
 - **Email:** [shelter@5chc.org](mailto:shelter@5chc.org) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
 - **How to access:** Apply through [**5Cities Homeless Coalition**](#5CHC) to get on waiting list
 
-## <a id="California-Childrens-Services">California Children’s Services</a>
-
-- **Website:** [dhcs.ca.gov/services/ccs](https://dhcs.ca.gov/services/ccs)
-- **Location:** <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="California Children’s Services">2925 McMillan Ave. #108, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
-- **Phone:** [805-781-5527](tel:+1-805-781-5527) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
-- **Email:** [PublicHealth.CMS@co.slo.ca.us](mailto:PublicHealth.CMS@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
-- **Hours:** M–F 8am–5pm by appointment only <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
-
 ## <a id="California-Civil-Rights-Department">California Civil Rights Department</a>
 
 - **Website:** [calcivilrights.ca.gov](https://calcivilrights.ca.gov)
@@ -533,24 +750,6 @@
 - **Phone:** [805-481-3071](tel:+1-805-481-3071) <!-- Source: https://www.yelp.com/biz/california-cool-thrift-store-grover-beach#location-and-hours -->
 - **Hours:** Daily 10am–5pm <!-- Source: https://www.yelp.com/biz/california-cool-thrift-store-grover-beach#location-and-hours -->
 
-## <a id="California-Department-of-Rehabilitation">California Department of Rehabilitation</a>
-
-- **Website:** [dor.ca.gov](https://www.dor.ca.gov/)
-- **Location:** <a href="#" class="map-link" data-lat="35.255033" data-lon="-120.668947" data-zoom="17" data-label="California Department of Rehabilitation">3320 S. Higuera #102, SLO</a> <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
-- **Phone:**
-   - Local office:
-      - [805-594-6100](tel:+1-805-594-6100)
-      - [805-549-3361](tel:+1-805-549-3361) (for ages 16–21) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
-      - [805-544-7367](tel:+1-805-544-7367) (TTY)
-   - Statewide:
-      - [800-952-5544](tel:+1-800-952-5544) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
-      - [916-324-1313](tel:+1-916-324-1313) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
-      - [916-558-5673](tel:+1-916-558-5673) (TTY) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
-      - Source: [dor.ca.gov](https://www.dor.ca.gov/Home/ContactUs)
-- **How to access:** No walk-ins. Call them to schedule an Orientation, or complete a form on their website.
-- Notes:
-   - Can refer you to the “Supported Employment” program
-
 ## <a id="California-DMV">California DMV</a>
 
 - **Website:** [dmv.ca.gov](https://www.dmv.ca.gov/)
@@ -560,10 +759,18 @@
 
 ## <a id="California-Rural-Legal-Assistance">California Rural Legal Assistance (CRLA)</a>
 
-- **Website:** [crla.org](https://www.crla.org/)
+- **Website:** [crla.org](https://crla.org/es)
 - **Location:** <a href="#" class="map-link" data-lat="35.275127" data-lon="-120.656168" data-zoom="17" data-label="California Rural Legal Assistance">1880 Santa Barbara Ave. #240, SLO</a> <!-- Source: https://crla.org/locations -->
 - **Phone:** [805-544-7994](tel:+1-805-544-7994) <!-- Source: https://crla.org/locations -->
 - **Hours:** M–Th 9am–12pm & 1pm–5pm, F 1pm–5pm
+
+## <a id="California-Childrens-Services">California Servicios para Niños</a>
+
+- **Website:** [dhcs.ca.gov/services/ccs](https://www.dhcs.ca.gov/es/services/ccs)
+- **Location:** <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="California Servicios para Niños">2925 McMillan Ave. #108, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
+- **Phone:** [805-781-5527](tel:+1-805-781-5527) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
+- **Email:** [PublicHealth.CMS@co.slo.ca.us](mailto:PublicHealth.CMS@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
+- **Hours:** M–F 8am–5pm by appointment only <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/california-children-s-services -->
 
 ## California Telephone Access Program (CTAP)
 
@@ -749,20 +956,6 @@
    - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://admissions.centerforautism.com/ -->
 - Notes: Accepts CenCal Health and most other insurance providers <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
 
-## <a id="CFS">Center for Family Strengthening (CFS)</a>
-
-- **Website:** [cfsslo.org](https://cfsslo.org/)
-- **Location:** <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Center for Family Strengthening">1428 Phillips Lane #203, SLO</a> <!-- Source: https://cfsslo.org/ -->
-- **Phone:** [805-439-1994](tel:+1-805-439-1994) <!-- Source: https://cfsslo.org/ -->
-- **Email:** [info@cfsslo.org](mailto:info@cfsslo.org) <!-- Source: https://cfsslo.org/ -->
-- **Hours:** By appointment (call or email to schedule) <!-- Source: https://cfsslo.org/ -->
-- Notes:
-   - make referrals via [**Adult Protective Services**](#Adult-Protective-Services)
-   - operates [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
-   - operates [**Parent Connection of SLO County**](#Parent-Connection-of-SLO-County)
-   - operates [**The Link Family Resource Center**](#Link-Family-Resource-Center) (Atascadero and Paso Robles locations)
-   - partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
-
 ## <a id="The-Center">The Center for Health & Prevention</a>
 
 - **Website:** [capslo.org/the-center](https://capslo.org/the-center/)
@@ -807,18 +1000,6 @@
 - **Phone:** [805-763-1100](tel:+1-805-763-1100) <!-- Source: https://sloautism.org/about-us/ -->
 - **Email:** [contact@sloautism.org](mailto:contact@sloautism.org) <!-- Source: https://sloautism.org/about-us/ -->
 <!-- Note: Organization uses P.O. Box; no physical street address found (as of October 2025). Hours of operation not publicly listed; contact directly for details -->
-
-## <a id="Central-Coast-Coalition-for-Undocumented-Student-Success">Central Coast Coalition for Undocumented Student Success</a>
-
-- **Website:** [ccc-uss.org](https://www.ccc-uss.org/)
-- **Mailing address:** P.O. Box 15759, SLO, CA 93406 <!-- Source: https://www.ccc-uss.org/ -->
-- **Email:**
-   - [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com) <!-- Source: https://www.ccc-uss.org/ -->
-<!-- Note: Organization uses P.O. Box; no physical office address or phone number found (as of October 2025). Fiscally sponsored by Ecologistics, a 501(c)(3) in SLO -->
-- Notes:
-   - Cal Poly DREAM Center contact: Vania Agama Ramirez
-   - Cuesta Monarch DREAM Center: [805-546-3109](tel:+1-805-546-3109)
-   - Allan Hancock: [805-922-6966 x3177](tel:+1-805-922-6966;ext=3177)
 
 ## <a id="Central-Coast-Commission-for-Senior-Citizens">Central Coast Commission for Senior Citizens</a>
 
@@ -893,14 +1074,38 @@
 { Note: Organization uses P.O. Box; no physical office address or public operating hours found (as of October 2025). Contact via phone or email for services }
 -->
 
+## <a id="Community-Counseling-Center">El Centro de Consejería Comunitaria</a>
+
+> *See also [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
+
+- **Website:** [cccslo.org/what-we-do.php](https://www.cccslo.org/what-we-do.php)
+- **Location:** <a href="#" class="map-link" data-lat="35.276497" data-lon="-120.662980" data-zoom="17" data-label="El Centro de Consejería Comunitaria">676 Pismo St., SLO</a> <!-- Source: https://www.cccslo.org/locations.php -->
+- **Phone:** [805-543-7969](tel:+1-805-543-7969) <!-- Source: https://www.cccslo.org/what-we-do.php --->
+- **Hours:** M–F 9am–6pm <!-- Source: https://www.cccslo.org/locations.php -->
+- **How to access:** Call to make an appointment or use their [contact form](https://www.cccslo.org/locations.php) <!-- Source: https://www.cccslo.org/locations.php -->
+
+## <a id="CFS">Centro para el Fortalecimiento Familiar (CFS)</a>
+
+- **Website:** [cfsslo.org](https://cfsslo.org/)
+- **Location:** <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Centro para el Fortalecimiento Familiar">1428 Phillips Lane #203, SLO</a> <!-- Source: https://cfsslo.org/ -->
+- **Phone:** [805-439-1994](tel:+1-805-439-1994) <!-- Source: https://cfsslo.org/ -->
+- **Email:** [info@cfsslo.org](mailto:info@cfsslo.org) <!-- Source: https://cfsslo.org/ -->
+- **Hours:** By appointment (call or email to schedule) <!-- Source: https://cfsslo.org/ -->
+- Notes:
+   - make referrals via [**Adult Protective Services**](#Adult-Protective-Services)
+   - operates [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
+   - operates [**Parent Connection of SLO County**](#Parent-Connection-of-SLO-County)
+   - operates [**The Link Family Resource Center**](#Link-Family-Resource-Center) (Atascadero and Paso Robles locations)
+   - partner in [**UndocSupport del Condado de SLO**](#SLO-County-UndocuSupport)
+
 ## CHC
 
 > *See [**Community Health Centers of the Central Coast**](#CHC)*
 
-## <a id="Child-Care-Resource-Connection">Child Care Resource Connection</a>
+## <a id="Child-Care-Resource-Connection">Conexión de Recursos de Cuidado de Niños</a>
 
 - **Website:** [capslo.org/child-care-resource-connection](https://capslo.org/child-care-resource-connection/)
-- **Location:** <a href="#" class="map-link" data-lat="35.244059" data-lon="-120.642200" data-zoom="17" data-label="Child Care Resource Connection">805A Fiero Ln., SLO</a> <!-- Source: https://capslo.org/child-care-resource-connection/ -->
+- **Location:** <a href="#" class="map-link" data-lat="35.244059" data-lon="-120.642200" data-zoom="17" data-label="Conexión de Recursos de Cuidado de Niños">805A Fiero Ln., SLO</a> <!-- Source: https://capslo.org/child-care-resource-connection/ -->
 - **Phone:**
    - [888-727-2272](tel:+1-888-727-2272) <!-- Source: https://capslo.org/child-care-resource-connection/ -->
    - [805-541-2272](tel:+1-805-541-2272) (SLO) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/childcare-parenting -->
@@ -934,7 +1139,7 @@
 
 ## Children’s Services
 
-> *See [**California Children’s Services**](#California-Childrens-Services)*
+> *See [**California Servicios para Niños**](#California-Childrens-Services)*
 
 ## <a id="Child-Support-Services">Child Support Services</a>
 
@@ -952,9 +1157,25 @@
 - **Email:** [recreation@slocity.org](mailto:recreation@slocity.org) <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
 - **Hours:** M–F 8am–4pm <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation -->
 
-## Coalition for Undocumented Student Success
+## <a id="Vituity-Cares-Mobile-Clinic">Clínica Móvil de Vituity Cares</a>
 
-> *See [**Central Coast Coalition for Undocumented Student Success**](#Central-Coast-Coalition-for-Undocumented-Student-Success)*
+- **Website:** [vituitycares.org](https://vituitycares.org/)
+- **Location:** <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="Clínica Móvil de Vituity Cares">995 Palm St., SLO</a>
+- **Phone:** [480-828-4319](tel:+1-480-828-4319) <!-- Source: https://vituitycares.org/contact-us/ -->
+- **Email:** [vituitycares@gmail.com](mailto:vituitycares@gmail.com) <!-- Source: https://vituitycares.org/contact-us/ -->
+- **Hours:** Second Sunday of the month, 12:30–3:30 pm
+
+## <a id="Central-Coast-Coalition-for-Undocumented-Student-Success">Coalición para el Éxito de Estudiantes Indocumentados de la Costa Central</a>
+
+- **Website:** [ccc-uss.org](https://www.ccc-uss.org/)
+- **Mailing address:** P.O. Box 15759, SLO, CA 93406 <!-- Source: https://www.ccc-uss.org/ -->
+- **Email:**
+   - [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com) <!-- Source: https://www.ccc-uss.org/ -->
+<!-- Note: Organization uses P.O. Box; no physical office address or phone number found (as of October 2025). Fiscally sponsored by Ecologistics, a 501(c)(3) in SLO -->
+- Notes:
+   - Cal Poly DREAM Center contact: Vania Agama Ramirez
+   - Cuesta Monarch DREAM Center: [805-546-3109](tel:+1-805-546-3109)
+   - Allan Hancock: [805-922-6966 x3177](tel:+1-805-922-6966;ext=3177)
 
 ## <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a>
 
@@ -1003,32 +1224,22 @@
 - Notes:
    - operates [**40 Prado Homeless Services Center**](#40-Prado)
    - operates [**The Center for Health & Prevention**](#The-Center)
-   - operates “Child Care Resource Connection (CCRC)”
+   - operates [**Conexión de Recursos de Cuidado de Niños (CCRC)**](#Child-Care-Resource-Connection)
    - operates [**Coordinated Entry System (CES)**](#CES)
    - operates “Head Start”
    - operates “Home and Energy Services”
    - operates [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - operates “Low Income Home Energy Assistance Program (LIHEAP)”
    - operates [**Outreach & Engagement Services**](#Outreach-and-Engagement-Services)
-   - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
+   - operates [**Programa Rotativo de Estacionamiento Seguro Nocturno**](#Rotating-Overnight-Safe-Parking-Program)
    - operates “Senior Health Screening”
    - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
    - operates “Teen Wellness”
    - partner in [**SLO Hub**](#SLO-Hub)
-   - partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
+   - partner in [**UndocSupport del Condado de SLO**](#SLO-County-UndocuSupport)
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
-   - entry-point for the [**Enhanced Care Management**](#Enhanced-Care-Management)
+   - entry-point for the [**Administración de la Atención Mejorada**](#Enhanced-Care-Management)
    - on board of “Emergency Food and Shelter Program”
-
-## <a id="Community-Counseling-Center">Community Counseling Center</a>
-
-> *See also [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
-
-- **Website:** [cccslo.org/what-we-do.php](https://www.cccslo.org/what-we-do.php)
-- **Location:** <a href="#" class="map-link" data-lat="35.276497" data-lon="-120.662980" data-zoom="17" data-label="Community Counseling Center">676 Pismo St., SLO</a> <!-- Source: https://www.cccslo.org/locations.php -->
-- **Phone:** [805-543-7969](tel:+1-805-543-7969) <!-- Source: https://www.cccslo.org/what-we-do.php --->
-- **Hours:** M–F 9am–6pm <!-- Source: https://www.cccslo.org/locations.php -->
-- **How to access:** Call to make an appointment or use their [contact form](https://www.cccslo.org/locations.php) <!-- Source: https://www.cccslo.org/locations.php -->
 
 ## Community Counseling Service
 
@@ -1042,7 +1253,7 @@
 - **Phone:** [805-543-2323](tel:+1-805-543-2323) <!-- Source: https://www.cfsloco.org/ -->
 - **Email:** [info@cfsloco.org](mailto:info@cfsloco.org) <!-- Source: https://www.cfsloco.org/ -->
 <!-- Note: Hours of operation not publicly listed (as of October 2025); contact office directly for hours -->
-- Note: partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
+- Note: partner in [**UndocSupport del Condado de SLO**](#SLO-County-UndocuSupport)
 
 ## <a id="CHC">Community Health Centers of the Central Coast</a>
 
@@ -1087,14 +1298,14 @@
 
 ## Community Safe Parking Program
 
-> *See [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)*
+> *See [**Programa Rotativo de Estacionamiento Seguro Nocturno**](#Rotating-Overnight-Safe-Parking-Program)*
 
 ## <a id="CES">Coordinated Entry System (CES)</a>
 
 - **How to access:**
    - South County: Contact [**5Cities Homeless Coalition**](Directory#5CHC)
    - County-wide: Contact [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
-   - Or initiate contact via other participating agencies like [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), [**Transitions Mental Health Association (TMHA)**](#TMHA), [**Good Samaritan Shelter**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services), [**SLO County Health Department**](#SLO-County-Health-Department)
+   - Or initiate contact via other participating agencies like [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), [**Transitions Mental Health Association (TMHA)**](#TMHA), [**Refugio del Buen Samaritano**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services), [**SLO County Health Department**](#SLO-County-Health-Department)
 - Notes:
    - Point of entry for [**Housing Now**](#Housing-Now), (at least some of) [**Peoples’ Self-Help Housing**](#Peoples-Self-Help-Housing), [**Welcome Home Village**](#Welcome-Home-Village)
    - Overseen by “Homeless Services Oversight Council (HSOC)”
@@ -1176,13 +1387,31 @@
 
 > *See [**Central Coast Dental Society**](#CCDS)*
 
+## <a id="California-Department-of-Rehabilitation">Departamento de Rehabilitación (DOR) de California</a>
+
+- **Website:** [dor.ca.gov](https://www.dor.ca.gov/)
+- **Location:** <a href="#" class="map-link" data-lat="35.255033" data-lon="-120.668947" data-zoom="17" data-label="Departamento de Rehabilitación (DOR) de California">3320 S. Higuera #102, SLO</a> <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
+- **Phone:**
+   - Local office:
+      - [805-594-6100](tel:+1-805-594-6100)
+      - [805-549-3361](tel:+1-805-549-3361) (for ages 16–21) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
+      - [805-544-7367](tel:+1-805-544-7367) (TTY)
+   - Statewide:
+      - [800-952-5544](tel:+1-800-952-5544) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
+      - [916-324-1313](tel:+1-916-324-1313) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
+      - [916-558-5673](tel:+1-916-558-5673) (TTY) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
+      - Source: [dor.ca.gov](https://www.dor.ca.gov/Home/ContactUs)
+- **How to access:** No walk-ins. Call them to schedule an Orientation, or complete a form on their website.
+- Notes:
+   - Can refer you to the “Supported Employment” program
+
 ## Department of Motor Vehicles (DMV)
 
 > *See [**California DMV**](#California-DMV)*
 
 ## Department of Rehabilitation
 
-> *See [**California Department of Rehabilitation**](#California-Department-of-Rehabilitation)*
+> *See [**Departamento de Rehabilitación (DOR) de California**](#California-Department-of-Rehabilitation)*
 
 ## Department of Social Services
 
@@ -1209,7 +1438,7 @@
 
 ## <a id="Disability-Rights-California">Disability Rights California</a>
 
-- **Website:** [www.disabilityrightsca.org/get-help](https://www.disabilityrightsca.org/get-help)
+- **Website:** [disabilityrightsca.org/es/get-help](https://www.disabilityrightsca.org/es/get-help)
 - **Phone:** [800-776-5746](tel:+1-800-776-5746) (TTY: [800-719-5798](tel:+1-800-719-5798)) <!-- Source: https://www.disabilityrightsca.org/get-help -->
 - **Hours:** M/Tu/Th/F 9am–3pm <!-- Source: https://www.disabilityrightsca.org/get-help -->
 
@@ -1307,15 +1536,6 @@
 - **Hours:** M–F 8am–5pm
 - Notes:
    - Operates “Migrant Seasonal Farmworker” program
-
-## <a id="Enhanced-Care-Management">Enhanced Care Management</a>
-
-- **Website:** [slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management)
-- **Phone:** [805-781-4687](tel:+1-805-781-4687) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
-- **Email:** [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
-- Notes:
-   - [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entry-point for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
-   - Offered to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
 
 ## <a id="EyeCare-America">EyeCare America</a>
 
@@ -1415,6 +1635,34 @@
 - **Hours:** M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks) <!-- Source: visited in person and saw those hours taped to the door -->
 - **How to access:** oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here” and “No matter what, you’re welcome here.” <!-- Source: https://www.frontporchslo.org/what-we-do and https://www.frontporchslo.org/ -->
 
+## <a id="SLO-Noor-Foundation">La Fundación SLO Noor</a>
+
+- **Website:** [slonoorfoundation.org](https://www.slonoorfoundation.org/)
+- Primary clinics
+   - **Locations:**
+      - <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">1428 Phillips Lane #203, SLO</a> <!-- Source: https://www.slonoorfoundation.org/ -->
+      - <a href="#" class="map-link" data-lat="35.613052" data-lon="-120.675974" data-zoom="17" data-label="La Fundación SLO Noor">400 Oak Hill Rd., Paso Robles</a>
+   - **Phone:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Email:** [info@slonoorfoundation.org](mailto:info@slonoorfoundation.org) <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Hours:** SLO M–Th 8am–5pm; Paso Robles W 8am–5pm <!-- Source: https://www.slonoorfoundation.org/medical -->
+- Vision clinic
+   - **Location:** <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">1428 Phillips Lane #203, SLO</a> <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Phone:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Email:** [info@slonoorfoundation.org](mailto:info@slonoorfoundation.org) <!-- Source: https://www.slonoorfoundation.org/ -->
+- Dental care clinic
+   - **Location:** <a href="#" class="map-link" data-lat="35.258739" data-lon="-120.668378" data-zoom="17" data-label="SLO Noor Foundation dental clinic">3071 S. Higuera St. #110, SLO</a> <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Phone:** [805-592-2240](tel:+1-805-592-2240) <!-- Source: https://www.slonoorfoundation.org/ -->
+   - **Email:** [dental@slonoorfoundation.org](mailto:dental@slonoorfoundation.org) <!-- Source: https://www.slonoorfoundation.org/ -->
+- Women’s mobile health unit
+   - **Phone:** [805-756-5089](tel:+1-805-756-5089) <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
+   - **Email:** [ccmacedo@calpoly.edu](mailto:ccmacedo@calpoly.edu) <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
+- Primary mobile health unit
+   - **Phone:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/mhc -->
+   - **Locations:** Atascadero, Nipomo, Oceano, Paso Robles <!-- Source: https://www.slonoorfoundation.org/mhc -->
+- **How to access:**
+   - By appointment only
+   - Bring proof of income and a copy of your most recent income tax return to your first appointment
+
 ## <a id="GALA">GALA Pride & Diversity Center</a>
 
 - **Website:** [galacc.org](https://galacc.org/)
@@ -1449,25 +1697,6 @@
    - <a href="#" class="map-link" data-lat="35.294492" data-lon="-120.670846" data-zoom="17" data-label="Golden 1 Credit Union">852 E. Foothill Blvd., SLO</a>
 - **Phone:** [877-GOLDEN-1](tel:+1-877-465-3361) <!-- Source: https://www.golden1.com/discoverg1/call-us -->
 - **Hours:** M–F 10am–5pm, Sa 10am–2pm <!-- Source: https://www.golden1.com/atm-branch-finder -->
-
-## <a id="Good-Samaritan-Shelter">Good Samaritan Shelter</a>
-
-- **Website:** [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)
-- **Locations:**
-   - Santa Maria emergency shelter: <a href="#" class="map-link" data-lat="34.943820" data-lon="-120.441034" data-zoom="17" data-label="Good Samaritan Shelter">401 W. Morrison Ave., Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-   - Administrative offices: <a href="#" class="map-link" data-lat="34.944295" data-lon="-120.440996" data-zoom="17" data-label="Good Samaritan Shelter">400 West Park, Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/ -->
-- **Phone:** Emergency shelter: [805-347-3338 x101](tel:+1-805-347-3338;ext=101) <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-- **Email:** Layne Harlow ([lharlow@goodsamaritanshelter.org](mailto:lharlow@goodsamaritanshelter.org))
-- **Hours:**
-   - Emergency shelter: 24/7 <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-   - Shelter intake appointments 8:30am–5pm M–F
-   - Shelter opens at 4:30pm daily
-   - Administrative offices open 9am–5pm M–F <!-- Source: https://www.goodsamaritanshelter.org/who-we-are-1 -->
-- **How to access:** (shelter) Call M–F 8:30am–4:00pm, or walk in 9am–3pm, to establish an intake appointment <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-- Notes:
-   - operates [**Welcome Home Village**](#Welcome-Home-Village)
-   - entry-point for the [**Coordinated Entry System (CES)**](#CES)
-   - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families) <!-- Source: https://www.goodsamaritanshelter.org/housing-support-services -->
 
 ## <a id="Goodwill">Goodwill Stores</a>
 
@@ -1584,18 +1813,6 @@
 
 > *See [**Voice for the Animals Helping Friends Program**](#Helping-Friends-Program)*
 
-## <a id="Help-Me-Grow">Help Me Grow SLO County</a>
-
-- **Website:** [slohelpmegrow.org](https://www.slohelpmegrow.org/)
-
-<!-- Source: https://www.slohelpmegrow.org/contact -->
-| Location | Phone |
-| -------- | ----- |
-| <a href="#" class="map-link" data-lat="35.266202" data-lon="-120.642336" data-zoom="17" data-label="Help Me Grow">1030 Southwood Dr., SLO</a> | [805-305-4481](tel:+1-805-305-4481) |
-| <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Help Me Grow">704 Spring St., Paso Robles</a> | [805-440-1878](tel:+1-805-440-1878) |
-
-- **Hours:** M–F 8am–4:30pm <!-- Source: https://www.slohelpmegrow.org/contact -->
-
 ## <a id="HiCAP">HiCAP (Health Insurance Counseling & Advocacy Program)</a>
 
 - **Website:** [centralcoastseniors.org/hicap](https://centralcoastseniors.org/hicap/)
@@ -1698,7 +1915,7 @@
 - **How to access:** Get a referral from a [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) Employment Resource Specialist
 - Notes:
    - Run by [**Family Care Network**](#Family-Care-Network)
-   - Can make referrals to [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
+   - Can make referrals to [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
 
 ## <a id="Immigrant-Hope-Arroyo-Grande">Immigrant Hope Arroyo Grande</a>
 
@@ -1857,7 +2074,7 @@
 - **Hours:** M–F 9am–5pm <!-- Source: https://linkslo.org/ -->
 - **How to access:** accepts self-referrals, school referrals, and community agency referrals
 - Notes:
-   - Operated by [**Center for Family Strengthening (CFS)**](#CFS)
+   - Operated by [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
    - See also [**North County Family Resource Center**](#North-County-Family-Resource-Center)
    - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
 
@@ -1879,260 +2096,6 @@
 - **Email:** [info@literacyforlifeslo.org](mailto:info@literacyforlifeslo.org) { Source: https://www.literacyforlifeslo.org/contact.php }
 - **Hours:** M–Th 9am–5pm
 -->
-
-## <a id="Little-Free-Libraries">Little Free Libraries</a>
-
-🗺️ **<a href="little-free-libraries-map.html" target="_blank" rel="noopener">View all locations on an interactive map</a>**
-
-- **Website:** [littlefreelibrary.org](https://littlefreelibrary.org/)
-- **Locations:**
-   - Arroyo Grande:
-      - <a href="#" class="map-link" data-lat="35.114090" data-lon="-120.593823" data-zoom="17" data-label="Little Free Library">330 Alder St.</a>
-      - <a href="#" class="map-link" data-lat="35.119917" data-lon="-120.575391" data-zoom="17" data-label="Little Free Library">121 Allen St.</a>
-      - <a href="#" class="map-link" data-lat="35.073182" data-lon="-120.586066" data-zoom="16" data-label="Little Free Library">Amarillo Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.073411" data-lon="-120.580329" data-zoom="17" data-label="Little Free Library">2510 Appaloosa Way</a>
-      - <a href="#" class="map-link" data-lat="35.117185" data-lon="-120.604837" data-zoom="17" data-label="Little Free Library">Corner of Cedar & Boysenberry</a>
-      - <a href="#" class="map-link" data-lat="35.121326" data-lon="-120.570416" data-zoom="17" data-label="Little Free Library">529 E. Cherry Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.122401" data-lon="-120.568374" data-zoom="17" data-label="Little Free Library">615 E. Cherry Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.087336" data-lon="-120.563930" data-zoom="17" data-label="Little Free Library">2385 Clarkie Way</a>
-      - <a href="#" class="map-link" data-lat="35.065912" data-lon="-120.572875" data-zoom="16" data-label="Little Free Library">Cypress Ridge Pkwy.</a> near Cypress Ridge golf course entrance
-      - <a href="#" class="map-link" data-lat="35.055285" data-lon="-120.581134" data-zoom="17" data-label="Little Free Library">485 Dorothy Ln.</a>
-      - <a href="#" class="map-link" data-lat="35.123058" data-lon="-120.600336" data-zoom="17" data-label="Little Free Library">303 N. Elm St.</a>
-      - <a href="#" class="map-link" data-lat="35.110289" data-lon="-120.600857" data-zoom="17" data-label="Little Free Library">512 S. Elm St.</a>
-      - <a href="#" class="map-link" data-lat="35.089684" data-lon="-120.578772" data-zoom="17" data-label="Little Free Library">282 Gait Way</a>
-      - <a href="#" class="map-link" data-lat="35.117013" data-lon="-120.598429" data-zoom="17" data-label="Little Free Library">1146 Maple St.</a>
-      - <a href="#" class="map-link" data-lat="35.116732" data-lon="-120.597214" data-zoom="17" data-label="Little Free Library">Maple St. @ Walnut St.</a>
-      - <a href="#" class="map-link" data-lat="35.123681" data-lon="-120.575667" data-zoom="17" data-label="Little Free Library">127 S. Mason St.</a>
-      - <a href="#" class="map-link" data-lat="35.118206" data-lon="-120.578403" data-zoom="17" data-label="Little Free Library">328 Orchard St.</a>
-      - <a href="#" class="map-link" data-lat="35.119016" data-lon="-120.603324" data-zoom="17" data-label="Little Free Library">1270 Poplar St.</a>
-      - <a href="#" class="map-link" data-lat="35.118284" data-lon="-120.603290" data-zoom="17" data-label="Little Free Library">1260 Sage St.</a>
-      - <a href="#" class="map-link" data-lat="35.126825" data-lon="-120.603753" data-zoom="17" data-label="Little Free Library">1414 Sierra Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.131236" data-lon="-120.564362" data-zoom="17" data-label="Little Free Library">494 Stagecoach Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.108422" data-lon="-120.593270" data-zoom="17" data-label="Little Free Library">958 Sycamore Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.126572" data-lon="-120.581547" data-zoom="17" data-label="Little Free Library">250 Wesley St.</a>
-   - Atascadero:
-      - <a href="#" class="map-link" data-lat="35.439074" data-lon="-120.615227" data-zoom="17" data-label="Little Free Library">9481 Carmel Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.472397" data-lon="-120.673113" data-zoom="17" data-label="Little Free Library">8505 Carmelita Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.506468" data-lon="-120.690123" data-zoom="17" data-label="Little Free Library">3155 El Camino Real</a>
-      - <a href="#" class="map-link" data-lat="35.518062" data-lon="-120.682527" data-zoom="17" data-label="Little Free Library">2720 Ferrocarril Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.480842" data-lon="-120.652139" data-zoom="17" data-label="Little Free Library">8934 Junipero Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.494020" data-lon="-120.672484" data-zoom="17" data-label="Little Free Library">Mariquita Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.466434" data-lon="-120.665097" data-zoom="17" data-label="Little Free Library">9125 Mountain View Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.493723" data-lon="-120.675068" data-zoom="17" data-label="Little Free Library">5265 Palma Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.420287" data-lon="-120.628037" data-zoom="17" data-label="Little Free Library">14985 Powerline Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.513614" data-lon="-120.722312" data-zoom="17" data-label="Little Free Library">8155 San Gregorio Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.463859" data-lon="-120.699431" data-zoom="16" data-label="Little Free Library">10675 San Marcos Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.503843" data-lon="-120.725162" data-zoom="16" data-label="Little Free Library">13400 Santa Ana Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.483352" data-lon="-120.669031" data-zoom="17" data-label="Little Free Library">6605 Santa Ynez Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.487968" data-lon="-120.655054" data-zoom="17" data-label="Little Free Library">7310 Sonora Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.476039" data-lon="-120.647912" data-zoom="17" data-label="Little Free Library">8437 Vaquero Ln.</a>
-      - <a href="#" class="map-link" data-lat="35.507060" data-lon="-120.669193" data-zoom="17" data-label="Little Free Library">4555 Viscano Ave.</a>
-   - Avila Beach:
-      - <a href="#" class="map-link" data-lat="35.193967" data-lon="-120.715208" data-zoom="17" data-label="Little Free Library">1401 San Luis Bay Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.180624" data-lon="-120.733256" data-zoom="17" data-label="Little Free Library">191 San Miguel St.</a>
-      - <a href="#" class="map-link" data-lat="35.194958" data-lon="-120.681242" data-zoom="17" data-label="Little Free Library">259 Squire Canyon Rd.</a>
-   - Cambria:
-      - <a href="#" class="map-link" data-lat="35.574393" data-lon="-121.098921" data-zoom="17" data-label="Little Free Library">6404 Buckley Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.548281" data-lon="-121.091709" data-zoom="17" data-label="Little Free Library">701 Drake St.</a>
-      - <a href="#" class="map-link" data-lat="35.564578" data-lon="-121.102896" data-zoom="17" data-label="Little Free Library">521 Hastings St.</a>
-      - <a href="#" class="map-link" data-lat="35.547895" data-lon="-121.074863" data-zoom="17" data-label="Little Free Library">2750 Holden Pl.</a>
-      - <a href="#" class="map-link" data-lat="35.547507" data-lon="-121.094860" data-zoom="17" data-label="Little Free Library">383 Orlando Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.541138" data-lon="-121.073378" data-zoom="17" data-label="Little Free Library">1176 Pineridge Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.571884" data-lon="-121.107462" data-zoom="17" data-label="Little Free Library">365 Weymouth St.</a>
-   - Cayucos:
-      - <a href="#" class="map-link" data-lat="35.441637" data-lon="-120.891423" data-zoom="17" data-label="Little Free Library">84 13th St.</a>
-      - <a href="#" class="map-link" data-lat="35.441671" data-lon="-120.893139" data-zoom="17" data-label="Little Free Library">1175 Cass Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.448532" data-lon="-120.901740" data-zoom="17" data-label="Little Free Library">151 F St.</a>
-      - <a href="#" class="map-link" data-lat="35.448889" data-lon="-120.910614" data-zoom="17" data-label="Little Free Library">517 Lucerne Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.445027" data-lon="-120.896035" data-zoom="17" data-label="Little Free Library">625 S. Ocean Ave.</a>
-   - Grover Beach:
-      - <a href="#" class="map-link" data-lat="35.124773" data-lon="-120.627183" data-zoom="17" data-label="Little Free Library">338 N. 3rd St.</a>
-      - <a href="#" class="map-link" data-lat="35.120202" data-lon="-120.626670" data-zoom="17" data-label="Little Free Library">251 S. 4th St.</a>
-      - <a href="#" class="map-link" data-lat="35.123621" data-lon="-120.624910" data-zoom="17" data-label="Little Free Library">266 N. 5th St.</a>
-      - <a href="#" class="map-link" data-lat="35.108002" data-lon="-120.609531" data-zoom="17" data-label="Little Free Library">240 Anita Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.115854" data-lon="-120.616578" data-zoom="17" data-label="Little Free Library">1230 Trouville Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.115683" data-lon="-120.611738" data-zoom="17" data-label="Little Free Library">1624 Trouville Ave.</a>
-   - Los Osos / Baywood Park:
-      - <a href="#" class="map-link" data-lat="35.321573" data-lon="-120.839052" data-zoom="17" data-label="Little Free Library">1643 4th St.</a>
-      - <a href="#" class="map-link" data-lat="35.330479" data-lon="-120.835297" data-zoom="17" data-label="Little Free Library">1182 7th St.</a>
-      - <a href="#" class="map-link" data-lat="35.317787" data-lon="-120.835598" data-zoom="17" data-label="Little Free Library">1855 7th St.</a>
-      - <a href="#" class="map-link" data-lat="35.330435" data-lon="-120.833012" data-zoom="17" data-label="Little Free Library">1180 9th St.</a>
-      - <a href="#" class="map-link" data-lat="35.328834" data-lon="-120.830823" data-zoom="17" data-label="Little Free Library">1257 11th St.</a>
-      - <a href="#" class="map-link" data-lat="35.325639" data-lon="-120.825394" data-zoom="17" data-label="Little Free Library">1426 16th St.</a>
-      - <a href="#" class="map-link" data-lat="35.323582" data-lon="-120.823474" data-zoom="17" data-label="Little Free Library">1539 18th St.</a>
-      - <a href="#" class="map-link" data-lat="35.321708" data-lon="-120.823474" data-zoom="17" data-label="Little Free Library">1639 18th St.</a>
-      - <a href="#" class="map-link" data-lat="35.310294" data-lon="-120.820349" data-zoom="17" data-label="Little Free Library">2130 Andre Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.309403" data-lon="-120.833878" data-zoom="17" data-label="Little Free Library">2315 Bayview Heights Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.311895" data-lon="-120.834482" data-zoom="17" data-label="Little Free Library">2148 Bush Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.307316" data-lon="-120.811683" data-zoom="17" data-label="Little Free Library">2149 Lariat Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.317673" data-lon="-120.843891" data-zoom="17" data-label="Little Free Library">561 Loma St.</a>
-      - <a href="#" class="map-link" data-lat="35.312628" data-lon="-120.825568" data-zoom="17" data-label="Little Free Library">1351 Los Olivos Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.311720" data-lon="-120.831102" data-zoom="17" data-label="Little Free Library">1078 Los Osos Valley Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.314850" data-lon="-120.826659" data-zoom="17" data-label="Little Free Library">2003 Lost Oak Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.310765" data-lon="-120.838720" data-zoom="17" data-label="Little Free Library">732 Manzanita Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.307342" data-lon="-120.825877" data-zoom="17" data-label="Little Free Library">2345 Oak Ridge Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.314075" data-lon="-120.851884" data-zoom="17" data-label="Little Free Library">2100 Pecho Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.328212" data-lon="-120.834610" data-zoom="17" data-label="Little Free Library">948 Santa Maria Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.330164" data-lon="-120.821371" data-zoom="17" data-label="Little Free Library">1188 Scenic Way</a>
-      - <a href="#" class="map-link" data-lat="35.307885" data-lon="-120.826553" data-zoom="17" data-label="Little Free Library">2340 Tierra Dr.</a>
-   - Morro Bay:
-      - <a href="#" class="map-link" data-lat="35.355395" data-lon="-120.843558" data-zoom="17" data-label="Little Free Library">720 Cabrillo Pl.</a>
-      - <a href="#" class="map-link" data-lat="35.390449" data-lon="-120.861604" data-zoom="17" data-label="Little Free Library">Cloisters Community Park</a>
-      - <a href="#" class="map-link" data-lat="35.361721" data-lon="-120.844277" data-zoom="17" data-label="Little Free Library">482 Estero Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.387703" data-lon="-120.853193" data-zoom="17" data-label="Little Free Library">2401 Ironwood Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.361784" data-lon="-120.850224" data-zoom="17" data-label="Little Free Library">495 Main St.</a>
-      - <a href="#" class="map-link" data-lat="35.394094" data-lon="-120.857676" data-zoom="17" data-label="Little Free Library">450 San Jacinto St.</a>
-   - Nipomo:
-      - <a href="#" class="map-link" data-lat="35.016626" data-lon="-120.511421" data-zoom="17" data-label="Little Free Library">421 N. Las Flores Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.044438" data-lon="-120.516232" data-zoom="17" data-label="Little Free Library">789 Live Oak Ridge Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.044833" data-lon="-120.493745" data-zoom="17" data-label="Little Free Library">525 Sandydale Dr.</a>
-   - Oceano:
-      - <a href="#" class="map-link" data-lat="35.105805" data-lon="-120.611494" data-zoom="17" data-label="Little Free Library">1341 18th St.</a>
-      - <a href="#" class="map-link" data-lat="35.102689" data-lon="-120.603769" data-zoom="17" data-label="Little Free Library">1501 24th St.</a>
-   - Paso Robles:
-      - <a href="#" class="map-link" data-lat="35.685885" data-lon="-120.949099" data-zoom="15" data-label="Little Free Library">14140 Chimney Rock Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.675182" data-lon="-120.599488" data-zoom="17" data-label="Little Free Library">5090 Deer Creek Way</a>
-      - <a href="#" class="map-link" data-lat="35.626407" data-lon="-120.701740" data-zoom="17" data-label="Little Free Library">1130 Merry Hill Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.637880" data-lon="-120.693794" data-zoom="17" data-label="Little Free Library">2247 Oak St.</a>
-      - <a href="#" class="map-link" data-lat="35.635204" data-lon="-120.689301" data-zoom="17" data-label="Little Free Library">2004 Pine St.</a>
-      - <a href="#" class="map-link" data-lat="35.635204" data-lon="-120.689301" data-zoom="17" data-label="Little Free Library">3773 Ruth Way #A</a>
-      - <a href="#" class="map-link" data-lat="35.625533" data-lon="-120.692883" data-zoom="17" data-label="Little Free Library">1103 Spring St.</a>
-      - <a href="#" class="map-link" data-lat="35.620405" data-lon="-120.668131" data-zoom="17" data-label="Little Free Library">539 Veronica Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.636053" data-lon="-120.695039" data-zoom="17" data-label="Little Free Library">2105 Vine St.</a>
-      - <a href="#" class="map-link" data-lat="35.626666" data-lon="-120.657874" data-zoom="17" data-label="Little Free Library">904 Vista Cerro Dr.</a>
-   - Pismo Beach:
-      - <a href="#" class="map-link" data-lat="35.141748" data-lon="-120.619004" data-zoom="17" data-label="Little Free Library">28 El Viento</a>
-      - <a href="#" class="map-link" data-lat="35.134519" data-lon="-120.616391" data-zoom="17" data-label="Little Free Library">224 Irish Way</a>
-      - <a href="#" class="map-link" data-lat="35.143482" data-lon="-120.641506" data-zoom="17" data-label="Little Free Library">990 Price St.</a>
-      - <a href="#" class="map-link" data-lat="35.148810" data-lon="-120.651196" data-zoom="17" data-label="Little Free Library">2411 Price St.</a>
-      - <a href="#" class="map-link" data-lat="35.149153" data-lon="-120.653452" data-zoom="17" data-label="Little Free Library">2555 Price St.</a>
-      - <a href="#" class="map-link" data-lat="35.136528" data-lon="-120.606985" data-zoom="17" data-label="Little Free Library">995 Skyline Dr.</a>
-   - San Miguel:
-      - <a href="#" class="map-link" data-lat="35.750082" data-lon="-120.698097" data-zoom="17" data-label="Little Free Library">1197 L St.</a>
-   - Santa Margarita:
-      - <a href="#" class="map-link" data-lat="35.394411" data-lon="-120.600808" data-zoom="17" data-label="Little Free Library">22070 H St.</a>
-      - <a href="#" class="map-link" data-lat="35.735801" data-lon="-120.607985" data-zoom="17" data-label="Little Free Library">3120 Ranchita Canyon Rd.</a>
-   - Shell Beach:
-      - <a href="#" class="map-link" data-lat="35.156784" data-lon="-120.677138" data-zoom="17" data-label="Little Free Library">302 Cuyama Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.155398" data-lon="-120.673018" data-zoom="17" data-label="Little Free Library">262 Esparto Ave.</a>
-   - SLO:
-      - <a href="#" class="map-link" data-lat="35.247297" data-lon="-120.629542" data-zoom="16" data-label="Little Free Library">1330 Alder St.</a>
-      - <a href="#" class="map-link" data-lat="35.263063" data-lon="-120.687116" data-zoom="17" data-label="Little Free Library">1378 Avalon St. (@ Oceanaire Dr.)</a>
-      - <a href="#" class="map-link" data-lat="35.291125" data-lon="-120.670781" data-zoom="17" data-label="Little Free Library">79 Benton Way</a>
-      - <a href="#" class="map-link" data-lat="35.261906" data-lon="-120.655375" data-zoom="17" data-label="Little Free Library">Bluerock Drive near Stoneridge Park</a>
-      - <a href="#" class="map-link" data-lat="35.276596" data-lon="-120.662295" data-zoom="17" data-label="Little Free Library">1410 Broad St. @ Pacific</a>
-      - Center St. by Nazarene church
-      - <a href="#" class="map-link" data-lat="35.287044" data-lon="-120.667729" data-zoom="17" data-label="Little Free Library">Center St. between Chorro and Lincoln</a>
-      - <a href="#" class="map-link" data-lat="35.295083" data-lon="-120.677927" data-zoom="17" data-label="Little Free Library">171 Cerro Romauldo Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.331880" data-lon="-120.728717" data-zoom="17" data-label="Little Free Library">3450 Dairy Creek Rd. (SLO Botanical Garden)</a>
-      - <a href="#" class="map-link" data-lat="35.270140" data-lon="-120.649130" data-zoom="17" data-label="Little Free Library">2378 Boulevard Del Campo</a>
-      - <a href="#" class="map-link" data-lat="35.265559" data-lon="-120.698268" data-zoom="17" data-label="Little Free Library">1295 Descanso St.</a>
-      - <a href="#" class="map-link" data-lat="35.236681" data-lon="-120.675588" data-zoom="17" data-label="Little Free Library">107 Earthwood Ln.</a>
-      - <a href="#" class="map-link" data-lat="35.255055" data-lon="-120.695018" data-zoom="17" data-label="Little Free Library">1595 Eto Circle</a>
-      - <a href="#" class="map-link" data-lat="35.257552" data-lon="-120.699459" data-zoom="17" data-label="Little Free Library">1383 Fairway Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.298910" data-lon="-120.684954" data-zoom="17" data-label="Little Free Library">157 Fel Mar Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.264175" data-lon="-120.638396" data-zoom="17" data-label="Little Free Library">1348 Fernwood Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.274520" data-lon="-120.654666" data-zoom="17" data-label="Little Free Library">1011 George St.</a>
-      - <a href="#" class="map-link" data-lat="35.122113" data-lon="-120.634064" data-zoom="17" data-label="Little Free Library">1 Grand Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.264324" data-lon="-120.635237" data-zoom="17" data-label="Little Free Library">3440 Gregory Ct.</a>
-      - <a href="#" class="map-link" data-lat="35.284846" data-lon="-120.654559" data-zoom="17" data-label="Little Free Library">1415 Higuera St.</a>
-      - On a utility pole at <a href="#" class="map-link" data-lat="35.276876" data-lon="-120.658486" data-zoom="17" data-label="Little Free Library">Morro St. and Islay St.</a>
-      - <a href="#" class="map-link" data-lat="35.278313" data-lon="-120.655482" data-zoom="17" data-label="Little Free Library">1121 Islay St.</a>
-      - <a href="#" class="map-link" data-lat="35.269615" data-lon="-120.647253" data-zoom="17" data-label="Little Free Library">1215 Joyce Ct.</a>
-      - <a href="#" class="map-link" data-lat="35.253618" data-lon="-120.636411" data-zoom="17" data-label="Little Free Library">3962 Kilbern Way</a>
-      - <a href="#" class="map-link" data-lat="35.293831" data-lon="-120.682958" data-zoom="17" data-label="Little Free Library">10 La Entrada Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.264210" data-lon="-120.659173" data-zoom="17" data-label="Little Free Library">286 Lawrence Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.263965" data-lon="-120.653293" data-zoom="17" data-label="Little Free Library">655 Lawrence Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.277910" data-lon="-120.654495" data-zoom="17" data-label="Little Free Library">1148 Leff St.</a>
-      - United Church of Christ (<a href="#" class="map-link" data-lat="35.260531" data-lon="-120.695661" data-zoom="17" data-label="Little Free Library">11245 Los Osos Valley Road</a>)
-      - <a href="#" class="map-link" data-lat="35.259926" data-lon="-120.699974" data-zoom="17" data-label="Little Free Library">1708 Lynn</a>
-      - <a href="#" class="map-link" data-lat="35.285083" data-lon="-120.660090" data-zoom="17" data-label="Little Free Library">Corner of Mill & Toro</a>
-      - Monday Club, <a href="#" class="map-link" data-lat="35.288367" data-lon="-120.651308" data-zoom="17" data-label="Little Free Library">1815 Monterey at Grand</a>
-      - <a href="#" class="map-link" data-lat="35.260767" data-lon="-120.636610" data-zoom="17" data-label="Little Free Library">1430 Noveno Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.260794" data-lon="-120.684820" data-zoom="17" data-label="Little Free Library">1552 Oceanaire Dr. (near Atascadero St.)</a>
-      - <a href="#" class="map-link" data-lat="35.255958" data-lon="-120.684262" data-zoom="17" data-label="Little Free Library">1906 Oceanaire Dr. (near Pinecove Dr.)</a>
-      - <a href="#" class="map-link" data-lat="35.282736" data-lon="-120.654597" data-zoom="17" data-label="Little Free Library">Pacific between Johnson & Pepper</a>
-      - <a href="#" class="map-link" data-lat="35.255695" data-lon="-120.688071" data-zoom="17" data-label="Little Free Library">1768 Pereira Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.246714" data-lon="-120.629867" data-zoom="17" data-label="Little Free Library">1358 Purple Sage Ln.</a>
-      - <a href="#" class="map-link" data-lat="35.255406" data-lon="-120.663539" data-zoom="17" data-label="Little Free Library">333 Sage St.</a>
-      - <a href="#" class="map-link" data-lat="35.255423" data-lon="-120.661865" data-zoom="17" data-label="Little Free Library">373 Sage St.</a>
-      - <a href="#" class="map-link" data-lat="35.192977" data-lon="-120.715295" data-zoom="17" data-label="Little Free Library">1401 San Luis Bay Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.286554" data-lon="-120.650418" data-zoom="17" data-label="Little Free Library">1739 San Luis Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.269203" data-lon="-120.642908" data-zoom="17" data-label="Little Free Library">1391 San Marcos Ct.</a>
-      - In front of The Establishment, <a href="#" class="map-link" data-lat="35.276342" data-lon="-120.656708" data-zoom="17" data-label="Little Free Library">1703 Santa Barbara Ave.</a>
-      - By the Montessori school at <a href="#" class="map-link" data-lat="35.241860" data-lon="-120.676929" data-zoom="17" data-label="Little Free Library">South Higuera & Los Osos Valley Road</a>
-      - <a href="#" class="map-link" data-lat="35.248051" data-lon="-120.674354" data-zoom="16" data-label="Little Free Library">3960 S. Higuera St. #34</a>
-      - Nazarene church on <a href="#" class="map-link" data-lat="35.264981" data-lon="-120.635355" data-zoom="17" data-label="Little Free Library">3396 Southwood Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.264823" data-lon="-120.629282" data-zoom="17" data-label="Little Free Library">1767 Southwood Dr.</a>
-      - <a href="#" class="map-link" data-lat="35.247748" data-lon="-120.627995" data-zoom="17" data-label="Little Free Library">4475 Wavertree St.</a>
-      - <a href="#" class="map-link" data-lat="35.267197" data-lon="-120.656072" data-zoom="17" data-label="Little Free Library">637 Woodbridge</a>
-   - Templeton:
-      - <a href="#" class="map-link" data-lat="35.540835" data-lon="-120.717790" data-zoom="18" data-label="Little Free Library">785 Ashley Ln.</a>
-      - <a href="#" class="map-link" data-lat="35.549455" data-lon="-120.709426" data-zoom="17" data-label="Little Free Library">620 Old Country Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.553923" data-lon="-120.730080" data-zoom="17" data-label="Little Free Library">308 Puffin Way</a>
-      - <a href="#" class="map-link" data-lat="35.550900" data-lon="-120.703762" data-zoom="17" data-label="Little Free Library">215 S. Main St.</a>
-      - <a href="#" class="map-link" data-lat="35.542668" data-lon="-120.722494" data-zoom="17" data-label="Little Free Library">1027 Santa Rita Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.555604" data-lon="-120.706229" data-zoom="17" data-label="Little Free Library">158 Wessels Way</a>
-
-- **Hours:** Daily, 24/7
-
-## <a id="Little-Free-Pantries">Little Free Pantries</a>
-
-🗺️ **<a href="little-free-pantries-map.html" target="_blank" rel="noopener">View all locations on an interactive map</a>**
-
-Note: Little Free Pantries come and go.
-Sometimes they are neglected, damaged, or removed.
-If you see one listed here that is no longer in service, please use the feedback button to tell VivaSLO about it.
-
-- **Website:** [littlefreepantry.org](https://www.littlefreepantry.org/)
-- **Locations:**
-   - Arroyo Grande:
-      - <a href="#" class="map-link" data-lat="35.117680" data-lon="-120.591688" data-zoom="17" data-label="Little Free Pantry">132 South Halcyon Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.064428" data-lon="-120.517080" data-zoom="17" data-label="Little Free Pantry">268 Summit Station Rd.</a>
-   - Atascadero:
-      - <a href="#" class="map-link" data-lat="35.491538" data-lon="-120.647313" data-zoom="17" data-label="Little Free Pantry">9557 Curbaril Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Little Free Pantry">9333 Santa Barbara Rd.</a>
-   - Grover Beach:
-      - <a href="#" class="map-link" data-lat="35.120336" data-lon="-120.621656" data-zoom="17" data-label="Little Free Pantry">202 S. 8th St. / 770 Rockaway Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.124713" data-lon="-120.611462" data-zoom="17" data-label="Little Free Pantry">393 N. 16th St.</a>
-      - <a href="#" class="map-link" data-lat="35.125591" data-lon="-120.619581" data-zoom="17" data-label="Little Free Pantry">925 Newport Ave.</a>
-   - Los Osos:
-      - <a href="#" class="map-link" data-lat="35.323564" data-lon="-120.837615" data-zoom="16" data-label="Little Free Pantry">1500 block of 5th St.</a>
-      - <a href="#" class="map-link" data-lat="35.323314" data-lon="-120.832444" data-zoom="17" data-label="Little Free Pantry">1559 10th St.</a>
-      - <a href="#" class="map-link" data-lat="35.313346" data-lon="-120.845536" data-zoom="17" data-label="Little Free Pantry">490 Los Osos Valley Rd.</a>
-   - Morro Bay:
-      - <a href="#" class="map-link" data-lat="35.396754" data-lon="-120.857001" data-zoom="17" data-label="Little Free Pantry">3000 Hemlock Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.392420" data-lon="-120.857967" data-zoom="17" data-label="Little Free Pantry">397 San Joaquin St.</a>
-   - Nipomo:
-      - <a href="#" class="map-link" data-lat="35.041418" data-lon="-120.477533" data-zoom="17" data-label="Little Free Pantry">181 W Tefft St.</a>
-      - <a href="#" class="map-link" data-lat="35.039950" data-lon="-120.479340" data-zoom="17" data-label="Little Free Pantry">267 W Tefft St.</a>
-   - Oceano:
-      - <a href="#" class="map-link" data-lat="35.105814" data-lon="-120.604037" data-zoom="17" data-label="Little Free Pantry">1322 24th St.</a>
-      - <a href="#" class="map-link" data-lat="35.102703" data-lon="-120.603613" data-zoom="17" data-label="Little Free Pantry">1501 24th St.</a>
-      - <a href="#" class="map-link" data-lat="35.099906" data-lon="-120.610517" data-zoom="17" data-label="Little Free Pantry">1930 Ocean St.</a>
-      - <a href="#" class="map-link" data-lat="35.107217" data-lon="-120.624337" data-zoom="17" data-label="Little Free Pantry">615 Pier Ave.</a>
-   - Paso Robles:
-      - <a href="#" class="map-link" data-lat="35.622280" data-lon="-120.694835" data-zoom="17" data-label="Little Free Pantry">8th St. and Olive St.</a>
-      - <a href="#" class="map-link" data-lat="35.648648" data-lon="-120.694685" data-zoom="17" data-label="Little Free Pantry">3301 Oak St.</a>
-      - <a href="#" class="map-link" data-lat="35.606196" data-lon="-120.643111" data-zoom="17" data-label="Little Free Pantry">1003 Pioneer Trail Rd.</a>
-   - Pismo Beach: <a href="#" class="map-link" data-lat="35.135993" data-lon="-120.610013" data-zoom="17" data-label="Little Free Pantry">206 Margo Way</a>
-   - Santa Margarita:
-      - <a href="#" class="map-link" data-lat="35.392602" data-lon="-120.606745" data-zoom="17" data-label="Little Free Pantry">22210 El Camino Real</a>
-      - <a href="#" class="map-link" data-lat="35.386645" data-lon="-120.606553" data-zoom="17" data-label="Little Free Pantry">22495 K St.</a>
-   - SLO:
-      - <a href="#" class="map-link" data-lat="35.260531" data-lon="-120.643519" data-zoom="17" data-label="Little Free Pantry">3320 Bullock Ln.</a>
-      - <a href="#" class="map-link" data-lat="35.271279" data-lon="-120.657976" data-zoom="18" data-label="Little Free Pantry">2021 Broad St.</a>
-      - <a href="#" class="map-link" data-lat="35.295416" data-lon="-120.673839" data-zoom="17" data-label="Little Free Pantry">226 Ferrini Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.272050" data-lon="-120.665095" data-zoom="17" data-label="Little Free Pantry">335 High St.</a>
-      - <a href="#" class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Little Free Pantry">2075 Johnson Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.260575" data-lon="-120.695157" data-zoom="17" data-label="Little Free Pantry">11245 Los Osos Valley Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.276460" data-lon="-120.667080" data-zoom="18" data-label="Little Free Pantry">474 Marsh St.</a>
-      - <a href="#" class="map-link" data-lat="35.276676" data-lon="-120.664180" data-zoom="17" data-label="Little Free Pantry">1306 Nipomo St.</a> <!-- Verified 7 Dec. 2025 -->
-      - <a href="#" class="map-link" data-lat="35.276376" data-lon="-120.662522" data-zoom="17" data-label="Little Free Pantry">695 Pismo St.</a>
-      - <a href="#" class="map-link" data-lat="35.269527" data-lon="-120.652344" data-zoom="17" data-label="Little Free Pantry">corner of San Carlos and Bushnell</a>
-      - <a href="#" class="map-link" data-lat="35.291537" data-lon="-120.683366" data-zoom="17" data-label="Little Free Pantry">193 San Jose Ct.</a>
-   - Templeton: <a href="#" class="map-link" data-lat="35.547338" data-lon="-120.710440" data-zoom="17" data-label="Little Free Pantry">806 Old Country Rd.</a>
-- **Hours:** Daily, 24/7
 
 ## <a id="Loaves-and-Fishes-Atascadero">Loaves & Fishes (Atascadero)</a>
 
@@ -2266,14 +2229,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - Notes:
    - [**CenCal Health**](#CenCal) is the local Medi-Cal administrator <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
    - Apply at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/) or in person at local DSS offices <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
-
-## <a id="Medically-Fragile-Homeless-Program">Medically Fragile Homeless Program</a>
-
-- **Website:** [cfsslo.org/#mfh](https://cfsslo.org/#mfh)
-- **Email:** [carrie@linkslo.org](mailto:carrie@linkslo.org) <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
-- Notes:
-   - Access through [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) or [**Housing Support Program (HSP)**](#Housing-Support-Program) or [**Adult Protective Services**](#Adult-Protective-Services) or [**CalWORKs**](#CalWORKs)
-   - Operated by [**Center for Family Strengthening (CFS)**](#CFS)
 
 ## <a id="MISP">Medically Indigent Services Program (MISP)</a>
 
@@ -2451,7 +2406,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## Noor Foundation
 
-> *See [**SLO Noor Foundation**](#SLO-Noor-Foundation)*
+> *See [**La Fundación SLO Noor**](#SLO-Noor-Foundation)*
 
 ## <a id="North-County-Care">North County Care Minor Emergency Services</a>
 
@@ -2480,7 +2435,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Email:** [info@NoCoNeighborAid.org](mailto:info@NoCoNeighborAid.org) <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 - **Hours:** By appointment
 - **How to access:** Make a request by using their [web form](https://cfsslo.org/north-county-neighboraid/)
-- Notes: Grassroots initiative managed by [**Center for Family Strengthening**](#CFS)
+- Notes: Grassroots initiative managed by [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
 
 ## <a id="North-County-Paws-Cause">North County Paws Cause</a>
 
@@ -2524,7 +2479,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [sloparents.org](https://sloparents.org/)
 - **Phone:** [805-543-3700](tel:+1-805-543-3700) <!-- Source: https://sloparents.org/ --> (Español: [805-540-1223](tel:+1-805-540-1223))
 - **Email:** [info@sloparents.org](mailto:info@sloparents.org) <!-- Source: https://sloparents.org/ -->
-- Note: operated by [**Center for Family Strengthening (CFS)**](#CFS)
+- Note: operated by [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
 
 ## <a id="Parents-Helping-Parents">Parents Helping Parents of SLO County</a>
 
@@ -2653,6 +2608,64 @@ If you see one listed here that is no longer in service, please use the feedback
    - Operates “Tiburon Place”
    - Operates “Villas at Higuera”
 
+## <a id="Little-Free-Pantries">Pequeñas Despensas Gratuitas</a>
+
+🗺️ **<a href="little-free-pantries-map.html" target="_blank" rel="noopener">View all locations on an interactive map</a>**
+
+Note: Pequeñas Despensas Gratuitas come and go.
+Sometimes they are neglected, damaged, or removed.
+If you see one listed here that is no longer in service, please use the feedback button to tell VivaSLO about it.
+
+- **Website:** [littlefreepantry.org](https://www.littlefreepantry.org/)
+- **Locations:**
+   - Arroyo Grande:
+      - <a href="#" class="map-link" data-lat="35.117680" data-lon="-120.591688" data-zoom="17" data-label="Pequeña Despensa Gratuita">132 South Halcyon Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.064428" data-lon="-120.517080" data-zoom="17" data-label="Pequeña Despensa Gratuita">268 Summit Station Rd.</a>
+   - Atascadero:
+      - <a href="#" class="map-link" data-lat="35.491538" data-lon="-120.647313" data-zoom="17" data-label="Pequeña Despensa Gratuita">9557 Curbaril Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.449172" data-lon="-120.633742" data-zoom="17" data-label="Pequeña Despensa Gratuita">9333 Santa Barbara Rd.</a>
+   - Grover Beach:
+      - <a href="#" class="map-link" data-lat="35.120336" data-lon="-120.621656" data-zoom="17" data-label="Pequeña Despensa Gratuita">202 S. 8th St. / 770 Rockaway Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.124713" data-lon="-120.611462" data-zoom="17" data-label="Pequeña Despensa Gratuita">393 N. 16th St.</a>
+      - <a href="#" class="map-link" data-lat="35.125591" data-lon="-120.619581" data-zoom="17" data-label="Pequeña Despensa Gratuita">925 Newport Ave.</a>
+   - Los Osos:
+      - <a href="#" class="map-link" data-lat="35.323564" data-lon="-120.837615" data-zoom="16" data-label="Pequeña Despensa Gratuita">1500 block of 5th St.</a>
+      - <a href="#" class="map-link" data-lat="35.323314" data-lon="-120.832444" data-zoom="17" data-label="Pequeña Despensa Gratuita">1559 10th St.</a>
+      - <a href="#" class="map-link" data-lat="35.313346" data-lon="-120.845536" data-zoom="17" data-label="Pequeña Despensa Gratuita">490 Los Osos Valley Rd.</a>
+   - Morro Bay:
+      - <a href="#" class="map-link" data-lat="35.396754" data-lon="-120.857001" data-zoom="17" data-label="Pequeña Despensa Gratuita">3000 Hemlock Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.392420" data-lon="-120.857967" data-zoom="17" data-label="Pequeña Despensa Gratuita">397 San Joaquin St.</a>
+   - Nipomo:
+      - <a href="#" class="map-link" data-lat="35.041418" data-lon="-120.477533" data-zoom="17" data-label="Pequeña Despensa Gratuita">181 W Tefft St.</a>
+      - <a href="#" class="map-link" data-lat="35.039950" data-lon="-120.479340" data-zoom="17" data-label="Pequeña Despensa Gratuita">267 W Tefft St.</a>
+   - Oceano:
+      - <a href="#" class="map-link" data-lat="35.105814" data-lon="-120.604037" data-zoom="17" data-label="Pequeña Despensa Gratuita">1322 24th St.</a>
+      - <a href="#" class="map-link" data-lat="35.102703" data-lon="-120.603613" data-zoom="17" data-label="Pequeña Despensa Gratuita">1501 24th St.</a>
+      - <a href="#" class="map-link" data-lat="35.099906" data-lon="-120.610517" data-zoom="17" data-label="Pequeña Despensa Gratuita">1930 Ocean St.</a>
+      - <a href="#" class="map-link" data-lat="35.107217" data-lon="-120.624337" data-zoom="17" data-label="Pequeña Despensa Gratuita">615 Pier Ave.</a>
+   - Paso Robles:
+      - <a href="#" class="map-link" data-lat="35.622280" data-lon="-120.694835" data-zoom="17" data-label="Pequeña Despensa Gratuita">8th St. and Olive St.</a>
+      - <a href="#" class="map-link" data-lat="35.648648" data-lon="-120.694685" data-zoom="17" data-label="Pequeña Despensa Gratuita">3301 Oak St.</a>
+      - <a href="#" class="map-link" data-lat="35.606196" data-lon="-120.643111" data-zoom="17" data-label="Pequeña Despensa Gratuita">1003 Pioneer Trail Rd.</a>
+   - Pismo Beach: <a href="#" class="map-link" data-lat="35.135993" data-lon="-120.610013" data-zoom="17" data-label="Pequeña Despensa Gratuita">206 Margo Way</a>
+   - Santa Margarita:
+      - <a href="#" class="map-link" data-lat="35.392602" data-lon="-120.606745" data-zoom="17" data-label="Pequeña Despensa Gratuita">22210 El Camino Real</a>
+      - <a href="#" class="map-link" data-lat="35.386645" data-lon="-120.606553" data-zoom="17" data-label="Pequeña Despensa Gratuita">22495 K St.</a>
+   - SLO:
+      - <a href="#" class="map-link" data-lat="35.260531" data-lon="-120.643519" data-zoom="17" data-label="Pequeña Despensa Gratuita">3320 Bullock Ln.</a>
+      - <a href="#" class="map-link" data-lat="35.271279" data-lon="-120.657976" data-zoom="18" data-label="Pequeña Despensa Gratuita">2021 Broad St.</a>
+      - <a href="#" class="map-link" data-lat="35.295416" data-lon="-120.673839" data-zoom="17" data-label="Pequeña Despensa Gratuita">226 Ferrini Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.272050" data-lon="-120.665095" data-zoom="17" data-label="Pequeña Despensa Gratuita">335 High St.</a>
+      - <a href="#" class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Pequeña Despensa Gratuita">2075 Johnson Ave.</a>
+      - <a href="#" class="map-link" data-lat="35.260575" data-lon="-120.695157" data-zoom="17" data-label="Pequeña Despensa Gratuita">11245 Los Osos Valley Rd.</a>
+      - <a href="#" class="map-link" data-lat="35.276460" data-lon="-120.667080" data-zoom="18" data-label="Pequeña Despensa Gratuita">474 Marsh St.</a>
+      - <a href="#" class="map-link" data-lat="35.276676" data-lon="-120.664180" data-zoom="17" data-label="Pequeña Despensa Gratuita">1306 Nipomo St.</a> <!-- Verified 7 Dec. 2025 -->
+      - <a href="#" class="map-link" data-lat="35.276376" data-lon="-120.662522" data-zoom="17" data-label="Pequeña Despensa Gratuita">695 Pismo St.</a>
+      - <a href="#" class="map-link" data-lat="35.269527" data-lon="-120.652344" data-zoom="17" data-label="Pequeña Despensa Gratuita">corner of San Carlos and Bushnell</a>
+      - <a href="#" class="map-link" data-lat="35.291537" data-lon="-120.683366" data-zoom="17" data-label="Pequeña Despensa Gratuita">193 San Jose Ct.</a>
+   - Templeton: <a href="#" class="map-link" data-lat="35.547338" data-lon="-120.710440" data-zoom="17" data-label="Pequeña Despensa Gratuita">806 Old Country Rd.</a>
+- **Hours:** Daily, 24/7
+
 ## Pet Pantry
 
 > *See [**Woods Humane Society**](#Woods-Humane-Society)*
@@ -2710,6 +2723,26 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Email:** [info@ppsslo.org](mailto:info@ppsslo.org) <!-- Source: https://www.ppsslo.org/blank -->
 - **Hours:** M–F 10am–3pm <!-- Source: https://www.ppsslo.org/blank -->
 - **How to access:** By appointment only; call or text to make an appointment <!-- Source: https://www.ppsslo.org/blank -->
+
+## <a id="Medically-Fragile-Homeless-Program">Programa para Personas sin Hogar con Fragilidad Médica</a>
+
+- **Website:** [cfsslo.org/#mfh](https://cfsslo.org/#mfh)
+- **Email:** [carrie@linkslo.org](mailto:carrie@linkslo.org) <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
+- Notes:
+   - Access through [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) or [**Housing Support Program (HSP)**](#Housing-Support-Program) or [**Adult Protective Services**](#Adult-Protective-Services) or [**CalWORKs**](#CalWORKs)
+   - Operated by [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
+
+## <a id="Rotating-Overnight-Safe-Parking-Program">Programa Rotativo de Estacionamiento Seguro Nocturno</a>
+
+> *See [**40 Prado Homeless Services Center**](#40-Prado)*
+
+- **Website:** [capslo.org/safe-parking](https://capslo.org/safe-parking/)
+- **Location:** (various; apply at <a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">40 Prado Rd., SLO</a>)
+- **Phone:**
+   - [805-544-4004](tel:+1-805-544-4004) (main 40 Prado)
+   - [805-440-6168](tel:+1-805-440-6168) (Cecil Hale, Safe Parking inquiries)
+- **How to access:** Must first complete intake at [**40 Prado Homeless Services Center**](#40-Prado), then you are referred to the rotating program on a case-by-case basis
+- **Hours:** 7pm–7am overnight only
 
 ## Public Health Department
 
@@ -2778,6 +2811,25 @@ If you see one listed here that is no longer in service, please use the feedback
 
 > *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
 
+## <a id="Good-Samaritan-Shelter">Refugio del Buen Samaritano</a>
+
+- **Website:** [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)
+- **Locations:**
+   - Santa Maria emergency shelter: <a href="#" class="map-link" data-lat="34.943820" data-lon="-120.441034" data-zoom="17" data-label="Good Samaritan Shelter">401 W. Morrison Ave., Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+   - Administrative offices: <a href="#" class="map-link" data-lat="34.944295" data-lon="-120.440996" data-zoom="17" data-label="Good Samaritan Shelter">400 West Park, Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/ -->
+- **Phone:** Emergency shelter: [805-347-3338 x101](tel:+1-805-347-3338;ext=101) <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+- **Email:** Layne Harlow ([lharlow@goodsamaritanshelter.org](mailto:lharlow@goodsamaritanshelter.org))
+- **Hours:**
+   - Emergency shelter: 24/7 <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+   - Shelter intake appointments 8:30am–5pm M–F
+   - Shelter opens at 4:30pm daily
+   - Administrative offices open 9am–5pm M–F <!-- Source: https://www.goodsamaritanshelter.org/who-we-are-1 -->
+- **How to access:** (shelter) Call M–F 8:30am–4:00pm, or walk in 9am–3pm, to establish an intake appointment <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+- Notes:
+   - operates [**Welcome Home Village**](#Welcome-Home-Village)
+   - entry-point for the [**Coordinated Entry System (CES)**](#CES)
+   - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families) <!-- Source: https://www.goodsamaritanshelter.org/housing-support-services -->
+
 ## Regional Transit Authority (RTA)
 
 > *See [**SLO Regional Transit Authority**](#SLO-RTA)*
@@ -2837,18 +2889,6 @@ If you see one listed here that is no longer in service, please use the feedback
 > *Former name of [**Lumina Alliance**](#Lumina-Alliance)*
 
 > *For “Refugee and Immigrant Services Education” see [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
-
-## <a id="Rotating-Overnight-Safe-Parking-Program">Rotating Overnight Safe Parking Program</a>
-
-> *See [**40 Prado Homeless Services Center**](#40-Prado)*
-
-- **Website:** [capslo.org/safe-parking](https://capslo.org/safe-parking/)
-- **Location:** (various; apply at <a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">40 Prado Rd., SLO</a>)
-- **Phone:**
-   - [805-544-4004](tel:+1-805-544-4004) (main 40 Prado)
-   - [805-440-6168](tel:+1-805-440-6168) (Cecil Hale, Safe Parking inquiries)
-- **How to access:** Must first complete intake at [**40 Prado Homeless Services Center**](#40-Prado), then you are referred to the rotating program on a case-by-case basis
-- **Hours:** 7pm–7am overnight only
 
 ## RTA (Regional Transit Authority)
 
@@ -2946,13 +2986,14 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [montereylaw.edu/clinics/indexslocl.html](https://montereylaw.edu/clinics/indexslocl.html)
 - **Location:** <a href="#" class="map-link" data-lat="35.245787" data-lon="-120.642691" data-zoom="17" data-label="SLO College of Law Legal Clinic">4119 Broad St. #200, SLO</a>
 - **Phone:** [805-902-CRLA](tel:+1-805-902-2752) <!-- Source: https://montereylaw.edu/clinics/indexslocl.html -->
+   - Clínica de Inmigración: [805-582-3600](tel:+1-805-582-3600) <!-- Source: https://montereylaw.edu/_resources/images/SLOCL%20Clinics%20-%20Spanish.pdf -->
 - **Email:** [mclworkshops@montereylaw.edu](mailto:mclworkshops@montereylaw.edu)
 - **Hours:** M–Th 9am–3pm (scheduling); consultations Tu 4:30–6:30pm
 - **How to access:** Telephone or Zoom appointments only <!-- Source: https://montereylaw.edu/clinics/indexslocl.html -->
 
 ## <a id="Cal-Poly-Community-Counseling-Service">San Luis Obispo Counseling Service at Cal Poly</a>
 
-> *See also [**Community Counseling Center**](#Community-Counseling-Center)*
+> *See also [**El Centro de Consejería Comunitaria**](#Community-Counseling-Center)*
 
 - **Website:** [slocounselingservice.calpoly.edu/about](https://slocounselingservice.calpoly.edu/about)
 - **Location:** <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Cotchett Education Bldg. 2, Room 125, Cal Poly SLO</a> <!-- Source: https://slocounselingservice.calpoly.edu/faq -->
@@ -3016,7 +3057,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Email:** [info@senecacenter.org](mailto:info@senecacenter.org) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
 - Notes:
    - formerly called “Kinship Center”
-   - offers [**Enhanced Care Management**](#Enhanced-Care-Management) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
+   - offers [**Administración de la Atención Mejorada**](#Enhanced-Care-Management) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
 
 ## <a id="Senior-Connection">Senior Connection</a>
 
@@ -3094,8 +3135,9 @@ If you see one listed here that is no longer in service, please use the feedback
 | Location | Hours |
 | -------- | ----- |
 | <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="SLO Bangers">6370 Atascadero Ave., Atascadero</a> | Su 4–6pm |
+| <a href="#" class="map-link" data-lat="35.119206" data-lon="-120.611842" data-zoom="17" data-label="SLO Bangers">286 S. 16th St. Grover Beach</a>     | Th 6–8pm |
 | <a href="#" class="map-link" data-lat="35.365706" data-lon="-120.844141" data-zoom="17" data-label="SLO Bangers">760 Morro Bay Blvd., Morro Bay</a>   | M 2–4pm |
-| <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="SLO Bangers">1134 Black Oak Dr., Paso Robles</a>  | Tu 4:30–5:30pm |
+| <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="SLO Bangers">1134 Black Oak Dr., Paso Robles</a>  | Tu 4–5pm |
 | <a href="#" class="map-link" data-lat="35.274319" data-lon="-120.646781" data-zoom="17" data-label="SLO Bangers">2191 Johnson Ave., SLO</a>           | W 5:30–8:15pm |
 
 - **Phone:** [805-458-0123](tel:+1-805-458-0123) <!-- Source: https://slobangers.com/contact.html -->
@@ -3104,9 +3146,7 @@ If you see one listed here that is no longer in service, please use the feedback
 ## <a id="SLO-Cal-Careers-Center">SLO Cal Careers Center</a>
 
 - **Website:** [SLOCalCareers.org](https://SLOCalCareers.org)
-- **Locations:**
-   - <a href="#" class="map-link" data-lat="35.251551" data-lon="-120.668077" data-zoom="18" data-label="SLO Cal Careers Center">3563 Empleo Street, SLO</a>
-   - Youth Services: <a href="#" class="map-link" data-lat="35.257929" data-lon="-120.646915" data-zoom="17" data-label="SLO Cal Careers Youth Services Center">3450 Broad St. #103a, SLO</a>
+- **Location:** <a href="#" class="map-link" data-lat="35.251551" data-lon="-120.668077" data-zoom="18" data-label="SLO Cal Careers Center">3563 Empleo Street, SLO</a>
 - **Phone:** [805-439-2557](tel:+1-805-439-2557)
 - **Email:**
    - [SLOCal@eckerd.org](mailto:SLOCal@eckerd.org)
@@ -3216,8 +3256,8 @@ If you see one listed here that is no longer in service, please use the feedback
    - entry-point for “CalFresh / EBT (Food Stamps)”
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
    - entry-point for the [**Housing Support Program (HSP)**](#Housing-Support-Program)
-   - entry-point for the [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
-   - can refer you to the [**Child Care Resource Connection**](#Child-Care-Resource-Connection)
+   - entry-point for the [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
+   - can refer you to the [**Conexión de Recursos de Cuidado de Niños**](#Child-Care-Resource-Connection)
 
 ## <a id="SLO-County-Drug-and-Alcohol-Services">SLO County Drug and Alcohol Services</a>
 
@@ -3352,16 +3392,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - **How to access:** no appointment necessary
 -->
 
-## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
-
-- **Website:** [sloundocusupport.org](https://www.sloundocusupport.org/)
-- **Location:** <a href="#" class="map-link" data-lat="35.279892" data-lon="-120.660341" data-zoom="17" data-label="SLO County Undocusupport">981 Marsh St., SLO</a>
-- **Phone:**
-   - [805-543-5451](tel:+1-805-543-5451)
-   - [805-549-8989](tel:+1-805-549-8989) (hotline)
-- **Email:** [UndocuSupport@cfsloco.org](mailto:UndocuSupport@cfsloco.org)
-- **Hours:** W 1–4:15pm
-
 ## <a id="SLO-County-YMCA">SLO County YMCA</a>
 
 - **Website:** [ciymca.org/locations/san-luis-obispo-county-ymca](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
@@ -3430,34 +3460,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Email:** [info@slolaf.org](mailto:info@slolaf.org) <!-- Source: https://www.slolaf.org/ -->
 - Notes:
    - Operates [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
-
-## <a id="SLO-Noor-Foundation">SLO Noor Foundation</a>
-
-- **Website:** [slonoorfoundation.org](https://www.slonoorfoundation.org/)
-- Primary clinics
-   - **Locations:**
-      - <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">1428 Phillips Lane #203, SLO</a> <!-- Source: https://www.slonoorfoundation.org/ -->
-      - <a href="#" class="map-link" data-lat="35.613052" data-lon="-120.675974" data-zoom="17" data-label="SLO Noor Foundation">400 Oak Hill Rd., Paso Robles</a>
-   - **Phone:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/ -->
-   - **Email:** [info@slonoorfoundation.org](mailto:info@slonoorfoundation.org) <!-- Source: https://www.slonoorfoundation.org/ -->
-   - **Hours:** SLO M–Th 8am–5pm; Paso Robles W 8am–5pm <!-- Source: https://www.slonoorfoundation.org/medical -->
-- Vision clinic
-   - **Location:** <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">1428 Phillips Lane #203, SLO</a> <!-- Source: https://www.slonoorfoundation.org/ -->
-   - **Phone:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/ -->
-   - **Email:** [info@slonoorfoundation.org](mailto:info@slonoorfoundation.org) <!-- Source: https://www.slonoorfoundation.org/ -->
-- Dental care clinic
-   - **Location:** <a href="#" class="map-link" data-lat="35.258739" data-lon="-120.668378" data-zoom="17" data-label="SLO Noor Foundation dental clinic">3071 S. Higuera St. #110, SLO</a> <!-- Source: https://www.slonoorfoundation.org/ -->
-   - **Phone:** [805-592-2240](tel:+1-805-592-2240) <!-- Source: https://www.slonoorfoundation.org/ -->
-   - **Email:** [dental@slonoorfoundation.org](mailto:dental@slonoorfoundation.org) <!-- Source: https://www.slonoorfoundation.org/ -->
-- Women’s mobile health unit
-   - **Phone:** [805-756-5089](tel:+1-805-756-5089) <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
-   - **Email:** [ccmacedo@calpoly.edu](mailto:ccmacedo@calpoly.edu) <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
-- Primary mobile health unit
-   - **Phone:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/mhc -->
-   - **Locations:** Atascadero, Nipomo, Oceano, Paso Robles <!-- Source: https://www.slonoorfoundation.org/mhc -->
-- **How to access:**
-   - By appointment only
-   - Bring proof of income and a copy of your most recent income tax return to your first appointment
 
 ## <a id="SLO-Partners">SLO Partners</a>
 
@@ -3558,14 +3560,6 @@ If you see one listed here that is no longer in service, please use the feedback
 
 > *See [**SLO Sobering Center**](#SLO-Sobering-Center)*
 
-## <a id="Social-Security-Administration">Social Security Administration</a>
-
-- **Website:** [ssa.gov](https://www.ssa.gov/)
-- **Location:** <a href="#" class="map-link" data-lat="35.256200" data-lon="-120.668801" data-zoom="17" data-label="Social Security Administration">3240 S. Higuera St., SLO</a> <!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
-- **Phone:** [855-207-4865](tel:+1-855-207-4865) (TTY: [800-325-0778](tel:+1-800-325-0778))<!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
-- **Hours:** M–F 9am–4pm <!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
-- **How to access:** Call to schedule an appointment
-
 ## Social Services
 
 > *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
@@ -3657,7 +3651,7 @@ If you see one listed here that is no longer in service, please use the feedback
    - **Email:** [jerwin@capslo.org](mailto:jerwin@capslo.org)
 - Notes:
    - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) <!-- Source: https://capslo.org/ssvf/ -->
-   - Operated by [**5Cities Homeless Coalition**](#5CHC) with [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
+   - Operated by [**5Cities Homeless Coalition**](#5CHC) with [**Refugio del Buen Samaritano**](#Good-Samaritan-Shelter)
 
 ## Surgery Without Medical Insurance
 
@@ -3770,9 +3764,15 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:** [805-781-5940](tel:+1-805-781-5940) <!-- Source: https://ucanr.edu/county/county-san-luis-obispo -->
 - Notes: Research-based educational programs including Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, and horticulture; cost varies by program
 
-## UndocuSupport
+## <a id="SLO-County-UndocuSupport">UndocSupport del Condado de SLO</a>
 
-> *See [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)*
+- **Website:** [sloundocusupport.org](https://www.sloundocusupport.org/es)
+- **Location:** <a href="#" class="map-link" data-lat="35.279892" data-lon="-120.660341" data-zoom="17" data-label="UndocSupport del Condado de SLO">981 Marsh St., SLO</a>
+- **Phone:**
+   - [805-543-5451](tel:+1-805-543-5451)
+   - [805-549-8989](tel:+1-805-549-8989) (hotline)
+- **Email:** [UndocuSupport@cfsloco.org](mailto:UndocuSupport@cfsloco.org)
+- **Hours:** W 1–4:15pm
 
 ## <a id="UUSLO">Unitarian Universalists San Luis Obispo</a>
 
@@ -3915,14 +3915,6 @@ There are several urgent care options, including:
 - **Location:** <a href="#" class="map-link" data-lat="35.282937" data-lon="-120.661267" data-zoom="17" data-label="Victim Witness Assistance Program">1050 Monterey St. (Courthouse Annex Room 384), SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
 - **Phone:** [805-781-5821](tel:+1-805-781-5821) (toll-free: [866-781-5821](tel:+1-866-781-5821)) <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
 
-## <a id="Vituity-Cares-Mobile-Clinic">Vituity Cares Mobile Clinic</a>
-
-- **Website:** [vituitycares.org](https://vituitycares.org/)
-- **Location:** <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="Vituity Cares Mobile Clinic">995 Palm St., SLO</a>
-- **Phone:** [480-828-4319](tel:+1-480-828-4319) <!-- Source: https://vituitycares.org/contact-us/ -->
-- **Email:** [vituitycares@gmail.com](mailto:vituitycares@gmail.com) <!-- Source: https://vituitycares.org/contact-us/ -->
-- **Hours:** Second Sunday of the month, 12:30–3:30 pm
-
 ## <a id="Helping-Friends-Program">Voice for the Animals Helping Friends Program</a>
 
 - **Website:** [www.vftafoundation.org/helping_friends](https://www.vftafoundation.org/helping_friends)
@@ -3949,7 +3941,7 @@ There are several urgent care options, including:
 - **Email:** [mshepard-moore@co.slo.ca.us](mailto:mshepard-moore@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village -->
 - **How to access:** Through the [**Coordinated Entry System (CES)**](#CES) or contact City of SLO Homelessness Response Team for outreach
 - Notes:
-   - Operated by [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
+   - Operated by [**Refugio del Buen Samaritano**](#Good-Samaritan-Shelter)
 
 ## Wellness Centers
 
