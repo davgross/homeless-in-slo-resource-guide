@@ -3542,10 +3542,10 @@ I’m confused about what SAFE is. Is it a variety of Family Resource Center? Ar
 
 ## <a id="peer-support-groups">Grupos de Apoyo Entre Pares</a>
 
-In peer support groups, you gather with other people who are in a similar situation to you in some way to talk.
-You may share practical advice, or just give each other emotional support.
-There are many peer support groups active in SLO County.
-These are some of them:
+En los grupos de apoyo entre pares, se reúne con otras personas que están en una situación similar a la suya de alguna manera para hablar.
+Puede compartir consejos prácticos, o simplemente darse apoyo emocional.
+Hay muchos grupos de apoyo entre pares activos en el Condado de SLO.
+Estos son algunos de ellos:
 
 ### <a id="conditions-peer-support">Discapacidades, Condiciones Médicas y Enfermedades Mentales</a>
 
@@ -3553,75 +3553,75 @@ These are some of them:
 There are also support groups for people recently diagnosed, and for people suffering bereavement because of a loved one with dementia.
 To register for a group, call [800-272-3900](tel:+1-800-272-3900).
 
-**Amyotrophic lateral sclerosis (ALS):** An ALS support group meets monthly via Zoom.
-To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/ -->
+**Esclerosis lateral amiotrófica (ALS):** Un grupo de apoyo para ALS se reúne mensualmente vía Zoom.
+Para unirse, contacte a la organizadora Julie Scurich en [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) o [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/ -->
 
-**Cancer:** [Cancer Support Community](https://cscslo.org/) offers a variety of no-cost services for people with cancer, including health education and exercise classes, as well as several support groups, some of which meet in Templeton, some online.
+**Cáncer:** [Cancer Support Community](https://cscslo.org/) (Comunidad de Apoyo para el Cáncer) ofrece una variedad de servicios sin costo para personas con cáncer, incluyendo clases de educación sobre la salud y ejercicio, así como varios grupos de apoyo, algunos de los cuales se reúnen en Templeton, algunos en línea.
 
-[Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) in Arroyo Grande also hosts [cancer support groups](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) including in-person groups for people with breast cancer and for oral, head, and neck cancer, and a number of other groups that meet online.
+El [Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) (Centro de Cáncer Mission Hope) en Arroyo Grande también alberga [grupos de apoyo para el cáncer](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) incluyendo grupos en persona para personas con cáncer de seno y para cáncer oral, de cabeza y cuello, y varios otros grupos que se reúnen en línea.
 
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts several support groups at the [Hearst Cancer Resource Center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center).
-These include groups [for patients with cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) and [advanced cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), and groups for people with specific types of cancer, such as cancers of the [blood](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [breast](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf), or [prostate](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
-To register, call HCRC at [805-542-6234](tel:+1-805-542-6234) or email [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
+[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga varios grupos de apoyo en el [Hearst Cancer Resource Center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center) (Centro de Recursos para el Cáncer Hearst).
+Estos incluyen grupos [para pacientes con cáncer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) y [cáncer avanzado](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), y grupos para personas con tipos específicos de cáncer, como cánceres de la [sangre](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [seno](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf) o [próstata](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
+Para registrarse, llame al HCRC al [805-542-6234](tel:+1-805-542-6234) o envíe un correo electrónico a [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
 
 **Caregivers:** The [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) has several support groups, some of which meet online, others in SLO or Morro Bay.
 They include groups for caregivers of people with dementia, for LGBTQ caregivers, for caregivers of Parkinson’s disease patients, and groups that are conducted in Spanish.
 
-**Diabetes:** [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts a quarterly [diabetes support group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes).
+**Diabetes:** [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga un [grupo de apoyo para diabetes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes) trimestral.
 
-**Mental illness:** The SLO County chapter of National Alliance on Mental Illness holds [support groups](https://www.namislo.org/nami-support-groups) for family members of people with mental health challenges, online, in Arroyo Grande, and in Atascadero, every month.
-Contact [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) for details.
+**Enfermedad mental:** El capítulo del Condado de SLO de National Alliance on Mental Illness (Alianza Nacional sobre Enfermedades Mentales) lleva a cabo [grupos de apoyo](https://www.namislo.org/nami-support-groups) para familiares de personas con desafíos de salud mental, en línea, en Arroyo Grande y en Atascadero, cada mes.
+Contacte a [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) para detalles.
 
-[**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has weekly [support groups](https://www.t-mha.org/family-support-groups.php) in person and on Zoom for people with loved ones who experience mental illness, in English and in Spanish.
-They also have a variety of [in-person support groups](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) and more informal gatherings for people with mental illness, as well as several virtual/online support groups.
+[**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) (Asociación de Salud Mental Transitions) tiene [grupos de apoyo](https://www.t-mha.org/family-support-groups.php) semanales en persona y en Zoom para personas con seres queridos que experimentan enfermedad mental, en inglés y en español.
+También tienen una variedad de [grupos de apoyo en persona](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) y reuniones más informales para personas con enfermedad mental, así como varios grupos de apoyo virtuales/en línea.
 
 **Parkinson’s disease:** The Central Coast Parkinson Association holds monthly in-person [support groups](https://www.myccpa.org/support-groups) in Atascadero, Morro Bay, Pismo Beach, and San Luis Obispo.
 They also hold a monthly, online support group, and a monthly in-person group in Paso Robles, for caregivers only.
 
-**Stroke:** [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) hosts a monthly [stroke support group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups).
-[**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) hosts a [hope for stroke survivors](https://www.stroke.org/en/stroke-groups/hope-for-stroke-survivors-ahsl) group for people who have had strokes and for their caregivers.
-Another [hope for stroke](https://www.stroke.org/en/stroke-groups/hope-for-stroke) group meets in Templeton.
+**Derrame cerebral:** [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) alberga un [grupo de apoyo para derrame cerebral](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups) mensual.
+[**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) alberga un grupo de [esperanza para sobrevivientes de derrames cerebrales](https://www.stroke.org/en/stroke-groups/hope-for-stroke-survivors-ahsl) para personas que han tenido derrames cerebrales y para sus cuidadores.
+Otro grupo de [esperanza para derrame cerebral](https://www.stroke.org/en/stroke-groups/hope-for-stroke) se reúne en Templeton.
 
 ### <a id="grief-peer-support">Duelo</a>
 
-Hospice SLO operates a weekly, online Family Caregiver Support Group for SLO County residents that you can register for [at this page](https://hospiceslo.org/support-groups/family-caregiver-support-group-meets-weekly-on-zoom).
-They also have a Grief Support and Education group that meets [online](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom) and others that meet in person [in Paso Robles](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-north-county) and [in SLO city](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-slo).
-They also have an in-person support group in SLO city specifically for people who are [grieving the loss of a spouse or partner](https://hospiceslo.org/support-groups/spouse-andor-partner-loss-support-and-education-group-meets-weekly-for-six-weeks-in).
-They occasionally hold [other support groups](https://hospiceslo.org/support-groups) as well.
+Hospice SLO opera un Grupo de Apoyo para Cuidadores Familiares (Family Caregiver Support Group) semanal en línea para residentes del Condado de SLO para el cual puede registrarse [en esta página](https://hospiceslo.org/support-groups/family-caregiver-support-group-meets-weekly-on-zoom).
+También tienen un grupo de Apoyo y Educación para el Duelo (Grief Support and Education) que se reúne [en línea](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom) y otros que se reúnen en persona [en Paso Robles](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-north-county) y [en la ciudad de SLO](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-slo).
+También tienen un grupo de apoyo en persona en la ciudad de SLO específicamente para personas que están [de duelo por la pérdida de un cónyuge o pareja](https://hospiceslo.org/support-groups/spouse-andor-partner-loss-support-and-education-group-meets-weekly-for-six-weeks-in).
+Ocasionalmente llevan a cabo [otros grupos de apoyo](https://hospiceslo.org/support-groups) también.
 
-[**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) facilitates [grief support groups](https://centralcoasthomehealth.com/index.php/support-groups/) weekly at the [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), and [**SLO Senior Center**](Directory.md#SLO-Senior-Center).
-Call [805-540-6020](tel:+1-805-540-6020) to speak with a bereavement counselor prior to attending.
+[**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) facilita [grupos de apoyo para el duelo](https://centralcoasthomehealth.com/index.php/support-groups/) semanalmente en el [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) y [**SLO Senior Center**](Directory.md#SLO-Senior-Center).
+Llame al [805-540-6020](tel:+1-805-540-6020) para hablar con un consejero de duelo antes de asistir.
 
-Several SLO County churches host [GriefShare support groups](https://griefshare.org/) with a Christian focus on grieving.
+Varias iglesias del Condado de SLO albergan [grupos de apoyo GriefShare](https://griefshare.org/) con un enfoque cristiano en el duelo.
 
 ### <a id="behavioral-health-peer-support">Salud del Comportamiento</a>
 
-> See [12-Step and Similar Recovery Programs](#twelve-step) in the [Drug Use, Recovery, and Harm Reduction](#drug-use-and-recovery) section above for support groups for people recovering from drug addictions.
+> Vea [Programas de Recuperación de 12 Pasos y Similares](#twelve-step) en la sección [Uso de Drogas, Recuperación y Reducción de Daños](#drug-use-and-recovery) arriba para grupos de apoyo para personas en recuperación de adicciones a las drogas.
 
-[Al-Anon](https://al-anon.org/al-anon-meetings/) has support groups for family members of alcoholics that meet online and in Arroyo Grande, Atascadero, Cambria, Cayucos, Grover Beach, Morro Bay, Nipomo, Paso Robles, Pismo Beach, and SLO.
-There is also an [Alateen](https://al-anon.org/newcomers/teen-corner-alateen/) meeting in Grover Beach specifically for teen-aged family members of alcoholics. <!-- Source: https://al-anon.org/al-anon-meetings/find-an-alateen-meeting/ -->
+[Al-Anon](https://al-anon.org/al-anon-meetings/) tiene grupos de apoyo para familiares de alcohólicos que se reúnen en línea y en Arroyo Grande, Atascadero, Cambria, Cayucos, Grover Beach, Morro Bay, Nipomo, Paso Robles, Pismo Beach y SLO.
+También hay una reunión de [Alateen](https://al-anon.org/newcomers/teen-corner-alateen/) en Grover Beach específicamente para familiares adolescentes de alcohólicos. <!-- Source: https://al-anon.org/al-anon-meetings/find-an-alateen-meeting/ -->
 
-[Nar-Anon](https://www.naranoncentralca.org/) has in-person weekly meetings for family members of people addicted to drugs that meet in Atascadero as well as several online meetings.
-There are also [Narateen](https://www.nar-anon.org/find-a-narateen-meeting) online weekly meetings specifically for teen-aged family members of addicts.
+[Nar-Anon](https://www.naranoncentralca.org/) tiene reuniones semanales en persona para familiares de personas adictas a las drogas que se reúnen en Atascadero así como varias reuniones en línea.
+También hay reuniones semanales en línea de [Narateen](https://www.nar-anon.org/find-a-narateen-meeting) específicamente para familiares adolescentes de adictos.
 
-An eating disorder support group meets by Zoom on Wednesdays from 7–8pm. <!-- Source: https://galacc.org/events/#calendar -->
-Contact [libby@thebroadwaydietitian.com](mailto:libby@thebroadwaydietitian.com) for more information. <!-- Source: https://galacc.org/events/#calendar -->
+Un grupo de apoyo para trastornos alimentarios se reúne por Zoom los miércoles de 7–8pm. <!-- Source: https://galacc.org/events/#calendar -->
+Contacte a [libby@thebroadwaydietitian.com](mailto:libby@thebroadwaydietitian.com) para más información. <!-- Source: https://galacc.org/events/#calendar -->
 
-[Overeaters Anonymous](https://oa.org/) holds weekly meetings in Arroyo Grande, Morro Bay, and SLO.
+[Overeaters Anonymous](https://oa.org/) (Comedores Compulsivos Anónimos) lleva a cabo reuniones semanales en Arroyo Grande, Morro Bay y SLO.
 
-[Debtors Anonymous](https://debtorsanonymous.org/) holds [meetings by phone or Zoom](https://debtorsanonymous.org/meeting-search-virtual/?tz=PT) every day of the week.
+[Debtors Anonymous](https://debtorsanonymous.org/) (Deudores Anónimos) lleva a cabo [reuniones por teléfono o Zoom](https://debtorsanonymous.org/meeting-search-virtual/?tz=PT) todos los días de la semana.
 
 ### <a id="glbtq-peer-support">LGBTQ</a>
 
-The [**GALA Pride & Diversity Center**](Directory.md#GALA) maintains [a list of support groups](https://galacc.org/resources/#support), including:
+El [**GALA Pride & Diversity Center**](Directory.md#GALA) (Centro de Orgullo y Diversidad GALA) mantiene [una lista de grupos de apoyo](https://galacc.org/resources/#support), incluyendo:
 
-- **Therapist-led trans/genderqueer monthly support group**—contact [laurenphelpsmft@gmail.com](mailto:laurenphelpsmft@gmail.com) for more information
+- **Grupo de apoyo mensual trans/genderqueer dirigido por terapeuta**—contacte a [laurenphelpsmft@gmail.com](mailto:laurenphelpsmft@gmail.com) para más información
 - **“Q” Youth** (grades 6–12)—contact [youthdirector@galacc.org](mailto:youthdirector@galacc.org) or drop-in at GALA any Thursday from 6–8pm
-- [Trans and gender-nonconforming teen support group](https://1af473-cd.myshopify.com/pages/tcc-youth-support-group)
-- [Trans and gender-nonconforming adult support group](https://1af473-cd.myshopify.com/pages/tcc-tuesdays-adult-support-group)
-- [Transmasculine, and gender-nonconforming masculine-identifying support group](https://1af473-cd.myshopify.com/pages/tcc-transmasc-support-group)
-- **LGBT Seniors**—third Wednesday of the month 4:30–6:30pm at GALA or by Zoom
-- **Stand Out Parent Support Group**—for parents of LGBTQ+ youth; contact [email@galacc.org](mailto:email@galacc.org) for more information
+- [Grupo de apoyo para adolescentes trans y de género no conforme](https://1af473-cd.myshopify.com/pages/tcc-youth-support-group)
+- [Grupo de apoyo para adultos trans y de género no conforme](https://1af473-cd.myshopify.com/pages/tcc-tuesdays-adult-support-group)
+- [Grupo de apoyo para personas transmasculinas y de género no conforme con identificación masculina](https://1af473-cd.myshopify.com/pages/tcc-transmasc-support-group)
+- **LGBT Seniors** (Adultos Mayores LGBT)—tercer miércoles del mes 4:30–6:30pm en GALA o por Zoom
+- **Stand Out Parent Support Group** (Grupo de Apoyo para Padres Stand Out)—para padres de jóvenes LGBTQ+; contacte a [email@galacc.org](mailto:email@galacc.org) para más información
 
 ### <a id="parenthood-peer-support">Embarazo y Paternidad/Maternidad</a>
 
@@ -3632,20 +3632,20 @@ To join, contact facilitator Wendy Beres at [wendy.beres@dignityhealth.org](mail
 They also host a [“Bellies and Babies”](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) weekly in-person support group.
 For more information call [805-542-6659](tel:+1-805-542-6659).
 
-There is a [Moms Club](https://momsclubofatascadero.weebly.com/) support group in Atascadero that also covers Templeton, Paso Robles, and San Miguel.
-Write to [atownmoms@gmail.com](mailto:atownmoms@gmail.com) for more information.
+Hay un grupo de apoyo [Moms Club](https://momsclubofatascadero.weebly.com/) (Club de Mamás) en Atascadero que también cubre Templeton, Paso Robles y San Miguel.
+Escriba a [atownmoms@gmail.com](mailto:atownmoms@gmail.com) para más información.
 
-[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) hosts [Parent Cafés](https://capslo.org/Pops2/) and [POPS2 groups](https://capslo.org/Pops2/) (for fathers specifically) with childcare and a meal provided.
-For details on how to join, contact [pops@capslo.org](mailto:pops@capslo.org) or [805-295-1628](tel:+1-805-295-1628).
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) alberga [Parent Cafés](https://capslo.org/Pops2/) (Cafés para Padres) y [grupos POPS2](https://capslo.org/Pops2/) (para padres específicamente) con cuidado infantil y una comida proporcionada.
+Para detalles sobre cómo unirse, contacte a [pops@capslo.org](mailto:pops@capslo.org) o [805-295-1628](tel:+1-805-295-1628).
 
 [Pacific Midwifery](https://pacificmidwiferycare.com/) offers free “MaMa Mentoring” groups on Tuesdays in Arroyo Grande.
 Contact [megan@pacificmidwiferycare.com](mailto:megan@pacificmidwiferycare.com) ([805-994-0446](tel:+1-805-994-0446)) for details.
 
-Postpartum Support International also organizes [many free online support groups](https://postpartum.net/get-help/psi-online-support-meetings/).
+Postpartum Support International (Apoyo Posparto Internacional) también organiza [muchos grupos de apoyo gratuitos en línea](https://postpartum.net/get-help/psi-online-support-meetings/).
 
 ### <a id="other-peer-support">Otros</a>
 
-[Corazón Latino](https://www.corazonlatino.org/) holds monthly emotional support groups for people in the Latinx community online and in Paso Robles.
+[Corazón Latino](https://www.corazonlatino.org/) lleva a cabo grupos de apoyo emocional mensuales para personas en la comunidad Latinx en línea y en Paso Robles.
 
 -----
 
