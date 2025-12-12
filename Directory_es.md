@@ -937,7 +937,7 @@
    - Enrollment: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
    - Member services: [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
 - **Cómo obtener el servicio:** You can submit an application online via [Covered California](https://www.coveredca.com/) or [My Benefits CalWIN](https://www.mybenefitscalwin.org/) or you can get help applying from the [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
-- Nota: for CenCal Shuttle, *See [**Ride-On Transportation**](#Ride-On-Transportation)*
+- Nota: for CenCal Shuttle, *Vea [**Ride-On Transportation**](#Ride-On-Transportation)*
 
 ## CenCal Health Transportation
 
@@ -949,12 +949,12 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.282685" data-lon="-120.657396" data-zoom="17" data-label="CARD">1212 Marsh St. #1, SLO</a> <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
 - **Teléfono:** [805-703-2120](tel:+1-805-703-2120) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
 - **Correo electrónico:** [Info@centerforautism.com](mailto:Info@centerforautism.com) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
-- **Horario:** L–V 8am–7pm (weekend hours vary) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
+- **Horario:** L–V 8am–7pm (horario de fin de semana varía) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
 - **Cómo obtener el servicio:**
-   - Enroll at [this web page](https://admissions.centerforautism.com/)
-   - or call [877-448-4747 x2](tel:+1-877-448-4747;ext=2) <!-- Source: https://admissions.centerforautism.com/ -->
-   - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://admissions.centerforautism.com/ -->
-- Notas: Accepts CenCal Health and most other insurance providers <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
+   - Inscríbase en [esta página web](https://admissions.centerforautism.com/)
+   - o llame al[877-448-4747 x2](tel:+1-877-448-4747;ext=2) <!-- Source: https://admissions.centerforautism.com/ -->
+   - o envíe un correo a[cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://admissions.centerforautism.com/ -->
+- Notas: Acepta CenCal Health y la mayoría de otros proveedores de seguros <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
 
 ## <a id="The-Center">The Center for Health & Prevention</a>
 
@@ -1930,7 +1930,7 @@
 - **Ubicación:** Cal Poly Dream Center, <a href="#" class="map-link" data-lat="35.297413" data-lon="-120.655391" data-zoom="17" data-label="Cal Poly Dream Center">yakʔitʸutʸu, Building 172, Room H1‒46</a>
 - **Teléfono:** [805-756-6362](tel:+1-805-756-6362)
 - **Correo electrónico:** [info@ild.org](mailto:info@ild.org) <!-- Source: https://calendly.com/csulegalservices/ild?month=2025-12 -->
-- **Cómo obtener el servicio:** Schedule appointments via Calendly at [calendly.com/csulegalservices/ild](https://calendly.com/csulegalservices/ild) or through Dream Center website at [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
+- **Cómo obtener el servicio:** Programe citas a través de Calendly en [calendly.com/csulegalservices/ild](https://calendly.com/csulegalservices/ild) o a través del sitio web del Dream Center en [dreamcenter.calpoly.edu/LegalServices](https://dreamcenter.calpoly.edu/LegalServices)
 
 ## Independent Living Resource Center (ILRC)
 
@@ -2225,10 +2225,10 @@
 - Medi-Cal Rx:
    - **Sitio web:** [medi-calrx.dhcs.ca.gov](https://medi-calrx.dhcs.ca.gov/)
    - **Teléfono:** [800-977-2273](tel:+1-800-977-2273)
-- Medi-Cal Shuttle: *See [**Ride-On Transportation**](#Ride-On-Transportation)*
+- Medi-Cal Shuttle: *Vea [**Ride-On Transportation**](#Ride-On-Transportation)*
 - Notas:
-   - [**CenCal Health**](#CenCal) is the local Medi-Cal administrator <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
-   - Apply at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/) or in person at local DSS offices <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
+   - [**CenCal Health**](#CenCal) es el administrador local de Medi-Cal <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
+   - Solicite en [www.coveredca.com](https://www.coveredca.com/) o [BenefitsCal.com](https://benefitscal.com/) o en persona en las oficinas locales de DSS <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
 
 ## <a id="MISP">Medically Indigent Services Program (MISP)</a>
 
@@ -3736,7 +3736,7 @@ If you see one listed here that is no longer in service, please use the feedback
 | <a href="#" class="map-link" data-lat="35.239987" data-lon="-120.634147" data-zoom="17" data-label="Tri Counties Regional Center">1146 Farmhouse Ln., SLO</a> | [805-543-2833](tel:+1-805-543-2833) |
 
 - **Horario:** L–V 8:30am–5pm <!-- Source: https://www.tri-counties.org/contact-us/office-locations/ -->
-- **Cómo obtener el servicio:** Apply at [tri-counties.org/our-services/apply/](https://www.tri-counties.org/our-services/apply/)
+- **Cómo obtener el servicio:** Solicite en [tri-counties.org/our-services/apply/](https://www.tri-counties.org/our-services/apply/)
 
 ## <a id="Tri-County-GLAD">Tri-County GLAD</a>
 
