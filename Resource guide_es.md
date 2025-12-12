@@ -1444,78 +1444,78 @@ Vea también [**SLO Vet Center**](Directory.md#SLO-Vet-Center), [**Veterans Admi
 
 #### Fondeo Colectivo para Gastos Médicos
 
-If you expect to have high medical expenses that you cannot afford, you might try to raise the money through donations from others.
-The [**Help Hope Live**](Directory.md#Help-Hope-Live) program can help you establish a “crowdfunding” campaign to raise money this way.
+Si espera tener gastos médicos altos que no puede pagar, podría intentar recaudar el dinero a través de donaciones de otros.
+El programa [**Help Hope Live**](Directory.md#Help-Hope-Live) puede ayudarle a establecer una campaña de "fondeo colectivo" para recaudar dinero de esta manera.
 
 #### <a id="emergency-medical-funding">Fondos de Emergencia</a>
 
-If you need immediate funds to pay for a specific medical expense and you are not eligible for Medi-Cal or any other health insurance, consider the [**Medically Indigent Services Program**](Directory.md#MISP).
-Call them to start the application process. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-%28misp%29 -->
+Si necesita fondos inmediatos para pagar un gasto médico específico y no es elegible para Medi-Cal ni ningún otro seguro médico, considere el [**Medically Indigent Services Program**](Directory.md#MISP) (Programa de Servicios para Personas Médicamente Indigentes).
+Llámelos para comenzar el proceso de solicitud. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-%28misp%29 -->
 
-If you are a patient of [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista), you may qualify for their [Financial Assistance](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/) program.
-Ask them in person for an application or contact them at [844-827-5047](tel:+1-844-827-5047) <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/ --> or [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
+Si es paciente de [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista), puede calificar para su programa de [Financial Assistance](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/) (Asistencia Financiera).
+Pídale una solicitud en persona o contáctelos al [844-827-5047](tel:+1-844-827-5047) <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/ --> o [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
 
-> See also the [Emergency Financial Needs](#emergency-financial-help) section of this guide.
+> Vea también la sección [Necesidades Financieras de Emergencia](#emergency-financial-help) de esta guía.
 
 ### Transporte a Citas Médicas
 
-> See [Transportation to Medical Appointments](#transportation-to-medical-appointments) in the [Transportation](#transportation) section
+> Vea [Transporte a Citas Médicas](#transportation-to-medical-appointments) en la sección [Transporte](#transportation)
 
 ### <a id="medical-and-assistive-devices">Dispositivos Médicos y de Asistencia</a>
 
-[**Access Central Coast**](Directory.md#Access-Central-Coast) helps you find and afford assistive devices like wheelchairs, canes, walkers, scooters, modified telephones, and speech-generating devices. <!-- Source: https://accesscentralcoast.org/our-services/ -->
+[**Access Central Coast**](Directory.md#Access-Central-Coast) le ayuda a encontrar y pagar dispositivos de asistencia como sillas de ruedas, bastones, andadores, scooters, teléfonos modificados y dispositivos generadores de voz. <!-- Source: https://accesscentralcoast.org/our-services/ -->
 
-[**Alliance for Pharmaceutical Access**](Directory.md#APA) helps you get low-cost diabetic supplies (glucose test strips and meters, insulin syringes, etc.). <!-- SOURCE NEEDED -->
+[**Alliance for Pharmaceutical Access**](Directory.md#APA) le ayuda a obtener suministros para diabéticos de bajo costo (tiras y medidores de prueba de glucosa, jeringas de insulina, etc.). <!-- SOURCE NEEDED -->
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center), <!-- Source: https://atascaderoseniorcenter.org/ -->
 [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), <!-- Source: https://morrobayseniors.org/resources/ -->
 and [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
-have free lending libraries of mobility aids and some other medical equipment.
+tienen bibliotecas de préstamo gratis de ayudas para la movilidad y algunos otros equipos médicos.
 
-The [**Boyd Bristol Medical Equipment Program**](Directory.md#Boyd-Bristol-Medical-Equipment-Program) helps veterans and their family members get free loans of medical equipment like walkers, canes, scooters, and crutches. <!-- Source: https://post66slo.org/serving-veterans/ -->
-They can also deliver these devices to you. <!-- Source: https://post66slo.org/serving-veterans/ -->
+El [**Boyd Bristol Medical Equipment Program**](Directory.md#Boyd-Bristol-Medical-Equipment-Program) (Programa de Equipo Médico Boyd Bristol) ayuda a veteranos y miembros de sus familias a obtener préstamos gratuitos de equipo médico como andadores, bastones, scooters y muletas. <!-- Source: https://post66slo.org/serving-veterans/ -->
+También pueden entregar estos dispositivos a su domicilio. <!-- Source: https://post66slo.org/serving-veterans/ -->
 
-[**Cambria’s Anonymous Neighbors (CAN)**](Directory.md#Cambrias-Anonymous-Neighbors) provides loans of medical equipment including wheelchairs, walkers, canes, grab bars, and Life Alert devices to people on the North Coast. <!-- Source: https://www.joslynrec.org/CAN/index.html -->
+[**Cambria's Anonymous Neighbors (CAN)**](Directory.md#Cambrias-Anonymous-Neighbors) proporciona préstamos de equipo médico incluyendo sillas de ruedas, andadores, bastones, barras de agarre y dispositivos Life Alert a personas en la costa norte. <!-- Source: https://www.joslynrec.org/CAN/index.html -->
 
-[**California Connect**](Directory.md#California-Connect) can loan you, for free, assistive telecommunications equipment that helps if you have functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://caconnect.org/ -->
+[**California Connect**](Directory.md#California-Connect) puede prestarle, gratis, equipo de telecomunicaciones de asistencia que ayuda si tiene limitaciones funcionales de audición, visión, movilidad, habla y/o interpretación de información. <!-- Source: https://caconnect.org/ -->
 
-The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) can give you a free speech-generating device if you have difficulty speaking. <!-- Source: https://www.dor.ca.gov/Home/VoiceOptions -->
+El [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) puede darle un dispositivo generador de voz gratis si tiene dificultad para hablar. <!-- Source: https://www.dor.ca.gov/Home/VoiceOptions -->
 <!--
 The California Foundation for Independent Living Centers operates a “for sale, free, or needed” online assistive technology exchange.
 { SOURCE: https://www.dor.ca.gov/Home/AssistiveTechnology though NOTE: https://abilitytools.org was inoperable as of 12/7/25 - Issue #72 }
 -->
 
-The [**Central Coast Assistive Technology Center**](Directory.md#CCATC) allows you to try, and helps you learn to use, assistive technologies including vision/hearing technologies and ergonomics. <!-- Source: https://ccatc.org/at-services/ -->
-They also help you access a no-cost lending library of assistive technology devices ([myatprogram.org](https://myatprogram.org/)).
+El [**Central Coast Assistive Technology Center**](Directory.md#CCATC) (Centro de Tecnología de Asistencia de la Costa Central) le permite probar, y le ayuda a aprender a usar, tecnologías de asistencia incluyendo tecnologías de visión/audición y ergonomía. <!-- Source: https://ccatc.org/at-services/ -->
+También le ayudan a acceder a una biblioteca de préstamo sin costo de dispositivos de tecnología de asistencia ([myatprogram.org](https://myatprogram.org/)).
 
 <!--
 [**Elks Lodge #2504**](Directory.md#Elks-Lodge-2504) has a lending library of wheelchairs, crutches, and walkers.
 { SOURCE NEEDED (issue #73) }
 -->
 
-[**PathPoint**](Directory.md#PathPoint) has a lending library of assistive technology devices for people with developmental disabilities. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
+[**PathPoint**](Directory.md#PathPoint) tiene una biblioteca de préstamo de dispositivos de tecnología de asistencia para personas con discapacidades del desarrollo. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps uninsured people get low-cost diabetes monitoring and treatment supplies. <!-- SOURCE NEEDED (issue #74) -->
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) ayuda a personas sin seguro a obtener suministros de monitoreo y tratamiento de diabetes de bajo costo. <!-- SOURCE NEEDED (issue #74) -->
 
-[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) can loan you assistive technology like walkers and wheelchairs. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->
-Call them or visit their office for details. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/contact/ -->
+[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) puede prestarle tecnología de asistencia como andadores y sillas de ruedas. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->
+Llámelos o visite su oficina para detalles. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/contact/ -->
 
 ### <a id="prescription-medicines">Medicamentos Recetados</a>
 
-Drug discount plans allow you to get prescriptions at reduced prices.
-You can get help finding the best discount plans for you from [**Alliance for Pharmaceutical Access**](Directory.md#APA), <!-- Source: https://apameds.org/what-we-do/ -->
-[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP), <!-- Source: https://centralcoastseniors.org/medicare-part-d-drug-plan-finder-tool/ -->
+Los planes de descuento para medicamentos le permiten obtener recetas a precios reducidos.
+Puede obtener ayuda para encontrar los mejores planes de descuento para usted de [**Alliance for Pharmaceutical Access**](Directory.md#APA), <!-- Source: https://apameds.org/what-we-do/ -->
+[**Health Insurance Counseling & Advocacy Program ("HiCAP")**](Directory.md#HiCAP), <!-- Source: https://centralcoastseniors.org/medicare-part-d-drug-plan-finder-tool/ -->
 [**NeedyMeds**](Directory.md#NeedyMeds), <!-- Source: https://needymeds.org/ -->
-or [**United Way**](Directory.md#United-Way). <!-- Source: https://unitedwayslo.org/prescription-drug-discount-cards/ -->
+o [**United Way**](Directory.md#United-Way). <!-- Source: https://unitedwayslo.org/prescription-drug-discount-cards/ -->
 
-For answers about Medi-Cal/CenCal prescription benefits, contact [**Medi-Cal Rx**](Directory.md#Medi-Cal).
-To find a Medi-Cal Rx pharmacy, visit [medi-calrx.dhcs.ca.gov: “Find a Pharmacy”](https://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy).
+Para respuestas sobre beneficios de recetas de Medi-Cal/CenCal, contacte a [**Medi-Cal Rx**](Directory.md#Medi-Cal).
+Para encontrar una farmacia de Medi-Cal Rx, visite [medi-calrx.dhcs.ca.gov: "Find a Pharmacy"](https://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy) (Encuentre una Farmacia).
 
-The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some medications directly, without you having to visit a pharmacy. <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) (Programa de Atención Médica para Personas sin Hogar) dispensa algunos medicamentos directamente, sin que tenga que visitar una farmacia. <!-- SOURCE NEEDED (issue #75) -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps people who are uninsured (or whose insurance does not cover prescriptions) get free or low-cost prescription medications. <!-- SOURCE NEEDED (issue #74) -->
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) ayuda a personas que no tienen seguro (o cuyo seguro no cubre recetas) a obtener medicamentos con receta gratis o de bajo costo. <!-- SOURCE NEEDED (issue #74) -->
 
-[**Cuesta College**](Directory.md#Cuesta-College) students can get over-the-counter and some prescription medicines (many free of charge) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/ -->
+Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener medicamentos de venta libre y algunos medicamentos con receta (muchos sin costo) de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html) (Servicios de Salud para Estudiantes). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/ -->
 
 ### <a id="dental-care">Cuidado Dental</a>
 
