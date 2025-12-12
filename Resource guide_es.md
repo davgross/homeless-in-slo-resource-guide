@@ -674,16 +674,16 @@ En tal caso, es posible que desee comunicarse con el Sheriffs Department para in
 
 ## <a id="food">Alimentos</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Free Meals](#free-meals)
-- [Free Food Pantries](#free-food-pantries)
-- [Little Free Pantries](#little-free-pantries)
-- [Food Box Distributions](#food-box-distributions)
-- [Summer Meal Sites (for Children)](#summer-meal-sites)
-- [Senior Meal Programs](#senior-meal-programs)
-- [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic)
-- [Edible Wild Plants](#edible-wild-plants)
+- [Comidas Gratis](#free-meals)
+- [Despensas de Alimentos Gratis](#free-food-pantries)
+- [Pequeñas Despensas Libres](#little-free-pantries)
+- [Distribuciones de Cajas de Alimentos](#food-box-distributions)
+- [Sitios de Comidas de Verano (para Niños)](#summer-meal-sites)
+- [Programas de Comidas para Personas Mayores](#senior-meal-programs)
+- [CalFresh / EBT (Cupones de Alimentos) y WIC](#calfresh-ebt-wic)
+- [Plantas Silvestres Comestibles](#edible-wild-plants)
 
 <!--
 Note: Investigated “Coast Baptist Church” (October 2025) — likely refers to Central Coast Baptist Church at 153 S 9th St, Grover Beach, 805-489-2150. Five Cities Christian Women Food Pantry is already documented in Directory at its current location (946 Rockaway Ave., hosted by Lifepoint Church).
@@ -718,9 +718,9 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 
 ### <a id="free-food-pantries">Despensas de Alimentos Gratis</a>
 
-Food pantries give away unprepared food (such as fresh produce, canned goods, and packaged food).
-Some pantries have special no-cook, no-refrigeration, ready-to-eat options for people who do not have access to kitchens.
-Some give you a pre-prepared box or bag of food, others allow you to select particular items you want.
+Las despensas de alimentos regalan alimentos no preparados (como productos frescos, alimentos enlatados y alimentos empacados).
+Algunas despensas tienen opciones especiales listas para comer sin cocinar ni refrigerar, para personas que no tienen acceso a cocinas.
+Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten seleccionar artículos particulares que desea.
 
 <!-- Sources
  AGNCP, AGSPC, AGSA, AtLCP, AtLaF, AtRC, CamVC, CayCC, CaySJCC, GB5CCW, LOKC, LOPHP, LOTUMC, MBLF, MBOAP, NFB, NSMVHC, PRSA, PRSC, PRtL, PBNL, SLOFB, SLOAC, SLOBM, SLOACC, SLOGCC, SLORC, SLOSA, SLOUU, SLOZLC : https://slofoodbank.org/wp-content/uploads/2025/11/ENG_December_DistributionResourceList.pdf
@@ -778,41 +778,41 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 
 ### <a id="little-free-pantries">Pequeñas Despensas Gratuitas</a>
 
-Little free pantries are small boxes erected in neighborhoods and maintained by the people who live nearby.
-They are self-serve and open 24/7.
-They are stocked by people who have extra things to give away.
-You never know quite what you will find there, but there is usually some canned and packaged non-perishable food, and sometimes toiletries and other small essentials.
+Las pequeñas despensas gratuitas son cajas pequeñas instaladas en vecindarios y mantenidas por las personas que viven cerca.
+Son de autoservicio y están abiertas las 24 horas.
+Son abastecidas por personas que tienen cosas adicionales para regalar.
+Nunca se sabe exactamente qué encontrará allí, pero generalmente hay alimentos enlatados y empacados no perecederos, y a veces artículos de aseo y otros elementos esenciales pequeños.
 
-Sometimes people put perishable food in little free pantries, but you should beware of eating such food as it may have been there for a while and may no longer be safe to eat.
+A veces las personas ponen alimentos perecederos en las pequeñas despensas gratuitas, pero debe tener cuidado al comer tales alimentos ya que pueden haber estado allí por un tiempo y pueden ya no ser seguros para comer.
 
-See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Directory](Directory.md) for a list of locations.
+Vea [**Little Free Pantries**](Directory.md#Little-Free-Pantries) en el [Directorio](Directory.md) para una lista de ubicaciones.
 
 ### <a id="food-box-distributions">Distribución de Cajas de Alimentos</a>
 
-The [**SLO Food Bank**](Directory.md#SLO-Food-Bank) gives away food boxes on a regular schedule at a variety of locations in SLO County.
-Visit [findfoodslo.org](https://findfoodslo.org/) for a complete list and schedule of these “Neighborhood Food Distributions.”
+El [**SLO Food Bank**](Directory.md#SLO-Food-Bank) regala cajas de alimentos en un horario regular en una variedad de ubicaciones en el condado de SLO.
+Visite [findfoodslo.org](https://findfoodslo.org/) para una lista completa y horario de estas "Distribuciones de Alimentos del Vecindario."
 
 ### <a id="summer-meal-sites">Sitios de Comidas de Verano (para Niños)</a>
 
-The California Department of Education has a “Summer Food Service Program” to help children during the Summer school break who usually get meals at school. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp -->
-This program is open to all children in the community. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp Strictly speaking, only "open sites" that participate in this program are open to all children in the community; there are also closed/enrolled sites and camp sites that are more restricted -->
-You can find a list of [Summer Meal Sites](https://www.cde.ca.gov/ds/sh/sn/summersites.asp) in San Luis Obispo County at the California Department of Education website.
+El Departamento de Educación de California tiene un "Programa de Servicio de Alimentos de Verano" para ayudar a los niños durante las vacaciones escolares de verano que generalmente reciben comidas en la escuela. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp -->
+Este programa está abierto a todos los niños de la comunidad. <!-- Source: https://www.cde.ca.gov/ls/nu/sf/index.asp Strictly speaking, only "open sites" that participate in this program are open to all children in the community; there are also closed/enrolled sites and camp sites that are more restricted -->
+Puede encontrar una lista de [Sitios de Comidas de Verano](https://www.cde.ca.gov/ds/sh/sn/summersites.asp) en el condado de San Luis Obispo en el sitio web del Departamento de Educación de California.
 
 ### <a id="senior-meal-programs">Programas de Comidas para Personas Mayores</a>
 
-[**Meals that Connect**](Directory.md#Meals-that-Connect) has several sites in SLO County where they serve free, hot communal lunches every weekday. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#dining-sites -->
-The program is for people aged 60 and above. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#eligibility -->
-You must complete an application to join the program, and you must reserve your meals two days in advance. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/ -->
-They also can deliver meals to your home if you are homebound. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
+[**Meals that Connect**](Directory.md#Meals-that-Connect) tiene varios sitios en el condado de SLO donde sirven almuerzos comunitarios calientes gratuitos todos los días de semana. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#dining-sites -->
+El programa es para personas de 60 años en adelante. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#eligibility -->
+Debe completar una solicitud para unirse al programa, y debe reservar sus comidas con dos días de anticipación. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/ -->
+También pueden entregar comidas a su hogar si está confinado en casa. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 
-[**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) is a similar program specific to the Five Cities area that provides daily meals, delivered to the homes of people who cannot prepare nutritious meals for themselves and do not have caretakers who can do so. <!-- Source: https://www.5citiesmow.com/services.html -->
-They serve homebound neighbors in Arroyo Grande, Grover Beach, Oceano, Pismo Beach, and Shell Beach. <!-- Source: https://www.5citiesmow.com/services.html -->
-They serve seniors and people with temporary or permanent disabilities. <!-- Source: https://www.5citiesmow.com/services.html -->
+[**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) es un programa similar específico del área de Five Cities que proporciona comidas diarias, entregadas a los hogares de personas que no pueden preparar comidas nutritivas por sí mismas y no tienen cuidadores que puedan hacerlo. <!-- Source: https://www.5citiesmow.com/services.html -->
+Sirven a vecinos confinados en casa en Arroyo Grande, Grover Beach, Oceano, Pismo Beach y Shell Beach. <!-- Source: https://www.5citiesmow.com/services.html -->
+Sirven a personas mayores y personas con discapacidades temporales o permanentes. <!-- Source: https://www.5citiesmow.com/services.html -->
 
-Low-income seniors (aged 60 and above) can get $20–50 in credit to use at participating farmers markets from the California Department of Food and Agriculture. <!-- Source (age eligibility): https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/docs/SFMNP_eligibility_requirements.pdf -->
-There is limited availability, so if the program runs out of credits you may have to wait until their next budget to apply.
-Learn more about the program and apply to join it at [their website](https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/).
-Qualifying farmers markets include: <!-- Source: https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/docs/SFMNP-List_of_WIC-markets.pdf and https://ecologycenter.org/fmfinder/ -->
+Las personas mayores de bajos ingresos (de 60 años en adelante) pueden obtener $20–50 en crédito para usar en mercados de agricultores participantes del Departamento de Alimentación y Agricultura de California. <!-- Source (age eligibility): https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/docs/SFMNP_eligibility_requirements.pdf -->
+Hay disponibilidad limitada, así que si el programa se queda sin créditos puede que tenga que esperar hasta su próximo presupuesto para aplicar.
+Aprenda más sobre el programa y aplique para unirse en [su sitio web](https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/).
+Los mercados de agricultores que califican incluyen: <!-- Source: https://www.cdfa.ca.gov/SeniorFarmersMrktNutritionPrgm/docs/SFMNP-List_of_WIC-markets.pdf and https://ecologycenter.org/fmfinder/ -->
 
 | Location           | When                |
 | ------------------ | ------------------- |
@@ -831,23 +831,23 @@ Qualifying farmers markets include: <!-- Source: https://www.cdfa.ca.gov/SeniorF
 
 ### <a id="calfresh-ebt-wic">CalFresh / EBT (Cupones de Alimentos) y WIC</a>
 
-The CalFresh program is California’s version of the federal nutrition program known as “SNAP” or “food stamps.” <!-- Source: https://www.getcalfresh.org/ -->
-If you have a low income, California gives you an “EBT card” which you can use like a debit card at grocery stores and farmers markets to buy healthy foods. <!-- Source: https://www.getcalfresh.org/ -->
+El programa CalFresh es la versión de California del programa federal de nutrición conocido como "SNAP" o "cupones de alimentos." <!-- Source: https://www.getcalfresh.org/ -->
+Si tiene bajos ingresos, California le da una "tarjeta EBT" que puede usar como una tarjeta de débito en tiendas de alimentos y mercados de agricultores para comprar alimentos saludables. <!-- Source: https://www.getcalfresh.org/ -->
 
-You can apply for CalFresh online at either of the following sites:
+Puede aplicar para CalFresh en línea en cualquiera de los siguientes sitios:
 
 - [BenefitsCal.com](https://benefitscal.com/) <!-- Source: https://www.getcalfresh.org/ -->
 - [GetCalFresh.org](https://www.getcalfresh.org/) <!-- Source: https://www.getcalfresh.org/ -->
 
-You can also apply in person at the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/calfresh/services/calfresh-food-assistance -->
+También puede aplicar en persona en el [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/calfresh/services/calfresh-food-assistance -->
 
-If you are a Cal Poly student, you can get assistance from the [Cal Poly CalFresh Program](https://www.calfreshcalpoly.org/).
+Si es estudiante de Cal Poly, puede obtener asistencia del [Cal Poly CalFresh Program](https://www.calfreshcalpoly.org/).
 
-You will need some identification document, proof of income, and (for students) indication of student status, and (for non-citizens) immigration status. <!-- Source: https://www.getcalfresh.org/en/faq -->
-Suitable proof of income includes pay stubs from last 30 days, an employer letter on company letterhead, tax forms (1040, W-2, 1099), self-employment profit/loss statement or ledger, or a signed written statement if you do not have those documents. <!-- SOURCE NEEDED -->
-See [calfresh.guide](https://calfresh.guide/verifications-the-calfresh-office-requires/) for more details.
+Necesitará algún documento de identificación, comprobante de ingresos, y (para estudiantes) indicación de estado de estudiante, y (para no ciudadanos) estado migratorio. <!-- Source: https://www.getcalfresh.org/en/faq -->
+Los comprobantes de ingresos adecuados incluyen recibos de pago de los últimos 30 días, una carta del empleador en papel membretado de la compañía, formularios de impuestos (1040, W-2, 1099), declaración de ganancias/pérdidas de trabajo por cuenta propia o libro mayor, o una declaración escrita firmada si no tiene esos documentos. <!-- SOURCE NEEDED -->
+Vea [calfresh.guide](https://calfresh.guide/verifications-the-calfresh-office-requires/) para más detalles.
 
-Some local farmers markets will double up to $15 in CalFresh benefits that you spend at the market, so you can get twice as much food for your money (see [slocountyfarmers.org](https://www.slocountyfarmers.org/snap) for details): <!-- Source: https://ecologycenter.org/fmfinder/ -->
+Algunos mercados de agricultores locales duplicarán hasta $15 en beneficios de CalFresh que gaste en el mercado, para que pueda obtener el doble de alimentos por su dinero (vea [slocountyfarmers.org](https://www.slocountyfarmers.org/snap) para detalles): <!-- Source: https://ecologycenter.org/fmfinder/ -->
 
 | Location           | When                |
 | ------------------ | ------------------- |
@@ -861,55 +861,55 @@ Some local farmers markets will double up to $15 in CalFresh benefits that you s
 | SLO (Madonna)      | Saturday morning    |
 | Templeton          | Saturday morning    |
 
-The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also provides E-WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries. <!-- Sources: https://www.osi.ca.gov/eWIC.html and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
+El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) también proporciona tarjetas de débito E-WIC con las que puede comprar ciertos tipos de alimentos en mercados de agricultores y tiendas de alimentos aprobadas por WIC. <!-- Sources: https://www.osi.ca.gov/eWIC.html and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
 
 ### <a id="edible-wild-plants">Plantas Silvestres Comestibles</a>
 
-There are many edible wild plants available in SLO County.
-When they are in season, they can add nutrition to your diet.
+Hay muchas plantas silvestres comestibles disponibles en el condado de SLO.
+Cuando están en temporada, pueden agregar nutrición a su dieta.
 
-> **Caution:** Some wild plants are poisonous.
-> You should only forage for wild plants if you know what you are doing.
-> Also: beware of foraging plants in agricultural or well-tended areas, as they may have been treated with pesticides.
-> Don’t forage plants from waste sites, stagnant water areas, or areas subject to agricultural or industrial run-off, as the plants may absorb toxins or parasites from the soil or water.
+> **Precaución:** Algunas plantas silvestres son venenosas.
+> Solo debe buscar plantas silvestres si sabe lo que está haciendo.
+> Además: tenga cuidado al buscar plantas en áreas agrícolas o bien cuidadas, ya que pueden haber sido tratadas con pesticidas.
+> No busque plantas de sitios de desechos, áreas de agua estancada, o áreas sujetas a escorrentía agrícola o industrial, ya que las plantas pueden absorber toxinas o parásitos del suelo o el agua.
 
-Some common edible plants in SLO County are: <!-- Source: Gary Romano "Hiker's guide to wild edible plants of San Luis Obispo County" -->
+Algunas plantas comestibles comunes en el condado de SLO son: <!-- Source: Gary Romano "Hiker's guide to wild edible plants of San Luis Obispo County" -->
 
-| Plant                                                                 | Season        | Edible Part |
-| --------------------------------------------------------------------- | ------------- | ----------- |
-| [Beach Strawberry](https://en.wikipedia.org/wiki/Fragaria_chiloensis) | Spring–Summer | Berries |
-| [Blackberries](https://en.wikipedia.org/wiki/Rubus_ursinus)           | Summer        | Berries |
-| [Bulrush](https://en.wikipedia.org/wiki/Scirpus_microcarpus)          | All year      | Most parts, but should be cooked |
-| [Cattail](https://en.wikipedia.org/wiki/Typha_latifolia)              | All year      | Most parts, but should be cooked |
-| [Chaparral Currant](https://en.wikipedia.org/wiki/Ribes_malvaceum)    | Spring        | Berries |
-| [Chia](https://en.wikipedia.org/wiki/Salvia_columbariae)              | Fall          | Seeds |
-| [Chinquapin](https://en.wikipedia.org/wiki/Chrysolepis_chrysophylla)  | Fall          | Nuts |
-| [Chufa/Nutgrass](https://en.wikipedia.org/wiki/Cyperus_esculentus)    | Fall          | Tubers |
-| [Dandelion](https://en.wikipedia.org/wiki/Taraxacum_officinale)       | Spring–Fall   | All parts |
-| [Gooseberry](https://en.wikipedia.org/wiki/Gooseberry)                | Spring        | Berries |
-| [Hollyleaf Cherry](https://en.wikipedia.org/wiki/Prunus_ilicifolia)   | Summer–Fall   | Berries |
-| [Miner’s Lettuce](https://en.wikipedia.org/wiki/Claytonia_perfoliata) | All year      | All parts |
-| [Nasturtium](https://en.wikipedia.org/wiki/Tropaeolum_majus)          | Spring–Summer | Flowers and leaves |
-| [Prickly Pear](https://en.wikipedia.org/wiki/Opuntia)                 | Summer–Fall   | Fruit (but covered in annoying spines) |
-| [Thimbleberry](https://en.wikipedia.org/wiki/Rubus_parviflorus)       | Summer        | Berries |
-| [Watercress](https://en.wikipedia.org/wiki/Watercress)                | Spring–Summer | Leaves |
-| [Wild Mustard](https://en.wikipedia.org/wiki/Mustard_plant)           | Spring        | Flowers and leaves |
+| Planta                                                                 | Temporada     | Parte Comestible |
+| ---------------------------------------------------------------------- | ------------- | ---------------- |
+| [Frutilla chilena](https://es.wikipedia.org/wiki/Fragaria_chiloensis) | Primavera–Verano | Bayas |
+| [Zarzamora californiana](https://es.wikipedia.org/wiki/Rubus_ursinus) | Verano        | Bayas |
+| [Junco](https://es.wikipedia.org/wiki/Schoenoplectus)                  | Todo el año   | La mayoría de las partes, pero deben cocinarse |
+| [Espadaña](https://es.wikipedia.org/wiki/Typha_latifolia)             | Todo el año   | La mayoría de las partes, pero deben cocinarse |
+| [Grosella de chaparral](https://es.wikipedia.org/wiki/Ribes_malvaceum) | Primavera    | Bayas |
+| [Chía](https://es.wikipedia.org/wiki/Salvia_columbariae)              | Otoño         | Semillas |
+| [Castaño dorado](https://es.wikipedia.org/wiki/Chrysolepis_chrysophylla) | Otoño      | Nueces |
+| [Chufa](https://es.wikipedia.org/wiki/Cyperus_esculentus)             | Otoño         | Tubérculos |
+| [Diente de león](https://es.wikipedia.org/wiki/Taraxacum_officinale)  | Primavera–Otoño | Todas las partes |
+| [Grosella espinosa](https://es.wikipedia.org/wiki/Ribes_uva-crispa)   | Primavera     | Bayas |
+| [Cerezo de hoja de acebo](https://es.wikipedia.org/wiki/Prunus_ilicifolia) | Verano–Otoño | Bayas |
+| [Lechuga de minero](https://es.wikipedia.org/wiki/Claytonia_perfoliata) | Todo el año | Todas las partes |
+| [Capuchina](https://es.wikipedia.org/wiki/Tropaeolum_majus)           | Primavera–Verano | Flores y hojas |
+| [Nopal](https://es.wikipedia.org/wiki/Opuntia)                         | Verano–Otoño  | Fruta (pero cubierta de espinas molestas) |
+| [Frambuesa norteamericana](https://es.wikipedia.org/wiki/Rubus_parviflorus) | Verano  | Bayas |
+| [Berro de agua](https://es.wikipedia.org/wiki/Nasturtium_officinale)  | Primavera–Verano | Hojas |
+| [Mostaza silvestre](https://es.wikipedia.org/wiki/Brassica)            | Primavera     | Flores y hojas |
 
-Sometimes you will also see edible fruit trees like plums or cherries on sidewalks, in parks, or in other public places.
+A veces también verá árboles frutales comestibles como ciruelos o cerezos en aceras, en parques, o en otros lugares públicos.
 
-Sometimes also people plant fruit trees on their own property but then neglect to harvest the fruit, perhaps because there is more than they need.
-In such a case you can ask the property owner for permission to harvest from their trees.
+A veces también las personas plantan árboles frutales en su propia propiedad pero luego descuidan cosechar la fruta, tal vez porque hay más de lo que necesitan.
+En tal caso puede pedir al dueño de la propiedad permiso para cosechar de sus árboles.
 
 -----
 
 ## <a id="refill-a-water-bottle">Dónde Rellenar una Botella de Agua</a>
 
-Most major parks and recreation facilities have water fountains and/or water bottle refill stations, as do some public libraries. <!-- SOURCE NEEDED -->
+La mayoría de los parques principales e instalaciones recreativas tienen fuentes de agua y/o estaciones de recarga de botellas de agua, al igual que algunas bibliotecas públicas. <!-- SOURCE NEEDED -->
 
-The city of SLO also has a water bottle filling station network.
-Some of these stations are inside buildings and are only accessible when the building is open for business.
-Others are outside and are available 24/7.
-You can find a map of these hydration stations [at this link](https://storymaps.arcgis.com/stories/ac825840143c4d718e06397d5306fa89) or at [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ojOfK6l3mkAh6JIfFJZwA5ej5Qj232No&ll=35.27079109833796%2C-120.65453885&z=15).
+La ciudad de SLO también tiene una red de estaciones de llenado de botellas de agua.
+Algunas de estas estaciones están dentro de edificios y solo son accesibles cuando el edificio está abierto para negocios.
+Otras están afuera y están disponibles las 24 horas.
+Puede encontrar un mapa de estas estaciones de hidratación [en este enlace](https://storymaps.arcgis.com/stories/ac825840143c4d718e06397d5306fa89) o en [Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ojOfK6l3mkAh6JIfFJZwA5ej5Qj232No&ll=35.27079109833796%2C-120.65453885&z=15).
 
 | Location                                                                                                                                      | How to find it       | Hours |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----- |
