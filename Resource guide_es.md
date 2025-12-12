@@ -2270,45 +2270,45 @@ Los veteranos militares estadounidenses pueden obtener ayuda del sitio web [Stat
 
 ### <a id="legal-consultation">Consulta Legal en General</a>
 
-If you need to confer with a lawyer or other legal consultant, you have several options.
+Si necesita consultar con un abogado u otro consultor legal, tiene varias opciones.
 
-The [**SLO County Bar Association**](Directory.md#SLO-County-Bar-Association)’s [Attorney Referral Service](https://slobar.org/Information-and-referral-service/) can help you find a lawyer who is most appropriate to your case. <!-- Source: https://slobar.org/Information-and-referral-service/ -->
-This service is free for personal injury, worker’s compensation, and criminal law cases, but costs $50 otherwise. <!-- Source: https://slobar.org/Information-and-referral-service/ -->
+El [Servicio de Referencia de Abogados](https://slobar.org/Information-and-referral-service/) de la [**SLO County Bar Association**](Directory.md#SLO-County-Bar-Association) (Asociación del Colegio de Abogados del Condado de SLO) puede ayudarle a encontrar un abogado que sea más apropiado para su caso. <!-- Source: https://slobar.org/Information-and-referral-service/ -->
+Este servicio es gratuito para casos de lesiones personales, compensación laboral y derecho criminal, pero cuesta $50 de otra manera. <!-- Source: https://slobar.org/Information-and-referral-service/ -->
 
-The [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) provides free legal assistance on civil law and family law (not criminal law) matters to low-income people in SLO County. <!-- Source: https://www.slolaf.org/ -->
+La [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO) proporciona asistencia legal gratuita en asuntos de derecho civil y derecho familiar (no derecho criminal) a personas de bajos ingresos en el condado de SLO. <!-- Source: https://www.slolaf.org/ -->
 
-[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) provides free civil law (not criminal law) services to low-income people in SLO County. <!-- Source: https://crla.org/about-crla -->
+[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance) (Asistencia Legal Rural de California) proporciona servicios de derecho civil gratuitos (no derecho criminal) a personas de bajos ingresos en el condado de SLO. <!-- Source: https://crla.org/about-crla -->
 
-[**People’s Justice Project**](Directory.md#Peoples-Justice-Project) is a non-profit law firm that can provide affordable legal representation to people with low- or moderate-income in criminal law or civil rights cases. <!-- Source: https://peoplesjusticeproject.org/ -->
+[**People's Justice Project**](Directory.md#Peoples-Justice-Project) (Proyecto de Justicia del Pueblo) es un bufete de abogados sin fines de lucro que puede proporcionar representación legal asequible a personas con ingresos bajos o moderados en casos de derecho criminal o derechos civiles. <!-- Source: https://peoplesjusticeproject.org/ -->
 
-U.S. military veterans can use the [StateSideLegal](https://www.statesidelegal.org/) website’s [Veterans Legal Help Navigator](https://www.statesidelegal.org/helpnavigate?clear=true) to find legal representatives that best match the needs of your case.
+Los veteranos militares estadounidenses pueden usar el [Navegador de Ayuda Legal para Veteranos](https://www.statesidelegal.org/helpnavigate?clear=true) del sitio web [StateSideLegal](https://www.statesidelegal.org/) para encontrar representantes legales que mejor coincidan con las necesidades de su caso.
 
-[**ACLU of Southern California**](Directory.md#ACLU) can provide limited legal advice in civil liberties and civil rights cases.
-It has limited resources and typically focuses on specific cases which it hopes to use to force systemic changes. <!-- Source: https://www.aclusocal.org/en/seeking-legal-help-aclu -->
-It does not accept walk-ins.
-It offers several free [Know Your Rights](https://www.aclusocal.org/en/know-your-rights) guides, but these can be more reflective of what the ACLU believes your legal rights are on paper than what the law enforcement system actually respects.
+[**ACLU of Southern California**](Directory.md#ACLU) (ACLU del Sur de California) puede proporcionar consejo legal limitado en casos de libertades civiles y derechos civiles.
+Tiene recursos limitados y típicamente se enfoca en casos específicos que espera usar para forzar cambios sistémicos. <!-- Source: https://www.aclusocal.org/en/seeking-legal-help-aclu -->
+No acepta visitas sin cita.
+Ofrece varias guías gratuitas [Conozca Sus Derechos](https://www.aclusocal.org/en/know-your-rights), pero estas pueden reflejar más lo que la ACLU cree que son sus derechos legales en papel que lo que el sistema de aplicación de la ley realmente respeta.
 
 ### <a id="family-law">Derecho Familiar / Manutención de Hijos</a>
 
-[**Child Support Services**](Directory.md#Child-Support-Services) can help you locate parents who may owe child support, establish parentage, obtain and enforce support orders, and collect payments. <!-- Source: https://www.slocounty.ca.gov/departments/child-support -->
+[**Child Support Services**](Directory.md#Child-Support-Services) (Servicios de Manutención Infantil) puede ayudarle a localizar padres que pueden deber manutención infantil, establecer paternidad, obtener y hacer cumplir órdenes de manutención y cobrar pagos. <!-- Source: https://www.slocounty.ca.gov/departments/child-support -->
 
-If you are filing a family law case, you can get free help from [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
+Si está presentando un caso de derecho familiar, puede obtener ayuda gratuita de [**SLO Court Self-Help Services**](Directory.md#SLO-Court-Self-Help-Services) (Servicios de Autoayuda de la Corte de SLO). <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 
-The [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) provides free legal assistance on family law matters to low-income people in SLO County. <!-- Source: https://www.slolaf.org/ -->
+La [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) (Fundación de Asistencia Legal de SLO) proporciona asistencia legal gratuita en asuntos de derecho familiar a personas de bajos ingresos en el condado de SLO. <!-- Source: https://www.slolaf.org/ -->
 
-[**SLO Superior Court**](Directory.md#SLO-Superior-Court) has some guides on the process of going to court for [child custody and support](https://www.slo.courts.ca.gov/self-help/family-law/custody-and-support), [divorce, legal separation, and annulment](https://www.slo.courts.ca.gov/self-help/family-law/divorce), and other [family law](https://www.slo.courts.ca.gov/self-help/family-law) matters.
+[**SLO Superior Court**](Directory.md#SLO-Superior-Court) (Corte Superior de SLO) tiene algunas guías sobre el proceso de ir a la corte por [custodia y manutención infantil](https://www.slo.courts.ca.gov/self-help/family-law/custody-and-support), [divorcio, separación legal y anulación](https://www.slo.courts.ca.gov/self-help/family-law/divorce), y otros asuntos de [derecho familiar](https://www.slo.courts.ca.gov/self-help/family-law).
 
 ### <a id="immigration-law">Derecho de Inmigración</a>
 
 <!-- MICOP's "Immigration Legal Assistance" (MILA) program seems to no longer be functioning? -->
 
-[**SLO County UndocuSupport**](Directory.md#SLO-County-UndocuSupport) has [a list of legal assistance services](https://www.sloundocusupport.org/immigrantservicesguide) that includes [a chart of which local legal aid groups provide which specific immigration-related legal services](https://docs.google.com/spreadsheets/d/1FRaVSHBETqYvk1-aDJ-ULYsHvpfXaLFuAhS7tjwPBKA/edit?usp=sharing).
+[**SLO County UndocuSupport**](Directory.md#SLO-County-UndocuSupport) (Apoyo para Indocumentados del Condado de SLO) tiene [una lista de servicios de asistencia legal](https://www.sloundocusupport.org/immigrantservicesguide) que incluye [un cuadro de qué grupos locales de ayuda legal proporcionan qué servicios legales específicos relacionados con inmigración](https://docs.google.com/spreadsheets/d/1FRaVSHBETqYvk1-aDJ-ULYsHvpfXaLFuAhS7tjwPBKA/edit?usp=sharing).
 
-[**Catholic Charities**](Directory.md#Catholic-Charities) has an [Immigration and Citizenship Program](https://catholiccharitiesdom.org/immigration-citizenship/) to help people with issues such as U.S citizenship applications, immigration status changes, DACA, U-Visas, VAWA-Visas, and consular visa processes. <!-- Source: https://catholiccharitiesdom.org/immigration-citizenship/ -->
+[**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) tiene un [Programa de Inmigración y Ciudadanía](https://catholiccharitiesdom.org/immigration-citizenship/) para ayudar a personas con temas como solicitudes de ciudadanía estadounidense, cambios de estatus migratorio, DACA, Visas U, Visas VAWA y procesos de visa consular. <!-- Source: https://catholiccharitiesdom.org/immigration-citizenship/ -->
 
-[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) hosts the [Unitarian Universalist Refugee and Immigrant Services Education (UURISE)](https://uuslo.org/Immigration-Legal-Services) program, which offers free or low-cost immigration legal services. <!-- Source: https://uuslo.org/Immigration-Legal-Services -->
+[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) (Universalistas Unitarios de San Luis Obispo) organiza el programa [Unitarian Universalist Refugee and Immigrant Services Education (UURISE)](https://uuslo.org/Immigration-Legal-Services) (Educación de Servicios para Refugiados e Inmigrantes Universalistas Unitarios), que ofrece servicios legales de inmigración gratuitos o de bajo costo. <!-- Source: https://uuslo.org/Immigration-Legal-Services -->
 
-[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) is an immigration legal services center that can help you with naturalization, consular processing, immigration status changes, temporary protective status, DACA, green card renewals, and visas. <!-- Source: https://immigranthopeag.org/ -->
+[**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) (Esperanza Inmigrante Arroyo Grande) es un centro de servicios legales de inmigración que puede ayudarle con naturalización, procesamiento consular, cambios de estatus migratorio, estatus de protección temporal, DACA, renovaciones de tarjeta verde y visas. <!-- Source: https://immigranthopeag.org/ -->
 
 [**SLO College of Law**](Directory.md#SLO-College-of-Law-Legal-Clinic) holds [immigration clinics](https://montereylaw.edu/clinics/immigrationclinic.html) by telephone or Zoom on Mondays between 4pm and 6pm. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
 They can help you with DACA renewal, visas, naturalization/citizenship, and green cards. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
