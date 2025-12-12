@@ -2229,18 +2229,18 @@ Los defensores de CASA son designados por la corte; no puede solicitar sus servi
 <!-- NOTE: Creative Mediation was apparently a project of Wilshire, which went bankrupt
 ### <a id="mediation">Mediación</a>
 
-If you have a dispute with someone else, mediation is a way to resolve that dispute without having to go to court.
-This doesn’t always work, but when it does it can be much less costly and cumbersome than filing a lawsuit.
+Si tiene una disputa con otra persona, la mediación es una manera de resolver esa disputa sin tener que ir a la corte.
+Esto no siempre funciona, pero cuando funciona puede ser mucho menos costoso y engorroso que presentar una demanda.
 
-Mediators are professionals who help people in conflict to resolve their dispute.
-You can use mediation for many types of conflicts, including those that have to do with family, employment, housing, neighbors, relationship, contracting, or consumer disputes.
+Los mediadores son profesionales que ayudan a personas en conflicto a resolver su disputa.
+Puede usar la mediación para muchos tipos de conflictos, incluyendo aquellos que tienen que ver con familia, empleo, vivienda, vecinos, relaciones, contratación o disputas de consumidores.
 
-[**Creative Mediation**](Directory.md#Creative-Mediation) is a non-profit mediation service that offers free services to SLO County residents.
+[**Creative Mediation**](Directory.md#Creative-Mediation) (Mediación Creativa) es un servicio de mediación sin fines de lucro que ofrece servicios gratuitos a residentes del Condado de SLO.
 
-When Creative Mediation receives your request for their mediation assistance, they will contact you for more information.
-Then they will contact the person you are having a dispute with.
-If that person agrees to handle your dispute by means of mediation, a mediation session will be scheduled at a time that works for you.
-A neutral mediator will be assigned to your case to help you resolve it.
+Cuando Creative Mediation recibe su solicitud de asistencia de mediación, lo contactarán para obtener más información.
+Luego contactarán a la persona con la que tiene una disputa.
+Si esa persona acepta manejar su disputa por medio de mediación, se programará una sesión de mediación en un momento que funcione para usted.
+Se asignará un mediador neutral a su caso para ayudarlo a resolverlo.
 -->
 
 ### <a id="legal-self-help">Autoayuda Legal / Bibliotecas de Derecho</a>
@@ -3985,7 +3985,7 @@ Puede querer considerar cuidadosamente los pros y contras antes de presentar que
 
 Para quejas sobre mala conducta de empleados o departamentos del condado, si no ha podido resolver su queja contactando al departamento mismo, puede presentar una queja con la Oficina Administrativa del condado usando su [formulario Enviar una Queja](https://www.slocounty.ca.gov/departments/administrative-office/services/citizen-complaint-investigations) (Submit a Complaint).
 
-For complaints about County Behavioral Health specifically, contact the [Patients’ Rights Advocate](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/quality-support-services/patients-rights-advocate) ([805-781-4738](tel:+1-805-781-4738)).
+Para quejas sobre Salud del Comportamiento del Condado específicamente, contacte al [Patients' Rights Advocate](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/quality-support-services/patients-rights-advocate) (Defensor de los Derechos de los Pacientes) ([805-781-4738](tel:+1-805-781-4738)).
 
 -----
 
@@ -3993,30 +3993,30 @@ For complaints about County Behavioral Health specifically, contact the [Patient
 
 ### <a id="totally-free-stuff">Completamente Gratis</a>
 
-The [Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA) network is free to join (you must create an online account to participate).
-People in the network can announce when they have things that they no longer want and would like to give away, or can request items they are looking for. <!-- Source: https://www.freecycle.org/pages/about -->
-All items are cost-free. <!-- Source: https://www.freecycle.org/pages/about -->
-There are also “Buy Nothing” groups in the area that have a similar focus.
-The [Buy Nothing Project](https://buynothingproject.org/find-a-group) has an app you can use to connect with people nearby who have things to give away.
-You may have better luck searching Facebook for “Buy Nothing” plus the name of the town you are in.
+La red [Freecycle San Luis Obispo](https://www.freecycle.org/town/SanLuisObispoCA) es gratuita para unirse (debe crear una cuenta en línea para participar).
+Las personas en la red pueden anunciar cuando tienen cosas que ya no quieren y les gustaría regalar, o pueden solicitar artículos que están buscando. <!-- Source: https://www.freecycle.org/pages/about -->
+Todos los artículos son sin costo. <!-- Source: https://www.freecycle.org/pages/about -->
+También hay grupos "Buy Nothing" (No Compre Nada) en el área que tienen un enfoque similar.
+El [Buy Nothing Project](https://buynothingproject.org/find-a-group) (Proyecto No Compre Nada) tiene una aplicación que puede usar para conectarse con personas cercanas que tienen cosas para regalar.
+Puede tener mejor suerte buscando en Facebook "Buy Nothing" más el nombre de la ciudad en la que está.
 
-“Little Free Libraries” are boxes in public areas (for example adjacent to sidewalks) where people leave books they are giving away.
-Anyone is free to take books for their own use from Little Free Libraries.
-There is no check-out/check-in procedure.
-Just take what you want to read, or leave what you’re finished reading.
-They are typically open 24-hours a day, every day.
-See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Directory for a list of dozens of them in SLO County.
+Las "Little Free Libraries" (Pequeñas Bibliotecas Gratuitas) son cajas en áreas públicas (por ejemplo adyacentes a aceras) donde las personas dejan libros que están regalando.
+Cualquiera es libre de tomar libros para su propio uso de las Pequeñas Bibliotecas Gratuitas.
+No hay procedimiento de préstamo/devolución.
+Simplemente tome lo que quiere leer, o deje lo que ha terminado de leer.
+Típicamente están abiertas 24 horas al día, todos los días.
+Vea [**Little Free Libraries**](Directory.md#Little-Free-Libraries) en el Directorio para una lista de docenas de ellas en el Condado de SLO.
 
-“Pequeñas Despensas Gratuitas” are similar, but rather than holding books, they specialize in non-perishable food, feminine hygiene products, pet food, and miscellaneous other items.
-See [**Pequeñas Despensas Gratuitas**](Directory.md#Little-Free-Pantries) in the Directory for a list of several in SLO County.
+Las "Pequeñas Despensas Gratuitas" son similares, pero en lugar de contener libros, se especializan en comida no perecedera, productos de higiene femenina, comida para mascotas y otros artículos misceláneos.
+Vea [**Pequeñas Despensas Gratuitas**](Directory.md#Little-Free-Pantries) en el Directorio para una lista de varias en el Condado de SLO.
 
 La sucursal de Shandon de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) tiene una biblioteca de préstamo de herramientas.
 Las personas con tarjetas de biblioteca del condado pueden pedir prestadas herramientas eléctricas como taladros, sierras, lijadoras o un router; herramientas para exteriores como un soplador de hojas, recortador de setos o sierra de pértiga; y herramientas manuales como escaleras, niveles, carritos o un banco de trabajo. <!-- SOURCE NEEDED -->
 Debe completar algunos formularios adicionales y una exención de responsabilidad para usar la biblioteca de préstamo de herramientas. <!-- SOURCE NEEDED -->
 
-PG&E’s [Energy Savings Assistance (ESA) Program](https://www.pge.com/en/save-energy-and-money/energy-saving-programs/energy-savings-assistance-program.html) helps low-income households upgrade or repair water heaters, furnaces, lighting, and appliances for no cost.
-This can also improve energy efficiency, which will lower your utility bills.
-See their website for information on who is eligible and how to apply, or call [800-933-9555](tel:+1-800-933-9555).
+El [Energy Savings Assistance (ESA) Program](https://www.pge.com/en/save-energy-and-money/energy-saving-programs/energy-savings-assistance-program.html) (Programa de Asistencia de Ahorro de Energía) de PG&E ayuda a hogares de bajos ingresos a mejorar o reparar calentadores de agua, hornos, iluminación y electrodomésticos sin costo.
+Esto también puede mejorar la eficiencia energética, lo que reducirá sus facturas de servicios públicos.
+Vea su sitio web para información sobre quién es elegible y cómo solicitar, o llame al [800-933-9555](tel:+1-800-933-9555).
 
 [**CAPSLO**](Directory.md#CAPSLO) puede conectar hogares de bajos ingresos con proveedores de climatización sin costo a través de su programa [Home and Energy Services](https://capslo.org/energy-services/) (Servicios de Hogar y Energía).
 También pueden conectar a personas mayores (edad 60+) con proveedores de reparaciones menores del hogar sin costo a través de ese programa. <!-- https://capslo.org/minor-home-repair/ -->
@@ -4034,12 +4034,12 @@ Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obt
 
 [**Habitat for Humanity ReStore**](Directory.md#Habitat-for-Humanity) vende materiales de construcción reciclados, suministros de construcción, muebles, electrodomésticos y decoración del hogar a precios bajos.
 
-[SLO MakerSpace](https://www.slomakerspace.com/) can give you access to a variety of tools–everything from basic hand tools to laser cutters and 3D printers.
-You can get a free “partner pass” membership through [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries). <!-- Source: https://www.slomakerspace.com/get-making -->
-This allows you to access some tools during some operating hours. <!-- Source: https://www.slomakerspace.com/get-making -->
-To access their full set of tools always, you may need to pay for a full membership. <!-- Source: https://www.slomakerspace.com/get-making -->
-You will also need to attend a general orientation. <!-- Source: https://www.slomakerspace.com/get-making -->
-Some advanced tools also require that you take tool-specific orientation classes before you can use them, and some of those cost money. <!-- Source: https://www.slomakerspace.com/get-making -->
+[SLO MakerSpace](https://www.slomakerspace.com/) puede darle acceso a una variedad de herramientas–todo desde herramientas manuales básicas hasta cortadoras láser e impresoras 3D.
+Puede obtener una membresía gratuita de "pase de socio" (partner pass) a través de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries). <!-- Source: https://www.slomakerspace.com/get-making -->
+Esto le permite acceder a algunas herramientas durante algunas horas de operación. <!-- Source: https://www.slomakerspace.com/get-making -->
+Para acceder a su conjunto completo de herramientas siempre, puede necesitar pagar por una membresía completa. <!-- Source: https://www.slomakerspace.com/get-making -->
+También necesitará asistir a una orientación general. <!-- Source: https://www.slomakerspace.com/get-making -->
+Algunas herramientas avanzadas también requieren que tome clases de orientación específicas de herramientas antes de poder usarlas, y algunas de esas cuestan dinero. <!-- Source: https://www.slomakerspace.com/get-making -->
 
 -----
 
