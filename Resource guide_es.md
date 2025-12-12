@@ -2647,88 +2647,88 @@ La oficina de correos puede dejar de aceptar correo de entrega general para uste
 
 ## <a id="banking-and-money-management">Banca y Manejo de Dinero</a>
 
-**In this section:**
+**En esta sección:**
 
-- [Banks and Credit Unions](#banks-and-credit-unions)
-- [Financial Literacy Classes and 1-on-1 Assistance](#financial-literacy)
-- [Debt Consolidation](#debt-consolidation)
+- [Bancos y Cooperativas de Crédito](#banks-and-credit-unions)
+- [Clases de Educación Financiera y Asistencia Individual](#financial-literacy)
+- [Consolidación de Deudas](#debt-consolidation)
 
 ### <a id="banks-and-credit-unions">Bancos y Cooperativas de Crédito</a>
 
-Credit unions are like banks, but are nonprofit organizations that tend to be locally-focused.
-They can often be more accommodating than banks to people with low incomes and to homeless people. <!-- SOURCE NEEDED -->
+Las cooperativas de crédito son como bancos, pero son organizaciones sin fines de lucro que tienden a estar enfocadas localmente.
+A menudo pueden ser más acomodaticias que los bancos para personas de bajos ingresos y para personas sin hogar. <!-- SOURCE NEEDED -->
 
-Credit unions in SLO County include:
+Las cooperativas de crédito en el Condado de SLO incluyen:
 
 - [**CoastHills Credit Union**](Directory.md#CoastHills-Credit-Union)
 - [**Golden 1 Credit Union**](Directory.md#Golden-1-Credit-Union)
 - [**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union)
 - [**SLO Credit Union**](Directory.md#SLO-Credit-Union)
 
-Some ordinary banks offer “Bank On Certified Accounts” which are savings or checking accounts that are more affordable, have small minimum balances, and have no overdraft fees. <!-- Source: https://joinbankon.org/about/ -->
-You can search for banks that offer such accounts at [joinbankon.org](https://joinbankon.org/accounts/).
+Algunos bancos ordinarios ofrecen "Cuentas Certificadas Bank On" que son cuentas de ahorro o cheques que son más económicas, tienen saldos mínimos pequeños y no tienen cargos por sobregiro. <!-- Source: https://joinbankon.org/about/ -->
+Puede buscar bancos que ofrezcan tales cuentas en [joinbankon.org](https://joinbankon.org/accounts/).
 
-> See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) section of this guide if you do not have a stable address and you need an address you can use while establishing a bank account.
+> Vea la sección de [Recepción de Correo, Apartados Postales, Etc.](#mail-drops-post-office-boxes) de esta guía si no tiene una dirección estable y necesita una dirección que pueda usar al establecer una cuenta bancaria.
 
-> See the [IDs and other documents](#ids-and-other-documents) section of this guide for information on how to obtain required identification and other documentation.
+> Vea la sección de [Identificaciones y Otros Documentos](#ids-and-other-documents) de esta guía para información sobre cómo obtener identificación requerida y otra documentación.
 
-**Tips for how to succeed in establishing a bank account:**
+**Consejos sobre cómo tener éxito al establecer una cuenta bancaria:**
 
-- Call ahead: Contact banks before you visit and ask about their specific requirements
-- Bring multiple documents: Have as much identification and address verification as possible
-- Learn about special programs: Ask about programs for people without permanent addresses
-- Consider credit unions first: They are often more flexible and community-focused than large banks
-- Use service organization support: Have case workers or service providers help advocate and provide verification if needed
+- Llame con anticipación: Contacte bancos antes de visitarlos y pregunte sobre sus requisitos específicos
+- Traiga múltiples documentos: Tenga tanta identificación y verificación de dirección como sea posible
+- Aprenda sobre programas especiales: Pregunte sobre programas para personas sin direcciones permanentes
+- Considere las cooperativas de crédito primero: A menudo son más flexibles y enfocadas en la comunidad que los grandes bancos
+- Use el apoyo de organizaciones de servicios: Haga que trabajadores de casos o proveedores de servicios ayuden a abogar y proporcionar verificación si es necesario
 
 ### <a id="financial-literacy">Clases de Educación Financiera y Asistencia Individual</a>
 
-[**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union) offers [online webinars](https://www.sesloc.org/why-sesloc/financial-education/seminars-and-webinars/) on topics like debt management and the psychology of spending.
-These webinars are free to the public. <!-- Source: https://www.sesloc.org/why-sesloc/financial-education/seminars-and-webinars/ -->
-They also offer free [one-on-one, professional financial counseling](https://www.sesloc.org/why-sesloc/financial-education/greenpath-financial-counseling/) to SESLOC members.
+[**SESLOC Credit Union**](Directory.md#SESLOC-Credit-Union) ofrece [seminarios web en línea](https://www.sesloc.org/why-sesloc/financial-education/seminars-and-webinars/) sobre temas como manejo de deudas y la psicología del gasto.
+Estos seminarios web son gratuitos para el público. <!-- Source: https://www.sesloc.org/why-sesloc/financial-education/seminars-and-webinars/ -->
+También ofrecen [asesoramiento financiero profesional individual](https://www.sesloc.org/why-sesloc/financial-education/greenpath-financial-counseling/) gratuito a miembros de SESLOC.
 
-[**Goodwill Central Coast**](Directory.md#Goodwill) has a free “Opportunity Platform” that includes one-on-one financial coaching services to help you achieve your personal money goals. <!-- Source: https://www.ccgoodwill.org/mission-services-financial-literacy-central-coast/ -->
+[**Goodwill Central Coast**](Directory.md#Goodwill) tiene una "Plataforma de Oportunidades" gratuita que incluye servicios de asesoramiento financiero individual para ayudarle a alcanzar sus metas personales de dinero. <!-- Source: https://www.ccgoodwill.org/mission-services-financial-literacy-central-coast/ -->
 
 ### <a id="debt-consolidation">Consolidación de Deudas</a>
 
-[Money Management International](https://www.moneymanagement.org/) ([866-889-9347](tel:+1-866-889-9347)) and [National Foundation for Credit Counseling](https://www.nfcc.org/) ([800-388-2227](tel:+1-800-388-2227)) are nonprofit groups that can help you manage credit card or other debt.
+[Money Management International](https://www.moneymanagement.org/) ([866-889-9347](tel:+1-866-889-9347)) y [National Foundation for Credit Counseling](https://www.nfcc.org/) ([800-388-2227](tel:+1-800-388-2227)) son grupos sin fines de lucro que pueden ayudarle a manejar tarjetas de crédito u otras deudas.
 
 -----
 
 ## <a id="tax-preparation">Preparación de Impuestos</a>
 
-There are several programs that can give you free assistance in completing and filing your annual tax returns.
-Free tax assistance programs are usually available in the February-through-April period. <!-- Source: https://unitedwayslo.org/family-financial-stability/taxes/ -->
+Hay varios programas que pueden darle asistencia gratuita para completar y presentar sus declaraciones de impuestos anuales.
+Los programas de asistencia tributaria gratuita usualmente están disponibles en el período de febrero a abril. <!-- Source: https://unitedwayslo.org/family-financial-stability/taxes/ -->
 
-Even if you do not think you owe any taxes because your income is very low, it can be to your advantage to file a tax return.
-This is for a few reasons:
+Incluso si no cree que debe impuestos porque su ingreso es muy bajo, puede ser ventajoso para usted presentar una declaración de impuestos.
+Esto es por algunas razones:
 
-1. You may qualify for certain refundable tax credits that can put money in your pocket, even if you did not pay taxes all year. <!-- Source: https://www.irs.gov/credits-deductions/individuals/refundable-tax-credits -->
-1. Some programs for low-income people require those people to show their most recent tax return to prove that they qualify.
-1. Filing a tax return, even if it is of no practical effect, can be a gesture of compliance with the law that can be helpful, for example if you are engaged in the U.S. immigration process. <!-- SOURCE NEEDED -->
+1. Puede calificar para ciertos créditos tributarios reembolsables que pueden poner dinero en su bolsillo, incluso si no pagó impuestos durante todo el año. <!-- Source: https://www.irs.gov/credits-deductions/individuals/refundable-tax-credits -->
+1. Algunos programas para personas de bajos ingresos requieren que esas personas muestren su declaración de impuestos más reciente para probar que califican.
+1. Presentar una declaración de impuestos, incluso si no tiene efecto práctico, puede ser un gesto de cumplimiento con la ley que puede ser útil, por ejemplo si está involucrado en el proceso de inmigración de EE.UU. <!-- SOURCE NEEDED -->
 
-Avoid using commercial tax preparers that charge high fees, or that offer refund anticipation loans (so-called “instant” refunds). <!-- Source: https://en.wikipedia.org/wiki/Refund_anticipation_loan -->
-Some of these preparers give poor-quality tax advice, and most of them are bad bargains compared to the free services.
+Evite usar preparadores de impuestos comerciales que cobran tarifas altas, o que ofrecen préstamos de anticipación de reembolso (los llamados reembolsos "instantáneos"). <!-- Source: https://en.wikipedia.org/wiki/Refund_anticipation_loan -->
+Algunos de estos preparadores dan asesoramiento tributario de mala calidad, y la mayoría de ellos son malas ofertas comparadas con los servicios gratuitos.
 
-If you are due a tax refund, you will get that refund more quickly if you have a bank account that accepts direct deposit.
-The U.S. Internal Revenue Service stopped issuing paper tax refund checks in 2025. <!-- Source: https://www.irs.gov/newsroom/irs-to-phase-out-paper-tax-refund-checks-starting-with-individual-taxpayerspreparers -->
+Si se le debe un reembolso de impuestos, obtendrá ese reembolso más rápidamente si tiene una cuenta bancaria que acepta depósito directo.
+El Servicio de Impuestos Internos de EE.UU. dejó de emitir cheques en papel de reembolso de impuestos en 2025. <!-- Source: https://www.irs.gov/newsroom/irs-to-phase-out-paper-tax-refund-checks-starting-with-individual-taxpayerspreparers -->
 
-> See the [Banking and Money Management](#banking-and-money-management) section of this guide for help in establishing a bank account.
+> Vea la sección de [Banca y Manejo de Dinero](#banking-and-money-management) de esta guía para ayuda al establecer una cuenta bancaria.
 
-The national Volunteer Income Tax Assistance (VITA) program allows low- and moderate-income people to get free help in preparing and filing their federal and state tax returns.
-Various organizations, including Cal Poly, Allan Hancock college, and [**AARP**](Directory.md#AARP-Tax-Aide), offer this program.
+El programa nacional de Asistencia Voluntaria de Impuestos sobre el Ingreso (VITA) permite a personas de ingresos bajos y moderados obtener ayuda gratuita para preparar y presentar sus declaraciones de impuestos federales y estatales.
+Varias organizaciones, incluyendo Cal Poly, Allan Hancock college y [**AARP**](Directory.md#AARP-Tax-Aide), ofrecen este programa.
 <!-- Note: United Way has dropped out of this program in 2025 https://unitedwayslo.org/family-financial-stability/taxes/ -->
-Use United Way’s [211](tel:+1-211) service to find a VITA location near you and make an appointment.
-The United Way also has [an online program](https://www.myfreetaxes.org/file-with-virtual-help/) with which you can upload your tax documents and get free help from tax preparation volunteers over the internet.
+Use el servicio [211](tel:+1-211) de United Way para encontrar una ubicación de VITA cerca de usted y hacer una cita.
+United Way también tiene [un programa en línea](https://www.myfreetaxes.org/file-with-virtual-help/) con el cual puede subir sus documentos de impuestos y obtener ayuda gratuita de voluntarios de preparación de impuestos por internet.
 
-There are also free options that allow you to file your federal income taxes yourself by using guided tax preparation software or by filling in online forms and filing them electronically.
-See [irs.gov/freefile](https://www.irs.gov/freefile) for details.
-<!-- Note: IRS “Direct File” is kaput as of tax year 2025 -->
+También hay opciones gratuitas que le permiten presentar sus impuestos federales sobre el ingreso usted mismo usando software guiado de preparación de impuestos o llenando formularios en línea y presentándolos electrónicamente.
+Vea [irs.gov/freefile](https://www.irs.gov/freefile) para detalles.
+<!-- Note: IRS "Direct File" is kaput as of tax year 2025 -->
 
-> See the [Internet Access / Email / Digital Access Assistance](#internet-and-email) section of this guide for ways to get access to a computer and the internet.
+> Vea la sección de [Acceso a Internet / Correo Electrónico / Asistencia de Acceso Digital](#internet-and-email) de esta guía para maneras de obtener acceso a una computadora e internet.
 
-Homeless people can use the address of a friend, relative, or trusted service provider as their filing address. <!-- SOURCE NEEDED -->
+Las personas sin hogar pueden usar la dirección de un amigo, pariente o proveedor de servicios de confianza como su dirección de presentación. <!-- SOURCE NEEDED -->
 
-> See the [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) section of this guide for more options for establishing a mailing address.
+> Vea la sección de [Recepción de Correo, Apartados Postales, Etc.](#mail-drops-post-office-boxes) de esta guía para más opciones para establecer una dirección postal.
 
 -----
 
