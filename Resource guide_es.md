@@ -326,87 +326,87 @@ No tiene que ser miembro del centro para personas mayores para refugiarse allí 
 
 ### <a id="overnight-shelter">Refugio Nocturno</a>
 
-If you are unsheltered and need a place to sleep tonight, these are some options:
+Si está sin refugio y necesita un lugar para dormir esta noche, estas son algunas opciones:
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a hundred overnight shelter beds. <!-- Source: https://capslo.org/wp-content/uploads/2023/05/CAPSLO-40-Prado-Goes-Green-May-2023.pdf -->
-Many are reserved for people who have previously registered with 40 Prado, but a limited number are available on a walk-in basis. <!-- SOURCE NEEDED (issue #51) -->
-To get a bed, first come on-site and complete the intake process. <!-- SOURCE NEEDED (issue #51) -->
-Thereafter, on any day when you need an overnight shelter bed, check in to secure a bed or to be placed on the waiting list. <!-- SOURCE NEEDED (issue #51) -->
-Priority is given to SLO county residents. <!-- SOURCE NEEDED (issue #51) -->
-They offer meals (breakfast, lunch, and dinner), showers, laundry, mail/phone services, an integrated medical clinic (primary and urgent care five days a week with an on-site pharmacy), recuperative care beds, and animal kennels. <!-- Source: https://capslo.org/40-prado/ -->
-To stay at the shelter, you must have a valid photo ID, you must not be a P.C. 290 registered sex offender, and you must participate in case management. <!-- SOURCE NEEDED (issue #51) -->
-You must also be able to care for yourself independently (bathing, feeding, dressing, etc.). <!-- SOURCE NEEDED (issue #51) -->
+El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene cien camas de refugio nocturno. <!-- Source: https://capslo.org/wp-content/uploads/2023/05/CAPSLO-40-Prado-Goes-Green-May-2023.pdf -->
+Muchas están reservadas para personas que se han registrado previamente con 40 Prado, pero un número limitado está disponible sin cita previa. <!-- SOURCE NEEDED (issue #51) -->
+Para obtener una cama, primero venga al sitio y complete el proceso de admisión. <!-- SOURCE NEEDED (issue #51) -->
+Después, cualquier día que necesite una cama de refugio nocturno, regístrese para asegurar una cama o para ser colocado en la lista de espera. <!-- SOURCE NEEDED (issue #51) -->
+Se da prioridad a los residentes del condado de SLO. <!-- SOURCE NEEDED (issue #51) -->
+Ofrecen comidas (desayuno, almuerzo y cena), duchas, lavandería, servicios de correo/teléfono, una clínica médica integrada (atención primaria y urgente cinco días a la semana con una farmacia en el lugar), camas de cuidado recuperativo y perreras para animales. <!-- Source: https://capslo.org/40-prado/ -->
+Para quedarse en el refugio, debe tener una identificación con foto válida, no debe ser un delincuente sexual registrado P.C. 290 y debe participar en administración de casos. <!-- SOURCE NEEDED (issue #51) -->
+También debe poder cuidarse independientemente (bañarse, alimentarse, vestirse, etc.). <!-- SOURCE NEEDED (issue #51) -->
 
-The 40 Prado center is the only walk-in, overnight homeless shelter in SLO County.
-The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) used to operate a shelter in the north county, but now only offers 90-day transitional housing there ([see below](#transitional-and-long-term-housing)) and an occasional warming shelter.
+El centro 40 Prado es el único refugio nocturno para personas sin hogar sin cita previa en el condado de SLO.
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) solía operar un refugio en el norte del condado, pero ahora solo ofrece vivienda de transición de 90 días allí ([vea abajo](#transitional-and-long-term-housing)) y un centro de calefacción ocasional.
 
-The [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) operates a set of shelters in Santa Maria and other places in Santa Barbara County. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-Call ahead during office hours to learn which shelter has room for you. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-They also have laundry facilities, hot meals, substance use treatment, and mental health services. <!-- SOURCE NEEDED -->
+[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) opera un conjunto de refugios en Santa Maria y otros lugares en el condado de Santa Barbara. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+Llame con anticipación durante el horario de oficina para saber qué refugio tiene espacio para usted. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+También tienen instalaciones de lavandería, comidas calientes, tratamiento de uso de sustancias y servicios de salud mental. <!-- SOURCE NEEDED -->
 
-If you are homeless because you are escaping dangerous circumstances of domestic violence or sexual assault, you can get safe, confidential, emergency shelter at safe houses operated by [**Lumina Alliance**](Directory.md#Lumina-Alliance). <!-- Source: https://luminaalliance.org/housing -->
-Call their crisis and information line to get access to this program. <!-- Source: https://luminaalliance.org/housing -->
-They will also help you with trained advocacy, accompaniment to medical/legal appointments, case management, and therapy for survivors and children. <!-- Source: https://luminaalliance.org/get-help-now#services -->
-They operate throughout SLO County, and are open to people of all genders, ages, and backgrounds. <!-- Source: https://luminaalliance.org/housing -->
+Si está sin hogar porque está escapando de circunstancias peligrosas de violencia doméstica o agresión sexual, puede obtener refugio de emergencia seguro y confidencial en casas seguras operadas por [**Lumina Alliance**](Directory.md#Lumina-Alliance). <!-- Source: https://luminaalliance.org/housing -->
+Llame a su línea de crisis e información para obtener acceso a este programa. <!-- Source: https://luminaalliance.org/housing -->
+También lo ayudarán con defensa capacitada, acompañamiento a citas médicas/legales, administración de casos y terapia para sobrevivientes y niños. <!-- Source: https://luminaalliance.org/get-help-now#services -->
+Operan en todo el condado de SLO y están abiertos a personas de todos los géneros, edades y antecedentes. <!-- Source: https://luminaalliance.org/housing -->
 
-If you are homeless and have a medically verified need for 24/7 temporary housing because you are seriously ill, recovering from surgery or injury or high-risk pregnancy, or something of that nature, you may qualify for the [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program). <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
-They will help you with immediate housing, supportive services and coordinated case management to ensure physical recovery, access to income sources, connection to services, and a more permanent housing alternative when you exit the program. <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
-You cannot apply for this program yourself, but you must get a referral from an agency like [**Adult Protective Services**](Directory.md#Adult-Protective-Services),<!-- Source: https://cfsslo.org/#mfh -->
+Si está sin hogar y tiene una necesidad médicamente verificada de vivienda temporal 24/7 porque está gravemente enfermo, recuperándose de una cirugía o lesión o embarazo de alto riesgo, o algo de esa naturaleza, puede calificar para el [**Medically Fragile Homeless Program**](Directory.md#Medically-Fragile-Homeless-Program). <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
+Lo ayudarán con vivienda inmediata, servicios de apoyo y administración de casos coordinada para asegurar la recuperación física, acceso a fuentes de ingresos, conexión a servicios y una alternativa de vivienda más permanente cuando salga del programa. <!-- Source: https://cfsslo.org/wp-content/uploads/2025/02/MFH-Program-FAQ_2025.pdf -->
+No puede solicitar este programa usted mismo, pero debe obtener una referencia de una agencia como [**Adult Protective Services**](Directory.md#Adult-Protective-Services),<!-- Source: https://cfsslo.org/#mfh -->
 [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <!-- SOURCE NEEDED -->
 [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program),<!-- Source: https://cfsslo.org/#mfh -->
 [**Center for Family Strengthening (CFS)**](Directory.md#CFS), <!-- SOURCE NEEDED -->
-or [**CalWORKs**](Directory.md#CalWORKs). <!-- SOURCE NEEDED -->
-If you are being treated by a hospital or other medical professionals, consider telling them that you are homeless and asking them if they can help you with this process.
+o [**CalWORKs**](Directory.md#CalWORKs). <!-- SOURCE NEEDED -->
+Si está siendo tratado por un hospital u otros profesionales médicos, considere decirles que está sin hogar y preguntarles si pueden ayudarlo con este proceso.
 
-If you need shelter because you have a medical condition that requires you to have some medical supervision, you may be able to get a referral to a rehabilitative care or skilled nursing or assistive living facility. <!-- Source: Amelia Grove’s “Aging and Levels of Care” presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
-You can get such a referral from your primary care physician. <!-- Source: Amelia Grove’s “Aging and Levels of Care” presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
-You may also be able to get some help from [**Adult Protective Services**](Directory.md#Adult-Protective-Services). <!-- Source: Amelia Grove’s “Aging and Levels of Care” presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
+Si necesita refugio porque tiene una condición médica que requiere que tenga alguna supervisión médica, es posible que pueda obtener una referencia a un centro de atención rehabilitativa, de enfermería especializada o de vida asistida. <!-- Source: Amelia Grove's "Aging and Levels of Care" presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
+Puede obtener tal referencia de su médico de atención primaria. <!-- Source: Amelia Grove's "Aging and Levels of Care" presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
+También es posible que pueda obtener ayuda de [**Adult Protective Services**](Directory.md#Adult-Protective-Services). <!-- Source: Amelia Grove's "Aging and Levels of Care" presentation at the Collaborative Outreach Meeting on 5 Nov. 2025 -->
 
 #### Una Nota Sobre los Servicios de Apoyo "En el Hogar"
-<!-- Note: not sure where this section belongs. I could see a case for it being in the “Medical/Health” section, or maybe in the section on services for particular groups (e.g. elderly/disabled/blind). People who are looking for this information seem unlikely to search for it by going to the the “Housing” section. -->
+<!-- Note: not sure where this section belongs. I could see a case for it being in the "Medical/Health" section, or maybe in the section on services for particular groups (e.g. elderly/disabled/blind). People who are looking for this information seem unlikely to search for it by going to the the "Housing" section. -->
 
-The [**In-Home Supportive Services (IHSS)**](Directory.md#In-Home-Supportive-Services) Program helps pay for services provided to senior, blind, or disabled people who have difficulty caring for themselves and cannot live at home safely without in-home care. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-Despite the “in-home” name, this program is potentially also available to people who shelter at homeless shelters or safe-parking sites.<!-- according to the long-term care ombudsman at the Collaborative Outreach Meeting on 5 Nov 2025 -->
-Among the services that this program can help pay for are meal preparation, laundry, grocery shopping, personal care services (such as bowel and bladder care, bathing, grooming and paramedical services, help getting dressed, help getting into and out of a wheelchair), and accompaniment to medical appointments. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+El programa [**In-Home Supportive Services (IHSS)**](Directory.md#In-Home-Supportive-Services) ayuda a pagar los servicios proporcionados a personas mayores, ciegas o discapacitadas que tienen dificultades para cuidarse y no pueden vivir en casa de manera segura sin atención en el hogar. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+A pesar del nombre "en el hogar", este programa también está potencialmente disponible para personas que se refugian en refugios para personas sin hogar o sitios de estacionamiento seguro.<!-- according to the long-term care ombudsman at the Collaborative Outreach Meeting on 5 Nov 2025 -->
+Entre los servicios que este programa puede ayudar a pagar están la preparación de comidas, lavandería, compras de alimentos, servicios de cuidado personal (como cuidado intestinal y de vejiga, baño, aseo y servicios paramédicos, ayuda para vestirse, ayuda para entrar y salir de una silla de ruedas) y acompañamiento a citas médicas. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 
-To qualify for IHSS, you must be disabled, blind, or age 65 or older. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-You must also be unable to live safely in your current home or shelter environment without assistance, and you must be financially needy. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-The process of applying for IHSS is difficult, so it is a good idea for you to get some help from a case manager or other social worker. <!-- according to the long-term care ombudsman at the Collaborative Outreach Meeting on 5 Nov 2025 -->
+Para calificar para IHSS, debe ser discapacitado, ciego o tener 65 años o más. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+También debe ser incapaz de vivir de manera segura en su hogar actual o entorno de refugio sin asistencia, y debe ser financieramente necesitado. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+El proceso de solicitar IHSS es difícil, por lo que es buena idea obtener ayuda de un administrador de casos u otro trabajador social. <!-- according to the long-term care ombudsman at the Collaborative Outreach Meeting on 5 Nov 2025 -->
 
 ### <a id="camping-parking-rv-parks">Campamentos Legales, Estacionamiento Seguro y Parques de Casas Rodantes</a>
 
-If you sleep in your vehicle, there are some free, legal “safe parking” spots available at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) where you can stay from 6pm to 7am. <!-- Source: https://capslo.org/safe-parking/ -->
-To register for one of these spots, first complete the referral form at the [CAPSLO website](https://capslo.org/safe-parking/). <!-- Source: https://capslo.org/safe-parking/ -->
-You will also have access to the various other services offered at 40 Prado (such as meals, showers, laundry, mail/phone services, an integrated medical clinic, and an animal kennel). <!-- Source: https://capslo.org/safe-parking/ -->
-Your vehicle must be registered and you must have proof of insurance. <!-- Source: https://capslo.org/safe-parking/ -->
-You must participate in case management. <!-- Source: https://capslo.org/safe-parking/ -->
-You must not be a P.C. 290 registered sex offender to use this service. <!-- SOURCE NEEDED (issue #51) -->
-SLO county residents get priority. <!-- Source: https://friendsof40prado.org/safe-parking-program-expanded/ -->
-Contact Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) with questions. <!-- Source: https://capslo.org/safe-parking/ -->
+Si duerme en su vehículo, hay algunos lugares gratuitos y legales de "estacionamiento seguro" disponibles en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) donde puede quedarse de 6pm a 7am. <!-- Source: https://capslo.org/safe-parking/ -->
+Para registrarse en uno de estos lugares, primero complete el formulario de referencia en el [sitio web de CAPSLO](https://capslo.org/safe-parking/). <!-- Source: https://capslo.org/safe-parking/ -->
+También tendrá acceso a los diversos otros servicios ofrecidos en 40 Prado (como comidas, duchas, lavandería, servicios de correo/teléfono, una clínica médica integrada y una perrera para animales). <!-- Source: https://capslo.org/safe-parking/ -->
+Su vehículo debe estar registrado y debe tener prueba de seguro. <!-- Source: https://capslo.org/safe-parking/ -->
+Debe participar en administración de casos. <!-- Source: https://capslo.org/safe-parking/ -->
+No debe ser un delincuente sexual registrado P.C. 290 para usar este servicio. <!-- SOURCE NEEDED (issue #51) -->
+Los residentes del condado de SLO tienen prioridad. <!-- Source: https://friendsof40prado.org/safe-parking-program-expanded/ -->
+Comuníquese con Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) si tiene preguntas. <!-- Source: https://capslo.org/safe-parking/ -->
 
-There are some free, legal “safe parking” spots available in the SLO city area through the [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
-To register for one of these spots, first complete the intake process at the 40 Prado offices any day from 8am to 2pm.
-You get a place to park overnight for 90 days, with a possible 30 day extension.
-You must move your vehicle away from the site during the day.
-You have access to water, trash, and restrooms, and there will be occasional security checks.
-No illegal drugs, alcohol, weapons, or fires are allowed.
-Your vehicle must fit into a standard parking space.
-You must not be a P.C. 290 registered sex offender to participate.
-SLO county residents get priority.
-You must participate in case management.
+Hay algunos lugares gratuitos y legales de "estacionamiento seguro" disponibles en el área de la ciudad de SLO a través del [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
+Para registrarse en uno de estos lugares, primero complete el proceso de admisión en las oficinas de 40 Prado cualquier día de 8am a 2pm.
+Obtiene un lugar para estacionar de noche durante 90 días, con una posible extensión de 30 días.
+Debe mover su vehículo lejos del sitio durante el día.
+Tiene acceso a agua, basura y baños, y habrá controles de seguridad ocasionales.
+No se permiten drogas ilegales, alcohol, armas o fogatas.
+Su vehículo debe caber en un espacio de estacionamiento estándar.
+No debe ser un delincuente sexual registrado P.C. 290 para participar.
+Los residentes del condado de SLO tienen prioridad.
+Debe participar en administración de casos.
 
-You can camp overnight legally at various [**SLO County Parks**](Directory.md#SLO-County-Parks), but for a fee (roughly $25–50 per night, plus a $10 reservation fee and sometimes also a per-vehicle fee). <!-- SOURCE NEEDED -->
-Some parks have both tent camping and RV hook-up sites. <!-- SOURCE NEEDED -->
-None have dump stations. <!-- SOURCE NEEDED -->
-All have restrooms, some also have coin-operated showers. <!-- SOURCE NEEDED -->
-Stays are limited to 15 consecutive days in any 30-day period during the summer, or a maximum of 30 days in any 60-day period during the winter, and to a maximum of 60 days in any 12-month period. <!-- Source: https://library.municode.com/ca/san_luis_obispo_county/codes/county_code?nodeId=TIT11PARE_CH11.04ALCOPAFAEXNALA_11.04.090CA -->
+Puede acampar de noche legalmente en varios [**SLO County Parks**](Directory.md#SLO-County-Parks), pero por una tarifa (aproximadamente $25–50 por noche, más una tarifa de reserva de $10 y a veces también una tarifa por vehículo). <!-- SOURCE NEEDED -->
+Algunos parques tienen sitios de campamento en tienda y sitios de conexión para RV. <!-- SOURCE NEEDED -->
+Ninguno tiene estaciones de descarga. <!-- SOURCE NEEDED -->
+Todos tienen baños, algunos también tienen duchas que funcionan con monedas. <!-- SOURCE NEEDED -->
+Las estadías están limitadas a 15 días consecutivos en cualquier período de 30 días durante el verano, o un máximo de 30 días en cualquier período de 60 días durante el invierno, y a un máximo de 60 días en cualquier período de 12 meses. <!-- Source: https://library.municode.com/ca/san_luis_obispo_county/codes/county_code?nodeId=TIT11PARE_CH11.04ALCOPAFAEXNALA_11.04.090CA -->
 
-There are several RV parks in SLO County, including short-term campsites (ranging from $52 to $104 per night plus reservation fee) and longer-term RV parks ($600–$750/month).
-These include:
+Hay varios parques de RV en el condado de SLO, incluyendo sitios de campamento a corto plazo (que van de $52 a $104 por noche más tarifa de reserva) y parques de RV a largo plazo ($600–$750/mes).
+Estos incluyen:
 
 - [**Bella Vista by the Sea**](Directory.md#Bella-Vista-by-the-Sea) (Cayucos)
 - [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes) (Grover Beach)
-- [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) (between SLO and Morro Bay)
+- [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground) (entre SLO y Morro Bay)
 - [**Flying Flags Avila Beach**](Directory.md#Flying-Flags-Avila-Beach)
 - [**Le Sage Riviera RV Park**](Directory.md#Le-Sage-Riviera-RV-Park) (Grover Beach)
 - [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area)
@@ -414,43 +414,43 @@ These include:
 - [**Santa Margarita KOA Holiday**](Directory.md#Santa-Margarita-KOA-Holiday)
 - [**Silver City Resort**](Directory.md#Silver-City-Resort) (Morro Bay)
 
-Some sites have RV size limits and other restrictions.
-See the Directory entries for specific information about rates, size limits, available hookups, and amenities at each location.
+Algunos sitios tienen límites de tamaño de RV y otras restricciones.
+Vea las entradas del Directorio para información específica sobre tarifas, límites de tamaño, conexiones disponibles y comodidades en cada ubicación.
 
-If you are an Elks Lodge member, [SLO Elks Lodge #322](https://rv.elks322.org) at <a href="#" class="map-link" data-lat="35.263006" data-lon="-120.671993" data-zoom="18" data-label="Elks Lodge #322">222 Elks Lane in SLO</a> also has several $30/night RV spots and a free dump station. <!-- Source: https://rv.elks322.org -->
-Contact them at [805-543-0322](tel:+1-805-543-0322) (M–F, 10am–4pm) or [RVcamping@elks322.org](mailto:RVcamping@elks322.org). <!-- Source: https://rv.elks322.org/contact-us/ -->
+Si es miembro de Elks Lodge, [SLO Elks Lodge #322](https://rv.elks322.org) en <a href="#" class="map-link" data-lat="35.263006" data-lon="-120.671993" data-zoom="18" data-label="Elks Lodge #322">222 Elks Lane en SLO</a> también tiene varios lugares de RV a $30/noche y una estación de descarga gratuita. <!-- Source: https://rv.elks322.org -->
+Comuníquese con ellos al [805-543-0322](tel:+1-805-543-0322) (L–V, 10am–4pm) o [RVcamping@elks322.org](mailto:RVcamping@elks322.org). <!-- Source: https://rv.elks322.org/contact-us/ -->
 
 ### <a id="transitional-and-long-term-housing">Vivienda de Transición y a Largo Plazo</a>
 
-This section discusses more long-term housing options including *transitional housing* (a temporary home while you search for more long-term housing) and *affordable housing* or *subsidized housing* (a long-term home).
+Esta sección discute opciones de vivienda a más largo plazo incluyendo *vivienda de transición* (un hogar temporal mientras busca vivienda a más largo plazo) y *vivienda asequible* o *vivienda subsidiada* (un hogar a largo plazo).
 
-The [**Coordinated Entry System (CES)**](Directory.md#CES) is SLO county’s system for matching people in need with transitional or long-term housing that is appropriate for them.
-If you want to get such housing, you should try to enter this system.
-This can be more effective than trying to contact the many individual transitional or long-term housing programs one at a time.
-To enter this system, contact one of the many participating agencies, such as [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter), or [**SLO County Health Department**](Directory.md#SLO-County-Health-Department). <!-- SOURCE NEEDED -->
+El [**Coordinated Entry System (CES)**](Directory.md#CES) es el sistema del condado de SLO para conectar a las personas necesitadas con vivienda de transición o a largo plazo que sea apropiada para ellos.
+Si desea obtener tal vivienda, debe intentar ingresar a este sistema.
+Esto puede ser más efectivo que intentar contactar a los muchos programas individuales de vivienda de transición o a largo plazo uno a la vez.
+Para ingresar a este sistema, comuníquese con una de las muchas agencias participantes, como [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) o [**SLO County Health Department**](Directory.md#SLO-County-Health-Department). <!-- SOURCE NEEDED -->
 
-A program called [**Housing Now**](Directory.md#Housing-Now) finds homes for the most vulnerable chronically homeless people from SLO County.
-You cannot apply directly to participate in this program, but if you enter the Coordinated Entry System (see above), that system may eventually place you in this program so that you can quickly get a home. <!-- SOURCE NEEDED -->
+Un programa llamado [**Housing Now**](Directory.md#Housing-Now) encuentra hogares para las personas crónicamente sin hogar más vulnerables del condado de SLO.
+No puede solicitar directamente participar en este programa, pero si ingresa al Coordinated Entry System (vea arriba), ese sistema eventualmente puede colocarlo en este programa para que pueda obtener rápidamente un hogar. <!-- SOURCE NEEDED -->
 
-The [**Behavioral Health Bridge Housing (BHBH)**](Directory.md#BHBH) has some quality, affordable short-term (less than 90 days) and medium term (90 days to two years) housing for people in SLO county who have severe behavioral health issues who are homeless or at risk of homelessness. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
-For information on the application process, how to demonstrate eligibility, and bed availability call Mark Lamore, Director of Homeless Services at [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA), at [805-540-6500](tel:+1-805-540-6500). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
+El [**Behavioral Health Bridge Housing (BHBH)**](Directory.md#BHBH) tiene vivienda de calidad y asequible a corto plazo (menos de 90 días) y mediano plazo (90 días a dos años) para personas en el condado de SLO que tienen problemas graves de salud del comportamiento y que están sin hogar o en riesgo de quedarse sin hogar. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
+Para información sobre el proceso de solicitud, cómo demostrar elegibilidad y disponibilidad de camas, llame a Mark Lamore, Director de Servicios para Personas sin Hogar en [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA), al [805-540-6500](tel:+1-805-540-6500). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
 
-[**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) operates a [housing assistance program](https://5chc.org/programs/housing-assistance) that offers case management and financial assistance for rent, deposit, and immediate needs, and housing assistance through various funding grants. <!-- Source: https://5chc.org/programs/housing-assistance -->
-This is available both to currently homeless people and to people in danger of becoming homeless. <!-- Source: https://5chc.org/programs/housing-assistance -->
-Contact 5CHC to arrange a confidential coordinated entry interview. <!-- Source: https://5chc.org/programs/housing-assistance -->
+[**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) opera un [programa de asistencia de vivienda](https://5chc.org/programs/housing-assistance) que ofrece administración de casos y asistencia financiera para renta, depósito y necesidades inmediatas, y asistencia de vivienda a través de varios subsidios de financiamiento. <!-- Source: https://5chc.org/programs/housing-assistance -->
+Esto está disponible tanto para personas actualmente sin hogar como para personas en peligro de quedarse sin hogar. <!-- Source: https://5chc.org/programs/housing-assistance -->
+Comuníquese con 5CHC para programar una entrevista confidencial de entrada coordinada. <!-- Source: https://5chc.org/programs/housing-assistance -->
 
-[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) operates transitional (90-day) shelters in Atascadero and Paso Robles that serve people experiencing homelessness. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
-People who live in these shelters also get individualized case management services to help them find employment and long-term housing. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
-There is often a long waiting list for shelter beds. <!-- SOURCE NEEDED -->
-They will not admit P.C. 290 registered sex offenders. <!-- SOURCE NEEDED -->
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opera refugios de transición (90 días) en Atascadero y Paso Robles que sirven a personas que experimentan falta de vivienda. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
+Las personas que viven en estos refugios también reciben servicios individualizados de administración de casos para ayudarles a encontrar empleo y vivienda a largo plazo. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
+A menudo hay una larga lista de espera para camas de refugio. <!-- SOURCE NEEDED -->
+No admitirán a delincuentes sexuales registrados P.C. 290. <!-- SOURCE NEEDED -->
 
-The [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) can pay a one-time security deposit and/or last month’s rent and/or utility deposit for families who are homeless or who received a “Pay Rent or Quit” notice on their current rental home. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
-To qualify you must meet CalWORKs eligibility requirements and have less than $100 in liquid assets. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+El [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) puede pagar un depósito de seguridad único y/o el último mes de renta y/o depósito de servicios públicos para familias sin hogar o que recibieron un aviso para pagar la renta o desocupar en su hogar de alquiler actual. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
+Para calificar debe cumplir con los requisitos de elegibilidad de CalWORKs y tener menos de $100 en activos líquidos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 
-[**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) provides financial assistance for housing deposits and rent to families that are experiencing homelessness or are at risk of homelessness in SLO County.<!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-They also offer case management and life skills workshops (budgeting, credit repair, communication), bus passes, gas cards, and paperwork assistance. <!-- SOURCE NEEDED (issue #36) -->
+El [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) de [**Family Care Network**](Directory.md#Family-Care-Network) proporciona asistencia financiera para depósitos de vivienda y renta a familias que están experimentando falta de vivienda o están en riesgo de quedarse sin hogar en el condado de SLO.<!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
+También ofrecen administración de casos y talleres de habilidades para la vida (presupuesto, reparación de crédito, comunicación), pases de autobús, tarjetas de gasolina y asistencia con documentos. <!-- SOURCE NEEDED (issue #36) -->
 
-[**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (a.k.a. “My Home for Hope”) and [**Cabins for Change**](Directory.md#Cabins-for-Change), both in Grover Beach, operate many individual “tiny homes” that serve as transitional housing. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
+[**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (también conocido como "Mi Hogar para la Esperanza") y [**Cabins for Change**](Directory.md#Cabins-for-Change), ambos en Grover Beach, operan muchas "casas pequeñas" individuales que sirven como vivienda de transición. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 The cabins come with 24/7 support, case management, connections to food services and recovery, and house stabilization guidance. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 They have on-site showers. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 They accept vaccinated, well-behaved dogs. <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
