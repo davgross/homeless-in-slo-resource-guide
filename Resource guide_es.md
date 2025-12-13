@@ -1467,7 +1467,7 @@ Pídale una solicitud en persona o contáctelos al [844-827-5047](tel:+1-844-827
 
 [**Access Central Coast**](Directory.md#Access-Central-Coast) le ayuda a encontrar y pagar dispositivos de asistencia como sillas de ruedas, bastones, andadores, scooters, teléfonos modificados y dispositivos generadores de voz. <!-- Source: https://accesscentralcoast.org/our-services/ -->
 
-[**Alianza para Acceso Farmacéutico**](Directory.md#APA) le ayuda a obtener suministros para diabéticos de bajo costo (tiras y medidores de prueba de glucosa, jeringas de insulina, etc.). <!-- SOURCE NEEDED -->
+[**Alianza para Acceso Farmacéutico**](Directory.md#APA) le ayuda a obtener suministros para diabéticos de bajo costo (tiras y medidores de prueba de glucosa, jeringas de insulina, etc.). <!-- Source: https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/alliance-for-pharmaceutical-access -->
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center), <!-- Source: https://atascaderoseniorcenter.org/ -->
 [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), <!-- Source: https://morrobayseniors.org/resources/ -->
@@ -1497,8 +1497,6 @@ También le ayudan a acceder a una biblioteca de préstamo sin costo de disposit
 
 [**PathPoint**](Directory.md#PathPoint) tiene una biblioteca de préstamo de dispositivos de tecnología de asistencia para personas con discapacidades del desarrollo. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
-[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) ayuda a personas sin seguro a obtener suministros de monitoreo y tratamiento de diabetes de bajo costo. <!-- SOURCE NEEDED (issue #74) -->
-
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) puede prestarle tecnología de asistencia como andadores y sillas de ruedas. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->
 Llámelos o visite su oficina para detalles. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/contact/ -->
 
@@ -1515,7 +1513,7 @@ Para encontrar una farmacia de Medi-Cal Rx, visite [medi-calrx.dhcs.ca.gov: “F
 
 El [**Healthcare for the Homeless Program**](Directory.md#HCHP) (Programa de Atención Médica para Personas sin Hogar) dispensa algunos medicamentos directamente, sin que tenga que visitar una farmacia. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
-[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) ayuda a personas que no tienen seguro (o cuyo seguro no cubre recetas) a obtener medicamentos con receta gratis o de bajo costo. <!-- SOURCE NEEDED (issue #74) -->
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) ayuda a sus pacientes a acceder a medicamentos recetados gratuitos o con descuento a través de referencias y asociaciones, incluida la [**Alianza para Acceso Farmacéutico**](Directory.md#APA), que opera en el sitio.
 
 Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener medicamentos de venta libre y algunos medicamentos con receta (muchos sin costo) de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/ -->
 

@@ -1467,7 +1467,7 @@ Ask them in person for an application or contact them at [844-827-5047](tel:+1-8
 
 [**Access Central Coast**](Directory.md#Access-Central-Coast) helps you find and afford assistive devices like wheelchairs, canes, walkers, scooters, modified telephones, and speech-generating devices. <!-- Source: https://accesscentralcoast.org/our-services/ -->
 
-[**Alliance for Pharmaceutical Access**](Directory.md#APA) helps you get low-cost diabetic supplies (glucose test strips and meters, insulin syringes, etc.). <!-- SOURCE NEEDED -->
+[**Alliance for Pharmaceutical Access**](Directory.md#APA) helps you get low-cost diabetic supplies (glucose test strips and meters, insulin syringes, etc.). <!-- Source: https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/alliance-for-pharmaceutical-access -->
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center), <!-- Source: https://atascaderoseniorcenter.org/ -->
 [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), <!-- Source: https://morrobayseniors.org/resources/ -->
@@ -1497,8 +1497,6 @@ They also help you access a no-cost lending library of assistive technology devi
 
 [**PathPoint**](Directory.md#PathPoint) has a lending library of assistive technology devices for people with developmental disabilities. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps uninsured people get low-cost diabetes monitoring and treatment supplies. <!-- SOURCE NEEDED (issue #74) -->
-
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) can loan you assistive technology like walkers and wheelchairs. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->
 Call them or visit their office for details. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/contact/ -->
 
@@ -1515,7 +1513,9 @@ To find a Medi-Cal Rx pharmacy, visit [medi-calrx.dhcs.ca.gov: “Find a Pharmac
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some medications directly, without you having to visit a pharmacy. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps people who are uninsured (or whose insurance does not cover prescriptions) get free or low-cost prescription medications. <!-- SOURCE NEEDED (issue #74) -->
+helps people who are uninsured (or whose insurance does not cover prescriptions) get free or low-cost prescription medications. <!-- SOURCE NEEDED (issue #74) -->
+
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps its patients access free or discounted prescription medications through referrals and partnerships, including with the [**Alliance for Pharmaceutical Access**](Directory.md#APA) which operates on-site
 
 [**Cuesta College**](Directory.md#Cuesta-College) students can get over-the-counter and some prescription medicines (many free of charge) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/ -->
 
