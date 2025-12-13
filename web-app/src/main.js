@@ -245,17 +245,17 @@ function initTOCButton() {
 
     // Update aria-label for better accessibility
     if (isInView) {
-      tocBtn.setAttribute('aria-label', 'Table of contents (currently visible)');
+      tocBtn.setAttribute('aria-label', 'Index (currently visible)');
     } else if (isAbove) {
-      tocBtn.setAttribute('aria-label', 'Jump up to table of contents');
+      tocBtn.setAttribute('aria-label', 'Jump up to index');
     } else if (isBelow) {
-      tocBtn.setAttribute('aria-label', 'Jump down to table of contents');
+      tocBtn.setAttribute('aria-label', 'Jump down to index');
     } else {
-      tocBtn.setAttribute('aria-label', 'Jump to table of contents');
+      tocBtn.setAttribute('aria-label', 'Jump to index');
     }
   }
 
-  // Click handler - scroll to Table of Contents
+  // Click handler - scroll to Index
   tocBtn.addEventListener('click', () => {
     // Find the TOC heading in the resources section
     const tocHeading = document.querySelector('#resources-section a[id="table-of-contents"]');
@@ -454,7 +454,7 @@ function renderResources() {
   transformTOCToLozenges(section);
 }
 
-// Transform Table of Contents into icon lozenges
+// Transform Index into icon lozenges
 function transformTOCToLozenges(container) {
   // Find the TOC section
   const tocAnchor = container.querySelector('a[id="table-of-contents"]');
@@ -532,7 +532,7 @@ function transformTOCToLozenges(container) {
   const lozengeGrid = document.createElement('div');
   lozengeGrid.className = 'toc-lozenge-grid';
   lozengeGrid.setAttribute('role', 'navigation');
-  lozengeGrid.setAttribute('aria-label', 'Table of Contents');
+  lozengeGrid.setAttribute('aria-label', 'Index');
 
   // Create lozenge for each section
   sections.forEach(section => {

@@ -115,7 +115,7 @@ This audit re-evaluates the web app against WCAG 2.1 Level AA guidelines, follow
 
 **Implementation:**
 - Main navigation has `aria-label="Main navigation"`
-- TOC lozenge grid has `role="navigation" aria-label="Table of Contents"`
+- Index lozenge grid has `role="navigation" aria-label="Index"`
 
 **Code Reference:** `index.html:25`, `main.js:475-476`
 
@@ -198,7 +198,7 @@ Since the October audit, several new features have been added. Here's their acce
 **Status:** Well implemented
 
 **Accessibility Features:**
-- Grid has `role="navigation"` and `aria-label="Table of Contents"`
+- Grid has `role="navigation"` and `aria-label="Index"`
 - Each lozenge is a proper link with `href`
 - Icons have `aria-hidden="true"` (decorative)
 - Text labels are clear and descriptive

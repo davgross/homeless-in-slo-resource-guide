@@ -12,8 +12,8 @@ There are also a few map pages that show the locations of little free pantries, 
 
 The user starts in the **Resources** section.
 
-It has a Table of Contents (ToC).
-ToC links lead to **Resource** sections with explanatory content.
+It has an Index.
+Index links lead to **Resource** sections with explanatory content.
 Resource descriptions contain links to **Directory** entries that open in a visually-distinctive **Directory** modal.
 
 ## User Experience Priorities

@@ -62,11 +62,11 @@ const strings = {
       loadContent: 'Unable to load content. Please refresh the page.'
     },
 
-    // Table of Contents navigation
+    // Index navigation
     toc: {
       button: {
-        ariaLabel: 'Jump to table of contents',
-        title: 'Table of Contents'
+        ariaLabel: 'Jump to index',
+        title: 'Index'
       }
     },
 
@@ -312,11 +312,11 @@ const strings = {
       loadContent: 'No se puede cargar el contenido. Por favor, recargue la página.'
     },
 
-    // Table of Contents navigation
+    // Index navigation
     toc: {
       button: {
-        ariaLabel: 'Ir a la tabla de contenido',
-        title: 'Tabla de contenido'
+        ariaLabel: 'Ir al índice',
+        title: 'Índice'
       }
     },
 

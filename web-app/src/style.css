@@ -1421,7 +1421,7 @@ tbody tr:hover {
   transform: scale(0.95);
 }
 
-/* Table of Contents navigation button */
+/* Index navigation button */
 #toc-btn {
   position: fixed;
   top: 115px; /* Fallback value; dynamically adjusted by JavaScript based on header height */
@@ -2178,7 +2178,7 @@ textarea[aria-invalid="true"]:focus {
 }
 
 /* ===================================
-   Table of Contents Icon Lozenges
+   Index Icon Lozenges
    =================================== */
 
 /* Wrapper for entire TOC area with distinct background */
