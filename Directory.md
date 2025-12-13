@@ -546,7 +546,6 @@
       - [800-952-5544](tel:+1-800-952-5544) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
       - [916-324-1313](tel:+1-916-324-1313) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
       - [916-558-5673](tel:+1-916-558-5673) (TTY) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
-      - Source: [dor.ca.gov](https://www.dor.ca.gov/Home/ContactUs)
 - **How to access:** No walk-ins. Call them to schedule an Orientation, or complete a form on their website.
 - Notes:
    - Can refer you to the “Supported Employment” program
