@@ -1033,7 +1033,7 @@
    - [855-240-2530](tel:+1-855-240-2530) (Medi-Cal verification and financial assistance)
 - **Correo electrónico:** [info@cchh08.com](mailto:info@cchh08.com) <!-- Source: https://centralcoasthomehealth.com/index.php/contact-us/ -->
 - **Horario:** 24/7 (Monday–Sunday)
-- Notas: Accepts Medicare; call [855-240-2530](tel:+1-855-240-2530) to verify Medi-Cal acceptance and discuss financial assistance options
+- Notas: Acepta Medicare; llame al [855-240-2530](tel:+1-855-240-2530) para verificar la aceptación de Medi-Cal y discutir opciones de asistencia financiera
 
 ## <a id="CCPAW">Central Coast Partnership for Animal Welfare</a>
 
@@ -1047,8 +1047,8 @@
    - Grover Beach: M–F, 2–3:30pm
    - Oceano: W 1–2pm
 - **Cómo obtener el servicio:**
-   - Para distribuciones de comida para mascotas, come to locations during operating hours, or call them for delivery options
-   - Para atención veterinaria de emergencia, call, then a case manager conducts interview for Emergency Vet Care Program qualification and vet referrals
+   - Para distribuciones de comida para mascotas, venga a las ubicaciones durante el horario de operación, o llámelos para opciones de entrega
+   - Para atención veterinaria de emergencia, llame, luego un administrador de casos realiza una entrevista para la calificación del Emergency Vet Care Program y referencias veterinarias
 
 ## <a id="Central-Coast-Senior-Center">Central Coast Senior Center (Oceano)</a>
 
@@ -1125,7 +1125,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.275653" data-lon="-120.644484" data-zoom="17" data-label="Child Development Resource Center">1720 Bishop St., SLO</a> <!-- Source: https://www.childrensresource.org/ -->
 - **Teléfono:** [805-544-0801](tel:+1-805-544-0801) <!-- Source: https://www.childrensresource.org/ -->
 - **Correo electrónico:** [info@slocdc.org](mailto:info@slocdc.org)
-- **Cómo obtener el servicio:** Complete [an application](https://www.childrensresource.org/regristration) or get a referral from child welfare services or from a legal, medical, social services, or refugio de emergencia provider. Tuition is on a sliding scale based on income. Financial aid is available.
+- **Cómo obtener el servicio:** Complete [una solicitud](https://www.childrensresource.org/regristration) u obtenga una referencia de servicios de bienestar infantil o de un proveedor legal, médico, de servicios sociales, o de refugio de emergencia. La matrícula se basa en una escala móvil según los ingresos. Hay ayuda financiera disponible.
 <!-- Nota: Hours of operation not publicly listed (as of October 2025); contact directly for hours -->
 
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
@@ -1433,8 +1433,8 @@
 | <a href="#" class="map-link" data-lat="35.489540" data-lon="-120.668170" data-zoom="17" data-label="Dignity Health Urgent Care">5920 W. Mall, Atascadero</a> | [805-461-2131](tel:+1-805-461-2131) |
 | <a href="#" class="map-link" data-lat="35.132062" data-lon="-120.606526" data-zoom="17" data-label="Dignity Health Urgent Care">877 Oak Park Blvd, Pismo Beach</a> | [805-474-8450](tel:+1-805-474-8450) |
 
-- **Horario:** L–V 8am–6pm, S8am–4pm, D cerrado <!-- Source: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
-- Notas: Accepts Medicare and Medi-Cal as well as several private insurers; se aceptan visitas sin cita, no appointment necessary; lab and X-ray services on site <!-- Source: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
+- **Horario:** L–V 8am–6pm, S 8am–4pm, D cerrado <!-- Source: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
+- Notas: Acepta Medicare y Medi-Cal así como varias aseguradoras privadas; se aceptan visitas sin cita, no es necesaria cita; servicios de laboratorio y rayos X en el lugar <!-- Source: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
 
 ## <a id="Disability-Rights-California">Disability Rights California</a>
 
@@ -1946,7 +1946,7 @@
    - Atascadero: [805-461-6110](tel:+1-805-461-6110) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
    - Arroyo Grande: [805-474-2103](tel:+1-805-474-2103) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 - **Horario:** L–V 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-- **Cómo obtener el servicio:** By phone, or by completing an [online application form](https://www.slocounty.ca.gov/Departments/Social-Services/Forms-Documents/Adult-Services/IHSS-Forms/Online-IHSS-Application-Form.aspx),<!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program --> or by visiting any [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) office (no appointment necessary) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/forms-documents/adult-services/apply-for-ihss/4-ways-to-apply -->
+- **Cómo obtener el servicio:** By phone, or by completing an [online application form](https://www.slocounty.ca.gov/Departments/Social-Services/Forms-Documents/Adult-Services/IHSS-Forms/Online-IHSS-Application-Form.aspx),<!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program --> or by visiting any [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) office (no es necesaria cita) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/forms-documents/adult-services/apply-for-ihss/4-ways-to-apply -->
 
 ## <a id="Jewish-Family-Services">Jewish Family Services</a>
 
@@ -2614,7 +2614,7 @@
 
 Nota: Pequeñas Despensas Gratuitas come and go.
 Sometimes they are neglected, damaged, or removed.
-If you see one listed aquí that is no longer in service, please use the feedback button to tell VivaSLO about it.
+Si ve uno listado aquí que ya no está en servicio, por favor use el botón de comentarios para informar a VivaSLO al respecto.
 
 - **Sitio web:** [littlefreepantry.org](https://www.littlefreepantry.org/)
 - **Ubicaciónes:**
@@ -2975,11 +2975,11 @@ If you see one listed aquí that is no longer in service, please use the feedbac
 - **Teléfono:** [805-549-1222](tel:+1-805-549-1222) <!-- Source: https://ae.slcusd.org/ -->
 - **Correo electrónico:** [adultschool@slcusd.org](mailto:adultschool@slcusd.org)
 - **Cómo obtener el servicio:**
-   - Register for classes online at [slcusd.asapconnected.com](https://slcusd.asapconnected.com/)
-   - Or, come to the office during business hours
-   - Or, call during business hours
+   - Regístrese para clases en línea en [slcusd.asapconnected.com](https://slcusd.asapconnected.com/)
+   - O, venga a la oficina durante el horario de oficina
+   - O, llame durante el horario de oficina
 - Nota:
-   - Alberga“San Luis Obispo Family Resource Center”
+   - Alberga "San Luis Obispo Family Resource Center"
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
@@ -3389,7 +3389,7 @@ If you see one listed aquí that is no longer in service, please use the feedbac
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.282192" data-lon="-120.660230" data-zoom="17" data-label="SLO County Small Claims Advisor">County Government Center Room 223, SLO</a>
 - **Teléfono:** [805-781-5856](tel:+1-805-781-5856)
 - **Horario:** L–V 9am–12pm
-- **Cómo obtener el servicio:** no appointment necessary
+- **Cómo obtener el servicio:** no es necesaria cita
 -->
 
 ## <a id="SLO-County-YMCA">SLO County YMCA</a>
@@ -3784,9 +3784,9 @@ If you see one listed aquí that is no longer in service, please use the feedbac
    - We Care Foodshare food pantry: W 3–4:30pm <!-- Source: https://uuslo.org/care-for-our-neighbors#wcf -->
    - Refugee and Immigrant Services Education: first & third Sunday each month, 12:30–2:30pm <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
 - **Cómo obtener el servicio:**
-   - We Care Foodshare food pantry: arrive during hours of operation <!-- Source: https://uuslo.org/care-for-our-neighbors -->
+   - We Care Foodshare food pantry: llegue durante el horario de operación <!-- Source: https://uuslo.org/care-for-our-neighbors -->
    - Minister’s Discretionary Fund: email with a specific request <!-- Source: https://uuslo.org/care-for-our-neighbors -->
-   - Refugee and Immigrant Services Education: arrive during hours of operation (no appointment necessary) <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
+   - Refugee and Immigrant Services Education: llegue durante el horario de operación (no es necesaria cita) <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
 - Notas:
    - opera el "Minister’s Discretionary Fund,” “Refugee and Immigrant Services Education,” and “We Care Foodshare” <!-- Source: https://uuslo.org/care-for-our-neighbors -->
    - alberga [**Shower the People**](#Shower-the-People) on Martes y los jueves <!-- Source: https://uuslo.org/care-for-our-neighbors -->
@@ -3836,15 +3836,15 @@ There are several urgent care options, including:
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.464970" data-lon="-120.648491" data-zoom="17" data-label="Urgent Care of Atascadero">9700 El Camino Real #100, Atascadero</a> <!-- Source: https://www.facebook.com/healthylife56/ -->
 - **Teléfono:** [805-466-1330](tel:+1-805-466-1330) <!-- Source: https://www.facebook.com/healthylife56/ -->
 - **Horario:** M–Sa 7am–6:30pm, Su 8am–3:30pm <!-- Source: https://www.facebook.com/healthylife56/ -->
-- **Cómo obtener el servicio:** Walk-ins accepted until 30 minutes before closing
-- Notas: Accepts Medicare and Medi-Cal; most insurances accepted — call to verify coverage
+- **Cómo obtener el servicio:** Se aceptan visitas sin cita hasta 30 minutos antes del cierre
+- Notas: Acepta Medicare y Medi-Cal; most insurances accepted — call to verify coverage
 
 ## <a id="Urgent-Care-of-Morro-Bay">Urgent Care of Morro Bay</a>
 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.367708" data-lon="-120.842253" data-zoom="17" data-label="Urgent Care of Morro Bay">783 Quintana Rd., Morro Bay</a> <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Morro-Bay-100064337281602/ -->
 - **Teléfono:** [805-771-0108](tel:+1-805-771-0108) <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Morro-Bay-100064337281602/ -->
 - **Horario:** M–Sa 7am–6:30pm, Su 8am–3:30pm <!-- Source: https://www.facebook.com/p/Urgent-Care-of-Morro-Bay-100064337281602/ -->
-- Notas: Accepts Medicare and Medi-Cal
+- Notas: Acepta Medicare y Medi-Cal
 
 ## <a id="Urgent-Care-Pismo-Beach">Urgent Care Pismo Beach</a>
 
