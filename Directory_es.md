@@ -3393,7 +3393,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="SLO-County-YMCA">SLO County YMCA</a>
 
 - **Sitio web:** [ciymca.org/locations/san-luis-obispo-county-ymca](https://www.ciymca.org/locations/san-luis-obispo-county-ymca)
-   - [Open Doors Scholarship application](https://www.ciymca.org/open-doors-scholarship-application) for people with low incomes
+   - [Open Doors Scholarship application](https://www.ciymca.org/open-doors-scholarship-application) para personas con bajos ingresos
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.266421" data-lon="-120.643242" data-zoom="17" data-label="SLO County YMCA">1020 Southwood Dr., SLO</a> <!-- Source: https://www.ciymca.org/locations/san-luis-obispo-county-ymca -->
 - **Teléfono:** [805-543-8235](tel:+1-805-543-8235) <!-- Source: https://www.ciymca.org/locations/san-luis-obispo-county-ymca -->
 - **Correo electrónico:** [slo.info@ciymca.org](mailto:slo.info@ciymca.org)
@@ -3405,8 +3405,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Court Self-Help Services">1050 Monterey St., Room 220, SLO</a>
 - **Teléfono:** [805-706-3617](tel:+1-805-706-3617) <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 - **Horario:** L–V 8:30am–4:30pm <!-- Source: https://www.slo.courts.ca.gov/self-help -->
-- **Cómo obtener el servicio:** Phone, or make an appointment at [calendly.com/self-help-center](https://calendly.com/self-help-center/) <!-- Source: https://www.slo.courts.ca.gov/self-help -->
-- Notas: Includes “Family Law Facilitator” and “Self-Help Center”
+- **Cómo obtener el servicio:** Por teléfono, o haga una cita en [calendly.com/self-help-center](https://calendly.com/self-help-center/) <!-- Source: https://www.slo.courts.ca.gov/self-help -->
+- Notas: Incluye "Family Law Facilitator" y "Self-Help Center"
 
 ## <a id="SLO-Credit-Union">SLO Credit Union</a>
 
@@ -3445,8 +3445,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-441-6589](tel:+1-805-441-6589) <!-- Source: https://capslo.org/slo-hub/ -->
 - **Correo electrónico:** [sreyes@capslo.org](mailto:sreyes@capslo.org) <!-- Source: https://capslo.org/slo-hub/ -->
 - **Horario:** L–V 9am–5pm
-- **Cómo obtener el servicio:** By appointment only
-- Notas: a collaboration between [**CAPSLO**](#CAPSLO) and [**Restorative Partners**](#Restorative-Partners) <!-- Source: https://capslo.org/slo-hub/ -->
+- **Cómo obtener el servicio:** Solo con cita previa
+- Notas: una colaboración entre [**CAPSLO**](#CAPSLO) y [**Restorative Partners**](#Restorative-Partners) <!-- Source: https://capslo.org/slo-hub/ -->
 
 ## <a id="SLO-Legal-Assistance-Foundation">SLO Legal Assistance Foundation (SLOLAF)</a>
 
@@ -3472,7 +3472,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.281851" data-lon="-120.661598" data-zoom="17" data-label="SLO Public Defenders">991 Osos Street #A, SLO</a> <!-- Source: https://slodefend.com/contact-us/ -->
 - **Teléfono:** [805-541-5715](tel:+1-805-541-5715) <!-- Source: https://slodefend.com/contact-us/ -->
 - **Horario:** L–J 8:30am–mediodía & 1pm–5pm; V 8:30am–mediodía & 1pm–4pm <!-- Source: https://slodefend.com/contact-us/ -->
-- **Cómo obtener el servicio:** Appear at first court hearing and ask judge to appoint attorney; meetings solo con cita previa
+- **Cómo obtener el servicio:** Comparezca en la primera audiencia del tribunal y pida al juez que designe un abogado; reuniones solo con cita previa
 
 ## <a id="SLO-RTA">SLO Regional Transit Authority</a>
 
@@ -3480,11 +3480,11 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.256974" data-lon="-120.672616" data-zoom="17" data-label="SLO Regional Transit Authority">253 Elks Lane, SLO</a> (offices) <!-- Source: https://www.slorta.org/ -->
 - **Teléfono:** [805-781-4472](tel:+1-805-781-4472)
    - Info/Dispatch: [805-541-2228](tel:+1-805-541-2228) <!-- Source: https://www.slorta.org/ -->
-   - Access program (reduced fares for people with low incomes): [805-541-8797](tel:+1-805-541-8797)
+   - Programa de acceso (tarifas reducidas para personas con bajos ingresos): [805-541-8797](tel:+1-805-541-8797)
    - Runabout Paratransit: [805-781-4833](tel:+1-805-781-4833)
 - **Correo electrónico:** [info@slorta.org](mailto:info@slorta.org) <!-- Source: https://www.slorta.org/ -->
-- Hours (office): L–Ju8am–4pm; Friday solo con cita previa <!-- Source: https://www.slorta.org/about-rta/contact/ -->
-- Notas: Also operates “Runabout Paratransit,” [**Senior Go! Shuttle**](#Senior-Go), and “Dial-A-Ride”
+- Horario (oficina): L–Ju 8am–4pm; Friday solo con cita previa <!-- Source: https://www.slorta.org/about-rta/contact/ -->
+- Notas: También opera "Runabout Paratransit," [**Senior Go! Shuttle**](#Senior-Go), y "Dial-A-Ride"
 
 ## <a id="SLO-Senior-Center">SLO Senior Center</a>
 
@@ -3493,9 +3493,9 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.278951" data-lon="-120.657079" data-zoom="17" data-label="SLO Senior Center">1445 Santa Rosa St., SLO</a> <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
 - **Teléfono:** [805-781-7306](tel:+1-805-781-7306) <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
 - **Horario:** L–V 9am–4pm <!-- Source: https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs -->
-- Membresía: Open to SLO city residents 55+; includes monthly newsletter, center access, free coffee
+- Membresía: Abierta a residentes de la ciudad de SLO de 55+; incluye boletín mensual, acceso al centro, café gratis
 - Notas:
-   - Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
+   - Parte de [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
    - Alberga [**HiCAP**](#HiCAP) (los jueves mediodía–3:30pm con cita previa)
 
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
@@ -3519,7 +3519,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-706-3600](tel:+1-805-706-3600) (Civil & Family Law Branch and Criminal Branch)
 - **Horario:**
    - Teléfono: L–V 8:30am–mediodía
-   - Counter: L–J 8:30am–mediodía (Juvenile Justice, L 8am only; Paso Robles branch Mi/V 8:30am–mediodía)
+   - Mostrador: L–J 8:30am–mediodía (Juvenile Justice, L 8am solamente; sucursal de Paso Robles Mi/V 8:30am–mediodía)
 
 ## <a id="SLO-Thrift">SLO Thrift</a>
 
@@ -3527,7 +3527,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.275984" data-lon="-120.668482" data-zoom="17" data-label="SLO Thrift">445 Higuera St., SLO</a> <!-- Source: https://slothrift.com/ -->
 - **Teléfono:** [805-439-4434](tel:+1-805-439-4434) <!-- Source: https://slothrift.com/ -->
 - **Horario:** L–S 9am–5pm <!-- Source: https://slothrift.com/ -->
-- Nota: Aún no está abierto desde November 2025 (being remodeled)
+- Nota: Aún no está abierto desde November 2025 (en remodelación)
 
 ## <a id="SLO-Transit">SLO Transit</a>
 
