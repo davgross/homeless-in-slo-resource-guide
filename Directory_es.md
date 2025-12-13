@@ -2539,10 +2539,10 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.608089" data-lon="-120.655487" data-zoom="17" data-label="Paso Robles Senior Center">270 Scott St., Paso Robles</a> <!-- Source: https://www.prcity.com/293/Senior-Services -->
 - **Teléfono:** [805-237-3880](tel:+1-805-237-3880)<!-- Source: https://www.prcity.com/293/Senior-Services -->
 - **Horario:** L–V 8am–5pm <!-- Source: https://www.prcity.com/293/Senior-Services -->
-   - Despensa de alimentos: Second and fourth Martesof the month at 10am <!-- Source: https://www.prcity.com/293/Senior-Services -->
+   - Despensa de alimentos: Segundo y cuarto Martes del mes a las 10am <!-- Source: https://www.prcity.com/293/Senior-Services -->
 - Notas:
-   - A lunch service site for [**Meals that Connect**](#Meals-that-Connect) <!-- Source: https://www.prcity.com/293/Senior-Services -->
-   - A [**SLO Food Bank**](#SLO-Food-Bank) pantry & food box distribution site <!-- Source: https://www.prcity.com/293/Senior-Services -->
+   - Un sitio de servicio de almuerzo para [**Meals that Connect**](#Meals-that-Connect) <!-- Source: https://www.prcity.com/293/Senior-Services -->
+   - Un sitio de despensa y distribución de cajas de alimentos de [**SLO Food Bank**](#SLO-Food-Bank) <!-- Source: https://www.prcity.com/293/Senior-Services -->
    - Alberga [**HiCAP**](#HiCAP) <!-- Source: https://www.prcity.com/293/Senior-Services -->
    - Alberga [**Senior Legal Services Project**](#Senior-Legal-Services-Project) <!-- Source: https://www.prcity.com/293/Senior-Services -->
 
@@ -2589,8 +2589,8 @@
 - **Sitio web:** [slopeopleskitchen.org](https://www.slopeopleskitchen.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="People’s Kitchen">43 Prado Road, SLO</a> <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
 - **Correo electrónico:** [mnparker539@gmail.com](mailto:mnparker539@gmail.com) <!-- Source: https://www.slopeopleskitchen.org/contact-us -->
-- **Horario:** Diariamente at mediodía <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
-- **Cómo obtener el servicio:** Come during serving time. <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
+- **Horario:** Diariamente al mediodía <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
+- **Cómo obtener el servicio:** Venga durante el horario de servicio. <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
 
 ## <a id="Peoples-Self-Help-Housing">Peoples’ Self-Help Housing</a>
 
@@ -2599,7 +2599,7 @@
 - **Teléfono:** [805-781-3088](tel:+1-805-781-3088) <!-- Source: https://www.pshhc.org/ -->
 - **Correo electrónico:** [info@pshhc.org](mailto:info@pshhc.org) <!-- Source: https://www.pshhc.org/ -->
 - **Horario:** L–V 8am–5pm
-- **Cómo obtener el servicio:** Submit a rental application at their website, or download it, complete it, and submit it by email, mail, or in person <!-- Source: https://www.pshhc.org/apply/ -->
+- **Cómo obtener el servicio:** Envíe una solicitud de alquiler en su sitio web, o descárguela, complétela y envíela por correo electrónico, correo postal o en persona <!-- Source: https://www.pshhc.org/apply/ -->
 - Notas:
    - opera “Broad Street Place”
    - opera “Sea Breeze Apartments”
@@ -2610,8 +2610,8 @@
 
 🗺️ **<a href="little-free-pantries-map.html" target="_blank" rel="noopener">Vea todas las ubicaciones en un mapa interactivo</a>**
 
-Nota: Pequeñas Despensas Gratuitas come and go.
-Sometimes they are neglected, damaged, or removed.
+Nota: Pequeñas Despensas Gratuitas van y vienen.
+A veces son descuidadas, dañadas o removidas.
 Si ve uno listado aquí que ya no está en servicio, por favor use el botón de comentarios para informar a VivaSLO al respecto.
 
 - **Sitio web:** [littlefreepantry.org](https://www.littlefreepantry.org/)
@@ -2673,9 +2673,9 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Sitio web:** [petsofthehomeless.org](https://petsofthehomeless.org/)
 - **Mailing addresses:** 710 W. Washington St., Carson City, NV 89703 <!-- Source: https://petsofthehomeless.org/ -->
 - **Teléfono:** [775-841-7463](tel:+1-775-841-7463) <!-- Source: https://petsofthehomeless.org/ -->
-   - Emergency Veterinary Care Program: case managers available L–V 9am–3pm for new cases <!-- Source: https://petsofthehomeless.org/get-help/how-we-help/ -->
+   - Emergency Veterinary Care Program: administradores de casos disponibles L–V 9am–3pm para casos nuevos <!-- Source: https://petsofthehomeless.org/get-help/how-we-help/ -->
 - **Correo electrónico:** [info@petsofthehomeless.org](mailto:info@petsofthehomeless.org) <!-- Source: https://petsofthehomeless.org/ -->
-- Notas: Has partner locations en SLOincluding Animal Care Clinic, Mission Animal Hospital, and Woods Humane Society <!-- Source: https://petsofthehomeless.org/get-help/find-locations -->
+- Notas: Tiene ubicaciones asociadas en SLO incluyendo Animal Care Clinic, Mission Animal Hospital y Woods Humane Society <!-- Source: https://petsofthehomeless.org/get-help/find-locations -->
 
 ## <a id="Pismo-Beach-Athletic-Club">Pismo Beach Athletic Club</a>
 
@@ -3016,7 +3016,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - [805-438-5854](tel:+1-805-438-5854)
    - [805-438-3482](tel:+1-805-438-3482) <!-- Source: https://www.facebook.com/profile.php?id=100064940220256 -->
 - Notas:
-   - A lunch service site for [**Meals that Connect**](#Meals-that-Connect)
+   - Un sitio de servicio de almuerzo para [**Meals that Connect**](#Meals-that-Connect)
    - A [**SLO Food Bank**](#SLO-Food-Bank) neighborhood food distribution site
 
 ## <a id="Santa-Margarita-KOA-Holiday">Santa Margarita KOA Holiday</a>
