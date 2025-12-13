@@ -3567,9 +3567,9 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a> <!-- Source: https://fpcslo.org/assistance -->
 - **Teléfono:** [805-544-7041](tel:+1-805-544-7041) <!-- Source: https://fpcslo.org/assistance -->
 - **Horario:**
-   - Martesat Prado Center (<a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">43 Prado Rd., SLO</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
+   - Martes at Prado Center (<a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">43 Prado Rd., SLO</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
    - los jueves at Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a>): solo con cita previa <!-- Source: https://fpcslo.org/assistance -->
-- **Cómo obtener el servicio:** drop-in at Prado, or llame para programar an appointment at the Mission
+- **Cómo obtener el servicio:** sin cita en Prado, o llame para programar una cita en la Misión
 <!-- Nota: No dedicated website found for local chapter (as of October 2025) -->
 
 ## <a id="South-Bay-Community-Center">South Bay Community Center</a>
@@ -3580,10 +3580,10 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Correo electrónico:** [sbcc@sbcommunitycenter.net](mailto:sbcc@sbcommunitycenter.net) <!-- Source: https://southbaycommunitycenter.com/contact/ -->
 - **Horario:** L/Ma/V 1–4pm (office) <!-- Source: https://southbaycommunitycenter.com/ -->
 - Notas:
-   - AlbergaEarly Risers A.A. meetings <!-- Source: https://southbaycommunitycenter.com/ -->
+   - Alberga Early Risers A.A. meetings <!-- Source: https://southbaycommunitycenter.com/ -->
    - Alberga [**Meals that Connect**](#Meals-that-Connect) senior nutrition program <!-- Source: https://southbaycommunitycenter.com/ -->
    - Alberga [**Los Osos Cares**](#Los-Osos-Cares) Community Dinner <!-- Source: https://southbaycommunitycenter.com/ -->
-   - [**South Bay Seniors People Helping People**](#South-Bay-Seniors-People-Helping-People) operates their food bank and medical equipment loan program from this facility (L/Mi/V 9am–1pm) <!-- Source: https://southbaycommunitycenter.com/ -->
+   - [**South Bay Seniors People Helping People**](#South-Bay-Seniors-People-Helping-People) opera su banco de alimentos y programa de préstamo de equipo médico desde esta instalación (L/Mi/V 9am–1pm) <!-- Source: https://southbaycommunitycenter.com/ -->
 
 ## <a id="South-Bay-Seniors-People-Helping-People">South Bay Seniors People Helping People</a>
 
@@ -3607,10 +3607,10 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 ## <a id="Sunny-Acres">Sunny Acres</a>
 
-“Sunny Acres” may refer to two different locations in the city of SLO:
+"Sunny Acres" puede referirse a dos ubicaciones diferentes en la ciudad de SLO:
 
-1. a former orphanage in the hills above Johnson Avenue that is now “Bishop Street Studios” operado por [**Transitions Mental Health Association (TMHA)**](#TMHA)
-1. a former sober living compound near Laguna Lake that is now the [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus) operado por [**Restorative Partners**](#Restorative-Partners)
+1. un antiguo orfanato en las colinas sobre Johnson Avenue que ahora es "Bishop Street Studios" operado por [**Transitions Mental Health Association (TMHA)**](#TMHA)
+1. un antiguo complejo de vida sobria cerca de Laguna Lake que ahora es el [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus) operado por [**Restorative Partners**](#Restorative-Partners)
 
 ## Sunshine House
 
@@ -3623,7 +3623,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-457-3331](tel:+1-805-457-3331) / [805-457-5150](tel:+1-805-457-5150) <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
 - **Correo electrónico:** [atorrente@sunstreet.org](mailto:atorrente@sunstreet.org) <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
 - **Horario:** 24/7 (intake: L–V 8am–5pm) <!-- Source: https://sunstreetcenters.org/counseling/hours-locations/ -->
-- **Cómo obtener el servicio:** Get a referral from [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health), from your healthcare provider, or from your health insurer; you can also refer yourself <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
+- **Cómo obtener el servicio:** Obtenga una referencia de [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health), de su proveedor de atención médica, o de su aseguradora de salud; también puede referirse usted mismo <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
 
 ## Superior Court
 
@@ -3669,8 +3669,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-602-2883](tel:+1-805-602-2883) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSdtCq7URDKl8ikvDNatRRWA8y4vLyUarT5SvYRxxt0BJEHneA/viewform -->
 - **Correo electrónico:** [teenwellness@capslo.org](mailto:teenwellness@capslo.org) <!-- Source: https://capslo.org/teen-health-education/ -->
 - Notas:
-   - A program of [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
-   - Focus on enhancing youth mental health en SLOand Northern Santa Barbara Counties
+   - Un programa de [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
+   - Enfoque en mejorar la salud mental juvenil en SLO y los condados del norte de Santa Barbara
 
 ## <a id="Templeton-Adult-School">Templeton Adult School</a>
 
