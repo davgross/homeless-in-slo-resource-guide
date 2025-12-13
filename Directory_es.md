@@ -1465,7 +1465,7 @@
 - Notas:
    - Operates a food pantry; also known as Atascadero Dove Creek Church of the Nazarene
    - As of October 2025, the website says “We are currently on hiatus and in a period of rebuilding”
-   - See also [**Restoration Church**](#Restoration-Church) which may be a ministry at this same address
+   - Vea también [**Restoration Church**](#Restoration-Church) which may be a ministry at this same address
 -->
 
 ## Drug and Alcohol Services
@@ -1944,14 +1944,14 @@
    - Atascadero: [805-461-6110](tel:+1-805-461-6110) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
    - Arroyo Grande: [805-474-2103](tel:+1-805-474-2103) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 - **Horario:** L–V 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-- **Cómo obtener el servicio:** By phone, or by completing an [online application form](https://www.slocounty.ca.gov/Departments/Social-Services/Forms-Documents/Adult-Services/IHSS-Forms/Online-IHSS-Application-Form.aspx),<!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program --> or by visiting any [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) office (no es necesaria cita) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/forms-documents/adult-services/apply-for-ihss/4-ways-to-apply -->
+- **Cómo obtener el servicio:** Por teléfono, o completando un [formulario de solicitud en línea](https://www.slocounty.ca.gov/Departments/Social-Services/Forms-Documents/Adult-Services/IHSS-Forms/Online-IHSS-Application-Form.aspx),<!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program --> o visitando cualquier oficina de [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) (no es necesaria cita) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/forms-documents/adult-services/apply-for-ihss/4-ways-to-apply -->
 
 ## <a id="Jewish-Family-Services">Jewish Family Services</a>
 
 - **Sitio web:** [jccslo.com/jewish-family-services.html](https://www.jccslo.com/jewish-family-services.html)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.277234" data-lon="-120.665549" data-zoom="17" data-label="Jewish Family Services">578 Marsh St., SLO</a>
 - **Teléfono:** [805-426-5465](tel:+1-805-426-5465)
-- **Cómo obtener el servicio:** Use the online form; they cannot process assistance requests by phone or email
+- **Cómo obtener el servicio:** Use el formulario en línea; no pueden procesar solicitudes de asistencia por teléfono o correo electrónico
 
 ## <a id="Judson-Terrace">Judson Terrace</a>
 
@@ -1962,8 +1962,8 @@
 | [Judson Terrace Lodge](https://www.humangood.org/judson-terrace-lodge) | <a href="#" class="map-link" data-lat="35.268078" data-lon="-120.639555" data-zoom="17" data-label="Judson Terrace Lodge">3042 Augusta St., SLO</a> | [805-541-4567](tel:+1-805-541-4567) | 62+ |
 
 - Notas:
-   - Low-income seniors; HUD residents typically pay 30% of gross income for rent
-   - Applications available only when waiting list is open; contact directly for current status
+   - Adultos mayores de bajos ingresos; los residentes de HUD generalmente pagan el 30% de los ingresos brutos por el alquiler
+   - Solicitudes disponibles solo cuando la lista de espera está abierta; contacte directamente para el estado actual
 
 ## <a id="Kings-Cupboard">King’s Cupboard at El Morro Church</a>
 
@@ -1988,7 +1988,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.311757" data-lon="-120.832637" data-zoom="17" data-label="Laundry Love">2179 10th St., Los Osos</a> <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
 - **Teléfono:** [805-441-7262](tel:+1-805-441-7262) <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
 - **Correo electrónico:** [naseema6@sbcglobal.net](mailto:naseema6@sbcglobal.net) <!-- Source: https://laundrylove.org/find-a-location/?location=osos-clean-laundry-los-osos-california -->
-- **Horario:** last Wednesday of the month, 11am–1pm (seniors only) & 4–6pm (anyone) <!-- Source: https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf -->
+- **Horario:** último miércoles del mes, 11am–1pm (solo adultos mayores) & 4–6pm (cualquier persona) <!-- Source: https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf -->
 
 ## Law Library
 
@@ -2041,10 +2041,10 @@
 - **Teléfono:** [805-489-3328](tel:+1-805-489-3328)
 - **Correo electrónico:** [church@lifepointcentralcoast.com](mailto:church@lifepointcentralcoast.com)
 - Notas:
-   - Alberga[**Central Coast Partnership for Animal Welfare**](#CCPAW)
-   - Alberga[**Five Cities Christian Women Food Pantry**](#Five-Cities-Christian-Women-Food-Pantry)
-   - Alberga[**People’s Kitchen (Grover Beach)**](#Peoples-Kitchen-GB)
-   - Alberga[**Shower the People**](#Shower-the-People)
+   - Alberga [**Central Coast Partnership for Animal Welfare**](#CCPAW)
+   - Alberga [**Five Cities Christian Women Food Pantry**](#Five-Cities-Christian-Women-Food-Pantry)
+   - Alberga [**People’s Kitchen (Grover Beach)**](#Peoples-Kitchen-GB)
+   - Alberga [**Shower the People**](#Shower-the-People)
 
 ## <a id="Lifesigns">Lifesigns</a>
 
@@ -2070,19 +2070,19 @@
 - **Teléfono:** [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://linkslo.org/ -->
    - Family Advocate Services: [805-794-0217](tel:+1-805-794-0217) <!-- Source: https://linkslo.org/ -->
 - **Horario:** L–V 9am–5pm <!-- Source: https://linkslo.org/ -->
-- **Cómo obtener el servicio:** accepts self-referrals, school referrals, and community agency referrals
+- **Cómo obtener el servicio:** acepta auto-referencias, referencias escolares y referencias de agencias comunitarias
 - Notas:
    - operado por [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
-   - See also [**North County Family Resource Center**](#North-County-Family-Resource-Center)
-   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
+   - Vea también [**North County Family Resource Center**](#North-County-Family-Resource-Center)
+   - Vea también [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
 
 ## <a id="Literacy-Connection">The Literacy Connection</a>
 
 - **Sitio web:** [catalog.slolibrary.org/tlc](https://catalog.slolibrary.org/tlc)
 - **Teléfono:** [805-781-5077](tel:+1-805-781-5077) <!-- Source: https://catalog.slolibrary.org/tlc -->
 - **Correo electrónico:** [TLCinfo@slolibrary.org](mailto:TLCinfo@slolibrary.org) <!-- Source: https://catalog.slolibrary.org/tlc -->
-- **Cómo obtener el servicio:** Submit a form on [the library website](https://catalog.slolibrary.org/tlc) <!-- Source: https://catalog.slolibrary.org/tlc -->
-- Notas: Program of [**SLO County Public Libraries**](#SLO-County-Public-Libraries)
+- **Cómo obtener el servicio:** Envíe un formulario en [el sitio web de la biblioteca](https://catalog.slolibrary.org/tlc) <!-- Source: https://catalog.slolibrary.org/tlc -->
+- Notas: Programa de [**SLO County Public Libraries**](#SLO-County-Public-Libraries)
 
 <!-- Not yet referenced anywhere
 ## <a id="Literacy-For-Life">Literacy For Life</a>
@@ -2102,7 +2102,7 @@
 - **Teléfono:** [805-461-1504](tel:+1-805-461-1504) <!-- Source: https://alffoodpantry.org/ -->
 - **Correo electrónico:** [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org) <!-- Source: https://alffoodpantry.org/ -->
 - **Horario** (food pantry): L–V 1–3pm <!-- Source: https://alffoodpantry.org/need-food -->
-- Notas: Not affiliated with [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
+- Notas: No afiliado con [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
 
 ## <a id="Loaves-and-Fishes-Paso-Robles">Loaves & Fishes (Paso Robles)</a>
 
@@ -2110,7 +2110,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.642136" data-lon="-120.692363" data-zoom="17" data-label="Loaves and Fishes (Paso Robles)">2650 Spring St., Paso Robles</a> <!-- Source: https://loavesandfishespaso.org/ -->
 - **Teléfono:** [805-238-4742](tel:+1-805-238-4742) <!-- Source: https://loavesandfishespaso.org/contact/ -->
 - **Horario:** L–J 2pm–4pm, or con cita previa <!-- Source: https://loavesandfishespaso.org/ -->
-- Notas: Not affiliated with [**Loaves & Fishes (Atascadero)**](#Loaves-and-Fishes-Atascadero)
+- Notas: No afiliado con [**Loaves & Fishes (Atascadero)**](#Loaves-and-Fishes-Atascadero)
 
 ## <a id="Long-Term-Care-Ombudsman">Long Term Care Ombudsman</a>
 
@@ -2140,8 +2140,8 @@
 - **Horario:** Ma/Mi/J 1–3pm <!-- Source: https://www.losososcares.com/programs -->
    - Community Dinners: los miércoles 5–6pm <!-- Source: https://www.losososcares.com/programs -->
 - Notas:
-   - AlbergaCommunity Dinner at [**South Bay Community Center**](#South-Bay-Community-Center)
-   - Alberga“Coastal Family Resource Center”
+   - Alberga Community Dinner at [**South Bay Community Center**](#South-Bay-Community-Center)
+   - Alberga "Coastal Family Resource Center"
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
 
@@ -2150,12 +2150,12 @@
 <!-- Sources: https://adulted.luciamarschools.org/contact-us and https://adulted.luciamarschools.org/learning-center-directions -->
 | Nombre | Ubicación | Teléfono |
 | ---- | -------- | ----- |
-| Main office | <a href="#" class="map-link" data-lat="35.115292" data-lon="-120.576271" data-zoom="17" data-label="Lucia Mar Adult Education">602 Orchard St., Arroyo Grande</a> | [805-474-3222](tel:+1-805-474-3222) |
+| Oficina principal | <a href="#" class="map-link" data-lat="35.115292" data-lon="-120.576271" data-zoom="17" data-label="Lucia Mar Adult Education">602 Orchard St., Arroyo Grande</a> | [805-474-3222](tel:+1-805-474-3222) |
 | Nipomo Learning Center | <a href="#" class="map-link" data-lat="35.042848" data-lon="-120.471869" data-zoom="17" data-label="Lucia Mar Adult Education">190 E. Price St. (E & F), Nipomo</a> | [805-474-3000 x7602](tel:+1-805-474-3000;ext=7602) |
 | Oceano Community Center | <a href="#" class="map-link" data-lat="35.101995" data-lon="-120.612296" data-zoom="17" data-label="Lucia Mar Adult Education">1575 17th St. (30, 33, & 34), Oceano</a> | [805-474-3000 x7601](tel:+1-805-474-3000;ext=7601) |
 
 - **Correo electrónico:** [brienne.phillips@lmusd.org](mailto:brienne.phillips@lmusd.org) <!-- Source: https://adulted.luciamarschools.org/contact-us -->
-- Notas: Partners with [**Cuesta College**](#Cuesta-College) for ESL classes
+- Notas: En asociación con [**Cuesta College**](#Cuesta-College) para clases de ESL
 
 ## <a id="Lumina-Alliance">Lumina Alliance</a>
 
@@ -2165,10 +2165,10 @@
    - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://luminaalliance.org/contact -->
    - <a href="#" class="map-link" data-lat="35.251244" data-lon="-120.673442" data-zoom="17" data-label="Lumina Alliance">51 Zaca Ln. #150, SLO</a> <!-- Source: https://luminaalliance.org/contact -->
 - **Teléfono:**
-   - [805-545-8888](tel:+1-805-545-8888) (24-hour free & confidential crisis line) <!-- Source: https://luminaalliance.org/ -->
-   - [805-781-6400](tel:+1-805-781-6400) (Business line) <!-- Source: https://luminaalliance.org/contact -->
+   - [805-545-8888](tel:+1-805-545-8888) (línea de crisis gratuita y confidencial las 24 horas) <!-- Source: https://luminaalliance.org/ -->
+   - [805-781-6400](tel:+1-805-781-6400) (línea de negocios) <!-- Source: https://luminaalliance.org/contact -->
 - **Correo electrónico:** [Contact@LuminaAlliance.org](mailto:Contact@LuminaAlliance.org) <!-- Source: https://luminaalliance.org/contact -->
-- Nota: RISE merged with Stand Strong in 2021 to form Lumina Alliance
+- Nota: RISE se fusionó con Stand Strong en 2021 para formar Lumina Alliance
 
 ## <a id="Lumina-Thrift">Lumina Thrift</a>
 
@@ -2195,7 +2195,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="Martha’s Place Children’s Center">2925 McMillan Ave. #108, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 - **Teléfono:** [805-781-4948](tel:+1-805-781-4948) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 - **Horario:** L–V 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
-- Notas: For children ages 0–5 with behavioral or mental health issues
+- Notas: Para niños de 0 a 5 años con problemas de comportamiento o salud mental
 
 ## Meals on Wheels
 
@@ -2205,7 +2205,7 @@
 
 - **Sitio web:** [mealsthatconnect.org](https://mealsthatconnect.org/en/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Meals that Connect">265 South St. #B, SLO</a> (office) <!-- Source: https://mealsthatconnect.org/en/ -->
-   - Sirve comidas enAtascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
+   - Sirve comidas en Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
    - También hace entregas a domicilio <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 - **Teléfono:** [805-541-3312](tel:+1-805-541-3312) <!-- Source: https://mealsthatconnect.org/en/ -->
 - **Correo electrónico:** [officeadmin@mealsthatconnect.org](mailto:officeadmin@mealsthatconnect.org) <!-- Source: https://mealsthatconnect.org/en/ -->
@@ -2216,7 +2216,7 @@
 
 > *Vea también: [**CenCal**](#CenCal)*
 
-- **Ubicaciónes:** *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
+- **Ubicaciónes:** *Vea [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 - Medi-Cal Dental:
    - **Sitio web:** [www.denti-cal.ca.gov](http://www.denti-cal.ca.gov/)
    - **Teléfono:** [800-322-6384](tel:+1-800-322-6384) (TTY: [800-735-2922](tel:+1-800-735-2922))
@@ -2247,7 +2247,7 @@
 - **Sitio web:**
    - MHET: [slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-(mhet)](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-%28mhet%29)
    - Mobile Crisis Team: [https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct)](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-%28mct%29)
-- **Ubicación:** county-wide
+- **Ubicación:** en todo el condado
 - **Teléfono:**
    - MHET: [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-(mhet) -->
    - Mobile Crisis Team: [800-783-0607](tel:+1-800-783-0607) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct) -->
@@ -2287,7 +2287,7 @@
 - **Teléfono:**
    - [805-550-7270](tel:+1-805-550-7270) <!-- Source: https://www.slocity.org/government/department-directory/fire-department/mobile-crisis-unit-mcu -->
    - [805-781-7312](tel:+1-805-781-7312) <!-- Source: https://www.slocity.org/government/department-directory/fire-department/mobile-crisis-unit-mcu -->
-- **Horario:** L–J 8am–5:30pm; every other V 8am–5:30pm
+- **Horario:** L–J 8am–5:30pm; cada segundo V 8am–5:30pm
 
 ## <a id="Morro-Bay-Lions-Foundation">Morro Bay Lions Foundation</a>
 
@@ -2317,8 +2317,8 @@
 - **Horario:** L–V 9am–4pm <!-- Source: https://morrobayseniors.org/about/ -->
 - Membresía: $25/year individual, $40/year household (90+ free); abierto a personas de 55+ <!-- Source: https://morrobayseniors.org/about/ -->
 - Notas:
-   - Alberga[**HiCAP**](#HiCAP)
-   - Alberga[**Senior Legal Services Project**](#Senior-Legal-Services-Project) on the first Friday of the month
+   - Alberga [**HiCAP**](#HiCAP)
+   - Alberga [**Senior Legal Services Project**](#Senior-Legal-Services-Project) on the first Friday of the month
 
 ## My Home for Hope
 
@@ -2421,8 +2421,8 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Family Resource Center">704 Spring St., Paso Robles</a> <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
 - **Teléfono:** [805-440-1878](tel:+1-805-440-1878) <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
 - Notas:
-   - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
-   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
+   - Vea también [**Link Family Resource Center**](#Link-Family-Resource-Center)
+   - Vea también [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
 
 ## <a id="North-County-NeighborAid">North County NeighborAid</a>
 
@@ -2543,8 +2543,8 @@
 - Notas:
    - A lunch service site for [**Meals that Connect**](#Meals-that-Connect) <!-- Source: https://www.prcity.com/293/Senior-Services -->
    - A [**SLO Food Bank**](#SLO-Food-Bank) pantry & food box distribution site <!-- Source: https://www.prcity.com/293/Senior-Services -->
-   - Alberga[**HiCAP**](#HiCAP) <!-- Source: https://www.prcity.com/293/Senior-Services -->
-   - Alberga[**Senior Legal Services Project**](#Senior-Legal-Services-Project) <!-- Source: https://www.prcity.com/293/Senior-Services -->
+   - Alberga [**HiCAP**](#HiCAP) <!-- Source: https://www.prcity.com/293/Senior-Services -->
+   - Alberga [**Senior Legal Services Project**](#Senior-Legal-Services-Project) <!-- Source: https://www.prcity.com/293/Senior-Services -->
 
 ## <a id="PathPoint">PathPoint</a>
 
@@ -2916,8 +2916,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Cómo obtener el servicio:** Walk-ins OK; appointments preferred.
 - Nota:
    - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
-   - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
-   - See also [**North County Family Resource Center**](#North-County-Family-Resource-Center)
+   - Vea también [**Link Family Resource Center**](#Link-Family-Resource-Center)
+   - Vea también [**North County Family Resource Center**](#North-County-Family-Resource-Center)
 
 ## <a id="St-Barnabas-Thrift-Shop">St. Barnabas Thrift Shop</a>
 
@@ -3496,7 +3496,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - Membresía: Open to SLO city residents 55+; includes monthly newsletter, center access, free coffee
 - Notas:
    - Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
-   - Alberga[**HiCAP**](#HiCAP) (los jueves mediodía–3:30pm con cita previa)
+   - Alberga [**HiCAP**](#HiCAP) (los jueves mediodía–3:30pm con cita previa)
 
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
@@ -3581,8 +3581,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Horario:** L/Ma/V 1–4pm (office) <!-- Source: https://southbaycommunitycenter.com/ -->
 - Notas:
    - AlbergaEarly Risers A.A. meetings <!-- Source: https://southbaycommunitycenter.com/ -->
-   - Alberga[**Meals that Connect**](#Meals-that-Connect) senior nutrition program <!-- Source: https://southbaycommunitycenter.com/ -->
-   - Alberga[**Los Osos Cares**](#Los-Osos-Cares) Community Dinner <!-- Source: https://southbaycommunitycenter.com/ -->
+   - Alberga [**Meals that Connect**](#Meals-that-Connect) senior nutrition program <!-- Source: https://southbaycommunitycenter.com/ -->
+   - Alberga [**Los Osos Cares**](#Los-Osos-Cares) Community Dinner <!-- Source: https://southbaycommunitycenter.com/ -->
    - [**South Bay Seniors People Helping People**](#South-Bay-Seniors-People-Helping-People) operates their food bank and medical equipment loan program from this facility (L/Mi/V 9am–1pm) <!-- Source: https://southbaycommunitycenter.com/ -->
 
 ## <a id="South-Bay-Seniors-People-Helping-People">South Bay Seniors People Helping People</a>
