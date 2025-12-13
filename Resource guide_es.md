@@ -1490,11 +1490,6 @@ The California Foundation for Independent Living Centers operates a “for sale,
 El [**Central Coast Assistive Technology Center**](Directory.md#CCATC) (Centro de Tecnología de Asistencia de la Costa Central) le permite probar, y le ayuda a aprender a usar, tecnologías de asistencia incluyendo tecnologías de visión/audición y ergonomía. <!-- Source: https://ccatc.org/at-services/ -->
 También le ayudan a acceder a una biblioteca de préstamo sin costo de dispositivos de tecnología de asistencia ([myatprogram.org](https://myatprogram.org/)).
 
-<!--
-[**Elks Lodge #2504**](Directory.md#Elks-Lodge-2504) has a lending library of wheelchairs, crutches, and walkers.
-{ SOURCE NEEDED (issue #73) }
--->
-
 [**PathPoint**](Directory.md#PathPoint) tiene una biblioteca de préstamo de dispositivos de tecnología de asistencia para personas con discapacidades del desarrollo. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) puede prestarle tecnología de asistencia como andadores y sillas de ruedas. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->

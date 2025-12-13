@@ -1490,11 +1490,6 @@ The California Foundation for Independent Living Centers operates a “for sale,
 The [**Central Coast Assistive Technology Center**](Directory.md#CCATC) allows you to try, and helps you learn to use, assistive technologies including vision/hearing technologies and ergonomics. <!-- Source: https://ccatc.org/at-services/ -->
 They also help you access a no-cost lending library of assistive technology devices ([myatprogram.org](https://myatprogram.org/)).
 
-<!--
-[**Elks Lodge #2504**](Directory.md#Elks-Lodge-2504) has a lending library of wheelchairs, crutches, and walkers.
-{ SOURCE NEEDED (issue #73) }
--->
-
 [**PathPoint**](Directory.md#PathPoint) has a lending library of assistive technology devices for people with developmental disabilities. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) can loan you assistive technology like walkers and wheelchairs. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->
