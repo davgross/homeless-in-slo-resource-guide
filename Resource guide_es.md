@@ -1393,7 +1393,7 @@ o [**Catholic Charities**](Directory.md#Catholic-Charities). <!-- Source: https:
 Para obtener ayuda en idiomas indígenas mexicanos, llame al [805-483-1166](tel:+1-805-483-1166), o visite [mixteco.org/indigenous-interpreter-services/](https://mixteco.org/indigenous-interpreter-services/). <!-- Source: https://mixteco.org/social-services/ -->
 Si es paciente de Adventist Health, puede obtener ayuda de ellos llamando al [844-827-5047](tel:+1-844-827-5047). <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill -->
 
-Si es trabajador agrícola, también puede obtener ayuda para solicitar Medi-Cal del [Programa de Asistencia Civil](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) de la California Farmworker Foundation. <!-- SOURCE NEEDED (issue #70) -->
+Si es trabajador agrícola, también puede obtener ayuda para solicitar Medi-Cal del [Programa de Asistencia Civil](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) de la California Farmworker Foundation. <!-- Sources: https://californiafarmworkers.org/what-we-do/ and https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28082 -->
 
 ##### Medicamentos Recetados
 

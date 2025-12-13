@@ -1393,7 +1393,7 @@ or [**Catholic Charities**](Directory.md#Catholic-Charities). <!-- Source: https
 To get help in indigenous Mexican languages, call [805-483-1166](tel:+1-805-483-1166), or visit [mixteco.org/indigenous-interpreter-services/](https://mixteco.org/indigenous-interpreter-services/). <!-- Source: https://mixteco.org/social-services/ -->
 If you are a patient of Adventist Health, you can get help from them by calling [844-827-5047](tel:+1-844-827-5047). <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill -->
 
-If you are a farm laborer, you may also be able to get help applying for Medi-Cal from the [Civil Assistance Program](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) of the California Farmworker Foundation. <!-- SOURCE NEEDED (issue #70) -->
+If you are a farm laborer, you may also be able to get help applying for Medi-Cal from the [Civil Assistance Program](https://californiafarmworkers.org/what-we-do/civil-assistance-program/) of the California Farmworker Foundation. <!-- Sources: https://californiafarmworkers.org/what-we-do/ and https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28082 -->
 
 ##### Prescription Medication
 
