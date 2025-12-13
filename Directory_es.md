@@ -246,7 +246,7 @@
 ## <a id="AGS-Recycling">AGS Recycling</a>
 
 - **Sitio web:** [agsreciclyng.com](https://agsreciclyng.com/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Arroyo Grande: <a href="#" class="map-link" data-lat="35.0814297" data-lon="-120.5863837" data-zoom="17" data-label="AGS Recycling (Arroyo Grande)">564 Mesa View Dr.</a> <!-- Source: https://agsreciclyng.com/ -->
    - Morro Bay: <a href="#" class="map-link" data-lat="35.3899509" data-lon="-120.8572476" data-zoom="17" data-label="AGS Recycling (Morro Bay)">2650 Main Street</a> <!-- Source: https://agsreciclyng.com/ -->
 - **Teléfono:** [805-598-6285](tel:+1-805-598-6285) <!-- Source: https://agsreciclyng.com/ -->
@@ -486,7 +486,7 @@
 🗺️ **<a href="little-free-libraries-map.html" target="_blank" rel="noopener">Vea todas las ubicaciones en un mapa interactivo</a>**
 
 - **Sitio web:** [littlefreelibrary.org](https://littlefreelibrary.org/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Arroyo Grande:
       - <a href="#" class="map-link" data-lat="35.114090" data-lon="-120.593823" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">330 Alder St.</a>
       - <a href="#" class="map-link" data-lat="35.119917" data-lon="-120.575391" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">121 Allen St.</a>
@@ -807,7 +807,7 @@
 ## <a id="CalWORKs">CalWORKs Homeless Assistance Program</a>
 
 - **Sitio web:** [slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance)
-- **Ubicaciónes:** Vea [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
+- **Ubicaciones:** Vea [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
 - **Teléfono:** [805-781-1600](tel:+1-805-781-1600)
 - **Horario:** L–V 8am–4pm (4–5pm solo con cita previa)
 - **Cómo obtener el servicio:** contacte con el [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
@@ -900,7 +900,7 @@
 - **Sitio web:** [catholiccharitiesdom.org](https://catholiccharitiesdom.org/)
    - [Programa de inmigración y ciudadanía](https://catholiccharitiesdom.org/immigration-citizenship/)
    - [Programa de eliminación de tatuajes](https://catholiccharitiesdom.org/tattoo-removal-program)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Oficina principal: <a href="#" class="map-link" data-lat="35.255397" data-lon="-120.669515" data-zoom="17" data-label="Catholic Charities">3250 S. Higuera St. #D, SLO</a> <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
    - Asistencia financiera <a href="#" class="map-link" data-lat="35.254868" data-lon="-120.645111" data-zoom="17" data-label="Catholic Charities">3592 Broad Street #104, SLO</a> <!-- Source: https://5chc.org/community-services/financial-assistance -->
    - detrás de la Misión: <a href="#" class="map-link" data-lat="35.280845" data-lon="-120.665176" data-zoom="17" data-label="Catholic Charities">715 Palm St., SLO</a>
@@ -931,7 +931,7 @@
 > *Vea también [**Medi-Cal**](#Medi-Cal)*
 
 - **Sitio web:** [Cencalhealth.org](https://cencalhealth.org/)
-- **Ubicaciónes:** Vea [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
+- **Ubicaciones:** Vea [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
 - **Teléfono:**
    - Oficina comercial: [800-421-2560](tel:+1-800-421-2560) or [805-685-9525](tel:+1-805-685-9525) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
    - Inscripción: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
@@ -1037,7 +1037,7 @@
 
 ## <a id="CCPAW">Central Coast Partnership for Animal Welfare</a>
 
-- **Ubicaciónes:** (distribución de alimentos para mascotas)
+- **Ubicaciones:** (distribución de alimentos para mascotas)
    - <a href="#" class="map-link" data-lat="35.120091" data-lon="-120.619796" data-zoom="17" data-label="Central Coast Partnership for Animal Welfare">946 Rockaway Ave., Grover Beach</a> ([**Lifepoint Church**](#Lifepoint-Church))
    - estacionamiento at <a href="#" class="map-link" data-lat="35.100069" data-lon="-120.612256" data-zoom="17" data-label="Central Coast Partnership for Animal Welfare">1710 Ocean St., Oceano</a>
 - **Teléfono:** [805-574-0563](tel:+1-805-574-0563)
@@ -1346,7 +1346,7 @@
 ## <a id="Cuesta-College">Cuesta College</a>
 
 - **Sitio web:** [cuesta.edu](https://www.cuesta.edu/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Campus SLO: <a href="#" class="map-link" data-lat="35.329042" data-lon="-120.740620" data-zoom="15" data-label="Cuesta College">3000 Education Dr., SLO (at Highway 1)</a> <!-- Source: https://www.cuesta.edu/ -->
    - Campus North County: <a href="#" class="map-link" data-lat="35.650499" data-lon="-120.670746" data-zoom="15" data-label="Cuesta College">2800 Buena Vista Dr., Paso Robles</a> <!-- Source: https://www.cuesta.edu/ -->
    - Centro South County: oficina A.G. High School, sala 900, esquina de <a href="#" class="map-link" data-lat="35.117021" data-lon="-120.577601" data-zoom="15" data-label="Cuesta College">Orchard St. y W. Cherry Ave, Arroyo Grande</a> <!-- Source: https://www.cuesta.edu/ -->
@@ -1479,7 +1479,7 @@
 ## <a id="Eckerd-Connects-Workforce-Development">Eckerd Connects Workforce Development</a>
 
 - **Sitio web:** [eckerd.org/jobs-training/slo](https://www.eckerd.org/jobs-training/slo/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.257894" data-lon="-120.646738" data-zoom="17" data-label="Eckerd Connects">3450 Broad Street #103A, SLO</a> <!-- Source: https://eckerd.org/jobs-training/slo/ -->
    - <a href="#" class="map-link" data-lat="35.619702" data-lon="-120.690592" data-zoom="17" data-label="Eckerd Connects">534 Spring Street, Paso Robles</a> <!-- Source: https://eckerd.org/jobs-training/slo/ -->
 - **Teléfono:**
@@ -1491,7 +1491,7 @@
 ## <a id="ECHO">El Camino Homeless Organization (ECHO)</a>
 
 - **Sitio web:** [www.echoshelter.org](https://www.echoshelter.org/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave., Atascadero</a> <!-- Source: https://www.echoshelter.org/atascadero -->
    - <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr., Paso Robles</a> <!-- Source: https://www.echoshelter.org/pasorobles -->
 - **Teléfono:** [805-462-FOOD](tel:+1-805-462-3663) <!-- Source: https://www.echoshelter.org/contact -->
@@ -1637,7 +1637,7 @@
 
 - **Sitio web:** [slonoorfoundation.org](https://www.slonoorfoundation.org/)
 - Clínicas primarias:
-   - **Ubicaciónes:**
+   - **Ubicaciones:**
       - <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="SLO Noor Foundation primary and vision clinic">1428 Phillips Lane #203, SLO</a> <!-- Source: https://www.slonoorfoundation.org/ -->
       - <a href="#" class="map-link" data-lat="35.613052" data-lon="-120.675974" data-zoom="17" data-label="La Fundación SLO Noor">400 Oak Hill Rd., Paso Robles</a>
    - **Teléfono:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/ -->
@@ -1656,7 +1656,7 @@
    - **Correo electrónico:** [ccmacedo@calpoly.edu](mailto:ccmacedo@calpoly.edu) <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
 - Unidad móvil de salud primaria
    - **Teléfono:** [805-439-1797](tel:+1-805-439-1797) <!-- Source: https://www.slonoorfoundation.org/mhc -->
-   - **Ubicaciónes:** Atascadero, Nipomo, Oceano, Paso Robles <!-- Source: https://www.slonoorfoundation.org/mhc -->
+   - **Ubicaciones:** Atascadero, Nipomo, Oceano, Paso Robles <!-- Source: https://www.slonoorfoundation.org/mhc -->
 - **Cómo obtener el servicio:**
    - Solo con cita previa
    - Traiga un comprobante de ingresos y una copia de su declaración de impuestos sobre la renta más reciente a su primera cita.
@@ -1689,7 +1689,7 @@
 ## <a id="Golden-1-Credit-Union">Golden 1 Credit Union</a>
 
 - **Sitio web:** [golden1.com](https://www.golden1.com)
-- **Ubicaciónes:** <!-- Source: https://www.golden1.com/atm-branch-finder -->
+- **Ubicaciones:** <!-- Source: https://www.golden1.com/atm-branch-finder -->
    - <a href="#" class="map-link" data-lat="35.472833" data-lon="-120.651861" data-zoom="17" data-label="Golden 1 Credit Union">8727 El Camino Real, Atascadero</a>
    - <a href="#" class="map-link" data-lat="35.612529" data-lon="-120.683731" data-zoom="17" data-label="Golden 1 Credit Union">128 Niblick Rd., Paso Robles</a>
    - <a href="#" class="map-link" data-lat="35.294492" data-lon="-120.670846" data-zoom="17" data-label="Golden 1 Credit Union">852 E. Foothill Blvd., SLO</a>
@@ -1744,7 +1744,7 @@
 ## <a id="Gryphon-Society">Gryphon Society</a>
 
 - **Sitio web:** [gryphonsociety.weebly.com](https://gryphonsociety.weebly.com/)
-- **Ubicaciónes:** varias; segregadas por género
+- **Ubicaciones:** varias; segregadas por género
 - **Teléfono:**
    - [805-550-8140](tel:+1-805-550-8140) (hombres)
    - [805-748-8491](tel:+1-805-748-8491) (mujeres)
@@ -1762,7 +1762,7 @@
 **ReStore** (recycled construction and home renovation materials):
 
 - **Sitio web:** [habitatslo.org/restores](https://habitatslo.org/restores/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Paso Robles: <a href="#" class="map-link" data-lat="35.623410" data-lon="-120.688886" data-zoom="17" data-label="Habitat for Humanity ReStore (Paso Robles)">844 9th St.</a> <!-- Source: https://habitatslo.org/ -->
       - **Teléfono:** [805-434-0486](tel:+1-805-434-0486) <!-- Source: https://habitatslo.org/ -->
       - **Correo electrónico:** [restorepaso@habitatslo.org](mailto:restorepaso@habitatslo.org) <!-- Source: https://habitatslo.org/contact/ -->
@@ -1814,7 +1814,7 @@
 ## <a id="HiCAP">HiCAP (Health Insurance Counseling & Advocacy Program)</a>
 
 - **Sitio web:** [centralcoastseniors.org/hicap](https://centralcoastseniors.org/hicap/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.278951" data-lon="-120.657079" data-zoom="17" data-label="HiCAP">1445 Santa Rosa St., SLO</a>
    - <a href="#" class="map-link" data-lat="34.947390" data-lon="-120.435627" data-zoom="17" data-label="HiCAP">528 S. Broadway, Santa Maria</a>
 - **Teléfono:** [805-928-5663](tel:+1-805-928-5663) / [800-434-0222](tel:+1-800-434-0222)
@@ -1937,7 +1937,7 @@
 ## <a id="In-Home-Supportive-Services">In-Home Supportive Services (IHSS)</a>
 
 - **Sitio web:** [slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-(ihss)-program](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="In-Home Supportive Services">9630 El Camino Real, Atascadero</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
    - <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="In-Home Supportive Services">1086 E. Grand Ave., Arroyo Grande</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 - **Teléfono:**
@@ -2001,7 +2001,7 @@
 ## <a id="Legacy-Church-Pantry">Legacy Church Pantry</a>
 
 - **Sitio web:** [ourlegacy.church](https://www.ourlegacy.church/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Despensa de alimentos: <a href="#" class="map-link" data-lat="35.512659" data-lon="-120.702113" data-zoom="17" data-label="Legacy Church Food Pantry">6030 Del Rio Rd., Atascadero</a>
    - Church: <a href="#" class="map-link" data-lat="35.489669" data-lon="-120.674958" data-zoom="17" data-label="Legacy Church">5545 Ardilla Ave., Atascadero</a> <!-- Source: https://www.ourlegacy.church/ministries -->
 - **Teléfono:** [805-466-2626](tel:+1-805-466-2626) <!-- Source: https://www.ourlegacy.church/ministries -->
@@ -2035,7 +2035,7 @@
 
 <!-- Source: https://lifepointcentralcoast.com/about/ -->
 - **Sitio web:** [lifepointcentralcoast.com](https://lifepointcentralcoast.com/) <!-- inactive on 30 Nov 2025 -->
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Main: <a href="#" class="map-link" data-lat="35.115749" data-lon="-120.575423" data-zoom="17" data-label="Lifepoint Church">207 Pilgrim Way, Arroyo Grande</a>
    - Outreach location: <a href="#" class="map-link" data-lat="35.120091" data-lon="-120.619796" data-zoom="17" data-label="Lifepoint Church outreach location">946 Rockaway Ave., Grover Beach</a>
 - **Teléfono:** [805-489-3328](tel:+1-805-489-3328)
@@ -2064,7 +2064,7 @@
 ## <a id="Link-Family-Resource-Center">The Link Family Resource Center</a>
 
 - **Sitio web:** [linkslo.org](https://linkslo.org/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Atascadero: <a href="#" class="map-link" data-lat="35.513562" data-lon="-120.686928" data-zoom="17" data-label="The Link Family Resource Center (Atascadero)">4507 Del Rio Ave Bldg. #1, Atascadero</a> <!-- Source: https://linkslo.org/ -->
    - Paso Robles: <a href="#" class="map-link" data-lat="35.628326" data-lon="-120.691147" data-zoom="17" data-label="The Link Family Resource Center (Paso Robles)">1802 Chestnut St., Paso Robles</a>
 - **Teléfono:** [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://linkslo.org/ -->
@@ -2160,7 +2160,7 @@
 ## <a id="Lumina-Alliance">Lumina Alliance</a>
 
 - **Sitio web:** [luminaalliance.org](https://luminaalliance.org/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.116240" data-lon="-120.615517" data-zoom="17" data-label="Lumina Alliance">555 S. 13th St. #B, Grover Beach</a>
    - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://luminaalliance.org/contact -->
    - <a href="#" class="map-link" data-lat="35.251244" data-lon="-120.673442" data-zoom="17" data-label="Lumina Alliance">51 Zaca Ln. #150, SLO</a> <!-- Source: https://luminaalliance.org/contact -->
@@ -2216,7 +2216,7 @@
 
 > *Vea también: [**CenCal**](#CenCal)*
 
-- **Ubicaciónes:** *Vea [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
+- **Ubicaciones:** *Vea [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 - Medi-Cal Dental:
    - **Sitio web:** [www.denti-cal.ca.gov](http://www.denti-cal.ca.gov/)
    - **Teléfono:** [800-322-6384](tel:+1-800-322-6384) (TTY: [800-735-2922](tel:+1-800-735-2922))
@@ -2339,7 +2339,7 @@
 ## <a id="Narcotics-Anonymous">Narcotics Anonymous</a>
 
 - **Sitio web:** [centralcoastna.org](https://centralcoastna.org/)
-- **Ubicaciónes:** [varias ubicaciones](https://www.centralcoastna.org/directory/) en Arroyo Grande, Atascadero, Cambria, Guadalupe, Lompoc, Orcutt, Paso Robles, San Luis Obispo, and Santa Maria <!-- https://www.centralcoastna.org/directory/ -->
+- **Ubicaciones:** [varias ubicaciones](https://www.centralcoastna.org/directory/) en Arroyo Grande, Atascadero, Cambria, Guadalupe, Lompoc, Orcutt, Paso Robles, San Luis Obispo, and Santa Maria <!-- https://www.centralcoastna.org/directory/ -->
    - También tiene algunas reuniones virtuales (Zoom)
 - **Teléfono:** [805-549-7730](tel:+1-805-549-7730) <!-- Source: https://www.centralcoastna.org/ -->
 
@@ -2615,7 +2615,7 @@ Sometimes they are neglected, damaged, or removed.
 Si ve uno listado aquí que ya no está en servicio, por favor use el botón de comentarios para informar a VivaSLO al respecto.
 
 - **Sitio web:** [littlefreepantry.org](https://www.littlefreepantry.org/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Arroyo Grande:
       - <a href="#" class="map-link" data-lat="35.117680" data-lon="-120.591688" data-zoom="17" data-label="Pequeña Despensa Gratuita">132 South Halcyon Rd.</a>
       - <a href="#" class="map-link" data-lat="35.064428" data-lon="-120.517080" data-zoom="17" data-label="Pequeña Despensa Gratuita">268 Summit Station Rd.</a>
@@ -2812,7 +2812,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="Good-Samaritan-Shelter">Refugio del Buen Samaritano</a>
 
 - **Sitio web:** [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Santa Maria refugio de emergencia: <a href="#" class="map-link" data-lat="34.943820" data-lon="-120.441034" data-zoom="17" data-label="Good Samaritan Refugio">401 W. Morrison Ave., Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
    - Oficinas administrativas: <a href="#" class="map-link" data-lat="34.944295" data-lon="-120.440996" data-zoom="17" data-label="Good Samaritan Refugio">400 West Park, Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/ -->
 - **Teléfono:** Refugio de emergencia: [805-347-3338 x101](tel:+1-805-347-3338;ext=101) <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
@@ -3072,13 +3072,13 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="Senior-Go">Senior Go!</a>
 
 - **Sitio web:** [sloseniorgo.org](https://www.sloseniorgo.org/)
-- **Ubicaciónes:** Throughout SLO County <!-- Source: https://www.sloseniorgo.org/ -->
+- **Ubicaciones:** Throughout SLO County <!-- Source: https://www.sloseniorgo.org/ -->
 - **Teléfono:** [805-473-3333](tel:+1-805-473-3333) <!-- Source: https://www.sloseniorgo.org/ -->
 - **Horario:** L–V 9am–5pm, S 10am–3pm (closed major holidays) <!-- Source: https://www.sloseniorgo.org/ -->
 
 ## <a id="Senior-Legal-Services-Project">Senior Legal Services Project</a>
 
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">3232 S. Higuera St. #101D, SLO</a> <!-- Source: https://www.slolaf.org/programs -->
    - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://www.slolaf.org/programs -->
    - También operaclinics at various Senior Centers and similar sites
@@ -3090,7 +3090,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="SESLOC-Credit-Union">SESLOC Credit Union</a>
 
 - **Sitio web:** [sesloc.org](https://www.sesloc.org/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.120489" data-lon="-120.605442" data-zoom="17" data-label="SESLOC Credit Union">1399 Grand Ave., Arroyo Grande</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
    - <a href="#" class="map-link" data-lat="35.473958" data-lon="-120.654657" data-zoom="17" data-label="SESLOC Credit Union">8380 El Camino Real, Atascadero</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
    - <a href="#" class="map-link" data-lat="35.300241" data-lon="-120.658679" data-zoom="16" data-label="SESLOC Credit Union">1 Grand Ave. Bldg. 65, Cal Poly</a> (closed during academic break periods) <!-- Source: https://www.sesloc.org/member-services/locations/ -->
@@ -3191,7 +3191,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="SLO-County-Behavioral-Health">SLO County Behavioral Health</a>
 
 - **Sitio web:** [slocounty.ca.gov/departments/health-agency/behavioral-health](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Main Office: <a href="#" class="map-link" data-lat="35.274722" data-lon="-120.646040" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave., SLO</a> — [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
    - Arroyo Grande: <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Behavioral Health">1350 Grand Ave.</a> — [805-474-2154](tel:+1-805-474-2154) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
       - Services Affirming Family Empowerment: <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SLO County Department of Social Services">1086 E. Grand Ave.</a> — [805-474-2105](tel:+1-805-474-2105) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
@@ -3223,7 +3223,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="SLO-County-Clerk-Recorder">SLO County Clerk-Recorder</a>
 
 - **Sitio web:** [slocounty.ca.gov/departments/clerk-recorder](https://www.slocounty.ca.gov/departments/clerk-recorder)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.489136" data-lon="-120.663893" data-zoom="17" data-label="SLO County Clerk-Recorder">6565 Capistrano Ave., Second Floor, Atascadero</a> <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
    - <a href="#" class="map-link" data-lat="35.282079" data-lon="-120.660193" data-zoom="17" data-label="SLO County Clerk-Recorder">1055 Monterey St. #D120, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
 - **Teléfono:**
@@ -3340,7 +3340,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 > *Vea también [**SLO County Health Department**](#SLO-County-Health-Department)*
 
 - **Sitio web:** [slocounty.ca.gov/departments/health-agency/public-health](https://www.slocounty.ca.gov/departments/health-agency/public-health)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.274940" data-lon="-120.646298" data-zoom="17" data-label="SLO County Public Health Department">2180 Johnson Ave, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
    - <a href="#" class="map-link" data-lat="35.274391" data-lon="-120.646730" data-zoom="17" data-label="SLO County Public Health Department">2191 Johnson Ave, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
    - <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Behavioral Health">805 4th St., Paso Robles</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
@@ -3451,7 +3451,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="SLO-Legal-Assistance-Foundation">SLO Legal Assistance Foundation (SLOLAF)</a>
 
 - **Sitio web:** [slolaf.org](https://www.slolaf.org/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="SLO Legal Assistance Foundation">3232 S. Higuera St. #101D, SLO</a> <!-- Source: https://www.slolaf.org/ -->
    - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="SLO Legal Assistance Foundation">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://www.slolaf.org/ -->
 - **Teléfono:** [805-543-5140](tel:+1-805-543-5140) <!-- Source: https://www.slolaf.org/ -->
@@ -3508,7 +3508,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="SLO-Superior-Court">SLO Superior Court</a>
 
 - **Sitio web:** [slo.courts.ca.gov](https://www.slo.courts.ca.gov/)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - Civil & Family Law Branch: <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Superior Court">1050 Monterey St. Rm 220, SLO</a> <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
    - Criminal Branch: <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="SLO Superior Court">1050 Monterey St. Rm 220, SLO</a> <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
    - Grover Beach Branch: <a href="#" class="map-link" data-lat="35.119856" data-lon="-120.612030" data-zoom="17" data-label="SLO Superior Court">214 S. 16th St., Grover Beach</a> <!-- Source: https://www.slo.courts.ca.gov/general-information/location-contact-info -->
@@ -3878,7 +3878,7 @@ There are several urgent care options, including:
 
 <!-- Source: http://slocounty.ca.gov/Departments/Veterans-Services -->
 - **Sitio web:** [slocounty.ca.gov/Departments/Veterans-Services](https://www.slocounty.ca.gov/departments/veterans-services)
-- **Ubicaciónes:**
+- **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.124547" data-lon="-120.589385" data-zoom="17" data-label="Veterans Services">800 West Branch St., Arroyo Grande</a> (currently closed for renovations) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
    - <a href="#" class="map-link" data-lat="35.608124" data-lon="-120.655868" data-zoom="17" data-label="Veterans Services">240 Scott St., Paso Robles</a> (Ma–J 8am–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/contact-us -->
    - <a href="#" class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services">801 Grand Ave., SLO</a> (diariamente 8am–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/contact-us -->
