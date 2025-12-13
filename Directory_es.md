@@ -3835,7 +3835,7 @@ Hay varias opciones de atención de urgencias, incluyendo:
 - **Teléfono:** [805-466-1330](tel:+1-805-466-1330) <!-- Source: https://www.facebook.com/healthylife56/ -->
 - **Horario:** L–S 7am–6:30pm, D 8am–3:30pm <!-- Source: https://www.facebook.com/healthylife56/ -->
 - **Cómo obtener el servicio:** Se aceptan visitas sin cita hasta 30 minutos antes del cierre
-- Notas: Acepta Medicare y Medi-Cal; most insurances accepted — call to verify coverage
+- Notas: Acepta Medicare y Medi-Cal; se acepta la mayoría de los seguros — llame para verificar cobertura
 
 ## <a id="Urgent-Care-of-Morro-Bay">Urgent Care of Morro Bay</a>
 
@@ -3879,13 +3879,13 @@ Hay varias opciones de atención de urgencias, incluyendo:
 <!-- Source: http://slocounty.ca.gov/Departments/Veterans-Services -->
 - **Sitio web:** [slocounty.ca.gov/Departments/Veterans-Services](https://www.slocounty.ca.gov/departments/veterans-services)
 - **Ubicaciones:**
-   - <a href="#" class="map-link" data-lat="35.124547" data-lon="-120.589385" data-zoom="17" data-label="Veterans Services">800 West Branch St., Arroyo Grande</a> (currently closed for renovations) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
+   - <a href="#" class="map-link" data-lat="35.124547" data-lon="-120.589385" data-zoom="17" data-label="Veterans Services">800 West Branch St., Arroyo Grande</a> (actualmente cerrado por renovaciones) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
    - <a href="#" class="map-link" data-lat="35.608124" data-lon="-120.655868" data-zoom="17" data-label="Veterans Services">240 Scott St., Paso Robles</a> (Ma–J 8am–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/contact-us -->
    - <a href="#" class="map-link" data-lat="35.288803" data-lon="-120.652687" data-zoom="17" data-label="Veterans Services">801 Grand Ave., SLO</a> (diariamente 8am–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/contact-us -->
 - **Teléfono:** [805-781-5766](tel:+1-805-781-5766) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
 - **Correo electrónico:** [slovets@co.slo.ca.us](mailto:slovets@co.slo.ca.us)
-- **Cómo obtener el servicio:** In-person and phone appointments only; no se aceptan visitas sin cita; book appointments [online](https://sanluisobispocountyveteransservices.as.me/schedule/970de54e) or by phone
-- Notas: SLO office has a small [food pantry](https://www.slocounty.ca.gov/departments/veterans-services/veterans-services-food-pantry)
+- **Cómo obtener el servicio:** Solo citas en persona y por teléfono; no se aceptan visitas sin cita; reserve citas [en línea](https://sanluisobispocountyveteransservices.as.me/schedule/970de54e) o por teléfono
+- Notas: La oficina de SLO tiene una pequeña [despensa de alimentos](https://www.slocounty.ca.gov/departments/veterans-services/veterans-services-food-pantry)
 
 <!-- Not referenced anywhere else
 ## Veterans Services Collaborative
@@ -3924,7 +3924,7 @@ Hay varias opciones de atención de urgencias, incluyendo:
 - **Sitio web:** [smartsharehousingsolutions.org/co-living-collaborative](https://www.smartsharehousingsolutions.org/co-living-collaborative)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.278012" data-lon="-120.669144" data-zoom="17" data-label="Waterman Village">466 Dana St., SLO</a> <!-- Source: https://www.smartsharehousingsolutions.org/co-living-collaborative -->
 - **Teléfono:** [805-215-5474](tel:+1-805-215-5474) <!-- Source: https://www.smartsharehousingsolutions.org/co-living-collaborative -->
-- Notas: A project of [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions)
+- Notas: Un proyecto de [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions)
 
 ## We Care Foodshare
 
@@ -3937,7 +3937,7 @@ Hay varias opciones de atención de urgencias, incluyendo:
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.274108" data-lon="-120.645697" data-zoom="17" data-label="Welcome Home Village">Health Agency Campus, intersection of Johnson Ave. & Bishop St., SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village -->
 - **Teléfono:** [805-591-4544](tel:+1-805-591-4544) (Margaret Shepard-Moore, Program Manager) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village -->
 - **Correo electrónico:** [mshepard-moore@co.slo.ca.us](mailto:mshepard-moore@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village -->
-- **Cómo obtener el servicio:** Through the [**Coordinated Entry System (CES)**](#CES) or contact City of SLO Homelessness Response Team for outreach
+- **Cómo obtener el servicio:** A través del [**Coordinated Entry System (CES)**](#CES) o contacte al Equipo de Respuesta a la Falta de Vivienda de la Ciudad de SLO para alcance
 - Notas:
    - operado por [**Refugio del Buen Samaritano**](#Good-Samaritan-Shelter)
 
@@ -3962,9 +3962,9 @@ Hay varias opciones de atención de urgencias, incluyendo:
    - Text: [888-417-6180](sms:+1-888-417-6180) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - **Horario:** L–J 8am–5pm; V 8am–4:30pm (closed on the last Wednesday of the month) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - **Cómo obtener el servicio:** solo con cita previa (llame o envíe mensaje de texto to make an appointment) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-- Eligibility: This program is restricted to people for whom both of the following requirements are true:
-   - You are pregnant, breastfeeding, gave birth or had a pregnancy loss in the past six months, or you care for a child under the age of five
-   - And you live in California and have income below a certain threshold, or receive Medi-Cal, [CalWORKs](#CalWORKs), or CalFresh benefits.
+- Elegibilidad: Este programa está restringido a personas para quienes ambos de los siguientes requisitos son verdaderos:
+   - Está embarazada, amamantando, dio a luz o tuvo una pérdida de embarazo en los últimos seis meses, o cuida de un niño menor de cinco años
+   - Y vive en California y tiene ingresos por debajo de cierto umbral, o recibe beneficios de Medi-Cal, [CalWORKs](#CalWORKs), o CalFresh.
 
 <a id="Womenade"><!-- TBD: Womenade groups are distinct organizations, not branches of the same organization --></a>
 
@@ -3993,7 +3993,7 @@ Hay varias opciones de atención de urgencias, incluyendo:
 | <a href="#" class="map-link" data-lat="35.318418" data-lon="-120.715209" data-zoom="17" data-label="Woods Human Society">875 Oklahoma Ave, SLO</a> | [805-543-9316](tel:+1-805-543-9316) |
 
 - **Correo electrónico:** [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) (Robin Coleman, Community Engagement Manager)
-- **Horario:** (adoption) diariamente 11am–4pm (Atascadero) or diariamente mediodía–4pm (SLO) <!-- Source: https://woodshumanesociety.org/contact-us/ -->
+- **Horario:** (adopción) diariamente 11am–4pm (Atascadero) or diariamente mediodía–4pm (SLO) <!-- Source: https://woodshumanesociety.org/contact-us/ -->
 
 ## YMCA
 
