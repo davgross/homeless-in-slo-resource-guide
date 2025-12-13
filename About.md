@@ -48,34 +48,34 @@ The button appears when your browser supports direct installation.
 
 ### iPhone or iPad (Safari)
 
-1. Open this page in Safari (the default web browser)
-2. Tap the share button (the square with an up arrow) at the bottom of the screen
-3. Scroll down and tap **Add to Home Screen**
-4. Tap **Add** in the top right corner
+1. Open this page in Safari (the default web browser).
+2. Tap the share button (the square with an up arrow) at the bottom of the screen.
+3. Scroll down and tap **Add to Home Screen**.
+4. Tap **Add** in the top right corner.
 
 *Note: On iPhone/iPad you must use Safari for this feature to work. Other browsers like Chrome or Firefox do not support installing web apps on iOS.*
 
 ### Android (Chrome)
 
-1. Tap the menu button (**⋮**) in the top right corner
-2. Tap **Add to Home screen** or **Install app**
-3. Tap **Install** to confirm
+1. Tap the menu button (**⋮**) in the top right corner.
+2. Tap **Add to Home screen** or **Install app**.
+3. Tap **Install** to confirm.
 
 ### Android (Firefox)
 
-1. Tap the menu button (**⋮**)
-2. Tap **Install** or **Add to Home screen**
+1. Tap the menu button (**⋮**).
+2. Tap **Install** or **Add to Home screen**.
 
 ### Android (Samsung Internet)
 
-1. Tap the menu button (**☰**) at the bottom
-2. Tap **Add page to** then **Home screen**
+1. Tap the menu button (**☰**) at the bottom.
+2. Tap **Add page to** then **Home screen**.
 
 ### Windows, Mac, or Linux (Chrome, Edge, or Brave)
 
 1. Look for an install icon in the address bar (a monitor with a down arrow), or
-2. Click the browser menu (**⋮** in Chrome/Brave, or **⋯** in Edge) and look for **Install…**
-3. Click **Install** to confirm
+2. Click the browser menu (**⋮** in Chrome/Brave, or **⋯** in Edge) and look for **Install…**.
+3. Click **Install** to confirm.
 
 ### Firefox on Desktop
 
@@ -93,9 +93,9 @@ From the menu bar, select **File → Add to Dock**, or bookmark this page with <
 VivaSLO tries to be as accurate and helpful as possible.
 If you find outdated information, errors, or want to suggest improvements:
 
-- Click the feedback button (💬) in the bottom-right corner of the screen
-- Complete the feedback form with details about the issue or suggestion
-- Click “Send Feedback” to submit your message
+- Click the feedback button (💬) in the bottom-right corner of the screen.
+- Complete the feedback form with details about the issue or suggestion.
+- Click **Send Feedback** to submit your message.
 
 Your feedback helps keep this resource current and useful for everyone.
 

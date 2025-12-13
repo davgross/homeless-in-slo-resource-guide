@@ -546,7 +546,6 @@
       - [800-952-5544](tel:+1-800-952-5544) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
       - [916-324-1313](tel:+1-916-324-1313) (voice) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
       - [916-558-5673](tel:+1-916-558-5673) (TTY) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
-      - Source: [dor.ca.gov](https://www.dor.ca.gov/Home/ContactUs)
 - **How to access:** No walk-ins. Call them to schedule an Orientation, or complete a form on their website.
 - Notes:
    - Can refer you to the “Supported Employment” program
@@ -3094,8 +3093,9 @@ If you see one listed here that is no longer in service, please use the feedback
 | Location | Hours |
 | -------- | ----- |
 | <a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="SLO Bangers">6370 Atascadero Ave., Atascadero</a> | Su 4–6pm |
+| <a href="#" class="map-link" data-lat="35.119206" data-lon="-120.611842" data-zoom="17" data-label="SLO Bangers">286 S. 16th St. Grover Beach</a>     | Th 6–8pm |
 | <a href="#" class="map-link" data-lat="35.365706" data-lon="-120.844141" data-zoom="17" data-label="SLO Bangers">760 Morro Bay Blvd., Morro Bay</a>   | M 2–4pm |
-| <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="SLO Bangers">1134 Black Oak Dr., Paso Robles</a>  | Tu 4:30–5:30pm |
+| <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="SLO Bangers">1134 Black Oak Dr., Paso Robles</a>  | Tu 4–5pm |
 | <a href="#" class="map-link" data-lat="35.274319" data-lon="-120.646781" data-zoom="17" data-label="SLO Bangers">2191 Johnson Ave., SLO</a>           | W 5:30–8:15pm |
 
 - **Phone:** [805-458-0123](tel:+1-805-458-0123) <!-- Source: https://slobangers.com/contact.html -->
@@ -3104,9 +3104,7 @@ If you see one listed here that is no longer in service, please use the feedback
 ## <a id="SLO-Cal-Careers-Center">SLO Cal Careers Center</a>
 
 - **Website:** [SLOCalCareers.org](https://SLOCalCareers.org)
-- **Locations:**
-   - <a href="#" class="map-link" data-lat="35.251551" data-lon="-120.668077" data-zoom="18" data-label="SLO Cal Careers Center">3563 Empleo Street, SLO</a>
-   - Youth Services: <a href="#" class="map-link" data-lat="35.257929" data-lon="-120.646915" data-zoom="17" data-label="SLO Cal Careers Youth Services Center">3450 Broad St. #103a, SLO</a>
+- **Location:** <a href="#" class="map-link" data-lat="35.251551" data-lon="-120.668077" data-zoom="18" data-label="SLO Cal Careers Center">3563 Empleo Street, SLO</a>
 - **Phone:** [805-439-2557](tel:+1-805-439-2557)
 - **Email:**
    - [SLOCal@eckerd.org](mailto:SLOCal@eckerd.org)
