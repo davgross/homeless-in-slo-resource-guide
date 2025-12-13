@@ -2698,13 +2698,13 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [888-898-3806](tel:+1-888-898-3806) <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast -->
 - **Correo electrónico:** [health.center@ppcentralcoast.org](mailto:health.center@ppcentralcoast.org) <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/contact-us -->
 - **Horario:** L 9am–6pm, Ma–S 8am–5pm (closed some holidays) <!-- Source: https://www.plannedparenthood.org/health-center/california/san-luis-obispo/93401/san-luis-obispo-health-center-2252-90170#hours-walk-ins -->
-- Notas: entry-point for “FamilyPACT”
+- Notas: punto de entrada para "FamilyPACT"
 
 ## <a id="Port-San-Luis-Harbor-District">Port San Luis Harbor District</a>
 
 - **Sitio web:** [portsanluis.com](https://www.portsanluis.com/)
 - **Teléfono:** [805-595-5400](tel:+1-805-595-5400) <!-- Source: https://www.portsanluis.com/2235/Contact-Us -->
-- **Horario** (administrative): L–V 8am–4:30pm (cerrado mediodía–1pm) <!-- Source: https://www.portsanluis.com/2235/Contact-Us -->
+- **Horario** (administrativo): L–V 8am–4:30pm (cerrado mediodía–1pm) <!-- Source: https://www.portsanluis.com/2235/Contact-Us -->
 - Coastal Gateway Multi-Purpose Room
    - **Sitio web:** [portsanluis.com/2164/Coastal-Gateway-Multi-Purpose-Room](https://www.portsanluis.com/2164/Coastal-Gateway-Multi-Purpose-Room)
    - **Ubicación:** <a href="#" class="map-link" data-lat="35.172545" data-lon="-120.756491" data-zoom="17" data-label="Port San Luis Harbor District">3900 Avila Beach Dr., Avila Beach</a> <!-- Source: https://www.portsanluis.com/2164/Coastal-Gateway-Multi-Purpose-Room -->
@@ -2739,8 +2739,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:**
    - [805-544-4004](tel:+1-805-544-4004) (principal 40 Prado)
    - [805-440-6168](tel:+1-805-440-6168) (Cecil Hale, Safe Parking inquiries)
-- **Cómo obtener el servicio:** Must first complete intake at [**40 Prado Homeless Services Center**](#40-Prado), then you are referred to the rotating program on a case-by-case basis
-- **Horario:** 7pm–7am overnight only
+- **Cómo obtener el servicio:** Debe primero completar la admisión en [**40 Prado Homeless Services Center**](#40-Prado), luego será referido al programa rotativo caso por caso
+- **Horario:** 7pm–7am solo durante la noche
 
 ## Public Health Department
 
@@ -2767,22 +2767,22 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - [805-503-2984](tel:+1-805-503-2984) (Amy Nielson, inquiries) <!-- Source: https://capslo.org/40-prado/ -->
 - **Correo electrónico:** [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org) <!-- Source: https://capslo.org/rcp/ -->
 - **Horario:** 24/7 <!-- Source: https://capslo.org/rcp/ -->
-- **Cómo obtener el servicio:** Must be referred by a medical professional <!-- Source: https://capslo.org/rcp/ -->
+- **Cómo obtener el servicio:** Debe ser referido por un profesional médico <!-- Source: https://capslo.org/rcp/ -->
 
 ## <a id="Recycle-101">Recycle 101</a>
 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.098794" data-lon="-120.612028" data-zoom="17" data-label="Recycle 101 — Oceano">1909 Front St., Oceano</a> <!-- Source: https://recycleca.org/business/recycle-101-inc -->
 - **Teléfono:** [805-363-1034](tel:+1-805-363-1034) <!-- Source: https://recycleca.org/business/recycle-101-inc -->
 - **Horario:** Mi 9am–4pm, L/Ma/J/V/S 9am–mediodía, L/Ma/J/V 12:30–4pm <!-- Source: https://recycleca.org/business/recycle-101-inc -->
-- Notas: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
+- Notas: Reciclaje de CRV por dinero en efectivo (5¢ para contenedores <24oz, 10¢ para ≥24oz)
 
 ## <a id="Red-Cross">Red Cross</a>
 
 - **Sitio web:** [redcross.org/local/california/central-california.html](https://www.redcross.org/local/california/central-california.html)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.253953" data-lon="-120.666367" data-zoom="17" data-label="Red Cross">225 Prado Rd. #A</a> <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
 - **Teléfono:**
-   - Local office: [805-543-0696](tel:+1-805-543-0696) <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
-   - 24/7 national line: [800-733-2767](tel:+1-800-733-2767)
+   - Oficina local: [805-543-0696](tel:+1-805-543-0696) <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
+   - Línea nacional 24/7: [800-733-2767](tel:+1-800-733-2767)
 - **Horario:** L–V 9am–4pm <!-- Source: https://www.redcross.org/local/california/central-california/about-us/contact-us.html -->
 
 ## <a id="Red-Rover-Relief">Red Rover Relief</a>
@@ -2801,7 +2801,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Correo electrónico:** [office@refugechurch.info](mailto:office@refugechurch.info) <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
 - **Horario:**
    - Food and clothing pantry: Ma 5–6pm, Mi 6–6:30pm<!-- Source: https://refugechurch.info/connect/open-arms-ministry -->, or con cita previa
-   - Refuge recovery (for anyone struggling with addiction): Ma 6pm <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
+   - Refuge recovery (para cualquier persona que lucha con la adicción): Ma 6pm <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
    - Free meals: Ma 5pm/Mi 6pm dinner
    - Oficina: L–V 8am–5pm
 
@@ -2838,7 +2838,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Renovate Church">2075 Johnson Ave., SLO</a> <!-- Source: https://www.renovateslo.com/ -->
 - **Teléfono:** [805-543-0945](tel:+1-805-543-0945)
 - **Correo electrónico:** [office@renovateslo.com](mailto:office@renovateslo.com)
-- Hours (food pantry): L 4–6pm
+- Horario (despensa de alimentos): L 4–6pm
 
 ## <a id="Restoration-Church">Restoration Church</a>
 
@@ -2860,14 +2860,14 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
       - **Teléfono:** [805-439-1689](tel:+1-805-439-1689) <!-- Source: https://www.thebridgecafe.org/ -->
       - **Correo electrónico:** [info@thebridgecafe.org](mailto:info@thebridgecafe.org) <!-- Source: https://www.thebridgecafe.org/ -->
       - **Horario:** L–V 7am–3pm <!-- Source: https://www.thebridgecafe.org/ -->
-   - Operates a housing program ([restorativepartners.org/housing](https://restorativepartners.org/housing/)):
-      - Anna’s Home (Paso Robles): Supports 5 women and their children with employment support, job management, financial literacy, life skills, and permanent housing goals <!-- Source: https://restorativepartners.org/housing/ -->
-      - Hope House (Los Osos): For returning women, offers 24/7 supervision, transportation, 12-step meetings, life skills training, mentorship, outpatient treatment <!-- Source: https://restorativepartners.org/housing/ -->
-      - Rapha House (Los Osos): 8-bed home for men focusing on recovery from addiction, restorative justice practices, clean and sober lifestyle <!-- Source: https://restorativepartners.org/housing/ -->
-      - LyonHeart Place (San Luis Obispo): Men’s State Parolee Reentry Housing Program with Joseph House and Francis House providing clinically structured and supportive environment <!-- Source: https://restorativepartners.org/housing/ -->
+   - Opera un programa de vivienda ([restorativepartners.org/housing](https://restorativepartners.org/housing/)):
+      - Anna's Home (Paso Robles): Apoya a 5 mujeres y sus hijos con apoyo laboral, gestión de empleo, educación financiera, habilidades para la vida y objetivos de vivienda permanente <!-- Source: https://restorativepartners.org/housing/ -->
+      - Hope House (Los Osos): Para mujeres que regresan, ofrece supervisión 24/7, transporte, reuniones de 12 pasos, capacitación en habilidades para la vida, mentoría, tratamiento ambulatorio <!-- Source: https://restorativepartners.org/housing/ -->
+      - Rapha House (Los Osos): Hogar de 8 camas para hombres enfocado en la recuperación de la adicción, prácticas de justicia restaurativa, estilo de vida limpio y sobrio <!-- Source: https://restorativepartners.org/housing/ -->
+      - LyonHeart Place (San Luis Obispo): Programa de vivienda de reingreso para hombres en libertad condicional estatal con Joseph House y Francis House proporcionando un ambiente estructurado clínicamente y de apoyo <!-- Source: https://restorativepartners.org/housing/ -->
       - **Teléfono:** [805-234-9074](tel:+1-805-234-9074)
       - **Correo electrónico:** [housing@restorativepartners.org](mailto:housing@restorativepartners.org) <!-- Source: https://restorativepartners.org/contact/ -->
-      - **Cómo obtener el servicio:** contact Restorative Partners to get on the waiting list
+      - **Cómo obtener el servicio:** contacte a Restorative Partners para agregarse a la lista de espera
 
 ## <a id="Ride-On-Transportation">Ride-On Transportation</a>
 
@@ -2880,11 +2880,11 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - Veterans Express Shuttle
    - **Teléfono:** [805-541-8747](tel:+1-805-541-8747) <!-- Source: https://www.ride-on.org/ride-on-veterans-express-shuttle.php -->
 - **Horario:** L–V 6:30am–5:00pm (phone hours) <!-- Source: https://www.ride-on.org/ride-on-ride-request.php -->
-- **Cómo obtener el servicio:** Call, or [submit a ride request online](https://www.ride-on.org/ride-on-ride-request.php)
+- **Cómo obtener el servicio:** Llame, o [envíe una solicitud de viaje en línea](https://www.ride-on.org/ride-on-ride-request.php)
 
 ## RISE
 
-> *Former name of [**Lumina Alliance**](#Lumina-Alliance)*
+> *Nombre anterior de [**Lumina Alliance**](#Lumina-Alliance)*
 
 > *For “Refugee and Immigrant Services Education” vea [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
 
@@ -2899,7 +2899,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="RVs-for-Veterans">RVs for Veterans</a>
 
 - **Teléfono:** [805-234-5478](tel:+1-805-234-5478) <!-- Source: https://hopesvillageofslo.com/programs -->
-- Nota: a project of [Hope’s Village](#Hopes-Village)
+- Nota: un proyecto de [Hope's Village](#Hopes-Village)
 
 ## <a id="SAFE-Family-Resource-Centers">SAFE Family Resource Centers</a>
 
@@ -2913,7 +2913,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 | <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">920 W. Tefft St., Nipomo</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) |
 
 - **Correo electrónico:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
-- **Cómo obtener el servicio:** Se aceptan visitas sin cita; appointments preferred.
+- **Cómo obtener el servicio:** Se aceptan visitas sin cita; se prefieren citas.
 - Nota:
    - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Vea también [**Link Family Resource Center**](#Link-Family-Resource-Center)
@@ -2926,7 +2926,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-270-4023](tel:+1-805-270-4023) <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
 - **Correo electrónico:** [stbarnabasthriftstore@gmail.com](mailto:stbarnabasthriftstore@gmail.com) <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
 - **Horario:** Ma–V 10am–4pm, S mediodía–4pm <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
-   - “Bag Day” sale on the last Friday of the month
+   - Venta del "Bag Day" el último viernes del mes
 
 ## <a id="St-Josephs-Church">Saint Joseph’s Church</a>
 
@@ -2960,7 +2960,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 | Ubicación | Teléfono | Food Pantry | Notes |
 | -------- | ----- | ----------- | ----- |
-| <a href="#" class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">815 Islay St., SLO</a> <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | [805-544-2401](tel:+1-805-544-2401) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | Mi/V 10am–mediodía, J 2–4pm <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | Operates a “Rapid Rehousing Program” |
+| <a href="#" class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">815 Islay St., SLO</a> <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | [805-544-2401](tel:+1-805-544-2401) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | Mi/V 10am–mediodía, J 2–4pm <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | Opera un "Programa de Realojamiento Rápido" |
 | <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">1550 W. Branch St., Arroyo Grande</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-481-0278](tel:+1-805-481-0278) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | L/Mi/V 10am–2pm | |
 | <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">8420 El Camino Real</a> | [805-466-7201](tel:+1-805-466-7201) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | |
 | <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">540 Quintana Rd., Morro Bay</a> | [805-772-7062](tel:+1-805-772-7062) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | (was temporarily closed as of September 2025) <!-- says Eva -DG --> |
@@ -2987,7 +2987,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - Clínica de Inmigración: [805-582-3600](tel:+1-805-582-3600) <!-- Source: https://montereylaw.edu/_resources/images/SLOCL%20Clinics%20-%20Spanish.pdf -->
 - **Correo electrónico:** [mclworkshops@montereylaw.edu](mailto:mclworkshops@montereylaw.edu)
 - **Horario:** L–J 9am–3pm (scheduling); consultations Ma 4:30–6:30pm
-- **Cómo obtener el servicio:** Telephone or Zoom appointments only <!-- Source: https://montereylaw.edu/clinics/indexslocl.html -->
+- **Cómo obtener el servicio:** Solo citas telefónicas o por Zoom <!-- Source: https://montereylaw.edu/clinics/indexslocl.html -->
 
 ## <a id="Cal-Poly-Community-Counseling-Service">San Luis Obispo Counseling Service at Cal Poly</a>
 
@@ -2996,7 +2996,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Sitio web:** [slocounselingservice.calpoly.edu/about](https://slocounselingservice.calpoly.edu/about)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Cotchett Education Bldg. 2, Room 125, Cal Poly SLO</a> <!-- Source: https://slocounselingservice.calpoly.edu/faq -->
 - **Teléfono:** [805-756-1532](tel:+1-805-756-1532) <!-- Source: https://slocounselingservice.calpoly.edu/about -->
-- **Cómo obtener el servicio:** No walk-ins; Call to make an appointment. <!-- Source: https://slocounselingservice.calpoly.edu/ -->
+- **Cómo obtener el servicio:** No se aceptan visitas sin cita; llame para hacer una cita. <!-- Source: https://slocounselingservice.calpoly.edu/ -->
 
 <!-- Not referenced anywhere else yet
 ## <a id="SLO-Veterans-Services-Collaborative">San Luis Obispo Veterans Services Collaborative</a>
@@ -3011,13 +3011,13 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="Santa-Margarita-Senior-Center">Santa Margarita Area Senior Citizens Club</a>
 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.392015" data-lon="-120.605121" data-zoom="17" data-label="Senior Center">22202 “H” St., Santa Margarita</a>
-   - Nota: some maps show the address as 2201 “H” St.
+   - Nota: algunos mapas muestran la dirección como 2201 "H" St.
 - **Teléfono:**
    - [805-438-5854](tel:+1-805-438-5854)
    - [805-438-3482](tel:+1-805-438-3482) <!-- Source: https://www.facebook.com/profile.php?id=100064940220256 -->
 - Notas:
    - Un sitio de servicio de almuerzo para [**Meals that Connect**](#Meals-that-Connect)
-   - A [**SLO Food Bank**](#SLO-Food-Bank) neighborhood food distribution site
+   - Un sitio de distribución de alimentos del vecindario de [**SLO Food Bank**](#SLO-Food-Bank)
 
 ## <a id="Santa-Margarita-KOA-Holiday">Santa Margarita KOA Holiday</a>
 
@@ -3054,7 +3054,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-434-2449](tel:+1-805-434-2449) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
 - **Correo electrónico:** [info@senecacenter.org](mailto:info@senecacenter.org) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
 - Notas:
-   - formerly called “Kinship Center”
+   - anteriormente llamado "Kinship Center"
    - offers [**Administración de la Atención Mejorada**](#Enhanced-Care-Management) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
 
 ## <a id="Senior-Connection">Senior Connection</a>
@@ -3072,7 +3072,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="Senior-Go">Senior Go!</a>
 
 - **Sitio web:** [sloseniorgo.org](https://www.sloseniorgo.org/)
-- **Ubicaciones:** Throughout SLO County <!-- Source: https://www.sloseniorgo.org/ -->
+- **Ubicaciones:** En todo el Condado de SLO <!-- Source: https://www.sloseniorgo.org/ -->
 - **Teléfono:** [805-473-3333](tel:+1-805-473-3333) <!-- Source: https://www.sloseniorgo.org/ -->
 - **Horario:** L–V 9am–5pm, S 10am–3pm (closed major holidays) <!-- Source: https://www.sloseniorgo.org/ -->
 
@@ -3081,7 +3081,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">3232 S. Higuera St. #101D, SLO</a> <!-- Source: https://www.slolaf.org/programs -->
    - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://www.slolaf.org/programs -->
-   - También operaclinics at various Senior Centers and similar sites
+   - También opera clínicas en varios centros para adultos mayores y sitios similares
 - **Teléfono:** [805-543-5140](tel:+1-805-543-5140) <!-- Source: https://www.slolaf.org/seniorlaw -->
 - **Correo electrónico:** [intake@slolaf.org](mailto:intake@slolaf.org) <!-- Source: https://www.slolaf.org/seniorlaw -->
 - **Horario:** L–V 8:30am–5pm
@@ -3093,7 +3093,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.120489" data-lon="-120.605442" data-zoom="17" data-label="SESLOC Credit Union">1399 Grand Ave., Arroyo Grande</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
    - <a href="#" class="map-link" data-lat="35.473958" data-lon="-120.654657" data-zoom="17" data-label="SESLOC Credit Union">8380 El Camino Real, Atascadero</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
-   - <a href="#" class="map-link" data-lat="35.300241" data-lon="-120.658679" data-zoom="16" data-label="SESLOC Credit Union">1 Grand Ave. Bldg. 65, Cal Poly</a> (closed during academic break periods) <!-- Source: https://www.sesloc.org/member-services/locations/ -->
+   - <a href="#" class="map-link" data-lat="35.300241" data-lon="-120.658679" data-zoom="16" data-label="SESLOC Credit Union">1 Grand Ave. Bldg. 65, Cal Poly</a> (cerrado durante los períodos de descanso académico) <!-- Source: https://www.sesloc.org/member-services/locations/ -->
    - <a href="#" class="map-link" data-lat="35.622969" data-lon="-120.659648" data-zoom="17" data-label="SESLOC Credit Union">705 Golden Hill Rd., Paso Robles</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
    - <a href="#" class="map-link" data-lat="35.250534" data-lon="-120.644817" data-zoom="17" data-label="SESLOC Credit Union">3807 Broad St., SLO</a> <!-- Source: https://www.sesloc.org/member-services/locations/ -->
 - **Teléfono:** [805-543-1816](tel:+1-805-543-1816) <!-- Source: https://www.sesloc.org/ -->
@@ -3603,7 +3603,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.311838" data-lon="-120.829993" data-zoom="17" data-label="Steve’s Recycling — Los Osos">1130 Los Osos Valley Rd., Los Osos</a> <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
 - **Teléfono:** [805-801-1627](tel:+1-805-801-1627) <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
 - **Horario:** S 9am–11am <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
-- Notas: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
+- Notas: Reciclaje de CRV por dinero en efectivo (5¢ para contenedores <24oz, 10¢ para ≥24oz)
 
 ## <a id="Sunny-Acres">Sunny Acres</a>
 
