@@ -98,9 +98,9 @@
    - También tiene una furgoneta móvil de divulgación:
       - Cada lunes alternativo, 1:30–4pm en [**40 Prado**](#40-Prado) en SLO<a href="#" class="map-link" data-lat="35.256495" data-lon="-120.672000" data-zoom="17" data-label="Access Support Network">Map</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - Martes 9:30–11:30am en <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">1320 Nipomo St. in SLO</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - los miércoles 11:30am–1:30pm en Paso Robles [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr.</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - los miércoles 3–6pm en Atascadero [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave.</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - segundo domingo del mes at the <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library on Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
+      - los miércoles 11:30am–1:30pm en Paso Robles [**ECHO**](#ECHO) Refugio (<a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr.</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - los miércoles 3–6pm en Atascadero [**ECHO**](#ECHO) Refugio (<a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave.</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - segundo domingo del mes en la <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library en Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
 - **Teléfono:** [805-781-3660](tel:+1-805-781-3660) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Correo electrónico:** [theasnsupp@gmail.com](mailto:theasnsupp@gmail.com) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Horario:** L–V 9am–5pm <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
@@ -194,11 +194,11 @@
    - Servicios de medicamentos:
       - M–Th: 6am–10am, 11am–3:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
       - F: 6am–10am, 11am–1:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
-      - Sa/Su/Holidays: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+      - S/D/Días festivos: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
    - Administrative:
       - M–Th: 6am–4pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
       - F: 6am–2:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
-      - Sa/Su/Holidays: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+      - S/D/Días festivos: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
 - **Cómo obtener el servicio:** Se aceptan visitas sin cita; admisiones el mismo día disponibles <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
 
 ### SLO city
@@ -209,15 +209,15 @@
 - **Horario:**
    - Servicios de medicamentos:
       - M–F: 6am–10am, 11am–1:30pm <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
-      - Sa/Su/Holidays: 6am–10am <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
+      - S/D/Días festivos: 6am–10am <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
    - Administrative:
       - M–F: 6am–2:30pm <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
-      - Sa/Su/Holidays: 6am–10am <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
+      - S/D/Días festivos: 6am–10am <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
 - **Cómo obtener el servicio:** Schedule a visit [here](https://book.ptc.care/CA-SANLUISOBISPO-OTP)
 
 ## <a id="Aevum">Aevum Home Health y Aevum Hospice Care</a>
 
-- **Websites:**
+- **Sitios web:**
    - Home Health: [aevumhomehealth.com](https://www.aevumhomehealth.com/)
    - Hospice Care: [aevumhospice.com](https://aevumhospice.com/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.283249" data-lon="-120.655908" data-zoom="17" data-label="Aevum Home Health">1302 Marsh St., SLO</a> <!-- Source: https://www.aevumhomehealth.com/ and https://aevumhospice.com/ -->
@@ -285,7 +285,7 @@
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | <a href="#" class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Alianza para Acceso Farmacéutico">345 S. Halcyon Rd.</a> (Arroyo Grande) | [805-489-4261 x4267](tel:+1-805-489-4261;ext=4267) | L.1pm–7pm |
-| <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alianza para Acceso Farmacéutico">1428 Phillips Lane #B4</a> (SLO, dentro deLa Fundación SLO Noor) | [805-548-0894](tel:+1-805-548-0894) | Ma.1pm–5pm |
+| <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alianza para Acceso Farmacéutico">1428 Phillips Lane #B4</a> (SLO, dentro de La Fundación SLO Noor) | [805-548-0894](tel:+1-805-548-0894) | Ma.1pm–5pm |
 
 - **Correo electrónico:** [Advocates@apameds.org](mailto:Advocates@apameds.org) <!-- Source: https://apameds.org/contact-us/ -->
 
@@ -350,7 +350,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.114628" data-lon="-120.600829" data-zoom="17" data-label="Arroyo Grande Recreation Services">1221 Ash St., Arroyo Grande</a> <!-- Source: https://arroyogrande.org/168/Recreation-Services -->
 - **Teléfono:** [805-473-5474](tel:+1-805-473-5474) <!-- Source: https://arroyogrande.org/168/Recreation-Services -->
 - **Correo electrónico:** [agrec@arroyogrande.org](mailto:agrec@arroyogrande.org)
-- **Horario:** M–Th 9am–5pm, V9am–1pm <!-- Source: https://arroyogrande.org/168/Recreation-Services --> (registro sin cita previa disponible)
+- **Horario:** M–Th 9am–5pm, V 9am–1pm <!-- Source: https://arroyogrande.org/168/Recreation-Services --> (registro sin cita previa disponible)
 
 ## ASN
 
@@ -1192,11 +1192,11 @@
 <!-- Source (location): https://coasthills.coop/resources/about/locations -->
 | Location | Hours |
 | -------- | ----- |
-| <a href="#" class="map-link" data-lat="35.121113" data-lon="-120.604811" data-zoom="17" data-label="CoastHills Credit Union">1360 E. Grand Ave., Arroyo Grande</a> | M–Th 9am–5pm, V9am–6pm, S.10am–1pm |
-| <a href="#" class="map-link" data-lat="35.479914" data-lon="-120.658349" data-zoom="17" data-label="CoastHills Credit Union">8900 Pueblo Ave., Atascadero</a> | M–Th 9am–5pm, V9am–6pm |
-| <a href="#" class="map-link" data-lat="35.036884" data-lon="-120.487468" data-zoom="17" data-label="CoastHills Credit Union">671 W. Tefft St. #6, Nipomo</a> | M–Th 9am–5pm, V9am–6pm |
-| <a href="#" class="map-link" data-lat="35.629040" data-lon="-120.691354" data-zoom="17" data-label="CoastHills Credit Union">1402 Spring St., Paso Robles</a> | M–Th 9am–5pm, V9am–6pm, S.10am–1pm |
-| <a href="#" class="map-link" data-lat="35.278378" data-lon="-120.662853" data-zoom="17" data-label="CoastHills Credit Union">751 Marsh St., SLO</a> | M–Th 9am–5pm, V9am–6pm |
+| <a href="#" class="map-link" data-lat="35.121113" data-lon="-120.604811" data-zoom="17" data-label="CoastHills Credit Union">1360 E. Grand Ave., Arroyo Grande</a> | M–Th 9am–5pm, V 9am–6pm, S. 10am–1pm |
+| <a href="#" class="map-link" data-lat="35.479914" data-lon="-120.658349" data-zoom="17" data-label="CoastHills Credit Union">8900 Pueblo Ave., Atascadero</a> | M–Th 9am–5pm, V 9am–6pm |
+| <a href="#" class="map-link" data-lat="35.036884" data-lon="-120.487468" data-zoom="17" data-label="CoastHills Credit Union">671 W. Tefft St. #6, Nipomo</a> | M–Th 9am–5pm, V 9am–6pm |
+| <a href="#" class="map-link" data-lat="35.629040" data-lon="-120.691354" data-zoom="17" data-label="CoastHills Credit Union">1402 Spring St., Paso Robles</a> | M–Th 9am–5pm, V 9am–6pm, S. 10am–1pm |
+| <a href="#" class="map-link" data-lat="35.278378" data-lon="-120.662853" data-zoom="17" data-label="CoastHills Credit Union">751 Marsh St., SLO</a> | M–Th 9am–5pm, V 9am–6pm |
 
 - **Teléfono:** [805-733-7600](tel:+1-805-733-7600) / [800-262-4488](tel:+1-800-262-4488) <!-- Source: https://coasthills.coop/ -->
 
@@ -1239,7 +1239,7 @@
    - partner in [**UndocSupport del Condado de SLO**](#SLO-County-UndocuSupport)
    - punto de entrada para el [**Coordinated Entry System (CES)**](#CES)
    - punto de entrada para el [**Administración de la Atención Mejorada**](#Enhanced-Care-Management)
-   - on board of “Emergency Food and Shelter Program”
+   - on board of “Emergency Food and Refugio Program”
 
 ## Community Counseling Service
 
@@ -1282,7 +1282,7 @@
 - **Cómo obtener el servicio:** “Immediate care” or “urgent care” centers accept walk-ins. Otherwise, make an appointment.
    - Accepts private pay, full- and partially-insured, Medi-Cal, and Medicare. Also offers a sliding fee scale based on income and family size to people without any health insurance. <!-- Source: https://www.communityhealthcenters.org/patient-resources/payment-options-test/ -->
 - Notas:
-   - También opera[**Healthcare for the Homeless Program**](#HCHP) at the [**40 Prado Homeless Services Center**](#40-Prado)
+   - También opera [**Healthcare for the Homeless Program**](#HCHP) en el [**40 Prado Homeless Services Center**](#40-Prado)
    - “CHC Transportation Services” is a door-to-door ride service to appointments ([877-743-3242](tel:+1-877-743-3242))
 <!-- Nota: Hours listed for urgent care location; other locations’ hours may vary - call individual locations for specific hours -->
 
@@ -1370,7 +1370,7 @@
    - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (South County Campus)
    - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
 - Notas:
-   - Basic Needs Office is in room 5014B of the SLO campus, abierto L/Ju/V9am–4pm, Tu 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - Basic Needs Office is in room 5014B of the SLO campus, abierto L/Ju/V 9am–4pm, Tu 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - The Paso Robles campus hosts a Cougar Food Pantry for students in room N1005, M–F 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - The SLO campus hosts a Cougar Food Pantry for students in room 5014A’s cafeteria, M–F 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programas están abiertos a otherwise unenrolled people
@@ -2591,7 +2591,7 @@
 - **Sitio web:** [slopeopleskitchen.org](https://www.slopeopleskitchen.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="People’s Kitchen">43 Prado Road, SLO</a> <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
 - **Correo electrónico:** [mnparker539@gmail.com](mailto:mnparker539@gmail.com) <!-- Source: https://www.slopeopleskitchen.org/contact-us -->
-- **Horario:** Daily at noon <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
+- **Horario:** Daily at mediodía <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
 - **Cómo obtener el servicio:** Come during serving time. <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
 
 ## <a id="Peoples-Self-Help-Housing">Peoples’ Self-Help Housing</a>
@@ -2815,8 +2815,8 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Sitio web:** [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)
 - **Ubicaciónes:**
-   - Santa Maria refugio de emergencia: <a href="#" class="map-link" data-lat="34.943820" data-lon="-120.441034" data-zoom="17" data-label="Good Samaritan Shelter">401 W. Morrison Ave., Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-   - Oficinas administrativas: <a href="#" class="map-link" data-lat="34.944295" data-lon="-120.440996" data-zoom="17" data-label="Good Samaritan Shelter">400 West Park, Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/ -->
+   - Santa Maria refugio de emergencia: <a href="#" class="map-link" data-lat="34.943820" data-lon="-120.441034" data-zoom="17" data-label="Good Samaritan Refugio">401 W. Morrison Ave., Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+   - Oficinas administrativas: <a href="#" class="map-link" data-lat="34.944295" data-lon="-120.440996" data-zoom="17" data-label="Good Samaritan Refugio">400 West Park, Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/ -->
 - **Teléfono:** Refugio de emergencia: [805-347-3338 x101](tel:+1-805-347-3338;ext=101) <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
 - **Correo electrónico:** Layne Harlow ([lharlow@goodsamaritanshelter.org](mailto:lharlow@goodsamaritanshelter.org))
 - **Horario:**
@@ -3415,7 +3415,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Sitio web:** [slocu.com](https://slocu.com/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.280049" data-lon="-120.659510" data-zoom="17" data-label="SLO Credit Union">1220 Osos St., SLO</a> <!-- Source: https://slocu.com/ -->
 - **Teléfono:** [805-543-5839](tel:+1-805-543-5839) <!-- Source: https://slocu.com/ -->
-- **Horario:** L–V 9am–4:30pm (lobby closed noon–2pm) <!-- Source: https://slocu.com/ -->
+- **Horario:** L–V 9am–4:30pm (lobby closed mediodía–2pm) <!-- Source: https://slocu.com/ -->
 
 ## <a id="SLO-Food-Bank">SLO Food Bank</a>
 
