@@ -124,7 +124,7 @@
 - **Sitio web:** [aclusocal.org](https://www.aclusocal.org/)
 - **Teléfono:**
    - [213-977-9500](tel:+1-213-977-9500) (main) <!-- Source: https://www.aclusocal.org/en/contact-us -->
-   - [213-977-5253](tel:+1-213-977-5253) (legal intake)
+   - [213-977-5253](tel:+1-213-977-5253) (admisión legal)
 - **Horario:** L–V 10am–7pm
 
 ## <a id="Enhanced-Care-Management">Administración de la Atención Mejorada</a> (ECM)
@@ -161,8 +161,8 @@
 - **Teléfono:** [805-781-1790](tel:+1-805-781-1790) (M–F 8am–5pm); [844-729-8011](tel:+1-844-729-8011) (fuera de horario); [911](tel:+1-911) (emergency) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
 - **Horario:** L–V 8am–4pm (and solo con cita previa 4–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
 - Notas:
-   - Can make referrals to [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
-   - Can make referrals to [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
+   - Puede hacer referencias a [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
+   - Puede hacer referencias a [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
 
 ## Adult School
 
@@ -191,7 +191,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.4472115" data-lon="-120.7045496" data-zoom="17" data-label="Aegis Treatment Centers (Atascadero)">6500 Morro Rd. Suites C & D, Atascadero</a> <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
 - **Teléfono:** [805-461-5212](tel:+1-805-461-5212) <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
 - **Horario:**
-   - Medication services:
+   - Servicios de medicamentos:
       - M–Th: 6am–10am, 11am–3:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
       - F: 6am–10am, 11am–1:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
       - Sa/Su/Holidays: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
@@ -207,7 +207,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.2740882" data-lon="-120.6464189" data-zoom="17" data-label="Aegis Treatment Centers (SLO)">1551 Bishop St. #520, SLO</a> <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
 - **Teléfono:** [805-461-5212](tel:+1-805-461-5212) <!-- Source: https://book.ptc.care/CA-SANLUISOBISPO-OTP -->
 - **Horario:**
-   - Medication services:
+   - Servicios de medicamentos:
       - M–F: 6am–10am, 11am–1:30pm <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
       - Sa/Su/Holidays: 6am–10am <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
    - Administrative:
@@ -237,7 +237,7 @@
 - **Horario:**
    - Oficina: L–Ju9am–4pm <!-- Source: https://agapeslo.church/contact -->
    - Despensa de alimentos: Tu 10–10:30am, Su Mediodía–12:30pm
-- Nota: “Men of Agape” serve a free meal at <a href="#" class="map-link" data-lat="35.269063" data-lon="-120.658325" data-zoom="17" data-label="Men of Agape">Meadow Park, SLO</a>, los jueves at 11am
+- Nota: “Men of Agape” sirven una comida gratis en <a href="#" class="map-link" data-lat="35.269063" data-lon="-120.658325" data-zoom="17" data-label="Men of Agape">Meadow Park, SLO</a>, los jueves at 11am
 
 ## Aging & Disability Resource Center (ADRC)
 
@@ -265,7 +265,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.2619723" data-lon="-120.6505945" data-zoom="17" data-label="Alano Club">3075 Broad Street, SLO</a> <!-- Source: https://sloalanoclub.org/ -->
 - **Teléfono:** [805-543-9817](tel:+1-805-543-9817) <!-- Source: https://sloalanoclub.org/ -->
 - **Correo electrónico:** [sloalanoclub@gmail.com](mailto:sloalanoclub@gmail.com) <!-- Source: https://sloalanoclub.org/ -->
-- **Horario:** Abierto 7 días a la semana (see [meeting schedule](https://sloalanoclub.org/meeting-schedule) for specific meeting times)
+- **Horario:** Abierto 7 días a la semana (see [meeting schedule](https://sloalanoclub.org/meeting-schedule) para horarios específicos de reuniones)
 <!-- Nota: El club está abierto diariamente but specific facility operating hours are not publicly listed; contact directly for details -->
 
 ## <a id="AA">Alcohólicos Anónimos</a>
@@ -285,7 +285,7 @@
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | <a href="#" class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Alianza para Acceso Farmacéutico">345 S. Halcyon Rd.</a> (Arroyo Grande) | [805-489-4261 x4267](tel:+1-805-489-4261;ext=4267) | L.1pm–7pm |
-| <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alianza para Acceso Farmacéutico">1428 Phillips Lane #B4</a> (SLO, inside La Fundación SLO Noor) | [805-548-0894](tel:+1-805-548-0894) | Ma.1pm–5pm |
+| <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Alianza para Acceso Farmacéutico">1428 Phillips Lane #B4</a> (SLO, dentro deLa Fundación SLO Noor) | [805-548-0894](tel:+1-805-548-0894) | Ma.1pm–5pm |
 
 - **Correo electrónico:** [Advocates@apameds.org](mailto:Advocates@apameds.org) <!-- Source: https://apameds.org/contact-us/ -->
 
@@ -295,8 +295,8 @@
 
 ## <a id="American-Cancer-Society">American Cancer Society</a>
 
-- Patient Lodging Programs: [cancer.org/support-programs-and-services/patient-lodging.html](https://www.cancer.org/support-programs-and-services/patient-lodging.html)
-- Camino a la Recuperación (transportation to medical appointments): [cancer.org/support-programs-and-services/road-to-recovery.html](https://www.cancer.org/support-programs-and-services/road-to-recovery.html)
+- Programas de alojamiento para pacientes: [cancer.org/support-programs-and-services/patient-lodging.html](https://www.cancer.org/support-programs-and-services/patient-lodging.html)
+- Camino a la Recuperación (transporte a citas médicas): [cancer.org/support-programs-and-services/road-to-recovery.html](https://www.cancer.org/support-programs-and-services/road-to-recovery.html)
 - **Teléfono:** [800-227-2345](tel:+1-800-227-2345) <!-- Source: https://www.cancer.org/about-us/online-help/contact-us.html -->
 
 ## <a id="American-Legion-Post-66">American Legion Post 66</a>
@@ -340,7 +340,7 @@
 - **Sitio web:** [dignityhealth.org/central-coast/locations/arroyo-grande](https://www.dignityhealth.org/central-coast/locations/arroyo-grande)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.113326" data-lon="-120.590433" data-zoom="17" data-label="Arroyo Grande Community Hospital">345 S. Halcyon Rd., Arroyo Grande</a> <!-- Source: https://locations.dignityhealth.org/dignity-health-arroyo-grande-community-hospital -->
 - **Teléfono:**
-   - Front desk: [805-489-4261](tel:+1-805-489-4261) <!-- Source: https://locations.dignityhealth.org/dignity-health-arroyo-grande-community-hospital -->
+   - Recepción: [805-489-4261](tel:+1-805-489-4261) <!-- Source: https://locations.dignityhealth.org/dignity-health-arroyo-grande-community-hospital -->
    - ER: [805-473-7626](tel:+1-805-473-7626)
 - **Horario:** 24/7 <!-- Source: https://locations.dignityhealth.org/dignity-health-arroyo-grande-community-hospital -->
 
@@ -365,7 +365,7 @@
    - [888-585-7373](tel:+1-888-585-7373) (24/7 llame o envíe mensaje de texto) <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
 - **Correo electrónico:** [info@aspirecounselingservice.com](mailto:info@aspirecounselingservice.com) <!-- Source: https://aspirecounselingservice.com/contact/ -->
 - **Horario:** L–V 9am–9pm, S.9am–1pm <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
-- Notas: Hosts [**Recovery Dharma**](#Recovery-Dharma)
+- Notas: Alberga[**Recovery Dharma**](#Recovery-Dharma)
 
 ## <a id="Assistance-League-of-SLO-County">Assistance League of SLO County</a>
 
@@ -408,7 +408,7 @@
    - [seniorcitizensunitedinc@outlook.com](mailto:seniorcitizensunitedinc@outlook.com) <!-- Source: https://atascaderoseniorcenter.org/faq -->
    - [seniorcenter93422@gmail.com](mailto:seniorcenter93422@gmail.com) <!-- Source: https://atascaderoseniorcenter.org/ -->
 - **Horario:** M 11am–1pm, Tu–F 11am–3pm (some activities at other times) <!-- Source: https://atascaderoseniorcenter.org/faq -->
-- **Cómo obtener el servicio:** Most activities free for members ($2 for guests)<!-- Source: https://atascaderoseniorcenter.org/activities-->; membership ($20/year minimum) abierto a personas de 50+
+- **Cómo obtener el servicio:** La mayoría de las actividades son gratuitas para los miembros ($2 para invitados)<!-- Source: https://atascaderoseniorcenter.org/activities-->; membership ($20/year minimum) abierto a personas de 50+
 - Notas:
    - A lunch site for [**Meals that Connect**](#Meals-that-Connect)
 
@@ -1623,7 +1623,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.277962" data-lon="-120.650922" data-zoom="15" data-label="French Hospital Medical Center">1911 Johnson Ave., SLO</a> <!-- Source: https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center -->
 - **Teléfono:**
    - ER: [805-542-6621](tel:+1-805-542-6621)
-   - Front desk: [805-543-5353](tel:+1-805-543-5353) <!-- Source: https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center -->
+   - Recepción: [805-543-5353](tel:+1-805-543-5353) <!-- Source: https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center -->
 - **Horario:** 24/7
 
 ## <a id="Front-Porch">Front Porch</a>
@@ -1915,7 +1915,7 @@
 - **Cómo obtener el servicio:** Get a referral from a [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) Employment Resource Specialist
 - Notas:
    - Run by [**Family Care Network**](#Family-Care-Network)
-   - Can make referrals to [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
+   - Puede hacer referencias a [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
 
 ## <a id="Immigrant-Hope-Arroyo-Grande">Immigrant Hope Arroyo Grande</a>
 
@@ -2043,10 +2043,10 @@
 - **Teléfono:** [805-489-3328](tel:+1-805-489-3328)
 - **Correo electrónico:** [church@lifepointcentralcoast.com](mailto:church@lifepointcentralcoast.com)
 - Notas:
-   - Hosts [**Central Coast Partnership for Animal Welfare**](#CCPAW)
-   - Hosts [**Five Cities Christian Women Food Pantry**](#Five-Cities-Christian-Women-Food-Pantry)
-   - Hosts [**People’s Kitchen (Grover Beach)**](#Peoples-Kitchen-GB)
-   - Hosts [**Shower the People**](#Shower-the-People)
+   - Alberga[**Central Coast Partnership for Animal Welfare**](#CCPAW)
+   - Alberga[**Five Cities Christian Women Food Pantry**](#Five-Cities-Christian-Women-Food-Pantry)
+   - Alberga[**People’s Kitchen (Grover Beach)**](#Peoples-Kitchen-GB)
+   - Alberga[**Shower the People**](#Shower-the-People)
 
 ## <a id="Lifesigns">Lifesigns</a>
 
@@ -2142,8 +2142,8 @@
 - **Horario:** Tu/W/Th 1–3pm <!-- Source: https://www.losososcares.com/programs -->
    - Community Dinners: los miércoles 5–6pm <!-- Source: https://www.losososcares.com/programs -->
 - Notas:
-   - Hosts Community Dinner at [**South Bay Community Center**](#South-Bay-Community-Center)
-   - Hosts “Coastal Family Resource Center”
+   - AlbergaCommunity Dinner at [**South Bay Community Center**](#South-Bay-Community-Center)
+   - Alberga“Coastal Family Resource Center”
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
 
@@ -2319,8 +2319,8 @@
 - **Horario:** L–V 9am–4pm <!-- Source: https://morrobayseniors.org/about/ -->
 - Membresía: $25/year individual, $40/year household (90+ free); abierto a personas de 55+ <!-- Source: https://morrobayseniors.org/about/ -->
 - Notas:
-   - Hosts [**HiCAP**](#HiCAP)
-   - Hosts [**Senior Legal Services Project**](#Senior-Legal-Services-Project) on the first Friday of the month
+   - Alberga[**HiCAP**](#HiCAP)
+   - Alberga[**Senior Legal Services Project**](#Senior-Legal-Services-Project) on the first Friday of the month
 
 ## My Home for Hope
 
@@ -2402,7 +2402,7 @@
 - **Teléfono:** [805-929-1615](tel:+1-805-929-1615) <!-- Source: https://nipomoseniorcenter.org/ -->
 - **Correo electrónico:** [contact@nipomoseniorcenter](mailto:contact@nipomoseniorcenter) <!-- Source: https://nipomoseniorcenter.org/ -->
 - **Horario:** L–V 9am–1pm <!-- Source: https://nipomoseniorcenter.org/ -->
-- Nota: Hosts [**Meals that Connect**](#Meals-that-Connect) lunches <!-- Source: https://nipomoseniorcenter.org/ -->
+- Nota: Alberga[**Meals that Connect**](#Meals-that-Connect) lunches <!-- Source: https://nipomoseniorcenter.org/ -->
 
 ## Noor Foundation
 
@@ -2545,8 +2545,8 @@
 - Notas:
    - A lunch service site for [**Meals that Connect**](#Meals-that-Connect) <!-- Source: https://www.prcity.com/293/Senior-Services -->
    - A [**SLO Food Bank**](#SLO-Food-Bank) pantry & food box distribution site <!-- Source: https://www.prcity.com/293/Senior-Services -->
-   - Hosts [**HiCAP**](#HiCAP) <!-- Source: https://www.prcity.com/293/Senior-Services -->
-   - Hosts [**Senior Legal Services Project**](#Senior-Legal-Services-Project) <!-- Source: https://www.prcity.com/293/Senior-Services -->
+   - Alberga[**HiCAP**](#HiCAP) <!-- Source: https://www.prcity.com/293/Senior-Services -->
+   - Alberga[**Senior Legal Services Project**](#Senior-Legal-Services-Project) <!-- Source: https://www.prcity.com/293/Senior-Services -->
 
 ## <a id="PathPoint">PathPoint</a>
 
@@ -2979,7 +2979,7 @@ If you see one listed here that is no longer in service, please use the feedback
    - Or, come to the office during business hours
    - Or, call during business hours
 - Nota:
-   - Hosts “San Luis Obispo Family Resource Center”
+   - Alberga“San Luis Obispo Family Resource Center”
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
@@ -3498,7 +3498,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - Membresía: Open to SLO city residents 55+; includes monthly newsletter, center access, free coffee
 - Notas:
    - Part of [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
-   - Hosts [**HiCAP**](#HiCAP) (los jueves Mediodía–3:30pm con cita previa)
+   - Alberga[**HiCAP**](#HiCAP) (los jueves Mediodía–3:30pm con cita previa)
 
 ## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
 
@@ -3582,9 +3582,9 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Correo electrónico:** [sbcc@sbcommunitycenter.net](mailto:sbcc@sbcommunitycenter.net) <!-- Source: https://southbaycommunitycenter.com/contact/ -->
 - **Horario:** M/Tu/F 1–4pm (office) <!-- Source: https://southbaycommunitycenter.com/ -->
 - Notas:
-   - Hosts Early Risers A.A. meetings <!-- Source: https://southbaycommunitycenter.com/ -->
-   - Hosts [**Meals that Connect**](#Meals-that-Connect) senior nutrition program <!-- Source: https://southbaycommunitycenter.com/ -->
-   - Hosts [**Los Osos Cares**](#Los-Osos-Cares) Community Dinner <!-- Source: https://southbaycommunitycenter.com/ -->
+   - AlbergaEarly Risers A.A. meetings <!-- Source: https://southbaycommunitycenter.com/ -->
+   - Alberga[**Meals that Connect**](#Meals-that-Connect) senior nutrition program <!-- Source: https://southbaycommunitycenter.com/ -->
+   - Alberga[**Los Osos Cares**](#Los-Osos-Cares) Community Dinner <!-- Source: https://southbaycommunitycenter.com/ -->
    - [**South Bay Seniors People Helping People**](#South-Bay-Seniors-People-Helping-People) operates their food bank and medical equipment loan program from this facility (M/W/F 9am–1pm) <!-- Source: https://southbaycommunitycenter.com/ -->
 
 ## <a id="South-Bay-Seniors-People-Helping-People">South Bay Seniors People Helping People</a>
