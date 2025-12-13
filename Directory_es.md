@@ -123,7 +123,7 @@
 
 - **Sitio web:** [aclusocal.org](https://www.aclusocal.org/)
 - **Teléfono:**
-   - [213-977-9500](tel:+1-213-977-9500) (main) <!-- Source: https://www.aclusocal.org/en/contact-us -->
+   - [213-977-9500](tel:+1-213-977-9500) (principal) <!-- Source: https://www.aclusocal.org/en/contact-us -->
    - [213-977-5253](tel:+1-213-977-5253) (admisión legal)
 - **Horario:** L–V 10am–7pm
 
@@ -133,8 +133,8 @@
 - **Teléfono:** [805-781-4687](tel:+1-805-781-4687) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 - **Correo electrónico:** [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 - Notas:
-   - [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entry-point for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
-   - Offered to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
+   - [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) es el punto de entrada para este programa (incluyendo su [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
+   - Ofrecido a jóvenes a través de [**Seneca Central Coast**](#Seneca-Central-Coast)
 
 ## <a id="Social-Security-Administration">Administración del Seguro Social</a>
 
@@ -213,7 +213,7 @@
    - Administrative:
       - M–F: 6am–2:30pm <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
       - S/D/Días festivos: 6am–10am <!-- Source: https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/ -->
-- **Cómo obtener el servicio:** Schedule a visit [here](https://book.ptc.care/CA-SANLUISOBISPO-OTP)
+- **Cómo obtener el servicio:** Programe una visita [here](https://book.ptc.care/CA-SANLUISOBISPO-OTP)
 
 ## <a id="Aevum">Aevum Home Health y Aevum Hospice Care</a>
 
@@ -276,7 +276,7 @@
 - **Correo electrónico:** [info@sloaa.org](mailto:info@sloaa.org)
 - **Horario:**
    - Central Coast Intergroup office: M–F Mediodía–6pm, S1–4pm <!-- Source: https://www.sloaa.org/ -->
-   - Individual meetings: [many hours and locations](https://www.sloaa.org/meetings/?type=espanol)
+   - Reuniones individuales: [muchos horarios y ubicaciones](https://www.sloaa.org/meetings/?type=espanol)
 
 ## <a id="APA">Alianza para Acceso Farmacéutico</a>
 
@@ -361,7 +361,7 @@
 - **Sitio web:** [aspirecounselingservice.com/san-luis-obispo](https://aspirecounselingservice.com/san-luis-obispo/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.242312" data-lon="-120.640925" data-zoom="17" data-label="Aspire Counseling Service">865 Aerovista Pl. #130, SLO</a> <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
 - **Teléfono:**
-   - [805-329-5595](tel:+1-805-329-5595) (main) <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
+   - [805-329-5595](tel:+1-805-329-5595) (principal) <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
    - [888-585-7373](tel:+1-888-585-7373) (24/7 llame o envíe mensaje de texto) <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
 - **Correo electrónico:** [info@aspirecounselingservice.com](mailto:info@aspirecounselingservice.com) <!-- Source: https://aspirecounselingservice.com/contact/ -->
 - **Horario:** L–V 9am–9pm, S.9am–1pm <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
@@ -407,10 +407,10 @@
 - **Correo electrónico:**
    - [seniorcitizensunitedinc@outlook.com](mailto:seniorcitizensunitedinc@outlook.com) <!-- Source: https://atascaderoseniorcenter.org/faq -->
    - [seniorcenter93422@gmail.com](mailto:seniorcenter93422@gmail.com) <!-- Source: https://atascaderoseniorcenter.org/ -->
-- **Horario:** M 11am–1pm, Tu–F 11am–3pm (some activities at other times) <!-- Source: https://atascaderoseniorcenter.org/faq -->
+- **Horario:** M 11am–1pm, Tu–F 11am–3pm (algunas actividades en otros horarios) <!-- Source: https://atascaderoseniorcenter.org/faq -->
 - **Cómo obtener el servicio:** La mayoría de las actividades son gratuitas para los miembros ($2 para invitados)<!-- Source: https://atascaderoseniorcenter.org/activities-->; membership ($20/year minimum) abierto a personas de 50+
 - Notas:
-   - A lunch site for [**Meals that Connect**](#Meals-that-Connect)
+   - Un sitio de almuerzo para [**Meals that Connect**](#Meals-that-Connect)
 
 ## <a id="Auntie-Isabell-Foundation">Auntie Isabell Foundation</a>
 
@@ -441,7 +441,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.111238" data-lon="-120.623521" data-zoom="17" data-label="Balay Ko on Barka">Barka St. in Grover Beach</a>
 - **Teléfono:** [805-305-3031](tel:+1-805-305-3031)
 - **Correo electrónico:** [shelter@5chc.org](mailto:shelter@5chc.org)
-- **Cómo obtener el servicio:** Apply through [**5Cities Homeless Coalition**](#5CHC) to get on waiting list
+- **Cómo obtener el servicio:** Solicite a través de [**5Cities Homeless Coalition**](#5CHC) para entrar en la lista de espera
 
 ## <a id="Bargain-Boutique">Bargain Boutique</a>
 
@@ -721,7 +721,7 @@
 - **Teléfono:** [805-305-3031](tel:+1-805-305-3031) <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
 - **Text:** [805-634-9906](sms:+1-805-634-9906) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
 - **Correo electrónico:** [shelter@5chc.org](mailto:shelter@5chc.org) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
-- **Cómo obtener el servicio:** Apply through [**5Cities Homeless Coalition**](#5CHC) to get on waiting list
+- **Cómo obtener el servicio:** Solicite a través de [**5Cities Homeless Coalition**](#5CHC) para entrar en la lista de espera
 
 ## <a id="California-Civil-Rights-Department">California Civil Rights Department</a>
 
@@ -1058,7 +1058,7 @@
 - Notas:
    - Open to seniors 50+; para más información call [**Senior Connection**](#Senior-Connection)
    - Activities cost $2 for members, $3 for non-members (membership is $30 for individuals, $40 for couples)
-   - A lunch site for meals offered through [**Meals that Connect**](#Meals-that-Connect)
+   - Un sitio de almuerzo para meals offered through [**Meals that Connect**](#Meals-that-Connect)
 
 ## Central Coast Tax-Aide
 
@@ -1633,7 +1633,7 @@
 - **Teléfono:** [818-731-4984](tel:+1-818-731-4984)
 - **Correo electrónico:** [hello@frontporchslo.org](mailto:hello@frontporchslo.org) <!-- Source: https://www.frontporchslo.org/ -->
 - **Horario:** M–Th 7am–11pm, V7am–4pm, Su 7am–6pm (dependiendo de la disponibilidad de voluntarios, likely closed during Cal Poly breaks) <!-- Source: visited in person and saw those hours taped to the door -->
-- **Cómo obtener el servicio:** oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here” and “No matter what, you’re welcome here.” <!-- Source: https://www.frontporchslo.org/what-we-do and https://www.frontporchslo.org/ -->
+- **Cómo obtener el servicio:** oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome aquí” and “No matter what, you’re welcome aquí.” <!-- Source: https://www.frontporchslo.org/what-we-do and https://www.frontporchslo.org/ -->
 
 ## <a id="SLO-Noor-Foundation">La Fundación SLO Noor</a>
 
@@ -2614,7 +2614,7 @@
 
 Nota: Pequeñas Despensas Gratuitas come and go.
 Sometimes they are neglected, damaged, or removed.
-If you see one listed here that is no longer in service, please use the feedback button to tell VivaSLO about it.
+If you see one listed aquí that is no longer in service, please use the feedback button to tell VivaSLO about it.
 
 - **Sitio web:** [littlefreepantry.org](https://www.littlefreepantry.org/)
 - **Ubicaciónes:**
@@ -3861,7 +3861,7 @@ There are several urgent care options, including:
 - **Sitio web:** [va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic](https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="Veterans Administration Outpatient Clinic">1288 Morro St. #200, SLO</a> <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
 - **Teléfono:**
-   - [805-543-1233](tel:+1-805-543-1233) (main) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
+   - [805-543-1233](tel:+1-805-543-1233) (principal) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
    - [877-252-4866](tel:+1-877-252-4866) (VA health connect) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
    - [877-251-7295](tel:+1-877-251-7295) (mental health) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/main -->
 - **Horario:** L–V 8am–4:30pm <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
@@ -3899,7 +3899,7 @@ There are several urgent care options, including:
 
 - **Sitio web:** [vetride.va.gov](https://www.vetride.va.gov/)
 - **Teléfono:** [805-543-1233](tel:+1-805-543-1233)
-<!-- https://www.vetride.va.gov/app/contact-us shows the closest office being in Fresno with the number 559-241-6462. Does the 805 number still work? Is this service available here? -->
+<!-- https://www.vetride.va.gov/app/contact-us shows the closest office being in Fresno with the number 559-241-6462. Does the 805 number still work? Is this service available aquí? -->
 
 <!-- Defunct?
 ## <a id="Veterans-Volunteer-Services">Veterans Volunteer Services</a>
