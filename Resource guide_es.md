@@ -1921,8 +1921,7 @@ Necesitará tener cuidado de mantener el área del tatuaje limpia y aplicar algu
 El [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) ofrece eliminación de tatuajes con láser de tatuajes relacionados con pandillas, antisociales o económicamente limitantes. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 Se le requiere hacer algunas horas de servicio comunitario (o una donación financiera equivalente) antes de cada tratamiento, pero por lo demás no hay costo. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 Debe aceptar permanecer limpio y sobrio, y no hacerse más tatuajes, durante el tratamiento. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
-Este servicio se ofrece a personas en el condado de SLO <!-- SOURCE NEEDED (https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says “San Luis Obispo or Santa Maria”) (issue #79) -->
-y los tratamientos ocurren en Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ (though https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says “at Sierra Vista Regional Medical Center”) (issue #79) -->
+Los tratamientos ocurren en Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) tiene un programa de eliminación de tatuajes de bajo costo ($20–90 por sesión, en una escala variable basada en la capacidad de pago). <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 También debe completar 20 horas de servicio comunitario antes de comenzar el tratamiento. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
@@ -2835,10 +2834,6 @@ Su solicitud a este fondo debe incluir documentación de esa iglesia u organizac
 <!--
 ### Necesita más investigación
 
-1. [**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program)
-   - What’s Available: financial assistance for housing deposits and rent; bus passes, gas cards, short-term rent assistance
-   - Eligibility: Homeless or at-risk families in SLO County
-   - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
 1. [**American Legion Post 66**](Directory.md#American-Legion-Post-66)
    - Services: Emergency financial assistance for veterans
 -->
@@ -3321,7 +3316,7 @@ El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene enchufes
 [**Ayúdame a Crecer del Condado de SLO**](Directory.md#Help-Me-Grow) ofrece evaluaciones de desarrollo sin costo para bebés, y conexiones a recursos y educación si estas evaluaciones descubren problemas de desarrollo. <!-- Source: https://www.slohelpmegrow.org/services -->
 
 [**Family Care Network**](Directory.md#Family-Care-Network) sirve a familias con niños que están experimentando o en riesgo de quedar sin hogar, están afectadas por desafíos de salud mental no atendidos, o están involucradas con Servicios de Bienestar Infantil o el Sistema de Justicia. <!-- Source: https://fcni.org/what-we-do/ -->
-Los servicios incluyen terapia y otros servicios de salud mental, facilitar el cuidado de crianza y adopción, habilidades de vida independiente, continuidad educativa, <!-- SOURCE NEEDED (issue #36) -->
+Los servicios incluyen terapia y otros servicios de salud mental, facilitar el cuidado de crianza y adopción, habilidades de vida independiente, y continuidad educativa. <!-- SOURCE NEEDED (issue #36) -->
 También ayudan a familias que experimentan la falta de hogar a mudarse a vivienda segura (Family Care Network opera complejos habitacionales para este propósito). <!-- Source: https://fcni.org/how-we-help/ensuring-stability/ -->
 Ofrecen servicios en inglés y español. <!-- SOURCE NEEDED (issue #36) -->
 

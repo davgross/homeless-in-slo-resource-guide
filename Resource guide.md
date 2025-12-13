@@ -1921,8 +1921,7 @@ You will need to take some care to keep the area of the tattoo clean, and to app
 The [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) offers laser tattoo removal of gang-related, anti-social, or economically limiting tattoos. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 You are required to do some hours of community service (or an equivalent financial donation) before each treatment, but there is otherwise no cost. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 You must agree to remain clean and sober, and to get no more tattoos, during the treatment. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
-This service is offered to people in SLO County <!-- SOURCE NEEDED (https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "San Luis Obispo or Santa Maria") (issue #79) -->
-and the treatments happen in Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ (though https://www.aha.org/case-studies/2013-01-02-sierra-vista-regional-medical-center-liberty-tattoo-removal-program says "at Sierra Vista Regional Medical Center") (issue #79) -->
+The treatments take place in Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) has a low-cost tattoo removal program ($20–90 per session, on a sliding scale based on ability to pay). <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 You must also complete 20 hours of community service before beginning treatment. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
@@ -3317,7 +3316,7 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 [**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues. <!-- Source: https://www.slohelpmegrow.org/services -->
 
 [**Family Care Network**](Directory.md#Family-Care-Network) serves families with children who are experiencing or at risk of homelessness, are impacted by unaddressed mental health challenges, or are involved with Child Welfare Services or the Justice System. <!-- Source: https://fcni.org/what-we-do/ -->
-Services include therapy and other mental health services, facilitating foster care and adoption, independent living skills, educational continuity, <!-- SOURCE NEEDED (issue #36) -->
+Services include therapy and other mental health services, facilitating foster care and adoption, independent living skills, and educational continuity. <!-- SOURCE NEEDED (issue #36) -->
 They also help families experiencing homelessness to move into safe housing (Family Care Network operates housing complexes for this purpose). <!-- Source: https://fcni.org/how-we-help/ensuring-stability/ -->
 They offer services in English and Spanish. <!-- SOURCE NEEDED (issue #36) -->
 
