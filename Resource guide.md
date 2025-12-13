@@ -448,7 +448,9 @@ The [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) can pay a 
 To qualify you must meet CalWORKs eligibility requirements and have less than $100 in liquid assets. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 
 [**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) provides financial assistance for housing deposits and rent to families that are experiencing homelessness or are at risk of homelessness in SLO County.<!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-They also offer case management and life skills workshops (budgeting, credit repair, communication), bus passes, gas cards, and paperwork assistance. <!-- SOURCE NEEDED (issue #36) -->
+They also offer case management and life skills workshops (budgeting, credit repair, communication), <!-- SOURCE NEEDED (issue #36) -->
+bus passes, gas cards, <!-- Source: https://fcni.org/partner-with-us/fam/ -->
+and paperwork assistance. <!-- SOURCE NEEDED (issue #36) -->
 
 [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (a.k.a. “My Home for Hope”) and [**Cabins for Change**](Directory.md#Cabins-for-Change), both in Grover Beach, operate many individual “tiny homes” that serve as transitional housing. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 The cabins come with 24/7 support, case management, connections to food services and recovery, and house stabilization guidance. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
@@ -1095,7 +1097,7 @@ To qualify, you must have a valid California driver’s license, a low income (f
 
 You can apply for this insurance online at [mylowcostauto.com](https://www.mylowcostauto.com) or by calling [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
 
-The [**Family Care Network**](Directory.md#Family-Care-Network) can help you pay for car repairs, payments, and gas if you’re broke. <!-- SOURCE NEEDED (issue #36) -->
+The [**Family Care Network**](Directory.md#Family-Care-Network) can help you pay for car repairs, payments, and gas if you’re broke. <!-- Source: https://fcni.org/partner-with-us/fam/ -->
 You may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist. <!-- SOURCE NEEDED (issue #36) -->
 
 The [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap)’s “Consumer Assistance Program” can help you fix your car so that it satisfies California emissions standards. <!-- Source https://www.bar.ca.gov/cap -->
@@ -2833,10 +2835,6 @@ Your application to this fund must include documentation from that church or Chr
 <!--
 ### Needs more research
 
-1. [**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program)
-   - What’s Available: financial assistance for housing deposits and rent; bus passes, gas cards, short-term rent assistance
-   - Eligibility: Homeless or at-risk families in SLO County
-   - Access: Referrals through Department of Social Services Employment Resource Specialist Worker
 1. [**American Legion Post 66**](Directory.md#American-Legion-Post-66)
    - Services: Emergency financial assistance for veterans
 -->
@@ -3318,9 +3316,9 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 [**Help Me Grow SLO County**](Directory.md#Help-Me-Grow) offers no-cost developmental screenings for infants, and connections to resources and education if these screenings discover developmental issues. <!-- Source: https://www.slohelpmegrow.org/services -->
 
-[**Family Care Network**](Directory.md#Family-Care-Network) serves families with children who are experiencing or at risk of homelessness, are impacted by unaddressed mental health challenges, or are involved with Child Welfare Services or the Justice System. <!-- SOURCE NEEDED (issue #36) -->
+[**Family Care Network**](Directory.md#Family-Care-Network) serves families with children who are experiencing or at risk of homelessness, are impacted by unaddressed mental health challenges, or are involved with Child Welfare Services or the Justice System. <!-- Source: https://fcni.org/what-we-do/ -->
 Services include therapy and other mental health services, facilitating foster care and adoption, independent living skills, educational continuity, <!-- SOURCE NEEDED (issue #36) -->
-They also help families experiencing homelessness to move into safe housing (Family Care Network operates housing complexes for this purpose). <!-- SOURCE NEEDED (issue #36) -->
+They also help families experiencing homelessness to move into safe housing (Family Care Network operates housing complexes for this purpose). <!-- Source: https://fcni.org/how-we-help/ensuring-stability/ -->
 They offer services in English and Spanish. <!-- SOURCE NEEDED (issue #36) -->
 
 The [SLO Children’s Museum](https://www.slocm.org/) is full of interactive exhibits for children aged 2–10. <!-- Source: https://www.slocm.org/visit -->
@@ -3351,7 +3349,7 @@ These services are free to people with Medi-Cal/CenCal coverage, and available o
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers [Parent Participation classes](https://ae.slcusd.org/parent-part) that teach useful parenting skills to people with children up to the age of five (you attend the class with your child). <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
 Classes are held in San Luis Obispo and Morro Bay. <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
-Scholarships that cover part of the class fees are available to people with low incomes or special circumstances. <!-- SOURCE NEEDED -->
+Scholarships that cover part of the class fees are available to people with low incomes or special circumstances. <!-- https://ae.slcusd.org/adult-education -->
 
 The free [Triple P Fear Less Class](https://www.t-mha.org/workshop-details.php?id=80) offered by [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) helps parents and caregivers of children (ages 6–14) who experience anxiety to foster confident and healthy children, cultivate strong family relationships, and effectively address misbehavior.
 
@@ -3387,14 +3385,14 @@ Priority is given to foster youth, students experiencing homelessness, English l
 You can apply to enroll your child in this program at the [Bright Futures](http://luciamarschools.org/251185_2) website.
 
 The [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) operates several programs including childcare for children aged 2–5 that includes early-childhood education, therapy and rehabilitation for children who need it, meals (breakfast, lunch, and an afternoon snack), and family events. <!-- Source: https://www.childrensresource.org/curriculum and https://www.childrensresource.org/therapy and https://www.childrensresource.org/classrooms and https://www.childrensresource.org/food-program and https://www.childrensresource.org/other -->
-They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse. <!-- SOURCE NEEDED -->
+They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse. <!-- Source: https://members.slochamber.org/directory/Details/child-development-resource-center-of-the-central-coast-2095758?utm_source=chatgpt.com -->
 To apply for the childcare program, complete and submit [an application](https://www.childrensresource.org/regristration).
 There may be a waiting list. <!-- Source: https://www.childrensresource.org/regristration -->
 Tuition is a sliding-scale fee based on income, and financial aid is available. <!-- Source: https://www.childrensresource.org/regristration -->
 
-Boys & Girls Clubs offer out-of-school enrichment programs for schoolchildren during the week: after school and during school breaks like summer vacation. <!-- SOURCE NEEDED -->
-There is an annual membership fee and also fees per child per day, but Boys & Girls Clubs are committed to ensuring that cost is not a barrier to participation. <!-- SOURCE NEEDED -->
-Ask them about scholarships and subsidies. <!-- SOURCE NEEDED -->
+Boys & Girls Clubs offer out-of-school enrichment programs for schoolchildren during the week: after school and during school breaks like summer vacation. <!-- Source: https://www.bgca.org/about-us/local-clubs/ -->
+There is an annual membership fee and also fees per child per day, but Boys & Girls Clubs are committed to ensuring that cost is not a barrier to participation. <!-- Source: https://centralcoastkids.org/about/frequently-asked-questions/ -->
+Ask them about scholarships and subsidies. <!-- Source: https://centralcoastkids.org/about/frequently-asked-questions/ -->
 There are two Boys & Girls Clubs chapters in SLO County:
 
 - [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/) which covers Grover Beach, Oceano, Pismo Beach, and Shell Beach ([myclubhub@bgcslo.org](mailto:myclubhub@bgcslo.org), [805-481-7339](tel:+1-805-481-7339))
@@ -3437,8 +3435,8 @@ For more information, contact [805-391-4430](tel:+1-805-391-4430) or [atascadero
 Toys for Tots also operates in [Cambria/San Simeon](https://cambria-ca.toysfortots.org/).
 For more information, contact [805-927-1876](tel:+1-805-927-1876) or [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). <!-- Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
 
-Some people who are imprisoned at the SLO County Jail’s “Honor Farm” refurbish children’s bicycles so they can be given away as gifts during the holiday season. <!-- SOURCE NEEDED -->
-To apply for a free bicycle for your child, contact your child’s elementary or middle school resource officer. <!-- SOURCE NEEDED -->
+Some people who are imprisoned at the SLO County Jail’s “Honor Farm” refurbish children’s bicycles so they can be given away as gifts during the holiday season. <!-- Source: https://www.edhat.com/news/slo-sheriffs-office-begins-annual-christmas-bicycle-donations/ -->
+To apply for a free bicycle for your child, complete the “Christmas Bike Application” form at [slosheriff.org: “Forms and Applications”](https://www.slosheriff.org/community-resources/forms-and-applications/) and return it by mail or email.
 
 > See the [(Mostly) Free Stuff](#miscellaneous-free-items) section of this guide for more possible gift ideas.
 
@@ -3775,11 +3773,11 @@ Some services are by-appointment only. <!-- Source: e.g. https://woodshumanesoci
 [**North County Paws Cause**](Directory.md#North-County-Paws-Cause) can help people in northern SLO County who need help caring for their cats while they are homeless or transitioning into new housing.
 
 [**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) is a national organization that focuses on feeding and providing veterinary care to pets of people experiencing homelessness. <!-- Source: https://petsofthehomeless.org/ -->
-If your pet needs veterinary care, call them to arrange an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic. <!-- SOURCE NEEDED -->
-There is no charge to the pet owner, but donations are appreciated. <!-- SOURCE NEEDED -->
+If your pet needs veterinary care, call them to arrange an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic. <!-- Source: https://petsofthehomeless.org/get-help/ -->
+There is no charge to the pet owner, but donations are appreciated. <!-- Source: https://petsofthehomeless.org/get-help/ -->
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-Pets must have documentation of rabies vaccinations. <!-- SOURCE NEEDED -->
+Pets must have rabies vaccinations. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 
 [**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
 They typically happen 3–4 times per academic quarter at various locations around SLO County, often in coordination with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People).
@@ -3794,7 +3792,6 @@ You must document your financial need and provide veterinary care estimates. <!-
 
 [**Red Rover Relief**](Directory.md#Red-Rover-Relief) provides one-time urgent care grants of up to $1,000 to pay for pet medical emergencies. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 This is only for people in the U.S. with income under $60,000 per year. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
-You must make a fundraising effort first before you contact Red Rover Relief. <!-- SOURCE NEEDED -->
 You must supply a current veterinary diagnosis and treatment plan. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 Grants do not cover exams or testing. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 
@@ -3817,8 +3814,8 @@ Their [ReadySLO.org](https://readyslo.org/) site includes the following sections
 You can register to get local emergency alerts by text message on your phone at [AlertSLO](https://public.alertsense.com/SignUp/?RegionId=1317).
 You can choose which sorts of alerts you are interested in receiving (for example “Flood / Flash Flood” and “Fire”). <!-- Source: https://public.alertsense.com/SignUp/publicUser.aspx?RegionId=1317 -->
 
-The [**Red Cross**](Directory.md#Red-Cross) operates emergency shelters during major disasters. <!-- SOURCE NEEDED -->
-They usually have pet-friendly options. <!-- SOURCE NEEDED -->
+The [**Red Cross**](Directory.md#Red-Cross) operates emergency shelters during major disasters. <!-- Source: https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html -->
+They usually have pet-friendly options. <!-- https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html -->
 
 ### <a id="fire-safety">Fire Safety in Camp</a>
 
@@ -3844,7 +3841,7 @@ To extinguish a fire thoroughly, soak it with water.
 Stir the ashes to expose any unburned material, and soak it again.
 The fire is not thoroughly extinguished until you can place your hand anywhere into the ashes without getting burned.
 
-Note that in SLO County it is not legal to have a campfire outside of a developed campground unless you have a valid [California Campfire Permit](https://www.ca.gov/departments/147/services/1239/). <!-- SOURCE NEEDED -->
+Note that in California it is not legal to have a campfire outside of a developed campground unless you have a valid [California Campfire Permit](https://www.ca.gov/departments/147/services/1239/). <!-- Source: https://www.law.cornell.edu/regulations/california/14-CCR-1402 -->
 In many times and places in SLO County it is not legal to make a campfire whether you have such a permit or not. <!-- SOURCE NEEDED -->
 
 ### <a id="extreme-cold-and-heat">Extreme Cold and Heat</a>
@@ -3869,7 +3866,7 @@ Nearly one in four homeless people in the United States lives in California. <!-
 California has one of the highest per-capita rates of homelessness in the nation, and the highest percentage of unsheltered homeless people. <!-- Source: "2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S." United States Department of Housing and Urban Development. December 2024. -->
 In San Luis Obispo County, there are only enough shelter beds for about 20–30% of the people known to be homeless here, and so the county has the third highest percentage of *unsheltered* homelessness of any mostly-rural county in the U.S. <!-- Source: "The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027", July 20, 2022, p. 5 -->
 The city of San Luis Obispo is one of the top ten most expensive cities in the U.S. based on how much income (relative to the median income) you must have to afford to buy a home. <!-- Source: Shibley, Emma K. (June 17, 2025), The income needed to buy a home in major U.S. cities, Consumer Affairs (Journal of Consumer Research) -->
-10% of schoolchildren in SLO County are homeless. <!-- SOURCE NEEDED -->
+11.7% of schoolchildren in SLO County are homeless, which is more than double the rate of the state as a whole. <!-- Source: https://dq.cde.ca.gov/dataquest/DQCensus/HmlsEnrByDTLevels.aspx?cds=00&agglevel=State&year=2024-25 -->
 
 Why are things especially difficult here?
 There are many reasons, but the most important one is “too few homes for the number of people who need them.” <!-- Source: Streeter, Jialu L. (May 2022). "Homelessness in California: Causes and policy considerations". Stanford Institute for Economic Policy Research Policy Brief. -->
@@ -3891,7 +3888,7 @@ The Homeless Services Division is advised and overseen by the [Homeless Services
 This council welcomes people with current or past lived experience of homelessness to join it. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership -->
 You can apply for a seat on this council by completing [this form](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership/forms-documents/2024/hsoc-membership-application-form) and submitting it to [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
 
-The meetings of this council and its committees are open to the public, either in person, or via Zoom or phone. <!-- SOURCE NEEDED -->
+The meetings of this council and its committees are open to the public, either in person, or via Zoom or phone. <!-- e.g. https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/full-hsoc/meetings/2025/11-19-2025-full-hsoc-meeting ; also HSOC is a Brown Act agency and its meetings must be open to the public -->
 Visit [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) for meeting schedules.
 
 Every two years, typically in January, a census of homeless people in the United States is attempted.
@@ -4011,8 +4008,8 @@ See [**Little Free Libraries**](Directory.md#Little-Free-Libraries) in the Direc
 See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the Directory for a list of several in SLO County.
 
 The Shandon branch of [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) has a tool-lending library.
-People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leaf blower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench. <!-- SOURCE NEEDED -->
-You must complete some extra forms and a liability waiver to use the tool lending library. <!-- SOURCE NEEDED -->
+People with county library cards can borrow power tools like drills, saws, sanders, or a router; outdoor tools like a leaf blower, hedge trimmer, or pole saw; and manual tools like ladders, levels, dollies, or a workbench.
+You must complete some extra forms and a liability waiver to use the tool lending library. <!-- Source: https://catalog.slolibrary.org/games-passes-tools-things -->
 
 PG&E’s [Energy Savings Assistance (ESA) Program](https://www.pge.com/en/save-energy-and-money/energy-saving-programs/energy-savings-assistance-program.html) helps low-income households upgrade or repair water heaters, furnaces, lighting, and appliances for no cost.
 This can also improve energy efficiency, which will lower your utility bills.

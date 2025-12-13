@@ -448,7 +448,9 @@ El [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) puede pagar
 Para calificar debe cumplir con los requisitos de elegibilidad de CalWORKs y tener menos de $100 en activos líquidos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 
 El [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) de [**Family Care Network**](Directory.md#Family-Care-Network) proporciona asistencia financiera para depósitos de vivienda y renta a familias que están experimentando falta de vivienda o están en riesgo de quedarse sin hogar en el condado de SLO.<!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-También ofrecen administración de casos y talleres de habilidades para la vida (presupuesto, reparación de crédito, comunicación), pases de autobús, tarjetas de gasolina y asistencia con documentos. <!-- SOURCE NEEDED (issue #36) -->
+También ofrecen administración de casos y talleres de habilidades para la vida (presupuesto, reparación de crédito, comunicación), <!-- SOURCE NEEDED (issue #36) -->
+pases de autobús, tarjetas de gasolina, <!-- Source: https://fcni.org/partner-with-us/fam/ -->
+y asistencia con documentos. <!-- SOURCE NEEDED (issue #36) -->
 
 [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (también conocido como “My Home for Hope”) y [**Cabins for Change**](Directory.md#Cabins-for-Change), ambos en Grover Beach, operan muchas “casas pequeñas” individuales que sirven como vivienda de transición. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 Las cabañas vienen con apoyo 24/7, administración de casos, conexiones a servicios de alimentos y recuperación, y orientación para estabilización de vivienda. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
@@ -1095,7 +1097,7 @@ Para calificar, debe tener una licencia de conducir válida de California, bajos
 
 Puede aplicar para este seguro en línea en [mylowcostauto.com](https://www.mylowcostauto.com/spanish) o llamando al [866-602-8861](tel:+1-866-602-8861). <!-- Source: https://www.mylowcostauto.com/ -->
 
-La [**Family Care Network**](Directory.md#Family-Care-Network) puede ayudarle a pagar reparaciones de automóvil, pagos y gasolina si está sin dinero. <!-- SOURCE NEEDED (issue #36) -->
+La [**Family Care Network**](Directory.md#Family-Care-Network) puede ayudarle a pagar reparaciones de automóvil, pagos y gasolina si está sin dinero. <!-- Source: https://fcni.org/partner-with-us/fam/ -->
 Puede que primero necesite obtener una referencia de un Especialista de Recursos de Empleo del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- SOURCE NEEDED (issue #36) -->
 
 El “Programa de Asistencia al Consumidor” del [California Bureau of Automotive Repair (CAP)](https://www.bar.ca.gov/cap) puede ayudarle a reparar su automóvil para que cumpla con los estándares de emisiones de California. <!-- Source https://www.bar.ca.gov/cap -->
@@ -3318,9 +3320,9 @@ El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene enchufes
 
 [**Ayúdame a Crecer del Condado de SLO**](Directory.md#Help-Me-Grow) ofrece evaluaciones de desarrollo sin costo para bebés, y conexiones a recursos y educación si estas evaluaciones descubren problemas de desarrollo. <!-- Source: https://www.slohelpmegrow.org/services -->
 
-[**Family Care Network**](Directory.md#Family-Care-Network) sirve a familias con niños que están experimentando o en riesgo de quedar sin hogar, están afectadas por desafíos de salud mental no atendidos, o están involucradas con Servicios de Bienestar Infantil o el Sistema de Justicia. <!-- SOURCE NEEDED (issue #36) -->
+[**Family Care Network**](Directory.md#Family-Care-Network) sirve a familias con niños que están experimentando o en riesgo de quedar sin hogar, están afectadas por desafíos de salud mental no atendidos, o están involucradas con Servicios de Bienestar Infantil o el Sistema de Justicia. <!-- Source: https://fcni.org/what-we-do/ -->
 Los servicios incluyen terapia y otros servicios de salud mental, facilitar el cuidado de crianza y adopción, habilidades de vida independiente, continuidad educativa, <!-- SOURCE NEEDED (issue #36) -->
-También ayudan a familias que experimentan la falta de hogar a mudarse a vivienda segura (Family Care Network opera complejos habitacionales para este propósito). <!-- SOURCE NEEDED (issue #36) -->
+También ayudan a familias que experimentan la falta de hogar a mudarse a vivienda segura (Family Care Network opera complejos habitacionales para este propósito). <!-- Source: https://fcni.org/how-we-help/ensuring-stability/ -->
 Ofrecen servicios en inglés y español. <!-- SOURCE NEEDED (issue #36) -->
 
 El [SLO Children’s Museum](https://www.slocm.org/) está lleno de exhibiciones interactivas para niños de 2–10 años. <!-- Source: https://www.slocm.org/visit -->
@@ -3351,7 +3353,7 @@ Estos servicios son gratuitos para personas con cobertura de Medi-Cal/CenCal, y 
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) ofrece [clases de Participación de Padres](https://ae.slcusd.org/parent-part) que enseñan habilidades útiles de crianza a personas con niños de hasta cinco años de edad (asiste a la clase con su hijo). <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
 Las clases se llevan a cabo en San Luis Obispo y Morro Bay. <!-- Source: https://ae.slcusd.org/parent-part/parent-part-clone -->
-Hay becas disponibles que cubren parte de las tarifas de clase para personas con bajos ingresos o circunstancias especiales. <!-- SOURCE NEEDED -->
+Hay becas disponibles que cubren parte de las tarifas de clase para personas con bajos ingresos o circunstancias especiales. <!-- Source: https://ae.slcusd.org/adult-education -->
 
 La [Clase Triple P Fear Less](https://www.t-mha.org/workshop-details.php?id=80) gratuita ofrecida por [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) ayuda a padres y cuidadores de niños (edades 6–14) que experimentan ansiedad a fomentar niños seguros y saludables, cultivar relaciones familiares fuertes y abordar efectivamente el mal comportamiento.
 
@@ -3387,14 +3389,14 @@ Se da prioridad a jóvenes en hogares de crianza, estudiantes que experimentan f
 Puede solicitar inscribir a su hijo en este programa en el sitio web de [Futuros Brillantes](http://luciamarschools.org/251185_2).
 
 El [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) opera varios programas incluyendo cuidado infantil para niños de 2–5 años que incluye educación de la primera infancia, terapia y rehabilitación para niños que la necesitan, comidas (desayuno, almuerzo y merienda) y eventos familiares. <!-- Source: https://www.childrensresource.org/curriculum and https://www.childrensresource.org/therapy and https://www.childrensresource.org/classrooms and https://www.childrensresource.org/food-program and https://www.childrensresource.org/other -->
-Se especializan en trabajar con niños que vienen de circunstancias que incluyen pobreza, falta de hogar, hogares de crianza, violencia doméstica o abuso infantil. <!-- SOURCE NEEDED -->
+Se especializan en trabajar con niños que vienen de circunstancias que incluyen pobreza, falta de hogar, hogares de crianza, violencia doméstica o abuso infantil. <!-- Source: https://members.slochamber.org/directory/Details/child-development-resource-center-of-the-central-coast-2095758?utm_source=chatgpt.com -->
 Para solicitar el programa de cuidado infantil, complete y envíe [una solicitud](https://www.childrensresource.org/regristration).
 Puede haber una lista de espera. <!-- Source: https://www.childrensresource.org/regristration -->
 La matrícula es una tarifa de escala móvil basada en ingresos, y hay ayuda financiera disponible. <!-- Source: https://www.childrensresource.org/regristration -->
 
-Los Boys & Girls Clubs ofrecen programas de enriquecimiento fuera de la escuela para niños escolares durante la semana: después de la escuela y durante los descansos escolares como las vacaciones de verano. <!-- SOURCE NEEDED -->
-Hay una cuota de membresía anual y también tarifas por niño por día, pero los Boys & Girls Clubs están comprometidos a asegurar que el costo no sea una barrera para la participación. <!-- SOURCE NEEDED -->
-Pregúnteles sobre becas y subsidios. <!-- SOURCE NEEDED -->
+Los Boys & Girls Clubs ofrecen programas de enriquecimiento fuera de la escuela para niños escolares durante la semana: después de la escuela y durante los descansos escolares como las vacaciones de verano. <!-- Source: https://www.bgca.org/about-us/local-clubs/ -->
+Hay una cuota de membresía anual y también tarifas por niño por día, pero los Boys & Girls Clubs están comprometidos a asegurar que el costo no sea una barrera para la participación. <!-- Source: https://centralcoastkids.org/about/frequently-asked-questions/ -->
+Pregúnteles sobre becas y subsidios. <!-- Source: https://centralcoastkids.org/about/frequently-asked-questions/ -->
 Hay dos capítulos de Boys & Girls Clubs en el Condado de SLO:
 
 - [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/) que cubre Grover Beach, Oceano, Pismo Beach y Shell Beach ([myclubhub@bgcslo.org](mailto:myclubhub@bgcslo.org), [805-481-7339](tel:+1-805-481-7339))
@@ -3437,8 +3439,8 @@ Para más información, contacte al [805-391-4430](tel:+1-805-391-4430) o [atasc
 Toys for Tots también opera en [Cambria/San Simeon](https://cambria-ca.toysfortots.org/).
 Para más información, contacte al [805-927-1876](tel:+1-805-927-1876) o [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). <!-- Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
 
-Algunas personas que están encarceladas en la “Honor Farm” de la Cárcel del Condado de SLO restauran bicicletas para niños para que puedan ser regaladas durante la temporada de fiestas. <!-- SOURCE NEEDED -->
-Para solicitar una bicicleta gratuita para su hijo, contacte al oficial de recursos de la escuela primaria o secundaria de su hijo. <!-- SOURCE NEEDED -->
+Algunas personas que están encarceladas en la “Honor Farm” de la Cárcel del Condado de SLO restauran bicicletas para niños para que puedan ser regaladas durante la temporada de fiestas. <!-- Source: https://www.edhat.com/news/slo-sheriffs-office-begins-annual-christmas-bicycle-donations/ -->
+Para solicitar una bicicleta gratis para su hijo, complete el formulario “Solicitud de bicicleta navideña” en [slosheriff.org: “Formularios y solicitudes”](https://www.slosheriff.org/community-resources/forms-and-applications/) y envíelo por correo postal o correo electrónico.
 
 > Vea la sección [Cosas (Mayormente) Gratuitas](#miscellaneous-free-items) de esta guía para más ideas posibles de regalos.
 
@@ -3775,11 +3777,11 @@ Algunos servicios son solo con cita. <!-- Source: e.g. https://woodshumanesociet
 [**North County Paws Cause**](Directory.md#North-County-Paws-Cause) puede ayudar a personas en el norte del Condado de SLO que necesitan ayuda para cuidar a sus gatos mientras están sin hogar o en transición a nueva vivienda.
 
 [**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) es una organización nacional que se enfoca en alimentar y proporcionar atención veterinaria a mascotas de personas que experimentan falta de hogar. <!-- Source: https://petsofthehomeless.org/ -->
-Si su mascota necesita atención veterinaria, llámelos para organizar una entrevista con un administrador de casos que determinará su elegibilidad, aprobará un examen y ayudará a hacer una cita en un hospital o clínica local. <!-- SOURCE NEEDED -->
-No hay cargo para el dueño de la mascota, pero se aprecian las donaciones. <!-- SOURCE NEEDED -->
+Si su mascota necesita atención veterinaria, llámelos para organizar una entrevista con un administrador de casos que determinará su elegibilidad, aprobará un examen y ayudará a hacer una cita en un hospital o clínica local. <!-- Source: https://petsofthehomeless.org/get-help/ -->
+No hay cargo para el dueño de la mascota, pero se aprecian las donaciones. <!-- Source: https://petsofthehomeless.org/get-help/ -->
 
 El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene una perrera para huéspedes (tanto huéspedes durante la noche como huéspedes del centro de calefacción/enfriamiento). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-Las mascotas deben tener documentación de vacunas contra la rabia. <!-- SOURCE NEEDED -->
+Las mascotas deben tener vacunas contra la rabia. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 
 [**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) son clínicas emergentes periódicas que ofrecen cuidado veterinario gratuito incluyendo vacunas, exámenes, y recorte de uñas.
 Típicamente ocurren 3–4 veces por trimestre académico en varias ubicaciones alrededor del Condado de SLO, a menudo en coordinación con otros programas de alcance comunitario como [**Shower the People**](Directory.md#Shower-the-People).
@@ -3794,7 +3796,6 @@ Debe documentar su necesidad financiera y proporcionar estimaciones de atención
 
 [**Red Rover Relief**](Directory.md#Red-Rover-Relief) proporciona subvenciones únicas de cuidado urgente de hasta $1,000 para pagar emergencias médicas de mascotas. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 Esto es solo para personas en los EE.UU. con ingresos menores de $60,000 por año. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
-Debe hacer un esfuerzo de recaudación de fondos primero antes de contactar a Red Rover Relief. <!-- SOURCE NEEDED -->
 Debe proporcionar un diagnóstico veterinario actual y un plan de tratamiento. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 Las subvenciones no cubren exámenes o pruebas. <!-- Source: https://redrover.org/relief/urgent-care-grants/ -->
 
@@ -3817,8 +3818,8 @@ Su sitio [ReadySLO.org](https://readyslo.org/) incluye las siguientes secciones:
 Puede registrarse para recibir alertas de emergencia locales por mensaje de texto en su teléfono en [AlertSLO](https://public.alertsense.com/SignUp/?RegionId=1317).
 Puede elegir qué tipos de alertas le interesa recibir (por ejemplo “Inundación / Inundación Repentina” y “Incendio”). <!-- Source: https://public.alertsense.com/SignUp/publicUser.aspx?RegionId=1317 -->
 
-La [**Red Cross**](Directory.md#Red-Cross) (Cruz Roja) opera refugios de emergencia durante desastres mayores. <!-- SOURCE NEEDED -->
-Usualmente tienen opciones que aceptan mascotas. <!-- SOURCE NEEDED -->
+La [**Red Cross**](Directory.md#Red-Cross) (Cruz Roja) opera refugios de emergencia durante desastres mayores. <!-- Source: https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html -->
+Usualmente tienen opciones que aceptan mascotas. <!-- Source: https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html -->
 
 ### <a id="fire-safety">Seguridad contra Incendios en el Campamento</a>
 
@@ -3844,7 +3845,7 @@ Para extinguir una fogata completamente, empápela con agua.
 Revuelva las cenizas para exponer cualquier material no quemado, y empápelo de nuevo.
 La fogata no está completamente extinguida hasta que pueda colocar su mano en cualquier lugar en las cenizas sin quemarse.
 
-Tenga en cuenta que en el Condado de SLO no es legal tener una fogata fuera de un campamento desarrollado a menos que tenga un [Permiso de Fogata de California](https://www.ca.gov/departments/147/services/1239/) (California Campfire Permit) válido. <!-- SOURCE NEEDED -->
+Tenga en cuenta que en el Condado de SLO no es legal tener una fogata fuera de un campamento desarrollado a menos que tenga un [Permiso de Fogata de California](https://www.ca.gov/departments/147/services/1239/) (California Campfire Permit) válido. <!-- Source: https://www.law.cornell.edu/regulations/california/14-CCR-1402 -->
 En muchos momentos y lugares en el Condado de SLO no es legal hacer una fogata ya sea que tenga tal permiso o no. <!-- SOURCE NEEDED -->
 
 ### <a id="extreme-cold-and-heat">Frío y Calor Extremos</a>
@@ -3869,7 +3870,7 @@ Casi una de cada cuatro personas sin hogar en los Estados Unidos vive en Califor
 California tiene una de las tasas per cápita más altas de falta de hogar en la nación, y el porcentaje más alto de personas sin hogar que no tienen refugio. <!-- Source: “2024 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S.” United States Department of Housing and Urban Development. December 2024. -->
 En el Condado de San Luis Obispo, solo hay camas de refugio suficientes para aproximadamente el 20–30% de las personas que se sabe están sin hogar aquí, por lo que el condado tiene el tercer porcentaje más alto de personas sin hogar *sin refugio* de cualquier condado mayormente rural en los EE.UU. <!-- Source: “The San Luis Obispo Countywide Plan to Address Homelessness 2022–2027”, July 20, 2022, p. 5 -->
 La ciudad de San Luis Obispo es una de las diez ciudades más caras en los EE.UU. según cuántos ingresos (relativos al ingreso mediano) debe tener para poder comprar una vivienda. <!-- Source: Shibley, Emma K. (June 17, 2025), The income needed to buy a home in major U.S. cities, Consumer Affairs (Journal of Consumer Research) -->
-El 10% de los niños en edad escolar en el Condado de SLO están sin hogar. <!-- SOURCE NEEDED -->
+El 11,7% de los escolares del condado de SLO no tienen hogar, lo que supone más del doble de la tasa del estado en su conjunto. <!-- Source: https://dq.cde.ca.gov/dataquest/DQCensus/HmlsEnrByDTLevels.aspx?cds=00&agglevel=State&year=2024-25 -->
 
 ¿Por qué las cosas son especialmente difíciles aquí?
 Hay muchas razones, pero la más importante es “muy pocas viviendas para el número de personas que las necesitan.” <!-- Source: Streeter, Jialu L. (May 2022). “Homelessness in California: Causes and policy considerations”. Stanford Institute for Economic Policy Research Policy Brief. -->
@@ -3891,7 +3892,7 @@ La División de Servicios para Personas sin Hogar es asesorada y supervisada por
 Este consejo da la bienvenida a personas con experiencia vivida actual o pasada de falta de hogar para unirse a él. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership -->
 Puede solicitar un asiento en este consejo completando [este formulario](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership/forms-documents/2024/hsoc-membership-application-form) y enviándolo a [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
 
-Las reuniones de este consejo y sus comités están abiertas al público, ya sea en persona, o vía Zoom o teléfono. <!-- SOURCE NEEDED -->
+Las reuniones de este consejo y sus comités están abiertas al público, ya sea en persona, o vía Zoom o teléfono. <!-- e.g. https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/full-hsoc/meetings/2025/11-19-2025-full-hsoc-meeting ; also HSOC is a Brown Act agency and its meetings must be open to the public -->
 Visite [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) para horarios de reuniones.
 
 Cada dos años, típicamente en enero, se intenta realizar un censo de personas sin hogar en los Estados Unidos.
@@ -4011,8 +4012,8 @@ Las “Pequeñas Despensas Gratuitas” son similares, pero en lugar de contener
 Vea [**Pequeñas Despensas Gratuitas**](Directory.md#Little-Free-Pantries) en el Directorio para una lista de varias en el Condado de SLO.
 
 La sucursal de Shandon de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) tiene una biblioteca de préstamo de herramientas.
-Las personas con tarjetas de biblioteca del condado pueden pedir prestadas herramientas eléctricas como taladros, sierras, lijadoras o un router; herramientas para exteriores como un soplador de hojas, recortador de setos o sierra de pértiga; y herramientas manuales como escaleras, niveles, carritos o un banco de trabajo. <!-- SOURCE NEEDED -->
-Debe completar algunos formularios adicionales y una exención de responsabilidad para usar la biblioteca de préstamo de herramientas. <!-- SOURCE NEEDED -->
+Las personas con tarjetas de biblioteca del condado pueden pedir prestadas herramientas eléctricas como taladros, sierras, lijadoras o un router; herramientas para exteriores como un soplador de hojas, recortador de setos o sierra de pértiga; y herramientas manuales como escaleras, niveles, carritos o un banco de trabajo.
+Debe completar algunos formularios adicionales y una exención de responsabilidad para usar la biblioteca de préstamo de herramientas. <!-- Source: https://catalog.slolibrary.org/games-passes-tools-things -->
 
 El [Programa de Asistencia para el Ahorro Energético](https://www.pge.com/es/save-energy-and-money/energy-saving-programs/energy-savings-assistance-program.html) de PG&E ayuda a hogares de bajos ingresos a mejorar o reparar calentadores de agua, hornos, iluminación y electrodomésticos sin costo.
 Esto también puede mejorar la eficiencia energética, lo que reducirá sus facturas de servicios públicos.
