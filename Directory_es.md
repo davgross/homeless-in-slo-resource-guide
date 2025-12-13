@@ -3687,9 +3687,9 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 - **Sitio web:** [www.t-mha.org](https://www.t-mha.org)
 
-| Office | Ubicación | Teléfono |
+| Oficina | Ubicación | Teléfono |
 | ------ | -------- | ----- |
-| Main   | <a href="#" class="map-link" data-lat="35.272462" data-lon="-120.656466" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">784 High Street, SLO</a> <!-- Source: https://www.t-mha.org/ --> | [805-540-6500](tel:+1-805-540-6500) <!-- Source: https://www.t-mha.org/ --> |
+| Principal   | <a href="#" class="map-link" data-lat="35.272462" data-lon="-120.656466" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">784 High Street, SLO</a> <!-- Source: https://www.t-mha.org/ --> | [805-540-6500](tel:+1-805-540-6500) <!-- Source: https://www.t-mha.org/ --> |
 | SLO    | <a href="#" class="map-link" data-lat="35.276666" data-lon="-120.663904" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">1306 Nipomo St.</a> | [805-541-6813](tel:+1-805-541-6813) / [805-801-3536](tel:+1-805-801-3536) |
 | Arroyo Grande | <a href="#" class="map-link" data-lat="35.121565" data-lon="-120.577572" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">203 Bridge St.</a> | [805-305-3724](tel:+1-805-305-3724) |
 
@@ -3702,8 +3702,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - [mmurchison@t-mha.org](mailto:mmurchison@t-mha.org) (Supported Employment program)
 - **Horario:** L–V 8am–5pm
 - Notas:
-   - also runs “Wellness Centers” with a variety of programs <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
-      - See [t-mha.org/wellness-calendars.php](https://www.t-mha.org/wellness-calendars.php) for a schedule:
+   - también opera "Wellness Centers" con una variedad de programas <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
+      - Vea [t-mha.org/wellness-calendars.php](https://www.t-mha.org/wellness-calendars.php) para un horario:
    - opera [**Behavioral Health Bridge Housing (BHBH) Program**](#BHBH)
    - opera “Bishop Street Studios” <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
    - opera “Growing Grounds Downtown,” “Growing Grounds Farm,” y “Growing Grounds Nursery” <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
@@ -3753,14 +3753,14 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.313346" data-lon="-120.845536" data-zoom="17" data-label="Trinity United Methodist Church (Los Osos)">490 Los Osos Valley Rd., Los Osos</a> <!-- Source: https://trinitylososos.org/ -->
 - **Teléfono:** [805-528-1649](tel:+1-805-528-1649) <!-- Source: https://trinitylososos.org/ -->
 - **Correo electrónico:** [church@trinitylososos.org](mailto:church@trinitylososos.org) <!-- Source: https://trinitylososos.org/ -->
-- Hours (food pantry): Ma/V 10am–mediodía <!-- Source: https://trinitylososos.org/whats-happening/tumc-food-pantry -->
+- Horario (despensa de alimentos): Ma/V 10am–mediodía <!-- Source: https://trinitylososos.org/whats-happening/tumc-food-pantry -->
 
 ## <a id="UC-Cooperative-Extension">U.C. Cooperative Extension — SLO County</a>
 
 - **Sitio web:** [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.274187" data-lon="-120.647553" data-zoom="17" data-label="U.C. Cooperative Extension">2156 Sierra Way #C, SLO</a> <!-- Source: https://ucanr.edu/county/county-san-luis-obispo -->
 - **Teléfono:** [805-781-5940](tel:+1-805-781-5940) <!-- Source: https://ucanr.edu/county/county-san-luis-obispo -->
-- Notas: Research-based educational programs including Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agriculture, and horticulture; cost varies by program
+- Notas: Programas educativos basados en investigación incluyendo Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agricultura y horticultura; el costo varía según el programa
 
 ## <a id="SLO-County-UndocuSupport">UndocSupport del Condado de SLO</a>
 
@@ -3780,14 +3780,14 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Correo electrónico:** [minister.uuslo@gmail.com](mailto:minister.uuslo@gmail.com) <!-- Source: https://uuslo.org/care-for-our-neighbors -->
 - **Horario:**
    - We Care Foodshare food pantry: Mi 3–4:30pm <!-- Source: https://uuslo.org/care-for-our-neighbors#wcf -->
-   - Refugee and Immigrant Services Education: first & third Sunday each month, 12:30–2:30pm <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
+   - Refugee and Immigrant Services Education: primer y tercer domingo de cada mes, 12:30–2:30pm <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
 - **Cómo obtener el servicio:**
    - We Care Foodshare food pantry: llegue durante el horario de operación <!-- Source: https://uuslo.org/care-for-our-neighbors -->
-   - Minister’s Discretionary Fund: email with a specific request <!-- Source: https://uuslo.org/care-for-our-neighbors -->
+   - Minister's Discretionary Fund: envíe un correo electrónico con una solicitud específica <!-- Source: https://uuslo.org/care-for-our-neighbors -->
    - Refugee and Immigrant Services Education: llegue durante el horario de operación (no es necesaria cita) <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
 - Notas:
-   - opera el “Minister’s Discretionary Fund,” “Refugee and Immigrant Services Education,” and “We Care Foodshare” <!-- Source: https://uuslo.org/care-for-our-neighbors -->
-   - alberga [**Shower the People**](#Shower-the-People) on Martes y los jueves <!-- Source: https://uuslo.org/care-for-our-neighbors -->
+   - opera el "Minister's Discretionary Fund," "Refugee and Immigrant Services Education," y "We Care Foodshare" <!-- Source: https://uuslo.org/care-for-our-neighbors -->
+   - alberga [**Shower the People**](#Shower-the-People) los martes y los jueves <!-- Source: https://uuslo.org/care-for-our-neighbors -->
 
 ## <a id="UnitedHealthcare-Childrens-Foundation">UnitedHealthcare Children’s Foundation</a>
 
@@ -3812,7 +3812,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 ## <a id="Urgent-Care">Urgent Care</a>
 
-There are several urgent care options, including:
+Hay varias opciones de atención de urgencias, incluyendo:
 
 - [**Community Health Center**](#CHC) (Arroyo Grande)
 - [**Carbon Health Urgent Care**](#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)
