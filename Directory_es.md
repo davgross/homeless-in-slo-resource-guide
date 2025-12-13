@@ -1520,7 +1520,7 @@
 - **Teléfono:** [805-489-2504](tel:+1-805-489-2504)
 - **Correo electrónico:** [Elks2504@gmail.com](Elks2504@gmail.com)
 - **Horario:** L–J 9am–4pm
-- **Cómo obtener el servicio:** Walk-ins OK, but it’s better to call ahead
+- **Cómo obtener el servicio:** Se aceptan visitas sin cita, but it’s better to call ahead
 -->
 
 ## <a id="Employment-Development-Department">Employment Development Department</a>
@@ -2295,8 +2295,8 @@
 - **Ubicación:** Morro Bay Vets Memorial Building, <a href="#" class="map-link" data-lat="35.370461" data-lon="-120.853497" data-zoom="17" data-label="Morro Bay Lions Foundation">209 Surf St., Morro Bay</a> <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
 - **Teléfono:** [805-772-4421](tel:+1-805-772-4421)
 - **Horario:**
-   - los lunes: 4:30pm (puertas abiertas para pantry shopping, free clothes, towels, toiletries) <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
-   - dinner service: 5:30–6:30pm <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
+   - los lunes: 4:30pm (puertas abiertas para compras en la despensa, ropa gratis, toallas, artículos de tocador) <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
+   - servicio de cena: 5:30–6:30pm <!-- Source: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/ -->
 
 ## <a id="Morro-Bay-Parks-and-Recreation">Morro Bay Parks & Recreation</a>
 
@@ -2304,7 +2304,7 @@
 - **Ubicación:** Morro Bay Community Center, <a href="#" class="map-link" data-lat="35.368668" data-lon="-120.845781" data-zoom="17" data-label="Morro Bay Parks and Recreation">1001 Kennedy Way, Morro Bay</a> <!-- Source: https://www.morrobayca.gov/292/Recreation-Services -->
 - **Teléfono:** [805-772-6278](tel:+1-805-772-6278) <!-- Source: https://www.morrobayca.gov/292/Recreation-Services -->
 - **Correo electrónico:** [kcarmichael@morrobayca.gov](mailto:kcarmichael@morrobayca.gov) <!-- Source: https://www.morrobayca.gov/292/Recreation-Services -->
-- **Horario:** L–V 8:30am–5pm (registration)
+- **Horario:** L–V 8:30am–5pm (inscripción)
 
 ## <a id="Morro-Bay-Senior-Center">Morro Bay Senior Citizens</a>
 
@@ -2315,10 +2315,10 @@
    - [info@morrobayseniors.org](mailto:info@morrobayseniors.org) <!-- Source: https://morrobayseniors.org/help/ -->
    - [mbactivesrs@gmail.com](mailto:mbactivesrs@gmail.com) <!-- Source: https://morrobayseniors.org/about/ -->
 - **Horario:** L–V 9am–4pm <!-- Source: https://morrobayseniors.org/about/ -->
-- Membresía: $25/year individual, $40/year household (90+ free); abierto a personas de 55+ <!-- Source: https://morrobayseniors.org/about/ -->
+- Membresía: $25/año individual, $40/año por hogar (90+ gratis); abierto a personas de 55+ <!-- Source: https://morrobayseniors.org/about/ -->
 - Notas:
    - Alberga [**HiCAP**](#HiCAP)
-   - Alberga [**Senior Legal Services Project**](#Senior-Legal-Services-Project) on the first Friday of the month
+   - Alberga [**Senior Legal Services Project**](#Senior-Legal-Services-Project) el primer viernes del mes
 
 ## My Home for Hope
 
@@ -2339,7 +2339,7 @@
 ## <a id="Narcotics-Anonymous">Narcotics Anonymous</a>
 
 - **Sitio web:** [centralcoastna.org](https://centralcoastna.org/)
-- **Ubicaciónes:** [various locations](https://www.centralcoastna.org/directory/) in Arroyo Grande, Atascadero, Cambria, Guadalupe, Lompoc, Orcutt, Paso Robles, San Luis Obispo, and Santa Maria <!-- https://www.centralcoastna.org/directory/ -->
+- **Ubicaciónes:** [varias ubicaciones](https://www.centralcoastna.org/directory/) en Arroyo Grande, Atascadero, Cambria, Guadalupe, Lompoc, Orcutt, Paso Robles, San Luis Obispo, and Santa Maria <!-- https://www.centralcoastna.org/directory/ -->
    - También tiene algunas reuniones virtuales (Zoom)
 - **Teléfono:** [805-549-7730](tel:+1-805-549-7730) <!-- Source: https://www.centralcoastna.org/ -->
 
@@ -2354,7 +2354,7 @@
 | <a href="#" class="map-link" data-lat="35.616768" data-lon="-120.682216" data-zoom="17" data-label="NCI Affiliates Thrift">183 Niblick Rd., Paso Robles</a> | [805-296-3153](tel:+1-805-296-3153) |
 
 - **Horario:** Diariamente 10am–6pm <!-- Source: https://www.nciaffiliates.org/pages/thrift-stores -->
-- Notas: operado por NCI Affiliates; training location for vocational services
+- Notas: operado por NCI Affiliates; lugar de capacitación para servicios vocacionales
 
 ## <a id="NeedyMeds">NeedyMeds</a>
 
@@ -2381,7 +2381,7 @@
 - **Sitio web:** [nipomopresbyterian.org](https://www.nipomopresbyterian.org)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.070495" data-lon="-120.512163" data-zoom="17" data-label="Nipomo Community Presbyterian">1235 N. Thompson Ave., Arroyo Grande</a> <!-- Source: https://www.nipomopresbyterian.org/join-us -->
 - **Teléfono:** [805-473-8059](tel:+1-805-473-8059)
-- Hours (food pantry): V12:45–1:30pm <!-- Source: https://www.nipomopresbyterian.org/calendar -->
+- Horario (despensa de alimentos): V 12:45–1:30pm <!-- Source: https://www.nipomopresbyterian.org/calendar -->
 
 ## <a id="Nipomo-Food-Basket">Nipomo Food Basket</a>
 
@@ -2396,11 +2396,11 @@
 ## <a id="Nipomo-Senior-Center">Nipomo Senior Center</a>
 
 - **Sitio web:** [nipomoseniorcenter.org](https://nipomoseniorcenter.org/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.044026" data-lon="-120.471889" data-zoom="17" data-label="Nipomo Senior Center">200 E. Dana St., Nipomo</a> (entrance on Beechnut St.)
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.044026" data-lon="-120.471889" data-zoom="17" data-label="Nipomo Senior Center">200 E. Dana St., Nipomo</a> (entrada por Beechnut St.)
 - **Teléfono:** [805-929-1615](tel:+1-805-929-1615) <!-- Source: https://nipomoseniorcenter.org/ -->
 - **Correo electrónico:** [contact@nipomoseniorcenter](mailto:contact@nipomoseniorcenter) <!-- Source: https://nipomoseniorcenter.org/ -->
 - **Horario:** L–V 9am–1pm <!-- Source: https://nipomoseniorcenter.org/ -->
-- Nota: Alberga[**Meals that Connect**](#Meals-that-Connect) lunches <!-- Source: https://nipomoseniorcenter.org/ -->
+- Nota: Alberga [**Meals that Connect**](#Meals-that-Connect) lunches <!-- Source: https://nipomoseniorcenter.org/ -->
 
 ## Noor Foundation
 
@@ -2431,9 +2431,9 @@
 - **Dirección postal:** 7343 El Camino Real #346, Atascadero <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 - **Teléfono:** [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
 - **Correo electrónico:** [info@NoCoNeighborAid.org](mailto:info@NoCoNeighborAid.org) <!-- Source: https://cfsslo.org/north-county-neighboraid/ -->
-- **Horario:** By appointment
-- **Cómo obtener el servicio:** Make a request by using their [web form](https://cfsslo.org/north-county-neighboraid/)
-- Notas: Grassroots initiative managed by [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
+- **Horario:** Con cita previa
+- **Cómo obtener el servicio:** Haga una solicitud usando su [formulario web](https://cfsslo.org/north-county-neighboraid/)
+- Notas: Iniciativa comunitaria gestionada por [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
 
 ## <a id="North-County-Paws-Cause">North County Paws Cause</a>
 
@@ -2456,7 +2456,7 @@
 
 - **Ubicación:** Rock Harbor Christian Fellowship, <a href="#" class="map-link" data-lat="35.363751" data-lon="-120.824600" data-zoom="17" data-label="Open Arms Pantry at Rock Harbor">1475 Quintana Rd., Morro Bay</a> <!-- Source: https://rockharborcf.com/other-ministries -->
 - **Teléfono:** [805-799-7031](tel:+1-805-799-7031) <!-- Source: https://rockharborcf.com/other-ministries -->
-- **Horario:** S 9:30–10:30am; also available throughout the week on a walk-in basis <!-- Source: https://rockharborcf.com/other-ministries -->
+- **Horario:** S 9:30–10:30am; también disponible durante la semana sin cita previa <!-- Source: https://rockharborcf.com/other-ministries -->
 
 ## Outreach Apparel
 
@@ -2469,7 +2469,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">1320 Nipomo St., SLO</a> <!-- Source: I went there in person -DG -->
 - **Teléfono:** [805-544-4004](tel:+1-805-544-4004)
 - **Horario:** L–V 10am–3pm
-- **Cómo obtener el servicio:** Walk-ins OK
+- **Cómo obtener el servicio:** Se aceptan visitas sin cita
 <!-- Nota: No dedicated webpage or direct phone extension found (as of October 2025); program operated by CAPSLO -->
 
 ## <a id="Parent-Connection-of-SLO-County">Parent Connection of SLO County</a>
@@ -2519,10 +2519,10 @@
 - **Teléfono:** [805-238-4015](tel:+1-805-238-4015) <!-- Source: https://pasoroblesha.org/ -->
 - **Correo electrónico:** [info@pasoroblesha.org](mailto:info@pasoroblesha.org) <!-- Source: https://pasoroblesha.org/ -->
 - **Horario:** L–V 9am–4:30pm (cerrado mediodía–1pm) <!-- Source: https://pasoroblesha.org/ -->
-- **Cómo obtener el servicio:** Call or email
+- **Cómo obtener el servicio:** Llame o envíe correo electrónico
 - Notas:
-   - Operates affordable housing properties including Oak Park 1–4 and Sunrise Villas <!-- Source: https://pasoroblesha.org/affordable-housing/ -->
-   - Offers community services including “Youth Works” program <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
+   - Opera propiedades de vivienda asequible incluyendo Oak Park 1–4 y Sunrise Villas <!-- Source: https://pasoroblesha.org/affordable-housing/ -->
+   - Ofrece servicios comunitarios incluyendo el programa "Youth Works" <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
 
 ## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Recreation Services</a>
 
@@ -2530,8 +2530,8 @@
 - **Ubicación:** Centennial Park, <a href="#" class="map-link" data-lat="35.622846" data-lon="-120.670075" data-zoom="17" data-label="Paso Robles Parks and Recreation">600 Nickerson Dr., Paso Robles</a> <!-- Source: https://www.prcity.com/268/Recreation-Services -->
 - **Teléfono:** [805-237-3988](tel:+1-805-237-3988) <!-- Source: https://www.prcity.com/268/Recreation-Services -->
 - **Correo electrónico:** [recservices@prcity.com](mailto:recservices@prcity.com)
-- **Horario:** L–J 12pm–5pm (registration desk) <!-- Source: https://www.prcity.com/268/Recreation-Services -->
-- Nota: offers scholarships to cover fees for its recreation activities; apply in person at the registration desk <!-- Source: https://www.prcity.com/1193/Scholarships -->
+- **Horario:** L–J 12pm–5pm (mostrador de inscripción) <!-- Source: https://www.prcity.com/268/Recreation-Services -->
+- Nota: ofrece becas para cubrir las tarifas de sus actividades recreativas; solicite en persona en el mostrador de inscripción <!-- Source: https://www.prcity.com/1193/Scholarships -->
 
 ## <a id="Paso-Robles-Senior-Center">Paso Robles Senior Center</a>
 
@@ -2913,7 +2913,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 | <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">920 W. Tefft St., Nipomo</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) |
 
 - **Correo electrónico:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
-- **Cómo obtener el servicio:** Walk-ins OK; appointments preferred.
+- **Cómo obtener el servicio:** Se aceptan visitas sin cita; appointments preferred.
 - Nota:
    - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Vea también [**Link Family Resource Center**](#Link-Family-Resource-Center)
@@ -3067,7 +3067,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - [805-928-9554](tel:+1-805-928-9554) <!-- Source: https://centralcoastseniors.org/contact-us/ -->
 - **Correo electrónico:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
 - **Horario:** L–V 8am–5pm <!-- Source: https://centralcoastseniors.org/senior-connection/ask-a-question/ -->
-- **Cómo obtener el servicio:** Walk-ins OK.
+- **Cómo obtener el servicio:** Se aceptan visitas sin cita.
 
 ## <a id="Senior-Go">Senior Go!</a>
 
