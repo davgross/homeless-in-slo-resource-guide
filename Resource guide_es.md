@@ -1513,7 +1513,7 @@ o [**United Way**](Directory.md#United-Way). <!-- Source: https://unitedwayslo.o
 Para respuestas sobre beneficios de recetas de Medi-Cal/CenCal, contacte a [**Medi-Cal Rx**](Directory.md#Medi-Cal).
 Para encontrar una farmacia de Medi-Cal Rx, visite [medi-calrx.dhcs.ca.gov: “Find a Pharmacy”](https://medi-calrx.dhcs.ca.gov/home/find-a-pharmacy) (Encuentre una Farmacia).
 
-El [**Healthcare for the Homeless Program**](Directory.md#HCHP) (Programa de Atención Médica para Personas sin Hogar) dispensa algunos medicamentos directamente, sin que tenga que visitar una farmacia. <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) (Programa de Atención Médica para Personas sin Hogar) dispensa algunos medicamentos directamente, sin que tenga que visitar una farmacia. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
 [**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) ayuda a personas que no tienen seguro (o cuyo seguro no cubre recetas) a obtener medicamentos con receta gratis o de bajo costo. <!-- SOURCE NEEDED (issue #74) -->
 
@@ -1562,7 +1562,7 @@ y [**Transitions Mental Health Association**](Directory.md#TMHA) <!-- Source: ht
 y su [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
 ofrecen evaluación y tratamiento de salud mental, incluyendo programas específicamente para personas sin hogar.
 
-El [**Healthcare for the Homeless Program**](Directory.md#HCHP) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) de [**CAPSLO**](Directory.md#CAPSLO) incluye asesoramiento y tratamiento de salud mental. <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) de [**CAPSLO**](Directory.md#CAPSLO) incluye asesoramiento y tratamiento de salud mental. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 [**SLO Hub**](Directory.md#SLO-Hub) ofrece sesiones semanales de terapia de salud mental a sus clientes. <!-- SOURCE NEEDED (https://capslo.org/slo-hub/ mentions therapists, but nothing about weekly sessions) -->
 
 [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
@@ -1581,7 +1581,7 @@ Y [**SLO Vet Center**](Directory.md#SLO-Vet-Center) ofrece asesoramiento confide
 
 Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener atención médica reproductiva/sexual y referencias (por ejemplo, para control de natalidad, anticoncepción de emergencia y pruebas de ITS) de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
 
-El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece anticonceptivos, evaluación y educación sobre VIH, servicios de obstetricia/ginecología y pruebas de ETS. <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece anticonceptivos, evaluación y educación sobre VIH, servicios de obstetricia/ginecología y pruebas de ETS. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) ofrece aborto, control de natalidad, anticoncepción de emergencia, pruebas y tratamiento de VIH/ETS, ayuda con diversas preocupaciones sexuales y reproductivas, y servicios de planificación familiar sin costo. <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources# -->
 
@@ -1626,7 +1626,7 @@ Pídale a su médico que lo refiera a ese programa. <!-- Source: https://capslo.
 
 Las oficinas de [**Community Health Centers**](Directory.md#CHC) en 260 Station Way en Arroyo Grande, en Nipomo, Oceano, Paso Robles, Templeton (Las Tablas), y en 77 Casa St. en SLO ofrecen servicios pediátricos. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub pages -->
 
-El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece cuidado pediátrico y chequeos de niño sano. <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece cuidado pediátrico y chequeos de niño sano. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
 [InfantSEE](https://www.infantsee.org/) le ayuda a obtener una prueba de ojos/visión gratuita para bebés. <!-- Source: https://www.infantsee.org/about-us -->
 
@@ -1648,7 +1648,7 @@ pueden ayudarle a obtener suministros para diabetes de bajo costo.
 [**Dignity Health**](Directory.md#Dignity-Health) dirige un grupo de apoyo gratuito para diabetes por Zoom (videoconferencia por internet) y en persona cada tres meses. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
 Llame al [805-597-6780](tel:+1-805-597-6780) o envíe un correo electrónico a [Angela.Fissell@commonspirit.org](mailto:Angela.Fissell@commonspirit.org) para detalles. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
 
-El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece pruebas y cuidado de diabetes. <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece pruebas y cuidado de diabetes. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
 [**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) ofrece educación nutricional y asesoramiento de estilo de vida para personas sin seguro con diabetes o prediabetes. <!-- Source: https://www.slonoorfoundation.org/medical -->
 
@@ -1798,7 +1798,7 @@ Aceptan Medicare y la mayoría de los planes de seguro privados. <!-- Source: ht
 
 Las oficinas de [**Community Health Centers**](Directory.md#CHC) en 260 Station Way en Arroyo Grande, en Atascadero, Cambria, Nipomo, Oceano, Paso Robles,
 en 77 Casa St. en SLO, y en Templeton (Las Tablas), se especializan en salud del comportamiento. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
-Su [**Healthcare for the Homeless Program**](Directory.md#HCHP) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) ofrece tratamiento de abuso de sustancias e intercambio de agujas. <!-- SOURCE NEEDED (issue #75) -->
+Su [**Healthcare for the Homeless Program**](Directory.md#HCHP) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) ofrece tratamiento de abuso de sustancias e intercambio de agujas. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
 [**Refugio del Buen Samaritano**](Directory.md#Good-Samaritan-Shelter) en Santa Maria tiene un programa de desintoxicación que acepta personas sin cita<!-- Source: https://www.goodsamaritanshelter.org/recovery-behavioral-health --><!-- and referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County {SOURCE NEEDED} -->.
 Opera el [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) para sobriedad, desintoxicación y abstinencia de drogas asistida médicamente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
@@ -1883,7 +1883,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 El programa “Kick It California” puede ayudarle a dejar de fumar ([kickitca.org](https://kickitca.org/) al [800-300-8086](tel:+1-800-300-8086). <!-- Source: https://kickitca.org/ -->
 El gobierno de Estados Unidos tiene un programa similar en [smokefree.gov](https://smokefree.gov/) o [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
-El [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- SOURCE NEEDED (issue #75) -->
+El [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 y el [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) también ofrecen ayuda para dejar el tabaco. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/quit-support -->
 
 La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) ofrece apoyo, recursos y programas para dejar el tabaco a veteranos militares estadounidenses que califiquen. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
