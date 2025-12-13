@@ -7,14 +7,23 @@ import { initFeedback } from './feedback.js';
 import { initShareButton, createSectionShareButton } from './shareButton.js';
 import { initFontSizeControl } from './fontSizeControl.js';
 import { initInstallPrompt } from './installPrompt.js';
-import { getStrings } from './strings.js';
+import { getStrings, getCurrentLanguage } from './strings.js';
 import { initI18n } from './i18nInit.js';
 import { initLanguageSwitcher } from './languageSwitcher.js';
 
-// Import markdown files directly as raw text
-import resourcesMarkdown from '../../Resource guide.md?raw';
-import directoryMarkdown from '../../Directory.md?raw';
-import aboutMarkdown from '../../About.md?raw';
+// Import markdown files directly as raw text (English and Spanish)
+import resourcesMarkdownEn from '../../Resource guide.md?raw';
+import directoryMarkdownEn from '../../Directory.md?raw';
+import aboutMarkdownEn from '../../About.md?raw';
+import resourcesMarkdownEs from '../../Resource guide_es.md?raw';
+import directoryMarkdownEs from '../../Directory_es.md?raw';
+import aboutMarkdownEs from '../../About_es.md?raw';
+
+// Select the correct markdown files based on current language
+const currentLang = getCurrentLanguage();
+const resourcesMarkdown = currentLang === 'es' ? resourcesMarkdownEs : resourcesMarkdownEn;
+const directoryMarkdown = currentLang === 'es' ? directoryMarkdownEs : directoryMarkdownEn;
+const aboutMarkdown = currentLang === 'es' ? aboutMarkdownEs : aboutMarkdownEn;
 
 // UI Strings
 const strings = getStrings();
@@ -473,6 +482,7 @@ function transformTOCToLozenges(container) {
   // Icon mapping - using Unicode emojis as placeholders
   // Can be replaced with custom SVGs later
   const iconMap = {
+    // English
     'Hotlines and Emergencies': '📞',
     'Self-Advocacy': '🗣️',
     'Shelter & Housing': '🏠',
@@ -509,7 +519,44 @@ function transformTOCToLozenges(container) {
     'Free Stuff': '🏺',
     'Other Guides': '📖',
     'Miscellaneous Tips': '💡',
-    'Directory': '📇'
+    'Directory': '📇',
+    // Spanish
+    'Líneas de Ayuda y Emergencias': '📞',
+    'Defensa de Sus Derechos': '🗣️',
+    'Refugio y Vivienda': '🏠',
+    'Guardar Pertenencias': '📦',
+    'Alimentos': '🍴',
+    'Rellenar Agua': '💧',
+    'Transporte': '🚌',
+    'Ropa': '👕',
+    'Lavandería': '🧺',
+    'Duchas e Higiene': '🚿',
+    'Salud y Atención Médica': '⚕️',
+    'Drogas y Recuperación': '🪷',
+    'Eliminación de Tatuajes': '✨',
+    'Ayuda al Final de la Vida': '🕊️',
+    'Seguridad Personal': '🛡️',
+    'Ayuda Legal': '⚖️',
+    'Identificaciones y Documentos': '🪪',
+    'Correo y Apartados Postales': '📬',
+    'Banca y Dinero': '💰',
+    'Preparación de Impuestos': '📊',
+    'Ayuda Financiera de Emergencia': '💵',
+    'Seguro Social y Beneficios': '🏛️',
+    'Obtener Empleo': '💼',
+    'Educación y Capacitación': '📚',
+    'Teléfonos y Servicio Telefónico': '📱',
+    'Internet y Correo Electrónico': '💻',
+    'Carga de Dispositivos': '🔌',
+    'Niños y Padres': '🚸',
+    'Apoyo Entre Pares': '🤝🏽',
+    'Recreación y Comunidad': '🏓',
+    'Cuidado de Mascotas': '🐾',
+    'Preparación para Desastres': '🚨',
+    'Defensa de Derechos y Organización': '📢',
+    'Cosas Gratis': '🏺',
+    'Otras Guías': '📖',
+    'Directorio': '📇'
   };
 
   // Generic fallback icon for entries without specific icons

@@ -594,7 +594,7 @@ Call [877-4AID-VET](tel:+1-877-424-3838) or ask for help from [**SLO County Vete
 
 [**SLO County Behavioral Health Department**](Directory.md#SLO-County-Behavioral-Health) contracts with sober living environments throughout SLO County (from Oceano to Paso Robles) at rates of $35–55 per day. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
 These facilities accept Medi-Cal and offer sliding scale fees based on ability to pay. <!-- SOURCE NEEDED -->
-Visit [**SLO County Drug and Alcohol Services**](Directory.md##SLO-County-Drug-and-Alcohol-Services) or contact the Behavioral Health access line at [800-838-1381](tel:+1-800-838-1381) for referrals. <!-- SOURCE NEEDED -->
+Visit [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) or contact the Behavioral Health access line at [800-838-1381](tel:+1-800-838-1381) for referrals. <!-- SOURCE NEEDED -->
 
 Here are some residential treatment options in SLO County:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
@@ -1192,7 +1192,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**Goodwill Outlet**](Directory.md#Goodwill) and [**Goodwill Store**](Directory.md#Goodwill)
 - [**Lumina Thrift**](Directory.md#Lumina-Thrift)
 - [**Mission Thrift**](Directory.md#Mission-Thrift)
-- [**SLO Thrift**](Directory.md#SLO-Thrift) (not yet open as of November 2025)
+- [**SLO Thrift**](Directory.md#SLO-Thrift) (not yet open as of December 2025)
 - [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
 
 -----
@@ -1628,7 +1628,7 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers pediatri
 
 [InfantSEE](https://www.infantsee.org/) helps you get a free eye/vision test for infants. <!-- Source: https://www.infantsee.org/about-us -->
 
-[Tolosa Children’s Dental Center](https://tolosachildrensdental.org/) ([805-592-2445](tel:+1-805-592-2445)) accepts Medi-Cal <!-- Source: https://tolosachildrensdental.org/about-us/ -->
+[Tolosa Children’s Dental Center](https://tolosachildrensdental.org/) ([805-238-5334](tel:+1-805-238-5334)) accepts Medi-Cal <!-- Source: https://tolosachildrensdental.org/about-us/ -->
 or sliding-scale cash payments. <!-- SOURCE NEEDED -->
 
 [**UnitedHealthcare Children’s Foundation**](Directory.md#UnitedHealthcare-Childrens-Foundation) helps pay for medical expenses that are not covered by a child’s family’s commercial health insurance. <!-- Source: https://www.uhccf.org/ -->
@@ -1767,7 +1767,7 @@ If you notice increasing redness that spreads beyond the area of the burn, or pu
    - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
    - Source: [linkslo.org](https://linkslo.org/)
 1. [**Resilient Ones**](https://www.resilientsouls.org/)
-   - Website is a little vague about what they offer, to whom, and on what terms. But it appears to be some sort of counseling and aid ("peer support groups, healing programs, and trauma-informed training") for “victims of trauma, abuse, and exploitation” in particular for victims of “human trafficking."
+   - Website is a little vague about what they offer, to whom, and on what terms. But it appears to be some sort of counseling and aid ("peer support groups, healing programs, and trauma-informed training") for “victims of trauma, abuse, and exploitation” in particular for victims of “human trafficking.”
    - Phone: [805-674-5056](tel:+1-805-674-5056)
    - Email: [info@resilientsouls.org](mailto:info@resilientsouls.org)
 -->
@@ -2404,7 +2404,7 @@ This is true even if you are only temporarily homeless because you are fleeing d
 You can only get a simple Real ID (“California Identification Card”) with the no-fee method, not a driver’s license. <!-- SOURCE NEEDED -->
 Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process. <!-- SOURCE NEEDED -->
 
-If you have previously received a Real ID or California driver’s license, but you have lost the card and need to replace it, you can begin this process by visiting [dmv.ca.gov: “Driver’s License of ID Card Replacement”](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/) or the California DMV office.
+If you have previously received a Real ID or California driver’s license, but you have lost the card and need to replace it, you can begin this process by visiting [dmv.ca.gov: “Driver’s License or ID Card Replacement”](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/) or the California DMV office.
 
 ### <a id="birth-death-marriage-certificates">Birth, Death, and Marriage Certificates</a>
 
@@ -2442,7 +2442,7 @@ The VitalChek website can often also get you these records from other areas.
 
 ### <a id="civil-case-documents">Civil Case Documents</a>
 
-To get copies of [SLO Superior Court](Directory.md#SLO-Superior-Court) documents in civil cases to which you are a party, first go to the court offices in San Luis Obispo or in Paso Robles.
+To get copies of [**SLO Superior Court**](Directory.md#SLO-Superior-Court) documents in civil cases to which you are a party, first go to the court offices in San Luis Obispo or in Paso Robles.
 Those offices have a publicly-accessible computer at which you can find your case number.
 Court staff can help you with this process.
 Then review the documents associated with that case, choose which documents you want, and request them.
