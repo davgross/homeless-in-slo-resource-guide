@@ -3752,8 +3752,10 @@ Services include dog licensing, pet microchipping, lost and found pet assistance
 They have an [online registry of all animals currently at the pound, with photos](https://24petconnect.com/SLOCStray) and you can use a web interface to [report a lost pet](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405).
 You can call [805-781-4407](tel:+1-805-781-4407) to listen to a found animal recording that describes recently-found animals that are being held at the pound. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
 
-[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) conducts regular free pet food distributions in Grover Beach and Oceano. <!-- SOURCE NEEDED (issue #81) -->
-You can also call their emergency pet care phone line to arrange for emergency veterinary treatment. <!-- SOURCE NEEDED (issue #81) -->
+<!-- As per email from Marianne Bollinger (12/13/25) "There is no more CCPAW. I moved away over two years ago."
+[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) conducts regular free pet food distributions in Grover Beach and Oceano.
+You can also call their emergency pet care phone line to arrange for emergency veterinary treatment.
+-->
 
 [**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws), in partnership with “The Street Dog Coalition,” operates mobile pet wellness clinics in Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, and Oceano, as well as several sites in Santa Barbara County.
 These provide vaccines, spay/neuter service, health exams, medical care, and pet food assistance. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->

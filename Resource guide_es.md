@@ -3750,8 +3750,10 @@ Los servicios incluyen licencias para perros, microchip para mascotas, asistenci
 Tienen un [registro en línea de todos los animales actualmente en la perrera, con fotos](https://24petconnect.com/SLOCStray) y puede usar una interfaz web para [reportar una mascota perdida](https://24petconnect.com/BreedRequest/Lost?shelterlist=SLOC&zip=93405).
 Puede llamar al [805-781-4407](tel:+1-805-781-4407) para escuchar una grabación de animales encontrados que describe animales encontrados recientemente que están siendo retenidos en la perrera. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/animal-services -->
 
-[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) lleva a cabo distribuciones regulares gratuitas de comida para mascotas en Grover Beach y Oceano. <!-- SOURCE NEEDED (issue #81) -->
-También puede llamar a su línea telefónica de cuidado de mascotas de emergencia para organizar tratamiento veterinario de emergencia. <!-- SOURCE NEEDED (issue #81) -->
+<!-- As per email from Marianne Bollinger (12/13/25) "There is no more CCPAW. I moved away over two years ago."
+[**Central Coast Partnership for Animal Welfare**](Directory.md#CCPAW) lleva a cabo distribuciones regulares gratuitas de comida para mascotas en Grover Beach y Oceano.
+También puede llamar a su línea telefónica de cuidado de mascotas de emergencia para organizar tratamiento veterinario de emergencia.
+-->
 
 [**C.A.R.E.4Paws**](Directory.md#C.A.R.E.4Paws), en asociación con “The Street Dog Coalition” (Coalición del Perro Callejero), opera clínicas móviles de bienestar para mascotas en Nipomo, Grover Beach, Arroyo Grande, San Luis Obispo, y Oceano, así como en varios sitios en el Condado de Santa Barbara.
 Estas proveen vacunas, servicio de esterilización/castración, exámenes de salud, atención médica, y asistencia con comida para mascotas. <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->

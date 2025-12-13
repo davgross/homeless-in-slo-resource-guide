@@ -1035,6 +1035,7 @@
 - **Horario:** 24/7 (L–D)
 - Notas: acepta Medicare; llame al [855-240-2530](tel:+1-855-240-2530) para verificar la aceptación de Medi-Cal y discutir opciones de asistencia financiera
 
+<!-- As per email from Marianne Bollinger (12/13/25) "There is no more CCPAW. I moved away over two years ago."
 ## <a id="CCPAW">Central Coast Partnership for Animal Welfare</a>
 
 - **Ubicaciones:** (distribución de alimentos para mascotas)
@@ -1049,6 +1050,7 @@
 - **Cómo obtener el servicio:**
    - para distribuciones de comida para mascotas, venga a las ubicaciones durante el horario de operación, o llámelos para opciones de entrega
    - para atención veterinaria de emergencia, llame, luego un administrador de casos realiza una entrevista para la calificación del “Emergency Vet Care Program” y referencias veterinarias
+-->
 
 ## <a id="Central-Coast-Senior-Center">Central Coast Senior Center (Oceano)</a>
 
@@ -2041,7 +2043,6 @@
 - **Teléfono:** [805-489-3328](tel:+1-805-489-3328)
 - **Correo electrónico:** [church@lifepointcentralcoast.com](mailto:church@lifepointcentralcoast.com)
 - Notas:
-   - alberga [**Central Coast Partnership for Animal Welfare**](#CCPAW)
    - alberga [**Five Cities Christian Women Food Pantry**](#Five-Cities-Christian-Women-Food-Pantry)
    - alberga [**People’s Kitchen (Grover Beach)**](#Peoples-Kitchen-GB)
    - alberga [**Shower the People**](#Shower-the-People)
@@ -2491,10 +2492,6 @@
 
 - **Teléfono:** [805-543-3277](tel:+1-805-543-3277) <!-- Source: https://www.phpslo.org/ -->
 - **Correo electrónico:** [php@ucp-slo.org](mailto:php@ucp-slo.org) <!-- Source: https://www.phpslo.org/ -->
-
-## Partnership for Animal Welfare
-
-> *Vea [**Central Coast Partnership for Animal Welfare**](#CCPAW)*
 
 <!-- Unclear from their website what if anything they currently offer to our audience
 ## <a id="Paso-Cares">Paso Cares</a>
