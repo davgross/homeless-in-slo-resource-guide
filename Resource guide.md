@@ -2,9 +2,6 @@
 
 ## Avoiding, Surviving, and Escaping Homelessness in SLO County
 
-**Note:** This guide is currently being beta tested (if you have found it, welcome to the beta test!).
-Shower the People hopes to formally launch this guide in early 2026.
-
 This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
 It is specific to San Luis Obispo County.
 
@@ -1509,9 +1506,7 @@ To find a Medi-Cal Rx pharmacy, visit [medi-calrx.dhcs.ca.gov: “Find a Pharmac
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some medications directly, without you having to visit a pharmacy. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
-helps people who are uninsured (or whose insurance does not cover prescriptions) get free or low-cost prescription medications. <!-- SOURCE NEEDED (issue #74) -->
-
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps its patients access free or discounted prescription medications through referrals and partnerships, including with the [**Alliance for Pharmaceutical Access**](Directory.md#APA) which operates on-site
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) helps its patients access free or discounted prescription medications through referrals and partnerships, including with the [**Alliance for Pharmaceutical Access**](Directory.md#APA) which operates on-site.
 
 [**Cuesta College**](Directory.md#Cuesta-College) students can get over-the-counter and some prescription medicines (many free of charge) from [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/ -->
 
@@ -1786,8 +1781,8 @@ If you notice increasing redness that spreads beyond the area of the burn, or pu
 
 [**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) is an Opioid Treatment Program (OTP) offering Medication-Assisted Treatment that uses methadone, Suboxone, and similar medicines. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
 They provide specialized services for pregnant women, for veterans, for people with low incomes and for people with mental health disorders. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
-<!-- Walk-ins are welcome and same-day admissions are available. { SOURCE NEEDED } -->
 They accept Medi-Cal, Medicare, and most commercial insurance. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
+<!-- Walk-ins are welcome and same-day admissions are available. { SOURCE NEEDED } -->
 
 [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) runs inpatient (partial hospitalization) and intensive outpatient treatment programs for people trying to beat addiction. <!-- Source: https://aspirecounselingservice.com/addiction-recovery-services/ -->
 They accept Medicare and most private insurance plans. <!-- Source: https://aspirecounselingservice.com/ -->
@@ -1893,7 +1888,7 @@ The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Admini
 [**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) is for marijuana specifically.
 
 AA & NA meet in many locations throughout the county, every day of the week. <!-- Sources: https://www.centralcoastna.org/directory/ and https://www.sloaa.org/meetings/ -->
-The [**Alano Club**](Directory.md#Alano-Club) <!-- Source: https://sloalanoclub.org/meeting-schedule --> and [The Cambria Connection](https://thecambriaconnection.org/meetings-and-events/), for example, host AA or NA meetings several times a day.
+The [**Alano Club**](Directory.md#Alano-Club), <!-- Source: https://sloalanoclub.org/meeting-schedule --> [The Cambria Connection](https://thecambriaconnection.org/meetings-and-events/), and [North County Connection](https://northcountyconnection.org), for example, host AA or NA meetings several times a day.
 
 ### Sober Living Homes and Residential Treatment Options
 

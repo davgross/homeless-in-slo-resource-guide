@@ -813,7 +813,6 @@
 - **Mailing address:** P.O. Box 15759, SLO, CA 93406 <!-- Source: https://www.ccc-uss.org/ -->
 - **Email:**
    - [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com) <!-- Source: https://www.ccc-uss.org/ -->
-<!-- Note: Organization uses P.O. Box; no physical office address or phone number found (as of October 2025). Fiscally sponsored by Ecologistics, a 501(c)(3) in SLO -->
 - Notes:
    - Cal Poly DREAM Center contact: Vania Agama Ramirez
    - Cuesta Monarch DREAM Center: [805-546-3109](tel:+1-805-546-3109)
@@ -1026,7 +1025,9 @@
 > *See also [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
 
 - **Website:** [cccslo.org/what-we-do.php](https://www.cccslo.org/what-we-do.php)
-- **Location:** <a href="#" class="map-link" data-lat="35.276497" data-lon="-120.662980" data-zoom="17" data-label="Community Counseling Center">676 Pismo St., SLO</a> <!-- Source: https://www.cccslo.org/locations.php -->
+- **Locations:**
+   - <a href="#" class="map-link" data-lat="35.627723" data-lon="-120.688565" data-zoom="17" data-label="Community Counseling Center">1244 Pine St., Paso Robles</a> <!-- Source: https://www.cccslo.org/locations.php -->
+   - <a href="#" class="map-link" data-lat="35.276497" data-lon="-120.662980" data-zoom="17" data-label="Community Counseling Center">676 Pismo St., SLO</a> <!-- Source: https://www.cccslo.org/locations.php -->
 - **Phone:** [805-543-7969](tel:+1-805-543-7969) <!-- Source: https://www.cccslo.org/what-we-do.php --->
 - **Hours:** M–F 9am–6pm <!-- Source: https://www.cccslo.org/locations.php -->
 - **How to access:** Call to make an appointment or use their [contact form](https://www.cccslo.org/locations.php) <!-- Source: https://www.cccslo.org/locations.php -->
@@ -2200,9 +2201,9 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Website:** [luminaalliance.org](https://luminaalliance.org/)
 - **Locations:**
-   - <a href="#" class="map-link" data-lat="35.116240" data-lon="-120.615517" data-zoom="17" data-label="Lumina Alliance">555 S. 13th St. #B, Grover Beach</a>
-   - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://luminaalliance.org/contact -->
-   - <a href="#" class="map-link" data-lat="35.251244" data-lon="-120.673442" data-zoom="17" data-label="Lumina Alliance">51 Zaca Ln. #150, SLO</a> <!-- Source: https://luminaalliance.org/contact -->
+   - <a href="#" class="map-link" data-lat="35.116240" data-lon="-120.615517" data-zoom="17" data-label="Lumina Alliance">555 S. 13th St. #B, Grover Beach</a> (by appointment only)
+   - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://luminaalliance.org/contact --> (9am–5pm)
+   - <a href="#" class="map-link" data-lat="35.251244" data-lon="-120.673442" data-zoom="17" data-label="Lumina Alliance">51 Zaca Ln. #150, SLO</a> <!-- Source: https://luminaalliance.org/contact --> (9am–5pm)
 - **Phone:**
    - [805-545-8888](tel:+1-805-545-8888) (24-hour free & confidential crisis line) <!-- Source: https://luminaalliance.org/ -->
    - [805-781-6400](tel:+1-805-781-6400) (Business line) <!-- Source: https://luminaalliance.org/contact -->

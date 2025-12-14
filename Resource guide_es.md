@@ -2,9 +2,6 @@
 
 ## Evitar, Sobrevivir y Escapar de la Falta de Vivienda en el Condado de SLO
 
-**Nota:** Esta guía está actualmente en prueba beta (si la ha encontrado, ¡bienvenido a la prueba beta!).
-Shower the People espera lanzar oficialmente esta guía a principios de 2026.
-
 Esta guía le ayuda a encontrar recursos gratuitos y de bajo costo que pueden ayudarle si está experimentando falta de vivienda, está en riesgo de perder su vivienda, o simplemente tiene poco dinero.
 Es específica para el Condado de San Luis Obispo.
 
@@ -1784,8 +1781,8 @@ Si nota enrojecimiento creciente que se extiende más allá del área de la quem
 
 [**Aegis Treatment Centers**](Directory.md#Aegis-Treatment-Centers) es un Programa de Tratamiento de Opioides (OTP) que ofrece Tratamiento Asistido por Medicamentos que usa metadona, Suboxona y medicinas similares. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
 Proporcionan servicios especializados para mujeres embarazadas, para veteranos, para personas con ingresos bajos y para personas con trastornos de salud mental. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
-<!-- Walk-ins are welcome and same-day admissions are available. { SOURCE NEEDED } -->
 Aceptan Medi-Cal, Medicare y la mayoría de los seguros comerciales. <!-- Source: https://pinnacletreatment.com/opioid-treatment-program-otp/ -->
+<!-- Walk-ins are welcome and same-day admissions are available. { SOURCE NEEDED } -->
 
 [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service) opera programas de tratamiento para pacientes internos (hospitalización parcial) e intensivos para pacientes externos para personas que intentan vencer la adicción. <!-- Source: https://aspirecounselingservice.com/addiction-recovery-services/ -->
 Aceptan Medicare y la mayoría de los planes de seguro privados. <!-- Source: https://aspirecounselingservice.com/ -->
@@ -1891,7 +1888,7 @@ La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Adminis
 [**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) (Marihuana Anónima) es específicamente para la marihuana.
 
 AA y NA se reúnen en muchas ubicaciones en todo el condado, todos los días de la semana. <!-- Sources: https://www.centralcoastna.org/directory/ and https://www.sloaa.org/meetings/ -->
-El [**Alano Club**](Directory.md#Alano-Club) <!-- Source: https://sloalanoclub.org/meeting-schedule --> y [The Cambria Connection](https://thecambriaconnection.org/meetings-and-events/), por ejemplo, organizan reuniones de AA o NA varias veces al día.
+El [**Alano Club**](Directory.md#Alano-Club), <!-- Source: https://sloalanoclub.org/meeting-schedule --> [The Cambria Connection](https://thecambriaconnection.org/meetings-and-events/), y [North County Connection](https://northcountyconnection.org), por ejemplo, organizan reuniones de AA o NA varias veces al día.
 
 ### Casas de Vida Sobria y Opciones de Tratamiento Residencial
 
