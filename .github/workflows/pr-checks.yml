@@ -88,7 +88,7 @@ jobs:
               CURRENT_ANCHORS=$(grep -o '<a id="[^"]*"' "$FILE" 2>/dev/null | sed 's/<a id="//; s/"$//' | sort || echo "")
 
               # Find removed anchors
-              REMOVED=$(comm -23 <(echo "$BASE_ANCHORS") <(echo "$CURRENT_ANCHORS") | grep -v '^$')
+              REMOVED=$(comm -23 <(echo "$BASE_ANCHORS") <(echo "$CURRENT_ANCHORS") | grep -v '^$' || true)
 
               if [ -n "$REMOVED" ]; then
                 WARNINGS="${WARNINGS}\n\n**$FILE** - Removed anchors:"
