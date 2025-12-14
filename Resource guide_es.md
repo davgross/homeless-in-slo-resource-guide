@@ -1482,13 +1482,9 @@ También pueden entregar estos dispositivos a su domicilio. <!-- Source: https:/
 [**California Connect**](Directory.md#California-Connect) puede prestarle, gratis, equipo de telecomunicaciones de asistencia que ayuda si tiene limitaciones funcionales de audición, visión, movilidad, habla y/o interpretación de información. <!-- Source: https://caconnect.org/ -->
 
 El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) puede darle un dispositivo generador de voz gratis si tiene dificultad para hablar. <!-- Source: https://www.dor.ca.gov/Home/VoiceOptions -->
-<!--
-The California Foundation for Independent Living Centers operates a “for sale, free, or needed” online assistive technology exchange.
-{ SOURCE: https://www.dor.ca.gov/Home/AssistiveTechnology though NOTE: https://abilitytools.org was inoperable as of 12/7/25 - Issue #72 }
--->
 
 El [**Central Coast Assistive Technology Center**](Directory.md#CCATC) (Centro de Tecnología de Asistencia de la Costa Central) le permite probar, y le ayuda a aprender a usar, tecnologías de asistencia incluyendo tecnologías de visión/audición y ergonomía. <!-- Source: https://ccatc.org/at-services/ -->
-También le ayudan a acceder a una biblioteca de préstamo sin costo de dispositivos de tecnología de asistencia ([myatprogram.org](https://myatprogram.org/)).
+También le ayudan a acceder a una biblioteca de préstamo sin costo de dispositivos de tecnología de asistencia ([myATprogram.org](https://myatprogram.org/)).
 
 [**PathPoint**](Directory.md#PathPoint) tiene una biblioteca de préstamo de dispositivos de tecnología de asistencia para personas con discapacidades del desarrollo. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 

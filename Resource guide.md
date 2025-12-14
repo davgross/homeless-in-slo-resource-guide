@@ -1482,13 +1482,9 @@ They can also deliver these devices to you. <!-- Source: https://post66slo.org/s
 [**California Connect**](Directory.md#California-Connect) can loan you, for free, assistive telecommunications equipment that helps if you have functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://caconnect.org/ -->
 
 The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) can give you a free speech-generating device if you have difficulty speaking. <!-- Source: https://www.dor.ca.gov/Home/VoiceOptions -->
-<!--
-The California Foundation for Independent Living Centers operates a “for sale, free, or needed” online assistive technology exchange.
-{ SOURCE: https://www.dor.ca.gov/Home/AssistiveTechnology though NOTE: https://abilitytools.org was inoperable as of 12/7/25 - Issue #72 }
--->
 
 The [**Central Coast Assistive Technology Center**](Directory.md#CCATC) allows you to try, and helps you learn to use, assistive technologies including vision/hearing technologies and ergonomics. <!-- Source: https://ccatc.org/at-services/ -->
-They also help you access a no-cost lending library of assistive technology devices ([myatprogram.org](https://myatprogram.org/)).
+They also help you access a no-cost lending library of assistive technology devices ([myATprogram.org](https://myatprogram.org/)).
 
 [**PathPoint**](Directory.md#PathPoint) has a lending library of assistive technology devices for people with developmental disabilities. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
