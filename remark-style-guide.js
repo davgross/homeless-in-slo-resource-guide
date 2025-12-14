@@ -1340,6 +1340,10 @@ export default function remarkStyleGuide() {
                     message: `Rather than "take part" consider e.g. "participate"`,
                 },
                 {
+                    pattern: /\b(take|takes|taking|took) place\b[.,;!?:]?/i,
+                    message: `Rather than "take place" consider e.g. "happen", "occur"`,
+                },
+                {
                     pattern: /\b(take|takes|taking|took)\b(?:\s+\w{1,15}){0,4}? up\b[.,;!?:]?/i,
                     message: `Rather than "take up" consider e.g. "adopt", "begin", "resume", "start"`,
                 },

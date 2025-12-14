@@ -3072,7 +3072,7 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 ### <a id="adult-education">Adult Education</a>
 
 [**Cuesta College**](Directory.md#Cuesta-College)’s [Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html) program is open to the general community (you do not have to be enrolled at Cuesta College).
-Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that take place outside the classroom.
+Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that happen outside the classroom.
 Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver. <!-- Source: https://www.cuesta.edu/academics/continuinged/comm-truck-driving/index.html -->
 They also offer miscellaneous adult education classes on topics of a recreational or curiosity-satisfying nature.
 
@@ -3170,7 +3170,7 @@ If you are a refugee from another country, you may be able to get some help with
 
 ### <a id="literacy">Literacy</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers Basic English Literary course that takes place all year at its Oceano Learning Center location. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a Basic English Literary course that happens all year at its Oceano Learning Center location. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
 The course is every Tuesday from 5–8pm and you can begin the course any Tuesday. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
 Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
 
@@ -3711,7 +3711,7 @@ Call [805-773-2422](tel:+1-805-773-2422) for details. <!-- Source: https://www.p
 
 There are [three major disc golf courses](https://slothrowers.com/slo-courses/) in SLO County and several other smaller ones.
 
-The SLO city bicycling community operates several free events, such as bike-in movie nights, group rides, and free bike breakfasts, many of which take place during [“Bike Month”](https://rideshare.org/program/bike-month/) (lately, May).
+The SLO city bicycling community operates several free events, such as bike-in movie nights, group rides, and free bike breakfasts, many of which happen during [“Bike Month”](https://rideshare.org/program/bike-month/) (lately, May).
 The first Thursday of every month, soon after SLO’s downtown farmers’ market, is the “Bike Happening” in which dozens to hundreds of bicyclists do circuits around downtown, hooting and hollering. <!-- Source: been there, done that -DG -->
 
 The [Bay Osos Folk Dancers](https://bayososfolkdancers.weebly.com/) club meets on Tuesdays from 11am–3pm at the [**South Bay Community Center**](Directory.md#South-Bay-Community-Center) to learn and practice folk and line dances.

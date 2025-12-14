@@ -26,9 +26,9 @@
    - operates [**SLO Hub**](#SLO-Hub) <!-- Source: https://capslo.org/40-prado/ -->
    - operates the “Mid County Warming and Cooling Center” <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - operates the “40 Prado Safe Parking Program” <!-- Source: https://capslo.org/safe-parking/ -->
-   - [**Healthcare for the Homeless Program**](#HCHP) takes place at 40 Prado
-   - [**People’s Kitchen**](#Peoples-Kitchen-SLO) takes place at 43 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
-   - [**Recuperative Care Program**](#Recuperative-Care-Program) takes place at 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
+   - [**Healthcare for the Homeless Program**](#HCHP) happens at 40 Prado
+   - [**People’s Kitchen**](#Peoples-Kitchen-SLO) happens at 43 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
+   - [**Recuperative Care Program**](#Recuperative-Care-Program) happens at 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
 
 ## 50 Now
 
