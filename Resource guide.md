@@ -712,7 +712,7 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 | Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily              |
 | Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesdays                |
 | Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 5:30pm Mondays                |
-| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 4:30pm daily                  |
+| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm daily                  |
 | SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am most Thursdays           |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 5pm Mondays & Thursdays       |
 | SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm Sundays                   |
@@ -1912,7 +1912,7 @@ You will need to take some care to keep the area of the tattoo clean, and to app
 The [**Liberty Tattoo Removal Program**](Directory.md#Liberty-Tattoo-Removal-Program) offers laser tattoo removal of gang-related, anti-social, or economically limiting tattoos. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 You are required to do some hours of community service (or an equivalent financial donation) before each treatment, but there is otherwise no cost. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 You must agree to remain clean and sober, and to get no more tattoos, during the treatment. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
-The treatments take place in Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
+The treatments happen in Arroyo Grande. <!-- Source: https://capslo.org/liberty-tattoo-removal/ -->
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) has a low-cost tattoo removal program ($20–90 per session, on a sliding scale based on ability to pay). <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 You must also complete 20 hours of community service before beginning treatment. <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->

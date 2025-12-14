@@ -712,7 +712,7 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 | Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)    | almuerzo mediodía diario      |
 | Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                         | 5pm miércoles                 |
 | Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation) | 5:30pm lunes                  |
-| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)           | 4:30pm diario                 |
+| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)           | 5pm diario                    |
 | SLO          | Hombres de [**Agape Church**](Directory.md#Agape-Church)                  | 11am la mayoría de los jueves |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                     | 5pm lunes y jueves            |
 | SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                         | 1pm domingos                  |
