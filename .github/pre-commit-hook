@@ -1,0 +1,79 @@
+#!/bin/bash
+# Optional pre-commit hook for Resource Guide
+# To install: cp .github/pre-commit-hook .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+
+set -e
+
+echo "Running pre-commit checks..."
+
+# Get list of staged files
+STAGED_FILES=$(git diff --cached --name-only)
+
+# Check 1: Translation sync
+echo "→ Checking translation sync..."
+SYNC_WARNINGS=""
+
+if echo "$STAGED_FILES" | grep -q "^About\.md$"; then
+  if ! echo "$STAGED_FILES" | grep -q "^About_es\.md$"; then
+    SYNC_WARNINGS="${SYNC_WARNINGS}\n  ⚠️  About.md staged but About_es.md not updated"
+  fi
+fi
+
+if echo "$STAGED_FILES" | grep -q "^Directory\.md$"; then
+  if ! echo "$STAGED_FILES" | grep -q "^Directory_es\.md$"; then
+    SYNC_WARNINGS="${SYNC_WARNINGS}\n  ⚠️  Directory.md staged but Directory_es.md not updated"
+  fi
+fi
+
+if echo "$STAGED_FILES" | grep -q "^Resource guide\.md$"; then
+  if ! echo "$STAGED_FILES" | grep -q "^Resource guide_es\.md$"; then
+    SYNC_WARNINGS="${SYNC_WARNINGS}\n  ⚠️  Resource guide.md staged but Resource guide_es.md not updated"
+  fi
+fi
+
+if [ -n "$SYNC_WARNINGS" ]; then
+  echo -e "$SYNC_WARNINGS"
+  echo ""
+  echo "  Consider updating Spanish translations."
+  echo "  Continue anyway? (y/n)"
+  read -r response
+  if [[ ! "$response" =~ ^[Yy]$ ]]; then
+    echo "Commit aborted."
+    exit 1
+  fi
+fi
+
+# Check 2: Markdown lint (only on staged .md files)
+if echo "$STAGED_FILES" | grep -q '\.md$'; then
+  echo "→ Running markdown lint..."
+  if [ -f "package.json" ]; then
+    if ! npm run lint:sources 2>&1 | head -20; then
+      echo ""
+      echo "  ⚠️  Markdown linting errors found"
+      echo "  Continue anyway? (y/n)"
+      read -r response
+      if [[ ! "$response" =~ ^[Yy]$ ]]; then
+        echo "Commit aborted."
+        exit 1
+      fi
+    fi
+  fi
+fi
+
+# Check 3: Spell check
+echo "→ Running spell check..."
+if [ -f "spell-check.cjs" ]; then
+  if ! node spell-check.cjs 2>&1 | head -20; then
+    echo ""
+    echo "  ⚠️  Spelling errors found"
+    echo "  Continue anyway? (y/n)"
+    read -r response
+    if [[ ! "$response" =~ ^[Yy]$ ]]; then
+      echo "Commit aborted."
+      exit 1
+    fi
+  fi
+fi
+
+echo "✅ Pre-commit checks complete"
+exit 0
