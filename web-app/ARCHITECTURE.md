@@ -172,20 +172,34 @@ Email delivered to recipient
 
 ### 5. shareButton.js - Share Functionality
 
-**Purpose**: Enables sharing of pages and entries
+**Purpose**: Enables sharing of pages and entries with QR code support
 
 **Key Functions**:
 
 - `initShareButton()`: Sets up global share button
 - `createSectionShareButton()`: Inline share for sections
-- `createDirectoryShareButton()`: Share specific entries
-- `copyToClipboard()`: Falls back if Web Share API unavailable
+- `showNotification()`: Displays copy confirmation with QR code option
+- `showQrCodeModal()`: Shows QR code modal for the copied link
+- `hideQrCodeModal()`: Closes the QR code modal
+- `downloadQrCode()`: Downloads QR code as PNG image
 
 **Share Behavior**:
 
 - Uses Web Share API on mobile
 - Falls back to clipboard copy on desktop
 - Generates shareable URLs with hash fragments
+- Shows notification toast after successful copy
+- Provides "View QR Code" button in notification for cross-platform sharing
+- QR codes generated using qr-creator library (4.75kB gzipped)
+
+**QR Code Modal Features**:
+
+- Displays QR code (256×256px with rounded corners)
+- Shows the full URL for reference
+- Download button to save QR code as PNG
+- Accessible keyboard navigation (Escape to close)
+- Click overlay to close
+- High error correction level (H) for reliability
 
 ### 6. installPrompt.js - PWA Installation
 
@@ -957,6 +971,15 @@ See README.md for Apache/Nginx configs
 - Removes dangerous tags/attributes
 - Used after markdown parsing
 - Used in: `markdownParser.js`
+
+#### qr-creator (1.0.0)
+
+- Lightweight QR code generator (4.75kB gzipped)
+- No external dependencies
+- Supports gradient fills and rounded corners
+- Generates QR codes on HTML5 canvas
+- High error correction levels (L, M, Q, H)
+- Used in: `shareButton.js`
 
 #### vite (6.0.5)
 

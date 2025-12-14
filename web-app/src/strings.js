@@ -97,7 +97,15 @@ const strings = {
         sectionLinkCopied: 'Section link copied to clipboard!',
         entryLinkCopied: 'Directory entry link copied to clipboard!',
         copyFailed: 'Unable to copy link. Please copy manually from address bar.',
-        copyFailedShort: 'Unable to copy link.'
+        copyFailedShort: 'Unable to copy link.',
+        viewQrCode: 'View QR Code'
+      },
+      qrModal: {
+        title: 'QR Code',
+        close: 'Close',
+        download: 'Download QR Code',
+        linkLabel: 'Link:',
+        closeAriaLabel: 'Close QR code dialog'
       }
     },
 
@@ -347,7 +355,15 @@ const strings = {
         sectionLinkCopied: '¡Enlace de la sección copiado al portapapeles!',
         entryLinkCopied: '¡Enlace de la entrada del directorio copiado al portapapeles!',
         copyFailed: 'No se puede copiar el enlace. Por favor, cópielo manualmente de la barra de direcciones.',
-        copyFailedShort: 'No se puede copiar el enlace.'
+        copyFailedShort: 'No se puede copiar el enlace.',
+        viewQrCode: 'Ver código QR'
+      },
+      qrModal: {
+        title: 'Código QR',
+        close: 'Cerrar',
+        download: 'Descargar código QR',
+        linkLabel: 'Enlace:',
+        closeAriaLabel: 'Cerrar diálogo de código QR'
       }
     },
 

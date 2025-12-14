@@ -18,6 +18,8 @@ homelessness in San Luis Obispo County.
   Little Free Pantries, and Naloxone locations
 - **State persistence** - Returns users to their previous location
 - **Search functionality** - Find resources quickly
+- **Share functionality** - Share pages and sections with QR code support
+  for easy cross-device sharing
 - **Accessibility features**:
   - Adjustable font size (80%–150%)
   - OpenDyslexic font option for dyslexia support

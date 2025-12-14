@@ -4,7 +4,7 @@ import DOMPurify from 'dompurify';
 import { enhanceLinks } from './linkEnhancer.js';
 import { parseMarkdown, extractDirectoryEntries } from './markdownParser.js';
 import { initFeedback } from './feedback.js';
-import { initShareButton, createSectionShareButton } from './shareButton.js';
+import { initShareButton, createSectionShareButton, showNotification } from './shareButton.js';
 import { initFontSizeControl } from './fontSizeControl.js';
 import { initInstallPrompt } from './installPrompt.js';
 import { getStrings, getCurrentLanguage } from './strings.js';
@@ -33,46 +33,14 @@ function copyToClipboard(text, successMessage) {
   if (navigator.clipboard && navigator.clipboard.writeText) {
     navigator.clipboard.writeText(text)
       .then(() => {
-        showNotification(successMessage || strings.share.notifications.linkCopied);
+        showNotification(successMessage || strings.share.notifications.linkCopied, text);
       })
       .catch(() => {
-        showNotification(strings.share.notifications.copyFailedShort);
+        showNotification(strings.share.notifications.copyFailedShort, null);
       });
   } else {
-    showNotification(strings.share.notifications.copyFailedShort);
+    showNotification(strings.share.notifications.copyFailedShort, null);
   }
-}
-
-// Helper function to show notifications
-function showNotification(message) {
-  // Remove any existing notification
-  const existing = document.getElementById('share-notification');
-  if (existing) {
-    existing.remove();
-  }
-
-  // Create notification element
-  const notification = document.createElement('div');
-  notification.id = 'share-notification';
-  notification.className = 'share-notification';
-  notification.textContent = message;
-  notification.setAttribute('role', 'status');
-  notification.setAttribute('aria-live', 'polite');
-
-  document.body.appendChild(notification);
-
-  // Trigger animation
-  setTimeout(() => {
-    notification.classList.add('show');
-  }, 10);
-
-  // Remove after 3 seconds
-  setTimeout(() => {
-    notification.classList.remove('show');
-    setTimeout(() => {
-      notification.remove();
-    }, 300);
-  }, 3000);
 }
 
 // App State
