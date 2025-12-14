@@ -1,0 +1,209 @@
+name: Pull Request Checks
+
+on:
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '**.md'
+      - '.github/workflows/pr-checks.yml'
+      - 'package.json'
+      - 'spell-check.cjs'
+      - 'validate-markdown.js'
+      - 'remark-style-guide.js'
+
+jobs:
+  check-translation-sync:
+    name: Check English/Spanish Sync
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for translation sync issues
+        run: |
+          echo "## Translation Sync Check" >> $GITHUB_STEP_SUMMARY
+
+          # Get list of changed files
+          CHANGED_FILES=$(git diff --name-only origin/${{ github.base_ref }}...HEAD)
+
+          # Files that need translation sync
+          NEEDS_SYNC=""
+
+          # Check if English files changed without Spanish counterparts
+          if echo "$CHANGED_FILES" | grep -q "^About\.md$"; then
+            if ! echo "$CHANGED_FILES" | grep -q "^About_es\.md$"; then
+              NEEDS_SYNC="${NEEDS_SYNC}\n- About.md changed but About_es.md was not updated"
+            fi
+          fi
+
+          if echo "$CHANGED_FILES" | grep -q "^Directory\.md$"; then
+            if ! echo "$CHANGED_FILES" | grep -q "^Directory_es\.md$"; then
+              NEEDS_SYNC="${NEEDS_SYNC}\n- Directory.md changed but Directory_es.md was not updated"
+            fi
+          fi
+
+          if echo "$CHANGED_FILES" | grep -q "^Resource guide\.md$"; then
+            if ! echo "$CHANGED_FILES" | grep -q "^Resource guide_es\.md$"; then
+              NEEDS_SYNC="${NEEDS_SYNC}\n- Resource guide.md changed but Resource guide_es.md was not updated"
+            fi
+          fi
+
+          if [ -n "$NEEDS_SYNC" ]; then
+            echo "⚠️ **Warning: Translation sync needed**" >> $GITHUB_STEP_SUMMARY
+            echo -e "$NEEDS_SYNC" >> $GITHUB_STEP_SUMMARY
+            echo ""
+            echo "Consider updating the Spanish translations to match changes in the English versions." >> $GITHUB_STEP_SUMMARY
+            exit 0  # Don't fail, just warn
+          else
+            echo "✅ Translation sync looks good" >> $GITHUB_STEP_SUMMARY
+          fi
+
+  check-broken-links:
+    name: Check for Broken Internal Links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for removed/changed anchors
+        run: |
+          echo "## Internal Link Check" >> $GITHUB_STEP_SUMMARY
+
+          # Get the base branch version
+          git fetch origin ${{ github.base_ref }}
+
+          # Files to check for anchor changes
+          FILES=("About.md" "Directory.md" "Resource guide.md" "About_es.md" "Directory_es.md" "Resource guide_es.md")
+
+          WARNINGS=""
+
+          for FILE in "${FILES[@]}"; do
+            if [ -f "$FILE" ]; then
+              # Extract anchors from base version
+              BASE_ANCHORS=$(git show origin/${{ github.base_ref }}:"$FILE" 2>/dev/null | grep -o '<a id="[^"]*"' | sed 's/<a id="//; s/"$//' | sort || echo "")
+
+              # Extract anchors from current version
+              CURRENT_ANCHORS=$(grep -o '<a id="[^"]*"' "$FILE" 2>/dev/null | sed 's/<a id="//; s/"$//' | sort || echo "")
+
+              # Find removed anchors
+              REMOVED=$(comm -23 <(echo "$BASE_ANCHORS") <(echo "$CURRENT_ANCHORS") | grep -v '^$' || true)
+
+              if [ -n "$REMOVED" ]; then
+                WARNINGS="${WARNINGS}\n\n**$FILE** - Removed anchors:"
+                while IFS= read -r anchor; do
+                  WARNINGS="${WARNINGS}\n- \`#${anchor}\`"
+                done <<< "$REMOVED"
+              fi
+            fi
+          done
+
+          if [ -n "$WARNINGS" ]; then
+            echo "⚠️ **Warning: Anchors removed or changed**" >> $GITHUB_STEP_SUMMARY
+            echo -e "$WARNINGS" >> $GITHUB_STEP_SUMMARY
+            echo ""
+            echo "Removing or renaming anchors may break saved/shared links. Consider:" >> $GITHUB_STEP_SUMMARY
+            echo "- Adding redirects or keeping old anchors alongside new ones" >> $GITHUB_STEP_SUMMARY
+            echo "- Documenting the change if intentional" >> $GITHUB_STEP_SUMMARY
+            exit 0  # Don't fail, just warn
+          else
+            echo "✅ No anchor removals detected" >> $GITHUB_STEP_SUMMARY
+          fi
+
+  markdown-lint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run remark lint
+        id: remark
+        run: |
+          echo "## Markdown Lint Results" >> $GITHUB_STEP_SUMMARY
+          if npm run lint:sources 2>&1 | tee lint-output.txt; then
+            echo "✅ No markdown linting errors found" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "⚠️ **Markdown linting errors found:**" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            cat lint-output.txt >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            exit 1
+          fi
+
+      - name: Run markdownlint
+        if: always()
+        run: |
+          if command -v markdownlint &> /dev/null; then
+            markdownlint "About.md" "Directory.md" "Resource guide.md" || echo "markdownlint found issues (non-blocking)"
+          else
+            echo "markdownlint not installed, skipping"
+          fi
+
+  spell-check:
+    name: Spell Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run spell check
+        id: spell
+        run: |
+          echo "## Spell Check Results" >> $GITHUB_STEP_SUMMARY
+          if [ -f "spell-check.cjs" ]; then
+            if node spell-check.cjs 2>&1 | tee spell-output.txt; then
+              echo "✅ No spelling errors found" >> $GITHUB_STEP_SUMMARY
+            else
+              echo "⚠️ **Spelling errors found:**" >> $GITHUB_STEP_SUMMARY
+              echo '```' >> $GITHUB_STEP_SUMMARY
+              cat spell-output.txt >> $GITHUB_STEP_SUMMARY
+              echo '```' >> $GITHUB_STEP_SUMMARY
+              exit 1
+            fi
+          else
+            echo "⚠️ spell-check.cjs not found, skipping" >> $GITHUB_STEP_SUMMARY
+          fi
+
+  summary:
+    name: Check Summary
+    runs-on: ubuntu-latest
+    needs: [check-translation-sync, check-broken-links, markdown-lint, spell-check]
+    if: always()
+    steps:
+      - name: Generate summary
+        run: |
+          echo "## PR Check Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ "${{ needs.check-translation-sync.result }}" != "success" ]; then
+            echo "- ⚠️ Translation sync check had warnings" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          if [ "${{ needs.check-broken-links.result }}" != "success" ]; then
+            echo "- ⚠️ Broken link check had warnings" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          if [ "${{ needs.markdown-lint.result }}" == "failure" ]; then
+            echo "- ❌ Markdown lint failed" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          if [ "${{ needs.spell-check.result }}" == "failure" ]; then
+            echo "- ❌ Spell check failed" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Note: Warnings don't block merges, but should be reviewed. Failures should be fixed before merging." >> $GITHUB_STEP_SUMMARY
