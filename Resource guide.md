@@ -778,6 +778,11 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | SLO            | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                                                                          | Wednesdays 9:30–11:30am |
 <!-- Unclear if this is permanent or just a Thanksgiving-season thing: | Morro Bay      | Perfect Union, <a href="#" class="map-link" data-lat="35.365926" data-lon="-120.836902" data-zoom="17" data-label="Perfect Union">1000 Quintana Rd.</a> (must be age 18+? 21+?; ask security for pantry) | daily, 8am–9pm | -->
 
+[City Farm](https://www.cityfarmslo.org/) in SLO city has a [“Pay-What-You-Can” Farm Stand](https://www.cityfarmslo.org/farmstand) on Saturdays from 10am–1pm at <a href="#" class="map-link" data-lat="35.251980" data-lon="-120.679901" data-zoom="17" data-label="City Farm">1221 Calle Joaquin</a>.
+It gives you $30 off your purchase of fruits and vegetables (so your first $30 worth of fruits and vegetables are free).
+To use this offer, just ask them.
+(This offer does not apply to their other products like meats, bread, and cut flowers.)
+
 ### <a id="little-free-pantries">Little Free Pantries</a>
 
 Little free pantries are small boxes erected in neighborhoods and maintained by the people who live nearby.
