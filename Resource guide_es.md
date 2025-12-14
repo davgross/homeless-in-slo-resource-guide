@@ -778,6 +778,11 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | SLO            | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                                                                          | miércoles 9:30–11:30am |
 <!-- Unclear if this is permanent or just a Thanksgiving-season thing: | Morro Bay      | Perfect Union, <a href="#" class="map-link" data-lat="35.365926" data-lon="-120.836902" data-zoom="17" data-label="Perfect Union">1000 Quintana Rd.</a> (must be age 18+? 21+?; ask security for pantry) | daily, 8am–9pm | -->
 
+[City Farm](https://www.cityfarmslo.org/) en la ciudad de SLO tiene un [puesto agrícola de pago a voluntad](https://www.cityfarmslo.org/farmstand) los sábados 10am–1pm en <a href="#" class="map-link" data-lat="35.251980" data-lon="-120.679901" data-zoom="17" data-label="City Farm">1221 Calle Joaquín</a>.
+Te ofrece $30 de descuento en la compra de frutas y verduras (así que tus primeros $30 en frutas y verduras son gratis).
+Para aprovechar esta oferta, solo pregúntales.
+(Esta oferta no aplica a otros productos como carnes, pan, y flores cortadas).
+
 ### <a id="little-free-pantries">Pequeñas Despensas Gratuitas</a>
 
 Las pequeñas despensas gratuitas son cajas pequeñas instaladas en vecindarios y mantenidas por las personas que viven cerca.
