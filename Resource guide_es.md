@@ -1248,7 +1248,9 @@ Algunos parques del condado de SLO tienen instalaciones de duchas operadas con m
 [**Oceano Campground**](Directory.md#Oceano-Campground), <!-- Source: https://slocountyparks.com/camp/oceano/ -->
 y [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) <!-- Source: https://slocountyparks.com/camp/santa-margarita-lake/ -->
 
-La “Coastal Gateway Multi-Purpose Room” del [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) tiene duchas operadas con monedas. <!-- SOURCE NEEDED (issue #67) -->
+La “Coastal Gateway Multi-Purpose Room” del [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) cuenta con tres duchas de monedas en la primera planta. <!-- Verified by Matt Ashton of PSLHD on 12/15/25 by email -->
+Disponen de duchas de monedas de 7:00am a 10:00pm. <!-- Verified by Matt Ashton of PSLHD on 12/15/25 by email -->
+El costo es de $2 por cinco minutos y 0.50 por minuto después. <!-- Verified by Matt Ashton of PSLHD on 12/15/25 by email -->
 
 Algunos gimnasios comerciales tienen duchas.
 Por ejemplo, un pase de día de $15 al [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) proporciona acceso a todas sus instalaciones, incluyendo duchas. <!-- Source: https://pbac.com/guest-rates/ and https://pbac.com/membership/ -->

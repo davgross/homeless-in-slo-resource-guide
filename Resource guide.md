@@ -1248,7 +1248,9 @@ Some SLO County parks have coin-operated shower facilities, including [**Coastal
 [**Oceano Campground**](Directory.md#Oceano-Campground), <!-- Source: https://slocountyparks.com/camp/oceano/ -->
 and [**Santa Margarita Lake Recreation Area**](Directory.md#Santa-Margarita-Lake-Recreation-Area) <!-- Source: https://slocountyparks.com/camp/santa-margarita-lake/ -->
 
-The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has coin-operated showers. <!-- SOURCE NEEDED (issue #67) -->
+The [**Port San Luis Harbor District**](Directory.md#Port-San-Luis-Harbor-District) “Coastal Gateway Multi-Purpose Room” has three coin-operated showers on the first floor. <!-- Verified by Matt Ashton of PSLHD on 12/15/25 by email -->
+They are available between 7am and 10pm. <!-- Verified by Matt Ashton of PSLHD on 12/15/25 by email -->
+The cost is $2/five minutes and 50¢ per minute thereafter. <!-- Verified by Matt Ashton of PSLHD on 12/15/25 by email -->
 
 Some commercial gyms have showers.
 For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers. <!-- Source: https://pbac.com/guest-rates/ and https://pbac.com/membership/ -->
