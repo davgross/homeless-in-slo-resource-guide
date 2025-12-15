@@ -1561,6 +1561,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.236909" data-lon="-120.629489" data-zoom="17" data-label="Family Care">1255 Kendall Rd., SLO</a> <!-- Source: https://fcni.org -->
 - **Teléfono:** [805-781-3535](tel:+1-805-781-3535) <!-- Source: https://fcni.org -->
 - **Correo electrónico:** [Contact@fcni.org](mailto:Contact@fcni.org) <!-- Source: https://fcni.org -->
+- **Cómo obtener el servicio:** Debe ser elegible de acuerdo con las pautas del [**Department of Social Services**](#SLO-County-Department-of-Social-Services) y debe tener una referencia de una agencia del Condado. <!-- Source: email from Sarah Davenport of FCNI 12/15/25 -->
 - Notas: opera [**Housing Support Program (HSP)**](#Housing-Support-Program) <!-- Source: https://fcni.org/how-we-help/ensuring-stability/ -->
 
 ## FamilyPACT
@@ -2238,7 +2239,7 @@
 - Medi-Cal Shuttle: *Vea [**Ride-On Transportation**](#Ride-On-Transportation)*
 - Notas:
    - [**CenCal Health**](#CenCal) es el administrador local de Medi-Cal <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
-   - solicite en [www.coveredca.com](https://www.coveredca.com/) o [BenefitsCal.com](https://benefitscal.com/) o en persona en las oficinas locales de DSS <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
+   - solicite en [www.coveredca.com](https://www.coveredca.com/) o [BenefitsCal.com](https://benefitscal.com/) o en persona en las oficinas locales de [**Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
 
 ## <a id="MISP">Medically Indigent Services Program (MISP)</a>
 

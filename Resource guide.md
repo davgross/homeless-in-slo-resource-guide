@@ -445,9 +445,8 @@ The [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) can pay a 
 To qualify you must meet CalWORKs eligibility requirements and have less than $100 in liquid assets. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 
 [**Family Care Network**](Directory.md#Family-Care-Network)’s [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) provides financial assistance for housing deposits and rent to families that are experiencing homelessness or are at risk of homelessness in SLO County.<!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-They also offer case management and life skills workshops (budgeting, credit repair, communication), <!-- SOURCE NEEDED (issue #36) -->
-bus passes, gas cards, <!-- Source: https://fcni.org/partner-with-us/fam/ -->
-and paperwork assistance. <!-- SOURCE NEEDED (issue #36) -->
+They also offer case management, life skills workshops (budgeting, credit repair, communication), and paperwork assistance. <!-- Source: email from Sarah Davenport, 12/15/25 -->
+They can help get you a bus pass, or can connect you to resources to help with car repairs and/or car payments, and gas. <!-- Source: email from Sarah Davenport, 12/15/25 -->
 
 [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (a.k.a. “My Home for Hope”) and [**Cabins for Change**](Directory.md#Cabins-for-Change), both in Grover Beach, operate many individual “tiny homes” that serve as transitional housing. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 The cabins come with 24/7 support, case management, connections to food services and recovery, and house stabilization guidance. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
