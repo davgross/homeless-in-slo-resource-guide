@@ -1984,7 +1984,6 @@ The free websites [PREPARE for Your Care](https://prepareforyourcare.org/) and [
 The [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/) website has several varieties of advance directive forms in PDF format that you can review or print.
 
 [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), <!-- probably via SLOLAF -->
-[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), <!-- SOURCE NEEDED (issue #80) -->
 and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) <!-- Source: https://www.slolaf.org/seniorlaw -->
 can give you free help to make your advance directive documents clear and legally binding.
 
