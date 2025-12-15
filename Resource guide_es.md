@@ -1209,8 +1209,8 @@ No tiene que estar hospedándose allí para usar las instalaciones de lavanderí
 La [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) abre la instalación de lavandería en su ubicación de Paso Robles todos los miércoles de 10am–6pm, donde los clientes de extensión pueden lavar una carga de ropa gratis (ellos proporcionan el detergente). <!-- Source: https://www.echoshelter.org/pasorobles -->
 
 [**Laundry Love**](Directory.md#Laundry-Love) opera en una lavandería comercial de Los Osos el último miércoles del mes (revise su sitio web para el horario más reciente). <!-- Source: https://laundrylove.org/find-a-location/ -->
-Permiten a cualquier persona hacer dos cargas de ropa gratis (cinco cargas para una familia), más ropa de cama. <!-- SOURCE NEEDED (issue #65) -->
-Proporcionan las monedas para las máquinas y el detergente para ropa y las hojas para la secadora. <!-- SOURCE NEEDED (issue #65) -->
+Permiten a cualquier persona hacer dos cargas de ropa gratis (cinco cargas para una familia), más ropa de cama. <!-- Verified by email from Maureen Titus (12/14/25) -->
+Proporcionan las monedas para las máquinas y el detergente para ropa y las hojas para la secadora. <!-- Verified by email from Maureen Titus (12/14/25) -->
 
 -----
 
