@@ -1342,6 +1342,7 @@
 - **Location:** <a href="#" class="map-link" data-lat="35.236909" data-lon="-120.629489" data-zoom="17" data-label="Family Care">1255 Kendall Rd., SLO</a> <!-- Source: https://fcni.org -->
 - **Phone:** [805-781-3535](tel:+1-805-781-3535) <!-- Source: https://fcni.org -->
 - **Email:** [Contact@fcni.org](mailto:Contact@fcni.org) <!-- Source: https://fcni.org -->
+- **How to access:** You must be eligible according to [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) guidelines and you must have a referral from a County agency. <!-- Source: email from Sarah Davenport of FCNI 12/15/25 -->
 - Notes: Operates [**Housing Support Program (HSP)**](#Housing-Support-Program) <!-- Source: https://fcni.org/how-we-help/ensuring-stability/ -->
 
 ## FamilyPACT
@@ -2276,7 +2277,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - Medi-Cal Shuttle: *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 - Notes:
    - [**CenCal Health**](#CenCal) is the local Medi-Cal administrator <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
-   - Apply at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/) or in person at local DSS offices <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
+   - Apply at [www.coveredca.com](https://www.coveredca.com/) or [BenefitsCal.com](https://benefitscal.com/) or in person at local [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) offices <!-- Source: https://www.slocounty.ca.gov/departments/social-services/medical-resources/services/medi-cal -->
 
 ## <a id="Medically-Fragile-Homeless-Program">Medically Fragile Homeless Program</a>
 

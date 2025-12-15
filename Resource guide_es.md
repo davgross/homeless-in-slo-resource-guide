@@ -445,9 +445,8 @@ El [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) puede pagar
 Para calificar debe cumplir con los requisitos de elegibilidad de CalWORKs y tener menos de $100 en activos líquidos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 
 El [**Housing Support Program (HSP)**](Directory.md#Housing-Support-Program) de [**Family Care Network**](Directory.md#Family-Care-Network) proporciona asistencia financiera para depósitos de vivienda y renta a familias que están experimentando falta de vivienda o están en riesgo de quedarse sin hogar en el condado de SLO.<!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/housing-support-program-(hsp) -->
-También ofrecen administración de casos y talleres de habilidades para la vida (presupuesto, reparación de crédito, comunicación), <!-- SOURCE NEEDED (issue #36) -->
-pases de autobús, tarjetas de gasolina, <!-- Source: https://fcni.org/partner-with-us/fam/ -->
-y asistencia con documentos. <!-- SOURCE NEEDED (issue #36) -->
+También ofrecen administración de casos y talleres de habilidades para la vida (presupuesto, reparación de crédito, comunicación), y asistencia con documentos. <!-- Source: email from Sarah Davenport, 12/15/25 -->
+Pueden ayudarle a conseguir un pase de autobús o conectarle con recursos para ayudar con las reparaciones o pagos del automóvil, y con la gasolina. <!-- Source: email from Sarah Davenport, 12/15/25 -->
 
 [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) (también conocido como “My Home for Hope”) y [**Cabins for Change**](Directory.md#Cabins-for-Change), ambos en Grover Beach, operan muchas “casas pequeñas” individuales que sirven como vivienda de transición. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
 Las cabañas vienen con apoyo 24/7, administración de casos, conexiones a servicios de alimentos y recuperación, y orientación para estabilización de vivienda. <!-- Source: https://5chc.org/programs/temporary-emergency-housing-in-grover-beach -->
