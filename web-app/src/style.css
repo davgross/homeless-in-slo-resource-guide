@@ -133,14 +133,12 @@ input:focus {
 .app-nav {
   display: flex;
   justify-content: space-around;
-  flex: 1 1 auto;
-  min-width: 0;
+  flex: 1;
   gap: 0.25rem;
 }
 
 .nav-btn {
-  flex: 1 1 0;
-  min-width: 0;
+  flex: 1;
   padding: 0.75rem 0.25rem;
   font-size: 1rem;
   font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
