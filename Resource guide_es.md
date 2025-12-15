@@ -1383,8 +1383,6 @@ Puede buscar una lista de proveedores locales de atención médica de CenCal en 
 
 Los residentes sin hogar del condado de SLO que están inscritos en CenCal Health califican para la [**Administración de la Atención Mejorada (ECM)**](Directory.md#Enhanced-Care-Management). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 Esto le ayuda a coordinar la atención que necesita entre múltiples proveedores de atención médica. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
-Contáctelos si desea solicitar o si desea más detalles. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
-También puede solicitar en persona (se aceptan visitas sin cita) en el centro [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) de CAPSLO. <!-- SOURCE NEEDED (issue #69) -->
 
 ##### Cómo Solicitar Medi-Cal
 

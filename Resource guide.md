@@ -1383,8 +1383,6 @@ You can search a list of local CenCal health care providers at [cencalhealth.org
 
 Homeless SLO County residents who are enrolled in CenCal Health qualify for [**Enhanced Care Management**](Directory.md#Enhanced-Care-Management). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 This helps you coordinate the care you need across multiple healthcare providers. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
-Contact them if you want to apply or you want more details. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
-You can also apply in-person (walk-ins OK) at CAPSLO’s [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services) center. <!-- SOURCE NEEDED (issue #69) -->
 
 ##### How to Apply for Medi-Cal
 

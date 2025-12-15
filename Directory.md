@@ -1310,14 +1310,17 @@
 - Notes:
    - Operates “Migrant Seasonal Farmworker” program
 
-## <a id="Enhanced-Care-Management">Enhanced Care Management</a>
+## <a id="Enhanced-Care-Management">Enhanced Care Management</a> (ECM)
 
 - **Website:** [slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management)
 - **Phone:** [805-781-4687](tel:+1-805-781-4687) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 - **Email:** [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 - Notes:
-   - [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) is the entry-point for this program (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center)
-   - Offered to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
+   - [**CenCal Health**](#CenCal) is the entry-point for this program
+   - provided by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center) <!-- SOURCE NEEDED (Issue #69) -->
+   - provided by [**Independent Living Systems**](#Independent-Living-Systems)
+   - provided to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
+- **How to access:** Contact CenCal yourself, or ask a health and social services provider or one of the ECM providers listed above to refer you
 
 ## <a id="EyeCare-America">EyeCare America</a>
 
@@ -1720,6 +1723,13 @@
 ## Independent Living Resource Center (ILRC)
 
 > *See [**Access Central Coast**](#Access-Central-Coast)*
+
+## <a id="Independent-Living-Systems">Independent Living Systems</a>
+
+- **Website:** [ilshealth.com](https://ilshealth.com/)
+- **Phone:** [844-320-5182](tel:+1-844-320-5182)
+- **Email:** [CommunitySupport@ilshealth.com](mailto:CommunitySupport@ilshealth.com)
+- **Note:** offers [**Enhanced Care Management**](#Enhanced-Care-Management) <!-- Source: https://ilshealth.com/calaim-resources/ -->
 
 ## <a id="In-Home-Supportive-Services">In-Home Supportive Services (IHSS)</a>
 
