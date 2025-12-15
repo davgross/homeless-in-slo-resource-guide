@@ -1984,7 +1984,6 @@ Los sitios web gratuitos [PREPARE Su Cuidado Médico](https://prepareforyourcare
 El sitio web [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/california-advanced-health-care-directive/) tiene varias variedades de formularios de directivas anticipadas en formato PDF que puede revisar o imprimir.
 
 [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project), <!-- probably via SLOLAF -->
-[**California Rural Legal Assistance (CRLA)**](Directory.md#California-Rural-Legal-Assistance), <!-- SOURCE NEEDED (issue #80) -->
 y [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) <!-- Source: https://www.slolaf.org/seniorlaw -->
 pueden darle ayuda gratuita para hacer sus documentos de directivas anticipadas claros y legalmente vinculantes.
 
