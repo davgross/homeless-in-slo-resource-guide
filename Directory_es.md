@@ -133,8 +133,11 @@
 - **Teléfono:** [805-781-4687](tel:+1-805-781-4687) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 - **Correo electrónico:** [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 - Notas:
-   - [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) es el punto de entrada para este programa (incluyendo su centro [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services))
-   - Ofrecido a jóvenes a través de [**Seneca Central Coast**](#Seneca-Central-Coast)
+   - [**CenCal Health**](#CenCal) es el punto de acceso a este programa.
+   - Proporcionado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) (incluido su centro de [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services)). <!-- SOURCE NEEDED (Issue #69) -->
+   - Proporcionado por [**Independent Living Systems**](#Independent-Living-Systems)
+   - Proporcionado a jóvenes a través de [**Seneca Central Coast**](#Seneca-Central-Coast)
+   - **Cómo acceder:** Comuníquese con CenCal usted mismo o solicite a un proveedor de servicios sociales y de salud o a uno de los proveedores de ECM mencionados anteriormente que lo deriven.
 
 ## <a id="Social-Security-Administration">Administración del Seguro Social</a>
 
@@ -1936,6 +1939,13 @@
 ## Independent Living Resource Center (ILRC)
 
 > *Vea [**Access Central Coast**](#Access-Central-Coast)*
+
+## <a id="Independent-Living-Systems">Independent Living Systems</a>
+
+- **Sitio web:** [ilshealth.com](https://ilshealth.com/)
+- **Teléfono:** [844-320-5182](tel:+1-844-320-5182)
+- **Correo electrónico:** [CommunitySupport@ilshealth.com](mailto:CommunitySupport@ilshealth.com)
+- **Nota:** ofrece [**Administración de la Atención Mejorada**](#Enhanced-Care-Management) <!-- Source: https://ilshealth.com/calaim-resources/ -->
 
 ## <a id="In-Home-Supportive-Services">In-Home Supportive Services (IHSS)</a>
 
