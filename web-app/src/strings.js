@@ -14,7 +14,7 @@ const strings = {
     // Page metadata
     meta: {
       description: 'Comprehensive resource guide for people experiencing homelessness in San Luis Obispo County',
-      title: 'SLO County Homeless Resource Guide'
+      title: 'VivaSLO Homeless Resource Guide'
     },
 
     // Navigation
@@ -24,7 +24,7 @@ const strings = {
       about: 'About',
       skipToMain: 'Skip to main content',
       returnToHome: 'Return to home',
-      logoAlt: 'SLO County Resource Guide Logo',
+      logoAlt: 'VivaSLO Logo',
       mainNavLabel: 'Main navigation'
     },
 
@@ -53,8 +53,8 @@ const strings = {
 
     // Loading states
     loading: {
-      resources: 'Loading resources...',
-      directory: 'Loading directory...'
+      resources: 'Loading resources…',
+      directory: 'Loading directory…'
     },
 
     // Errors
@@ -77,17 +77,17 @@ const strings = {
         title: 'Share'
       },
       main: {
-        title: 'SLO County Homeless Resource Guide',
+        title: 'VivaSLO Homeless Resource Guide',
         text: 'Comprehensive resource guide for people experiencing homelessness in San Luis Obispo County'
       },
       section: {
-        title: (sectionTitle) => `${sectionTitle} - SLO County Homeless Resource Guide`,
+        title: (sectionTitle) => `${sectionTitle} — VivaSLO Homeless Resource Guide`,
         text: (sectionTitle) => `Check out this resource: ${sectionTitle}`,
         buttonTitle: 'Share this section',
         buttonAriaLabel: (sectionTitle) => `Share ${sectionTitle}`
       },
       directoryEntry: {
-        title: (entryTitle) => `${entryTitle} - SLO County Homeless Resource Guide`,
+        title: (entryTitle) => `${entryTitle} — VivaSLO Homeless Resource Guide`,
         text: (entryTitle) => `Check out this resource: ${entryTitle}`,
         buttonTitle: 'Share this directory entry',
         buttonAriaLabel: (entryTitle) => `Share ${entryTitle}`
@@ -186,7 +186,7 @@ const strings = {
         },
 
         messageLabel: 'Your Feedback *',
-        messagePlaceholder: 'Please describe the issue or suggestion in detail...',
+        messagePlaceholder: 'Please describe the issue or suggestion in detail…',
         messageError: 'Please enter your feedback',
 
         contextHeader: 'Context information (automatically included):',
@@ -197,7 +197,7 @@ const strings = {
 
         cancelButton: 'Cancel',
         submitButton: 'Send Feedback',
-        submittingButton: 'Sending...',
+        submittingButton: 'Sending…',
 
         successIcon: '✅',
         successTitle: 'Thank you for your feedback!',
@@ -282,7 +282,7 @@ const strings = {
       about: 'Sobre',
       skipToMain: 'Saltar al contenido principal',
       returnToHome: 'Volver al inicio',
-      logoAlt: 'Logotipo de la Guía de Recursos del Condado de SLO',
+      logoAlt: 'Logotipo de VivaSLO',
       mainNavLabel: 'Navegación principal'
     },
 
@@ -311,8 +311,8 @@ const strings = {
 
     // Loading states
     loading: {
-      resources: 'Cargando recursos...',
-      directory: 'Cargando directorio...'
+      resources: 'Cargando recursos…',
+      directory: 'Cargando directorio…'
     },
 
     // Errors
@@ -339,13 +339,13 @@ const strings = {
         text: 'Guía completa de recursos para personas en situación de calle en el condado de San Luis Obispo'
       },
       section: {
-        title: (sectionTitle) => `${sectionTitle} - Guía de Recursos para Personas sin Hogar del Condado de SLO`,
+        title: (sectionTitle) => `${sectionTitle} — VivaSLO`,
         text: (sectionTitle) => `Mira este recurso: ${sectionTitle}`,
         buttonTitle: 'Compartir esta sección',
         buttonAriaLabel: (sectionTitle) => `Compartir ${sectionTitle}`
       },
       directoryEntry: {
-        title: (entryTitle) => `${entryTitle} - Guía de Recursos para Personas sin Hogar del Condado de SLO`,
+        title: (entryTitle) => `${entryTitle} — VivaSLO`,
         text: (entryTitle) => `Mira este recurso: ${entryTitle}`,
         buttonTitle: 'Compartir esta entrada del directorio',
         buttonAriaLabel: (entryTitle) => `Compartir ${entryTitle}`
@@ -444,7 +444,7 @@ const strings = {
         },
 
         messageLabel: 'Sus comentarios *',
-        messagePlaceholder: 'Por favor, describa el problema o sugerencia en detalle...',
+        messagePlaceholder: 'Por favor, describa el problema o sugerencia en detalle…',
         messageError: 'Por favor, ingrese sus comentarios',
 
         contextHeader: 'Información de contexto (se incluye automáticamente):',
@@ -455,7 +455,7 @@ const strings = {
 
         cancelButton: 'Cancelar',
         submitButton: 'Enviar comentarios',
-        submittingButton: 'Enviando...',
+        submittingButton: 'Enviando…',
 
         successIcon: '✅',
         successTitle: '¡Gracias por sus comentarios!',

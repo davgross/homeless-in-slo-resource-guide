@@ -36,7 +36,7 @@ export default {
 
       // Determine sender info
       const fromEmail = emailData.from?.email || 'noreply@vivaslo.org';
-      const fromName = emailData.from?.name || 'SLO Homeless Resource Guide';
+      const fromName = emailData.from?.name || 'VivaSLO';
 
       // Debug: log what we received
       console.log('Received emailData:', {

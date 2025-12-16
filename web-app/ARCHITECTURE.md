@@ -689,7 +689,7 @@ Entries in Directory.md follow this structure:
 ```json
 {
   "name": "SLO County Homeless Resource Guide",
-  "short_name": "SLO Resources",
+  "short_name": "VivaSLO",
   "theme_color": "#2c5282",
   "background_color": "#ffffff",
   "display": "standalone",

@@ -1330,7 +1330,7 @@ tbody tr:hover {
   /* === PRINT HEADER === */
   /* Add a simple header showing the guide name */
   #resources-section::before {
-    content: "SLO County Homeless Resource Guide";
+    content: "VivaSLO Homeless Resource Guide";
     display: block;
     font-size: 18pt;
     font-weight: bold;
@@ -1341,7 +1341,7 @@ tbody tr:hover {
   }
 
   #directory-section::before {
-    content: "SLO County Homeless Resource Guide — Directory";
+    content: "VivaSLO Homeless Resource Guide — Directory";
     display: block;
     font-size: 18pt;
     font-weight: bold;
