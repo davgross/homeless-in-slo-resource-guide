@@ -1135,10 +1135,6 @@ Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can ge
 
 [**Shower the People**](Directory.md#Shower-the-People) le da calcetines, ropa interior y una camiseta nuevos. <!-- Source: personal experience as volunteer -DG -->
 
-<!--
-[**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) has a program that gives free winter clothes to area seniors.
---><!-- SOURCE NEEDED: (issue #61) not mentioned here: https://southbayseniorspeoplehelpingpeople.com/services/ -->
-
 [**SLO Grassroots**](Directory.md#SLO-Grassroots) tiene ropa para regalar, pero (a diciembre de 2025) todavía están buscando una oficina desde donde operar.
 Tiene que hacer una cita con ellos para ver su inventario. <!-- Source: https://slograssroots.org/ -->
 
