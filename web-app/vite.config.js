@@ -27,7 +27,7 @@ export default defineConfig({
       includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png', 'icon-192-maskable.png', 'icon-512-maskable.png'],
       manifest: {
         id: '/slo-resources/',
-        name: 'SLO County Homeless Resource Guide',
+        name: 'VivaSLO Homeless Resource Guide',
         short_name: 'VivaSLO',
         description: 'Comprehensive resource guide for avoiding, surviving, and escaping homelessness in San Luis Obispo County',
         theme_color: '#3877ff',

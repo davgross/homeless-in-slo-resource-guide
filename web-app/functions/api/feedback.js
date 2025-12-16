@@ -33,7 +33,7 @@ export async function onRequestPost(context) {
     // under Pages project Settings > Functions > Service bindings
     const emailResponse = await sendEmail(env, {
       to: 'moorlock@gmail.com',
-      subject: `Feedback: ${data.type} - SLO Homeless Resource Guide`,
+      subject: `Feedback (${data.type}) - VivaSLO`,
       content: emailContent,
       replyTo: data.email && isValidEmail(data.email) ? data.email : null
     });
@@ -112,7 +112,7 @@ MESSAGE:
 ${data.message}
 
 ---
-This feedback was submitted via the SLO Homeless Resource Guide web app.
+This feedback was submitted via the VivaSLO web app.
 `;
 
   return content;
@@ -134,7 +134,7 @@ async function sendEmail(env, { to, subject, content, replyTo }) {
     content: content,
     from: {
       email: 'noreply@vivaslo.org',
-      name: 'SLO Homeless Resource Guide'
+      name: 'VivaSLO'
     },
     ...(replyTo && { replyTo: replyTo })
   };

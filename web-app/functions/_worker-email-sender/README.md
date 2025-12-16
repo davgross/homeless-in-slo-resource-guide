@@ -1,6 +1,6 @@
 # Email Sender Worker
 
-This Cloudflare Worker provides email sending capabilities using Cloudflare Email Routing for the SLO Homeless Resource Guide feedback system.
+This Cloudflare Worker provides email sending capabilities using Cloudflare Email Routing for the VivaSLO feedback system.
 
 ## Overview
 
