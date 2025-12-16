@@ -8,7 +8,7 @@ const { spawnSync } = require('child_process');
 const WHITELIST = new Set([
   // Organizations, agencies, programs, and services
   'CAPSLO', 'ECHO', 'CHC', 'TMHA', 'HASLO', 'SLOLAF', 'CASA', 'GALA', 'NAMI', 'ACLU', 'IHSS', 'WIC',
-  'HiCAP', 'GLAD', 'UndocuSupport', 'CalWORKS', 'CalFresh', 'CenCali', 'CenCal', 'Medi-Cal', 'Medi',
+  'HiCAP', 'GLAD', 'UndocuSupport', 'CalWORKS', 'CalFresh', 'CalAIM', 'CenCal', 'Medi-Cal', 'Medi',
   'FamilyPACT', 'PathPoint', 'SmartShare', 'Womenade', 'SESLOC', 'CoastHills', 'SLOCOG', 'RTA',
   'YMCA', 'KOA', 'CCADRC', 'CCATC', 'CCDS', 'CHC', 'CES', 'BHBH', 'HCHP', 'HSP', 'MISP', 'MHET',
   'UndocuSupport', 'NeighborAid', 'FamilyPACT', 'TranzCentralCoast', 'BlackHorse', 'MakerSpace',
