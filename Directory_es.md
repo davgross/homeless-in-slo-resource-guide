@@ -134,6 +134,7 @@
 - **Correo electrónico:** [ph.ecm@co.slo.ca.us](mailto:ph.ecm@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/enhanced-care-management -->
 - Notas:
    - [**CenCal Health**](#CenCal) es el punto de acceso a este programa.
+   - Proporcionado por [**Centro de Proyectos de Salud**](#Health-Projects-Center)
    - Proporcionado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) (incluido su centro de [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services)). <!-- SOURCE NEEDED (Issue #69) -->
    - Proporcionado por [**Independent Living Systems**](#Independent-Living-Systems)
    - Proporcionado por [**Santa Maria Wisdom Center**](#Santa-Maria-Wisdom-Center)
@@ -1091,6 +1092,15 @@
 - **Teléfono:** [805-543-7969](tel:+1-805-543-7969) <!-- Source: https://www.cccslo.org/what-we-do.php --->
 - **Horario:** L–V 9am–6pm <!-- Source: https://www.cccslo.org/locations.php -->
 - **Cómo obtener el servicio:** Llama para concertar una cita o utiliza su [formulario de contacto](https://www.cccslo.org/locations.php) <!-- Source: https://www.cccslo.org/locations.php -->
+
+## <a id="Health-Projects-Center">Centro de Proyectos de Salud</a>
+
+- **Sitio web:** [hpcn.org](https://www.hpcn.org/)
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.246206" data-lon="-120.672519" data-zoom="17" data-label="Health Projects Center">102 Cross St. #220, SLO</a> <!-- Source: https://www.hpcn.org/contact -->
+- **Teléfono:** [800-624-8304](tel:+1-800-624-8304) <!-- Source: https://www.hpcn.org/contact -->
+- **Horario:** M–F 9am–5pm <!-- Source: https://www.hpcn.org/contact -->
+- **Cómo obtener el servicio:** Atención presencial solo con cita previa. Llame o utilice [el formulario de contacto de la web](https://www.hpcn.org/contact). <!-- Source: https://www.hpcn.org/contact -->
+- Nota: ofrece [**Administración de la Atención Mejorada**](#Enhanced-Care-Management) <!-- Source: https://www.hpcn.org/ecm -->
 
 ## <a id="CFS">Centro para el Fortalecimiento Familiar (CFS)</a>
 
