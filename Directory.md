@@ -1319,6 +1319,7 @@
    - [**CenCal Health**](#CenCal) is the entry-point for this program
    - provided by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center) <!-- SOURCE NEEDED (Issue #69) -->
    - provided by [**Independent Living Systems**](#Independent-Living-Systems)
+   - provided by [**Santa Maria Wisdom Center**](#Santa-Maria-Wisdom-Center)
    - provided to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
 - **How to access:** Contact CenCal yourself, or ask a health and social services provider or one of the ECM providers listed above to refer you
 
@@ -3008,6 +3009,17 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:** [805-929-5694](tel:+1-805-929-5694) <!-- Source: https://santamariavalleyhispanicca.adventistchurch.org/ -->
 - **Hours** (food pantry): Sa 11am–12:30pm
 
+## <a id="Santa-Maria-Wisdom-Center">Santa Maria Wisdom Center</a>
+
+- **Website:** [smwisdomcenter.org](https://smwisdomcenter.org/)
+- **Location:** <a href="#" class="map-link" data-lat="34.918860" data-lon="-120.443700" data-zoom="17" data-label="Wisdom Center">2255 S. Depot St., Santa Maria</a> <!-- Source: https://smwisdomcenter.org/ecm/ -->
+- **Phone:** [805-354-5320](tel:+1-805-354-5320) <!-- Source: https://smwisdomcenter.org/ecm/ -->
+   - Enhanced Care Management: [805-314-5551](tel:+1-805-314-5551)
+- **Email:** [info@smwisdomcenter.org](mailto:info@smwisdomcenter.org) <!-- Source: https://smwisdomcenter.org/ecm/ -->
+   - Enhanced Care Management: [ECMdirector@smwisdomcenter.org](mailto:ECMdirector@smwisdomcenter.org)
+- **Hours:** M–F 9am–2pm <!-- Source: https://smwisdomcenter.org/ecm/ though I also see 8-3 and 8-5 in other places on their site -->
+- Note: offers [**Enhanced Care Management**](#Enhanced-Care-Management) <!-- Source: https://smwisdomcenter.org/ecm/ -->
+
 ## <a id="Second-Chances-Thrift-Store">Second Chances Thrift Store</a>
 
 - **Website:** [captivehearts.org/second-chances-store.html](https://www.captivehearts.org/second-chances-store.html)
@@ -3961,6 +3973,10 @@ There are several urgent care options, including:
 ## Wellness Centers
 
 > *See [**Transitions Mental Health Association (TMHA)**](#TMHA)*
+
+## Wisdom Center
+
+> *See [**Santa Maria Wisdom Center**](#Santa-Maria-Wisdom-Center)*
 
 ## <a id="WIC">Women, Infants, and Children (WIC)</a>
 
