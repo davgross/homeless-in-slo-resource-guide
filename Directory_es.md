@@ -20,7 +20,7 @@
    - Centro de Enfriamiento: 8am–6pm (solo cuando el centro de enfriamiento está en operación) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - Estacionamiento Seguro: 6pm–7pm <!-- Source: https://capslo.org/safe-parking/ -->
 - **Cómo obtener el servicio:** venga al refugio durante las horas de inscripción
-   - Para usar el refugio, debe estar sin hogar, debe tener una identificación con foto válida, y no debe tener un registro criminal de delincuente sexual P.C. 290. Debe poder cuidarse de sí mismo independientemente (bañarse, alimentarse, vestirse, etc.). Hay un número limitado de camas; se da prioridad a los residentes del condado de SLO.
+   - Para usar el refugio, debe estar sin hogar, debe tener una identificación con foto válida y no debe tener un registro criminal de delincuente sexual P.C. 290. Debe poder cuidarse de sí mismo independientemente (bañarse, alimentarse, vestirse, etc.). Hay un número limitado de camas; se da prioridad a los residentes del condado de SLO.
 - Notas:
    - opera [**Programa Rotativo de Estacionamiento Seguro Nocturno**](#Rotating-Overnight-Safe-Parking-Program)
    - opera [**SLO Hub**](#SLO-Hub) <!-- Source: https://capslo.org/40-prado/ -->
@@ -926,7 +926,7 @@
 - **Correo electrónico:** [info@cayucoschurch.com](mailto:info@cayucoschurch.com) <!-- Source: https://cayucoschurch.com/ministries/ -->
 - **Horario:**
    - Oficina: Ma–J 10am–2pm (cerrado los viernes y días festivos)
-   - Despensa de alimentos (“Harvest Bag”): Primer, tercer, cuarto, y quinto miércoles at 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
+   - Despensa de alimentos (“Harvest Bag”): Primer, tercer, cuarto y quinto miércoles at 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
    - Distribución de alimentos del USDA: segundo miércoles a las 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
 
 ## <a id="CenCal">CenCal Health</a>
@@ -1132,7 +1132,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.275653" data-lon="-120.644484" data-zoom="17" data-label="Child Development Resource Center">1720 Bishop St., SLO</a> <!-- Source: https://www.childrensresource.org/ -->
 - **Teléfono:** [805-544-0801](tel:+1-805-544-0801) <!-- Source: https://www.childrensresource.org/ -->
 - **Correo electrónico:** [info@slocdc.org](mailto:info@slocdc.org)
-- **Cómo obtener el servicio:** Complete [una solicitud](https://www.childrensresource.org/regristration) u obtenga una referencia de servicios de bienestar infantil o de un proveedor legal, médico, de servicios sociales, o de refugio de emergencia. La matrícula se basa en una escala móvil según los ingresos. Hay ayuda financiera disponible.
+- **Cómo obtener el servicio:** Complete [una solicitud](https://www.childrensresource.org/regristration) u obtenga una referencia de servicios de bienestar infantil o de un proveedor legal, médico, de servicios sociales o de refugio de emergencia. La matrícula se basa en una escala móvil según los ingresos. Hay ayuda financiera disponible.
 <!-- Nota: Hours of operation not publicly listed (as of October 2025); contact directly for hours -->
 
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
@@ -1286,7 +1286,7 @@
 - **Teléfono:** [866-614-4636](tel:+1-866-614-4636) <!-- Source: https://www.communityhealthcenters.org/about/contact-us/ -->
    - Text: [805-361-8400](sms:+1-805-361-8400) <!-- Source: https://www.communityhealthcenters.org/about/contact-us/ -->
 - **Cómo obtener el servicio:** Los centros de atención inmediata o de urgencias aceptan pacientes sin cita previa. De lo contrario, solicite una cita.
-   - Acepta pagos privados, seguros completos y parciales, Medi-Cal, y Medicare. También ofrece una escala móvil de tarifas según los ingresos y el tamaño de la familia para personas sin seguro médico. <!-- Source: https://www.communityhealthcenters.org/patient-resources/payment-options-test/ -->
+   - Acepta pagos privados, seguros completos y parciales, Medi-Cal y Medicare. También ofrece una escala móvil de tarifas según los ingresos y el tamaño de la familia para personas sin seguro médico. <!-- Source: https://www.communityhealthcenters.org/patient-resources/payment-options-test/ -->
 - Notas:
    - También opera [**Healthcare for the Homeless Program**](#HCHP) en el [**40 Prado Homeless Services Center**](#40-Prado)
    - “CHC Transportation Services” es un servicio de transporte puerta a puerta para citas: ([877-743-3242](tel:+1-877-743-3242))
@@ -1310,7 +1310,7 @@
 - **Cómo obtener el servicio:**
    - South County: Contacta con [**5Cities Homeless Coalition**](Directory#5CHC)
    - en todo el condado: Contacta con [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
-   - O iniciar contacto a través de otras agencias participantes como [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), [**Transitions Mental Health Association (TMHA)**](#TMHA), [**Refugio del Buen Samaritano**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services), o [**SLO County Health Department**](#SLO-County-Health-Department)
+   - O iniciar contacto a través de otras agencias participantes como [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), [**Transitions Mental Health Association (TMHA)**](#TMHA), [**Refugio del Buen Samaritano**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) o [**SLO County Health Department**](#SLO-County-Health-Department)
 - Notas:
    - un punto de entrada para [**Housing Now**](#Housing-Now), (at least some of) [**Peoples’ Self-Help Housing**](#Peoples-Self-Help-Housing), [**Welcome Home Village**](#Welcome-Home-Village)
    - supervisado por “Homeless Services Oversight Council (HSOC)”
@@ -1424,7 +1424,7 @@
 ## <a id="Dignity-Health">Dignity Health</a>
 
 - Sitio web: [dignityhealth.org](https://www.dignityhealth.org/)
-- opera [**Arroyo Grande Community Hospital**](#Arroyo-Grande-Community-Hospital), [**French Hospital Medical Center**](#French-Hospital-Medical-Center), y [**Dignity Health Urgent Care**](#Dignity-Health-Urgent-Care)
+- opera [**Arroyo Grande Community Hospital**](#Arroyo-Grande-Community-Hospital), [**French Hospital Medical Center**](#French-Hospital-Medical-Center) y [**Dignity Health Urgent Care**](#Dignity-Health-Urgent-Care)
 - opera el programa “Substance Use Navigator”
 
 ## <a id="Dignity-Health-Urgent-Care">Dignity Health Urgent Care</a>
@@ -2684,7 +2684,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [775-841-7463](tel:+1-775-841-7463) <!-- Source: https://petsofthehomeless.org/ -->
    - Emergency Veterinary Care Program: administradores de casos disponibles L–V 9am–3pm para casos nuevos <!-- Source: https://petsofthehomeless.org/get-help/how-we-help/ -->
 - **Correo electrónico:** [info@petsofthehomeless.org](mailto:info@petsofthehomeless.org) <!-- Source: https://petsofthehomeless.org/ -->
-- Nota: tiene ubicaciones asociadas en SLO incluyendo Animal Care Clinic, Mission Animal Hospital, y Woods Humane Society <!-- Source: https://petsofthehomeless.org/get-help/find-locations -->
+- Nota: tiene ubicaciones asociadas en SLO incluyendo Animal Care Clinic, Mission Animal Hospital y Woods Humane Society <!-- Source: https://petsofthehomeless.org/get-help/find-locations -->
 
 ## <a id="Pismo-Beach-Athletic-Club">Pismo Beach Athletic Club</a>
 
@@ -2809,7 +2809,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-466-3554](tel:+1-805-466-3554) <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
 - **Correo electrónico:** [office@refugechurch.info](mailto:office@refugechurch.info) <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
 - **Horario:**
-   - Despensa de alimentos y ropa: Ma 5–6pm, Mi 6–6:30pm<!-- Source: https://refugechurch.info/connect/open-arms-ministry -->, o con cita previa
+   - Despensa de alimentos y ropa: Ma 5–6pm, Mi 6–6:30pm<!-- Source: https://refugechurch.info/connect/open-arms-ministry --> o con cita previa
    - Refuge recovery (para cualquier persona que lucha con la adicción): Ma 6pm <!-- Source: https://refugechurch.info/connect/open-arms-ministry -->
    - Comidas gratis: Ma 5pm/Mi 6pm dinner
    - Oficina: L–V 8am–5pm
@@ -3491,7 +3491,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - Runabout Paratransit: [805-781-4833](tel:+1-805-781-4833)
 - **Correo electrónico:** [info@slorta.org](mailto:info@slorta.org) <!-- Source: https://www.slorta.org/ -->
 - **Horario** (oficina): L–J 8am–4pm; Friday solo con cita previa <!-- Source: https://www.slorta.org/about-rta/contact/ -->
-- Nota: también opera “Runabout Paratransit,” [**Senior Go! Shuttle**](#Senior-Go), y “Dial-A-Ride”
+- Nota: también opera “Runabout Paratransit,” [**Senior Go! Shuttle**](#Senior-Go) y “Dial-A-Ride”
 
 ## <a id="SLO-Senior-Center">SLO Senior Center</a>
 
@@ -3767,7 +3767,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Sitio web:** [cesanluisobispo.ucanr.edu](https://cesanluisobispo.ucanr.edu/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.274187" data-lon="-120.647553" data-zoom="17" data-label="U.C. Cooperative Extension">2156 Sierra Way #C, SLO</a> <!-- Source: https://ucanr.edu/county/county-san-luis-obispo -->
 - **Teléfono:** [805-781-5940](tel:+1-805-781-5940) <!-- Source: https://ucanr.edu/county/county-san-luis-obispo -->
-- Nota: programas educativos basados en investigación incluyendo Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agricultura, y horticultura; el costo varía según el programa
+- Nota: programas educativos basados en investigación incluyendo Master Gardener Program, Master Food Preserver Program, Forest Stewardship Workshops, agricultura y horticultura; el costo varía según el programa
 
 ## <a id="SLO-County-UndocuSupport">UndocSupport del Condado de SLO</a>
 
@@ -3970,7 +3970,7 @@ Hay varias opciones de atención de urgencias, incluyendo:
 - **Cómo obtener el servicio:** solo con cita previa (llame o envíe mensaje de texto to make an appointment) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - Elegibilidad: Este programa está restringido a personas para quienes ambos de los siguientes requisitos son verdaderos:
    - Está embarazada, amamantando, dio a luz o tuvo una pérdida de embarazo en los últimos seis meses, o cuida de un niño menor de cinco años
-   - Y vive en California y tiene ingresos por debajo de cierto umbral, o recibe beneficios de Medi-Cal, [CalWORKs](#CalWORKs), o CalFresh.
+   - Y vive en California y tiene ingresos por debajo de cierto umbral, o recibe beneficios de Medi-Cal, [CalWORKs](#CalWORKs) o CalFresh.
 
 <a id="Womenade"><!-- TBD: Womenade groups are distinct organizations, not branches of the same organization --></a>
 
