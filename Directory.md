@@ -1318,6 +1318,7 @@
 - Notes:
    - [**CenCal Health**](#CenCal) is the entry-point for this program
    - provided by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center) <!-- SOURCE NEEDED (Issue #69) -->
+   - provided by [**Health Projects Center**](#Health-Projects-Center)
    - provided by [**Independent Living Systems**](#Independent-Living-Systems)
    - provided by [**Santa Maria Wisdom Center**](#Santa-Maria-Wisdom-Center)
    - provided to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
@@ -1581,6 +1582,15 @@
 ## Health Insurance Counseling & Advocacy Program
 
 > *See [**HiCAP (Health Insurance Counseling & Advocacy Program)**](#HiCAP)*
+
+## <a id="Health-Projects-Center">Health Projects Center</a>
+
+- **Website:** [hpcn.org](https://www.hpcn.org/)
+- **Location:** <a href="#" class="map-link" data-lat="35.246206" data-lon="-120.672519" data-zoom="17" data-label="Health Projects Center">102 Cross St. #220, SLO</a> <!-- Source: https://www.hpcn.org/contact -->
+- **Phone:** [800-624-8304](tel:+1-800-624-8304) <!-- Source: https://www.hpcn.org/contact -->
+- **Hours:** M–F 9am–5pm <!-- Source: https://www.hpcn.org/contact -->
+- **How to access:** In-person by appointment only. Call or use the [website contact form](https://www.hpcn.org/contact). <!-- Source: https://www.hpcn.org/contact -->
+- Note: offers [**Enhanced Care Management**](#Enhanced-Care-Management) <!-- Source: https://www.hpcn.org/ecm -->
 
 ## <a id="Help-Hope-Live">Help Hope Live</a>
 
