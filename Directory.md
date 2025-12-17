@@ -1318,11 +1318,19 @@
 - Notes:
    - [**CenCal Health**](#CenCal) is the entry-point for this program
    - provided by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) (including its [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services) center) <!-- SOURCE NEEDED (Issue #69) -->
+   - provided by [**Esteem Health**](#Esteem-Health)
    - provided by [**Health Projects Center**](#Health-Projects-Center)
    - provided by [**Independent Living Systems**](#Independent-Living-Systems)
    - provided by [**Santa Maria Wisdom Center**](#Santa-Maria-Wisdom-Center)
    - provided to youth through [**Seneca Central Coast**](#Seneca-Central-Coast)
 - **How to access:** Contact CenCal yourself, or ask a health and social services provider or one of the ECM providers listed above to refer you
+
+## <a id="Esteem-Health">Esteem Health</a>
+
+- **Website:** [esteem.health](https://www.esteem.health/)
+- **Phone:** [855-378-3361](tel:+1-855-378-3361) <!-- Source: https://www.esteem.health/ecm-signup -->
+- **Email:** [info@esteem.health](mailto:info@esteem.health) <!-- Source: https://www.esteem.health/ecm-signup -->
+- Note: offers [**Enhanced Care Management**](#Enhanced-Care-Management) <!-- Source: https://www.esteem.health/ecm-signup -->
 
 ## <a id="EyeCare-America">EyeCare America</a>
 
