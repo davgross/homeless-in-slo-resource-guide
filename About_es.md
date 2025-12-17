@@ -73,7 +73,7 @@ Otros navegadores como Chrome o Firefox no admiten la instalación de aplicacion
 1. Toca el botón de menú (**☰**) en la parte inferior.
 2. Toca **Añadir página a** y luego **Pantalla de inicio**.
 
-### Windows, Mac, o Linux (Chrome, Edge, o Brave)
+### Windows, Mac o Linux (Chrome, Edge o Brave)
 
 1. Busca el icono de instalación en la barra de direcciones (un monitor con una flecha hacia abajo) o
 2. Haz clic en el menú del navegador (**⋮** en Chrome/Brave o **⋯** en Edge) y busca **Instalar…**.
