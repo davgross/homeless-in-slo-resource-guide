@@ -136,6 +136,7 @@
    - [**CenCal Health**](#CenCal) es el punto de acceso a este programa.
    - Proporcionado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) (incluido su centro de [**Outreach and Engagement Services**](#Outreach-and-Engagement-Services)). <!-- SOURCE NEEDED (Issue #69) -->
    - Proporcionado por [**Independent Living Systems**](#Independent-Living-Systems)
+   - Proporcionado por [**Santa Maria Wisdom Center**](#Santa-Maria-Wisdom-Center)
    - Proporcionado a jóvenes a través de [**Seneca Central Coast**](#Seneca-Central-Coast)
    - **Cómo acceder:** Comuníquese con CenCal usted mismo o solicite a un proveedor de servicios sociales y de salud o a uno de los proveedores de ECM mencionados anteriormente que lo deriven.
 
@@ -3047,6 +3048,17 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-929-5694](tel:+1-805-929-5694) <!-- Source: https://santamariavalleyhispanicca.adventistchurch.org/ -->
 - **Horario** (despensa de alimentos): S 11am–12:30pm
 
+## <a id="Santa-Maria-Wisdom-Center">Santa Maria Wisdom Center</a>
+
+- **Sitio web:** [smwisdomcenter.org](https://smwisdomcenter.org/)
+- **Ubicación:** <a href="#" class="map-link" data-lat="34.918860" data-lon="-120.443700" data-zoom="17" data-label="Wisdom Center">2255 S. Depot St., Santa Maria</a> <!-- Source: https://smwisdomcenter.org/ecm/ -->
+- **Teléfono:** [805-354-5320](tel:+1-805-354-5320) <!-- Source: https://smwisdomcenter.org/ecm/ -->
+   - Administración de la Atención Mejorada: [805-314-5551](tel:+1-805-314-5551)
+- **Correo electrónico:** [info@smwisdomcenter.org](mailto:info@smwisdomcenter.org) <!-- Source: https://smwisdomcenter.org/ecm/ -->
+   - Administración de la Atención Mejorada: [ECMdirector@smwisdomcenter.org](mailto:ECMdirector@smwisdomcenter.org)
+- **Horario:** L–V 9am–2pm <!-- Source: https://smwisdomcenter.org/ecm/ though I also see 8-3 and 8-5 in other places on their site -->
+- Note: ofrece [**Administración de la Atención Mejorada**](#Enhanced-Care-Management) <!-- Source: https://smwisdomcenter.org/ecm/ -->
+
 ## <a id="Second-Chances-Thrift-Store">Second Chances Thrift Store</a>
 
 - **Sitio web:** [captivehearts.org/second-chances-store.html](https://www.captivehearts.org/second-chances-store.html)
@@ -3063,7 +3075,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Correo electrónico:** [info@senecacenter.org](mailto:info@senecacenter.org) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
 - Notas:
    - anteriormente llamado “Kinship Center”
-   - offers [**Administración de la Atención Mejorada**](#Enhanced-Care-Management) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
+   - ofrece [**Administración de la Atención Mejorada**](#Enhanced-Care-Management) <!-- Source: https://senecafoa.org/regions/central-coast/ -->
 
 ## <a id="Senior-Connection">Senior Connection</a>
 
@@ -3950,6 +3962,10 @@ Hay varias opciones de atención de urgencias, incluyendo:
 ## Wellness Centers
 
 > *Vea [**Transitions Mental Health Association (TMHA)**](#TMHA)*
+
+## Wisdom Center
+
+> *Vea [**Santa Maria Wisdom Center**](#Santa-Maria-Wisdom-Center)*
 
 ## <a id="WIC">Women, Infants, and Children (WIC)</a>
 
