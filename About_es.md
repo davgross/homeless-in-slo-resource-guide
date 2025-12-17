@@ -3,7 +3,7 @@
 Esta guía de recursos ayuda a las personas sin hogar en el condado de San Luis Obispo a encontrar servicios y apoyo.
 Utiliza colores e íconos para ayudarte a identificar rápidamente el tipo de enlace o botón que estás viendo:
 
-## Tipos de enlaces
+## Tipos de Enlaces
 
 | Tipo de enlaces                  | Aspecto                                                            | Qué hace al hacer clic |
 | -------------------------------- | ------------------------------------------------------------------ | ---------------------- |
@@ -20,6 +20,7 @@ Utiliza colores e íconos para ayudarte a identificar rápidamente el tipo de en
 | ----------------------- | ----------------------------------------- | ---------------------- |
 | **Navegación**          | <span style="font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;"><span style="color: var(--primary-color);">**Recursos**</span> / <span style="color: var(--primary-color);">**Directorio**</span> / <span style="color: var(--primary-color);">**Sobre**</span></span> | Cambia entre las secciones principales de esta guía. |
 | **Buscar**              | <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif; border: 1px solid var(--primary-color); border-radius: 5px; padding: 0.25rem;">Buscar…   </span> | Busca temas, agencias o servicios específicos. |
+| **Idioma**            | <span style="font-family: monospace; font-weight: 600; color: white; border-radius: 4px; background-color: #1a62ff; padding: 0.5rem 0.75rem;">🌐&nbsp;ES</span> | Cambia entre inglés y español. |
 | **Índice**              | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#1a62ff;color:white;font-size:24px;text-shadow:0 0 3px rgba(255, 255, 255, 0.9), 0 0 6px rgba(255, 255, 255, 0.7), 0 0 9px rgba(255, 255, 255, 0.5), 0 0 1px rgba(0, 0, 0, 0.8), 1px 1px 2px rgba(0, 0, 0, 0.6);">📖</span> | Regresa al índice al explorar la guía de recursos. |
 | **Comentarios**         | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#5a93ff;color:white;font-size:24px;">💬</span> | Envía comentarios sobre errores o sugerencias de mejora. |
 | **Compartir**           | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#c65010;color:white;font-size:24px;text-shadow:0 0 4px rgba(0, 0, 0, 0.5), 0 0 8px rgba(0, 0, 0, 0.4), 0 0 12px rgba(0, 0, 0, 0.3), 1px 1px 3px rgba(0, 0, 0, 0.4), -1px -1px 3px rgba(0, 0, 0, 0.4);">🔗</span> | Comparte un enlace a esta guía de recursos. |
