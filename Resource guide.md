@@ -673,6 +673,53 @@ You then have 30 days to retrieve the property, or it may be destroyed. <!-- Sou
 If you do not have a stable mailing address, or if the Sheriffs Department does not know your mailing address, you may never see this letter!
 In such a case, you may want to contact the Sheriffs department to let them know how to contact you if they decide to release your property.
 
+### <a id="recovering-towed-vehicle">Recovering a Towed Vehicle, or Property from Towed Vehicle</a>
+
+If your vehicle was towed away, it may have been towed by any of several different private towing companies to their tow yard.
+If it was towed from private property (for example, the parking lot of a business), there should be a sign on that property that warns people who park there that they may be towed and that displays the name and contact information of the towing company.
+
+Law enforcement agencies (police, sheriff, CHP, or parking enforcement) also use these private towing companies to tow vehicles.
+They use a variety of companies, so you have to contact the law enforcement agency itself to ask them which company towed your vehicle and what the contact information for that company is.
+If your vehicle was towed from within city limits, this agency was probably the local police department (on Cal Poly campus, it may be Cal Poly’s own police department) or parking services.
+If your vehicle was towed from the side of a freeway, an on- or off-ramp, or an over- or underpass, this agency may have been the California Highway Patrol.
+If your vehicle was towed from somewhere else outside of city limits, this agency was probably the SLO County Sheriff (for national forest, state parks, or the National Guard base, it may have been some other agency).
+Here are some contact numbers for those agencies:
+
+| Agency                    | Non-Emergency Phone Number |
+| ------------------------- | -------------------------- |
+| Arroyo Grande police      | [805-473-5100](tel:+1-805-473-5100) |
+| Atascadero police         | [805-461-5051](tel:+1-805-461-5051) |
+| California Highway Patrol | [805-594-8700](tel:+1-805-594-8700) (SLO / south county)<br />[805-434-1822](tel:+1-805-434-1822) (north county)<br />[800-TELL-CHP](tel:+1-800-835-5247) (statewide) |
+| Cal Poly police           | [805-756-2281](tel:+1-805-756-2281) |
+| Camp Roberts              | [805-238-8286](tel:+1-805-238-8286) |
+| Grover Beach police       | [805-473-4511](tel:+1-805-473-4511) |
+| Morro Bay police          | [805-772-6225](tel:+1-805-772-6225) |
+| national forest           | [707-562-9128](tel:+1-707-562-9128) (Los Padres National Forest) |
+| Paso Robles police        | [805-227-7500](tel:+1-805-227-7500) |
+| Pismo Beach police        | [805-773-7024](tel:+1-805-773-7024) |
+| SLO county sheriff        | [805-781-4550](tel:+1-805-781-4550) |
+| SLO police                | [805-781-7317](tel:+1-805-781-7317) |
+| state parks               | [805-927-2065](tel:+1-805-927-2065) (north coast)<br />[805-773-7170](tel:+1-805-773-7170) (Oceano dunes and Pismo beach) |
+
+The agency that ordered the towing of your vehicle will send you notice of this by mail to the address the vehicle is registered under.
+
+To retrieve your vehicle from the tow lot, you need to show the lot operator your driver’s license and vehicle registration (if your vehicle registration is in the vehicle, you can retrieve it from the vehicle), and you need to pay towing and storage fees charged by the tow company.
+If you have outstanding parking fines, you may have to pay those first.
+If you are not the owner of the vehicle, you may need to prove that you have the owner’s permission to retrieve the vehicle for them.
+
+In some cases, you may need to obtain a “release” from the law enforcement agency that ordered the impound of your vehicle before the lot will release it to you.
+If your vehicle or its contents are considered to be evidence in an ongoing investigation or court case, the law enforcement office may have put a “hold” on your vehicle and its contents, which means you will not be allowed to access or retrieve it until they remove that hold.
+
+If you believe your vehicle was towed without a good legal reason, or that the reasons your vehicle was towed were no fault of your own, you can request a “vehicle impound hearing” within ten days. <!-- Source: https://codes.findlaw.com/ca/vehicle-code/veh-sect-22852/ -->
+If you can convince the hearing officer of your arguments, your vehicle will be returned to you without you having to pay towing and storage fees. <!-- Source: https://codes.findlaw.com/ca/vehicle-code/veh-sect-22852/ -->
+
+If you cannot afford to pay the fines and fees to retrieve your vehicle, you can still retrieve your property from your vehicle (unless there is a law-enforcement “hold”). <!-- Source: https://california.public.law/codes/vehicle_code_section_22651.07 -->
+You do not have to pay fees to retrieve your personal belongings from your impounded vehicle. <!-- Source: https://california.public.law/codes/vehicle_code_section_22651.07 -->
+Just go to the tow yard during regular business hours, and bring your ID and proof of ownership.
+
+When a vehicle is towed at the behest of law enforcement, sometimes the law enforcement officer will do an inventory of the property in the vehicle and document what they found or noticed.
+If you find that property is missing from your vehicle, you might ask for this report to see if it was in the vehicle when the tow company towed it.
+
 -----
 
 ## <a id="food">Food</a>
