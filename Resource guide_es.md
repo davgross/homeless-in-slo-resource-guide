@@ -673,6 +673,52 @@ Luego tiene 30 días para recuperar la propiedad, o puede ser destruida. <!-- So
 Si no tiene una dirección postal estable, o si el Sheriffs Department no conoce su dirección postal, ¡puede que nunca vea esta carta!
 En tal caso, es posible que desee comunicarse con el Sheriffs Department para informarles cómo contactarlo si deciden liberar su propiedad.
 
+### <a id="recovering-towed-vehicle">Recuperación de un Vehículo Remolcado o Propiedad de un Vehículo Remolcad</a>
+
+Si su vehículo fue remolcado, es posible que alguna de las diferentes compañías privadas de remolque lo haya remolcado hasta su patio de remolque.
+Si fue remolcado desde una propiedad privada (por ejemplo, el estacionamiento de un negocio), debería haber un letrero en esa propiedad que advierta a quienes estacionen allí que podrían ser remolcados y que muestre el nombre y la información de contacto de la compañía de remolque.
+
+Las agencias del orden público (policía, sheriff, CHP o control de estacionamiento) también utilizan estas compañías privadas de remolque para remolcar vehículos.
+Utilizan diversas compañías, por lo que debe contactar a la agencia del orden público para preguntarles qué compañía remolcó su vehículo y cuál es su información de contacto.
+Si su vehículo fue remolcado desde dentro de los límites de la ciudad, probablemente se trate del departamento de policía local (en el campus de Cal Poly, podría ser el propio departamento de policía de Cal Poly) o de los servicios de estacionamiento. Si su vehículo fue remolcado desde una autopista, una rampa de entrada o salida, o un paso elevado o subterráneo, es posible que esta agencia haya sido la California Highway Patrol.
+Si su vehículo fue remolcado desde algún lugar fuera de los límites de la ciudad, es probable que esta agencia haya sido el Sheriff del Condado de SLO (en bosques nacionales, parques estatales o la base de la Guardia Nacional; podría haber sido otra agencia).
+Aquí tiene algunos números de contacto de estas agencias:
+
+| Agencia                    | Teléfono para Casos que no Sean de Emergencia |
+| -------------------------- | --------------------------------------------- |
+| bosque nacional            | [707-562-9128](tel:+1-707-562-9128) (Bosque Nacional Los Padres) |
+| California Highway Patrol  | [805-594-8700](tel:+1-805-594-8700) (SLO / condado sur)<br />[805-434-1822](tel:+1-805-434-1822) (condado norte)<br />[800-TELL-CHP](tel:+1-800-835-5247) (todo el estado) |
+| Camp Roberts               | [805-238-8286](tel:+1-805-238-8286) |
+| parques estatales          | [805-927-2065](tel:+1-805-927-2065) (costa norte)<br />[805-773-7170](tel:+1-805-773-7170) (Oceano Dunes and Pismo beach) |
+| Policía de Arroyo Grande   | [805-473-5100](tel:+1-805-473-5100) |
+| Policía de Atascadero      | [805-461-5051](tel:+1-805-461-5051) |
+| Policía de Cal Poly        | [805-756-2281](tel:+1-805-756-2281) |
+| Policía de Grover Beach    | [805-473-4511](tel:+1-805-473-4511) |
+| Policía de Morro Bay       | [805-772-6225](tel:+1-805-772-6225) |
+| Policía de Paso Robles     | [805-227-7500](tel:+1-805-227-7500) |
+| Policía de Pismo Beach     | [805-773-7024](tel:+1-805-773-7024) |
+| Policía de SLO             | [805-781-7317](tel:+1-805-781-7317) |
+| Sheriff del condado de SLO | [805-781-4550](tel:+1-805-781-4550) |
+
+La agencia que ordenó el remolque de su vehículo le enviará una notificación por correo a la dirección donde está registrado.
+
+Para retirar su vehículo del estacionamiento, debe mostrar al operador su licencia de conducir y la matrícula del vehículo (si la matrícula está en el vehículo, puede retirarla) y pagar las tarifas de remolque y almacenamiento que cobra la compañía de remolque.
+Si tiene multas de estacionamiento pendientes, es posible que deba pagarlas primero.
+Si no es el propietario del vehículo, es posible que deba demostrar que tiene el permiso del propietario para retirarlo.
+
+En algunos casos, es posible que deba obtener una autorización de la agencia policial que ordenó el decomiso de su vehículo antes de que el estacionamiento se lo entregue.
+Si su vehículo o su contenido se consideran prueba en una investigación o un caso judicial en curso, es posible que la agencia policial haya impuesto una retención sobre su vehículo y su contenido, lo que significa que no podrá acceder ni recuperarlo hasta que se levante dicha retención.
+
+Si cree que su vehículo fue remolcado sin una buena razón legal, o que las razones del remolque no fueron su culpa, puede solicitar una audiencia de incautación vehicular dentro de los diez días. <!-- Source: https://codes.findlaw.com/ca/vehicle-code/veh-sect-22852/ -->
+Si logra convencer al oficial de audiencias de sus argumentos, le devolveremos su vehículo sin tener que pagar los cargos de remolque y almacenamiento. <!-- Source: https://codes.findlaw.com/ca/vehicle-code/veh-sect-22852/ -->
+
+Si no puede pagar las multas y cargos para recuperar su vehículo, aún puede recuperar sus pertenencias (a menos que exista una orden de retención). <!-- Source: https://california.public.law/codes/vehicle_code_section_22651.07 -->
+No tiene que pagar ninguna tarifa para recuperar sus pertenencias personales de su vehículo incautado. <!-- Source: https://california.public.law/codes/vehicle_code_section_22651.07 -->
+Simplemente diríjase al depósito de remolque durante el horario de atención habitual y traiga su identificación y comprobante de propiedad.
+
+Cuando un vehículo es remolcado por orden de las fuerzas del orden, a veces el agente realiza un inventario de los objetos que se encuentran en el vehículo y documenta lo que encontraron o notaron.
+Si descubre que falta algún objeto en su vehículo, puede solicitar este informe para verificar si estaba dentro del vehículo cuando la grúa lo remolcó.
+
 -----
 
 ## <a id="food">Alimentos</a>
