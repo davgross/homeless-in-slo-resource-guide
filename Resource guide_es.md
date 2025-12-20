@@ -976,8 +976,13 @@ Puede encontrar un mapa de estas estaciones de hidratación [en este enlace](htt
 | <a href="#" class="map-link" data-lat="35.2897302" data-lon="-120.6643515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | cerca del estacionamiento | 24/7 |
 | <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | cerca del parque de patinaje | 24/7 |
 | <a href="#" class="map-link" data-lat="35.284345" data-lon="-120.660815" data-zoom="17" data-label="Hydration Station">864 Santa Rosa St.</a> | adentro, cerca del gimnasio | esporádico <!-- According to AskSLO response by email 12/8/25 Ludwick Community Center does not have regular open hours --> |
-| <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | cerca del área de juegos | 24/7 |
 | <a href="#" class="map-link" data-lat="35.2673584" data-lon="-120.6467609" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | afuera del estadio     | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | cerca del área de juegos | 24/7 |
+| <a href="#" class="map-link" data-lat="35.279136" data-lon="-120.657520" data-zoom="17" data-label="Hydration Station">Mitchell Park</a>      | cerca del área de juegos | 24/7 |
+| <a href="#" class="map-link" data-lat="35.264736" data-lon="-120.702174" data-zoom="17" data-label="Hydration Station">Laguna Hills Park</a>  | cerca del área de juegos | 24/7 |
+| <a href="#" class="map-link" data-lat="35.249799" data-lon="-120.625044" data-zoom="17" data-label="Hydration Station">Islay Hill Park</a>    | cerca del área de juegos | 24/7 |
+| <a href="#" class="map-link" data-lat="35.247025" data-lon="-120.636288" data-zoom="18" data-label="Hydration Station">French Park</a>        | en el edificio       | 24/7 |
+| <a href="#" class="map-link" data-lat="35.280371" data-lon="-120.664006" data-zoom="18" data-label="Hydration Station">Mission Plaza</a>      | frente a la misión | 24/7 |
 | <a href="#" class="map-link" data-lat="35.2666459" data-lon="-120.6446262" data-zoom="17" data-label="Hydration Station">900 Southwood</a>    | en el centro de natación | L–V 6–8am, 11:30–3:30pm, 5:30–7pm; Sa/Do 11:30–1:30pm |
 
 -----
