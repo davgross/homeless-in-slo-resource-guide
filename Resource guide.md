@@ -45,7 +45,7 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
 1. [Tax Preparation](#tax-preparation)
 1. [Emergency Financial Help](#emergency-financial-help)
 1. [Social Security & Benefits](#navigating-social-security)
-1. [Obtaining Employment](#employment-job-boards)
+1. [Getting a Job](#employment-job-boards)
 1. [Education & Job Training](#education-job-skills-training)
 1. [Phones & Phone Service](#phones)
 1. [Internet & Email](#internet-and-email)
@@ -613,7 +613,7 @@ Here are some residential treatment options in SLO County:
 
 -----
 
-## <a id="property-storage">Property Storage Options</a>
+## <a id="property-storage">Property Storage and Recovery</a>
 
 ### <a id="short-term-property-storage">Short-Term</a>
 
@@ -1000,6 +1000,8 @@ You can find a map of these hydration stations [at this link](https://storymaps.
 - [Transportation to Medical Appointments](#transportation-to-medical-appointments)
 - [Bicycles](#bicycles)
 - [Automobile Insurance and Repair](#auto-insurance-and-repair)
+
+> *See [Recovering a Towed Vehicle, or Property from Towed Vehicle](#recovering-towed-vehicle) for details about how to get your vehicle back if it was towed away.*
 
 ### <a id="public-transit">Public Transit</a>
 

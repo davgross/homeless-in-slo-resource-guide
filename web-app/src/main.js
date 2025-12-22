@@ -473,7 +473,7 @@ function transformTOCToLozenges(container) {
     'Tax Preparation': '📊',
     'Emergency Financial Help': '💵',
     'Social Security & Benefits': '🏛️',
-    'Obtaining Employment': '💼',
+    'Getting a Job': '💼',
     'Education & Job Training': '📚',
     'Phones & Phone Service': '📱',
     'Internet & Email': '💻',
