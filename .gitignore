@@ -1,1 +1,4 @@
 node_modules/
+
+# Generated URL lists
+scripts/urls.json
