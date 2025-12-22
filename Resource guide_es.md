@@ -613,7 +613,7 @@ Aquí hay algunas opciones de tratamiento residencial en el condado de SLO:
 
 -----
 
-## <a id="property-storage">Opciones para Guardar Sus Pertenencias</a>
+## <a id="property-storage">Opciones para Guardar o Recuperar Sus Pertenencias</a>
 
 ### <a id="short-term-property-storage">Corto Plazo</a>
 
@@ -996,6 +996,8 @@ Puede encontrar un mapa de estas estaciones de hidratación [en este enlace](htt
 - [Transporte a Citas Médicas](#transportation-to-medical-appointments)
 - [Bicicletas](#bicycles)
 - [Seguro y Reparación de Automóviles](#auto-insurance-and-repair)
+
+> *Consulte [Recuperación de un Vehículo Remolcado o Propiedad de un Vehículo Remolcad](#recovering-towed-vehicle) para obtener detalles sobre cómo recuperar su vehículo si fue remolcado.
 
 ### <a id="public-transit">Transporte Público</a>
 

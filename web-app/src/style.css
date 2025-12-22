@@ -42,7 +42,7 @@ html {
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
-  line-height: 1.6;
+  line-height: 1.7;
   color: var(--text-color);
   background-color: var(--background-color);
 }
@@ -1989,8 +1989,8 @@ body.opendyslexic-enabled .toc-lozenge-text {
 
 .feedback-close-btn {
   position: absolute;
-  top: calc(var(--spacing-md) + 8px);
-  right: calc(var(--spacing-xl) + 8px);
+  top: calc(var(--spacing-md) + 6px);
+  right: calc(var(--spacing-xl) - 6px);
   background: rgba(255, 255, 255, 0.95);
   border: 2px solid #86efac;
   cursor: pointer;
