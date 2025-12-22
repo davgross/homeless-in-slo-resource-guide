@@ -1001,7 +1001,7 @@ You can find a map of these hydration stations [at this link](https://storymaps.
 - [Bicycles](#bicycles)
 - [Automobile Insurance and Repair](#auto-insurance-and-repair)
 
-> *See [Recovering a Towed Vehicle, or Property from Towed Vehicle](#recovering-towed-vehicle) for details about how to get your vehicle back if it was towed away.*
+> *See [Recovering a Towed Vehicle, or Property from Towed Vehicle](#recovering-towed-vehicle) for details about how to retrieve your vehicle if it was towed away.*
 
 ### <a id="public-transit">Public Transit</a>
 
