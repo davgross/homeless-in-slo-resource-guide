@@ -124,6 +124,47 @@ The link checker runs automatically via GitHub Actions.
 
 **Workflow file:** `.github/workflows/check-links.yml`
 
+## RSS Feed Aggregation
+
+### aggregate-feeds.js
+
+Aggregates and filters RSS feeds from local news sources for relevant updates about agencies and services in the resource guide.
+
+**Usage:**
+```bash
+node scripts/aggregate-feeds.js [config-file] [output-file]
+```
+
+**Default config:** `scripts/feeds-config.json`
+**Default output:** `~/vivaslo-feed.xml`
+
+**How it works:**
+1. Fetches RSS feeds from configured sources (local news, city government, etc.)
+2. Auto-extracts agency names from Directory.md as keywords
+3. Filters feed items that mention those agencies/keywords
+4. Combines into a single RSS 2.0 feed
+5. Writes to a local file that Thunderbird can subscribe to
+
+**Example:**
+```bash
+# Run once to generate feed
+node scripts/aggregate-feeds.js
+
+# Subscribe in Thunderbird to: file:///home/dgross/vivaslo-feed.xml
+
+# Set up cron for automatic updates (twice daily)
+crontab -e
+# Add: 0 8,20 * * * cd /home/dgross/ResourceGuide && /usr/bin/node scripts/aggregate-feeds.js
+```
+
+**Features:**
+- Monitors 10+ local RSS feeds
+- Auto-extracts 800+ agency names as keywords
+- Typical output: ~90 filtered items from ~200 total
+- Completely local - no cloud services
+
+**See:** `scripts/RSS_SETUP.md` for detailed setup instructions
+
 ## Other Scripts
 
 ### extract-map-data.js

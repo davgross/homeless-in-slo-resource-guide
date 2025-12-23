@@ -1,4 +1,10 @@
 node_modules/
 
-# Generated URL lists
+# Generated URL and phone lists
 scripts/urls.json
+scripts/phones.json
+scripts/.phone-check-progress.json
+
+# Claude Code local settings
+.claude/
+**/.claude/
