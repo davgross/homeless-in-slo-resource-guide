@@ -1148,18 +1148,19 @@
    - [805-474-3913](tel:+1-805-474-3913) (South County Center) <!-- Source: https://www.cuesta.edu/ -->
    - [805-591-6273](tel:+1-805-591-6273) (Continuing Education Office)
    - English as a Second Language (ESL) program:
-      - [805-592-9463](tel:+1-805-592-9463) (SLO Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
-      - [805-591-6273](tel:+1-805-591-6273) (North County Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
-      - [805-592-9463](tel:+1-805-592-9463) (South County Center) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
+      - [805-592-9463](tel:+1-805-592-9463) (SLO Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/esl-program/index.html -->
+      - [805-591-6273](tel:+1-805-591-6273) (North County Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/esl-program/index.html -->
+      - [805-474-3913](tel:+1-805-474-3913) (South County Center) <!-- Source: https://www.cuesta.edu/academics/continuinged/esl-program/index.html -->
+      on2.html -->
       - Call M–Th 10am–7pm
    - Continuing Education program:
-      - [805-592-9463](tel:+1-805-592-9463) (SLO Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
-      - [805-591-6273](tel:+1-805-591-6273) (North County Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
+      - [805-592-9463](tel:+1-805-592-9463) (SLO Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
+      - [805-591-6273](tel:+1-805-591-6273) (North County Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
 - **Email:**
    - [basicneeds@cuest.edu](mailto:basicneeds@cuest.edu) (Basic Needs Center) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - [admit@cuesta.edu](mailto:admit@cuesta.edu) (Admission)
    - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (South County Campus)
-   - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education.html -->
+   - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
 - Notes:
    - Basic Needs Office is in room 5014B of the SLO campus, open M/Th/F 9am–4pm, Tu 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - The Paso Robles campus hosts a Cougar Food Pantry for students in room N1005, M–F 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
@@ -2423,7 +2424,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="NCI-Affiliates-Thrift">NCI Affiliates Thrift</a>
 
-- **Website:** [nciaffiliates.org/thrift-stores](https://nciaffiliates.org/thrift-stores/)
+- **Website:** [nciaffiliates.org/pages/thrift-stores](https://www.nciaffiliates.org/pages/thrift-stores)
 
 <!-- Source: https://www.nciaffiliates.org/pages/thrift-stores -->
 | Location | Phone |
@@ -2984,7 +2985,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [slocounselingservice.calpoly.edu/about](https://slocounselingservice.calpoly.edu/about)
 - **Location:** <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Cotchett Education Bldg. 2, Room 125, Cal Poly SLO</a> <!-- Source: https://slocounselingservice.calpoly.edu/faq -->
 - **Phone:** [805-756-1532](tel:+1-805-756-1532) <!-- Source: https://slocounselingservice.calpoly.edu/about -->
-- **How to access:** No walk-ins; Call to make an appointment. <!-- Source: https://slocounselingservice.calpoly.edu/ -->
+- **How to access:** No walk-ins; Call to make an appointment. <!-- Source: https://slocounselingservice.calpoly.edu/about -->
 
 <!-- Not referenced anywhere else yet
 ## <a id="SLO-Veterans-Services-Collaborative">San Luis Obispo Veterans Services Collaborative</a>
@@ -3900,7 +3901,7 @@ There are several urgent care options, including:
 - **Phone:**
    - [805-543-1233](tel:+1-805-543-1233) (main) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
    - [877-252-4866](tel:+1-877-252-4866) (VA health connect) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
-   - [877-251-7295](tel:+1-877-251-7295) (mental health) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/main -->
+   - [877-251-7295](tel:+1-877-251-7295) (mental health) <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
 - **Hours:** M–F 8am–4:30pm <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
 
 ## Veterans Express Shuttle
