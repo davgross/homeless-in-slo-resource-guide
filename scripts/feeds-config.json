@@ -1,0 +1,459 @@
+{
+  "feedTitle": "VivaSLO Resource Updates",
+  "feedLink": "https://vivaslo.org/",
+  "feedDescription": "Aggregated news about homeless resources and services in San Luis Obispo County",
+
+  "autoExtractKeywords": true,
+  "keywords": [
+    "homeless",
+    "homelessness",
+    "shelter",
+    "housing",
+    "unhoused",
+    "affordable housing",
+    "transitional housing"
+  ],
+
+  "feeds": [
+    {
+      "name": "SLO AA",
+      "url": "https://www.sloaa.org/feed/"
+    },
+    {
+      "name": "Aegis / Pinnacle",
+      "url": "https://pinnacletreatment.com/feed/"
+    },
+    {
+      "name": "Alliance for Pharmaceutical Access",
+      "url": "https://apameds.org/feed/"
+    },
+    {
+      "name": "American Legion post 66",
+      "url": "https://post66slo.org/feed/"
+    },
+    {
+      "name": "Aspire",
+      "url": "https://aspirecounselingservice.com/feed/"
+    },
+    {
+      "name": "Assistance League",
+      "url": "https://www.assistanceleague.org/san-luis-obispo-county/feed/"
+    },
+    {
+      "name": "Atascadero News",
+      "url": "https://atascaderonews.com/feed/"
+    },
+    {
+      "name": "A-Town Daily News",
+      "url": "https://atowndailynews.com/feed/"
+    },
+    {
+      "name": "St. Benedict’s Episcopal",
+      "url": "https://www.stbenslososos.org/feed/"
+    },
+    {
+      "name": "Bike Kitchen",
+      "url": "https://bikeslocounty.org/feed/"
+    },
+    {
+      "name": "California Civil Rights Department",
+      "url": "https://calcivilrights.ca.gov/feed/"
+    },
+    {
+      "name": "California Connect",
+      "url": "https://caconnect.org/feed/"
+    },
+    {
+      "name": "California DMV",
+      "url": "https://www.dmv.ca.gov/portal/feed/"
+    },
+    {
+      "name": "Cal Coast News",
+      "url": "https://feeds.feedburner.com/CalCoastNews"
+    },
+    {
+      "name": "CalMatters",
+      "url": "https://calmatters.org/feed/"
+    },
+    {
+      "name": "CAPSLO",
+      "url": "https://capslo.org/feed/"
+    },
+    {
+      "name": "C.A.R.E. 4 Paws",
+      "url": "https://care4paws.org/feed/"
+    },
+    {
+      "name": "Catholic Charities",
+      "url": "https://catholiccharitiesdom.org/feed/"
+    },
+    {
+      "name": "Cayucos Community Church",
+      "url": "https://cayucoschurch.com/feed/"
+    },
+    {
+      "name": "CenCal Health",
+      "url": "https://www.cencalhealth.org/feed/"
+    },
+    {
+      "name": "Center for Autism and Related Disorders",
+      "url": "https://centerforautism.com/feed/"
+    },
+    {
+      "name": "Center for Family Strengthening",
+      "url": "https://cfsslo.org/feed/"
+    },
+    {
+      "name": "Central Coast Autism Spectrum Center",
+      "url": "https://sloautism.org/feed/"
+    },
+    {
+      "name": "Central Coast Commission for Senior Citizens",
+      "url": "https://centralcoastseniors.org/feed/"
+    },
+    {
+      "name": "Central Coast Home Health and Hospice",
+      "url": "https://centralcoasthomehealth.com/index.php/feed/"
+    },
+    {
+      "name": "Central Coast Narcotics Anonymous",
+      "url": "https://www.centralcoastna.org/feed/"
+    },
+    {
+      "name": "City of SLO - News Releases",
+      "url": "http://www.slocity.org/Home/Components/RssFeeds/RssFeed/View?ctID=5"
+    },
+    {
+      "name": "Community Foundation",
+      "url": "https://www.cfsloco.org/feed/"
+    },
+    {
+      "name": "Community Health Centers",
+      "url": "https://www.communityhealthcenters.org/feed/"
+    },
+    {
+      "name": "Community Partners in Caring",
+      "url": "https://partnersincaring.org/feed/"
+    },
+    {
+      "name": "CSF Foundation",
+      "url": "https://csffoundation.org/feed/"
+    },
+    {
+      "name": "Eckerd",
+      "url": "https://eckerd.org/feed/"
+    },
+    {
+      "name": "Family and Industrial Medical Center",
+      "url": "https://fimcslo.com/feed/"
+    },
+    {
+      "name": "Five Cities Christian Women",
+      "url": "https://fivecitieschristianwomenfoodpantry.org/?feed=rss2"
+    },
+    {
+      "name": "Front Porch",
+      "url": "https://www.frontporchslo.org/new-index?format=rss"
+    },
+    {
+      "name": "GALA",
+      "url": "https://galacc.org/feed/"
+    },
+    {
+      "name": "Good Samaritan",
+      "url": "https://www.goodsamaritanshelter.org/blog-feed.xml"
+    },
+    {
+      "name": "Goodwill",
+      "url": "https://www.ccgoodwill.org/feed/"
+    },
+    {
+      "name": "Grace Church",
+      "url": "https://gracecentralcoast.org/home?format=rss"
+    },
+    {
+      "name": "Health Projects Center",
+      "url": "https://www.hpcn.org/blog-feed.xml"
+    },
+    {
+      "name": "Help Hope Live",
+      "url": "https://helphopelive.org/feed/"
+    },
+    {
+      "name": "Immigrant Hope",
+      "url": "https://immigranthopeag.org/feed/"
+    },
+    {
+      "name": "KCBX central coast news",
+      "url": "https://www.kcbx.org/central-coast-news.rss"
+    },
+    {
+      "name": "KCBX regional stories",
+      "url": "https://www.kcbx.org/kcbx-top-regional-stories.rss"
+    },
+    {
+      "name": "KCPR",
+      "url": "https://kcpr.org/feed/"
+    },
+    {
+      "name": "KEYT",
+      "url": "https://keyt.com/feed/"
+    },
+    {
+      "name": "KSBY Central Coast News",
+      "url": "https://www.ksby.com/news.rss"
+    },
+    {
+      "name": "KVEC",
+      "url": "https://www.920kvec.com/feed/"
+    },
+    {
+      "name": "Laundry Love",
+      "url": "https://laundrylove.org/feed/"
+    },
+    {
+      "name": "Le Sage Riviera",
+      "url": "https://lesageriviera.com/feed/"
+    },
+    {
+      "name": "LifeSigns",
+      "url": "https://lifesignsinc.org/feed/"
+    },
+    {
+      "name": "Link Family Resource Center",
+      "url": "https://linkslo.org/feed/"
+    },
+    {
+      "name": "Loaves and Fishes Paso Robles",
+      "url": "https://loavesandfishespaso.org/feed/"
+    },
+    {
+      "name": "Los Osos Cares",
+      "url": "https://www.losososcares.com/blog-feed.xml"
+    },
+    {
+      "name": "Meals That Connect",
+      "url": "https://mealsthatconnect.org/en/feed/"
+    },
+    {
+      "name": "Med Stop",
+      "url": "https://medstopurgentcare.com/feed/"
+    },
+    {
+      "name": "Morro Bay Active Adults",
+      "url": "https://morrobayseniors.org/rss/"
+    },
+    {
+      "name": "Morro Bay city alerts",
+      "url": "https://www.morrobayca.gov/RSSFeed.aspx?ModID=63&CID=All-0"
+    },
+    {
+      "name": "Morro Bay city pages",
+      "url": "https://www.morrobayca.gov/RSSFeed.aspx?ModID=76&CID=All-0"
+    },
+    {
+      "name": "Morro Bay city news",
+      "url": "https://www.morrobayca.gov/RSSFeed.aspx?ModID=1&CID=All-newsflash.xml"
+    },
+    {
+      "name": "Morro Bay Lions",
+      "url": "https://morrobaylions.org/feed/"
+    },
+    {
+      "name": "Morro Bay Lions dinner comments",
+      "url": "https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/feed/"
+    },
+    {
+      "name": "Mustang News - All News",
+      "url": "https://mustangnews.net/section/news/feed/"
+    },
+    {
+      "name": "New Life Pismo",
+      "url": "https://www.newlifepismo.com/feed/"
+    },
+    {
+      "name": "New Times SLO",
+      "url": "https://www.newtimesslo.com/feed/"
+    },
+    {
+      "name": "Nipomo Senior Center",
+      "url": "https://nipomoseniorcenter.org/feed"
+    },
+    {
+      "name": "Parent Connection",
+      "url": "https://sloparents.org/feed/"
+    },
+    {
+      "name": "Paso Robles alerts",
+      "url": "https://www.prcity.com/RSSFeed.aspx?ModID=63&CID=All-0"
+    },
+    {
+      "name": "Paso Robles blog",
+      "url": "https://www.prcity.com/RSSFeed.aspx?ModID=51&CID=All-blog.xml"
+    },
+    {
+      "name": "Paso Robles CivicMedia",
+      "url": "https://www.prcity.com/RSSFeed.aspx?ModID=92&CID=All-civicmedia.xml"
+    },
+    {
+      "name": "Paso Robles Daily News",
+      "url": "https://pasoroblesdailynews.com/feed/"
+    },
+    {
+      "name": "Paso Robles news",
+      "url": "https://www.prcity.com/RSSFeed.aspx?ModID=1&CID=All-newsflash.xml"
+    },
+    {
+      "name": "Paso Robles pages",
+      "url": "https://www.prcity.com/RSSFeed.aspx?ModID=76&CID=All-0"
+    },
+    {
+      "name": "Paso Robles Press",
+      "url": "https://pasoroblespress.com/feed/"
+    },
+    {
+      "name": "People’s Self-Help Housing",
+      "url": "https://www.pshhc.org/feed/"
+    },
+    {
+      "name": "Pets of the Homeless",
+      "url": "https://petsofthehomeless.org/feed/"
+    },
+    {
+      "name": "Pismo beach alerts",
+      "url": "https://www.pismobeach.org/RSSFeed.aspx?ModID=63&CID=All-0"
+    },
+    {
+      "name": "Pismo beach blog",
+      "url": "https://www.pismobeach.org/RSSFeed.aspx?ModID=51&CID=All-blog.xml"
+    },
+    {
+      "name": "Pismo beach pages",
+      "url": "https://www.pismobeach.org/RSSFeed.aspx?ModID=76&CID=All-0"
+    },
+    {
+      "name": "Pismo beach news",
+      "url": "https://www.pismobeach.org/RSSFeed.aspx?ModID=1&CID=All-newsflash.xml"
+    },
+    {
+      "name": "Red Rover Relief",
+      "url": "https://redrover.org/feed/"
+    },
+    {
+      "name": "St. Barnabas",
+      "url": "https://saintbarnabas-ag.org/feed/"
+    },
+    {
+      "name": "Seneca",
+      "url": "https://senecafoa.org/feed/"
+    },
+    {
+      "name": "SESLOC",
+      "url": "https://www.sesloc.org/feed/"
+    },
+    {
+      "name": "Shower the People",
+      "url": "https://showerthepeopleslo.org/feed/"
+    },
+    {
+      "name": "SLO Cal Careers",
+      "url": "https://slocalcareers.org/feed/"
+    },
+    {
+      "name": "SLO County Bar Assn. LRIS",
+      "url": "https://slobarlris.org/feed/"
+    },
+    {
+      "name": "SLO County Parks",
+      "url": "https://slocountyparks.com/feed/"
+    },
+    {
+      "name": "SLO County Undocusupport",
+      "url": "https://www.sloundocusupport.org/blog-feed.xml"
+    },
+    {
+      "name": "SLO Credit Union",
+      "url": "https://slocu.com/feed/"
+    },
+    {
+      "name": "SLO Defenders",
+      "url": "https://slodefend.com/feed/"
+    },
+    {
+      "name": "SLO Food Bank",
+      "url": "http://slofoodbank.org/en/feed/"
+    },
+    {
+      "name": "SLO For Home",
+      "url": "https://www.sloforhome.org/feed/"
+    },
+    {
+      "name": "SLO Grassroots",
+      "url": "https://slograssroots.org/feed/"
+    },
+    {
+      "name": "SLO HARC",
+      "url": "https://www.sloharc.org/blog-feed.xml"
+    },
+    {
+      "name": "SLO Legal Assistance Foundation",
+      "url": "https://www.slolaf.org/blog-feed.xml"
+    },
+    {
+      "name": "SLO Partners",
+      "url": "https://slopartners.org/feed/"
+    },
+    {
+      "name": "SLO Transit",
+      "url": "https://www.slorta.org/feed/"
+    },
+    {
+      "name": "SLO Tribune",
+      "url": "https://feeds.mcclatchy.com/sanluisobispo/stories"
+    },
+    {
+      "name": "Smart Share Housing Solutions",
+      "url": "https://www.slorta.org/feed/"
+    },
+    {
+      "name": "South Bay Community Center",
+      "url": "https://southbaycommunitycenter.com/feed/"
+    },
+    {
+      "name": "South Bay Seniors People Helping People",
+      "url": "https://southbayseniorspeoplehelpingpeople.com/feed/"
+    },
+    {
+      "name": "Sun Street Centers",
+      "url": "https://sunstreetcenters.org/feed"
+    },
+    {
+      "name": "Tri-Counties Regional Center",
+      "url": "https://www.tri-counties.org/feed/"
+    },
+    {
+      "name": "Tri-County GLAD",
+      "url": "https://tcglad.org/feed/"
+    },
+    {
+      "name": "UnitedHealthcare Children’s Foundation",
+      "url": "https://www.uhccf.org/feed/"
+    },
+    {
+      "name": "United Way of SLO County",
+      "url": "https://unitedwayslo.org/feed/"
+    },
+    {
+      "name": "Vituity Cares",
+      "url": "https://vituitycares.org/feed/"
+    },
+    {
+      "name": "Womenade SLO",
+      "url": "https://www.womenadeslo.org/blog-feed.xml"
+    },
+    {
+      "name": "Womenade South SLO County",
+      "url": "https://www.sslocw.org/blog-feed.xml"
+    }
+  ]
+}

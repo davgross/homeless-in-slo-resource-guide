@@ -932,15 +932,15 @@ Algunas plantas comestibles comunes en el condado de SLO son: <!-- Source: Gary 
 | --------------------------------------------------------------------------- | ---------------- | ---------------- |
 | [Berro de agua](https://es.wikipedia.org/wiki/Nasturtium_officinale)        | Primavera–Verano | Hojas |
 | [Capuchina](https://es.wikipedia.org/wiki/Tropaeolum_majus)                 | Primavera–Verano | Flores y hojas |
-| [Castaño dorado](https://es.wikipedia.org/wiki/Chrysolepis_chrysophylla)    | Otoño            | Nueces |
-| [Cerezo de hoja de acebo](https://es.wikipedia.org/wiki/Prunus_ilicifolia)  | Verano–Otoño     | Bayas |
+| [Castaño dorado](https://en.wikipedia.org/wiki/Chrysolepis_chrysophylla)    | Otoño            | Nueces |
+| [Cerezo de hoja de acebo](https://en.wikipedia.org/wiki/Prunus_ilicifolia)  | Verano–Otoño     | Bayas |
 | [Chía](https://es.wikipedia.org/wiki/Salvia_columbariae)                    | Otoño            | Semillas |
 | [Chufa](https://es.wikipedia.org/wiki/Cyperus_esculentus)                   | Otoño            | Tubérculos |
 | [Diente de león](https://es.wikipedia.org/wiki/Taraxacum_officinale)        | Primavera–Otoño  | Todas las partes |
 | [Espadaña](https://es.wikipedia.org/wiki/Typha_latifolia)                   | Todo el año      | La mayoría de las partes, pero deben cocinarse |
 | [Frambuesa norteamericana](https://es.wikipedia.org/wiki/Rubus_parviflorus) | Verano           | Bayas |
 | [Frutilla chilena](https://es.wikipedia.org/wiki/Fragaria_chiloensis)       | Primavera–Verano | Bayas |
-| [Grosella de chaparral](https://es.wikipedia.org/wiki/Ribes_malvaceum)      | Primavera        | Bayas |
+| [Grosella de chaparral](https://en.wikipedia.org/wiki/Ribes_malvaceum)      | Primavera        | Bayas |
 | [Grosella espinosa](https://es.wikipedia.org/wiki/Ribes_uva-crispa)         | Primavera        | Bayas |
 | [Junco](https://es.wikipedia.org/wiki/Schoenoplectus)                       | Todo el año      | La mayoría de las partes, pero deben cocinarse |
 | [Lechuga de minero](https://es.wikipedia.org/wiki/Claytonia_perfoliata)     | Todo el año      | Todas las partes |
@@ -1800,7 +1800,7 @@ Si nota enrojecimiento creciente que se extiende más allá del área de la quem
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
    - Local providers: Star CPR, Central Coast CPR, LifeGuard CPR and Aquatics
    - **Dignity Health**: [Educational events and programs](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/educational-events)
-   - Sources: [redcross.org](https://www.redcross.org/local/california/take-a-class/cpr), [cuesta.edu](https://www.cuesta.edu/communityprograms/community-education/special_interest/CPR.html)
+   - Sources: [redcross.org](https://www.redcross.org/local/california/take-a-class/cpr)
 1. [thERApy](https://therapyera.com/) website has a mention of “sliding scale” fees but otherwise nothing indicating that they’re especially accommodating to people of limited means; seems to specialize in various “marginalized” populations, though.
 1. **[Genoa Pharmacy](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)**—On-site pharmacy for SLO County Behavioral Health
    - What’s Available: Medication pickup for behavioral health clients and general public, free mail delivery of prescriptions, pharmacist consultation, services in Spanish, medication packaging options
@@ -2060,7 +2060,7 @@ Puede aprender más sobre el formulario y revisar uno en línea, en varios idiom
 
 ### <a id="self-defense-classes">Clases de Defensa Personal y Artes Marciales</a>
 
-A veces se ofrecen clases de defensa personal o artes marciales relativamente económicas a través de los “Programas Comunitarios” en [**Cuesta College**](Directory.md#Cuesta-College) (vea la sección [“Martial Arts”](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) de su sitio web) o [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (Escuela para Adultos Costera de San Luis) (vea la sección [“Community Programs”](https://ae.slcusd.org/community-programs) de su sitio web).
+A veces se ofrecen clases de defensa personal o artes marciales relativamente económicas a través de los “Programas Comunitarios” en [**Cuesta College**](Directory.md#Cuesta-College) o [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (Escuela para Adultos Costera de San Luis).
 
 <!-- All seem to be defunct at the moment
 ### <a id="womens-self-defense">Programas de Defensa Personal para Mujeres</a>
@@ -2080,8 +2080,6 @@ A veces se ofrecen clases de defensa personal o artes marciales relativamente ec
    - Instructor: Qualified martial arts instructor
    - Financial aid: Scholarships and family discounts available
    - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-   - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/womens-self-defense.html)
-      - 404. Try [cuesta.edu/communityprograms/community-recreation/martial-arts/index.html](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html)
 1. Lumina Alliance: no indication from their website that they offer self-defense training
 -->
 <!-- None of these seem to advertise sliding-scale, free, or low-cost programs
@@ -2830,7 +2828,7 @@ El Centro de Recursos [**Los Osos Cares**](Directory.md#Los-Osos-Cares) puede da
 [**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) opera <!-- This page has gone 404 as of 10 Dec 2025
 a one-time “Emergency Rental Assistance” program.
 It is only available sometimes.
-Check [this web page](https://catholiccharitiesdom.org/family-supportive-services/hope-in-home/) to see if the program is currently in effect and if so, how to apply for it.
+Check {this web page}{https://catholiccharitiesdom.org/family-supportive-services/hope-in-home/} to see if the program is currently in effect and if so, how to apply for it.
 They also operate --> un programa de [“Servicios de Estabilidad Financiera”](https://catholiccharitiesdom.org/family-supportive-services/) que puede proporcionar recursos financieros a personas de bajos ingresos en crisis financiera.
 <!-- SOURCE NEEDED:
 To apply for these programs, first call their main or Paso Robles number to make an appointment.
@@ -3210,8 +3208,8 @@ La [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) le da acces
 
 ### <a id="citizenship-studies">Estudios para la Ciudadanía</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece una clase de Ciudadanía de los Estados Unidos que enseña el proceso de establecer la ciudadanía estadounidense y le prepara para pasar la Entrevista y Examen de Naturalización. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
-El curso gratuito es todos los jueves de 5–8pm en el Centro de Aprendizaje de Oceano (Oceano Learning Center), y puede comenzar el curso cualquier jueves. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece una clase de Ciudadanía de los Estados Unidos que enseña el proceso de establecer la ciudadanía estadounidense y le prepara para pasar la Entrevista y Examen de Naturalización. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+El curso gratuito es todos los jueves de 5–8pm en el Centro de Aprendizaje de Oceano (Oceano Learning Center), y puede comenzar el curso cualquier jueves. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
 Debe poder leer y entender inglés básico. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
 Regístrese [en línea](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) o llámeles para más información.
 
@@ -3427,7 +3425,7 @@ Se da prioridad a jóvenes en hogares de crianza, estudiantes que experimentan f
 Puede solicitar inscribir a su hijo en este programa en el sitio web de [Futuros Brillantes](http://luciamarschools.org/251185_2).
 
 El [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) opera varios programas incluyendo cuidado infantil para niños de 2–5 años que incluye educación de la primera infancia, terapia y rehabilitación para niños que la necesitan, comidas (desayuno, almuerzo y merienda) y eventos familiares. <!-- Source: https://www.childrensresource.org/curriculum and https://www.childrensresource.org/therapy and https://www.childrensresource.org/classrooms and https://www.childrensresource.org/food-program and https://www.childrensresource.org/other -->
-Se especializan en trabajar con niños que vienen de circunstancias que incluyen pobreza, falta de hogar, hogares de crianza, violencia doméstica o abuso infantil. <!-- Source: https://members.slochamber.org/directory/Details/child-development-resource-center-of-the-central-coast-2095758?utm_source=chatgpt.com -->
+Se especializan en trabajar con niños que vienen de circunstancias que incluyen pobreza, falta de hogar, hogares de crianza, violencia doméstica o abuso infantil. <!-- Source: https://members.slochamber.org/directory/Details/child-development-resource-center-of-the-central-coast-2095758 -->
 Para solicitar el programa de cuidado infantil, complete y envíe [una solicitud](https://www.childrensresource.org/regristration).
 Puede haber una lista de espera. <!-- Source: https://www.childrensresource.org/regristration -->
 La matrícula es una tarifa de escala móvil basada en ingresos, y hay ayuda financiera disponible. <!-- Source: https://www.childrensresource.org/regristration -->

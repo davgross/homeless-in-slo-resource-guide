@@ -1804,7 +1804,7 @@ If you notice increasing redness that spreads beyond the area of the burn, or pu
       - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
    - Local providers: Star CPR, Central Coast CPR, LifeGuard CPR and Aquatics
    - **Dignity Health**: [Educational events and programs](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/educational-events)
-   - Sources: [redcross.org](https://www.redcross.org/local/california/take-a-class/cpr), [cuesta.edu](https://www.cuesta.edu/communityprograms/community-education/special_interest/CPR.html)
+   - Sources: [redcross.org](https://www.redcross.org/local/california/take-a-class/cpr)
 1. [thERApy](https://therapyera.com/) website has a mention of “sliding scale” fees but otherwise nothing indicating that they’re especially accommodating to people of limited means; seems to specialize in various “marginalized” populations, though.
 1. **[Genoa Pharmacy](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)**—On-site pharmacy for SLO County Behavioral Health
    - What’s Available: Medication pickup for behavioral health clients and general public, free mail delivery of prescriptions, pharmacist consultation, services in Spanish, medication packaging options
@@ -2064,7 +2064,7 @@ You can learn more about the form and review one online, in several languages, a
 
 ### <a id="self-defense-classes">Self-Defense Classes and Martial Arts</a>
 
-Sometimes relatively inexpensive self-defense or martial arts classes are offered through the “Community Programs” at [**Cuesta College**](Directory.md#Cuesta-College) (see the [“Martial Arts”](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html) section of their website) or [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) (see the [“Community Programs”](https://ae.slcusd.org/community-programs) section of their website).
+Sometimes relatively inexpensive self-defense or martial arts classes are offered through the “Community Programs” at [**Cuesta College**](Directory.md#Cuesta-College) or [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School).
 
 <!-- All seem to be defunct at the moment
 ### <a id="womens-self-defense">Women’s Self-Defense Programs</a>
@@ -2084,8 +2084,7 @@ Sometimes relatively inexpensive self-defense or martial arts classes are offere
    - Instructor: Qualified martial arts instructor
    - Financial aid: Scholarships and family discounts available
    - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-   - Source: [cuesta.edu](https://www.cuesta.edu/communityprograms/community-recreation/martial_arts/womens-self-defense.html)
-      - 404. Try [cuesta.edu/communityprograms/community-recreation/martial-arts/index.html](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html)
+   - Try [cuesta.edu/communityprograms/community-recreation/martial-arts/index.html](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html)
 1. Lumina Alliance: no indication from their website that they offer self-defense training
 -->
 <!-- None of these seem to advertise sliding-scale, free, or low-cost programs
@@ -2834,7 +2833,7 @@ The [**Los Osos Cares**](Directory.md#Los-Osos-Cares) Resource Center can give i
 [**Catholic Charities**](Directory.md#Catholic-Charities) operates <!-- This page has gone 404 as of 10 Dec 2025
 a one-time “Emergency Rental Assistance” program.
 It is only available sometimes.
-Check [this web page](https://catholiccharitiesdom.org/family-supportive-services/hope-in-home/) to see if the program is currently in effect and if so, how to apply for it.
+Check {this web page}{https://catholiccharitiesdom.org/family-supportive-services/hope-in-home/} to see if the program is currently in effect and if so, how to apply for it.
 They also operate --> a [“Financial Stability Services”](https://catholiccharitiesdom.org/family-supportive-services/) program which can provide financial resources to low-income people in financial crisis.
 <!-- SOURCE NEEDED:
 To apply for these programs, first call their main or Paso Robles number to make an appointment.
@@ -3213,8 +3212,8 @@ The [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) gives you 
 
 ### <a id="citizenship-studies">Citizenship Studies</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
-The free course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday. <!-- Source: https://adulted.luciamarschools.org/citizenship-classesfree -->
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+The free course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
 You must be able to read and understand basic English. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
 Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
 

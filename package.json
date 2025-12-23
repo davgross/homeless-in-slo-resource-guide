@@ -8,7 +8,12 @@
     "lint:remark:verbose": "remark .",
     "lint:sources": "remark 'About.md' 'Directory.md' 'Resource guide.md' --quiet --frail"
   },
-  "keywords": ["homeless", "resources", "slo", "markdown"],
+  "keywords": [
+    "homeless",
+    "resources",
+    "slo",
+    "markdown"
+  ],
   "author": "",
   "license": "UNLICENSED",
   "devDependencies": {
@@ -17,5 +22,8 @@
     "remark-gfm": "^4.0.0",
     "unist-util-visit": "^5.0.0",
     "unist-util-visit-parents": "^6.0.0"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
   }
 }
