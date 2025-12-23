@@ -2955,6 +2955,8 @@ If you see one listed here that is no longer in service, please use the feedback
 | <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">540 Quintana Rd., Morro Bay</a> | [805-772-7062](tel:+1-805-772-7062) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | (was temporarily closed as of September 2025) <!-- says Eva -DG --> |
 | <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">711 Paso Robles St., Paso Robles</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-238-9591](tel:+1-805-238-9591) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | (was temporarily closed as of September 2025) <!-- says Eva -DG --> |
 
+- **How to access:** For the food pantry, you must live in the area and you must register with a photo ID on your first visit.
+
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
 - **Website:** [ae.slcusd.org](https://ae.slcusd.org/)

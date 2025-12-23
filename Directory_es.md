@@ -2994,6 +2994,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 | <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">540 Quintana Rd., Morro Bay</a> | [805-772-7062](tel:+1-805-772-7062) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | Se cerró temporalmente a partir de septiembre de 2025. <!-- says Eva -DG --> |
 | <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">711 Paso Robles St., Paso Robles</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-238-9591](tel:+1-805-238-9591) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | Se cerró temporalmente a partir de septiembre de 2025. <!-- says Eva -DG --> |
 
+- **Cómo obtener el servicio:** Para la despensa de alimentos, debe vivir en el área y debe registrarse con una identificación con foto en su primera visita.
+
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
 - **Sitio web:** [ae.slcusd.org](https://ae.slcusd.org/)
