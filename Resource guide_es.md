@@ -3630,6 +3630,9 @@ Ocasionalmente llevan a cabo [otros grupos de apoyo](https://hospiceslo.org/supp
 [**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) facilita [grupos de apoyo para el duelo](https://centralcoasthomehealth.com/index.php/support-groups/) semanalmente en el [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) y [**SLO Senior Center**](Directory.md#SLO-Senior-Center).
 Llame al [805-540-6020](tel:+1-805-540-6020) para hablar con un consejero de duelo antes de asistir.
 
+El “SLO Thursday Group” es un grupo de apoyo para personas que han perdido a su cónyuge.
+Se reúne todos los jueves de 11:30am a 1:00pm en la Iglesia Luterana Mount Carmel, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a>. <!-- Fuente: folleto en la biblioteca de SLO, que dice: "[Anteriormente] nos reuníamos en el Hospicio del Condado de San Luis Obispo, pero ahora somos independientes..." -->
+
 Varias iglesias del Condado de SLO albergan [grupos de apoyo GriefShare](https://griefshare.org/) con un enfoque cristiano en el duelo.
 
 ### <a id="behavioral-health-peer-support">Salud del Comportamiento</a>
@@ -3659,7 +3662,7 @@ El [**GALA Pride & Diversity Center**](Directory.md#GALA) (Centro de Orgullo y D
 - [Grupo de apoyo para adultos trans y de género no conforme](https://1af473-cd.myshopify.com/pages/tcc-tuesdays-adult-support-group)
 - [Grupo de apoyo para personas transmasculinas y de género no conforme con identificación masculina](https://1af473-cd.myshopify.com/pages/tcc-transmasc-support-group)
 - **LGBT Seniors** (Adultos Mayores LGBT)—tercer miércoles del mes 4:30–6:30pm en GALA o por Zoom
-- **Stand Out Parent Support Group** (Grupo de Apoyo para Padres Stand Out)—para padres de jóvenes LGBTQ+; contacte a [email@galacc.org](mailto:email@galacc.org) para más información
+- **Stand Out Parent Support Group**—para padres de jóvenes LGBTQ+; contacte a [email@galacc.org](mailto:email@galacc.org) para más información
 
 ### <a id="parenthood-peer-support">Embarazo y Paternidad/Maternidad</a>
 
@@ -3691,7 +3694,7 @@ Postpartum Support International (Apoyo Posparto Internacional) también organiz
 
 ### <a id="fitness">Ejercicio</a>
 
-Hay canchas de ejercicio (fitness courts) gratuitas al aire libre con equipo de ejercicio en Emerson Park en SLO (<a href="#" class="map-link" data-lat="35.275738" data-lon="-120.664269" data-zoom="17" data-label="Fitness Court">Pismo St. & Nipomo St.</a>) y detrás de French Hospital en SLO (<a href="#" class="map-link" data-lat="35.278313" data-lon="-120.652977" data-zoom="17" data-label="Fitness Court">a lo largo de la vía para bicicletas entre Breck St. y el estacionamiento de French Hospital</a>).
+Hay canchas de ejercicio gratuitas al aire libre con equipo de ejercicio en Emerson Park en SLO (<a href="#" class="map-link" data-lat="35.275738" data-lon="-120.664269" data-zoom="17" data-label="Fitness Court">Pismo St. & Nipomo St.</a>) y detrás de French Hospital en SLO (<a href="#" class="map-link" data-lat="35.278313" data-lon="-120.652977" data-zoom="17" data-label="Fitness Court">a lo largo de la vía para bicicletas entre Breck St. y el estacionamiento de French Hospital</a>).
 Los “Vita Fitness Courses” (Cursos de Ejercicio Vita) en Meadow Park (<a href="#" class="map-link" data-lat="35.267591" data-lon="-120.662198" data-zoom="16" data-label="Vita Fitness Course">entre Corrida Drive y South Street en SLO</a>) y alrededor de <a href="#" class="map-link" data-lat="35.265279" data-lon="-120.682712" data-zoom="14" data-label="Laguna Lake Park">Laguna Lake Park</a> en SLO tienen algunas estaciones con equipo rudimentario diseñado para ejercicios de acondicionamiento físico.
 <!-- I couldn’t find anything like this outside of SLO city limits -->
 
@@ -3713,7 +3716,7 @@ Típicamente cuestan dinero, pero hay [un programa de becas](https://www.prcity.
 
 El sitio web [DAREBEE](https://darebee.com/workouts/) tiene más de 2,500 guías de ejercicio ilustradas gratuitas, la mayoría de las cuales no requieren ningún equipo especial.
 
-Algunos estudios de yoga locales ofrecen clases ocasionales de “yoga comunitario” (community yoga) que son gratuitas o basadas en donación o escala ajustada. <!-- Source: e.g. https://thecenterslo.com/schedule Wednesdays at 5:45pm -->
+Algunos estudios de yoga locales ofrecen clases ocasionales de “yoga comunitario” que son gratuitas o basadas en donación o escala ajustada. <!-- Source: e.g. https://thecenterslo.com/schedule Wednesdays at 5:45pm -->
 
 #### Ejercicio para Personas Mayores
 
@@ -3778,7 +3781,7 @@ También tienen una biblioteca de préstamo de juegos y rompecabezas. <!-- Sourc
 [**Morro Bay Senior Citizens**](Directory.md#Morro-Bay-Senior-Center) alberga bingo, bochas, bridge, ajedrez, baile, dibujo y acuarela, pimpón, billar, cartas hand & foot y clases de interés especial.
 
 Hay canchas de pickleball en <a href="#" class="map-link" data-lat="35.398611" data-lon="-120.858761" data-zoom="17" data-label="Del Mar Park">Del Mar Park en Morro Bay</a>, abiertas para todos de 8am–mediodía y abiertas con reservación (por una tarifa a través del [**Morro Bay Parks & Recreation Department**](Directory.md#Morro-Bay-Parks-and-Recreation)) por las tardes. <!-- Source: https://morrobayseniors.org/pickleball/ -->
-Puede pedir prestado [un conjunto de pelotas y paletas de pickleball](https://catalog.slolibrary.org/GroupedWork/e3d16ba9-5c54-db6e-c3c5-30cb0ceb24d8-eng/Home) de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Bibliotecas Públicas del Condado de SLO).
+Puede pedir prestado [un conjunto de pelotas y paletas de pickleball](https://catalog.slolibrary.org/GroupedWork/e3d16ba9-5c54-db6e-c3c5-30cb0ceb24d8-eng/Home) de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries).
 Las lecciones están disponibles (se solicita donación de $2, pelotas y paletas proporcionadas) los sábados de 8:30–9:00am. <!-- Source: https://www.morrobayca.gov/679/Tennis-Opportunities -->
 
 [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) alberga bingo, canasta, una comida compartida y tiene café gratuito diariamente.
