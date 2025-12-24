@@ -3634,6 +3634,9 @@ They occasionally hold [other support groups](https://hospiceslo.org/support-gro
 [**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) facilitates [grief support groups](https://centralcoasthomehealth.com/index.php/support-groups/) weekly at the [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), and [**SLO Senior Center**](Directory.md#SLO-Senior-Center).
 Call [805-540-6020](tel:+1-805-540-6020) to speak with a bereavement counselor prior to attending.
 
+The “SLO Thursday Group” is a grief support group for people who have lost a spouse.
+It meets every Thursday from 11:30am–1:00pm at Mout Carmel Lutheran Church, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a>. <!-- Source: flyer at SLO library, which says "We were [formerly] meeting at the Hospice of San Luis Obispo County, but we are now independently run..." -->
+
 Several SLO County churches host [GriefShare support groups](https://griefshare.org/) with a Christian focus on grieving.
 
 ### <a id="behavioral-health-peer-support">Behavioral Health</a>
