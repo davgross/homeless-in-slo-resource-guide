@@ -70,51 +70,51 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
  </thead><tbody>
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Líneas de Emergencia y Crisis:</th></tr>
    <tr><td><a href="tel:+1-911">911</a></td><td>Emergencias médicas y de seguridad</td></tr>
-   <tr><td><a href="tel:+1-988">988</a> / <a href="sms:988">988</a></td><td>Línea Nacional de Prevención del Suicidio</td></tr><!-- Source: https://988lifeline.org/ -->
+   <tr><td><a href="tel:+1-988;ext=2">988&#xA0;x2</a> / <a href="sms:988">988</a></td><td>Línea de Prevención del Suicidio y Crisis</td></tr><!-- Source: https://988lifeline.org/ -->
    <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a></td><td>Línea de Ayuda de la Costa Central: línea de crisis de salud mental y prevención del suicidio disponible 24/7 que proporciona apoyo emocional inmediato</td></tr><!-- Source: https://www.t-mha.org/central-coast-hotline.php -->
-   <tr><td>Envíe mensaje de texto “HOME” a <a href="sms:741741?&body=HOME">741741</a></td><td>Línea de Texto para Crisis para apoyo emocional inmediato, o en línea en <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a></td></tr><!-- Source: https://www.crisistextline.org/ -->
-   <tr><td><a href="tel:+1-833-642-7696">833-642-7696</a> (English: <a href="tel:+1-833-317-4673">833-317-HOPE</a>)</td><td>The Warm Line: apoyo emocional gratuito y confidencial</td></tr><!-- Source: https://www.calhope.org/ -->
+   <tr><td>Envíe mensaje de texto “AYUDA” a <a href="sms:741741?&body=AYUDA">741741</a></td><td>Línea de Texto para Crisis para apoyo emocional inmediato (o en línea en <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a>)</td></tr><!-- Source: https://www.crisistextline.org/ -->
+   <tr><td><a href="tel:+1-833-642-7696">833-642-7696</a> (English: <a href="tel:+1-833-317-4673">833-317-HOPE</a>)</td><td>The Warm Line: apoyo emocional gratuito y confidencial (o en línea en <a href="https://www.mentalhealthsf.org/warm-line">mentalhealthsf.org/warm-line</a>)</td></tr><!-- Source: https://www.calhope.org/ -->
   </tr>
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Jóvenes:</th></tr>
    <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Línea de Crisis para Jóvenes, para personas en California de 12 a 24 años; llame o envíe mensaje de texto</td></tr><!-- Source: https://calyouth.org/cycl/ -->
    <tr><td><a href="tel:+1-800-786-2929">800-RUN-AWAY</a> / <a href="sms:+1-800-786-2929">800-786-2929</a></td><td>Línea Nacional para Jóvenes Fugitivos: apoyo confidencial 24/7 para jóvenes fugitivos y sin hogar</td></tr><!-- Source: https://www.1800runaway.org/ -->
-   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> / envíe mensaje de texto “LOVEIS” a <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://www.loveisrespect.org/">“Love is Respect”</a> información y apoyo para jóvenes con inquietudes sobre su relación romántica</td></tr><!-- Source: https://www.loveisrespect.org/ -->
+   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> / envíe mensaje de texto “LOVEIS” a <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://espanol.loveisrespect.org/">“Love is Respect”</a> información y apoyo para jóvenes con inquietudes sobre su relación romántica</td></tr><!-- Source: https://www.loveisrespect.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Personas LGBTQ:</th></tr>
    <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> o envíe mensaje de texto “START” a <a href="sms:678678?&body=START">678678</a></td><td>Línea Trevor: intervención en crisis y prevención del suicidio para jóvenes LGBTQ+</td></tr><!-- Source: https://www.thetrevorproject.org/get-help/ -->
-   <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Línea Trans: línea de crisis para personas transgénero</td></tr><!-- Source: https://translifeline.org/ -->
+   <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: línea de crisis para personas trans</td></tr><!-- Source: https://translifeline.org/es/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Víctimas de Agresión Sexual y Violencia de Pareja:</th></tr>
-   <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Línea de crisis local para agresión sexual, abuso sexual y violencia de pareja</td></tr><!-- Source: https://luminaalliance.org/24-hour-crisis-and-information-line -->
+   <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Línea de crisis e información local para agresiónes sexuales y violencia de pareja</td></tr><!-- Source: https://luminaalliance.org/24-hour-crisis-and-information-line -->
    <tr><td><a href="tel:+1-800-799-7233">800-799-SAFE</a> / envíe mensaje de texto “START” a <a href="sms:88788?&body=START">88788</a></td><td>La Línea Nacional sobre Violencia Doméstica</td></tr><!-- Source: https://www.thehotline.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Padres:</th></tr>
-   <tr><td><a href="tel:+1-833-852-6262">833-TLC-MAMA</a> / <a href="sms:1-833-852-6262">833-TLC-MAMA</a></td><td>Línea Nacional de Salud Mental Materna (llame o envíe mensaje de texto)</td></tr><!-- Source: https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline -->
+   <tr><td><a href="tel:+1-833-852-6262">833-TLC-MAMA</a> / <a href="sms:1-833-852-6262">833-TLC-MAMA</a></td><td>Línea Nacional de Asistencia a la Salud Mental Materna (llame o envíe mensaje de texto)</td></tr><!-- Source: https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline -->
    <tr><td><a href="tel:+1-888-431-2229">888-431-2229</a></td><td>Línea de Ayuda de la Red del Bebé Inquieto</td></tr><!-- Source: https://www.erikson.edu/fussy-baby-network/ -->
-   <tr><td><a href="tel:+1-877-222-9723">877-BABYSAF</a></td><td>Lugares de entrega segura en California (dónde entregar confidencialmente a un recién nacido que no puede cuidar)</td></tr><!-- Source: https://cdss.ca.gov/inforesources/safely-surrendered-baby/surrender-sites -->
+   <tr><td><a href="tel:+1-877-222-9723">877-222-9723</a></td><td>Para encontrar el sitio más cercano para entregar al bebé sin ningún peligro</td></tr><!-- Source: https://cdss.ca.gov/inforesources/safely-surrendered-baby/surrender-sites -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Otras Líneas de Crisis Especializadas:</th></tr>
-   <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (L–V, 8am–5pm), o <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Servicios de Protección para Adultos</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps) -->
+   <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (L–V, 8am–5pm), o <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Servicios para la Protección de Adultos</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps) -->
    <tr><td><a href="tel:+1-805-781-5437">805-781-KIDS</a></td><td>Línea de emergencia de Servicios de Bienestar Infantil para reportar sospecha de abuso infantil</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/child-welfare-services-(cws) -->
-   <tr><td><a href="sms:838255">838255</a> (mensaje de texto)</td><td>Línea de Texto de Crisis para Veteranos</td></tr>
-   <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Línea de Ayuda para Angustia por Desastres (en caso de angustia emocional debido a desastres naturales o causados por el hombre)</td></tr><!-- Source: https://www.fema.gov/ht/node/686553 -->
+   <tr><td><a href="sms:838255">838255</a> (mensaje de texto)</td><td>Línea de Texto de Crisis para Veteranos</td></tr> <!-- Source: https://www.veteranscrisisline.net/es/ -->
+   <tr><td><a href="tel:+1-800-985-5990;ext=2">800-985-5990&#xA0;x2</a></td><td>Línea de Ayuda para los Afectados por Catástrofe (en caso de angustia emocional debido a desastres naturales o causados por el hombre)</td></tr><!-- Source: https://www.fema.gov/ht/node/686553 -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Información de Salud y Salud del Comportamiento:</th></tr>
-   <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Línea de Ayuda contra Envenenamientos: asesoramiento de tratamiento de expertos en cuidado de envenenamientos</td></tr><!-- Source: https://calpoison.org/ -->
+   <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Línea Gratuita de Ayuda por Intoxicación: asesoramiento de tratamiento de expertos en cuidado de envenenamientos</td></tr><!-- Source: https://calpoison.org/ -->
    <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Línea de Ayuda Help-4-Hep: apoyo entre pares para cualquier persona con inquietudes sobre hepatitis C (L–V 9am–5pm hora del Este)</td></tr><!-- Source: https://www.help4hep.org/lets-talk -->
-   <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Línea de Acceso de Salud del Comportamiento del Condado de SLO: número principal para programar citas y obtener información sobre todos los servicios de salud del comportamiento, incluyendo navegación y apoyo entre pares</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
-   <tr><td><a href="tel:+1-805-540-6576">800-540-6576</a></td><td>Navegador de Salud del Comportamiento: obtenga ayuda para encontrar la ayuda que necesita y comprender el sistema local de salud del comportamiento</td></tr><!-- Source: https://www.t-mha.org/program-details.php?id=20 -->
-   <tr><td><a href="tel:+1-855-600-9276">855-600-WARM</a></td><td>Línea de Ayuda de Pares de California (también disponible como chat de texto en línea <a href="https://www.mentalhealthsf.org/warm-line">aquí</a>) para personas con “una amplia gama de desafíos, incluyendo ansiedad, depresión y uso de sustancias” (L/Ma/Mi/V 7am–11pm; J 8am–10pm)</td></tr><!-- Source: https://www.mentalhealthsf.org/warm-line -->
+   <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Línea de Acceso de Salud y Bienestar del Condado de SLO: número principal para programar citas y obtener información sobre todos los servicios de salud del comportamiento, incluyendo navegación y apoyo entre pares</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
+   <tr><td><a href="tel:+1-805-540-6576">800-540-6576</a></td><td>Navegación de Salud Mental: obtenga ayuda con recursos y sistemas de salud mental del condado</td></tr><!-- Source: https://www.t-mha.org/program-details.php?id=20 -->
+   <tr><td><a href="tel:+1-855-600-9276">855-600-9276</a></td><td>Línea de Ayuda de Pares de California (también disponible como chat de texto en línea <a href="https://www.mentalhealthsf.org/warm-line">aquí</a>) para personas con “una amplia gama de desafíos, incluyendo ansiedad, depresión y uso de sustancias” (L/Ma/Mi/V 7am–11pm; J 8am–10pm)</td></tr><!-- Source: https://www.mentalhealthsf.org/warm-line -->
    <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a></td><td>Kick It California, ayuda para dejar de fumar</td></tr><!-- Source: https://www.kickitca.org/ -->
-   <tr><td><a href="tel:+1-800-662-4357">800-662-HELP</a></td><td>Línea de ayuda nacional de la Administración de Servicios de Salud Mental y Abuso de Sustancias (SAMHSA) (gratuita, confidencial, 24/7 para referidos e información sobre tratamiento de abuso de sustancias)</td></tr><!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
+   <tr><td><a href="tel:+1-800-662-4357">800-662-4357</a></td><td>Línea Nacional de Ayuda de SAMHSA (gratuita, confidencial, 24/7 para referidos e información sobre tratamiento de abuso de sustancias)</td></tr><!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
    <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Línea de ayuda 24/7 de Alcohólicos Anónimos de la Costa Central</td></tr><!-- Source: https://www.sloaa.org/ -->
    <tr><td><a href="tel:+1-800-549-7730">800-549-7730</a></td><td>Línea de ayuda 24/7 de Narcóticos Anónimos de la Costa Central</td></tr><!-- Source: https://www.centralcoastna.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Finding Help:</th></tr>
    <tr><td><a href="tel:+1-211">211</a></td><td>Lo conecta con ayuda experta, compasiva y confidencial de todo tipo</td></tr><!-- Source: https://211slo.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Legal Aid and Consumer Protection:</th></tr>
    <tr><td><a href="tel:+1-800-834-5001">800-834-5001</a></td><td>Línea de Ayuda de Asistencia Legal Comunitaria del Sur de California para discriminación de vivienda, derechos de inquilinos y protección del consumidor</td></tr><!-- Source: https://www.communitylegalsocal.org/contact-us/ -->
-   <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Fundación de Asistencia Legal de Los Ángeles (LAFLA) para asistencia legal</td></tr><!-- Source: https://lafla.org/ -->
+   <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Los Angeles Legal Aid Foundation (LAFLA) para asistencia legal</td></tr><!-- Source: https://lafla.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Housing and Homeless Services:</th></tr>
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>Coalición para Personas sin Hogar de 5Cities para asistencia de vivienda y entrada coordinada</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>Gerente de Respuesta a Personas sin Hogar de la Ciudad de SLO</td></tr><!-- Source: https://www.slocity.org/living/neighborhood/homelessness -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Immigration:</th></tr>
-   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Línea de Respuesta Rápida para Inmigrantes (reportar actividad de ICE o conectarse con apoyo legal); regístrese para alertas de texto <a href="sms:+1-805-870-8855?&amp;body=ALERT">enviando mensaje de texto “ALERT” a este número</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
-   <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> o envíe mensaje de texto a <a href="sms:233733">233733</a></td><td>Línea Nacional contra el Tráfico de Personas</td></tr><!-- Source: https://humantraffickinghotline.org/en -->
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Línea Directa de Respuesta Rápida 805 (reportar actividad de ICE o conectarse con apoyo legal); regístrese para alertas de texto <a href="sms:+1-805-870-8855?&amp;body=ALERT">enviando mensaje de texto “ALERT” a este número</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
+   <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> o envíe mensaje de texto a <a href="sms:233733">233733</a></td><td>Línea Nacional Contra la Trata de Personas</td></tr><!-- Source: https://humantraffickinghotline.org/es -->
  </tbody>
 </table>
 
@@ -155,17 +155,17 @@ Muchos proveedores de servicios tienen políticas de no discriminación e intent
 Algunos servicios tienen reglas específicas sobre quién puede usarlos (como programas solo para veteranos, o programas con límites de ingresos).
 Las políticas de privacidad varían según la agencia.
 
-Los proveedores de servicios para personas sin hogar del gobierno (y los proveedores de servicios que reciben subsidios y contratos del gobierno) a menudo comparten información sobre sus clientes a través del HMIS (Sistema de Información de Gestión de Personas sin Hogar).
+Los proveedores de servicios para personas sin hogar del gobierno (y los proveedores de servicios que reciben subsidios y contratos del gobierno) a menudo comparten información sobre sus clientes a través del HMIS (Sistema de Información para la Gestión de Personas sin Hogar, SIGPH).
 Antes de que un proveedor de servicios ingrese información sobre usted en el HMIS, recibirá [un aviso de privacidad](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-coc-hmis-consent-for-release-of-information-2024-final-%28sp%29) ([English](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final)) y se le pedirá su consentimiento.
 Puede pedir revisar este aviso de privacidad en cualquier momento. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
-Este aviso de privacidad establece: “Aún es elegible para servicios si rechaza compartir su información estándar en HMIS”. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
+Este aviso de privacidad establece: “Su rechazo a no compartir información no se utilizará para negarle servicios en esta agencia.” <!-- Source: https://www.slocounty.ca.gov/departments/social-services/forms-documents/homeless-services/homeless-management-information-system-(hmis)/2025/san-luis-obispo-coc-hmis-consent-for-release-of-information-2024-final-(sp) -->
 Pregunte sobre los formularios de Consentimiento para Divulgación de Información (ROI) del HMIS y qué significan antes de firmarlos.
 Tiene derecho a ver la información que se ha recopilado sobre usted en el HMIS, a tener su propia copia de esta información, a solicitar cambios y a que se marque como privada (para que no se comparta con otros proveedores de servicios que usan HMIS). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-management-information-system/forms-documents/2025/san-luis-obispo-county-coc-privacy-notice-2024-final -->
 La privacidad de la información en el HMIS está protegida por ley, pero el gobierno no siempre sigue la ley, así que sea cauteloso.
 
 Muchos programas tienen procedimientos para apelar decisiones o presentar quejas.
 Pregunte al personal del programa o busque en línea para encontrar el proceso específico.
-Las organizaciones de asistencia legal pueden ayudar con apelaciones (vea la sección [Asistencia legal](#legal-help)).
+Las organizaciones de asistencia legal pueden ayudar con apelaciones (vea la sección [Asistencia Legal](#legal-help)).
 
 ### <a id="document-everything">Documente Todo</a>
 
@@ -222,7 +222,7 @@ Esto le ayuda a evitar menús telefónicos si necesita volver a llamar.
 
 ### <a id="set-goals-and-track-progress">Establezca Metas y Dé Seguimiento a Su Progreso</a>
 
-Haga que sus metas sean específicas, medibles, alcanzables, relevantes y con plazo definido. <!-- Source: https://en.wikipedia.org/wiki/SMART_criteria -->
+Haga que sus metas sean específicas, medibles, asignables, realistas y temporalmente determinadas. <!-- Source: https://es.wikipedia.org/wiki/Criterios_SMART -->
 Divida las metas grandes (como obtener vivienda) en pasos más pequeños que pueda manejar.
 Note y celebre sus logros, incluso los pequeños.
 Sea flexible y esté dispuesto a cambiar sus metas a medida que cambie su situación.
@@ -337,7 +337,7 @@ También debe poder cuidarse independientemente (bañarse, alimentarse, vestirse
 El centro 40 Prado es el único refugio nocturno para personas sin hogar sin cita previa en el condado de SLO.
 [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) solía operar un refugio en el norte del condado, pero ahora solo ofrece vivienda de transición de 90 días allí ([vea abajo](#transitional-and-long-term-housing)) y un centro de calefacción ocasional.
 
-[**Refugio del Buen Samaritano**](Directory.md#Good-Samaritan-Shelter) opera un conjunto de refugios en Santa Maria y otros lugares en el condado de Santa Barbara. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) opera un conjunto de refugios en Santa Maria y otros lugares en el condado de Santa Barbara. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
 Llame con anticipación durante el horario de oficina para saber qué refugio tiene espacio para usted. <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
 También tienen instalaciones de lavandería, comidas calientes, tratamiento de uso de sustancias y servicios de salud mental. <!-- SOURCE NEEDED -->
 
@@ -362,7 +362,7 @@ También es posible que pueda obtener ayuda de [**Adult Protective Services**](D
 #### Una Nota Sobre los Servicios de Apoyo “En el Hogar”
 <!-- Note: not sure where this section belongs. I could see a case for it being in the “Medical/Health” section, or maybe in the section on services for particular groups (e.g. elderly/disabled/blind). People who are looking for this information seem unlikely to search for it by going to the the “Housing” section. -->
 
-El programa [**In-Home Supportive Services (IHSS)**](Directory.md#In-Home-Supportive-Services) ayuda a pagar los servicios proporcionados a personas mayores, ciegas o discapacitadas que tienen dificultades para cuidarse y no pueden vivir en casa de manera segura sin atención en el hogar. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+El programa [**Servicios de Apoyo en el Hogar (IHSS)**](Directory.md#In-Home-Supportive-Services) ayuda a pagar los servicios proporcionados a personas mayores, ciegas o discapacitadas que tienen dificultades para cuidarse y no pueden vivir en casa de manera segura sin atención en el hogar. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 A pesar del nombre “en el hogar”, este programa también está potencialmente disponible para personas que se refugian en refugios para personas sin hogar o sitios de estacionamiento seguro.<!-- according to the long-term care ombudsman at the Collaborative Outreach Meeting on 5 Nov 2025 -->
 Entre los servicios que este programa puede ayudar a pagar están la preparación de comidas, lavandería, compras de alimentos, servicios de cuidado personal (como cuidado intestinal y de vejiga, baño, aseo y servicios paramédicos, ayuda para vestirse, ayuda para entrar y salir de una silla de ruedas) y acompañamiento a citas médicas. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
 
@@ -424,12 +424,12 @@ Esta sección discute opciones de vivienda a más largo plazo incluyendo *vivien
 El [**Coordinated Entry System (CES)**](Directory.md#CES) es el sistema del condado de SLO para conectar a las personas necesitadas con vivienda de transición o a largo plazo que sea apropiada para ellos.
 Si desea obtener tal vivienda, debe intentar ingresar a este sistema.
 Esto puede ser más efectivo que intentar contactar a los muchos programas individuales de vivienda de transición o a largo plazo uno a la vez.
-Para ingresar a este sistema, comuníquese con una de las muchas agencias participantes, como [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Refugio del Buen Samaritano**](Directory.md#Good-Samaritan-Shelter) o [**SLO County Health Department**](Directory.md#SLO-County-Health-Department). <!-- SOURCE NEEDED -->
+Para ingresar a este sistema, comuníquese con una de las muchas agencias participantes, como [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) o [**SLO County Health Department**](Directory.md#SLO-County-Health-Department). <!-- SOURCE NEEDED -->
 
 Un programa llamado [**Housing Now**](Directory.md#Housing-Now) encuentra hogares para las personas crónicamente sin hogar más vulnerables del condado de SLO.
 No puede solicitar directamente participar en este programa, pero si ingresa al Coordinated Entry System (vea arriba), ese sistema eventualmente puede colocarlo en este programa para que pueda obtener rápidamente un hogar. <!-- SOURCE NEEDED -->
 
-El [**Behavioral Health Bridge Housing (BHBH)**](Directory.md#BHBH) tiene vivienda de calidad y asequible a corto plazo (menos de 90 días) y mediano plazo (90 días a dos años) para personas en el condado de SLO que tienen problemas graves de salud del comportamiento y que están sin hogar o en riesgo de quedarse sin hogar. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
+El [**Salud Conductual Bridge Housing (BHBH)**](Directory.md#BHBH) tiene vivienda de calidad y asequible a corto plazo (menos de 90 días) y mediano plazo (90 días a dos años) para personas en el condado de SLO que tienen problemas graves de salud del comportamiento y que están sin hogar o en riesgo de quedarse sin hogar. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
 Para información sobre el proceso de solicitud, cómo demostrar elegibilidad y disponibilidad de camas, llame a Mark Lamore, Director de Servicios para Personas sin Hogar en [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA), al [805-540-6500](tel:+1-805-540-6500). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
 
 [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC) opera un [programa de asistencia de vivienda](https://5chc.org/programs/housing-assistance) que ofrece administración de casos y asistencia financiera para renta, depósito y necesidades inmediatas, y asistencia de vivienda a través de varios subsidios de financiamiento. <!-- Source: https://5chc.org/programs/housing-assistance -->
@@ -444,7 +444,7 @@ No admitirán a delincuentes sexuales registrados P.C. 290. <!-- SOURCE NEEDED -
 El [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) puede pagar un depósito de seguridad único y/o el último mes de renta y/o depósito de servicios públicos para familias sin hogar o que recibieron un aviso para pagar la renta o desocupar en su hogar de alquiler actual. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 Para calificar debe cumplir con los requisitos de elegibilidad de CalWORKs y tener menos de $100 en activos líquidos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 
-Si es miembro de Medi-Cal ([**CenCal Health**](Directory.md#CenCal)), se encuentra sin hogar o en riesgo de quedarse sin hogar y necesita una vivienda estable por motivos de salud, podría calificar para los beneficios de CalAIM de Medi-Cal, que incluyen servicios de vivienda: [**Administración de la Atención Mejorada**](Directory.md#Enhanced-Care-Management) y “Apoyos Comunitarios.” <!-- Source: https://www.cencalhealth.org/members/calaim/ -->
+Si es miembro de Medi-Cal ([**CenCal Health**](Directory.md#CenCal)), se encuentra sin hogar o en riesgo de quedarse sin hogar y necesita una vivienda estable por motivos de salud, podría calificar para los beneficios de CalAIM de Medi-Cal, que incluyen servicios de vivienda: [**Administración de la Atención Mejorada**](Directory.md#Enhanced-Care-Management) y “Apoyos Comunitarios.” <!-- Source: https://www.cencalhealth.org/es/members/calaim/ -->
 Para saber si califica para estos servicios y solicitarlos, llame al número de servicios para miembros de CenCal o pídale a su médico de cabecera u otro proveedor de servicios sociales que lo remita al programa Administración de la Atención Mejorada de CenCal. <!-- Source: https://www.cencalhealth.org/members/calaim/ -->
 Si califica, CenCal le asignará un administrador de casos que le ayudará a obtener los servicios de vivienda que necesita. <!-- Source: https://www.cencalhealth.org/members/calaim/ -->
 Estos servicios pueden incluir ayuda financiera única para pagar depósitos de garantía, servicios públicos, alquiler y artículos esenciales para el hogar; ayuda para encontrar vivienda y negociar con los propietarios; y ayuda para pagar el alquiler. <!-- Source: https://www.cencalhealth.org/members/calaim/ -->
@@ -502,7 +502,7 @@ Si desea solicitar vivienda a través de este programa, comience el [proceso de 
 [**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) opera un programa de propiedad de vivienda para compradores de vivienda de bajos ingresos por primera vez y asistencia de preservación de vivienda (reparaciones menores, jardinería, pintura) para propietarios de vivienda de bajos ingresos. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 Solicite a través de su sitio web. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 
-[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) opera un programa de propiedad de vivienda de “capital sudado” en el que las familias ayudan a construir sus propias casas. <!-- Source: https://www.pshhc.org/home-ownership/ -->
+[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) opera un programa de propiedad de vivienda en el que las familias ayudan a construir sus propias casas. <!-- Source: https://www.pshhc.org/home-ownership/ -->
 También operan desarrollos de vivienda de alquiler asequible y programas de vivienda de apoyo. <!-- Sources: https://www.pshhc.org/rental-properties/ and https://www.pshhc.org/supportive-housing/ -->
 Sirven a familias de bajos ingresos, trabajadores agrícolas, personas mayores, veteranos, personas con discapacidades y personas anteriormente sin hogar. <!-- Source: https://www.pshhc.org/rental-faq/#1603302191846-0d88dd41-feca -->
 Comuníquese con ellos directamente para acceder al programa. <!-- Source: https://www.pshhc.org/rental-faq/#1755192260681-29f97bf4-933c -->
@@ -557,7 +557,7 @@ The projects in this subsection are not yet housing people but hope to do so soo
 [**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarily single seniors.
 As of December 2025 the project is still under construction and is not admitting residents.
 
-[**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that will be operated by [**Refugio del Buen Samaritano**](Directory.md#Good-Samaritan-Shelter) in SLO city on county-owned land.
+[**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city on county-owned land.
 Priority is given to Bob Jones Bike Trail encampment residents.
 As of December 2025 the project is still under construction and is not admitting residents.
 
@@ -595,9 +595,9 @@ Llame al [877-4AID-VET](tel:+1-877-424-3838) o solicite ayuda de [**SLO County V
 
 [**SLO Hub**](Directory.md#SLO-Hub) le ayuda a encontrar un programa residencial de recuperación que sea adecuado para usted, y puede pagar el depósito y la renta de los primeros meses de su residencia si no puede pagarla o si su seguro no la cubre. <!-- SOURCE NEEDED -->
 
-[**SLO County Behavioral Health Department**](Directory.md#SLO-County-Behavioral-Health) tiene contratos con entornos de vida sobria en todo el condado de SLO (desde Oceano hasta Paso Robles) a tarifas de $35–55 por día. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
+[**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health) tiene contratos con entornos de vida sobria en todo el condado de SLO (desde Oceano hasta Paso Robles) a tarifas de $35–55 por día. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
 Estas instalaciones aceptan Medi-Cal y ofrecen tarifas de escala móvil según la capacidad de pago. <!-- SOURCE NEEDED -->
-Visite [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Behavioral Health al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
+Visite [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Salud 7 Bienestar al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
 
 Aquí hay algunas opciones de tratamiento residencial en el condado de SLO:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
@@ -1592,7 +1592,7 @@ Puede obtener apoyo de salud mental las 24 horas de SLO Hotline ([805-783-0607](
 
 > Para emergencias de salud mental, vea [Atención de Emergencia](#emergency-care) y [Contactos de Emergencia](#emergency-contacts).
 
-El [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) y la [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) responden a necesidades agudas de salud mental.
+El [**Mental Health Evaluation Team / Equipo Móvil de Respuesta a Crisis**](Directory.md#MHET) y la [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) responden a necesidades agudas de salud mental.
 
 [**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) y [**El Centro de Consejería Comunitaria**](Directory.md#Community-Counseling-Center) ofrecen asesoramiento de salud mental de bajo costo o sin costo.
 
@@ -1843,8 +1843,8 @@ Las oficinas de [**Community Health Centers**](Directory.md#CHC) en 260 Station 
 en 77 Casa St. en SLO y en Templeton (Las Tablas), se especializan en salud del comportamiento. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
 Su [**Healthcare for the Homeless Program**](Directory.md#HCHP) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) ofrece tratamiento de abuso de sustancias e intercambio de agujas. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
-[**Refugio del Buen Samaritano**](Directory.md#Good-Samaritan-Shelter) en Santa Maria tiene un programa de desintoxicación que acepta personas sin cita<!-- Source: https://www.goodsamaritanshelter.org/recovery-behavioral-health --><!-- and referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County {SOURCE NEEDED} -->.
-Opera el [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) para sobriedad, desintoxicación y abstinencia de drogas asistida médicamente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
+[**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) en Santa Maria tiene un programa de desintoxicación que acepta personas sin cita<!-- Source: https://www.goodsamaritanshelter.org/recovery-behavioral-health --><!-- and referrals from [**5 Cities Homeless Coalition**](Directory.md#5CHC) in SLO County {SOURCE NEEDED} -->.
+Opera el [**Centro de Sobriedad SLO**](Directory.md#SLO-Sobering-Center) para sobriedad, desintoxicación y abstinencia de drogas asistida médicamente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
 
 [**SLO Bangers**](Directory.md#SLO-Bangers) opera un programa de intercambio de agujas, puede darle entrenamiento para la prevención de sobredosis y distribuye Narcan. <!-- Source: https://slobangers.com/services.html -->
 
@@ -1888,7 +1888,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 
 - Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.465791" data-lon="-120.648782" data-zoom="17" data-label="Department of Social Services">9630 El Camino Real</a>
 - Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Atascadero), <a href="#" class="map-link" data-lat="35.489118" data-lon="-120.663909" data-zoom="17" data-label="Public Library">6555 Capistrano Ave.</a>
-- Paso Robles: [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="Behavioral Health">805 4th St.</a>
+- Paso Robles: [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="Behavioral Health">805 4th St.</a>
 - Paso Robles: City Library, <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="City Library">1000 Spring St.</a>
 - Paso Robles: [**ECHO**](Directory.md#ECHO) (Paso Home Key), <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="ECHO Shelter">1134 Black Oak Dr.</a>
 - Paso Robles: [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.650584" data-lon="-120.670395" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
@@ -1899,7 +1899,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 **Ciudad de SLO:**
 
 - [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), <a href="#" class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">885 Oklahoma Ave.</a>
-- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a>
+- [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a>
 - [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave.</a>
 - Cuesta Canyon Park, <a href="#" class="map-link" data-lat="35.294471" data-lon="-120.642822" data-zoom="16" data-label="Cuesta Park">2400 Loomis St.</a>
 - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
@@ -3059,7 +3059,7 @@ Llame al [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833
 Operan la granja, vivero y tienda minorista del centro de SLO Growing Grounds, que emplean a clientes de TMHA y les dan capacitación vocacional. <!-- Source: https://www.t-mha.org/work-programs.php -->
 
 TMHA también opera un [“Programa de Empleo Apoyado”](https://www.t-mha.org/program-details.php?id=16) (Supported Employment Program) que ayuda a personas con enfermedades mentales a encontrar y mantener empleos. <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
-Para usar ese programa, necesita una referencia del [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) o de [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health). <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
+Para usar ese programa, necesita una referencia del [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) o del [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health). <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
 
 El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) ofrece servicios de rehabilitación vocacional para personas con discapacidades, incluyendo capacitación laboral, asistencia de colocación, tecnología de asistencia y apoyo educativo. <!-- Source: https://www.dor.ca.gov/Home/EmploymentServices -->
 

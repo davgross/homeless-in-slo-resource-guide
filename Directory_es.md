@@ -468,16 +468,7 @@
 
 ## Behavioral Health
 
-> *Vea [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health)*
-
-## <a id="BHBH">Behavioral Health Bridge Housing (BHBH) Program</a>
-
-> *Vea [**Transitions Mental Health Association (TMHA)**](#TMHA)*
-
-- **Sitio web:** [www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing)
-- **Teléfono:** [805-540-6500](tel:+1-805-540-6500) (Mark Lamore, director de servicios para personas sin hogar a [**TMHA**](#TMHA)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
-- **Correo electrónico:** [mtorell@co.slo.ca.us](mailto:mtorell@co.slo.ca.us) y [jmprice@co.slo.ca.us](mailto:jmprice@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
-- **Cómo obtener el servicio:** debe ser referido por otra agencia; llame para solicitar detalles <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
+> *Vea [**Departamento de Salud y Bienestar del Condado de SLO**](#SLO-County-Behavioral-Health)*
 
 ## <a id="Bella-Vista-by-the-Sea">Bella Vista by the Sea</a>
 
@@ -1322,7 +1313,7 @@
 - **Cómo obtener el servicio:**
    - South County: Contacta con [**5Cities Homeless Coalition**](Directory#5CHC)
    - en todo el condado: Contacta con [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
-   - O iniciar contacto a través de otras agencias participantes como [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), [**Transitions Mental Health Association (TMHA)**](#TMHA), [**Refugio del Buen Samaritano**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) o [**SLO County Health Department**](#SLO-County-Health-Department)
+   - O iniciar contacto a través de otras agencias participantes como [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), [**Transitions Mental Health Association (TMHA)**](#TMHA), [**Good Samaritan Shelter**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) o [**SLO County Health Department**](#SLO-County-Health-Department)
 - Notas:
    - un punto de entrada para [**Housing Now**](#Housing-Now), (at least some of) [**Peoples’ Self-Help Housing**](#Peoples-Self-Help-Housing), [**Welcome Home Village**](#Welcome-Home-Village)
    - supervisado por “Homeless Services Oversight Council (HSOC)”
@@ -1420,6 +1411,38 @@
 - **Cómo obtener el servicio:** No se aceptan visitas sin cita previa. Llámelos para programar una orientación o complete un formulario en su sitio web.
 - Notas:
    - Pueden derivarte al programa de “Supported Employment”
+
+## <a id="SLO-County-Behavioral-Health">Departamento de Salud y Bienestar del Condado de SLO</a>
+
+- **Sitio web:** [slocounty.ca.gov/departments/health-agency/behavioral-health](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)
+- **Ubicaciones:**
+   - Oficina principal: <a href="#" class="map-link" data-lat="35.274722" data-lon="-120.646040" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave., SLO</a> — [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+   - Arroyo Grande: <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Behavioral Health">1350 Grand Ave.</a> — [805-474-2154](tel:+1-805-474-2154) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Services Affirming Family Empowerment: <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SLO County Department of Social Services">1086 E. Grand Ave.</a> — [805-474-2105](tel:+1-805-474-2105) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+   - Campus de Salud Atascadero: <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLO County Behavioral Health">5575 Hospital Dr.</a> — [805-461-6060](tel:+1-805-461-6060) (servicios de salud mental para adultos), [805-461-6113](tel:+1-805-461-6113) (servicios de salud mental para jóvenes), [805-461-6080](tel:+1-805-461-6080) (servicios de drogas y alcohol para adultos) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+   - Grover Beach:
+      - Servicios de Drogas y Alcohol Para Adultos y Jóvenes: <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health">1523 Longbranch Ave.</a> — [805-473-7080](tel:+1-805-473-7080) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Servicios de Salud Mental Para Jóvenes: <a href="#" class="map-link" data-lat="35.119877" data-lon="-120.612731" data-zoom="17" data-label="SLO County Behavioral Health">1666 Ramona Ave.</a> — [805-473-7060](tel:+1-805-473-7060) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+   - Campus de Salud Paso Robles: <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Behavioral Health">805 4th St.</a> — [805-237-3090](tel:+1-805-237-3090) (salud mental de adultos), [805-237-3070](tel:+1-805-237-3070) (salud mental de los jóvenes), [805-226-3200](tel:+1-805-226-3200) (servicios de drogas y alcohol para adultos) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+   - SLO:
+      - Servicios de Drogas y Alcohol Para Adultos: <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave.</a> — [805-781-4275](tel:+1-805-781-4275) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Servicios de Salud Mental Para Adultos: <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Behavioral Health">2178 Johnson Ave.</a> — [805-781-4700](tel:+1-805-781-4700) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Centro de Salud Psiquiátrica: <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="SLO County Behavioral Health">2178 Johnson Ave.</a> — [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Servicios de Prevención y Comunitarios: <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">277 South St. #T, SLO</a> — [805-781-4754](tel:+1-805-781-4754) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Servicios de Drogas y Alcohol Para Jóvenes: <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">277 South St. #T, SLO</a> — [805-781-4754](tel:+1-805-781-4754) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Servicios de Salud Mental Para Jóvenes: <a href="#" class="map-link" data-lat="35.263533" data-lon="-120.648100" data-zoom="17" data-label="SLO County Behavioral Health">2975 McMillan #160</a> — [805-781-4179](tel:+1-805-781-4179) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Servicios de Salud Mental del Centro Infantil Martha’s Place (Niños de 0–5 años): <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Behavioral Health">2925 McMillan Ave. #108</a> — [805-781-4948](tel:+1-805-781-4948) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+      - Centro de Sobriedad SLO: <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave.</a> — [820-280-0415](tel:+1-820-280-0415) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+- **Teléfono:**
+   - Línea de acceso a la salud conductual: [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
+   - Línea directa local de crisis de salud mental: [800-783-0607](tel:+1-800-783-0607) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
+   - Defensor de los derechos del paciente: [805-781-4738](tel:+1-805-781-4738)
+- **Horario:** L–V 8am–5pm (cerrado mediodía–1pm para almuerzo) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+- Costo: “No se niega el acceso a los servicios a ningún cliente debido a la incapacidad de pago. Tarifas con descuento y escalas de tarifas deslizantes están disponibles según el tamaño de la familia y los ingresos.” <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
+- Notas:
+   - opera [**SLO County Drug and Alcohol Services**](#SLO-County-Drug-and-Alcohol-Services)
+   - [**Genoa Pharmacy**](#Genoa-Pharmacy) es la farmacia en el sitio para SLO County Behavioral Health
+   - puede referirlo al programa de “Empleo con Apoyo”
 
 ## Department of Motor Vehicles (DMV)
 
@@ -1702,7 +1725,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="Genoa Pharmacy">2178 Johnson Avenue #P1, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy -->
 - **Teléfono:** [805-242-4051](tel:+1-805-242-4051) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy -->
 - **Horario:** L–V 8:30am–5pm (cerrado 12:30–1pm) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy -->
-- Nota: la farmacia en el lugar de [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy -->
+- Nota: la farmacia en el lugar de [**Departamento de Salud y Bienestar del Condado de SLO**](#SLO-County-Behavioral-Health) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy -->
 
 ## GLAD
 
@@ -1721,6 +1744,25 @@
    - <a href="#" class="map-link" data-lat="35.294492" data-lon="-120.670846" data-zoom="17" data-label="Golden 1 Credit Union">852 E. Foothill Blvd., SLO</a>
 - **Teléfono:** [877-GOLDEN-1](tel:+1-877-465-3361) <!-- Source: https://www.golden1.com/discoverg1/call-us -->
 - **Horario:** L–V 10am–5pm, S 10am–2pm <!-- Source: https://www.golden1.com/atm-branch-finder -->
+
+## <a id="Good-Samaritan-Shelter">Good Samaritan Shelter</a>
+
+- **Sitio web:** [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)
+- **Ubicaciones:**
+   - Santa Maria refugio de emergencia: <a href="#" class="map-link" data-lat="34.943820" data-lon="-120.441034" data-zoom="17" data-label="Good Samaritan Refugio">401 W. Morrison Ave., Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+   - Oficinas administrativas: <a href="#" class="map-link" data-lat="34.944295" data-lon="-120.440996" data-zoom="17" data-label="Good Samaritan Refugio">400 West Park, Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/ -->
+- **Teléfono:** Refugio de emergencia: [805-347-3338 x101](tel:+1-805-347-3338;ext=101) <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+- **Correo electrónico:** Layne Harlow ([lharlow@goodsamaritanshelter.org](mailto:lharlow@goodsamaritanshelter.org))
+- **Horario:**
+   - Refugio de emergencia: 24/7 <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+   - Citas de admisión al refugio 8:30am–5pm L–V
+   - El refugio abre a las 4:30pm diariamente
+   - Oficinas administrativas abiertas 9am–5pm L–V <!-- Source: https://www.goodsamaritanshelter.org/who-we-are-1 -->
+- **Cómo obtener el servicio:** (refugio) Llame L–V 8:30am–4:00pm, o llegue sin cita 9am–3pm, para establecer una cita de admisión <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
+- Notas:
+   - opera [**Welcome Home Village**](#Welcome-Home-Village)
+   - punto de entrada para el [**Coordinated Entry System (CES)**](#CES)
+   - opera [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families) <!-- Source: https://www.goodsamaritanshelter.org/housing-support-services -->
 
 ## <a id="Goodwill">Goodwill Stores</a>
 
@@ -1966,18 +2008,6 @@
 - **Teléfono:** [844-320-5182](tel:+1-844-320-5182)
 - **Correo electrónico:** [CommunitySupport@ilshealth.com](mailto:CommunitySupport@ilshealth.com)
 - **Nota:** ofrece [**Administración de la Atención Mejorada**](#Enhanced-Care-Management) <!-- Source: https://ilshealth.com/calaim-resources/ -->
-
-## <a id="In-Home-Supportive-Services">In-Home Supportive Services (IHSS)</a>
-
-- **Sitio web:** [slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-(ihss)-program](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program)
-- **Ubicaciones:**
-   - <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="In-Home Supportive Services">9630 El Camino Real, Atascadero</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-   - <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="In-Home Supportive Services">1086 E. Grand Ave., Arroyo Grande</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-- **Teléfono:**
-   - Atascadero: [805-461-6110](tel:+1-805-461-6110) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-   - Arroyo Grande: [805-474-2103](tel:+1-805-474-2103) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-- **Horario:** L–V 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
-- **Cómo obtener el servicio:** Por teléfono, o completando un [formulario de solicitud en línea](https://www.slocounty.ca.gov/Departments/Social-Services/Forms-Documents/Adult-Services/IHSS-Forms/Online-IHSS-Application-Form.aspx),<!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program --> o visitando cualquier oficina de [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) (no es necesaria cita) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/forms-documents/adult-services/apply-for-ihss/4-ways-to-apply -->
 
 ## <a id="Jewish-Family-Services">Jewish Family Services</a>
 
@@ -2274,19 +2304,15 @@
 - **Teléfono:** [805-549-8880](tel:+1-805-549-8880) <!-- Source: https://medstopurgentcare.com/ -->
 - **Horario:** L–V 8am–7pm, S–D 8am–4pm <!-- Source: https://medstopurgentcare.com/ -->
 
-## <a id="MHET">Mental Health Evaluation Team</a> / <a id="Mobile-Crisis-Team">Mobile Crisis Team</a>
+## <a id="MHET">Mental Health Evaluation Team</a> / <a id="Mobile-Crisis-Team">Equipo Móvil de Respuesta a Crisis</a>
 
 - **Sitio web:**
    - MHET: [slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-(mhet)](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-%28mhet%29)
-   - Mobile Crisis Team: [https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct)](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-%28mct%29)
+   - Equipo Móvil de Respuesta a Crisis: [https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct)](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-%28mct%29)
 - **Ubicación:** en todo el condado
 - **Teléfono:**
    - MHET: [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-(mhet) -->
-   - Mobile Crisis Team: [800-783-0607](tel:+1-800-783-0607) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct) -->
-
-## Mental Health Services
-
-> *Vea [**SLO County Mental Health Services**](#SLO-County-Mental-Health-Services)*
+   - Equipo Móvil de Respuesta a Crisis: [800-783-0607](tel:+1-800-783-0607) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mobile-crisis-team-(mct) -->
 
 ## <a id="Middlehouse">Middlehouse</a>
 
@@ -2837,25 +2863,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 > *Vea [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
 
-## <a id="Good-Samaritan-Shelter">Refugio del Buen Samaritano</a>
-
-- **Sitio web:** [goodsamaritanshelter.org](https://goodsamaritanshelter.org/)
-- **Ubicaciones:**
-   - Santa Maria refugio de emergencia: <a href="#" class="map-link" data-lat="34.943820" data-lon="-120.441034" data-zoom="17" data-label="Good Samaritan Refugio">401 W. Morrison Ave., Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-   - Oficinas administrativas: <a href="#" class="map-link" data-lat="34.944295" data-lon="-120.440996" data-zoom="17" data-label="Good Samaritan Refugio">400 West Park, Santa Maria</a> <!-- Source: https://www.goodsamaritanshelter.org/ -->
-- **Teléfono:** Refugio de emergencia: [805-347-3338 x101](tel:+1-805-347-3338;ext=101) <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-- **Correo electrónico:** Layne Harlow ([lharlow@goodsamaritanshelter.org](mailto:lharlow@goodsamaritanshelter.org))
-- **Horario:**
-   - Refugio de emergencia: 24/7 <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-   - Citas de admisión al refugio 8:30am–5pm L–V
-   - El refugio abre a las 4:30pm diariamente
-   - Oficinas administrativas abiertas 9am–5pm L–V <!-- Source: https://www.goodsamaritanshelter.org/who-we-are-1 -->
-- **Cómo obtener el servicio:** (refugio) Llame L–V 8:30am–4:00pm, o llegue sin cita 9am–3pm, para establecer una cita de admisión <!-- Source: https://www.goodsamaritanshelter.org/emegency-shelter-crisis-response -->
-- Notas:
-   - opera [**Welcome Home Village**](#Welcome-Home-Village)
-   - punto de entrada para el [**Coordinated Entry System (CES)**](#CES)
-   - opera [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families) <!-- Source: https://www.goodsamaritanshelter.org/housing-support-services -->
-
 ## Regional Transit Authority (RTA)
 
 > *Vea [**SLO Regional Transit Authority**](#SLO-RTA)*
@@ -2980,6 +2987,15 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.121190" data-lon="-120.619932" data-zoom="17" data-label="St. Patrick’s Shamrock Thrift">924 W. Grand Ave., Grover Beach</a> <!-- Source: https://5chc.org/community-services/clothing -->
 - **Teléfono:** [805-481-0612](tel:+1-805-481-0612) <!-- Source: https://5chc.org/community-services/clothing -->
 - **Horario:** Ma–S 10am–4pm <!-- Source: https://5chc.org/community-services/clothing -->
+
+## <a id="BHBH">Salud Conductual Bridge Housing (BHBH)</a>
+
+> *Vea [**Transitions Mental Health Association (TMHA)**](#TMHA)*
+
+- **Sitio web:** [www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing)
+- **Teléfono:** [805-540-6500](tel:+1-805-540-6500) (Mark Lamore, director de servicios para personas sin hogar a [**TMHA**](#TMHA)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
+- **Correo electrónico:** [mtorell@co.slo.ca.us](mailto:mtorell@co.slo.ca.us) y [jmprice@co.slo.ca.us](mailto:jmprice@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
+- **Cómo obtener el servicio:** debe ser referido por otra agencia; llame para solicitar detalles <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing -->
 
 ## <a id="Salvation-Army">Salvation Army</a>
 
@@ -3127,6 +3143,22 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Horario:** L–V 8:30am–5pm
 - Nota: un proyecto de [**SLO Legal Assistance Foundation (SLOLAF)**](#SLO-Legal-Assistance-Foundation)
 
+## <a id="In-Home-Supportive-Services">Servicios de Apoyo en el Hogar (IHSS)</a>
+
+- **Sitio web:** [slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-(ihss)-program](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program)
+- **Ubicaciones:**
+   - <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="In-Home Supportive Services">9630 El Camino Real, Atascadero</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+   - <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="In-Home Supportive Services">1086 E. Grand Ave., Arroyo Grande</a> <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+- **Teléfono:**
+   - Atascadero: [805-461-6110](tel:+1-805-461-6110) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+   - Arroyo Grande: [805-474-2103](tel:+1-805-474-2103) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+- **Horario:** L–V 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program -->
+- **Cómo obtener el servicio:** Por teléfono, o completando un [formulario de solicitud en línea](https://www.slocounty.ca.gov/Departments/Social-Services/Forms-Documents/Adult-Services/IHSS-Forms/Online-IHSS-Application-Form.aspx),<!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/in-home-supportive-services-%28ihss%29-program --> o visitando cualquier oficina de [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) (no es necesaria cita) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/forms-documents/adult-services/apply-for-ihss/4-ways-to-apply -->
+
+## Servicios de Salud Mental
+
+> *Vea [**SLO County Mental Health Services**](#SLO-County-Mental-Health-Services)*
+
 ## <a id="SESLOC-Credit-Union">SESLOC Credit Union</a>
 
 - **Sitio web:** [sesloc.org](https://www.sesloc.org/)
@@ -3228,38 +3260,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Correo electrónico:** [lris@slobar.org](mailto:lris@slobar.org) <!-- Source: https://slobarlris.org/contact/ -->
 <!-- Nota: No physical walk-in location; operates via phone interviews and online request forms only (verified October 2025) -->
 
-## <a id="SLO-County-Behavioral-Health">SLO County Behavioral Health</a>
-
-- **Sitio web:** [slocounty.ca.gov/departments/health-agency/behavioral-health](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health)
-- **Ubicaciones:**
-   - Oficina principal: <a href="#" class="map-link" data-lat="35.274722" data-lon="-120.646040" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave., SLO</a> — [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-   - Arroyo Grande: <a href="#" class="map-link" data-lat="35.120967" data-lon="-120.604497" data-zoom="17" data-label="SLO County Behavioral Health">1350 Grand Ave.</a> — [805-474-2154](tel:+1-805-474-2154) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-      - Services Affirming Family Empowerment: <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SLO County Department of Social Services">1086 E. Grand Ave.</a> — [805-474-2105](tel:+1-805-474-2105) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-   - Atascadero Health Campus: <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLO County Behavioral Health">5575 Hospital Dr.</a> — [805-461-6060](tel:+1-805-461-6060) (adult mental health), [805-461-6113](tel:+1-805-461-6113) (youth mental health), [805-461-6080](tel:+1-805-461-6080) (adult drug and alcohol services) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-   - Grover Beach:
-      - Youth & Adult Drug and Alcohol Services: <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health">1523 Longbranch Ave.</a> — [805-473-7080](tel:+1-805-473-7080) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-      - Youth Mental Health Services: <a href="#" class="map-link" data-lat="35.119877" data-lon="-120.612731" data-zoom="17" data-label="SLO County Behavioral Health">1666 Ramona Ave.</a> — [805-473-7060](tel:+1-805-473-7060) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-   - Paso Robles Health Campus: <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Behavioral Health">805 4th St.</a> — [805-237-3090](tel:+1-805-237-3090) (salud mental de adultos), [805-237-3070](tel:+1-805-237-3070) (salud mental de los jóvenes), [805-226-3200](tel:+1-805-226-3200) (servicios de drogas y alcohol para adultos) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-   - SLO:
-      - Adult Drug and Alcohol Services: <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave.</a> — [805-781-4275](tel:+1-805-781-4275) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-      - Adult Mental Health Services: <a href="#" class="map-link" data-lat="35.275337" data-lon="-120.646539" data-zoom="17" data-label="SLO County Behavioral Health">2178 Johnson Ave.</a> — [805-781-4700](tel:+1-805-781-4700) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-      - Psychiatric Health Facility: <a href="#" class="map-link" data-lat="35.275431" data-lon="-120.646555" data-zoom="17" data-label="SLO County Behavioral Health">2178 Johnson Ave.</a> — [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-      - Prevention and Outreach Services: <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">277 South St. #T, SLO</a> — [805-781-4754](tel:+1-805-781-4754) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-      - Youth Drug and Alcohol Services: <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Drug and Alcohol Services">277 South St. #T, SLO</a> — [805-781-4754](tel:+1-805-781-4754) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-      - Youth Mental Health Services: <a href="#" class="map-link" data-lat="35.263533" data-lon="-120.648100" data-zoom="17" data-label="SLO County Behavioral Health">2975 McMillan #160</a> — [805-781-4179](tel:+1-805-781-4179) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-      - Martha’s Place Children’s Center (Ages 0–5): <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="SLO County Behavioral Health">2925 McMillan Ave. #108</a> — [805-781-4948](tel:+1-805-781-4948) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-      - SLO Sobering Center: <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave.</a> — [820-280-0415](tel:+1-820-280-0415) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-- **Teléfono:**
-   - Línea de acceso a la salud conductual: [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
-   - Línea directa local de crisis de salud mental: [800-783-0607](tel:+1-800-783-0607) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
-   - Defensor de los derechos del paciente: [805-781-4738](tel:+1-805-781-4738)
-- **Horario:** L–V 8am–5pm (cerrado mediodía–1pm for lunch) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-- Costo: “No se niega el acceso a los servicios a ningún cliente debido a la incapacidad de pago. Tarifas con descuento y escalas de tarifas deslizantes están disponibles según el tamaño de la familia y los ingresos.” <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
-- Notas:
-   - opera [**SLO County Drug and Alcohol Services**](#SLO-County-Drug-and-Alcohol-Services)
-   - [**Genoa Pharmacy**](#Genoa-Pharmacy) es la farmacia en el sitio para SLO County Behavioral Health
-   - puede referirlo al programa de “Empleo con Apoyo”
-
 ## <a id="SLO-County-Clerk-Recorder">SLO County Clerk-Recorder</a>
 
 - **Sitio web:** [slocounty.ca.gov/departments/clerk-recorder](https://www.slocounty.ca.gov/departments/clerk-recorder)
@@ -3314,7 +3314,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Horario:** L–V 8am–5pm
 - **Cómo obtener el servicio:** se aceptan visitas sin cita (vea Horario arriba), o llame a la línea de acceso principal para programar una cita
 - Notas:
-   - operado por [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health)
+   - operado por [**Departamento de Salud y Bienestar del Condado de SLO**](#SLO-County-Behavioral-Health)
    - Clínica de Atascadero cerrada desde el 1 de julio de 2025 (use la clínica de Paso Robles en su lugar)
 
 ## <a id="SLO-County-Health-Department">SLO County Health Department</a>
@@ -3383,7 +3383,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.274940" data-lon="-120.646298" data-zoom="17" data-label="SLO County Public Health Department">2180 Johnson Ave, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
    - <a href="#" class="map-link" data-lat="35.274391" data-lon="-120.646730" data-zoom="17" data-label="SLO County Public Health Department">2191 Johnson Ave, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
-   - <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Behavioral Health">805 4th St., Paso Robles</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
+   - <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="SLO County Public Health Department">805 4th St., Paso Robles</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
 - **Teléfono:**
    - [805-788-2903](tel:+1-805-788-2903) (línea de información las 24 horas) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/contact-us -->
    - [805-781-5506](tel:+1-805-781-5506) (para hacer una cita) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/clinic-locations -->
@@ -3537,7 +3537,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - parte de [**City of SLO Parks and Recreation**](#City-of-SLO-Parks-and-Recreation)
    - alberga [**HiCAP**](#HiCAP) (los jueves mediodía–3:30pm con cita previa)
 
-## <a id="SLO-Sobering-Center">SLO Sobering Center</a>
+## <a id="SLO-Sobering-Center">Centro de Sobriedad SLO</a>
 
 - **Sitio web:** [slocounty.gov/soberingcenter](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="SLO Sobering Center">2180 Johnson Ave., SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center -->
@@ -3595,7 +3595,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 ## Sobering Center
 
-> *Vea [**SLO Sobering Center**](#SLO-Sobering-Center)*
+> *Vea [**Centro de Sobriedad SLO**](#SLO-Sobering-Center)*
 
 ## Social Services
 
@@ -3662,7 +3662,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-457-3331](tel:+1-805-457-3331) / [805-457-5150](tel:+1-805-457-5150) <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
 - **Correo electrónico:** [atorrente@sunstreet.org](mailto:atorrente@sunstreet.org) <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
 - **Horario:** 24/7 (entrada: L–V 8am–5pm) <!-- Source: https://sunstreetcenters.org/counseling/hours-locations/ -->
-- **Cómo obtener el servicio:** Obtenga una referencia de [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health), de su proveedor de atención médica, o de su aseguradora de salud; también puede referirse usted mismo <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
+- **Cómo obtener el servicio:** Obtenga una referencia de [**Departamento de Salud y Bienestar del Condado de SLO**](#SLO-County-Behavioral-Health), de su proveedor de atención médica, o de su aseguradora de salud; también puede referirse usted mismo <!-- Source: https://sunstreetcenters.org/counseling/san-luis-obispo-residential-program/ -->
 
 ## Superior Court
 
@@ -3688,7 +3688,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - **Correo electrónico:** [jerwin@capslo.org](mailto:jerwin@capslo.org)
 - Notas:
    - operado por [**Community Action Partnership San Luis Obispo**](#CAPSLO) <!-- Source: https://capslo.org/ssvf/ -->
-   - operado por [**5Cities Homeless Coalition**](#5CHC) with [**Refugio del Buen Samaritano**](#Good-Samaritan-Shelter)
+   - operado por [**5Cities Homeless Coalition**](#5CHC) with [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
 
 ## Surgery Without Medical Insurance
 
@@ -3743,7 +3743,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - Notas:
    - también opera “Wellness Centers” con una variedad de programas <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
       - Vea [t-mha.org/wellness-calendars.php](https://www.t-mha.org/wellness-calendars.php) para un horario:
-   - opera [**Behavioral Health Bridge Housing (BHBH) Program**](#BHBH)
+   - opera [**Salud Conductual Bridge Housing (BHBH) Program**](#BHBH)
    - opera “Bishop Street Studios” <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
    - opera “Growing Grounds Downtown,” “Growing Grounds Farm,” y “Growing Grounds Nursery” <!-- Source: https://www.t-mha.org/san-luis-obispo-programs.php -->
    - opera “Library Outreach Team” (vea [**SLO County Public Libraries**](#SLO-County-Public-Libraries))
@@ -3977,7 +3977,7 @@ Hay varias opciones de atención de urgencias, incluyendo:
 - **Teléfono:** [805-591-4544](tel:+1-805-591-4544) (Margaret Shepard-Moore, gerente de programa) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village -->
 - **Correo electrónico:** [mshepard-moore@co.slo.ca.us](mailto:mshepard-moore@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/projects/welcome-home-village -->
 - **Cómo obtener el servicio:** A través del [**Coordinated Entry System (CES)**](#CES) o contacte al Equipo de Respuesta a la Falta de Vivienda de la Ciudad de SLO para alcance
-- Nota: operado por [**Refugio del Buen Samaritano**](#Good-Samaritan-Shelter)
+- Nota: operado por [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
 
 ## Wellness Centers
 
