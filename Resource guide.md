@@ -3615,7 +3615,7 @@ They include groups for caregivers of people with dementia, for LGBTQ caregivers
 Contact [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) for details.
 
 [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has weekly [support groups](https://www.t-mha.org/family-support-groups.php) in person and on Zoom for people with loved ones who experience mental illness, in English and in Spanish.
-They also have a variety of [in-person support groups](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) and more informal gatherings for people with mental illness, as well as several virtual/online support groups.
+They also have a variety of [in-person support groups](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) and more informal gatherings for people with mental illness, in Arroyo Grande, Atascadero, and SLO, as well as several virtual/online support groups.
 
 **Parkinson’s disease:** The Central Coast Parkinson Association holds monthly in-person [support groups](https://www.myccpa.org/support-groups) in Atascadero, Morro Bay, Pismo Beach, and San Luis Obispo.
 They also hold a monthly, online support group, and a monthly in-person group in Paso Robles, for caregivers only.
