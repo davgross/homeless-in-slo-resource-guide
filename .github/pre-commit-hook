@@ -36,7 +36,7 @@ if [ -n "$SYNC_WARNINGS" ]; then
   echo ""
   echo "  Consider updating Spanish translations."
   echo "  Continue anyway? (y/n)"
-  read -r response
+  read -r response </dev/tty
   if [[ ! "$response" =~ ^[Yy]$ ]]; then
     echo "Commit aborted."
     exit 1
@@ -51,7 +51,7 @@ if echo "$STAGED_FILES" | grep -q '\.md$'; then
       echo ""
       echo "  ⚠️  Markdown linting errors found"
       echo "  Continue anyway? (y/n)"
-      read -r response
+      read -r response </dev/tty
       if [[ ! "$response" =~ ^[Yy]$ ]]; then
         echo "Commit aborted."
         exit 1
@@ -67,7 +67,7 @@ if [ -f "spell-check.cjs" ]; then
     echo ""
     echo "  ⚠️  Spelling errors found"
     echo "  Continue anyway? (y/n)"
-    read -r response
+    read -r response </dev/tty
     if [[ ! "$response" =~ ^[Yy]$ ]]; then
       echo "Commit aborted."
       exit 1
