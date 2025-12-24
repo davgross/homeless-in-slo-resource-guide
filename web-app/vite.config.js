@@ -4,6 +4,17 @@ import minifyMarkdown from './vite-plugin-minify-markdown.js';
 
 export default defineConfig({
   base: './',
+  server: {
+    watch: {
+      // Watch parent directory for markdown file changes
+      ignored: ['!**/node_modules/**', '!**/.git/**'],
+      usePolling: false,
+    },
+    // Add parent directory to watch list
+    fs: {
+      allow: ['..']
+    }
+  },
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
