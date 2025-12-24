@@ -3587,38 +3587,38 @@ Estos son algunos de ellos:
 
 ### <a id="conditions-peer-support">Discapacidades, Condiciones Médicas y Enfermedades Mentales</a>
 
-**Enfermedad de Alzheimer:** Hay [grupos de apoyo mensuales para Alzheimer](https://www.alz.org/cacentralcoast/support/supportgroups) para cuidadores y otras personas afectadas por la enfermedad de Alzheimer en Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles y SLO, así como en línea.
-También hay grupos de apoyo para personas recientemente diagnosticadas, y para personas que sufren duelo debido a un ser querido con demencia.
-Para registrarse para un grupo, llame al [800-272-3900](tel:+1-800-272-3900).
-
-**Esclerosis lateral amiotrófica (ALS):** Un grupo de apoyo para ALS se reúne mensualmente vía Zoom.
-Para unirse, contacte a la organizadora Julie Scurich en [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) o [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/ -->
-
 **Cáncer:** [Comunidad de Apoyo contra el Cáncer](https://cscslo.org/spanish-programs/) ofrece una variedad de servicios sin costo para personas con cáncer, incluyendo clases de educación sobre la salud y ejercicio, así como varios grupos de apoyo, algunos de los cuales se reúnen en Templeton, algunos en línea.
 
-El [Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) (Centro de Cáncer Mission Hope) en Arroyo Grande también alberga [grupos de apoyo para el cáncer](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) incluyendo grupos en persona para personas con cáncer de seno y para cáncer oral, de cabeza y cuello y varios otros grupos que se reúnen en línea.
+El [Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) en Arroyo Grande también alberga [grupos de apoyo para el cáncer](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) incluyendo grupos en persona para personas con cáncer de seno y para cáncer oral, de cabeza y cuello y varios otros grupos que se reúnen en línea.
 
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga varios grupos de apoyo en el [Hearst Cancer Resource Center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center) (Centro de Recursos para el Cáncer Hearst).
+[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga varios grupos de apoyo en el [Hearst Cancer Resource Center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center).
 Estos incluyen grupos [para pacientes con cáncer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) y [cáncer avanzado](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), y grupos para personas con tipos específicos de cáncer, como cánceres de la [sangre](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [seno](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf) o [próstata](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
 Para registrarse, llame al HCRC al [805-542-6234](tel:+1-805-542-6234) o envíe un correo electrónico a [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
 
-**Cuidadores:** El [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) (Centro de Recursos para Cuidadores de la Costa) tiene varios grupos de apoyo, algunos de los cuales se reúnen en línea, otros en SLO o Morro Bay.
+**Cuidadores:** El [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) tiene varios grupos de apoyo, algunos de los cuales se reúnen en línea, otros en SLO o Morro Bay.
 Incluyen grupos para cuidadores de personas con demencia, para cuidadores LGBTQ, para cuidadores de pacientes con enfermedad de Parkinson, y grupos que se conducen en español.
-
-**Diabetes:** [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga un [grupo de apoyo para diabetes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes) trimestral.
-
-**Enfermedad mental:** El capítulo del Condado de SLO de National Alliance on Mental Illness (Alianza Nacional sobre Enfermedades Mentales) lleva a cabo [grupos de apoyo](https://www.namislo.org/nami-support-groups) para familiares de personas con desafíos de salud mental, en línea, en Arroyo Grande y en Atascadero, cada mes.
-Contacte a [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) para detalles.
-
-[**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) (Asociación de Salud Mental Transitions) tiene [grupos de apoyo](https://www.t-mha.org/family-support-groups.php) semanales en persona y en Zoom para personas con seres queridos que experimentan enfermedad mental, en inglés y en español.
-También tienen una variedad de [grupos de apoyo en persona](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) y reuniones más informales para personas con enfermedad mental, así como varios grupos de apoyo virtuales/en línea.
-
-**Enfermedad de Parkinson:** La Central Coast Parkinson Association (Asociación de Parkinson de la Costa Central) lleva a cabo [grupos de apoyo](https://www.myccpa.org/support-groups) mensuales en persona en Atascadero, Morro Bay, Pismo Beach y SLO.
-También llevan a cabo un grupo de apoyo mensual en línea, y un grupo mensual en persona en Paso Robles, solo para cuidadores.
 
 **Derrame cerebral:** [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) alberga un [grupo de apoyo para derrame cerebral](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups) mensual.
 [**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) alberga un grupo de [esperanza para sobrevivientes de derrames cerebrales](https://www.stroke.org/en/stroke-groups/hope-for-stroke-survivors-ahsl) para personas que han tenido derrames cerebrales y para sus cuidadores.
 Otro grupo de [esperanza para derrame cerebral](https://www.stroke.org/en/stroke-groups/hope-for-stroke) se reúne en Templeton.
+
+**Diabetes:** [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga un [grupo de apoyo para diabetes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes) trimestral.
+
+**Enfermedad de Alzheimer:** Hay [grupos de apoyo mensuales para Alzheimer](https://www.alz.org/cacentralcoast/support/supportgroups) para cuidadores y otras personas afectadas por la enfermedad de Alzheimer en Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles y SLO, así como en línea.
+También hay grupos de apoyo para personas recientemente diagnosticadas, y para personas que sufren duelo debido a un ser querido con demencia.
+Para registrarse para un grupo, llame al [800-272-3900](tel:+1-800-272-3900).
+
+**Enfermedad mental:** El capítulo del Condado de SLO de National Alliance on Mental Illness (Alianza Nacional sobre Enfermedades Mentales) lleva a cabo [grupos de apoyo](https://www.namislo.org/nami-support-groups) para familiares de personas con desafíos de salud mental, en línea, en Arroyo Grande y en Atascadero, cada mes.
+Contacte a [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) para detalles.
+
+[**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) tiene [grupos de apoyo](https://www.t-mha.org/family-support-groups.php) semanales en persona y en Zoom para personas con seres queridos que experimentan enfermedad mental, en inglés y en español.
+También tienen una variedad de [grupos de apoyo en persona](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) y reuniones más informales para personas con enfermedad mental, en Arroyo Grande, Atascadero and SLO, así como varios grupos de apoyo virtuales/en línea.
+
+**Enfermedad de Parkinson:** La Central Coast Parkinson Association lleva a cabo [grupos de apoyo](https://www.myccpa.org/support-groups) mensuales en persona en Atascadero, Morro Bay, Pismo Beach y SLO.
+También llevan a cabo un grupo de apoyo mensual en línea, y un grupo mensual en persona en Paso Robles, solo para cuidadores.
+
+**Esclerosis lateral amiotrófica (ALS):** Un grupo de apoyo para ALS se reúne mensualmente vía Zoom.
+Para unirse, contacte a la organizadora Julie Scurich en [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) o [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/ -->
 
 ### <a id="grief-peer-support">Duelo</a>
 
