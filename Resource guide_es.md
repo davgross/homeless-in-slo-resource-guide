@@ -68,33 +68,33 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
  <thead>
   <tr><th>Número de Teléfono</th><th>Descripción</th></tr>
  </thead><tbody>
-  <tr><th colspan="2" style="text-align:left;">⇨ Líneas de Emergencia y Crisis:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Líneas de Emergencia y Crisis:</th></tr>
    <tr><td><a href="tel:+1-911">911</a></td><td>Emergencias médicas y de seguridad</td></tr>
    <tr><td><a href="tel:+1-988">988</a> / <a href="sms:988">988</a></td><td>Línea Nacional de Prevención del Suicidio</td></tr><!-- Source: https://988lifeline.org/ -->
    <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a></td><td>Línea de Ayuda de la Costa Central: línea de crisis de salud mental y prevención del suicidio disponible 24/7 que proporciona apoyo emocional inmediato</td></tr><!-- Source: https://www.t-mha.org/central-coast-hotline.php -->
    <tr><td>Envíe mensaje de texto “HOME” a <a href="sms:741741?&body=HOME">741741</a></td><td>Línea de Texto para Crisis para apoyo emocional inmediato, o en línea en <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a></td></tr><!-- Source: https://www.crisistextline.org/ -->
    <tr><td><a href="tel:+1-833-642-7696">833-642-7696</a> (English: <a href="tel:+1-833-317-4673">833-317-HOPE</a>)</td><td>The Warm Line: apoyo emocional gratuito y confidencial</td></tr><!-- Source: https://www.calhope.org/ -->
   </tr>
-  <tr><th colspan="2" style="text-align:left;">⇨ Para Jóvenes:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Jóvenes:</th></tr>
    <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Línea de Crisis para Jóvenes, para personas en California de 12 a 24 años; llame o envíe mensaje de texto</td></tr><!-- Source: https://calyouth.org/cycl/ -->
    <tr><td><a href="tel:+1-800-786-2929">800-RUN-AWAY</a> / <a href="sms:+1-800-786-2929">800-786-2929</a></td><td>Línea Nacional para Jóvenes Fugitivos: apoyo confidencial 24/7 para jóvenes fugitivos y sin hogar</td></tr><!-- Source: https://www.1800runaway.org/ -->
-   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> / envíe mensaje de texto “LOVEIS” a <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> información y apoyo para jóvenes con inquietudes sobre su relación romántica</td></tr><!-- Source: https://www.loveisrespect.org/ -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Para Personas LGBTQ:</th></tr>
+   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> / envíe mensaje de texto “LOVEIS” a <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://www.loveisrespect.org/">“Love is Respect”</a> información y apoyo para jóvenes con inquietudes sobre su relación romántica</td></tr><!-- Source: https://www.loveisrespect.org/ -->
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Personas LGBTQ:</th></tr>
    <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> o envíe mensaje de texto “START” a <a href="sms:678678?&body=START">678678</a></td><td>Línea Trevor: intervención en crisis y prevención del suicidio para jóvenes LGBTQ+</td></tr><!-- Source: https://www.thetrevorproject.org/get-help/ -->
    <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Línea Trans: línea de crisis para personas transgénero</td></tr><!-- Source: https://translifeline.org/ -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Para Víctimas de Agresión Sexual y Violencia de Pareja:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Víctimas de Agresión Sexual y Violencia de Pareja:</th></tr>
    <tr><td><a href="tel:+1-805-545-8888">805-545-8888</a></td><td>Línea de crisis local para agresión sexual, abuso sexual y violencia de pareja</td></tr><!-- Source: https://luminaalliance.org/24-hour-crisis-and-information-line -->
    <tr><td><a href="tel:+1-800-799-7233">800-799-SAFE</a> / envíe mensaje de texto “START” a <a href="sms:88788?&body=START">88788</a></td><td>La Línea Nacional sobre Violencia Doméstica</td></tr><!-- Source: https://www.thehotline.org/ -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Para Padres:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Padres:</th></tr>
    <tr><td><a href="tel:+1-833-852-6262">833-TLC-MAMA</a> / <a href="sms:1-833-852-6262">833-TLC-MAMA</a></td><td>Línea Nacional de Salud Mental Materna (llame o envíe mensaje de texto)</td></tr><!-- Source: https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline -->
    <tr><td><a href="tel:+1-888-431-2229">888-431-2229</a></td><td>Línea de Ayuda de la Red del Bebé Inquieto</td></tr><!-- Source: https://www.erikson.edu/fussy-baby-network/ -->
    <tr><td><a href="tel:+1-877-222-9723">877-BABYSAF</a></td><td>Lugares de entrega segura en California (dónde entregar confidencialmente a un recién nacido que no puede cuidar)</td></tr><!-- Source: https://cdss.ca.gov/inforesources/safely-surrendered-baby/surrender-sites -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Otras Líneas de Crisis Especializadas:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Otras Líneas de Crisis Especializadas:</th></tr>
    <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (L–V, 8am–5pm), o <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Servicios de Protección para Adultos</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps) -->
    <tr><td><a href="tel:+1-805-781-5437">805-781-KIDS</a></td><td>Línea de emergencia de Servicios de Bienestar Infantil para reportar sospecha de abuso infantil</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/child-welfare-services-(cws) -->
    <tr><td><a href="sms:838255">838255</a> (mensaje de texto)</td><td>Línea de Texto de Crisis para Veteranos</td></tr>
    <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Línea de Ayuda para Angustia por Desastres (en caso de angustia emocional debido a desastres naturales o causados por el hombre)</td></tr><!-- Source: https://www.fema.gov/ht/node/686553 -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Información de Salud y Salud del Comportamiento:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Información de Salud y Salud del Comportamiento:</th></tr>
    <tr><td><a href="tel:+1-800-222-1222">800-222-1222</a></td><td>Línea de Ayuda contra Envenenamientos: asesoramiento de tratamiento de expertos en cuidado de envenenamientos</td></tr><!-- Source: https://calpoison.org/ -->
    <tr><td><a href="tel:+1-877-435-7443">877-435-7443</a></td><td>Línea de Ayuda Help-4-Hep: apoyo entre pares para cualquier persona con inquietudes sobre hepatitis C (L–V 9am–5pm hora del Este)</td></tr><!-- Source: https://www.help4hep.org/lets-talk -->
    <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Línea de Acceso de Salud del Comportamiento del Condado de SLO: número principal para programar citas y obtener información sobre todos los servicios de salud del comportamiento, incluyendo navegación y apoyo entre pares</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
@@ -104,15 +104,15 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
    <tr><td><a href="tel:+1-800-662-4357">800-662-HELP</a></td><td>Línea de ayuda nacional de la Administración de Servicios de Salud Mental y Abuso de Sustancias (SAMHSA) (gratuita, confidencial, 24/7 para referidos e información sobre tratamiento de abuso de sustancias)</td></tr><!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
    <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Línea de ayuda 24/7 de Alcohólicos Anónimos de la Costa Central</td></tr><!-- Source: https://www.sloaa.org/ -->
    <tr><td><a href="tel:+1-800-549-7730">800-549-7730</a></td><td>Línea de ayuda 24/7 de Narcóticos Anónimos de la Costa Central</td></tr><!-- Source: https://www.centralcoastna.org/ -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Finding Help:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Finding Help:</th></tr>
    <tr><td><a href="tel:+1-211">211</a></td><td>Lo conecta con ayuda experta, compasiva y confidencial de todo tipo</td></tr><!-- Source: https://211slo.org/ -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Legal Aid and Consumer Protection:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Legal Aid and Consumer Protection:</th></tr>
    <tr><td><a href="tel:+1-800-834-5001">800-834-5001</a></td><td>Línea de Ayuda de Asistencia Legal Comunitaria del Sur de California para discriminación de vivienda, derechos de inquilinos y protección del consumidor</td></tr><!-- Source: https://www.communitylegalsocal.org/contact-us/ -->
    <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Fundación de Asistencia Legal de Los Ángeles (LAFLA) para asistencia legal</td></tr><!-- Source: https://lafla.org/ -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Housing and Homeless Services:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Housing and Homeless Services:</th></tr>
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>Coalición para Personas sin Hogar de 5Cities para asistencia de vivienda y entrada coordinada</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>Gerente de Respuesta a Personas sin Hogar de la Ciudad de SLO</td></tr><!-- Source: https://www.slocity.org/living/neighborhood/homelessness -->
-  <tr><th colspan="2" style="text-align:left;">⇨ Immigration:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Immigration:</th></tr>
    <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Línea de Respuesta Rápida para Inmigrantes (reportar actividad de ICE o conectarse con apoyo legal); regístrese para alertas de texto <a href="sms:+1-805-870-8855?&amp;body=ALERT">enviando mensaje de texto “ALERT” a este número</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> o envíe mensaje de texto a <a href="sms:233733">233733</a></td><td>Línea Nacional contra el Tráfico de Personas</td></tr><!-- Source: https://humantraffickinghotline.org/en -->
  </tbody>
@@ -3622,8 +3622,8 @@ Para unirse, contacte a la organizadora Julie Scurich en [jscurich@alsnetwork.or
 
 ### <a id="grief-peer-support">Duelo</a>
 
-Hospice SLO opera un Grupo de Apoyo para Cuidadores Familiares (Family Caregiver Support Group) semanal en línea para residentes del Condado de SLO para el cual puede registrarse [en esta página](https://hospiceslo.org/support-groups/family-caregiver-support-group-meets-weekly-on-zoom).
-También tienen un grupo de Apoyo y Educación para el Duelo (Grief Support and Education) que se reúne [en línea](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom) y otros que se reúnen en persona [en Paso Robles](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-north-county) y [en la ciudad de SLO](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-slo).
+Hospice SLO opera un Grupo de Apoyo para Cuidadores Familiares semanal en línea para residentes del Condado de SLO para el cual puede registrarse [en esta página](https://hospiceslo.org/support-groups/family-caregiver-support-group-meets-weekly-on-zoom).
+También tienen un grupo de Apoyo y Educación para el Duelo que se reúne [en línea](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom) y otros que se reúnen en persona [en Paso Robles](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-north-county) y [en la ciudad de SLO](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-slo).
 También tienen un grupo de apoyo en persona en la ciudad de SLO específicamente para personas que están [de duelo por la pérdida de un cónyuge o pareja](https://hospiceslo.org/support-groups/spouse-andor-partner-loss-support-and-education-group-meets-weekly-for-six-weeks-in).
 Ocasionalmente llevan a cabo [otros grupos de apoyo](https://hospiceslo.org/support-groups) también.
 
@@ -3654,10 +3654,10 @@ Contacte a [libby@thebroadwaydietitian.com](mailto:libby@thebroadwaydietitian.co
 
 ### <a id="glbtq-peer-support">LGBTQ</a>
 
-El [**GALA Pride & Diversity Center**](Directory.md#GALA) (Centro de Orgullo y Diversidad GALA) mantiene [una lista de grupos de apoyo](https://galacc.org/resources/#support), incluyendo:
+El [**GALA Pride & Diversity Center**](Directory.md#GALA) mantiene [una lista de grupos de apoyo](https://galacc.org/resources/#support), incluyendo:
 
 - **Grupo de apoyo mensual trans/genderqueer dirigido por terapeuta**—contacte a [laurenphelpsmft@gmail.com](mailto:laurenphelpsmft@gmail.com) para más información
-- **"Q" Youth** (grados 6–12)—contacte a [youthdirector@galacc.org](mailto:youthdirector@galacc.org) o visite GALA cualquier jueves de 6–8pm sin cita previa
+- **“Q” Youth** (grados 6–12)—contacte a [youthdirector@galacc.org](mailto:youthdirector@galacc.org) o visite GALA cualquier jueves de 6–8pm sin cita previa
 - [Grupo de apoyo para adolescentes trans y de género no conforme](https://1af473-cd.myshopify.com/pages/tcc-youth-support-group)
 - [Grupo de apoyo para adultos trans y de género no conforme](https://1af473-cd.myshopify.com/pages/tcc-tuesdays-adult-support-group)
 - [Grupo de apoyo para personas transmasculinas y de género no conforme con identificación masculina](https://1af473-cd.myshopify.com/pages/tcc-transmasc-support-group)
