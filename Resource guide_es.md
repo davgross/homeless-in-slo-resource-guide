@@ -2848,8 +2848,10 @@ Vea [su sitio web](https://www.modestneeds.org/mn/for-applicants) para instrucci
 
 Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener ayuda con alimentos, vivienda, salud y bienestar, transporte, libros de texto, pases de estacionamiento, tecnología y otras necesidades básicas de la [Oficina de Necesidades Básicas](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/index.html).
 
-Personas y familias indocumentadas o de estatus mixto que han sido directamente impactadas por la aplicación de la ley de inmigración pueden solicitar al [Fondo de Asistencia de Emergencia](https://www.805undocufund.org/emergency-assistance-fund.html) administrado por 805UnocuFund para ayuda pagando renta, servicios públicos, transporte, reubicación de emergencia y gastos relacionados con asuntos legales. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
+Personas y familias indocumentadas o de estatus migratorio mixto que han sido directamente impactadas por la aplicación de la ley de inmigración pueden solicitar al [Fondo de Asistencia de Emergencia](https://www.805undocufund.org/emergency-assistance-fund.html) administrado por 805UnocuFund para ayuda pagando renta, servicios públicos, transporte, reubicación de emergencia y gastos relacionados con asuntos legales. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
 Contacte a [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) o llame al [805-538-7070](tel:+1-805-538-7070) para solicitar. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
+Los estudiantes indocumentados o con estatus migratorio mixto (desde kínder hasta la universidad) del condado de SLO también pueden solicitar asistencia financiera a través de la [**Coalición para el Éxito de Estudiantes Indocumentados de la Costa Central**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success).
+Complete el formulario en [tinyurl.com/CCCUSS-Apply](https://tinyurl.com/CCCUSS-Apply) o envíe un correo electrónico a [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com).
 
 ### <a id="financial-aid-get-referral">Debe Pedir a Otra Agencia que Solicite en Su Nombre</a>
 
