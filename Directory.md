@@ -1901,16 +1901,14 @@
 - **How to access:** Submit a form on [the library website](https://catalog.slolibrary.org/tlc) <!-- Source: https://catalog.slolibrary.org/tlc -->
 - Notes: Program of [**SLO County Public Libraries**](#SLO-County-Public-Libraries)
 
-<!-- Not yet referenced anywhere
 ## <a id="Literacy-For-Life">Literacy For Life</a>
 
 - **Website:** [literacyforlifeslo.org](https://www.literacyforlifeslo.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.281755" data-lon="-120.661662" data-zoom="17" data-label="Literacy For Life">992 Monterey St. #C, SLO</a>
    - [Learning centers](https://www.literacyforlifeslo.org/learning-centers.php) in Arroyo Grande, Atascadero, Cambria, Los Osos, Morro Bay, Nipomo, Paso Robles, and SLO
-- **Phone:** [805-459-5369](tel:+1-805-459-5369) { Source: https://www.literacyforlifeslo.org/contact.php }
-- **Email:** [info@literacyforlifeslo.org](mailto:info@literacyforlifeslo.org) { Source: https://www.literacyforlifeslo.org/contact.php }
+- **Phone:** [805-459-5369](tel:+1-805-459-5369) <!-- Source: https://www.literacyforlifeslo.org/contact.php -->
+- **Email:** [info@literacyforlifeslo.org](mailto:info@literacyforlifeslo.org) <!-- Source: https://www.literacyforlifeslo.org/contact.php -->
 - **Hours:** M–Th 9am–5pm
--->
 
 ## <a id="Little-Free-Libraries">Little Free Libraries</a>
 

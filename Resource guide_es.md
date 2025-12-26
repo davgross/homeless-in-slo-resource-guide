@@ -3227,6 +3227,8 @@ Regístrese [en línea](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPsh
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) es un programa gratuito de tutoría uno a uno basado en voluntarios que ayuda a adultos a mejorar sus habilidades de alfabetización.
 
+[**Literacy For Life**](Directory.md#Literacy-For-Life) ofrece tutorías gratuitas e individuales de alfabetización para personas mayores de 16 años. <!-- Source: https://www.literacyforlifeslo.org/help.php -->
+
 ### <a id="diploma-ged-hiset">Diplomas de Preparatoria y sus Equivalentes (GED o HiSET)</a>
 
 Si no obtuvo (o no planea obtener) un diploma de escuela secundaria, en su lugar puede obtener un certificado que demuestre que tiene competencia a nivel de graduado de escuela secundaria.
@@ -3258,7 +3260,7 @@ Para acceder a este programa, contacte al [enlace de su distrito escolar](https:
 
 ### <a id="esl">Inglés como Segundo Idioma (ESL)</a>
 
-Las clases de Inglés como Segundo Idioma (ESL, English as a Second Language) son para estudiantes que ya tienen otro idioma nativo o “materno”, y desean aprender inglés también.
+Las clases de inglés como segundo idioma (ESL, English as a Second Language) son para estudiantes que ya tienen otro idioma nativo o “materno”, y desean aprender inglés también.
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) ofrece [clases gratuitas de ESL](https://ae.slcusd.org/hsd-esl/english-as-a-second-language) en Morro Bay y San Luis Obispo.
 
@@ -3268,6 +3270,9 @@ Las clases de Inglés como Segundo Idioma (ESL, English as a Second Language) so
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) ofrece [tutoría gratuita de ESL](https://catalog.slolibrary.org/tlc) y grupos de práctica de conversación en línea.
 Para solicitar, complete [el formulario en su sitio web](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) o llame al [805-781-5077](tel:+1-805-781-5077).
+
+[**Literacy For Life**](Directory.md#Literacy-For-Life) ofrece clases individuales gratuitas de ESL y tutoría de inglés para personas mayores de 16 años. <!-- Source: https://www.literacyforlifeslo.org/help.php -->
+También gestionan un grupo de práctica de conversación para quienes están aprendiendo inglés. <!-- Source: https://www.literacyforlifeslo.org/help.php -->
 
 [**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) ofrece clases gratuitas de ESL y tutoría personal dos noches por semana. <!-- Source: https://immigranthopeag.org/education/ -->
 
