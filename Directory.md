@@ -22,6 +22,7 @@
 - **How to access:** come to the shelter during intake hours
    - To use the shelter, you must be homeless, you must have a valid photo ID, and you must not have a P.C. 290 sex offender criminal record. You must be able to care for yourself independently (bathing, feeding, dressing, etc.). There are a limited number of beds; priority is given to SLO county residents.
 - Notes:
+   - operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
    - operates [**SLO Hub**](#SLO-Hub) <!-- Source: https://capslo.org/40-prado/ -->
    - operates the “Mid County Warming and Cooling Center” <!-- Source: https://capslo.org/40-prado-warming-center/ -->

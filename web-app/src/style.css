@@ -47,6 +47,10 @@ body {
   background-color: var(--background-color);
 }
 
+ul, ol {
+  line-height: 1.4;
+}
+
 /* Accessibility improvements */
 a:focus,
 button:focus,

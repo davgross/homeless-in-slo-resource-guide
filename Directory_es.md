@@ -22,6 +22,7 @@
 - **Cómo obtener el servicio:** venga al refugio durante las horas de inscripción
    - Para usar el refugio, debe estar sin hogar, debe tener una identificación con foto válida y no debe tener un registro criminal de delincuente sexual P.C. 290. Debe poder cuidarse de sí mismo independientemente (bañarse, alimentarse, vestirse, etc.). Hay un número limitado de camas; se da prioridad a los residentes del condado de SLO.
 - Notas:
+   - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - opera [**Programa Rotativo de Estacionamiento Seguro Nocturno**](#Rotating-Overnight-Safe-Parking-Program)
    - opera [**SLO Hub**](#SLO-Hub) <!-- Source: https://capslo.org/40-prado/ -->
    - opera el “Mid County Warming and Cooling Center” <!-- Source: https://capslo.org/40-prado-warming-center/ -->
