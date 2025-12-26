@@ -312,6 +312,7 @@ People with P.C. 290 convictions are not allowed in the center. <!-- Source: the
 Call [805-202-3615](tel:+1-805-202-3615) to verify the center is open<!-- Source: https://5chc.org/programs/warming-center --> and to learn about free transportation options to the center from Grover Beach, Oceano, and Pismo Beach. <!-- SOURCE NEEDED -->
 The warming center offers dinner and a light breakfast. <!-- Source: https://5chc.org/programs/warming-center -->
 Text “Add Me” to [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) to receive text updates to your phone when the Warming Center opens,<!-- Source: https://5chc.org/programs/warming-center --> or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list. <!-- SOURCE NEEDED -->
+Scheduled transportation is available between the warming center and Oceano, Grover Beach, and Pismo Beach. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division -->
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center at its Paso Robles shelter location. <!-- SOURCE NEEDED -->
 It operates between 6:00pm and 7:00am. Check in between 4:30pm and 5:30pm. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
