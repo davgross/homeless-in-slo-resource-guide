@@ -2855,6 +2855,8 @@ If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can 
 
 Undocumented or mixed-status people and families who have been directly impacted by immigration enforcement can apply to the [Emergency Assistance Fund](https://www.805undocufund.org/emergency-assistance-fund.html) managed by 805UnocuFund for help paying for rent, utilities, transportation, emergency relocation, and legal-related expenses. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
 Contact [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) or call [805-538-7070](tel:+1-805-538-7070) to apply. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
+Undocumented or mixed-status students (kindergarten through college) in SLO County can also apply for financial assistance through the [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success).
+Complete the form at [tinyurl.com/CCCUSS-Apply](https://tinyurl.com/CCCUSS-Apply) or email them at [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com).
 
 ### <a id="financial-aid-get-referral">You Must Ask Some Other Agency to Apply on Your Behalf</a>
 
