@@ -3959,6 +3959,7 @@ If you would like to help with the Count, email [HSD_PITCount@co.slo.ca.us](mail
 [SLOCo YIMBY](https://www.slocoyimby.org/) is a grassroots group that advocates for building more housing in SLO County, and for policy changes like legalizing multifamily housing, streamlining permitting, increasing affordable housing funding, and strengthening renter protections.
 They mobilize citizen action and outreach campaigns in support of those goals.
 Contact [hello@slocoyimby.org](mailto:hello@slocoyimby.org) for details.
+A similar SLO County pro-housing activist group is [Generation Build](https://generationbuild.net/), which you can contact at [GenerationBuildCC@gmail.com](mailto:GenerationBuildCC@gmail.com).
 
 The [National Coalition for the Homeless](https://nationalhomeless.org/) campaigns on the national level for changes in U.S. federal policy to alleviate homelessness and help people who are homeless.
 

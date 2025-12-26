@@ -3955,6 +3955,7 @@ Si desea ayudar con el Conteo, envíe un correo electrónico a [HSD_PITCount@co.
 [SLOCo YIMBY](https://www.slocoyimby.org/) es un grupo de base que aboga por construir más viviendas en el Condado de SLO, y por cambios de política como legalizar viviendas multifamiliares, agilizar los permisos, aumentar el financiamiento de vivienda asequible y fortalecer las protecciones para inquilinos.
 Movilizan acción ciudadana y campañas de alcance en apoyo de esos objetivos.
 Contacte a [hello@slocoyimby.org](mailto:hello@slocoyimby.org) para detalles.
+Un grupo activista pro-vivienda similar del condado de SLO es [Generation Build](https://generationbuild.net/), con el que puedes contactar en [GenerationBuildCC@gmail.com](mailto:GenerationBuildCC@gmail.com).
 
 La [National Coalition for the Homeless](https://nationalhomeless.org/) hace campañas a nivel nacional para cambios en la política federal de EE.UU. para aliviar la falta de hogar y ayudar a personas que están sin hogar.
 
