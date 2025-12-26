@@ -3231,6 +3231,8 @@ Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) is a free, volunteer-based, one-on-one tutoring program that helps adults improve their literacy skills.
 
+[**Literacy For Life**](Directory.md#Literacy-For-Life) provides free, one-on-one, literacy tutoring to people aged 16 and older. <!-- Source: https://www.literacyforlifeslo.org/help.php -->
+
 ### <a id="diploma-ged-hiset">High School Diplomas and their Equivalents (GED or HiSET)</a>
 
 If you did not (or do not plan to) earn a high school diploma, you can instead get a certificate that demonstrates that you have high-school-graduate-level competency.
@@ -3272,6 +3274,9 @@ English as a Second Language (ESL) classes are for learners who already have ano
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) offers free [ESL tutoring](https://catalog.slolibrary.org/tlc) and online conversation practice groups.
 To apply, complete [the form on their website](https://forms.office.com/Pages/ResponsePage.aspx?id=rWKjGn83q0Oo9xU3mPGODwd44kGa185AiEhu-KlwkiNUNVRINDQ4VUw5OE9CQzNVQkxHSzc3TkFDUi4u) or call [805-781-5077](tel:+1-805-781-5077).
+
+[**Literacy For Life**](Directory.md#Literacy-For-Life) provides free, one-on-one, ESL classes and English tutoring to people aged 16 and older. <!-- Source: https://www.literacyforlifeslo.org/help.php -->
+They also operate a conversation practice group for people who are learning English. <!-- Source: https://www.literacyforlifeslo.org/help.php -->
 
 [**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) offers free ESL classes and personal tutoring two evenings per week. <!-- Source: https://immigranthopeag.org/education/ -->
 
