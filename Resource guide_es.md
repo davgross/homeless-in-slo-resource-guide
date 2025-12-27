@@ -1793,7 +1793,6 @@ Si nota enrojecimiento creciente que se extiende más allá del área de la quem
 1. Self-help tips
    1. First aid, wound care
    1. Tips for extreme hot/cold/wet weather
-1. Weight loss? Needs research.
 1. **[Genoa Pharmacy](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)**—On-site pharmacy for SLO County Behavioral Health
    - What’s Available: Medication pickup for behavioral health clients and general public, free mail delivery of prescriptions, pharmacist consultation, services in Spanish, medication packaging options
    - Location/Phone/Hours: See [**Genoa Pharmacy**](Directory.md#Genoa-Pharmacy) in the [Directory](Directory.md)
@@ -4035,21 +4034,3 @@ Si desea ayuda en persona, puede obtener asistencia sobre una variedad de proble
 - [**SLO city Library**](Directory.md#SLO-County-Public-Libraries), martes, 10–11:30am & 2:30–4pm
 
 Puede llegar sin cita, o hacer una cita llamando o enviando un mensaje de texto al [805-540-0057](tel:+1-805-540-0057).
-
-<!-- TBD: also find a home for this stuff:
-
-1. People with specific (e.g. developmental, TBI, diabetes, blindness) disabilities
-   1. E.g. ASL translation for the deaf
-   1. ILRC, LifeSteps, PathPoint
-   1. Tri-Counties Regional Center
-      - Serves people with epilepsy, intellectual disability, autism, cerebral palsy
-      - “Provides free assessment and diagnosis for children believed to have a developmental disability”
-      - Lots of programs
-   1. [**Central Coast Autism Spectrum Center**](Directory.md#Central-Coast-Autism-Spectrum-Center)
-   1. Center for Autism & Related Disorders
-      - Location/phone/email/hours/etc.: See [**Center for Autism & Related Disorders**](Directory.md#CARD) in the [Directory](Directory.md)
-      - Offers treatment to children and adolescents who have been diagnosed with autism and related disorders.
-      - Also has some programs for adults, and for parents of people with autism etc.
-      - Accepts many insurance programs.
-      - Has a [list of ways people can pay for services](https://centerforautism.com/services/parent-resources/additional-funding/)
--->
