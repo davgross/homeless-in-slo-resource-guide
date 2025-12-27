@@ -31,7 +31,7 @@ const WHITELIST = new Set([
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
   'ESL', 'GED', 'PC290', 'PDF', 'URL', 'URLs', 'App', 'app', 'Ctrl', 'Alt', 'Cmd', 'LGBTQ+',
-  'STD', 'SoCal', 'Wi', 'Fi',
+  'STD', 'SoCal', 'Wi', 'Fi', 'MRI',
 
   // Days and times
   'M-F', 'M-Th', 'Tu-Sa', 'am', 'pm', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun', 'Mo', 'Tu',
@@ -77,7 +77,7 @@ const WHITELIST = new Set([
   'Lyft', 'vanpool', 'motorhome', 'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes',
   'microchipping', 'décor', 'Vite', 'DOMPurify', 'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite',
   'hemoccult', 'hydrocortisone', 'Rummikub', 'breathwork', 'amyotrophic', 'Latinx', 'transmasculine',
-  'mimetext', 'OpenDyslexic',
+  'mimetext', 'OpenDyslexic', 'prosthetics',
 
   // Hyphenated prefixes
   'pre', 'tri',

@@ -637,6 +637,22 @@
 - **Email:** [info@captivehearts.org](mailto:info@captivehearts.org) <!-- Source: https://www.captivehearts.org/our-program.html -->
 - Notes: operates [Second Chances Thrift Store](#Second-Chances-Thrift-Store)
 
+## <a id="Carbon-Health-Urgent-Care-Atascadero">Carbon Health Urgent Care (Atascadero)</a>
+
+- **Website:** [carbonhealth.com/en/locations/atascadero-ca](https://carbonhealth.com/en/locations/atascadero-ca)
+- **Location:** <a href="#" class="map-link" data-lat="35.482467" data-lon="-120.659886" data-zoom="17" data-label="Carbon Health Urgent Care (Atascadero)">7330 El Camino Real, Atascadero</a> <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
+- **Phone:** [831-621-1184](tel:+1-831-621-1184) <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
+- **Hours:** Every day 8am–6pm <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
+- Notes: Accepts Medicare but not Medi-Cal; walk-ins welcome, same-day appointments available
+
+## <a id="Carbon-Health-Urgent-Care-Paso-Robles">Carbon Health Urgent Care (Paso Robles)</a>
+
+- **Website:** [carbonhealth.com/en/locations/paso-robles-ca](https://carbonhealth.com/en/locations/paso-robles-ca)
+- **Location:** <a href="#" class="map-link" data-lat="35.614953" data-lon="-120.692442" data-zoom="17" data-label="Carbon Health Urgent Care">500 1st St., Paso Robles</a> <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
+- **Phone:** [831-621-1449](tel:+1-831-621-1449) <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
+- **Hours:** Every day 8am–6pm <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
+- Notes: Accepts Medicare but not Medi-Cal; walk-ins welcome, same-day appointments available
+
 ## <a id="C.A.R.E.4Paws">C.A.R.E.4Paws</a>
 
 - **Website:** [care4paws.org](https://care4paws.org/)
@@ -653,21 +669,12 @@
    - Partners with “The Street Dog Coalition”
    - Operates the “Pet Resource Center” with [**5Cities Homeless Coalition**](#5CHC) <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
 
-## <a id="Carbon-Health-Urgent-Care-Atascadero">Carbon Health Urgent Care (Atascadero)</a>
+## <a id="CSADA">Care for Senior and Disabled Animals</a>
 
-- **Website:** [carbonhealth.com/en/locations/atascadero-ca](https://carbonhealth.com/en/locations/atascadero-ca)
-- **Location:** <a href="#" class="map-link" data-lat="35.482467" data-lon="-120.659886" data-zoom="17" data-label="Carbon Health Urgent Care (Atascadero)">7330 El Camino Real, Atascadero</a> <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
-- **Phone:** [831-621-1184](tel:+1-831-621-1184) <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
-- **Hours:** Every day 8am–6pm <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
-- Notes: Accepts Medicare but not Medi-Cal; walk-ins welcome, same-day appointments available
-
-## <a id="Carbon-Health-Urgent-Care-Paso-Robles">Carbon Health Urgent Care (Paso Robles)</a>
-
-- **Website:** [carbonhealth.com/en/locations/paso-robles-ca](https://carbonhealth.com/en/locations/paso-robles-ca)
-- **Location:** <a href="#" class="map-link" data-lat="35.614953" data-lon="-120.692442" data-zoom="17" data-label="Carbon Health Urgent Care">500 1st St., Paso Robles</a> <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
-- **Phone:** [831-621-1449](tel:+1-831-621-1449) <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
-- **Hours:** Every day 8am–6pm <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
-- Notes: Accepts Medicare but not Medi-Cal; walk-ins welcome, same-day appointments available
+- **Website:** [careforsenioranddisabledanimals.org](https://careforsenioranddisabledanimals.org/)
+- **Phone:** [831-277-3800](tel:+1-831-277-3800)
+- **Email:** [csada@csadainc.com](mailto:csada@csadainc.com)
+- **How to access:** Ask your veterinarian or shelter to contact them to ask if they will help to pay for treatment or adoption of your pet.
 
 ## <a id="CASA">CASA (Court Appointed Special Advocates)</a>
 
