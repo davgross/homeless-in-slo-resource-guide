@@ -1798,28 +1798,11 @@ If you notice increasing redness that spreads beyond the area of the burn, or pu
    1. First aid, wound care
    1. Tips for extreme hot/cold/wet weather
 1. Weight loss? Needs research.
-1. Health education (e.g. CPR training, overdose prevention training)?
-   - **American Red Cross**: Offers CPR training in California with 2-year certification meeting OSHA requirements; in-person, blended learning, and online options
-      - Location/Phone/Hours: See [**Red Cross**](Directory.md#Red-Cross) in the [Directory](Directory.md)
-   - **Cuesta College Community Education**: American Red Cross Adult and Pediatric CPR/AED and First Aid classes; 2-year certificate
-      - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-   - Local providers: Star CPR, Central Coast CPR, LifeGuard CPR and Aquatics
-   - **Dignity Health**: [Educational events and programs](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/educational-events)
-   - Sources: [redcross.org](https://www.redcross.org/local/california/take-a-class/cpr)
-1. [thERApy](https://therapyera.com/) website has a mention of “sliding scale” fees but otherwise nothing indicating that they’re especially accommodating to people of limited means; seems to specialize in various “marginalized” populations, though.
 1. **[Genoa Pharmacy](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)**—On-site pharmacy for SLO County Behavioral Health
    - What’s Available: Medication pickup for behavioral health clients and general public, free mail delivery of prescriptions, pharmacist consultation, services in Spanish, medication packaging options
    - Location/Phone/Hours: See [**Genoa Pharmacy**](Directory.md#Genoa-Pharmacy) in the [Directory](Directory.md)
    - Eligibility: Open to behavioral health clients, employees, and general public; no special documents required
    - Source: [slocounty.ca.gov](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/genoa-pharmacy)
-1. **[The Link Family Resource Center](https://linkslo.org/)**
-   - Location/Phone/Hours: See [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center) in the [Directory](Directory.md)
-   - Services: Free family support services including assistance accessing food, housing, clothing, health care, and parent education
-   - Source: [linkslo.org](https://linkslo.org/)
-1. [**Resilient Ones**](https://www.resilientsouls.org/)
-   - Website is a little vague about what they offer, to whom, and on what terms. But it appears to be some sort of counseling and aid ("peer support groups, healing programs, and trauma-informed training") for “victims of trauma, abuse, and exploitation” in particular for victims of “human trafficking.”
-   - Phone: [805-674-5056](tel:+1-805-674-5056)
-   - Email: [info@resilientsouls.org](mailto:info@resilientsouls.org)
 -->
 
 -----
@@ -2066,58 +2049,6 @@ You can learn more about the form and review one online, in several languages, a
 ### <a id="self-defense-classes">Self-Defense Classes and Martial Arts</a>
 
 Sometimes relatively inexpensive self-defense or martial arts classes are offered through the “Community Programs” at [**Cuesta College**](Directory.md#Cuesta-College) or [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School).
-
-<!-- All seem to be defunct at the moment
-### <a id="womens-self-defense">Women’s Self-Defense Programs</a>
-
-1. Model Mugging of SLO
-   - Available evidence suggests this is defunct or on ice
-      - Their facebook account’s most recent post is from 2021 and says “classes are not being held at this time”
-   - Source: [modelmugging.org](https://modelmugging.org/self-defense-workshops-classes/category/california/san-luis-obispo-womens-self-defense/)
-      - Note: website might not load if you’re on a VPN
-      - The page says it’s about MM classes in SLO, but if you try to register it redirects you to “Los Angeles / Orange County” classes
-1. Akido of SLO
-   - Has a Women’s Self Defense page on their website: [aikidosanluisobispo.com/?page_id=1109](https://aikidosanluisobispo.com/?page_id=1109)
-   - But it says “Upcoming Classes TBA” and may be the same as the Model Mugging classes that were last offered some time around or before 2021
-1. Cuesta College Women’s Self Defense Workshop
-   - Format: Hands-on, comprehensive workshop in safe, supportive environment
-   - Content: Self-defense mindset, managing unknown persons, striking and combative skills
-   - Instructor: Qualified martial arts instructor
-   - Financial aid: Scholarships and family discounts available
-   - Locations/Phone/Email: See [**Cuesta College**](Directory.md#Cuesta-College) in the [Directory](Directory.md)
-   - Try [cuesta.edu/communityprograms/community-recreation/martial-arts/index.html](https://www.cuesta.edu/communityprograms/community-recreation/martial-arts/index.html)
-1. Lumina Alliance: no indication from their website that they offer self-defense training
--->
-<!-- None of these seem to advertise sliding-scale, free, or low-cost programs
-### General Self-Defense and Martial Arts Classes
-
-   1. Aikido of San Luis Obispo
-      - Website: [aikidosanluisobispo.com](https://aikidosanluisobispo.com/)
-      - Phone: [805-544-8866](tel:+1-805-544-8866)
-      - Email: [aikidoslo@mac.com](mailto:aikidoslo@mac.com)
-      - Programs: Adult Aikido classes, Youth Classes
-      - Contact directly for location, hours, and pricing information
-      - Source: [aikidosanluisobispo.com](https://aikidosanluisobispo.com/) verified November 2025
-   1. Paragon Brazilian Jiu Jitsu SLO
-      - Location: <a href="#" class="map-link" data-lat="35.246301" data-lon="-120.666138" data-zoom="17" data-label="Paragon">235 Tank Farm Rd, Unit J, SLO</a>
-      - Programs: Brazilian Jiu-Jitsu, submission wrestling, self-defense, Muay Thai kickboxing
-      - Ages: 4 and up
-      - Hours: Mon–Thu 4pm–8pm, Fri 4:30pm–6:30pm, Sat 12pm–1:30pm, Sun 11am–1pm
-      - Special offers: Family discounts for multiple family members
-      - Additional locations: Templeton, Atascadero, Arroyo Grande, Paso Robles
-      - Phone: [805-305-7512](tel:+1-805-305-7512)
-      - Website: [paragonbjjslo.com](https://www.paragonbjjslo.com/)
-      - Note: No publicly advertised sliding scale programs; contact directly to inquire about financial assistance
-      - Source: [paragonbjjslo.com](https://www.paragonbjjslo.com/)
-   1. US Academy of Martial Arts Inc.
-      - Philosophy: Martial arts beneficial to everyone regardless of age, gender, physical stature
-      - Focus: Self-defense rather than competition
-      - Curriculum: Combination of Jiu-Jitsu, Karate, Aikido, Judo
-      - Source: [us-ama.com](https://us-ama.com/)
-      - Contact: <a href="#" class="map-link" data-lat="35.263974" data-lon="-120.643420" data-zoom="17" data-label="Academy of Martial Arts">1160 Laurel Ln. #100, SLO</a>; contact directly to inquire about potential financial assistance programs
-      - Philosophy: Inclusive training for all; “training designed for tournament competition tend to eliminate those who need martial arts the most”
-      - Note: No publicly advertised free/low-cost programs found; may offer accommodations on case-by-case basis given inclusive philosophy
--->
 
 ### <a id="personal-safety-tips">Personal Safety Tips</a>
 
@@ -3557,35 +3488,8 @@ To access this program, contact the McKinney-Vento liaison for your school distr
    - Services: Free clothing, blankets, books, backpacks, school supplies, diapers, toiletries for disadvantaged children and at-risk youth
    - Additional: All programs free of charge, no documents required, no referral necessary
    - Target: Homeless children and other children in need in SLO and Santa Barbara Counties
-1. [**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents)
-   - Services: Family Resource and Empowerment Center for families with special needs children; lending libraries, support groups, Special Education information, IEP support
-   - Target: Families with children with developmental or learning-related issues throughout SLO County; including Early Start families (birth to 3)
-   - Additional: Bilingual services, toys/games, free support services; operated under UCP of San Luis Obispo County since 1990
-   - Unclear whether families can self-refer or drop in
 1. [RaiseUP SLO](https://www.racemattersslo.org/raiseup-slo) — difficult to determine what specifically they offer; website is a little vague
 1. [First 5 SLO County](https://www.first5slo.org/what-we-do.php) — more of an advocacy organization than one that directly provides services
-
-I'm confused about what SAFE is. Is it a variety of Family Resource Center? Are "Family Resource Centers" a standardized program that offer a standard set of things, or are they just a common name that's adopted by a variety of programs? Are these things that people self-refer to, or do they kind of get assigned to them by social workers and such? Online sources of information are vague on these points.
-
-1. SAFE System of Care: Comprehensive behavioral health services for children/youth ages 0–21 and families. Provides wraparound services, care coordination, family advocacy, crisis intervention, and support to keep kids in their homes and schools.
-   - How to Access: Contact school counselors/homeless liaisons, SLO County Behavioral Health at [805-781-4700](tel:+1-805-781-4700), or dial 211 for 24/7 resource information. Services are family-driven and youth-guided with individualized treatment plans.
-   - Services: Free school meals, special education, gifted programs; removes enrollment barriers and application deadlines [Source: https://www.slocoe.org/]
-1. [S.A.F.E. South County Youth Coalition](https://scyouthcoalition.com/)
-   - Full Name: Services Affirming Family Empowerment - one-stop Family Resource Center
-   - Mission: Community-based, school-linked, family-centered services to keep children safe, healthy, at home, in school, and out of trouble
-   - Services: Basic needs (clothing, food), counseling, medical/dental assistance, school advocacy, parenting classes, support groups, case management
-   - Additional: Need-based grants for sports, AP test fees, field trips, camps, music lessons; urgent assistance with transportation and toiletries
-   - Locations:
-      - <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1086 Grand Avenue, Arroyo Grande</a>; [805-474-2025](tel:+1-805-474-2025)
-      - <a href="#" class="map-link" data-lat="35.028129" data-lon="-120.498271" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">920 West Tefft St., Nipomo</a>; [805-474-3000](tel:+1-805-474-3000;ext=5147) x5147
-      - <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="S.A.F.E. South County Youth Coalition">1511 19th St., Oceano</a>; [805-474-3690](tel:+1-805-474-3690)
-   - Email: [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org), [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com)
-   - “Appointments are preferred; walk-ins are welcome”
-   - Target: All individuals including birth/adoptive/resource families, kin-care providers, transitional aged youth, special needs population
-1. [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center)
-   - Services: Serves at-risk children, youth and families; direct services, referrals, information distribution, work experience, parent education, family advocacy
-   - Coverage: Throughout San Luis Obispo County with bilingual staff and multiple regional family advocates
-1. [North County Family Resource Center](https://capslo.org/north-county-family-resource-center/)
 -->
 
 -----
@@ -3838,6 +3742,8 @@ Pets must have rabies vaccinations. <!-- Source: https://capslo.org/40-prado-war
 
 [**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) are periodic pop-up clinics that offer free veterinary care including vaccinations, exams, and nail trims.
 They typically happen 3–4 times per academic quarter at various locations around SLO County, often in coordination with other community outreach programs like [**Shower the People**](Directory.md#Shower-the-People).
+
+[**Care for Senior and Disabled Animals**](Directory.md#CSADA) can help pay for adoption fees, medical care & support, special prescription food, prosthetics, special procedures, MRIs, and labs.
 
 [**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have only limited funds. <!-- TBD: Need info on how to apply to this program (issue #82) -->
 
