@@ -46,6 +46,10 @@ function extractCoordinates(content, sectionId, label) {
   const sectionEnd = nextSectionMatch ? nextSectionMatch.index : content.length;
   const sectionContent = content.substring(sectionStart, sectionEnd);
 
+  // Split content by lines to track city names
+  const lines = sectionContent.split('\n');
+  let currentCity = '';
+
   // Extract all map links with coordinates
   const mapLinkRegex = /<a[^>]*class="map-link"[^>]*data-lat="([^"]+)"[^>]*data-lon="([^"]+)"[^>]*data-zoom="([^"]+)"[^>]*data-label="([^"]+)"[^>]*>([^<]+)<\/a>/g;
 
@@ -53,19 +57,31 @@ function extractCoordinates(content, sectionId, label) {
   while ((match = mapLinkRegex.exec(sectionContent)) !== null) {
     const [, lat, lon, zoom, dataLabel, linkText] = match;
 
-    // Extract address from the line - look backwards for the address text
+    // Find the line containing this match to extract city name
     const lineStart = sectionContent.lastIndexOf('\n', match.index);
-    const lineContent = sectionContent.substring(lineStart, match.index);
+    const prevNewlines = sectionContent.substring(0, lineStart).split('\n').length;
 
-    // The address is usually between "- " and " <a href"
-    const addressMatch = lineContent.match(/[-•]\s*(.+?)$/);
-    const address = addressMatch ? addressMatch[1].trim() : linkText;
+    // Look backwards through recent lines to find the city name (format: "   - CityName:")
+    for (let i = prevNewlines - 1; i >= 0 && i < lines.length; i--) {
+      const cityMatch = lines[i].match(/^\s{3}-\s+([^:]+):\s*$/);
+      if (cityMatch) {
+        currentCity = cityMatch[1].trim();
+        break;
+      }
+      // Stop if we hit another section marker or the beginning
+      if (lines[i].match(/^[-#]/) && !lines[i].match(/^\s{3,}/)) {
+        break;
+      }
+    }
+
+    // Use the address from the link text
+    const address = linkText.trim();
 
     locations.push({
       lat: parseFloat(lat),
       lon: parseFloat(lon),
       zoom: parseInt(zoom),
-      label: label
+      label: address
     });
   }
 
