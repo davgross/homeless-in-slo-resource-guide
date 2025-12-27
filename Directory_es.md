@@ -2710,17 +2710,13 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
       - <a href="#" class="map-link" data-lat="35.392602" data-lon="-120.606745" data-zoom="17" data-label="Pequeña Despensa Gratuita">22210 El Camino Real</a>
       - <a href="#" class="map-link" data-lat="35.386645" data-lon="-120.606553" data-zoom="17" data-label="Pequeña Despensa Gratuita">22495 K St.</a>
    - SLO:
-      - <a href="#" class="map-link" data-lat="35.260531" data-lon="-120.643519" data-zoom="17" data-label="Pequeña Despensa Gratuita">3320 Bullock Ln.</a>
-      - <a href="#" class="map-link" data-lat="35.271279" data-lon="-120.657976" data-zoom="18" data-label="Pequeña Despensa Gratuita">2021 Broad St.</a>
-      - <a href="#" class="map-link" data-lat="35.295416" data-lon="-120.673839" data-zoom="17" data-label="Pequeña Despensa Gratuita">226 Ferrini Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.272050" data-lon="-120.665095" data-zoom="17" data-label="Pequeña Despensa Gratuita">335 High St.</a>
-      - <a href="#" class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Pequeña Despensa Gratuita">2075 Johnson Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.260575" data-lon="-120.695157" data-zoom="17" data-label="Pequeña Despensa Gratuita">11245 Los Osos Valley Rd.</a>
-      - <a href="#" class="map-link" data-lat="35.276460" data-lon="-120.667080" data-zoom="18" data-label="Pequeña Despensa Gratuita">474 Marsh St.</a>
+      - <a href="#" class="map-link" data-lat="35.260531" data-lon="-120.643519" data-zoom="17" data-label="Pequeña Despensa Gratuita">3320 Bullock Ln.</a> <!-- Verified 27 Dec. 2025 -->
+      - <a href="#" class="map-link" data-lat="35.295416" data-lon="-120.673839" data-zoom="17" data-label="Pequeña Despensa Gratuita">226 Ferrini Rd.</a> <!-- Verified 27 Dec. 2025 -->
+      - <a href="#" class="map-link" data-lat="35.272050" data-lon="-120.665095" data-zoom="17" data-label="Pequeña Despensa Gratuita">335 High St.</a> <!-- Verified 27 Dec. 2025 -->
+      - <a href="#" class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Pequeña Despensa Gratuita">2075 Johnson Ave.</a> <!-- Verified 27 Dec. 2025 -->
+      - <a href="#" class="map-link" data-lat="35.260575" data-lon="-120.695157" data-zoom="17" data-label="Pequeña Despensa Gratuita">11245 Los Osos Valley Rd.</a> <!-- Verified 27 Dec. 2025 -->
       - <a href="#" class="map-link" data-lat="35.276676" data-lon="-120.664180" data-zoom="17" data-label="Pequeña Despensa Gratuita">1306 Nipomo St.</a> <!-- Verified 7 Dec. 2025 -->
-      - <a href="#" class="map-link" data-lat="35.276376" data-lon="-120.662522" data-zoom="17" data-label="Pequeña Despensa Gratuita">695 Pismo St.</a>
-      - <a href="#" class="map-link" data-lat="35.269527" data-lon="-120.652344" data-zoom="17" data-label="Pequeña Despensa Gratuita">corner of San Carlos and Bushnell</a>
-      - <a href="#" class="map-link" data-lat="35.291537" data-lon="-120.683366" data-zoom="17" data-label="Pequeña Despensa Gratuita">193 San Jose Ct.</a>
+      - <a href="#" class="map-link" data-lat="35.269527" data-lon="-120.652344" data-zoom="17" data-label="Pequeña Despensa Gratuita">corner of San Carlos and Bushnell</a> <!-- Verified 27 Dec. 2025 -->
    - Templeton: <a href="#" class="map-link" data-lat="35.547338" data-lon="-120.710440" data-zoom="17" data-label="Pequeña Despensa Gratuita">806 Old Country Rd.</a>
 - **Horario:** Diariamente, 24/7
 
