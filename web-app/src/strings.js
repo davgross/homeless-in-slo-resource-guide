@@ -98,6 +98,7 @@ const strings = {
         entryLinkCopied: 'Directory entry link copied to clipboard!',
         copyFailed: 'Unable to copy link. Please copy manually from address bar.',
         copyFailedShort: 'Unable to copy link.',
+        shareComplete: 'Shared successfully!',
         viewQrCode: 'View QR Code'
       },
       qrModal: {
@@ -356,6 +357,7 @@ const strings = {
         entryLinkCopied: '¡Enlace de la entrada del directorio copiado al portapapeles!',
         copyFailed: 'No se puede copiar el enlace. Por favor, cópielo manualmente de la barra de direcciones.',
         copyFailedShort: 'No se puede copiar el enlace.',
+        shareComplete: '¡Compartido exitosamente!',
         viewQrCode: 'Ver código QR'
       },
       qrModal: {

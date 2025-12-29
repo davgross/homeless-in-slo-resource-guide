@@ -41,6 +41,8 @@ async function handleShare() {
     try {
       await navigator.share(shareData);
       console.log('Shared successfully');
+      // After successful share, show QR code option
+      showNotification(strings.share.notifications.shareComplete, homeUrl);
     } catch (err) {
       // User cancelled or error occurred
       if (err.name !== 'AbortError') {
@@ -171,10 +173,12 @@ export function createSectionShareButton(sectionTitle, sectionUrl) {
     if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
       try {
         await navigator.share(shareData);
+        // After successful share, show QR code option
+        showNotification(strings.share.notifications.shareComplete, shareData.url);
       } catch (err) {
         if (err.name !== 'AbortError') {
           console.error('Share failed:', err);
-          fallbackCopyLink();
+          fallbackCopyLink(shareData.url);
         }
       }
     } else {
