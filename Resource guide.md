@@ -382,7 +382,7 @@ You must not be a P.C. 290 registered sex offender to use this service. <!-- SOU
 SLO county residents get priority. <!-- Source: https://friendsof40prado.org/safe-parking-program-expanded/ -->
 Contact Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) with questions. <!-- Source: https://capslo.org/safe-parking/ -->
 
-There are some free, legal “safe parking” spots available in the SLO city area through the [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
+Some free, legal “safe parking” spots are available in the SLO city area through the [**Rotating Overnight Safe Parking Program**](Directory.md#Rotating-Overnight-Safe-Parking-Program).
 To register for one of these spots, first complete the intake process at the 40 Prado offices any day from 8am to 2pm.
 You get a place to park overnight for 90 days, with a possible 30 day extension.
 You must move your vehicle away from the site during the day.
@@ -521,8 +521,7 @@ If you are a refugee from another country, you may be able to get some help esta
 
 [**Housing Authority of SLO (HASLO)**](Directory.md#HASLO), [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority), and [**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operate several affordable senior housing rental properties. <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 
-There are some additional subsidized and affordable housing options especially for seniors (sometimes defined as age 55 and above, or as 62 and above).
-These include:
+Some additional subsidized and affordable housing options especially for seniors (sometimes defined as age 55 and above, or as 62 and above) include:
 
 - [Cortina d’Arroyo Grande Senior Apartments](https://cortinadarroyograndeseniorapts.com/) (<a href="#" class="map-link" data-lat="35.122208" data-lon="-120.607207" data-zoom="17" data-label="Cortina d’Arroyo Grande Senior Apartments">241 N. Courtland Ave., Arroyo Grande</a>) — [805-489-6888](tel:+1-805-489-6888) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 - Parkview Manor (<a href="#" class="map-link" data-lat="35.113380" data-lon="-120.600175" data-zoom="17" data-label="Parkview Manor">365 South Elm St., Arroyo Grande</a>) — [805-489-5101](tel:+1-805-489-5101) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
@@ -2603,8 +2602,8 @@ Here are some General Delivery zip codes for SLO County:
 For example, San Luis Obispo has two post offices, but General Delivery is handled at the main location on Dalidio Dr. <!-- SOURCE NEEDED -->
 To confirm which location handles General Delivery in your area, call [800-275-8777](tel:+1-800-275-8777) and request “Customer Service,” or use the [USPS ZIP Code lookup tool](https://tools.usps.com/zip-code-lookup.htm) by entering “General Delivery” as the address line.
 
-You should speak with the postmaster at the post office where you want to receive general delivery mail beforehand. <!-- SOURCE NEEDED -->
-The post office will hold general delivery mail for you for at least 10 days. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
+You should speak beforehand with the postmaster at the post office where you want to receive general delivery mail. <!-- SOURCE NEEDED -->
+The post office will hold general delivery mail for you for at least ten days. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
 You must have a valid photo ID to collect your mail at the post office. <!-- SOURCE NEEDED -->
 This service is free. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
 However, this is not a long-term solution; it is meant for temporary use (for instance by travelers passing through town). <!-- SOURCE NEEDED -->
@@ -2883,7 +2882,7 @@ Now they use direct deposit to bank accounts or issue a “Direct Express” pre
 
 > See the [Banks and Credit Unions](#banks-and-credit-unions) section of this guide for information on how to establish a bank account.
 
-There are a number of programs operated by the Social Security Administration, including:
+The Social Security Administration operates several programs, including:
 
 - **Social Security** — monthly payments from the government to people who reach retirement age, and who paid into the social security system while they were working
 - **Social Security Disability Insurance** (SSDI) — monthly payments from the government to people who cannot work because they are disabled, and who paid into the social security system while they were working
@@ -2895,8 +2894,6 @@ You do not have to have a permanent address to receive benefits. <!-- SOURCE NEE
 You may be entitled to certain benefits even if you did not pay into the social security system, if your spouse or ex-spouse did.
 You may need to appear at the Social Security Administration office in person to apply for such spousal or survivors benefits. <!-- SOURCE NEEDED -->
 
-> See the [Mail drops](#mail-drops-post-office-boxes) section of this guide for information on establishing a mailing address.
-
 You can apply for these benefits through the local [**Social Security Administration**](Directory.md#Social-Security-Administration) office either in person or by phone.
 You can also [apply online](https://www.ssa.gov/apply) at the Social Security Administration’s website.
 If you have a case worker, ask them if they can help you through the process or refer you to someone who can.
@@ -2906,7 +2903,9 @@ If you do not have a stable mailing address, establish one ahead of time.
 If you are applying for disability, bring your relevant medical records, treatment history, and medical provider contact information.
 Pay stubs and tax records can help to establish your work history, especially if you were paid under-the-table or as a contractor rather than an employee.
 
-Be patient, as the process of applying for benefits can be time-consuming and the bureaucracy can move slowly.
+> See the [Mail drops](#mail-drops-post-office-boxes) section of this guide for information on establishing a mailing address.
+
+Be patient, as the process of applying for benefits may be time-consuming and the bureaucracy may move slowly.
 If you are denied benefits, learn about the appeals process and consider appealing the decision.
 
 If you are denied SSI benefits solely because of your immigration status, you may be able to get benefits instead from the [California Assistance Program for Immigrants (CAPI)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi).
@@ -2929,10 +2928,10 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
 
 The government encourages you to seek work and to return to work without losing disability benefits.
 The [Ticket to Work Program](https://choosework.ssa.gov/) is a free, voluntary program for people aged 18–64 who are receiving SSDI or SSI benefits. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
-It can give you free career counseling, vocational rehabilitation, and job placement and training. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+It gives you free career counseling, vocational rehabilitation, and job placement and training. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 
-If you are a U.S. military veteran, you may also qualify for a variety of other benefits.
+If you are a U.S. military veteran, you may also qualify for other benefits.
 You can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
 
 -----
