@@ -2600,7 +2600,7 @@ Por ejemplo, San Luis Obispo tiene dos oficinas de correos, pero la Entrega Gene
 Para confirmar qué ubicación maneja la Entrega General en su área, llame al [800-275-8777](tel:+1-800-275-8777) y solicite “Servicio al Cliente”, o use la [herramienta de búsqueda de códigos postales de USPS](https://tools.usps.com/zip-code-lookup.htm) ingresando “General Delivery” como la línea de dirección.
 
 Debe hablar con el administrador de correos en la oficina de correos donde quiere recibir correo de entrega general de antemano. <!-- SOURCE NEEDED -->
-La oficina de correos guardará correo de entrega general para usted por al menos 10 días. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
+La oficina de correos guardará correo de entrega general para usted por al menos diez días. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
 Debe tener una identificación con foto válida para recoger su correo en la oficina de correos. <!-- SOURCE NEEDED -->
 Este servicio es gratuito. <!-- Source: https://faq.usps.com/s/article/What-is-General-Delivery -->
 Sin embargo, esto no es una solución a largo plazo; está destinado para uso temporal (por ejemplo por viajeros que pasan por la ciudad). <!-- SOURCE NEEDED -->
@@ -3454,7 +3454,7 @@ Tienen un [programa limitado de reducción de cuotas](https://www.slocity.org/ho
 
 > Vea la sección [Grupos de Apoyo entre Pares: GLTBQ+](#glbtq-peer-support) para información sobre grupos de apoyo para jóvenes queer y trans.
 
-> See [Free Clothes for Kids](#free-clothes-for-kids) in the [Clothing](#clothing) section of this guide for information about “Coats for Kids,” “Operation School Bell,” “Traveling Children’s Closet,” “The Teen’s Closet,” and “Outreach Apparel.”
+> Vea [Ropa Gratis para los Niños](#free-clothes-for-kids) en la sección [Ropa](#clothing) de esta guía para obtener información sobre “Coats for Kids,” “Operation School Bell,” “Traveling Children’s Closet,” “The Teen’s Closet” y “Outreach Apparel.”
 
 #### Continuidad Educativa (Ley McKinney-Vento)
 
