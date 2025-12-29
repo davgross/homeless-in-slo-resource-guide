@@ -827,6 +827,8 @@ function showDirectoryEntry(entryId) {
       if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
         try {
           await navigator.share(shareData);
+          // After successful share, show QR code option
+          showNotification(strings.share.notifications.shareComplete, url);
         } catch (err) {
           if (err.name !== 'AbortError') {
             console.error('Share failed:', err);

@@ -153,12 +153,6 @@ export const locations = [
     "label": "3320 Bullock Ln."
   },
   {
-    "lat": 35.271279,
-    "lon": -120.657976,
-    "zoom": 18,
-    "label": "2021 Broad St."
-  },
-  {
     "lat": 35.295416,
     "lon": -120.673839,
     "zoom": 17,
@@ -183,34 +177,16 @@ export const locations = [
     "label": "11245 Los Osos Valley Rd."
   },
   {
-    "lat": 35.27646,
-    "lon": -120.66708,
-    "zoom": 18,
-    "label": "474 Marsh St."
-  },
-  {
     "lat": 35.276676,
     "lon": -120.66418,
     "zoom": 17,
     "label": "1306 Nipomo St."
   },
   {
-    "lat": 35.276376,
-    "lon": -120.662522,
-    "zoom": 17,
-    "label": "695 Pismo St."
-  },
-  {
     "lat": 35.269527,
     "lon": -120.652344,
     "zoom": 17,
     "label": "corner of San Carlos and Bushnell"
-  },
-  {
-    "lat": 35.291537,
-    "lon": -120.683366,
-    "zoom": 17,
-    "label": "193 San Jose Ct."
   },
   {
     "lat": 35.547338,
