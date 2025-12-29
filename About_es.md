@@ -20,7 +20,7 @@ Utiliza colores e íconos para ayudarte a identificar rápidamente el tipo de en
 | ----------------------- | ----------------------------------------- | ---------------------- |
 | **Navegación**          | <span style="font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;"><span style="color: var(--primary-color);">**Recursos**</span> / <span style="color: var(--primary-color);">**Directorio**</span> / <span style="color: var(--primary-color);">**Sobre**</span></span> | Cambia entre las secciones principales de esta guía. |
 | **Buscar**              | <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif; border: 1px solid var(--primary-color); border-radius: 5px; padding: 0.25rem;">Buscar…   </span> | Busca temas, agencias o servicios específicos. |
-| **Idioma**            | <span style="font-family: monospace; font-weight: 600; color: white; border-radius: 4px; background-color: #1a62ff; padding: 0.5rem 0.75rem;">🌐&nbsp;ES</span> | Cambia entre inglés y español. |
+| **Idioma**            | <span style="font-family: monospace; font-weight: 600; color: white; border-radius: 4px; background-color: #1a62ff; padding: 0.5rem 0.75rem;">🌐&#xA0;ES</span> | Cambia entre inglés y español. |
 | **Índice**              | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#1a62ff;color:white;font-size:24px;text-shadow:0 0 3px rgba(255, 255, 255, 0.9), 0 0 6px rgba(255, 255, 255, 0.7), 0 0 9px rgba(255, 255, 255, 0.5), 0 0 1px rgba(0, 0, 0, 0.8), 1px 1px 2px rgba(0, 0, 0, 0.6);">📖</span> | Regresa al índice al explorar la guía de recursos. |
 | **Comentarios**         | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#5a93ff;color:white;font-size:24px;">💬</span> | Envía comentarios sobre errores o sugerencias de mejora. |
 | **Compartir**           | <span style="display:inline-flex;align-items:center;justify-content:center;width:50px;height:50px;border-radius:50%;background-color:#c65010;color:white;font-size:24px;text-shadow:0 0 4px rgba(0, 0, 0, 0.5), 0 0 8px rgba(0, 0, 0, 0.4), 0 0 12px rgba(0, 0, 0, 0.3), 1px 1px 3px rgba(0, 0, 0, 0.4), -1px -1px 3px rgba(0, 0, 0, 0.4);">🔗</span> | Comparte un enlace a esta guía de recursos. |
@@ -44,47 +44,61 @@ Puedes instalar esta guía de recursos como aplicación en tu teléfono, tableta
 
 ### Si Ves el Botón de Instalación
 
-Si ves el botón “Instalar aplicación” (como se muestra en la tabla anterior) en la esquina inferior derecha de la pantalla, ¡simplemente tócalo!
+Si ves el botón "Instalar aplicación" (como se muestra en la tabla anterior) en la esquina inferior derecha de la pantalla, ¡simplemente tócalo!
 El botón solo aparece si su navegador admite la instalación directa.
 
-### iPhone o iPad (Safari)
+### Si No Ves el Botón de Instalación
+
+Algunos navegadores, dispositivos y sistemas operativos no admiten el botón "Instalar aplicación".
+Para esos casos, debes guardar VivaSLO.org en tus marcadores o usar alguna otra técnica para guardarlo en tu pantalla de inicio.
+Aquí hay algunos de esos métodos:
+
+#### iPhone o iPad (Safari)
 
 1. Abre VivaSLO.org en Safari (el navegador web predeterminado).
-2. Toca el botón para compartir (<svg style="display:inline-block;vertical-align:middle;width:1.2em;height:1.2em;" viewBox="0 0 20 22" fill="currentColor"><path d="M9 3C9 2.44772 9.44772 2 10 2C10.5523 2 11 2.44772 11 3L11 13.5C11 14.0523 10.5523 14.5 10 14.5C9.44772 14.5 9 14.0523 9 13.5L9 3Z"/><path d="M10.6402 2.76826C11.0645 2.41469 11.1218 1.78413 10.7682 1.35985C10.4147 0.935575 9.7841 0.878251 9.35982 1.23181L6.35982 3.73181C5.93554 4.08538 5.87822 4.71594 6.23178 5.14022C6.58535 5.5645 7.21591 5.62182 7.64019 5.26826L10.6402 2.76826Z"/><path d="M9.35981 2.76826C8.93553 2.41469 8.87821 1.78413 9.23177 1.35985C9.58534 0.935575 10.2159 0.878251 10.6402 1.23181L13.6402 3.73181C14.0645 4.08538 14.1218 4.71594 13.7682 5.14022C13.4147 5.5645 12.7841 5.62182 12.3598 5.26826L9.35981 2.76826Z"/><path d="M13 9C12.4477 9 12 8.55228 12 8C12 7.44772 12.4477 7 13 7H14C15.6233 7 17 8.16491 17 9.69231V17.3077C17 18.8351 15.6233 20 14 20L6 20C4.37672 20 3 18.8351 3 17.3077L3 9.69231C3 8.16491 4.37672 7 6 7H7C7.55228 7 8 7.44772 8 8C8 8.55228 7.55228 9 7 9H6C5.41414 9 5 9.35043 5 9.69231L5 17.3077C5 17.6496 5.41414 18 6 18L14 18C14.5859 18 15 17.6496 15 17.3077L15 9.69231C15 9.35043 14.5859 9 14 9L13 9Z"/></svg>) en la parte inferior de la pantalla.
-3. Desplázate hacia abajo y toca **Agregar a pantalla de inicio**.
-4. Toca **Agregar** en la esquina superior derecha.
+1. Toca el botón para compartir (<svg style="display:inline-block;vertical-align:middle;width:1.2em;height:1.2em;" viewBox="0 0 20 22" fill="currentColor"><path d="M9 3C9 2.44772 9.44772 2 10 2C10.5523 2 11 2.44772 11 3L11 13.5C11 14.0523 10.5523 14.5 10 14.5C9.44772 14.5 9 14.0523 9 13.5L9 3Z"/><path d="M10.6402 2.76826C11.0645 2.41469 11.1218 1.78413 10.7682 1.35985C10.4147 0.935575 9.7841 0.878251 9.35982 1.23181L6.35982 3.73181C5.93554 4.08538 5.87822 4.71594 6.23178 5.14022C6.58535 5.5645 7.21591 5.62182 7.64019 5.26826L10.6402 2.76826Z"/><path d="M9.35981 2.76826C8.93553 2.41469 8.87821 1.78413 9.23177 1.35985C9.58534 0.935575 10.2159 0.878251 10.6402 1.23181L13.6402 3.73181C14.0645 4.08538 14.1218 4.71594 13.7682 5.14022C13.4147 5.5645 12.7841 5.62182 12.3598 5.26826L9.35981 2.76826Z"/><path d="M13 9C12.4477 9 12 8.55228 12 8C12 7.44772 12.4477 7 13 7H14C15.6233 7 17 8.16491 17 9.69231V17.3077C17 18.8351 15.6233 20 14 20L6 20C4.37672 20 3 18.8351 3 17.3077L3 9.69231C3 8.16491 4.37672 7 6 7H7C7.55228 7 8 7.44772 8 8C8 8.55228 7.55228 9 7 9H6C5.41414 9 5 9.35043 5 9.69231L5 17.3077C5 17.6496 5.41414 18 6 18L14 18C14.5859 18 15 17.6496 15 17.3077L15 9.69231C15 9.35043 14.5859 9 14 9L13 9Z"/></svg>) en la parte inferior de la pantalla.
+1. Desplázate hacia abajo y toca **Agregar a pantalla de inicio**.
+1. Toca **Agregar** en la esquina superior derecha.
 
-*Nota: En iPhone/iPad, debes usar Safari para que esta función funcione.
-Otros navegadores como Chrome o Firefox no admiten la instalación de aplicaciones web en iOS.*
+#### iPhone o iPad (Chrome, Edge o Firefox)
 
-### Android (Chrome)
+1. Abre VivaSLO.org en Chrome.
+1. Toca el icono para compartir (<svg style="display:inline-block;vertical-align:middle;width:1.2em;height:1.2em;" viewBox="0 0 20 22" fill="currentColor"><path d="M9 3C9 2.44772 9.44772 2 10 2C10.5523 2 11 2.44772 11 3L11 13.5C11 14.0523 10.5523 14.5 10 14.5C9.44772 14.5 9 14.0523 9 13.5L9 3Z"/><path d="M10.6402 2.76826C11.0645 2.41469 11.1218 1.78413 10.7682 1.35985C10.4147 0.935575 9.7841 0.878251 9.35982 1.23181L6.35982 3.73181C5.93554 4.08538 5.87822 4.71594 6.23178 5.14022C6.58535 5.5645 7.21591 5.62182 7.64019 5.26826L10.6402 2.76826Z"/><path d="M9.35981 2.76826C8.93553 2.41469 8.87821 1.78413 9.23177 1.35985C9.58534 0.935575 10.2159 0.878251 10.6402 1.23181L13.6402 3.73181C14.0645 4.08538 14.1218 4.71594 13.7682 5.14022C13.4147 5.5645 12.7841 5.62182 12.3598 5.26826L9.35981 2.76826Z"/><path d="M13 9C12.4477 9 12 8.55228 12 8C12 7.44772 12.4477 7 13 7H14C15.6233 7 17 8.16491 17 9.69231V17.3077C17 18.8351 15.6233 20 14 20L6 20C4.37672 20 3 18.8351 3 17.3077L3 9.69231C3 8.16491 4.37672 7 6 7H7C7.55228 7 8 7.44772 8 8C8 8.55228 7.55228 9 7 9H6C5.41414 9 5 9.35043 5 9.69231L5 17.3077C5 17.6496 5.41414 18 6 18L14 18C14.5859 18 15 17.6496 15 17.3077L15 9.69231C15 9.35043 14.5859 9 14 9L13 9Z"/></svg>) en la barra de URL.
+1. Toca **Agregar a pantalla de inicio**.
+1. Toca **Agregar**.
 
+#### Android (Chrome)
+
+1. Abre VivaSLO.org en Chrome.
 1. Toca el botón de menú (**⋮**) en la esquina superior derecha.
-2. Toca **Añadir a la pantalla de inicio** o **Instalar aplicación**.
-3. Toca **Instalar** para confirmar.
+1. Toca **Añadir a la pantalla de inicio** o **Instalar aplicación**.
+1. Toca **Instalar** para confirmar.
 
-### Android (Firefox)
+#### Android (Firefox)
 
+1. Abre VivaSLO.org en Firefox.
 1. Toca el botón de menú (**⋮**).
-2. Toca **Instalar** o **Añadir a la pantalla de inicio**.
+1. Toca **Instalar** o **Añadir a la pantalla de inicio**.
 
-### Android (Samsung Internet)
+#### Android (Samsung Internet)
 
+1. Abre VivaSLO.org en tu navegador.
 1. Toca el botón de menú (**☰**) en la parte inferior.
-2. Toca **Añadir página a** y luego **Pantalla de inicio**.
+1. Toca **Añadir página a** y luego **Pantalla de inicio**.
 
-### Windows, Mac o Linux (Chrome, Edge o Brave)
+#### Windows, Mac o Linux (Chrome, Edge o Brave)
 
+1. Abre VivaSLO.org en tu navegador.
 1. Busca el icono de instalación en la barra de direcciones (un monitor con una flecha hacia abajo) o
-2. Haz clic en el menú del navegador (**⋮** en Chrome/Brave o **⋯** en Edge) y busca **Instalar…**.
-3. Haz clic en **Instalar** para confirmar.
+1. Haz clic en el menú del navegador (**⋮** en Chrome/Brave o **⋯** en Edge) y busca **Instalar…**.
+1. Haz clic en **Instalar** para confirmar.
 
-### Firefox en el Escritorio
+#### Firefox en el Escritorio
 
 Firefox en ordenadores de escritorio no permite actualmente la instalación de aplicaciones web.
-Puedes guardar esta página en tus marcadores para acceder rápidamente: pulsa <kbd>Ctrl</kbd>+<kbd>D</kbd> (Windows/Linux) o <kbd>Cmd</kbd>+<kbd>D</kbd> / <kbd>⌘</kbd>+<kbd>D</kbd> (Mac).
+Puedes en su lugar guardar esta página en tus marcadores para acceder rápidamente: pulsa <kbd>Ctrl</kbd>+<kbd>D</kbd> (Windows/Linux) o <kbd>Cmd</kbd>+<kbd>D</kbd> / <kbd>⌘</kbd>+<kbd>D</kbd> (Mac).
 
-### Mac (Safari)
+#### Mac (Safari)
 
 En la barra de menú, selecciona **Archivo → Añadir al Dock** o guarda esta página en tus marcadores con <kbd>Cmd</kbd>+<kbd>D</kbd> / <kbd>⌘</kbd>+<kbd>D</kbd>.
 
