@@ -1,0 +1,31 @@
+{
+  "batch": {
+    "defaultSize": 100,
+    "maxConcurrent": 5,
+    "retryAttempts": 3,
+    "retryDelay": 3000,
+    "requestTimeout": 20000
+  },
+  "matching": {
+    "phoneConfidenceThreshold": 0.9,
+    "hoursConfidenceThreshold": 0.8,
+    "addressConfidenceThreshold": 0.8,
+    "emailConfidenceThreshold": 0.9,
+    "generalConfidenceThreshold": 0.7
+  },
+  "changeDetection": {
+    "confidenceDropThreshold": 0.3,
+    "similarityThreshold": 0.7,
+    "minContextLength": 50
+  },
+  "priority": {
+    "highCheckInterval": 3,
+    "normalCheckInterval": 7,
+    "lowCheckInterval": 30
+  },
+  "notifications": {
+    "createIssueOnChanges": true,
+    "minSeverityForIssue": "medium",
+    "issueLabels": ["source-changes", "automated", "needs-review"]
+  }
+}

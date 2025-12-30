@@ -165,6 +165,49 @@ crontab -e
 
 **See:** `scripts/RSS_SETUP.md` for detailed setup instructions
 
+## Source Monitoring
+
+Automated system for monitoring `<!-- Source: ... -->` annotation URLs to detect when cited information changes on source pages.
+
+**See:** `scripts/SOURCE_MONITORING.md` for complete documentation
+
+### Quick Overview
+
+The source monitoring system:
+- Extracts ~1,800 claim-source pairs from markdown files
+- Uses smart matching to find specific claims on source pages (71.7% success rate)
+- Runs daily, checking 100 sources per batch (~18 day cycle)
+- Prioritizes contact info (checked every ~3 days) over general text (~30 days)
+- Creates GitHub issues when changes detected
+
+### Main Scripts
+
+**extract-claim-sources.js** - Extract claim-source pairs
+```bash
+node scripts/extract-claim-sources.js
+```
+
+**batch-monitor.js** - Run batch monitoring (checks 100 sources)
+```bash
+node scripts/batch-monitor.js [batch-size]
+```
+
+**Configuration:** `scripts/source-monitor-config.json`
+
+**GitHub Action:** `.github/workflows/check-source-changes.yml`
+- Runs daily at 3:00 AM UTC
+- Manual trigger available in Actions tab
+
+### Success Rates by Claim Type
+
+| Type    | Rate | Notes |
+|---------|------|-------|
+| Phone   | 90%  | Handles format variations |
+| Address | 80%  | Good coverage |
+| Email   | 70%  | Case insensitive |
+| General | 90%  | Keyword matching |
+| Hours   | 30%  | Many format variations |
+
 ## Other Scripts
 
 ### extract-map-data.js
