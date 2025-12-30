@@ -2546,10 +2546,14 @@ Si tiene un administrador de casos, pregúntele si puede ayudarle con este proce
 Si está sin hogar, puede estar perdido cuando le piden su dirección postal.
 Hay varias maneras de establecer una dirección postal confiable incluso si no tiene una dirección de vivienda estable.
 
-Las oficinas de [**5Cities Homeless Coalition**](Directory.md#5CHC) <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
+Las oficinas de [**5Cities Homeless Coalition**](Directory.md#5CHC), <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO), <!-- Source: email from Wendy Lewis, 29 Dec. 2025 -->
 y [**40 Prado Homeless Services Center**](Directory.md#40-Prado) <!-- SOURCE NEEDED -->
 permiten a clientes de sus servicios usar estas oficinas como direcciones postales, y guardarán su correo entrante allí para usted.
 Pregúnteles por detalles.
+
+Si es cliente de [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) puede recibir correo que está dirigido a usted en la dirección de TMHA en 784 High St. (San Luis Obispo, CA 93401). <!-- Source: email from Heather Hiramatsu, 30 Dec. 2025 -->
+Su administrador de casos guardará su correo para usted hasta que pueda venir a recogerlo. <!-- Source: email from Heather Hiramatsu, 30 Dec. 2025 -->
 
 Puede alquilar buzones de correo en UPS Stores y en el Servicio Postal de EE.UU.
 La opción del Servicio Postal es más económica.
