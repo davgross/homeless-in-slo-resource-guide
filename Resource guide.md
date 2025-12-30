@@ -2549,10 +2549,14 @@ If you have a case manager, ask them if they can help you with this process.
 If you are homeless, you may be at a loss when asked for your mailing address.
 There are various ways to establish a reliable mailing address even if you do not have a stable living address.
 
-The [**5Cities Homeless Coalition**](Directory.md#5CHC) <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
+The [**5Cities Homeless Coalition**](Directory.md#5CHC), <!-- Source: https://5chc.org/programs/information-and-referral-coordinated-entry -->
+[**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO), <!-- Source: email from Wendy Lewis, 29 Dec. 2025 -->
 and [**40 Prado Homeless Services Center**](Directory.md#40-Prado) <!-- SOURCE NEEDED -->
 offices permit clients of their services to use these offices as mailing addresses, and will hold your incoming mail there for you.
 Ask them for details.
+
+If you are a client of [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) you can receive mail that is addressed to you at TMHA’s 784 High St. address (San Luis Obispo, CA 93401). <!-- Source: email from Heather Hiramatsu, 30 Dec. 2025 -->
+Your case manager will hold your mail for you until you can come to retrieve it. <!-- Source: email from Heather Hiramatsu, 30 Dec. 2025 -->
 
 You can rent mail boxes from UPS Stores and from the U.S. Postal Service.
 The Postal Service option is more affordable.
