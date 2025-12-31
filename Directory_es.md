@@ -2886,10 +2886,17 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="Restorative-Partners">Restorative Partners</a>
 
 - **Sitio web:** [restorativepartners.org](https://restorativepartners.org/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.255072" data-lon="-120.669130" data-zoom="17" data-label="Restorative Partners">3380 South Higuera St., SLO</a> <!-- Source: https://restorativepartners.org/ -->
-- **Teléfono:** [805-242-1272](tel:+1-805-242-1272) <!-- Source: https://restorativepartners.org/ -->
+- **Ubicación:**
+   - Centro de Entrada Sin Cita: <a href="#" class="map-link" data-lat="35.256860" data-lon="-120.668925" data-zoom="17" data-label="Centro de entrada sin cita de Restorative Partners">3196 South Higuera St. #D, SLO</a> <!-- Source: flyer posted in SLO Library -->
+   - Oficina: <a href="#" class="map-link" data-lat="35.255072" data-lon="-120.669130" data-zoom="17" data-label="Restorative Partners">3380 South Higuera St., SLO</a> <!-- Source: https://restorativepartners.org/ -->
+- **Teléfono:**
+   - Oficina: [805-242-1272](tel:+1-805-242-1272) <!-- Source: https://restorativepartners.org/ -->
+   - Clientes de libertad condicional: [805-234-9071&nbsp;x171](tel:+1-805-234-9071;ext=171) <!-- Source: flyer posted in SLO Library -->
+   - Clientes de CDCR: [805-234-9068&nbsp;x168](tel:+1-805-234-9068;ext=168)  <!-- Source: flyer posted in SLO Library -->
 - **Correo electrónico:** [info@restorativepartners.org](mailto:info@restorativepartners.org)
-- **Horario:** L–V 9am–5pm <!-- Source: https://restorativepartners.org/contact/ -->
+- **Horario:**
+   - Centro de Entrada Sin Cita: L–V 9am–12:30pm <!-- Source: flyer posted in SLO Library -->
+   - Oficina: L–V 9am–5pm <!-- Source: https://restorativepartners.org/contact/ -->
 - Notas:
    - opera [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus) <!-- Source: https://www.sloharc.org/ -->
    - opera “The Bridge Cafe” <!-- Source: https://restorativepartners.org/ -->
