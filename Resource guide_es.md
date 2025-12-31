@@ -1609,6 +1609,9 @@ ofrecen evaluación y tratamiento de salud mental, incluyendo programas específ
 El [**Healthcare for the Homeless Program**](Directory.md#HCHP) en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) de [**CAPSLO**](Directory.md#CAPSLO) incluye asesoramiento y tratamiento de salud mental. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 [**SLO Hub**](Directory.md#SLO-Hub) ofrece sesiones semanales de terapia de salud mental a sus clientes. <!-- SOURCE NEEDED (https://capslo.org/slo-hub/ mentions therapists, but nothing about weekly sessions) -->
 
+Las personas de 60 años o más que experimentan tristeza, frustración, falta de motivación, ansiedad o soledad pueden participar en un programa gratuito de coaching llamado “PEARLS,” que enseña habilidades para mejorar su calidad de vida. <!-- Source: flyer posted at SLO Library -->
+Este programa se ofrece a través del Centro de Recursos para Cuidadores de la Costa, [ccrc@sbch.org](mailto:ccrc@sbch.org) o [805-569-8950](tel:+1-805-569-8950). <!-- Source: flyer posted at SLO Library -->
+
 [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
 y [**PathPoint**](Directory.md#PathPoint) <!-- Source: https://www.pathpoint.org/services/ -->
 tienen algunos servicios para personas con trastornos de salud mental y/o discapacidades del desarrollo.
