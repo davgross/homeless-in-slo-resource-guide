@@ -2122,7 +2122,7 @@ You must wait until the judge assigns a particular public defender to you before
 
 If you have been in jail or prison and are reentering the community after doing your time or being released on parole, [**Restorative Partners**](Directory.md#Restorative-Partners) can help make your reentry successful.
 They can give you housing assistance including clean & sober living homes, and help returning to the workforce. <!-- Source: https://restorativepartners.org/about/ -->
-Call or email them to learn more.
+You can visit their drop-in center to get help with getting an ID, meeting transportation needs, building your resume and finding a job, saving money, going back to school, getting job training, and more. <!-- Source: flyer posted in SLO Library -->
 
 If you have a criminal record that makes it difficult for you to find employment or housing, you may be able to clean that record. <!-- Source: https://peoplesjusticeproject.org/record-clearing-%26-sealing -->
 “Clean Slate Clinics” are periodically offered by [**People’s Justice Project**](Directory.md#Peoples-Justice-Project) <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
@@ -2391,6 +2391,8 @@ Homeless services providers like [**40 Prado Homeless Services Center**](Directo
 
 If you have previously received a Real ID or California driver’s license, but you have lost the card and need to replace it, you can begin this process by visiting [dmv.ca.gov: “Driver’s License or ID Card Replacement”](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/) or the California DMV office.
 
+If you have been in jail or prison and are reentering the community after doing your time or being released on parole, [**Restorative Partners**](Directory.md#Restorative-Partners) can help you obtain a California ID or driver’s license. <!-- Source: flyer posted at SLO Library -->
+
 ### <a id="birth-death-marriage-certificates">Birth, Death, and Marriage Certificates</a>
 
 If you were born in SLO County, you can obtain a copy of your birth certificate from the [**SLO County Clerk-Recorder**](Directory.md#SLO-County-Clerk-Recorder). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
@@ -2424,6 +2426,8 @@ There is no homeless fee exemption program for death and marriage certificates t
 If you need a birth, death, or marriage certificate from another county in California, try the [California Department of Public Health’s “Vital Records”](https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records.aspx) web page.
 If you need such records from elsewhere in the U.S. outside California, visit the [National Center for Health Statistics](https://www.cdc.gov/nchs/w2w/index.htm) web page.
 The VitalChek website can often also get you these records from other areas.
+
+If you have been in jail or prison and are reentering the community after doing your time or being released on parole, [**Restorative Partners**](Directory.md#Restorative-Partners) can help you get your birth certificate. <!-- Source: flyer posted at SLO Library -->
 
 ### <a id="civil-case-documents">Civil Case Documents</a>
 
@@ -3016,6 +3020,7 @@ To use that program, you need a referral from [**California Department of Rehabi
 #### For People Released from Jail or Prison
 
 [**Restorative Partners**](Directory.md#Restorative-Partners) can help you build job experience after you are released from jail or prison. <!-- Source: https://restorativepartners.org/workforce-development/ -->
+They can also help you to prepare for job interviews and to find supportive employers. <!-- Source: flyer posted at SLO Library -->
 They operate [“The Bridge Cafe”](https://www.thebridgecafe.org/) which can give you paid employment while training you for certification by [**Cuesta College**](Directory.md#Cuesta-College)’s Culinary Arts program. <!-- Source: https://restorativepartners.org/workforce-development/ -->
 After you complete that program, they will also help you find a job in that field. <!-- Source: https://restorativepartners.org/workforce-development/ -->
 Contact Restorative Partners to inquire about participating in this program.
@@ -3118,6 +3123,8 @@ Toastmasters in SLO County groups include:
 
 The local [**University of California Cooperative Extension**](Directory.md#UC-Cooperative-Extension) offers courses in gardening, food preservation, and rangeland and watershed management.
 Many programs are free or low-cost.
+
+If you have been in jail or prison and are reentering the community after doing your time or being released on parole, [**Restorative Partners**](Directory.md#Restorative-Partners) can help you go back to school or get technical training. <!-- Source: flyer posted at SLO Library -->
 
 ### <a id="digital-literacy">Digital Literacy: How to Use Computers and the Internet</a>
 

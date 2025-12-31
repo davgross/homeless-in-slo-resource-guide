@@ -2119,7 +2119,7 @@ Debe esperar hasta que el juez le asigne un defensor público en particular ante
 
 Si ha estado en la cárcel o prisión y está reingresando a la comunidad después de cumplir su condena o ser liberado en libertad condicional, [**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudar a que su reingreso sea exitoso.
 Pueden darle asistencia de vivienda incluyendo casas de vida limpia y sobria, y ayuda para regresar a la fuerza laboral. <!-- Source: https://restorativepartners.org/about/ -->
-Llámelos o envíeles un correo electrónico para aprender más.
+Puede visitar su centro de entrada sin cita para obtener ayuda con obtener una identificación, satisfacer necesidades de transporte, construir su currículum y encontrar un trabajo, ahorrar dinero, volver a la escuela, obtener capacitación laboral, y más. <!-- Source: flyer posted in SLO Library -->
 
 Si tiene un historial criminal que hace difícil que encuentre empleo o vivienda, puede ser capaz de limpiar ese historial. <!-- Source: https://peoplesjusticeproject.org/record-clearing-%26-sealing -->
 “Clean Slate Clinics” son ofrecidas periódicamente por [**People’s Justice Project**](Directory.md#Peoples-Justice-Project) <!-- Source (example): https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-echo-peoples-justice-project and https://crla.org/articles/san-luis-obispo-county-residents-clear-criminal-records-help-crla-and-local-partners and https://montereylaw.edu/clinics/indexslocl.html -->
@@ -2388,6 +2388,8 @@ Proveedores de servicios para personas sin hogar como [**40 Prado Homeless Servi
 
 Si ha recibido previamente una Real ID o licencia de conducir de California, pero ha perdido la tarjeta y necesita reemplazarla, puede comenzar este proceso visitando [dmv.ca.gov: “Driver’s License or ID Card Replacement”](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/) o la oficina del DMV de California.
 
+Si ha estado en la cárcel o prisión y está reingresando a la comunidad después de cumplir su condena o ser liberado en libertad condicional, [**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudarle a obtener una identificación de California o licencia de conducir. <!-- Source: flyer posted at SLO Library -->
+
 ### <a id="birth-death-marriage-certificates">Certificados de Nacimiento, Defunción y Matrimonio</a>
 
 Si nació en el Condado de SLO, puede obtener una copia de su certificado de nacimiento del [**SLO County Clerk-Recorder**](Directory.md#SLO-County-Clerk-Recorder). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
@@ -2421,6 +2423,8 @@ No hay programa de exención de tarifas para personas sin hogar para certificado
 Si necesita un certificado de nacimiento, defunción o matrimonio de otro condado en California, intente con la página web de [“Documentos”](https://www.cdph.ca.gov/Pages/Documentos.aspx) del Departamento de Salud Pública de California.
 Si necesita tales registros de otro lugar en EE.UU. fuera de California, visite la página web del [Centro Nacional de Estadísticas de Salud](https://www.cdc.gov/nchs/w2w/index.htm).
 El sitio web VitalChek a menudo también puede conseguirle estos registros de otras áreas.
+
+Si ha estado en la cárcel o prisión y está reingresando a la comunidad después de cumplir su condena o ser liberado en libertad condicional, [**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudarle a obtener su certificado de nacimiento. <!-- Source: flyer posted at SLO Library -->
 
 ### <a id="civil-case-documents">Documentos de Casos Civiles</a>
 
@@ -3013,6 +3017,7 @@ El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#Califo
 #### Para Personas Liberadas de la Cárcel o Prisión
 
 [**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudarle a desarrollar experiencia laboral después de ser liberado de la cárcel o prisión. <!-- Source: https://restorativepartners.org/workforce-development/ -->
+También pueden ayudarle a prepararse para entrevistas de trabajo y a encontrar empleadores solidarios. <!-- Source: flyer posted at SLO Library -->
 Operan [“The Bridge Cafe”](https://www.thebridgecafe.org/) que puede darle empleo remunerado mientras le capacita para la certificación del programa de Artes Culinarias de [**Cuesta College**](Directory.md#Cuesta-College). <!-- Source: https://restorativepartners.org/workforce-development/ -->
 Después de completar ese programa, también le ayudarán a encontrar un trabajo en ese campo. <!-- Source: https://restorativepartners.org/workforce-development/ -->
 Contacte a Restorative Partners para preguntar sobre participar en este programa.
@@ -3115,6 +3120,8 @@ Los grupos de Toastmasters en el Condado de SLO incluyen:
 
 La [**University of California Cooperative Extension**](Directory.md#UC-Cooperative-Extension) local ofrece cursos de jardinería, preservación de alimentos y manejo de pastizales y cuencas hidrográficas.
 Muchos programas son gratuitos o de bajo costo.
+
+Si ha estado en la cárcel o prisión y está reingresando a la comunidad después de cumplir su condena o ser liberado en libertad condicional, [**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudarle a volver a la escuela u obtener capacitación técnica. <!-- Source: flyer posted at SLO Library -->
 
 ### <a id="digital-literacy">Alfabetización Digital: Cómo Usar Computadoras e Internet</a>
 
