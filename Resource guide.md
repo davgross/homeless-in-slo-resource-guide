@@ -577,7 +577,7 @@ The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopean
 
 U.S. military veterans who have low incomes and who are homeless or at risk of homelessness can get help from [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
 This help includes housing assistance, case management, and financial assistance; rapid re-housing and homelessness prevention services; temporary financial assistance for rent, deposits, and utilities; housing barriers assessments, emergency housing stability assistance, housing counseling, rental agreement education, landlord-tenant mediation, and future housing stability planning. <!-- Sources: https://www.va.gov/homeless/ssvf/ssvf-overview/ and https://capslo.org/ssvf/ -->
-You must have a DD214 with discharge other than dishonorable. <!-- SOURCE NEEDED -->
+You must have a DD214 with discharge other than dishonorable. <!-- Source: email from Gabriel Sepulveda <gsepulveda@capslo.org> -->
 
 The [**RVs for Veterans**](Directory.md#RVs-for-Veterans) program can get you a free RV (e.g. motorhome, travel trailer, or fifth wheel). <!-- Source: https://hopesvillageofslo.com/programs -->
 These are donated by other members of the community, and are available as they are donated. <!-- Source: https://hopesvillageofslo.com/programs -->
@@ -3260,7 +3260,7 @@ You can also borrow a Wi-Fi hotspot from the library. <!-- Source: https://catal
 The [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) has computers you can use for job-search purposes. <!-- SOURCE NEEDED -->
 They can also help you establish a CalJOBS account and submit online job applications. <!-- SOURCE NEEDED -->
 
-The County of San Luis Obispo Information Technology Department provides free Wi-Fi access in all San Luis Obispo County government buildings. <!-- Source: https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi -->
+The County of San Luis Obispo provides free Wi-Fi access in all San Luis Obispo County government buildings. <!-- Source: https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi -->
 
 Both the [**5Cities Homeless Coalition**](Directory.md#5CHC) office and the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offer computer and internet access to their clients. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
