@@ -578,7 +578,7 @@ The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopean
 
 Los veteranos militares de los Estados Unidos que tienen bajos ingresos y que están sin hogar o en riesgo de quedarse sin hogar pueden obtener ayuda de [**Supportive Services for Veteran Families**](Directory.md#Supportive-Services-for-Veteran-Families).
 Esta ayuda incluye asistencia de vivienda, administración de casos y asistencia financiera; servicios de realojamiento rápido y prevención de la falta de vivienda; asistencia financiera temporal para renta, depósitos y servicios públicos; evaluaciones de barreras de vivienda, asistencia de emergencia para estabilidad de vivienda, asesoramiento sobre vivienda, educación sobre contratos de alquiler, mediación entre arrendador e inquilino, y planificación para estabilidad de vivienda futura. <!-- Sources: https://www.va.gov/homeless/ssvf/ssvf-overview/ and https://capslo.org/ssvf/ -->
-Debe tener un DD214 con licencia que no sea deshonrosa. <!-- SOURCE NEEDED -->
+Debe tener un DD214 con licencia que no sea deshonrosa. <!-- Source: Gabriel Sepulveda <gsepulveda@capslo.org> -->
 
 El programa [**RVs for Veterans**](Directory.md#RVs-for-Veterans) puede conseguirle un RV gratis (por ejemplo, casa rodante motorizada, remolque de viaje o quinta rueda). <!-- Source: https://hopesvillageofslo.com/programs -->
 Estos son donados por otros miembros de la comunidad, y están disponibles a medida que se donan. <!-- Source: https://hopesvillageofslo.com/programs -->
@@ -3258,7 +3258,7 @@ También puede pedir prestado un punto de acceso Wi-Fi de la biblioteca. <!-- So
 El [**SLO Cal Careers Center**](Directory.md#SLO-Cal-Careers-Center) tiene computadoras que puede usar para propósitos de búsqueda de empleo. <!-- SOURCE NEEDED -->
 También pueden ayudarle a establecer una cuenta de CalJOBS y enviar solicitudes de empleo en línea. <!-- SOURCE NEEDED -->
 
-El Departamento de Tecnología de la Información del Condado de San Luis Obispo proporciona acceso Wi-Fi gratuito en todos los edificios del gobierno del Condado de San Luis Obispo. <!-- Source: https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi -->
+El Condado de San Luis Obispo proporciona acceso Wi-Fi gratuito en todos los edificios del gobierno del Condado de San Luis Obispo. <!-- Source: https://www.slocounty.ca.gov/departments/information-technology/services/network-access/county-wi-fi -->
 
 Tanto la oficina de [**5Cities Homeless Coalition**](Directory.md#5CHC) como el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) (Centro de Servicios para Personas sin Hogar 40 Prado) ofrecen acceso a computadoras e internet a sus clientes. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
 

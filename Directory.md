@@ -3695,7 +3695,7 @@ If you see one listed here that is no longer in service, please use the feedback
    - **Website:** [capslo.org/ssvf](https://capslo.org/ssvf/)
    - **Location:** <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Supportive Services for Veteran Families">265 South St. #H, SLO</a> <!-- Source: https://capslo.org/ssvf/ -->
    - **Phone:** [805-534-1698](tel:+1-805-534-1698) <!-- Source: https://capslo.org/ssvf/ -->
-   - **Email:** [jerwin@capslo.org](mailto:jerwin@capslo.org)
+   - **Email:** [gsepulveda@capslo.org](mailto:gsepulveda@capslo.org)<!-- Source: gsepulveda@capslo.org -->, [jerwin@capslo.org](mailto:jerwin@capslo.org)
 - Notes:
    - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) <!-- Source: https://capslo.org/ssvf/ -->
    - Operated by [**5Cities Homeless Coalition**](#5CHC) with [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
