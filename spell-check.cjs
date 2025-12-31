@@ -109,7 +109,7 @@ const WHITELIST = new Set([
   // Spanish and Latin
   'familia', 'por', 'todo', 'nueva', 'generación', 'buena', 'de', 'capita', 'et', 'cetera',
   'español', 'Español', 'Mixteco', 'cortina', 'del', 'brisas', 'norte', 'd’Arroyo', 'Indigena',
-  'corazón',
+  'corazón', 'listos',
 ]);
 
 // Simple dictionary of common words (you could expand this or use a larger dictionary)
