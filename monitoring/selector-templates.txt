@@ -1,0 +1,108 @@
+# Quick Selector Templates
+
+Copy and paste these into the "CSS/JSON/XPath Filter" field when editing watches.
+
+## General Purpose
+
+# Main content only (works for most sites)
+main
+
+# Main content excluding common dynamic elements
+main :not(nav):not(footer):not(.ads):not(.social-share):not(.breadcrumb)
+
+# Article content only
+article
+
+## Contact Information Pages
+
+# Common contact section selectors
+#contact, .contact, .contact-info, .contact-us
+
+# Multiple contact-related sections
+#contact, #hours, #location, .phone, .email, .address
+
+## Hours of Operation
+
+# Common hours selectors
+.hours, .business-hours, #hours, .hours-of-operation
+.opening-hours, .schedule
+
+## Services/Programs Pages
+
+# Services sections
+#services, .services, .programs, .offerings
+section.services, div.program-list
+
+## Government Sites
+
+# Main content (most .gov sites use semantic HTML)
+main
+
+# Specific to county sites
+.main-content, #content-area
+
+## Non-Profit Organization Sites
+
+# Typical non-profit structure
+main article, .page-content
+
+# Service/program focused
+.programs, .services, .get-help, .resources
+
+## Directory/Listing Pages
+
+# Individual listings
+.listing, .organization, .provider
+
+# Exclude search/filter UI
+.results :not(.filters):not(form)
+
+## Excluding Dynamic Content
+
+# Exclude timestamps
+main :not(.timestamp):not(.last-updated):not(.modified-date)
+
+# Exclude social media widgets
+main :not(.social):not(.share-buttons):not(.fb-like):not(.twitter-timeline)
+
+# Exclude ads and tracking
+main :not(.ad):not(.advertisement):not(.sponsored):not(.analytics)
+
+## XPath Examples
+
+# Content containing "Hours" or "Contact"
+//*[contains(text(), 'Hours') or contains(text(), 'Contact')]
+
+# All paragraphs in main content
+//main//p
+
+# Specific heading and its following content
+//h2[contains(text(), 'Contact')]/following-sibling::*
+
+# Exclude footer and navigation
+//*[not(self::footer) and not(self::nav)]
+
+## Ignore Text Patterns (for "Ignore text" field)
+
+# Ignore timestamps
+(?i)(last updated|modified on|copyright 20\d{2})
+
+# Ignore common dynamic text
+(?i)(views?|likes?|shares?|comments?)
+
+# Ignore session/tracking IDs
+(?i)(session|tracking|analytics)id[:\s]*[\w-]+
+
+## Trigger Text Patterns (for "Trigger text" field)
+
+# Alert on closures or service changes
+(?i)(clos(ed|ing)|shut\s*down|discontinued|suspended|temporarily unavailable)
+
+# Alert on contact info changes
+(?i)(phone|email|address|location).*(?:changed|updated|new)
+
+# Alert on hours changes
+(?i)(hours|schedule).*(?:changed|updated|new)
+
+# Alert on new services
+(?i)(new\s+(service|program|offering))

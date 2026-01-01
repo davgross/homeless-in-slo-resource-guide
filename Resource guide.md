@@ -1391,7 +1391,7 @@ There are four emergency rooms in SLO County:
 These emergency rooms are open all day, every day.
 
 Do not worry if your Medi-Cal paperwork is not yet in order.
-Under the “Hospital Presumptive Eligibility” program, in an emergency, hospitals will treat you as though you have Medi-Cal for up to two months while they work with you to determine your eligibility, if the following conditions hold:<!-- Source: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx-Cal -->
+Under the “Hospital Presumptive Eligibility” program, in an emergency, hospitals will treat you as though you have Medi-Cal for up to two months while they work with you to determine your eligibility, if the following conditions hold:<!-- Source: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx -->
 
 - You are uninsured and not receiving Medi-Cal.
 - You have a low monthly income.

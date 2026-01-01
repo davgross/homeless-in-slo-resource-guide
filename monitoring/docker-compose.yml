@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  changedetection:
+    image: ghcr.io/dgtlmoon/changedetection.io:latest
+    container_name: changedetection
+    hostname: changedetection
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./changedetection-data:/datastore
+    environment:
+      # Run in non-headless mode for better compatibility
+      - PLAYWRIGHT_DRIVER_URL=ws://playwright-chrome:3000/?stealth=1&--disable-web-security=true
+      # Base URL for the app (change if needed)
+      - BASE_URL=http://localhost:5000
+      # Use polling for file changes
+      - USE_X_SETTINGS=1
+    restart: unless-stopped
+
+  # Playwright browser for JavaScript rendering
+  playwright-chrome:
+    image: browserless/chrome:latest
+    hostname: playwright-chrome
+    restart: unless-stopped
+    environment:
+      - SCREEN_WIDTH=1920
+      - SCREEN_HEIGHT=1024
+      - SCREEN_DEPTH=16
+      - ENABLE_DEBUGGER=false
+      - PREBOOT_CHROME=true
+      - CONNECTION_TIMEOUT=60000
+      - MAX_CONCURRENT_SESSIONS=10
+      - CHROME_REFRESH_TIME=600000
+      - DEFAULT_BLOCK_ADS=true
+      - DEFAULT_STEALTH=true

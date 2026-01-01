@@ -1388,7 +1388,7 @@ Hay cuatro salas de emergencias en el condado de SLO:
 Estas salas de emergencias están abiertas todo el día, todos los días.
 
 No se preocupe si sus documentos de Medi-Cal aún no están en orden.
-Bajo el programa “Elegibilidad Presunta del Hospital,” en una emergencia, los hospitales lo tratarán como si tuviera Medi-Cal por hasta dos meses mientras trabajan con usted para determinar su elegibilidad, si se cumplen las siguientes condiciones:<!-- Source: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx-Cal -->
+Bajo el programa “Elegibilidad Presunta del Hospital,” en una emergencia, los hospitales lo tratarán como si tuviera Medi-Cal por hasta dos meses mientras trabajan con usted para determinar su elegibilidad, si se cumplen las siguientes condiciones:<!-- Source: https://www.dhcs.ca.gov/services/medi-cal/eligibility/Pages/HospitalPE.aspx -->
 
 - No tiene seguro y no está recibiendo Medi-Cal.
 - Tiene un ingreso mensual bajo.

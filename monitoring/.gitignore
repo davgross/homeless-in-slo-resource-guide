@@ -1,0 +1,34 @@
+# Changedetection.io data directory (contains watch data, snapshots, etc.)
+changedetection-data/
+
+# Log files and temporary data
+failed-urls.txt
+import-log.txt
+duplicate-urls.txt
+
+# Backup files
+*.tar.gz
+*.zip
+
+# Docker volumes
+.volumes/
+
+# Environment files (if you add passwords/API keys)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
