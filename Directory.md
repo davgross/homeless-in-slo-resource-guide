@@ -392,7 +392,7 @@
    - [seniorcitizensunitedinc@outlook.com](mailto:seniorcitizensunitedinc@outlook.com) <!-- Source: https://atascaderoseniorcenter.org/faq -->
    - [seniorcenter93422@gmail.com](mailto:seniorcenter93422@gmail.com) <!-- Source: https://atascaderoseniorcenter.org/ -->
 - **Hours:** M 11am–1pm, Tu–F 11am–3pm (some activities at other times) <!-- Source: https://atascaderoseniorcenter.org/faq -->
-- **How to access:** Most activities free for members ($2 for guests)<!-- Source: https://atascaderoseniorcenter.org/activities-->; membership ($20/year minimum) open to people 50+
+- **How to access:** Most activities free for members ($2 for guests)<!-- Source: https://atascaderoseniorcenter.org/activities --> ; membership ($20/year minimum) open to people 50+
 - Notes:
    - A lunch site for [**Meals that Connect**](#Meals-that-Connect)
 
