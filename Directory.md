@@ -2191,7 +2191,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:**
    - [805-785-0132](tel:+1-805-785-0132) (office) <!-- Source: https://ombudsmanslo.org/ -->
    - [800-231-4024](tel:+1-800-231-4024) (24-hour emergency) <!-- Source: https://ombudsmanslo.org/ -->
-- **Email:** [info@ombudsmanslo.org](mailto:info@ombudsmanslo.org) <!-- Source: https://ombudsmanslo.org/ -->
 - **Hours:** M–F 8:30am–4:30pm <!-- Source: https://ombudsmanslo.org/ -->
 
 ## <a id="Lopez-Lake-Recreation-Area">Lopez Lake Recreation Area</a>
