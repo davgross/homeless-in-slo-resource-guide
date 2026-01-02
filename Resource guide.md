@@ -2398,10 +2398,10 @@ If you have been in jail or prison and are reentering the community after doing 
 If you were born in SLO County, you can obtain a copy of your birth certificate from the [**SLO County Clerk-Recorder**](Directory.md#SLO-County-Clerk-Recorder). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
 You will need to show valid identification (typically, a government-issued photo ID like a driver’s license or passport). <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
 
-There is also a $32 fee. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
+There is also a $34 fee. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
 However, if you are homeless, you can request an “Affidavit of Homeless Status for Fee Exempt Certified Copy of Birth Certificate.” <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
 You need to sign this and you also need to get a signature from a “homeless services provider.” <!-- SOURCE NEEDED -->
-This exempts you from having to pay the $32 fee. <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
+This exempts you from having to pay the $34 fee. <!-- Source: https://www.cdph.ca.gov/Programs/CHSI/Pages/Assembly-Bill-(AB)-1733.aspx -->
 Homeless services providers like [**40 Prado Homeless Services Center**](Directory.md#40-Prado), the [**5Cities Homeless Coalition (5CHC)**](Directory.md#5CHC), or the [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) can help you with this process. <!-- SOURCE NEEDED -->
 
 You can obtain a “certified copy” of a birth certificate for yourself or your child or other close relative. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates -->
@@ -2413,11 +2413,11 @@ You can also use the [VitalChek](https://www.vitalchek.com/v/vital-records/calif
 (You may need to provide a notarized, sworn statement if you want to order a “certified copy” this way, in which case it is probably just as easy to visit the SLO County Clerk-Recorder office.)
 That may cost a bit more.
 
-Death records for deaths that occurred in SLO County can also be obtained from the SLO County Clerk-Recorder ($24) or from VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
+Death records for deaths that occurred in SLO County can also be obtained from the SLO County Clerk-Recorder ($26) or from VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
 Again, there is a difference between “certified” and “informational” copies of death certificates, and you should check which one you need before you order it. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
 You can typically only get a “certified” copy for a close relative, and you may have to provide additional documentation. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/death-certificates -->
 
-You can also get a copy of a marriage certificate that was issued in SLO County from the SLO County Clerk-Recorder office ($17) or from VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
+You can also get a copy of a marriage certificate that was issued in SLO County from the SLO County Clerk-Recorder office ($19) or from VitalChek. <!-- Sources: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates and https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/fees/fee-schedule-effective-1-1-2024 -->
 Again, there is a difference between “certified” and “informational” copies, and you should check which one you need before you order it. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
 You can typically only get a “certified” copy for yourself or a close relative, and you may have to provide additional documentation. <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/marriage-certificates -->
 

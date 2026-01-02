@@ -2963,7 +2963,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Sitio web:** [saintbarnabas-ag.org/get-involved/thrift-shop](https://saintbarnabas-ag.org/get-involved/thrift-shop/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.121001" data-lon="-120.614790" data-zoom="17" data-label="St. Barnabas Thrit Shop">1328 Grand Ave. #F, Grover Beach</a> <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
 - **Teléfono:** [805-270-4023](tel:+1-805-270-4023) <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
-- **Correo electrónico:** [stbarnabasthriftstore@gmail.com](mailto:stbarnabasthriftstore@gmail.com) <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
 - **Horario:** Ma–V 10am–4pm, S mediodía–4pm <!-- Source: https://www.facebook.com/StBarnabasTS/ -->
    - Venta del “Bag Day” el último viernes del mes
 
