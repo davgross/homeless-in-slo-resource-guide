@@ -1142,7 +1142,6 @@
 - **Sitio web:** [childrensresource.org](https://www.childrensresource.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.275653" data-lon="-120.644484" data-zoom="17" data-label="Child Development Resource Center">1720 Bishop St., SLO</a> <!-- Source: https://www.childrensresource.org/ -->
 - **Teléfono:** [805-544-0801](tel:+1-805-544-0801) <!-- Source: https://www.childrensresource.org/ -->
-- **Correo electrónico:** [info@slocdc.org](mailto:info@slocdc.org)
 - **Cómo obtener el servicio:** Complete [una solicitud](https://www.childrensresource.org/regristration) u obtenga una referencia de servicios de bienestar infantil o de un proveedor legal, médico, de servicios sociales o de refugio de emergencia. La matrícula se basa en una escala móvil según los ingresos. Hay ayuda financiera disponible.
 <!-- Nota: Hours of operation not publicly listed (as of October 2025); contact directly for hours -->
 

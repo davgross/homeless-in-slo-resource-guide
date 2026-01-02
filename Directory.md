@@ -927,7 +927,6 @@
 - **Website:** [childrensresource.org](https://www.childrensresource.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.275653" data-lon="-120.644484" data-zoom="17" data-label="Child Development Resource Center">1720 Bishop St., SLO</a> <!-- Source: https://www.childrensresource.org/ -->
 - **Phone:** [805-544-0801](tel:+1-805-544-0801) <!-- Source: https://www.childrensresource.org/ -->
-- **Email:** [info@slocdc.org](mailto:info@slocdc.org)
 - **How to access:** Complete [an application](https://www.childrensresource.org/regristration) or get a referral from child welfare services or from a legal, medical, social services, or emergency shelter provider. Tuition is on a sliding scale based on income. Financial aid is available.
 <!-- Note: Hours of operation not publicly listed (as of October 2025); contact directly for hours -->
 
