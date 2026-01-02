@@ -826,7 +826,6 @@
 - **Sitio web:** [cambriavineyardchurch.org](https://cambriavineyardchurch.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.563774" data-lon="-121.087216" data-zoom="17" data-label="Cambria Vineyard">1617 Main St., Cambria</a> <!-- Source: https://cambriavineyardchurch.org/contact-us/ -->
 - **Teléfono:** [805-927-5550](tel:+1-805-927-5550) <!-- Source: https://cambriavineyardchurch.org/contact-us/ -->
-- **Correo electrónico:** [info@cambriavineyard.org](mailto:info@cambriavineyard.org)
 - **Horario** (despensa de alimentos): segundo y cuarto jueves, mediodía–2pm <!-- Source: https://cambriavineyardchurch.org/ministries/local-outreach/ -->
 - Notas: opera “Re·Create Thrift Store” a 1601 Main St., Cambria (L/J/V/S 10am–4pm) <!-- Source: https://cambriavineyardchurch.org/ministries/local-outreach/ -->
 
