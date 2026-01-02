@@ -1381,7 +1381,7 @@
       - [805-592-9463](tel:+1-805-592-9463) (Campus SLO) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
       - [805-591-6273](tel:+1-805-591-6273) (Campus North County) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
 - **Correo electrónico:**
-   - [basicneeds@cuest.edu](mailto:basicneeds@cuest.edu) (Centro de Necesidades Básicas) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - [basicneeds@cuesta.edu](mailto:basicneeds@cuesta.edu) (Centro de Necesidades Básicas) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - [admit@cuesta.edu](mailto:admit@cuesta.edu) (Admisión)
    - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (Centro South County)
    - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Programa de Educación Continua) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
@@ -2462,7 +2462,7 @@
 - **Sitio web:** [nipomoseniorcenter.org](https://nipomoseniorcenter.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.044026" data-lon="-120.471889" data-zoom="17" data-label="Nipomo Senior Center">200 E. Dana St., Nipomo</a> (entrada por Beechnut St.)
 - **Teléfono:** [805-929-1615](tel:+1-805-929-1615) <!-- Source: https://nipomoseniorcenter.org/ -->
-- **Correo electrónico:** [contact@nipomoseniorcenter](mailto:contact@nipomoseniorcenter) <!-- Source: https://nipomoseniorcenter.org/ -->
+- **Correo electrónico:** [contact@nipomoseniorcenter.org](mailto:contact@nipomoseniorcenter.org) <!-- Source: https://nipomoseniorcenter.org/ -->
 - **Horario:** L–V 9am–1pm <!-- Source: https://nipomoseniorcenter.org/ -->
 - Nota: Alberga [**Meals that Connect**](#Meals-that-Connect) lunches <!-- Source: https://nipomoseniorcenter.org/ -->
 
