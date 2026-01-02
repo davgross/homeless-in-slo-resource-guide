@@ -2926,7 +2926,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [stjosephcayucos.org](https://stjosephcayucos.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.447245" data-lon="-120.897665" data-zoom="17" data-label="Saint Joseph’s Church">360 Park Ave., Cayucos</a> <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
 - **Phone:** [805-995-3243](tel:+1-805-995-3243) <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
-- **Email:** [stjosephcayucos@charter.net](mailto:stjosephcayucos@charter.net) <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
 - **Hours** (food pantry): Fridays 10am–Noon, or Thursdays by appointment
 
 ## <a id="St-Patricks-Church">Saint Patrick’s Church</a>
