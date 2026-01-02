@@ -2452,9 +2452,7 @@
 - **Sitio web:** [nipomofoodbasket.com](https://www.nipomofoodbasket.com/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.042387" data-lon="-120.476916" data-zoom="17" data-label="Nipomo Food Basket">197 W. Tefft St., Nipomo</a> <!-- Source: https://www.nipomofoodbasket.com/ -->
 - **Teléfono:** [805-619-7681](tel:+1-805-619-7681) <!-- Source: https://www.nipomofoodbasket.com/ -->
-- **Correo electrónico:**
-   - [helpu@nipomofoodbasket.org](mailto:helpu@nipomofoodbasket.org) <!-- Source: https://www.nipomofoodbasket.com/ -->
-   - [info@nipomofoodbasket.com](mailto:info@nipomofoodbasket.com) <!-- Source: https://www.nipomofoodbasket.com/visit-us -->
+- **Correo electrónico:** [helpu@nipomofoodbasket.org](mailto:helpu@nipomofoodbasket.org) <!-- Source: https://www.nipomofoodbasket.com/ -->
 - **Horario:** L/Ma/J/V 10am–1pm <!-- Source: https://www.nipomofoodbasket.com/ -->
 
 ## <a id="Nipomo-Senior-Center">Nipomo Senior Center</a>
