@@ -621,7 +621,6 @@
 - **Website:** [cambriavineyardchurch.org](https://cambriavineyardchurch.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.563774" data-lon="-121.087216" data-zoom="17" data-label="Cambria Vineyard">1617 Main St., Cambria</a> <!-- Source: https://cambriavineyardchurch.org/contact-us/ -->
 - **Phone:** [805-927-5550](tel:+1-805-927-5550) <!-- Source: https://cambriavineyardchurch.org/contact-us/ -->
-- **Email:** [info@cambriavineyard.org](mailto:info@cambriavineyard.org)
 - **Hours** (food pantry): Second & fourth Thursdays, Noon–2pm <!-- Source: https://cambriavineyardchurch.org/ministries/local-outreach/ -->
 - Notes: Operates “Re·Create Thrift Store” at 1601 Main St., Cambria (M/Th/F/Sa 10am–4pm) <!-- Source: https://cambriavineyardchurch.org/ministries/local-outreach/ -->
 
@@ -927,7 +926,6 @@
 - **Website:** [childrensresource.org](https://www.childrensresource.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.275653" data-lon="-120.644484" data-zoom="17" data-label="Child Development Resource Center">1720 Bishop St., SLO</a> <!-- Source: https://www.childrensresource.org/ -->
 - **Phone:** [805-544-0801](tel:+1-805-544-0801) <!-- Source: https://www.childrensresource.org/ -->
-- **Email:** [info@slocdc.org](mailto:info@slocdc.org)
 - **How to access:** Complete [an application](https://www.childrensresource.org/regristration) or get a referral from child welfare services or from a legal, medical, social services, or emergency shelter provider. Tuition is on a sliding scale based on income. Financial aid is available.
 <!-- Note: Hours of operation not publicly listed (as of October 2025); contact directly for hours -->
 
@@ -1164,7 +1162,7 @@
       - [805-592-9463](tel:+1-805-592-9463) (SLO Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
       - [805-591-6273](tel:+1-805-591-6273) (North County Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
 - **Email:**
-   - [basicneeds@cuest.edu](mailto:basicneeds@cuest.edu) (Basic Needs Center) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - [basicneeds@cuesta.edu](mailto:basicneeds@cuesta.edu) (Basic Needs Center) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
    - [admit@cuesta.edu](mailto:admit@cuesta.edu) (Admission)
    - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (South County Campus)
    - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
@@ -2191,7 +2189,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:**
    - [805-785-0132](tel:+1-805-785-0132) (office) <!-- Source: https://ombudsmanslo.org/ -->
    - [800-231-4024](tel:+1-800-231-4024) (24-hour emergency) <!-- Source: https://ombudsmanslo.org/ -->
-- **Email:** [info@ombudsmanslo.org](mailto:info@ombudsmanslo.org) <!-- Source: https://ombudsmanslo.org/ -->
 - **Hours:** M–F 8:30am–4:30pm <!-- Source: https://ombudsmanslo.org/ -->
 
 ## <a id="Lopez-Lake-Recreation-Area">Lopez Lake Recreation Area</a>
@@ -2468,9 +2465,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [nipomofoodbasket.com](https://www.nipomofoodbasket.com/)
 - **Location:** <a href="#" class="map-link" data-lat="35.042387" data-lon="-120.476916" data-zoom="17" data-label="Nipomo Food Basket">197 W. Tefft St., Nipomo</a> <!-- Source: https://www.nipomofoodbasket.com/ -->
 - **Phone:** [805-619-7681](tel:+1-805-619-7681) <!-- Source: https://www.nipomofoodbasket.com/ -->
-- **Email:**
-   - [helpu@nipomofoodbasket.org](mailto:helpu@nipomofoodbasket.org) <!-- Source: https://www.nipomofoodbasket.com/ -->
-   - [info@nipomofoodbasket.com](mailto:info@nipomofoodbasket.com) <!-- Source: https://www.nipomofoodbasket.com/visit-us -->
+- **Email:** [helpu@nipomofoodbasket.org](mailto:helpu@nipomofoodbasket.org) <!-- Source: https://www.nipomofoodbasket.com/ -->
 - **Hours:** M/Tu/Th/F 10am–1pm <!-- Source: https://www.nipomofoodbasket.com/ -->
 
 ## <a id="Nipomo-Senior-Center">Nipomo Senior Center</a>
@@ -2478,7 +2473,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [nipomoseniorcenter.org](https://nipomoseniorcenter.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.044026" data-lon="-120.471889" data-zoom="17" data-label="Nipomo Senior Center">200 E. Dana St., Nipomo</a> (entrance on Beechnut St.)
 - **Phone:** [805-929-1615](tel:+1-805-929-1615) <!-- Source: https://nipomoseniorcenter.org/ -->
-- **Email:** [contact@nipomoseniorcenter](mailto:contact@nipomoseniorcenter) <!-- Source: https://nipomoseniorcenter.org/ -->
+- **Email:** [contact@nipomoseniorcenter.org](mailto:contact@nipomoseniorcenter.org) <!-- Source: https://nipomoseniorcenter.org/ -->
 - **Hours:** M–F 9am–1pm <!-- Source: https://nipomoseniorcenter.org/ -->
 - Note: Hosts [**Meals that Connect**](#Meals-that-Connect) lunches <!-- Source: https://nipomoseniorcenter.org/ -->
 
@@ -2931,7 +2926,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [stjosephcayucos.org](https://stjosephcayucos.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.447245" data-lon="-120.897665" data-zoom="17" data-label="Saint Joseph’s Church">360 Park Ave., Cayucos</a> <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
 - **Phone:** [805-995-3243](tel:+1-805-995-3243) <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
-- **Email:** [stjosephcayucos@charter.net](mailto:stjosephcayucos@charter.net) <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
 - **Hours** (food pantry): Fridays 10am–Noon, or Thursdays by appointment
 
 ## <a id="St-Patricks-Church">Saint Patrick’s Church</a>
@@ -3454,7 +3448,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Website:** [slograssroots.org](https://slograssroots.org/)
 - **Phone:** [805-540-1455](tel:+1-805-540-1455) <!-- https://slograssroots.org/ -->
-- **Email:** [info@slograssroots.com](mailto:info@slograssroots.com) <!-- https://slograssroots.org/ -->
+- **Email:** [info@slograssroots.org](mailto:info@slograssroots.org) <!-- https://slograssroots.org/ -->
 
 ## <a id="SLO-Hub">SLO Hub</a>
 
