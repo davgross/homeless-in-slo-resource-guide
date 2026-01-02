@@ -3483,7 +3483,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 - **Sitio web:** [slograssroots.org](https://slograssroots.org/)
 - **Teléfono:** [805-540-1455](tel:+1-805-540-1455) <!-- https://slograssroots.org/ -->
-- **Correo electrónico:** [info@slograssroots.com](mailto:info@slograssroots.com) <!-- https://slograssroots.org/ -->
+- **Correo electrónico:** [info@slograssroots.org](mailto:info@slograssroots.org) <!-- https://slograssroots.org/ -->
 
 ## <a id="SLO-Hub">SLO Hub</a>
 

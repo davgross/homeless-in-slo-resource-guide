@@ -3454,7 +3454,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Website:** [slograssroots.org](https://slograssroots.org/)
 - **Phone:** [805-540-1455](tel:+1-805-540-1455) <!-- https://slograssroots.org/ -->
-- **Email:** [info@slograssroots.com](mailto:info@slograssroots.com) <!-- https://slograssroots.org/ -->
+- **Email:** [info@slograssroots.org](mailto:info@slograssroots.org) <!-- https://slograssroots.org/ -->
 
 ## <a id="SLO-Hub">SLO Hub</a>
 
