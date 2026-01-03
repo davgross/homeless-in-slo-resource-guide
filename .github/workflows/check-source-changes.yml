@@ -1,0 +1,264 @@
+name: Check Source Changes
+
+on:
+  schedule:
+    # Run daily at 3:00 AM UTC (7:00 PM PST previous day)
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: 'Number of sources to check (default: 100)'
+        required: false
+        default: '100'
+
+jobs:
+  check-sources:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Download previous snapshots
+        id: download-snapshots
+        uses: actions/download-artifact@v4
+        with:
+          name: source-snapshots
+          path: scripts/
+        continue-on-error: true  # First run won't have artifacts
+
+      - name: Download batch state
+        id: download-state
+        uses: actions/download-artifact@v4
+        with:
+          name: batch-state
+          path: scripts/
+        continue-on-error: true  # First run won't have state
+
+      - name: Extract claim-source pairs
+        run: |
+          echo "Extracting claim-source pairs from markdown files..."
+          node scripts/extract-claim-sources.js scripts/claim-sources.json
+
+      - name: Run batch monitor
+        id: batch-monitor
+        run: |
+          echo "Running batch monitor..."
+          BATCH_SIZE="${{ github.event.inputs.batch_size || '100' }}"
+          node scripts/batch-monitor.js $BATCH_SIZE || true
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          if [ -f scripts/source-changes-report.json ]; then
+            TOTAL_CHANGES=$(jq '.metadata.totalChanges' scripts/source-changes-report.json)
+            HIGH_SEVERITY=$(jq '.metadata.highSeverity' scripts/source-changes-report.json)
+            MEDIUM_SEVERITY=$(jq '.metadata.mediumSeverity' scripts/source-changes-report.json)
+            LOW_SEVERITY=$(jq '.metadata.lowSeverity' scripts/source-changes-report.json)
+
+            echo "changes=$TOTAL_CHANGES" >> $GITHUB_OUTPUT
+            echo "high=$HIGH_SEVERITY" >> $GITHUB_OUTPUT
+            echo "medium=$MEDIUM_SEVERITY" >> $GITHUB_OUTPUT
+            echo "low=$LOW_SEVERITY" >> $GITHUB_OUTPUT
+          else
+            echo "changes=0" >> $GITHUB_OUTPUT
+            echo "high=0" >> $GITHUB_OUTPUT
+            echo "medium=0" >> $GITHUB_OUTPUT
+            echo "low=0" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Find existing issue
+        id: find-issue
+        if: steps.check-changes.outputs.changes > 0
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'source-changes,automated'
+            });
+
+            const existingIssue = issues.data.find(issue =>
+              issue.title.includes('Source Changes Detected')
+            );
+
+            if (existingIssue) {
+              core.setOutput('issue-number', existingIssue.number);
+              core.setOutput('found', 'true');
+            } else {
+              core.setOutput('found', 'false');
+            }
+
+      - name: Create or update issue for changes
+        if: steps.check-changes.outputs.changes > 0
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('scripts/source-changes-report.json'));
+
+            // Format changes as markdown
+            let body = '# 📋 Source Content Changes Detected\n\n';
+            body += `**Run Date:** ${new Date().toISOString().split('T')[0]}\n`;
+            body += `**Total Changes:** ${report.metadata.totalChanges}\n`;
+            body += `- 🔴 High Priority: ${report.metadata.highSeverity}\n`;
+            body += `- 🟡 Medium Priority: ${report.metadata.mediumSeverity}\n`;
+            body += `- 🟢 Low Priority: ${report.metadata.lowSeverity}\n\n`;
+
+            body += '---\n\n';
+
+            // Group by severity
+            const high = report.changes.filter(c => c.severity === 'high');
+            const medium = report.changes.filter(c => c.severity === 'medium');
+            const low = report.changes.filter(c => c.severity === 'low');
+
+            if (high.length > 0) {
+              body += `## 🔴 High Priority Changes (${high.length})\n\n`;
+              body += 'These likely require immediate attention:\n\n';
+              for (const change of high.slice(0, 10)) {
+                body += `### [\`${change.file}:${change.line}\`](${context.payload.repository.html_url}/blob/${context.sha}/${change.file}#L${change.line})\n\n`;
+                body += `- **Source:** ${change.sourceUrl}\n`;
+                body += `- **Type:** ${change.claimType}\n`;
+                body += `- **Claim:** \`${change.searchableCore}\`\n`;
+                body += `- **Reason:** ${change.humanReadable}\n`;
+
+                if (change.previousContext && change.currentContext) {
+                  body += `\n<details><summary>Show context comparison</summary>\n\n`;
+                  body += `**Previous:**\n> ${change.previousContext.substring(0, 200)}${change.previousContext.length > 200 ? '...' : ''}\n\n`;
+                  body += `**Current:**\n> ${change.currentContext.substring(0, 200)}${change.currentContext.length > 200 ? '...' : ''}\n\n`;
+                  body += `</details>\n\n`;
+                }
+              }
+              if (high.length > 10) {
+                body += `\n*... and ${high.length - 10} more high-priority changes (see full report)*\n\n`;
+              }
+            }
+
+            if (medium.length > 0) {
+              body += `## 🟡 Medium Priority Changes (${medium.length})\n\n`;
+              body += '<details><summary>Show medium priority changes</summary>\n\n';
+              for (const change of medium.slice(0, 5)) {
+                body += `- [\`${change.file}:${change.line}\`](${context.payload.repository.html_url}/blob/${context.sha}/${change.file}#L${change.line}) - ${change.humanReadable}\n`;
+              }
+              if (medium.length > 5) {
+                body += `\n*... and ${medium.length - 5} more*\n`;
+              }
+              body += '\n</details>\n\n';
+            }
+
+            if (low.length > 0) {
+              body += `## 🟢 Low Priority Changes (${low.length})\n\n`;
+              body += '<details><summary>Show low priority changes</summary>\n\n';
+              body += 'These are likely minor or false positives:\n\n';
+              for (const change of low.slice(0, 5)) {
+                body += `- [\`${change.file}:${change.line}\`](${context.payload.repository.html_url}/blob/${context.sha}/${change.file}#L${change.line}) - ${change.reason}\n`;
+              }
+              if (low.length > 5) {
+                body += `\n*... and ${low.length - 5} more*\n`;
+              }
+              body += '\n</details>\n\n';
+            }
+
+            body += '\n---\n\n';
+            body += '**Next Steps:**\n';
+            body += '1. Review high-priority changes and verify source pages\n';
+            body += '2. Update markdown files with corrected information\n';
+            body += '3. For removed content, find alternative sources or remove claims\n';
+            body += '4. This issue will update on the next scheduled check\n\n';
+            body += '*🤖 Generated automatically by the VivaSLO source monitor*\n';
+
+            const issueExists = '${{ steps.find-issue.outputs.found }}' === 'true';
+            const issueNumber = '${{ steps.find-issue.outputs.issue-number }}';
+
+            if (issueExists) {
+              // Update existing issue
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: parseInt(issueNumber),
+                body: body
+              });
+
+              // Add a comment
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: parseInt(issueNumber),
+                body: `Updated with ${report.metadata.totalChanges} changes detected on ${new Date().toISOString().split('T')[0]}`
+              });
+
+              console.log(`Updated issue #${issueNumber}`);
+            } else {
+              // Create new issue
+              const issue = await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `📋 Source Changes Detected (${report.metadata.totalChanges} changes)`,
+                body: body,
+                labels: ['source-changes', 'automated', 'needs-review']
+              });
+
+              console.log(`Created issue #${issue.data.number}`);
+            }
+
+      - name: Upload snapshots artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-snapshots
+          path: |
+            scripts/source-snapshots.json
+            scripts/source-snapshots-previous.json
+          retention-days: 90
+
+      - name: Upload batch state
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: batch-state
+          path: scripts/batch-state.json
+          retention-days: 90
+
+      - name: Upload changes report
+        if: steps.check-changes.outputs.changes > 0
+        uses: actions/upload-artifact@v4
+        with:
+          name: changes-report
+          path: scripts/source-changes-report.json
+          retention-days: 30
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Source Monitoring Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f scripts/batch-state.json ]; then
+            BATCH_NUM=$(jq '.currentBatch' scripts/batch-state.json)
+            CHECKED_COUNT=$(jq '.checkHistory | length' scripts/batch-state.json)
+            echo "- **Batch Number:** $BATCH_NUM" >> $GITHUB_STEP_SUMMARY
+            echo "- **Claims Checked This Run:** ${{ github.event.inputs.batch_size || '100' }}" >> $GITHUB_STEP_SUMMARY
+            echo "- **Total Claims Ever Checked:** $CHECKED_COUNT / 1798" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          if [ -f scripts/source-changes-report.json ]; then
+            echo "- **Changes Detected:** ${{ steps.check-changes.outputs.changes }}" >> $GITHUB_STEP_SUMMARY
+            echo "  - 🔴 High: ${{ steps.check-changes.outputs.high }}" >> $GITHUB_STEP_SUMMARY
+            echo "  - 🟡 Medium: ${{ steps.check-changes.outputs.medium }}" >> $GITHUB_STEP_SUMMARY
+            echo "  - 🟢 Low: ${{ steps.check-changes.outputs.low }}" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- **Changes Detected:** None" >> $GITHUB_STEP_SUMMARY
+          fi

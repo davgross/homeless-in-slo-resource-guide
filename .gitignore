@@ -5,6 +5,16 @@ scripts/urls.json
 scripts/phones.json
 scripts/.phone-check-progress.json
 
+# Source monitoring generated files
+scripts/claim-sources.json
+scripts/batch-state.json
+scripts/current-batch.json
+scripts/source-snapshots.json
+scripts/source-snapshots-previous.json
+scripts/source-changes-report.json
+scripts/test-*.json
+scripts/debug-*.json
+
 # Claude Code local settings
 .claude/
 **/.claude/
