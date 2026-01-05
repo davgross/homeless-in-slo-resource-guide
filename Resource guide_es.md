@@ -1467,6 +1467,7 @@ Los dentistas no son proporcionados a través de CenCal sino a través de [**Med
 Para información sobre beneficios dentales, contacte a Medi-Cal Dental.
 Para encontrar un proveedor de Medi-Cal Dental, vea uno de estos recursos:
 
+- [Medi-Cal Dental Providers in San Luis Obispo County](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/oral-health/medi-cal-dental-providers-in-san-luis-obispo-count)
 - [Denti-Cal Dental Care Dentist Referral](https://www.dental.dhcs.ca.gov/Members/Medi_Cal_Dental/Find_A_Dentist/FindADentist) (Referencia de Dentista de Cuidado Dental Denti-Cal) ([800-322-6384](tel:+1-800-322-6384))
 - [“Encuentre un Dentista" en Sonríe California](https://sonriecalifornia.org/encuentra-un-dentista/)
 
@@ -1578,6 +1579,10 @@ Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obte
 [**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una clínica dental. <!-- Source: https://www.slonoorfoundation.org/dental -->
 
 > Vea [Medi-Cal: Dentistas](#medi-cal-dentists) arriba para aprender cómo encontrar un proveedor dental de Medi-Cal.
+
+El Programa de Salud Bucal del Condado de SLO ofrece una subvención para servicios dentales infantiles. <!-- Source: https://www.slohealthaccess.org/dental.html -->
+Esta subvención ayuda a cubrir los gastos de tratamiento dental urgente para niños. <!-- Source: https://www.slohealthaccess.org/dental.html -->
+Para más información, comuníquese al [805-781-5503](tel.:+1-805-781-5503) o a [bmorrow@co.slo.ca.us](mailto:bmorrow@co.slo.ca.us). <!-- Source: https://www.slohealthaccess.org/dental.html -->
 
 ### <a id="vision-care">Cuidado de la Vista</a>
 
@@ -3751,6 +3756,7 @@ Algunos servicios son solo con cita. <!-- Source: e.g. https://woodshumanesociet
 
 [**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) es una organización nacional que se enfoca en alimentar y proporcionar atención veterinaria a mascotas de personas que experimentan falta de hogar. <!-- Source: https://petsofthehomeless.org/ -->
 Si su mascota necesita atención veterinaria, llámelos para organizar una entrevista con un administrador de casos que determinará su elegibilidad, aprobará un examen y ayudará a hacer una cita en un hospital o clínica local. <!-- Source: https://petsofthehomeless.org/get-help/ -->
+Si su mascota necesita tratamiento médico de emergencia, solicítelo mediante el proceso descrito en la página [Emergency Veterinary Care Application](https://petsofthehomeless.org/emergency-veterinary-care/). <!-- Source: https://petsofthehomeless.org/emergency-veterinary-care/ -->
 No hay cargo para el dueño de la mascota, pero se aprecian las donaciones. <!-- Source: https://petsofthehomeless.org/get-help/ -->
 
 El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene una perrera para huéspedes (tanto huéspedes durante la noche como huéspedes del centro de calefacción/enfriamiento). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
