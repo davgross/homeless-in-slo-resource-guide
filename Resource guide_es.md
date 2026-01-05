@@ -859,7 +859,8 @@ El programa es para personas de 60 años en adelante. <!-- Source: https://meals
 Debe completar una solicitud para unirse al programa, y debe reservar sus comidas con dos días de anticipación. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/ -->
 También pueden entregar comidas a su hogar si está confinado en casa. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 
-[**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) es un programa similar específico del área de Five Cities que proporciona comidas diarias, entregadas a los hogares de personas que no pueden preparar comidas nutritivas por sí mismas y no tienen cuidadores que puedan hacerlo. <!-- Source: https://www.5citiesmow.com/services.html -->
+[**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) es un programa similar, específico del área de Five Cities, que ofrece comidas calientes entre semana y comidas congeladas los fines de semana, entregadas a domicilio a personas que no pueden preparar comidas nutritivas ni cuentan con cuidadores que puedan hacerlo. <!-- Source: https://www.5citiesmow.com/services.html -->
+Sin embargo, no es gratuito: cuesta $150 al mes. <!-- Source: email from Julie Harper, director of 5CMoW -->
 Sirven a vecinos confinados en casa en Arroyo Grande, Grover Beach, Oceano, Pismo Beach y Shell Beach. <!-- Source: https://www.5citiesmow.com/services.html -->
 Sirven a personas mayores y personas con discapacidades temporales o permanentes. <!-- Source: https://www.5citiesmow.com/services.html -->
 

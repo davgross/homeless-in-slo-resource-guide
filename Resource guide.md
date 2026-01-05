@@ -859,7 +859,8 @@ The program is for people aged 60 and above. <!-- Source: https://mealsthatconne
 You must complete an application to join the program, and you must reserve your meals two days in advance. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/ -->
 They also can deliver meals to your home if you are homebound. <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 
-[**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) is a similar program specific to the Five Cities area that provides daily meals, delivered to the homes of people who cannot prepare nutritious meals for themselves and do not have caretakers who can do so. <!-- Source: https://www.5citiesmow.com/services.html -->
+[**Five Cities Meals on Wheels**](Directory.md#5Cities-Meals-on-Wheels) is a similar program specific to the Five Cities area that provides hot meals on weekdays and frozen meals for the weekend, delivered to the homes of people who cannot prepare nutritious meals for themselves and do not have caretakers who can do so. <!-- Source: https://www.5citiesmow.com/services.html -->
+It is not free, however: it costs $150 per month. <!-- Source: email from Julie Harper, director of 5CMoW -->
 They serve homebound neighbors in Arroyo Grande, Grover Beach, Oceano, Pismo Beach, and Shell Beach. <!-- Source: https://www.5citiesmow.com/services.html -->
 They serve seniors and people with temporary or permanent disabilities. <!-- Source: https://www.5citiesmow.com/services.html -->
 
