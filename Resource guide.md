@@ -977,7 +977,7 @@ You can find a map of these hydration stations [at this link](https://storymaps.
 | <a href="#" class="map-link" data-lat="35.2897302" data-lon="-120.6643515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | near parking lot     | 24/7 |
 | <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Santa Rosa Park</a>  | near skate park      | 24/7 |
 | <a href="#" class="map-link" data-lat="35.284345" data-lon="-120.660815" data-zoom="17" data-label="Hydration Station">864 Santa Rosa St.</a> | inside, near gym     | sporadic <!-- According to AskSLO response by email 12/8/25 Ludwick Community Center does not have regular open hours --> |
-| <a href="#" class="map-link" data-lat="35.2673584" data-lon="-120.6467609" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | outside statium      | 24/7 |
+| <a href="#" class="map-link" data-lat="35.2673584" data-lon="-120.6467609" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | outside stadium      | 24/7 |
 | <a href="#" class="map-link" data-lat="35.2902945" data-lon="-120.6644515" data-zoom="17" data-label="Hydration Station">Sinsheimer Park</a>  | near playground      | 24/7 |
 | <a href="#" class="map-link" data-lat="35.279136" data-lon="-120.657520" data-zoom="17" data-label="Hydration Station">Mitchell Park</a>      | near the playground  | 24/7 |
 | <a href="#" class="map-link" data-lat="35.264736" data-lon="-120.702174" data-zoom="17" data-label="Hydration Station">Laguna Hills Park</a>  | near the playground  | 24/7 |
@@ -1470,6 +1470,7 @@ Dentists are not provided through CenCal but through [**Medi-Cal Dental**](Direc
 For information about dental benefits, contact Med-Cal Dental.
 To find a Medi-Cal Dental provider, see one of these resources:
 
+- [Medi-Cal Dental Providers in San Luis Obispo County](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/oral-health/medi-cal-dental-providers-in-san-luis-obispo-count)
 - [Denti-Cal Dental Care Dentist Referral](https://www.dental.dhcs.ca.gov/Members/Medi_Cal_Dental/Find_A_Dentist/FindADentist) ([800-322-6384](tel:+1-800-322-6384))
 - [“Find A Dentist” at Smile California](https://smilecalifornia.org/find-a-dentist/)
 
@@ -1581,6 +1582,10 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some 
 [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a dental clinic. <!-- Source: https://www.slonoorfoundation.org/dental -->
 
 > See [Medi-Cal: Dentists](#medi-cal-dentists) above to learn how to find a Medi-Cal dental provider.
+
+A “Children’s Dental Services Grant” is available from the SLO County Oral Health Program. <!-- Source: https://www.slohealthaccess.org/dental.html -->
+It helps pay for urgent dental treatment for children. <!-- Source: https://www.slohealthaccess.org/dental.html -->
+For details, contact [805-781-5503](tel:+1-805-781-5503) or [bmorrow@co.slo.ca.us](mailto:bmorrow@co.slo.ca.us). <!-- Source: https://www.slohealthaccess.org/dental.html -->
 
 ### <a id="vision-care">Vision Care</a>
 
@@ -3753,6 +3758,7 @@ Some services are by-appointment only. <!-- Source: e.g. https://woodshumanesoci
 
 [**Pets of the Homeless**](Directory.md#Pets-of-the-Homeless) is a national organization that focuses on feeding and providing veterinary care to pets of people experiencing homelessness. <!-- Source: https://petsofthehomeless.org/ -->
 If your pet needs veterinary care, call them to arrange an interview with a case manager who will determine your eligibility, approve an exam, and help make an appointment at local hospital or clinic. <!-- Source: https://petsofthehomeless.org/get-help/ -->
+If your pet needs emergency medical treatment, apply by using the process described on the [Emergency Veterinary Care Application](https://petsofthehomeless.org/emergency-veterinary-care/) page. <!-- Source: https://petsofthehomeless.org/emergency-veterinary-care/ -->
 There is no charge to the pet owner, but donations are appreciated. <!-- Source: https://petsofthehomeless.org/get-help/ -->
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has a pet kennel for guests (both overnight guests and warming/cooling center guests). <!-- Source: https://capslo.org/40-prado-warming-center/ -->

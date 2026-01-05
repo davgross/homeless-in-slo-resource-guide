@@ -2686,7 +2686,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [petsofthehomeless.org](https://petsofthehomeless.org/)
 - **Mailing addresses:** 710 W. Washington St., Carson City, NV 89703 <!-- Source: https://petsofthehomeless.org/ -->
 - **Phone:** [775-841-7463](tel:+1-775-841-7463) <!-- Source: https://petsofthehomeless.org/ -->
-   - Emergency Veterinary Care Program: case managers available M–F 9am–3pm for new cases <!-- Source: https://petsofthehomeless.org/get-help/how-we-help/ -->
+   - Emergency Veterinary Care Program: case managers available M–F 8am–4pm for new cases <!-- Source: https://petsofthehomeless.org/emergency-veterinary-care/ -->
 - **Email:** [info@petsofthehomeless.org](mailto:info@petsofthehomeless.org) <!-- Source: https://petsofthehomeless.org/ -->
 - Notes: Has partner locations in SLO including Animal Care Clinic, Mission Animal Hospital, and Woods Humane Society <!-- Source: https://petsofthehomeless.org/get-help/find-locations -->
 
