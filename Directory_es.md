@@ -5,22 +5,28 @@
 - **Sitio web:** [capslo.org/40-prado](https://capslo.org/40-prado/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">40 Prado Road, SLO</a>
 - **Teléfono:**
+   - [805-503-5360](tel:+1-805-503-5360) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
    - [805-544-4004 x2](tel:+1-805-544-4004;ext=2) (servicios generales) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - [805-544-4004 x100](tel:+1-805-544-4004;ext=100) (más información)
    - [805-459-1073](tel:+1-805-459-1073) (preguntas sobre estacionamiento seguro en el sitio)
 - **Horario:** todos los días, 8am–2:30pm y 4:30pm–7am (cerrado 2:30pm–4:30pm y 7–8am) <!-- Though https://capslo.org/40-prado/ says “This facility runs 24/7” -->
-   - Inscripción de refugio nocturno: L–J 9am–2pm, viernes solo con cita <!-- Source: https://capslo.org/40-prado-warming-center/ --> (La inscripción es un proceso de registro único donde proporciona información personal, completa papeleo, y es agregado al sistema de refugios)
+   - Refugio nocturno:
+      - Orientación: L–V 9am y 1pm <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+      - Admisión: L–J 9am a 2pm, viernes solo con cita previa <!-- Source: https://capslo.org/40-prado-warming-center/ --> (La admisión es un proceso de registro único en el que proporciona información personal, completa la documentación y se le agrega al sistema de refugios)
+      - Lista de camas: regístrese para una cama antes de las 3pm todos los días en persona en 40 Prado o llamando al [805-503-5360](tel:+1-805-503-5360) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+      - Registro: todos los días antes de las 6pm si se ha registrado para una cama (debe llegar durante el horario de registro para asegurar un lugar para esa noche, o su cama puede ser cedida a otra persona) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+      - Refugio: 4pm–8am <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+   - Desayuno: 8–9am  <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
    - Servicios de lavandería: 8am–2:30pm
-   - Servicios diurnos: 8am–4pm <!-- Source: https://capslo.org/safe-parking/ -->
-   - Desayuno: antes de las 9am <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-   - Almuerzo: mediodía–12:30pm (abierto a todos) <!-- https://www.slopeopleskitchen.org/serving-info -->
-   - Registro de refugio nocturno: diariamente, 4:30–6pm (El registro se hace cada día que desee una cama; debe llegar durante las horas de registro para asegurar un lugar para esa noche)
-   - Cena: 5–5:30pm (solo residentes del refugio nocturno y centro de enfriamiento)
-   - Centro de Calefacción: 7pm–8am (solo cuando el centro de calefacción está en operación) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-   - Centro de Enfriamiento: 8am–6pm (solo cuando el centro de enfriamiento está en operación) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+   - Centro de Acceso / Servicios diurnos: 8am–4pm <!-- Source: https://capslo.org/safe-parking/ confirmed by email from Cecil Hale, 5 Jan. 2026 -->
+   - Almuerzo: Mediodía; Almuerzo comunitario al aire libre (abierto a todos): 1pm <!-- https://www.slopeopleskitchen.org/serving-info, email from Cecil Hale, 5 Jan. 2026 -->
+   - Cena: 5pm (solo residentes del refugio nocturno y centro de enfriamiento); Cena comunitaria (al aire libre): 5pm <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+   - Centro de Calefacción: 7pm–8am (sólo en los días en que esté en funcionamiento el centro de calentamiento) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+   - Centro de Enfriamiento: 8am–6pm (sólo en los días en que esté en funcionamiento el centro de enfriamiento) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - Estacionamiento Seguro: 6pm–7pm <!-- Source: https://capslo.org/safe-parking/ -->
 - **Cómo obtener el servicio:** venga al refugio durante las horas de inscripción
    - Para usar el refugio, debe estar sin hogar, debe tener una identificación con foto válida y no debe tener un registro criminal de delincuente sexual P.C. 290. Debe poder cuidarse de sí mismo independientemente (bañarse, alimentarse, vestirse, etc.). Hay un número limitado de camas; se da prioridad a los residentes del condado de SLO.
+   - No es necesario estar sin hogar para utilizar el Centro de Acceso / servicios diurnos.
 - Notas:
    - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - opera [**Programa Rotativo de Estacionamiento Seguro Nocturno**](#Rotating-Overnight-Safe-Parking-Program)
@@ -2525,11 +2531,12 @@
 
 > *Vea también [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">1320 Nipomo St., SLO</a> <!-- Source: I went there in person -DG -->
-- **Teléfono:** [805-544-4004](tel:+1-805-544-4004)
-- **Horario:** L–V 10am–3pm
-- **Cómo obtener el servicio:** Se aceptan visitas sin cita
-<!-- Nota: No dedicated webpage or direct phone extension found (as of October 2025); program operated by CAPSLO -->
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">1344 Nipomo St., SLO</a> <!-- Source: email from Cecil Hale 5 Jan 2026 -->
+- **Teléfono:** [805-543-0963](tel:+1-805-543-0963) <!-- Source: email from Cecil Hale 5 Jan 2026 -->
+- **Horario:** L–V 10am–3pm <!-- Source: email from Cecil Hale 5 Jan 2026 -->
+- **Cómo obtener el servicio:** Se aceptan visitas sin cita; los delincuentes sexuales registrados (290) no pueden ingresar al lugar.
+- Nota: operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
+<!-- Note: No dedicated webpage or direct phone extension found (as of October 2025); program operated by CAPSLO -->
 
 ## <a id="Parent-Connection-of-SLO-County">Parent Connection of SLO County</a>
 
@@ -2789,7 +2796,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** (varias; aplicar en<a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">40 Prado Rd., SLO</a>)
 - **Teléfono:**
    - [805-544-4004](tel:+1-805-544-4004) (principal 40 Prado)
-   - [805-440-6168](tel:+1-805-440-6168) (Cecil Hale, Safe Parking inquiries)
+   - [805-459-1073](tel:+1-805-459-1073) (Sam Neal, Outreach & Engagement Supervisor) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
 - **Cómo obtener el servicio:** Debe primero completar la admisión en [**40 Prado Homeless Services Center**](#40-Prado), luego será referido al programa rotativo caso por caso
 - **Horario:** 7pm–7am solo durante la noche
 
@@ -2886,8 +2893,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - Oficina: <a href="#" class="map-link" data-lat="35.255072" data-lon="-120.669130" data-zoom="17" data-label="Restorative Partners">3380 South Higuera St., SLO</a> <!-- Source: https://restorativepartners.org/ -->
 - **Teléfono:**
    - Oficina: [805-242-1272](tel:+1-805-242-1272) <!-- Source: https://restorativepartners.org/ -->
-   - Clientes de libertad condicional: [805-234-9071&nbsp;x171](tel:+1-805-234-9071;ext=171) <!-- Source: flyer posted in SLO Library -->
-   - Clientes de CDCR: [805-234-9068&nbsp;x168](tel:+1-805-234-9068;ext=168)  <!-- Source: flyer posted in SLO Library -->
+   - Clientes de libertad condicional: [805-234-9071&#xA0;x171](tel:+1-805-234-9071;ext=171) <!-- Source: flyer posted in SLO Library -->
+   - Clientes de CDCR: [805-234-9068&#xA0;x168](tel:+1-805-234-9068;ext=168) <!-- Source: flyer posted in SLO Library -->
 - **Correo electrónico:** [info@restorativepartners.org](mailto:info@restorativepartners.org)
 - **Horario:**
    - Centro de Entrada Sin Cita: L–V 9am–12:30pm <!-- Source: flyer posted in SLO Library -->

@@ -5,22 +5,28 @@
 - **Website:** [capslo.org/40-prado](https://capslo.org/40-prado/)
 - **Location:** <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">40 Prado Road, SLO</a>
 - **Phone:**
+   - [805-503-5360](tel:+1-805-503-5360) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
    - [805-544-4004 x2](tel:+1-805-544-4004;ext=2) (general services) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - [805-544-4004 x100](tel:+1-805-544-4004;ext=100) (more information)
    - [805-459-1073](tel:+1-805-459-1073) (questions about on-site safe parking)
 - **Hours:** every day, 8am–2:30pm and 4:30pm–7am (closed 2:30pm–4:30pm and 7–8am) <!-- Though https://capslo.org/40-prado/ says "This facility runs 24/7" -->
-   - Overnight shelter intake: M–Th 9am–2pm, Fridays by appointment only <!-- Source: https://capslo.org/40-prado-warming-center/ --> (Intake is a one-time registration process where you provide personal information, complete paperwork, and get added to the shelter system)
+   - Overnight Shelter:
+      - Orientation: M–F 9am & 1pm <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+      - Intake: M–Th 9am–2pm, Fridays by appointment only <!-- Source: https://capslo.org/40-prado-warming-center/ --> (Intake is a one-time registration process where you provide personal information, complete paperwork, and get added to the shelter system)
+      - Bed List: register for a bed before 3pm each day in person at 40 Prado or by calling [805-503-5360](tel:+1-805-503-5360) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+      - Check-In: daily before 6pm if you registered for a bed (you must arrive during check-in hours to secure a spot for that night, or your bed may be given to someone else) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+      - Shelter: 4pm–8am <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+   - Breakfast: 8–9am <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
    - Laundry services: 8am–2:30pm
-   - Day services: 8am–4pm <!-- Source: https://capslo.org/safe-parking/ -->
-   - Breakfast: before 9am <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-   - Lunch: Noon–12:30pm (open to all) <!-- https://www.slopeopleskitchen.org/serving-info -->
-   - Overnight shelter check-in: daily, 4:30–6pm (Check-in is done each day you want a bed; you must arrive during check-in hours to secure a spot for that night)
-   - Dinner: 5–5:30pm (overnight shelter and cooling center residents only)
-   - Warming Center: 7pm–8am (only when warming center is in operation) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-   - Cooling Center: 8am–6pm (only when cooling center is in operation) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-   - Safe Parking: 6pm–7pm <!-- Source: https://capslo.org/safe-parking/ -->
+   - Access Center / Day services: 8am–4pm <!-- Source: https://capslo.org/safe-parking/ confirmed by email from Cecil Hale, 5 Jan. 2026 -->
+   - Lunch: Noon; Community lunch outside (open to all): 1pm <!-- https://www.slopeopleskitchen.org/serving-info; email from Cecil Hale, 5 Jan. 2026 -->
+   - Dinner: 5pm (overnight shelter and cooling center residents only); Community dinner (outside): 5pm <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+   - Warming Center: 7pm–8am (only on days when the warming center is operating) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+   - Cooling Center: 8am–6pm (only on days when the cooling center is operating) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+   - On-Site Safe Parking: 6pm–7pm <!-- Source: https://capslo.org/safe-parking/ -->
 - **How to access:** come to the shelter during intake hours
    - To use the shelter, you must be homeless, you must have a valid photo ID, and you must not have a P.C. 290 sex offender criminal record. You must be able to care for yourself independently (bathing, feeding, dressing, etc.). There are a limited number of beds; priority is given to SLO county residents.
+   - You do not have to be homeless to use the Access Center / day services.
 - Notes:
    - operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
@@ -2541,10 +2547,11 @@ If you see one listed here that is no longer in service, please use the feedback
 
 > *See also [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
-- **Location:** <a href="#" class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">1320 Nipomo St., SLO</a> <!-- Source: I went there in person -DG -->
-- **Phone:** [805-544-4004](tel:+1-805-544-4004)
-- **Hours:** M–F 10am–3pm
-- **How to access:** Walk-ins OK
+- **Location:** <a href="#" class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">1344 Nipomo St., SLO</a> <!-- Source: email from Cecil Hale 5 Jan 2026 -->
+- **Phone:** [805-595-0963](tel:+1-805-595-0963) <!-- Source: email from Cecil Hale 5 Jan 2026 -->
+- **Hours:** M–F 10am–3pm <!-- Source: email from Cecil Hale 5 Jan 2026 -->
+- **How to access:** Walk-ins OK; registered sex offenders (290) not allowed on-site.
+- Note: operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
 <!-- Note: No dedicated webpage or direct phone extension found (as of October 2025); program operated by CAPSLO -->
 
 ## <a id="Parent-Connection-of-SLO-County">Parent Connection of SLO County</a>
@@ -2828,8 +2835,8 @@ If you see one listed here that is no longer in service, please use the feedback
    - Office: <a href="#" class="map-link" data-lat="35.255072" data-lon="-120.669130" data-zoom="17" data-label="Restorative Partners">3380 South Higuera St., SLO</a> <!-- Source: https://restorativepartners.org/ -->
 - **Phone:**
    - Office: [805-242-1272](tel:+1-805-242-1272) <!-- Source: https://restorativepartners.org/ -->
-   - Probation clients: [805-234-9071&nbsp;x171](tel:+1-805-234-9071;ext=171) <!-- Source: flyer posted in SLO Library -->
-   - CDCR clients: [805-234-9068&nbsp;x168](tel:+1-805-234-9068;ext=168)  <!-- Source: flyer posted in SLO Library -->
+   - Probation clients: [805-234-9071&#xA0;x171](tel:+1-805-234-9071;ext=171) <!-- Source: flyer posted in SLO Library -->
+   - CDCR clients: [805-234-9068&#xA0;x168](tel:+1-805-234-9068;ext=168)  <!-- Source: flyer posted in SLO Library -->
 - **Email:** [info@restorativepartners.org](mailto:info@restorativepartners.org)
 - **Hours:**
    - Drop-In Center: M–F 9am–12:30pm <!-- Source: flyer posted in SLO Library -->
@@ -2877,7 +2884,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Location:** (various; apply at <a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">40 Prado Rd., SLO</a>)
 - **Phone:**
    - [805-544-4004](tel:+1-805-544-4004) (main 40 Prado)
-   - [805-440-6168](tel:+1-805-440-6168) (Cecil Hale, Safe Parking inquiries)
+   - [805-459-1073](tel:+1-805-459-1073) (Sam Neal, Outreach & Engagement Supervisor) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
 - **How to access:** Must first complete intake at [**40 Prado Homeless Services Center**](#40-Prado), then you are referred to the rotating program on a case-by-case basis
 - **Hours:** 7pm–7am overnight only
 
