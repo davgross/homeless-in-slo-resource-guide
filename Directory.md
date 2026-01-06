@@ -14,7 +14,7 @@
       - Orientation: M–F 9am & 1pm <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
       - Intake: M–Th 9am–2pm, Fridays by appointment only <!-- Source: https://capslo.org/40-prado-warming-center/ --> (Intake is a one-time registration process where you provide personal information, complete paperwork, and get added to the shelter system)
       - Bed List: register for a bed before 3pm each day in person at 40 Prado or by calling [805-503-5360](tel:+1-805-503-5360) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
-      - Check-In: daily before 6pm if you have registered for a bed (you must arrive during check-in hours to secure a spot for that night, or your bed may be given to someone else) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
+      - Check-In: daily before 6pm if you registered for a bed (you must arrive during check-in hours to secure a spot for that night, or your bed may be given to someone else) <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
       - Shelter: 4pm–8am <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
    - Breakfast: 8–9am <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
    - Laundry services: 8am–2:30pm
