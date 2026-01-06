@@ -332,7 +332,7 @@ To get a bed, first come on-site and complete the intake process. <!-- SOURCE NE
 Thereafter, on any day when you need an overnight shelter bed, check in to secure a bed or to be placed on the waiting list. <!-- SOURCE NEEDED (issue #51) -->
 Priority is given to SLO county residents. <!-- SOURCE NEEDED (issue #51) -->
 They offer meals (breakfast, lunch, and dinner), showers, laundry, mail/phone services, an integrated medical clinic (primary and urgent care five days a week with an on-site pharmacy), recuperative care beds, and animal kennels. <!-- Source: https://capslo.org/40-prado/ -->
-To stay at the shelter, you must have a valid photo ID, you must not be a P.C. 290 registered sex offender, and you must participate in case management. <!-- SOURCE NEEDED (issue #51) -->
+To stay at the shelter, you must have a valid photo ID, and you must not be a P.C. 290 registered sex offender. <!-- SOURCE NEEDED (issue #51) -->
 You must also be able to care for yourself independently (bathing, feeding, dressing, etc.). <!-- SOURCE NEEDED (issue #51) -->
 
 The 40 Prado center is the only walk-in, overnight homeless shelter in SLO County.
@@ -379,6 +379,7 @@ You will also have access to the various other services offered at 40 Prado (suc
 Your vehicle must be registered and you must have proof of insurance. <!-- Source: https://capslo.org/safe-parking/ -->
 You must participate in case management. <!-- Source: https://capslo.org/safe-parking/ -->
 You must not be a P.C. 290 registered sex offender to use this service. <!-- SOURCE NEEDED (issue #51) -->
+You must have a vehicle to sleep in that is not a trailer. <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
 SLO county residents get priority. <!-- Source: https://friendsof40prado.org/safe-parking-program-expanded/ -->
 Contact Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) with questions. <!-- Source: https://capslo.org/safe-parking/ -->
 
@@ -587,7 +588,8 @@ Sometimes the program also has RVs available for people who are experiencing hom
 The RVs are in working condition, with no leaks; you must obtain insurance. <!-- SOURCE NEEDED -->
 
 Homeless veterans can get help from the U.S. Department of Housing and Urban Development’s V.A. Supportive Housing (VASH) program, which can give you vouchers to pay for permanent housing. <!-- Source: https://www.va.gov/homeless/hud-vash.asp -->
-Call [877-4AID-VET](tel:+1-877-424-3838) or ask for help from [**SLO County Veterans Services**](Directory.md#Veterans-Services). <!-- SOURCE NEEDED -->
+Call [877-4AID-VET](tel:+1-877-424-3838) <!-- Source: https://www.va.gov/homeless/nationalcallcenter.asp -->
+or ask for help from [**SLO County Veterans Services**](Directory.md#Veterans-Services). <!-- SOURCE NEEDED -->
 
 > See [Automobile Insurance and Repair](#auto-insurance-and-repair) for tips on how to obtain low-cost auto insurance.
 
@@ -1267,7 +1269,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 ## <a id="laundry">Laundry</a>
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers free laundry facilities every day from 8am to 4pm. <!-- SOURCE NEEDED (issue #64) for hours -->
-You do not have to be staying overnight there to use the laundry facilities, but you do need to complete their intake process first. <!-- SOURCE NEEDED (issue #64) -->
+You do not have to be staying overnight there to use the laundry facilities. <!-- SOURCE NEEDED (issue #64) -->
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the laundry facility at its Paso Robles location every Wednesday from 10am–6pm, at which outreach clients can do a single load of laundry for free (they provide detergent). <!-- Source: https://www.echoshelter.org/pasorobles -->
 
@@ -1290,7 +1292,7 @@ They operate rain-or-shine all year long including holidays. <!-- Source: person
 They also have clothing and food for guests. <!-- Source: https://805streetoutreach.org/about-us -->
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in SLO city has shower facilities that it makes available to both its overnight and its day guests. <!-- e.g. https://capslo.org/40-prado-warming-center/ -->
-You do not have to be a resident there to use the showers, but you do have to undergo their intake process. <!-- SOURCE NEEDED (issue #64) -->
+You do not have to be a resident there to use the showers. <!-- SOURCE NEEDED (issue #64) -->
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) offers hot showers five evenings a week (M–F 4–5:30pm) to anyone in need at both their Atascadero and their Paso Robles locations. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 They give you toiletries, and they also have clothing, shoes, blankets, and sleeping bags. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->

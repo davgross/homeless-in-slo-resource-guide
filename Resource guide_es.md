@@ -332,7 +332,7 @@ Para obtener una cama, primero venga al sitio y complete el proceso de admisión
 Después, cualquier día que necesite una cama de refugio nocturno, regístrese para asegurar una cama o para ser colocado en la lista de espera. <!-- SOURCE NEEDED (issue #51) -->
 Se da prioridad a los residentes del condado de SLO. <!-- SOURCE NEEDED (issue #51) -->
 Ofrecen comidas (desayuno, almuerzo y cena), duchas, lavandería, servicios de correo/teléfono, una clínica médica integrada (atención primaria y urgente cinco días a la semana con una farmacia en el lugar), camas de cuidado recuperativo y perreras para animales. <!-- Source: https://capslo.org/40-prado/ -->
-Para quedarse en el refugio, debe tener una identificación con foto válida, no debe ser un delincuente sexual registrado P.C. 290 y debe participar en administración de casos. <!-- SOURCE NEEDED (issue #51) -->
+Para quedarse en el refugio, debe tener una identificación con foto válida y no debe ser un delincuente sexual registrado P.C. 290. <!-- SOURCE NEEDED (issue #51) -->
 También debe poder cuidarse independientemente (bañarse, alimentarse, vestirse, etc.). <!-- SOURCE NEEDED (issue #51) -->
 
 El centro 40 Prado es el único refugio nocturno para personas sin hogar sin cita previa en el condado de SLO.
@@ -379,6 +379,7 @@ También tendrá acceso a los diversos otros servicios ofrecidos en 40 Prado (co
 Su vehículo debe estar registrado y debe tener prueba de seguro. <!-- Source: https://capslo.org/safe-parking/ -->
 Debe participar en administración de casos. <!-- Source: https://capslo.org/safe-parking/ -->
 No debe ser un delincuente sexual registrado P.C. 290 para usar este servicio. <!-- SOURCE NEEDED (issue #51) -->
+Debes tener un vehículo para dormir que no sea un remolque. <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
 Los residentes del condado de SLO tienen prioridad. <!-- Source: https://friendsof40prado.org/safe-parking-program-expanded/ -->
 Comuníquese con Sam Neal ([sneal@capslo.org](mailto:sneal@capslo.org), [805-459-1073](tel:+1-805-459-1073)) si tiene preguntas. <!-- Source: https://capslo.org/safe-parking/ -->
 
@@ -588,7 +589,8 @@ A veces el programa también tiene RVs disponibles para personas sin hogar que n
 Los RVs están en buenas condiciones, sin fugas; usted debe obtener seguro. <!-- SOURCE NEEDED -->
 
 Los veteranos sin hogar pueden obtener ayuda del programa V.A. Supportive Housing (VASH) del Departamento de Vivienda y Desarrollo Urbano de los Estados Unidos, que puede darle vales para pagar vivienda permanente. <!-- Source: https://www.va.gov/homeless/hud-vash.asp -->
-Llame al [877-4AID-VET](tel:+1-877-424-3838) o solicite ayuda de [**SLO County Veterans Services**](Directory.md#Veterans-Services). <!-- SOURCE NEEDED -->
+Llame al [877-4AID-VET](tel:+1-877-424-3838) <!-- Source: https://www.va.gov/homeless/nationalcallcenter.asp -->
+o solicite ayuda de [**SLO County Veterans Services**](Directory.md#Veterans-Services). <!-- SOURCE NEEDED -->
 
 > Vea [Seguro y Reparación de Automóviles](#auto-insurance-and-repair) para consejos sobre cómo obtener seguro de automóvil de bajo costo.
 
@@ -1264,7 +1266,7 @@ Las tiendas de segunda mano venden ropa usada a precios bajos.
 ## <a id="laundry">Lavandería</a>
 
 El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) ofrece instalaciones de lavandería gratis todos los días de 8am a 4pm. <!-- SOURCE NEEDED (issue #64) for hours -->
-No tiene que estar hospedándose allí para usar las instalaciones de lavandería, pero sí necesita completar su proceso de admisión primero. <!-- SOURCE NEEDED (issue #64) -->
+No tiene que estar hospedándose allí para usar las instalaciones de lavandería. <!-- SOURCE NEEDED (issue #64) -->
 
 La [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) abre la instalación de lavandería en su ubicación de Paso Robles todos los miércoles de 10am–6pm, donde los clientes de extensión pueden lavar una carga de ropa gratis (ellos proporcionan el detergente). <!-- Source: https://www.echoshelter.org/pasorobles -->
 
@@ -1287,7 +1289,7 @@ Operan llueva o haga sol todo el año incluyendo días festivos. <!-- Source: pe
 También tienen ropa y comida para los huéspedes. <!-- Source: https://805streetoutreach.org/about-us -->
 
 El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) en la ciudad de SLO tiene instalaciones de duchas que pone a disposición tanto de sus huéspedes que se quedan por la noche como de sus huéspedes de día. <!-- e.g. https://capslo.org/40-prado-warming-center/ -->
-No tiene que ser residente allí para usar las duchas, pero sí tiene que pasar por su proceso de admisión. <!-- SOURCE NEEDED (issue #64) -->
+No tiene que ser residente allí para usar las duchas. <!-- SOURCE NEEDED (issue #64) -->
 
 La [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) ofrece duchas calientes cinco tardes por semana (L–V 4–5:30pm) a cualquier persona que lo necesite en sus ubicaciones de Atascadero y Paso Robles. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 Le dan artículos de tocador, y también tienen ropa, zapatos, cobijas y sacos de dormir. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
