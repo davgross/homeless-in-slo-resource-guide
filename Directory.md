@@ -1778,8 +1778,6 @@
 ## <a id="Jewish-Family-Services">Jewish Family Services</a>
 
 - **Website:** [jccslo.com/jewish-family-services.html](https://www.jccslo.com/jewish-family-services.html)
-- **Location:** <a href="#" class="map-link" data-lat="35.277234" data-lon="-120.665549" data-zoom="17" data-label="Jewish Family Services">578 Marsh St., SLO</a>
-- **Phone:** [805-426-5465](tel:+1-805-426-5465)
 - **How to access:** Use the online form; they cannot process assistance requests by phone or email
 
 ## <a id="Judson-Terrace">Judson Terrace</a>
