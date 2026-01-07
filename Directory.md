@@ -741,7 +741,10 @@
    - Enrollment: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
    - Member services: [805-562-1698–x1](tel:+1-805-562-1698;ext=1) or [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/members/calaim/ and https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
 - **How to access:** You can submit an application online via [Covered California](https://www.coveredca.com/) or [My Benefits CalWIN](https://www.mybenefitscalwin.org/) or you can get help applying from the [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
-- Note: for CenCal Shuttle, *See [**Ride-On Transportation**](#Ride-On-Transportation)*
+- Notes:
+   - entry-point for [**Enhanced Care Management**](#Enhanced-Care-Management)
+   - entry-point for “CalAIM”
+   - for CenCal Shuttle, *See [**Ride-On Transportation**](#Ride-On-Transportation)*
 
 ## CenCal Health Transportation
 
@@ -1028,7 +1031,7 @@
    - partner in [**SLO Hub**](#SLO-Hub)
    - partner in [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
-   - entry-point for the [**Enhanced Care Management**](#Enhanced-Care-Management)
+   - entry-point for [**Enhanced Care Management**](#Enhanced-Care-Management)
    - on board of “Emergency Food and Shelter Program”
 
 ## <a id="Community-Counseling-Center">Community Counseling Center</a>
