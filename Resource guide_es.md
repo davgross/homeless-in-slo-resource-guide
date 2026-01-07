@@ -307,12 +307,12 @@ Los horarios de recogida de esas áreas son los siguientes: <!-- Source: https:/
 El centro de calefacción de [**5Cities Homeless Coalition**](Directory.md#5CHC) en <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. en Arroyo Grande</a> opera entre las 5:30pm y 7am. <!-- Source: https://5chc.org/programs/warming-center -->
 Debe registrarse entre las 5:30pm y 8pm. <!-- Source: https://www.instagram.com/countyofslo/ -->
 Las mascotas están permitidas si tiene prueba de licencia/vacunas. <!-- Source: their “warming center will be open” email 19 Nov 2025 -->
-<!-- True? You must have a valid ID. -->
 Las personas con condenas P.C. 290 no pueden ingresar al centro. <!-- Source: their “warming center will be open” email 19 Nov 2025 -->
 Llame al [805-202-3615](tel:+1-805-202-3615) para verificar que el centro esté abierto<!-- Source: https://5chc.org/programs/warming-center --> y para conocer las opciones de transporte gratuito al centro desde Grover Beach, Oceano y Pismo Beach. <!-- SOURCE NEEDED -->
 El centro de calefacción ofrece cena y un desayuno ligero. <!-- Source: https://5chc.org/programs/warming-center -->
 Envíe mensaje de texto “Add Me” al [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) para recibir actualizaciones por mensaje de texto cuando el centro de calefacción abra,<!-- Source: https://5chc.org/programs/warming-center --> o envíe un correo electrónico a [info@5chc.org](mailto:info@5chc.org) y pida que lo agreguen a su lista de notificaciones. <!-- SOURCE NEEDED -->
 Hay transporte programado disponible entre el centro de calefacción y Oceano, Grover Beach y Pismo Beach. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division -->
+<!-- True? You must have a valid ID. -->
 
 [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opera un centro de calefacción de diez camas en su ubicación de refugio de Paso Robles. <!-- SOURCE NEEDED -->
 Opera entre las 6:00pm y 7:00am. Regístrese entre las 4:30pm y 5:30pm. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
@@ -1603,7 +1603,7 @@ Puede encontrar una lista de ópticos de Medi-Cal en [provdir.cencalhealth.org](
 
 ### <a id="mental-health">Salud Mental</a>
 
-Puede obtener apoyo de salud mental las 24 horas de Central Coast Hotline ([805-783-0607](tel:+1-805-783-0607), o envíe un mensaje de texto al [741741](sms:741741)).
+Puede obtener apoyo de salud mental las 24 horas de Central Coast Hotline (llame [805-783-0607](tel:+1-805-783-0607), o envíe un mensaje de texto al [805-783-0607](sms:+1-805-783-0607)).
 
 > Para emergencias de salud mental, vea [Atención de Emergencia](#emergency-care) y [Contactos de Emergencia](#emergency-contacts).
 

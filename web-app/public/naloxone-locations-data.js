@@ -186,7 +186,7 @@ export const locations = [
     "lat": 35.119403,
     "lon": -120.612598,
     "zoom": 17,
-    "label": "Grover Beach, [SLO County Behavioral Health Drug and Alcohol Services]"
+    "label": "Grover Beach, SLO County Behavioral Health Drug and Alcohol Services"
   },
   {
     "lat": 35.028904,

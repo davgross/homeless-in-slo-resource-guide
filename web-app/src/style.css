@@ -574,6 +574,12 @@ li {
   margin-bottom: var(--spacing-sm);
 }
 
+/* Add spacing above nested lists */
+li > ul,
+li > ol {
+  margin-top: var(--spacing-sm);
+}
+
 /* Nested ordered list styling - different numbering for each level */
 ol {
   list-style-type: decimal; /* 1, 2, 3... */
