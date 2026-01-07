@@ -947,7 +947,10 @@
    - Inscripción: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
    - Servicios para miembros: [805-562-1698–x1](tel:+1-805-562-1698;ext=1) o [877-814-1861](tel:+1-877-814-1861) (L–V, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/members/calaim/ and https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
 - **Cómo obtener el servicio:** Puede enviar una solicitud en línea a través de [Covered California](https://www.coveredca.com/) o [My Benefits CalWIN](https://www.mybenefitscalwin.org/) o puede obtener ayuda para solicitarla del [**Departamento de Servicios Sociales del Condado de SLO**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
-- Nota: para el Transporte de CenCal, *Vea [**Ride-On Transportation**](#Ride-On-Transportation)*
+- Notas:
+   - el punto de entrada para “CalAIM”
+   - un punto de entrada para [**Enhanced Care Management**](#Enhanced-Care-Management)
+   - para el Transporte de CenCal, *Vea [**Ride-On Transportation**](#Ride-On-Transportation)*
 
 ## CenCal Health Transportation
 
