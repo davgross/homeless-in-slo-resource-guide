@@ -426,7 +426,7 @@ This section discusses more long-term housing options including *transitional ho
 The [**Coordinated Entry System (CES)**](Directory.md#CES) is SLO county’s system for matching people in need with transitional or long-term housing that is appropriate for them.
 If you want to get such housing, you should try to enter this system.
 This can be more effective than trying to contact the many individual transitional or long-term housing programs one at a time.
-To enter this system, contact one of the many participating agencies, such as [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter), or [**SLO County Health Department**](Directory.md#SLO-County-Health-Department). <!-- SOURCE NEEDED -->
+To enter this system, contact one of the many participating agencies, such as [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter), or [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department). <!-- SOURCE NEEDED -->
 
 A program called [**Housing Now**](Directory.md#Housing-Now) finds homes for the most vulnerable chronically homeless people from SLO County.
 You cannot apply directly to participate in this program, but if you enter the Coordinated Entry System (see above), that system may eventually place you in this program so that you can quickly get a home. <!-- SOURCE NEEDED -->
@@ -599,7 +599,7 @@ or ask for help from [**SLO County Veterans Services**](Directory.md#Veterans-Se
 
 [**SLO County Behavioral Health Department**](Directory.md#SLO-County-Behavioral-Health) contracts with sober living environments throughout SLO County (from Oceano to Paso Robles) at rates of $35–55 per day. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
 These facilities accept Medi-Cal and offer sliding scale fees based on ability to pay. <!-- SOURCE NEEDED -->
-Visit [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) or contact the Behavioral Health access line at [800-838-1381](tel:+1-800-838-1381) for referrals. <!-- SOURCE NEEDED -->
+Visit [**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) or contact the Behavioral Health access line at [800-838-1381](tel:+1-800-838-1381) for referrals. <!-- SOURCE NEEDED -->
 
 Here are some residential treatment options in SLO County:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
@@ -1586,7 +1586,7 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some 
 
 > See [Medi-Cal: Dentists](#medi-cal-dentists) above to learn how to find a Medi-Cal dental provider.
 
-A “Children’s Dental Services Grant” is available from the SLO County Oral Health Program. <!-- Source: https://www.slohealthaccess.org/dental.html -->
+For children, a “Children’s Dental Services Grant” is available from the SLO County Oral Health Program. <!-- Source: https://www.slohealthaccess.org/dental.html -->
 It helps pay for urgent dental treatment for children. <!-- Source: https://www.slohealthaccess.org/dental.html -->
 For details, contact [805-781-5503](tel:+1-805-781-5503) or [bmorrow@co.slo.ca.us](mailto:bmorrow@co.slo.ca.us). <!-- Source: https://www.slohealthaccess.org/dental.html -->
 
@@ -1606,11 +1606,11 @@ You can find a list of Medi-Cal opticians at [provdir.cencalhealth.org](https://
 
 ### <a id="mental-health">Mental Health</a>
 
-You can get 24-hour mental health support from SLO Hotline ([805-783-0607](tel:+1-805-783-0607), or text [741741](sms:741741)).
+You can get 24-hour mental health support from Central Coast Hotline ([805-783-0607](tel:+1-805-783-0607), or text [741741](sms:741741)).
 
 > For mental health emergencies, see [Emergency Care](#emergency-care) and [Emergency Contacts](#emergency-contacts).
 
-The [**Mental Health Evaluation Team / Mobile Crisis Team**](Directory.md#MHET) and [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) respond to acute mental health needs.
+The [**Mobile Crisis Team**](Directory.md#Mobile-Crisis-Team) (county-wide) and [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) (SLO city) respond to acute mental health needs.
 
 [**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) and [**Community Counseling Center**](Directory.md#Community-Counseling-Center) offer low- or no-cost mental health counseling.
 
@@ -1618,7 +1618,7 @@ A [**Community Health Centers**](Directory.md#CHC) primary care physician can re
 
 [**Cuesta College**](Directory.md#Cuesta-College) students can get mental health therapy through [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
 
-Adult Mental Health Outpatient Treatment (via [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
+Adult and Youth mental health outpatient treatment (via [**SLO County Behavioral Health Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
 and [**Transitions Mental Health Association**](Directory.md#TMHA) <!-- Source: https://www.t-mha.org/clinical-services.php -->
 and its [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
 offer mental health evaluation & treatment, including programs specifically for homeless people.
@@ -1648,8 +1648,6 @@ And [**SLO Vet Center**](Directory.md#SLO-Vet-Center) offers confidential counse
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers contraceptives, HIV screening and education, OB/GYN services, and STD testing. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) offers abortion, birth control, emergency contraception, HIV/STD testing and treatment, help with various sexual and reproductive concerns, and no-cost family planning services. <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources# -->
-
-The [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) offers STD testing and birth control. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/std-testing-and-treatment and https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/fees/family-health-services-fee-list-2023-2024 -->
 
 ### <a id="pregnancy-childbirth-lactation">Pregnancy, Childbirth, Lactation</a>
 
@@ -1851,7 +1849,7 @@ They operate the [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center) for
 
 [**SLO Bangers**](Directory.md#SLO-Bangers) runs a needle exchange program, can give you overdose prevention training, and distributes Narcan. <!-- Source: https://slobangers.com/services.html -->
 
-[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) offers medically-assisted treatment, recovery support services, and outpatient care. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
+[**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) offers medically-assisted treatment, recovery support services, and outpatient care. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
 Some of their services are available on a walk-in basis. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics -->
 They charge a sliding fee depending on ability to pay (“no clients are denied access to services due to inability to pay”). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services -->
 
@@ -1871,7 +1869,7 @@ Naloxone is an easy-to-administer medication that can save the life of someone w
 
 You can get naloxone from [**Access Support Network**](Directory.md#ASN), <!-- Source: https://accesssupportnetwork.org/programs/harm-reduction-programs/ -->
 [**SLO Bangers**](Directory.md#SLO-Bangers), <!-- Source: https://slobangers.com/services.html -->
-[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <!-- SOURCE NEEDED -->
+all [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) clinics in the county, <!-- Source: email from Caroline Schmidt, 6 January 2026 -->
 and [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) <!-- SOURCE NEEDED -->
 and [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) emergency rooms. <!-- SOURCE NEEDED -->
 You can also get free naloxone any time from these “NaloxBoxes”:
@@ -1889,6 +1887,7 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 
 **North County:**
 
+- Atascadero: [**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLO County Behavioral Health Drug and Alcohol Services">5575 Hospital Dr.</a>
 - Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.465791" data-lon="-120.648782" data-zoom="17" data-label="Department of Social Services">9630 El Camino Real</a>
 - Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Atascadero branch), <a href="#" class="map-link" data-lat="35.489118" data-lon="-120.663909" data-zoom="17" data-label="Public Library">6555 Capistrano Ave.</a>
 - Paso Robles: [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="Behavioral Health">805 4th St.</a>
@@ -1908,8 +1907,9 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
 - Maxine Lewis Grove, <a href="#" class="map-link" data-lat="35.261503" data-lon="-120.648658" data-zoom="17" data-label="Maxine Lewis Grove">732 Orcutt Rd.</a>
 - [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="Department of Social Services">3433 S. Higuera St.</a>
-- [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) (Health Campus), <a href="#" class="map-link" data-lat="35.274827" data-lon="-120.646298" data-zoom="16" data-label="Health Campus">2180 Johnson Ave.</a>
+- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) (Health Campus), <a href="#" class="map-link" data-lat="35.274827" data-lon="-120.646298" data-zoom="16" data-label="Health Campus">2180 Johnson Ave.</a>
 - [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (SLO branch), <a href="#" class="map-link" data-lat="35.282385" data-lon="-120.662284" data-zoom="17" data-label="Public Library">995 Palm St.</a>
+- [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center), <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave.</a>
 - [**Sun Street Centers**](Directory.md#Sun-Street-Centers), <a href="#" class="map-link" data-lat="35.256680" data-lon="-120.671937" data-zoom="17" data-label="Sun Street Centers">34 Prado Rd.</a>
 - The Anderson, <a href="#" class="map-link" data-lat="35.281304" data-lon="-120.661857" data-zoom="17" data-label="Anderson Hotel">965 Monterey St.</a>
 - [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.329871" data-lon="-120.740733" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
@@ -1918,7 +1918,7 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 
 - Arroyo Grande: [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), <a href="#" class="map-link" data-lat="35.192994" data-lon="-120.457449" data-zoom="15" data-label="Lopez Lake Recreation Area">6800 Lopez Dr.</a>
 - Arroyo Grande: [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.120654" data-lon="-120.597809" data-zoom="18" data-label="The Center">1152 E. Grand Ave.</a>
-- Grover Beach: Public Health, <a href="#" class="map-link" data-lat="35.119294" data-lon="-120.611992" data-zoom="17" data-label="Public Health">286 S. 16th St. Bldg A</a>
+- Grover Beach: [**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health Drug and Alcohol Services">1523 Longbranch Ave., Grover Beach</a>
 - Nipomo: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Nipomo branch), <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="Nipomo Library">918 W. Tefft St.</a>
 - Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes">1001 Pacific Blvd.</a>
 - Oceano: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (Oceano branch), <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="Oceano Library">1511 19th St.</a>
@@ -1930,7 +1930,7 @@ The “Kick It California” program can help you stop smoking ([kickitca.org](h
 The U.S. government has a similar program at [smokefree.gov](https://smokefree.gov/) or [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
-and the [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) also offer tobacco cessation help. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/quit-support -->
+and the [SLO County Tobacco Control Program](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program) also offer tobacco cessation help. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program -->
 
 The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers tobacco cessation support, resources, and programs to qualifying U.S. military veterans. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
 
@@ -4039,7 +4039,7 @@ Here are some of these local guides:
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): United Way’s directory of SLO County resources
 - [Community Support Services](https://5chc.org/community-services): a list of services available in southern SLO County, maintained by 5Cities Homeless Coalition
-- [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): SLO County Public Health Agency’s directory of resources
+- [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): SLO County Public Health Department Maternal and Child Health directory of resources
 - [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
 - [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): Faith LeGrande’s list that they put together while searching for help
 - [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html): from the “Need Help Paying Bills” website
