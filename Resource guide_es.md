@@ -426,7 +426,7 @@ Esta sección discute opciones de vivienda a más largo plazo incluyendo *vivien
 El [**Coordinated Entry System (CES)**](Directory.md#CES) es el sistema del condado de SLO para conectar a las personas necesitadas con vivienda de transición o a largo plazo que sea apropiada para ellos.
 Si desea obtener tal vivienda, debe intentar ingresar a este sistema.
 Esto puede ser más efectivo que intentar contactar a los muchos programas individuales de vivienda de transición o a largo plazo uno a la vez.
-Para ingresar a este sistema, comuníquese con una de las muchas agencias participantes, como [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) o [**SLO County Health Department**](Directory.md#SLO-County-Health-Department). <!-- SOURCE NEEDED -->
+Para ingresar a este sistema, comuníquese con una de las muchas agencias participantes, como [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), [**5Cities Homeless Coalition**](Directory.md#5CHC), [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO), [**Transitions Mental Health Association**](Directory.md#TMHA), [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) o [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department). <!-- SOURCE NEEDED -->
 
 Un programa llamado [**Housing Now**](Directory.md#Housing-Now) encuentra hogares para las personas crónicamente sin hogar más vulnerables del condado de SLO.
 No puede solicitar directamente participar en este programa, pero si ingresa al Coordinated Entry System (vea arriba), ese sistema eventualmente puede colocarlo en este programa para que pueda obtener rápidamente un hogar. <!-- SOURCE NEEDED -->
@@ -600,7 +600,7 @@ o solicite ayuda de [**SLO County Veterans Services**](Directory.md#Veterans-Ser
 
 [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health) tiene contratos con entornos de vida sobria en todo el condado de SLO (desde Oceano hasta Paso Robles) a tarifas de $35–55 por día. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
 Estas instalaciones aceptan Medi-Cal y ofrecen tarifas de escala móvil según la capacidad de pago. <!-- SOURCE NEEDED -->
-Visite [**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Salud 7 Bienestar al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
+Visite [**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Salud 7 Bienestar al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
 
 Aquí hay algunas opciones de tratamiento residencial en el condado de SLO:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
@@ -1603,11 +1603,11 @@ Puede encontrar una lista de ópticos de Medi-Cal en [provdir.cencalhealth.org](
 
 ### <a id="mental-health">Salud Mental</a>
 
-Puede obtener apoyo de salud mental las 24 horas de SLO Hotline ([805-783-0607](tel:+1-805-783-0607), o envíe un mensaje de texto al [741741](sms:741741)).
+Puede obtener apoyo de salud mental las 24 horas de Central Coast Hotline ([805-783-0607](tel:+1-805-783-0607), o envíe un mensaje de texto al [741741](sms:741741)).
 
 > Para emergencias de salud mental, vea [Atención de Emergencia](#emergency-care) y [Contactos de Emergencia](#emergency-contacts).
 
-El [**Mental Health Evaluation Team / Equipo Móvil de Respuesta a Crisis**](Directory.md#MHET) y la [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) responden a necesidades agudas de salud mental.
+El [**Equipo Móvil de Respuesta a Crisis**](Directory.md#Mobile-Crisis-Team) (toto el condado) y la [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) (ciudad de SLO) responden a necesidades agudas de salud mental.
 
 [**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) y [**El Centro de Consejería Comunitaria**](Directory.md#Community-Counseling-Center) ofrecen asesoramiento de salud mental de bajo costo o sin costo.
 
@@ -1615,7 +1615,7 @@ Un médico de atención primaria de [**Community Health Centers**](Directory.md#
 
 Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener terapia de salud mental a través de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
 
-El Tratamiento Ambulatorio de Salud Mental para Adultos (a través de [**SLO County Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
+El tratamiento ambulatorio de salud mental para adultos o jóvenes (a través de [**SLO County Behavioral Health Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
 y [**Transitions Mental Health Association**](Directory.md#TMHA) <!-- Source: https://www.t-mha.org/clinical-services.php -->
 y su [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
 ofrecen evaluación y tratamiento de salud mental, incluyendo programas específicamente para personas sin hogar.
@@ -1645,8 +1645,6 @@ Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obte
 El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece anticonceptivos, evaluación y educación sobre VIH, servicios de obstetricia/ginecología y pruebas de ETS. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) ofrece aborto, control de natalidad, anticoncepción de emergencia, pruebas y tratamiento de VIH/ETS, ayuda con diversas preocupaciones sexuales y reproductivas, y servicios de planificación familiar sin costo. <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources# -->
-
-El [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) ofrece pruebas de ETS y control de natalidad. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/std-testing-and-treatment and https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/fees/family-health-services-fee-list-2023-2024 -->
 
 ### <a id="pregnancy-childbirth-lactation">Embarazo, Parto y Lactancia</a>
 
@@ -1848,7 +1846,7 @@ Opera el [**Centro de Sobriedad SLO**](Directory.md#SLO-Sobering-Center) para so
 
 [**SLO Bangers**](Directory.md#SLO-Bangers) opera un programa de intercambio de agujas, puede darle entrenamiento para la prevención de sobredosis y distribuye Narcan. <!-- Source: https://slobangers.com/services.html -->
 
-[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) ofrece tratamiento asistido médicamente, servicios de apoyo a la recuperación y atención para pacientes externos. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
+[**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) ofrece tratamiento asistido médicamente, servicios de apoyo a la recuperación y atención para pacientes externos. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
 Algunos de sus servicios están disponibles sin cita previa. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics -->
 Cobran una tarifa variable dependiendo de la capacidad de pago (“ningún cliente es rechazado del acceso a servicios debido a la incapacidad de pagar”). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services -->
 
@@ -1868,7 +1866,7 @@ La naloxona es un medicamento fácil de administrar que puede salvar la vida de 
 
 Puede obtener naloxona de [**Access Support Network**](Directory.md#ASN), <!-- Source: https://accesssupportnetwork.org/programs/harm-reduction-programs/ -->
 [**SLO Bangers**](Directory.md#SLO-Bangers), <!-- Source: https://slobangers.com/services.html -->
-[**SLO County Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <!-- SOURCE NEEDED -->
+todas las clínicas de [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) en el condado,
 y las salas de emergencia de [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) <!-- SOURCE NEEDED -->
 y [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital). <!-- SOURCE NEEDED -->
 También puede obtener naloxona gratis en cualquier momento de estas “NaloxBoxes” (Cajas de Naloxona):
@@ -1886,6 +1884,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 
 **Condado Norte:**
 
+- Atascadero: [**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLO County Behavioral Health Drug and Alcohol Services">5575 Hospital Dr.</a>
 - Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.465791" data-lon="-120.648782" data-zoom="17" data-label="Department of Social Services">9630 El Camino Real</a>
 - Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Atascadero), <a href="#" class="map-link" data-lat="35.489118" data-lon="-120.663909" data-zoom="17" data-label="Public Library">6555 Capistrano Ave.</a>
 - Paso Robles: [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="Behavioral Health">805 4th St.</a>
@@ -1905,8 +1904,9 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
 - Maxine Lewis Grove, <a href="#" class="map-link" data-lat="35.261503" data-lon="-120.648658" data-zoom="17" data-label="Maxine Lewis Grove">732 Orcutt Rd.</a>
 - [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="Department of Social Services">3433 S. Higuera St.</a>
-- [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) (Health Campus), <a href="#" class="map-link" data-lat="35.274827" data-lon="-120.646298" data-zoom="16" data-label="Health Campus">2180 Johnson Ave.</a>
+- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) (Health Campus), <a href="#" class="map-link" data-lat="35.274827" data-lon="-120.646298" data-zoom="16" data-label="Health Campus">2180 Johnson Ave.</a>
 - [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal SLO), <a href="#" class="map-link" data-lat="35.282385" data-lon="-120.662284" data-zoom="17" data-label="Public Library">995 Palm St.</a>
+- [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center), <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave.</a>
 - [**Sun Street Centers**](Directory.md#Sun-Street-Centers), <a href="#" class="map-link" data-lat="35.256680" data-lon="-120.671937" data-zoom="17" data-label="Sun Street Centers">34 Prado Rd.</a>
 - The Anderson, <a href="#" class="map-link" data-lat="35.281304" data-lon="-120.661857" data-zoom="17" data-label="Anderson Hotel">965 Monterey St.</a>
 - [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.329871" data-lon="-120.740733" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
@@ -1915,7 +1915,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 
 - Arroyo Grande: [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), <a href="#" class="map-link" data-lat="35.192994" data-lon="-120.457449" data-zoom="15" data-label="Lopez Lake Recreation Area">6800 Lopez Dr.</a>
 - Arroyo Grande: [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.120654" data-lon="-120.597809" data-zoom="18" data-label="The Center">1152 E. Grand Ave.</a>
-- Grover Beach: Public Health, <a href="#" class="map-link" data-lat="35.119294" data-lon="-120.611992" data-zoom="17" data-label="Public Health">286 S. 16th St. Bldg A</a>
+- Grover Beach: [**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health Drug and Alcohol Services">1523 Longbranch Ave., Grover Beach</a>
 - Nipomo: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Nipomo), <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="Nipomo Library">918 W. Tefft St.</a>
 - Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes">1001 Pacific Blvd.</a>
 - Oceano: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Oceano), <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="Oceano Library">1511 19th St.</a>
@@ -1927,7 +1927,7 @@ El programa “Kick It California” puede ayudarle a dejar de fumar ([kickitca.
 El gobierno de Estados Unidos tiene un programa similar en [smokefree.gov](https://smokefree.gov/) o [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
 El [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
-y el [**SLO County Public Health Department**](Directory.md#SLO-County-Public-Health-Department) también ofrecen ayuda para dejar el tabaco. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/quit-support -->
+y el [SLO County Tobacco Control Program](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program) también ofrecen ayuda para dejar el tabaco. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program -->
 
 La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) ofrece apoyo, recursos y programas para dejar el tabaco a veteranos militares estadounidenses que califiquen. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
 
@@ -4037,7 +4037,7 @@ Aquí hay algunas de estas guías locales:
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): directorio de recursos del Condado de SLO de United Way
 - [Community Support Services](https://5chc.org/community-services): una lista de servicios disponibles en el sur del Condado de SLO, mantenida por 5Cities Homeless Coalition (Coalición para Personas sin Hogar de las 5 Ciudades)
-- [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): directorio de recursos de la Agencia de Salud Pública del Condado de SLO
+- [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): directorio de recursos del SLO County Public Health Department Maternal and Child Health
 - [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
 - [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): la lista de Faith LeGrande que elaboraron mientras buscaban ayuda
 - [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html): del sitio web “Need Help Paying Bills” (Necesita Ayuda Pagando Cuentas)
