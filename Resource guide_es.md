@@ -2755,9 +2755,6 @@ Muchos no le dan dinero directamente, sino que le ayudan a comprar bienes o paga
 Proporcionan fondos limitados para pagar facturas, o para bienes o servicios para abordar sus necesidades inmediatas como servicios públicos, transporte, reparaciones de automóviles, ropa y preparación para el empleo. <!-- Source: https://5chc.org/programs/immediate-needs -->
 No se dan fondos directamente al solicitante individual; más bien las facturas se pagan o los bienes se compran en su nombre. <!-- Source: https://5chc.org/programs/immediate-needs -->
 
-[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) tiene un [“Fondo Discrecional del Ministro”](https://uuslo.org/ministers-discretionary-fund) con el cual puede pagar necesidades de emergencia como registro de vehículos, reparación, pagos o tarifas de embargo; tarifas de almacenamiento de propiedad; viaje para atención médica; teléfonos y servicio telefónico; o suministros para vivir al aire libre.
-Envíe un correo electrónico a [minister.uuslo@gmail.com](mailto:minister.uuslo@gmail.com) si necesita tal ayuda. <!-- Source: https://uuslo.org/ministers-discretionary-fund and https://uuslo.org/contact-us -->
-
 [**Green Pastures**](Directory.md#Green-Pastures), operado por la Primera Iglesia Presbiteriana en la ciudad de SLO, ofrece micro-subvenciones para necesidades financieras como facturas de servicios públicos y facturas médicas, con un enfoque en ayudar a las personas a permanecer en sus hogares. <!-- Source: https://fpcslo.org/greenpastures -->
 Vea [su sitio web](https://fpcslo.org/greenpastures) para detalles sobre cómo y cuándo solicitar estas subvenciones.
 
