@@ -2322,7 +2322,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:** [805-549-8880](tel:+1-805-549-8880) <!-- Source: https://medstopurgentcare.com/ -->
 - **Hours:** M–F 8am–7pm, Sa.–Su. 8am–4pm <!-- Source: https://medstopurgentcare.com/ -->
 
-## Mental Health Evalutation Team
+## Mental Health Evaluation Team
 
 > *See [**Mobile Crisis Team**](#Mobile-Crisis-Team)*
 
