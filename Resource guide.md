@@ -2758,9 +2758,6 @@ Many do not give you money directly, but help you purchase goods or pay bills.
 They provide limited funds to pay for bills, or for goods or services to address their immediate needs such as utilities, transportation, auto repairs, clothing, and employment readiness. <!-- Source: https://5chc.org/programs/immediate-needs -->
 No funds are given directly to the individual applicant; rather bills are paid or goods are purchased on their behalf. <!-- Source: https://5chc.org/programs/immediate-needs -->
 
-[**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) has a [“Minister’s Discretionary Fund”](https://uuslo.org/ministers-discretionary-fund) with which it can pay for emergency needs like vehicle registration, repair, payments, or impound fees; property storage fees; travel for healthcare; phones and phone service; or supplies for living outdoors.
-Email [minister.uuslo@gmail.com](mailto:minister.uuslo@gmail.com) if you need such help. <!-- Source: https://uuslo.org/ministers-discretionary-fund and https://uuslo.org/contact-us -->
-
 [**Green Pastures**](Directory.md#Green-Pastures), operated by the First Presbyterian Church in SLO city, offers micro-grants for financial needs such as utility bills and medical bills, with a focus on helping people stay in their homes. <!-- Source: https://fpcslo.org/greenpastures -->
 See [their website](https://fpcslo.org/greenpastures) for details on how and when to apply for these grants.
 

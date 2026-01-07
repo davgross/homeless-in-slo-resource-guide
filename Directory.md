@@ -2345,10 +2345,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:** [805-544-8328](tel:+1-805-544-8328) <!-- Source: https://middlehouse.org/ -->
 - **Email:** [middlehouse93401@gmail.com](mailto:middlehouse93401@gmail.com) <!-- Source: https://middlehouse.org/ -->
 
-## Minister’s Discretionary Fund
-
-> *See [**Unitarian Universalists San Luis Obispo**](#UUSLO)*
-
 ## <a id="Mission-Thrift">Mission Thrift</a>
 
 - **Website:** [omsslo.org/apps/pages/index.jsp?uREC_ID=3643070&type=d&pREC_ID=2413322](https://www.omsslo.org/apps/pages/index.jsp?uREC_ID=3643070&type=d&pREC_ID=2413322)
@@ -3831,10 +3827,9 @@ If you see one listed here that is no longer in service, please use the feedback
    - Refugee and Immigrant Services Education: first & third Sunday each month, 12:30–2:30pm <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
 - **How to access:**
    - We Care Foodshare food pantry: arrive during hours of operation <!-- Source: https://uuslo.org/care-for-our-neighbors -->
-   - Minister’s Discretionary Fund: email with a specific request <!-- Source: https://uuslo.org/care-for-our-neighbors -->
    - Refugee and Immigrant Services Education: arrive during hours of operation (no appointment necessary) <!-- Source: https://uuslo.org/immigrant-advocacy#portal -->
 - Notes:
-   - operates the “Minister’s Discretionary Fund,” “Refugee and Immigrant Services Education,” and “We Care Foodshare” <!-- Source: https://uuslo.org/care-for-our-neighbors -->
+   - operates “Refugee and Immigrant Services Education,” and “We Care Foodshare” <!-- Source: https://uuslo.org/care-for-our-neighbors -->
    - hosts [**Shower the People**](#Shower-the-People) on Tuesdays and Thursdays <!-- Source: https://uuslo.org/care-for-our-neighbors -->
 
 ## <a id="UnitedHealthcare-Childrens-Foundation">UnitedHealthcare Children’s Foundation</a>
