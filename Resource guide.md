@@ -307,12 +307,12 @@ Pick-up times from those areas are as follows: <!-- Source: https://capslo.org/4
 The [**5Cities Homeless Coalition**](Directory.md#5CHC) warming center at <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. in Arroyo Grande</a> operates between 5:30pm and 7am. <!-- Source: https://5chc.org/programs/warming-center -->
 You must check in between 5:30pm and 8pm. <!-- Source: https://www.instagram.com/countyofslo/ -->
 Pets are OK if you have proof of license/vaccinations. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
-<!-- True? You must have a valid ID. -->
 People with P.C. 290 convictions are not allowed in the center. <!-- Source: their "warming center will be open" email 19 Nov 2025 -->
 Call [805-202-3615](tel:+1-805-202-3615) to verify the center is open<!-- Source: https://5chc.org/programs/warming-center --> and to learn about free transportation options to the center from Grover Beach, Oceano, and Pismo Beach. <!-- SOURCE NEEDED -->
 The warming center offers dinner and a light breakfast. <!-- Source: https://5chc.org/programs/warming-center -->
 Text “Add Me” to [805-295-1501](sms:+1-805-295-1501?&body=Add%20Me) to receive text updates to your phone when the Warming Center opens,<!-- Source: https://5chc.org/programs/warming-center --> or email [info@5chc.org](mailto:info@5chc.org) and ask to be added to their notification list. <!-- SOURCE NEEDED -->
 Scheduled transportation is available between the warming center and Oceano, Grover Beach, and Pismo Beach. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division -->
+<!-- True? You must have a valid ID. -->
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) runs a ten-bed warming center at its Paso Robles shelter location. <!-- SOURCE NEEDED -->
 It operates between 6:00pm and 7:00am. Check in between 4:30pm and 5:30pm. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
@@ -1606,7 +1606,7 @@ You can find a list of Medi-Cal opticians at [provdir.cencalhealth.org](https://
 
 ### <a id="mental-health">Mental Health</a>
 
-You can get 24-hour mental health support from Central Coast Hotline ([805-783-0607](tel:+1-805-783-0607), or text [741741](sms:741741)).
+You can get 24-hour mental health support from Central Coast Hotline (call [805-783-0607](tel:+1-805-783-0607), or text [805-783-0607](sms:+1-805-783-0607)).
 
 > For mental health emergencies, see [Emergency Care](#emergency-care) and [Emergency Contacts](#emergency-contacts).
 
