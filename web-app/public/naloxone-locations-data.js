@@ -33,6 +33,12 @@ export const locations = [
     "label": "Morro Bay, Public Health facility"
   },
   {
+    "lat": 35.492613,
+    "lon": -120.662895,
+    "zoom": 17,
+    "label": "Atascadero, SLO County Behavioral Health Drug and Alcohol Services"
+  },
+  {
     "lat": 35.465791,
     "lon": -120.648782,
     "zoom": 17,
@@ -132,13 +138,19 @@ export const locations = [
     "lat": 35.274827,
     "lon": -120.646298,
     "zoom": 16,
-    "label": "SLO County Public Health Department (Health Campus)"
+    "label": "SLO County Behavioral Health (Health Campus)"
   },
   {
     "lat": 35.282385,
     "lon": -120.662284,
     "zoom": 17,
     "label": "SLO County Public Libraries (SLO branch)"
+  },
+  {
+    "lat": 35.27491,
+    "lon": -120.646191,
+    "zoom": 17,
+    "label": "SLO Sobering Center"
   },
   {
     "lat": 35.25668,
@@ -171,10 +183,10 @@ export const locations = [
     "label": "Arroyo Grande, The Center for Health & Prevention (CAPSLO Clinic)"
   },
   {
-    "lat": 35.119294,
-    "lon": -120.611992,
+    "lat": 35.119403,
+    "lon": -120.612598,
     "zoom": 17,
-    "label": "Grover Beach, Public Health"
+    "label": "Grover Beach, [SLO County Behavioral Health Drug and Alcohol Services]"
   },
   {
     "lat": 35.028904,
