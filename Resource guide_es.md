@@ -2300,11 +2300,6 @@ La [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assista
 
 [**Immigrant Hope Arroyo Grande**](Directory.md#Immigrant-Hope-Arroyo-Grande) es un centro de servicios legales de inmigración que puede ayudarle con naturalización, procesamiento consular, cambios de estatus migratorio, estatus de protección temporal, DACA, renovaciones de tarjeta verde y visas. <!-- Source: https://immigranthopeag.org/ -->
 
-[**SLO College of Law**](Directory.md#SLO-College-of-Law-Legal-Clinic) realiza [clínicas de inmigración](https://montereylaw.edu/clinics/immigrationclinic.html) por teléfono o Zoom los lunes entre 4pm y 6pm. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
-Pueden ayudarle con renovación de DACA, visas, naturalización/ciudadanía y tarjetas verdes. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
-Esto cuesta $15. <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
-Programe una cita en su sitio web o llamando al [831-582-3600](tel:+1-831-582-3600). <!-- Source: https://montereylaw.edu/clinics/immigrationclinic.html -->
-
 [**SLO Superior Court**](Directory.md#SLO-Superior-Court) también tiene algunos [recursos de inmigración](https://selfhelp.courts.ca.gov/immigration) gratuitos.
 
 [**Coalición para el Éxito de Estudiantes Indocumentados de la Costa Central**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success) opera Centros Dream (o Monarch) en colegios locales (Cal Poly, Cuesta y Allan Hancock). <!-- Source: https://www.ccc-uss.org/student-resources.html -->
