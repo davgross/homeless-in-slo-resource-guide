@@ -276,6 +276,8 @@ The first step in this process is to apply for CalWORKs, which you can do online
 Contact 5CHC to arrange a confidential coordinated entry interview. <!-- https://5chc.org/programs/housing-assistance -->
 You need to bring identification, including social security cards and birth certificates for you and those living with you, an account of how much income you received during the previous three months, your lease agreement if any, and any eviction notice you received. <!-- SOURCE NEEDED -->
 
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) also operates an eviction prevention program for people in SLO city that can help you pay your rent if you received a three-day “pay rent or quit” notice. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
+
 > See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help) section for options about preventing illegal evictions.
 
 > See the [Emergency Financial Help](#emergency-financial-help) section for more possible ways to get short-term financial help in a crisis.
@@ -442,6 +444,8 @@ Contact 5CHC to arrange a confidential coordinated entry interview. <!-- Source:
 People who live in these shelters also get individualized case management services to help them find employment and long-term housing. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 There is often a long waiting list for shelter beds. <!-- SOURCE NEEDED -->
 They will not admit P.C. 290 registered sex offenders. <!-- SOURCE NEEDED -->
+
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) can help people in SLO city who are homeless or at risk of homelessness by helping to pay their security deposit, their rent, or other immediate needs. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
 
 The [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) can pay a one-time security deposit and/or last month’s rent and/or utility deposit for families who are homeless or who received a “Pay Rent or Quit” notice on their current rental home. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 To qualify you must meet CalWORKs eligibility requirements and have less than $100 in liquid assets. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
