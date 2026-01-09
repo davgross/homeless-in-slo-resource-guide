@@ -2824,6 +2824,7 @@ You must have a “referring partner” (such as a teacher, pastor, counselor, e
 
 [Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) matches with its own money the grant given by a church or other Christian organization to a disabled person who has particular financial needs associated with their disability (such as the need for assistive equipment or rehabilitative therapy). <!-- Source: https://joniandfriends.org/support/christian-fund-for-the-disabled/#awb-oc__123633 -->
 Your application to this fund must include documentation from that church or Christian organization, among other things. <!-- Source: https://joniandfriends.org/support/christian-fund-for-the-disabled/#awb-oc__123633 -->
+The fund is only available to Christians who subscribe to a particular creed that includes conservative beliefs about marriage and gender. <!-- Source: https://joniandfriends.org/wp-content/uploads/2024/10/Statement-of-Faith.pdf -->
 
 <!--
 ### Needs more research

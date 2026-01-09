@@ -2821,6 +2821,7 @@ Debe tener un “socio de referencia” (como un maestro, pastor, consejero, emp
 
 [Christian Fund for the Disabled](https://joniandfriends.org/support/christian-fund-for-the-disabled/) iguala con su propio dinero la subvención dada por una iglesia u otra organización cristiana a una persona discapacitada que tiene necesidades financieras particulares asociadas con su discapacidad (como la necesidad de equipo de asistencia o terapia de rehabilitación). <!-- Source: https://joniandfriends.org/support/christian-fund-for-the-disabled/#awb-oc__123633 -->
 Su solicitud a este fondo debe incluir documentación de esa iglesia u organización cristiana, entre otras cosas. <!-- Source: https://joniandfriends.org/support/christian-fund-for-the-disabled/#awb-oc__123633 -->
+El fondo solo está disponible para cristianos que se adhieren a un credo particular que incluye creencias conservadoras sobre el matrimonio y el género. <!-- Source: https://joniandfriends.org/wp-content/uploads/2024/10/Statement-of-Faith.pdf -->
 
 <!--
 ### Necesita más investigación
