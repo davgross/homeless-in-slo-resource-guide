@@ -276,7 +276,7 @@ The first step in this process is to apply for CalWORKs, which you can do online
 Contact 5CHC to arrange a confidential coordinated entry interview. <!-- https://5chc.org/programs/housing-assistance -->
 You need to bring identification, including social security cards and birth certificates for you and those living with you, an account of how much income you received during the previous three months, your lease agreement if any, and any eviction notice you received. <!-- SOURCE NEEDED -->
 
-[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) also operates an eviction prevention program for people in SLO city that can help you pay your rent if you have received a three-day “pay rent or quit” notice. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) also operates an eviction prevention program for people in SLO city that can help you pay your rent if you received a three-day “pay rent or quit” notice. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
 
 > See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help) section for options about preventing illegal evictions.
 
