@@ -276,6 +276,8 @@ El primer paso en este proceso es solicitar CalWORKs, lo cual puede hacer en lí
 Comuníquese con 5CHC para programar una entrevista confidencial de entrada coordinada. <!-- https://5chc.org/programs/housing-assistance -->
 Necesita traer identificación, incluyendo tarjetas de seguro social y certificados de nacimiento para usted y quienes viven con usted, un registro de cuánto ingreso recibió durante los tres meses anteriores, su contrato de arrendamiento si tiene uno, y cualquier aviso de desalojo que haya recibido. <!-- SOURCE NEEDED -->
 
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) también opera un programa de prevención de desalojos para personas en la ciudad de SLO que puede ayudarle a pagar su renta si ha recibido un aviso de tres días para pagar la renta o desocupar. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
+
 > Vea la sección [Asistencia Legal, Mediación y Protección para Víctimas de Crímenes](#legal-help) para opciones sobre cómo prevenir desalojos ilegales.
 
 > Vea la sección [Ayuda Financiera de Emergencia](#emergency-financial-help) para más formas posibles de obtener ayuda financiera a corto plazo en una crisis.
@@ -442,6 +444,8 @@ Comuníquese con 5CHC para programar una entrevista confidencial de entrada coor
 Las personas que viven en estos refugios también reciben servicios individualizados de administración de casos para ayudarles a encontrar empleo y vivienda a largo plazo. <!-- Sources: https://www.echoshelter.org/atascadero and https://www.echoshelter.org/pasorobles -->
 A menudo hay una larga lista de espera para camas de refugio. <!-- SOURCE NEEDED -->
 No admitirán a delincuentes sexuales registrados P.C. 290. <!-- SOURCE NEEDED -->
+
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) puede ayudar a personas en la ciudad de SLO que están sin hogar o en riesgo de quedarse sin hogar al ayudar a pagar su depósito de seguridad, su renta u otras necesidades inmediatas. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
 
 El [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) puede pagar un depósito de seguridad único y/o el último mes de renta y/o depósito de servicios públicos para familias sin hogar o que recibieron un aviso para pagar la renta o desocupar en su hogar de alquiler actual. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
 Para calificar debe cumplir con los requisitos de elegibilidad de CalWORKs y tener menos de $100 en activos líquidos. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
