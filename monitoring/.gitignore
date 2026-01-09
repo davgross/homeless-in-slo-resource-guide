@@ -32,3 +32,6 @@ Thumbs.db
 *~
 .vscode/
 .idea/
+
+# Changedetection.io runtime state (use changedetection-config.json instead)
+changedetection-data/url-watches.json
