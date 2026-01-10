@@ -137,6 +137,42 @@ Las buenas relaciones ayudan a todos.
 
 Manténgase en contacto con los proveedores que son especialmente útiles, incluso cuando no esté usando sus servicios activamente.
 
+<div style="border: 1px solid black; padding: 1rem 1rem 0 1rem;">
+
+#### ¿Qué es un Administrador de Casos?
+
+Un administrador de casos es un profesional que trabaja con usted para ayudarle a navegar el complicado panorama de los servicios sociales y avanzar hacia sus metas.
+Los administradores de casos trabajan en muchas organizaciones diferentes: centros de servicios para personas sin hogar, refugios, agencias de servicios sociales del condado, programas de salud mental y organizaciones sin fines de lucro.
+
+#### Qué Hacen los Administradores de Casos
+
+Los administradores de casos sirven como su guía y defensor dentro del sistema de servicios.
+Le ayudan a evaluar su situación, identificar sus metas (como encontrar vivienda, obtener beneficios o recibir tratamiento) y crear un plan para lograrlas.
+Le conectan con recursos que quizás no conozca, le ayudan a completar solicitudes, dan seguimiento en su nombre y resuelven problemas cuando algo sale mal.
+
+Un buen administrador de casos lleva el control de las muchas partes de su situación—su búsqueda de vivienda, sus solicitudes de beneficios, sus citas médicas—para que usted no tenga que hacer malabares con todo solo.
+
+#### Cómo Obtener un Administrador de Casos
+
+Puede solicitar servicios de administración de casos en la mayoría de los centros de servicios para personas sin hogar y refugios del Condado de SLO:
+
+- [**40 Prado Homeless Services Center**](Directory.md#40-Prado) (SLO)
+- [**5Cities Homeless Coalition**](Directory.md#5CHC) (Grover Beach)
+- [**ECHO**](Directory.md#ECHO) (Atascadero/Paso Robles)
+- [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) (Santa Maria)
+
+También se le puede asignar un administrador de casos cuando ingrese a ciertos programas—por ejemplo, el [**Coordinated Entry System**](Directory.md#CES) para vivienda, un programa de vivienda de transición o un programa de tratamiento de salud conductual.
+
+#### Por Qué Importan los Administradores de Casos
+
+El sistema de servicios sociales está fragmentado y es confuso.
+Diferentes agencias manejan diferentes necesidades, cada una con sus propias reglas de elegibilidad, procesos de solicitud y listas de espera.
+Un administrador de casos puede ayudarle a navegar este laberinto, abogar por usted cuando encuentre obstáculos y evitar que sus diversas solicitudes y citas se pierdan.
+
+Tener un administrador de casos no garantiza el éxito—la vivienda y otros recursos siguen siendo escasos—pero sí mejora sus posibilidades.
+Los administradores de casos conocen el sistema, saben a qué puertas tocar y a menudo pueden acelerar procesos o identificar recursos que usted no encontraría por su cuenta.
+</div>
+
 ### <a id="manage-appointments">Maneje Sus Citas y Compromisos</a>
 
 Configure alarmas en su teléfono o pida llamadas de recordatorio cuando estén disponibles para no perder sus citas.

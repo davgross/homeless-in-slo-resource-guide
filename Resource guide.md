@@ -137,6 +137,42 @@ Good relationships help everyone.
 
 Stay in touch with providers who are especially helpful, even when you’re not actively using their services.
 
+<div style="border: 1px solid black; padding: 1rem 1rem 0 1rem;">
+
+#### What is a Case Manager?
+
+A case manager is a professional who works with you to help you navigate the complicated landscape of social services and work toward your goals.
+Case managers are employed by many different organizations—homeless service centers, shelters, county social services agencies, mental health programs, and nonprofits.
+
+#### What Case Managers Do
+
+Case managers serve as your guide and advocate within the service system.
+They help you assess your situation, identify your goals (such as finding housing, obtaining benefits, or getting treatment), and create a plan to achieve them.
+They connect you with resources you might not know about, help you complete applications, follow up on your behalf, and troubleshoot when things go wrong.
+
+A good case manager keeps track of the many moving parts of your situation—your housing search, your benefits applications, your medical appointments—so that you do not need to juggle everything alone.
+
+#### How to Get a Case Manager
+
+You can request case management services at most homeless service centers and shelters in SLO County:
+
+- [40 Prado Homeless Services Center](Directory.md#40-Prado) (SLO)
+- [5Cities Homeless Coalition](Directory.md#5CHC) (Grover Beach)
+- [ECHO](Directory.md#ECHO) (Atascadero/Paso Robles)
+- [Good Samaritan Shelter](Directory.md#Good-Samaritan-Shelter) (Santa Maria)
+
+You may also be assigned a case manager when you enter certain programs—for example, the [**Coordinated Entry System**](Directory.md#CES) for housing, a transitional housing program, or a behavioral health treatment program.
+
+#### Why Case Managers Matter
+
+The social services system is fragmented and confusing.
+Different agencies handle different needs, each with its own eligibility rules, application processes, and waiting lists.
+A case manager can help you navigate this maze, advocate for you when you encounter obstacles, and keep your various applications and appointments from falling through the cracks.
+
+Having a case manager doesn’t guarantee success—housing and other resources remain scarce—but it does improve your chances.
+Case managers know the system, know which doors to knock on, and can often expedite processes or identify resources you wouldn’t find on your own.
+</div>
+
 ### <a id="manage-appointments">Manage Appointments and Commitments</a>
 
 Set phone alarms or ask for reminder calls when they are available so you do not miss appointments.
