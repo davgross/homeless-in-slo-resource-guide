@@ -148,7 +148,7 @@ Case managers are employed by many different organizations—homeless service ce
 
 Case managers serve as your guide and advocate within the service system.
 They help you assess your situation, identify your goals (such as finding housing, obtaining benefits, or getting treatment), and create a plan to achieve them.
-They connect you with resources you might not know about, help you fill out applications, follow up on your behalf, and troubleshoot when things go wrong.
+They connect you with resources you might not know about, help you complete applications, follow up on your behalf, and troubleshoot when things go wrong.
 
 A good case manager keeps track of the many moving parts of your situation—your housing search, your benefits applications, your medical appointments—so that you do not need to juggle everything alone.
 
