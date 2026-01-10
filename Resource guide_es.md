@@ -2776,7 +2776,7 @@ Llame para hacer una cita.
 [**Loaves & Fishes (Paso Robles)**](Directory.md#Loaves-and-Fishes-Paso-Robles) puede ayudar a personas de medios limitados con alimentos y otros servicios. <!-- SOURCE NEEDED -->
 Use el [formulario de contacto](https://loavesandfishespaso.org/contact/) en su sitio web para solicitar una cita.
 
-El Centro de Recursos [**Los Osos Cares**](Directory.md#Los-Osos-Cares) puede dar asistencia de necesidades inmediatas a personas en Los Osos, Baywood Park, Morro Bay, Cayucos, Cambria y esa región general. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that “immediate needs assistance” is vague and it’s unclear if it really applies to this section -->
+El Centro de Recursos [**Los Osos Cares**](Directory.md#Los-Osos-Cares) puede dar asistencia de necesidades inmediatas a personas en Los Osos, Morro Bay y Cayucos. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that “immediate needs assistance” is vague and it’s unclear if it really applies to this section -->
 
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) ofrece asistencia con tarjeta de gasolina prepagada una vez al año para personas en el Condado de SLO que necesitan ayuda con costos de transporte.
 [Presente una solicitud en su sitio web](https://www.jccslo.com/gas.html).

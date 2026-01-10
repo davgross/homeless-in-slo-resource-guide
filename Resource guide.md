@@ -2779,7 +2779,7 @@ Call to make an appointment.
 [**Loaves & Fishes (Paso Robles)**](Directory.md#Loaves-and-Fishes-Paso-Robles) can help people of limited means with groceries and other services. <!-- SOURCE NEEDED -->
 Use the [contact form](https://loavesandfishespaso.org/contact/) on their website to request an appointment.
 
-The [**Los Osos Cares**](Directory.md#Los-Osos-Cares) Resource Center can give immediate needs assistance to people in Los Osos, Baywood Park, Morro Bay, Cayucos, Cambria, and that general region. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that "immediate needs assistance" is vague and it's unclear if it really applies to this section -->
+The [**Los Osos Cares**](Directory.md#Los-Osos-Cares) Resource Center can give immediate needs assistance to people in Los Osos, Morro Bay, and Cayucos. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that "immediate needs assistance" is vague and it's unclear if it really applies to this section; "Los Osos, Morro Bay, and Cayucos" confirmed by "Barbara" via feedback form on 10 Jan 2026 -->
 
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) offers once-per-year pre-paid gas card assistance for people in SLO County who need help with transportation costs.
 [Submit an application on their website](https://www.jccslo.com/gas.html).
