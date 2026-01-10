@@ -321,6 +321,9 @@ Opera entre las 6:00pm y 7:00am. Regístrese entre las 4:30pm y 5:30pm. <!-- Sou
 También le servirán una comida. <!-- Source: https://www.echoshelter.org/pasorobles -->
 No se permiten perros excepto perros de servicio en el centro de calefacción. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
 
+[**Paso Cares**](Directory.md#Paso-Cares) también opera a veces un centro de calefacción dirigido por voluntarios en Paso Robles. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division -->
+Su ubicación cambia de noche a noche, así que comuníquese con ellos para saber si está abierto y en qué ubicación. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division -->
+
 [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) opera un centro de enfriamiento con aire acondicionado cuando la temperatura afuera supera los 90°F. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
 No tiene que ser miembro del centro para personas mayores para refugiarse allí cuando el centro de enfriamiento esté abierto. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
 

@@ -321,6 +321,9 @@ It operates between 6:00pm and 7:00am. Check in between 4:30pm and 5:30pm. <!-- 
 They will also serve you a meal. <!-- Source: https://www.echoshelter.org/pasorobles -->
 No dogs except for service dogs are allowed in the warming center. <!-- Source: https://www.instagram.com/countyofslo/p/DRDll_MD2FV/ -->
 
+[**Paso Cares**](Directory.md#Paso-Cares) sometimes also operates a volunteer-run warming center in Paso Robles. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division -->
+Its location changes from night to night, so contact them to learn if it is open and at what location. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division -->
+
 [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) operates an air-conditioned cooling center any time the temperature is above 90°F outside. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
 You do not have to be a senior center member to shelter there when the cooling center is open. <!-- Source: https://nipomoseniorcenter.org/welcome-to-http-nipomoseniorcenter-org/about-us -->
 
