@@ -3647,11 +3647,9 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="Steves-Recycling">Steve’s Recycling</a>
 
-<!-- Note: No website found (as of October 2025) -->
-<!-- This seems iffy. I don't see a lot of current references to it. -DG -->
 - **Location:** <a href="#" class="map-link" data-lat="35.311838" data-lon="-120.829993" data-zoom="17" data-label="Steve’s Recycling — Los Osos">1130 Los Osos Valley Rd., Los Osos</a> <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
 - **Phone:** [805-801-1627](tel:+1-805-801-1627) <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
-- **Hours:** Sa 9am–11am <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
+- **Hours:** Sa 9am–10am <!-- Source: verified by phone on 12 Jan. 2026 -->
 - Notes: CRV recycling for cash (5¢ for containers <24oz, 10¢ for ≥24oz)
 
 ## <a id="Sunny-Acres">Sunny Acres</a>

@@ -833,7 +833,7 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Arroyo Grande  | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church) (residentes de South County solamente; traiga identificación con foto)                   | martes–jueves 4–5pm |
 | Arroyo Grande  | [**Salvation Army**](Directory.md#Salvation-Army)                                                                                                      | lunes, miércoles, viernes 10am–mediodía |
 | Atascadero     | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                                                                          | jueves 1–2pm |
-| Atascadero     | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero) (residentes de North County solamente)                                             | lunes–viernes 1–3pm |
+| Atascadero     | “ALF” también conocida como [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero) (residentes de North County solamente)                  | lunes–viernes 1–3pm |
 | Atascadero     | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                                                                                | martes 5–6pm y miércoles 6–6:30pm, o con cita |
 | Atascadero     | [**Restoration Church**](Directory.md#Restoration-Church)                                                                                              | primer sábado del mes 1–2:30pm |
 | Cal Poly       | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) (para estudiantes y personal de Cal Poly)                                               | lunes–viernes 8:30am–6pm |
