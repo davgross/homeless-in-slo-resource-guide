@@ -818,9 +818,9 @@
 
 ## <a id="Cambria-Recycling-Center">Cambria Recycling Center</a>
 
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.563214" data-lon="-121.091796" data-zoom="17" data-label="Cambria Recycling Center">1275 Tamson St., Cambria</a> <!-- Source: https://sloiwma.recyclist.co/guide/beverage-containers/ -->
-- **Teléfono:** [805-550-5489](tel:+1-805-550-5489) <!-- Source: https://sloiwma.recyclist.co/guide/beverage-containers/ -->
-- **Horario:** Ma–S 10am–4pm <!-- Source: https://sloiwma.recyclist.co/guide/beverage-containers/ -->
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.563214" data-lon="-121.091796" data-zoom="17" data-label="Cambria Recycling Center">1275 Tamson Dr., Cambria</a> <!-- Source: recording at the phone number, reviewed 12 Jan. 2026 -->
+- **Teléfono:** [805-459-7512](tel:+1-805-459-7512)
+- **Horario:** Ma–S 10am–4pm <!-- Source: recording at the phone number, reviewed 12 Jan. 2026 -->
 
 ## <a id="Cambrias-Anonymous-Neighbors">Cambria’s Anonymous Neighbors (CAN)</a>
 
