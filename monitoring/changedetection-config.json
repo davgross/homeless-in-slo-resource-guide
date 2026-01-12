@@ -1058,61 +1058,68 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".page-wrapper",
+        ".phone > a:nth-child(3)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "form"
+      ],
       "url": "https://eckerd.org/jobs-training/online-application/"
     },
     "097d4eae-ffcf-4fac-97eb-2bc9b8a7f963": {
@@ -2658,9 +2665,64 @@
       "url": "https://www.slocounty.ca.gov/departments/social-services/our-locations"
     },
     "14e44e86-75d6-494a-b860-10052e3f0380": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".grid-rows-\\[1fr_auto\\] > div:nth-child(2)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4405,58 +4467,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "article"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4690,58 +4755,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "address"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -5557,58 +5625,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".btContent"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -6617,9 +6688,64 @@
       "url": "https://www.plannedparenthood.org/planned-parenthood-california-central-coast"
     },
     "340f3dbc-47df-4b2b-9eb6-16f5d6d4399b": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -8605,58 +8731,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#ColumnTwoThreeWrap"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -11912,58 +12041,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "section.y-css-1790tv2:nth-child(3)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -12385,58 +12517,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".entry-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -19932,6 +20067,58 @@
       "url": "https://recycleca.org/business/recycle-101-inc"
     },
     "86a9cbb6-697f-46f2-959c-9a8fb141adb5": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -20495,58 +20682,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -21549,58 +21739,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".nav-info"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -23364,58 +23557,62 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".vc_custom_1727737630460 > div:nth-child(1)",
+        ".vc_custom_1727737606574 > div:nth-child(1)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -23583,9 +23780,64 @@
       "url": "https://www.ccc-uss.org/"
     },
     "a03205e4-4e81-453f-b72d-7f3317ea847a": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -25387,9 +25639,65 @@
       "url": "https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/mental-health-evaluation-team-(mhet)"
     },
     "ad7056ef-a3cf-496d-9a9e-c34f5723bca4": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.paragraph:nth-child(3)",
+        ".wsite-footer > div:nth-child(2)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -26459,6 +26767,11 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.vc_row:nth-child(14)",
+        "div.vc_row:nth-child(15)",
+        "#text-5"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -27795,58 +28108,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".contentInner"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -28415,12 +28731,70 @@
       "url": "https://trinitylososos.org/"
     },
     "c2665d01-fd12-42ad-b87c-84b3311cd067": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#comp-mdf2nhkm"
+      ],
       "url": "https://www.smartsharehousingsolutions.org/co-living-collaborative"
     },
     "c2891f7e-134a-4d77-8d1c-1dc39507283a": {
@@ -30837,9 +31211,66 @@
       "url": "https://www.haslo.org/housing-options-copy"
     },
     "d4383d25-e219-4af0-abcc-5a5315bb1093": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".et_pb_text_1 > div:nth-child(1)",
+        "div.et_pb_section:nth-child(6)",
+        ".et_pb_column_3_tb_footer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -33013,9 +33444,64 @@
       "url": "https://www.ppsslo.org/blank"
     },
     "e13533bb-4331-45b9-932d-4b594fe2f112": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -34640,12 +35126,72 @@
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php?option=com_cpx&task=search.query&code=PH-7000"
     },
     "ecf3e494-f2b1-4735-bcae-f3ddf9d9aabd": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#comp-jkv1ihc1",
+        "#comp-jkv1is2f",
+        "footer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#comp-lwnb3j6q"
+      ],
       "url": "https://www.smartsharehousingsolutions.org/contact"
     },
     "ed509b81-3ff5-4c4b-bccf-163d54e69a55": {
@@ -35851,61 +36397,68 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#av_section_3",
+        "footer"
+      ],
       "url": "https://californiafarmworkers.org/what-we-do/civil-assistance-program/"
     },
     "f2c30cad-2b16-49af-a5fb-b4cc72d25c17": {
@@ -36152,12 +36705,71 @@
       "url": "https://5chc.org/programs"
     },
     "f3bebc98-52ff-42a8-b9af-737bc7ac6a24": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#s123PjaxMainContainer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "footer",
+        "#section-5b44772188b25"
+      ],
       "url": "https://www.scpk.org/"
     },
     "f3caf908-3389-4bec-b141-c64c953144cd": {
@@ -36609,58 +37221,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -37027,9 +37642,64 @@
       "url": "https://www.plannedparenthood.org/planned-parenthood-california-central-coast/contact-us"
     },
     "f8c9da88-2e26-43f9-b2cc-10d4c3512861": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -37394,58 +38064,62 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main",
+        "#text-3"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -37608,9 +38282,64 @@
       "url": "https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/quality-support-services/patients-rights-advocate"
     },
     "fde0f495-56f0-4211-afae-e0a009eaf233": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",

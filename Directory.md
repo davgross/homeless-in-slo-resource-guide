@@ -55,7 +55,7 @@
    - [shelter@5chc.org](mailto:shelter@5chc.org) (warming center) <!-- Source: https://5chc.org/sites/default/files/2024-02/New%20Warming%20Center%20Talking%20Points.pdf -->
 - Notes:
    - operates [**Cabins for Change**](#Cabins-for-Change) and “Balay Ko on Barka” a.k.a. “My Home for Hope”
-   - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
+   - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families) <!-- Source: https://5chc.org/programs/ssvf-supportive-services-for-veteran-families -->
    - operates “Homeless Youth Outreach”
    - hosts the “Pet Resource Center” of [**C.A.R.E.4Paws**](#C.A.R.E.4Paws) <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
@@ -3696,7 +3696,7 @@ If you see one listed here that is no longer in service, please use the feedback
    - **Email:** [gsepulveda@capslo.org](mailto:gsepulveda@capslo.org)<!-- Source: gsepulveda@capslo.org -->, [jerwin@capslo.org](mailto:jerwin@capslo.org)
 - Notes:
    - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) <!-- Source: https://capslo.org/ssvf/ -->
-   - Operated by [**5Cities Homeless Coalition**](#5CHC) with [**Good Samaritan Shelter**](#Good-Samaritan-Shelter)
+   - Operated by [**5Cities Homeless Coalition**](#5CHC) with [**Good Samaritan Shelter**](#Good-Samaritan-Shelter) <!-- Source: https://5chc.org/programs/ssvf-supportive-services-for-veteran-families -->
 
 ## Surgery Without Medical Insurance
 
