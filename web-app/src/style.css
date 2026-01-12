@@ -400,6 +400,7 @@ a[href^="tel:"] {
   cursor: pointer;
   line-height: inherit;
   white-space: normal;
+  word-break: keep-all;
 }
 
 a[href^="tel:"]::before {
@@ -431,6 +432,7 @@ a[href^="mailto:"] {
   cursor: pointer;
   line-height: inherit;
   white-space: normal;
+  word-break: keep-all;
 }
 
 a[href^="mailto:"]::before {
