@@ -1188,7 +1188,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="Clínica Móvil de Vituity Cares">995 Palm St., SLO</a>
 - **Teléfono:** [480-828-4319](tel:+1-480-828-4319) <!-- Source: https://vituitycares.org/contact-us/ -->
 - **Correo electrónico:** [vituitycares@gmail.com](mailto:vituitycares@gmail.com) <!-- Source: https://vituitycares.org/contact-us/ -->
-- **Horario:** el segundo domingo del mes, 12:30–3:30 pm
+- **Horario:** el segundo domingo del mes, 10am–1pm
 
 ## <a id="Central-Coast-Coalition-for-Undocumented-Student-Success">Coalición para el Éxito de Estudiantes Indocumentados de la Costa Central</a>
 
@@ -1664,7 +1664,7 @@
 
 ## Food Bank
 
-> *Vea [**SLO Food Bank**](#SLO Food Bank)*
+> *Vea [**SLO Food Bank**](#SLO-Food-Bank)*
 
 ## <a id="Food-Not-Bombs">Food Not Bombs</a>
 
