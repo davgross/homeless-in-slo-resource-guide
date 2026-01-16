@@ -55,9 +55,7 @@
    - [shelter@5chc.org](mailto:shelter@5chc.org) (centro de calefacción) <!-- Source: https://5chc.org/sites/default/files/2024-02/New%20Warming%20Center%20Talking%20Points.pdf -->
 - Notas:
    - opera [**Cabins for Change**](#Cabins-for-Change) y “Balay Ko on Barka” también conocido como “My Home for Hope”
-   - opera [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families) <!-- Source: https://5chc.org/programs/ssvf-supportive-services-for-veteran-families -->
    - opera “Homeless Youth Outreach”
-   - alberga el “Pet Resource Center” de [**C.A.R.E.4Paws**](#C.A.R.E.4Paws) <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
    - punto de entrada para el [**Coordinated Entry System (CES)**](#CES)
 
 ## 70 Now
@@ -1192,7 +1190,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="Clínica Móvil de Vituity Cares">995 Palm St., SLO</a>
 - **Teléfono:** [480-828-4319](tel:+1-480-828-4319) <!-- Source: https://vituitycares.org/contact-us/ -->
 - **Correo electrónico:** [vituitycares@gmail.com](mailto:vituitycares@gmail.com) <!-- Source: https://vituitycares.org/contact-us/ -->
-- **Horario:** el segundo domingo del mes, 12:30–3:30 pm
+- **Horario:** el segundo domingo del mes, 10am–1pm
 
 ## <a id="Central-Coast-Coalition-for-Undocumented-Student-Success">Coalición para el Éxito de Estudiantes Indocumentados de la Costa Central</a>
 
@@ -1668,7 +1666,7 @@
 
 ## Food Bank
 
-> *Vea [**SLO Food Bank**](#SLO Food Bank)*
+> *Vea [**SLO Food Bank**](#SLO-Food-Bank)*
 
 ## <a id="Food-Not-Bombs">Food Not Bombs</a>
 
@@ -3693,7 +3691,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - **Correo electrónico:** [gsepulveda@capslo.org](mailto:gsepulveda@capslo.org)<!-- Source: gsepulveda@capslo.org -->, [jerwin@capslo.org](mailto:jerwin@capslo.org)
 - Notas:
    - operado por [**Community Action Partnership San Luis Obispo**](#CAPSLO) <!-- Source: https://capslo.org/ssvf/ -->
-   - operado por [**5Cities Homeless Coalition**](#5CHC) with [**Good Samaritan Shelter**](#Good-Samaritan-Shelter) <!-- Source: https://5chc.org/programs/ssvf-supportive-services-for-veteran-families -->
+   - operado por [**Good Samaritan Shelter**](#Good-Samaritan-Shelter) <!-- Source: https://www.goodsamaritanshelter.org/housing-support-services -->
 
 ## Surgery Without Medical Insurance
 

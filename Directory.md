@@ -55,9 +55,7 @@
    - [shelter@5chc.org](mailto:shelter@5chc.org) (warming center) <!-- Source: https://5chc.org/sites/default/files/2024-02/New%20Warming%20Center%20Talking%20Points.pdf -->
 - Notes:
    - operates [**Cabins for Change**](#Cabins-for-Change) and “Balay Ko on Barka” a.k.a. “My Home for Hope”
-   - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families) <!-- Source: https://5chc.org/programs/ssvf-supportive-services-for-veteran-families -->
    - operates “Homeless Youth Outreach”
-   - hosts the “Pet Resource Center” of [**C.A.R.E.4Paws**](#C.A.R.E.4Paws) <!-- Source: https://care4paws.org/help-for-unhoused-families/ -->
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
 
 ## 70 Now
@@ -107,7 +105,7 @@
       - Tuesdays 9:30–11:30am at <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">1320 Nipomo St. in SLO</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - Wednesdays 11:30am–1:30pm at Paso Robles [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr.</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - Wednesdays 3–6pm at Atascadero [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave.</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - Second Sunday of the Month at the <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library on Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
+      - Second Sunday of the Month 10am–1pm at the <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library on Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
 - **Phone:** [805-781-3660](tel:+1-805-781-3660) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Email:** [theasnsupp@gmail.com](mailto:theasnsupp@gmail.com) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Hours:** M–F 9am–5pm <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
@@ -1405,7 +1403,7 @@
 
 ## Food Bank
 
-> *See [**SLO Food Bank**](#SLO Food Bank)*
+> *See [**SLO Food Bank**](#SLO-Food-Bank)*
 
 ## <a id="Food-Not-Bombs">Food Not Bombs</a>
 
@@ -3701,7 +3699,7 @@ If you see one listed here that is no longer in service, please use the feedback
    - **Email:** [gsepulveda@capslo.org](mailto:gsepulveda@capslo.org)<!-- Source: gsepulveda@capslo.org -->, [jerwin@capslo.org](mailto:jerwin@capslo.org)
 - Notes:
    - Operated by [**Community Action Partnership San Luis Obispo**](#CAPSLO) <!-- Source: https://capslo.org/ssvf/ -->
-   - Operated by [**5Cities Homeless Coalition**](#5CHC) with [**Good Samaritan Shelter**](#Good-Samaritan-Shelter) <!-- Source: https://5chc.org/programs/ssvf-supportive-services-for-veteran-families -->
+   - Operated by [**Good Samaritan Shelter**](#Good-Samaritan-Shelter) <!-- Source: https://www.goodsamaritanshelter.org/housing-support-services -->
 
 ## Surgery Without Medical Insurance
 
@@ -3964,7 +3962,7 @@ There are several urgent care options, including:
 - **Location:** <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="Vituity Cares Mobile Clinic">995 Palm St., SLO</a>
 - **Phone:** [480-828-4319](tel:+1-480-828-4319) <!-- Source: https://vituitycares.org/contact-us/ -->
 - **Email:** [vituitycares@gmail.com](mailto:vituitycares@gmail.com) <!-- Source: https://vituitycares.org/contact-us/ -->
-- **Hours:** Second Sunday of the month, 12:30–3:30 pm
+- **Hours:** Second Sunday of the month, 10am–1pm
 
 ## <a id="Helping-Friends-Program">Voice for the Animals Helping Friends Program</a>
 

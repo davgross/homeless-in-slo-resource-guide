@@ -941,7 +941,7 @@ You can apply for CalFresh online at either of the following sites:
 
 You can also apply in person at the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/calfresh/services/calfresh-food-assistance -->
 
-If you are a Cal Poly student, you can get assistance from the [Cal Poly CalFresh Program](https://www.calfreshcalpoly.org/).
+If you are a Cal Poly student, you can get assistance from the [Cal Poly CalFresh Program](https://www.calfreshcalpoly.org/) ([805-399-0236](tel:+1-805-399-0236) or [calfresh@calpoly.edu](mailto:calfresh@calpoly.edu)).
 
 You will need some identification document, proof of income, and (for students) indication of student status, and (for non-citizens) immigration status. <!-- Source: https://www.getcalfresh.org/en/faq -->
 Suitable proof of income includes pay stubs from last 30 days, an employer letter on company letterhead, tax forms (1040, W-2, 1099), self-employment profit/loss statement or ledger, or a signed written statement if you do not have those documents. <!-- SOURCE NEEDED -->
