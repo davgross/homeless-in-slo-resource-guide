@@ -268,6 +268,10 @@
    - Central Coast Intergroup office: M–F Noon–6pm, Sa 1–4pm <!-- Source: https://www.sloaa.org/ -->
    - Individual meetings: [many hours and locations](https://www.sloaa.org/meetings/)
 
+## ALF Food Pantry
+
+> *See [**Loaves & Fishes (Atascadero)**](#Loaves-and-Fishes-Atascadero)*
+
 ## <a id="APA">Alliance for Pharmaceutical Access</a>
 
 - **Website:** [apameds.org/for-clients](https://apameds.org/for-clients/)
@@ -973,7 +977,7 @@
 ## <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a>
 
 - **Website:** [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
-- **Location:** <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes RV Park">1001 Pacific Blvd.</a>
+- **Location:** <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes RV Park">1001 Pacific Blvd., Oceano</a>
 - **Phone:**
    - Park ranger office [805-781-4900](tel:+1-805-781-4900) <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ --> M–Th 8am–4:30pm; F–Su 8am–6pm
    - Reservations: [805-781-5930](tel:+1-805-781-5930)
@@ -2178,7 +2182,9 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:** [805-461-1504](tel:+1-805-461-1504) <!-- Source: https://alffoodpantry.org/ -->
 - **Email:** [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org) <!-- Source: https://alffoodpantry.org/ -->
 - **Hours** (food pantry): M–F 1–3pm <!-- Source: https://alffoodpantry.org/need-food -->
-- Notes: Not affiliated with [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
+- Notes:
+  - Not affiliated with [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
+  - Also known as “ALF Food Pantry”
 
 ## <a id="Loaves-and-Fishes-Paso-Robles">Loaves & Fishes (Paso Robles)</a>
 
@@ -2186,7 +2192,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Location:** <a href="#" class="map-link" data-lat="35.642136" data-lon="-120.692363" data-zoom="17" data-label="Loaves and Fishes (Paso Robles)">2650 Spring St., Paso Robles</a> <!-- Source: https://loavesandfishespaso.org/ -->
 - **Phone:** [805-238-4742](tel:+1-805-238-4742) <!-- Source: https://loavesandfishespaso.org/contact/ -->
 - **Hours:** M–Th 2pm–4pm, or by appointment <!-- Source: https://loavesandfishespaso.org/ -->
-- Notes: Not affiliated with [**Loaves & Fishes (Atascadero)**](#Loaves-and-Fishes-Atascadero)
+- Note: Not affiliated with [**Loaves & Fishes (Atascadero)**](#Loaves-and-Fishes-Atascadero)
 
 ## <a id="Long-Term-Care-Ombudsman">Long Term Care Ombudsman</a>
 
@@ -2321,7 +2327,7 @@ If you see one listed here that is no longer in service, please use the feedback
 ## <a id="MedStop">MedStop</a>
 
 - **Website:** [medstopurgentcare.com](https://medstopurgentcare.com/)
-- **Location:** 283 Madonna Rd. Suite B (Madonna Plaza), SLO <!-- Source: https://medstopurgentcare.com/ -->
+- **Location:** <a href="#" class="map-link" data-lat="35.261320" data-lon="-120.676364" data-zoom="17" data-label="MedStop">283 Madonna Rd. Suite B</a> (Madonna Plaza), SLO <!-- Source: https://medstopurgentcare.com/ -->
 - **Phone:** [805-549-8880](tel:+1-805-549-8880) <!-- Source: https://medstopurgentcare.com/ -->
 - **Hours:** M–F 8am–7pm, Sa.–Su. 8am–4pm <!-- Source: https://medstopurgentcare.com/ -->
 
@@ -3080,7 +3086,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Locations:**
    - <a href="#" class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">3232 S. Higuera St. #101D, SLO</a> <!-- Source: https://www.slolaf.org/programs -->
-   - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://www.slolaf.org/programs -->
+   - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Senior Legal Services Project">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://www.slolaf.org/programs -->
    - Also operates clinics at various Senior Centers and similar sites
 - **Phone:** [805-543-5140](tel:+1-805-543-5140) <!-- Source: https://www.slolaf.org/seniorlaw -->
 - **Email:** [intake@slolaf.org](mailto:intake@slolaf.org) <!-- Source: https://www.slolaf.org/seniorlaw -->
@@ -3568,7 +3574,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Location:** <a href="#" class="map-link" data-lat="35.275984" data-lon="-120.668482" data-zoom="17" data-label="SLO Thrift">445 Higuera St., SLO</a> <!-- Source: https://slothrift.com/ -->
 - **Phone:** [805-439-4434](tel:+1-805-439-4434) <!-- Source: https://slothrift.com/ -->
 - **Hours:** M–Sa 9am–5pm <!-- Source: https://slothrift.com/ -->
-- Note: Not yet open as of November 2025 (being remodeled)
 
 ## <a id="SLO-Transit">SLO Transit</a>
 

@@ -107,7 +107,7 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Finding Help:</th></tr>
    <tr><td><a href="tel:+1-211">211</a></td><td>Lo conecta con ayuda experta, compasiva y confidencial de todo tipo</td></tr><!-- Source: https://211slo.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Legal Aid and Consumer Protection:</th></tr>
-   <tr><td><a href="tel:+1-800-834-5001">800-834-5001</a></td><td>Línea de Ayuda de Asistencia Legal Comunitaria del Sur de California para discriminación de vivienda, derechos de inquilinos y protección del consumidor</td></tr><!-- Source: https://www.communitylegalsocal.org/contact-us/ -->
+   <tr><td><a href="tel:+1-714-571-5200">714-571-5200</a></td><td>Línea de Ayuda de Asistencia Legal Comunitaria del Sur de California para discriminación de vivienda, derechos de inquilinos y protección del consumidor</td></tr><!-- Source: https://www.communitylegalsocal.org/contact-us/ -->
    <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Los Angeles Legal Aid Foundation (LAFLA) para asistencia legal</td></tr><!-- Source: https://lafla.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Housing and Homeless Services:</th></tr>
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>Coalición para Personas sin Hogar de 5Cities para asistencia de vivienda y entrada coordinada</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
@@ -1301,7 +1301,7 @@ Las tiendas de segunda mano venden ropa usada a precios bajos.
 - [**Goodwill Outlet**](Directory.md#Goodwill) y [**Goodwill Store**](Directory.md#Goodwill)
 - [**Lumina Thrift**](Directory.md#Lumina-Thrift)
 - [**Mission Thrift**](Directory.md#Mission-Thrift)
-- [**SLO Thrift**](Directory.md#SLO-Thrift) (no está abierta a partir de diciembre de 2025)
+- [**SLO Thrift**](Directory.md#SLO-Thrift)
 - [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
 
 -----

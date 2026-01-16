@@ -107,7 +107,7 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom:0;">⇨ Finding Help:</th></tr>
    <tr><td><a href="tel:+1-211">211</a></td><td>Connects you to expert, caring, confidential help of all sorts</td></tr><!-- Source: https://211slo.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom:0;">⇨ Legal Aid and Consumer Protection:</th></tr>
-   <tr><td><a href="tel:+1-800-834-5001">800-834-5001</a></td><td>Community Legal Aid SoCal Hotline for housing discrimination, tenant rights, and consumer protection</td></tr><!-- Source: https://www.communitylegalsocal.org/contact-us/ -->
+   <tr><td><a href="tel:+1-714-571-5200">714-571-5200</a></td><td>Community Legal Aid SoCal Hotline for housing discrimination, tenant rights, and consumer protection</td></tr><!-- Source: https://www.communitylegalsocal.org/contact-us/ -->
    <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Legal Aid Foundation of Los Angeles (LAFLA) for legal assistance</td></tr><!-- Source: https://lafla.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom:0;">⇨ Housing and Homeless Services:</th></tr>
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
@@ -1304,7 +1304,7 @@ Thrift stores sell second-hand (used) clothing at low prices.
 - [**Goodwill Outlet**](Directory.md#Goodwill) and [**Goodwill Store**](Directory.md#Goodwill)
 - [**Lumina Thrift**](Directory.md#Lumina-Thrift)
 - [**Mission Thrift**](Directory.md#Mission-Thrift)
-- [**SLO Thrift**](Directory.md#SLO-Thrift) (not yet open as of December 2025)
+- [**SLO Thrift**](Directory.md#SLO-Thrift)
 - [**United Voluntary Services Thrift**](Directory.md#United-Voluntary-Services-Thrift)
 
 -----

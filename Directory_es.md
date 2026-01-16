@@ -291,6 +291,10 @@
    - oficina de Central Coast Intergroup: L–V mediodía–6pm, S 1–4pm <!-- Source: https://www.sloaa.org/ -->
    - reuniones individuales: [muchos horarios y ubicaciones](https://www.sloaa.org/meetings/?type=espanol)
 
+## ALF Food Pantry
+
+> *Vea [**Loaves & Fishes (Atascadero)**](#Loaves-and-Fishes-Atascadero)*
+
 ## <a id="APA">Alianza para Acceso Farmacéutico</a>
 
 - **Sitio web:** [apameds.org/for-clients](https://apameds.org/for-clients/)
@@ -1204,7 +1208,7 @@
 ## <a id="Coastal-Dunes">Coastal Dunes RV Park & Campground</a>
 
 - **Sitio web:** [slocountyparks.com/camp/coastal-dunes](https://slocountyparks.com/camp/coastal-dunes/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes RV Park">1001 Pacific Blvd.</a>
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes RV Park">1001 Pacific Blvd., Oceano</a>
 - **Teléfono:**
    - oficina de guardabosques del parque [805-781-4900](tel:+1-805-781-4900) <!-- Source: https://slocountyparks.com/camp/coastal-dunes/ --> L–J 8am–4:30pm; F–D 8am–6pm
    - Reservas: [805-781-5930](tel:+1-805-781-5930)
@@ -2186,7 +2190,9 @@
 - **Teléfono:** [805-461-1504](tel:+1-805-461-1504) <!-- Source: https://alffoodpantry.org/ -->
 - **Correo electrónico:** [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org) <!-- Source: https://alffoodpantry.org/ -->
 - **Horario** (despensa de alimentos): L–V 1–3pm <!-- Source: https://alffoodpantry.org/need-food -->
-- Nota: no afiliado con [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
+- Notas:
+  - no afiliado con [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
+  - también conocido como “ALF Food Pantry”
 
 ## <a id="Loaves-and-Fishes-Paso-Robles">Loaves & Fishes (Paso Robles)</a>
 
@@ -2321,7 +2327,7 @@
 ## <a id="MedStop">MedStop</a>
 
 - **Sitio web:** [medstopurgentcare.com](https://medstopurgentcare.com/)
-- **Ubicación:** 283 Madonna Rd. Suite B (Madonna Plaza), SLO <!-- Source: https://medstopurgentcare.com/ -->
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.261320" data-lon="-120.676364" data-zoom="17" data-label="MedStop">283 Madonna Rd. Suite B</a> (Madonna Plaza), SLO <!-- Source: https://medstopurgentcare.com/ -->
 - **Teléfono:** [805-549-8880](tel:+1-805-549-8880) <!-- Source: https://medstopurgentcare.com/ -->
 - **Horario:** L–V 8am–7pm, S–D 8am–4pm <!-- Source: https://medstopurgentcare.com/ -->
 
@@ -3139,7 +3145,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 - **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.256866" data-lon="-120.668734" data-zoom="17" data-label="Senior Legal Services Project">3232 S. Higuera St. #101D, SLO</a> <!-- Source: https://www.slolaf.org/programs -->
-   - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://www.slolaf.org/programs -->
+   - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Senior Legal Services Project">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://www.slolaf.org/programs -->
    - También opera clínicas en varios centros para adultos mayores y sitios similares
 - **Teléfono:** [805-543-5140](tel:+1-805-543-5140) <!-- Source: https://www.slolaf.org/seniorlaw -->
 - **Correo electrónico:** [intake@slolaf.org](mailto:intake@slolaf.org) <!-- Source: https://www.slolaf.org/seniorlaw -->
@@ -3568,7 +3574,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.275984" data-lon="-120.668482" data-zoom="17" data-label="SLO Thrift">445 Higuera St., SLO</a> <!-- Source: https://slothrift.com/ -->
 - **Teléfono:** [805-439-4434](tel:+1-805-439-4434) <!-- Source: https://slothrift.com/ -->
 - **Horario:** L–S 9am–5pm <!-- Source: https://slothrift.com/ -->
-- Nota: aún no está abierto desde November 2025 (en remodelación)
 
 ## <a id="SLO-Transit">SLO Transit</a>
 
