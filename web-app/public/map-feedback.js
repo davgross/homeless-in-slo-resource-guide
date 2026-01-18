@@ -107,7 +107,7 @@ export function initMapFeedback(config) {
 
     } catch (error) {
       console.error('Error sending feedback:', error);
-      alert('There was an error sending your feedback. Please try again or email us directly at moorlock@gmail.com');
+      alert('There was an error sending your feedback. Please try again or email us directly at showerthepeopleslo@gmail.com');
     } finally {
       // Re-enable submit button
       feedbackSubmit.disabled = false;
