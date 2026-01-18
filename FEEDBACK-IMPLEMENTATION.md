@@ -41,7 +41,7 @@ Implemented a server-side email sending system using **Cloudflare Email Routing*
 └────────┬────────────────────┘
          │
          ↓
-    moorlock@gmail.com
+    showerthepeopleslo@gmail.com
 ```
 
 ## Files Created
@@ -110,7 +110,7 @@ The three map pages now share a single feedback library (`map-feedback.js`), mak
 
 ### Prerequisites (One-time setup)
 1. Enable Email Routing for vivaslo.org domain in Cloudflare dashboard
-2. Verify moorlock@gmail.com as a destination address
+2. Verify showerthepeopleslo@gmail.com as a destination address
 3. Deploy the Email Sender Worker
 4. Configure service binding in Pages project settings
 
@@ -141,7 +141,7 @@ The three map pages now share a single feedback library (`map-feedback.js`), mak
 - [ ] Name/email fields are optional
 - [ ] Feedback message is required
 - [ ] Success message displays after submission
-- [ ] Email arrives at moorlock@gmail.com
+- [ ] Email arrives at showerthepeopleslo@gmail.com
 - [ ] Error handling works when service is unavailable
 
 ## Benefits

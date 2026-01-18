@@ -32,7 +32,7 @@ export async function onRequestPost(context) {
     // Note: The EMAIL_SENDER binding must be configured in the Cloudflare dashboard
     // under Pages project Settings > Functions > Service bindings
     const emailResponse = await sendEmail(env, {
-      to: 'moorlock@gmail.com',
+      to: 'showerthepeopleslo@gmail.com',
       subject: `Feedback (${data.type}) - VivaSLO`,
       content: emailContent,
       replyTo: data.email && isValidEmail(data.email) ? data.email : null

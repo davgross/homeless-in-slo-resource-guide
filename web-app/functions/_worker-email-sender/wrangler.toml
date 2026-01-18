@@ -15,4 +15,4 @@ compatibility_flags = ["nodejs_compat"]
 [[send_email]]
 name = "EMAIL"
 # destination_address restricts sending to only this verified address
-destination_address = "moorlock@gmail.com"
+destination_address = "showerthepeopleslo@gmail.com"
