@@ -5,7 +5,7 @@ export class FeedbackSystem {
   constructor() {
     this.feedbackButton = null;
     this.feedbackModal = null;
-    this.recipientEmail = 'moorlock@gmail.com';
+    this.recipientEmail = 'showerthepeopleslo@gmail.com';
     this.strings = getStrings();
   }
 

@@ -15,7 +15,7 @@ Before deploying this Worker, you must:
    - Follow the setup wizard to enable Email Routing
 
 2. **Verify destination email address**
-   - Add and verify `moorlock@gmail.com` as a destination address
+   - Add and verify `showerthepeopleslo@gmail.com` as a destination address
    - You'll receive a verification email that must be confirmed
 
 3. **Configure DNS for sending**
@@ -74,7 +74,7 @@ To test the email functionality:
 2. Click the feedback button (💬)
 3. Fill out the form with test data
 4. Submit
-5. Check that you receive the email at moorlock@gmail.com
+5. Check that you receive the email at showerthepeopleslo@gmail.com
 
 ## Troubleshooting
 
@@ -117,7 +117,7 @@ Email Sender Worker (this worker)
     ↓ (Email Routing Binding)
 Cloudflare Email Routing
     ↓
-moorlock@gmail.com
+showerthepeopleslo@gmail.com
 ```
 
 ## Configuration
