@@ -3188,7 +3188,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 | <a href="#" class="map-link" data-lat="35.120119" data-lon="-120.619991" data-zoom="17" data-label="Shower the People">946 Rockaway Ave., Grover Beach</a> | Mi 10am–1pm |
 | <a href="#" class="map-link" data-lat="35.269229" data-lon="-120.657617" data-zoom="17" data-label="Shower the People">2201 Lawton Ave., SLO</a>           | Ma/J 10am–1pm |
 | <a href="#" class="map-link" data-lat="35.260128" data-lon="-120.696026" data-zoom="17" data-label="Shower the People">11245 Los Osos Valley Rd., SLO</a>  | S 10am–1pm |
-| <a href="#" class="map-link" data-lat="35.282298" data-lon="-120.662520" data-zoom="17" data-label="Shower the People">995 Palm St., SLO</a>               | D 10am–1pm (12:30–3:30pm los días 4, 11 y 18 de enero de 2026) |
+| <a href="#" class="map-link" data-lat="35.282298" data-lon="-120.662520" data-zoom="17" data-label="Shower the People">995 Palm St., SLO</a>               | D 10am–1pm |
 
 - **Correo electrónico:** [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com)
 - Nota: alojado por [**Lifepoint Church**](#Lifepoint-Church) y [**Unitarian Universalists San Luis Obispo**](#UUSLO) entre otros
