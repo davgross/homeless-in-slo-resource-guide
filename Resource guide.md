@@ -3923,7 +3923,7 @@ This helps the government estimate how many people are homeless, where homeless 
 This in turn helps the government decide what policy responses to prioritize.
 You can read [the official report on SLO County’s 2024 Point-in-Time Count](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport).
 The Point-in-Time Count is conducted in part by volunteers. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count -->
-If you would like to help with the Count, email [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us) or register at the [2026 Point-in-Time Count Volunteer Registration](https://forms.office.com/g/8vJ7PUm8yA) page.
+If you would like to help with the 2028 Count, email [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us).
 
 [SLOCo YIMBY](https://www.slocoyimby.org/) is a grassroots group that advocates for building more housing in SLO County, and for policy changes like legalizing multifamily housing, streamlining permitting, increasing affordable housing funding, and strengthening renter protections.
 They mobilize citizen action and outreach campaigns in support of those goals.

@@ -3921,7 +3921,7 @@ Esto ayuda al gobierno a estimar cuántas personas están sin hogar, dónde est�
 Esto a su vez ayuda al gobierno a decidir qué respuestas de política priorizar.
 Puede leer [el informe oficial sobre el Conteo en un Momento Determinado 2024 del Condado de SLO](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport).
 El Conteo en un Momento Determinado se lleva a cabo en parte por voluntarios. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count -->
-Si desea ayudar con el Conteo, envíe un correo electrónico a [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us) o regístrese en la página de [Registro de Voluntarios para el Point-in-Time Count 2026](https://forms.office.com/g/8vJ7PUm8yA).
+Si desea ayudar con el Conteo de 2028, envíe un correo electrónico a [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us).
 
 [SLOCo YIMBY](https://www.slocoyimby.org/) es un grupo de base que aboga por construir más viviendas en el Condado de SLO, y por cambios de política como legalizar viviendas multifamiliares, agilizar los permisos, aumentar el financiamiento de vivienda asequible y fortalecer las protecciones para inquilinos.
 Movilizan acción ciudadana y campañas de alcance en apoyo de esos objetivos.
