@@ -2824,16 +2824,14 @@ If you see one listed here that is no longer in service, please use the feedback
 ## <a id="Restorative-Partners">Restorative Partners</a>
 
 - **Website:** [restorativepartners.org](https://restorativepartners.org/)
-- **Location:**
-   - Drop-In Center: <a href="#" class="map-link" data-lat="35.256860" data-lon="-120.668925" data-zoom="17" data-label="Restorative Partners drop-in center">3196 South Higuera St. #D, SLO</a> <!-- Source: flyer posted in SLO Library -->
-   - Office: <a href="#" class="map-link" data-lat="35.255072" data-lon="-120.669130" data-zoom="17" data-label="Restorative Partners">3380 South Higuera St., SLO</a> <!-- Source: https://restorativepartners.org/ -->
+- **Location:** <a href="#" class="map-link" data-lat="35.255072" data-lon="-120.669130" data-zoom="17" data-label="Restorative Partners">3380 South Higuera St., SLO</a> <!-- Source: https://restorativepartners.org/ -->
 - **Phone:**
    - Office: [805-242-1272](tel:+1-805-242-1272) <!-- Source: https://restorativepartners.org/ -->
    - Probation clients: [805-234-9071&#xA0;x171](tel:+1-805-234-9071;ext=171) <!-- Source: flyer posted in SLO Library -->
    - CDCR clients: [805-234-9068&#xA0;x168](tel:+1-805-234-9068;ext=168)  <!-- Source: flyer posted in SLO Library -->
 - **Email:** [info@restorativepartners.org](mailto:info@restorativepartners.org)
 - **Hours:**
-   - Drop-In Center: M–F 9am–12:30pm <!-- Source: flyer posted in SLO Library -->
+   - Drop-ins: M–F 9am–4:30pm <!-- Source: email from Kathy McCorry 21 Jan. 2026 -->
    - Office: M–F 9am–5pm <!-- Source: https://restorativepartners.org/contact/ -->
 - Notes:
    - Operates [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus) <!-- Source: https://www.sloharc.org/ -->

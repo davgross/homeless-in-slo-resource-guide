@@ -2887,16 +2887,14 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="Restorative-Partners">Restorative Partners</a>
 
 - **Sitio web:** [restorativepartners.org](https://restorativepartners.org/)
-- **Ubicación:**
-   - Centro de Entrada Sin Cita: <a href="#" class="map-link" data-lat="35.256860" data-lon="-120.668925" data-zoom="17" data-label="Centro de entrada sin cita de Restorative Partners">3196 South Higuera St. #D, SLO</a> <!-- Source: flyer posted in SLO Library -->
-   - Oficina: <a href="#" class="map-link" data-lat="35.255072" data-lon="-120.669130" data-zoom="17" data-label="Restorative Partners">3380 South Higuera St., SLO</a> <!-- Source: https://restorativepartners.org/ -->
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.255072" data-lon="-120.669130" data-zoom="17" data-label="Restorative Partners">3380 South Higuera St., SLO</a> <!-- Source: https://restorativepartners.org/ -->
 - **Teléfono:**
    - Oficina: [805-242-1272](tel:+1-805-242-1272) <!-- Source: https://restorativepartners.org/ -->
    - Clientes de libertad condicional: [805-234-9071&#xA0;x171](tel:+1-805-234-9071;ext=171) <!-- Source: flyer posted in SLO Library -->
    - Clientes de CDCR: [805-234-9068&#xA0;x168](tel:+1-805-234-9068;ext=168) <!-- Source: flyer posted in SLO Library -->
 - **Correo electrónico:** [info@restorativepartners.org](mailto:info@restorativepartners.org)
 - **Horario:**
-   - Centro de Entrada Sin Cita: L–V 9am–12:30pm <!-- Source: flyer posted in SLO Library -->
+   - Entrada sin cita: L–V 9am–4:30pm <!-- Source: email from Kathy McCorry 21 Jan. 2026 -->
    - Oficina: L–V 9am–5pm <!-- Source: https://restorativepartners.org/contact/ -->
 - Notas:
    - opera [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus) <!-- Source: https://www.sloharc.org/ -->
@@ -2905,7 +2903,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
       - **Teléfono:** [805-439-1689](tel:+1-805-439-1689) <!-- Source: https://www.thebridgecafe.org/ -->
       - **Correo electrónico:** [info@thebridgecafe.org](mailto:info@thebridgecafe.org) <!-- Source: https://www.thebridgecafe.org/ -->
       - **Horario:** L–V 7am–3pm <!-- Source: https://www.thebridgecafe.org/ -->
-   - Opera un programa de vivienda ([restorativepartners.org/housing](https://restorativepartners.org/housing/)):
+   - opera un programa de vivienda ([restorativepartners.org/housing](https://restorativepartners.org/housing/)):
       - Anna’s Home (Paso Robles): Apoya a 5 mujeres y sus hijos con apoyo laboral, gestión de empleo, educación financiera, habilidades para la vida y objetivos de vivienda permanente <!-- Source: https://restorativepartners.org/housing/ -->
       - Hope House (Los Osos): Para mujeres que regresan, ofrece supervisión 24/7, transporte, reuniones de 12 pasos, capacitación en habilidades para la vida, mentoría, tratamiento ambulatorio <!-- Source: https://restorativepartners.org/housing/ -->
       - Rapha House (Los Osos): Hogar de 8 camas para hombres enfocado en la recuperación de la adicción, prácticas de justicia restaurativa, estilo de vida limpio y sobrio <!-- Source: https://restorativepartners.org/housing/ -->
