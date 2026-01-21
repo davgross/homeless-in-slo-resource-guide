@@ -3751,7 +3751,7 @@ Donations are requested to cover costs. <!-- Source: https://bayososfolkdancers.
 #### Recreation and Socializing For Seniors
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center) offers classes, board and card games, arts & crafts sessions, discussion groups, movies, walking groups.
-Most are free for members ($20 annual dues), and $2 for non-members. <!-- Source: https://atascaderoseniorcenter.org/activities -->
+Most are free for members ($20 annual dues), and $5 for non-members. <!-- Source: https://atascaderoseniorcenter.org/activities -->
 They also have a lending library of games and puzzles. <!-- Source: https://atascaderoseniorcenter.org/faq -->
 
 [**Central Coast Senior Center (Oceano)**](Directory.md#Central-Coast-Senior-Center) hosts games, a ukulele group, line dancing, and bingo.
