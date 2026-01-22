@@ -1058,7 +1058,8 @@ También administran las rutas de autobús de la ciudad en Morro Bay y Paso Robl
 Puede comprar pases de autobús en el autobús o usando la aplicación [Token Transit](https://tokentransit.com/riders/download).
 
 Hay descuentos para personas mayores (edad 65+), titulares de tarjeta de Medicare y personas con discapacidades. <!-- Source: https://www.slorta.org/fares/discounts/ -->
-Debe aplicar en persona en la oficina de RTA para obtener una tarjeta de descuento. <!-- Source https://www.slorta.org/fares/discounts/ -->
+Si paga en efectivo por su tarifa, debe aplicar en persona en la oficina de RTA para obtener una tarjeta de descuento. <!-- Source https://www.slorta.org/fares/discounts/ -->
+Si usa una tarjeta de crédito para pagar con toque, y es titular de tarjeta de Medicare o tiene 65 años o más, puede obtener descuentos automáticamente al [registrar su tarjeta de crédito con el Proyecto de Viaje Integrado de California (Cal-ITP)](https://benefits.calitp.org/).
 Las personas mayores de 80 años y las personas con una discapacidad certificada por ADA viajan gratis. <!-- Source: https://www.slorta.org/fares/discounts/ -->
 
 | Línea RTA                                                                          | Destinos |
