@@ -84,7 +84,7 @@ Here are some guidelines to help you craft your content for VivaSLO:
    - Always link email addresses, like this: `[joe@schmoe.com](mailto:joe@schmoe.com)`.
    - Always give phone numbers in 123-456-7890 format, and always hyperlink them using the `tel:` protocol, like this:
      `[123-456-7890](tel:+1-123-456-7890)`.
-     An exception is smaller numbers like 211 (`[211](+1-211)`).
+     An exception is smaller numbers like 211 (`[211](tel:+1-211)`).
      In the text displayed to the reader, omit the opening “1-” from U.S. numbers (but the `+1-` is mandatory in the URL).
      If the phone number has a text mnemonic (800-RUN-AWAY), you can use that mnemonic in the text that is displayed to the user, but switch to all-numbers in the URL, e.g. (`[800-RUN-AWAY](tel:+1-800-786-2929)`).
      For phone numbers with extensions, write them like this: `[123-456-7890&#xA0;x246](tel:+1-123-456-7890;ext=246)`
@@ -95,7 +95,7 @@ Here are some guidelines to help you craft your content for VivaSLO:
    - Use an en-dash (`–`) to separate ranges of numbers, time ranges, and date ranges (e.g. `1pm–3pm`, `Monday–Friday`, `ages 18–25`, `$5–10`).
    - Use an em-dash (`—`) to separate phrases or to follow an inline heading.
    - Use unicode fractions (e.g. `½` rather than `1/2`).
-   - Use curly-quotes and apostrophes (`‘ ’ “ ”`) and unicode-ellipses (`…` rather than `...`) in user-facing text.
+   - Use curly-quotes and apostrophes (`‘ ’ “ ”` rather than `'` and `"`) and unicode-ellipses (`…` rather than `...`) in user-facing text.
 1. **Create map links for physical locations.**
    When you mention a physical address or other location, add a hyperlink to it.
 
@@ -137,3 +137,5 @@ If you make changes to the code, please also review those documentation files an
 This project is being developed in a public GitHub repo.
 
 It is deployed on Cloudflare.
+
+Changes to the `main` branch of this repo are *automatically* deployed to all users, so be cautious about merging to `main`.
