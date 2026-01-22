@@ -962,6 +962,7 @@ Algunos mercados de agricultores locales duplicarán hasta $15 en beneficios de 
 | Templeton          | sábado por la mañana |
 
 El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) también proporciona tarjetas de débito E-WIC con las que puede comprar ciertos tipos de alimentos en mercados de agricultores y tiendas de alimentos aprobadas por WIC. <!-- Sources: https://www.osi.ca.gov/eWIC.html and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
+Puede solicitar WIC en las oficinas de WIC del condado con cita previa, o visitando el [**SLO Food Bank**](Directory.md#SLO-Food-Bank) el tercer viernes del mes entre 1pm y 4pm.
 
 ### <a id="edible-wild-plants">Plantas Silvestres Comestibles</a>
 
@@ -1740,6 +1741,7 @@ El niño debe tener 16 años o menos, con un número de seguro social de EE.UU. 
 La necesidad debe estar documentada por un médico, y el niño debe estar cubierto por un seguro médico comercial. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
 
 El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) da beneficios de alimentos a mujeres de bajos ingresos que han dado a luz recientemente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+Puede solicitar WIC en las oficinas de WIC del condado con cita previa, o visitando el [**SLO Food Bank**](Directory.md#SLO-Food-Bank) el tercer viernes del mes entre 1pm y 4pm.
 
 #### Personas con Diabetes
 
