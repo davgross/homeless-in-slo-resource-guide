@@ -10,6 +10,7 @@ import sys
 CONFIG_FIELDS = [
     'url',
     'tag',
+    'tags',
     'title',
     'browser_steps',
     'extract_text',
