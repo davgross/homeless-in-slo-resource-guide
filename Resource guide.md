@@ -962,6 +962,7 @@ Some local farmers markets will double up to $15 in CalFresh benefits that you s
 | Templeton          | Saturday morning    |
 
 The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also provides E-WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries. <!-- Sources: https://www.osi.ca.gov/eWIC.html and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
+You can apply for WIC at the county WIC offices by appointment, or by visiting the [**SLO Food Bank**](Directory.md#SLO-Food-Bank) on the third Friday of the month between 1pm and 4pm.
 
 ### <a id="edible-wild-plants">Edible Wild Plants</a>
 
@@ -1743,6 +1744,7 @@ The child must be 16 or younger, with a U.S. social security number. <!-- Source
 The need must be documented by a physician, and the child must be covered by commercial health insurance. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
 
 The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program gives food benefits to low-income women who have recently given birth. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+You can apply for WIC at the county WIC offices by appointment, or by visiting the [**SLO Food Bank**](Directory.md#SLO-Food-Bank) on the third Friday of the month between 1pm and 4pm.
 
 #### People with Diabetes
 

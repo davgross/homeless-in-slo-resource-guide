@@ -4003,7 +4003,8 @@ Hay varias opciones de atención de urgencias, incluyendo:
    - [805-781-5570](tel:+1-805-781-5570) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
    - Texto: [888-417-6180](sms:+1-888-417-6180) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - **Horario:** L–J 8am–5pm; V 8am–4:30pm (cerrado el último miércoles del mes) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-- **Cómo obtener el servicio:** solo con cita previa (llame o envíe mensaje de texto to make an appointment) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+- **Cómo obtener el servicio:** solo con cita previa (llame o envíe mensaje de texto para hacer una cita) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+   - O visite la oficina principal del [**SLO Food Bank**](#SLO-Food-Bank) el tercer viernes del mes de 1pm–4pm
 - Elegibilidad: Este programa está restringido a personas para quienes ambos de los siguientes requisitos son verdaderos:
    - Está embarazada, amamantando, dio a luz o tuvo una pérdida de embarazo en los últimos seis meses, o cuida de un niño menor de cinco años
    - Y vive en California y tiene ingresos por debajo de cierto umbral, o recibe beneficios de Medi-Cal, [CalWORKs](#CalWORKs) o CalFresh.
