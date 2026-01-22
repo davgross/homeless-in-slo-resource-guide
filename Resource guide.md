@@ -1060,8 +1060,9 @@ The [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) system includes s
 They also govern the city bus routes in Morro Bay and Paso Robles, and the dial-a-ride and Runabout Paratransit services.
 You can buy bus passes on the bus or by using the [Token Transit](https://tokentransit.com/riders/download) app.
 
-There are discounts for seniors (age 65+), medicare card holders, and people with disabilities. <!-- Source: https://www.slorta.org/fares/discounts/ -->
-You must apply in person at the RTA office to get a discount card. <!-- Source https://www.slorta.org/fares/discounts/ -->
+There are discounts for seniors (age 65+), medicare cardholders, and people with disabilities. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+If you pay cash for your fare, you must apply in person at the RTA office to get a discount card. <!-- Source https://www.slorta.org/fares/discounts/ -->
+If you use a credit card to tap-to-ride, and you are a medicare cardholder or are age 65+, you can get discounts automatically by [registering your credit card with the California Integrated Travel Project (Cal-ITP)](https://benefits.calitp.org/).
 People over the age of 80 and people with an ADA-certified disability ride free. <!-- Source: https://www.slorta.org/fares/discounts/ -->
 
 | RTA Line                                                                           | Destinations |
