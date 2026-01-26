@@ -947,7 +947,7 @@
 - **Teléfono:**
    - Oficina comercial: [800-421-2560](tel:+1-800-421-2560) o [805-685-9525](tel:+1-805-685-9525) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
    - Inscripción: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
-   - Servicios para miembros: [805-562-1698–x1](tel:+1-805-562-1698;ext=1) o [877-814-1861](tel:+1-877-814-1861) (L–V, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/members/calaim/ and https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
+   - Servicios para miembros: [805-562-1698–x1](tel:+1-805-562-1698;ext=1) o [877-814-1861](tel:+1-877-814-1861) (L–V, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
 - **Cómo obtener el servicio:** Puede enviar una solicitud en línea a través de [Covered California](https://www.coveredca.com/) o [My Benefits CalWIN](https://www.mybenefitscalwin.org/) o puede obtener ayuda para solicitarla del [**Departamento de Servicios Sociales del Condado de SLO**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
 - Notas:
    - el punto de entrada para “CalAIM”
@@ -2093,7 +2093,7 @@
 - **Ubicaciones:**
    - Despensa de alimentos: <a href="#" class="map-link" data-lat="35.512659" data-lon="-120.702113" data-zoom="17" data-label="Legacy Church Food Pantry">6030 Del Rio Rd., Atascadero</a>
    - Iglesia: <a href="#" class="map-link" data-lat="35.489669" data-lon="-120.674958" data-zoom="17" data-label="Legacy Church">5545 Ardilla Ave., Atascadero</a> <!-- Source: https://www.ourlegacy.church/ministries -->
-- **Teléfono:** [805-466-2626](tel:+1-805-466-2626) <!-- Source: https://www.ourlegacy.church/ministries -->
+- **Teléfono:** [805-610-0817](tel:+1-805-610-0817) <!-- Source: https://www.ourlegacy.church/ministries -->
 - **Correo electrónico:** [info@ourlegacy.church](mailto:info@ourlegacy.church) <!-- Source: https://www.ourlegacy.church/ministries -->
 - **Horario** (despensa de alimentos): J 1–2pm <!-- Source: https://www.ourlegacy.church/ministries -->
 
@@ -2582,7 +2582,7 @@
 - **Horario:** L–V 9am–4:30pm (cerrado mediodía–1pm) <!-- Source: https://pasoroblesha.org/ -->
 - **Cómo obtener el servicio:** Llame o envíe correo electrónico
 - Notas:
-   - opera propiedades de vivienda asequible incluyendo Oak Park 1–4 y Sunrise Villas <!-- Source: https://pasoroblesha.org/affordable-housing/ -->
+   - opera propiedades de vivienda asequible incluyendo Oak Park 1–4, River Walk Terrace y Sunrise Villas <!-- Source: https://pasoroblesha.org/affordable-housing/ -->
    - ofrece servicios comunitarios incluyendo el programa “Youth Works” <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
 
 ## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Recreation Services</a>
