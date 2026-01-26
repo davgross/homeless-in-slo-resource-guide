@@ -2822,9 +2822,64 @@
       "url": "https://capslo.org/safe-parking/"
     },
     "10c99944-5277-43b6-a435-981c80baed0b": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".tsg-rwd-main-copy-frame"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3332,65 +3387,60 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div[6]/div/header/div/div[2]/div[1]/div[2]/div[3]/div/ul/li[1]/a",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[2]/div/p[1]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[2]/div/ul/li[1]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[2]/div/ul/li[2]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[2]/div/p[2]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[2]/div/p[3]"
+        ".et_pb_column_3_4"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -4507,60 +4557,60 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div[3]/div[2]/ui-view/mcc-codes/div[7]"
+        "#c_TIT11PARE_CH11\\.04ALCOPAFAEXNALA_11\\.04\\.090CA > div:nth-child(2)"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -5132,6 +5182,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".elementor-element-ede39c1",
+        ".elementor-element-98643f4 > div:nth-child(1)",
+        ".elementor-element-e6c438a > div:nth-child(1)",
+        ".elementor-element-76aaeec3"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -6141,53 +6197,53 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
@@ -8726,9 +8782,64 @@
       "url": "https://accesssupportnetwork.org/programs/harm-reduction-programs/"
     },
     "345ce2e5-4ecb-4d17-88cd-364233d0d3b3": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".tsg-rwd-main-copy-frame"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -9308,62 +9419,60 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div/div/div/div[2]",
-        "/html/body/div/div/div/div[3]",
-        "/html/body/div/div/div/div[4]"
+        "div.MuiContainer-root:nth-child(2)"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -9995,64 +10104,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Click element",
-          "optional_value": "",
-          "selector": "#button-more-locations"
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/main/div[2]/div[7]/div/div[1]/div[1]/section[2]/div[4]/div[3]/div/div[2]",
-        "/html/body/main/div[2]/div[7]/div/div[1]/div[1]/section[2]/div[4]/div[2]/div/div[2]",
-        "/html/body/main/div[2]/div[7]/div/div[1]/div[1]/div[2]/div[2]",
-        "/html/body/main/div[2]/div[7]/div/div[1]/div[1]/section[2]/div[4]/div[1]/div/div[2]",
-        "/html/body/main/div[2]/div[7]/div/div[1]/div[2]/div[3]/div[2]"
+        ".program-details-page__header",
+        "#program-content"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -12171,53 +12277,53 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
@@ -12531,53 +12637,53 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Click X,Y",
-          "optional_value": "212,289",
-          "selector": "/html/body/div[1]/div"
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Wait for seconds",
-          "optional_value": "2",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
@@ -12997,11 +13103,8 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[2]/div/div[1]/div[2]",
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[2]/div/div[2]/div[2]",
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[3]/div/div[2]/div[2]/p[1]",
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[3]/div/div[2]/div[2]/p[2]",
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[3]/div/div[1]/div[2]/p[5]"
+        "#widget_6169_12183_1251",
+        "#widget_6167_12180_1251"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -14345,60 +14448,60 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div[1]/div[3]/div/div/main/article/div/div/div/div/div/div[3]/div[1]/div/div"
+        "div.et_pb_section:nth-child(3)"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -16227,65 +16330,60 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div[6]/div/header/div/div[2]/div[1]/div[2]/div[3]/div/ul/li[1]/a",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[3]/div/div[2]/div[3]/h2",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[3]/div/div[3]/div/div/p[1]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[3]/div/div[3]/div/div/p[2]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[3]/div/div[2]/div[6]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[3]/div/div[2]/div[3]"
+        "div.et_pb_section:nth-child(3)"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -16496,53 +16594,53 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Wait for text in element",
-          "optional_value": "#overview",
-          "selector": "Atascadero"
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
@@ -17244,76 +17342,62 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div[9]/section[2]/div[1]/div/div/div/p",
-        "/html/body/div[9]/section[2]/div[2]/div/div/div/div[1]/div/div[2]",
-        "/html/body/div[9]/section[2]/div[2]/div/div/div/div[2]/div/div[2]/div[2]",
-        "/html/body/div[9]/section[2]/div[2]/div/div/div/div[3]/div/div[2]/div[2]",
-        "/html/body/div[9]/section[3]/div/div/div/div/h3",
-        "/html/body/div[9]/section[6]/div/div/div[2]/div[2]/p[1]",
-        "/html/body/div[9]/section[7]/div/div/div/div/h3[1]",
-        "/html/body/div[9]/section[7]/div/div/div/div/p[2]",
-        "/html/body/div[9]/section[7]/div/div/div/div/h3[2]",
-        "/html/body/div[9]/section[7]/div/div/div/div/p[4]",
-        "/html/body/div[9]/section[7]/div/div/div/div/h3[3]",
-        "/html/body/div[9]/section[7]/div/div/div/div/p[6]",
-        "/html/body/div[9]/section[8]/div[1]/div/div/div/h2",
-        "/html/body/div[9]/section[8]/div[1]/div/div/div/p",
-        "/html/body/div[9]/section[8]/div[2]/div/div/div/div[1]/div/div[2]/div[3]",
-        "/html/body/div[9]/section[8]/div[2]/div/div/div/div[2]/div/div[2]/div[3]",
-        "/html/body/div[9]/section[8]/div[2]/div/div/div/div[3]/div/div[2]/div[3]"
+        ".bg__gray-light",
+        "section.wysiwyg:nth-child(3)",
+        ".light-version"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -17742,6 +17826,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -19143,6 +19230,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".r-article-1col-full > div:nth-child(1) > div:nth-child(1)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -20366,58 +20456,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -20506,9 +20599,64 @@
       "url": "https://en.wikipedia.org/wiki/Refund_anticipation_loan"
     },
     "7378bb90-840b-441e-a661-138b5f499b05": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".tsg-rwd-main-copy-frame"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -21883,9 +22031,64 @@
       "url": "https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/vital-records-(births,-deaths,-marriages)/birth-certificates"
     },
     "787ae5dd-e38f-48a3-a314-b17666101dcb": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".tsg-rwd-main-copy-frame"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -22035,9 +22238,9 @@
           "selector": ""
         },
         {
-          "operation": "Click element",
+          "operation": "Choose one",
           "optional_value": "",
-          "selector": "/html/body/main/div/ul/li[5]/div[1]/a"
+          "selector": ""
         },
         {
           "operation": "Choose one",
@@ -22084,18 +22287,12 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/main/div/p[1]",
-        "/html/body/main/div/p[2]",
-        "/html/body/main/div/p[3]",
-        "/html/body/main/div/ul/li[1]",
-        "/html/body/main/div/ul/li[2]",
-        "/html/body/main/div/p[4]",
-        "/html/body/main/div/p[5]"
+        "main"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/"
+      "url": "https://www.ssa.gov/blog/en/posts/2025-09-19.html"
     },
     "791a1918-3cb3-43b4-ac6e-583e58cc7ea7": {
       "filter_text_added": true,
@@ -22246,9 +22443,64 @@
       "url": "https://www.childrensresource.org/regristration"
     },
     "7a42e7fc-65d2-4789-a88a-48cc29f6f9b6": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".tsg-rwd-main-copy-frame"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -24329,53 +24581,53 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
@@ -24531,6 +24783,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Services:"
+      ],
       "include_filters": [
         "#result-rows-wrapper"
       ],
@@ -24609,60 +24864,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Make all child elements visible",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "#panel5F492E29938D447C99CF660A4A2FCE69-single"
+        "#g-486ad871-9c90-4695-bb0c-5567974b9fd8",
+        "#g-840a8a11-c1f8-4724-b63c-0b06fc9193f3"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -26226,9 +26482,64 @@
       "url": "https://dovecreekchurch.org/who-we-are/find-us"
     },
     "900804a7-08e0-44d1-9ba3-e964393d592d": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".tsg-rwd-main-copy-frame"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -26626,62 +26937,62 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Click element",
-          "optional_value": "",
-          "selector": "/html/body/div[1]/div/div/main/article/div/div/div/div[2]/div/div[1]"
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div[1]/div/div/main/article/div/div/div/div[2]/div/div[1]/div[1]",
-        "/html/body/div[1]/div/div/main/article/div/div/div/div[7]/div[2]",
-        "/html/body/div[1]/div/div/main/article/div/div/div/div[9]/div/div/div"
+        "div.et_pb_section:nth-child(2)",
+        "div.et_pb_section:nth-child(7)",
+        "div.et_pb_section:nth-child(9)"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -26832,58 +27143,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -28151,53 +28465,53 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Wait for text",
-          "optional_value": "",
-          "selector": "/html/body/div[1]/main/div/div[2]/div/div/div/div[1]/section/div[3]/div/div/div/div[1]"
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
@@ -28220,53 +28534,53 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Enter text in field",
-          "optional_value": "Obispo",
-          "selector": "#siteSearch"
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
@@ -29478,60 +29792,60 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/form/div[4]/div/div/div[1]"
+        ".main-primary"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -30824,6 +31138,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -32610,58 +32927,63 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": null,
-          "selector": null
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         },
         {
-          "operation": null,
-          "optional_value": null,
-          "selector": null
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".et_pb_section_0",
+        ".et_pb_section_1",
+        ".et_pb_column_0_tb_footer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -32985,6 +33307,58 @@
       "url": "https://report.citizenserviceportal.com/home/agency?agencycode=sloso"
     },
     "b6072ff7-b85e-4e50-a82c-3c516979d63d": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -33486,58 +33860,66 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".elementor-element-2b5917d5",
+        "section.elementor-section:nth-child(4)",
+        "section.elementor-section:nth-child(6)",
+        "section.elementor-section:nth-child(7)",
+        "section.elementor-section:nth-child(10)",
+        ".elementor-element-76aaeec3"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -37370,6 +37752,58 @@
       "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/"
     },
     "cfc959d2-1c7e-4fea-a318-fc0cf57e3ff5": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -38754,53 +39188,53 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Scroll down",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
@@ -38870,9 +39304,6 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
-      "include_filters": [
-        "/html/body/div[1]/div[1]/div/div/div/section[5]/div/div/div/div/div/div[2]/div/div[2]"
-      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -39335,6 +39766,58 @@
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform"
     },
     "db7f8dae-0bf7-48b3-a030-e08c3b21f596": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -40092,9 +40575,68 @@
       "url": "https://www.communityhealthcenters.org/health-services/optometry/"
     },
     "decf48b1-18a9-4bed-9307-dc7bf85a7fa2": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.where-to-start",
+        ".fp-self-help",
+        ".tvc-mail-call-layout",
+        "div.layout:nth-child(6)",
+        ".front-page-news-wrap"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -40433,58 +40975,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.col-sm-12:nth-child(2)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -42579,9 +43124,64 @@
       "url": "https://www.jccslo.com/microgrants.html"
     },
     "ec6582f4-c6c6-48e5-a7da-88dc34fce125": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".region-content > div:nth-child(1)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -43073,6 +43673,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -44322,58 +44925,63 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Empty heading",
+        "/^Next$/",
+        "/^Previous$/"
+      ],
       "include_filters": [
         "div.site-header__top-item:nth-child(1)",
         ".col-lg-5",
