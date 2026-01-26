@@ -11,7 +11,7 @@ services:
       - ./changedetection-data:/datastore
     environment:
       # Run in non-headless mode for better compatibility
-      - PLAYWRIGHT_DRIVER_URL=ws://playwright-chrome:3000/?stealth=1&--disable-web-security=true
+      - PLAYWRIGHT_DRIVER_URL=ws://sockpuppetbrowser:3000
       # Base URL for the app (change if needed)
       - BASE_URL=http://localhost:5000
       # Use polling for file changes
@@ -19,18 +19,13 @@ services:
     restart: unless-stopped
 
   # Playwright browser for JavaScript rendering
-  playwright-chrome:
-    image: browserless/chrome:latest
-    hostname: playwright-chrome
+  # Using the official changedetection.io recommended image
+  sockpuppetbrowser:
+    image: dgtlmoon/sockpuppetbrowser:latest
+    hostname: sockpuppetbrowser
     restart: unless-stopped
+    shm_size: "2g"
     environment:
       - SCREEN_WIDTH=1920
-      - SCREEN_HEIGHT=1024
-      - SCREEN_DEPTH=16
-      - ENABLE_DEBUGGER=false
-      - PREBOOT_CHROME=true
-      - CONNECTION_TIMEOUT=60000
-      - MAX_CONCURRENT_SESSIONS=10
-      - CHROME_REFRESH_TIME=600000
-      - DEFAULT_BLOCK_ADS=true
-      - DEFAULT_STEALTH=true
+      - SCREEN_HEIGHT=1080
+      - MAX_CONCURRENT_CHROME_PROCESSES=2

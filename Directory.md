@@ -741,7 +741,7 @@
 - **Phone:**
    - Business office: [800-421-2560](tel:+1-800-421-2560) or [805-685-9525](tel:+1-805-685-9525) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
    - Enrollment: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
-   - Member services: [805-562-1698–x1](tel:+1-805-562-1698;ext=1) or [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/members/calaim/ and https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
+   - Member services: [805-562-1698&nbsp;x1](tel:+1-805-562-1698;ext=1) or [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
 - **How to access:** You can submit an application online via [Covered California](https://www.coveredca.com/) or [My Benefits CalWIN](https://www.mybenefitscalwin.org/) or you can get help applying from the [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
 - Notes:
    - entry-point for [**Enhanced Care Management**](#Enhanced-Care-Management)
@@ -1835,7 +1835,7 @@
 - **Locations:**
    - Food pantry: <a href="#" class="map-link" data-lat="35.512659" data-lon="-120.702113" data-zoom="17" data-label="Legacy Church Food Pantry">6030 Del Rio Rd., Atascadero</a>
    - Church: <a href="#" class="map-link" data-lat="35.489669" data-lon="-120.674958" data-zoom="17" data-label="Legacy Church">5545 Ardilla Ave., Atascadero</a> <!-- Source: https://www.ourlegacy.church/ministries -->
-- **Phone:** [805-466-2626](tel:+1-805-466-2626) <!-- Source: https://www.ourlegacy.church/ministries -->
+- **Phone:** [805-610-0817](tel:+1-805-610-0817) <!-- Source: https://www.ourlegacy.church/ministries -->
 - **Email:** [info@ourlegacy.church](mailto:info@ourlegacy.church) <!-- Source: https://www.ourlegacy.church/ministries -->
 - **Hours** (food pantry): Th 1–2pm <!-- Source: https://www.ourlegacy.church/ministries -->
 
@@ -2351,7 +2351,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Location:** <a href="#" class="map-link" data-lat="35.259753" data-lon="-120.668913" data-zoom="17" data-label="Mission Thrift">2958 S. Higuera St., SLO</a> <!-- Source: https://www.omsslo.org/apps/pages/index.jsp?uREC_ID=3643070&type=d&pREC_ID=2413322 -->
 - **Phone:** [805-548-2660](tel:+1-805-548-2660) <!-- Source: https://www.omsslo.org/apps/pages/index.jsp?uREC_ID=3643070&type=d&pREC_ID=2413322 -->
 - **Email:** [Morradre@omsslo.com](mailto:Morradre@omsslo.com) <!-- Source: https://www.facebook.com/MissionThriftSLO/ -->
-- **Hours:** M–Sa 12pm–5pm <!-- Source: https://www.facebook.com/MissionThriftSLO/ -->
+- **Hours:** M–Sa Noon–5pm <!-- Source: https://www.facebook.com/MissionThriftSLO/ -->
 
 ## <a id="Mobile-Crisis-Team">Mobile Crisis Team</a>
 
@@ -2593,7 +2593,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Hours:** M–F 9am–4:30pm (closed Noon–1pm) <!-- Source: https://pasoroblesha.org/ -->
 - **How to access:** Call or email
 - Notes:
-   - Operates affordable housing properties including Oak Park 1–4 and Sunrise Villas <!-- Source: https://pasoroblesha.org/affordable-housing/ -->
+   - Operates affordable housing properties including Oak Park 1–4, River Walk Terrace, and Sunrise Villas <!-- Source: https://pasoroblesha.org/affordable-housing/ -->
    - Offers community services including “Youth Works” program <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
 
 ## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Recreation Services</a>
