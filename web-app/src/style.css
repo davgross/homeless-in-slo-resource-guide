@@ -2359,7 +2359,10 @@ textarea[aria-invalid="true"]:focus {
 
 .toc-lozenge-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  /* Use auto-fit with minmax so grid automatically falls back to 1 column
+     when items can't fit side-by-side (e.g., large font sizes on phones).
+     10rem minimum ensures long words like "Transportation" don't wrap. */
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr));
   gap: var(--spacing-md);
   margin: var(--spacing-md) 0 0 0;
   padding: 0;
@@ -2426,7 +2429,9 @@ textarea[aria-invalid="true"]:focus {
   line-height: 1.3;
   color: var(--link-color);
   word-wrap: break-word;
-  hyphens: auto;
+  /* Disable automatic hyphenation - prefer wrapping to single-column layout
+     over awkward mid-word breaks like "Emergenci-es" */
+  hyphens: none;
   text-decoration: none !important;
 }
 
@@ -2442,10 +2447,12 @@ textarea[aria-invalid="true"]:focus {
   border-color: #f59e0b;
 }
 
-/* Tablet: 3 columns */
+/* Tablet: target 3 columns, but flex down for large fonts */
 @media (min-width: 641px) and (max-width: 1024px) {
   .toc-lozenge-grid {
-    grid-template-columns: repeat(3, 1fr);
+    /* 12rem minimum allows 3 columns on typical tablets while
+       gracefully reducing to 2 or 1 for very large font sizes */
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
     gap: var(--spacing-lg);
   }
 
@@ -2463,10 +2470,12 @@ textarea[aria-invalid="true"]:focus {
   }
 }
 
-/* Desktop: 4 columns */
+/* Desktop: target 4 columns, but flex down for large fonts */
 @media (min-width: 1025px) {
   .toc-lozenge-grid {
-    grid-template-columns: repeat(4, 1fr);
+    /* 14rem minimum allows 4 columns on desktop while
+       gracefully reducing for very large font sizes */
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
     gap: var(--spacing-lg);
   }
 
