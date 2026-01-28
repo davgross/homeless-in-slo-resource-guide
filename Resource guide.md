@@ -92,6 +92,7 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom:0;">⇨ Other Specialized Crisis Lines:</th></tr>
    <tr><td><a href="tel:+1-805-781-1790">805-781-1790</a> (M–F, 8am–5pm), or <a href="tel:+1-805-729-8011">805-729-8011</a></td><td>Adult Protective Services</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps) -->
    <tr><td><a href="tel:+1-805-781-5437">805-781-KIDS</a></td><td>Child Welfare Services emergency suspected child abuse reporting line</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/social-services/child-welfare-services-(cws) -->
+   <tr><td><a href="tel:+1-877-424-3838">877-4AID-VET</a></td><td>National Call Center for Homeless Veterans</td></tr><!-- Source: https://www.va.gov/homeless/nationalcallcenter.asp -->
    <tr><td><a href="sms:838255">838255</a> (text)</td><td>Veterans Crisis Text Line</td></tr>
    <tr><td><a href="tel:+1-800-985-5990">800-985-5990</a></td><td>Disaster Distress Helpline (in case of emotional distress due to natural or man-made disaster)</td></tr><!-- Source: https://www.fema.gov/ht/node/686553 -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom:0;">⇨ Health and Behavioral Health Information:</th></tr>
