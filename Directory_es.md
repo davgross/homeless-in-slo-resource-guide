@@ -2184,7 +2184,7 @@
 ## <a id="Loaves-and-Fishes-Atascadero">Loaves & Fishes (Atascadero)</a>
 
 - **Sitio web:** [alffoodpantry.org](https://alffoodpantry.org/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.492964" data-lon="-120.676511" data-zoom="17" data-label="Loaves & Fishes (Atascadero)">5411 El Camino Real, Atascadero</a> <!-- Source: https://alffoodpantry.org/ -->
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.492964" data-lon="-120.676511" data-zoom="17" data-label="Loaves & Fishes (Atascadero)">5411 El Camino Real, Atascadero</a> <!-- Source: https://alffoodpantry.org/ --> <!-- NOTE: Moving to 7380 El Camino Real soon -->
 - **Teléfono:** [805-461-1504](tel:+1-805-461-1504) <!-- Source: https://alffoodpantry.org/ -->
 - **Correo electrónico:** [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org) <!-- Source: https://alffoodpantry.org/ -->
 - **Horario** (despensa de alimentos): L–V 1–3pm <!-- Source: https://alffoodpantry.org/need-food -->
@@ -3595,6 +3595,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Dirección postal:** PO Box 15034, SLO, CA 93406 <!-- Source: https://www.smartsharehousingsolutions.org/ -->
 - **Teléfono:** [805-215-5474](tel:+1-805-215-5474) <!-- Source: https://www.smartsharehousingsolutions.org/ -->
 - **Correo electrónico:** [info@smartsharehousingsolutions.org](mailto:info@smartsharehousingsolutions.org) <!-- Source: https://www.smartsharehousingsolutions.org/ -->
+- Nota: opera [**HomeShare SLO**](#HomeShare-SLO)
 
 ## Sobering Center
 
