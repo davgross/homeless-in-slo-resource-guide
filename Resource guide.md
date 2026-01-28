@@ -527,8 +527,9 @@ If you are homeless or need housing due to fleeing abusive situation, have low o
 
 SLO County adults with mental illness may qualify for supportive housing in multiple county locations through the [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) [residential housing program](https://www.t-mha.org/housing.php).
 
-The [**HomeShare SLO**](Directory.md#HomeShare-SLO) program matches property owners who have an extra room with people who need a place to live. <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
-<!-- Still true? They have a “reduced rent task exchange” program with which you can do 8–15 hours of work per week to get a rent reduction. -->
+<!-- "We no longer accepting applications for the program. Instead, we are providing educational resources to help people find an manage their own homeshares." -Vicki van den Eikhof, Smart Share Housing Solutions
+The [**HomeShare SLO**](Directory.md#HomeShare-SLO) program matches property owners who have an extra room with people who need a place to live. { Source: https://www.smartsharehousingsolutions.org/homeshare-slo }
+-->
 
 [**Restorative Partners**](Directory.md#Restorative-Partners) runs a [housing program](https://restorativepartners.org/housing/) with multiple transitional housing programs for men, women, and families in various SLO County locations. <!-- Source: https://restorativepartners.org/housing/ -->
 These programs are for people in recovery from addiction and people transitioning from incarceration. <!-- SOURCE NEEDED -->

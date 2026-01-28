@@ -527,8 +527,9 @@ Si está sin hogar o necesita vivienda debido a huir de una situación abusiva, 
 
 Los adultos del condado de SLO con enfermedad mental pueden calificar para vivienda de apoyo en múltiples ubicaciones del condado a través del [programa de vivienda residencial](https://www.t-mha.org/housing.php) de [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA).
 
-El programa [**HomeShare SLO**](Directory.md#HomeShare-SLO) conecta a propietarios que tienen una habitación extra con personas que necesitan un lugar para vivir. <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
-<!-- Still true? They have a “reduced rent task exchange” program with which you can do 8–15 hours of work per week to get a rent reduction. -->
+<!-- "We no longer accepting applications for the program. Instead, we are providing educational resources to help people find an manage their own homeshares." -Vicki van den Eikhof, Smart Share Housing Solutions
+El programa [**HomeShare SLO**](Directory.md#HomeShare-SLO) conecta a propietarios que tienen una habitación extra con personas que necesitan un lugar para vivir. { Source: https://www.smartsharehousingsolutions.org/homeshare-slo }
+-->
 
 [**Restorative Partners**](Directory.md#Restorative-Partners) opera un [programa de vivienda](https://restorativepartners.org/housing/) con múltiples programas de vivienda de transición para hombres, mujeres y familias en varias ubicaciones del condado de SLO. <!-- Source: https://restorativepartners.org/housing/ -->
 Estos programas son para personas en recuperación de adicción y personas en transición de encarcelamiento. <!-- SOURCE NEEDED -->
