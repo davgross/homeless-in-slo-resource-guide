@@ -3648,8 +3648,6 @@ The [**GALA Pride & Diversity Center**](Directory.md#GALA) maintains [a list of 
 
 ### <a id="parenthood-peer-support">Pregnancy and Parenthood</a>
 
-[**Adventist Health Twin Cities**](Directory.md#Adventist-Health-Twin-Cities) hosts [“Newborn and Parent Support”](https://www.adventisthealth.org/central-coast/events/ahtc-newborn-and-parent-support-naps) and [“Navigating Motherhood”](https://www.adventisthealth.org/central-coast/events/ahtc-navigating-motherhood) weekly support groups.
-
 [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) operates the online weekly support group [“The Mommy Hour”](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/maternity/maternal-emotional-wellness).
 To join, contact facilitator Wendy Beres at [wendy.beres@dignityhealth.org](mailto:wendy.beres@dignityhealth.org) or [805-541-2229](tel:+1-805-541-2229).
 They also host a [“Bellies and Babies”](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) weekly in-person support group.
