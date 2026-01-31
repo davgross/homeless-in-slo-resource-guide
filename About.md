@@ -33,6 +33,7 @@ It uses colors and icons to help you quickly know what kind of link or button yo
 ## About This Project
 
 This guide is a project of [Shower the People](https://showerthepeopleslo.org/), a nonprofit organization serving people experiencing homelessness in San Luis Obispo County.
+It was designed, implemented, and deployed by [PLP Consulting](https://sniggle.net/PLP/).
 
 *Special thanks to Laurel Woodson & Mark Grayson for the funding that kick-started this project.*
 

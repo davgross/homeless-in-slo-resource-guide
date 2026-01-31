@@ -4,19 +4,25 @@
 
 The file "Resource guide.md" contains the outline of a comprehensive resource guide about Surviving Homelessness in San Luis Obispo.
 This file is too large for you to read in completely, given your token limit (so use methods to read it in smaller chunks).
+"Resource guide_es.md" is the same information, but in Spanish translation.
 
 The Directory.md file contains name / website URL / physical address / contact phone & email / hours of operation information for the various programs, groups, and agencies mentioned in the resource guide.
+Directory_es.md is the same information, but in Spanish translation.
 Use this as the single source of truth for those data; cross-reference Directory entries from the Resource Guide rather than reproducing those data in the Resource Guide.
+
+The About.md contains meta information about VivaSLO, its developers, and the underlying software.
+It also contains some instructive material about how the site is organized and how its features work.
+About_es.md is the same information, but in Spanish translation.
 
 The web-app directory contains the progressive web app that displays this content to the user.
 
 This project is being developed in a public GitHub repo.
 It is deployed on Cloudflare.
-The web app is available to the public on the web at https://vivaslo.org/
+The web app is available to the public at https://vivaslo.org/
 
 ### About The Target Audience of the Guide
 
-The target audience for the guide this outline describes is people who are homeless or at risk of homelessness in San Luis Obispo (SLO) County.
+The target audience for this guide is people who are homeless or at risk of homelessness in San Luis Obispo (SLO) County.
 
 These people are typically financially poor, so this guide prioritizes resources that are free or very low-cost to access.
 They often do not have a home of their own, so this guide prioritizes resources that do not require a fixed address.
@@ -29,6 +35,13 @@ They are unlikely to have their own FAX machines, personal computers, scanners, 
 
 ## Task Instructions
 
+### Improve Usability
+
+1. **Make things maximally accessible to our target audience**
+1. **Make the user interface intuitive and easy to use**
+1. **Make it clear what things are interactive, and what those interactions will effect**
+1. **Make it easy to find information (and to know where to look)**
+
 ### Improve Resource Data
 
 1. **Where source annotations are missing, provide authoritative sources**
@@ -36,13 +49,14 @@ They are unlikely to have their own FAX machines, personal computers, scanners, 
 1. **Add important details**: For example, if an entry does not indicate eligiblity requirements, hours of operation, or a phone contact number, try to find those and add them to the entry.
 1. **Maintain correct markdown**: You can use the `markdownlint` tool to verify this.
 1. **Use simple English in draft text**: If you add text that is meant as to be inserted as-is into the guide (rather than as notes for the researchers and editors), take care to write that text in simple English that is easy to understand by the target audience — for example: use linear sentences without tangled clauses, simple verbs rather than progressive-tense verbs or compound verbs when possible, active voice, literal rather than idiomatic language, and basic vocabulary.
+1. **Create Spanish translations as needed**: When contributors add or modify information in the English-language pages, make corresponding edits to the Spanish translations.
 
 ## Current State
 
 ### File Structure
 
-- **Data format**: Markdown with HTML anchors for major sections
-- **Main data files**: `Resource guide.md`, `Directory.md`
+- **Data format**: Markdown with HTML anchors for major sections and some specialized markup (e.g. map links)
+- **Main data files**: `Resource guide.md`, `Directory.md`, `About.md` and their Spanish language `*_es.md` equivalents
 - **Implementation**: Progressive Web App in `web-app/` directory
 
 ### Web App Documentation
@@ -109,12 +123,6 @@ When making changes to the web app code:
 35. Miscellaneous free items
 36. Other guides, web pages, information sources
 
-### Section Development Status
-
-If you see a "To-do:", this represents a task that you might be able to accomplish to improve these documents.
-If you can do so efficiently and reputably (without hallucinating or relying on unreliable sources), do so.
-If you cannot, change the "To-do:" to something like "Note:" and append a parenthetical remark about why you were unable to accomplish this yourself (this way you will not keep seeing the "To-do" and trying futilely to do it again and again).
-
 ## Working Guidelines
 
 - Prioritize accuracy and up-to-dateness of information
@@ -135,9 +143,7 @@ If you cannot, change the "To-do:" to something like "Note:" and append a parent
 
 - Prefer `*italicized*` markdown rather than all-caps for emphasis
 
-- If you need to retrieve a page from the web, just do it; don't ask first. You have permission to use your web fetch API to retrieve documents from the web by using your own judgment.
-
-- The Resource Guide outline is subject to future reorganization. For this reason, do not cross-reference sections by number (e.g. "See section 12") because those numbers may change; use the name of the section instead in such references. If the reference is to a section heading, also hyperlink the reference by using the anchor for that section heading (or add an anchor if one does not exist).
+- The Resource Guide outline is subject to future reorganization. For this reason, do not cross-reference sections by number (e.g. "See section 12") because those numbers may change; use the name of the section instead in such references. If the reference is to a section heading, also hyperlink the reference by using the anchor for that section heading (add an anchor if one does not exist).
 
 - If you do not know a particular piece of information, and cannot find it on the web or elsewhere, do not just make something up that sounds plausible and do not fill in the gap with "it is probably X" or "it may be Y". Instead, note that you were unable to determine the information in reputable sources. This way human researchers can fill in those gaps with off-line investigation.
 
@@ -147,16 +153,9 @@ If you cannot, change the "To-do:" to something like "Note:" and append a parent
 
 ## Efficiency Helpers
 
-### Common Search Patterns
-
-When working on the outline, these search patterns are frequently useful:
-
-- `grep -n "To-do"` - Find remaining To-do items
-- `grep -n "<a id="` - Find major section headings
-
 ### Current Date
 
-Claude is sometimes confused about the current date (basing this perhaps on its build date or training date, perhaps).
+Claude is sometimes confused about the current date (basing this perhaps on its build date or training date).
 Claude can use the linux `date` command to determine the actual current date.
 
 ### Alphabetical Insertion in Directory.md
@@ -175,7 +174,7 @@ When editing files with the Edit tool:
 
 - Em-dashes (—), en-dashes (–), and hyphens (-) are different characters and won't match each other
 - Curly quotes and apostrophes (“ ” ‘ ’) vs. straight quotes and apostrophes (" ') won't match
-- Try not to replace curly quotes and apostrophes with their straight quote/apostrophe equivalents when you manipulate text.
+- Try not to replace curly quotes and apostrophes with their straight quote/apostrophe equivalents when you manipulate text. By default you may do this even if you do not explicitly intend to, so you may have to be especially intentional about this.
 - If you get "String to replace not found" errors, read the exact text with the Read tool and copy it character-for-character
 - When in doubt, use smaller, simpler replacement strings that avoid special characters, or use wildcards in place of apostrophes and quotation marks when doing searches
 - The `cat -A` command can reveal hidden unicode characters if troubleshooting is needed
@@ -187,16 +186,9 @@ Not everything needs a separate Directory entry:
 - **Needs Directory entries**: Independent agencies, organizations with their own governance, programs that are separable (have their own location, phone number, hours of operation, etc. distinct from their parent agency)
 - **Program notes under existing entries**: Programs operated by larger organizations (e.g., "Head Start" is a CAPSLO program, not separate)
 - **Cross-reference patterns**:
-   - If it's a program: mention it in the parent organization's Notes field
+   - If it's a program: mention it in the parent organization's Note(s) field
    - If it's an independent agency: create a separate Directory entry
    - Commercial businesses mentioned in passing (storage facilities, gyms) don't need Directory entries unless they have specific programs for homeless individuals
-
-### Key Local Agencies (Frequently Referenced)
-
-- **CAPSLO** (Community Action Partnership SLO): [capslo.org](https://capslo.org/)
-   - **40 Prado Homeless Services Center**: CAPSLO-operated, SLO city
-- **ECHO** (El Camino Homeless Organization): [echoshelter.org](https://www.echoshelter.org/)
-- **5Cities Homeless Coalition**: [5chc.org](https://5chc.org/)
 
 ### Geographic Boundaries
 

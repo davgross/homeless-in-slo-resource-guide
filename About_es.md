@@ -33,6 +33,7 @@ Utiliza colores e íconos para ayudarte a identificar rápidamente el tipo de en
 ## Sobre este Proyecto
 
 Esta guía es un proyecto de [Shower the People](https://showerthepeopleslo.org/), una organización sin fines de lucro que atiende a personas sin hogar en el condado de San Luis Obispo.
+Fue diseñada, implementada y desplegada por [PLP Consulting](https://sniggle.net/PLP/).
 
 *Agradecemos especialmente a Laurel Woodson y Mark Grayson por la financiación que impulsó este proyecto.*
 
