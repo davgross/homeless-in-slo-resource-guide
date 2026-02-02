@@ -35,7 +35,7 @@
    - operates the “40 Prado Safe Parking Program” <!-- Source: https://capslo.org/safe-parking/ -->
    - hosts [**SLO Bangers**](#SLO-Bangers) every Monday at 9am <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
    - hosts [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) every Monday at 1pm <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
-   - hosts [**Access Support Network**](#ASN) on the 2nd and 4th Mondays of the month 1:30–4:00pm <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
+   - hosts [**Access Support Network**](#ASN) on the second and fourth Mondays of the month 1:30–4:00pm <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
    - [**Healthcare for the Homeless Program**](#HCHP) happens at 40 Prado
    - [**People’s Kitchen**](#Peoples-Kitchen-SLO) happens at 43 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
    - [**Recuperative Care Program**](#Recuperative-Care-Program) happens at 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
