@@ -33,6 +33,9 @@
    - operates [**SLO Hub**](#SLO-Hub) <!-- Source: https://capslo.org/40-prado/ -->
    - operates the “Mid County Warming and Cooling Center” <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - operates the “40 Prado Safe Parking Program” <!-- Source: https://capslo.org/safe-parking/ -->
+   - hosts [**SLO Bangers**](#SLO-Bangers) every Monday at 9am <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
+   - hosts [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) every Monday at 1pm <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
+   - hosts [**Access Support Network**](#ASN) on the second and fourth Mondays of the month 1:30–4:00pm <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
    - [**Healthcare for the Homeless Program**](#HCHP) happens at 40 Prado
    - [**People’s Kitchen**](#Peoples-Kitchen-SLO) happens at 43 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
    - [**Recuperative Care Program**](#Recuperative-Care-Program) happens at 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
@@ -741,7 +744,7 @@
 - **Phone:**
    - Business office: [800-421-2560](tel:+1-800-421-2560) or [805-685-9525](tel:+1-805-685-9525) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
    - Enrollment: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
-   - Member services: [805-562-1698&nbsp;x1](tel:+1-805-562-1698;ext=1) or [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
+   - Member services: [805-562-1698&#xA0;x1](tel:+1-805-562-1698;ext=1) or [877-814-1861](tel:+1-877-814-1861) (M–F, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
 - **How to access:** You can submit an application online via [Covered California](https://www.coveredca.com/) or [My Benefits CalWIN](https://www.mybenefitscalwin.org/) or you can get help applying from the [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
 - Notes:
    - entry-point for [**Enhanced Care Management**](#Enhanced-Care-Management)
@@ -761,8 +764,8 @@
 - **Hours:** M–F 8am–7pm (weekend hours vary) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
 - **How to access:**
    - Enroll at [this web page](https://admissions.centerforautism.com/)
-   - or call [877-448-4747 x2](tel:+1-877-448-4747;ext=2) <!-- Source: https://admissions.centerforautism.com/ -->
-   - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://admissions.centerforautism.com/ -->
+   - or call [877-448-4747](tel:+1-877-448-4747) <!-- Source: https://centerforautism.com/contact/ -->
+   - or email [CARDEnrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://centerforautism.com/contact/ -->
 - Notes: Accepts CenCal Health and most other insurance providers <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
 
 ## <a id="CFS">Center for Family Strengthening (CFS)</a>
@@ -3139,6 +3142,7 @@ If you see one listed here that is no longer in service, please use the feedback
 | <a href="#" class="map-link" data-lat="35.365706" data-lon="-120.844141" data-zoom="17" data-label="SLO Bangers">760 Morro Bay Blvd., Morro Bay</a>   | M 2–4pm |
 | <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="SLO Bangers">1134 Black Oak Dr., Paso Robles</a>  | Tu 4–5pm |
 | <a href="#" class="map-link" data-lat="35.274319" data-lon="-120.646781" data-zoom="17" data-label="SLO Bangers">2191 Johnson Ave., SLO</a>           | W 5:30–8:15pm |
+| <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="SLO Bangers">40 Prado Road, SLO</a>               | M 9am<!-- Source: Ilene Brill email 2 Feb. 2026 --> |
 
 - **Phone:** [805-458-0123](tel:+1-805-458-0123) <!-- Source: https://slobangers.com/contact.html -->
 - **Email:** [slobangers07@gmail.com](mailto:slobangers07@gmail.com) <!-- Source: https://slobangers.com/contact.html -->
