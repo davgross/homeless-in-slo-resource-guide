@@ -33,6 +33,9 @@
    - opera [**SLO Hub**](#SLO-Hub) <!-- Source: https://capslo.org/40-prado/ -->
    - opera el “Mid County Warming and Cooling Center” <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - opera el “40 Prado Safe Parking Program” <!-- Source: https://capslo.org/safe-parking/ -->
+   - recibe a [**SLO Bangers**](#SLO-Bangers) todos los lunes a las 9am <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
+   - recibe a [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) todos los lunes a la 1pm <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
+   - recibe a [**Access Support Network**](#ASN) el 2do y 4to lunes del mes 1:30–4:00pm <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
    - [**Healthcare for the Homeless Program**](#HCHP) tiene lugar en 40 Prado
    - [**People’s Kitchen**](#Peoples-Kitchen-SLO) tiene lugar en 43 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
    - [**Recuperative Care Program**](#Recuperative-Care-Program) tiene lugar en 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
@@ -947,7 +950,7 @@
 - **Teléfono:**
    - Oficina comercial: [800-421-2560](tel:+1-800-421-2560) o [805-685-9525](tel:+1-805-685-9525) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
    - Inscripción: [877-227-3051](tel+1-877-227-3051) <!-- Source: https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
-   - Servicios para miembros: [805-562-1698–x1](tel:+1-805-562-1698;ext=1) o [877-814-1861](tel:+1-877-814-1861) (L–V, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
+   - Servicios para miembros: [805-562-1698&#xA0;x1](tel:+1-805-562-1698;ext=1) o [877-814-1861](tel:+1-877-814-1861) (L–V, 8am–5pm) (TTY: [833-556-2560](tel:+1-833-556-2560)) <!-- Sources: https://www.cencalhealth.org/providers/calaim/housing-homelessness-incentive-program/ and https://www.cencalhealth.org/health-plans/careconnect/how-to-apply/ -->
 - **Cómo obtener el servicio:** Puede enviar una solicitud en línea a través de [Covered California](https://www.coveredca.com/) o [My Benefits CalWIN](https://www.mybenefitscalwin.org/) o puede obtener ayuda para solicitarla del [**Departamento de Servicios Sociales del Condado de SLO**](#SLO-County-Department-of-Social-Services) <!-- Source: https://www.cencalhealth.org/contact-us/ -->
 - Notas:
    - el punto de entrada para “CalAIM”
@@ -3214,6 +3217,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 | <a href="#" class="map-link" data-lat="35.365706" data-lon="-120.844141" data-zoom="17" data-label="SLO Bangers">760 Morro Bay Blvd., Morro Bay</a>   | L 2–4pm |
 | <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="SLO Bangers">1134 Black Oak Dr., Paso Robles</a>  | Ma 4–5pm |
 | <a href="#" class="map-link" data-lat="35.274319" data-lon="-120.646781" data-zoom="17" data-label="SLO Bangers">2191 Johnson Ave., SLO</a>           | Mi 5:30–8:15pm |
+| <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="SLO Bangers">40 Prado Road, SLO</a>               | L 9am<!-- Source: Ilene Brill email 2 Feb. 2026 --> |
 
 - **Teléfono:** [805-458-0123](tel:+1-805-458-0123) <!-- Source: https://slobangers.com/contact.html -->
 - **Correo electrónico:** [slobangers07@gmail.com](mailto:slobangers07@gmail.com) <!-- Source: https://slobangers.com/contact.html -->
