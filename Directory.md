@@ -37,7 +37,7 @@
    - hosts [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) every Monday at 1pm <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
    - hosts [**Access Support Network**](#ASN) on the second and fourth Mondays of the month 1:30–4:00pm <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
    - [**Healthcare for the Homeless Program**](#HCHP) happens at 40 Prado
-   - [**People’s Kitchen**](#Peoples-Kitchen-SLO) happens at 43 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
+   - [**People’s Kitchen**](#Peoples-Kitchen-SLO) happens at 40 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
    - [**Recuperative Care Program**](#Recuperative-Care-Program) happens at 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
 
 ## 50 Now
@@ -2662,7 +2662,7 @@ If you see one listed here that is no longer in service, please use the feedback
 > *See also [**40 Prado Homeless Services Center**](#40-Prado)*
 
 - **Website:** [slopeopleskitchen.org](https://www.slopeopleskitchen.org/)
-- **Location:** <a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="People’s Kitchen">43 Prado Road, SLO</a> <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
+- **Location:** <a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="People’s Kitchen">40 Prado Road, SLO</a> <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
 - **Email:** [mnparker539@gmail.com](mailto:mnparker539@gmail.com) <!-- Source: https://www.slopeopleskitchen.org/contact-us -->
 - **Hours:** Daily at noon <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
 - **How to access:** Come during serving time. <!-- Source: https://www.slopeopleskitchen.org/serving-info -->
@@ -3622,7 +3622,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Location:** <a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a> <!-- Source: https://fpcslo.org/assistance -->
 - **Phone:** [805-544-7041](tel:+1-805-544-7041) <!-- Source: https://fpcslo.org/assistance -->
 - **Hours:**
-   - Tuesdays at Prado Center (<a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">43 Prado Rd., SLO</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
+   - Tuesdays at Prado Day Center (<a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">40 Prado Rd., SLO</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
    - Thursdays at Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a>): by appointment only <!-- Source: https://fpcslo.org/assistance -->
 - **How to access:** drop-in at Prado, or call to schedule an appointment at the Mission
 <!-- Note: No dedicated website found for local chapter (as of October 2025) -->
