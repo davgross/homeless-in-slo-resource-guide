@@ -967,8 +967,8 @@
 - **Horario:** L–V 8am–7pm (horario de fin de semana varía) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
 - **Cómo obtener el servicio:**
    - Inscríbase en [esta página web](https://admissions.centerforautism.com/)
-   - o llame al [877-448-4747 x2](tel:+1-877-448-4747;ext=2) <!-- Source: https://admissions.centerforautism.com/ -->
-   - o envíe un correo a [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://admissions.centerforautism.com/ -->
+   - o llame al [877-448-4747](tel:+1-877-448-4747) <!-- Source: https://centerforautism.com/contact/ -->
+   - o envíe un correo a [CARDEnrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://centerforautism.com/contact/ -->
 - Notas: Acepta CenCal Health y la mayoría de otros proveedores de seguros <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
 
 ## <a id="The-Center">The Center for Health & Prevention</a>

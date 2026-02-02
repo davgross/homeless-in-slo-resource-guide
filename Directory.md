@@ -761,8 +761,8 @@
 - **Hours:** M–F 8am–7pm (weekend hours vary) <!-- Source: https://centerforautism.com/locations/san-luis-obispo-california/ -->
 - **How to access:**
    - Enroll at [this web page](https://admissions.centerforautism.com/)
-   - or call [877-448-4747 x2](tel:+1-877-448-4747;ext=2) <!-- Source: https://admissions.centerforautism.com/ -->
-   - or email [cardenrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://admissions.centerforautism.com/ -->
+   - or call [877-448-4747](tel:+1-877-448-4747) <!-- Source: https://centerforautism.com/contact/ -->
+   - or email [CARDEnrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://centerforautism.com/contact/ -->
 - Notes: Accepts CenCal Health and most other insurance providers <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
 
 ## <a id="CFS">Center for Family Strengthening (CFS)</a>
