@@ -2819,8 +2819,9 @@ Use el [formulario de contacto](https://loavesandfishespaso.org/contact/) en su 
 
 El Centro de Recursos [**Los Osos Cares**](Directory.md#Los-Osos-Cares) puede dar asistencia de necesidades inmediatas a personas en Los Osos, Morro Bay y Cayucos. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that “immediate needs assistance” is vague and it’s unclear if it really applies to this section -->
 
-[**Jewish Family Services**](Directory.md#Jewish-Family-Services) ofrece asistencia con tarjeta de gasolina prepagada una vez al año para personas en el Condado de SLO que necesitan ayuda con costos de transporte.
-[Presente una solicitud en su sitio web](https://www.jccslo.com/gas.html).
+[**Jewish Family Services**](Directory.md#Jewish-Family-Services) ofrece asistencia con gasolina una vez al año para personas en el Condado de SLO que necesitan ayuda con costos de transporte.
+Para solicitar gasolina de este programa, [presente una solicitud en su sitio web](https://www.jccslo.com/gas.html).
+Debe tener una licencia de conducir válida, registro del vehículo y seguro de auto.
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) opera <!-- This page has gone 404 as of 10 Dec 2025
 a one-time “Emergency Rental Assistance” program.
@@ -3427,7 +3428,8 @@ También hay un programa “Migrant and Seasonal Head Start” (Head Start para 
 Puede solicitar ese programa completando [el formulario en esta página](https://www.childplus.net/apply/es/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
 Para más información, contacte a [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) o [888-633-6747](tel:+1-888-633-6747). <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
 
-[Futuros Brillantes](http://luciamarschools.org/251185_2) es un programa en el Distrito Escolar Unificado de Lucia Mar que da a estudiantes de K-8 un ambiente seguro antes y después de la escuela incluyendo apoyo académico y clases de enriquecimiento, así como una cena gratuita. <!-- Source: https://www.luciamarschools.org/251185_2 -->
+[Futuros Brillantes](http://luciamarschools.org/251185_2) es un programa para estudiantes inscritos en el Distrito Escolar Unificado de Lucia Mar. <!-- Source: https://www.luciamarschools.org/251185_2 -->
+Da a estudiantes de K-8 un ambiente seguro antes y después de la escuela incluyendo apoyo académico y clases de enriquecimiento, así como una cena gratuita. <!-- Source: https://www.luciamarschools.org/251185_2 -->
 Hay espacios limitados disponibles, y a veces hay una lista de espera. <!-- SOURCE NEEDED -->
 Se da prioridad a jóvenes en hogares de crianza, estudiantes que experimentan falta de hogar, estudiantes de inglés como segundo idioma y estudiantes que califican para servicios de almuerzo gratuito/a precio reducido. <!-- SOURCE NEEDED -->
 Puede solicitar inscribir a su hijo en este programa en el sitio web de [Futuros Brillantes](http://luciamarschools.org/251185_2).
