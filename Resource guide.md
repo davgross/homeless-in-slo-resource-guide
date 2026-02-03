@@ -3429,7 +3429,8 @@ There is also a “Migrant and Seasonal Head Start” program designed specifica
 You can apply for that program by completing [the form on this page](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
 For more information, contact [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) or [888-633-6747](tel:+1-888-633-6747). <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
 
-[Bright Futures](http://luciamarschools.org/251185_2) is a program in the Lucia Mar Unified School District that gives K-8 students a safe before- and after-school environment including academic support and enrichment classes, as well as a free supper. <!-- Source: https://www.luciamarschools.org/251185_2 -->
+[Bright Futures](http://luciamarschools.org/251185_2) is a program for students who are registered in the Lucia Mar Unified School District. <!-- Source: https://www.luciamarschools.org/251185_2 -->
+It gives K-8 students a safe before- and after-school environment including academic support and enrichment classes, as well as a free supper. <!-- Source: https://www.luciamarschools.org/251185_2 -->
 There are limited spaces available, and sometimes there is a waiting list. <!-- SOURCE NEEDED -->
 Priority is given to foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services. <!-- SOURCE NEEDED -->
 You can apply to enroll your child in this program at the [Bright Futures](http://luciamarschools.org/251185_2) website.
