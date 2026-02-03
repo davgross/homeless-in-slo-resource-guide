@@ -2819,8 +2819,9 @@ Use el [formulario de contacto](https://loavesandfishespaso.org/contact/) en su 
 
 El Centro de Recursos [**Los Osos Cares**](Directory.md#Los-Osos-Cares) puede dar asistencia de necesidades inmediatas a personas en Los Osos, Morro Bay y Cayucos. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that “immediate needs assistance” is vague and it’s unclear if it really applies to this section -->
 
-[**Jewish Family Services**](Directory.md#Jewish-Family-Services) ofrece asistencia con tarjeta de gasolina prepagada una vez al año para personas en el Condado de SLO que necesitan ayuda con costos de transporte.
-[Presente una solicitud en su sitio web](https://www.jccslo.com/gas.html).
+[**Jewish Family Services**](Directory.md#Jewish-Family-Services) ofrece asistencia con gasolina una vez al año para personas en el Condado de SLO que necesitan ayuda con costos de transporte.
+Para solicitar gasolina de este programa, [presente una solicitud en su sitio web](https://www.jccslo.com/gas.html).
+Debe tener una licencia de conducir válida, registro del vehículo y seguro de auto.
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) opera <!-- This page has gone 404 as of 10 Dec 2025
 a one-time “Emergency Rental Assistance” program.
