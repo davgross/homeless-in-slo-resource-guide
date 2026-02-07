@@ -3245,7 +3245,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Phone:** [800-838-1381](tel:+1-800-838-1381) (main access line)
 - **Hours:** M–F 8am–5pm
-- **How to access:** walk-ins OK (see [Drug & Alcohol Services Walk In Clinics](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics)), or call the main access line to make an appointment
+- **How to access:** walk-ins OK at some clinics (see [Drug & Alcohol Services Walk In Clinics](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics)), or call the main access line to make an appointment
 - Note: Operated by [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health)
 
 ## <a id="SLO-County-Mental-Health-Services">SLO County Behavioral Health Mental Health Services</a>
@@ -4018,7 +4018,7 @@ There are several urgent care options, including:
 - **Phone:**
    - [805-781-5570](tel:+1-805-781-5570) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
    - Text: [888-417-6180](sms:+1-888-417-6180) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-- **Hours:** M–Th 8am–5pm; Fri. 8am–4:30pm (closed on the last Wednesday of the month) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+- **Hours:** M–Th 8am–5:30pm; Fri. 8am–4:30pm (closed on the last Wednesday of the month) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - **How to access:** by appointment only (call or text to make an appointment) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
    - Or visit the [**SLO Food Bank**](#SLO-Food-Bank) main office on the third Friday of the month from 1pm–4pm
 - Eligibility: This program is restricted to people for whom both of the following requirements are true:
