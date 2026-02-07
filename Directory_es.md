@@ -3284,7 +3284,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 - **Teléfono:** [800-838-1381](tel:+1-800-838-1381) (línea de acceso principal)
 - **Horario:** L–V 8am–5pm
-- **Cómo obtener el servicio:** se aceptan visitas sin cita (vea [Drug & Alcohol Services Walk In Clinics](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics)), o llame a la línea de acceso principal para programar una cita
+- **Cómo obtener el servicio:** se aceptan visitas sin cita en algunas clínicas (vea [Drug & Alcohol Services Walk In Clinics](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics)), o llame a la línea de acceso principal para programar una cita
 - Nota: operado por [**Departamento de Salud y Bienestar del Condado de SLO**](#SLO-County-Behavioral-Health)
 
 ## <a id="SLO-County-Mental-Health-Services">SLO Behavioral Health Mental Health Services</a>
@@ -4007,7 +4007,7 @@ Hay varias opciones de atención de urgencias, incluyendo:
 - **Teléfono:**
    - [805-781-5570](tel:+1-805-781-5570) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
    - Texto: [888-417-6180](sms:+1-888-417-6180) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-- **Horario:** L–J 8am–5pm; V 8am–4:30pm (cerrado el último miércoles del mes) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+- **Horario:** L–J 8am–5:30pm; V 8am–4:30pm (cerrado el último miércoles del mes) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - **Cómo obtener el servicio:** solo con cita previa (llame o envíe mensaje de texto para hacer una cita) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
    - O visite la oficina principal del [**SLO Food Bank**](#SLO-Food-Bank) el tercer viernes del mes de 1pm–4pm
 - Elegibilidad: Este programa está restringido a personas para quienes ambos de los siguientes requisitos son verdaderos:
