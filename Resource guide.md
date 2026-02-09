@@ -1700,7 +1700,7 @@ They say: “All VA health care facilities offer same-day help. You may qualify 
 
 [**SLO Vet Center**](Directory.md#SLO-Vet-Center) offers confidential counseling and other mental health care to combat veterans (and certain other veterans) and to victims of military sexual trauma. <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
 
-[**Transitions Mental Health Association**](Directory.md#TMHA) operates the [“VetWell”](https://www.t-mha.org/program-details.php?id=45) which provides free mental health services, peer mentorship, and case management to U.S. military veterans and their family members. <!-- Source: https://www.t-mha.org/program-details.php?id=45 -->
+[**Transitions Mental Health Association**](Directory.md#TMHA) operates the [“VetWell”](https://www.t-mha.org/program-details.php?id=45) program which provides free mental health services, peer mentorship, and case management to U.S. military veterans and their family members. <!-- Source: https://www.t-mha.org/program-details.php?id=45 -->
 Call the Central Coast Hotline to get a referral to the VetWell service. <!-- Source: https://www.t-mha.org/program-details.php?id=45 -->
 
 ### <a id="reproductive-health">Reproductive Health</a>
