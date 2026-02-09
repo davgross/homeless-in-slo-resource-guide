@@ -1668,8 +1668,6 @@ You can get 24-hour mental health support from Central Coast Hotline (call [805-
 
 > For mental health emergencies, see [Emergency Care](#emergency-care) and [Emergency Contacts](#emergency-contacts).
 
-The [**Mobile Crisis Team**](Directory.md#Mobile-Crisis-Team) (county-wide) and [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) (SLO city) respond to acute mental health needs.
-
 [**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) and [**Community Counseling Center**](Directory.md#Community-Counseling-Center) offer low- or no-cost mental health counseling.
 
 A [**Community Health Centers**](Directory.md#CHC) primary care physician can refer you to CHC-provided mental health counseling or psychiatry, which happens over the phone or through internet videoconferencing. <!-- Source: Dan Gross, LCSW @ CHC, personal communication -DG -->
@@ -1685,17 +1683,25 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) at [**CAPSLO**]
 [**SLO Hub**](Directory.md#SLO-Hub) offers weekly mental health therapy sessions to its clients. <!-- SOURCE NEEDED (https://capslo.org/slo-hub/ mentions therapists, but nothing about weekly sessions) -->
 
 People aged 60 and older who are experiencing sadness, frustration, lack of motivation, anxiety, or loneliness can participate in a free coaching program called “PEARLS” that teaches skills to improve life quality. <!-- Source: flyer posted at SLO Library -->
-This program is offered through the Coast Caregiver Resource Center, [ccrc@sbch.org](mailto:ccrc@sbch.org) or [805-569-8950](tel:+1-805-569-8950). <!-- Source: flyer posted at SLO Library -->
+This program is offered through the Coast Caregiver Resource Center: [ccrc@sbch.org](mailto:ccrc@sbch.org) or [805-569-8950](tel:+1-805-569-8950). <!-- Source: flyer posted at SLO Library -->
 
 [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
 and [**PathPoint**](Directory.md#PathPoint) <!-- Source: https://www.pathpoint.org/services/ -->
 have some services for people with mental health disorders and/or developmental disabilities.
 
+The [**Mobile Crisis Team**](Directory.md#Mobile-Crisis-Team) (county-wide) and [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) (SLO city) respond to acute mental health needs.
+
 [**Tri-County GLAD**](Directory.md#Tri-County-GLAD) offers some mental health services to people who are deaf or hard of hearing. <!-- Source: https://tcglad.org/mental-health/ -->
+
+#### Mental Health Services for Veterans
 
 The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers mental health care to qualifying U.S. military veterans.
 They say: “All VA health care facilities offer same-day help. You may qualify even without enrolling in VA health care.” <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
-And [**SLO Vet Center**](Directory.md#SLO-Vet-Center) offers confidential counseling and other mental health care to combat veterans (and certain other veterans) and to victims of military sexual trauma. <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
+
+[**SLO Vet Center**](Directory.md#SLO-Vet-Center) offers confidential counseling and other mental health care to combat veterans (and certain other veterans) and to victims of military sexual trauma. <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
+
+[**Transitions Mental Health Association**](Directory.md#TMHA) operates the [“VetWell”](https://www.t-mha.org/program-details.php?id=45) which provides free mental health services, peer mentorship, and case management to U.S. military veterans and their family members. <!-- Source: https://www.t-mha.org/program-details.php?id=45 -->
+Call the Central Coast Hotline to get a referral to the VetWell service. <!-- Source: https://www.t-mha.org/program-details.php?id=45 -->
 
 ### <a id="reproductive-health">Reproductive Health</a>
 

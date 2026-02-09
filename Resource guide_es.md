@@ -1665,8 +1665,6 @@ Puede obtener apoyo de salud mental las 24 horas de Central Coast Hotline (llame
 
 > Para emergencias de salud mental, vea [Atención de Emergencia](#emergency-care) y [Contactos de Emergencia](#emergency-contacts).
 
-El [**Equipo Móvil de Respuesta a Crisis**](Directory.md#Mobile-Crisis-Team) (toto el condado) y la [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) (ciudad de SLO) responden a necesidades agudas de salud mental.
-
 [**San Luis Obispo Counseling Service at Cal Poly**](Directory.md#Cal-Poly-Community-Counseling-Service) y [**El Centro de Consejería Comunitaria**](Directory.md#Community-Counseling-Center) ofrecen asesoramiento de salud mental de bajo costo o sin costo.
 
 Un médico de atención primaria de [**Community Health Centers**](Directory.md#CHC) puede referirlo a asesoramiento de salud mental o psiquiatría proporcionada por CHC, que ocurre por teléfono o mediante videoconferencia por internet. <!-- Source: Dan Gross, LCSW @ CHC, personal communication -DG -->
@@ -1682,17 +1680,25 @@ El [**Healthcare for the Homeless Program**](Directory.md#HCHP) en el [**40 Prad
 [**SLO Hub**](Directory.md#SLO-Hub) ofrece sesiones semanales de terapia de salud mental a sus clientes. <!-- SOURCE NEEDED (https://capslo.org/slo-hub/ mentions therapists, but nothing about weekly sessions) -->
 
 Las personas de 60 años o más que experimentan tristeza, frustración, falta de motivación, ansiedad o soledad pueden participar en un programa gratuito de coaching llamado “PEARLS,” que enseña habilidades para mejorar su calidad de vida. <!-- Source: flyer posted at SLO Library -->
-Este programa se ofrece a través del Centro de Recursos para Cuidadores de la Costa, [ccrc@sbch.org](mailto:ccrc@sbch.org) o [805-569-8950](tel:+1-805-569-8950). <!-- Source: flyer posted at SLO Library -->
+Este programa se ofrece a través del Centro de Recursos para Cuidadores de la Costa: [ccrc@sbch.org](mailto:ccrc@sbch.org) o [805-569-8950](tel:+1-805-569-8950). <!-- Source: flyer posted at SLO Library -->
 
 [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) <!-- Source: https://www.lifestepsfoundation.org/what-we-do/adult/central-coast-adult-services.html -->
 y [**PathPoint**](Directory.md#PathPoint) <!-- Source: https://www.pathpoint.org/services/ -->
 tienen algunos servicios para personas con trastornos de salud mental y/o discapacidades del desarrollo.
 
+El [**Equipo Móvil de Respuesta a Crisis**](Directory.md#Mobile-Crisis-Team) (todo el condado) y la [**Mobile Crisis Unit**](Directory.md#Mobile-Crisis-Unit) (ciudad de SLO) responden a necesidades agudas de salud mental.
+
 [**Tri-County GLAD**](Directory.md#Tri-County-GLAD) ofrece algunos servicios de salud mental a personas que son sordas o tienen problemas de audición. <!-- Source: https://tcglad.org/mental-health/ -->
 
+#### Servicios de Salud Mental para Veteranos
+
 La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) ofrece atención de salud mental a veteranos militares estadounidenses que califican.
-Dicen: “Todas las instalaciones de atención médica del VA ofrecen ayuda el mismo día. Puede calificar incluso sin inscribirse en la atención médica del VA”. <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
-Y [**SLO Vet Center**](Directory.md#SLO-Vet-Center) ofrece asesoramiento confidencial y otra atención de salud mental a veteranos de combate (y ciertos otros veteranos) y a víctimas de trauma sexual militar. <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
+Dicen: “Todas las instalaciones de atención médica del VA ofrecen ayuda el mismo día. Puede calificar incluso sin inscribirse en la atención médica del VA.” <!-- Source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/ -->
+
+[**SLO Vet Center**](Directory.md#SLO-Vet-Center) ofrece asesoramiento confidencial y otra atención de salud mental a veteranos de combate (y ciertos otros veteranos) y a víctimas de trauma sexual militar. <!-- Source: https://www.va.gov/san-luis-obispo-vet-center/ -->
+
+[**Transitions Mental Health Association**](Directory.md#TMHA) opera el programa [“VetWell”](https://www.t-mha.org/program-details.php?id=45) que ofrece servicios gratuitos de salud mental, mentoría entre pares y gestión de casos a veteranos militares estadounidenses y sus familiares. <!-- Source: https://www.t-mha.org/program-details.php?id=45 -->
+Llame a la línea Central Coast Hotline para obtener una referencia al servicio VetWell. <!-- Source: https://www.t-mha.org/program-details.php?id=45 -->
 
 ### <a id="reproductive-health">Salud Reproductiva</a>
 
