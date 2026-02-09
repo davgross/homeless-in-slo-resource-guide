@@ -1095,6 +1095,10 @@ You can buy bus passes on the bus or by using the [Token Transit](https://tokent
 There are discounts for seniors and disabled people (you may need to [apply for a special card](https://forms.slocity.org/Forms/SDPassApp)), and for children. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/discount-programs -->
 If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit buses. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
 
+The Santa Maria Regional Transit system has a bus that travels between Santa Maria and San Luis Obispo ([route 210](https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000)) on weekdays. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
+It is a “commuter” bus, which means that it operates in the morning and evening, but not in the middle of the day. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
+You can use the SLO RTA’s “Regional 31-Day Pass” on this line, but other SLO RTA passes will not work: you must pay for a separate Santa Maria Regional Transit pass. <!-- Source: https://www.slocity.org/Home/Components/News/News/11624/ -->
+
 Some service providers can give you a bus pass if you cannot afford to buy one.
 For example, [**Catholic Charities**](Directory.md#Catholic-Charities) <!-- SOURCE NEEDED (issue #55) -->
 and the [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) often have bus passes available to people who need them. <!-- SOURCE NEEDED (issue #55) -->

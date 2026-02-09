@@ -1092,6 +1092,10 @@ Puede comprar pases de autobús en el autobús o usando la aplicación [Token Tr
 Hay descuentos para personas mayores y personas con discapacidades (puede necesitar [aplicar para una tarjeta especial](https://forms.slocity.org/Forms/SDPassApp)), y para niños. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/discount-programs -->
 Si compra un pase regional de día de SLO RTA, eso también le permite viajar en autobuses de SLO Transit. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
 
+El sistema Santa Maria Regional Transit tiene un autobús que viaja entre Santa Maria y San Luis Obispo ([ruta 210](https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000)) los días de semana. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
+Es un autobús de “cercanías,” lo que significa que opera en la mañana y en la noche, pero no a la mitad del día. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
+Puede usar el “Pase Regional de 31 Días” de SLO RTA en esta línea, pero otros pases de SLO RTA no funcionarán: debe pagar un pase separado de Santa Maria Regional Transit. <!-- Source: https://www.slocity.org/Home/Components/News/News/11624/ -->
+
 Algunos proveedores de servicios pueden darle un pase de autobús si no puede pagarlo.
 Por ejemplo, [**Catholic Charities**](Directory.md#Catholic-Charities) <!-- SOURCE NEEDED (issue #55) -->
 y la [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) a menudo tienen pases de autobús disponibles para personas que los necesitan. <!-- SOURCE NEEDED (issue #55) -->
