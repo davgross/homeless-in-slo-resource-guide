@@ -1092,8 +1092,19 @@ However people who qualify to use Runabout Paratransit can also ride the ordinar
 You can use the [SLO Transit RiderPortal](https://slo.rider.peaktransit.com/) website or phone app ([iPhone](https://itunes.apple.com/us/app/slo-transit/id458554556?mt=8), [Android](https://play.google.com/store/apps/details?id=edu.calpoly.android.SloBusMapper&hl=en)) to view routes and to see when the next bus is due to arrive.
 You can buy bus passes on the bus or by using the [Token Transit](https://tokentransit.com/riders/download) app.
 (Another option for viewing bus arrival times and for planning travel is the [moovit](https://moovitapp.com/index/en/public_transit-San_Luis_Obispo_CA-4003) app.)
-There are discounts for seniors and disabled people (you may need to [apply for a special card](https://forms.slocity.org/Forms/SDPassApp)), and for children. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/discount-programs -->
 If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit buses. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
+
+There are discounts for seniors and disabled people, and for children. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/discount-programs -->
+To get senior/disabled discounts when you pay a cash fare, you must show an “RTA Discount Eligibility Card.” <!-- Source: https://www.slorta.org/fares/discounts/ -->
+To get such a card you need to complete [a two-page form](https://www.slorta.org/fares/discounts/) and submit this form at the SLO Transit office. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+
+If you are a senior or a Medicare cardholder, you have another option for getting these discounts if you pay your fare by using the [“contactless fare”](https://www.slorta.org/fares/contactless/) system with a credit or debit card. <!-- Source: https://benefits.calitp.org/eligibility/start -->
+Register your card with [benefits.calitp.org](https://benefits.calitp.org/) so your discount applies every time you use that card on a SLO RTA bus.
+You do not need to also have an “RTA Discount Eligibility Card” if you register your contactless card in this way.
+
+The Santa Maria Regional Transit system has a bus that travels between Santa Maria and San Luis Obispo ([route 210](https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000)) on weekdays. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
+It is a “commuter” bus, which means that it operates in the morning and evening, but not in the middle of the day. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
+You can use the SLO RTA’s “Regional 31-Day Pass” on this line, but other SLO RTA passes will not work: you must pay for a separate Santa Maria Regional Transit pass. <!-- Source: https://www.slocity.org/Home/Components/News/News/11624/ -->
 
 Some service providers can give you a bus pass if you cannot afford to buy one.
 For example, [**Catholic Charities**](Directory.md#Catholic-Charities) <!-- SOURCE NEEDED (issue #55) -->

@@ -1089,8 +1089,19 @@ Sin embargo, las personas que califican para usar Runabout Paratransit también 
 Puede usar el sitio web [SLO Transit RiderPortal](https://slo.rider.peaktransit.com/) o la aplicación de teléfono ([iPhone](https://itunes.apple.com/us/app/slo-transit/id458554556?mt=8), [Android](https://play.google.com/store/apps/details?id=edu.calpoly.android.SloBusMapper&hl=en)) para ver rutas y para ver cuándo llegará el próximo autobús.
 Puede comprar pases de autobús en el autobús o usando la aplicación [Token Transit](https://tokentransit.com/riders/download).
 (Otra opción para ver horarios de llegada de autobuses y para planificar viajes es la aplicación [moovit](https://moovitapp.com/index/en/public_transit-San_Luis_Obispo_CA-4003).)
-Hay descuentos para personas mayores y personas con discapacidades (puede necesitar [aplicar para una tarjeta especial](https://forms.slocity.org/Forms/SDPassApp)), y para niños. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/discount-programs -->
 Si compra un pase regional de día de SLO RTA, eso también le permite viajar en autobuses de SLO Transit. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
+
+Hay descuentos para personas mayores y personas con discapacidades, y para niños. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/discount-programs -->
+Para obtener descuentos para personas mayores o con discapacidades cuando paga una tarifa en efectivo, debe mostrar una “RTA Discount Eligibility Card.” <!-- Source: https://www.slorta.org/fares/discounts/ -->
+Para obtener dicha tarjeta, necesita completar [un formulario de dos páginas](https://www.slorta.org/fares/discounts/) y presentarlo en la oficina de SLO Transit. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+
+Si es una persona mayor o tiene una tarjeta de Medicare, tiene otra opción para obtener estos descuentos si paga su tarifa usando el sistema de [“tarifa sin contacto”](https://www.slorta.org/fares/contactless/) con una tarjeta de crédito o débito. <!-- Source: https://benefits.calitp.org/eligibility/start -->
+Registre su tarjeta en [benefits.calitp.org](https://benefits.calitp.org/) para que su descuento se aplique cada vez que use esa tarjeta en un autobús de SLO RTA.
+No necesita tener también una “RTA Discount Eligibility Card” si registra su tarjeta sin contacto de esta manera.
+
+El sistema Santa Maria Regional Transit tiene un autobús que viaja entre Santa Maria y San Luis Obispo ([ruta 210](https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000)) los días de semana. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
+Es un autobús de “cercanías,” lo que significa que opera en la mañana y en la noche, pero no a la mitad del día. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
+Puede usar el “Pase Regional de 31 Días” de SLO RTA en esta línea, pero otros pases de SLO RTA no funcionarán: debe pagar un pase separado de Santa Maria Regional Transit. <!-- Source: https://www.slocity.org/Home/Components/News/News/11624/ -->
 
 Algunos proveedores de servicios pueden darle un pase de autobús si no puede pagarlo.
 Por ejemplo, [**Catholic Charities**](Directory.md#Catholic-Charities) <!-- SOURCE NEEDED (issue #55) -->

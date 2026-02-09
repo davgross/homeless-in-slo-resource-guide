@@ -77,7 +77,7 @@ const WHITELIST = new Set([
   'Lyft', 'vanpool', 'motorhome', 'jobseekers', 'résumé', 'bootcamp', 'bootcamps', 'prediabetes',
   'microchipping', 'décor', 'Vite', 'DOMPurify', 'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite',
   'hemoccult', 'hydrocortisone', 'Rummikub', 'breathwork', 'amyotrophic', 'Latinx', 'transmasculine',
-  'mimetext', 'OpenDyslexic', 'prosthetics',
+  'mimetext', 'OpenDyslexic', 'prosthetics', 'contactless',
 
   // Hyphenated prefixes
   'pre', 'tri',
