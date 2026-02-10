@@ -2780,7 +2780,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:**
    - Local office: [805-543-0696](tel:+1-805-543-0696) <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
    - 24/7 national line: [800-733-2767](tel:+1-800-733-2767)
-- **Hours:** M–F 9am–4pm <!-- Source: https://www.redcross.org/local/california/central-california/about-us/contact-us.html -->
+- **Hours:** Th 10am–2pm, or M–F 9am–4pm by appointment <!-- Source: https://www.redcross.org/local/california/central-california/about-us/contact-us.html -->
 
 ## <a id="Red-Rover-Relief">Red Rover Relief</a>
 
