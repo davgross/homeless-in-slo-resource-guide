@@ -3590,10 +3590,6 @@ Estos son algunos de ellos:
 
 El [Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) en Arroyo Grande también alberga [grupos de apoyo para el cáncer](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) incluyendo grupos en persona para personas con cáncer de seno y para cáncer oral, de cabeza y cuello y varios otros grupos que se reúnen en línea.
 
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga varios grupos de apoyo en el [Hearst Cancer Resource Center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center).
-Estos incluyen grupos [para pacientes con cáncer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) y [cáncer avanzado](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), y grupos para personas con tipos específicos de cáncer, como cánceres de la [sangre](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [seno](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf) o [próstata](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
-Para registrarse, llame al HCRC al [805-542-6234](tel:+1-805-542-6234) o envíe un correo electrónico a [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
-
 **Cuidadores:** El [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) tiene varios grupos de apoyo, algunos de los cuales se reúnen en línea, otros en SLO o Morro Bay.
 Incluyen grupos para cuidadores de personas con demencia, para cuidadores LGBTQ, para cuidadores de pacientes con enfermedad de Parkinson, y grupos que se conducen en español.
 
