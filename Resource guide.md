@@ -1809,6 +1809,9 @@ These include testing, treatment, benefits counseling, help with insurance, harm
 The [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) offers a variety of services for seniors, including [**Senior Connection**](Directory.md#Senior-Connection) (an information and referral service), the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
 They can help you with nutrition and meal services, transportation, and care management.
 
+[**Health Projects Center**](Directory.md#Health-Projects-Center) offers a [Multipurpose Senior Services Program](https://www.hpcn.org/mssp) for people aged 60 years and older who are eligible for Medi-Cal. <!-- Source: https://www.hpcn.org/mssp -->
+This program helps seniors live independently by helping them to coordinate their health care and to obtain necessary transportation, nutrition, and health-related services and supplies. <!-- Source: https://www.hpcn.org/mssp -->
+
 #### Teens and Youth
 
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s [**Teen Wellness**](Directory.md#Teen-Wellness) program includes health coaching, strength classes, mindfulness workshops, and reproductive health education. <!-- Source: https://capslo.org/teen-health-education/ -->

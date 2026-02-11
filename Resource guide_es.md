@@ -1806,6 +1806,9 @@ Estos incluyen pruebas, tratamiento, asesoramiento de beneficios, ayuda con segu
 La [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia), el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC) y el [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
 Pueden ayudarle con nutrición y servicios de comidas, transporte y gestión de cuidado.
 
+El [**Centro de Proyectos de Salud**](Directory.md#Health-Projects-Center) ofrece un [Programa de Servicios Multipropósito para Personas Mayores](https://www.hpcn.org/mssp) (MSSP) para personas de 60 años o más que son elegibles para Medi-Cal. <!-- Source: https://www.hpcn.org/mssp -->
+Este programa ayuda a las personas mayores a vivir de forma independiente, ayudándoles a coordinar su atención médica y a obtener los servicios y suministros necesarios de transporte, nutrición y salud. <!-- Source: https://www.hpcn.org/mssp -->
+
 #### Adolescentes y Jóvenes
 
 El programa [**Teen Wellness**](Directory.md#Teen-Wellness) de [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) incluye entrenamiento de salud, clases de fuerza, talleres de atención plena y educación sobre salud reproductiva. <!-- Source: https://capslo.org/teen-health-education/ -->
