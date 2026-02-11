@@ -73,7 +73,7 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
    <tr><td><a href="tel:+1-988">988</a> / <a href="sms:988">988</a></td><td>National Suicide Prevention Lifeline</td></tr><!-- Source: https://988lifeline.org/ -->
    <tr><td><a href="tel:+1-800-783-0607">800-783-0607</a></td><td>Central Coast Hotline: 24/7 suicide prevention and mental health crisis line that provides immediate emotional support</td></tr><!-- Source: https://www.t-mha.org/central-coast-hotline.php -->
    <tr><td>Text “HOME” to <a href="sms:741741?&body=HOME">741741</a></td><td>Crisis Text Line for immediate emotional support (or online at <a href="https://connect.crisistextline.org/chat">connect.crisistextline.org/chat</a>)</td></tr><!-- Source: https://www.crisistextline.org/ -->
-   <tr><td><a href="tel:+1-833-317-4673">833-317-HOPE</a> (español: <a href="tel:+1-833-642-7696">833-642-7696</a>)</td><td>The Warm Line: free, confidential emotional support (or online at <a href="https://www.mentalhealthsf.org/warm-line">mentalhealthsf.org/warm-line</a>)</td></tr><!-- Source: https://www.calhope.org/ -->
+   <tr><td><a href="tel:+1-833-317-4673">833-317-HOPE</a></td><td>The Warm Line: free, confidential emotional support (or online at <a href="https://www.mentalhealthsf.org/warm-line">mentalhealthsf.org/warm-line</a>)</td></tr><!-- Source: https://www.calhope.org/ -->
   </tr>
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom:0;">⇨ For Young People:</th></tr>
    <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Youth Crisis Line, for people in California ages 12–24; call or text</td></tr><!-- Source: https://calyouth.org/cycl/ -->
