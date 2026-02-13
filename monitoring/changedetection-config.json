@@ -294,9 +294,64 @@
       "url": "https://www.va.gov/san-luis-obispo-vet-center/"
     },
     "01b24e89-02e2-469d-9246-9f218d6651bb": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -672,9 +727,64 @@
       "url": "https://www.slocll.org/library-resources/amenities/"
     },
     "0450970c-8e5e-4a2c-b602-bae81c611aab": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -986,12 +1096,18 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Closed now"
+      ],
       "include_filters": [
         "#locationWidgetWrapper div.flex-1"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".Main_commonly__s7Kyq"
+      ],
       "url": "https://carbonhealth.com/en/locations/atascadero-ca"
     },
     "05ee9372-5f4d-47bc-a88b-ef8b975d657f": {
@@ -1148,12 +1264,71 @@
       "url": "https://www.prepareslo.org/"
     },
     "07b957c3-8823-4fdd-9580-54385e13bca9": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#page"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        "section.elementor-section:nth-child(5)"
+      ],
       "url": "https://centerforautism.com/locations/san-luis-obispo-california/"
     },
     "07e2b547-aa96-4d96-85e2-212daecf6ae8": {
@@ -2508,9 +2683,64 @@
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php?option=com_cpx&task=search.query&code=BH-3800"
     },
     "0e1e2561-5e9e-441c-bb05-5b5cc73f18bb": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#moduleContent"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -2813,9 +3043,64 @@
       "url": "https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/justice-services/behavioral-health-bridge-housing"
     },
     "10c9722d-b3f4-41ad-b4b1-2366838bf0a7": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3710,6 +3995,13 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Register to Vote in San Luis Obispo County",
+        "Instagram Facebook TikTok YouTube",
+        "Follow us on social media below!",
+        "Follow us on social media below!",
+        "Instagram Facebook TikTok YouTube"
+      ],
       "include_filters": [
         ".grid-rows-\\[1fr_auto\\] > div:nth-child(2)"
       ],
@@ -3719,6 +4011,58 @@
       "url": "https://linktr.ee/slorentcoalition"
     },
     "14ed953f-7faf-49b4-b7f6-e17a76804270": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -4337,6 +4681,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Powered by Create your own unique website with customizable templates. Get Started"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4893,9 +5240,64 @@
       "url": "https://www.casasolanainc.org/contact"
     },
     "1cbb43e9-4bef-426a-80e3-71345bea8f9b": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -5970,9 +6372,64 @@
       "url": "https://mixteco.org/indigenous-interpreter-services/"
     },
     "22882992-56bf-4c4f-b54d-a7d12b17d17a": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".hero3-main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -6359,9 +6816,64 @@
       "url": "https://adulted.luciamarschools.org/info-registration"
     },
     "2498fb83-ef12-4049-b36f-c052140d5be8": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".fixed-container"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -6380,53 +6892,53 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
@@ -6968,6 +7480,58 @@
       "url": "https://www.centralcoastna.org/"
     },
     "27e5dca3-1a3b-4dfe-832d-9b2726485a6f": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -7032,6 +7596,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -7185,6 +7755,58 @@
       "url": "https://www.slohealthaccess.org/medical.html"
     },
     "28e2abeb-509f-4194-b647-2bdbd890180b": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -8163,9 +8785,64 @@
       "url": "https://app.mycareconnect.io/carewait/capslo"
     },
     "3108b07d-48b3-454f-9c6a-12e8e23cae1c": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -8391,6 +9068,58 @@
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSdtCq7URDKl8ikvDNatRRWA8y4vLyUarT5SvYRxxt0BJEHneA/viewform"
     },
     "31f5674a-7d12-4891-aa7e-1b68349feeec": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -8607,6 +9336,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -8989,65 +9724,65 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "#\\31 755192260681-29f97bf4-933c"
+        ".vc_tta-panels"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.pshhc.org/rental-faq/#1755192260681-29f97bf4-933c"
+      "url": "https://www.pshhc.org/rental-faq/#1603302191846-0d88dd41-feca"
     },
     "35ea9fc5-c5ea-456f-b2f7-07b19d63bdfd": {
       "browser_steps": [
@@ -10524,12 +11259,70 @@
       "url": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/"
     },
     "40187dcb-fe16-45e1-a207-65de745dfffa": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#moduleContent"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cc76fe1fa0-e784-4f7d-8c49-1a09f2ba52c3 > div:nth-child(2)"
+      ],
       "url": "https://www.prcity.com/1193/Scholarships"
     },
     "4037aba5-51ce-4e3f-a2b4-fa25176b7e19": {
@@ -10606,9 +11399,64 @@
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php/component/cpx/?task=search.query&view=&page=2&search_history_id=262841187&unit_list=0&akaSort=0&query=%20&simple_query=&code=H&limit=&name="
     },
     "409078d2-5d8e-4298-a935-4b7491ae8889": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10872,9 +11720,64 @@
       "url": "https://www.slocoe.org/about/programs/homeless-and-foster-youth-services-coordinating-program/school-district-liaisons-and-contacts/"
     },
     "42fafb87-f302-4f2c-857d-85f2755261b9": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10890,9 +11793,64 @@
       "url": "https://luminaalliance.org/contact"
     },
     "436927dc-1247-4500-ab29-fa05b77f74b5": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.container:nth-child(4)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -11119,12 +12077,70 @@
       "url": "https://www.cottagehealth.org/services/rehabilitation/caregiver-services/"
     },
     "45318e60-fc28-48ef-b436-64eb1d9f2720": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".elementor-col-66"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header"
+      ],
       "url": "https://centerforautism.com/services/parent-resources/insurance-accepted/"
     },
     "45ff07bd-2db5-430d-be62-1a78407a9996": {
@@ -11192,6 +12208,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -11515,6 +12537,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -12137,9 +13165,64 @@
       "url": "https://www.ssa.gov/number-card/replace-card/get-started/apply-online"
     },
     "49a49f2c-b35a-4eb9-bb8b-d8fad7369c9b": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -13582,9 +14665,64 @@
       "url": "https://centralcoastseniors.org/ask-a-medicare-question/"
     },
     "511f67ce-2ad9-41e6-b977-72c390c1f859": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".fixed-container"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -13664,9 +14802,64 @@
       "url": "https://www.aclusocal.org/en/seeking-legal-help-aclu"
     },
     "51ebbf58-d1b3-4fd9-9c94-899a906f05a7": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -17125,6 +18318,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -17625,12 +18824,71 @@
       "url": "https://agsreciclyng.com/"
     },
     "638fc51c-64a4-409a-9f23-a19cca64ed2b": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".em-calendar-wrapper",
+        ".stay-connected"
+      ],
       "url": "https://rideshare.org/"
     },
     "63af3254-59e8-4079-a8d1-245f62aec11d": {
@@ -20213,9 +21471,65 @@
       "url": "https://www.t-mha.org/clinical-services.php"
     },
     "7032fe34-861f-4ca6-854d-18e852b25f24": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.container:nth-child(4)",
+        "div.container:nth-child(5)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -21342,18 +22656,128 @@
       "url": "https://uuslo.org/ministers-discretionary-fund"
     },
     "7647dc8e-4647-44b0-906e-a4872e4d453e": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://capslo.org/rcp/"
     },
     "775e79c6-ddb5-4788-a4c5-a88e24a64800": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -21424,9 +22848,64 @@
       "url": "https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center"
     },
     "7777c3c7-f17b-463b-91a4-1b3043c1c081": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -22768,6 +24247,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -22778,9 +24263,64 @@
       "url": "https://www.slo.courts.ca.gov/self-help/civil-appeals/getting-copies-court-files"
     },
     "7b4d2433-d3eb-4d49-85ee-8fbfbf4bac6e": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -23053,9 +24593,64 @@
       "url": "https://www.dhcs.ca.gov/services/ccs/Pages/ProgramOverview.aspx"
     },
     "7c220a16-c001-4795-a008-fcbacaccd10c": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.container:nth-child(4)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -26464,9 +28059,64 @@
       "url": "https://www.morrobayca.gov/292/Recreation-Services"
     },
     "8f03a363-1714-41c7-abc9-22dde4e50a02": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#propertyTemplate-Option6"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -29237,58 +30887,61 @@
       "browser_steps": [
         {
           "operation": null,
-          "optional_value": "",
-          "selector": ""
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         },
         {
-          "operation": "Choose one",
-          "optional_value": "",
-          "selector": ""
+          "operation": null,
+          "optional_value": null,
+          "selector": null
         }
       ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "UUSLO Staff: "
+      ],
       "include_filters": [
         ".vc_custom_1727737630460 > div:nth-child(1)",
         ".vc_custom_1727737606574 > div:nth-child(1)"
@@ -30209,9 +31862,64 @@
       "url": "https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome"
     },
     "a38b326d-2018-43a6-81e4-eb14fb2c06f9": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -30558,6 +32266,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#contentZone > div:nth-child(1) > div:nth-child(1)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -31485,12 +33196,70 @@
       "url": "https://www.t-mha.org/program-details.php?id=16"
     },
     "a9a2403d-23c2-47fc-b25d-467ba5ac8c0b": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "div.et_pb_section:nth-child(5)"
+      ],
       "url": "https://capslo.org/north-county-family-resource-center/"
     },
     "a9ae4cf4-7b65-4afb-bc21-b0524c70846a": {
@@ -31759,6 +33528,58 @@
       "url": "https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request"
     },
     "abb6fa63-286e-4f87-a510-5eb0fed1c248": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": "",
+          "selector": ""
+        },
+        {
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
+        },
+        {
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
+        },
+        {
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
+        },
+        {
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
+        },
+        {
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
+        },
+        {
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
+        },
+        {
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
+        },
+        {
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
+        },
+        {
+          "operation": "Choose one",
+          "optional_value": "",
+          "selector": ""
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -32410,6 +34231,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -32481,6 +34308,58 @@
       "url": "https://slothrift.com/"
     },
     "b0e05b05-bf74-4a88-99c3-1b0246182d1b": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -32554,9 +34433,64 @@
       "url": "https://channel.recliquecore.com/programs/21393244/san-luis-obispo-school-age-care/"
     },
     "b10c6bef-8b7d-45dc-a01a-a436a841c8b0": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -32915,9 +34849,64 @@
       "url": "https://alffoodpantry.org/need-food"
     },
     "b3382a01-8b64-43f2-b99d-222d9b21383a": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -33073,9 +35062,64 @@
       "url": "https://www.cambriacommunitycouncil.org/community-bus"
     },
     "b48520bb-d60b-4af7-9555-842106867806": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -33091,6 +35135,58 @@
       "url": "https://slobangers.com/services.html"
     },
     "b4e83c32-0ff2-48fb-9bb3-15b297816382": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -34241,6 +36337,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -34251,9 +36353,64 @@
       "url": "https://www.slo.courts.ca.gov/self-help/family-law/domestic-violence"
     },
     "ba08cf92-df04-4cc1-b2f5-4a41a9c53b36": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".fixed-container"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -35275,9 +37432,64 @@
       "url": "https://www.slocounty.ca.gov/departments/health-agency/behavioral-health"
     },
     "c15d38e0-90a6-458b-85fb-6461f038a686": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".fixed-container"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -36631,9 +38843,65 @@
       "url": "https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/california-assistance-program-for-immigrants-%28capi"
     },
     "c8e723df-3d2f-4415-811b-9f18a808b6c2": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".banner-cta",
+        ".container"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -36842,9 +39110,64 @@
       "url": "https://fivecitieschristianwomenfoodpantry.org/"
     },
     "ca4b6f66-62de-4d39-ad1e-5f0e5470b4d0": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".content-left-rr"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -38230,6 +40553,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -38331,6 +40660,58 @@
       "url": "https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group"
     },
     "d39926d0-f1b4-40e2-8042-3bc2acdc7645": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -38737,18 +41118,128 @@
       "url": "https://catholiccharitiesdom.org/family-supportive-services/"
     },
     "d55d37b3-465e-401c-a1a1-43e43bc326f4": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://capslo.org/slo-hub/"
     },
     "d572e955-8678-4174-951c-7aa3f2378b64": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -39563,9 +42054,64 @@
       "url": "https://www.atascadero.org/service/recreation-guide"
     },
     "d93c09cb-2726-47a6-b5ff-f10af08c210d": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -39590,15 +42136,122 @@
       "url": "https://www.prtoybank.org/"
     },
     "d9b7be8e-ce35-40ce-9a8b-fb401aa77c95": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://capslo.org/utility-assistance/"
     },
     "d9f1540a-8078-43e8-b18a-3efb4cde916e": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -42195,9 +44848,64 @@
       "url": "https://trinitylososos.org/whats-happening/tumc-food-pantry"
     },
     "e57bca38-25fe-481b-ab52-c8e80d228d94": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.mt-0 > div:nth-child(1)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -42950,6 +45658,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".page > div:nth-child(4)",
         "main"
@@ -43115,6 +45829,58 @@
       "url": "https://needymeds.org/"
     },
     "ec26aeea-d8f1-4e68-9855-343cb24fc8d5": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -43679,6 +46445,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "form"
+      ],
       "url": "https://www.myfreetaxes.org/file-with-virtual-help/"
     },
     "ee8226eb-aea8-4bf1-a1c4-aa1c1dddabc4": {
@@ -44996,9 +47765,65 @@
       "url": "https://removery.com/services/ink-nitiative"
     },
     "f35da7d5-0e64-4728-b59c-e238f58123d4": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.mx-auto:nth-child(4)",
+        "div.px-6:nth-child(2)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -46670,6 +49495,58 @@
       "url": "https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill"
     },
     "fb39d75f-e617-4192-a09c-3fe8eac555af": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -46909,9 +49786,64 @@
       "url": "https://www.mylowcostauto.com/"
     },
     "fd7f7b2f-1386-40d0-ba24-cf2e77f91813": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".aem-Grid--8"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -47175,9 +50107,64 @@
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php?option=com_cpx&task=search.query&code=LH-4600"
     },
     "fe17f84a-c5b8-4410-bf07-fb254355f89c": {
+      "browser_steps": [
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        },
+        {
+          "operation": null,
+          "optional_value": null,
+          "selector": null
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#cc76fe1fa0-e784-4f7d-8c49-1a09f2ba52c3 > div:nth-child(1) > div:nth-child(1)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
