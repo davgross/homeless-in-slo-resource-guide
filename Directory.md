@@ -547,7 +547,7 @@
 ## <a id="California-Department-of-Rehabilitation">California Department of Rehabilitation</a>
 
 - **Website:** [dor.ca.gov](https://www.dor.ca.gov/)
-- **Location:** <a href="#" class="map-link" data-lat="35.255033" data-lon="-120.668947" data-zoom="17" data-label="California Department of Rehabilitation">3320 S. Higuera #102, SLO</a> <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
+- **Location:** <a href="#" class="map-link" data-lat="35.255033" data-lon="-120.668947" data-zoom="17" data-label="California Department of Rehabilitation">3220 S. Higuera #102, SLO</a> <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
 - **Phone:**
    - Local office:
       - [805-594-6100](tel:+1-805-594-6100)
@@ -2466,7 +2466,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 <!-- Source: https://www.yelp.com/biz/nipomo-community-presbyterian-church-arroyo-grande -->
 - **Website:** [nipomopresbyterian.org](https://www.nipomopresbyterian.org)
-- **Location:** <a href="#" class="map-link" data-lat="35.070495" data-lon="-120.512163" data-zoom="17" data-label="Nipomo Community Presbyterian">1235 N. Thompson Ave., Arroyo Grande</a> <!-- Source: https://www.nipomopresbyterian.org/join-us -->
+- **Location:** <a href="#" class="map-link" data-lat="35.070495" data-lon="-120.512163" data-zoom="17" data-label="Nipomo Community Presbyterian">1235 N. Thompson Ave., Nipomo</a> <!-- Source: https://www.nipomopresbyterian.org/join-us -->
 - **Phone:** [805-473-8059](tel:+1-805-473-8059)
 - Hours (food pantry): F 12:45–1:30pm <!-- Source: https://www.nipomopresbyterian.org/calendar -->
 
