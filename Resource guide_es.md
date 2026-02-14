@@ -1456,7 +1456,13 @@ Bajo el programa “Elegibilidad Presunta del Hospital,” en una emergencia, lo
 - No ha usado el programa “Elegibilidad Presunta del Hospital” más de una vez en los últimos 12 meses (más de dos veces para niños).
 
 No se requiere ciudadanía estadounidense. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
-Las cuatro salas de emergencias participan en el programa “Elegibilidad Presunta del Hospital”. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
+Las cuatro salas de emergencias participan en el programa “Elegibilidad Presunta del Hospital.” <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
+
+Los hospitales en el condado de SLO son operados por Dignity Health y Adventist Health, organizaciones sin fines de lucro que ofrecen atención médica gratuita o con descuento a algunas personas que no tienen mucho dinero. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.dignityhealth.org/financial-assistance -->
+Si necesita atención médica de un hospital y le preocupa que no pueda pagarla, o si recibe una factura del hospital que no puede pagar, pregunte al hospital sobre sus políticas de atención caritativa.
+La organización independiente sin fines de lucro [Dollar For](https://dollarfor.org/) también puede ayudarle a reducir o eliminar su factura del hospital. <!-- Source: https://dollarfor.org/ -->
+Dollar For le facilita el acceso a la atención caritativa. <!-- Source: https://dollarfor.org/ -->
+Dollar For ofrece sus servicios de forma gratuita. <!-- Source: https://dollarfor.org/ -->
 
 ### <a id="urgent-care">Opciones de Atención Urgente</a>
 
