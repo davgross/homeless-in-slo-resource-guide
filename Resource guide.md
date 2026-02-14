@@ -1461,12 +1461,6 @@ Under the “Hospital Presumptive Eligibility” program, in an emergency, hospi
 U.S. Citizenship is not required. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
 All four emergency rooms participate in the “Hospital Presumptive Eligibility” program. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
 
-The hospitals in SLO County are operated by Dignity Health and Adventist Health, nonprofit organizations that offer free or discounted medical care to some people who do not have much money. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.dignityhealth.org/financial-assistance -->
-If you need medical care from a hospital and you are worried that you cannot afford it, or if you get a hospital bill that you cannot afford to pay, ask the hospital about their charity care policies.
-The independent nonprofit [Dollar For](https://dollarfor.org/) can also help you reduce or eliminate your hospital bill. <!-- Source: https://dollarfor.org/ -->
-Dollar For makes it easier for you to access charity care. <!-- Source: https://dollarfor.org/ -->
-Dollar For offers its services free of charge. <!-- Source: https://dollarfor.org/ -->
-
 ### <a id="urgent-care">Urgent Care Options</a>
 
 Visit an urgent care center when you have a medical problem that needs prompt attention but is not life-threatening.
@@ -1585,8 +1579,14 @@ The [**Help Hope Live**](Directory.md#Help-Hope-Live) program can help you estab
 If you need immediate funds to pay for a specific medical expense and you are not eligible for Medi-Cal or any other health insurance, consider the [**Medically Indigent Services Program**](Directory.md#MISP).
 Call them to start the application process. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-%28misp%29 -->
 
-If you are a patient of [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista), you may qualify for their [Financial Assistance](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/) program.
+The hospitals in SLO County are operated by [**Dignity Health**](Directory.md#Dignity-Health) and Adventist Health, nonprofit organizations that offer free or discounted medical care to some people who do not have much money. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.dignityhealth.org/financial-assistance -->
+If you are a patient of Adventist Health, you may qualify for their [Financial Assistance](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/) program.
 Ask them in person for an application or contact them at [844-827-5047](tel:+1-844-827-5047) <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/ --> or [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
+Dignity Health also has financial assistance programs.
+You can find more details about them on their [French Hospital](https://www.dignityhealth.org/central-coast/locations/frenchhospital/patients-and-visitors/for-patients/billing-information/financial-assistance) and [Arroyo Grande Community Hospital](https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/billing-information/financial-assistance) “Help Paying Your Bill” pages.
+If you have difficulty applying for these programs, or if these hospitals discourage or deny your claims for charity care, the independent nonprofit [Dollar For](https://dollarfor.org/) can help you. <!-- Source: https://dollarfor.org/ -->
+Dollar For makes it easier for you to access charity care programs like these. <!-- Source: https://dollarfor.org/ -->
+Dollar For offers its services free of charge. <!-- Source: https://dollarfor.org/ -->
 
 > See also the [Emergency Financial Needs](#emergency-financial-help) section of this guide.
 
