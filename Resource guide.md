@@ -1461,7 +1461,7 @@ Under the “Hospital Presumptive Eligibility” program, in an emergency, hospi
 U.S. Citizenship is not required. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
 All four emergency rooms participate in the “Hospital Presumptive Eligibility” program. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
 
-The hospitals in our area are operated by Dignity Health and Adventist Health, nonprofit organizations that offer free or discounted medical care to some people who do not have much money. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.dignityhealth.org/financial-assistance -->
+The hospitals in SLO County are operated by Dignity Health and Adventist Health, nonprofit organizations that offer free or discounted medical care to some people who do not have much money. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.dignityhealth.org/financial-assistance -->
 If you need medical care from a hospital and you are worried that you cannot afford it, or if you get a hospital bill that you cannot afford to pay, ask the hospital about their charity care policies.
 The independent nonprofit [Dollar For](https://dollarfor.org/) can also help you reduce or eliminate your hospital bill. <!-- Source: https://dollarfor.org/ -->
 Dollar For makes it easier for you to access charity care. <!-- Source: https://dollarfor.org/ -->
