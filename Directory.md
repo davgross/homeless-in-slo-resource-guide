@@ -3935,7 +3935,7 @@ There are several urgent care options, including:
 - **Phone:** [805-781-5766](tel:+1-805-781-5766) <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services -->
 - **Email:** [slovets@co.slo.ca.us](mailto:slovets@co.slo.ca.us)
 - **How to access:** In-person and phone appointments only; no walk-ins; book appointments [online](https://sanluisobispocountyveteransservices.as.me/schedule/970de54e) or by phone
-- Notes: SLO office has a small [food pantry](https://www.slocounty.ca.gov/departments/veterans-services/veterans-services-food-pantry)
+- Note: SLO office has a small [food pantry](https://www.slocounty.ca.gov/departments/veterans-services/veterans-services-food-pantry)
 
 <!-- Not referenced anywhere else
 ## Veterans Services Collaborative

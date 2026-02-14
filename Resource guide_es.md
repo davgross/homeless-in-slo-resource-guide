@@ -1458,12 +1458,6 @@ Bajo el programa “Elegibilidad Presunta del Hospital,” en una emergencia, lo
 No se requiere ciudadanía estadounidense. <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
 Las cuatro salas de emergencias participan en el programa “Elegibilidad Presunta del Hospital.” <!-- Source: https://www.slohealthaccess.org/medi-cal.html -->
 
-Los hospitales en el condado de SLO son operados por Dignity Health y Adventist Health, organizaciones sin fines de lucro que ofrecen atención médica gratuita o con descuento a algunas personas que no tienen mucho dinero. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.dignityhealth.org/financial-assistance -->
-Si necesita atención médica de un hospital y le preocupa que no pueda pagarla, o si recibe una factura del hospital que no puede pagar, pregunte al hospital sobre sus políticas de atención caritativa.
-La organización independiente sin fines de lucro [Dollar For](https://dollarfor.org/) también puede ayudarle a reducir o eliminar su factura del hospital. <!-- Source: https://dollarfor.org/ -->
-Dollar For le facilita el acceso a la atención caritativa. <!-- Source: https://dollarfor.org/ -->
-Dollar For ofrece sus servicios de forma gratuita. <!-- Source: https://dollarfor.org/ -->
-
 ### <a id="urgent-care">Opciones de Atención Urgente</a>
 
 Visite un centro de atención urgente cuando tenga un problema médico que necesita atención inmediata pero que no pone en peligro la vida.
@@ -1582,8 +1576,14 @@ El programa [**Help Hope Live**](Directory.md#Help-Hope-Live) puede ayudarle a e
 Si necesita fondos inmediatos para pagar un gasto médico específico y no es elegible para Medi-Cal ni ningún otro seguro médico, considere el [**Medically Indigent Services Program**](Directory.md#MISP).
 Llámelos para comenzar el proceso de solicitud. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-%28misp%29 -->
 
-Si es paciente de [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista), puede calificar para su programa de [Financial Assistance](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/).
+Los hospitales en el condado de SLO son operados por [**Dignity Health**](Directory.md#Dignity-Health) y Adventist Health, organizaciones sin fines de lucro que ofrecen atención médica gratuita o con descuento a algunas personas que no tienen mucho dinero. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.dignityhealth.org/financial-assistance -->
+Si es paciente de Adventist Health, puede calificar para su programa de [Asistencia Financiera](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/).
 Pídale una solicitud en persona o contáctelos al [844-827-5047](tel:+1-844-827-5047) <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/ --> o [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
+Dignity Health también tiene programas de asistencia financiera.
+Puede encontrar más detalles en sus páginas de “Help Paying Your Bill” de [French Hospital](https://www.dignityhealth.org/central-coast/locations/frenchhospital/patients-and-visitors/for-patients/billing-information/financial-assistance) y [Arroyo Grande Community Hospital](https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/billing-information/financial-assistance).
+Si tiene dificultades para solicitar estos programas, o si estos hospitales le desalientan o le niegan sus solicitudes de atención caritativa, la organización independiente sin fines de lucro [Dollar For](https://dollarfor.org/) puede ayudarle. <!-- Source: https://dollarfor.org/ -->
+Dollar For le facilita el acceso a programas de atención caritativa como estos. <!-- Source: https://dollarfor.org/ -->
+Dollar For ofrece sus servicios de forma gratuita. <!-- Source: https://dollarfor.org/ -->
 
 > Vea también la sección [Necesidades Financieras de Emergencia](#emergency-financial-help) de esta guía.
 
