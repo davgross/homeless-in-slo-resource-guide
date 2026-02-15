@@ -4104,7 +4104,7 @@ Aquí hay algunas de estas guías locales:
 - [Community Support Services](https://5chc.org/community-services): una lista de servicios disponibles en el sur del Condado de SLO, mantenida por 5Cities Homeless Coalition (Coalición para Personas sin Hogar de las 5 Ciudades)
 - [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): directorio de recursos del SLO County Public Health Department Maternal and Child Health
 - [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
-- [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): la lista de Faith LeGrande que elaboraron mientras buscaban ayuda
+- [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): la lista de Faith LeGrande que elaboró mientras buscaba ayuda
 - [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html): del sitio web “Need Help Paying Bills” (Necesita Ayuda Pagando Cuentas)
 - [(TMHA) Helpful Links](https://www.t-mha.org/helpful-links.php): con enfoque en recursos relacionados con la salud mental
 - [SLO County Behavioral Health Resource Center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
