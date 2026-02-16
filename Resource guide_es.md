@@ -1047,7 +1047,9 @@ Puede encontrar un mapa de estas estaciones de hidratación [en este enlace](htt
 - [Bicicletas](#bicycles)
 - [Seguro y Reparación de Automóviles](#auto-insurance-and-repair)
 
-> *Consulte [Recuperación de un Vehículo Remolcado o Propiedad de un Vehículo Remolcad](#recovering-towed-vehicle) para obtener detalles sobre cómo recuperar su vehículo si fue remolcado.
+> Vea [Recuperación de un Vehículo Remolcado o Propiedad de un Vehículo Remolcad](#recovering-towed-vehicle) para obtener detalles sobre cómo recuperar su vehículo si fue remolcado.
+
+> Vea [Ayuda Financiera de Emergencia](#emergency-financial-help) para conocer programas que pueden brindarle asistencia financiera para pagar gastos de emergencia, como reparaciones de automóviles o para cargar gasolina en su automóvil.
 
 ### <a id="public-transit">Transporte Público</a>
 
@@ -1971,7 +1973,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 **Ciudad de SLO:**
 
 - [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), <a href="#" class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">885 Oklahoma Ave.</a>
-- [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a> <i>(cerrado temporalmente a partir del 8 de enero de 2026)</i>
+- [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a> <i>(cerrado temporalmente a partir del 8 de enero de 2026)</i> <!-- Reopening 2/23/26 -->
 - [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave.</a>
 - Cuesta Canyon Park, <a href="#" class="map-link" data-lat="35.294471" data-lon="-120.642822" data-zoom="16" data-label="Cuesta Park">2400 Loomis St.</a>
 - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
@@ -4104,7 +4106,7 @@ Aquí hay algunas de estas guías locales:
 - [Community Support Services](https://5chc.org/community-services): una lista de servicios disponibles en el sur del Condado de SLO, mantenida por 5Cities Homeless Coalition (Coalición para Personas sin Hogar de las 5 Ciudades)
 - [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): directorio de recursos del SLO County Public Health Department Maternal and Child Health
 - [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
-- [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): la lista de Faith LeGrande que elaboró mientras buscaba ayuda
+- [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): la lista de Faith LeGrande que elaboró mientras elle buscaba ayuda
 - [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html): del sitio web “Need Help Paying Bills” (Necesita Ayuda Pagando Cuentas)
 - [(TMHA) Helpful Links](https://www.t-mha.org/helpful-links.php): con enfoque en recursos relacionados con la salud mental
 - [SLO County Behavioral Health Resource Center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)

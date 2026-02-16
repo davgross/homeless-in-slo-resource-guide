@@ -1050,7 +1050,9 @@ You can find a map of these hydration stations [at this link](https://storymaps.
 - [Bicycles](#bicycles)
 - [Automobile Insurance and Repair](#auto-insurance-and-repair)
 
-> *See [Recovering a Towed Vehicle, or Property from Towed Vehicle](#recovering-towed-vehicle) for details about how to retrieve your vehicle if it was towed away.*
+> See [Recovering a Towed Vehicle, or Property from Towed Vehicle](#recovering-towed-vehicle) for details about how to retrieve your vehicle if it was towed away.
+
+> See [Emergency Financial Help](#emergency-financial-help) for programs that can give you financial assistance to pay for emergency expenses like car repairs, or to put gas in your car.
 
 ### <a id="public-transit">Public Transit</a>
 
@@ -1974,7 +1976,7 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 **SLO city:**
 
 - [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), <a href="#" class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">885 Oklahoma Ave.</a>
-- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a> <i>(temporarily closed as of 8 January 2026)</i>
+- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a> <i>(temporarily closed as of 8 January 2026)</i> <!-- Reopening 2/23/26 -->
 - [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave.</a>
 - Cuesta Canyon Park, <a href="#" class="map-link" data-lat="35.294471" data-lon="-120.642822" data-zoom="16" data-label="Cuesta Park">2400 Loomis St.</a>
 - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
