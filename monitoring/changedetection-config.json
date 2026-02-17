@@ -7600,6 +7600,8 @@
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information."
       ],
       "include_filters": [
@@ -9337,6 +9339,8 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
@@ -12212,6 +12216,8 @@
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information."
       ],
       "include_filters": [
@@ -12538,6 +12544,8 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
@@ -18319,6 +18327,8 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
@@ -24251,7 +24261,9 @@
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
-        "There is a known issue with re:SearchCA where some cases may be missing information."
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors"
       ],
       "include_filters": [
         ".page > div:nth-child(4)",
@@ -26321,6 +26333,15 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://recycleca.org/business/recycle-101-inc"
+    },
+    "8699d077-7158-4ec2-a2a7-03dcc4f5f9be": {
+      "filter_text_added": true,
+      "filter_text_removed": true,
+      "filter_text_replaced": true,
+      "method": "GET",
+      "notification_format": "System default",
+      "processor": "text_json_diff",
+      "url": "https://woodshumanesociety.org/spay-neuter/vaccines/"
     },
     "86a9cbb6-697f-46f2-959c-9a8fb141adb5": {
       "browser_steps": [
@@ -34235,6 +34256,8 @@
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information."
       ],
       "include_filters": [
@@ -36338,6 +36361,8 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
@@ -40554,6 +40579,8 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
@@ -45659,6 +45686,10 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
         "There is a known issue with re:SearchCA where some cases may be missing information.",
         "Online Case Lookup Errors",
