@@ -3818,7 +3818,9 @@ They specialize in care for pets of homeless people. <!-- Source: https://care4p
 They also operate the “Pet Refuge” program, which can temporarily board pets for people whose housing situation has become unstable or who are temporarily unable to care for their pets. <!-- This is new: https://www.newtimesslo.com/c-a-r-e-4paws-will-offer-boarding-for-pets-living-with-struggling-families/ -->
 
 [**Woods Humane Society**](Directory.md#Woods-Humane-Society) has a [Pet Pantry](https://woodshumanesociety.org/pet-pantry/) for pet owners facing challenges and offers financial assistance for spay/neuter procedures.
-They can also help you find lost pets and can find new homes for pets when their owners can no longer take care of them. <!-- https://woodshumanesociety.org/resources/lost-pet-help/ and https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
+They hold by-appointment [quarterly pet vaccine clinics](https://woodshumanesociety.org/spay-neuter/vaccines/) and also walk-in vaccine clinics on the first Wednesday of each month from 2–4pm.
+At these clinics the DA2PP vaccine (dogs) and FVRCP vaccine (cats) are free; some other vaccines and medical services are available for $5–20. <!-- Source: https://woodshumanesociety.org/spay-neuter/vaccines/ -->
+Woods can also help you find lost pets and can find new homes for pets when their owners can no longer take care of them. <!-- Source: https://woodshumanesociety.org/resources/lost-pet-help/ and https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
 Some services are by-appointment only. <!-- Source: e.g. https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
 
 [**North County Paws Cause**](Directory.md#North-County-Paws-Cause) can help people in northern SLO County who need help caring for their cats while they are homeless or transitioning into new housing.
