@@ -3328,7 +3328,7 @@ Las personas en el ejército de los Estados Unidos, veteranos militares de los E
 
 ## <a id="phones">Teléfonos y Servicio Telefónico</a>
 
-El [Programa California LifeLine](https://www.californialifeline.com/es) ([866-272-0357](tel:+1-866-272-0357) o use su [chat en línea](https://www.californialifeline.com/es/contact)) da a hogares de bajos ingresos descuentos en servicio de teléfono residencial o celular.
+El [Programa California LifeLine](https://www.californialifeline.com/es) ([866-272-0357](tel:+1-866-272-0357) o use su [chat en línea](https://www.californialifeline.com/es/contact)) da a hogares de bajos ingresos descuentos en servicio de teléfono residencial, internet de banda ancha, o celular.
 En muchos casos los descuentos son suficientes para hacer el servicio gratuito. <!-- SOURCE NEEDED -->
 Solicita este programa a través de un proveedor de servicio telefónico comercial que apoye el programa. <!-- Source: https://www.californialifeline.com/en/faq -->
 Algunos proveedores también le dan un teléfono gratuito cuando se registra para California LifeLine a través de su servicio, por ejemplo [AirTalk Wireless](https://airtalkwireless.com/es/lifeline-application), [enTouch Wireless](https://entouchwireless.com/states/california-lifeline-free-phone-service/) o [Gen Mobile](https://www.genmobile.com/pages/lifeline-program).

@@ -3330,7 +3330,7 @@ People in the U.S. military, U.S. military veterans, and their spouses, adult ch
 
 ## <a id="phones">Phones and Phone Service</a>
 
-The [California LifeLine Program](https://www.californialifeline.com/) ([866-272-0357](tel:+1-866-272-0357) or use their [online chat](https://www.californialifeline.com/en/contact)) gives low-income households discounts on home phone or cell phone service.
+The [California LifeLine Program](https://www.californialifeline.com/) ([866-272-0357](tel:+1-866-272-0357) or use their [online chat](https://www.californialifeline.com/en/contact)) gives low-income households discounts on home phone, broadband internet, or cell phone service.
 In many cases the discounts are enough to make the service free. <!-- SOURCE NEEDED -->
 You apply for this program through a commercial phone service provider that supports the program. <!-- Source: https://www.californialifeline.com/en/faq -->
 Some providers also give you a free phone when you register for California LifeLine through their service, for example [AirTalk Wireless](https://airtalkwireless.com/lifeline-application), [enTouch Wireless](https://entouchwireless.com/states/california-lifeline-free-phone-service/), or [Gen Mobile](https://www.genmobile.com/pages/lifeline-program).
