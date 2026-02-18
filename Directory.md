@@ -236,14 +236,14 @@
 
 ## <a id="AGS-Recycling">AGS Recycling</a>
 
-- **Website:** [agsreciclyng.com](https://agsreciclyng.com/)
+- **Website:** [agsrecyclinginc.com](https://www.agsrecyclinginc.com/)
 - **Locations:**
-   - Arroyo Grande: <a href="#" class="map-link" data-lat="35.0814297" data-lon="-120.5863837" data-zoom="17" data-label="AGS Recycling (Arroyo Grande)">564 Mesa View Dr.</a> <!-- Source: https://agsreciclyng.com/ -->
-   - Morro Bay: <a href="#" class="map-link" data-lat="35.3899509" data-lon="-120.8572476" data-zoom="17" data-label="AGS Recycling (Morro Bay)">2650 Main Street</a> <!-- Source: https://agsreciclyng.com/ -->
-- **Phone:** [805-598-6285](tel:+1-805-598-6285) <!-- Source: https://agsreciclyng.com/ -->
+   - Arroyo Grande: <a href="#" class="map-link" data-lat="35.0814297" data-lon="-120.5863837" data-zoom="17" data-label="AGS Recycling (Arroyo Grande)">564 Mesa View Dr.</a> <!-- Source: https://www.agsrecyclinginc.com/ -->
+   - Morro Bay: <a href="#" class="map-link" data-lat="35.3899509" data-lon="-120.8572476" data-zoom="17" data-label="AGS Recycling (Morro Bay)">2650 Main Street</a> <!-- Source: https://www.agsrecyclinginc.com/ -->
+- **Phone:** [805-598-6285](tel:+1-805-598-6285) <!-- Source: https://www.agsrecyclinginc.com/ -->
 - **Hours:**
-   - Arroyo Grande: Tu–Sa 9am–5pm (closed Noon–12:30pm) <!-- Source: https://agsreciclyng.com/ -->
-   - Morro Bay: Tu–Sa 9am–5pm (closed Noon–12:30pm) <!-- Source: https://agsreciclyng.com/ -->
+   - Arroyo Grande: Tu–Sa 9am–5pm (closed Noon–12:30pm) <!-- Source: https://www.agsrecyclinginc.com/ -->
+   - Morro Bay: Tu–Sa 9am–5pm (closed Noon–12:30pm) <!-- Source: https://www.agsrecyclinginc.com/ -->
 
 ## AIDS Support Network
 
