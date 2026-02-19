@@ -314,12 +314,6 @@
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
-## Area Agency on Aging
-
-> *See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
-
-<!-- Note: Area Agency on Aging may be being defunded by California -->
-
 ## <a id="Arise-Central-Coast">Arise Central Coast</a>
 
 - **Website:** [arisevineyard.com](https://arisevineyard.com/)
@@ -849,7 +843,6 @@
 - **Email:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
 - **Hours:** M–F 8am–5pm
 - Notes:
-   - the local “Area Agency on Aging” <!-- Note: Area Agency on Aging may be being defunded by California -->
    - operates [**Senior Connection**](#Senior-Connection)
    - operates [**HiCAP**](#HiCAP)
    - operates [**Central Coast Aging & Disability Resource Center**](#CCADRC)
