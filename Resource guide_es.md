@@ -3610,7 +3610,7 @@ Otro grupo de [esperanza para derrame cerebral](https://www.stroke.org/en/stroke
 
 **Diabetes:** [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga un [grupo de apoyo para diabetes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes) trimestral.
 
-**Enfermedad de Alzheimer:** Hay [grupos de apoyo mensuales para Alzheimer](https://www.alz.org/cacentralcoast/support/supportgroups) para cuidadores y otras personas afectadas por la enfermedad de Alzheimer en Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles y SLO, así como en línea.
+**Enfermedad de Alzheimer:** Hay [grupos de apoyo mensuales para Alzheimer](https://www.alz.org/cacentralcoast/support/supportgroups) para cuidadores y otras personas afectadas por la enfermedad de Alzheimer en Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles y SLO.
 También hay grupos de apoyo para personas recientemente diagnosticadas, y para personas que sufren duelo debido a un ser querido con demencia.
 Para registrarse para un grupo, llame al [800-272-3900](tel:+1-800-272-3900).
 
@@ -3682,9 +3682,6 @@ Escriba a [atownmoms@gmail.com](mailto:atownmoms@gmail.com) para más informaci�
 
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) alberga [Parent Cafés](https://capslo.org/Pops2/) (Cafés para Padres) y [grupos POPS2](https://capslo.org/Pops2/) (para hombres específicamente) con cuidado infantil y una comida proporcionada.
 Para detalles sobre cómo unirse, contacte a [pops@capslo.org](mailto:pops@capslo.org) o [805-295-1628](tel:+1-805-295-1628).
-
-[Pacific Midwifery](https://pacificmidwiferycare.com/) ofrece grupos gratuitos de “MaMa Mentoring” (Mentoría MaMa) los martes en Arroyo Grande.
-Contacte a [megan@pacificmidwiferycare.com](mailto:megan@pacificmidwiferycare.com) ([805-994-0446](tel:+1-805-994-0446)) para detalles.
 
 Postpartum Support International (Apoyo Posparto Internacional) también organiza [muchos grupos de apoyo gratuitos en línea](https://postpartum.net/en-espanol/encuentros-de-apoyo-virtuales/).
 

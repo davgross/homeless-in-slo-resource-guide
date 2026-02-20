@@ -3599,7 +3599,7 @@ These are some of them:
 
 ### <a id="conditions-peer-support">Disabilities, Medical Conditions, and Mental Illnesses</a>
 
-**Alzheimer’s disease:** There are monthly [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups) for caregivers and other people affected by Alzheimer’s disease in Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles, and SLO, as well as online.
+**Alzheimer’s disease:** There are monthly [Alzheimer’s support groups](https://www.alz.org/cacentralcoast/support/supportgroups) for caregivers and other people affected by Alzheimer’s disease in Arroyo Grande, Atascadero, Cambria, Morro Bay, Nipomo, Paso Robles, and SLO.
 There are also support groups for people recently diagnosed, and for people suffering bereavement because of a loved one with dementia.
 To register for a group, call [800-272-3900](tel:+1-800-272-3900).
 
@@ -3684,9 +3684,6 @@ Write to [atownmoms@gmail.com](mailto:atownmoms@gmail.com) for more information.
 
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) hosts [Parent Cafés](https://capslo.org/Pops2/) and [POPS2 groups](https://capslo.org/Pops2/) (for fathers specifically) with childcare and a meal provided.
 For details on how to join, contact [pops@capslo.org](mailto:pops@capslo.org) or [805-295-1628](tel:+1-805-295-1628).
-
-[Pacific Midwifery](https://pacificmidwiferycare.com/) offers free “MaMa Mentoring” groups on Tuesdays in Arroyo Grande.
-Contact [megan@pacificmidwiferycare.com](mailto:megan@pacificmidwiferycare.com) ([805-994-0446](tel:+1-805-994-0446)) for details.
 
 Postpartum Support International also organizes [many free online support groups](https://postpartum.net/get-help/psi-online-support-meetings/).
 
