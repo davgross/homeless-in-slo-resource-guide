@@ -1976,7 +1976,7 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 **SLO city:**
 
 - [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), <a href="#" class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">885 Oklahoma Ave.</a>
-- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a> <i>(closed until 23 February 2026)</i> <!-- Reopening 2/23/26 -->
+- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a>
 - [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave.</a>
 - Cuesta Canyon Park, <a href="#" class="map-link" data-lat="35.294471" data-lon="-120.642822" data-zoom="16" data-label="Cuesta Park">2400 Loomis St.</a>
 - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
@@ -3701,8 +3701,7 @@ There are free, outdoor fitness courts with exercise equipment at Emerson Park i
 The “Vita Fitness Courses” in Meadow Park (<a href="#" class="map-link" data-lat="35.267591" data-lon="-120.662198" data-zoom="16" data-label="Vita Fitness Course">between Corrida Drive and South Street in SLO</a>) and around <a href="#" class="map-link" data-lat="35.265279" data-lon="-120.682712" data-zoom="14" data-label="Laguna Lake Park">Laguna Lake Park</a> in SLO have some stations with rudimentary equipment that are designed for fitness exercises.
 <!-- I couldn’t find anything like this outside of SLO city limits -->
 
-The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (online and in person), aqua fitness classes, swim lessons, and more.
-<!-- Sources: https://www.ciymca.org/san-luis-obispo-group-exercise-schedule#/results and https://www.ciymca.org/active-older-adults and https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center/swim-classes-events -->
+The [**SLO County YMCA**](Directory.md#SLO-County-YMCA) has a gym in SLO city with weight machines, fitness classes (online and in person), aqua fitness classes, swim lessons, and more. <!-- Sources: https://www.ciymca.org/san-luis-obispo-group-exercise-schedule#/results and https://www.ciymca.org/active-older-adults and https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center/swim-classes-events -->
 Membership is not free, but the YMCA policy is that “no one is denied membership because of inability to pay.” <!-- Source: https://www.ciymca.org/financial-assistance -->
 Ask them about options for people with low incomes.
 
