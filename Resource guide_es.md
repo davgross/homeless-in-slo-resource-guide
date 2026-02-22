@@ -1973,7 +1973,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 **Ciudad de SLO:**
 
 - [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), <a href="#" class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">885 Oklahoma Ave.</a>
-- [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a> <i>(cerrado hasta 23 de febrero de 2026)</i> <!-- Reopening 2/23/26 -->
+- [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a>
 - [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave.</a>
 - Cuesta Canyon Park, <a href="#" class="map-link" data-lat="35.294471" data-lon="-120.642822" data-zoom="16" data-label="Cuesta Park">2400 Loomis St.</a>
 - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
@@ -3699,8 +3699,7 @@ Hay canchas de ejercicio gratuitas al aire libre con equipo de ejercicio en Emer
 Los “Vita Fitness Courses” (Cursos de Ejercicio Vita) en Meadow Park (<a href="#" class="map-link" data-lat="35.267591" data-lon="-120.662198" data-zoom="16" data-label="Vita Fitness Course">entre Corrida Drive y South Street en SLO</a>) y alrededor de <a href="#" class="map-link" data-lat="35.265279" data-lon="-120.682712" data-zoom="14" data-label="Laguna Lake Park">Laguna Lake Park</a> en SLO tienen algunas estaciones con equipo rudimentario diseñado para ejercicios de acondicionamiento físico.
 <!-- I couldn’t find anything like this outside of SLO city limits -->
 
-El [**SLO County YMCA**](Directory.md#SLO-County-YMCA) tiene un gimnasio en la ciudad de SLO con máquinas de pesas, clases de acondicionamiento físico (en línea y en persona), clases de acondicionamiento acuático, lecciones de natación y más.
-<!-- Sources: https://www.ciymca.org/san-luis-obispo-group-exercise-schedule#/results and https://www.ciymca.org/active-older-adults and https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center/swim-classes-events -->
+El [**SLO County YMCA**](Directory.md#SLO-County-YMCA) tiene un gimnasio en la ciudad de SLO con máquinas de pesas, clases de acondicionamiento físico (en línea y en persona), clases de acondicionamiento acuático, lecciones de natación y más. <!-- Sources: https://www.ciymca.org/san-luis-obispo-group-exercise-schedule#/results and https://www.ciymca.org/active-older-adults and https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center/swim-classes-events -->
 La membresía no es gratuita, pero la política del YMCA es que “a nadie se le niega la membresía debido a incapacidad de pagar.” <!-- Source: https://www.ciymca.org/financial-assistance -->
 Pregúnteles sobre opciones para personas con bajos ingresos.
 
