@@ -2009,7 +2009,7 @@ La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Adminis
 ### <a id="twelve-step">Programas de Recuperación de 12 Pasos y Similares</a>
 
 [**Alcohólicos Anónimos**](Directory.md#AA) es un programa de sobriedad y recuperación dirigido por compañeros.
-[**Recovery Dharma**](Directory.md#Recovery-Dharma), organizado por [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service), es un programa similar orientado al budismo. <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?distance=5&search=93401&mode=location -->
+[**Recovery Dharma**](Directory.md#Recovery-Dharma) es un programa similar orientado al budismo. <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
 
 [**Narcotics Anonymous**](Directory.md#Narcotics-Anonymous) (Narcóticos Anónimos) es similar y le ayuda a dejar de usar otras drogas adictivas.
 [**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) (Marihuana Anónima) es específicamente para la marihuana.

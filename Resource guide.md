@@ -2012,7 +2012,7 @@ The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Admini
 ### <a id="twelve-step">12-Step and Similar Recovery Programs</a>
 
 [**Alcoholics Anonymous**](Directory.md#AA) is a peer-led sobriety and recovery program.
-[**Recovery Dharma**](Directory.md#Recovery-Dharma), hosted by [**Aspire Counseling Services**](Directory.md#Aspire-Counseling-Service), is a similar, Buddhist-oriented program. <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?distance=5&search=93401&mode=location -->
+[**Recovery Dharma**](Directory.md#Recovery-Dharma) is a similar, Buddhist-oriented program. <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
 
 [**Narcotics Anonymous**](Directory.md#Narcotics-Anonymous) is similar and helps you stop using other addictive drugs.
 [**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) is for marijuana specifically.
