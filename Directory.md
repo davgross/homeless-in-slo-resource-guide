@@ -4017,7 +4017,7 @@ There are several urgent care options, including:
 - **Phone:**
    - [805-781-5570](tel:+1-805-781-5570) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
    - Text: [888-417-6180](sms:+1-888-417-6180) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-- **Hours:** M–Th 8am–5:30pm; Fri. 8am–4:30pm (closed on the last Wednesday of the month) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
+- **Hours:** M/Tu/Th 8am–5:30pm; Wed. 8am–5pm; Fri. 8am–4:30pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - **How to access:** by appointment only (call or text to make an appointment) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
    - Or visit the [**SLO Food Bank**](#SLO-Food-Bank) main office on the third Friday of the month from 1pm–4pm
 - Eligibility: This program is restricted to people for whom both of the following requirements are true:
