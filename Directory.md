@@ -355,7 +355,6 @@
    - [888-585-7373](tel:+1-888-585-7373) (24/7 call or text) <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
 - **Email:** [info@aspirecounselingservice.com](mailto:info@aspirecounselingservice.com) <!-- Source: https://aspirecounselingservice.com/contact/ -->
 - **Hours:** M–F 9am–9pm, Sa. 9am–1pm <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
-- Notes: Hosts [**Recovery Dharma**](#Recovery-Dharma)
 
 ## <a id="Assistance-League-of-SLO-County">Assistance League of SLO County</a>
 
@@ -2749,10 +2748,10 @@ If you see one listed here that is no longer in service, please use the feedback
 ## <a id="Recovery-Dharma">Recovery Dharma</a>
 
 - **Website:** [recoverydharma.org](https://recoverydharma.org/)
-- **Location:** <a href="#" class="map-link" data-lat="35.242312" data-lon="-120.640925" data-zoom="17" data-label="Aspire Counseling Service">865 Aerovista Pl. #106, SLO</a> ([**Aspire Counseling Service**](#Aspire-Counseling-Service)) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?region=california -->
-- **Email:** [tedrossini@gmail.com](mailto:tedrossini@gmail.com) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?region=california -->
-- **Phone:** [510-417-6162](tel:+1-510-417-6162) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?region=california -->
-- **Hours:** Sa. 10:20–11:20am <!-- Source: https://recoverydharma.org/meetings/rd-central-coast?region=california -->
+- **Location:** <a href="#" class="map-link" data-lat="35.269386" data-lon="-120.657033" data-zoom="17" data-label="Unitarian Universalists San Luis Obispo">2201 Lawton Avenue, SLO</a> ([**Unitarian Universalists San Luis Obispo**](#UUSLO) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast/ -->
+- **Email:** [tedrossini@gmail.com](mailto:tedrossini@gmail.com) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
+- **Phone:** [510-417-6162](tel:+1-510-417-6162) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
+- **Hours:** Sa. 10:30–11:30am <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
 
 ## <a id="Recuperative-Care-Program">Recuperative Care Program</a>
 
@@ -3833,6 +3832,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - Notes:
    - operates “Refugee and Immigrant Services Education,” and “We Care Foodshare” <!-- Source: https://uuslo.org/care-for-our-neighbors -->
    - hosts [**Shower the People**](#Shower-the-People) on Tuesdays and Thursdays <!-- Source: https://uuslo.org/care-for-our-neighbors -->
+   - hosts [**Recovery Dharma**](#Recovery-Dharma)
 
 ## <a id="UnitedHealthcare-Childrens-Foundation">UnitedHealthcare Children’s Foundation</a>
 
