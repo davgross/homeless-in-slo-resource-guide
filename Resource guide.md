@@ -548,7 +548,7 @@ If you want to apply for housing through this program, begin the [application pr
 [**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) operates a home ownership program for first-time low-income home buyers and home preservation assistance (minor repairs, landscaping, painting) for low-income homeowners. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 Apply via their website. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 
-[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates a “sweat equity” homeownership program in which families help to build their own homes. <!-- Source: https://www.pshhc.org/home-ownership/ -->
+[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) operates a “sweat equity” homeownership program in which families help to build their own homes. <!-- Source: https://www.pshhc.org/build-your-own-home/ -->
 They also operate affordable rental housing developments and supportive housing programs. <!-- Sources: https://www.pshhc.org/rental-properties/ and https://www.pshhc.org/supportive-housing/ -->
 They serve low-income families, farmworkers, seniors, veterans, people with disabilities, and formerly-homeless people. <!-- Source: https://www.pshhc.org/rental-faq/#1603302191846-0d88dd41-feca -->
 Contact them directly to access the program. <!-- Source: https://www.pshhc.org/rental-faq/#1755192260681-29f97bf4-933c -->

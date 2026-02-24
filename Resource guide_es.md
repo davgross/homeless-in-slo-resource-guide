@@ -548,7 +548,7 @@ Si desea solicitar vivienda a través de este programa, comience el [proceso de 
 [**Habitat for Humanity SLO County**](Directory.md#Habitat-for-Humanity) opera un programa de propiedad de vivienda para compradores de vivienda de bajos ingresos por primera vez y asistencia de preservación de vivienda (reparaciones menores, jardinería, pintura) para propietarios de vivienda de bajos ingresos. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 Solicite a través de su sitio web. <!-- Sources: https://habitatslo.org/homeownership/ and https://habitatslo.org/homepreservation/ -->
 
-[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) opera un programa de propiedad de vivienda en el que las familias ayudan a construir sus propias casas. <!-- Source: https://www.pshhc.org/home-ownership/ -->
+[**Peoples’ Self-Help Housing**](Directory.md#Peoples-Self-Help-Housing) opera un programa de propiedad de vivienda en el que las familias ayudan a construir sus propias casas. <!-- Source: https://www.pshhc.org/build-your-own-home/ -->
 También operan desarrollos de vivienda de alquiler asequible y programas de vivienda de apoyo. <!-- Sources: https://www.pshhc.org/rental-properties/ and https://www.pshhc.org/supportive-housing/ -->
 Sirven a familias de bajos ingresos, trabajadores agrícolas, personas mayores, veteranos, personas con discapacidades y personas anteriormente sin hogar. <!-- Source: https://www.pshhc.org/rental-faq/#1603302191846-0d88dd41-feca -->
 Comuníquese con ellos directamente para acceder al programa. <!-- Source: https://www.pshhc.org/rental-faq/#1755192260681-29f97bf4-933c -->
