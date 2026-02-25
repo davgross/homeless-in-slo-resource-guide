@@ -3641,6 +3641,10 @@ Se reúne todos los jueves de 11:30am a 1:00pm en la Iglesia Luterana Mount Carm
 
 Varias iglesias del Condado de SLO albergan [grupos de apoyo GriefShare](https://griefshare.org/) con un enfoque cristiano en el duelo.
 
+[**Woods Humane Society**](Directory.md#Woods-Humane-Society) organiza un grupo de apoyo gratuito y mensual, “Paws to Remember”, para dueños de mascotas que están de duelo por la pérdida o la pérdida inminente de una mascota. <!-- Source: https://atascaderonews.com/nonprofit/woods-humane-society-hospice-slo-county-launch-monthly-pet-loss-support-group/ -->
+Este grupo se reúne el último jueves de cada mes de 3–4pm en la Sala Comunitaria de Woods Humane Society. <!-- Source: https://woodshumanesociety.org/resources/pet-loss/ -->
+Comuníquese con [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) si tiene preguntas. <!-- Source: https://woodshumanesociety.org/resources/pet-loss/ -->
+
 ### <a id="behavioral-health-peer-support">Salud del Comportamiento</a>
 
 > Vea [Programas de Recuperación de 12 Pasos y Similares](#twelve-step) en la sección [Uso de Drogas, Recuperación y Reducción de Daños](#drug-use-and-recovery) arriba para grupos de apoyo para personas en recuperación de adicciones a las drogas.

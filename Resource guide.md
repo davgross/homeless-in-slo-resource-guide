@@ -3643,6 +3643,10 @@ It meets every Thursday from 11:30am–1:00pm at Mount Carmel Lutheran Church, <
 
 Several SLO County churches host [GriefShare support groups](https://griefshare.org/) with a Christian focus on grieving.
 
+[**Woods Humane Society**](Directory.md#Woods-Humane-Society) hosts a free, monthly, “Paws to Remember” support group for pet owners who are mourning the loss or imminent loss of a pet. <!-- Source: https://atascaderonews.com/nonprofit/woods-humane-society-hospice-slo-county-launch-monthly-pet-loss-support-group/ -->
+This group meets on the last Thursday of each month from 3–4pm at the Woods Humane Society Community Room. <!-- Source: https://woodshumanesociety.org/resources/pet-loss/ -->
+Contact [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) if you have questions. <!-- Source: https://woodshumanesociety.org/resources/pet-loss/ -->
+
 ### <a id="behavioral-health-peer-support">Behavioral Health</a>
 
 > See [12-Step and Similar Recovery Programs](#twelve-step) in the [Drug Use, Recovery, and Harm Reduction](#drug-use-and-recovery) section above for support groups for people recovering from drug addictions.
