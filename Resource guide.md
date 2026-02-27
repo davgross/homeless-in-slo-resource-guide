@@ -3432,6 +3432,8 @@ Scholarships that cover part of the class fees are available to people with low 
 The free [Triple P Fear Less Class](https://www.t-mha.org/workshop-details.php?id=80) offered by [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) helps parents and caregivers of children (ages 6–14) who experience anxiety to foster confident and healthy children, cultivate strong family relationships, and effectively address misbehavior.
 
 [**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) has a “baby bank” from which you can get free maternity and breastfeeding supplies, diapers, baby wipes, formula, safe sleep equipment, child car seats, books, and toys. <!-- Source: https://www.ppsslo.org/practical-assistance -->
+
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) offers [parenting classes](http://www.scyouthcoalition.org/classes--events.html).
 (Car seat installation by appointment only.) <!-- Source: https://www.ppsslo.org/practical-assistance -->
 
 > See the [Peer Support Groups: Pregnancy and Parenthood](#parenthood-peer-support) section for information about a variety of support groups for new parents and pregnant people.
