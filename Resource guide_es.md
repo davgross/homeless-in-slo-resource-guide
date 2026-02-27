@@ -1215,7 +1215,7 @@ Aquí hay algunos consejos para mantener su bicicleta segura si está acampando:
 
 Un automóvil debe estar asegurado para ser conducido legalmente en California. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
 California tiene un programa de seguro de automóvil de bajo costo patrocinado por el estado. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
-Para calificar, debe tener una licencia de conducir válida de California, bajos ingresos (para una persona soltera, menos de $39,125 por año), un vehículo que no valga más de $25,000,<!-- Source; https://www.mylowcostauto.com/faq/english --> y tener:
+Para calificar, debe tener una licencia de conducir válida de California, bajos ingresos (para una persona soltera, menos de $39,900 por año), un vehículo que no valga más de $25,000,<!-- Source; https://www.mylowcostauto.com/faq/english --> y tener:
 
 <!-- Source: https://www.mylowcostauto.com/faq/english -->
 - no más de un accidente por su culpa de solo daño a la propiedad o no más de un punto por una infracción de tránsito en los últimos tres años,
@@ -1339,7 +1339,7 @@ Proporcionan las monedas para las máquinas y el detergente para ropa y las hoja
 
 ### <a id="free-showers">Servicios de Duchas Gratis</a>
 
-[**Shower the People**](Directory.md#Shower-the-People) ofrece duchas gratis desde su remolque de duchas móvil varias veces por semana en varios lugares en la ciudad de SLO y en Grover Beach. <!-- Source: personal knowledge of program as volunteer -DG -->
+[**Shower the People**](Directory.md#Shower-the-People) ofrece duchas gratis desde sus remolques de duchas móviles varias veces por semana en varios lugares en la ciudad de SLO y en Grover Beach. <!-- Source: personal knowledge of program as volunteer -DG -->
 Proporcionan toallas y jabón. <!-- Source: personal knowledge of program as volunteer -DG -->
 Los huéspedes también reciben artículos de tocador gratis, y calcetines, ropa interior y camisetas nuevos. <!-- Source: personal knowledge of program as volunteer -DG -->
 Operan llueva o haga sol todo el año incluyendo días festivos. <!-- Source: personal knowledge of program as volunteer -DG -->
