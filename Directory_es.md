@@ -3006,15 +3006,18 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Sitio web:** [salvationarmyusa.org/usa-western-territory](https://www.salvationarmyusa.org/usa-western-territory/)
    - [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
 
-| Ubicación | Teléfono | Despensa de Alimentos | Notas |
-| --------- | -------- | --------------------- | ----- |
-| <a href="#" class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">815 Islay St., SLO</a> <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | [805-544-2401](tel:+1-805-544-2401) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | Mi/V 10am–mediodía, J 2–4pm <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | Opera un “Programa de Realojamiento Rápido” |
-| <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">1550 W. Branch St., Arroyo Grande</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-481-0278](tel:+1-805-481-0278) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | L/Mi/V 10am–2pm | |
-| <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">8420 El Camino Real</a> | [805-466-7201](tel:+1-805-466-7201) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | |
-| <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">540 Quintana Rd., Morro Bay</a> | [805-772-7062](tel:+1-805-772-7062) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | Se cerró temporalmente a partir de septiembre de 2025. <!-- says Eva -DG --> |
-| <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">711 Paso Robles St., Paso Robles</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-238-9591](tel:+1-805-238-9591) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | Se cerró temporalmente a partir de septiembre de 2025. <!-- says Eva -DG --> |
+| Ubicación | Teléfono | Despensa de Alimentos |
+| --------- | -------- | --------------------- |
+| <a href="#" class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">815 Islay St., SLO</a> <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | [805-544-2401](tel:+1-805-544-2401) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | Mi/V 10am–mediodía, J 2–4pm <!-- Source: https://sanluisobispo.salvationarmy.org/ --> |
+| <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">1550 W. Branch St., Arroyo Grande</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-481-0278](tel:+1-805-481-0278) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | L/Mi/V 10am–2pm |
+| <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">711 Paso Robles St., Paso Robles</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-238-9591](tel:+1-805-238-9591) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | |
+<!-- (Temporarily?) closed:
+| <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">8420 El Camino Real, Atascadero</a> | [805-466-7201](tel:+1-805-466-7201) | |
+| <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">540 Quintana Rd., Morro Bay</a> | [805-772-7062](tel:+1-805-772-7062) | |
+-->
 
 - **Cómo obtener el servicio:** Para la despensa de alimentos, debe vivir en el área y debe registrarse con una identificación con foto en su primera visita.
+- Notas: en SLO opera un “Programa de Realojamiento Rápido”
 
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
@@ -3637,9 +3640,9 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 ## <a id="South-County-Youth-Coalition">South County Youth Coalition</a>
 
-**Sitio web:** [scyouthcoalition.org](http://www.scyouthcoalition.org/) <!-- http-only as of Feb. 2026 -->
-**Teléfono:** [805-474-2032](tel:+1-805-474-2032) <!-- Source: http://www.scyouthcoalition.org/contact.html -->
-**Correo electrónico:** [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com) <!-- Source: http://www.scyouthcoalition.org/contact.html -->
+- **Sitio web:** [scyouthcoalition.org](http://www.scyouthcoalition.org/) <!-- http-only as of Feb. 2026 -->
+- **Teléfono:** [805-474-2032](tel:+1-805-474-2032) <!-- Source: http://www.scyouthcoalition.org/contact.html -->
+- **Correo electrónico:** [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com) <!-- Source: http://www.scyouthcoalition.org/contact.html -->
 
 ## Stand Strong
 
