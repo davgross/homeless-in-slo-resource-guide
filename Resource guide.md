@@ -3243,9 +3243,9 @@ The [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) gives you 
 
 ### <a id="citizenship-studies">Citizenship Studies</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
-The free course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
-You must be able to read and understand basic English. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a U.S. Citizenship class that teaches the process of establishing U.S. citizenship and prepares you to pass the Naturalization Interview & Test. <!-- Source: https://adulted.luciamarschools.org/civics -->
+The free course is every Thursday from 5–8pm at the Oceano Learning Center, and you can begin the course any Thursday. <!-- Source: https://adulted.luciamarschools.org/civics -->
+You must be able to read and understand basic English. <!-- Source: https://adulted.luciamarschools.org/civics -->
 Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
 
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) gives you access to the [ProCitizen](https://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096) citizenship prep course, covering the civics, reading, and writing parts of the U.S. citizenship exam.
@@ -3255,8 +3255,8 @@ If you are a refugee from another country, you may be able to get some help with
 
 ### <a id="literacy">Literacy</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a Basic English Literary course that happens all year at its Oceano Learning Center location. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
-The course is every Tuesday from 5–8pm and you can begin the course any Tuesday. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers a Basic English Literary course that happens all year at its Oceano Learning Center location. <!-- Source: https://adulted.luciamarschools.org/civics -->
+The course is every Tuesday from 5–8pm and you can begin the course any Tuesday. <!-- Source: https://adulted.luciamarschools.org/civics -->
 Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) is a free, volunteer-based, one-on-one tutoring program that helps adults improve their literacy skills.
@@ -3298,7 +3298,7 @@ English as a Second Language (ESL) classes are for learners who already have ano
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers free [ESL classes](https://ae.slcusd.org/hsd-esl/english-as-a-second-language) in Morro Bay and San Luis Obispo.
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers free [ESL classes](https://adulted.luciamarschools.org/english-as-a-second-language) at its Nipomo and Oceano learning centers
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) offers free [ESL classes](https://adulted.luciamarschools.org/esl) at its Nipomo and Oceano learning centers
 
 [**Cuesta College**](Directory.md#Cuesta-College) offers free [ESL classes](https://www.cuesta.edu/academics/divisions/studentdevsuccess/esl/index.html) in Arroyo Grande, Paso Robles, and San Luis Obispo.
 
