@@ -2894,6 +2894,8 @@ You cannot apply directly for help from Womenade, but you must apply through ano
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) has a micro-grant program for people who need one-time emergency financial assistance of $200 or less for needs like rent assistance, vehicle needs, transportation, or food. <!-- Source: https://www.jccslo.com/microgrants.html -->
 You cannot apply for this yourself, but must have a case worker apply on your behalf. <!-- Source: https://www.jccslo.com/microgrants.html -->
 
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) gives grants to families in need who live in its operating region for things like school clothes and supplies, food, clothing, gas, utilities, and healthcare.
+
 [SLO City Church](https://slocity.church/needs-request) has a Benevolence Team that offers one-time financial assistance of up to $600 to people in SLO County who face unexpected hardship. <!-- Source: https://slocity.church/needs-request -->
 They limit their assistance to urgent needs like utility bills, rent, vehicle repairs or registration, emergency medical expenses, and emergency transportation. <!-- Source: https://slocity.church/needs-request -->
 You must have a “referring partner” (such as a teacher, pastor, counselor, employer, or caseworker) apply on your behalf. <!-- Source: https://slocity.church/needs-request -->
@@ -3413,6 +3415,8 @@ For more info: [805-544-KIDS](tel:+1-805-544-5437) or [info@slocm.org](mailto:in
 It provides screening, assessment, referral, and treatment. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 These services are free to people with Medi-Cal/CenCal coverage, and available on a sliding feed schedule otherwise. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) gives grants to families in need who live in its operating region for things like school clothes and supplies, food, clothing, gas, utilities, and healthcare.
+
 > See [CalFresh / EBT (Food Stamps) and WIC](#calfresh-ebt-wic) in the [Food Resources](#food) section of this guide for information about the Women, Infants, and Children (WIC) program.
 
 > See [Family Law / Child Support](#family-law) in the [Legal Help & Crime Victim Protection](#legal-help) section of this guide for information about enforcing child support orders and other family law issues.
@@ -3433,6 +3437,8 @@ The free [Triple P Fear Less Class](https://www.t-mha.org/workshop-details.php?i
 
 [**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) has a “baby bank” from which you can get free maternity and breastfeeding supplies, diapers, baby wipes, formula, safe sleep equipment, child car seats, books, and toys. <!-- Source: https://www.ppsslo.org/practical-assistance -->
 (Car seat installation by appointment only.) <!-- Source: https://www.ppsslo.org/practical-assistance -->
+
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) offers [parenting classes](http://www.scyouthcoalition.org/classes--events.html).
 
 > See the [Peer Support Groups: Pregnancy and Parenthood](#parenthood-peer-support) section for information about a variety of support groups for new parents and pregnant people.
 
@@ -3488,6 +3494,8 @@ There is sometimes a wait list to apply for these [School Age Care](https://chan
 They occasionally offer [Kid’s Night Out](https://channel.recliquecore.com/programs/1269/kid-s-night-out/?locations=140) evening childcare programs too.
 [Financial assistance](https://www.ciymca.org/financial-assistance) is available to ensure that you can afford these programs.
 
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) gives grants to students who live in its operating region so those students can participate in extracurricular activities like sports, field trips, music lessons, and camps.
+
 > See [Summer Meal Sites (for Children)](#summer-meal-sites) in the [Food Resources](#food) section of this guide for information on how children can get meals during the Summer months when school is out.
 
 ### <a id="holiday-gifts-for-children">Holiday Gifts for Children</a>
@@ -3516,6 +3524,8 @@ For more information, contact [805-927-1876](tel:+1-805-927-1876) or [cambria.ca
 
 Some people who are imprisoned at the SLO County Jail’s “Honor Farm” refurbish children’s bicycles so they can be given away as gifts during the holiday season. <!-- Source: https://www.edhat.com/news/slo-sheriffs-office-begins-annual-christmas-bicycle-donations/ -->
 To apply for a free bicycle for your child, complete the “Christmas Bike Application” form at [slosheriff.org: “Forms and Applications”](https://www.slosheriff.org/community-resources/forms-and-applications/) and return it by mail or email.
+
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) has a Holiday Program that provides gifts and food to families in need who live in its operating region.
 
 > See the [(Mostly) Free Stuff](#miscellaneous-free-items) section of this guide for more possible gift ideas.
 

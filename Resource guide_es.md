@@ -2891,6 +2891,8 @@ No puede solicitar ayuda directamente de Womenade, sino que debe solicitar a tra
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) tiene un programa de micro-subvenciones para personas que necesitan asistencia financiera de emergencia única de $200 o menos para necesidades como asistencia de alquiler, necesidades de vehículo, transporte o alimentos. <!-- Source: https://www.jccslo.com/microgrants.html -->
 No puede solicitar esto usted mismo, sino que debe hacer que un trabajador de casos solicite en su nombre. <!-- Source: https://www.jccslo.com/microgrants.html -->
 
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) da subvenciones a familias necesitadas que viven en su región de operación para cosas como ropa y útiles escolares, comida, ropa, gasolina, servicios públicos y atención médica.
+
 [SLO City Church](https://slocity.church/needs-request) tiene un Equipo de Benevolencia que ofrece asistencia financiera única de hasta $600 a personas en el Condado de SLO que enfrentan dificultades inesperadas. <!-- Source: https://slocity.church/needs-request -->
 Limitan su asistencia a necesidades urgentes como facturas de servicios públicos, renta, reparaciones o registro de vehículos, gastos médicos de emergencia y transporte de emergencia. <!-- Source: https://slocity.church/needs-request -->
 Debe tener un “socio de referencia” (como un maestro, pastor, consejero, empleador o trabajador de casos) que solicite en su nombre. <!-- Source: https://slocity.church/needs-request -->
@@ -3411,6 +3413,8 @@ La [**Conexión de Recursos de Cuidado de Niños**](Directory.md#Child-Care-Reso
 Proporciona evaluación, valoración, referencias y tratamiento. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 Estos servicios son gratuitos para personas con cobertura de Medi-Cal/CenCal, y están disponibles en un programa de tarifas ajustadas de otro modo. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) da subvenciones a familias necesitadas que viven en su región de operación para cosas como ropa y útiles escolares, comida, ropa, gasolina, servicios públicos y atención médica.
+
 > Vea [CalFresh / EBT (Cupones de Alimentos) y WIC](#calfresh-ebt-wic) en la sección [Recursos de Alimentos](#food) de esta guía para información sobre el programa de Mujeres, Bebés y Niños (WIC - Women, Infants, and Children).
 
 > Vea [Derecho Familiar / Manutención Infantil](#family-law) en la sección [Ayuda Legal y Protección a Víctimas de Crímenes](#legal-help) de esta guía para información sobre hacer cumplir órdenes de manutención infantil y otros asuntos de derecho familiar.
@@ -3431,6 +3435,8 @@ La [Clase Triple P Fear Less](https://www.t-mha.org/workshop-details.php?id=80) 
 
 [**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) tiene un “banco de bebés” (baby bank) del cual puede obtener suministros gratuitos de maternidad y lactancia, pañales, toallitas húmedas para bebés, fórmula, equipo de sueño seguro, asientos de auto para niños, libros y juguetes. <!-- Source: https://www.ppsslo.org/practical-assistance -->
 (Instalación de asientos de auto solo con cita previa.) <!-- Source: https://www.ppsslo.org/practical-assistance -->
+
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) ofrece [clases para padres](http://www.scyouthcoalition.org/clases-en-espantildeol.html).
 
 > Vea la sección [Grupos de Apoyo entre Pares: Embarazo y Paternidad/Maternidad](#parenthood-peer-support) para información sobre una variedad de grupos de apoyo para nuevos padres y personas embarazadas.
 
@@ -3486,6 +3492,8 @@ A veces hay una lista de espera para solicitar estos programas [cuidado de niño
 Ocasionalmente también ofrecen programas de cuidado infantil vespertino [noche infantil](https://channel.recliquecore.com/programs/1269/kid-s-night-out/?locations=140).
 [Asistencia financiera](https://www.ciymca.org/financial-assistance) está disponible para asegurar que pueda pagar estos programas.
 
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) da subvenciones a estudiantes que viven en su región de operación para que puedan participar en actividades extracurriculares como deportes, excursiones, lecciones de música y campamentos.
+
 > Vea [Sitios de Comidas de Verano (para Niños)](#summer-meal-sites) en la sección [Recursos de Alimentos](#food) de esta guía para información sobre cómo los niños pueden obtener comidas durante los meses de verano cuando no hay escuela.
 
 ### <a id="holiday-gifts-for-children">Regalos de Temporada para Niños</a>
@@ -3514,6 +3522,8 @@ Para más información, contacte al [805-927-1876](tel:+1-805-927-1876) o [cambr
 
 Algunas personas que están encarceladas en la “Honor Farm” de la Cárcel del Condado de SLO restauran bicicletas para niños para que puedan ser regaladas durante la temporada de fiestas. <!-- Source: https://www.edhat.com/news/slo-sheriffs-office-begins-annual-christmas-bicycle-donations/ -->
 Para solicitar una bicicleta gratis para su hijo, complete el formulario “Solicitud de bicicleta navideña” en [slosheriff.org: “Formularios y solicitudes”](https://www.slosheriff.org/community-resources/forms-and-applications/) y envíelo por correo postal o correo electrónico.
+
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) tiene un Programa de Temporada de Fiestas que provee regalos y alimentos a familias necesitadas que viven en su región de operación.
 
 > Vea la sección [Cosas (Mayormente) Gratuitas](#miscellaneous-free-items) de esta guía para más ideas posibles de regalos.
 

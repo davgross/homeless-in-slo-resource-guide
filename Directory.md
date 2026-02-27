@@ -784,11 +784,9 @@
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | <a href="#" class="map-link" data-lat="35.120865" data-lon="-120.597299" data-zoom="17" data-label="The Center">1152 E. Grand Ave., Arroyo Grande</a> | [805-489-4026](tel:+1-805-489-4026) | M–F 8:30am–5:30m <!-- Source: https://capslo.org/the-center/ --> |
-| <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave., SLO</a> | [805-544-2498 x211](tel:+1-805-544-2498;ext=211) | M–F 8:30am–5:30pm <!-- Source: https://capslo.org/the-center/ --> |
+| <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave., SLO</a> | [805-544-2478](tel:+1-805-544-2478) | M–F 8:30am–5:30pm <!-- Source: https://capslo.org/the-center/ --> |
 
-- **Phone:**
-   - [805-422-2498&#xA0;x121](tel:+1-805-422-2498;ext=121) (info line) <!-- Source: https://capslo.org/the-center/ -->
-   - [805-544-2409&#xA0;x111](tel:+1-805-544-2409;ext=111) (mobile reproductive health clinic info) <!-- Source: https://capslo.org/the-center/ -->
+- **Phone:** [805-422-2478](tel:+1-805-422-2478) <!-- Source: https://capslo.org/the-center/ -->
 - **How to access:** Walk-ins OK, but appointments recommended. <!-- Source: https://capslo.org/the-center/ -->
 - Note:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
@@ -2949,15 +2947,18 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [salvationarmyusa.org/usa-western-territory](https://www.salvationarmyusa.org/usa-western-territory/)
    - [sanluisobispo.salvationarmy.org](https://sanluisobispo.salvationarmy.org/)
 
-| Location | Phone | Food Pantry | Notes |
-| -------- | ----- | ----------- | ----- |
-| <a href="#" class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">815 Islay St., SLO</a> <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | [805-544-2401](tel:+1-805-544-2401) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | W/F 10am–Noon, Th. 2–4pm <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | Operates a “Rapid Rehousing Program” |
-| <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">1550 W. Branch St., Arroyo Grande</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-481-0278](tel:+1-805-481-0278) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | M/W/F 10am–2pm | |
-| <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">8420 El Camino Real</a> | [805-466-7201](tel:+1-805-466-7201) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | |
-| <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">540 Quintana Rd., Morro Bay</a> | [805-772-7062](tel:+1-805-772-7062) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | (was temporarily closed as of September 2025) <!-- says Eva -DG --> |
-| <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">711 Paso Robles St., Paso Robles</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-238-9591](tel:+1-805-238-9591) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | | (was temporarily closed as of September 2025) <!-- says Eva -DG --> |
+| Location | Phone | Food Pantry |
+| -------- | ----- | ----------- |
+| <a href="#" class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">815 Islay St., SLO</a> <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | [805-544-2401](tel:+1-805-544-2401) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | W/F 10am–Noon, Th. 2–4pm <!-- Source: https://sanluisobispo.salvationarmy.org/ --> |
+| <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">1550 W. Branch St., Arroyo Grande</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-481-0278](tel:+1-805-481-0278) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | M/W/F 10am–2pm |
+| <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">711 Paso Robles St., Paso Robles</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-238-9591](tel:+1-805-238-9591) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | |
+<!-- These are (temporarily?) closed:
+| <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">8420 El Camino Real, Atascadero</a> | [805-466-7201](tel:+1-805-466-7201) | |
+| <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">540 Quintana Rd., Morro Bay</a> | [805-772-7062](tel:+1-805-772-7062) | |
+-->
 
 - **How to access:** For the food pantry, you must live in the area and you must register with a photo ID on your first visit.
+- Note: the SLO location operates a “Rapid Rehousing Program”
 
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
@@ -3644,6 +3645,12 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Location:** <a href="#" class="map-link" data-lat="35.312984" data-lon="-120.836284" data-zoom="17" data-label="South Bay Seniors People Helping People">2180 Palisades Ave., Los Osos</a> <!-- Source: https://southbaycommunitycenter.com/ -->
 - **Phone:** [805-528-2626](tel:+1-805-528-2626) <!-- Source: https://southbaycommunitycenter.com/ -->
 - **Hours:** M/W/F 9am–1pm <!-- Source: https://southbaycommunitycenter.com/ -->
+
+## <a id="South-County-Youth-Coalition">South County Youth Coalition</a>
+
+- **Website:** [scyouthcoalition.org](http://www.scyouthcoalition.org/) <!-- http-only as of Feb. 2026 -->
+- **Phone:** [805-474-2032](tel:+1-805-474-2032) <!-- Source: http://www.scyouthcoalition.org/contact.html -->
+- **Email:** [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com) <!-- Source: http://www.scyouthcoalition.org/contact.html -->
 
 ## Stand Strong
 
