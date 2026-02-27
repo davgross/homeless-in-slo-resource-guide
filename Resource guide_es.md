@@ -3241,9 +3241,9 @@ La [**SLO County Law Library**](Directory.md#SLO-County-Law-Library) le da acces
 
 ### <a id="citizenship-studies">Estudios para la Ciudadanía</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece una clase de Ciudadanía de los Estados Unidos que enseña el proceso de establecer la ciudadanía estadounidense y le prepara para pasar la Entrevista y Examen de Naturalización. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
-El curso gratuito es todos los jueves de 5–8pm en el Centro de Aprendizaje de Oceano (Oceano Learning Center), y puede comenzar el curso cualquier jueves. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
-Debe poder leer y entender inglés básico. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece una clase de Ciudadanía de los Estados Unidos que enseña el proceso de establecer la ciudadanía estadounidense y le prepara para pasar la Entrevista y Examen de Naturalización. <!-- Source: https://adulted.luciamarschools.org/civics -->
+El curso gratuito es todos los jueves de 5–8pm en el Centro de Aprendizaje de Oceano (Oceano Learning Center), y puede comenzar el curso cualquier jueves. <!-- Source: https://adulted.luciamarschools.org/civics -->
+Debe poder leer y entender inglés básico. <!-- Source: https://adulted.luciamarschools.org/civics -->
 Regístrese [en línea](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) o llámeles para más información.
 
 Las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) le dan acceso al curso de preparación para la ciudadanía [ProCitizen](https://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096), que cubre las partes de educación cívica, lectura y escritura del examen de ciudadanía de los Estados Unidos.
@@ -3253,8 +3253,8 @@ Si es refugiado de otro país, puede obtener ayuda con su educación de [**SLO f
 
 ### <a id="literacy">Alfabetización</a>
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece un curso de Alfabetización Básica en Inglés (Basic English Literary) que tiene lugar todo el año en su ubicación del Centro de Aprendizaje de Oceano (Oceano Learning Center). <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
-El curso es todos los martes de 5–8pm y puede comenzar el curso cualquier martes. <!-- Source: https://adulted.luciamarschools.org/citizenship-classes -->
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece un curso de Alfabetización Básica en Inglés (Basic English Literary) que tiene lugar todo el año en su ubicación del Centro de Aprendizaje de Oceano (Oceano Learning Center). <!-- Source: https://adulted.luciamarschools.org/civics -->
+El curso es todos los martes de 5–8pm y puede comenzar el curso cualquier martes. <!-- Source: https://adulted.luciamarschools.org/civics -->
 Regístrese [en línea](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) o llámeles para más información.
 
 [**The Literacy Connection**](Directory.md#Literacy-Connection) es un programa gratuito de tutoría uno a uno basado en voluntarios que ayuda a adultos a mejorar sus habilidades de alfabetización.
@@ -3296,7 +3296,7 @@ Las clases de inglés como segundo idioma (ESL, English as a Second Language) so
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) ofrece [clases gratuitas de ESL](https://ae.slcusd.org/hsd-esl/english-as-a-second-language) en Morro Bay y San Luis Obispo.
 
-[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece [clases gratuitas de ESL](https://adulted.luciamarschools.org/english-as-a-second-language) en sus centros de aprendizaje de Nipomo y Oceano
+[**Lucia Mar Adult Education**](Directory.md#Lucia-Mar-Adult-Education) ofrece [clases gratuitas de ESL](https://adulted.luciamarschools.org/esl) en sus centros de aprendizaje de Nipomo y Oceano
 
 [**Cuesta College**](Directory.md#Cuesta-College) ofrece [clases gratuitas de ESL](https://www.cuesta.edu/academics/divisions/studentdevsuccess/esl/index.html) en Arroyo Grande, Paso Robles y San Luis Obispo.
 

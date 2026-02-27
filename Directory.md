@@ -2224,14 +2224,14 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Website:** [adulted.luciamarschools.org](https://adulted.luciamarschools.org/)
 
-<!-- Sources: https://adulted.luciamarschools.org/contact-us and https://adulted.luciamarschools.org/learning-center-directions -->
+<!-- Sources: https://adulted.luciamarschools.org/contact and https://adulted.luciamarschools.org/learning-center-directions -->
 | Name | Location | Phone |
 | ---- | -------- | ----- |
 | Main office | <a href="#" class="map-link" data-lat="35.115292" data-lon="-120.576271" data-zoom="17" data-label="Lucia Mar Adult Education">602 Orchard St., Arroyo Grande</a> | [805-474-3222](tel:+1-805-474-3222) |
 | Nipomo Learning Center | <a href="#" class="map-link" data-lat="35.042848" data-lon="-120.471869" data-zoom="17" data-label="Lucia Mar Adult Education">190 E. Price St. (E & F), Nipomo</a> | [805-474-3000 x7602](tel:+1-805-474-3000;ext=7602) |
 | Oceano Community Center | <a href="#" class="map-link" data-lat="35.101995" data-lon="-120.612296" data-zoom="17" data-label="Lucia Mar Adult Education">1575 17th St. (30, 33, & 34), Oceano</a> | [805-474-3000 x7601](tel:+1-805-474-3000;ext=7601) |
 
-- **Email:** [brienne.phillips@lmusd.org](mailto:brienne.phillips@lmusd.org) <!-- Source: https://adulted.luciamarschools.org/contact-us -->
+- **Email:** [brienne.phillips@lmusd.org](mailto:brienne.phillips@lmusd.org) <!-- Source: https://adulted.luciamarschools.org/contact -->
 - Notes: Partners with [**Cuesta College**](#Cuesta-College) for ESL classes
 
 ## <a id="Lumina-Alliance">Lumina Alliance</a>
