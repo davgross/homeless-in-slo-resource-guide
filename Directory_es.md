@@ -976,11 +976,9 @@
 | Ubicación | Teléfono | Horario |
 | --------- | -------- | ------- |
 | <a href="#" class="map-link" data-lat="35.120865" data-lon="-120.597299" data-zoom="17" data-label="The Center">1152 E. Grand Ave., Arroyo Grande</a> | [805-489-4026](tel:+1-805-489-4026) | L–V 8:30am–5:30m <!-- Source: https://capslo.org/the-center/ --> |
-| <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave., SLO</a> | [805-544-2498 x211](tel:+1-805-544-2498;ext=211) | L–V 8:30am–5:30pm <!-- Source: https://capslo.org/the-center/ --> |
+| <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave., SLO</a> | [805-544-2478](tel:+1-805-544-2478) | L–V 8:30am–5:30pm <!-- Source: https://capslo.org/the-center/ --> |
 
-- **Teléfono:**
-   - [805-422-2498&#xA0;x121](tel:+1-805-422-2498;ext=121) (línea de información) <!-- Source: https://capslo.org/the-center/ -->
-   - [805-544-2409&#xA0;x111](tel:+1-805-544-2409;ext=111) (información sobre clínicas móviles de salud reproductiva) <!-- Source: https://capslo.org/the-center/ -->
+- **Teléfono:** [805-422-2478](tel:+1-805-422-2478) <!-- Source: https://capslo.org/the-center/ -->
 - **Cómo obtener el servicio:** Se aceptan visitas sin cita previa, pero se recomiendan citas. <!-- Source: https://capslo.org/the-center/ -->
 - Nota:
    - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
@@ -3636,6 +3634,12 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.312984" data-lon="-120.836284" data-zoom="17" data-label="South Bay Seniors People Helping People">2180 Palisades Ave., Los Osos</a> <!-- Source: https://southbaycommunitycenter.com/ -->
 - **Teléfono:** [805-528-2626](tel:+1-805-528-2626) <!-- Source: https://southbaycommunitycenter.com/ -->
 - **Horario:** L/Mi/V 9am–1pm <!-- Source: https://southbaycommunitycenter.com/ -->
+
+## <a id="South-County-Youth-Coalition">South County Youth Coalition</a>
+
+**Sitio web:** [scyouthcoalition.org](http://www.scyouthcoalition.org/) <!-- http-only as of Feb. 2026 -->
+**Teléfono:** [805-474-2032](tel:+1-805-474-2032) <!-- Source: http://www.scyouthcoalition.org/contact.html -->
+**Correo electrónico:** [scyouthcoalition@gmail.com](mailto:scyouthcoalition@gmail.com) <!-- Source: http://www.scyouthcoalition.org/contact.html -->
 
 ## Stand Strong
 
