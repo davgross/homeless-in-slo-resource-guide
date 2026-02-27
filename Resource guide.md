@@ -1218,7 +1218,7 @@ Here are some tips for keeping your bike safe if you are camping:
 
 A car must be insured to be legally driven in California. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
 California has a state-sponsored, low-cost auto insurance program. <!-- Source: https://www.mylowcostauto.com/get-started/program-overview -->
-To qualify, you must have a valid California driver’s license, a low income (for a single person, under $39,125 per year), a vehicle that is worth no more than $25,000,<!-- Source; https://www.mylowcostauto.com/faq/english --> and have:
+To qualify, you must have a valid California driver’s license, a low income (for a single person, under $39,900 per year), a vehicle that is worth no more than $25,000,<!-- Source; https://www.mylowcostauto.com/faq/english --> and have:
 
 <!-- Source: https://www.mylowcostauto.com/faq/english -->
 - no more than one at-fault, property-damage-only accident or no more than one point for a moving violation in the past three years,
@@ -1342,7 +1342,7 @@ They provide the coins to feed the machines and the laundry detergent and dryer 
 
 ### <a id="free-showers">Free Shower Services</a>
 
-[**Shower the People**](Directory.md#Shower-the-People) offers free showers from its mobile shower trailer several times a week in several locations in SLO city and in Grover Beach. <!-- Source: personal knowledge of program as volunteer -DG -->
+[**Shower the People**](Directory.md#Shower-the-People) offers free showers from its mobile shower trailers several times a week in several locations in SLO city and in Grover Beach. <!-- Source: personal knowledge of program as volunteer -DG -->
 They provide towels and soap. <!-- Source: personal knowledge of program as volunteer -DG -->
 Guests also receive free toiletries, and new socks, underwear, and t-shirts. <!-- Source: personal knowledge of program as volunteer -DG -->
 They operate rain-or-shine all year long including holidays. <!-- Source: personal knowledge of program as volunteer -DG -->
