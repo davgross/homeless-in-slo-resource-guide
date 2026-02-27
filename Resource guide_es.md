@@ -3429,10 +3429,10 @@ Hay becas disponibles que cubren parte de las tarifas de clase para personas con
 
 La [Clase Triple P Fear Less](https://www.t-mha.org/workshop-details.php?id=80) gratuita ofrecida por [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) ayuda a padres y cuidadores de niños (edades 6–14) que experimentan ansiedad a fomentar niños seguros y saludables, cultivar relaciones familiares fuertes y abordar efectivamente el mal comportamiento.
 
-[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) ofrece [clases para padres](http://www.scyouthcoalition.org/clases-en-espantildeol.html).
-
 [**Pregnancy & Parenting Support**](Directory.md#Pregnancy-Parenting-Support) tiene un “banco de bebés” (baby bank) del cual puede obtener suministros gratuitos de maternidad y lactancia, pañales, toallitas húmedas para bebés, fórmula, equipo de sueño seguro, asientos de auto para niños, libros y juguetes. <!-- Source: https://www.ppsslo.org/practical-assistance -->
 (Instalación de asientos de auto solo con cita previa.) <!-- Source: https://www.ppsslo.org/practical-assistance -->
+
+[**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) ofrece [clases para padres](http://www.scyouthcoalition.org/clases-en-espantildeol.html).
 
 > Vea la sección [Grupos de Apoyo entre Pares: Embarazo y Paternidad/Maternidad](#parenthood-peer-support) para información sobre una variedad de grupos de apoyo para nuevos padres y personas embarazadas.
 
