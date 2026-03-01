@@ -2948,7 +2948,7 @@ If you are a farm laborer, you may be able to get some help applying for benefit
 
 Some local utilities have or participate in programs to make it easier for people with limited means to pay their utility bills.
 
-The [PG&E CARE Program](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html) gives a discount of at least 20% on gas and electric bills to people with low incomes or who are enrolled in public assistance programs such as Medi-Cal, CalFresh, or SSI.
+The [PG&E CARE Program](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html) gives a discount of about 20% on gas bills and 38% on electric bills to people who have low incomes or who are enrolled in public assistance programs such as Medi-Cal, CalFresh, or SSI.
 If you do not qualify for that program, you may still qualify for [Family Electric Rate Assistance](https://www.pge.com/en/account/billing-and-assistance/financial-assistance/family-electric-rate-assistance-program-fera.html) which can give you a 18% discount on your electric bill.
 Apply for either program online at [pge.com: “CARE FERA Enrollment or Renewal”](https://energyinsight.pge.com/carefera)
 If you have questions, contact them at [CAREandFERA@pge.com](mailto:CAREandFERA@pge.com) or [877-660-6789](tel:+1-877-660-6789).

@@ -2945,7 +2945,7 @@ Si es trabajador agrícola, puede obtener ayuda solicitando beneficios del [Prog
 
 Algunos servicios públicos locales tienen o participan en programas para hacer más fácil que personas con medios limitados paguen sus facturas de servicios públicos.
 
-El [Programa CARE de PG&E](https://www.pge.com/es/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html) da un descuento de al menos 20% en facturas de gas y electricidad a personas de bajos ingresos o que están inscritas en programas de asistencia pública como Medi-Cal, CalFresh o SSI.
+El [Programa CARE de PG&E](https://www.pge.com/es/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html) da un descuento de aproximadamente 20% en facturas de gas y 38% en facturas de electricidad a personas de bajos ingresos o que están inscritas en programas de asistencia pública como Medi-Cal, CalFresh o SSI.
 Si no califica para ese programa, aún puede calificar para [el programa de asistencia con la tarifa de electricidad familiar (FERA)](https://www.pge.com/es/account/billing-and-assistance/financial-assistance/family-electric-rate-assistance-program-fera.html) que puede darle un descuento del 18% en su factura eléctrica.
 Solicite cualquiera de estos programas en línea en [pge.com: “Inscripción o Renovación CARE FERA”](https://energyinsight.pge.com/carefera)
 Si tiene preguntas, contáctelos en [CAREandFERA@pge.com](mailto:CAREandFERA@pge.com) o [877-660-6789](tel:+1-877-660-6789).
