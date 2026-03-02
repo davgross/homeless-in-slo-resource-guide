@@ -821,7 +821,7 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 <!-- Sources
  AGNCP, AGSPC, AGSA, AtLCP, AtLaF, AtRC, CamVC, CayCC, CaySJCC, GB5CCW, LOKC, LOPHP, LOTUMC, MBLF, MBOAP, NFB, NSMVHC, PRSA, PRSC, PRtL, PBNL, SLOFB, SLOAC, SLOBM, SLOACC, SLOGCC, SLORC, SLOSA, SLOUU, SLOZLC : https://slofoodbank.org/wp-content/uploads/2025/11/ENG_December_DistributionResourceList.pdf
  Cal Poly Food Pantry: https://basicneeds.calpoly.edu/foodpantry
- Cuesta Cougar Food Pantries: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html
+ Cuesta Cougar Food Pantries: https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html
  PRLaF: https://loavesandfishespaso.org/
  SLOGALA: https://www.instagram.com/p/DQuP1WsEgoh/
  Outreach & Engagement: I visited and saw the pantry -DG
@@ -841,7 +841,7 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Cambria        | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                                                                    | segundo y cuarto jueves mediodía–2pm |
 | Cayucos        | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                                                                                  | miércoles 10:30–11am |
 | Cayucos        | [**St. Joseph’s Catholic Church**](Directory.md#St-Josephs-Church)                                                                                     | viernes 10am–mediodía (jueves 7:30–7:45 con cita) |
-| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/food-resources/index.html) (debe ser estudiante de Cuesta) | lunes–viernes 9am–4:30pm |
+| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html) (debe ser estudiante de Cuesta) | lunes–viernes 9am–4:30pm |
 | Grover Beach   | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) (traiga identificación con foto)                   | lunes–viernes 2–3:30pm |
 | Los Osos       | [**King’s Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | martes 8–10am |
 | Los Osos       | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People)                                                    | miércoles 9:30–10:30am |
@@ -2870,7 +2870,7 @@ El grupo nacional [Modest Needs](https://www.modestneeds.org/) financia colectiv
 No dan dinero directamente a los solicitantes, pero pueden ayudarles a pagar facturas. <!-- Source: https://www.modestneeds.org/mn/about-us -->
 Vea [su sitio web](https://www.modestneeds.org/mn/for-applicants) para instrucciones sobre cómo solicitar una subvención.
 
-Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener ayuda con alimentos, vivienda, salud y bienestar, transporte, libros de texto, pases de estacionamiento, tecnología y otras necesidades básicas de la [Oficina de Necesidades Básicas](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/index.html).
+Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener ayuda con alimentos, vivienda, salud y bienestar, transporte, libros de texto, pases de estacionamiento, tecnología y otras necesidades básicas de la [Oficina de Necesidades Básicas](https://www.cuesta.edu/student-support/basic-needs-center/index.html).
 
 Personas y familias indocumentadas o de estatus migratorio mixto que han sido directamente impactadas por la aplicación de la ley de inmigración pueden solicitar al [Fondo de Asistencia de Emergencia](https://www.805undocufund.org/emergency-assistance-fund.html) administrado por 805UnocuFund para ayuda pagando renta, servicios públicos, transporte, reubicación de emergencia y gastos relacionados con asuntos legales. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
 Contacte a [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) o llame al [805-538-7070](tel:+1-805-538-7070) para solicitar. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
@@ -3481,7 +3481,7 @@ Hay dos capítulos de Boys & Girls Clubs en el Condado de SLO:
 - [Boys & Girls Clubs of South SLO County](https://www.bgcslo.org/) que cubre Grover Beach, Oceano, Pismo Beach y Shell Beach ([myclubhub@bgcslo.org](mailto:myclubhub@bgcslo.org), [805-481-7339](tel:+1-805-481-7339))
 - [Boys & Girls Clubs of Mid Central Coast](https://centralcoastkids.org/) que cubre Atascadero, Creston, Guadalupe, Paso Robles y Shandon ([info@centralcoastkids.org](mailto:info@centralcoastkids.org), [805-922-7163](tel:+1-805-922-7163))
 
-Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) que califican para [Programas y Servicios de Oportunidades Extendidas](https://www.cuesta.edu/student-support/support-programs/eops/) (Extended Opportunity Programs and Services) y que son jefes de hogar solteros pueden obtener ayuda para pagar servicios de cuidado infantil de [Cooperative Agencies Resources for Education (CARE)](https://www.cuesta.edu/student-support/support-programs/eops/care.html) (Recursos de Agencias Cooperativas para la Educación).
+Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) que califican para [Programas y Servicios de Oportunidades Extendidas](https://www.cuesta.edu/student-support/eops/) (Extended Opportunity Programs and Services) y que son jefes de hogar solteros pueden obtener ayuda para pagar servicios de cuidado infantil de [Cooperative Agencies Resources for Education (CARE)](https://www.cuesta.edu/student-support/eops/care.html) (Recursos de Agencias Cooperativas para la Educación).
 Contacte a [cafecenters@cuesta.edu](mailto:cafecenters@cuesta.edu) o [805-546-3144](tel:+1-805-546-3144) para aprender cómo solicitar.
 
 [**SLO County YMCA**](Directory.md#SLO-County-YMCA) ofrece [una hora de vigilancia infantil](https://www.ciymca.org/child-watch) a los miembros mientras hacen ejercicio en las instalaciones. <!-- https://status.ciymca.org/ -->
@@ -4086,7 +4086,7 @@ Llame a su Oficina de Energía para detalles.
 
 El café [**Front Porch**](Directory.md#Front-Porch) en el campus de Cal Poly le servirá una taza gratuita de café.
 
-Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener productos de higiene gratuitos, una bufanda, sombreros, mochilas, jabón para lavar ropa, productos de menstruación y a veces tarjetas de regalo para restaurantes de comida rápida de la [Basic Needs Office](https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html) (Oficina de Necesidades Básicas). <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener productos de higiene gratuitos, una bufanda, sombreros, mochilas, jabón para lavar ropa, productos de menstruación y a veces tarjetas de regalo para restaurantes de comida rápida de la [Basic Needs Office](https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html) (Oficina de Necesidades Básicas). <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
 > Vea [Regalos de Temporada para Niños](#holiday-gifts-for-children) en la sección [Niños, Jóvenes y Personas con Hijos](#children-youth-parents) de esta guía para información sobre cómo obtener juguetes, abrigos, bicicletas y otros regalos gratuitos para sus hijos durante las festividades.
 

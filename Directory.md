@@ -1166,19 +1166,19 @@
       - [805-592-9463](tel:+1-805-592-9463) (SLO Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
       - [805-591-6273](tel:+1-805-591-6273) (North County Campus) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
 - **Email:**
-   - [basicneeds@cuesta.edu](mailto:basicneeds@cuesta.edu) (Basic Needs Center) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - [basicneeds@cuesta.edu](mailto:basicneeds@cuesta.edu) (Basic Needs Center) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - [admit@cuesta.edu](mailto:admit@cuesta.edu) (Admission)
    - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (South County Campus)
    - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Continuing Education) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
 - Notes:
-   - Basic Needs Office is in room 5014B of the SLO campus, open M/Th/F 9am–4pm, Tu 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
-   - The Paso Robles campus hosts a Cougar Food Pantry for students in room N1005, M–F 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
-   - The SLO campus hosts a Cougar Food Pantry for students in room 5014A’s cafeteria, M–F 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - Basic Needs Office is in room 5014B of the SLO campus, open M/Th/F 9am–4pm, Tu 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+   - The Paso Robles campus hosts a Cougar Food Pantry for students in room N1005, M–F 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+   - The SLO campus hosts a Cougar Food Pantry for students in room 5014A’s cafeteria, M–F 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programs are open to otherwise unenrolled people
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) has vocational / lifetime-learning programs, and ESL
    - Partners with [**The Bridge Cafe**](#Restorative-Partners) for its Culinary Arts program
    - Partners with [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes
-   - The SLO & North County campuses are [**SLO Food Bank**](#SLO-Food-Bank) food box distribution sites <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - The SLO & North County campuses are [**SLO Food Bank**](#SLO-Food-Bank) food box distribution sites <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
 ## Deaf and Disabled Telecommunication Program (DDTP)
 
