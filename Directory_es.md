@@ -1388,19 +1388,19 @@
       - [805-592-9463](tel:+1-805-592-9463) (Campus SLO) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
       - [805-591-6273](tel:+1-805-591-6273) (Campus North County) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
 - **Correo electrónico:**
-   - [basicneeds@cuesta.edu](mailto:basicneeds@cuesta.edu) (Centro de Necesidades Básicas) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - [basicneeds@cuesta.edu](mailto:basicneeds@cuesta.edu) (Centro de Necesidades Básicas) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - [admit@cuesta.edu](mailto:admit@cuesta.edu) (Admisión)
    - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (Centro South County)
    - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Programa de Educación Continua) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
 - Notas:
-   - oficina de Necesidades Básicas esta en la sala 5014B del campus SLO, abierto L/Ju/V 9am–4pm, Ma 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
-   - el campus de Paso Robles alberga una despensa de alimentos Cougar para estudiantes en la sala N1005, L–V 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
-   - el campus de SLO campus alberga una despensa de alimentos Cougar para estudiantes en la cafetería de la sala 5014A, L–V 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - oficina de Necesidades Básicas esta en la sala 5014B del campus SLO, abierto L/Ju/V 9am–4pm, Ma 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+   - el campus de Paso Robles alberga una despensa de alimentos Cougar para estudiantes en la sala N1005, L–V 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+   - el campus de SLO campus alberga una despensa de alimentos Cougar para estudiantes en la cafetería de la sala 5014A, L–V 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programas están abiertos a personas que de otro modo no estarían inscritas
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) tiene programas vocacionales/de aprendizaje permanente y ESL
    - se asocia con [**The Bridge Cafe**](#Restorative-Partners) for its Culinary Arts program
    - se asocia con [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes
-   - los campus de SLO y North County son sitios de distribución de cajas de alimentos de [**SLO Food Bank**](#SLO-Food-Bank) <!-- Source: https://www.cuesta.edu/student-support/support-programs/basic-needs-center/homeless-food-resources.html -->
+   - los campus de SLO y North County son sitios de distribución de cajas de alimentos de [**SLO Food Bank**](#SLO-Food-Bank) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
 ## Deaf and Disabled Telecommunication Program (DDTP)
 
