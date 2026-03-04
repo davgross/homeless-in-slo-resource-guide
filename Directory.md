@@ -2285,7 +2285,7 @@ If you see one listed here that is no longer in service, please use the feedback
    - Serves meals in Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
    - Also does some home delivery <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 - **Phone:** [805-541-3312](tel:+1-805-541-3312) <!-- Source: https://mealsthatconnect.org/en/ -->
-- **Email:** [officeadmin@mealsthatconnect.org](mailto:officeadmin@mealsthatconnect.org) <!-- Source: https://mealsthatconnect.org/en/ -->
+- **Email:** [info@mealsthatconnect.org](mailto:info@mealsthatconnect.org) <!-- Source: https://mealsthatconnect.org/en/ -->
 - **Hours:** (varies by site)
 - **How to access:** open to people aged 60 and above; complete an application <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#eligibility -->
 
