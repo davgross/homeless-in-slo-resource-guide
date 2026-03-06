@@ -2809,10 +2809,10 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="Recovery-Dharma">Recovery Dharma</a>
 
 - **Sitio web:** [recoverydharma.org](https://recoverydharma.org/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.269386" data-lon="-120.657033" data-zoom="17" data-label="Unitarian Universalists San Luis Obispo">2201 Lawton Avenue, SLO</a> ([**Unitarian Universalists San Luis Obispo**](#UUSLO)) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast/ -->
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.242487" data-lon="-120.639987" data-zoom="17" data-label="Recovery Dharma">895 Aerovista Pl., SLO</a> ([**Aspire Counseling Service**](#Aspire-Counseling-Service))
 - **Correo electrónico:** [tedrossini@gmail.com](mailto:tedrossini@gmail.com) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
 - **Teléfono:** [510-417-6162](tel:+1-510-417-6162) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
-- **Horario:** S 10:30–11:30am <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
+- **Horario:** S 3:00–4:00pm <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
 
 ## <a id="Recuperative-Care-Program">Recuperative Care Program</a>
 
@@ -3098,7 +3098,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-354-5320](tel:+1-805-354-5320) <!-- Source: https://smwisdomcenter.org/ecm/ -->
    - Administración de la Atención Mejorada: [805-314-5551](tel:+1-805-314-5551)
 - **Correo electrónico:** [info@smwisdomcenter.org](mailto:info@smwisdomcenter.org) <!-- Source: https://smwisdomcenter.org/ecm/ -->
-   - Administración de la Atención Mejorada: [ECMdirector@smwisdomcenter.org](mailto:ECMdirector@smwisdomcenter.org)
+   - Administración de la Atención Mejorada: [referrals@smwisdomcenter.org](mailto:referrals@smwisdomcenter.org)
 - **Horario:** L–V 9am–2pm <!-- Source: https://smwisdomcenter.org/ecm/ though I also see 8-3 and 8-5 in other places on their site -->
 - Note: ofrece [**Administración de la Atención Mejorada**](#Enhanced-Care-Management) <!-- Source: https://smwisdomcenter.org/ecm/ -->
 
