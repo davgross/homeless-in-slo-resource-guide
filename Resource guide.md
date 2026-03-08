@@ -4090,6 +4090,8 @@ The [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus will
 
 If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get free hygiene products, a scarf, hats, backpacks, laundry soap, menstruation products, and sometimes gift cards to fast food restaurants from the [Basic Needs Office](https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html). <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
+The SLO craigslist website has [a “free stuff” section](https://slo.craigslist.org/search/zip) full of things that people in SLO County are giving away.
+
 > See [Holiday Gifts for Children](#holiday-gifts-for-children) in the [Children, Youth, and People with Children](#children-youth-parents) section of this guide for information on how to get free toys, coats, bicycles, and other such gifts for your children during the holidays.
 
 ### <a id="low-cost-stuff">Low-Cost</a>

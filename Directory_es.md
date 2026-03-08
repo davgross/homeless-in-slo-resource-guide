@@ -1569,7 +1569,7 @@
 
 - **Sitio web:** [slocountyparks.com/camp/el-chorro](https://slocountyparks.com/camp/el-chorro/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.338721" data-lon="-120.720193" data-zoom="13" data-label="El Chorro Regional Park Campground">State Hwy 1 @ Dairy Creek</a> (4 millas al noroeste de SLO)
-- **Teléfono:** [805-781-5930 x4](tel:+1-805-781-5930;ext=4) (L–V 8:30am–4:30pm)
+- **Teléfono:** [805-781-5930 x2](tel:+1-805-781-5930;ext=2) (L–V 8:30am–4:30pm)
 - **Correo electrónico:** [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us)
 
 <!-- Not clear that they offer anything in particular to our audience
