@@ -4088,6 +4088,8 @@ El café [**Front Porch**](Directory.md#Front-Porch) en el campus de Cal Poly le
 
 Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener productos de higiene gratuitos, una bufanda, sombreros, mochilas, jabón para lavar ropa, productos de menstruación y a veces tarjetas de regalo para restaurantes de comida rápida de la [Basic Needs Office](https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html) (Oficina de Necesidades Básicas). <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
+El sitio web de craigslist de SLO tiene [una sección de “cosas gratis”](https://slo.craigslist.org/search/zip) llena de cosas que personas en el Condado de SLO están regalando.
+
 > Vea [Regalos de Temporada para Niños](#holiday-gifts-for-children) en la sección [Niños, Jóvenes y Personas con Hijos](#children-youth-parents) de esta guía para información sobre cómo obtener juguetes, abrigos, bicicletas y otros regalos gratuitos para sus hijos durante las festividades.
 
 ### <a id="low-cost-stuff">Bajo Costo</a>
