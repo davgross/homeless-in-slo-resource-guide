@@ -2688,7 +2688,7 @@ If you see one listed here that is no longer in service, please use the feedback
    - Emergency Veterinary Care Program: case managers available M–F 8am–4pm for new cases <!-- Source: https://petsofthehomeless.org/emergency-veterinary-care/ -->
 - **Email:** [info@petsofthehomeless.org](mailto:info@petsofthehomeless.org) <!-- Source: https://petsofthehomeless.org/ -->
    - Emergency Veterinary Care applications: [evc@petsofthehomeless.org](mailto:evc@petsofthehomeless.org) <!-- Source: https://petsofthehomeless.org/emergency-veterinary-care/ -->
-- Notes: Has partner locations in SLO including Animal Care Clinic, Mission Animal Hospital, and Woods Humane Society <!-- Source: https://petsofthehomeless.org/get-help/find-locations -->
+- Notes: Has partner locations in SLO including Animal Care Clinic, Mission Animal Hospital, and [**Woods Humane Society**](#Woods-Humane-Society) <!-- Source: https://petsofthehomeless.org/get-help/find-locations -->
 
 ## <a id="Pismo-Beach-Athletic-Club">Pismo Beach Athletic Club</a>
 
