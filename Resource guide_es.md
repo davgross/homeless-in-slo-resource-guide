@@ -3826,7 +3826,7 @@ Se especializan en cuidado para mascotas de personas sin hogar. <!-- Source: htt
 También operan el programa “Pet Refuge” (Refugio para Mascotas), que puede alojar temporalmente mascotas para personas cuya situación de vivienda se ha vuelto inestable o que temporalmente no pueden cuidar a sus mascotas. <!-- This is new: https://www.newtimesslo.com/c-a-r-e-4paws-will-offer-boarding-for-pets-living-with-struggling-families/ -->
 
 [**Woods Humane Society**](Directory.md#Woods-Humane-Society) tiene una [Despensa para Mascotas](https://woodshumanesociety.org/pet-pantry/) (Pet Pantry) para dueños de mascotas que enfrentan desafíos y ofrece asistencia financiera para procedimientos de esterilización/castración.
-Realizan [clínicas trimestrales de vacunación para mascotas](https://woodshumanesociety.org/spay-neuter/vaccines/) con cita previa y también clínicas de vacunación sin cita el primer miércoles de cada mes de 2–4pm.
+Realizan [clínicas trimestrales de vacunación para mascotas](https://woodshumanesociety.org/spay-neuter/vaccines/) con cita previa.
 En estas clínicas, la vacuna DA2PP (perros) y la vacuna FVRCP (gatos) son gratis; algunas otras vacunas y servicios médicos están disponibles por $5–20. <!-- Source: https://woodshumanesociety.org/spay-neuter/vaccines/ -->
 Woods también puede ayudarle a encontrar mascotas perdidas y puede encontrar nuevos hogares para mascotas cuando sus dueños ya no pueden cuidarlas. <!-- Source: https://woodshumanesociety.org/resources/lost-pet-help/ and https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
 Algunos servicios son solo con cita. <!-- Source: e.g. https://woodshumanesociety.org/adoptions/surrender-a-pet/ -->
