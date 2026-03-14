@@ -766,7 +766,7 @@
 
 - **Website:** [cfsslo.org](https://cfsslo.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Center for Family Strengthening">1428 Phillips Lane #203, SLO</a> <!-- Source: https://cfsslo.org/ -->
-- **Phone:** [805-439-1994](tel:+1-805-439-1994) <!-- Source: https://cfsslo.org/ -->
+- **Phone:** [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://cfsslo.org/ -->
 - **Email:** [info@cfsslo.org](mailto:info@cfsslo.org) <!-- Source: https://cfsslo.org/ -->
 - **Hours:** By appointment (call or email to schedule) <!-- Source: https://cfsslo.org/ -->
 - Notes:
