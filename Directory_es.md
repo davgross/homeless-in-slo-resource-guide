@@ -1114,7 +1114,7 @@
 
 - **Sitio web:** [cfsslo.org](https://cfsslo.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.288103" data-lon="-120.657544" data-zoom="17" data-label="Centro para el Fortalecimiento Familiar">1428 Phillips Lane #203, SLO</a> <!-- Source: https://cfsslo.org/ -->
-- **Teléfono:** [805-439-1994](tel:+1-805-439-1994) <!-- Source: https://cfsslo.org/ -->
+- **Teléfono:** [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://cfsslo.org/ -->
 - **Correo electrónico:** [info@cfsslo.org](mailto:info@cfsslo.org) <!-- Source: https://cfsslo.org/ -->
 - **Horario:** Con cita previa (llame o envíe un correo electrónico para programar) <!-- Source: https://cfsslo.org/ -->
 - Notas:
