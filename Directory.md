@@ -9,6 +9,7 @@
    - [805-544-4004 x2](tel:+1-805-544-4004;ext=2) (general services) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - [805-544-4004 x100](tel:+1-805-544-4004;ext=100) (more information)
    - [805-459-1073](tel:+1-805-459-1073) (questions about on-site safe parking)
+   - [805-549-6999](tel:+1-805-549-6999) (24-hour community concerns hotline)
 - **Hours:** every day, 8am–2:30pm and 4:30pm–7am (closed 2:30pm–4:30pm and 7–8am) <!-- Though https://capslo.org/40-prado/ says "This facility runs 24/7" -->
    - Overnight Shelter:
       - Orientation: M–F 9am & 1pm <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
@@ -1002,6 +1003,7 @@
    - Energy Office: <a href="#" class="map-link" data-lat="35.245356" data-lon="-120.672187" data-zoom="17" data-label="CAPSLO Home and Energy Services">3970 Short St. #110, SLO</a> (no walk-ins) <!-- Source: https://capslo.org/utility-assistance/ -->
 - **Phone:**
    - Hotline: [805-706-8663](tel:+1-805-706-8663) <!-- Source: https://capslo.org/contact/ -->
+   - Community concerns hotline: [805-549-6999](tel:+1-805-549-6999)
    - Administration: [805-544-4355](tel:+1-805-544-4355) <!-- Source: https://capslo.org/contact/ -->
    - Homeless Services Center: [805-544-4004](tel:+1-805-544-4004)
    - Low Income Home Energy Assistance Program: [805-541-4122&#xA0;x2125](tel:+1-805-541-4122;ext=2125) or [800-495-0501&#xA0;x2114](tel:+1-800-495-0501;ext=2114) <!-- Source: https://capslo.org/utility-assistance/ -->

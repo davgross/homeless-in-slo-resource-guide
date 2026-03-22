@@ -9,6 +9,7 @@
    - [805-544-4004 x2](tel:+1-805-544-4004;ext=2) (servicios generales) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - [805-544-4004 x100](tel:+1-805-544-4004;ext=100) (más información)
    - [805-459-1073](tel:+1-805-459-1073) (preguntas sobre estacionamiento seguro en el sitio)
+   - [805-549-6999](tel:+1-805-549-6999) (línea de quejas comunitarias, 24 horas)
 - **Horario:** todos los días, 8am–2:30pm y 4:30pm–7am (cerrado 2:30pm–4:30pm y 7–8am) <!-- Though https://capslo.org/40-prado/ says “This facility runs 24/7” -->
    - Refugio nocturno:
       - Orientación: L–V 9am y 1pm <!-- Source: email from Cecil Hale, 5 Jan. 2026 -->
@@ -1237,6 +1238,7 @@
    - Oficina de Energía: <a href="#" class="map-link" data-lat="35.245356" data-lon="-120.672187" data-zoom="17" data-label="CAPSLO Home and Energy Services">3970 Short St. #110, SLO</a> (no se aceptan visitas sin cita) <!-- Source: https://capslo.org/utility-assistance/ -->
 - **Teléfono:**
    - Línea directa: [805-706-8663](tel:+1-805-706-8663) <!-- Source: https://capslo.org/contact/ -->
+   - Línea de quejas comunitarias: [805-549-6999](tel:+1-805-549-6999)
    - Administración: [805-544-4355](tel:+1-805-544-4355) <!-- Source: https://capslo.org/contact/ -->
    - Centro de servicios para personas sin hogar: [805-544-4004](tel:+1-805-544-4004)
    - Programa de asistencia energética para hogares de bajos ingresos (LIHEAP): [805-541-4122&#xA0;x2125](tel:+1-805-541-4122;ext=2125) o [800-495-0501&#xA0;x2114](tel:+1-800-495-0501;ext=2114) <!-- Source: https://capslo.org/utility-assistance/ -->
