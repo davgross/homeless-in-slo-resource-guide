@@ -785,7 +785,7 @@
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | <a href="#" class="map-link" data-lat="35.120865" data-lon="-120.597299" data-zoom="17" data-label="The Center">1152 E. Grand Ave., Arroyo Grande</a> | [805-489-4026](tel:+1-805-489-4026) | M–F 8:30am–5:30m <!-- Source: https://capslo.org/the-center/ --> |
-| Health Care on Wheels: <a href="#" class="map-link" data-lat="35.613052" data-lon="-120.675974" data-zoom="17" data-label="SLO Noor Foundation">400 Oak Hill Rd., Paso Robles</a> | 1st and 3rd Wednesdays, 1–5:30pm |
+| Health Care on Wheels: <a href="#" class="map-link" data-lat="35.613052" data-lon="-120.675974" data-zoom="17" data-label="SLO Noor Foundation">400 Oak Hill Rd., Paso Robles</a> | first and third Wednesdays, 1–5:30pm |
 | <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave., SLO</a> | [805-544-2478](tel:+1-805-544-2478) | M–F 8:30am–5:30pm <!-- Source: https://capslo.org/the-center/ --> |
 | Health Care on Wheels: <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">40 Prado Rd., SLO</a> | Fridays |
 
