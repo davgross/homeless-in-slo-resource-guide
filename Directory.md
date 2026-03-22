@@ -1020,7 +1020,7 @@
    - operates “Child Care Resource Connection (CCRC)”
    - operates [**Coordinated Entry System (CES)**](#CES)
    - operates “Head Start”
-   - operates “Helth Care on Wheels”
+   - operates “Health Care on Wheels”
    - operates “Home and Energy Services”
    - operates [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - operates “Low Income Home Energy Assistance Program (LIHEAP)”
