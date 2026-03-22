@@ -785,7 +785,9 @@
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | <a href="#" class="map-link" data-lat="35.120865" data-lon="-120.597299" data-zoom="17" data-label="The Center">1152 E. Grand Ave., Arroyo Grande</a> | [805-489-4026](tel:+1-805-489-4026) | M–F 8:30am–5:30m <!-- Source: https://capslo.org/the-center/ --> |
+| Health Care on Wheels: <a href="#" class="map-link" data-lat="35.613052" data-lon="-120.675974" data-zoom="17" data-label="SLO Noor Foundation">400 Oak Hill Rd., Paso Robles</a> | first and third Wednesdays, 1–5:30pm |
 | <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave., SLO</a> | [805-544-2478](tel:+1-805-544-2478) | M–F 8:30am–5:30pm <!-- Source: https://capslo.org/the-center/ --> |
+| Health Care on Wheels: <a href="#" class="map-link" data-lat="35.256218" data-lon="-120.672031" data-zoom="17" data-label="40 Prado Homeless Services Center">40 Prado Rd., SLO</a> | Fridays |
 
 - **Phone:** [805-422-2478](tel:+1-805-422-2478) <!-- Source: https://capslo.org/the-center/ -->
 - **How to access:** Walk-ins OK, but appointments recommended. <!-- Source: https://capslo.org/the-center/ -->
@@ -1018,6 +1020,7 @@
    - operates “Child Care Resource Connection (CCRC)”
    - operates [**Coordinated Entry System (CES)**](#CES)
    - operates “Head Start”
+   - operates “Health Care on Wheels”
    - operates “Home and Energy Services”
    - operates [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - operates “Low Income Home Energy Assistance Program (LIHEAP)”
@@ -4028,7 +4031,7 @@ There are several urgent care options, including:
    - Text: [888-417-6180](sms:+1-888-417-6180) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - **Hours:** M/Tu/Th 8am–5:30pm; Wed. 8am–5pm; Fri. 8am–4:30pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - **How to access:** by appointment only (call or text to make an appointment) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-   - Or visit the [**SLO Food Bank**](#SLO-Food-Bank) main office on the third Friday of the month from 1pm–4pm
+   - Or visit the [**SLO Food Bank**](#SLO-Food-Bank) main office on the third Friday of the month from 1–4pm
 - Eligibility: This program is restricted to people for whom both of the following requirements are true:
    - You are pregnant, breastfeeding, gave birth or had a pregnancy loss in the past six months, or you care for a child under the age of five
    - And you live in California and have income below a certain threshold, or receive Medi-Cal, [CalWORKs](#CalWORKs), or CalFresh benefits.
