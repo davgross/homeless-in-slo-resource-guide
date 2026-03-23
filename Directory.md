@@ -1124,7 +1124,7 @@
 | Location | Phone | Hours |
 | -------- | ----- | ----- |
 | Marigold Center: <a href="#" class="map-link" data-lat="35.249334" data-lon="-120.643117" data-zoom="17" data-label="Cottage Urgent Care">3970 Broad Street Suite 2, SLO</a> | [805-762-4996](tel:+1-805-762-4996) | Every day: 8am–8pm |
-| Foothill Plaza: <a href="#" class="map-link" data-lat="35.292930" data-lon="-120.671889" data-zoom="17" data-label="Cottage Urgent Care">777 E. Foothill Blvd., SLO</a> | [805-762-4348](tel:+1-805-762-4348) | Every day 8am–8pm |
+| Foothill Plaza: <a href="#" class="map-link" data-lat="35.292930" data-lon="-120.671889" data-zoom="17" data-label="Cottage Urgent Care">777 E. Foothill Blvd., SLO</a> | [805-762-4348](tel:+1-805-762-4348) | Every day: 8am–8pm |
 
 ## County of San Luis Obispo Public Libraries
 
@@ -2355,6 +2355,13 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:** [805-548-2660](tel:+1-805-548-2660) <!-- Source: https://www.omsslo.org/apps/pages/index.jsp?uREC_ID=3643070&type=d&pREC_ID=2413322 -->
 - **Email:** [Morradre@omsslo.com](mailto:Morradre@omsslo.com) <!-- Source: https://www.facebook.com/MissionThriftSLO/ -->
 - **Hours:** M–Sa Noon–5pm <!-- Source: https://www.facebook.com/MissionThriftSLO/ -->
+
+## <a id="MICOP">Mixteco/Indígena Community Organizing Project (MICOP)</a>
+
+- **Website:** [mixteco.org](https://mixteco.org/)
+- **Location:** <a href="#" class="map-link" data-lat="35.629921" data-lon="-120.691503" data-zoom="17" data-label="MICOP">1502 Spring St., Suite A, Paso Robles</a>
+- **Phone:** [805-296-3386](tel:+1-805-296-3386)
+- **Email:** [liza.diniakos@mixteco.org](mailto:liza.diniakos@mixteco.org)
 
 ## <a id="Mobile-Crisis-Team">Mobile Crisis Team</a>
 
