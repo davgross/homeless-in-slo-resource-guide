@@ -1346,7 +1346,7 @@
 | Ubicación | Teléfono | Horario |
 | --------- | -------- | ------- |
 | Marigold Center: <a href="#" class="map-link" data-lat="35.249334" data-lon="-120.643117" data-zoom="17" data-label="Cottage Urgent Care">3970 Broad Street Suite 2, SLO</a> | [805-762-4996](tel:+1-805-762-4996) | Todos los días: 8am–8pm |
-| Foothill Plaza: <a href="#" class="map-link" data-lat="35.292930" data-lon="-120.671889" data-zoom="17" data-label="Cottage Urgent Care">777 E. Foothill Blvd., SLO</a> | [805-762-4348](tel:+1-805-762-4348) | Todos los días 8am–8pm |
+| Foothill Plaza: <a href="#" class="map-link" data-lat="35.292930" data-lon="-120.671889" data-zoom="17" data-label="Cottage Urgent Care">777 E. Foothill Blvd., SLO</a> | [805-762-4348](tel:+1-805-762-4348) | Todos los días: 8am–8pm |
 
 ## County of San Luis Obispo Public Libraries
 
@@ -2332,6 +2332,10 @@
 - **Teléfono:** [805-549-8880](tel:+1-805-549-8880) <!-- Source: https://medstopurgentcare.com/ -->
 - **Horario:** L–V 8am–7pm, S–D 8am–4pm <!-- Source: https://medstopurgentcare.com/ -->
 
+## Mental Health Evaluation Team
+
+> *Vea [**Mobile Crisis Team**](#Mobile-Crisis-Team)*
+
 ## <a id="Middlehouse">Middlehouse</a>
 
 <!-- Source: http://middlehouse.org/ -->
@@ -2348,9 +2352,12 @@
 - **Correo electrónico:** [Morradre@omsslo.com](mailto:Morradre@omsslo.com) <!-- Source: https://www.facebook.com/MissionThriftSLO/ -->
 - **Horario:** L–S 12pm–5pm <!-- Source: https://www.facebook.com/MissionThriftSLO/ -->
 
-## Mental Health Evaluation Team
+## <a id="MICOP">MICOP (Proyecto de Organización Comunitaria Mixteco/Indígena)</a>
 
-> *Vea [**Mobile Crisis Team**](#Mobile-Crisis-Team)*
+- **Sitio web:** [mixteco.org](https://mixteco.org/)
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.629921" data-lon="-120.691503" data-zoom="17" data-label="MICOP">1502 Spring St., Suite A, Paso Robles</a>
+- **Teléfono:** [805-296-3386](tel:+1-805-296-3386)
+- **Correo electrónico:** [liza.diniakos@mixteco.org](mailto:liza.diniakos@mixteco.org)
 
 ## <a id="Mobile-Crisis-Unit">Mobile Crisis Unit</a>
 
