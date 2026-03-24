@@ -703,10 +703,6 @@
 - **Teléfono:** [805-543-6445](tel:+1-805-543-6445) <!-- Source: https://post66slo.org/serving-veterans/ -->
 - **Cómo obtener el servicio:** Solo para veteranos y dependientes de veteranos. Solo con cita previa; llame para hacer una cita.
 
-## The Bridge Cafe
-
-> *Vea [**Restorative Partners**](#Restorative-Partners)*
-
 ## <a id="Brookside-Thrift">Brookside Thrift</a>
 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.467930" data-lon="-120.651700" data-zoom="17" data-label="North County Christian Thrift Shop">9330 El Camino Real, Atascadero</a> <!-- Source: https://www.facebook.com/NorthCountyChristianThriftShop/about/?_rdr -->
@@ -1403,7 +1399,6 @@
    - el campus de SLO campus alberga una despensa de alimentos Cougar para estudiantes en la cafetería de la sala 5014A, L–V 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programas están abiertos a personas que de otro modo no estarían inscritas
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) tiene programas vocacionales/de aprendizaje permanente y ESL
-   - se asocia con [**The Bridge Cafe**](#Restorative-Partners) for its Culinary Arts program
    - se asocia con [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes
    - los campus de SLO y North County son sitios de distribución de cajas de alimentos de [**SLO Food Bank**](#SLO-Food-Bank) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
@@ -2909,11 +2904,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - Oficina: L–V 9am–5pm <!-- Source: https://restorativepartners.org/contact/ -->
 - Notas:
    - opera [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus) <!-- Source: https://www.sloharc.org/ -->
-   - opera “The Bridge Cafe” <!-- Source: https://restorativepartners.org/ -->
-      - **Ubicación:** 1074 Higuera St., SLO <!-- Source: https://www.thebridgecafe.org/ -->
-      - **Teléfono:** [805-439-1689](tel:+1-805-439-1689) <!-- Source: https://www.thebridgecafe.org/ -->
-      - **Correo electrónico:** [info@thebridgecafe.org](mailto:info@thebridgecafe.org) <!-- Source: https://www.thebridgecafe.org/ -->
-      - **Horario:** L–V 7am–3pm <!-- Source: https://www.thebridgecafe.org/ -->
    - opera un programa de vivienda ([restorativepartners.org/housing](https://restorativepartners.org/housing/)):
       - Anna’s Home (Paso Robles): Apoya a 5 mujeres y sus hijos con apoyo laboral, gestión de empleo, educación financiera, habilidades para la vida y objetivos de vivienda permanente <!-- Source: https://restorativepartners.org/housing/ -->
       - Hope House (Los Osos): Para mujeres que regresan, ofrece supervisión 24/7, transporte, reuniones de 12 pasos, capacitación en habilidades para la vida, mentoría, tratamiento ambulatorio <!-- Source: https://restorativepartners.org/housing/ -->
