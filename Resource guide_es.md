@@ -3097,9 +3097,6 @@ El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#Califo
 
 [**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudarle a desarrollar experiencia laboral después de ser liberado de la cárcel o prisión. <!-- Source: https://restorativepartners.org/workforce-development/ -->
 También pueden ayudarle a prepararse para entrevistas de trabajo y a encontrar empleadores solidarios. <!-- Source: flyer posted at SLO Library -->
-Operan [“The Bridge Cafe”](https://www.thebridgecafe.org/) que puede darle empleo remunerado mientras le capacita para la certificación del programa de Artes Culinarias de [**Cuesta College**](Directory.md#Cuesta-College). <!-- Source: https://restorativepartners.org/workforce-development/ -->
-Después de completar ese programa, también le ayudarán a encontrar un trabajo en ese campo. <!-- Source: https://restorativepartners.org/workforce-development/ -->
-Contacte a Restorative Partners para preguntar sobre participar en este programa.
 
 #### Para Veteranos Militares de los Estados Unidos
 

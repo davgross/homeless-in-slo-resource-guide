@@ -3100,9 +3100,6 @@ To use that program, you need a referral from [**California Department of Rehabi
 
 [**Restorative Partners**](Directory.md#Restorative-Partners) can help you build job experience after you are released from jail or prison. <!-- Source: https://restorativepartners.org/workforce-development/ -->
 They can also help you prepare for job interviews and to find supportive employers. <!-- Source: flyer posted at SLO Library -->
-They operate [“The Bridge Cafe”](https://www.thebridgecafe.org/) which can give you paid employment while training you for certification by [**Cuesta College**](Directory.md#Cuesta-College)’s Culinary Arts program. <!-- Source: https://restorativepartners.org/workforce-development/ -->
-After you complete that program, they will also help you find a job in that field. <!-- Source: https://restorativepartners.org/workforce-development/ -->
-Contact Restorative Partners to inquire about participating in this program.
 
 #### For U.S. Military Veterans
 

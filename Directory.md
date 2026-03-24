@@ -480,10 +480,6 @@
 - **Phone:** [805-543-6445](tel:+1-805-543-6445) <!-- Source: https://post66slo.org/serving-veterans/ -->
 - **How to access:** Only for veterans and veterans’ dependents. By appointment only; call to make an appointment.
 
-## The Bridge Cafe
-
-> *See [**Restorative Partners**](#Restorative-Partners)*
-
 ## <a id="Brookside-Thrift">Brookside Thrift</a>
 
 - **Location:** <a href="#" class="map-link" data-lat="35.467930" data-lon="-120.651700" data-zoom="17" data-label="North County Christian Thrift Shop">9330 El Camino Real, Atascadero</a> <!-- Source: https://www.facebook.com/NorthCountyChristianThriftShop/about/?_rdr -->
@@ -1181,7 +1177,6 @@
    - The SLO campus hosts a Cougar Food Pantry for students in room 5014A’s cafeteria, M–F 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programs are open to otherwise unenrolled people
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) has vocational / lifetime-learning programs, and ESL
-   - Partners with [**The Bridge Cafe**](#Restorative-Partners) for its Culinary Arts program
    - Partners with [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes
    - The SLO & North County campuses are [**SLO Food Bank**](#SLO-Food-Bank) food box distribution sites <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
@@ -2846,11 +2841,6 @@ If you see one listed here that is no longer in service, please use the feedback
    - Office: M–F 9am–5pm <!-- Source: https://restorativepartners.org/contact/ -->
 - Notes:
    - Operates [**Healing and Restoration Campus**](#Healing-and-Restoration-Campus) <!-- Source: https://www.sloharc.org/ -->
-   - Operates “The Bridge Cafe” <!-- Source: https://restorativepartners.org/ -->
-      - **Location:** 1074 Higuera St., SLO <!-- Source: https://www.thebridgecafe.org/ -->
-      - **Phone:** [805-439-1689](tel:+1-805-439-1689) <!-- Source: https://www.thebridgecafe.org/ -->
-      - **Email:** [info@thebridgecafe.org](mailto:info@thebridgecafe.org) <!-- Source: https://www.thebridgecafe.org/ -->
-      - **Hours:** M–F 7am–3pm <!-- Source: https://www.thebridgecafe.org/ -->
    - Operates a housing program ([restorativepartners.org/housing](https://restorativepartners.org/housing/)):
       - Anna’s Home (Paso Robles): Supports 5 women and their children with employment support, job management, financial literacy, life skills, and permanent housing goals <!-- Source: https://restorativepartners.org/housing/ -->
       - Hope House (Los Osos): For returning women, offers 24/7 supervision, transportation, 12-step meetings, life skills training, mentorship, outpatient treatment <!-- Source: https://restorativepartners.org/housing/ -->
