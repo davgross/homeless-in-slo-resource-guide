@@ -2229,7 +2229,7 @@ También tienen un [Kit de Herramientas de Defensa para Inquilinos](https://www.
 
 El Departamento de Bienes Raíces de California publicó una [*Guía para Arrendatarios de California*](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf) que da una explicación detallada de la ley de California sobre inquilinos de propiedades de alquiler.
 
-La ciudad de SLO tiene un [Sindicato de Inquilinos](https://linktr.ee/slorentcoalition) ([805-779-1639](tel:+1-805-779-1639)).
+La ciudad de SLO tiene un [Sindicato de Inquilinos](https://linktr.ee/slorentcoalition) ([805-779-1639](tel:+1-805-779-1639), [slorentcoalition@gmail.com](mailto:slorentcoalition@gmail.com)).
 
 La rama de SLO de Socialistas Democráticos de América tiene una guía de [Justicia de Vivienda](https://slocialism.org/housing-justice/) para inquilinos en San Luis Obispo.
 Intenta explicar cómo puede afirmar y defender mejor sus derechos legales como inquilino.
