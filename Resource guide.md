@@ -2232,7 +2232,7 @@ They also have an online self-help [Tenant Defense Toolkit](https://www.tenantst
 
 The California Department of Real Estate published a [*California Tenants’ Guide*](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) ([Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf)) which gives a detailed explanation of California law concerning tenants of rental properties.
 
-SLO city has a [Tenants Union](https://linktr.ee/slorentcoalition) ([805-779-1639](tel:+1-805-779-1639)).
+SLO city has a [Tenants Union](https://linktr.ee/slorentcoalition) ([805-779-1639](tel:+1-805-779-1639), [slorentcoalition@gmail.com](mailto:slorentcoalition@gmail.com)).
 
 The SLO branch of Democratic Socialists of America have a [Housing Justice](https://slocialism.org/housing-justice/) guide for tenants in San Luis Obispo.
 It tries to explain how you can best assert and defend your legal rights as a renter.
