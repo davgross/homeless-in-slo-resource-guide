@@ -377,6 +377,10 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        "footer"
+      ],
       "url": "https://www.prepareslo.org/"
     },
     "07b957c3-8823-4fdd-9580-54385e13bca9": {
@@ -1464,6 +1468,10 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        "footer"
+      ],
       "url": "https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center"
     },
     "1cca614f-da9e-4b22-b40e-398e83228f53": {
@@ -4772,6 +4780,12 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        "p.breadcrumb",
+        "div.row-newsletter",
+        "footer"
+      ],
       "url": "https://www.t-mha.org/wellness-calendars.php"
     },
     "6053b1f4-6b39-4c0a-a3b3-846075ca6e55": {
@@ -5572,7 +5586,10 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://marijuana-anonymous.org/meetings/?region=united-states&view=map"
+      "subtractive_selectors": [
+        "header"
+      ],
+      "url": "https://marijuana-anonymous.org/meetings/?region=united-states-california&search=SLO"
     },
     "6ef4bbdf-7fc9-4280-9941-0d320f948c14": {
       "filter_text_added": true,
@@ -6900,6 +6917,11 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#section-47-101",
+        "#section-27-101",
+        "#section-4-105"
+      ],
       "url": "https://woodshumanesociety.org/spay-neuter/vaccines/"
     },
     "86a9cbb6-697f-46f2-959c-9a8fb141adb5": {
@@ -7096,6 +7118,11 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        "div.row-newsletter",
+        "footer"
+      ],
       "url": "https://www.t-mha.org/central-coast-hotline.php"
     },
     "8a7c11ad-c33a-494b-b5f1-2950b6492027": {
@@ -8905,6 +8932,11 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav",
+        "div.elementor-element-497ff2c",
+        "div.elementor-element-9b138bc"
+      ],
       "url": "https://sloautism.org/about-us/"
     },
     "af7eba79-d2c7-4ca1-aa7c-ef9112f570ea": {
@@ -12236,6 +12268,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "div.wpsl-search"
+      ],
       "url": "https://capslo.org/eecc/"
     },
     "f32ebf0a-6736-46a8-aafa-c4669cb3f478": {
