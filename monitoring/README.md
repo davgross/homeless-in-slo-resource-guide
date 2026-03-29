@@ -32,7 +32,7 @@ The Resource Guide references 856+ unique websites as sources for information. T
 sudo apt update
 
 # Install Docker
-sudo apt install docker.io docker-compose
+sudo apt install docker.io docker-compose-plugin
 
 # Add your user to docker group (to run without sudo)
 sudo usermod -aG docker $USER
@@ -46,7 +46,7 @@ sudo usermod -aG docker $USER
 
 ```bash
 cd monitoring
-docker-compose up -d
+docker compose up -d
 ```
 
 This starts two containers:
@@ -197,30 +197,30 @@ Select multiple watches using checkboxes, then:
 
 ```bash
 # View container logs
-docker-compose logs -f changedetection
+docker compose logs -f changedetection
 
 # View browser logs
-docker-compose logs -f playwright-chrome
+docker compose logs -f playwright-chrome
 ```
 
 ### Restart Services
 
 ```bash
 # Restart all containers
-docker-compose restart
+docker compose restart
 
 # Restart just the main app
-docker-compose restart changedetection
+docker compose restart changedetection
 ```
 
 ### Stop Monitoring
 
 ```bash
 # Stop containers (keeps data)
-docker-compose down
+docker compose down
 
 # Stop and remove all data (CAUTION!)
-docker-compose down -v
+docker compose down -v
 rm -rf changedetection-data
 ```
 
@@ -228,10 +228,10 @@ rm -rf changedetection-data
 
 ```bash
 # Pull latest images
-docker-compose pull
+docker compose pull
 
 # Restart with new images
-docker-compose up -d
+docker compose up -d
 ```
 
 ### Backup Your Configuration
@@ -245,7 +245,7 @@ tar -czf changedetection-backup-$(date +%Y%m%d).tar.gz changedetection-data/
 
 ```bash
 # Stop containers
-docker-compose down
+docker compose down
 
 # Remove old data
 rm -rf changedetection-data
@@ -254,7 +254,7 @@ rm -rf changedetection-data
 tar -xzf changedetection-backup-YYYYMMDD.tar.gz
 
 # Restart
-docker-compose up -d
+docker compose up -d
 ```
 
 ## Troubleshooting
@@ -273,7 +273,7 @@ Then access at http://localhost:5001
 
 Check logs:
 ```bash
-docker-compose logs changedetection
+docker compose logs changedetection
 ```
 
 Common issues:
@@ -290,7 +290,7 @@ Some sites require JavaScript rendering. If you see blank content:
 
 If browser container is having issues:
 ```bash
-docker-compose restart playwright-chrome
+docker compose restart playwright-chrome
 ```
 
 ### Too Many False Positives
@@ -303,7 +303,7 @@ See **[SELECTOR-GUIDE.md](SELECTOR-GUIDE.md)** for detailed instructions on:
 ### Import Script Fails
 
 If the import script fails:
-1. Make sure Changedetection.io is running (`docker-compose ps`)
+1. Make sure Changedetection.io is running (`docker compose ps`)
 2. Check that you can access http://localhost:5000
 3. Run with verbose output:
    ```bash
@@ -407,7 +407,7 @@ If you want to run this 24/7 on a server, low-cost options:
 - **AWS EC2 t2.micro**: Free tier eligible (1 year)
 - **Oracle Cloud**: Free tier forever (1GB RAM ARM instance)
 
-Setup would be the same (using docker-compose).
+Setup would be the same (using `docker compose`).
 
 ## Getting Help
 
