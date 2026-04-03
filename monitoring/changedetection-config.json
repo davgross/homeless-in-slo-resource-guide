@@ -317,7 +317,9 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "ignore_text": [
-        "Closed now"
+        "Closed now",
+        "Closed now",
+        "Open now"
       ],
       "include_filters": [
         "#locationWidgetWrapper div.flex-1"
@@ -1384,6 +1386,15 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.modestneeds.org/mn/about-us"
+    },
+    "1a758668-31b6-4e43-9727-fcba07926ca1": {
+      "filter_text_added": true,
+      "filter_text_removed": true,
+      "filter_text_replaced": true,
+      "method": "GET",
+      "notification_format": "System default",
+      "processor": "text_json_diff",
+      "url": "https://www.cencalhealth.org/members/community-supports/"
     },
     "1a981f61-f7c9-4335-b89b-0ec0d87c8a1f": {
       "filter_text_added": true,
@@ -2629,9 +2640,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.content-right-rail-wrapper"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "div.leftNav",
+        ".comp-btn"
+      ],
       "url": "https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care"
     },
     "34572746-cb73-450e-8d7b-9b104e5ad75c": {
@@ -4941,7 +4959,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://agsreciclyng.com/"
+      "url": "https://www.agsrecyclinginc.com/"
     },
     "638fc51c-64a4-409a-9f23-a19cca64ed2b": {
       "filter_text_added": true,
@@ -6757,7 +6775,9 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "subtractive_selectors": [
-        ".open-status__09f24__YH9PK"
+        ".open-status__09f24__YH9PK",
+        ".open-status__09f24__GSicI",
+        ".y-css-1x0vrpz"
       ],
       "url": "https://www.yelp.com/biz/california-cool-thrift-store-grover-beach#location-and-hours"
     },
@@ -7891,6 +7911,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -9021,6 +9044,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".content-left-rr"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -9133,6 +9159,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "You reached this page when trying to access",
+        "Incident ID: "
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -9698,7 +9728,9 @@
       "filter_text_replaced": true,
       "ignore_text": [
         "Open now",
-        "Closed now"
+        "Closed now",
+        "Closed now",
+        "Open now"
       ],
       "include_filters": [
         "#locationWidgetWrapper > div:nth-child(1)"
@@ -10420,6 +10452,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -11585,7 +11620,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.cencalhealth.org/members/calaim/"
+      "url": "https://www.cencalhealth.org/members/enhanced-care-management/"
     },
     "e91641a1-5f6b-4214-be3b-1dac861a9e0f": {
       "filter_text_added": true,
@@ -12869,18 +12904,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes"
-    },
-    "ff95b33d-99c3-43a9-a4f4-ded8f826c292": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=46791"
     },
     "fff49ce3-73f8-4856-9485-cffffd774c1a": {
       "filter_text_added": true,
