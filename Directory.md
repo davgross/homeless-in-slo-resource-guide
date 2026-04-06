@@ -1429,7 +1429,7 @@
 - **Location:** <a href="#" class="map-link" data-lat="35.277962" data-lon="-120.650922" data-zoom="15" data-label="French Hospital Medical Center">1911 Johnson Ave., SLO</a> <!-- Source: https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center -->
 - **Phone:**
    - ER: [805-542-6621](tel:+1-805-542-6621)
-   - Front desk: [855-821-0827](tel:+1-855-821-0827) <!-- Source: https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center -->
+   - Front desk: [805-543-5353](tel:+1-805-543-5353) <!-- Source: https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center -->
 - **Hours:** 24/7
 
 ## <a id="Front-Porch">Front Porch</a>
