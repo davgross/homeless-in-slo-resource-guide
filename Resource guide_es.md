@@ -1476,17 +1476,17 @@ Traiga su tarjeta de seguro, identificación y una lista de los medicamentos que
  Cottage: https://www.cottagehealth.org/urgent-care/appointments/san-luis-obispo-marigold-center/ and https://www.cencalhealth.org/wp-content/uploads/2025/01/Feb2025_SLO_PrintDirectory_tagged.pdf
  FIMC: https://fimcslo.com/faq/
 -->
-| Ubicación de Atención Urgente                                                                       | Medicare | Medi-Cal |
+| Ubicación de Atención Urgente                                                                       | Medicare | CenCal/Medi-Cal |
 | --------------------------------------------------------------------------------------------------- | -------- | -------- |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | Sí       | Sí       |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Sí       | Sí       |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Sí       | No       |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)     | Sí       | No       |
 | [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | Sí       | No       |
 | [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Sí       | No       |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | Sí       | No       |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Sí       | Sí       |
 | [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | ?        | ?        |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Sí       | Sí       |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Sí       | No       |
 | [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | Sí       | No       |
 | [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | Sí       | Sí       |
 | [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | Sí       | No       |
@@ -2865,9 +2865,11 @@ El grupo local de Facebook [HelpSLO](https://www.facebook.com/groups/helpslo/) i
 Sin embargo, no puede pedir efectivo. <!-- Source: https://www.facebook.com/groups/helpslo/about -->
 El grupo es informal, y su necesidad será satisfecha (si lo es) por la generosidad individual de otro miembro del grupo.
 
-El grupo nacional [Modest Needs](https://www.modestneeds.org/) financia colectivamente solicitudes de asistencia financiera para trabajadores de bajos ingresos que viven de cheque en cheque y que encuentran un gasto inesperado o de emergencia que no pueden pagar, o que se vuelven incapaces de pagar sus facturas. <!-- Source: https://www.modestneeds.org/ -->
-No dan dinero directamente a los solicitantes, pero pueden ayudarles a pagar facturas. <!-- Source: https://www.modestneeds.org/mn/about-us -->
+<!-- Appears to be defunct
+El grupo nacional [Modest Needs](https://www.modestneeds.org/) financia colectivamente solicitudes de asistencia financiera para trabajadores de bajos ingresos que viven de cheque en cheque y que encuentran un gasto inesperado o de emergencia que no pueden pagar, o que se vuelven incapaces de pagar sus facturas. { Source: https://www.modestneeds.org/ }
+No dan dinero directamente a los solicitantes, pero pueden ayudarles a pagar facturas. { Source: https://www.modestneeds.org/mn/about-us }
 Vea [su sitio web](https://www.modestneeds.org/mn/for-applicants) para instrucciones sobre cómo solicitar una subvención.
+-->
 
 Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener ayuda con alimentos, vivienda, salud y bienestar, transporte, libros de texto, pases de estacionamiento, tecnología y otras necesidades básicas de la [Oficina de Necesidades Básicas](https://www.cuesta.edu/student-support/basic-needs-center/index.html).
 
@@ -3635,7 +3637,7 @@ Para unirse, contacte a la organizadora Julie Scurich en [jscurich@alsnetwork.or
 ### <a id="grief-peer-support">Duelo</a>
 
 Hospice SLO opera un Grupo de Apoyo para Cuidadores Familiares semanal en línea para residentes del Condado de SLO para el cual puede registrarse [en esta página](https://hospiceslo.org/support-groups/family-caregiver-support-group-meets-weekly-on-zoom).
-También tienen un grupo de Apoyo y Educación para el Duelo que se reúne [en línea](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom) y otros que se reúnen en persona [en Paso Robles](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-north-county) y [en la ciudad de SLO](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-slo).
+También tienen un grupo de Apoyo y Educación para el Duelo que se reúne [en línea](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom) y otros que se reúnen en persona [en la ciudad de SLO](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-slo).
 También tienen un grupo de apoyo en persona en la ciudad de SLO específicamente para personas que están [de duelo por la pérdida de un cónyuge o pareja](https://hospiceslo.org/support-groups/spouse-andor-partner-loss-support-and-education-group-meets-weekly-for-six-weeks-in).
 Ocasionalmente llevan a cabo [otros grupos de apoyo](https://hospiceslo.org/support-groups) también.
 
