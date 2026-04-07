@@ -1479,17 +1479,17 @@ Bring your insurance card, identification, and a list of medications you take.
  Cottage: https://www.cottagehealth.org/urgent-care/appointments/san-luis-obispo-marigold-center/ and https://www.cencalhealth.org/wp-content/uploads/2025/01/Feb2025_SLO_PrintDirectory_tagged.pdf
  FIMC: https://fimcslo.com/faq/
 -->
-| Urgent Care Location                                                                                | Medicare | Medi-Cal |
+| Urgent Care Location                                                                                | Medicare | CenCal/Medi-Cal |
 | --------------------------------------------------------------------------------------------------- | -------- | -------- |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Arroyo Grande)               | Yes      | Yes      |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Yes      | Yes      |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Atascadero)              | Yes      | No       |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Atascadero) (Atascadero)     | Yes      | No       |
 | [**Urgent Care of Atascadero**](Directory.md#Urgent-Care-of-Atascadero)                             | Yes      | No       |
 | [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Yes      | No       |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | Yes      | No       |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Yes      | Yes      |
 | [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | ?        | ?        |
-| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Yes      | Yes      |
+| [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Yes      | No       |
 | [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | Yes      | No       |
 | [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | Yes      | Yes      |
 | [**Family and Industrial Medical Center**](Directory.md#Family-and-Industrial-Medical-Center) (SLO) | Yes      | No       |
