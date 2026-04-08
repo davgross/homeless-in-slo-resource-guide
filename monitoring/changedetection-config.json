@@ -986,7 +986,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.805undocufund.org/alerts.html"
+      "url": "https://www.805undocufund.org/alerts"
     },
     "130dc97e-58cf-4148-8b4e-624e4fa1a16d": {
       "filter_text_added": true,
@@ -1377,15 +1377,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://library.municode.com/ca/san_luis_obispo_county/codes/county_code?nodeId=TIT11PARE_CH11.04ALCOPAFAEXNALA_11.04.090CA"
-    },
-    "1a31b337-b2c5-4f90-a524-997e81c6169e": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.modestneeds.org/mn/about-us"
     },
     "1a758668-31b6-4e43-9727-fcba07926ca1": {
       "filter_text_added": true,
@@ -1795,7 +1786,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-north-county"
+      "url": "https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom"
     },
     "2304c27a-aa87-4164-b640-85f3a094f3be": {
       "filter_text_added": true,
@@ -3897,6 +3888,18 @@
       "url": "https://momsclubofatascadero.weebly.com/"
     },
     "504261df-1ac9-432b-a55c-a0be6165bfd1": {
+      "browser_steps": [
+        {
+          "operation": "Wait for seconds",
+          "optional_value": "3",
+          "selector": "/html/body/div[1]/div"
+        },
+        {
+          "operation": "Click element",
+          "optional_value": "",
+          "selector": "/html/body/div[1]/div"
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
@@ -5127,12 +5130,9 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[2]/div/div[1]/div[2]/p[1]",
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[2]/div/div[1]/div[2]/p[5]",
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[2]/div/div[2]/div[2]/ul/li[1]",
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[2]/div/div[2]/div[2]/ul/li[2]",
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[2]/div/div[2]/div[2]/ul/li[3]",
-        "/html/body/div[3]/div/div[2]/div[3]/div[1]/div[2]/div/div[2]/div[2]/p[3]"
+        "#widget_8003_14129_6482",
+        "#ColumnUserControl3",
+        "#ColumnUserControl4"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -6017,18 +6017,6 @@
       "processor": "text_json_diff",
       "url": "https://www.slorta.org/schedules-fares/route-10/"
     },
-    "77e2185b-a3e8-4474-98e9-558e83b05afb": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "/html/body/div[3]/section/div/div[1]/div[3]"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.modestneeds.org/"
-    },
     "77ef7b99-22b2-4b5f-b3bd-9b8bb6f41b71": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -6805,15 +6793,6 @@
       "processor": "text_json_diff",
       "url": "https://www.pshhc.org/"
     },
-    "855d5e02-2b05-4486-b27f-1a7202c9faaa": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.modestneeds.org/mn/for-applicants"
-    },
     "86655b8a-b845-4530-a145-3c9c68f25900": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -7060,7 +7039,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.805undocufund.org/emergency-assistance-fund.html"
+      "url": "https://www.805undocufund.org/programs#anchors-lt8rv4na"
     },
     "8b01f701-beed-41c8-8975-da4a7bcd57e9": {
       "filter_text_added": true,
@@ -11381,7 +11360,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://secure.ssa.gov/ICON/ic001.action"
+      "url": "https://www.ssa.gov/locator/results?q=93401"
     },
     "e54d83d6-5598-4c00-a092-3e72e8a069c6": {
       "filter_text_added": true,
@@ -11607,15 +11586,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "/html/body/div[6]/div/header/div/div[2]/div[1]/div[2]/div[3]/div/ul/li[1]/a",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[2]/div/p[2]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[5]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[6]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[12]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[13]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[14]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[17]",
-        "/html/body/div[6]/div/div/div/article/div/div/div/div[2]/div[2]/div[2]/div[18]/div/p[1]"
+        "#main-content"
       ],
       "method": "GET",
       "notification_format": "System default",

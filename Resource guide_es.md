@@ -1203,6 +1203,8 @@ También venden bicicletas reacondicionadas a precios bajos. <!-- Source: https:
 Visite su sitio web para ver su horario actual. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
 Cobran una pequeña tarifa ($10/hora) para usar sus servicios de reparación/mantenimiento. <!-- https://bikeslocounty.org/programs/kitchen/#tab-id-2 -->
 
+[**Shower the People**](Directory.md#Shower-the-People) ofrece asistencia con reparación de bicicletas en su ubicación de los miércoles en Grover Beach de 10am–1pm. <!-- Source: site feedback from Michele Kinkade -->
+
 Aquí hay algunos consejos para mantener su bicicleta segura si está acampando:
 
 - Bloquee las bicicletas juntas cuando acampe con varias personas.

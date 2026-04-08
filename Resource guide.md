@@ -1206,6 +1206,8 @@ They also sell refurbished bicycles at low prices. <!-- Source: https://bikesloc
 Visit their website to see their current schedule. <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
 They charge a small fee ($10/hr) to use their repair/maintenance services. <!-- https://bikeslocounty.org/programs/kitchen/#tab-id-2 -->
 
+[**Shower the People**](Directory.md#Shower-the-People) offers bike repair assistance at its Wednesday location in Grover Beach from 10am–1pm. <!-- Source: site feedback from Michele Kinkade -->
+
 Here are some tips for keeping your bike safe if you are camping:
 
 - Lock bikes together when you camp with multiple people.
