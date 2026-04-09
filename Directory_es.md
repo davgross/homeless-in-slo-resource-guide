@@ -4000,6 +4000,8 @@ Hay varias opciones de atención de urgencias, incluyendo:
 
 > *Vea [**Santa Maria Wisdom Center**](#Santa-Maria-Wisdom-Center)*
 
+<a id="Womenade"><!-- TBD: Womenade groups are distinct organizations, not branches of the same organization --></a>
+
 ## <a id="Womenade-SLO">Womenade SLO</a>
 
 - **Sitio web:** [womenadeslo.org](https://www.womenadeslo.org/)
@@ -4034,8 +4036,6 @@ Hay varias opciones de atención de urgencias, incluyendo:
 - Elegibilidad: Este programa está restringido a personas para quienes ambos de los siguientes requisitos son verdaderos:
    - Está embarazada, amamantando, dio a luz o tuvo una pérdida de embarazo en los últimos seis meses, o cuida de un niño menor de cinco años
    - Y vive en California y tiene ingresos por debajo de cierto umbral, o recibe beneficios de Medi-Cal, [CalWORKs](#CalWORKs) o CalFresh.
-
-<a id="Womenade"><!-- TBD: Womenade groups are distinct organizations, not branches of the same organization --></a>
 
 ## <a id="Woods-Humane-Society">Woods Humane Society</a>
 
