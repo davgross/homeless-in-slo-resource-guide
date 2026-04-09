@@ -103,15 +103,15 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
    <tr><td><a href="tel:+1-800-662-4357">800-662-4357</a></td><td>Línea Nacional de Ayuda de SAMHSA (gratuita, confidencial, 24/7 para referidos e información sobre tratamiento de abuso de sustancias)</td></tr><!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
    <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Línea de ayuda 24/7 de Alcohólicos Anónimos de la Costa Central</td></tr><!-- Source: https://www.sloaa.org/ -->
    <tr><td><a href="tel:+1-800-549-7730">800-549-7730</a></td><td>Línea de ayuda 24/7 de Narcóticos Anónimos de la Costa Central</td></tr><!-- Source: https://www.centralcoastna.org/ -->
-  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Finding Help:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Cómo Encontrar Ayuda:</th></tr>
    <tr><td><a href="tel:+1-211">211</a></td><td>Lo conecta con ayuda experta, compasiva y confidencial de todo tipo</td></tr><!-- Source: https://211slo.org/ -->
-  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Legal Aid and Consumer Protection:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Asistencia Legal y Protección al Consumidor:</th></tr>
    <tr><td><a href="tel:+1-714-571-5200">714-571-5200</a></td><td>Línea de Ayuda de Asistencia Legal Comunitaria del Sur de California para discriminación de vivienda, derechos de inquilinos y protección del consumidor</td></tr><!-- Source: https://www.communitylegalsocal.org/contact-us/ -->
    <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Los Angeles Legal Aid Foundation (LAFLA) para asistencia legal</td></tr><!-- Source: https://lafla.org/ -->
-  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Housing and Homeless Services:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Vivienda y Servicios para Personas sin Hogar:</th></tr>
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>Coalición para Personas sin Hogar de 5Cities para asistencia de vivienda y entrada coordinada</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>Gerente de Respuesta a Personas sin Hogar de la Ciudad de SLO</td></tr><!-- Source: https://www.slocity.org/living/neighborhood/homelessness -->
-  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Immigration:</th></tr>
+  <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Inmigración:</th></tr>
    <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Línea Directa de Respuesta Rápida 805 (reportar actividad de ICE o conectarse con apoyo legal); regístrese para alertas de texto <a href="sms:+1-805-870-8855?&amp;body=ALERT">enviando mensaje de texto “ALERT” a este número</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> o envíe mensaje de texto a <a href="sms:233733">233733</a></td><td>Línea Nacional Contra la Trata de Personas</td></tr><!-- Source: https://humantraffickinghotline.org/es -->
  </tbody>
