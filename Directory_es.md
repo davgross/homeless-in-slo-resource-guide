@@ -252,7 +252,7 @@
 - **Horario:**
    - Oficina: L–J 9am–4pm <!-- Source: https://agapeslo.church/contact -->
    - Despensa de alimentos: Ma 10–10:30am, D mediodía–12:30pm
-- Nota: “Men of Agape” sirven una comida gratis en <a href="#" class="map-link" data-lat="35.269063" data-lon="-120.658325" data-zoom="17" data-label="Men of Agape">Meadow Park, SLO</a>, los jueves at 11am
+- Nota: “Men of Agape” sirven una comida gratis en <a href="#" class="map-link" data-lat="35.269063" data-lon="-120.658325" data-zoom="17" data-label="Men of Agape">Meadow Park, SLO</a>, los jueves a las 11am
 
 ## Aging & Disability Resource Center (ADRC)
 
@@ -496,11 +496,11 @@
       - <a href="#" class="map-link" data-lat="35.119917" data-lon="-120.575391" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">121 Allen St.</a>
       - <a href="#" class="map-link" data-lat="35.073182" data-lon="-120.586066" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">Amarillo Dr.</a>
       - <a href="#" class="map-link" data-lat="35.073411" data-lon="-120.580329" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2510 Appaloosa Way</a>
-      - <a href="#" class="map-link" data-lat="35.117185" data-lon="-120.604837" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Corner of Cedar & Boysenberry</a>
+      - <a href="#" class="map-link" data-lat="35.117185" data-lon="-120.604837" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Esquina de Cedar & Boysenberry</a>
       - <a href="#" class="map-link" data-lat="35.121326" data-lon="-120.570416" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">529 E. Cherry Ave.</a>
       - <a href="#" class="map-link" data-lat="35.122401" data-lon="-120.568374" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">615 E. Cherry Ave.</a>
       - <a href="#" class="map-link" data-lat="35.087336" data-lon="-120.563930" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2385 Clarkie Way</a>
-      - <a href="#" class="map-link" data-lat="35.065912" data-lon="-120.572875" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">Cypress Ridge Pkwy.</a> near Cypress Ridge golf course entrance
+      - <a href="#" class="map-link" data-lat="35.065912" data-lon="-120.572875" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">Cypress Ridge Pkwy.</a> cerca de la entrada al Cypress Ridge golf course
       - <a href="#" class="map-link" data-lat="35.055285" data-lon="-120.581134" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">485 Dorothy Ln.</a>
       - <a href="#" class="map-link" data-lat="35.123058" data-lon="-120.600336" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">303 N. Elm St.</a>
       - <a href="#" class="map-link" data-lat="35.110289" data-lon="-120.600857" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">512 S. Elm St.</a>
@@ -624,7 +624,7 @@
       - <a href="#" class="map-link" data-lat="35.247297" data-lon="-120.629542" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">1330 Alder St.</a>
       - <a href="#" class="map-link" data-lat="35.263063" data-lon="-120.687116" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1378 Avalon St. (@ Oceanaire Dr.)</a>
       - <a href="#" class="map-link" data-lat="35.291125" data-lon="-120.670781" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">79 Benton Way</a>
-      - <a href="#" class="map-link" data-lat="35.261906" data-lon="-120.655375" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Bluerock Drive near Stoneridge Park</a>
+      - <a href="#" class="map-link" data-lat="35.261906" data-lon="-120.655375" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Bluerock Drive cerca de Stoneridge Park</a>
       - <a href="#" class="map-link" data-lat="35.276596" data-lon="-120.662295" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1410 Broad St. @ Pacific</a>
       - Center St. by Nazarene church
       - <a href="#" class="map-link" data-lat="35.287044" data-lon="-120.667729" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Center St. entre Chorro y Lincoln</a>
@@ -641,7 +641,7 @@
       - <a href="#" class="map-link" data-lat="35.122113" data-lon="-120.634064" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1 Grand Ave.</a>
       - <a href="#" class="map-link" data-lat="35.264324" data-lon="-120.635237" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3440 Gregory Ct.</a>
       - <a href="#" class="map-link" data-lat="35.284846" data-lon="-120.654559" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1415 Higuera St.</a>
-      - On a utility pole at <a href="#" class="map-link" data-lat="35.276876" data-lon="-120.658486" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Morro St. y Islay St.</a>
+      - En un poste de luz en <a href="#" class="map-link" data-lat="35.276876" data-lon="-120.658486" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Morro St. y Islay St.</a>
       - <a href="#" class="map-link" data-lat="35.278313" data-lon="-120.655482" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1121 Islay St.</a>
       - <a href="#" class="map-link" data-lat="35.269615" data-lon="-120.647253" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1215 Joyce Ct.</a>
       - <a href="#" class="map-link" data-lat="35.253618" data-lon="-120.636411" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3962 Kilbern Way</a>
@@ -651,12 +651,12 @@
       - <a href="#" class="map-link" data-lat="35.277910" data-lon="-120.654495" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1148 Leff St.</a>
       - United Church of Christ (<a href="#" class="map-link" data-lat="35.260531" data-lon="-120.695661" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">11245 Los Osos Valley Road</a>)
       - <a href="#" class="map-link" data-lat="35.259926" data-lon="-120.699974" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1708 Lynn</a>
-      - <a href="#" class="map-link" data-lat="35.285083" data-lon="-120.660090" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Corner of Mill & Toro</a>
-      - Monday Club, <a href="#" class="map-link" data-lat="35.288367" data-lon="-120.651308" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1815 Monterey at Grand</a>
+      - <a href="#" class="map-link" data-lat="35.285083" data-lon="-120.660090" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Esquina de Mill & Toro</a>
+      - Monday Club, <a href="#" class="map-link" data-lat="35.288367" data-lon="-120.651308" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1815 Monterey en Grand</a>
       - <a href="#" class="map-link" data-lat="35.260767" data-lon="-120.636610" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1430 Noveno Ave.</a>
-      - <a href="#" class="map-link" data-lat="35.260794" data-lon="-120.684820" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1552 Oceanaire Dr. (near Atascadero St.)</a>
-      - <a href="#" class="map-link" data-lat="35.255958" data-lon="-120.684262" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1906 Oceanaire Dr. (near Pinecove Dr.)</a>
-      - <a href="#" class="map-link" data-lat="35.282736" data-lon="-120.654597" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Pacific between Johnson & Pepper</a>
+      - <a href="#" class="map-link" data-lat="35.260794" data-lon="-120.684820" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1552 Oceanaire Dr. (cerca de Atascadero St.)</a>
+      - <a href="#" class="map-link" data-lat="35.255958" data-lon="-120.684262" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1906 Oceanaire Dr. (cerca de Pinecove Dr.)</a>
+      - <a href="#" class="map-link" data-lat="35.282736" data-lon="-120.654597" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Pacific entre Johnson & Pepper</a>
       - <a href="#" class="map-link" data-lat="35.255695" data-lon="-120.688071" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1768 Pereira Dr.</a>
       - <a href="#" class="map-link" data-lat="35.246714" data-lon="-120.629867" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1358 Purple Sage Ln.</a>
       - <a href="#" class="map-link" data-lat="35.255406" data-lon="-120.663539" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">333 Sage St.</a>
@@ -664,10 +664,10 @@
       - <a href="#" class="map-link" data-lat="35.192977" data-lon="-120.715295" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1401 San Luis Bay Dr.</a>
       - <a href="#" class="map-link" data-lat="35.286554" data-lon="-120.650418" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1739 San Luis Dr.</a>
       - <a href="#" class="map-link" data-lat="35.269203" data-lon="-120.642908" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1391 San Marcos Ct.</a>
-      - In front of The Establishment, <a href="#" class="map-link" data-lat="35.276342" data-lon="-120.656708" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1703 Santa Barbara Ave.</a>
-      - By the Montessori school at <a href="#" class="map-link" data-lat="35.241860" data-lon="-120.676929" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">South Higuera & Los Osos Valley Road</a>
+      - Frente a The Establishment, <a href="#" class="map-link" data-lat="35.276342" data-lon="-120.656708" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1703 Santa Barbara Ave.</a>
+      - Junto a la escuela Montessori en <a href="#" class="map-link" data-lat="35.241860" data-lon="-120.676929" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">South Higuera & Los Osos Valley Road</a>
       - <a href="#" class="map-link" data-lat="35.248051" data-lon="-120.674354" data-zoom="16" data-label="Biblioteca Gratuita Pequeña">3960 S. Higuera St. #34</a>
-      - Nazarene church on <a href="#" class="map-link" data-lat="35.264981" data-lon="-120.635355" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3396 Southwood Dr.</a>
+      - Iglesia Nazarena en <a href="#" class="map-link" data-lat="35.264981" data-lon="-120.635355" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3396 Southwood Dr.</a>
       - <a href="#" class="map-link" data-lat="35.264823" data-lon="-120.629282" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1767 Southwood Dr.</a>
       - <a href="#" class="map-link" data-lat="35.247748" data-lon="-120.627995" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">4475 Wavertree St.</a>
       - <a href="#" class="map-link" data-lat="35.267197" data-lon="-120.656072" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">637 Woodbridge</a>
@@ -913,11 +913,11 @@
    - Paso Robles satélite: St. Rose of Lima Church, <a href="#" class="map-link" data-lat="35.622914" data-lon="-120.690742" data-zoom="17" data-label="Catholic Charities">642 Trigo Ln., Paso Robles</a> <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
 - **Teléfono:**
    - principal: [805-541-9110](tel:+1-805-541-9110) <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
-   - Paso Robles: [805-541-9120](tel:+1-805-541-9120) (to schedule appointments) <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
+   - Paso Robles: [805-541-9120](tel:+1-805-541-9120) (para programar citas) <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
    - Programa de inmigración y ciudadanía: [831-722-2675](tel:+1-831-722-2675)
    - Programa de eliminación de tatuajes: [831-316-9121](tel:+1-831-316-9121) (Nota: oficina de eliminación de tatuajes está en Santa Cruz, no en SLO) <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 - **Horario:**
-   - Oficinas SLO: L–V 8am–5pm (llame para confirmar hours para ubicación específica)
+   - Oficinas SLO: L–V 8am–5pm (llame para confirmar el horario de cada ubicación)
    - Paso Robles: segundo miércoles de cada mes, 1–5pm
 <!-- Nota: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) (vea p. ej. https://www.slocounty.ca.gov/departments/social-services/forms-documents/department-wide-forms/informational-documents/slo-county-resources-and-information-(5-1-2024) and https://www.tri-counties.org/wp-content/uploads/2017/11/slo-county-social-svs-resource-sheet.pdf)-->
 
@@ -929,7 +929,7 @@
 - **Correo electrónico:** [info@cayucoschurch.com](mailto:info@cayucoschurch.com) <!-- Source: https://cayucoschurch.com/ministries/ -->
 - **Horario:**
    - Oficina: Ma–J 10am–2pm (cerrado los viernes y días festivos)
-   - Despensa de alimentos (“Harvest Bag”): Primer, tercer, cuarto y quinto miércoles at 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
+   - Despensa de alimentos (“Harvest Bag”): Primer, tercer, cuarto y quinto miércoles a las 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
    - Distribución de alimentos del USDA: segundo miércoles a las 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
 
 ## <a id="CenCal">CenCal Health</a>
@@ -1048,7 +1048,7 @@
 
 - **Ubicaciones:** (distribución de alimentos para mascotas)
    - <a href="#" class="map-link" data-lat="35.120091" data-lon="-120.619796" data-zoom="17" data-label="Central Coast Partnership for Animal Welfare">946 Rockaway Ave., Grover Beach</a> ([**Lifepoint Church**](#Lifepoint-Church))
-   - estacionamiento at <a href="#" class="map-link" data-lat="35.100069" data-lon="-120.612256" data-zoom="17" data-label="Central Coast Partnership for Animal Welfare">1710 Ocean St., Oceano</a>
+   - estacionamiento en <a href="#" class="map-link" data-lat="35.100069" data-lon="-120.612256" data-zoom="17" data-label="Central Coast Partnership for Animal Welfare">1710 Ocean St., Oceano</a>
 - **Teléfono:** [805-574-0563](tel:+1-805-574-0563)
    - Atención Veterinaria de Emergencia: [775-841-7463](tel:+1-775-841-7463)
 - **Correo electrónico:** [mamagack@hotmail.com](mailto:mamagack@hotmail.com)
@@ -1331,7 +1331,7 @@
    - en todo el condado: Contacta con [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
    - O iniciar contacto a través de otras agencias participantes como [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), [**Transitions Mental Health Association (TMHA)**](#TMHA), [**Good Samaritan Shelter**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services) o [**SLO County Health Department**](#SLO-County-Health-Department)
 - Notas:
-   - un punto de entrada para [**Housing Now**](#Housing-Now), (at least some of) [**Peoples’ Self-Help Housing**](#Peoples-Self-Help-Housing), [**Welcome Home Village**](#Welcome-Home-Village)
+   - un punto de entrada para [**Housing Now**](#Housing-Now), (al menos algunos de) [**Peoples’ Self-Help Housing**](#Peoples-Self-Help-Housing), [**Welcome Home Village**](#Welcome-Home-Village)
    - supervisado por “Homeless Services Oversight Council (HSOC)”
 
 ## <a id="Cottage-Urgent-Care">Cottage Urgent Care</a>
@@ -1824,7 +1824,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.279915" data-lon="-120.660514" data-zoom="17" data-label="Green Pastures">981 Marsh St., SLO</a> <!-- Source: https://fpcslo.org/ --> (First Presbyterian Church)
 - **Teléfono:** [805-543-5451](tel:+1-805-543-5451) <!-- Source: https://fpcslo.org/ -->
 - **Correo electrónico:** [churchoffice@fpcslo.org](mailto:churchoffice@fpcslo.org) <!-- Source: https://fpcslo.org/ -->
-- **Horario:** Primer y tercer miércoles at 1pm <!-- Source: https://fpcslo.org/greenpastures -->
+- **Horario:** Primer y tercer miércoles a la 1pm <!-- Source: https://fpcslo.org/greenpastures -->
 - **Cómo obtener el servicio:** el sistema de lotería: Los primeros ocho nombres sorteados recibirán asistencia. Es necesario estar presente para participar. <!-- Source: https://fpcslo.org/greenpastures -->
 
 ## <a id="Grover-Beach-Community-Services">Grover Beach Community Services</a>
@@ -1874,7 +1874,7 @@
 
 <!-- Source: https://www.sloharc.org/ and https://www.newtimesslo.com/news/slos-sunny-acres-could-become-a-health-campus-by-restorative-partners-and-homekey-funds-16578959 -->
 - **Sitio web:** [sloharc.org](https://www.sloharc.org/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.273513" data-lon="-120.706208" data-zoom="16" data-label="Healing and Restoration Campus">Los Osos Valley Road near Laguna Lake</a> (antiguamente DeVaul Ranch / Sunny Acres)
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.273513" data-lon="-120.706208" data-zoom="16" data-label="Healing and Restoration Campus">Los Osos Valley Road cerca de Laguna Lake</a> (antiguamente DeVaul Ranch / Sunny Acres)
 <!-- Nota: Precise address and contact info not publicly available (as of October 2025). Property transitioned from Dan DeVaul’s Sunny Acres to Restorative Partners in December 2024 for development as healing and restoration campus using Homekey+ funding -->
 - Nota: un proyecto de [**Restorative Partners**](#Restorative-Partners)
 
@@ -2225,7 +2225,7 @@
 - **Horario:** Ma/Mi/J 1–3pm <!-- Source: https://www.losososcares.com/programs -->
    - cenas comunitarias: los miércoles 5–6pm <!-- Source: https://www.losososcares.com/programs -->
 - Notas:
-   - alberga cenas comunitarias at [**South Bay Community Center**](#South-Bay-Community-Center)
+   - alberga cenas comunitarias en [**South Bay Community Center**](#South-Bay-Community-Center)
    - alberga “Coastal Family Resource Center”
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>

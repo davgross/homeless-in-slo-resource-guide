@@ -51,6 +51,25 @@ They are unlikely to have their own FAX machines, personal computers, scanners, 
 1. **Use simple English in draft text**: If you add text that is meant as to be inserted as-is into the guide (rather than as notes for the researchers and editors), take care to write that text in simple English that is easy to understand by the target audience — for example: use linear sentences without tangled clauses, simple verbs rather than progressive-tense verbs or compound verbs when possible, active voice, literal rather than idiomatic language, and basic vocabulary.
 1. **Create Spanish translations as needed**: When contributors add or modify information in the English-language pages, make corresponding edits to the Spanish translations.
 
+#### Notes on Spanish Translations
+
+The goal of the Spanish languages pages is to make the information in this web-app most available to and most helpful to those people in the target audience who are more comfortable reading Spanish than English.
+
+Translate most text from English to Spanish for the Spanish language versions of the pages.
+Prefer Latin American Spanish dialects to continental Spanish.
+Prefer Mexican or Central American Spanish to South American Spanish dialects.
+
+Do not translate HTML comments (e.g. editorial notes or "Source:" annotations).
+
+Usually keep the English names of organizations, programs, offices, buildings, streets (e.g. "1st St." rather than "1ra calle"), and other proper names of that sort as-is in English.
+If an organization, program, or office itself provides an official Spanish translation of its name, use that Spanish translation in Spanish-translated pages.
+You might find this, for example, on Spanish-language publications produced by that organization or program.
+However, if an organization or program merely provides a machine-translated version of its website, that is not sufficient to supply an official translation of its name.
+
+If you rename an organization in the Directory, this may also require that you reorganize the directory to preserve alphabetization of entries.
+
+Use typical Latin American Spanish conventions for grammatical things like the Oxford comma, even if this differs from the English language pages' conventions.
+
 ## Current State
 
 ### File Structure
