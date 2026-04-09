@@ -627,7 +627,7 @@
       - <a href="#" class="map-link" data-lat="35.261906" data-lon="-120.655375" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Bluerock Drive near Stoneridge Park</a>
       - <a href="#" class="map-link" data-lat="35.276596" data-lon="-120.662295" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">1410 Broad St. @ Pacific</a>
       - Center St. by Nazarene church
-      - <a href="#" class="map-link" data-lat="35.287044" data-lon="-120.667729" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Center St. between Chorro and Lincoln</a>
+      - <a href="#" class="map-link" data-lat="35.287044" data-lon="-120.667729" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">Center St. entre Chorro y Lincoln</a>
       - <a href="#" class="map-link" data-lat="35.295083" data-lon="-120.677927" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">171 Cerro Romauldo Ave.</a>
       - <a href="#" class="map-link" data-lat="35.331880" data-lon="-120.728717" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">3450 Dairy Creek Rd. (SLO Botanical Garden)</a>
       - <a href="#" class="map-link" data-lat="35.270140" data-lon="-120.649130" data-zoom="17" data-label="Biblioteca Gratuita Pequeña">2378 Boulevard Del Campo</a>
@@ -1120,7 +1120,7 @@
    - realizar referencias a través de [**Adult Protective Services**](#Adult-Protective-Services)
    - opera [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
    - opera [**Parent Connection of SLO County**](#Parent-Connection-of-SLO-County)
-   - opera [**The Link Family Resource Center**](#Link-Family-Resource-Center) (Atascadero and Paso Robles locations)
+   - opera [**The Link Family Resource Center**](#Link-Family-Resource-Center) (ubicaciones de Atascadero y Paso Robles)
    - un socio con [**UndocSupport del Condado de SLO**](#SLO-County-UndocuSupport)
 
 ## CHC
@@ -1853,7 +1853,7 @@
 - **Teléfono:** [805-782-0687](tel:+1-805-782-0687) <!-- Source: https://habitatslo.org/ -->
 - **Correo electrónico:** [info@habitatslo.org](mailto:info@habitatslo.org) <!-- Source: https://habitatslo.org/contact/ -->
 
-**ReStore** (recycled construction and home renovation materials):
+**ReStore** (materiales reciclados para la construcción y la renovación de viviendas):
 
 - **Sitio web:** [habitatslo.org/restores](https://habitatslo.org/restores/)
 - **Ubicaciones:**
@@ -2174,7 +2174,7 @@
 
 - **Sitio web:** [literacyforlifeslo.org](https://www.literacyforlifeslo.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.281755" data-lon="-120.661662" data-zoom="17" data-label="Literacy For Life">992 Monterey St. #C, SLO</a>
-   - [Learning centers](https://www.literacyforlifeslo.org/learning-centers.php) in Arroyo Grande, Atascadero, Cambria, Los Osos, Morro Bay, Nipomo, Paso Robles, and SLO
+   - [Learning centers](https://www.literacyforlifeslo.org/learning-centers.php) en Arroyo Grande, Atascadero, Cambria, Los Osos, Morro Bay, Nipomo, Paso Robles y SLO
 - **Teléfono:** [805-459-5369](tel:+1-805-459-5369) <!-- Source: https://www.literacyforlifeslo.org/contact.php -->
 - **Correo electrónico:** [info@literacyforlifeslo.org](mailto:info@literacyforlifeslo.org) <!-- Source: https://www.literacyforlifeslo.org/contact.php -->
 - **Horario:** L–J 9am–5pm
@@ -2290,7 +2290,7 @@
 
 - **Sitio web:** [mealsthatconnect.org](https://mealsthatconnect.org/en/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Meals that Connect">265 South St. #B, SLO</a> (office) <!-- Source: https://mealsthatconnect.org/en/ -->
-   - Sirve comidas en Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
+   - Sirve comidas en Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, San Miguel y SLO
    - También hace entregas a domicilio <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 - **Teléfono:** [805-541-3312](tel:+1-805-541-3312) <!-- Source: https://mealsthatconnect.org/en/ -->
 - **Correo electrónico:** [info@mealsthatconnect.org](mailto:info@mealsthatconnect.org) <!-- Source: https://mealsthatconnect.org/en/ -->
@@ -2413,7 +2413,7 @@
 ## <a id="Narcotics-Anonymous">Narcotics Anonymous</a>
 
 - **Sitio web:** [centralcoastna.org](https://centralcoastna.org/)
-- **Ubicaciones:** [varias ubicaciones](https://www.centralcoastna.org/directory/) en Arroyo Grande, Atascadero, Cambria, Guadalupe, Lompoc, Orcutt, Paso Robles, San Luis Obispo, and Santa Maria <!-- https://www.centralcoastna.org/directory/ -->
+- **Ubicaciones:** [varias ubicaciones](https://www.centralcoastna.org/directory/) en Arroyo Grande, Atascadero, Cambria, Guadalupe, Lompoc, Orcutt, Paso Robles, San Luis Obispo y Santa Maria <!-- https://www.centralcoastna.org/directory/ -->
    - También tiene algunas reuniones virtuales (Zoom)
 - **Teléfono:** [805-549-7730](tel:+1-805-549-7730) <!-- Source: https://www.centralcoastna.org/ -->
 
@@ -2708,7 +2708,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
       - <a href="#" class="map-link" data-lat="35.099906" data-lon="-120.610517" data-zoom="17" data-label="Pequeña Despensa Gratuita">1930 Ocean St.</a>
       - <a href="#" class="map-link" data-lat="35.107217" data-lon="-120.624337" data-zoom="17" data-label="Pequeña Despensa Gratuita">615 Pier Ave.</a>
    - Paso Robles:
-      - <a href="#" class="map-link" data-lat="35.622280" data-lon="-120.694835" data-zoom="17" data-label="Pequeña Despensa Gratuita">8th St. and Olive St.</a>
+      - <a href="#" class="map-link" data-lat="35.622280" data-lon="-120.694835" data-zoom="17" data-label="Pequeña Despensa Gratuita">8th St. y Olive St.</a>
       - <a href="#" class="map-link" data-lat="35.648648" data-lon="-120.694685" data-zoom="17" data-label="Pequeña Despensa Gratuita">3301 Oak St.</a>
       - <a href="#" class="map-link" data-lat="35.606196" data-lon="-120.643111" data-zoom="17" data-label="Pequeña Despensa Gratuita">1003 Pioneer Trail Rd.</a>
    - Pismo Beach: <a href="#" class="map-link" data-lat="35.135993" data-lon="-120.610013" data-zoom="17" data-label="Pequeña Despensa Gratuita">206 Margo Way</a>
@@ -2722,7 +2722,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
       - <a href="#" class="map-link" data-lat="35.276312" data-lon="-120.648300" data-zoom="17" data-label="Pequeña Despensa Gratuita">2075 Johnson Ave.</a> <!-- Verified 27 Dec. 2025 -->
       - <a href="#" class="map-link" data-lat="35.260575" data-lon="-120.695157" data-zoom="17" data-label="Pequeña Despensa Gratuita">11245 Los Osos Valley Rd.</a> <!-- Verified 27 Dec. 2025 -->
       - <a href="#" class="map-link" data-lat="35.276676" data-lon="-120.664180" data-zoom="17" data-label="Pequeña Despensa Gratuita">1306 Nipomo St.</a> <!-- Verified 7 Dec. 2025 -->
-      - <a href="#" class="map-link" data-lat="35.269527" data-lon="-120.652344" data-zoom="17" data-label="Pequeña Despensa Gratuita">corner of San Carlos and Bushnell</a> <!-- Verified 27 Dec. 2025 -->
+      - <a href="#" class="map-link" data-lat="35.269527" data-lon="-120.652344" data-zoom="17" data-label="Pequeña Despensa Gratuita">la esquina de San Carlos y Bushnell</a> <!-- Verified 27 Dec. 2025 -->
    - Templeton: <a href="#" class="map-link" data-lat="35.547338" data-lon="-120.710440" data-zoom="17" data-label="Pequeña Despensa Gratuita">806 Old Country Rd.</a>
 - **Horario:** Diariamente, 24/7
 
@@ -3413,12 +3413,12 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 | Los Osos: <a href="#" class="map-link" data-lat="35.313232" data-lon="-120.837558" data-zoom="17" data-label="SLO County Public Library">2075 Palisades Ave.</a> | [805-528-1862](tel:+1-805-528-1862) | Ma/Mi 10am–6pm, J 9am–5pm, V/S 1–5pm |
 | Morro Bay: <a href="#" class="map-link" data-lat="35.367165" data-lon="-120.846235" data-zoom="17" data-label="SLO County Public Library">625 Harbor St.</a> | [805-772-6394](tel:+1-805-772-6394) | Ma/Mi 10am–6pm, J 9am–5pm, V1–5pm, S9am–1pm |
 | Nipomo: <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="SLO County Public Library">918 W. Tefft St.</a> | [805-929-3994](tel:+1-805-929-3994) | Ma/Mi/J 10am–6pm, V/S 10am–5pm |
-| Oceano: <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="SLO County Public Library">1511 19th St.</a> | [805-474-7478](tel:+1-805-474-7478) | Ma/Mi/J 9am–1pm and 2–5pm |
+| Oceano: <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="SLO County Public Library">1511 19th St.</a> | [805-474-7478](tel:+1-805-474-7478) | Ma/Mi/J 9am–1pm y 2–5pm |
 | SLO: <a href="#" class="map-link" data-lat="35.282263" data-lon="-120.662223" data-zoom="17" data-label="SLO County Public Library">995 Palm St.</a> | [805-781-5991](tel:+1-805-781-5991) | Ma/Mi 10am–6pm, J/S 9am–5pm, V1–5pm |
 | San Miguel: <a href="#" class="map-link" data-lat="35.751188" data-lon="-120.698263" data-zoom="17" data-label="SLO County Public Library">254 13th St.</a> | [805-467-3224](tel:+1-805-467-3224) | Mi 11am–6pm (cerrado 12:30–1pm), J 10am–5pm (cerrado 12:30–1pm), V1–5pm, S10am–5pm (cerrado 12:30–1pm) |
 | Santa Margarita: <a href="#" class="map-link" data-lat="35.388044" data-lon="-120.608302" data-zoom="17" data-label="SLO County Public Library">9630 Murphy Ave.</a> | [805-438-5622](tel:+1-805-438-5622) | Ma/Mi 10am–6pm (cerrado 12:30–1pm), S9am–5pm (cerrado 12:30–1pm) |
 | Shandon: <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="SLO County Public Library">195 N. 2nd St.</a> | [805-237-3009](tel:+1-805-237-3009) | Ma/Mi 10am–6pm (cerrado 12:30–1pm), S9am–5pm (cerrado 12:30–1pm) |
-| Shell Beach: <a href="#" class="map-link" data-lat="35.154648" data-lon="-120.669678" data-zoom="17" data-label="SLO County Public Library">230 Leeward Ave.</a> | [805-773-2263](tel:+1-805-773-2263) | Ma/Mi 10am–1pm and 2–6pm, S9am–5pm |
+| Shell Beach: <a href="#" class="map-link" data-lat="35.154648" data-lon="-120.669678" data-zoom="17" data-label="SLO County Public Library">230 Leeward Ave.</a> | [805-773-2263](tel:+1-805-773-2263) | Ma/Mi 10am–1pm y 2–6pm, S9am–5pm |
 
 - Nota: [**Transitions Mental Health Association (TMHA)**](#TMHA) tiene un “Equipo de Alcance de Biblioteca” que conecta a los usuarios de la biblioteca que están experimentando la falta de vivienda con un trabajador social y administrador de casos para ayudarles a superar las barreras para acceder a servicios sociales cruciales. Puede reunirse con el Equipo de Alcance de Biblioteca en las siguientes sucursales de biblioteca (este horario está sujeto a cambios; contacte a [mvargas@t-mha.org](mailto:mvargas@t-mha.org) para el horario más actualizado):
    - Atascadero: Mi 10:30am–mediodía

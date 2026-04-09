@@ -2282,7 +2282,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Website:** [mealsthatconnect.org](https://mealsthatconnect.org/en/)
 - **Location:** <a href="#" class="map-link" data-lat="35.269139" data-lon="-120.666800" data-zoom="17" data-label="Meals that Connect">265 South St. #B, SLO</a> (office) <!-- Source: https://mealsthatconnect.org/en/ -->
-   - Serves meals in Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, Santa Margarita, and SLO
+   - Serves meals in Atascadero, Templeton, Cambria, San Simeon, Los Osos, Morro Bay, Cayucos, Nipomo, Oceano, Paso Robles, San Miguel, Santa Margarita, and SLO
    - Also does some home delivery <!-- Source: https://mealsthatconnect.org/en/how-meals-work/#home-delivery -->
 - **Phone:** [805-541-3312](tel:+1-805-541-3312) <!-- Source: https://mealsthatconnect.org/en/ -->
 - **Email:** [info@mealsthatconnect.org](mailto:info@mealsthatconnect.org) <!-- Source: https://mealsthatconnect.org/en/ -->
