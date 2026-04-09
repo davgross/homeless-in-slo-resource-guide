@@ -107,7 +107,7 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
    <tr><td><a href="tel:+1-211">211</a></td><td>Lo conecta con ayuda experta, compasiva y confidencial de todo tipo</td></tr><!-- Source: https://211slo.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Asistencia Legal y Protección al Consumidor:</th></tr>
    <tr><td><a href="tel:+1-714-571-5200">714-571-5200</a></td><td>Línea de Ayuda de Asistencia Legal Comunitaria del Sur de California para discriminación de vivienda, derechos de inquilinos y protección del consumidor</td></tr><!-- Source: https://www.communitylegalsocal.org/contact-us/ -->
-   <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Los Angeles Legal Aid Foundation (LAFLA) para asistencia legal</td></tr><!-- Source: https://lafla.org/ -->
+   <tr><td><a href="tel:+1-800-399-4529">800-399-4529</a></td><td>Legal Aid Foundation de Los Angeles (LAFLA) para asistencia legal</td></tr><!-- Source: https://lafla.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Vivienda y Servicios para Personas sin Hogar:</th></tr>
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>Coalición para Personas sin Hogar de 5Cities para asistencia de vivienda y entrada coordinada</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>Gerente de Respuesta a Personas sin Hogar de la Ciudad de SLO</td></tr><!-- Source: https://www.slocity.org/living/neighborhood/homelessness -->
@@ -641,9 +641,9 @@ o solicite ayuda de [**SLO County Veterans Services**](Directory.md#Veterans-Ser
 
 [**SLO Hub**](Directory.md#SLO-Hub) le ayuda a encontrar un programa residencial de recuperación que sea adecuado para usted, y puede pagar el depósito y la renta de los primeros meses de su residencia si no puede pagarla o si su seguro no la cubre. <!-- SOURCE NEEDED -->
 
-[**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health) tiene contratos con entornos de vida sobria en todo el condado de SLO (desde Oceano hasta Paso Robles) a tarifas de $35–55 por día. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
+[**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health) tiene contratos con entornos de vida sobria en todo el condado de SLO (desde Oceano hasta Paso Robles) a tarifas de $35–55 por día. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
 Estas instalaciones aceptan Medi-Cal y ofrecen tarifas de escala móvil según la capacidad de pago. <!-- SOURCE NEEDED -->
-Visite [**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Salud 7 Bienestar al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
+Visite [**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Salud & Bienestar al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
 
 Aquí hay algunas opciones de tratamiento residencial en el condado de SLO:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
@@ -681,7 +681,7 @@ Son solo para bicicletas (no puede usarlos para guardar otras pertenencias perso
 Hay varias opciones comerciales de almacenamiento a largo plazo en el condado de SLO.
 Puede encontrarlas haciendo una búsqueda en la web con términos como “self storage” o “mini storage”.
 Generalmente alquilan espacios por mes, y tienen unidades de diferentes tamaños disponibles a diferentes precios.
-Las unidades de 5′×5′, 5′×10′ y 10′×10′ son típicas.
+Las unidades de 5×5 pies, 5×10 pies y 10×10 pies son típicas.
 Puede esperar pagar alrededor de $60–75 por mes por los tamaños más pequeños y económicos, hasta $150 para tamaños más grandes. <!-- SOURCE NEEDED -->
 La mayoría de las instalaciones de almacenamiento tienen horarios de operación durante el día cuando puede acceder a las unidades de almacenamiento para agregar o quitar pertenencias, y están cerradas para todos por la noche.
 
@@ -735,7 +735,7 @@ Aquí tiene algunos números de contacto de estas agencias:
 | bosque nacional            | [707-562-9128](tel:+1-707-562-9128) (Bosque Nacional Los Padres) |
 | California Highway Patrol  | [805-594-8700](tel:+1-805-594-8700) (SLO / condado sur)<br />[805-434-1822](tel:+1-805-434-1822) (condado norte)<br />[800-TELL-CHP](tel:+1-800-835-5247) (todo el estado) |
 | Camp Roberts               | [805-238-8286](tel:+1-805-238-8286) |
-| parques estatales          | [805-927-2065](tel:+1-805-927-2065) (costa norte)<br />[805-773-7170](tel:+1-805-773-7170) (Oceano Dunes and Pismo beach) |
+| parques estatales          | [805-927-2065](tel:+1-805-927-2065) (costa norte)<br />[805-773-7170](tel:+1-805-773-7170) (Oceano Dunes y Pismo Beach) |
 | Policía de Arroyo Grande   | [805-473-5100](tel:+1-805-473-5100) |
 | Policía de Atascadero      | [805-461-5051](tel:+1-805-461-5051) |
 | Policía de Cal Poly        | [805-756-2281](tel:+1-805-756-2281) |
@@ -1055,7 +1055,7 @@ Puede encontrar un mapa de estas estaciones de hidratación [en este enlace](htt
 Hay muchas opciones de transporte público en el condado de SLO.
 El sitio web de [Rideshare](https://rideshare.org/) y el servicio telefónico [511](tel:+1-511) pueden darle una descripción general de la mayoría de ellas y pueden ayudarle a planificar sus viajes.
 
-El sistema de [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) incluye varias rutas de autobús que conectan ciudades en el condado de SLO.
+El sistema de [**Autoridad Regional de Tránsito de SLO**](Directory.md#SLO-RTA) incluye varias rutas de autobús que conectan ciudades en el condado de SLO.
 También administran las rutas de autobús de la ciudad en Morro Bay y Paso Robles, y los servicios de transporte a pedido y Runabout Paratransit.
 Puede comprar pases de autobús en el autobús o usando la aplicación [Token Transit](https://tokentransit.com/riders/download).
 
@@ -1080,7 +1080,7 @@ Las personas mayores de 80 años y las personas con una discapacidad certificada
 [Runabout Paratransit](https://www.slorta.org/services/runabout-paratransit/) es un servicio de transporte a nivel del condado para personas que no siempre pueden usar los autobuses de ruta fija de SLO RTA debido a discapacidades. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 Este servicio le llevará puerta a puerta dentro de ¾ de milla de las rutas fijas de RTA durante las mismas horas en que opera RTA. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 Un asistente de cuidado personal puede acompañarle sin costo. <!-- Source: https://www.slorta.org/services/runabout-paratransit/faq/ -->
-Debe aplicar y tener una entrevista en persona para ser elegible para este servicio (vea [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) para información de contacto). <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
+Debe aplicar y tener una entrevista en persona para ser elegible para este servicio (vea [**Autoridad Regional de Tránsito de SLO**](Directory.md#SLO-RTA) para información de contacto). <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 Después de registrarse, haga reservaciones de viajes con 1–7 días de anticipación llamando al [805-541-2544](tel:+1-805-541-2544). <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 Los viajes no son gratis; cuestan aproximadamente el doble que los viajes ordinarios de RTA. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 Sin embargo, las personas que califican para usar Runabout Paratransit también pueden viajar en el servicio ordinario de RTA gratis. <!-- Source: https://www.slorta.org/fares/discounts/ -->
@@ -1542,7 +1542,7 @@ Averigüe si califica para Medicare preguntando a la [**Administración del Segu
 Vea [ssa.gov: “Verificar su derecho a los beneficios de Seguro Social”](https://www.ssa.gov/es/prepare/check-eligibility-for-benefits) o visite en persona.
 
 Las muchas opciones de Medicare pueden ser confusas.
-El [**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) ofrece información gratis e imparcial sobre Medicare y sus opciones.
+El [**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP) ofrece información gratis e imparcial sobre Medicare y sus opciones.
 HiCAP puede ayudarle a:
 
 - encontrar el mejor plan de medicamentos con receta
@@ -1626,7 +1626,7 @@ Llámelos o visite su oficina para detalles. <!-- Source: https://southbaysenior
 
 Los planes de descuento para medicamentos le permiten obtener recetas a precios reducidos.
 Puede obtener ayuda para encontrar los mejores planes de descuento para usted de [**Alianza para Acceso Farmacéutico**](Directory.md#APA), <!-- Source: https://apameds.org/what-we-do/ -->
-[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP), <!-- Source: https://centralcoastseniors.org/medicare-part-d-drug-plan-finder-tool/ -->
+[**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP), <!-- Source: https://centralcoastseniors.org/medicare-part-d-drug-plan-finder-tool/ -->
 [**NeedyMeds**](Directory.md#NeedyMeds), <!-- Source: https://needymeds.org/ -->
 o [**United Way**](Directory.md#United-Way). <!-- Source: https://unitedwayslo.org/prescription-drug-discount-cards/ -->
 
@@ -1679,7 +1679,7 @@ Un médico de atención primaria de [**Community Health Centers**](Directory.md#
 
 Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener terapia de salud mental a través de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
 
-El tratamiento ambulatorio de salud mental para adultos o jóvenes (a través de [**SLO County Behavioral Health Mental Health Services**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
+El tratamiento ambulatorio de salud mental para adultos o jóvenes (a través de [**SLOHA — Servicios de Salud Mental**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
 y [**Transitions Mental Health Association**](Directory.md#TMHA) <!-- Source: https://www.t-mha.org/clinical-services.php -->
 y su [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
 ofrecen evaluación y tratamiento de salud mental, incluyendo programas específicamente para personas sin hogar.
@@ -1812,7 +1812,7 @@ Estos incluyen pruebas, tratamiento, asesoramiento de beneficios, ayuda con segu
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
 -->
 
-La [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia), el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC) y el [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
+La [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia), el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC) y el [**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP).
 Pueden ayudarle con nutrición y servicios de comidas, transporte y gestión de cuidado.
 
 El [**Centro de Proyectos de Salud**](Directory.md#Health-Projects-Center) ofrece un [Programa de Servicios Multipropósito para Personas Mayores](https://www.hpcn.org/mssp) (MSSP) para personas de 60 años o más que son elegibles para Medi-Cal. <!-- Source: https://www.hpcn.org/mssp -->
@@ -1922,7 +1922,7 @@ Opera el [**Centro de Sobriedad SLO**](Directory.md#SLO-Sobering-Center) para so
 
 [**SLO Bangers**](Directory.md#SLO-Bangers) opera un programa de intercambio de agujas, puede darle entrenamiento para la prevención de sobredosis y distribuye Narcan. <!-- Source: https://slobangers.com/services.html -->
 
-[**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services) ofrece tratamiento asistido médicamente, servicios de apoyo a la recuperación y atención para pacientes externos. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
+[**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services) ofrece tratamiento asistido médicamente, servicios de apoyo a la recuperación y atención para pacientes externos. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
 Algunos de sus servicios están disponibles sin cita previa. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics -->
 Cobran una tarifa variable dependiendo de la capacidad de pago (“ningún cliente es rechazado del acceso a servicios debido a la incapacidad de pagar”). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services -->
 
@@ -1942,7 +1942,7 @@ La naloxona es un medicamento fácil de administrar que puede salvar la vida de 
 
 Puede obtener naloxona de [**Access Support Network**](Directory.md#ASN), <!-- Source: https://accesssupportnetwork.org/programs/harm-reduction-programs/ -->
 [**SLO Bangers**](Directory.md#SLO-Bangers), <!-- Source: https://slobangers.com/services.html -->
-todas las clínicas de [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) en el condado,
+todas las clínicas de [**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health) en el condado,
 y las salas de emergencia de [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) <!-- SOURCE NEEDED -->
 y [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital). <!-- SOURCE NEEDED -->
 También puede obtener naloxona gratis en cualquier momento de estas “NaloxBoxes” (Cajas de Naloxona):
@@ -1960,10 +1960,10 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 
 **Condado Norte:**
 
-- Atascadero: [**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLO County Behavioral Health Drug and Alcohol Services">5575 Hospital Dr.</a>
+- Atascadero: [**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLOHA — Servicios de Drogas y Alcohol">5575 Hospital Dr.</a>
 - Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.465791" data-lon="-120.648782" data-zoom="17" data-label="Department of Social Services">9630 El Camino Real</a>
 - Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Atascadero), <a href="#" class="map-link" data-lat="35.489118" data-lon="-120.663909" data-zoom="17" data-label="Public Library">6555 Capistrano Ave.</a>
-- Paso Robles: [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="Behavioral Health">805 4th St.</a>
+- Paso Robles: [**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="SLOHA">805 4th St.</a>
 - Paso Robles: City Library, <a href="#" class="map-link" data-lat="35.625383" data-lon="-120.690684" data-zoom="17" data-label="City Library">1000 Spring St.</a>
 - Paso Robles: [**ECHO**](Directory.md#ECHO) (Paso Home Key), <a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="ECHO Shelter">1134 Black Oak Dr.</a>
 - Paso Robles: [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.650584" data-lon="-120.670395" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
@@ -1974,15 +1974,15 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 **Ciudad de SLO:**
 
 - [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), <a href="#" class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">885 Oklahoma Ave.</a>
-- [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health) Prevention & Outreach, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="Prevention and Outreach">277 South St. #T</a>
+- [**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health) — Servicios de Prevención y Difusión, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="SLOHA — Prevención y Difusión">277 South St. #T</a>
 - [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave.</a>
 - Cuesta Canyon Park, <a href="#" class="map-link" data-lat="35.294471" data-lon="-120.642822" data-zoom="16" data-label="Cuesta Park">2400 Loomis St.</a>
 - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
 - Maxine Lewis Grove, <a href="#" class="map-link" data-lat="35.261503" data-lon="-120.648658" data-zoom="17" data-label="Maxine Lewis Grove">732 Orcutt Rd.</a>
 - [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.253655" data-lon="-120.668725" data-zoom="17" data-label="Department of Social Services">3433 S. Higuera St.</a>
-- [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) (Health Campus), <a href="#" class="map-link" data-lat="35.274827" data-lon="-120.646298" data-zoom="16" data-label="Health Campus">2180 Johnson Ave.</a>
+- [**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health) (Health Campus), <a href="#" class="map-link" data-lat="35.274827" data-lon="-120.646298" data-zoom="16" data-label="Health Campus">2180 Johnson Ave.</a>
 - [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal SLO), <a href="#" class="map-link" data-lat="35.282385" data-lon="-120.662284" data-zoom="17" data-label="Public Library">995 Palm St.</a>
-- [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center), <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLO County Behavioral Health">2180 Johnson Ave.</a>
+- [**SLO Sobering Center**](Directory.md#SLO-Sobering-Center), <a href="#" class="map-link" data-lat="35.274910" data-lon="-120.646191" data-zoom="17" data-label="SLOHA">2180 Johnson Ave.</a>
 - [**Sun Street Centers**](Directory.md#Sun-Street-Centers), <a href="#" class="map-link" data-lat="35.256680" data-lon="-120.671937" data-zoom="17" data-label="Sun Street Centers">34 Prado Rd.</a>
 - The Anderson, <a href="#" class="map-link" data-lat="35.281304" data-lon="-120.661857" data-zoom="17" data-label="Anderson Hotel">965 Monterey St.</a>
 - [**Cuesta College**](Directory.md#Cuesta-College) Student Health Center <a href="#" class="map-link" data-lat="35.329871" data-lon="-120.740733" data-zoom="17" data-label="Cuesta College Student Health Center">Map</a>
@@ -1991,7 +1991,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 
 - Arroyo Grande: [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), <a href="#" class="map-link" data-lat="35.192994" data-lon="-120.457449" data-zoom="15" data-label="Lopez Lake Recreation Area">6800 Lopez Dr.</a>
 - Arroyo Grande: [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.120654" data-lon="-120.597809" data-zoom="18" data-label="The Center">1152 E. Grand Ave.</a>
-- Grover Beach: [**SLO County Behavioral Health Drug and Alcohol Services**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLO County Behavioral Health Drug and Alcohol Services">1523 Longbranch Ave., Grover Beach</a>
+- Grover Beach: [**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLOHA — Servicios de Drogas y Alcohol">1523 Longbranch Ave., Grover Beach</a>
 - Nipomo: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Nipomo), <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="Nipomo Library">918 W. Tefft St.</a>
 - Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes">1001 Pacific Blvd.</a>
 - Oceano: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Oceano), <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="Oceano Library">1511 19th St.</a>
@@ -2245,7 +2245,7 @@ Debe tener un alta que no sea deshonrosa para usar este programa. <!-- Source: h
 
 > Vea la sección [Navegando Seguro Social / SSDI / SSI / Beneficios para Sobrevivientes](#navigating-social-security) para consejos específicos de esos programas.
 
-[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) ofrece información gratuita e imparcial sobre Medicare y sus opciones. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+[**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP) ofrece información gratuita e imparcial sobre Medicare y sus opciones. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 HiCAP también puede ayudarle a presentar apelaciones de denegación de Medicare. <!-- Source: https://centralcoastseniors.org/hicap/ -->
 Para usar el programa HiCAP local debe ser elegible para Medicare y debe ser residente de los condados de SLO o Santa Barbara. <!-- SOURCE NEEDED -->
 El programa HiCAP es gratuito. <!-- Source: https://centralcoastseniors.org/hicap/ -->
@@ -3092,7 +3092,7 @@ Llame al [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833
 Operan la granja, vivero y tienda minorista del centro de SLO Growing Grounds, que emplean a clientes de TMHA y les dan capacitación vocacional. <!-- Source: https://www.t-mha.org/work-programs.php -->
 
 TMHA también opera un [“Programa de Empleo Apoyado”](https://www.t-mha.org/program-details.php?id=16) (Supported Employment Program) que ayuda a personas con enfermedades mentales a encontrar y mantener empleos. <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
-Para usar ese programa, necesita una referencia del [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) o del [**Departamento de Salud y Bienestar del Condado de SLO**](Directory.md#SLO-County-Behavioral-Health). <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
+Para usar ese programa, necesita una referencia del [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) o del [**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health). <!-- Source: https://www.t-mha.org/program-details.php?id=16 -->
 
 El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) ofrece servicios de rehabilitación vocacional para personas con discapacidades, incluyendo capacitación laboral, asistencia de colocación, tecnología de asistencia y apoyo educativo. <!-- Source: https://www.dor.ca.gov/Home/EmploymentServices -->
 
