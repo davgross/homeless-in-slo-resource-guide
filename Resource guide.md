@@ -3937,7 +3937,7 @@ The city of San Luis Obispo is one of the top ten most expensive cities in the U
 Why are things especially difficult here?
 There are many reasons, but the most important one is “too few homes for the number of people who need them.” <!-- Source: Streeter, Jialu L. (May 2022). "Homelessness in California: Causes and policy considerations". Stanford Institute for Economic Policy Research Policy Brief. -->
 The reasons why that is a problem are complicated, but include government policies that reduce the availability of homes and make them more expensive.
-For example, the City of SLO has an official policy that limits residential housing supply growth to no more than 1% per year, which limits supply and thereby drives up the cost. <!-- Source: https://pub-slocity.escribemeetings.com/filestream.ashx?DocumentId=24170 -->
+For example, the City of SLO has an official policy that limits residential housing supply growth to no more than 1% per year, which limits supply and thereby raises the cost. <!-- Source: https://pub-slocity.escribemeetings.com/filestream.ashx?DocumentId=24170 -->
 
 | **External links** |
 | ------------------ |
@@ -3997,7 +3997,7 @@ In SLO city, contact the Homelessness Response Manager at [dwiberg@slocity.org](
 
 If you stay in an organized homeless shelter and that shelter is structurally unsafe or has inadequate sanitation, you can complain to the Code Enforcement officer of the city in which the shelter operates.
 That office is required by law to follow-up on your complaint.
-The following table shows how you can submit such complaints on-line:
+The following table shows how you can submit such complaints online:
 
 | Shelter                | How to submit a complaint |
 | ---------------------- | ------------------------- |
