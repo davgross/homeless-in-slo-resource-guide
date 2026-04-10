@@ -3936,7 +3936,8 @@ The city of San Luis Obispo is one of the top ten most expensive cities in the U
 
 Why are things especially difficult here?
 There are many reasons, but the most important one is “too few homes for the number of people who need them.” <!-- Source: Streeter, Jialu L. (May 2022). "Homelessness in California: Causes and policy considerations". Stanford Institute for Economic Policy Research Policy Brief. -->
-The reasons why that is a problem are complicated, but include government policies that reduce the availability of homes and make them more expensive, resource constraints, and high demand.
+The reasons why that is a problem are complicated, but include government policies that reduce the availability of homes and make them more expensive.
+For example, the City of SLO has an official policy that limits residential housing supply growth to no more than 1% per year, which limits supply and thereby drives up the cost. <!-- Source: https://pub-slocity.escribemeetings.com/filestream.ashx?DocumentId=24170 -->
 
 | **External links** |
 | ------------------ |
@@ -3993,6 +3994,17 @@ Your report is routed to the correct department where people can address your co
 Some cities have special contacts specifically for issues concerning homelessness.
 For homeless-specific questions in Paso Robles, contact [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
 In SLO city, contact the Homelessness Response Manager at [dwiberg@slocity.org](mailto:dwiberg@slocity.org) or [805-781-7025](tel:+1-805-781-7025).
+
+If you stay in an organized homeless shelter and that shelter is structurally unsafe or has inadequate sanitation, you can complain to the Code Enforcement officer of the city in which the shelter operates.
+That office is required by law to follow-up on your complaint.
+The following table shows how you can submit such complaints on-line:
+
+| Shelter                | How to submit a complaint |
+| ---------------------- | ------------------------- |
+| 40 Prado               | Submit a “Field Investigation Request” via [Ask SLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request) |
+| 5Cities Warming Center | Submit a request via [Arroyo Grande’s CitizenServe Portal](https://www4.citizenserve.com/Portal/PortalController?Action=showCodeEnforcement) |
+| ECHO                   | Submit a request via [MyPaso Request Tracker](https://www.prcity.com/RequestTracker.aspx) |
+| Paso Cares             | Submit a request via [MyPaso Request Tracker](https://www.prcity.com/RequestTracker.aspx) |
 
 ### <a id="reporting-crimes">Reporting Crimes</a>
 
