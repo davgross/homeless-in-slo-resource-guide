@@ -1105,7 +1105,7 @@ Puede usar el “Pase Regional de 31 Días” de SLO RTA en esta línea, pero ot
 
 Algunos proveedores de servicios pueden darle un pase de autobús si no puede pagarlo.
 Por ejemplo, [**Catholic Charities**](Directory.md#Catholic-Charities) <!-- SOURCE NEEDED (issue #55) -->
-y la [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) a menudo tienen pases de autobús disponibles para personas que los necesitan. <!-- SOURCE NEEDED (issue #55) -->
+y la [**Sociedad de San Vicente de Paúl**](Directory.md#Society-of-St-Vincent-de-Paul) a menudo tienen pases de autobús disponibles para personas que los necesitan. <!-- SOURCE NEEDED (issue #55) -->
 Los clientes de [**Tri-Counties Regional Center**](Directory.md#Tri-Counties-Regional-Center) pueden obtener pases de autobús de ellos. <!-- SOURCE NEEDED (issue #55) -->
 La [**Family Care Network**](Directory.md#Family-Care-Network) puede ayudarle a obtener un pase de autobús si no puede pagarlo por sí mismo (puede que primero necesite obtener una referencia de un Especialista de Recursos de Empleo del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services)). <!-- SOURCE NEEDED (issue #55) (mentioned briefly at https://fcni.org/partner-with-us/fam/) -->
 
@@ -2368,7 +2368,7 @@ La [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assista
 
 <!-- MICOP’s “Immigration Legal Assistance” (MILA) program seems to no longer be functioning? -->
 
-[**UndocSupport del Condado de SLO**](Directory.md#SLO-County-UndocuSupport) (Apoyo para Indocumentados del Condado de SLO) tiene [una lista de servicios de asistencia legal](https://www.sloundocusupport.org/es/immigrantservicesguide) que incluye [un cuadro de qué grupos locales de ayuda legal proporcionan qué servicios legales específicos relacionados con inmigración](https://docs.google.com/spreadsheets/d/1cJFBbDUZQF6fGYOzpi790Tkb0Orlb-b5GFHmpFDm61c/edit?gid=374953232#gid=374953232).
+[**UndocuSupport del Condado de SLO**](Directory.md#SLO-County-UndocuSupport) (Apoyo para Indocumentados del Condado de SLO) tiene [una lista de servicios de asistencia legal](https://www.sloundocusupport.org/es/immigrantservicesguide) que incluye [un cuadro de qué grupos locales de ayuda legal proporcionan qué servicios legales específicos relacionados con inmigración](https://docs.google.com/spreadsheets/d/1cJFBbDUZQF6fGYOzpi790Tkb0Orlb-b5GFHmpFDm61c/edit?gid=374953232#gid=374953232).
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) tiene un [Programa de Inmigración y Ciudadanía](https://catholiccharitiesdom.org/immigration-citizenship/) para ayudar a personas con temas como solicitudes de ciudadanía estadounidense, cambios de estatus migratorio, DACA, Visas U, Visas VAWA y procesos de visa consular. <!-- Source: https://catholiccharitiesdom.org/immigration-citizenship/ -->
 
@@ -2836,7 +2836,7 @@ Las subvenciones pueden ser para necesidades como educación, vivienda, transpor
 Debe tener entre 18 y 30 años para calificar para una subvención. <!-- Source: https://www.auntieisabellfoundation.org/grant -->
 Puede solicitar subvenciones o préstamos completando un formulario en su sitio web. <!-- Source: https://www.auntieisabellfoundation.org/grant -->
 
-La [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) puede ayudar con una emergencia como una amenaza de corte de servicios públicos o un aviso de desalojo de vivienda, o un problema de transporte que amenaza el empleo. <!-- SOURCE NEEDED -->
+La [**Sociedad de San Vicente de Paúl**](Directory.md#Society-of-St-Vincent-de-Paul) puede ayudar con una emergencia como una amenaza de corte de servicios públicos o un aviso de desalojo de vivienda, o un problema de transporte que amenaza el empleo. <!-- SOURCE NEEDED -->
 También pueden ayudarle con un depósito de alquiler. <!-- SOURCE NEEDED -->
 
 [**Salvation Army**](Directory.md#Salvation-Army) proporciona alguna asistencia con renta y servicios públicos, cuando los fondos están disponibles, desde su centro de servicios de Arroyo Grande. <!-- https://www.salvationarmyusa.org/location-finder/?services=7-c0a3f2d8bf-lz3kps and https://arroyogrande.salvationarmy.org/ -->
@@ -3197,7 +3197,7 @@ Los grupos de Toastmasters en el Condado de SLO incluyen:
 | [Cal Poly Toastmasters](https://www.toastmasters.org/Find-a-Club/28676059-cal-poly-toastmasters) | Mi mediodía–1pm | <a href="#" class="map-link" data-lat="35.303892" data-lon="-120.659629" data-zoom="17" data-label="Toastmasters">Bldg. 70 (Facilities)</a>, sala 110 en el campus de Cal Poly San Luis Obispo |
 | [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club) | Ju 12:10–1:15pm | varias ubicaciones en Paso Robles |
 
-La [**University of California Cooperative Extension**](Directory.md#UC-Cooperative-Extension) local ofrece cursos de jardinería, preservación de alimentos y manejo de pastizales y cuencas hidrográficas.
+La [**Extensión Cooperativa de la Universidad de California (UCCE)**](Directory.md#UC-Cooperative-Extension) local ofrece cursos de jardinería, preservación de alimentos y manejo de pastizales y cuencas hidrográficas.
 Muchos programas son gratuitos o de bajo costo.
 
 Si ha estado en la cárcel o prisión y está reingresando a la comunidad después de cumplir su condena o ser liberado en libertad condicional, [**Restorative Partners**](Directory.md#Restorative-Partners) puede ayudarle a volver a la escuela u obtener capacitación técnica. <!-- Source: flyer posted at SLO Library -->
@@ -4123,7 +4123,7 @@ Aquí hay algunas de estas guías locales:
 - [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): la lista de Faith LeGrande que elaboró mientras elle buscaba ayuda
 - [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html): del sitio web “Need Help Paying Bills” (Necesita Ayuda Pagando Cuentas)
 - [(TMHA) Helpful Links](https://www.t-mha.org/helpful-links.php): con enfoque en recursos relacionados con la salud mental
-- [SLO County Behavioral Health Resource Center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
+- [Centro de Recursos de La Agencia de Salud del Condado de San Luis Obispo (SLOHA)](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
 - [Resource Guide Estero Bay](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf): enfocándose en Los Osos y comunidades cercanas
 - [Sharing SLO wiki](https://localwiki.org/slo/Sharing_SLO): “una descripción general de parte de la economía colaborativa de San Luis Obispo”
 - [Immigrant Services Guide](https://www.sloundocusupport.org/immigrantservicesguide): recursos para inmigrantes indocumentados en el Condado de SLO
