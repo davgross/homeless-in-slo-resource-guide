@@ -643,7 +643,7 @@ o solicite ayuda de [**SLO County Veterans Services**](Directory.md#Veterans-Ser
 
 [**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health) tiene contratos con entornos de vida sobria en todo el condado de SLO (desde Oceano hasta Paso Robles) a tarifas de $35–55 por día. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-residential-programs -->
 Estas instalaciones aceptan Medi-Cal y ofrecen tarifas de escala móvil según la capacidad de pago. <!-- SOURCE NEEDED -->
-Visite [**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Salud & Bienestar al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
+Visite [**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services) o comuníquese con la línea de acceso de Salud & Bienestar al [800-838-1381](tel:+1-800-838-1381) para referencias. <!-- SOURCE NEEDED -->
 
 Aquí hay algunas opciones de tratamiento residencial en el condado de SLO:
 <!-- Note: “Sober Living West” is sometimes advertised as a SLO option, but it’s in Playa Del Rey, and besides does not accept insurance apparently -->
@@ -1679,7 +1679,7 @@ Un médico de atención primaria de [**Community Health Centers**](Directory.md#
 
 Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obtener terapia de salud mental a través de [Student Health Services](https://www.cuesta.edu/student-support/student-health-services/index.html). <!-- Source: https://www.cuesta.edu/student-support/student-health-services/index.html -->
 
-El tratamiento ambulatorio de salud mental para adultos o jóvenes (a través de [**SLOHA — Servicios de Salud Mental**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
+El tratamiento ambulatorio de salud mental para adultos o jóvenes (a través de [**SLOHA — Servicios de Salud Mental**](Directory.md#SLO-County-Mental-Health-Services)) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610 -->
 y [**Transitions Mental Health Association**](Directory.md#TMHA) <!-- Source: https://www.t-mha.org/clinical-services.php -->
 y su [**Homeless Outreach Full Service Partnership**](Directory.md#Homeless-Outreach-Full-Service-Partnership) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-adult-services/homeless-outreach-full-service-partnership -->
 ofrecen evaluación y tratamiento de salud mental, incluyendo programas específicamente para personas sin hogar.
@@ -1922,7 +1922,7 @@ Opera el [**Centro de Sobriedad SLO**](Directory.md#SLO-Sobering-Center) para so
 
 [**SLO Bangers**](Directory.md#SLO-Bangers) opera un programa de intercambio de agujas, puede darle entrenamiento para la prevención de sobredosis y distribuye Narcan. <!-- Source: https://slobangers.com/services.html -->
 
-[**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services) ofrece tratamiento asistido médicamente, servicios de apoyo a la recuperación y atención para pacientes externos. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
+[**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services) ofrece tratamiento asistido médicamente, servicios de apoyo a la recuperación y atención para pacientes externos. <!-- Sources: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/medication-assisted-treatment and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/recovery-support-services and https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/adult-outpatient-substance-use-disorder-treatment -->
 Algunos de sus servicios están disponibles sin cita previa. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/drug-and-alcohol-services/drug-alcohol-services-walk-in-clinics -->
 Cobran una tarifa variable dependiendo de la capacidad de pago (“ningún cliente es rechazado del acceso a servicios debido a la incapacidad de pagar”). <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/drug-and-alcohol-services -->
 
@@ -1960,7 +1960,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 
 **Condado Norte:**
 
-- Atascadero: [**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLOHA — Servicios de Drogas y Alcohol">5575 Hospital Dr.</a>
+- Atascadero: [**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.492613" data-lon="-120.662895" data-zoom="17" data-label="SLOHA — Servicios de Drogas y Alcohol">5575 Hospital Dr.</a>
 - Atascadero: [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services), <a href="#" class="map-link" data-lat="35.465791" data-lon="-120.648782" data-zoom="17" data-label="Department of Social Services">9630 El Camino Real</a>
 - Atascadero: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Atascadero), <a href="#" class="map-link" data-lat="35.489118" data-lon="-120.663909" data-zoom="17" data-label="Public Library">6555 Capistrano Ave.</a>
 - Paso Robles: [**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health), <a href="#" class="map-link" data-lat="35.618617" data-lon="-120.689353" data-zoom="17" data-label="SLOHA">805 4th St.</a>
@@ -1974,7 +1974,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 **Ciudad de SLO:**
 
 - [**SLO County Animal Services**](Directory.md#SLO-County-Animal-Services), <a href="#" class="map-link" data-lat="35.318844" data-lon="-120.715762" data-zoom="17" data-label="SLO County Animal Services">885 Oklahoma Ave.</a>
-- [**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health) — Servicios de Prevención y Difusión, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="SLOHA — Prevención y Difusión">277 South St. #T</a>
+- [**La Agencia de Salud del Condado de San Luis Obispo (SLOHA)**](Directory.md#SLO-County-Behavioral-Health) — Servicios de Prevención y Difusión, <a href="#" class="map-link" data-lat="35.268354" data-lon="-120.666490" data-zoom="17" data-label="SLOHA — Prevención y Difusión">277 South St. #T</a>
 - [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.290116" data-lon="-120.653550" data-zoom="17" data-label="The Center">705 Grand Ave.</a>
 - Cuesta Canyon Park, <a href="#" class="map-link" data-lat="35.294471" data-lon="-120.642822" data-zoom="16" data-label="Cuesta Park">2400 Loomis St.</a>
 - [**El Chorro Regional Park Campground**](Directory.md#El-Chorro-Regional-Park-Campground), <a href="#" class="map-link" data-lat="35.331302" data-lon="-120.728846" data-zoom="15" data-label="El Chorro Regional Park">State Hwy 1 @ Dairy Creek Rd.</a>
@@ -1991,7 +1991,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 
 - Arroyo Grande: [**Lopez Lake Recreation Area**](Directory.md#Lopez-Lake-Recreation-Area), <a href="#" class="map-link" data-lat="35.192994" data-lon="-120.457449" data-zoom="15" data-label="Lopez Lake Recreation Area">6800 Lopez Dr.</a>
 - Arroyo Grande: [**The Center for Health & Prevention**](Directory.md#The-Center) (CAPSLO Clinic), <a href="#" class="map-link" data-lat="35.120654" data-lon="-120.597809" data-zoom="18" data-label="The Center">1152 E. Grand Ave.</a>
-- Grover Beach: [**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLOHA — Servicios de Drogas y Alcohol">1523 Longbranch Ave., Grover Beach</a>
+- Grover Beach: [**SLOHA — Servicios de Drogas y Alcohol**](Directory.md#SLO-County-Drug-and-Alcohol-Services), <a href="#" class="map-link" data-lat="35.119403" data-lon="-120.612598" data-zoom="17" data-label="SLOHA — Servicios de Drogas y Alcohol">1523 Longbranch Ave., Grover Beach</a>
 - Nipomo: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Nipomo), <a href="#" class="map-link" data-lat="35.028904" data-lon="-120.497031" data-zoom="17" data-label="Nipomo Library">918 W. Tefft St.</a>
 - Oceano: [**Coastal Dunes RV Park & Campground**](Directory.md#Coastal-Dunes), <a href="#" class="map-link" data-lat="35.113119" data-lon="-120.625704" data-zoom="16" data-label="Coastal Dunes">1001 Pacific Blvd.</a>
 - Oceano: [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) (sucursal Oceano), <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="Oceano Library">1511 19th St.</a>
@@ -3934,7 +3934,8 @@ El 11,7% de los escolares del condado de SLO no tienen hogar, lo que supone más
 
 ¿Por qué las cosas son especialmente difíciles aquí?
 Hay muchas razones, pero la más importante es “muy pocas viviendas para el número de personas que las necesitan.” <!-- Source: Streeter, Jialu L. (May 2022). “Homelessness in California: Causes and policy considerations”. Stanford Institute for Economic Policy Research Policy Brief. -->
-Las razones por las cuales eso es un problema son complicadas, pero incluyen políticas gubernamentales que reducen la disponibilidad de viviendas y las hacen más caras, restricciones de recursos y alta demanda.
+Las razones por las cuales eso es un problema son complicadas, pero incluyen políticas gubernamentales que reducen la disponibilidad de viviendas y las hacen más caras.
+Por ejemplo, la Ciudad de SLO tiene una política oficial que limita el crecimiento de la oferta de viviendas residenciales a no más del 1% por año, lo que limita la oferta y, por lo tanto, aumenta el costo. <!-- Source: https://pub-slocity.escribemeetings.com/filestream.ashx?DocumentId=24170 -->
 
 | **External links** |
 | ------------------ |
@@ -3991,6 +3992,17 @@ Su reporte es enrutado al departamento correcto donde las personas pueden aborda
 Algunas ciudades tienen contactos especiales específicamente para problemas relacionados con la falta de hogar.
 Para preguntas específicas sobre personas sin hogar en Paso Robles, contacte a [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
 En la ciudad de SLO, contacte al Gerente de Respuesta a la Falta de Hogar (Homelessness Response Manager) en [dwiberg@slocity.org](mailto:dwiberg@slocity.org) o [805-781-7025](tel:+1-805-781-7025).
+
+Si vive en un albergue para personas sin hogar organizado y ese albergue no es estructuralmente seguro o tiene saneamiento inadecuado, puede presentar una queja ante el oficial de Control de Obras (Code Enforcement) de la ciudad donde opera el albergue.
+Esa oficina está obligada por ley a dar seguimiento a su queja.
+La siguiente tabla muestra cómo puede enviar dichas quejas en línea:
+
+| Albergue               | Cómo enviar una queja |
+| ---------------------- | --------------------- |
+| 40 Prado               | Envíe una “Field Investigation Request” (Solicitud de Investigación de Campo) a través de [Ask SLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request) |
+| 5Cities Warming Center | Envíe una solicitud a través del [Portal CitizenServe de Arroyo Grande](https://www4.citizenserve.com/Portal/PortalController?Action=showCodeEnforcement) |
+| ECHO                   | Envíe una solicitud a través del [MyPaso Request Tracker](https://www.prcity.com/RequestTracker.aspx) |
+| Paso Cares             | Envíe una solicitud a través del [MyPaso Request Tracker](https://www.prcity.com/RequestTracker.aspx) |
 
 ### <a id="reporting-crimes">Reportar Crímenes</a>
 
