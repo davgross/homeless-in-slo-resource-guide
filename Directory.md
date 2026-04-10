@@ -3693,7 +3693,6 @@ If you see one listed here that is no longer in service, please use the feedback
 
 <!-- To-do: fix discrepancy in 5 Cities location -->
 - 5 Cities:
-   - **Website:** [5chc.org/programs/ssvf-supportive-services-for-veteran-families](https://5chc.org/programs/ssvf-supportive-services-for-veteran-families)
    - **Location:** <a href="#" class="map-link" data-lat="35.121072" data-lon="-120.624206" data-zoom="17" data-label="Supportive Services for Veteran Families">150 S. 6th St. #A-B, Grover Beach</a> <!-- Source: https://www.slocounty.ca.gov/departments/veterans-services/most-requested-information-resources -->
    <!-- - **Location:** <a href="#" class="map-link" data-lat="35.120207" data-lon="-120.612620" data-zoom="17" data-label="Supportive Services for Veteran Families">1566 W. Grand Ave., Grover Beach</a>--><!-- Source: https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide -->
    - **Phone:** [805-574-1638](tel:+1-805-574-1638) <!-- Source: https://capslo.org/ssvf/, https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide -->
@@ -3858,7 +3857,6 @@ If you see one listed here that is no longer in service, please use the feedback
 ## <a id="United-Way">United Way</a>
 
 - **Website:** [unitedwayslo.org](https://unitedwayslo.org/)
-   - [tax return assistance program](https://unitedwayslo.org/family-financial-stability/taxes/)
 - **Location:** <a href="#" class="map-link" data-lat="35.279286" data-lon="-120.660392" data-zoom="17" data-label="United Way">1288 Morro St. #10, SLO</a> <!-- Source: https://unitedwayslo.org/ -->
 - **Phone:** [805-541-1234](tel:+1-805-541-1234) <!-- Source: https://unitedwayslo.org/ -->
 - **Email:** [info@unitedwayslo.org](mailto:info@unitedwayslo.org) <!-- Source: https://unitedwayslo.org/contact/ -->
