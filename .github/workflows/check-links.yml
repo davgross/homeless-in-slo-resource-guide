@@ -15,12 +15,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: Extract URLs from markdown files
         run: |
@@ -45,7 +45,7 @@ jobs:
 
       - name: Find existing issue
         id: find-issue
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const issues = await github.rest.issues.listForRepo({
@@ -68,7 +68,7 @@ jobs:
 
       - name: Create or update issue for errors
         if: steps.check.outputs.status == 'failure'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const report = require('fs').readFileSync('link-report.md', 'utf8');
@@ -117,7 +117,7 @@ jobs:
 
       - name: Close issue if all links working
         if: steps.check.outputs.status == 'success' && steps.find-issue.outputs.found == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const issueNumber = '${{ steps.find-issue.outputs.issue-number }}';
@@ -140,7 +140,7 @@ jobs:
 
       - name: Upload artifacts
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: link-check-results
           path: |
