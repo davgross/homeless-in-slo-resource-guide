@@ -4002,7 +4002,7 @@ The following table shows how you can submit such complaints online:
 | Shelter                | How to submit a complaint |
 | ---------------------- | ------------------------- |
 | 40 Prado               | Submit a “Field Investigation Request” via [Ask SLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request) |
-| 5Cities Warming Center | Submit a request via [Arroyo Grande’s CitizenServe Portal](https://www4.citizenserve.com/Portal/PortalController?Action=showCodeEnforcement) |
+| 5Cities Warming Center | Submit a request via [Arroyo Grande’s CitizenServe Portal](https://www.citizenserve.com/arroyogrande) |
 | ECHO                   | Submit a request via [MyPaso Request Tracker](https://www.prcity.com/RequestTracker.aspx) |
 | Paso Cares             | Submit a request via [MyPaso Request Tracker](https://www.prcity.com/RequestTracker.aspx) |
 

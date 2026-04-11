@@ -4000,7 +4000,7 @@ La siguiente tabla muestra cómo puede enviar dichas quejas en línea:
 | Albergue               | Cómo enviar una queja |
 | ---------------------- | --------------------- |
 | 40 Prado               | Envíe una “Field Investigation Request” (Solicitud de Investigación de Campo) a través de [Ask SLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request) |
-| 5Cities Warming Center | Envíe una solicitud a través del [Portal CitizenServe de Arroyo Grande](https://www4.citizenserve.com/Portal/PortalController?Action=showCodeEnforcement) |
+| 5Cities Warming Center | Envíe una solicitud a través del [Portal CitizenServe de Arroyo Grande](https://www.citizenserve.com/arroyogrande) |
 | ECHO                   | Envíe una solicitud a través del [MyPaso Request Tracker](https://www.prcity.com/RequestTracker.aspx) |
 | Paso Cares             | Envíe una solicitud a través del [MyPaso Request Tracker](https://www.prcity.com/RequestTracker.aspx) |
 
