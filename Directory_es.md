@@ -1962,7 +1962,7 @@
 
 - **Sitio web:** [hopesvillageofslo.com](https://hopesvillageofslo.com/)
 - **Dirección postal:** PO Box 1991, Templeton, CA 93465 <!-- Source: https://hopesvillageofslo.com/contact -->
-- **Teléfono:** [805-234-5478](tel:+1-805-234-5478) <!-- Source: https://hopesvillageofslo.com/ -->
+- **Teléfono:** [805-423-2957](tel:+1-805-423-2957) <!-- Source: https://hopesvillageofslo.com/ -->
 - **Correo electrónico:** [beckyrjorgeson@yahoo.com](mailto:beckyrjorgeson@yahoo.com) <!-- Source: https://hopesvillageofslo.com/contact -->
 
 ## <a id="Hospice-SLO">Hospice SLO</a>
@@ -2964,7 +2964,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 ## <a id="RVs-for-Veterans">RVs for Veterans</a>
 
-- **Teléfono:** [805-234-5478](tel:+1-805-234-5478) <!-- Source: https://hopesvillageofslo.com/programs -->
+- **Teléfono:** [805-423-2957](tel:+1-805-423-2957) <!-- Source: https://hopesvillageofslo.com/programs -->
 - Nota: un proyecto de [Hope’s Village](#Hopes-Village)
 
 ## <a id="SAFE-Family-Resource-Centers">SAFE Family Resource Centers</a>

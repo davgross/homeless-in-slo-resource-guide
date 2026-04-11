@@ -1670,7 +1670,7 @@
 
 - **Website:** [hopesvillageofslo.com](https://hopesvillageofslo.com/)
 - **Mailing address:** PO Box 1991, Templeton, CA 93465 <!-- Source: https://hopesvillageofslo.com/contact -->
-- **Phone:** [805-234-5478](tel:+1-805-234-5478) <!-- Source: https://hopesvillageofslo.com/ -->
+- **Phone:** [805-423-2957](tel:+1-805-423-2957) <!-- Source: https://hopesvillageofslo.com/ -->
 - **Email:** [beckyrjorgeson@yahoo.com](mailto:beckyrjorgeson@yahoo.com) <!-- Source: https://hopesvillageofslo.com/contact -->
 
 ## <a id="Hospice-SLO">Hospice SLO</a>
@@ -2891,7 +2891,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="RVs-for-Veterans">RVs for Veterans</a>
 
-- **Phone:** [805-234-5478](tel:+1-805-234-5478) <!-- Source: https://hopesvillageofslo.com/programs -->
+- **Phone:** [805-423-2957](tel:+1-805-423-2957) <!-- Source: https://hopesvillageofslo.com/programs -->
 - Note: a project of [Hope’s Village](#Hopes-Village)
 
 ## <a id="SAFE-Family-Resource-Centers">SAFE Family Resource Centers</a>
