@@ -2325,7 +2325,7 @@
 
 - **Ubicaciones:** *Vea [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 - Medi-Cal Dental:
-   - **Sitio web:** [www.denti-cal.ca.gov](http://www.denti-cal.ca.gov/)
+   - **Sitio web:** [dental.dhcs.ca.gov](https://dental.dhcs.ca.gov/)
    - **Teléfono:** [800-322-6384](tel:+1-800-322-6384) (TTY: [800-735-2922](tel:+1-800-735-2922))
 - Medi-Cal Rx:
    - **Sitio web:** [medi-calrx.dhcs.ca.gov](https://medi-calrx.dhcs.ca.gov/)

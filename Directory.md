@@ -2295,7 +2295,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Locations:** *See [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)*
 - Medi-Cal Dental:
-   - **Website:** [www.denti-cal.ca.gov](http://www.denti-cal.ca.gov/)
+   - **Website:** [dental.dhcs.ca.gov](https://dental.dhcs.ca.gov/)
    - **Phone:** [800-322-6384](tel:+1-800-322-6384) (TTY: [800-735-2922](tel:+1-800-735-2922))
 - Medi-Cal Rx:
    - **Website:** [medi-calrx.dhcs.ca.gov](https://medi-calrx.dhcs.ca.gov/)

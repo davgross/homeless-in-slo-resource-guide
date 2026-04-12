@@ -112,7 +112,7 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>Coalición para Personas sin Hogar de 5Cities para asistencia de vivienda y entrada coordinada</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>Gerente de Respuesta a Personas sin Hogar de la Ciudad de SLO</td></tr><!-- Source: https://www.slocity.org/living/neighborhood/homelessness -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Inmigración:</th></tr>
-   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Línea Directa de Respuesta Rápida 805 (reportar actividad de ICE o conectarse con apoyo legal); regístrese para alertas de texto <a href="sms:+1-805-870-8855?&amp;body=ALERT">enviando mensaje de texto “ALERT” a este número</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Línea Directa de Respuesta Rápida 805 (reportar actividad de ICE o conectarse con apoyo legal); regístrese para alertas de texto <a href="sms:+1-805-870-8855?&amp;body=ALERT">enviando mensaje de texto “ALERT” a este número</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts -->
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> o envíe mensaje de texto a <a href="sms:233733">233733</a></td><td>Línea Nacional Contra la Trata de Personas</td></tr><!-- Source: https://humantraffickinghotline.org/es -->
  </tbody>
 </table>
@@ -2389,7 +2389,7 @@ a estudiantes, graduados recientes, empleados y miembros de familia inmediata de
 - El [AIM to Dream Center](https://www.hancockcollege.edu/aimtodream/index.php) de Allan Hancock College ofrece servicios legales de inmigración gratuitos a todos los estudiantes, profesores y personal. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
   Esto incluye DACA, ciudadanía, peticiones familiares, ajustes de estatus, entre otras cosas. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
 
-Si llama a la Línea Directa de Respuesta Rápida al [805-870-8855](tel:+1-805-870-8855), puede obtener información sobre conozca-sus-derechos y referencias a abogados de confianza (sin fines de lucro, privados o públicos) de “[La Red de Respuesta Rápida de 805 Inmigrante](https://www.805undocufund.org/alerts.html).” <!-- Source: https://www.805undocufund.org/alerts.html -->
+Si llama a la Línea Directa de Respuesta Rápida al [805-870-8855](tel:+1-805-870-8855), puede obtener información sobre conozca-sus-derechos y referencias a abogados de confianza (sin fines de lucro, privados o públicos) de “[La Red de Respuesta Rápida de 805 Inmigrante](https://www.805undocufund.org/alerts).” <!-- Source: https://www.805undocufund.org/alerts -->
 
 El [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) y el [Immigrant Defense Project](https://www.immigrantdefenseproject.org/) también pueden ayudarle con información sobre conozca-sus-derechos y con encontrar ayuda legal.
 
@@ -2875,8 +2875,8 @@ Vea [su sitio web](https://www.modestneeds.org/mn/for-applicants) para instrucci
 
 Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener ayuda con alimentos, vivienda, salud y bienestar, transporte, libros de texto, pases de estacionamiento, tecnología y otras necesidades básicas de la [Oficina de Necesidades Básicas](https://www.cuesta.edu/student-support/basic-needs-center/index.html).
 
-Personas y familias indocumentadas o de estatus migratorio mixto que han sido directamente impactadas por la aplicación de la ley de inmigración pueden solicitar al [Fondo de Asistencia de Emergencia](https://www.805undocufund.org/emergency-assistance-fund.html) administrado por 805UnocuFund para ayuda pagando renta, servicios públicos, transporte, reubicación de emergencia y gastos relacionados con asuntos legales. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
-Contacte a [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) o llame al [805-538-7070](tel:+1-805-538-7070) para solicitar. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
+Personas y familias indocumentadas o de estatus migratorio mixto que han sido directamente impactadas por la aplicación de la ley de inmigración pueden solicitar al [Fondo de Asistencia de Emergencia](https://www.805undocufund.org/programs#anchors-lt8rv4na) administrado por 805UnocuFund para ayuda pagando renta, servicios públicos, transporte, reubicación de emergencia y gastos relacionados con asuntos legales. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
+Contacte a [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) o llame al [805-538-7070](tel:+1-805-538-7070) para solicitar. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
 Los estudiantes indocumentados o con estatus migratorio mixto (desde kínder hasta la universidad) del condado de SLO también pueden solicitar asistencia financiera a través de la [**Coalición para el Éxito de Estudiantes Indocumentados de la Costa Central**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success).
 Complete el formulario en [tinyurl.com/CCCUSS-Apply](https://tinyurl.com/CCCUSS-Apply) o envíe un correo electrónico a [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com).
 
