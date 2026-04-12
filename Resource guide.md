@@ -112,7 +112,7 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
    <tr><td><a href="tel:+1-805-574-1638">805-574-1638</a></td><td>5Cities Homeless Coalition for housing assistance and coordinated entry</td></tr><!-- Source: https://5chc.org/programs/housing-assistance -->
    <tr><td><a href="tel:+1-805-781-7025">805-781-7025</a></td><td>City of SLO Homelessness Response Manager</td></tr><!-- Source: https://www.slocity.org/living/neighborhood/homelessness -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom:0;">⇨ Immigration:</th></tr>
-   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity or connect with legal support); register for text alerts by <a href="sms:+1-805-870-8855?&amp;body=ALERT">texting “ALERT” to this number</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts.html -->
+   <tr><td><a href="tel:+1-805-870-8855">805-870-8855</a></td><td>Immigrant Rapid Response Hotline (report ICE activity or connect with legal support); register for text alerts by <a href="sms:+1-805-870-8855?&amp;body=ALERT">texting “ALERT” to this number</a>)</td></tr><!-- Source: https://www.805undocufund.org/alerts -->
    <tr><td><a href="tel:+1-888-373-7888">888-373-7888</a> or text <a href="sms:233733">233733</a></td><td>National Human Trafficking Hotline</td></tr><!-- Source: https://humantraffickinghotline.org/en -->
  </tbody>
 </table>
@@ -2392,7 +2392,7 @@ to Cal Poly students, recent graduates, employees, and immediate family members.
 - The Allan Hancock College [AIM to Dream Center](https://www.hancockcollege.edu/aimtodream/index.php) offers free immigration legal services to all students, faculty, and staff. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
   This includes DACA, citizenship, family petitions, adjustments of status, among other things. <!-- Source: https://www.hancockcollege.edu/aimtodream/index.php -->
 
-If you call the Rapid Response Hotline at [805-870-8855](tel:+1-805-870-8855), you can get know-your-rights information and referrals to trusted attorneys (nonprofit, private, or public) from the “[805 Immigrant Rapid Response Network](https://www.805undocufund.org/alerts.html).” <!-- Source: https://www.805undocufund.org/alerts.html -->
+If you call the Rapid Response Hotline at [805-870-8855](tel:+1-805-870-8855), you can get know-your-rights information and referrals to trusted attorneys (nonprofit, private, or public) from the “[805 Immigrant Rapid Response Network](https://www.805undocufund.org/alerts).” <!-- Source: https://www.805undocufund.org/alerts -->
 
 The [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) and the [Immigrant Defense Project](https://www.immigrantdefenseproject.org/) can also help you with know-your-rights information and with finding legal help.
 
@@ -2878,8 +2878,8 @@ See [their website](https://www.modestneeds.org/mn/for-applicants) for instructi
 
 If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get help with food, housing, health and well-being, transportation, textbooks, parking passes, technology, and other basic needs from the [Basic Needs Office](https://www.cuesta.edu/student-support/basic-needs-center/index.html).
 
-Undocumented or mixed-status people and families who have been directly impacted by immigration enforcement can apply to the [Emergency Assistance Fund](https://www.805undocufund.org/emergency-assistance-fund.html) managed by 805UnocuFund for help paying for rent, utilities, transportation, emergency relocation, and legal-related expenses. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
-Contact [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) or call [805-538-7070](tel:+1-805-538-7070) to apply. <!-- Source: https://www.805undocufund.org/emergency-assistance-fund.html -->
+Undocumented or mixed-status people and families who have been directly impacted by immigration enforcement can apply to the [Emergency Assistance Fund](https://www.805undocufund.org/programs#anchors-lt8rv4na) managed by 805UnocuFund for help paying for rent, utilities, transportation, emergency relocation, and legal-related expenses. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
+Contact [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) or call [805-538-7070](tel:+1-805-538-7070) to apply. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
 Undocumented or mixed-status students (kindergarten through college) in SLO County can also apply for financial assistance through the [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success).
 Complete the form at [tinyurl.com/CCCUSS-Apply](https://tinyurl.com/CCCUSS-Apply) or email them at [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com).
 
