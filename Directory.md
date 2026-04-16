@@ -584,7 +584,7 @@
 
 - **Social media:**
    - Facebook: [facebook.com/calpolydoggydays](https://www.facebook.com/calpolydoggydays/)
-   - Instagram: [@cpdoggydays](https://instagram.com/cpdoggydays)
+   - Instagram: [@calpolydoggydays](https://instagram.com/calpolydoggydays)
 - **Phone:** [805-756-2419](tel:+1-805-756-2419) (Cal Poly Animal Science Department)
 - **Email:** [calpolydoggydays@gmail.com](mailto:calpolydoggydays@gmail.com) <!-- Source: https://www.instagram.com/p/CjQ7qDCvbhf/ -->
 
