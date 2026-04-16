@@ -30,6 +30,6 @@
   "overrides": {
     "glob": "^10.4.0",
     "inflight": "npm:lru-cache@^11.0.0",
-"source-map": "^0.7.4"
+    "source-map": "^0.7.4"
   }
 }
