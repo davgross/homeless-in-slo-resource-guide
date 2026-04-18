@@ -829,6 +829,7 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 -->
 | Ubicación      | Despensa                                                                                                                                               | Cuándo |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| Arroyo Grande  | [Equippers Church](https://equipperscc.com/), <a href="#" class="map-link" data-lat="35.119665" data-lon="-120.594842" data-zoom="17" data-label="Equippers Church">1052 E. Grand Ave.</a> | segundo sábado, 10–11am |
 | Arroyo Grande  | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                                                                        | viernes 12:45–1:30pm |
 | Arroyo Grande  | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church) (residentes de South County solamente; traiga identificación con foto)                   | martes–jueves 4–5pm |
 | Arroyo Grande  | [**Salvation Army**](Directory.md#Salvation-Army)                                                                                                      | lunes, miércoles, viernes 10am–mediodía |
@@ -840,22 +841,23 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Cambria        | [**Cambria Vineyard Church**](Directory.md#Cambria-Vineyard-Church)                                                                                    | segundo y cuarto jueves mediodía–2pm |
 | Cayucos        | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                                                                                  | miércoles 10:30–11am |
 | Cayucos        | [**St. Joseph’s Catholic Church**](Directory.md#St-Josephs-Church)                                                                                     | viernes 10am–mediodía (jueves 7:30–7:45 con cita) |
+| Creston        | [Creston Community Church](https://crestonchurch.com/), <a href="#" class="map-link" data-lat="35.518718" data-lon="-120.522444" data-zoom="17" data-label="Creston Community Church">5170 O’Donovan Rd.</a> | primer, segundo, tercer y quinto jueves 3:30–5:30pm |
 | Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html) (debe ser estudiante de Cuesta) | lunes–viernes 9am–4:30pm |
 | Grover Beach   | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) (traiga identificación con foto)                   | lunes–viernes 2–3:30pm |
 | Los Osos       | [**King’s Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | martes 8–10am |
 | Los Osos       | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People)                                                    | miércoles 9:30–10:30am |
 | Los Osos       | [**Trinity United Methodist Church (Los Osos)**](Directory.md#Trinity-United-Methodist-Church)                                                         | martes y viernes 10am–mediodía |
-| Morro Bay      | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)                                                                              | 4:30–6:30pm lunes |
+| Morro Bay      | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)                                                                              | lunes 3:45–5pm |
 | Morro Bay      | [**Open Arms Pantry at Rock Harbor**](Directory.md#Open-Arms-Pantry)                                                                                   | sábados 9:30–10:30am |
 | Nipomo         | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket) (residentes de Nipomo solamente)                                                             | L/Ma/J/V 10am–1pm |
-| Nipomo         | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)                                                              | sábados 11am–12:30pm |
+| Nipomo         | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)                                                              | miércoles 7–8pm |
 | Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College)                                                                                                      | lunes–viernes 9am–5pm |
 | Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | lunes–jueves 2–4pm (o con cita) |
 | Paso Robles    | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (para personas mayores)                                                        | segundo y cuarto martes 9:30–11am |
 | Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (traiga identificación con foto)                                                                     | martes 10–11am |
 | Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.641194" data-lon="-120.693955" data-zoom="17" data-label="The Link">665 26th St.</a>, [805-503-9638](tel:+1-805-503-9638) | L–J 9am–3pm; V 9am–1pm |
-| Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visita por hogar por semana; traiga identificación con foto)                      | Ma 6–7pm, Mi 10am–mediodía, J 1:30–3:30pm |
-| San Miguel     | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-2131&#xA0;x115](tel:+1-805-467-2131;ext=115) | primero, tercero y quinto miércoles, 5–6pm |
+| Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visita por hogar por semana; traiga identificación con foto)                      | Ma 6–7:30pm, Mi 10am–mediodía, J 1:30–3:30pm |
+| San Miguel     | Children and the Country Life, <a href="#" class="map-link" data-lat="35.744692" data-lon="-120.697947" data-zoom="17" data-label="Children and the Country Life">795 Monterey Rd.</a> (Mission), [805-467-2131&#xA0;x115](tel:+1-805-467-2131;ext=115) | tercer miércoles, 5–6pm |
 | SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | domingos mediodía–12:30pm |
 | SLO            | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                                                                            | lunes 2:30–4:30pm |
 | SLO            | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | martes 2–3pm, o con cita |
