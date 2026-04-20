@@ -2848,9 +2848,11 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Sitio web:** [capslo.org/rcp](https://capslo.org/rcp/)
 - **Ubicación:** [**40 Prado**](#40-Prado), SLO <a href="#" class="map-link" data-lat="35.256164" data-lon="-120.672655" data-zoom="17" data-label="40 Prado Homeless Services Center">Map</a> <!-- Source: https://capslo.org/rcp/ -->
 - **Teléfono:**
-   - [805-458-2895](tel:+1-805-458-2895) (Ariana Long) <!-- Source: https://capslo.org/rcp/ -->
+   - [805-634-8312](tel:+1-805-634-8312) <!-- Source: https://capslo.org/rcp/ -->
    - [805-503-2984](tel:+1-805-503-2984) (Amy Nielson, consultas) <!-- Source: https://capslo.org/40-prado/ -->
-- **Correo electrónico:** [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org) <!-- Source: https://capslo.org/rcp/ -->
+- **Correo electrónico:**
+   - [dreyes@capslo.org](mailto:dreyes@capslo.org) <!-- Source: https://capslo.org/rcp/ -->
+   - [rcp40prado@capslo.org](mailto:rcp40prado@capslo.org) <!-- Source: https://capslo.org/rcp/ -->
 - **Horario:** 24/7 <!-- Source: https://capslo.org/rcp/ -->
 - **Cómo obtener el servicio:** Debe ser referido por un profesional médico <!-- Source: https://capslo.org/rcp/ -->
 
