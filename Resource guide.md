@@ -2853,7 +2853,7 @@ Use the [contact form](https://loavesandfishespaso.org/contact/) on their websit
 The [**Los Osos Cares**](Directory.md#Los-Osos-Cares) Resource Center can give immediate needs assistance to people in Los Osos, Morro Bay, and Cayucos. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that "immediate needs assistance" is vague and it's unclear if it really applies to this section; "Los Osos, Morro Bay, and Cayucos" confirmed by "Barbara" via feedback form on 10 Jan 2026 -->
 
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) offers once-per-year gasoline assistance for people in SLO County who need help with transportation costs.
-To apply for gasoline from this program, [submit an application on their website](https://www.jccslo.com/gas.html).
+To apply for gasoline from this program, [submit an application on their website](https://www.jccslo.com/jfs-gas-request.html).
 You must have a valid drivers license, vehicle registration, and auto insurance.
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) operates <!-- This page has gone 404 as of 10 Dec 2025
