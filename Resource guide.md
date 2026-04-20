@@ -2853,7 +2853,7 @@ Use the [contact form](https://loavesandfishespaso.org/contact/) on their websit
 The [**Los Osos Cares**](Directory.md#Los-Osos-Cares) Resource Center can give immediate needs assistance to people in Los Osos, Morro Bay, and Cayucos. <!-- Source: https://www.losososcares.com/ however SOURCE NEEDED in the sense that "immediate needs assistance" is vague and it's unclear if it really applies to this section; "Los Osos, Morro Bay, and Cayucos" confirmed by "Barbara" via feedback form on 10 Jan 2026 -->
 
 [**Jewish Family Services**](Directory.md#Jewish-Family-Services) offers once-per-year gasoline assistance for people in SLO County who need help with transportation costs.
-To apply for gasoline from this program, [submit an application on their website](https://www.jccslo.com/gas.html).
+To apply for gasoline from this program, [submit an application on their website](https://www.jccslo.com/jfs-gas-request.html).
 You must have a valid drivers license, vehicle registration, and auto insurance.
 
 [**Catholic Charities**](Directory.md#Catholic-Charities) operates <!-- This page has gone 404 as of 10 Dec 2025
@@ -2896,8 +2896,8 @@ Womenade groups buy goods for and pay bills for people in need.
 [**Womenade SLO**](Directory.md#Womenade-SLO) helps people in the city of SLO; [**Womenade South County**](Directory.md#Womenade-SSC) helps people in the Five Cities area and nearby; [Womenade Estero Bay](https://www.losososcares.com/programs#comp-kadleziz) helps people in the Los Osos area.
 You cannot apply directly for help from Womenade, but you must apply through another service provider (a “referring agent”). <!-- SOURCE NEEDED for WEB & WSC; for WSLO, https://www.womenadeslo.org/contact alludes to this -->
 
-[**Jewish Family Services**](Directory.md#Jewish-Family-Services) has a micro-grant program for people who need one-time emergency financial assistance of $200 or less for needs like rent assistance, vehicle needs, transportation, or food. <!-- Source: https://www.jccslo.com/microgrants.html -->
-You cannot apply for this yourself, but must have a case worker apply on your behalf. <!-- Source: https://www.jccslo.com/microgrants.html -->
+[**Jewish Family Services**](Directory.md#Jewish-Family-Services) has a micro-grant program for people who need one-time emergency financial assistance of $200 or less for needs like rent assistance, vehicle needs, transportation, or food. <!-- Source: https://www.jccslo.com/case-worker-request.html -->
+You cannot apply for this yourself, but must have a case worker apply on your behalf. <!-- Source: https://www.jccslo.com/case-worker-request.html -->
 
 [**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) gives grants to families in need who live in its operating region for things like school clothes and supplies, food, clothing, gas, utilities, and healthcare.
 
