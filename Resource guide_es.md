@@ -2893,8 +2893,8 @@ Los grupos Womenade compran bienes y pagan facturas para personas en necesidad.
 [**Womenade SLO**](Directory.md#Womenade-SLO) ayuda a personas en la ciudad de SLO; [**Womenade South County**](Directory.md#Womenade-SSC) ayuda a personas en el área de Five Cities y cercana; [Womenade Estero Bay](https://www.losososcares.com/programs#comp-kadleziz) ayuda a personas en el área de Los Osos.
 No puede solicitar ayuda directamente de Womenade, sino que debe solicitar a través de otro proveedor de servicios (un “agente de referencia”). <!-- SOURCE NEEDED for WEB & WSC; for WSLO, https://www.womenadeslo.org/contact alludes to this -->
 
-[**Jewish Family Services**](Directory.md#Jewish-Family-Services) tiene un programa de micro-subvenciones para personas que necesitan asistencia financiera de emergencia única de $200 o menos para necesidades como asistencia de alquiler, necesidades de vehículo, transporte o alimentos. <!-- Source: https://www.jccslo.com/microgrants.html -->
-No puede solicitar esto usted mismo, sino que debe hacer que un trabajador de casos solicite en su nombre. <!-- Source: https://www.jccslo.com/microgrants.html -->
+[**Jewish Family Services**](Directory.md#Jewish-Family-Services) tiene un programa de micro-subvenciones para personas que necesitan asistencia financiera de emergencia única de $200 o menos para necesidades como asistencia de alquiler, necesidades de vehículo, transporte o alimentos. <!-- Source: https://www.jccslo.com/case-worker-request.html -->
+No puede solicitar esto usted mismo, sino que debe hacer que un trabajador de casos solicite en su nombre. <!-- Source: https://www.jccslo.com/case-worker-request.html -->
 
 [**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) da subvenciones a familias necesitadas que viven en su región de operación para cosas como ropa y útiles escolares, comida, ropa, gasolina, servicios públicos y atención médica.
 

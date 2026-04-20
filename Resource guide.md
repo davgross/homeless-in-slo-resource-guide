@@ -2896,8 +2896,8 @@ Womenade groups buy goods for and pay bills for people in need.
 [**Womenade SLO**](Directory.md#Womenade-SLO) helps people in the city of SLO; [**Womenade South County**](Directory.md#Womenade-SSC) helps people in the Five Cities area and nearby; [Womenade Estero Bay](https://www.losososcares.com/programs#comp-kadleziz) helps people in the Los Osos area.
 You cannot apply directly for help from Womenade, but you must apply through another service provider (a “referring agent”). <!-- SOURCE NEEDED for WEB & WSC; for WSLO, https://www.womenadeslo.org/contact alludes to this -->
 
-[**Jewish Family Services**](Directory.md#Jewish-Family-Services) has a micro-grant program for people who need one-time emergency financial assistance of $200 or less for needs like rent assistance, vehicle needs, transportation, or food. <!-- Source: https://www.jccslo.com/microgrants.html -->
-You cannot apply for this yourself, but must have a case worker apply on your behalf. <!-- Source: https://www.jccslo.com/microgrants.html -->
+[**Jewish Family Services**](Directory.md#Jewish-Family-Services) has a micro-grant program for people who need one-time emergency financial assistance of $200 or less for needs like rent assistance, vehicle needs, transportation, or food. <!-- Source: https://www.jccslo.com/case-worker-request.html -->
+You cannot apply for this yourself, but must have a case worker apply on your behalf. <!-- Source: https://www.jccslo.com/case-worker-request.html -->
 
 [**South County Youth Coalition**](Directory.md#South-County-Youth-Coalition) gives grants to families in need who live in its operating region for things like school clothes and supplies, food, clothing, gas, utilities, and healthcare.
 
