@@ -3270,6 +3270,8 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Phone:** [800-838-1381](tel:+1-800-838-1381)
 - **Hours:** M–F 8am–5pm
+  - Walk-in hours (2178 Johnson, SLO): T/W 1–3pm
+  - Walk-in hours (1350 E. Grand, AG): M/W 9–11am
 - **How to access:** call first, or see [this page](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610) for walk-in service hours
 - Notes:
    - Central access point for all [**Medi-Cal**](#Medi-Cal) mental health services
