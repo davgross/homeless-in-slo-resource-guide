@@ -3508,6 +3508,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 - **Teléfono:** [800-838-1381](tel:+1-800-838-1381)
 - **Horario:** L–V 8am–5pm
+  - Horario sin cita previa (2178 Johnson, SLO): Ma/Mi 1–3pm
+  - Horario sin cita previa (1350 E. Grand, AG): L/Mi 9–11am
 - **Cómo obtener el servicio:** llame primero, o consulte [esta página](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610) para conocer el horario de atención sin cita previa.
 - Notas:
    - Punto de acceso central para todos los servicios de salud mental de [**Medi-Cal**](#Medi-Cal)
