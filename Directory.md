@@ -3578,7 +3578,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Website:** [slothrift.com](https://slothrift.com/)
 - **Location:** <a href="#" class="map-link" data-lat="35.275984" data-lon="-120.668482" data-zoom="17" data-label="SLO Thrift">445 Higuera St., SLO</a> <!-- Source: https://slothrift.com/ -->
 - **Phone:** [805-439-4434](tel:+1-805-439-4434) <!-- Source: https://slothrift.com/ -->
-- **Hours:** M–Sa 9am–5pm <!-- Source: https://slothrift.com/ -->
+- **Hours:** M–Sa 9am–5pm, Su 11am–4pm <!-- Source: https://slothrift.com/ -->
 
 ## <a id="SLO-Transit">SLO Transit</a>
 
