@@ -40,6 +40,7 @@
    - [**Healthcare for the Homeless Program**](#HCHP) happens at 40 Prado
    - [**People’s Kitchen**](#Peoples-Kitchen-SLO) happens at 40 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
    - [**Recuperative Care Program**](#Recuperative-Care-Program) happens at 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
+   - operates the “[Day Hab Program](https://capslo.org/day-hab/)” (free one-hour classes M–F 2–3pm for people experiencing homelessness; topics include life skills, job readiness, education, health, creative activities, legal support, and community connection) <!-- Source: https://capslo.org/day-hab/ -->
 
 ## 50 Now
 

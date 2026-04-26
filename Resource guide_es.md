@@ -3157,6 +3157,12 @@ El sitio [FlexJobs](https://www.flexjobs.com/) es otra forma de encontrar trabaj
 
 ### <a id="adult-education">Educación para Adultos</a>
 
+El **[Programa de Habilitación Diurna (Day Hab)](https://capslo.org/day-hab/)** de [**CAPSLO**](Directory.md#CAPSLO) ofrece clases gratuitas de una hora en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) para personas en situación de falta de vivienda en el condado de SLO.
+Las clases se ofrecen de lunes a viernes a las 2pm y cubren temas como habilidades para la vida, preparación para el empleo, educación y alfabetización, salud y bienestar, actividades creativas, apoyo legal y de defensa de derechos, y conexión comunitaria.
+Las personas que usan los servicios diurnos del Centro de Acceso de 40 Prado pueden unirse a estas clases.
+Si está en situación de falta de vivienda en el condado de SLO pero no usa actualmente 40 Prado, también puede ser posible asistir; llame al [805-544-4004](tel:+1-805-544-4004) o escriba a [hotline@capslo.org](mailto:hotline@capslo.org) para más información.
+<!-- Source: https://capslo.org/day-hab/ -->
+
 El programa de [Educación Continua](https://www.cuesta.edu/academics/continuinged/index.html) de [**Cuesta College**](Directory.md#Cuesta-College) está abierto a la comunidad general (no tiene que estar matriculado en Cuesta College).
 Las clases en sí son gratuitas, pero algunas tienen costos adicionales relacionados con materiales, documentación y exámenes de requisitos previos, y otras cosas que tienen lugar fuera del aula.
 Entre sus programas hay clases para prepararle para un Permiso de Aprendizaje Comercial de California para que pueda convertirse en conductor de camiones comerciales. <!-- Source: https://www.cuesta.edu/academics/continuinged/comm-truck-driving/index.html -->

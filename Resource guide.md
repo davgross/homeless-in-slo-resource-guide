@@ -3160,6 +3160,12 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 
 ### <a id="adult-education">Adult Education</a>
 
+[**CAPSLO**](Directory.md#CAPSLO)’s **[Day Habilitation (Day Hab) Program](https://capslo.org/day-hab/)** offers free one-hour classes at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) for people experiencing homelessness in SLO County.
+Classes are held Monday–Friday at 2pm and cover topics such as life skills, job readiness, education and literacy, health and wellness, creative activities, legal and advocacy support, and community connection.
+People who use 40 Prado’s Access Center day services can join these classes.
+If you are experiencing homelessness in SLO County but do not currently use 40 Prado, you may also be able to attend; call [805-544-4004](tel:+1-805-544-4004) or email [hotline@capslo.org](mailto:hotline@capslo.org) for more information.
+<!-- Source: https://capslo.org/day-hab/ -->
+
 [**Cuesta College**](Directory.md#Cuesta-College)’s [Continuing Education](https://www.cuesta.edu/academics/continuinged/index.html) program is open to the general community (you do not have to be enrolled at Cuesta College).
 Classes themselves are free, but some have additional costs that have to do with supplies, prerequisite documentation and tests, and other things that happen outside the classroom.
 Among their programs are classes to prepare you for a California Commercial Learning Permit so you can become a commercial truck driver. <!-- Source: https://www.cuesta.edu/academics/continuinged/comm-truck-driving/index.html -->
