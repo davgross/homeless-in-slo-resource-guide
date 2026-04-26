@@ -1062,6 +1062,9 @@ El sistema de [**Autoridad Regional de Tránsito de SLO**](Directory.md#SLO-RTA)
 También administran las rutas de autobús de la ciudad en Morro Bay y Paso Robles, y los servicios de transporte a pedido y Runabout Paratransit.
 Puede comprar pases de autobús en el autobús o usando la aplicación [Token Transit](https://tokentransit.com/riders/download).
 
+En marzo de 2026 comenzó el ["Transit Free Fare Pass Pilot Program"](https://www.slocog.org/programs/public-transportation/transit/transit-free-fare-pass-pilot-program).
+Los residentes del condado de SLO que califican pueden usar este programa para viajar gratis en los servicios de tránsito participantes.
+
 Hay descuentos para personas mayores (edad 65+), titulares de tarjeta de Medicare y personas con discapacidades. <!-- Source: https://www.slorta.org/fares/discounts/ -->
 Si paga en efectivo por su tarifa, debe aplicar en persona en la oficina de RTA para obtener una tarjeta de descuento. <!-- Source https://www.slorta.org/fares/discounts/ -->
 Si usa una tarjeta de crédito para pagar con toque, y es titular de tarjeta de Medicare o tiene 65 años o más, puede obtener descuentos automáticamente al [registrar su tarjeta de crédito con el Proyecto de Viaje Integrado de California (Cal-ITP)](https://benefits.calitp.org/).
