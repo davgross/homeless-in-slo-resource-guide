@@ -26,7 +26,7 @@ const WHITELIST = new Set([
   'AirTalk', 'enTouch', 'Kanopy', 'Brainfuse', 'ParentConnectionSLO', 'LinkedIn', 'SkillsBuild',
   'HelpNow', 'eLearning', 'EBSCOlearning', 'ProCitizen', 'Zumba', 'flexercise', 'BarreConnect',
   'GriefShare', 'Alateen', 'Narateen', 'Overeaters', 'MaMa', 'Intergroup', 'Brookside',
-  'FindYourAlly', 'craigslist',
+  'FindYourAlly', 'craigslist', 'Habilitation', 'Hab',
 
   // Common abbreviations
   'CalJOBS', 'DMV', 'SSI', 'SSDI', 'SSA', 'TTY', 'TDD', 'CRV', 'RV', 'RVs', 'LGBTQ', 'LGBTQIA',
