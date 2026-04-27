@@ -32,6 +32,7 @@
    - operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
    - operates [**SLO Hub**](#SLO-Hub) <!-- Source: https://capslo.org/40-prado/ -->
+   - operates the “[Day Hab Program](https://capslo.org/day-hab/)” <!-- Source: https://capslo.org/day-hab/ -->
    - operates the “Mid County Warming and Cooling Center” <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - operates the “40 Prado Safe Parking Program” <!-- Source: https://capslo.org/safe-parking/ -->
    - hosts [**SLO Bangers**](#SLO-Bangers) every Monday at 9am <!-- Source: email from Ilene Brill 2 Feb. 2026 -->
@@ -40,7 +41,6 @@
    - [**Healthcare for the Homeless Program**](#HCHP) happens at 40 Prado
    - [**People’s Kitchen**](#Peoples-Kitchen-SLO) happens at 40 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
    - [**Recuperative Care Program**](#Recuperative-Care-Program) happens at 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
-   - operates the “[Day Hab Program](https://capslo.org/day-hab/)” (free one-hour classes M–F 2–3pm for people experiencing homelessness; topics include life skills, job readiness, education, health, creative activities, legal support, and community connection) <!-- Source: https://capslo.org/day-hab/ -->
 
 ## 50 Now
 
@@ -1016,6 +1016,7 @@
    - operates [**The Center for Health & Prevention**](#The-Center)
    - operates “Child Care Resource Connection (CCRC)”
    - operates [**Coordinated Entry System (CES)**](#CES)
+   - operates the “[Day Hab Program](https://capslo.org/day-hab/)”
    - operates “Head Start”
    - operates “Health Care on Wheels”
    - operates “Home and Energy Services”
@@ -2600,7 +2601,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **How to access:** Call or email
 - Notes:
    - Operates affordable housing properties including Oak Park 1–4, River Walk Terrace, and Sunrise Villas <!-- Source: https://pasoroblesha.org/affordable-housing/ -->
-   - Offers community services including “Youth Works” program <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
+   - Offers community services including the [YouthWorks program](https://pasoroblesha.org/community-services/youth-works/): free job training for northern SLO County youth ages 6–24 <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
 
 ## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Recreation Services</a>
 

@@ -3157,7 +3157,7 @@ El sitio [FlexJobs](https://www.flexjobs.com/) es otra forma de encontrar trabaj
 
 ### <a id="adult-education">Educación para Adultos</a>
 
-El **[Programa de Habilitación Diurna (Day Hab)](https://capslo.org/day-hab/)** de [**CAPSLO**](Directory.md#CAPSLO) ofrece clases gratuitas de una hora en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) para personas en situación de falta de vivienda en el condado de SLO.
+El [Programa de Habilitación Diurna (Day Hab)](https://capslo.org/day-hab/) de [**CAPSLO**](Directory.md#CAPSLO) ofrece clases gratuitas de una hora en el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) para personas en situación de falta de vivienda en el condado de SLO.
 Las clases se ofrecen de lunes a viernes a las 2pm y cubren temas como habilidades para la vida, preparación para el empleo, educación y alfabetización, salud y bienestar, actividades creativas, apoyo legal y de defensa de derechos, y conexión comunitaria.
 Las personas que usan los servicios diurnos del Centro de Acceso de 40 Prado pueden unirse a estas clases.
 Si está en situación de falta de vivienda en el condado de SLO pero no usa actualmente 40 Prado, también puede ser posible asistir; llame al [805-544-4004](tel:+1-805-544-4004) o escriba a [hotline@capslo.org](mailto:hotline@capslo.org) para más información.
@@ -3564,6 +3564,12 @@ Hay un Fondo de Becas para Actividades Juveniles (Youth Activity Scholarship Fun
 [**Paso Robles Parks & Recreation**](Directory.md#Paso-Robles-Parks-and-Recreation) tiene un [Centro para Adolescentes](https://www.prcity.com/1177/Teen-Center) (Teen Center) gratuito, abierto las tardes de días laborables hasta las 5pm, con videojuegos, música, una mesa de billar, un gimnasio y un pequeño café.
 Paso Robles Parks & Recreation también ofrece muchas [clases, deportes y otras actividades](https://anc.apm.activecommunities.com/prcityrecreation/activity/search?onlineSiteId=0&locale=es-US&activity_select_param=2&activity_category_ids=8&activity_category_ids=13&viewMode=list).
 Típicamente cuestan dinero, pero hay [un programa de becas](https://www.prcity.com/1193/Scholarships) para personas con bajos ingresos.
+
+El [programa YouthWorks](https://pasoroblesha.org/community-services/youth-works/) de la [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) ofrece capacitación laboral gratuita para jóvenes de 6 a 24 años en el norte del Condado de SLO.
+Los jóvenes trabajan turnos pagados y desarrollan habilidades en áreas como agricultura, cocina, trabajo de limpieza, tareas de oficina y atención al cliente.
+Los participantes mayores sirven de mentores a los más jóvenes.
+Alrededor de los 16 años, los participantes generalmente comienzan a recibir ayuda para encontrar empleo en la comunidad.
+Después de dejar el programa, los jóvenes siguen recibiendo apoyo, incluyendo becas universitarias. <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
 
 [**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) (Parques y Recreación de la Ciudad de SLO) ofrece [una variedad de clínicas deportivas, clases y campamentos](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide).
 Tienen un [programa limitado de reducción de cuotas](https://www.slocity.org/home/showpublisheddocument/37652/638875686889030000) que ayuda a los niños elegibles de la ciudad de SLO a obtener crédito de becas para las cuotas de programas.
