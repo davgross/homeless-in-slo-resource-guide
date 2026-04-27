@@ -4,6 +4,16 @@
 
 set -e
 
+read_response() {
+  if { exec 3</dev/tty; } 2>/dev/null; then
+    read -r response <&3
+    exec 3>&-
+  else
+    read -r response
+  fi
+}
+
+
 echo "Running pre-commit checks..."
 
 # Get list of staged files
@@ -11,35 +21,40 @@ STAGED_FILES=$(git diff --cached --name-only)
 
 # Check 1: Translation sync
 echo "→ Checking translation sync..."
-SYNC_WARNINGS=""
 
-if echo "$STAGED_FILES" | grep -q "^About\.md$"; then
-  if ! echo "$STAGED_FILES" | grep -q "^About_es\.md$"; then
-    SYNC_WARNINGS="${SYNC_WARNINGS}\n  ⚠️  About.md staged but About_es.md not updated"
+if [ -n "$NO_TRANSLATION_NEEDED" ]; then
+  echo "  (Skipping: NO_TRANSLATION_NEEDED is set)"
+else
+  SYNC_WARNINGS=""
+
+  if echo "$STAGED_FILES" | grep -q "^About\.md$"; then
+    if ! echo "$STAGED_FILES" | grep -q "^About_es\.md$"; then
+      SYNC_WARNINGS="${SYNC_WARNINGS}\n  ⚠️  About.md staged but About_es.md not updated"
+    fi
   fi
-fi
 
-if echo "$STAGED_FILES" | grep -q "^Directory\.md$"; then
-  if ! echo "$STAGED_FILES" | grep -q "^Directory_es\.md$"; then
-    SYNC_WARNINGS="${SYNC_WARNINGS}\n  ⚠️  Directory.md staged but Directory_es.md not updated"
+  if echo "$STAGED_FILES" | grep -q "^Directory\.md$"; then
+    if ! echo "$STAGED_FILES" | grep -q "^Directory_es\.md$"; then
+      SYNC_WARNINGS="${SYNC_WARNINGS}\n  ⚠️  Directory.md staged but Directory_es.md not updated"
+    fi
   fi
-fi
 
-if echo "$STAGED_FILES" | grep -q "^Resource guide\.md$"; then
-  if ! echo "$STAGED_FILES" | grep -q "^Resource guide_es\.md$"; then
-    SYNC_WARNINGS="${SYNC_WARNINGS}\n  ⚠️  Resource guide.md staged but Resource guide_es.md not updated"
+  if echo "$STAGED_FILES" | grep -q "^Resource guide\.md$"; then
+    if ! echo "$STAGED_FILES" | grep -q "^Resource guide_es\.md$"; then
+      SYNC_WARNINGS="${SYNC_WARNINGS}\n  ⚠️  Resource guide.md staged but Resource guide_es.md not updated"
+    fi
   fi
-fi
 
-if [ -n "$SYNC_WARNINGS" ]; then
-  echo -e "$SYNC_WARNINGS"
-  echo ""
-  echo "  Consider updating Spanish translations."
-  echo "  Continue anyway? (y/n)"
-  read -r response </dev/tty
-  if [[ ! "$response" =~ ^[Yy]$ ]]; then
-    echo "Commit aborted."
-    exit 1
+  if [ -n "$SYNC_WARNINGS" ]; then
+    echo -e "$SYNC_WARNINGS"
+    echo ""
+    echo "  Consider updating Spanish translations."
+    echo "  Continue anyway? (y/n)"
+    read_response
+    if [[ ! "$response" =~ ^[Yy]$ ]]; then
+      echo "Commit aborted."
+      exit 1
+    fi
   fi
 fi
 
@@ -51,7 +66,7 @@ if echo "$STAGED_FILES" | grep -q '\.md$'; then
       echo ""
       echo "  ⚠️  Markdown linting errors found"
       echo "  Continue anyway? (y/n)"
-      read -r response </dev/tty
+      read_response
       if [[ ! "$response" =~ ^[Yy]$ ]]; then
         echo "Commit aborted."
         exit 1
@@ -67,7 +82,7 @@ if [ -f "spell-check.cjs" ]; then
     echo ""
     echo "  ⚠️  Spelling errors found"
     echo "  Continue anyway? (y/n)"
-    read -r response </dev/tty
+    read_response
     if [[ ! "$response" =~ ^[Yy]$ ]]; then
       echo "Commit aborted."
       exit 1
