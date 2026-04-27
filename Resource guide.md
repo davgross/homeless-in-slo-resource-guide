@@ -3160,7 +3160,7 @@ The site [FlexJobs](https://www.flexjobs.com/) is another way to find remote job
 
 ### <a id="adult-education">Adult Education</a>
 
-[**CAPSLO**](Directory.md#CAPSLO)’s **[Day Habilitation (Day Hab) Program](https://capslo.org/day-hab/)** offers free one-hour classes at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) for people experiencing homelessness in SLO County.
+[**CAPSLO**](Directory.md#CAPSLO)’s [Day Habilitation (Day Hab) Program](https://capslo.org/day-hab/) offers free one-hour classes at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) for people experiencing homelessness in SLO County.
 Classes are held Monday–Friday at 2pm and cover topics such as life skills, job readiness, education and literacy, health and wellness, creative activities, legal and advocacy support, and community connection.
 People who use 40 Prado’s Access Center day services can join these classes.
 If you are experiencing homelessness in SLO County but do not currently use 40 Prado, you may also be able to attend; call [805-544-4004](tel:+1-805-544-4004) or email [hotline@capslo.org](mailto:hotline@capslo.org) for more information.
