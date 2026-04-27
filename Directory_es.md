@@ -40,7 +40,7 @@
    - [**Healthcare for the Homeless Program**](#HCHP) tiene lugar en 40 Prado
    - [**People’s Kitchen**](#Peoples-Kitchen-SLO) tiene lugar en 40 Prado <!-- https://www.slopeopleskitchen.org/serving-info -->
    - [**Recuperative Care Program**](#Recuperative-Care-Program) tiene lugar en 40 Prado <!-- Source: https://capslo.org/40-prado/ -->
-   - opera el “[Day Hab Program](https://capslo.org/day-hab/)” (clases gratuitas de una hora, lunes–viernes 2–3pm, para personas en situación de falta de vivienda; los temas incluyen habilidades para la vida, preparación para el empleo, educación, salud, actividades creativas, apoyo legal y conexión comunitaria) <!-- Source: https://capslo.org/day-hab/ -->
+   - opera el “[Day Hab Program](https://capslo.org/day-hab/)” <!-- Source: https://capslo.org/day-hab/ -->
 
 ## 50 Now
 
@@ -1289,6 +1289,7 @@
    - opera [**The Center for Health & Prevention**](#The-Center)
    - opera [**Conexión de Recursos de Cuidado de Niños (CCRC)**](#Child-Care-Resource-Connection)
    - opera [**Coordinated Entry System (CES)**](#CES)
+   - opera el programa “[Day Hab](https://capslo.org/day-hab/)” <!-- Source: https://capslo.org/day-hab/ -->
    - opera “Head Start”
    - opera “Health Care on Wheels”
    - opera “Home and Energy Services”
