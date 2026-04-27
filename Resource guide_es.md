@@ -3565,6 +3565,12 @@ Hay un Fondo de Becas para Actividades Juveniles (Youth Activity Scholarship Fun
 Paso Robles Parks & Recreation también ofrece muchas [clases, deportes y otras actividades](https://anc.apm.activecommunities.com/prcityrecreation/activity/search?onlineSiteId=0&locale=es-US&activity_select_param=2&activity_category_ids=8&activity_category_ids=13&viewMode=list).
 Típicamente cuestan dinero, pero hay [un programa de becas](https://www.prcity.com/1193/Scholarships) para personas con bajos ingresos.
 
+El [programa YouthWorks](https://pasoroblesha.org/community-services/youth-works/) de la [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority) ofrece capacitación laboral gratuita para jóvenes de 6 a 24 años en el norte del Condado de SLO.
+Los jóvenes trabajan turnos pagados y desarrollan habilidades en áreas como agricultura, cocina, trabajo de limpieza, tareas de oficina y atención al cliente.
+Los participantes mayores sirven de mentores a los más jóvenes.
+Alrededor de los 16 años, los participantes generalmente comienzan a recibir ayuda para encontrar empleo en la comunidad.
+Después de dejar el programa, los jóvenes siguen recibiendo apoyo, incluyendo becas universitarias. <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
+
 [**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) (Parques y Recreación de la Ciudad de SLO) ofrece [una variedad de clínicas deportivas, clases y campamentos](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide).
 Tienen un [programa limitado de reducción de cuotas](https://www.slocity.org/home/showpublisheddocument/37652/638875686889030000) que ayuda a los niños elegibles de la ciudad de SLO a obtener crédito de becas para las cuotas de programas.
 

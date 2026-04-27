@@ -2612,7 +2612,7 @@
 - **Cómo obtener el servicio:** Llame o envíe correo electrónico
 - Notas:
    - opera propiedades de vivienda asequible incluyendo Oak Park 1–4, River Walk Terrace y Sunrise Villas <!-- Source: https://pasoroblesha.org/affordable-housing/ -->
-   - ofrece servicios comunitarios incluyendo el programa “Youth Works” <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
+   - ofrece servicios comunitarios incluyendo el [programa YouthWorks](https://pasoroblesha.org/community-services/youth-works/): capacitación laboral gratuita para jóvenes de 6 a 24 años en el norte del Condado de SLO <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
 
 ## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Recreation Services</a>
 

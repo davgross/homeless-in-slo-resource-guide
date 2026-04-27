@@ -2601,7 +2601,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **How to access:** Call or email
 - Notes:
    - Operates affordable housing properties including Oak Park 1–4, River Walk Terrace, and Sunrise Villas <!-- Source: https://pasoroblesha.org/affordable-housing/ -->
-   - Offers community services including “Youth Works” program <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
+   - Offers community services including the [YouthWorks program](https://pasoroblesha.org/community-services/youth-works/): free job training for northern SLO County youth ages 6–24 <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
 
 ## <a id="Paso-Robles-Parks-and-Recreation">Paso Robles Recreation Services</a>
 

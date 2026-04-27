@@ -3567,6 +3567,12 @@ There is a Youth Activity Scholarship Fund that can pay for up to $250 per child
 Paso Robles Parks & Recreation also offers many [classes, sports, and other activities](https://anc.apm.activecommunities.com/prcityrecreation/activity/search?onlineSiteId=0&locale=en-US&activity_select_param=2&activity_category_ids=8&activity_category_ids=13&viewMode=list).
 They typically cost money, but there is [a scholarship program](https://www.prcity.com/1193/Scholarships) for people with low incomes.
 
+The [**Paso Robles Housing Authority**](Directory.md#Paso-Robles-Housing-Authority)'s [YouthWorks program](https://pasoroblesha.org/community-services/youth-works/) offers free job training for youth ages 6–24 in northern SLO County.
+Youth work paid shifts and build skills in areas such as farming, cooking, janitorial work, office work, and customer service.
+Older participants mentor younger ones.
+At around age 16, participants typically start getting help to find jobs in the community.
+After leaving the program, youth continue to receive support, including college scholarships. <!-- Source: https://pasoroblesha.org/community-services/youth-works/ -->
+
 [**City of SLO Parks and Recreation**](Directory.md#City-of-SLO-Parks-and-Recreation) offers [a variety of sports clinics, classes, and camps](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide).
 They have a [limited fee reduction program](https://www.slocity.org/home/showpublisheddocument/37652/638875686889030000) that helps eligible SLO city children obtain scholarship credit towards program fees.
 
