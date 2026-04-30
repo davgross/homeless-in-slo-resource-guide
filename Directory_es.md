@@ -410,7 +410,7 @@
 ## <a id="Aspire-Counseling-Service">Aspire Counseling Service</a>
 
 - **Sitio web:** [aspirecounselingservice.com/san-luis-obispo](https://aspirecounselingservice.com/san-luis-obispo/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.242312" data-lon="-120.640925" data-zoom="17" data-label="Aspire Counseling Service">865 Aerovista Pl. #130, SLO</a> <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.242312" data-lon="-120.640925" data-zoom="17" data-label="Aspire Counseling Service">865 Aerovista Pl. #106, SLO</a> <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
 - **Teléfono:**
    - [805-329-5595](tel:+1-805-329-5595) (principal) <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
    - [888-585-7373](tel:+1-888-585-7373) (24/7 llame o envíe mensaje de texto) <!-- Source: https://aspirecounselingservice.com/san-luis-obispo/ -->
