@@ -2,16 +2,17 @@
 
 ## Evitar, Sobrevivir y Escapar de la Falta de Vivienda en el Condado de SLO
 
-Esta guía le ayuda a encontrar recursos gratuitos y de bajo costo que pueden ayudarle si está experimentando falta de vivienda, está en riesgo de perder su vivienda o simplemente tiene poco dinero.
-Es específica para el Condado de San Luis Obispo.
+Esta guía le ayuda a encontrar recursos gratuitos y de bajo costo si no tiene hogar, está perdiendo su vivienda o le falta dinero.
+Es para personas en el Condado de San Luis Obispo (SLO).
 
-El Condado de San Luis Obispo presenta desafíos especiales para las personas que intentan evitar o escapar de la falta de vivienda.
-Afortunadamente, hay mucha ayuda disponible.
-Desafortunadamente, puede ser difícil encontrar esta ayuda o entender cómo acceder a ella.
+El Condado de SLO es muy difícil para las personas que intentan evitar o escapar de la falta de vivienda.
+Hay mucha ayuda disponible.
+Sin embargo, puede ser difícil encontrar esta ayuda o saber cómo usarla.
 Esta guía lo hace más fácil.
 
-La guía está organizada en secciones como “Refugio y Vivienda” o “Alimentos.”
-Cada sección describe brevemente los recursos disponibles en el Condado de San Luis Obispo.
+La guía organiza recursos en secciones como “Refugio y Vivienda” o “Alimentos.”
+Cada sección describe brevemente los recursos disponibles en el Condado de SLO.
+
 Muchas descripciones contienen enlaces en negritas y resaltados en azul al [**Directorio**](?section=directory).
 Esta página del Directorio enumera los recursos en orden alfabético, con información como el sitio web, número de teléfono, dirección de correo electrónico, ubicación y horario de operación.
 Si encuentra un recurso en la guía que pueda serle útil, haga clic en el enlace en negritas para ir al Directorio y aprender cómo acceder a ese recurso.
@@ -121,7 +122,7 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
 
 ## <a id="self-advocacy">Cómo Defender Sus Derechos y Comunicarse con Proveedores de Servicios</a>
 
-Cuando se reúne con administradores de casos y proveedores de servicios, puede aumentar la probabilidad de que puedan ayudarlo.
+Cuando se reúne con administradores de casos y proveedores de servicios, puede hacer que sea más probable que le ayuden.
 Esta sección de la guía ofrece algunos consejos sobre cómo hacer esto.
 
 ### <a id="build-good-relationships">Construya Buenas Relaciones con los Administradores de Casos y Proveedores de Servicios</a>
@@ -149,7 +150,7 @@ Los administradores de casos sirven como su guía y defensor dentro del sistema 
 Le ayudan a evaluar su situación, identificar sus metas (como encontrar vivienda, obtener beneficios o recibir tratamiento) y crear un plan para lograrlas.
 Le conectan con recursos que quizás no conozca, le ayudan a completar solicitudes, dan seguimiento en su nombre y resuelven problemas cuando algo sale mal.
 
-Un buen administrador de casos lleva el control de las muchas partes de su situación—su búsqueda de vivienda, sus solicitudes de beneficios, sus citas médicas—para que usted no tenga que hacer malabares con todo solo.
+Un buen administrador de casos lleva el control de las muchas partes de su situación—su búsqueda de vivienda, sus solicitudes de beneficios, sus citas médicas—para que no tenga que ocuparse de todo solo.
 
 #### Cómo Obtener un Administrador de Casos
 
@@ -174,10 +175,10 @@ Los administradores de casos conocen el sistema, saben a qué puertas tocar y a 
 
 ### <a id="manage-appointments">Maneje Sus Citas y Compromisos</a>
 
-Configure alarmas en su teléfono o pida llamadas de recordatorio cuando estén disponibles para no perder sus citas.
+Ponga alarmas en su teléfono o pida llamadas de recordatorio cuando estén disponibles para no perder sus citas.
 Asegúrese de tener una forma de viajar a las citas (vea la sección [Transporte](#transportation)).
 Traiga algo que hacer en caso de que haya espera, y espere algunas demoras en entornos de servicios ocupados.
-Si necesita cambiar una cita, llame con anticipación en lugar de simplemente no asistir.
+Si necesita cambiar una cita, llame con anticipación en lugar de faltar.
 
 Llegue temprano a las citas si puede.
 Si va a llegar tarde, llame con anticipación.
@@ -219,7 +220,7 @@ Guarde números de caso, números de solicitud y números de confirmación.
 
 ### <a id="focus-on-goals">Enfóquese en Sus Metas y Fortalezas</a>
 
-Diga claramente a las personas hacia qué está trabajando (vivienda, empleo, atención médica, etc.).
+Diga claramente a las personas lo que busca (vivienda, empleo, atención médica, etc.).
 Comparta sus habilidades, experiencia, educación y fortalezas personales cuando sean importantes para los servicios que desea.
 Por ejemplo, cuéntele a los servicios de empleo sobre su experiencia laboral.
 
