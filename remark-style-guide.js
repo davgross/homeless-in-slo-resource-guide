@@ -1112,6 +1112,10 @@ export default function remarkStyleGuide() {
                     message: `Rather than "run across" consider e.g. "discover", "find", "notice"`,
                 },
                 {
+                    pattern: /\b(run|runs|running|ran) low\b/i,
+                    message: `Rather than "run low" consider e.g. "decline", "dwindle", "lessen", "lower", "reduce", "shrink", "wane", "weaken"`,
+                },
+                {
                     pattern: /\b(run|runs|running|ran)\b(?:\s+\w{1,15}){0,4}? up\b[.,;!?:]?/i,
                     message: `Rather than "run up" consider e.g. "accumulate", "incur"`,
                 },
@@ -1166,6 +1170,10 @@ export default function remarkStyleGuide() {
                 {
                     pattern: /\b(set|sets|setting|set)\b(?:\s+\w{1,15}){0,4}? up\b[.,;!?:]?/i,
                     message: `Rather than "set up" consider e.g. "arrange", "configure", "establish", "prepare"`,
+                },
+                {
+                    pattern: /\bshort on\b/i,
+                    message: `Rather than "short on" consider e.g. "lacking", "missing", "needing", "without"`,
                 },
                 {
                     pattern: /\b(show|shows|showing|showed|shown)\b(?:\s+\w{1,15}){0,4}? up\b[.,;!?:]?/i,

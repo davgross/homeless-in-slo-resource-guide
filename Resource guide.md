@@ -2,19 +2,20 @@
 
 ## Avoiding, Surviving, and Escaping Homelessness in SLO County
 
-This guide helps you find free and low-cost resources that can help you if you are experiencing homelessness, are threatened with homelessness, or are just short on money.
-It is specific to San Luis Obispo County.
+This guide helps you find free and low-cost resources that can help you if you experience homelessness, you are losing your home, or you lack money.
+It is for people in San Luis Obispo (SLO) County.
 
-San Luis Obispo County is especially challenging for people trying to avoid or to escape homelessness.
-Fortunately, there is a lot of help available.
-Unfortunately, it can be difficult to find this help or to understand how to access it.
+SLO County is very challenging for people trying to avoid or to escape homelessness.
+There is a lot of help available.
+However, it can be hard to find this help or to understand how to use it.
 This guide makes it easier.
 
-The guide is organized into sections like “Shelter and Housing” or “Food.”
-Each section briefly describes resources available in San Luis Obispo County.
+The guide organizes resources into sections like “Shelter and Housing” or “Food.”
+Each section briefly describes resources available in SLO County.
+
 Many descriptions contain blue-highlighted, boldface links to the [**Directory**](?section=directory).
 This Directory page lists resources in alphabetical order, with information like the website, phone number, email address, location, and operating hours.
-If you find a resource in the guide that may be useful to you, click the boldface link to go to the Directory and learn how to access that resource.
+If you find a resource in the guide that may help you, click the boldface link to go to the Directory and learn how to access that resource.
 
 Volunteers from [**Shower the People**](Directory.md#Shower-the-People) created this guide.
 If you want to suggest corrections or improvements, or to join the VivaSLO development team, contact VivaSLO at [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com).
@@ -24,13 +25,13 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
 ## <a id="table-of-contents">Index</a> <span style="text-shadow: 0 0 3px rgba(255, 255, 255, 0.9), 0 0 6px rgba(255, 255, 255, 0.7), 0 0 9px rgba(255, 255, 255, 0.5), 0 0 1px rgba(0, 0, 0, 0.8), 1px 1px 2px rgba(0, 0, 0, 0.6);">📖</span>
 
 1. [Hotlines and Emergencies](#emergency-contacts)
-1. [Self-Advocacy](#self-advocacy)
+1. [Self-Advocacy Tips](#self-advocacy)
 1. [Shelter & Housing](#shelter-housing)
 1. [Property Storage](#property-storage)
 1. [Food](#food)
 1. [Water Refill](#refill-a-water-bottle)
 1. [Transportation](#transportation)
-1. [Clothing](#clothing)
+1. [Clothes](#clothing)
 1. [Laundry](#laundry)
 1. [Showers & Hygiene](#showers-and-hygiene)
 1. [Health & Medical Care](#health-medical-care)
@@ -119,9 +120,9 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
 
 -----
 
-## <a id="self-advocacy">Standing Up for Yourself and Communicating with Service Providers</a>
+## <a id="self-advocacy">Self-Advocacy: Standing Up for Yourself and Communicating with Service Providers</a>
 
-When you meet with case managers and service providers, you can make it more likely that they can help you.
+When you meet case managers and service providers, you can make it more likely that they can help you.
 This section of the guide gives some tips about how to do this.
 
 ### <a id="build-good-relationships">Build Good Relationships with Case Managers and Service Providers</a>
