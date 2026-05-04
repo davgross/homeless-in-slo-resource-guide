@@ -70,6 +70,7 @@
 ## <a id="805-Street-Outreach">805 Street Outreach</a>
 
 - **Sitio web:** [805streetoutreach.org](https://805streetoutreach.org/)
+- **Ubicación:** (oficina) <a href="#" class="map-link" data-lat="35.399234" data-lon="-120.862056" data-zoom="17" data-label="805 Street Outreach">3118 Main St. #F, Morro Bay</a>
 - **Correo electrónico:** [izzy@805streetoutreach.org](mailto:izzy@805streetoutreach.org) <!-- Source: https://805streetoutreach.org/contact-us -->
 - Programa de duchas:
    - **Ubicación:** <a href="#" class="map-link" data-lat="35.3671654" data-lon="-120.8462354" data-zoom="17" data-label="Morro Bay Public Library (805 Street Outreach)">Morro Bay Public Library estacionamiento, 625 Harbor St., Morro Bay</a> <!-- Source: https://805streetoutreach.org/about-us -->
