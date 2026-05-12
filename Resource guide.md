@@ -100,7 +100,7 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
    <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>SLO County Behavioral Health Access Line: Main number for scheduling appointments and getting information about all behavioral health services including navigation and peer support</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
    <tr><td><a href="tel:+1-805-540-6576">800-540-6576</a></td><td>Behavioral Health Navigator: Get help finding the help you need and understanding the local behavioral health system</td></tr><!-- Source: https://www.t-mha.org/program-details.php?id=20 -->
    <tr><td><a href="tel:+1-833-317-4673">833-317-HOPE</a></td><td>The Warm Line: free, confidential emotional support (also online at <a href="https://www.mentalhealthsf.org/warm-line">mentalhealthsf.org/warm-line</a>) M/Tu/W/F 7am–11pm; Th 8am–10pm</td></tr><!-- Source: https://www.calhope.org/ -->
-   <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a></td><td>Kick It California, smoking cessation help</td></tr><!-- Source: https://www.kickitca.org/ -->
+   <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a></td><td>Kick It California, help quitting smoking</td></tr><!-- Source: https://www.kickitca.org/ -->
    <tr><td><a href="tel:+1-800-662-4357">800-662-HELP</a></td><td>Substance Abuse and Mental Health Service Administration (SAMHSA) national helpline (free, confidential, 24/7 substance abuse treatment referral and info)</td></tr><!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
    <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Central Coast Alcoholics Anonymous 24/7 helpline</td></tr><!-- Source: https://www.sloaa.org/ -->
    <tr><td><a href="tel:+1-800-549-7730">800-549-7730</a></td><td>Central Coast Narcotics Anonymous 24/7 helpline</td></tr><!-- Source: https://www.centralcoastna.org/ -->
@@ -1656,7 +1656,7 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) dispenses some 
 
 [**Community Health Centers**](Directory.md#CHC) offers dental care at its offices in Nipomo, Oceano, Templeton (Las Tablas), and at 40 Prado in SLO. <!-- Source: https://www.communityhealthcenters.org/health-services/dental/ -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a dental clinic. <!-- Source: https://www.slonoorfoundation.org/dental -->
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a dental clinic for people who lack dental insurance. <!-- Source: https://www.slonoorfoundation.org/dental -->
 
 > See [Medi-Cal: Dentists](#medi-cal-dentists) above to learn how to find a Medi-Cal dental provider.
 
@@ -1670,7 +1670,7 @@ The [**Community Health Centers**](Directory.md#CHC) offices in Nipomo, Paso Rob
 
 [**EyeCare America**](Directory.md#EyeCare-America) offers a free eye exam and follow-up ophthalmology treatment to uninsured and underinsured adults. <!-- Source: https://www.aao.org/eyecare-america -->
 
-[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a vision care clinic. <!-- Source: https://www.slonoorfoundation.org/vision -->
+[**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) has a vision care clinic for people who lack health insurance. <!-- Source: https://www.slonoorfoundation.org/vision -->
 
 #### Eyeglasses
 
@@ -2012,13 +2012,13 @@ You can also get free naloxone any time from these “NaloxBoxes”:
 
 ### <a id="tobacco-nicotine">Tobacco / Nicotine</a>
 
-The “Kick It California” program can help you stop smoking ([kickitca.org](https://kickitca.org/) at [800-300-8086](tel:+1-800-300-8086). <!-- Source: https://kickitca.org/ -->
+The “Kick It California” program can help you stop smoking ([kickitca.org](https://kickitca.org/) at [800-300-8086](tel:+1-800-300-8086)). <!-- Source: https://kickitca.org/ -->
 The U.S. government has a similar program at [smokefree.gov](https://smokefree.gov/) or [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
-and the [SLO County Tobacco Control Program](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program) also offer tobacco cessation help. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program -->
+and the [SLO County Tobacco Control Program](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program) also offer help quitting smoking. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program -->
 
-The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers tobacco cessation support, resources, and programs to qualifying U.S. military veterans. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
+The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers help quitting smoking to qualifying U.S. military veterans. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
 
 ### <a id="twelve-step">12-Step and Similar Recovery Programs</a>
 

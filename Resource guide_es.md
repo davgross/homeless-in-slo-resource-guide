@@ -1653,7 +1653,7 @@ Los estudiantes de [**Cuesta College**](Directory.md#Cuesta-College) pueden obte
 
 [**Community Health Centers**](Directory.md#CHC) ofrece cuidado dental en sus oficinas en Nipomo, Oceano, Templeton (Las Tablas) y en 40 Prado en SLO. <!-- Source: https://www.communityhealthcenters.org/health-services/dental/ -->
 
-[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una clínica dental. <!-- Source: https://www.slonoorfoundation.org/dental -->
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una clínica dental para personas sin seguro dental. <!-- Source: https://www.slonoorfoundation.org/dental -->
 
 > Vea [Medi-Cal: Dentistas](#medi-cal-dentists) arriba para aprender cómo encontrar un proveedor dental de Medi-Cal.
 
@@ -1667,7 +1667,7 @@ Las oficinas de [**Community Health Centers**](Directory.md#CHC) en Nipomo, Paso
 
 [**EyeCare America**](Directory.md#EyeCare-America) ofrece un examen de la vista gratuito y tratamiento de oftalmología de seguimiento a adultos sin seguro y con seguro insuficiente. <!-- Source: https://www.aao.org/eyecare-america -->
 
-[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una clínica de cuidado de la vista. <!-- Source: https://www.slonoorfoundation.org/vision -->
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una clínica de cuidado de la vista para personas sin seguro médico. <!-- Source: https://www.slonoorfoundation.org/vision -->
 
 #### Lentes
 
@@ -2009,7 +2009,7 @@ También puede obtener naloxona gratis en cualquier momento de estas “NaloxBox
 
 ### <a id="tobacco-nicotine">Tabaco / Nicotina</a>
 
-El programa “Kick It California” puede ayudarle a dejar de fumar ([kickitca.org](https://kickitca.org/) al [800-300-8086](tel:+1-800-300-8086). <!-- Source: https://kickitca.org/ -->
+El programa “Kick It California” puede ayudarle a dejar de fumar ([kickitca.org](https://kickitca.org/) al [800-300-8086](tel:+1-800-300-8086)). <!-- Source: https://kickitca.org/ -->
 El gobierno de Estados Unidos tiene un programa similar en [smokefree.gov](https://smokefree.gov/) o [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
 El [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
