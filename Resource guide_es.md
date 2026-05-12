@@ -1111,8 +1111,6 @@ Es un autobús de “cercanías,” lo que significa que opera en la mañana y e
 Puede usar el “Pase Regional de 31 Días” de SLO RTA en esta línea, pero otros pases de SLO RTA no funcionarán: debe pagar un pase separado de Santa Maria Regional Transit. <!-- Source: https://www.slocity.org/Home/Components/News/News/11624/ -->
 
 Algunos proveedores de servicios pueden darle un pase de autobús si no puede pagarlo.
-Por ejemplo, [**Catholic Charities**](Directory.md#Catholic-Charities) <!-- SOURCE NEEDED (issue #55) -->
-y la [**Sociedad de San Vicente de Paúl**](Directory.md#Society-of-St-Vincent-de-Paul) a menudo tienen pases de autobús disponibles para personas que los necesitan. <!-- SOURCE NEEDED (issue #55) -->
 Los clientes de [**Tri-Counties Regional Center**](Directory.md#Tri-Counties-Regional-Center) pueden obtener pases de autobús de ellos. <!-- SOURCE NEEDED (issue #55) -->
 La [**Family Care Network**](Directory.md#Family-Care-Network) puede ayudarle a obtener un pase de autobús si no puede pagarlo por sí mismo (puede que primero necesite obtener una referencia de un Especialista de Recursos de Empleo del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services)). <!-- SOURCE NEEDED (issue #55) (mentioned briefly at https://fcni.org/partner-with-us/fam/) -->
 
@@ -1673,6 +1671,8 @@ Las oficinas de [**Community Health Centers**](Directory.md#CHC) en Nipomo, Paso
 La American Academy of Ophthalmology mantiene [una lista de fuentes de lentes gratis y de bajo costo](https://aao.org/eyecare-america/resources/eye-glasses).
 
 Puede encontrar una lista de ópticos de Medi-Cal en [provdir.cencalhealth.org](https://provdir.cencalhealth.org/).
+
+La [**Sociedad de San Vicente de Paúl**](Directory.md#Society-of-St-Vincent-de-Paul) puede ayudarle a reemplazar lentes perdidos o rotos. <!-- Flyer on SVdP office door, May 2026 -->
 
 ### <a id="mental-health">Salud Mental</a>
 

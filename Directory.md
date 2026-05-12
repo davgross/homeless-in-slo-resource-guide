@@ -3631,7 +3631,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:** [805-544-7041](tel:+1-805-544-7041) <!-- Source: https://fpcslo.org/assistance -->
 - **Hours:**
    - Tuesdays at Prado Day Center (<a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">40 Prado Rd., SLO</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
-   - Thursdays at Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a>): by appointment only <!-- Source: https://fpcslo.org/assistance -->
+   - Thursdays at Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a>): 1pm by appointment only <!-- Source: https://fpcslo.org/assistance -->
 - **How to access:** drop-in at Prado, or call to schedule an appointment at the Mission
 <!-- Note: No dedicated website found for local chapter (as of October 2025) -->
 

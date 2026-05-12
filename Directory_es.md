@@ -3630,7 +3630,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-544-7041](tel:+1-805-544-7041) <!-- Source: https://fpcslo.org/assistance -->
 - **Horario:**
    - Martes en Prado Center (<a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Sociedad de San Vicente de Paúl">40 Prado Rd., SLO</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
-   - los jueves en la Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Sociedad de San Vicente de Paúl">751 Palm St., SLO</a>): solo con cita previa <!-- Source: https://fpcslo.org/assistance -->
+   - los jueves en la Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Sociedad de San Vicente de Paúl">751 Palm St., SLO</a>): 1pm solo con cita previa <!-- Source: https://fpcslo.org/assistance -->
 - **Cómo obtener el servicio:** sin cita en Prado, o llame para programar una cita en la Misión
 <!-- Nota: No dedicated website found for local chapter (as of October 2025) -->
 

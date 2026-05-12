@@ -1114,8 +1114,6 @@ It is a “commuter” bus, which means that it operates in the morning and even
 You can use the SLO RTA’s “Regional 31-Day Pass” on this line, but other SLO RTA passes will not work: you must pay for a separate Santa Maria Regional Transit pass. <!-- Source: https://www.slocity.org/Home/Components/News/News/11624/ -->
 
 Some service providers can give you a bus pass if you cannot afford to buy one.
-For example, [**Catholic Charities**](Directory.md#Catholic-Charities) <!-- SOURCE NEEDED (issue #55) -->
-and the [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) often have bus passes available to people who need them. <!-- SOURCE NEEDED (issue #55) -->
 Clients of [**Tri-Counties Regional Center**](Directory.md#Tri-Counties-Regional-Center) can get bus passes from them. <!-- SOURCE NEEDED (issue #55) -->
 The [**Family Care Network**](Directory.md#Family-Care-Network) can help you get a bus pass if you cannot afford one on your own (you may first need to get a referral from a [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services) Employment Resource Specialist). <!-- SOURCE NEEDED (issue #55) (mentioned briefly at https://fcni.org/partner-with-us/fam/) -->
 
@@ -1676,6 +1674,8 @@ The [**Community Health Centers**](Directory.md#CHC) offices in Nipomo, Paso Rob
 The American Academy of Ophthalmology maintains [a list of sources of free and low-cost eyeglasses](https://aao.org/eyecare-america/resources/eye-glasses).
 
 You can find a list of Medi-Cal opticians at [provdir.cencalhealth.org](https://provdir.cencalhealth.org/).
+
+The [**Society of St. Vincent de Paul**](Directory.md#Society-of-St-Vincent-de-Paul) can help you replace lost or broken eyeglasses. <!-- Flyer on SVdP office door, May 2026 -->
 
 ### <a id="mental-health">Mental Health</a>
 
