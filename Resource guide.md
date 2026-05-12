@@ -1498,7 +1498,7 @@ Bring your insurance card, identification, and a list of medications you take.
 | [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Yes      | No       |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | Yes      | No       |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Yes      | Yes      |
-| [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | ?        | ?        |
+| [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | No       | No       |
 | [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Yes      | No       |
 | [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | Yes      | No       |
 | [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | Yes      | Yes      |

@@ -2498,8 +2498,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Location:** <a href="#" class="map-link" data-lat="35.621268" data-lon="-120.690517" data-zoom="17" data-label="North County Care Minor Emergency Services">636 Spring St., Paso Robles</a> <!-- Source: https://www.yelp.com/biz/north-county-care-minor-emergency-services-paso-robles -->
 - **Phone:** [805-238-2422](tel:+1-805-238-2422) <!-- Source: https://www.yelp.com/biz/north-county-care-minor-emergency-services-paso-robles -->
 - **Hours:** M–F 10am–5pm <!-- Source: https://www.urgentcare.com/practice/U4378-north-county-care-minor-services-paso-robles-ca-93446 -->
-<!-- Dr. Boyce C. Kiger, NPI 1518003227; not listed in CenCal provider directory -->
-<!-- Note: Unable to verify insurance acceptance including Medicare/Medi-Cal through online research (October 2025) -->
+<!-- Cash-only; does not accept insurance (source: phone call 12-May-2026) -->
 
 ## <a id="North-County-Family-Resource-Center">North County Family Resource Center</a>
 

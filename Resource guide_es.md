@@ -1495,7 +1495,7 @@ Traiga su tarjeta de seguro, identificación y una lista de los medicamentos que
 | [**Urgent Care of Morro Bay**](Directory.md#Urgent-Care-of-Morro-Bay)                               | Sí       | No       |
 | [**Carbon Health Urgent Care**](Directory.md#Carbon-Health-Urgent-Care-Paso-Robles) (Paso Robles)   | Sí       | No       |
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Paso Robles)                 | Sí       | Sí       |
-| [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | ?        | ?        |
+| [**North County Care Minor Emergency Services**](Directory.md#North-County-Care) (Paso Robles)      | No       | No       |
 | [**Dignity Health Urgent Care**](Directory.md#Dignity-Health-Urgent-Care) (Pismo Beach)             | Sí       | No       |
 | [**Urgent Care Pismo Beach**](Directory.md#Urgent-Care-Pismo-Beach)                                 | Sí       | No       |
 | [**Cottage Urgent Care**](Directory.md#Cottage-Urgent-Care) (SLO)                                   | Sí       | Sí       |
