@@ -1338,6 +1338,9 @@ You do not have to be staying overnight there to use the laundry facilities. <!-
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the laundry facility at its Paso Robles location every Wednesday from 10am–6pm, at which outreach clients can do a single load of laundry for free (they provide detergent). <!-- Source: https://www.echoshelter.org/pasorobles -->
 
+[**805 Street Outreach**](Directory.md#805-Street-Outreach) offers free laundry service from a mobile trailer in Morro Bay every Monday. <!-- Source: https://www.ksby.com/morro-bay/805-street-outreach-expands-services-to-include-free-laundry -->
+They also have clothing, showers, and food for guests. <!-- Source: https://805streetoutreach.org/about-us -->
+
 [**Laundry Love**](Directory.md#Laundry-Love) operates at a Los Osos commercial laundry on the last Wednesday of the month (check their website for the latest schedule). <!-- Source: https://laundrylove.org/find-a-location/ -->
 They allow anyone to do two free loads of laundry (five loads for a family), plus bedding. <!-- Verified by email from Maureen Titus (12/14/25) -->
 They provide the coins to feed the machines and the laundry detergent and dryer sheets. <!-- Verified by email from Maureen Titus (12/14/25) -->
@@ -1354,7 +1357,7 @@ Guests also receive free toiletries, and new socks, underwear, and t-shirts. <!-
 They operate rain-or-shine all year long including holidays. <!-- Source: personal knowledge of program as volunteer -DG -->
 
 [**805 Street Outreach**](Directory.md#805-Street-Outreach) is a similar program that operates every Monday in Morro Bay. <!-- Source: https://805streetoutreach.org/about-us -->
-They also have clothing and food for guests. <!-- Source: https://805streetoutreach.org/about-us -->
+They also have clothing, laundry services, and food for guests. <!-- Source: https://805streetoutreach.org/about-us -->
 
 The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) in SLO city has shower facilities that it makes available to both its overnight and its day guests. <!-- e.g. https://capslo.org/40-prado-warming-center/ -->
 You do not have to be a resident there to use the showers. <!-- SOURCE NEEDED (issue #64) -->

@@ -1335,6 +1335,9 @@ No tiene que estar hospedándose allí para usar las instalaciones de lavanderí
 
 La [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) abre la instalación de lavandería en su ubicación de Paso Robles todos los miércoles de 10am–6pm, donde los clientes de extensión pueden lavar una carga de ropa gratis (ellos proporcionan el detergente). <!-- Source: https://www.echoshelter.org/pasorobles -->
 
+[**805 Street Outreach**](Directory.md#805-Street-Outreach) ofrece servicio de lavandería gratis desde un remolque móvil en Morro Bay todos los lunes. <!-- Source: https://www.ksby.com/morro-bay/805-street-outreach-expands-services-to-include-free-laundry -->
+También tienen ropa, duchas y comida para los huéspedes. <!-- Source: https://805streetoutreach.org/about-us -->
+
 [**Laundry Love**](Directory.md#Laundry-Love) opera en una lavandería comercial de Los Osos el último miércoles del mes (revise su sitio web para el horario más reciente). <!-- Source: https://laundrylove.org/find-a-location/ -->
 Permiten a cualquier persona hacer dos cargas de ropa gratis (cinco cargas para una familia), más ropa de cama. <!-- Verified by email from Maureen Titus (12/14/25) -->
 Proporcionan las monedas para las máquinas y el detergente para ropa y las hojas para la secadora. <!-- Verified by email from Maureen Titus (12/14/25) -->
@@ -1351,7 +1354,7 @@ Los huéspedes también reciben artículos de tocador gratis, y calcetines, ropa
 Operan llueva o haga sol todo el año incluyendo días festivos. <!-- Source: personal knowledge of program as volunteer -DG -->
 
 [**805 Street Outreach**](Directory.md#805-Street-Outreach) es un programa similar que opera todos los lunes en Morro Bay. <!-- Source: https://805streetoutreach.org/about-us -->
-También tienen ropa y comida para los huéspedes. <!-- Source: https://805streetoutreach.org/about-us -->
+También tienen ropa, servicios de lavandería y comida para los huéspedes. <!-- Source: https://805streetoutreach.org/about-us -->
 
 El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) en la ciudad de SLO tiene instalaciones de duchas que pone a disposición tanto de sus huéspedes que se quedan por la noche como de sus huéspedes de día. <!-- e.g. https://capslo.org/40-prado-warming-center/ -->
 No tiene que ser residente allí para usar las duchas. <!-- SOURCE NEEDED (issue #64) -->
