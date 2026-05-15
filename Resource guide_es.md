@@ -1195,6 +1195,7 @@ Sale de SLO a las 6am, llega a WLA a las 11:15am, sale de WLA a las 3:25pm y reg
 
 El programa [“Camino a la Recuperación”](https://www.cancer.org/support-programs-and-services/road-to-recovery.html) de [**American Cancer Society**](Directory.md#American-Cancer-Society) ofrece viajes gratuitos hacia y desde citas médicas relacionadas con el cáncer.
 Llame varios días antes de su cita para reservar su viaje. <!-- Source: https://www.cancer.org/support-programs-and-services/road-to-recovery.html -->
+El [**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) también puede ayudar a pacientes con cáncer del Condado de SLO con asistencia de transporte. <!-- Source: email from Shauna Soltero, May 2026 -->
 
 ### <a id="transportation-for-immigrants">Transporte para Inmigrantes</a>
 
@@ -1625,6 +1626,8 @@ El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#Califo
 El [**Central Coast Assistive Technology Center**](Directory.md#CCATC) le permite probar, y le ayuda a aprender a usar, tecnologías de asistencia incluyendo tecnologías de visión/audición y ergonomía. <!-- Source: https://ccatc.org/at-services/ -->
 También le ayudan a acceder a una biblioteca de préstamo sin costo de dispositivos de tecnología de asistencia ([myATprogram.org](https://myatprogram.org/)).
 
+El [**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) tiene un centro de apariencia/pelucas para pacientes con cáncer que han perdido el cabello durante el tratamiento oncológico. <!-- Source: email from Shauna Soltero, May 2026 -->
+
 [**PathPoint**](Directory.md#PathPoint) tiene una biblioteca de préstamo de dispositivos de tecnología de asistencia para personas con discapacidades del desarrollo. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) puede prestarle tecnología de asistencia como andadores y sillas de ruedas. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->
@@ -1761,6 +1764,22 @@ Pídale a su médico que lo refiera a ese programa. <!-- Source: https://capslo.
 
 ### <a id="medical-resources-specific-populations">Recursos Médicos para Poblaciones Específicas</a>
 
+#### Adolescentes y Jóvenes
+
+El programa [**Teen Wellness**](Directory.md#Teen-Wellness) de [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) incluye entrenamiento de salud, clases de fuerza, talleres de atención plena y educación sobre salud reproductiva. <!-- Source: https://capslo.org/teen-health-education/ -->
+
+#### Mujeres
+
+[**The Center for Health & Prevention**](Directory.md#The-Center) ofrece exámenes de senos, referencias para mamografías gratuitas, papanicolaou y servicios menopáusicos. <!-- Source: https://capslo.org/the-center/ -->
+
+Las oficinas de [**Community Health Centers**](Directory.md#CHC) en 1057 E. Grand Ave. en Arroyo Grande, en Nipomo, en 1551 Bishop St. en SLO y en 292 Posada Ln. en Templeton se especializan en salud de mujeres. <!-- Source: https://www.communityhealthcenters.org/locations/ -->
+
+<!-- Not listed here: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources
+[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers cervical- and breast-cancer screening and menopause treatment.
+-->
+
+[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una unidad móvil de salud para mujeres. <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
+
 #### Niños
 
 [**California Servicios para Niños**](Directory.md#California-Childrens-Services) paga y ayuda a organizar visitas al médico, estancias en el hospital, cirugías, terapia física, pruebas, equipo médico, etc. para niños y jóvenes cuyos padres de otro modo no podrían pagarlo. <!-- Source: https://www.dhcs.ca.gov/services/ccs/Pages/benefits.aspx -->
@@ -1780,6 +1799,11 @@ La necesidad debe estar documentada por un médico, y el niño debe estar cubier
 
 El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) da beneficios de alimentos a mujeres de bajos ingresos que han dado a luz recientemente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 Puede solicitar WIC en las oficinas de WIC del condado con cita previa, o visitando el [**SLO Food Bank**](Directory.md#SLO-Food-Bank) el tercer viernes del mes entre 1pm y 4pm.
+
+#### Pacientes con Cáncer
+
+El [**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) ofrece varios servicios sin costo para todos los pacientes con cáncer en el Condado de SLO.
+Estos incluyen navegación de pacientes por enfermeras y personal bilingüe, un dietista registrado, grupos de apoyo, programas de bienestar, un centro de apariencia/pelucas, asistencia de transporte y asistencia financiera.
 
 #### Personas con Diabetes
 
@@ -1827,22 +1851,6 @@ Pueden ayudarle con nutrición y servicios de comidas, transporte y gestión de 
 
 El [**Centro de Proyectos de Salud**](Directory.md#Health-Projects-Center) ofrece un [Programa de Servicios Multipropósito para Personas Mayores](https://www.hpcn.org/mssp) (MSSP) para personas de 60 años o más que son elegibles para Medi-Cal. <!-- Source: https://www.hpcn.org/mssp -->
 Este programa ayuda a las personas mayores a vivir de forma independiente, ayudándoles a coordinar su atención médica y a obtener los servicios y suministros necesarios de transporte, nutrición y salud. <!-- Source: https://www.hpcn.org/mssp -->
-
-#### Adolescentes y Jóvenes
-
-El programa [**Teen Wellness**](Directory.md#Teen-Wellness) de [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) incluye entrenamiento de salud, clases de fuerza, talleres de atención plena y educación sobre salud reproductiva. <!-- Source: https://capslo.org/teen-health-education/ -->
-
-#### Mujeres
-
-[**The Center for Health & Prevention**](Directory.md#The-Center) ofrece exámenes de senos, referencias para mamografías gratuitas, papanicolaou y servicios menopáusicos. <!-- Source: https://capslo.org/the-center/ -->
-
-Las oficinas de [**Community Health Centers**](Directory.md#CHC) en 1057 E. Grand Ave. en Arroyo Grande, en Nipomo, en 1551 Bishop St. en SLO y en 292 Posada Ln. en Templeton se especializan en salud de mujeres. <!-- Source: https://www.communityhealthcenters.org/locations/ -->
-
-<!-- Not listed here: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/patient-resources
-[**Planned Parenthood**](Directory.md#Planned-Parenthood) offers cervical- and breast-cancer screening and menopause treatment.
--->
-
-[**La Fundación SLO Noor**](Directory.md#SLO-Noor-Foundation) tiene una unidad móvil de salud para mujeres. <!-- Source: https://www.slonoorfoundation.org/womensmobilehealthunit -->
 
 ### <a id="poison-oak">Roble Venenoso</a>
 
@@ -3633,7 +3641,7 @@ Estos son algunos de ellos:
 
 El [Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) en Arroyo Grande también alberga [grupos de apoyo para el cáncer](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) incluyendo grupos en persona para personas con cáncer de seno y para cáncer oral, de cabeza y cuello y varios otros grupos que se reúnen en línea.
 
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) alberga varios grupos de apoyo en el [Hearst Cancer Resource Center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center).
+El [**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) alberga varios grupos de apoyo.
 Estos incluyen grupos [para pacientes con cáncer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) y [cáncer avanzado](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), y grupos para personas con tipos específicos de cáncer, como cánceres de la [sangre](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [seno](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf) o [próstata](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
 Para registrarse, llame al HCRC al [805-542-6234](tel:+1-805-542-6234) o envíe un correo electrónico a [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
 

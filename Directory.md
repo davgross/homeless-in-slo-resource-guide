@@ -1617,6 +1617,15 @@
    - offers [**Enhanced Care Management**](#Enhanced-Care-Management) <!-- Source: https://www.hpcn.org/ecm -->
    - offers “Multipurpose Senior Services Program” <!-- Source: https://www.hpcn.org/mssp -->
 
+## <a id="Hearst-Cancer-Resource-Center">Hearst Cancer Resource Center</a>
+
+- **Website:** [dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center)
+- **Location:** <a href="#" class="map-link" data-lat="35.277817" data-lon="-120.649555" data-zoom="17" data-label="Hearst Cancer Resource Center">1941 Johnson Ave., SLO</a>
+- **Phone:** [805-542-6234](tel:+1-805-542-6234)
+- **Email:** [hcrc@commonspirit.org](mailto:hcrc@commonspirit.org)
+- **Hours:** M–F 9am–4:30pm
+- **How to access:** Contact them directly to access services; a referral is not required. Programs are available to all cancer patients living in or receiving treatment in SLO County, regardless of who is your health care provider or what your insurance status is.
+
 ## <a id="Help-Hope-Live">Help Hope Live</a>
 
 - **Website:** [helphopelive.org](https://helphopelive.org/)
