@@ -2426,7 +2426,7 @@ You can also ask for more information by email at [litc@calpoly.edu](mailto:litc
 > See the [Advance Directives](#advance-directives) section of this guide for help on how to make legally-binding advance directives such as Advance Care Directives, Healthcare Power of Attorney, Physician Orders for Life-Sustaining Treatment (POLST), Do Not Resuscitate (DNR) orders, and organ donation authorizations.
 
 The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) enforces California’s laws against certain forms of discrimination in employment, housing, business, and services, and against hate crimes and human trafficking. <!-- Source: https://calcivilrights.ca.gov/ -->
-If you believe you have been treated illegally in ways like these, you can [file a discrimination complaint](https://calcivilrights.ca.gov/complaintprocess/), [report a hate crime](https://stophate.calcivilrights.ca.gov/s/) with them and request that they investigate.
+If you believe you have been treated illegally in ways like these, you can [file a discrimination complaint](https://calcivilrights.ca.gov/complaintprocess/) or [report a hate crime](https://stophate.calcivilrights.ca.gov/s/) with them and request that they investigate.
 
 The Americans with Disabilities Act protects people who have disabilities from discrimination. <!-- Source: https://www.ada.gov/ -->
 The [ada.gov](https://www.ada.gov/) website explains this Act and how you can enforce your rights under it. <!-- Source: https://www.ada.gov/ -->
@@ -4034,7 +4034,7 @@ The following table shows how you can submit such complaints online:
 
 ### <a id="reporting-crimes">Reporting Crimes</a>
 
-To report a crime in process, or a crime where you know who committed it, you should contact the local police department (in a city) or the sheriff (outside city limits).
+To report a crime in progress, or a crime where you know who committed it, you should contact the local police department (in a city) or the sheriff (outside city limits).
 Calling [911](tel:+1-911) is the best way of reporting an emergency or a crime in progress.
 In non-emergency situations, you can call the police or sheriff departments directly:
 

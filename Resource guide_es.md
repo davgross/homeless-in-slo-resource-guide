@@ -2423,7 +2423,7 @@ También puede solicitar más información por correo electrónico a [litc@calpo
 > Vea la sección de [Directivas Anticipadas](#advance-directives) de esta guía para ayuda sobre cómo hacer directivas anticipadas legalmente vinculantes como Directivas Anticipadas de Atención Médica, Poder Legal de Atención Médica, Órdenes Médicas para Tratamiento de Soporte Vital (POLST), órdenes de No Reanimar (DNR) y autorizaciones de donación de órganos.
 
 El [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) hace cumplir las leyes de California contra ciertas formas de discriminación en empleo, vivienda, negocios y servicios, y contra crímenes de odio y tráfico humano. <!-- Source: https://calcivilrights.ca.gov/ -->
-Si cree que ha sido tratado ilegalmente de maneras como estas, puede [presentar una queja de discriminación](https://calcivilrights.ca.gov/complaintprocess/), [reportar un crimen de odio](https://stophate.calcivilrights.ca.gov/s/) con ellos y solicitar que investiguen.
+Si cree que ha sido tratado ilegalmente de maneras como estas, puede [presentar una queja de discriminación](https://calcivilrights.ca.gov/complaintprocess/), o [reportar un crimen de odio](https://stophate.calcivilrights.ca.gov/s/) con ellos y solicitar que investiguen.
 
 La Ley de Estadounidenses con Discapacidades protege a personas que tienen discapacidades de la discriminación. <!-- Source: https://www.ada.gov/ -->
 El sitio web [ada.gov](https://www.ada.gov/) explica esta Ley y cómo puede hacer cumplir sus derechos bajo ella. <!-- Source: https://www.ada.gov/ -->
@@ -4032,7 +4032,7 @@ La siguiente tabla muestra cómo puede enviar dichas quejas en línea:
 
 ### <a id="reporting-crimes">Reportar Crímenes</a>
 
-Para reportar un crimen en proceso, o un crimen donde sabe quién lo cometió, debe contactar al departamento de policía local (en una ciudad) o al sheriff (fuera de los límites de la ciudad).
+Para reportar un crimen en curso, o un crimen donde sabe quién lo cometió, debe contactar al departamento de policía local (en una ciudad) o al sheriff (fuera de los límites de la ciudad).
 Llamar al [911](tel:+1-911) es la mejor manera de reportar una emergencia o un crimen en progreso.
 En situaciones que no son de emergencia, puede llamar directamente a los departamentos de policía o del sheriff:
 

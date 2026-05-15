@@ -1802,6 +1802,7 @@
 - **Website:** [sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156](https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156)
 - **Location:** El Morro Church of the Nazarene, <a href="#" class="map-link" data-lat="35.330593" data-lon="-120.822637" data-zoom="17" data-label="King’s Cupboard at El Morro Church">1480 Santa Ysabel, Bldg. A, Los Osos</a> <!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
 - **Phone:** [805-528-0391](tel:+1-805-528-0391) <!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
+- **Email:** [office@elmorro.org](mailto:office@elmorro.org) <!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
 - **Hours:** Tuesdays, 8–10am <!-- Source: https://sites.vivery.org/kings-cupboard-at-el-morro-church-pantry/los-osos-ca/2156 -->
 
 ## Kinship Center
