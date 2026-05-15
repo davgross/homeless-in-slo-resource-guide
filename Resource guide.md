@@ -1198,6 +1198,7 @@ It leaves SLO at 6am, arrives at WLA at 11:15am, leaves WLA at 3:25pm and return
 
 The [**American Cancer Society**](Directory.md#American-Cancer-Society)’s [“Road to Recovery”](https://www.cancer.org/support-programs-and-services/road-to-recovery.html) program offers free rides to and from cancer-related medical appointments.
 Call several days in advance of your appointment to reserve your ride. <!-- Source: https://www.cancer.org/support-programs-and-services/road-to-recovery.html -->
+[**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) also can help SLO County cancer patients with transportation assistance. <!-- Source: email from Shauna Soltero, May 2026 -->
 
 ### <a id="transportation-for-immigrants">Transportation for Immigrants</a>
 
@@ -1628,6 +1629,8 @@ The [**California Department of Rehabilitation**](Directory.md#California-Depart
 The [**Central Coast Assistive Technology Center**](Directory.md#CCATC) allows you to try, and helps you learn to use, assistive technologies including vision/hearing technologies and ergonomics. <!-- Source: https://ccatc.org/at-services/ -->
 They also help you access a no-cost lending library of assistive technology devices ([myATprogram.org](https://myatprogram.org/)).
 
+The [**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) has an appearance/wig center for cancer patients who have lost their hair during cancer therapy. <!-- Source: email from Shauna Soltero, May 2026 -->
+
 [**PathPoint**](Directory.md#PathPoint) has a lending library of assistive technology devices for people with developmental disabilities. <!-- Source: https://www.pathpoint.org/AssistiveTechnology/ -->
 
 [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People) can loan you assistive technology like walkers and wheelchairs. <!-- Source: https://southbayseniorspeoplehelpingpeople.com/services/ -->
@@ -1763,6 +1766,11 @@ The [**Recuperative Care Program**](Directory.md#Recuperative-Care-Program) give
 Ask your doctor to refer you to that program. <!-- Source: https://capslo.org/rcp/ -->
 
 ### <a id="medical-resources-specific-populations">Medical Resources for Specific Populations</a>
+
+#### Cancer Patients
+
+[**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) offers several no-cost services to all cancer patients in SLO County.
+These include nurse and bilingual patient navigation, a registered dietitian, support groups, wellness programs, an appearance/wig center, transportation assistance, and financial assistance.
 
 #### Children
 
@@ -3642,7 +3650,7 @@ To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jsc
 
 [Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) in Arroyo Grande also hosts [cancer support groups](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) including in-person groups for people with breast cancer and for oral, head, and neck cancer, and a number of other groups that meet online.
 
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts several support groups at the [Hearst Cancer Resource Center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center).
+The [**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) hosts several support groups.
 These include groups [for patients with cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) and [advanced cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), and groups for people with specific types of cancer, such as cancers of the [blood](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [breast](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf), or [prostate](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
 To register, call HCRC at [805-542-6234](tel:+1-805-542-6234) or email [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
 

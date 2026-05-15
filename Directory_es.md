@@ -1921,6 +1921,15 @@
 
 > *Vea [**HiCAP (programa de asesoría y apoyo en seguros de salud)**](#HiCAP)*
 
+## <a id="Hearst-Cancer-Resource-Center">Hearst Cancer Resource Center</a>
+
+- **Sitio web:** [dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center)
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.277817" data-lon="-120.649555" data-zoom="17" data-label="Hearst Cancer Resource Center">1941 Johnson Ave., SLO</a>
+- **Teléfono:** [805-542-6234](tel:+1-805-542-6234)
+- **Correo electrónico:** [hcrc@commonspirit.org](mailto:hcrc@commonspirit.org)
+- **Horario:** L–V 9am–4:30pm
+- **Cómo acceder:** Contáctelos directamente para acceder a los servicios; no se requiere derivación. Los programas están disponibles para todos los pacientes con cáncer que viven en el Condado de SLO o reciben tratamiento allí, sin importar quién sea su proveedor de atención médica ni cuál sea su situación de seguro.
+
 ## <a id="Help-Hope-Live">Help Hope Live</a>
 
 - **Sitio web:** [helphopelive.org](https://helphopelive.org/)
