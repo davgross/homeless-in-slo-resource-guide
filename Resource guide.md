@@ -1790,7 +1790,7 @@ The child must be 16 or younger, with a U.S. social security number. <!-- Source
 The need must be documented by a physician, and the child must be covered by commercial health insurance. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
 
 The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program gives food benefits to low-income women who have recently given birth. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-You can apply for WIC at the county WIC offices by appointment, or by visiting the [**SLO Food Bank**](Directory.md#SLO-Food-Bank) on the third Friday of the month between 1pm and 4pm.
+You can apply for WIC at the county WIC offices by appointment.
 
 #### People with Diabetes
 

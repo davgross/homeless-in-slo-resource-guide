@@ -1798,7 +1798,7 @@ El niño debe tener 16 años o menos, con un número de seguro social de EE.UU. 
 La necesidad debe estar documentada por un médico, y el niño debe estar cubierto por un seguro médico comercial. <!-- Source: https://www.uhccf.org/apply-for-a-grant/ -->
 
 El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) da beneficios de alimentos a mujeres de bajos ingresos que han dado a luz recientemente. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-Puede solicitar WIC en las oficinas de WIC del condado con cita previa, o visitando el [**SLO Food Bank**](Directory.md#SLO-Food-Bank) el tercer viernes del mes entre 1pm y 4pm.
+Puede solicitar WIC en las oficinas de WIC del condado con cita previa.
 
 #### Pacientes con Cáncer
 
