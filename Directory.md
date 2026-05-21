@@ -2330,7 +2330,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Website:** [slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-(misp)](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-%28misp%29)
 - **Location:** <a href="#" class="map-link" data-lat="35.274671" data-lon="-120.646514" data-zoom="17" data-label="Medically Indigent Services Program">2180 Johnson Ave., SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-(misp) -->
-- **Phone:** [805-781-5500](tel:+1-805-781-5500) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-(misp) -->
+- **Phone:** [805-781-4838](tel:+1-805-781-4838) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-(misp) -->
 - **Hours:** M–F 8am–5pm (closed Noon–1pm) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-(misp) -->
 
 ## <a id="MedStop">MedStop</a>
