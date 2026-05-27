@@ -874,7 +874,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | SLO            | [**Veterans Services**](Directory.md#Veterans-Services) (for veterans only)                                                                            | daily 8am–5pm |
 | SLO            | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                                                                          | Wednesdays 9:30–11:30am |
 
-[City Farm](https://www.cityfarmslo.org/) in SLO city has a [“Pay-What-You-Can” Farm Stand](https://www.cityfarmslo.org/farmstand) on Saturdays from 10am–1pm at <a href="#" class="map-link" data-lat="35.251980" data-lon="-120.679901" data-zoom="17" data-label="City Farm">1221 Calle Joaquin</a>.
+[City Farm](https://www.cityfarmslo.org/) in SLO city has a [“Pay-What-You-Can” Farm Stand](https://www.cityfarmslo.org/farmstand) on Wednesdays from 2:30pm–6:30pm and Saturdays from 10am–1pm at <a href="#" class="map-link" data-lat="35.251980" data-lon="-120.679901" data-zoom="17" data-label="City Farm">1221 Calle Joaquin</a>.
 It gives you $30 off your purchase of fruits and vegetables (so your first $30 worth of fruits and vegetables are free).
 To use this offer, just ask them.
 (This offer does not apply to their other products like meats, bread, and cut flowers.)
