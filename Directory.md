@@ -2966,11 +2966,11 @@ If you see one listed here that is no longer in service, please use the feedback
 | Location | Phone | Food Pantry |
 | -------- | ----- | ----------- |
 | <a href="#" class="map-link" data-lat="35.276084" data-lon="-120.659073" data-zoom="17" data-label="Salvation Army">815 Islay St., SLO</a> <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | [805-544-2401](tel:+1-805-544-2401) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | W/F 10am–Noon, Th. 2–4pm <!-- Source: https://sanluisobispo.salvationarmy.org/ --> |
-| <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">1550 W. Branch St., Arroyo Grande</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-481-0278](tel:+1-805-481-0278) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | M/W/F 10am–2pm |
-| <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">711 Paso Robles St., Paso Robles</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-238-9591](tel:+1-805-238-9591) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | |
+| <a href="#" class="map-link" data-lat="35.130889" data-lon="-120.603205" data-zoom="17" data-label="Salvation Army">1550 W. Branch St., Arroyo Grande</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-481-0278](tel:+1-805-481-0278) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | M/W/F 10am–Noon |
+| <a href="#" class="map-link" data-lat="35.621917" data-lon="-120.685548" data-zoom="17" data-label="Salvation Army">711 Paso Robles St., Paso Robles</a> <!-- Source: https://www.salvationarmyusa.org/location-finder/ --> | [805-238-9591](tel:+1-805-238-9591) <!-- Source: https://sanluisobispo.salvationarmy.org/ --> | W 10am–11:30pm |
 <!-- These are (temporarily?) closed:
 | <a href="#" class="map-link" data-lat="35.473181" data-lon="-120.654509" data-zoom="17" data-label="Salvation Army">8420 El Camino Real, Atascadero</a> | [805-466-7201](tel:+1-805-466-7201) | |
-| <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">540 Quintana Rd., Morro Bay</a> | [805-772-7062](tel:+1-805-772-7062) | |
+| <a href="#" class="map-link" data-lat="35.369278" data-lon="-120.845871" data-zoom="17" data-label="Salvation Army">540 Quintana Rd., Morro Bay</a> | [805-772-7062](tel:+1-805-772-7062) | Tu/Th 1pm–3pm |
 -->
 
 - **How to access:** For the food pantry, you must live in the area and you must register with a photo ID on your first visit.
