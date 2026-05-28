@@ -3426,7 +3426,7 @@ Ofrecen servicios en inglés y español. <!-- SOURCE NEEDED (issue #36) -->
 El [SLO Children’s Museum](https://www.slocm.org/) está lleno de exhibiciones interactivas para niños de 2–10 años. <!-- Source: https://www.slocm.org/visit -->
 Si tiene “vivienda insegura” puede obtener un “City Play Pass” gratuito al museo de [**CAPSLO**](Directory.md#CAPSLO). <!-- Source: https://www.slocm.org/ -->
 Si tiene una tarjeta SNAP/EBT, también puede obtener hasta cuatro admisiones por $3 cada una. <!-- Source: https://www.slocm.org/visit -->
-Abierto Ju–L 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children’s Museum">1010 Nipomo St., SLO</a>. <!-- Source: https://www.slocm.org/ -->
+Abierto Mi–L 10am–4pm, <a href="#" class="map-link" data-lat="35.278932" data-lon="-120.666116" data-zoom="17" data-label="SLO Children’s Museum">1010 Nipomo St., SLO</a>. <!-- Source: https://www.slocm.org/ -->
 Para más información: [805-544-KIDS](tel:+1-805-544-5437) o [info@slocm.org](mailto:info@slocm.org). <!-- Source: https://www.slocm.org/ -->
 
 La [**Conexión de Recursos de Cuidado de Niños**](Directory.md#Child-Care-Resource-Connection) opera una [biblioteca de préstamo de juguetes](https://capslo.org/toylendinglibrary/).
