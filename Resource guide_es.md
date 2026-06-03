@@ -4143,9 +4143,10 @@ El sitio web de craigslist de SLO tiene [una sección de “cosas gratis”](htt
 > Vea [Ropa: Tiendas de Segunda Mano](#thrift-stores) para una lista de tiendas de segunda mano de bajo costo en el Condado de SLO. Muchas venden una variedad de bienes además de ropa.
 
 [**Habitat for Humanity ReStore**](Directory.md#Habitat-for-Humanity) vende materiales de construcción reciclados, suministros de construcción, muebles, electrodomésticos y decoración del hogar a precios bajos.
+Su tienda en la ciudad de SLO también tiene un [ReMaker Space](https://habitatslo.org/remaker-space/) donde puede construir y reparar cosas (si quiere usar sus herramientas eléctricas, debe tomar primero una clase de seguridad de cinco horas). <!-- Source: https://habitatslo.org/remaker-space/ -->
 
 [SLO MakerSpace](https://www.slomakerspace.com/) puede darle acceso a una variedad de herramientas–todo desde herramientas manuales básicas hasta cortadoras láser e impresoras 3D.
-Puede obtener una membresía gratuita de “pase de socio” (partner pass) a través de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries). <!-- Source: https://www.slomakerspace.com/get-making -->
+Puede obtener una membresía gratuita de “pase de socio” (partner pass) a SLO MakerSpace a través de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries). <!-- Source: https://www.slomakerspace.com/get-making -->
 Esto le permite acceder a algunas herramientas durante algunas horas de operación. <!-- Source: https://www.slomakerspace.com/get-making -->
 Para acceder a su conjunto completo de herramientas siempre, puede necesitar pagar por una membresía completa. <!-- Source: https://www.slomakerspace.com/get-making -->
 También necesitará asistir a una orientación general. <!-- Source: https://www.slomakerspace.com/get-making -->

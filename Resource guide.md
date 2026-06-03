@@ -4145,9 +4145,10 @@ The SLO craigslist website has [a “free stuff” section](https://slo.craigsli
 > See [Clothing: Thrift Stores](#thrift-stores) for a list of low-cost thrift stores in SLO County. Many sell a variety of goods other than clothing.
 
 [**Habitat for Humanity ReStore**](Directory.md#Habitat-for-Humanity) sells recycled construction materials, building supplies, furniture, appliances, and home décor at low prices.
+Their SLO city store also has a [ReMaker Space](https://habitatslo.org/remaker-space/) where you can build and repair things (if you want to use their power tools, you must take a five-hour safety class first). <!-- Source: https://habitatslo.org/remaker-space/ -->
 
 [SLO MakerSpace](https://www.slomakerspace.com/) can give you access to a variety of tools–everything from basic hand tools to laser cutters and 3D printers.
-You can get a free “partner pass” membership through [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries). <!-- Source: https://www.slomakerspace.com/get-making -->
+You can get a free “partner pass” membership to SLO MakerSpace through [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries). <!-- Source: https://www.slomakerspace.com/get-making -->
 This allows you to access some tools during some operating hours. <!-- Source: https://www.slomakerspace.com/get-making -->
 To access their full set of tools always, you may need to pay for a full membership. <!-- Source: https://www.slomakerspace.com/get-making -->
 You will also need to attend a general orientation. <!-- Source: https://www.slomakerspace.com/get-making -->
