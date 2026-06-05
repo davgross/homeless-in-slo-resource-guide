@@ -778,9 +778,7 @@
 - **Sitio web:** [calcivilrights.ca.gov](https://calcivilrights.ca.gov)
    - oficina de discriminación en la vivienda: [calcivilrights.ca.gov/housing](https://calcivilrights.ca.gov/housing/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="38.594598" data-lon="-121.497249" data-zoom="17" data-label="California Civil Rights Department">651 Bannon Street #200, Sacramento, CA 95811</a> <!-- Source: https://calcivilrights.ca.gov/ (closest regional office looks like Fresno) -->
-- **Teléfono:**
-   - [800-884-1684](tel:+1-800-884-1684) (voz) <!-- Source: https://calcivilrights.ca.gov/ -->
-   - [800-700-2320](tel:+1-800-700-2320) (TTY) <!-- Source: https://calcivilrights.ca.gov/ -->
+- **Teléfono:** [800-884-1684](tel:+1-800-884-1684) <!-- Source: https://calcivilrights.ca.gov/ -->
 - **Correo electrónico:** [contact.center@calcivilrights.ca.gov](mailto:contact.center@calcivilrights.ca.gov) <!-- Source: https://calcivilrights.ca.gov/ -->
 - **Cómo obtener el servicio:** a través de la plataforma en línea [California Civil Rights System](https://ccrs.calcivilrights.ca.gov/s/)
 
@@ -2441,7 +2439,7 @@
 - **Teléfono**
    - immediate crisis support: NAMI national helpline [800-950-6264](tel:+1-800-950-6264) (L–V 7am–3pm PT), o call/text 988
    - NAMI SLO County: [805-434-7220](tel:+1-805-434-7220) { Source: https://www.namislo.org/ }
-- **Correo electrónico:** [namisanluisobispo@gmail.com](mailto:namisanluisobispo@gmail.com) { Source: https://www.namislo.org/ }
+- **Correo electrónico:** [info@namislo.org](mailto:info@namislo.org) { Source: https://www.namislo.org/ }
    - support groups: [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) { Source: https://www.namislo.org/nami-support-groups }
 -->
 
