@@ -396,10 +396,8 @@
 - **Website:** [atascaderoseniorcenter.org](https://atascaderoseniorcenter.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.488783" data-lon="-120.667081" data-zoom="17" data-label="Atascadero Senior Center">5905 East Mall, Atascadero</a> <!-- Source: https://atascaderoseniorcenter.org/ -->
 - **Phone:** [805-466-4674](tel:+1-805-466-4674) <!-- Source: https://atascaderoseniorcenter.org/faq --> <!-- Source: https://atascaderoseniorcenter.org/ -->
-- **Email:**
-   - [seniorcitizensunitedinc@outlook.com](mailto:seniorcitizensunitedinc@outlook.com) <!-- Source: https://atascaderoseniorcenter.org/faq -->
-   - [seniorcenter93422@gmail.com](mailto:seniorcenter93422@gmail.com) <!-- Source: https://atascaderoseniorcenter.org/ -->
-- **Hours:** M 11am–1pm, Tu–F 11am–3pm (some activities at other times) <!-- Source: https://atascaderoseniorcenter.org/faq -->
+- **Email:** [seniorcenter93422@gmail.com](mailto:seniorcenter93422@gmail.com) <!-- Source: https://atascaderoseniorcenter.org/ -->
+- **Hours:** M–Sa 11am–3pm (some activities at other times) <!-- Source: https://atascaderoseniorcenter.org/faq -->
 - **How to access:** Most activities free for members ($2 for guests)<!-- Source: https://atascaderoseniorcenter.org/activities --> ; membership ($20/year minimum) open to people 50+
 - Notes:
    - A lunch site for [**Meals that Connect**](#Meals-that-Connect)
@@ -827,7 +825,7 @@
 - Notes:
    - Cal Poly DREAM Center contact: Vania Agama Ramirez
    - Cuesta Monarch DREAM Center: [805-546-3109](tel:+1-805-546-3109)
-   - Allan Hancock: [805-922-6966 x3177](tel:+1-805-922-6966;ext=3177)
+   - Allan Hancock: [805-922-6966 x3178](tel:+1-805-922-6966;ext=3178)
 
 ## <a id="Central-Coast-Commission-for-Senior-Citizens">Central Coast Commission for Senior Citizens</a>
 
@@ -948,7 +946,7 @@
 ## <a id="Child-Support-Services">Child Support Services</a>
 
 - **Website:** [slocounty.ca.gov/departments/child-support](https://www.slocounty.ca.gov/departments/child-support)
-- **Location:** <a href="#" class="map-link" data-lat="35.283704" data-lon="-120.658514" data-zoom="17" data-label="Child Support Services">1200 Monterey St., SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/child-support/contact-us -->
+- **Location:** <a href="#" class="map-link" data-lat="35.268064" data-lon="-120.666476" data-zoom="17" data-label="SLO County Child Support Services">277 South St. #R, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/child-support/contact-us -->
 - **Phone:** [866-901-3212](tel:+1-866-901-3212) <!-- Source: https://www.slocounty.ca.gov/departments/child-support/contact-us -->
 - **Email:** [css@co.slo.ca.us](mailto:css@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/child-support/contact-us -->
 - **Hours:** M–F 8am–4:30pm <!-- Source: https://www.slocounty.ca.gov/departments/child-support/contact-us -->
