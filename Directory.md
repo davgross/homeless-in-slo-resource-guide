@@ -592,8 +592,8 @@
 - **Location:** <a href="#" class="map-link" data-lat="35.298148" data-lon="-120.660616" data-zoom="17" data-label="Cal Poly Food Pantry">Cal Poly campus, building 27, room 10</a> <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
 - **Phone:** [805-756-7818](tel:+1-805-756-7818) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
 - **Hours:**
-   - M–F 8:30am–6pm (Cal Poly students) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
-   - F 8:30am–6pm (Cal Poly employees) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
+   - M–F 8:30am–5pm (Cal Poly students) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
+   - F 8:30am–5pm (Cal Poly employees) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
 - **How to access:** all Cal Poly students and employees welcome; no additional eligibility requirements <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
 
 ## <a id="CalWORKs">CalWORKs Homeless Assistance Program</a>
