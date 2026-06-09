@@ -2277,9 +2277,9 @@
 
 - **Sitio web:** [luminaalliance.org](https://luminaalliance.org/)
 - **Ubicaciones:**
-   - <a href="#" class="map-link" data-lat="35.116240" data-lon="-120.615517" data-zoom="17" data-label="Lumina Alliance">555 S. 13th St. #B, Grover Beach</a> (con cita previa)
+   - <a href="#" class="map-link" data-lat="35.1164955" data-lon="-120.6151765" data-zoom="17" data-label="Lumina Alliance">555 S. 13th St. #B, Grover Beach</a> (con cita previa)
    - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="Lumina Alliance">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://luminaalliance.org/contact --> (9am–5pm)
-   - <a href="#" class="map-link" data-lat="35.251244" data-lon="-120.673442" data-zoom="17" data-label="Lumina Alliance">51 Zaca Ln. #150, SLO</a> <!-- Source: https://luminaalliance.org/contact --> (9am–5pm)
+   - <a href="#" class="map-link" data-lat="35.2511314" data-lon="-120.6736864" data-zoom="17" data-label="Lumina Alliance">51 Zaca Ln. #150, SLO</a> <!-- Source: https://luminaalliance.org/contact --> (9am–5pm)
 - **Teléfono:**
    - [805-545-8888](tel:+1-805-545-8888) (línea de crisis gratuita y confidencial las 24 horas) <!-- Source: https://luminaalliance.org/ -->
    - [805-781-6400](tel:+1-805-781-6400) (línea de negocios) <!-- Source: https://luminaalliance.org/contact -->
@@ -2437,7 +2437,7 @@
 - **Teléfono**
    - immediate crisis support: NAMI national helpline [800-950-6264](tel:+1-800-950-6264) (L–V 7am–3pm PT), o call/text 988
    - NAMI SLO County: [805-434-7220](tel:+1-805-434-7220) { Source: https://www.namislo.org/ }
-- **Correo electrónico:** [info@namislo.org](mailto:info@namislo.org) { Source: https://www.namislo.org/ }
+- **Correo electrónico:** [sarah@namislo.org](mailto:sarah@namislo.org) { Source: https://www.namislo.org/ }
    - support groups: [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) { Source: https://www.namislo.org/nami-support-groups }
 -->
 
