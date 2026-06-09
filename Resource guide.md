@@ -553,6 +553,8 @@ They also operate affordable rental housing developments and supportive housing 
 They serve low-income families, farmworkers, seniors, veterans, people with disabilities, and formerly-homeless people. <!-- Source: https://www.pshhc.org/rental-faq/#1603302191846-0d88dd41-feca -->
 Contact them directly to access the program. <!-- Source: https://www.pshhc.org/rental-faq/#1755192260681-29f97bf4-933c -->
 
+[**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that is operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city.
+
 Some other low-income options include:
 
 - [Roosevelt Family Apartments](https://www.rooseveltfamilyapts.com/) in Nipomo. <!-- SOURCE NEEDED -->
@@ -600,10 +602,6 @@ The projects in this subsection are not yet housing people but hope to do so soo
 - [46 Prado](https://capslo.org/46prado/)
 
 [**Waterman Village**](Directory.md#Waterman-Village) is a tiny home community in SLO city designed for low- to very-low-income residents, primarily single seniors.
-As of December 2025 the project is still under construction and is not admitting residents.
-
-[**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that will be operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city on county-owned land.
-Priority is given to Bob Jones Bike Trail encampment residents.
 As of December 2025 the project is still under construction and is not admitting residents.
 
 Restorative Partners is creating a [**Healing and Restoration Campus**](Directory.md#Healing-and-Restoration-Campus) near Laguna Lake in SLO, which is meant to have 34 private bedrooms and shared communal facilities.
