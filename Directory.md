@@ -1104,7 +1104,7 @@
 ## <a id="CES">Coordinated Entry System (CES)</a>
 
 - **How to access:**
-   - South County: Contact [**5Cities Homeless Coalition**](Directory#5CHC)
+   - South County: Contact [**5Cities Homeless Coalition**](#5CHC)
    - County-wide: Contact [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services)
    - Or initiate contact via other participating agencies like [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO), [**Transitions Mental Health Association (TMHA)**](#TMHA), [**Good Samaritan Shelter**](#Good-Samaritan-Shelter), [**SLO County Department of Social Services**](#SLO-County-Department-of-Social-Services), [**SLO County Health Department**](#SLO-County-Health-Department)
 - Notes:
