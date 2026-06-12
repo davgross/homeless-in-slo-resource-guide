@@ -2330,8 +2330,6 @@ A neutral mediator will be assigned to your case to help you resolve it.
 
 ### <a id="legal-self-help">Legal Self-Help / Law Libraries</a>
 
-<!-- Note: SLO County Small Claims Advisor has been discontinued -->
-
 If you need to research the law, legal precedents, and legal processes, you can visit the [**SLO County Law Library**](Directory.md#SLO-County-Law-Library), a free research library. <!-- Source: https://www.slocll.org/about-us-2/mission/ -->
 The library has thousands of print volumes and also has publicly-accessible computers at which you can access WestLaw, CEB OnLaw, NOLO Guides, Bell’s Compendium, and other electronic legal databases. <!-- Sources: https://www.slocll.org/library-resources/reference-materials/ and https://www.slocll.org/library-resources/amenities/ -->
 It also has tools with which you can create documents that conform to the standards of local courts. <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
@@ -2347,6 +2345,9 @@ If you are filing a family law case (for example divorce, child support, child c
 - the [small claims](https://www.slo.courts.ca.gov/self-help/small-claims) process
 
 The state of California’s [Small claims in California](https://selfhelp.courts.ca.gov/small-claims-california) web page is also a good introduction to the small claims process.
+
+You can get free information and assistance about small claims matters in SLO County from the [**Small Claims Advisor**](#SLO-County-Small-Claims-Advisor).
+They can help you if you are filing a claim, responding to a claim filed against you, preparing for your appearance in court, or collecting a judgment if your claim succeeds.
 
 The SLO Law Line ([805-548-8884](tel:+1-805-548-8884)) gives free basic legal advice to people who cannot afford an attorney, and can help you find additional legal assistance. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
 Call to make an appointment for a telephone consultation. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->

@@ -3403,14 +3403,19 @@ If you see one listed here that is no longer in service, please use the feedback
   You can also make an appointment to meet with the team by calling [805-540-0057](tel:+1-805-540-0057)
   <!-- L.O.T. Hours & locations verified from a flyer posted at the SLO city library on 22 Nov. 2025 -->
 
-<!-- Small Claims Advisor is closed according to https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions
 ## <a id="SLO-County-Small-Claims-Advisor">SLO County Small Claims Advisor</a>
 
-- **Location:** <a href="#" class="map-link" data-lat="35.282192" data-lon="-120.660230" data-zoom="17" data-label="SLO County Small Claims Advisor">County Government Center Room 223, SLO</a>
-- **Phone:** [805-781-5856](tel:+1-805-781-5856)
-- **Hours:** M–F 9am–12pm
-- **How to access:** no appointment necessary
--->
+- **Locations:**
+   - Paso Robles: <a href="#" class="map-link" data-lat="35.624257" data-lon="-120.690294" data-zoom="17" data-label="SLO Superior Court">SLO County Superior Court, 901 Park St., Paso Robles</a>
+   - SLO: <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="Small Claims Advisor">SLO County Superior Court, 1050 Monterey St., Third Floor, SLO</a>
+- **Phone:** [805-548-0678](tel:+1-805-548-0678)
+- **Hours:**
+   - Paso Robles: Th 9am–1pm
+   - SLO: Tu/We 9am–1pm
+- **Email:** [smallclaims@slolaf.org](mailto:smallclaims@slolaf.org)
+- **How to access:** make an appointment by using of these links:
+   - Paso Robles: [Calendly](https://calendly.com/smallclaims-slolaf/small-claims-paso-robles)
+   - SLO: [Calendly](https://calendly.com/smallclaims-slolaf/30min)
 
 ## <a id="SLO-County-UndocuSupport">SLO County UndocuSupport</a>
 

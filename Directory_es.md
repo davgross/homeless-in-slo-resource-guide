@@ -3424,14 +3424,19 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
   También puede hacer una cita para reunirse con el equipo llamando al [805-540-0057](tel:+1-805-540-0057)
   <!-- L.O.T. Hours & locations verified from a flyer posted at the SLO city library on 22 Nov. 2025 -->
 
-<!-- Small Claims Advisor is closed according to https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions
 ## <a id="SLO-County-Small-Claims-Advisor">SLO County Small Claims Advisor</a>
 
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.282192" data-lon="-120.660230" data-zoom="17" data-label="SLO County Small Claims Advisor">County Government Center Room 223, SLO</a>
-- **Teléfono:** [805-781-5856](tel:+1-805-781-5856)
-- **Horario:** L–V 9am–12pm
-- **Cómo obtener el servicio:** no es necesaria cita
--->
+- **Ubicaciones:**
+   - Paso Robles: <a href="#" class="map-link" data-lat="35.624257" data-lon="-120.690294" data-zoom="17" data-label="SLO Superior Court">SLO County Superior Court, 901 Park St., Paso Robles</a>
+   - SLO: <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="Small Claims Advisor">SLO County Superior Court, 1050 Monterey St., 3er piso, SLO</a>
+- **Teléfono:** [805-548-0678](tel:+1-805-548-0678)
+- **Horario:**
+   - Paso Robles: J 9am–1pm
+   - SLO: Ma/Mi 9am–1pm
+- **Correo electrónico:** [smallclaims@slolaf.org](mailto:smallclaims@slolaf.org)
+- **Cómo obtener el servicio:** puede hacer una cita usando uno de estos enlaces:
+   - Paso Robles: [Calendly](https://calendly.com/smallclaims-slolaf/small-claims-paso-robles)
+   - SLO: [Calendly](https://calendly.com/smallclaims-slolaf/30min)
 
 ## <a id="SLO-County-YMCA">SLO County YMCA</a>
 
