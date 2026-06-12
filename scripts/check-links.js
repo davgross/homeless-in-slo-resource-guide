@@ -43,6 +43,13 @@ const PROBLEMATIC_DOMAINS = [
   'x.com'
 ];
 
+// URLs that are known to be fine despite failing automated checks.
+// citizenserve.com returns an HTTP 404 with a client-side (JS) redirect
+// to the correct page, so it works in browsers but looks broken here.
+const KNOWN_GOOD_URLS = [
+  'https://www.citizenserve.com/arroyogrande'
+];
+
 // HTTP agent that ignores SSL certificate errors
 const httpsAgent = new https.Agent({
   rejectUnauthorized: false // Ignore SSL certificate errors
@@ -115,6 +122,10 @@ async function checkUrlWithGet(url, attempt = 1) {
  * Check a single URL
  */
 async function checkUrl(url) {
+  if (KNOWN_GOOD_URLS.includes(url)) {
+    return { url, status: 'ok', note: 'Known good URL (uses a client-side redirect that automated checks cannot follow)' };
+  }
+
   const isProblem = isProblematicDomain(url);
 
   try {
