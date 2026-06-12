@@ -2327,8 +2327,6 @@ Se asignará un mediador neutral a su caso para ayudarlo a resolverlo.
 
 ### <a id="legal-self-help">Autoayuda Legal / Bibliotecas de Derecho</a>
 
-<!-- Note: SLO County Small Claims Advisor has been discontinued -->
-
 Si necesita investigar la ley, precedentes legales y procesos legales, puede visitar la [**SLO County Law Library**](Directory.md#SLO-County-Law-Library), una biblioteca de investigación gratuita. <!-- Source: https://www.slocll.org/about-us-2/mission/ -->
 La biblioteca tiene miles de volúmenes impresos y también tiene computadoras de acceso público en las que puede acceder a WestLaw, CEB OnLaw, Guías NOLO, Compendio de Bell y otras bases de datos legales electrónicas. <!-- Sources: https://www.slocll.org/library-resources/reference-materials/ and https://www.slocll.org/library-resources/amenities/ -->
 También tiene herramientas con las que puede crear documentos que se ajustan a los estándares de las cortes locales. <!-- Source: https://www.slocll.org/library-resources/amenities/ -->
@@ -2344,6 +2342,9 @@ Si está presentando un caso de derecho familiar (por ejemplo divorcio, manutenc
 - el proceso de [reclamos menores](https://www.slo.courts.ca.gov/self-help/small-claims)
 
 La página web [Reclamos menores en California](https://selfhelp.courts.ca.gov/es/reclamos-menores-en-california) del estado de California también es una buena introducción al proceso de reclamos menores.
+
+Puede obtener información y ayuda gratuita sobre asuntos de reclamos menores en el Condado de SLO del [**Small Claims Advisor**](#SLO-County-Small-Claims-Advisor).
+Pueden ayudarle si está presentando un reclamo, respondiendo a un reclamo presentado en su contra, preparándose para su comparecencia en la corte, o cobrando un fallo a su favor.
 
 La Línea de Derecho de SLO ([805-548-8884](tel:+1-805-548-8884)) da consejos legales básicos gratuitos a personas que no pueden pagar un abogado, y puede ayudarle a encontrar asistencia legal adicional. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
 Llame para hacer una cita para una consulta telefónica. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
