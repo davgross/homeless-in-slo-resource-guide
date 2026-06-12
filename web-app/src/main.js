@@ -452,13 +452,13 @@ function transformTOCToLozenges(container) {
   const iconMap = {
     // English
     'Hotlines and Emergencies': '📞',
-    'Self-Advocacy': '🗣️',
+    'Self-Advocacy Tips': '🗣️',
     'Shelter & Housing': '🏠',
     'Property Storage': '📦',
     'Food': '🍴',
     'Water Refill': '💧',
     'Transportation': '🚌',
-    'Clothing': '👕',
+    'Clothes': '👕',
     'Laundry': '🧺',
     'Showers & Hygiene': '🚿',
     'Health & Medical Care': '⚕️',
