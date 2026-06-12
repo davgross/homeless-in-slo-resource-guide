@@ -3407,7 +3407,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Locations:**
    - Paso Robles: <a href="#" class="map-link" data-lat="35.624257" data-lon="-120.690294" data-zoom="17" data-label="SLO Superior Court">SLO County Superior Court, 901 Park St., Paso Robles</a>
-   - SLO: <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="Small Claims Advisor">SLO County Superior Court, 1050 Monterey St., 3rd Floor, SLO</a>
+   - SLO: <a href="#" class="map-link" data-lat="35.282680" data-lon="-120.660770" data-zoom="17" data-label="Small Claims Advisor">SLO County Superior Court, 1050 Monterey St., Third Floor, SLO</a>
 - **Phone:** [805-548-0678](tel:+1-805-548-0678)
 - **Hours:**
    - Paso Robles: Th 9am–1pm

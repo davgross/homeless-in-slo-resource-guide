@@ -2347,7 +2347,7 @@ If you are filing a family law case (for example divorce, child support, child c
 The state of California’s [Small claims in California](https://selfhelp.courts.ca.gov/small-claims-california) web page is also a good introduction to the small claims process.
 
 You can get free information and assistance about small claims matters in SLO County from the [**Small Claims Advisor**](#SLO-County-Small-Claims-Advisor).
-They can help you if you are filing a claim, responding to a claim filed against you, preparing for your appearance in court, or collecting a judgement if your claim succeeds.
+They can help you if you are filing a claim, responding to a claim filed against you, preparing for your appearance in court, or collecting a judgment if your claim succeeds.
 
 The SLO Law Line ([805-548-8884](tel:+1-805-548-8884)) gives free basic legal advice to people who cannot afford an attorney, and can help you find additional legal assistance. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
 Call to make an appointment for a telephone consultation. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
