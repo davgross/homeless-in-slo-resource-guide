@@ -789,7 +789,7 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 ### <a id="free-meals">Comidas Gratis</a>
 
 <!-- Sources
- ECHO, Refuge Church, PKGB, PKSLO (40 Prado): https://slofoodbank.org/wp-content/uploads/2025/11/ENG_December_DistributionResourceList.pdf
+ ECHO, Refuge Church, PKGB, PKSLO (40 Prado): https://slofoodbank.org/wp-content/uploads/2026/05/ENG_June26_Distribution-ResourceList.pdf
  Front Porch: https://www.frontporchslo.org/wednesday-night-dinners
  Los Osos Cares: https://www.losososcares.com/programs
  Morro Bay Lions: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/
@@ -803,12 +803,13 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 | Cal Poly     | [**Front Porch**](Directory.md#Front-Porch)                               | cena miércoles                |
 | Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)    | almuerzo mediodía diario      |
 | Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                         | 5pm miércoles                 |
-| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation) | 5:30pm lunes                  |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation) | 3:45pm lunes                  |
 | Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)           | 5pm diario                    |
 | SLO          | Hombres de [**Agape Church**](Directory.md#Agape-Church)                  | 11am la mayoría de los jueves |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                     | 5pm lunes y jueves            |
 | SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                         | 1pm domingos                  |
 | SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)            | almuerzo mediodía diario      |
+| SLO          | [**40 Prado Homeless Services Center**](Directory.md#40-Prado)            | 5pm diario                    |
 
 ### <a id="free-food-pantries">Despensas de Alimentos Gratis</a>
 
@@ -832,8 +833,8 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Arroyo Grande  | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                                                                        | viernes 12:45–1:30pm |
 | Arroyo Grande  | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church) (residentes de South County solamente; traiga identificación con foto)                   | martes–jueves 4–5pm |
 | Arroyo Grande  | [**Salvation Army**](Directory.md#Salvation-Army)                                                                                                      | lunes, miércoles, viernes 10am–mediodía |
-| Atascadero     | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                                                                          | jueves 1–2pm |
 | Atascadero     | “ALF” también conocida como [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero) (residentes de North County solamente)                  | lunes–viernes 1–3pm |
+| Atascadero     | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                                                                          | jueves 1–2pm |
 | Atascadero     | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                                                                                | martes 5–6pm y miércoles 6–6:30pm, o con cita |
 | Atascadero     | [**Restoration Church**](Directory.md#Restoration-Church)                                                                                              | primer sábado del mes 1–2:30pm |
 | Cal Poly       | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) (para estudiantes y personal de Cal Poly)                                               | lunes–viernes 8:30am–6pm |
@@ -851,11 +852,11 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Nipomo         | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket) (residentes de Nipomo solamente)                                                             | L/Ma/J/V 10am–1pm |
 | Nipomo         | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)                                                              | miércoles 7–8pm |
 | Nipomo         | Nipomo High School, <a href="#" class="map-link" data-lat="35.051900" data-lon="-120.486071" data-zoom="17" data-label="food pantry">525 N. Thompson Ave.</a> | segundo y cuarto martes, 4:30–6pm |
-| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College)                                                                                                      | lunes–viernes 9am–5pm |
+| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College) (debe ser estudiante de Cuesta)                                                                      | lunes–viernes 9am–5pm |
 | Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | lunes–jueves 2–4pm (o con cita) |
-| Paso Robles    | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (para personas mayores)                                                        | segundo y cuarto martes 9:30–11am |
 | Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (traiga identificación con foto)                                                                     | martes 10–11am |
-| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.641194" data-lon="-120.693955" data-zoom="17" data-label="The Link">665 26th St.</a>, [805-503-9638](tel:+1-805-503-9638) | L–J 9am–3pm; V 9am–1pm |
+<!-- Cerrando temporalmente en julio de 2026; no se sabe cuándo regresará
+| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.641194" data-lon="-120.693955" data-zoom="17" data-label="The Link">665 26th St.</a>, [805-503-9638](tel:+1-805-503-9638) | L–J 9am–3pm; V 9am–1pm | -->
 | Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visita por hogar por semana; traiga identificación con foto)                      | Ma 6–7:30pm, Mi 10am–mediodía, J 1:30–3:30pm |
 | San Miguel     | Lillian Larsen Elementary School, <a href="#" class="map-link" data-lat="35.757416" data-lon="-120.697389" data-zoom="17" data-label="food pantry">1601 L. St.</a> | segundo y cuarto miércoles, 4:30–6pm |
 | SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | domingos mediodía–12:30pm |

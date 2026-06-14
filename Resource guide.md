@@ -789,7 +789,7 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 ### <a id="free-meals">Free Meals</a>
 
 <!-- Sources
- ECHO, Refuge Church, PKGB, PKSLO (40 Prado): https://slofoodbank.org/wp-content/uploads/2025/11/ENG_December_DistributionResourceList.pdf
+ ECHO, Refuge Church, PKGB, PKSLO (40 Prado): https://slofoodbank.org/wp-content/uploads/2026/05/ENG_June26_Distribution-ResourceList.pdf
  Front Porch: https://www.frontporchslo.org/wednesday-night-dinners
  Los Osos Cares: https://www.losososcares.com/programs
  Morro Bay Lions: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/
@@ -803,12 +803,13 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 | Cal Poly     | [**Front Porch**](Directory.md#Front-Porch)                                | Wednesday dinner              |
 | Grover Beach | [**People’s Kitchen (Grover Beach)**](Directory.md#Peoples-Kitchen-GB)     | noon lunch daily              |
 | Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                          | 5pm Wednesdays                |
-| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 5:30pm Mondays                |
-| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm daily                  |
+| Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation)  | 3:45pm Mondays                |
+| Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)            | 5pm daily                     |
 | SLO          | Men of [**Agape Church**](Directory.md#Agape-Church)                       | 11am most Thursdays           |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                      | 5pm Mondays & Thursdays       |
 | SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                          | 1pm Sundays                   |
 | SLO          | [**People’s Kitchen (SLO)**](Directory.md#Peoples-Kitchen-SLO)             | noon lunch daily              |
+| SLO          | [**40 Prado Homeless Services Center**](Directory.md#40-Prado)             | 5pm daily                     |
 
 ### <a id="free-food-pantries">Free Food Pantries</a>
 
@@ -832,8 +833,8 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Arroyo Grande  | [**Nipomo Community Presbyterian**](Directory.md#Nipomo-Community-Presbyterian)                                                                        | Fridays 12:45–1:30pm |
 | Arroyo Grande  | [**Saint Patrick’s Church**](Directory.md#St-Patricks-Church) (South County residents only; bring photo ID)                                            | Tuesday–Thursday 4–5pm |
 | Arroyo Grande  | [**Salvation Army**](Directory.md#Salvation-Army)                                                                                                      | Mondays, Wednesdays, Fridays 10am–Noon |
-| Atascadero     | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                                                                          | Thursdays 1–2pm |
 | Atascadero     | “ALF” a.k.a. [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Atascadero) (North County residents only)                                          | Monday–Friday 1–3pm |
+| Atascadero     | [**Legacy Church Pantry**](Directory.md#Legacy-Church-Pantry)                                                                                          | Thursdays 1–2pm |
 | Atascadero     | [**Refuge Church (Atascadero)**](Directory.md#Refuge-Church-Atascadero)                                                                                | Tuesday 5–6pm & Wednesday 6–6:30pm, or by appt. |
 | Atascadero     | [**Restoration Church**](Directory.md#Restoration-Church)                                                                                              | first Saturday of the month 1–2:30pm |
 | Cal Poly       | [**Cal Poly Food Pantry**](Directory.md#Cal-Poly-Food-Pantry) (for Cal Poly students and staff)                                                        | Monday–Friday 8:30am–6pm |
@@ -851,11 +852,11 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Nipomo         | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket) (Nipomo residents only)                                                                      | M/Tu/Th/F 10am–1pm |
 | Nipomo         | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)                                                              | Wednesdays 7–8pm |
 | Nipomo         | Nipomo High School, <a href="#" class="map-link" data-lat="35.051900" data-lon="-120.486071" data-zoom="17" data-label="food pantry">525 N. Thompson Ave.</a> | second and fourth Tuesday, 4:30–6pm |
-| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College)                                                                                                      | Monday–Friday 9am–5pm |
+| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College) (must be a Cuesta student)                                                                           | Monday–Friday 9am–5pm |
 | Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | Monday–Thursday 2–4pm (or by appt.)|
-| Paso Robles    | [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) (for seniors)                                                                  | second & fourth Tuesday 9:30–11am |
 | Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (bring photo ID)                                                                                     | Tuesdays 10–11am |
-| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.641194" data-lon="-120.693955" data-zoom="17" data-label="The Link">665 26th St.</a>, [805-503-9638](tel:+1-805-503-9638) | M–Th 9am–3pm; F 9am–1pm |
+<!-- Temporarily closing July 2026; not sure when it will return
+| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.641194" data-lon="-120.693955" data-zoom="17" data-label="The Link">665 26th St.</a>, [805-503-9638](tel:+1-805-503-9638) | M–Th 9am–3pm; F 9am–1pm | -->
 | Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visit per household per week; bring photo ID)                                     | Tu 6–7:30pm, W 10am–Noon, Th 1:30–3:30pm |
 | San Miguel     | Lillian Larsen Elementary School, <a href="#" class="map-link" data-lat="35.757416" data-lon="-120.697389" data-zoom="17" data-label="food pantry">1601 L. St.</a> | second and fourth Wednesday, 4:30–6pm |
 | SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | Sundays Noon–12:30pm |
@@ -4168,7 +4169,7 @@ Here are some of these local guides:
 - [Community Support Services](https://5chc.org/community-services): a list of services available in southern SLO County, maintained by 5Cities Homeless Coalition
 - [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): SLO County Public Health Department Maternal and Child Health directory of resources
 - [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
-- [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): Faith LeGrande’s list that they put together while searching for help
+- [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): Faith LeGrande’s list that they assembled while searching for help
 - [Assistance Programs in SLO County](https://www.needhelppayingbills.com/html/san_luis_obispo_county_assista.html): from the “Need Help Paying Bills” website
 - [(TMHA) Helpful Links](https://www.t-mha.org/helpful-links.php): with a focus on resources having to do with mental health
 - [SLO County Behavioral Health Resource Center](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
