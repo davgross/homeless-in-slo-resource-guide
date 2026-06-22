@@ -855,8 +855,6 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College) (debe ser estudiante de Cuesta)                                                                      | lunes–viernes 9am–5pm |
 | Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | lunes–jueves 2–4pm (o con cita) |
 | Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (traiga identificación con foto)                                                                     | martes 10–11am |
-<!-- Cerrando temporalmente en julio de 2026; no se sabe cuándo regresará
-| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.641194" data-lon="-120.693955" data-zoom="17" data-label="The Link">665 26th St.</a>, [805-503-9638](tel:+1-805-503-9638) | L–J 9am–3pm; V 9am–1pm | -->
 | Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visita por hogar por semana; traiga identificación con foto)                      | Ma 6–7:30pm, Mi 10am–mediodía, J 1:30–3:30pm |
 | San Miguel     | Lillian Larsen Elementary School, <a href="#" class="map-link" data-lat="35.757416" data-lon="-120.697389" data-zoom="17" data-label="food pantry">1601 L. St.</a> | segundo y cuarto miércoles, 4:30–6pm |
 | SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | domingos mediodía–12:30pm |
@@ -872,6 +870,8 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | SLO            | [**Unitarian Universalists San Luis Obispo**](Directory.md#UUSLO) “We Care Food Share”                                                                 | miércoles 3–4:30pm |
 | SLO            | [**Veterans Services**](Directory.md#Veterans-Services) (solo para veteranos)                                                                          | diario 8am–5pm |
 | SLO            | [**Zion Lutheran Church**](Directory.md#Zion-Lutheran-Church)                                                                                          | miércoles 9:30–11:30am |
+<!-- Cerrando temporalmente en julio de 2026; no se sabe cuándo regresará
+| Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.641194" data-lon="-120.693955" data-zoom="17" data-label="The Link">665 26th St.</a>, [805-503-9638](tel:+1-805-503-9638) | L–J 9am–3pm; V 9am–1pm | -->
 
 [City Farm](https://www.cityfarmslo.org/) en la ciudad de SLO tiene un [puesto agrícola de pago a voluntad](https://www.cityfarmslo.org/farmstand) los sábados 10am–1pm en <a href="#" class="map-link" data-lat="35.251980" data-lon="-120.679901" data-zoom="17" data-label="City Farm">1221 Calle Joaquín</a>.
 Te ofrece $30 de descuento en la compra de frutas y verduras (así que tus primeros $30 en frutas y verduras son gratis).
