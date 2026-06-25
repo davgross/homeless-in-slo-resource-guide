@@ -1477,7 +1477,7 @@
       - [800-952-5544](tel:+1-800-952-5544) (voz) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
       - [916-324-1313](tel:+1-916-324-1313) (voz) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
       - [916-558-5673](tel:+1-916-558-5673) (TTY) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
-- **Cómo obtener el servicio:** No se aceptan visitas sin cita previa. Llámelos para programar una orientación o complete un formulario en su sitio web.
+- **Cómo obtener el servicio:** No se aceptan visitas sin cita previa. Llámelos para programar una orientación.
 - Notas:
    - Pueden derivarte al programa de “Supported Employment”
 
