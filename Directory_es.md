@@ -767,8 +767,8 @@
 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.119777" data-lon="-120.612577" data-zoom="17" data-label="Cabins for Change">Rockaway Ave. a 16th St. en Grover Beach</a>
 - **Teléfono:** [805-305-3031](tel:+1-805-305-3031) <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
-- **Text:** [805-634-9906](sms:+1-805-634-9906) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
-- **Correo electrónico:** [shelter@5chc.org](mailto:shelter@5chc.org) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
+- **Text:** [805-634-9906](sms:+1-805-634-9906) <!-- Source: https://forms.office.com/r/AHP82dRR1x -->
+- **Correo electrónico:** [shelter@5chc.org](mailto:shelter@5chc.org) <!-- Source: https://forms.office.com/r/AHP82dRR1x -->
 - **Cómo obtener el servicio:** Solicite a través de [**5Cities Homeless Coalition**](#5CHC) para entrar en la lista de espera
 
 ## <a id="California-Civil-Rights-Department">California Civil Rights Department</a>
@@ -2437,7 +2437,7 @@
 - **Teléfono**
    - immediate crisis support: NAMI national helpline [800-950-6264](tel:+1-800-950-6264) (L–V 7am–3pm PT), o call/text 988
    - NAMI SLO County: [805-434-7220](tel:+1-805-434-7220) { Source: https://www.namislo.org/ }
-- **Correo electrónico:** [sarah@namislo.org](mailto:sarah@namislo.org) { Source: https://www.namislo.org/ }
+- **Correo electrónico:** [info@namislo.org](mailto:info@namislo.org) { Source: https://www.namislo.org/ }
    - support groups: [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) { Source: https://www.namislo.org/nami-support-groups }
 -->
 

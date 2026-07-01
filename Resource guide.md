@@ -3188,8 +3188,6 @@ There is a financial assistance program to help you pay for tuition. <!-- SOURCE
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) offers a free [Food Services Program](https://ae.slcusd.org/culinary) that can prepare you for a career in the culinary industry.
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers skill-building, professional development, and college prep courses, at its [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
-
 [Alison.com](https://alison.com) offers free online courses in several fields of study, including vocational training and “soft skills.”
 You can get a certificate and/or diploma after completing a course of study, but this sometimes costs money (the course itself is free).
 Note that Alison.com is accredited in the United Kingdom, not the United States, which may affect how much these certificates and diplomas are respected by employers or colleges here. <!-- Source: https://alison.com/about/accreditation -->
@@ -3235,8 +3233,7 @@ If you have been in jail or prison and are reentering the community after doing 
 Computers are provided for use in class. <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform -->
 To register, submit [this online form](https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform).
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers free basic computer skills courses and courses in Amazon Web Services tools at its [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
-They also have a set of [video tutorials](https://my.nicheacademy.com/slolibrary) that include basic computer skills as well as guides to how to use several popular computer tools (like Gmail, Facebook, Microsoft Office, and Instagram).
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) offers a set of [video tutorials](https://my.nicheacademy.com/slolibrary) that include basic computer skills as well as guides to how to use several popular computer tools (like Gmail, Facebook, Microsoft Office, and Instagram).
 
 [**Goodwill Central Coast**](Directory.md#Goodwill) offers a variety of [digital literacy classes](https://www.ccgoodwill.org/digital-literacy-classes/).
 Contact them at [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwill.org) for details.
@@ -3272,8 +3269,7 @@ The free course is every Thursday from 5–8pm at the Oceano Learning Center, an
 You must be able to read and understand basic English. <!-- Source: https://adulted.luciamarschools.org/civics -->
 Register [online](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) or call them for more information.
 
-[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) gives you access to the [ProCitizen](https://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096) citizenship prep course, covering the civics, reading, and writing parts of the U.S. citizenship exam.
-Its [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program and [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) program also include some U.S. citizenship test preparation.
+[**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) gives you access to the [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) program and [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) program also include some U.S. citizenship test preparation.
 
 If you are a refugee from another country, you may be able to get some help with your education from [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ (vaguely described) -->
 

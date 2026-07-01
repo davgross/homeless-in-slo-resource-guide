@@ -3185,8 +3185,6 @@ Hay un programa de asistencia financiera para ayudarle a pagar la matrícula. <!
 
 [**San Luis Coastal Adult School**](Directory.md#San-Luis-Coastal-Adult-School) ofrece un [Programa de Servicios de Alimentos](https://ae.slcusd.org/culinary) gratuito que puede prepararle para una carrera en la industria culinaria.
 
-Las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) ofrecen cursos de desarrollo de habilidades, desarrollo profesional y preparación universitaria, en su [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
-
 [Alison.com](https://alison.com/es) ofrece cursos en línea gratuitos en varios campos de estudio, incluyendo capacitación vocacional y “habilidades blandas” (soft skills).
 Puede obtener un certificado y/o diploma después de completar un curso de estudio, pero esto a veces cuesta dinero (el curso en sí es gratuito).
 Tenga en cuenta que Alison.com está acreditado en el Reino Unido, no en los Estados Unidos, lo que puede afectar cuánto son respetados estos certificados y diplomas por empleadores o universidades aquí. <!-- Source: https://alison.com/about/accreditation -->
@@ -3232,8 +3230,7 @@ Si ha estado en la cárcel o prisión y está reingresando a la comunidad despu�
 Se proporcionan computadoras para usar en la clase. <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform -->
 Para registrarse, envíe [este formulario en línea](https://docs.google.com/forms/d/e/1FAIpQLSd0dB-A6zwwnTexekCxR4uoPS_QrnglZJ4fS4YwCgmaUSMFzw/viewform).
 
-Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) ofrecen cursos gratuitos de habilidades informáticas básicas y cursos en herramientas de Amazon Web Services en su [LearningExpress Library](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome).
-También tienen un conjunto de [tutoriales en video](https://my.nicheacademy.com/slolibrary) que incluyen habilidades informáticas básicas así como guías para cómo usar varias herramientas informáticas populares (como Gmail, Facebook, Microsoft Office e Instagram).
+Las [**Bibliotecas Públicas del Condado de SLO**](Directory.md#SLO-County-Public-Libraries) ofrecen un conjunto de [tutoriales en video](https://my.nicheacademy.com/slolibrary) que incluyen habilidades informáticas básicas así como guías para cómo usar varias herramientas informáticas populares (como Gmail, Facebook, Microsoft Office e Instagram).
 
 [**Goodwill Central Coast**](Directory.md#Goodwill) ofrece una variedad de [clases de alfabetización digital](https://www.ccgoodwill.org/digital-literacy-classes/).
 Contácteles en [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwill.org) para más detalles.
@@ -3270,8 +3267,7 @@ El curso gratuito es todos los jueves de 5–8pm en el Centro de Aprendizaje de 
 Debe poder leer y entender inglés básico. <!-- Source: https://adulted.luciamarschools.org/civics -->
 Regístrese [en línea](https://docs.google.com/forms/d/e/1FAIpQLScDFqtdG77YXPshx4OSOw8GaYUSudizOLA1JeYVb7UCC9l-Ag/viewform) o llámeles para más información.
 
-Las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) le dan acceso al curso de preparación para la ciudadanía [ProCitizen](https://learning.pronunciator.com/getstarted-procitizen-ES.php?library_id=18096), que cubre las partes de educación cívica, lectura y escritura del examen de ciudadanía de los Estados Unidos.
-Su programa [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) y el programa [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) también incluyen algo de preparación para el examen de ciudadanía de los Estados Unidos.
+Las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) le dan acceso al programa [Brainfuse HelpNow eLearning](https://landing.brainfuse.com/authenticate.asp?u=main.sloh.ca.brainfuse.com) y el programa [EBSCOlearning](https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/learningexpresslibrary/recursos-para-hispanohablantes/home/mejore-sus-habilidades-escritas-orales-y-gramaticales) también incluyen algo de preparación para el examen de ciudadanía de los Estados Unidos.
 
 Si es refugiado de otro país, puede obtener ayuda con su educación de [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ (vaguely described) -->
 

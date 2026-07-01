@@ -496,8 +496,8 @@
 
 - **Location:** <a href="#" class="map-link" data-lat="35.119777" data-lon="-120.612577" data-zoom="17" data-label="Cabins for Change">Rockaway Ave. at 16th St. in Grover Beach</a>
 - **Phone:** [805-305-3031](tel:+1-805-305-3031) <!-- Source: https://5chc.org/sites/default/files/2023-04/Cabins%20for%20Change%20FAQ%20v4%20041923_0.pdf -->
-- **Text:** [805-634-9906](sms:+1-805-634-9906) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
-- **Email:** [shelter@5chc.org](mailto:shelter@5chc.org) <!-- Source: https://docs.google.com/forms/d/e/1FAIpQLSe9lDYfIHfQtKA2PCDooeVcQ1dB2G56buFyZn7X_mwCAdxMEA/viewform -->
+- **Text:** [805-634-9906](sms:+1-805-634-9906) <!-- Source: https://forms.office.com/r/AHP82dRR1x -->
+- **Email:** [shelter@5chc.org](mailto:shelter@5chc.org) <!-- Source: https://forms.office.com/r/AHP82dRR1x -->
 - **How to access:** Apply through [**5Cities Homeless Coalition**](#5CHC) to get on waiting list
 
 ## <a id="California-Childrens-Services">California Children’s Services</a>
