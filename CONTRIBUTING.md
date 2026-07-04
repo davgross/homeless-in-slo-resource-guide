@@ -95,6 +95,7 @@ Here are some guidelines to help you craft your content for VivaSLO:
    - Use an em-dash (`—`) to separate phrases or to follow an inline heading.
    - Use unicode fractions (e.g. `½` rather than `1/2`).
    - Use curly-quotes and apostrophes (`‘ ’ “ ”` rather than `'` and `"`) and unicode-ellipses (`…` rather than `...`) in user-facing text.
+   - Typically, in a paragraph or other text context, spell out small numbers (zero through twelve) and use numerals for larger numbers (13 and up). However, use numerals for things like office numbers and addresses ("3 Main St., suite 7").
 1. **Create map links for physical locations.**
    When you mention a physical address or other location, add a hyperlink to it.
 

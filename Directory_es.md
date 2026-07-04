@@ -960,8 +960,9 @@
 - **Teléfono:**
    - principal: [805-541-9110](tel:+1-805-541-9110) <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
    - Paso Robles: [805-541-9120](tel:+1-805-541-9120) (para programar citas) <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
-   - Programa de inmigración y ciudadanía: [831-722-2675](tel:+1-831-722-2675)
-   - Programa de eliminación de tatuajes: [831-316-9121](tel:+1-831-316-9121) (Nota: oficina de eliminación de tatuajes está en Santa Cruz, no en SLO) <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
+   - asistencia con Medi-Cal: [831-233-3304](tel:+1-831-233-3304) <!-- Source: https://catholiccharitiesdom.org/family-supportive-services/medi-cal/ -->
+   - programa de inmigración y ciudadanía: [831-722-2675](tel:+1-831-722-2675)
+   - programa de eliminación de tatuajes: [831-316-9121](tel:+1-831-316-9121) (Nota: oficina de eliminación de tatuajes está en Santa Cruz, no en SLO) <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 - **Horario:**
    - Oficinas SLO: L–V 8am–5pm (llame para confirmar el horario de cada ubicación)
    - Paso Robles: segundo miércoles de cada mes, 1–5pm

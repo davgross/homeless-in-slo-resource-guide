@@ -707,6 +707,7 @@
    - Main: [805-541-9110](tel:+1-805-541-9110) <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
    - Paso Robles: [805-541-9120](tel:+1-805-541-9120) (to schedule appointments) <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
    - Immigration and Citizenship Program: [831-722-2675](tel:+1-831-722-2675)
+   - Medi-Cal help: [831-233-3304](tel:+1-831-233-3304) <!-- Source: https://catholiccharitiesdom.org/family-supportive-services/medi-cal/ -->
    - Tattoo Removal: [831-316-9121](tel:+1-831-316-9121) (Note: Tattoo removal office is in Santa Cruz, not SLO) <!-- Source: https://catholiccharitiesdom.org/tattoo-removal-program/ -->
 - **Hours:**
    - SLO offices: M–F 8am–5pm (call to confirm hours for specific location)
