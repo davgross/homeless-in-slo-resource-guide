@@ -2759,14 +2759,6 @@ If you see one listed here that is no longer in service, please use the feedback
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
-## <a id="Recovery-Dharma">Recovery Dharma</a>
-
-- **Website:** [recoverydharma.org](https://recoverydharma.org/)
-- **Location:** <a href="#" class="map-link" data-lat="35.242487" data-lon="-120.639987" data-zoom="17" data-label="Recovery Dharma">895 Aerovista Pl., SLO</a> ([**Aspire Counseling Service**](#Aspire-Counseling-Service))
-- **Email:** [tedrossini@gmail.com](mailto:tedrossini@gmail.com) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
-- **Phone:** [510-417-6162](tel:+1-510-417-6162) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
-- **Hours:** Sa. 3:00–4:00pm <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
-
 ## <a id="Recuperative-Care-Program">Recuperative Care Program</a>
 
 - **Website:** [capslo.org/rcp](https://capslo.org/rcp/)
@@ -3859,7 +3851,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - Notes:
    - operates “Refugee and Immigrant Services Education,” and “We Care Foodshare” <!-- Source: https://uuslo.org/care-for-our-neighbors -->
    - hosts [**Shower the People**](#Shower-the-People) on Tuesdays and Thursdays <!-- Source: https://uuslo.org/care-for-our-neighbors -->
-   - hosts [**Recovery Dharma**](#Recovery-Dharma)
 
 ## <a id="UnitedHealthcare-Childrens-Foundation">UnitedHealthcare Children’s Foundation</a>
 

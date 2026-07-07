@@ -326,7 +326,6 @@ Cooling centers open only during the day when the weather is unusually hot.
 They offer you an air-conditioned place where you can get out of the sun.
 It can be difficult to know on any particular day whether or not these centers are open, so it is a good idea to call ahead.
 
-- [This web page](https://www.emergencyslo.org/en/adverse-weather-centers.aspx) may show the current status of the county’s warming/cooling centers.
 - You can [register here](https://lp.constantcontactpages.com/sl/Jg4jVHc/warmingcenter) to receive notifications about the county’s warming centers.
 
 The SLO city warming/cooling center is at the [**40 Prado Homeless Services Center**](Directory.md#40-Prado).
@@ -1482,7 +1481,7 @@ Bring your insurance card, identification, and a list of medications you take.
 
 <!-- Sources:
  CHC: https://www.communityhealthcenters.org/patient-resources/payment/
- Dignity: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care
+ Dignity: https://www.commonspirit.org/services-specialties/urgent-care
  Carbon: https://support.carbonhealth.com/billing-and-insurance/paying-bills
  UCA, UCMB, UCPB: https://www.ccpnhpn.com/becoming-a-member/
  NCCMES: SOURCE NEEDED (Issue #27)
@@ -1609,7 +1608,7 @@ Dollar For offers its services free of charge. <!-- Source: https://dollarfor.or
 
 [**Access Central Coast**](Directory.md#Access-Central-Coast) helps you find and afford assistive devices like wheelchairs, canes, walkers, scooters, modified telephones, and speech-generating devices. <!-- Source: https://accesscentralcoast.org/our-services/ -->
 
-[**Alliance for Pharmaceutical Access**](Directory.md#APA) helps you get low-cost diabetic supplies (glucose test strips and meters, insulin syringes, etc.). <!-- Source: https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/alliance-for-pharmaceutical-access -->
+[**Alliance for Pharmaceutical Access**](Directory.md#APA) helps you get low-cost diabetic supplies (glucose test strips and meters, insulin syringes, etc.).
 
 [**Atascadero Senior Center**](Directory.md#Atascadero-Senior-Center), <!-- Source: https://atascaderoseniorcenter.org/ -->
 [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), <!-- Source: https://morrobayseniors.org/resources/ -->
@@ -1736,16 +1735,11 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers contrace
 ### <a id="pregnancy-childbirth-lactation">Pregnancy, Childbirth, Lactation</a>
 
 [**Adventist Health**](Directory.md#Adventist-Health-Sierra-Vista) ([805-434-4644](tel:+1-805-434-4644)) <!-- Source: https://www.adventisthealth.org/central-coast/events/ahtc-lactation-clinic-private-consultation -->
-and [**French Hospital**](Directory.md#French-Hospital-Medical-Center) ([805-541-2229](tel:+1-805-541-2229)) <!-- Source: https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/maternity/breastfeeding-support -->
-each offer free breastfeeding support by phone.
+offers free breastfeeding support by phone.
 
 [**The Center for Health and Prevention**](Directory.md#The-Center) offers pregnancy testing and counseling. <!-- Source: https://capslo.org/the-center/ -->
 
 [**Community Health Centers of the Central Coast**](Directory.md#CHC)’s 1057 E. Grand Ave. (Arroyo Grande), 1551 Bishop St. (SLO), and 292 Posada Ln. (Templeton) locations offer the Wellness Pregnancy Program / Comprehensive Perinatal Services Program. <!-- Source: https://www.communityhealthcenters.org/locations/ and sub-pages -->
-
-<!-- These classes are only for people delivering at French; they're not free to the general public
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts several [free classes](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) on pregnancy, childbirth, baby-care, and breast-feeding.
--->
 
 [**Planned Parenthood**](Directory.md#Planned-Parenthood) offers pregnancy testing and planning, and prenatal and postpartum services. <!-- Source: https://www.plannedparenthood.org/get-care/our-services -->
 
@@ -1796,9 +1790,6 @@ You can apply for WIC at the county WIC offices by appointment.
 [**Alliance for Pharmaceutical Access**](Directory.md#APA)
 and [**SLO Noor Foundation**](Directory.md#SLO-Noor-Foundation) <!-- SOURCE NEEDED (issue #74) -->
 can help you get low-cost diabetes supplies.
-
-[**Dignity Health**](Directory.md#Dignity-Health) leads a free diabetes support group on Zoom (internet video conferencing) and in-person every three months. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
-Call [805-597-6780](tel:+1-805-597-6780) or email [Angela.Fissell@commonspirit.org](mailto:Angela.Fissell@commonspirit.org) for details. <!-- Source: https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/diabetes-support-group -->
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers diabetes testing and care. <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
 
@@ -2030,8 +2021,6 @@ The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Admini
 ### <a id="twelve-step">12-Step and Similar Recovery Programs</a>
 
 [**Alcoholics Anonymous**](Directory.md#AA) is a peer-led sobriety and recovery program.
-[**Recovery Dharma**](Directory.md#Recovery-Dharma) is a similar, Buddhist-oriented program. <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
-
 [**Narcotics Anonymous**](Directory.md#Narcotics-Anonymous) is similar and helps you stop using other addictive drugs.
 [**Marijuana Anonymous**](Directory.md#Marijuana-Anonymous) is for marijuana specifically.
 
@@ -2100,7 +2089,7 @@ They also have a hospice program.<!-- https://aevumhospice.com/ ; unclear if the
 [**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) includes hospice nurse availability, nursing services, spiritual care, dietitian services, social work services, bereavement services, home health aides, trained volunteers, support groups, and musicians. <!-- Source: https://centralcoasthomehealth.com/index.php/hospice/ -->
 They accept Medicare. <!-- Source: https://centralcoasthomehealth.com/index.php/about-us/ -->
 
-[**Dignity Health**](Directory.md#Dignity-Health) has a Home Health and Hospice program that includes team-oriented medical care, symptom and pain management, and emotional and spiritual support tailored to patient needs. <!-- Source: https://www.dignityhealth.org/central-coast/services/home-health-hospice-and-infusion-services -->
+[**Dignity Health**](Directory.md#Dignity-Health) has a Home Health and Hospice program that includes team-oriented medical care, symptom and pain management, and emotional and spiritual support tailored to patient needs. <!-- Source: https://www.commonspirit.org/services-specialties/home-based-care -->
 They accept Medicare and Medi-Cal. <!-- SOURCE NEEDED -->
 They also have financial assistance programs that make hospice treatment free for people below 250% of the federal poverty level, and discounted for people below 400% of the federal poverty level (call [888-488-7667](tel:+1-888-488-7667) or [805-542-6321](tel:+1-805-542-6321) for details). <!-- Source: https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/billing-information/financial-assistance -->
 
@@ -3117,11 +3106,6 @@ To use that program, you need a referral from [**California Department of Rehabi
 
 [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) offers vocational rehabilitation services for people with disabilities, including job training, placement assistance, assistive technology, and education support. <!-- Source: https://www.dor.ca.gov/Home/EmploymentServices -->
 
-#### For People Released from Jail or Prison
-
-[**Restorative Partners**](Directory.md#Restorative-Partners) can help you build job experience after you are released from jail or prison. <!-- Source: https://restorativepartners.org/workforce-development/ -->
-They can also help you prepare for job interviews and to find supportive employers. <!-- Source: flyer posted at SLO Library -->
-
 #### For U.S. Military Veterans
 
 If you were not dishonorably discharged and if you have a service-connected disability rating of at least 10% from the Department of Veterans Affairs, you may be eligible for the Veteran Readiness & Employment (VR&E) program. <!-- Source: https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ -->
@@ -3644,16 +3628,8 @@ To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jsc
 
 **Cancer:** [Cancer Support Community](https://cscslo.org/) offers a variety of no-cost services for people with cancer, including health education and exercise classes, as well as several support groups, some of which meet in Templeton, some online.
 
-[Mission Hope Cancer Center](https://www.dignityhealth.org/central-coast/locations/marianregional/services/cancer-care) in Arroyo Grande also hosts [cancer support groups](https://www.dignityhealth.org/central-coast/locations/marianregional/classes-and-events/cancer-support-programs) including in-person groups for people with breast cancer and for oral, head, and neck cancer, and a number of other groups that meet online.
-
-The [**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) hosts several support groups.
-These include groups [for patients with cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/patients-with-cancer-support-group-4.pdf) and [advanced cancer](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/thriving-with-advanced-cancer-2024-1.pdf), and groups for people with specific types of cancer, such as cancers of the [blood](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf), [breast](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/breast-cancer-support-group-5.pdf), or [prostate](https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf).
-To register, call HCRC at [805-542-6234](tel:+1-805-542-6234) or email [HCRC@dignityhealth.org](mailto:HCRC@dignityhealth.org).
-
 **Caregivers:** The [Coast Caregiver Resource Center](https://www.cottagehealth.org/services/rehabilitation/caregiver-services/) has several support groups, some of which meet online, others in SLO or Morro Bay.
 They include groups for caregivers of people with dementia, for LGBTQ caregivers, for caregivers of Parkinson’s disease patients, and groups that are conducted in Spanish.
-
-**Diabetes:** [**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) hosts a quarterly [diabetes support group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/diabetes).
 
 **Mental illness:** The SLO County chapter of National Alliance on Mental Illness holds [support groups](https://www.namislo.org/nami-support-groups) for family members of people with mental health challenges, online, in Arroyo Grande, and in Atascadero, every month.
 Contact [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) for details.
@@ -3664,16 +3640,10 @@ They also have a variety of [in-person support groups](https://storage.googleapi
 **Parkinson’s disease:** The Central Coast Parkinson Association holds monthly in-person [support groups](https://www.myccpa.org/support-groups) in Atascadero, Morro Bay, Pismo Beach, and San Luis Obispo.
 They also hold a monthly, online support group, and a monthly in-person group in Paso Robles, for caregivers only.
 
-**Stroke:** [**Arroyo Grande Community Hospital**](Directory.md#Arroyo-Grande-Community-Hospital) hosts a monthly [stroke support group](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/stroke-support-groups).
 [**Adventist Health Sierra Vista**](Directory.md#Adventist-Health-Sierra-Vista) hosts a [hope for stroke survivors](https://www.stroke.org/en/stroke-groups/hope-for-stroke-survivors-ahsl) group for people who have had strokes and for their caregivers.
 Another [hope for stroke](https://www.stroke.org/en/stroke-groups/hope-for-stroke) group meets in Templeton.
 
 ### <a id="grief-peer-support">Grief</a>
-
-Hospice SLO operates a weekly, online Family Caregiver Support Group for SLO County residents that you can register for [at this page](https://hospiceslo.org/support-groups/family-caregiver-support-group-meets-weekly-on-zoom).
-They also have a Grief Support and Education group that meets [online](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom) and others that meet in person [in SLO city](https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-in-slo).
-They also have an in-person support group in SLO city specifically for people who are [grieving the loss of a spouse or partner](https://hospiceslo.org/support-groups/spouse-andor-partner-loss-support-and-education-group-meets-weekly-for-six-weeks-in).
-They occasionally hold [other support groups](https://hospiceslo.org/support-groups) as well.
 
 [**Central Coast Home Health and Hospice**](Directory.md#Central-Coast-Home-Health) facilitates [grief support groups](https://centralcoasthomehealth.com/index.php/support-groups/) weekly at the [**Morro Bay Senior Center**](Directory.md#Morro-Bay-Senior-Center), [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), and [**SLO Senior Center**](Directory.md#SLO-Senior-Center).
 Call [805-540-6020](tel:+1-805-540-6020) to speak with a bereavement counselor prior to attending.
@@ -3717,11 +3687,6 @@ The [**GALA Pride & Diversity Center**](Directory.md#GALA) maintains [a list of 
 - **Stand Out Parent Support Group**—for parents of LGBTQ+ youth; contact [email@galacc.org](mailto:email@galacc.org) for more information
 
 ### <a id="parenthood-peer-support">Pregnancy and Parenthood</a>
-
-[**French Hospital Medical Center**](Directory.md#French-Hospital-Medical-Center) operates the online weekly support group [“The Mommy Hour”](https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/maternity/maternal-emotional-wellness).
-To join, contact facilitator Wendy Beres at [wendy.beres@dignityhealth.org](mailto:wendy.beres@dignityhealth.org) or [805-541-2229](tel:+1-805-541-2229).
-They also host a [“Bellies and Babies”](https://www.dignityhealth.org/central-coast/locations/frenchhospital/classes-and-events/maternity-classes) weekly in-person support group.
-For more information call [805-542-6659](tel:+1-805-542-6659).
 
 There is a [Moms Club](https://momsclubofatascadero.weebly.com/) support group in Atascadero that also covers Templeton, Paso Robles, and San Miguel.
 Write to [atownmoms@gmail.com](mailto:atownmoms@gmail.com) for more information.
@@ -3901,11 +3866,11 @@ Epidemics, tsunamis, and hazardous materials releases can also happen.
 If you are homeless and sleeping outdoors, you can be especially vulnerable to such dangers.
 
 The [**SLO County Office of Emergency Services**](Directory.md#SLO-County-Office-of-Emergency-Services) has resources that can help you prepare for and respond to emergency situations.
-Their [ReadySLO.org](https://readyslo.org/) site includes the following sections:
+Their [ReadySLO.org](https://www.readyslo.org/) site includes the following sections:
 
-1. [PrepareSLO.org](https://www.prepareslo.org/)—how to prepare for the next emergency, how to learn your evacuation zone number, and how to understand emergency alerts
-1. [EmergencySLO.org](https://www.emergencyslo.org/)—information about ongoing emergencies, evacuation orders and warnings, evacuation shelters, and road closures
-1. [RecoverSLO.org](https://www.recoverslo.org/)—after an emergency, this page lists some ways to recover from it
+1. [SLO County Prepare](https://www.readyslo.org/prepare/)—how to prepare for the next emergency, how to learn your evacuation zone number, and how to understand emergency alerts
+1. [SLO County Emergency Information](https://www.readyslo.org/emergency/)—information about ongoing emergencies, evacuation orders and warnings, evacuation shelters, and road closures
+1. [SLO County Recover](https://www.readyslo.org/recover/)—after an emergency, this page lists some ways to recover from it
 
 You can register to get local emergency alerts by text message on your phone at [AlertSLO](https://public.alertsense.com/SignUp/?RegionId=1317).
 You can choose which sorts of alerts you are interested in receiving (for example “Flood / Flash Flood” and “Fire”). <!-- Source: https://public.alertsense.com/SignUp/publicUser.aspx?RegionId=1317 -->

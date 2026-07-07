@@ -2844,14 +2844,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 > *Vea [**Restorative Partners**](#Restorative-Partners)*
 
-## <a id="Recovery-Dharma">Recovery Dharma</a>
-
-- **Sitio web:** [recoverydharma.org](https://recoverydharma.org/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.242487" data-lon="-120.639987" data-zoom="17" data-label="Recovery Dharma">895 Aerovista Pl., SLO</a> ([**Aspire Counseling Service**](#Aspire-Counseling-Service))
-- **Correo electrónico:** [tedrossini@gmail.com](mailto:tedrossini@gmail.com) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
-- **Teléfono:** [510-417-6162](tel:+1-510-417-6162) <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
-- **Horario:** S 3:00–4:00pm <!-- Source: https://recoverydharma.org/meetings/rd-central-coast -->
-
 ## <a id="Recuperative-Care-Program">Recuperative Care Program</a>
 
 - **Sitio web:** [capslo.org/rcp](https://capslo.org/rcp/)
@@ -3858,7 +3850,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - Notas:
    - opera “Refugee and Immigrant Services Education” y “We Care Foodshare” <!-- Source: https://uuslo.org/care-for-our-neighbors -->
    - alberga [**Shower the People**](#Shower-the-People) los martes y los jueves <!-- Source: https://uuslo.org/care-for-our-neighbors -->
-   - alberga [**Recovery Dharma**](#Recovery-Dharma)
 
 ## <a id="UnitedHealthcare-Childrens-Foundation">UnitedHealthcare Children’s Foundation</a>
 
@@ -3947,7 +3938,6 @@ Hay varias opciones de atención de urgencias, incluyendo:
 ## Veterans Services Collaborative
 
 > *Vea [**San Luis Obispo Veterans Services Collaborative**](#SLO-Veterans-Services-Collaborative)*
--->
 
 ## <a id="Veterans-Services">Veterans Services (SLO County)</a>
 
@@ -3962,7 +3952,6 @@ Hay varias opciones de atención de urgencias, incluyendo:
 - **Cómo obtener el servicio:** Solo citas en persona y por teléfono; no se aceptan visitas sin cita; reserve citas [en línea](https://sanluisobispocountyveteransservices.as.me/schedule/970de54e) o por teléfono
 - Nota: la oficina de SLO tiene una pequeña [despensa de alimentos](https://www.slocounty.ca.gov/departments/veterans-services/veterans-services-food-pantry)
 
-<!-- Not referenced anywhere else
 ## <a id="Veterans-Transportation-Service">Veterans Transportation Service</a>
 
 - **Sitio web:** [vetride.va.gov](https://www.vetride.va.gov/)
