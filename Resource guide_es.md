@@ -2232,7 +2232,7 @@ Entre los temas con los que ayudan están la defensa de desalojo para inquilinos
 El [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) puede ayudarle a entender sus derechos a estar protegido de [discriminación de vivienda](https://calcivilrights.ca.gov/housing/) ilegal y también puede ayudarle a investigar y presentar quejas formales de discriminación. <!-- Source: https://calcivilrights.ca.gov/housing/ -->
 
 La organización de defensa de California [Tenants Together](https://tenantstogether.org/) ([info@tenantstogether.org](mailto:info@tenantstogether.org)) tiene una línea directa de derechos de inquilinos al [888-495-8020](tel:+1-888-495-8020) (texto [650-600-7821](sms:+1-650-600-7821?&body=HELPLINE)). <!-- Source: https://www.tenantstogether.org/tenant-rights-hotline -->
-También tienen un [Kit de Herramientas del Poder de Inquilinos](https://tenantpowertoolkit.org/) de autoayuda en línea para ayudarle a entender sus derechos como inquilino y cómo hacer cumplir esos derechos.
+También tienen un [Kit de Herramientas del Poder de Inquilinos](https://tenantpowertoolkit.org/es/) de autoayuda en línea para ayudarle a entender sus derechos como inquilino y cómo hacer cumplir esos derechos.
 
 El Departamento de Bienes Raíces de California publicó una [*Guía para Arrendatarios de California*](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf) que da una explicación detallada de la ley de California sobre inquilinos de propiedades de alquiler.
 
