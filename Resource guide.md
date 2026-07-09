@@ -2235,7 +2235,7 @@ Among the issues they help with are eviction defense for tenants, landlord/tenan
 The [**California Civil Rights Department**](Directory.md#California-Civil-Rights-Department) can help you understand your rights to be protected from illegal [housing discrimination](https://calcivilrights.ca.gov/housing/) and can also help you investigate and file formal discrimination complaints. <!-- Source: https://calcivilrights.ca.gov/housing/ -->
 
 The California advocacy organization [Tenants Together](https://tenantstogether.org/) ([info@tenantstogether.org](mailto:info@tenantstogether.org)) has a tenants’ rights hotline at [888-495-8020](tel:+1-888-495-8020) (text [650-600-7821](sms:+1-650-600-7821?&body=HELPLINE)). <!-- Source: https://www.tenantstogether.org/tenant-rights-hotline -->
-They also have an online self-help [Tenant Defense Toolkit](https://www.tenantstogether.org/covid-19-tenant-defense) to help you understand your rights as a renter and how to enforce those rights.
+They also have an online self-help [Tenant Power Toolkit](https://tenantpowertoolkit.org/) to help you understand your rights as a renter and how to enforce those rights.
 
 The California Department of Real Estate published a [*California Tenants’ Guide*](https://www4.courts.ca.gov/documents/California-Tenants-Guide.pdf) ([Español](https://www4.courts.ca.gov/documents/California-Tenants-Guide-Spanish.pdf)) which gives a detailed explanation of California law concerning tenants of rental properties.
 
