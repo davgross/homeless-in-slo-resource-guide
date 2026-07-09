@@ -1682,10 +1682,10 @@
 - **Phone:** [805-423-2957](tel:+1-805-423-2957) <!-- Source: https://hopesvillageofslo.com/ -->
 - **Email:** [beckyrjorgeson@yahoo.com](mailto:beckyrjorgeson@yahoo.com) <!-- Source: https://hopesvillageofslo.com/contact -->
 
-## <a id="Hospice-SLO">Hospice SLO</a>
+## <a id="Hospice-SLO">Hospice SLO County</a>
 
 - **Website:** [hospiceslo.org](https://hospiceslo.org/)
-- **Location:** Dorothy D. Rupe Center, <a href="#" class="map-link" data-lat="35.282539" data-lon="-120.655148" data-zoom="17" data-label="Hospice SLO">1304 Pacific St., SLO</a> <!-- Source: https://hospiceslo.org/ -->
+- **Location:** Dorothy D. Rupe Center, <a href="#" class="map-link" data-lat="35.282539" data-lon="-120.655148" data-zoom="17" data-label="Hospice SLO County">1304 Pacific St., SLO</a> <!-- Source: https://hospiceslo.org/ -->
 - **Phone:** [805-544-2266](tel:+1-805-544-2266) <!-- Source: https://hospiceslo.org/ -->
 - **Email:** [hospiceslo@hospiceslo.org](mailto:hospiceslo@hospiceslo.org) <!-- Source: https://hospiceslo.org/ -->
 - **Hours:** M–F 10am–4pm <!-- Source: https://hospiceslo.org/ -->

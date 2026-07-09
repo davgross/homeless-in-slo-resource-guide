@@ -2077,7 +2077,7 @@ Palliative care is medical treatment that aims to relieve pain and suffering, pe
 Hospice care is meant to make the process of dying less uncomfortable, and is meant for people who do not have realistic hopes of being cured and living long.
 Typically this means they are in their last six months of life.
 
-[**Hospice SLO**](Directory.md#Hospice-SLO) includes non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, and end-of-life companion support. <!-- Source: https://hospiceslo.org/ -->
+[**Hospice SLO County**](Directory.md#Hospice-SLO) includes non-medical volunteer support, grief counseling, support groups, in-home respite care, care management, and end-of-life companion support. <!-- Source: https://hospiceslo.org/ -->
 All services are provided at no charge (they rely entirely on community donations). <!-- Source: https://hospiceslo.org/ -->
 These services are open to San Luis Obispo County residents grieving a death, coping with life-limiting illness, or facing end of life. <!-- Source: https://hospiceslo.org/ -->
 
@@ -2126,7 +2126,7 @@ The [California Advance Directive Form](https://eforms.com/power-of-attorney/ca/
 and [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) <!-- Source: https://www.slolaf.org/seniorlaw -->
 can give you free help to make your advance directive documents clear and legally binding.
 
-[**Hospice SLO**](Directory.md#Hospice-SLO) offers advanced directive assistance either in-person at its offices, or by phone or internet conferencing. <!-- Source: https://hospiceslo.org/services/advance-health-care-directive-support -->
+[**Hospice SLO County**](Directory.md#Hospice-SLO) offers advanced directive assistance either in-person at its offices, or by phone or internet conferencing. <!-- Source: https://hospiceslo.org/services/advance-health-care-directive-support -->
 
 Your healthcare provider or hospice can help you complete a Physician Orders for Life-Sustaining Treatment (POLST) form. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
 It instructs medical care providers whether they should try to extend your life however they can, or whether they should avoid certain types of burdensome treatments like CPR, feeding tubes, or a mechanical breathing apparatus. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
@@ -3612,7 +3612,7 @@ To access this program, contact the McKinney-Vento liaison for your school distr
 
 ## <a id="peer-support-groups">Peer Support Groups</a>
 
-In peer support groups, you gather with other people who are in a similar situation to you in some way to talk.
+In peer support groups, you gather to talk with other people who are in a similar situation to you in some way.
 You may share practical advice, or just give each other emotional support.
 There are many peer support groups active in SLO County.
 These are some of them:
@@ -3656,6 +3656,8 @@ Several SLO County churches host [GriefShare support groups](https://griefshare.
 [**Woods Humane Society**](Directory.md#Woods-Humane-Society) hosts a free, monthly, “Paws to Remember” support group for pet owners who are mourning the loss or imminent loss of a pet. <!-- Source: https://atascaderonews.com/nonprofit/woods-humane-society-hospice-slo-county-launch-monthly-pet-loss-support-group/ -->
 This group meets on the last Thursday of each month from 3–4pm at the Woods Humane Society Community Room. <!-- Source: https://woodshumanesociety.org/resources/pet-loss/ -->
 Contact [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) if you have questions. <!-- Source: https://woodshumanesociety.org/resources/pet-loss/ -->
+
+[**Hospice SLO County**](Directory.md#Hospice-SLO) has grief support groups, but they explicitly discriminate against homeless people and people in insecure housing situations, and so they are not recommended. <!-- "support group participation is limited to... those who live in safe and stable housing" https://hospiceslo.org/support-groups -->
 
 ### <a id="behavioral-health-peer-support">Behavioral Health</a>
 

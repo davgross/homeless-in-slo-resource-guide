@@ -2074,7 +2074,7 @@ El cuidado paliativo es tratamiento médico que busca aliviar el dolor y el sufr
 El cuidado de hospicio está destinado a hacer el proceso de morir menos incómodo, y está destinado a personas que no tienen esperanzas realistas de ser curadas y vivir mucho.
 Típicamente esto significa que están en sus últimos seis meses de vida.
 
-[**Hospice SLO**](Directory.md#Hospice-SLO) incluye apoyo voluntario no médico, asesoramiento de duelo, grupos de apoyo, cuidado de respiro en el hogar, gestión de cuidado y apoyo de compañía al final de la vida. <!-- Source: https://hospiceslo.org/ -->
+[**Hospice SLO County**](Directory.md#Hospice-SLO) incluye apoyo voluntario no médico, asesoramiento de duelo, grupos de apoyo, cuidado de respiro en el hogar, gestión de cuidado y apoyo de compañía al final de la vida. <!-- Source: https://hospiceslo.org/ -->
 Todos los servicios se proporcionan sin cargo (dependen completamente de donaciones comunitarias). <!-- Source: https://hospiceslo.org/ -->
 Estos servicios están abiertos a residentes del condado de San Luis Obispo que están en duelo por una muerte, enfrentando una enfermedad que limita la vida o enfrentando el final de la vida. <!-- Source: https://hospiceslo.org/ -->
 
@@ -2123,7 +2123,7 @@ El sitio web [California Advance Directive Form](https://eforms.com/power-of-att
 y [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation) <!-- Source: https://www.slolaf.org/seniorlaw -->
 pueden darle ayuda gratuita para hacer sus documentos de directivas anticipadas claros y legalmente vinculantes.
 
-[**Hospice SLO**](Directory.md#Hospice-SLO) ofrece asistencia con directivas anticipadas ya sea en persona en sus oficinas, o por teléfono o videoconferencia por internet. <!-- Source: https://hospiceslo.org/services/advance-health-care-directive-support -->
+[**Hospice SLO County**](Directory.md#Hospice-SLO) ofrece asistencia con directivas anticipadas ya sea en persona en sus oficinas, o por teléfono o videoconferencia por internet. <!-- Source: https://hospiceslo.org/services/advance-health-care-directive-support -->
 
 Su proveedor de atención médica o hospicio puede ayudarle a completar un formulario de Órdenes Médicas para Tratamiento de Soporte Vital (POLST). <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
 Instruye a los proveedores de atención médica si deben intentar extender su vida como puedan, o si deben evitar ciertos tipos de tratamientos onerosos como RCP, tubos de alimentación o un aparato mecánico para respirar. <!-- Source: https://coalitionccc.org/common/Uploaded%20files/PDFs/2016POLST_ConsumerBrochure_English_Sample.pdf -->
@@ -3610,7 +3610,7 @@ Para acceder a este programa, contacte al enlace McKinney-Vento de su distrito e
 
 ## <a id="peer-support-groups">Grupos de Apoyo Entre Pares</a>
 
-En los grupos de apoyo entre pares, se reúne con otras personas que están en una situación similar a la suya de alguna manera para hablar.
+En los grupos de apoyo entre pares, se reúne para hablar con otras personas que están en una situación similar a la suya de alguna manera.
 Puede compartir consejos prácticos, o simplemente darse apoyo emocional.
 Hay muchos grupos de apoyo entre pares activos en el Condado de SLO.
 Estos son algunos de ellos:
@@ -3654,6 +3654,8 @@ Varias iglesias del Condado de SLO albergan [grupos de apoyo GriefShare](https:/
 [**Woods Humane Society**](Directory.md#Woods-Humane-Society) organiza un grupo de apoyo gratuito y mensual, “Paws to Remember”, para dueños de mascotas que están de duelo por la pérdida o la pérdida inminente de una mascota. <!-- Source: https://atascaderonews.com/nonprofit/woods-humane-society-hospice-slo-county-launch-monthly-pet-loss-support-group/ -->
 Este grupo se reúne el último jueves de cada mes de 3–4pm en la Sala Comunitaria de Woods Humane Society. <!-- Source: https://woodshumanesociety.org/resources/pet-loss/ -->
 Comuníquese con [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) si tiene preguntas. <!-- Source: https://woodshumanesociety.org/resources/pet-loss/ -->
+
+[**Hospice SLO County**](Directory.md#Hospice-SLO) tiene grupos de apoyo para el duelo, pero discriminan explícitamente contra las personas sin hogar y las personas en situaciones de vivienda insegura, por lo que no se recomiendan. <!-- "support group participation is limited to... those who live in safe and stable housing" https://hospiceslo.org/support-groups -->
 
 ### <a id="behavioral-health-peer-support">Salud del Comportamiento</a>
 
