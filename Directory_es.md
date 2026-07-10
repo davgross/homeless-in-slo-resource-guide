@@ -211,11 +211,11 @@
    - Servicios de medicamentos:
       - L–J: 6am–10am, 11am–3:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
       - V: 6am–10am, 11am–1:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
-      - S/D/días festivos: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+      - S/días festivos: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
    - Administrativo:
       - L–J: 6am–4pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
       - V: 6am–2:30pm <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
-      - S/D/días festivos: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
+      - S/días festivos: 7am–11am <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
 - **Cómo obtener el servicio:** Se aceptan visitas sin cita; admisiones el mismo día disponibles <!-- Source: https://pinnacletreatment.com/location/california/atascadero/aegis-treatment-centers-atascadero/ -->
 
 ### SLO city
