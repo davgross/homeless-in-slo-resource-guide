@@ -206,18 +206,6 @@
       "processor": "text_json_diff",
       "url": "https://www.slocll.org/library-resources/amenities/"
     },
-    "0450970c-8e5e-4a2c-b602-bae81c611aab": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#main"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://hospiceslo.org/support-groups/general-grief-support-and-education-group-%E2%80%93-meets-weekly-for-6-weeks-on-zoom"
-    },
     "0494586d-925a-4fa1-a3b7-8ebcc97217cb": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -419,9 +407,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/templeton-las-tablas/"
     },
     "086de21a-ea7c-4904-8c55-2c67f9c04561": {
@@ -613,6 +615,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "cite"
+      ],
       "url": "https://california.public.law/codes/vehicle_code_section_22651.07"
     },
     "0acf0472-5ebf-4c31-8a8e-ad16bfd41bcf": {
@@ -882,12 +887,12 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".tsg-rwd-main-copy-frame"
+        "#tsg_main_content_container"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://travel.state.gov/content/travel/en/passports/how-apply/photos.html"
+      "url": "https://travel.state.gov/en/passports/apply/help/photos.html"
     },
     "10df4fe5-a716-4e59-8e0a-94af953ea55a": {
       "filter_text_added": true,
@@ -1001,6 +1006,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "div.KezIZB"
+      ],
       "url": "https://www.805undocufund.org/alerts"
     },
     "130dc97e-58cf-4148-8b4e-624e4fa1a16d": {
@@ -1185,13 +1193,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "div.et_pb_blurb:nth-child(1) > div:nth-child(1)",
-        "div.et_pb_with_border:nth-child(6)",
-        "div.et_pb_column_2_5:nth-child(1)",
-        ".et_pb_column_30",
-        ".et_pb_column_35",
-        ".et_pb_text_21",
-        ".et_pb_column_41"
+        "main"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -1725,9 +1727,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/slo-prado/"
     },
     "22058b5c-9a90-418f-ae09-b423497568e5": {
@@ -1760,11 +1776,15 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".hero3-main"
+        ".root1-wrap"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav",
+        ".socials1"
+      ],
       "url": "https://www.thehotline.org/"
     },
     "228bf58e-f4e0-4ad6-abbb-0fee636981a1": {
@@ -1857,15 +1877,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://atascaderoseniorcenter.org/faq"
-    },
-    "23ad9c1b-ba75-41b5-b0bb-1c614a7b5752": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/BloodCancersGRPFlyr29Apr24.pdf"
     },
     "23ce63eb-6ca0-4bfd-a6fd-e1e185f4b6c7": {
       "filter_text_added": true,
@@ -2128,9 +2139,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/atascadero/"
     },
     "28c53f1b-3e0a-406e-a275-6bbaaca8b4a8": {
@@ -2648,14 +2673,16 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "div.content-right-rail-wrapper"
+        "div.root"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
       "subtractive_selectors": [
-        "div.leftNav",
-        ".comp-btn"
+        "nav",
+        ".experiencefragment",
+        ".csh-aem-maincontent",
+        ".jump-nav"
       ],
       "url": "https://www.commonspirit.org/find-a-location/oncology-hematology-mission-hope-santa-maria-1914"
     },
@@ -2686,12 +2713,12 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".tsg-rwd-main-copy-frame"
+        "#tsg_main_content_container"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html"
+      "url": "https://travel.state.gov/en/passports/renew-replace/report-passport-lost-stolen.html"
     },
     "347845f5-8ba0-41cc-938e-89d2421f9671": {
       "filter_text_added": true,
@@ -3220,9 +3247,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/arroyo-grande-walk-in/"
     },
     "4264b3a9-681e-42ad-87a8-29c6d84fe631": {
@@ -3829,9 +3870,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/san-miguel/"
     },
     "4e06e94c-95c5-4f5f-8617-357825594538": {
@@ -4510,11 +4565,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".et_pb_blurb_description",
-        "div.et_pb_with_border:nth-child(5)",
-        ".et_pb_column_26",
-        ".et_pb_image_8",
-        ".et_pb_column_33"
+        "main"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -4822,9 +4873,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/arroyo-grande-station-way/"
     },
     "60fce347-0c72-42fe-98f7-a845a97a9a9b": {
@@ -4970,11 +5035,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "div.et_pb_blurb_description:nth-child(1)",
-        "div.et_pb_column_1_2:nth-child(1)",
-        ".et_pb_column_7",
-        ".et_pb_text_6 > div:nth-child(1)",
-        ".et_pb_column_15"
+        "main"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -5296,9 +5357,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/arroyo-grande-fair-oaks/"
     },
     "6a7bd35b-a5c4-402c-8e98-10b88f5b9680": {
@@ -5806,7 +5881,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".tsg-rwd-main-copy-frame"
+        "#tsg_main_content_container"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -6143,7 +6218,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".tsg-rwd-main-copy-frame"
+        "#tsg_main_content_container"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -6249,7 +6324,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".tsg-rwd-main-copy-frame"
+        "#tsg_main_content_container"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -6532,9 +6607,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/slo-casa/"
     },
     "7f056f67-2cdd-42af-9d17-9426f4437ea8": {
@@ -6566,13 +6655,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".et_pb_blurb_description",
-        ".et_pb_section_0",
-        ".et_pb_section_1",
-        ".et_pb_section_2",
-        ".et_pb_section_3",
-        "div.et_pb_column_1_3:nth-child(2)",
-        "div.et_pb_column_1_3:nth-child(3)"
+        "main"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -7413,9 +7496,6 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
-      "include_filters": [
-        ".tsg-rwd-main-copy-frame"
-      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -8811,9 +8891,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/los-robles/"
     },
     "ad7056ef-a3cf-496d-9a9e-c34f5723bca4": {
@@ -9102,11 +9196,16 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".content-left-rr"
+        ".root"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".experiencefragment",
+        ".csh-aem-breadcrumb",
+        "nav"
+      ],
       "url": "https://www.commonspirit.org/patient-resources/dignity-health-central-coast-financial-assistance"
     },
     "b4239e33-f424-4d29-b3a1-8af709985114": {
@@ -9269,9 +9368,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/templeton-wh/"
     },
     "b6a29231-bb1c-468b-b1b6-ae9b6e511a61": {
@@ -9689,11 +9802,17 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".fixed-container"
+        ".root"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav",
+        ".experiencefragment",
+        ".csh-aem-maincontent",
+        ".jump-nav"
+      ],
       "url": "https://www.commonspirit.org/find-a-location/hearst-cancer-resource-center-dignity-health-french-hospital-medical-center-1309"
     },
     "c15fbfdf-cac6-4e9b-a54a-13213d3b166d": {
@@ -9812,18 +9931,6 @@
       "processor": "text_json_diff",
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php/component/cpx/?task=search.query&view=&page=3&search_history_id=262842494&unit_list=0&akaSort=0&query=%20&simple_query=&code=TJ-3000&limit=&name="
     },
-    "c35e8f54-570f-475f-b3a6-880cd9737ac9": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#main-content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.mayoclinic.org/first-aid/first-aid-sunburn/basics/art-20056643"
-    },
     "c3e11dac-ead9-49e4-a2fb-0c82cacee241": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -9879,15 +9986,6 @@
       "processor": "text_json_diff",
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php?option=com_cpx&task=search.query&code=BM"
     },
-    "c56471a2-32d2-48e2-b393-e0dc3ac068a8": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.dignityhealth.org/content/dam/dignity-health/central-coast/pdfs/hcrc/prostate-cancer-support-group-2023-1.pdf"
-    },
     "c5aaf3cb-df99-4c55-b7ef-e101b23ee3bd": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -9937,6 +10035,16 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/slo-prado/"
     },
     "c68f1907-b736-43f4-a097-d58212124ee4": {
@@ -10481,9 +10589,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/cambria/"
     },
     "d27f7786-fea5-43b2-b45a-0b64650578dc": {
@@ -10532,9 +10654,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/oceano-del-mar/"
     },
     "d4383d25-e219-4af0-abcc-5a5315bb1093": {
@@ -11030,9 +11166,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/slo-wh/"
     },
     "dd7c36b1-2aa6-4565-b8bd-ce206b3af5fc": {
@@ -11443,9 +11593,23 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This page can't load Google Maps correctly.",
+        "Do you own this website?  OK"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cmplz-cookiebanner-container",
+        "header",
+        ".bt_bb_hidden_xs",
+        ".btFooterWrap",
+        "#glt-footer",
+        "#flags",
+        "#glt-translate-trigger",
+        "#cmplz-manage-consent"
+      ],
       "url": "https://www.communityhealthcenters.org/locations/nipomo/"
     },
     "e4ed14ab-1d43-44ed-bfee-b7b9f9afc4b8": {
