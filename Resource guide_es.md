@@ -3549,7 +3549,7 @@ La Administración de la Atención Mejorada le empareja con un profesional que p
 Para solicitar la Administración de la Atención Mejorada, contacte a [**CenCal Health**](Directory.md#CenCal) quien puede ayudarle con el proceso o contacte directamente a Seneca Central Coast. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
 
 [**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) tiene un [Centro para Adolescentes](https://www.atascadero.org/service/teen-center) (Teen Center), abierto las tardes de días laborables hasta las 6pm, con air hockey, billar, ping pong, PS5, películas, juegos de mesa, dodgeball y baloncesto.
-La membresía es $20/año. <!-- Source: https://www.atascadero.org/service/teen-center -->
+La membresía es $21/año. <!-- Source: https://www.atascadero.org/service/teen-center -->
 Atascadero Recreation también tiene programas deportivos organizados, clases y campamentos. <!-- Source: https://www.atascadero.org/service/recreation-guide -->
 Hay un Fondo de Becas para Actividades Juveniles (Youth Activity Scholarship Fund) que puede pagar hasta $250 por niño en cuotas de inscripción para niños calificados en el Distrito Escolar de Atascadero ([detalles aquí](https://www.atascadero.org/sites/default/files/2024-01/Scholarship_App_Spanish_23-24.pdf))
 

@@ -3551,7 +3551,7 @@ Enhanced Care Management teams you up with a professional who can help you find 
 To apply for Enhanced Care Management, contact [**CenCal Health**](Directory.md#CenCal) who can help you with the process, or contact Seneca Central Coast directly. <!-- Source: https://senecafoa.org/services/enhanced-care-management/ -->
 
 [**Atascadero Recreation**](Directory.md#Atascadero-Parks-and-Recreation) has a [Teen Center](https://www.atascadero.org/service/teen-center), open weekday afternoons until 6pm, with air hockey, pool, ping pong, PS5, movies, board games, dodgeball, and basketball.
-Membership is $20/year. <!-- Source: https://www.atascadero.org/service/teen-center -->
+Membership is $21/year. <!-- Source: https://www.atascadero.org/service/teen-center -->
 Atascadero Recreation also has organized sports programs, classes, and camps. <!-- Source: https://www.atascadero.org/service/recreation-guide -->
 There is a Youth Activity Scholarship Fund that can pay for up to $250 per child in registration fees for qualifying children in the Atascadero School District ([details here](https://www.atascadero.org/sites/default/files/Scholarship%20application%20English%20%28fiscal%20year%202025-2026%29.pdf))
 
