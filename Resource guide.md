@@ -1264,6 +1264,7 @@ Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can ge
 --><!-- SOURCE NEEDED (issue #60) -->
 
 [**Shower the People**](Directory.md#Shower-the-People) gives you new socks, underwear, and a t-shirt. <!-- Source: personal experience as volunteer -DG -->
+At its Saturday location in SLO, they are also sometimes joined by the [**UCC Pop-Up Shop**](Directory.md#UCC-Pop-Up-Shop), a free clothing giveaway.
 
 [**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of December 2025) they are still looking for an office to operate from.
 You have to make an appointment with them to view their inventory. <!-- Source: https://slograssroots.org/ -->

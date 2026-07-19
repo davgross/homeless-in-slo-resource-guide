@@ -3836,6 +3836,12 @@ If you see one listed here that is no longer in service, please use the feedback
 
 > *See [**SLO County UndocuSupport**](#SLO-County-UndocuSupport)*
 
+## <a id="UCC-Pop-Up-Shop">UCC Pop-Up Shop</a>
+
+- **Location:** <a href="#" class="map-link" data-lat="35.260128" data-lon="-120.696026" data-zoom="17" data-label="United Church of Christ">11245 Los Osos Valley Rd., SLO</a>
+- **Hours:** Sa 10am–1pm <!-- Source: coincident with STP showers -->
+- **Services:** Free clothing giveaway
+
 ## <a id="UUSLO">Unitarian Universalists San Luis Obispo</a>
 
 - **Website:** [uuslo.org](https://uuslo.org/)

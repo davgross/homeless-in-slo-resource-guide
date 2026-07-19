@@ -1261,6 +1261,7 @@ Call [**Salvation Army**](Directory.md#Salvation-Army) to find out if you can ge
 --><!-- SOURCE NEEDED (issue #60) -->
 
 [**Shower the People**](Directory.md#Shower-the-People) le da calcetines, ropa interior y una camiseta nuevos. <!-- Source: personal experience as volunteer -DG -->
+En su ubicación de los sábados en SLO, a veces también se les une el [**UCC Pop-Up Shop**](Directory.md#UCC-Pop-Up-Shop), que regala ropa gratis.
 
 [**SLO Grassroots**](Directory.md#SLO-Grassroots) tiene ropa para regalar, pero (a diciembre de 2025) todavía están buscando una oficina desde donde operar.
 Tiene que hacer una cita con ellos para ver su inventario. <!-- Source: https://slograssroots.org/ -->
