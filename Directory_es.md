@@ -3835,6 +3835,12 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Correo electrónico:** [UndocuSupport@cfsloco.org](mailto:UndocuSupport@cfsloco.org)
 - **Horario:** Mi 1–4:15pm
 
+## <a id="UCC-Pop-Up-Shop">UCC Pop-Up Shop</a>
+
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.260128" data-lon="-120.696026" data-zoom="17" data-label="United Church of Christ">11245 Los Osos Valley Rd., SLO</a>
+- **Horario:** S 10am–1pm <!-- Source: coincident with STP showers -->
+- **Servicios:** Ropa gratis
+
 ## <a id="UUSLO">Unitarian Universalists San Luis Obispo</a>
 
 - **Sitio web:** [uuslo.org](https://uuslo.org/)
