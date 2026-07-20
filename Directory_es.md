@@ -3438,7 +3438,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.266421" data-lon="-120.643242" data-zoom="17" data-label="SLO County YMCA">1020 Southwood Dr., SLO</a> <!-- Source: https://www.ciymca.org/locations/san-luis-obispo-county-ymca -->
 - **Teléfono:** [805-543-8235](tel:+1-805-543-8235) <!-- Source: https://www.ciymca.org/locations/san-luis-obispo-county-ymca -->
 - **Correo electrónico:** [slo.info@ciymca.org](mailto:slo.info@ciymca.org)
-- **Horario:** L–J 5:30am–9pm, V 5:30am–7pm, S 7am–5pm, D cerrado <!-- Source: https://www.ciymca.org/locations/san-luis-obispo-county-ymca -->
+- **Horario:** Abierto las 24 horas <!-- Source: https://www.sanluisobispo.com/news/business/article315970016.html -->
 
 ## <a id="SLO-Court-Self-Help-Services">SLO Court Self-Help Services</a>
 
