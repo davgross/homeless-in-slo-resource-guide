@@ -3361,7 +3361,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="SLO-County-Parks">SLO County Parks</a>
 
 - **Sitio web:** [slocountyparks.com](https://slocountyparks.com/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.283374" data-lon="-120.659376" data-zoom="17" data-label="SLO County Parks & Recreation">1144 Monterey St. #A, SLO</a> <!-- Source: https://slocountyparks.com/ -->
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.254192" data-lon="-120.668902" data-zoom="16" data-label="SLO County Parks & Recreation">145 Prado Rd., SLO</a> <!-- Source: https://slocountyparks.com/ -->
 - **Teléfono:** [805-781-5930](tel:+1-805-781-5930) <!-- Source: https://slocountyparks.com/ -->
 - **Correo electrónico:** [sloparks@co.slo.ca.us](mailto:sloparks@co.slo.ca.us) <!-- Source: https://slocountyparks.com/ -->
 - Vea también:
