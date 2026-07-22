@@ -3488,6 +3488,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Email:** [info@slolaf.org](mailto:info@slolaf.org) <!-- Source: https://www.slolaf.org/ -->
 - Notes:
    - Operates [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
+   - Operates [**SLO County Small Claims Advisor**](#SLO-County-Small-Claims-Advisor)
 
 ## <a id="SLO-Noor-Foundation">SLO Noor Foundation</a>
 

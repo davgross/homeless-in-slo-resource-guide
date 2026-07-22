@@ -3541,7 +3541,9 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - <a href="#" class="map-link" data-lat="35.614368" data-lon="-120.692636" data-zoom="17" data-label="SLO Legal Assistance Foundation">102 S. Vine St. #C, Paso Robles</a> <!-- Source: https://www.slolaf.org/ -->
 - **Teléfono:** [805-543-5140](tel:+1-805-543-5140) <!-- Source: https://www.slolaf.org/ -->
 - **Correo electrónico:** [info@slolaf.org](mailto:info@slolaf.org) <!-- Source: https://www.slolaf.org/ -->
-- Nota: opera [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
+- Notas:
+   - opera [**Senior Legal Services Project**](#Senior-Legal-Services-Project)
+   - opera [**SLO County Small Claims Advisor**](#SLO-County-Small-Claims-Advisor)
 
 ## <a id="SLO-Partners">SLO Partners</a>
 
