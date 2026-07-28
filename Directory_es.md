@@ -1294,6 +1294,7 @@
    - opera [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - opera “Low Income Home Energy Assistance Program (LIHEAP)”
    - opera [**Outreach & Engagement Services**](#Outreach-and-Engagement-Services)
+   - opera [**Paso Robles Senior Center**](#Paso-Robles-Senior-Center) <!-- Source: https://www.newtimesslo.com/capslo-to-take-over-operation-of-paso-robles-senior-center/ -->
    - opera [**Programa Rotativo de Estacionamiento Seguro Nocturno**](#Rotating-Overnight-Safe-Parking-Program)
    - opera “Senior Health Screening”
    - opera [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
@@ -2219,8 +2220,8 @@
 - **Correo electrónico:** [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org) <!-- Source: https://alffoodpantry.org/ -->
 - **Horario** (despensa de alimentos): L–V 1–3pm <!-- Source: https://alffoodpantry.org/need-food -->
 - Notas:
-  - no afiliado con [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
-  - también conocido como “ALF Food Pantry”
+   - no afiliado con [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
+   - también conocido como “ALF Food Pantry”
 
 ## <a id="Loaves-and-Fishes-Paso-Robles">Loaves & Fishes (Paso Robles)</a>
 
@@ -2640,6 +2641,7 @@
 - Notas:
    - un sitio de servicio de almuerzo para [**Meals that Connect**](#Meals-that-Connect) <!-- Source: https://www.prcity.com/293/Senior-Services -->
    - un sitio de despensa y distribución de cajas de alimentos de [**SLO Food Bank**](#SLO-Food-Bank) <!-- Source: https://www.prcity.com/293/Senior-Services -->
+   - Operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) <!-- Source: https://www.newtimesslo.com/capslo-to-take-over-operation-of-paso-robles-senior-center/ -->
    - alberga [**HiCAP**](#HiCAP) <!-- Source: https://www.prcity.com/293/Senior-Services -->
    - alberga [**Senior Legal Services Project**](#Senior-Legal-Services-Project) <!-- Source: https://www.prcity.com/293/Senior-Services -->
 
@@ -3514,8 +3516,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 - **Teléfono:** [800-838-1381](tel:+1-800-838-1381)
 - **Horario:** L–V 8am–5pm
-  - Horario sin cita previa (2178 Johnson, SLO): Ma/Mi 1–3pm
-  - Horario sin cita previa (1350 E. Grand, AG): L/Mi 9–11am
+   - Horario sin cita previa (2178 Johnson, SLO): Ma/Mi 1–3pm
+   - Horario sin cita previa (1350 E. Grand, AG): L/Mi 9–11am
 - **Cómo obtener el servicio:** llame primero, o consulte [esta página](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610) para conocer el horario de atención sin cita previa.
 - Notas:
    - Punto de acceso central para todos los servicios de salud mental de [**Medi-Cal**](#Medi-Cal)
@@ -3760,7 +3762,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 | Oficina | Ubicación | Teléfono |
 | ------- | --------- | -------- |
-| Principal   | <a href="#" class="map-link" data-lat="35.272462" data-lon="-120.656466" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">784 High Street, SLO</a> <!-- Source: https://www.t-mha.org/ --> | [805-540-6500](tel:+1-805-540-6500) <!-- Source: https://www.t-mha.org/ --> |
+| Principal | <a href="#" class="map-link" data-lat="35.272462" data-lon="-120.656466" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">784 High Street, SLO</a> <!-- Source: https://www.t-mha.org/ --> | [805-540-6500](tel:+1-805-540-6500) <!-- Source: https://www.t-mha.org/ --> |
 | SLO    | <a href="#" class="map-link" data-lat="35.276666" data-lon="-120.663904" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">1306 Nipomo St.</a> | [805-541-6813](tel:+1-805-541-6813) / [805-801-3536](tel:+1-805-801-3536) |
 | Arroyo Grande | <a href="#" class="map-link" data-lat="35.121565" data-lon="-120.577572" data-zoom="17" data-label="Transitions Mental Health Association (TMHA)">203 Bridge St.</a> | [805-305-3724](tel:+1-805-305-3724) |
 
@@ -3825,7 +3827,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-528-1649](tel:+1-805-528-1649) <!-- Source: https://trinitylososos.org/ -->
 - **Correo electrónico:** [church@trinitylososos.org](mailto:church@trinitylososos.org) <!-- Source: https://trinitylososos.org/ -->
 - **Horario** (despensa de alimentos): Ma/V 10am–mediodía <!-- Source: https://trinitylososos.org/whats-happening/tumc-food-pantry -->
-
 
 ## <a id="SLO-County-UndocuSupport">UndocuSupport del Condado de SLO</a>
 
@@ -3943,9 +3944,11 @@ Hay varias opciones de atención de urgencias, incluyendo:
 > *Vea [**Central Coast Veterans Helping Veterans**](#Central-Coast-Veterans-Helping-Veterans)*
 -->
 
+<!-- Not referenced anywhere yet
 ## Veterans Services Collaborative
 
 > *Vea [**San Luis Obispo Veterans Services Collaborative**](#SLO-Veterans-Services-Collaborative)*
+-->
 
 ## <a id="Veterans-Services">Veterans Services (SLO County)</a>
 
