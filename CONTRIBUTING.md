@@ -106,6 +106,8 @@ Here are some guidelines to help you craft your content for VivaSLO:
    This hyperlink uses HTML rather than markdown.
    VivaSLO converts it into a link that uses the user’s platform-specific mapping application.
    To generate this link, you can use [this tool](./web-app/map-data-helper.html).
+   Don’t just double-click the file or open it with a `file://` URL — the map tiles won’t load, because OpenStreetMap blocks tile requests that have no `Referer` header, and browsers never send one for local files.
+   Instead, from the `web-app` directory run `npm run dev` and open the tool at the printed `http://localhost:...` address.
 1. **Use `*italics*` tather than ALL-CAPS for emphasis.**
 1. **“SLO” is usually an acceptable abbreviation for “the city of San Luis Obispo.”**
    If the context makes it ambiguous whether “SLO” refers to the city or county, you can use “SLO city” or “SLO County.”

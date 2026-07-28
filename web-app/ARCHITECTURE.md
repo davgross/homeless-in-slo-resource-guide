@@ -35,6 +35,8 @@ web-app/
 ├── package.json            # Dependencies and build scripts
 ├── vite.config.js          # Vite config + PWA manifest
 ├── map-data-helper.html    # Utility for adding map coordinates
+├── vite-plugin-minify-markdown.js       # Strips comments from bundled markdown
+├── vite-plugin-print-map-helper-url.js  # Prints map-data-helper.html URL in dev
 ├── src/
 │   ├── main.js             # App initialization, routing, state
 │   ├── style.css           # All CSS styles
@@ -529,6 +531,30 @@ generates JavaScript data files for map pages
 
 - Automatically runs after `npm run build` (unless using `build:novalidate`)
 - Validates both source `index.html` and built `dist/index.html`
+
+### 14. Map Helper URL Plugin
+
+**Purpose**: Custom Vite plugin that prints the URL of the Map Data Helper
+tool alongside the main site URL when the dev server starts
+
+**File**: `vite-plugin-print-map-helper-url.js`
+
+**How it works**:
+
+1. Wraps `server.printUrls` in `configureServer`, calling the original first
+2. Reads the resolved local URL from `server.resolvedUrls.local[0]` (correct
+   even with a custom `--port` or `--host`)
+3. Logs an additional `➜  Map Tool:` line pointing at
+   `map-data-helper.html`
+
+**Why it's needed**:
+
+- `map-data-helper.html` must be loaded over `http://`, not opened as a
+  `file://` URL — OpenStreetMap's tile server blocks tile requests that
+  have no `Referer` header (browsers never send one for local files), so
+  tiles fail to load if the file is double-clicked
+- Printing the dev-server URL for the tool makes the correct way to open it
+  discoverable without needing to check `CONTRIBUTING.md`
 
 ## Data Flow
 
@@ -1046,10 +1072,22 @@ For questions about this architecture:
 
 ---
 
-*Last updated: 2025-12-11*
-*Document version: 1.3*
+*Last updated: 2026-07-27*
+*Document version: 1.4*
 
 ## Changelog
+
+### Version 1.4 (2026-07-27)
+
+Map Data Helper dev server fix:
+
+- Added `vite-plugin-print-map-helper-url.js` to print `map-data-helper.html`'s
+  URL alongside the main site URL when running `npm run dev`
+- Fixes a silent failure where opening `map-data-helper.html` directly as a
+  `file://` URL caused OpenStreetMap to block tile requests (no `Referer`
+  header sent), leaving the map preview blank
+- Updated `CONTRIBUTING.md` and added an in-page warning to steer contributors
+  toward the dev server URL instead of opening the file directly
 
 ### Version 1.3 (2025-12-11)
 

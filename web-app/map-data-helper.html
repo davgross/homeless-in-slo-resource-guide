@@ -198,6 +198,13 @@
     <h1>Map Data Helper</h1>
     <p class="subtitle">Generate map data attributes for the Resource Guide</p>
 
+    <div class="info-box" id="file-protocol-warning" style="display: none; margin-bottom: 20px; border-left-color: #dc2626; background: #fef2f2;">
+        <strong>Map tiles won't load from a local file.</strong>
+        You opened this page directly (as a <code>file://</code> URL), so your browser sends no <code>Referer</code> header.
+        OpenStreetMap blocks tile requests with no <code>Referer</code> (see <a href="https://wiki.openstreetmap.org/wiki/Blocked" target="_blank" rel="noopener">their tile usage policy</a>).
+        From the <code>web-app</code> directory, run <code>npm run dev</code> and open this page at the printed <code>http://localhost:...</code> address instead.
+    </div>
+
     <div class="container">
         <div class="panel">
             <h2>📍 Location Information</h2>
@@ -262,6 +269,10 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
+        if (location.protocol === 'file:') {
+            document.getElementById('file-protocol-warning').style.display = 'block';
+        }
+
         // Initialize map
         let map = L.map('map').setView([35.2828, -120.6596], 12);
         let marker = null;
