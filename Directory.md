@@ -1021,6 +1021,7 @@
    - operates [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - operates “Low Income Home Energy Assistance Program (LIHEAP)”
    - operates [**Outreach & Engagement Services**](#Outreach-and-Engagement-Services)
+   - operates [**Paso Robles Senior Center**](#Paso-Robles-Senior-Center) <!-- Source: https://www.newtimesslo.com/capslo-to-take-over-operation-of-paso-robles-senior-center/ -->
    - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
    - operates “Senior Health Screening”
    - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
@@ -2629,6 +2630,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - Notes:
    - A lunch service site for [**Meals that Connect**](#Meals-that-Connect) <!-- Source: https://www.prcity.com/293/Senior-Services -->
    - A [**SLO Food Bank**](#SLO-Food-Bank) pantry & food box distribution site <!-- Source: https://www.prcity.com/293/Senior-Services -->
+   - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO) <!-- Source: https://www.newtimesslo.com/capslo-to-take-over-operation-of-paso-robles-senior-center/ -->
    - Hosts [**HiCAP**](#HiCAP) <!-- Source: https://www.prcity.com/293/Senior-Services -->
    - Hosts [**Senior Legal Services Project**](#Senior-Legal-Services-Project) <!-- Source: https://www.prcity.com/293/Senior-Services -->
 
