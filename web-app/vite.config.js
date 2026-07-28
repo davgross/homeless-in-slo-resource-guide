@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
 import minifyMarkdown from './vite-plugin-minify-markdown.js';
+import printMapHelperUrl from './vite-plugin-print-map-helper-url.js';
 
 export default defineConfig({
   base: './',
@@ -33,6 +34,7 @@ export default defineConfig({
   },
   plugins: [
     minifyMarkdown(),
+    printMapHelperUrl(),
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png', 'icon-192-maskable.png', 'icon-512-maskable.png'],
