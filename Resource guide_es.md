@@ -314,6 +314,8 @@ Necesita traer identificación, incluyendo tarjetas de seguro social y certifica
 
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) también opera un programa de prevención de desalojos para personas en la ciudad de SLO que puede ayudarle a pagar su renta si ha recibido un aviso de tres días para pagar la renta o desocupar. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
 
+Puede llamar a la línea directa de [995Hope](https://995hope.org/) al [888-995-4673](tel:+1-888-995-4673) para hablar con un experto sobre qué puede hacer si está atrasado en los pagos de su hipoteca, para evitar la ejecución hipotecaria.
+
 > Vea la sección [Asistencia Legal, Mediación y Protección para Víctimas de Crímenes](#legal-help) para opciones sobre cómo prevenir desalojos ilegales.
 
 > Vea la sección [Ayuda Financiera de Emergencia](#emergency-financial-help) para más formas posibles de obtener ayuda financiera a corto plazo en una crisis.
@@ -1507,6 +1509,9 @@ Traiga su tarjeta de seguro, identificación y una lista de los medicamentos que
 | [**Community Health Centers of the Central Coast**](Directory.md#CHC) (Templeton — Las Tablas)      | Sí       | Sí       |
 
 ### <a id="health-insurance">Seguro Médico</a>
+
+Puede obtener ayuda gratis por teléfono o en persona si tiene problemas para conseguir o mantener su seguro médico, o si tiene problemas con su proveedor de seguro médico.
+Llame a [Health Consumer Alliance](https://healthconsumer.org/es) al [888-804-3536](tel:+1-888-804-3536) (TTY: [877-735-2929](tel:+1-877-735-2929)).
 
 #### Medi-Cal (Medicaid)
 
@@ -3367,6 +3372,8 @@ Tanto la oficina de [**5Cities Homeless Coalition**](Directory.md#5CHC) como el 
 
 El [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) tiene dos computadoras que puede usar en el sitio, y ofrecen asistencia gratuita y sesiones de tutoría uno a uno incluyendo talleres especializados de Android e iPad/iPhone. <!-- Source: https://www.prcity.com/293/Senior-Services -->
 El [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) también tiene una computadora con acceso a internet que está disponible al público por orden de llegada. <!-- SOURCE NEEDED -->
+
+[Computers with Causes](https://www.computerswithcauses.org/application/) tiene un “Free Computer Program” (Programa de Computadoras Gratis) con el cual puede obtener una computadora reacondicionada sin costo alguno.
 
 -----
 
