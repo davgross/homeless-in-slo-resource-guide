@@ -314,6 +314,8 @@ You need to bring identification, including social security cards and birth cert
 
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) also operates an eviction prevention program for people in SLO city that can help you pay your rent if you received a three-day “pay rent or quit” notice. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
 
+You can call the [995Hope](https://995hope.org/) hotline at [888-995-4673](tel:+1-888-995-4673) to talk with an expert about what you can do if you are late on your mortgage payments so you can avoid foreclosure.
+
 > See the [Legal Help, Mediation, and Crime Victim Protection](#legal-help) section for options about preventing illegal evictions.
 
 > See the [Emergency Financial Help](#emergency-financial-help) section for more possible ways to get short-term financial help in a crisis.
@@ -1509,7 +1511,7 @@ Bring your insurance card, identification, and a list of medications you take.
 ### <a id="health-insurance">Health Insurance</a>
 
 You can get free help over the phone or in person if you are struggling to get or maintain health insurance coverage or if you are having difficulty with your health insurance provider.
-Call the [Health Consumer Alliance](https://healthconsumer.org/) at [888-804-3536](tel:+1-888-804-3536).
+Call the [Health Consumer Alliance](https://healthconsumer.org/) at [888-804-3536](tel:+1-888-804-3536) (TTY: [877-735-2929](tel:+1-877-735-2929)).
 
 #### Medi-Cal (Medicaid)
 
