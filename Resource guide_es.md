@@ -1267,6 +1267,8 @@ En su ubicación de los sábados en SLO, a veces también se les une el [**UCC P
 [**SLO Grassroots**](Directory.md#SLO-Grassroots) tiene ropa para regalar, pero (a diciembre de 2025) todavía están buscando una oficina desde donde operar.
 Tiene que hacer una cita con ellos para ver su inventario. <!-- Source: https://slograssroots.org/ -->
 
+El [Basic Needs Center](https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html) de [**Cuesta College**](Directory.md#Cuesta-College) tiene ropa gratis, usada y en buen estado, para estudiantes actualmente inscritos en Cuesta College.
+
 #### <a id="free-clothes-for-kids">Ropa Gratis para Niños</a>
 
 La [**Children’s Resource Network of the Central Coast**](Directory.md#Childrens-Resource-Network-of-the-Central-Coast) tiene ropa gratis (y útiles escolares, libros, pañales y otros recursos básicos) para niños desde el nacimiento hasta los 18 años. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
