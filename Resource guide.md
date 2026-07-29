@@ -1508,6 +1508,9 @@ Bring your insurance card, identification, and a list of medications you take.
 
 ### <a id="health-insurance">Health Insurance</a>
 
+You can get free help over the phone or in person if you are struggling to get or maintain health insurance coverage or if you are having difficulty with your health insurance provider.
+Call the [Health Consumer Alliance](https://healthconsumer.org/) at [888-804-3536](tel:+1-888-804-3536).
+
 #### Medi-Cal (Medicaid)
 
 [**Medi-Cal**](Directory.md#Medi-Cal), California’s Medicaid program, is a health insurance program for low-income people who meet certain eligibility requirements. <!-- Source: https://www.dhcs.ca.gov/Medi-Cal/Pages/home.aspx -->
@@ -3366,6 +3369,8 @@ Both the [**5Cities Homeless Coalition**](Directory.md#5CHC) office and the [**4
 
 [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) has two computers you can use on-site, and they offer free assistance and one-on-one tutoring sessions including specialized Android and iPad/iPhone workshops. <!-- Source: https://www.prcity.com/293/Senior-Services -->
 [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) also has a computer with internet access which is available to the public on a first come, first serve basis. <!-- SOURCE NEEDED -->
+
+[Computers with Causes](https://www.computerswithcauses.org/application/) has a “Free Computer Program” with which you can get a refurbished computer at no cost to you.
 
 -----
 

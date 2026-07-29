@@ -1508,6 +1508,9 @@ Traiga su tarjeta de seguro, identificación y una lista de los medicamentos que
 
 ### <a id="health-insurance">Seguro Médico</a>
 
+Puede obtener ayuda gratis por teléfono o en persona si tiene problemas para conseguir o mantener su seguro médico, o si tiene problemas con su proveedor de seguro médico.
+Llame a [Health Consumer Alliance](https://healthconsumer.org/es) al [888-804-3536](tel:+1-888-804-3536).
+
 #### Medi-Cal (Medicaid)
 
 [**Medi-Cal**](Directory.md#Medi-Cal), el programa Medicaid de California, es un programa de seguro médico para personas de bajos ingresos que cumplan ciertos requisitos de elegibilidad. <!-- Source: https://www.dhcs.ca.gov/Medi-Cal/Pages/home.aspx -->
@@ -3367,6 +3370,8 @@ Tanto la oficina de [**5Cities Homeless Coalition**](Directory.md#5CHC) como el 
 
 El [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) tiene dos computadoras que puede usar en el sitio, y ofrecen asistencia gratuita y sesiones de tutoría uno a uno incluyendo talleres especializados de Android e iPad/iPhone. <!-- Source: https://www.prcity.com/293/Senior-Services -->
 El [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) también tiene una computadora con acceso a internet que está disponible al público por orden de llegada. <!-- SOURCE NEEDED -->
+
+[Computers with Causes](https://www.computerswithcauses.org/application/) tiene un “Free Computer Program” (Programa de Computadoras Gratis) con el cual puede obtener una computadora reacondicionada sin costo alguno.
 
 -----
 

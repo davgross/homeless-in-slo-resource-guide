@@ -1031,6 +1031,7 @@
 - Nota:
    - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - clínica para adolescentes el martes 3–6pm, el viernes 3–5:30pm en Arroyo Grande
+   - proveedor de [“Every Woman Counts”](https://www.dhcs.ca.gov/services/every-woman-counts/)
 
 ## <a id="CCADRC">Central Coast Aging & Disability Resource Center (CCADRC)</a>
 
@@ -1350,6 +1351,7 @@
 - Notas:
    - También opera [**Healthcare for the Homeless Program**](#HCHP) en el [**40 Prado Homeless Services Center**](#40-Prado)
    - “CHC Transportation Services” es un servicio de transporte puerta a puerta para citas: ([877-743-3242](tel:+1-877-743-3242))
+   - proveedor de [“Every Woman Counts”](https://www.dhcs.ca.gov/services/every-woman-counts/)
 
 ## <a id="Community-Partners-in-Caring">Community Partners in Caring</a>
 
@@ -2796,7 +2798,9 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [888-898-3806](tel:+1-888-898-3806) <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast -->
 - **Correo electrónico:** [health.center@ppcentralcoast.org](mailto:health.center@ppcentralcoast.org) <!-- Source: https://www.plannedparenthood.org/planned-parenthood-california-central-coast/contact-us -->
 - **Horario:** L 9am–6pm, Ma–S 8am–5pm (cerrado algunos días festivos) <!-- Source: https://www.plannedparenthood.org/health-center/california/san-luis-obispo/93401/san-luis-obispo-health-center-2252-90170#hours-walk-ins -->
-- Notas: punto de entrada para “FamilyPACT”
+- Notas:
+   - punto de entrada para “FamilyPACT”
+   - proveedor de [“Every Woman Counts”](https://www.dhcs.ca.gov/services/every-woman-counts/)
 
 ## <a id="Port-San-Luis-Harbor-District">Port San Luis Harbor District</a>
 
