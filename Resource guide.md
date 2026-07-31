@@ -1269,7 +1269,7 @@ At its Saturday location in SLO, they are also sometimes joined by the [**UCC Po
 [**SLO Grassroots**](Directory.md#SLO-Grassroots) has clothing to give away, but (as of December 2025) they are still looking for an office to operate from.
 You have to make an appointment with them to view their inventory. <!-- Source: https://slograssroots.org/ -->
 
-[The Basic Needs Center](https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html) at [**Cuesta College**](Directory.md#Cuesta-College) has free, gently-used clothing for currently-enrolled Cuesta College students.
+[The Basic Needs Office](https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html) at [**Cuesta College**](Directory.md#Cuesta-College) has free, gently-used clothing for currently-enrolled Cuesta College students.
 
 #### <a id="free-clothes-for-kids">Free Clothes for Kids</a>
 
@@ -2342,7 +2342,7 @@ If you are filing a family law case (for example divorce, child support, child c
 
 The state of California’s [Small claims in California](https://selfhelp.courts.ca.gov/small-claims-california) web page is also a good introduction to the small claims process.
 
-You can get free information and assistance about small claims matters in SLO County from the [**Small Claims Advisor**](#SLO-County-Small-Claims-Advisor).
+You can get free information and assistance about small claims matters in SLO County from the [**Small Claims Advisor**](Directory.md#SLO-County-Small-Claims-Advisor).
 They can help you if you are filing a claim, responding to a claim filed against you, preparing for your appearance in court, or collecting a judgment if your claim succeeds.
 
 The SLO Law Line ([805-548-8884](tel:+1-805-548-8884)) gives free basic legal advice to people who cannot afford an attorney, and can help you find additional legal assistance. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
