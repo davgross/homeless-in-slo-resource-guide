@@ -1454,13 +1454,17 @@
    - [scchelp@cuesta.edu](mailto:scchelp@cuesta.edu) (Centro South County)
    - [ContinuingEd@cuesta.edu](mailto:ContinuingEd@cuesta.edu) (Programa de Educación Continua) <!-- Source: https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html -->
 - Notas:
-   - oficina de Necesidades Básicas esta en la sala 5014B del campus SLO, abierto L/Ju/V 9am–4pm, Ma 9am–6pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
-   - el campus de Paso Robles alberga una despensa de alimentos Cougar para estudiantes en la sala N1005, L–V 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
-   - el campus de SLO campus alberga una despensa de alimentos Cougar para estudiantes en la cafetería de la sala 5014A, L–V 9am–4:30pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+   - Oficinas de Necesidades Básicas:
+      - campus Arroyo Grande: abierto cada dos miércoles, 4pm–8pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+      - campus Paso Robles: NCC Building 1000, sala 1005, abierto cada dos miércoles, 11am–8pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+      - campus SLO: sala 5014B, abierto L/Ma/Ju 9am–6pm, V 9am–4pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+   - Despensas de alimentos Cougar:
+      - campus Paso Robles: sala N1005, abierto L–V 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+      - campus SLO: sala 5104B, L–V 9am–4:30pm; [805-546-3289](tel:+1-805-546-3289) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programas están abiertos a personas que de otro modo no estarían inscritas
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) tiene programas vocacionales/de aprendizaje permanente y ESL
    - se asocia con [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes
-   - los campus de SLO y North County son sitios de distribución de cajas de alimentos de [**SLO Food Bank**](#SLO-Food-Bank) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+   - los campus de SLO y Paso Robles son sitios de distribución de cajas de alimentos de [**SLO Food Bank**](#SLO-Food-Bank) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
 ## Deaf and Disabled Telecommunication Program (DDTP)
 

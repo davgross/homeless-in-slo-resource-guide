@@ -1269,7 +1269,7 @@ En su ubicación de los sábados en SLO, a veces también se les une el [**UCC P
 [**SLO Grassroots**](Directory.md#SLO-Grassroots) tiene ropa para regalar, pero (a diciembre de 2025) todavía están buscando una oficina desde donde operar.
 Tiene que hacer una cita con ellos para ver su inventario. <!-- Source: https://slograssroots.org/ -->
 
-El [Basic Needs Center](https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html) de [**Cuesta College**](Directory.md#Cuesta-College) tiene ropa gratis, usada y en buen estado, para estudiantes actualmente inscritos en Cuesta College.
+La [Oficina de Necesidades Básicas](https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html) de [**Cuesta College**](Directory.md#Cuesta-College) tiene ropa gratis, usada y en buen estado, para estudiantes actualmente inscritos en Cuesta College.
 
 #### <a id="free-clothes-for-kids">Ropa Gratis para Niños</a>
 
@@ -2342,7 +2342,7 @@ Si está presentando un caso de derecho familiar (por ejemplo divorcio, manutenc
 
 La página web [Reclamos menores en California](https://selfhelp.courts.ca.gov/es/reclamos-menores-en-california) del estado de California también es una buena introducción al proceso de reclamos menores.
 
-Puede obtener información y ayuda gratuita sobre asuntos de reclamos menores en el Condado de SLO del [**Small Claims Advisor**](#SLO-County-Small-Claims-Advisor).
+Puede obtener información y ayuda gratuita sobre asuntos de reclamos menores en el Condado de SLO del [**Small Claims Advisor**](Directory.md#SLO-County-Small-Claims-Advisor).
 Pueden ayudarle si está presentando un reclamo, respondiendo a un reclamo presentado en su contra, preparándose para su comparecencia en la corte, o cobrando un fallo a su favor.
 
 La Línea de Derecho de SLO ([805-548-8884](tel:+1-805-548-8884)) da consejos legales básicos gratuitos a personas que no pueden pagar un abogado, y puede ayudarle a encontrar asistencia legal adicional. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
