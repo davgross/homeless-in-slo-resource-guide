@@ -3077,9 +3077,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - Regístrese para clases en línea en [slcusd.asapconnected.com](https://slcusd.asapconnected.com/)
    - O, venga a la oficina durante el horario de oficina
    - O, llame durante el horario de oficina
-- Nota:
-   - El condado ha listado este sitio como un punto de encuentro “San Luis Obispo Family Resource Center” de su Sistema de Cuidado SAFE, pero la información de contacto que aparece allí es distinta a la de esta entrada, y no aparece como tal en el sitio web actual de San Luis Coastal Adult School <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) (verificado contra https://ae.slcusd.org/, 1 ago. 2026); SOURCE NEEDED para confirmar el estado actual -- llame para verificar -->
-   - Vea también [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers) y [**Link Family Resource Center**](#Link-Family-Resource-Center) para las oficinas del programa SAFE con horario público regular
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 

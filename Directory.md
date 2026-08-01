@@ -2996,9 +2996,6 @@ If you see one listed here that is no longer in service, please use the feedback
    - Register for classes online at [slcusd.asapconnected.com](https://slcusd.asapconnected.com/)
    - Or, come to the office during business hours
    - Or, call during business hours
-- Note:
-   - The county has listed this site as a “San Luis Obispo Family Resource Center” meeting point for its SAFE System of Care, but the contact info listed there differs from this Directory entry, and it does not appear as such on San Luis Coastal Adult School’s own current website <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) (checked against https://ae.slcusd.org/, 1 Aug. 2026); SOURCE NEEDED to confirm current status -- call to verify -->
-   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers) and [**Link Family Resource Center**](#Link-Family-Resource-Center) for the SAFE program offices with regular public hours
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
