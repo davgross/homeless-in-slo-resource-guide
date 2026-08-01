@@ -295,6 +295,8 @@ Contact service providers directly to verify their most current information befo
 - [For U.S. Military Veterans](#housing-veterans)
 - [Sober Living Homes and Residential Treatment Options](#sober-living-homes)
 
+> If you have children, see the [Family Resource Centers](#family-resource-centers) section, in [Children, Youth, and People with Children](#children-youth-parents), for agencies that can connect you to housing help and other support.
+
 ### <a id="eviction-protection">Eviction Prevention</a>
 
 If you are homeless or are threatened with eviction with a “pay rent or quit” notice, or if you have had to move your family into a hotel, you can get immediate help from the [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
@@ -613,8 +615,13 @@ It is designed specifically for people reentering society from incarceration.
 As of December 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
 - Source: https://hopesvillageofslo.com/helping
 
-The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) in Atascadero hopes to add 30 shelter beds for families to what is currently offered by [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO).
+The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) in Atascadero will add 30 shelter beds for families to what is currently offered by [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO).
+As of 1 August 2026 it is still under construction and is not yet open; do not uncomment/add this until confirmed open and taking families.
+ECHO broke ground in October 2025 and, as of March 2026, expected the building to be complete around October 2026 (about a year after groundbreaking); no firm opening date has been published.
+Do not confuse this with [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) in Grover Beach (a different, already-open program run by 5Cities Homeless Coalition, mentioned above), or with an unrelated "Balay Ko" senior housing development reported in SLO city.
 - Source: https://www.echoshelter.org/buildinghopeandhome
+- Source: https://www.ksby.com/san-luis-obispo/atascadero-homeless-organization-celebrates-new-construction-project-for-families (Oct. 6, 2025 groundbreaking article)
+- Source: https://atascaderonews.com/news/first-modular-units-arrive-for-balay-ko-family-resource-center/ (March 23, 2026: modular units arriving, still under construction, no opening date given)
 -->
 
 ### <a id="housing-veterans">For U.S. Military Veterans</a>
@@ -2836,6 +2843,8 @@ Many do not give you money directly, but help you purchase goods or pay bills.
 
 > See the [Banking and money management](#financial-literacy) section of this guide for financial literacy and credit counseling resources that can help you reduce your debt or save money for when you need it.
 
+> If you have children, see the [Family Resource Centers](#family-resource-centers) section, in [Children, Youth, and People with Children](#children-youth-parents); staff there can also help connect you to financial help.
+
 ### <a id="financial-aid-apply-yourself">You Can Apply Yourself</a>
 
 [**5Cities Homeless Coalition**](Directory.md#5CHC) has an [Immediate Needs](https://5chc.org/programs/immediate-needs) program that helps low-income families and individuals in need in the Five Cities area.
@@ -3401,6 +3410,7 @@ The free [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus
 
 **In this section:**
 
+1. [Family Resource Centers](#family-resource-centers)
 1. [Help with Parenting](#parenting)
 1. [Daycare, Preschool, and After-School Programs](#daycare)
 1. [Holiday Gifts for Children](#holiday-gifts-for-children)
@@ -3434,6 +3444,36 @@ These services are free to people with Medi-Cal/CenCal coverage, and available o
 > See [Family Law / Child Support](#family-law) in the [Legal Help & Crime Victim Protection](#legal-help) section of this guide for information about enforcing child support orders and other family law issues.
 
 > See the [Medical Resources for Specific Populations: Children](#medical-resources-specific-populations) in the [Health & Medical Care](#health-medical-care) section of this guide for pediatric and other child-oriented medical services.
+
+### <a id="family-resource-centers">Family Resource Centers</a>
+
+A “Family Resource Center” is a place that helps families with children.
+Staff can connect you to food, housing help, health care, school support, and parenting classes.
+They can also refer you to other agencies for more help.
+
+Different agencies in SLO County use the name “Family Resource Center” for different programs.
+Each program has its own services and its own rules.
+
+Most Family Resource Centers in SLO County are part of the county’s “SAFE System of Care.” <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+“SAFE” is short for “Services Affirming Family Empowerment.”
+SLO County created SAFE; it is a local program, not a state or national one. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+Schools, SLO County Behavioral Health, CAPSLO, and other agencies work together in SAFE to help children stay safe, healthy, and in school. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+
+You do not need a school or social worker to refer you.
+You can call or visit a SAFE Family Resource Center yourself and ask for help. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
+A school, doctor, or social worker can also refer you.
+
+The two SAFE Family Resource Centers you can visit are:
+
+- [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center), with offices in Atascadero and Paso Robles, serving families throughout northern SLO County.
+- [**SAFE Family Resource Centers**](Directory.md#SAFE-Family-Resource-Centers), run by CAPSLO, with offices in Oceano, Arroyo Grande, and Nipomo.
+
+CAPSLO also runs a different program with a similar name, the [**Paso Robles Family Resource Center**](Directory.md#North-County-Family-Resource-Center), at its own separate office.
+It focuses on young children: free developmental screening, help applying for Head Start, and help paying for child care. <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+
+[**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents) is a different kind of Family Resource Center.
+It is only for families who have a child with a disability or special needs. <!-- Source: https://www.phpslo.org/ -->
+It is part of a statewide network, the Family Resource Centers Network of California. <!-- Source: https://phpslo.org/en/about/ -->
 
 ### <a id="parenting">Help with Parenting</a>
 

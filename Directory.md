@@ -1913,14 +1913,14 @@
 - **Website:** [linkslo.org](https://linkslo.org/)
 - **Locations:**
    - Atascadero: <a href="#" class="map-link" data-lat="35.513562" data-lon="-120.686928" data-zoom="17" data-label="The Link Family Resource Center (Atascadero)">4507 Del Rio Ave Bldg. #1, Atascadero</a> <!-- Source: https://linkslo.org/ -->
-   - Paso Robles: <a href="#" class="map-link" data-lat="35.628326" data-lon="-120.691147" data-zoom="17" data-label="The Link Family Resource Center (Paso Robles)">1802 Chestnut St., Paso Robles</a>
+   - Paso Robles: <a href="#" class="map-link" data-lat="35.641077" data-lon="-120.693910" data-zoom="17" data-label="The Link Family Resource Center (Paso Robles)">665 26th St., Paso Robles</a> <!-- Source: https://linkslo.org/ (moved from the former 1802 Chestnut St. address; verified 1 Aug. 2026) -->
 - **Phone:** [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://linkslo.org/ -->
    - Family Advocate Services: [805-794-0217](tel:+1-805-794-0217) <!-- Source: https://linkslo.org/ -->
 - **Hours:** M–F 9am–5pm <!-- Source: https://linkslo.org/ -->
 - **How to access:** accepts self-referrals, school referrals, and community agency referrals
 - Notes:
    - Operated by [**Center for Family Strengthening (CFS)**](#CFS)
-   - See also [**North County Family Resource Center**](#North-County-Family-Resource-Center)
+   - See also [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center) (a separate program, also run in Paso Robles, this one operated by CAPSLO)
    - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
 
 ## <a id="Literacy-Connection">The Literacy Connection</a>
@@ -2237,7 +2237,8 @@ If you see one listed here that is no longer in service, please use the feedback
    - Community Dinners: Wednesdays 5–6pm <!-- Source: https://www.losososcares.com/programs -->
 - Notes:
    - Hosts Community Dinner at [**South Bay Community Center**](#South-Bay-Community-Center)
-   - Hosts “Coastal Family Resource Center”
+   - The county has listed this site as a “Coastal Family Resource Center” meeting point for its SAFE System of Care, but the contact info listed there differs from this Directory entry, and it does not appear as such on Los Osos Cares’ own current website <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) (checked against https://www.losososcares.com/, 1 Aug. 2026); SOURCE NEEDED to confirm current status -- call to verify -->
+   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers) and [**Link Family Resource Center**](#Link-Family-Resource-Center) for the SAFE program offices with regular public hours
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
 
@@ -2516,15 +2517,6 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Hours:** M–F 10am–5pm <!-- Source: https://www.urgentcare.com/practice/U4378-north-county-care-minor-services-paso-robles-ca-93446 -->
 <!-- Cash-only; does not accept insurance (source: phone call 12-May-2026) -->
 
-## <a id="North-County-Family-Resource-Center">North County Family Resource Center</a>
-
-- **Website:** [capslo.org/north-county-family-resource-center](https://capslo.org/north-county-family-resource-center/)
-- **Location:** <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Family Resource Center">704 Spring St., Paso Robles</a> <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
-- **Phone:** [805-440-1878](tel:+1-805-440-1878) <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
-- Notes:
-   - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
-   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
-
 ## <a id="North-County-NeighborAid">North County NeighborAid</a>
 
 - **Website:** [cfsslo.org/north-county-neighboraid](https://cfsslo.org/north-county-neighboraid/)
@@ -2593,6 +2585,11 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Phone:** [805-543-3277](tel:+1-805-543-3277) <!-- Source: https://www.phpslo.org/ -->
 - **Email:** [php@ucp-slo.org](mailto:php@ucp-slo.org) <!-- Source: https://www.phpslo.org/ -->
+- **How to access:** Call or email to ask about services. <!-- Source: https://www.phpslo.org/en/referral/ -->
+- Notes:
+   - Designated a Family Resource Center (FRC) and Family Empowerment Center (FEC); a member of the statewide [Family Resource Centers Network of California](https://frcnca.org/) <!-- Source: https://phpslo.org/en/about/ -->
+   - Serves families of children with disabilities or special needs, from birth to adulthood <!-- Source: https://phpslo.org/en/about/ -->
+   - A program of UCP of San Luis Obispo County (UCP+) <!-- Source: https://phpslo.org/en/about/ and email address domain ucp-slo.org -->
 
 ## <a id="Paso-Cares">Paso Cares</a>
 
@@ -2606,6 +2603,18 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Phone:** [805-591-0078](tel:+1-805-591-0078) <!-- Source: https://www.pasocares.org/ and other pages on that site -->
 - **Email:** [pasocares@gmail.com](mailto:pasocares@gmail.com) <!-- Source: https://www.pasocares.org/ -->
+
+## <a id="North-County-Family-Resource-Center">Paso Robles Family Resource Center</a>
+
+<!-- This program was formerly called "North County Family Resource Center"; CAPSLO's own website now titles it "Paso Robles Family Resource Center" (verified 1 Aug. 2026). Anchor id kept as North-County-Family-Resource-Center so existing links do not break. Hours and email not found on capslo.org as of 1 Aug. 2026 -- call 805-440-1878 to confirm. -->
+- **Website:** [capslo.org/north-county-family-resource-center](https://capslo.org/north-county-family-resource-center/)
+- **Location:** <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Paso Robles Family Resource Center">704 Spring St., Paso Robles</a> <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+- **Phone:** [805-440-1878](tel:+1-805-440-1878) <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+- Notes:
+   - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
+   - Services include free developmental screening for children aged 0–5 (Help Me Grow), help applying for Head Start/Early Head Start, and child care payment assistance and navigation <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+   - Not to be confused with [**The Link Family Resource Center**](#Link-Family-Resource-Center)’s separate Paso Robles office
+   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
 
 ## <a id="Paso-Robles-Housing-Authority">Paso Robles Housing Authority</a>
 
@@ -2916,16 +2925,18 @@ If you see one listed here that is no longer in service, please use the feedback
 <!-- Source (location/phone): https://capslo.org/s-a-f-e-family-resource-centers/ -->
 | Location | Phone |
 | -------- | ----- |
-| <a href="#" class="map-link" data-lat="35.102919" data-lon="-120.610154" data-zoom="17" data-label="SAFE Family Resource Center">1511 19th St., Oceano</a> | [805-474-3690](tel:+1-805-474-3690) |
+| <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">1425 19th St., Oceano</a> | [805-474-3690](tel:+1-805-474-3690) |
 | <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">1086 Grand Ave., Arroyo Grande</a> | [805-474-2105](tel:+1-805-474-2105) |
 | <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">920 W. Tefft St., Nipomo</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) |
 
+<!-- Oceano address updated 1 Aug. 2026 from 1511 19th St. (Oceano Library building) to 1425 19th St. (Oceano Community Center building) per current capslo.org text; a human should confirm by phone, since this changed from the prior sourced value. -->
 - **Email:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
-- **How to access:** Walk-ins OK; appointments preferred.
+- **How to access:** Walk-ins OK; appointments preferred. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
+<!-- Hours not found on capslo.org or other reputable sources as of 1 Aug. 2026 -- call to confirm -->
 - Note:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
-   - See also [**North County Family Resource Center**](#North-County-Family-Resource-Center)
+   - See also [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center)
 
 ## <a id="St-Barnabas-Thrift-Shop">St. Barnabas Thrift Shop</a>
 
@@ -2988,7 +2999,8 @@ If you see one listed here that is no longer in service, please use the feedback
    - Or, come to the office during business hours
    - Or, call during business hours
 - Note:
-   - Hosts “San Luis Obispo Family Resource Center”
+   - The county has listed this site as a “San Luis Obispo Family Resource Center” meeting point for its SAFE System of Care, but the contact info listed there differs from this Directory entry, and it does not appear as such on San Luis Coastal Adult School’s own current website <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) (checked against https://ae.slcusd.org/, 1 Aug. 2026); SOURCE NEEDED to confirm current status -- call to verify -->
+   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers) and [**Link Family Resource Center**](#Link-Family-Resource-Center) for the SAFE program offices with regular public hours
 
 ## <a id="SLO-College-of-Law-Legal-Clinic">San Luis Obispo College of Law Legal Clinic</a>
 
