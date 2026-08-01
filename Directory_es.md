@@ -2267,8 +2267,6 @@
    - cenas comunitarias: los miércoles 5–6pm <!-- Source: https://www.losososcares.com/programs -->
 - Notas:
    - alberga cenas comunitarias en [**South Bay Community Center**](#South-Bay-Community-Center)
-   - El condado ha listado este sitio como un punto de encuentro “Coastal Family Resource Center” de su Sistema de Cuidado SAFE, pero la información de contacto que aparece allí es distinta a la de esta entrada, y no aparece como tal en el sitio web actual de Los Osos Cares <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) (verificado contra https://www.losososcares.com/, 1 ago. 2026); SOURCE NEEDED para confirmar el estado actual -- llame para verificar -->
-   - Vea también [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers) y [**Link Family Resource Center**](#Link-Family-Resource-Center) para las oficinas del programa SAFE con horario público regular
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
 

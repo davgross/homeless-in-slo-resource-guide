@@ -2237,8 +2237,6 @@ If you see one listed here that is no longer in service, please use the feedback
    - Community Dinners: Wednesdays 5–6pm <!-- Source: https://www.losososcares.com/programs -->
 - Notes:
    - Hosts Community Dinner at [**South Bay Community Center**](#South-Bay-Community-Center)
-   - The county has listed this site as a “Coastal Family Resource Center” meeting point for its SAFE System of Care, but the contact info listed there differs from this Directory entry, and it does not appear as such on Los Osos Cares’ own current website <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) (checked against https://www.losososcares.com/, 1 Aug. 2026); SOURCE NEEDED to confirm current status -- call to verify -->
-   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers) and [**Link Family Resource Center**](#Link-Family-Resource-Center) for the SAFE program offices with regular public hours
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
 
