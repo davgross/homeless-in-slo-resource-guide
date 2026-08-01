@@ -845,6 +845,7 @@
 - **Sitio web:** [basicneeds.calpoly.edu/foodpantry](https://basicneeds.calpoly.edu/foodpantry)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.298148" data-lon="-120.660616" data-zoom="17" data-label="Cal Poly Food Pantry">Cal Poly campus, building 27, room 10</a> <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
 - **Teléfono:** [805-756-7818](tel:+1-805-756-7818) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
+- **Correo electrónico:** [wellbeing@calpoly.edu](mailto:wellbeing@calpoly.edu) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
 - **Horario:**
    - L–V 8:30am–5pm (estudiantes de Cal Poly) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
    - V 8:30am–5pm (empleados de Cal Poly) <!-- Source: https://basicneeds.calpoly.edu/foodpantry -->
@@ -2161,8 +2162,7 @@
 
 ## <a id="Lifepoint-Church">Lifepoint Church</a>
 
-<!-- Source: https://lifepointcentralcoast.com/about/ -->
-- **Sitio web:** [lifepointcentralcoast.com](https://lifepointcentralcoast.com/) <!-- inactive on 30 Nov 2025 -->
+- **Sitio web:** [lifepointcentralcoast.com](https://lifepointcentralcoast.com/)
 - **Ubicaciones:**
    - Main: <a href="#" class="map-link" data-lat="35.115749" data-lon="-120.575423" data-zoom="17" data-label="Lifepoint Church">207 Pilgrim Way, Arroyo Grande</a>
    - Outreach location: <a href="#" class="map-link" data-lat="35.120091" data-lon="-120.619796" data-zoom="17" data-label="Lifepoint Church outreach location">946 Rockaway Ave., Grover Beach</a>
