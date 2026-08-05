@@ -295,7 +295,7 @@ Comuníquese directamente con los proveedores de servicios para verificar su inf
 - [Para Veteranos Militares de EE.UU.](#housing-veterans)
 - [Viviendas de Vida Sobria y Opciones de Tratamiento Residencial](#sober-living-homes)
 
-> Si tiene hijos, vea la sección [Centros de Recursos Familiares](#family-resource-centers), en [Niños, Jóvenes y Personas con Hijos](#children-youth-parents), para conocer agencias que pueden ayudarlo con vivienda y otro tipo de apoyo.
+> Si tiene hijos, vea la subsección [Centros de Recursos Familiares](#family-resource-centers), en la sección [Niños, Jóvenes y Personas con Hijos](#children-youth-parents), para conocer agencias que pueden ayudarlo con vivienda y otro tipo de apoyo.
 
 ### <a id="eviction-protection">Prevención de Desalojos</a>
 
@@ -2843,7 +2843,7 @@ Muchos no le dan dinero directamente, sino que le ayudan a comprar bienes o paga
 
 > Vea la sección de [Banca y manejo de dinero](#financial-literacy) de esta guía para recursos de educación financiera y asesoramiento de crédito que pueden ayudarle a reducir su deuda o ahorrar dinero para cuando lo necesite.
 
-> Si tiene hijos, vea la sección [Centros de Recursos Familiares](#family-resource-centers), en [Niños, Jóvenes y Personas con Hijos](#children-youth-parents); el personal de allí también puede ayudarlo a conectarse con ayuda financiera.
+> Si tiene hijos, vea la subsección [Centros de Recursos Familiares](#family-resource-centers), en la sección [Niños, Jóvenes y Personas con Hijos](#children-youth-parents); el personal de allí también puede ayudarlo a conectarse con ayuda financiera.
 
 ### <a id="financial-aid-apply-yourself">Puede Solicitar Usted Mismo</a>
 
@@ -2900,7 +2900,7 @@ Vea [su sitio web](https://www.modestneeds.org/mn/for-applicants) para instrucci
 
 Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener ayuda con alimentos, vivienda, salud y bienestar, transporte, libros de texto, pases de estacionamiento, tecnología y otras necesidades básicas de la [Oficina de Necesidades Básicas](https://www.cuesta.edu/student-support/basic-needs-center/index.html).
 
-Personas y familias indocumentadas o de estatus migratorio mixto que han sido directamente impactadas por la aplicación de la ley de inmigración pueden solicitar al [Fondo de Asistencia de Emergencia](https://www.805undocufund.org/programs#anchors-lt8rv4na) administrado por 805UnocuFund para ayuda financiera de una sola vez. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
+Personas y familias indocumentadas o de estatus migratorio mixto que han sido directamente impactadas por la aplicación de la ley de inmigración pueden solicitar al [Fondo de Asistencia de Emergencia](https://www.805undocufund.org/programs#anchors-lt8rv4na) administrado por 805UndocuFund para ayuda financiera de una sola vez. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
 Contacte a [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) o llame al [805-538-7070](tel:+1-805-538-7070) para solicitar. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
 Los estudiantes indocumentados o con estatus migratorio mixto (desde kínder hasta la universidad) del condado de SLO también pueden solicitar asistencia financiera a través de la [**Coalición para el Éxito de Estudiantes Indocumentados de la Costa Central**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success).
 Complete el formulario en [tinyurl.com/CCCUSS-Apply](https://tinyurl.com/CCCUSS-Apply) o envíe un correo electrónico a [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com).

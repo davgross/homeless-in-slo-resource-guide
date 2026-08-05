@@ -3275,7 +3275,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## <a id="SLO-Cal-Careers-Center">SLO Cal Careers Center</a>
 
 - **Sitio web:** [SLOCalCareers.org](https://SLOCalCareers.org)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.251551" data-lon="-120.668077" data-zoom="18" data-label="SLO Cal Careers Center">3563 Empleo Street, SLO</a>
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.269138" data-lon="-120.666145" data-zoom="17" data-label="SLO Cal Careers Center">285 South St. #K, SLO</a>
 - **Teléfono:** [805-439-2557](tel:+1-805-439-2557)
 - **Correo electrónico:**
    - [SLOCal@eckerd.org](mailto:SLOCal@eckerd.org)

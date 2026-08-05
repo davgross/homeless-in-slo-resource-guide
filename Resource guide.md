@@ -295,7 +295,7 @@ Contact service providers directly to verify their most current information befo
 - [For U.S. Military Veterans](#housing-veterans)
 - [Sober Living Homes and Residential Treatment Options](#sober-living-homes)
 
-> If you have children, see the [Family Resource Centers](#family-resource-centers) section, in [Children, Youth, and People with Children](#children-youth-parents), for agencies that can connect you to housing help and other support.
+> If you have children, see the [Family Resource Centers](#family-resource-centers) subsection, in the [Children, Youth, and People with Children](#children-youth-parents) section, for agencies that can connect you to housing help and other support.
 
 ### <a id="eviction-protection">Eviction Prevention</a>
 
@@ -2843,7 +2843,7 @@ Many do not give you money directly, but help you purchase goods or pay bills.
 
 > See the [Banking and money management](#financial-literacy) section of this guide for financial literacy and credit counseling resources that can help you reduce your debt or save money for when you need it.
 
-> If you have children, see the [Family Resource Centers](#family-resource-centers) section, in [Children, Youth, and People with Children](#children-youth-parents); staff there can also help connect you to financial help.
+> If you have children, see the [Family Resource Centers](#family-resource-centers) subsection, in the [Children, Youth, and People with Children](#children-youth-parents) section; staff there can also help connect you to financial help.
 
 ### <a id="financial-aid-apply-yourself">You Can Apply Yourself</a>
 
@@ -2900,7 +2900,7 @@ See [their website](https://www.modestneeds.org/mn/for-applicants) for instructi
 
 If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get help with food, housing, health and well-being, transportation, textbooks, parking passes, technology, and other basic needs from the [Basic Needs Office](https://www.cuesta.edu/student-support/basic-needs-center/index.html).
 
-Undocumented or mixed-status people and families who have been directly impacted by immigration enforcement can apply to the [Emergency Assistance Fund](https://www.805undocufund.org/programs#anchors-lt8rv4na) managed by 805UnocuFund for one-time financial help. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
+Undocumented or mixed-status people and families who have been directly impacted by immigration enforcement can apply to the [Emergency Assistance Fund](https://www.805undocufund.org/programs#anchors-lt8rv4na) managed by 805UndocuFund for one-time financial help. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
 Contact [beatriz@805undocufund.org](mailto:beatriz@805undocufund.org) or call [805-538-7070](tel:+1-805-538-7070) to apply. <!-- Source: https://www.805undocufund.org/programs#anchors-lt8rv4na -->
 Undocumented or mixed-status students (kindergarten through college) in SLO County can also apply for financial assistance through the [**Central Coast Coalition for Undocumented Student Success**](Directory.md#Central-Coast-Coalition-for-Undocumented-Student-Success).
 Complete the form at [tinyurl.com/CCCUSS-Apply](https://tinyurl.com/CCCUSS-Apply) or email them at [ccc.undocu@gmail.com](mailto:ccc.undocu@gmail.com).
