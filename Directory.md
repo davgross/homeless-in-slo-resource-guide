@@ -520,12 +520,12 @@
 ## <a id="California-Connect">California Connect</a>
 
 - **Website:** [caconnect.org](https://caconnect.org/)
-- **Location:** <a href="#" class="map-link" data-lat="35.253573" data-lon="-120.667102" data-zoom="17" data-label="California Connect">3426 Empresa Dr. #120, SLO</a> <!-- Source: https://caconnect.org/service/ -->
+- **Location:** <a href="#" class="map-link" data-lat="35.258145" data-lon="-120.692577" data-zoom="17" data-label="California Connect">11491 Los Osos Valley Rd, SLO</a> <!-- Source: https://caconnect.org/service/ -->
 - **Phone:** [800-806-1191](tel:+1-800-806-1191) <!-- Source: https://caconnect.org/ --> (TTY: [800-806-4474](tel:+1-800-806-4474)) <!-- Source: https://caconnect.org/service/ -->
 - **Email:**
    - [info@caconnect.org](mailto:info@caconnect.org) <!-- Source: https://caconnect.org/ -->
    - [ddtp@cpuc.ca.gov](mailto:ddtp@cpuc.ca.gov)
-- **Hours:** M–F 8am–5pm <!-- Source: https://caconnect.org/service/ -->
+- **Hours:** W 9am–3pm <!-- Source: https://caconnect.org/service/ -->
 
 ## <a id="California-Cool-Thrift-Store">California Cool Thrift Store</a>
 
