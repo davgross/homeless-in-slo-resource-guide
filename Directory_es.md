@@ -3290,8 +3290,8 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 - **Sitio web:** [slocog.org](https://www.slocog.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.281490" data-lon="-120.658717" data-zoom="17" data-label="SLO Council of Governments">1114 Marsh Street, SLO</a> { Source: https://www.slocog.org/ }
-- **Teléfono:** [805-781-4219](tel:+1-805-781-4219) { Source: https://www.slocog.org/contact-page }
-- **Correo electrónico:** [slocog@slocog.org](mailto:slocog@slocog.org) { Source: https://www.slocog.org/contact-page }
+- **Teléfono:** [805-781-4219](tel:+1-805-781-4219) { Source: https://slocog.org/contact/ }
+- **Correo electrónico:** [slocog@slocog.org](mailto:slocog@slocog.org) { Source: https://slocog.org/contact/ }
 -->
 
 ## SLO Counseling Service

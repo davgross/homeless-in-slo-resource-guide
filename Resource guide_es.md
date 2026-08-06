@@ -3516,11 +3516,11 @@ También hay un programa “Migrant and Seasonal Head Start” (Head Start para 
 Puede solicitar ese programa completando [el formulario en esta página](https://www.childplus.net/apply/es/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
 Para más información, contacte a [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) o [888-633-6747](tel:+1-888-633-6747). <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
 
-[Futuros Brillantes](http://luciamarschools.org/251185_2) es un programa para estudiantes inscritos en el Distrito Escolar Unificado de Lucia Mar. <!-- Source: https://www.luciamarschools.org/251185_2 -->
+[Futuros Brillantes](https://www.luciamarschools.org/251185_2) es un programa para estudiantes inscritos en el Distrito Escolar Unificado de Lucia Mar. <!-- Source: https://www.luciamarschools.org/251185_2 -->
 Da a estudiantes de K-8 un ambiente seguro antes y después de la escuela incluyendo apoyo académico y clases de enriquecimiento, así como una cena gratuita. <!-- Source: https://www.luciamarschools.org/251185_2 -->
 Hay espacios limitados disponibles, y a veces hay una lista de espera. <!-- SOURCE NEEDED -->
 Se da prioridad a jóvenes en hogares de crianza, estudiantes que experimentan falta de hogar, estudiantes de inglés como segundo idioma y estudiantes que califican para servicios de almuerzo gratuito/a precio reducido. <!-- SOURCE NEEDED -->
-Puede solicitar inscribir a su hijo en este programa en el sitio web de [Futuros Brillantes](http://luciamarschools.org/251185_2).
+Puede solicitar inscribir a su hijo en este programa en el sitio web de [Futuros Brillantes](https://www.luciamarschools.org/251185_2).
 
 El [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) opera varios programas incluyendo cuidado infantil para niños de 2–5 años que incluye educación de la primera infancia, terapia y rehabilitación para niños que la necesitan, comidas (desayuno, almuerzo y merienda) y eventos familiares. <!-- Source: https://www.childrensresource.org/curriculum and https://www.childrensresource.org/therapy and https://www.childrensresource.org/classrooms and https://www.childrensresource.org/food-program and https://www.childrensresource.org/other -->
 Se especializan en trabajar con niños que vienen de circunstancias que incluyen pobreza, falta de hogar, hogares de crianza, violencia doméstica o abuso infantil. <!-- Source: https://members.slochamber.org/directory/Details/child-development-resource-center-of-the-central-coast-2095758 -->
