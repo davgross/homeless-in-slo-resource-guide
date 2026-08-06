@@ -3515,11 +3515,11 @@ There is also a “Migrant and Seasonal Head Start” program designed specifica
 You can apply for that program by completing [the form on this page](https://www.childplus.net/apply/en-us/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572).
 For more information, contact [mshschildcare@capslo.org](mailto:mshschildcare@capslo.org) or [888-633-6747](tel:+1-888-633-6747). <!-- Source: https://capslo.org/migrant-and-seasonal-head-start/ -->
 
-[Bright Futures](http://luciamarschools.org/251185_2) is a program for students who are registered in the Lucia Mar Unified School District. <!-- Source: https://www.luciamarschools.org/251185_2 -->
+[Bright Futures](https://www.luciamarschools.org/251185_2) is a program for students who are registered in the Lucia Mar Unified School District. <!-- Source: https://www.luciamarschools.org/251185_2 -->
 It gives K-8 students a safe before- and after-school environment including academic support and enrichment classes, as well as a free supper. <!-- Source: https://www.luciamarschools.org/251185_2 -->
 There are limited spaces available, and sometimes there is a waiting list. <!-- SOURCE NEEDED -->
 Priority is given to foster youth, students experiencing homelessness, English language learners, and students qualifying for free/reduced price lunch services. <!-- SOURCE NEEDED -->
-You can apply to enroll your child in this program at the [Bright Futures](http://luciamarschools.org/251185_2) website.
+You can apply to enroll your child in this program at the [Bright Futures](https://www.luciamarschools.org/251185_2) website.
 
 The [**Child Development Resource Center**](Directory.md#Child-Development-Resource-Center) operates several programs including childcare for children aged 2–5 that includes early-childhood education, therapy and rehabilitation for children who need it, meals (breakfast, lunch, and an afternoon snack), and family events. <!-- Source: https://www.childrensresource.org/curriculum and https://www.childrensresource.org/therapy and https://www.childrensresource.org/classrooms and https://www.childrensresource.org/food-program and https://www.childrensresource.org/other -->
 They specialize in working with children who come from circumstances that included poverty, homelessness, foster care, domestic violence, or child abuse. <!-- Source: https://members.slochamber.org/directory/Details/child-development-resource-center-of-the-central-coast-2095758 -->
