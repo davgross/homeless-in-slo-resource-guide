@@ -3248,6 +3248,8 @@ Contact them at [digitalliteracy@ccgoodwill.org](mailto:digitalliteracy@ccgoodwi
 [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) have not only books, but online research databases, computers with internet access, English conversation practice sessions, and several [online learning](https://catalog.slolibrary.org/online-learning) programs.
 <!-- Sources: https://catalog.slolibrary.org/tlc and https://catalog.slolibrary.org/online-learning -->
 
+The [Library Van](https://catalog.slolibrary.org/branch-out-library-van) brings SLO County Public Libraries materials to DeVaul Park in SLO on the second and third Saturday afternoons, 1–2:30pm. <!-- Source: https://catalog.slolibrary.org/branch-out-library-van -->
+
 Cal Poly’s [Robert E. Kennedy Library](https://library.calpoly.edu/) is a resource not just for Cal Poly students and faculty but for the inhabitants of the Central Coast in general. <!-- Source: https://library.calpoly.edu/about/policies -->
 The library supports the principle of open access to its collections by the community and region. <!-- Source: https://library.calpoly.edu/about/policies -->
 Members of the community can come to the library during main library opening hours and can access most databases while on the premises by bringing their own device and signing onto Cal Poly guest wireless. <!-- Source: https://library.calpoly.edu/about/policies -->

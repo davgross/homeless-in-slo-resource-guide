@@ -3405,6 +3405,9 @@ If you see one listed here that is no longer in service, please use the feedback
 | Shandon: <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="SLO County Public Library">195 N. 2nd St.</a> | [805-237-3009](tel:+1-805-237-3009) | Tu/W 10am–6pm (closed 12:30–1pm), Sa 9am–5pm (closed 12:30–1pm) |
 | Shell Beach: <a href="#" class="map-link" data-lat="35.154648" data-lon="-120.669678" data-zoom="17" data-label="SLO County Public Library">230 Leeward Ave.</a> | [805-773-2263](tel:+1-805-773-2263) | Tu/W 10am–1pm and 2–6pm, Sa 9am–5pm |
 
+- **Library Van:** <a href="#" class="map-link" data-lat="35.254738" data-lon="-120.69423" data-zoom="17" data-label="Branch Out Library Van">DeVaul Park, 1651 Spooner Dr., SLO</a>, second and third Saturday afternoons 1–2:30pm <!-- Source: https://catalog.slolibrary.org/branch-out-library-van -->
+   - **Website:** [catalog.slolibrary.org/branch-out-library-van](https://catalog.slolibrary.org/branch-out-library-van)
+
 - Note: [**Transitions Mental Health Association (TMHA)**](#TMHA) has a “Library Outreach Team” that connects library patrons who are experiencing homelessness with a social worker and case manager to help them overcome barriers to accessing crucial social services. You can meet the Library Outreach Team at the following library branches (this schedule is subject to change; contact [mvargas@t-mha.org](mailto:mvargas@t-mha.org) for the most up-to-date schedule):
    - Atascadero: W 10:30am–Noon
    - Arroyo Grande: Th 9:30–11am
