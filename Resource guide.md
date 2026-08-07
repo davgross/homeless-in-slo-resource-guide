@@ -1101,7 +1101,7 @@ Rides are not free; they cost about twice as much as ordinary RTA rides. <!-- So
 However people who qualify to use Runabout Paratransit can also ride the ordinary RTA service for free. <!-- Source: https://www.slorta.org/fares/discounts/ -->
 
 [**SLO Transit**](Directory.md#SLO-Transit) is the San Luis Obispo city bus system.
-You can use the [SLO Transit RiderPortal](https://slo.rider.peaktransit.com/) website or phone app ([iPhone](https://itunes.apple.com/us/app/slo-transit/id458554556?mt=8), [Android](https://play.google.com/store/apps/details?id=edu.calpoly.android.SloBusMapper&hl=en)) to view routes and to see when the next bus is due to arrive.
+You can use the [SLO Transit RiderPortal](https://slo.rider.peaktransit.com/) website or the [Transit phone app](https://transitapp.com/) to view routes and to see when the next bus is due to arrive.
 You can buy bus passes on the bus or by using the [Token Transit](https://tokentransit.com/riders/download) app.
 (Another option for viewing bus arrival times and for planning travel is the [moovit](https://moovitapp.com/index/en/public_transit-San_Luis_Obispo_CA-4003) app.)
 If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit buses. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
@@ -1398,6 +1398,10 @@ The cost is $2/five minutes and 50¢ per minute thereafter. <!-- Verified by Mat
 Some commercial gyms have showers.
 For example, a $15 day pass to the [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) provides access to all of their facilities, including showers. <!-- Source: https://pbac.com/guest-rates/ and https://pbac.com/membership/ -->
 Some Medicare supplement plans have a “Silver Sneakers” program with which you can get free gym memberships. <!-- Source: https://tools.silversneakers.com/Help -->
+
+### <a id="public-restrooms">Public Restrooms</a>
+
+The city of SLO published [a map of public restrooms](https://experience.arcgis.com/experience/6af14994bfde43e997fb24423dc9e046) within city limits.
 
 -----
 
