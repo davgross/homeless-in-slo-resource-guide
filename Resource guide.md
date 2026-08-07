@@ -1821,7 +1821,7 @@ The [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) has resource
 [**PathPoint**](Directory.md#PathPoint) also has services for people with developmental disabilities. <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
 
 If you use American Sign Language, [**Lifesigns**](Directory.md#Lifesigns) can provide an interpreter to accompany you at your medical appointments. <!-- Source: https://lifesignsinc.org/ -->
-[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) can help with telephone call interpreting. <!-- Sources: https://tcglad.org/human-services/ -->
+[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) can help with telephone call interpreting. <!-- Sources: https://tcglad.org/our-services/ -->
 
 #### People with HIV or Hepatitis-C
 
@@ -2802,7 +2802,7 @@ Avoid using commercial tax preparers that charge high fees, or that offer refund
 Some of these preparers give poor-quality tax advice, and most of them are bad bargains compared to the free services.
 
 If you are due a tax refund, you will get that refund more quickly if you have a bank account that accepts direct deposit.
-The U.S. Internal Revenue Service stopped issuing paper tax refund checks in 2025. <!-- Source: https://www.irs.gov/newsroom/irs-to-phase-out-paper-tax-refund-checks-starting-with-individual-taxpayerspreparers -->
+The U.S. Internal Revenue Service stopped issuing paper tax refund checks in 2025. <!-- Source: https://www.irs.gov/newsroom/irs-to-phase-out-paper-tax-refund-checks-starting-with-individual-taxpayers -->
 
 > See the [Banking and Money Management](#banking-and-money-management) section of this guide for help in establishing a bank account.
 
