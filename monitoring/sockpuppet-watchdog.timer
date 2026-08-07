@@ -1,0 +1,11 @@
+[Unit]
+Description=Poll sockpuppetbrowser for a wedged browser pool
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=5min
+AccuracySec=30s
+Unit=sockpuppet-watchdog.service
+
+[Install]
+WantedBy=timers.target

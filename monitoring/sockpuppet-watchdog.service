@@ -1,0 +1,7 @@
+[Unit]
+Description=Recover a wedged sockpuppetbrowser browser pool
+Documentation=file:///home/dgross/ResourceGuide/monitoring/sockpuppet-watchdog.README.md
+
+[Service]
+Type=oneshot
+ExecStart=/home/dgross/ResourceGuide/monitoring/sockpuppet-watchdog.sh

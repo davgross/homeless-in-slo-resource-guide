@@ -15,6 +15,11 @@ services:
       # Use polling for file changes
       - USE_X_SETTINGS=1
     restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
 
   # Playwright browser for JavaScript rendering
   # Using the official changedetection.io recommended image
@@ -23,7 +28,35 @@ services:
     hostname: sockpuppetbrowser
     restart: unless-stopped
     shm_size: "2g"
+    ports:
+      # Stats endpoint, bound to loopback only: curl http://127.0.0.1:8080/stats
+      - "127.0.0.1:8080:8080"
     environment:
       - SCREEN_WIDTH=1920
       - SCREEN_HEIGHT=1080
-      - MAX_CONCURRENT_CHROME_PROCESSES=2
+      # Must stay comfortably ABOVE changedetection's worker count (currently 3).
+      # If workers > this value, surplus workers get their CDP connection closed
+      # instantly, which surfaces as "Target page, context or browser has been closed".
+      - MAX_CONCURRENT_CHROME_PROCESSES=5
+      # Misleading name: "true" makes a connection WAIT (up to 120s) for a free
+      # slot instead of being rejected the moment capacity is reached.
+      - DROP_EXCESS_CONNECTIONS=true
+    # sockpuppetbrowser has no per-session timeout: a slot is only released when
+    # the client websocket closes, so a half-open client leaks a slot forever.
+    # Report unhealthy after 5 straight minutes at capacity so a supervisor can act.
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - >-
+          python3 -c "import json,urllib.request,sys;
+          s=json.load(urllib.request.urlopen('http://127.0.0.1:8080/stats',timeout=5));
+          sys.exit(1 if s['active_connections'] >= 5 else 0)"
+      interval: 60s
+      timeout: 15s
+      retries: 5
+      start_period: 30s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

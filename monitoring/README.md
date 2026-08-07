@@ -109,6 +109,12 @@ In the web interface:
 3. Set **"Maximum workers"** to `2` or `3` (don't overload your system)
 4. Click **"Save"**
 
+*Important*: if you raise the worker count, also raise
+`MAX_CONCURRENT_CHROME_PROCESSES` in `docker-compose.yml` to stay above it.
+Workers in excess of the browser pool size get their connection closed the
+instant they connect, which surfaces as "Target page, context or browser has
+been closed" on browser-backed watches.
+
 ### 5. Start Monitoring
 
 Click **"Check Now"** on the main page to run the first check on all watches. This initial check establishes the baseline for future change detection.
@@ -290,8 +296,25 @@ Some sites require JavaScript rendering. If you see blank content:
 
 If browser container is having issues:
 ```bash
-docker compose restart playwright-chrome
+docker compose restart sockpuppetbrowser
 ```
+
+### "Target page, context or browser has been closed"
+
+If browser-backed watches fail with this, and the websocket log shows a connect
+immediately followed by `code=1000 reason=""`, the browser pool is full rather
+than the page being unreachable. Check it:
+
+```bash
+curl -s http://127.0.0.1:8080/stats | jq
+```
+
+`active_connections` sitting at `MAX_CONCURRENT_CHROME_PROCESSES` while
+`connection_count_total` stays frozen means slots have leaked and the pool is
+wedged. A watchdog now detects and clears this automatically — see
+**[sockpuppet-watchdog.README.md](sockpuppet-watchdog.README.md)** for the full
+explanation, including why `MAX_CONCURRENT_CHROME_PROCESSES` must stay above
+the changedetection.io worker count.
 
 ### Too Many False Positives
 
