@@ -1,5 +1,15 @@
 # Fixing Browser Timeout Errors
 
+> **Note (2026-08-07)**: this document covers *timeouts* — pages genuinely too slow
+> to load. It does not cover the similar-looking
+> "BrowserType.connect_over_cdp: Target page, context or browser has been closed",
+> which means the browser pool was full and the page was never fetched at all.
+> See **[sockpuppet-watchdog.README.md](sockpuppet-watchdog.README.md)** for that one.
+>
+> Also note that step 3 below interacts with the browser pool size: keeping
+> `MAX_CONCURRENT_CHROME_PROCESSES` in `docker-compose.yml` at or below the worker
+> count causes the surplus workers to fail instantly. Keep the pool larger.
+
 ## The Problem
 
 The error "Page.goto: Target page, context or browser has been closed" means:
