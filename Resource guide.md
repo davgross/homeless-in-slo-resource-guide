@@ -2880,11 +2880,7 @@ The [**Los Osos Cares**](Directory.md#Los-Osos-Cares) Resource Center can give i
 To apply for gasoline from this program, [submit an application on their website](https://www.jccslo.com/jfs-gas-request.html).
 You must have a valid drivers license, vehicle registration, and auto insurance.
 
-[**Catholic Charities**](Directory.md#Catholic-Charities) operates <!-- This page has gone 404 as of 10 Dec 2025
-a one-time “Emergency Rental Assistance” program.
-It is only available sometimes.
-Check {this web page}{https://catholiccharitiesdom.org/family-supportive-services/hope-in-home/} to see if the program is currently in effect and if so, how to apply for it.
-They also operate --> a [“Financial Stability Services”](https://catholiccharitiesdom.org/family-supportive-services/) program which can provide financial resources to low-income people in financial crisis.
+[**Catholic Charities**](Directory.md#Catholic-Charities) operates a [“Financial Stability Services”](https://catholiccharitiesdom.org/family-supportive-services/) program which can provide financial resources to low-income people in financial crisis.
 <!-- SOURCE NEEDED:
 To apply for these programs, first call their main or Paso Robles number to make an appointment.
 When applying for help, bring your identification, proof of income, and proof of need.

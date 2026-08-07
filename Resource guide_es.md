@@ -2880,11 +2880,7 @@ El Centro de Recursos [**Los Osos Cares**](Directory.md#Los-Osos-Cares) puede da
 Para solicitar gasolina de este programa, [presente una solicitud en su sitio web](https://www.jccslo.com/jfs-gas-request.html).
 Debe tener una licencia de conducir válida, registro del vehículo y seguro de auto.
 
-[**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) opera <!-- This page has gone 404 as of 10 Dec 2025
-a one-time “Emergency Rental Assistance” program.
-It is only available sometimes.
-Check {this web page}{https://catholiccharitiesdom.org/family-supportive-services/hope-in-home/} to see if the program is currently in effect and if so, how to apply for it.
-They also operate --> un programa de [“Servicios de Estabilidad Financiera”](https://catholiccharitiesdom.org/family-supportive-services/) que puede proporcionar recursos financieros a personas de bajos ingresos en crisis financiera.
+[**Catholic Charities**](Directory.md#Catholic-Charities) (Caridades Católicas) opera un programa de [“Servicios de Estabilidad Financiera”](https://catholiccharitiesdom.org/family-supportive-services/) que puede proporcionar recursos financieros a personas de bajos ingresos en crisis financiera.
 <!-- SOURCE NEEDED:
 To apply for these programs, first call their main or Paso Robles number to make an appointment.
 When applying for help, bring your identification, proof of income, and proof of need.

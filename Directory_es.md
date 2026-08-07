@@ -967,7 +967,7 @@
 - **Horario:**
    - Oficinas SLO: L–V 8am–5pm (llame para confirmar el horario de cada ubicación)
    - Paso Robles: segundo miércoles de cada mes, 1–5pm
-<!-- Nota: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) (vea p. ej. https://www.slocounty.ca.gov/departments/social-services/forms-documents/department-wide-forms/informational-documents/slo-county-resources-and-information-(5-1-2024) and https://www.tri-counties.org/wp-content/uploads/2017/11/slo-county-social-svs-resource-sheet.pdf)-->
+<!-- Nota: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) (vea p. ej. https://www.slocounty.ca.gov/departments/social-services/forms-documents/department-wide-forms/informational-documents/slo-county-resources-and-information-(5-1-2024))-->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
 
