@@ -1101,7 +1101,7 @@ Los viajes no son gratis; cuestan aproximadamente el doble que los viajes ordina
 Sin embargo, las personas que califican para usar Runabout Paratransit también pueden viajar en el servicio ordinario de RTA gratis. <!-- Source: https://www.slorta.org/fares/discounts/ -->
 
 [**SLO Transit**](Directory.md#SLO-Transit) es el sistema de autobuses de la ciudad de San Luis Obispo.
-Puede usar el sitio web [SLO Transit RiderPortal](https://slo.rider.peaktransit.com/) o la aplicación de teléfono ([iPhone](https://itunes.apple.com/us/app/slo-transit/id458554556?mt=8), [Android](https://play.google.com/store/apps/details?id=edu.calpoly.android.SloBusMapper&hl=en)) para ver rutas y para ver cuándo llegará el próximo autobús.
+Puede usar el sitio web [SLO Transit RiderPortal](https://slo.rider.peaktransit.com/) o la [aplicación de teléfono Transit](https://transitapp.com/) para ver rutas y para ver cuándo llegará el próximo autobús.
 Puede comprar pases de autobús en el autobús o usando la aplicación [Token Transit](https://tokentransit.com/riders/download).
 (Otra opción para ver horarios de llegada de autobuses y para planificar viajes es la aplicación [moovit](https://moovitapp.com/index/en/public_transit-San_Luis_Obispo_CA-4003).)
 Si compra un pase regional de día de SLO RTA, eso también le permite viajar en autobuses de SLO Transit. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
@@ -1398,6 +1398,10 @@ El costo es de $2 por cinco minutos y 0.50 por minuto después. <!-- Verified by
 Algunos gimnasios comerciales tienen duchas.
 Por ejemplo, un pase de día de $15 al [**Pismo Beach Athletic Club**](Directory.md#Pismo-Beach-Athletic-Club) proporciona acceso a todas sus instalaciones, incluyendo duchas. <!-- Source: https://pbac.com/guest-rates/ and https://pbac.com/membership/ -->
 Algunos planes suplementarios de Medicare tienen un programa “Silver Sneakers” con el cual puede obtener membresías de gimnasio gratis. <!-- Source: https://tools.silversneakers.com/Help -->
+
+### <a id="public-restrooms">Baños Públicos</a>
+
+La ciudad de SLO publicó [un mapa de baños públicos](https://experience.arcgis.com/experience/6af14994bfde43e997fb24423dc9e046) dentro de los límites de la ciudad.
 
 -----
 
