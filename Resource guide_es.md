@@ -3248,6 +3248,8 @@ El [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) tiene
 Las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) tienen no solo libros, sino bases de datos de investigación en línea, computadoras con acceso a internet, sesiones de práctica de conversación en inglés y varios programas de [aprendizaje en línea](https://catalog.slolibrary.org/online-learning).
 <!-- Sources: https://catalog.slolibrary.org/tlc and https://catalog.slolibrary.org/online-learning -->
 
+El programa [Branch Out Library Van](https://catalog.slolibrary.org/branch-out-library-van) de las [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries) lleva materiales a DeVaul Park en SLO los segundos y terceros sábados por la tarde, de 1–2:30pm. <!-- Source: https://catalog.slolibrary.org/branch-out-library-van -->
+
 La [Robert E. Kennedy Library](https://library.calpoly.edu/) de Cal Poly es un recurso no solo para estudiantes y profesores de Cal Poly sino para los habitantes de la Costa Central en general. <!-- Source: https://library.calpoly.edu/about/policies -->
 La biblioteca apoya el principio de acceso abierto a sus colecciones por la comunidad y la región. <!-- Source: https://library.calpoly.edu/about/policies -->
 Los miembros de la comunidad pueden venir a la biblioteca durante las horas de apertura de la biblioteca principal y pueden acceder a la mayoría de las bases de datos mientras estén en las instalaciones trayendo su propio dispositivo y conectándose a la red inalámbrica para invitados de Cal Poly. <!-- Source: https://library.calpoly.edu/about/policies -->

@@ -61,7 +61,7 @@ const WHITELIST = new Set([
   'Beurden',
 
   // Personal Names
-  'Anna', 'Judson', 'DeVaul', 'Macadero', 'Cleaver', 'Clark', 'Halcyon', 'Willow', 'Madonna',
+  'Anna', 'Judson', 'DeVaul', 'Spooner', 'Macadero', 'Cleaver', 'Clark', 'Halcyon', 'Willow', 'Madonna',
   'Marvin', 'Lizzie', 'Betty', 'Bettys', 'Woodson', 'Grayson', 'Ariana', 'Nielson', 'Lamore',
   'Vania', 'Agama', 'Layne', 'Rupe', 'Jauregui', 'Bruse', 'Rossi', 'Villalobos', 'Dowler',
   'Rocio', 'Anaya', 'Butz', 'Scurich', 'Beres', 'LeGrande',

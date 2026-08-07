@@ -3427,6 +3427,9 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 | Shandon: <a href="#" class="map-link" data-lat="35.656573" data-lon="-120.376358" data-zoom="17" data-label="SLO County Public Library">195 N. 2nd St.</a> | [805-237-3009](tel:+1-805-237-3009) | Ma/Mi 10am–6pm (cerrado 12:30–1pm), S9am–5pm (cerrado 12:30–1pm) |
 | Shell Beach: <a href="#" class="map-link" data-lat="35.154648" data-lon="-120.669678" data-zoom="17" data-label="SLO County Public Library">230 Leeward Ave.</a> | [805-773-2263](tel:+1-805-773-2263) | Ma/Mi 10am–1pm y 2–6pm, S9am–5pm |
 
+- **Branch Out Library Van:** <a href="#" class="map-link" data-lat="35.254738" data-lon="-120.69423" data-zoom="17" data-label="Branch Out Library Van">DeVaul Park, 1651 Spooner Dr., SLO</a>, los segundos y terceros sábados por la tarde de 1–2:30pm <!-- Source: https://catalog.slolibrary.org/branch-out-library-van -->
+   - **Sitio web:** [catalog.slolibrary.org/branch-out-library-van](https://catalog.slolibrary.org/branch-out-library-van)
+
 - Nota: [**Transitions Mental Health Association (TMHA)**](#TMHA) tiene un “Equipo de Alcance de Biblioteca” que conecta a los usuarios de la biblioteca que están experimentando la falta de vivienda con un trabajador social y administrador de casos para ayudarles a superar las barreras para acceder a servicios sociales cruciales. Puede reunirse con el Equipo de Alcance de Biblioteca en las siguientes sucursales de biblioteca (este horario está sujeto a cambios; contacte a [mvargas@t-mha.org](mailto:mvargas@t-mha.org) para el horario más actualizado):
    - Atascadero: Mi 10:30am–mediodía
    - Arroyo Grande: J 9:30–11am
