@@ -1837,7 +1837,7 @@ La [**Life Steps Foundation**](Directory.md#Life-Steps-Foundation) tiene recurso
 [**PathPoint**](Directory.md#PathPoint) también tiene servicios para personas con discapacidades del desarrollo. <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
 
 Si usa lenguaje de señas americano, [**Lifesigns**](Directory.md#Lifesigns) puede proporcionar un intérprete para acompañarle en sus citas médicas. <!-- Source: https://lifesignsinc.org/ -->
-[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) puede ayudar con interpretación de llamadas telefónicas. <!-- Sources: https://tcglad.org/human-services/ -->
+[**Tri-County GLAD**](Directory.md#Tri-County-GLAD) puede ayudar con interpretación de llamadas telefónicas. <!-- Sources: https://tcglad.org/our-services/ -->
 
 #### Personas con VIH o Hepatitis C
 
@@ -2802,7 +2802,7 @@ Evite usar preparadores de impuestos comerciales que cobran tarifas altas, o que
 Algunos de estos preparadores dan asesoramiento tributario de mala calidad, y la mayoría de ellos son malas ofertas comparadas con los servicios gratuitos.
 
 Si se le debe un reembolso de impuestos, obtendrá ese reembolso más rápidamente si tiene una cuenta bancaria que acepta depósito directo.
-El Servicio de Impuestos Internos de EE.UU. dejó de emitir cheques en papel de reembolso de impuestos en 2025. <!-- Source: https://www.irs.gov/newsroom/irs-to-phase-out-paper-tax-refund-checks-starting-with-individual-taxpayerspreparers -->
+El Servicio de Impuestos Internos de EE.UU. dejó de emitir cheques en papel de reembolso de impuestos en 2025. <!-- Source: https://www.irs.gov/newsroom/irs-to-phase-out-paper-tax-refund-checks-starting-with-individual-taxpayers -->
 
 > Vea la sección de [Banca y Manejo de Dinero](#banking-and-money-management) de esta guía para ayuda al establecer una cuenta bancaria.
 
