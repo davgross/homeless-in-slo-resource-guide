@@ -149,7 +149,18 @@ curl -s http://localhost:5000/api/v1/watch -H "x-api-key: $TOKEN" \
 ```
 
 PDFs do not need JavaScript rendering.
-Switching these watches to *Basic fast Plaintext/HTTP Client* both avoids the hang and lets changedetection.io extract the PDF text directly.
+Switching these watches to *Basic fast Plaintext/HTTP Client* is the right move regardless of whether the fetch then succeeds, because a plain-HTTP fetch fails in about a second instead of hanging a worker indefinitely.
+
+All 8 such watches were switched on 2026-08-08, with no regressions: every watch that worked before still works, and three of them now extract clean PDF text.
+The other five were already failing under the browser backend and still fail, but they can no longer deadlock the queue.
+Their causes were diagnosed as follows, and none is fixable by changing the fetch method:
+
+- **Cloudflare managed challenge** (`www4.courts.ca.gov`) — the response is the "Enable JavaScript and cookies to continue" interstitial.
+  Headless Chrome is flagged too, so no header set or fetch method gets past it.
+- **TLS-fingerprint blocking** (`showpublisheddocument` URLs on CivicPlus-hosted sites) — `curl` receives the PDF, while Python's `requests` gets a 403 with byte-identical headers, from the same machine.
+  The block keys on the HTTP client, not on the request.
+- **Server-side redirect loop** (`slofoodbank.org/.../2025/11/ENG_December_...pdf`) — the URL 301-redirects to itself.
+  A sibling file under a current path returns 200, so this is a stale URL rather than a fetch problem.
 
 ## Tuning
 
