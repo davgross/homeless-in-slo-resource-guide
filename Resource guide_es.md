@@ -798,7 +798,7 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 
 <!-- Sources
  ECHO, Refuge Church, PKGB, PKSLO (40 Prado): https://slofoodbank.org/wp-content/uploads/2026/05/ENG_June26_Distribution-ResourceList.pdf
- Front Porch: https://www.frontporchslo.org/wednesday-night-dinners
+ Front Porch: https://www.frontporchslo.org/events
  Los Osos Cares: https://www.losososcares.com/programs
  Morro Bay Lions: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/
  Blessed to Serve: SOURCE NEEDED
