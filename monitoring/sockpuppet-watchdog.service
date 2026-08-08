@@ -1,5 +1,5 @@
 [Unit]
-Description=Recover a wedged sockpuppetbrowser browser pool
+Description=Recover a stalled changedetection.io monitoring stack
 Documentation=file:///home/dgross/ResourceGuide/monitoring/sockpuppet-watchdog.README.md
 
 [Service]
