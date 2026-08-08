@@ -2471,7 +2471,7 @@ A menudo no necesita su *tarjeta* del seguro social, pero sí necesita a menudo 
 La [**Administración del Seguro Social**](Directory.md#Social-Security-Administration) puede ayudarle a obtener una nueva tarjeta del Seguro Social. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
 
 Si tiene una cuenta o puede crear una cuenta en [ssa.gov/myaccount](https://www.ssa.gov/myaccount), puede solicitar una tarjeta del Seguro Social en línea y se la enviarán por correo. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
-Puede obtener ayuda con este proceso llamando al [800-772-1213](tel:+1-800-772-1213) (TTY: [800-325-0778](tel:+1-800-325-0778)). <!-- Source: https://www.ssa.gov/number-card/replace-card -->
+Puede obtener ayuda con este proceso llamando al [800-772-6270](tel:+1-800-772-6270) (TTY: [800-325-0778](tel:+1-800-325-0778)). <!-- Source: https://www.ssa.gov/number-card/replace-card -->
 
 > Vea [Buzones, Apartados Postales, Etc.](#mail-drops-post-office-boxes) para maneras de recibir correo si no tiene una dirección postal estable.
 

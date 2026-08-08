@@ -2471,7 +2471,7 @@ You do not often need your social security *card*, but you do often need your so
 The [**Social Security Administration**](Directory.md#Social-Security-Administration) can help you get a new Social Security card. <!-- Source: https://www.ssa.gov/number-card/replace-card -->
 
 If you have an account or can create an account at [ssa.gov/myaccount](https://www.ssa.gov/myaccount), you can request a Social Security card online and they will mail it to you. <!-- Source: https://www.ssa.gov/number-card/replace-card/get-started/apply-online -->
-You can get help with this process by calling [800-772-1213](tel:+1-800-772-1213) (TTY: [800-325-0778](tel:+1-800-325-0778)). <!-- Source: https://www.ssa.gov/number-card/replace-card -->
+You can get help with this process by calling [800-772-6270](tel:+1-800-772-6270) (TTY: [800-325-0778](tel:+1-800-325-0778)). <!-- Source: https://www.ssa.gov/number-card/replace-card -->
 
 > See [Mail Drops, Post Office Boxes, Etc.](#mail-drops-post-office-boxes) for ways to get mail if you do not have a stable mailing address.
 
