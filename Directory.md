@@ -937,7 +937,7 @@
 
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
 
-- **Website:** [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org) <!-- Not responsive on 29 Nov 2025 -->
+- **Website:** [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org) <!-- Not responsive on 29 Nov 2025; still not responding on 8 Aug 2026 (connection times out). Consider removing the website line if it stays down. -->
 - **Location:** <a href="#" class="map-link" data-lat="35.111293" data-lon="-120.602116" data-zoom="17" data-label="Children’s Resource Network of the Central Coast">1212 Farroll Ave., Arroyo Grande</a> <!-- Location found at https://5chc.org/community-services/clothing -->
 - **Mailing address:** P.O. Box 454, Pismo Beach, CA 93448-0454
 - **Phone:** [805-709-8673](tel:+1-805-709-8673) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
@@ -1446,10 +1446,10 @@
 
 - **Website:** [https://www.frontporchslo.org/](https://www.frontporchslo.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.297443" data-lon="-120.660964" data-zoom="17" data-label="Front Porch">1468 E. Foothill, SLO</a> <!-- Source: https://www.frontporchslo.org/ -->
-- **Phone:** [818-731-4984](tel:+1-818-731-4984)
+- **Phone:** [805-316-4266](tel:+1-805-316-4266)
 - **Email:** [hello@frontporchslo.org](mailto:hello@frontporchslo.org) <!-- Source: https://www.frontporchslo.org/ -->
 - **Hours:** M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks) <!-- Source: visited in person and saw those hours taped to the door -->
-- **How to access:** oriented toward students from Cuesta College or Cal Poly, but “Whoever you are, you are welcome here” and “No matter what, you’re welcome here.” <!-- Source: https://www.frontporchslo.org/what-we-do and https://www.frontporchslo.org/ -->
+- **How to access:** oriented toward students from Cuesta College or Cal Poly, but “Everyone is welcome.” <!-- Source: https://www.frontporchslo.org/ -->
 
 ## <a id="GALA">GALA Pride & Diversity Center</a>
 
@@ -2946,9 +2946,10 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="St-Josephs-Church">Saint Joseph’s Church</a>
 
-- **Website:** [stjosephcayucos.org](https://stjosephcayucos.org/)
-- **Location:** <a href="#" class="map-link" data-lat="35.447245" data-lon="-120.897665" data-zoom="17" data-label="Saint Joseph’s Church">360 Park Ave., Cayucos</a> <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
-- **Phone:** [805-995-3243](tel:+1-805-995-3243) <!-- Source: https://www.dioceseofmonterey.org/parishfinder -->
+- **Website:** [saintjosephcayucos.org](https://www.saintjosephcayucos.org/) <!-- The former stjosephcayucos.org domain stopped resolving; the parish moved to saintjosephcayucos.org. Verified 8 Aug 2026. -->
+- **Location:** <a href="#" class="map-link" data-lat="35.447245" data-lon="-120.897665" data-zoom="17" data-label="Saint Joseph’s Church">360 Park Ave., Cayucos</a> <!-- Source: https://www.saintjosephcayucos.org/ -->
+- **Phone:** [805-995-3243](tel:+1-805-995-3243) <!-- Source: https://www.saintjosephcayucos.org/ -->
+- **Email:** [officeadmin@saintjosephcayucos.org](mailto:officeadmin@saintjosephcayucos.org) <!-- Source: https://www.saintjosephcayucos.org/ -->
 - **Hours** (food pantry): Fridays 10am–Noon, or Thursdays by appointment
 
 ## <a id="St-Patricks-Church">Saint Patrick’s Church</a>
@@ -3677,7 +3678,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="South-Bay-Seniors-People-Helping-People">South Bay Seniors People Helping People</a>
 
-- **Website:** [southbayseniorspeoplehelpingpeople.com](https://southbayseniorspeoplehelpingpeople.com/)
+- **Website:** [southbayseniorspeoplehelpingpeople.com](https://southbayseniorspeoplehelpingpeople.com/) <!-- Website returns a hosting "suspended page" as of 8 Aug 2026. The group itself is still operating; keep the phone, location, and hours, which come from southbaycommunitycenter.com. Re-check the website periodically. -->
 - **Location:** <a href="#" class="map-link" data-lat="35.312984" data-lon="-120.836284" data-zoom="17" data-label="South Bay Seniors People Helping People">2180 Palisades Ave., Los Osos</a> <!-- Source: https://southbaycommunitycenter.com/ -->
 - **Phone:** [805-528-2626](tel:+1-805-528-2626) <!-- Source: https://southbaycommunitycenter.com/ -->
 - **Hours:** M/W/F 9am–1pm <!-- Source: https://southbaycommunitycenter.com/ -->
