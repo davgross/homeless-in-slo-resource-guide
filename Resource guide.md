@@ -3844,7 +3844,7 @@ They also have a lending library of games and puzzles. <!-- Source: https://atas
 [**Morro Bay Senior Citizens**](Directory.md#Morro-Bay-Senior-Center) hosts bingo, bocce, bridge, chess, dance, drawing & watercolor, ping-pong, pool and billiards, hand & foot cards, and special-interest classes.
 
 There are pickleball courts in <a href="#" class="map-link" data-lat="35.398611" data-lon="-120.858761" data-zoom="17" data-label="Del Mar Park">Del Mar Park in Morro Bay</a>, open to all from 8am–Noon and open by reservation (for a fee through [**Morro Bay Parks & Recreation Department**](Directory.md#Morro-Bay-Parks-and-Recreation)) in the afternoons. <!-- Source: https://morrobayseniors.org/pickleball/ -->
-You can borrow [a set of pickleball balls and paddles](https://catalog.slolibrary.org/GroupedWork/e3d16ba9-5c54-db6e-c3c5-30cb0ceb24d8-eng/Home) from [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries)).
+You can borrow [a set of pickleball balls and paddles](https://catalog.slolibrary.org/GroupedWork/e3d16ba9-5c54-db6e-c3c5-30cb0ceb24d8-eng/Home) from [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries).
 Lessons are available ($2 donation requested, balls and paddles provided) on Saturdays from 8:30–9:00am. <!-- Source: https://www.morrobayca.gov/679/Tennis-Opportunities -->
 
 [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) hosts bingo, canasta, a potluck, and has free coffee daily.

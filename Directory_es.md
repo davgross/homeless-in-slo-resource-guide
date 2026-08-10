@@ -1203,11 +1203,13 @@
 
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
 
-- **Sitio web:** [childrensresourcenetwork.org](https://www.childrensresourcenetwork.org) <!-- Not responsive on 29 Nov 2025; still not responding on 8 Aug 2026 (connection times out). Consider removing the website line if it stays down. -->
+- **Sitio web:** [clothingcloset.org](https://clothingcloset.org/) <!-- Formerly childrensresourcenetwork.org but that site stopped responding -->
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.111293" data-lon="-120.602116" data-zoom="17" data-label="Children’s Resource Network of the Central Coast">1212 Farroll Ave., Arroyo Grande</a> <!-- Location found at https://5chc.org/community-services/clothing -->
 - **Dirección postal:** P.O. Box 454, Pismo Beach, CA 93448-0454
 - **Teléfono:** [805-709-8673](tel:+1-805-709-8673) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
-- **Correo electrónico:** [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+- **Correo electrónico:**
+   - [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
+   - [info@childrensresourcenetwork.org](mailto:info@childrensresourcenetwork.org) <!-- Source: https://clothingcloset.org/contact/ -->
 - Notas: opera “Outreach Apparel” y “The Teen’s Closet”
 
 ## Children’s Services
