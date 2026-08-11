@@ -3050,7 +3050,7 @@ They may also be able to assign you a “Benefits Arch Advocate” who can help 
 The government encourages you to seek work and to return to work without losing disability benefits.
 The [Ticket to Work Program](https://choosework.ssa.gov/) is a free, voluntary program for people aged 18–64 who are receiving SSDI or SSI benefits. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 It gives you free career counseling, vocational rehabilitation, and job placement and training. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
-Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) or email [TicketToWork@ssa.gov](mailto:TicketToWork@ssa.gov) to learn how to apply. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 
 If you are a U.S. military veteran, you may also qualify for other benefits.
 You can get help learning about, applying for, and receiving government benefits you are entitled to from the [**County Veterans Services Offices**](Directory.md#Veterans-Services).
@@ -3109,7 +3109,7 @@ They also conduct workshops on topics like job searching, building your resume, 
 #### For People with Disabilities
 
 If you are currently receiving SSDI or SSI benefits and you are between the ages of 18 and 64, the [Ticket to Work Program](https://choosework.ssa.gov/) can give you free career counseling, vocational rehabilitation, and job placement and training, and can help you return to work without losing your benefits. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
-Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) to learn how to apply. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+Call [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) or email [TicketToWork@ssa.gov](mailto:TicketToWork@ssa.gov) to learn how to apply. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 
 [**PathPoint**](Directory.md#PathPoint) helps people with intellectual or developmental disabilities to find jobs that are good matches for them, trains them in job skills, and helps them to maintain employment. <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
 

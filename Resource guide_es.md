@@ -3048,9 +3048,9 @@ También pueden asignarle un “Defensor de Beneficios” (Benefits Arch Advocat
 -->
 
 El gobierno le anima a buscar trabajo y a regresar al trabajo sin perder los beneficios por discapacidad.
-El [Programa Ticket to Work](https://choosework.ssa.gov/) es un programa gratuito y voluntario para personas de 18–64 años que están recibiendo beneficios de SSDI o SSI. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+El [programa del Boleto para trabajar](https://choosework.ssa.gov/) (Ticket to Work) es un programa gratuito y voluntario para personas de 18–64 años que están recibiendo beneficios de SSDI o SSI. <!-- Source: https://choosework.ssa.gov/about/how-it-works --> <!-- Spanish program name per SSA: https://www.ssa.gov/faqs/es/questions/KA-01849.html -->
 Puede darle asesoramiento profesional gratuito, rehabilitación vocacional y colocación y capacitación laboral. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
-Llame al [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) para aprender cómo solicitar. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+Llame al [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) o envíe un correo electrónico a [TicketToWork@ssa.gov](mailto:TicketToWork@ssa.gov) para aprender cómo solicitar. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 
 Si es veterano militar de los Estados Unidos, también puede calificar para una variedad de otros beneficios.
 Puede obtener ayuda para informarse sobre, solicitar y recibir beneficios del gobierno a los que tiene derecho en las [**Oficinas de Servicios para Veteranos del Condado**](Directory.md#Veterans-Services) (County Veterans Services Offices).
@@ -3108,8 +3108,8 @@ También realizan talleres sobre temas como búsqueda de empleo, construcción d
 
 #### Para Personas con Discapacidades
 
-Si actualmente está recibiendo beneficios de SSDI o SSI y tiene entre 18 y 64 años, el [Programa Ticket to Work](https://choosework.ssa.gov/) puede darle asesoramiento profesional gratuito, rehabilitación vocacional, colocación y capacitación laboral, y puede ayudarle a regresar al trabajo sin perder sus beneficios. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
-Llame al [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) para aprender cómo solicitar. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+Si actualmente está recibiendo beneficios de SSDI o SSI y tiene entre 18 y 64 años, el [programa del Boleto para trabajar](https://choosework.ssa.gov/) (Ticket to Work) puede darle asesoramiento profesional gratuito, rehabilitación vocacional, colocación y capacitación laboral, y puede ayudarle a regresar al trabajo sin perder sus beneficios. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
+Llame al [866-968-7842](tel:+1-866-968-7842) (TTY: [866-833-2967](tel:+1-866-833-2967)) o envíe un correo electrónico a [TicketToWork@ssa.gov](mailto:TicketToWork@ssa.gov) para aprender cómo solicitar. <!-- Source: https://choosework.ssa.gov/about/how-it-works -->
 
 [**PathPoint**](Directory.md#PathPoint) ayuda a personas con discapacidades intelectuales o del desarrollo a encontrar trabajos que sean buenas opciones para ellas, las capacita en habilidades laborales y les ayuda a mantener el empleo. <!-- Source: https://www.pathpoint.org/locations/san-luis-obispo/ -->
 
