@@ -2323,6 +2323,7 @@
 - **Teléfono:** [805-781-4948](tel:+1-805-781-4948) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 - **Horario:** L–V 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 - Notas: Para niños de 0 a 5 años con problemas de comportamiento o salud mental
+- **Cómo acceder:** Llame a la Línea de acceso a la salud conductual al [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 
 ## Meals on Wheels
 

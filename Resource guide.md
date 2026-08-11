@@ -123,7 +123,7 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
 ## <a id="self-advocacy">Self-Advocacy: Standing Up for Yourself and Communicating with Service Providers</a>
 
 When you meet case managers and service providers, you can make it more likely that they can help you.
-This section of the guide gives some tips about how to do this.
+This section of the guide gives you tips about how to do this.
 
 ### <a id="build-good-relationships">Build Good Relationships with Case Managers and Service Providers</a>
 
@@ -187,7 +187,7 @@ If someone promises to do something for you but you don’t hear back in a reaso
 
 ### <a id="know-your-rights">Know Your Rights</a>
 
-Many service providers have non-discrimination policies and try to treat people with respect, though policies vary between agencies.
+Many service providers have non-discrimination policies and they try to treat people with respect, though policies vary between agencies.
 Some services have specific rules about who can use them (like veterans-only programs, or programs with income limits).
 Privacy policies vary by agency.
 
