@@ -362,7 +362,7 @@
 - **Sitio web:** [post66slo.org](https://post66slo.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.288680" data-lon="-120.653533" data-zoom="17" data-label="American Legion Post 66">1661 Mill St., SLO</a> <!-- Source: https://post66slo.org/ -->
 - **Teléfono:** [805-543-6445](tel:+1-805-543-6445) <!-- Source: https://post66slo.org/ -->
-- Notas: Para conocer los horarios de [**Boyd Bristol Medical Equipment Program**](#Boyd-Bristol-Medical-Equipment-Program), llame para hacer una cita
+- Nota: Para conocer los horarios de [**Boyd Bristol Medical Equipment Program**](#Boyd-Bristol-Medical-Equipment-Program), llame para hacer una cita
 
 ## America’s Job Center of California
 
@@ -458,8 +458,7 @@
 - **Correo electrónico:** [seniorcenter93422@gmail.com](mailto:seniorcenter93422@gmail.com) <!-- Source: https://atascaderoseniorcenter.org/ -->
 - **Horario:** L–Sa 11am–3pm (algunas actividades en otros horarios) <!-- Source: https://atascaderoseniorcenter.org/faq -->
 - **Cómo obtener el servicio:** La mayoría de las actividades son gratuitas para los miembros ($2 para invitados)<!-- Source: https://atascaderoseniorcenter.org/activities --> ; afiliación ($20/año mínimo) abierto a personas mayores de 50 años.
-- Notas:
-   - Un sitio de almuerzo para [**Meals that Connect**](#Meals-that-Connect)
+- Nota: Un sitio de almuerzo para [**Meals that Connect**](#Meals-that-Connect)
 
 ## <a id="Auntie-Isabell-Foundation">Auntie Isabell Foundation</a>
 
@@ -757,7 +756,7 @@
 - **Teléfono:** [805-466-1679](tel:+1-805-466-1679) <!-- Source: https://www.facebook.com/NorthCountyChristianThriftShop/about/?_rdr -->
 - **Correo electrónico:** [nccts9330@gmail.com](mailto:nccts9330@gmail.com) <!-- Source: https://www.facebook.com/NorthCountyChristianThriftShop/about/?_rdr -->
 - **Horario:** L–S 9am–6pm
-- Notas: anteriormente conocida como “North County Christian Thrift”
+- Nota: anteriormente conocida como “North County Christian Thrift”
 
 ## Business and Career One Stop
 
@@ -871,7 +870,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.563774" data-lon="-121.087216" data-zoom="17" data-label="Cambria Vineyard">1617 Main St., Cambria</a> <!-- Source: https://cambriavineyardchurch.org/contact-us/ -->
 - **Teléfono:** [805-927-5550](tel:+1-805-927-5550) <!-- Source: https://cambriavineyardchurch.org/contact-us/ -->
 - **Horario** (despensa de alimentos): segundo y cuarto jueves, mediodía–2pm <!-- Source: https://cambriavineyardchurch.org/ministries/local-outreach/ -->
-- Notas: opera “Re·Create Thrift Store” a 1601 Main St., Cambria (L/J/V/S 10am–4pm) <!-- Source: https://cambriavineyardchurch.org/ministries/local-outreach/ -->
+- Nota: opera “Re·Create Thrift Store” a 1601 Main St., Cambria (L/J/V/S 10am–4pm) <!-- Source: https://cambriavineyardchurch.org/ministries/local-outreach/ -->
 
 ## <a id="Cambrias-Anonymous-Neighbors">Cambria’s Anonymous Neighbors (CAN)</a>
 
@@ -888,7 +887,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.121358" data-lon="-120.620550" data-zoom="17" data-label="Captive Hearts">882 W. Grand Ave., Grover Beach</a> <!-- Source: https://www.captivehearts.org/our-program.html -->
 - **Teléfono:** [805-481-4500](tel:+1-805-481-4500) (antes de las 3pm) <!-- Source: https://www.captivehearts.org/our-program.html -->
 - **Correo electrónico:** [info@captivehearts.org](mailto:info@captivehearts.org) <!-- Source: https://www.captivehearts.org/our-program.html -->
-- Notas: opera [Second Chances Thrift Store](#Second-Chances-Thrift-Store)
+- Nota: opera [Second Chances Thrift Store](#Second-Chances-Thrift-Store)
 
 ## <a id="Carbon-Health-Urgent-Care-Atascadero">Carbon Health Urgent Care (Atascadero)</a>
 
@@ -896,7 +895,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.482467" data-lon="-120.659886" data-zoom="17" data-label="Carbon Health Urgent Care (Atascadero)">7330 El Camino Real, Atascadero</a> <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
 - **Teléfono:** [831-621-1184](tel:+1-831-621-1184) <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
 - **Horario:** Todos los días 8am–6pm <!-- Source: https://carbonhealth.com/en/locations/atascadero-ca -->
-- Notas: Acepta Medicare pero no Medi-Cal; se aceptan visitas sin cita, citas el mismo día disponibles
+- Nota: Acepta Medicare pero no Medi-Cal; se aceptan visitas sin cita, citas el mismo día disponibles
 
 ## <a id="Carbon-Health-Urgent-Care-Paso-Robles">Carbon Health Urgent Care (Paso Robles)</a>
 
@@ -904,7 +903,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.614953" data-lon="-120.692442" data-zoom="17" data-label="Carbon Health Urgent Care">500 1st St., Paso Robles</a> <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
 - **Teléfono:** [831-621-1449](tel:+1-831-621-1449) <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
 - **Horario:** Todos los días 8am–6pm <!-- Source: https://carbonhealth.com/en/locations/paso-robles-ca -->
-- Notas: Acepta Medicare pero no Medi-Cal; se aceptan visitas sin cita, citas el mismo día disponibles
+- Nota: Acepta Medicare pero no Medi-Cal; se aceptan visitas sin cita, citas el mismo día disponibles
 
 ## <a id="C.A.R.E.4Paws">C.A.R.E.4Paws</a>
 
@@ -944,7 +943,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.118384" data-lon="-120.615202" data-zoom="17" data-label="Casa Solana">383 S. 13th St., Grover Beach</a>
 - **Teléfono:** [805-481-8555](tel:+1-805-481-8555) (9am–4pm) <!-- Source: https://www.casasolanainc.org/contact -->
 - **Correo electrónico:** [casasolanainc@gmail.com](mailto:casasolanainc@gmail.com) <!-- Source: https://www.casasolanainc.org/contact -->
-- Notas: también conocido como “Sunshine House”
+- Nota: también conocido como “Sunshine House”
 
 ## <a id="Catholic-Charities">Catholic Charities (Diocese of Monterey)</a>
 
@@ -1011,7 +1010,7 @@
    - Inscríbase en [esta página web](https://admissions.centerforautism.com/)
    - o llame al [877-448-4747](tel:+1-877-448-4747) <!-- Source: https://centerforautism.com/contact/ -->
    - o envíe un correo a [CARDEnrollment@centerforautism.com](mailto:cardenrollment@centerforautism.com) <!-- Source: https://centerforautism.com/contact/ -->
-- Notas: Acepta CenCal Health y la mayoría de otros proveedores de seguros <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
+- Nota: Acepta CenCal Health y la mayoría de otros proveedores de seguros <!-- Source: https://centerforautism.com/services/parent-resources/insurance-accepted/ -->
 
 ## <a id="The-Center">The Center for Health & Prevention</a>
 
@@ -1029,7 +1028,7 @@
    - Arroyo Grande: [805-489-4026](tel:+1-805-489-4026) <!-- Source: https://capslo.org/the-center/ -->
    - SLO: [805-422-2478](tel:+1-805-422-2478) <!-- Source: https://capslo.org/the-center/ -->
 - **Cómo obtener el servicio:** Se aceptan visitas sin cita previa, pero se recomiendan citas. <!-- Source: https://capslo.org/the-center/ -->
-- Nota:
+- Notas:
    - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - clínica para adolescentes el martes 3–6pm, el viernes 3–5:30pm en Arroyo Grande
    - proveedor de [“Every Woman Counts”](https://www.dhcs.ca.gov/services/every-woman-counts/)
@@ -1092,7 +1091,7 @@
    - [855-240-2530](tel:+1-855-240-2530) (Verificación de Medi-Cal y asistencia financiera)
 - **Correo electrónico:** [info@cchh08.com](mailto:info@cchh08.com) <!-- Source: https://centralcoasthomehealth.com/index.php/contact-us/ -->
 - **Horario:** 24/7 (L–D)
-- Notas: acepta Medicare; llame al [855-240-2530](tel:+1-855-240-2530) para verificar la aceptación de Medi-Cal y discutir opciones de asistencia financiera
+- Nota: acepta Medicare; llame al [855-240-2530](tel:+1-855-240-2530) para verificar la aceptación de Medi-Cal y discutir opciones de asistencia financiera
 
 <!-- As per email from Marianne Bollinger (12/13/25) "There is no more CCPAW. I moved away over two years ago."
 ## <a id="CCPAW">Central Coast Partnership for Animal Welfare</a>
@@ -1210,7 +1209,7 @@
 - **Correo electrónico:**
    - [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
    - [info@childrensresourcenetwork.org](mailto:info@childrensresourcenetwork.org) <!-- Source: https://clothingcloset.org/contact/ -->
-- Notas: opera “Outreach Apparel” y “The Teen’s Closet”
+- Nota: opera “Outreach Apparel” y “The Teen’s Closet”
 
 ## Children’s Services
 
@@ -1364,7 +1363,7 @@
 - **Correo electrónico:** [info@partnersincaring.org](mailto:info@partnersincaring.org) <!-- Source: https://partnersincaring.org/ -->
 - **Horario:** L–V 8:30am–5pm <!-- Source: https://partnersincaring.org/ -->
 - **Cómo obtener el servicio:** Complete los formularios de incorporación de clientes (que se pueden realizar a través de su sitio web) para acceder a los servicios. <!-- Source: https://partnersincaring.org/our-services/ -->
-- Notas: opera en Nipomo y el área de Five Cities, además del condado de Santa Bárbara.
+- Nota: opera en Nipomo y el área de Five Cities, además del condado de Santa Bárbara.
 
 ## Community Safe Parking Program
 
@@ -1491,8 +1490,7 @@
       - [916-324-1313](tel:+1-916-324-1313) (voz) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
       - [916-558-5673](tel:+1-916-558-5673) (TTY) <!-- Source: https://www.dor.ca.gov/Home/ContactUs -->
 - **Cómo obtener el servicio:** No se aceptan visitas sin cita previa. Llámelos para programar una orientación.
-- Notas:
-   - Pueden derivarte al programa de “Supported Employment”
+- Nota: Pueden derivarte al programa de “Supported Employment”
 
 ## Department of Motor Vehicles (DMV)
 
@@ -1523,7 +1521,7 @@
 | <a href="#" class="map-link" data-lat="35.132062" data-lon="-120.606526" data-zoom="17" data-label="Dignity Health Urgent Care">877 Oak Park Blvd, Pismo Beach</a> | [805-474-8450](tel:+1-805-474-8450) |
 
 - **Horario:** L–V 8am–6pm, S 8am–4pm, D cerrado <!-- Source: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
-- Notas: Acepta Medicare y Medi-Cal así como varias aseguradoras privadas; se aceptan visitas sin cita, no es necesaria cita; servicios de laboratorio y rayos X en el lugar <!-- Source: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
+- Nota: Acepta Medicare y Medi-Cal así como varias aseguradoras privadas; se aceptan visitas sin cita, no es necesaria cita; servicios de laboratorio y rayos X en el lugar <!-- Source: https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care -->
 
 ## <a id="Disability-Rights-California">Disability Rights California</a>
 
@@ -1619,8 +1617,7 @@
    - oficina local: [805-878-2842](tel:+1-805-878-2842)
    - servicio al cliente: [805-439-2557](tel:+1-805-439-2557) <!-- Also SLO Cal Careers -->
 - **Horario:** L–V 8am–5pm
-- Notas:
-   - opera el programa “Migrant Seasonal Farmworker”
+- Nota: opera el programa “Migrant Seasonal Farmworker”
 
 ## <a id="Mobile-Crisis-Team">Equipo Móvil de Respuesta a Crisis</a>
 
@@ -1664,7 +1661,7 @@
 - **Teléfono:** [805-781-3535](tel:+1-805-781-3535) <!-- Source: https://fcni.org -->
 - **Correo electrónico:** [Contact@fcni.org](mailto:Contact@fcni.org) <!-- Source: https://fcni.org -->
 - **Cómo obtener el servicio:** Debe ser elegible de acuerdo con las pautas del [**Department of Social Services**](#SLO-County-Department-of-Social-Services) y debe tener una referencia de una agencia del Condado. <!-- Source: email from Sarah Davenport of FCNI 12/15/25 -->
-- Notas: opera [**Housing Support Program (HSP)**](#Housing-Support-Program) <!-- Source: https://fcni.org/how-we-help/ensuring-stability/ -->
+- Nota: opera [**Housing Support Program (HSP)**](#Housing-Support-Program) <!-- Source: https://fcni.org/how-we-help/ensuring-stability/ -->
 
 ## FamilyPACT
 
@@ -2267,8 +2264,7 @@
 - **Correo electrónico:** [wecareinlososos@gmail.com](mailto:wecareinlososos@gmail.com) <!-- Source: https://www.losososcares.com/ -->
 - **Horario:** Ma/Mi/J 1–3pm <!-- Source: https://www.losososcares.com/programs -->
    - cenas comunitarias: los miércoles 5–6pm <!-- Source: https://www.losososcares.com/programs -->
-- Notas:
-   - alberga cenas comunitarias en [**South Bay Community Center**](#South-Bay-Community-Center)
+- Nota: alberga cenas comunitarias en [**South Bay Community Center**](#South-Bay-Community-Center)
 
 ## <a id="Lucia-Mar-Adult-Education">Lucia Mar Adult Education</a>
 
@@ -2282,7 +2278,7 @@
 | Oceano Community Center | <a href="#" class="map-link" data-lat="35.101995" data-lon="-120.612296" data-zoom="17" data-label="Lucia Mar Adult Education">1575 17th St. (30, 33, & 34), Oceano</a> | [805-474-3000 x7601](tel:+1-805-474-3000;ext=7601) |
 
 - **Correo electrónico:** [brienne.phillips@lmusd.org](mailto:brienne.phillips@lmusd.org) <!-- Source: https://adulted.luciamarschools.org/contact -->
-- Notas: En asociación con [**Cuesta College**](#Cuesta-College) para clases de ESL
+- Nota: En asociación con [**Cuesta College**](#Cuesta-College) para clases de ESL
 
 ## <a id="Lumina-Alliance">Lumina Alliance</a>
 
@@ -2322,8 +2318,8 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.263382" data-lon="-120.648288" data-zoom="17" data-label="Martha’s Place Children’s Center">2925 McMillan Ave. #108, SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 - **Teléfono:** [805-781-4948](tel:+1-805-781-4948) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
 - **Horario:** L–V 8am–5pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
-- Notas: Para niños de 0 a 5 años con problemas de comportamiento o salud mental
 - **Cómo acceder:** Llame a la Línea de acceso a la salud conductual al [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/martha%E2%80%99s-place-children-s-center -->
+- Nota: Para niños de 0 a 5 años con problemas de comportamiento o salud mental
 
 ## Meals on Wheels
 
@@ -2884,7 +2880,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.098794" data-lon="-120.612028" data-zoom="17" data-label="Recycle 101 — Oceano">1909 Front St., Oceano</a> <!-- Source: https://recycleca.org/business/recycle-101-inc -->
 - **Teléfono:** [805-363-1034](tel:+1-805-363-1034) <!-- Source: https://recycleca.org/business/recycle-101-inc -->
 - **Horario:** Mi 9am–4pm, L/Ma/J/V/S 9am–mediodía, L/Ma/J/V 12:30–4pm <!-- Source: https://recycleca.org/business/recycle-101-inc -->
-- Notas: Reciclaje de CRV por dinero en efectivo (5¢ para contenedores <24oz, 10¢ para ≥24oz)
+- Nota: Reciclaje de CRV por dinero en efectivo (5¢ para contenedores <24oz, 10¢ para ≥24oz)
 
 ## <a id="Red-Cross">Red Cross</a>
 
@@ -3007,7 +3003,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Correo electrónico:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 - **Cómo obtener el servicio:** Se aceptan visitas sin cita; se prefieren citas. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 <!-- No se encontró el horario en capslo.org ni en otras fuentes confiables al 1 ago. 2026 -- llame para confirmar -->
-- Nota:
+- Notas:
    - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Vea también [**Link Family Resource Center**](#Link-Family-Resource-Center)
    - Vea también [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center)
@@ -3069,7 +3065,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 -->
 
 - **Cómo obtener el servicio:** Para la despensa de alimentos, debe vivir en el área y debe registrarse con una identificación con foto en su primera visita.
-- Notas: en SLO opera un “Programa de Realojamiento Rápido”
+- Nota: en SLO opera un “Programa de Realojamiento Rápido”
 
 ## <a id="San-Luis-Coastal-Adult-School">San Luis Coastal Adult School</a>
 
@@ -3159,7 +3155,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.121353" data-lon="-120.620453" data-zoom="17" data-label="Second Chances Thrift Store">892 W. Grand Ave., Grover Beach</a> <!-- Source: https://www.captivehearts.org/second-chances-store.html -->
 - **Teléfono:** [805-202-8800](tel:+1-805-202-8800) <!-- Source: https://www.captivehearts.org/second-chances-store.html -->
 - **Horario:** L–S 10am–4:30pm <!-- Source: https://www.captivehearts.org/second-chances-store.html -->
-- Notas: operado por [Captive Hearts](#Captive-Hearts) <!-- Source: https://www.captivehearts.org/second-chances-store.html -->
+- Nota: operado por [Captive Hearts](#Captive-Hearts) <!-- Source: https://www.captivehearts.org/second-chances-store.html -->
 
 ## <a id="Seneca-Central-Coast">Seneca Central Coast</a>
 
@@ -3474,7 +3470,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Teléfono:** [805-706-3617](tel:+1-805-706-3617) <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 - **Horario:** L–V 8:30am–4:30pm <!-- Source: https://www.slo.courts.ca.gov/self-help -->
 - **Cómo obtener el servicio:** Por teléfono, o haga una cita en [calendly.com/self-help-center](https://calendly.com/self-help-center/) <!-- Source: https://www.slo.courts.ca.gov/self-help -->
-- Notas: Incluye “Family Law Facilitator” y “Self-Help Center”
+- Nota: Incluye “Family Law Facilitator” y “Self-Help Center”
 
 ## <a id="SLO-Credit-Union">SLO Credit Union</a>
 
@@ -3702,7 +3698,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.311838" data-lon="-120.829993" data-zoom="17" data-label="Steve’s Recycling — Los Osos">1130 Los Osos Valley Rd., Los Osos</a> <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
 - **Teléfono:** [805-801-1627](tel:+1-805-801-1627) <!-- Source: https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true -->
 - **Horario:** S 9am–10am <!-- Source: verified by phone on 12 Jan. 2026 -->
-- Notas: reciclaje de CRV por dinero en efectivo (5¢ para contenedores <24oz, 10¢ para ≥24oz)
+- Nota: reciclaje de CRV por dinero en efectivo (5¢ para contenedores <24oz, 10¢ para ≥24oz)
 
 ## <a id="Sunny-Acres">Sunny Acres</a>
 
