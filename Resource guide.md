@@ -850,7 +850,6 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Cayucos        | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                                                                                  | Wednesdays 10:30–11am |
 | Cayucos        | [**St. Joseph’s Catholic Church**](Directory.md#St-Josephs-Church)                                                                                     | Fridays 10am–Noon (Thursdays 7:30–7:45 by appt.) |
 | Creston        | [Creston Community Church](https://crestonchurch.com/), <a href="#" class="map-link" data-lat="35.518718" data-lon="-120.522444" data-zoom="17" data-label="Creston Community Church">5170 O’Donovan Rd.</a> | first, second, third, and fifth Thursdays 3:30–5:30pm |
-| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html) (must be a Cuesta student)  | Monday–Friday 9am–4:30pm |
 | Grover Beach   | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) (bring photo ID)                                   | Monday–Friday 2–3:30pm |
 | Los Osos       | [**King’s Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | Tuesdays 8–10am |
 | Los Osos       | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People)                                                    | Wednesdays 9:30–10:30am |
@@ -860,7 +859,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | Nipomo         | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket) (Nipomo residents only)                                                                      | M/Tu/Th/F 10am–1pm |
 | Nipomo         | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)                                                              | Wednesdays 7–8pm |
 | Nipomo         | Nipomo High School, <a href="#" class="map-link" data-lat="35.051900" data-lon="-120.486071" data-zoom="17" data-label="food pantry">525 N. Thompson Ave.</a> | second and fourth Tuesday, 4:30–6pm |
-| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College) (must be a Cuesta student)                                                                           | Monday–Friday 9am–5pm |
+| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College) “Cougar Food Pantry” (must be a Cuesta student)                                                      | M/Tu 9am–8pm, W 11am–8pm, Th 9am–6pm, F 9am–5pm |
 | Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | Monday–Thursday 2–4pm (or by appt.)|
 | Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (bring photo ID)                                                                                     | Tuesdays 10–11am |
 | Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visit per household per week; bring photo ID)                                     | Tu 6–7:30pm, W 10am–Noon, Th 1:30–3:30pm |
@@ -868,6 +867,7 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 | SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | Sundays Noon–12:30pm |
 | SLO            | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                                                                            | Mondays 2:30–4:30pm |
 | SLO            | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | Tuesdays 2–3pm, or by appt. |
+| SLO            | [**Cuesta College**](Directory.md#Cuesta-College) “Cougar Food Pantry” (must be a Cuesta student)                                                      | M/Tu/Th 9am–6pm, W 9am–8pm, F 9am–5pm |
 | SLO            | [**GALA Pride & Diversity Center**](Directory.md#GALA)                                                                                                 | Monday–Friday 10am–3pm |
 | SLO            | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                                                                         | Saturdays 8:30–9:15am |
 | SLO            | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)                                                                  | Monday–Friday 10am–3pm |
@@ -1606,7 +1606,7 @@ The [**Help Hope Live**](Directory.md#Help-Hope-Live) program can help you estab
 If you need immediate funds to pay for a specific medical expense and you are not eligible for Medi-Cal or any other health insurance, consider the [**Medically Indigent Services Program**](Directory.md#MISP).
 Call them to start the application process. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-%28misp%29 -->
 
-The hospitals in SLO County are operated by [**Dignity Health**](Directory.md#Dignity-Health) and Adventist Health, nonprofit organizations that offer free or discounted medical care to some people who do not have much money. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.dignityhealth.org/financial-assistance -->
+The hospitals in SLO County are operated by [**Dignity Health**](Directory.md#Dignity-Health) and Adventist Health, nonprofit organizations that offer free or discounted medical care to some people who do not have much money. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.commonspirit.org/patient-resources/dignity-health-central-coast-financial-assistance -->
 If you are a patient of Adventist Health, you may qualify for their [Financial Assistance](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/) program.
 Ask them in person for an application or contact them at [844-827-5047](tel:+1-844-827-5047) <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/ --> or [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
 Dignity Health also has financial assistance programs.
@@ -4178,7 +4178,6 @@ Here are some of these local guides:
 - [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services): available in English and Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, and healthcare
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): United Way’s directory of SLO County resources
-- [Community Support Services](https://5chc.org/community-services): a list of services available in southern SLO County, maintained by 5Cities Homeless Coalition
 - [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): SLO County Public Health Department Maternal and Child Health directory of resources
 - [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
 - [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): Faith LeGrande’s list that they assembled while searching for help

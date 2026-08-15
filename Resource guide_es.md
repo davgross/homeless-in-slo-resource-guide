@@ -850,7 +850,6 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Cayucos        | [**Cayucos Community Church**](Directory.md#Cayucos-Community-Church)                                                                                  | miércoles 10:30–11am |
 | Cayucos        | [**St. Joseph’s Catholic Church**](Directory.md#St-Josephs-Church)                                                                                     | viernes 10am–mediodía (jueves 7:30–7:45 con cita) |
 | Creston        | [Creston Community Church](https://crestonchurch.com/), <a href="#" class="map-link" data-lat="35.518718" data-lon="-120.522444" data-zoom="17" data-label="Creston Community Church">5170 O’Donovan Rd.</a> | primer, segundo, tercer y quinto jueves 3:30–5:30pm |
-| Cuesta College | [Cougar Food Pantry](https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html) (debe ser estudiante de Cuesta) | lunes–viernes 9am–4:30pm |
 | Grover Beach   | [**Five Cities Christian Women Food Pantry**](Directory.md#Five-Cities-Christian-Women-Food-Pantry) (traiga identificación con foto)                   | lunes–viernes 2–3:30pm |
 | Los Osos       | [**King’s Cupboard at El Morro Church**](Directory.md#Kings-Cupboard)                                                                                  | martes 8–10am |
 | Los Osos       | [**South Bay Seniors People Helping People**](Directory.md#South-Bay-Seniors-People-Helping-People)                                                    | miércoles 9:30–10:30am |
@@ -860,7 +859,7 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | Nipomo         | [**Nipomo Food Basket**](Directory.md#Nipomo-Food-Basket) (residentes de Nipomo solamente)                                                             | L/Ma/J/V 10am–1pm |
 | Nipomo         | [**Santa Maria Valley Hispanic Church**](Directory.md#Santa-Maria-Valley-Hispanic-Church)                                                              | miércoles 7–8pm |
 | Nipomo         | Nipomo High School, <a href="#" class="map-link" data-lat="35.051900" data-lon="-120.486071" data-zoom="17" data-label="food pantry">525 N. Thompson Ave.</a> | segundo y cuarto martes, 4:30–6pm |
-| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College) (debe ser estudiante de Cuesta)                                                                      | lunes–viernes 9am–5pm |
+| Paso Robles    | [**Cuesta College**](Directory.md#Cuesta-College) “Cougar Food Pantry” (debe ser estudiante de Cuesta)                                                 | L/Ma 9am–8pm, Mi 11am–8pm, J 9am–6pm, V 9am–5pm |
 | Paso Robles    | [**Loaves and Fishes**](Directory.md#Loaves-and-Fishes-Paso-Robles)                                                                                    | lunes–jueves 2–4pm (o con cita) |
 | Paso Robles    | [**Salvation Army**](Directory.md#Salvation-Army) (traiga identificación con foto)                                                                     | martes 10–11am |
 | Pismo Beach    | [**New Life U-Pick Pantry**](Directory.md#New-Life-U-Pick-Pantry) (1 visita por hogar por semana; traiga identificación con foto)                      | Ma 6–7:30pm, Mi 10am–mediodía, J 1:30–3:30pm |
@@ -868,6 +867,7 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 | SLO            | [**Agape Church**](Directory.md#Agape-Church)                                                                                                          | domingos mediodía–12:30pm |
 | SLO            | [**Arise Central Coast**](Directory.md#Arise-Central-Coast)                                                                                            | lunes 2:30–4:30pm |
 | SLO            | Breakthrough Ministry, <a href="#" class="map-link" data-lat="35.241737" data-lon="-120.676108" data-zoom="17" data-label="Breakthrough Ministry">4251 South Higuera #200</a>, [805-234-7441](tel:+1-805-234-7441) | martes 2–3pm, o con cita |
+| SLO            | [**Cuesta College**](Directory.md#Cuesta-College) “Cougar Food Pantry” (debe ser estudiante de Cuesta)                                                 | L/Ma/J 9am–6pm, Mi 9am–8pm, V 9am–5pm |
 | SLO            | [**GALA Pride & Diversity Center**](Directory.md#GALA)                                                                                                 | lunes–viernes 10am–3pm |
 | SLO            | [**Grace Central Coast**](Directory.md#Grace-Central-Coast) “God’s Storehouse”                                                                         | sábados 8:30–9:15am |
 | SLO            | [**Outreach and Engagement Services**](Directory.md#Outreach-and-Engagement-Services)                                                                  | lunes–viernes 10am–3pm |
@@ -1606,7 +1606,7 @@ El programa [**Help Hope Live**](Directory.md#Help-Hope-Live) puede ayudarle a e
 Si necesita fondos inmediatos para pagar un gasto médico específico y no es elegible para Medi-Cal ni ningún otro seguro médico, considere el [**Medically Indigent Services Program**](Directory.md#MISP).
 Llámelos para comenzar el proceso de solicitud. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-care-access/medically-indigent-services-program-%28misp%29 -->
 
-Los hospitales en el condado de SLO son operados por [**Dignity Health**](Directory.md#Dignity-Health) y Adventist Health, organizaciones sin fines de lucro que ofrecen atención médica gratuita o con descuento a algunas personas que no tienen mucho dinero. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.dignityhealth.org/financial-assistance -->
+Los hospitales en el condado de SLO son operados por [**Dignity Health**](Directory.md#Dignity-Health) y Adventist Health, organizaciones sin fines de lucro que ofrecen atención médica gratuita o con descuento a algunas personas que no tienen mucho dinero. <!-- Sources: https://www.adventisthealth.org/about-us/community-benefit/ and https://www.commonspirit.org/patient-resources/dignity-health-central-coast-financial-assistance -->
 Si es paciente de Adventist Health, puede calificar para su programa de [Asistencia Financiera](https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/).
 Pídale una solicitud en persona o contáctelos al [844-827-5047](tel:+1-844-827-5047) <!-- Source: https://www.adventisthealth.org/patients-and-visitors/help-paying-your-bill/ --> o [AHFinAsst@AH.org](mailto:AHFinAsst@AH.org).
 Dignity Health también tiene programas de asistencia financiera.
@@ -3215,11 +3215,11 @@ Los grupos de Toastmasters en el Condado de SLO incluyen:
 
 | Club | Hora de Reunión | Ubicación |
 | ---- | --------------- | --------- |
-| [SLO Toastmasters Club 83](https://slotoastmasters.toastmastersclubs.org/) | Ju 6:30–7:30am | <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a> |
+| [SLO Toastmasters Club 83](https://slotoastmasters.toastmastersclubs.org/) | J 6:30–7:30am | <a href="#" class="map-link" data-lat="35.280401" data-lon="-120.662255" data-zoom="17" data-label="Toastmasters">872 Higuera St., SLO</a> |
 | [SLO Noontime Toastmasters Club (5204)](https://www.toastmasters.org/Find-a-Club/00005204-slo-noontime-toastmasters-club-5204) | Ma mediodía–1pm | Iglesia Luterana Mt. Carmel, <a href="#" class="map-link" data-lat="35.292670" data-lon="-120.654628" data-zoom="17" data-label="Mt. Carmel Lutheran Church">1701 Fredericks St., SLO</a> |
 | [SLO Motion Toastmasters Club](https://slomotion.toastmastersclubs.org/) | L mediodía–1pm | Caltrans sala de conferencias “Sand,” <a href="#" class="map-link" data-lat="35.260680" data-lon="-120.669333" data-zoom="17" data-label="Caltrans">2885 S. Higuera St., SLO</a> |
 | [Cal Poly Toastmasters](https://www.toastmasters.org/Find-a-Club/28676059-cal-poly-toastmasters) | Mi mediodía–1pm | <a href="#" class="map-link" data-lat="35.303892" data-lon="-120.659629" data-zoom="17" data-label="Toastmasters">Bldg. 70 (Facilities)</a>, sala 110 en el campus de Cal Poly San Luis Obispo |
-| [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club) | Ju 12:10–1:15pm | varias ubicaciones en Paso Robles |
+| [Speakeasy Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00009797-speakeasy-toastmasters-club) | J 12:10–1:15pm | varias ubicaciones en Paso Robles |
 
 La [**Extensión Cooperativa de la Universidad de California (UCCE)**](Directory.md#UC-Cooperative-Extension) local ofrece cursos de jardinería, preservación de alimentos y manejo de pastizales y cuencas hidrográficas.
 Muchos programas son gratuitos o de bajo costo.
@@ -4179,7 +4179,6 @@ Aquí hay algunas de estas guías locales:
 - [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services) (Guía de Recursos para Mayores Personas del Condado del Norte): disponible en inglés y español; cubre educación, comidas, vivienda, cuidado en el hogar, transporte, salud mental, apoyo legal, asistencia financiera, recreación y atención médica
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): directorio de recursos del Condado de SLO de United Way
-- [Community Support Services](https://5chc.org/community-services): una lista de servicios disponibles en el sur del Condado de SLO, mantenida por 5Cities Homeless Coalition (Coalición para Personas sin Hogar de las 5 Ciudades)
 - [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): directorio de recursos del SLO County Public Health Department Maternal and Child Health
 - [HelpSLO Resource List of Aid Groups, Programs, and Services in SLO County](https://docs.google.com/document/d/17-ZYN4uYV-PNWLGu2QAZXMv6wQItZGcsZfpBLysbL70/mobilebasic)
 - [2024 Financial Aid/Assistance Resources - San Luis Obispo](https://docs.google.com/document/d/1iVGbPgBH0IzZWpfp2gkt-2gmF3_Q0zK0HPNgsZgM2TE/mobilebasic): la lista de Faith LeGrande que elaboró mientras elle buscaba ayuda

@@ -632,7 +632,7 @@
 - **Location:** <a href="#" class="map-link" data-lat="35.121358" data-lon="-120.620550" data-zoom="17" data-label="Captive Hearts">882 W. Grand Ave., Grover Beach</a> <!-- Source: https://www.captivehearts.org/our-program.html -->
 - **Phone:** [805-481-4500](tel:+1-805-481-4500) (before 3pm) <!-- Source: https://www.captivehearts.org/our-program.html -->
 - **Email:** [info@captivehearts.org](mailto:info@captivehearts.org) <!-- Source: https://www.captivehearts.org/our-program.html -->
-- Note: operates [Second Chances Thrift Store](#Second-Chances-Thrift-Store)
+- Note: operates [**Second Chances Thrift Store**](#Second-Chances-Thrift-Store)
 
 ## <a id="Carbon-Health-Urgent-Care-Atascadero">Carbon Health Urgent Care (Atascadero)</a>
 
@@ -787,7 +787,7 @@
    - Arroyo Grande: [805-489-4026](tel:+1-805-489-4026) <!-- Source: https://capslo.org/the-center/ -->
    - SLO: [805-422-2478](tel:+1-805-422-2478) <!-- Source: https://capslo.org/the-center/ -->
 - **How to access:** Walk-ins OK, but appointments recommended. <!-- Source: https://capslo.org/the-center/ -->
-- Note:
+- Notes:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Teen clinic Tuesday 3–6pm, Friday 3–5:30pm in Arroyo Grande
    - an [“Every Woman Counts”](https://www.dhcs.ca.gov/services/every-woman-counts/) provider
@@ -1183,8 +1183,8 @@
       - Paso Robles campus: NCC Building 1000, room 1005, open every other Wednesday, 11am–8pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
       - SLO campus: room 5014B, open M/Tu/Th 9am–6pm, F 9am–4pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - Cougar Food Pantries:
-      - Paso Robles campus: room N1005, open M–F 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
-      - SLO campus: room 5104B, M–F 9am–4:30pm; [805-546-3289](tel:+1-805-546-3289) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+      - Paso Robles campus: NCC Building 1000, room 1005, open M/Tu 9am–8pm, W 11am–8pm, Th 9am–6pm, F 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+      - SLO campus: room 5104B, open M/Tu/Th 9am–6pm, W 9am–8pm, F 9am–5pm; [805-546-3289](tel:+1-805-546-3289) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programs are open to otherwise unenrolled people
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) has vocational / lifetime-learning programs, and ESL
    - Partners with [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes
@@ -2197,8 +2197,8 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Email:** [contact@alffoodpantry.org](mailto:contact@alffoodpantry.org) <!-- Source: https://alffoodpantry.org/ -->
 - **Hours** (food pantry): M–F 1–3pm <!-- Source: https://alffoodpantry.org/need-food -->
 - Notes:
-  - Not affiliated with [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
-  - Also known as “ALF Food Pantry”
+   - Not affiliated with [**Loaves & Fishes (Paso Robles)**](#Loaves-and-Fishes-Paso-Robles)
+   - Also known as “ALF Food Pantry”
 
 ## <a id="Loaves-and-Fishes-Paso-Robles">Loaves & Fishes (Paso Robles)</a>
 
@@ -3290,8 +3290,8 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Phone:** [800-838-1381](tel:+1-800-838-1381)
 - **Hours:** M–F 8am–5pm
-  - Walk-in hours (2178 Johnson, SLO): T/W 1–3pm
-  - Walk-in hours (1350 E. Grand, AG): M/W 9–11am
+   - Walk-in hours (2178 Johnson, SLO): T/W 1–3pm
+   - Walk-in hours (1350 E. Grand, AG): M/W 9–11am
 - **How to access:** call first, or see [this page](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/mental-health-adult-services-a9b0b9d7211256786d2fc94e1675d610) for walk-in service hours
 - Notes:
    - Central access point for all [**Medi-Cal**](#Medi-Cal) mental health services

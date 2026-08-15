@@ -1459,10 +1459,10 @@
    - Oficinas de Necesidades Básicas:
       - campus Arroyo Grande: abierto cada dos miércoles, 4pm–8pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
       - campus Paso Robles: NCC Building 1000, sala 1005, abierto cada dos miércoles, 11am–8pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
-      - campus SLO: sala 5014B, abierto L/Ma/Ju 9am–6pm, V 9am–4pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+      - campus SLO: sala 5014B, abierto L/Ma/J 9am–6pm, V 9am–4pm <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - Despensas de alimentos Cougar:
-      - campus Paso Robles: sala N1005, abierto L–V 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
-      - campus SLO: sala 5104B, L–V 9am–4:30pm; [805-546-3289](tel:+1-805-546-3289) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+      - campus Paso Robles: NCC Building 1000, sala 1005, abierto L/Ma 9am–8pm, Mi 11am–8pm, J 9am–6pm, V 9am–5pm; [805-591-4301](tel:+1-805-591-4301) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
+      - campus SLO: sala 5104B, abierto L/Ma/J 9am–6pm, Mi 9am–8pm, V 9am–5pm; [805-546-3289](tel:+1-805-546-3289) <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
    - [Community Education](https://www.cuesta.edu/community/index.html) programas están abiertos a personas que de otro modo no estarían inscritas
    - [Continuing Education](https://www.cuesta.edu/academics/continuinged/) tiene programas vocacionales/de aprendizaje permanente y ESL
    - se asocia con [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) for ESL classes
