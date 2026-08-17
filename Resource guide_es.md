@@ -1342,6 +1342,7 @@ El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) ofrece instala
 No tiene que estar hospedándose allí para usar las instalaciones de lavandería. <!-- SOURCE NEEDED (issue #64) -->
 
 La [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) abre la instalación de lavandería en su ubicación de Paso Robles todos los miércoles de 10am–6pm, donde los clientes de extensión pueden lavar una carga de ropa gratis (ellos proporcionan el detergente). <!-- Source: https://www.echoshelter.org/pasorobles -->
+El campus de [**ECHO**](Directory.md#ECHO) en Atascadero también tiene instalaciones de lavandería disponibles al público en su [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome). <!-- Source: https://www.sanluisobispo.com/news/local/article316873008.html -->
 
 [**805 Street Outreach**](Directory.md#805-Street-Outreach) ofrece servicio de lavandería gratis desde un remolque móvil en Morro Bay todos los lunes. <!-- Source: https://www.ksby.com/morro-bay/805-street-outreach-expands-services-to-include-free-laundry -->
 También tienen ropa, duchas y comida para los huéspedes. <!-- Source: https://805streetoutreach.org/about-us -->
