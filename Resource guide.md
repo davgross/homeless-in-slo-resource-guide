@@ -487,6 +487,10 @@ People who live in these shelters also get individualized case management servic
 There is often a long waiting list for shelter beds. <!-- SOURCE NEEDED -->
 They will not admit P.C. 290 registered sex offenders. <!-- SOURCE NEEDED -->
 
+The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) has an additional 30 shelter beds for families at the [**ECHO**](Directory.md#ECHO) campus in Atascadero. <!-- Source: https://www.sanluisobispo.com/news/local/article316873008.html -->
+These shelter beds are offered to families with children only.
+If you are accepted into this shelter, you may stay for up to 90 days while you search for permanent housing.
+
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) can help people in SLO city who are homeless or at risk of homelessness by helping to pay their security deposit, their rent, or other immediate needs. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
 
 The [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) can pay a one-time security deposit and/or last month’s rent and/or utility deposit for families who are homeless or who received a “Pay Rent or Quit” notice on their current rental home. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
@@ -614,14 +618,6 @@ It is designed specifically for people reentering society from incarceration.
 [**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for chronically homeless people, prioritizing for veterans, women, and elderly with little or no income.
 As of December 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
 - Source: https://hopesvillageofslo.com/helping
-
-The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) in Atascadero will add 30 shelter beds for families to what is currently offered by [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO).
-As of 1 August 2026 it is still under construction and is not yet open; do not uncomment/add this until confirmed open and taking families.
-ECHO broke ground in October 2025 and, as of March 2026, expected the building to be complete around October 2026 (about a year after groundbreaking); no firm opening date has been published.
-Do not confuse this with [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) in Grover Beach (a different, already-open program run by 5Cities Homeless Coalition, mentioned above), or with an unrelated "Balay Ko" senior housing development reported in SLO city.
-- Source: https://www.echoshelter.org/buildinghopeandhome
-- Source: https://www.ksby.com/san-luis-obispo/atascadero-homeless-organization-celebrates-new-construction-project-for-families (Oct. 6, 2025 groundbreaking article)
-- Source: https://atascaderonews.com/news/first-modular-units-arrive-for-balay-ko-family-resource-center/ (March 23, 2026: modular units arriving, still under construction, no opening date given)
 -->
 
 ### <a id="housing-veterans">For U.S. Military Veterans</a>
@@ -3674,7 +3670,7 @@ There are also support groups for people recently diagnosed, and for people suff
 To register for a group, call [800-272-3900](tel:+1-800-272-3900).
 
 **Amyotrophic lateral sclerosis (ALS):** An ALS support group meets monthly via Zoom.
-To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/ -->
+To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) or [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat2026-08-15/ -->
 
 **Cancer:** [Cancer Support Community](https://cscslo.org/) offers a variety of no-cost services for people with cancer, including health education and exercise classes, as well as several support groups, some of which meet in Templeton, some online.
 
