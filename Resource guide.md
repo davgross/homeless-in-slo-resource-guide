@@ -1342,6 +1342,7 @@ The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offers free l
 You do not have to be staying overnight there to use the laundry facilities. <!-- SOURCE NEEDED (issue #64) -->
 
 The [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO) opens the laundry facility at its Paso Robles location every Wednesday from 10am–6pm, at which outreach clients can do a single load of laundry for free (they provide detergent). <!-- Source: https://www.echoshelter.org/pasorobles -->
+The [**ECHO**](Directory.md#ECHO) campus in Atascadero also has laundry facilities available to the public at its [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome). <!-- Source: https://www.sanluisobispo.com/news/local/article316873008.html -->
 
 [**805 Street Outreach**](Directory.md#805-Street-Outreach) offers free laundry service from a mobile trailer in Morro Bay every Monday. <!-- Source: https://www.ksby.com/morro-bay/805-street-outreach-expands-services-to-include-free-laundry -->
 They also have clothing, showers, and food for guests. <!-- Source: https://805streetoutreach.org/about-us -->
