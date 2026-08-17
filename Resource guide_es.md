@@ -487,6 +487,10 @@ Las personas que viven en estos refugios también reciben servicios individualiz
 A menudo hay una larga lista de espera para camas de refugio. <!-- SOURCE NEEDED -->
 No admitirán a delincuentes sexuales registrados P.C. 290. <!-- SOURCE NEEDED -->
 
+El [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) tiene 30 camas de refugio adicionales para familias en el campus de [**ECHO**](Directory.md#ECHO) en Atascadero. <!-- Source: https://www.sanluisobispo.com/news/local/article316873008.html -->
+Estas camas de refugio se ofrecen solo a familias con niños.
+Si lo aceptan en este refugio, puede quedarse hasta 90 días mientras busca vivienda permanente.
+
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) puede ayudar a personas en la ciudad de SLO que están sin hogar o en riesgo de quedarse sin hogar al ayudar a pagar su depósito de seguridad, su renta u otras necesidades inmediatas. <!-- Source: Email from Ilene Brill, 8 Jan. 2026 -->
 
 El [**CalWORKs Homeless Assistance Program**](Directory.md#CalWORKs) puede pagar un depósito de seguridad único y/o el último mes de renta y/o depósito de servicios públicos para familias sin hogar o que recibieron un aviso para pagar la renta o desocupar en su hogar de alquiler actual. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/homeless-assistance -->
@@ -615,14 +619,6 @@ It is designed specifically for people reentering society from incarceration.
 [**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for chronically homeless people, prioritizing for veterans, women, and elderly with little or no income.
 As of December 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
 - Source: https://hopesvillageofslo.com/helping
-
-The [Balay Ko Family Resource Center](https://www.echoshelter.org/buildinghopeandhome) in Atascadero will add 30 shelter beds for families to what is currently offered by [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO).
-As of 1 August 2026 it is still under construction and is not yet open; do not uncomment/add this until confirmed open and taking families.
-ECHO broke ground in October 2025 and, as of March 2026, expected the building to be complete around October 2026 (about a year after groundbreaking); no firm opening date has been published.
-Do not confuse this with [**Balay Ko on Barka**](Directory.md#Balay-Ko-on-Barka) in Grover Beach (a different, already-open program run by 5Cities Homeless Coalition, mentioned above), or with an unrelated "Balay Ko" senior housing development reported in SLO city.
-- Source: https://www.echoshelter.org/buildinghopeandhome
-- Source: https://www.ksby.com/san-luis-obispo/atascadero-homeless-organization-celebrates-new-construction-project-for-families (Oct. 6, 2025 groundbreaking article)
-- Source: https://atascaderonews.com/news/first-modular-units-arrive-for-balay-ko-family-resource-center/ (March 23, 2026: modular units arriving, still under construction, no opening date given)
 -->
 
 ### <a id="housing-veterans">Para Veteranos Militares de los Estados Unidos</a>
@@ -3692,7 +3688,7 @@ También tienen una variedad de [grupos de apoyo en persona](https://storage.goo
 También llevan a cabo un grupo de apoyo mensual en línea, y un grupo mensual en persona en Paso Robles, solo para cuidadores.
 
 **Esclerosis lateral amiotrófica (ALS):** Un grupo de apoyo para ALS se reúne mensualmente vía Zoom.
-Para unirse, contacte a la organizadora Julie Scurich en [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) o [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/ -->
+Para unirse, contacte a la organizadora Julie Scurich en [jscurich@alsnetwork.org](mailto:jscurich@alsnetwork.org) o [831-247-9878](tel:+1-831-247-9878). <!-- Source: e.g. https://alsnetwork.org/event/san-luis-obispo-connect-support-chat2026-08-15/ -->
 
 ### <a id="grief-peer-support">Duelo</a>
 
