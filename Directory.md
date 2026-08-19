@@ -3328,7 +3328,7 @@ If you see one listed here that is no longer in service, please use the feedback
    - operates [“General Assistance Disabled Program”](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
    - operates [“General Relief / General Assistance”](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/general-assistance-cash-aid)
    - operates “Temporary Assistance for Needy Families (TANF)”
-   - entry-point for “CalFresh / EBT (Food Stamps)”
+   - entry-point for “CalFresh / EBT (Food Stamps)” — call [800-834-3002](tel:+1-800-834-3002)
    - entry-point for the [**Coordinated Entry System (CES)**](#CES)
    - entry-point for the [**Housing Support Program (HSP)**](#Housing-Support-Program)
    - entry-point for the [**Medically Fragile Homeless Program**](#Medically-Fragile-Homeless-Program)
