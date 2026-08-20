@@ -4085,7 +4085,7 @@ Hay varias opciones de atención de urgencias, incluyendo:
 | Ubicación | Teléfono |
 | --------- | -------- |
 | <a href="#" class="map-link" data-lat="35.510264" data-lon="-120.698978" data-zoom="17" data-label="Woods Humane Society">2300 Ramona Rd., Atascadero</a> | [805-466-5403](tel:+1-805-466-5403) |
-| <a href="#" class="map-link" data-lat="35.318418" data-lon="-120.715209" data-zoom="17" data-label="Woods Human Society">875 Oklahoma Ave, SLO</a> | [805-543-9316](tel:+1-805-543-9316) |
+| <a href="#" class="map-link" data-lat="35.318418" data-lon="-120.715209" data-zoom="17" data-label="Woods Humane Society">875 Oklahoma Ave, SLO</a> | [805-543-9316](tel:+1-805-543-9316)<br />clínica de esterilización: [805-464-5034](tel:+1-805-464-5034) |
 
 - **Correo electrónico:** [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) (Robin Coleman, gerente de participación comunitaria)
 - **Horario:** (adopción) diariamente 11am–4pm (Atascadero) o diariamente mediodía–4pm (SLO) <!-- Source: https://woodshumanesociety.org/contact-us/ -->

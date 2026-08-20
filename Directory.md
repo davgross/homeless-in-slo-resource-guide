@@ -4093,7 +4093,7 @@ There are several urgent care options, including:
 | Location | Phone |
 | -------- | ----- |
 | <a href="#" class="map-link" data-lat="35.510264" data-lon="-120.698978" data-zoom="17" data-label="Woods Humane Society">2300 Ramona Rd., Atascadero</a> | [805-466-5403](tel:+1-805-466-5403) |
-| <a href="#" class="map-link" data-lat="35.318418" data-lon="-120.715209" data-zoom="17" data-label="Woods Human Society">875 Oklahoma Ave, SLO</a> | [805-543-9316](tel:+1-805-543-9316) |
+| <a href="#" class="map-link" data-lat="35.318418" data-lon="-120.715209" data-zoom="17" data-label="Woods Humane Society">875 Oklahoma Ave, SLO</a> | [805-543-9316](tel:+1-805-543-9316)<br />spay/neuter clinic: [805-464-5034](tel:+1-805-464-5034) |
 
 - **Email:** [rcoleman@woodshumanesociety.org](mailto:rcoleman@woodshumanesociety.org) (Robin Coleman, Community Engagement Manager)
 - **Hours:** (adoption) daily 11am–4pm (Atascadero) or daily Noon–4pm (SLO) <!-- Source: https://woodshumanesociety.org/contact-us/ -->
