@@ -897,6 +897,8 @@ See [**Little Free Pantries**](Directory.md#Little-Free-Pantries) in the [Direct
 
 The [**SLO Food Bank**](Directory.md#SLO-Food-Bank) gives away food boxes on a regular schedule at a variety of locations in SLO County.
 Visit [findfoodslo.org](https://findfoodslo.org/) for a complete list and schedule of these “Neighborhood Food Distributions.”
+- **Cal Poly:** Beginning October 5, 2026, the Neighborhood Food Distribution at Cal Poly follows a new schedule on the first Monday of each month from 3:30 p.m. to 5:30 p.m.
+- **The Salvation Army (SLO):** The final Neighborhood Food Distribution at The Salvation Army in San Luis Obispo is Monday, October 5, 2026 (pantry services at this location continue; see directory for hours).
 
 ### <a id="summer-meal-sites">Summer Meal Sites (for Children)</a>
 
