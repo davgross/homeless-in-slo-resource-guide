@@ -111,6 +111,7 @@
       - Tuesdays 9:30–11:30am at <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">1320 Nipomo St. in SLO</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - Wednesdays 11:30am–1:30pm at Paso Robles [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr.</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - Wednesdays 3–6pm at Atascadero [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave.</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
+      - Every other Thursday, 10am–1pm at [**Shower the People**](#Shower-the-People) in SLO (<a href="#" class="map-link" data-lat="35.269229" data-lon="-120.657617" data-zoom="17" data-label="Shower the People">2201 Lawton Ave., SLO</a>)
       - Second Sunday of the Month 10am–1pm at the <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library on Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
 - **Phone:** [805-781-3660](tel:+1-805-781-3660) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Email:** [theasnsupp@gmail.com](mailto:theasnsupp@gmail.com) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
@@ -3140,7 +3141,10 @@ If you see one listed here that is no longer in service, please use the feedback
 | <a href="#" class="map-link" data-lat="35.282298" data-lon="-120.662520" data-zoom="17" data-label="Shower the People">995 Palm St., SLO</a>               | Su 10am–1pm |
 
 - **Email:** [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com)
-- Note: Hosted by [**Lifepoint Church**](#Lifepoint-Church) and [**Unitarian Universalists San Luis Obispo**](#UUSLO) among others
+- Notes:
+   - hosted by [**Lifepoint Church**](#Lifepoint-Church) and [**Unitarian Universalists San Luis Obispo**](#UUSLO) among others
+   - hosts [**Access Support Network**](#ASN) every other Thursday
+   - hosts [**Vituity Cares Mobile Clinic**](#Vituity-Cares-Mobile-Clinic) on the second Sunday of the month
 
 ## Sierra Vista Hospital
 
