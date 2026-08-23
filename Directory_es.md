@@ -111,7 +111,8 @@
       - los martes 9:30–11:30am en <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">1320 Nipomo St. in SLO</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - los miércoles 11:30am–1:30pm en Paso Robles [**ECHO**](#ECHO) Refugio (<a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr.</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - los miércoles 3–6pm en Atascadero [**ECHO**](#ECHO) Refugio (<a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave.</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - segundo domingo del mes en la <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library en Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
+      - cada jueves alternativo, 10am–1pm en [**Shower the People**](#Shower-the-People) en SLO (<a href="#" class="map-link" data-lat="35.269229" data-lon="-120.657617" data-zoom="17" data-label="Shower the People">2201 Lawton Ave., SLO</a>)
+      - segundo domingo del mes, 10am–1pm en la <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library en Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
 - **Teléfono:** [805-781-3660](tel:+1-805-781-3660) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Correo electrónico:** [theasnsupp@gmail.com](mailto:theasnsupp@gmail.com) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Horario:** L–V 9am–5pm <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
@@ -3242,7 +3243,10 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 | <a href="#" class="map-link" data-lat="35.282298" data-lon="-120.662520" data-zoom="17" data-label="Shower the People">995 Palm St., SLO</a>               | D 10am–1pm |
 
 - **Correo electrónico:** [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com)
-- Nota: alojado por [**Lifepoint Church**](#Lifepoint-Church) y [**Unitarian Universalists San Luis Obispo**](#UUSLO) entre otros
+- Notas:
+   - alojado por [**Lifepoint Church**](#Lifepoint-Church) y [**Unitarian Universalists San Luis Obispo**](#UUSLO) entre otros
+   - alberga a [**Access Support Network**](#ASN) cada jueves alternativo
+   - alberga a la [**Clínica Móvil de Vituity Cares**](#Vituity-Cares-Mobile-Clinic) el segundo domingo del mes
 
 ## Sierra Vista Hospital
 
