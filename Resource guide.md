@@ -941,11 +941,7 @@ Qualifying farmers markets include: <!-- Source: https://www.cdfa.ca.gov/SeniorF
 The CalFresh program is California’s version of the federal nutrition program known as “SNAP” or “food stamps.” <!-- Source: https://www.getcalfresh.org/ -->
 If you have a low income, California gives you an “EBT card” which you can use like a debit card at grocery stores and farmers markets to buy healthy foods. <!-- Source: https://www.getcalfresh.org/ -->
 
-You can apply for CalFresh online at either of the following sites:
-
-- [BenefitsCal.com](https://benefitscal.com/) <!-- Source: https://www.getcalfresh.org/ -->
-- [GetCalFresh.org](https://www.getcalfresh.org/) <!-- Source: https://www.getcalfresh.org/ -->
-
+You can apply for CalFresh online at [BenefitsCal.com](https://benefitscal.com/). <!-- Source: https://www.getcalfresh.org/ -->
 You can also apply in person at the [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/calfresh/services/calfresh-food-assistance -->
 
 If you are a Cal Poly student, you can get assistance from the [Cal Poly CalFresh Program](https://www.calfreshcalpoly.org/) ([805-399-0236](tel:+1-805-399-0236) or [calfresh@calpoly.edu](mailto:calfresh@calpoly.edu)).
