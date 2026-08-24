@@ -162,26 +162,6 @@
 - **Horario:** L–V 9am–4pm <!-- Source: https://secure.ssa.gov/ICON/ic001.action -->
 - **Cómo obtener el servicio:** Llame para programar una cita
 
-## <a id="Adult-Protective-Services">Adult Protective Services</a>
-
-- **Sitio web:** [Slocounty.ca.gov/APS](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29)
-
-<!-- Source (location/phone): https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
-| Ubicación | Teléfono |
-| --------- | -------- |
-| Arroyo Grande: <a href="#" class="map-link" data-lat="35.1197593" data-lon="-120.5956380" data-zoom="17" data-label="Adult Protective Services (Arroyo Grande)">1086 E. Grand Ave.</a> | [805-474-2000](tel:+1-805-474-2000) |
-| Atascadero: <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="Adult Protective Services (Atascadero)">9630 El Camino Real</a> | [805-461-6000](tel:+1-805-461-6000) |
-| Morro Bay: <a href="#" class="map-link" data-lat="35.3692734" data-lon="-120.8447261" data-zoom="17" data-label="Adult Protective Services (Morro Bay)">600 Quintana Rd.</a> | [805-772-6405](tel:+1-805-772-6405) |
-| Nipomo: <a href="#" class="map-link" data-lat="35.0336188" data-lon="-120.4879843" data-zoom="17" data-label="Adult Protective Services (Nipomo)">681 W. Tefft St. #1</a> | [805-931-1800](tel:+1-805-931-1800) |
-| Paso Robles: <a href="#" class="map-link" data-lat="35.6185648" data-lon="-120.6903449" data-zoom="17" data-label="Adult Protective Services (Paso Robles)">406 Spring St.</a> | [805-237-3110](tel:+1-805-237-3110) |
-| SLO: <a href="#" class="map-link" data-lat="35.2536551" data-lon="-120.6687249" data-zoom="17" data-label="Adult Protective Services (SLO)">3433 S. Higuera St.</a> | [805-781-1600](tel:+1-805-781-1600) |
-
-- **Teléfono:** [805-781-1790](tel:+1-805-781-1790) (L–V 8am–5pm); [844-729-8011](tel:+1-844-729-8011) (fuera de horario); [911](tel:+1-911) (emergencia) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
-- **Horario:** L–V 8am–4pm (y solo con cita previa 4–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
-- Notas:
-   - Puede hacer referencias a [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
-   - Puede hacer referencias a [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
-
 ## Adult School
 
 > *Vea [**San Luis Coastal Adult School**](#San-Luis-Coastal-Adult-School) y [**Lucia Mar Adult Education**](#Lucia-Mar-Adult-Education) y [**Templeton Adult School**](#Templeton-Adult-School)*
@@ -832,7 +812,7 @@
 
 > *Vea [**San Luis Obispo Counseling Service at Cal Poly**](#Cal-Poly-Community-Counseling-Service)*
 
-## <a id="Cal-Poly-Doggy-Days">Cal Poly “Doggy Days” Veterinary Clinics</a>
+## <a id="Cal-Poly-Doggy-Days">Cal Poly “Doggy Days” Clínicas Veterinarias</a>
 
 - **Social media:**
    - Facebook: [facebook.com/calpolydoggydays](https://www.facebook.com/calpolydoggydays/)
@@ -1423,6 +1403,15 @@
 - **Teléfono:** [805-549-0442](tel:+1-805-549-0442)
 - **Horario:** L/Mi/J/V 9am–5pm, Ma 8am–5pm
 -->
+
+## <a id="Red-Cross">Cruz Roja</a>
+
+- **Sitio web:** [redcross.org/local/california/central-california.html](https://www.redcross.org/local/california/central-california.html)
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.253953" data-lon="-120.666367" data-zoom="17" data-label="Red Cross">225 Prado Rd. #A</a> <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
+- **Teléfono:**
+   - Oficina local: [805-543-0696](tel:+1-805-543-0696) <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
+   - Línea nacional 24/7: [800-733-2767](tel:+1-800-733-2767)
+- **Horario:** J 10am–2pm, o L–V 9am–4pm con cita <!-- Source: https://www.redcross.org/local/california/central-california/about-us/contact-us.html -->
 
 ## <a id="CSF-Medical-Non-Profit-Foundation">CSF Medical Non Profit Foundation</a>
 
@@ -2883,15 +2872,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Horario:** Mi 9am–4pm, L/Ma/J/V/S 9am–mediodía, L/Ma/J/V 12:30–4pm <!-- Source: https://recycleca.org/business/recycle-101-inc -->
 - Nota: Reciclaje de CRV por dinero en efectivo (5¢ para contenedores <24oz, 10¢ para ≥24oz)
 
-## <a id="Red-Cross">Red Cross</a>
-
-- **Sitio web:** [redcross.org/local/california/central-california.html](https://www.redcross.org/local/california/central-california.html)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.253953" data-lon="-120.666367" data-zoom="17" data-label="Red Cross">225 Prado Rd. #A</a> <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
-- **Teléfono:**
-   - Oficina local: [805-543-0696](tel:+1-805-543-0696) <!-- Source: https://www.redcross.org/local/california/central-california/about-us/locations/pacific-coast.html -->
-   - Línea nacional 24/7: [800-733-2767](tel:+1-800-733-2767)
-- **Horario:** J 10am–2pm, o L–V 9am–4pm con cita <!-- Source: https://www.redcross.org/local/california/central-california/about-us/contact-us.html -->
-
 ## <a id="Red-Rover-Relief">Red Rover Relief</a>
 
 - **Sitio web:** [redrover.org/relief](https://redrover.org/relief/)
@@ -3217,6 +3197,26 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 ## Servicios de Salud Mental
 
 > *Vea [**SLOHA — Servicios de Salud Mental**](#SLO-County-Mental-Health-Services)*
+
+## <a id="Adult-Protective-Services">Servicios para la Protección de Adultos</a>
+
+- **Sitio web:** [Slocounty.ca.gov/APS](https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29)
+
+<!-- Source (location/phone): https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
+| Ubicación | Teléfono |
+| --------- | -------- |
+| Arroyo Grande: <a href="#" class="map-link" data-lat="35.1197593" data-lon="-120.5956380" data-zoom="17" data-label="Adult Protective Services (Arroyo Grande)">1086 E. Grand Ave.</a> | [805-474-2000](tel:+1-805-474-2000) |
+| Atascadero: <a href="#" class="map-link" data-lat="35.4657747" data-lon="-120.6485702" data-zoom="17" data-label="Adult Protective Services (Atascadero)">9630 El Camino Real</a> | [805-461-6000](tel:+1-805-461-6000) |
+| Morro Bay: <a href="#" class="map-link" data-lat="35.3692734" data-lon="-120.8447261" data-zoom="17" data-label="Adult Protective Services (Morro Bay)">600 Quintana Rd.</a> | [805-772-6405](tel:+1-805-772-6405) |
+| Nipomo: <a href="#" class="map-link" data-lat="35.0336188" data-lon="-120.4879843" data-zoom="17" data-label="Adult Protective Services (Nipomo)">681 W. Tefft St. #1</a> | [805-931-1800](tel:+1-805-931-1800) |
+| Paso Robles: <a href="#" class="map-link" data-lat="35.6185648" data-lon="-120.6903449" data-zoom="17" data-label="Adult Protective Services (Paso Robles)">406 Spring St.</a> | [805-237-3110](tel:+1-805-237-3110) |
+| SLO: <a href="#" class="map-link" data-lat="35.2536551" data-lon="-120.6687249" data-zoom="17" data-label="Adult Protective Services (SLO)">3433 S. Higuera St.</a> | [805-781-1600](tel:+1-805-781-1600) |
+
+- **Teléfono:** [805-781-1790](tel:+1-805-781-1790) (L–V 8am–5pm); [844-729-8011](tel:+1-844-729-8011) (fuera de horario); [911](tel:+1-911) (emergencia) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
+- **Horario:** L–V 8am–4pm (y solo con cita previa 4–5pm) <!-- Source: https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29 -->
+- Notas:
+   - Puede hacer referencias a [**Programa para Personas sin Hogar con Fragilidad Médica**](#Medically-Fragile-Homeless-Program)
+   - Puede hacer referencias a [**Centro para el Fortalecimiento Familiar (CFS)**](#CFS)
 
 ## <a id="SESLOC-Credit-Union">SESLOC Credit Union</a>
 

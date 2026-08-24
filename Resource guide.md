@@ -78,7 +78,7 @@ If you want to suggest corrections or improvements, or to join the VivaSLO devel
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom:0;">⇨ For Young People:</th></tr>
    <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Youth Crisis Line, for people in California ages 12–24; call or text</td></tr><!-- Source: https://calyouth.org/cycl/ -->
    <tr><td><a href="tel:+1-800-786-2929">800-RUN-AWAY</a> / <a href="sms:+1-800-786-2929">800-786-2929</a></td><td>National Runaway Safeline: 24/7 confidential support for runaway and homeless youth</td></tr><!-- Source: https://www.1800runaway.org/ -->
-   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> or text “LOVEIS” to <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr><!-- Source: https://www.loveisrespect.org/ -->
+   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> (TTY: <a href="tel:+1-800-787-3224">800-787-3224</a>) or text “LOVEIS” to <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://www.loveisrespect.org/">"Love is Respect"</a> information and support for young people with concerns about their romantic relationship</td></tr><!-- Source: https://www.loveisrespect.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom:0;">⇨ For LGBTQ People:</th></tr>
    <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> or text “START” to <a href="sms:678678?&body=START">678678</a></td><td>Trevor Lifeline: Crisis intervention and suicide prevention for LGBTQ+ youth</td></tr><!-- Source: https://www.thetrevorproject.org/get-help/ -->
    <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: Crisis hotline for transgender people</td></tr><!-- Source: https://translifeline.org/ -->
@@ -4022,7 +4022,7 @@ Your report is routed to the correct department where people can address your co
 
 | City          | Platform |
 | ------------- | -------- |
-| Arroyo Grande | [Citizen Request Tracker or CitizenServ](https://ca-arroyogrande.civicplus.com/387/Report-a-Concern) |
+| Arroyo Grande | [Citizen Request Tracker](https://www.arroyogrande.org/RequestTracker.aspx) |
 | Atascadero    | [Public Safety & Reporting](https://www.atascadero.org/public-safety-reporting) |
 | Grover Beach  | [Report an Issue](https://www.grover.org/652/Report-an-Issue) |
 | Morro Bay     | [CitySourced](https://www.morrobayca.gov/983/Service-Request) |

@@ -78,7 +78,7 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Jóvenes:</th></tr>
    <tr><td><a href="tel:+1-800-843-5200">800-843-5200</a></td><td>Línea de Crisis para Jóvenes, para personas en California de 12 a 24 años; llame o envíe mensaje de texto</td></tr><!-- Source: https://calyouth.org/cycl/ -->
    <tr><td><a href="tel:+1-800-786-2929">800-RUN-AWAY</a> / <a href="sms:+1-800-786-2929">800-786-2929</a></td><td>Línea Nacional para Jóvenes Fugitivos: apoyo confidencial 24/7 para jóvenes fugitivos y sin hogar</td></tr><!-- Source: https://www.1800runaway.org/ -->
-   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> o envíe mensaje de texto “LOVEIS” a <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://espanol.loveisrespect.org/">“Love is Respect”</a> información y apoyo para jóvenes con inquietudes sobre su relación romántica</td></tr><!-- Source: https://www.loveisrespect.org/ -->
+   <tr><td><a href="tel:+1-866-331-9474">866-331-9474</a> (TTY: <a href="tel:+1-800-787-3224">800-787-3224</a>) o envíe mensaje de texto “LOVEIS” a <a href="sms:22522?&body=LOVEIS">22522</a></td><td><a href="https://espanol.loveisrespect.org/">“Love is Respect”</a> información y apoyo para jóvenes con inquietudes sobre su relación romántica</td></tr><!-- Source: https://www.loveisrespect.org/ -->
   <tr><th colspan="2" style="text-align:left; padding-left:0; padding-bottom: 0;">⇨ Para Personas LGBTQ:</th></tr>
    <tr><td><a href="tel:+1-866-488-7386">866-488-7386</a> o envíe mensaje de texto “START” a <a href="sms:678678?&body=START">678678</a></td><td>Línea Trevor: intervención en crisis y prevención del suicidio para jóvenes LGBTQ+</td></tr><!-- Source: https://www.thetrevorproject.org/get-help/ -->
    <tr><td><a href="tel:+1-877-565-8860">877-565-8860</a></td><td>Trans Lifeline: línea de crisis para personas trans</td></tr><!-- Source: https://translifeline.org/es/ -->
@@ -2941,8 +2941,8 @@ Para calificar, debe tener un “hijo calificado” al menos uno de cuyos padres
 Debe participar en una entrevista en persona, y puede necesitar proporcionar alguna documentación para verificar su elegibilidad. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid -->
 Para recibir beneficios, puede ser requerido que participe en el [Programa para la Transición de la Asistencia Pública al Trabajo](https://www.cdss.ca.gov/Portals/9/CalWORKS/CalWORKs-WtW-Participant-Handbook%20-%20Spanish.pdf), que le ayuda a prepararse para, encontrar y mantener empleo. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/calworks-cash-aid -->
 
-Si es refugiado o inmigrante de Cuba o Haití que no es elegible para CalWORKs, puede obtener beneficios de los programas [Refugee Cash Assistance (RCA) o Entrant Cash Assistance (ECA)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/refugee-cash-assistance-%28rca%29-entrant-cash-assista). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/refugee-cash-assistance-%28rca%29-entrant-cash-assista -->
-Si también es víctima de tráfico humano, violencia doméstica u otro crimen grave, también puede calificar para el [Trafficking and Crime Victims Assistance Program (TCVAP)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/trafficking-crime-victims-assistance-program-%28cw%29). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/trafficking-crime-victims-assistance-program-%28cw%29 -->
+Si es refugiado o inmigrante de Cuba o Haití que no es elegible para CalWORKs, puede obtener beneficios de los programas [Asistencia en Efectivo para Refugiados (RCA) o Entrant Cash Assistance (ECA)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/refugee-cash-assistance-%28rca%29-entrant-cash-assista). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/refugee-cash-assistance-%28rca%29-entrant-cash-assista -->
+Si también es víctima de tráfico humano, violencia doméstica u otro crimen grave, también puede calificar para el [Programa de Asistencia para Víctimas de Trata y Delitos (TCVAP)](https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/trafficking-crime-victims-assistance-program-%28cw%29). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/trafficking-crime-victims-assistance-program-%28cw%29 -->
 Para cualquiera de estos programas, puede solicitar en persona en una oficina del [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/refugee-cash-assistance-%28rca%29-entrant-cash-assista and https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/trafficking-crime-victims-assistance-program-%28cw%29 -->
 Traiga prueba de ingresos y activos y documentación sobre su estatus de refugiado o entrada, incluyendo la información de su patrocinador si tiene uno.
 Para TCVAP, también puede solicitar en línea en [BenefitsCal](https://benefitscal.com/). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/cash-assistance-programs/services/trafficking-crime-victims-assistance-program-%28cw%29 -->
@@ -3716,7 +3716,7 @@ También hay reuniones semanales en línea de [Narateen](https://www.nar-anon.or
 Un grupo de apoyo para trastornos alimentarios se reúne por Zoom los miércoles de 7–8pm. <!-- Source: https://galacc.org/events/#calendar -->
 Contacte a [libby@thebroadwaydietitian.com](mailto:libby@thebroadwaydietitian.com) para más información. <!-- Source: https://galacc.org/events/#calendar -->
 
-[Overeaters Anonymous](https://oa.org/) (Comedores Compulsivos Anónimos) lleva a cabo reuniones semanales en Arroyo Grande, Morro Bay y SLO.
+[Comedores Compulsivos Anónimos](https://oa.org/) lleva a cabo reuniones semanales en Arroyo Grande, Morro Bay y SLO.
 
 [Deudores Anónimos](https://debtorsanonymous.org/en-espanol/) lleva a cabo [reuniones por teléfono o Zoom](https://debtorsanonymous.org/en-espanol/#title-8).
 
@@ -3843,7 +3843,7 @@ Las lecciones están disponibles (se solicita donación de $2, pelotas y paletas
 
 [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) alberga bingo, canasta, una comida compartida y tiene café gratuito diariamente.
 
-[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) alberga scrabble, hand & foot, pinochle, meditación y atención plena, tejido, bridge, mahjong, póker, bingo, dominó Mexican train, Rummikub, cribbage, películas, un club de lectura y un grupo de caminata.
+[**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) alberga scrabble, hand & foot, pinochle, meditación y atención plena, tejido, bridge, mahjong, póker, bingo, dominó “Mexican train,” Rummikub, cribbage, películas, un club de lectura y un grupo de caminata.
 
 [**SLO Senior Center**](Directory.md#SLO-Senior-Center) opera tours gratuitos “Around the Town” (Por el Pueblo) de lugares de interés locales para personas de 55 años en adelante.
 Vea la sección [Around the Town](https://www.slocity.org/government/department-directory/parks-and-recreation/activity-guide/senior-programs) de la página web del Centro para Personas Mayores de la ciudad para detalles sobre próximos tours e instrucciones sobre cómo registrarse.
@@ -3884,7 +3884,7 @@ No hay cargo para el dueño de la mascota, pero se aprecian las donaciones. <!--
 El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene una perrera para huéspedes (tanto huéspedes durante la noche como huéspedes del centro de calefacción/enfriamiento). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Las mascotas deben tener vacunas contra la rabia. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 
-[**Cal Poly “Doggy Days” Veterinary Clinics**](Directory.md#Cal-Poly-Doggy-Days) son clínicas emergentes periódicas que ofrecen cuidado veterinario gratuito incluyendo vacunas, exámenes y recorte de uñas.
+[**Cal Poly “Doggy Days” Clínicas Veterinarias**](Directory.md#Cal-Poly-Doggy-Days) son clínicas emergentes periódicas que ofrecen cuidado veterinario gratuito incluyendo vacunas, exámenes y recorte de uñas.
 Típicamente ocurren 3–4 veces por trimestre académico en varias ubicaciones alrededor del Condado de SLO, a menudo en coordinación con otros programas de alcance comunitario como [**Shower the People**](Directory.md#Shower-the-People).
 
 [**Kritter Care**](Directory.md#Kritter-Care), con base en Morro Bay, puede dar comida para perros y gatos, suministros para mascotas y asistencia con facturas veterinarias a dueños de mascotas que tienen solo fondos limitados. <!-- TBD: Need info on how to apply to this program (issue #82) -->
@@ -3921,7 +3921,7 @@ Su sitio [ReadySLO.org](https://www.readyslo.org/) incluye las siguientes seccio
 Puede registrarse para recibir alertas de emergencia locales por mensaje de texto en su teléfono en [AlertSLO](https://public.alertsense.com/SignUp/?RegionId=1317).
 Puede elegir qué tipos de alertas le interesa recibir (por ejemplo “Inundación / Inundación Repentina” y “Incendio”). <!-- Source: https://public.alertsense.com/SignUp/publicUser.aspx?RegionId=1317 -->
 
-La [**Red Cross**](Directory.md#Red-Cross) (Cruz Roja) opera refugios de emergencia durante desastres mayores. <!-- Source: https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html -->
+La [**Cruz Roja**](Directory.md#Red-Cross) opera refugios de emergencia durante desastres mayores. <!-- Source: https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html -->
 Usualmente tienen opciones que aceptan mascotas. <!-- Source: https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html -->
 
 ### <a id="fire-safety">Seguridad contra Incendios en el Campamento</a>
@@ -4023,17 +4023,17 @@ Su reporte es enrutado al departamento correcto donde las personas pueden aborda
 
 | Ciudad        | Plataforma |
 | ------------- | ---------- |
-| Arroyo Grande | [Citizen Request Tracker o CitizenServ](https://ca-arroyogrande.civicplus.com/387/Report-a-Concern) |
-| Atascadero    | [Public Safety & Reporting](https://www.atascadero.org/public-safety-reporting) (Seguridad Pública y Reportes) |
+| Arroyo Grande | [Citizen Request Tracker](https://www.arroyogrande.org/RequestTracker.aspx) |
+| Atascadero    | [Seguridad Pública e Informes](https://www.atascadero.org/public-safety-reporting) |
 | Grover Beach  | [Report an Issue](https://www.grover.org/652/Report-an-Issue) (Reportar un Problema) |
 | Morro Bay     | [CitySourced](https://www.morrobayca.gov/983/Service-Request) |
 | Paso Robles   | [SeeClickFix](https://seeclickfix.com/web_portal/mWPmZTZqbheqdCAtKircrZNq/issues/map) |
-| Pismo Beach   | [Pismo Pulse](https://iframe.publicstuff.com/#?client_id=1428) <!-- Broken on 11 Dec 2025 --> |
+| Pismo Beach   | [Pismo Pulse](https://iframe.publicstuff.com/#?client_id=1428) |
 | SLO           | [AskSLO](https://www.slocity.org/services/how-do-i/ask-slo-copy/report-request) |
 
 Algunas ciudades tienen contactos especiales específicamente para problemas relacionados con la falta de hogar.
 Para preguntas específicas sobre personas sin hogar en Paso Robles, contacte a [homelessinfo@prcity.com](mailto:homelessinfo@prcity.com).
-En la ciudad de SLO, contacte al Gerente de Respuesta a la Falta de Hogar (Homelessness Response Manager) en [dwiberg@slocity.org](mailto:dwiberg@slocity.org) o [805-781-7025](tel:+1-805-781-7025).
+En la ciudad de SLO, contacte al Gerente de Respuesta a la Falta de Hogar en [dwiberg@slocity.org](mailto:dwiberg@slocity.org) o [805-781-7025](tel:+1-805-781-7025).
 
 Si vive en un albergue para personas sin hogar organizado y ese albergue no es estructuralmente seguro o tiene saneamiento inadecuado, puede presentar una queja ante el oficial de Control de Obras (Code Enforcement) de la ciudad donde opera el albergue.
 Esa oficina está obligada por ley a dar seguimiento a su queja.
@@ -4070,7 +4070,7 @@ En algunas áreas, también puede reportar un crimen en una situación que no es
 | Ubicación                        | Método de Reporte en Línea                        |
 | -------------------------------- | ------------------------------------------------- |
 | (áreas no incorporadas)          | Sheriff: [Public Safety Citizens Service Portal](https://report.citizenserviceportal.com/home/agency?agencycode=sloso) (Portal de Servicio Ciudadano de Seguridad Pública) |
-| Atascadero                       | Policía: [Crime Reporting](https://www.atascadero.org/service/crime-reporting) (Reporte de Crímenes) |
+| Atascadero                       | Policía: [Crime Reporting](https://www.atascadero.org/service/crime-reporting) (Denuncia de Delitos) |
 | Paso Robles                      | Policía: [File a Police Report](https://www.prcity.com/671/File-a-Police-Report) (Presentar un Reporte Policial) |
 | ciudad de SLO                    | Policía: [Online Reporting](https://www.slocity.org/government/department-directory/police-department/online-reporting) (Reporte en Línea) |
 | carreteras y otras ciudades      | llame a uno de los números de teléfono en la tabla arriba |
@@ -4078,7 +4078,7 @@ En algunas áreas, también puede reportar un crimen en una situación que no es
 También puede enviar pistas a las fuerzas del orden sobre crímenes (anónimamente si lo elige) a través de SLO County Crime Stoppers.
 Puede hacer esto ya sea usando el formulario de pistas en línea en [sanluisobispocounty.crimestoppersweb.com](https://sanluisobispocounty.crimestoppersweb.com/) o llamando al [805-549-STOP](tel:+1-805-549-7867).
 
-Si es un adulto que depende de otros, y es sujeto a abuso o negligencia—o si conoce a otro adulto en tal situación—puede obtener ayuda de [**Adult Protective Services**](Directory.md#Adult-Protective-Services) (Servicios de Protección para Adultos).
+Si es un adulto que depende de otros, y es sujeto a abuso o negligencia—o si conoce a otro adulto en tal situación—puede obtener ayuda de [**Servicios para la Protección de Adultos**](Directory.md#Adult-Protective-Services).
 Haga llamadas de emergencia al [805-781-1790](tel:+1-805-781-1790) (L–V 8am–5pm) o [844-729-8011](tel:+1-844-729-8011) (todas las demás horas).
 
 ### <a id="reporting-misconduct">Reportar Mala Conducta Gubernamental</a>
@@ -4134,7 +4134,7 @@ El [Programa de Asistencia para el Ahorro Energético](https://www.pge.com/es/sa
 Esto también puede mejorar la eficiencia energética, lo que reducirá sus facturas de servicios públicos.
 Vea su sitio web para información sobre quién es elegible y cómo solicitar, o llame al [800-933-9555](tel:+1-800-933-9555).
 
-[**CAPSLO**](Directory.md#CAPSLO) puede conectar hogares de bajos ingresos con proveedores de climatización sin costo a través de su programa [Home and Energy Services](https://capslo.org/energy-services/) (Servicios de Hogar y Energía).
+[**CAPSLO**](Directory.md#CAPSLO) puede conectar hogares de bajos ingresos con proveedores de climatización sin costo a través de su programa [Home and Energy Services](https://capslo.org/energy-services/) (Programa de Asistencia de Energía en Su Hogar).
 También pueden conectar a personas mayores (edad 60+) con proveedores de reparaciones menores del hogar sin costo a través de ese programa. <!-- https://capslo.org/minor-home-repair/ -->
 Llame a su Oficina de Energía para detalles.
 
@@ -4169,7 +4169,7 @@ Algunos tienen un enfoque diferente (por ejemplo, destacan recursos para persona
 Aquí hay algunas de estas guías locales:
 
 - [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): una guía integral que cubre servicios para personas mayores en los Condados de SLO y Santa Barbara. También existe como un directorio en línea con búsqueda en [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
-- [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services) (Guía de Recursos para Mayores Personas del Condado del Norte): disponible en inglés y español; cubre educación, comidas, vivienda, cuidado en el hogar, transporte, salud mental, apoyo legal, asistencia financiera, recreación y atención médica
+- [*Guía de Recursos para Mayores Personas del Condado del Norte*](https://www.prcity.com/293/Senior-Services): disponible en inglés y español; cubre educación, comidas, vivienda, cuidado en el hogar, transporte, salud mental, apoyo legal, asistencia financiera, recreación y atención médica
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): directorio de recursos del Condado de SLO de United Way
 - [NavSLO](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/maternal-child-health/navigateslo): directorio de recursos del SLO County Public Health Department Maternal and Child Health
@@ -4180,7 +4180,7 @@ Aquí hay algunas de estas guías locales:
 - [Centro de Recursos de La Agencia de Salud del Condado de San Luis Obispo (SLOHA)](https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/resource-center)
 - [Resource Guide Estero Bay](https://www.losososcares.com/_files/ugd/49eed7_be57bde969e54688ab18bdc4ba28c2f3.pdf): enfocándose en Los Osos y comunidades cercanas
 - [Sharing SLO wiki](https://localwiki.org/slo/Sharing_SLO): “una descripción general de parte de la economía colaborativa de San Luis Obispo”
-- [Immigrant Services Guide](https://www.sloundocusupport.org/immigrantservicesguide): recursos para inmigrantes indocumentados en el Condado de SLO
+- [La Guía de Servicios para Inmigrantes](https://www.sloundocusupport.org/immigrantservicesguide): recursos para inmigrantes indocumentados en el Condado de SLO
 - [SLO County *Job Seeker Resource Guide*](https://www.slocounty.ca.gov/departments/social-services/workforce-development-board/forms-documents/job-seeker-resource-guide)
 - [*The Homeless Veteran’s Resource Guide*](https://www.statesidelegal.org/sites/default/files/Homeless%20Veteran%20Resource%20Guide_0.pdf)
 
