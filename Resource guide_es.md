@@ -941,11 +941,7 @@ Los mercados de agricultores que califican incluyen: <!-- Source: https://www.cd
 El programa CalFresh es la versión de California del programa federal de nutrición conocido como “SNAP” o “cupones de alimentos.” <!-- Source: https://www.getcalfresh.org/ -->
 Si tiene bajos ingresos, California le da una “tarjeta EBT” que puede usar como una tarjeta de débito en tiendas de alimentos y mercados de agricultores para comprar alimentos saludables. <!-- Source: https://www.getcalfresh.org/ -->
 
-Puede aplicar para CalFresh en línea en cualquiera de los siguientes sitios:
-
-- [BenefitsCal.com](https://benefitscal.com/) <!-- Source: https://www.getcalfresh.org/ -->
-- [GetCalFresh.org](https://www.getcalfresh.org/) <!-- Source: https://www.getcalfresh.org/ -->
-
+Puede aplicar para CalFresh en línea en [BenefitsCal.com](https://benefitscal.com/). <!-- Source: https://www.getcalfresh.org/ -->
 También puede aplicar en persona en el [**SLO County Department of Social Services**](Directory.md#SLO-County-Department-of-Social-Services). <!-- Source: https://www.slocounty.ca.gov/departments/social-services/calfresh/services/calfresh-food-assistance -->
 
 Si es estudiante de Cal Poly, puede obtener asistencia del [Cal Poly CalFresh Program](https://www.calfreshcalpoly.org/) ([805-399-0236](tel:+1-805-399-0236) o [calfresh@calpoly.edu](mailto:calfresh@calpoly.edu)).
