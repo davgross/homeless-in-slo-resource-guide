@@ -64,7 +64,7 @@ const WHITELIST = new Set([
   'Anna', 'Judson', 'DeVaul', 'Spooner', 'Macadero', 'Cleaver', 'Clark', 'Halcyon', 'Willow', 'Madonna',
   'Marvin', 'Lizzie', 'Betty', 'Bettys', 'Woodson', 'Grayson', 'Ariana', 'Nielson', 'Lamore',
   'Vania', 'Agama', 'Layne', 'Rupe', 'Jauregui', 'Bruse', 'Rossi', 'Villalobos', 'Dowler',
-  'Rocio', 'Anaya', 'Butz', 'Scurich', 'Beres', 'LeGrande',
+  'Rocio', 'Anaya', 'Butz', 'Scurich', 'Beres', 'LeGrande', 'Ashlynn',
 
   // Misc
   'website', 'email', 'voicemail', 'hotline', 'nonprofit', 'unhoused', 'rehousing', 'parolee',
