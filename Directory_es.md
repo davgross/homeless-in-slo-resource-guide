@@ -301,7 +301,7 @@
 - **Teléfono:** [805-543-9817](tel:+1-805-543-9817) <!-- Source: https://sloalanoclub.org/ -->
 - **Correo electrónico:** [sloalanoclub@gmail.com](mailto:sloalanoclub@gmail.com) <!-- Source: https://sloalanoclub.org/ -->
 - **Horario:** Abierto 7 días a la semana (vea [meeting schedule](https://sloalanoclub.org/meeting-schedule) para horarios específicos de reuniones)
-<!-- Nota: El club está abierto diariamente but specific facility operating hours are not publicly listed; contact directly for details -->
+<!-- Note: The club is open daily but specific facility operating hours are not publicly listed; contact directly for details -->
 
 ## <a id="AA">Alcohólicos Anónimos</a>
 
@@ -768,6 +768,7 @@
 - **Correo electrónico:**
    - [info@caconnect.org](mailto:info@caconnect.org) <!-- Source: https://caconnect.org/ -->
    - [ddtp@cpuc.ca.gov](mailto:ddtp@cpuc.ca.gov)
+   - [caconnectcustomeraffairs@cpuc.ca.gov](mailto:caconnectcustomeraffairs@cpuc.ca.gov) <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
 - **Horario:** Mi 9am–3pm <!-- Source: https://caconnect.org/service/ -->
 
 ## <a id="California-Cool-Thrift-Store">California Cool Thrift Store</a>
@@ -947,7 +948,7 @@
 - **Horario:**
    - Oficinas SLO: L–V 8am–5pm (llame para confirmar el horario de cada ubicación)
    - Paso Robles: segundo miércoles de cada mes, 1–5pm
-<!-- Nota: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) (vea p. ej. https://www.slocounty.ca.gov/departments/social-services/forms-documents/department-wide-forms/informational-documents/slo-county-resources-and-information-(5-1-2024))-->
+<!-- Note: Multiple addresses found in online sources including 3220 S. Higuera St. #303 or #225, and 941 Chorro St.; relationship between these addresses unclear (January 2025) (see e.g. https://www.slocounty.ca.gov/departments/social-services/forms-documents/department-wide-forms/informational-documents/slo-county-resources-and-information-(5-1-2024))-->
 
 ## <a id="Cayucos-Community-Church">Cayucos Community Church</a>
 
@@ -1039,7 +1040,7 @@
 - **Dirección postal:** P.O. Box 3417, SLO, CA 93403 <!-- Source: https://sloautism.org/about-us/ -->
 - **Teléfono:** [805-763-1100](tel:+1-805-763-1100) <!-- Source: https://sloautism.org/about-us/ -->
 - **Correo electrónico:** [contact@sloautism.org](mailto:contact@sloautism.org) <!-- Source: https://sloautism.org/about-us/ -->
-<!-- Nota: Organization uses P.O. Box; no physical street address found (as of October 2025). Hours of operation not publicly listed; contact directly for details -->
+<!-- Note: Organization uses P.O. Box; no physical street address found (as of October 2025). Hours of operation not publicly listed; contact directly for details -->
 
 ## <a id="Central-Coast-Commission-for-Senior-Citizens">Central Coast Commission for Senior Citizens</a>
 
@@ -1171,7 +1172,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.275653" data-lon="-120.644484" data-zoom="17" data-label="Child Development Resource Center">1720 Bishop St., SLO</a> <!-- Source: https://www.childrensresource.org/ -->
 - **Teléfono:** [805-544-0801](tel:+1-805-544-0801) <!-- Source: https://www.childrensresource.org/ -->
 - **Cómo obtener el servicio:** Complete [una solicitud](https://www.childrensresource.org/regristration) u obtenga una referencia de servicios de bienestar infantil o de un proveedor legal, médico, de servicios sociales o de refugio de emergencia. La matrícula se basa en una escala móvil según los ingresos. Hay ayuda financiera disponible.
-<!-- Nota: Hours of operation not publicly listed (as of October 2025); contact directly for hours -->
+<!-- Note: Hours of operation not publicly listed (as of October 2025); contact directly for hours -->
 
 ## <a id="Child-Support-Services">Child Support Services</a>
 
@@ -1302,7 +1303,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.278881" data-lon="-120.667651" data-zoom="17" data-label="Community Foundation of SLO County">550 Dana St., SLO</a> <!-- Source: https://www.cfsloco.org/ -->
 - **Teléfono:** [805-543-2323](tel:+1-805-543-2323) <!-- Source: https://www.cfsloco.org/ -->
 - **Correo electrónico:** [info@cfsloco.org](mailto:info@cfsloco.org) <!-- Source: https://www.cfsloco.org/ -->
-<!-- Nota: Hours of operation not publicly listed (as of October 2025); contact office directly for hours -->
+<!-- Note: Hours of operation not publicly listed (as of October 2025); contact office directly for hours -->
 - Nota: socia de [**UndocuSupport del Condado de SLO**](#SLO-County-UndocuSupport)
 
 ## <a id="CHC">Community Health Centers of the Central Coast</a>
@@ -1896,7 +1897,7 @@
 <!-- Source: https://www.sloharc.org/ and https://www.newtimesslo.com/news/slos-sunny-acres-could-become-a-health-campus-by-restorative-partners-and-homekey-funds-16578959 -->
 - **Sitio web:** [sloharc.org](https://www.sloharc.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.273513" data-lon="-120.706208" data-zoom="16" data-label="Healing and Restoration Campus">Los Osos Valley Road cerca de Laguna Lake</a> (antiguamente DeVaul Ranch / Sunny Acres)
-<!-- Nota: Precise address and contact info not publicly available (as of October 2025). Property transitioned from Dan DeVaul’s Sunny Acres to Restorative Partners in December 2024 for development as healing and restoration campus using Homekey+ funding -->
+<!-- Note: Precise address and contact info not publicly available (as of October 2025). Property transitioned from Dan DeVaul’s Sunny Acres to Restorative Partners in December 2024 for development as healing and restoration campus using Homekey+ funding -->
 - Nota: un proyecto de [**Restorative Partners**](#Restorative-Partners)
 
 ## <a id="HCHP">Healthcare for the Homeless Program</a>
@@ -1961,6 +1962,19 @@
 - **Teléfono:** [805-215-5474](tel:+1-805-215-5474) <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
 - **Correo electrónico:** [info@smartsharehousingsolutions.org](mailto:info@smartsharehousingsolutions.org) <!-- Source: https://www.smartsharehousingsolutions.org/contact -->
 - Nota: un proyecto de [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions) <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
+
+## <a id="Hope-for-Ashlynn">Hope for Ashlynn</a>
+
+- **Teléfono:** [805-423-6546](tel:+1-805-423-6546) <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+- **Correo electrónico:** [hopeforashlynn@outlook.com](mailto:hopeforashlynn@outlook.com) <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+- **Dirección postal:** 800 6th St. #93, Paso Robles, CA 93447
+- Notas:
+   - Salen a la calle para ayudar a personas con enfermedad mental grave, falta de vivienda o adicción. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+   - Los servicios son gratuitos. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+   - Trabajan principalmente en el norte del Condado de SLO. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+   - No prometen ni garantizan ningún servicio en particular. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+<!-- To do: the description Hope for Ashlynn gave of their own services is too vague to summarize in the Resource Guide, and so is their stated service area ("North County"). -->
+<!-- Still needed before this can be cross-referenced from the Resource Guide: which towns in northern SLO County their outreach actually reaches; whether a person can call the number for themselves or whether it is meant for family members or others reporting someone; what happens after someone calls; hours; whether they have a website. -->
 
 ## Hope House
 
@@ -2182,7 +2196,7 @@
 - **Sitio web:** [linkslo.org](https://linkslo.org/)
 - **Ubicaciones:**
    - Atascadero: <a href="#" class="map-link" data-lat="35.513562" data-lon="-120.686928" data-zoom="17" data-label="The Link Family Resource Center (Atascadero)">4507 Del Rio Ave Bldg. #1, Atascadero</a> <!-- Source: https://linkslo.org/ -->
-   - Paso Robles: <a href="#" class="map-link" data-lat="35.641077" data-lon="-120.693910" data-zoom="17" data-label="The Link Family Resource Center (Paso Robles)">665 26th St., Paso Robles</a> <!-- Source: https://linkslo.org/ (se mudó de la antigua dirección 1802 Chestnut St.; verificado 1 ago. 2026) -->
+   - Paso Robles: <a href="#" class="map-link" data-lat="35.641077" data-lon="-120.693910" data-zoom="17" data-label="The Link Family Resource Center (Paso Robles)">665 26th St., Paso Robles</a> <!-- Source: https://linkslo.org/ (moved from the former 1802 Chestnut St. address; verified 1 Aug. 2026) -->
 - **Teléfono:** [805-466-5404](tel:+1-805-466-5404) <!-- Source: https://linkslo.org/ -->
    - Family Advocate Services: [805-794-0217](tel:+1-805-794-0217) <!-- Source: https://linkslo.org/ -->
 - **Horario:** L–V 9am–5pm <!-- Source: https://linkslo.org/ -->
@@ -2509,7 +2523,7 @@
 
 ## <a id="North-County-Care">North County Care Minor Emergency Services</a>
 
-<!-- Nota: Does not seem to have its own website -->
+<!-- Note: Does not seem to have its own website -->
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.621268" data-lon="-120.690517" data-zoom="17" data-label="North County Care Minor Emergency Services">636 Spring St., Paso Robles</a> <!-- Source: https://www.yelp.com/biz/north-county-care-minor-emergency-services-paso-robles -->
 - **Teléfono:** [805-238-2422](tel:+1-805-238-2422) <!-- Source: https://www.yelp.com/biz/north-county-care-minor-emergency-services-paso-robles -->
 - **Horario:** L–V 10am–5pm <!-- Source: https://www.urgentcare.com/practice/U4378-north-county-care-minor-services-paso-robles-ca-93446 -->
@@ -2587,7 +2601,7 @@
 - Notas:
    - Designado como Centro de Recursos Familiares (FRC, por sus siglas en inglés) y Centro de Empoderamiento Familiar (FEC); miembro de la red estatal [Family Resource Centers Network of California](https://frcnca.org/) <!-- Source: https://phpslo.org/en/about/ -->
    - Atiende a familias con niños con discapacidades o necesidades especiales, desde el nacimiento hasta la edad adulta <!-- Source: https://phpslo.org/en/about/ -->
-   - Un programa de UCP of San Luis Obispo County (UCP+) <!-- Source: https://phpslo.org/en/about/ y el dominio de correo ucp-slo.org -->
+   - Un programa de UCP of San Luis Obispo County (UCP+) <!-- Source: https://phpslo.org/en/about/ and email address domain ucp-slo.org -->
 
 ## <a id="Paso-Cares">Paso Cares</a>
 
@@ -2604,10 +2618,10 @@
 
 ## <a id="North-County-Family-Resource-Center">Paso Robles Family Resource Center</a>
 
-<!-- Este programa se llamaba antes "North County Family Resource Center"; el sitio web de CAPSLO ahora lo titula "Paso Robles Family Resource Center" (verificado 1 ago. 2026). Se mantiene el id de anclaje como North-County-Family-Resource-Center para no romper enlaces existentes. No se encontró horario ni correo electrónico en capslo.org al 1 ago. 2026 -- llame al 805-440-1878 para confirmar. -->
+<!-- This program was formerly called "North County Family Resource Center"; CAPSLO's own website now titles it "Paso Robles Family Resource Center" (verified 1 Aug. 2026). Anchor id kept as North-County-Family-Resource-Center so existing links do not break. Hours and email not found on capslo.org as of 1 Aug. 2026 -- call 805-929-0016 to confirm. -->
 - **Sitio web:** [capslo.org/north-county-family-resource-center](https://capslo.org/es/north-county-family-resource-center/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Paso Robles Family Resource Center">704 Spring St., Paso Robles</a> <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
-- **Teléfono:** [805-440-1878](tel:+1-805-440-1878) <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+- **Teléfono:** [805-929-0016](tel:+1-805-929-0016) <!-- Source: Desiree Miller reached out to Javi Perez of PRFRC 17–18 August 2026 -->
 - Notas:
    - Operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Los servicios incluyen evaluación gratuita del desarrollo para niños de 0 a 5 años (Help Me Grow), ayuda para inscribirse en Head Start/Early Head Start, y ayuda con el pago del cuidado infantil <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
@@ -2976,14 +2990,14 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 <!-- Source (location/phone): https://capslo.org/s-a-f-e-family-resource-centers/ -->
 | Ubicación | Teléfono |
 | --------- | -------- |
-| <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">1425 19th St., Oceano</a> | [805-474-3690](tel:+1-805-474-3690) |
+| <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">1425 19th St., Oceano</a> | [805-474-3900](tel:+1-805-474-3900) |
 | <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">1086 Grand Ave., Arroyo Grande</a> | [805-474-2105](tel:+1-805-474-2105) |
 | <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">920 W. Tefft St., Nipomo</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) |
 
-<!-- Dirección de Oceano actualizada el 1 ago. 2026: de 1511 19th St. (edificio de la biblioteca de Oceano) a 1425 19th St. (edificio del centro comunitario de Oceano), según el texto actual de capslo.org; se recomienda confirmar por teléfono, ya que este valor cambió del anterior. -->
+<!-- Oceano address updated 1 Aug. 2026 from 1511 19th St. (Oceano Library building) to 1425 19th St. (Oceano Community Center building) per current capslo.org text; Desiree Miller verified that this new address is correct with Mary McCallister of CAPSLO, 20 August 2026. -->
 - **Correo electrónico:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 - **Cómo obtener el servicio:** Se aceptan visitas sin cita; se prefieren citas. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
-<!-- No se encontró el horario en capslo.org ni en otras fuentes confiables al 1 ago. 2026 -- llame para confirmar -->
+<!-- Hours not found on capslo.org or other reputable sources as of 1 Aug. 2026 -- call to confirm -->
 - Notas:
    - operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Vea también [**Link Family Resource Center**](#Link-Family-Resource-Center)
@@ -3010,7 +3024,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Sitio web:** [stpatsag.org](https://www.stpatsag.org/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.114145" data-lon="-120.583486" data-zoom="17" data-label="Saint Patrick’s Church">501 Fair Oaks Ave., Arroyo Grande</a> <!-- Source: https://www.stpatsag.org/ -->
 - **Teléfono:** [805-489-2680](tel:+1-805-489-2680) <!-- Source: https://www.stpatsag.org/ -->
-<!-- Nota: another source says 805-441-1094 (for food pantry specifically?) -->
+<!-- Note: another source says 805-441-1094 (for food pantry specifically?) -->
 - **Correo electrónico:** [info@stpatsag.org](mailto:info@stpatsag.org) <!-- Source: https://www.stpatsag.org/ -->
 - **Horario:**
    - Oficina: L/Ma/J 9am–5pm (cerrado mediodía–1:30pm), Mi 9:30am–5pm (cerrado mediodía–1:30pm) <!-- Source: https://www.stpatsag.org/ -->
@@ -3321,7 +3335,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Dirección postal:** P.O. Box 585, SLO, CA 93406 <!-- Source: https://slobarlris.org/contact/ -->
 - **Teléfono:** [805-541-5502](tel:+1-805-541-5502) <!-- Source: https://slobarlris.org/contact/ -->
 - **Correo electrónico:** [lris@slobar.org](mailto:lris@slobar.org) <!-- Source: https://slobarlris.org/contact/ -->
-<!-- Nota: No physical walk-in location; operates via phone interviews and online request forms only (verified October 2025) -->
+<!-- Note: No physical walk-in location; operates via phone interviews and online request forms only (verified October 2025) -->
 
 ## <a id="SLO-County-Clerk-Recorder">SLO County Clerk-Recorder</a>
 
@@ -3661,11 +3675,9 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Sociedad de San Vicente de Paúl">751 Palm St., SLO</a> <!-- Source: https://fpcslo.org/assistance -->
 - **Teléfono:** [805-544-7041](tel:+1-805-544-7041) <!-- Source: https://fpcslo.org/assistance -->
-- **Horario:**
-   - Martes en Prado Center (<a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Sociedad de San Vicente de Paúl">40 Prado Rd., SLO</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
-   - los jueves en la Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Sociedad de San Vicente de Paúl">751 Palm St., SLO</a>): 1pm solo con cita previa <!-- Source: https://fpcslo.org/assistance -->
-- **Cómo obtener el servicio:** sin cita en Prado, o llame para programar una cita en la Misión
-<!-- Nota: No dedicated website found for local chapter (as of October 2025) -->
+- **Horario:** los jueves en la Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Sociedad de San Vicente de Paúl">751 Palm St., SLO</a>): 1–3pm solo con cita previa <!-- Source: https://fpcslo.org/assistance -->
+- **Cómo obtener el servicio:** llame para programar una cita
+<!-- Note: No dedicated website found for local chapter (as of October 2025); they no longer offer services at 40 Prado (some online sources claim they do) according to Rich Hendrickson, Director StVdP in email to Desiree Miller 24 Aug. 2026 -->
 
 ## <a id="South-Bay-Community-Center">South Bay Community Center</a>
 
@@ -3992,7 +4004,7 @@ Hay varias opciones de atención de urgencias, incluyendo:
 
 - **Sitio web:** [vetride.va.gov](https://www.vetride.va.gov/)
 - **Teléfono:** [805-543-1233](tel:+1-805-543-1233)
-<!-- https://www.vetride.va.gov/app/contact-us shows the closest office being in Fresno with the number 559-241-6462. Does the 805 number still work? Is this service available aquí? -->
+<!-- https://www.vetride.va.gov/app/contact-us shows the closest office being in Fresno with the number 559-241-6462. Does the 805 number still work? Is this service available here? -->
 
 <!-- Defunct?
 ## <a id="Veterans-Volunteer-Services">Veterans Volunteer Services</a>

@@ -525,6 +525,7 @@
 - **Email:**
    - [info@caconnect.org](mailto:info@caconnect.org) <!-- Source: https://caconnect.org/ -->
    - [ddtp@cpuc.ca.gov](mailto:ddtp@cpuc.ca.gov)
+   - [caconnectcustomeraffairs@cpuc.ca.gov](mailto:caconnectcustomeraffairs@cpuc.ca.gov) <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
 - **Hours:** W 9am–3pm <!-- Source: https://caconnect.org/service/ -->
 
 ## <a id="California-Cool-Thrift-Store">California Cool Thrift Store</a>
@@ -1681,6 +1682,19 @@
 - **Email:** [info@smartsharehousingsolutions.org](mailto:info@smartsharehousingsolutions.org) <!-- Source: https://www.smartsharehousingsolutions.org/contact -->
 - Note: A project of [**SmartShare Housing Solutions**](#SmartShare-Housing-Solutions) <!-- Source: https://www.smartsharehousingsolutions.org/homeshare-slo -->
 
+## <a id="Hope-for-Ashlynn">Hope for Ashlynn</a>
+
+- **Phone:** [805-423-6546](tel:+1-805-423-6546) <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+- **Email:** [hopeforashlynn@outlook.com](mailto:hopeforashlynn@outlook.com) <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+- **Mailing address:** 800 6th St. #93, Paso Robles, CA 93447
+- Notes:
+   - They go out on the streets to help people with severe mental illness, homelessness, or addiction. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+   - Services are free. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+   - They work mainly in northern SLO County. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+   - They do not promise or guarantee any particular service. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+<!-- To do: the description Hope for Ashlynn gave of their own services is too vague to summarize in the Resource Guide, and so is their stated service area ("North County"). -->
+<!-- Still needed before this can be cross-referenced from the Resource Guide: which towns in northern SLO County their outreach actually reaches; whether a person can call the number for themselves or whether it is meant for family members or others reporting someone; what happens after someone calls; hours; whether they have a website. -->
+
 ## Hope House
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
@@ -2604,10 +2618,10 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="North-County-Family-Resource-Center">Paso Robles Family Resource Center</a>
 
-<!-- This program was formerly called "North County Family Resource Center"; CAPSLO's own website now titles it "Paso Robles Family Resource Center" (verified 1 Aug. 2026). Anchor id kept as North-County-Family-Resource-Center so existing links do not break. Hours and email not found on capslo.org as of 1 Aug. 2026 -- call 805-440-1878 to confirm. -->
+<!-- This program was formerly called "North County Family Resource Center"; CAPSLO's own website now titles it "Paso Robles Family Resource Center" (verified 1 Aug. 2026). Anchor id kept as North-County-Family-Resource-Center so existing links do not break. Hours and email not found on capslo.org as of 1 Aug. 2026 -- call 805-929-0016 to confirm. -->
 - **Website:** [capslo.org/north-county-family-resource-center](https://capslo.org/north-county-family-resource-center/)
 - **Location:** <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Paso Robles Family Resource Center">704 Spring St., Paso Robles</a> <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
-- **Phone:** [805-440-1878](tel:+1-805-440-1878) <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+- **Phone:** [805-929-0016](tel:+1-805-929-0016) <!-- Source: Desiree Miller reached out to Javi Perez of PRFRC 17–18 August 2026 -->
 - Notes:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Services include free developmental screening for children aged 0–5 (Help Me Grow), help applying for Head Start/Early Head Start, and child care payment assistance and navigation <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
@@ -2923,11 +2937,11 @@ If you see one listed here that is no longer in service, please use the feedback
 <!-- Source (location/phone): https://capslo.org/s-a-f-e-family-resource-centers/ -->
 | Location | Phone |
 | -------- | ----- |
-| <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">1425 19th St., Oceano</a> | [805-474-3690](tel:+1-805-474-3690) |
+| <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">1425 19th St., Oceano</a> | [805-474-3900](tel:+1-805-474-3900) |
 | <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">1086 Grand Ave., Arroyo Grande</a> | [805-474-2105](tel:+1-805-474-2105) |
 | <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">920 W. Tefft St., Nipomo</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) |
 
-<!-- Oceano address updated 1 Aug. 2026 from 1511 19th St. (Oceano Library building) to 1425 19th St. (Oceano Community Center building) per current capslo.org text; a human should confirm by phone, since this changed from the prior sourced value. -->
+<!-- Oceano address updated 1 Aug. 2026 from 1511 19th St. (Oceano Library building) to 1425 19th St. (Oceano Community Center building) per current capslo.org text; Desiree Miller verified that this new address is correct with Mary McCallister of CAPSLO, 20 August 2026. -->
 - **Email:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 - **How to access:** Walk-ins OK; appointments preferred. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 <!-- Hours not found on capslo.org or other reputable sources as of 1 Aug. 2026 -- call to confirm -->
@@ -3660,11 +3674,9 @@ If you see one listed here that is no longer in service, please use the feedback
 
 - **Location:** <a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a> <!-- Source: https://fpcslo.org/assistance -->
 - **Phone:** [805-544-7041](tel:+1-805-544-7041) <!-- Source: https://fpcslo.org/assistance -->
-- **Hours:**
-   - Tuesdays at Prado Day Center (<a href="#" class="map-link" data-lat="35.255032" data-lon="-120.672742" data-zoom="17" data-label="Society of Saint Vincent de Paul">40 Prado Rd., SLO</a>): 2–3:30pm <!-- Source: https://fpcslo.org/assistance -->
-   - Thursdays at Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a>): 1pm by appointment only <!-- Source: https://fpcslo.org/assistance -->
-- **How to access:** drop-in at Prado, or call to schedule an appointment at the Mission
-<!-- Note: No dedicated website found for local chapter (as of October 2025) -->
+- **Hours:** Thursdays at Mission San Luis Obispo (<a href="#" class="map-link" data-lat="35.280750" data-lon="-120.665042" data-zoom="17" data-label="Society of Saint Vincent de Paul">751 Palm St., SLO</a>): 1–3pm by appointment only <!-- Source: https://fpcslo.org/assistance -->
+- **How to access:** call to schedule an appointment
+<!-- Note: No dedicated website found for local chapter (as of October 2025); they no longer offer services at 40 Prado (some online sources claim they do) according to Rich Hendrickson, Director StVdP in email to Desiree Miller 24 Aug. 2026 -->
 
 ## <a id="South-Bay-Community-Center">South Bay Community Center</a>
 
