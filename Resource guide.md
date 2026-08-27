@@ -877,8 +877,8 @@ Some give you a pre-prepared box or bag of food, others allow you to select part
 <!-- Temporarily closing July 2026; not sure when it will return
 | Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.641194" data-lon="-120.693955" data-zoom="17" data-label="The Link">665 26th St.</a>, [805-503-9638](tel:+1-805-503-9638) | M–Th 9am–3pm; F 9am–1pm | -->
 
-[City Farm](https://www.cityfarmslo.org/) in SLO city has a [“Pay-What-You-Can” Farm Stand](https://www.cityfarmslo.org/farmstand) on Saturdays from 10am–1pm at <a href="#" class="map-link" data-lat="35.251980" data-lon="-120.679901" data-zoom="17" data-label="City Farm">1221 Calle Joaquin</a>.
-It gives you $30 off your purchase of fruits and vegetables (so your first $30 worth of fruits and vegetables are free).
+[City Farm](https://www.cityfarmslo.org/) in SLO city has a [“Pay-What-You-Can” Farm Stand](https://www.cityfarmslo.org/farmstand) on Wednesdays from 2:30–6:30pm and Saturdays from 10am–1pm at <a href="#" class="map-link" data-lat="35.251980" data-lon="-120.679901" data-zoom="17" data-label="City Farm">1221 Calle Joaquin</a>.
+It gives you a $30 discount on your purchase of fruits and vegetables (your first $30 worth of fruits and vegetables are free).
 To use this offer, just ask them.
 (This offer does not apply to their other products like meats, bread, and cut flowers.)
 

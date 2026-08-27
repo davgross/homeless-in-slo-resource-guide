@@ -714,7 +714,7 @@
 - **Sitio web:** [bikeslocounty.org/programs/kitchen](https://bikeslocounty.org/programs/kitchen/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.279103" data-lon="-120.660620" data-zoom="17" data-label="Bike Kitchen">860 Pacific St. #105, SLO</a> <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
 - **Teléfono:** [805-547-2055](tel:+1-805-547-2055) <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
-- **Horario:** J–D 12–5pm (reparación de bricolaje), Ma–Mi 12–5pm (solo compras), L cerrado <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
+- **Horario:** J–D 12–5pm (reparación de bricolaje), Ma–D 12–5pm (compras), L cerrado <!-- Source: https://bikeslocounty.org/programs/kitchen/ -->
 
 ## <a id="Blessed-to-Serve">Blessed to Serve</a>
 
@@ -957,7 +957,7 @@
 - **Teléfono:** [805-995-3821](tel:+1-805-995-3821) <!-- Source: https://cayucoschurch.com/ministries/ -->
 - **Correo electrónico:** [info@cayucoschurch.com](mailto:info@cayucoschurch.com) <!-- Source: https://cayucoschurch.com/ministries/ -->
 - **Horario:**
-   - Oficina: Ma–J 10am–2pm (cerrado los viernes y días festivos)
+   - Oficina: L–J 10am–2pm (cerrado los viernes y días festivos)
    - Despensa de alimentos (“Harvest Bag”): Primer, tercer, cuarto y quinto miércoles a las 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
    - Distribución de alimentos del USDA: segundo miércoles a las 10:30am <!-- Source: https://cayucoschurch.com/ministries/ -->
 
@@ -1968,11 +1968,10 @@
 - **Teléfono:** [805-423-6546](tel:+1-805-423-6546) <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
 - **Correo electrónico:** [hopeforashlynn@outlook.com](mailto:hopeforashlynn@outlook.com) <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
 - **Dirección postal:** 800 6th St. #93, Paso Robles, CA 93447
-- Notas:
-   - Salen a la calle para ayudar a personas con enfermedad mental grave, falta de vivienda o adicción. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
-   - Los servicios son gratuitos. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
-   - Trabajan principalmente en el norte del Condado de SLO. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
-   - No prometen ni garantizan ningún servicio en particular. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+- Nota: Salen a la calle para ayudar a personas con enfermedad mental grave, falta de vivienda o adicción. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+  Los servicios son gratuitos. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+  Trabajan principalmente en el norte del Condado de SLO. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
+  No prometen ni garantizan ningún servicio en particular. <!-- Source: Desiree Miller reached out to them 14 August 2026 -->
 <!-- To do: the description Hope for Ashlynn gave of their own services is too vague to summarize in the Resource Guide, and so is their stated service area ("North County"). -->
 <!-- Still needed before this can be cross-referenced from the Resource Guide: which towns in northern SLO County their outreach actually reaches; whether a person can call the number for themselves or whether it is meant for family members or others reporting someone; what happens after someone calls; hours; whether they have a website. -->
 

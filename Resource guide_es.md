@@ -877,8 +877,8 @@ Algunas le dan una caja o bolsa de alimentos preparada, otras le permiten selecc
 <!-- Cerrando temporalmente en julio de 2026; no se sabe cuándo regresará
 | Paso Robles    | The Link, <a href="#" class="map-link" data-lat="35.641194" data-lon="-120.693955" data-zoom="17" data-label="The Link">665 26th St.</a>, [805-503-9638](tel:+1-805-503-9638) | L–J 9am–3pm; V 9am–1pm | -->
 
-[City Farm](https://www.cityfarmslo.org/) en la ciudad de SLO tiene un [puesto agrícola de pago a voluntad](https://www.cityfarmslo.org/farmstand) los sábados 10am–1pm en <a href="#" class="map-link" data-lat="35.251980" data-lon="-120.679901" data-zoom="17" data-label="City Farm">1221 Calle Joaquín</a>.
-Te ofrece $30 de descuento en la compra de frutas y verduras (así que tus primeros $30 en frutas y verduras son gratis).
+[City Farm](https://www.cityfarmslo.org/) en la ciudad de SLO tiene un [puesto agrícola de pago a voluntad](https://www.cityfarmslo.org/farmstand) los miércoles 2:30–6:30pm y los sábados 10am–1pm en <a href="#" class="map-link" data-lat="35.251980" data-lon="-120.679901" data-zoom="17" data-label="City Farm">1221 Calle Joaquín</a>.
+Te ofrece $30 de descuento en la compra de frutas y verduras (tus primeros $30 en frutas y verduras son gratis).
 Para aprovechar esta oferta, solo pregúntales.
 (Esta oferta no aplica a otros productos como carnes, pan y flores cortadas).
 
