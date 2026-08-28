@@ -401,21 +401,23 @@
 
 ## <a id="Assistance-League-of-SLO-County">Assistance League of SLO County</a>
 
-- **Sitio web:** [assistanceleague.org/san-luis-obispo-county](https://www.assistanceleague.org/san-luis-obispo-county/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.277358" data-lon="-120.663899" data-zoom="17" data-label="Assistance League">667A Marsh St., SLO</a> <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/contact-us/ -->
-- **Teléfono:** [805-782-0824](tel:+1-805-782-0824) <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/contact-us/ -->
-- **Correo electrónico:** [info@alslocounty.org](mailto:info@alslocounty.org) <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/contact-us/ -->
+- **Sitio web:** [alchapters.org/san-luis-obispo-county/](https://alchapters.org/san-luis-obispo-county/)
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.277358" data-lon="-120.663899" data-zoom="17" data-label="Assistance League">667A Marsh St., SLO</a> <!-- Source: https://alchapters.org/san-luis-obispo-county/contact-us/ -->
+- **Teléfono:** [805-782-0824](tel:+1-805-782-0824) <!-- Source: https://alchapters.org/san-luis-obispo-county/contact-us/ -->
+- **Correo electrónico:**
+   - [info@alslocounty.org](mailto:info@alslocounty.org) <!-- Source: https://alchapters.org/san-luis-obispo-county/contact-us/ -->
+   - [osb@alslocounty.org](mailto:osb@alslocounty.org) (Operation School Bell) <!-- Source: https://alchapters.org/san-luis-obispo-county/contact-us/ -->
 - Notas:
-   - opera [**Assistance League Thrift Store**](#Assistance-League-Thrift-Store) <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/ -->
-   - opera “Operation School Bell” <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
-   - opera “Access to Career Education (ACE)” <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/wp-content/uploads/sites/102/2024/02/ACE-FULL-ANNOUNCEMENT-v2.pdf -->
+   - opera [**Assistance League Thrift Store**](#Assistance-League-Thrift-Store) <!-- Source: https://alchapters.org/san-luis-obispo-county/thrift-shop-v2/ -->
+   - opera “Operation School Bell” <!-- Source: https://alchapters.org/san-luis-obispo-county/operation-school-bell/ -->
+   - opera “Access to Career Education (ACE)” <!-- Source: https://alchapters.org/san-luis-obispo-county/access-to-career-education/ -->
 
 ## <a id="Assistance-League-Thrift-Store">Assistance League Thrift Store</a>
 
-- **Sitio web:** [assistanceleague.org/san-luis-obispo-county/thrift-shop](https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.277358" data-lon="-120.663899" data-zoom="17" data-label="Assistance League">667A Marsh St., SLO</a> <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/ -->
-- **Teléfono:** [805-782-0824](tel:+1-805-782-0824) <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/ -->
-- **Horario:** Ma–S 11am–4pm <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/ -->
+- **Sitio web:** [alchapters.org/san-luis-obispo-county/thrift-shop-v2/](https://alchapters.org/san-luis-obispo-county/thrift-shop-v2/)
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.277358" data-lon="-120.663899" data-zoom="17" data-label="Assistance League">667A Marsh St., SLO</a> <!-- Source: https://alchapters.org/san-luis-obispo-county/thrift-shop-v2/ -->
+- **Teléfono:** [805-782-0824](tel:+1-805-782-0824) <!-- Source: https://alchapters.org/san-luis-obispo-county/thrift-shop-v2/ -->
+- **Horario:** Ma–S 10am–4pm <!-- Source: https://alchapters.org/san-luis-obispo-county/thrift-shop-v2/ -->
 
 ## Assistive Technology Center
 
