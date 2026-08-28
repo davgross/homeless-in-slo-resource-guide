@@ -64,15 +64,6 @@
       "processor": "text_json_diff",
       "url": "https://5chc.org/sites/default/files/2024-02/New%20Warming%20Center%20Talking%20Points.pdf"
     },
-    "015c6b76-cd8a-45a8-af7c-2a4fb1d5d602": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://immigranthopeag.org/contact-us/"
-    },
     "01604da8-029a-4805-91a3-689914fa347e": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -188,6 +179,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "section:last-of-type"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -429,9 +423,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".wp-block-social-links",
+        "#footer-page"
+      ],
       "url": "https://postpartum.net/en-espanol/encuentros-de-apoyo-virtuales/"
     },
     "0758e792-79a3-44d2-9c77-53c9616b2c7d": {
@@ -924,22 +925,13 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://library.calpoly.edu/"
-    },
-    "0b82d332-3efd-453e-ab07-7cec624649f6": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
       "include_filters": [
-        "#content"
+        "#main-content"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/domestic-violence"
+      "url": "https://library.calpoly.edu/"
     },
     "0c643d0d-4e60-4d5b-9897-0011cc90d85a": {
       "filter_text_added": true,
@@ -1003,7 +995,19 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.dignityhealth.org/financial-assistance"
+      "subtractive_selectors": [
+        "#modal-root",
+        "#page-analytics-data",
+        "#skip-content-button",
+        "header",
+        ".alert",
+        ".modal",
+        ".csh-aem-breadcrumb",
+        ".jump-nav",
+        ".teaser",
+        ".footer"
+      ],
+      "url": "https://www.commonspirit.org/patient-resources/dignity-health-central-coast-financial-assistance"
     },
     "0d96ff4d-3dc4-43b1-85e2-5dbfdb15ef2c": {
       "filter_text_added": true,
@@ -1149,9 +1153,24 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#page-header",
+        ".main-menu",
+        "#block-views-block-homepage-slideshow-block-1",
+        "#block-basicservices",
+        "#block-crla-views-block-article-block-promoted",
+        "#block-newsletter",
+        "#block-theimpactofcovid19onhousing",
+        "#block-needtimeofforreplacementincomeduecovid19",
+        ".section-disclaimer",
+        "footer"
+      ],
       "url": "https://www.crla.org/"
     },
     "0fd199fb-8c73-4eb5-bd41-29ef14d178c5": {
@@ -1241,6 +1260,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main",
+        "footer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -1250,6 +1273,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".fr-view"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -1290,15 +1316,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://988lifeline.org/"
-    },
-    "11bba705-dc12-4a7f-a6d7-56bcccecac37": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://slolibrary.org/"
     },
     "11c50945-40b6-4e08-9703-72c2d3919962": {
       "filter_text_added": true,
@@ -1392,15 +1409,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php?option=com_cpx&task=search.query&code=TJ-4500"
-    },
-    "13b8df7c-3e73-4be9-9d1b-302e36c44401": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/center/jobandcareeraccelerator5/home?AuthToken=4DE278CD-C0CB-4ED5-84D4-2DFC47FF903D"
     },
     "13f0aafe-c6c2-46f4-8fe3-2e7ab10436ac": {
       "filter_text_added": true,
@@ -1583,6 +1591,13 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".page-module___8aEwW__treatmentSection",
+        ".page-module___8aEwW__resourcesSection",
+        ".page-module___8aEwW__anniversarySection",
+        ".insurance-panels-module__8wbznq__title insurance-panels-module__8wbznq__titleRight",
+        ".page-module___8aEwW__desktopVideoTestimonialsSection"
+      ],
       "url": "https://aspirecounselingservice.com/"
     },
     "175b3383-57b2-40b6-b041-694c1f797f5e": {
@@ -1844,9 +1859,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".lwp-breadcrumbs"
+      ],
       "url": "https://www.cencalhealth.org/members/community-supports/"
     },
     "1a981f61-f7c9-4335-b89b-0ec0d87c8a1f": {
@@ -1907,6 +1928,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -1944,9 +1968,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".locationhero",
+        ".layout"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".disclaimer"
+      ],
       "url": "https://locations.dignityhealth.org/dignity-health-french-hospital-medical-center"
     },
     "1cca614f-da9e-4b22-b40e-398e83228f53": {
@@ -2049,6 +2080,10 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        "footer"
+      ],
       "url": "https://benefits.calitp.org/"
     },
     "1f0a1fdd-0597-458a-880e-c69fcbfc3dab": {
@@ -2211,6 +2246,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -2229,9 +2267,18 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav",
+        "aside",
+        ".btn-pill",
+        ".search-hub"
+      ],
       "url": "https://cesanluisobispo.ucanr.edu/"
     },
     "21173c9e-2e3c-4141-8bb4-7051b0152c52": {
@@ -2252,6 +2299,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".fr-view"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -2478,6 +2528,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".oxy-rich-text"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -2536,6 +2589,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#div_block-153-2252"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -2589,15 +2645,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.renovateslo.com/"
-    },
-    "238db1de-a2e9-4be1-909d-7092127c74c4": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://humantraffickinghotline.org/es"
     },
     "23a5c880-8f12-40e8-a5b7-ad4317be45be": {
       "filter_text_added": true,
@@ -2760,6 +2807,10 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "button",
+        "header"
+      ],
       "url": "https://www.stpatsag.org/ministries/service-ministries"
     },
     "26b4807c-3cad-42a9-8698-7c777aabfe09": {
@@ -2896,6 +2947,18 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[href=\"#cfs-newsletter\"]",
+        ".et_pb_menu__menu",
+        ".et_pb_contact_form_container",
+        ".et_pb_social_media_follow",
+        ".et_pb_section_4",
+        ".et_pb_section_5",
+        ".et_pb_section_14",
+        ".et_pb_section_15",
+        ".et_pb_column_2_tb_footer",
+        "#glt-translate-trigger"
+      ],
       "url": "https://cfsslo.org/"
     },
     "287a8216-0286-42e6-b760-cd1797a86d2b": {
@@ -3133,6 +3196,14 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".csh-aem-location-hero__title",
+        ".csh-aem-location-hero__address-area",
+        ".csh-aem-show-more-content-block__content",
+        ".offerings-list",
+        ".department-list",
+        ".billingandinsurance"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3250,6 +3321,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "aside div div div:nth-child(4)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3336,23 +3410,24 @@
       "processor": "text_json_diff",
       "url": "https://sloparents.org/"
     },
-    "2d9790f1-57ff-4d15-a3bf-017c62085067": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.vetride.va.gov/"
-    },
     "2dcab954-fcfe-4906-9ff6-8d88a8e88784": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "section"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://crestonchurch.com/"
+      "subtractive_selectors": [
+        "#nav-1085",
+        "#n-1080",
+        "[data-ux=\"List\"]",
+        "[data-aid=\"HEADER_SECTION\"]",
+        ".widget-social"
+      ],
+      "url": "https://crestonchurch.com/contact-us"
     },
     "2de10715-1c0f-41b8-bee6-ff2f9781a82a": {
       "filter_text_added": true,
@@ -3458,15 +3533,6 @@
       "processor": "text_json_diff",
       "url": "https://www.slocounty.ca.gov/departments/district-attorney/adult-prosecutions/veterans-treatment-court"
     },
-    "2f5f6d1a-5657-487a-8061-68ca1f83641b": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.ssa.gov/prepare/check-eligibility-for-benefits"
-    },
     "2fdd3986-cedb-4c19-b054-13ee814db0bb": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -3496,15 +3562,25 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#ColumnUserControl3"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        ".int_collage"
+      ],
       "url": "https://www.slocity.org/government/department-directory/parks-and-recreation/slo-swim-center/swim-classes-events"
     },
     "30b11265-6808-4cfc-a07a-b31cf3283df5": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "div.row:nth-child(3)"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3517,7 +3593,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services"
+      "url": "https://5chc.org/programs"
     },
     "30bca1a6-313e-4812-be03-f1b180d8bad1": {
       "filter_text_added": true,
@@ -3697,6 +3773,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".location",
+        ".phone"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3760,6 +3840,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4117,9 +4200,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".breadcrumb-container-landing",
+        ".side-nav"
+      ],
       "url": "https://www.cuesta.edu/student-support/student-health-services/"
     },
     "3af927e2-039c-4e16-8a06-894a20e905d3": {
@@ -4237,6 +4327,12 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".opacity-overlay",
+        "nav",
+        ".main-image-wrapper",
+        "footer"
+      ],
       "url": "https://www.haslo.org/"
     },
     "3d5f1652-372c-4904-beba-66d2c14b1728": {
@@ -4249,19 +4345,18 @@
         "Open now",
         "Closed now"
       ],
-      "include_filters": [
-        ".program-details-page__header",
-        "#program-content"
-      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.findhelp.org/paso-cares%2D%2Dpaso-robles-ca%2D%2Dfeeding-the-homeless/5153804446597120"
+      "url": "https://www.pasocares.org/services"
     },
     "3d71288f-880a-4a34-ab32-108c8e554880": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "article"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4287,18 +4382,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.slohealthaccess.org/dental.html"
-    },
-    "3e33eb9b-b7a0-4f0f-aa27-f292cea9fd89": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/legal-services"
     },
     "3e75bebe-c5bc-4ffe-8533-926662dc819c": {
       "filter_text_added": true,
@@ -4475,9 +4558,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".va-sidebar-page__sidebar"
+      ],
       "url": "https://www.va.gov/homeless/ssvf/ssvf-overview/"
     },
     "41d4d06e-4fda-40f2-8f14-54241698f359": {
@@ -4687,6 +4776,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".oxy-rich-text"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4980,6 +5072,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".usa-card-group",
+        ".featured-section"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -5046,10 +5142,13 @@
         "Incident ID:",
         "You reached this page when trying to access"
       ],
+      "include_filters": [
+        "#content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.cde.ca.gov/ds/sh/sn/summersites.ashttps://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2026&countyname=San_Luis_Obispop"
+      "url": "https://www.cde.ca.gov/ds/sh/sn/ap/summersites.asp?year=2026&countyname=San_Luis_Obispo"
     },
     "47c37ec5-9f42-47b9-b9cd-93f1b8e29445": {
       "filter_text_added": true,
@@ -5062,27 +5161,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.stbenslososos.org/abundance-shop/"
-    },
-    "48365285-5d3c-425c-9eb3-ebc87ccfe8d8": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/mental-health,-drug-and-alcohol"
-    },
-    "483b1ae6-292c-4033-9d0c-fff584528068": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.ssa.gov/es/apply"
     },
     "48abe1a1-0206-4259-a37f-ce27c453b49d": {
       "filter_text_added": true,
@@ -5121,7 +5199,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.ssa.gov/number-card/replace-card/get-started/apply-online"
+      "url": "https://secure.ssa.gov/ossnap/public/landingOSsnap"
     },
     "499c1f99-72ad-47af-a629-7bde79ac590b": {
       "filter_text_added": true,
@@ -5286,9 +5364,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "div.uk-section-default:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
-        "div.uk-section-default:nth-child(8) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
-        "div.uk-text-primary:nth-child(2)"
+        ".uk-width-1-1\\@s"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -5326,9 +5402,22 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".accordion",
+        ".component-cross-promo",
+        "#page-breadcrumb",
+        ".page-siblings",
+        ".component-resources-band",
+        ".location-info-ctas",
+        "form",
+        ".results-map"
+      ],
       "url": "https://coasthills.coop/resources/about/locations"
     },
     "4cfd1fc5-1641-426b-975b-e13c8b09d969": {
@@ -5357,9 +5446,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "[data-container=\"booking-container\"]"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "button"
+      ],
       "url": "https://calendly.com/self-help-center/"
     },
     "4d6a74ba-0c0f-45ab-b30e-e357bdda0d89": {
@@ -5553,6 +5648,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".csh-aem-maincontent + div"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -5622,18 +5720,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.slocounty.ca.gov/departments/district-attorney/special-prosecutions/consumer-protection"
-    },
-    "4f373a0f-5322-47cc-86fd-f30d7b6ed993": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/transportation"
     },
     "4f82657a-5989-4575-bc1d-f974249dae60": {
       "filter_text_added": true,
@@ -5767,18 +5853,6 @@
       ],
       "url": "https://www.caljobs.ca.gov/"
     },
-    "50815880-e806-44db-87e0-5f074d257efe": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/medical-and-dental"
-    },
     "50f41c1f-34ff-4ceb-8a49-7c3a31a26871": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -5891,6 +5965,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#page"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -5973,10 +6050,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#tribe-events-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://alsnetwork.org/event/san-luis-obispo-connect-support-chat-2025-12-13/"
+      "subtractive_selectors": [
+        ".fl-module-fl-the-events-calendar-export-links",
+        ".fl-module-pp-social-share"
+      ],
+      "url": "https://alsnetwork.org/event/san-luis-obispo-connect-support-chat2026-08-15/"
     },
     "53a33f3f-1d04-4a35-961e-4bcecd82bf91": {
       "filter_text_added": true,
@@ -5991,6 +6075,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -6100,6 +6187,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".LeftDivider"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -6130,12 +6220,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main",
+        "footer > div > div > div > div > div:first-child > p"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
       "subtractive_selectors": [
         ".wp-block-social-links",
-        "p.has-text-align-center"
+        "p.has-text-align-center",
+        "details"
       ],
       "url": "https://fcni.org/how-we-help/ensuring-stability/"
     },
@@ -6187,15 +6282,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.yelp.com/biz/north-county-care-minor-emergency-services-paso-robles"
-    },
-    "55cc7c67-80fa-400c-920d-28cd8343195a": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.dignityhealth.org/"
     },
     "55f8b920-49f1-42cb-bd98-5498190bd81e": {
       "filter_text_added": true,
@@ -6291,6 +6377,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -6496,18 +6585,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://sloiwma.recyclist.co/guide/soda-cans/?embeddedguide=true"
-    },
-    "5b0270d3-de85-400e-8a4d-33ac8ec00bea": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/financial-assistance"
     },
     "5b11abbf-6ffb-4132-9593-6f071fa671c0": {
       "filter_text_added": true,
@@ -6972,7 +7049,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "main"
+        "shreddit-post-text-body"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -6993,7 +7070,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "main"
+        ".footer-main"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -7043,15 +7120,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://removery.com/tattoo-removal/aftercare/"
-    },
-    "6232d7f5-ea26-4163-9eb9-4623305e3015": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.dmv.ca.gov/"
     },
     "626782dc-155b-42f6-b028-fadef268b1b0": {
       "filter_text_added": true,
@@ -7242,9 +7310,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#featured"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav",
+        ".view-footer"
+      ],
       "url": "https://5chc.org/"
     },
     "653c27ae-c151-4946-969a-1bfb9509eda3": {
@@ -7260,6 +7335,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "article"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -7431,15 +7509,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://arisevineyard.com/"
-    },
-    "681b0a20-1b89-45f1-8b5a-f460df9d4c60": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.childplus.net/apply/es/4C3A30704DEAD016C09968C44ACD9A8B/CE180CB5372A691D8A0368833B588572"
     },
     "6822e360-0203-4e30-afd6-2d0a8a339f13": {
       "filter_text_added": true,
@@ -7812,6 +7881,18 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#modal-root",
+        "#page-analytics-data",
+        "#skip-content-button",
+        "header",
+        ".alert",
+        ".modal",
+        ".csh-aem-breadcrumb",
+        ".jump-nav",
+        ".teaser",
+        ".footer"
+      ],
       "url": "https://www.commonspirit.org/services-specialties/home-based-care"
     },
     "6c604047-92fb-4650-a066-4c477025cc2c": {
@@ -7897,6 +7978,14 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".csh-aem-location-hero__title",
+        ".csh-aem-location-hero__address-area",
+        ".csh-aem-show-more-content-block__content",
+        ".offerings-list",
+        ".department-list",
+        ".billingandinsurance"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -8094,6 +8183,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#fsPageBody"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -8357,15 +8449,6 @@
       "processor": "text_json_diff",
       "url": "https://www.atascadero.org/public-safety-reporting"
     },
-    "73173e6f-7fde-40f1-b1d7-aa607295143d": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.dignityhealth.org/central-coast/services/home-health-hospice-and-infusion-services"
-    },
     "73622716-3322-4c80-a0fb-c44efe503ea2": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -8519,15 +8602,6 @@
       ],
       "url": "https://jailstojobs.org/resources/tattoo-removal-programs/"
     },
-    "75c60057-89af-4b8a-8874-9a9837b2f39e": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.golden1.com"
-    },
     "75f5dc94-277d-48b1-a536-df7ea51fcabb": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -8569,18 +8643,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.mentalhealthsf.org/warm-line"
-    },
-    "760c7b62-4e38-4ad8-9566-8a6b288c19e3": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/sober-living"
     },
     "76218aa0-a377-4c31-8204-cc8c27560203": {
       "filter_text_added": true,
@@ -8725,6 +8787,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#service-53343"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -8771,9 +8836,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".breadcrumb-container-landing",
+        ".side-nav-title",
+        "#sideNavContent"
+      ],
       "url": "https://www.cuesta.edu/community/index.html"
     },
     "7843ccde-4d06-4ad2-b22c-48ab611ca568": {
@@ -8877,6 +8950,15 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav",
+        ".et_pb_button",
+        ".et_pb_section_8",
+        ".et_pb_section_9",
+        ".et_pb_contact_form_container",
+        ".et_pb_social_media_follow",
+        "#glt-translate-trigger"
+      ],
       "url": "https://cfsslo.org/north-county-neighboraid/"
     },
     "79248a14-b1e3-49cb-a388-5285891dca24": {
@@ -8900,23 +8982,20 @@
       "processor": "text_json_diff",
       "url": "https://www.cuesta.edu/student-support/eops/"
     },
-    "7969d244-5c18-4d6d-8d02-c86ab59c5e5d": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://embassy.goabroad.com/"
-    },
     "79745e20-db78-4246-b683-e58f420bf314": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "footer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://gracecentralcoast.org/"
+      "subtractive_selectors": [
+        ".newsletter-block"
+      ],
+      "url": "https://gracecentralcoast.org/home"
     },
     "79944609-db0f-4d2b-bb54-1b373ba3a473": {
       "filter_text_added": true,
@@ -8970,15 +9049,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.ciymca.org/childwatch-schedule#/results?locations=932&start_date=2025-12-10&page=1&sort=start_datetime:asc"
-    },
-    "7a8a3bc4-6890-49fc-ac7f-945f966bc8f7": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://slofoodbank.org/es/localizador-de-comida/"
     },
     "7a976ca9-8f05-458b-82bf-71e0f1ab812f": {
       "filter_text_added": true,
@@ -9200,15 +9270,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://adulted.luciamarschools.org/diploma"
-    },
-    "7c93c3fb-c432-4889-bb9e-81ff7de8dd3a": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://secure.ssa.gov/ICON/ic001.action"
     },
     "7d1292e6-be6e-4451-bad0-78ada820d9e1": {
       "filter_text_added": true,
@@ -9501,15 +9562,6 @@
       "processor": "text_json_diff",
       "url": "https://www.slorta.org/schedules-fares/avila-trolley/"
     },
-    "7f247c54-5138-40f4-8487-e7e0593ebddf": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://SLOCalCareers.org"
-    },
     "7f616e4d-22ba-4771-9963-c436bee908b1": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -9588,15 +9640,6 @@
       "processor": "text_json_diff",
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php?option=com_cpx&task=search.query&code=TJ-3000"
     },
-    "80f82f54-1b4b-4428-bae4-5cf70c1f3f9c": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.templetonusd.org/schools/tae/tas"
-    },
     "81011e7f-5360-400f-9a2e-3cfd96880b3d": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -9622,6 +9665,13 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#modal-root",
+        "#page-analytics-data",
+        ".experiencefragment",
+        ".csh-aem-breadcrumb",
+        ".disclaimer"
+      ],
       "url": "https://www.dignityhealth.org/central-coast/locations/arroyo-grande/patients-and-visitors/for-patients/billing-information/financial-assistance"
     },
     "8119c9d4-9a8a-41ca-9ae9-ce210f69d351": {
@@ -9736,6 +9786,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "[iphorm id=\u201d3\u2033 name=\u201dMedicare Part D Drug Plan Finder Tool\u201d]"
+      ],
       "include_filters": [
         "article"
       ],
@@ -9809,15 +9862,6 @@
       "processor": "text_json_diff",
       "url": "https://www.ssa.gov/myaccount"
     },
-    "844d64a5-2188-4abc-9b54-904cdf29890a": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.golden1.com/atm-branch-finder"
-    },
     "84a9258a-ab45-44bb-a528-264e26f48daa": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -9848,9 +9892,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".pad-top-5"
+      ],
       "url": "https://blog.ssa.gov/social-security-to-fully-transition-to-electronic-payments/"
     },
     "84f1aaa9-bb61-4d55-b127-f136ed93f36c": {
@@ -9930,9 +9980,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".row-number-5"
+      ],
       "url": "https://griefshare.org/"
     },
     "8692eebd-ea5a-409f-840a-3fbda61180c1": {
@@ -9948,6 +10004,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".oxy-rich-text"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10097,7 +10156,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.assistanceleague.org/san-luis-obispo-county/thrift-shop/"
+      "url": "https://alchapters.org/san-luis-obispo-county/thrift-shop-v2/"
     },
     "8937c956-4c36-4a26-991c-a0d8c685c337": {
       "filter_text_added": true,
@@ -10185,15 +10244,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.cuesta.edu/academics/continuinged/Contact-Continuing-Education2.html"
-    },
-    "8a370f74-c9bd-40d6-aafc-4505b5f4c3c9": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.cdc.gov/niosh/docs/2010-118/default.html"
     },
     "8a5a1670-fed3-4d0d-9a4a-0083841d5e0e": {
       "filter_text_added": true,
@@ -10348,6 +10398,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".et_pb_section_9"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10366,22 +10419,14 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care"
-    },
-    "8cdffd41-d425-4912-a919-f251e32c5ce0": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
       "include_filters": [
-        "#content"
+        ".campaign",
+        "#care-options"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/social-services"
+      "url": "https://www.dignityhealth.org/central-coast/medical-group/phc/services/med-plus-urgent-care"
     },
     "8cf9fe19-f63b-47cf-a3ba-5cef15fe4e49": {
       "filter_text_added": true,
@@ -10443,15 +10488,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://tolosachildrensdental.org/about-us/"
-    },
-    "8dee72a4-0136-48fb-a593-7f42434ae4c4": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.hardshiptools.org/MyApp/Apply.aspx"
     },
     "8df7a612-1ec8-43a6-808d-ca558b0d7937": {
       "filter_text_added": true,
@@ -10596,6 +10632,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".alert-banner",
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10635,6 +10675,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".x-main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10729,9 +10772,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#fl-main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".fl-module-pp-advanced-accordion"
+      ],
       "url": "https://mixteco.org/"
     },
     "92b06a40-90f4-45ec-9644-a3937490ce32": {
@@ -10830,9 +10879,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".testimonial-slider"
+      ],
       "url": "https://www.moneymanagement.org/"
     },
     "9314e03a-364f-4d57-aa7d-5b32b2b6ff69": {
@@ -10897,6 +10952,11 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".contact-wrapper",
+        "#contactInfo",
+        ".span-4"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10931,15 +10991,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://accesssupportnetwork.org/programs/hep-c/"
-    },
-    "94a86bc5-e945-4083-b471-f653f9c5477a": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.greyhound.com/"
     },
     "94c0e158-c241-4a61-bdee-c4043565201a": {
       "filter_text_added": true,
@@ -11005,6 +11056,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".usa-alert__wrapper",
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -11045,6 +11100,11 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main",
+        ".email-info",
+        ".address-item"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -11123,6 +11183,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -11211,18 +11274,6 @@
       "processor": "text_json_diff",
       "url": "https://www.cancer.org/about-us/online-help/contact-us.html"
     },
-    "99b7baf9-4250-4c45-9ab8-6b8cc40577af": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/clothing"
-    },
     "99d22837-2a47-459d-ad65-b6b705c0e419": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -11295,15 +11346,6 @@
       "processor": "text_json_diff",
       "url": "https://www.northcounty-pawscause.org/"
     },
-    "9aa89970-eda0-40b9-aa2e-cb3f6dc337a4": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.ksby.com/morro-bay/805-street-outreach-expands-services-to-include-free-laundry"
-    },
     "9b4a2c00-ae81-41e2-8d61-8e58e90e1470": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -11343,15 +11385,6 @@
       "processor": "text_json_diff",
       "url": "https://www.dioceseofmonterey.org/parishfinder"
     },
-    "9b88c6d5-821b-4da3-9b89-6f50bf5ff5da": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://debtorsanonymous.org/"
-    },
     "9ba0727e-4fc7-4d9f-958d-b85182aa7a26": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -11373,15 +11406,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://calcivilrights.ca.gov/"
-    },
-    "9c0a543c-b05f-4722-82d5-6fed90c4091d": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.sslocw.org/"
     },
     "9c3d2fd2-ae20-4928-8fe2-d24bb540f808": {
       "filter_text_added": true,
@@ -11478,18 +11502,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://tokentransit.com/riders/download"
-    },
-    "9d7b4a5d-3112-4ea4-bb76-4ebd85305cb2": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "div.content-body"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://ipm.ucanr.edu/home-and-landscape/poison-oak/#gsc.tab=0"
     },
     "9d81b25e-276d-49e9-8030-f5c491d0a762": {
       "filter_text_added": true,
@@ -11617,6 +11629,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".contact-us"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -11726,9 +11741,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#page"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header"
+      ],
       "url": "https://centerforautism.com/contact/"
     },
     "a0d7ab91-79f7-4a13-a6f1-6f877ff95494": {
@@ -11873,15 +11894,24 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#mainContentContainer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".onboarding-banner-wrapper"
+      ],
       "url": "https://www.learningexpresshub.com/ProductEngine/LELIndex.html#/learningexpresslibrary/libraryhome"
     },
     "a365881c-b80e-4d8b-8948-cd31b7c53315": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".location__info"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -12055,9 +12085,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".wizard",
+        ".trip-planner",
+        ".programs"
+      ],
       "url": "https://rideshare.org/program/guaranteed-ride-home/"
     },
     "a64f5f13-7673-449b-a9c7-1237d18ad636": {
@@ -12165,7 +12203,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "main"
+        "#main"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -12201,19 +12239,29 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".fusion-blog-shortcode"
+      ],
       "url": "https://al-anon.org/newcomers/teen-corner-alateen/"
     },
     "a8486042-377b-4706-9f3e-b64b5e161a23": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
       "subtractive_selectors": [
+        "form",
         ".gfield--type-honeypot"
       ],
       "url": "https://www.myfreetaxes.org/es/file-with-virtual-help/"
@@ -12249,7 +12297,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.childrensresourcenetwork.org"
+      "url": "https://clothingcloset.org/"
     },
     "a89ffab1-9850-47bf-9c12-6dc5338d2fe0": {
       "filter_text_added": true,
@@ -12262,15 +12310,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.cccslo.org/what-we-do.php"
-    },
-    "a8cc0f2f-a7c1-4c0f-a078-11d50983a0bc": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://anc.apm.activecommunities.com/prcityrecreation/activity/search?onlineSiteId=0&locale=es-US&activity_select_param=2&activity_category_ids=8&activity_category_ids=13&viewMode=list"
     },
     "a8daeefc-e9ef-4a7d-a136-eae292b7afc0": {
       "filter_text_added": true,
@@ -12378,6 +12417,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#rightside-column"
+      ],
       "url": "https://www.cde.ca.gov/ls/nu/sf/index.asp"
     },
     "aafa56d3-af2c-4839-ae71-e25d42c92f04": {
@@ -12441,9 +12483,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".wp-block-dhcs-hero-basic"
+      ],
       "url": "https://dhcs.ca.gov/services/ccs"
     },
     "ac2cfa97-5b94-4adf-93a2-012214e88b94": {
@@ -12468,9 +12516,20 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".et_pb_row_3",
+        ".et_pb_row_4",
+        ".et_pb_row_5",
+        ".et_pb_row_6",
+        ".et_pb_section--with-menu",
+        ".et_pb_with_background"
+      ],
       "url": "https://capslo.org/teen-programs-2/"
     },
     "ac9020a5-9702-473e-a652-6e4ea29fe812": {
@@ -12486,6 +12545,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "article"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -12514,15 +12576,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://pasoroblesha.org/affordable-housing/oak-park-1-2/"
-    },
-    "acb398b6-30f4-41da-939c-ec9b960b4867": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.atsu.edu/"
     },
     "accb7538-5186-4627-9c73-e5b5b6db447d": {
       "filter_text_added": true,
@@ -12761,9 +12814,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#homepage"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".intro",
+        ".course-amount"
+      ],
       "url": "https://alison.com/es"
     },
     "ae30331c-dbd2-4597-beee-5b1b6ec12e05": {
@@ -13001,6 +13061,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -13179,9 +13242,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".main-primary"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav"
+      ],
       "url": "https://www.dental.dhcs.ca.gov/Members/Medi_Cal_Dental/Find_A_Dentist/FindADentist"
     },
     "b53648ae-9d93-4591-953a-2b2b2531f438": {
@@ -13382,9 +13451,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".yoast-breadcrumbs"
+      ],
       "url": "https://www.dhcs.ca.gov/es/services/ccs"
     },
     "b73a7c56-d8fa-4c47-b5c9-381af98f6cc6": {
@@ -13467,11 +13542,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
       "subtractive_selectors": [
-        ".gfield--type-honeypot"
+        ".gfield--type-honeypot",
+        ".testimonials-2025"
       ],
       "url": "https://www.nfcc.org/"
     },
@@ -13527,12 +13606,12 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "#content"
+        "#main"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/housing"
+      "url": "https://5chc.org/programs/housing-assistance"
     },
     "b8a6b4dd-42d7-423b-90e7-105698ee057b": {
       "filter_text_added": true,
@@ -13644,28 +13723,49 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".site-notice",
+        ".header",
+        ".footer-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".footer-language-menu"
+      ],
       "url": "https://sonriecalifornia.org/encuentra-un-dentista/"
     },
     "baa39c3f-c9f2-42fc-a354-eff858b9e5f9": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".breadcrumb-container-landing",
+        ".side-nav"
+      ],
       "url": "https://www.cuesta.edu/student-support/basic-needs-center/index.html"
     },
     "bae57090-e36c-49cd-85d6-215dfbb0f5a2": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".footer-box"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.assistanceleague.org/san-luis-obispo-county/"
+      "subtractive_selectors": [
+        "rs-slides"
+      ],
+      "url": "https://alchapters.org/san-luis-obispo-county/"
     },
     "baf11af0-93e5-4c6d-9732-c175d1c7314f": {
       "filter_text_added": true,
@@ -13699,15 +13799,6 @@
       "processor": "text_json_diff",
       "url": "https://assets.glasscow.tech/pasohouse/wp-content/uploads/2025/05/OP1-OP2-APP-INSTRUCTION-SHT.pdf"
     },
-    "bbd2037f-2371-4616-bfa6-42c05ac0d31d": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.ksby.com/san-luis-obispo/atascadero-homeless-organization-celebrates-new-construction-project-for-families"
-    },
     "bbd9b267-47a4-4cca-8bfb-7c846a55460d": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -13724,9 +13815,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".home-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".more-info__column--social",
+        ".more-info__column--contact",
+        ".featureblock"
+      ],
       "url": "https://theconversationproject.org/"
     },
     "bc30a450-b3f7-4a16-a22b-7bb4af6a6f1b": {
@@ -13763,18 +13862,6 @@
       "processor": "text_json_diff",
       "url": "https://agapeslo.church/"
     },
-    "bce9c711-f5ab-4f98-85ae-743c6620086a": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/food-distribution"
-    },
     "bd60af2a-5376-4c85-98a8-a4dc2858bee3": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -13807,15 +13894,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php?option=com_cpx&task=search.query&code=BH-3900"
-    },
-    "bea21977-1a8e-4f71-9a66-fa081969fe3b": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://iframe.publicstuff.com/#?client_id=1428"
     },
     "bf032d3a-4689-4080-b395-d5f4dd7ceb84": {
       "filter_text_added": true,
@@ -13874,15 +13952,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/prevention-and-outreach-services/opioid-safety-coalition-(1)/naloxbox-slo-county"
-    },
-    "bfd433c3-696d-41be-bd24-d259362d299c": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://al-anon.org/al-anon-meetings/find-an-alateen-meeting/"
     },
     "c06cbfdf-2e77-43a9-9bfb-b7fce56f02c8": {
       "filter_text_added": true,
@@ -14068,6 +14137,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".Main_hours__yJe_1"
+      ],
       "url": "https://carbonhealth.com/en/locations/paso-robles-ca"
     },
     "c2fa7d3e-13d7-47d4-be51-e0bb7141ecae": {
@@ -14086,9 +14158,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#site-root"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header"
+      ],
       "url": "https://www.echoshelter.org/"
     },
     "c3e11dac-ead9-49e4-a2fb-0c82cacee241": {
@@ -14186,18 +14264,28 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "article"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/"
+      "url": "https://alchapters.org/san-luis-obispo-county/operation-school-bell/"
     },
     "c5d585b8-b55e-415a-8f51-5431b58058ea": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#MainContent"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".divNewsFeed",
+        "#divPageLastUpdated"
+      ],
       "url": "https://www.cdph.ca.gov/Pages/Documentos.aspx"
     },
     "c5fb706c-0ff2-47e3-96d9-25652d34d6f6": {
@@ -14280,6 +14368,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".oxy-rich-text"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -14289,9 +14380,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#container-81c1147417"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "ul"
+      ],
       "url": "https://www.dignityhealth.org/central-coast/locations/frenchhospital/patients-and-visitors/for-patients/billing-information/financial-assistance"
     },
     "c78cb7f1-bbb8-45f8-967a-b1c42a1c0fe1": {
@@ -14312,9 +14409,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".site-notice",
+        ".header",
+        ".footer-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".footer-language-menu"
+      ],
       "url": "https://smilecalifornia.org/find-a-dentist/"
     },
     "c8202087-baed-426f-9612-da32d5be487b": {
@@ -14467,6 +14572,11 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".rental-housing-section",
+        ".email-info",
+        ".office-address-info div"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -14548,15 +14658,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://805streetoutreach.org/about-us"
-    },
-    "cc330cfe-140f-4770-a27b-9e594e8d2101": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.aclusocal.org/"
     },
     "cc363c87-6b93-4d2d-a7b9-9fc43b7d40a3": {
       "filter_text_added": true,
@@ -14921,6 +15022,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".et_pb_code_1_tb_header"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -15160,25 +15264,20 @@
       "processor": "text_json_diff",
       "url": "https://www.cencalhealth.org/members/provider-directory-for-members/"
     },
-    "d301e360-c220-4f7f-a263-8b7a056a4ed1": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/veterans"
-    },
     "d39926d0-f1b4-40e2-8042-3bc2acdc7645": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".entry-content",
+        "footer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".n2-section-smartslider"
+      ],
       "url": "https://marijuana-anonymous.org/"
     },
     "d3a0a121-d665-42f0-a7eb-fd0ee5da0800": {
@@ -15486,15 +15585,6 @@
       "processor": "text_json_diff",
       "url": "https://hospiceslo.org/support-groups/general-grief-support-and-education-group"
     },
-    "d5985e58-c5a8-4458-8fdc-581de1192a63": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://galacc.org/events/#calendar"
-    },
     "d5c9dcf9-55c1-4760-8304-3cfd04f827d8": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -15623,9 +15713,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".main-inner"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".cs-owl-carousel",
+        ".col-md-6"
+      ],
       "url": "https://www.templetonusd.org/schools/tae/tas/index"
     },
     "d706a29a-37ef-473b-a8a5-067d8faca69d": {
@@ -16005,6 +16102,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".mabel-bhi-businesshours"
+      ],
       "url": "https://www.sesloc.org/member-services/locations/"
     },
     "da5d022a-7f2b-48d4-bba5-34f4ca851b3a": {
@@ -16046,6 +16146,11 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#cm",
+        "#c-s-in",
+        "._footerContent_61nos_15"
+      ],
       "url": "https://www.slomakerspace.com/"
     },
     "daf77d9d-9d5e-435c-8516-48c061a2cf94": {
@@ -16158,22 +16263,13 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.toastmasters.org/"
-    },
-    "dd3bc4c3-ae53-474d-ba00-baf87c71ba02": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
       "include_filters": [
-        "#main-content"
+        "#mainContent"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.mayoclinic.org/diseases-conditions/poison-ivy/diagnosis-treatment/drc-20376490"
+      "url": "https://www.toastmasters.org/"
     },
     "dd63c507-5b69-4e0a-bc0b-c86ff43505e1": {
       "filter_text_added": true,
@@ -16331,15 +16427,6 @@
       ],
       "url": "https://www.communityhealthcenters.org/health-services/optometry/"
     },
-    "dea8ad75-1ad1-438c-b3ea-64fcc60000b7": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://edd.ca.gov/"
-    },
     "decf48b1-18a9-4bed-9307-dc7bf85a7fa2": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -16404,15 +16491,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.slocounty.ca.gov/departments/child-support/contact-us"
-    },
-    "df926a93-b752-4f92-abd8-11b4ea162bf9": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.infantsee.org/"
     },
     "df954824-4dbe-4136-873c-8ed04ee7592d": {
       "filter_text_added": true,
@@ -16557,9 +16635,18 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content-body"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".page-header",
+        ".activity-search__global-search",
+        ".activity-search__search-filters",
+        ".activity-results-header"
+      ],
       "url": "https://anc.apm.activecommunities.com/prcityrecreation/activity/search?onlineSiteId=0&locale=en-US&activity_select_param=2&activity_category_ids=8&activity_category_ids=13&viewMode=list"
     },
     "e1f635de-14fb-4a38-9578-a4619beb6f5e": {
@@ -16589,9 +16676,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#homepage"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".intro",
+        ".course-amount"
+      ],
       "url": "https://alison.com"
     },
     "e28bbf99-e2ee-4617-8929-2896de7ffa3f": {
@@ -16807,21 +16901,10 @@
         "#flags",
         "#glt-translate-trigger",
         "#cmplz-manage-consent",
-        "div.btGoogleMapsWrapper"
+        "div.btGoogleMapsWrapper",
+        ".masonry"
       ],
       "url": "https://www.communityhealthcenters.org/locations/nipomo/"
-    },
-    "e4ed14ab-1d43-44ed-bfee-b7b9f9afc4b8": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://5chc.org/community-services/jobs-and-employment"
     },
     "e4f0b7a2-a44a-4c7c-a8f7-cedb44a8e150": {
       "filter_text_added": true,
@@ -16920,6 +17003,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".elementor-hidden-phone",
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -17073,9 +17160,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".locationhero",
+        ".layout"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".disclaimer"
+      ],
       "url": "https://locations.dignityhealth.org/dignity-health-arroyo-grande-community-hospital"
     },
     "e8c715c4-e538-49d2-bea1-f6dad80730aa": {
@@ -17204,6 +17298,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#fsPageBodyWrapper"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -17333,6 +17430,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "[iphorm id=\u201d26\u2033 name=\u201dAsk a question\u201d]"
+      ],
       "include_filters": [
         ".entry-content"
       ],
@@ -17345,9 +17445,18 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".root"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".experiencefragment",
+        ".csh-aem-maincontent",
+        ".jump-nav",
+        ".disclaimer"
+      ],
       "url": "https://www.dignityhealth.org/central-coast/locations/frenchhospital/services/hearst-cancer-resource-center"
     },
     "ee6bb820-3231-41d8-991d-e847e21f79d2": {
@@ -17579,6 +17688,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -17663,6 +17775,10 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".et_pb_row_4",
+        ".et_pb_row_5"
+      ],
       "url": "https://capslo.org/eecc/"
     },
     "f32ebf0a-6736-46a8-aafa-c4669cb3f478": {
@@ -17783,18 +17899,6 @@
       ],
       "url": "https://www.scpk.org/"
     },
-    "f3caf908-3389-4bec-b141-c64c953144cd": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "article"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922"
-    },
     "f3d99de6-80e2-4002-8a1d-fcf5ce5c2816": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -17838,15 +17942,24 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#content-wrap"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.assistanceleague.org/san-luis-obispo-county/contact-us/"
+      "subtractive_selectors": [
+        "#gform_wrapper_1"
+      ],
+      "url": "https://alchapters.org/san-luis-obispo-county/contact-us/"
     },
     "f42a6f07-0199-484c-887d-78efc3350e72": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".all-content-wrapper"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -18068,6 +18181,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#ColumnUserControl3"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -18255,6 +18371,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main",
+        ".contact-numbers"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -18334,6 +18454,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main section.default-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -18426,9 +18549,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#MainContent"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#divPageLastUpdated"
+      ],
       "url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Vital-Records.aspx"
     },
     "fe3cb1ac-02e3-468e-add4-07fa8049745b": {
@@ -18471,9 +18600,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".yoast-breadcrumbs"
+      ],
       "url": "https://www.dhcs.ca.gov/services/every-woman-counts/"
     },
     "fef2f6c5-9d88-4e04-843c-eb8e372f538f": {
