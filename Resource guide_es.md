@@ -528,6 +528,8 @@ Si su solicitud es aceptada, será colocado en la lista de espera. <!-- Source e
 Debe incluir copias de los talones de cheque de pago de los últimos tres meses, prueba de otras fuentes de ingresos y una copia de sus declaraciones de impuestos federales de los últimos dos años. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2025/05/OP1-OP2-APP-INSTRUCTION-SHT.pdf -->
 Puede ser rechazado si recientemente fue desalojado, incumplió con deudas o tiene ciertas condenas penales. <!-- Source e.g. https://assets.glasscow.tech/pasohouse/wp-content/uploads/2020/09/Tenant-Selection-Plan-for-OP1.pdf -->
 
+Puede encontrar una lista de complejos de apartamentos de alquiler asequible en Paso Robles, con información sobre cómo comunicarse con ellos, [en el Directorio de Recursos del sitio web de la ciudad](https://www.prcity.com/BusinessDirectoryii.aspx?ysnShowAll=1&lngBusinessCategoryID=28).
+
 [**Lumina Alliance**](Directory.md#Lumina-Alliance) opera un [programa de viviendas de transición](https://luminaalliance.org/transitional-housing/) de seis a 24 meses para individuos y familias que están huyendo de violencia doméstica, violencia en relaciones de pareja, agresión sexual y/o acoso. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
 Las personas alojadas a través de este programa también obtienen acceso a servicios de defensa, asistencia de empleo, consejería, ayuda legal, servicios para niños, desarrollo de habilidades para la vida y ayuda para obtener vivienda permanente. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
 Si está sin hogar o necesita vivienda debido a huir de una situación abusiva, tiene ingresos bajos o muy bajos, y está dispuesto a participar en el programa de Lumina y cooperar con ellos en seguir un plan de seguridad, puede calificar para vivienda de transición a través de este programa. <!-- Source: https://luminaalliance.org/housing#transitional-housing -->
@@ -797,6 +799,7 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
  Front Porch: https://www.frontporchslo.org/events
  Los Osos Cares: https://www.losososcares.com/programs
  Morro Bay Lions: https://morrobaylions.org/2025/07/24/community-dinners-at-vets-hall/
+ Paso Cares: https://www.pasocares.org/services
  Blessed to Serve: SOURCE NEEDED
  Food Not Bombs: https://www.instagram.com/foodnotbombs_slo/
 -->
@@ -809,6 +812,9 @@ Note: Investigated “Westside Neighborhood Center” (805-897-2560) (October 20
 | Los Osos     | [**Los Osos Cares**](Directory.md#Los-Osos-Cares)                         | 5pm miércoles                 |
 | Morro Bay    | [**Morro Bay Lions Foundation**](Directory.md#Morro-Bay-Lions-Foundation) | 3:45pm lunes                  |
 | Paso Robles  | [**El Camino Homeless Organization (ECHO)**](Directory.md#ECHO)           | 5pm diario                    |
+| Paso Robles  | [**Paso Cares**](Directory.md#Paso-Cares)                                 | 5pm lunes–viernes             |
+| Paso Robles  | Salón parroquial de St. James Episcopal Church (<a href="#" class="map-link" data-lat="35.628286" data-lon="-120.693358" data-zoom="17" data-label="Parish Hall">Mapa</a>) | mediodía sábado |
+| Paso Robles  | First Methodist Church (<a href="#" class="map-link" data-lat="35.636651" data-lon="-120.688752" data-zoom="16" data-label="Paso Cares">estacionamiento de Riverside & 24th St.</a>) | 4pm domingo |
 | SLO          | Hombres de [**Agape Church**](Directory.md#Agape-Church)                  | 11am la mayoría de los jueves |
 | SLO          | [**Blessed to Serve**](Directory.md#Blessed-to-Serve)                     | 5pm lunes y jueves            |
 | SLO          | [**Food Not Bombs**](Directory.md#Food-Not-Bombs)                         | 1pm domingos                  |

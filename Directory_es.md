@@ -2606,14 +2606,10 @@
 
 ## <a id="Paso-Cares">Paso Cares</a>
 
-<!-- Source: https://www.findhelp.org/paso-cares%2D%2Dpaso-robles-ca%2D%2Dfeeding-the-homeless/5153804446597120 -->
+<!-- Source: https://www.pasocares.org/services -->
 - **Sitio web:** [pasocares.org](https://www.pasocares.org/)
-
-| Ubicación | Horario |
-| -------- | ----- |
-| <a href="#" class="map-link" data-lat="35.637837" data-lon="-120.688419" data-zoom="16" data-label="Paso Cares">Riverside & 24th St. estacionamiento, Paso Robles</a> | L–V 5–6pm, D 4–5pm |
-| <a href="#" class="map-link" data-lat="35.628242" data-lon="-120.693108" data-zoom="17" data-label="Paso Cares">1335 Oak St., Paso Robles</a> | S.mediodía–1pm |
-
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.636651" data-lon="-120.688752" data-zoom="16" data-label="Paso Cares">Riverside & 24th St. estacionamiento, Paso Robles</a> <!-- Source: https://www.pasocares.org/services -->
+- **Horario:** L–V 5–6pm <!-- Source: https://www.pasocares.org/services -->
 - **Teléfono:** [805-591-0078](tel:+1-805-591-0078) <!-- Source: https://www.pasocares.org/ and other pages on that site --> <!-- [805-571-0078](tel:+1-805-571-0078) Source: https://www.pasocares.org/contact only (typo?) -->
 - **Correo electrónico:** [pasocares@gmail.com](mailto:pasocares@gmail.com) <!-- Source: https://www.pasocares.org/ -->
 
