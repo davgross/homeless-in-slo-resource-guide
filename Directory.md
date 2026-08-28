@@ -4065,22 +4065,22 @@ There are several urgent care options, including:
 - **Website:** [Slocountygov/wic](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29)
 
 <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-| Location | Phone |
-| -------- | ----- |
-| Atascadero: <a href="#" class="map-link" data-lat="35.492648" data-lon="-120.662938" data-zoom="17" data-label="Women, Infants, and Children (WIC)">5575 Hospital Dr.</a> | [805-237-3065](tel:+1-805-237-3065) or [805-781-5570](tel:+1-805-781-5570) |
-| Grover Beach: <a href="#" class="map-link" data-lat="35.119277" data-lon="-120.611998" data-zoom="17" data-label="Women, Infants, and Children (WIC)">286 S. 16th St. #B</a> | [805-473-7130](tel:+1-805-473-7130) |
-| Paso Robles: <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="Women, Infants, and Children (WIC)">805 4th St. #235</a> | [805-237-3065](tel:+1-805-237-3065) |
-| SLO: <a href="#" class="map-link" data-lat="35.274391" data-lon="-120.646730" data-zoom="17" data-label="Women, Infants, and Children (WIC)">2191 Johnson Ave.</a> | [805-781-5570](tel:+1-805-781-5570) |
+| Location | Phone | Hours |
+| -------- | ----- | ----- |
+| Atascadero: <a href="#" class="map-link" data-lat="35.492648" data-lon="-120.662938" data-zoom="17" data-label="Women, Infants, and Children (WIC)">5575 Hospital Dr.</a> | [805-237-3065](tel:+1-805-237-3065) or [805-781-5570](tel:+1-805-781-5570) | M–Th 8am–5:30pm; F 8am–4:30pm |
+| Grover Beach: <a href="#" class="map-link" data-lat="35.119277" data-lon="-120.611998" data-zoom="17" data-label="Women, Infants, and Children (WIC)">286 S. 16th St. #B</a> | [805-473-7130](tel:+1-805-473-7130) | M–Th 8am–5:30pm; F 8am–4:30pm |
+| Paso Robles: <a href="#" class="map-link" data-lat="35.618660" data-lon="-120.689219" data-zoom="17" data-label="Women, Infants, and Children (WIC)">805 4th St. #235</a> | [805-237-3065](tel:+1-805-237-3065) | M–Th 8am–5:30pm; F 8am–4:30pm |
+| SLO: <a href="#" class="map-link" data-lat="35.274391" data-lon="-120.646730" data-zoom="17" data-label="Women, Infants, and Children (WIC)">2191 Johnson Ave.</a> | [805-781-5570](tel:+1-805-781-5570) | M/Tu/Th 8am–5:30pm; W 8am–5pm; F 8am–4:30pm |
 
 - **Phone:**
    - [805-781-5570](tel:+1-805-781-5570) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
    - Text: [888-417-6180](sms:+1-888-417-6180) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
-- **Hours:** M/Tu/Th 8am–5:30pm; Wed. 8am–5pm; Fri. 8am–4:30pm <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
 - **How to access:** by appointment only (call or text to make an appointment) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/women,-infants-and-children-%28wic%29 -->
    - Or visit the [**SLO Food Bank**](#SLO-Food-Bank) main office on the third Friday of the month from 1–4pm
 - Eligibility: This program is restricted to people for whom both of the following requirements are true:
    - You are pregnant, breastfeeding, gave birth or had a pregnancy loss in the past six months, or you care for a child under the age of five
    - And you live in California and have income below a certain threshold, or receive Medi-Cal, [CalWORKs](#CalWORKs), or CalFresh benefits.
+- Note: limited hours on the last Wednesday of the month
 
 <a id="Womenade"><!-- TBD: Womenade groups are distinct organizations, not branches of the same organization --></a>
 

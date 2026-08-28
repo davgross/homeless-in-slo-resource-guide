@@ -3190,11 +3190,8 @@ There is a financial assistance program to help you pay for tuition. <!-- SOURCE
 You can get a certificate and/or diploma after completing a course of study, but this sometimes costs money (the course itself is free).
 Note that Alison.com is accredited in the United Kingdom, not the United States, which may affect how much these certificates and diplomas are respected by employers or colleges here. <!-- Source: https://alison.com/about/accreditation -->
 
-[Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/) offers low-cost classes and seminars on a variety of topics.
-You can also become an annual member for a $25 fee, and this gives you substantial discounts on all classes throughout the year. <!-- Source: https://www.lifelearnerscc.org/courses -->
-Contact them at [lifelearnerscentralcoast@gmail.com](mailto:lifelearnerscentralcoast@gmail.com) for details. <!-- Source: https://www.lifelearnerscc.org/courses -->
-
-<!-- doesn’t look like a low-cost option
+<!-- [Lifelong Learners of the Central Coast](https://www.lifelearnerscc.org/) is closing at the end of 2026 -->
+<!-- doesn’t look like a low-cost option:
 1. [A.T. Still University of Health Sciences](https://www.atsu.edu/)
    - Status: Moving Central Coast Physician Assistant program from Santa Maria to San Luis Obispo in Summer 2026
    - New campus: 65,000-square-foot building (formerly Mindbody headquarters)
