@@ -1276,7 +1276,7 @@ La [**Children’s Resource Network of the Central Coast**](Directory.md#Childre
 Llame a su línea directa, use el formulario “Place a Request” en su sitio web, o visite durante las horas sin cita. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 También operan el “Traveling Children’s Closet,” “The Teen’s Closet” y “Outreach Apparel” donde los niños de edad escolar pueden obtener ropa y otros útiles que necesitan. <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 
-La [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) opera el programa “Operation School Bell”, que da créditos a estudiantes necesitados con los cuales pueden comprar ropa escolar nueva en tiendas. <!-- Source: https://www.assistanceleague.org/san-luis-obispo-county/operation-school-bell/ -->
+La [**Assistance League of SLO County**](Directory.md#Assistance-League-of-SLO-County) opera el programa “Operation School Bell”, que da créditos a estudiantes necesitados con los cuales pueden comprar ropa escolar nueva en tiendas. <!-- Source: https://alchapters.org/san-luis-obispo-county/operation-school-bell/ -->
 Pida a las autoridades de la escuela del niño que lo refieran al programa. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/forms-documents/maternal-child-health/2025-resource-guide/navslo-english/seasonal-resources, https://pasoroblespress.com/news/nonprofit/operation-school-bell/ -->
 
 [Coats for Kids of SLO County](https://www.coatsforkidsslocounty.org/) realiza una distribución una vez al año (en diciembre) en Paso Robles de ropa para clima frío como abrigos, chaquetas, suéteres y sudaderas. <!-- Source: https://www.coatsforkidsslocounty.org/ -->
