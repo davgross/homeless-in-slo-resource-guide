@@ -703,7 +703,7 @@
    - [Tattoo Removal Program](https://catholiccharitiesdom.org/tattoo-removal-program)
 - **Locations:**
    - Main office: <a href="#" class="map-link" data-lat="35.255397" data-lon="-120.669515" data-zoom="17" data-label="Catholic Charities">3250 S. Higuera St. #D, SLO</a> <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
-   - Financial assistance: <a href="#" class="map-link" data-lat="35.254868" data-lon="-120.645111" data-zoom="17" data-label="Catholic Charities">3592 Broad Street #104, SLO</a> <!-- Source: https://5chc.org/community-services/financial-assistance -->
+   - Financial assistance: <a href="#" class="map-link" data-lat="35.254868" data-lon="-120.645111" data-zoom="17" data-label="Catholic Charities">3592 Broad Street #104, SLO</a> <!-- SOURCE NEEDED (issue #24): the former source https://5chc.org/community-services/financial-assistance was removed in a 5chc.org site restructure (checked 28 Aug. 2026); this address is not listed on https://catholiccharitiesdom.org/contact-us/ -->
    - Behind the Mission: <a href="#" class="map-link" data-lat="35.280845" data-lon="-120.665176" data-zoom="17" data-label="Catholic Charities">715 Palm St., SLO</a>
    - Paso Robles satellite: St. Rose of Lima Church, <a href="#" class="map-link" data-lat="35.622914" data-lon="-120.690742" data-zoom="17" data-label="Catholic Charities">642 Trigo Ln., Paso Robles</a> <!-- Source: https://catholiccharitiesdom.org/contact-us/ -->
 - **Phone:**
@@ -940,12 +940,15 @@
 ## <a id="Childrens-Resource-Network-of-the-Central-Coast">Children’s Resource Network of the Central Coast</a>
 
 - **Website:** [clothingcloset.org](https://clothingcloset.org/) <!-- Formerly childrensresourcenetwork.org but that site stopped responding -->
-- **Location:** <a href="#" class="map-link" data-lat="35.111293" data-lon="-120.602116" data-zoom="17" data-label="Children’s Resource Network of the Central Coast">1212 Farroll Ave., Arroyo Grande</a> <!-- Location found at https://5chc.org/community-services/clothing -->
+- **Location:** <a href="#" class="map-link" data-lat="35.111293" data-lon="-120.602116" data-zoom="17" data-label="Children’s Resource Network of the Central Coast">1212 Farroll Ave., Arroyo Grande</a> <!-- Source: https://www.newtimesslo.com/back-to-school-essentials-5904608/ (16 Aug. 2018); replaces https://5chc.org/community-services/clothing, removed in a 5chc.org site restructure -->
+   - The Children’s Closet is a blue and green bungalow behind the Arroyo Grande Care Center. <!-- Source: https://www.newtimesslo.com/back-to-school-essentials-5904608/ -->
 - **Mailing address:** P.O. Box 454, Pismo Beach, CA 93448-0454
 - **Phone:** [805-709-8673](tel:+1-805-709-8673) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
 - **Email:**
    - [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
    - [info@childrensresourcenetwork.org](mailto:info@childrensresourcenetwork.org) <!-- Source: https://clothingcloset.org/contact/ -->
+- **Hours** (Children’s Closet): Tu 2–4pm <!-- Source: https://www.findhelp.org/provider/children's-resource-network-of-the-central-coast--arroyo-grande-ca/5071021801996288 — third-party listing, not yet confirmed with the agency; hours are not listed on clothingcloset.org -->
+- Note: You do not need an appointment or a referral. You can walk in. <!-- Source: https://www.findhelp.org/provider/children's-resource-network-of-the-central-coast--arroyo-grande-ca/5071021801996288 -->
 - Note: Operates “Outreach Apparel” and “The Teen’s Closet”
 
 ## Children’s Services
@@ -2976,9 +2979,9 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="St-Patricks-Shamrock-Thrift">St. Patrick’s Shamrock Thrift</a>
 
-- **Location:** <a href="#" class="map-link" data-lat="35.121190" data-lon="-120.619932" data-zoom="17" data-label="St. Patrick’s Shamrock Thrift">924 W. Grand Ave., Grover Beach</a> <!-- Source: https://5chc.org/community-services/clothing -->
-- **Phone:** [805-481-0612](tel:+1-805-481-0612) <!-- Source: https://5chc.org/community-services/clothing -->
-- **Hours:** Tu–Sa 10am–4pm <!-- Source: https://5chc.org/community-services/clothing -->
+- **Location:** <a href="#" class="map-link" data-lat="35.121190" data-lon="-120.619932" data-zoom="17" data-label="St. Patrick’s Shamrock Thrift">924 W. Grand Ave., Grover Beach</a> <!-- SOURCE NEEDED (issue #28): the former source https://5chc.org/community-services/clothing was removed in a 5chc.org site restructure (checked 28 Aug. 2026). Address appears only in third-party listings, e.g. https://www.yelp.com/biz/st-patricks-school-shamrock-thrift-shop-grover-beach -->
+- **Phone:** [805-481-0612](tel:+1-805-481-0612) <!-- Source: verified by phone on 12 Jan. 2026 -->
+- **Hours:** Tu–Sa 10am–4pm <!-- Source: verified by recorded message on 12 Jan. 2026 -->
 
 ## <a id="Salvation-Army">Salvation Army</a>
 
