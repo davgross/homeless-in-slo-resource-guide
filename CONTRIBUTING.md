@@ -37,7 +37,7 @@ Here are some guidelines to help you craft your content for VivaSLO:
    Don’t add resources that are expensive to access; indicate the cost whenever you can and whether there are subsidies or sliding-scale payment options.
 1. **Direct access is better.**
    Prioritize resources that can be accessed by people directly.
-   If you write about a resource that people cannot access directly (i.e. you must be referred to the resoruce by another agency, a case manager, or something like that), be sure to mention that fact somewhere and to describe how an individual can facilitate this indirect access (e.g. “ask your case manager to refer you…”).
+   If you write about a resource that people cannot access directly (i.e. you must be referred to the resource by another agency, a case manager, or something like that), be sure to mention that fact somewhere and to describe how an individual can facilitate this indirect access (e.g. “ask your case manager to refer you…”).
 1. **The Directory page is the single source of truth for basic facts** like phone numbers, email addresses, website URLs, hours of operation, and locations.
    If that information exists in the Directory for an agency or program, do not duplicate that information in the Resources page, but instead link from there to the Directory page.
    This helps us keep the information up-to-date by ensuring we only have to update it in one place rather than in scattered mentions here and there.

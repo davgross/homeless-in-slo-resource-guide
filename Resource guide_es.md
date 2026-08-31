@@ -2587,7 +2587,7 @@ Llámelos para hacer una cita:
 Si está solicitando un pasaporte nuevo, si su pasaporte expiró hace más de cinco años y necesita uno nuevo o si su pasaporte se perdió o dañó y necesita uno nuevo, también puede solicitar un pasaporte en ciertas sucursales de [**SLO County Public Libraries**](Directory.md#SLO-County-Public-Libraries).
 Llámelos para hacer una cita:
 
-<!-- Source: https://catalog.slolibrary.org/passport-services and https://iafdb.travel.state.gov/ -->
+<!-- Source: https://catalog.slolibrary.org/servicios-pasaporte and https://iafdb.travel.state.gov/ -->
 - [**Biblioteca de Atascadero**](Directory.md#SLO-County-Public-Libraries)
 - [**Biblioteca de Cambria**](Directory.md#SLO-County-Public-Libraries)
 - [**Biblioteca de Nipomo**](Directory.md#SLO-County-Public-Libraries)
