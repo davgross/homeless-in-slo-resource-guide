@@ -2114,6 +2114,7 @@
       - <a href="#" class="map-link" data-lat="35.122113" data-lon="-120.634064" data-zoom="17" data-label="Little Free Library">1 Grand Ave.</a>
       - <a href="#" class="map-link" data-lat="35.264324" data-lon="-120.635237" data-zoom="17" data-label="Little Free Library">3440 Gregory Ct.</a>
       - <a href="#" class="map-link" data-lat="35.284846" data-lon="-120.654559" data-zoom="17" data-label="Little Free Library">1415 Higuera St.</a>
+      - <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.668914" data-zoom="17" data-label="Little Free Library">620 Hill St.</a>
       - On a utility pole at <a href="#" class="map-link" data-lat="35.276876" data-lon="-120.658486" data-zoom="17" data-label="Little Free Library">Morro St. and Islay St.</a>
       - <a href="#" class="map-link" data-lat="35.278313" data-lon="-120.655482" data-zoom="17" data-label="Little Free Library">1121 Islay St.</a>
       - <a href="#" class="map-link" data-lat="35.269615" data-lon="-120.647253" data-zoom="17" data-label="Little Free Library">1215 Joyce Ct.</a>

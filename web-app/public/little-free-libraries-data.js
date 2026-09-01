@@ -801,6 +801,12 @@ export const locations = [
     "label": "1415 Higuera St."
   },
   {
+    "lat": 35.282806,
+    "lon": -120.668914,
+    "zoom": 17,
+    "label": "620 Hill St."
+  },
+  {
     "lat": 35.276876,
     "lon": -120.658486,
     "zoom": 17,
