@@ -318,15 +318,6 @@
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
-## <a id="Arise-Central-Coast">Arise Central Coast</a>
-
-- **Website:** [arisevineyard.com](https://arisevineyard.com/)
-- **Location:** <a href="#" class="map-link" data-lat="35.241754" data-lon="-120.688113" data-zoom="15" data-label="Arise Central Coast">1775 Calle Joaquin, SLO</a> <!-- Source: https://arisevineyard.com/ -->
-- **Phone:** [805-543-3162](tel:+1-805-543-3162) <!-- Source: https://arisevineyard.com/ -->
-- **Hours:**
-   - Office: M–Th 9am–4pm <!-- Source: https://arisevineyard.com/ -->
-   - Food pantry: M 2:30–4:30pm
-
 ## <a id="Arroyo-Grande-Community-Hospital">Arroyo Grande Community Hospital</a>
 
 > *See also [**Dignity Health**](#Dignity-Health)*
