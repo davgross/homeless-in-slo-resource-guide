@@ -3354,7 +3354,6 @@ You apply for this program through a commercial phone service provider that supp
 Some providers also give you a free phone when you register for California LifeLine through their service, for example [AirTalk Wireless](https://airtalkwireless.com/lifeline-application), [enTouch Wireless](https://entouchwireless.com/states/california-lifeline-free-phone-service/), or [Gen Mobile](https://www.genmobile.com/pages/lifeline-program).
 
 The [**California Connect**](Directory.md#California-Connect) program can loan you, for free, assistive telecommunications equipment that helps if you have medically-documented functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
-The [Deaf and Disabled Telecommunications Program (DDTP)](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp), also known as California Connect (CAC), can give you specialized telephone equipment, accessories, and services such as amplified phones for the hard-of-hearing, big-button phones for those with low-vision, and cordless phones for people with mobility disabilities. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
 This program is for California residents with medically-certified limitations of hearing, vision, mobility, speech, learning, or memory.
 
 -----
