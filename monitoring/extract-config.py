@@ -3,17 +3,21 @@
 Extract configuration-only data from changedetection.io.
 
 Preferred: reads live state from the running container via the API.
-Fallback:  reads from changedetection-data/url-watches.json when the
-           container is not running.
+Fallback:  reads each <uuid>/watch.json straight from the datastore (via a
+           root helper container) when the API is not reachable.
+
+Both paths see the same watches, so an export taken with the stack stopped
+matches one taken with it running.
 """
 import json
 import os
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import cd_datastore
+
 API_BASE = 'http://localhost:5000/api/v1'
-WATCHES_FILE = os.path.join(os.path.dirname(__file__), 'changedetection-data', 'url-watches.json')
-OUTPUT_FILE = os.path.join(os.path.dirname(__file__), 'changedetection-config.json')
+OUTPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'changedetection-config.json')
 MAX_WORKERS = 20
 
 # Fields that are configuration (version controlled)
@@ -90,33 +94,36 @@ def fetch_from_api():
         print(f"Warning: {len(failed)} watches could not be fetched:", file=sys.stderr)
         for uuid, err in failed:
             print(f"  {uuid}: {err}", file=sys.stderr)
+        # A partial export would quietly drop watches from version control.
+        raise RuntimeError(f"{len(failed)} of {len(uuids)} watches failed to fetch; refusing to write a partial export")
 
     return watches, 'live API'
 
 
-def fetch_from_file():
-    """Read watch configs from the on-disk url-watches.json."""
-    print(f"Reading from {WATCHES_FILE}...")
-    with open(WATCHES_FILE, 'r') as f:
-        data = json.load(f)
-
+def fetch_from_datastore():
+    """Read watch configs from each <uuid>/watch.json on disk."""
+    print(f"Reading watch.json files from {cd_datastore.DATASTORE}...")
     watches = {}
-    for uuid, watch in data['watching'].items():
+    for uuid, watch in cd_datastore.read_all_watches().items():
         cfg = extract_config(watch)
         if cfg:
             watches[uuid] = cfg
+    return watches, 'datastore watch.json files'
 
-    return watches, 'url-watches.json'
 
-
-# Try live API first, fall back to file
+# Try live API first, fall back to reading the datastore directly
 try:
     import requests
     requests.get(f'{API_BASE}/watch', timeout=5).raise_for_status()
     config_watches, source = fetch_from_api()
+except RuntimeError:
+    raise
 except Exception as e:
-    print(f"API unavailable ({e}), falling back to file.")
-    config_watches, source = fetch_from_file()
+    print(f"API unavailable ({e}), reading the datastore directly.")
+    config_watches, source = fetch_from_datastore()
+
+if not config_watches:
+    sys.exit("Error: no watches found; refusing to overwrite the config file with an empty export.")
 
 config_data = {
     'note': 'Configuration-only export for version control',

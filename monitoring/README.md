@@ -243,23 +243,32 @@ docker compose up -d
 ### Backup Your Configuration
 
 ```bash
-# Backup all watches and settings
-tar -czf changedetection-backup-$(date +%Y%m%d).tar.gz changedetection-data/
+./backup-monitoring.sh
 ```
+
+Writes a verified archive to `~/changedetection-backups/` and keeps the newest 5.
+
+Do *not* back up with a plain `tar -czf ... changedetection-data/`.
+The container writes each `<uuid>/watch.json` as root with mode 0600, so a tar
+run as your own user silently skips every watch configuration and still exits 0.
+`backup-monitoring.sh` archives from inside a root container and then counts the
+`watch.json` members to prove the backup is complete.
 
 ### Restore from Backup
 
 ```bash
-# Stop containers
-docker compose down
+# Stop containers (flushes in-memory state to disk)
+docker compose stop
 
-# Remove old data
-rm -rf changedetection-data
+# Move the old data aside rather than deleting it outright
+mv changedetection-data changedetection-data.old
 
-# Extract backup
-tar -xzf changedetection-backup-YYYYMMDD.tar.gz
+# Extract as root, so the 0600 root-owned watch.json files come back intact
+docker run --rm -v "$PWD":/restore -v ~/changedetection-backups:/backup:ro \
+    --entrypoint tar ghcr.io/dgtlmoon/changedetection.io:latest \
+    -xzf /backup/changedetection-backup-YYYY-MM-DD-HHMM.tar.gz -C /restore
 
-# Restart
+# Restart, then confirm the expected watch count in the UI
 docker compose up -d
 ```
 
