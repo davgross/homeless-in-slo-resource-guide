@@ -413,7 +413,8 @@
     },
     {
       "name": "SLO Tribune",
-      "url": "https://feeds.mcclatchy.com/sanluisobispo/stories"
+      "url": "https://feeds.mcclatchy.com/sanluisobispo/stories",
+      "browserUserAgent": true
     },
     {
       "name": "Smart Share Housing Solutions",
