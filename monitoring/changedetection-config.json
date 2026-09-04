@@ -286,6 +286,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -712,7 +715,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "div.col-sm-12:nth-child(2)"
+        "#content"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -766,9 +769,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#sb_instagram"
+      ],
       "url": "https://tenantstogether.org/"
     },
     "0a15cef8-e773-4c4f-938e-f2b50c1377d8": {
@@ -1634,6 +1643,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".post-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -2311,6 +2323,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#mainContentContainer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -2557,12 +2572,22 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".c1-6l",
-        ".c1-b5"
+        "section"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[data-aid=\"BANNER_RENDERED\"]",
+        "[data-stickynav-wrapper=\"true\"]",
+        "[role=\"navigation\"]",
+        "ul",
+        ".widget-download",
+        ".widget-calendar",
+        ".widget-gallery",
+        ".widget-introduction-introduction-2",
+        ".widget-footer"
+      ],
       "url": "https://atascaderoseniorcenter.org/"
     },
     "22a5eb65-6b74-4978-931d-2069ec919f57": {
@@ -2757,9 +2782,18 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "[role=\"main\"]"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".font_size",
+        "#share",
+        ".feedback_link",
+        ".printer_friendly"
+      ],
       "url": "https://www.slocity.org/government/department-directory/police-department/citizen-complaints-commendations"
     },
     "25a7ad52-494b-43f8-a3d4-8f4399d68db0": {
@@ -3234,6 +3268,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3599,6 +3636,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3735,11 +3775,18 @@
         "Screenshot",
         "**********************************************************************************",
         "************************************************************************************************",
-        "&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&"
+        "&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&",
+        "* * * * * * * *"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav",
+        "mark",
+        "figure",
+        "figcaption"
+      ],
       "url": "https://nipomoseniorcenter.org/"
     },
     "3290522e-0e31-4932-b242-d1c1ccd11925": {
@@ -4196,22 +4243,6 @@
       "processor": "text_json_diff",
       "url": "https://loavesandfishespaso.org/contact/"
     },
-    "3ab3dca5-85c8-4f7a-9a86-244d11c2cb80": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "main"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "subtractive_selectors": [
-        ".breadcrumb-container-landing",
-        ".side-nav"
-      ],
-      "url": "https://www.cuesta.edu/student-support/student-health-services/"
-    },
     "3af927e2-039c-4e16-8a06-894a20e905d3": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -4249,6 +4280,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".dept-main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4413,6 +4447,12 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#secondary-navigation",
+        "header",
+        "nav",
+        ".site-footer"
+      ],
       "url": "https://www.immigrantdefenseproject.org/"
     },
     "3eb75486-c631-4555-949c-f732024e0ad5": {
@@ -7259,6 +7299,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -7391,15 +7434,6 @@
       "processor": "text_json_diff",
       "url": "https://coasthills.coop/"
     },
-    "65f0925e-bf50-48ba-b72d-4bc66af33039": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://oceanoelks2504.org/"
-    },
     "66023f8e-8768-43c2-85f4-b2d53630bf00": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -7497,18 +7531,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://centralcoasthomehealth.com/index.php/about-us/"
-    },
-    "6812f651-890e-41d7-bb55-9af8451c6ad9": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        ".fe-block-99e2ad1d3aaf039df659"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://arisevineyard.com/"
     },
     "6822e360-0203-4e30-afd6-2d0a8a339f13": {
       "filter_text_added": true,
@@ -7965,15 +7987,6 @@
       "processor": "text_json_diff",
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php?option=com_cpx&task=search.query&code=PH-3300.3000"
     },
-    "6d64e212-c157-433b-9901-aeb7fdd5989d": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.nar-anon.org/find-a-narateen-meeting"
-    },
     "6d69277b-e807-430f-8730-e60fc963f925": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -8204,9 +8217,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "footer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "wix-iframe",
+        "section"
+      ],
       "url": "https://www.womenadeslo.org/"
     },
     "6fc2ff73-4642-4222-8224-25a87524fce7": {
@@ -8371,9 +8391,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#content-container"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".quotes-box"
+      ],
       "url": "https://www.cancer.org/support-programs-and-services/patient-lodging.html"
     },
     "71f38a90-98b4-4ed6-bc01-58709f8f9a2b": {
@@ -10153,6 +10179,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10405,15 +10434,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://cfsslo.org/#mfh"
-    },
-    "8c9e958e-9244-4d84-841b-e08f8fb5f153": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://vituitycares.org/"
     },
     "8cc42efc-d249-4bdc-99e0-bc09b15fde16": {
       "filter_text_added": true,
@@ -10715,6 +10735,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#wpb-content-root"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10742,6 +10765,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10966,9 +10992,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".header",
+        ".sidebar",
+        ".cards"
+      ],
       "url": "https://www.adventisthealth.org/about-us/community-benefit/"
     },
     "947f18ab-4efa-42c5-b78d-456d486139ad": {
@@ -11450,18 +11484,33 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav"
+      ],
       "url": "https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp"
     },
     "9d2f0efe-a07b-49b7-98db-8331d7a67381": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "footer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#other-languages-expand",
+        ".col-6",
+        ".py-4",
+        ".gtm-footer-get-a-call-back"
+      ],
       "url": "https://www.coveredca.com/"
     },
     "9d362ea0-f844-4534-ab0e-3467169a923e": {
@@ -12288,6 +12337,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".gs_logo_area"
+      ],
       "url": "https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx"
     },
     "a884cfa2-dee1-4bfe-8cce-2a98ac741c27": {
@@ -13326,6 +13378,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".detail-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -14359,6 +14414,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "footer .elementor-widget-text-editor"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -14444,6 +14502,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "article"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -14693,6 +14754,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -16056,9 +16120,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "form"
+      ],
       "url": "https://www.prtoybank.org/"
     },
     "d9b7be8e-ce35-40ce-9a8b-fb401aa77c95": {
@@ -16517,18 +16587,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://woodshumanesociety.org/pet-pantry/"
-    },
-    "dfc78983-96b9-458e-85e1-7a2ef5676cc5": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "div.col-sm-12:nth-child(2)"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.irs.gov/newsroom/irs-to-phase-out-paper-tax-refund-checks-starting-with-individual-taxpayers"
     },
     "dfd01302-e984-49d9-a112-df895425be8d": {
       "filter_text_added": true,
@@ -17233,9 +17291,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#page"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "figcaption"
+      ],
       "url": "https://careforsenioranddisabledanimals.org/"
     },
     "ea4f0093-97f5-4e34-94a3-d610e22ce360": {
@@ -17280,9 +17344,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".usa-layout-docs__main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".additional_body_info"
+      ],
       "url": "https://www.usa.gov/identity-theft"
     },
     "ebb441b0-54f1-495b-8c58-c708b97be8f5": {
@@ -17479,12 +17549,16 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".wp-elements-f9bbc8f3fa0027c12ac862ba364400e6",
-        ".wp-container-core-group-is-layout-cb46ffcb"
+        "main h3",
+        "footer"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav",
+        ".wp-block-social-links"
+      ],
       "url": "https://pbac.com/"
     },
     "ee979757-b3d6-47b0-8a80-c3d4a095ce1f": {
@@ -18221,6 +18295,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -18615,9 +18692,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".sqs-html-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "footer"
+      ],
       "url": "https://www.naranoncentralca.org/"
     },
     "fef3cd85-aff7-468a-8960-07f1cd5de663": {
