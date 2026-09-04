@@ -103,7 +103,13 @@ async function fetchFeed(url, userAgent = USER_AGENT) {
     clearTimeout(timeout);
 
     if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+      // Some servers return a perfectly good feed under an error status --
+      // kcbx.org serves its newsroom RSS with a 404. Trust the body when the
+      // content type says XML; anything else really is an error page.
+      const contentType = response.headers.get('content-type') || '';
+      if (!/xml/i.test(contentType)) {
+        throw new Error(`HTTP ${response.status}`);
+      }
     }
 
     const xml = await response.text();
