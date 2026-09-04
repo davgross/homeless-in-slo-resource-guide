@@ -27,6 +27,12 @@ const DEFAULT_OUTPUT = path.join(process.env.HOME, 'vivaslo-feed.xml');
 const MAX_ITEMS_PER_FEED = 50; // Limit items per feed to avoid huge files
 const MAX_TOTAL_ITEMS = 200; // Max items in combined feed
 const REQUEST_TIMEOUT = 15000; // 15 seconds
+const USER_AGENT = 'VivaSLO-RSS-Aggregator/1.0';
+// A few sources sit behind CDNs that blackhole non-browser User-Agents, so the
+// request hangs until REQUEST_TIMEOUT instead of being refused. Others do the
+// reverse and return 403 to a browser UA. Opt in per feed with
+// "browserUserAgent": true rather than switching the default.
+const BROWSER_USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0';
 
 /**
  * Load configuration file
@@ -82,7 +88,7 @@ function extractKeywordsFromDirectory() {
 /**
  * Fetch and parse an RSS feed
  */
-async function fetchFeed(url) {
+async function fetchFeed(url, userAgent = USER_AGENT) {
   try {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
@@ -90,14 +96,20 @@ async function fetchFeed(url) {
     const response = await fetch(url, {
       signal: controller.signal,
       headers: {
-        'User-Agent': 'VivaSLO-RSS-Aggregator/1.0'
+        'User-Agent': userAgent
       }
     });
 
     clearTimeout(timeout);
 
     if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+      // Some servers return a perfectly good feed under an error status --
+      // kcbx.org serves its newsroom RSS with a 404. Trust the body when the
+      // content type says XML; anything else really is an error page.
+      const contentType = response.headers.get('content-type') || '';
+      if (!/xml/i.test(contentType)) {
+        throw new Error(`HTTP ${response.status}`);
+      }
     }
 
     const xml = await response.text();
@@ -257,7 +269,8 @@ async function main() {
     const feedName = feedConfig.name || url;
 
     console.log(`  Fetching: ${feedName}`);
-    const parsed = await fetchFeed(url);
+    const userAgent = feedConfig.browserUserAgent ? BROWSER_USER_AGENT : USER_AGENT;
+    const parsed = await fetchFeed(url, userAgent);
 
     if (parsed) {
       const items = extractItems(parsed, url);
