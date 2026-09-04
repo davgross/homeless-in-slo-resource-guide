@@ -2029,7 +2029,7 @@ The “Kick It California” program can help you stop smoking ([kickitca.org](h
 The U.S. government has a similar program at [smokefree.gov](https://smokefree.gov/) or [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
 The [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
-and the [SLO County Tobacco Control Program](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program) also offer help quitting smoking. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program -->
+and the [SLO County Tobacco and Substance Use Prevention Program](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program) also offer help quitting smoking. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program -->
 
 The [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) offers help quitting smoking to qualifying U.S. military veterans. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
 
