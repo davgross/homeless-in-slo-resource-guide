@@ -4,7 +4,9 @@ services:
     container_name: changedetection
     hostname: changedetection
     ports:
-      - "5000:5000"
+      # Bound to loopback only: the app has no password and its API token
+      # requirement is disabled, so it must not be reachable from the network.
+      - "127.0.0.1:5000:5000"
     volumes:
       - ./changedetection-data:/datastore
     environment:
