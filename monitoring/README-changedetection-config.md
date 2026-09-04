@@ -126,3 +126,12 @@ Excluded from `changedetection-config.json`:
 Also not version controlled: application settings in
 `changedetection-data/changedetection.json` (worker count, default check
 interval, notification defaults). Only per-watch configuration is tracked.
+
+**Do not add that file to the repo.** It holds live credentials —
+`api_access_token`, `rss_access_token`, and the UI password hash if one is
+set. This repo is public, and earlier versions of those tokens were committed
+here in one-time setup scripts between 2026-01-01 and 2026-02-13 before being
+removed in `258d4b4`; they remain in the public history and had to be rotated.
+The settings are already covered by `backup-monitoring.sh`, and the app writes
+its own `changedetection-<version>.json` snapshot on each upgrade, so nothing
+is lost by keeping them out of git.
