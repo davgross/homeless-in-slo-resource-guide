@@ -3354,7 +3354,6 @@ You apply for this program through a commercial phone service provider that supp
 Some providers also give you a free phone when you register for California LifeLine through their service, for example [AirTalk Wireless](https://airtalkwireless.com/lifeline-application), [enTouch Wireless](https://entouchwireless.com/states/california-lifeline-free-phone-service/), or [Gen Mobile](https://www.genmobile.com/pages/lifeline-program).
 
 The [**California Connect**](Directory.md#California-Connect) program can loan you, for free, assistive telecommunications equipment that helps if you have medically-documented functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
-This program is for California residents with medically-certified limitations of hearing, vision, mobility, speech, learning, or memory.
 
 -----
 
@@ -4002,7 +4001,7 @@ Visit [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-servi
 Every two years, typically in January, a census of homeless people in the United States is attempted.
 This is called the [“Point-in-Time Count”](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count).
 This helps the government estimate how many people are homeless, where homeless people are, and what their characteristics are.
-This in turn helps the government decide what policy responses to prioritize.
+This in turn helps the government decide which policy responses to prioritize.
 You can read [the official report on SLO County’s 2024 Point-in-Time Count](https://www.slocounty.ca.gov/getmedia/3eb220e5-a230-4c31-9a87-e2bc24e648be/2024_pitcount_communityreport).
 The Point-in-Time Count is conducted in part by volunteers. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/point-in-time-count -->
 If you would like to help with the 2028 Count, email [HSD_PITCount@co.slo.ca.us](mailto:HSD_PITCount@co.slo.ca.us).

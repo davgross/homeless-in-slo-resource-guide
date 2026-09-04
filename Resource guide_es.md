@@ -3355,7 +3355,6 @@ Solicita este programa a través de un proveedor de servicio telefónico comerci
 Algunos proveedores también le dan un teléfono gratuito cuando se registra para California LifeLine a través de su servicio, por ejemplo [AirTalk Wireless](https://airtalkwireless.com/es/lifeline-application), [enTouch Wireless](https://entouchwireless.com/states/california-lifeline-free-phone-service/) o [Gen Mobile](https://www.genmobile.com/pages/lifeline-program).
 
 El programa [**California Connect**](Directory.md#California-Connect) puede prestarle, gratuitamente, equipo de telecomunicaciones de asistencia que ayuda si tiene limitaciones funcionales médicamente documentadas de audición, visión, movilidad, habla y/o interpretación de información. <!-- Source: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/ddtp -->
-Este programa es para residentes de California con limitaciones médicamente certificadas de audición, visión, movilidad, habla, aprendizaje o memoria.
 
 -----
 
