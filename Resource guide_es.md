@@ -2029,7 +2029,7 @@ El programa “Kick It California” puede ayudarle a dejar de fumar ([kickitca.
 El gobierno de Estados Unidos tiene un programa similar en [smokefree.gov](https://smokefree.gov/) o [800-QUIT-NOW](tel:+1-800-784-8669). <!-- Source: https://smokefree.gov/tools-tips-women/text-programs/faqs -->
 
 El [**Healthcare for the Homeless Program**](Directory.md#HCHP) <!-- Source: https://nhchc.org/grantee-directory/community-health-centers-of-the-central-coast/ -->
-y el [SLO County Tobacco Control Program](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program) también ofrecen ayuda para dejar el tabaco. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program -->
+y el [SLO County Tobacco and Substance Use Prevention Program](https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program) también ofrecen ayuda para dejar el tabaco. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/public-health/all-public-health-services/health-promotion/tobacco-control-program -->
 
 La [**Veterans Administration Outpatient Clinic**](Directory.md#Veterans-Administration-Outpatient-Clinic) ofrece apoyo, recursos y programas para dejar el tabaco a veteranos militares estadounidenses que califiquen. <!-- source: https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/#health-care-offered-here -->
 
