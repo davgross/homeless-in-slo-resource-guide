@@ -100,7 +100,7 @@ Si desea sugerir correcciones o mejoras, o unirse al equipo de desarrollo de Viv
    <tr><td><a href="tel:+1-800-838-1381">800-838-1381</a></td><td>Línea de Acceso de Salud y Bienestar del Condado de SLO: número principal para programar citas y obtener información sobre todos los servicios de salud del comportamiento, incluyendo navegación y apoyo entre pares</td></tr><!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
    <tr><td><a href="tel:+1-805-540-6576">800-540-6576</a></td><td>Navegación de Salud Mental: obtenga ayuda con recursos y sistemas de salud mental del condado</td></tr><!-- Source: https://www.t-mha.org/program-details.php?id=20 -->
    <tr><td><a href="tel:+1-833-317-4673">833-317-4673</a></td><td>The Warm Line: apoyo emocional gratuito y confidencial (o en línea en <a href="https://www.mentalhealthsf.org/warm-line">mentalhealthsf.org/warm-line</a>) L/Ma/Mi/V 7am–11pm; J 8am–10pm</td></tr><!-- Source: https://www.calhope.org/ -->
-   <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a></td><td>Kick It California, ayuda para dejar de fumar</td></tr><!-- Source: https://www.kickitca.org/ -->
+   <tr><td><a href="tel:+1-800-300-8086">800-300-8086</a> o envíe mensaje de texto “Dejar de Fumar” a <a href="sms:66819?&body=Dejar+de+Fumar">66819</td><td>Kick It California, ayuda para dejar de fumar</td></tr><!-- Source: https://www.kickitca.org/ -->
    <tr><td><a href="tel:+1-800-662-4357">800-662-4357</a></td><td>Línea Nacional de Ayuda de SAMHSA (gratuita, confidencial, 24/7 para referidos e información sobre tratamiento de abuso de sustancias)</td></tr><!-- Source: https://www.samhsa.gov/find-help/helplines/national-helpline -->
    <tr><td><a href="tel:+1-800-541-3211">800-541-3211</a></td><td>Línea de ayuda 24/7 de Alcohólicos Anónimos de la Costa Central</td></tr><!-- Source: https://www.sloaa.org/ -->
    <tr><td><a href="tel:+1-800-549-7730">800-549-7730</a></td><td>Línea de ayuda 24/7 de Narcóticos Anónimos de la Costa Central</td></tr><!-- Source: https://www.centralcoastna.org/ -->
@@ -618,8 +618,8 @@ Restorative Partners is creating a [**Healing and Restoration Campus**](Director
 It will also offer job training and support.
 It is designed specifically for people reentering society from incarceration.
 
-[**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for chronically homeless people, prioritizing for veterans, women, and elderly with little or no income.
-As of December 2025 the project is still looking for a suitable location (and has been for over a decade); they are not admitting residents.
+[**Hope’s Village**](Directory.md#Hopes-Village) is a proposed tiny home community meant for homeless veterans.
+As of 2026 the project is still looking for a suitable location (and has been for over a decade); they are not yet admitting residents.
 - Source: https://hopesvillageofslo.com/helping
 -->
 
