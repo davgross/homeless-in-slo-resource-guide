@@ -3,6 +3,37 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    /*
+     * Set the document language before the browser's translation detector
+     * runs. The module bundle is deferred, so if we wait for it Chrome parses
+     * a page declaring lang="en" that is full of Spanish, decides it is
+     * mislabelled, and auto-translates it back to English — mangling the page
+     * for exactly the readers the translation exists to serve.
+     *
+     * Mirrors getCurrentLanguage() in src/strings.js, which stays the
+     * authority; i18nInit() re-applies the same value moments later.
+     */
+    (function () {
+      var supported = { en: 1, es: 1 };
+      var lang = null;
+      try {
+        var saved = localStorage.getItem('language');
+        if (saved && supported[saved]) { lang = saved; }
+        if (!lang) {
+          var param = new URLSearchParams(location.search).get('lang');
+          if (param && supported[param]) { lang = param; }
+        }
+      } catch (e) {
+        /* localStorage can throw in private/blocked contexts */
+      }
+      if (!lang) {
+        var nav = (navigator.language || '').split('-')[0].toLowerCase();
+        if (supported[nav]) { lang = nav; }
+      }
+      document.documentElement.lang = lang || 'en';
+    })();
+  </script>
   <meta name="description" content="Comprehensive resource guide for people experiencing homelessness in San Luis Obispo County">
   <meta name="theme-color" content="#1a62ff">
   <title>VivaSLO Homeless Resource Guide for San Luis Obispo County</title>

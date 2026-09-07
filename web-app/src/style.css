@@ -193,6 +193,8 @@ textarea:focus:not(:focus-visible) {
 .app-nav {
   display: flex;
   justify-content: space-around;
+  /* Mobile-first: wrapping is what stops large text forcing the page wider
+     on a phone. Disabled at >=768px below, where there is always room. */
   flex-wrap: wrap;
   /* rem basis: as text grows the nav claims more room and drops to its own
      row rather than squeezing beside the logo and forcing a wider page. */
@@ -1093,6 +1095,8 @@ tbody tr:hover {
   }
 
   .app-nav {
+    /* Room for one row from here up; never wrap */
+    flex-wrap: nowrap;
     gap: 0.5rem;
   }
 
@@ -1129,11 +1133,13 @@ tbody tr:hover {
 
   .app-nav {
     flex: 0 0 auto;
+    flex-wrap: nowrap;
     gap: 0.75rem;
   }
 
   .nav-btn {
-    /* min-width removed - was causing text centering issues with Montserrat font */
+    /* Sized to their text on wide screens; no wrapping needed here */
+    flex: 0 0 auto;
   }
 
   .search-container {

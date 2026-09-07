@@ -307,6 +307,26 @@ skipColors.ratio >= 4.5
   ? pass('skip link text contrast', `${skipColors.ratio}:1`)
   : fail('skip link text contrast', `${skipColors.ratio}:1 — ${skipColors.fg} on ${skipColors.bg}`);
 
+
+// --- 15. Header nav must stay on one row at normal text size, every width ---
+// The reflow matrix only covers phone widths, so a desktop-only wrap (caused
+// by a wrapping flex container resolving to a two-button width) slipped past.
+const navRows = [];
+for (const vw of [1440, 1280, 1024, 900, 768, 600, 412, 375]) {
+  const np = await browser.newPage();
+  await np.setViewport({width: vw, height: 900});
+  await np.goto(URL, {waitUntil:'networkidle2', timeout:60000});
+  await new Promise(r=>setTimeout(r,1500));
+  const rows = await np.evaluate(()=>
+    new Set([...document.querySelectorAll('.nav-btn')]
+      .map(b=>Math.round(b.getBoundingClientRect().top))).size);
+  if (rows !== 1) navRows.push(`${vw}px:${rows} rows`);
+  await np.close();
+}
+navRows.length===0
+  ? pass('header nav stays on one row at normal text size', '8 widths, 375-1440px')
+  : fail('header nav wraps', navRows.join(', '));
+
 console.log('\n--- page errors ---');
 console.log(errors.length? errors.slice(0,10).join('\n') : '(none)');
 console.log('\n--- results ---');
