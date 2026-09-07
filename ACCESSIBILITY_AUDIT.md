@@ -407,4 +407,15 @@ The regression suite grew to **30 assertions** and caught three of these before 
 
 **A note on the logo:** it is not decorative — it navigates to Resources, the standard "logo goes home" pattern. It is kept in the tab order for that reason. If the duplication with the adjacent *Resources* button is unwanted, `tabindex="-1"` on `.header-logo` removes it from keyboard order while leaving it usable by mouse and screen reader.
 
+### Reflow, round two
+
+Horizontal scrolling returned at narrower widths (375px from 110% text, 412px from 120%). Two further causes, both now fixed:
+
+- **Section headings.** `addSectionShareButtons()` set `flex: 1; min-width: 0` on the heading's anchor — but the markdown renderer wraps heading content in a `<span>`, so the actual flex item was that span, which kept its min-content width as a floor. A long heading ("Disaster Planning/Preparation") then pushed the page wider than the screen. Layout moved into CSS as `.has-share-button`.
+- **Header navigation.** The three nav buttons could not shrink or wrap, so at large text they forced the viewport wider. `.app-nav` now has a rem-based flex basis (drops to its own row as text grows) and `.nav-btn` an em-based one (wraps to extra rows rather than overflowing).
+
+Verified across **3 widths × 5 text sizes**, including the 320px case WCAG 1.4.10 actually requires: no horizontal scrolling and no off-screen controls anywhere. That matrix is now a single assertion in the suite, so it cannot regress at one width while passing at another.
+
+Hardening the suite also exposed a **false pass**: the modal focus-indicator check had been measuring header controls because its second modal never opened. It now asserts its own precondition and runs while the dialog is provably open.
+
 **Still requires a human with a browser:** screen-reader passes, 200%/400% zoom, Windows High Contrast Mode, and low-end Android testing. See *Testing still needed* above.

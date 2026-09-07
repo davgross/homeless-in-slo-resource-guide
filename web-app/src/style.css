@@ -160,6 +160,9 @@ textarea:focus:not(:focus-visible) {
   align-items: center;
   gap: 0.5rem;
   padding: 0.25rem;
+  /* At large text sizes the three nav buttons no longer fit beside the logo.
+     Let them wrap onto their own row rather than widening the viewport. */
+  flex-wrap: wrap;
 }
 
 .header-logo {
@@ -190,12 +193,18 @@ textarea:focus:not(:focus-visible) {
 .app-nav {
   display: flex;
   justify-content: space-around;
-  flex: 1;
+  flex-wrap: wrap;
+  /* rem basis: as text grows the nav claims more room and drops to its own
+     row rather than squeezing beside the logo and forcing a wider page. */
+  flex: 1 1 18rem;
   gap: 0.25rem;
 }
 
 .nav-btn {
-  flex: 1;
+  /* em basis so the buttons wrap onto extra rows as text grows, instead of
+     overflowing. They still fit on one row at normal size. */
+  flex: 1 1 6em;
+  min-width: 0;
   padding: 0.75rem 0.25rem;
   font-size: 1rem;
   font-family: 'Montserrat Alternates', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -719,6 +728,31 @@ ol ol ol ol {
 
 ol ol ol ol ol {
   list-style-type: lower-alpha; /* back to a, b, c... */
+}
+
+/* Headings that carry a share button.
+   The markdown renderer wraps heading content in a <span>, so the flex item
+   is that span — not the anchor inside it. It needs min-width: 0, otherwise
+   its min-content width becomes a floor and a long heading pushes the page
+   wider than the screen at large text sizes. */
+h1.has-share-button,
+h2.has-share-button,
+h3.has-share-button {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.has-share-button > span,
+.has-share-button > a {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow-wrap: break-word;
+}
+
+.has-share-button > .section-share-btn {
+  flex: 0 0 auto;
 }
 
 /* Tables scroll inside their own box so a wide table never widens the page */

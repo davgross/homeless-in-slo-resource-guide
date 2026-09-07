@@ -124,14 +124,29 @@ if (dirLink) {
   bgInert.length===0 ? pass('background fully inert while modal open')
                      : fail('background inert', bgInert.length+' reachable outside modal: '+bgInert.slice(0,6).join(','));
 
-  // Tab must not escape the dialog
+  // Tab must not escape the dialog, and every control it lands on must show
+  // a focus indicator. Checked here, while the dialog is definitely open.
   let escaped = null;
+  const styles = [];
   for (let i=0;i<12;i++){
     await page.keyboard.press('Tab');
-    const inside = await page.evaluate(()=>document.getElementById('directory-overlay').contains(document.activeElement));
-    if (!inside){ escaped = await page.evaluate(()=>document.activeElement.id||document.activeElement.className); break; }
+    const st = await page.evaluate(()=>{
+      const el=document.activeElement, cs=getComputedStyle(el);
+      return {inside: document.getElementById('directory-overlay').contains(el),
+              cls:(el.className||el.tagName).toString().split(' ')[0],
+              outline: cs.outlineStyle+' '+cs.outlineWidth,
+              shadow: cs.boxShadow!=='none'};
+    });
+    if (!st.inside){ escaped = st.cls; break; }
+    styles.push(st);
   }
   escaped===null ? pass('Tab stays inside the dialog (12 presses)') : fail('focus escaped dialog', escaped);
+
+  const invisible = styles.filter(x=>x.outline==='none 0px' && !x.shadow);
+  (styles.length>0 && invisible.length===0)
+    ? pass('every dialog control shows a focus indicator', `${styles.length} controls`)
+    : fail('dialog control with no focus indicator',
+           styles.length===0 ? 'no controls measured' : invisible.map(x=>x.cls).join(', '));
 
   const focusInside = await page.evaluate(()=>document.getElementById('directory-overlay').contains(document.activeElement));
   focusInside ? pass('focus moved into modal') : fail('focus moved into modal');
@@ -170,25 +185,6 @@ ext.mapUnlabelled===0 ? pass('map links announce the new tab', ext.blank+' map l
 ext.marked>0 ? pass('external links still marked for ↗ indicator', ext.marked+' marked') : fail('external marker', JSON.stringify(ext));
 
 // --- 7. no outline:none focus killers remain reachable ---
-const dirLink2 = await page.$('a[data-directory-link]');
-await page.evaluate(el=>{el.id='__trig2'; el.scrollIntoView();}, dirLink2);
-await page.focus('#__trig2');
-await page.click('#__trig2');
-await new Promise(r=>setTimeout(r,600));
-const focusStyles=[];
-for (let i=0;i<4;i++){
-  await page.keyboard.press('Tab');
-  focusStyles.push(await page.evaluate(()=>{
-    const el=document.activeElement; const cs=getComputedStyle(el);
-    return {cls:(el.className||el.tagName).toString().split(' ')[0],
-            outline:cs.outlineStyle+' '+cs.outlineWidth,
-            shadow:cs.boxShadow!=='none'};
-  }));
-}
-const allVisible = focusStyles.every(x=>x.outline!=='none 0px' || x.shadow);
-allVisible ? pass('every modal control shows a focus indicator on Tab', focusStyles.map(x=>x.cls+':'+x.outline).join(' | '))
-           : fail('focus indicator missing', JSON.stringify(focusStyles));
-await page.keyboard.press('Escape');
 
 
 // --- 8. Skip link must be fully off-screen until focused ---
@@ -219,32 +215,39 @@ for (let i=0;i<10;i++){
 ringMisses.length===0 ? pass('focus ring visible on every control tabbed', [...seenIds].join(', '))
                       : fail('controls with no dark focus ring', ringMisses.join(', '));
 
-// --- 10. Text scaling must not widen the layout viewport (Reflow) ---
-const mobile = await browser.newPage();
-await mobile.setViewport({width:712,height:1138,isMobile:true,hasTouch:true,deviceScaleFactor:2});
-await mobile.goto(URL,{waitUntil:'networkidle2',timeout:60000});
-await new Promise(r=>setTimeout(r,2200));
-const reflow=[];
-for (const scale of ['100%','130%','150%']) {
-  await mobile.evaluate(sc=>document.documentElement.style.setProperty('--font-size-scale',sc), scale);
-  await new Promise(r=>setTimeout(r,400));
-  const m = await mobile.evaluate(()=>{
-    const gaps={};
-    ['toc-btn','install-btn','share-btn','font-size-btn'].forEach(id=>{
-      const el=document.getElementById(id);
-      if(!el||getComputedStyle(el).display==='none') return;
-      const r=el.getBoundingClientRect();
-      gaps[id]={r:Math.round(innerWidth-r.right), b:Math.round(innerHeight-r.bottom)};
+// --- 10. Reflow: no horizontal scrolling at any phone width or text size ---
+// 320px is the WCAG 1.4.10 requirement (1280px at 400% zoom).
+const reflow = [];
+for (const [vw, vh, label] of [[320,512,'320px'],[375,667,'iPhone SE'],[412,915,'Pixel 8']]) {
+  const mobile = await browser.newPage();
+  await mobile.setViewport({width:vw, height:vh, isMobile:true, hasTouch:true, deviceScaleFactor:2});
+  await mobile.goto(URL,{waitUntil:'networkidle2',timeout:60000});
+  await new Promise(r=>setTimeout(r,2200));
+
+  for (const scale of ['100%','110%','120%','130%','150%']) {
+    await mobile.evaluate(sc=>document.documentElement.style.setProperty('--font-size-scale',sc), scale);
+    await new Promise(r=>setTimeout(r,400));
+    const m = await mobile.evaluate(()=>{
+      const de = document.documentElement, off = [];
+      const check = el => {
+        if (!el || getComputedStyle(el).display === 'none') return;
+        const r = el.getBoundingClientRect();
+        if (innerWidth - r.right < -1 || innerHeight - r.bottom < -1 || r.left < -1 || r.top < -1) {
+          off.push(el.id || el.className.toString().split(' ')[0]);
+        }
+      };
+      ['share-btn','toc-btn','font-size-btn','install-btn','language-btn'].forEach(id=>check(document.getElementById(id)));
+      check(document.querySelector('.feedback-fab'));
+      return {sw: de.scrollWidth, cw: de.clientWidth, off};
     });
-    return {innerW:innerWidth, clientW:document.documentElement.clientWidth, gaps};
-  });
-  const widened = m.innerW > m.clientW;
-  const offscreen = Object.entries(m.gaps).filter(([,v])=>v.r<0||v.b<0).map(([k])=>k);
-  if (widened || offscreen.length) reflow.push(`${scale}: innerW=${m.innerW} clientW=${m.clientW} offscreen=[${offscreen}]`);
+    if (m.sw > m.cw) reflow.push(`${label}@${scale} hscroll (${m.sw}>${m.cw})`);
+    if (m.off.length) reflow.push(`${label}@${scale} offscreen:[${m.off}]`);
+  }
+  await mobile.close();
 }
-reflow.length===0 ? pass('text scaling does not widen the page or push buttons off-screen')
-                  : fail('reflow at large text', reflow.join(' ; '));
-await mobile.close();
+reflow.length===0
+  ? pass('no horizontal scroll or off-screen buttons', '3 widths x 5 text sizes')
+  : fail('reflow', reflow.slice(0,5).join(' ; '));
 
 // --- 11. Search field: hidden label, visible affordance ---
 const searchField = await page.evaluate(()=>{

@@ -779,17 +779,9 @@ function addSectionShareButtons(container, sectionName = 'resources') {
     // Create and add share button
     const shareBtn = createSectionShareButton(sectionTitle, sectionUrl);
 
-    // Add the button before the heading text
-    heading.style.position = 'relative';
-    heading.style.display = 'flex';
-    heading.style.alignItems = 'baseline';
-    heading.style.gap = '0.5rem';
-
-    // Make the anchor flexible so its text can wrap
-    if (anchor) {
-      anchor.style.flex = '1';
-      anchor.style.minWidth = '0';
-    }
+    // Add the button before the heading text. Layout lives in CSS
+    // (.has-share-button) rather than inline styles.
+    heading.classList.add('has-share-button');
 
     heading.insertBefore(shareBtn, heading.firstChild);
   });
