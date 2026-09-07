@@ -400,9 +400,10 @@ Nine issues found by manual browser review of the fixes above, all now resolved:
 | Ambiguous map addresses ("1559 10th St.") | The extractor computed the city then discarded it | City is now part of the label ("Grover Beach, 1559 10th St.") |
 | Untranslated map list text | Data files were generated only from the English sources | `extract-map-data.js` now emits both languages; pages load the matching dataset. Also fixed a hardcoded English heading regex that made the Spanish naloxone section unmatchable |
 | Buttons leaving the screen above 120% text | A table refused to shrink, widening the *layout viewport* past the device width — pre-existing WCAG 1.4.10 Reflow failure | Tables now scroll inside their own container (keyboard-focusable only when they actually scroll) |
+| Skip link text invisible (blue on blue) | `a[href]` (0,1,1) outranked the bare `.skip-link` rule (0,1,0), so the link colour won over the white — a 1:1 contrast ratio on its own blue chip. Pre-existing, only visible once the link stopped being clipped | Anchored the colour to `a.skip-link` (all link states) after the link-colour rules; now 4.96:1. A contrast assertion guards it |
 | Popups overlapping | Two separate position bugs; the mobile (≤640px) block also left the language button at desktop size and put the font popup directly on top of it | Both breakpoints re-stacked; opening one popup now closes the other |
 
-The regression suite grew to **29 assertions** and caught three of these before they shipped: a function accidentally defined inside another function's scope, the mobile popup overlap (which passes at desktop width and fails at 390px), and the focus-ring specificity.
+The regression suite grew to **30 assertions** and caught three of these before they shipped: a function accidentally defined inside another function's scope, the mobile popup overlap (which passes at desktop width and fails at 390px), and the focus-ring specificity.
 
 **A note on the logo:** it is not decorative — it navigates to Resources, the standard "logo goes home" pattern. It is kept in the tab order for that reason. If the duplication with the adjacent *Resources* button is unwanted, `tabindex="-1"` on `.header-logo` removes it from keyboard order while leaving it usable by mouse and screen reader.
 

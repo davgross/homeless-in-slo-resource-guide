@@ -475,6 +475,19 @@ a[href]:hover {
   color: var(--secondary-color);
 }
 
+/* The skip link sits on a solid blue chip, so it must keep white text.
+   `a[href]` below outranks a bare `.skip-link` rule, which previously left
+   the text the same blue as its own background (1:1 contrast, invisible). */
+a.skip-link,
+a.skip-link:link,
+a.skip-link:visited,
+a.skip-link:hover,
+a.skip-link:focus,
+a.skip-link:active {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 /* Anchor elements with only id (navigation targets) should look like normal text */
 a[id]:not([href]):not([data-directory-link]) {
   color: inherit;

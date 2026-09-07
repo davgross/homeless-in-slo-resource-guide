@@ -284,6 +284,26 @@ lsReads < 50 ? pass('language lookup is cached', lsReads+' localStorage reads')
              : fail('excessive localStorage reads', lsReads+' reads');
 await cold.close();
 
+
+// --- 14. Skip link text must be readable against its own chip ---
+await page.goto(URL, {waitUntil:'networkidle2', timeout:60000});
+await new Promise(r=>setTimeout(r,2000));
+await page.keyboard.press('Tab');
+await new Promise(r=>setTimeout(r,300));
+const skipColors = await page.evaluate(()=>{
+  const cs=getComputedStyle(document.querySelector('.skip-link'));
+  const lum = c => {
+    const [r,g,b]=c.match(/\d+/g).slice(0,3).map(v=>{v/=255;return v<=0.03928?v/12.92:Math.pow((v+0.055)/1.055,2.4);});
+    return 0.2126*r+0.7152*g+0.0722*b;
+  };
+  const a=lum(cs.color), b=lum(cs.backgroundColor);
+  return {fg:cs.color, bg:cs.backgroundColor,
+          ratio:+(((Math.max(a,b)+0.05)/(Math.min(a,b)+0.05)).toFixed(2))};
+});
+skipColors.ratio >= 4.5
+  ? pass('skip link text contrast', `${skipColors.ratio}:1`)
+  : fail('skip link text contrast', `${skipColors.ratio}:1 — ${skipColors.fg} on ${skipColors.bg}`);
+
 console.log('\n--- page errors ---');
 console.log(errors.length? errors.slice(0,10).join('\n') : '(none)');
 console.log('\n--- results ---');
