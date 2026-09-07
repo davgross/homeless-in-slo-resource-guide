@@ -48,7 +48,9 @@ const strings = {
       directoryEntry: 'Directory Entry',
       resourceGuide: 'Resource Guide',
       resourceSection: 'Resource Guide › Section',
-      resourceSubsection: 'Resource Guide › Subsection'
+      resourceSubsection: 'Resource Guide › Subsection',
+      label: 'Search',
+      instructions: 'Use the up and down arrow keys to review results. Press Enter to open one.'
     },
 
     // Loading states
@@ -66,8 +68,25 @@ const strings = {
     toc: {
       button: {
         ariaLabel: 'Jump to index',
-        title: 'Index'
-      }
+        title: 'Index',
+        ariaLabelInView: 'Index (currently visible)',
+        ariaLabelAbove: 'Jump up to index',
+        ariaLabelBelow: 'Jump down to index'
+      },
+      gridLabel: 'Index'
+    },
+
+    // Labels applied to links inside the guide content
+    links: {
+      call: (number) => `Call ${number}`,
+      email: (address) => `Email ${address}`,
+      opensInNewTab: (text) => `${text} (opens in new tab)`,
+      directoryEntry: (name) => `View directory entry for ${name}`
+    },
+
+    // Floating control cluster
+    toolbar: {
+      label: 'Display and sharing settings'
     },
 
     // Share functionality
@@ -106,7 +125,8 @@ const strings = {
         close: 'Close',
         download: 'Download QR Code',
         linkLabel: 'Link:',
-        closeAriaLabel: 'Close QR code dialog'
+        closeAriaLabel: 'Close QR code dialog',
+        generationFailed: 'Unable to create the QR code.'
       }
     },
 
@@ -307,7 +327,9 @@ const strings = {
       directoryEntry: 'Entrada del directorio',
       resourceGuide: 'Guía de recursos',
       resourceSection: 'Guía de recursos › Sección',
-      resourceSubsection: 'Guía de recursos › Subsección'
+      resourceSubsection: 'Guía de recursos › Subsección',
+      label: 'Buscar',
+      instructions: 'Use las teclas de flecha arriba y abajo para revisar los resultados. Presione Enter para abrir uno.'
     },
 
     // Loading states
@@ -325,8 +347,25 @@ const strings = {
     toc: {
       button: {
         ariaLabel: 'Ir al índice',
-        title: 'Índice'
-      }
+        title: 'Índice',
+        ariaLabelInView: 'Índice (visible ahora)',
+        ariaLabelAbove: 'Subir al índice',
+        ariaLabelBelow: 'Bajar al índice'
+      },
+      gridLabel: 'Índice'
+    },
+
+    // Labels applied to links inside the guide content
+    links: {
+      call: (number) => `Llamar al ${number}`,
+      email: (address) => `Enviar un correo a ${address}`,
+      opensInNewTab: (text) => `${text} (se abre en una pestaña nueva)`,
+      directoryEntry: (name) => `Ver la entrada del directorio de ${name}`
+    },
+
+    // Floating control cluster
+    toolbar: {
+      label: 'Ajustes de pantalla y para compartir'
     },
 
     // Share functionality
@@ -365,7 +404,8 @@ const strings = {
         close: 'Cerrar',
         download: 'Descargar código QR',
         linkLabel: 'Enlace:',
-        closeAriaLabel: 'Cerrar diálogo de código QR'
+        closeAriaLabel: 'Cerrar diálogo de código QR',
+        generationFailed: 'No se pudo crear el código QR.'
       }
     },
 

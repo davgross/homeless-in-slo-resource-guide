@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Comprehensive resource guide for people experiencing homelessness in San Luis Obispo County">
-  <meta name="theme-color" content="#3877ff">
+  <meta name="theme-color" content="#1a62ff">
   <title>VivaSLO Homeless Resource Guide for San Luis Obispo County</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -29,10 +29,60 @@
         </nav>
       </div>
       <div class="search-container">
-        <input type="search" id="search-input" placeholder="Search…" aria-label="Search resources and directory" aria-controls="search-results" aria-expanded="false" aria-autocomplete="list">
-        <div id="search-results" class="search-results" role="listbox" aria-label="Search results" hidden></div>
+        <label class="search-label" for="search-input">Search</label>
+        <input type="search"
+               id="search-input"
+               role="combobox"
+               placeholder="Search…"
+               aria-controls="search-listbox"
+               aria-expanded="false"
+               aria-autocomplete="list"
+               aria-describedby="search-instructions"
+               autocomplete="off">
+        <p id="search-instructions" class="visually-hidden">Use the up and down arrow keys to review results. Press Enter to open one.</p>
+        <div id="search-results" class="search-results" hidden>
+          <div class="search-results-header" id="search-results-header"></div>
+          <ul id="search-listbox" role="listbox" aria-label="Search results"></ul>
+        </div>
       </div>
     </header>
+
+      <div id="app-toolbar" class="app-toolbar" role="group" aria-label="Display and sharing settings">
+        <button type="button" id="share-btn" aria-label="Share this resource guide" title="Share">
+          🔗
+        </button>
+
+        <button type="button" id="toc-btn" aria-label="Jump to index" title="Index">
+          📖
+        </button>
+
+        <button type="button" id="font-size-btn" aria-label="Adjust font size" title="Font Size" aria-expanded="false" aria-haspopup="true" aria-controls="font-size-popup">
+          <span class="font-size-large">A</span><span class="font-size-small">A</span>
+        </button>
+
+        <div id="font-size-popup" class="font-size-popup" hidden>
+          <div class="font-size-popup-header">Text Size</div>
+          <div class="font-size-controls">
+            <button type="button" id="font-size-decrease" aria-label="Decrease font size">A−</button>
+            <button type="button" id="font-size-reset" aria-label="Reset to default font size">Default</button>
+            <button type="button" id="font-size-increase" aria-label="Increase font size">A+</button>
+          </div>
+          <div class="font-size-preview" aria-live="polite">100%</div>
+          <div class="font-toggle-section">
+            <label class="font-toggle-label">
+              <input type="checkbox" id="opendyslexic-toggle">
+              <span>Use <span class="opendyslexic-preview">OpenDyslexic</span> font</span>
+            </label>
+          </div>
+        </div>
+
+        <button type="button" id="install-btn" aria-label="Install this app" title="Install App">
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M12 16L12 4M12 16L8 12M12 16L16 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M4 17V19C4 20.1046 4.89543 21 6 21H18C19.1046 21 20 20.1046 20 19V17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </div>
 
     <main class="app-main" id="main-content">
       <section id="resources-section" class="content-section">
@@ -65,41 +115,6 @@
         </div>
         <div class="directory-content"></div>
       </div>
-    </div>
-  </div>
-
-  <button type="button" id="share-btn" aria-label="Share this resource guide" title="Share">
-    🔗
-  </button>
-
-  <button type="button" id="toc-btn" aria-label="Jump to index" title="Index">
-    📖
-  </button>
-
-  <button type="button" id="font-size-btn" aria-label="Adjust font size" title="Font Size">
-    <span class="font-size-large">A</span><span class="font-size-small">A</span>
-  </button>
-
-  <button type="button" id="install-btn" aria-label="Install this app" title="Install App">
-    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-      <path d="M12 16L12 4M12 16L8 12M12 16L16 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M4 17V19C4 20.1046 4.89543 21 6 21H18C19.1046 21 20 20.1046 20 19V17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    </svg>
-  </button>
-
-  <div id="font-size-popup" class="font-size-popup" hidden>
-    <div class="font-size-popup-header">Text Size</div>
-    <div class="font-size-controls">
-      <button type="button" id="font-size-decrease" aria-label="Decrease font size">A−</button>
-      <button type="button" id="font-size-reset" aria-label="Reset to default font size">Default</button>
-      <button type="button" id="font-size-increase" aria-label="Increase font size">A+</button>
-    </div>
-    <div class="font-size-preview" aria-live="polite">100%</div>
-    <div class="font-toggle-section">
-      <label class="font-toggle-label">
-        <input type="checkbox" id="opendyslexic-toggle" aria-label="Toggle OpenDyslexic font">
-        <span>Use <span class="opendyslexic-preview">OpenDyslexic</span> font</span>
-      </label>
     </div>
   </div>
 

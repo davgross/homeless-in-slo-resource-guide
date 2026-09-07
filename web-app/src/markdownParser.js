@@ -3,6 +3,7 @@
  */
 
 import { marked } from 'marked';
+import { getStrings } from './strings.js';
 
 /**
  * Configure marked with custom renderer to fix heading anchor issues
@@ -204,7 +205,11 @@ function convertAnchorLinksToDirectoryLinks(html, directoryEntries) {
       // Keep href="#" so it remains focusable and clickable
       link.setAttribute('href', '#');
       link.setAttribute('data-directory-link', actualEntryId);
-      link.setAttribute('aria-label', `View directory entry for ${link.textContent}`);
+      // These open a modal rather than navigating, so expose them as buttons
+      // and tell assistive tech that a dialog will open.
+      link.setAttribute('role', 'button');
+      link.setAttribute('aria-haspopup', 'dialog');
+      link.setAttribute('aria-label', getStrings().links.directoryEntry(link.textContent));
       convertedCount++;
     } else {
       // This is a broken directory link - collect it for warning

@@ -5,6 +5,7 @@
 
 import { getStrings } from './strings.js';
 import QrCreator from 'qr-creator';
+import { openModal, closeModal } from './modal.js';
 
 // UI Strings
 const strings = getStrings();
@@ -272,7 +273,8 @@ function showQrCodeModal(url) {
   modalContent.appendChild(downloadBtn);
   modal.appendChild(modalContent);
 
-  // Add to DOM
+  // Add to DOM. Hidden first so openModal controls the reveal.
+  modal.hidden = true;
   document.body.appendChild(modal);
 
   // Generate QR code
@@ -287,7 +289,9 @@ function showQrCodeModal(url) {
     }, qrContainer);
   } catch (err) {
     console.error('QR code generation failed:', err);
-    qrContainer.innerHTML = '<p>Unable to generate QR code</p>';
+    const failure = document.createElement('p');
+    failure.textContent = strings.share.qrModal.generationFailed;
+    qrContainer.appendChild(failure);
   }
 
   // Close on overlay click
@@ -301,10 +305,13 @@ function showQrCodeModal(url) {
   const escapeHandler = (e) => {
     if (e.key === 'Escape') {
       hideQrCodeModal();
-      document.removeEventListener('keydown', escapeHandler);
     }
   };
+  modal.__escapeHandler = escapeHandler;
   document.addEventListener('keydown', escapeHandler);
+
+  // Move focus in, trap it, and make the page behind inert
+  openModal(modal, { labelledBy: 'qr-modal-title', initialFocus: modalContent });
 
   // Trigger animation
   setTimeout(() => {
@@ -318,6 +325,14 @@ function showQrCodeModal(url) {
 function hideQrCodeModal() {
   const modal = document.getElementById('qr-code-modal');
   if (!modal) return;
+
+  if (modal.__escapeHandler) {
+    document.removeEventListener('keydown', modal.__escapeHandler);
+    delete modal.__escapeHandler;
+  }
+
+  // Restores focus to the control that opened the QR code
+  closeModal(modal);
 
   modal.classList.remove('show');
   setTimeout(() => {

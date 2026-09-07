@@ -1,5 +1,7 @@
 // Feedback system for capturing user feedback with context
 import { getStrings } from './strings.js';
+import { openModal, closeModal } from './modal.js';
+import { scrollBehavior } from './motion.js';
 
 export class FeedbackSystem {
   constructor() {
@@ -24,7 +26,9 @@ export class FeedbackSystem {
     this.feedbackButton.innerHTML = this.strings.feedback.button.icon;
     this.feedbackButton.setAttribute('aria-label', this.strings.feedback.button.ariaLabel);
     this.feedbackButton.title = this.strings.feedback.button.title;
-    document.body.appendChild(this.feedbackButton);
+    // Into the toolbar, so keyboard users reach it without tabbing the guide
+    const toolbar = document.getElementById('app-toolbar') || document.body;
+    toolbar.appendChild(this.feedbackButton);
   }
 
   // Create feedback modal
@@ -38,7 +42,7 @@ export class FeedbackSystem {
               <path d="M18 6L6 18M6 6l12 12" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </button>
-          <h2>${s.title}</h2>
+          <h2 id="feedback-modal-title">${s.title}</h2>
           <p class="feedback-intro">
             ${s.intro}
           </p>
@@ -199,7 +203,7 @@ export class FeedbackSystem {
         setTimeout(() => {
           // Scroll the input into view, with extra space at bottom
           input.scrollIntoView({
-            behavior: 'smooth',
+            behavior: scrollBehavior(),
             block: 'center',
             inline: 'nearest'
           });
@@ -223,7 +227,7 @@ export class FeedbackSystem {
             // If buttons are below viewport, scroll them into view
             if (rect.bottom > viewportHeight) {
               actionsDiv.scrollIntoView({
-                behavior: 'smooth',
+                behavior: scrollBehavior(),
                 block: 'end',
                 inline: 'nearest'
               });
@@ -359,21 +363,21 @@ export class FeedbackSystem {
     // Capture context
     this.captureContext();
 
-    // Show modal
-    this.feedbackModal.hidden = false;
-
-    // Focus first input
-    setTimeout(() => {
-      const firstInput = this.feedbackModal.querySelector('input, textarea, select');
-      if (firstInput) {
-        firstInput.focus();
-      }
-    }, 100);
+    // Show modal with dialog semantics, focus trap and background inerting.
+    // Focus lands on the dialog itself so the heading is announced before the
+    // first field, rather than dropping the user straight into a text input.
+    openModal(this.feedbackModal, {
+      labelledBy: 'feedback-modal-title',
+      initialFocus: this.feedbackModal.querySelector('.feedback-modal-content')
+    });
   }
 
   // Close feedback modal
   closeFeedbackModal() {
-    this.feedbackModal.hidden = true;
+    if (this.feedbackModal.hidden) return;
+
+    // Returns focus to the button that opened the form
+    closeModal(this.feedbackModal);
 
     // Reset form
     const form = document.getElementById('feedback-form');

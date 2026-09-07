@@ -25,6 +25,9 @@ function createLanguageSwitcher() {
   button.id = 'language-btn';
   button.setAttribute('aria-label', strings.language.label);
   button.setAttribute('title', strings.language.label);
+  button.setAttribute('aria-expanded', 'false');
+  button.setAttribute('aria-haspopup', 'true');
+  button.setAttribute('aria-controls', 'language-popup');
 
   // Button content: current language code (EN/ES) - large and prominent
   button.innerHTML = `<span class="language-code">${currentLang.toUpperCase()}</span>`;
@@ -75,28 +78,40 @@ function createLanguageSwitcher() {
 
   popup.appendChild(optionsContainer);
 
+  function setOpen(open) {
+    popup.hidden = !open;
+    button.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (open) {
+      // Move focus into the popup so keyboard users land on the choices
+      const first = popup.querySelector('.language-option-btn');
+      if (first) first.focus();
+    }
+  }
+
   // Toggle popup on button click
   button.addEventListener('click', (e) => {
     e.stopPropagation();
-    popup.hidden = !popup.hidden;
+    setOpen(popup.hidden);
   });
 
   // Close popup when clicking outside
   document.addEventListener('click', (e) => {
     if (!button.contains(e.target) && !popup.contains(e.target)) {
-      popup.hidden = true;
+      setOpen(false);
     }
   });
 
   // Close popup on Escape key
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && !popup.hidden) {
-      popup.hidden = true;
+      setOpen(false);
       button.focus();
     }
   });
 
-  // Insert button and popup into body
-  document.body.appendChild(button);
-  document.body.appendChild(popup);
+  // Insert button and popup into the toolbar so they sit near the top of the
+  // tab order rather than after the whole guide
+  const toolbar = document.getElementById('app-toolbar') || document.body;
+  toolbar.appendChild(button);
+  toolbar.appendChild(popup);
 }

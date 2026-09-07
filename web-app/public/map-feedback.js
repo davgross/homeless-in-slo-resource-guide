@@ -1,3 +1,4 @@
+import { getMapStrings } from './map-i18n.js';
 /**
  * Shared feedback functionality for map pages
  * This module provides consistent feedback handling across all map pages
@@ -54,13 +55,15 @@ export function initMapFeedback(config) {
   });
 
   // Handle form submission
-  feedbackSubmit.addEventListener('click', async () => {
+  // Submit rather than click, so pressing Enter inside the form works too
+  feedbackForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
     const message = feedbackText.value.trim();
     const name = feedbackName.value.trim() || 'Anonymous';
     const email = feedbackEmail.value.trim() || '';
 
     if (!message) {
-      alert('Please enter your feedback before sending.');
+      alert(getMapStrings().feedback.emptyMessage);
       return;
     }
 
