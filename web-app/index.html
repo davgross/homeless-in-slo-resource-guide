@@ -30,15 +30,17 @@
       </div>
       <div class="search-container">
         <label class="search-label" for="search-input">Search</label>
-        <input type="search"
-               id="search-input"
-               role="combobox"
-               placeholder="Search…"
-               aria-controls="search-listbox"
-               aria-expanded="false"
-               aria-autocomplete="list"
-               aria-describedby="search-instructions"
-               autocomplete="off">
+        <span class="search-field">
+          <input type="search"
+                 id="search-input"
+                 role="combobox"
+                 placeholder="Search…"
+                 aria-controls="search-listbox"
+                 aria-expanded="false"
+                 aria-autocomplete="list"
+                 aria-describedby="search-instructions"
+                 autocomplete="off">
+        </span>
         <p id="search-instructions" class="visually-hidden">Use the up and down arrow keys to review results. Press Enter to open one.</p>
         <div id="search-results" class="search-results" hidden>
           <div class="search-results-header" id="search-results-header"></div>

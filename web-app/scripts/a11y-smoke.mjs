@@ -190,6 +190,100 @@ allVisible ? pass('every modal control shows a focus indicator on Tab', focusSty
            : fail('focus indicator missing', JSON.stringify(focusStyles));
 await page.keyboard.press('Escape');
 
+
+// --- 8. Skip link must be fully off-screen until focused ---
+await page.goto(URL, {waitUntil:'networkidle2', timeout:60000});
+await new Promise(r=>setTimeout(r,2000));
+const skipHidden = await page.evaluate(()=>{
+  const r=document.querySelector('.skip-link').getBoundingClientRect();
+  return {bottom:Math.round(r.bottom), height:Math.round(r.height)};
+});
+skipHidden.bottom<=0 ? pass('skip link fully hidden until focused', JSON.stringify(skipHidden))
+                     : fail('skip link peeks over the header', JSON.stringify(skipHidden));
+
+// --- 9. Every control gets a two-tone focus ring, immediately ---
+const ringMisses=[];
+const seenIds=new Set();
+for (let i=0;i<10;i++){
+  await page.keyboard.press('Tab');
+  const st = await page.evaluate(()=>{
+    const el=document.activeElement, cs=getComputedStyle(el);
+    return {id: el.id || el.className.toString().split(' ')[0] || el.tagName,
+            dark: cs.boxShadow.includes('11, 42, 107'),
+            outline: cs.outlineWidth};
+  });
+  if (seenIds.has(st.id)) continue;
+  seenIds.add(st.id);
+  if (!st.dark) ringMisses.push(st.id);
+}
+ringMisses.length===0 ? pass('focus ring visible on every control tabbed', [...seenIds].join(', '))
+                      : fail('controls with no dark focus ring', ringMisses.join(', '));
+
+// --- 10. Text scaling must not widen the layout viewport (Reflow) ---
+const mobile = await browser.newPage();
+await mobile.setViewport({width:712,height:1138,isMobile:true,hasTouch:true,deviceScaleFactor:2});
+await mobile.goto(URL,{waitUntil:'networkidle2',timeout:60000});
+await new Promise(r=>setTimeout(r,2200));
+const reflow=[];
+for (const scale of ['100%','130%','150%']) {
+  await mobile.evaluate(sc=>document.documentElement.style.setProperty('--font-size-scale',sc), scale);
+  await new Promise(r=>setTimeout(r,400));
+  const m = await mobile.evaluate(()=>{
+    const gaps={};
+    ['toc-btn','install-btn','share-btn','font-size-btn'].forEach(id=>{
+      const el=document.getElementById(id);
+      if(!el||getComputedStyle(el).display==='none') return;
+      const r=el.getBoundingClientRect();
+      gaps[id]={r:Math.round(innerWidth-r.right), b:Math.round(innerHeight-r.bottom)};
+    });
+    return {innerW:innerWidth, clientW:document.documentElement.clientWidth, gaps};
+  });
+  const widened = m.innerW > m.clientW;
+  const offscreen = Object.entries(m.gaps).filter(([,v])=>v.r<0||v.b<0).map(([k])=>k);
+  if (widened || offscreen.length) reflow.push(`${scale}: innerW=${m.innerW} clientW=${m.clientW} offscreen=[${offscreen}]`);
+}
+reflow.length===0 ? pass('text scaling does not widen the page or push buttons off-screen')
+                  : fail('reflow at large text', reflow.join(' ; '));
+await mobile.close();
+
+// --- 11. Search field: hidden label, visible affordance ---
+const searchField = await page.evaluate(()=>{
+  const lab=document.querySelector('.search-label');
+  const r=lab.getBoundingClientRect();
+  const inp=document.getElementById('search-input');
+  return {hidden:r.width<=1&&r.height<=1, name:lab.textContent.trim(),
+          forId:lab.getAttribute('for'), inputId:inp.id,
+          noCompetingAriaLabel: !inp.hasAttribute('aria-label')};
+});
+(searchField.hidden && searchField.forId===searchField.inputId && searchField.noCompetingAriaLabel)
+  ? pass('search label hidden but still names the field', JSON.stringify(searchField))
+  : fail('search label', JSON.stringify(searchField));
+
+// --- 12. Only one toolbar popup open at a time ---
+await page.click('#font-size-btn'); await new Promise(r=>setTimeout(r,250));
+await page.click('#language-btn');  await new Promise(r=>setTimeout(r,250));
+const popups = await page.evaluate(()=>({
+  font: !document.getElementById('font-size-popup').hidden,
+  lang: !document.getElementById('language-popup').hidden,
+  fontExpanded: document.getElementById('font-size-btn').getAttribute('aria-expanded')
+}));
+(!popups.font && popups.lang && popups.fontExpanded==='false')
+  ? pass('opening one toolbar popup closes the other')
+  : fail('popups overlap', JSON.stringify(popups));
+
+// --- 13. Language resolution is cached (was ~1700 storage reads per load) ---
+const cold = await browser.newPage();
+await cold.evaluateOnNewDocument(()=>{
+  window.__ls=0; const o=Storage.prototype.getItem;
+  Storage.prototype.getItem=function(...a){window.__ls++;return o.apply(this,a);};
+});
+await cold.goto(URL,{waitUntil:'networkidle2',timeout:60000});
+await cold.waitForFunction(()=>document.querySelectorAll('#resources-section a').length>100,{timeout:60000});
+const lsReads = await cold.evaluate(()=>window.__ls);
+lsReads < 50 ? pass('language lookup is cached', lsReads+' localStorage reads')
+             : fail('excessive localStorage reads', lsReads+' reads');
+await cold.close();
+
 console.log('\n--- page errors ---');
 console.log(errors.length? errors.slice(0,10).join('\n') : '(none)');
 console.log('\n--- results ---');

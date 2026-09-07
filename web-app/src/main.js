@@ -145,6 +145,11 @@ function deferNonCriticalInit() {
 
   // Final scroll padding adjustment
   setTimeout(updateScrollPadding, 100);
+
+  // Tables: decide which need a keyboard-reachable scroll box
+  updateTableScrollAffordance();
+  window.addEventListener('resize', updateTableScrollAffordance);
+  document.addEventListener('vivaslo:textsizechange', updateTableScrollAffordance);
 }
 
 // Setup navigation between sections
@@ -434,7 +439,7 @@ function renderResources() {
   // Setup map link handlers
   setupMapLinks(section);
 
-  // Add share buttons to section headings
+// Add share buttons to section headings
   addSectionShareButtons(section);
 
   // Transform TOC into icon lozenges
@@ -693,11 +698,43 @@ function setupMapLinks(container) {
   });
 }
 
+/**
+ * A scrollable box must be reachable by keyboard, but only when it actually
+ * scrolls — otherwise every table in the guide becomes a stop in the tab
+ * order. Re-checked on resize and whenever the text size changes.
+ */
+function updateTableScrollAffordance() {
+  document.querySelectorAll('.table-scroll').forEach(wrapper => {
+    const scrolls = wrapper.scrollWidth > wrapper.clientWidth + 1;
+
+    if (scrolls) {
+      wrapper.setAttribute('tabindex', '0');
+      wrapper.setAttribute('role', 'region');
+      wrapper.setAttribute('aria-label', strings.tables.scrollLabel);
+    } else {
+      wrapper.removeAttribute('tabindex');
+      wrapper.removeAttribute('role');
+      wrapper.removeAttribute('aria-label');
+    }
+  });
+}
+
 // Enhance tables with data-label attributes for responsive mobile display
 function enhanceTables(container) {
   const tables = container.querySelectorAll('table');
 
   tables.forEach(table => {
+    // Wrap the table so it scrolls inside its own box. Without this a wide
+    // table widens the whole page at large text sizes, and on a phone that
+    // pushes the fixed toolbar buttons off the edge of the screen
+    // (and forces two-dimensional scrolling — WCAG 1.4.10 Reflow).
+    if (!table.parentElement.classList.contains('table-scroll')) {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'table-scroll';
+      table.parentNode.insertBefore(wrapper, table);
+      wrapper.appendChild(table);
+    }
+
     // Get all header cells from thead
     const headers = Array.from(table.querySelectorAll('thead th')).map(th => th.textContent.trim());
 

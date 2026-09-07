@@ -340,13 +340,15 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script type="module">
-        // Import location data (auto-generated from Directory.md)
-        import { locations, config } from './little-free-libraries-data.js';
-        // Import shared feedback functionality
+        // Import translations first: the dataset to load depends on language
+        import { applyMapTranslations, getMapLanguage } from './map-i18n.js';
         import { initMapFeedback } from './map-feedback.js';
-        // Import translations (these pages are linked from both guides)
-        import { applyMapTranslations } from './map-i18n.js';
 
+        // Location data is generated in both languages, because the place
+        // descriptions themselves are translated in the Spanish sources.
+        const { locations, config } = getMapLanguage() === 'es'
+          ? await import('./little-free-libraries-data-es.js')
+          : await import('./little-free-libraries-data.js');
         // Swap page chrome to the reader's language before anything renders
         const t = applyMapTranslations({
           en: { title: 'Little Free Libraries - SLO County', heading: '📚 Little Free Libraries in SLO County', listHeading: 'All Little Free Libraries', mapAltSubject: 'Map of Little Free Libraries' },
@@ -355,7 +357,7 @@
 
         // Update location count
         document.getElementById('location-count').textContent =
-            `${locations.length} locations county-wide • Click markers for addresses`;
+            `${locations.length} ${t.countSuffix}`;
 
         // Render the same locations as a text list. This is the accessible
         // equivalent of the map, not a secondary feature: it is what screen

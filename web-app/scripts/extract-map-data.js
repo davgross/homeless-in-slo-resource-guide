@@ -14,12 +14,25 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Paths
-const DIRECTORY_MD = path.join(__dirname, '../../Directory.md');
-const RESOURCE_GUIDE_MD = path.join(__dirname, '../../Resource guide.md');
 const OUTPUT_DIR = path.join(__dirname, '../public');
-const LIBRARIES_JS = path.join(OUTPUT_DIR, 'little-free-libraries-data.js');
-const PANTRIES_JS = path.join(OUTPUT_DIR, 'little-free-pantries-data.js');
-const NALOXONE_JS = path.join(OUTPUT_DIR, 'naloxone-locations-data.js');
+
+// The map pages are reachable from both guides, so each dataset is generated
+// in both languages. The Spanish sources carry translated place descriptions
+// ("Servicios de Drogas y Alcohol"), which the map list needs.
+const SOURCES = {
+  en: {
+    directory: path.join(__dirname, '../../Directory.md'),
+    guide: path.join(__dirname, '../../Resource guide.md'),
+    suffix: ''
+  },
+  es: {
+    directory: path.join(__dirname, '../../Directory_es.md'),
+    guide: path.join(__dirname, '../../Resource guide_es.md'),
+    suffix: '-es'
+  }
+};
+
+const out = (base, suffix) => path.join(OUTPUT_DIR, `${base}${suffix}.js`);
 
 /**
  * Extract coordinates from markdown content for a specific section
@@ -74,14 +87,18 @@ function extractCoordinates(content, sectionId, label) {
       }
     }
 
-    // Use the address from the link text
+    // Use the address from the link text, prefixed with the city it was
+    // listed under. Without the city an address like "1559 10th St." is
+    // ambiguous across the county — and the map list is text-only, so it
+    // cannot rely on the marker's position to disambiguate.
     const address = linkText.trim();
+    const label = currentCity ? `${currentCity}, ${address}` : address;
 
     locations.push({
       lat: parseFloat(lat),
       lon: parseFloat(lon),
       zoom: parseInt(zoom),
-      label: address
+      label: label
     });
   }
 
@@ -96,7 +113,9 @@ function extractNaloxoneLocations(content) {
   const locations = [];
 
   // Find the naloxone section (it's a ### section)
-  const sectionRegex = /### <a id="naloxone-narcan">Naloxone \/ Narcan<\/a>/i;
+  // Match on the anchor id, which is stable across translations; the heading
+  // text itself is localised ("Naloxona / Narcan" in the Spanish guide).
+  const sectionRegex = /### <a id="naloxone-narcan">[^<]*<\/a>/i;
   const sectionMatch = content.match(sectionRegex);
 
   if (!sectionMatch) {
@@ -203,23 +222,27 @@ export const config = {
 function main() {
   console.log('Extracting map data from markdown files...\n');
 
-  // Read Directory.md
-  const directoryContent = fs.readFileSync(DIRECTORY_MD, 'utf8');
+  for (const [lang, src] of Object.entries(SOURCES)) {
+    console.log(`— ${lang} —`);
 
-  // Extract libraries
-  const libraries = extractCoordinates(directoryContent, 'Little-Free-Libraries', 'Little Free Library');
-  generateDataFile(libraries, LIBRARIES_JS, 'little-free-libraries-map', 'blue', 'Directory.md');
+    const directoryContent = fs.readFileSync(src.directory, 'utf8');
+    const directoryName = path.basename(src.directory);
 
-  // Extract pantries
-  const pantries = extractCoordinates(directoryContent, 'Little-Free-Pantries', 'Little Free Pantry');
-  generateDataFile(pantries, PANTRIES_JS, 'little-free-pantries-map', 'orange', 'Directory.md');
+    const libraries = extractCoordinates(directoryContent, 'Little-Free-Libraries', 'Little Free Library');
+    generateDataFile(libraries, out('little-free-libraries-data', src.suffix),
+                     'little-free-libraries-map', 'blue', directoryName);
 
-  // Read Resource guide.md
-  const resourceGuideContent = fs.readFileSync(RESOURCE_GUIDE_MD, 'utf8');
+    const pantries = extractCoordinates(directoryContent, 'Little-Free-Pantries', 'Little Free Pantry');
+    generateDataFile(pantries, out('little-free-pantries-data', src.suffix),
+                     'little-free-pantries-map', 'orange', directoryName);
 
-  // Extract naloxone locations
-  const naloxoneLocations = extractNaloxoneLocations(resourceGuideContent);
-  generateDataFile(naloxoneLocations, NALOXONE_JS, 'naloxone-locations-map', 'red', 'Resource guide.md');
+    const guideContent = fs.readFileSync(src.guide, 'utf8');
+    const guideName = path.basename(src.guide);
+
+    const naloxoneLocations = extractNaloxoneLocations(guideContent);
+    generateDataFile(naloxoneLocations, out('naloxone-locations-data', src.suffix),
+                     'naloxone-locations-map', 'red', guideName);
+  }
 
   console.log('\n✓ Map data extraction complete!');
   console.log('  Map HTML files can now import these data files.');

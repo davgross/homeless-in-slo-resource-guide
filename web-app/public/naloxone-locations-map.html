@@ -340,13 +340,15 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script type="module">
-        // Import location data (auto-generated from Resource guide.md)
-        import { locations, config } from './naloxone-locations-data.js';
-        // Import shared feedback functionality
+        // Import translations first: the dataset to load depends on language
+        import { applyMapTranslations, getMapLanguage } from './map-i18n.js';
         import { initMapFeedback } from './map-feedback.js';
-        // Import translations (these pages are linked from both guides)
-        import { applyMapTranslations } from './map-i18n.js';
 
+        // Location data is generated in both languages, because the place
+        // descriptions themselves are translated in the Spanish sources.
+        const { locations, config } = getMapLanguage() === 'es'
+          ? await import('./naloxone-locations-data-es.js')
+          : await import('./naloxone-locations-data.js');
         // Swap page chrome to the reader's language before anything renders
         const t = applyMapTranslations({
           en: { title: 'Naloxone/Narcan Locations - SLO County', heading: '💉 Naloxone/Narcan Locations in SLO County', listHeading: 'All naloxone locations', mapAltSubject: 'Map of Naloxone/Narcan locations' },

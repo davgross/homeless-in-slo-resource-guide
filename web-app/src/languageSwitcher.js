@@ -79,6 +79,15 @@ function createLanguageSwitcher() {
   popup.appendChild(optionsContainer);
 
   function setOpen(open) {
+    if (open) {
+      // Never leave two toolbar popups stacked on each other
+      document.querySelectorAll('#app-toolbar [id$="-popup"]').forEach(other => {
+        if (other === popup || other.hidden) return;
+        other.hidden = true;
+        const trigger = document.querySelector(`[aria-controls="${other.id}"]`);
+        if (trigger) trigger.setAttribute('aria-expanded', 'false');
+      });
+    }
     popup.hidden = !open;
     button.setAttribute('aria-expanded', open ? 'true' : 'false');
     if (open) {

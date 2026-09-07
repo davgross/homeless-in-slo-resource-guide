@@ -385,4 +385,25 @@ A rerunnable headless test now lives at `web-app/scripts/a11y-smoke.mjs` (`npm r
 
 Static checks (`npm run validate:all`, `html-validate` on the map pages) also pass, with no new violations on the map pages.
 
+### Follow-up round — same day, from reviewer testing in a real browser
+
+Nine issues found by manual browser review of the fixes above, all now resolved:
+
+| Reported | Cause | Fix |
+|---|---|---|
+| Redundant visible "Search" label | The visible label duplicated the placeholder | Label is now visually hidden (still names the field); a magnifier icon gives the persistent visual cue the placeholder loses on first keystroke |
+| Focus rings on the floating buttons nearly invisible | `#id` rules (specificity 1,0,0) outranked `button:focus-visible` (0,1,1), so only the white half of the ring landed — invisible on white | Added an `#app-toolbar button:focus-visible` rule (1,1,1) that also preserves each button's drop shadow |
+| Focus rings faded in | 16 `transition: all` declarations animated the ring itself | Transitions now name only decorative properties; indicators appear instantly |
+| Blue sliver over the header | Skip link is 43px tall but was parked at `top: -40px` — pre-existing | Uses `transform: translateY(-100%)`, so it hides fully at any text size |
+| Logo focusable but seemingly inert | It is a real control (navigates to Resources) | Left as-is; standard home-link pattern — see note below |
+| Slow render, worse on language switch | `getStrings()` re-read `localStorage` per link — **1,712 reads per load** | `getCurrentLanguage()` caches; now 5 reads, and render is **13.5% faster than the pre-audit baseline** |
+| Ambiguous map addresses ("1559 10th St.") | The extractor computed the city then discarded it | City is now part of the label ("Grover Beach, 1559 10th St.") |
+| Untranslated map list text | Data files were generated only from the English sources | `extract-map-data.js` now emits both languages; pages load the matching dataset. Also fixed a hardcoded English heading regex that made the Spanish naloxone section unmatchable |
+| Buttons leaving the screen above 120% text | A table refused to shrink, widening the *layout viewport* past the device width — pre-existing WCAG 1.4.10 Reflow failure | Tables now scroll inside their own container (keyboard-focusable only when they actually scroll) |
+| Popups overlapping | Two separate position bugs; the mobile (≤640px) block also left the language button at desktop size and put the font popup directly on top of it | Both breakpoints re-stacked; opening one popup now closes the other |
+
+The regression suite grew to **29 assertions** and caught three of these before they shipped: a function accidentally defined inside another function's scope, the mobile popup overlap (which passes at desktop width and fails at 390px), and the focus-ring specificity.
+
+**A note on the logo:** it is not decorative — it navigates to Resources, the standard "logo goes home" pattern. It is kept in the tab order for that reason. If the duplication with the adjacent *Resources* button is unwanted, `tabindex="-1"` on `.header-logo` removes it from keyboard order while leaving it usable by mouse and screen reader.
+
 **Still requires a human with a browser:** screen-reader passes, 200%/400% zoom, Windows High Contrast Mode, and low-end Android testing. See *Testing still needed* above.

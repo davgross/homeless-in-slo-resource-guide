@@ -1,5 +1,12 @@
 import { getStrings } from './strings.js';
 
+// Resolved once: enhanceLinks() runs over thousands of links per render
+let strings = null;
+function labels() {
+  if (!strings) strings = getStrings();
+  return strings.links;
+}
+
 /**
  * Link Enhancer - Enhances links with smart functionality
  * - Phone numbers become clickable tel: links
@@ -25,7 +32,7 @@ function enhancePhoneLinks(container) {
 
   phoneLinks.forEach(link => {
     // Add proper attributes
-    link.setAttribute('aria-label', getStrings().links.call(link.textContent.trim()));
+    link.setAttribute('aria-label', labels().call(link.textContent.trim()));
 
     // Ensure proper format
     const href = link.getAttribute('href');
@@ -71,7 +78,7 @@ function convertPlainPhoneNumbers(container) {
         const cleanNumber = match.replace(/\D/g, '');
         link.href = `tel:+1-${cleanNumber}`;
         link.textContent = match;
-        link.setAttribute('aria-label', getStrings().links.call(match));
+        link.setAttribute('aria-label', labels().call(match));
         fragment.appendChild(link);
 
         lastIndex = offset + match.length;
@@ -97,7 +104,7 @@ function enhanceEmailLinks(container) {
   const emailLinks = container.querySelectorAll('a[href^="mailto:"]');
 
   emailLinks.forEach(link => {
-    link.setAttribute('aria-label', getStrings().links.email(link.textContent.trim()));
+    link.setAttribute('aria-label', labels().email(link.textContent.trim()));
   });
 }
 

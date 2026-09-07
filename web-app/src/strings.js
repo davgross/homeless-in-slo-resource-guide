@@ -89,6 +89,10 @@ const strings = {
       label: 'Display and sharing settings'
     },
 
+    tables: {
+      scrollLabel: 'Table, scrolls sideways'
+    },
+
     // Share functionality
     share: {
       button: {
@@ -368,6 +372,10 @@ const strings = {
       label: 'Ajustes de pantalla y para compartir'
     },
 
+    tables: {
+      scrollLabel: 'Tabla, se desplaza hacia los lados'
+    },
+
     // Share functionality
     share: {
       button: {
@@ -576,7 +584,18 @@ const strings = {
  * 3. Browser language preference
  * 4. Default to English
  */
+let cachedLanguage = null;
+
 export function getCurrentLanguage() {
+  // Resolved once per page load. This used to hit localStorage on every call,
+  // and enhanceLinks() calls it once per link — ~1,700 synchronous storage
+  // reads on a cold load, which was measurably slowing first render.
+  if (cachedLanguage !== null) return cachedLanguage;
+  cachedLanguage = resolveLanguage();
+  return cachedLanguage;
+}
+
+function resolveLanguage() {
   try {
     // Check localStorage for saved preference
     const savedLang = localStorage.getItem('language');
@@ -650,6 +669,7 @@ export function setLanguage(lang) {
 
   try {
     localStorage.setItem('language', lang);
+    cachedLanguage = lang;
 
     // Update HTML lang attribute
     document.documentElement.setAttribute('lang', lang);

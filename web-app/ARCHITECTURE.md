@@ -52,14 +52,14 @@ web-app/
 │   ├── i18nInit.js         # i18n initialization
 │   └── languageSwitcher.js # Language switcher UI
 ├── scripts/                # Build and validation scripts
-│   ├── extract-map-data.js # Extract coordinates from markdown
+│   ├── extract-map-data.js # Extract coordinates (both languages)
 │   ├── a11y-smoke.mjs      # Headless accessibility behaviour tests
 │   └── validate-html.js    # HTML validation script
 ├── public/                 # Static assets (icons, robots.txt, maps)
 │   ├── map-feedback.js     # Shared feedback library for map pages
 │   ├── map-i18n.js         # Translations for the standalone map pages
 │   ├── *-map.html          # Map viewer pages (libraries, pantries, naloxone)
-│   └── *-data.js           # Auto-generated map coordinate data
+│   └── *-data{,-es}.js     # Auto-generated map coordinate data, per language
 ├── functions/              # Cloudflare Pages Functions (serverless)
 │   ├── api/
 │   │   └── feedback.js     # Feedback API endpoint
@@ -1173,6 +1173,30 @@ Accessibility remediation following the September 2026 audit
   shell for any map URL with a query string.
 - Added `npm run test:a11y` (`scripts/a11y-smoke.mjs`), 23 headless
   behavioural assertions.
+
+### Version 1.4.1 (2026-09-07)
+
+Follow-up from browser review of the 1.4 accessibility work:
+
+- **Performance**: `getCurrentLanguage()` now caches its result. It was
+  re-reading `localStorage` on every call, and `enhanceLinks()` calls it once
+  per link — ~1,700 synchronous reads per load. Render is now 13.5% faster
+  than the pre-1.4 baseline.
+- **Tables scroll in their own container** (`.table-scroll`), so a wide table
+  no longer widens the layout viewport. That widening pushed the fixed
+  toolbar buttons off-screen on phones above ~120% text and was a WCAG 1.4.10
+  Reflow failure predating 1.4. Wrappers become keyboard-focusable only when
+  they actually scroll, via `updateTableScrollAffordance()`.
+- **Focus indicators** are no longer animated (16 `transition: all`
+  declarations replaced with explicit property lists) and a higher-specificity
+  `#app-toolbar button:focus-visible` rule beats the per-button `#id` rules.
+- **Skip link** uses a transform rather than a fixed negative offset, so it
+  cannot leave a sliver visible when the text is larger than assumed.
+- **Search label** is visually hidden with a magnifier icon as the visual cue.
+- **Map data is generated in both languages** by `extract-map-data.js`
+  (`*-data.js` and `*-data-es.js`), and library/pantry labels now include the
+  city. Map pages pick the dataset matching the reader's language.
+- Toolbar popups are mutually exclusive and repositioned at both breakpoints.
 
 ### Version 1.2 (2025-12-05)
 

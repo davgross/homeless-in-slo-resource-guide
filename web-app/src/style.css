@@ -18,6 +18,7 @@
   --text-color: #333333;
   --border-color: #e0e0e0;
   --link-color: #1a62ff;
+  --search-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2.5' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='M20 20l-4.35-4.35'/%3E%3C/svg%3E");
   --focus-ring-inner: #ffffff;
   --focus-ring-outer: #0b2a6b;
   --bg-secondary: #f4f6f8;
@@ -74,6 +75,18 @@ textarea:focus-visible,
   box-shadow: 0 0 0 6px var(--focus-ring-outer);
 }
 
+/* The floating toolbar buttons are targeted by #id rules, which outrank the
+   generic focus rule above. Restate the ring here at higher specificity, and
+   keep each button's drop shadow so it is not clobbered by the ring. */
+#app-toolbar button:focus-visible,
+#app-toolbar a:focus-visible {
+  outline: 3px solid var(--focus-ring-inner);
+  outline-offset: 2px;
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.3),
+    0 0 0 8px var(--focus-ring-outer);
+}
+
 /* Browsers without :focus-visible still get an indicator */
 a:focus,
 button:focus,
@@ -95,18 +108,24 @@ textarea:focus:not(:focus-visible) {
 
 .skip-link {
   position: absolute;
-  top: -40px;
-  left: 0;
+  top: 0;
+  left: 8px;
   background: var(--primary-color);
   color: white;
   padding: 8px 16px;
   text-decoration: none;
   z-index: 1001;
   font-weight: 600;
+  border-radius: 0 0 6px 6px;
+  /* Fully off-screen regardless of how tall the text renders. The old
+     top: -40px assumed a height the link outgrew, leaving a blue sliver
+     across the top of the header. */
+  transform: translateY(-100%);
 }
 
 .skip-link:focus {
-  top: 0;
+  /* Sits just below the top edge so its focus ring is not clipped */
+  transform: translateY(8px);
 }
 
 .visually-hidden {
@@ -187,7 +206,7 @@ textarea:focus:not(:focus-visible) {
   color: white;
   cursor: pointer;
   border-radius: 8px;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
 
 .nav-btn:hover {
@@ -205,17 +224,42 @@ textarea:focus:not(:focus-visible) {
   position: relative;
 }
 
+/* Visually hidden: the placeholder already reads "Search…", so a visible
+   label would be redundant noise. The magnifier below is the persistent
+   visual cue that survives the placeholder disappearing on first keystroke. */
 .search-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.search-field {
+  position: relative;
   display: block;
-  color: white;
-  font-weight: 700;
-  font-size: 0.875rem;
-  padding: 0 0.125rem 0.125rem;
+}
+
+.search-field::before {
+  content: "";
+  position: absolute;
+  left: 0.625rem;
+  top: 50%;
+  width: 1.05em;
+  height: 1.05em;
+  transform: translateY(-50%);
+  pointer-events: none;
+  background-color: #595959;
+  -webkit-mask: var(--search-icon) center / contain no-repeat;
+  mask: var(--search-icon) center / contain no-repeat;
 }
 
 #search-input {
   width: 100%;
-  padding: 0.5rem;
+  padding: 0.5rem 0.5rem 0.5rem 2.25rem;
   font-size: 1rem;
   border: 2px solid white;
   border-radius: 8px;
@@ -457,7 +501,7 @@ a[href^="tel:"] {
   text-decoration: none;
   color: #065f46;
   font-weight: 500;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   cursor: pointer;
   line-height: inherit;
   white-space: normal;
@@ -489,7 +533,7 @@ a[href^="mailto:"] {
   text-decoration: none;
   color: #9f1239;
   font-weight: 500;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   cursor: pointer;
   line-height: inherit;
   white-space: normal;
@@ -521,7 +565,7 @@ a[href^="sms:"] {
   text-decoration: none;
   color: #5b21b6;
   font-weight: 500;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   cursor: pointer;
   line-height: inherit;
   white-space: normal;
@@ -554,7 +598,7 @@ a[data-directory-link] {
   text-decoration: none;
   color: var(--primary-color);
   font-weight: 500;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   cursor: pointer;
   line-height: inherit;
 }
@@ -580,7 +624,7 @@ a.map-link {
   text-decoration: none;
   color: #92400e;
   font-weight: 500;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   cursor: pointer;
   line-height: inherit;
 }
@@ -664,6 +708,30 @@ ol ol ol ol ol {
   list-style-type: lower-alpha; /* back to a, b, c... */
 }
 
+/* Tables scroll inside their own box so a wide table never widens the page */
+.table-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  margin-bottom: var(--spacing-lg);
+  /* Momentum scrolling on iOS */
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-scroll table {
+  margin-bottom: 0;
+}
+
+.table-scroll:focus-visible {
+  outline: 3px solid var(--focus-ring-inner);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 6px var(--focus-ring-outer);
+}
+
+/* Long unbroken strings (URLs, emails) must not widen the page either */
+.content-section {
+  overflow-wrap: break-word;
+}
+
 /* Tables */
 table {
   width: 100%;
@@ -711,6 +779,11 @@ tbody tr:hover {
 
 /* Responsive tables - Card layout on mobile */
 @media (max-width: 640px) {
+  /* Cards stack, so no sideways scrolling is needed */
+  .table-scroll {
+    overflow-x: visible;
+  }
+
   /* Hide table headers */
   table thead {
     position: absolute;
@@ -848,7 +921,7 @@ tbody tr:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   flex-shrink: 0;
 }
 
@@ -889,7 +962,7 @@ tbody tr:hover {
   align-items: center;
   justify-content: center;
   font-size: 18px;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   flex-shrink: 0;
 }
 
@@ -918,7 +991,7 @@ tbody tr:hover {
   align-items: center;
   justify-content: center;
   font-size: 18px;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   flex-shrink: 0;
 }
 
@@ -1536,7 +1609,7 @@ tbody tr:hover {
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   z-index: 999;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1574,7 +1647,7 @@ tbody tr:hover {
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   z-index: 999;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
   display: none;
   align-items: center;
   justify-content: center;
@@ -1662,7 +1735,7 @@ tbody tr:hover {
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   z-index: 999;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1701,7 +1774,7 @@ tbody tr:hover {
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   z-index: 999;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
   display: none;
   align-items: center;
   justify-content: center;
@@ -1768,7 +1841,7 @@ tbody tr:hover {
   cursor: pointer;
   font-size: 1rem;
   font-weight: 600;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   min-width: 50px;
 }
 
@@ -1870,7 +1943,7 @@ body.opendyslexic-enabled .toc-lozenge-text {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   z-index: 1002;
   opacity: 0;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
   font-weight: 600;
   display: flex;
   align-items: center;
@@ -1893,7 +1966,7 @@ body.opendyslexic-enabled .toc-lozenge-text {
   font-size: 0.875rem;
   font-weight: 600;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   white-space: nowrap;
 }
 
@@ -2045,7 +2118,7 @@ body.opendyslexic-enabled .toc-lozenge-text {
   border-radius: 50%;
   font-size: 14px;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   flex-shrink: 0;
   /* Shift up slightly from baseline to align better with cap height */
   transform: translateY(-0.35em);
@@ -2073,7 +2146,7 @@ body.opendyslexic-enabled .toc-lozenge-text {
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   z-index: 999;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2142,7 +2215,7 @@ body.opendyslexic-enabled .toc-lozenge-text {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
 
 .feedback-close-btn:hover {
@@ -2331,7 +2404,7 @@ textarea[aria-invalid="true"]:focus {
   border: none;
   border-radius: 6px;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
 
 .feedback-btn-primary {
@@ -2434,9 +2507,28 @@ textarea[aria-invalid="true"]:focus {
     height: 20px;
   }
 
-  .font-size-popup {
+  /* Language button was left at the desktop size/offset, breaking the
+     left-hand stack. Keep the whole column consistent: 45px buttons at
+     15 / 70 / 125 from the bottom. */
+  #language-btn {
+    width: 45px;
+    height: 45px;
     bottom: 125px;
     left: 15px;
+  }
+
+  /* Popups sit to the RIGHT of the button column (which occupies x 15–60),
+     so a popup never covers the button that opens a sibling popup. */
+  .font-size-popup {
+    bottom: 70px;
+    left: 70px;
+    min-width: 160px;
+    padding: 0.75rem;
+  }
+
+  .language-popup {
+    bottom: 125px;
+    left: 70px;
     min-width: 160px;
     padding: 0.75rem;
   }
@@ -2504,7 +2596,7 @@ textarea[aria-invalid="true"]:focus {
   border-radius: 12px;
   text-decoration: none !important;
   color: var(--link-color);
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   cursor: pointer;
   text-align: center;
   gap: 0.5rem;
@@ -2714,7 +2806,7 @@ textarea[aria-invalid="true"]:focus {
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   z-index: 999;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2781,7 +2873,7 @@ textarea[aria-invalid="true"]:focus {
   background-color: white;
   color: var(--text-color);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   text-align: left;
 }
 

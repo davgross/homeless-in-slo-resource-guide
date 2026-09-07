@@ -95,9 +95,22 @@ export function initFontSizeControl() {
 }
 
 /**
+ * Close any other toolbar popup, so two never sit on screen at once
+ */
+function closeOtherPopups(keep) {
+  document.querySelectorAll('#app-toolbar [id$="-popup"]').forEach(other => {
+    if (other === keep || other.hidden) return;
+    other.hidden = true;
+    const trigger = document.querySelector(`[aria-controls="${other.id}"]`);
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+  });
+}
+
+/**
  * Show or hide the popup, keeping aria-expanded and focus in sync
  */
 function setPopupOpen(popup, trigger, open) {
+  if (open) closeOtherPopups(popup);
   popup.hidden = !open;
   trigger.setAttribute('aria-expanded', open ? 'true' : 'false');
   if (open) {
@@ -160,6 +173,9 @@ function applyFontSize() {
 
   // Update preview display
   updatePreview(percentage);
+
+  // Layout that depends on text size (e.g. which tables now overflow)
+  document.dispatchEvent(new CustomEvent('vivaslo:textsizechange'));
 }
 
 /**
