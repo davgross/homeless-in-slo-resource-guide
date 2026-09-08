@@ -106,6 +106,11 @@ Run this after any change to the app shell — the header, the floating
 controls, modals, search, or the focus and layout CSS. It has caught several
 regressions that manual review missed.
 
+The suite also asserts that the app makes **no third-party requests**: fonts
+and Leaflet are self-hosted in `public/fonts/` and `public/vendor/leaflet/`
+so that everything works offline. If you add a CDN dependency, that check
+will fail — vendor the asset instead.
+
 This also runs automatically on every pull request that touches `web-app/`
 or the guide content (`.github/workflows/accessibility.yml`). Content is
 included in the trigger because the suite loads the real markdown — a long

@@ -32,6 +32,11 @@ function validateHtml() {
   console.log('Validating source HTML...');
   try {
     execSync('npx html-validate index.html', { stdio: 'inherit' });
+
+    // The standalone map pages were outside this check until issue #419.
+    // They are real pages readers reach from the guide, so they get the
+    // same treatment as the app shell.
+    execSync('npx html-validate public/*.html', { stdio: 'inherit' });
     console.log('✓ Source HTML is valid\n');
   } catch (error) {
     console.error('✗ Source HTML validation failed');

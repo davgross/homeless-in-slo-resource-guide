@@ -166,6 +166,7 @@ const strings = {
         preview: (percentage) => `${percentage}%`,
         dyslexicToggleLabel: 'Use',
         dyslexicFontName: 'OpenDyslexic',
+        dyslexicUnavailable: 'Sorry, the OpenDyslexic font could not be loaded. Please try again later.',
         dyslexicToggleSuffix: 'font',
         dyslexicAriaLabel: 'Toggle OpenDyslexic font'
       }
@@ -449,6 +450,7 @@ const strings = {
         preview: (percentage) => `${percentage}%`,
         dyslexicToggleLabel: 'Usar fuente',
         dyslexicFontName: 'OpenDyslexic',
+        dyslexicUnavailable: 'Lo sentimos, no se pudo cargar la fuente OpenDyslexic. Por favor, inténtelo más tarde.',
         dyslexicToggleSuffix: '',
         dyslexicAriaLabel: 'Activar fuente OpenDyslexic'
       }

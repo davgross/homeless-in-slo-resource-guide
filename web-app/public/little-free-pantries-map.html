@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Little Free Pantries - SLO County</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
     <style>
         body {
             margin: 0;
@@ -274,6 +274,57 @@
                 right: 15px;
             }
         }
+
+        /* Feedback form — moved out of inline styles (issue #419) so the
+           markup validates and the styling lives in one place. */
+        .feedback-intro,
+        .feedback-note {
+            color: #595959;
+        }
+        .feedback-intro {
+            margin-bottom: 15px;
+        }
+        .feedback-field {
+            margin-bottom: 15px;
+        }
+        .feedback-field label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+        .feedback-field input,
+        .feedback-field textarea {
+            width: 100%;
+            padding: 8px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 14px;
+            box-sizing: border-box;
+        }
+        .feedback-field textarea {
+            min-height: 150px;
+            padding: 12px;
+            resize: vertical;
+        }
+        .feedback-field input:focus-visible,
+        .feedback-field textarea:focus-visible {
+            outline: 3px solid #ffffff;
+            outline-offset: 2px;
+            box-shadow: 0 0 0 6px #0b2a6b;
+        }
+        #feedback-success {
+            display: none;
+            text-align: center;
+        }
+        #feedback-success .success-headline {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        #feedback-success .success-detail {
+            color: #595959;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
@@ -298,22 +349,22 @@
         <div class="feedback-content">
             <form id="feedback-form">
                 <h2>💬 Send Feedback</h2>
-                <p style="color: #666; margin-bottom: 15px;">Help us improve this map by reporting errors or suggesting improvements.</p>
+                <p class="feedback-intro">Help us improve this map by reporting errors or suggesting improvements.</p>
 
-                <div style="margin-bottom: 15px;">
-                    <label for="feedback-name" style="display: block; margin-bottom: 5px; font-weight: 500;">Your Name (optional)</label>
-                    <input type="text" id="feedback-name" placeholder="Your name" style="width: 100%; padding: 8px; border: 2px solid #ddd; border-radius: 8px; font-family: inherit; font-size: 14px; box-sizing: border-box;">
+                <div class="feedback-field">
+                    <label for="feedback-name">Your Name (optional)</label>
+                    <input type="text" id="feedback-name" placeholder="Your name">
                 </div>
 
-                <div style="margin-bottom: 15px;">
-                    <label for="feedback-email" style="display: block; margin-bottom: 5px; font-weight: 500;">Your Email (optional)</label>
-                    <input type="email" id="feedback-email" placeholder="your.email@example.com" style="width: 100%; padding: 8px; border: 2px solid #ddd; border-radius: 8px; font-family: inherit; font-size: 14px; box-sizing: border-box;">
-                    <small style="color: #666;">If you'd like a response, please provide your email.</small>
+                <div class="feedback-field">
+                    <label for="feedback-email">Your Email (optional)</label>
+                    <input type="email" id="feedback-email" placeholder="your.email@example.com">
+                    <small class="feedback-note">If you'd like a response, please provide your email.</small>
                 </div>
 
-                <div style="margin-bottom: 15px;">
-                    <label for="feedback-message" style="display: block; margin-bottom: 5px; font-weight: 500;">Your Feedback *</label>
-                    <textarea id="feedback-message" placeholder="Describe the issue or suggestion..." required style="width: 100%; min-height: 150px; padding: 12px; border: 2px solid #ddd; border-radius: 8px; font-family: inherit; font-size: 14px; resize: vertical; box-sizing: border-box;"></textarea>
+                <div class="feedback-field">
+                    <label for="feedback-message">Your Feedback *</label>
+                    <textarea id="feedback-message" placeholder="Describe the issue or suggestion..." required></textarea>
                 </div>
 
                 <div class="feedback-buttons">
@@ -322,9 +373,9 @@
                 </div>
             </form>
 
-            <div id="feedback-success" style="display: none; text-align: center;">
-                <p style="font-size: 18px; margin-bottom: 10px;">✅ Thank you for your feedback!</p>
-                <p style="color: #666; margin-bottom: 20px;">Your feedback has been submitted successfully. We appreciate your help in improving this map.</p>
+            <div id="feedback-success">
+                <p class="success-headline">✅ Thank you for your feedback!</p>
+                <p class="success-detail">Your feedback has been submitted successfully. We appreciate your help in improving this map.</p>
                 <button type="button" class="feedback-submit" id="feedback-done">Close</button>
             </div>
         </div>
@@ -338,7 +389,9 @@
       <ol id="location-list"></ol>
     </section>
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Leaflet is self-hosted so the maps work offline and survive CDN
+         filtering on public wifi. See issue #419. -->
+    <script src="vendor/leaflet/leaflet.js"></script>
     <script type="module">
         // Import translations first: the dataset to load depends on language
         import { applyMapTranslations, getMapLanguage } from './map-i18n.js';

@@ -56,6 +56,8 @@ web-app/
 │   ├── a11y-smoke.mjs      # Headless accessibility behaviour tests
 │   └── validate-html.js    # HTML validation script
 ├── public/                 # Static assets (icons, robots.txt, maps)
+│   ├── fonts/              # Self-hosted woff2 + OFL licence texts
+│   ├── vendor/leaflet/     # Self-hosted Leaflet 1.9.4 + BSD licence
 │   ├── map-feedback.js     # Shared feedback library for map pages
 │   ├── map-i18n.js         # Translations for the standalone map pages
 │   ├── *-map.html          # Map viewer pages (libraries, pantries, naloxone)
@@ -1173,6 +1175,35 @@ Accessibility remediation following the September 2026 audit
   shell for any map URL with a query string.
 - Added `npm run test:a11y` (`scripts/a11y-smoke.mjs`), 23 headless
   behavioural assertions.
+
+### Version 1.5 (2026-09-07)
+
+All runtime assets moved onto our own origin (issues #419, #420):
+
+- **Fonts are self-hosted.** OpenDyslexic came from `fonts.cdnfonts.com` and
+  Montserrat from Google Fonts; neither survived going offline, and the
+  service worker cached only the Google Fonts *CSS*, never the `.woff2` files
+  it referenced. OpenDyslexic — an accessibility feature — therefore failed
+  **silently**: the toggle reported success while the text never changed.
+  Both are now in `public/fonts/`, subset to Latin + Latin-Extended
+  (175 KB total), declared with `@font-face` in `style.css`, and precached.
+- **Leaflet is self-hosted** in `public/vendor/leaflet/`, so the maps work
+  with no network and survive CDN filtering on public Wi-Fi.
+- **`woff2` added to the workbox `globPatterns`**, and the dead
+  `fonts.googleapis.com` runtime cache removed. Precache grew from 32 entries
+  (3.1 MB) to 48 (3.5 MB) — the cost of both features working offline.
+- **The app now makes zero third-party requests.** Only OSM map tiles are
+  remote, which is unavoidable. Asserted by the test suite.
+- **The OpenDyslexic toggle verifies the font actually loaded**
+  (`document.fonts.load` / `.check`). If it fails, the toggle reverts and the
+  reader is told, via both a visible message and the live region, instead of
+  being left to wonder why nothing changed.
+- Map-page feedback form styles moved out of inline attributes; `public/*.html`
+  added to `scripts/validate-html.js`, which previously checked only the app
+  shell.
+- Licence obligations changed with self-hosting: OFL and BSD-2-Clause require
+  notices to travel with redistributed files, so `public/fonts/*-OFL.txt` and
+  `public/vendor/leaflet/LICENSE` now ship. See `../LICENSING_AUDIT.md`.
 
 ### Version 1.4.1 (2026-09-07)
 
