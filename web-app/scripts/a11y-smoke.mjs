@@ -30,9 +30,28 @@ const browser = await puppeteer.launch({
 });
 const page = await browser.newPage();
 await page.setViewport({width: 390, height: 844});
-const errors = [];
-page.on('pageerror', e => errors.push(e.message));
-page.on('console', m => { if (m.type()==='error') errors.push('console: '+m.text()); });
+// Uncaught exceptions are always a failure: a script that dies part-way
+// leaves the page half-initialised, and several assertions below would pass
+// anyway. (This is what caught a function accidentally scoped inside another
+// function during development.)
+const pageErrors = [];
+
+// Console errors are noisier. A blocked or failed *resource* fetch is usually
+// the environment, not the app — CI runners block some cross-origin font
+// requests, for instance — so those are reported but do not fail the run.
+// Anything else logged at error level still fails.
+const consoleErrors = [];
+const resourceWarnings = [];
+
+const isResourceNoise = (text) =>
+  /Failed to load resource|ERR_BLOCKED_BY_RESPONSE|ERR_NAME_NOT_RESOLVED|ERR_INTERNET_DISCONNECTED|net::ERR_/i.test(text);
+
+page.on('pageerror', e => pageErrors.push(e.message));
+page.on('console', m => {
+  if (m.type() !== 'error') return;
+  const text = m.text();
+  (isResourceNoise(text) ? resourceWarnings : consoleErrors).push(text);
+});
 
 await page.goto(URL, {waitUntil:'networkidle2', timeout:60000});
 await new Promise(r=>setTimeout(r,2500));
@@ -327,14 +346,22 @@ navRows.length===0
   ? pass('header nav stays on one row at normal text size', '8 widths, 375-1440px')
   : fail('header nav wraps', navRows.join(', '));
 
-console.log('\n--- page errors ---');
-console.log(errors.length? errors.slice(0,10).join('\n') : '(none)');
+console.log('\n--- page errors (uncaught exceptions) ---');
+console.log(pageErrors.length ? pageErrors.slice(0,10).join('\n') : '(none)');
+
+console.log('\n--- console errors ---');
+console.log(consoleErrors.length ? consoleErrors.slice(0,10).join('\n') : '(none)');
+
+if (resourceWarnings.length) {
+  console.log('\n--- resource load warnings (not failures) ---');
+  console.log([...new Set(resourceWarnings)].slice(0,5).join('\n'));
+}
 console.log('\n--- results ---');
 for(const [s,n,d] of results) console.log(`${s.padEnd(4)} ${n}${d?'  ['+d+']':''}`);
 const failed = results.filter(r=>r[0]==='FAIL').length;
 console.log(`\n${results.length - failed}/${results.length} passed`);
 await browser.close();
 
-if (failed > 0 || errors.length > 0) {
+if (failed > 0 || pageErrors.length > 0 || consoleErrors.length > 0) {
   process.exitCode = 1;
 }
