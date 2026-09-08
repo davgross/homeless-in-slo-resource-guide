@@ -43,7 +43,22 @@
 /poison-oak-*
   Cache-Control: public, max-age=604800
 
+# The service worker and its registration script must never sit in a browser
+# cache: a stale sw.js cannot ship its own replacement, so a bad deploy would
+# stick until the cache expired.
+#
+# These need stating explicitly rather than relying on the Pages default.
+# On *.pages.dev the default is max-age=0, but vivaslo.org is proxied through
+# a Cloudflare zone whose Browser Cache TTL (4 hours) applies to any .js file
+# without its own rule — so leaving these unlisted produced max-age=14400 in
+# production while looking correct on the preview deployment.
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/registerSW.js
+  Cache-Control: public, max-age=0, must-revalidate
+
 # Deliberately NOT listed, so they keep the must-revalidate default:
-#   /index.html and the map pages — content changes must reach readers at once
-#   /sw.js, /registerSW.js  — a cached service worker cannot ship its own update
-#   /manifest.webmanifest   — small, and drives install behaviour
+#   /index.html and the map pages — content changes must reach readers at
+#     once, and HTML is not subject to the zone's Browser Cache TTL
+#   /manifest.webmanifest   — likewise, and it drives install behaviour

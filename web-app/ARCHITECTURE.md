@@ -1215,8 +1215,14 @@ All runtime assets moved onto our own origin (issues #419, #420):
   files before the page was usable. Content-hashed `/assets/*` are now
   immutable for a year; vendored fonts and Leaflet get 30 days (not
   `immutable`, since their filenames carry no hash); HTML, `sw.js` and the
-  manifest keep the revalidating default so updates still land immediately.
+  manifest revalidate every time so updates still land immediately.
   This was a pre-existing problem, not one self-hosting introduced.
+  **Note:** `sw.js` and `registerSW.js` need *explicit* rules. On
+  `*.pages.dev` the platform default is already `max-age=0`, but vivaslo.org
+  is proxied through a Cloudflare zone whose Browser Cache TTL applies to any
+  `.js` without its own rule — so relying on the default looked right on a
+  preview deployment and produced a 4-hour service-worker cache in
+  production.
 - **CORS detached on `/fonts/*`.** A cross-origin `@font-face` load requires
   CORS, and Pages sends `Access-Control-Allow-Origin: *` by default, so other
   sites could have used VivaSLO as their font server. Removing the header
