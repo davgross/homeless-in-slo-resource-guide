@@ -1,0 +1,104 @@
+name: Check Vendored Assets
+
+on:
+  schedule:
+    # First of the month, 9:00 AM UTC. These assets move slowly; a monthly
+    # nudge is enough, and more often would just be noise.
+    - cron: '0 9 1 * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  check-vendor:
+    name: Check for Vendored Asset Updates
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '20'
+
+      - name: Check upstream versions
+        id: check
+        working-directory: web-app
+        run: |
+          set +e
+          node scripts/check-vendor-updates.mjs > vendor-report.txt 2>&1
+          code=$?
+          set -e
+          cat vendor-report.txt
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+
+          {
+            echo "## Vendored Asset Check"
+            echo ""
+            echo '```text'
+            cat vendor-report.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Open or update an issue when something is out of date
+        if: steps.check.outputs.code == '1'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.readFileSync('web-app/vendor-report.txt', 'utf8');
+            const title = 'Vendored assets have upstream updates';
+
+            const body = [
+              'The monthly check found newer upstream versions of assets vendored',
+              'into `web-app/public/`. These are copied in rather than installed',
+              'from npm, so nothing else notices when they change.',
+              '',
+              '```text',
+              report.trim(),
+              '```',
+              '',
+              '**Leaflet is the one worth acting on promptly** — it is the vendored',
+              'asset most likely to carry a security fix. The fonts can wait for a',
+              'convenient moment.',
+              '',
+              'After updating, bump the version in `web-app/vendor-manifest.json`',
+              'and run `npm run test:a11y`, which asserts the app still makes no',
+              'third-party requests.',
+              '',
+              '_Filed automatically by `.github/workflows/check-vendor-updates.yml`._'
+            ].join('\n');
+
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'maintenance'
+            });
+            const match = existing.data.find(i => i.title === title);
+
+            if (match) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: match.number,
+                body: `Still out of date as of ${new Date().toISOString().slice(0,10)}:\n\n\`\`\`text\n${report.trim()}\n\`\`\``
+              });
+              core.info(`Commented on existing issue #${match.number}`);
+            } else {
+              const created = await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['maintenance']
+              });
+              core.info(`Opened issue #${created.data.number}`);
+            }
+
+      - name: Note when a check could not be performed
+        if: steps.check.outputs.code == '2'
+        run: |
+          echo "::warning::One or more vendored asset checks could not complete. See the report above."

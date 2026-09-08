@@ -1,3 +1,5 @@
+import { getStrings } from './strings.js';
+
 /**
  * Font Size Control - Allows users to adjust text size
  * Persists preference in localStorage
@@ -10,19 +12,36 @@ const STORAGE_KEY = 'fontSizeIndex';
 const DYSLEXIC_FONT_KEY = 'openDyslexicEnabled';
 
 let currentSizeIndex = DEFAULT_SIZE_INDEX;
-let openDyslexicLoaded = false;
 
 /**
- * Lazy load OpenDyslexic font
+ * Ask the browser to load the OpenDyslexic faces and report whether they
+ * actually arrived.
+ *
+ * The font is declared with @font-face in style.css and served from our own
+ * origin, so there is no stylesheet to inject any more — but the load can
+ * still fail (corrupt cache, storage pressure). It previously failed silently:
+ * the toggle reported success while the text never changed, which is a bad way
+ * for an accessibility feature to behave. See issue #420.
+ *
+ * @returns {Promise<boolean>} true when at least the regular face is usable
  */
-function loadOpenDyslexicFont() {
-  if (openDyslexicLoaded) return;
+async function ensureOpenDyslexicLoaded() {
+  if (!document.fonts || !document.fonts.load) {
+    // No Font Loading API: assume it worked rather than blocking the feature
+    return true;
+  }
 
-  const link = document.createElement('link');
-  link.rel = 'stylesheet';
-  link.href = 'https://fonts.cdnfonts.com/css/opendyslexic';
-  document.head.appendChild(link);
-  openDyslexicLoaded = true;
+  try {
+    await Promise.all([
+      document.fonts.load('400 1rem OpenDyslexic'),
+      document.fonts.load('700 1rem OpenDyslexic'),
+      document.fonts.load('italic 400 1rem OpenDyslexic')
+    ]);
+    return document.fonts.check('400 1rem OpenDyslexic');
+  } catch (e) {
+    console.warn('OpenDyslexic failed to load:', e);
+    return false;
+  }
 }
 
 /**
@@ -45,8 +64,6 @@ export function initFontSizeControl() {
   // Toggle popup on button click
   fontSizeBtn.addEventListener('click', (e) => {
     e.stopPropagation();
-    // Lazy load OpenDyslexic font when popup is first opened
-    loadOpenDyslexicFont();
     setPopupOpen(fontSizePopup, fontSizeBtn, fontSizePopup.hidden);
   });
 
@@ -215,8 +232,6 @@ function loadDyslexicFont() {
 
     // Apply font
     if (enabled) {
-      // Load font immediately if user has it enabled
-      loadOpenDyslexicFont();
       document.body.classList.add('opendyslexic-enabled');
     }
   } catch (e) {
@@ -227,11 +242,19 @@ function loadDyslexicFont() {
 /**
  * Toggle OpenDyslexic font on/off
  */
-function toggleDyslexicFont(enabled) {
+async function toggleDyslexicFont(enabled) {
   if (enabled) {
-    // Ensure font is loaded before enabling
-    loadOpenDyslexicFont();
     document.body.classList.add('opendyslexic-enabled');
+
+    // Never claim success the font did not deliver
+    const ok = await ensureOpenDyslexicLoaded();
+    if (!ok) {
+      document.body.classList.remove('opendyslexic-enabled');
+      const toggle = document.getElementById('opendyslexic-toggle');
+      if (toggle) toggle.checked = false;
+      announceFontFailure();
+      return;
+    }
   } else {
     document.body.classList.remove('opendyslexic-enabled');
   }
@@ -242,4 +265,30 @@ function toggleDyslexicFont(enabled) {
   } catch (e) {
     console.warn('Could not save OpenDyslexic font preference:', e);
   }
+}
+
+/**
+ * Tell the reader the font could not be loaded, rather than leaving them to
+ * wonder why nothing changed.
+ */
+function announceFontFailure() {
+  const message = getStrings().fontSize.popup.dyslexicUnavailable;
+
+  const announcer = document.getElementById('announcer');
+  if (announcer) {
+    announcer.textContent = '';
+    window.requestAnimationFrame(() => { announcer.textContent = message; });
+  }
+
+  const popup = document.getElementById('font-size-popup');
+  if (!popup) return;
+
+  let note = popup.querySelector('.font-toggle-error');
+  if (!note) {
+    note = document.createElement('p');
+    note.className = 'font-toggle-error';
+    note.setAttribute('role', 'alert');
+    popup.querySelector('.font-toggle-section').appendChild(note);
+  }
+  note.textContent = message;
 }

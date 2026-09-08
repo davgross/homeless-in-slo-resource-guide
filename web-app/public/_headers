@@ -1,0 +1,49 @@
+# Cloudflare Pages response headers
+# https://developers.cloudflare.com/pages/configuration/headers/
+#
+# Pages defaults every asset to "Cache-Control: public, max-age=0,
+# must-revalidate", which makes a returning visitor revalidate every file on
+# the site before the page is usable. The 304s are small, but the round trips
+# are not free on the slow, flaky connections many readers of this guide are
+# on. These rules cache what is safe to cache.
+#
+# Rules must not overlap: where two rules match the same URL, Pages joins the
+# header values with a comma rather than picking one.
+
+# Vite content-hashes these filenames, so the name changes whenever the bytes
+# do. Safe to cache indefinitely.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Self-hosted fonts. NOT content-hashed, so not "immutable": 30 days bounds
+# how long a stale copy can linger if we ship a font update.
+#
+# The Access-Control-Allow-Origin header is detached deliberately. Pages sends
+# "*" by default, and a cross-origin @font-face load requires CORS — so
+# removing it stops other sites using VivaSLO as their font server, while
+# same-origin use (every legitimate use we have) is unaffected.
+/fonts/*
+  Cache-Control: public, max-age=2592000
+  ! Access-Control-Allow-Origin
+
+# Self-hosted Leaflet. Same reasoning on the cache lifetime. CORS is not
+# detached here: <script> and <link> loads are not CORS-gated, so removing the
+# header would achieve nothing, and Leaflet's CSS legitimately fetches its own
+# marker images.
+/vendor/*
+  Cache-Control: public, max-age=2592000
+
+# App icons and the poison-oak photographs: stable, but not versioned.
+/icon-*
+  Cache-Control: public, max-age=604800
+
+/apple-touch-icon.png
+  Cache-Control: public, max-age=604800
+
+/poison-oak-*
+  Cache-Control: public, max-age=604800
+
+# Deliberately NOT listed, so they keep the must-revalidate default:
+#   /index.html and the map pages — content changes must reach readers at once
+#   /sw.js, /registerSW.js  — a cached service worker cannot ship its own update
+#   /manifest.webmanifest   — small, and drives install behaviour

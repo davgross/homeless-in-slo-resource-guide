@@ -119,10 +119,10 @@ SOFTWARE.
 **License:** BSD 2-Clause
 **Version in use:** 1.9.4
 **Used for:** The interactive maps on the Little Free Libraries, Little Free Pantries and Naloxone locations pages.
-**Ships to users:** Yes — currently loaded at runtime from the unpkg CDN rather than bundled.
+**Ships to users:** Yes — self-hosted at `web-app/public/vendor/leaflet/`.
 
-*Note:* BSD 2-Clause requires the copyright notice to be reproduced in redistributions.
-Loading from a CDN is arguably not redistribution, but if Leaflet is ever self-hosted (see issue #419) this notice must ship with it.
+*Note:* BSD 2-Clause requires the copyright notice to be reproduced in redistributions, and serving the library from our own origin is redistribution.
+The notice ships as `web-app/public/vendor/leaflet/LICENSE` alongside `leaflet.js`, in addition to the copy below.
 
 ```plaintext
 BSD 2-Clause License
@@ -450,9 +450,9 @@ All licenses listed above are permissive open-source licenses that allow:
 **Attribution Requirements:**
 
 - Marked, QR Creator, Vite, vite-plugin-pwa, mimetext: Include copyright notice and license text
-- Leaflet: Include copyright notice and license text in redistributions (BSD 2-Clause)
+- Leaflet: **Required** — now self-hosted, so the BSD 2-Clause notice ships as `web-app/public/vendor/leaflet/LICENSE`
 - DOMPurify: Include copyright notice and choose either Apache 2.0 or MPL 2.0 license text
-- Montserrat Alternates, OpenDyslexic: Optional attribution (recommended but not required)
+- Montserrat Alternates, OpenDyslexic: **Required** — both fonts are now self-hosted, and OFL 1.1 requires the copyright notice and licence text to accompany redistributed font files. They ship as `OpenDyslexic-OFL.txt` and `MontserratAlternates-OFL.txt` in `web-app/public/fonts/`, alongside a `README.txt` recording provenance and modifications.
 - OpenStreetMap: "© OpenStreetMap contributors" must be displayed — required, and currently satisfied by the Leaflet attribution control
 
 **License Compatibility:**

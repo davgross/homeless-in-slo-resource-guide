@@ -1,0 +1,62 @@
+{
+  "$comment": [
+    "Third-party assets vendored into public/ rather than installed from npm.",
+    "Nothing else tracks these: Dependabot and `npm outdated` only see",
+    "package.json, so without this file an upstream release — including a",
+    "security fix — would go unnoticed. `npm run check:vendor` compares each",
+    "entry against upstream. See issues #419 and #420."
+  ],
+  "assets": [
+    {
+      "name": "Leaflet",
+      "version": "1.9.4",
+      "license": "BSD-2-Clause",
+      "vendoredOn": "2026-09-07",
+      "homepage": "https://leafletjs.com/",
+      "check": { "type": "npm", "package": "leaflet" },
+      "files": [
+        "public/vendor/leaflet/leaflet.js",
+        "public/vendor/leaflet/leaflet.css",
+        "public/vendor/leaflet/images/",
+        "public/vendor/leaflet/LICENSE"
+      ],
+      "processing": "Copied unmodified from unpkg.com/leaflet@1.9.4/dist/.",
+      "notes": "The asset here most likely to need a security update. Watch its releases."
+    },
+    {
+      "name": "OpenDyslexic",
+      "version": "0.91.12",
+      "license": "OFL-1.1",
+      "vendoredOn": "2026-09-07",
+      "homepage": "https://opendyslexic.org/",
+      "check": { "type": "github-release", "repo": "antijingoist/opendyslexic" },
+      "files": [
+        "public/fonts/OpenDyslexic-Regular.woff2",
+        "public/fonts/OpenDyslexic-Bold.woff2",
+        "public/fonts/OpenDyslexic-Italic.woff2",
+        "public/fonts/OpenDyslexic-BoldItalic.woff2",
+        "public/fonts/OpenDyslexic-OFL.txt"
+      ],
+      "processing": "Subset from the release OTFs to Latin + Latin-Extended with pyftsubset, converted to woff2. No glyph outlines altered, so the reserved font name may be retained.",
+      "notes": "OFL reserves the name 'OpenDyslexic'. If glyphs are ever edited the font must be renamed."
+    },
+    {
+      "name": "Montserrat Alternates",
+      "version": "v18",
+      "license": "OFL-1.1",
+      "vendoredOn": "2026-09-07",
+      "homepage": "https://fonts.google.com/specimen/Montserrat+Alternates",
+      "check": {
+        "type": "google-fonts",
+        "css": "https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@700"
+      },
+      "files": [
+        "public/fonts/MontserratAlternates-700-latin.woff2",
+        "public/fonts/MontserratAlternates-700-latin-ext.woff2",
+        "public/fonts/MontserratAlternates-OFL.txt"
+      ],
+      "processing": "Weight 700 only; latin and latin-ext subsets exactly as served by fonts.gstatic.com.",
+      "notes": "Version is the /vNN/ segment in the gstatic path, which Google bumps when the font is revised."
+    }
+  ]
+}

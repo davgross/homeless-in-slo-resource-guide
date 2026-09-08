@@ -88,29 +88,23 @@ export default defineConfig({
         ]
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,png,svg,json,txt,webmanifest}'],
+        // woff2 is included so the self-hosted fonts are available offline.
+        // OpenDyslexic is an accessibility feature: a reader who installs the
+        // app at a library and turns the font on later, with no network, must
+        // still get it. See issue #420.
+        globPatterns: ['**/*.{js,css,html,ico,png,svg,json,txt,webmanifest,woff2}'],
+        // The fonts and Leaflet push the precache past the 2 MiB default
+        maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
         // The standalone map pages are real pages, not app routes. Without
         // these two lines the navigation fallback serves the app shell for
         // any map URL that carries a query string (e.g. ?lang=es), so the
         // reader gets the guide instead of the map they asked for.
         navigateFallbackDenylist: [/-map\.html$/],
         ignoreURLParametersMatching: [/^utm_/, /^fbclid$/, /^lang$/],
-        runtimeCaching: [
-          {
-            urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
-            handler: 'CacheFirst',
-            options: {
-              cacheName: 'google-fonts-cache',
-              expiration: {
-                maxEntries: 10,
-                maxAgeSeconds: 60 * 60 * 24 * 365 // 1 year
-              },
-              cacheableResponse: {
-                statuses: [0, 200]
-              }
-            }
-          }
-        ]
+        // No runtimeCaching: every asset the app needs is now same-origin and
+        // precached. The previous google-fonts rule cached only the CSS from
+        // fonts.googleapis.com, never the .woff2 files from fonts.gstatic.com,
+        // so it never actually delivered fonts offline.
       },
       devOptions: {
         enabled: false

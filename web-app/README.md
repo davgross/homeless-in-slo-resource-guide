@@ -106,6 +106,11 @@ Run this after any change to the app shell — the header, the floating
 controls, modals, search, or the focus and layout CSS. It has caught several
 regressions that manual review missed.
 
+The suite also asserts that the app makes **no third-party requests**: fonts
+and Leaflet are self-hosted in `public/fonts/` and `public/vendor/leaflet/`
+so that everything works offline. If you add a CDN dependency, that check
+will fail — vendor the asset instead.
+
 This also runs automatically on every pull request that touches `web-app/`
 or the guide content (`.github/workflows/accessibility.yml`). Content is
 included in the trigger because the suite loads the real markdown — a long
@@ -113,6 +118,23 @@ heading or a wide table can break reflow with no code change at all.
 
 See `../ACCESSIBILITY_AUDIT.md` for what the app has been audited against and
 what still needs a human tester.
+
+### Checking Vendored Assets
+
+```bash
+npm run check:vendor
+```
+
+Fonts and Leaflet are copied into `public/` rather than installed from npm, so
+Dependabot and `npm outdated` cannot see them. This compares each entry in
+`vendor-manifest.json` against upstream (npm, GitHub releases, or the Google
+Fonts stylesheet) and reports anything out of date.
+
+It also runs monthly via `.github/workflows/check-vendor-updates.yml`, which
+opens a `maintenance` issue when an update appears. **Leaflet is the vendored
+asset most likely to need a security update**; the fonts move very slowly.
+
+After updating an asset, bump its version in `vendor-manifest.json`.
 
 ## Deployment
 

@@ -17,7 +17,7 @@
 
 import puppeteer from 'puppeteer-core';
 
-const URL = process.env.A11Y_URL || 'http://localhost:4317/';
+const BASE_URL = process.env.A11Y_URL || 'http://localhost:4317/';
 const CHROME = process.env.CHROME_PATH || '/usr/bin/google-chrome';
 const results = [];
 const pass = (n, d='') => results.push(['PASS', n, d]);
@@ -53,7 +53,7 @@ page.on('console', m => {
   (isResourceNoise(text) ? resourceWarnings : consoleErrors).push(text);
 });
 
-await page.goto(URL, {waitUntil:'networkidle2', timeout:60000});
+await page.goto(BASE_URL, {waitUntil:'networkidle2', timeout:60000});
 await new Promise(r=>setTimeout(r,2500));
 
 // --- 1. Search: type, then drive entirely by keyboard ---
@@ -101,7 +101,7 @@ const escClosed = await page.$eval('#search-results', el=>el.hidden);
 escClosed ? pass('Escape closes results') : fail('Escape closes results');
 
 // --- 3. Tab order: how many tabs to reach the font-size control? ---
-await page.goto(URL, {waitUntil:'networkidle2', timeout:60000});
+await page.goto(BASE_URL, {waitUntil:'networkidle2', timeout:60000});
 await new Promise(r=>setTimeout(r,2500));
 let steps=0, foundAt=-1, seen=[];
 for (let i=0;i<25;i++){
@@ -207,7 +207,7 @@ ext.marked>0 ? pass('external links still marked for ↗ indicator', ext.marked+
 
 
 // --- 8. Skip link must be fully off-screen until focused ---
-await page.goto(URL, {waitUntil:'networkidle2', timeout:60000});
+await page.goto(BASE_URL, {waitUntil:'networkidle2', timeout:60000});
 await new Promise(r=>setTimeout(r,2000));
 const skipHidden = await page.evaluate(()=>{
   const r=document.querySelector('.skip-link').getBoundingClientRect();
@@ -240,7 +240,7 @@ const reflow = [];
 for (const [vw, vh, label] of [[320,512,'320px'],[375,667,'iPhone SE'],[412,915,'Pixel 8']]) {
   const mobile = await browser.newPage();
   await mobile.setViewport({width:vw, height:vh, isMobile:true, hasTouch:true, deviceScaleFactor:2});
-  await mobile.goto(URL,{waitUntil:'networkidle2',timeout:60000});
+  await mobile.goto(BASE_URL,{waitUntil:'networkidle2',timeout:60000});
   await new Promise(r=>setTimeout(r,2200));
 
   for (const scale of ['100%','110%','120%','130%','150%']) {
@@ -299,7 +299,7 @@ await cold.evaluateOnNewDocument(()=>{
   window.__ls=0; const o=Storage.prototype.getItem;
   Storage.prototype.getItem=function(...a){window.__ls++;return o.apply(this,a);};
 });
-await cold.goto(URL,{waitUntil:'networkidle2',timeout:60000});
+await cold.goto(BASE_URL,{waitUntil:'networkidle2',timeout:60000});
 await cold.waitForFunction(()=>document.querySelectorAll('#resources-section a').length>100,{timeout:60000});
 const lsReads = await cold.evaluate(()=>window.__ls);
 lsReads < 50 ? pass('language lookup is cached', lsReads+' localStorage reads')
@@ -308,7 +308,7 @@ await cold.close();
 
 
 // --- 14. Skip link text must be readable against its own chip ---
-await page.goto(URL, {waitUntil:'networkidle2', timeout:60000});
+await page.goto(BASE_URL, {waitUntil:'networkidle2', timeout:60000});
 await new Promise(r=>setTimeout(r,2000));
 await page.keyboard.press('Tab');
 await new Promise(r=>setTimeout(r,300));
@@ -334,7 +334,7 @@ const navRows = [];
 for (const vw of [1440, 1280, 1024, 900, 768, 600, 412, 375]) {
   const np = await browser.newPage();
   await np.setViewport({width: vw, height: 900});
-  await np.goto(URL, {waitUntil:'networkidle2', timeout:60000});
+  await np.goto(BASE_URL, {waitUntil:'networkidle2', timeout:60000});
   await new Promise(r=>setTimeout(r,1500));
   const rows = await np.evaluate(()=>
     new Set([...document.querySelectorAll('.nav-btn')]
@@ -345,6 +345,93 @@ for (const vw of [1440, 1280, 1024, 900, 768, 600, 412, 375]) {
 navRows.length===0
   ? pass('header nav stays on one row at normal text size', '8 widths, 375-1440px')
   : fail('header nav wraps', navRows.join(', '));
+
+
+// --- 16. The app must not depend on any third-party origin ---
+// Fonts and Leaflet used to come from CDNs, so neither survived going offline
+// and OpenDyslexic — an accessibility feature — failed silently. See #419/#420.
+{
+  const iso = await browser.createBrowserContext();
+  const np = await iso.newPage();
+  const external = [];
+  await np.setRequestInterception(true);
+  np.on('request', r => {
+    const u = new URL(r.url());
+    // data:/blob: are inline, not third-party origins
+    const remote = /^https?:$/.test(u.protocol) && u.hostname !== 'localhost' && u.hostname !== '127.0.0.1';
+    if (remote) { external.push(u.hostname); r.abort(); } else r.continue();
+  });
+  await np.goto(BASE_URL, {waitUntil:'networkidle2', timeout:60000});
+  await new Promise(r=>setTimeout(r,2500));
+
+  // Turn on the dyslexia font the way a reader would
+  await np.click('#font-size-btn'); await new Promise(r=>setTimeout(r,400));
+  await np.click('#opendyslexic-toggle'); await new Promise(r=>setTimeout(r,2500));
+
+  const fonts = await np.evaluate(()=>({
+    dyslexicUsable: document.fonts.check('400 1rem OpenDyslexic'),
+    dyslexicApplied: document.body.classList.contains('opendyslexic-enabled'),
+    montserratUsable: document.fonts.check('700 1rem "Montserrat Alternates"'),
+    error: document.querySelector('.font-toggle-error')?.textContent || null
+  }));
+
+  const hosts = [...new Set(external)];
+  hosts.length === 0
+    ? pass('app makes no third-party requests', 'fully self-hosted')
+    : fail('third-party requests', hosts.join(', '));
+
+  (fonts.dyslexicUsable && fonts.dyslexicApplied && !fonts.error)
+    ? pass('OpenDyslexic works with all external hosts blocked')
+    : fail('OpenDyslexic offline', JSON.stringify(fonts));
+
+  fonts.montserratUsable
+    ? pass('Montserrat works with all external hosts blocked')
+    : fail('Montserrat offline', 'font not usable');
+
+  await iso.close();
+}
+
+// --- 17. Map pages: Leaflet must be local, and the list must not need it ---
+{
+  const iso = await browser.createBrowserContext();
+  const mp = await iso.newPage();
+  const external = [];
+  await mp.setRequestInterception(true);
+  mp.on('request', r => {
+    const u = new URL(r.url());
+    const remote = /^https?:$/.test(u.protocol) && u.hostname !== 'localhost' && u.hostname !== '127.0.0.1';
+    if (remote) { external.push(u.hostname); r.abort(); } else r.continue();
+  });
+  await mp.goto(new URL('naloxone-locations-map.html', BASE_URL).href, {waitUntil:'domcontentloaded', timeout:60000});
+  await new Promise(r=>setTimeout(r,3000));
+
+  const map = await mp.evaluate(()=>({
+    leaflet: typeof window.L !== 'undefined',
+    markers: document.querySelectorAll('.leaflet-marker-icon').length,
+    listItems: document.querySelectorAll('#location-list li').length,
+    attribution: (document.querySelector('.leaflet-control-attribution')?.textContent || '').includes('OpenStreetMap')
+  }));
+
+  // Only map tiles may be external; the library itself must not be
+  const nonTile = [...new Set(external)].filter(h => !h.includes('tile.openstreetmap.org'));
+  nonTile.length === 0
+    ? pass('map page loads Leaflet locally', 'only OSM tiles are remote')
+    : fail('map page third-party requests', nonTile.join(', '));
+
+  (map.leaflet && map.markers > 0)
+    ? pass('map renders with no network', `${map.markers} markers`)
+    : fail('map did not render offline', JSON.stringify(map));
+
+  map.listItems > 0
+    ? pass('map text alternative present offline', `${map.listItems} locations`)
+    : fail('map text list missing', JSON.stringify(map));
+
+  map.attribution
+    ? pass('OpenStreetMap attribution rendered')
+    : fail('OSM attribution missing', 'ODbL requires it');
+
+  await iso.close();
+}
 
 console.log('\n--- page errors (uncaught exceptions) ---');
 console.log(pageErrors.length ? pageErrors.slice(0,10).join('\n') : '(none)');

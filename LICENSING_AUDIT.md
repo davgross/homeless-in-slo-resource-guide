@@ -2,7 +2,7 @@
 
 This document provides a comprehensive audit of all third-party assets, libraries, and code used in this project to ensure compliance with copyright and licensing requirements.
 
-**Audit Date:** September 7, 2026
+**Audit Date:** September 7, 2026 (revised after self-hosting, same day)
 
 **Previous Audit:** October 31, 2025
 
@@ -39,7 +39,7 @@ These are bundled into the app or loaded by the user's browser. Their attributio
 | [marked](https://github.com/markedjs/marked) | 14.1.4 | MIT | Markdown → HTML parsing |
 | [DOMPurify](https://github.com/cure53/DOMPurify) | 3.4.14 | Apache-2.0 OR MPL-2.0 | HTML sanitization (XSS prevention) |
 | [qr-creator](https://github.com/nimiq/qr-creator) | 1.0.0 | MIT | QR codes in the share dialog |
-| [Leaflet](https://leafletjs.com/) | 1.9.4 | BSD-2-Clause | Interactive maps |
+| [Leaflet](https://leafletjs.com/) | 1.9.4 | BSD-2-Clause | Interactive maps (self-hosted) |
 | [mimetext](https://github.com/muratgozel/MIMEText) | 3.0.27 | MIT | Email construction in the Cloudflare Worker |
 
 **Copyright holders:**
@@ -51,16 +51,13 @@ These are bundled into the app or loaded by the user's browser. Their attributio
 
 **Compliance:** ✅ All permissive. Full texts in `THIRD_PARTY_LICENSES.md`.
 
-### Note on Leaflet and CDN loading
+### Note on Leaflet: now self-hosted
 
-Leaflet is loaded at runtime from `unpkg.com` rather than bundled:
+Leaflet was previously loaded at runtime from `unpkg.com`. It is now vendored into `web-app/public/vendor/leaflet/` (issues #419 and #420), so the maps work offline and survive CDN filtering on public Wi-Fi.
 
-```html
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-```
+**This changes the obligation.** Under BSD-2-Clause the copyright notice must be reproduced in **redistributions**, and serving the library from our own origin *is* redistribution. Linking to a CDN arguably was not.
 
-BSD-2-Clause requires the copyright notice to be reproduced in **redistributions**.
-Linking to a third-party CDN is arguably not redistribution, so the current arrangement is defensible — but the notice is included in `THIRD_PARTY_LICENSES.md` regardless, and **if Leaflet is ever self-hosted (see issue #419) reproducing that notice becomes a firm requirement, not a courtesy.**
+**Compliance:** ✅ `web-app/public/vendor/leaflet/LICENSE` ships alongside `leaflet.js`, carrying the full BSD-2-Clause text and both copyright lines. The text is also in `THIRD_PARTY_LICENSES.md`.
 
 ---
 
@@ -119,25 +116,27 @@ Current volume is well within limits for a small community project. Significant 
 
 ## Fonts
 
-### Montserrat Alternates
+Both fonts are **self-hosted** as of September 2026 (issue #420). They were previously fetched from third-party CDNs at runtime, which meant neither survived going offline — and OpenDyslexic, an accessibility feature, failed *silently*: the toggle reported success while the text never changed.
 
-- **License:** SIL Open Font License 1.1
-- **Usage:** brand/display font for navigation and headings
-- **Delivery:** Google Fonts CDN (`fonts.googleapis.com`)
-- **Compliance:** ✅ OFL permits web use. Attribution optional; provided in `About.md` anyway
-- **Status:** ✅ **Now implemented** — the October 2025 audit recorded this as "NOT YET IMPLEMENTED"
+**This changes the obligation.** OFL 1.1 requires that the copyright notice and licence text accompany the font files wherever the fonts are **redistributed**. Serving them from our own origin is redistribution.
+
+**Compliance:** ✅ `web-app/public/fonts/` contains `OpenDyslexic-OFL.txt`, `MontserratAlternates-OFL.txt`, and a `README.txt` recording provenance and the modifications made.
 
 ### OpenDyslexic
 
 - **License:** SIL Open Font License 1.1
+- **Copyright:** Abbie Gonzalez, with Reserved Font Name OpenDyslexic
+- **Source:** [opendyslexic.org](https://opendyslexic.org/) — official release v0.91.12, *not* the third-party CDN redistributor used previously
 - **Usage:** optional dyslexia-friendly font, user-selectable in the text-size popup
-- **Delivery:** `fonts.cdnfonts.com`, lazily loaded only when the popup is first opened
-- **Compliance:** ✅ OFL permits web use. Attribution optional; provided in `About.md`
-- **Status:** was missing from the October 2025 audit entirely
+- **Modification:** subset to Latin + Latin-Extended with `pyftsubset` and converted to woff2 — 135 KB for all four faces, down from 464 KB. No glyph outlines altered.
+- **Reserved Font Name:** OFL reserves the name "OpenDyslexic". We redistribute the font unmodified in substance (subsetting only) and keep the original name, which the licence permits for unmodified fonts. **If glyphs are ever edited, the font must be renamed.**
 
-⚠️ **Note:** `fonts.cdnfonts.com` is a third-party redistributor, not the OpenDyslexic project's own site. The font is OFL and freely redistributable, so this is permitted, but self-hosting from [opendyslexic.org](https://opendyslexic.org/) would be more robust and would remove a third-party dependency from an accessibility feature.
+### Montserrat Alternates
 
----
+- **License:** SIL Open Font License 1.1
+- **Copyright:** The Montserrat Project Authors
+- **Source:** Google Fonts, weight 700, latin and latin-ext subsets
+- **Usage:** brand/display font for navigation and headings
 
 ## Source Code
 
@@ -226,8 +225,8 @@ All cropped and resized from originals. Full source URLs and attribution text in
 
 - [ ] **Verify icon designs** do not inadvertently copy an existing logo or mark *(carried over; still unverified)*
 - [ ] **Review descriptive text** across the guide for verbatim copying from agency sites
-- [ ] **Consider self-hosting OpenDyslexic** from opendyslexic.org rather than a third-party CDN redistributor
-- [ ] **If Leaflet is self-hosted** (issue #419), ship its BSD-2-Clause notice alongside it
+- [x] ~~**Consider self-hosting OpenDyslexic**~~ — done; taken from opendyslexic.org, with the OFL text bundled
+- [x] ~~**If Leaflet is self-hosted, ship its BSD-2-Clause notice**~~ — done; `vendor/leaflet/LICENSE`
 - [ ] **Re-run this audit whenever a dependency is added** — the previous audit went eleven months while six dependencies accumulated undocumented
 
 ---
@@ -238,7 +237,13 @@ All cropped and resized from originals. Full source URLs and attribution text in
 
 Every dependency uses a permissive licence (MIT, Apache-2.0, MPL-2.0, BSD-2-Clause, OFL-1.1). None is copyleft with respect to this project's source, so the proprietary licence in `LICENSE` is unaffected.
 
-**The single mandatory runtime attribution** is OpenStreetMap's "© OpenStreetMap contributors", which is satisfied by the Leaflet attribution control on all three map pages.
+**Mandatory attributions**, all satisfied:
+
+1. **OpenStreetMap** — "© OpenStreetMap contributors", rendered by the Leaflet attribution control on all three map pages
+2. **Leaflet** (BSD-2-Clause, now redistributed) — `web-app/public/vendor/leaflet/LICENSE`
+3. **OpenDyslexic and Montserrat Alternates** (OFL 1.1, now redistributed) — the `*-OFL.txt` files in `web-app/public/fonts/`
+
+The last two became requirements rather than courtesies when the assets moved from CDNs to our own origin.
 
 All other attributions are satisfied by `THIRD_PARTY_LICENSES.md` and the list in `About.md` / `About_es.md`.
 
@@ -251,8 +256,8 @@ All other attributions are satisfied by `THIRD_PARTY_LICENSES.md` and the list i
 | MIT | marked, qr-creator, Vite, vite-plugin-pwa, mimetext, html-validate, xml2js, remark-* | ✅ Yes | ✅ Yes | ✅ Yes |
 | Apache-2.0 | DOMPurify (option), sharp, puppeteer-core | ✅ Yes | ✅ Yes | ✅ Yes |
 | MPL-2.0 | DOMPurify (option) | ✅ Yes (file-level copyleft only) | ✅ Yes | ✅ Yes |
-| BSD-2-Clause | Leaflet | ✅ Yes | ✅ Yes | ✅ In redistributions |
-| OFL-1.1 | Montserrat Alternates, OpenDyslexic | ✅ Yes | ✅ Yes | Optional |
+| BSD-2-Clause | Leaflet | ✅ Yes | ✅ Yes | ✅ **Yes — we now redistribute** |
+| OFL-1.1 | Montserrat Alternates, OpenDyslexic | ✅ Yes | ✅ Yes | ✅ **Yes — we now redistribute** |
 | ODbL-1.0 | OpenStreetMap data | ✅ Yes | ✅ Yes | ✅ **Yes — required** |
 | CC BY 2.0 / CC BY-SA 4.0 / CC0 | Poison oak images | ✅ Yes | ✅ Yes | Yes / Yes / No |
 
