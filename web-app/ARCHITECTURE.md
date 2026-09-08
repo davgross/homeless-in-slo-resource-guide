@@ -1209,8 +1209,10 @@ Follow-up from browser review of the 1.4 accessibility work:
   contradicts its own content.
 - **`npm run test:a11y`** (`scripts/a11y-smoke.mjs`) — 31 headless
   behavioural assertions. Requires Chrome and a running preview server; see
-  `README.md`. Not wired into CI, since it needs both a browser and a served
-  build.
+  `README.md`. Runs in CI via `.github/workflows/accessibility.yml`, which
+  builds, serves and tests on every PR touching `web-app/` or guide content.
+  It is a separate workflow from `pr-checks.yml` because that one triggers
+  only on markdown paths and would never fire on a code-only change.
 
 ### Version 1.2 (2025-12-05)
 

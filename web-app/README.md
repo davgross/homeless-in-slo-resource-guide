@@ -106,6 +106,11 @@ Run this after any change to the app shell — the header, the floating
 controls, modals, search, or the focus and layout CSS. It has caught several
 regressions that manual review missed.
 
+This also runs automatically on every pull request that touches `web-app/`
+or the guide content (`.github/workflows/accessibility.yml`). Content is
+included in the trigger because the suite loads the real markdown — a long
+heading or a wide table can break reflow with no code change at all.
+
 See `../ACCESSIBILITY_AUDIT.md` for what the app has been audited against and
 what still needs a human tester.
 
