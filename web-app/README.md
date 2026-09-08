@@ -119,6 +119,23 @@ heading or a wide table can break reflow with no code change at all.
 See `../ACCESSIBILITY_AUDIT.md` for what the app has been audited against and
 what still needs a human tester.
 
+### Checking Vendored Assets
+
+```bash
+npm run check:vendor
+```
+
+Fonts and Leaflet are copied into `public/` rather than installed from npm, so
+Dependabot and `npm outdated` cannot see them. This compares each entry in
+`vendor-manifest.json` against upstream (npm, GitHub releases, or the Google
+Fonts stylesheet) and reports anything out of date.
+
+It also runs monthly via `.github/workflows/check-vendor-updates.yml`, which
+opens a `maintenance` issue when an update appears. **Leaflet is the vendored
+asset most likely to need a security update**; the fonts move very slowly.
+
+After updating an asset, bump its version in `vendor-manifest.json`.
+
 ## Deployment
 
 ### Option 1: Cloudflare Pages (Recommended)

@@ -54,8 +54,11 @@ web-app/
 ├── scripts/                # Build and validation scripts
 │   ├── extract-map-data.js # Extract coordinates (both languages)
 │   ├── a11y-smoke.mjs      # Headless accessibility behaviour tests
+│   ├── check-vendor-updates.mjs # Upstream version check for vendored assets
 │   └── validate-html.js    # HTML validation script
+├── vendor-manifest.json    # Versions of assets vendored into public/
 ├── public/                 # Static assets (icons, robots.txt, maps)
+│   ├── _headers            # Cloudflare Pages caching + CORS rules
 │   ├── fonts/              # Self-hosted woff2 + OFL licence texts
 │   ├── vendor/leaflet/     # Self-hosted Leaflet 1.9.4 + BSD licence
 │   ├── map-feedback.js     # Shared feedback library for map pages
@@ -1204,6 +1207,28 @@ All runtime assets moved onto our own origin (issues #419, #420):
 - Licence obligations changed with self-hosting: OFL and BSD-2-Clause require
   notices to travel with redistributed files, so `public/fonts/*-OFL.txt` and
   `public/vendor/leaflet/LICENSE` now ship. See `../LICENSING_AUDIT.md`.
+
+**Operational consequences of self-hosting, handled in the same change:**
+
+- **`public/_headers`** — Pages defaults every asset to
+  `max-age=0, must-revalidate`, so a returning visitor revalidated all 46
+  files before the page was usable. Content-hashed `/assets/*` are now
+  immutable for a year; vendored fonts and Leaflet get 30 days (not
+  `immutable`, since their filenames carry no hash); HTML, `sw.js` and the
+  manifest keep the revalidating default so updates still land immediately.
+  This was a pre-existing problem, not one self-hosting introduced.
+- **CORS detached on `/fonts/*`.** A cross-origin `@font-face` load requires
+  CORS, and Pages sends `Access-Control-Allow-Origin: *` by default, so other
+  sites could have used VivaSLO as their font server. Removing the header
+  stops that; same-origin use is unaffected. Leaflet cannot be protected the
+  same way — `<script>` loads are not CORS-gated — but the exposure is
+  negligible.
+- **`vendor-manifest.json` + `npm run check:vendor`** — vendored assets are
+  invisible to Dependabot. A monthly workflow checks upstream and opens a
+  `maintenance` issue when something is out of date.
+
+*Hosting cost is unaffected:* Cloudflare Pages does not bill static-asset
+bandwidth or requests, and the site is 46 files against a 20,000 limit.
 
 ### Version 1.4.1 (2026-09-07)
 

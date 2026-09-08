@@ -15,7 +15,8 @@
     "generate-icons": "node create-maskable-icons.js",
     "extract-map-data": "node scripts/extract-map-data.js",
     "lint:markdown": "cd .. && npm install --silent && npm run lint:sources",
-    "test:a11y": "node scripts/a11y-smoke.mjs"
+    "test:a11y": "node scripts/a11y-smoke.mjs",
+    "check:vendor": "node scripts/check-vendor-updates.mjs"
   },
   "dependencies": {
     "dompurify": "^3.2.2",
