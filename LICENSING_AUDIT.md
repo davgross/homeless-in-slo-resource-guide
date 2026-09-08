@@ -2,131 +2,118 @@
 
 This document provides a comprehensive audit of all third-party assets, libraries, and code used in this project to ensure compliance with copyright and licensing requirements.
 
-**Audit Date:** October 31, 2025
+**Audit Date:** September 7, 2026
 
-**Audited By:** Claude Code (AI Assistant)
+**Previous Audit:** October 31, 2025
+
+**Audited By:** Claude (Opus 5)
 
 ---
 
 ## Summary
 
-✅ **COMPLIANT** - All dependencies use permissive open-source licenses compatible with this project.
+✅ **COMPLIANT** — All dependencies use permissive open-source licenses compatible with this project's proprietary licensing.
+
+The October 2025 audit covered only the four `web-app` dependencies that existed at that time.
+This revision covers **every** dependency in all four `package.json` files, plus the third-party code and data loaded at runtime from CDNs, which the earlier audit did not address at all.
+
+### What changed since the last audit
+
+| Change | Detail |
+|---|---|
+| **6 dependencies were missing entirely** | `qr-creator`, `sharp`, `html-validate`, plus the root project's `xml2js` and `remark-*` tooling |
+| **2 runtime CDN dependencies were undocumented** | Leaflet and the OpenDyslexic font are loaded from CDNs at runtime and appeared in no audit |
+| **OpenStreetMap was undocumented** | Map tiles and data carry a *required* attribution under ODbL |
+| **1 dependency added** | `puppeteer-core` (Apache-2.0), added September 2026 for the accessibility test suite |
+| **Stale action items resolved** | `LICENSE` and `THIRD_PARTY_LICENSES.md` both now exist; Montserrat Alternates is now actually implemented |
+| **Versions drifted** | DOMPurify 3.3.0 → 3.4.14, Vite 6.4.1 → 6.4.3, marked → 14.1.4 |
 
 ---
 
-## NPM Dependencies
+## Runtime Dependencies (ship to users)
 
-### 1. marked (v14.1.4)
+These are bundled into the app or loaded by the user's browser. Their attribution obligations are the ones that matter most.
 
-- **License:** MIT
-- **Copyright:** MarkedJS (2018+), Christopher Jeffrey (2011-2018)
-- **Usage:** Markdown-to-HTML parsing
-- **Compliance:** ✅ MIT license allows free use, modification, and distribution
-- **Attribution Required:** Yes (included in `node_modules/marked/LICENSE.md`)
-- **Source:** [https://github.com/markedjs/marked](https://github.com/markedjs/marked)
+| Library | Version | License | Purpose |
+|---|---|---|---|
+| [marked](https://github.com/markedjs/marked) | 14.1.4 | MIT | Markdown → HTML parsing |
+| [DOMPurify](https://github.com/cure53/DOMPurify) | 3.4.14 | Apache-2.0 OR MPL-2.0 | HTML sanitization (XSS prevention) |
+| [qr-creator](https://github.com/nimiq/qr-creator) | 1.0.0 | MIT | QR codes in the share dialog |
+| [Leaflet](https://leafletjs.com/) | 1.9.4 | BSD-2-Clause | Interactive maps |
+| [mimetext](https://github.com/muratgozel/MIMEText) | 3.0.27 | MIT | Email construction in the Cloudflare Worker |
 
-### 2. DOMPurify (v3.3.0)
+**Copyright holders:**
 
-- **License:** Apache 2.0 OR MPL 2.0 (dual-licensed)
-- **Copyright:** Dr.-Ing. Mario Heiderich, Cure53 (2025)
-- **Usage:** HTML sanitization to prevent XSS attacks
-- **Compliance:** ✅ Both licenses allow free use, modification, and distribution
-- **Attribution Required:** Yes (included in `node_modules/dompurify/LICENSE`)
-- **Source:** [https://github.com/cure53/DOMPurify](https://github.com/cure53/DOMPurify)
+- marked — MarkedJS (2018+), Christopher Jeffrey (2011–2018)
+- DOMPurify — Dr.-Ing. Mario Heiderich, Cure53
+- qr-creator — The Nimiq Foundation (2017)
+- Leaflet — Volodymyr Agafonkin (2010–2023), CloudMade (2010–2011)
 
-### 3. Vite (v6.4.1)
+**Compliance:** ✅ All permissive. Full texts in `THIRD_PARTY_LICENSES.md`.
 
-- **License:** MIT
-- **Copyright:** Evan You and Vite contributors
-- **Usage:** Build tool and development server
-- **Compliance:** ✅ MIT license allows free use
-- **Attribution Required:** Yes (included in `node_modules/vite/LICENSE`)
-- **Source:** [https://github.com/vitejs/vite](https://github.com/vitejs/vite)
+### Note on Leaflet and CDN loading
 
-### 4. vite-plugin-pwa (v0.21.2)
+Leaflet is loaded at runtime from `unpkg.com` rather than bundled:
 
-- **License:** MIT
-- **Copyright:** Anthony Fu
-- **Usage:** Progressive Web App functionality (service worker, offline support)
-- **Compliance:** ✅ MIT license allows free use
-- **Attribution Required:** Yes (included in `node_modules/vite-plugin-pwa/LICENSE`)
-- **Source:** [https://github.com/vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa)
+```html
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+```
+
+BSD-2-Clause requires the copyright notice to be reproduced in **redistributions**.
+Linking to a third-party CDN is arguably not redistribution, so the current arrangement is defensible — but the notice is included in `THIRD_PARTY_LICENSES.md` regardless, and **if Leaflet is ever self-hosted (see issue #419) reproducing that notice becomes a firm requirement, not a courtesy.**
 
 ---
 
-## Source Code
+## Build and Development Dependencies (do not ship)
 
-### Custom Code (Fully Original)
+These never reach users, so attribution obligations are minimal. Documented for completeness.
 
-All JavaScript, CSS, and HTML files in `/web-app/src/` and `/web-app/index.html` are original work created for this project:
+| Package | Version | License | Where | Purpose |
+|---|---|---|---|---|
+| [Vite](https://vitejs.dev) | 6.4.3 | MIT | `web-app` | Build tool and dev server |
+| [vite-plugin-pwa](https://vite-pwa-org.netlify.app) | 0.21.2 | MIT | `web-app` | Service worker and manifest generation |
+| [html-validate](https://html-validate.org/) | 10.4.0 | MIT | `web-app` | HTML validation in CI |
+| [sharp](https://github.com/lovell/sharp) | 0.34.5 | Apache-2.0 | `web-app` | Maskable icon generation |
+| [puppeteer-core](https://pptr.dev/) | 24.43.1 | Apache-2.0 | `web-app` | Headless browser for `npm run test:a11y` |
+| [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | 0.6.2 | MIT | root | Parsing in content tooling |
+| [remark-cli](https://github.com/remarkjs/remark) | 12.0.1 | MIT | root | Markdown linting |
+| remark-frontmatter | 5.0.0 | MIT | root | Markdown linting |
+| remark-gfm | 4.0.1 | MIT | root | Markdown linting |
+| unist-util-visit | 5.0.0 | MIT | root | Custom remark style rules |
+| unist-util-visit-parents | 6.0.2 | MIT | root | Custom remark style rules |
 
-- `main.js` - Application core logic
-- `linkEnhancer.js` - Link processing utilities
-- `markdownParser.js` - Markdown parsing and directory entry extraction
-- `feedback.js` - User feedback system
-- `style.css` - Styling
-- `index.html` - HTML structure
+**Compliance:** ✅ All permissive.
 
-**License Status:** ✅ No third-party code copied or adapted
+**Note on `vite-plugin-pwa`:** although a build-time plugin, it *generates* service worker code (via Workbox, MIT) that ships to users. Workbox's licence is permissive and its notice travels in the generated file.
 
-**Ownership:** Proprietary - Copyright (c) 2025 Shower the People
-
-**Note:** Currently proprietary/all-rights-reserved with option to open-source later
+**Note on `puppeteer-core`:** deliberately `puppeteer-core` rather than `puppeteer`, so no Chromium binary is downloaded. It drives the developer's existing Chrome install. Chromium itself is therefore not redistributed by this project and carries no obligation here.
 
 ---
 
-## Assets
+## Third-Party Data and Services
 
-### Icons and Images
+### OpenStreetMap
 
-1. **favicon.ico** (32×32)
-   - Custom-created for this project
-   - Status: ✅ Original work
+Map imagery and map data. **This carries the project's only mandatory runtime attribution.**
 
-2. **icon-192.png** (192×192)
-   - Custom-created for this project
-   - Status: ✅ Original work
+- **Map data:** © OpenStreetMap contributors, [ODbL 1.0](https://opendatacommons.org/licenses/odbl/)
+- **Map tiles:** OpenStreetMap Foundation, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+- **Requirement:** "© OpenStreetMap contributors" must be displayed with any produced work
+- **Compliance:** ✅ Each map page passes `attribution: '© OpenStreetMap contributors'` to its Leaflet tile layer, rendering the notice in the map's attribution control
+- **Also:** every address link in the guide falls back to `openstreetmap.org`; these are ordinary outbound links and need no attribution
 
-3. **icon-512.png** (512×512)
-   - Custom-created for this project
-   - Status: ✅ Original work
+⚠️ **Tile usage policy:** tiles are fetched directly from `tile.openstreetmap.org`, which is subject to the [OSMF Tile Usage Policy](https://operations.osmfoundation.org/policies/tiles/).
+Current volume is well within limits for a small community project. Significant growth would require a commercial tile provider or self-hosted tiles.
 
-4. **apple-touch-icon.png** (180×180)
-   - Custom-created for this project
-   - Status: ✅ Original work
+### Google Maps / Apple Maps
 
-**Note:** All icons appear to be simple, programmatically-generated placeholder images. Verify they don't inadvertently copy any existing design.
+- **Usage:** address links deep-link into the user's preferred map app
+- **Compliance:** ✅ No API keys, no embedded content, only deep links — permitted under their terms
 
-### Poison Oak Images
+### Cloudflare Pages / Workers
 
-5. **poison-oak-1.png**
-   - **License:** Creative Commons Attribution 2.0 Generic (CC BY 2.0)
-   - **Copyright:** r.mcminds
-   - **Source:** https://commons.wikimedia.org/wiki/File:Poison_Oak.jpg
-   - **Original:** https://flickr.com/photos/131967103@N02/26747244781
-   - **Modifications:** Cropped and resized from original
-   - **Compliance:** ✅ CC BY 2.0 allows use with attribution
-   - **Attribution Required:** Yes
-   - **Attribution:** "Poison Oak" by r.mcminds is licensed under CC BY 2.0
-
-6. **poison-oak-2.png**
-   - **License:** Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0)
-   - **Copyright:** Frank Schulenburg
-   - **Source:** https://commons.wikimedia.org/wiki/File:Toxicodendron_diversilobum_foliage_at_Samuel_P._Taylor_State_Park.jpg
-   - **Modifications:** Cropped and resized from original
-   - **Compliance:** ✅ CC BY-SA 4.0 allows use with attribution and share-alike requirement
-   - **Attribution Required:** Yes
-   - **Attribution:** "Toxicodendron diversilobum foliage at Samuel P. Taylor State Park" by Frank Schulenburg is licensed under CC BY-SA 4.0
-   - **Share-Alike Note:** Derivative works must be licensed under compatible terms
-
-7. **poison-oak-3.png**
-   - **License:** Creative Commons Zero 1.0 (CC0 1.0 - Public Domain Dedication)
-   - **Copyright:** Released into public domain by Alan Schmierer
-   - **Source:** https://commons.wikimedia.org/wiki/File:POISON_OAK_(toxicodendron_diversilobum)_(4-5-08)_canet_-1_(2391067502).jpg
-   - **Original:** https://flickr.com/photos/8101022@N05/2391067502
-   - **Modifications:** Cropped and resized from original
-   - **Compliance:** ✅ CC0 allows free use without attribution (public domain)
-   - **Attribution Required:** No (but courtesy attribution recommended)
+- **Usage:** hosting and the feedback email Worker
+- **Compliance:** ✅ Service usage under Cloudflare's terms; no code redistribution
 
 ---
 
@@ -134,146 +121,139 @@ All JavaScript, CSS, and HTML files in `/web-app/src/` and `/web-app/index.html`
 
 ### Montserrat Alternates
 
-- **Usage:** Brand font (mentioned in design.md)
-- **License:** SIL Open Font License (OFL) 1.1
-- **Source:** Google Fonts
-- **Compliance:** ✅ OFL allows free use in web projects
-- **Attribution Required:** Optional but recommended
-- **Current Status:** ⚠️ **NOT YET IMPLEMENTED** - Font is mentioned in design specs but not yet loaded in the app
+- **License:** SIL Open Font License 1.1
+- **Usage:** brand/display font for navigation and headings
+- **Delivery:** Google Fonts CDN (`fonts.googleapis.com`)
+- **Compliance:** ✅ OFL permits web use. Attribution optional; provided in `About.md` anyway
+- **Status:** ✅ **Now implemented** — the October 2025 audit recorded this as "NOT YET IMPLEMENTED"
 
-**Action Required:** When implementing Montserrat Alternates, either:
+### OpenDyslexic
 
-1. Load from Google Fonts (recommended): `https://fonts.google.com/specimen/Montserrat+Alternates`
-2. Self-host with proper OFL attribution in a LICENSE or CREDITS file
+- **License:** SIL Open Font License 1.1
+- **Usage:** optional dyslexia-friendly font, user-selectable in the text-size popup
+- **Delivery:** `fonts.cdnfonts.com`, lazily loaded only when the popup is first opened
+- **Compliance:** ✅ OFL permits web use. Attribution optional; provided in `About.md`
+- **Status:** was missing from the October 2025 audit entirely
+
+⚠️ **Note:** `fonts.cdnfonts.com` is a third-party redistributor, not the OpenDyslexic project's own site. The font is OFL and freely redistributable, so this is permitted, but self-hosting from [opendyslexic.org](https://opendyslexic.org/) would be more robust and would remove a third-party dependency from an accessibility feature.
+
+---
+
+## Source Code
+
+### Custom Code (Fully Original)
+
+All application code is original work created for this project.
+
+**`web-app/src/`** — `main.js`, `style.css`, `markdownParser.js`, `linkEnhancer.js`, `feedback.js`, `shareButton.js`, `installPrompt.js`, `fontSizeControl.js`, `strings.js`, `i18nInit.js`, `languageSwitcher.js`, `modal.js`, `motion.js`
+
+**`web-app/public/`** — `map-feedback.js`, `map-i18n.js`, the three `*-map.html` pages
+
+**`web-app/scripts/`** — `extract-map-data.js`, `validate-html.js`, `a11y-smoke.mjs`
+
+**`web-app/`** — `index.html`, `vite.config.js`, `vite-plugin-minify-markdown.js`, `vite-plugin-print-map-helper-url.js`, `create-maskable-icons.js`, `map-data-helper.html`
+
+**`web-app/functions/`** — the feedback API endpoint and email Worker
+
+**Root** — `validate-markdown.js`, `remark-style-guide.js`, `spell-check.cjs`, `scripts/`
+
+Generated files (`web-app/public/*-data*.js`) are produced by `extract-map-data.js` from this project's own markdown content.
+
+**License Status:** ✅ No third-party code copied or adapted.
+Inline SVG icons (the search magnifier, install arrow, close crosses) are original.
+
+**Ownership:** Proprietary — © 2025 Shower the People, all rights reserved (see `LICENSE`).
+
+**Note:** proprietary licensing remains fully compatible with every dependency above; none is copyleft with respect to this project's own source.
+
+---
+
+## Assets
+
+### Icons and Images
+
+`favicon.ico`, `icon-192.png`, `icon-512.png`, `icon-192-maskable.png`, `icon-512-maskable.png`, `apple-touch-icon.png`
+
+- Custom-created for this project — ✅ original work
+- Maskable variants generated by `create-maskable-icons.js` from the originals
+
+⚠️ **Open item:** verify the logo design does not inadvertently resemble an existing mark. Carried over from the previous audit; still unverified.
+
+### Emoji
+
+The UI uses Unicode emoji (🔗 📖 💬 💧 🚌 …) as icons in the floating buttons and Index lozenges.
+
+- **Status:** ✅ No licensing concern. Unicode code points are not copyrightable, and glyphs are rendered by the user's own operating system font — this project ships no emoji artwork.
+
+### Poison Oak Images
+
+| File | License | Attribution required |
+|---|---|---|
+| `poison-oak-1.png` | CC BY 2.0 — r.mcminds | Yes |
+| `poison-oak-2.png` | CC BY-SA 4.0 — Frank Schulenburg | Yes, plus share-alike |
+| `poison-oak-3.png` | CC0 1.0 — Alan Schmierer | No (courtesy only) |
+
+All cropped and resized from originals. Full source URLs and attribution text in `THIRD_PARTY_LICENSES.md`.
+
+⚠️ **Share-alike note:** `poison-oak-2.png` is CC BY-SA 4.0. The share-alike obligation attaches to *that image and derivatives of it*, not to the surrounding application, so it does not affect the project's proprietary licensing. Attribution is currently carried in `THIRD_PARTY_LICENSES.md` rather than adjacent to the image in the guide.
 
 ---
 
 ## Content
 
-### Markdown Content Files
+`Resource guide.md`, `Directory.md`, `About.md` and their `_es` translations.
 
-- `Resource guide.md`
-- `Directory.md`
+- ✅ Factual data (addresses, phone numbers, hours, eligibility) — not copyrightable
+- ⚠️ Descriptive text — must be original, paraphrased, or properly attributed; not copied verbatim from agency websites
 
-**License Status:** These files contain factual information about community resources (agency names, addresses, phone numbers, hours, services). Facts are not copyrightable, but creative expression in the description/organization may be.
+`<!-- Source: https://... -->` annotations exist for **verification**, not as copyright attribution. They do not license verbatim reuse of copyrighted text.
 
-**Recommendations:**
-
-1. ✅ Factual data (addresses, phone numbers, hours) - Public information, not subject to copyright
-2. ⚠️ Descriptive text - Ensure all content is either:
-   - Original writing by project contributors
-   - Properly attributed quotes/excerpts from agency websites with source citations
-   - Paraphrased information (not copied verbatim from copyrighted sources)
-
-**Current Status:** Content appears to be primarily factual directory information with original descriptive text. Source annotations (e.g., `<!-- Source: https://... -->`) are present for verification but should not be considered attribution for copyright purposes.
-
----
-
-## External Links and References
-
-The app includes links to external websites (agency sites, Google Maps, Apple Maps, etc.). These are:
-
-- ✅ Factual references - Not subject to copyright
-- ✅ Standard web practice - No permission needed for linking
-- ✅ Properly attributed with `rel="noopener noreferrer"` for security
-
----
-
-## Third-Party Services
-
-### Google Maps / Apple Maps
-
-- **Usage:** Address links open in user's preferred map application
-- **License:** Links to these services are permitted under their terms of service
-- **Compliance:** ✅ No API keys or embedded content used, only deep links
-
----
-
-## Licensing Recommendations
-
-### For Distribution
-
-When distributing this project, include:
-
-1. **THIRD_PARTY_LICENSES.md** file containing:
-   - ✅ Already created - Full text of MIT license for: marked, Vite, vite-plugin-pwa
-   - ✅ Already created - Full text of Apache 2.0 / MPL 2.0 for: DOMPurify
-   - ✅ Already created - Copyright notices for each dependency
-
-2. **Source Code License**
-   - Current: Proprietary/all-rights-reserved (see LICENSE file)
-   - Future option: Can switch to MIT, Apache, or GPL later without issues
-   - ✅ LICENSE file exists in repository root
-
-3. **Attribution in App**
-   - Consider adding "About" page or footer with:
-     - Project credits
-     - Link to THIRD_PARTY_LICENSES.md file
-     - "Powered by" mentions for major dependencies (required for compliance)
-
-### Sample Attribution Text
-
-```plaintext
-This application uses the following open-source libraries:
-
-- Marked (MIT License) - https://github.com/markedjs/marked
-- DOMPurify (Apache 2.0 / MPL 2.0) - https://github.com/cure53/DOMPurify
-- Vite (MIT License) - https://vitejs.dev
-- vite-plugin-pwa (MIT License) - https://vite-pwa-org.netlify.app
-
-Full license texts available in THIRD_PARTY_LICENSES.md
-
-© 2025 Shower the People. All rights reserved.
-```
+**Current status:** content appears to be primarily factual directory information with original descriptive prose.
 
 ---
 
 ## Action Items
 
-### High Priority
+### Resolved since the last audit
 
-- [ ] **Implement Montserrat Alternates font** with proper OFL compliance when ready
-- [ ] **Verify icon designs** don't inadvertently copy existing icons/logos
-- [ ] **Create LICENSE file** for the project (recommend MIT for consistency)
+- [x] Create `LICENSE` file — exists (proprietary/all-rights-reserved)
+- [x] Create `THIRD_PARTY_LICENSES.md` — exists, now covering all runtime dependencies
+- [x] Implement Montserrat Alternates with OFL compliance — implemented
+- [x] Add attribution section to the app — `About.md` "Open-Source Libraries and Fonts"
+- [x] Add `license` field to `package.json` — set to `UNLICENSED`, matching `LICENSE`
 
-### Medium Priority
+### Outstanding
 
-- [ ] **Create `THIRD_PARTY_LICENSES.md`** with full license texts for all dependencies
-- [ ] **Add "About" section** to app with attribution information
-- [ ] **Review markdown content** to ensure all descriptive text is original or properly attributed
-
-### Low Priority
-
-- [ ] **Add `package.json` license field**: `"license": "MIT"` (or chosen license)
-- [ ] **Consider adding COPYRIGHT file** with project copyright notice
+- [ ] **Verify icon designs** do not inadvertently copy an existing logo or mark *(carried over; still unverified)*
+- [ ] **Review descriptive text** across the guide for verbatim copying from agency sites
+- [ ] **Consider self-hosting OpenDyslexic** from opendyslexic.org rather than a third-party CDN redistributor
+- [ ] **If Leaflet is self-hosted** (issue #419), ship its BSD-2-Clause notice alongside it
+- [ ] **Re-run this audit whenever a dependency is added** — the previous audit went eleven months while six dependencies accumulated undocumented
 
 ---
 
 ## Conclusion
 
-**Overall Compliance Status:** ✅ **EXCELLENT**
+**Overall Compliance Status:** ✅ **COMPLIANT**
 
-The project currently uses only permissive open-source licenses (MIT, Apache 2.0, MPL 2.0) that are compatible with each other and allow free use, modification, and distribution. No proprietary code or restrictive licenses detected.
+Every dependency uses a permissive licence (MIT, Apache-2.0, MPL-2.0, BSD-2-Clause, OFL-1.1). None is copyleft with respect to this project's source, so the proprietary licence in `LICENSE` is unaffected.
 
-**Key Points:**
+**The single mandatory runtime attribution** is OpenStreetMap's "© OpenStreetMap contributors", which is satisfied by the Leaflet attribution control on all three map pages.
 
-1. All npm dependencies have permissive licenses
-2. Custom code is original work
-3. Icons appear to be original/generic
-4. Content is primarily factual data (not copyrightable)
-5. No GPL or copyleft licenses that would require source disclosure
-
-**Current License for This Project:** Proprietary/all-rights-reserved (can be changed to MIT, Apache, or GPL later if desired)
+All other attributions are satisfied by `THIRD_PARTY_LICENSES.md` and the list in `About.md` / `About_es.md`.
 
 ---
 
 ## License Compatibility Matrix
 
-| License                             | Compatible with MIT? | Allows Commercial Use? | Requires Attribution? |
-| ----------------------------------- | -------------------- | ---------------------- | --------------------- |
-| MIT (marked, vite, vite-plugin-pwa) | ✅ Yes               | ✅ Yes                 | ✅ Yes |
-| Apache 2.0 (DOMPurify option)       | ✅ Yes               | ✅ Yes                 | ✅ Yes |
-| MPL 2.0 (DOMPurify option)          | ✅ Yes               | ✅ Yes                 | ✅ Yes |
-| OFL 1.1 (Montserrat font)           | ✅ Yes               | ✅ Yes                 | Optional |
+| License | Used by | Compatible with proprietary use? | Commercial use? | Attribution required? |
+|---|---|---|---|---|
+| MIT | marked, qr-creator, Vite, vite-plugin-pwa, mimetext, html-validate, xml2js, remark-* | ✅ Yes | ✅ Yes | ✅ Yes |
+| Apache-2.0 | DOMPurify (option), sharp, puppeteer-core | ✅ Yes | ✅ Yes | ✅ Yes |
+| MPL-2.0 | DOMPurify (option) | ✅ Yes (file-level copyleft only) | ✅ Yes | ✅ Yes |
+| BSD-2-Clause | Leaflet | ✅ Yes | ✅ Yes | ✅ In redistributions |
+| OFL-1.1 | Montserrat Alternates, OpenDyslexic | ✅ Yes | ✅ Yes | Optional |
+| ODbL-1.0 | OpenStreetMap data | ✅ Yes | ✅ Yes | ✅ **Yes — required** |
+| CC BY 2.0 / CC BY-SA 4.0 / CC0 | Poison oak images | ✅ Yes | ✅ Yes | Yes / Yes / No |
 
-All licenses are compatible and allow free use in any type of project.
+No licence above requires this project to disclose its own source.

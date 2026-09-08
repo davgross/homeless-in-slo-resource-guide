@@ -134,11 +134,16 @@ Esta aplicación utiliza las siguientes bibliotecas y fuentes de código abierto
 
 - [Marked](https://github.com/markedjs/marked) (Licencia MIT)—Analizador de Markdown
 - [DOMPurify](https://github.com/cure53/DOMPurify) (Apache 2.0 / MPL 2.0)—HTML sanitizador
+- [QR Creator](https://github.com/nimiq/qr-creator) (Licencia MIT)—Generador de códigos QR
+- [Leaflet](https://leafletjs.com/) (Licencia BSD de 2 cláusulas)—Mapas
 - [Vite](https://vitejs.dev) (Licencia MIT)—Herramienta de compilación
 - [vite-plugin-pwa](https://vite-pwa-org.netlify.app) (Licencia MIT)—Capacidad para aplicaciones web progresivas
 - [mimetext](https://github.com/muratgozel/MIMEText) (Licencia MIT)—Creador de mensajes de correo electrónico
 - [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates) (Licencia de fuente abierta SIL 1.1)—Fuente de visualización
 - [OpenDyslexic](https://opendyslexic.org/) (Licencia de fuente abierta SIL 1.1)—Opción de fuente de accesibilidad
+
+Las imágenes y los datos de los mapas vienen de [OpenStreetMap](https://www.openstreetmap.org/copyright).
+Los datos de OpenStreetMap son © los colaboradores de OpenStreetMap y se comparten bajo la [Licencia de Base de Datos Abierta](https://opendatacommons.org/licenses/odbl/).
 
 Textos con licencia completa disponibles en [THIRD_PARTY_LICENSES.md](https://github.com/davgross/homeless-in-slo-resource-guide/blob/main/THIRD_PARTY_LICENSES.md).
 

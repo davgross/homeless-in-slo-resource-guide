@@ -8,12 +8,15 @@ This document contains the full license texts for all third-party open-source li
 
 1. [Marked](#marked) - MIT License
 2. [DOMPurify](#dompurify) - Apache 2.0 / MPL 2.0 (dual-licensed)
-3. [Vite](#vite) - MIT License
-4. [vite-plugin-pwa](#vite-plugin-pwa) - MIT License
-5. [mimetext](#mimetext) - MIT License
-6. [Montserrat Alternates Font](#montserrat-alternates-font) - SIL Open Font License 1.1
-7. [OpenDyslexic Font](#opendyslexic-font) - SIL Open Font License 1.1
-8. [Poison Oak Images](#poison-oak-images) - CC BY 2.0, CC BY-SA 4.0, CC0 1.0
+3. [QR Creator](#qr-creator) - MIT License
+4. [Leaflet](#leaflet) - BSD 2-Clause License
+5. [Vite](#vite) - MIT License
+6. [vite-plugin-pwa](#vite-plugin-pwa) - MIT License
+7. [mimetext](#mimetext) - MIT License
+8. [Montserrat Alternates Font](#montserrat-alternates-font) - SIL Open Font License 1.1
+9. [OpenDyslexic Font](#opendyslexic-font) - SIL Open Font License 1.1
+10. [Poison Oak Images](#poison-oak-images) - CC BY 2.0, CC BY-SA 4.0, CC0 1.0
+11. [OpenStreetMap Data and Tiles](#openstreetmap-data-and-tiles) - ODbL 1.0 / CC BY-SA 2.0
 
 ---
 
@@ -73,6 +76,82 @@ Full text available at: [http://www.apache.org/licenses/LICENSE-2.0](http://www.
 ### Mozilla Public License Version 2.0
 
 Full text available at: [https://www.mozilla.org/en-US/MPL/2.0/](https://www.mozilla.org/en-US/MPL/2.0/)
+
+---
+
+## QR Creator
+
+**Repository:** [https://github.com/nimiq/qr-creator](https://github.com/nimiq/qr-creator)
+**License:** MIT
+**Used for:** Generating QR codes when sharing a link to the guide or a directory entry.
+**Ships to users:** Yes — bundled into the app.
+
+```plaintext
+MIT License
+
+Copyright (c) 2017 The Nimiq Foundation.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## Leaflet
+
+**Homepage:** [https://leafletjs.com](https://leafletjs.com)
+**Repository:** [https://github.com/Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
+**License:** BSD 2-Clause
+**Version in use:** 1.9.4
+**Used for:** The interactive maps on the Little Free Libraries, Little Free Pantries and Naloxone locations pages.
+**Ships to users:** Yes — currently loaded at runtime from the unpkg CDN rather than bundled.
+
+*Note:* BSD 2-Clause requires the copyright notice to be reproduced in redistributions.
+Loading from a CDN is arguably not redistribution, but if Leaflet is ever self-hosted (see issue #419) this notice must ship with it.
+
+```plaintext
+BSD 2-Clause License
+
+Copyright (c) 2010-2023, Volodymyr Agafonkin
+Copyright (c) 2010-2011, CloudMade
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
 
 ---
 
@@ -339,6 +418,26 @@ To view the CC0 license, visit https://creativecommons.org/publicdomain/zero/1.0
 
 ---
 
+## OpenStreetMap Data and Tiles
+
+**Homepage:** [https://www.openstreetmap.org](https://www.openstreetmap.org)
+**Copyright page:** [https://www.openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)
+**Used for:** Base map imagery on the three map pages, and as the fallback destination for every address link in the guide.
+
+OpenStreetMap is not a software dependency but it is third-party content, so it belongs in this audit.
+
+- **Map data:** © OpenStreetMap contributors, licensed under the [Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/)
+- **Map tiles:** produced by the OpenStreetMap Foundation, licensed [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
+**Attribution requirement:** ODbL requires that "© OpenStreetMap contributors" be displayed with any produced work.
+
+**Compliance:** ✅ Each map page passes `attribution: '© OpenStreetMap contributors'` to its Leaflet tile layer, which renders the notice in the map's attribution control.
+
+**Tile usage policy:** The map pages fetch tiles directly from `tile.openstreetmap.org`, which is subject to the [OSMF Tile Usage Policy](https://operations.osmfoundation.org/policies/tiles/).
+Current volume is well within acceptable limits for a small community project, but heavy traffic would require a commercial tile provider or self-hosted tiles.
+
+---
+
 ## Additional Notes
 
 All licenses listed above are permissive open-source licenses that allow:
@@ -350,11 +449,14 @@ All licenses listed above are permissive open-source licenses that allow:
 
 **Attribution Requirements:**
 
-- Marked, Vite, vite-plugin-pwa, mimetext: Include copyright notice and license text
+- Marked, QR Creator, Vite, vite-plugin-pwa, mimetext: Include copyright notice and license text
+- Leaflet: Include copyright notice and license text in redistributions (BSD 2-Clause)
 - DOMPurify: Include copyright notice and choose either Apache 2.0 or MPL 2.0 license text
 - Montserrat Alternates, OpenDyslexic: Optional attribution (recommended but not required)
+- OpenStreetMap: "© OpenStreetMap contributors" must be displayed — required, and currently satisfied by the Leaflet attribution control
 
 **License Compatibility:**
-All licenses listed above are compatible with each other and with most common open-source licenses. The license for this project itself has not yet been chosen (see To-do.md).
+All licenses listed above are compatible with each other and with most common open-source licenses.
+This project's own code is currently proprietary / all-rights-reserved (see `LICENSE`); none of the licenses above constrains that choice, and none is copyleft with respect to this project's source.
 
 For the most up-to-date license information, please refer to the respective project repositories linked above.
