@@ -1197,6 +1197,20 @@ Follow-up from browser review of the 1.4 accessibility work:
   (`*-data.js` and `*-data-es.js`), and library/pantry labels now include the
   city. Map pages pick the dataset matching the reader's language.
 - Toolbar popups are mutually exclusive and repositioned at both breakpoints.
+- **Header nav wrapping is confined to narrow screens.** `.app-nav` wraps
+  mobile-first (so large text cannot force the page wider) but is
+  `flex-wrap: nowrap` from 768px up. Without that restriction the wrapping
+  flex container resolved to a two-button width at >=1024px and split the nav
+  across two rows on desktop.
+- **The document language is set during head parsing** by a small inline
+  script in `index.html`, rather than waiting for the deferred module bundle.
+  It mirrors `getCurrentLanguage()` in `strings.js`, which remains the
+  authority. This keeps the document from ever declaring a language that
+  contradicts its own content.
+- **`npm run test:a11y`** (`scripts/a11y-smoke.mjs`) — 31 headless
+  behavioural assertions. Requires Chrome and a running preview server; see
+  `README.md`. Not wired into CI, since it needs both a browser and a served
+  build.
 
 ### Version 1.2 (2025-12-05)
 
