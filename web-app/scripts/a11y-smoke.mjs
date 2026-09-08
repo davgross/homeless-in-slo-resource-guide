@@ -18,6 +18,26 @@
 import puppeteer from 'puppeteer-core';
 
 const BASE_URL = process.env.A11Y_URL || 'http://localhost:4317/';
+
+// The host the app is served from. Derived rather than hardcoded, so the
+// "no third-party requests" checks work when the suite is pointed at a
+// preview or production deployment, not just a local preview server.
+const OWN_HOST = new URL(BASE_URL).hostname;
+
+// Hosts injected by the hosting platform rather than by our code. Cloudflare
+// adds its Web Analytics beacon at the edge, so it appears on the deployed
+// site but not on a local preview, and no repo change can remove it. Blocking
+// it is harmless; failing the run over it would be noise.
+const PLATFORM_HOSTS = ['static.cloudflareinsights.com'];
+
+/** Is this request going somewhere other than the site under test? */
+function isThirdParty(url) {
+  const u = new URL(url);
+  // data: and blob: are inline, not third-party origins
+  if (!/^https?:$/.test(u.protocol)) return false;
+  if (PLATFORM_HOSTS.includes(u.hostname)) return false;
+  return u.hostname !== OWN_HOST;
+}
 const CHROME = process.env.CHROME_PATH || '/usr/bin/google-chrome';
 const results = [];
 const pass = (n, d='') => results.push(['PASS', n, d]);
@@ -356,10 +376,8 @@ navRows.length===0
   const external = [];
   await np.setRequestInterception(true);
   np.on('request', r => {
-    const u = new URL(r.url());
-    // data:/blob: are inline, not third-party origins
-    const remote = /^https?:$/.test(u.protocol) && u.hostname !== 'localhost' && u.hostname !== '127.0.0.1';
-    if (remote) { external.push(u.hostname); r.abort(); } else r.continue();
+    if (isThirdParty(r.url())) { external.push(new URL(r.url()).hostname); r.abort(); }
+    else r.continue();
   });
   await np.goto(BASE_URL, {waitUntil:'networkidle2', timeout:60000});
   await new Promise(r=>setTimeout(r,2500));
@@ -398,9 +416,8 @@ navRows.length===0
   const external = [];
   await mp.setRequestInterception(true);
   mp.on('request', r => {
-    const u = new URL(r.url());
-    const remote = /^https?:$/.test(u.protocol) && u.hostname !== 'localhost' && u.hostname !== '127.0.0.1';
-    if (remote) { external.push(u.hostname); r.abort(); } else r.continue();
+    if (isThirdParty(r.url())) { external.push(new URL(r.url()).hostname); r.abort(); }
+    else r.continue();
   });
   await mp.goto(new URL('naloxone-locations-map.html', BASE_URL).href, {waitUntil:'domcontentloaded', timeout:60000});
   await new Promise(r=>setTimeout(r,3000));

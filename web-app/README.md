@@ -99,8 +99,12 @@ Requirements:
 - Google Chrome at `/usr/bin/google-chrome` (override with `CHROME_PATH`)
 - `puppeteer-core`, installed with the other dev dependencies
 
-Override the target with `A11Y_URL` to run it against a deployed preview
-instead of a local server.
+Override the target with `A11Y_URL` to run it against a deployed preview or
+production instead of a local server — useful as a final check after a merge:
+
+```bash
+A11Y_URL=https://vivaslo.org/ npm run test:a11y
+```
 
 Run this after any change to the app shell — the header, the floating
 controls, modals, search, or the focus and layout CSS. It has caught several
