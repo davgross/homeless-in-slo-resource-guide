@@ -5,6 +5,11 @@ import printMapHelperUrl from './vite-plugin-print-map-helper-url.js';
 
 export default defineConfig({
   base: './',
+  define: {
+    // Stamped in at build time so the "last updated" line reports a real
+    // date rather than whenever the page happened to be loaded.
+    __BUILD_DATE__: JSON.stringify(new Date().toISOString())
+  },
   server: {
     watch: {
       // Watch parent directory for markdown file changes
@@ -43,12 +48,13 @@ export default defineConfig({
         name: 'VivaSLO Homeless Resource Guide',
         short_name: 'VivaSLO',
         description: 'Comprehensive resource guide for avoiding, surviving, and escaping homelessness in San Luis Obispo County',
-        theme_color: '#3877ff',
+        theme_color: '#1a62ff',
         background_color: '#ffffff',
         display: 'standalone',
         orientation: 'portrait-primary',
         categories: ['social', 'lifestyle', 'utilities'],
         lang: 'en-US',
+        dir: 'ltr',
         icons: [
           {
             src: 'icon-192.png',
@@ -83,6 +89,12 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,png,svg,json,txt,webmanifest}'],
+        // The standalone map pages are real pages, not app routes. Without
+        // these two lines the navigation fallback serves the app shell for
+        // any map URL that carries a query string (e.g. ?lang=es), so the
+        // reader gets the guide instead of the map they asked for.
+        navigateFallbackDenylist: [/-map\.html$/],
+        ignoreURLParametersMatching: [/^utm_/, /^fbclid$/, /^lang$/],
         runtimeCaching: [
           {
             urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,

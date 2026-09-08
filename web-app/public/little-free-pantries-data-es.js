@@ -1,4 +1,4 @@
-// Auto-generated from Directory.md - DO NOT EDIT MANUALLY
+// Auto-generated from Directory_es.md - DO NOT EDIT MANUALLY
 // Run 'npm run extract-map-data' to regenerate this file
 
 export const locations = [
@@ -78,13 +78,13 @@ export const locations = [
     "lat": 35.041418,
     "lon": -120.477533,
     "zoom": 17,
-    "label": "Nipomo, 181 W Tefft St."
+    "label": "Nipomo, 181 W. Tefft St."
   },
   {
     "lat": 35.03995,
     "lon": -120.47934,
     "zoom": 17,
-    "label": "Nipomo, 267 W Tefft St."
+    "label": "Nipomo, 267 W. Tefft St."
   },
   {
     "lat": 35.105814,
@@ -114,7 +114,7 @@ export const locations = [
     "lat": 35.62228,
     "lon": -120.694835,
     "zoom": 17,
-    "label": "Paso Robles, 8th St. and Olive St."
+    "label": "Paso Robles, 8th St. y Olive St."
   },
   {
     "lat": 35.648648,
@@ -186,7 +186,7 @@ export const locations = [
     "lat": 35.269527,
     "lon": -120.652344,
     "zoom": 17,
-    "label": "SLO, corner of San Carlos and Bushnell"
+    "label": "SLO, la esquina de San Carlos y Bushnell"
   },
   {
     "lat": 35.547338,

@@ -12,8 +12,62 @@
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
         }
         #map {
-            height: 100vh;
+            height: 60vh;
+            min-height: 300px;
             width: 100%;
+        }
+
+        /* Text alternative to the map. Everything on the map is also here, so
+           the page works for screen readers, keyboard users, and anyone whose
+           connection cannot load map tiles. */
+        .location-list {
+            padding: 1rem 1.25rem 3rem;
+            max-width: 44rem;
+            margin: 0 auto;
+            line-height: 1.6;
+            color: #333;
+        }
+        .location-list h2 {
+            font-size: 1.25rem;
+            margin: 0 0 0.25rem;
+        }
+        .location-list .list-intro {
+            margin: 0 0 1rem;
+            color: #595959;
+            font-size: 0.9rem;
+        }
+        .location-list ol {
+            margin: 0;
+            padding-left: 1.5rem;
+        }
+        .location-list li {
+            margin-bottom: 0.75rem;
+        }
+        .location-list a {
+            color: #1a62ff;
+        }
+        .location-list a:focus-visible,
+        .locate-btn:focus-visible,
+        .back-link:focus-visible {
+            outline: 3px solid #ffffff;
+            outline-offset: 2px;
+            box-shadow: 0 0 0 6px #0b2a6b;
+        }
+
+        .locate-btn {
+            display: inline-block;
+            margin-top: 8px;
+            padding: 8px 14px;
+            font: inherit;
+            font-size: 14px;
+            background: #1a62ff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .locate-btn:hover {
+            background: #0b2a6b;
         }
         .header {
             position: absolute;
@@ -225,15 +279,16 @@
 <body>
     <div class="header">
         <h1>🥫 Little Free Pantries in SLO County</h1>
-        <p id="location-count">Loading locations...</p>
+        <p id="location-count">Loading locations…</p>
+        <button type="button" class="locate-btn" id="locate-btn">Show my location</button>
     </div>
     <a href="Directory.md#Little-Free-Pantries" class="back-link">← Back to Directory</a>
 
     <!-- Share Button -->
-    <button class="share-btn" aria-label="Share this map" title="Share">🔗</button>
+    <button type="button" class="share-btn" aria-label="Share this map" title="Share">🔗</button>
 
     <!-- Feedback Button -->
-    <button class="feedback-btn" aria-label="Send feedback" title="Send feedback">💬</button>
+    <button type="button" class="feedback-btn" aria-label="Send feedback" title="Send feedback">💬</button>
 
     <!-- Share Notification -->
     <div class="share-notification" id="share-notification"></div>
@@ -263,7 +318,7 @@
 
                 <div class="feedback-buttons">
                     <button type="button" class="feedback-cancel" id="feedback-cancel">Cancel</button>
-                    <button type="button" class="feedback-submit" id="feedback-submit">Send Feedback</button>
+                    <button type="submit" class="feedback-submit" id="feedback-submit">Send Feedback</button>
                 </div>
             </form>
 
@@ -275,26 +330,71 @@
         </div>
     </div>
 
-    <div id="map"></div>
+    <div id="map" role="img" aria-label="Map of Little Free Pantries in San Luis Obispo County. The same locations are listed as text below."></div>
+
+    <section class="location-list" aria-labelledby="location-list-heading">
+      <h2 id="location-list-heading">All Little Free Pantries</h2>
+      <p class="list-intro" id="location-list-intro"></p>
+      <ol id="location-list"></ol>
+    </section>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script type="module">
-        // Import location data (auto-generated from Directory.md)
-        import { locations, config } from './little-free-pantries-data.js';
-        // Import shared feedback functionality
+        // Import translations first: the dataset to load depends on language
+        import { applyMapTranslations, getMapLanguage } from './map-i18n.js';
         import { initMapFeedback } from './map-feedback.js';
+
+        // Location data is generated in both languages, because the place
+        // descriptions themselves are translated in the Spanish sources.
+        const { locations, config } = getMapLanguage() === 'es'
+          ? await import('./little-free-pantries-data-es.js')
+          : await import('./little-free-pantries-data.js');
+        // Swap page chrome to the reader's language before anything renders
+        const t = applyMapTranslations({
+          en: { title: 'Little Free Pantries - SLO County', heading: '🥫 Little Free Pantries in SLO County', listHeading: 'All Little Free Pantries', mapAltSubject: 'Map of Little Free Pantries' },
+          es: { title: 'Little Free Pantries - Condado de SLO', heading: '🥫 Little Free Pantries en el condado de SLO', listHeading: 'Todas las Little Free Pantries', mapAltSubject: 'Mapa de Little Free Pantries' }
+        });
 
         // Update location count
         document.getElementById('location-count').textContent =
-            `${locations.length} locations county-wide • Click markers for addresses`;
+            `${locations.length} ${t.countSuffix}`;
+
+        // Render the same locations as a text list. This is the accessible
+        // equivalent of the map, not a secondary feature: it is what screen
+        // reader users, keyboard users and people on slow connections get.
+        (function renderLocationList() {
+            const list = document.getElementById('location-list');
+            const intro = document.getElementById('location-list-intro');
+            if (!list) return;
+
+            intro.textContent = t.listIntro;
+
+            locations.forEach(location => {
+                const item = document.createElement('li');
+                const link = document.createElement('a');
+                const zoom = location.zoom || 16;
+
+                link.href = 'https://www.openstreetmap.org/?mlat=' + location.lat +
+                            '&mlon=' + location.lon + '#map=' + zoom + '/' +
+                            location.lat + '/' + location.lon;
+                link.rel = 'noopener noreferrer';
+                link.textContent = location.label;
+
+                item.appendChild(link);
+                list.appendChild(item);
+            });
+        })();
 
         // Initialize map - center on SLO County
         const defaultCenter = config.center;
         const defaultZoom = config.defaultZoom;
 
-        // Try to use user's location if available (without prompting)
+        // Geolocation is opt-in. Asking on page load pops a browser permission
+        // prompt, which is alarming and confusing for many readers of this
+        // guide; they should choose to share their location.
         let userLocation = null;
-        if (navigator.geolocation) {
+        function requestUserLocation() {
+            if (!navigator.geolocation) return;
             navigator.geolocation.getCurrentPosition(
                 function(position) {
                     const lat = position.coords.latitude;
@@ -309,15 +409,17 @@
                                 iconSize: [24, 24],
                                 iconAnchor: [12, 12]
                             })
-                        }).addTo(map).bindPopup("📍 Your location");
+                        }).addTo(map).bindPopup(t.yourLocation);
                     }
                 },
                 function(error) {
                     // Silently fail - just use default center
                 },
-                { timeout: 3000, maximumAge: 60000 }
+                { timeout: 8000, maximumAge: 60000 }
             );
         }
+
+        document.getElementById('locate-btn').addEventListener('click', requestUserLocation);
 
         const map = L.map('map').setView(defaultCenter, defaultZoom);
 
@@ -356,7 +458,7 @@
                 } else {
                     // Fallback: copy to clipboard
                     await navigator.clipboard.writeText(window.location.href);
-                    showNotification('Link copied to clipboard!');
+                    showNotification(t.linkCopied);
                 }
             } catch (err) {
                 if (err.name !== 'AbortError') {

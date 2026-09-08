@@ -9,6 +9,8 @@ import { initFontSizeControl } from './fontSizeControl.js';
 import { initInstallPrompt } from './installPrompt.js';
 import { getStrings, getCurrentLanguage } from './strings.js';
 import { initI18n } from './i18nInit.js';
+import { openModal, closeModal } from './modal.js';
+import { scrollBehavior } from './motion.js';
 import { initLanguageSwitcher } from './languageSwitcher.js';
 
 // Import markdown files directly as raw text (English and Spanish)
@@ -108,8 +110,7 @@ function loadFontSizePreference() {
       const FONT_SIZES = [80, 90, 100, 110, 120, 130, 140, 150];
       if (index >= 0 && index < FONT_SIZES.length) {
         const percentage = FONT_SIZES[index];
-        const baseFontSize = 16 * (percentage / 100);
-        document.documentElement.style.setProperty('--font-size-base', `${baseFontSize}px`);
+        document.documentElement.style.setProperty('--font-size-scale', `${percentage}%`);
       }
     }
   } catch (e) {
@@ -144,6 +145,11 @@ function deferNonCriticalInit() {
 
   // Final scroll padding adjustment
   setTimeout(updateScrollPadding, 100);
+
+  // Tables: decide which need a keyboard-reachable scroll box
+  updateTableScrollAffordance();
+  window.addEventListener('resize', updateTableScrollAffordance);
+  document.addEventListener('vivaslo:textsizechange', updateTableScrollAffordance);
 }
 
 // Setup navigation between sections
@@ -222,13 +228,13 @@ function initTOCButton() {
 
     // Update aria-label for better accessibility
     if (isInView) {
-      tocBtn.setAttribute('aria-label', 'Index (currently visible)');
+      tocBtn.setAttribute('aria-label', strings.toc.button.ariaLabelInView);
     } else if (isAbove) {
-      tocBtn.setAttribute('aria-label', 'Jump up to index');
+      tocBtn.setAttribute('aria-label', strings.toc.button.ariaLabelAbove);
     } else if (isBelow) {
-      tocBtn.setAttribute('aria-label', 'Jump down to index');
+      tocBtn.setAttribute('aria-label', strings.toc.button.ariaLabelBelow);
     } else {
-      tocBtn.setAttribute('aria-label', 'Jump to index');
+      tocBtn.setAttribute('aria-label', strings.toc.button.ariaLabel);
     }
   }
 
@@ -237,7 +243,7 @@ function initTOCButton() {
     // Find the TOC heading in the resources section
     const tocHeading = document.querySelector('#resources-section a[id="table-of-contents"]');
     if (tocHeading) {
-      tocHeading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      tocHeading.scrollIntoView({ behavior: scrollBehavior(), block: 'start' });
     }
   });
 
@@ -267,10 +273,10 @@ function initTOCButton() {
   // Also update position after a short delay to ensure header is fully rendered
   setTimeout(updateTOCButtonPosition, 100);
 
-  // Update visibility when section changes
-  // Call immediately and then check periodically for section changes
+  // Update visibility when the section actually changes, rather than polling
+  // twice a second forever (needless battery drain on a low-end phone).
   updateTOCButtonVisibility();
-  setInterval(updateTOCButtonVisibility, 500);
+  document.addEventListener('vivaslo:sectionchange', updateTOCButtonVisibility);
 }
 
 // Navigate to a section
@@ -296,9 +302,15 @@ function navigateToSection(section) {
 // Announce message to screen readers
 function announce(message) {
   const announcer = document.getElementById('announcer');
-  if (announcer) {
+  if (!announcer) return;
+
+  // Setting the same text twice is a no-op for a live region, so searching
+  // for the same term twice would announce nothing the second time. Clearing
+  // first forces the change that screen readers listen for.
+  announcer.textContent = '';
+  window.requestAnimationFrame(() => {
     announcer.textContent = message;
-  }
+  });
 }
 
 // Show a specific section
@@ -340,6 +352,9 @@ function showSection(section, updateHistory = true) {
 
   // Update state
   state.currentSection = section;
+
+  // Lets the Index button (and anything else) react without polling
+  document.dispatchEvent(new CustomEvent('vivaslo:sectionchange', { detail: { section } }));
 
   if (updateHistory) {
     const url = new URL(window.location);
@@ -424,7 +439,7 @@ function renderResources() {
   // Setup map link handlers
   setupMapLinks(section);
 
-  // Add share buttons to section headings
+// Add share buttons to section headings
   addSectionShareButtons(section);
 
   // Transform TOC into icon lozenges
@@ -547,7 +562,7 @@ function transformTOCToLozenges(container) {
   const lozengeGrid = document.createElement('div');
   lozengeGrid.className = 'toc-lozenge-grid';
   lozengeGrid.setAttribute('role', 'navigation');
-  lozengeGrid.setAttribute('aria-label', 'Index');
+  lozengeGrid.setAttribute('aria-label', strings.toc.gridLabel);
 
   // Create lozenge for each section
   sections.forEach(section => {
@@ -657,8 +672,14 @@ function setupMapLinks(container) {
     // Set default href to OpenStreetMap
     const osmUrl = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=${zoom}/${lat}/${lon}`;
     link.href = osmUrl;
+    // Map links keep opening in a new tab on purpose: handing off to a maps
+    // app should not cost the reader their place in the guide. Because it is
+    // a new tab, say so in the accessible name.
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
+    if (!link.hasAttribute('aria-label')) {
+      link.setAttribute('aria-label', strings.links.opensInNewTab(link.textContent.trim()));
+    }
 
     // Add onclick handler for platform-specific behavior
     link.onclick = function() {
@@ -677,11 +698,43 @@ function setupMapLinks(container) {
   });
 }
 
+/**
+ * A scrollable box must be reachable by keyboard, but only when it actually
+ * scrolls — otherwise every table in the guide becomes a stop in the tab
+ * order. Re-checked on resize and whenever the text size changes.
+ */
+function updateTableScrollAffordance() {
+  document.querySelectorAll('.table-scroll').forEach(wrapper => {
+    const scrolls = wrapper.scrollWidth > wrapper.clientWidth + 1;
+
+    if (scrolls) {
+      wrapper.setAttribute('tabindex', '0');
+      wrapper.setAttribute('role', 'region');
+      wrapper.setAttribute('aria-label', strings.tables.scrollLabel);
+    } else {
+      wrapper.removeAttribute('tabindex');
+      wrapper.removeAttribute('role');
+      wrapper.removeAttribute('aria-label');
+    }
+  });
+}
+
 // Enhance tables with data-label attributes for responsive mobile display
 function enhanceTables(container) {
   const tables = container.querySelectorAll('table');
 
   tables.forEach(table => {
+    // Wrap the table so it scrolls inside its own box. Without this a wide
+    // table widens the whole page at large text sizes, and on a phone that
+    // pushes the fixed toolbar buttons off the edge of the screen
+    // (and forces two-dimensional scrolling — WCAG 1.4.10 Reflow).
+    if (!table.parentElement.classList.contains('table-scroll')) {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'table-scroll';
+      table.parentNode.insertBefore(wrapper, table);
+      wrapper.appendChild(table);
+    }
+
     // Get all header cells from thead
     const headers = Array.from(table.querySelectorAll('thead th')).map(th => th.textContent.trim());
 
@@ -726,17 +779,9 @@ function addSectionShareButtons(container, sectionName = 'resources') {
     // Create and add share button
     const shareBtn = createSectionShareButton(sectionTitle, sectionUrl);
 
-    // Add the button before the heading text
-    heading.style.position = 'relative';
-    heading.style.display = 'flex';
-    heading.style.alignItems = 'baseline';
-    heading.style.gap = '0.5rem';
-
-    // Make the anchor flexible so its text can wrap
-    if (anchor) {
-      anchor.style.flex = '1';
-      anchor.style.minWidth = '0';
-    }
+    // Add the button before the heading text. Layout lives in CSS
+    // (.has-share-button) rather than inline styles.
+    heading.classList.add('has-share-button');
 
     heading.insertBefore(shareBtn, heading.firstChild);
   });
@@ -857,53 +902,35 @@ function showDirectoryEntry(entryId) {
   // Setup map link handlers within the modal
   setupMapLinks(content);
 
-  // Show overlay
-  overlay.hidden = false;
+  // Give the entry heading an id so the dialog can be named by it
+  const entryHeading = content.querySelector('.directory-entry h2');
+  let labelledBy;
+  if (entryHeading) {
+    entryHeading.id = 'directory-entry-title';
+    labelledBy = 'directory-entry-title';
+  }
 
-  // Trap focus in modal
-  trapFocus(overlay);
+  // Show overlay with dialog semantics, focus trap and background inerting
+  openModal(overlay, {
+    labelledBy,
+    label: labelledBy ? undefined : entry.title
+  });
 }
 
 // Hide directory overlay
 function hideDirectoryOverlay() {
   const overlay = document.getElementById('directory-overlay');
-  overlay.hidden = true;
+  if (overlay.hidden) return;
+
+  // Returns focus to the link that opened the entry
+  closeModal(overlay);
 
   // Clear current directory entry from state
   state.currentDirectoryEntry = null;
 }
 
-// Trap focus within modal for accessibility
-function trapFocus(element) {
-  const focusableElements = element.querySelectorAll(
-    'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
-  );
-
-  if (focusableElements.length === 0) return;
-
-  const firstElement = focusableElements[0];
-  const lastElement = focusableElements[focusableElements.length - 1];
-
-  // Focus first element
-  firstElement.focus();
-
-  // Trap focus
-  element.addEventListener('keydown', function(e) {
-    if (e.key !== 'Tab') return;
-
-    if (e.shiftKey) {
-      if (document.activeElement === firstElement) {
-        lastElement.focus();
-        e.preventDefault();
-      }
-    } else {
-      if (document.activeElement === lastElement) {
-        firstElement.focus();
-        e.preventDefault();
-      }
-    }
-  });
-}
+// Index of the currently highlighted search result (-1 = none)
+let activeResultIndex = -1;
 
 // Setup search functionality
 function setupSearch() {
@@ -916,6 +943,62 @@ function setupSearch() {
     searchTimeout = setTimeout(() => {
       performSearch(e.target.value);
     }, 300); // Debounce search
+  });
+
+  // Keyboard operation of the results list (ARIA combobox pattern)
+  searchInput.addEventListener('keydown', (e) => {
+    const options = getResultOptions();
+
+    switch (e.key) {
+      case 'ArrowDown':
+        e.preventDefault();
+        if (options.length === 0) {
+          // Re-open results for the current query if they were dismissed
+          if (searchInput.value.trim().length >= 2) performSearch(searchInput.value);
+          return;
+        }
+        setActiveResult(activeResultIndex + 1 >= options.length ? 0 : activeResultIndex + 1);
+        break;
+
+      case 'ArrowUp':
+        e.preventDefault();
+        if (options.length === 0) return;
+        setActiveResult(activeResultIndex <= 0 ? options.length - 1 : activeResultIndex - 1);
+        break;
+
+      case 'Home':
+        if (options.length === 0) return;
+        e.preventDefault();
+        setActiveResult(0);
+        break;
+
+      case 'End':
+        if (options.length === 0) return;
+        e.preventDefault();
+        setActiveResult(options.length - 1);
+        break;
+
+      case 'Enter':
+        if (activeResultIndex >= 0 && options[activeResultIndex]) {
+          e.preventDefault();
+          activateResult(options[activeResultIndex]);
+        }
+        break;
+
+      case 'Escape':
+        if (!searchResults.hidden) {
+          e.preventDefault();
+          clearSearchResults();
+        } else if (searchInput.value) {
+          searchInput.value = '';
+        }
+        break;
+
+      case 'Tab':
+        // Moving on closes the list; never trap the user in it
+        clearSearchResults();
+        break;
+    }
   });
 
   // Close search results when clicking outside
@@ -932,6 +1015,48 @@ function setupSearch() {
       performSearch(searchInput.value);
     }
   });
+}
+
+// All currently rendered result options
+function getResultOptions() {
+  return Array.from(document.querySelectorAll('#search-listbox .search-result-item'));
+}
+
+// Highlight one result and point aria-activedescendant at it
+function setActiveResult(index) {
+  const options = getResultOptions();
+  const searchInput = document.getElementById('search-input');
+
+  options.forEach((opt, i) => {
+    const isActive = i === index;
+    opt.classList.toggle('is-active', isActive);
+    opt.setAttribute('aria-selected', isActive ? 'true' : 'false');
+  });
+
+  activeResultIndex = index;
+
+  if (index >= 0 && options[index]) {
+    searchInput.setAttribute('aria-activedescendant', options[index].id);
+    options[index].scrollIntoView({ block: 'nearest' });
+  } else {
+    searchInput.removeAttribute('aria-activedescendant');
+  }
+}
+
+// Open whatever a result points at
+function activateResult(item) {
+  const type = item.dataset.resultType;
+  const id = item.dataset.resultId;
+
+  if (type === 'directory') {
+    showDirectoryEntry(id);
+  } else if (type === 'resource-section') {
+    navigateToResourceSection(id);
+  } else {
+    navigateToSection('resources');
+  }
+
+  clearSearchResults();
 }
 
 // Normalize text for search by converting unicode quotes/apostrophes to ASCII equivalents
@@ -1220,9 +1345,9 @@ function displaySearchResults(results, query) {
   }
 
   // Build results HTML
-  let html = `<div class="search-results-header">${strings.search.found(results.length)}</div>`;
+  let html = '';
 
-  results.forEach(result => {
+  results.forEach((result, index) => {
     let typeLabel;
     if (result.type === 'directory') {
       typeLabel = strings.search.directoryEntry;
@@ -1243,34 +1368,37 @@ function displaySearchResults(results, query) {
     const highlightedSnippet = highlightMatches(result.snippet, query);
 
     html += `
-      <div class="search-result-item" role="option" data-result-type="${result.type}" data-result-id="${result.id}">
-        <div class="search-result-title">${result.title}</div>
-        <div class="search-result-type">${typeLabel}</div>
-        <div class="search-result-snippet">${highlightedSnippet}</div>
-      </div>
+      <li class="search-result-item" role="option" id="search-option-${index}" aria-selected="false" data-result-type="${result.type}" data-result-id="${result.id}">
+        <span class="search-result-title">${escapeHtml(result.title)}</span>
+        <span class="search-result-type">${typeLabel}</span>
+        <span class="search-result-snippet">${highlightedSnippet}</span>
+      </li>
     `;
   });
 
-  searchResultsEl.innerHTML = html;
+  // The count sits outside the listbox: a listbox may only contain options
+  const headerEl = document.getElementById('search-results-header');
+  if (headerEl) headerEl.textContent = strings.search.found(results.length);
+
+  const listbox = document.getElementById('search-listbox');
+  listbox.innerHTML = html;
+  listbox.hidden = false;
   searchResultsEl.hidden = false;
 
+  // Nothing is highlighted until the user presses an arrow key
+  setActiveResult(-1);
+
   // Add click handlers
-  searchResultsEl.querySelectorAll('.search-result-item').forEach(item => {
-    item.addEventListener('click', () => {
-      const type = item.dataset.resultType;
-      const id = item.dataset.resultId;
-
-      if (type === 'directory') {
-        showDirectoryEntry(id);
-      } else if (type === 'resource-section') {
-        navigateToResourceSection(id);
-      } else {
-        navigateToSection('resources');
-      }
-
-      clearSearchResults();
-    });
+  listbox.querySelectorAll('.search-result-item').forEach(item => {
+    item.addEventListener('click', () => activateResult(item));
   });
+}
+
+// Escape text destined for innerHTML
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
 }
 
 // Navigate to a specific section within Resources
@@ -1302,11 +1430,11 @@ function navigateToResourceSection(anchorId) {
       if (anchor) {
         // Use browser's native scroll with scroll-padding-top
         // This automatically accounts for the dynamic header height
-        anchor.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        anchor.scrollIntoView({ behavior: scrollBehavior(), block: 'start' });
       } else {
         console.warn('Anchor not found:', anchorId);
         // Fallback: try to scroll to top of resources
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: scrollBehavior() });
       }
     }, 150);
   });
@@ -1317,23 +1445,34 @@ function clearSearchResults() {
   const searchResultsEl = document.getElementById('search-results');
   const searchInput = document.getElementById('search-input');
 
-  searchResultsEl.hidden = true;
-  searchResultsEl.innerHTML = '';
+  const listbox = document.getElementById('search-listbox');
+  const headerEl = document.getElementById('search-results-header');
 
-  // Reset aria-expanded on search input
+  searchResultsEl.hidden = true;
+  if (listbox) listbox.innerHTML = '';
+  if (headerEl) headerEl.textContent = '';
+
+  activeResultIndex = -1;
+
+  // Reset combobox state on the search input
   if (searchInput) {
     searchInput.setAttribute('aria-expanded', 'false');
+    searchInput.removeAttribute('aria-activedescendant');
   }
 }
 
 // Show no results message
 function showNoResults(query) {
   const searchResultsEl = document.getElementById('search-results');
-  searchResultsEl.innerHTML = `
-    <div class="search-no-results">
-      ${strings.search.noResults} "<strong>${query}</strong>"
-    </div>
-  `;
+  const listbox = document.getElementById('search-listbox');
+  const headerEl = document.getElementById('search-results-header');
+
+  if (listbox) listbox.innerHTML = '';
+  if (headerEl) {
+    headerEl.textContent = `${strings.search.noResults} "${query}"`;
+  }
+
+  activeResultIndex = -1;
   searchResultsEl.hidden = false;
 }
 
@@ -1386,13 +1525,23 @@ function restoreState() {
 // Update last modified date
 function updateLastModifiedDate() {
   const dateElement = document.getElementById('last-update-date');
-  if (dateElement) {
-    dateElement.textContent = new Date().toLocaleDateString('en-US', {
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric'
-    });
+  if (!dateElement) return;
+
+  // BUILD_DATE is stamped in at build time by vite.config.js. Falling back to
+  // "now" would claim the guide was updated the moment the page loaded, which
+  // is worse than saying nothing.
+  const buildDate = typeof __BUILD_DATE__ !== 'undefined' ? __BUILD_DATE__ : null;
+  if (!buildDate) {
+    dateElement.textContent = '';
+    return;
   }
+
+  const locale = getCurrentLanguage() === 'es' ? 'es-MX' : 'en-US';
+  dateElement.textContent = new Date(buildDate).toLocaleDateString(locale, {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
 }
 
 // Start the app

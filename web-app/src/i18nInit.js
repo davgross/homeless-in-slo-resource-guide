@@ -99,12 +99,24 @@ function updateSearch(strings) {
   const searchInput = document.getElementById('search-input');
   if (searchInput) {
     searchInput.setAttribute('placeholder', strings.search.placeholder);
-    searchInput.setAttribute('aria-label', strings.search.ariaLabel);
+    // No aria-label: the visible <label> names the field, and a matching
+    // visible/accessible name is what voice-control users need (WCAG 2.5.3).
+    searchInput.removeAttribute('aria-label');
   }
 
-  const searchResults = document.getElementById('search-results');
-  if (searchResults) {
-    searchResults.setAttribute('aria-label', strings.search.resultsLabel);
+  const searchLabel = document.querySelector('.search-label');
+  if (searchLabel) {
+    searchLabel.textContent = strings.search.label;
+  }
+
+  const searchInstructions = document.getElementById('search-instructions');
+  if (searchInstructions) {
+    searchInstructions.textContent = strings.search.instructions;
+  }
+
+  const searchListbox = document.getElementById('search-listbox');
+  if (searchListbox) {
+    searchListbox.setAttribute('aria-label', strings.search.resultsLabel);
   }
 }
 
@@ -132,6 +144,12 @@ function updateLoadingStates(strings) {
  * Update buttons
  */
 function updateButtons(strings) {
+  // Floating control cluster
+  const toolbar = document.getElementById('app-toolbar');
+  if (toolbar) {
+    toolbar.setAttribute('aria-label', strings.toolbar.label);
+  }
+
   // Share button
   const shareBtn = document.getElementById('share-btn');
   if (shareBtn) {
@@ -203,12 +221,6 @@ function updateFontSizeControl(strings) {
     if (increaseBtn) {
       increaseBtn.textContent = strings.fontSize.popup.increase;
       increaseBtn.setAttribute('aria-label', strings.fontSize.popup.increaseAriaLabel);
-    }
-
-    // OpenDyslexic toggle
-    const dyslexicToggle = document.getElementById('opendyslexic-toggle');
-    if (dyslexicToggle) {
-      dyslexicToggle.setAttribute('aria-label', strings.fontSize.popup.dyslexicAriaLabel);
     }
 
     // OpenDyslexic label

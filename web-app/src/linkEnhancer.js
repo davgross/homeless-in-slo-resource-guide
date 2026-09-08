@@ -1,3 +1,12 @@
+import { getStrings } from './strings.js';
+
+// Resolved once: enhanceLinks() runs over thousands of links per render
+let strings = null;
+function labels() {
+  if (!strings) strings = getStrings();
+  return strings.links;
+}
+
 /**
  * Link Enhancer - Enhances links with smart functionality
  * - Phone numbers become clickable tel: links
@@ -23,7 +32,7 @@ function enhancePhoneLinks(container) {
 
   phoneLinks.forEach(link => {
     // Add proper attributes
-    link.setAttribute('aria-label', `Call ${link.textContent.trim()}`);
+    link.setAttribute('aria-label', labels().call(link.textContent.trim()));
 
     // Ensure proper format
     const href = link.getAttribute('href');
@@ -69,7 +78,7 @@ function convertPlainPhoneNumbers(container) {
         const cleanNumber = match.replace(/\D/g, '');
         link.href = `tel:+1-${cleanNumber}`;
         link.textContent = match;
-        link.setAttribute('aria-label', `Call ${match}`);
+        link.setAttribute('aria-label', labels().call(match));
         fragment.appendChild(link);
 
         lastIndex = offset + match.length;
@@ -95,7 +104,7 @@ function enhanceEmailLinks(container) {
   const emailLinks = container.querySelectorAll('a[href^="mailto:"]');
 
   emailLinks.forEach(link => {
-    link.setAttribute('aria-label', `Email ${link.textContent.trim()}`);
+    link.setAttribute('aria-label', labels().email(link.textContent.trim()));
   });
 }
 
@@ -109,14 +118,13 @@ function enhanceExternalLinks(container) {
     // Check if it's truly external
     const url = new URL(link.href);
     if (url.hostname !== window.location.hostname) {
-      link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener');
-
-      // Add aria-label
-      const currentLabel = link.getAttribute('aria-label');
-      if (!currentLabel) {
-        link.setAttribute('aria-label', `${link.textContent.trim()} (opens in new tab)`);
-      }
+      // External links open in the same tab. Many readers of this guide use
+      // shared or low-end devices where a surprise new tab breaks the back
+      // button and strands them. The PWA's own back button gets them home.
+      link.removeAttribute('target');
+      link.setAttribute('rel', 'noopener noreferrer');
+      // Styling hook for the ↗ indicator, kept independent of tab behaviour
+      link.setAttribute('data-external', 'true');
     }
   });
 }

@@ -46,16 +46,20 @@ web-app/
 │   ├── shareButton.js      # Share functionality
 │   ├── installPrompt.js    # PWA install prompt handling
 │   ├── fontSizeControl.js  # Font size and OpenDyslexic toggle
+│   ├── modal.js            # Shared dialog focus management
+│   ├── motion.js           # prefers-reduced-motion helpers
 │   ├── strings.js          # Internationalization strings
 │   ├── i18nInit.js         # i18n initialization
 │   └── languageSwitcher.js # Language switcher UI
 ├── scripts/                # Build and validation scripts
-│   ├── extract-map-data.js # Extract coordinates from markdown
+│   ├── extract-map-data.js # Extract coordinates (both languages)
+│   ├── a11y-smoke.mjs      # Headless accessibility behaviour tests
 │   └── validate-html.js    # HTML validation script
 ├── public/                 # Static assets (icons, robots.txt, maps)
 │   ├── map-feedback.js     # Shared feedback library for map pages
+│   ├── map-i18n.js         # Translations for the standalone map pages
 │   ├── *-map.html          # Map viewer pages (libraries, pantries, naloxone)
-│   └── *-data.js           # Auto-generated map coordinate data
+│   └── *-data{,-es}.js     # Auto-generated map coordinate data, per language
 ├── functions/              # Cloudflare Pages Functions (serverless)
 │   ├── api/
 │   │   └── feedback.js     # Feedback API endpoint
@@ -387,7 +391,36 @@ const strings = {
 };
 ```
 
-### 9. style.css - Visual Design
+### 9. modal.js - Dialog Focus Management
+
+Shared by all three modals (directory entry, feedback form, QR code). Before
+this module each of them handled focus differently and none handled it fully.
+
+**Responsibilities:**
+
+- Applies `role="dialog"`, `aria-modal="true"` and `aria-labelledby`
+- Moves focus to the dialog container, so a screen reader announces the
+  dialog's name before its first control
+- Traps `Tab` inside the dialog, registering exactly one handler per
+  open and removing it on close
+- Makes everything outside the dialog `inert` — walking *up* the ancestor
+  chain and inerting siblings at each level, because the directory overlay is
+  nested inside `#app` and inerting only `<body>`'s children would leave the
+  header, toolbar and guide reachable
+- Restores focus to the element that opened the dialog
+
+**API:** `openModal(el, {labelledBy, label, initialFocus})`, `closeModal(el)`,
+`isModalOpen()`
+
+### 10. motion.js - Reduced Motion
+
+CSS media queries cannot reach `scrollIntoView()`, so JavaScript-driven
+scrolling has to check the preference itself.
+
+**API:** `scrollBehavior()` returns `'auto'` or `'smooth'`;
+`prefersReducedMotion()` returns a boolean.
+
+### 11. style.css - Visual Design
 
 **Key Features**:
 
@@ -404,7 +437,7 @@ const strings = {
 - White: #ffffff
 - Plus semantic colors for links, visited, etc.
 
-### 10. Serverless Backend - Feedback Email System
+### 12. Serverless Backend - Feedback Email System
 
 **Purpose**: Sends feedback emails immediately without requiring user's
 email client
@@ -444,7 +477,7 @@ Recipient Email
 3. Service binding configured in Pages settings
 4. Worker deployed with email binding
 
-### 11. Map Pages - Geographic Resource Visualizations
+### 13. Map Pages - Geographic Resource Visualizations
 
 **Purpose**: Standalone HTML pages displaying resources on interactive
 OpenStreetMap maps
@@ -473,7 +506,7 @@ OpenStreetMap maps
   `<a class="map-link" data-lat="..." data-lon="..." data-zoom="..."
   data-label="...">Map</a>`
 
-### 12. Markdown Minification Plugin
+### 14. Markdown Minification Plugin
 
 **Purpose**: Custom Vite plugin to reduce markdown file size in the bundle
 
@@ -494,7 +527,7 @@ OpenStreetMap maps
 - Preserves markdown structure and formatting
 - No impact on runtime - optimization happens at build time
 
-### 13. Build Scripts
+### 15. Build Scripts
 
 **Purpose**: Automation scripts for data extraction and validation
 
@@ -532,7 +565,7 @@ generates JavaScript data files for map pages
 - Automatically runs after `npm run build` (unless using `build:novalidate`)
 - Validates both source `index.html` and built `dist/index.html`
 
-### 14. Map Helper URL Plugin
+### 16. Map Helper URL Plugin
 
 **Purpose**: Custom Vite plugin that prints the URL of the Map Data Helper
 tool alongside the main site URL when the dev server starts
@@ -611,14 +644,24 @@ tool alongside the main site URL when the dev server starts
    ↓
 3. Rank results by relevance
    ↓
-4. Show dropdown with results
+4. Render as <ul role="listbox"> of <li role="option">
+   (the result count sits outside the listbox: a listbox
+    may contain only options)
    ↓
-5. User clicks result
+5. User picks one, by click OR by ↓/↑/Home/End then Enter
+   (keyboard selection moves aria-activedescendant and
+    aria-selected; focus stays on the input, per the
+    ARIA combobox pattern)
    ↓
 6. Navigate to section/entry
    ↓
-7. Close search dropdown
+7. Close dropdown, clear aria-activedescendant
 ```
+
+The search input is a full ARIA combobox: `role="combobox"`,
+`aria-expanded`, `aria-controls` pointing at the listbox,
+`aria-autocomplete="list"`, and a visible `<label>` (no competing
+`aria-label`, so the visible and accessible names match).
 
 ## Content Import System
 
@@ -1102,6 +1145,74 @@ Internationalization (i18n) support:
 - Added language-specific meta tags and aria-labels
 - Designed extensible system for adding additional languages
 - Preserved accessibility features across all languages
+
+### Version 1.4 (2026-09-07)
+
+Accessibility remediation following the September 2026 audit
+(see `../ACCESSIBILITY_AUDIT.md`):
+
+- **Search is now keyboard-operable.** Full ARIA combobox pattern; previously
+  results could only be reached with a mouse.
+- **New `modal.js`**: dialog semantics, focus containment, background
+  `inert`, and focus restoration for all three modals.
+- **New `motion.js`**: JS scrolling now respects `prefers-reduced-motion`.
+- **New `#app-toolbar`**: the six floating buttons moved from the end of the
+  document to just after the header, so keyboard users reach the text-size and
+  language controls in 9 tabs instead of several thousand.
+- **Text scaling is multiplicative** (`--font-size-scale`, a percentage) and no
+  longer overrides the reader's browser font-size setting.
+- Focus indicators restored on five controls and recoloured to pass 1.4.11 on
+  both the white page and the blue header.
+- External link and error colours darkened to pass 4.5:1 on all three section
+  backgrounds.
+- Ten hardcoded English ARIA labels moved into `strings.js`.
+- Map pages: text list of every location, opt-in geolocation, and translation
+  via the new `public/map-i18n.js`.
+- Added `forced-colors` support; fixed `prefers-contrast: high` → `more`.
+- Fixed a latent service-worker bug where `navigateFallback` served the app
+  shell for any map URL with a query string.
+- Added `npm run test:a11y` (`scripts/a11y-smoke.mjs`), 23 headless
+  behavioural assertions.
+
+### Version 1.4.1 (2026-09-07)
+
+Follow-up from browser review of the 1.4 accessibility work:
+
+- **Performance**: `getCurrentLanguage()` now caches its result. It was
+  re-reading `localStorage` on every call, and `enhanceLinks()` calls it once
+  per link — ~1,700 synchronous reads per load. Render is now 13.5% faster
+  than the pre-1.4 baseline.
+- **Tables scroll in their own container** (`.table-scroll`), so a wide table
+  no longer widens the layout viewport. That widening pushed the fixed
+  toolbar buttons off-screen on phones above ~120% text and was a WCAG 1.4.10
+  Reflow failure predating 1.4. Wrappers become keyboard-focusable only when
+  they actually scroll, via `updateTableScrollAffordance()`.
+- **Focus indicators** are no longer animated (16 `transition: all`
+  declarations replaced with explicit property lists) and a higher-specificity
+  `#app-toolbar button:focus-visible` rule beats the per-button `#id` rules.
+- **Skip link** uses a transform rather than a fixed negative offset, so it
+  cannot leave a sliver visible when the text is larger than assumed.
+- **Search label** is visually hidden with a magnifier icon as the visual cue.
+- **Map data is generated in both languages** by `extract-map-data.js`
+  (`*-data.js` and `*-data-es.js`), and library/pantry labels now include the
+  city. Map pages pick the dataset matching the reader's language.
+- Toolbar popups are mutually exclusive and repositioned at both breakpoints.
+- **Header nav wrapping is confined to narrow screens.** `.app-nav` wraps
+  mobile-first (so large text cannot force the page wider) but is
+  `flex-wrap: nowrap` from 768px up. Without that restriction the wrapping
+  flex container resolved to a two-button width at >=1024px and split the nav
+  across two rows on desktop.
+- **The document language is set during head parsing** by a small inline
+  script in `index.html`, rather than waiting for the deferred module bundle.
+  It mirrors `getCurrentLanguage()` in `strings.js`, which remains the
+  authority. This keeps the document from ever declaring a language that
+  contradicts its own content.
+- **`npm run test:a11y`** (`scripts/a11y-smoke.mjs`) — 31 headless
+  behavioural assertions. Requires Chrome and a running preview server; see
+  `README.md`. Runs in CI via `.github/workflows/accessibility.yml`, which
+  builds, serves and tests on every PR touching `web-app/` or guide content.
+  It is a separate workflow from `pr-checks.yml` because that one triggers
+  only on markdown paths and would never fire on a code-only change.
 
 ### Version 1.2 (2025-12-05)
 

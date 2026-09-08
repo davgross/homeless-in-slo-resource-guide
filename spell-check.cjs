@@ -78,6 +78,7 @@ const WHITELIST = new Set([
   'microchipping', 'décor', 'Vite', 'DOMPurify', 'subreddit', 'pilates', 'tai', 'pwa', 'md', 'vite',
   'hemoccult', 'hydrocortisone', 'Rummikub', 'breathwork', 'amyotrophic', 'Latinx', 'transmasculine',
   'mimetext', 'OpenDyslexic', 'prosthetics', 'contactless',
+  'OpenStreetMap', 'Leaflet', 'ODbL',
 
   // Hyphenated prefixes
   'pre', 'tri',

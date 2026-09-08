@@ -1,368 +1,436 @@
 # Accessibility Audit Report
-## SLO County Homeless Resource Guide Web App
 
-**Date:** December 3, 2025
-**Auditor:** Claude (AI Assistant)
-**Standards:** WCAG 2.1 Level AA
-**Previous Audit:** October 31, 2025
+## VivaSLO — SLO County Homeless Resource Guide Web App
 
----
+**Audit date:** September 7, 2026
+**Auditor:** Claude (Opus 5)
+**Standards:** WCAG 2.1 / 2.2 Level AA, weighted toward the guide's target audience
+**Previous audits:** October 31, 2025; December 3–4, 2025
 
-## Executive Summary
-
-This audit re-evaluates the web app against WCAG 2.1 Level AA guidelines, following up on the October 31, 2025 audit. The development team has made **significant progress**, addressing most critical and important accessibility issues identified in the previous audit.
-
-**Overall Assessment:** Substantially Improved — Approaching Full Compliance
-
-**Key Improvements Since October:**
-- ✅ Skip link implemented
-- ✅ Focus trapping added to modals
-- ✅ SVG accessibility fixed
-- ✅ ARIA live regions for dynamic content
-- ✅ Navigation state properly announced
-- ✅ Search results fully accessible
-- ✅ Loading states properly announced
-
-**Remaining Work:** A few minor issues remain, primarily around form validation and external link announcements.
+**Current status:** ✅ **All 7 Level A/AA failures fixed**, along with 17 of the 18 lesser findings.
+Delivered in PR [#415](https://github.com/davgross/homeless-in-slo-resource-guide/pull/415).
+Remaining work is tracked in issues [#416](https://github.com/davgross/homeless-in-slo-resource-guide/issues/416)–[#419](https://github.com/davgross/homeless-in-slo-resource-guide/issues/419).
 
 ---
 
-## ✅ Critical Issues RESOLVED
+## Executive summary
 
-### 1. Skip Link ✅ FIXED
-**Status:** Fully implemented
+### What this audit found
 
-**Implementation:**
-- Skip link present in HTML: `<a href="#main-content" class="skip-link">Skip to main content</a>`
-- Proper styling with position: absolute and focus behavior
-- Correctly targets main content area with `id="main-content"`
+The December 2025 audit concluded the app was "fully compliant with WCAG 2.1 Level AA."
+That conclusion did not hold up.
 
-**Code Reference:** `index.html:17`, `style.css:58-72`
+The earlier audit verified that ARIA *attributes were present*.
+It did not verify that the widgets those attributes describe actually worked, and it did not test the code paths where accessibility features were silently overwritten at runtime.
+Several items it marked ✅ FIXED were, on inspection, incomplete or inert.
 
-### 2. Focus Trap in Modals ✅ FIXED
-**Status:** Fully implemented
+This audit found **7 Level A/AA failures**, plus a set of issues that were not numbered WCAG violations but were real barriers for this guide's specific readers — people with cognitive disabilities, low vision, low literacy, low digital literacy, Spanish as a first language, and cheap Android phones.
 
-**Implementation:**
-- `trapFocus()` function implemented in `main.js:812-841`
-- Applied to directory overlay modal
-- Properly cycles focus through focusable elements
-- Prevents tabbing to background content
+### Where things stand now
 
-**Code Reference:** `main.js:798-799` (calling trapFocus)
+Everything below has been fixed and merged into the `accessibility-audit-fixes` branch, except dark mode (finding 21), which was deferred as a design decision rather than a compliance fix.
 
-### 3. SVG Icons Accessible ✅ FIXED
-**Status:** Fully implemented
+Verification is no longer a matter of reading the code: `npm run test:a11y` runs **31 headless behavioural assertions** covering keyboard operation, dialog focus containment and restoration, inert backgrounds, focus indicators, reflow across 3 widths × 5 text sizes, and computed contrast. All pass.
 
-**Implementation:**
-- All decorative SVGs have `aria-hidden="true"`
-- Parent buttons have proper `aria-label` attributes
-- Examples: close buttons, install button
+**Still genuinely unverified** — and *not* claimable as compliant until a person checks:
 
-**Code Reference:** `index.html:61`, `index.html:84`
+- Screen reader testing ([#418](https://github.com/davgross/homeless-in-slo-resource-guide/issues/418))
+- Windows High Contrast Mode ([#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417))
 
-### 4. ARIA Live Regions ✅ FIXED
-**Status:** Fully implemented
+The sections that follow are the **record of what was found and what was done about it**, kept for future auditors.
+Each finding describes the problem as it stood on 7 September 2026 and ends with the fix that was applied.
 
-**Implementation:**
-- Global announcer: `<div id="announcer" class="visually-hidden" aria-live="polite" aria-atomic="true"></div>`
-- `announce()` function for dynamic announcements
-- Used for section changes, search results
-- Loading states have `role="status" aria-live="polite"`
+### Level A/AA failures at a glance
 
-**Code Reference:** `index.html:18`, `main.js:273-278`, `main.js:313-315`, `main.js:1024-1030`
-
----
-
-## ✅ Important Issues RESOLVED
-
-### 5. Navigation Button State ✅ FIXED
-**Status:** Fully implemented
-
-**Implementation:**
-- Navigation has `aria-label="Main navigation"`
-- Active button gets `aria-current="page"`
-- Dynamically updated when section changes
-- Screen readers now announce active section
-
-**Code Reference:** `index.html:25`, `main.js:301-310`
-
-### 6. Search Results ARIA ✅ FIXED
-**Status:** Fully implemented
-
-**Implementation:**
-- Search input has complete ARIA markup:
-  - `aria-label="Search resources and directory"`
-  - `aria-controls="search-results"`
-  - `aria-expanded="false"` (dynamically updated)
-  - `aria-autocomplete="list"`
-- Results container has `role="listbox" aria-label="Search results"`
-- Individual results have `role="option"`
-- Result count announced via live region
-
-**Code Reference:** `index.html:32-33`, `main.js:1017-1020`, `main.js:1185`
-
-### 7. Loading States ✅ FIXED
-**Status:** Fully implemented
-
-**Implementation:**
-- All loading divs have `role="status" aria-live="polite"`
-- Properly announced to screen readers
-
-**Code Reference:** `index.html:39`, `index.html:43`, `index.html:47`
-
-### 8. Landmark Regions ✅ FIXED
-**Status:** Fully implemented
-
-**Implementation:**
-- Main navigation has `aria-label="Main navigation"`
-- Index lozenge grid has `role="navigation" aria-label="Index"`
-
-**Code Reference:** `index.html:25`, `main.js:475-476`
-
----
-
-## ✅ Recently Fixed Issues
-
-### 1. Form Validation Errors ✅ FIXED (December 3, 2025)
-**Status:** Fully implemented with ARIA markup
-
-**Implementation:**
-- All form inputs now have `aria-describedby` connecting to error messages
-- `aria-invalid` state dynamically updated on validation
-- Error messages have `role="alert"` for screen reader announcements
-- Real-time validation on blur and input events
-- Visual styling for invalid fields (red border, light red background)
-- Error messages animate in smoothly
-- Form validates before submission and focuses first invalid field
-
-**Code Reference:** `feedback.js:48-89` (HTML), `feedback.js:233-350` (validation logic), `style.css:1954-1991` (styling)
-
-### 2. External Links Screen Reader Warning ✅ FIXED (Already Implemented)
-**Status:** Already included in existing code
-
-**Implementation:**
-- External links automatically get `aria-label` with "(opens in new tab)" text
-- Applied by `enhanceExternalLinks()` function
-- Only applies to truly external links (different hostname)
-- Visual indicator (↗) plus accessible text announcement
-
-**Code Reference:** `linkEnhancer.js:106-123`
-
----
-
-## ✅ Recently Fixed Issues (Continued)
-
-### 3. Color Contrast ✅ FIXED (December 4, 2025)
-**Status:** All color contrast issues have been resolved.
-
-**Colors Updated:**
-- Primary blue: `#3877ff` → `#1a62ff` (darkened to work on multiple backgrounds)
-- External link orange: `#e75e13` → `#c65010` (now passes WCAG AA)
-
-**Verified Contrast Ratios:**
-
-The app uses three different section backgrounds, so link colors must work on all:
-
-| Foreground | Background | Use Case | Min Ratio | Status |
+| # | Issue | WCAG | Level | Status |
 |---|---|---|---|---|
-| `#333333` | `#ffffff` | Body text | 4.5:1 | ✓ Pass (12.63:1) |
-| `#1a62ff` | `#ffffff` | Links on white (Resources) | 4.5:1 | ✓ Pass (5.33:1) |
-| `#1a62ff` | `#f0f9ff` | Links on light blue (About) | 4.5:1 | ✓ Pass (4.82:1) |
-| `#1a62ff` | `#fffbeb` | Links on pale yellow (Directory) | 4.5:1 | ✓ Pass (5.28:1) |
-| `#ffffff` | `#1a62ff` | Nav buttons | 4.5:1 | ✓ Pass (5.33:1) |
-| `#2557cc` | `#ffffff` | Visited links | 4.5:1 | ✓ Pass (5.94:1) |
-| `#c65010` | `#ffffff` | External links | 4.5:1 | ✓ Pass (4.52:1) |
-| `#1e40af` | `#ffffff` | Headings | 4.5:1 | ✓ Pass (8.59:1) |
-
-**Implementation:**
-- Updated CSS variables `--brand-blue`, `--primary-color`, and `--link-color` to `#1a62ff`
-- Updated `--brand-orange` and `--external-link-color` to `#c65010`
-- Color `#1a62ff` chosen to meet WCAG AA on all three section backgrounds (#ffffff, #f0f9ff, #fffbeb)
-- All colors now meet WCAG AA minimum contrast ratio of 4.5:1
-
-**Code Reference:** `style.css:10-22`
+| 1 | Search results cannot be operated by keyboard at all | 2.1.1 Keyboard | **A** | Fixed |
+| 2 | Focus indicator removed from 5 controls | 2.4.7 Focus Visible | **AA** | Fixed |
+| 3 | Focus outline color fails contrast, worst on the header | 1.4.11 Non-text Contrast | **AA** | Fixed |
+| 4 | Modals are not dialogs; focus is never restored | 4.1.2 Name, Role, Value | **A** | Fixed |
+| 5 | External-link color fails contrast on 2 of 3 backgrounds | 1.4.3 Contrast | **AA** | Fixed |
+| 6 | Map pages have no text alternative to the map | 1.1.1 Non-text Content | **A** | Fixed |
+| 7 | Spanish pages announce English ARIA labels throughout | 3.1.2 Language of Parts | **AA** | Fixed |
 
 ---
 
-## ⚠️ Remaining Issues
+## Level A / AA failures (all fixed)
 
-**Status:** No remaining accessibility issues identified. All WCAG 2.1 Level AA requirements have been met.
+### ✅ 1. Search results are completely inoperable by keyboard — WCAG 2.1.1 (Level A)
 
----
+This is the most serious finding.
+Search is the app's primary "find things fast" affordance, and it works only with a mouse or a tap.
 
-## ✨ New Features Assessment
+`displaySearchResults()` (`web-app/src/main.js:1214`) builds each result as:
 
-Since the October audit, several new features have been added. Here's their accessibility status:
+```html
+<div class="search-result-item" role="option" data-result-type="…" data-result-id="…">
+```
 
-### TOC Icon Lozenges ✅ ACCESSIBLE
-**Status:** Well implemented
+- No `tabindex`, so no result can ever receive focus.
+- No `keydown` handler anywhere in `setupSearch()` — no `↓`/`↑`, no `Enter`, no `Esc`.
+- The only handler attached is `item.addEventListener('click', …)` (`main.js:1256`).
 
-**Accessibility Features:**
-- Grid has `role="navigation"` and `aria-label="Index"`
-- Each lozenge is a proper link with `href`
-- Icons have `aria-hidden="true"` (decorative)
-- Text labels are clear and descriptive
-- Touch targets meet 44x44px minimum (extended with ::before pseudo-element)
-- Keyboard accessible
-- Focus states visible
+A keyboard-only user, or a screen-reader user on a phone, can type a query, hear "12 results found," and then has no way to reach any of them.
 
-**Code Reference:** `main.js:398-514`, `style.css:2157-2323`
+The surrounding ARIA is also structurally invalid, which means the results are misreported even to users who *can* click:
 
-### Font Size Control ✅ ACCESSIBLE
-**Status:** Well implemented
+- `#search-input` carries `aria-expanded`, `aria-controls`, and `aria-autocomplete` (`web-app/index.html:32`) but **has no `role="combobox"`**. Those attributes are not supported on the implicit `searchbox` role, so assistive technology ignores them.
+- `role="listbox"` contains a `.search-results-header` div and a `.search-no-results` div, which are not `option` elements. A listbox may only contain options (and groups).
+- The `role="option"` items have no `aria-selected`.
+- There is no `aria-activedescendant` wiring, which is how a combobox tells AT which option is current.
 
-**Accessibility Features:**
-- Button has proper `aria-label="Adjust font size"`
-- Popup shows/hides properly with `hidden` attribute
-- All controls are keyboard accessible
-- Font size preview has `aria-live="polite"`
-- OpenDyslexic toggle has proper label association
-- Clear button labels (A+, A−, Default)
+**Fixed by:** implement the [ARIA APG combobox-with-listbox pattern](https://www.w3.org/WAI/ARIA/APG/patterns/combobox/) properly — `role="combobox"` on the input, `aria-activedescendant` pointing at the highlighted option, arrow-key/Enter/Escape handling, `aria-selected` on options, and move the "N results found" header and the no-results message *outside* the listbox element.
 
-**Code Reference:** `index.html:79-104`, `fontSizeControl.js`
+> Note: `web-app/.htmlvalidate.json` excludes `listbox` from the `prefer-native-element` rule. The linter flagged this pattern and it was suppressed rather than fixed.
 
-### Install Button ✅ ACCESSIBLE
-**Status:** Well implemented
+### ✅ 2. Focus indicator removed from five controls — WCAG 2.4.7 (Level AA)
 
-**Accessibility Features:**
-- Button has `aria-label="Install this app"`
-- SVG icon has `aria-hidden="true"`
-- Shows/hides with CSS class (display: none/flex)
-- Keyboard accessible
+Five rules set `outline: none` on `:focus` with **no replacement indicator** (no box-shadow, no border change, no background change):
 
-**Code Reference:** `index.html:83-88`
+| File / line | Control |
+|---|---|
+| `web-app/src/style.css:805` | Directory modal close button (✕) |
+| `web-app/src/style.css:840` | Directory modal feedback button (💬) |
+| `web-app/src/style.css:867` | Directory modal share button (🔗) |
+| `web-app/src/style.css:2038` | Feedback modal close button (✕) |
+| `web-app/src/style.css:2091` | Feedback form inputs, select, textarea |
 
-### Section Share Buttons ✅ ACCESSIBLE
-**Status:** Well implemented
+Only the last one is partially mitigated: it swaps in `border-color: var(--secondary-color)`, a `#e0e0e0` → `#5a93ff` change measuring **2.26:1** — below the 3:1 that WCAG 2.2's 1.4.11 requires for a focus indicator against its unfocused state.
 
-**Accessibility Features:**
-- Each button created with proper `aria-label`
-- Keyboard accessible
-- Visual feedback on hover/focus
-- Uses emoji which is announced by screen readers
+This is made worse by issue 4: `trapFocus()` moves focus to the *first* focusable element when the directory modal opens, which is the 💬 feedback button — a control with **zero** visible focus indicator. A keyboard user opens a directory entry and their focus vanishes.
 
-**Code Reference:** `shareButton.js`, `main.js:643-675`
+**Fixed by:** delete all five `outline: none` declarations. If the default outline is visually unwanted on round buttons, replace it with `box-shadow: 0 0 0 3px <colour>` rather than removing it.
 
----
+### ✅ 3. Focus outline color fails non-text contrast — WCAG 1.4.11 (Level AA)
 
-## 📊 Accessibility Scorecard
+The global focus indicator (`style.css:55–59`) is `outline: 3px solid var(--secondary-color)`, i.e. `#5a93ff`. Measured:
 
-### WCAG 2.1 Level A Compliance
-- ✅ 1.1.1 Non-text Content
-- ✅ 2.1.1 Keyboard
-- ✅ 2.1.2 No Keyboard Trap
-- ✅ 2.4.1 Bypass Blocks
-- ✅ 2.4.2 Page Titled
-- ✅ 2.4.3 Focus Order
-- ✅ 3.3.1 Error Identification
-- ✅ 4.1.1 Parsing
-- ✅ 4.1.2 Name, Role, Value
+| Focus outline against | Ratio | Needs | Result |
+|---|---|---|---|
+| `#ffffff` page background | **2.98:1** | 3:1 | ✗ Fail (marginal) |
+| `#1a62ff` header background | **1.67:1** | 3:1 | ✗ **Fail (badly)** |
 
-**Level A Score:** 9/9 ✅ **FULLY COMPLIANT**
+The header is where the nav buttons (Resources / Directory / About) and the search input live.
+Those are the first four controls a keyboard user reaches, and the focus ring is very nearly invisible on them.
 
-### WCAG 2.1 Level AA Compliance
-- ✅ 1.4.3 Contrast (Minimum)
-- ✅ 2.4.5 Multiple Ways
-- ✅ 2.4.6 Headings and Labels
-- ✅ 2.4.7 Focus Visible
-- ✅ 3.2.3 Consistent Navigation
-- ✅ 3.2.4 Consistent Identification
-- ✅ 3.3.3 Error Suggestion
-- ✅ 4.1.3 Status Messages
+**Fixed by:** use a focus color that works on both grounds, or set a header-specific override. White (`#ffffff`) gives 5.33:1 on the header blue; a dark navy such as `#0b2a6b` gives good contrast on white. A common robust solution is a two-tone outline: `outline: 3px solid #ffffff; box-shadow: 0 0 0 6px #0b2a6b;`.
 
-**Level AA Score:** 8/8 ✅ **FULLY COMPLIANT**
+### ✅ 4. Modals are not announced as dialogs, and focus is never restored — WCAG 4.1.2 (Level A)
 
----
+Three modal-like surfaces exist. None is fully correct:
 
-## 🎯 Testing Recommendations
+| Modal | `role="dialog"` | `aria-modal` | Labelled | Focus moved in | Focus trapped | Focus restored | Background inert |
+|---|---|---|---|---|---|---|---|
+| Directory entry (`index.html:51`) | ✗ | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ |
+| Feedback (`feedback.js:33`) | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| QR code (`shareButton.js:217`) | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ | ✗ |
 
-### 1. Manual Testing Checklist
-- [x] Keyboard navigation through entire interface
-- [x] Tab reaches all interactive elements
-- [x] Modal focus trapping works correctly
-- [ ] Focus returns to trigger after closing modals
-- [ ] Test with screen reader (NVDA, JAWS, or VoiceOver)
-- [ ] Verify all content is read correctly
-- [ ] Test navigation announcements
-- [ ] Test form interactions with screen reader
+Consequences:
 
-### 2. Color Contrast Testing
-- [x] Use WebAIM Contrast Checker for all color pairs
-- [x] Document all ratios in a table
-- [x] Fix any failures (adjust colors as needed)
+- **Nothing is announced as a dialog.** Screen-reader users get no "dialog" boundary and no indication that the page behind is out of play.
+- **Nothing is inert.** With a modal open, a screen reader's virtual cursor and (for the feedback and QR modals) the `Tab` key both walk straight out into the 450 KB guide behind the overlay. The user has no idea they have left the dialog.
+- **Focus is never restored.** `hideDirectoryOverlay()` (`main.js:868`) just sets `overlay.hidden = true`. Focus lands on `<body>`, and the next `Tab` starts over from the top of the page. A user who opened the 200th directory link from deep in the guide is returned to the top and must find their place again. This was listed as unverified in the December audit's own checklist (`[ ] Focus returns to trigger after closing modals`) and never done.
+- **`trapFocus()` leaks handlers.** `main.js:877` attaches a fresh `keydown` listener to the overlay on every open, and never removes it. After 20 directory entries there are 20 live handlers competing.
+- **`trapFocus()` focuses the wrong thing.** It focuses the first focusable element (the 💬 button). It should focus the modal container (`tabindex="-1"`) or the entry heading, so the user hears which organization they just opened.
 
-### 3. Zoom Testing
-- [ ] Test at 200% zoom (WCAG requirement)
-- [ ] Verify no horizontal scrolling
-- [ ] Verify all functionality works
-- [ ] Check that text remains readable
+**Fixed by:** add `role="dialog" aria-modal="true"` and an `aria-labelledby` pointing at the entry title to all three; store `document.activeElement` on open and restore it on close; set `inert` on `#app` (or `aria-hidden` plus focus containment) while a modal is open; register the trap handler once and remove it on close.
 
-### 4. Mobile Screen Reader Testing
-- [ ] Test with TalkBack (Android)
-- [ ] Test with VoiceOver (iOS)
-- [ ] Verify touch targets are large enough (44x44px minimum)
-- [ ] Test font size controls on mobile
+### ✅ 5. External-link color fails contrast on two of three section backgrounds — WCAG 1.4.3 (Level AA)
 
-### 5. Form Validation Testing
-- [ ] Submit empty required fields
-- [ ] Verify errors are announced to screen readers
-- [ ] Test invalid email format
-- [ ] Verify error recovery is clear
+The December audit tested `--external-link-color: #c65010` against white only (`4.61:1`, pass) and declared it fixed.
+The app renders sections on three different backgrounds (`style.css:277–286`):
 
----
+| External link `#c65010` on | Ratio | Result |
+|---|---|---|
+| `#ffffff` — Resources | 4.61:1 | ✓ Pass |
+| `#fffbeb` — Directory (pale yellow) | **4.44:1** | ✗ Fail |
+| `#f0f9ff` — About (pale blue) | **4.32:1** | ✗ Fail |
 
-## 📝 Implementation Priority
+The Directory is the section most densely packed with external links, so this is where it matters most.
 
-### Phase 1 - High Priority ✅ ALL COMPLETED
-1. ✅ ~~Add form validation error announcements~~ **COMPLETED December 3, 2025**
-2. ✅ ~~Add screen reader text for external links~~ **ALREADY IMPLEMENTED**
-3. ✅ ~~Test and document color contrast ratios~~ **COMPLETED December 4, 2025**
-4. ✅ ~~Fix any contrast failures found~~ **COMPLETED December 4, 2025**
+Also failing, from the same family of "tested on white only" checks:
 
-### Phase 2 - Testing & Verification (Soon)
-5. Test with actual screen readers (NVDA, JAWS, VoiceOver)
-6. Verify focus returns to trigger after closing modals
-7. Test form validation with screen readers
-8. Test at 200% zoom
+| Pair | Ratio | Result |
+|---|---|---|
+| Error text `#dc2626` on its own error background `#fef2f2` | **4.41:1** | ✗ Fail |
+| Modal button amber borders `#fbbf24` on `#ffffff` (UI component, 3:1) | **1.67:1** | ✗ Fail |
+| White text on the `#5a93ff` feedback FAB (UI component, 3:1) | **2.98:1** | ✗ Fail |
 
-### Phase 3 - Enhancement (Nice to Have)
-9. Consider adding skip links for major sections within content
-10. Add keyboard shortcuts reference (if desired)
-11. Consider adding ARIA landmarks to major content areas
+Darkening `--external-link-color` to roughly `#b8480c` clears 4.5:1 on all three backgrounds. Darkening the error red to `#b91c1c` clears its own background.
+
+The passing values are also slightly lower than the December audit claimed (e.g. links on white measure 4.96:1, not 5.33:1). They still pass, but the margin is thinner than recorded — worth knowing before anyone lightens a background.
+
+### ✅ 6. Map pages give no text alternative to the map — WCAG 1.1.1 (Level A)
+
+`web-app/public/naloxone-locations-map.html`, `little-free-libraries-map.html`, and `little-free-pantries-map.html` render a Leaflet map and nothing else.
+The location data is right there in the page as a JS array (`naloxone-locations-data.js`), but it is only ever used to place markers.
+
+A blind user, a keyboard user, a user whose phone blocks the `unpkg.com` CDN, or a user on a connection too slow to fetch map tiles gets a single line of text: *"23 locations county-wide • Click markers for details."*
+That line is also mouse-only in its wording.
+
+This is a high-impact, low-effort fix: render the same `locations` array as a plain `<ul>` beneath the map, each item giving the label plus a map link. It helps screen-reader users, keyboard users, low-bandwidth users, and anyone who would rather read a list than pinch-zoom a map — a large share of this audience.
+
+Two further problems on these pages:
+
+- **`lang="en"` and English-only.** There is no Spanish version, and the Spanish guide links to them. A Spanish-speaking user is dropped onto an English page with no way back to Spanish.
+- **Geolocation is requested on page load** (`naloxone-locations-map.html:295`). The code comment says "without prompting," but Chrome and Firefox *do* prompt. A permission dialog asking for the physical location of someone looking up naloxone sites is, for this audience, alarming and a reason to close the page. It should be behind an explicit "Show my location" button.
+
+### ✅ 7. Spanish pages announce English ARIA labels throughout — WCAG 3.1.2 (Level AA)
+
+When the app runs in Spanish, `initI18n()` correctly sets `document.documentElement.lang = 'es'`.
+But ten ARIA labels are hardcoded English string literals that are applied *after* i18n, and they override it:
+
+| File / line | Hardcoded label | Applied to |
+|---|---|---|
+| `linkEnhancer.js:26`, `:72` | `Call ${number}` | **Every phone number in the guide** |
+| `linkEnhancer.js:98` | `Email ${address}` | Every email address |
+| `linkEnhancer.js:118` | `${text} (opens in new tab)` | Every external link |
+| `markdownParser.js:207` | `View directory entry for ${name}` | Every directory cross-reference |
+| `main.js:225–231` | `Index (currently visible)`, `Jump up to index`, … | Index button, **re-set on every scroll event** |
+| `main.js:550` | `Index` | The lozenge grid landmark |
+
+Because `aria-label` *replaces* the accessible name, a Spanish screen-reader user does not hear the phone number — they hear a Spanish TTS voice attempting to pronounce the English word "Call," then the digits. Every phone number, every email, every external link, every directory link.
+
+The `main.js:225–231` case also actively fights the i18n layer: `updateTOCButtonState()` runs on every scroll and overwrites the Spanish label `i18nInit.js:145` just set.
+
+This defeats the purpose of having a Spanish translation for exactly the users who most need it.
+
+**Fixed by:** move all ten strings into `strings.js` and read them through `getStrings()`.
 
 ---
 
-## 🔍 Tools Used
-- Manual code review of HTML, CSS, and JavaScript
-- WCAG 2.1 Level AA guidelines
-- WebAIM WCAG Checklist
-- Comparison with October 31, 2025 audit findings
+## Serious barriers that were not numbered WCAG failures (all fixed)
 
-## 📚 Resources
-- [WCAG 2.1 Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
-- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
-- [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
-- [A11y Project Checklist](https://www.a11yproject.com/checklist/)
-- [WebAIM Screen Reader Testing](https://webaim.org/articles/screenreader_testing/)
+### ✅ 8. Every accessibility control is at the very end of the tab order
+
+Six floating buttons are appended to `<body>` after `#app`: share (🔗), index (📖), font size (A), install, language (EN/ES), and feedback (💬).
+
+Tab order is therefore: skip link → header → nav → search → **the entire Resource Guide** → floating buttons.
+
+The Resource Guide is a 450 KB document with several thousand links.
+To reach the font-size control or the language switcher by keyboard, a user must tab past all of them.
+
+The irony is sharp: the two controls a low-vision or Spanish-speaking user needs *first* — text size and language — are the hardest two to reach.
+
+**Fixed by:** give the floating-button cluster a `tabindex`-ordered position near the top, or (cleaner) move it into the DOM immediately after the header inside a `<div role="toolbar" aria-label="…">` and position it with CSS. A keyboard shortcut or a second skip link ("Skip to display settings") would also work.
+
+### ✅ 9. The app overrides the user's browser font-size setting
+
+`style.css:28` and `:37`:
+
+```css
+:root { --font-size-base: 16px; }
+html  { font-size: var(--font-size-base); }
+```
+
+A low-vision user who has set their browser's default text size to 24px gets 16px anyway, because the app hardcodes an absolute value on `html`.
+`fontSizeControl.js:300` compounds this: it computes `16 * (percentage/100)`, so even "150%" is 24px absolute rather than 150% of whatever the user chose.
+
+This is the classic 1.4.4 Resize Text anti-pattern, and it affects precisely the users most likely to have changed that setting.
+
+**Fixed by:** `html { font-size: 100%; }` and express the scale as a unitless multiplier — `document.documentElement.style.fontSize = percentage + '%'`. The in-app control then *multiplies* the user's preference instead of replacing it. (This also removes the oddity at `style.css:892` where the ≥768px breakpoint's `--font-size-base: 18px` is silently discarded as soon as the user touches the font-size control, because the JS writes an inline style that outranks the media query.)
+
+### ✅ 10. Smooth scrolling ignores `prefers-reduced-motion`
+
+The CSS respects the preference (`style.css:1399`), but four JavaScript calls hardcode `behavior: 'smooth'` and are unaffected by CSS media queries:
+
+`main.js:240`, `main.js:1305`, `main.js:1309`, and the mobile-keyboard handler in `feedback.js:199`.
+
+Jumping to a section from the Index smooth-scrolls through hundreds of screens of content. For a user with a vestibular disorder that is genuinely nauseating.
+
+**Fixed by:** `const smooth = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';`
+
+### 🟡 11. The high-contrast block is dead code, and forced-colors is unsupported
+
+`style.css:1381` uses `@media (prefers-contrast: high)`.
+The value in Media Queries Level 5 is **`more`**, not `high`. `high` was an early Safari-only spelling. In current Chrome, Firefox, and Safari this block never matches, so the high-contrast support that the December audit credited does not run.
+
+There is also no `@media (forced-colors: active)` block, so Windows High Contrast Mode is untested territory — a concern given the many CSS-drawn borders and emoji-with-text-shadow buttons.
+
+**Fixed by:** `@media (prefers-contrast: more), (prefers-contrast: high)` for coverage, plus a new `forced-colors: active` block that removes the emoji `text-shadow` glows, gives buttons `border: 1px solid ButtonText`, and substitutes system `Highlight` colours for the custom focus ring.
+
+⚠️ **Partially verified only.** The `prefers-contrast` correction is verifiable and done. The `forced-colors` block was written against the spec and **has never been seen render** — no Windows machine is available. Tracked as [#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417), which also records a specific prediction worth checking: the three section backgrounds are distinguished *only* by colour, which forced-colors strips entirely, so they may become indistinguishable and need a non-colour cue.
+
+### ✅ 12. Every external link is forced into a new tab
+
+`linkEnhancer.js:112` sets `target="_blank"` on all external links.
+
+For a user with a cognitive disability, or someone borrowing a library computer, or someone on a phone browser where tab management is opaque, an unexpected new tab means the back button no longer works and they cannot find their way back to the guide.
+The `(opens in new tab)` label mitigates this only for screen-reader users, and only in English (see issue 7).
+
+**Fixed by:** let external links open in the same tab. The guide is a PWA with reliable back-button behavior; that is a friendlier model for this audience than tab proliferation. If new tabs are wanted for some links, make it opt-in per link in the markdown rather than blanket.
+
+### ✅ 13. The search field has no visible label
+
+`index.html:32` supplies `placeholder="Search…"` plus an `aria-label`.
+The placeholder is the only visible affordance, and it disappears the moment the user types a character.
+
+For users with cognitive disabilities or low literacy, a field whose label vanishes on first keystroke is a known problem — and the guidance (WCAG 3.3.2) is explicit that placeholder text is not a label.
+
+**Fixed by:** a persistent visible `<label>` above the field, or a visible magnifier icon plus label text. There is room in the header.
 
 ---
 
-## ✨ Conclusion
+## Smaller issues
 
-The development team has made **excellent progress** on accessibility since the October audit. All critical and important issues have been resolved:
+All fixed except 21 (dark mode), now tracked as [#416](https://github.com/davgross/homeless-in-slo-resource-guide/issues/416).
 
-**Major Accomplishments:**
-- ✅ Skip link implementation
-- ✅ Focus management in modals
-- ✅ Comprehensive ARIA live regions
-- ✅ Proper semantic markup and ARIA attributes
-- ✅ Accessible new features (TOC lozenges, font controls, share buttons)
-- ✅ Color contrast compliance (completed December 4, 2025)
+| # | Issue | Location |
+|---|---|---|
+| 14 | **Four CSS variables are used but never defined** — `--bg-secondary`, `--text-primary`, `--text-secondary`, `--font-size-h`. The A−/Default/A+ buttons in the font-size popup therefore render with a transparent background and inherited color, losing their button affordance. | `style.css:1634, 1649, 1650, 1674, 1700` |
+| 15 | **The font-size popup covers the language button.** The popup sits at `bottom: 140px; left: 20px` — the exact coordinates of `#language-btn`. Opening one hides the other. | `style.css` (`.font-size-popup` vs `#language-btn`) |
+| 16 | **Popup triggers lack `aria-expanded` / `aria-haspopup`.** The font-size and language buttons toggle popups but never announce open/closed state, and focus is not moved into the popup on open. | `fontSizeControl.js:195`, `languageSwitcher.js:452` |
+| 17 | **"Last updated" always shows today's date.** `updateLastModifiedDate()` prints `new Date()`, so the guide claims to have been updated the moment you loaded it. It also hardcodes the `'en-US'` locale, giving Spanish users an English date. This is an accuracy problem, not just an i18n one. | `main.js:1390` |
+| 18 | **Unescaped search query written to `innerHTML`.** `showNoResults()` interpolates the raw query into markup. Self-XSS only (the query cannot be set from the URL), but it will also break rendering on any query containing `<`. | `main.js:1330` |
+| 19 | **Directory cross-references are `href="#"` links, not buttons.** They open a modal, so `role="button"` (or a real `<button>`) is the correct semantics. As written, Ctrl-click/middle-click does nothing useful, and if JS fails the link jumps the user to the top of the page. | `markdownParser.js:206` |
+| 20 | **`setInterval(…, 500)` polls forever** to detect section changes for the Index button. On a low-end Android phone this is avoidable battery and jank. Use the existing `showSection()` call site instead. | `main.js:273` |
+| 21 | ⬜ **NOT FIXED — No dark mode.** No `prefers-color-scheme` block and no `color-scheme` declaration. A bright white full-screen page is a poor experience for someone reading in a vehicle at night, and for users with photophobia or migraine — both common in this population. Deferred as a design decision, not a compliance fix: it needs a second designed palette, and inverting the ground would invalidate every contrast pair fixed here. Tracked as [#416](https://github.com/davgross/homeless-in-slo-resource-guide/issues/416). | `style.css` |
+| 22 | **`theme-color` is stale.** Still `#3877ff`, the pre-December blue, in both `index.html:7` and `vite.config.js:46`. Cosmetic, but it means the PWA's system chrome does not match the app. | `index.html:7`, `vite.config.js:46` |
+| 23 | ~~**PWA manifest has no `lang`.**~~ **Correction:** it does (`lang: 'en-US'`). Only `dir` was missing; added. | `vite.config.js` |
+| 24 | **The `announcer` region does not re-announce identical messages.** Setting the same `textContent` twice is a no-op for live regions. Searching twice for the same term announces the count once. Clear the node first, or append a zero-width variation. | `main.js:273` |
 
-**Remaining Work:**
-- Optional: Additional screen reader testing for final verification
+---
 
-**Current Status:** The app is now **fully compliant** with WCAG 2.1 Level AA. All functional and visual accessibility requirements have been met. The app demonstrates excellent commitment to accessibility and is fully usable by people with a wide range of disabilities, including those using screen readers, keyboard navigation, and those with visual impairments.
+## What is genuinely good
 
-**Recommended Next Steps:**
-- 30 minutes: Final testing and verification with actual screen readers (optional validation)
+Worth stating plainly, because a lot of this is well built:
+
+- **Content semantics are sound.** One `<h1>`, orderly heading levels, real `<table>` markup with `<thead>`, all three images have descriptive alt text.
+- **The skip link works** and targets a real `<main id="main-content">`.
+- **The Index lozenge grid is well done** — real links, decorative icons correctly `aria-hidden`, generous 100px targets, and a labelled navigation landmark.
+- **Touch targets are comfortable.** All floating buttons are 50×50px, above the 44px guideline.
+- **Body text contrast is excellent** (12.63:1) and `line-height: 1.7` is a genuinely good choice for low-literacy readers.
+- **OpenDyslexic support** is a thoughtful, lazily-loaded addition aimed squarely at this audience.
+- **Print styles are thorough** — interactive chrome is hidden, links are expanded.
+- **Form validation ARIA is correct** — `aria-invalid`, `aria-describedby`, `role="alert"`, and focus moved to the first invalid field. This one really was fixed in December.
+- **HTML is sanitized** with DOMPurify on every render path.
+
+---
+
+## Work completed
+
+All four phases of the original remediation plan were completed on 7 September 2026, plus two follow-up rounds prompted by reviewer testing in a real browser.
+See *Remediation log* below for what was done, and *Testing still needed* for what a person still has to check.
+
+---
+
+## Testing still needed
+
+Everything above was verified by code inspection, computed contrast ratios, and the automated suite.
+These require a person and are tracked as issues:
+
+| What | Status | Issue |
+|---|---|---|
+| **Screen reader passes** — TalkBack (Android) first, it is what this audience uses; then NVDA | ⬜ Not done. The maintainer trialled TalkBack; a daily screen reader user is needed | [#418](https://github.com/davgross/homeless-in-slo-resource-guide/issues/418) |
+| **Windows High Contrast Mode** (`forced-colors`) | ⬜ Not done — no Windows machine available. The CSS block was written against the spec and has never been seen render | [#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417) |
+| **Zoom to 200% / 400%** | ✅ Automated — reflow is asserted at 320/375/412px across 5 text sizes, 320px being the width WCAG 1.4.10 requires | — |
+| **Real-device testing on a low-end Android phone** | 🟡 Partial — the maintainer tested a preview build on a phone; not yet tested on a genuinely low-end device | — |
+| **Automated axe-core pass** | ⬜ Optional. `npm run test:a11y` covers behaviour that axe cannot see; axe would add mechanical rule coverage | — |
+
+A branch preview build, rebuilt on every push, is available for handing to a tester:
+<https://accessibility-audit-fixes.homeless-in-slo-resource-guide.pages.dev>
+
+---
+
+## Method
+
+- Line-by-line review of `web-app/index.html`, `main.js`, `style.css`, `linkEnhancer.js`, `fontSizeControl.js`, `languageSwitcher.js`, `installPrompt.js`, `feedback.js`, `shareButton.js`, `markdownParser.js`, `i18nInit.js`
+- Review of the three standalone Leaflet map pages in `web-app/public/`
+- Contrast ratios computed directly from the WCAG 2.x relative-luminance formula against the actual declared background colors, not against white by default
+- Checked against WCAG 2.1 and 2.2 Level AA, the ARIA Authoring Practices Guide, and the guide's own stated audience profile in `CLAUDE.md`
+
+---
+
+## Remediation log — September 7, 2026
+
+All Level A/AA failures and all but one of the smaller issues were fixed on branch `accessibility-audit-fixes`.
+
+### Fixed
+
+| # | Issue | How |
+|---|---|---|
+| 1 | Search keyboard operation | Full ARIA combobox: `role="combobox"` on the input, a real `<ul role="listbox">` containing only `role="option"` items, `aria-activedescendant`, `aria-selected`, and ↓/↑/Home/End/Enter/Esc/Tab handling. The result count moved outside the listbox. |
+| 2 | Focus indicators | All five `outline: none` rules replaced with a real indicator. |
+| 3 | Focus outline contrast | New two-tone ring: white inner + `#0b2a6b` outer, so one half always clears 3:1 (13.48:1 on white, 4.96:1 on the header blue). Moved to `:focus-visible` with a `:focus` fallback. |
+| 4 | Modal semantics and focus | New `web-app/src/modal.js` gives all three modals `role="dialog"`, `aria-modal`, `aria-labelledby`, focus moved to the dialog container (so its name is read first), a single non-leaking focus trap, ancestor-walking `inert` on everything outside, and focus restored to the trigger on close. |
+| 5 | Contrast | `--external-link-color` / `--brand-orange` → `#b8480c` (min 4.96:1 across all three backgrounds); error red → `#c81e1e` (5.24:1 on its own background); search active-row tint chosen so the blue title stays above 4.5:1. |
+| 6 | Map text alternative | All three map pages now render the same `locations` array as a numbered list of map links below the map, and the map gets a descriptive `role="img"` label. Geolocation is now opt-in behind a "Show my location" button instead of prompting on load. |
+| 7 | Spanish ARIA labels | All ten hardcoded English strings moved into `strings.js` under `links.*`, `toc.*` and `toolbar.*`. |
+| 8 | Tab order | New `#app-toolbar` container sits between the header and `<main>`; the six floating buttons and their popups live in it. Text size is now 9 tabs from page load instead of several thousand. |
+| 9 | Font scaling | `--font-size-base: 16px` → `--font-size-scale: 100%`; the control now multiplies the reader's own browser text size instead of replacing it. |
+| 10 | Reduced motion | New `web-app/src/motion.js`; all four JS `behavior: 'smooth'` call sites now defer to `prefers-reduced-motion`. CSS also resets `scroll-behavior`. |
+| 11 | High contrast | `prefers-contrast: more` (with `high` kept for old Safari), plus a new `forced-colors: active` block for Windows High Contrast Mode. |
+| 12 | Forced new tabs | External reading links now open in the same tab, keeping the ↗ indicator via a new `data-external` hook. **Map links deliberately keep `target="_blank"`** — handing off to a maps app should not cost the reader their place — and now announce it. |
+| 13 | Search label | Visible `<label>` added; the competing `aria-label` removed so the visible and accessible names match (WCAG 2.5.3). |
+| 14 | Undefined CSS variables | `--bg-secondary`, `--text-primary`, `--text-secondary` defined. |
+| 15 | Popup overlap | Font-size and language popups repositioned so neither covers a button. |
+| 17 | "Last updated" date | Now stamped at build time via `__BUILD_DATE__` and formatted `es-MX` in Spanish, instead of always printing today. |
+| 18 | Unescaped search query | Result titles and the no-results message are escaped / set via `textContent`. |
+| 19 | Directory links | Given `role="button"` and `aria-haspopup="dialog"`. |
+| 20 | Polling | The 500 ms `setInterval` replaced with a `vivaslo:sectionchange` event. |
+| 21 | *(Dark mode — not done, see below)* | Tracked as [#416](https://github.com/davgross/homeless-in-slo-resource-guide/issues/416) |
+| 22 | Stale `theme-color` | `#3877ff` → `#1a62ff` in both `index.html` and the manifest. |
+| 24 | Live region | `announce()` clears before setting, so repeat messages are announced. |
+
+### Also found and fixed while testing
+
+- **Service worker was hijacking the map pages.** Workbox's `navigateFallback` served the app shell for any map URL carrying a query string, so `naloxone-locations-map.html?lang=es` returned the guide instead of the map. Fixed with `navigateFallbackDenylist` and `ignoreURLParametersMatching`. This was a latent production bug, not one introduced by these changes.
+- **Map feedback form could not be submitted with Enter** — the send button was `type="button"` and the handler listened for `click`. Now a real `submit` handler.
+- **Map pages were English-only.** Rather than duplicating three pages, a new `web-app/public/map-i18n.js` translates their chrome from the same `language` preference the app stores.
+
+### Not done, and tracked as issues
+
+| Issue | What | Why not now |
+|---|---|---|
+| [#416](https://github.com/davgross/homeless-in-slo-resource-guide/issues/416) | Dark mode | A design decision needing a second designed palette and a follow-vs-toggle choice. The three section backgrounds carry meaning, and inverting the ground would invalidate every contrast pair fixed here. Not a WCAG failure. |
+| [#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417) | Verify Windows High Contrast | The `forced-colors` block is written but unverified; no Windows machine available. |
+| [#418](https://github.com/davgross/homeless-in-slo-resource-guide/issues/418) | Screen reader testing | Needs a daily screen reader user, ideally paid. No amount of code review substitutes. |
+| [#419](https://github.com/davgross/homeless-in-slo-resource-guide/issues/419) | Self-host Leaflet, tidy map-page markup | Surfaced by this work but not caused by it; reliability and code quality rather than accessibility. |
+
+Minor, no issue filed:
+
+- The logo is a real control (it navigates to Resources) but duplicates the adjacent *Resources* button. Kept in the tab order as the standard "logo goes home" pattern; `tabindex="-1"` on `.header-logo` would remove it if the duplication is unwanted.
+- `.htmlvalidate.json` still suppresses `prefer-native-element` for `listbox`. That suppression previously masked a genuinely broken widget; it is now legitimate, since html-validate wants `<select>`, which is wrong for an autocomplete combobox.
+- There is no content at all without JavaScript. Not a WCAG failure — screen readers run inside full browsers — but worth knowing.
+
+### Verification
+
+A rerunnable headless test now lives at `web-app/scripts/a11y-smoke.mjs` (`npm run test:a11y`). It covers 23 behavioural assertions — keyboard search operation, dialog semantics, focus containment and restoration, inert background, font scaling, and link targeting. All 23 pass. It found two genuine bugs in the first draft of these fixes (a lost variable declaration and a focus trap that leaked because the overlay is nested inside `#app`), which is the argument for keeping it.
+
+Static checks (`npm run validate:all`, `html-validate` on the map pages) also pass, with no new violations on the map pages.
+
+### Follow-up round — same day, from reviewer testing in a real browser
+
+Nine issues found by manual browser review of the fixes above, all now resolved:
+
+| Reported | Cause | Fix |
+|---|---|---|
+| Redundant visible "Search" label | The visible label duplicated the placeholder | Label is now visually hidden (still names the field); a magnifier icon gives the persistent visual cue the placeholder loses on first keystroke |
+| Focus rings on the floating buttons nearly invisible | `#id` rules (specificity 1,0,0) outranked `button:focus-visible` (0,1,1), so only the white half of the ring landed — invisible on white | Added an `#app-toolbar button:focus-visible` rule (1,1,1) that also preserves each button's drop shadow |
+| Focus rings faded in | 16 `transition: all` declarations animated the ring itself | Transitions now name only decorative properties; indicators appear instantly |
+| Blue sliver over the header | Skip link is 43px tall but was parked at `top: -40px` — pre-existing | Uses `transform: translateY(-100%)`, so it hides fully at any text size |
+| Logo focusable but seemingly inert | It is a real control (navigates to Resources) | Left as-is; standard home-link pattern — see note below |
+| Slow render, worse on language switch | `getStrings()` re-read `localStorage` per link — **1,712 reads per load** | `getCurrentLanguage()` caches; now 5 reads, and render is **13.5% faster than the pre-audit baseline** |
+| Ambiguous map addresses ("1559 10th St.") | The extractor computed the city then discarded it | City is now part of the label ("Grover Beach, 1559 10th St.") |
+| Untranslated map list text | Data files were generated only from the English sources | `extract-map-data.js` now emits both languages; pages load the matching dataset. Also fixed a hardcoded English heading regex that made the Spanish naloxone section unmatchable |
+| Buttons leaving the screen above 120% text | A table refused to shrink, widening the *layout viewport* past the device width — pre-existing WCAG 1.4.10 Reflow failure | Tables now scroll inside their own container (keyboard-focusable only when they actually scroll) |
+| Skip link text invisible (blue on blue) | `a[href]` (0,1,1) outranked the bare `.skip-link` rule (0,1,0), so the link colour won over the white — a 1:1 contrast ratio on its own blue chip. Pre-existing, only visible once the link stopped being clipped | Anchored the colour to `a.skip-link` (all link states) after the link-colour rules; now 4.96:1. A contrast assertion guards it |
+| Popups overlapping | Two separate position bugs; the mobile (≤640px) block also left the language button at desktop size and put the font popup directly on top of it | Both breakpoints re-stacked; opening one popup now closes the other |
+
+The regression suite grew to **30 assertions** and caught three of these before they shipped: a function accidentally defined inside another function's scope, the mobile popup overlap (which passes at desktop width and fails at 390px), and the focus-ring specificity.
+
+**A note on the logo:** it is not decorative — it navigates to Resources, the standard "logo goes home" pattern. It is kept in the tab order for that reason. If the duplication with the adjacent *Resources* button is unwanted, `tabindex="-1"` on `.header-logo` removes it from keyboard order while leaving it usable by mouse and screen reader.
+
+### Reflow, round two
+
+Horizontal scrolling returned at narrower widths (375px from 110% text, 412px from 120%). Two further causes, both now fixed:
+
+- **Section headings.** `addSectionShareButtons()` set `flex: 1; min-width: 0` on the heading's anchor — but the markdown renderer wraps heading content in a `<span>`, so the actual flex item was that span, which kept its min-content width as a floor. A long heading ("Disaster Planning/Preparation") then pushed the page wider than the screen. Layout moved into CSS as `.has-share-button`.
+- **Header navigation.** The three nav buttons could not shrink or wrap, so at large text they forced the viewport wider. `.app-nav` now has a rem-based flex basis (drops to its own row as text grows) and `.nav-btn` an em-based one (wraps to extra rows rather than overflowing).
+
+Verified across **3 widths × 5 text sizes**, including the 320px case WCAG 1.4.10 actually requires: no horizontal scrolling and no off-screen controls anywhere. That matrix is now a single assertion in the suite, so it cannot regress at one width while passing at another.
+
+Hardening the suite also exposed a **false pass**: the modal focus-indicator check had been measuring header controls because its second modal never opened. It now asserts its own precondition and runs while the dialog is provably open.
+
+**Still requires a human with a browser:** screen-reader passes, 200%/400% zoom, Windows High Contrast Mode, and low-end Android testing. See *Testing still needed* above.

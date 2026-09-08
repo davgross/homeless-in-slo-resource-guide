@@ -80,6 +80,40 @@ npm run preview
 
 This serves the production build locally for testing before deployment.
 
+### Accessibility Tests
+
+```bash
+npm run build
+npm run preview -- --port 4317   # in a second terminal
+npm run test:a11y
+```
+
+This drives the built app in headless Chrome and asserts 31 accessibility
+behaviours that a linter cannot see: whether search results can actually be
+operated by keyboard, whether focus is contained in a dialog and restored on
+close, whether the page reflows without horizontal scrolling across three
+phone widths and five text sizes, and computed colour contrast.
+
+Requirements:
+
+- Google Chrome at `/usr/bin/google-chrome` (override with `CHROME_PATH`)
+- `puppeteer-core`, installed with the other dev dependencies
+
+Override the target with `A11Y_URL` to run it against a deployed preview
+instead of a local server.
+
+Run this after any change to the app shell — the header, the floating
+controls, modals, search, or the focus and layout CSS. It has caught several
+regressions that manual review missed.
+
+This also runs automatically on every pull request that touches `web-app/`
+or the guide content (`.github/workflows/accessibility.yml`). Content is
+included in the trigger because the suite loads the real markdown — a long
+heading or a wide table can break reflow with no code change at all.
+
+See `../ACCESSIBILITY_AUDIT.md` for what the app has been audited against and
+what still needs a human tester.
+
 ## Deployment
 
 ### Option 1: Cloudflare Pages (Recommended)

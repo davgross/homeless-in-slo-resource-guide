@@ -47,7 +47,7 @@ export function initFontSizeControl() {
     e.stopPropagation();
     // Lazy load OpenDyslexic font when popup is first opened
     loadOpenDyslexicFont();
-    togglePopup(fontSizePopup);
+    setPopupOpen(fontSizePopup, fontSizeBtn, fontSizePopup.hidden);
   });
 
   // Font size control buttons
@@ -80,25 +80,43 @@ export function initFontSizeControl() {
   document.addEventListener('click', (e) => {
     if (!fontSizePopup.hidden &&
         !fontSizePopup.contains(e.target) &&
-        e.target !== fontSizeBtn) {
-      fontSizePopup.hidden = true;
+        !fontSizeBtn.contains(e.target)) {
+      setPopupOpen(fontSizePopup, fontSizeBtn, false);
     }
   });
 
   // Close popup on Escape key
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && !fontSizePopup.hidden) {
-      fontSizePopup.hidden = true;
+      setPopupOpen(fontSizePopup, fontSizeBtn, false);
       fontSizeBtn.focus();
     }
   });
 }
 
 /**
- * Toggle the popup visibility
+ * Close any other toolbar popup, so two never sit on screen at once
  */
-function togglePopup(popup) {
-  popup.hidden = !popup.hidden;
+function closeOtherPopups(keep) {
+  document.querySelectorAll('#app-toolbar [id$="-popup"]').forEach(other => {
+    if (other === keep || other.hidden) return;
+    other.hidden = true;
+    const trigger = document.querySelector(`[aria-controls="${other.id}"]`);
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+  });
+}
+
+/**
+ * Show or hide the popup, keeping aria-expanded and focus in sync
+ */
+function setPopupOpen(popup, trigger, open) {
+  if (open) closeOtherPopups(popup);
+  popup.hidden = !open;
+  trigger.setAttribute('aria-expanded', open ? 'true' : 'false');
+  if (open) {
+    const first = popup.querySelector('button');
+    if (first) first.focus();
+  }
 }
 
 /**
@@ -148,13 +166,16 @@ function resetFontSize() {
  */
 function applyFontSize() {
   const percentage = FONT_SIZES[currentSizeIndex];
-  const baseFontSize = 16 * (percentage / 100);
 
-  // Apply to root element
-  document.documentElement.style.setProperty('--font-size-base', `${baseFontSize}px`);
+  // A percentage, not a pixel value: this multiplies whatever default text
+  // size the reader has set in their browser rather than overriding it.
+  document.documentElement.style.setProperty('--font-size-scale', `${percentage}%`);
 
   // Update preview display
   updatePreview(percentage);
+
+  // Layout that depends on text size (e.g. which tables now overflow)
+  document.dispatchEvent(new CustomEvent('vivaslo:textsizechange'));
 }
 
 /**

@@ -1,4 +1,4 @@
-// Auto-generated from Directory.md - DO NOT EDIT MANUALLY
+// Auto-generated from Directory_es.md - DO NOT EDIT MANUALLY
 // Run 'npm run extract-map-data' to regenerate this file
 
 export const locations = [
@@ -30,7 +30,7 @@ export const locations = [
     "lat": 35.117185,
     "lon": -120.604837,
     "zoom": 17,
-    "label": "Arroyo Grande, Corner of Cedar & Boysenberry"
+    "label": "Arroyo Grande, Esquina de Cedar & Boysenberry"
   },
   {
     "lat": 35.121326,
@@ -312,7 +312,7 @@ export const locations = [
     "lat": 35.448532,
     "lon": -120.90174,
     "zoom": 17,
-    "label": "Cayucos, 151 F St."
+    "label": "Cayucos, 151 VSt."
   },
   {
     "lat": 35.448889,
@@ -708,7 +708,7 @@ export const locations = [
     "lat": 35.261906,
     "lon": -120.655375,
     "zoom": 17,
-    "label": "SLO, Bluerock Drive near Stoneridge Park"
+    "label": "SLO, Bluerock Drive cerca de Stoneridge Park"
   },
   {
     "lat": 35.276596,
@@ -720,7 +720,7 @@ export const locations = [
     "lat": 35.287044,
     "lon": -120.667729,
     "zoom": 17,
-    "label": "SLO, Center St. between Chorro and Lincoln"
+    "label": "SLO, Center St. entre Chorro y Lincoln"
   },
   {
     "lat": 35.295083,
@@ -810,7 +810,7 @@ export const locations = [
     "lat": 35.276876,
     "lon": -120.658486,
     "zoom": 17,
-    "label": "SLO, Morro St. and Islay St."
+    "label": "SLO, Morro St. y Islay St."
   },
   {
     "lat": 35.278313,
@@ -870,13 +870,13 @@ export const locations = [
     "lat": 35.285083,
     "lon": -120.66009,
     "zoom": 17,
-    "label": "SLO, Corner of Mill & Toro"
+    "label": "SLO, Esquina de Mill & Toro"
   },
   {
     "lat": 35.288367,
     "lon": -120.651308,
     "zoom": 17,
-    "label": "SLO, 1815 Monterey at Grand"
+    "label": "SLO, 1815 Monterey en Grand"
   },
   {
     "lat": 35.260767,
@@ -888,19 +888,19 @@ export const locations = [
     "lat": 35.260794,
     "lon": -120.68482,
     "zoom": 17,
-    "label": "SLO, 1552 Oceanaire Dr. (near Atascadero St.)"
+    "label": "SLO, 1552 Oceanaire Dr. (cerca de Atascadero St.)"
   },
   {
     "lat": 35.255958,
     "lon": -120.684262,
     "zoom": 17,
-    "label": "SLO, 1906 Oceanaire Dr. (near Pinecove Dr.)"
+    "label": "SLO, 1906 Oceanaire Dr. (cerca de Pinecove Dr.)"
   },
   {
     "lat": 35.282736,
     "lon": -120.654597,
     "zoom": 17,
-    "label": "SLO, Pacific between Johnson & Pepper"
+    "label": "SLO, Pacific entre Johnson & Pepper"
   },
   {
     "lat": 35.255695,
