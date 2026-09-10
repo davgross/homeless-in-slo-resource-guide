@@ -450,6 +450,40 @@ navRows.length===0
   await iso.close();
 }
 
+
+// --- 18. Search must work even if the background index build never runs ---
+// The resource search index is built in the background after first paint,
+// because building it on the critical path kept the "Loading resources…"
+// placeholder on screen roughly twice as long. That background step is
+// scheduled with requestAnimationFrame, so it is not guaranteed to run — a
+// page loaded in a background tab can have rAF starved indefinitely.
+// performSearch() must therefore build the index on demand.
+//
+// Stubbing rAF to a no-op reproduces that deterministically. Racing the real
+// background step does not: the 300ms search debounce lets it win every time,
+// so a test written that way passes even with the on-demand build removed.
+const noRaf = await browser.newPage();
+await noRaf.setViewport({width: 390, height: 844});
+await noRaf.evaluateOnNewDocument(()=>{
+  window.requestAnimationFrame = () => 0;   // the background step never runs
+});
+await noRaf.goto(BASE_URL, {waitUntil:'load', timeout:60000});
+await noRaf.waitForSelector('#search-input', {timeout:60000});
+await noRaf.type('#search-input', 'shelter');
+await noRaf.waitForFunction(
+  ()=>document.querySelectorAll('#search-results [role="option"]').length > 0,
+  {timeout:15000, polling:'raf'}).catch(()=>{});
+const starved = await noRaf.evaluate(()=>{
+  const items = [...document.querySelectorAll('#search-results [role="option"]')];
+  return {count: items.length,
+          hasResourceHit: items.some(i=>i.textContent.toLowerCase().includes('shelter'))};
+});
+await noRaf.close();
+(starved.count > 0 && starved.hasResourceHit)
+  ? pass('search builds its index on demand when rAF never fires', `${starved.count} results`)
+  : fail('search depends on the background index build', JSON.stringify(starved));
+
+
 console.log('\n--- page errors (uncaught exceptions) ---');
 console.log(pageErrors.length ? pageErrors.slice(0,10).join('\n') : '(none)');
 

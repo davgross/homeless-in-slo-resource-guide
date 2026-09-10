@@ -611,12 +611,19 @@ tool alongside the main site URL when the dev server starts
    ↓
 6. Enhance links (phone, email, location)
    ↓
-7. Build search index
+7. Restore saved state (localStorage)
    ↓
-8. Restore saved state (localStorage)
+8. Show appropriate section          ← placeholder is replaced here
    ↓
-9. Show appropriate section
+   (background, after first paint)
+   ↓
+9. Render Directory and About
+   ↓
+10. Build search index
 ```
+
+The search index is built in step 10, *not* on the critical path. See
+*Deferred search index* under Search Implementation.
 
 ### Directory Link Click
 
@@ -794,6 +801,32 @@ Entries in Directory.md follow this structure:
 
 ## Search Implementation
 
+### Deferred search index
+
+`indexResourceSections()` re-parses every section of the guide through
+`marked` and `DOMPurify` a second time, independently of the render pass. It
+costs about as much as rendering the whole guide — roughly 900ms on a 4x
+CPU-throttled profile — and nothing needs it until the user types.
+
+It therefore runs in the background step after first paint, not during
+`loadResourcesContent()`. Building it on the critical path was keeping the
+"Loading resources…" placeholder on screen about twice as long as necessary,
+on first load and on every language switch (`setLanguage()` reloads the page,
+so a switch pays the full critical path again).
+
+Two callers, guarded by `ensureSearchIndex()` so the work happens once:
+
+- `loadRemainingContent()` — the normal path, right after Directory and About
+  render.
+- `performSearch()` — the fallback. The background step is scheduled with
+  `requestAnimationFrame`, which a background tab can starve indefinitely, so
+  search must be able to build the index itself. `npm run test:a11y` section
+  18 stubs `requestAnimationFrame` to a no-op and asserts search still
+  returns results.
+
+**If you add work to `loadResourcesContent()`, measure it.** Everything in
+that function delays the placeholder disappearing.
+
 ### Index Structure
 
 ```javascript
@@ -869,6 +902,21 @@ searchIndex = [
 - First Contentful Paint: Improved via deferred initialization
 - Time to Interactive: Faster via progressive content loading
 - Font loading: Non-blocking with display:swap and lazy loading
+- Search index built after first paint, not before (see *Deferred search
+  index*)
+
+Measured time from the guide HTML landing in the DOM to the browser being
+free to paint it, median of 7 loads at 390x844:
+
+| | before deferring the index | after |
+|---|---|---|
+| Desktop (no throttling) | 969ms | 827ms |
+| 4x CPU throttle (low-end phone) | 3297ms | 2263ms |
+
+What remains is dominated by `parseMarkdown` (~350ms at 4x) and
+`DOMPurify.sanitize` (~380ms at 4x) — both unavoidable for rendering the
+guide. The post-render enhancement passes together cost about 100ms, so
+there is no further cheap win in `renderResources()`.
 
 ## Build Process
 
@@ -1120,10 +1168,22 @@ For questions about this architecture:
 
 ---
 
-*Last updated: 2026-07-27*
-*Document version: 1.4*
+*Last updated: 2026-09-10*
+*Document version: 1.5.1*
 
 ## Changelog
+
+### Version 1.5.1 (2026-09-10)
+
+Loading performance:
+
+- The resource search index is no longer built on the critical path. It cost
+  roughly as much as rendering the whole guide and kept the "Loading
+  resources…" placeholder on screen about twice as long as necessary, on
+  first load and on every language switch. It now builds in the background
+  step after first paint, with an on-demand fallback in `performSearch()`.
+- Added a11y-smoke section 18, which stubs `requestAnimationFrame` to a no-op
+  and asserts search still returns results without the background step.
 
 ### Version 1.4 (2026-07-27)
 

@@ -88,7 +88,7 @@ npm run preview -- --port 4317   # in a second terminal
 npm run test:a11y
 ```
 
-This drives the built app in headless Chrome and asserts 31 accessibility
+This drives the built app in headless Chrome and asserts 39 accessibility
 behaviours that a linter cannot see: whether search results can actually be
 operated by keyboard, whether focus is contained in a dialog and restored on
 close, whether the page reflows without horizontal scrolling across three

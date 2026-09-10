@@ -378,8 +378,13 @@ async function loadResourcesContent() {
     // Render Resources section
     renderResources();
 
-    // Build search index for resources only (directory entries added later)
-    indexResourceSections();
+    // NOTE: the search index is deliberately *not* built here. It costs
+    // roughly as much as rendering the whole guide (it re-parses every
+    // section through marked + DOMPurify a second time), and nobody needs
+    // it until they type in the search box. Building it here doubled the
+    // time the "Loading resources…" placeholder stayed on screen.
+    // ensureSearchIndex() is called from the background step below, and
+    // from performSearch() if a search beats it there.
 
   } catch (error) {
     console.error('Error loading resources:', error);
@@ -397,6 +402,9 @@ async function loadRemainingContent() {
     // Render Directory and About sections
     renderDirectory();
     renderAbout();
+
+    // Now that the guide is on screen, pay for the search index.
+    ensureSearchIndex();
 
     // Add directory entries to search index
     state.directoryEntries.forEach((entry, id) => {
@@ -932,6 +940,10 @@ function hideDirectoryOverlay() {
 // Index of the currently highlighted search result (-1 = none)
 let activeResultIndex = -1;
 
+// Whether the resource-section search index has been built yet. See
+// ensureSearchIndex().
+let searchIndexBuilt = false;
+
 // Setup search functionality
 function setupSearch() {
   const searchInput = document.getElementById('search-input');
@@ -1072,6 +1084,19 @@ function normalizeForSearch(text) {
 }
 
 
+/**
+ * Build the resource-section search index, once.
+ *
+ * Called from the background step after first paint, and from performSearch()
+ * for anyone who searches before that step has run. The guard makes the
+ * second caller free and stops sections being indexed twice.
+ */
+function ensureSearchIndex() {
+  if (searchIndexBuilt) return;
+  searchIndexBuilt = true;
+  indexResourceSections();
+}
+
 // Extract and index individual sections from Resource Guide
 function indexResourceSections() {
   const markdown = state.resourcesContent;
@@ -1144,6 +1169,11 @@ function performSearch(query) {
     clearSearchResults();
     return;
   }
+
+  // The index is normally built in the background right after first paint,
+  // but that step is scheduled with requestAnimationFrame and a background
+  // tab can starve it indefinitely. Search must never depend on it.
+  ensureSearchIndex();
 
   query = normalizeForSearch(query);
   const queryTerms = query.split(/\s+/).filter(t => t.length > 0);
