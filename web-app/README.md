@@ -88,12 +88,15 @@ npm run preview -- --port 4317   # in a second terminal
 npm run test:a11y
 ```
 
-This drives the built app in headless Chrome and asserts 40 accessibility
+This drives the built app in headless Chrome and asserts 44 accessibility
 behaviours that a linter cannot see: whether search results can actually be
 operated by keyboard, whether focus is contained in a dialog and restored on
 close, whether the page reflows without horizontal scrolling across three
-phone widths and five text sizes, computed colour contrast, and whether the
-controls keep visible boundaries under emulated Windows High Contrast Mode.
+phone widths and five text sizes, computed colour contrast, whether the
+controls keep visible boundaries under emulated Windows High Contrast Mode,
+whether search still works when its background index build never runs, and
+whether the loading placeholders are already in the reader's language before
+the bundle loads.
 
 Requirements:
 

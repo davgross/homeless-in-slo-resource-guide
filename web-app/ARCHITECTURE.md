@@ -322,7 +322,10 @@ const strings = {
 - `updateMetaTags(strings)`: Sets page title and description
 - `updateNavigation(strings)`: Updates nav buttons and aria-labels
 - `updateSearch(strings)`: Sets search placeholder and labels
-- `updateLoadingStates(strings)`: Sets loading messages
+- `updateLoadingStates(strings)`: Sets loading messages. Note that the
+  *initial* loading placeholders are translated earlier, by an inline script
+  in `index.html` — see *Loading placeholders* below. This function still
+  runs, but by the time it does the placeholders are usually gone.
 - `updateButtons(strings)`: Updates button labels and aria-labels
 - `updateFontSizeControl(strings)`: Sets font control UI text
 
@@ -619,12 +622,19 @@ tool alongside the main site URL when the dev server starts
    ↓
 6. Enhance links (phone, email, location)
    ↓
-7. Build search index
+7. Restore saved state (localStorage)
    ↓
-8. Restore saved state (localStorage)
+8. Show appropriate section          ← placeholder is replaced here
    ↓
-9. Show appropriate section
+   (background, after first paint)
+   ↓
+9. Render Directory and About
+   ↓
+10. Build search index
 ```
+
+The search index is built in step 10, *not* on the critical path. See
+*Deferred search index* under Search Implementation.
 
 ### Directory Link Click
 
@@ -802,6 +812,32 @@ Entries in Directory.md follow this structure:
 
 ## Search Implementation
 
+### Deferred search index
+
+`indexResourceSections()` re-parses every section of the guide through
+`marked` and `DOMPurify` a second time, independently of the render pass. It
+costs about as much as rendering the whole guide — roughly 900ms on a 4x
+CPU-throttled profile — and nothing needs it until the user types.
+
+It therefore runs in the background step after first paint, not during
+`loadResourcesContent()`. Building it on the critical path was keeping the
+"Loading resources…" placeholder on screen about twice as long as necessary,
+on first load and on every language switch (`setLanguage()` reloads the page,
+so a switch pays the full critical path again).
+
+Two callers, guarded by `ensureSearchIndex()` so the work happens once:
+
+- `loadRemainingContent()` — the normal path, right after Directory and About
+  render.
+- `performSearch()` — the fallback. The background step is scheduled with
+  `requestAnimationFrame`, which a background tab can starve indefinitely, so
+  search must be able to build the index itself. `npm run test:a11y` section
+  19 stubs `requestAnimationFrame` to a no-op and asserts search still
+  returns results.
+
+**If you add work to `loadResourcesContent()`, measure it.** Everything in
+that function delays the placeholder disappearing.
+
 ### Index Structure
 
 ```javascript
@@ -877,6 +913,21 @@ searchIndex = [
 - First Contentful Paint: Improved via deferred initialization
 - Time to Interactive: Faster via progressive content loading
 - Font loading: Non-blocking with display:swap and lazy loading
+- Search index built after first paint, not before (see *Deferred search
+  index*)
+
+Measured time from the guide HTML landing in the DOM to the browser being
+free to paint it, median of 7 loads at 390x844:
+
+| | before deferring the index | after |
+|---|---|---|
+| Desktop (no throttling) | 969ms | 827ms |
+| 4x CPU throttle (low-end phone) | 3297ms | 2263ms |
+
+What remains is dominated by `parseMarkdown` (~350ms at 4x) and
+`DOMPurify.sanitize` (~380ms at 4x) — both unavoidable for rendering the
+guide. The post-render enhancement passes together cost about 100ms, so
+there is no further cheap win in `renderResources()`.
 
 ## Build Process
 
@@ -1129,9 +1180,28 @@ For questions about this architecture:
 ---
 
 *Last updated: 2026-09-10*
-*Document version: 1.6*
+*Document version: 1.7*
 
 ## Changelog
+
+### Version 1.7 (2026-09-10)
+
+Loading performance and the loading screen's language:
+
+- The resource search index is no longer built on the critical path. It cost
+  roughly as much as rendering the whole guide and kept the "Loading
+  resources…" placeholder on screen about twice as long as necessary, on
+  first load and on every language switch. It now builds in the background
+  step after first paint, with an on-demand fallback in `performSearch()`.
+- Added a11y-smoke section 19, which stubs `requestAnimationFrame` to a no-op
+  and asserts search still returns results without the background step.
+- The loading placeholders are now translated by an inline script in
+  `index.html`, so a Spanish reader sees "Cargando recursos…" from first
+  paint instead of English for the whole wait. Added a11y-smoke section 20,
+  which blocks the bundle and asserts the placeholders are already in the
+  right language, and that the inline strings match `strings.js`.
+- `updateLoadingStates()` was showing "Loading resources…" over the About
+  section; added a `loading.about` string in both languages.
 
 ### Version 1.6 (2026-09-10)
 
@@ -1292,7 +1362,16 @@ Follow-up from browser review of the 1.4 accessibility work:
   It mirrors `getCurrentLanguage()` in `strings.js`, which remains the
   authority. This keeps the document from ever declaring a language that
   contradicts its own content.
-- **`npm run test:a11y`** (`scripts/a11y-smoke.mjs`) — 40 headless
+- **Loading placeholders are translated by a second inline script**, placed
+  immediately after `</main>` in `index.html`. `strings.js` has these
+  translated and `updateLoadingStates()` applies them, but the module bundle
+  is deferred: measured at 4x CPU throttle, the nav labels do not turn
+  Spanish until ~1260ms, while first paint is at ~284ms. A Spanish reader was
+  therefore looking at "Loading resources…" for the whole wait, on the one
+  screen with nothing else to read. The inline script lands at ~123ms, before
+  first paint. It duplicates three short strings; `strings.js` remains the
+  authority and `npm run test:a11y` section 20 fails if the two copies drift.
+- **`npm run test:a11y`** (`scripts/a11y-smoke.mjs`) — 44 headless
   behavioural assertions. Requires Chrome and a running preview server; see
   `README.md`. Runs in CI via `.github/workflows/accessibility.yml`, which
   builds, serves and tests on every PR touching `web-app/` or guide content.

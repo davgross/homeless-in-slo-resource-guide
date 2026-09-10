@@ -16,6 +16,7 @@
  */
 
 import puppeteer from 'puppeteer-core';
+import { readFile } from 'node:fs/promises';
 
 const BASE_URL = process.env.A11Y_URL || 'http://localhost:4317/';
 
@@ -498,6 +499,90 @@ await fcPage.close();
 
   await iso.close();
 }
+
+
+// --- 19. Search must work even if the background index build never runs ---
+// The resource search index is built in the background after first paint,
+// because building it on the critical path kept the "Loading resources…"
+// placeholder on screen roughly twice as long. That background step is
+// scheduled with requestAnimationFrame, so it is not guaranteed to run — a
+// page loaded in a background tab can have rAF starved indefinitely.
+// performSearch() must therefore build the index on demand.
+//
+// Stubbing rAF to a no-op reproduces that deterministically. Racing the real
+// background step does not: the 300ms search debounce lets it win every time,
+// so a test written that way passes even with the on-demand build removed.
+const noRaf = await browser.newPage();
+await noRaf.setViewport({width: 390, height: 844});
+await noRaf.evaluateOnNewDocument(()=>{
+  window.requestAnimationFrame = () => 0;   // the background step never runs
+});
+await noRaf.goto(BASE_URL, {waitUntil:'load', timeout:60000});
+await noRaf.waitForSelector('#search-input', {timeout:60000});
+await noRaf.type('#search-input', 'shelter');
+await noRaf.waitForFunction(
+  ()=>document.querySelectorAll('#search-results [role="option"]').length > 0,
+  {timeout:15000, polling:'raf'}).catch(()=>{});
+const starved = await noRaf.evaluate(()=>{
+  const items = [...document.querySelectorAll('#search-results [role="option"]')];
+  return {count: items.length,
+          hasResourceHit: items.some(i=>i.textContent.toLowerCase().includes('shelter'))};
+});
+await noRaf.close();
+(starved.count > 0 && starved.hasResourceHit)
+  ? pass('search builds its index on demand when rAF never fires', `${starved.count} results`)
+  : fail('search depends on the background index build', JSON.stringify(starved));
+
+
+// --- 20. The loading placeholder must already be in the reader's language ---
+// strings.js has these translated and i18nInit() applies them, but the module
+// bundle is deferred: measured at 4x CPU throttle, the nav labels do not turn
+// Spanish until ~1260ms, while first paint is at ~284ms. The placeholder is
+// the only thing on that screen, so it is translated by an inline script in
+// index.html instead, which lands at ~123ms — before first paint.
+//
+// Blocking the bundle is what makes this deterministic: it isolates what the
+// markup and inline script alone produce, with no chance of initI18n()
+// quietly covering for a broken inline script.
+for (const [lang, expected] of [['es', /^Cargando/], ['en', /^Loading/]]) {
+  const early = await browser.newPage();
+  await early.setViewport({width: 390, height: 844});
+  // Earlier tests in this run leave a service worker registered, and it
+  // serves the bundle from its cache without touching the network — where
+  // request interception lives. Bypass it, or the bundle loads anyway and
+  // this test silently stops testing anything.
+  const earlyClient = await early.createCDPSession();
+  await earlyClient.send('Network.enable');
+  await earlyClient.send('Network.setBypassServiceWorker', {bypass: true});
+  await early.setRequestInterception(true);
+  early.on('request', r =>
+    /\/assets\/index-.*\.js/.test(r.url()) ? r.abort() : r.continue());
+  await early.goto(`${BASE_URL}?lang=${lang}`, {waitUntil:'domcontentloaded', timeout:60000});
+  await early.waitForSelector('#resources-section .loading', {timeout:30000});
+  const placeholders = await early.evaluate(()=>({
+    docLang: document.documentElement.lang,
+    resources: document.querySelector('#resources-section .loading').textContent.trim(),
+    directory: document.querySelector('#directory-section .loading').textContent.trim(),
+    about: document.querySelector('#about-section .loading').textContent.trim(),
+  }));
+  await early.close();
+  const ok = placeholders.docLang === lang &&
+    [placeholders.resources, placeholders.directory, placeholders.about]
+      .every(t => expected.test(t));
+  ok
+    ? pass(`loading placeholders are in ${lang} before the bundle runs`, placeholders.resources)
+    : fail(`loading placeholders wrong for ${lang}`, JSON.stringify(placeholders));
+}
+
+// The inline copy in index.html and the strings.js copy must not drift.
+const stringsSrc = await readFile(new URL('../src/strings.js', import.meta.url), 'utf8');
+const htmlSrc = await readFile(new URL('../index.html', import.meta.url), 'utf8');
+const drift = ['Cargando recursos…', 'Cargando directorio…', 'Cargando la sección Sobre…']
+  .filter(t => !(stringsSrc.includes(t) && htmlSrc.includes(t)));
+drift.length === 0
+  ? pass('inline loading strings match strings.js', '3 strings')
+  : fail('loading strings drifted from strings.js', drift.join(', '));
+
 
 console.log('\n--- page errors (uncaught exceptions) ---');
 console.log(pageErrors.length ? pageErrors.slice(0,10).join('\n') : '(none)');
