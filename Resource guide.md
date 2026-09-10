@@ -13,7 +13,7 @@ This guide makes it easier.
 The guide organizes resources into sections like “Shelter and Housing” or “Food.”
 Each section briefly describes resources available in SLO County.
 
-Many descriptions contain blue-highlighted, boldface links to the [**Directory**](?section=directory).
+Many descriptions contain boldface, underlined links to the [**Directory**](?section=directory).
 This Directory page lists resources in alphabetical order, with information like the website, phone number, email address, location, and operating hours.
 If you find a resource in the guide that may help you, click the boldface link to go to the Directory and learn how to access that resource.
 

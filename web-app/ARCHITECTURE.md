@@ -435,6 +435,14 @@ scrolling has to check the preference itself.
 - Print stylesheet
 - High contrast mode support
 
+**Ordering constraint**: the `@media (forced-colors: active)` block must stay
+**last** in `style.css`. Windows High Contrast Mode strips `background-color`,
+so that block is the only thing drawing a boundary around the floating
+buttons — and its selectors (`#share-btn`, `.feedback-fab`, …) are the same
+IDs and single classes that later rules set `border: none` on. Equal
+specificity means the later rule wins, so moving the block up the file makes
+it silently inert. `npm run test:a11y` section 16 fails if that happens.
+
 **Color Palette** (matches Shower the People branding):
 
 - Primary Blue: #3877ff
@@ -821,7 +829,7 @@ Two callers, guarded by `ensureSearchIndex()` so the work happens once:
 - `performSearch()` — the fallback. The background step is scheduled with
   `requestAnimationFrame`, which a background tab can starve indefinitely, so
   search must be able to build the index itself. `npm run test:a11y` section
-  18 stubs `requestAnimationFrame` to a no-op and asserts search still
+  19 stubs `requestAnimationFrame` to a no-op and asserts search still
   returns results.
 
 **If you add work to `loadResourcesContent()`, measure it.** Everything in
@@ -1169,11 +1177,11 @@ For questions about this architecture:
 ---
 
 *Last updated: 2026-09-10*
-*Document version: 1.5.1*
+*Document version: 1.7*
 
 ## Changelog
 
-### Version 1.5.1 (2026-09-10)
+### Version 1.7 (2026-09-10)
 
 Loading performance:
 
@@ -1182,8 +1190,23 @@ Loading performance:
   resources…" placeholder on screen about twice as long as necessary, on
   first load and on every language switch. It now builds in the background
   step after first paint, with an on-demand fallback in `performSearch()`.
-- Added a11y-smoke section 18, which stubs `requestAnimationFrame` to a no-op
+- Added a11y-smoke section 19, which stubs `requestAnimationFrame` to a no-op
   and asserts search still returns results without the background step.
+
+### Version 1.6 (2026-09-10)
+
+Windows High Contrast Mode follow-up ([#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417)):
+
+- Moved the `@media (forced-colors: active)` block to the end of `style.css`.
+  It had been overridden by later `border: none` rules of equal specificity,
+  so the floating buttons rendered as bare icons with no visible boundary.
+- Added `.share-notification` and `.qr-code-btn` to the bordered selectors;
+  the "link copied" toast previously had no boundary in forced colours.
+- `.nav-btn.active` now uses the system `Highlight`/`HighlightText` pair, so
+  the current section is still identifiable once forced colours remove the
+  three section background colours.
+- Added a11y-smoke section 16, which drives the app under emulated forced
+  colours and asserts all of the above.
 
 ### Version 1.4 (2026-07-27)
 
@@ -1329,7 +1352,7 @@ Follow-up from browser review of the 1.4 accessibility work:
   It mirrors `getCurrentLanguage()` in `strings.js`, which remains the
   authority. This keeps the document from ever declaring a language that
   contradicts its own content.
-- **`npm run test:a11y`** (`scripts/a11y-smoke.mjs`) — 31 headless
+- **`npm run test:a11y`** (`scripts/a11y-smoke.mjs`) — 41 headless
   behavioural assertions. Requires Chrome and a running preview server; see
   `README.md`. Runs in CI via `.github/workflows/accessibility.yml`, which
   builds, serves and tests on every PR touching `web-app/` or guide content.

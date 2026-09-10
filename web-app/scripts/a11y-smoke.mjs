@@ -367,7 +367,56 @@ navRows.length===0
   : fail('header nav wraps', navRows.join(', '));
 
 
-// --- 16. The app must not depend on any third-party origin ---
+// --- 16. Forced colours: controls must keep a visible boundary ---
+// Windows High Contrast Mode strips background-color, so every button
+// boundary in this app then comes from the forced-colors block in style.css.
+// That block has to stay LAST in the file: its selectors are IDs and single
+// classes that also appear in later rules saying `border: none`, and on a
+// source-order tie the later rule wins. That is exactly how the block ended
+// up doing nothing at all until #417, with the floating buttons rendering as
+// bare icons. This test fails if it ever gets moved back up the file.
+const fcPage = await browser.newPage();
+await fcPage.setViewport({width: 1280, height: 900});
+await fcPage.goto(BASE_URL, {waitUntil:'networkidle2', timeout:60000});
+await new Promise(r=>setTimeout(r,1500));
+const fcClient = await fcPage.createCDPSession();
+await fcClient.send('Emulation.setEmulatedMedia',
+  {features:[{name:'forced-colors', value:'active'}]});
+
+const borderless = await fcPage.evaluate(()=>{
+  // #toc-btn and #install-btn stay hidden until a scroll or an install
+  // prompt, so reveal them before reading their computed border.
+  for (const id of ['toc-btn','install-btn']) {
+    const el = document.getElementById(id);
+    if (el) { el.classList.add('visible'); el.style.display = 'flex'; }
+  }
+  return ['#share-btn','#toc-btn','#font-size-btn','#install-btn','#language-btn',
+          '.feedback-fab','.nav-btn','.toc-lozenge','.close-btn']
+    .filter(sel=>{
+      const el = document.querySelector(sel);
+      if (!el) return false;   // presence is covered by other checks
+      return parseFloat(getComputedStyle(el).borderTopWidth) < 1;
+    });
+});
+borderless.length===0
+  ? pass('controls keep a border in forced colours', '9 selectors')
+  : fail('no border in forced colours', borderless.join(', '));
+
+// Which of Resources/Directory/About you are on is otherwise carried only by
+// the section background colour, which forced colours removes outright.
+const activeNav = await fcPage.evaluate(()=>{
+  const el = document.querySelector('.nav-btn.active');
+  if (!el) return null;
+  const cs = getComputedStyle(el);
+  return {bg:cs.backgroundColor, fg:cs.color, adjust:cs.forcedColorAdjust};
+});
+await fcPage.close();
+(activeNav && activeNav.adjust==='none' && activeNav.bg!==activeNav.fg)
+  ? pass('active section button stands out in forced colours', JSON.stringify(activeNav))
+  : fail('active nav button in forced colours', JSON.stringify(activeNav));
+
+
+// --- 17. The app must not depend on any third-party origin ---
 // Fonts and Leaflet used to come from CDNs, so neither survived going offline
 // and OpenDyslexic — an accessibility feature — failed silently. See #419/#420.
 {
@@ -409,7 +458,7 @@ navRows.length===0
   await iso.close();
 }
 
-// --- 17. Map pages: Leaflet must be local, and the list must not need it ---
+// --- 18. Map pages: Leaflet must be local, and the list must not need it ---
 {
   const iso = await browser.createBrowserContext();
   const mp = await iso.newPage();
@@ -451,7 +500,7 @@ navRows.length===0
 }
 
 
-// --- 18. Search must work even if the background index build never runs ---
+// --- 19. Search must work even if the background index build never runs ---
 // The resource search index is built in the background after first paint,
 // because building it on the critical path kept the "Loading resources…"
 // placeholder on screen roughly twice as long. That background step is

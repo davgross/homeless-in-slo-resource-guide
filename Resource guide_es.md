@@ -13,7 +13,7 @@ Esta guía lo hace más fácil.
 La guía organiza recursos en secciones como “Refugio y Vivienda” o “Alimentos.”
 Cada sección describe brevemente los recursos disponibles en el Condado de SLO.
 
-Muchas descripciones contienen enlaces en negritas y resaltados en azul al [**Directorio**](?section=directory).
+Muchas descripciones contienen enlaces en negritas y subrayados al [**Directorio**](?section=directory).
 Esta página del Directorio enumera los recursos en orden alfabético, con información como el sitio web, número de teléfono, dirección de correo electrónico, ubicación y horario de operación.
 Si encuentra un recurso en la guía que pueda serle útil, haga clic en el enlace en negritas para ir al Directorio y aprender cómo acceder a ese recurso.
 
