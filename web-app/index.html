@@ -126,6 +126,38 @@
         <div class="loading" role="status" aria-live="polite">Loading about…</div>
       </section>
     </main>
+    <script>
+      /*
+       * Translate the loading placeholders now, not when the bundle runs.
+       *
+       * strings.js has these translated and i18nInit() applies them, but the
+       * module bundle is deferred: by the time it runs, renderResources() is
+       * about to replace the whole section anyway. So a Spanish reader sat
+       * looking at English for the entire wait — the one screen where they
+       * have nothing else to read.
+       *
+       * Same trade as the language script in <head>: a few strings duplicated
+       * inline so they land before the bundle. strings.js stays the
+       * authority — keep `loading` in both files in step.
+       */
+      (function () {
+        var t = {
+          es: {
+            resources: 'Cargando recursos…',
+            directory: 'Cargando directorio…',
+            about: 'Cargando la sección Sobre…'
+          }
+        }[document.documentElement.lang];
+        if (!t) return;   // English is already in the markup
+        var set = function (sel, text) {
+          var el = document.querySelector(sel);
+          if (el) { el.textContent = text; }
+        };
+        set('#resources-section .loading', t.resources);
+        set('#directory-section .loading', t.directory);
+        set('#about-section .loading', t.about);
+      })();
+    </script>
 
     <div id="directory-overlay" class="directory-overlay" hidden>
       <div class="directory-modal">

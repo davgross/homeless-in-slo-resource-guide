@@ -322,7 +322,10 @@ const strings = {
 - `updateMetaTags(strings)`: Sets page title and description
 - `updateNavigation(strings)`: Updates nav buttons and aria-labels
 - `updateSearch(strings)`: Sets search placeholder and labels
-- `updateLoadingStates(strings)`: Sets loading messages
+- `updateLoadingStates(strings)`: Sets loading messages. Note that the
+  *initial* loading placeholders are translated earlier, by an inline script
+  in `index.html` — see *Loading placeholders* below. This function still
+  runs, but by the time it does the placeholders are usually gone.
 - `updateButtons(strings)`: Updates button labels and aria-labels
 - `updateFontSizeControl(strings)`: Sets font control UI text
 
@@ -1183,7 +1186,7 @@ For questions about this architecture:
 
 ### Version 1.7 (2026-09-10)
 
-Loading performance:
+Loading performance and the loading screen's language:
 
 - The resource search index is no longer built on the critical path. It cost
   roughly as much as rendering the whole guide and kept the "Loading
@@ -1192,6 +1195,13 @@ Loading performance:
   step after first paint, with an on-demand fallback in `performSearch()`.
 - Added a11y-smoke section 19, which stubs `requestAnimationFrame` to a no-op
   and asserts search still returns results without the background step.
+- The loading placeholders are now translated by an inline script in
+  `index.html`, so a Spanish reader sees "Cargando recursos…" from first
+  paint instead of English for the whole wait. Added a11y-smoke section 20,
+  which blocks the bundle and asserts the placeholders are already in the
+  right language, and that the inline strings match `strings.js`.
+- `updateLoadingStates()` was showing "Loading resources…" over the About
+  section; added a `loading.about` string in both languages.
 
 ### Version 1.6 (2026-09-10)
 
@@ -1352,7 +1362,16 @@ Follow-up from browser review of the 1.4 accessibility work:
   It mirrors `getCurrentLanguage()` in `strings.js`, which remains the
   authority. This keeps the document from ever declaring a language that
   contradicts its own content.
-- **`npm run test:a11y`** (`scripts/a11y-smoke.mjs`) — 41 headless
+- **Loading placeholders are translated by a second inline script**, placed
+  immediately after `</main>` in `index.html`. `strings.js` has these
+  translated and `updateLoadingStates()` applies them, but the module bundle
+  is deferred: measured at 4x CPU throttle, the nav labels do not turn
+  Spanish until ~1260ms, while first paint is at ~284ms. A Spanish reader was
+  therefore looking at "Loading resources…" for the whole wait, on the one
+  screen with nothing else to read. The inline script lands at ~123ms, before
+  first paint. It duplicates three short strings; `strings.js` remains the
+  authority and `npm run test:a11y` section 20 fails if the two copies drift.
+- **`npm run test:a11y`** (`scripts/a11y-smoke.mjs`) — 44 headless
   behavioural assertions. Requires Chrome and a running preview server; see
   `README.md`. Runs in CI via `.github/workflows/accessibility.yml`, which
   builds, serves and tests on every PR touching `web-app/` or guide content.

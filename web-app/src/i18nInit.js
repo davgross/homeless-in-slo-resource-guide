@@ -136,7 +136,7 @@ function updateLoadingStates(strings) {
 
   const aboutLoading = document.querySelector('#about-section .loading');
   if (aboutLoading) {
-    aboutLoading.textContent = strings.loading.resources;
+    aboutLoading.textContent = strings.loading.about;
   }
 }
 

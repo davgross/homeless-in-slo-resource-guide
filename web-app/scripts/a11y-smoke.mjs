@@ -16,6 +16,7 @@
  */
 
 import puppeteer from 'puppeteer-core';
+import { readFile } from 'node:fs/promises';
 
 const BASE_URL = process.env.A11Y_URL || 'http://localhost:4317/';
 
@@ -531,6 +532,56 @@ await noRaf.close();
 (starved.count > 0 && starved.hasResourceHit)
   ? pass('search builds its index on demand when rAF never fires', `${starved.count} results`)
   : fail('search depends on the background index build', JSON.stringify(starved));
+
+
+// --- 20. The loading placeholder must already be in the reader's language ---
+// strings.js has these translated and i18nInit() applies them, but the module
+// bundle is deferred: measured at 4x CPU throttle, the nav labels do not turn
+// Spanish until ~1260ms, while first paint is at ~284ms. The placeholder is
+// the only thing on that screen, so it is translated by an inline script in
+// index.html instead, which lands at ~123ms — before first paint.
+//
+// Blocking the bundle is what makes this deterministic: it isolates what the
+// markup and inline script alone produce, with no chance of initI18n()
+// quietly covering for a broken inline script.
+for (const [lang, expected] of [['es', /^Cargando/], ['en', /^Loading/]]) {
+  const early = await browser.newPage();
+  await early.setViewport({width: 390, height: 844});
+  // Earlier tests in this run leave a service worker registered, and it
+  // serves the bundle from its cache without touching the network — where
+  // request interception lives. Bypass it, or the bundle loads anyway and
+  // this test silently stops testing anything.
+  const earlyClient = await early.createCDPSession();
+  await earlyClient.send('Network.enable');
+  await earlyClient.send('Network.setBypassServiceWorker', {bypass: true});
+  await early.setRequestInterception(true);
+  early.on('request', r =>
+    /\/assets\/index-.*\.js/.test(r.url()) ? r.abort() : r.continue());
+  await early.goto(`${BASE_URL}?lang=${lang}`, {waitUntil:'domcontentloaded', timeout:60000});
+  await early.waitForSelector('#resources-section .loading', {timeout:30000});
+  const placeholders = await early.evaluate(()=>({
+    docLang: document.documentElement.lang,
+    resources: document.querySelector('#resources-section .loading').textContent.trim(),
+    directory: document.querySelector('#directory-section .loading').textContent.trim(),
+    about: document.querySelector('#about-section .loading').textContent.trim(),
+  }));
+  await early.close();
+  const ok = placeholders.docLang === lang &&
+    [placeholders.resources, placeholders.directory, placeholders.about]
+      .every(t => expected.test(t));
+  ok
+    ? pass(`loading placeholders are in ${lang} before the bundle runs`, placeholders.resources)
+    : fail(`loading placeholders wrong for ${lang}`, JSON.stringify(placeholders));
+}
+
+// The inline copy in index.html and the strings.js copy must not drift.
+const stringsSrc = await readFile(new URL('../src/strings.js', import.meta.url), 'utf8');
+const htmlSrc = await readFile(new URL('../index.html', import.meta.url), 'utf8');
+const drift = ['Cargando recursos…', 'Cargando directorio…', 'Cargando la sección Sobre…']
+  .filter(t => !(stringsSrc.includes(t) && htmlSrc.includes(t)));
+drift.length === 0
+  ? pass('inline loading strings match strings.js', '3 strings')
+  : fail('loading strings drifted from strings.js', drift.join(', '));
 
 
 console.log('\n--- page errors (uncaught exceptions) ---');

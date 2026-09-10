@@ -56,7 +56,8 @@ const strings = {
     // Loading states
     loading: {
       resources: 'Loading resources…',
-      directory: 'Loading directory…'
+      directory: 'Loading directory…',
+      about: 'Loading about…'
     },
 
     // Errors
@@ -340,7 +341,8 @@ const strings = {
     // Loading states
     loading: {
       resources: 'Cargando recursos…',
-      directory: 'Cargando directorio…'
+      directory: 'Cargando directorio…',
+      about: 'Cargando la sección Sobre…'
     },
 
     // Errors
