@@ -250,7 +250,20 @@ There is also no `@media (forced-colors: active)` block, so Windows High Contras
 
 **Fixed by:** `@media (prefers-contrast: more), (prefers-contrast: high)` for coverage, plus a new `forced-colors: active` block that removes the emoji `text-shadow` glows, gives buttons `border: 1px solid ButtonText`, and substitutes system `Highlight` colours for the custom focus ring.
 
-⚠️ **Partially verified only.** The `prefers-contrast` correction is verifiable and done. The `forced-colors` block was written against the spec and **has never been seen render** — no Windows machine is available. Tracked as [#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417), which also records a specific prediction worth checking: the three section backgrounds are distinguished *only* by colour, which forced-colors strips entirely, so they may become indistinguishable and need a non-colour cue.
+⚠️ **Partially verified only.** The `prefers-contrast` correction is verifiable and done.
+The `forced-colors` block has still never been seen on real Windows — no Windows machine is available — but it has now been exercised in Chrome's `forced-colors: active` emulation, which found and fixed three real defects (see below).
+Tracked as [#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417).
+
+**Follow-up fixes from the emulator pass (September 2026).**
+The block itself was correct but *inert for half its selectors*: it sat at line ~1667, while `#share-btn`, `#toc-btn`, `#font-size-btn`, `#install-btn`, `#language-btn` and `.feedback-fab` are declared later in the file with `border: none`.
+Those are ID and single-class selectors on both sides, so the later rule won on source order and every floating button rendered as a bare icon with no boundary.
+Three changes followed:
+
+1. The `forced-colors` block moved to the **end** of `style.css`, where nothing can override it. It must stay there.
+2. `.share-notification` (the "link copied" toast) and `.qr-code-btn` joined the bordered selectors; the toast had no boundary at all.
+3. `.nav-btn.active` now claims the system `Highlight`/`HighlightText` pair with `forced-color-adjust: none`. This answers the prediction this audit recorded: the three section backgrounds *do* become indistinguishable in forced colours, so the active nav button is now the non-colour cue for which page you are on.
+
+`npm run test:a11y` section 16 guards all of this — it drives the app under emulated forced colours and fails if any of those controls loses its border or if the active nav button stops standing out.
 
 ### ✅ 12. Every external link is forced into a new tab
 
@@ -323,7 +336,7 @@ These require a person and are tracked as issues:
 | What | Status | Issue |
 |---|---|---|
 | **Screen reader passes** — TalkBack (Android) first, it is what this audience uses; then NVDA | ⬜ Not done. The maintainer trialled TalkBack; a daily screen reader user is needed | [#418](https://github.com/davgross/homeless-in-slo-resource-guide/issues/418) |
-| **Windows High Contrast Mode** (`forced-colors`) | ⬜ Not done — no Windows machine available. The CSS block was written against the spec and has never been seen render | [#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417) |
+| **Windows High Contrast Mode** (`forced-colors`) | 🟡 Partial — exercised in Chrome's `forced-colors: active` emulation, which found and fixed three defects, and now asserted by `npm run test:a11y`. Real Windows colour substitution is still unverified; no Windows machine available | [#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417) |
 | **Zoom to 200% / 400%** | ✅ Automated — reflow is asserted at 320/375/412px across 5 text sizes, 320px being the width WCAG 1.4.10 requires | — |
 | **Real-device testing on a low-end Android phone** | 🟡 Partial — the maintainer tested a preview build on a phone; not yet tested on a genuinely low-end device | — |
 | **Automated axe-core pass** | ⬜ Optional. `npm run test:a11y` covers behaviour that axe cannot see; axe would add mechanical rule coverage | — |
@@ -384,7 +397,7 @@ All Level A/AA failures and all but one of the smaller issues were fixed on bran
 | Issue | What | Why not now |
 |---|---|---|
 | [#416](https://github.com/davgross/homeless-in-slo-resource-guide/issues/416) | Dark mode | A design decision needing a second designed palette and a follow-vs-toggle choice. The three section backgrounds carry meaning, and inverting the ground would invalidate every contrast pair fixed here. Not a WCAG failure. |
-| [#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417) | Verify Windows High Contrast | The `forced-colors` block is written but unverified; no Windows machine available. |
+| [#417](https://github.com/davgross/homeless-in-slo-resource-guide/issues/417) | Verify Windows High Contrast | The `forced-colors` block now passes emulator testing and is covered by the a11y suite, but real Windows colour substitution is still unverified; no Windows machine available. |
 | [#418](https://github.com/davgross/homeless-in-slo-resource-guide/issues/418) | Screen reader testing | Needs a daily screen reader user, ideally paid. No amount of code review substitutes. |
 | [#419](https://github.com/davgross/homeless-in-slo-resource-guide/issues/419) | Self-host Leaflet, tidy map-page markup | Surfaced by this work but not caused by it; reliability and code quality rather than accessibility. |
 
