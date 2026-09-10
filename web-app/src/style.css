@@ -1661,51 +1661,6 @@ tbody tr:hover {
   }
 }
 
-/* Windows High Contrast Mode / forced-colors.
-   The app leans on background colours, box-shadows and emoji glows that the
-   OS strips out here, so restore explicit borders and drop the glows. */
-@media (forced-colors: active) {
-  .nav-btn,
-  .toc-lozenge,
-  #share-btn,
-  #toc-btn,
-  #font-size-btn,
-  #install-btn,
-  #language-btn,
-  .feedback-fab,
-  .close-btn,
-  .directory-feedback-btn,
-  .directory-modal .directory-share-btn,
-  .feedback-close-btn,
-  .search-result-item {
-    border: 1px solid ButtonText;
-    text-shadow: none;
-  }
-
-  a:focus-visible,
-  button:focus-visible,
-  input:focus-visible,
-  select:focus-visible,
-  textarea:focus-visible {
-    outline: 3px solid Highlight;
-    outline-offset: 2px;
-    box-shadow: none;
-  }
-
-  .search-result-item.is-active {
-    background-color: Highlight;
-    color: HighlightText;
-    forced-color-adjust: none;
-  }
-
-  .directory-modal,
-  .feedback-modal-content,
-  .qr-modal-content,
-  .search-results {
-    border: 1px solid CanvasText;
-  }
-}
-
 /* Reduced Motion */
 @media (prefers-reduced-motion: reduce) {
   html {
@@ -3069,5 +3024,69 @@ textarea[aria-invalid="true"]:focus {
 
   .language-option-name {
     font-size: 0.85rem;
+  }
+}
+
+/* Windows High Contrast Mode / forced-colors.
+   The app leans on background colours, box-shadows and emoji glows that the
+   OS strips out here, so restore explicit borders and drop the glows.
+
+   Keep this block LAST in the file. Most of its selectors are ID or
+   single-class selectors that match rules declared elsewhere, so a later rule
+   saying `border: none` wins on source order and quietly undoes the border.
+   That is what happened before: the floating buttons rendered as bare icons
+   with no visible boundary. */
+@media (forced-colors: active) {
+  .nav-btn,
+  .toc-lozenge,
+  #share-btn,
+  #toc-btn,
+  #font-size-btn,
+  #install-btn,
+  #language-btn,
+  .feedback-fab,
+  .close-btn,
+  .directory-feedback-btn,
+  .directory-modal .directory-share-btn,
+  .feedback-close-btn,
+  .qr-code-btn,
+  .search-result-item {
+    border: 1px solid ButtonText;
+    text-shadow: none;
+  }
+
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
+    box-shadow: none;
+  }
+
+  .search-result-item.is-active {
+    background-color: Highlight;
+    color: HighlightText;
+    forced-color-adjust: none;
+  }
+
+  /* Which of Resources / Directory / About you are on is otherwise carried
+     only by the section background colour, which forced-colors removes. The
+     active nav button becomes the sole cue, so make it read as "selected"
+     the same way the active search result does. */
+  .nav-btn.active {
+    background-color: Highlight;
+    color: HighlightText;
+    border-color: HighlightText;
+    forced-color-adjust: none;
+  }
+
+  .directory-modal,
+  .feedback-modal-content,
+  .qr-modal-content,
+  .search-results,
+  .share-notification {
+    border: 1px solid CanvasText;
   }
 }
