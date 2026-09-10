@@ -1546,6 +1546,14 @@
 - **Email:** [CS@groverbeach.org](mailto:CS@groverbeach.org) <!-- Source: https://www.groverbeach.org/141/Community-Services -->
 - **Hours:** M–F 8am–5pm
 
+## <a id="Grover-Beach-Community-Library">Grover Beach Community Library</a>
+
+- **Website:** [groverbeachlibrary.org](https://www.groverbeachlibrary.org/)
+- **Location:** <a href="#" class="map-link" data-lat="35.123089" data-lon="-120.620032" data-zoom="16" data-label="Grover Beach Community Library">240 N 9th St, Grover Beach</a> <!-- Source: https://www.groverbeachlibrary.org/ -->
+- **Phone** [805-481-4131](tel:+1-805-481-4131) <!-- Source: https://www.groverbeachlibrary.org/ -->
+- **Email** [admin@groverbeachlibrary.org](mailto:admin@groverbeachlibrary.org) <!-- Source: https://www.groverbeachlibrary.org/ -->
+- **Hours:** M,T,Th,F 1pm-5pm, Sat 10am-2pm, Closed Wed & Sun 
+
 ## <a id="Gryphon-Society">Gryphon Society</a>
 
 - **Website:** [gryphonsociety.weebly.com](https://gryphonsociety.weebly.com/)

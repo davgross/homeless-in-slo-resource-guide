@@ -3250,7 +3250,7 @@ La [Robert E. Kennedy Library](https://library.calpoly.edu/) de Cal Poly es un r
 La biblioteca apoya el principio de acceso abierto a sus colecciones por la comunidad y la región. <!-- Source: https://library.calpoly.edu/about/policies -->
 Los miembros de la comunidad pueden venir a la biblioteca durante las horas de apertura de la biblioteca principal y pueden acceder a la mayoría de las bases de datos mientras estén en las instalaciones trayendo su propio dispositivo y conectándose a la red inalámbrica para invitados de Cal Poly. <!-- Source: https://library.calpoly.edu/about/policies -->
 
-Bibliotecas más pequeñas con colecciones más eclécticas incluyen la biblioteca de préstamo en el [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) y las “bibliotecas gratuitas pequeñas.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
+Bibliotecas más pequeñas con colecciones más eclécticas incluyen la biblioteca de préstamo en el [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), [**Grover Beach Community Library**](Directory.md#Grover-Beach-Community-Library) y las “bibliotecas gratuitas pequeñas.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
 Las bibliotecas gratuitas pequeñas son cajas en áreas públicas (por ejemplo adyacentes a las aceras) donde las personas dejan libros que están regalando.
 Cualquiera puede tomar libros para su propio uso de las Bibliotecas Gratuitas Pequeñas.
 No hay un procedimiento de préstamo/devolución.

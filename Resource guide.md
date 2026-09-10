@@ -3250,7 +3250,7 @@ Cal Poly’s [Robert E. Kennedy Library](https://library.calpoly.edu/) is a reso
 The library supports the principle of open access to its collections by the community and region. <!-- Source: https://library.calpoly.edu/about/policies -->
 Members of the community can come to the library during main library opening hours and can access most databases while on the premises by bringing their own device and signing onto Cal Poly guest wireless. <!-- Source: https://library.calpoly.edu/about/policies -->
 
-Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) and “Little Free Libraries.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
+Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), [**Grover Beach Community Library**](Directory.md#Grover-Beach-Community-Library) and “Little Free Libraries.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
 Little Free Libraries are boxes in public areas (for example adjacent to sidewalks) where people leave books they are giving away.
 Anyone is free to take books for their own use from Little Free Libraries.
 There is no check-out/check-in procedure. Just take what you want to read, or leave what you’re finished reading.
