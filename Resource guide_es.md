@@ -1068,14 +1068,10 @@ Puede encontrar un mapa de estas estaciones de hidratación [en este enlace](htt
 Hay muchas opciones de transporte público en el condado de SLO.
 El sitio web de [Rideshare](https://rideshare.org/) y el servicio telefónico [511](tel:+1-511) pueden darle una descripción general de la mayoría de ellas y pueden ayudarle a planificar sus viajes.
 
-El sistema de [**Autoridad Regional de Tránsito de SLO**](Directory.md#SLO-RTA) incluye varias rutas de autobús que conectan ciudades en el condado de SLO.
+El sistema de [**Autoridad Regional de Tránsito de SLO**](Directory.md#SLO-RTA) (RTA) incluye varias rutas de autobús que conectan ciudades en el condado de SLO.
 También administran las rutas de autobús de la ciudad en Morro Bay y Paso Robles, y los servicios de transporte a pedido y Runabout Paratransit.
-Puede comprar pases de autobús en el autobús o usando la aplicación [Token Transit](https://tokentransit.com/riders/download).
-
-Hay descuentos para personas mayores (edad 65+), titulares de tarjeta de Medicare y personas con discapacidades. <!-- Source: https://www.slorta.org/fares/discounts/ -->
-Si paga en efectivo por su tarifa, debe aplicar en persona en la oficina de RTA para obtener una tarjeta de descuento. <!-- Source https://www.slorta.org/fares/discounts/ -->
-Si usa una tarjeta de crédito para pagar con toque, y es titular de tarjeta de Medicare o tiene 65 años o más, puede obtener descuentos automáticamente al [registrar su tarjeta de crédito con el Proyecto de Viaje Integrado de California (Cal-ITP)](https://benefits.calitp.org/).
-Las personas mayores de 80 años y las personas con una discapacidad certificada por ADA viajan gratis. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+Puede comprar pases de autobús en el autobús con efectivo o usando la aplicación [Token Transit](https://tokentransit.com/riders/download).
+También puede [pagar “con toque”](https://www.slorta.org/fares/contactless/) usando una tarjeta de crédito.
 
 | Línea RTA                                                                          | Destinos |
 | ---------------------------------------------------------------------------------- | -------- |
@@ -1090,6 +1086,17 @@ Las personas mayores de 80 años y las personas con una discapacidad certificada
 | [Avila-Pismo Beach Trolley](https://www.slorta.org/schedules-fares/avila-trolley/) | Port San Luis, Avila Beach, Pismo Beach |
 | [Morro Bay Transit](https://www.slorta.org/schedules-fares/morro-bay-transit/)     | Morro Bay |
 
+En estas líneas de autobús de RTA, hay descuentos de tarifa para personas mayores (edad 65+), titulares de tarjeta de Medicare y personas con discapacidades. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+Las personas mayores de 80 años y las personas con una discapacidad certificada por ADA viajan gratis. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+Hay dos maneras de obtener estos descuentos:
+
+1. Si paga en efectivo por su tarifa, debe solicitar en persona en la oficina de RTA una “RTA Discount Eligibility Card” (tarjeta de elegibilidad para descuentos de RTA). <!-- Source https://www.slorta.org/fares/discounts/ -->
+   Para obtener esta tarjeta, debe completar [un formulario de elegibilidad](https://www.slorta.org/fares/discounts/eligibility-form/) y presentarlo en línea o en persona en la oficina de RTA. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+   Si lo presenta en persona en la oficina de RTA, debe llevar una identificación con foto. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+   Llame a RTA para hacer una cita para presentar su formulario en persona: [805-541-2228&#xA0;x4833](tel:+1-805-541-2228;ext=4833). <!-- Source: https://www.slorta.org/fares/discounts/ -->
+2. Si usa una tarjeta de crédito para pagar con toque, y es titular de tarjeta de Medicare o tiene 65 años o más, puede obtener descuentos automáticamente al [registrar su tarjeta de crédito con el Proyecto de Viaje Integrado de California (Cal-ITP)](https://benefits.calitp.org/).
+   No necesita tener también una “RTA Discount Eligibility Card” si registra su tarjeta sin contacto de esta manera.
+
 [Runabout Paratransit](https://www.slorta.org/services/runabout-paratransit/) es un servicio de transporte a nivel del condado para personas que no siempre pueden usar los autobuses de ruta fija de SLO RTA debido a discapacidades. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 Este servicio le llevará puerta a puerta dentro de ¾ de milla de las rutas fijas de RTA durante las mismas horas en que opera RTA. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 Un asistente de cuidado personal puede acompañarle sin costo. <!-- Source: https://www.slorta.org/services/runabout-paratransit/faq/ -->
@@ -1103,14 +1110,6 @@ Puede usar el sitio web [SLO Transit RiderPortal](https://slo.rider.peaktransit.
 Puede comprar pases de autobús en el autobús o usando la aplicación [Token Transit](https://tokentransit.com/riders/download).
 (Otra opción para ver horarios de llegada de autobuses y para planificar viajes es la aplicación [moovit](https://moovitapp.com/index/en/public_transit-San_Luis_Obispo_CA-4003).)
 Si compra un pase regional de día de SLO RTA, eso también le permite viajar en autobuses de SLO Transit. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
-
-Hay descuentos para personas mayores y personas con discapacidades, y para niños. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/discount-programs -->
-Para obtener descuentos para personas mayores o con discapacidades cuando paga una tarifa en efectivo, debe mostrar una “RTA Discount Eligibility Card.” <!-- Source: https://www.slorta.org/fares/discounts/ -->
-Para obtener dicha tarjeta, necesita completar [un formulario de dos páginas](https://www.slorta.org/fares/discounts/) y presentarlo en la oficina de SLO Transit. <!-- Source: https://www.slorta.org/fares/discounts/ -->
-
-Si es una persona mayor o tiene una tarjeta de Medicare, tiene otra opción para obtener estos descuentos si paga su tarifa usando el sistema de [“tarifa sin contacto”](https://www.slorta.org/fares/contactless/) con una tarjeta de crédito o débito. <!-- Source: https://benefits.calitp.org/eligibility/start -->
-Registre su tarjeta en [benefits.calitp.org](https://benefits.calitp.org/) para que su descuento se aplique cada vez que use esa tarjeta en un autobús de SLO RTA.
-No necesita tener también una “RTA Discount Eligibility Card” si registra su tarjeta sin contacto de esta manera.
 
 El sistema Santa Maria Regional Transit tiene un autobús que viaja entre Santa Maria y San Luis Obispo ([ruta 210](https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000)) los días de semana. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
 Es un autobús de “cercanías,” lo que significa que opera en la mañana y en la noche, pero no a la mitad del día. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
