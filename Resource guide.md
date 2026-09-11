@@ -1090,7 +1090,7 @@ On these RTA bus lines, there are fare discounts for seniors (age 65+), medicare
 People over the age of 80 and people with an ADA-certified disability ride free. <!-- Source: https://www.slorta.org/fares/discounts/ -->
 There are two ways for you to get these discounts:
 
-1. If you pay cash for your fare, you must apply in person at the RTA office to get an “RTA Discount Eligibility Card.” <!-- Source https://www.slorta.org/fares/discounts/ -->
+1. If you pay cash for your fare, you must get an “RTA Discount Eligibility Card.” <!-- Source https://www.slorta.org/fares/discounts/ -->
    To get such a card you must complete [an eligibility form](https://www.slorta.org/fares/discounts/eligibility-form/) and submit this form online or in person at the RTA office. <!-- Source: https://www.slorta.org/fares/discounts/ -->
    If you submit it in person at the RTA office, you must bring a photo ID. <!-- Source: https://www.slorta.org/fares/discounts/ -->
    Call the RTA to make an appointment to submit your form in person: [805-541-2228&#xA0;x4833](tel:+1-805-541-2228;ext=4833). <!-- Source: https://www.slorta.org/fares/discounts/ -->

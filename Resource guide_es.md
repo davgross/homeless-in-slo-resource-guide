@@ -1090,7 +1090,7 @@ En estas líneas de autobús de RTA, hay descuentos de tarifa para personas mayo
 Las personas mayores de 80 años y las personas con una discapacidad certificada por ADA viajan gratis. <!-- Source: https://www.slorta.org/fares/discounts/ -->
 Hay dos maneras de obtener estos descuentos:
 
-1. Si paga en efectivo por su tarifa, debe solicitar en persona en la oficina de RTA una “RTA Discount Eligibility Card” (tarjeta de elegibilidad para descuentos de RTA). <!-- Source https://www.slorta.org/fares/discounts/ -->
+1. Si paga en efectivo por su tarifa, debe obtener una “RTA Discount Eligibility Card” (tarjeta de elegibilidad para descuentos de RTA). <!-- Source https://www.slorta.org/fares/discounts/ -->
    Para obtener esta tarjeta, debe completar [un formulario de elegibilidad](https://www.slorta.org/fares/discounts/eligibility-form/) y presentarlo en línea o en persona en la oficina de RTA. <!-- Source: https://www.slorta.org/fares/discounts/ -->
    Si lo presenta en persona en la oficina de RTA, debe llevar una identificación con foto. <!-- Source: https://www.slorta.org/fares/discounts/ -->
    Llame a RTA para hacer una cita para presentar su formulario en persona: [805-541-2228&#xA0;x4833](tel:+1-805-541-2228;ext=4833). <!-- Source: https://www.slorta.org/fares/discounts/ -->
