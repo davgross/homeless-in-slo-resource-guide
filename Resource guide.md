@@ -1091,7 +1091,7 @@ People over the age of 80 and people with an ADA-certified disability ride free.
 There are two ways for you to get these discounts:
 
 1. If you pay cash for your fare, you must apply in person at the RTA office to get an “RTA Discount Eligibility Card.” <!-- Source https://www.slorta.org/fares/discounts/ -->
-   To get such a card you must complete [an eligibility form](https://www.slorta.org/fares/discounts/eligibility-form/) and submit this form on-line or in person at the RTA office. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+   To get such a card you must complete [an eligibility form](https://www.slorta.org/fares/discounts/eligibility-form/) and submit this form online or in person at the RTA office. <!-- Source: https://www.slorta.org/fares/discounts/ -->
    If you submit it in person at the RTA office, you must bring a photo ID. <!-- Source: https://www.slorta.org/fares/discounts/ -->
    Call the RTA to make an appointment to submit your form in person: [805-541-2228&#xA0;x4833](tel:+1-805-541-2228;ext=4833). <!-- Source: https://www.slorta.org/fares/discounts/ -->
 2. If you use a credit card to tap-to-ride, and you are a medicare cardholder or are age 65+, you can get discounts automatically by [registering your credit card with the California Integrated Travel Project (Cal-ITP)](https://benefits.calitp.org/).
@@ -3249,7 +3249,7 @@ Cal Poly’s [Robert E. Kennedy Library](https://library.calpoly.edu/) is a reso
 The library supports the principle of open access to its collections by the community and region. <!-- Source: https://library.calpoly.edu/about/policies -->
 Members of the community can come to the library during main library opening hours and can access most databases while on the premises by bringing their own device and signing onto Cal Poly guest wireless. <!-- Source: https://library.calpoly.edu/about/policies -->
 
-Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), [**Grover Beach Community Library**](Directory.md#Grover-Beach-Community-Library) and “Little Free Libraries.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
+Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), [**Grover Beach Community Library**](Directory.md#Grover-Beach-Community-Library), and “Little Free Libraries.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
 Little Free Libraries are boxes in public areas (for example adjacent to sidewalks) where people leave books they are giving away.
 Anyone is free to take books for their own use from Little Free Libraries.
 There is no check-out/check-in procedure. Just take what you want to read, or leave what you’re finished reading.
