@@ -1068,14 +1068,10 @@ You can find a map of these hydration stations [at this link](https://storymaps.
 There are many public transit options in SLO County.
 The [Rideshare](https://rideshare.org/) website and the [511](tel:+1-511) phone service can give you an overview of most of them and can help you plan your trips.
 
-The [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) system includes several bus routes that connect cities in SLO County.
+The [**SLO Regional Transit Authority**](Directory.md#SLO-RTA) (RTA) system includes several bus routes that connect cities in SLO County.
 They also govern the city bus routes in Morro Bay and Paso Robles, and the dial-a-ride and Runabout Paratransit services.
-You can buy bus passes on the bus or by using the [Token Transit](https://tokentransit.com/riders/download) app.
-
-There are discounts for seniors (age 65+), medicare cardholders, and people with disabilities. <!-- Source: https://www.slorta.org/fares/discounts/ -->
-If you pay cash for your fare, you must apply in person at the RTA office to get a discount card. <!-- Source https://www.slorta.org/fares/discounts/ -->
-If you use a credit card to tap-to-ride, and you are a medicare cardholder or are age 65+, you can get discounts automatically by [registering your credit card with the California Integrated Travel Project (Cal-ITP)](https://benefits.calitp.org/).
-People over the age of 80 and people with an ADA-certified disability ride free. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+You can buy bus passes on the bus with cash or by using the [Token Transit](https://tokentransit.com/riders/download) app.
+You can also [“tap-to-ride”](https://www.slorta.org/fares/contactless/) with a credit card.
 
 | RTA Line                                                                           | Destinations |
 | ---------------------------------------------------------------------------------- | ------------ |
@@ -1090,6 +1086,17 @@ People over the age of 80 and people with an ADA-certified disability ride free.
 | [Avila-Pismo Beach Trolley](https://www.slorta.org/schedules-fares/avila-trolley/) | Port San Luis, Avila Beach, Pismo Beach |
 | [Morro Bay Transit](https://www.slorta.org/schedules-fares/morro-bay-transit/)     | Morro Bay |
 
+On these RTA bus lines, there are fare discounts for seniors (age 65+), medicare cardholders, and people with disabilities. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+People over the age of 80 and people with an ADA-certified disability ride free. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+There are two ways for you to get these discounts:
+
+1. If you pay cash for your fare, you must get an “RTA Discount Eligibility Card.” <!-- Source https://www.slorta.org/fares/discounts/ -->
+   To get such a card you must complete [an eligibility form](https://www.slorta.org/fares/discounts/eligibility-form/) and submit this form online or in person at the RTA office. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+   If you submit it in person at the RTA office, you must bring a photo ID. <!-- Source: https://www.slorta.org/fares/discounts/ -->
+   Call the RTA to make an appointment to submit your form in person: [805-541-2228&#xA0;x4833](tel:+1-805-541-2228;ext=4833). <!-- Source: https://www.slorta.org/fares/discounts/ -->
+2. If you use a credit card to tap-to-ride, and you are a medicare cardholder or are age 65+, you can get discounts automatically by [registering your credit card with the California Integrated Travel Project (Cal-ITP)](https://benefits.calitp.org/).
+   You do not need to also have an “RTA Discount Eligibility Card” if you register your contactless card in this way.
+
 [Runabout Paratransit](https://www.slorta.org/services/runabout-paratransit/) is a county-wide transit service for people who cannot always use the fixed-route SLO RTA buses because of disability. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 This service will take you door-to-door within ¾-mile of the RTA fixed routes during the same hours RTA operates. <!-- Source: https://www.slorta.org/services/runabout-paratransit/ -->
 One personal care attendant can accompany you free-of-charge. <!-- Source: https://www.slorta.org/services/runabout-paratransit/faq/ -->
@@ -1103,14 +1110,6 @@ You can use the [SLO Transit RiderPortal](https://slo.rider.peaktransit.com/) we
 You can buy bus passes on the bus or by using the [Token Transit](https://tokentransit.com/riders/download) app.
 (Another option for viewing bus arrival times and for planning travel is the [moovit](https://moovitapp.com/index/en/public_transit-San_Luis_Obispo_CA-4003) app.)
 If you buy a regional day pass from SLO RTA, that also lets you ride SLO Transit buses. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information -->
-
-There are discounts for seniors and disabled people, and for children. <!-- Source: https://www.slocity.org/government/department-directory/public-works/slo-transit/discount-programs -->
-To get senior/disabled discounts when you pay a cash fare, you must show an “RTA Discount Eligibility Card.” <!-- Source: https://www.slorta.org/fares/discounts/ -->
-To get such a card you need to complete [a two-page form](https://www.slorta.org/fares/discounts/) and submit this form at the SLO Transit office. <!-- Source: https://www.slorta.org/fares/discounts/ -->
-
-If you are a senior or a Medicare cardholder, you have another option for getting these discounts if you pay your fare by using the [“contactless fare”](https://www.slorta.org/fares/contactless/) system with a credit or debit card. <!-- Source: https://benefits.calitp.org/eligibility/start -->
-Register your card with [benefits.calitp.org](https://benefits.calitp.org/) so your discount applies every time you use that card on a SLO RTA bus.
-You do not need to also have an “RTA Discount Eligibility Card” if you register your contactless card in this way.
 
 The Santa Maria Regional Transit system has a bus that travels between Santa Maria and San Luis Obispo ([route 210](https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000)) on weekdays. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
 It is a “commuter” bus, which means that it operates in the morning and evening, but not in the middle of the day. <!-- Source: https://www.cityofsantamaria.org/home/showpublisheddocument/32758/639033871854700000 -->
@@ -3250,7 +3249,7 @@ Cal Poly’s [Robert E. Kennedy Library](https://library.calpoly.edu/) is a reso
 The library supports the principle of open access to its collections by the community and region. <!-- Source: https://library.calpoly.edu/about/policies -->
 Members of the community can come to the library during main library opening hours and can access most databases while on the premises by bringing their own device and signing onto Cal Poly guest wireless. <!-- Source: https://library.calpoly.edu/about/policies -->
 
-Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), [**Grover Beach Community Library**](Directory.md#Grover-Beach-Community-Library) and “Little Free Libraries.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
+Smaller libraries with more eclectic collections include the lending library at the [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center), [**Grover Beach Community Library**](Directory.md#Grover-Beach-Community-Library), and “Little Free Libraries.” <!-- Source: https://www.prcity.com/293/Senior-Services -->
 Little Free Libraries are boxes in public areas (for example adjacent to sidewalks) where people leave books they are giving away.
 Anyone is free to take books for their own use from Little Free Libraries.
 There is no check-out/check-in procedure. Just take what you want to read, or leave what you’re finished reading.
