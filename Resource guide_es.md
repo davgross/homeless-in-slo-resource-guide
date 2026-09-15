@@ -3450,22 +3450,34 @@ También pueden referirlo a otras agencias para más ayuda.
 Distintas agencias del condado de SLO usan el nombre “Family Resource Center” para programas diferentes.
 Cada programa tiene sus propios servicios y sus propias reglas.
 
-La mayoría de los Centros de Recursos Familiares del condado de SLO forman parte del “Sistema de Cuidado SAFE” del condado. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+La mayoría de los Centros de Recursos Familiares del condado de SLO forman parte del “Sistema de Cuidado SAFE” del condado. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
 SAFE significa “Services Affirming Family Empowerment” (Servicios que Afirman el Empoderamiento Familiar).
-El condado de SLO creó SAFE; es un programa local, no un programa estatal ni nacional. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
-Las escuelas, SLO County Behavioral Health, CAPSLO y otras agencias trabajan juntas en SAFE para ayudar a que los niños estén seguros, saludables y sigan en la escuela. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+El condado de SLO creó SAFE; es un programa local, no un programa estatal ni nacional. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+Las escuelas, SLO County Behavioral Health, CAPSLO y otras agencias trabajan juntas en SAFE para ayudar a que los niños estén seguros, saludables y sigan en la escuela. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+SAFE ayuda a las familias en cada etapa, desde el embarazo hasta la adolescencia. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
 
 No necesita que una escuela o un trabajador social lo refiera.
-Puede llamar o visitar usted mismo un SAFE Family Resource Center y pedir ayuda. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
+Usted mismo puede comunicarse con un SAFE Family Resource Center y pedir ayuda. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 Una escuela, un médico o un trabajador social también pueden referirlo.
 
-Los dos SAFE Family Resource Centers que puede visitar son:
+Estos Centros de Recursos Familiares forman parte de SAFE: <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
 
 - [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center), con oficinas en Atascadero y Paso Robles, que atiende a familias en todo el norte del condado de SLO.
+- [**Paso Robles Family Resource Center**](Directory.md#North-County-Family-Resource-Center), operado por CAPSLO, en Paso Robles.
+  Se enfoca en niños pequeños: evaluación gratuita del desarrollo, ayuda para inscribirse en Head Start y ayuda para pagar el cuidado infantil. <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+- [**San Luis Obispo Family Resource Center**](Directory.md#SLO-Family-Resource-Center), operado por CAPSLO, en el plantel de San Luis Coastal Adult School en SLO.
+  Tiene que hacer una cita antes de ir. <!-- Source: https://capslo.org/slo-frc/ -->
 - [**SAFE Family Resource Centers**](Directory.md#SAFE-Family-Resource-Centers), operado por CAPSLO, con oficinas en Oceano, Arroyo Grande y Nipomo.
+  Puede llegar sin cita, pero es mejor hacer una cita primero. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 
-CAPSLO también opera un programa distinto con un nombre parecido, el [**Paso Robles Family Resource Center**](Directory.md#North-County-Family-Resource-Center), en su propia oficina separada.
-Se enfoca en niños pequeños: evaluación gratuita del desarrollo, ayuda para inscribirse en Head Start y ayuda para pagar el cuidado infantil. <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+Si no sabe con cuál comunicarse, puede llamar al equipo SAFE del condado. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+Vea [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) para los números de teléfono.
+
+A veces una familia necesita ayuda de varias agencias a la vez.
+En ese caso, SAFE puede organizar una “SAFE Intensive Meeting” (reunión intensiva SAFE).
+En esta reunión, su familia y las personas que ayudan a su familia se reúnen y hacen un solo plan. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+Estas reuniones son voluntarias.
+Por lo general, un empleado de la escuela, un administrador de casos u otro trabajador que ya ayuda a su familia pide la reunión. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
 
 [**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents) es un tipo diferente de Family Resource Center.
 Es solo para familias que tienen un hijo o hija con una discapacidad o necesidades especiales. <!-- Source: https://www.phpslo.org/ -->
