@@ -1022,8 +1022,11 @@
    - operates [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - operates “Low Income Home Energy Assistance Program (LIHEAP)”
    - operates [**Outreach & Engagement Services**](#Outreach-and-Engagement-Services)
+   - operates [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center)
    - operates [**Paso Robles Senior Center**](#Paso-Robles-Senior-Center) <!-- Source: https://www.newtimesslo.com/capslo-to-take-over-operation-of-paso-robles-senior-center/ -->
    - operates [**Rotating Overnight Safe Parking Program**](#Rotating-Overnight-Safe-Parking-Program)
+   - operates [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
+   - operates [**San Luis Obispo Family Resource Center**](#SLO-Family-Resource-Center)
    - operates “Senior Health Screening”
    - operates [**Supportive Services for Veteran Families**](#Supportive-Services-for-Veteran-Families)
    - operates “Teen Wellness”
@@ -1550,9 +1553,9 @@
 
 - **Website:** [groverbeachlibrary.org](https://www.groverbeachlibrary.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.123089" data-lon="-120.620032" data-zoom="16" data-label="Grover Beach Community Library">240 N 9th St., Grover Beach</a> <!-- Source: https://www.groverbeachlibrary.org/ -->
-- **Phone** [805-481-4131](tel:+1-805-481-4131) <!-- Source: https://www.groverbeachlibrary.org/ -->
-- **Email** [admin@groverbeachlibrary.org](mailto:admin@groverbeachlibrary.org) <!-- Source: https://www.groverbeachlibrary.org/ -->
-- **Hours:** M,T,Th,F 1pm-5pm, Sat 10am-2pm, Closed Wed & Sun 
+- **Phone:** [805-481-4131](tel:+1-805-481-4131) <!-- Source: https://www.groverbeachlibrary.org/ -->
+- **Email:** [admin@groverbeachlibrary.org](mailto:admin@groverbeachlibrary.org) <!-- Source: https://www.groverbeachlibrary.org/ -->
+- **Hours:** M/Tu/Th/F 1pm–5pm, Sa 10am–2pm, W/Su closed <!-- Source: https://www.groverbeachlibrary.org/ -->
 
 ## <a id="Gryphon-Society">Gryphon Society</a>
 
@@ -1657,6 +1660,9 @@
 | <a href="#" class="map-link" data-lat="35.621655" data-lon="-120.690685" data-zoom="17" data-label="Help Me Grow">704 Spring St., Paso Robles</a> | [805-440-1878](tel:+1-805-440-1878) |
 
 - **Hours:** M–F 8am–4:30pm <!-- Source: https://www.slohelpmegrow.org/contact -->
+- Notes:
+   - Both offices are also Family Resource Centers in SLO County’s “SAFE System of Care”; the Paso Robles office is the [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center) <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers) and [**San Luis Obispo Family Resource Center**](#SLO-Family-Resource-Center)
 
 ## <a id="HiCAP">HiCAP (Health Insurance Counseling & Advocacy Program)</a>
 
@@ -1937,8 +1943,10 @@
 - **How to access:** accepts self-referrals, school referrals, and community agency referrals
 - Notes:
    - Operated by [**Center for Family Strengthening (CFS)**](#CFS)
+   - The Paso Robles office is part of SLO County’s “SAFE System of Care”; see [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
    - See also [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center) (a separate program, also run in Paso Robles, this one operated by CAPSLO)
    - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
+   - See also [**San Luis Obispo Family Resource Center**](#SLO-Family-Resource-Center)
 
 ## <a id="Literacy-Connection">The Literacy Connection</a>
 
@@ -2626,7 +2634,9 @@ If you see one listed here that is no longer in service, please use the feedback
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
    - Services include free developmental screening for children aged 0–5 (Help Me Grow), help applying for Head Start/Early Head Start, and child care payment assistance and navigation <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
    - Not to be confused with [**The Link Family Resource Center**](#Link-Family-Resource-Center)’s separate Paso Robles office
+   - Part of SLO County’s “SAFE System of Care”; see [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
    - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
+   - See also [**San Luis Obispo Family Resource Center**](#SLO-Family-Resource-Center)
 
 ## <a id="Paso-Robles-Housing-Authority">Paso Robles Housing Authority</a>
 
@@ -2937,18 +2947,22 @@ If you see one listed here that is no longer in service, please use the feedback
 <!-- Source (location/phone): https://capslo.org/s-a-f-e-family-resource-centers/ -->
 | Location | Phone |
 | -------- | ----- |
-| <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">1425 19th St., Oceano</a> | [805-474-3900](tel:+1-805-474-3900) |
+| <a href="#" class="map-link" data-lat="35.103757" data-lon="-120.610374" data-zoom="17" data-label="SAFE Family Resource Center">1425 19th St., Oceano</a> | [805-474-3690](tel:+1-805-474-3690) |
 | <a href="#" class="map-link" data-lat="35.119759" data-lon="-120.595638" data-zoom="17" data-label="SAFE Family Resource Center">1086 Grand Ave., Arroyo Grande</a> | [805-474-2105](tel:+1-805-474-2105) |
 | <a href="#" class="map-link" data-lat="35.027607" data-lon="-120.497553" data-zoom="16" data-label="SAFE Family Resource Center">920 W. Tefft St., Nipomo</a> | [805-474-3000&#xA0;x5147](tel:+1-805-474-3000;ext=5147) |
 
 <!-- Oceano address updated 1 Aug. 2026 from 1511 19th St. (Oceano Library building) to 1425 19th St. (Oceano Community Center building) per current capslo.org text; Desiree Miller verified that this new address is correct with Mary McCallister of CAPSLO, 20 August 2026. -->
+<!-- Oceano phone corrected 15 Sept. 2026 from 805-474-3900 (a transposition error) to 805-474-3690, which is the number given both on https://capslo.org/s-a-f-e-family-resource-centers/ and on the county's SAFE System of Care page. -->
+<!-- The county's SAFE System of Care page still gives the old Oceano address (1511 19th St.) as of 15 Sept. 2026; capslo.org and CAPSLO staff say 1425 19th St. -->
 - **Email:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org) <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 - **How to access:** Walk-ins OK; appointments preferred. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 <!-- Hours not found on capslo.org or other reputable sources as of 1 Aug. 2026 -- call to confirm -->
 - Note:
    - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
+   - Part of SLO County’s “SAFE System of Care”; see [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
    - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
    - See also [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center)
+   - See also [**San Luis Obispo Family Resource Center**](#SLO-Family-Resource-Center)
 
 ## <a id="St-Barnabas-Thrift-Shop">St. Barnabas Thrift Shop</a>
 
@@ -3029,6 +3043,25 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Location:** <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Cotchett Education Bldg. 2, Room 125, Cal Poly SLO</a> <!-- Source: https://slocounselingservice.calpoly.edu/faq -->
 - **Phone:** [805-756-1532](tel:+1-805-756-1532) <!-- Source: https://slocounselingservice.calpoly.edu/about -->
 - **How to access:** No walk-ins; Call to make an appointment. <!-- Source: https://slocounselingservice.calpoly.edu/about -->
+
+## <a id="SLO-Family-Resource-Center">San Luis Obispo Family Resource Center</a>
+
+- **Website:** [capslo.org/slo-frc](https://capslo.org/slo-frc/)
+- **Location:** <a href="#" class="map-link" data-lat="35.281251" data-lon="-120.649489" data-zoom="17" data-label="San Luis Obispo Family Resource Center">1500 Lizzie St., SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+- **Phone:** [805-821-1624](tel:+1-805-821-1624) <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+   - Deanna Martinez, Family Resource Specialist: [805-821-1025](tel:+1-805-821-1025) (call or text) <!-- Source: https://capslo.org/slo-frc/ -->
+   - Esther Pascual De Jesus, Family Resource Specialist: [805-305-9508](tel:+1-805-305-9508) (call or text) <!-- Source: https://capslo.org/slo-frc/ -->
+- **Email:** [southcountysafe@capslo.org](mailto:southcountysafe@capslo.org) <!-- Source: https://capslo.org/slo-frc/ -->
+- **How to access:** You must have an appointment. Call or text to make one. <!-- Source: https://capslo.org/slo-frc/ -->
+<!-- Hours not published on capslo.org or on the county's SAFE System of Care page as of 15 Sept. 2026 -->
+- Notes:
+   - Operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
+   - Part of SLO County’s “SAFE System of Care”; see [**SLO County Behavioral Health**](#SLO-County-Behavioral-Health) <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+   - Both Family Resource Specialists speak more than one language <!-- Source: https://capslo.org/slo-frc/ -->
+   - Shares a campus with [**San Luis Coastal Adult School**](#San-Luis-Coastal-Adult-School), which is a separate agency
+   - See also [**Link Family Resource Center**](#Link-Family-Resource-Center)
+   - See also [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center)
+   - See also [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers)
 
 <!-- Not referenced anywhere else yet
 ## <a id="SLO-Veterans-Services-Collaborative">San Luis Obispo Veterans Services Collaborative</a>
@@ -3260,6 +3293,7 @@ If you see one listed here that is no longer in service, please use the feedback
    - Behavioral Health Access Line: [800-838-1381](tel:+1-800-838-1381) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
    - Local mental health crisis hotline: [800-783-0607](tel:+1-800-783-0607) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health -->
    - Patient’s rights advocate: [805-781-4738](tel:+1-805-781-4738)
+   - SAFE (Services Affirming Family Empowerment) team: [805-748-8837](tel:+1-805-748-8837) for northern SLO County, SLO city, and the coast; [805-474-2105](tel:+1-805-474-2105) for South County <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
 - **Hours:** M–F 8am–5pm (closed Noon–1pm for lunch) <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
 - Cost: “No clients are denied access to services due to inability to pay. Discounted fees and sliding fee schedules are available based on family size and income.” <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/contact-us -->
 - Notes:
@@ -3269,6 +3303,9 @@ If you see one listed here that is no longer in service, please use the feedback
    - Operates “SLO County Behavioral Health Justice Services”
    - Operates “SLO County Behavioral Health Prevention and Outreach Services” <i>(temporarily closed as of 8 January 2026)</i>
    - [**Genoa Pharmacy**](#Genoa-Pharmacy) is the on-site pharmacy for SLO County Behavioral Health
+   - Runs the “SAFE System of Care” (Services Affirming Family Empowerment) with schools, CAPSLO, and other agencies; it helps families with children find services. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+      - Call the SAFE team, or go to a Family Resource Center: [**The Link Family Resource Center**](#Link-Family-Resource-Center), [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center), [**San Luis Obispo Family Resource Center**](#SLO-Family-Resource-Center), or the [**SAFE Family Resource Centers**](#SAFE-Family-Resource-Centers) in South County <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+      - Email: [BehavioralHealth.SAFE@co.slo.ca.us](mailto:BehavioralHealth.SAFE@co.slo.ca.us) <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
    - Can refer you to the “Supported Employment” program
 
 ## <a id="SLO-County-Drug-and-Alcohol-Services">SLO County Behavioral Health Drug and Alcohol Services</a>

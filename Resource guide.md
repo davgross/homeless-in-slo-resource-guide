@@ -3449,22 +3449,34 @@ They can also refer you to other agencies for more help.
 Different agencies in SLO County use the name “Family Resource Center” for different programs.
 Each program has its own services and its own rules.
 
-Most Family Resource Centers in SLO County are part of the county’s “SAFE System of Care.” <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+Most Family Resource Centers in SLO County are part of the county’s “SAFE System of Care.” <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
 “SAFE” is short for “Services Affirming Family Empowerment.”
-SLO County created SAFE; it is a local program, not a state or national one. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
-Schools, SLO County Behavioral Health, CAPSLO, and other agencies work together in SAFE to help children stay safe, healthy, and in school. <!-- Source: https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+SLO County created SAFE; it is a local program, not a state or national one. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+Schools, SLO County Behavioral Health, CAPSLO, and other agencies work together in SAFE to help children stay safe, healthy, and in school. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+SAFE helps families at every stage, from pregnancy through the teen years. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
 
 You do not need a school or social worker to refer you.
-You can call or visit a SAFE Family Resource Center yourself and ask for help. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
+You can contact a SAFE Family Resource Center yourself and ask for help. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 A school, doctor, or social worker can also refer you.
 
-The two SAFE Family Resource Centers you can visit are:
+These Family Resource Centers are part of SAFE: <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
 
 - [**The Link Family Resource Center**](Directory.md#Link-Family-Resource-Center), with offices in Atascadero and Paso Robles, serving families throughout northern SLO County.
+- [**Paso Robles Family Resource Center**](Directory.md#North-County-Family-Resource-Center), run by CAPSLO, in Paso Robles.
+  It focuses on young children: free developmental screening, help applying for Head Start, and help paying for child care. <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+- [**San Luis Obispo Family Resource Center**](Directory.md#SLO-Family-Resource-Center), run by CAPSLO, on the San Luis Coastal Adult School campus in SLO.
+  You must make an appointment before you go. <!-- Source: https://capslo.org/slo-frc/ -->
 - [**SAFE Family Resource Centers**](Directory.md#SAFE-Family-Resource-Centers), run by CAPSLO, with offices in Oceano, Arroyo Grande, and Nipomo.
+  You can walk in, but it is better to make an appointment first. <!-- Source: https://capslo.org/s-a-f-e-family-resource-centers/ -->
 
-CAPSLO also runs a different program with a similar name, the [**Paso Robles Family Resource Center**](Directory.md#North-County-Family-Resource-Center), at its own separate office.
-It focuses on young children: free developmental screening, help applying for Head Start, and help paying for child care. <!-- Source: https://capslo.org/north-county-family-resource-center/ -->
+If you do not know which one to contact, you can call the county’s SAFE team instead. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+See [**SLO County Behavioral Health**](Directory.md#SLO-County-Behavioral-Health) for the phone numbers.
+
+Sometimes a family needs help from several agencies at once.
+In that case, SAFE can hold a “SAFE Intensive Meeting.”
+At this meeting, your family and the people who help your family meet together and make one plan. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
+These meetings are voluntary.
+A school staff member, case manager, or other worker who already helps your family usually asks for the meeting. <!-- Source: https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe) -->
 
 [**Parents Helping Parents of SLO County**](Directory.md#Parents-Helping-Parents) is a different kind of Family Resource Center.
 It is only for families who have a child with a disability or special needs. <!-- Source: https://www.phpslo.org/ -->
