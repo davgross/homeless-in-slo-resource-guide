@@ -1038,7 +1038,7 @@
 
 ## <a id="Community-Counseling-Center">Community Counseling Center</a>
 
-> *See also [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
+> *See also [**San Luis Obispo Counseling Service at Cal Poly**](#Cal-Poly-Community-Counseling-Service)*
 
 - **Website:** [cccslo.org/what-we-do.php](https://www.cccslo.org/what-we-do.php)
 - **Locations:**
@@ -1050,7 +1050,7 @@
 
 ## Community Counseling Service
 
-> *See [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
+> *See [**San Luis Obispo Counseling Service at Cal Poly**](#Cal-Poly-Community-Counseling-Service)*
 
 ## Community Foundation of SLO County
 
@@ -3040,7 +3040,7 @@ If you see one listed here that is no longer in service, please use the feedback
 > *See also [**Community Counseling Center**](#Community-Counseling-Center)*
 
 - **Website:** [slocounselingservice.calpoly.edu/about](https://slocounselingservice.calpoly.edu/about)
-- **Location:** <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Cotchett Education Bldg. 2, Room 125, Cal Poly SLO</a> <!-- Source: https://slocounselingservice.calpoly.edu/faq -->
+- **Location:** <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="San Luis Obispo Counseling Service at Cal Poly">Cotchett Education Bldg. 2, Room 125, Cal Poly SLO</a> <!-- Source: https://slocounselingservice.calpoly.edu/faq -->
 - **Phone:** [805-756-1532](tel:+1-805-756-1532) <!-- Source: https://slocounselingservice.calpoly.edu/about -->
 - **How to access:** No walk-ins; Call to make an appointment. <!-- Source: https://slocounselingservice.calpoly.edu/about -->
 
@@ -3245,7 +3245,7 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## SLO Counseling Service
 
-> *See [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
+> *See [**San Luis Obispo Counseling Service at Cal Poly**](#Cal-Poly-Community-Counseling-Service)*
 
 ## <a id="SLO-County-Animal-Services">SLO County Animal Services</a>
 
