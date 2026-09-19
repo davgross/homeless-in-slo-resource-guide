@@ -1118,7 +1118,7 @@
 
 ## <a id="Community-Counseling-Center">El Centro de Consejería Comunitaria</a>
 
-> *Vea también [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
+> *Vea también [**San Luis Obispo Counseling Service at Cal Poly**](#Cal-Poly-Community-Counseling-Service)*
 
 - **Sitio web:** [cccslo.org/what-we-do.php](https://www.cccslo.org/what-we-do.php)
 - **Ubicaciones:**
@@ -1300,7 +1300,7 @@
 
 ## Community Counseling Service
 
-> *Vea [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
+> *Vea [**San Luis Obispo Counseling Service at Cal Poly**](#Cal-Poly-Community-Counseling-Service)*
 
 ## Community Foundation of SLO County
 
@@ -3106,7 +3106,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 > *Vea también [**El Centro de Consejería Comunitaria**](#Community-Counseling-Center)*
 
 - **Sitio web:** [slocounselingservice.calpoly.edu/about](https://slocounselingservice.calpoly.edu/about)
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="Cal Poly Community Counseling Service">Cotchett Education Bldg. 2, sala 125, Cal Poly SLO</a> <!-- Source: https://slocounselingservice.calpoly.edu/faq -->
+- **Ubicación:** <a href="#" class="map-link" data-lat="35.300215" data-lon="-120.664443" data-zoom="17" data-label="San Luis Obispo Counseling Service at Cal Poly">Cotchett Education Bldg. 2, sala 125, Cal Poly SLO</a> <!-- Source: https://slocounselingservice.calpoly.edu/faq -->
 - **Teléfono:** [805-756-1532](tel:+1-805-756-1532) <!-- Source: https://slocounselingservice.calpoly.edu/about -->
 - **Cómo obtener el servicio:** No se aceptan visitas sin cita; llame para hacer una cita. <!-- Source: https://slocounselingservice.calpoly.edu/about -->
 
@@ -3351,7 +3351,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 
 ## SLO Counseling Service
 
-> *Vea [**Cal Poly Community Counseling Service**](#Cal-Poly-Community-Counseling-Service)*
+> *Vea [**San Luis Obispo Counseling Service at Cal Poly**](#Cal-Poly-Community-Counseling-Service)*
 
 ## <a id="SLO-County-Animal-Services">SLO County Animal Services</a>
 

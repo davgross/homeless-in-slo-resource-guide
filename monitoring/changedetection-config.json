@@ -80,9 +80,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "va-banner",
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[headline=\"Upcoming site maintenance\"]"
+      ],
       "url": "https://www.va.gov/san-luis-obispo-vet-center/"
     },
     "01b24e89-02e2-469d-9246-9f218d6651bb": {
@@ -104,6 +111,13 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        ".quick-button",
+        "footer",
+        "#js-translate-dialog",
+        "#js-translate-toolbar-dialog"
+      ],
       "url": "https://victims.ca.gov/"
     },
     "02185469-949f-49e3-9207-fcec2ecf8922": {
@@ -191,9 +205,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav"
+      ],
       "url": "https://www.dor.ca.gov/Home/GettingStarted"
     },
     "03b14c4b-75de-46cb-a9cf-8729d30d440f": {
@@ -328,6 +348,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#page"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -346,9 +369,22 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[class~=\"8945-golf-links-road-oakland\"]",
+        "[class~=\"3200-clayton-road-concord\"]",
+        "[class~=\"30-professional-center-parkway-san-rafael\"]",
+        "[class~=\"124-river-road-salinas\"]",
+        "[class~=\"497-walnut-street-napa\"]",
+        "[class~=\"1801-parkcourt-place-santa-ana\"]",
+        "[class~=\"2513-24th-street-san-francisco\"]",
+        "[class~=\"160-wikiup-drive-santa-rosa\"]"
+      ],
       "url": "https://senecafoa.org/services/enhanced-care-management/"
     },
     "05e36f0a-a8f7-4602-a4d0-15a59792ffde": {
@@ -660,6 +696,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -1132,9 +1171,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".entry-content",
+        "#aboutmewidget-3"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".et_pb_section_0"
+      ],
       "url": "https://slocountyparks.com/"
     },
     "0f9d1618-1180-43da-8b42-1702b2532b0c": {
@@ -1396,7 +1442,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.caljobs.ca.gov/vosnet/LoginIntro2.aspx"
+      "url": "https://www.caljobs.ca.gov/vosnet/dashboards/default.aspx?menuid=MENU_START_PAGE_DASHBOARD"
     },
     "13451643-2bbe-4c7d-8b28-78eb11e29d19": {
       "filter_text_added": true,
@@ -1651,15 +1697,6 @@
       "processor": "text_json_diff",
       "url": "https://debtorsanonymous.org/en-espanol/#title-8"
     },
-    "17b6da26-c766-4934-9ff9-6a542cfdeb78": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.pge.com/es/account/billing-and-assistance/financial-assistance/family-electric-rate-assistance-program-fera.html"
-    },
     "17cb121a-0885-448b-a659-c1c34ee4a8c7": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -1714,6 +1751,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -1784,7 +1824,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".field-item"
+        "#block-system-main"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -1898,9 +1938,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "va-banner",
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[headline=\"Upcoming site maintenance\"]",
+        "nav"
+      ],
       "url": "https://va.gov/health-care/about-va-health-benefits/"
     },
     "1ae9473f-c195-41b2-9ceb-c26cbc7c2291": {
@@ -2636,20 +2684,6 @@
       "processor": "text_json_diff",
       "url": "https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-(aps)"
     },
-    "230f9bdc-ef2f-4f5a-b809-e6a121665cdd": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        ".slo-notification",
-        ".dept-main-content",
-        ".dept-panel-custom-content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.slocounty.ca.gov/departments/social-services/adult-services/services/adult-protective-services-program-%28aps%29"
-    },
     "237b41c0-fe71-4291-b8ac-802c3741c7e6": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -2742,6 +2776,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3310,6 +3347,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".known-easy-fair-hp",
+        ".df-smaller"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -3340,9 +3381,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "va-banner",
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[headline=\"Upcoming site maintenance\"]",
+        "nav"
+      ],
       "url": "https://www.va.gov/greater-los-angeles-health-care/programs/transportation-services-and-schedules/"
     },
     "2b7381d3-e526-4b13-bdda-aa8a5b9e0bcb": {
@@ -3735,6 +3784,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".dept-main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4133,6 +4185,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "article"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4172,6 +4227,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "/Copyright\\ \u00a9\\ \\d+\\ by\\ NeedyMeds,\\ Inc\\./"
+      ],
       "include_filters": [
         "div.MuiContainer-maxWidthLg"
       ],
@@ -4196,9 +4254,17 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "[data-widget-type=\"situation-updates-banner\"]",
+        "va-banner",
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[headline=\"Upcoming site maintenance\"]"
+      ],
       "url": "https://www.va.gov/greater-los-angeles-health-care/locations/san-luis-obispo-va-clinic/"
     },
     "3a79a82b-8f83-410e-a220-9a46950f1cb0": {
@@ -4349,6 +4415,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#pubweb-page-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -4383,18 +4452,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.pasocares.org/services"
-    },
-    "3d71288f-880a-4a34-ab32-108c8e554880": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "article"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2776751/"
     },
     "3dde73ca-be4c-4c81-9485-66f5add7c8d3": {
       "filter_text_added": true,
@@ -4498,9 +4555,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "va-banner",
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[headline=\"Upcoming site maintenance\"]"
+      ],
       "url": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/"
     },
     "4006b671-5f5d-4e9c-af3a-86cfc9dc8497": {
@@ -5020,6 +5084,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -5107,19 +5174,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://fcni.org/what-we-do/"
-    },
-    "471081d6-ae95-489b-b130-f27209d1a7d5": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        ".usa-card-group",
-        ".featured-section"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.ssa.gov/"
     },
     "47236999-f8e0-4c7d-b2ed-876a1233a974": {
       "filter_text_added": true,
@@ -5231,15 +5285,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://www.slocity.org/home/showpublisheddocument/37652/638875686889030000"
-    },
-    "497e73c3-c0b1-470f-8df4-17df80c1d781": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://secure.ssa.gov/ossnap/public/landingOSsnap"
     },
     "499c1f99-72ad-47af-a629-7bde79ac590b": {
       "filter_text_added": true,
@@ -5424,6 +5469,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "footer"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -5786,6 +5834,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -6005,6 +6056,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "/Last\\ update\\ \\d+\\.\\d+\\.\\d+/"
+      ],
       "include_filters": [
         "#page"
       ],
@@ -6371,9 +6425,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#ajax-content-wrap"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "nav",
+        "#slide-out-widget-area"
+      ],
       "url": "https://calyouth.org/cycl/"
     },
     "563d015c-5730-4957-ad18-53f4102fd8de": {
@@ -6441,9 +6502,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".info-grid"
+      ],
       "url": "https://www.dor.ca.gov/"
     },
     "575b3408-fd54-4467-be91-d6b6a0e0d813": {
@@ -6569,9 +6636,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".latest-news-body-container"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".security"
+      ],
       "url": "https://www.disabilityrightsca.org/es/get-help"
     },
     "5a25fb93-3ea4-4481-b61b-5ebde87fac09": {
@@ -6612,6 +6685,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -7082,6 +7158,11 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        ".eael-contact-form",
+        ".elementor-widget-social-icons"
+      ],
       "url": "https://www.ccgoodwill.org/locations/grover-beach-goodwill-thrift-store/"
     },
     "617153c5-3a9c-4c76-a82c-b8a19fb59418": {
@@ -7447,6 +7528,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".dept-main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -8023,6 +8107,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".dept-main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -8359,6 +8446,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".dept-main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -8479,25 +8569,13 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://capslo.org/es/north-county-family-resource-center/"
-    },
-    "73753a78-242c-496d-8110-10c430e9a4db": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        "#bodyContent"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "subtractive_selectors": [
-        ".mw-editsection"
-      ],
-      "url": "https://en.wikipedia.org/wiki/Refund_anticipation_loan"
     },
     "7378bb90-840b-441e-a661-138b5f499b05": {
       "filter_text_added": true,
@@ -9041,6 +9119,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".body-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -9196,15 +9277,6 @@
       "processor": "text_json_diff",
       "url": "https://www.cuesta.edu/student-support/basic-needs-center/food-resources/index.html"
     },
-    "7bdb6460-50f8-4f67-a179-7da8fae92622": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.assistanceleague.org/san-luis-obispo-county/wp-content/uploads/sites/102/2024/02/ACE-FULL-ANNOUNCEMENT-v2.pdf"
-    },
     "7bddac0d-b68e-4e00-9f41-4f4b2cd6cbed": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -9251,6 +9323,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#root-main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -9374,15 +9449,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://basicneeds.calpoly.edu/foodpantry"
-    },
-    "7dfc28e7-1ad5-4853-9027-4192a9f58a90": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.littlefreepantry.org/"
     },
     "7e144bf0-e778-4ac5-a03b-2337030d292b": {
       "filter_text_added": true,
@@ -9879,15 +9945,6 @@
       "processor": "text_json_diff",
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php/component/cpx/?task=search.query&view=&page=5&search_history_id=262842494&unit_list=0&akaSort=0&query=%20&simple_query=&code=TJ-3000&limit=&name="
     },
-    "8423f08b-1bd1-46e2-8d6e-7ad3542449ff": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.ssa.gov/myaccount"
-    },
     "84a9258a-ab45-44bb-a528-264e26f48daa": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -9942,6 +9999,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -10081,12 +10141,27 @@
       "url": "https://www.golden1.com/discoverg1/call-us"
     },
     "870ef560-260f-4e51-b450-ecc0fe929dd5": {
+      "browser_steps": [
+        {
+          "operation": "<select> by option text",
+          "optional_value": "San Luis Obispo",
+          "selector": "#county-select"
+        }
+      ],
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".seneca-regions",
+        "[data-modal-open=\"kt-target-477\"]",
+        "[data-modal-open=\"kt-target-476\"]"
+      ],
       "url": "https://senecafoa.org/regions/central-coast/"
     },
     "872a246f-c7cd-4c11-aca4-b9149e9c0338": {
@@ -10625,6 +10700,11 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        ".eael-contact-form",
+        ".elementor-widget-social-icons"
+      ],
       "url": "https://www.ccgoodwill.org/locations/goodwill-san-luis-obispo-higuera/"
     },
     "900804a7-08e0-44d1-9ba3-e964393d592d": {
@@ -11125,9 +11205,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "va-banner",
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[headline=\"Upcoming site maintenance\"]"
+      ],
       "url": "https://www.va.gov/health-care/health-needs-conditions/substance-use-problems/"
     },
     "96bd10e0-f826-449d-aade-6987e18946fb": {
@@ -11160,6 +11247,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -11608,6 +11698,11 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        ".eael-contact-form",
+        ".elementor-widget-social-icons"
+      ],
       "url": "https://www.ccgoodwill.org/locations/san-luis-obispo-industrial-way-goodwill-thrift-store/"
     },
     "9e9a391c-32ba-436b-adf0-f37861d9eabf": {
@@ -11781,10 +11876,13 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#description"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/full-hsoc/meetings/2025/11-19-2025-full-hsoc-meeting"
+      "url": "https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/full-hsoc"
     },
     "a0bfc8ab-91f8-4ee4-abfb-8fe7999d20ff": {
       "filter_text_added": true,
@@ -11943,6 +12041,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "/\\d+\\ Resources/"
+      ],
       "include_filters": [
         "#mainContentContainer"
       ],
@@ -12529,6 +12630,11 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        ".eael-contact-form",
+        ".elementor-widget-social-icons"
+      ],
       "url": "https://www.ccgoodwill.org/locations/atascadero-goodwill-thrift-store/"
     },
     "abfa42c3-0096-4b32-89b3-82b02e43c097": {
@@ -13536,12 +13642,20 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        ".eael-contact-form",
+        ".elementor-widget-social-icons"
+      ],
       "url": "https://www.ccgoodwill.org/locations/paso-robles-goodwill-thrift-store/"
     },
     "b75bafaf-deb7-4745-945f-b6b97c02268d": {
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -13760,6 +13874,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -14214,13 +14331,15 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "#site-root"
+        "[data-mesh-id=\"SITE_FOOTERinlineContent-gridContainer\"]"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
       "subtractive_selectors": [
-        "header"
+        "h6",
+        "button",
+        "ul"
       ],
       "url": "https://www.echoshelter.org/"
     },
@@ -14393,6 +14512,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "article"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -14541,6 +14663,11 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "4.8/5 rating",
+        "4.9/5 rating",
+        "4.9/5 rating"
+      ],
       "include_filters": [
         "main"
       ],
@@ -14549,6 +14676,7 @@
       "processor": "text_json_diff",
       "subtractive_selectors": [
         "header",
+        ".hidden",
         ".mt-space-16",
         ".mt-8",
         ".px-7",
@@ -15140,6 +15268,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".dept-main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -15552,6 +15683,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -15662,6 +15796,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -15974,7 +16111,10 @@
         ".pum-overlay",
         ".cky-consent-container",
         ".cky-modal",
-        ".grecaptcha-badge"
+        ".grecaptcha-badge",
+        "header",
+        ".btFooterWrap",
+        "#glt-footer"
       ],
       "url": "https://www.communityhealthcenters.org/about/contact-us/"
     },
@@ -16000,6 +16140,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".dept-main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -16403,20 +16546,6 @@
       "processor": "text_json_diff",
       "url": "https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/access-and-crisis-services/sobering-center"
     },
-    "dda855af-1b20-40a9-8a7a-7bad834657e6": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "include_filters": [
-        ".slo-notification",
-        ".dept-main-content",
-        ".dept-panel-custom-content"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.slocounty.ca.gov/departments/social-services/homeless-services-division,-draft/what-we-are-doing/projects/welcome-home-village"
-    },
     "de06b2e0-345c-4e3b-87e5-758d3c42c34c": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -16642,6 +16771,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -16672,10 +16804,13 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#page"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.ppsslo.org/blank"
+      "url": "https://www.ppsslo.org/"
     },
     "e13533bb-4331-45b9-932d-4b594fe2f112": {
       "filter_text_added": true,
@@ -16693,6 +16828,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Starting soon",
+        "In progress",
+        "Enroll Now",
+        "View fee details",
+        "/\\d+\\ space\\(s\\)\\ left/",
+        "Full",
+        "Enroll Now"
+      ],
       "include_filters": [
         "#main-content-body"
       ],
@@ -17179,9 +17323,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        ".right-col"
+      ],
       "url": "https://alertslo.org"
     },
     "e8665908-a718-4d98-a36a-018c6c193444": {
@@ -17830,15 +17980,6 @@
       "processor": "text_json_diff",
       "url": "https://www.slolaf.org/programs"
     },
-    "f2e474ae-6eda-47d8-8133-3aaf086594c0": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.pge.com/es/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html"
-    },
     "f3071a25-0b21-4f29-bd8a-0390de8cf508": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -17860,7 +18001,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "div.section-control:nth-child(5)"
+        ".location-info-text"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -17880,9 +18021,16 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "va-banner",
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[headline=\"Upcoming site maintenance\"]"
+      ],
       "url": "https://www.va.gov/find-forms/about-form-28-1900/"
     },
     "f354f47e-73e1-4f04-bb14-c014a8b4688e": {
@@ -18500,6 +18648,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".syndicate"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -18720,7 +18871,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "#HomePage"
+        ".club-home-content"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -18755,10 +18906,13 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".dept-main-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://www.slocounty.ca.gov/departments/health-agency/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe)"
+      "url": "https://www.slocounty.ca.gov/departments/slo-health/behavioral-health/all-behavioral-health-services/mental-health-youth-services/services-affirming-family-empowerment-(safe)"
     },
     "ff533d86-8978-4e96-9b05-5c45f75d8024": {
       "filter_text_added": true,
@@ -18778,7 +18932,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        "#ui-id-4"
+        ".club-home-content"
       ],
       "method": "GET",
       "notification_format": "System default",
