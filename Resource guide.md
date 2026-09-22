@@ -3578,8 +3578,10 @@ Register for toys for your children [at this web page](https://atascadero-ca.toy
 You must select and collect the toys in person (but without your children) at their distribution site. <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx -->
 For more information, contact [805-391-4430](tel:+1-805-391-4430) or [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org). <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
 
+<!--
 Toys for Tots also operates in [Cambria/San Simeon](https://cambria-ca.toysfortots.org/).
-For more information, contact [805-927-1876](tel:+1-805-927-1876) or [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). <!-- Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
+For more information, contact [805-927-1876](tel:+1-805-927-1876) or [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). { Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx }
+-->
 
 Some people who are imprisoned at the SLO County Jail’s “Honor Farm” refurbish children’s bicycles so they can be given away as gifts during the holiday season. <!-- Source: https://www.edhat.com/news/slo-sheriffs-office-begins-annual-christmas-bicycle-donations/ -->
 To apply for a free bicycle for your child, complete the “Christmas Bike Application” form at [slosheriff.org: “Forms and Applications”](https://www.slosheriff.org/community-resources/forms-and-applications/) and return it by mail or email.

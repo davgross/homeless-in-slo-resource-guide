@@ -3579,8 +3579,10 @@ Regístrese para juguetes para sus hijos [en esta página web](https://atascader
 Debe seleccionar y recoger los juguetes en persona (pero sin sus hijos) en su sitio de distribución. <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-toy-request-single-form.aspx -->
 Para más información, contacte al [805-391-4430](tel:+1-805-391-4430) o [atascadero.ca@toysfortots.org](mailto:atascadero.ca@toysfortots.org). <!-- Source: https://atascadero-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
 
+<!--
 Toys for Tots también opera en [Cambria/San Simeon](https://cambria-ca.toysfortots.org/).
-Para más información, contacte al [805-927-1876](tel:+1-805-927-1876) o [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). <!-- Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx -->
+Para más información, contacte al [805-927-1876](tel:+1-805-927-1876) o [cambria.ca@toysfortots.org](mailto:cambria.ca@toysfortots.org). { Source: https://cambria-ca.toysfortots.org/local-coordinator-sites/lco-sites/local-contact-us.aspx }
+-->
 
 Algunas personas que están encarceladas en la “Honor Farm” de la Cárcel del Condado de SLO restauran bicicletas para niños para que puedan ser regaladas durante la temporada de fiestas. <!-- Source: https://www.edhat.com/news/slo-sheriffs-office-begins-annual-christmas-bicycle-donations/ -->
 Para solicitar una bicicleta gratis para su hijo, complete el formulario “Solicitud de bicicleta navideña” en [slosheriff.org: “Formularios y solicitudes”](https://www.slosheriff.org/community-resources/forms-and-applications/) y envíelo por correo postal o correo electrónico.
