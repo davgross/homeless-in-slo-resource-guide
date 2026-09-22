@@ -2466,7 +2466,7 @@
    - immediate crisis support: NAMI national helpline [800-950-6264](tel:+1-800-950-6264) (L–V 7am–3pm PT), o call/text 988
    - NAMI SLO County: [805-434-7220](tel:+1-805-434-7220) { Source: https://www.namislo.org/ }
 - **Correo electrónico:** [info@namislo.org](mailto:info@namislo.org) { Source: https://www.namislo.org/ }
-   - support groups: [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) { Source: https://www.namislo.org/nami-support-groups }
+   - support groups: [Dawn@namislo.org](mailto:Dawn@namislo.org) { Source: https://www.namislo.org/nami-support-groups }
 -->
 
 ## <a id="Narcotics-Anonymous">Narcotics Anonymous</a>

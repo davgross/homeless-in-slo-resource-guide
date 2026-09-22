@@ -3690,7 +3690,7 @@ También hay grupos de apoyo para personas recientemente diagnosticadas, y para 
 Para registrarse para un grupo, llame al [800-272-3900](tel:+1-800-272-3900).
 
 **Enfermedad mental:** El capítulo del Condado de SLO de National Alliance on Mental Illness (Alianza Nacional sobre Enfermedades Mentales) lleva a cabo [grupos de apoyo](https://www.namislo.org/nami-support-groups) para familiares de personas con desafíos de salud mental, en línea, en Arroyo Grande y en Atascadero, cada mes.
-Contacte a [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) para detalles.
+Contacte a [Dawn@namislo.org](mailto:Dawn@namislo.org) para detalles.
 
 [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) tiene [grupos de apoyo](https://www.t-mha.org/family-support-groups.php) semanales en persona y en Zoom para personas con seres queridos que experimentan enfermedad mental, en inglés y en español.
 También tienen una variedad de [grupos de apoyo en persona](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) y reuniones más informales para personas con enfermedad mental, en Arroyo Grande, Atascadero and SLO, así como varios grupos de apoyo virtuales/en línea.

@@ -3689,7 +3689,7 @@ To join, contact organizer Julie Scurich at [jscurich@alsnetwork.org](mailto:jsc
 They include groups for caregivers of people with dementia, for LGBTQ caregivers, for caregivers of Parkinson’s disease patients, and groups that are conducted in Spanish.
 
 **Mental illness:** The SLO County chapter of National Alliance on Mental Illness holds [support groups](https://www.namislo.org/nami-support-groups) for family members of people with mental health challenges, online, in Arroyo Grande, and in Atascadero, every month.
-Contact [sgroups.nami.sloco@gmail.com](mailto:sgroups.nami.sloco@gmail.com) for details.
+Contact [Dawn@namislo.org](mailto:Dawn@namislo.org) for details.
 
 [**Transitions Mental Health Association (TMHA)**](Directory.md#TMHA) has weekly [support groups](https://www.t-mha.org/family-support-groups.php) in person and on Zoom for people with loved ones who experience mental illness, in English and in Spanish.
 They also have a variety of [in-person support groups](https://storage.googleapis.com/t-mha-org/uploads/WC%20In%20Person%20Group%20Flyer%20All2.pdf) and more informal gatherings for people with mental illness, in Arroyo Grande, Atascadero, and SLO, as well as several virtual/online support groups.
