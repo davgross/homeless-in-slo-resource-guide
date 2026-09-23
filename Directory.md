@@ -3361,7 +3361,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:**
    - [805-781-5080](tel:+1-805-781-5080) <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
    - [805-461-6041](tel:+1-805-461-6041) (North County office) <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
-- **Hours:** SLO office only: M/Tu/Th/F 8am–5pm, W 8am–4pm (transactions end 30 minutes before closing) <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
+- **Hours:** SLO office only: M–F 8am–4pm (transactions end 30 minutes before closing) <!-- Source: https://www.slocounty.ca.gov/departments/clerk-recorder/contact-us -->
 
 ## <a id="SLO-County-Department-of-Social-Services">SLO County Department of Social Services</a>
 
