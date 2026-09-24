@@ -3905,8 +3905,6 @@ Típicamente ocurren 3–4 veces por trimestre académico en varias ubicaciones 
 
 [**Care for Senior and Disabled Animals**](Directory.md#CSADA) puede ayudar a pagar tarifas de adopción, atención y asistencia médica, alimentos recetados especiales, prótesis, procedimientos especiales, resonancias magnéticas y análisis de laboratorio.
 
-El [**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) ayuda a personas mayores, personas con discapacidades, enfermedades terminales e individuos con ingresos fijos a pagar tratamientos médicos para sus mascotas.
-
 [The Pet Fund](https://www.thepetfund.com/) es una organización nacional que proporciona asistencia financiera a dueños de mascotas que necesitan atención veterinaria no de emergencia pero carecen de fondos suficientes. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
 Envíe una [solicitud](https://www.thepetfund.com/for-pet-owners/the-pet-fund-application) en su sitio web.
 Debe documentar su necesidad financiera y proporcionar estimaciones de atención veterinaria. <!-- Source: https://www.thepetfund.com/for-pet-owners -->

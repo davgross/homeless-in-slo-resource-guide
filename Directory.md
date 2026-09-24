@@ -1645,10 +1645,6 @@
 - **Website:** [helphopelive.org](https://helphopelive.org/)
 - **Phone:** [800-642-8399](tel:+1-800-642-8399) (M–F 9am–6pm Eastern Time) <!-- Source: https://helphopelive.org/contact/ -->
 
-## Helping Friends Program
-
-> *See [**Voice for the Animals Helping Friends Program**](#Helping-Friends-Program)*
-
 ## <a id="Help-Me-Grow">Help Me Grow SLO County</a>
 
 - **Website:** [slohelpmegrow.org](https://www.slohelpmegrow.org/)
@@ -4065,11 +4061,13 @@ There are several urgent care options, including:
 - **Email:** [vituitycares@gmail.com](mailto:vituitycares@gmail.com) <!-- Source: https://vituitycares.org/contact-us/ -->
 - **Hours:** Second Sunday of the month, 10am–1pm
 
+<!-- Defunct as of September 2026
 ## <a id="Helping-Friends-Program">Voice for the Animals Helping Friends Program</a>
 
 - **Website:** [www.vftafoundation.org/helping_friends](https://www.vftafoundation.org/helping_friends)
-- **Phone:** [310-392-5153](tel:+1-310-392-5153) <!-- Souce: https://www.vftafoundation.org/helping_friends -->
-- **Email:** [info@vftafoundation.org](mailto:info@vftafoundation.org) <!-- Souce: https://www.vftafoundation.org/helping_friends -->
+- **Phone:** [310-392-5153](tel:+1-310-392-5153) {! Source: https://www.vftafoundation.org/helping_friends }
+- **Email:** [info@vftafoundation.org](mailto:info@vftafoundation.org) {! Source: https://www.vftafoundation.org/helping_friends }
+-->
 
 ## <a id="Waterman-Village">Waterman Village</a>
 
