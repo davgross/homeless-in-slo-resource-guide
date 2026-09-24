@@ -3904,8 +3904,6 @@ They typically happen 3–4 times per academic quarter at various locations arou
 
 [**Kritter Care**](Directory.md#Kritter-Care), based in Morro Bay, can give dog & cat food, pet supplies, and assistance with vet bills to pet owners who have only limited funds. <!-- TBD: Need info on how to apply to this program (issue #82) -->
 
-[**Voice for the Animals Helping Friends Program**](Directory.md#Helping-Friends-Program) helps seniors, people with disabilities, terminal illnesses, and individuals on fixed incomes to pay for medical treatments for their pets.
-
 [The Pet Fund](https://www.thepetfund.com/) is a national organization that provides financial assistance to pet owners who need non-emergency veterinary care but lack sufficient funds. <!-- Source: https://www.thepetfund.com/for-pet-owners -->
 Submit an [application](https://www.thepetfund.com/for-pet-owners/the-pet-fund-application) at their website.
 You must document your financial need and provide veterinary care estimates. <!-- Source: https://www.thepetfund.com/for-pet-owners -->

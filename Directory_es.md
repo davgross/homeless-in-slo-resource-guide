@@ -1946,10 +1946,6 @@
 - **Sitio web:** [helphopelive.org](https://helphopelive.org/)
 - **Teléfono:** [800-642-8399](tel:+1-800-642-8399) (L–V 9am–6pm Eastern Time) <!-- Source: https://helphopelive.org/contact/ -->
 
-## Helping Friends Program
-
-> *Vea [**Voice for the Animals Helping Friends Program**](#Helping-Friends-Program)*
-
 ## <a id="HiCAP">HiCAP (programa de asesoría y apoyo en seguros de salud)</a>
 
 - **Sitio web:** [centralcoastseniors.org/hicap](https://centralcoastseniors.org/hicap/)
@@ -4057,11 +4053,13 @@ Hay varias opciones de atención de urgencias, incluyendo:
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.282937" data-lon="-120.661267" data-zoom="17" data-label="Victim Witness Assistance Program">1050 Monterey St. (Courthouse Annex Room 384), SLO</a> <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
 - **Teléfono:** [805-781-5821](tel:+1-805-781-5821) (gratuito: [866-781-5821](tel:+1-866-781-5821)) <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
 
+<!-- Defunct as of September 2026
 ## <a id="Helping-Friends-Program">Voice for the Animals Helping Friends Program</a>
 
 - **Sitio web:** [www.vftafoundation.org/helping_friends](https://www.vftafoundation.org/helping_friends)
-- **Teléfono:** [310-392-5153](tel:+1-310-392-5153) <!-- Souce: https://www.vftafoundation.org/helping_friends -->
-- **Correo electrónico:** [info@vftafoundation.org](mailto:info@vftafoundation.org) <!-- Souce: https://www.vftafoundation.org/helping_friends -->
+- **Teléfono:** [310-392-5153](tel:+1-310-392-5153) {! Souce: https://www.vftafoundation.org/helping_friends }
+- **Correo electrónico:** [info@vftafoundation.org](mailto:info@vftafoundation.org) {! Souce: https://www.vftafoundation.org/helping_friends }
+-->
 
 ## <a id="Waterman-Village">Waterman Village</a>
 
