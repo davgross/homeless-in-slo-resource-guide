@@ -670,8 +670,8 @@ Here are some residential treatment options in SLO County:
 
 If you need to securely store a small amount of property for a few hours or overnight, you have a few options:
 
-The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available <!-- Source: https://friendsof40prado.org/about/ --> for people who complete intake for day services there. <!-- SOURCE NEEDED (issue #51) -->
-You must provide your own padlock. <!-- SOURCE NEEDED (issue #51) -->
+The [**40 Prado Homeless Services Center**](Directory.md#40-Prado) has storage lockers available <!-- Source: https://friendsof40prado.org/about/ --> for people who complete intake for day services there. <!-- SOURCE NEEDED (issue #40) -->
+You must provide your own padlock. <!-- SOURCE NEEDED (issue #40) -->
 
 The commercial service [Bounce](https://bounce.com/) partners with multiple locations (in SLO County, these are typically UPS Stores) to offer short-term luggage storage that typically runs about $7 per day or $20–80 per month (depending on weight and size).
 You can find the specific locations, terms and conditions, and costs at their website. <!-- SOURCE NEEDED -->

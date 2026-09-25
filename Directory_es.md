@@ -2306,6 +2306,7 @@
 - **Teléfono:**
    - [805-545-8888](tel:+1-805-545-8888) (línea de crisis gratuita y confidencial las 24 horas) <!-- Source: https://luminaalliance.org/ -->
    - [805-781-6400](tel:+1-805-781-6400) (línea de negocios) <!-- Source: https://luminaalliance.org/contact -->
+   - [Otras opciones de contacto accesibles](https://luminaalliance.org/contact#accessible-contact) como TTY (teletipo), VCO (transferencia de voz), HCO (transferencia de audición) y STS (voz a voz)
 - **Correo electrónico:** [Contact@LuminaAlliance.org](mailto:Contact@LuminaAlliance.org) <!-- Source: https://luminaalliance.org/contact -->
 - Nota: RISE se fusionó con Stand Strong en 2021 para formar Lumina Alliance
 
