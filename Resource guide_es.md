@@ -671,8 +671,8 @@ Aquí hay algunas opciones de tratamiento residencial en el condado de SLO:
 
 Si necesita guardar de forma segura una pequeña cantidad de pertenencias por unas horas o durante la noche, tiene algunas opciones:
 
-El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene casilleros de almacenamiento disponibles <!-- Source: https://friendsof40prado.org/about/ --> para personas que completan la admisión para servicios diurnos allí. <!-- SOURCE NEEDED (issue #51) -->
-Debe proporcionar su propio candado. <!-- SOURCE NEEDED (issue #51) -->
+El [**40 Prado Homeless Services Center**](Directory.md#40-Prado) tiene casilleros de almacenamiento disponibles <!-- Source: https://friendsof40prado.org/about/ --> para personas que completan la admisión para servicios diurnos allí. <!-- SOURCE NEEDED (issue #40) -->
+Debe proporcionar su propio candado. <!-- SOURCE NEEDED (issue #40) -->
 
 El servicio comercial [Bounce](https://bounce.com/) se asocia con múltiples ubicaciones (en el condado de SLO, generalmente son tiendas UPS) para ofrecer almacenamiento de equipaje a corto plazo que generalmente cuesta alrededor de $7 por día o $20–80 por mes (dependiendo del peso y tamaño).
 Puede encontrar las ubicaciones específicas, términos y condiciones, y costos en su sitio web. <!-- SOURCE NEEDED -->

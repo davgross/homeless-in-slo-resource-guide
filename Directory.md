@@ -2283,6 +2283,7 @@ If you see one listed here that is no longer in service, please use the feedback
 - **Phone:**
    - [805-545-8888](tel:+1-805-545-8888) (24-hour free & confidential crisis line) <!-- Source: https://luminaalliance.org/ -->
    - [805-781-6400](tel:+1-805-781-6400) (Business line) <!-- Source: https://luminaalliance.org/contact -->
+   - [Other accessible contact options](https://luminaalliance.org/contact#accessible-contact) such as TTY / VCO / HCO / STS
 - **Email:** [Contact@LuminaAlliance.org](mailto:Contact@LuminaAlliance.org) <!-- Source: https://luminaalliance.org/contact -->
 - Note: RISE merged with Stand Strong in 2021 to form Lumina Alliance
 
