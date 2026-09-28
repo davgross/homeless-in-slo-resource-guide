@@ -4005,8 +4005,7 @@ Estas políticas incluyen [*The San Luis Obispo Countywide Plan to Address Homel
 Puede contactarlos en [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
 
 La División de Servicios para Personas sin Hogar es asesorada y supervisada por el [Homeless Services Oversight Council (HSOC)](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) (Consejo de Supervisión de Servicios para Personas sin Hogar).
-Este consejo da la bienvenida a personas con experiencia vivida actual o pasada de falta de hogar para unirse a él. <!-- Source: https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership -->
-Puede solicitar un asiento en este consejo completando [este formulario](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership/forms-documents/2024/hsoc-membership-application-form) y enviándolo a [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
+Puede solicitar un asiento en este consejo completando [este formulario](https://www.slocounty.ca.gov/getmedia/37728233-e336-4e00-b49f-1b12946b8404/2022-hsoc-membership-application-form) y enviándolo a [SS_HomelessServices@co.slo.ca.us](mailto:SS_HomelessServices@co.slo.ca.us).
 
 Las reuniones de este consejo y sus comités están abiertas al público, ya sea en persona, o vía Zoom o teléfono. <!-- e.g. https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/full-hsoc/meetings/2025/11-19-2025-full-hsoc-meeting ; also HSOC is a Brown Act agency and its meetings must be open to the public -->
 Visite [slocounty.gov/HSOC](https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council) para horarios de reuniones.
