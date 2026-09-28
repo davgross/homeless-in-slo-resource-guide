@@ -9,9 +9,9 @@ homelessness in San Luis Obispo County.
 - **Mobile-first design** - Optimized for phones, tablets, and desktops
 - **Progressive Web App** - Installable, works offline, fast loading
 - **Three main sections**:
-  - **Resources** - Category-specific pages with descriptive paragraphs
-  - **Directory** - Detailed contact information, hours, and specifics for each agency
-  - **About** - Information about the guide and how to report errors
+   - **Resources** - Category-specific pages with descriptive paragraphs
+   - **Directory** - Detailed contact information, hours, and specifics for each agency
+   - **About** - Information about the guide and how to report errors
 - **Smart hyperlinks** - Phone numbers, emails, and addresses are all clickable
 - **Directory popup** - Click any organization name in Resources to see full details
 - **Interactive maps** - Standalone map pages for Little Free Libraries,
@@ -21,11 +21,11 @@ homelessness in San Luis Obispo County.
 - **Share functionality** - Share pages and sections with QR code support
   for easy cross-device sharing
 - **Accessibility features**:
-  - Adjustable font size (80%–150%)
-  - OpenDyslexic font option for dyslexia support
-  - High color contrast
-  - Screen reader support
-  - Keyboard navigation
+   - Adjustable font size (80%–150%)
+   - OpenDyslexic font option for dyslexia support
+   - High color contrast
+   - Screen reader support
+   - Keyboard navigation
 - **Browser-specific install instructions** - Tailored guidance for
   installing the PWA on different platforms
 
@@ -342,8 +342,8 @@ See `ARCHITECTURE.md` for detailed documentation of each component.
 - Links in the Resource Guide that point to Directory entries are
   automatically converted to open the Directory modal
 - Supported formats:
-  - `[Agency Name](#entry-id)` - simple anchor link
-  - `[Agency Name](Directory.md#entry-id)` - full path with anchor
+   - `[Agency Name](#entry-id)` - simple anchor link
+   - `[Agency Name](Directory.md#entry-id)` - full path with anchor
 - Clicking such a link opens a popup showing the full directory entry
 - Only existing markdown hyperlinks are converted - there is no automatic
   text matching

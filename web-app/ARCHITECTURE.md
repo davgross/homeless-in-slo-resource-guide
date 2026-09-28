@@ -274,6 +274,7 @@ The app supports multiple languages through a comprehensive i18n system consisti
 **Purpose**: Centralizes all user-facing text for all supported languages
 
 **Supported Languages**:
+
 - English (`en`)
 - Latin American Spanish (`es`)
 
@@ -301,6 +302,7 @@ const strings = {
 ```
 
 **Key Functions**:
+
 - `getCurrentLanguage()`: Detects language from localStorage, URL param (?lang=es), or browser language
 - `getStrings()`: Returns all strings for current language
 - `getString(path)`: Gets specific string by dot notation path
@@ -308,6 +310,7 @@ const strings = {
 - `availableLanguages`: Array of supported language codes
 
 **Language Detection Priority**:
+
 1. localStorage (user's explicit choice)
 2. URL parameter (?lang=es)
 3. Browser language preference
@@ -318,6 +321,7 @@ const strings = {
 **Purpose**: Dynamically sets HTML content based on selected language
 
 **Key Functions**:
+
 - `initI18n()`: Main initialization function called early in app startup
 - `updateMetaTags(strings)`: Sets page title and description
 - `updateNavigation(strings)`: Updates nav buttons and aria-labels
@@ -336,6 +340,7 @@ const strings = {
 **Purpose**: Provides UI for users to switch languages
 
 **Features**:
+
 - Compact button showing globe icon (🌐) and current language code
 - Dropdown menu with all available languages
 - Highlights currently selected language
@@ -365,6 +370,7 @@ To add support for a new language:
    - Add imports for the new language's markdown files
    - Add conditions to select the correct files based on language
    - Example:
+
      ```javascript
      import resourcesMarkdownFr from '../../Resource guide_fr.md?raw';
      // ... add similar imports for directory and about
@@ -384,6 +390,7 @@ To add support for a new language:
    - Language detection, persistence, and UI updates work automatically
 
 **Example**:
+
 ```javascript
 // In strings.js
 const strings = {

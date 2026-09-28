@@ -1187,9 +1187,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[data-sqsp-block=\"newsletter\"]"
+      ],
       "url": "https://www.slonoorfoundation.org/dental"
     },
     "0fa951e4-19b5-4864-aa2c-e46ccc5cfa3a": {
@@ -1763,6 +1769,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".agency-content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -2053,6 +2062,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".ssa-task"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -2273,6 +2285,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[data-sqsp-block=\"newsletter\"]"
+      ],
       "url": "https://www.namislo.org/"
     },
     "20614fd9-c00e-4f29-98d9-8e78706f2ce0": {
@@ -4525,6 +4540,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "article"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -5260,6 +5278,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This newsletter signup form needs a storage option. Edit the block and enter a storage location via the Storage tab."
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -5395,7 +5416,9 @@
         "#menu-footer-nav",
         "#brxe-djfahy",
         "#brxe-dugasc",
-        "#brxe-angryb"
+        "#brxe-angryb",
+        "#newsletter_form",
+        "lottie-player"
       ],
       "url": "https://pinnacletreatment.com/location/california/san-luis-obispo/aegis-san-luis-obispo-med-unit/"
     },
@@ -6017,6 +6040,14 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Pre-Apply OnlineDownload Pre-Application",
+        "View Property TourPre-Apply OnlineDownload Pre-Application",
+        "/Download\\ Pre\\-Application/"
+      ],
+      "include_filters": [
+        "#wpb-content-root"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -6041,6 +6072,9 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header"
+      ],
       "url": "https://www.ccpnhpn.com/becoming-a-member/"
     },
     "524ee5ec-51e0-4fea-a69f-dfbb697564dc": {
@@ -6627,6 +6661,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -7380,6 +7417,12 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "03:27",
+        "00:00",
+        "00:00",
+        "03:27"
+      ],
       "include_filters": [
         "main"
       ],
@@ -9736,9 +9779,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[data-sqsp-block=\"newsletter\"]"
+      ],
       "url": "https://www.racemattersslo.org/raiseup-slo"
     },
     "81011e84-1d10-4e0b-b01f-13c15d70b56c": {
@@ -10732,6 +10781,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Attention! The Learning Management System (LMS) website is currently down. This notification will be updated once systems are fully restored."
+      ],
       "include_filters": [
         ".alert-banner",
         "#main-content"
@@ -11170,6 +11222,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "Online Case Lookup Errors",
+        "There is a known issue with re:SearchCA where some cases may be missing information."
+      ],
       "include_filters": [
         ".usa-alert__wrapper",
         "main"
@@ -12489,6 +12545,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "#content"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -12543,6 +12602,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".wpb-content-wrapper"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -13768,6 +13830,10 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "header",
+        ".widget_nav_menu"
+      ],
       "url": "https://www.centralcoastna.org/directory/"
     },
     "b88c03dc-f99b-43be-aed1-c40cde1846bd": {
@@ -14924,6 +14990,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This newsletter signup form needs a storage option. Edit the block and enter a storage location via the Storage tab."
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -15820,9 +15889,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[data-sqsp-block=\"newsletter\"]"
+      ],
       "url": "https://www.slonoorfoundation.org/medical"
     },
     "d62f754a-a818-43de-970b-1c554886b471": {
@@ -16771,6 +16846,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "This newsletter signup form needs a storage option. Edit the block and enter a storage location via the Storage tab."
+      ],
       "include_filters": [
         ".content"
       ],
@@ -18321,9 +18399,15 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        "main"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "[data-sqsp-block=\"newsletter\"]"
+      ],
       "url": "https://www.slonoorfoundation.org/mhc"
     },
     "f669f098-af39-4541-ae79-b8216af432d9": {
