@@ -196,10 +196,52 @@ if (dirLink) {
   const restored = await page.evaluate(()=>document.activeElement.id);
   restored==='__triglink' ? pass('focus restored to trigger on close', restored) : fail('focus restored', restored);
 
-  const uninert = await page.evaluate(()=>[...document.body.children].some(c=>c.hasAttribute('inert')));
-  !uninert ? pass('inert cleared after close') : fail('inert cleared');
+  // Inerting reaches below body's children (header, toolbar, main inside
+  // #app), so check the whole tree, not just the top level.
+  const uninert = await page.evaluate(()=>document.querySelectorAll('[inert]').length);
+  uninert===0 ? pass('inert cleared after close') : fail('inert cleared', uninert+' elements still inert');
 } else {
   fail('directory link found');
+}
+
+// --- 4b. Entry linking to another entry, then close: page must stay live ---
+// Following a directory link inside the open overlay re-opens the same modal.
+// That once re-ran the inerting against an already-inert background, recorded
+// nothing to restore, and left every link on the page dead after close.
+const nested = await page.evaluate(async ()=>{
+  const sleep = ms=>new Promise(r=>setTimeout(r,ms));
+  const overlay = document.getElementById('directory-overlay');
+  // Find an entry whose content links to another entry
+  for (const trigger of document.querySelectorAll('#resources-section a[data-directory-link]')) {
+    trigger.id = '__nestedtrig';
+    trigger.click();
+    await sleep(200);
+    const inner = overlay.querySelector('.directory-content a[data-directory-link]');
+    if (!inner) {
+      overlay.querySelector('.close-btn').click();
+      await sleep(100);
+      trigger.removeAttribute('id');
+      continue;
+    }
+    inner.click();
+    await sleep(200);
+    overlay.querySelector('.close-btn').click();
+    await sleep(300);
+    return {
+      found: true,
+      inert: [...document.querySelectorAll('[inert]')].map(e=>e.id||e.className||e.tagName),
+      focus: document.activeElement.id
+    };
+  }
+  return {found: false};
+});
+if (!nested.found) {
+  fail('entry linking to another entry found');
+} else {
+  nested.inert.length===0 ? pass('inert cleared after entry-to-entry navigation')
+                          : fail('page left inert after entry-to-entry navigation', nested.inert.slice(0,6).join(','));
+  nested.focus==='__nestedtrig' ? pass('focus returns to original trigger after entry-to-entry navigation')
+                                : fail('focus after entry-to-entry navigation', nested.focus);
 }
 
 // --- 5. font-size scaling is multiplicative ---
