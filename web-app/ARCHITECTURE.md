@@ -416,6 +416,12 @@ this module each of them handled focus differently and none handled it fully.
   nested inside `#app` and inerting only `<body>`'s children would leave the
   header, toolbar and guide reachable
 - Restores focus to the element that opened the dialog
+- Handles re-opening the dialog that is already open (a directory entry
+  linking to another entry) as a content swap: it does not re-inert the
+  background, keeps the original trigger for focus restore, and replaces the
+  `Tab` handler rather than stacking a second one. Re-inerting an
+  already-inert background used to record nothing to restore, leaving every
+  link on the page dead after close; `npm run test:a11y` section 4b covers it
 
 **API:** `openModal(el, {labelledBy, label, initialFocus})`, `closeModal(el)`,
 `isModalOpen()`

@@ -88,7 +88,15 @@ export function openModal(modal, options = {}) {
     closeModal(activeModal, { restoreFocus: false });
   }
 
-  previouslyFocused = document.activeElement;
+  // Re-opening the modal that is already open (a directory entry linking to
+  // another entry) only swaps its content. The background is already inert,
+  // so inerting it again would record nothing to restore and leave the whole
+  // page dead after close. Keep the original trigger for focus restore too.
+  const reopening = activeModal === modal;
+
+  if (!reopening) {
+    previouslyFocused = document.activeElement;
+  }
 
   modal.setAttribute('role', 'dialog');
   modal.setAttribute('aria-modal', 'true');
@@ -102,7 +110,9 @@ export function openModal(modal, options = {}) {
   }
 
   modal.hidden = false;
-  setBackgroundInert(modal);
+  if (!reopening) {
+    setBackgroundInert(modal);
+  }
 
   // Focus the requested element, else the dialog container itself. Focusing
   // the container (rather than the first button) means a screen reader reads
@@ -112,6 +122,11 @@ export function openModal(modal, options = {}) {
     target.setAttribute('tabindex', '-1');
   }
   target.focus();
+
+  // Replace, not stack, the focus trap when re-opening
+  if (activeTrap) {
+    modal.removeEventListener('keydown', activeTrap);
+  }
 
   activeTrap = (e) => {
     if (e.key !== 'Tab') return;
