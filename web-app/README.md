@@ -33,7 +33,7 @@ homelessness in San Luis Obispo County.
 
 ### Prerequisites
 
-- Node.js 18+ and npm
+- Node.js 22.12+ and npm
 - The markdown source files (`Resource guide.md` and `Directory.md`) in the
   parent directory
 
