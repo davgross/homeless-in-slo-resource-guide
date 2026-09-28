@@ -2,7 +2,7 @@
 
 This document provides a comprehensive audit of all third-party assets, libraries, and code used in this project to ensure compliance with copyright and licensing requirements.
 
-**Audit Date:** September 7, 2026 (revised after self-hosting, same day)
+**Audit Date:** September 7, 2026 (revised after self-hosting, same day; versions and transitive-licence notes updated September 28, 2026)
 
 **Previous Audit:** October 31, 2025
 
@@ -37,7 +37,7 @@ These are bundled into the app or loaded by the user's browser. Their attributio
 | Library | Version | License | Purpose |
 |---|---|---|---|
 | [marked](https://github.com/markedjs/marked) | 14.1.4 | MIT | Markdown → HTML parsing |
-| [DOMPurify](https://github.com/cure53/DOMPurify) | 3.4.14 | Apache-2.0 OR MPL-2.0 | HTML sanitization (XSS prevention) |
+| [DOMPurify](https://github.com/cure53/DOMPurify) | 3.4.16 | Apache-2.0 OR MPL-2.0 | HTML sanitization (XSS prevention) |
 | [qr-creator](https://github.com/nimiq/qr-creator) | 1.0.0 | MIT | QR codes in the share dialog |
 | [Leaflet](https://leafletjs.com/) | 1.9.4 | BSD-2-Clause | Interactive maps (self-hosted) |
 | [mimetext](https://github.com/muratgozel/MIMEText) | 3.0.27 | MIT | Email construction in the Cloudflare Worker |
@@ -69,19 +69,27 @@ These never reach users, so attribution obligations are minimal. Documented for 
 |---|---|---|---|---|
 | [Vite](https://vitejs.dev) | 6.4.3 | MIT | `web-app` | Build tool and dev server |
 | [vite-plugin-pwa](https://vite-pwa-org.netlify.app) | 0.21.2 | MIT | `web-app` | Service worker and manifest generation |
-| [html-validate](https://html-validate.org/) | 10.4.0 | MIT | `web-app` | HTML validation in CI |
-| [sharp](https://github.com/lovell/sharp) | 0.34.5 | Apache-2.0 | `web-app` | Maskable icon generation |
-| [puppeteer-core](https://pptr.dev/) | 24.43.1 | Apache-2.0 | `web-app` | Headless browser for `npm run test:a11y` |
+| [html-validate](https://html-validate.org/) | 10.17.0 | MIT | `web-app` | HTML validation in CI |
+| [sharp](https://github.com/lovell/sharp) | 0.35.5 | Apache-2.0 | `web-app` | Maskable icon generation |
+| [puppeteer-core](https://pptr.dev/) | 25.12.0 | Apache-2.0 | `web-app` | Headless browser for `npm run test:a11y` |
 | [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | 0.6.2 | MIT | root | Parsing in content tooling |
 | [remark-cli](https://github.com/remarkjs/remark) | 12.0.1 | MIT | root | Markdown linting |
 | remark-frontmatter | 5.0.0 | MIT | root | Markdown linting |
 | remark-gfm | 4.0.1 | MIT | root | Markdown linting |
-| unist-util-visit | 5.0.0 | MIT | root | Custom remark style rules |
+| unist-util-visit | 5.1.0 | MIT | root | Custom remark style rules |
 | unist-util-visit-parents | 6.0.2 | MIT | root | Custom remark style rules |
 
 **Compliance:** ✅ All permissive.
 
 **Note on `vite-plugin-pwa`:** although a build-time plugin, it *generates* service worker code (via Workbox, MIT) that ships to users. Workbox's licence is permissive and its notice travels in the generated file.
+
+**Note on `sharp`:** `sharp` itself is Apache-2.0, but its prebuilt native binaries (`@img/sharp-libvips-*`, `@img/sharp-win32-*`, `@img/sharp-wasm32`) include libvips, which is LGPL-3.0-or-later.
+LGPL obligations attach to redistribution of the library.
+This project only runs `sharp` on a developer machine to generate icons; the binaries are never bundled or served, so no LGPL obligation arises.
+
+**Note on transitive BlueOak-1.0.0 packages:** some of isaacs's packages pulled in by the tooling (`minipass`, `isexe`, `path-scurry`, `jackspeak`, `package-json-from-dist`, and `sax` under `xml2js`) use the Blue Oak Model License 1.0.0.
+`minipass` and `isexe` switched from ISC to BlueOak-1.0.0 in September 2026.
+BlueOak is a permissive licence comparable to MIT/ISC, and none of these packages ship to users.
 
 **Note on `puppeteer-core`:** deliberately `puppeteer-core` rather than `puppeteer`, so no Chromium binary is downloaded. It drives the developer's existing Chrome install. Chromium itself is therefore not redistributed by this project and carries no obligation here.
 
@@ -255,6 +263,8 @@ All other attributions are satisfied by `THIRD_PARTY_LICENSES.md` and the list i
 |---|---|---|---|---|
 | MIT | marked, qr-creator, Vite, vite-plugin-pwa, mimetext, html-validate, xml2js, remark-* | ✅ Yes | ✅ Yes | ✅ Yes |
 | Apache-2.0 | DOMPurify (option), sharp, puppeteer-core | ✅ Yes | ✅ Yes | ✅ Yes |
+| BlueOak-1.0.0 | minipass, isexe, and other transitive tooling packages | ✅ Yes | ✅ Yes | ✅ Yes |
+| LGPL-3.0-or-later | libvips inside sharp's prebuilt binaries (dev only, not redistributed) | ✅ Yes | ✅ Yes | Only on redistribution |
 | MPL-2.0 | DOMPurify (option) | ✅ Yes (file-level copyleft only) | ✅ Yes | ✅ Yes |
 | BSD-2-Clause | Leaflet | ✅ Yes | ✅ Yes | ✅ **Yes — we now redistribute** |
 | OFL-1.1 | Montserrat Alternates, OpenDyslexic | ✅ Yes | ✅ Yes | ✅ **Yes — we now redistribute** |

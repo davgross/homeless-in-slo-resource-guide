@@ -1066,7 +1066,7 @@ See README.md for Apache/Nginx configs
 ### Build Failures
 
 - Run `npm install` to update dependencies
-- Check Node.js version (18+ required)
+- Check Node.js version (22.12+ required)
 - Clear `node_modules/` and reinstall
 
 ### Service Worker Issues
@@ -1179,7 +1179,7 @@ For questions about this architecture:
 
 ---
 
-*Last updated: 2026-09-10*
+*Last updated: 2026-09-28*
 *Document version: 1.7*
 
 ## Changelog
