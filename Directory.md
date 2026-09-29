@@ -2580,12 +2580,13 @@ If you see one listed here that is no longer in service, please use the feedback
 
 > *See also [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
+- **Website:** [capslo.org/homeless-services-st-stephens](https://capslo.org/homeless-services-st-stephens/)
 - **Location:** <a href="#" class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">1344 Nipomo St., SLO</a> <!-- Source: email from Cecil Hale 5 Jan 2026 -->
 - **Phone:** [805-595-0963](tel:+1-805-595-0963) <!-- Source: email from Cecil Hale 5 Jan 2026 -->
 - **Hours:** M–F 10am–3pm <!-- Source: email from Cecil Hale 5 Jan 2026 -->
 - **How to access:** Walk-ins OK; registered sex offenders (290) not allowed on-site.
 - Note: operated by [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
-<!-- Note: No dedicated webpage or direct phone extension found (as of October 2025); program operated by CAPSLO -->
+<!-- Note: No direct phone extension found (as of October 2025); program operated by CAPSLO -->
 
 ## <a id="Parent-Connection-of-SLO-County">Parent Connection of SLO County</a>
 

@@ -2580,12 +2580,13 @@
 
 > *Vea también [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)*
 
+- **Sitio web:** [capslo.org/homeless-services-st-stephens](https://capslo.org/homeless-services-st-stephens/)
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.276474" data-lon="-120.663915" data-zoom="17" data-label="Outreach and Engagement Services">1344 Nipomo St., SLO</a> <!-- Source: email from Cecil Hale 5 Jan 2026 -->
 - **Teléfono:** [805-543-0963](tel:+1-805-543-0963) <!-- Source: email from Cecil Hale 5 Jan 2026 -->
 - **Horario:** L–V 10am–3pm <!-- Source: email from Cecil Hale 5 Jan 2026 -->
 - **Cómo obtener el servicio:** Se aceptan visitas sin cita; los delincuentes sexuales registrados (290) no pueden ingresar al lugar.
 - Nota: operado por [**Community Action Partnership San Luis Obispo (CAPSLO)**](#CAPSLO)
-<!-- Note: No dedicated webpage or direct phone extension found (as of October 2025); program operated by CAPSLO -->
+<!-- Note: No direct phone extension found (as of October 2025); program operated by CAPSLO -->
 
 ## Outreach Apparel
 
