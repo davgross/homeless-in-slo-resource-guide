@@ -136,22 +136,22 @@ Ask questions if you need help understanding programs, requirements, or next ste
 When providers help you, tell them you appreciate it.
 Good relationships help everyone.
 
-Stay in touch with providers who are especially helpful, even when you’re not actively using their services.
+Contact providers who are especially helpful from time to time, even when you do not use their services.
 
 <div style="border: 1px solid black; padding: 1rem 1rem 0 1rem;">
 
 #### What is a Case Manager?
 
-A case manager is a professional who works with you to help you navigate the complicated landscape of social services and work toward your goals.
+A case manager is a professional who works with you to help you understand and use the many complicated social services, and to help you work toward your goals.
 Case managers are employed by many different organizations—homeless service centers, shelters, county social services agencies, mental health programs, and nonprofits.
 
 #### What Case Managers Do
 
 Case managers serve as your guide and advocate within the service system.
 They help you assess your situation, identify your goals (such as finding housing, obtaining benefits, or getting treatment), and create a plan to achieve them.
-They connect you with resources you might not know about, help you complete applications, follow up on your behalf, and troubleshoot when things go wrong.
+They connect you with resources you might not know about, help you complete applications, contact agencies for you to check on your applications, and help you solve problems.
 
-A good case manager keeps track of the many moving parts of your situation—your housing search, your benefits applications, your medical appointments—so that you do not need to juggle everything alone.
+A good case manager helps you organize all the different parts of your situation—your housing search, your benefits applications, your medical appointments—so that you do not need to manage everything alone.
 
 #### How to Get a Case Manager
 
@@ -168,10 +168,11 @@ You may also be assigned a case manager when you enter certain programs—for ex
 
 The social services system is fragmented and confusing.
 Different agencies handle different needs, each with its own eligibility rules, application processes, and waiting lists.
-A case manager can help you navigate this maze, advocate for you when you encounter obstacles, and keep your various applications and appointments from falling through the cracks.
+A case manager can help you understand these systems, advocate for you when you have problems, and make sure that you do not lose or forget any of your applications or appointments.
 
 Having a case manager doesn’t guarantee success—housing and other resources remain scarce—but it does improve your chances.
-Case managers know the system, know which doors to knock on, and can often expedite processes or identify resources you wouldn’t find on your own.
+Case managers know the system and know whom to contact.
+They can often make processes go faster, or find resources that you would not find by yourself.
 </div>
 
 ### <a id="manage-appointments">Manage Appointments and Commitments</a>
@@ -184,7 +185,7 @@ If you need to change an appointment, call ahead rather than just not attending.
 Arrive early to appointments if you can.
 If you will be late, call ahead.
 Keep a notebook or use your phone to note appointments, contacts, and any promises people make to you.
-If someone promises to do something for you but you don’t hear back in a reasonable time, check back with them.
+If someone promises to do something for you but you do not get an answer in a reasonable time, contact them again.
 
 ### <a id="know-your-rights">Know Your Rights</a>
 
@@ -226,7 +227,7 @@ Share your skills, experience, education, and personal strengths when they matte
 For example, tell employment services about your work experience.
 
 Come to meetings with ideas about what might work for your situation.
-Follow through on promises you make and take active steps toward your goals.
+Do what you promise to do, and take active steps toward your goals.
 
 ### <a id="navigate-system-barriers">Navigate System Barriers</a>
 
@@ -246,7 +247,7 @@ But casual services like showers don’t need to know about each other.
 
 If an agency plans to apply for a service in your name, tell them if you already applied on your own.
 This prevents duplicate applications and wasted time.
-Keep track of which applications you made or that others made for you.
+Keep a list of the applications that you made or that others made for you.
 This helps you avoid doing the same thing twice.
 
 Share information with service providers that relates directly to the services you want.
@@ -255,7 +256,7 @@ Keep other personal details private if you don’t feel like sharing them.
 
 Keep a list of contact information for all your service providers.
 Ask for direct phone numbers or business cards from people who work with you.
-This helps you avoid phone trees if you need to call back.
+Then, when you need to call again, you can call the right person directly instead of an automated phone menu.
 
 ### <a id="set-goals-and-track-progress">Set Goals and Track Progress</a>
 
@@ -269,8 +270,8 @@ Be flexible and willing to change your goals as your situation changes.
 Even when you feel frustrated, stay calm and speak respectfully.
 This approach usually gets better results and faster solutions than arguing.
 Note details about problems, including dates, names, and what went wrong.
-Don’t quit too soon.
-Persevering often pays off when you work with complex systems.
+Do not stop trying too soon.
+When you work with complex systems, you often get results if you keep trying.
 
 ### <a id="find-and-use-resources">Find and Use Resources</a>
 
@@ -1815,7 +1816,7 @@ The [**Healthcare for the Homeless Program**](Directory.md#HCHP) offers diabetes
 [**California Connect**](Directory.md#California-Connect) can loan you, for free, assistive telecommunications equipment that helps if you have functional limitations of hearing, vision, mobility, speech, and/or interpretation of information. <!-- Source: https://caconnect.org/ -->
 
 The [**California Department of Rehabilitation**](Directory.md#California-Department-of-Rehabilitation) helps people with disabilities find or keep employment and live independently. <!-- Source: https://www.dor.ca.gov/Home/GettingStarted -->
-They can help you navigate disability and benefits programs, obtain assistive technologies, and get help with childcare and transportation.
+They can help you understand and use disability and benefits programs, obtain assistive technologies, and get help with childcare and transportation.
 
 [**Disability Rights California**](Directory.md#Disability-Rights-California) helps you understand and defend your legal rights as a disabled person. <!-- Source: https://www.disabilityrightsca.org/what-we-do/programs -->
 
@@ -1892,7 +1893,7 @@ In such a case you should seek medical attention.
 
 Sunburn is painful. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 It also can make you fatigued and more susceptible to infection. <!-- Sources: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 and https://www.cancer.org/cancer/risk-prevention/sun-and-uv/uv-radiation.html -->
-In the long run it can put you at higher risk of developing skin cancer. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
+Over many years, it can increase your risk of skin cancer. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 
 Homeless people are more prone to sunburn because they have fewer options to escape the mid-day sun.
 You can reduce your risk of sunburn by finding shady places to rest during the day, by wearing more thoroughly-covering clothing like long-sleeved shirts and broad-brimmed hats, and by applying sunscreen. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
@@ -2052,7 +2053,7 @@ The [**Alano Club**](Directory.md#Alano-Club), <!-- Source: https://sloalanoclub
 
 There are programs available that will erase your tattoos.
 This can help you if you have tattoos that interfere with your ability to get a job or that are suggestive of gang or hate group affiliation.
-Tattoo removal can help you get a fresh start, unburdened by regretful decisions from your past. <!-- Source: https://removery.com/tattoo-removal/ -->
+Tattoo removal can help you start again, without marks that remind you of past decisions you regret. <!-- Source: https://removery.com/tattoo-removal/ -->
 
 The process of laser tattoo removal takes time.
 Typically you undergo between five and twelve visits, each one lasting about five minutes, over several months.
@@ -2164,26 +2165,26 @@ Sometimes relatively inexpensive self-defense or martial arts classes are offere
 
 ### <a id="personal-safety-tips">Personal Safety Tips</a>
 
-To stay safe on the streets, stay aware of your surroundings.
+To stay safe outdoors, stay aware of your surroundings.
 Be alert when you walk alone, and avoid distractions like phones or headphones.
-Trust your instincts—if a situation feels unsafe, go somewhere safer.
+Trust your feelings—if a situation feels unsafe, go somewhere safer.
 Walk with confidence: keep your eyes forward, and maintain a steady pace.
 These simple behaviors can make you less vulnerable to potential threats.
 
-Learning to identify trustworthy people is one of the most important street skills you can develop, though it takes time and experience.
+Learning to identify trustworthy people is one of the most important skills for people who live outdoors, though it takes time and experience.
 Be cautious when forming new relationships—sometimes people experiencing homelessness are victimized by people who say they want to help.
-Watch for “red flags” like people who try to exploit your vulnerabilities, who offer deals that seem too good to be true, or who pressure you into uncomfortable or vulnerable situations.
+Watch for warning signs, like people who try to exploit your vulnerabilities, who offer deals that seem unrealistically good, or who pressure you into uncomfortable or vulnerable situations.
 Connect with peers who understand your situation, as these relationships often provide both safety and emotional support.
 Remember that developing good judgment about people is a gradual process, not something you can master immediately.
 
 Whenever possible, travel with trusted companions rather than going places alone.
-Having someone you trust with you provides both practical safety and moral support.
+Having someone you trust with you provides both practical safety and emotional support.
 Build a network of friends who protect each other.
 Such connections improve your physical safety and also your overall well-being and security.
 
-If you use emergency shelters, address your security concerns with the staff before you settle in.
+If you use emergency shelters, address your security concerns with the staff before you begin your stay.
 (For example, if you see someone at the shelter who has been threatening to you in the past, or if you are not sure your possessions will be secure where you have been told to leave them.)
-Some people choose to sleep on the streets rather than in shelters because of safety concerns.
+Some people choose to sleep outdoors rather than in shelters because of safety concerns.
 If you do stay outside, you need to balance the risks of harassment in public places against the risk of assault in more secluded areas.
 Stay vigilant even in places that are supposed to be safe.
 
@@ -2306,7 +2307,7 @@ If you believe you have been treated unfairly or improperly by a licensed servic
 ### <a id="crime-victims">Victims of Crime, Abuse</a>
 
 Victims of crime have certain legal rights, and they may be asked to participate in crime investigations or to testify in criminal cases.
-The [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) helps crime victims who are navigating this process. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
+The [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) helps crime victims during this process. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
 It can help you understand your rights, obtain support services, get help with court appearances, apply for restitution, and get notifications about the progress of the criminal case against those who victimized you. <!-- Sources: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/restitution and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/victim-services-information -->
 
 If you are the victim of a violent crime, the [California Victim Compensation Board](https://victims.ca.gov/) ([800-777-9229](tel:+1-800-777-9229)) can help you get financial restitution, medical treatment, mental health counseling, and other help. <!-- Source: https://victims.ca.gov/for-victims/frequently-asked-questions/ -->
@@ -2421,7 +2422,7 @@ The [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) 
 ### <a id="senior-legal-services">Senior Legal Services</a>
 
 The [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) offers free legal help to low- and moderate-income people in SLO County who are age 60 and up. <!-- Source: https://www.slolaf.org/seniorlaw -->
-They can help you navigate the legal issues around benefits rights assistance, consumer protection, housing discrimination and eviction prevention, advance medical directives and durable power of attorney, will preparation, and protective/restraining orders. <!-- Source: https://www.slolaf.org/seniorlaw -->
+They can help you with legal issues about benefits rights assistance, consumer protection, housing discrimination and eviction prevention, advance medical directives and durable power of attorney, will preparation, and protective/restraining orders. <!-- Source: https://www.slolaf.org/seniorlaw -->
 They often hold by-appointment clinics at local Senior Centers, or you can contact their office directly via the [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation). <!-- Source: https://www.slolaf.org/seniorlaw -->
 
 ### <a id="tax-disputes">Tax Disputes</a>
@@ -3374,7 +3375,8 @@ The County of San Luis Obispo provides free Wi-Fi access in all San Luis Obispo 
 Both the [**5Cities Homeless Coalition**](Directory.md#5CHC) office and the [**40 Prado Homeless Services Center**](Directory.md#40-Prado) offer computer and internet access to their clients. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
 [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) has two computers you can use on-site, and they offer free assistance and one-on-one tutoring sessions including specialized Android and iPad/iPhone workshops. <!-- Source: https://www.prcity.com/293/Senior-Services -->
-[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) also has a computer with internet access which is available to the public on a first come, first serve basis. <!-- SOURCE NEEDED -->
+[**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) also has a computer with internet access that the public can use.
+The first person to arrive gets to use it first. <!-- SOURCE NEEDED -->
 
 [Computers with Causes](https://www.computerswithcauses.org/application/) has a “Free Computer Program” with which you can get a refurbished computer at no cost to you.
 
@@ -4204,4 +4206,4 @@ If you would like some in-person help, you can get assistance on a variety of is
 - [**Morro Bay Library**](Directory.md#SLO-County-Public-Libraries), Thursdays, 12:30pm–2pm
 - [**SLO city Library**](Directory.md#SLO-County-Public-Libraries), Tuesdays, 10–11:30am & 2:30–4pm
 
-You can drop in, or make an appointment by calling or texting [805-540-0057](tel:+1-805-540-0057).
+You can come without an appointment, or make an appointment by calling or texting [805-540-0057](tel:+1-805-540-0057).
