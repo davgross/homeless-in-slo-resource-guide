@@ -566,10 +566,7 @@ Contact them directly to access the program. <!-- Source: https://www.pshhc.org/
 
 [**Welcome Home Village**](Directory.md#Welcome-Home-Village) is a combination of permanent supportive housing units (40 units) and interim supportive housing units (14 units) that is operated by [**Good Samaritan Shelter**](Directory.md#Good-Samaritan-Shelter) in SLO city.
 
-Some other low-income options include:
-
-- [Roosevelt Family Apartments](https://www.rooseveltfamilyapts.com/) in Nipomo. <!-- SOURCE NEEDED -->
-- [San Luis Bay Apartments](https://www.gsfpi.com/) in Nipomo. <!-- SOURCE NEEDED -->
+Some other low-income options include [San Luis Bay Apartments](https://www.gsfpi.com/) in Nipomo. <!-- SOURCE NEEDED -->
 
 If you are a refugee from another country, you may be able to get some help establishing housing from [**SLO for HOME**](Directory.md#SLO4Home). <!-- Source: https://www.sloforhome.org/ (somewhat vague about what specifically they offer here) -->
 
