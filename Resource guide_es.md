@@ -136,22 +136,22 @@ Haga preguntas si necesita ayuda para entender los programas, los requisitos o l
 Cuando los proveedores lo ayuden, dígales que lo agradece.
 Las buenas relaciones ayudan a todos.
 
-Manténgase en contacto con los proveedores que son especialmente útiles, incluso cuando no esté usando sus servicios activamente.
+Comuníquese de vez en cuando con los proveedores que son especialmente útiles, incluso cuando no use sus servicios.
 
 <div style="border: 1px solid black; padding: 1rem 1rem 0 1rem;">
 
 #### ¿Qué es un Administrador de Casos?
 
-Un administrador de casos es un profesional que trabaja con usted para ayudarle a navegar el complicado panorama de los servicios sociales y avanzar hacia sus metas.
+Un administrador de casos es un profesional que trabaja con usted para ayudarle a entender y usar los muchos servicios sociales complicados, y para ayudarle a avanzar hacia sus metas.
 Los administradores de casos trabajan en muchas organizaciones diferentes: centros de servicios para personas sin hogar, refugios, agencias de servicios sociales del condado, programas de salud mental y organizaciones sin fines de lucro.
 
 #### Qué Hacen los Administradores de Casos
 
 Los administradores de casos sirven como su guía y defensor dentro del sistema de servicios.
 Le ayudan a evaluar su situación, identificar sus metas (como encontrar vivienda, obtener beneficios o recibir tratamiento) y crear un plan para lograrlas.
-Le conectan con recursos que quizás no conozca, le ayudan a completar solicitudes, dan seguimiento en su nombre y resuelven problemas cuando algo sale mal.
+Le conectan con recursos que quizás no conozca, le ayudan a completar solicitudes, se comunican con las agencias por usted para revisar sus solicitudes y le ayudan a resolver problemas.
 
-Un buen administrador de casos lleva el control de las muchas partes de su situación—su búsqueda de vivienda, sus solicitudes de beneficios, sus citas médicas—para que no tenga que ocuparse de todo solo.
+Un buen administrador de casos le ayuda a organizar todas las diferentes partes de su situación—su búsqueda de vivienda, sus solicitudes de beneficios, sus citas médicas—para que no tenga que ocuparse de todo solo.
 
 #### Cómo Obtener un Administrador de Casos
 
@@ -168,10 +168,11 @@ También se le puede asignar un administrador de casos cuando ingrese a ciertos 
 
 El sistema de servicios sociales está fragmentado y es confuso.
 Diferentes agencias manejan diferentes necesidades, cada una con sus propias reglas de elegibilidad, procesos de solicitud y listas de espera.
-Un administrador de casos puede ayudarle a navegar este laberinto, abogar por usted cuando encuentre obstáculos y evitar que sus diversas solicitudes y citas se pierdan.
+Un administrador de casos puede ayudarle a entender estos sistemas, abogar por usted cuando tenga problemas y asegurarse de que usted no pierda ni olvide ninguna de sus solicitudes o citas.
 
 Tener un administrador de casos no garantiza el éxito—la vivienda y otros recursos siguen siendo escasos—pero sí mejora sus posibilidades.
-Los administradores de casos conocen el sistema, saben a qué puertas tocar y a menudo pueden acelerar procesos o identificar recursos que usted no encontraría por su cuenta.
+Los administradores de casos conocen el sistema y saben con quién comunicarse.
+A menudo pueden hacer que los procesos sean más rápidos, o encontrar recursos que usted no encontraría solo.
 </div>
 
 ### <a id="manage-appointments">Maneje Sus Citas y Compromisos</a>
@@ -246,7 +247,7 @@ Pero los servicios informales como las duchas no necesitan saber unos de otros.
 
 Si una agencia planea solicitar un servicio en su nombre, dígales si ya solicitó por su cuenta.
 Esto evita solicitudes duplicadas y tiempo perdido.
-Mantenga un registro de qué solicitudes hizo usted o que otros hicieron por usted.
+Mantenga una lista de las solicitudes que hizo usted o que otros hicieron por usted.
 Esto le ayuda a evitar hacer lo mismo dos veces.
 
 Comparta información con los proveedores de servicios que se relacione directamente con los servicios que desea.
@@ -255,7 +256,7 @@ Mantenga otros detalles personales privados si no se siente cómodo compartiénd
 
 Mantenga una lista de información de contacto de todos sus proveedores de servicios.
 Pida números de teléfono directos o tarjetas de presentación de las personas que trabajan con usted.
-Esto le ayuda a evitar menús telefónicos si necesita volver a llamar.
+Así, cuando necesite llamar otra vez, puede llamar directamente a la persona correcta en lugar de a un menú telefónico automático.
 
 ### <a id="set-goals-and-track-progress">Establezca Metas y Dé Seguimiento a Su Progreso</a>
 
@@ -269,8 +270,8 @@ Sea flexible y esté dispuesto a cambiar sus metas a medida que cambie su situac
 Incluso cuando se sienta frustrado, manténgase calmado y hable respetuosamente.
 Este enfoque generalmente obtiene mejores resultados y soluciones más rápidas que discutir.
 Anote detalles sobre los problemas, incluyendo fechas, nombres y qué salió mal.
-No se rinda demasiado pronto.
-Perseverar a menudo vale la pena cuando trabaja con sistemas complejos.
+No deje de intentarlo demasiado pronto.
+Cuando trabaja con sistemas complejos, a menudo obtiene resultados si sigue intentándolo.
 
 ### <a id="find-and-use-resources">Encuentre y Use Recursos</a>
 
@@ -1831,7 +1832,7 @@ El [**Healthcare for the Homeless Program**](Directory.md#HCHP) ofrece pruebas y
 [**California Connect**](Directory.md#California-Connect) puede prestarle, gratis, equipo de telecomunicaciones de asistencia que ayuda si tiene limitaciones funcionales de audición, visión, movilidad, habla y/o interpretación de información. <!-- Source: https://caconnect.org/ -->
 
 El [**Departamento de Rehabilitación (DOR) de California**](Directory.md#California-Department-of-Rehabilitation) (Departamento de Rehabilitación de California) ayuda a personas con discapacidades a encontrar o mantener empleo y vivir independientemente. <!-- Source: https://www.dor.ca.gov/Home/GettingStarted -->
-Pueden ayudarle a navegar programas de discapacidad y beneficios, obtener tecnologías de asistencia y obtener ayuda con cuidado infantil y transporte.
+Pueden ayudarle a entender y usar programas de discapacidad y beneficios, obtener tecnologías de asistencia y obtener ayuda con cuidado infantil y transporte.
 
 [**Disability Rights California**](Directory.md#Disability-Rights-California) le ayuda a entender y defender sus derechos legales como persona discapacitada. <!-- Source: https://www.disabilityrightsca.org/what-we-do/programs -->
 
@@ -1892,7 +1893,7 @@ En tal caso debe buscar atención médica.
 
 Las quemaduras solares son dolorosas. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 También pueden hacerle sentir fatigado y más susceptible a infecciones. <!-- Sources: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 and https://www.cancer.org/cancer/risk-prevention/sun-and-uv/uv-radiation.html -->
-A largo plazo puede aumentar su riesgo de desarrollar cáncer de piel. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
+Después de muchos años, puede aumentar su riesgo de cáncer de piel. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
 
 Las personas sin hogar son más propensas a las quemaduras solares porque tienen menos opciones para escapar del sol del mediodía.
 Puede reducir su riesgo de quemaduras solares encontrando lugares sombreados para descansar durante el día, usando ropa que cubra más completamente como camisas de manga larga y sombreros de ala ancha, y aplicando protector solar. <!-- Source: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922 -->
@@ -2052,7 +2053,7 @@ El [**Alano Club**](Directory.md#Alano-Club), <!-- Source: https://sloalanoclub.
 
 Hay programas disponibles que borrarán sus tatuajes.
 Esto puede ayudarle si tiene tatuajes que interfieren con su capacidad de conseguir un trabajo o que sugieren afiliación a pandillas o grupos de odio.
-La eliminación de tatuajes puede ayudarle a comenzar de nuevo, sin la carga de decisiones lamentables de su pasado. <!-- Source: https://removery.com/tattoo-removal/ -->
+La eliminación de tatuajes puede ayudarle a comenzar de nuevo, sin marcas que le recuerden decisiones del pasado que usted lamenta. <!-- Source: https://removery.com/tattoo-removal/ -->
 
 El proceso de eliminación de tatuajes con láser toma tiempo.
 Típicamente se somete a entre cinco y doce visitas, cada una durando aproximadamente cinco minutos, durante varios meses.
@@ -2164,26 +2165,26 @@ A veces se ofrecen clases de defensa personal o artes marciales relativamente ec
 
 ### <a id="personal-safety-tips">Consejos de Seguridad Personal</a>
 
-Para mantenerse seguro en las calles, manténgase consciente de su entorno.
+Para mantenerse seguro al aire libre, manténgase consciente de su entorno.
 Esté alerta cuando camine solo, y evite distracciones como teléfonos o audífonos.
-Confíe en sus instintos—si una situación se siente insegura, vaya a un lugar más seguro.
+Confíe en lo que siente—si una situación se siente insegura, vaya a un lugar más seguro.
 Camine con confianza: mantenga sus ojos hacia adelante y mantenga un paso constante.
 Estos comportamientos simples pueden hacerle menos vulnerable a amenazas potenciales.
 
-Aprender a identificar personas confiables es una de las habilidades callejeras más importantes que puede desarrollar, aunque toma tiempo y experiencia.
+Aprender a identificar personas confiables es una de las habilidades más importantes para las personas que viven al aire libre, aunque toma tiempo y experiencia.
 Sea cauteloso al formar nuevas relaciones—a veces las personas que experimentan falta de hogar son victimizadas por personas que dicen que quieren ayudar.
-Esté atento a “señales de alerta” como personas que intentan explotar sus vulnerabilidades, que ofrecen tratos que parecen demasiado buenos para ser verdad o que le presionan a situaciones incómodas o vulnerables.
+Esté atento a señales de alerta, como personas que intentan explotar sus vulnerabilidades, que ofrecen tratos que parecen demasiado buenos para ser reales o que le presionan a situaciones incómodas o vulnerables.
 Conéctese con compañeros que entienden su situación, ya que estas relaciones a menudo proporcionan tanto seguridad como apoyo emocional.
 Recuerde que desarrollar buen juicio sobre las personas es un proceso gradual, no algo que pueda dominar inmediatamente.
 
 Siempre que sea posible, viaje con compañeros de confianza en lugar de ir a lugares solo.
-Tener a alguien en quien confía con usted proporciona tanto seguridad práctica como apoyo moral.
+Tener a alguien en quien confía con usted proporciona tanto seguridad práctica como apoyo emocional.
 Construya una red de amigos que se protejan entre sí.
 Tales conexiones mejoran su seguridad física y también su bienestar y seguridad general.
 
-Si usa refugios de emergencia, aborde sus preocupaciones de seguridad con el personal antes de instalarse.
+Si usa refugios de emergencia, aborde sus preocupaciones de seguridad con el personal antes de comenzar su estadía.
 (Por ejemplo, si ve a alguien en el refugio que ha sido amenazante para usted en el pasado, o si no está seguro de que sus posesiones estarán seguras donde le han dicho que las deje.)
-Algunas personas eligen dormir en las calles en lugar de en refugios debido a preocupaciones de seguridad.
+Algunas personas eligen dormir al aire libre en lugar de en refugios debido a preocupaciones de seguridad.
 Si se queda afuera, necesita equilibrar los riesgos de acoso en lugares públicos contra el riesgo de asalto en áreas más apartadas.
 Manténgase vigilante incluso en lugares que se supone que son seguros.
 
@@ -2306,7 +2307,7 @@ Si cree que ha sido tratado injustamente o incorrectamente por un proveedor de s
 ### <a id="crime-victims">Víctimas de Crímenes y Abusos</a>
 
 Las víctimas de crímenes tienen ciertos derechos legales, y pueden ser solicitadas para participar en investigaciones de crímenes o para testificar en casos criminales.
-El [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) ayuda a víctimas de crímenes que están navegando este proceso. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
+El [**Victim Witness Assistance Program**](Directory.md#Victim-Witness-Assistance-Program) ayuda a víctimas de crímenes durante este proceso. <!-- Source: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center -->
 Puede ayudarle a entender sus derechos, obtener servicios de apoyo, obtener ayuda con comparecencias en la corte, solicitar restitución y obtener notificaciones sobre el progreso del caso criminal contra quienes le victimizaron. <!-- Sources: https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/restitution and https://www.slocounty.ca.gov/departments/district-attorney/victim-witness-assistance-center/victim-services-information -->
 
 Si es víctima de un crimen violento, la [California Victim Compensation Board](https://victims.ca.gov/) ([800-777-9229](tel:+1-800-777-9229)) puede ayudarle a obtener restitución financiera, tratamiento médico, consejería de salud mental y otra ayuda. <!-- Source: https://victims.ca.gov/for-victims/frequently-asked-questions/ -->
@@ -2421,7 +2422,7 @@ El [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources) y
 ### <a id="senior-legal-services">Servicios Legales para Personas Mayores</a>
 
 El [**Senior Legal Services Project**](Directory.md#Senior-Legal-Services-Project) ofrece ayuda legal gratuita a personas de bajos y moderados ingresos en el Condado de SLO que tienen 60 años o más. <!-- Source: https://www.slolaf.org/seniorlaw -->
-Pueden ayudarle a navegar los problemas legales relacionados con asistencia de derechos de beneficios, protección del consumidor, discriminación de vivienda y prevención de desalojo, directivas médicas anticipadas y poder legal duradero, preparación de testamentos y órdenes de protección/restricción. <!-- Source: https://www.slolaf.org/seniorlaw -->
+Pueden ayudarle con problemas legales relacionados con asistencia de derechos de beneficios, protección del consumidor, discriminación de vivienda y prevención de desalojo, directivas médicas anticipadas y poder legal duradero, preparación de testamentos y órdenes de protección/restricción. <!-- Source: https://www.slolaf.org/seniorlaw -->
 A menudo realizan clínicas con cita previa en Centros para Personas Mayores locales, o puede contactar su oficina directamente a través de la [**SLO Legal Assistance Foundation (SLOLAF)**](Directory.md#SLO-Legal-Assistance-Foundation). <!-- Source: https://www.slolaf.org/seniorlaw -->
 
 ### <a id="tax-disputes">Disputas Fiscales</a>
@@ -3375,7 +3376,8 @@ El Condado de San Luis Obispo proporciona acceso Wi-Fi gratuito en todos los edi
 Tanto la oficina de [**5Cities Homeless Coalition**](Directory.md#5CHC) como el [**40 Prado Homeless Services Center**](Directory.md#40-Prado) (Centro de Servicios para Personas sin Hogar 40 Prado) ofrecen acceso a computadoras e internet a sus clientes. <!-- Source (5CHC) https://5chc.org/programs/information-and-referral-coordinated-entry -->
 
 El [**Paso Robles Senior Center**](Directory.md#Paso-Robles-Senior-Center) tiene dos computadoras que puede usar en el sitio, y ofrecen asistencia gratuita y sesiones de tutoría uno a uno incluyendo talleres especializados de Android e iPad/iPhone. <!-- Source: https://www.prcity.com/293/Senior-Services -->
-El [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) también tiene una computadora con acceso a internet que está disponible al público por orden de llegada. <!-- SOURCE NEEDED -->
+El [**Nipomo Senior Center**](Directory.md#Nipomo-Senior-Center) también tiene una computadora con acceso a internet que el público puede usar.
+La primera persona que llega la usa primero. <!-- SOURCE NEEDED -->
 
 [Computers with Causes](https://www.computerswithcauses.org/application/) tiene un “Free Computer Program” (Programa de Computadoras Gratis) con el cual puede obtener una computadora reacondicionada sin costo alguno.
 
