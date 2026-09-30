@@ -2352,8 +2352,8 @@ La página web [Reclamos menores en California](https://selfhelp.courts.ca.gov/e
 Puede obtener información y ayuda gratuita sobre asuntos de reclamos menores en el Condado de SLO del [**Small Claims Advisor**](Directory.md#SLO-County-Small-Claims-Advisor).
 Pueden ayudarle si está presentando un reclamo, respondiendo a un reclamo presentado en su contra, preparándose para su comparecencia en la corte, o cobrando un fallo a su favor.
 
-La Línea de Derecho de SLO ([805-548-8884](tel:+1-805-548-8884)) da consejos legales básicos gratuitos a personas que no pueden pagar un abogado, y puede ayudarle a encontrar asistencia legal adicional. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
-Llame para hacer una cita para una consulta telefónica. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
+La Línea de Derecho de SLO ([805-548-8884](tel:+1-805-548-8884)) da consejos legales básicos gratuitos a personas que no pueden pagar un abogado, y puede ayudarle a encontrar asistencia legal adicional. <!-- Source: https://slobarlris.org/slolawline/ -->
+Llame para hacer una cita para una consulta telefónica. <!-- Source: https://slobarlris.org/slolawline/ -->
 
 Los veteranos militares estadounidenses pueden obtener ayuda del sitio web [StateSideLegal](https://www.statesidelegal.org/), que tiene información sobre cómo presentar reclamos de beneficios y apelaciones de denegación, cómo defender reclamos de derechos civiles y otros asuntos legales. <!-- Source: https://www.statesidelegal.org/ -->
 

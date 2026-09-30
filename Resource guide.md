@@ -2352,8 +2352,8 @@ The state of California’s [Small claims in California](https://selfhelp.courts
 You can get free information and assistance about small claims matters in SLO County from the [**Small Claims Advisor**](Directory.md#SLO-County-Small-Claims-Advisor).
 They can help you if you are filing a claim, responding to a claim filed against you, preparing for your appearance in court, or collecting a judgment if your claim succeeds.
 
-The SLO Law Line ([805-548-8884](tel:+1-805-548-8884)) gives free basic legal advice to people who cannot afford an attorney, and can help you find additional legal assistance. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
-Call to make an appointment for a telephone consultation. <!-- Source: https://montereylaw.edu/clinics/sloclclinics.html -->
+The SLO Law Line ([805-548-8884](tel:+1-805-548-8884)) gives free basic legal advice to people who cannot afford an attorney, and can help you find additional legal assistance. <!-- Source: https://slobarlris.org/slolawline/ -->
+Call to make an appointment for a telephone consultation. <!-- Source: https://slobarlris.org/slolawline/ -->
 
 U.S. military veterans can get help from the [StateSideLegal](https://www.statesidelegal.org/) website, which has information about how to file benefits claims and denial appeals, how to defend civil rights claims, and other legal matters. <!-- Source: https://www.statesidelegal.org/ -->
 
