@@ -1447,7 +1447,7 @@
 - **Location:** <a href="#" class="map-link" data-lat="35.297443" data-lon="-120.660964" data-zoom="17" data-label="Front Porch">1468 E. Foothill, SLO</a> <!-- Source: https://www.frontporchslo.org/ -->
 - **Phone:** [805-316-4266](tel:+1-805-316-4266)
 - **Email:** [hello@frontporchslo.org](mailto:hello@frontporchslo.org) <!-- Source: https://www.frontporchslo.org/ -->
-- **Hours:** M–Th 7am–11pm, F 7am–4pm, Su 7am–6pm (depending on volunteer availability, likely closed during Cal Poly breaks) <!-- Source: visited in person and saw those hours taped to the door -->
+- **Hours:** M–Th 7am–10pm, F 7am–4pm, Su 7am–5pm (depending on volunteer availability, likely closed during Cal Poly breaks) <!-- Source: visited in person and saw those hours taped to the door -->
 - **How to access:** oriented toward students from Cuesta College or Cal Poly, but “Everyone is welcome.” <!-- Source: https://www.frontporchslo.org/ -->
 
 ## <a id="GALA">GALA Pride & Diversity Center</a>

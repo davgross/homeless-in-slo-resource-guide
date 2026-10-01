@@ -1733,7 +1733,7 @@
 - **Ubicación:** <a href="#" class="map-link" data-lat="35.297443" data-lon="-120.660964" data-zoom="17" data-label="Front Porch">1468 E. Foothill, SLO</a> <!-- Source: https://www.frontporchslo.org/ -->
 - **Teléfono:** [805-316-4266](tel:+1-805-316-4266)
 - **Correo electrónico:** [hello@frontporchslo.org](mailto:hello@frontporchslo.org) <!-- Source: https://www.frontporchslo.org/ -->
-- **Horario:** L–J 7am–11pm, V 7am–4pm, D 7am–6pm (dependiendo de la disponibilidad de voluntarios; es probable que esté cerrado durante las vacaciones de Cal Poly.) <!-- Source: visited in person and saw those hours taped to the door -->
+- **Horario:** L–J 7am–10pm, V 7am–4pm, D 7am–5pm (dependiendo de la disponibilidad de voluntarios; es probable que esté cerrado durante las vacaciones de Cal Poly.) <!-- Source: visited in person and saw those hours taped to the door -->
 - **Cómo obtener el servicio:** orientado a estudiantes de Cuesta College o Cal Poly, pero “Todos son bienvenidos.” <!-- Source: https://www.frontporchslo.org/ -->
 
 ## <a id="SLO-Noor-Foundation">La Fundación SLO Noor</a>
