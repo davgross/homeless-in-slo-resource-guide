@@ -110,7 +110,7 @@
       - Tuesdays 9:30–11:30am at <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">1320 Nipomo St. in SLO</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - Wednesdays 11:30am–1:30pm at Paso Robles [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr.</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - Wednesdays 3–6pm at Atascadero [**ECHO**](#ECHO) Shelter (<a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave.</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - Every other Thursday, 10am–1pm at [**Shower the People**](#Shower-the-People) in SLO (<a href="#" class="map-link" data-lat="35.269229" data-lon="-120.657617" data-zoom="17" data-label="Shower the People">2201 Lawton Ave., SLO</a>)
+      - One Thursday per month, 10am–1pm at [**Shower the People**](#Shower-the-People) in SLO (<a href="#" class="map-link" data-lat="35.269229" data-lon="-120.657617" data-zoom="17" data-label="Shower the People">2201 Lawton Ave., SLO</a>)
       - Second Sunday of the Month 10am–1pm at the <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library on Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
 - **Phone:** [805-781-3660](tel:+1-805-781-3660) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Email:** [theasnsupp@gmail.com](mailto:theasnsupp@gmail.com) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
@@ -1662,13 +1662,12 @@
 
 ## <a id="HiCAP">HiCAP (Health Insurance Counseling & Advocacy Program)</a>
 
-- **Website:** [centralcoastseniors.org/hicap](https://centralcoastseniors.org/hicap/)
+- **Website:** [aging.fsacares.org/programs/medicare-counseling](https://aging.fsacares.org/programs/medicare-counseling/)
 - **Locations:**
    - <a href="#" class="map-link" data-lat="35.278951" data-lon="-120.657079" data-zoom="17" data-label="HiCAP">1445 Santa Rosa St., SLO</a>
    - <a href="#" class="map-link" data-lat="34.947390" data-lon="-120.435627" data-zoom="17" data-label="HiCAP">528 S. Broadway, Santa Maria</a>
-- **Phone:** [805-928-5663](tel:+1-805-928-5663) / [800-434-0222](tel:+1-800-434-0222)
-- **Email:** [hicap@centralcoastseniors.org](mailto:hicap@centralcoastseniors.org)
-- **Hours:** M–F 8am–5pm
+- **Phone:** [805-842-5148](tel:+1-805-842-5148) <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/request-an-appointment/ -->
+- **Email:** [hicap@fsacares.org](mailto:hicap@fsacares.org) <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
 - **How to access:** Make an appointment by phone or by visiting the website.
 
 ## <a id="Homeless-Outreach-Full-Service-Partnership">Homeless Outreach Full Service Partnership</a>

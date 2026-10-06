@@ -1574,9 +1574,7 @@ HiCAP puede ayudarle a:
 - entender opciones de seguro de cuidado a largo plazo
 
 Para usar el programa local de HiCAP debe ser elegible para Medicare y debe ser residente de los condados de SLO o Santa Barbara. <!-- SOURCE NEEDED -->
-El programa HiCAP es gratis. <!-- Source: https://centralcoastseniors.org/hicap/ -->
-
-También puede enviar preguntas a través de un formulario web y recibir respuestas por correo electrónico: [“Ask a Medicare Question.”](https://centralcoastseniors.org/ask-a-medicare-question/)
+El programa HiCAP es gratis. <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/request-an-appointment/ -->
 
 #### Covered California / Obamacare
 
@@ -1651,7 +1649,7 @@ Llámelos o visite su oficina para detalles. <!-- Source: https://southbaysenior
 
 Los planes de descuento para medicamentos le permiten obtener recetas a precios reducidos.
 Puede obtener ayuda para encontrar los mejores planes de descuento para usted de [**Alianza para Acceso Farmacéutico**](Directory.md#APA), <!-- Source: https://apameds.org/what-we-do/ -->
-[**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP), <!-- Source: https://centralcoastseniors.org/medicare-part-d-drug-plan-finder-tool/ -->
+[**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP), <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
 [**NeedyMeds**](Directory.md#NeedyMeds), <!-- Source: https://needymeds.org/ -->
 o [**United Way**](Directory.md#United-Way). <!-- Source: https://unitedwayslo.org/prescription-drug-discount-cards/ -->
 
@@ -2267,10 +2265,10 @@ Debe tener un alta que no sea deshonrosa para usar este programa. <!-- Source: h
 
 > Vea la sección [Navegando Seguro Social / SSDI / SSI / Beneficios para Sobrevivientes](#navigating-social-security) para consejos específicos de esos programas.
 
-[**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP) ofrece información gratuita e imparcial sobre Medicare y sus opciones. <!-- Source: https://centralcoastseniors.org/hicap/ -->
-HiCAP también puede ayudarle a presentar apelaciones de denegación de Medicare. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+[**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP) ofrece información gratuita e imparcial sobre Medicare y sus opciones. <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
+HiCAP también puede ayudarle a presentar apelaciones de denegación de Medicare. <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
 Para usar el programa HiCAP local debe ser elegible para Medicare y debe ser residente de los condados de SLO o Santa Barbara. <!-- SOURCE NEEDED -->
-El programa HiCAP es gratuito. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+El programa HiCAP es gratuito. <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
 
 El programa [Centro de Consumidores de Salud](https://centralcallegal.org/health/) de Servicios Legales de California Central ([800-464-3111](tel:+1-800-464-3111)) ayuda a las personas a inscribirse y permanecer inscritas en programas de seguro de salud, ayuda a asegurar que esos programas cubran la atención médica que necesita y ayuda a personas que son facturadas incorrectamente o sujetas a acciones de cobro incorrectas debido a tratamiento médico. <!-- Source: https://centralcallegal.org/health/#hfaq-post-0 -->
 

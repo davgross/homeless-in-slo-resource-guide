@@ -1574,9 +1574,7 @@ HiCAP can help you:
 - understand long-term care insurance options
 
 To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties. <!-- SOURCE NEEDED -->
-The HiCAP program is free. <!-- Source: https://centralcoastseniors.org/hicap/ -->
-
-You can also submit questions to them via a web form and get answers by email: [“Ask a Medicare Question”](https://centralcoastseniors.org/ask-a-medicare-question/)
+The HiCAP program is free. <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/request-an-appointment/ -->
 
 #### Covered California / Obamacare
 
@@ -1651,7 +1649,7 @@ Call them or visit their office for details. <!-- Source: https://southbaysenior
 
 Drug discount plans allow you to get prescriptions at reduced prices.
 You can get help finding the best discount plans for you from [**Alliance for Pharmaceutical Access**](Directory.md#APA), <!-- Source: https://apameds.org/what-we-do/ -->
-[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP), <!-- Source: https://centralcoastseniors.org/medicare-part-d-drug-plan-finder-tool/ -->
+[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP), <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
 [**NeedyMeds**](Directory.md#NeedyMeds), <!-- Source: https://needymeds.org/ -->
 or [**United Way**](Directory.md#United-Way). <!-- Source: https://unitedwayslo.org/prescription-drug-discount-cards/ -->
 
@@ -2267,10 +2265,10 @@ You must have a discharge other than dishonorable to use this program. <!-- Sour
 
 > See the [Navigating Social Security / SSDI / SSI / Survivors Benefits](#navigating-social-security) section for advice specific to those programs.
 
-[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options. <!-- Source: https://centralcoastseniors.org/hicap/ -->
-HiCAP can also help you file Medicare denial appeals. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+[**Health Insurance Counseling & Advocacy Program (“HiCAP”)**](Directory.md#HiCAP) offers free and unbiased information about Medicare and its options. <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
+HiCAP can also help you file Medicare denial appeals. <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
 To use the local HiCAP program you must be eligible for Medicare and you must be a resident of SLO or Santa Barbara counties. <!-- SOURCE NEEDED -->
-The HiCAP program is free. <!-- Source: https://centralcoastseniors.org/hicap/ -->
+The HiCAP program is free. <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
 
 Central California Legal Services’ [Health Consumer Center](https://centralcallegal.org/health/) program ([800-464-3111](tel:+1-800-464-3111)) helps people enroll and stay enrolled in health insurance programs, helps make sure those programs cover the medical care you need, and helps people who are improperly billed or subject to improper collections actions because of medical treatment. <!-- Source: https://centralcallegal.org/health/#hfaq-post-0 -->
 

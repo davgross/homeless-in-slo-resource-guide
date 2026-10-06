@@ -110,7 +110,7 @@
       - los martes 9:30–11:30am en <a href="#" class="map-link" data-lat="35.013497" data-lon="-120.488581" data-zoom="17" data-label="Access Support Network">1320 Nipomo St. in SLO</a> <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - los miércoles 11:30am–1:30pm en Paso Robles [**ECHO**](#ECHO) Refugio (<a href="#" class="map-link" data-lat="35.645387" data-lon="-120.687569" data-zoom="17" data-label="El Camino Homeless Organization">1134 Black Oak Dr.</a>) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
       - los miércoles 3–6pm en Atascadero [**ECHO**](#ECHO) Refugio (<a href="#" class="map-link" data-lat="35.486312" data-lon="-120.670295" data-zoom="17" data-label="El Camino Homeless Organization">6370 Atascadero Ave.</a>)  <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
-      - cada jueves alternativo, 10am–1pm en [**Shower the People**](#Shower-the-People) en SLO (<a href="#" class="map-link" data-lat="35.269229" data-lon="-120.657617" data-zoom="17" data-label="Shower the People">2201 Lawton Ave., SLO</a>)
+      - un jueves al mes, 10am–1pm en [**Shower the People**](#Shower-the-People) en SLO (<a href="#" class="map-link" data-lat="35.269229" data-lon="-120.657617" data-zoom="17" data-label="Shower the People">2201 Lawton Ave., SLO</a>)
       - segundo domingo del mes, 10am–1pm en la <a href="#" class="map-link" data-lat="35.282806" data-lon="-120.661426" data-zoom="17" data-label="Access Support Network">SLO library en Palm St.</a> <!-- Source: part of the Vituity Cares pop-up health clinic at Shower the People -->
 - **Teléfono:** [805-781-3660](tel:+1-805-781-3660) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
 - **Correo electrónico:** [theasnsupp@gmail.com](mailto:theasnsupp@gmail.com) <!-- Source: https://accesssupportnetwork.org/san-luis-obispo/ -->
@@ -1948,13 +1948,12 @@
 
 ## <a id="HiCAP">HiCAP (programa de asesoría y apoyo en seguros de salud)</a>
 
-- **Sitio web:** [centralcoastseniors.org/hicap](https://centralcoastseniors.org/hicap/)
+- **Sitio web:** [aging.fsacares.org/programs/medicare-counseling](https://aging.fsacares.org/programs/medicare-counseling/)
 - **Ubicaciones:**
    - <a href="#" class="map-link" data-lat="35.278951" data-lon="-120.657079" data-zoom="17" data-label="HiCAP">1445 Santa Rosa St., SLO</a>
    - <a href="#" class="map-link" data-lat="34.947390" data-lon="-120.435627" data-zoom="17" data-label="HiCAP">528 S. Broadway, Santa Maria</a>
-- **Teléfono:** [805-928-5663](tel:+1-805-928-5663) / [800-434-0222](tel:+1-800-434-0222)
-- **Correo electrónico:** [hicap@centralcoastseniors.org](mailto:hicap@centralcoastseniors.org)
-- **Horario:** L–V 8am–5pm
+- **Teléfono:** [805-842-5148](tel:+1-805-842-5148) <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/request-an-appointment/ -->
+- **Correo electrónico:** [hicap@fsacares.org](mailto:hicap@fsacares.org) <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
 - **Cómo obtener el servicio:** Solicita cita por teléfono o visitando la web.
 
 ## <a id="Homeless-Outreach-Full-Service-Partnership">Homeless Outreach Full Service Partnership</a>
@@ -3294,7 +3293,7 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
 - **Correo electrónico:** [showerthepeopleslo@gmail.com](mailto:showerthepeopleslo@gmail.com)
 - Notas:
    - alojado por [**Lifepoint Church**](#Lifepoint-Church) y [**Unitarian Universalists San Luis Obispo**](#UUSLO) entre otros
-   - alberga a [**Access Support Network**](#ASN) cada jueves alternativo
+   - alberga a [**Access Support Network**](#ASN) un jueves al mes
    - alberga a la [**Clínica Móvil de Vituity Cares**](#Vituity-Cares-Mobile-Clinic) el segundo domingo del mes
 
 ## Sierra Vista Hospital
