@@ -4148,6 +4148,9 @@ El café [**Front Porch**](Directory.md#Front-Porch) en el campus de Cal Poly le
 
 Si es estudiante de [**Cuesta College**](Directory.md#Cuesta-College), puede obtener productos de higiene gratuitos, una bufanda, sombreros, mochilas, jabón para lavar ropa, productos de menstruación y a veces tarjetas de regalo para restaurantes de comida rápida de la [Basic Needs Office](https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html) (Oficina de Necesidades Básicas). <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
+Si es estudiante o miembro del personal de Cal Poly, puede obtener ropa, artículos de cocina, artículos para el hogar, útiles escolares y otras cosas gratis en una tienda de segunda mano en el campus llamada “The Loop”. <!-- Source: https://mustangnews.net/cal-poly-green-campus-loop/ -->
+The Loop está en el edificio de Cal Poly Surplus (<a href="#" class="map-link" data-lat="35.305214" data-lon="-120.670867" data-zoom="16" data-label="Cal Poly Surplus">edificio #82</a>) y abre los viernes de mediodía a 4pm durante el periodo de clases de Cal Poly. <!-- Source: email from greencampus@calpoly.edu, 1 Oct. 2026 -->
+
 El sitio web de craigslist de SLO tiene [una sección de “cosas gratis”](https://slo.craigslist.org/search/zip) llena de cosas que personas en el Condado de SLO están regalando.
 
 > Vea [Regalos de Temporada para Niños](#holiday-gifts-for-children) en la sección [Niños, Jóvenes y Personas con Hijos](#children-youth-parents) de esta guía para información sobre cómo obtener juguetes, abrigos, bicicletas y otros regalos gratuitos para sus hijos durante las festividades.
