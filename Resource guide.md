@@ -4147,6 +4147,9 @@ The [**Front Porch**](Directory.md#Front-Porch) cafe on the Cal Poly campus will
 
 If you are a [**Cuesta College**](Directory.md#Cuesta-College) student, you can get free hygiene products, a scarf, hats, backpacks, laundry soap, menstruation products, and sometimes gift cards to fast food restaurants from the [Basic Needs Office](https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html). <!-- Source: https://www.cuesta.edu/student-support/basic-needs-center/homeless-food-resources.html -->
 
+If you are a Cal Poly student or staff member, you can get free clothing, kitchenware, household items, school supplies, and other goods from an on-campus thrift store called “The Loop.” <!-- Source: https://mustangnews.net/cal-poly-green-campus-loop/ -->
+The Loop is in the Cal Poly Surplus building (<a href="#" class="map-link" data-lat="35.305214" data-lon="-120.670867" data-zoom="16" data-label="Cal Poly Surplus">building #82</a>), and is open on Fridays from noon to 4pm while Cal Poly is in session. <!-- Source: email from greencampus@calpoly.edu, 1 Oct. 2026 -->
+
 The SLO craigslist website has [a “free stuff” section](https://slo.craigslist.org/search/zip) full of things that people in SLO County are giving away.
 
 > See [Holiday Gifts for Children](#holiday-gifts-for-children) in the [Children, Youth, and People with Children](#children-youth-parents) section of this guide for information on how to get free toys, coats, bicycles, and other such gifts for your children during the holidays.
