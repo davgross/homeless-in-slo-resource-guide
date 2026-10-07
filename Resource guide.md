@@ -595,8 +595,6 @@ Affordable housing options for disabled / handicapped seniors can be found at:
 - Brizzolara St. Apartments (<a href="#" class="map-link" data-lat="35.280660" data-lon="-120.668432" data-zoom="17" data-label="Brizzolara Street Apartments">611 Brizzolara, SLO</a>) <!-- SOURCE NEEDED -->
 - Marvin Gardens (<a href="#" class="map-link" data-lat="35.262116" data-lon="-120.642638" data-zoom="17" data-label="Marvin Gardens">1105 Laurel Lane, SLO</a>) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 
-You can find additional [senior housing listings](https://centralcoastseniors.org/senior-independent-housing-options/) at the [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) website.
-
 If you need Assistive Living or Residential Care for the Elderly (RCFE) housing, there are some options in SLO County, but none of them accept Medi-Cal. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
 If you need such housing and Medi-Cal is your only health insurance, you can get on a waiting list for a facility outside of SLO County. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
 This is a lengthy process, so if you think you might need such a living situation in the future (even as long as a year or more from now), you should try to start this process now. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
@@ -1834,7 +1832,7 @@ These include testing, treatment, benefits counseling, help with insurance, harm
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
 -->
 
-The [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) offers a variety of services for seniors, including [**Senior Connection**](Directory.md#Senior-Connection) (an information and referral service), the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
+The [**Family Service Agency**](Directory.md#Family-Service-Agency) offers a variety of services for seniors, including [**Senior Connection**](Directory.md#Senior-Connection) (an information and referral service)<!--, the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC),--> and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
 They can help you with nutrition and meal services, transportation, and care management.
 
 [**Health Projects Center**](Directory.md#Health-Projects-Center) offers a [Multipurpose Senior Services Program](https://www.hpcn.org/mssp) for people aged 60 years and older who are eligible for Medi-Cal. <!-- Source: https://www.hpcn.org/mssp -->

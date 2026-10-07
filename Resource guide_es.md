@@ -596,8 +596,6 @@ Las opciones de vivienda asequible para personas mayores con discapacidades se p
 - Brizzolara St. Apartments (<a href="#" class="map-link" data-lat="35.280660" data-lon="-120.668432" data-zoom="17" data-label="Brizzolara Street Apartments">611 Brizzolara, SLO</a>) <!-- SOURCE NEEDED -->
 - Marvin Gardens (<a href="#" class="map-link" data-lat="35.262116" data-lon="-120.642638" data-zoom="17" data-label="Marvin Gardens">1105 Laurel Lane, SLO</a>) <!-- Source: https://centralcoastseniors.org/wp-content/uploads/subsidized-housing-list-slo.pdf -->
 
-Puede encontrar [listados adicionales de vivienda para personas mayores](https://centralcoastseniors.org/senior-independent-housing-options/) en el sitio web de [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens).
-
 Si necesita vivienda con vida asistida o cuidado residencial para ancianos (RCFE), hay algunas opciones en el condado de SLO, pero ninguna acepta Medi-Cal. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
 Si necesita este tipo de vivienda y Medi-Cal es su único seguro de salud, puede inscribirse en una lista de espera para un centro fuera del condado de SLO. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
 Este es un proceso largo, así que si cree que podría necesitar este tipo de vivienda en el futuro (incluso dentro de un año o más), debe intentar iniciar este proceso ahora. <!-- Source: Collaborative Outreach Meeting on 5 Nov 2025 -->
@@ -1850,7 +1848,7 @@ Estos incluyen pruebas, tratamiento, asesoramiento de beneficios, ayuda con segu
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
 -->
 
-La [**Central Coast Commission for Senior Citizens**](Directory.md#Central-Coast-Commission-for-Senior-Citizens) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia), el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC) y el [**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP).
+[**Family Service Agency**](Directory.md#Family-Service-Agency) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia)<!--, el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC),--> y el [**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP).
 Pueden ayudarle con nutrición y servicios de comidas, transporte y gestión de cuidado.
 
 El [**Centro de Proyectos de Salud**](Directory.md#Health-Projects-Center) ofrece un [Programa de Servicios Multipropósito para Personas Mayores](https://www.hpcn.org/mssp) (MSSP) para personas de 60 años o más que son elegibles para Medi-Cal. <!-- Source: https://www.hpcn.org/mssp -->

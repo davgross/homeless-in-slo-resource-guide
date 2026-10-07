@@ -826,17 +826,13 @@
 
 ## <a id="Central-Coast-Commission-for-Senior-Citizens">Central Coast Commission for Senior Citizens</a>
 
-- **Website:** [centralcoastseniors.org](https://www.centralcoastseniors.org/)
 - **Location:** <a href="#" class="map-link" data-lat="34.948009" data-lon="-120.436107" data-zoom="17" data-label="Central Coast Commission for Senior Citizens">528 S. Broadway, Santa Maria</a> <!-- Source: https://centralcoastseniors.org/contact-us/ -->
 - **Phone:**
    - [805-925-9554](tel:+1-805-925-9554) <!-- Source: https://centralcoastseniors.org/contact-us/ -->
    - [800-434-0222](tel:+1-800-434-0222)
 - **Email:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
 - **Hours:** M–F 8am–5pm
-- Notes:
-   - operates [**Senior Connection**](#Senior-Connection)
-   - operates [**HiCAP**](#HiCAP)
-   - operates [**Central Coast Aging & Disability Resource Center**](#CCADRC)
+- Note: operates [**Central Coast Aging & Disability Resource Center**](#CCADRC)
 
 ## <a id="CCDS">Central Coast Dental Society</a>
 
@@ -1377,6 +1373,14 @@
 ## FamilyPACT
 
 > *See [**Planned Parenthood**](#Planned-Parenthood)*
+
+## <a id="Family-Service-Agency">Family Service Agency</a>
+
+- **Website:** [aging.fsacares.org](https://aging.fsacares.org/)
+- **Phone:** [805-842-5148](tel:+1-805-842-5148)
+- Notes:
+   - Operates [**HiCAP**](#HiCAP)
+   - Operates [**Senior Connection**](#Senior-Connection)
 
 ## First Presbyterian Church
 
@@ -3132,15 +3136,8 @@ If you see one listed here that is no longer in service, please use the feedback
 
 ## <a id="Senior-Connection">Senior Connection</a>
 
-- **Website:** [centralcoastseniors.org/senior-connection](https://centralcoastseniors.org/senior-connection/)
-- **Location:** <a href="#" class="map-link" data-lat="34.947346" data-lon="-120.435439" data-zoom="17" data-label="Senior Connection">528 S. Broadway, Santa Maria</a> <!-- Source: https://centralcoastseniors.org/contact-us/ -->
-- **Phone:**
-   - [800-510-2020](tel:+1-800-510-2020) <!-- Source: https://centralcoastseniors.org/senior-connection/ -->
-   - [805-928-2552](tel:+1-805-928-2552) <!-- Source: https://centralcoastseniors.org/senior-connection/ask-a-question/ -->
-   - [805-928-9554](tel:+1-805-928-9554) <!-- Source: https://centralcoastseniors.org/contact-us/ -->
-- **Email:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
-- **Hours:** M–F 8am–5pm <!-- Source: https://centralcoastseniors.org/senior-connection/ask-a-question/ -->
-- **How to access:** Walk-ins OK.
+- **Website:** [aging.fsacares.org/programs/senior-connection](https://aging.fsacares.org/programs/senior-connection/)
+- **Phone:** [805-842-5148](tel:+1-805-842-5148) <!-- Source: https://aging.fsacares.org/programs/senior-connection/ -->
 
 ## <a id="Senior-Go">Senior Go!</a>
 
