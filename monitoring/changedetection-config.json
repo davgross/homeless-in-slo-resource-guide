@@ -774,6 +774,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "/\\*\\ \\d+,\\d+\\ youth\\ and\\ adults\\ served\\ directly\\ each\\ year\\ through\\ workforce\\ development\\ programs\\./",
+        "/\\*\\ \\d+,\\d+\\+\\ individuals\\ are\\ supported\\ annually\\ through\\ One\\-Stop\\ Career\\ Centers\\ with\\ access\\ to\\ training,\\ career\\ services,\\ and\\ business\\ engagement\\./"
+      ],
       "include_filters": [
         "#ajax-content-wrap",
         "#footer_top_area"
@@ -3874,15 +3878,6 @@
       "processor": "text_json_diff",
       "url": "https://www.goodsamaritanshelter.org/who-we-are-1"
     },
-    "333e2ded-91ca-4817-8bcf-1fdbdbfd8f7b": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://tools.usps.com/zip-code-lookup.htm"
-    },
     "33696973-ec06-4238-a7e4-cada70643590": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -4212,6 +4207,10 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "/\\*\\ \\d+,\\d+\\ youth\\ and\\ adults\\ served\\ directly\\ each\\ year\\ through\\ workforce\\ development\\ programs\\./",
+        "/\\*\\ \\d+,\\d+\\+\\ individuals\\ are\\ supported\\ annually\\ through\\ One\\-Stop\\ Career\\ Centers\\ with\\ access\\ to\\ training,\\ career\\ services,\\ and\\ business\\ engagement\\./"
+      ],
       "include_filters": [
         "#ajax-content-wrap"
       ],
@@ -5253,9 +5252,6 @@
       "ignore_text": [
         "Incident ID:",
         "You reached this page when trying to access"
-      ],
-      "include_filters": [
-        "#content"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -6713,9 +6709,19 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "ignore_text": [
+        "* CAPTCHA"
+      ],
+      "include_filters": [
+        "main",
+        "footer section.widget_text"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "#gform_wrapper_3"
+      ],
       "url": "https://smwisdomcenter.org/ecm/"
     },
     "5a7ab76e-0f84-4e94-9b6a-9ba7d324d650": {
@@ -9511,15 +9517,6 @@
       "processor": "text_json_diff",
       "url": "https://www.goodsamaritanshelter.org/"
     },
-    "7ebc75e1-4b53-4613-9a0e-015d27046d7e": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.rooseveltfamilyapts.com/"
-    },
     "7ed5ed11-553a-4e54-a988-7300c447f01f": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -9856,15 +9853,6 @@
       "notification_format": "System default",
       "processor": "text_json_diff",
       "url": "https://centralcoastseniors.myresourcedirectory.com/index.php/component/cpx/?task=search.query&view=&page=3&search_history_id=262840967&unit_list=0&akaSort=0&query=%20&simple_query=&code=BT&limit=&name="
-    },
-    "819b6a14-9f1a-4551-b317-00622d62dd78": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.slocounty.ca.gov/departments/social-services/homeless-services-division/homeless-services-oversight-council/hsoc-membership/forms-documents/2024/hsoc-membership-application-form"
     },
     "81bc145c-0f2f-4300-a5dc-a1f022221fa4": {
       "filter_text_added": true,
@@ -12269,15 +12257,6 @@
       "processor": "text_json_diff",
       "url": "https://montereylaw.edu/clinics/indexslocl.html"
     },
-    "a611f4a4-fbb3-4668-a108-9b6fd35037ff": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://atascaderonews.com/news/first-modular-units-arrive-for-balay-ko-family-resource-center/"
-    },
     "a62676b3-fcb9-40e8-a503-bc7548e2dee5": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -14477,6 +14456,9 @@
       "filter_text_added": true,
       "filter_text_removed": true,
       "filter_text_replaced": true,
+      "include_filters": [
+        ".contact-numbers"
+      ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
@@ -14856,7 +14838,7 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".global-footer__contact"
+        ".address"
       ],
       "method": "GET",
       "notification_format": "System default",
@@ -16325,15 +16307,6 @@
       "processor": "text_json_diff",
       "url": "https://capslo.org/ssvf/"
     },
-    "d9507874-3529-4b20-8908-6111232e935a": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.housekeys19.com/"
-    },
     "d95c58d1-0154-4517-847c-d166b69d8a5f": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -16394,15 +16367,6 @@
         ".mabel-bhi-businesshours"
       ],
       "url": "https://www.sesloc.org/member-services/locations/"
-    },
-    "da5d022a-7f2b-48d4-bba5-34f4ca851b3a": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "url": "https://www.cdc.gov/nchs/w2w/index.htm"
     },
     "daa623ef-33ce-4e8e-acec-743f50b02f0a": {
       "filter_text_added": true,
@@ -16902,33 +16866,6 @@
       "processor": "text_json_diff",
       "url": "https://www.va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/"
     },
-    "e17b5b76-17c1-4c57-95f3-72a718445ced": {
-      "filter_text_added": true,
-      "filter_text_removed": true,
-      "filter_text_replaced": true,
-      "ignore_text": [
-        "Starting soon",
-        "In progress",
-        "Enroll Now",
-        "View fee details",
-        "/\\d+\\ space\\(s\\)\\ left/",
-        "Full",
-        "Enroll Now"
-      ],
-      "include_filters": [
-        "#main-content-body"
-      ],
-      "method": "GET",
-      "notification_format": "System default",
-      "processor": "text_json_diff",
-      "subtractive_selectors": [
-        ".page-header",
-        ".activity-search__global-search",
-        ".activity-search__search-filters",
-        ".activity-results-header"
-      ],
-      "url": "https://anc.apm.activecommunities.com/prcityrecreation/activity/search?onlineSiteId=0&locale=en-US&activity_select_param=2&activity_category_ids=8&activity_category_ids=13&viewMode=list"
-    },
     "e1f635de-14fb-4a38-9578-a4619beb6f5e": {
       "filter_text_added": true,
       "filter_text_removed": true,
@@ -17224,11 +17161,16 @@
       "filter_text_removed": true,
       "filter_text_replaced": true,
       "include_filters": [
-        ".sidebar__content"
+        "section.home-hero",
+        "div.wp-block-column:nth-child(1)",
+        ".pb-2 > div:nth-child(1)"
       ],
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
+      "subtractive_selectors": [
+        "ul.social"
+      ],
       "url": "https://helphopelive.org/contact/"
     },
     "e5771e47-662e-4c7b-afe2-cc91a7c0074e": {
@@ -17722,7 +17664,7 @@
       "method": "GET",
       "notification_format": "System default",
       "processor": "text_json_diff",
-      "url": "https://montereylaw.edu/clinics/sloclclinics.html"
+      "url": "https://montereylaw.edu/clinics/indexslocl.html"
     },
     "ee21a3ba-2234-4c40-a734-008d713815dd": {
       "filter_text_added": true,
