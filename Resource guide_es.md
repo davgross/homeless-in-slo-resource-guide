@@ -966,7 +966,7 @@ Algunos mercados de agricultores locales duplicarán hasta $15 en beneficios de 
 | SLO (Madonna)      | sábado por la mañana |
 | Templeton          | sábado por la mañana |
 
-El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) también proporciona tarjetas de débito E-WIC con las que puede comprar ciertos tipos de alimentos en mercados de agricultores y tiendas de alimentos aprobadas por WIC. <!-- Sources: https://www.osi.ca.gov/eWIC.html and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
+El programa [**Women, Infants, and Children (WIC)**](Directory.md#WIC) también proporciona tarjetas de débito WIC con las que puede comprar ciertos tipos de alimentos en mercados de agricultores y tiendas de alimentos aprobadas por WIC. <!-- Sources: https://myfamily.wic.ca.gov/Home/WICCardAndApp and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
 Puede solicitar WIC en las oficinas de WIC del condado con cita previa, o visitando el [**SLO Food Bank**](Directory.md#SLO-Food-Bank) el tercer viernes del mes entre 1pm y 4pm.
 
 ### <a id="edible-wild-plants">Plantas Silvestres Comestibles</a>
