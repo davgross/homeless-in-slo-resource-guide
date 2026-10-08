@@ -966,7 +966,7 @@ Some local farmers markets will double up to $15 in CalFresh benefits that you s
 | SLO (Madonna)      | Saturday morning    |
 | Templeton          | Saturday morning    |
 
-The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also provides E-WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries. <!-- Sources: https://www.osi.ca.gov/eWIC.html and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
+The [**Women, Infants, and Children (WIC)**](Directory.md#WIC) program also provides WIC debit cards with which you can buy certain types of food from farmers markets and WIC-approved groceries. <!-- Sources: https://myfamily.wic.ca.gov/Home/WICCardAndApp and https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/WICFoods.aspx -->
 You can apply for WIC at the county WIC offices by appointment, or by visiting the [**SLO Food Bank**](Directory.md#SLO-Food-Bank) on the third Friday of the month between 1pm and 4pm.
 
 ### <a id="edible-wild-plants">Edible Wild Plants</a>
