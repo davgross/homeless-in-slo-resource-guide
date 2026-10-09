@@ -1832,7 +1832,7 @@ These include testing, treatment, benefits counseling, help with insurance, harm
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
 -->
 
-The [**Family Service Agency**](Directory.md#Family-Service-Agency) offers a variety of services for seniors, including [**Senior Connection**](Directory.md#Senior-Connection) (an information and referral service)<!--, the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC),--> and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
+The [**Family Service Agency**](Directory.md#Family-Service-Agency) offers a variety of services for seniors, including [**Senior Connection**](Directory.md#Senior-Connection) (an information and referral service), the [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC), and the [**Health Insurance Counseling & Advocacy Program**](Directory.md#HiCAP).
 They can help you with nutrition and meal services, transportation, and care management.
 
 [**Health Projects Center**](Directory.md#Health-Projects-Center) offers a [Multipurpose Senior Services Program](https://www.hpcn.org/mssp) for people aged 60 years and older who are eligible for Medi-Cal. <!-- Source: https://www.hpcn.org/mssp -->
@@ -4176,7 +4176,7 @@ Some other groups assemble resource guides like this one.
 Some have a different focus (for instance, they highlight resources for seniors or for veterans) or cover a different region.
 Here are some of these local guides:
 
-- [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): a comprehensive guide covering services for seniors in SLO and Santa Barbara Counties. Also exists as a searchable online directory at [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
+- [*Central Coast Senior Resource Guide*](https://navigateresources.net/ccsc/): a searchable online directory of services for seniors in SLO and Santa Barbara Counties. <!-- Source: https://navigateresources.net/ccsc/ -->
 - [*North County Senior Resource Guide*](https://www.prcity.com/293/Senior-Services): available in English and Spanish; covers education, meals, housing, in-home care, transportation, mental health, legal support, financial assistance, recreation, and healthcare
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): United Way’s directory of SLO County resources

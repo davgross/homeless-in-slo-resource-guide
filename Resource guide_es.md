@@ -1848,7 +1848,7 @@ Estos incluyen pruebas, tratamiento, asesoramiento de beneficios, ayuda con segu
 [**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO)’s “Senior Health Screening” program includes screenings for blood pressure, anemia, hemoccult stool test, blood sugar levels, total cholesterol (lipid panels by appointment only), and nutritional counseling.
 -->
 
-[**Family Service Agency**](Directory.md#Family-Service-Agency) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia)<!--, el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC),--> y el [**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP).
+[**Family Service Agency**](Directory.md#Family-Service-Agency) ofrece una variedad de servicios para personas mayores, incluyendo [**Senior Connection**](Directory.md#Senior-Connection) (un servicio de información y referencia), el [**Central Coast Aging & Disability Resource Center**](Directory.md#CCADRC) y el [**HiCAP (programa de asesoría y apoyo en seguros de salud)**](Directory.md#HiCAP).
 Pueden ayudarle con nutrición y servicios de comidas, transporte y gestión de cuidado.
 
 El [**Centro de Proyectos de Salud**](Directory.md#Health-Projects-Center) ofrece un [Programa de Servicios Multipropósito para Personas Mayores](https://www.hpcn.org/mssp) (MSSP) para personas de 60 años o más que son elegibles para Medi-Cal. <!-- Source: https://www.hpcn.org/mssp -->
@@ -4177,7 +4177,7 @@ Algunos otros grupos ensamblan guías de recursos como esta.
 Algunos tienen un enfoque diferente (por ejemplo, destacan recursos para personas mayores o para veteranos) o cubren una región diferente.
 Aquí hay algunas de estas guías locales:
 
-- [*Central Coast Senior Resource Guide*](https://centralcoastseniors.org/senior-connection/resources/publications/): una guía integral que cubre servicios para personas mayores en los Condados de SLO y Santa Barbara. También existe como un directorio en línea con búsqueda en [centralcoastseniors.myresourcedirectory.com](https://centralcoastseniors.myresourcedirectory.com/).
+- [*Central Coast Senior Resource Guide*](https://navigateresources.net/ccsc/): un directorio en línea con búsqueda de servicios para personas mayores en los Condados de SLO y Santa Barbara. <!-- Source: https://navigateresources.net/ccsc/ -->
 - [*Guía de Recursos para Mayores Personas del Condado del Norte*](https://www.prcity.com/293/Senior-Services): disponible en inglés y español; cubre educación, comidas, vivienda, cuidado en el hogar, transporte, salud mental, apoyo legal, asistencia financiera, recreación y atención médica
 - [*San Luis Obispo County Mental Health Resource Guide*](https://static1.squarespace.com/static/59681974579fb3a01279b99b/t/691783a98308c513367e2078/1763148713791/MHRG+-+MASTER+UPDATE+-+11-15-25.pdf)
 - [211 SLO County](https://211slo.org/): directorio de recursos del Condado de SLO de United Way
