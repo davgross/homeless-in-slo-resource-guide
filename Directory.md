@@ -96,7 +96,8 @@
 
 - **Website:** [accesscentralcoast.org](https://accesscentralcoast.org/)
 - **Location:** <a href="#" class="map-link" data-lat="35.2508747" data-lon="-120.6726201" data-zoom="17" data-label="Access Central Coast">51 Zaca Ln. #140, SLO</a> <!-- Source: https://accesscentralcoast.org/about-us/contact-information.php -->
-- **Phone:** [805-462-1162](tel:+1-805-462-1162) (videophone: [805-464-3203](tel:+1-805-464-3203)) <!-- Source: https://accesscentralcoast.org/about-us/contact-information.php -->
+- **Phone:**
+   - [805-462-1162](tel:+1-805-462-1162) (videophone: [805-464-3203](tel:+1-805-464-3203)) <!-- Source: https://accesscentralcoast.org/about-us/contact-information.php -->
 - **Email:** [info@accesscentralcoast.org](mailto:info@accesscentralcoast.org) <!-- Source: https://accesscentralcoast.org/ -->
 - **Hours:** M–F: 9am–noon & 1–5pm (but closed every other Friday)
 - Note: Formerly known as the “Independent Living Resource Center”
@@ -792,15 +793,14 @@
 
 ## <a id="CCADRC">Central Coast Aging & Disability Resource Center (CCADRC)</a>
 
-- **Website:** [centralcoastseniors.org/aging-and-disability-resource-center](https://centralcoastseniors.org/aging-and-disability-resource-center/)
-- **Location:** <a href="#" class="map-link" data-lat="34.948009" data-lon="-120.436107" data-zoom="17" data-label="CCADRC">528 S. Broadway, Santa Maria</a>
-- **Phone:** [805-928-2552](tel:+1-805-928-2552) / [800-510-2020](tel:+1-800-510-2020) <!-- Source: https://centralcoastseniors.org/aging-and-disability-resource-center/ -->
-- **Email:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org) <!-- Source: https://centralcoastseniors.org/aging-and-disability-resource-center/ -->
+- **Website:** [www.accesscentralcoast.org/adrc](https://www.accesscentralcoast.org/adrc/)
+- **Location:** <a href="#" class="map-link" data-lat="34.953354" data-lon="-120.437487" data-zoom="17" data-label="CCADRC">105 N. Lincoln St., Santa Maria</a>
+- **Phone:** [805-842-5148](tel:+1-805-842-5148)
 - **Hours:** M–F 8am–5pm (closed Noon–1pm)
-- **How to access:** Walk-ins OK.
+- **How to access:** Walk-ins OK, but it is better to call ahead.
 - Notes:
    - partner in [**Access Central Coast**](#Access-Central-Coast)
-   - operated by [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)
+   - operated by [**Family Services Agency**](#Family-Service-Agency)
 
 ## <a id="CCATC">Central Coast Assistive Technology Center</a>
 
@@ -827,16 +827,6 @@
    - Cal Poly DREAM Center contact: Vania Agama Ramirez
    - Cuesta Monarch DREAM Center: [805-546-3109](tel:+1-805-546-3109)
    - Allan Hancock: [805-922-6966 x3178](tel:+1-805-922-6966;ext=3178)
-
-## <a id="Central-Coast-Commission-for-Senior-Citizens">Central Coast Commission for Senior Citizens</a>
-
-- **Location:** <a href="#" class="map-link" data-lat="34.948009" data-lon="-120.436107" data-zoom="17" data-label="Central Coast Commission for Senior Citizens">528 S. Broadway, Santa Maria</a> <!-- Source: https://centralcoastseniors.org/contact-us/ -->
-- **Phone:**
-   - [805-925-9554](tel:+1-805-925-9554) <!-- Source: https://centralcoastseniors.org/contact-us/ -->
-   - [800-434-0222](tel:+1-800-434-0222)
-- **Email:** [info@centralcoastseniors.org](mailto:info@centralcoastseniors.org)
-- **Hours:** M–F 8am–5pm
-- Note: operates [**Central Coast Aging & Disability Resource Center**](#CCADRC)
 
 ## <a id="CCDS">Central Coast Dental Society</a>
 
@@ -987,10 +977,6 @@
 | <a href="#" class="map-link" data-lat="35.278378" data-lon="-120.662853" data-zoom="17" data-label="CoastHills Credit Union">751 Marsh St., SLO</a> | M–Th 9am–5pm, F 9am–6pm |
 
 - **Phone:** [805-733-7600](tel:+1-805-733-7600) / [800-262-4488](tel:+1-800-262-4488) <!-- Source: https://coasthills.coop/ -->
-
-## Commission for Senior Citizens
-
-> *See [**Central Coast Commission for Senior Citizens**](#Central-Coast-Commission-for-Senior-Citizens)*
 
 ## <a id="CAPSLO">Community Action Partnership San Luis Obispo (CAPSLO)</a>
 
@@ -1384,6 +1370,7 @@
 - **Phone:** [805-842-5148](tel:+1-805-842-5148)
 - Notes:
    - The “Area Agency on Aging”
+   - Operates [**Central Coast Aging & Disability Resource Center**](#CCADRC)
    - Operates [**HiCAP**](#HiCAP)
    - Operates [**Senior Connection**](#Senior-Connection)
 
@@ -1674,7 +1661,7 @@
 - **Website:** [aging.fsacares.org/programs/medicare-counseling](https://aging.fsacares.org/programs/medicare-counseling/)
 - **Locations:**
    - <a href="#" class="map-link" data-lat="35.278951" data-lon="-120.657079" data-zoom="17" data-label="HiCAP">1445 Santa Rosa St., SLO</a>
-   - <a href="#" class="map-link" data-lat="34.947390" data-lon="-120.435627" data-zoom="17" data-label="HiCAP">528 S. Broadway, Santa Maria</a>
+   - <a href="#" class="map-link" data-lat="34.953354" data-lon="-120.437487" data-zoom="17" data-label="HiCAP">105 N. Lincoln St., Santa Maria</a>
 - **Phone:** [805-842-5148](tel:+1-805-842-5148) <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/request-an-appointment/ -->
 - **Email:** [hicap@fsacares.org](mailto:hicap@fsacares.org) <!-- Source: https://aging.fsacares.org/programs/medicare-counseling/ -->
 - **How to access:** Make an appointment by phone or by visiting the website.
