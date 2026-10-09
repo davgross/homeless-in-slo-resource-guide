@@ -317,6 +317,10 @@
 
 > *See [**Restorative Partners**](#Restorative-Partners)*
 
+## Area Agency on Aging
+
+> *See [**Family Service Agency**](#Family-Service-Agency)*
+
 ## <a id="Arroyo-Grande-Community-Hospital">Arroyo Grande Community Hospital</a>
 
 > *See also [**Dignity Health**](#Dignity-Health)*
@@ -933,7 +937,7 @@
 - **Email:**
    - [lisa@childrensresourcenetwork.org](mailto:lisa@childrensresourcenetwork.org) <!-- Source: https://www.volunteerslo.org/agency/detail/?agency_id=31613 -->
    - [info@childrensresourcenetwork.org](mailto:info@childrensresourcenetwork.org) <!-- Source: https://clothingcloset.org/contact/ -->
-- **Hours** (Children’s Closet): Tu 2–4pm <!-- Source: https://www.findhelp.org/provider/children's-resource-network-of-the-central-coast--arroyo-grande-ca/5071021801996288 — third-party listing, not yet confirmed with the agency; hours are not listed on clothingcloset.org -->
+- **Hours** (Children’s Closet): Tu 2–4pm <!-- Source: https://www.findhelp.org/provider/children's-resource-network-of-the-central-coast--arroyo-grande-ca/5071021801996288 — third-party listing, not yet confirmed with the agency; hours are not listed on clothingcloset.org -->
 - Note: You do not need an appointment or a referral. You can walk in. <!-- Source: https://www.findhelp.org/provider/children's-resource-network-of-the-central-coast--arroyo-grande-ca/5071021801996288 -->
 - Note: Operates “Outreach Apparel” and “The Teen’s Closet”
 
@@ -1379,6 +1383,7 @@
 - **Website:** [aging.fsacares.org](https://aging.fsacares.org/)
 - **Phone:** [805-842-5148](tel:+1-805-842-5148)
 - Notes:
+   - The “Area Agency on Aging”
    - Operates [**HiCAP**](#HiCAP)
    - Operates [**Senior Connection**](#Senior-Connection)
 
