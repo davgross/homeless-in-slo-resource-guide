@@ -1198,6 +1198,9 @@ The [**American Cancer Society**](Directory.md#American-Cancer-Society)’s [“
 Call several days in advance of your appointment to reserve your ride. <!-- Source: https://www.cancer.org/support-programs-and-services/road-to-recovery.html -->
 [**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) also can help SLO County cancer patients with transportation assistance. <!-- Source: email from Shauna Soltero, May 2026 -->
 
+[**Cambria’s Anonymous Neighbors (CAN)**](Directory.md#Cambrias-Anonymous-Neighbors) arranges medical appointment rides within SLO County for residents of Cambria or San Simeon.
+Call them at least four days in advance of your appointment to schedule a ride. <!-- Source: https://www.joslynrec.org/CAN/index.html -->
+
 ### <a id="transportation-for-immigrants">Transportation for Immigrants</a>
 
 Immigrants can get safe rides to medical appointments, lawyer appointments, court appearances, ICE check-ins, consulate visits, fingerprinting, social services visits, etc., from “Drivers Listos.” <!-- Source: flyer at SLO library -->

@@ -1198,6 +1198,9 @@ El programa [“Camino a la Recuperación”](https://www.cancer.org/support-pro
 Llame varios días antes de su cita para reservar su viaje. <!-- Source: https://www.cancer.org/support-programs-and-services/road-to-recovery.html -->
 El [**Hearst Cancer Resource Center**](Directory.md#Hearst-Cancer-Resource-Center) también puede ayudar a pacientes con cáncer del Condado de SLO con asistencia de transporte. <!-- Source: email from Shauna Soltero, May 2026 -->
 
+[**Cambria’s Anonymous Neighbors (CAN)**](Directory.md#Cambrias-Anonymous-Neighbors) organiza viajes a citas médicas dentro del Condado de SLO para residentes de Cambria o San Simeon.
+Llámeles al menos cuatro días antes de su cita para programar un viaje. <!-- Source: https://www.joslynrec.org/CAN/index.html -->
+
 ### <a id="transportation-for-immigrants">Transporte para Inmigrantes</a>
 
 Los inmigrantes pueden obtener transporte seguro a citas médicas, citas con abogados, comparecencias judiciales, registros de ICE, visitas al consulado, toma de huellas dactilares, visitas a servicios sociales, etc., a través de “Drivers Listos.” <!-- Source: flyer posted at the SLO library -->
