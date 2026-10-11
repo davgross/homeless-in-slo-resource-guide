@@ -348,7 +348,7 @@ El registro es entre las 7pm y 9pm. <!-- Source: https://capslo.org/40-prado-war
 Debe irse antes de las 7am. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Hay espacio para solo 12 personas. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Debe estar registrado con CAPSLO Homeless Services. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-El [**personal de alcance comunitario**](Directory.md#Outreach-and-Engagement-Services) de CAPSLO decide quién puede quedarse allí. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+El personal de alcance comunitario de CAPSLO decide quién puede quedarse allí. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Si se va, no puede regresar esa noche. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Solo se permiten animales de servicio registrados, y deben tener sus vacunas. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Recibirá una cama, ropa limpia, una ducha caliente y una comida caliente. <!-- Source: https://capslo.org/40-prado-warming-center/ -->

@@ -348,7 +348,7 @@ Check in between 7pm and 9pm. <!-- Source: https://capslo.org/40-prado-warming-c
 You must leave by 7am. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 It has room for only 12 people. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 You must be registered with CAPSLO Homeless Services. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-CAPSLO [**outreach staff**](Directory.md#Outreach-and-Engagement-Services) choose who can stay there. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+CAPSLO outreach staff choose who can stay there. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 If you leave, you cannot return that night. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Only registered service animals are allowed, and they must have their vaccinations. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 You will get a bed, clean clothes, a hot shower, and a hot meal. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
