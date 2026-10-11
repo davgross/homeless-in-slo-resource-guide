@@ -1269,6 +1269,7 @@
    - opera “Home and Energy Services”
    - opera [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - opera “Low Income Home Energy Assistance Program (LIHEAP)”
+   - opera el “Morro Bay Warming Center” en el Motel 6, <a href="#" class="map-link" data-lat="35.379400" data-lon="-120.856717" data-zoom="17" data-label="Morro Bay Warming Center">298 Atascadero Rd., Morro Bay</a> <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - opera [**Outreach & Engagement Services**](#Outreach-and-Engagement-Services)
    - opera [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center)
    - opera [**Paso Robles Senior Center**](#Paso-Robles-Senior-Center) <!-- Source: https://www.newtimesslo.com/capslo-to-take-over-operation-of-paso-robles-senior-center/ -->

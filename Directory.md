@@ -1007,6 +1007,7 @@
    - operates “Home and Energy Services”
    - operates [**Liberty Tattoo Removal Program**](#Liberty-Tattoo-Removal-Program)
    - operates “Low Income Home Energy Assistance Program (LIHEAP)”
+   - operates the “Morro Bay Warming Center” at Motel 6, <a href="#" class="map-link" data-lat="35.379400" data-lon="-120.856717" data-zoom="17" data-label="Morro Bay Warming Center">298 Atascadero Rd., Morro Bay</a> <!-- Source: https://capslo.org/40-prado-warming-center/ -->
    - operates [**Outreach & Engagement Services**](#Outreach-and-Engagement-Services)
    - operates [**Paso Robles Family Resource Center**](#North-County-Family-Resource-Center)
    - operates [**Paso Robles Senior Center**](#Paso-Robles-Senior-Center) <!-- Source: https://www.newtimesslo.com/capslo-to-take-over-operation-of-paso-robles-senior-center/ -->

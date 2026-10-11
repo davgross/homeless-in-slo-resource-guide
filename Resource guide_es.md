@@ -341,11 +341,17 @@ Cuando opera como centro de enfriamiento, debe irse antes de las 6pm. <!-- Sourc
 Los huéspedes del centro de enfriamiento pueden obtener desayuno, almuerzo y cena. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 Se permiten mascotas con vacunas contra la rabia en su perrera. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 El centro de calefacción ofrece una comida caliente gratuita. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-Hay transporte disponible entre el centro de calefacción y Morro Bay y Los Osos. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-Los horarios de recogida de esas áreas son los siguientes: <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+<!-- Shuttles between Morro Bay/Los Osos and 40 Prado no longer listed on CAPSLO page as of 2026-10-11 (Morro Bay now has its own warming center; see issue #452). That page still says “The Morro Bay Warming Center will also be hosted at 40 Prado, with transportation provided to and from Morro Bay,” but this seems to be left over from the old arrangement. -->
 
-- 6:15pm: Morro Bay Park (<a href="#" class="map-link" data-lat="35.366428" data-lon="-120.844717" data-zoom="17" data-label="Warming Center Shuttle">734 Harbor St., Morro Bay</a>) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
-- 6:00pm: South Bay Community Center (<a href="#" class="map-link" data-lat="35.312849" data-lon="-120.836370" data-zoom="17" data-label="Warming Center Shuttle">2180 Palisades Ave., Los Osos</a>) <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+[**Community Action Partnership San Luis Obispo (CAPSLO)**](Directory.md#CAPSLO) también tiene un centro de calefacción en Morro Bay, en el Motel 6 (<a href="#" class="map-link" data-lat="35.379400" data-lon="-120.856717" data-zoom="17" data-label="Morro Bay Warming Center">298 Atascadero Rd., Morro Bay</a>). <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+El registro es entre las 7pm y 9pm. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Debe irse antes de las 7am. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Hay espacio para solo 12 personas. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Debe estar registrado con CAPSLO Homeless Services. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+El [**personal de alcance comunitario**](Directory.md#Outreach-and-Engagement-Services) de CAPSLO decide quién puede quedarse allí. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Si se va, no puede regresar esa noche. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Solo se permiten animales de servicio registrados, y deben tener sus vacunas. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
+Recibirá una cama, ropa limpia, una ducha caliente y una comida caliente. <!-- Source: https://capslo.org/40-prado-warming-center/ -->
 
 El centro de calefacción de [**5Cities Homeless Coalition**](Directory.md#5CHC) en <a href="#" class="map-link" data-lat="35.118597" data-lon="-120.594462" data-zoom="17" data-label="5CHC Warming Center">1023 E. Grand Ave. en Arroyo Grande</a> opera entre las 5:30pm y 7am. <!-- Source: https://5chc.org/programs/warming-center -->
 Debe registrarse entre las 5:30pm y 8pm. <!-- Source: https://www.instagram.com/countyofslo/ -->
