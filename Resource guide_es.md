@@ -3740,15 +3740,7 @@ Contacte a [libby@thebroadwaydietitian.com](mailto:libby@thebroadwaydietitian.co
 
 ### <a id="glbtq-peer-support">LGBTQ</a>
 
-El [**GALA Pride & Diversity Center**](Directory.md#GALA) mantiene [una lista de grupos de apoyo](https://galacc.org/resources/#support), incluyendo:
-
-- **Grupo de apoyo mensual trans/genderqueer dirigido por terapeuta**—contacte a [laurenphelpsmft@gmail.com](mailto:laurenphelpsmft@gmail.com) para más información
-- **“Q” Youth** (grados 6–12)—contacte a [youthdirector@galacc.org](mailto:youthdirector@galacc.org) o visite GALA cualquier jueves de 6–8pm sin cita previa
-- [Grupo de apoyo para adolescentes trans y de género no conforme](https://1af473-cd.myshopify.com/pages/tcc-youth-support-group)
-- [Grupo de apoyo para adultos trans y de género no conforme](https://1af473-cd.myshopify.com/pages/tcc-tuesdays-adult-support-group)
-- [Grupo de apoyo para personas transmasculinas y de género no conforme con identificación masculina](https://1af473-cd.myshopify.com/pages/tcc-transmasc-support-group)
-- **LGBT Seniors** (Adultos Mayores LGBT)—tercer miércoles del mes 4:30–6:30pm en GALA o por Zoom
-- **Stand Out Parent Support Group**—para padres de jóvenes LGBTQ+; contacte a [email@galacc.org](mailto:email@galacc.org) para más información
+El [**GALA Pride & Diversity Center**](Directory.md#GALA) mantiene [una lista de grupos de apoyo](https://galacc.org/resources/#support).
 
 ### <a id="parenthood-peer-support">Embarazo y Paternidad/Maternidad</a>
 
