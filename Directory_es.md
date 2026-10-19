@@ -3847,15 +3847,6 @@ Si ve uno listado aquí que ya no está en servicio, por favor use el botón de 
    - opera “VetWell”
    - punto de entrada para el [**Coordinated Entry System (CES)**](#CES)
 
-<!-- Not referenced anywhere else yet
-## <a id="TranzCentralCoast">TranzCentralCoast</a>
-
-- **Sitio web:** [tranzcentralcoast.org](https://www.tranzcentralcoast.org/) {not working as of 2 Dec 2025}
-- **Ubicación:** <a href="#" class="map-link" data-lat="35.283421" data-lon="-120.661309" data-zoom="17" data-label="TranzCentralCoast">1060 Palm St., SLO</a>
-- **Teléfono:** [805-242-3821](tel:+1-805-242-3821) { Source: https://www.facebook.com/tranz.coast/ }
-- **Correo electrónico:** [TranzCentralCoast@gmail.com](mailto:TranzCentralCoast@gmail.com) { Source: https://www.facebook.com/tranz.coast/ }
--->
-
 ## <a id="Tri-Counties-Regional-Center">Tri Counties Regional Center</a>
 
 - **Sitio web:** [tri-counties.org](https://www.tri-counties.org)
