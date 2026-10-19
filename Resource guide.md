@@ -2639,7 +2639,7 @@ You can find contact information for embassies and consulates at [embassy.goabro
 
 Here are some tips for handling important documents:
 
-- Use your phone camera to take photos of important documents, and save those photos “in the cloud” (iCloud for iPhone, Google Photos for Android) so still have access to your photos if your phone is lost or stolen.
+- Use your phone camera to take photos of important documents, and save those photos “in the cloud” (iCloud for iPhone, Google Photos for Android) so you still have access to your photos if your phone is lost or stolen.
 - Make copies of important documents, and store the copies separately from the originals.
   That way if you lose one set, you are less likely to lose all of them.
 - Some homeless services centers offer document storage for their clients.
