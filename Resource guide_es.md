@@ -3740,7 +3740,7 @@ Contacte a [libby@thebroadwaydietitian.com](mailto:libby@thebroadwaydietitian.co
 
 ### <a id="glbtq-peer-support">LGBTQ</a>
 
-El [**GALA Pride & Diversity Center**](Directory.md#GALA) mantiene [una lista de grupos de apoyo](https://galacc.org/resources/#support):
+El [**GALA Pride & Diversity Center**](Directory.md#GALA) mantiene [una lista de grupos de apoyo](https://galacc.org/resources/#support).
 
 ### <a id="parenthood-peer-support">Embarazo y Paternidad/Maternidad</a>
 
